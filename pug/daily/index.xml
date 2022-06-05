@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pug Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:53:04Z</updated>
+  <updated>2022-06-05T01:54:26Z</updated>
   <subtitle>Daily Trending of Pug in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Einundzwanzig-Podcast/einundzwanzig.space</title>
-    <updated>2022-06-04T01:53:04Z</updated>
-    <id>tag:github.com,2022-06-04:/Einundzwanzig-Podcast/einundzwanzig.space</id>
-    <link href="https://github.com/Einundzwanzig-Podcast/einundzwanzig.space" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Einundzwanzig Podcast Website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StartBootstrap/startbootstrap-landing-page</title>
+    <updated>2022-06-05T01:54:26Z</updated>
+    <id>tag:github.com,2022-06-05:/StartBootstrap/startbootstrap-landing-page</id>
+    <link href="https://github.com/StartBootstrap/startbootstrap-landing-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A responsive, Bootstrap landing page template created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

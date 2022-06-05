@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ZAP Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:29:53Z</updated>
+  <updated>2022-06-05T02:30:51Z</updated>
   <subtitle>Weekly Trending of ZAP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
     <title>project-chip/zap</title>
-    <updated>2022-06-04T02:29:53Z</updated>
-    <id>tag:github.com,2022-06-04:/project-chip/zap</id>
+    <updated>2022-06-05T02:30:51Z</updated>
+    <id>tag:github.com,2022-06-05:/project-chip/zap</id>
     <link href="https://github.com/project-chip/zap" rel="alternate"></link>
     <summary type="html">&lt;p&gt;ZAP is Zigbee Cluster Library configuration tool and generator. It allows users to configure their ZCL application using web-like interface and then generate the required artifacts for this application, based upon the templates inside a given ZCL SDK.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:54:19Z</updated>
+  <updated>2022-06-05T01:55:41Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Maradonna90/NewGAN-Manager</title>
-    <updated>2022-06-04T01:54:19Z</updated>
-    <id>tag:github.com,2022-06-04:/Maradonna90/NewGAN-Manager</id>
-    <link href="https://github.com/Maradonna90/NewGAN-Manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool to generate and manage xml configs for the Newgen Facepack.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tsingui/clover-efi</title>
+    <updated>2022-06-05T01:55:41Z</updated>
+    <id>tag:github.com,2022-06-05:/tsingui/clover-efi</id>
+    <link href="https://github.com/tsingui/clover-efi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;分享整理一些黑苹果Clover驱动配置文件&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

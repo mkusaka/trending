@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:21:08Z</updated>
+  <updated>2022-06-05T02:22:03Z</updated>
   <subtitle>Weekly Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FlipsideCrypto/ethereum-models</title>
-    <updated>2022-06-04T02:21:08Z</updated>
-    <id>tag:github.com,2022-06-04:/FlipsideCrypto/ethereum-models</id>
-    <link href="https://github.com/FlipsideCrypto/ethereum-models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethereum Facelift 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>digoal/blog</title>
+    <updated>2022-06-05T02:22:03Z</updated>
+    <id>tag:github.com,2022-06-05:/digoal/blog</id>
+    <link href="https://github.com/digoal/blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Everything about database,business.(Most for PostgreSQL).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>anthonydb/practical-sql-2</title>
-    <updated>2022-06-04T02:21:08Z</updated>
-    <id>tag:github.com,2022-06-04:/anthonydb/practical-sql-2</id>
-    <link href="https://github.com/anthonydb/practical-sql-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code and Data for the Second Edition of &#34;Practical SQL&#34; by Anthony DeBarros, published by No Starch Press (2022).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>duneanalytics/abstractions</title>
+    <updated>2022-06-05T02:22:03Z</updated>
+    <id>tag:github.com,2022-06-05:/duneanalytics/abstractions</id>
+    <link href="https://github.com/duneanalytics/abstractions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQL views for Dune&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>supabase/pg_graphql</title>
-    <updated>2022-06-04T02:21:08Z</updated>
-    <id>tag:github.com,2022-06-04:/supabase/pg_graphql</id>
-    <link href="https://github.com/supabase/pg_graphql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GraphQL support for PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TryGhost/node-sqlite3</title>
+    <updated>2022-06-05T02:22:03Z</updated>
+    <id>tag:github.com,2022-06-05:/TryGhost/node-sqlite3</id>
+    <link href="https://github.com/TryGhost/node-sqlite3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Asynchronous, non-blocking SQLite3 bindings for Node.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

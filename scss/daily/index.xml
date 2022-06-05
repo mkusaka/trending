@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:55:25Z</updated>
+  <updated>2022-06-05T01:56:42Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>compose-spec/compose-spec</title>
-    <updated>2022-06-04T01:55:25Z</updated>
-    <id>tag:github.com,2022-06-04:/compose-spec/compose-spec</id>
-    <link href="https://github.com/compose-spec/compose-spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Compose specification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prakhar1989/docker-curriculum</title>
+    <updated>2022-06-05T01:56:42Z</updated>
+    <id>tag:github.com,2022-06-05:/prakhar1989/docker-curriculum</id>
+    <link href="https://github.com/prakhar1989/docker-curriculum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐬 A comprehensive tutorial on getting started with Docker!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pin4eva/envo</title>
-    <updated>2022-06-04T01:55:25Z</updated>
-    <id>tag:github.com,2022-06-04:/pin4eva/envo</id>
-    <link href="https://github.com/pin4eva/envo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rivers State ICT (Techcreek) Codegaminator 10.0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>2factorauth/twofactorauth</title>
+    <updated>2022-06-05T01:56:42Z</updated>
+    <id>tag:github.com,2022-06-05:/2factorauth/twofactorauth</id>
+    <link href="https://github.com/2factorauth/twofactorauth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pages-themes/cayman</title>
-    <updated>2022-06-04T01:55:25Z</updated>
-    <id>tag:github.com,2022-06-04:/pages-themes/cayman</id>
-    <link href="https://github.com/pages-themes/cayman" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cayman is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wowchemy/wowchemy-hugo-themes</title>
+    <updated>2022-06-05T01:56:42Z</updated>
+    <id>tag:github.com,2022-06-05:/wowchemy/wowchemy-hugo-themes</id>
+    <link href="https://github.com/wowchemy/wowchemy-hugo-themes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 Hugo website builder, Hugo themes &amp; Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

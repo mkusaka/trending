@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:56:16Z</updated>
+  <updated>2022-06-05T01:57:28Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust</title>
-    <updated>2022-06-04T01:56:16Z</updated>
-    <id>tag:github.com,2022-06-04:/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust</id>
-    <link href="https://github.com/aws-samples/Load-testing-your-workload-running-on-Amazon-EKS-with-Locust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains example code for creating EKS clusters and installing necessary addons such as Cluster Autoscaler and AWS Load Balancer Controller and Locust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>supabase-community/supabase-kubernetes</title>
-    <updated>2022-06-04T01:56:16Z</updated>
-    <id>tag:github.com,2022-06-04:/supabase-community/supabase-kubernetes</id>
-    <link href="https://github.com/supabase-community/supabase-kubernetes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm 3 charts to deploy a Supabase on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>catenax-ng/product-core-managed-identity-wallets-cd</title>
+    <updated>2022-06-05T01:57:28Z</updated>
+    <id>tag:github.com,2022-06-05:/catenax-ng/product-core-managed-identity-wallets-cd</id>
+    <link href="https://github.com/catenax-ng/product-core-managed-identity-wallets-cd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

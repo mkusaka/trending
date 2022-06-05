@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:40:21Z</updated>
+  <updated>2022-06-05T01:42:37Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sile/jsone</title>
-    <updated>2022-06-04T01:40:21Z</updated>
-    <id>tag:github.com,2022-06-04:/sile/jsone</id>
-    <link href="https://github.com/sile/jsone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang JSON library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kivra/money_laundry</title>
+    <updated>2022-06-05T01:42:37Z</updated>
+    <id>tag:github.com,2022-06-05:/kivra/money_laundry</id>
+    <link href="https://github.com/kivra/money_laundry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💸 Erlang Currency and money laundering functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nomasystems/nqueue</title>
-    <updated>2022-06-04T01:40:21Z</updated>
-    <id>tag:github.com,2022-06-04:/nomasystems/nqueue</id>
-    <link href="https://github.com/nomasystems/nqueue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang library to spawn/manage queues based on ETS public tables.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kivra/sftp_utils</title>
+    <updated>2022-06-05T01:42:37Z</updated>
+    <id>tag:github.com,2022-06-05:/kivra/sftp_utils</id>
+    <link href="https://github.com/kivra/sftp_utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang SFTP Utils&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nomasystems/nhooks</title>
-    <updated>2022-06-04T01:40:21Z</updated>
-    <id>tag:github.com,2022-06-04:/nomasystems/nhooks</id>
-    <link href="https://github.com/nomasystems/nhooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang hooks library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WhatsApp/erlfmt</title>
+    <updated>2022-06-05T01:42:37Z</updated>
+    <id>tag:github.com,2022-06-05:/WhatsApp/erlfmt</id>
+    <link href="https://github.com/WhatsApp/erlfmt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An automated code formatter for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

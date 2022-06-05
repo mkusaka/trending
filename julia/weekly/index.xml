@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:15:18Z</updated>
+  <updated>2022-06-05T02:16:12Z</updated>
   <subtitle>Weekly Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaPlots/Plots.jl</title>
-    <updated>2022-06-04T02:15:18Z</updated>
-    <id>tag:github.com,2022-06-04:/JuliaPlots/Plots.jl</id>
-    <link href="https://github.com/JuliaPlots/Plots.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Powerful convenience for Julia visualizations and data analysis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaRegistries/General</title>
+    <updated>2022-06-05T02:16:12Z</updated>
+    <id>tag:github.com,2022-06-05:/JuliaRegistries/General</id>
+    <link href="https://github.com/JuliaRegistries/General" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official registry of general Julia packages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaGPU/CUDA.jl</title>
-    <updated>2022-06-04T02:15:18Z</updated>
-    <id>tag:github.com,2022-06-04:/JuliaGPU/CUDA.jl</id>
-    <link href="https://github.com/JuliaGPU/CUDA.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CUDA programming in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaComputing/HTTPDownloads.jl</title>
+    <updated>2022-06-05T02:16:12Z</updated>
+    <id>tag:github.com,2022-06-05:/JuliaComputing/HTTPDownloads.jl</id>
+    <link href="https://github.com/JuliaComputing/HTTPDownloads.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use Downloads.jl as a backend for HTTP.jl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaLang/julia</title>
+    <updated>2022-06-05T02:16:12Z</updated>
+    <id>tag:github.com,2022-06-05:/JuliaLang/julia</id>
+    <link href="https://github.com/JuliaLang/julia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

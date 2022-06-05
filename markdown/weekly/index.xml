@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:17:21Z</updated>
+  <updated>2022-06-05T02:18:15Z</updated>
   <subtitle>Weekly Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apple/swift-evolution</title>
+    <updated>2022-06-05T02:18:15Z</updated>
+    <id>tag:github.com,2022-06-05:/apple/swift-evolution</id>
+    <link href="https://github.com/apple/swift-evolution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>labuladong/fucking-algorithm</title>
+    <updated>2022-06-05T02:18:15Z</updated>
+    <id>tag:github.com,2022-06-05:/labuladong/fucking-algorithm</id>
+    <link href="https://github.com/labuladong/fucking-algorithm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mdn/content</title>
+    <updated>2022-06-05T02:18:15Z</updated>
+    <id>tag:github.com,2022-06-05:/mdn/content</id>
+    <link href="https://github.com/mdn/content" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The content behind MDN Web Docs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

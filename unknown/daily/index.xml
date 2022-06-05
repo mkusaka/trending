@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:32:32Z</updated>
+  <updated>2022-06-05T01:34:34Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tmplink/ipv6</title>
-    <updated>2022-06-04T01:32:32Z</updated>
-    <id>tag:github.com,2022-06-04:/tmplink/ipv6</id>
-    <link href="https://github.com/tmplink/ipv6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A document about ipv6.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MunGell/awesome-for-beginners</title>
+    <updated>2022-06-05T01:34:34Z</updated>
+    <id>tag:github.com,2022-06-05:/MunGell/awesome-for-beginners</id>
+    <link href="https://github.com/MunGell/awesome-for-beginners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of awesome beginners-friendly projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>florinpop17/app-ideas</title>
-    <updated>2022-06-04T01:32:32Z</updated>
-    <id>tag:github.com,2022-06-04:/florinpop17/app-ideas</id>
-    <link href="https://github.com/florinpop17/app-ideas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Collection of application ideas which can be used to improve your coding skills.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>guilhermemm-dev/links</title>
+    <updated>2022-06-05T01:34:34Z</updated>
+    <id>tag:github.com,2022-06-05:/guilhermemm-dev/links</id>
+    <link href="https://github.com/guilhermemm-dev/links" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lista colaborativa de sites e ferramentas úteis para desenvolvedores (que sejam preferencialmente gratuitas/livres).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codecrafters-io/build-your-own-x</title>
-    <updated>2022-06-04T01:32:32Z</updated>
-    <id>tag:github.com,2022-06-04:/codecrafters-io/build-your-own-x</id>
-    <link href="https://github.com/codecrafters-io/build-your-own-x" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Master programming by recreating your favorite technologies from scratch.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jeffhill/Dota2</title>
+    <updated>2022-06-05T01:34:34Z</updated>
+    <id>tag:github.com,2022-06-05:/jeffhill/Dota2</id>
+    <link href="https://github.com/jeffhill/Dota2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public Bug Tracker for Dota2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:36:36Z</updated>
+  <updated>2022-06-05T01:38:26Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ribelo/praxis</title>
-    <updated>2022-06-04T01:36:36Z</updated>
-    <id>tag:github.com,2022-06-04:/ribelo/praxis</id>
-    <link href="https://github.com/ribelo/praxis" rel="alternate"></link>
+    <title>babashka/cli</title>
+    <updated>2022-06-05T01:38:26Z</updated>
+    <id>tag:github.com,2022-06-05:/babashka/cli</id>
+    <link href="https://github.com/babashka/cli" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Turn Clojure functions into CLIs!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kaitanie/joblog</title>
+    <updated>2022-06-05T01:38:26Z</updated>
+    <id>tag:github.com,2022-06-05:/kaitanie/joblog</id>
+    <link href="https://github.com/kaitanie/joblog" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zk/clojuredocs</title>
-    <updated>2022-06-04T01:36:36Z</updated>
-    <id>tag:github.com,2022-06-04:/zk/clojuredocs</id>
-    <link href="https://github.com/zk/clojuredocs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;clojuredocs.org web app&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>puppetlabs/puppetserver</title>
-    <updated>2022-06-04T01:36:36Z</updated>
-    <id>tag:github.com,2022-06-04:/puppetlabs/puppetserver</id>
-    <link href="https://github.com/puppetlabs/puppetserver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Server automation framework and application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thheller/shadow-cljs</title>
+    <updated>2022-06-05T01:38:26Z</updated>
+    <id>tag:github.com,2022-06-05:/thheller/shadow-cljs</id>
+    <link href="https://github.com/thheller/shadow-cljs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ClojureScript compilation made easy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

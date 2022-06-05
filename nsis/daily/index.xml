@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NSIS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:50:02Z</updated>
+  <updated>2022-06-05T01:51:28Z</updated>
   <subtitle>Daily Trending of NSIS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>voicemxil/TS2-Starter-Pack</title>
-    <updated>2022-06-04T01:50:02Z</updated>
-    <id>tag:github.com,2022-06-04:/voicemxil/TS2-Starter-Pack</id>
-    <link href="https://github.com/voicemxil/TS2-Starter-Pack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources for download &amp; setup of TS2: Ultimate Collection.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devkitPro/installer</title>
+    <updated>2022-06-05T01:51:28Z</updated>
+    <id>tag:github.com,2022-06-05:/devkitPro/installer</id>
+    <link href="https://github.com/devkitPro/installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenVPN/openvpn-build</title>
+    <updated>2022-06-05T01:51:28Z</updated>
+    <id>tag:github.com,2022-06-05:/OpenVPN/openvpn-build</id>
+    <link href="https://github.com/OpenVPN/openvpn-build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenVPN Build&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

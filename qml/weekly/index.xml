@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:22:29Z</updated>
+  <updated>2022-06-05T02:23:24Z</updated>
   <subtitle>Weekly Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>customskinlol/cslol-manager</title>
+    <updated>2022-06-05T02:23:24Z</updated>
+    <id>tag:github.com,2022-06-05:/customskinlol/cslol-manager</id>
+    <link href="https://github.com/customskinlol/cslol-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>qt/qtquicktimeline</title>
+    <updated>2022-06-05T02:23:24Z</updated>
+    <id>tag:github.com,2022-06-05:/qt/qtquicktimeline</id>
+    <link href="https://github.com/qt/qtquicktimeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Module for keyframe-based timeline construction.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Swordfish90/cool-retro-term</title>
+    <updated>2022-06-05T02:23:24Z</updated>
+    <id>tag:github.com,2022-06-05:/Swordfish90/cool-retro-term</id>
+    <link href="https://github.com/Swordfish90/cool-retro-term" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A good looking terminal emulator which mimics the old cathode display...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

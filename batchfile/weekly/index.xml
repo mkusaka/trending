@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:05:48Z</updated>
+  <updated>2022-06-05T02:06:55Z</updated>
   <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kkkgo/LTSC-Add-MicrosoftStore</title>
-    <updated>2022-06-04T02:05:48Z</updated>
-    <id>tag:github.com,2022-06-04:/kkkgo/LTSC-Add-MicrosoftStore</id>
-    <link href="https://github.com/kkkgo/LTSC-Add-MicrosoftStore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add Windows Store for LTSC&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>massgravel/Microsoft-Activation-Scripts</title>
+    <updated>2022-06-05T02:06:55Z</updated>
+    <id>tag:github.com,2022-06-05:/massgravel/Microsoft-Activation-Scripts</id>
+    <link href="https://github.com/massgravel/Microsoft-Activation-Scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>brochen218/freerdp</title>
-    <updated>2022-06-04T02:05:48Z</updated>
-    <id>tag:github.com,2022-06-04:/brochen218/freerdp</id>
-    <link href="https://github.com/brochen218/freerdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>enhorse/java-interview</title>
+    <updated>2022-06-05T02:06:55Z</updated>
+    <id>tag:github.com,2022-06-05:/enhorse/java-interview</id>
+    <link href="https://github.com/enhorse/java-interview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Вопросы и ответы к интервью Java разработчика&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Dreeg/Creazione-.doc-con-numero-progressivo</title>
-    <updated>2022-06-04T02:05:48Z</updated>
-    <id>tag:github.com,2022-06-04:/Dreeg/Creazione-.doc-con-numero-progressivo</id>
-    <link href="https://github.com/Dreeg/Creazione-.doc-con-numero-progressivo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mr-xn/RedTeam_BlueTeam_HW</title>
+    <updated>2022-06-05T02:06:55Z</updated>
+    <id>tag:github.com,2022-06-05:/Mr-xn/RedTeam_BlueTeam_HW</id>
+    <link href="https://github.com/Mr-xn/RedTeam_BlueTeam_HW" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

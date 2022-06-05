@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:54:56Z</updated>
+  <updated>2022-06-05T01:56:21Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nvim-treesitter/nvim-treesitter-textobjects</title>
-    <updated>2022-06-04T01:54:56Z</updated>
-    <id>tag:github.com,2022-06-04:/nvim-treesitter/nvim-treesitter-textobjects</id>
-    <link href="https://github.com/nvim-treesitter/nvim-treesitter-textobjects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SmiteshP/nvim-gps</title>
-    <updated>2022-06-04T01:54:56Z</updated>
-    <id>tag:github.com,2022-06-04:/SmiteshP/nvim-gps</id>
-    <link href="https://github.com/SmiteshP/nvim-gps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple statusline component that shows what scope you are working inside&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RRethy/nvim-treesitter-textsubjects</title>
-    <updated>2022-06-04T01:54:56Z</updated>
-    <id>tag:github.com,2022-06-04:/RRethy/nvim-treesitter-textsubjects</id>
-    <link href="https://github.com/RRethy/nvim-treesitter-textsubjects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Location and syntax aware text objects which *do what you mean*&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

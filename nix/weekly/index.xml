@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:19:05Z</updated>
+  <updated>2022-06-05T02:19:59Z</updated>
   <subtitle>Weekly Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>input-output-hk/haskell.nix</title>
-    <updated>2022-06-04T02:19:05Z</updated>
-    <id>tag:github.com,2022-06-04:/input-output-hk/haskell.nix</id>
-    <link href="https://github.com/input-output-hk/haskell.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alternative Haskell Infrastructure for Nixpkgs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nix-community/home-manager</title>
+    <updated>2022-06-05T02:19:59Z</updated>
+    <id>tag:github.com,2022-06-05:/nix-community/home-manager</id>
+    <link href="https://github.com/nix-community/home-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage a user environment using Nix [maintainer=@rycee]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nix-community/NixOS-WSL</title>
-    <updated>2022-06-04T02:19:05Z</updated>
-    <id>tag:github.com,2022-06-04:/nix-community/NixOS-WSL</id>
-    <link href="https://github.com/nix-community/NixOS-WSL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NixOS on WSL(2) [maintainer=@nzbr]&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mitchellh/nixos-config</title>
+    <updated>2022-06-05T02:19:59Z</updated>
+    <id>tag:github.com,2022-06-05:/mitchellh/nixos-config</id>
+    <link href="https://github.com/mitchellh/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My NixOS configurations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NixOS/nixpkgs</title>
+    <updated>2022-06-05T02:19:59Z</updated>
+    <id>tag:github.com,2022-06-05:/NixOS/nixpkgs</id>
+    <link href="https://github.com/NixOS/nixpkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix Packages collection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

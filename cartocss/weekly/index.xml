@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CartoCSS Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:07:04Z</updated>
+  <updated>2022-06-05T02:08:08Z</updated>
   <subtitle>Weekly Trending of CartoCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gravitystorm/openstreetmap-carto</title>
+    <updated>2022-06-05T02:08:08Z</updated>
+    <id>tag:github.com,2022-06-05:/gravitystorm/openstreetmap-carto</id>
+    <link href="https://github.com/gravitystorm/openstreetmap-carto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A general-purpose OpenStreetMap mapnik style, in CartoCSS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

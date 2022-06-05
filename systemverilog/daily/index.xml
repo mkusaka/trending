@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:57:38Z</updated>
+  <updated>2022-06-05T01:58:57Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spark2k06/PCXT_MiSTer</title>
+    <updated>2022-06-05T01:58:57Z</updated>
+    <id>tag:github.com,2022-06-05:/spark2k06/PCXT_MiSTer</id>
+    <link href="https://github.com/spark2k06/PCXT_MiSTer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PCXT port for MiSTer by spark2k06.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pulp-platform/snitch</title>
+    <updated>2022-06-05T01:58:57Z</updated>
+    <id>tag:github.com,2022-06-05:/pulp-platform/snitch</id>
+    <link href="https://github.com/pulp-platform/snitch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lean but mean RISC-V system!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

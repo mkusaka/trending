@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:57:12Z</updated>
+  <updated>2022-06-05T01:58:23Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oslabs-beta/Svelvet</title>
-    <updated>2022-06-04T01:57:12Z</updated>
-    <id>tag:github.com,2022-06-04:/oslabs-beta/Svelvet</id>
-    <link href="https://github.com/oslabs-beta/Svelvet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight Svelte component library for building interactive node-based flow diagrams&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>beromir/Servas</title>
+    <updated>2022-06-05T01:58:23Z</updated>
+    <id>tag:github.com,2022-06-05:/beromir/Servas</id>
+    <link href="https://github.com/beromir/Servas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A self-hosted bookmark management tool.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>windmill-labs/windmill</title>
-    <updated>2022-06-04T01:57:12Z</updated>
-    <id>tag:github.com,2022-06-04:/windmill-labs/windmill</id>
-    <link href="https://github.com/windmill-labs/windmill" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windmill is an OSS developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-source-labs/SvelteStorm</title>
+    <updated>2022-06-05T01:58:23Z</updated>
+    <id>tag:github.com,2022-06-05:/open-source-labs/SvelteStorm</id>
+    <link href="https://github.com/open-source-labs/SvelteStorm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SvelteStorm is an open-source IDE with a built-in State Manager window for viewing your svelte project in real-time&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ANovokmet/svelte-gantt</title>
-    <updated>2022-06-04T01:57:12Z</updated>
-    <id>tag:github.com,2022-06-04:/ANovokmet/svelte-gantt</id>
-    <link href="https://github.com/ANovokmet/svelte-gantt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📆 Interactive JavaScript Gantt chart/resource booking component&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oslabs-beta/Svve11</title>
+    <updated>2022-06-05T01:58:23Z</updated>
+    <id>tag:github.com,2022-06-05:/oslabs-beta/Svve11</id>
+    <link href="https://github.com/oslabs-beta/Svve11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open source accessibility Svelte component library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

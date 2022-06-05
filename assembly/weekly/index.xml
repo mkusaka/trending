@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:05:29Z</updated>
+  <updated>2022-06-05T02:06:37Z</updated>
   <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mbbarbosa/libsnark-supercop</title>
-    <updated>2022-06-04T02:05:29Z</updated>
-    <id>tag:github.com,2022-06-04:/mbbarbosa/libsnark-supercop</id>
-    <link href="https://github.com/mbbarbosa/libsnark-supercop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Subset of the supercop (http://bench.cr.yp.to/supercop.html) sources used in the libsnark ADSNARK demonstrating example.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kanaka/mal</title>
+    <updated>2022-06-05T02:06:37Z</updated>
+    <id>tag:github.com,2022-06-05:/kanaka/mal</id>
+    <link href="https://github.com/kanaka/mal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mal - Make a Lisp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xiph/rav1e</title>
-    <updated>2022-06-04T02:05:29Z</updated>
-    <id>tag:github.com,2022-06-04:/xiph/rav1e</id>
-    <link href="https://github.com/xiph/rav1e" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The fastest and safest AV1 encoder.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chrislgarry/Apollo-11</title>
+    <updated>2022-06-05T02:06:37Z</updated>
+    <id>tag:github.com,2022-06-05:/chrislgarry/Apollo-11</id>
+    <link href="https://github.com/chrislgarry/Apollo-11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vxunderground/MalwareSourceCode</title>
+    <updated>2022-06-05T02:06:37Z</updated>
+    <id>tag:github.com,2022-06-05:/vxunderground/MalwareSourceCode</id>
+    <link href="https://github.com/vxunderground/MalwareSourceCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of malware source code for a variety of platforms in an array of different programming languages.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

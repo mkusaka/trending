@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:52:12Z</updated>
+  <updated>2022-06-05T01:53:39Z</updated>
   <subtitle>Daily Trending of PLSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tanelpoder/tpt-oracle</title>
+    <updated>2022-06-05T01:53:39Z</updated>
+    <id>tag:github.com,2022-06-05:/tanelpoder/tpt-oracle</id>
+    <link href="https://github.com/tanelpoder/tpt-oracle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tanel Poder&#39;s Troubleshooting &amp; Performance Tools for Oracle Databases&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

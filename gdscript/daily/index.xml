@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:41:23Z</updated>
+  <updated>2022-06-05T01:43:50Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GDQuest/godot-demos</title>
-    <updated>2022-06-04T01:41:23Z</updated>
-    <id>tag:github.com,2022-06-04:/GDQuest/godot-demos</id>
-    <link href="https://github.com/GDQuest/godot-demos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dozens of free and open source demos for the Godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bitbrain/beehave</title>
+    <updated>2022-06-05T01:43:50Z</updated>
+    <id>tag:github.com,2022-06-05:/bitbrain/beehave</id>
+    <link href="https://github.com/bitbrain/beehave" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐝 behaviour tree AI for Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mayank-prasoon/world-maker</title>
+    <updated>2022-06-05T01:43:50Z</updated>
+    <id>tag:github.com,2022-06-05:/mayank-prasoon/world-maker</id>
+    <link href="https://github.com/mayank-prasoon/world-maker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A world building app&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Deep-Fold/PixelPlanets</title>
+    <updated>2022-06-05T01:43:50Z</updated>
+    <id>tag:github.com,2022-06-05:/Deep-Fold/PixelPlanets</id>
+    <link href="https://github.com/Deep-Fold/PixelPlanets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

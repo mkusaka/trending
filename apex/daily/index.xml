@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:33:40Z</updated>
+  <updated>2022-06-05T01:35:44Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vitapramdevputra/Falcons6Dev</title>
-    <updated>2022-06-04T01:33:40Z</updated>
-    <id>tag:github.com,2022-06-04:/vitapramdevputra/Falcons6Dev</id>
-    <link href="https://github.com/vitapramdevputra/Falcons6Dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>forcedotcom/sfdx-bitbucket-org</title>
-    <updated>2022-06-04T01:33:40Z</updated>
-    <id>tag:github.com,2022-06-04:/forcedotcom/sfdx-bitbucket-org</id>
-    <link href="https://github.com/forcedotcom/sfdx-bitbucket-org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bitbucket Pipelines examples with org development&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rahulmalhotra/salesforce-git-codelab</title>
+    <updated>2022-06-05T01:35:44Z</updated>
+    <id>tag:github.com,2022-06-05:/rahulmalhotra/salesforce-git-codelab</id>
+    <link href="https://github.com/rahulmalhotra/salesforce-git-codelab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Salesforce Git Codelab by SFDCStop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

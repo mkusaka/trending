@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:42:52Z</updated>
+  <updated>2022-06-05T01:45:15Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gravitee-io/issues</title>
-    <updated>2022-06-04T01:42:52Z</updated>
-    <id>tag:github.com,2022-06-04:/gravitee-io/issues</id>
-    <link href="https://github.com/gravitee-io/issues" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gravitee.io - API Platform - Issues&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SmartThingsCommunity/SmartThingsPublic</title>
+    <updated>2022-06-05T01:45:15Z</updated>
+    <id>tag:github.com,2022-06-05:/SmartThingsCommunity/SmartThingsPublic</id>
+    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SmartThings open-source DeviceTypeHandlers and SmartApps code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>macloujulian/jenkins.job.parametrizado</title>
-    <updated>2022-06-04T01:42:52Z</updated>
-    <id>tag:github.com,2022-06-04:/macloujulian/jenkins.job.parametrizado</id>
-    <link href="https://github.com/macloujulian/jenkins.job.parametrizado" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;El mismo Job parametrizado 1 pero alojado en este repositorio&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jenkinsci/pipeline-examples</title>
+    <updated>2022-06-05T01:45:15Z</updated>
+    <id>tag:github.com,2022-06-05:/jenkinsci/pipeline-examples</id>
+    <link href="https://github.com/jenkinsci/pipeline-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>adnlos/alumno-curso</title>
-    <updated>2022-06-04T01:42:52Z</updated>
-    <id>tag:github.com,2022-06-04:/adnlos/alumno-curso</id>
-    <link href="https://github.com/adnlos/alumno-curso" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proyecto roswell&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rbkmoney/build_utils</title>
+    <updated>2022-06-05T01:45:15Z</updated>
+    <id>tag:github.com,2022-06-05:/rbkmoney/build_utils</id>
+    <link href="https://github.com/rbkmoney/build_utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common utilities for build and CI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

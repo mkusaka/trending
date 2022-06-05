@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:12:26Z</updated>
+  <updated>2022-06-05T02:13:28Z</updated>
   <subtitle>Weekly Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PaddlePaddle/PaddleSpatial</title>
+    <updated>2022-06-05T02:13:28Z</updated>
+    <id>tag:github.com,2022-06-05:/PaddlePaddle/PaddleSpatial</id>
+    <link href="https://github.com/PaddlePaddle/PaddleSpatial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>origin0110/OriginShader</title>
+    <updated>2022-06-05T02:13:28Z</updated>
+    <id>tag:github.com,2022-06-05:/origin0110/OriginShader</id>
+    <link href="https://github.com/origin0110/OriginShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A shader for MCPE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>devendrn/newb-shader-mcbe</title>
+    <updated>2022-06-05T02:13:28Z</updated>
+    <id>tag:github.com,2022-06-05:/devendrn/newb-shader-mcbe</id>
+    <link href="https://github.com/devendrn/newb-shader-mcbe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An aesthetic shader for MCBE (GLSL)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

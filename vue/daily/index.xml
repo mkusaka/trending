@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:59:39Z</updated>
+  <updated>2022-06-05T02:00:54Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>staniel359/muffon</title>
-    <updated>2022-06-04T01:59:39Z</updated>
-    <id>tag:github.com,2022-06-04:/staniel359/muffon</id>
-    <link href="https://github.com/staniel359/muffon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Desktop music streaming browser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>histoire-dev/histoire</title>
+    <updated>2022-06-05T02:00:54Z</updated>
+    <id>tag:github.com,2022-06-05:/histoire-dev/histoire</id>
+    <link href="https://github.com/histoire-dev/histoire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Fast and beautiful interactive component playgrounds, powered by Vite&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Akryum/vue-virtual-scroller</title>
-    <updated>2022-06-04T01:59:39Z</updated>
-    <id>tag:github.com,2022-06-04:/Akryum/vue-virtual-scroller</id>
-    <link href="https://github.com/Akryum/vue-virtual-scroller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡️ Blazing fast scrolling for any amount of data&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>snapshot-labs/snapshot</title>
+    <updated>2022-06-05T02:00:54Z</updated>
+    <id>tag:github.com,2022-06-05:/snapshot-labs/snapshot</id>
+    <link href="https://github.com/snapshot-labs/snapshot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Off-chain gasless multi-governance client. Join us on Discord https://discord.gg/snapshot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abhisheknaiidu/awesome-github-profile-readme</title>
-    <updated>2022-06-04T01:59:39Z</updated>
-    <id>tag:github.com,2022-06-04:/abhisheknaiidu/awesome-github-profile-readme</id>
-    <link href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;😎 A curated list of awesome GitHub Profile READMEs 📝&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gs-shop/vue-slick-carousel</title>
+    <updated>2022-06-05T02:00:54Z</updated>
+    <id>tag:github.com,2022-06-05:/gs-shop/vue-slick-carousel</id>
+    <link href="https://github.com/gs-shop/vue-slick-carousel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚥Vue Slick Carousel with True SSR Written for ⚡Faster Luxstay&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

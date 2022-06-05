@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:19:51Z</updated>
+  <updated>2022-06-05T02:20:47Z</updated>
   <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>returntocorp/semgrep-interfaces</title>
-    <updated>2022-06-04T02:19:51Z</updated>
-    <id>tag:github.com,2022-06-04:/returntocorp/semgrep-interfaces</id>
-    <link href="https://github.com/returntocorp/semgrep-interfaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Store the ATD/openapi/protobuf/... interfaces between semgrep components&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>facebook/flow</title>
+    <updated>2022-06-05T02:20:47Z</updated>
+    <id>tag:github.com,2022-06-05:/facebook/flow</id>
+    <link href="https://github.com/facebook/flow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds static typing to JavaScript to improve developer productivity and code quality.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ocaml/ocaml</title>
+    <updated>2022-06-05T02:20:47Z</updated>
+    <id>tag:github.com,2022-06-05:/ocaml/ocaml</id>
+    <link href="https://github.com/ocaml/ocaml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The core OCaml system: compilers, runtime system, base libraries&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>returntocorp/semgrep</title>
+    <updated>2022-06-05T02:20:47Z</updated>
+    <id>tag:github.com,2022-06-05:/returntocorp/semgrep</id>
+    <link href="https://github.com/returntocorp/semgrep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

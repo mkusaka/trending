@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:25:48Z</updated>
+  <updated>2022-06-05T02:26:40Z</updated>
   <subtitle>Weekly Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gszabi99/War-Thunder-Datamine</title>
+    <updated>2022-06-05T02:26:40Z</updated>
+    <id>tag:github.com,2022-06-05:/gszabi99/War-Thunder-Datamine</id>
+    <link href="https://github.com/gszabi99/War-Thunder-Datamine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Frequently updated War Thunder Datamine repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

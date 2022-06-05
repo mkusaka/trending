@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:07:42Z</updated>
+  <updated>2022-06-05T02:08:46Z</updated>
   <subtitle>Weekly Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rapyuta-robotics/UE_msgs</title>
-    <updated>2022-06-04T02:07:42Z</updated>
-    <id>tag:github.com,2022-06-04:/rapyuta-robotics/UE_msgs</id>
-    <link href="https://github.com/rapyuta-robotics/UE_msgs" rel="alternate"></link>
+    <title>microsoft/vcpkg</title>
+    <updated>2022-06-05T02:08:46Z</updated>
+    <id>tag:github.com,2022-06-05:/microsoft/vcpkg</id>
+    <link href="https://github.com/microsoft/vcpkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NNTU-CS/ADS-9</title>
+    <updated>2022-06-05T02:08:46Z</updated>
+    <id>tag:github.com,2022-06-05:/NNTU-CS/ADS-9</id>
+    <link href="https://github.com/NNTU-CS/ADS-9" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ros2/orocos_kdl_vendor</title>
-    <updated>2022-06-04T02:07:42Z</updated>
-    <id>tag:github.com,2022-06-04:/ros2/orocos_kdl_vendor</id>
-    <link href="https://github.com/ros2/orocos_kdl_vendor" rel="alternate"></link>
+    <title>allnes/pp_2022_spring_report</title>
+    <updated>2022-06-05T02:08:46Z</updated>
+    <id>tag:github.com,2022-06-05:/allnes/pp_2022_spring_report</id>
+    <link href="https://github.com/allnes/pp_2022_spring_report" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

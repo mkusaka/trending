@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:54:14Z</updated>
+  <updated>2022-06-05T01:55:38Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ordohereticus/open_fortress</title>
-    <updated>2022-06-04T01:54:14Z</updated>
-    <id>tag:github.com,2022-06-04:/ordohereticus/open_fortress</id>
-    <link href="https://github.com/ordohereticus/open_fortress" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An unofficial mirror of the Open Fortress SVN. Includes easy installation (No SVN checkout required, just clone or download the zip and rename it) 1.7 GB download&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SteamDatabase/GameTracking-CSGO</title>
-    <updated>2022-06-04T01:54:14Z</updated>
-    <id>tag:github.com,2022-06-04:/SteamDatabase/GameTracking-CSGO</id>
-    <link href="https://github.com/SteamDatabase/GameTracking-CSGO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📥 Game Tracker: Counter-Strike: Global Offensive&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GNUAspell/aspell</title>
-    <updated>2022-06-04T01:54:14Z</updated>
-    <id>tag:github.com,2022-06-04:/GNUAspell/aspell</id>
-    <link href="https://github.com/GNUAspell/aspell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>redsigma/UPMetroSkin</title>
+    <updated>2022-06-05T01:55:38Z</updated>
+    <id>tag:github.com,2022-06-05:/redsigma/UPMetroSkin</id>
+    <link href="https://github.com/redsigma/UPMetroSkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This non-official addon for Metro for Steam fixes bugs with the current version and adds optional content for you to choose from.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

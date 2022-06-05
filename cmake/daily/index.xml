@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:36:44Z</updated>
+  <updated>2022-06-05T01:38:37Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>corrosion-rs/corrosion</title>
-    <updated>2022-06-04T01:36:44Z</updated>
-    <id>tag:github.com,2022-06-04:/corrosion-rs/corrosion</id>
-    <link href="https://github.com/corrosion-rs/corrosion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Marrying Rust and CMake - Easy Rust and C/C++ Integration!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TLeonardUK/ds3os</title>
+    <updated>2022-06-05T01:38:37Z</updated>
+    <id>tag:github.com,2022-06-05:/TLeonardUK/ds3os</id>
+    <link href="https://github.com/TLeonardUK/ds3os" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dark Souls 3 - Open Server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GEOS-ESM/ESMA_cmake</title>
-    <updated>2022-06-04T01:36:44Z</updated>
-    <id>tag:github.com,2022-06-04:/GEOS-ESM/ESMA_cmake</id>
-    <link href="https://github.com/GEOS-ESM/ESMA_cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom CMake macros for the GEOS Earth System Model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Open-Transactions/opentxs-cmake</title>
+    <updated>2022-06-05T01:38:37Z</updated>
+    <id>tag:github.com,2022-06-05:/Open-Transactions/opentxs-cmake</id>
+    <link href="https://github.com/Open-Transactions/opentxs-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pingcap/tipb</title>
-    <updated>2022-06-04T01:36:44Z</updated>
-    <id>tag:github.com,2022-06-04:/pingcap/tipb</id>
-    <link href="https://github.com/pingcap/tipb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TiDB protobuf&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ultralight-ux/Ultralight</title>
+    <updated>2022-06-05T01:38:37Z</updated>
+    <id>tag:github.com,2022-06-05:/ultralight-ux/Ultralight</id>
+    <link href="https://github.com/ultralight-ux/Ultralight" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Next-generation HTML renderer for apps and games&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

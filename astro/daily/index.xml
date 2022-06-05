@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:34:05Z</updated>
+  <updated>2022-06-05T01:36:06Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>littlesticksdev/odyssey-theme</title>
-    <updated>2022-06-04T01:34:05Z</updated>
-    <id>tag:github.com,2022-06-04:/littlesticksdev/odyssey-theme</id>
-    <link href="https://github.com/littlesticksdev/odyssey-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern business marketing website theme/starter built with Astro&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zellwk/build-and-deploy-workshop</title>
+    <updated>2022-06-05T01:36:06Z</updated>
+    <id>tag:github.com,2022-06-05:/zellwk/build-and-deploy-workshop</id>
+    <link href="https://github.com/zellwk/build-and-deploy-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

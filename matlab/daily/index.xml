@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:48:11Z</updated>
+  <updated>2022-06-05T01:49:44Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>macs-lab/arb-adaptive-regulation-benchmark-lv2-training</title>
-    <updated>2022-06-04T01:48:11Z</updated>
-    <id>tag:github.com,2022-06-04:/macs-lab/arb-adaptive-regulation-benchmark-lv2-training</id>
-    <link href="https://github.com/macs-lab/arb-adaptive-regulation-benchmark-lv2-training" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BIMK/PlatEMO</title>
+    <updated>2022-06-05T01:49:44Z</updated>
+    <id>tag:github.com,2022-06-05:/BIMK/PlatEMO</id>
+    <link href="https://github.com/BIMK/PlatEMO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Evolutionary multi-objective optimization platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dawnlh/awesome-low-light-image-enhancement</title>
-    <updated>2022-06-04T01:48:11Z</updated>
-    <id>tag:github.com,2022-06-04:/dawnlh/awesome-low-light-image-enhancement</id>
-    <link href="https://github.com/dawnlh/awesome-low-light-image-enhancement" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a resouce list for low light image enhancement&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VincentWong3/automatic-driving-decision-and-planning-for-matlab</title>
+    <updated>2022-06-05T01:49:44Z</updated>
+    <id>tag:github.com,2022-06-05:/VincentWong3/automatic-driving-decision-and-planning-for-matlab</id>
+    <link href="https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

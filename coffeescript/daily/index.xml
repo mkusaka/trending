@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:36:56Z</updated>
+  <updated>2022-06-05T01:38:45Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hellodigit/bondjs</title>
-    <updated>2022-06-04T01:36:56Z</updated>
-    <id>tag:github.com,2022-06-04:/hellodigit/bondjs</id>
-    <link href="https://github.com/hellodigit/bondjs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deprecated, use sinon&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>qiao/difflib.js</title>
-    <updated>2022-06-04T01:36:56Z</updated>
-    <id>tag:github.com,2022-06-04:/qiao/difflib.js</id>
-    <link href="https://github.com/qiao/difflib.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Text diff library in JavaScript, ported from Python&#39;s difflib module.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>atmos/camo</title>
-    <updated>2022-06-04T01:36:56Z</updated>
-    <id>tag:github.com,2022-06-04:/atmos/camo</id>
-    <link href="https://github.com/atmos/camo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔒 an http proxy to route images through SSL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fragaria/angular-daterangepicker</title>
+    <updated>2022-06-05T01:38:45Z</updated>
+    <id>tag:github.com,2022-06-05:/fragaria/angular-daterangepicker</id>
+    <link href="https://github.com/fragaria/angular-daterangepicker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Angular.js wrapper for dangrossman/bootstrap-daterangepicker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:07:52Z</updated>
+  <updated>2022-06-05T02:08:57Z</updated>
   <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>antho1404/chat.js</title>
-    <updated>2022-06-04T02:07:52Z</updated>
-    <id>tag:github.com,2022-06-04:/antho1404/chat.js</id>
-    <link href="https://github.com/antho1404/chat.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A node.js chat&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>basecamp/trix</title>
+    <updated>2022-06-05T02:08:57Z</updated>
+    <id>tag:github.com,2022-06-05:/basecamp/trix</id>
+    <link href="https://github.com/basecamp/trix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rich text editor for everyday writing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jonstipe/datetime-local-polyfill</title>
-    <updated>2022-06-04T02:07:52Z</updated>
-    <id>tag:github.com,2022-06-04:/jonstipe/datetime-local-polyfill</id>
-    <link href="https://github.com/jonstipe/datetime-local-polyfill" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A polyfill for implementing the HTML5 &lt;input type=&#34;datetime-local&#34;&gt; element in browsers that do not currently support it.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nicolaskruchten/pivottable</title>
+    <updated>2022-06-05T02:08:57Z</updated>
+    <id>tag:github.com,2022-06-05:/nicolaskruchten/pivottable</id>
+    <link href="https://github.com/nicolaskruchten/pivottable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag&#39;n&#39;drop.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jonstipe/datetime-polyfill</title>
-    <updated>2022-06-04T02:07:52Z</updated>
-    <id>tag:github.com,2022-06-04:/jonstipe/datetime-polyfill</id>
-    <link href="https://github.com/jonstipe/datetime-polyfill" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A polyfill for implementing the HTML5 &lt;input type=&#34;datetime&#34;&gt; element in browsers that do not currently support it.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adaltas/node-csv</title>
+    <updated>2022-06-05T02:08:57Z</updated>
+    <id>tag:github.com,2022-06-05:/adaltas/node-csv</id>
+    <link href="https://github.com/adaltas/node-csv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full featured CSV parser with simple api and tested against large datasets.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

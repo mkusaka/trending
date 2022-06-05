@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:28:45Z</updated>
+  <updated>2022-06-05T02:29:40Z</updated>
   <subtitle>Weekly Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dcloudio/hello-uniapp</title>
-    <updated>2022-06-04T02:28:45Z</updated>
-    <id>tag:github.com,2022-06-04:/dcloudio/hello-uniapp</id>
-    <link href="https://github.com/dcloudio/hello-uniapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uni-app框架演示示例&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>requarks/wiki</title>
+    <updated>2022-06-05T02:29:40Z</updated>
+    <id>tag:github.com,2022-06-05:/requarks/wiki</id>
+    <link href="https://github.com/requarks/wiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wiki.js | A modern and powerful wiki app built on Node.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Lissy93/dashy</title>
-    <updated>2022-06-04T02:28:45Z</updated>
-    <id>tag:github.com,2022-06-04:/Lissy93/dashy</id>
-    <link href="https://github.com/Lissy93/dashy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>element-plus/element-plus</title>
+    <updated>2022-06-05T02:29:40Z</updated>
+    <id>tag:github.com,2022-06-05:/element-plus/element-plus</id>
+    <link href="https://github.com/element-plus/element-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 A Vue.js 3 UI Library made by Element team&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>antfu/vitesse-nuxt3</title>
-    <updated>2022-06-04T02:28:45Z</updated>
-    <id>tag:github.com,2022-06-04:/antfu/vitesse-nuxt3</id>
-    <link href="https://github.com/antfu/vitesse-nuxt3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vitesse for Nuxt 3 🏔💚⚡️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>varletjs/varlet</title>
+    <updated>2022-06-05T02:29:40Z</updated>
+    <id>tag:github.com,2022-06-05:/varletjs/varlet</id>
+    <link href="https://github.com/varletjs/varlet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 Vue3 的 Material design 风格移动端组件库 Material design mobile component library for Vue3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

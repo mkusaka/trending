@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:45:24Z</updated>
+  <updated>2022-06-05T01:47:27Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaLang/IJulia.jl</title>
-    <updated>2022-06-04T01:45:24Z</updated>
-    <id>tag:github.com,2022-06-04:/JuliaLang/IJulia.jl</id>
-    <link href="https://github.com/JuliaLang/IJulia.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia kernel for Jupyter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLang/PackageCompiler.jl</title>
+    <updated>2022-06-05T01:47:27Z</updated>
+    <id>tag:github.com,2022-06-05:/JuliaLang/PackageCompiler.jl</id>
+    <link href="https://github.com/JuliaLang/PackageCompiler.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compile your Julia Package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/SciMLDocs</title>
-    <updated>2022-06-04T01:45:24Z</updated>
-    <id>tag:github.com,2022-06-04:/SciML/SciMLDocs</id>
-    <link href="https://github.com/SciML/SciMLDocs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaNLSolvers/Optim.jl</title>
+    <updated>2022-06-05T01:47:27Z</updated>
+    <id>tag:github.com,2022-06-05:/JuliaNLSolvers/Optim.jl</id>
+    <link href="https://github.com/JuliaNLSolvers/Optim.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Optimization functions for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/NeuralPDE.jl</title>
-    <updated>2022-06-04T01:45:24Z</updated>
-    <id>tag:github.com,2022-06-04:/SciML/NeuralPDE.jl</id>
-    <link href="https://github.com/SciML/NeuralPDE.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Physics-Informed Neural Networks (PINN) and Deep BSDE Solvers of Differential Equations for Scientific Machine Learning (SciML) accelerated simulation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDynamics/DynamicalSystems.jl</title>
+    <updated>2022-06-05T01:47:27Z</updated>
+    <id>tag:github.com,2022-06-05:/JuliaDynamics/DynamicalSystems.jl</id>
+    <link href="https://github.com/JuliaDynamics/DynamicalSystems.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Award winning software library for nonlinear dynamics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

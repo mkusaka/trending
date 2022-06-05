@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:13:13Z</updated>
+  <updated>2022-06-05T02:14:11Z</updated>
   <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fsarmiento/grails-exercises</title>
-    <updated>2022-06-04T02:13:13Z</updated>
-    <id>tag:github.com,2022-06-04:/fsarmiento/grails-exercises</id>
-    <link href="https://github.com/fsarmiento/grails-exercises" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learning grails&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bregman-arie/devops-resources</title>
+    <updated>2022-06-05T02:14:11Z</updated>
+    <id>tag:github.com,2022-06-05:/bregman-arie/devops-resources</id>
+    <link href="https://github.com/bregman-arie/devops-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fison67/LG-Connector</title>
-    <updated>2022-06-04T02:13:13Z</updated>
-    <id>tag:github.com,2022-06-04:/fison67/LG-Connector</id>
-    <link href="https://github.com/fison67/LG-Connector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Connector for LG Devices with SmartThings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gradle/gradle</title>
+    <updated>2022-06-05T02:14:11Z</updated>
+    <id>tag:github.com,2022-06-05:/gradle/gradle</id>
+    <link href="https://github.com/gradle/gradle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adaptable, fast automation for all&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>adhocteam/jenkins-library</title>
-    <updated>2022-06-04T02:13:13Z</updated>
-    <id>tag:github.com,2022-06-04:/adhocteam/jenkins-library</id>
-    <link href="https://github.com/adhocteam/jenkins-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shared Jenkinsfiles snippets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nextflow-io/nextflow</title>
+    <updated>2022-06-05T02:14:11Z</updated>
+    <id>tag:github.com,2022-06-05:/nextflow-io/nextflow</id>
+    <link href="https://github.com/nextflow-io/nextflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A DSL for data-driven computational pipelines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:08:46Z</updated>
+  <updated>2022-06-05T02:09:48Z</updated>
   <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bytedance/lightseq</title>
-    <updated>2022-06-04T02:08:46Z</updated>
-    <id>tag:github.com,2022-06-04:/bytedance/lightseq</id>
-    <link href="https://github.com/bytedance/lightseq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LightSeq: A High Performance Library for Sequence Processing and Generation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NVlabs/instant-ngp</title>
+    <updated>2022-06-05T02:09:48Z</updated>
+    <id>tag:github.com,2022-06-05:/NVlabs/instant-ngp</id>
+    <link href="https://github.com/NVlabs/instant-ngp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Instant neural graphics primitives: lightning fast NeRF and more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tony-Tan/CUDA_Freshman</title>
+    <updated>2022-06-05T02:09:48Z</updated>
+    <id>tag:github.com,2022-06-05:/Tony-Tan/CUDA_Freshman</id>
+    <link href="https://github.com/Tony-Tan/CUDA_Freshman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rapidsai/cuml</title>
+    <updated>2022-06-05T02:09:48Z</updated>
+    <id>tag:github.com,2022-06-05:/rapidsai/cuml</id>
+    <link href="https://github.com/rapidsai/cuml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cuML - RAPIDS Machine Learning Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

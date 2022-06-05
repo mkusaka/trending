@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:59:18Z</updated>
+  <updated>2022-06-05T02:00:30Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>The-OpenROAD-Project/OpenROAD</title>
-    <updated>2022-06-04T01:59:18Z</updated>
-    <id>tag:github.com,2022-06-04:/The-OpenROAD-Project/OpenROAD</id>
-    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-sdr/openwifi-hw</title>
+    <updated>2022-06-05T02:00:30Z</updated>
+    <id>tag:github.com,2022-06-05:/open-sdr/openwifi-hw</id>
+    <link href="https://github.com/open-sdr/openwifi-hw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>litex-hub/pythondata-cpu-mor1kx</title>
+    <updated>2022-06-05T02:00:30Z</updated>
+    <id>tag:github.com,2022-06-05:/litex-hub/pythondata-cpu-mor1kx</id>
+    <link href="https://github.com/litex-hub/pythondata-cpu-mor1kx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python module containing verilog files for mor1kx cpu (for use with LiteX).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ucb-bar/nvdla-wrapper</title>
+    <updated>2022-06-05T02:00:30Z</updated>
+    <id>tag:github.com,2022-06-05:/ucb-bar/nvdla-wrapper</id>
+    <link href="https://github.com/ucb-bar/nvdla-wrapper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wraps the NVDLA project for Chipyard integration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

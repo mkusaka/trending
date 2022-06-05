@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:26:00Z</updated>
+  <updated>2022-06-05T02:26:56Z</updated>
   <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bazelbuild/rules_docker</title>
+    <updated>2022-06-05T02:26:56Z</updated>
+    <id>tag:github.com,2022-06-05:/bazelbuild/rules_docker</id>
+    <link href="https://github.com/bazelbuild/rules_docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rules for building and handling Docker images with Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DataDog/rules_oci_bootstrap</title>
+    <updated>2022-06-05T02:26:56Z</updated>
+    <id>tag:github.com,2022-06-05:/DataDog/rules_oci_bootstrap</id>
+    <link href="https://github.com/DataDog/rules_oci_bootstrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules to bootstrap from an OCI registry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>masmovil/bazel-rules</title>
+    <updated>2022-06-05T02:26:56Z</updated>
+    <id>tag:github.com,2022-06-05:/masmovil/bazel-rules</id>
+    <link href="https://github.com/masmovil/bazel-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

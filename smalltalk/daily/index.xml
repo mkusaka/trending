@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:56:20Z</updated>
+  <updated>2022-06-05T01:57:32Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>juliendelplanque/Iterators</title>
-    <updated>2022-06-04T01:56:20Z</updated>
-    <id>tag:github.com,2022-06-04:/juliendelplanque/Iterators</id>
-    <link href="https://github.com/juliendelplanque/Iterators" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implements Iterators for Pharo&#39;s Collections.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gt4dockerengine</title>
+    <updated>2022-06-05T01:57:32Z</updated>
+    <id>tag:github.com,2022-06-05:/feenkcom/gt4dockerengine</id>
+    <link href="https://github.com/feenkcom/gt4dockerengine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Glamorous Toolkit extensions for Docker Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-remote</title>
-    <updated>2022-06-04T01:56:20Z</updated>
-    <id>tag:github.com,2022-06-04:/feenkcom/gtoolkit-remote</id>
-    <link href="https://github.com/feenkcom/gtoolkit-remote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The engine to work with remote systems (like remote a Pharo image).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-debugger</title>
+    <updated>2022-06-05T01:57:32Z</updated>
+    <id>tag:github.com,2022-06-05:/feenkcom/gtoolkit-debugger</id>
+    <link href="https://github.com/feenkcom/gtoolkit-debugger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GT Debugger is a ... debugger. A moldable debugger.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gt4magritte</title>
-    <updated>2022-06-04T01:56:20Z</updated>
-    <id>tag:github.com,2022-06-04:/feenkcom/gt4magritte</id>
-    <link href="https://github.com/feenkcom/gt4magritte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Magritte implementation for Glamorous Toolkit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/pharo-futures</title>
+    <updated>2022-06-05T01:57:32Z</updated>
+    <id>tag:github.com,2022-06-05:/feenkcom/pharo-futures</id>
+    <link href="https://github.com/feenkcom/pharo-futures" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Abstractions for asynchronous programming in Pharo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

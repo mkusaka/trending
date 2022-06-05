@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:52:09Z</updated>
+  <updated>2022-06-05T01:53:29Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>anthonydb/practical-sql-2</title>
-    <updated>2022-06-04T01:52:09Z</updated>
-    <id>tag:github.com,2022-06-04:/anthonydb/practical-sql-2</id>
-    <link href="https://github.com/anthonydb/practical-sql-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code and Data for the Second Edition of &#34;Practical SQL&#34; by Anthony DeBarros, published by No Starch Press (2022).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>soupowertuning/Script_SQLServer_Alerts</title>
-    <updated>2022-06-04T01:52:09Z</updated>
-    <id>tag:github.com,2022-06-04:/soupowertuning/Script_SQLServer_Alerts</id>
-    <link href="https://github.com/soupowertuning/Script_SQLServer_Alerts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a big project to share scripts to monitor SQL Server if you don&#39;t have a tool to do that&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

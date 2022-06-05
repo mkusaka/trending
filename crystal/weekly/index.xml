@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Weekly Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T02:08:19Z</updated>
+  <updated>2022-06-05T02:09:23Z</updated>
   <subtitle>Weekly Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
+    <title>iv-org/invidious</title>
+    <updated>2022-06-05T02:09:23Z</updated>
+    <id>tag:github.com,2022-06-05:/iv-org/invidious</id>
+    <link href="https://github.com/iv-org/invidious" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Invidious is an alternative front-end to YouTube&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>crystal-lang/crystal</title>
+    <updated>2022-06-05T02:09:23Z</updated>
+    <id>tag:github.com,2022-06-05:/crystal-lang/crystal</id>
+    <link href="https://github.com/crystal-lang/crystal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Crystal Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
     <title>Anyolite/anyolite</title>
-    <updated>2022-06-04T02:08:19Z</updated>
-    <id>tag:github.com,2022-06-04:/Anyolite/anyolite</id>
+    <updated>2022-06-05T02:09:23Z</updated>
+    <id>tag:github.com,2022-06-05:/Anyolite/anyolite</id>
     <link href="https://github.com/Anyolite/anyolite" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Embedded mruby/Ruby for Crystal&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>

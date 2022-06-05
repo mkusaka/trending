@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:45:18Z</updated>
+  <updated>2022-06-05T01:47:24Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>netology-code/sysadm-homeworks</title>
+    <updated>2022-06-05T01:47:24Z</updated>
+    <id>tag:github.com,2022-06-05:/netology-code/sysadm-homeworks</id>
+    <link href="https://github.com/netology-code/sysadm-homeworks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

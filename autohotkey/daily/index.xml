@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:34:18Z</updated>
+  <updated>2022-06-05T01:36:17Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TaranVH/2nd-keyboard</title>
-    <updated>2022-06-04T01:34:18Z</updated>
-    <id>tag:github.com,2022-06-04:/TaranVH/2nd-keyboard</id>
-    <link href="https://github.com/TaranVH/2nd-keyboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ALL of Taran&#39;s scripts - not just for the 2nd keyboard.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HackerHansen/1v1.lol-aimbot</title>
+    <updated>2022-06-05T01:36:17Z</updated>
+    <id>tag:github.com,2022-06-05:/HackerHansen/1v1.lol-aimbot</id>
+    <link href="https://github.com/HackerHansen/1v1.lol-aimbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wo52616111/capslock-plus</title>
-    <updated>2022-06-04T01:34:18Z</updated>
-    <id>tag:github.com,2022-06-04:/wo52616111/capslock-plus</id>
-    <link href="https://github.com/wo52616111/capslock-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An efficiency tool that provides various functions by enhancing the Caps Lock key into a modifier key.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lexikos/AutoHotkey_L-Docs</title>
+    <updated>2022-06-05T01:36:17Z</updated>
+    <id>tag:github.com,2022-06-05:/Lexikos/AutoHotkey_L-Docs</id>
+    <link href="https://github.com/Lexikos/AutoHotkey_L-Docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for AutoHotkey&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

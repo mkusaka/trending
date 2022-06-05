@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:34:16Z</updated>
+  <updated>2022-06-05T01:36:19Z</updated>
   <subtitle>Daily Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Bioruebe/UniExtract2</title>
-    <updated>2022-06-04T01:34:16Z</updated>
-    <id>tag:github.com,2022-06-04:/Bioruebe/UniExtract2</id>
-    <link href="https://github.com/Bioruebe/UniExtract2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Universal Extractor 2 is a tool to extract files from any type of archive or installer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rcmaehl/WhyNotWin11</title>
+    <updated>2022-06-05T01:36:19Z</updated>
+    <id>tag:github.com,2022-06-05:/rcmaehl/WhyNotWin11</id>
+    <link href="https://github.com/rcmaehl/WhyNotWin11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Detection Script to help identify why your PC is not Windows 11 Release Ready&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KovaaK/SensitivityMatcher</title>
+    <updated>2022-06-05T01:36:19Z</updated>
+    <id>tag:github.com,2022-06-05:/KovaaK/SensitivityMatcher</id>
+    <link href="https://github.com/KovaaK/SensitivityMatcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Script that can be used to convert your mouse sensitivity between different 3D games.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

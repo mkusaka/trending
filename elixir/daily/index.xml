@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:39:40Z</updated>
+  <updated>2022-06-05T01:41:44Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elixir-lsp/elixir-ls</title>
-    <updated>2022-06-04T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-04:/elixir-lsp/elixir-ls</id>
-    <link href="https://github.com/elixir-lsp/elixir-ls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A frontend-independent IDE &#34;smartness&#34; server for Elixir. Implements the &#34;Language Server Protocol&#34; standard and provides debugger support via the &#34;Debug Adapter Protocol&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Phineas/lanyard</title>
+    <updated>2022-06-05T01:41:44Z</updated>
+    <id>tag:github.com,2022-06-05:/Phineas/lanyard</id>
+    <link href="https://github.com/Phineas/lanyard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chaskiq/ex-marcel</title>
-    <updated>2022-06-04T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-04:/chaskiq/ex-marcel</id>
-    <link href="https://github.com/chaskiq/ex-marcel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Find the mime type of files, examining file, filename and declared type&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hauleth/mix_unused</title>
+    <updated>2022-06-05T01:41:44Z</updated>
+    <id>tag:github.com,2022-06-05:/hauleth/mix_unused</id>
+    <link href="https://github.com/hauleth/mix_unused" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Find unused functions in your project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rrrene/credo</title>
-    <updated>2022-06-04T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-04:/rrrene/credo</id>
-    <link href="https://github.com/rrrene/credo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A static code analysis tool for the Elixir language with a focus on code consistency and teaching.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>absinthe-graphql/absinthe</title>
+    <updated>2022-06-05T01:41:44Z</updated>
+    <id>tag:github.com,2022-06-05:/absinthe-graphql/absinthe</id>
+    <link href="https://github.com/absinthe-graphql/absinthe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The GraphQL toolkit for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

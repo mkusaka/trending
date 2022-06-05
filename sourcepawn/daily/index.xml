@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SourcePawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:56:26Z</updated>
+  <updated>2022-06-05T01:57:36Z</updated>
   <subtitle>Daily Trending of SourcePawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kgns/weapons</title>
-    <updated>2022-06-04T01:56:26Z</updated>
-    <id>tag:github.com,2022-06-04:/kgns/weapons</id>
-    <link href="https://github.com/kgns/weapons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CS:GO Custom Weapon Options (Skins, NameTag, StatTrak, Wear/Float, Knives)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

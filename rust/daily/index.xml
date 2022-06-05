@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:54:53Z</updated>
+  <updated>2022-06-05T01:56:15Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>paritytech/polkadot</title>
-    <updated>2022-06-04T01:54:53Z</updated>
-    <id>tag:github.com,2022-06-04:/paritytech/polkadot</id>
-    <link href="https://github.com/paritytech/polkadot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Polkadot Node Implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tree-sitter/tree-sitter</title>
+    <updated>2022-06-05T01:56:15Z</updated>
+    <id>tag:github.com,2022-06-05:/tree-sitter/tree-sitter</id>
+    <link href="https://github.com/tree-sitter/tree-sitter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An incremental parsing system for programming tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CESSProject/cess</title>
-    <updated>2022-06-04T01:54:53Z</updated>
-    <id>tag:github.com,2022-06-04:/CESSProject/cess</id>
-    <link href="https://github.com/CESSProject/cess" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An implementation of the distributed storage network supported by CESS LAB.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clap-rs/clap</title>
+    <updated>2022-06-05T01:56:15Z</updated>
+    <id>tag:github.com,2022-06-05:/clap-rs/clap</id>
+    <link href="https://github.com/clap-rs/clap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A full featured, fast Command Line Argument Parser for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sharkdp/fd</title>
-    <updated>2022-06-04T01:54:53Z</updated>
-    <id>tag:github.com,2022-06-04:/sharkdp/fd</id>
-    <link href="https://github.com/sharkdp/fd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple, fast and user-friendly alternative to &#39;find&#39;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rustdesk/rustdesk</title>
+    <updated>2022-06-05T01:56:15Z</updated>
+    <id>tag:github.com,2022-06-05:/rustdesk/rustdesk</id>
+    <link href="https://github.com/rustdesk/rustdesk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

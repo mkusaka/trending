@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:53:46Z</updated>
+  <updated>2022-06-05T01:55:08Z</updated>
   <subtitle>Daily Trending of Rascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PAMunb/JUnit5Migration</title>
+    <updated>2022-06-05T01:55:08Z</updated>
+    <id>tag:github.com,2022-06-05:/PAMunb/JUnit5Migration</id>
+    <link href="https://github.com/PAMunb/JUnit5Migration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

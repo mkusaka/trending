@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-04T01:34:28Z</updated>
+  <updated>2022-06-05T01:36:30Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lxgw/LxgwWenKai</title>
-    <updated>2022-06-04T01:34:28Z</updated>
-    <id>tag:github.com,2022-06-04:/lxgw/LxgwWenKai</id>
-    <link href="https://github.com/lxgw/LxgwWenKai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Harchanel15/RDP-BULAN-JUNI-BY-HAR-CHANEL</title>
+    <updated>2022-06-05T01:36:30Z</updated>
+    <id>tag:github.com,2022-06-05:/Harchanel15/RDP-BULAN-JUNI-BY-HAR-CHANEL</id>
+    <link href="https://github.com/Harchanel15/RDP-BULAN-JUNI-BY-HAR-CHANEL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gunakan sebaik mungkin dan jangan lupa subscribe Channel Har Chanel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>redgans/RDPFREEs</title>
-    <updated>2022-06-04T01:34:28Z</updated>
-    <id>tag:github.com,2022-06-04:/redgans/RDPFREEs</id>
-    <link href="https://github.com/redgans/RDPFREEs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;fasdfafdafasfsdfsf&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lesuixin/Hearthstone-Hearthbuddy</title>
+    <updated>2022-06-05T01:36:30Z</updated>
+    <id>tag:github.com,2022-06-05:/lesuixin/Hearthstone-Hearthbuddy</id>
+    <link href="https://github.com/lesuixin/Hearthstone-Hearthbuddy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hearthstone 炉石传说 Hearthbuddy 炉石兄弟&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mardiantsyah/FREERDPs</title>
-    <updated>2022-06-04T01:34:28Z</updated>
-    <id>tag:github.com,2022-06-04:/mardiantsyah/FREERDPs</id>
-    <link href="https://github.com/mardiantsyah/FREERDPs" rel="alternate"></link>
+    <title>Rdprepogithub01/Rdp</title>
+    <updated>2022-06-05T01:36:30Z</updated>
+    <id>tag:github.com,2022-06-05:/Rdprepogithub01/Rdp</id>
+    <link href="https://github.com/Rdprepogithub01/Rdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
