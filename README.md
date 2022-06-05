@@ -5,1286 +5,1926 @@ Generate slack subscribable github trending rss on daily basis.
 - Generate only top 3 of trending.
 - Feeded repository will not published to rss feed.
 
+
+data source: https://mshibanami.github.io/GitHubTrendingRSS/
+
 # links
 
 note: Some links are broken.
 
-| url                                                                                   | period | languageType                       |
-| ------------------------------------------------------------------------------------- | ------ | ---------------------------------- |
-| https://mkusaka.github.io/trending/daily/all/index.xml                                | daily  | all                                |
-| https://mkusaka.github.io/trending/daily/unknown/index.xml                            | daily  | unknown                            |
-| https://mkusaka.github.io/trending/daily/c++/index.xml                                | daily  | c++                                |
-| https://mkusaka.github.io/trending/daily/html/index.xml                               | daily  | html                               |
-| https://mkusaka.github.io/trending/daily/java/index.xml                               | daily  | java                               |
-| https://mkusaka.github.io/trending/daily/javascript/index.xml                         | daily  | javascript                         |
-| https://mkusaka.github.io/trending/daily/php/index.xml                                | daily  | php                                |
-| https://mkusaka.github.io/trending/daily/python/index.xml                             | daily  | python                             |
-| https://mkusaka.github.io/trending/daily/ruby/index.xml                               | daily  | ruby                               |
-| https://mkusaka.github.io/trending/daily/1c-enterprise/index.xml                      | daily  | 1c-enterprise                      |
-| https://mkusaka.github.io/trending/daily/2-dimensional-array/index.xml                | daily  | 2-dimensional-array                |
-| https://mkusaka.github.io/trending/daily/4d/index.xml                                 | daily  | 4d                                 |
-| https://mkusaka.github.io/trending/daily/abap/index.xml                               | daily  | abap                               |
-| https://mkusaka.github.io/trending/daily/abap-cds/index.xml                           | daily  | abap-cds                           |
-| https://mkusaka.github.io/trending/daily/abnf/index.xml                               | daily  | abnf                               |
-| https://mkusaka.github.io/trending/daily/actionscript/index.xml                       | daily  | actionscript                       |
-| https://mkusaka.github.io/trending/daily/ada/index.xml                                | daily  | ada                                |
-| https://mkusaka.github.io/trending/daily/adobe-font-metrics/index.xml                 | daily  | adobe-font-metrics                 |
-| https://mkusaka.github.io/trending/daily/agda/index.xml                               | daily  | agda                               |
-| https://mkusaka.github.io/trending/daily/ags-script/index.xml                         | daily  | ags-script                         |
-| https://mkusaka.github.io/trending/daily/aidl/index.xml                               | daily  | aidl                               |
-| https://mkusaka.github.io/trending/daily/al/index.xml                                 | daily  | al                                 |
-| https://mkusaka.github.io/trending/daily/alloy/index.xml                              | daily  | alloy                              |
-| https://mkusaka.github.io/trending/daily/alpine-abuild/index.xml                      | daily  | alpine-abuild                      |
-| https://mkusaka.github.io/trending/daily/altium-designer/index.xml                    | daily  | altium-designer                    |
-| https://mkusaka.github.io/trending/daily/ampl/index.xml                               | daily  | ampl                               |
-| https://mkusaka.github.io/trending/daily/angelscript/index.xml                        | daily  | angelscript                        |
-| https://mkusaka.github.io/trending/daily/ant-build-system/index.xml                   | daily  | ant-build-system                   |
-| https://mkusaka.github.io/trending/daily/antlr/index.xml                              | daily  | antlr                              |
-| https://mkusaka.github.io/trending/daily/apacheconf/index.xml                         | daily  | apacheconf                         |
-| https://mkusaka.github.io/trending/daily/apex/index.xml                               | daily  | apex                               |
-| https://mkusaka.github.io/trending/daily/api-blueprint/index.xml                      | daily  | api-blueprint                      |
-| https://mkusaka.github.io/trending/daily/apl/index.xml                                | daily  | apl                                |
-| https://mkusaka.github.io/trending/daily/apollo-guidance-computer/index.xml           | daily  | apollo-guidance-computer           |
-| https://mkusaka.github.io/trending/daily/applescript/index.xml                        | daily  | applescript                        |
-| https://mkusaka.github.io/trending/daily/arc/index.xml                                | daily  | arc                                |
-| https://mkusaka.github.io/trending/daily/asciidoc/index.xml                           | daily  | asciidoc                           |
-| https://mkusaka.github.io/trending/daily/asl/index.xml                                | daily  | asl                                |
-| https://mkusaka.github.io/trending/daily/asn.1/index.xml                              | daily  | asn.1                              |
-| https://mkusaka.github.io/trending/daily/classic-asp/index.xml                        | daily  | classic-asp                        |
-| https://mkusaka.github.io/trending/daily/asp.net/index.xml                            | daily  | asp.net                            |
-| https://mkusaka.github.io/trending/daily/aspectj/index.xml                            | daily  | aspectj                            |
-| https://mkusaka.github.io/trending/daily/assembly/index.xml                           | daily  | assembly                           |
-| https://mkusaka.github.io/trending/daily/astro/index.xml                              | daily  | astro                              |
-| https://mkusaka.github.io/trending/daily/asymptote/index.xml                          | daily  | asymptote                          |
-| https://mkusaka.github.io/trending/daily/ats/index.xml                                | daily  | ats                                |
-| https://mkusaka.github.io/trending/daily/augeas/index.xml                             | daily  | augeas                             |
-| https://mkusaka.github.io/trending/daily/autohotkey/index.xml                         | daily  | autohotkey                         |
-| https://mkusaka.github.io/trending/daily/autoit/index.xml                             | daily  | autoit                             |
-| https://mkusaka.github.io/trending/daily/avro-idl/index.xml                           | daily  | avro-idl                           |
-| https://mkusaka.github.io/trending/daily/awk/index.xml                                | daily  | awk                                |
-| https://mkusaka.github.io/trending/daily/ballerina/index.xml                          | daily  | ballerina                          |
-| https://mkusaka.github.io/trending/daily/basic/index.xml                              | daily  | basic                              |
-| https://mkusaka.github.io/trending/daily/batchfile/index.xml                          | daily  | batchfile                          |
-| https://mkusaka.github.io/trending/daily/beef/index.xml                               | daily  | beef                               |
-| https://mkusaka.github.io/trending/daily/befunge/index.xml                            | daily  | befunge                            |
-| https://mkusaka.github.io/trending/daily/berry/index.xml                              | daily  | berry                              |
-| https://mkusaka.github.io/trending/daily/bibtex/index.xml                             | daily  | bibtex                             |
-| https://mkusaka.github.io/trending/daily/bicep/index.xml                              | daily  | bicep                              |
-| https://mkusaka.github.io/trending/daily/bison/index.xml                              | daily  | bison                              |
-| https://mkusaka.github.io/trending/daily/bitbake/index.xml                            | daily  | bitbake                            |
-| https://mkusaka.github.io/trending/daily/blade/index.xml                              | daily  | blade                              |
-| https://mkusaka.github.io/trending/daily/blitzbasic/index.xml                         | daily  | blitzbasic                         |
-| https://mkusaka.github.io/trending/daily/blitzmax/index.xml                           | daily  | blitzmax                           |
-| https://mkusaka.github.io/trending/daily/bluespec/index.xml                           | daily  | bluespec                           |
-| https://mkusaka.github.io/trending/daily/boo/index.xml                                | daily  | boo                                |
-| https://mkusaka.github.io/trending/daily/boogie/index.xml                             | daily  | boogie                             |
-| https://mkusaka.github.io/trending/daily/brainfuck/index.xml                          | daily  | brainfuck                          |
-| https://mkusaka.github.io/trending/daily/brightscript/index.xml                       | daily  | brightscript                       |
-| https://mkusaka.github.io/trending/daily/zeek/index.xml                               | daily  | zeek                               |
-| https://mkusaka.github.io/trending/daily/browserslist/index.xml                       | daily  | browserslist                       |
-| https://mkusaka.github.io/trending/daily/c/index.xml                                  | daily  | c                                  |
-| https://mkusaka.github.io/trending/daily/c%23/index.xml                               | daily  | c%23                               |
-| https://mkusaka.github.io/trending/daily/c-objdump/index.xml                          | daily  | c-objdump                          |
-| https://mkusaka.github.io/trending/daily/c2hs-haskell/index.xml                       | daily  | c2hs-haskell                       |
-| https://mkusaka.github.io/trending/daily/cabal-config/index.xml                       | daily  | cabal-config                       |
-| https://mkusaka.github.io/trending/daily/cadence/index.xml                            | daily  | cadence                            |
-| https://mkusaka.github.io/trending/daily/cairo/index.xml                              | daily  | cairo                              |
-| https://mkusaka.github.io/trending/daily/cap'n-proto/index.xml                        | daily  | cap'n-proto                        |
-| https://mkusaka.github.io/trending/daily/cartocss/index.xml                           | daily  | cartocss                           |
-| https://mkusaka.github.io/trending/daily/ceylon/index.xml                             | daily  | ceylon                             |
-| https://mkusaka.github.io/trending/daily/chapel/index.xml                             | daily  | chapel                             |
-| https://mkusaka.github.io/trending/daily/charity/index.xml                            | daily  | charity                            |
-| https://mkusaka.github.io/trending/daily/chuck/index.xml                              | daily  | chuck                              |
-| https://mkusaka.github.io/trending/daily/cil/index.xml                                | daily  | cil                                |
-| https://mkusaka.github.io/trending/daily/cirru/index.xml                              | daily  | cirru                              |
-| https://mkusaka.github.io/trending/daily/clarion/index.xml                            | daily  | clarion                            |
-| https://mkusaka.github.io/trending/daily/clarity/index.xml                            | daily  | clarity                            |
-| https://mkusaka.github.io/trending/daily/clean/index.xml                              | daily  | clean                              |
-| https://mkusaka.github.io/trending/daily/click/index.xml                              | daily  | click                              |
-| https://mkusaka.github.io/trending/daily/clips/index.xml                              | daily  | clips                              |
-| https://mkusaka.github.io/trending/daily/clojure/index.xml                            | daily  | clojure                            |
-| https://mkusaka.github.io/trending/daily/closure-templates/index.xml                  | daily  | closure-templates                  |
-| https://mkusaka.github.io/trending/daily/cloud-firestore-security-rules/index.xml     | daily  | cloud-firestore-security-rules     |
-| https://mkusaka.github.io/trending/daily/cmake/index.xml                              | daily  | cmake                              |
-| https://mkusaka.github.io/trending/daily/cobol/index.xml                              | daily  | cobol                              |
-| https://mkusaka.github.io/trending/daily/codeowners/index.xml                         | daily  | codeowners                         |
-| https://mkusaka.github.io/trending/daily/codeql/index.xml                             | daily  | codeql                             |
-| https://mkusaka.github.io/trending/daily/coffeescript/index.xml                       | daily  | coffeescript                       |
-| https://mkusaka.github.io/trending/daily/coldfusion/index.xml                         | daily  | coldfusion                         |
-| https://mkusaka.github.io/trending/daily/coldfusion-cfc/index.xml                     | daily  | coldfusion-cfc                     |
-| https://mkusaka.github.io/trending/daily/collada/index.xml                            | daily  | collada                            |
-| https://mkusaka.github.io/trending/daily/common-lisp/index.xml                        | daily  | common-lisp                        |
-| https://mkusaka.github.io/trending/daily/common-workflow-language/index.xml           | daily  | common-workflow-language           |
-| https://mkusaka.github.io/trending/daily/component-pascal/index.xml                   | daily  | component-pascal                   |
-| https://mkusaka.github.io/trending/daily/conll-u/index.xml                            | daily  | conll-u                            |
-| https://mkusaka.github.io/trending/daily/cool/index.xml                               | daily  | cool                               |
-| https://mkusaka.github.io/trending/daily/coq/index.xml                                | daily  | coq                                |
-| https://mkusaka.github.io/trending/daily/cpp-objdump/index.xml                        | daily  | cpp-objdump                        |
-| https://mkusaka.github.io/trending/daily/creole/index.xml                             | daily  | creole                             |
-| https://mkusaka.github.io/trending/daily/crystal/index.xml                            | daily  | crystal                            |
-| https://mkusaka.github.io/trending/daily/cson/index.xml                               | daily  | cson                               |
-| https://mkusaka.github.io/trending/daily/csound/index.xml                             | daily  | csound                             |
-| https://mkusaka.github.io/trending/daily/csound-document/index.xml                    | daily  | csound-document                    |
-| https://mkusaka.github.io/trending/daily/csound-score/index.xml                       | daily  | csound-score                       |
-| https://mkusaka.github.io/trending/daily/css/index.xml                                | daily  | css                                |
-| https://mkusaka.github.io/trending/daily/csv/index.xml                                | daily  | csv                                |
-| https://mkusaka.github.io/trending/daily/cuda/index.xml                               | daily  | cuda                               |
-| https://mkusaka.github.io/trending/daily/cue/index.xml                                | daily  | cue                                |
-| https://mkusaka.github.io/trending/daily/curl-config/index.xml                        | daily  | curl-config                        |
-| https://mkusaka.github.io/trending/daily/curry/index.xml                              | daily  | curry                              |
-| https://mkusaka.github.io/trending/daily/cweb/index.xml                               | daily  | cweb                               |
-| https://mkusaka.github.io/trending/daily/cycript/index.xml                            | daily  | cycript                            |
-| https://mkusaka.github.io/trending/daily/cython/index.xml                             | daily  | cython                             |
-| https://mkusaka.github.io/trending/daily/d/index.xml                                  | daily  | d                                  |
-| https://mkusaka.github.io/trending/daily/d-objdump/index.xml                          | daily  | d-objdump                          |
-| https://mkusaka.github.io/trending/daily/dafny/index.xml                              | daily  | dafny                              |
-| https://mkusaka.github.io/trending/daily/darcs-patch/index.xml                        | daily  | darcs-patch                        |
-| https://mkusaka.github.io/trending/daily/dart/index.xml                               | daily  | dart                               |
-| https://mkusaka.github.io/trending/daily/dataweave/index.xml                          | daily  | dataweave                          |
-| https://mkusaka.github.io/trending/daily/debian-package-control-file/index.xml        | daily  | debian-package-control-file        |
-| https://mkusaka.github.io/trending/daily/denizenscript/index.xml                      | daily  | denizenscript                      |
-| https://mkusaka.github.io/trending/daily/desktop/index.xml                            | daily  | desktop                            |
-| https://mkusaka.github.io/trending/daily/dhall/index.xml                              | daily  | dhall                              |
-| https://mkusaka.github.io/trending/daily/diff/index.xml                               | daily  | diff                               |
-| https://mkusaka.github.io/trending/daily/digital-command-language/index.xml           | daily  | digital-command-language           |
-| https://mkusaka.github.io/trending/daily/dircolors/index.xml                          | daily  | dircolors                          |
-| https://mkusaka.github.io/trending/daily/directx-3d-file/index.xml                    | daily  | directx-3d-file                    |
-| https://mkusaka.github.io/trending/daily/dm/index.xml                                 | daily  | dm                                 |
-| https://mkusaka.github.io/trending/daily/dns-zone/index.xml                           | daily  | dns-zone                           |
-| https://mkusaka.github.io/trending/daily/dockerfile/index.xml                         | daily  | dockerfile                         |
-| https://mkusaka.github.io/trending/daily/dogescript/index.xml                         | daily  | dogescript                         |
-| https://mkusaka.github.io/trending/daily/dtrace/index.xml                             | daily  | dtrace                             |
-| https://mkusaka.github.io/trending/daily/dylan/index.xml                              | daily  | dylan                              |
-| https://mkusaka.github.io/trending/daily/e/index.xml                                  | daily  | e                                  |
-| https://mkusaka.github.io/trending/daily/e-mail/index.xml                             | daily  | e-mail                             |
-| https://mkusaka.github.io/trending/daily/eagle/index.xml                              | daily  | eagle                              |
-| https://mkusaka.github.io/trending/daily/earthly/index.xml                            | daily  | earthly                            |
-| https://mkusaka.github.io/trending/daily/easybuild/index.xml                          | daily  | easybuild                          |
-| https://mkusaka.github.io/trending/daily/ebnf/index.xml                               | daily  | ebnf                               |
-| https://mkusaka.github.io/trending/daily/ec/index.xml                                 | daily  | ec                                 |
-| https://mkusaka.github.io/trending/daily/ecere-projects/index.xml                     | daily  | ecere-projects                     |
-| https://mkusaka.github.io/trending/daily/ecl/index.xml                                | daily  | ecl                                |
-| https://mkusaka.github.io/trending/daily/eclipse/index.xml                            | daily  | eclipse                            |
-| https://mkusaka.github.io/trending/daily/editorconfig/index.xml                       | daily  | editorconfig                       |
-| https://mkusaka.github.io/trending/daily/edje-data-collection/index.xml               | daily  | edje-data-collection               |
-| https://mkusaka.github.io/trending/daily/edn/index.xml                                | daily  | edn                                |
-| https://mkusaka.github.io/trending/daily/eiffel/index.xml                             | daily  | eiffel                             |
-| https://mkusaka.github.io/trending/daily/ejs/index.xml                                | daily  | ejs                                |
-| https://mkusaka.github.io/trending/daily/elixir/index.xml                             | daily  | elixir                             |
-| https://mkusaka.github.io/trending/daily/elm/index.xml                                | daily  | elm                                |
-| https://mkusaka.github.io/trending/daily/emacs-lisp/index.xml                         | daily  | emacs-lisp                         |
-| https://mkusaka.github.io/trending/daily/emberscript/index.xml                        | daily  | emberscript                        |
-| https://mkusaka.github.io/trending/daily/eq/index.xml                                 | daily  | eq                                 |
-| https://mkusaka.github.io/trending/daily/erlang/index.xml                             | daily  | erlang                             |
-| https://mkusaka.github.io/trending/daily/euphoria/index.xml                           | daily  | euphoria                           |
-| https://mkusaka.github.io/trending/daily/f%23/index.xml                               | daily  | f%23                               |
-| https://mkusaka.github.io/trending/daily/f*/index.xml                                 | daily  | f\*                                |
-| https://mkusaka.github.io/trending/daily/factor/index.xml                             | daily  | factor                             |
-| https://mkusaka.github.io/trending/daily/fancy/index.xml                              | daily  | fancy                              |
-| https://mkusaka.github.io/trending/daily/fantom/index.xml                             | daily  | fantom                             |
-| https://mkusaka.github.io/trending/daily/faust/index.xml                              | daily  | faust                              |
-| https://mkusaka.github.io/trending/daily/fennel/index.xml                             | daily  | fennel                             |
-| https://mkusaka.github.io/trending/daily/figlet-font/index.xml                        | daily  | figlet-font                        |
-| https://mkusaka.github.io/trending/daily/filebench-wml/index.xml                      | daily  | filebench-wml                      |
-| https://mkusaka.github.io/trending/daily/filterscript/index.xml                       | daily  | filterscript                       |
-| https://mkusaka.github.io/trending/daily/fish/index.xml                               | daily  | fish                               |
-| https://mkusaka.github.io/trending/daily/fluent/index.xml                             | daily  | fluent                             |
-| https://mkusaka.github.io/trending/daily/flux/index.xml                               | daily  | flux                               |
-| https://mkusaka.github.io/trending/daily/formatted/index.xml                          | daily  | formatted                          |
-| https://mkusaka.github.io/trending/daily/forth/index.xml                              | daily  | forth                              |
-| https://mkusaka.github.io/trending/daily/fortran/index.xml                            | daily  | fortran                            |
-| https://mkusaka.github.io/trending/daily/fortran-free-form/index.xml                  | daily  | fortran-free-form                  |
-| https://mkusaka.github.io/trending/daily/freebasic/index.xml                          | daily  | freebasic                          |
-| https://mkusaka.github.io/trending/daily/freemarker/index.xml                         | daily  | freemarker                         |
-| https://mkusaka.github.io/trending/daily/frege/index.xml                              | daily  | frege                              |
-| https://mkusaka.github.io/trending/daily/futhark/index.xml                            | daily  | futhark                            |
-| https://mkusaka.github.io/trending/daily/g-code/index.xml                             | daily  | g-code                             |
-| https://mkusaka.github.io/trending/daily/game-maker-language/index.xml                | daily  | game-maker-language                |
-| https://mkusaka.github.io/trending/daily/gaml/index.xml                               | daily  | gaml                               |
-| https://mkusaka.github.io/trending/daily/gams/index.xml                               | daily  | gams                               |
-| https://mkusaka.github.io/trending/daily/gap/index.xml                                | daily  | gap                                |
-| https://mkusaka.github.io/trending/daily/gcc-machine-description/index.xml            | daily  | gcc-machine-description            |
-| https://mkusaka.github.io/trending/daily/gdb/index.xml                                | daily  | gdb                                |
-| https://mkusaka.github.io/trending/daily/gdscript/index.xml                           | daily  | gdscript                           |
-| https://mkusaka.github.io/trending/daily/gedcom/index.xml                             | daily  | gedcom                             |
-| https://mkusaka.github.io/trending/daily/gemfile.lock/index.xml                       | daily  | gemfile.lock                       |
-| https://mkusaka.github.io/trending/daily/genero/index.xml                             | daily  | genero                             |
-| https://mkusaka.github.io/trending/daily/genero-forms/index.xml                       | daily  | genero-forms                       |
-| https://mkusaka.github.io/trending/daily/genie/index.xml                              | daily  | genie                              |
-| https://mkusaka.github.io/trending/daily/genshi/index.xml                             | daily  | genshi                             |
-| https://mkusaka.github.io/trending/daily/gentoo-ebuild/index.xml                      | daily  | gentoo-ebuild                      |
-| https://mkusaka.github.io/trending/daily/gentoo-eclass/index.xml                      | daily  | gentoo-eclass                      |
-| https://mkusaka.github.io/trending/daily/gerber-image/index.xml                       | daily  | gerber-image                       |
-| https://mkusaka.github.io/trending/daily/gettext-catalog/index.xml                    | daily  | gettext-catalog                    |
-| https://mkusaka.github.io/trending/daily/gherkin/index.xml                            | daily  | gherkin                            |
-| https://mkusaka.github.io/trending/daily/git-attributes/index.xml                     | daily  | git-attributes                     |
-| https://mkusaka.github.io/trending/daily/git-config/index.xml                         | daily  | git-config                         |
-| https://mkusaka.github.io/trending/daily/gleam/index.xml                              | daily  | gleam                              |
-| https://mkusaka.github.io/trending/daily/glsl/index.xml                               | daily  | glsl                               |
-| https://mkusaka.github.io/trending/daily/glyph/index.xml                              | daily  | glyph                              |
-| https://mkusaka.github.io/trending/daily/glyph-bitmap-distribution-format/index.xml   | daily  | glyph-bitmap-distribution-format   |
-| https://mkusaka.github.io/trending/daily/gn/index.xml                                 | daily  | gn                                 |
-| https://mkusaka.github.io/trending/daily/gnuplot/index.xml                            | daily  | gnuplot                            |
-| https://mkusaka.github.io/trending/daily/go/index.xml                                 | daily  | go                                 |
-| https://mkusaka.github.io/trending/daily/go-checksums/index.xml                       | daily  | go-checksums                       |
-| https://mkusaka.github.io/trending/daily/go-module/index.xml                          | daily  | go-module                          |
-| https://mkusaka.github.io/trending/daily/golo/index.xml                               | daily  | golo                               |
-| https://mkusaka.github.io/trending/daily/gosu/index.xml                               | daily  | gosu                               |
-| https://mkusaka.github.io/trending/daily/grace/index.xml                              | daily  | grace                              |
-| https://mkusaka.github.io/trending/daily/gradle/index.xml                             | daily  | gradle                             |
-| https://mkusaka.github.io/trending/daily/grammatical-framework/index.xml              | daily  | grammatical-framework              |
-| https://mkusaka.github.io/trending/daily/graph-modeling-language/index.xml            | daily  | graph-modeling-language            |
-| https://mkusaka.github.io/trending/daily/graphql/index.xml                            | daily  | graphql                            |
-| https://mkusaka.github.io/trending/daily/graphviz-(dot)/index.xml                     | daily  | graphviz-(dot)                     |
-| https://mkusaka.github.io/trending/daily/groovy/index.xml                             | daily  | groovy                             |
-| https://mkusaka.github.io/trending/daily/groovy-server-pages/index.xml                | daily  | groovy-server-pages                |
-| https://mkusaka.github.io/trending/daily/gsc/index.xml                                | daily  | gsc                                |
-| https://mkusaka.github.io/trending/daily/hack/index.xml                               | daily  | hack                               |
-| https://mkusaka.github.io/trending/daily/haml/index.xml                               | daily  | haml                               |
-| https://mkusaka.github.io/trending/daily/handlebars/index.xml                         | daily  | handlebars                         |
-| https://mkusaka.github.io/trending/daily/haproxy/index.xml                            | daily  | haproxy                            |
-| https://mkusaka.github.io/trending/daily/harbour/index.xml                            | daily  | harbour                            |
-| https://mkusaka.github.io/trending/daily/haskell/index.xml                            | daily  | haskell                            |
-| https://mkusaka.github.io/trending/daily/haxe/index.xml                               | daily  | haxe                               |
-| https://mkusaka.github.io/trending/daily/hcl/index.xml                                | daily  | hcl                                |
-| https://mkusaka.github.io/trending/daily/hiveql/index.xml                             | daily  | hiveql                             |
-| https://mkusaka.github.io/trending/daily/hlsl/index.xml                               | daily  | hlsl                               |
-| https://mkusaka.github.io/trending/daily/holyc/index.xml                              | daily  | holyc                              |
-| https://mkusaka.github.io/trending/daily/hoon/index.xml                               | daily  | hoon                               |
-| https://mkusaka.github.io/trending/daily/jinja/index.xml                              | daily  | jinja                              |
-| https://mkusaka.github.io/trending/daily/html+ecr/index.xml                           | daily  | html+ecr                           |
-| https://mkusaka.github.io/trending/daily/html+eex/index.xml                           | daily  | html+eex                           |
-| https://mkusaka.github.io/trending/daily/html+erb/index.xml                           | daily  | html+erb                           |
-| https://mkusaka.github.io/trending/daily/html+php/index.xml                           | daily  | html+php                           |
-| https://mkusaka.github.io/trending/daily/html+razor/index.xml                         | daily  | html+razor                         |
-| https://mkusaka.github.io/trending/daily/http/index.xml                               | daily  | http                               |
-| https://mkusaka.github.io/trending/daily/hxml/index.xml                               | daily  | hxml                               |
-| https://mkusaka.github.io/trending/daily/hy/index.xml                                 | daily  | hy                                 |
-| https://mkusaka.github.io/trending/daily/hyphy/index.xml                              | daily  | hyphy                              |
-| https://mkusaka.github.io/trending/daily/idl/index.xml                                | daily  | idl                                |
-| https://mkusaka.github.io/trending/daily/idris/index.xml                              | daily  | idris                              |
-| https://mkusaka.github.io/trending/daily/ignore-list/index.xml                        | daily  | ignore-list                        |
-| https://mkusaka.github.io/trending/daily/igor-pro/index.xml                           | daily  | igor-pro                           |
-| https://mkusaka.github.io/trending/daily/imagej-macro/index.xml                       | daily  | imagej-macro                       |
-| https://mkusaka.github.io/trending/daily/inform-7/index.xml                           | daily  | inform-7                           |
-| https://mkusaka.github.io/trending/daily/ini/index.xml                                | daily  | ini                                |
-| https://mkusaka.github.io/trending/daily/inno-setup/index.xml                         | daily  | inno-setup                         |
-| https://mkusaka.github.io/trending/daily/io/index.xml                                 | daily  | io                                 |
-| https://mkusaka.github.io/trending/daily/ioke/index.xml                               | daily  | ioke                               |
-| https://mkusaka.github.io/trending/daily/irc-log/index.xml                            | daily  | irc-log                            |
-| https://mkusaka.github.io/trending/daily/isabelle/index.xml                           | daily  | isabelle                           |
-| https://mkusaka.github.io/trending/daily/isabelle-root/index.xml                      | daily  | isabelle-root                      |
-| https://mkusaka.github.io/trending/daily/j/index.xml                                  | daily  | j                                  |
-| https://mkusaka.github.io/trending/daily/janet/index.xml                              | daily  | janet                              |
-| https://mkusaka.github.io/trending/daily/jar-manifest/index.xml                       | daily  | jar-manifest                       |
-| https://mkusaka.github.io/trending/daily/jasmin/index.xml                             | daily  | jasmin                             |
-| https://mkusaka.github.io/trending/daily/java-properties/index.xml                    | daily  | java-properties                    |
-| https://mkusaka.github.io/trending/daily/java-server-pages/index.xml                  | daily  | java-server-pages                  |
-| https://mkusaka.github.io/trending/daily/javascript+erb/index.xml                     | daily  | javascript+erb                     |
-| https://mkusaka.github.io/trending/daily/jest-snapshot/index.xml                      | daily  | jest-snapshot                      |
-| https://mkusaka.github.io/trending/daily/jflex/index.xml                              | daily  | jflex                              |
-| https://mkusaka.github.io/trending/daily/jison/index.xml                              | daily  | jison                              |
-| https://mkusaka.github.io/trending/daily/jison-lex/index.xml                          | daily  | jison-lex                          |
-| https://mkusaka.github.io/trending/daily/jolie/index.xml                              | daily  | jolie                              |
-| https://mkusaka.github.io/trending/daily/jq/index.xml                                 | daily  | jq                                 |
-| https://mkusaka.github.io/trending/daily/json/index.xml                               | daily  | json                               |
-| https://mkusaka.github.io/trending/daily/json-with-comments/index.xml                 | daily  | json-with-comments                 |
-| https://mkusaka.github.io/trending/daily/json5/index.xml                              | daily  | json5                              |
-| https://mkusaka.github.io/trending/daily/jsoniq/index.xml                             | daily  | jsoniq                             |
-| https://mkusaka.github.io/trending/daily/jsonld/index.xml                             | daily  | jsonld                             |
-| https://mkusaka.github.io/trending/daily/jsonnet/index.xml                            | daily  | jsonnet                            |
-| https://mkusaka.github.io/trending/daily/julia/index.xml                              | daily  | julia                              |
-| https://mkusaka.github.io/trending/daily/jupyter-notebook/index.xml                   | daily  | jupyter-notebook                   |
-| https://mkusaka.github.io/trending/daily/kaitai-struct/index.xml                      | daily  | kaitai-struct                      |
-| https://mkusaka.github.io/trending/daily/kakounescript/index.xml                      | daily  | kakounescript                      |
-| https://mkusaka.github.io/trending/daily/kicad-layout/index.xml                       | daily  | kicad-layout                       |
-| https://mkusaka.github.io/trending/daily/kicad-legacy-layout/index.xml                | daily  | kicad-legacy-layout                |
-| https://mkusaka.github.io/trending/daily/kicad-schematic/index.xml                    | daily  | kicad-schematic                    |
-| https://mkusaka.github.io/trending/daily/kit/index.xml                                | daily  | kit                                |
-| https://mkusaka.github.io/trending/daily/kotlin/index.xml                             | daily  | kotlin                             |
-| https://mkusaka.github.io/trending/daily/krl/index.xml                                | daily  | krl                                |
-| https://mkusaka.github.io/trending/daily/kusto/index.xml                              | daily  | kusto                              |
-| https://mkusaka.github.io/trending/daily/kvlang/index.xml                             | daily  | kvlang                             |
-| https://mkusaka.github.io/trending/daily/labview/index.xml                            | daily  | labview                            |
-| https://mkusaka.github.io/trending/daily/lark/index.xml                               | daily  | lark                               |
-| https://mkusaka.github.io/trending/daily/lasso/index.xml                              | daily  | lasso                              |
-| https://mkusaka.github.io/trending/daily/latte/index.xml                              | daily  | latte                              |
-| https://mkusaka.github.io/trending/daily/lean/index.xml                               | daily  | lean                               |
-| https://mkusaka.github.io/trending/daily/less/index.xml                               | daily  | less                               |
-| https://mkusaka.github.io/trending/daily/lex/index.xml                                | daily  | lex                                |
-| https://mkusaka.github.io/trending/daily/lfe/index.xml                                | daily  | lfe                                |
-| https://mkusaka.github.io/trending/daily/ligolang/index.xml                           | daily  | ligolang                           |
-| https://mkusaka.github.io/trending/daily/lilypond/index.xml                           | daily  | lilypond                           |
-| https://mkusaka.github.io/trending/daily/limbo/index.xml                              | daily  | limbo                              |
-| https://mkusaka.github.io/trending/daily/linker-script/index.xml                      | daily  | linker-script                      |
-| https://mkusaka.github.io/trending/daily/linux-kernel-module/index.xml                | daily  | linux-kernel-module                |
-| https://mkusaka.github.io/trending/daily/liquid/index.xml                             | daily  | liquid                             |
-| https://mkusaka.github.io/trending/daily/literate-agda/index.xml                      | daily  | literate-agda                      |
-| https://mkusaka.github.io/trending/daily/literate-coffeescript/index.xml              | daily  | literate-coffeescript              |
-| https://mkusaka.github.io/trending/daily/literate-haskell/index.xml                   | daily  | literate-haskell                   |
-| https://mkusaka.github.io/trending/daily/livescript/index.xml                         | daily  | livescript                         |
-| https://mkusaka.github.io/trending/daily/llvm/index.xml                               | daily  | llvm                               |
-| https://mkusaka.github.io/trending/daily/logos/index.xml                              | daily  | logos                              |
-| https://mkusaka.github.io/trending/daily/logtalk/index.xml                            | daily  | logtalk                            |
-| https://mkusaka.github.io/trending/daily/lolcode/index.xml                            | daily  | lolcode                            |
-| https://mkusaka.github.io/trending/daily/lookml/index.xml                             | daily  | lookml                             |
-| https://mkusaka.github.io/trending/daily/loomscript/index.xml                         | daily  | loomscript                         |
-| https://mkusaka.github.io/trending/daily/lsl/index.xml                                | daily  | lsl                                |
-| https://mkusaka.github.io/trending/daily/ltspice-symbol/index.xml                     | daily  | ltspice-symbol                     |
-| https://mkusaka.github.io/trending/daily/lua/index.xml                                | daily  | lua                                |
-| https://mkusaka.github.io/trending/daily/m/index.xml                                  | daily  | m                                  |
-| https://mkusaka.github.io/trending/daily/m4/index.xml                                 | daily  | m4                                 |
-| https://mkusaka.github.io/trending/daily/m4sugar/index.xml                            | daily  | m4sugar                            |
-| https://mkusaka.github.io/trending/daily/macaulay2/index.xml                          | daily  | macaulay2                          |
-| https://mkusaka.github.io/trending/daily/makefile/index.xml                           | daily  | makefile                           |
-| https://mkusaka.github.io/trending/daily/mako/index.xml                               | daily  | mako                               |
-| https://mkusaka.github.io/trending/daily/markdown/index.xml                           | daily  | markdown                           |
-| https://mkusaka.github.io/trending/daily/marko/index.xml                              | daily  | marko                              |
-| https://mkusaka.github.io/trending/daily/mask/index.xml                               | daily  | mask                               |
-| https://mkusaka.github.io/trending/daily/mathematica/index.xml                        | daily  | mathematica                        |
-| https://mkusaka.github.io/trending/daily/matlab/index.xml                             | daily  | matlab                             |
-| https://mkusaka.github.io/trending/daily/maven-pom/index.xml                          | daily  | maven-pom                          |
-| https://mkusaka.github.io/trending/daily/max/index.xml                                | daily  | max                                |
-| https://mkusaka.github.io/trending/daily/maxscript/index.xml                          | daily  | maxscript                          |
-| https://mkusaka.github.io/trending/daily/mcfunction/index.xml                         | daily  | mcfunction                         |
-| https://mkusaka.github.io/trending/daily/wikitext/index.xml                           | daily  | wikitext                           |
-| https://mkusaka.github.io/trending/daily/mercury/index.xml                            | daily  | mercury                            |
-| https://mkusaka.github.io/trending/daily/meson/index.xml                              | daily  | meson                              |
-| https://mkusaka.github.io/trending/daily/metal/index.xml                              | daily  | metal                              |
-| https://mkusaka.github.io/trending/daily/microsoft-developer-studio-project/index.xml | daily  | microsoft-developer-studio-project |
-| https://mkusaka.github.io/trending/daily/microsoft-visual-studio-solution/index.xml   | daily  | microsoft-visual-studio-solution   |
-| https://mkusaka.github.io/trending/daily/minid/index.xml                              | daily  | minid                              |
-| https://mkusaka.github.io/trending/daily/mint/index.xml                               | daily  | mint                               |
-| https://mkusaka.github.io/trending/daily/mirah/index.xml                              | daily  | mirah                              |
-| https://mkusaka.github.io/trending/daily/mirc-script/index.xml                        | daily  | mirc-script                        |
-| https://mkusaka.github.io/trending/daily/mlir/index.xml                               | daily  | mlir                               |
-| https://mkusaka.github.io/trending/daily/modelica/index.xml                           | daily  | modelica                           |
-| https://mkusaka.github.io/trending/daily/modula-2/index.xml                           | daily  | modula-2                           |
-| https://mkusaka.github.io/trending/daily/modula-3/index.xml                           | daily  | modula-3                           |
-| https://mkusaka.github.io/trending/daily/module-management-system/index.xml           | daily  | module-management-system           |
-| https://mkusaka.github.io/trending/daily/monkey/index.xml                             | daily  | monkey                             |
-| https://mkusaka.github.io/trending/daily/monkey-c/index.xml                           | daily  | monkey-c                           |
-| https://mkusaka.github.io/trending/daily/moocode/index.xml                            | daily  | moocode                            |
-| https://mkusaka.github.io/trending/daily/moonscript/index.xml                         | daily  | moonscript                         |
-| https://mkusaka.github.io/trending/daily/motoko/index.xml                             | daily  | motoko                             |
-| https://mkusaka.github.io/trending/daily/motorola-68k-assembly/index.xml              | daily  | motorola-68k-assembly              |
-| https://mkusaka.github.io/trending/daily/mql4/index.xml                               | daily  | mql4                               |
-| https://mkusaka.github.io/trending/daily/mql5/index.xml                               | daily  | mql5                               |
-| https://mkusaka.github.io/trending/daily/mtml/index.xml                               | daily  | mtml                               |
-| https://mkusaka.github.io/trending/daily/muf/index.xml                                | daily  | muf                                |
-| https://mkusaka.github.io/trending/daily/mupad/index.xml                              | daily  | mupad                              |
-| https://mkusaka.github.io/trending/daily/muse/index.xml                               | daily  | muse                               |
-| https://mkusaka.github.io/trending/daily/mustache/index.xml                           | daily  | mustache                           |
-| https://mkusaka.github.io/trending/daily/myghty/index.xml                             | daily  | myghty                             |
-| https://mkusaka.github.io/trending/daily/nanorc/index.xml                             | daily  | nanorc                             |
-| https://mkusaka.github.io/trending/daily/nasl/index.xml                               | daily  | nasl                               |
-| https://mkusaka.github.io/trending/daily/ncl/index.xml                                | daily  | ncl                                |
-| https://mkusaka.github.io/trending/daily/nearley/index.xml                            | daily  | nearley                            |
-| https://mkusaka.github.io/trending/daily/nemerle/index.xml                            | daily  | nemerle                            |
-| https://mkusaka.github.io/trending/daily/neon/index.xml                               | daily  | neon                               |
-| https://mkusaka.github.io/trending/daily/nesc/index.xml                               | daily  | nesc                               |
-| https://mkusaka.github.io/trending/daily/netlinx/index.xml                            | daily  | netlinx                            |
-| https://mkusaka.github.io/trending/daily/netlinx+erb/index.xml                        | daily  | netlinx+erb                        |
-| https://mkusaka.github.io/trending/daily/netlogo/index.xml                            | daily  | netlogo                            |
-| https://mkusaka.github.io/trending/daily/newlisp/index.xml                            | daily  | newlisp                            |
-| https://mkusaka.github.io/trending/daily/nextflow/index.xml                           | daily  | nextflow                           |
-| https://mkusaka.github.io/trending/daily/nginx/index.xml                              | daily  | nginx                              |
-| https://mkusaka.github.io/trending/daily/nim/index.xml                                | daily  | nim                                |
-| https://mkusaka.github.io/trending/daily/ninja/index.xml                              | daily  | ninja                              |
-| https://mkusaka.github.io/trending/daily/nit/index.xml                                | daily  | nit                                |
-| https://mkusaka.github.io/trending/daily/nix/index.xml                                | daily  | nix                                |
-| https://mkusaka.github.io/trending/daily/nl/index.xml                                 | daily  | nl                                 |
-| https://mkusaka.github.io/trending/daily/npm-config/index.xml                         | daily  | npm-config                         |
-| https://mkusaka.github.io/trending/daily/nsis/index.xml                               | daily  | nsis                               |
-| https://mkusaka.github.io/trending/daily/nu/index.xml                                 | daily  | nu                                 |
-| https://mkusaka.github.io/trending/daily/numpy/index.xml                              | daily  | numpy                              |
-| https://mkusaka.github.io/trending/daily/nunjucks/index.xml                           | daily  | nunjucks                           |
-| https://mkusaka.github.io/trending/daily/nwscript/index.xml                           | daily  | nwscript                           |
-| https://mkusaka.github.io/trending/daily/objdump/index.xml                            | daily  | objdump                            |
-| https://mkusaka.github.io/trending/daily/object-data-instance-notation/index.xml      | daily  | object-data-instance-notation      |
-| https://mkusaka.github.io/trending/daily/objective-c/index.xml                        | daily  | objective-c                        |
-| https://mkusaka.github.io/trending/daily/objective-c++/index.xml                      | daily  | objective-c++                      |
-| https://mkusaka.github.io/trending/daily/objective-j/index.xml                        | daily  | objective-j                        |
-| https://mkusaka.github.io/trending/daily/objectscript/index.xml                       | daily  | objectscript                       |
-| https://mkusaka.github.io/trending/daily/ocaml/index.xml                              | daily  | ocaml                              |
-| https://mkusaka.github.io/trending/daily/odin/index.xml                               | daily  | odin                               |
-| https://mkusaka.github.io/trending/daily/omgrofl/index.xml                            | daily  | omgrofl                            |
-| https://mkusaka.github.io/trending/daily/ooc/index.xml                                | daily  | ooc                                |
-| https://mkusaka.github.io/trending/daily/opa/index.xml                                | daily  | opa                                |
-| https://mkusaka.github.io/trending/daily/opal/index.xml                               | daily  | opal                               |
-| https://mkusaka.github.io/trending/daily/open-policy-agent/index.xml                  | daily  | open-policy-agent                  |
-| https://mkusaka.github.io/trending/daily/opencl/index.xml                             | daily  | opencl                             |
-| https://mkusaka.github.io/trending/daily/openedge-abl/index.xml                       | daily  | openedge-abl                       |
-| https://mkusaka.github.io/trending/daily/openqasm/index.xml                           | daily  | openqasm                           |
-| https://mkusaka.github.io/trending/daily/openrc-runscript/index.xml                   | daily  | openrc-runscript                   |
-| https://mkusaka.github.io/trending/daily/openscad/index.xml                           | daily  | openscad                           |
-| https://mkusaka.github.io/trending/daily/openstep-property-list/index.xml             | daily  | openstep-property-list             |
-| https://mkusaka.github.io/trending/daily/opentype-feature-file/index.xml              | daily  | opentype-feature-file              |
-| https://mkusaka.github.io/trending/daily/org/index.xml                                | daily  | org                                |
-| https://mkusaka.github.io/trending/daily/ox/index.xml                                 | daily  | ox                                 |
-| https://mkusaka.github.io/trending/daily/oxygene/index.xml                            | daily  | oxygene                            |
-| https://mkusaka.github.io/trending/daily/oz/index.xml                                 | daily  | oz                                 |
-| https://mkusaka.github.io/trending/daily/p4/index.xml                                 | daily  | p4                                 |
-| https://mkusaka.github.io/trending/daily/pan/index.xml                                | daily  | pan                                |
-| https://mkusaka.github.io/trending/daily/papyrus/index.xml                            | daily  | papyrus                            |
-| https://mkusaka.github.io/trending/daily/parrot/index.xml                             | daily  | parrot                             |
-| https://mkusaka.github.io/trending/daily/parrot-assembly/index.xml                    | daily  | parrot-assembly                    |
-| https://mkusaka.github.io/trending/daily/parrot-internal-representation/index.xml     | daily  | parrot-internal-representation     |
-| https://mkusaka.github.io/trending/daily/pascal/index.xml                             | daily  | pascal                             |
-| https://mkusaka.github.io/trending/daily/pawn/index.xml                               | daily  | pawn                               |
-| https://mkusaka.github.io/trending/daily/peg.js/index.xml                             | daily  | peg.js                             |
-| https://mkusaka.github.io/trending/daily/pep8/index.xml                               | daily  | pep8                               |
-| https://mkusaka.github.io/trending/daily/perl/index.xml                               | daily  | perl                               |
-| https://mkusaka.github.io/trending/daily/pic/index.xml                                | daily  | pic                                |
-| https://mkusaka.github.io/trending/daily/pickle/index.xml                             | daily  | pickle                             |
-| https://mkusaka.github.io/trending/daily/picolisp/index.xml                           | daily  | picolisp                           |
-| https://mkusaka.github.io/trending/daily/piglatin/index.xml                           | daily  | piglatin                           |
-| https://mkusaka.github.io/trending/daily/pike/index.xml                               | daily  | pike                               |
-| https://mkusaka.github.io/trending/daily/plantuml/index.xml                           | daily  | plantuml                           |
-| https://mkusaka.github.io/trending/daily/plpgsql/index.xml                            | daily  | plpgsql                            |
-| https://mkusaka.github.io/trending/daily/plsql/index.xml                              | daily  | plsql                              |
-| https://mkusaka.github.io/trending/daily/pod/index.xml                                | daily  | pod                                |
-| https://mkusaka.github.io/trending/daily/pod-6/index.xml                              | daily  | pod-6                              |
-| https://mkusaka.github.io/trending/daily/pogoscript/index.xml                         | daily  | pogoscript                         |
-| https://mkusaka.github.io/trending/daily/pony/index.xml                               | daily  | pony                               |
-| https://mkusaka.github.io/trending/daily/postcss/index.xml                            | daily  | postcss                            |
-| https://mkusaka.github.io/trending/daily/postscript/index.xml                         | daily  | postscript                         |
-| https://mkusaka.github.io/trending/daily/pov-ray-sdl/index.xml                        | daily  | pov-ray-sdl                        |
-| https://mkusaka.github.io/trending/daily/powerbuilder/index.xml                       | daily  | powerbuilder                       |
-| https://mkusaka.github.io/trending/daily/powershell/index.xml                         | daily  | powershell                         |
-| https://mkusaka.github.io/trending/daily/prisma/index.xml                             | daily  | prisma                             |
-| https://mkusaka.github.io/trending/daily/processing/index.xml                         | daily  | processing                         |
-| https://mkusaka.github.io/trending/daily/procfile/index.xml                           | daily  | procfile                           |
-| https://mkusaka.github.io/trending/daily/proguard/index.xml                           | daily  | proguard                           |
-| https://mkusaka.github.io/trending/daily/prolog/index.xml                             | daily  | prolog                             |
-| https://mkusaka.github.io/trending/daily/promela/index.xml                            | daily  | promela                            |
-| https://mkusaka.github.io/trending/daily/propeller-spin/index.xml                     | daily  | propeller-spin                     |
-| https://mkusaka.github.io/trending/daily/protocol-buffer/index.xml                    | daily  | protocol-buffer                    |
-| https://mkusaka.github.io/trending/daily/protocol-buffer-text-format/index.xml        | daily  | protocol-buffer-text-format        |
-| https://mkusaka.github.io/trending/daily/public-key/index.xml                         | daily  | public-key                         |
-| https://mkusaka.github.io/trending/daily/pug/index.xml                                | daily  | pug                                |
-| https://mkusaka.github.io/trending/daily/puppet/index.xml                             | daily  | puppet                             |
-| https://mkusaka.github.io/trending/daily/pure-data/index.xml                          | daily  | pure-data                          |
-| https://mkusaka.github.io/trending/daily/purebasic/index.xml                          | daily  | purebasic                          |
-| https://mkusaka.github.io/trending/daily/purescript/index.xml                         | daily  | purescript                         |
-| https://mkusaka.github.io/trending/daily/python-console/index.xml                     | daily  | python-console                     |
-| https://mkusaka.github.io/trending/daily/python-traceback/index.xml                   | daily  | python-traceback                   |
-| https://mkusaka.github.io/trending/daily/q/index.xml                                  | daily  | q                                  |
-| https://mkusaka.github.io/trending/daily/q%23/index.xml                               | daily  | q%23                               |
-| https://mkusaka.github.io/trending/daily/qmake/index.xml                              | daily  | qmake                              |
-| https://mkusaka.github.io/trending/daily/qml/index.xml                                | daily  | qml                                |
-| https://mkusaka.github.io/trending/daily/qt-script/index.xml                          | daily  | qt-script                          |
-| https://mkusaka.github.io/trending/daily/quake/index.xml                              | daily  | quake                              |
-| https://mkusaka.github.io/trending/daily/r/index.xml                                  | daily  | r                                  |
-| https://mkusaka.github.io/trending/daily/racket/index.xml                             | daily  | racket                             |
-| https://mkusaka.github.io/trending/daily/ragel/index.xml                              | daily  | ragel                              |
-| https://mkusaka.github.io/trending/daily/raku/index.xml                               | daily  | raku                               |
-| https://mkusaka.github.io/trending/daily/raml/index.xml                               | daily  | raml                               |
-| https://mkusaka.github.io/trending/daily/rascal/index.xml                             | daily  | rascal                             |
-| https://mkusaka.github.io/trending/daily/raw-token-data/index.xml                     | daily  | raw-token-data                     |
-| https://mkusaka.github.io/trending/daily/rdoc/index.xml                               | daily  | rdoc                               |
-| https://mkusaka.github.io/trending/daily/readline-config/index.xml                    | daily  | readline-config                    |
-| https://mkusaka.github.io/trending/daily/realbasic/index.xml                          | daily  | realbasic                          |
-| https://mkusaka.github.io/trending/daily/reason/index.xml                             | daily  | reason                             |
-| https://mkusaka.github.io/trending/daily/rebol/index.xml                              | daily  | rebol                              |
-| https://mkusaka.github.io/trending/daily/record-jar/index.xml                         | daily  | record-jar                         |
-| https://mkusaka.github.io/trending/daily/red/index.xml                                | daily  | red                                |
-| https://mkusaka.github.io/trending/daily/redcode/index.xml                            | daily  | redcode                            |
-| https://mkusaka.github.io/trending/daily/redirect-rules/index.xml                     | daily  | redirect-rules                     |
-| https://mkusaka.github.io/trending/daily/regular-expression/index.xml                 | daily  | regular-expression                 |
-| https://mkusaka.github.io/trending/daily/ren'py/index.xml                             | daily  | ren'py                             |
-| https://mkusaka.github.io/trending/daily/renderscript/index.xml                       | daily  | renderscript                       |
-| https://mkusaka.github.io/trending/daily/rescript/index.xml                           | daily  | rescript                           |
-| https://mkusaka.github.io/trending/daily/restructuredtext/index.xml                   | daily  | restructuredtext                   |
-| https://mkusaka.github.io/trending/daily/rexx/index.xml                               | daily  | rexx                               |
-| https://mkusaka.github.io/trending/daily/rich-text-format/index.xml                   | daily  | rich-text-format                   |
-| https://mkusaka.github.io/trending/daily/ring/index.xml                               | daily  | ring                               |
-| https://mkusaka.github.io/trending/daily/riot/index.xml                               | daily  | riot                               |
-| https://mkusaka.github.io/trending/daily/rmarkdown/index.xml                          | daily  | rmarkdown                          |
-| https://mkusaka.github.io/trending/daily/robotframework/index.xml                     | daily  | robotframework                     |
-| https://mkusaka.github.io/trending/daily/robots.txt/index.xml                         | daily  | robots.txt                         |
-| https://mkusaka.github.io/trending/daily/roff/index.xml                               | daily  | roff                               |
-| https://mkusaka.github.io/trending/daily/roff-manpage/index.xml                       | daily  | roff-manpage                       |
-| https://mkusaka.github.io/trending/daily/rouge/index.xml                              | daily  | rouge                              |
-| https://mkusaka.github.io/trending/daily/rpc/index.xml                                | daily  | rpc                                |
-| https://mkusaka.github.io/trending/daily/rpgle/index.xml                              | daily  | rpgle                              |
-| https://mkusaka.github.io/trending/daily/rpm-spec/index.xml                           | daily  | rpm-spec                           |
-| https://mkusaka.github.io/trending/daily/runoff/index.xml                             | daily  | runoff                             |
-| https://mkusaka.github.io/trending/daily/rust/index.xml                               | daily  | rust                               |
-| https://mkusaka.github.io/trending/daily/sage/index.xml                               | daily  | sage                               |
-| https://mkusaka.github.io/trending/daily/saltstack/index.xml                          | daily  | saltstack                          |
-| https://mkusaka.github.io/trending/daily/sas/index.xml                                | daily  | sas                                |
-| https://mkusaka.github.io/trending/daily/sass/index.xml                               | daily  | sass                               |
-| https://mkusaka.github.io/trending/daily/scala/index.xml                              | daily  | scala                              |
-| https://mkusaka.github.io/trending/daily/scaml/index.xml                              | daily  | scaml                              |
-| https://mkusaka.github.io/trending/daily/scheme/index.xml                             | daily  | scheme                             |
-| https://mkusaka.github.io/trending/daily/scilab/index.xml                             | daily  | scilab                             |
-| https://mkusaka.github.io/trending/daily/scss/index.xml                               | daily  | scss                               |
-| https://mkusaka.github.io/trending/daily/sed/index.xml                                | daily  | sed                                |
-| https://mkusaka.github.io/trending/daily/self/index.xml                               | daily  | self                               |
-| https://mkusaka.github.io/trending/daily/selinux-policy/index.xml                     | daily  | selinux-policy                     |
-| https://mkusaka.github.io/trending/daily/shaderlab/index.xml                          | daily  | shaderlab                          |
-| https://mkusaka.github.io/trending/daily/shell/index.xml                              | daily  | shell                              |
-| https://mkusaka.github.io/trending/daily/shellcheck-config/index.xml                  | daily  | shellcheck-config                  |
-| https://mkusaka.github.io/trending/daily/shellsession/index.xml                       | daily  | shellsession                       |
-| https://mkusaka.github.io/trending/daily/shen/index.xml                               | daily  | shen                               |
-| https://mkusaka.github.io/trending/daily/sieve/index.xml                              | daily  | sieve                              |
-| https://mkusaka.github.io/trending/daily/singularity/index.xml                        | daily  | singularity                        |
-| https://mkusaka.github.io/trending/daily/slash/index.xml                              | daily  | slash                              |
-| https://mkusaka.github.io/trending/daily/slice/index.xml                              | daily  | slice                              |
-| https://mkusaka.github.io/trending/daily/slim/index.xml                               | daily  | slim                               |
-| https://mkusaka.github.io/trending/daily/smali/index.xml                              | daily  | smali                              |
-| https://mkusaka.github.io/trending/daily/smalltalk/index.xml                          | daily  | smalltalk                          |
-| https://mkusaka.github.io/trending/daily/smarty/index.xml                             | daily  | smarty                             |
-| https://mkusaka.github.io/trending/daily/smpl/index.xml                               | daily  | smpl                               |
-| https://mkusaka.github.io/trending/daily/smt/index.xml                                | daily  | smt                                |
-| https://mkusaka.github.io/trending/daily/solidity/index.xml                           | daily  | solidity                           |
-| https://mkusaka.github.io/trending/daily/soong/index.xml                              | daily  | soong                              |
-| https://mkusaka.github.io/trending/daily/sourcepawn/index.xml                         | daily  | sourcepawn                         |
-| https://mkusaka.github.io/trending/daily/sparql/index.xml                             | daily  | sparql                             |
-| https://mkusaka.github.io/trending/daily/spline-font-database/index.xml               | daily  | spline-font-database               |
-| https://mkusaka.github.io/trending/daily/sqf/index.xml                                | daily  | sqf                                |
-| https://mkusaka.github.io/trending/daily/sql/index.xml                                | daily  | sql                                |
-| https://mkusaka.github.io/trending/daily/sqlpl/index.xml                              | daily  | sqlpl                              |
-| https://mkusaka.github.io/trending/daily/squirrel/index.xml                           | daily  | squirrel                           |
-| https://mkusaka.github.io/trending/daily/srecode-template/index.xml                   | daily  | srecode-template                   |
-| https://mkusaka.github.io/trending/daily/ssh-config/index.xml                         | daily  | ssh-config                         |
-| https://mkusaka.github.io/trending/daily/stan/index.xml                               | daily  | stan                               |
-| https://mkusaka.github.io/trending/daily/standard-ml/index.xml                        | daily  | standard-ml                        |
-| https://mkusaka.github.io/trending/daily/starlark/index.xml                           | daily  | starlark                           |
-| https://mkusaka.github.io/trending/daily/stata/index.xml                              | daily  | stata                              |
-| https://mkusaka.github.io/trending/daily/ston/index.xml                               | daily  | ston                               |
-| https://mkusaka.github.io/trending/daily/stringtemplate/index.xml                     | daily  | stringtemplate                     |
-| https://mkusaka.github.io/trending/daily/stylus/index.xml                             | daily  | stylus                             |
-| https://mkusaka.github.io/trending/daily/subrip-text/index.xml                        | daily  | subrip-text                        |
-| https://mkusaka.github.io/trending/daily/sugarss/index.xml                            | daily  | sugarss                            |
-| https://mkusaka.github.io/trending/daily/supercollider/index.xml                      | daily  | supercollider                      |
-| https://mkusaka.github.io/trending/daily/svelte/index.xml                             | daily  | svelte                             |
-| https://mkusaka.github.io/trending/daily/svg/index.xml                                | daily  | svg                                |
-| https://mkusaka.github.io/trending/daily/swift/index.xml                              | daily  | swift                              |
-| https://mkusaka.github.io/trending/daily/swig/index.xml                               | daily  | swig                               |
-| https://mkusaka.github.io/trending/daily/systemverilog/index.xml                      | daily  | systemverilog                      |
-| https://mkusaka.github.io/trending/daily/talon/index.xml                              | daily  | talon                              |
-| https://mkusaka.github.io/trending/daily/tcl/index.xml                                | daily  | tcl                                |
-| https://mkusaka.github.io/trending/daily/tcsh/index.xml                               | daily  | tcsh                               |
-| https://mkusaka.github.io/trending/daily/tea/index.xml                                | daily  | tea                                |
-| https://mkusaka.github.io/trending/daily/terra/index.xml                              | daily  | terra                              |
-| https://mkusaka.github.io/trending/daily/tex/index.xml                                | daily  | tex                                |
-| https://mkusaka.github.io/trending/daily/texinfo/index.xml                            | daily  | texinfo                            |
-| https://mkusaka.github.io/trending/daily/text/index.xml                               | daily  | text                               |
-| https://mkusaka.github.io/trending/daily/textile/index.xml                            | daily  | textile                            |
-| https://mkusaka.github.io/trending/daily/textmate-properties/index.xml                | daily  | textmate-properties                |
-| https://mkusaka.github.io/trending/daily/thrift/index.xml                             | daily  | thrift                             |
-| https://mkusaka.github.io/trending/daily/ti-program/index.xml                         | daily  | ti-program                         |
-| https://mkusaka.github.io/trending/daily/tla/index.xml                                | daily  | tla                                |
-| https://mkusaka.github.io/trending/daily/toml/index.xml                               | daily  | toml                               |
-| https://mkusaka.github.io/trending/daily/tsql/index.xml                               | daily  | tsql                               |
-| https://mkusaka.github.io/trending/daily/tsv/index.xml                                | daily  | tsv                                |
-| https://mkusaka.github.io/trending/daily/tsx/index.xml                                | daily  | tsx                                |
-| https://mkusaka.github.io/trending/daily/turing/index.xml                             | daily  | turing                             |
-| https://mkusaka.github.io/trending/daily/turtle/index.xml                             | daily  | turtle                             |
-| https://mkusaka.github.io/trending/daily/twig/index.xml                               | daily  | twig                               |
-| https://mkusaka.github.io/trending/daily/txl/index.xml                                | daily  | txl                                |
-| https://mkusaka.github.io/trending/daily/type-language/index.xml                      | daily  | type-language                      |
-| https://mkusaka.github.io/trending/daily/typescript/index.xml                         | daily  | typescript                         |
-| https://mkusaka.github.io/trending/daily/unified-parallel-c/index.xml                 | daily  | unified-parallel-c                 |
-| https://mkusaka.github.io/trending/daily/unity3d-asset/index.xml                      | daily  | unity3d-asset                      |
-| https://mkusaka.github.io/trending/daily/unix-assembly/index.xml                      | daily  | unix-assembly                      |
-| https://mkusaka.github.io/trending/daily/uno/index.xml                                | daily  | uno                                |
-| https://mkusaka.github.io/trending/daily/unrealscript/index.xml                       | daily  | unrealscript                       |
-| https://mkusaka.github.io/trending/daily/urweb/index.xml                              | daily  | urweb                              |
-| https://mkusaka.github.io/trending/daily/v/index.xml                                  | daily  | v                                  |
-| https://mkusaka.github.io/trending/daily/vala/index.xml                               | daily  | vala                               |
-| https://mkusaka.github.io/trending/daily/valve-data-format/index.xml                  | daily  | valve-data-format                  |
-| https://mkusaka.github.io/trending/daily/vba/index.xml                                | daily  | vba                                |
-| https://mkusaka.github.io/trending/daily/vbscript/index.xml                           | daily  | vbscript                           |
-| https://mkusaka.github.io/trending/daily/vcl/index.xml                                | daily  | vcl                                |
-| https://mkusaka.github.io/trending/daily/verilog/index.xml                            | daily  | verilog                            |
-| https://mkusaka.github.io/trending/daily/vhdl/index.xml                               | daily  | vhdl                               |
-| https://mkusaka.github.io/trending/daily/vim-help-file/index.xml                      | daily  | vim-help-file                      |
-| https://mkusaka.github.io/trending/daily/vim-script/index.xml                         | daily  | vim-script                         |
-| https://mkusaka.github.io/trending/daily/vim-snippet/index.xml                        | daily  | vim-snippet                        |
-| https://mkusaka.github.io/trending/daily/visual-basic-.net/index.xml                  | daily  | visual-basic-.net                  |
-| https://mkusaka.github.io/trending/daily/volt/index.xml                               | daily  | volt                               |
-| https://mkusaka.github.io/trending/daily/vue/index.xml                                | daily  | vue                                |
-| https://mkusaka.github.io/trending/daily/vyper/index.xml                              | daily  | vyper                              |
-| https://mkusaka.github.io/trending/daily/wavefront-material/index.xml                 | daily  | wavefront-material                 |
-| https://mkusaka.github.io/trending/daily/wavefront-object/index.xml                   | daily  | wavefront-object                   |
-| https://mkusaka.github.io/trending/daily/wdl/index.xml                                | daily  | wdl                                |
-| https://mkusaka.github.io/trending/daily/web-ontology-language/index.xml              | daily  | web-ontology-language              |
-| https://mkusaka.github.io/trending/daily/webassembly/index.xml                        | daily  | webassembly                        |
-| https://mkusaka.github.io/trending/daily/webidl/index.xml                             | daily  | webidl                             |
-| https://mkusaka.github.io/trending/daily/webvtt/index.xml                             | daily  | webvtt                             |
-| https://mkusaka.github.io/trending/daily/wget-config/index.xml                        | daily  | wget-config                        |
-| https://mkusaka.github.io/trending/daily/windows-registry-entries/index.xml           | daily  | windows-registry-entries           |
-| https://mkusaka.github.io/trending/daily/wisp/index.xml                               | daily  | wisp                               |
-| https://mkusaka.github.io/trending/daily/witcher-script/index.xml                     | daily  | witcher-script                     |
-| https://mkusaka.github.io/trending/daily/wollok/index.xml                             | daily  | wollok                             |
-| https://mkusaka.github.io/trending/daily/world-of-warcraft-addon-data/index.xml       | daily  | world-of-warcraft-addon-data       |
-| https://mkusaka.github.io/trending/daily/x-bitmap/index.xml                           | daily  | x-bitmap                           |
-| https://mkusaka.github.io/trending/daily/x-font-directory-index/index.xml             | daily  | x-font-directory-index             |
-| https://mkusaka.github.io/trending/daily/x-pixmap/index.xml                           | daily  | x-pixmap                           |
-| https://mkusaka.github.io/trending/daily/x10/index.xml                                | daily  | x10                                |
-| https://mkusaka.github.io/trending/daily/xbase/index.xml                              | daily  | xbase                              |
-| https://mkusaka.github.io/trending/daily/xc/index.xml                                 | daily  | xc                                 |
-| https://mkusaka.github.io/trending/daily/xcompose/index.xml                           | daily  | xcompose                           |
-| https://mkusaka.github.io/trending/daily/xml/index.xml                                | daily  | xml                                |
-| https://mkusaka.github.io/trending/daily/xml-property-list/index.xml                  | daily  | xml-property-list                  |
-| https://mkusaka.github.io/trending/daily/xojo/index.xml                               | daily  | xojo                               |
-| https://mkusaka.github.io/trending/daily/xonsh/index.xml                              | daily  | xonsh                              |
-| https://mkusaka.github.io/trending/daily/xpages/index.xml                             | daily  | xpages                             |
-| https://mkusaka.github.io/trending/daily/xproc/index.xml                              | daily  | xproc                              |
-| https://mkusaka.github.io/trending/daily/xquery/index.xml                             | daily  | xquery                             |
-| https://mkusaka.github.io/trending/daily/xs/index.xml                                 | daily  | xs                                 |
-| https://mkusaka.github.io/trending/daily/xslt/index.xml                               | daily  | xslt                               |
-| https://mkusaka.github.io/trending/daily/xtend/index.xml                              | daily  | xtend                              |
-| https://mkusaka.github.io/trending/daily/yacc/index.xml                               | daily  | yacc                               |
-| https://mkusaka.github.io/trending/daily/yaml/index.xml                               | daily  | yaml                               |
-| https://mkusaka.github.io/trending/daily/yang/index.xml                               | daily  | yang                               |
-| https://mkusaka.github.io/trending/daily/yara/index.xml                               | daily  | yara                               |
-| https://mkusaka.github.io/trending/daily/yasnippet/index.xml                          | daily  | yasnippet                          |
-| https://mkusaka.github.io/trending/daily/zap/index.xml                                | daily  | zap                                |
-| https://mkusaka.github.io/trending/daily/zenscript/index.xml                          | daily  | zenscript                          |
-| https://mkusaka.github.io/trending/daily/zephir/index.xml                             | daily  | zephir                             |
-| https://mkusaka.github.io/trending/daily/zig/index.xml                                | daily  | zig                                |
-| https://mkusaka.github.io/trending/daily/zil/index.xml                                | daily  | zil                                |
-| https://mkusaka.github.io/trending/daily/zimpl/index.xml                              | daily  | zimpl                              |
-
-https://mkusaka.github.io/trending/daily/all/index.xml daily all
-https://mkusaka.github.io/trending/daily/unknown/index.xml daily unknown
-https://mkusaka.github.io/trending/daily/c++/index.xml daily c++
-https://mkusaka.github.io/trending/daily/html/index.xml daily html
-https://mkusaka.github.io/trending/daily/java/index.xml daily java
-https://mkusaka.github.io/trending/daily/javascript/index.xml daily javascript
-https://mkusaka.github.io/trending/daily/php/index.xml daily php
-https://mkusaka.github.io/trending/daily/python/index.xml daily python
-https://mkusaka.github.io/trending/daily/ruby/index.xml daily ruby
-https://mkusaka.github.io/trending/daily/1c-enterprise/index.xml daily 1c-enterprise
-https://mkusaka.github.io/trending/daily/2-dimensional-array/index.xml daily 2-dimensional-array
-https://mkusaka.github.io/trending/daily/4d/index.xml daily 4d
-https://mkusaka.github.io/trending/daily/abap/index.xml daily abap
-https://mkusaka.github.io/trending/daily/abap-cds/index.xml daily abap-cds
-https://mkusaka.github.io/trending/daily/abnf/index.xml daily abnf
-https://mkusaka.github.io/trending/daily/actionscript/index.xml daily actionscript
-https://mkusaka.github.io/trending/daily/ada/index.xml daily ada
-https://mkusaka.github.io/trending/daily/adobe-font-metrics/index.xml daily adobe-font-metrics
-https://mkusaka.github.io/trending/daily/agda/index.xml daily agda
-https://mkusaka.github.io/trending/daily/ags-script/index.xml daily ags-script
-https://mkusaka.github.io/trending/daily/aidl/index.xml daily aidl
-https://mkusaka.github.io/trending/daily/al/index.xml daily al
-https://mkusaka.github.io/trending/daily/alloy/index.xml daily alloy
-https://mkusaka.github.io/trending/daily/alpine-abuild/index.xml daily alpine-abuild
-https://mkusaka.github.io/trending/daily/altium-designer/index.xml daily altium-designer
-https://mkusaka.github.io/trending/daily/ampl/index.xml daily ampl
-https://mkusaka.github.io/trending/daily/angelscript/index.xml daily angelscript
-https://mkusaka.github.io/trending/daily/ant-build-system/index.xml daily ant-build-system
-https://mkusaka.github.io/trending/daily/antlr/index.xml daily antlr
-https://mkusaka.github.io/trending/daily/apacheconf/index.xml daily apacheconf
-https://mkusaka.github.io/trending/daily/apex/index.xml daily apex
-https://mkusaka.github.io/trending/daily/api-blueprint/index.xml daily api-blueprint
-https://mkusaka.github.io/trending/daily/apl/index.xml daily apl
-https://mkusaka.github.io/trending/daily/apollo-guidance-computer/index.xml daily apollo-guidance-computer
-https://mkusaka.github.io/trending/daily/applescript/index.xml daily applescript
-https://mkusaka.github.io/trending/daily/arc/index.xml daily arc
-https://mkusaka.github.io/trending/daily/asciidoc/index.xml daily asciidoc
-https://mkusaka.github.io/trending/daily/asl/index.xml daily asl
-https://mkusaka.github.io/trending/daily/asn.1/index.xml daily asn.1
-https://mkusaka.github.io/trending/daily/classic-asp/index.xml daily classic-asp
-https://mkusaka.github.io/trending/daily/asp.net/index.xml daily [asp.net](http://asp.net/)
-https://mkusaka.github.io/trending/daily/aspectj/index.xml daily aspectj
-https://mkusaka.github.io/trending/daily/assembly/index.xml daily assembly
-https://mkusaka.github.io/trending/daily/astro/index.xml daily astro
-https://mkusaka.github.io/trending/daily/asymptote/index.xml daily asymptote
-https://mkusaka.github.io/trending/daily/ats/index.xml daily ats
-https://mkusaka.github.io/trending/daily/augeas/index.xml daily augeas
-https://mkusaka.github.io/trending/daily/autohotkey/index.xml daily autohotkey
-https://mkusaka.github.io/trending/daily/autoit/index.xml daily autoit
-https://mkusaka.github.io/trending/daily/avro-idl/index.xml daily avro-idl
-https://mkusaka.github.io/trending/daily/awk/index.xml daily awk
-https://mkusaka.github.io/trending/daily/ballerina/index.xml daily ballerina
-https://mkusaka.github.io/trending/daily/basic/index.xml daily basic
-https://mkusaka.github.io/trending/daily/batchfile/index.xml daily batchfile
-https://mkusaka.github.io/trending/daily/beef/index.xml daily beef
-https://mkusaka.github.io/trending/daily/befunge/index.xml daily befunge
-https://mkusaka.github.io/trending/daily/berry/index.xml daily berry
-https://mkusaka.github.io/trending/daily/bibtex/index.xml daily bibtex
-https://mkusaka.github.io/trending/daily/bicep/index.xml daily bicep
-https://mkusaka.github.io/trending/daily/bison/index.xml daily bison
-https://mkusaka.github.io/trending/daily/bitbake/index.xml daily bitbake
-https://mkusaka.github.io/trending/daily/blade/index.xml daily blade
-https://mkusaka.github.io/trending/daily/blitzbasic/index.xml daily blitzbasic
-https://mkusaka.github.io/trending/daily/blitzmax/index.xml daily blitzmax
-https://mkusaka.github.io/trending/daily/bluespec/index.xml daily bluespec
-https://mkusaka.github.io/trending/daily/boo/index.xml daily boo
-https://mkusaka.github.io/trending/daily/boogie/index.xml daily boogie
-https://mkusaka.github.io/trending/daily/brainfuck/index.xml daily brainfuck
-https://mkusaka.github.io/trending/daily/brightscript/index.xml daily brightscript
-https://mkusaka.github.io/trending/daily/zeek/index.xml daily zeek
-https://mkusaka.github.io/trending/daily/browserslist/index.xml daily browserslist
-https://mkusaka.github.io/trending/daily/c/index.xml daily c
-https://mkusaka.github.io/trending/daily/c%23/index.xml daily c%23
-https://mkusaka.github.io/trending/daily/c-objdump/index.xml daily c-objdump
-https://mkusaka.github.io/trending/daily/c2hs-haskell/index.xml daily c2hs-haskell
-https://mkusaka.github.io/trending/daily/cabal-config/index.xml daily cabal-config
-https://mkusaka.github.io/trending/daily/cadence/index.xml daily cadence
-https://mkusaka.github.io/trending/daily/cairo/index.xml daily cairo
-https://mkusaka.github.io/trending/daily/cap'n-proto/index.xml daily cap'n-proto
-https://mkusaka.github.io/trending/daily/cartocss/index.xml daily cartocss
-https://mkusaka.github.io/trending/daily/ceylon/index.xml daily ceylon
-https://mkusaka.github.io/trending/daily/chapel/index.xml daily chapel
-https://mkusaka.github.io/trending/daily/charity/index.xml daily charity
-https://mkusaka.github.io/trending/daily/chuck/index.xml daily chuck
-https://mkusaka.github.io/trending/daily/cil/index.xml daily cil
-https://mkusaka.github.io/trending/daily/cirru/index.xml daily cirru
-https://mkusaka.github.io/trending/daily/clarion/index.xml daily clarion
-https://mkusaka.github.io/trending/daily/clarity/index.xml daily clarity
-https://mkusaka.github.io/trending/daily/clean/index.xml daily clean
-https://mkusaka.github.io/trending/daily/click/index.xml daily click
-https://mkusaka.github.io/trending/daily/clips/index.xml daily clips
-https://mkusaka.github.io/trending/daily/clojure/index.xml daily clojure
-https://mkusaka.github.io/trending/daily/closure-templates/index.xml daily closure-templates
-https://mkusaka.github.io/trending/daily/cloud-firestore-security-rules/index.xml daily cloud-firestore-security-rules
-https://mkusaka.github.io/trending/daily/cmake/index.xml daily cmake
-https://mkusaka.github.io/trending/daily/cobol/index.xml daily cobol
-https://mkusaka.github.io/trending/daily/codeowners/index.xml daily codeowners
-https://mkusaka.github.io/trending/daily/codeql/index.xml daily codeql
-https://mkusaka.github.io/trending/daily/coffeescript/index.xml daily coffeescript
-https://mkusaka.github.io/trending/daily/coldfusion/index.xml daily coldfusion
-https://mkusaka.github.io/trending/daily/coldfusion-cfc/index.xml daily coldfusion-cfc
-https://mkusaka.github.io/trending/daily/collada/index.xml daily collada
-https://mkusaka.github.io/trending/daily/common-lisp/index.xml daily common-lisp
-https://mkusaka.github.io/trending/daily/common-workflow-language/index.xml daily common-workflow-language
-https://mkusaka.github.io/trending/daily/component-pascal/index.xml daily component-pascal
-https://mkusaka.github.io/trending/daily/conll-u/index.xml daily conll-u
-https://mkusaka.github.io/trending/daily/cool/index.xml daily cool
-https://mkusaka.github.io/trending/daily/coq/index.xml daily coq
-https://mkusaka.github.io/trending/daily/cpp-objdump/index.xml daily cpp-objdump
-https://mkusaka.github.io/trending/daily/creole/index.xml daily creole
-https://mkusaka.github.io/trending/daily/crystal/index.xml daily crystal
-https://mkusaka.github.io/trending/daily/cson/index.xml daily cson
-https://mkusaka.github.io/trending/daily/csound/index.xml daily csound
-https://mkusaka.github.io/trending/daily/csound-document/index.xml daily csound-document
-https://mkusaka.github.io/trending/daily/csound-score/index.xml daily csound-score
-https://mkusaka.github.io/trending/daily/css/index.xml daily css
-https://mkusaka.github.io/trending/daily/csv/index.xml daily csv
-https://mkusaka.github.io/trending/daily/cuda/index.xml daily cuda
-https://mkusaka.github.io/trending/daily/cue/index.xml daily cue
-https://mkusaka.github.io/trending/daily/curl-config/index.xml daily curl-config
-https://mkusaka.github.io/trending/daily/curry/index.xml daily curry
-https://mkusaka.github.io/trending/daily/cweb/index.xml daily cweb
-https://mkusaka.github.io/trending/daily/cycript/index.xml daily cycript
-https://mkusaka.github.io/trending/daily/cython/index.xml daily cython
-https://mkusaka.github.io/trending/daily/d/index.xml daily d
-https://mkusaka.github.io/trending/daily/d-objdump/index.xml daily d-objdump
-https://mkusaka.github.io/trending/daily/dafny/index.xml daily dafny
-https://mkusaka.github.io/trending/daily/darcs-patch/index.xml daily darcs-patch
-https://mkusaka.github.io/trending/daily/dart/index.xml daily dart
-https://mkusaka.github.io/trending/daily/dataweave/index.xml daily dataweave
-https://mkusaka.github.io/trending/daily/debian-package-control-file/index.xml daily debian-package-control-file
-https://mkusaka.github.io/trending/daily/denizenscript/index.xml daily denizenscript
-https://mkusaka.github.io/trending/daily/desktop/index.xml daily desktop
-https://mkusaka.github.io/trending/daily/dhall/index.xml daily dhall
-https://mkusaka.github.io/trending/daily/diff/index.xml daily diff
-https://mkusaka.github.io/trending/daily/digital-command-language/index.xml daily digital-command-language
-https://mkusaka.github.io/trending/daily/dircolors/index.xml daily dircolors
-https://mkusaka.github.io/trending/daily/directx-3d-file/index.xml daily directx-3d-file
-https://mkusaka.github.io/trending/daily/dm/index.xml daily dm
-https://mkusaka.github.io/trending/daily/dns-zone/index.xml daily dns-zone
-https://mkusaka.github.io/trending/daily/dockerfile/index.xml daily dockerfile
-https://mkusaka.github.io/trending/daily/dogescript/index.xml daily dogescript
-https://mkusaka.github.io/trending/daily/dtrace/index.xml daily dtrace
-https://mkusaka.github.io/trending/daily/dylan/index.xml daily dylan
-https://mkusaka.github.io/trending/daily/e/index.xml daily e
-https://mkusaka.github.io/trending/daily/e-mail/index.xml daily e-mail
-https://mkusaka.github.io/trending/daily/eagle/index.xml daily eagle
-https://mkusaka.github.io/trending/daily/earthly/index.xml daily earthly
-https://mkusaka.github.io/trending/daily/easybuild/index.xml daily easybuild
-https://mkusaka.github.io/trending/daily/ebnf/index.xml daily ebnf
-https://mkusaka.github.io/trending/daily/ec/index.xml daily ec
-https://mkusaka.github.io/trending/daily/ecere-projects/index.xml daily ecere-projects
-https://mkusaka.github.io/trending/daily/ecl/index.xml daily ecl
-https://mkusaka.github.io/trending/daily/eclipse/index.xml daily eclipse
-https://mkusaka.github.io/trending/daily/editorconfig/index.xml daily editorconfig
-https://mkusaka.github.io/trending/daily/edje-data-collection/index.xml daily edje-data-collection
-https://mkusaka.github.io/trending/daily/edn/index.xml daily edn
-https://mkusaka.github.io/trending/daily/eiffel/index.xml daily eiffel
-https://mkusaka.github.io/trending/daily/ejs/index.xml daily ejs
-https://mkusaka.github.io/trending/daily/elixir/index.xml daily elixir
-https://mkusaka.github.io/trending/daily/elm/index.xml daily elm
-https://mkusaka.github.io/trending/daily/emacs-lisp/index.xml daily emacs-lisp
-https://mkusaka.github.io/trending/daily/emberscript/index.xml daily emberscript
-https://mkusaka.github.io/trending/daily/eq/index.xml daily eq
-https://mkusaka.github.io/trending/daily/erlang/index.xml daily erlang
-https://mkusaka.github.io/trending/daily/euphoria/index.xml daily euphoria
-https://mkusaka.github.io/trending/daily/f%23/index.xml daily f%23
-https://mkusaka.github.io/trending/daily/f*/index.xml daily f\*
-https://mkusaka.github.io/trending/daily/factor/index.xml daily factor
-https://mkusaka.github.io/trending/daily/fancy/index.xml daily fancy
-https://mkusaka.github.io/trending/daily/fantom/index.xml daily fantom
-https://mkusaka.github.io/trending/daily/faust/index.xml daily faust
-https://mkusaka.github.io/trending/daily/fennel/index.xml daily fennel
-https://mkusaka.github.io/trending/daily/figlet-font/index.xml daily figlet-font
-https://mkusaka.github.io/trending/daily/filebench-wml/index.xml daily filebench-wml
-https://mkusaka.github.io/trending/daily/filterscript/index.xml daily filterscript
-https://mkusaka.github.io/trending/daily/fish/index.xml daily fish
-https://mkusaka.github.io/trending/daily/fluent/index.xml daily fluent
-https://mkusaka.github.io/trending/daily/flux/index.xml daily flux
-https://mkusaka.github.io/trending/daily/formatted/index.xml daily formatted
-https://mkusaka.github.io/trending/daily/forth/index.xml daily forth
-https://mkusaka.github.io/trending/daily/fortran/index.xml daily fortran
-https://mkusaka.github.io/trending/daily/fortran-free-form/index.xml daily fortran-free-form
-https://mkusaka.github.io/trending/daily/freebasic/index.xml daily freebasic
-https://mkusaka.github.io/trending/daily/freemarker/index.xml daily freemarker
-https://mkusaka.github.io/trending/daily/frege/index.xml daily frege
-https://mkusaka.github.io/trending/daily/futhark/index.xml daily futhark
-https://mkusaka.github.io/trending/daily/g-code/index.xml daily g-code
-https://mkusaka.github.io/trending/daily/game-maker-language/index.xml daily game-maker-language
-https://mkusaka.github.io/trending/daily/gaml/index.xml daily gaml
-https://mkusaka.github.io/trending/daily/gams/index.xml daily gams
-https://mkusaka.github.io/trending/daily/gap/index.xml daily gap
-https://mkusaka.github.io/trending/daily/gcc-machine-description/index.xml daily gcc-machine-description
-https://mkusaka.github.io/trending/daily/gdb/index.xml daily gdb
-https://mkusaka.github.io/trending/daily/gdscript/index.xml daily gdscript
-https://mkusaka.github.io/trending/daily/gedcom/index.xml daily gedcom
-https://mkusaka.github.io/trending/daily/gemfile.lock/index.xml daily gemfile.lock
-https://mkusaka.github.io/trending/daily/genero/index.xml daily genero
-https://mkusaka.github.io/trending/daily/genero-forms/index.xml daily genero-forms
-https://mkusaka.github.io/trending/daily/genie/index.xml daily genie
-https://mkusaka.github.io/trending/daily/genshi/index.xml daily genshi
-https://mkusaka.github.io/trending/daily/gentoo-ebuild/index.xml daily gentoo-ebuild
-https://mkusaka.github.io/trending/daily/gentoo-eclass/index.xml daily gentoo-eclass
-https://mkusaka.github.io/trending/daily/gerber-image/index.xml daily gerber-image
-https://mkusaka.github.io/trending/daily/gettext-catalog/index.xml daily gettext-catalog
-https://mkusaka.github.io/trending/daily/gherkin/index.xml daily gherkin
-https://mkusaka.github.io/trending/daily/git-attributes/index.xml daily git-attributes
-https://mkusaka.github.io/trending/daily/git-config/index.xml daily git-config
-https://mkusaka.github.io/trending/daily/gleam/index.xml daily gleam
-https://mkusaka.github.io/trending/daily/glsl/index.xml daily glsl
-https://mkusaka.github.io/trending/daily/glyph/index.xml daily glyph
-https://mkusaka.github.io/trending/daily/glyph-bitmap-distribution-format/index.xml daily glyph-bitmap-distribution-format
-https://mkusaka.github.io/trending/daily/gn/index.xml daily gn
-https://mkusaka.github.io/trending/daily/gnuplot/index.xml daily gnuplot
-https://mkusaka.github.io/trending/daily/go/index.xml daily go
-https://mkusaka.github.io/trending/daily/go-checksums/index.xml daily go-checksums
-https://mkusaka.github.io/trending/daily/go-module/index.xml daily go-module
-https://mkusaka.github.io/trending/daily/golo/index.xml daily golo
-https://mkusaka.github.io/trending/daily/gosu/index.xml daily gosu
-https://mkusaka.github.io/trending/daily/grace/index.xml daily grace
-https://mkusaka.github.io/trending/daily/gradle/index.xml daily gradle
-https://mkusaka.github.io/trending/daily/grammatical-framework/index.xml daily grammatical-framework
-https://mkusaka.github.io/trending/daily/graph-modeling-language/index.xml daily graph-modeling-language
-https://mkusaka.github.io/trending/daily/graphql/index.xml daily graphql
-https://mkusaka.github.io/trending/daily/graphviz-(dot)/index.xml daily graphviz-(dot)
-https://mkusaka.github.io/trending/daily/groovy/index.xml daily groovy
-https://mkusaka.github.io/trending/daily/groovy-server-pages/index.xml daily groovy-server-pages
-https://mkusaka.github.io/trending/daily/gsc/index.xml daily gsc
-https://mkusaka.github.io/trending/daily/hack/index.xml daily hack
-https://mkusaka.github.io/trending/daily/haml/index.xml daily haml
-https://mkusaka.github.io/trending/daily/handlebars/index.xml daily handlebars
-https://mkusaka.github.io/trending/daily/haproxy/index.xml daily haproxy
-https://mkusaka.github.io/trending/daily/harbour/index.xml daily harbour
-https://mkusaka.github.io/trending/daily/haskell/index.xml daily haskell
-https://mkusaka.github.io/trending/daily/haxe/index.xml daily haxe
-https://mkusaka.github.io/trending/daily/hcl/index.xml daily hcl
-https://mkusaka.github.io/trending/daily/hiveql/index.xml daily hiveql
-https://mkusaka.github.io/trending/daily/hlsl/index.xml daily hlsl
-https://mkusaka.github.io/trending/daily/holyc/index.xml daily holyc
-https://mkusaka.github.io/trending/daily/hoon/index.xml daily hoon
-https://mkusaka.github.io/trending/daily/jinja/index.xml daily jinja
-https://mkusaka.github.io/trending/daily/html+ecr/index.xml daily html+ecr
-https://mkusaka.github.io/trending/daily/html+eex/index.xml daily html+eex
-https://mkusaka.github.io/trending/daily/html+erb/index.xml daily html+erb
-https://mkusaka.github.io/trending/daily/html+php/index.xml daily html+php
-https://mkusaka.github.io/trending/daily/html+razor/index.xml daily html+razor
-https://mkusaka.github.io/trending/daily/http/index.xml daily http
-https://mkusaka.github.io/trending/daily/hxml/index.xml daily hxml
-https://mkusaka.github.io/trending/daily/hy/index.xml daily hy
-https://mkusaka.github.io/trending/daily/hyphy/index.xml daily hyphy
-https://mkusaka.github.io/trending/daily/idl/index.xml daily idl
-https://mkusaka.github.io/trending/daily/idris/index.xml daily idris
-https://mkusaka.github.io/trending/daily/ignore-list/index.xml daily ignore-list
-https://mkusaka.github.io/trending/daily/igor-pro/index.xml daily igor-pro
-https://mkusaka.github.io/trending/daily/imagej-macro/index.xml daily imagej-macro
-https://mkusaka.github.io/trending/daily/inform-7/index.xml daily inform-7
-https://mkusaka.github.io/trending/daily/ini/index.xml daily ini
-https://mkusaka.github.io/trending/daily/inno-setup/index.xml daily inno-setup
-https://mkusaka.github.io/trending/daily/io/index.xml daily io
-https://mkusaka.github.io/trending/daily/ioke/index.xml daily ioke
-https://mkusaka.github.io/trending/daily/irc-log/index.xml daily irc-log
-https://mkusaka.github.io/trending/daily/isabelle/index.xml daily isabelle
-https://mkusaka.github.io/trending/daily/isabelle-root/index.xml daily isabelle-root
-https://mkusaka.github.io/trending/daily/j/index.xml daily j
-https://mkusaka.github.io/trending/daily/janet/index.xml daily janet
-https://mkusaka.github.io/trending/daily/jar-manifest/index.xml daily jar-manifest
-https://mkusaka.github.io/trending/daily/jasmin/index.xml daily jasmin
-https://mkusaka.github.io/trending/daily/java-properties/index.xml daily java-properties
-https://mkusaka.github.io/trending/daily/java-server-pages/index.xml daily java-server-pages
-https://mkusaka.github.io/trending/daily/javascript+erb/index.xml daily javascript+erb
-https://mkusaka.github.io/trending/daily/jest-snapshot/index.xml daily jest-snapshot
-https://mkusaka.github.io/trending/daily/jflex/index.xml daily jflex
-https://mkusaka.github.io/trending/daily/jison/index.xml daily jison
-https://mkusaka.github.io/trending/daily/jison-lex/index.xml daily jison-lex
-https://mkusaka.github.io/trending/daily/jolie/index.xml daily jolie
-https://mkusaka.github.io/trending/daily/jq/index.xml daily jq
-https://mkusaka.github.io/trending/daily/json/index.xml daily json
-https://mkusaka.github.io/trending/daily/json-with-comments/index.xml daily json-with-comments
-https://mkusaka.github.io/trending/daily/json5/index.xml daily json5
-https://mkusaka.github.io/trending/daily/jsoniq/index.xml daily jsoniq
-https://mkusaka.github.io/trending/daily/jsonld/index.xml daily jsonld
-https://mkusaka.github.io/trending/daily/jsonnet/index.xml daily jsonnet
-https://mkusaka.github.io/trending/daily/julia/index.xml daily julia
-https://mkusaka.github.io/trending/daily/jupyter-notebook/index.xml daily jupyter-notebook
-https://mkusaka.github.io/trending/daily/kaitai-struct/index.xml daily kaitai-struct
-https://mkusaka.github.io/trending/daily/kakounescript/index.xml daily kakounescript
-https://mkusaka.github.io/trending/daily/kicad-layout/index.xml daily kicad-layout
-https://mkusaka.github.io/trending/daily/kicad-legacy-layout/index.xml daily kicad-legacy-layout
-https://mkusaka.github.io/trending/daily/kicad-schematic/index.xml daily kicad-schematic
-https://mkusaka.github.io/trending/daily/kit/index.xml daily kit
-https://mkusaka.github.io/trending/daily/kotlin/index.xml daily kotlin
-https://mkusaka.github.io/trending/daily/krl/index.xml daily krl
-https://mkusaka.github.io/trending/daily/kusto/index.xml daily kusto
-https://mkusaka.github.io/trending/daily/kvlang/index.xml daily kvlang
-https://mkusaka.github.io/trending/daily/labview/index.xml daily labview
-https://mkusaka.github.io/trending/daily/lark/index.xml daily lark
-https://mkusaka.github.io/trending/daily/lasso/index.xml daily lasso
-https://mkusaka.github.io/trending/daily/latte/index.xml daily latte
-https://mkusaka.github.io/trending/daily/lean/index.xml daily lean
-https://mkusaka.github.io/trending/daily/less/index.xml daily less
-https://mkusaka.github.io/trending/daily/lex/index.xml daily lex
-https://mkusaka.github.io/trending/daily/lfe/index.xml daily lfe
-https://mkusaka.github.io/trending/daily/ligolang/index.xml daily ligolang
-https://mkusaka.github.io/trending/daily/lilypond/index.xml daily lilypond
-https://mkusaka.github.io/trending/daily/limbo/index.xml daily limbo
-https://mkusaka.github.io/trending/daily/linker-script/index.xml daily linker-script
-https://mkusaka.github.io/trending/daily/linux-kernel-module/index.xml daily linux-kernel-module
-https://mkusaka.github.io/trending/daily/liquid/index.xml daily liquid
-https://mkusaka.github.io/trending/daily/literate-agda/index.xml daily literate-agda
-https://mkusaka.github.io/trending/daily/literate-coffeescript/index.xml daily literate-coffeescript
-https://mkusaka.github.io/trending/daily/literate-haskell/index.xml daily literate-haskell
-https://mkusaka.github.io/trending/daily/livescript/index.xml daily livescript
-https://mkusaka.github.io/trending/daily/llvm/index.xml daily llvm
-https://mkusaka.github.io/trending/daily/logos/index.xml daily logos
-https://mkusaka.github.io/trending/daily/logtalk/index.xml daily logtalk
-https://mkusaka.github.io/trending/daily/lolcode/index.xml daily lolcode
-https://mkusaka.github.io/trending/daily/lookml/index.xml daily lookml
-https://mkusaka.github.io/trending/daily/loomscript/index.xml daily loomscript
-https://mkusaka.github.io/trending/daily/lsl/index.xml daily lsl
-https://mkusaka.github.io/trending/daily/ltspice-symbol/index.xml daily ltspice-symbol
-https://mkusaka.github.io/trending/daily/lua/index.xml daily lua
-https://mkusaka.github.io/trending/daily/m/index.xml daily m
-https://mkusaka.github.io/trending/daily/m4/index.xml daily m4
-https://mkusaka.github.io/trending/daily/m4sugar/index.xml daily m4sugar
-https://mkusaka.github.io/trending/daily/macaulay2/index.xml daily macaulay2
-https://mkusaka.github.io/trending/daily/makefile/index.xml daily makefile
-https://mkusaka.github.io/trending/daily/mako/index.xml daily mako
-https://mkusaka.github.io/trending/daily/markdown/index.xml daily markdown
-https://mkusaka.github.io/trending/daily/marko/index.xml daily marko
-https://mkusaka.github.io/trending/daily/mask/index.xml daily mask
-https://mkusaka.github.io/trending/daily/mathematica/index.xml daily mathematica
-https://mkusaka.github.io/trending/daily/matlab/index.xml daily matlab
-https://mkusaka.github.io/trending/daily/maven-pom/index.xml daily maven-pom
-https://mkusaka.github.io/trending/daily/max/index.xml daily max
-https://mkusaka.github.io/trending/daily/maxscript/index.xml daily maxscript
-https://mkusaka.github.io/trending/daily/mcfunction/index.xml daily mcfunction
-https://mkusaka.github.io/trending/daily/wikitext/index.xml daily wikitext
-https://mkusaka.github.io/trending/daily/mercury/index.xml daily mercury
-https://mkusaka.github.io/trending/daily/meson/index.xml daily meson
-https://mkusaka.github.io/trending/daily/metal/index.xml daily metal
-https://mkusaka.github.io/trending/daily/microsoft-developer-studio-project/index.xml daily microsoft-developer-studio-project
-https://mkusaka.github.io/trending/daily/microsoft-visual-studio-solution/index.xml daily microsoft-visual-studio-solution
-https://mkusaka.github.io/trending/daily/minid/index.xml daily minid
-https://mkusaka.github.io/trending/daily/mint/index.xml daily mint
-https://mkusaka.github.io/trending/daily/mirah/index.xml daily mirah
-https://mkusaka.github.io/trending/daily/mirc-script/index.xml daily mirc-script
-https://mkusaka.github.io/trending/daily/mlir/index.xml daily mlir
-https://mkusaka.github.io/trending/daily/modelica/index.xml daily modelica
-https://mkusaka.github.io/trending/daily/modula-2/index.xml daily modula-2
-https://mkusaka.github.io/trending/daily/modula-3/index.xml daily modula-3
-https://mkusaka.github.io/trending/daily/module-management-system/index.xml daily module-management-system
-https://mkusaka.github.io/trending/daily/monkey/index.xml daily monkey
-https://mkusaka.github.io/trending/daily/monkey-c/index.xml daily monkey-c
-https://mkusaka.github.io/trending/daily/moocode/index.xml daily moocode
-https://mkusaka.github.io/trending/daily/moonscript/index.xml daily moonscript
-https://mkusaka.github.io/trending/daily/motoko/index.xml daily motoko
-https://mkusaka.github.io/trending/daily/motorola-68k-assembly/index.xml daily motorola-68k-assembly
-https://mkusaka.github.io/trending/daily/mql4/index.xml daily mql4
-https://mkusaka.github.io/trending/daily/mql5/index.xml daily mql5
-https://mkusaka.github.io/trending/daily/mtml/index.xml daily mtml
-https://mkusaka.github.io/trending/daily/muf/index.xml daily muf
-https://mkusaka.github.io/trending/daily/mupad/index.xml daily mupad
-https://mkusaka.github.io/trending/daily/muse/index.xml daily muse
-https://mkusaka.github.io/trending/daily/mustache/index.xml daily mustache
-https://mkusaka.github.io/trending/daily/myghty/index.xml daily myghty
-https://mkusaka.github.io/trending/daily/nanorc/index.xml daily nanorc
-https://mkusaka.github.io/trending/daily/nasl/index.xml daily nasl
-https://mkusaka.github.io/trending/daily/ncl/index.xml daily ncl
-https://mkusaka.github.io/trending/daily/nearley/index.xml daily nearley
-https://mkusaka.github.io/trending/daily/nemerle/index.xml daily nemerle
-https://mkusaka.github.io/trending/daily/neon/index.xml daily neon
-https://mkusaka.github.io/trending/daily/nesc/index.xml daily nesc
-https://mkusaka.github.io/trending/daily/netlinx/index.xml daily netlinx
-https://mkusaka.github.io/trending/daily/netlinx+erb/index.xml daily netlinx+erb
-https://mkusaka.github.io/trending/daily/netlogo/index.xml daily netlogo
-https://mkusaka.github.io/trending/daily/newlisp/index.xml daily newlisp
-https://mkusaka.github.io/trending/daily/nextflow/index.xml daily nextflow
-https://mkusaka.github.io/trending/daily/nginx/index.xml daily nginx
-https://mkusaka.github.io/trending/daily/nim/index.xml daily nim
-https://mkusaka.github.io/trending/daily/ninja/index.xml daily ninja
-https://mkusaka.github.io/trending/daily/nit/index.xml daily nit
-https://mkusaka.github.io/trending/daily/nix/index.xml daily nix
-https://mkusaka.github.io/trending/daily/nl/index.xml daily nl
-https://mkusaka.github.io/trending/daily/npm-config/index.xml daily npm-config
-https://mkusaka.github.io/trending/daily/nsis/index.xml daily nsis
-https://mkusaka.github.io/trending/daily/nu/index.xml daily nu
-https://mkusaka.github.io/trending/daily/numpy/index.xml daily numpy
-https://mkusaka.github.io/trending/daily/nunjucks/index.xml daily nunjucks
-https://mkusaka.github.io/trending/daily/nwscript/index.xml daily nwscript
-https://mkusaka.github.io/trending/daily/objdump/index.xml daily objdump
-https://mkusaka.github.io/trending/daily/object-data-instance-notation/index.xml daily object-data-instance-notation
-https://mkusaka.github.io/trending/daily/objective-c/index.xml daily objective-c
-https://mkusaka.github.io/trending/daily/objective-c++/index.xml daily objective-c++
-https://mkusaka.github.io/trending/daily/objective-j/index.xml daily objective-j
-https://mkusaka.github.io/trending/daily/objectscript/index.xml daily objectscript
-https://mkusaka.github.io/trending/daily/ocaml/index.xml daily ocaml
-https://mkusaka.github.io/trending/daily/odin/index.xml daily odin
-https://mkusaka.github.io/trending/daily/omgrofl/index.xml daily omgrofl
-https://mkusaka.github.io/trending/daily/ooc/index.xml daily ooc
-https://mkusaka.github.io/trending/daily/opa/index.xml daily opa
-https://mkusaka.github.io/trending/daily/opal/index.xml daily opal
-https://mkusaka.github.io/trending/daily/open-policy-agent/index.xml daily open-policy-agent
-https://mkusaka.github.io/trending/daily/opencl/index.xml daily opencl
-https://mkusaka.github.io/trending/daily/openedge-abl/index.xml daily openedge-abl
-https://mkusaka.github.io/trending/daily/openqasm/index.xml daily openqasm
-https://mkusaka.github.io/trending/daily/openrc-runscript/index.xml daily openrc-runscript
-https://mkusaka.github.io/trending/daily/openscad/index.xml daily openscad
-https://mkusaka.github.io/trending/daily/openstep-property-list/index.xml daily openstep-property-list
-https://mkusaka.github.io/trending/daily/opentype-feature-file/index.xml daily opentype-feature-file
-https://mkusaka.github.io/trending/daily/org/index.xml daily org
-https://mkusaka.github.io/trending/daily/ox/index.xml daily ox
-https://mkusaka.github.io/trending/daily/oxygene/index.xml daily oxygene
-https://mkusaka.github.io/trending/daily/oz/index.xml daily oz
-https://mkusaka.github.io/trending/daily/p4/index.xml daily p4
-https://mkusaka.github.io/trending/daily/pan/index.xml daily pan
-https://mkusaka.github.io/trending/daily/papyrus/index.xml daily papyrus
-https://mkusaka.github.io/trending/daily/parrot/index.xml daily parrot
-https://mkusaka.github.io/trending/daily/parrot-assembly/index.xml daily parrot-assembly
-https://mkusaka.github.io/trending/daily/parrot-internal-representation/index.xml daily parrot-internal-representation
-https://mkusaka.github.io/trending/daily/pascal/index.xml daily pascal
-https://mkusaka.github.io/trending/daily/pawn/index.xml daily pawn
-https://mkusaka.github.io/trending/daily/peg.js/index.xml daily peg.js
-https://mkusaka.github.io/trending/daily/pep8/index.xml daily pep8
-https://mkusaka.github.io/trending/daily/perl/index.xml daily perl
-https://mkusaka.github.io/trending/daily/pic/index.xml daily pic
-https://mkusaka.github.io/trending/daily/pickle/index.xml daily pickle
-https://mkusaka.github.io/trending/daily/picolisp/index.xml daily picolisp
-https://mkusaka.github.io/trending/daily/piglatin/index.xml daily piglatin
-https://mkusaka.github.io/trending/daily/pike/index.xml daily pike
-https://mkusaka.github.io/trending/daily/plantuml/index.xml daily plantuml
-https://mkusaka.github.io/trending/daily/plpgsql/index.xml daily plpgsql
-https://mkusaka.github.io/trending/daily/plsql/index.xml daily plsql
-https://mkusaka.github.io/trending/daily/pod/index.xml daily pod
-https://mkusaka.github.io/trending/daily/pod-6/index.xml daily pod-6
-https://mkusaka.github.io/trending/daily/pogoscript/index.xml daily pogoscript
-https://mkusaka.github.io/trending/daily/pony/index.xml daily pony
-https://mkusaka.github.io/trending/daily/postcss/index.xml daily postcss
-https://mkusaka.github.io/trending/daily/postscript/index.xml daily postscript
-https://mkusaka.github.io/trending/daily/pov-ray-sdl/index.xml daily pov-ray-sdl
-https://mkusaka.github.io/trending/daily/powerbuilder/index.xml daily powerbuilder
-https://mkusaka.github.io/trending/daily/powershell/index.xml daily powershell
-https://mkusaka.github.io/trending/daily/prisma/index.xml daily prisma
-https://mkusaka.github.io/trending/daily/processing/index.xml daily processing
-https://mkusaka.github.io/trending/daily/procfile/index.xml daily procfile
-https://mkusaka.github.io/trending/daily/proguard/index.xml daily proguard
-https://mkusaka.github.io/trending/daily/prolog/index.xml daily prolog
-https://mkusaka.github.io/trending/daily/promela/index.xml daily promela
-https://mkusaka.github.io/trending/daily/propeller-spin/index.xml daily propeller-spin
-https://mkusaka.github.io/trending/daily/protocol-buffer/index.xml daily protocol-buffer
-https://mkusaka.github.io/trending/daily/protocol-buffer-text-format/index.xml daily protocol-buffer-text-format
-https://mkusaka.github.io/trending/daily/public-key/index.xml daily public-key
-https://mkusaka.github.io/trending/daily/pug/index.xml daily pug
-https://mkusaka.github.io/trending/daily/puppet/index.xml daily puppet
-https://mkusaka.github.io/trending/daily/pure-data/index.xml daily pure-data
-https://mkusaka.github.io/trending/daily/purebasic/index.xml daily purebasic
-https://mkusaka.github.io/trending/daily/purescript/index.xml daily purescript
-https://mkusaka.github.io/trending/daily/python-console/index.xml daily python-console
-https://mkusaka.github.io/trending/daily/python-traceback/index.xml daily python-traceback
-https://mkusaka.github.io/trending/daily/q/index.xml daily q
-https://mkusaka.github.io/trending/daily/q%23/index.xml daily q%23
-https://mkusaka.github.io/trending/daily/qmake/index.xml daily qmake
-https://mkusaka.github.io/trending/daily/qml/index.xml daily qml
-https://mkusaka.github.io/trending/daily/qt-script/index.xml daily qt-script
-https://mkusaka.github.io/trending/daily/quake/index.xml daily quake
-https://mkusaka.github.io/trending/daily/r/index.xml daily r
-https://mkusaka.github.io/trending/daily/racket/index.xml daily racket
-https://mkusaka.github.io/trending/daily/ragel/index.xml daily ragel
-https://mkusaka.github.io/trending/daily/raku/index.xml daily raku
-https://mkusaka.github.io/trending/daily/raml/index.xml daily raml
-https://mkusaka.github.io/trending/daily/rascal/index.xml daily rascal
-https://mkusaka.github.io/trending/daily/raw-token-data/index.xml daily raw-token-data
-https://mkusaka.github.io/trending/daily/rdoc/index.xml daily rdoc
-https://mkusaka.github.io/trending/daily/readline-config/index.xml daily readline-config
-https://mkusaka.github.io/trending/daily/realbasic/index.xml daily realbasic
-https://mkusaka.github.io/trending/daily/reason/index.xml daily reason
-https://mkusaka.github.io/trending/daily/rebol/index.xml daily rebol
-https://mkusaka.github.io/trending/daily/record-jar/index.xml daily record-jar
-https://mkusaka.github.io/trending/daily/red/index.xml daily red
-https://mkusaka.github.io/trending/daily/redcode/index.xml daily redcode
-https://mkusaka.github.io/trending/daily/redirect-rules/index.xml daily redirect-rules
-https://mkusaka.github.io/trending/daily/regular-expression/index.xml daily regular-expression
-https://mkusaka.github.io/trending/daily/ren'py/index.xml daily ren'py
-https://mkusaka.github.io/trending/daily/renderscript/index.xml daily renderscript
-https://mkusaka.github.io/trending/daily/rescript/index.xml daily rescript
-https://mkusaka.github.io/trending/daily/restructuredtext/index.xml daily restructuredtext
-https://mkusaka.github.io/trending/daily/rexx/index.xml daily rexx
-https://mkusaka.github.io/trending/daily/rich-text-format/index.xml daily rich-text-format
-https://mkusaka.github.io/trending/daily/ring/index.xml daily ring
-https://mkusaka.github.io/trending/daily/riot/index.xml daily riot
-https://mkusaka.github.io/trending/daily/rmarkdown/index.xml daily rmarkdown
-https://mkusaka.github.io/trending/daily/robotframework/index.xml daily robotframework
-https://mkusaka.github.io/trending/daily/robots.txt/index.xml daily robots.txt
-https://mkusaka.github.io/trending/daily/roff/index.xml daily roff
-https://mkusaka.github.io/trending/daily/roff-manpage/index.xml daily roff-manpage
-https://mkusaka.github.io/trending/daily/rouge/index.xml daily rouge
-https://mkusaka.github.io/trending/daily/rpc/index.xml daily rpc
-https://mkusaka.github.io/trending/daily/rpgle/index.xml daily rpgle
-https://mkusaka.github.io/trending/daily/rpm-spec/index.xml daily rpm-spec
-https://mkusaka.github.io/trending/daily/runoff/index.xml daily runoff
-https://mkusaka.github.io/trending/daily/rust/index.xml daily rust
-https://mkusaka.github.io/trending/daily/sage/index.xml daily sage
-https://mkusaka.github.io/trending/daily/saltstack/index.xml daily saltstack
-https://mkusaka.github.io/trending/daily/sas/index.xml daily sas
-https://mkusaka.github.io/trending/daily/sass/index.xml daily sass
-https://mkusaka.github.io/trending/daily/scala/index.xml daily scala
-https://mkusaka.github.io/trending/daily/scaml/index.xml daily scaml
-https://mkusaka.github.io/trending/daily/scheme/index.xml daily scheme
-https://mkusaka.github.io/trending/daily/scilab/index.xml daily scilab
-https://mkusaka.github.io/trending/daily/scss/index.xml daily scss
-https://mkusaka.github.io/trending/daily/sed/index.xml daily sed
-https://mkusaka.github.io/trending/daily/self/index.xml daily self
-https://mkusaka.github.io/trending/daily/selinux-policy/index.xml daily selinux-policy
-https://mkusaka.github.io/trending/daily/shaderlab/index.xml daily shaderlab
-https://mkusaka.github.io/trending/daily/shell/index.xml daily shell
-https://mkusaka.github.io/trending/daily/shellcheck-config/index.xml daily shellcheck-config
-https://mkusaka.github.io/trending/daily/shellsession/index.xml daily shellsession
-https://mkusaka.github.io/trending/daily/shen/index.xml daily shen
-https://mkusaka.github.io/trending/daily/sieve/index.xml daily sieve
-https://mkusaka.github.io/trending/daily/singularity/index.xml daily singularity
-https://mkusaka.github.io/trending/daily/slash/index.xml daily slash
-https://mkusaka.github.io/trending/daily/slice/index.xml daily slice
-https://mkusaka.github.io/trending/daily/slim/index.xml daily slim
-https://mkusaka.github.io/trending/daily/smali/index.xml daily smali
-https://mkusaka.github.io/trending/daily/smalltalk/index.xml daily smalltalk
-https://mkusaka.github.io/trending/daily/smarty/index.xml daily smarty
-https://mkusaka.github.io/trending/daily/smpl/index.xml daily smpl
-https://mkusaka.github.io/trending/daily/smt/index.xml daily smt
-https://mkusaka.github.io/trending/daily/solidity/index.xml daily solidity
-https://mkusaka.github.io/trending/daily/soong/index.xml daily soong
-https://mkusaka.github.io/trending/daily/sourcepawn/index.xml daily sourcepawn
-https://mkusaka.github.io/trending/daily/sparql/index.xml daily sparql
-https://mkusaka.github.io/trending/daily/spline-font-database/index.xml daily spline-font-database
-https://mkusaka.github.io/trending/daily/sqf/index.xml daily sqf
-https://mkusaka.github.io/trending/daily/sql/index.xml daily sql
-https://mkusaka.github.io/trending/daily/sqlpl/index.xml daily sqlpl
-https://mkusaka.github.io/trending/daily/squirrel/index.xml daily squirrel
-https://mkusaka.github.io/trending/daily/srecode-template/index.xml daily srecode-template
-https://mkusaka.github.io/trending/daily/ssh-config/index.xml daily ssh-config
-https://mkusaka.github.io/trending/daily/stan/index.xml daily stan
-https://mkusaka.github.io/trending/daily/standard-ml/index.xml daily standard-ml
-https://mkusaka.github.io/trending/daily/starlark/index.xml daily starlark
-https://mkusaka.github.io/trending/daily/stata/index.xml daily stata
-https://mkusaka.github.io/trending/daily/ston/index.xml daily ston
-https://mkusaka.github.io/trending/daily/stringtemplate/index.xml daily stringtemplate
-https://mkusaka.github.io/trending/daily/stylus/index.xml daily stylus
-https://mkusaka.github.io/trending/daily/subrip-text/index.xml daily subrip-text
-https://mkusaka.github.io/trending/daily/sugarss/index.xml daily sugarss
-https://mkusaka.github.io/trending/daily/supercollider/index.xml daily supercollider
-https://mkusaka.github.io/trending/daily/svelte/index.xml daily svelte
-https://mkusaka.github.io/trending/daily/svg/index.xml daily svg
-https://mkusaka.github.io/trending/daily/swift/index.xml daily swift
-https://mkusaka.github.io/trending/daily/swig/index.xml daily swig
-https://mkusaka.github.io/trending/daily/systemverilog/index.xml daily systemverilog
-https://mkusaka.github.io/trending/daily/talon/index.xml daily talon
-https://mkusaka.github.io/trending/daily/tcl/index.xml daily tcl
-https://mkusaka.github.io/trending/daily/tcsh/index.xml daily tcsh
-https://mkusaka.github.io/trending/daily/tea/index.xml daily tea
-https://mkusaka.github.io/trending/daily/terra/index.xml daily terra
-https://mkusaka.github.io/trending/daily/tex/index.xml daily tex
-https://mkusaka.github.io/trending/daily/texinfo/index.xml daily texinfo
-https://mkusaka.github.io/trending/daily/text/index.xml daily text
-https://mkusaka.github.io/trending/daily/textile/index.xml daily textile
-https://mkusaka.github.io/trending/daily/textmate-properties/index.xml daily textmate-properties
-https://mkusaka.github.io/trending/daily/thrift/index.xml daily thrift
-https://mkusaka.github.io/trending/daily/ti-program/index.xml daily ti-program
-https://mkusaka.github.io/trending/daily/tla/index.xml daily tla
-https://mkusaka.github.io/trending/daily/toml/index.xml daily toml
-https://mkusaka.github.io/trending/daily/tsql/index.xml daily tsql
-https://mkusaka.github.io/trending/daily/tsv/index.xml daily tsv
-https://mkusaka.github.io/trending/daily/tsx/index.xml daily tsx
-https://mkusaka.github.io/trending/daily/turing/index.xml daily turing
-https://mkusaka.github.io/trending/daily/turtle/index.xml daily turtle
-https://mkusaka.github.io/trending/daily/twig/index.xml daily twig
-https://mkusaka.github.io/trending/daily/txl/index.xml daily txl
-https://mkusaka.github.io/trending/daily/type-language/index.xml daily type-language
-https://mkusaka.github.io/trending/daily/typescript/index.xml daily typescript
-https://mkusaka.github.io/trending/daily/unified-parallel-c/index.xml daily unified-parallel-c
-https://mkusaka.github.io/trending/daily/unity3d-asset/index.xml daily unity3d-asset
-https://mkusaka.github.io/trending/daily/unix-assembly/index.xml daily unix-assembly
-https://mkusaka.github.io/trending/daily/uno/index.xml daily uno
-https://mkusaka.github.io/trending/daily/unrealscript/index.xml daily unrealscript
-https://mkusaka.github.io/trending/daily/urweb/index.xml daily urweb
-https://mkusaka.github.io/trending/daily/v/index.xml daily v
-https://mkusaka.github.io/trending/daily/vala/index.xml daily vala
-https://mkusaka.github.io/trending/daily/valve-data-format/index.xml daily valve-data-format
-https://mkusaka.github.io/trending/daily/vba/index.xml daily vba
-https://mkusaka.github.io/trending/daily/vbscript/index.xml daily vbscript
-https://mkusaka.github.io/trending/daily/vcl/index.xml daily vcl
-https://mkusaka.github.io/trending/daily/verilog/index.xml daily verilog
-https://mkusaka.github.io/trending/daily/vhdl/index.xml daily vhdl
-https://mkusaka.github.io/trending/daily/vim-help-file/index.xml daily vim-help-file
-https://mkusaka.github.io/trending/daily/vim-script/index.xml daily vim-script
-https://mkusaka.github.io/trending/daily/vim-snippet/index.xml daily vim-snippet
-https://mkusaka.github.io/trending/daily/visual-basic-.net/index.xml daily [visual-basic-.net](http://visual-basic-.net/)
-https://mkusaka.github.io/trending/daily/volt/index.xml daily volt
-https://mkusaka.github.io/trending/daily/vue/index.xml daily vue
-https://mkusaka.github.io/trending/daily/vyper/index.xml daily vyper
-https://mkusaka.github.io/trending/daily/wavefront-material/index.xml daily wavefront-material
-https://mkusaka.github.io/trending/daily/wavefront-object/index.xml daily wavefront-object
-https://mkusaka.github.io/trending/daily/wdl/index.xml daily wdl
-https://mkusaka.github.io/trending/daily/web-ontology-language/index.xml daily web-ontology-language
-https://mkusaka.github.io/trending/daily/webassembly/index.xml daily webassembly
-https://mkusaka.github.io/trending/daily/webidl/index.xml daily webidl
-https://mkusaka.github.io/trending/daily/webvtt/index.xml daily webvtt
-https://mkusaka.github.io/trending/daily/wget-config/index.xml daily wget-config
-https://mkusaka.github.io/trending/daily/windows-registry-entries/index.xml daily windows-registry-entries
-https://mkusaka.github.io/trending/daily/wisp/index.xml daily wisp
-https://mkusaka.github.io/trending/daily/witcher-script/index.xml daily witcher-script
-https://mkusaka.github.io/trending/daily/wollok/index.xml daily wollok
-https://mkusaka.github.io/trending/daily/world-of-warcraft-addon-data/index.xml daily world-of-warcraft-addon-data
-https://mkusaka.github.io/trending/daily/x-bitmap/index.xml daily x-bitmap
-https://mkusaka.github.io/trending/daily/x-font-directory-index/index.xml daily x-font-directory-index
-https://mkusaka.github.io/trending/daily/x-pixmap/index.xml daily x-pixmap
-https://mkusaka.github.io/trending/daily/x10/index.xml daily x10
-https://mkusaka.github.io/trending/daily/xbase/index.xml daily xbase
-https://mkusaka.github.io/trending/daily/xc/index.xml daily xc
-https://mkusaka.github.io/trending/daily/xcompose/index.xml daily xcompose
-https://mkusaka.github.io/trending/daily/xml/index.xml daily xml
-https://mkusaka.github.io/trending/daily/xml-property-list/index.xml daily xml-property-list
-https://mkusaka.github.io/trending/daily/xojo/index.xml daily xojo
-https://mkusaka.github.io/trending/daily/xonsh/index.xml daily xonsh
-https://mkusaka.github.io/trending/daily/xpages/index.xml daily xpages
-https://mkusaka.github.io/trending/daily/xproc/index.xml daily xproc
-https://mkusaka.github.io/trending/daily/xquery/index.xml daily xquery
-https://mkusaka.github.io/trending/daily/xs/index.xml daily xs
-https://mkusaka.github.io/trending/daily/xslt/index.xml daily xslt
-https://mkusaka.github.io/trending/daily/xtend/index.xml daily xtend
-https://mkusaka.github.io/trending/daily/yacc/index.xml daily yacc
-https://mkusaka.github.io/trending/daily/yaml/index.xml daily yaml
-https://mkusaka.github.io/trending/daily/yang/index.xml daily yang
-https://mkusaka.github.io/trending/daily/yara/index.xml daily yara
-https://mkusaka.github.io/trending/daily/yasnippet/index.xml daily yasnippet
-https://mkusaka.github.io/trending/daily/zap/index.xml daily zap
-https://mkusaka.github.io/trending/daily/zenscript/index.xml daily zenscript
-https://mkusaka.github.io/trending/daily/zephir/index.xml daily zephir
-https://mkusaka.github.io/trending/daily/zig/index.xml daily zig
-https://mkusaka.github.io/trending/daily/zil/index.xml daily zil
-https://mkusaka.github.io/trending/daily/zimpl/index.xml daily zimpl
+| url                                                                                     | languageType                       | period  |
+| --------------------------------------------------------------------------------------- | ---------------------------------- | ------- |
+| https://mkusaka.github.io/trending/all/daily/index.xml                                  | all                                | daily   |
+| https://mkusaka.github.io/trending/all/weekly/index.xml                                 | all                                | weekly  |
+| https://mkusaka.github.io/trending/all/monthly/index.xml                                | all                                | monthly |
+| https://mkusaka.github.io/trending/unknown/daily/index.xml                              | unknown                            | daily   |
+| https://mkusaka.github.io/trending/unknown/weekly/index.xml                             | unknown                            | weekly  |
+| https://mkusaka.github.io/trending/unknown/monthly/index.xml                            | unknown                            | monthly |
+| https://mkusaka.github.io/trending/c++/daily/index.xml                                  | c++                                | daily   |
+| https://mkusaka.github.io/trending/c++/weekly/index.xml                                 | c++                                | weekly  |
+| https://mkusaka.github.io/trending/c++/monthly/index.xml                                | c++                                | monthly |
+| https://mkusaka.github.io/trending/html/daily/index.xml                                 | html                               | daily   |
+| https://mkusaka.github.io/trending/html/weekly/index.xml                                | html                               | weekly  |
+| https://mkusaka.github.io/trending/html/monthly/index.xml                               | html                               | monthly |
+| https://mkusaka.github.io/trending/java/daily/index.xml                                 | java                               | daily   |
+| https://mkusaka.github.io/trending/java/weekly/index.xml                                | java                               | weekly  |
+| https://mkusaka.github.io/trending/java/monthly/index.xml                               | java                               | monthly |
+| https://mkusaka.github.io/trending/javascript/daily/index.xml                           | javascript                         | daily   |
+| https://mkusaka.github.io/trending/javascript/weekly/index.xml                          | javascript                         | weekly  |
+| https://mkusaka.github.io/trending/javascript/monthly/index.xml                         | javascript                         | monthly |
+| https://mkusaka.github.io/trending/php/daily/index.xml                                  | php                                | daily   |
+| https://mkusaka.github.io/trending/php/weekly/index.xml                                 | php                                | weekly  |
+| https://mkusaka.github.io/trending/php/monthly/index.xml                                | php                                | monthly |
+| https://mkusaka.github.io/trending/python/daily/index.xml                               | python                             | daily   |
+| https://mkusaka.github.io/trending/python/weekly/index.xml                              | python                             | weekly  |
+| https://mkusaka.github.io/trending/python/monthly/index.xml                             | python                             | monthly |
+| https://mkusaka.github.io/trending/ruby/daily/index.xml                                 | ruby                               | daily   |
+| https://mkusaka.github.io/trending/ruby/weekly/index.xml                                | ruby                               | weekly  |
+| https://mkusaka.github.io/trending/ruby/monthly/index.xml                               | ruby                               | monthly |
+| https://mkusaka.github.io/trending/1c-enterprise/daily/index.xml                        | 1c-enterprise                      | daily   |
+| https://mkusaka.github.io/trending/1c-enterprise/weekly/index.xml                       | 1c-enterprise                      | weekly  |
+| https://mkusaka.github.io/trending/1c-enterprise/monthly/index.xml                      | 1c-enterprise                      | monthly |
+| https://mkusaka.github.io/trending/2-dimensional-array/daily/index.xml                  | 2-dimensional-array                | daily   |
+| https://mkusaka.github.io/trending/2-dimensional-array/weekly/index.xml                 | 2-dimensional-array                | weekly  |
+| https://mkusaka.github.io/trending/2-dimensional-array/monthly/index.xml                | 2-dimensional-array                | monthly |
+| https://mkusaka.github.io/trending/4d/daily/index.xml                                   | 4d                                 | daily   |
+| https://mkusaka.github.io/trending/4d/weekly/index.xml                                  | 4d                                 | weekly  |
+| https://mkusaka.github.io/trending/4d/monthly/index.xml                                 | 4d                                 | monthly |
+| https://mkusaka.github.io/trending/abap/daily/index.xml                                 | abap                               | daily   |
+| https://mkusaka.github.io/trending/abap/weekly/index.xml                                | abap                               | weekly  |
+| https://mkusaka.github.io/trending/abap/monthly/index.xml                               | abap                               | monthly |
+| https://mkusaka.github.io/trending/abap-cds/daily/index.xml                             | abap-cds                           | daily   |
+| https://mkusaka.github.io/trending/abap-cds/weekly/index.xml                            | abap-cds                           | weekly  |
+| https://mkusaka.github.io/trending/abap-cds/monthly/index.xml                           | abap-cds                           | monthly |
+| https://mkusaka.github.io/trending/abnf/daily/index.xml                                 | abnf                               | daily   |
+| https://mkusaka.github.io/trending/abnf/weekly/index.xml                                | abnf                               | weekly  |
+| https://mkusaka.github.io/trending/abnf/monthly/index.xml                               | abnf                               | monthly |
+| https://mkusaka.github.io/trending/actionscript/daily/index.xml                         | actionscript                       | daily   |
+| https://mkusaka.github.io/trending/actionscript/weekly/index.xml                        | actionscript                       | weekly  |
+| https://mkusaka.github.io/trending/actionscript/monthly/index.xml                       | actionscript                       | monthly |
+| https://mkusaka.github.io/trending/ada/daily/index.xml                                  | ada                                | daily   |
+| https://mkusaka.github.io/trending/ada/weekly/index.xml                                 | ada                                | weekly  |
+| https://mkusaka.github.io/trending/ada/monthly/index.xml                                | ada                                | monthly |
+| https://mkusaka.github.io/trending/adobe-font-metrics/daily/index.xml                   | adobe-font-metrics                 | daily   |
+| https://mkusaka.github.io/trending/adobe-font-metrics/weekly/index.xml                  | adobe-font-metrics                 | weekly  |
+| https://mkusaka.github.io/trending/adobe-font-metrics/monthly/index.xml                 | adobe-font-metrics                 | monthly |
+| https://mkusaka.github.io/trending/agda/daily/index.xml                                 | agda                               | daily   |
+| https://mkusaka.github.io/trending/agda/weekly/index.xml                                | agda                               | weekly  |
+| https://mkusaka.github.io/trending/agda/monthly/index.xml                               | agda                               | monthly |
+| https://mkusaka.github.io/trending/ags-script/daily/index.xml                           | ags-script                         | daily   |
+| https://mkusaka.github.io/trending/ags-script/weekly/index.xml                          | ags-script                         | weekly  |
+| https://mkusaka.github.io/trending/ags-script/monthly/index.xml                         | ags-script                         | monthly |
+| https://mkusaka.github.io/trending/aidl/daily/index.xml                                 | aidl                               | daily   |
+| https://mkusaka.github.io/trending/aidl/weekly/index.xml                                | aidl                               | weekly  |
+| https://mkusaka.github.io/trending/aidl/monthly/index.xml                               | aidl                               | monthly |
+| https://mkusaka.github.io/trending/al/daily/index.xml                                   | al                                 | daily   |
+| https://mkusaka.github.io/trending/al/weekly/index.xml                                  | al                                 | weekly  |
+| https://mkusaka.github.io/trending/al/monthly/index.xml                                 | al                                 | monthly |
+| https://mkusaka.github.io/trending/alloy/daily/index.xml                                | alloy                              | daily   |
+| https://mkusaka.github.io/trending/alloy/weekly/index.xml                               | alloy                              | weekly  |
+| https://mkusaka.github.io/trending/alloy/monthly/index.xml                              | alloy                              | monthly |
+| https://mkusaka.github.io/trending/alpine-abuild/daily/index.xml                        | alpine-abuild                      | daily   |
+| https://mkusaka.github.io/trending/alpine-abuild/weekly/index.xml                       | alpine-abuild                      | weekly  |
+| https://mkusaka.github.io/trending/alpine-abuild/monthly/index.xml                      | alpine-abuild                      | monthly |
+| https://mkusaka.github.io/trending/altium-designer/daily/index.xml                      | altium-designer                    | daily   |
+| https://mkusaka.github.io/trending/altium-designer/weekly/index.xml                     | altium-designer                    | weekly  |
+| https://mkusaka.github.io/trending/altium-designer/monthly/index.xml                    | altium-designer                    | monthly |
+| https://mkusaka.github.io/trending/ampl/daily/index.xml                                 | ampl                               | daily   |
+| https://mkusaka.github.io/trending/ampl/weekly/index.xml                                | ampl                               | weekly  |
+| https://mkusaka.github.io/trending/ampl/monthly/index.xml                               | ampl                               | monthly |
+| https://mkusaka.github.io/trending/angelscript/daily/index.xml                          | angelscript                        | daily   |
+| https://mkusaka.github.io/trending/angelscript/weekly/index.xml                         | angelscript                        | weekly  |
+| https://mkusaka.github.io/trending/angelscript/monthly/index.xml                        | angelscript                        | monthly |
+| https://mkusaka.github.io/trending/ant-build-system/daily/index.xml                     | ant-build-system                   | daily   |
+| https://mkusaka.github.io/trending/ant-build-system/weekly/index.xml                    | ant-build-system                   | weekly  |
+| https://mkusaka.github.io/trending/ant-build-system/monthly/index.xml                   | ant-build-system                   | monthly |
+| https://mkusaka.github.io/trending/antlr/daily/index.xml                                | antlr                              | daily   |
+| https://mkusaka.github.io/trending/antlr/weekly/index.xml                               | antlr                              | weekly  |
+| https://mkusaka.github.io/trending/antlr/monthly/index.xml                              | antlr                              | monthly |
+| https://mkusaka.github.io/trending/apacheconf/daily/index.xml                           | apacheconf                         | daily   |
+| https://mkusaka.github.io/trending/apacheconf/weekly/index.xml                          | apacheconf                         | weekly  |
+| https://mkusaka.github.io/trending/apacheconf/monthly/index.xml                         | apacheconf                         | monthly |
+| https://mkusaka.github.io/trending/apex/daily/index.xml                                 | apex                               | daily   |
+| https://mkusaka.github.io/trending/apex/weekly/index.xml                                | apex                               | weekly  |
+| https://mkusaka.github.io/trending/apex/monthly/index.xml                               | apex                               | monthly |
+| https://mkusaka.github.io/trending/api-blueprint/daily/index.xml                        | api-blueprint                      | daily   |
+| https://mkusaka.github.io/trending/api-blueprint/weekly/index.xml                       | api-blueprint                      | weekly  |
+| https://mkusaka.github.io/trending/api-blueprint/monthly/index.xml                      | api-blueprint                      | monthly |
+| https://mkusaka.github.io/trending/apl/daily/index.xml                                  | apl                                | daily   |
+| https://mkusaka.github.io/trending/apl/weekly/index.xml                                 | apl                                | weekly  |
+| https://mkusaka.github.io/trending/apl/monthly/index.xml                                | apl                                | monthly |
+| https://mkusaka.github.io/trending/apollo-guidance-computer/daily/index.xml             | apollo-guidance-computer           | daily   |
+| https://mkusaka.github.io/trending/apollo-guidance-computer/weekly/index.xml            | apollo-guidance-computer           | weekly  |
+| https://mkusaka.github.io/trending/apollo-guidance-computer/monthly/index.xml           | apollo-guidance-computer           | monthly |
+| https://mkusaka.github.io/trending/applescript/daily/index.xml                          | applescript                        | daily   |
+| https://mkusaka.github.io/trending/applescript/weekly/index.xml                         | applescript                        | weekly  |
+| https://mkusaka.github.io/trending/applescript/monthly/index.xml                        | applescript                        | monthly |
+| https://mkusaka.github.io/trending/arc/daily/index.xml                                  | arc                                | daily   |
+| https://mkusaka.github.io/trending/arc/weekly/index.xml                                 | arc                                | weekly  |
+| https://mkusaka.github.io/trending/arc/monthly/index.xml                                | arc                                | monthly |
+| https://mkusaka.github.io/trending/asciidoc/daily/index.xml                             | asciidoc                           | daily   |
+| https://mkusaka.github.io/trending/asciidoc/weekly/index.xml                            | asciidoc                           | weekly  |
+| https://mkusaka.github.io/trending/asciidoc/monthly/index.xml                           | asciidoc                           | monthly |
+| https://mkusaka.github.io/trending/asl/daily/index.xml                                  | asl                                | daily   |
+| https://mkusaka.github.io/trending/asl/weekly/index.xml                                 | asl                                | weekly  |
+| https://mkusaka.github.io/trending/asl/monthly/index.xml                                | asl                                | monthly |
+| https://mkusaka.github.io/trending/asn.1/daily/index.xml                                | asn.1                              | daily   |
+| https://mkusaka.github.io/trending/asn.1/weekly/index.xml                               | asn.1                              | weekly  |
+| https://mkusaka.github.io/trending/asn.1/monthly/index.xml                              | asn.1                              | monthly |
+| https://mkusaka.github.io/trending/classic-asp/daily/index.xml                          | classic-asp                        | daily   |
+| https://mkusaka.github.io/trending/classic-asp/weekly/index.xml                         | classic-asp                        | weekly  |
+| https://mkusaka.github.io/trending/classic-asp/monthly/index.xml                        | classic-asp                        | monthly |
+| https://mkusaka.github.io/trending/asp.net/daily/index.xml                              | asp.net                            | daily   |
+| https://mkusaka.github.io/trending/asp.net/weekly/index.xml                             | asp.net                            | weekly  |
+| https://mkusaka.github.io/trending/asp.net/monthly/index.xml                            | asp.net                            | monthly |
+| https://mkusaka.github.io/trending/aspectj/daily/index.xml                              | aspectj                            | daily   |
+| https://mkusaka.github.io/trending/aspectj/weekly/index.xml                             | aspectj                            | weekly  |
+| https://mkusaka.github.io/trending/aspectj/monthly/index.xml                            | aspectj                            | monthly |
+| https://mkusaka.github.io/trending/assembly/daily/index.xml                             | assembly                           | daily   |
+| https://mkusaka.github.io/trending/assembly/weekly/index.xml                            | assembly                           | weekly  |
+| https://mkusaka.github.io/trending/assembly/monthly/index.xml                           | assembly                           | monthly |
+| https://mkusaka.github.io/trending/astro/daily/index.xml                                | astro                              | daily   |
+| https://mkusaka.github.io/trending/astro/weekly/index.xml                               | astro                              | weekly  |
+| https://mkusaka.github.io/trending/astro/monthly/index.xml                              | astro                              | monthly |
+| https://mkusaka.github.io/trending/asymptote/daily/index.xml                            | asymptote                          | daily   |
+| https://mkusaka.github.io/trending/asymptote/weekly/index.xml                           | asymptote                          | weekly  |
+| https://mkusaka.github.io/trending/asymptote/monthly/index.xml                          | asymptote                          | monthly |
+| https://mkusaka.github.io/trending/ats/daily/index.xml                                  | ats                                | daily   |
+| https://mkusaka.github.io/trending/ats/weekly/index.xml                                 | ats                                | weekly  |
+| https://mkusaka.github.io/trending/ats/monthly/index.xml                                | ats                                | monthly |
+| https://mkusaka.github.io/trending/augeas/daily/index.xml                               | augeas                             | daily   |
+| https://mkusaka.github.io/trending/augeas/weekly/index.xml                              | augeas                             | weekly  |
+| https://mkusaka.github.io/trending/augeas/monthly/index.xml                             | augeas                             | monthly |
+| https://mkusaka.github.io/trending/autohotkey/daily/index.xml                           | autohotkey                         | daily   |
+| https://mkusaka.github.io/trending/autohotkey/weekly/index.xml                          | autohotkey                         | weekly  |
+| https://mkusaka.github.io/trending/autohotkey/monthly/index.xml                         | autohotkey                         | monthly |
+| https://mkusaka.github.io/trending/autoit/daily/index.xml                               | autoit                             | daily   |
+| https://mkusaka.github.io/trending/autoit/weekly/index.xml                              | autoit                             | weekly  |
+| https://mkusaka.github.io/trending/autoit/monthly/index.xml                             | autoit                             | monthly |
+| https://mkusaka.github.io/trending/avro-idl/daily/index.xml                             | avro-idl                           | daily   |
+| https://mkusaka.github.io/trending/avro-idl/weekly/index.xml                            | avro-idl                           | weekly  |
+| https://mkusaka.github.io/trending/avro-idl/monthly/index.xml                           | avro-idl                           | monthly |
+| https://mkusaka.github.io/trending/awk/daily/index.xml                                  | awk                                | daily   |
+| https://mkusaka.github.io/trending/awk/weekly/index.xml                                 | awk                                | weekly  |
+| https://mkusaka.github.io/trending/awk/monthly/index.xml                                | awk                                | monthly |
+| https://mkusaka.github.io/trending/ballerina/daily/index.xml                            | ballerina                          | daily   |
+| https://mkusaka.github.io/trending/ballerina/weekly/index.xml                           | ballerina                          | weekly  |
+| https://mkusaka.github.io/trending/ballerina/monthly/index.xml                          | ballerina                          | monthly |
+| https://mkusaka.github.io/trending/basic/daily/index.xml                                | basic                              | daily   |
+| https://mkusaka.github.io/trending/basic/weekly/index.xml                               | basic                              | weekly  |
+| https://mkusaka.github.io/trending/basic/monthly/index.xml                              | basic                              | monthly |
+| https://mkusaka.github.io/trending/batchfile/daily/index.xml                            | batchfile                          | daily   |
+| https://mkusaka.github.io/trending/batchfile/weekly/index.xml                           | batchfile                          | weekly  |
+| https://mkusaka.github.io/trending/batchfile/monthly/index.xml                          | batchfile                          | monthly |
+| https://mkusaka.github.io/trending/beef/daily/index.xml                                 | beef                               | daily   |
+| https://mkusaka.github.io/trending/beef/weekly/index.xml                                | beef                               | weekly  |
+| https://mkusaka.github.io/trending/beef/monthly/index.xml                               | beef                               | monthly |
+| https://mkusaka.github.io/trending/befunge/daily/index.xml                              | befunge                            | daily   |
+| https://mkusaka.github.io/trending/befunge/weekly/index.xml                             | befunge                            | weekly  |
+| https://mkusaka.github.io/trending/befunge/monthly/index.xml                            | befunge                            | monthly |
+| https://mkusaka.github.io/trending/berry/daily/index.xml                                | berry                              | daily   |
+| https://mkusaka.github.io/trending/berry/weekly/index.xml                               | berry                              | weekly  |
+| https://mkusaka.github.io/trending/berry/monthly/index.xml                              | berry                              | monthly |
+| https://mkusaka.github.io/trending/bibtex/daily/index.xml                               | bibtex                             | daily   |
+| https://mkusaka.github.io/trending/bibtex/weekly/index.xml                              | bibtex                             | weekly  |
+| https://mkusaka.github.io/trending/bibtex/monthly/index.xml                             | bibtex                             | monthly |
+| https://mkusaka.github.io/trending/bicep/daily/index.xml                                | bicep                              | daily   |
+| https://mkusaka.github.io/trending/bicep/weekly/index.xml                               | bicep                              | weekly  |
+| https://mkusaka.github.io/trending/bicep/monthly/index.xml                              | bicep                              | monthly |
+| https://mkusaka.github.io/trending/bison/daily/index.xml                                | bison                              | daily   |
+| https://mkusaka.github.io/trending/bison/weekly/index.xml                               | bison                              | weekly  |
+| https://mkusaka.github.io/trending/bison/monthly/index.xml                              | bison                              | monthly |
+| https://mkusaka.github.io/trending/bitbake/daily/index.xml                              | bitbake                            | daily   |
+| https://mkusaka.github.io/trending/bitbake/weekly/index.xml                             | bitbake                            | weekly  |
+| https://mkusaka.github.io/trending/bitbake/monthly/index.xml                            | bitbake                            | monthly |
+| https://mkusaka.github.io/trending/blade/daily/index.xml                                | blade                              | daily   |
+| https://mkusaka.github.io/trending/blade/weekly/index.xml                               | blade                              | weekly  |
+| https://mkusaka.github.io/trending/blade/monthly/index.xml                              | blade                              | monthly |
+| https://mkusaka.github.io/trending/blitzbasic/daily/index.xml                           | blitzbasic                         | daily   |
+| https://mkusaka.github.io/trending/blitzbasic/weekly/index.xml                          | blitzbasic                         | weekly  |
+| https://mkusaka.github.io/trending/blitzbasic/monthly/index.xml                         | blitzbasic                         | monthly |
+| https://mkusaka.github.io/trending/blitzmax/daily/index.xml                             | blitzmax                           | daily   |
+| https://mkusaka.github.io/trending/blitzmax/weekly/index.xml                            | blitzmax                           | weekly  |
+| https://mkusaka.github.io/trending/blitzmax/monthly/index.xml                           | blitzmax                           | monthly |
+| https://mkusaka.github.io/trending/bluespec/daily/index.xml                             | bluespec                           | daily   |
+| https://mkusaka.github.io/trending/bluespec/weekly/index.xml                            | bluespec                           | weekly  |
+| https://mkusaka.github.io/trending/bluespec/monthly/index.xml                           | bluespec                           | monthly |
+| https://mkusaka.github.io/trending/boo/daily/index.xml                                  | boo                                | daily   |
+| https://mkusaka.github.io/trending/boo/weekly/index.xml                                 | boo                                | weekly  |
+| https://mkusaka.github.io/trending/boo/monthly/index.xml                                | boo                                | monthly |
+| https://mkusaka.github.io/trending/boogie/daily/index.xml                               | boogie                             | daily   |
+| https://mkusaka.github.io/trending/boogie/weekly/index.xml                              | boogie                             | weekly  |
+| https://mkusaka.github.io/trending/boogie/monthly/index.xml                             | boogie                             | monthly |
+| https://mkusaka.github.io/trending/brainfuck/daily/index.xml                            | brainfuck                          | daily   |
+| https://mkusaka.github.io/trending/brainfuck/weekly/index.xml                           | brainfuck                          | weekly  |
+| https://mkusaka.github.io/trending/brainfuck/monthly/index.xml                          | brainfuck                          | monthly |
+| https://mkusaka.github.io/trending/brightscript/daily/index.xml                         | brightscript                       | daily   |
+| https://mkusaka.github.io/trending/brightscript/weekly/index.xml                        | brightscript                       | weekly  |
+| https://mkusaka.github.io/trending/brightscript/monthly/index.xml                       | brightscript                       | monthly |
+| https://mkusaka.github.io/trending/zeek/daily/index.xml                                 | zeek                               | daily   |
+| https://mkusaka.github.io/trending/zeek/weekly/index.xml                                | zeek                               | weekly  |
+| https://mkusaka.github.io/trending/zeek/monthly/index.xml                               | zeek                               | monthly |
+| https://mkusaka.github.io/trending/browserslist/daily/index.xml                         | browserslist                       | daily   |
+| https://mkusaka.github.io/trending/browserslist/weekly/index.xml                        | browserslist                       | weekly  |
+| https://mkusaka.github.io/trending/browserslist/monthly/index.xml                       | browserslist                       | monthly |
+| https://mkusaka.github.io/trending/c/daily/index.xml                                    | c                                  | daily   |
+| https://mkusaka.github.io/trending/c/weekly/index.xml                                   | c                                  | weekly  |
+| https://mkusaka.github.io/trending/c/monthly/index.xml                                  | c                                  | monthly |
+| https://mkusaka.github.io/trending/c%23/daily/index.xml                                 | c%23                               | daily   |
+| https://mkusaka.github.io/trending/c%23/weekly/index.xml                                | c%23                               | weekly  |
+| https://mkusaka.github.io/trending/c%23/monthly/index.xml                               | c%23                               | monthly |
+| https://mkusaka.github.io/trending/c-objdump/daily/index.xml                            | c-objdump                          | daily   |
+| https://mkusaka.github.io/trending/c-objdump/weekly/index.xml                           | c-objdump                          | weekly  |
+| https://mkusaka.github.io/trending/c-objdump/monthly/index.xml                          | c-objdump                          | monthly |
+| https://mkusaka.github.io/trending/c2hs-haskell/daily/index.xml                         | c2hs-haskell                       | daily   |
+| https://mkusaka.github.io/trending/c2hs-haskell/weekly/index.xml                        | c2hs-haskell                       | weekly  |
+| https://mkusaka.github.io/trending/c2hs-haskell/monthly/index.xml                       | c2hs-haskell                       | monthly |
+| https://mkusaka.github.io/trending/cabal-config/daily/index.xml                         | cabal-config                       | daily   |
+| https://mkusaka.github.io/trending/cabal-config/weekly/index.xml                        | cabal-config                       | weekly  |
+| https://mkusaka.github.io/trending/cabal-config/monthly/index.xml                       | cabal-config                       | monthly |
+| https://mkusaka.github.io/trending/cadence/daily/index.xml                              | cadence                            | daily   |
+| https://mkusaka.github.io/trending/cadence/weekly/index.xml                             | cadence                            | weekly  |
+| https://mkusaka.github.io/trending/cadence/monthly/index.xml                            | cadence                            | monthly |
+| https://mkusaka.github.io/trending/cairo/daily/index.xml                                | cairo                              | daily   |
+| https://mkusaka.github.io/trending/cairo/weekly/index.xml                               | cairo                              | weekly  |
+| https://mkusaka.github.io/trending/cairo/monthly/index.xml                              | cairo                              | monthly |
+| https://mkusaka.github.io/trending/cap'n-proto/daily/index.xml                          | cap'n-proto                        | daily   |
+| https://mkusaka.github.io/trending/cap'n-proto/weekly/index.xml                         | cap'n-proto                        | weekly  |
+| https://mkusaka.github.io/trending/cap'n-proto/monthly/index.xml                        | cap'n-proto                        | monthly |
+| https://mkusaka.github.io/trending/cartocss/daily/index.xml                             | cartocss                           | daily   |
+| https://mkusaka.github.io/trending/cartocss/weekly/index.xml                            | cartocss                           | weekly  |
+| https://mkusaka.github.io/trending/cartocss/monthly/index.xml                           | cartocss                           | monthly |
+| https://mkusaka.github.io/trending/ceylon/daily/index.xml                               | ceylon                             | daily   |
+| https://mkusaka.github.io/trending/ceylon/weekly/index.xml                              | ceylon                             | weekly  |
+| https://mkusaka.github.io/trending/ceylon/monthly/index.xml                             | ceylon                             | monthly |
+| https://mkusaka.github.io/trending/chapel/daily/index.xml                               | chapel                             | daily   |
+| https://mkusaka.github.io/trending/chapel/weekly/index.xml                              | chapel                             | weekly  |
+| https://mkusaka.github.io/trending/chapel/monthly/index.xml                             | chapel                             | monthly |
+| https://mkusaka.github.io/trending/charity/daily/index.xml                              | charity                            | daily   |
+| https://mkusaka.github.io/trending/charity/weekly/index.xml                             | charity                            | weekly  |
+| https://mkusaka.github.io/trending/charity/monthly/index.xml                            | charity                            | monthly |
+| https://mkusaka.github.io/trending/chuck/daily/index.xml                                | chuck                              | daily   |
+| https://mkusaka.github.io/trending/chuck/weekly/index.xml                               | chuck                              | weekly  |
+| https://mkusaka.github.io/trending/chuck/monthly/index.xml                              | chuck                              | monthly |
+| https://mkusaka.github.io/trending/cil/daily/index.xml                                  | cil                                | daily   |
+| https://mkusaka.github.io/trending/cil/weekly/index.xml                                 | cil                                | weekly  |
+| https://mkusaka.github.io/trending/cil/monthly/index.xml                                | cil                                | monthly |
+| https://mkusaka.github.io/trending/cirru/daily/index.xml                                | cirru                              | daily   |
+| https://mkusaka.github.io/trending/cirru/weekly/index.xml                               | cirru                              | weekly  |
+| https://mkusaka.github.io/trending/cirru/monthly/index.xml                              | cirru                              | monthly |
+| https://mkusaka.github.io/trending/clarion/daily/index.xml                              | clarion                            | daily   |
+| https://mkusaka.github.io/trending/clarion/weekly/index.xml                             | clarion                            | weekly  |
+| https://mkusaka.github.io/trending/clarion/monthly/index.xml                            | clarion                            | monthly |
+| https://mkusaka.github.io/trending/clarity/daily/index.xml                              | clarity                            | daily   |
+| https://mkusaka.github.io/trending/clarity/weekly/index.xml                             | clarity                            | weekly  |
+| https://mkusaka.github.io/trending/clarity/monthly/index.xml                            | clarity                            | monthly |
+| https://mkusaka.github.io/trending/clean/daily/index.xml                                | clean                              | daily   |
+| https://mkusaka.github.io/trending/clean/weekly/index.xml                               | clean                              | weekly  |
+| https://mkusaka.github.io/trending/clean/monthly/index.xml                              | clean                              | monthly |
+| https://mkusaka.github.io/trending/click/daily/index.xml                                | click                              | daily   |
+| https://mkusaka.github.io/trending/click/weekly/index.xml                               | click                              | weekly  |
+| https://mkusaka.github.io/trending/click/monthly/index.xml                              | click                              | monthly |
+| https://mkusaka.github.io/trending/clips/daily/index.xml                                | clips                              | daily   |
+| https://mkusaka.github.io/trending/clips/weekly/index.xml                               | clips                              | weekly  |
+| https://mkusaka.github.io/trending/clips/monthly/index.xml                              | clips                              | monthly |
+| https://mkusaka.github.io/trending/clojure/daily/index.xml                              | clojure                            | daily   |
+| https://mkusaka.github.io/trending/clojure/weekly/index.xml                             | clojure                            | weekly  |
+| https://mkusaka.github.io/trending/clojure/monthly/index.xml                            | clojure                            | monthly |
+| https://mkusaka.github.io/trending/closure-templates/daily/index.xml                    | closure-templates                  | daily   |
+| https://mkusaka.github.io/trending/closure-templates/weekly/index.xml                   | closure-templates                  | weekly  |
+| https://mkusaka.github.io/trending/closure-templates/monthly/index.xml                  | closure-templates                  | monthly |
+| https://mkusaka.github.io/trending/cloud-firestore-security-rules/daily/index.xml       | cloud-firestore-security-rules     | daily   |
+| https://mkusaka.github.io/trending/cloud-firestore-security-rules/weekly/index.xml      | cloud-firestore-security-rules     | weekly  |
+| https://mkusaka.github.io/trending/cloud-firestore-security-rules/monthly/index.xml     | cloud-firestore-security-rules     | monthly |
+| https://mkusaka.github.io/trending/cmake/daily/index.xml                                | cmake                              | daily   |
+| https://mkusaka.github.io/trending/cmake/weekly/index.xml                               | cmake                              | weekly  |
+| https://mkusaka.github.io/trending/cmake/monthly/index.xml                              | cmake                              | monthly |
+| https://mkusaka.github.io/trending/cobol/daily/index.xml                                | cobol                              | daily   |
+| https://mkusaka.github.io/trending/cobol/weekly/index.xml                               | cobol                              | weekly  |
+| https://mkusaka.github.io/trending/cobol/monthly/index.xml                              | cobol                              | monthly |
+| https://mkusaka.github.io/trending/codeowners/daily/index.xml                           | codeowners                         | daily   |
+| https://mkusaka.github.io/trending/codeowners/weekly/index.xml                          | codeowners                         | weekly  |
+| https://mkusaka.github.io/trending/codeowners/monthly/index.xml                         | codeowners                         | monthly |
+| https://mkusaka.github.io/trending/codeql/daily/index.xml                               | codeql                             | daily   |
+| https://mkusaka.github.io/trending/codeql/weekly/index.xml                              | codeql                             | weekly  |
+| https://mkusaka.github.io/trending/codeql/monthly/index.xml                             | codeql                             | monthly |
+| https://mkusaka.github.io/trending/coffeescript/daily/index.xml                         | coffeescript                       | daily   |
+| https://mkusaka.github.io/trending/coffeescript/weekly/index.xml                        | coffeescript                       | weekly  |
+| https://mkusaka.github.io/trending/coffeescript/monthly/index.xml                       | coffeescript                       | monthly |
+| https://mkusaka.github.io/trending/coldfusion/daily/index.xml                           | coldfusion                         | daily   |
+| https://mkusaka.github.io/trending/coldfusion/weekly/index.xml                          | coldfusion                         | weekly  |
+| https://mkusaka.github.io/trending/coldfusion/monthly/index.xml                         | coldfusion                         | monthly |
+| https://mkusaka.github.io/trending/coldfusion-cfc/daily/index.xml                       | coldfusion-cfc                     | daily   |
+| https://mkusaka.github.io/trending/coldfusion-cfc/weekly/index.xml                      | coldfusion-cfc                     | weekly  |
+| https://mkusaka.github.io/trending/coldfusion-cfc/monthly/index.xml                     | coldfusion-cfc                     | monthly |
+| https://mkusaka.github.io/trending/collada/daily/index.xml                              | collada                            | daily   |
+| https://mkusaka.github.io/trending/collada/weekly/index.xml                             | collada                            | weekly  |
+| https://mkusaka.github.io/trending/collada/monthly/index.xml                            | collada                            | monthly |
+| https://mkusaka.github.io/trending/common-lisp/daily/index.xml                          | common-lisp                        | daily   |
+| https://mkusaka.github.io/trending/common-lisp/weekly/index.xml                         | common-lisp                        | weekly  |
+| https://mkusaka.github.io/trending/common-lisp/monthly/index.xml                        | common-lisp                        | monthly |
+| https://mkusaka.github.io/trending/common-workflow-language/daily/index.xml             | common-workflow-language           | daily   |
+| https://mkusaka.github.io/trending/common-workflow-language/weekly/index.xml            | common-workflow-language           | weekly  |
+| https://mkusaka.github.io/trending/common-workflow-language/monthly/index.xml           | common-workflow-language           | monthly |
+| https://mkusaka.github.io/trending/component-pascal/daily/index.xml                     | component-pascal                   | daily   |
+| https://mkusaka.github.io/trending/component-pascal/weekly/index.xml                    | component-pascal                   | weekly  |
+| https://mkusaka.github.io/trending/component-pascal/monthly/index.xml                   | component-pascal                   | monthly |
+| https://mkusaka.github.io/trending/conll-u/daily/index.xml                              | conll-u                            | daily   |
+| https://mkusaka.github.io/trending/conll-u/weekly/index.xml                             | conll-u                            | weekly  |
+| https://mkusaka.github.io/trending/conll-u/monthly/index.xml                            | conll-u                            | monthly |
+| https://mkusaka.github.io/trending/cool/daily/index.xml                                 | cool                               | daily   |
+| https://mkusaka.github.io/trending/cool/weekly/index.xml                                | cool                               | weekly  |
+| https://mkusaka.github.io/trending/cool/monthly/index.xml                               | cool                               | monthly |
+| https://mkusaka.github.io/trending/coq/daily/index.xml                                  | coq                                | daily   |
+| https://mkusaka.github.io/trending/coq/weekly/index.xml                                 | coq                                | weekly  |
+| https://mkusaka.github.io/trending/coq/monthly/index.xml                                | coq                                | monthly |
+| https://mkusaka.github.io/trending/cpp-objdump/daily/index.xml                          | cpp-objdump                        | daily   |
+| https://mkusaka.github.io/trending/cpp-objdump/weekly/index.xml                         | cpp-objdump                        | weekly  |
+| https://mkusaka.github.io/trending/cpp-objdump/monthly/index.xml                        | cpp-objdump                        | monthly |
+| https://mkusaka.github.io/trending/creole/daily/index.xml                               | creole                             | daily   |
+| https://mkusaka.github.io/trending/creole/weekly/index.xml                              | creole                             | weekly  |
+| https://mkusaka.github.io/trending/creole/monthly/index.xml                             | creole                             | monthly |
+| https://mkusaka.github.io/trending/crystal/daily/index.xml                              | crystal                            | daily   |
+| https://mkusaka.github.io/trending/crystal/weekly/index.xml                             | crystal                            | weekly  |
+| https://mkusaka.github.io/trending/crystal/monthly/index.xml                            | crystal                            | monthly |
+| https://mkusaka.github.io/trending/cson/daily/index.xml                                 | cson                               | daily   |
+| https://mkusaka.github.io/trending/cson/weekly/index.xml                                | cson                               | weekly  |
+| https://mkusaka.github.io/trending/cson/monthly/index.xml                               | cson                               | monthly |
+| https://mkusaka.github.io/trending/csound/daily/index.xml                               | csound                             | daily   |
+| https://mkusaka.github.io/trending/csound/weekly/index.xml                              | csound                             | weekly  |
+| https://mkusaka.github.io/trending/csound/monthly/index.xml                             | csound                             | monthly |
+| https://mkusaka.github.io/trending/csound-document/daily/index.xml                      | csound-document                    | daily   |
+| https://mkusaka.github.io/trending/csound-document/weekly/index.xml                     | csound-document                    | weekly  |
+| https://mkusaka.github.io/trending/csound-document/monthly/index.xml                    | csound-document                    | monthly |
+| https://mkusaka.github.io/trending/csound-score/daily/index.xml                         | csound-score                       | daily   |
+| https://mkusaka.github.io/trending/csound-score/weekly/index.xml                        | csound-score                       | weekly  |
+| https://mkusaka.github.io/trending/csound-score/monthly/index.xml                       | csound-score                       | monthly |
+| https://mkusaka.github.io/trending/css/daily/index.xml                                  | css                                | daily   |
+| https://mkusaka.github.io/trending/css/weekly/index.xml                                 | css                                | weekly  |
+| https://mkusaka.github.io/trending/css/monthly/index.xml                                | css                                | monthly |
+| https://mkusaka.github.io/trending/csv/daily/index.xml                                  | csv                                | daily   |
+| https://mkusaka.github.io/trending/csv/weekly/index.xml                                 | csv                                | weekly  |
+| https://mkusaka.github.io/trending/csv/monthly/index.xml                                | csv                                | monthly |
+| https://mkusaka.github.io/trending/cuda/daily/index.xml                                 | cuda                               | daily   |
+| https://mkusaka.github.io/trending/cuda/weekly/index.xml                                | cuda                               | weekly  |
+| https://mkusaka.github.io/trending/cuda/monthly/index.xml                               | cuda                               | monthly |
+| https://mkusaka.github.io/trending/cue/daily/index.xml                                  | cue                                | daily   |
+| https://mkusaka.github.io/trending/cue/weekly/index.xml                                 | cue                                | weekly  |
+| https://mkusaka.github.io/trending/cue/monthly/index.xml                                | cue                                | monthly |
+| https://mkusaka.github.io/trending/curl-config/daily/index.xml                          | curl-config                        | daily   |
+| https://mkusaka.github.io/trending/curl-config/weekly/index.xml                         | curl-config                        | weekly  |
+| https://mkusaka.github.io/trending/curl-config/monthly/index.xml                        | curl-config                        | monthly |
+| https://mkusaka.github.io/trending/curry/daily/index.xml                                | curry                              | daily   |
+| https://mkusaka.github.io/trending/curry/weekly/index.xml                               | curry                              | weekly  |
+| https://mkusaka.github.io/trending/curry/monthly/index.xml                              | curry                              | monthly |
+| https://mkusaka.github.io/trending/cweb/daily/index.xml                                 | cweb                               | daily   |
+| https://mkusaka.github.io/trending/cweb/weekly/index.xml                                | cweb                               | weekly  |
+| https://mkusaka.github.io/trending/cweb/monthly/index.xml                               | cweb                               | monthly |
+| https://mkusaka.github.io/trending/cycript/daily/index.xml                              | cycript                            | daily   |
+| https://mkusaka.github.io/trending/cycript/weekly/index.xml                             | cycript                            | weekly  |
+| https://mkusaka.github.io/trending/cycript/monthly/index.xml                            | cycript                            | monthly |
+| https://mkusaka.github.io/trending/cython/daily/index.xml                               | cython                             | daily   |
+| https://mkusaka.github.io/trending/cython/weekly/index.xml                              | cython                             | weekly  |
+| https://mkusaka.github.io/trending/cython/monthly/index.xml                             | cython                             | monthly |
+| https://mkusaka.github.io/trending/d/daily/index.xml                                    | d                                  | daily   |
+| https://mkusaka.github.io/trending/d/weekly/index.xml                                   | d                                  | weekly  |
+| https://mkusaka.github.io/trending/d/monthly/index.xml                                  | d                                  | monthly |
+| https://mkusaka.github.io/trending/d-objdump/daily/index.xml                            | d-objdump                          | daily   |
+| https://mkusaka.github.io/trending/d-objdump/weekly/index.xml                           | d-objdump                          | weekly  |
+| https://mkusaka.github.io/trending/d-objdump/monthly/index.xml                          | d-objdump                          | monthly |
+| https://mkusaka.github.io/trending/dafny/daily/index.xml                                | dafny                              | daily   |
+| https://mkusaka.github.io/trending/dafny/weekly/index.xml                               | dafny                              | weekly  |
+| https://mkusaka.github.io/trending/dafny/monthly/index.xml                              | dafny                              | monthly |
+| https://mkusaka.github.io/trending/darcs-patch/daily/index.xml                          | darcs-patch                        | daily   |
+| https://mkusaka.github.io/trending/darcs-patch/weekly/index.xml                         | darcs-patch                        | weekly  |
+| https://mkusaka.github.io/trending/darcs-patch/monthly/index.xml                        | darcs-patch                        | monthly |
+| https://mkusaka.github.io/trending/dart/daily/index.xml                                 | dart                               | daily   |
+| https://mkusaka.github.io/trending/dart/weekly/index.xml                                | dart                               | weekly  |
+| https://mkusaka.github.io/trending/dart/monthly/index.xml                               | dart                               | monthly |
+| https://mkusaka.github.io/trending/dataweave/daily/index.xml                            | dataweave                          | daily   |
+| https://mkusaka.github.io/trending/dataweave/weekly/index.xml                           | dataweave                          | weekly  |
+| https://mkusaka.github.io/trending/dataweave/monthly/index.xml                          | dataweave                          | monthly |
+| https://mkusaka.github.io/trending/debian-package-control-file/daily/index.xml          | debian-package-control-file        | daily   |
+| https://mkusaka.github.io/trending/debian-package-control-file/weekly/index.xml         | debian-package-control-file        | weekly  |
+| https://mkusaka.github.io/trending/debian-package-control-file/monthly/index.xml        | debian-package-control-file        | monthly |
+| https://mkusaka.github.io/trending/denizenscript/daily/index.xml                        | denizenscript                      | daily   |
+| https://mkusaka.github.io/trending/denizenscript/weekly/index.xml                       | denizenscript                      | weekly  |
+| https://mkusaka.github.io/trending/denizenscript/monthly/index.xml                      | denizenscript                      | monthly |
+| https://mkusaka.github.io/trending/desktop/daily/index.xml                              | desktop                            | daily   |
+| https://mkusaka.github.io/trending/desktop/weekly/index.xml                             | desktop                            | weekly  |
+| https://mkusaka.github.io/trending/desktop/monthly/index.xml                            | desktop                            | monthly |
+| https://mkusaka.github.io/trending/dhall/daily/index.xml                                | dhall                              | daily   |
+| https://mkusaka.github.io/trending/dhall/weekly/index.xml                               | dhall                              | weekly  |
+| https://mkusaka.github.io/trending/dhall/monthly/index.xml                              | dhall                              | monthly |
+| https://mkusaka.github.io/trending/diff/daily/index.xml                                 | diff                               | daily   |
+| https://mkusaka.github.io/trending/diff/weekly/index.xml                                | diff                               | weekly  |
+| https://mkusaka.github.io/trending/diff/monthly/index.xml                               | diff                               | monthly |
+| https://mkusaka.github.io/trending/digital-command-language/daily/index.xml             | digital-command-language           | daily   |
+| https://mkusaka.github.io/trending/digital-command-language/weekly/index.xml            | digital-command-language           | weekly  |
+| https://mkusaka.github.io/trending/digital-command-language/monthly/index.xml           | digital-command-language           | monthly |
+| https://mkusaka.github.io/trending/dircolors/daily/index.xml                            | dircolors                          | daily   |
+| https://mkusaka.github.io/trending/dircolors/weekly/index.xml                           | dircolors                          | weekly  |
+| https://mkusaka.github.io/trending/dircolors/monthly/index.xml                          | dircolors                          | monthly |
+| https://mkusaka.github.io/trending/directx-3d-file/daily/index.xml                      | directx-3d-file                    | daily   |
+| https://mkusaka.github.io/trending/directx-3d-file/weekly/index.xml                     | directx-3d-file                    | weekly  |
+| https://mkusaka.github.io/trending/directx-3d-file/monthly/index.xml                    | directx-3d-file                    | monthly |
+| https://mkusaka.github.io/trending/dm/daily/index.xml                                   | dm                                 | daily   |
+| https://mkusaka.github.io/trending/dm/weekly/index.xml                                  | dm                                 | weekly  |
+| https://mkusaka.github.io/trending/dm/monthly/index.xml                                 | dm                                 | monthly |
+| https://mkusaka.github.io/trending/dns-zone/daily/index.xml                             | dns-zone                           | daily   |
+| https://mkusaka.github.io/trending/dns-zone/weekly/index.xml                            | dns-zone                           | weekly  |
+| https://mkusaka.github.io/trending/dns-zone/monthly/index.xml                           | dns-zone                           | monthly |
+| https://mkusaka.github.io/trending/dockerfile/daily/index.xml                           | dockerfile                         | daily   |
+| https://mkusaka.github.io/trending/dockerfile/weekly/index.xml                          | dockerfile                         | weekly  |
+| https://mkusaka.github.io/trending/dockerfile/monthly/index.xml                         | dockerfile                         | monthly |
+| https://mkusaka.github.io/trending/dogescript/daily/index.xml                           | dogescript                         | daily   |
+| https://mkusaka.github.io/trending/dogescript/weekly/index.xml                          | dogescript                         | weekly  |
+| https://mkusaka.github.io/trending/dogescript/monthly/index.xml                         | dogescript                         | monthly |
+| https://mkusaka.github.io/trending/dtrace/daily/index.xml                               | dtrace                             | daily   |
+| https://mkusaka.github.io/trending/dtrace/weekly/index.xml                              | dtrace                             | weekly  |
+| https://mkusaka.github.io/trending/dtrace/monthly/index.xml                             | dtrace                             | monthly |
+| https://mkusaka.github.io/trending/dylan/daily/index.xml                                | dylan                              | daily   |
+| https://mkusaka.github.io/trending/dylan/weekly/index.xml                               | dylan                              | weekly  |
+| https://mkusaka.github.io/trending/dylan/monthly/index.xml                              | dylan                              | monthly |
+| https://mkusaka.github.io/trending/e/daily/index.xml                                    | e                                  | daily   |
+| https://mkusaka.github.io/trending/e/weekly/index.xml                                   | e                                  | weekly  |
+| https://mkusaka.github.io/trending/e/monthly/index.xml                                  | e                                  | monthly |
+| https://mkusaka.github.io/trending/e-mail/daily/index.xml                               | e-mail                             | daily   |
+| https://mkusaka.github.io/trending/e-mail/weekly/index.xml                              | e-mail                             | weekly  |
+| https://mkusaka.github.io/trending/e-mail/monthly/index.xml                             | e-mail                             | monthly |
+| https://mkusaka.github.io/trending/eagle/daily/index.xml                                | eagle                              | daily   |
+| https://mkusaka.github.io/trending/eagle/weekly/index.xml                               | eagle                              | weekly  |
+| https://mkusaka.github.io/trending/eagle/monthly/index.xml                              | eagle                              | monthly |
+| https://mkusaka.github.io/trending/earthly/daily/index.xml                              | earthly                            | daily   |
+| https://mkusaka.github.io/trending/earthly/weekly/index.xml                             | earthly                            | weekly  |
+| https://mkusaka.github.io/trending/earthly/monthly/index.xml                            | earthly                            | monthly |
+| https://mkusaka.github.io/trending/easybuild/daily/index.xml                            | easybuild                          | daily   |
+| https://mkusaka.github.io/trending/easybuild/weekly/index.xml                           | easybuild                          | weekly  |
+| https://mkusaka.github.io/trending/easybuild/monthly/index.xml                          | easybuild                          | monthly |
+| https://mkusaka.github.io/trending/ebnf/daily/index.xml                                 | ebnf                               | daily   |
+| https://mkusaka.github.io/trending/ebnf/weekly/index.xml                                | ebnf                               | weekly  |
+| https://mkusaka.github.io/trending/ebnf/monthly/index.xml                               | ebnf                               | monthly |
+| https://mkusaka.github.io/trending/ec/daily/index.xml                                   | ec                                 | daily   |
+| https://mkusaka.github.io/trending/ec/weekly/index.xml                                  | ec                                 | weekly  |
+| https://mkusaka.github.io/trending/ec/monthly/index.xml                                 | ec                                 | monthly |
+| https://mkusaka.github.io/trending/ecere-projects/daily/index.xml                       | ecere-projects                     | daily   |
+| https://mkusaka.github.io/trending/ecere-projects/weekly/index.xml                      | ecere-projects                     | weekly  |
+| https://mkusaka.github.io/trending/ecere-projects/monthly/index.xml                     | ecere-projects                     | monthly |
+| https://mkusaka.github.io/trending/ecl/daily/index.xml                                  | ecl                                | daily   |
+| https://mkusaka.github.io/trending/ecl/weekly/index.xml                                 | ecl                                | weekly  |
+| https://mkusaka.github.io/trending/ecl/monthly/index.xml                                | ecl                                | monthly |
+| https://mkusaka.github.io/trending/eclipse/daily/index.xml                              | eclipse                            | daily   |
+| https://mkusaka.github.io/trending/eclipse/weekly/index.xml                             | eclipse                            | weekly  |
+| https://mkusaka.github.io/trending/eclipse/monthly/index.xml                            | eclipse                            | monthly |
+| https://mkusaka.github.io/trending/editorconfig/daily/index.xml                         | editorconfig                       | daily   |
+| https://mkusaka.github.io/trending/editorconfig/weekly/index.xml                        | editorconfig                       | weekly  |
+| https://mkusaka.github.io/trending/editorconfig/monthly/index.xml                       | editorconfig                       | monthly |
+| https://mkusaka.github.io/trending/edje-data-collection/daily/index.xml                 | edje-data-collection               | daily   |
+| https://mkusaka.github.io/trending/edje-data-collection/weekly/index.xml                | edje-data-collection               | weekly  |
+| https://mkusaka.github.io/trending/edje-data-collection/monthly/index.xml               | edje-data-collection               | monthly |
+| https://mkusaka.github.io/trending/edn/daily/index.xml                                  | edn                                | daily   |
+| https://mkusaka.github.io/trending/edn/weekly/index.xml                                 | edn                                | weekly  |
+| https://mkusaka.github.io/trending/edn/monthly/index.xml                                | edn                                | monthly |
+| https://mkusaka.github.io/trending/eiffel/daily/index.xml                               | eiffel                             | daily   |
+| https://mkusaka.github.io/trending/eiffel/weekly/index.xml                              | eiffel                             | weekly  |
+| https://mkusaka.github.io/trending/eiffel/monthly/index.xml                             | eiffel                             | monthly |
+| https://mkusaka.github.io/trending/ejs/daily/index.xml                                  | ejs                                | daily   |
+| https://mkusaka.github.io/trending/ejs/weekly/index.xml                                 | ejs                                | weekly  |
+| https://mkusaka.github.io/trending/ejs/monthly/index.xml                                | ejs                                | monthly |
+| https://mkusaka.github.io/trending/elixir/daily/index.xml                               | elixir                             | daily   |
+| https://mkusaka.github.io/trending/elixir/weekly/index.xml                              | elixir                             | weekly  |
+| https://mkusaka.github.io/trending/elixir/monthly/index.xml                             | elixir                             | monthly |
+| https://mkusaka.github.io/trending/elm/daily/index.xml                                  | elm                                | daily   |
+| https://mkusaka.github.io/trending/elm/weekly/index.xml                                 | elm                                | weekly  |
+| https://mkusaka.github.io/trending/elm/monthly/index.xml                                | elm                                | monthly |
+| https://mkusaka.github.io/trending/emacs-lisp/daily/index.xml                           | emacs-lisp                         | daily   |
+| https://mkusaka.github.io/trending/emacs-lisp/weekly/index.xml                          | emacs-lisp                         | weekly  |
+| https://mkusaka.github.io/trending/emacs-lisp/monthly/index.xml                         | emacs-lisp                         | monthly |
+| https://mkusaka.github.io/trending/emberscript/daily/index.xml                          | emberscript                        | daily   |
+| https://mkusaka.github.io/trending/emberscript/weekly/index.xml                         | emberscript                        | weekly  |
+| https://mkusaka.github.io/trending/emberscript/monthly/index.xml                        | emberscript                        | monthly |
+| https://mkusaka.github.io/trending/eq/daily/index.xml                                   | eq                                 | daily   |
+| https://mkusaka.github.io/trending/eq/weekly/index.xml                                  | eq                                 | weekly  |
+| https://mkusaka.github.io/trending/eq/monthly/index.xml                                 | eq                                 | monthly |
+| https://mkusaka.github.io/trending/erlang/daily/index.xml                               | erlang                             | daily   |
+| https://mkusaka.github.io/trending/erlang/weekly/index.xml                              | erlang                             | weekly  |
+| https://mkusaka.github.io/trending/erlang/monthly/index.xml                             | erlang                             | monthly |
+| https://mkusaka.github.io/trending/euphoria/daily/index.xml                             | euphoria                           | daily   |
+| https://mkusaka.github.io/trending/euphoria/weekly/index.xml                            | euphoria                           | weekly  |
+| https://mkusaka.github.io/trending/euphoria/monthly/index.xml                           | euphoria                           | monthly |
+| https://mkusaka.github.io/trending/f%23/daily/index.xml                                 | f%23                               | daily   |
+| https://mkusaka.github.io/trending/f%23/weekly/index.xml                                | f%23                               | weekly  |
+| https://mkusaka.github.io/trending/f%23/monthly/index.xml                               | f%23                               | monthly |
+| https://mkusaka.github.io/trending/f*/daily/index.xml                                   | f\*                                | daily   |
+| https://mkusaka.github.io/trending/f*/weekly/index.xml                                  | f\*                                | weekly  |
+| https://mkusaka.github.io/trending/f*/monthly/index.xml                                 | f\*                                | monthly |
+| https://mkusaka.github.io/trending/factor/daily/index.xml                               | factor                             | daily   |
+| https://mkusaka.github.io/trending/factor/weekly/index.xml                              | factor                             | weekly  |
+| https://mkusaka.github.io/trending/factor/monthly/index.xml                             | factor                             | monthly |
+| https://mkusaka.github.io/trending/fancy/daily/index.xml                                | fancy                              | daily   |
+| https://mkusaka.github.io/trending/fancy/weekly/index.xml                               | fancy                              | weekly  |
+| https://mkusaka.github.io/trending/fancy/monthly/index.xml                              | fancy                              | monthly |
+| https://mkusaka.github.io/trending/fantom/daily/index.xml                               | fantom                             | daily   |
+| https://mkusaka.github.io/trending/fantom/weekly/index.xml                              | fantom                             | weekly  |
+| https://mkusaka.github.io/trending/fantom/monthly/index.xml                             | fantom                             | monthly |
+| https://mkusaka.github.io/trending/faust/daily/index.xml                                | faust                              | daily   |
+| https://mkusaka.github.io/trending/faust/weekly/index.xml                               | faust                              | weekly  |
+| https://mkusaka.github.io/trending/faust/monthly/index.xml                              | faust                              | monthly |
+| https://mkusaka.github.io/trending/fennel/daily/index.xml                               | fennel                             | daily   |
+| https://mkusaka.github.io/trending/fennel/weekly/index.xml                              | fennel                             | weekly  |
+| https://mkusaka.github.io/trending/fennel/monthly/index.xml                             | fennel                             | monthly |
+| https://mkusaka.github.io/trending/figlet-font/daily/index.xml                          | figlet-font                        | daily   |
+| https://mkusaka.github.io/trending/figlet-font/weekly/index.xml                         | figlet-font                        | weekly  |
+| https://mkusaka.github.io/trending/figlet-font/monthly/index.xml                        | figlet-font                        | monthly |
+| https://mkusaka.github.io/trending/filebench-wml/daily/index.xml                        | filebench-wml                      | daily   |
+| https://mkusaka.github.io/trending/filebench-wml/weekly/index.xml                       | filebench-wml                      | weekly  |
+| https://mkusaka.github.io/trending/filebench-wml/monthly/index.xml                      | filebench-wml                      | monthly |
+| https://mkusaka.github.io/trending/filterscript/daily/index.xml                         | filterscript                       | daily   |
+| https://mkusaka.github.io/trending/filterscript/weekly/index.xml                        | filterscript                       | weekly  |
+| https://mkusaka.github.io/trending/filterscript/monthly/index.xml                       | filterscript                       | monthly |
+| https://mkusaka.github.io/trending/fish/daily/index.xml                                 | fish                               | daily   |
+| https://mkusaka.github.io/trending/fish/weekly/index.xml                                | fish                               | weekly  |
+| https://mkusaka.github.io/trending/fish/monthly/index.xml                               | fish                               | monthly |
+| https://mkusaka.github.io/trending/fluent/daily/index.xml                               | fluent                             | daily   |
+| https://mkusaka.github.io/trending/fluent/weekly/index.xml                              | fluent                             | weekly  |
+| https://mkusaka.github.io/trending/fluent/monthly/index.xml                             | fluent                             | monthly |
+| https://mkusaka.github.io/trending/flux/daily/index.xml                                 | flux                               | daily   |
+| https://mkusaka.github.io/trending/flux/weekly/index.xml                                | flux                               | weekly  |
+| https://mkusaka.github.io/trending/flux/monthly/index.xml                               | flux                               | monthly |
+| https://mkusaka.github.io/trending/formatted/daily/index.xml                            | formatted                          | daily   |
+| https://mkusaka.github.io/trending/formatted/weekly/index.xml                           | formatted                          | weekly  |
+| https://mkusaka.github.io/trending/formatted/monthly/index.xml                          | formatted                          | monthly |
+| https://mkusaka.github.io/trending/forth/daily/index.xml                                | forth                              | daily   |
+| https://mkusaka.github.io/trending/forth/weekly/index.xml                               | forth                              | weekly  |
+| https://mkusaka.github.io/trending/forth/monthly/index.xml                              | forth                              | monthly |
+| https://mkusaka.github.io/trending/fortran/daily/index.xml                              | fortran                            | daily   |
+| https://mkusaka.github.io/trending/fortran/weekly/index.xml                             | fortran                            | weekly  |
+| https://mkusaka.github.io/trending/fortran/monthly/index.xml                            | fortran                            | monthly |
+| https://mkusaka.github.io/trending/fortran-free-form/daily/index.xml                    | fortran-free-form                  | daily   |
+| https://mkusaka.github.io/trending/fortran-free-form/weekly/index.xml                   | fortran-free-form                  | weekly  |
+| https://mkusaka.github.io/trending/fortran-free-form/monthly/index.xml                  | fortran-free-form                  | monthly |
+| https://mkusaka.github.io/trending/freebasic/daily/index.xml                            | freebasic                          | daily   |
+| https://mkusaka.github.io/trending/freebasic/weekly/index.xml                           | freebasic                          | weekly  |
+| https://mkusaka.github.io/trending/freebasic/monthly/index.xml                          | freebasic                          | monthly |
+| https://mkusaka.github.io/trending/freemarker/daily/index.xml                           | freemarker                         | daily   |
+| https://mkusaka.github.io/trending/freemarker/weekly/index.xml                          | freemarker                         | weekly  |
+| https://mkusaka.github.io/trending/freemarker/monthly/index.xml                         | freemarker                         | monthly |
+| https://mkusaka.github.io/trending/frege/daily/index.xml                                | frege                              | daily   |
+| https://mkusaka.github.io/trending/frege/weekly/index.xml                               | frege                              | weekly  |
+| https://mkusaka.github.io/trending/frege/monthly/index.xml                              | frege                              | monthly |
+| https://mkusaka.github.io/trending/futhark/daily/index.xml                              | futhark                            | daily   |
+| https://mkusaka.github.io/trending/futhark/weekly/index.xml                             | futhark                            | weekly  |
+| https://mkusaka.github.io/trending/futhark/monthly/index.xml                            | futhark                            | monthly |
+| https://mkusaka.github.io/trending/g-code/daily/index.xml                               | g-code                             | daily   |
+| https://mkusaka.github.io/trending/g-code/weekly/index.xml                              | g-code                             | weekly  |
+| https://mkusaka.github.io/trending/g-code/monthly/index.xml                             | g-code                             | monthly |
+| https://mkusaka.github.io/trending/game-maker-language/daily/index.xml                  | game-maker-language                | daily   |
+| https://mkusaka.github.io/trending/game-maker-language/weekly/index.xml                 | game-maker-language                | weekly  |
+| https://mkusaka.github.io/trending/game-maker-language/monthly/index.xml                | game-maker-language                | monthly |
+| https://mkusaka.github.io/trending/gaml/daily/index.xml                                 | gaml                               | daily   |
+| https://mkusaka.github.io/trending/gaml/weekly/index.xml                                | gaml                               | weekly  |
+| https://mkusaka.github.io/trending/gaml/monthly/index.xml                               | gaml                               | monthly |
+| https://mkusaka.github.io/trending/gams/daily/index.xml                                 | gams                               | daily   |
+| https://mkusaka.github.io/trending/gams/weekly/index.xml                                | gams                               | weekly  |
+| https://mkusaka.github.io/trending/gams/monthly/index.xml                               | gams                               | monthly |
+| https://mkusaka.github.io/trending/gap/daily/index.xml                                  | gap                                | daily   |
+| https://mkusaka.github.io/trending/gap/weekly/index.xml                                 | gap                                | weekly  |
+| https://mkusaka.github.io/trending/gap/monthly/index.xml                                | gap                                | monthly |
+| https://mkusaka.github.io/trending/gcc-machine-description/daily/index.xml              | gcc-machine-description            | daily   |
+| https://mkusaka.github.io/trending/gcc-machine-description/weekly/index.xml             | gcc-machine-description            | weekly  |
+| https://mkusaka.github.io/trending/gcc-machine-description/monthly/index.xml            | gcc-machine-description            | monthly |
+| https://mkusaka.github.io/trending/gdb/daily/index.xml                                  | gdb                                | daily   |
+| https://mkusaka.github.io/trending/gdb/weekly/index.xml                                 | gdb                                | weekly  |
+| https://mkusaka.github.io/trending/gdb/monthly/index.xml                                | gdb                                | monthly |
+| https://mkusaka.github.io/trending/gdscript/daily/index.xml                             | gdscript                           | daily   |
+| https://mkusaka.github.io/trending/gdscript/weekly/index.xml                            | gdscript                           | weekly  |
+| https://mkusaka.github.io/trending/gdscript/monthly/index.xml                           | gdscript                           | monthly |
+| https://mkusaka.github.io/trending/gedcom/daily/index.xml                               | gedcom                             | daily   |
+| https://mkusaka.github.io/trending/gedcom/weekly/index.xml                              | gedcom                             | weekly  |
+| https://mkusaka.github.io/trending/gedcom/monthly/index.xml                             | gedcom                             | monthly |
+| https://mkusaka.github.io/trending/gemfile.lock/daily/index.xml                         | gemfile.lock                       | daily   |
+| https://mkusaka.github.io/trending/gemfile.lock/weekly/index.xml                        | gemfile.lock                       | weekly  |
+| https://mkusaka.github.io/trending/gemfile.lock/monthly/index.xml                       | gemfile.lock                       | monthly |
+| https://mkusaka.github.io/trending/genero/daily/index.xml                               | genero                             | daily   |
+| https://mkusaka.github.io/trending/genero/weekly/index.xml                              | genero                             | weekly  |
+| https://mkusaka.github.io/trending/genero/monthly/index.xml                             | genero                             | monthly |
+| https://mkusaka.github.io/trending/genero-forms/daily/index.xml                         | genero-forms                       | daily   |
+| https://mkusaka.github.io/trending/genero-forms/weekly/index.xml                        | genero-forms                       | weekly  |
+| https://mkusaka.github.io/trending/genero-forms/monthly/index.xml                       | genero-forms                       | monthly |
+| https://mkusaka.github.io/trending/genie/daily/index.xml                                | genie                              | daily   |
+| https://mkusaka.github.io/trending/genie/weekly/index.xml                               | genie                              | weekly  |
+| https://mkusaka.github.io/trending/genie/monthly/index.xml                              | genie                              | monthly |
+| https://mkusaka.github.io/trending/genshi/daily/index.xml                               | genshi                             | daily   |
+| https://mkusaka.github.io/trending/genshi/weekly/index.xml                              | genshi                             | weekly  |
+| https://mkusaka.github.io/trending/genshi/monthly/index.xml                             | genshi                             | monthly |
+| https://mkusaka.github.io/trending/gentoo-ebuild/daily/index.xml                        | gentoo-ebuild                      | daily   |
+| https://mkusaka.github.io/trending/gentoo-ebuild/weekly/index.xml                       | gentoo-ebuild                      | weekly  |
+| https://mkusaka.github.io/trending/gentoo-ebuild/monthly/index.xml                      | gentoo-ebuild                      | monthly |
+| https://mkusaka.github.io/trending/gentoo-eclass/daily/index.xml                        | gentoo-eclass                      | daily   |
+| https://mkusaka.github.io/trending/gentoo-eclass/weekly/index.xml                       | gentoo-eclass                      | weekly  |
+| https://mkusaka.github.io/trending/gentoo-eclass/monthly/index.xml                      | gentoo-eclass                      | monthly |
+| https://mkusaka.github.io/trending/gerber-image/daily/index.xml                         | gerber-image                       | daily   |
+| https://mkusaka.github.io/trending/gerber-image/weekly/index.xml                        | gerber-image                       | weekly  |
+| https://mkusaka.github.io/trending/gerber-image/monthly/index.xml                       | gerber-image                       | monthly |
+| https://mkusaka.github.io/trending/gettext-catalog/daily/index.xml                      | gettext-catalog                    | daily   |
+| https://mkusaka.github.io/trending/gettext-catalog/weekly/index.xml                     | gettext-catalog                    | weekly  |
+| https://mkusaka.github.io/trending/gettext-catalog/monthly/index.xml                    | gettext-catalog                    | monthly |
+| https://mkusaka.github.io/trending/gherkin/daily/index.xml                              | gherkin                            | daily   |
+| https://mkusaka.github.io/trending/gherkin/weekly/index.xml                             | gherkin                            | weekly  |
+| https://mkusaka.github.io/trending/gherkin/monthly/index.xml                            | gherkin                            | monthly |
+| https://mkusaka.github.io/trending/git-attributes/daily/index.xml                       | git-attributes                     | daily   |
+| https://mkusaka.github.io/trending/git-attributes/weekly/index.xml                      | git-attributes                     | weekly  |
+| https://mkusaka.github.io/trending/git-attributes/monthly/index.xml                     | git-attributes                     | monthly |
+| https://mkusaka.github.io/trending/git-config/daily/index.xml                           | git-config                         | daily   |
+| https://mkusaka.github.io/trending/git-config/weekly/index.xml                          | git-config                         | weekly  |
+| https://mkusaka.github.io/trending/git-config/monthly/index.xml                         | git-config                         | monthly |
+| https://mkusaka.github.io/trending/gleam/daily/index.xml                                | gleam                              | daily   |
+| https://mkusaka.github.io/trending/gleam/weekly/index.xml                               | gleam                              | weekly  |
+| https://mkusaka.github.io/trending/gleam/monthly/index.xml                              | gleam                              | monthly |
+| https://mkusaka.github.io/trending/glsl/daily/index.xml                                 | glsl                               | daily   |
+| https://mkusaka.github.io/trending/glsl/weekly/index.xml                                | glsl                               | weekly  |
+| https://mkusaka.github.io/trending/glsl/monthly/index.xml                               | glsl                               | monthly |
+| https://mkusaka.github.io/trending/glyph/daily/index.xml                                | glyph                              | daily   |
+| https://mkusaka.github.io/trending/glyph/weekly/index.xml                               | glyph                              | weekly  |
+| https://mkusaka.github.io/trending/glyph/monthly/index.xml                              | glyph                              | monthly |
+| https://mkusaka.github.io/trending/glyph-bitmap-distribution-format/daily/index.xml     | glyph-bitmap-distribution-format   | daily   |
+| https://mkusaka.github.io/trending/glyph-bitmap-distribution-format/weekly/index.xml    | glyph-bitmap-distribution-format   | weekly  |
+| https://mkusaka.github.io/trending/glyph-bitmap-distribution-format/monthly/index.xml   | glyph-bitmap-distribution-format   | monthly |
+| https://mkusaka.github.io/trending/gn/daily/index.xml                                   | gn                                 | daily   |
+| https://mkusaka.github.io/trending/gn/weekly/index.xml                                  | gn                                 | weekly  |
+| https://mkusaka.github.io/trending/gn/monthly/index.xml                                 | gn                                 | monthly |
+| https://mkusaka.github.io/trending/gnuplot/daily/index.xml                              | gnuplot                            | daily   |
+| https://mkusaka.github.io/trending/gnuplot/weekly/index.xml                             | gnuplot                            | weekly  |
+| https://mkusaka.github.io/trending/gnuplot/monthly/index.xml                            | gnuplot                            | monthly |
+| https://mkusaka.github.io/trending/go/daily/index.xml                                   | go                                 | daily   |
+| https://mkusaka.github.io/trending/go/weekly/index.xml                                  | go                                 | weekly  |
+| https://mkusaka.github.io/trending/go/monthly/index.xml                                 | go                                 | monthly |
+| https://mkusaka.github.io/trending/go-checksums/daily/index.xml                         | go-checksums                       | daily   |
+| https://mkusaka.github.io/trending/go-checksums/weekly/index.xml                        | go-checksums                       | weekly  |
+| https://mkusaka.github.io/trending/go-checksums/monthly/index.xml                       | go-checksums                       | monthly |
+| https://mkusaka.github.io/trending/go-module/daily/index.xml                            | go-module                          | daily   |
+| https://mkusaka.github.io/trending/go-module/weekly/index.xml                           | go-module                          | weekly  |
+| https://mkusaka.github.io/trending/go-module/monthly/index.xml                          | go-module                          | monthly |
+| https://mkusaka.github.io/trending/golo/daily/index.xml                                 | golo                               | daily   |
+| https://mkusaka.github.io/trending/golo/weekly/index.xml                                | golo                               | weekly  |
+| https://mkusaka.github.io/trending/golo/monthly/index.xml                               | golo                               | monthly |
+| https://mkusaka.github.io/trending/gosu/daily/index.xml                                 | gosu                               | daily   |
+| https://mkusaka.github.io/trending/gosu/weekly/index.xml                                | gosu                               | weekly  |
+| https://mkusaka.github.io/trending/gosu/monthly/index.xml                               | gosu                               | monthly |
+| https://mkusaka.github.io/trending/grace/daily/index.xml                                | grace                              | daily   |
+| https://mkusaka.github.io/trending/grace/weekly/index.xml                               | grace                              | weekly  |
+| https://mkusaka.github.io/trending/grace/monthly/index.xml                              | grace                              | monthly |
+| https://mkusaka.github.io/trending/gradle/daily/index.xml                               | gradle                             | daily   |
+| https://mkusaka.github.io/trending/gradle/weekly/index.xml                              | gradle                             | weekly  |
+| https://mkusaka.github.io/trending/gradle/monthly/index.xml                             | gradle                             | monthly |
+| https://mkusaka.github.io/trending/grammatical-framework/daily/index.xml                | grammatical-framework              | daily   |
+| https://mkusaka.github.io/trending/grammatical-framework/weekly/index.xml               | grammatical-framework              | weekly  |
+| https://mkusaka.github.io/trending/grammatical-framework/monthly/index.xml              | grammatical-framework              | monthly |
+| https://mkusaka.github.io/trending/graph-modeling-language/daily/index.xml              | graph-modeling-language            | daily   |
+| https://mkusaka.github.io/trending/graph-modeling-language/weekly/index.xml             | graph-modeling-language            | weekly  |
+| https://mkusaka.github.io/trending/graph-modeling-language/monthly/index.xml            | graph-modeling-language            | monthly |
+| https://mkusaka.github.io/trending/graphql/daily/index.xml                              | graphql                            | daily   |
+| https://mkusaka.github.io/trending/graphql/weekly/index.xml                             | graphql                            | weekly  |
+| https://mkusaka.github.io/trending/graphql/monthly/index.xml                            | graphql                            | monthly |
+| https://mkusaka.github.io/trending/graphviz-(dot)/daily/index.xml                       | graphviz-(dot)                     | daily   |
+| https://mkusaka.github.io/trending/graphviz-(dot)/weekly/index.xml                      | graphviz-(dot)                     | weekly  |
+| https://mkusaka.github.io/trending/graphviz-(dot)/monthly/index.xml                     | graphviz-(dot)                     | monthly |
+| https://mkusaka.github.io/trending/groovy/daily/index.xml                               | groovy                             | daily   |
+| https://mkusaka.github.io/trending/groovy/weekly/index.xml                              | groovy                             | weekly  |
+| https://mkusaka.github.io/trending/groovy/monthly/index.xml                             | groovy                             | monthly |
+| https://mkusaka.github.io/trending/groovy-server-pages/daily/index.xml                  | groovy-server-pages                | daily   |
+| https://mkusaka.github.io/trending/groovy-server-pages/weekly/index.xml                 | groovy-server-pages                | weekly  |
+| https://mkusaka.github.io/trending/groovy-server-pages/monthly/index.xml                | groovy-server-pages                | monthly |
+| https://mkusaka.github.io/trending/gsc/daily/index.xml                                  | gsc                                | daily   |
+| https://mkusaka.github.io/trending/gsc/weekly/index.xml                                 | gsc                                | weekly  |
+| https://mkusaka.github.io/trending/gsc/monthly/index.xml                                | gsc                                | monthly |
+| https://mkusaka.github.io/trending/hack/daily/index.xml                                 | hack                               | daily   |
+| https://mkusaka.github.io/trending/hack/weekly/index.xml                                | hack                               | weekly  |
+| https://mkusaka.github.io/trending/hack/monthly/index.xml                               | hack                               | monthly |
+| https://mkusaka.github.io/trending/haml/daily/index.xml                                 | haml                               | daily   |
+| https://mkusaka.github.io/trending/haml/weekly/index.xml                                | haml                               | weekly  |
+| https://mkusaka.github.io/trending/haml/monthly/index.xml                               | haml                               | monthly |
+| https://mkusaka.github.io/trending/handlebars/daily/index.xml                           | handlebars                         | daily   |
+| https://mkusaka.github.io/trending/handlebars/weekly/index.xml                          | handlebars                         | weekly  |
+| https://mkusaka.github.io/trending/handlebars/monthly/index.xml                         | handlebars                         | monthly |
+| https://mkusaka.github.io/trending/haproxy/daily/index.xml                              | haproxy                            | daily   |
+| https://mkusaka.github.io/trending/haproxy/weekly/index.xml                             | haproxy                            | weekly  |
+| https://mkusaka.github.io/trending/haproxy/monthly/index.xml                            | haproxy                            | monthly |
+| https://mkusaka.github.io/trending/harbour/daily/index.xml                              | harbour                            | daily   |
+| https://mkusaka.github.io/trending/harbour/weekly/index.xml                             | harbour                            | weekly  |
+| https://mkusaka.github.io/trending/harbour/monthly/index.xml                            | harbour                            | monthly |
+| https://mkusaka.github.io/trending/haskell/daily/index.xml                              | haskell                            | daily   |
+| https://mkusaka.github.io/trending/haskell/weekly/index.xml                             | haskell                            | weekly  |
+| https://mkusaka.github.io/trending/haskell/monthly/index.xml                            | haskell                            | monthly |
+| https://mkusaka.github.io/trending/haxe/daily/index.xml                                 | haxe                               | daily   |
+| https://mkusaka.github.io/trending/haxe/weekly/index.xml                                | haxe                               | weekly  |
+| https://mkusaka.github.io/trending/haxe/monthly/index.xml                               | haxe                               | monthly |
+| https://mkusaka.github.io/trending/hcl/daily/index.xml                                  | hcl                                | daily   |
+| https://mkusaka.github.io/trending/hcl/weekly/index.xml                                 | hcl                                | weekly  |
+| https://mkusaka.github.io/trending/hcl/monthly/index.xml                                | hcl                                | monthly |
+| https://mkusaka.github.io/trending/hiveql/daily/index.xml                               | hiveql                             | daily   |
+| https://mkusaka.github.io/trending/hiveql/weekly/index.xml                              | hiveql                             | weekly  |
+| https://mkusaka.github.io/trending/hiveql/monthly/index.xml                             | hiveql                             | monthly |
+| https://mkusaka.github.io/trending/hlsl/daily/index.xml                                 | hlsl                               | daily   |
+| https://mkusaka.github.io/trending/hlsl/weekly/index.xml                                | hlsl                               | weekly  |
+| https://mkusaka.github.io/trending/hlsl/monthly/index.xml                               | hlsl                               | monthly |
+| https://mkusaka.github.io/trending/holyc/daily/index.xml                                | holyc                              | daily   |
+| https://mkusaka.github.io/trending/holyc/weekly/index.xml                               | holyc                              | weekly  |
+| https://mkusaka.github.io/trending/holyc/monthly/index.xml                              | holyc                              | monthly |
+| https://mkusaka.github.io/trending/hoon/daily/index.xml                                 | hoon                               | daily   |
+| https://mkusaka.github.io/trending/hoon/weekly/index.xml                                | hoon                               | weekly  |
+| https://mkusaka.github.io/trending/hoon/monthly/index.xml                               | hoon                               | monthly |
+| https://mkusaka.github.io/trending/jinja/daily/index.xml                                | jinja                              | daily   |
+| https://mkusaka.github.io/trending/jinja/weekly/index.xml                               | jinja                              | weekly  |
+| https://mkusaka.github.io/trending/jinja/monthly/index.xml                              | jinja                              | monthly |
+| https://mkusaka.github.io/trending/html+ecr/daily/index.xml                             | html+ecr                           | daily   |
+| https://mkusaka.github.io/trending/html+ecr/weekly/index.xml                            | html+ecr                           | weekly  |
+| https://mkusaka.github.io/trending/html+ecr/monthly/index.xml                           | html+ecr                           | monthly |
+| https://mkusaka.github.io/trending/html+eex/daily/index.xml                             | html+eex                           | daily   |
+| https://mkusaka.github.io/trending/html+eex/weekly/index.xml                            | html+eex                           | weekly  |
+| https://mkusaka.github.io/trending/html+eex/monthly/index.xml                           | html+eex                           | monthly |
+| https://mkusaka.github.io/trending/html+erb/daily/index.xml                             | html+erb                           | daily   |
+| https://mkusaka.github.io/trending/html+erb/weekly/index.xml                            | html+erb                           | weekly  |
+| https://mkusaka.github.io/trending/html+erb/monthly/index.xml                           | html+erb                           | monthly |
+| https://mkusaka.github.io/trending/html+php/daily/index.xml                             | html+php                           | daily   |
+| https://mkusaka.github.io/trending/html+php/weekly/index.xml                            | html+php                           | weekly  |
+| https://mkusaka.github.io/trending/html+php/monthly/index.xml                           | html+php                           | monthly |
+| https://mkusaka.github.io/trending/html+razor/daily/index.xml                           | html+razor                         | daily   |
+| https://mkusaka.github.io/trending/html+razor/weekly/index.xml                          | html+razor                         | weekly  |
+| https://mkusaka.github.io/trending/html+razor/monthly/index.xml                         | html+razor                         | monthly |
+| https://mkusaka.github.io/trending/http/daily/index.xml                                 | http                               | daily   |
+| https://mkusaka.github.io/trending/http/weekly/index.xml                                | http                               | weekly  |
+| https://mkusaka.github.io/trending/http/monthly/index.xml                               | http                               | monthly |
+| https://mkusaka.github.io/trending/hxml/daily/index.xml                                 | hxml                               | daily   |
+| https://mkusaka.github.io/trending/hxml/weekly/index.xml                                | hxml                               | weekly  |
+| https://mkusaka.github.io/trending/hxml/monthly/index.xml                               | hxml                               | monthly |
+| https://mkusaka.github.io/trending/hy/daily/index.xml                                   | hy                                 | daily   |
+| https://mkusaka.github.io/trending/hy/weekly/index.xml                                  | hy                                 | weekly  |
+| https://mkusaka.github.io/trending/hy/monthly/index.xml                                 | hy                                 | monthly |
+| https://mkusaka.github.io/trending/hyphy/daily/index.xml                                | hyphy                              | daily   |
+| https://mkusaka.github.io/trending/hyphy/weekly/index.xml                               | hyphy                              | weekly  |
+| https://mkusaka.github.io/trending/hyphy/monthly/index.xml                              | hyphy                              | monthly |
+| https://mkusaka.github.io/trending/idl/daily/index.xml                                  | idl                                | daily   |
+| https://mkusaka.github.io/trending/idl/weekly/index.xml                                 | idl                                | weekly  |
+| https://mkusaka.github.io/trending/idl/monthly/index.xml                                | idl                                | monthly |
+| https://mkusaka.github.io/trending/idris/daily/index.xml                                | idris                              | daily   |
+| https://mkusaka.github.io/trending/idris/weekly/index.xml                               | idris                              | weekly  |
+| https://mkusaka.github.io/trending/idris/monthly/index.xml                              | idris                              | monthly |
+| https://mkusaka.github.io/trending/ignore-list/daily/index.xml                          | ignore-list                        | daily   |
+| https://mkusaka.github.io/trending/ignore-list/weekly/index.xml                         | ignore-list                        | weekly  |
+| https://mkusaka.github.io/trending/ignore-list/monthly/index.xml                        | ignore-list                        | monthly |
+| https://mkusaka.github.io/trending/igor-pro/daily/index.xml                             | igor-pro                           | daily   |
+| https://mkusaka.github.io/trending/igor-pro/weekly/index.xml                            | igor-pro                           | weekly  |
+| https://mkusaka.github.io/trending/igor-pro/monthly/index.xml                           | igor-pro                           | monthly |
+| https://mkusaka.github.io/trending/imagej-macro/daily/index.xml                         | imagej-macro                       | daily   |
+| https://mkusaka.github.io/trending/imagej-macro/weekly/index.xml                        | imagej-macro                       | weekly  |
+| https://mkusaka.github.io/trending/imagej-macro/monthly/index.xml                       | imagej-macro                       | monthly |
+| https://mkusaka.github.io/trending/inform-7/daily/index.xml                             | inform-7                           | daily   |
+| https://mkusaka.github.io/trending/inform-7/weekly/index.xml                            | inform-7                           | weekly  |
+| https://mkusaka.github.io/trending/inform-7/monthly/index.xml                           | inform-7                           | monthly |
+| https://mkusaka.github.io/trending/ini/daily/index.xml                                  | ini                                | daily   |
+| https://mkusaka.github.io/trending/ini/weekly/index.xml                                 | ini                                | weekly  |
+| https://mkusaka.github.io/trending/ini/monthly/index.xml                                | ini                                | monthly |
+| https://mkusaka.github.io/trending/inno-setup/daily/index.xml                           | inno-setup                         | daily   |
+| https://mkusaka.github.io/trending/inno-setup/weekly/index.xml                          | inno-setup                         | weekly  |
+| https://mkusaka.github.io/trending/inno-setup/monthly/index.xml                         | inno-setup                         | monthly |
+| https://mkusaka.github.io/trending/io/daily/index.xml                                   | io                                 | daily   |
+| https://mkusaka.github.io/trending/io/weekly/index.xml                                  | io                                 | weekly  |
+| https://mkusaka.github.io/trending/io/monthly/index.xml                                 | io                                 | monthly |
+| https://mkusaka.github.io/trending/ioke/daily/index.xml                                 | ioke                               | daily   |
+| https://mkusaka.github.io/trending/ioke/weekly/index.xml                                | ioke                               | weekly  |
+| https://mkusaka.github.io/trending/ioke/monthly/index.xml                               | ioke                               | monthly |
+| https://mkusaka.github.io/trending/irc-log/daily/index.xml                              | irc-log                            | daily   |
+| https://mkusaka.github.io/trending/irc-log/weekly/index.xml                             | irc-log                            | weekly  |
+| https://mkusaka.github.io/trending/irc-log/monthly/index.xml                            | irc-log                            | monthly |
+| https://mkusaka.github.io/trending/isabelle/daily/index.xml                             | isabelle                           | daily   |
+| https://mkusaka.github.io/trending/isabelle/weekly/index.xml                            | isabelle                           | weekly  |
+| https://mkusaka.github.io/trending/isabelle/monthly/index.xml                           | isabelle                           | monthly |
+| https://mkusaka.github.io/trending/isabelle-root/daily/index.xml                        | isabelle-root                      | daily   |
+| https://mkusaka.github.io/trending/isabelle-root/weekly/index.xml                       | isabelle-root                      | weekly  |
+| https://mkusaka.github.io/trending/isabelle-root/monthly/index.xml                      | isabelle-root                      | monthly |
+| https://mkusaka.github.io/trending/j/daily/index.xml                                    | j                                  | daily   |
+| https://mkusaka.github.io/trending/j/weekly/index.xml                                   | j                                  | weekly  |
+| https://mkusaka.github.io/trending/j/monthly/index.xml                                  | j                                  | monthly |
+| https://mkusaka.github.io/trending/janet/daily/index.xml                                | janet                              | daily   |
+| https://mkusaka.github.io/trending/janet/weekly/index.xml                               | janet                              | weekly  |
+| https://mkusaka.github.io/trending/janet/monthly/index.xml                              | janet                              | monthly |
+| https://mkusaka.github.io/trending/jar-manifest/daily/index.xml                         | jar-manifest                       | daily   |
+| https://mkusaka.github.io/trending/jar-manifest/weekly/index.xml                        | jar-manifest                       | weekly  |
+| https://mkusaka.github.io/trending/jar-manifest/monthly/index.xml                       | jar-manifest                       | monthly |
+| https://mkusaka.github.io/trending/jasmin/daily/index.xml                               | jasmin                             | daily   |
+| https://mkusaka.github.io/trending/jasmin/weekly/index.xml                              | jasmin                             | weekly  |
+| https://mkusaka.github.io/trending/jasmin/monthly/index.xml                             | jasmin                             | monthly |
+| https://mkusaka.github.io/trending/java-properties/daily/index.xml                      | java-properties                    | daily   |
+| https://mkusaka.github.io/trending/java-properties/weekly/index.xml                     | java-properties                    | weekly  |
+| https://mkusaka.github.io/trending/java-properties/monthly/index.xml                    | java-properties                    | monthly |
+| https://mkusaka.github.io/trending/java-server-pages/daily/index.xml                    | java-server-pages                  | daily   |
+| https://mkusaka.github.io/trending/java-server-pages/weekly/index.xml                   | java-server-pages                  | weekly  |
+| https://mkusaka.github.io/trending/java-server-pages/monthly/index.xml                  | java-server-pages                  | monthly |
+| https://mkusaka.github.io/trending/javascript+erb/daily/index.xml                       | javascript+erb                     | daily   |
+| https://mkusaka.github.io/trending/javascript+erb/weekly/index.xml                      | javascript+erb                     | weekly  |
+| https://mkusaka.github.io/trending/javascript+erb/monthly/index.xml                     | javascript+erb                     | monthly |
+| https://mkusaka.github.io/trending/jest-snapshot/daily/index.xml                        | jest-snapshot                      | daily   |
+| https://mkusaka.github.io/trending/jest-snapshot/weekly/index.xml                       | jest-snapshot                      | weekly  |
+| https://mkusaka.github.io/trending/jest-snapshot/monthly/index.xml                      | jest-snapshot                      | monthly |
+| https://mkusaka.github.io/trending/jflex/daily/index.xml                                | jflex                              | daily   |
+| https://mkusaka.github.io/trending/jflex/weekly/index.xml                               | jflex                              | weekly  |
+| https://mkusaka.github.io/trending/jflex/monthly/index.xml                              | jflex                              | monthly |
+| https://mkusaka.github.io/trending/jison/daily/index.xml                                | jison                              | daily   |
+| https://mkusaka.github.io/trending/jison/weekly/index.xml                               | jison                              | weekly  |
+| https://mkusaka.github.io/trending/jison/monthly/index.xml                              | jison                              | monthly |
+| https://mkusaka.github.io/trending/jison-lex/daily/index.xml                            | jison-lex                          | daily   |
+| https://mkusaka.github.io/trending/jison-lex/weekly/index.xml                           | jison-lex                          | weekly  |
+| https://mkusaka.github.io/trending/jison-lex/monthly/index.xml                          | jison-lex                          | monthly |
+| https://mkusaka.github.io/trending/jolie/daily/index.xml                                | jolie                              | daily   |
+| https://mkusaka.github.io/trending/jolie/weekly/index.xml                               | jolie                              | weekly  |
+| https://mkusaka.github.io/trending/jolie/monthly/index.xml                              | jolie                              | monthly |
+| https://mkusaka.github.io/trending/jq/daily/index.xml                                   | jq                                 | daily   |
+| https://mkusaka.github.io/trending/jq/weekly/index.xml                                  | jq                                 | weekly  |
+| https://mkusaka.github.io/trending/jq/monthly/index.xml                                 | jq                                 | monthly |
+| https://mkusaka.github.io/trending/json/daily/index.xml                                 | json                               | daily   |
+| https://mkusaka.github.io/trending/json/weekly/index.xml                                | json                               | weekly  |
+| https://mkusaka.github.io/trending/json/monthly/index.xml                               | json                               | monthly |
+| https://mkusaka.github.io/trending/json-with-comments/daily/index.xml                   | json-with-comments                 | daily   |
+| https://mkusaka.github.io/trending/json-with-comments/weekly/index.xml                  | json-with-comments                 | weekly  |
+| https://mkusaka.github.io/trending/json-with-comments/monthly/index.xml                 | json-with-comments                 | monthly |
+| https://mkusaka.github.io/trending/json5/daily/index.xml                                | json5                              | daily   |
+| https://mkusaka.github.io/trending/json5/weekly/index.xml                               | json5                              | weekly  |
+| https://mkusaka.github.io/trending/json5/monthly/index.xml                              | json5                              | monthly |
+| https://mkusaka.github.io/trending/jsoniq/daily/index.xml                               | jsoniq                             | daily   |
+| https://mkusaka.github.io/trending/jsoniq/weekly/index.xml                              | jsoniq                             | weekly  |
+| https://mkusaka.github.io/trending/jsoniq/monthly/index.xml                             | jsoniq                             | monthly |
+| https://mkusaka.github.io/trending/jsonld/daily/index.xml                               | jsonld                             | daily   |
+| https://mkusaka.github.io/trending/jsonld/weekly/index.xml                              | jsonld                             | weekly  |
+| https://mkusaka.github.io/trending/jsonld/monthly/index.xml                             | jsonld                             | monthly |
+| https://mkusaka.github.io/trending/jsonnet/daily/index.xml                              | jsonnet                            | daily   |
+| https://mkusaka.github.io/trending/jsonnet/weekly/index.xml                             | jsonnet                            | weekly  |
+| https://mkusaka.github.io/trending/jsonnet/monthly/index.xml                            | jsonnet                            | monthly |
+| https://mkusaka.github.io/trending/julia/daily/index.xml                                | julia                              | daily   |
+| https://mkusaka.github.io/trending/julia/weekly/index.xml                               | julia                              | weekly  |
+| https://mkusaka.github.io/trending/julia/monthly/index.xml                              | julia                              | monthly |
+| https://mkusaka.github.io/trending/jupyter-notebook/daily/index.xml                     | jupyter-notebook                   | daily   |
+| https://mkusaka.github.io/trending/jupyter-notebook/weekly/index.xml                    | jupyter-notebook                   | weekly  |
+| https://mkusaka.github.io/trending/jupyter-notebook/monthly/index.xml                   | jupyter-notebook                   | monthly |
+| https://mkusaka.github.io/trending/kaitai-struct/daily/index.xml                        | kaitai-struct                      | daily   |
+| https://mkusaka.github.io/trending/kaitai-struct/weekly/index.xml                       | kaitai-struct                      | weekly  |
+| https://mkusaka.github.io/trending/kaitai-struct/monthly/index.xml                      | kaitai-struct                      | monthly |
+| https://mkusaka.github.io/trending/kakounescript/daily/index.xml                        | kakounescript                      | daily   |
+| https://mkusaka.github.io/trending/kakounescript/weekly/index.xml                       | kakounescript                      | weekly  |
+| https://mkusaka.github.io/trending/kakounescript/monthly/index.xml                      | kakounescript                      | monthly |
+| https://mkusaka.github.io/trending/kicad-layout/daily/index.xml                         | kicad-layout                       | daily   |
+| https://mkusaka.github.io/trending/kicad-layout/weekly/index.xml                        | kicad-layout                       | weekly  |
+| https://mkusaka.github.io/trending/kicad-layout/monthly/index.xml                       | kicad-layout                       | monthly |
+| https://mkusaka.github.io/trending/kicad-legacy-layout/daily/index.xml                  | kicad-legacy-layout                | daily   |
+| https://mkusaka.github.io/trending/kicad-legacy-layout/weekly/index.xml                 | kicad-legacy-layout                | weekly  |
+| https://mkusaka.github.io/trending/kicad-legacy-layout/monthly/index.xml                | kicad-legacy-layout                | monthly |
+| https://mkusaka.github.io/trending/kicad-schematic/daily/index.xml                      | kicad-schematic                    | daily   |
+| https://mkusaka.github.io/trending/kicad-schematic/weekly/index.xml                     | kicad-schematic                    | weekly  |
+| https://mkusaka.github.io/trending/kicad-schematic/monthly/index.xml                    | kicad-schematic                    | monthly |
+| https://mkusaka.github.io/trending/kit/daily/index.xml                                  | kit                                | daily   |
+| https://mkusaka.github.io/trending/kit/weekly/index.xml                                 | kit                                | weekly  |
+| https://mkusaka.github.io/trending/kit/monthly/index.xml                                | kit                                | monthly |
+| https://mkusaka.github.io/trending/kotlin/daily/index.xml                               | kotlin                             | daily   |
+| https://mkusaka.github.io/trending/kotlin/weekly/index.xml                              | kotlin                             | weekly  |
+| https://mkusaka.github.io/trending/kotlin/monthly/index.xml                             | kotlin                             | monthly |
+| https://mkusaka.github.io/trending/krl/daily/index.xml                                  | krl                                | daily   |
+| https://mkusaka.github.io/trending/krl/weekly/index.xml                                 | krl                                | weekly  |
+| https://mkusaka.github.io/trending/krl/monthly/index.xml                                | krl                                | monthly |
+| https://mkusaka.github.io/trending/kusto/daily/index.xml                                | kusto                              | daily   |
+| https://mkusaka.github.io/trending/kusto/weekly/index.xml                               | kusto                              | weekly  |
+| https://mkusaka.github.io/trending/kusto/monthly/index.xml                              | kusto                              | monthly |
+| https://mkusaka.github.io/trending/kvlang/daily/index.xml                               | kvlang                             | daily   |
+| https://mkusaka.github.io/trending/kvlang/weekly/index.xml                              | kvlang                             | weekly  |
+| https://mkusaka.github.io/trending/kvlang/monthly/index.xml                             | kvlang                             | monthly |
+| https://mkusaka.github.io/trending/labview/daily/index.xml                              | labview                            | daily   |
+| https://mkusaka.github.io/trending/labview/weekly/index.xml                             | labview                            | weekly  |
+| https://mkusaka.github.io/trending/labview/monthly/index.xml                            | labview                            | monthly |
+| https://mkusaka.github.io/trending/lark/daily/index.xml                                 | lark                               | daily   |
+| https://mkusaka.github.io/trending/lark/weekly/index.xml                                | lark                               | weekly  |
+| https://mkusaka.github.io/trending/lark/monthly/index.xml                               | lark                               | monthly |
+| https://mkusaka.github.io/trending/lasso/daily/index.xml                                | lasso                              | daily   |
+| https://mkusaka.github.io/trending/lasso/weekly/index.xml                               | lasso                              | weekly  |
+| https://mkusaka.github.io/trending/lasso/monthly/index.xml                              | lasso                              | monthly |
+| https://mkusaka.github.io/trending/latte/daily/index.xml                                | latte                              | daily   |
+| https://mkusaka.github.io/trending/latte/weekly/index.xml                               | latte                              | weekly  |
+| https://mkusaka.github.io/trending/latte/monthly/index.xml                              | latte                              | monthly |
+| https://mkusaka.github.io/trending/lean/daily/index.xml                                 | lean                               | daily   |
+| https://mkusaka.github.io/trending/lean/weekly/index.xml                                | lean                               | weekly  |
+| https://mkusaka.github.io/trending/lean/monthly/index.xml                               | lean                               | monthly |
+| https://mkusaka.github.io/trending/less/daily/index.xml                                 | less                               | daily   |
+| https://mkusaka.github.io/trending/less/weekly/index.xml                                | less                               | weekly  |
+| https://mkusaka.github.io/trending/less/monthly/index.xml                               | less                               | monthly |
+| https://mkusaka.github.io/trending/lex/daily/index.xml                                  | lex                                | daily   |
+| https://mkusaka.github.io/trending/lex/weekly/index.xml                                 | lex                                | weekly  |
+| https://mkusaka.github.io/trending/lex/monthly/index.xml                                | lex                                | monthly |
+| https://mkusaka.github.io/trending/lfe/daily/index.xml                                  | lfe                                | daily   |
+| https://mkusaka.github.io/trending/lfe/weekly/index.xml                                 | lfe                                | weekly  |
+| https://mkusaka.github.io/trending/lfe/monthly/index.xml                                | lfe                                | monthly |
+| https://mkusaka.github.io/trending/ligolang/daily/index.xml                             | ligolang                           | daily   |
+| https://mkusaka.github.io/trending/ligolang/weekly/index.xml                            | ligolang                           | weekly  |
+| https://mkusaka.github.io/trending/ligolang/monthly/index.xml                           | ligolang                           | monthly |
+| https://mkusaka.github.io/trending/lilypond/daily/index.xml                             | lilypond                           | daily   |
+| https://mkusaka.github.io/trending/lilypond/weekly/index.xml                            | lilypond                           | weekly  |
+| https://mkusaka.github.io/trending/lilypond/monthly/index.xml                           | lilypond                           | monthly |
+| https://mkusaka.github.io/trending/limbo/daily/index.xml                                | limbo                              | daily   |
+| https://mkusaka.github.io/trending/limbo/weekly/index.xml                               | limbo                              | weekly  |
+| https://mkusaka.github.io/trending/limbo/monthly/index.xml                              | limbo                              | monthly |
+| https://mkusaka.github.io/trending/linker-script/daily/index.xml                        | linker-script                      | daily   |
+| https://mkusaka.github.io/trending/linker-script/weekly/index.xml                       | linker-script                      | weekly  |
+| https://mkusaka.github.io/trending/linker-script/monthly/index.xml                      | linker-script                      | monthly |
+| https://mkusaka.github.io/trending/linux-kernel-module/daily/index.xml                  | linux-kernel-module                | daily   |
+| https://mkusaka.github.io/trending/linux-kernel-module/weekly/index.xml                 | linux-kernel-module                | weekly  |
+| https://mkusaka.github.io/trending/linux-kernel-module/monthly/index.xml                | linux-kernel-module                | monthly |
+| https://mkusaka.github.io/trending/liquid/daily/index.xml                               | liquid                             | daily   |
+| https://mkusaka.github.io/trending/liquid/weekly/index.xml                              | liquid                             | weekly  |
+| https://mkusaka.github.io/trending/liquid/monthly/index.xml                             | liquid                             | monthly |
+| https://mkusaka.github.io/trending/literate-agda/daily/index.xml                        | literate-agda                      | daily   |
+| https://mkusaka.github.io/trending/literate-agda/weekly/index.xml                       | literate-agda                      | weekly  |
+| https://mkusaka.github.io/trending/literate-agda/monthly/index.xml                      | literate-agda                      | monthly |
+| https://mkusaka.github.io/trending/literate-coffeescript/daily/index.xml                | literate-coffeescript              | daily   |
+| https://mkusaka.github.io/trending/literate-coffeescript/weekly/index.xml               | literate-coffeescript              | weekly  |
+| https://mkusaka.github.io/trending/literate-coffeescript/monthly/index.xml              | literate-coffeescript              | monthly |
+| https://mkusaka.github.io/trending/literate-haskell/daily/index.xml                     | literate-haskell                   | daily   |
+| https://mkusaka.github.io/trending/literate-haskell/weekly/index.xml                    | literate-haskell                   | weekly  |
+| https://mkusaka.github.io/trending/literate-haskell/monthly/index.xml                   | literate-haskell                   | monthly |
+| https://mkusaka.github.io/trending/livescript/daily/index.xml                           | livescript                         | daily   |
+| https://mkusaka.github.io/trending/livescript/weekly/index.xml                          | livescript                         | weekly  |
+| https://mkusaka.github.io/trending/livescript/monthly/index.xml                         | livescript                         | monthly |
+| https://mkusaka.github.io/trending/llvm/daily/index.xml                                 | llvm                               | daily   |
+| https://mkusaka.github.io/trending/llvm/weekly/index.xml                                | llvm                               | weekly  |
+| https://mkusaka.github.io/trending/llvm/monthly/index.xml                               | llvm                               | monthly |
+| https://mkusaka.github.io/trending/logos/daily/index.xml                                | logos                              | daily   |
+| https://mkusaka.github.io/trending/logos/weekly/index.xml                               | logos                              | weekly  |
+| https://mkusaka.github.io/trending/logos/monthly/index.xml                              | logos                              | monthly |
+| https://mkusaka.github.io/trending/logtalk/daily/index.xml                              | logtalk                            | daily   |
+| https://mkusaka.github.io/trending/logtalk/weekly/index.xml                             | logtalk                            | weekly  |
+| https://mkusaka.github.io/trending/logtalk/monthly/index.xml                            | logtalk                            | monthly |
+| https://mkusaka.github.io/trending/lolcode/daily/index.xml                              | lolcode                            | daily   |
+| https://mkusaka.github.io/trending/lolcode/weekly/index.xml                             | lolcode                            | weekly  |
+| https://mkusaka.github.io/trending/lolcode/monthly/index.xml                            | lolcode                            | monthly |
+| https://mkusaka.github.io/trending/lookml/daily/index.xml                               | lookml                             | daily   |
+| https://mkusaka.github.io/trending/lookml/weekly/index.xml                              | lookml                             | weekly  |
+| https://mkusaka.github.io/trending/lookml/monthly/index.xml                             | lookml                             | monthly |
+| https://mkusaka.github.io/trending/loomscript/daily/index.xml                           | loomscript                         | daily   |
+| https://mkusaka.github.io/trending/loomscript/weekly/index.xml                          | loomscript                         | weekly  |
+| https://mkusaka.github.io/trending/loomscript/monthly/index.xml                         | loomscript                         | monthly |
+| https://mkusaka.github.io/trending/lsl/daily/index.xml                                  | lsl                                | daily   |
+| https://mkusaka.github.io/trending/lsl/weekly/index.xml                                 | lsl                                | weekly  |
+| https://mkusaka.github.io/trending/lsl/monthly/index.xml                                | lsl                                | monthly |
+| https://mkusaka.github.io/trending/ltspice-symbol/daily/index.xml                       | ltspice-symbol                     | daily   |
+| https://mkusaka.github.io/trending/ltspice-symbol/weekly/index.xml                      | ltspice-symbol                     | weekly  |
+| https://mkusaka.github.io/trending/ltspice-symbol/monthly/index.xml                     | ltspice-symbol                     | monthly |
+| https://mkusaka.github.io/trending/lua/daily/index.xml                                  | lua                                | daily   |
+| https://mkusaka.github.io/trending/lua/weekly/index.xml                                 | lua                                | weekly  |
+| https://mkusaka.github.io/trending/lua/monthly/index.xml                                | lua                                | monthly |
+| https://mkusaka.github.io/trending/m/daily/index.xml                                    | m                                  | daily   |
+| https://mkusaka.github.io/trending/m/weekly/index.xml                                   | m                                  | weekly  |
+| https://mkusaka.github.io/trending/m/monthly/index.xml                                  | m                                  | monthly |
+| https://mkusaka.github.io/trending/m4/daily/index.xml                                   | m4                                 | daily   |
+| https://mkusaka.github.io/trending/m4/weekly/index.xml                                  | m4                                 | weekly  |
+| https://mkusaka.github.io/trending/m4/monthly/index.xml                                 | m4                                 | monthly |
+| https://mkusaka.github.io/trending/m4sugar/daily/index.xml                              | m4sugar                            | daily   |
+| https://mkusaka.github.io/trending/m4sugar/weekly/index.xml                             | m4sugar                            | weekly  |
+| https://mkusaka.github.io/trending/m4sugar/monthly/index.xml                            | m4sugar                            | monthly |
+| https://mkusaka.github.io/trending/macaulay2/daily/index.xml                            | macaulay2                          | daily   |
+| https://mkusaka.github.io/trending/macaulay2/weekly/index.xml                           | macaulay2                          | weekly  |
+| https://mkusaka.github.io/trending/macaulay2/monthly/index.xml                          | macaulay2                          | monthly |
+| https://mkusaka.github.io/trending/makefile/daily/index.xml                             | makefile                           | daily   |
+| https://mkusaka.github.io/trending/makefile/weekly/index.xml                            | makefile                           | weekly  |
+| https://mkusaka.github.io/trending/makefile/monthly/index.xml                           | makefile                           | monthly |
+| https://mkusaka.github.io/trending/mako/daily/index.xml                                 | mako                               | daily   |
+| https://mkusaka.github.io/trending/mako/weekly/index.xml                                | mako                               | weekly  |
+| https://mkusaka.github.io/trending/mako/monthly/index.xml                               | mako                               | monthly |
+| https://mkusaka.github.io/trending/markdown/daily/index.xml                             | markdown                           | daily   |
+| https://mkusaka.github.io/trending/markdown/weekly/index.xml                            | markdown                           | weekly  |
+| https://mkusaka.github.io/trending/markdown/monthly/index.xml                           | markdown                           | monthly |
+| https://mkusaka.github.io/trending/marko/daily/index.xml                                | marko                              | daily   |
+| https://mkusaka.github.io/trending/marko/weekly/index.xml                               | marko                              | weekly  |
+| https://mkusaka.github.io/trending/marko/monthly/index.xml                              | marko                              | monthly |
+| https://mkusaka.github.io/trending/mask/daily/index.xml                                 | mask                               | daily   |
+| https://mkusaka.github.io/trending/mask/weekly/index.xml                                | mask                               | weekly  |
+| https://mkusaka.github.io/trending/mask/monthly/index.xml                               | mask                               | monthly |
+| https://mkusaka.github.io/trending/mathematica/daily/index.xml                          | mathematica                        | daily   |
+| https://mkusaka.github.io/trending/mathematica/weekly/index.xml                         | mathematica                        | weekly  |
+| https://mkusaka.github.io/trending/mathematica/monthly/index.xml                        | mathematica                        | monthly |
+| https://mkusaka.github.io/trending/matlab/daily/index.xml                               | matlab                             | daily   |
+| https://mkusaka.github.io/trending/matlab/weekly/index.xml                              | matlab                             | weekly  |
+| https://mkusaka.github.io/trending/matlab/monthly/index.xml                             | matlab                             | monthly |
+| https://mkusaka.github.io/trending/maven-pom/daily/index.xml                            | maven-pom                          | daily   |
+| https://mkusaka.github.io/trending/maven-pom/weekly/index.xml                           | maven-pom                          | weekly  |
+| https://mkusaka.github.io/trending/maven-pom/monthly/index.xml                          | maven-pom                          | monthly |
+| https://mkusaka.github.io/trending/max/daily/index.xml                                  | max                                | daily   |
+| https://mkusaka.github.io/trending/max/weekly/index.xml                                 | max                                | weekly  |
+| https://mkusaka.github.io/trending/max/monthly/index.xml                                | max                                | monthly |
+| https://mkusaka.github.io/trending/maxscript/daily/index.xml                            | maxscript                          | daily   |
+| https://mkusaka.github.io/trending/maxscript/weekly/index.xml                           | maxscript                          | weekly  |
+| https://mkusaka.github.io/trending/maxscript/monthly/index.xml                          | maxscript                          | monthly |
+| https://mkusaka.github.io/trending/mcfunction/daily/index.xml                           | mcfunction                         | daily   |
+| https://mkusaka.github.io/trending/mcfunction/weekly/index.xml                          | mcfunction                         | weekly  |
+| https://mkusaka.github.io/trending/mcfunction/monthly/index.xml                         | mcfunction                         | monthly |
+| https://mkusaka.github.io/trending/wikitext/daily/index.xml                             | wikitext                           | daily   |
+| https://mkusaka.github.io/trending/wikitext/weekly/index.xml                            | wikitext                           | weekly  |
+| https://mkusaka.github.io/trending/wikitext/monthly/index.xml                           | wikitext                           | monthly |
+| https://mkusaka.github.io/trending/mercury/daily/index.xml                              | mercury                            | daily   |
+| https://mkusaka.github.io/trending/mercury/weekly/index.xml                             | mercury                            | weekly  |
+| https://mkusaka.github.io/trending/mercury/monthly/index.xml                            | mercury                            | monthly |
+| https://mkusaka.github.io/trending/meson/daily/index.xml                                | meson                              | daily   |
+| https://mkusaka.github.io/trending/meson/weekly/index.xml                               | meson                              | weekly  |
+| https://mkusaka.github.io/trending/meson/monthly/index.xml                              | meson                              | monthly |
+| https://mkusaka.github.io/trending/metal/daily/index.xml                                | metal                              | daily   |
+| https://mkusaka.github.io/trending/metal/weekly/index.xml                               | metal                              | weekly  |
+| https://mkusaka.github.io/trending/metal/monthly/index.xml                              | metal                              | monthly |
+| https://mkusaka.github.io/trending/microsoft-developer-studio-project/daily/index.xml   | microsoft-developer-studio-project | daily   |
+| https://mkusaka.github.io/trending/microsoft-developer-studio-project/weekly/index.xml  | microsoft-developer-studio-project | weekly  |
+| https://mkusaka.github.io/trending/microsoft-developer-studio-project/monthly/index.xml | microsoft-developer-studio-project | monthly |
+| https://mkusaka.github.io/trending/microsoft-visual-studio-solution/daily/index.xml     | microsoft-visual-studio-solution   | daily   |
+| https://mkusaka.github.io/trending/microsoft-visual-studio-solution/weekly/index.xml    | microsoft-visual-studio-solution   | weekly  |
+| https://mkusaka.github.io/trending/microsoft-visual-studio-solution/monthly/index.xml   | microsoft-visual-studio-solution   | monthly |
+| https://mkusaka.github.io/trending/minid/daily/index.xml                                | minid                              | daily   |
+| https://mkusaka.github.io/trending/minid/weekly/index.xml                               | minid                              | weekly  |
+| https://mkusaka.github.io/trending/minid/monthly/index.xml                              | minid                              | monthly |
+| https://mkusaka.github.io/trending/mint/daily/index.xml                                 | mint                               | daily   |
+| https://mkusaka.github.io/trending/mint/weekly/index.xml                                | mint                               | weekly  |
+| https://mkusaka.github.io/trending/mint/monthly/index.xml                               | mint                               | monthly |
+| https://mkusaka.github.io/trending/mirah/daily/index.xml                                | mirah                              | daily   |
+| https://mkusaka.github.io/trending/mirah/weekly/index.xml                               | mirah                              | weekly  |
+| https://mkusaka.github.io/trending/mirah/monthly/index.xml                              | mirah                              | monthly |
+| https://mkusaka.github.io/trending/mirc-script/daily/index.xml                          | mirc-script                        | daily   |
+| https://mkusaka.github.io/trending/mirc-script/weekly/index.xml                         | mirc-script                        | weekly  |
+| https://mkusaka.github.io/trending/mirc-script/monthly/index.xml                        | mirc-script                        | monthly |
+| https://mkusaka.github.io/trending/mlir/daily/index.xml                                 | mlir                               | daily   |
+| https://mkusaka.github.io/trending/mlir/weekly/index.xml                                | mlir                               | weekly  |
+| https://mkusaka.github.io/trending/mlir/monthly/index.xml                               | mlir                               | monthly |
+| https://mkusaka.github.io/trending/modelica/daily/index.xml                             | modelica                           | daily   |
+| https://mkusaka.github.io/trending/modelica/weekly/index.xml                            | modelica                           | weekly  |
+| https://mkusaka.github.io/trending/modelica/monthly/index.xml                           | modelica                           | monthly |
+| https://mkusaka.github.io/trending/modula-2/daily/index.xml                             | modula-2                           | daily   |
+| https://mkusaka.github.io/trending/modula-2/weekly/index.xml                            | modula-2                           | weekly  |
+| https://mkusaka.github.io/trending/modula-2/monthly/index.xml                           | modula-2                           | monthly |
+| https://mkusaka.github.io/trending/modula-3/daily/index.xml                             | modula-3                           | daily   |
+| https://mkusaka.github.io/trending/modula-3/weekly/index.xml                            | modula-3                           | weekly  |
+| https://mkusaka.github.io/trending/modula-3/monthly/index.xml                           | modula-3                           | monthly |
+| https://mkusaka.github.io/trending/module-management-system/daily/index.xml             | module-management-system           | daily   |
+| https://mkusaka.github.io/trending/module-management-system/weekly/index.xml            | module-management-system           | weekly  |
+| https://mkusaka.github.io/trending/module-management-system/monthly/index.xml           | module-management-system           | monthly |
+| https://mkusaka.github.io/trending/monkey/daily/index.xml                               | monkey                             | daily   |
+| https://mkusaka.github.io/trending/monkey/weekly/index.xml                              | monkey                             | weekly  |
+| https://mkusaka.github.io/trending/monkey/monthly/index.xml                             | monkey                             | monthly |
+| https://mkusaka.github.io/trending/monkey-c/daily/index.xml                             | monkey-c                           | daily   |
+| https://mkusaka.github.io/trending/monkey-c/weekly/index.xml                            | monkey-c                           | weekly  |
+| https://mkusaka.github.io/trending/monkey-c/monthly/index.xml                           | monkey-c                           | monthly |
+| https://mkusaka.github.io/trending/moocode/daily/index.xml                              | moocode                            | daily   |
+| https://mkusaka.github.io/trending/moocode/weekly/index.xml                             | moocode                            | weekly  |
+| https://mkusaka.github.io/trending/moocode/monthly/index.xml                            | moocode                            | monthly |
+| https://mkusaka.github.io/trending/moonscript/daily/index.xml                           | moonscript                         | daily   |
+| https://mkusaka.github.io/trending/moonscript/weekly/index.xml                          | moonscript                         | weekly  |
+| https://mkusaka.github.io/trending/moonscript/monthly/index.xml                         | moonscript                         | monthly |
+| https://mkusaka.github.io/trending/motoko/daily/index.xml                               | motoko                             | daily   |
+| https://mkusaka.github.io/trending/motoko/weekly/index.xml                              | motoko                             | weekly  |
+| https://mkusaka.github.io/trending/motoko/monthly/index.xml                             | motoko                             | monthly |
+| https://mkusaka.github.io/trending/motorola-68k-assembly/daily/index.xml                | motorola-68k-assembly              | daily   |
+| https://mkusaka.github.io/trending/motorola-68k-assembly/weekly/index.xml               | motorola-68k-assembly              | weekly  |
+| https://mkusaka.github.io/trending/motorola-68k-assembly/monthly/index.xml              | motorola-68k-assembly              | monthly |
+| https://mkusaka.github.io/trending/mql4/daily/index.xml                                 | mql4                               | daily   |
+| https://mkusaka.github.io/trending/mql4/weekly/index.xml                                | mql4                               | weekly  |
+| https://mkusaka.github.io/trending/mql4/monthly/index.xml                               | mql4                               | monthly |
+| https://mkusaka.github.io/trending/mql5/daily/index.xml                                 | mql5                               | daily   |
+| https://mkusaka.github.io/trending/mql5/weekly/index.xml                                | mql5                               | weekly  |
+| https://mkusaka.github.io/trending/mql5/monthly/index.xml                               | mql5                               | monthly |
+| https://mkusaka.github.io/trending/mtml/daily/index.xml                                 | mtml                               | daily   |
+| https://mkusaka.github.io/trending/mtml/weekly/index.xml                                | mtml                               | weekly  |
+| https://mkusaka.github.io/trending/mtml/monthly/index.xml                               | mtml                               | monthly |
+| https://mkusaka.github.io/trending/muf/daily/index.xml                                  | muf                                | daily   |
+| https://mkusaka.github.io/trending/muf/weekly/index.xml                                 | muf                                | weekly  |
+| https://mkusaka.github.io/trending/muf/monthly/index.xml                                | muf                                | monthly |
+| https://mkusaka.github.io/trending/mupad/daily/index.xml                                | mupad                              | daily   |
+| https://mkusaka.github.io/trending/mupad/weekly/index.xml                               | mupad                              | weekly  |
+| https://mkusaka.github.io/trending/mupad/monthly/index.xml                              | mupad                              | monthly |
+| https://mkusaka.github.io/trending/muse/daily/index.xml                                 | muse                               | daily   |
+| https://mkusaka.github.io/trending/muse/weekly/index.xml                                | muse                               | weekly  |
+| https://mkusaka.github.io/trending/muse/monthly/index.xml                               | muse                               | monthly |
+| https://mkusaka.github.io/trending/mustache/daily/index.xml                             | mustache                           | daily   |
+| https://mkusaka.github.io/trending/mustache/weekly/index.xml                            | mustache                           | weekly  |
+| https://mkusaka.github.io/trending/mustache/monthly/index.xml                           | mustache                           | monthly |
+| https://mkusaka.github.io/trending/myghty/daily/index.xml                               | myghty                             | daily   |
+| https://mkusaka.github.io/trending/myghty/weekly/index.xml                              | myghty                             | weekly  |
+| https://mkusaka.github.io/trending/myghty/monthly/index.xml                             | myghty                             | monthly |
+| https://mkusaka.github.io/trending/nanorc/daily/index.xml                               | nanorc                             | daily   |
+| https://mkusaka.github.io/trending/nanorc/weekly/index.xml                              | nanorc                             | weekly  |
+| https://mkusaka.github.io/trending/nanorc/monthly/index.xml                             | nanorc                             | monthly |
+| https://mkusaka.github.io/trending/nasl/daily/index.xml                                 | nasl                               | daily   |
+| https://mkusaka.github.io/trending/nasl/weekly/index.xml                                | nasl                               | weekly  |
+| https://mkusaka.github.io/trending/nasl/monthly/index.xml                               | nasl                               | monthly |
+| https://mkusaka.github.io/trending/ncl/daily/index.xml                                  | ncl                                | daily   |
+| https://mkusaka.github.io/trending/ncl/weekly/index.xml                                 | ncl                                | weekly  |
+| https://mkusaka.github.io/trending/ncl/monthly/index.xml                                | ncl                                | monthly |
+| https://mkusaka.github.io/trending/nearley/daily/index.xml                              | nearley                            | daily   |
+| https://mkusaka.github.io/trending/nearley/weekly/index.xml                             | nearley                            | weekly  |
+| https://mkusaka.github.io/trending/nearley/monthly/index.xml                            | nearley                            | monthly |
+| https://mkusaka.github.io/trending/nemerle/daily/index.xml                              | nemerle                            | daily   |
+| https://mkusaka.github.io/trending/nemerle/weekly/index.xml                             | nemerle                            | weekly  |
+| https://mkusaka.github.io/trending/nemerle/monthly/index.xml                            | nemerle                            | monthly |
+| https://mkusaka.github.io/trending/neon/daily/index.xml                                 | neon                               | daily   |
+| https://mkusaka.github.io/trending/neon/weekly/index.xml                                | neon                               | weekly  |
+| https://mkusaka.github.io/trending/neon/monthly/index.xml                               | neon                               | monthly |
+| https://mkusaka.github.io/trending/nesc/daily/index.xml                                 | nesc                               | daily   |
+| https://mkusaka.github.io/trending/nesc/weekly/index.xml                                | nesc                               | weekly  |
+| https://mkusaka.github.io/trending/nesc/monthly/index.xml                               | nesc                               | monthly |
+| https://mkusaka.github.io/trending/netlinx/daily/index.xml                              | netlinx                            | daily   |
+| https://mkusaka.github.io/trending/netlinx/weekly/index.xml                             | netlinx                            | weekly  |
+| https://mkusaka.github.io/trending/netlinx/monthly/index.xml                            | netlinx                            | monthly |
+| https://mkusaka.github.io/trending/netlinx+erb/daily/index.xml                          | netlinx+erb                        | daily   |
+| https://mkusaka.github.io/trending/netlinx+erb/weekly/index.xml                         | netlinx+erb                        | weekly  |
+| https://mkusaka.github.io/trending/netlinx+erb/monthly/index.xml                        | netlinx+erb                        | monthly |
+| https://mkusaka.github.io/trending/netlogo/daily/index.xml                              | netlogo                            | daily   |
+| https://mkusaka.github.io/trending/netlogo/weekly/index.xml                             | netlogo                            | weekly  |
+| https://mkusaka.github.io/trending/netlogo/monthly/index.xml                            | netlogo                            | monthly |
+| https://mkusaka.github.io/trending/newlisp/daily/index.xml                              | newlisp                            | daily   |
+| https://mkusaka.github.io/trending/newlisp/weekly/index.xml                             | newlisp                            | weekly  |
+| https://mkusaka.github.io/trending/newlisp/monthly/index.xml                            | newlisp                            | monthly |
+| https://mkusaka.github.io/trending/nextflow/daily/index.xml                             | nextflow                           | daily   |
+| https://mkusaka.github.io/trending/nextflow/weekly/index.xml                            | nextflow                           | weekly  |
+| https://mkusaka.github.io/trending/nextflow/monthly/index.xml                           | nextflow                           | monthly |
+| https://mkusaka.github.io/trending/nginx/daily/index.xml                                | nginx                              | daily   |
+| https://mkusaka.github.io/trending/nginx/weekly/index.xml                               | nginx                              | weekly  |
+| https://mkusaka.github.io/trending/nginx/monthly/index.xml                              | nginx                              | monthly |
+| https://mkusaka.github.io/trending/nim/daily/index.xml                                  | nim                                | daily   |
+| https://mkusaka.github.io/trending/nim/weekly/index.xml                                 | nim                                | weekly  |
+| https://mkusaka.github.io/trending/nim/monthly/index.xml                                | nim                                | monthly |
+| https://mkusaka.github.io/trending/ninja/daily/index.xml                                | ninja                              | daily   |
+| https://mkusaka.github.io/trending/ninja/weekly/index.xml                               | ninja                              | weekly  |
+| https://mkusaka.github.io/trending/ninja/monthly/index.xml                              | ninja                              | monthly |
+| https://mkusaka.github.io/trending/nit/daily/index.xml                                  | nit                                | daily   |
+| https://mkusaka.github.io/trending/nit/weekly/index.xml                                 | nit                                | weekly  |
+| https://mkusaka.github.io/trending/nit/monthly/index.xml                                | nit                                | monthly |
+| https://mkusaka.github.io/trending/nix/daily/index.xml                                  | nix                                | daily   |
+| https://mkusaka.github.io/trending/nix/weekly/index.xml                                 | nix                                | weekly  |
+| https://mkusaka.github.io/trending/nix/monthly/index.xml                                | nix                                | monthly |
+| https://mkusaka.github.io/trending/nl/daily/index.xml                                   | nl                                 | daily   |
+| https://mkusaka.github.io/trending/nl/weekly/index.xml                                  | nl                                 | weekly  |
+| https://mkusaka.github.io/trending/nl/monthly/index.xml                                 | nl                                 | monthly |
+| https://mkusaka.github.io/trending/npm-config/daily/index.xml                           | npm-config                         | daily   |
+| https://mkusaka.github.io/trending/npm-config/weekly/index.xml                          | npm-config                         | weekly  |
+| https://mkusaka.github.io/trending/npm-config/monthly/index.xml                         | npm-config                         | monthly |
+| https://mkusaka.github.io/trending/nsis/daily/index.xml                                 | nsis                               | daily   |
+| https://mkusaka.github.io/trending/nsis/weekly/index.xml                                | nsis                               | weekly  |
+| https://mkusaka.github.io/trending/nsis/monthly/index.xml                               | nsis                               | monthly |
+| https://mkusaka.github.io/trending/nu/daily/index.xml                                   | nu                                 | daily   |
+| https://mkusaka.github.io/trending/nu/weekly/index.xml                                  | nu                                 | weekly  |
+| https://mkusaka.github.io/trending/nu/monthly/index.xml                                 | nu                                 | monthly |
+| https://mkusaka.github.io/trending/numpy/daily/index.xml                                | numpy                              | daily   |
+| https://mkusaka.github.io/trending/numpy/weekly/index.xml                               | numpy                              | weekly  |
+| https://mkusaka.github.io/trending/numpy/monthly/index.xml                              | numpy                              | monthly |
+| https://mkusaka.github.io/trending/nunjucks/daily/index.xml                             | nunjucks                           | daily   |
+| https://mkusaka.github.io/trending/nunjucks/weekly/index.xml                            | nunjucks                           | weekly  |
+| https://mkusaka.github.io/trending/nunjucks/monthly/index.xml                           | nunjucks                           | monthly |
+| https://mkusaka.github.io/trending/nwscript/daily/index.xml                             | nwscript                           | daily   |
+| https://mkusaka.github.io/trending/nwscript/weekly/index.xml                            | nwscript                           | weekly  |
+| https://mkusaka.github.io/trending/nwscript/monthly/index.xml                           | nwscript                           | monthly |
+| https://mkusaka.github.io/trending/objdump/daily/index.xml                              | objdump                            | daily   |
+| https://mkusaka.github.io/trending/objdump/weekly/index.xml                             | objdump                            | weekly  |
+| https://mkusaka.github.io/trending/objdump/monthly/index.xml                            | objdump                            | monthly |
+| https://mkusaka.github.io/trending/object-data-instance-notation/daily/index.xml        | object-data-instance-notation      | daily   |
+| https://mkusaka.github.io/trending/object-data-instance-notation/weekly/index.xml       | object-data-instance-notation      | weekly  |
+| https://mkusaka.github.io/trending/object-data-instance-notation/monthly/index.xml      | object-data-instance-notation      | monthly |
+| https://mkusaka.github.io/trending/objective-c/daily/index.xml                          | objective-c                        | daily   |
+| https://mkusaka.github.io/trending/objective-c/weekly/index.xml                         | objective-c                        | weekly  |
+| https://mkusaka.github.io/trending/objective-c/monthly/index.xml                        | objective-c                        | monthly |
+| https://mkusaka.github.io/trending/objective-c++/daily/index.xml                        | objective-c++                      | daily   |
+| https://mkusaka.github.io/trending/objective-c++/weekly/index.xml                       | objective-c++                      | weekly  |
+| https://mkusaka.github.io/trending/objective-c++/monthly/index.xml                      | objective-c++                      | monthly |
+| https://mkusaka.github.io/trending/objective-j/daily/index.xml                          | objective-j                        | daily   |
+| https://mkusaka.github.io/trending/objective-j/weekly/index.xml                         | objective-j                        | weekly  |
+| https://mkusaka.github.io/trending/objective-j/monthly/index.xml                        | objective-j                        | monthly |
+| https://mkusaka.github.io/trending/objectscript/daily/index.xml                         | objectscript                       | daily   |
+| https://mkusaka.github.io/trending/objectscript/weekly/index.xml                        | objectscript                       | weekly  |
+| https://mkusaka.github.io/trending/objectscript/monthly/index.xml                       | objectscript                       | monthly |
+| https://mkusaka.github.io/trending/ocaml/daily/index.xml                                | ocaml                              | daily   |
+| https://mkusaka.github.io/trending/ocaml/weekly/index.xml                               | ocaml                              | weekly  |
+| https://mkusaka.github.io/trending/ocaml/monthly/index.xml                              | ocaml                              | monthly |
+| https://mkusaka.github.io/trending/odin/daily/index.xml                                 | odin                               | daily   |
+| https://mkusaka.github.io/trending/odin/weekly/index.xml                                | odin                               | weekly  |
+| https://mkusaka.github.io/trending/odin/monthly/index.xml                               | odin                               | monthly |
+| https://mkusaka.github.io/trending/omgrofl/daily/index.xml                              | omgrofl                            | daily   |
+| https://mkusaka.github.io/trending/omgrofl/weekly/index.xml                             | omgrofl                            | weekly  |
+| https://mkusaka.github.io/trending/omgrofl/monthly/index.xml                            | omgrofl                            | monthly |
+| https://mkusaka.github.io/trending/ooc/daily/index.xml                                  | ooc                                | daily   |
+| https://mkusaka.github.io/trending/ooc/weekly/index.xml                                 | ooc                                | weekly  |
+| https://mkusaka.github.io/trending/ooc/monthly/index.xml                                | ooc                                | monthly |
+| https://mkusaka.github.io/trending/opa/daily/index.xml                                  | opa                                | daily   |
+| https://mkusaka.github.io/trending/opa/weekly/index.xml                                 | opa                                | weekly  |
+| https://mkusaka.github.io/trending/opa/monthly/index.xml                                | opa                                | monthly |
+| https://mkusaka.github.io/trending/opal/daily/index.xml                                 | opal                               | daily   |
+| https://mkusaka.github.io/trending/opal/weekly/index.xml                                | opal                               | weekly  |
+| https://mkusaka.github.io/trending/opal/monthly/index.xml                               | opal                               | monthly |
+| https://mkusaka.github.io/trending/open-policy-agent/daily/index.xml                    | open-policy-agent                  | daily   |
+| https://mkusaka.github.io/trending/open-policy-agent/weekly/index.xml                   | open-policy-agent                  | weekly  |
+| https://mkusaka.github.io/trending/open-policy-agent/monthly/index.xml                  | open-policy-agent                  | monthly |
+| https://mkusaka.github.io/trending/opencl/daily/index.xml                               | opencl                             | daily   |
+| https://mkusaka.github.io/trending/opencl/weekly/index.xml                              | opencl                             | weekly  |
+| https://mkusaka.github.io/trending/opencl/monthly/index.xml                             | opencl                             | monthly |
+| https://mkusaka.github.io/trending/openedge-abl/daily/index.xml                         | openedge-abl                       | daily   |
+| https://mkusaka.github.io/trending/openedge-abl/weekly/index.xml                        | openedge-abl                       | weekly  |
+| https://mkusaka.github.io/trending/openedge-abl/monthly/index.xml                       | openedge-abl                       | monthly |
+| https://mkusaka.github.io/trending/openqasm/daily/index.xml                             | openqasm                           | daily   |
+| https://mkusaka.github.io/trending/openqasm/weekly/index.xml                            | openqasm                           | weekly  |
+| https://mkusaka.github.io/trending/openqasm/monthly/index.xml                           | openqasm                           | monthly |
+| https://mkusaka.github.io/trending/openrc-runscript/daily/index.xml                     | openrc-runscript                   | daily   |
+| https://mkusaka.github.io/trending/openrc-runscript/weekly/index.xml                    | openrc-runscript                   | weekly  |
+| https://mkusaka.github.io/trending/openrc-runscript/monthly/index.xml                   | openrc-runscript                   | monthly |
+| https://mkusaka.github.io/trending/openscad/daily/index.xml                             | openscad                           | daily   |
+| https://mkusaka.github.io/trending/openscad/weekly/index.xml                            | openscad                           | weekly  |
+| https://mkusaka.github.io/trending/openscad/monthly/index.xml                           | openscad                           | monthly |
+| https://mkusaka.github.io/trending/openstep-property-list/daily/index.xml               | openstep-property-list             | daily   |
+| https://mkusaka.github.io/trending/openstep-property-list/weekly/index.xml              | openstep-property-list             | weekly  |
+| https://mkusaka.github.io/trending/openstep-property-list/monthly/index.xml             | openstep-property-list             | monthly |
+| https://mkusaka.github.io/trending/opentype-feature-file/daily/index.xml                | opentype-feature-file              | daily   |
+| https://mkusaka.github.io/trending/opentype-feature-file/weekly/index.xml               | opentype-feature-file              | weekly  |
+| https://mkusaka.github.io/trending/opentype-feature-file/monthly/index.xml              | opentype-feature-file              | monthly |
+| https://mkusaka.github.io/trending/org/daily/index.xml                                  | org                                | daily   |
+| https://mkusaka.github.io/trending/org/weekly/index.xml                                 | org                                | weekly  |
+| https://mkusaka.github.io/trending/org/monthly/index.xml                                | org                                | monthly |
+| https://mkusaka.github.io/trending/ox/daily/index.xml                                   | ox                                 | daily   |
+| https://mkusaka.github.io/trending/ox/weekly/index.xml                                  | ox                                 | weekly  |
+| https://mkusaka.github.io/trending/ox/monthly/index.xml                                 | ox                                 | monthly |
+| https://mkusaka.github.io/trending/oxygene/daily/index.xml                              | oxygene                            | daily   |
+| https://mkusaka.github.io/trending/oxygene/weekly/index.xml                             | oxygene                            | weekly  |
+| https://mkusaka.github.io/trending/oxygene/monthly/index.xml                            | oxygene                            | monthly |
+| https://mkusaka.github.io/trending/oz/daily/index.xml                                   | oz                                 | daily   |
+| https://mkusaka.github.io/trending/oz/weekly/index.xml                                  | oz                                 | weekly  |
+| https://mkusaka.github.io/trending/oz/monthly/index.xml                                 | oz                                 | monthly |
+| https://mkusaka.github.io/trending/p4/daily/index.xml                                   | p4                                 | daily   |
+| https://mkusaka.github.io/trending/p4/weekly/index.xml                                  | p4                                 | weekly  |
+| https://mkusaka.github.io/trending/p4/monthly/index.xml                                 | p4                                 | monthly |
+| https://mkusaka.github.io/trending/pan/daily/index.xml                                  | pan                                | daily   |
+| https://mkusaka.github.io/trending/pan/weekly/index.xml                                 | pan                                | weekly  |
+| https://mkusaka.github.io/trending/pan/monthly/index.xml                                | pan                                | monthly |
+| https://mkusaka.github.io/trending/papyrus/daily/index.xml                              | papyrus                            | daily   |
+| https://mkusaka.github.io/trending/papyrus/weekly/index.xml                             | papyrus                            | weekly  |
+| https://mkusaka.github.io/trending/papyrus/monthly/index.xml                            | papyrus                            | monthly |
+| https://mkusaka.github.io/trending/parrot/daily/index.xml                               | parrot                             | daily   |
+| https://mkusaka.github.io/trending/parrot/weekly/index.xml                              | parrot                             | weekly  |
+| https://mkusaka.github.io/trending/parrot/monthly/index.xml                             | parrot                             | monthly |
+| https://mkusaka.github.io/trending/parrot-assembly/daily/index.xml                      | parrot-assembly                    | daily   |
+| https://mkusaka.github.io/trending/parrot-assembly/weekly/index.xml                     | parrot-assembly                    | weekly  |
+| https://mkusaka.github.io/trending/parrot-assembly/monthly/index.xml                    | parrot-assembly                    | monthly |
+| https://mkusaka.github.io/trending/parrot-internal-representation/daily/index.xml       | parrot-internal-representation     | daily   |
+| https://mkusaka.github.io/trending/parrot-internal-representation/weekly/index.xml      | parrot-internal-representation     | weekly  |
+| https://mkusaka.github.io/trending/parrot-internal-representation/monthly/index.xml     | parrot-internal-representation     | monthly |
+| https://mkusaka.github.io/trending/pascal/daily/index.xml                               | pascal                             | daily   |
+| https://mkusaka.github.io/trending/pascal/weekly/index.xml                              | pascal                             | weekly  |
+| https://mkusaka.github.io/trending/pascal/monthly/index.xml                             | pascal                             | monthly |
+| https://mkusaka.github.io/trending/pawn/daily/index.xml                                 | pawn                               | daily   |
+| https://mkusaka.github.io/trending/pawn/weekly/index.xml                                | pawn                               | weekly  |
+| https://mkusaka.github.io/trending/pawn/monthly/index.xml                               | pawn                               | monthly |
+| https://mkusaka.github.io/trending/peg.js/daily/index.xml                               | peg.js                             | daily   |
+| https://mkusaka.github.io/trending/peg.js/weekly/index.xml                              | peg.js                             | weekly  |
+| https://mkusaka.github.io/trending/peg.js/monthly/index.xml                             | peg.js                             | monthly |
+| https://mkusaka.github.io/trending/pep8/daily/index.xml                                 | pep8                               | daily   |
+| https://mkusaka.github.io/trending/pep8/weekly/index.xml                                | pep8                               | weekly  |
+| https://mkusaka.github.io/trending/pep8/monthly/index.xml                               | pep8                               | monthly |
+| https://mkusaka.github.io/trending/perl/daily/index.xml                                 | perl                               | daily   |
+| https://mkusaka.github.io/trending/perl/weekly/index.xml                                | perl                               | weekly  |
+| https://mkusaka.github.io/trending/perl/monthly/index.xml                               | perl                               | monthly |
+| https://mkusaka.github.io/trending/pic/daily/index.xml                                  | pic                                | daily   |
+| https://mkusaka.github.io/trending/pic/weekly/index.xml                                 | pic                                | weekly  |
+| https://mkusaka.github.io/trending/pic/monthly/index.xml                                | pic                                | monthly |
+| https://mkusaka.github.io/trending/pickle/daily/index.xml                               | pickle                             | daily   |
+| https://mkusaka.github.io/trending/pickle/weekly/index.xml                              | pickle                             | weekly  |
+| https://mkusaka.github.io/trending/pickle/monthly/index.xml                             | pickle                             | monthly |
+| https://mkusaka.github.io/trending/picolisp/daily/index.xml                             | picolisp                           | daily   |
+| https://mkusaka.github.io/trending/picolisp/weekly/index.xml                            | picolisp                           | weekly  |
+| https://mkusaka.github.io/trending/picolisp/monthly/index.xml                           | picolisp                           | monthly |
+| https://mkusaka.github.io/trending/piglatin/daily/index.xml                             | piglatin                           | daily   |
+| https://mkusaka.github.io/trending/piglatin/weekly/index.xml                            | piglatin                           | weekly  |
+| https://mkusaka.github.io/trending/piglatin/monthly/index.xml                           | piglatin                           | monthly |
+| https://mkusaka.github.io/trending/pike/daily/index.xml                                 | pike                               | daily   |
+| https://mkusaka.github.io/trending/pike/weekly/index.xml                                | pike                               | weekly  |
+| https://mkusaka.github.io/trending/pike/monthly/index.xml                               | pike                               | monthly |
+| https://mkusaka.github.io/trending/plantuml/daily/index.xml                             | plantuml                           | daily   |
+| https://mkusaka.github.io/trending/plantuml/weekly/index.xml                            | plantuml                           | weekly  |
+| https://mkusaka.github.io/trending/plantuml/monthly/index.xml                           | plantuml                           | monthly |
+| https://mkusaka.github.io/trending/plpgsql/daily/index.xml                              | plpgsql                            | daily   |
+| https://mkusaka.github.io/trending/plpgsql/weekly/index.xml                             | plpgsql                            | weekly  |
+| https://mkusaka.github.io/trending/plpgsql/monthly/index.xml                            | plpgsql                            | monthly |
+| https://mkusaka.github.io/trending/plsql/daily/index.xml                                | plsql                              | daily   |
+| https://mkusaka.github.io/trending/plsql/weekly/index.xml                               | plsql                              | weekly  |
+| https://mkusaka.github.io/trending/plsql/monthly/index.xml                              | plsql                              | monthly |
+| https://mkusaka.github.io/trending/pod/daily/index.xml                                  | pod                                | daily   |
+| https://mkusaka.github.io/trending/pod/weekly/index.xml                                 | pod                                | weekly  |
+| https://mkusaka.github.io/trending/pod/monthly/index.xml                                | pod                                | monthly |
+| https://mkusaka.github.io/trending/pod-6/daily/index.xml                                | pod-6                              | daily   |
+| https://mkusaka.github.io/trending/pod-6/weekly/index.xml                               | pod-6                              | weekly  |
+| https://mkusaka.github.io/trending/pod-6/monthly/index.xml                              | pod-6                              | monthly |
+| https://mkusaka.github.io/trending/pogoscript/daily/index.xml                           | pogoscript                         | daily   |
+| https://mkusaka.github.io/trending/pogoscript/weekly/index.xml                          | pogoscript                         | weekly  |
+| https://mkusaka.github.io/trending/pogoscript/monthly/index.xml                         | pogoscript                         | monthly |
+| https://mkusaka.github.io/trending/pony/daily/index.xml                                 | pony                               | daily   |
+| https://mkusaka.github.io/trending/pony/weekly/index.xml                                | pony                               | weekly  |
+| https://mkusaka.github.io/trending/pony/monthly/index.xml                               | pony                               | monthly |
+| https://mkusaka.github.io/trending/postcss/daily/index.xml                              | postcss                            | daily   |
+| https://mkusaka.github.io/trending/postcss/weekly/index.xml                             | postcss                            | weekly  |
+| https://mkusaka.github.io/trending/postcss/monthly/index.xml                            | postcss                            | monthly |
+| https://mkusaka.github.io/trending/postscript/daily/index.xml                           | postscript                         | daily   |
+| https://mkusaka.github.io/trending/postscript/weekly/index.xml                          | postscript                         | weekly  |
+| https://mkusaka.github.io/trending/postscript/monthly/index.xml                         | postscript                         | monthly |
+| https://mkusaka.github.io/trending/pov-ray-sdl/daily/index.xml                          | pov-ray-sdl                        | daily   |
+| https://mkusaka.github.io/trending/pov-ray-sdl/weekly/index.xml                         | pov-ray-sdl                        | weekly  |
+| https://mkusaka.github.io/trending/pov-ray-sdl/monthly/index.xml                        | pov-ray-sdl                        | monthly |
+| https://mkusaka.github.io/trending/powerbuilder/daily/index.xml                         | powerbuilder                       | daily   |
+| https://mkusaka.github.io/trending/powerbuilder/weekly/index.xml                        | powerbuilder                       | weekly  |
+| https://mkusaka.github.io/trending/powerbuilder/monthly/index.xml                       | powerbuilder                       | monthly |
+| https://mkusaka.github.io/trending/powershell/daily/index.xml                           | powershell                         | daily   |
+| https://mkusaka.github.io/trending/powershell/weekly/index.xml                          | powershell                         | weekly  |
+| https://mkusaka.github.io/trending/powershell/monthly/index.xml                         | powershell                         | monthly |
+| https://mkusaka.github.io/trending/prisma/daily/index.xml                               | prisma                             | daily   |
+| https://mkusaka.github.io/trending/prisma/weekly/index.xml                              | prisma                             | weekly  |
+| https://mkusaka.github.io/trending/prisma/monthly/index.xml                             | prisma                             | monthly |
+| https://mkusaka.github.io/trending/processing/daily/index.xml                           | processing                         | daily   |
+| https://mkusaka.github.io/trending/processing/weekly/index.xml                          | processing                         | weekly  |
+| https://mkusaka.github.io/trending/processing/monthly/index.xml                         | processing                         | monthly |
+| https://mkusaka.github.io/trending/procfile/daily/index.xml                             | procfile                           | daily   |
+| https://mkusaka.github.io/trending/procfile/weekly/index.xml                            | procfile                           | weekly  |
+| https://mkusaka.github.io/trending/procfile/monthly/index.xml                           | procfile                           | monthly |
+| https://mkusaka.github.io/trending/proguard/daily/index.xml                             | proguard                           | daily   |
+| https://mkusaka.github.io/trending/proguard/weekly/index.xml                            | proguard                           | weekly  |
+| https://mkusaka.github.io/trending/proguard/monthly/index.xml                           | proguard                           | monthly |
+| https://mkusaka.github.io/trending/prolog/daily/index.xml                               | prolog                             | daily   |
+| https://mkusaka.github.io/trending/prolog/weekly/index.xml                              | prolog                             | weekly  |
+| https://mkusaka.github.io/trending/prolog/monthly/index.xml                             | prolog                             | monthly |
+| https://mkusaka.github.io/trending/promela/daily/index.xml                              | promela                            | daily   |
+| https://mkusaka.github.io/trending/promela/weekly/index.xml                             | promela                            | weekly  |
+| https://mkusaka.github.io/trending/promela/monthly/index.xml                            | promela                            | monthly |
+| https://mkusaka.github.io/trending/propeller-spin/daily/index.xml                       | propeller-spin                     | daily   |
+| https://mkusaka.github.io/trending/propeller-spin/weekly/index.xml                      | propeller-spin                     | weekly  |
+| https://mkusaka.github.io/trending/propeller-spin/monthly/index.xml                     | propeller-spin                     | monthly |
+| https://mkusaka.github.io/trending/protocol-buffer/daily/index.xml                      | protocol-buffer                    | daily   |
+| https://mkusaka.github.io/trending/protocol-buffer/weekly/index.xml                     | protocol-buffer                    | weekly  |
+| https://mkusaka.github.io/trending/protocol-buffer/monthly/index.xml                    | protocol-buffer                    | monthly |
+| https://mkusaka.github.io/trending/protocol-buffer-text-format/daily/index.xml          | protocol-buffer-text-format        | daily   |
+| https://mkusaka.github.io/trending/protocol-buffer-text-format/weekly/index.xml         | protocol-buffer-text-format        | weekly  |
+| https://mkusaka.github.io/trending/protocol-buffer-text-format/monthly/index.xml        | protocol-buffer-text-format        | monthly |
+| https://mkusaka.github.io/trending/public-key/daily/index.xml                           | public-key                         | daily   |
+| https://mkusaka.github.io/trending/public-key/weekly/index.xml                          | public-key                         | weekly  |
+| https://mkusaka.github.io/trending/public-key/monthly/index.xml                         | public-key                         | monthly |
+| https://mkusaka.github.io/trending/pug/daily/index.xml                                  | pug                                | daily   |
+| https://mkusaka.github.io/trending/pug/weekly/index.xml                                 | pug                                | weekly  |
+| https://mkusaka.github.io/trending/pug/monthly/index.xml                                | pug                                | monthly |
+| https://mkusaka.github.io/trending/puppet/daily/index.xml                               | puppet                             | daily   |
+| https://mkusaka.github.io/trending/puppet/weekly/index.xml                              | puppet                             | weekly  |
+| https://mkusaka.github.io/trending/puppet/monthly/index.xml                             | puppet                             | monthly |
+| https://mkusaka.github.io/trending/pure-data/daily/index.xml                            | pure-data                          | daily   |
+| https://mkusaka.github.io/trending/pure-data/weekly/index.xml                           | pure-data                          | weekly  |
+| https://mkusaka.github.io/trending/pure-data/monthly/index.xml                          | pure-data                          | monthly |
+| https://mkusaka.github.io/trending/purebasic/daily/index.xml                            | purebasic                          | daily   |
+| https://mkusaka.github.io/trending/purebasic/weekly/index.xml                           | purebasic                          | weekly  |
+| https://mkusaka.github.io/trending/purebasic/monthly/index.xml                          | purebasic                          | monthly |
+| https://mkusaka.github.io/trending/purescript/daily/index.xml                           | purescript                         | daily   |
+| https://mkusaka.github.io/trending/purescript/weekly/index.xml                          | purescript                         | weekly  |
+| https://mkusaka.github.io/trending/purescript/monthly/index.xml                         | purescript                         | monthly |
+| https://mkusaka.github.io/trending/python-console/daily/index.xml                       | python-console                     | daily   |
+| https://mkusaka.github.io/trending/python-console/weekly/index.xml                      | python-console                     | weekly  |
+| https://mkusaka.github.io/trending/python-console/monthly/index.xml                     | python-console                     | monthly |
+| https://mkusaka.github.io/trending/python-traceback/daily/index.xml                     | python-traceback                   | daily   |
+| https://mkusaka.github.io/trending/python-traceback/weekly/index.xml                    | python-traceback                   | weekly  |
+| https://mkusaka.github.io/trending/python-traceback/monthly/index.xml                   | python-traceback                   | monthly |
+| https://mkusaka.github.io/trending/q/daily/index.xml                                    | q                                  | daily   |
+| https://mkusaka.github.io/trending/q/weekly/index.xml                                   | q                                  | weekly  |
+| https://mkusaka.github.io/trending/q/monthly/index.xml                                  | q                                  | monthly |
+| https://mkusaka.github.io/trending/q%23/daily/index.xml                                 | q%23                               | daily   |
+| https://mkusaka.github.io/trending/q%23/weekly/index.xml                                | q%23                               | weekly  |
+| https://mkusaka.github.io/trending/q%23/monthly/index.xml                               | q%23                               | monthly |
+| https://mkusaka.github.io/trending/qmake/daily/index.xml                                | qmake                              | daily   |
+| https://mkusaka.github.io/trending/qmake/weekly/index.xml                               | qmake                              | weekly  |
+| https://mkusaka.github.io/trending/qmake/monthly/index.xml                              | qmake                              | monthly |
+| https://mkusaka.github.io/trending/qml/daily/index.xml                                  | qml                                | daily   |
+| https://mkusaka.github.io/trending/qml/weekly/index.xml                                 | qml                                | weekly  |
+| https://mkusaka.github.io/trending/qml/monthly/index.xml                                | qml                                | monthly |
+| https://mkusaka.github.io/trending/qt-script/daily/index.xml                            | qt-script                          | daily   |
+| https://mkusaka.github.io/trending/qt-script/weekly/index.xml                           | qt-script                          | weekly  |
+| https://mkusaka.github.io/trending/qt-script/monthly/index.xml                          | qt-script                          | monthly |
+| https://mkusaka.github.io/trending/quake/daily/index.xml                                | quake                              | daily   |
+| https://mkusaka.github.io/trending/quake/weekly/index.xml                               | quake                              | weekly  |
+| https://mkusaka.github.io/trending/quake/monthly/index.xml                              | quake                              | monthly |
+| https://mkusaka.github.io/trending/r/daily/index.xml                                    | r                                  | daily   |
+| https://mkusaka.github.io/trending/r/weekly/index.xml                                   | r                                  | weekly  |
+| https://mkusaka.github.io/trending/r/monthly/index.xml                                  | r                                  | monthly |
+| https://mkusaka.github.io/trending/racket/daily/index.xml                               | racket                             | daily   |
+| https://mkusaka.github.io/trending/racket/weekly/index.xml                              | racket                             | weekly  |
+| https://mkusaka.github.io/trending/racket/monthly/index.xml                             | racket                             | monthly |
+| https://mkusaka.github.io/trending/ragel/daily/index.xml                                | ragel                              | daily   |
+| https://mkusaka.github.io/trending/ragel/weekly/index.xml                               | ragel                              | weekly  |
+| https://mkusaka.github.io/trending/ragel/monthly/index.xml                              | ragel                              | monthly |
+| https://mkusaka.github.io/trending/raku/daily/index.xml                                 | raku                               | daily   |
+| https://mkusaka.github.io/trending/raku/weekly/index.xml                                | raku                               | weekly  |
+| https://mkusaka.github.io/trending/raku/monthly/index.xml                               | raku                               | monthly |
+| https://mkusaka.github.io/trending/raml/daily/index.xml                                 | raml                               | daily   |
+| https://mkusaka.github.io/trending/raml/weekly/index.xml                                | raml                               | weekly  |
+| https://mkusaka.github.io/trending/raml/monthly/index.xml                               | raml                               | monthly |
+| https://mkusaka.github.io/trending/rascal/daily/index.xml                               | rascal                             | daily   |
+| https://mkusaka.github.io/trending/rascal/weekly/index.xml                              | rascal                             | weekly  |
+| https://mkusaka.github.io/trending/rascal/monthly/index.xml                             | rascal                             | monthly |
+| https://mkusaka.github.io/trending/raw-token-data/daily/index.xml                       | raw-token-data                     | daily   |
+| https://mkusaka.github.io/trending/raw-token-data/weekly/index.xml                      | raw-token-data                     | weekly  |
+| https://mkusaka.github.io/trending/raw-token-data/monthly/index.xml                     | raw-token-data                     | monthly |
+| https://mkusaka.github.io/trending/rdoc/daily/index.xml                                 | rdoc                               | daily   |
+| https://mkusaka.github.io/trending/rdoc/weekly/index.xml                                | rdoc                               | weekly  |
+| https://mkusaka.github.io/trending/rdoc/monthly/index.xml                               | rdoc                               | monthly |
+| https://mkusaka.github.io/trending/readline-config/daily/index.xml                      | readline-config                    | daily   |
+| https://mkusaka.github.io/trending/readline-config/weekly/index.xml                     | readline-config                    | weekly  |
+| https://mkusaka.github.io/trending/readline-config/monthly/index.xml                    | readline-config                    | monthly |
+| https://mkusaka.github.io/trending/realbasic/daily/index.xml                            | realbasic                          | daily   |
+| https://mkusaka.github.io/trending/realbasic/weekly/index.xml                           | realbasic                          | weekly  |
+| https://mkusaka.github.io/trending/realbasic/monthly/index.xml                          | realbasic                          | monthly |
+| https://mkusaka.github.io/trending/reason/daily/index.xml                               | reason                             | daily   |
+| https://mkusaka.github.io/trending/reason/weekly/index.xml                              | reason                             | weekly  |
+| https://mkusaka.github.io/trending/reason/monthly/index.xml                             | reason                             | monthly |
+| https://mkusaka.github.io/trending/rebol/daily/index.xml                                | rebol                              | daily   |
+| https://mkusaka.github.io/trending/rebol/weekly/index.xml                               | rebol                              | weekly  |
+| https://mkusaka.github.io/trending/rebol/monthly/index.xml                              | rebol                              | monthly |
+| https://mkusaka.github.io/trending/record-jar/daily/index.xml                           | record-jar                         | daily   |
+| https://mkusaka.github.io/trending/record-jar/weekly/index.xml                          | record-jar                         | weekly  |
+| https://mkusaka.github.io/trending/record-jar/monthly/index.xml                         | record-jar                         | monthly |
+| https://mkusaka.github.io/trending/red/daily/index.xml                                  | red                                | daily   |
+| https://mkusaka.github.io/trending/red/weekly/index.xml                                 | red                                | weekly  |
+| https://mkusaka.github.io/trending/red/monthly/index.xml                                | red                                | monthly |
+| https://mkusaka.github.io/trending/redcode/daily/index.xml                              | redcode                            | daily   |
+| https://mkusaka.github.io/trending/redcode/weekly/index.xml                             | redcode                            | weekly  |
+| https://mkusaka.github.io/trending/redcode/monthly/index.xml                            | redcode                            | monthly |
+| https://mkusaka.github.io/trending/redirect-rules/daily/index.xml                       | redirect-rules                     | daily   |
+| https://mkusaka.github.io/trending/redirect-rules/weekly/index.xml                      | redirect-rules                     | weekly  |
+| https://mkusaka.github.io/trending/redirect-rules/monthly/index.xml                     | redirect-rules                     | monthly |
+| https://mkusaka.github.io/trending/regular-expression/daily/index.xml                   | regular-expression                 | daily   |
+| https://mkusaka.github.io/trending/regular-expression/weekly/index.xml                  | regular-expression                 | weekly  |
+| https://mkusaka.github.io/trending/regular-expression/monthly/index.xml                 | regular-expression                 | monthly |
+| https://mkusaka.github.io/trending/ren'py/daily/index.xml                               | ren'py                             | daily   |
+| https://mkusaka.github.io/trending/ren'py/weekly/index.xml                              | ren'py                             | weekly  |
+| https://mkusaka.github.io/trending/ren'py/monthly/index.xml                             | ren'py                             | monthly |
+| https://mkusaka.github.io/trending/renderscript/daily/index.xml                         | renderscript                       | daily   |
+| https://mkusaka.github.io/trending/renderscript/weekly/index.xml                        | renderscript                       | weekly  |
+| https://mkusaka.github.io/trending/renderscript/monthly/index.xml                       | renderscript                       | monthly |
+| https://mkusaka.github.io/trending/rescript/daily/index.xml                             | rescript                           | daily   |
+| https://mkusaka.github.io/trending/rescript/weekly/index.xml                            | rescript                           | weekly  |
+| https://mkusaka.github.io/trending/rescript/monthly/index.xml                           | rescript                           | monthly |
+| https://mkusaka.github.io/trending/restructuredtext/daily/index.xml                     | restructuredtext                   | daily   |
+| https://mkusaka.github.io/trending/restructuredtext/weekly/index.xml                    | restructuredtext                   | weekly  |
+| https://mkusaka.github.io/trending/restructuredtext/monthly/index.xml                   | restructuredtext                   | monthly |
+| https://mkusaka.github.io/trending/rexx/daily/index.xml                                 | rexx                               | daily   |
+| https://mkusaka.github.io/trending/rexx/weekly/index.xml                                | rexx                               | weekly  |
+| https://mkusaka.github.io/trending/rexx/monthly/index.xml                               | rexx                               | monthly |
+| https://mkusaka.github.io/trending/rich-text-format/daily/index.xml                     | rich-text-format                   | daily   |
+| https://mkusaka.github.io/trending/rich-text-format/weekly/index.xml                    | rich-text-format                   | weekly  |
+| https://mkusaka.github.io/trending/rich-text-format/monthly/index.xml                   | rich-text-format                   | monthly |
+| https://mkusaka.github.io/trending/ring/daily/index.xml                                 | ring                               | daily   |
+| https://mkusaka.github.io/trending/ring/weekly/index.xml                                | ring                               | weekly  |
+| https://mkusaka.github.io/trending/ring/monthly/index.xml                               | ring                               | monthly |
+| https://mkusaka.github.io/trending/riot/daily/index.xml                                 | riot                               | daily   |
+| https://mkusaka.github.io/trending/riot/weekly/index.xml                                | riot                               | weekly  |
+| https://mkusaka.github.io/trending/riot/monthly/index.xml                               | riot                               | monthly |
+| https://mkusaka.github.io/trending/rmarkdown/daily/index.xml                            | rmarkdown                          | daily   |
+| https://mkusaka.github.io/trending/rmarkdown/weekly/index.xml                           | rmarkdown                          | weekly  |
+| https://mkusaka.github.io/trending/rmarkdown/monthly/index.xml                          | rmarkdown                          | monthly |
+| https://mkusaka.github.io/trending/robotframework/daily/index.xml                       | robotframework                     | daily   |
+| https://mkusaka.github.io/trending/robotframework/weekly/index.xml                      | robotframework                     | weekly  |
+| https://mkusaka.github.io/trending/robotframework/monthly/index.xml                     | robotframework                     | monthly |
+| https://mkusaka.github.io/trending/robots.txt/daily/index.xml                           | robots.txt                         | daily   |
+| https://mkusaka.github.io/trending/robots.txt/weekly/index.xml                          | robots.txt                         | weekly  |
+| https://mkusaka.github.io/trending/robots.txt/monthly/index.xml                         | robots.txt                         | monthly |
+| https://mkusaka.github.io/trending/roff/daily/index.xml                                 | roff                               | daily   |
+| https://mkusaka.github.io/trending/roff/weekly/index.xml                                | roff                               | weekly  |
+| https://mkusaka.github.io/trending/roff/monthly/index.xml                               | roff                               | monthly |
+| https://mkusaka.github.io/trending/roff-manpage/daily/index.xml                         | roff-manpage                       | daily   |
+| https://mkusaka.github.io/trending/roff-manpage/weekly/index.xml                        | roff-manpage                       | weekly  |
+| https://mkusaka.github.io/trending/roff-manpage/monthly/index.xml                       | roff-manpage                       | monthly |
+| https://mkusaka.github.io/trending/rouge/daily/index.xml                                | rouge                              | daily   |
+| https://mkusaka.github.io/trending/rouge/weekly/index.xml                               | rouge                              | weekly  |
+| https://mkusaka.github.io/trending/rouge/monthly/index.xml                              | rouge                              | monthly |
+| https://mkusaka.github.io/trending/rpc/daily/index.xml                                  | rpc                                | daily   |
+| https://mkusaka.github.io/trending/rpc/weekly/index.xml                                 | rpc                                | weekly  |
+| https://mkusaka.github.io/trending/rpc/monthly/index.xml                                | rpc                                | monthly |
+| https://mkusaka.github.io/trending/rpgle/daily/index.xml                                | rpgle                              | daily   |
+| https://mkusaka.github.io/trending/rpgle/weekly/index.xml                               | rpgle                              | weekly  |
+| https://mkusaka.github.io/trending/rpgle/monthly/index.xml                              | rpgle                              | monthly |
+| https://mkusaka.github.io/trending/rpm-spec/daily/index.xml                             | rpm-spec                           | daily   |
+| https://mkusaka.github.io/trending/rpm-spec/weekly/index.xml                            | rpm-spec                           | weekly  |
+| https://mkusaka.github.io/trending/rpm-spec/monthly/index.xml                           | rpm-spec                           | monthly |
+| https://mkusaka.github.io/trending/runoff/daily/index.xml                               | runoff                             | daily   |
+| https://mkusaka.github.io/trending/runoff/weekly/index.xml                              | runoff                             | weekly  |
+| https://mkusaka.github.io/trending/runoff/monthly/index.xml                             | runoff                             | monthly |
+| https://mkusaka.github.io/trending/rust/daily/index.xml                                 | rust                               | daily   |
+| https://mkusaka.github.io/trending/rust/weekly/index.xml                                | rust                               | weekly  |
+| https://mkusaka.github.io/trending/rust/monthly/index.xml                               | rust                               | monthly |
+| https://mkusaka.github.io/trending/sage/daily/index.xml                                 | sage                               | daily   |
+| https://mkusaka.github.io/trending/sage/weekly/index.xml                                | sage                               | weekly  |
+| https://mkusaka.github.io/trending/sage/monthly/index.xml                               | sage                               | monthly |
+| https://mkusaka.github.io/trending/saltstack/daily/index.xml                            | saltstack                          | daily   |
+| https://mkusaka.github.io/trending/saltstack/weekly/index.xml                           | saltstack                          | weekly  |
+| https://mkusaka.github.io/trending/saltstack/monthly/index.xml                          | saltstack                          | monthly |
+| https://mkusaka.github.io/trending/sas/daily/index.xml                                  | sas                                | daily   |
+| https://mkusaka.github.io/trending/sas/weekly/index.xml                                 | sas                                | weekly  |
+| https://mkusaka.github.io/trending/sas/monthly/index.xml                                | sas                                | monthly |
+| https://mkusaka.github.io/trending/sass/daily/index.xml                                 | sass                               | daily   |
+| https://mkusaka.github.io/trending/sass/weekly/index.xml                                | sass                               | weekly  |
+| https://mkusaka.github.io/trending/sass/monthly/index.xml                               | sass                               | monthly |
+| https://mkusaka.github.io/trending/scala/daily/index.xml                                | scala                              | daily   |
+| https://mkusaka.github.io/trending/scala/weekly/index.xml                               | scala                              | weekly  |
+| https://mkusaka.github.io/trending/scala/monthly/index.xml                              | scala                              | monthly |
+| https://mkusaka.github.io/trending/scaml/daily/index.xml                                | scaml                              | daily   |
+| https://mkusaka.github.io/trending/scaml/weekly/index.xml                               | scaml                              | weekly  |
+| https://mkusaka.github.io/trending/scaml/monthly/index.xml                              | scaml                              | monthly |
+| https://mkusaka.github.io/trending/scheme/daily/index.xml                               | scheme                             | daily   |
+| https://mkusaka.github.io/trending/scheme/weekly/index.xml                              | scheme                             | weekly  |
+| https://mkusaka.github.io/trending/scheme/monthly/index.xml                             | scheme                             | monthly |
+| https://mkusaka.github.io/trending/scilab/daily/index.xml                               | scilab                             | daily   |
+| https://mkusaka.github.io/trending/scilab/weekly/index.xml                              | scilab                             | weekly  |
+| https://mkusaka.github.io/trending/scilab/monthly/index.xml                             | scilab                             | monthly |
+| https://mkusaka.github.io/trending/scss/daily/index.xml                                 | scss                               | daily   |
+| https://mkusaka.github.io/trending/scss/weekly/index.xml                                | scss                               | weekly  |
+| https://mkusaka.github.io/trending/scss/monthly/index.xml                               | scss                               | monthly |
+| https://mkusaka.github.io/trending/sed/daily/index.xml                                  | sed                                | daily   |
+| https://mkusaka.github.io/trending/sed/weekly/index.xml                                 | sed                                | weekly  |
+| https://mkusaka.github.io/trending/sed/monthly/index.xml                                | sed                                | monthly |
+| https://mkusaka.github.io/trending/self/daily/index.xml                                 | self                               | daily   |
+| https://mkusaka.github.io/trending/self/weekly/index.xml                                | self                               | weekly  |
+| https://mkusaka.github.io/trending/self/monthly/index.xml                               | self                               | monthly |
+| https://mkusaka.github.io/trending/selinux-policy/daily/index.xml                       | selinux-policy                     | daily   |
+| https://mkusaka.github.io/trending/selinux-policy/weekly/index.xml                      | selinux-policy                     | weekly  |
+| https://mkusaka.github.io/trending/selinux-policy/monthly/index.xml                     | selinux-policy                     | monthly |
+| https://mkusaka.github.io/trending/shaderlab/daily/index.xml                            | shaderlab                          | daily   |
+| https://mkusaka.github.io/trending/shaderlab/weekly/index.xml                           | shaderlab                          | weekly  |
+| https://mkusaka.github.io/trending/shaderlab/monthly/index.xml                          | shaderlab                          | monthly |
+| https://mkusaka.github.io/trending/shell/daily/index.xml                                | shell                              | daily   |
+| https://mkusaka.github.io/trending/shell/weekly/index.xml                               | shell                              | weekly  |
+| https://mkusaka.github.io/trending/shell/monthly/index.xml                              | shell                              | monthly |
+| https://mkusaka.github.io/trending/shellcheck-config/daily/index.xml                    | shellcheck-config                  | daily   |
+| https://mkusaka.github.io/trending/shellcheck-config/weekly/index.xml                   | shellcheck-config                  | weekly  |
+| https://mkusaka.github.io/trending/shellcheck-config/monthly/index.xml                  | shellcheck-config                  | monthly |
+| https://mkusaka.github.io/trending/shellsession/daily/index.xml                         | shellsession                       | daily   |
+| https://mkusaka.github.io/trending/shellsession/weekly/index.xml                        | shellsession                       | weekly  |
+| https://mkusaka.github.io/trending/shellsession/monthly/index.xml                       | shellsession                       | monthly |
+| https://mkusaka.github.io/trending/shen/daily/index.xml                                 | shen                               | daily   |
+| https://mkusaka.github.io/trending/shen/weekly/index.xml                                | shen                               | weekly  |
+| https://mkusaka.github.io/trending/shen/monthly/index.xml                               | shen                               | monthly |
+| https://mkusaka.github.io/trending/sieve/daily/index.xml                                | sieve                              | daily   |
+| https://mkusaka.github.io/trending/sieve/weekly/index.xml                               | sieve                              | weekly  |
+| https://mkusaka.github.io/trending/sieve/monthly/index.xml                              | sieve                              | monthly |
+| https://mkusaka.github.io/trending/singularity/daily/index.xml                          | singularity                        | daily   |
+| https://mkusaka.github.io/trending/singularity/weekly/index.xml                         | singularity                        | weekly  |
+| https://mkusaka.github.io/trending/singularity/monthly/index.xml                        | singularity                        | monthly |
+| https://mkusaka.github.io/trending/slash/daily/index.xml                                | slash                              | daily   |
+| https://mkusaka.github.io/trending/slash/weekly/index.xml                               | slash                              | weekly  |
+| https://mkusaka.github.io/trending/slash/monthly/index.xml                              | slash                              | monthly |
+| https://mkusaka.github.io/trending/slice/daily/index.xml                                | slice                              | daily   |
+| https://mkusaka.github.io/trending/slice/weekly/index.xml                               | slice                              | weekly  |
+| https://mkusaka.github.io/trending/slice/monthly/index.xml                              | slice                              | monthly |
+| https://mkusaka.github.io/trending/slim/daily/index.xml                                 | slim                               | daily   |
+| https://mkusaka.github.io/trending/slim/weekly/index.xml                                | slim                               | weekly  |
+| https://mkusaka.github.io/trending/slim/monthly/index.xml                               | slim                               | monthly |
+| https://mkusaka.github.io/trending/smali/daily/index.xml                                | smali                              | daily   |
+| https://mkusaka.github.io/trending/smali/weekly/index.xml                               | smali                              | weekly  |
+| https://mkusaka.github.io/trending/smali/monthly/index.xml                              | smali                              | monthly |
+| https://mkusaka.github.io/trending/smalltalk/daily/index.xml                            | smalltalk                          | daily   |
+| https://mkusaka.github.io/trending/smalltalk/weekly/index.xml                           | smalltalk                          | weekly  |
+| https://mkusaka.github.io/trending/smalltalk/monthly/index.xml                          | smalltalk                          | monthly |
+| https://mkusaka.github.io/trending/smarty/daily/index.xml                               | smarty                             | daily   |
+| https://mkusaka.github.io/trending/smarty/weekly/index.xml                              | smarty                             | weekly  |
+| https://mkusaka.github.io/trending/smarty/monthly/index.xml                             | smarty                             | monthly |
+| https://mkusaka.github.io/trending/smpl/daily/index.xml                                 | smpl                               | daily   |
+| https://mkusaka.github.io/trending/smpl/weekly/index.xml                                | smpl                               | weekly  |
+| https://mkusaka.github.io/trending/smpl/monthly/index.xml                               | smpl                               | monthly |
+| https://mkusaka.github.io/trending/smt/daily/index.xml                                  | smt                                | daily   |
+| https://mkusaka.github.io/trending/smt/weekly/index.xml                                 | smt                                | weekly  |
+| https://mkusaka.github.io/trending/smt/monthly/index.xml                                | smt                                | monthly |
+| https://mkusaka.github.io/trending/solidity/daily/index.xml                             | solidity                           | daily   |
+| https://mkusaka.github.io/trending/solidity/weekly/index.xml                            | solidity                           | weekly  |
+| https://mkusaka.github.io/trending/solidity/monthly/index.xml                           | solidity                           | monthly |
+| https://mkusaka.github.io/trending/soong/daily/index.xml                                | soong                              | daily   |
+| https://mkusaka.github.io/trending/soong/weekly/index.xml                               | soong                              | weekly  |
+| https://mkusaka.github.io/trending/soong/monthly/index.xml                              | soong                              | monthly |
+| https://mkusaka.github.io/trending/sourcepawn/daily/index.xml                           | sourcepawn                         | daily   |
+| https://mkusaka.github.io/trending/sourcepawn/weekly/index.xml                          | sourcepawn                         | weekly  |
+| https://mkusaka.github.io/trending/sourcepawn/monthly/index.xml                         | sourcepawn                         | monthly |
+| https://mkusaka.github.io/trending/sparql/daily/index.xml                               | sparql                             | daily   |
+| https://mkusaka.github.io/trending/sparql/weekly/index.xml                              | sparql                             | weekly  |
+| https://mkusaka.github.io/trending/sparql/monthly/index.xml                             | sparql                             | monthly |
+| https://mkusaka.github.io/trending/spline-font-database/daily/index.xml                 | spline-font-database               | daily   |
+| https://mkusaka.github.io/trending/spline-font-database/weekly/index.xml                | spline-font-database               | weekly  |
+| https://mkusaka.github.io/trending/spline-font-database/monthly/index.xml               | spline-font-database               | monthly |
+| https://mkusaka.github.io/trending/sqf/daily/index.xml                                  | sqf                                | daily   |
+| https://mkusaka.github.io/trending/sqf/weekly/index.xml                                 | sqf                                | weekly  |
+| https://mkusaka.github.io/trending/sqf/monthly/index.xml                                | sqf                                | monthly |
+| https://mkusaka.github.io/trending/sql/daily/index.xml                                  | sql                                | daily   |
+| https://mkusaka.github.io/trending/sql/weekly/index.xml                                 | sql                                | weekly  |
+| https://mkusaka.github.io/trending/sql/monthly/index.xml                                | sql                                | monthly |
+| https://mkusaka.github.io/trending/sqlpl/daily/index.xml                                | sqlpl                              | daily   |
+| https://mkusaka.github.io/trending/sqlpl/weekly/index.xml                               | sqlpl                              | weekly  |
+| https://mkusaka.github.io/trending/sqlpl/monthly/index.xml                              | sqlpl                              | monthly |
+| https://mkusaka.github.io/trending/squirrel/daily/index.xml                             | squirrel                           | daily   |
+| https://mkusaka.github.io/trending/squirrel/weekly/index.xml                            | squirrel                           | weekly  |
+| https://mkusaka.github.io/trending/squirrel/monthly/index.xml                           | squirrel                           | monthly |
+| https://mkusaka.github.io/trending/srecode-template/daily/index.xml                     | srecode-template                   | daily   |
+| https://mkusaka.github.io/trending/srecode-template/weekly/index.xml                    | srecode-template                   | weekly  |
+| https://mkusaka.github.io/trending/srecode-template/monthly/index.xml                   | srecode-template                   | monthly |
+| https://mkusaka.github.io/trending/ssh-config/daily/index.xml                           | ssh-config                         | daily   |
+| https://mkusaka.github.io/trending/ssh-config/weekly/index.xml                          | ssh-config                         | weekly  |
+| https://mkusaka.github.io/trending/ssh-config/monthly/index.xml                         | ssh-config                         | monthly |
+| https://mkusaka.github.io/trending/stan/daily/index.xml                                 | stan                               | daily   |
+| https://mkusaka.github.io/trending/stan/weekly/index.xml                                | stan                               | weekly  |
+| https://mkusaka.github.io/trending/stan/monthly/index.xml                               | stan                               | monthly |
+| https://mkusaka.github.io/trending/standard-ml/daily/index.xml                          | standard-ml                        | daily   |
+| https://mkusaka.github.io/trending/standard-ml/weekly/index.xml                         | standard-ml                        | weekly  |
+| https://mkusaka.github.io/trending/standard-ml/monthly/index.xml                        | standard-ml                        | monthly |
+| https://mkusaka.github.io/trending/starlark/daily/index.xml                             | starlark                           | daily   |
+| https://mkusaka.github.io/trending/starlark/weekly/index.xml                            | starlark                           | weekly  |
+| https://mkusaka.github.io/trending/starlark/monthly/index.xml                           | starlark                           | monthly |
+| https://mkusaka.github.io/trending/stata/daily/index.xml                                | stata                              | daily   |
+| https://mkusaka.github.io/trending/stata/weekly/index.xml                               | stata                              | weekly  |
+| https://mkusaka.github.io/trending/stata/monthly/index.xml                              | stata                              | monthly |
+| https://mkusaka.github.io/trending/ston/daily/index.xml                                 | ston                               | daily   |
+| https://mkusaka.github.io/trending/ston/weekly/index.xml                                | ston                               | weekly  |
+| https://mkusaka.github.io/trending/ston/monthly/index.xml                               | ston                               | monthly |
+| https://mkusaka.github.io/trending/stringtemplate/daily/index.xml                       | stringtemplate                     | daily   |
+| https://mkusaka.github.io/trending/stringtemplate/weekly/index.xml                      | stringtemplate                     | weekly  |
+| https://mkusaka.github.io/trending/stringtemplate/monthly/index.xml                     | stringtemplate                     | monthly |
+| https://mkusaka.github.io/trending/stylus/daily/index.xml                               | stylus                             | daily   |
+| https://mkusaka.github.io/trending/stylus/weekly/index.xml                              | stylus                             | weekly  |
+| https://mkusaka.github.io/trending/stylus/monthly/index.xml                             | stylus                             | monthly |
+| https://mkusaka.github.io/trending/subrip-text/daily/index.xml                          | subrip-text                        | daily   |
+| https://mkusaka.github.io/trending/subrip-text/weekly/index.xml                         | subrip-text                        | weekly  |
+| https://mkusaka.github.io/trending/subrip-text/monthly/index.xml                        | subrip-text                        | monthly |
+| https://mkusaka.github.io/trending/sugarss/daily/index.xml                              | sugarss                            | daily   |
+| https://mkusaka.github.io/trending/sugarss/weekly/index.xml                             | sugarss                            | weekly  |
+| https://mkusaka.github.io/trending/sugarss/monthly/index.xml                            | sugarss                            | monthly |
+| https://mkusaka.github.io/trending/supercollider/daily/index.xml                        | supercollider                      | daily   |
+| https://mkusaka.github.io/trending/supercollider/weekly/index.xml                       | supercollider                      | weekly  |
+| https://mkusaka.github.io/trending/supercollider/monthly/index.xml                      | supercollider                      | monthly |
+| https://mkusaka.github.io/trending/svelte/daily/index.xml                               | svelte                             | daily   |
+| https://mkusaka.github.io/trending/svelte/weekly/index.xml                              | svelte                             | weekly  |
+| https://mkusaka.github.io/trending/svelte/monthly/index.xml                             | svelte                             | monthly |
+| https://mkusaka.github.io/trending/svg/daily/index.xml                                  | svg                                | daily   |
+| https://mkusaka.github.io/trending/svg/weekly/index.xml                                 | svg                                | weekly  |
+| https://mkusaka.github.io/trending/svg/monthly/index.xml                                | svg                                | monthly |
+| https://mkusaka.github.io/trending/swift/daily/index.xml                                | swift                              | daily   |
+| https://mkusaka.github.io/trending/swift/weekly/index.xml                               | swift                              | weekly  |
+| https://mkusaka.github.io/trending/swift/monthly/index.xml                              | swift                              | monthly |
+| https://mkusaka.github.io/trending/swig/daily/index.xml                                 | swig                               | daily   |
+| https://mkusaka.github.io/trending/swig/weekly/index.xml                                | swig                               | weekly  |
+| https://mkusaka.github.io/trending/swig/monthly/index.xml                               | swig                               | monthly |
+| https://mkusaka.github.io/trending/systemverilog/daily/index.xml                        | systemverilog                      | daily   |
+| https://mkusaka.github.io/trending/systemverilog/weekly/index.xml                       | systemverilog                      | weekly  |
+| https://mkusaka.github.io/trending/systemverilog/monthly/index.xml                      | systemverilog                      | monthly |
+| https://mkusaka.github.io/trending/talon/daily/index.xml                                | talon                              | daily   |
+| https://mkusaka.github.io/trending/talon/weekly/index.xml                               | talon                              | weekly  |
+| https://mkusaka.github.io/trending/talon/monthly/index.xml                              | talon                              | monthly |
+| https://mkusaka.github.io/trending/tcl/daily/index.xml                                  | tcl                                | daily   |
+| https://mkusaka.github.io/trending/tcl/weekly/index.xml                                 | tcl                                | weekly  |
+| https://mkusaka.github.io/trending/tcl/monthly/index.xml                                | tcl                                | monthly |
+| https://mkusaka.github.io/trending/tcsh/daily/index.xml                                 | tcsh                               | daily   |
+| https://mkusaka.github.io/trending/tcsh/weekly/index.xml                                | tcsh                               | weekly  |
+| https://mkusaka.github.io/trending/tcsh/monthly/index.xml                               | tcsh                               | monthly |
+| https://mkusaka.github.io/trending/tea/daily/index.xml                                  | tea                                | daily   |
+| https://mkusaka.github.io/trending/tea/weekly/index.xml                                 | tea                                | weekly  |
+| https://mkusaka.github.io/trending/tea/monthly/index.xml                                | tea                                | monthly |
+| https://mkusaka.github.io/trending/terra/daily/index.xml                                | terra                              | daily   |
+| https://mkusaka.github.io/trending/terra/weekly/index.xml                               | terra                              | weekly  |
+| https://mkusaka.github.io/trending/terra/monthly/index.xml                              | terra                              | monthly |
+| https://mkusaka.github.io/trending/tex/daily/index.xml                                  | tex                                | daily   |
+| https://mkusaka.github.io/trending/tex/weekly/index.xml                                 | tex                                | weekly  |
+| https://mkusaka.github.io/trending/tex/monthly/index.xml                                | tex                                | monthly |
+| https://mkusaka.github.io/trending/texinfo/daily/index.xml                              | texinfo                            | daily   |
+| https://mkusaka.github.io/trending/texinfo/weekly/index.xml                             | texinfo                            | weekly  |
+| https://mkusaka.github.io/trending/texinfo/monthly/index.xml                            | texinfo                            | monthly |
+| https://mkusaka.github.io/trending/text/daily/index.xml                                 | text                               | daily   |
+| https://mkusaka.github.io/trending/text/weekly/index.xml                                | text                               | weekly  |
+| https://mkusaka.github.io/trending/text/monthly/index.xml                               | text                               | monthly |
+| https://mkusaka.github.io/trending/textile/daily/index.xml                              | textile                            | daily   |
+| https://mkusaka.github.io/trending/textile/weekly/index.xml                             | textile                            | weekly  |
+| https://mkusaka.github.io/trending/textile/monthly/index.xml                            | textile                            | monthly |
+| https://mkusaka.github.io/trending/textmate-properties/daily/index.xml                  | textmate-properties                | daily   |
+| https://mkusaka.github.io/trending/textmate-properties/weekly/index.xml                 | textmate-properties                | weekly  |
+| https://mkusaka.github.io/trending/textmate-properties/monthly/index.xml                | textmate-properties                | monthly |
+| https://mkusaka.github.io/trending/thrift/daily/index.xml                               | thrift                             | daily   |
+| https://mkusaka.github.io/trending/thrift/weekly/index.xml                              | thrift                             | weekly  |
+| https://mkusaka.github.io/trending/thrift/monthly/index.xml                             | thrift                             | monthly |
+| https://mkusaka.github.io/trending/ti-program/daily/index.xml                           | ti-program                         | daily   |
+| https://mkusaka.github.io/trending/ti-program/weekly/index.xml                          | ti-program                         | weekly  |
+| https://mkusaka.github.io/trending/ti-program/monthly/index.xml                         | ti-program                         | monthly |
+| https://mkusaka.github.io/trending/tla/daily/index.xml                                  | tla                                | daily   |
+| https://mkusaka.github.io/trending/tla/weekly/index.xml                                 | tla                                | weekly  |
+| https://mkusaka.github.io/trending/tla/monthly/index.xml                                | tla                                | monthly |
+| https://mkusaka.github.io/trending/toml/daily/index.xml                                 | toml                               | daily   |
+| https://mkusaka.github.io/trending/toml/weekly/index.xml                                | toml                               | weekly  |
+| https://mkusaka.github.io/trending/toml/monthly/index.xml                               | toml                               | monthly |
+| https://mkusaka.github.io/trending/tsql/daily/index.xml                                 | tsql                               | daily   |
+| https://mkusaka.github.io/trending/tsql/weekly/index.xml                                | tsql                               | weekly  |
+| https://mkusaka.github.io/trending/tsql/monthly/index.xml                               | tsql                               | monthly |
+| https://mkusaka.github.io/trending/tsv/daily/index.xml                                  | tsv                                | daily   |
+| https://mkusaka.github.io/trending/tsv/weekly/index.xml                                 | tsv                                | weekly  |
+| https://mkusaka.github.io/trending/tsv/monthly/index.xml                                | tsv                                | monthly |
+| https://mkusaka.github.io/trending/tsx/daily/index.xml                                  | tsx                                | daily   |
+| https://mkusaka.github.io/trending/tsx/weekly/index.xml                                 | tsx                                | weekly  |
+| https://mkusaka.github.io/trending/tsx/monthly/index.xml                                | tsx                                | monthly |
+| https://mkusaka.github.io/trending/turing/daily/index.xml                               | turing                             | daily   |
+| https://mkusaka.github.io/trending/turing/weekly/index.xml                              | turing                             | weekly  |
+| https://mkusaka.github.io/trending/turing/monthly/index.xml                             | turing                             | monthly |
+| https://mkusaka.github.io/trending/turtle/daily/index.xml                               | turtle                             | daily   |
+| https://mkusaka.github.io/trending/turtle/weekly/index.xml                              | turtle                             | weekly  |
+| https://mkusaka.github.io/trending/turtle/monthly/index.xml                             | turtle                             | monthly |
+| https://mkusaka.github.io/trending/twig/daily/index.xml                                 | twig                               | daily   |
+| https://mkusaka.github.io/trending/twig/weekly/index.xml                                | twig                               | weekly  |
+| https://mkusaka.github.io/trending/twig/monthly/index.xml                               | twig                               | monthly |
+| https://mkusaka.github.io/trending/txl/daily/index.xml                                  | txl                                | daily   |
+| https://mkusaka.github.io/trending/txl/weekly/index.xml                                 | txl                                | weekly  |
+| https://mkusaka.github.io/trending/txl/monthly/index.xml                                | txl                                | monthly |
+| https://mkusaka.github.io/trending/type-language/daily/index.xml                        | type-language                      | daily   |
+| https://mkusaka.github.io/trending/type-language/weekly/index.xml                       | type-language                      | weekly  |
+| https://mkusaka.github.io/trending/type-language/monthly/index.xml                      | type-language                      | monthly |
+| https://mkusaka.github.io/trending/typescript/daily/index.xml                           | typescript                         | daily   |
+| https://mkusaka.github.io/trending/typescript/weekly/index.xml                          | typescript                         | weekly  |
+| https://mkusaka.github.io/trending/typescript/monthly/index.xml                         | typescript                         | monthly |
+| https://mkusaka.github.io/trending/unified-parallel-c/daily/index.xml                   | unified-parallel-c                 | daily   |
+| https://mkusaka.github.io/trending/unified-parallel-c/weekly/index.xml                  | unified-parallel-c                 | weekly  |
+| https://mkusaka.github.io/trending/unified-parallel-c/monthly/index.xml                 | unified-parallel-c                 | monthly |
+| https://mkusaka.github.io/trending/unity3d-asset/daily/index.xml                        | unity3d-asset                      | daily   |
+| https://mkusaka.github.io/trending/unity3d-asset/weekly/index.xml                       | unity3d-asset                      | weekly  |
+| https://mkusaka.github.io/trending/unity3d-asset/monthly/index.xml                      | unity3d-asset                      | monthly |
+| https://mkusaka.github.io/trending/unix-assembly/daily/index.xml                        | unix-assembly                      | daily   |
+| https://mkusaka.github.io/trending/unix-assembly/weekly/index.xml                       | unix-assembly                      | weekly  |
+| https://mkusaka.github.io/trending/unix-assembly/monthly/index.xml                      | unix-assembly                      | monthly |
+| https://mkusaka.github.io/trending/uno/daily/index.xml                                  | uno                                | daily   |
+| https://mkusaka.github.io/trending/uno/weekly/index.xml                                 | uno                                | weekly  |
+| https://mkusaka.github.io/trending/uno/monthly/index.xml                                | uno                                | monthly |
+| https://mkusaka.github.io/trending/unrealscript/daily/index.xml                         | unrealscript                       | daily   |
+| https://mkusaka.github.io/trending/unrealscript/weekly/index.xml                        | unrealscript                       | weekly  |
+| https://mkusaka.github.io/trending/unrealscript/monthly/index.xml                       | unrealscript                       | monthly |
+| https://mkusaka.github.io/trending/urweb/daily/index.xml                                | urweb                              | daily   |
+| https://mkusaka.github.io/trending/urweb/weekly/index.xml                               | urweb                              | weekly  |
+| https://mkusaka.github.io/trending/urweb/monthly/index.xml                              | urweb                              | monthly |
+| https://mkusaka.github.io/trending/v/daily/index.xml                                    | v                                  | daily   |
+| https://mkusaka.github.io/trending/v/weekly/index.xml                                   | v                                  | weekly  |
+| https://mkusaka.github.io/trending/v/monthly/index.xml                                  | v                                  | monthly |
+| https://mkusaka.github.io/trending/vala/daily/index.xml                                 | vala                               | daily   |
+| https://mkusaka.github.io/trending/vala/weekly/index.xml                                | vala                               | weekly  |
+| https://mkusaka.github.io/trending/vala/monthly/index.xml                               | vala                               | monthly |
+| https://mkusaka.github.io/trending/valve-data-format/daily/index.xml                    | valve-data-format                  | daily   |
+| https://mkusaka.github.io/trending/valve-data-format/weekly/index.xml                   | valve-data-format                  | weekly  |
+| https://mkusaka.github.io/trending/valve-data-format/monthly/index.xml                  | valve-data-format                  | monthly |
+| https://mkusaka.github.io/trending/vba/daily/index.xml                                  | vba                                | daily   |
+| https://mkusaka.github.io/trending/vba/weekly/index.xml                                 | vba                                | weekly  |
+| https://mkusaka.github.io/trending/vba/monthly/index.xml                                | vba                                | monthly |
+| https://mkusaka.github.io/trending/vbscript/daily/index.xml                             | vbscript                           | daily   |
+| https://mkusaka.github.io/trending/vbscript/weekly/index.xml                            | vbscript                           | weekly  |
+| https://mkusaka.github.io/trending/vbscript/monthly/index.xml                           | vbscript                           | monthly |
+| https://mkusaka.github.io/trending/vcl/daily/index.xml                                  | vcl                                | daily   |
+| https://mkusaka.github.io/trending/vcl/weekly/index.xml                                 | vcl                                | weekly  |
+| https://mkusaka.github.io/trending/vcl/monthly/index.xml                                | vcl                                | monthly |
+| https://mkusaka.github.io/trending/verilog/daily/index.xml                              | verilog                            | daily   |
+| https://mkusaka.github.io/trending/verilog/weekly/index.xml                             | verilog                            | weekly  |
+| https://mkusaka.github.io/trending/verilog/monthly/index.xml                            | verilog                            | monthly |
+| https://mkusaka.github.io/trending/vhdl/daily/index.xml                                 | vhdl                               | daily   |
+| https://mkusaka.github.io/trending/vhdl/weekly/index.xml                                | vhdl                               | weekly  |
+| https://mkusaka.github.io/trending/vhdl/monthly/index.xml                               | vhdl                               | monthly |
+| https://mkusaka.github.io/trending/vim-help-file/daily/index.xml                        | vim-help-file                      | daily   |
+| https://mkusaka.github.io/trending/vim-help-file/weekly/index.xml                       | vim-help-file                      | weekly  |
+| https://mkusaka.github.io/trending/vim-help-file/monthly/index.xml                      | vim-help-file                      | monthly |
+| https://mkusaka.github.io/trending/vim-script/daily/index.xml                           | vim-script                         | daily   |
+| https://mkusaka.github.io/trending/vim-script/weekly/index.xml                          | vim-script                         | weekly  |
+| https://mkusaka.github.io/trending/vim-script/monthly/index.xml                         | vim-script                         | monthly |
+| https://mkusaka.github.io/trending/vim-snippet/daily/index.xml                          | vim-snippet                        | daily   |
+| https://mkusaka.github.io/trending/vim-snippet/weekly/index.xml                         | vim-snippet                        | weekly  |
+| https://mkusaka.github.io/trending/vim-snippet/monthly/index.xml                        | vim-snippet                        | monthly |
+| https://mkusaka.github.io/trending/visual-basic-.net/daily/index.xml                    | visual-basic-.net                  | daily   |
+| https://mkusaka.github.io/trending/visual-basic-.net/weekly/index.xml                   | visual-basic-.net                  | weekly  |
+| https://mkusaka.github.io/trending/visual-basic-.net/monthly/index.xml                  | visual-basic-.net                  | monthly |
+| https://mkusaka.github.io/trending/volt/daily/index.xml                                 | volt                               | daily   |
+| https://mkusaka.github.io/trending/volt/weekly/index.xml                                | volt                               | weekly  |
+| https://mkusaka.github.io/trending/volt/monthly/index.xml                               | volt                               | monthly |
+| https://mkusaka.github.io/trending/vue/daily/index.xml                                  | vue                                | daily   |
+| https://mkusaka.github.io/trending/vue/weekly/index.xml                                 | vue                                | weekly  |
+| https://mkusaka.github.io/trending/vue/monthly/index.xml                                | vue                                | monthly |
+| https://mkusaka.github.io/trending/vyper/daily/index.xml                                | vyper                              | daily   |
+| https://mkusaka.github.io/trending/vyper/weekly/index.xml                               | vyper                              | weekly  |
+| https://mkusaka.github.io/trending/vyper/monthly/index.xml                              | vyper                              | monthly |
+| https://mkusaka.github.io/trending/wavefront-material/daily/index.xml                   | wavefront-material                 | daily   |
+| https://mkusaka.github.io/trending/wavefront-material/weekly/index.xml                  | wavefront-material                 | weekly  |
+| https://mkusaka.github.io/trending/wavefront-material/monthly/index.xml                 | wavefront-material                 | monthly |
+| https://mkusaka.github.io/trending/wavefront-object/daily/index.xml                     | wavefront-object                   | daily   |
+| https://mkusaka.github.io/trending/wavefront-object/weekly/index.xml                    | wavefront-object                   | weekly  |
+| https://mkusaka.github.io/trending/wavefront-object/monthly/index.xml                   | wavefront-object                   | monthly |
+| https://mkusaka.github.io/trending/wdl/daily/index.xml                                  | wdl                                | daily   |
+| https://mkusaka.github.io/trending/wdl/weekly/index.xml                                 | wdl                                | weekly  |
+| https://mkusaka.github.io/trending/wdl/monthly/index.xml                                | wdl                                | monthly |
+| https://mkusaka.github.io/trending/web-ontology-language/daily/index.xml                | web-ontology-language              | daily   |
+| https://mkusaka.github.io/trending/web-ontology-language/weekly/index.xml               | web-ontology-language              | weekly  |
+| https://mkusaka.github.io/trending/web-ontology-language/monthly/index.xml              | web-ontology-language              | monthly |
+| https://mkusaka.github.io/trending/webassembly/daily/index.xml                          | webassembly                        | daily   |
+| https://mkusaka.github.io/trending/webassembly/weekly/index.xml                         | webassembly                        | weekly  |
+| https://mkusaka.github.io/trending/webassembly/monthly/index.xml                        | webassembly                        | monthly |
+| https://mkusaka.github.io/trending/webidl/daily/index.xml                               | webidl                             | daily   |
+| https://mkusaka.github.io/trending/webidl/weekly/index.xml                              | webidl                             | weekly  |
+| https://mkusaka.github.io/trending/webidl/monthly/index.xml                             | webidl                             | monthly |
+| https://mkusaka.github.io/trending/webvtt/daily/index.xml                               | webvtt                             | daily   |
+| https://mkusaka.github.io/trending/webvtt/weekly/index.xml                              | webvtt                             | weekly  |
+| https://mkusaka.github.io/trending/webvtt/monthly/index.xml                             | webvtt                             | monthly |
+| https://mkusaka.github.io/trending/wget-config/daily/index.xml                          | wget-config                        | daily   |
+| https://mkusaka.github.io/trending/wget-config/weekly/index.xml                         | wget-config                        | weekly  |
+| https://mkusaka.github.io/trending/wget-config/monthly/index.xml                        | wget-config                        | monthly |
+| https://mkusaka.github.io/trending/windows-registry-entries/daily/index.xml             | windows-registry-entries           | daily   |
+| https://mkusaka.github.io/trending/windows-registry-entries/weekly/index.xml            | windows-registry-entries           | weekly  |
+| https://mkusaka.github.io/trending/windows-registry-entries/monthly/index.xml           | windows-registry-entries           | monthly |
+| https://mkusaka.github.io/trending/wisp/daily/index.xml                                 | wisp                               | daily   |
+| https://mkusaka.github.io/trending/wisp/weekly/index.xml                                | wisp                               | weekly  |
+| https://mkusaka.github.io/trending/wisp/monthly/index.xml                               | wisp                               | monthly |
+| https://mkusaka.github.io/trending/witcher-script/daily/index.xml                       | witcher-script                     | daily   |
+| https://mkusaka.github.io/trending/witcher-script/weekly/index.xml                      | witcher-script                     | weekly  |
+| https://mkusaka.github.io/trending/witcher-script/monthly/index.xml                     | witcher-script                     | monthly |
+| https://mkusaka.github.io/trending/wollok/daily/index.xml                               | wollok                             | daily   |
+| https://mkusaka.github.io/trending/wollok/weekly/index.xml                              | wollok                             | weekly  |
+| https://mkusaka.github.io/trending/wollok/monthly/index.xml                             | wollok                             | monthly |
+| https://mkusaka.github.io/trending/world-of-warcraft-addon-data/daily/index.xml         | world-of-warcraft-addon-data       | daily   |
+| https://mkusaka.github.io/trending/world-of-warcraft-addon-data/weekly/index.xml        | world-of-warcraft-addon-data       | weekly  |
+| https://mkusaka.github.io/trending/world-of-warcraft-addon-data/monthly/index.xml       | world-of-warcraft-addon-data       | monthly |
+| https://mkusaka.github.io/trending/x-bitmap/daily/index.xml                             | x-bitmap                           | daily   |
+| https://mkusaka.github.io/trending/x-bitmap/weekly/index.xml                            | x-bitmap                           | weekly  |
+| https://mkusaka.github.io/trending/x-bitmap/monthly/index.xml                           | x-bitmap                           | monthly |
+| https://mkusaka.github.io/trending/x-font-directory-index/daily/index.xml               | x-font-directory-index             | daily   |
+| https://mkusaka.github.io/trending/x-font-directory-index/weekly/index.xml              | x-font-directory-index             | weekly  |
+| https://mkusaka.github.io/trending/x-font-directory-index/monthly/index.xml             | x-font-directory-index             | monthly |
+| https://mkusaka.github.io/trending/x-pixmap/daily/index.xml                             | x-pixmap                           | daily   |
+| https://mkusaka.github.io/trending/x-pixmap/weekly/index.xml                            | x-pixmap                           | weekly  |
+| https://mkusaka.github.io/trending/x-pixmap/monthly/index.xml                           | x-pixmap                           | monthly |
+| https://mkusaka.github.io/trending/x10/daily/index.xml                                  | x10                                | daily   |
+| https://mkusaka.github.io/trending/x10/weekly/index.xml                                 | x10                                | weekly  |
+| https://mkusaka.github.io/trending/x10/monthly/index.xml                                | x10                                | monthly |
+| https://mkusaka.github.io/trending/xbase/daily/index.xml                                | xbase                              | daily   |
+| https://mkusaka.github.io/trending/xbase/weekly/index.xml                               | xbase                              | weekly  |
+| https://mkusaka.github.io/trending/xbase/monthly/index.xml                              | xbase                              | monthly |
+| https://mkusaka.github.io/trending/xc/daily/index.xml                                   | xc                                 | daily   |
+| https://mkusaka.github.io/trending/xc/weekly/index.xml                                  | xc                                 | weekly  |
+| https://mkusaka.github.io/trending/xc/monthly/index.xml                                 | xc                                 | monthly |
+| https://mkusaka.github.io/trending/xcompose/daily/index.xml                             | xcompose                           | daily   |
+| https://mkusaka.github.io/trending/xcompose/weekly/index.xml                            | xcompose                           | weekly  |
+| https://mkusaka.github.io/trending/xcompose/monthly/index.xml                           | xcompose                           | monthly |
+| https://mkusaka.github.io/trending/xml/daily/index.xml                                  | xml                                | daily   |
+| https://mkusaka.github.io/trending/xml/weekly/index.xml                                 | xml                                | weekly  |
+| https://mkusaka.github.io/trending/xml/monthly/index.xml                                | xml                                | monthly |
+| https://mkusaka.github.io/trending/xml-property-list/daily/index.xml                    | xml-property-list                  | daily   |
+| https://mkusaka.github.io/trending/xml-property-list/weekly/index.xml                   | xml-property-list                  | weekly  |
+| https://mkusaka.github.io/trending/xml-property-list/monthly/index.xml                  | xml-property-list                  | monthly |
+| https://mkusaka.github.io/trending/xojo/daily/index.xml                                 | xojo                               | daily   |
+| https://mkusaka.github.io/trending/xojo/weekly/index.xml                                | xojo                               | weekly  |
+| https://mkusaka.github.io/trending/xojo/monthly/index.xml                               | xojo                               | monthly |
+| https://mkusaka.github.io/trending/xonsh/daily/index.xml                                | xonsh                              | daily   |
+| https://mkusaka.github.io/trending/xonsh/weekly/index.xml                               | xonsh                              | weekly  |
+| https://mkusaka.github.io/trending/xonsh/monthly/index.xml                              | xonsh                              | monthly |
+| https://mkusaka.github.io/trending/xpages/daily/index.xml                               | xpages                             | daily   |
+| https://mkusaka.github.io/trending/xpages/weekly/index.xml                              | xpages                             | weekly  |
+| https://mkusaka.github.io/trending/xpages/monthly/index.xml                             | xpages                             | monthly |
+| https://mkusaka.github.io/trending/xproc/daily/index.xml                                | xproc                              | daily   |
+| https://mkusaka.github.io/trending/xproc/weekly/index.xml                               | xproc                              | weekly  |
+| https://mkusaka.github.io/trending/xproc/monthly/index.xml                              | xproc                              | monthly |
+| https://mkusaka.github.io/trending/xquery/daily/index.xml                               | xquery                             | daily   |
+| https://mkusaka.github.io/trending/xquery/weekly/index.xml                              | xquery                             | weekly  |
+| https://mkusaka.github.io/trending/xquery/monthly/index.xml                             | xquery                             | monthly |
+| https://mkusaka.github.io/trending/xs/daily/index.xml                                   | xs                                 | daily   |
+| https://mkusaka.github.io/trending/xs/weekly/index.xml                                  | xs                                 | weekly  |
+| https://mkusaka.github.io/trending/xs/monthly/index.xml                                 | xs                                 | monthly |
+| https://mkusaka.github.io/trending/xslt/daily/index.xml                                 | xslt                               | daily   |
+| https://mkusaka.github.io/trending/xslt/weekly/index.xml                                | xslt                               | weekly  |
+| https://mkusaka.github.io/trending/xslt/monthly/index.xml                               | xslt                               | monthly |
+| https://mkusaka.github.io/trending/xtend/daily/index.xml                                | xtend                              | daily   |
+| https://mkusaka.github.io/trending/xtend/weekly/index.xml                               | xtend                              | weekly  |
+| https://mkusaka.github.io/trending/xtend/monthly/index.xml                              | xtend                              | monthly |
+| https://mkusaka.github.io/trending/yacc/daily/index.xml                                 | yacc                               | daily   |
+| https://mkusaka.github.io/trending/yacc/weekly/index.xml                                | yacc                               | weekly  |
+| https://mkusaka.github.io/trending/yacc/monthly/index.xml                               | yacc                               | monthly |
+| https://mkusaka.github.io/trending/yaml/daily/index.xml                                 | yaml                               | daily   |
+| https://mkusaka.github.io/trending/yaml/weekly/index.xml                                | yaml                               | weekly  |
+| https://mkusaka.github.io/trending/yaml/monthly/index.xml                               | yaml                               | monthly |
+| https://mkusaka.github.io/trending/yang/daily/index.xml                                 | yang                               | daily   |
+| https://mkusaka.github.io/trending/yang/weekly/index.xml                                | yang                               | weekly  |
+| https://mkusaka.github.io/trending/yang/monthly/index.xml                               | yang                               | monthly |
+| https://mkusaka.github.io/trending/yara/daily/index.xml                                 | yara                               | daily   |
+| https://mkusaka.github.io/trending/yara/weekly/index.xml                                | yara                               | weekly  |
+| https://mkusaka.github.io/trending/yara/monthly/index.xml                               | yara                               | monthly |
+| https://mkusaka.github.io/trending/yasnippet/daily/index.xml                            | yasnippet                          | daily   |
+| https://mkusaka.github.io/trending/yasnippet/weekly/index.xml                           | yasnippet                          | weekly  |
+| https://mkusaka.github.io/trending/yasnippet/monthly/index.xml                          | yasnippet                          | monthly |
+| https://mkusaka.github.io/trending/zap/daily/index.xml                                  | zap                                | daily   |
+| https://mkusaka.github.io/trending/zap/weekly/index.xml                                 | zap                                | weekly  |
+| https://mkusaka.github.io/trending/zap/monthly/index.xml                                | zap                                | monthly |
+| https://mkusaka.github.io/trending/zenscript/daily/index.xml                            | zenscript                          | daily   |
+| https://mkusaka.github.io/trending/zenscript/weekly/index.xml                           | zenscript                          | weekly  |
+| https://mkusaka.github.io/trending/zenscript/monthly/index.xml                          | zenscript                          | monthly |
+| https://mkusaka.github.io/trending/zephir/daily/index.xml                               | zephir                             | daily   |
+| https://mkusaka.github.io/trending/zephir/weekly/index.xml                              | zephir                             | weekly  |
+| https://mkusaka.github.io/trending/zephir/monthly/index.xml                             | zephir                             | monthly |
+| https://mkusaka.github.io/trending/zig/daily/index.xml                                  | zig                                | daily   |
+| https://mkusaka.github.io/trending/zig/weekly/index.xml                                 | zig                                | weekly  |
+| https://mkusaka.github.io/trending/zig/monthly/index.xml                                | zig                                | monthly |
+| https://mkusaka.github.io/trending/zil/daily/index.xml                                  | zil                                | daily   |
+| https://mkusaka.github.io/trending/zil/weekly/index.xml                                 | zil                                | weekly  |
+| https://mkusaka.github.io/trending/zil/monthly/index.xml                                | zil                                | monthly |
+| https://mkusaka.github.io/trending/zimpl/daily/index.xml                                | zimpl                              | daily   |
+| https://mkusaka.github.io/trending/zimpl/weekly/index.xml                               | zimpl                              | weekly  |
+| https://mkusaka.github.io/trending/zimpl/monthly/index.xml                              | zimpl                              | monthly |
