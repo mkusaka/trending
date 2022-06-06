@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:56:15Z</updated>
+  <updated>2022-06-06T01:58:32Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tree-sitter/tree-sitter</title>
-    <updated>2022-06-05T01:56:15Z</updated>
-    <id>tag:github.com,2022-06-05:/tree-sitter/tree-sitter</id>
-    <link href="https://github.com/tree-sitter/tree-sitter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An incremental parsing system for programming tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EmbarkStudios/kajiya</title>
+    <updated>2022-06-06T01:58:32Z</updated>
+    <id>tag:github.com,2022-06-06:/EmbarkStudios/kajiya</id>
+    <link href="https://github.com/EmbarkStudios/kajiya" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💡 Experimental real-time global illumination renderer 🦀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clap-rs/clap</title>
-    <updated>2022-06-05T01:56:15Z</updated>
-    <id>tag:github.com,2022-06-05:/clap-rs/clap</id>
-    <link href="https://github.com/clap-rs/clap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A full featured, fast Command Line Argument Parser for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/rust-clippy</title>
+    <updated>2022-06-06T01:58:32Z</updated>
+    <id>tag:github.com,2022-06-06:/rust-lang/rust-clippy</id>
+    <link href="https://github.com/rust-lang/rust-clippy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bunch of lints to catch common mistakes and improve your Rust code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rustdesk/rustdesk</title>
-    <updated>2022-06-05T01:56:15Z</updated>
-    <id>tag:github.com,2022-06-05:/rustdesk/rustdesk</id>
-    <link href="https://github.com/rustdesk/rustdesk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aptos-labs/aptos-core</title>
+    <updated>2022-06-06T01:58:32Z</updated>
+    <id>tag:github.com,2022-06-06:/aptos-labs/aptos-core</id>
+    <link href="https://github.com/aptos-labs/aptos-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A layer 1 for everyone!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

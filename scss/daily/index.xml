@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:56:42Z</updated>
+  <updated>2022-06-06T01:58:58Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>prakhar1989/docker-curriculum</title>
-    <updated>2022-06-05T01:56:42Z</updated>
-    <id>tag:github.com,2022-06-05:/prakhar1989/docker-curriculum</id>
-    <link href="https://github.com/prakhar1989/docker-curriculum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐬 A comprehensive tutorial on getting started with Docker!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zzossig/hugo-theme-zzo</title>
+    <updated>2022-06-06T01:58:58Z</updated>
+    <id>tag:github.com,2022-06-06:/zzossig/hugo-theme-zzo</id>
+    <link href="https://github.com/zzossig/hugo-theme-zzo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make a blog with hugo zzo theme!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>2factorauth/twofactorauth</title>
-    <updated>2022-06-05T01:56:42Z</updated>
-    <id>tag:github.com,2022-06-05:/2factorauth/twofactorauth</id>
-    <link href="https://github.com/2factorauth/twofactorauth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of sites with two factor auth support which includes SMS, email, phone calls, hardware, and software.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lemonchann/lemonchann.github.io</title>
+    <updated>2022-06-06T01:58:58Z</updated>
+    <id>tag:github.com,2022-06-06:/lemonchann/lemonchann.github.io</id>
+    <link href="https://github.com/lemonchann/lemonchann.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;可 fork 的博客教程模板&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wowchemy/wowchemy-hugo-themes</title>
-    <updated>2022-06-05T01:56:42Z</updated>
-    <id>tag:github.com,2022-06-05:/wowchemy/wowchemy-hugo-themes</id>
-    <link href="https://github.com/wowchemy/wowchemy-hugo-themes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥 Hugo website builder, Hugo themes &amp; Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vinceliuice/Graphite-gtk-theme</title>
+    <updated>2022-06-06T01:58:58Z</updated>
+    <id>tag:github.com,2022-06-06:/vinceliuice/Graphite-gtk-theme</id>
+    <link href="https://github.com/vinceliuice/Graphite-gtk-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graphite gtk theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

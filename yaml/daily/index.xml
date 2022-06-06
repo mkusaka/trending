@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T02:01:54Z</updated>
+  <updated>2022-06-06T02:04:14Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>stashapp/CommunityScrapers</title>
-    <updated>2022-06-05T02:01:54Z</updated>
-    <id>tag:github.com,2022-06-05:/stashapp/CommunityScrapers</id>
-    <link href="https://github.com/stashapp/CommunityScrapers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a public repository containing scrapers created by the Stash Community.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

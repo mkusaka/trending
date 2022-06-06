@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:58:23Z</updated>
+  <updated>2022-06-06T02:00:37Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>beromir/Servas</title>
-    <updated>2022-06-05T01:58:23Z</updated>
-    <id>tag:github.com,2022-06-05:/beromir/Servas</id>
-    <link href="https://github.com/beromir/Servas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A self-hosted bookmark management tool.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mitcheljager/svelte-confetti</title>
+    <updated>2022-06-06T02:00:37Z</updated>
+    <id>tag:github.com,2022-06-06:/Mitcheljager/svelte-confetti</id>
+    <link href="https://github.com/Mitcheljager/svelte-confetti" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Confetti in Svelte! Celebrate things with some extra flair. Animates using just HTML and CSS meaning it can work with SSR in SvelteKit!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>open-source-labs/SvelteStorm</title>
-    <updated>2022-06-05T01:58:23Z</updated>
-    <id>tag:github.com,2022-06-05:/open-source-labs/SvelteStorm</id>
-    <link href="https://github.com/open-source-labs/SvelteStorm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteStorm is an open-source IDE with a built-in State Manager window for viewing your svelte project in real-time&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BetterDiscord/Installer</title>
+    <updated>2022-06-06T02:00:37Z</updated>
+    <id>tag:github.com,2022-06-06:/BetterDiscord/Installer</id>
+    <link href="https://github.com/BetterDiscord/Installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>oslabs-beta/Svve11</title>
-    <updated>2022-06-05T01:58:23Z</updated>
-    <id>tag:github.com,2022-06-05:/oslabs-beta/Svve11</id>
-    <link href="https://github.com/oslabs-beta/Svve11" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open source accessibility Svelte component library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iotaledger/firefly</title>
+    <updated>2022-06-06T02:00:37Z</updated>
+    <id>tag:github.com,2022-06-06:/iotaledger/firefly</id>
+    <link href="https://github.com/iotaledger/firefly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IOTA&#39;s New Wallet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

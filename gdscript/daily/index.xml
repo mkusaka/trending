@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:43:50Z</updated>
+  <updated>2022-06-06T01:45:52Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bitbrain/beehave</title>
-    <updated>2022-06-05T01:43:50Z</updated>
-    <id>tag:github.com,2022-06-05:/bitbrain/beehave</id>
-    <link href="https://github.com/bitbrain/beehave" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐝 behaviour tree AI for Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>a-little-org-called-mario/a-little-game-called-mario</title>
+    <updated>2022-06-06T01:45:52Z</updated>
+    <id>tag:github.com,2022-06-06:/a-little-org-called-mario/a-little-game-called-mario</id>
+    <link href="https://github.com/a-little-org-called-mario/a-little-game-called-mario" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;open source collective hell game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mayank-prasoon/world-maker</title>
-    <updated>2022-06-05T01:43:50Z</updated>
-    <id>tag:github.com,2022-06-05:/mayank-prasoon/world-maker</id>
-    <link href="https://github.com/mayank-prasoon/world-maker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A world building app&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Deep-Fold/PixelPlanets</title>
-    <updated>2022-06-05T01:43:50Z</updated>
-    <id>tag:github.com,2022-06-05:/Deep-Fold/PixelPlanets</id>
-    <link href="https://github.com/Deep-Fold/PixelPlanets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uheartbeast/youtube-tutorials</title>
+    <updated>2022-06-06T01:45:52Z</updated>
+    <id>tag:github.com,2022-06-06:/uheartbeast/youtube-tutorials</id>
+    <link href="https://github.com/uheartbeast/youtube-tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for holding all the source code to my YouTube tutorial videos.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

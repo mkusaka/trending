@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:45:18Z</updated>
+  <updated>2022-06-06T01:47:28Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Licoy/fetch-github-hosts</title>
-    <updated>2022-06-05T01:45:18Z</updated>
-    <id>tag:github.com,2022-06-05:/Licoy/fetch-github-hosts</id>
-    <link href="https://github.com/Licoy/fetch-github-hosts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌏 获取github的hosts，以解决各种访问慢、卡、加载失败的问题，一键使用方便快捷！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mike90s15/Clownters</title>
+    <updated>2022-06-06T01:47:28Z</updated>
+    <id>tag:github.com,2022-06-06:/mike90s15/Clownters</id>
+    <link href="https://github.com/mike90s15/Clownters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;painel de consulta&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

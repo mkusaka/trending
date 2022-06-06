@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:35:44Z</updated>
+  <updated>2022-06-06T01:38:02Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rahulmalhotra/salesforce-git-codelab</title>
-    <updated>2022-06-05T01:35:44Z</updated>
-    <id>tag:github.com,2022-06-05:/rahulmalhotra/salesforce-git-codelab</id>
-    <link href="https://github.com/rahulmalhotra/salesforce-git-codelab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Salesforce Git Codelab by SFDCStop&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SalesforceFoundation/EDA</title>
+    <updated>2022-06-06T01:38:02Z</updated>
+    <id>tag:github.com,2022-06-06:/SalesforceFoundation/EDA</id>
+    <link href="https://github.com/SalesforceFoundation/EDA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Education Data Architecture&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

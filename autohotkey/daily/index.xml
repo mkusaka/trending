@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:36:17Z</updated>
+  <updated>2022-06-06T01:38:44Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HackerHansen/1v1.lol-aimbot</title>
-    <updated>2022-06-05T01:36:17Z</updated>
-    <id>tag:github.com,2022-06-05:/HackerHansen/1v1.lol-aimbot</id>
-    <link href="https://github.com/HackerHansen/1v1.lol-aimbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>esge/PoE-HarvestVendor</title>
+    <updated>2022-06-06T01:38:44Z</updated>
+    <id>tag:github.com,2022-06-06:/esge/PoE-HarvestVendor</id>
+    <link href="https://github.com/esge/PoE-HarvestVendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool for getting the list of crafts out of Horticrafting station in Path of exile&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Lexikos/AutoHotkey_L-Docs</title>
-    <updated>2022-06-05T01:36:17Z</updated>
-    <id>tag:github.com,2022-06-05:/Lexikos/AutoHotkey_L-Docs</id>
-    <link href="https://github.com/Lexikos/AutoHotkey_L-Docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for AutoHotkey&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CemuUser8/mouse2joystick_custom_CEMU</title>
+    <updated>2022-06-06T01:38:44Z</updated>
+    <id>tag:github.com,2022-06-06:/CemuUser8/mouse2joystick_custom_CEMU</id>
+    <link href="https://github.com/CemuUser8/mouse2joystick_custom_CEMU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An AutoHotkey Script to allow the use of Mouse and Keyboard control in CEMU. This uses vJoy and provides several additional features over regular keyboard control, like: the ability to control the camera with the mouse, toggle walking speed, in BotW use MouseWheel to change weapons, a separate Toggle key for ZL useful for locking onto a target …&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Pulover/PuloversMacroCreator</title>
+    <updated>2022-06-06T01:38:44Z</updated>
+    <id>tag:github.com,2022-06-06:/Pulover/PuloversMacroCreator</id>
+    <link href="https://github.com/Pulover/PuloversMacroCreator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automation Utility - Recorder &amp; Script Generator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

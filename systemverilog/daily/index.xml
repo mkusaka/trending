@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:58:57Z</updated>
+  <updated>2022-06-06T02:01:25Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spark2k06/PCXT_MiSTer</title>
-    <updated>2022-06-05T01:58:57Z</updated>
-    <id>tag:github.com,2022-06-05:/spark2k06/PCXT_MiSTer</id>
-    <link href="https://github.com/spark2k06/PCXT_MiSTer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PCXT port for MiSTer by spark2k06.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pulp-platform/axi_riscv_atomics</title>
+    <updated>2022-06-06T02:01:25Z</updated>
+    <id>tag:github.com,2022-06-06:/pulp-platform/axi_riscv_atomics</id>
+    <link href="https://github.com/pulp-platform/axi_riscv_atomics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AXI Adapter(s) for RISC-V Atomic Operations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pulp-platform/snitch</title>
-    <updated>2022-06-05T01:58:57Z</updated>
-    <id>tag:github.com,2022-06-05:/pulp-platform/snitch</id>
-    <link href="https://github.com/pulp-platform/snitch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lean but mean RISC-V system!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pulp-platform/register_interface</title>
+    <updated>2022-06-06T02:01:25Z</updated>
+    <id>tag:github.com,2022-06-06:/pulp-platform/register_interface</id>
+    <link href="https://github.com/pulp-platform/register_interface" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generic Register Interface (contains various adatpers)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pulp-platform/apb_timer</title>
+    <updated>2022-06-06T02:01:25Z</updated>
+    <id>tag:github.com,2022-06-06:/pulp-platform/apb_timer</id>
+    <link href="https://github.com/pulp-platform/apb_timer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;APB Timer Unit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

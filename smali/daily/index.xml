@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smali Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:57:21Z</updated>
+  <updated>2022-06-06T01:59:35Z</updated>
   <subtitle>Daily Trending of Smali in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>XploitWizer-Community/XploitSPY</title>
-    <updated>2022-06-05T01:57:21Z</updated>
-    <id>tag:github.com,2022-06-05:/XploitWizer-Community/XploitSPY</id>
-    <link href="https://github.com/XploitWizer-Community/XploitSPY" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XploitSPY is an Android Monitoring Tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

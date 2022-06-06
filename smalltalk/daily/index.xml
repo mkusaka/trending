@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:57:32Z</updated>
+  <updated>2022-06-06T01:59:46Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>feenkcom/gt4dockerengine</title>
-    <updated>2022-06-05T01:57:32Z</updated>
-    <id>tag:github.com,2022-06-05:/feenkcom/gt4dockerengine</id>
-    <link href="https://github.com/feenkcom/gt4dockerengine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit extensions for Docker Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jecisc/TinyLogger</title>
+    <updated>2022-06-06T01:59:46Z</updated>
+    <id>tag:github.com,2022-06-06:/jecisc/TinyLogger</id>
+    <link href="https://github.com/jecisc/TinyLogger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A really small logger for Pharo applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-debugger</title>
-    <updated>2022-06-05T01:57:32Z</updated>
-    <id>tag:github.com,2022-06-05:/feenkcom/gtoolkit-debugger</id>
-    <link href="https://github.com/feenkcom/gtoolkit-debugger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GT Debugger is a ... debugger. A moldable debugger.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SeasideSt/Seaside</title>
+    <updated>2022-06-06T01:59:46Z</updated>
+    <id>tag:github.com,2022-06-06:/SeasideSt/Seaside</id>
+    <link href="https://github.com/SeasideSt/Seaside" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The framework for developing sophisticated web applications in Smalltalk.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/pharo-futures</title>
-    <updated>2022-06-05T01:57:32Z</updated>
-    <id>tag:github.com,2022-06-05:/feenkcom/pharo-futures</id>
-    <link href="https://github.com/feenkcom/pharo-futures" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Abstractions for asynchronous programming in Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-project/pharo</title>
+    <updated>2022-06-06T01:59:46Z</updated>
+    <id>tag:github.com,2022-06-06:/pharo-project/pharo</id>
+    <link href="https://github.com/pharo-project/pharo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

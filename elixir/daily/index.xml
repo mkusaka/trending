@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:41:44Z</updated>
+  <updated>2022-06-06T01:43:54Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Phineas/lanyard</title>
-    <updated>2022-06-05T01:41:44Z</updated>
-    <id>tag:github.com,2022-06-05:/Phineas/lanyard</id>
-    <link href="https://github.com/Phineas/lanyard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wojtekmach/mix_install_examples</title>
+    <updated>2022-06-06T01:43:54Z</updated>
+    <id>tag:github.com,2022-06-06:/wojtekmach/mix_install_examples</id>
+    <link href="https://github.com/wojtekmach/mix_install_examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of simple Elixir scripts that are using Mix.install/2.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hauleth/mix_unused</title>
-    <updated>2022-06-05T01:41:44Z</updated>
-    <id>tag:github.com,2022-06-05:/hauleth/mix_unused</id>
-    <link href="https://github.com/hauleth/mix_unused" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Find unused functions in your project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lucasvegi/Elixir-Code-Smells</title>
+    <updated>2022-06-06T01:43:54Z</updated>
+    <id>tag:github.com,2022-06-06:/lucasvegi/Elixir-Code-Smells</id>
+    <link href="https://github.com/lucasvegi/Elixir-Code-Smells" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catalog of Elixir-specific code smells&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>absinthe-graphql/absinthe</title>
-    <updated>2022-06-05T01:41:44Z</updated>
-    <id>tag:github.com,2022-06-05:/absinthe-graphql/absinthe</id>
-    <link href="https://github.com/absinthe-graphql/absinthe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The GraphQL toolkit for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lucaong/cubdb</title>
+    <updated>2022-06-06T01:43:54Z</updated>
+    <id>tag:github.com,2022-06-06:/lucaong/cubdb</id>
+    <link href="https://github.com/lucaong/cubdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir embedded key/value database&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Liquid Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:48:41Z</updated>
+  <updated>2022-06-06T01:51:10Z</updated>
   <subtitle>Daily Trending of Liquid in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sylhare/Type-on-Strap</title>
-    <updated>2022-06-05T01:48:41Z</updated>
-    <id>tag:github.com,2022-06-05:/sylhare/Type-on-Strap</id>
-    <link href="https://github.com/sylhare/Type-on-Strap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎨 Simplistic, responsive jekyll based open source theme&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uicrooks/shopify-foundation-theme</title>
+    <updated>2022-06-06T01:51:10Z</updated>
+    <id>tag:github.com,2022-06-06:/uicrooks/shopify-foundation-theme</id>
+    <link href="https://github.com/uicrooks/shopify-foundation-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern Shopify theme using Shopify Theme Lab, Liquid, Vue and Tailwind CSS 🎨&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

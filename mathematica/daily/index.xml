@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:49:31Z</updated>
+  <updated>2022-06-06T01:52:03Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pantor/ruckig</title>
+    <updated>2022-06-06T01:52:03Z</updated>
+    <id>tag:github.com,2022-06-06:/pantor/ruckig</id>
+    <link href="https://github.com/pantor/ruckig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Motion Generation for Robots and Machines. Real-time. Jerk-constrained. Time-optimal.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Brackeys/Health-Bar</title>
+    <updated>2022-06-06T01:52:03Z</updated>
+    <id>tag:github.com,2022-06-06:/Brackeys/Health-Bar</id>
+    <link href="https://github.com/Brackeys/Health-Bar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project files for our tutorial on how to create a health bar in Unity.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

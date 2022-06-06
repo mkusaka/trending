@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:50:42Z</updated>
+  <updated>2022-06-06T01:53:14Z</updated>
   <subtitle>Daily Trending of NASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BachiLi/redner</title>
+    <updated>2022-06-06T01:53:14Z</updated>
+    <id>tag:github.com,2022-06-06:/BachiLi/redner</id>
+    <link href="https://github.com/BachiLi/redner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Differentiable rendering without approximation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>STMicroelectronics/meta-st-stm32mp</title>
+    <updated>2022-06-06T01:53:14Z</updated>
+    <id>tag:github.com,2022-06-06:/STMicroelectronics/meta-st-stm32mp</id>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;meta-st-stm32mp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

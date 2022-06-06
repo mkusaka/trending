@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Forth Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:43:11Z</updated>
+  <updated>2022-06-06T01:45:21Z</updated>
   <subtitle>Daily Trending of Forth in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bewest/amforth</title>
-    <updated>2022-06-05T01:43:11Z</updated>
-    <id>tag:github.com,2022-06-05:/bewest/amforth</id>
-    <link href="https://github.com/bewest/amforth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;git svn clone of sourceforge/svn amforth&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>schierlm/collapseos-uxn</title>
-    <updated>2022-06-05T01:43:11Z</updated>
-    <id>tag:github.com,2022-06-05:/schierlm/collapseos-uxn</id>
-    <link href="https://github.com/schierlm/collapseos-uxn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Port of CollapseOS to uxn Tal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

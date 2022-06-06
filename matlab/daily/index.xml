@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:49:44Z</updated>
+  <updated>2022-06-06T01:52:15Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BIMK/PlatEMO</title>
-    <updated>2022-06-05T01:49:44Z</updated>
-    <id>tag:github.com,2022-06-05:/BIMK/PlatEMO</id>
-    <link href="https://github.com/BIMK/PlatEMO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Evolutionary multi-objective optimization platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>personqianduixue/Math_Model</title>
+    <updated>2022-06-06T01:52:15Z</updated>
+    <id>tag:github.com,2022-06-06:/personqianduixue/Math_Model</id>
+    <link href="https://github.com/personqianduixue/Math_Model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>VincentWong3/automatic-driving-decision-and-planning-for-matlab</title>
-    <updated>2022-06-05T01:49:44Z</updated>
-    <id>tag:github.com,2022-06-05:/VincentWong3/automatic-driving-decision-and-planning-for-matlab</id>
-    <link href="https://github.com/VincentWong3/automatic-driving-decision-and-planning-for-matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>petercorke/robotics-toolbox-matlab</title>
+    <updated>2022-06-06T01:52:15Z</updated>
+    <id>tag:github.com,2022-06-06:/petercorke/robotics-toolbox-matlab</id>
+    <link href="https://github.com/petercorke/robotics-toolbox-matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robotics Toolbox for MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HuangCongQing/Algorithms_MathModels</title>
+    <updated>2022-06-06T01:52:15Z</updated>
+    <id>tag:github.com,2022-06-06:/HuangCongQing/Algorithms_MathModels</id>
+    <link href="https://github.com/HuangCongQing/Algorithms_MathModels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

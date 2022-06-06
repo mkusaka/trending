@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T02:02:09Z</updated>
+  <updated>2022-06-06T02:04:35Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kdchambers/music_player</title>
-    <updated>2022-06-05T02:02:09Z</updated>
-    <id>tag:github.com,2022-06-05:/kdchambers/music_player</id>
-    <link href="https://github.com/kdchambers/music_player" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo music player written in zig&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ifreund/zig-xkbcommon</title>
+    <updated>2022-06-06T02:04:35Z</updated>
+    <id>tag:github.com,2022-06-06:/ifreund/zig-xkbcommon</id>
+    <link href="https://github.com/ifreund/zig-xkbcommon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig bindings for xkbcommon&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ifreund/zig-wayland</title>
+    <updated>2022-06-06T02:04:35Z</updated>
+    <id>tag:github.com,2022-06-06:/ifreund/zig-wayland</id>
+    <link href="https://github.com/ifreund/zig-wayland" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig wayland scanner and libwayland bindings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>swaywm/zig-wlroots</title>
+    <updated>2022-06-06T02:04:35Z</updated>
+    <id>tag:github.com,2022-06-06:/swaywm/zig-wlroots</id>
+    <link href="https://github.com/swaywm/zig-wlroots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig bindings for wlroots&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

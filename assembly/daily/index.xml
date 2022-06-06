@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:36:11Z</updated>
+  <updated>2022-06-06T01:38:34Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bitonic/pipes-speed-test</title>
-    <updated>2022-06-05T01:36:11Z</updated>
-    <id>tag:github.com,2022-06-05:/bitonic/pipes-speed-test</id>
-    <link href="https://github.com/bitonic/pipes-speed-test" rel="alternate"></link>
+    <title>AOSP-Krypton/bionic</title>
+    <updated>2022-06-06T01:38:34Z</updated>
+    <id>tag:github.com,2022-06-06:/AOSP-Krypton/bionic</id>
+    <link href="https://github.com/AOSP-Krypton/bionic" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xiph/rav1e</title>
-    <updated>2022-06-05T01:36:11Z</updated>
-    <id>tag:github.com,2022-06-05:/xiph/rav1e</id>
-    <link href="https://github.com/xiph/rav1e" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The fastest and safest AV1 encoder.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JSsixtyfour/smashremix</title>
+    <updated>2022-06-06T01:38:34Z</updated>
+    <id>tag:github.com,2022-06-06:/JSsixtyfour/smashremix</id>
+    <link href="https://github.com/JSsixtyfour/smashremix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openhwgroup/core-v-verif</title>
-    <updated>2022-06-05T01:36:11Z</updated>
-    <id>tag:github.com,2022-06-05:/openhwgroup/core-v-verif</id>
-    <link href="https://github.com/openhwgroup/core-v-verif" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functional verification project for the CORE-V family of RISC-V cores.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mathiasvr/bluejay</title>
+    <updated>2022-06-06T01:38:34Z</updated>
+    <id>tag:github.com,2022-06-06:/mathiasvr/bluejay</id>
+    <link href="https://github.com/mathiasvr/bluejay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐦 Digital ESC firmware for controlling brushless motors in multirotors&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T02:00:44Z</updated>
+  <updated>2022-06-06T02:03:06Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mhinz/vim-startify</title>
-    <updated>2022-06-05T02:00:44Z</updated>
-    <id>tag:github.com,2022-06-05:/mhinz/vim-startify</id>
-    <link href="https://github.com/mhinz/vim-startify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔗 The fancy start screen for Vim.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itchyny/lightline.vim</title>
+    <updated>2022-06-06T02:03:06Z</updated>
+    <id>tag:github.com,2022-06-06:/itchyny/lightline.vim</id>
+    <link href="https://github.com/itchyny/lightline.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A light and configurable statusline/tabline plugin for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>junegunn/vim-plug</title>
-    <updated>2022-06-05T02:00:44Z</updated>
-    <id>tag:github.com,2022-06-05:/junegunn/vim-plug</id>
-    <link href="https://github.com/junegunn/vim-plug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌺 Minimalist Vim Plugin Manager&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/rust.vim</title>
+    <updated>2022-06-06T02:03:06Z</updated>
+    <id>tag:github.com,2022-06-06:/rust-lang/rust.vim</id>
+    <link href="https://github.com/rust-lang/rust.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>theniceboy/nvim</title>
-    <updated>2022-06-05T02:00:44Z</updated>
-    <id>tag:github.com,2022-06-05:/theniceboy/nvim</id>
-    <link href="https://github.com/theniceboy/nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Ultimate NeoVim Config for Colemak Users&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>junegunn/goyo.vim</title>
+    <updated>2022-06-06T02:03:06Z</updated>
+    <id>tag:github.com,2022-06-06:/junegunn/goyo.vim</id>
+    <link href="https://github.com/junegunn/goyo.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌷 Distraction-free writing in Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

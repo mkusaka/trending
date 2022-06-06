@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Yacc Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T02:01:55Z</updated>
+  <updated>2022-06-06T02:04:12Z</updated>
   <subtitle>Daily Trending of Yacc in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cznic/parser</title>
-    <updated>2022-06-05T02:01:55Z</updated>
-    <id>tag:github.com,2022-06-05:/cznic/parser</id>
-    <link href="https://github.com/cznic/parser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;github.com/cznic/parser has moved to modernc.org/parser&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

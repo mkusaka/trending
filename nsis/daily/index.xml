@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NSIS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:51:28Z</updated>
+  <updated>2022-06-06T01:53:58Z</updated>
   <subtitle>Daily Trending of NSIS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devkitPro/installer</title>
-    <updated>2022-06-05T01:51:28Z</updated>
-    <id>tag:github.com,2022-06-05:/devkitPro/installer</id>
-    <link href="https://github.com/devkitPro/installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>da2x/EdgeDeflector</title>
+    <updated>2022-06-06T01:53:58Z</updated>
+    <id>tag:github.com,2022-06-06:/da2x/EdgeDeflector</id>
+    <link href="https://github.com/da2x/EdgeDeflector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OpenVPN/openvpn-build</title>
-    <updated>2022-06-05T01:51:28Z</updated>
-    <id>tag:github.com,2022-06-05:/OpenVPN/openvpn-build</id>
-    <link href="https://github.com/OpenVPN/openvpn-build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenVPN Build&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TASEmulators/BizHawk-Prereqs</title>
+    <updated>2022-06-06T01:53:58Z</updated>
+    <id>tag:github.com,2022-06-06:/TASEmulators/BizHawk-Prereqs</id>
+    <link href="https://github.com/TASEmulators/BizHawk-Prereqs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BizHawk Prerequisite Installer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

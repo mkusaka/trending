@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ZenScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T02:02:13Z</updated>
+  <updated>2022-06-06T02:04:33Z</updated>
   <subtitle>Daily Trending of ZenScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TCreopargh/GreedyCraft</title>
-    <updated>2022-06-05T02:02:13Z</updated>
-    <id>tag:github.com,2022-06-05:/TCreopargh/GreedyCraft</id>
-    <link href="https://github.com/TCreopargh/GreedyCraft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mega hybrid Minecraft modpack with over 530 loaded mods.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DarkPacks/SevTech-Ages</title>
+    <updated>2022-06-06T02:04:33Z</updated>
+    <id>tag:github.com,2022-06-06:/DarkPacks/SevTech-Ages</id>
+    <link href="https://github.com/DarkPacks/SevTech-Ages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SevTech: Ages is a massive Minecraft modpack packed with content and progression.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mahjerion/Craft-to-Exile-Dissonance</title>
-    <updated>2022-06-05T02:02:13Z</updated>
-    <id>tag:github.com,2022-06-05:/mahjerion/Craft-to-Exile-Dissonance</id>
-    <link href="https://github.com/mahjerion/Craft-to-Exile-Dissonance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Minecraft modpack that aims to turn MC into an ARPG similar to Path of Exile and Diablo II. Focused progression and exploration is the main goal of the modpack.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DarkPacks/SkyFactory-4</title>
+    <updated>2022-06-06T02:04:33Z</updated>
+    <id>tag:github.com,2022-06-06:/DarkPacks/SkyFactory-4</id>
+    <link href="https://github.com/DarkPacks/SkyFactory-4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SkyFactory 4 offers a brand-new experience never before seen in the series. Full automation, tech, magic, and bacon resources! This iteration offers over 30+ world types so you can play the pack like never before!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EnigmaticaModpacks/Enigmatica2</title>
+    <updated>2022-06-06T02:04:33Z</updated>
+    <id>tag:github.com,2022-06-06:/EnigmaticaModpacks/Enigmatica2</id>
+    <link href="https://github.com/EnigmaticaModpacks/Enigmatica2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official repository and issue-tracker for Enigmatica 2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

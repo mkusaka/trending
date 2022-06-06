@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:36:30Z</updated>
+  <updated>2022-06-06T01:38:54Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Harchanel15/RDP-BULAN-JUNI-BY-HAR-CHANEL</title>
-    <updated>2022-06-05T01:36:30Z</updated>
-    <id>tag:github.com,2022-06-05:/Harchanel15/RDP-BULAN-JUNI-BY-HAR-CHANEL</id>
-    <link href="https://github.com/Harchanel15/RDP-BULAN-JUNI-BY-HAR-CHANEL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gunakan sebaik mungkin dan jangan lupa subscribe Channel Har Chanel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Atlas-OS/Atlas</title>
+    <updated>2022-06-06T01:38:54Z</updated>
+    <id>tag:github.com,2022-06-06:/Atlas-OS/Atlas</id>
+    <link href="https://github.com/Atlas-OS/Atlas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open source modification of the Windows 10 operating system, designed to optimize performance, and latency.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lesuixin/Hearthstone-Hearthbuddy</title>
-    <updated>2022-06-05T01:36:30Z</updated>
-    <id>tag:github.com,2022-06-05:/lesuixin/Hearthstone-Hearthbuddy</id>
-    <link href="https://github.com/lesuixin/Hearthstone-Hearthbuddy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hearthstone 炉石传说 Hearthbuddy 炉石兄弟&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sr2echa/Monotone-HWID-Spoofer</title>
+    <updated>2022-06-06T01:38:54Z</updated>
+    <id>tag:github.com,2022-06-06:/sr2echa/Monotone-HWID-Spoofer</id>
+    <link href="https://github.com/sr2echa/Monotone-HWID-Spoofer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom Created Hardware ID Spoofer to Bypass Hardware or IP Bans&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Rdprepogithub01/Rdp</title>
-    <updated>2022-06-05T01:36:30Z</updated>
-    <id>tag:github.com,2022-06-05:/Rdprepogithub01/Rdp</id>
-    <link href="https://github.com/Rdprepogithub01/Rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>K3V1991/ADB-and-FastbootPlusPlus</title>
+    <updated>2022-06-06T01:38:54Z</updated>
+    <id>tag:github.com,2022-06-06:/K3V1991/ADB-and-FastbootPlusPlus</id>
+    <link href="https://github.com/K3V1991/ADB-and-FastbootPlusPlus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small Application for Windows that allows you to install the latest Version of ADB and Fastboot Files on the Computer without installing the entire Android SDK Package + Toolkit &amp; Commands&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

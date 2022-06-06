@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:38:26Z</updated>
+  <updated>2022-06-06T01:40:39Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>babashka/cli</title>
-    <updated>2022-06-05T01:38:26Z</updated>
-    <id>tag:github.com,2022-06-05:/babashka/cli</id>
-    <link href="https://github.com/babashka/cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Turn Clojure functions into CLIs!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure-finance/clojask</title>
+    <updated>2022-06-06T01:40:39Z</updated>
+    <id>tag:github.com,2022-06-06:/clojure-finance/clojask</id>
+    <link href="https://github.com/clojure-finance/clojask" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojask: Clojure data frame with parallel computing on larger-than-memory datasets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kaitanie/joblog</title>
-    <updated>2022-06-05T01:38:26Z</updated>
-    <id>tag:github.com,2022-06-05:/kaitanie/joblog</id>
-    <link href="https://github.com/kaitanie/joblog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exoscale/tools.project</title>
+    <updated>2022-06-06T01:40:39Z</updated>
+    <id>tag:github.com,2022-06-06:/exoscale/tools.project</id>
+    <link href="https://github.com/exoscale/tools.project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helpers to work with our tools.deps projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thheller/shadow-cljs</title>
-    <updated>2022-06-05T01:38:26Z</updated>
-    <id>tag:github.com,2022-06-05:/thheller/shadow-cljs</id>
-    <link href="https://github.com/thheller/shadow-cljs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ClojureScript compilation made easy&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure/tools.tools</title>
+    <updated>2022-06-06T01:40:39Z</updated>
+    <id>tag:github.com,2022-06-06:/clojure/tools.tools</id>
+    <link href="https://github.com/clojure/tools.tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure CLI tool for managing Clojure CLI tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

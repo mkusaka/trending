@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:59:42Z</updated>
+  <updated>2022-06-06T02:02:04Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TdP-esami/2019-09-03-JDK11</title>
-    <updated>2022-06-05T01:59:42Z</updated>
-    <id>tag:github.com,2022-06-05:/TdP-esami/2019-09-03-JDK11</id>
-    <link href="https://github.com/TdP-esami/2019-09-03-JDK11" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Versione aggiornata a JDK11 del tema d&#39;esame 2019-09-03&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LiuKay/WareHouseManagSys</title>
-    <updated>2022-06-05T01:59:42Z</updated>
-    <id>tag:github.com,2022-06-05:/LiuKay/WareHouseManagSys</id>
-    <link href="https://github.com/LiuKay/WareHouseManagSys" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;仓库管理系统文件：截图，SQL，源代码&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

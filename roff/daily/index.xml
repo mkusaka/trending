@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:55:57Z</updated>
+  <updated>2022-06-06T01:58:15Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>edk2-porting/WOA-Drivers</title>
-    <updated>2022-06-05T01:55:57Z</updated>
-    <id>tag:github.com,2022-06-05:/edk2-porting/WOA-Drivers</id>
-    <link href="https://github.com/edk2-porting/WOA-Drivers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows Drivers for Qualcomm Snapdragon platforms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lydrainbowcat/tedukuri</title>
+    <updated>2022-06-06T01:58:15Z</updated>
+    <id>tag:github.com,2022-06-06:/lydrainbowcat/tedukuri</id>
+    <link href="https://github.com/lydrainbowcat/tedukuri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《算法竞赛进阶指南》资源社区&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>slimm609/checksec.sh</title>
-    <updated>2022-06-05T01:55:57Z</updated>
-    <id>tag:github.com,2022-06-05:/slimm609/checksec.sh</id>
-    <link href="https://github.com/slimm609/checksec.sh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Checksec.sh&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nwoolls/MultiMiner</title>
+    <updated>2022-06-06T01:58:15Z</updated>
+    <id>tag:github.com,2022-06-06:/nwoolls/MultiMiner</id>
+    <link href="https://github.com/nwoolls/MultiMiner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graphical application for crypto-coin mining&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

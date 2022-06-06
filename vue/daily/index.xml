@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T02:00:54Z</updated>
+  <updated>2022-06-06T02:03:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>histoire-dev/histoire</title>
-    <updated>2022-06-05T02:00:54Z</updated>
-    <id>tag:github.com,2022-06-05:/histoire-dev/histoire</id>
-    <link href="https://github.com/histoire-dev/histoire" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ Fast and beautiful interactive component playgrounds, powered by Vite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mainsail-crew/mainsail</title>
+    <updated>2022-06-06T02:03:15Z</updated>
+    <id>tag:github.com,2022-06-06:/mainsail-crew/mainsail</id>
+    <link href="https://github.com/mainsail-crew/mainsail" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mainsail is the popular web interface for Klipper&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>snapshot-labs/snapshot</title>
-    <updated>2022-06-05T02:00:54Z</updated>
-    <id>tag:github.com,2022-06-05:/snapshot-labs/snapshot</id>
-    <link href="https://github.com/snapshot-labs/snapshot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Off-chain gasless multi-governance client. Join us on Discord https://discord.gg/snapshot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TeamPiped/Piped</title>
+    <updated>2022-06-06T02:03:15Z</updated>
+    <id>tag:github.com,2022-06-06:/TeamPiped/Piped</id>
+    <link href="https://github.com/TeamPiped/Piped" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An alternative privacy-friendly YouTube frontend which is efficient by design.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gs-shop/vue-slick-carousel</title>
-    <updated>2022-06-05T02:00:54Z</updated>
-    <id>tag:github.com,2022-06-05:/gs-shop/vue-slick-carousel</id>
-    <link href="https://github.com/gs-shop/vue-slick-carousel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚥Vue Slick Carousel with True SSR Written for ⚡Faster Luxstay&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>justboil/admin-one-vue-tailwind</title>
+    <updated>2022-06-06T02:03:15Z</updated>
+    <id>tag:github.com,2022-06-06:/justboil/admin-one-vue-tailwind</id>
+    <link href="https://github.com/justboil/admin-one-vue-tailwind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite &amp; Vue CLI supported. Laravel integration available&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:39:14Z</updated>
+  <updated>2022-06-06T01:41:25Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>postmodern/npm_scan</title>
-    <updated>2022-06-05T01:39:14Z</updated>
-    <id>tag:github.com,2022-06-05:/postmodern/npm_scan</id>
-    <link href="https://github.com/postmodern/npm_scan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scans npmjs.org for npm packages that can be taken over&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kemalcr/kemal</title>
+    <updated>2022-06-06T01:41:25Z</updated>
+    <id>tag:github.com,2022-06-06:/kemalcr/kemal</id>
+    <link href="https://github.com/kemalcr/kemal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast, Effective, Simple Web Framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

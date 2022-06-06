@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:49:29Z</updated>
+  <updated>2022-06-06T01:51:57Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KhronosGroup/Vulkan-Guide</title>
-    <updated>2022-06-05T01:49:29Z</updated>
-    <id>tag:github.com,2022-06-05:/KhronosGroup/Vulkan-Guide</id>
-    <link href="https://github.com/KhronosGroup/Vulkan-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;One stop shop for getting started with the Vulkan API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yuk7/ArchWSL</title>
+    <updated>2022-06-06T01:51:57Z</updated>
+    <id>tag:github.com,2022-06-06:/yuk7/ArchWSL</id>
+    <link href="https://github.com/yuk7/ArchWSL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ArchLinux based WSL Distribution. Supports multiple install.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matyo91/matyo91</title>
-    <updated>2022-06-05T01:49:29Z</updated>
-    <id>tag:github.com,2022-06-05:/matyo91/matyo91</id>
-    <link href="https://github.com/matyo91/matyo91" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Github Profil description&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DerpFest-12/device_qcom_sepolicy_vndr</title>
+    <updated>2022-06-06T01:51:57Z</updated>
+    <id>tag:github.com,2022-06-06:/DerpFest-12/device_qcom_sepolicy_vndr</id>
+    <link href="https://github.com/DerpFest-12/device_qcom_sepolicy_vndr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mkubecek/vmware-host-modules</title>
-    <updated>2022-06-05T01:49:29Z</updated>
-    <id>tag:github.com,2022-06-05:/mkubecek/vmware-host-modules</id>
-    <link href="https://github.com/mkubecek/vmware-host-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Patches needed to build VMware (Player and Workstation) host modules against recent kernels&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DerpFest-12/device_derp_sepolicy</title>
+    <updated>2022-06-06T01:51:57Z</updated>
+    <id>tag:github.com,2022-06-06:/DerpFest-12/device_derp_sepolicy</id>
+    <link href="https://github.com/DerpFest-12/device_derp_sepolicy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

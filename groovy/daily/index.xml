@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-05T01:45:15Z</updated>
+  <updated>2022-06-06T01:47:24Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SmartThingsCommunity/SmartThingsPublic</title>
-    <updated>2022-06-05T01:45:15Z</updated>
-    <id>tag:github.com,2022-06-05:/SmartThingsCommunity/SmartThingsPublic</id>
-    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SmartThings open-source DeviceTypeHandlers and SmartApps code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jenkinsci/pipeline-examples</title>
-    <updated>2022-06-05T01:45:15Z</updated>
-    <id>tag:github.com,2022-06-05:/jenkinsci/pipeline-examples</id>
-    <link href="https://github.com/jenkinsci/pipeline-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rbkmoney/build_utils</title>
-    <updated>2022-06-05T01:45:15Z</updated>
-    <id>tag:github.com,2022-06-05:/rbkmoney/build_utils</id>
-    <link href="https://github.com/rbkmoney/build_utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common utilities for build and CI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>micronaut-projects/micronaut-openapi</title>
+    <updated>2022-06-06T01:47:24Z</updated>
+    <id>tag:github.com,2022-06-06:/micronaut-projects/micronaut-openapi</id>
+    <link href="https://github.com/micronaut-projects/micronaut-openapi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generates OpenAPI / Swagger Documentation for Micronaut projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
