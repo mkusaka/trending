@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:57:59Z</updated>
+  <updated>2022-06-07T01:55:07Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FailedShack/USBHelperInstaller</title>
-    <updated>2022-06-06T01:57:59Z</updated>
-    <id>tag:github.com,2022-06-06:/FailedShack/USBHelperInstaller</id>
-    <link href="https://github.com/FailedShack/USBHelperInstaller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An installer for USBHelperLauncher.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nicehash/NiceHashMiner</title>
-    <updated>2022-06-06T01:57:59Z</updated>
-    <id>tag:github.com,2022-06-06:/nicehash/NiceHashMiner</id>
-    <link href="https://github.com/nicehash/NiceHashMiner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NiceHash Miner&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lenguaje-latino/latino</title>
-    <updated>2022-06-06T01:57:59Z</updated>
-    <id>tag:github.com,2022-06-06:/lenguaje-latino/latino</id>
-    <link href="https://github.com/lenguaje-latino/latino" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lenguaje de programación de código abierto para latinos y de habla hispana.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IAOldman/parallels</title>
+    <updated>2022-06-07T01:55:07Z</updated>
+    <id>tag:github.com,2022-06-07:/IAOldman/parallels</id>
+    <link href="https://github.com/IAOldman/parallels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PD Runner&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

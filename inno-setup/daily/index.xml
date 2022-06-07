@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inno Setup Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:48:49Z</updated>
+  <updated>2022-06-07T01:44:55Z</updated>
   <subtitle>Daily Trending of Inno Setup in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krypto5863/COM-Modular-Installer</title>
-    <updated>2022-06-06T01:48:49Z</updated>
-    <id>tag:github.com,2022-06-06:/krypto5863/COM-Modular-Installer</id>
-    <link href="https://github.com/krypto5863/COM-Modular-Installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo is dedicated to the COM Modular Installer. An installer built in Inno and using a C# library to extend functions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>qmk/qmk_distro_msys</title>
-    <updated>2022-06-06T01:48:49Z</updated>
-    <id>tag:github.com,2022-06-06:/qmk/qmk_distro_msys</id>
-    <link href="https://github.com/qmk/qmk_distro_msys" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Windows one-click installer for the QMK CLI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cleolibrary/CLEO-Redux</title>
-    <updated>2022-06-06T01:48:49Z</updated>
-    <id>tag:github.com,2022-06-06:/cleolibrary/CLEO-Redux</id>
-    <link href="https://github.com/cleolibrary/CLEO-Redux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental JavaScript runtime for GTA 3D era games.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>source-foundry/Hack-windows-installer</title>
+    <updated>2022-06-07T01:44:55Z</updated>
+    <id>tag:github.com,2022-06-07:/source-foundry/Hack-windows-installer</id>
+    <link href="https://github.com/source-foundry/Hack-windows-installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Windows installer for the Hack typeface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

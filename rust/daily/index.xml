@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:58:32Z</updated>
+  <updated>2022-06-07T01:55:41Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EmbarkStudios/kajiya</title>
-    <updated>2022-06-06T01:58:32Z</updated>
-    <id>tag:github.com,2022-06-06:/EmbarkStudios/kajiya</id>
-    <link href="https://github.com/EmbarkStudios/kajiya" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💡 Experimental real-time global illumination renderer 🦀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lapce/lapce</title>
+    <updated>2022-06-07T01:55:41Z</updated>
+    <id>tag:github.com,2022-06-07:/lapce/lapce</id>
+    <link href="https://github.com/lapce/lapce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightning-fast and Powerful Code Editor written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/rust-clippy</title>
-    <updated>2022-06-06T01:58:32Z</updated>
-    <id>tag:github.com,2022-06-06:/rust-lang/rust-clippy</id>
-    <link href="https://github.com/rust-lang/rust-clippy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bunch of lints to catch common mistakes and improve your Rust code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MystenLabs/sui</title>
+    <updated>2022-06-07T01:55:41Z</updated>
+    <id>tag:github.com,2022-06-07:/MystenLabs/sui</id>
+    <link href="https://github.com/MystenLabs/sui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aptos-labs/aptos-core</title>
-    <updated>2022-06-06T01:58:32Z</updated>
-    <id>tag:github.com,2022-06-06:/aptos-labs/aptos-core</id>
-    <link href="https://github.com/aptos-labs/aptos-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A layer 1 for everyone!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0x192/universal-android-debloater</title>
+    <updated>2022-06-07T01:55:41Z</updated>
+    <id>tag:github.com,2022-06-07:/0x192/universal-android-debloater</id>
+    <link href="https://github.com/0x192/universal-android-debloater" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

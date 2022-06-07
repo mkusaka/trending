@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:43:54Z</updated>
+  <updated>2022-06-07T01:40:16Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wojtekmach/mix_install_examples</title>
-    <updated>2022-06-06T01:43:54Z</updated>
-    <id>tag:github.com,2022-06-06:/wojtekmach/mix_install_examples</id>
-    <link href="https://github.com/wojtekmach/mix_install_examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of simple Elixir scripts that are using Mix.install/2.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tompave/fun_with_flags</title>
+    <updated>2022-06-07T01:40:16Z</updated>
+    <id>tag:github.com,2022-06-07:/tompave/fun_with_flags</id>
+    <link href="https://github.com/tompave/fun_with_flags" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Feature Flags/Toggles for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lucasvegi/Elixir-Code-Smells</title>
-    <updated>2022-06-06T01:43:54Z</updated>
-    <id>tag:github.com,2022-06-06:/lucasvegi/Elixir-Code-Smells</id>
-    <link href="https://github.com/lucasvegi/Elixir-Code-Smells" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Catalog of Elixir-specific code smells&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>msz/hammox</title>
+    <updated>2022-06-07T01:40:16Z</updated>
+    <id>tag:github.com,2022-06-07:/msz/hammox</id>
+    <link href="https://github.com/msz/hammox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏝 automated contract testing via type checking for Elixir functions and mocks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lucaong/cubdb</title>
-    <updated>2022-06-06T01:43:54Z</updated>
-    <id>tag:github.com,2022-06-06:/lucaong/cubdb</id>
-    <link href="https://github.com/lucaong/cubdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir embedded key/value database&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rocketseat-education/nlw-06-elixir</title>
+    <updated>2022-06-07T01:40:16Z</updated>
+    <id>tag:github.com,2022-06-07:/rocketseat-education/nlw-06-elixir</id>
+    <link href="https://github.com/rocketseat-education/nlw-06-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Projeto Wabanex&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

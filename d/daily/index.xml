@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:42:02Z</updated>
+  <updated>2022-06-07T01:38:22Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alexhairyman/dbuild</title>
-    <updated>2022-06-06T01:42:02Z</updated>
-    <id>tag:github.com,2022-06-06:/alexhairyman/dbuild</id>
-    <link href="https://github.com/alexhairyman/dbuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dbuild&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ldc-developers/ldc</title>
-    <updated>2022-06-06T01:42:02Z</updated>
-    <id>tag:github.com,2022-06-06:/ldc-developers/ldc</id>
-    <link href="https://github.com/ldc-developers/ldc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The LLVM-based D Compiler.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

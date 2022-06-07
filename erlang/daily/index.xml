@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:44:46Z</updated>
+  <updated>2022-06-07T01:41:01Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>erlang-ls/erlang_ls</title>
-    <updated>2022-06-06T01:44:46Z</updated>
-    <id>tag:github.com,2022-06-06:/erlang-ls/erlang_ls</id>
-    <link href="https://github.com/erlang-ls/erlang_ls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Erlang Language Server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>for-GET/jesse</title>
+    <updated>2022-06-07T01:41:01Z</updated>
+    <id>tag:github.com,2022-06-07:/for-GET/jesse</id>
+    <link href="https://github.com/for-GET/jesse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nomasystems/nthrottle</title>
-    <updated>2022-06-06T01:44:46Z</updated>
-    <id>tag:github.com,2022-06-06:/nomasystems/nthrottle</id>
-    <link href="https://github.com/nomasystems/nthrottle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ETS-based throttling application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uwiger/gproc</title>
+    <updated>2022-06-07T01:41:01Z</updated>
+    <id>tag:github.com,2022-06-07:/uwiger/gproc</id>
+    <link href="https://github.com/uwiger/gproc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extended process registry for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ninenines/gun</title>
-    <updated>2022-06-06T01:44:46Z</updated>
-    <id>tag:github.com,2022-06-06:/ninenines/gun</id>
-    <link href="https://github.com/ninenines/gun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ninenines/ranch</title>
+    <updated>2022-06-07T01:41:01Z</updated>
+    <id>tag:github.com,2022-06-07:/ninenines/ranch</id>
+    <link href="https://github.com/ninenines/ranch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Socket acceptor pool for TCP protocols.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

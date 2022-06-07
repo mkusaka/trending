@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:37:33Z</updated>
+  <updated>2022-06-07T01:33:41Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fumiakiy/PeatixFlashQRReader</title>
-    <updated>2022-06-06T01:37:33Z</updated>
-    <id>tag:github.com,2022-06-06:/fumiakiy/PeatixFlashQRReader</id>
-    <link href="https://github.com/fumiakiy/PeatixFlashQRReader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SonarSource/sonar-flex</title>
-    <updated>2022-06-06T01:37:33Z</updated>
-    <id>tag:github.com,2022-06-06:/SonarSource/sonar-flex</id>
-    <link href="https://github.com/SonarSource/sonar-flex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

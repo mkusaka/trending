@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:46:31Z</updated>
+  <updated>2022-06-07T01:42:38Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bambosan/bicubic-shaders-be</title>
-    <updated>2022-06-06T01:46:31Z</updated>
-    <id>tag:github.com,2022-06-06:/bambosan/bicubic-shaders-be</id>
-    <link href="https://github.com/bambosan/bicubic-shaders-be" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a resourcepack (shader) for McBE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bambosan/Nori-Shaders-BE</title>
+    <updated>2022-06-07T01:42:38Z</updated>
+    <id>tag:github.com,2022-06-07:/bambosan/Nori-Shaders-BE</id>
+    <link href="https://github.com/bambosan/Nori-Shaders-BE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a shader for minecraft be&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DerKoun/bsnes-hd</title>
-    <updated>2022-06-06T01:46:31Z</updated>
-    <id>tag:github.com,2022-06-06:/DerKoun/bsnes-hd</id>
-    <link href="https://github.com/DerKoun/bsnes-hd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;bsnes fork that adds HD video features&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>higan-emu/higan</title>
+    <updated>2022-06-07T01:42:38Z</updated>
+    <id>tag:github.com,2022-06-07:/higan-emu/higan</id>
+    <link href="https://github.com/higan-emu/higan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;higan is a multi-system emulator focused on accuracy, preservation, and configurability.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Open4Es/Open4Es-Shader-Android</title>
-    <updated>2022-06-06T01:46:31Z</updated>
-    <id>tag:github.com,2022-06-06:/Open4Es/Open4Es-Shader-Android</id>
-    <link href="https://github.com/Open4Es/Open4Es-Shader-Android" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a shader can running on Minecraft Java Edition For Phone project which uses GL4ES&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devendrn/newb-shader-mcbe</title>
+    <updated>2022-06-07T01:42:38Z</updated>
+    <id>tag:github.com,2022-06-07:/devendrn/newb-shader-mcbe</id>
+    <link href="https://github.com/devendrn/newb-shader-mcbe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An aesthetic shader for MCBE (GLSL)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

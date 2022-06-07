@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:59:42Z</updated>
+  <updated>2022-06-07T01:56:52Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cloudyuga/rsvpapp-helm-cicd</title>
-    <updated>2022-06-06T01:59:42Z</updated>
-    <id>tag:github.com,2022-06-06:/cloudyuga/rsvpapp-helm-cicd</id>
-    <link href="https://github.com/cloudyuga/rsvpapp-helm-cicd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>solo-io/gloo-install</title>
-    <updated>2022-06-06T01:59:42Z</updated>
-    <id>tag:github.com,2022-06-06:/solo-io/gloo-install</id>
-    <link href="https://github.com/solo-io/gloo-install" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts and Resources for installing gloo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>solo-io/supergloo-helm</title>
-    <updated>2022-06-06T01:59:42Z</updated>
-    <id>tag:github.com,2022-06-06:/solo-io/supergloo-helm</id>
-    <link href="https://github.com/solo-io/supergloo-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts for use with SuperGloo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

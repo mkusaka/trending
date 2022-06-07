@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:51:57Z</updated>
+  <updated>2022-06-07T01:48:06Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yuk7/ArchWSL</title>
-    <updated>2022-06-06T01:51:57Z</updated>
-    <id>tag:github.com,2022-06-06:/yuk7/ArchWSL</id>
-    <link href="https://github.com/yuk7/ArchWSL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ArchLinux based WSL Distribution. Supports multiple install.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ucan-lab/docker-laravel</title>
+    <updated>2022-06-07T01:48:06Z</updated>
+    <id>tag:github.com,2022-06-07:/ucan-lab/docker-laravel</id>
+    <link href="https://github.com/ucan-lab/docker-laravel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐳 Build a simple laravel development environment with docker-compose.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DerpFest-12/device_qcom_sepolicy_vndr</title>
-    <updated>2022-06-06T01:51:57Z</updated>
-    <id>tag:github.com,2022-06-06:/DerpFest-12/device_qcom_sepolicy_vndr</id>
-    <link href="https://github.com/DerpFest-12/device_qcom_sepolicy_vndr" rel="alternate"></link>
+    <title>AOSP-Krypton/device_qcom_sepolicy-legacy-um</title>
+    <updated>2022-06-07T01:48:06Z</updated>
+    <id>tag:github.com,2022-06-07:/AOSP-Krypton/device_qcom_sepolicy-legacy-um</id>
+    <link href="https://github.com/AOSP-Krypton/device_qcom_sepolicy-legacy-um" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DerpFest-12/device_derp_sepolicy</title>
-    <updated>2022-06-06T01:51:57Z</updated>
-    <id>tag:github.com,2022-06-06:/DerpFest-12/device_derp_sepolicy</id>
-    <link href="https://github.com/DerpFest-12/device_derp_sepolicy" rel="alternate"></link>
+    <title>AOSP-Krypton/build_make</title>
+    <updated>2022-06-07T01:48:06Z</updated>
+    <id>tag:github.com,2022-06-07:/AOSP-Krypton/build_make</id>
+    <link href="https://github.com/AOSP-Krypton/build_make" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

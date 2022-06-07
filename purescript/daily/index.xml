@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:56:50Z</updated>
+  <updated>2022-06-07T01:53:55Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript-node/purescript-node-process</title>
-    <updated>2022-06-06T01:56:50Z</updated>
-    <id>tag:github.com,2022-06-06:/purescript-node/purescript-node-process</id>
-    <link href="https://github.com/purescript-node/purescript-node-process" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Access the global Node.js process object&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-http-methods</title>
+    <updated>2022-06-07T01:53:55Z</updated>
+    <id>tag:github.com,2022-06-07:/purescript-contrib/purescript-http-methods</id>
+    <link href="https://github.com/purescript-contrib/purescript-http-methods" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTTP method type&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-node/purescript-node-streams</title>
-    <updated>2022-06-06T01:56:50Z</updated>
-    <id>tag:github.com,2022-06-06:/purescript-node/purescript-node-streams</id>
-    <link href="https://github.com/purescript-node/purescript-node-streams" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A wrapper for Node&#39;s Stream API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-affjax</title>
+    <updated>2022-06-07T01:53:55Z</updated>
+    <id>tag:github.com,2022-06-07:/purescript-contrib/purescript-affjax</id>
+    <link href="https://github.com/purescript-contrib/purescript-affjax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An asynchronous AJAX library built using Aff.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-node/purescript-node-fs</title>
-    <updated>2022-06-06T01:56:50Z</updated>
-    <id>tag:github.com,2022-06-06:/purescript-node/purescript-node-fs</id>
-    <link href="https://github.com/purescript-node/purescript-node-fs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Node.js file I/O for purescript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-web/purescript-web-xhr</title>
+    <updated>2022-06-07T01:53:55Z</updated>
+    <id>tag:github.com,2022-06-07:/purescript-web/purescript-web-xhr</id>
+    <link href="https://github.com/purescript-web/purescript-web-xhr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C XmlHttpRequest API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

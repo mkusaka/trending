@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:48:07Z</updated>
+  <updated>2022-06-07T01:44:13Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>martymcmodding/qUINT</title>
-    <updated>2022-06-06T01:48:07Z</updated>
-    <id>tag:github.com,2022-06-06:/martymcmodding/qUINT</id>
-    <link href="https://github.com/martymcmodding/qUINT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of general-purpose effects for the ReShade shader injector.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prod80/prod80-ReShade-Repository</title>
+    <updated>2022-06-07T01:44:13Z</updated>
+    <id>tag:github.com,2022-06-07:/prod80/prod80-ReShade-Repository</id>
+    <link href="https://github.com/prod80/prod80-ReShade-Repository" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Effects created for ReShade&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Mortalitas/GShade</title>
-    <updated>2022-06-06T01:48:07Z</updated>
-    <id>tag:github.com,2022-06-06:/Mortalitas/GShade</id>
-    <link href="https://github.com/Mortalitas/GShade" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GShade is a heavily modified fork of ReShade that features numerous improvements as well as a selectively-unlocked depth buffer for specific online games.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>notpeelz/reshade-xhair</title>
-    <updated>2022-06-06T01:48:07Z</updated>
-    <id>tag:github.com,2022-06-06:/notpeelz/reshade-xhair</id>
-    <link href="https://github.com/notpeelz/reshade-xhair" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A heavily customizable, fullscreen-compatible crosshair overlay for ReShade&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CeeJayDK/SweetFX</title>
+    <updated>2022-06-07T01:44:13Z</updated>
+    <id>tag:github.com,2022-06-07:/CeeJayDK/SweetFX</id>
+    <link href="https://github.com/CeeJayDK/SweetFX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

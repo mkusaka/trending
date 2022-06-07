@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:37:03Z</updated>
+  <updated>2022-06-07T01:33:13Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CSSEGISandData/COVID-19</title>
-    <updated>2022-06-06T01:37:03Z</updated>
-    <id>tag:github.com,2022-06-06:/CSSEGISandData/COVID-19</id>
-    <link href="https://github.com/CSSEGISandData/COVID-19" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>daycat/freeray</title>
+    <updated>2022-06-07T01:33:13Z</updated>
+    <id>tag:github.com,2022-06-07:/daycat/freeray</id>
+    <link href="https://github.com/daycat/freeray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;免费Clash节点，每小时自动更新，只要我github号不炸就一直能用！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>slowmist/Blockchain-dark-forest-selfguard-handbook</title>
-    <updated>2022-06-06T01:37:03Z</updated>
-    <id>tag:github.com,2022-06-06:/slowmist/Blockchain-dark-forest-selfguard-handbook</id>
-    <link href="https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LSPosed/MagiskOnWSA</title>
+    <updated>2022-06-07T01:33:13Z</updated>
+    <id>tag:github.com,2022-06-07:/LSPosed/MagiskOnWSA</id>
+    <link href="https://github.com/LSPosed/MagiskOnWSA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>snap-research/EfficientFormer</title>
-    <updated>2022-06-06T01:37:03Z</updated>
-    <id>tag:github.com,2022-06-06:/snap-research/EfficientFormer</id>
-    <link href="https://github.com/snap-research/EfficientFormer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jwasham/coding-interview-university</title>
+    <updated>2022-06-07T01:33:13Z</updated>
+    <id>tag:github.com,2022-06-07:/jwasham/coding-interview-university</id>
+    <link href="https://github.com/jwasham/coding-interview-university" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete computer science study plan to become a software engineer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

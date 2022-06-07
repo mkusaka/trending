@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T02:01:25Z</updated>
+  <updated>2022-06-07T01:58:38Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pulp-platform/axi_riscv_atomics</title>
-    <updated>2022-06-06T02:01:25Z</updated>
-    <id>tag:github.com,2022-06-06:/pulp-platform/axi_riscv_atomics</id>
-    <link href="https://github.com/pulp-platform/axi_riscv_atomics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AXI Adapter(s) for RISC-V Atomic Operations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>openhwgroup/core-v-mcu</title>
+    <updated>2022-06-07T01:58:38Z</updated>
+    <id>tag:github.com,2022-06-07:/openhwgroup/core-v-mcu</id>
+    <link href="https://github.com/openhwgroup/core-v-mcu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the CORE-V MCU project, hosting CORE-V&#39;s embedded-class cores.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pulp-platform/register_interface</title>
-    <updated>2022-06-06T02:01:25Z</updated>
-    <id>tag:github.com,2022-06-06:/pulp-platform/register_interface</id>
-    <link href="https://github.com/pulp-platform/register_interface" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generic Register Interface (contains various adatpers)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pulp-platform/apb_node</title>
+    <updated>2022-06-07T01:58:38Z</updated>
+    <id>tag:github.com,2022-06-07:/pulp-platform/apb_node</id>
+    <link href="https://github.com/pulp-platform/apb_node" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pulp-platform/apb_timer</title>
-    <updated>2022-06-06T02:01:25Z</updated>
-    <id>tag:github.com,2022-06-06:/pulp-platform/apb_timer</id>
-    <link href="https://github.com/pulp-platform/apb_timer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;APB Timer Unit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pulp-platform/riscv-dbg</title>
+    <updated>2022-06-07T01:58:38Z</updated>
+    <id>tag:github.com,2022-06-07:/pulp-platform/riscv-dbg</id>
+    <link href="https://github.com/pulp-platform/riscv-dbg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RISC-V Debug Support for our PULP RISC-V Cores&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Motoko Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:53:00Z</updated>
+  <updated>2022-06-07T01:49:20Z</updated>
   <subtitle>Daily Trending of Motoko in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Psychedelic/DIP20</title>
-    <updated>2022-06-06T01:53:00Z</updated>
-    <id>tag:github.com,2022-06-06:/Psychedelic/DIP20</id>
-    <link href="https://github.com/Psychedelic/DIP20" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DIP20: A fungible token standard for the DFINITY Internet Computer.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

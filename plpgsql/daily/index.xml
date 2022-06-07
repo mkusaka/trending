@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:55:45Z</updated>
+  <updated>2022-06-07T01:52:39Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>postgis/postgis</title>
-    <updated>2022-06-06T01:55:45Z</updated>
-    <id>tag:github.com,2022-06-06:/postgis/postgis</id>
-    <link href="https://github.com/postgis/postgis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PostGIS spatial database extension to PostgreSQL [mirror]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

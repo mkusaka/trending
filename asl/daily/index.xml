@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:38:11Z</updated>
+  <updated>2022-06-07T01:34:24Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>5T33Z0/OC-Little-Translated</title>
-    <updated>2022-06-06T01:38:11Z</updated>
-    <id>tag:github.com,2022-06-06:/5T33Z0/OC-Little-Translated</id>
-    <link href="https://github.com/5T33Z0/OC-Little-Translated" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ACPI Hotpatches and Guides for the OpenCore Bootmanager. Enhance and fine-tune your system by adding devices and enabling additional features not covered in the OpenCore Install Guide.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>acpica/acpica</title>
-    <updated>2022-06-06T01:38:11Z</updated>
-    <id>tag:github.com,2022-06-06:/acpica/acpica</id>
-    <link href="https://github.com/acpica/acpica" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The ACPI Component Architecture (ACPICA) project provides an open-source operating system-independent implementation of the Advanced Configuration and Power Interface specification (ACPI). For detailed project information and downloads, go to https://www.acpica.org. For ACPICA contributor and source code licensing information, go to&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

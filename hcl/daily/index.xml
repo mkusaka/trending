@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:47:43Z</updated>
+  <updated>2022-06-07T01:43:47Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>champ-oss/terraform-aws-vpc</title>
-    <updated>2022-06-06T01:47:43Z</updated>
-    <id>tag:github.com,2022-06-06:/champ-oss/terraform-aws-vpc</id>
-    <link href="https://github.com/champ-oss/terraform-aws-vpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates an Amazon Virtual Private Cloud&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>champ-oss/terraform-aws-ecr</title>
-    <updated>2022-06-06T01:47:43Z</updated>
-    <id>tag:github.com,2022-06-06:/champ-oss/terraform-aws-ecr</id>
-    <link href="https://github.com/champ-oss/terraform-aws-ecr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to manage Amazon Elastic Container Registry&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>champ-oss/terraform-newrelic-ping</title>
-    <updated>2022-06-06T01:47:43Z</updated>
-    <id>tag:github.com,2022-06-06:/champ-oss/terraform-newrelic-ping</id>
-    <link href="https://github.com/champ-oss/terraform-newrelic-ping" rel="alternate"></link>
+    <title>champ-oss/terraform-aws-app</title>
+    <updated>2022-06-07T01:43:47Z</updated>
+    <id>tag:github.com,2022-06-07:/champ-oss/terraform-aws-app</id>
+    <link href="https://github.com/champ-oss/terraform-aws-app" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>champ-oss/terraform-aws-core</title>
+    <updated>2022-06-07T01:43:47Z</updated>
+    <id>tag:github.com,2022-06-07:/champ-oss/terraform-aws-core</id>
+    <link href="https://github.com/champ-oss/terraform-aws-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>champ-oss/terraform-aws-acm</title>
+    <updated>2022-06-07T01:43:47Z</updated>
+    <id>tag:github.com,2022-06-07:/champ-oss/terraform-aws-acm</id>
+    <link href="https://github.com/champ-oss/terraform-aws-acm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creates a certificate using AWS Certificate Manager&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

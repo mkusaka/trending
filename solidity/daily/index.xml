@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:59:56Z</updated>
+  <updated>2022-06-07T01:57:06Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xKitsune/Foundry-Vyper</title>
-    <updated>2022-06-06T01:59:56Z</updated>
-    <id>tag:github.com,2022-06-06:/0xKitsune/Foundry-Vyper</id>
-    <link href="https://github.com/0xKitsune/Foundry-Vyper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Foundry template to compile and test Vyper contracts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>EPPR/NFT-721</title>
-    <updated>2022-06-06T01:59:56Z</updated>
-    <id>tag:github.com,2022-06-06:/EPPR/NFT-721</id>
-    <link href="https://github.com/EPPR/NFT-721" rel="alternate"></link>
+    <title>PatrickAlphaC/storage-factory-fcc</title>
+    <updated>2022-06-07T01:57:06Z</updated>
+    <id>tag:github.com,2022-06-07:/PatrickAlphaC/storage-factory-fcc</id>
+    <link href="https://github.com/PatrickAlphaC/storage-factory-fcc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>solidproof/projects</title>
-    <updated>2022-06-06T01:59:56Z</updated>
-    <id>tag:github.com,2022-06-06:/solidproof/projects</id>
-    <link href="https://github.com/solidproof/projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xKitsune/Foundry-Huff</title>
+    <updated>2022-06-07T01:57:06Z</updated>
+    <id>tag:github.com,2022-06-07:/0xKitsune/Foundry-Huff</id>
+    <link href="https://github.com/0xKitsune/Foundry-Huff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Foundry template to compile and test Huff contracts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ProjectOpenSea/seaport</title>
+    <updated>2022-06-07T01:57:06Z</updated>
+    <id>tag:github.com,2022-06-07:/ProjectOpenSea/seaport</id>
+    <link href="https://github.com/ProjectOpenSea/seaport" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

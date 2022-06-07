@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:49:40Z</updated>
+  <updated>2022-06-07T01:45:46Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jhigginbotham64/Starlight.jl</title>
-    <updated>2022-06-06T01:49:40Z</updated>
-    <id>tag:github.com,2022-06-06:/jhigginbotham64/Starlight.jl</id>
-    <link href="https://github.com/jhigginbotham64/Starlight.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A greedy game engine for greedy programmers!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ai4energy/OptControl.jl</title>
+    <updated>2022-06-07T01:45:46Z</updated>
+    <id>tag:github.com,2022-06-07:/ai4energy/OptControl.jl</id>
+    <link href="https://github.com/ai4energy/OptControl.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool to solve optimal control problem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ArbitRandomUser/julia-repl-vi</title>
-    <updated>2022-06-06T01:49:40Z</updated>
-    <id>tag:github.com,2022-06-06:/ArbitRandomUser/julia-repl-vi</id>
-    <link href="https://github.com/ArbitRandomUser/julia-repl-vi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vi like repl bindings for julia-repl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaPlots/UnicodePlots.jl</title>
-    <updated>2022-06-06T01:49:40Z</updated>
-    <id>tag:github.com,2022-06-06:/JuliaPlots/UnicodePlots.jl</id>
-    <link href="https://github.com/JuliaPlots/UnicodePlots.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unicode-based scientific plotting for working in the terminal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lorenzoh/Invariants.jl</title>
+    <updated>2022-06-07T01:45:46Z</updated>
+    <id>tag:github.com,2022-06-07:/lorenzoh/Invariants.jl</id>
+    <link href="https://github.com/lorenzoh/Invariants.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

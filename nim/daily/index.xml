@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:53:41Z</updated>
+  <updated>2022-06-07T01:50:13Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>byt3bl33d3r/OffensiveNim</title>
-    <updated>2022-06-06T01:53:41Z</updated>
-    <id>tag:github.com,2022-06-06:/byt3bl33d3r/OffensiveNim</id>
-    <link href="https://github.com/byt3bl33d3r/OffensiveNim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My experiments in weaponizing Nim (https://nim-lang.org/)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Anuken/animdustry</title>
-    <updated>2022-06-06T01:53:41Z</updated>
-    <id>tag:github.com,2022-06-06:/Anuken/animdustry</id>
-    <link href="https://github.com/Anuken/animdustry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the anime gacha rhythm game&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>treeform/pixie</title>
-    <updated>2022-06-06T01:53:41Z</updated>
-    <id>tag:github.com,2022-06-06:/treeform/pixie</id>
-    <link href="https://github.com/treeform/pixie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full-featured 2d graphics library for Nim.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

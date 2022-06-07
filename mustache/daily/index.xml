@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-06T01:53:18Z</updated>
+  <updated>2022-06-07T01:49:44Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>runatlantis/helm-charts</title>
-    <updated>2022-06-06T01:53:18Z</updated>
-    <id>tag:github.com,2022-06-06:/runatlantis/helm-charts</id>
-    <link href="https://github.com/runatlantis/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Atlantis Helm Chart&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kedacore/charts</title>
-    <updated>2022-06-06T01:53:18Z</updated>
-    <id>tag:github.com,2022-06-06:/kedacore/charts</id>
-    <link href="https://github.com/kedacore/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts for KEDA&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>javahometech/node-app</title>
-    <updated>2022-06-06T01:53:18Z</updated>
-    <id>tag:github.com,2022-06-06:/javahometech/node-app</id>
-    <link href="https://github.com/javahometech/node-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
