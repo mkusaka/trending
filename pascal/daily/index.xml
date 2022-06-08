@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:52:13Z</updated>
+  <updated>2022-06-08T01:53:39Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pyscripter/pyscripter</title>
-    <updated>2022-06-07T01:52:13Z</updated>
-    <id>tag:github.com,2022-06-07:/pyscripter/pyscripter</id>
-    <link href="https://github.com/pyscripter/pyscripter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pyscripter is a feature-rich but lightweight Python IDE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AngusJohnson/Clipper2</title>
+    <updated>2022-06-08T01:53:39Z</updated>
+    <id>tag:github.com,2022-06-08:/AngusJohnson/Clipper2</id>
+    <link href="https://github.com/AngusJohnson/Clipper2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polygon Clipping and Offsetting library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MediaArea/MediaInfo</title>
-    <updated>2022-06-07T01:52:13Z</updated>
-    <id>tag:github.com,2022-06-07:/MediaArea/MediaInfo</id>
-    <link href="https://github.com/MediaArea/MediaInfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convenient unified display of the most relevant technical and tag data for video and audio files.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wppconnect-team/WPP4Delphi</title>
+    <updated>2022-06-08T01:53:39Z</updated>
+    <id>tag:github.com,2022-06-08:/wppconnect-team/WPP4Delphi</id>
+    <link href="https://github.com/wppconnect-team/WPP4Delphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WPP4Delphi is an open-source project with the aim of exporting functions from WhatsApp Web for Delphi, which can be used to support the creation of any interaction.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

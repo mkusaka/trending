@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:56:07Z</updated>
+  <updated>2022-06-08T01:57:29Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EmielH/tale-hugo</title>
-    <updated>2022-06-07T01:56:07Z</updated>
-    <id>tag:github.com,2022-06-07:/EmielH/tale-hugo</id>
-    <link href="https://github.com/EmielH/tale-hugo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A port of the Tale theme for Hugo. Tale is a minimal theme curated for storytellers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yulijia/en</title>
+    <updated>2022-06-08T01:57:29Z</updated>
+    <id>tag:github.com,2022-06-08:/yulijia/en</id>
+    <link href="https://github.com/yulijia/en" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My English blog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jakewies/hugo-theme-codex</title>
-    <updated>2022-06-07T01:56:07Z</updated>
-    <id>tag:github.com,2022-06-07:/jakewies/hugo-theme-codex</id>
-    <link href="https://github.com/jakewies/hugo-theme-codex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimal blog theme for Hugo 🍜&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>next-step/atdd-subway-service</title>
+    <updated>2022-06-08T01:57:29Z</updated>
+    <id>tag:github.com,2022-06-08:/next-step/atdd-subway-service</id>
+    <link href="https://github.com/next-step/atdd-subway-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;우아한테크캠프 pro ATDD 과정 저장소&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LineageOS/lineage_wiki</title>
-    <updated>2022-06-07T01:56:07Z</updated>
-    <id>tag:github.com,2022-06-07:/LineageOS/lineage_wiki</id>
-    <link href="https://github.com/LineageOS/lineage_wiki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FightingDesign/fighting-design</title>
+    <updated>2022-06-08T01:57:29Z</updated>
+    <id>tag:github.com,2022-06-08:/FightingDesign/fighting-design</id>
+    <link href="https://github.com/FightingDesign/fighting-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎨 Fighting Design 是一款使用 TypeScript + Template 编写的 Vue3 轻量级组件库。（Fighting design is a Vue3 lightweight component library written with TypeScript + Template.）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

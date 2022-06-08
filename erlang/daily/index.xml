@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:41:01Z</updated>
+  <updated>2022-06-08T01:41:46Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>for-GET/jesse</title>
-    <updated>2022-06-07T01:41:01Z</updated>
-    <id>tag:github.com,2022-06-07:/for-GET/jesse</id>
-    <link href="https://github.com/for-GET/jesse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ninenines/cowlib</title>
+    <updated>2022-06-08T01:41:46Z</updated>
+    <id>tag:github.com,2022-06-08:/ninenines/cowlib</id>
+    <link href="https://github.com/ninenines/cowlib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support library for manipulating Web protocols.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>uwiger/gproc</title>
-    <updated>2022-06-07T01:41:01Z</updated>
-    <id>tag:github.com,2022-06-07:/uwiger/gproc</id>
-    <link href="https://github.com/uwiger/gproc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extended process registry for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fogfish/swirl</title>
+    <updated>2022-06-08T01:41:46Z</updated>
+    <id>tag:github.com,2022-06-08:/fogfish/swirl</id>
+    <link href="https://github.com/fogfish/swirl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;swirl is the Erlang port of whiskers.js template library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ninenines/ranch</title>
-    <updated>2022-06-07T01:41:01Z</updated>
-    <id>tag:github.com,2022-06-07:/ninenines/ranch</id>
-    <link href="https://github.com/ninenines/ranch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Socket acceptor pool for TCP protocols.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>comtihon/bson-erlang</title>
+    <updated>2022-06-08T01:41:46Z</updated>
+    <id>tag:github.com,2022-06-08:/comtihon/bson-erlang</id>
+    <link href="https://github.com/comtihon/bson-erlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BSON documents in Erlang, see bsonspec.org&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:35:14Z</updated>
+  <updated>2022-06-08T01:36:23Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps</title>
+    <updated>2022-06-08T01:36:23Z</updated>
+    <id>tag:github.com,2022-06-08:/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps</id>
+    <link href="https://github.com/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demonstration of how ASP.NET Core developers can use Azure App Configuration&#39;s Feature Flags capabilities with Azure Container App revisions to A/B test front end apps.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mspnp/aks-baseline</title>
+    <updated>2022-06-08T01:36:23Z</updated>
+    <id>tag:github.com,2022-06-08:/mspnp/aks-baseline</id>
+    <link href="https://github.com/mspnp/aks-baseline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

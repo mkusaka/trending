@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:48:06Z</updated>
+  <updated>2022-06-08T01:49:31Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ucan-lab/docker-laravel</title>
-    <updated>2022-06-07T01:48:06Z</updated>
-    <id>tag:github.com,2022-06-07:/ucan-lab/docker-laravel</id>
-    <link href="https://github.com/ucan-lab/docker-laravel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐳 Build a simple laravel development environment with docker-compose.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PartialVolume/shredos.x86_64</title>
+    <updated>2022-06-08T01:49:31Z</updated>
+    <id>tag:github.com,2022-06-08:/PartialVolume/shredos.x86_64</id>
+    <link href="https://github.com/PartialVolume/shredos.x86_64" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AOSP-Krypton/device_qcom_sepolicy-legacy-um</title>
-    <updated>2022-06-07T01:48:06Z</updated>
-    <id>tag:github.com,2022-06-07:/AOSP-Krypton/device_qcom_sepolicy-legacy-um</id>
-    <link href="https://github.com/AOSP-Krypton/device_qcom_sepolicy-legacy-um" rel="alternate"></link>
+    <title>markbates/errx</title>
+    <updated>2022-06-08T01:49:31Z</updated>
+    <id>tag:github.com,2022-06-08:/markbates/errx</id>
+    <link href="https://github.com/markbates/errx" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AOSP-Krypton/build_make</title>
-    <updated>2022-06-07T01:48:06Z</updated>
-    <id>tag:github.com,2022-06-07:/AOSP-Krypton/build_make</id>
-    <link href="https://github.com/AOSP-Krypton/build_make" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gogo/googleapis</title>
+    <updated>2022-06-08T01:49:31Z</updated>
+    <id>tag:github.com,2022-06-08:/gogo/googleapis</id>
+    <link href="https://github.com/gogo/googleapis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;googleapis generated with gogoprotobuf&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

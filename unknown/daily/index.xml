@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:33:13Z</updated>
+  <updated>2022-06-08T01:34:02Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>daycat/freeray</title>
-    <updated>2022-06-07T01:33:13Z</updated>
-    <id>tag:github.com,2022-06-07:/daycat/freeray</id>
-    <link href="https://github.com/daycat/freeray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;免费Clash节点，每小时自动更新，只要我github号不炸就一直能用！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ahmedtariq01/Cloud-DevOps-Learning-Resources</title>
+    <updated>2022-06-08T01:34:02Z</updated>
+    <id>tag:github.com,2022-06-08:/ahmedtariq01/Cloud-DevOps-Learning-Resources</id>
+    <link href="https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LSPosed/MagiskOnWSA</title>
-    <updated>2022-06-07T01:33:13Z</updated>
-    <id>tag:github.com,2022-06-07:/LSPosed/MagiskOnWSA</id>
-    <link href="https://github.com/LSPosed/MagiskOnWSA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EpicGames/Signup</title>
+    <updated>2022-06-08T01:34:02Z</updated>
+    <id>tag:github.com,2022-06-08:/EpicGames/Signup</id>
+    <link href="https://github.com/EpicGames/Signup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jwasham/coding-interview-university</title>
-    <updated>2022-06-07T01:33:13Z</updated>
-    <id>tag:github.com,2022-06-07:/jwasham/coding-interview-university</id>
-    <link href="https://github.com/jwasham/coding-interview-university" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A complete computer science study plan to become a software engineer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Fndroid/clash_for_windows_pkg</title>
+    <updated>2022-06-08T01:34:02Z</updated>
+    <id>tag:github.com,2022-06-08:/Fndroid/clash_for_windows_pkg</id>
+    <link href="https://github.com/Fndroid/clash_for_windows_pkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Windows/macOS GUI based on Clash&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

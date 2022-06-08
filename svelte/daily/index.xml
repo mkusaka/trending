@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:57:52Z</updated>
+  <updated>2022-06-08T01:59:15Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Crepe-Inc/Iridium</title>
-    <updated>2022-06-07T01:57:52Z</updated>
-    <id>tag:github.com,2022-06-07:/Crepe-Inc/Iridium</id>
-    <link href="https://github.com/Crepe-Inc/Iridium" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A KCP packet sniffer + visualizer in one&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Project-Sloth/ps-hud</title>
+    <updated>2022-06-08T01:59:15Z</updated>
+    <id>tag:github.com,2022-06-08:/Project-Sloth/ps-hud</id>
+    <link href="https://github.com/Project-Sloth/ps-hud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ultra customizable hud featuring a unique and robust settings menu. Change eveything about your experience!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>huggingface/hub-docs</title>
-    <updated>2022-06-07T01:57:52Z</updated>
-    <id>tag:github.com,2022-06-07:/huggingface/hub-docs</id>
-    <link href="https://github.com/huggingface/hub-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Frontend components, documentation and information hosted on the Hugging Face website.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ivanhofer/sveltekit-typescript-showcase</title>
-    <updated>2022-06-07T01:57:52Z</updated>
-    <id>tag:github.com,2022-06-07:/ivanhofer/sveltekit-typescript-showcase</id>
-    <link href="https://github.com/ivanhofer/sveltekit-typescript-showcase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EddieHubCommunity/good-first-issue-finder</title>
+    <updated>2022-06-08T01:59:15Z</updated>
+    <id>tag:github.com,2022-06-08:/EddieHubCommunity/good-first-issue-finder</id>
+    <link href="https://github.com/EddieHubCommunity/good-first-issue-finder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Issue-Crawler for Github based on Sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

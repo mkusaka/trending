@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:34:43Z</updated>
+  <updated>2022-06-08T01:35:47Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pooler/cpuminer</title>
-    <updated>2022-06-07T01:34:43Z</updated>
-    <id>tag:github.com,2022-06-07:/pooler/cpuminer</id>
-    <link href="https://github.com/pooler/cpuminer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CPU miner for Litecoin and Bitcoin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Cpasjuste/pemu</title>
-    <updated>2022-06-07T01:34:43Z</updated>
-    <id>tag:github.com,2022-06-07:/Cpasjuste/pemu</id>
-    <link href="https://github.com/Cpasjuste/pemu" rel="alternate"></link>
+    <title>DerpFest-12/bionic</title>
+    <updated>2022-06-08T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-08:/DerpFest-12/bionic</id>
+    <link href="https://github.com/DerpFest-12/bionic" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ActualMandM/cemu_graphic_packs</title>
-    <updated>2022-06-07T01:34:43Z</updated>
-    <id>tag:github.com,2022-06-07:/ActualMandM/cemu_graphic_packs</id>
-    <link href="https://github.com/ActualMandM/cemu_graphic_packs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community Graphic Packs for Cemu&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>klauspost/reedsolomon</title>
+    <updated>2022-06-08T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-08:/klauspost/reedsolomon</id>
+    <link href="https://github.com/klauspost/reedsolomon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reed-Solomon Erasure Coding in Go&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>algorithm-archivists/algorithm-archive</title>
+    <updated>2022-06-08T01:35:47Z</updated>
+    <id>tag:github.com,2022-06-08:/algorithm-archivists/algorithm-archive</id>
+    <link href="https://github.com/algorithm-archivists/algorithm-archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collaborative book on algorithms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:34:50Z</updated>
+  <updated>2022-06-08T01:35:56Z</updated>
   <subtitle>Daily Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SegoCode/AutoWall</title>
-    <updated>2022-06-07T01:34:50Z</updated>
-    <id>tag:github.com,2022-06-07:/SegoCode/AutoWall</id>
-    <link href="https://github.com/SegoCode/AutoWall" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌌 Live wallpapers on Windows 10/11 using open-source wallpaper engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Sunblood/D2RML</title>
-    <updated>2022-06-07T01:34:50Z</updated>
-    <id>tag:github.com,2022-06-07:/Sunblood/D2RML</id>
-    <link href="https://github.com/Sunblood/D2RML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Diablo 2 Resurrected Multilauncher&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

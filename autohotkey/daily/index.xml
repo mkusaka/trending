@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:34:53Z</updated>
+  <updated>2022-06-08T01:35:52Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>joffreybesos/d2r-mapview</title>
-    <updated>2022-06-07T01:34:53Z</updated>
-    <id>tag:github.com,2022-06-07:/joffreybesos/d2r-mapview</id>
-    <link href="https://github.com/joffreybesos/d2r-mapview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Diablo 2 Map reveal screen overlay&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheMCHK/HWIDGEN</title>
-    <updated>2022-06-07T01:34:53Z</updated>
-    <id>tag:github.com,2022-06-07:/TheMCHK/HWIDGEN</id>
-    <link href="https://github.com/TheMCHK/HWIDGEN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HWIDGEN&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DEFINITELYNOTDARKNET/Apex-Legend-No-recoil-AHK-script-2021</title>
-    <updated>2022-06-07T01:34:53Z</updated>
-    <id>tag:github.com,2022-06-07:/DEFINITELYNOTDARKNET/Apex-Legend-No-recoil-AHK-script-2021</id>
-    <link href="https://github.com/DEFINITELYNOTDARKNET/Apex-Legend-No-recoil-AHK-script-2021" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hi so I want to share this apex legend no recoil ahk script for you guys&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

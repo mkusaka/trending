@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:51:19Z</updated>
+  <updated>2022-06-08T01:52:44Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ocaml/ocaml.org</title>
-    <updated>2022-06-07T01:51:19Z</updated>
-    <id>tag:github.com,2022-06-07:/ocaml/ocaml.org</id>
-    <link href="https://github.com/ocaml/ocaml.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official OCaml website.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>melange-re/melange-basic-template</title>
-    <updated>2022-06-07T01:51:19Z</updated>
-    <id>tag:github.com,2022-06-07:/melange-re/melange-basic-template</id>
-    <link href="https://github.com/melange-re/melange-basic-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple project template using Melange&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocaml/ocaml-lsp</title>
-    <updated>2022-06-07T01:51:19Z</updated>
-    <id>tag:github.com,2022-06-07:/ocaml/ocaml-lsp</id>
-    <link href="https://github.com/ocaml/ocaml-lsp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OCaml Language Server Protocol implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>marigold-dev/deku</title>
+    <updated>2022-06-08T01:52:44Z</updated>
+    <id>tag:github.com,2022-06-08:/marigold-dev/deku</id>
+    <link href="https://github.com/marigold-dev/deku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

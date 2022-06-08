@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T02:00:37Z</updated>
+  <updated>2022-06-08T02:01:35Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CareyWang/sub-web</title>
-    <updated>2022-06-07T02:00:37Z</updated>
-    <id>tag:github.com,2022-06-07:/CareyWang/sub-web</id>
-    <link href="https://github.com/CareyWang/sub-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>beekeeper-studio/beekeeper-studio</title>
+    <updated>2022-06-08T02:01:35Z</updated>
+    <id>tag:github.com,2022-06-08:/beekeeper-studio/beekeeper-studio</id>
+    <link href="https://github.com/beekeeper-studio/beekeeper-studio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xugaoyi/vuepress-theme-vdoing</title>
-    <updated>2022-06-07T02:00:37Z</updated>
-    <id>tag:github.com,2022-06-07:/xugaoyi/vuepress-theme-vdoing</id>
-    <link href="https://github.com/xugaoyi/vuepress-theme-vdoing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀一款简洁高效的VuePress知识管理&amp;博客(blog)主题&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shfshanyue/Daily-Question</title>
+    <updated>2022-06-08T02:01:35Z</updated>
+    <id>tag:github.com,2022-06-08:/shfshanyue/Daily-Question</id>
+    <link href="https://github.com/shfshanyue/Daily-Question" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kailong321200875/vue-element-plus-admin</title>
-    <updated>2022-06-07T02:00:37Z</updated>
-    <id>tag:github.com,2022-06-07:/kailong321200875/vue-element-plus-admin</id>
-    <link href="https://github.com/kailong321200875/vue-element-plus-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of background integration scheme based on vue3, element-plus, typescript4 and vite2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>may-fly/mayfly-go</title>
+    <updated>2022-06-08T02:01:35Z</updated>
+    <id>tag:github.com,2022-06-08:/may-fly/mayfly-go</id>
+    <link href="https://github.com/may-fly/mayfly-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;简单基于DDD(领域驱动设计)分层架构实现的web版linux、mysql、redis、mongo统一管理操作平台。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

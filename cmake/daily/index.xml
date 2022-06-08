@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:37:05Z</updated>
+  <updated>2022-06-08T01:38:22Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ros-controls/control_msgs</title>
-    <updated>2022-06-07T01:37:05Z</updated>
-    <id>tag:github.com,2022-06-07:/ros-controls/control_msgs</id>
-    <link href="https://github.com/ros-controls/control_msgs" rel="alternate"></link>
+    <title>xmos/xmos_cmake_toolchain</title>
+    <updated>2022-06-08T01:38:22Z</updated>
+    <id>tag:github.com,2022-06-08:/xmos/xmos_cmake_toolchain</id>
+    <link href="https://github.com/xmos/xmos_cmake_toolchain" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>apple/swift-installer-scripts</title>
-    <updated>2022-06-07T01:37:05Z</updated>
-    <id>tag:github.com,2022-06-07:/apple/swift-installer-scripts</id>
-    <link href="https://github.com/apple/swift-installer-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GEOS-ESM/GEOSgcm</title>
+    <updated>2022-06-08T01:38:22Z</updated>
+    <id>tag:github.com,2022-06-08:/GEOS-ESM/GEOSgcm</id>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GEOS Earth System Model GEOSgcm Fixture&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>minecraft-linux/mcpelauncher-manifest</title>
-    <updated>2022-06-07T01:37:05Z</updated>
-    <id>tag:github.com,2022-06-07:/minecraft-linux/mcpelauncher-manifest</id>
-    <link href="https://github.com/minecraft-linux/mcpelauncher-manifest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gazebosim/gz-cmake</title>
+    <updated>2022-06-08T01:38:22Z</updated>
+    <id>tag:github.com,2022-06-08:/gazebosim/gz-cmake</id>
+    <link href="https://github.com/gazebosim/gz-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of CMake modules that are used by the C++-based Ignition projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

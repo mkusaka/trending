@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:42:38Z</updated>
+  <updated>2022-06-08T01:43:19Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bambosan/Nori-Shaders-BE</title>
-    <updated>2022-06-07T01:42:38Z</updated>
-    <id>tag:github.com,2022-06-07:/bambosan/Nori-Shaders-BE</id>
-    <link href="https://github.com/bambosan/Nori-Shaders-BE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a shader for minecraft be&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>higan-emu/higan</title>
-    <updated>2022-06-07T01:42:38Z</updated>
-    <id>tag:github.com,2022-06-07:/higan-emu/higan</id>
-    <link href="https://github.com/higan-emu/higan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;higan is a multi-system emulator focused on accuracy, preservation, and configurability.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>devendrn/newb-shader-mcbe</title>
-    <updated>2022-06-07T01:42:38Z</updated>
-    <id>tag:github.com,2022-06-07:/devendrn/newb-shader-mcbe</id>
-    <link href="https://github.com/devendrn/newb-shader-mcbe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An aesthetic shader for MCBE (GLSL)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

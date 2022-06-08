@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:35:04Z</updated>
+  <updated>2022-06-08T01:36:07Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bmrf/tron</title>
-    <updated>2022-06-07T01:35:04Z</updated>
-    <id>tag:github.com,2022-06-07:/bmrf/tron</id>
-    <link href="https://github.com/bmrf/tron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tron&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LordOfMice/hidusbf</title>
-    <updated>2022-06-07T01:35:04Z</updated>
-    <id>tag:github.com,2022-06-07:/LordOfMice/hidusbf</id>
-    <link href="https://github.com/LordOfMice/hidusbf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;USB Mice Overclocking Software (for Windows)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rootmelo92118/-</title>
-    <updated>2022-06-07T01:35:04Z</updated>
-    <id>tag:github.com,2022-06-07:/rootmelo92118/-</id>
-    <link href="https://github.com/rootmelo92118/-" rel="alternate"></link>
+    <title>dellanoni/RDP_FREE</title>
+    <updated>2022-06-08T01:36:07Z</updated>
+    <id>tag:github.com,2022-06-08:/dellanoni/RDP_FREE</id>
+    <link href="https://github.com/dellanoni/RDP_FREE" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thuonghoanglong/RDPngrok</title>
+    <updated>2022-06-08T01:36:07Z</updated>
+    <id>tag:github.com,2022-06-08:/thuonghoanglong/RDPngrok</id>
+    <link href="https://github.com/thuonghoanglong/RDPngrok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sagishahar/lpeworkshop</title>
+    <updated>2022-06-08T01:36:07Z</updated>
+    <id>tag:github.com,2022-06-08:/sagishahar/lpeworkshop</id>
+    <link href="https://github.com/sagishahar/lpeworkshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows / Linux Local Privilege Escalation Workshop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

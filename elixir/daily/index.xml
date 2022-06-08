@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:40:16Z</updated>
+  <updated>2022-06-08T01:41:13Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tompave/fun_with_flags</title>
-    <updated>2022-06-07T01:40:16Z</updated>
-    <id>tag:github.com,2022-06-07:/tompave/fun_with_flags</id>
-    <link href="https://github.com/tompave/fun_with_flags" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Feature Flags/Toggles for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>groxio-learning/otp_fr2</title>
+    <updated>2022-06-08T01:41:13Z</updated>
+    <id>tag:github.com,2022-06-08:/groxio-learning/otp_fr2</id>
+    <link href="https://github.com/groxio-learning/otp_fr2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Groxio OTP Course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>msz/hammox</title>
-    <updated>2022-06-07T01:40:16Z</updated>
-    <id>tag:github.com,2022-06-07:/msz/hammox</id>
-    <link href="https://github.com/msz/hammox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏝 automated contract testing via type checking for Elixir functions and mocks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>petalframework/petal_components</title>
+    <updated>2022-06-08T01:41:13Z</updated>
+    <id>tag:github.com,2022-06-08:/petalframework/petal_components</id>
+    <link href="https://github.com/petalframework/petal_components" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Phoenix + Live View HEEX Components&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rocketseat-education/nlw-06-elixir</title>
-    <updated>2022-06-07T01:40:16Z</updated>
-    <id>tag:github.com,2022-06-07:/rocketseat-education/nlw-06-elixir</id>
-    <link href="https://github.com/rocketseat-education/nlw-06-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projeto Wabanex&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fuelen/owl</title>
+    <updated>2022-06-08T01:41:13Z</updated>
+    <id>tag:github.com,2022-06-08:/fuelen/owl</id>
+    <link href="https://github.com/fuelen/owl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit for writing command-line user interfaces.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

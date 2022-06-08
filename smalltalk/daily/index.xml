@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-07T01:56:56Z</updated>
+  <updated>2022-06-08T01:58:23Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pharo-contributions/DeepTraverser</title>
-    <updated>2022-06-07T01:56:56Z</updated>
-    <id>tag:github.com,2022-06-07:/pharo-contributions/DeepTraverser</id>
-    <link href="https://github.com/pharo-contributions/DeepTraverser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DeepTraverser offers a library for traversing object graphs. It is inspired from an original implementation by Mariano Martinez Peck.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moosetechnology/PetitParser</title>
+    <updated>2022-06-08T01:58:23Z</updated>
+    <id>tag:github.com,2022-06-08:/moosetechnology/PetitParser</id>
+    <link href="https://github.com/moosetechnology/PetitParser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Petit Parser is a framework for building parsers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>svenvc/P3</title>
-    <updated>2022-06-07T01:56:56Z</updated>
-    <id>tag:github.com,2022-06-07:/svenvc/P3</id>
-    <link href="https://github.com/svenvc/P3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lean and mean PostgreSQL client for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svenvc/ston</title>
+    <updated>2022-06-08T01:58:23Z</updated>
+    <id>tag:github.com,2022-06-08:/svenvc/ston</id>
+    <link href="https://github.com/svenvc/ston" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;STON - Smalltalk Object Notation - A lightweight text-based, human-readable data interchange format for class-based object-oriented languages like Smalltalk.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SmaCCRefactoring/SmaCC</title>
-    <updated>2022-06-07T01:56:56Z</updated>
-    <id>tag:github.com,2022-06-07:/SmaCCRefactoring/SmaCC</id>
-    <link href="https://github.com/SmaCCRefactoring/SmaCC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smalltalk Compiler Compiler : a parser generator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-contributions/taskit</title>
+    <updated>2022-06-08T01:58:23Z</updated>
+    <id>tag:github.com,2022-06-08:/pharo-contributions/taskit</id>
+    <link href="https://github.com/pharo-contributions/taskit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TaskIt is a library that ease Process usage in Pharo. It provides abstractions to execute and synchronize concurrent tasks, and several pre-built mechanisms that are useful for many application developers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
