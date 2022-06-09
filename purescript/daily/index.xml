@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:55:20Z</updated>
+  <updated>2022-06-09T01:49:35Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript-contrib/purescript-aff</title>
-    <updated>2022-06-08T01:55:20Z</updated>
-    <id>tag:github.com,2022-06-08:/purescript-contrib/purescript-aff</id>
-    <link href="https://github.com/purescript-contrib/purescript-aff" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An asynchronous effect monad for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-spec/purescript-spec-quickcheck</title>
+    <updated>2022-06-09T01:49:35Z</updated>
+    <id>tag:github.com,2022-06-09:/purescript-spec/purescript-spec-quickcheck</id>
+    <link href="https://github.com/purescript-spec/purescript-spec-quickcheck" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adapter between purescript-spec and purescript-quickcheck&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-foldable-traversable</title>
-    <updated>2022-06-08T01:55:20Z</updated>
-    <id>tag:github.com,2022-06-08:/purescript/purescript-foldable-traversable</id>
-    <link href="https://github.com/purescript/purescript-foldable-traversable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Classes for foldable and traversable data structures&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-form-urlencoded</title>
+    <updated>2022-06-09T01:49:35Z</updated>
+    <id>tag:github.com,2022-06-09:/purescript-contrib/purescript-form-urlencoded</id>
+    <link href="https://github.com/purescript-contrib/purescript-form-urlencoded" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A data type, and encoding / decoding functions for application/x-www-form-urlencoded&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-foreign</title>
-    <updated>2022-06-08T01:55:20Z</updated>
-    <id>tag:github.com,2022-06-08:/purescript/purescript-foreign</id>
-    <link href="https://github.com/purescript/purescript-foreign" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for dealing with foreign data (JavaScript objects) in PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-js-uri</title>
+    <updated>2022-06-09T01:49:35Z</updated>
+    <id>tag:github.com,2022-06-09:/purescript-contrib/purescript-js-uri</id>
+    <link href="https://github.com/purescript-contrib/purescript-js-uri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;URI encoding and decoding functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

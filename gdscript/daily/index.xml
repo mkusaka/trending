@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:42:46Z</updated>
+  <updated>2022-06-09T01:39:29Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nefrace/godot-camera-preview</title>
-    <updated>2022-06-08T01:42:46Z</updated>
-    <id>tag:github.com,2022-06-08:/nefrace/godot-camera-preview</id>
-    <link href="https://github.com/nefrace/godot-camera-preview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot Engine plugin for a small window with preview of selected Camera&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quentincaffeino/godot-console</title>
+    <updated>2022-06-09T01:39:29Z</updated>
+    <id>tag:github.com,2022-06-09:/quentincaffeino/godot-console</id>
+    <link href="https://github.com/quentincaffeino/godot-console" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In-game console for Godot 3.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>this-is-bennyk/FNF-Benjine</title>
-    <updated>2022-06-08T01:42:46Z</updated>
-    <id>tag:github.com,2022-06-08:/this-is-bennyk/FNF-Benjine</id>
-    <link href="https://github.com/this-is-bennyk/FNF-Benjine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Friday Night Funkin&#39; fangame engine made with Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GDQuest/godot-steering-ai-framework</title>
-    <updated>2022-06-08T01:42:46Z</updated>
-    <id>tag:github.com,2022-06-08:/GDQuest/godot-steering-ai-framework</id>
-    <link href="https://github.com/GDQuest/godot-steering-ai-framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A complete framework for Godot to create beautiful and complex AI motion. Works both in 2D and in 3D.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fbcosentino/godot-simplified-flightsim</title>
+    <updated>2022-06-09T01:39:29Z</updated>
+    <id>tag:github.com,2022-06-09:/fbcosentino/godot-simplified-flightsim</id>
+    <link href="https://github.com/fbcosentino/godot-simplified-flightsim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplified Flight Simulation library (addon) for Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

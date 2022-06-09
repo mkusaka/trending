@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:52:07Z</updated>
+  <updated>2022-06-09T01:46:43Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FreeMEM/posadasparty2022</title>
+    <updated>2022-06-09T01:46:43Z</updated>
+    <id>tag:github.com,2022-06-09:/FreeMEM/posadasparty2022</id>
+    <link href="https://github.com/FreeMEM/posadasparty2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>5t3ph/smolcss</title>
+    <updated>2022-06-09T01:46:43Z</updated>
+    <id>tag:github.com,2022-06-09:/5t3ph/smolcss</id>
+    <link href="https://github.com/5t3ph/smolcss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal snippets for modern CSS layouts and components&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

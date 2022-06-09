@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:36:07Z</updated>
+  <updated>2022-06-09T01:33:33Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dellanoni/RDP_FREE</title>
-    <updated>2022-06-08T01:36:07Z</updated>
-    <id>tag:github.com,2022-06-08:/dellanoni/RDP_FREE</id>
-    <link href="https://github.com/dellanoni/RDP_FREE" rel="alternate"></link>
+    <title>MuhamadMtrosymuhamad/RDP_FREE-2022</title>
+    <updated>2022-06-09T01:33:33Z</updated>
+    <id>tag:github.com,2022-06-09:/MuhamadMtrosymuhamad/RDP_FREE-2022</id>
+    <link href="https://github.com/MuhamadMtrosymuhamad/RDP_FREE-2022" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thuonghoanglong/RDPngrok</title>
-    <updated>2022-06-08T01:36:07Z</updated>
-    <id>tag:github.com,2022-06-08:/thuonghoanglong/RDPngrok</id>
-    <link href="https://github.com/thuonghoanglong/RDPngrok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>voletro/wsa-toolbox</title>
+    <updated>2022-06-09T01:33:33Z</updated>
+    <id>tag:github.com,2022-06-09:/voletro/wsa-toolbox</id>
+    <link href="https://github.com/voletro/wsa-toolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sagishahar/lpeworkshop</title>
-    <updated>2022-06-08T01:36:07Z</updated>
-    <id>tag:github.com,2022-06-08:/sagishahar/lpeworkshop</id>
-    <link href="https://github.com/sagishahar/lpeworkshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows / Linux Local Privilege Escalation Workshop&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SanGraphic/QuickBoost</title>
+    <updated>2022-06-09T01:33:33Z</updated>
+    <id>tag:github.com,2022-06-09:/SanGraphic/QuickBoost</id>
+    <link href="https://github.com/SanGraphic/QuickBoost" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automated Windows 10 / 11 Tweaking Utility&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

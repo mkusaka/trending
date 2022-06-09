@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T02:02:46Z</updated>
+  <updated>2022-06-09T01:57:00Z</updated>
   <subtitle>Daily Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>th3b3ginn3r/CVE-2022-26134-Exploit-Detection</title>
-    <updated>2022-06-08T02:02:46Z</updated>
-    <id>tag:github.com,2022-06-08:/th3b3ginn3r/CVE-2022-26134-Exploit-Detection</id>
-    <link href="https://github.com/th3b3ginn3r/CVE-2022-26134-Exploit-Detection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains Yara rule and the method that a security investigator may want to use for CVE-2022-26134 threat hunting on their Linux confluence servers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

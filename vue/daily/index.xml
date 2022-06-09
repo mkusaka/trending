@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T02:01:35Z</updated>
+  <updated>2022-06-09T01:55:52Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>beekeeper-studio/beekeeper-studio</title>
-    <updated>2022-06-08T02:01:35Z</updated>
-    <id>tag:github.com,2022-06-08:/beekeeper-studio/beekeeper-studio</id>
-    <link href="https://github.com/beekeeper-studio/beekeeper-studio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bailicangdu/vue2-elm</title>
+    <updated>2022-06-09T01:55:52Z</updated>
+    <id>tag:github.com,2022-06-09:/bailicangdu/vue2-elm</id>
+    <link href="https://github.com/bailicangdu/vue2-elm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shfshanyue/Daily-Question</title>
-    <updated>2022-06-08T02:01:35Z</updated>
-    <id>tag:github.com,2022-06-08:/shfshanyue/Daily-Question</id>
-    <link href="https://github.com/shfshanyue/Daily-Question" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>honghuangdc/soybean-admin</title>
+    <updated>2022-06-09T01:55:52Z</updated>
+    <id>tag:github.com,2022-06-09:/honghuangdc/soybean-admin</id>
+    <link href="https://github.com/honghuangdc/soybean-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;soybean admin - a beautiful vue admin template, based on Vue3、Vite、Naive UI、TypeScript. 基于Vite + Vue3 + NaiveUI + TypeScript的漂亮清新的中后台管理模版&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>may-fly/mayfly-go</title>
-    <updated>2022-06-08T02:01:35Z</updated>
-    <id>tag:github.com,2022-06-08:/may-fly/mayfly-go</id>
-    <link href="https://github.com/may-fly/mayfly-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;简单基于DDD(领域驱动设计)分层架构实现的web版linux、mysql、redis、mongo统一管理操作平台。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>weilanwl/ColorUI</title>
+    <updated>2022-06-09T01:55:52Z</updated>
+    <id>tag:github.com,2022-06-09:/weilanwl/ColorUI</id>
+    <link href="https://github.com/weilanwl/ColorUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;鲜亮的高饱和色彩，专注视觉的小程序组件库&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

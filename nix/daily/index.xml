@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:51:48Z</updated>
+  <updated>2022-06-09T01:46:28Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>input-output-hk/haskell.nix</title>
+    <updated>2022-06-09T01:46:28Z</updated>
+    <id>tag:github.com,2022-06-09:/input-output-hk/haskell.nix</id>
+    <link href="https://github.com/input-output-hk/haskell.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alternative Haskell Infrastructure for Nixpkgs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>numtide/devshell</title>
+    <updated>2022-06-09T01:46:28Z</updated>
+    <id>tag:github.com,2022-06-09:/numtide/devshell</id>
+    <link href="https://github.com/numtide/devshell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Per project developer environments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BentonEdmondson/knock</title>
+    <updated>2022-06-09T01:46:28Z</updated>
+    <id>tag:github.com,2022-06-09:/BentonEdmondson/knock</id>
+    <link href="https://github.com/BentonEdmondson/knock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert ACSM files to PDFs/EPUBs with one command on Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T02:01:00Z</updated>
+  <updated>2022-06-09T01:55:23Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tkashkin/GameHub</title>
-    <updated>2022-06-08T02:01:00Z</updated>
-    <id>tag:github.com,2022-06-08:/tkashkin/GameHub</id>
-    <link href="https://github.com/tkashkin/GameHub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All your games in one place&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:38:22Z</updated>
+  <updated>2022-06-09T01:35:21Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xmos/xmos_cmake_toolchain</title>
-    <updated>2022-06-08T01:38:22Z</updated>
-    <id>tag:github.com,2022-06-08:/xmos/xmos_cmake_toolchain</id>
-    <link href="https://github.com/xmos/xmos_cmake_toolchain" rel="alternate"></link>
+    <title>ros-planning/navigation_msgs</title>
+    <updated>2022-06-09T01:35:21Z</updated>
+    <id>tag:github.com,2022-06-09:/ros-planning/navigation_msgs</id>
+    <link href="https://github.com/ros-planning/navigation_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Message packages required by the navigation stack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eve-autonomy/proj_launch</title>
+    <updated>2022-06-09T01:35:21Z</updated>
+    <id>tag:github.com,2022-06-09:/eve-autonomy/proj_launch</id>
+    <link href="https://github.com/eve-autonomy/proj_launch" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GEOS-ESM/GEOSgcm</title>
-    <updated>2022-06-08T01:38:22Z</updated>
-    <id>tag:github.com,2022-06-08:/GEOS-ESM/GEOSgcm</id>
-    <link href="https://github.com/GEOS-ESM/GEOSgcm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GEOS Earth System Model GEOSgcm Fixture&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gazebosim/gz-cmake</title>
-    <updated>2022-06-08T01:38:22Z</updated>
-    <id>tag:github.com,2022-06-08:/gazebosim/gz-cmake</id>
-    <link href="https://github.com/gazebosim/gz-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of CMake modules that are used by the C++-based Ignition projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eve-autonomy/go_interface_msgs</title>
+    <updated>2022-06-09T01:35:21Z</updated>
+    <id>tag:github.com,2022-06-09:/eve-autonomy/go_interface_msgs</id>
+    <link href="https://github.com/eve-autonomy/go_interface_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

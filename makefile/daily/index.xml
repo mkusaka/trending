@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:49:31Z</updated>
+  <updated>2022-06-09T01:44:39Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PartialVolume/shredos.x86_64</title>
-    <updated>2022-06-08T01:49:31Z</updated>
-    <id>tag:github.com,2022-06-08:/PartialVolume/shredos.x86_64</id>
-    <link href="https://github.com/PartialVolume/shredos.x86_64" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nestlabs/nlunit-test</title>
+    <updated>2022-06-09T01:44:39Z</updated>
+    <id>tag:github.com,2022-06-09:/nestlabs/nlunit-test</id>
+    <link href="https://github.com/nestlabs/nlunit-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nest Labs Unit Test (nlunit-test) is a simple, portable unit test suite framework, capable of running on just about any system, no matter how constrained and depends only on the C Standard Library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>markbates/errx</title>
-    <updated>2022-06-08T01:49:31Z</updated>
-    <id>tag:github.com,2022-06-08:/markbates/errx</id>
-    <link href="https://github.com/markbates/errx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darwin-morocho/flutter-facebook-auth</title>
+    <updated>2022-06-09T01:44:39Z</updated>
+    <id>tag:github.com,2022-06-09:/darwin-morocho/flutter-facebook-auth</id>
+    <link href="https://github.com/darwin-morocho/flutter-facebook-auth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A flutter plugin to add login with facebook in your flutter app&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gogo/googleapis</title>
-    <updated>2022-06-08T01:49:31Z</updated>
-    <id>tag:github.com,2022-06-08:/gogo/googleapis</id>
-    <link href="https://github.com/gogo/googleapis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;googleapis generated with gogoprotobuf&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stsquad/cv</title>
+    <updated>2022-06-09T01:44:39Z</updated>
+    <id>tag:github.com,2022-06-09:/stsquad/cv</id>
+    <link href="https://github.com/stsquad/cv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A copy of my current CV in Markdown form.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

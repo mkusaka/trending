@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:44:16Z</updated>
+  <updated>2022-06-09T01:40:43Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MithunTechnologiesDevOps/slacknotification-sharedlibs</title>
-    <updated>2022-06-08T01:44:16Z</updated>
-    <id>tag:github.com,2022-06-08:/MithunTechnologiesDevOps/slacknotification-sharedlibs</id>
-    <link href="https://github.com/MithunTechnologiesDevOps/slacknotification-sharedlibs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LambdaTest/geb-parallel-sample-code</title>
+    <updated>2022-06-09T01:40:43Z</updated>
+    <id>tag:github.com,2022-06-09:/LambdaTest/geb-parallel-sample-code</id>
+    <link href="https://github.com/LambdaTest/geb-parallel-sample-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run test automation on cloud with Geb and LambdaTest. This is a sample repo to help you execute Geb framework based test scripts in parallel with LambdaTest automation testing cloud&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openboxes/openboxes</title>
-    <updated>2022-06-08T01:44:16Z</updated>
-    <id>tag:github.com,2022-06-08:/openboxes/openboxes</id>
-    <link href="https://github.com/openboxes/openboxes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sjurgemeyer/GR8-US-2012</title>
+    <updated>2022-06-09T01:40:43Z</updated>
+    <id>tag:github.com,2022-06-09:/sjurgemeyer/GR8-US-2012</id>
+    <link href="https://github.com/sjurgemeyer/GR8-US-2012" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slides and materials from GR8 US presentations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>orangebucket/Anidea-for-SmartThings</title>
-    <updated>2022-06-08T01:44:16Z</updated>
-    <id>tag:github.com,2022-06-08:/orangebucket/Anidea-for-SmartThings</id>
-    <link href="https://github.com/orangebucket/Anidea-for-SmartThings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Assorted SmartThings bits and bobs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kaxelson/vaadin-builder</title>
+    <updated>2022-06-09T01:40:43Z</updated>
+    <id>tag:github.com,2022-06-09:/kaxelson/vaadin-builder</id>
+    <link href="https://github.com/kaxelson/vaadin-builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Groovy Builder (DSL) for constructing Vaadin UIs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

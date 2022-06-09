@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:46:46Z</updated>
+  <updated>2022-06-09T01:42:42Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>influxdata/k8s-jsonnet-libs</title>
-    <updated>2022-06-08T01:46:46Z</updated>
-    <id>tag:github.com,2022-06-08:/influxdata/k8s-jsonnet-libs</id>
-    <link href="https://github.com/influxdata/k8s-jsonnet-libs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jsonnet Libs repo - mostly generated with jsonnet-libs/k8s project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kubeflow/community</title>
-    <updated>2022-06-08T01:46:46Z</updated>
-    <id>tag:github.com,2022-06-08:/kubeflow/community</id>
-    <link href="https://github.com/kubeflow/community" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Information about the Kubeflow community including proposals and governance information.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thanos-io/kube-thanos</title>
+    <updated>2022-06-09T01:42:42Z</updated>
+    <id>tag:github.com,2022-06-09:/thanos-io/kube-thanos</id>
+    <link href="https://github.com/thanos-io/kube-thanos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kubernetes specific configuration for deploying Thanos.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:57:01Z</updated>
+  <updated>2022-06-09T01:51:15Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sigoden/duf</title>
-    <updated>2022-06-08T01:57:01Z</updated>
-    <id>tag:github.com,2022-06-08:/sigoden/duf</id>
-    <link href="https://github.com/sigoden/duf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Duf is a simple file server. Support static serve, search, upload, webdav...&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/rust</title>
+    <updated>2022-06-09T01:51:15Z</updated>
+    <id>tag:github.com,2022-06-09:/rust-lang/rust</id>
+    <link href="https://github.com/rust-lang/rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>metalbear-co/mirrord</title>
-    <updated>2022-06-08T01:57:01Z</updated>
-    <id>tag:github.com,2022-06-08:/metalbear-co/mirrord</id>
-    <link href="https://github.com/metalbear-co/mirrord" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mirrord lets you easily mirror traffic from your production environment to your development environment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vectordotdev/vector</title>
+    <updated>2022-06-09T01:51:15Z</updated>
+    <id>tag:github.com,2022-06-09:/vectordotdev/vector</id>
+    <link href="https://github.com/vectordotdev/vector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A high-performance observability data pipeline.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tokio-rs/tokio</title>
-    <updated>2022-06-08T01:57:01Z</updated>
-    <id>tag:github.com,2022-06-08:/tokio-rs/tokio</id>
-    <link href="https://github.com/tokio-rs/tokio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hyperium/hyper</title>
+    <updated>2022-06-09T01:51:15Z</updated>
+    <id>tag:github.com,2022-06-09:/hyperium/hyper</id>
+    <link href="https://github.com/hyperium/hyper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An HTTP library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

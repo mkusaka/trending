@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SQLPL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:58:40Z</updated>
+  <updated>2022-06-09T01:52:43Z</updated>
   <subtitle>Daily Trending of SQLPL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>codigofacilito/curso_base_de_datos</title>
-    <updated>2022-06-08T01:58:40Z</updated>
-    <id>tag:github.com,2022-06-08:/codigofacilito/curso_base_de_datos</id>
-    <link href="https://github.com/codigofacilito/curso_base_de_datos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ejemplos vistos a lo largo del curso&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:38:11Z</updated>
+  <updated>2022-06-09T01:35:11Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>samalves/Scanner-using-Clojure</title>
-    <updated>2022-06-08T01:38:11Z</updated>
-    <id>tag:github.com,2022-06-08:/samalves/Scanner-using-Clojure</id>
-    <link href="https://github.com/samalves/Scanner-using-Clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unclebob/more-speech</title>
+    <updated>2022-06-09T01:35:11Z</updated>
+    <id>tag:github.com,2022-06-09:/unclebob/more-speech</id>
+    <link href="https://github.com/unclebob/more-speech" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Nostr browser in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ferdinand-beyer/init</title>
-    <updated>2022-06-08T01:38:11Z</updated>
-    <id>tag:github.com,2022-06-08:/ferdinand-beyer/init</id>
-    <link href="https://github.com/ferdinand-beyer/init" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dependency injection a la carte&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>swarmpit/swarmpit</title>
+    <updated>2022-06-09T01:35:11Z</updated>
+    <id>tag:github.com,2022-06-09:/swarmpit/swarmpit</id>
+    <link href="https://github.com/swarmpit/swarmpit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight mobile-friendly Docker Swarm management UI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rogeriochaves/npm-force-resolutions</title>
-    <updated>2022-06-08T01:38:11Z</updated>
-    <id>tag:github.com,2022-06-08:/rogeriochaves/npm-force-resolutions</id>
-    <link href="https://github.com/rogeriochaves/npm-force-resolutions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Force npm to install a specific transitive dependency version&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sunilnandihalli/cpp-swig-java-clj</title>
+    <updated>2022-06-09T01:35:11Z</updated>
+    <id>tag:github.com,2022-06-09:/sunilnandihalli/cpp-swig-java-clj</id>
+    <link href="https://github.com/sunilnandihalli/cpp-swig-java-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;an attempt to try the c++ swig clojure working together with cmake and lein forming the build-tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

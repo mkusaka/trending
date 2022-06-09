@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:52:12Z</updated>
+  <updated>2022-06-09T01:46:49Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>avibrazil/RDM</title>
-    <updated>2022-06-08T01:52:12Z</updated>
-    <id>tag:github.com,2022-06-08:/avibrazil/RDM</id>
-    <link href="https://github.com/avibrazil/RDM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily set Mac Retina display to higher unsupported resolutions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

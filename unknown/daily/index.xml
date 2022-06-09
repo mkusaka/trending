@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:34:02Z</updated>
+  <updated>2022-06-09T01:31:52Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ahmedtariq01/Cloud-DevOps-Learning-Resources</title>
-    <updated>2022-06-08T01:34:02Z</updated>
-    <id>tag:github.com,2022-06-08:/ahmedtariq01/Cloud-DevOps-Learning-Resources</id>
-    <link href="https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LinuxSuRen/remote-jobs-in-china</title>
+    <updated>2022-06-09T01:31:52Z</updated>
+    <id>tag:github.com,2022-06-09:/LinuxSuRen/remote-jobs-in-china</id>
+    <link href="https://github.com/LinuxSuRen/remote-jobs-in-china" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;支持远程办公的中国公司&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EpicGames/Signup</title>
-    <updated>2022-06-08T01:34:02Z</updated>
-    <id>tag:github.com,2022-06-08:/EpicGames/Signup</id>
-    <link href="https://github.com/EpicGames/Signup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CyC2018/CS-Notes</title>
+    <updated>2022-06-09T01:31:52Z</updated>
+    <id>tag:github.com,2022-06-09:/CyC2018/CS-Notes</id>
+    <link href="https://github.com/CyC2018/CS-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Fndroid/clash_for_windows_pkg</title>
-    <updated>2022-06-08T01:34:02Z</updated>
-    <id>tag:github.com,2022-06-08:/Fndroid/clash_for_windows_pkg</id>
-    <link href="https://github.com/Fndroid/clash_for_windows_pkg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Windows/macOS GUI based on Clash&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>heejkoo/Awesome-Diffusion-Models</title>
+    <updated>2022-06-09T01:31:52Z</updated>
+    <id>tag:github.com,2022-06-09:/heejkoo/Awesome-Diffusion-Models</id>
+    <link href="https://github.com/heejkoo/Awesome-Diffusion-Models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

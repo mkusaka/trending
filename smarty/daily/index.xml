@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:58:20Z</updated>
+  <updated>2022-06-09T01:52:31Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cray-HPE/cray-opa</title>
-    <updated>2022-06-08T01:58:20Z</updated>
-    <id>tag:github.com,2022-06-08:/Cray-HPE/cray-opa</id>
-    <link href="https://github.com/Cray-HPE/cray-opa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vesoft-inc/nebula-docker-compose</title>
+    <updated>2022-06-09T01:52:31Z</updated>
+    <id>tag:github.com,2022-06-09:/vesoft-inc/nebula-docker-compose</id>
+    <link href="https://github.com/vesoft-inc/nebula-docker-compose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker compose for Nebula Graph&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>getoutreach/stencil-circleci</title>
+    <updated>2022-06-09T01:52:31Z</updated>
+    <id>tag:github.com,2022-06-09:/getoutreach/stencil-circleci</id>
+    <link href="https://github.com/getoutreach/stencil-circleci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CircleCI configuration for stencil&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T02:01:15Z</updated>
+  <updated>2022-06-09T01:55:32Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MiSTer-devel/GnW_MiSTer</title>
-    <updated>2022-06-08T02:01:15Z</updated>
-    <id>tag:github.com,2022-06-08:/MiSTer-devel/GnW_MiSTer</id>
-    <link href="https://github.com/MiSTer-devel/GnW_MiSTer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MiSTer Port of Game and Watch Games&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antonblanchard/microwatt</title>
+    <updated>2022-06-09T01:55:32Z</updated>
+    <id>tag:github.com,2022-06-09:/antonblanchard/microwatt</id>
+    <link href="https://github.com/antonblanchard/microwatt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiny Open POWER ISA softcore written in VHDL 2008&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

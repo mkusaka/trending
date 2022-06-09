@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:46:43Z</updated>
+  <updated>2022-06-09T01:42:40Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mossr/BeautifulAlgorithms.jl</title>
-    <updated>2022-06-08T01:46:43Z</updated>
-    <id>tag:github.com,2022-06-08:/mossr/BeautifulAlgorithms.jl</id>
-    <link href="https://github.com/mossr/BeautifulAlgorithms.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Concise and beautiful algorithms written in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/Static.jl</title>
-    <updated>2022-06-08T01:46:43Z</updated>
-    <id>tag:github.com,2022-06-08:/SciML/Static.jl</id>
-    <link href="https://github.com/SciML/Static.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Static types useful for dispatch and generated functions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rafaqz/DimensionalData.jl</title>
-    <updated>2022-06-08T01:46:43Z</updated>
-    <id>tag:github.com,2022-06-08:/rafaqz/DimensionalData.jl</id>
-    <link href="https://github.com/rafaqz/DimensionalData.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Named dimensions and indexing for julia arrays and other data&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ndortega/Oxygen.jl</title>
+    <updated>2022-06-09T01:42:40Z</updated>
+    <id>tag:github.com,2022-06-09:/ndortega/Oxygen.jl</id>
+    <link href="https://github.com/ndortega/Oxygen.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Oxygen is a micro-framework built on top of the HTTP.jl library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-08T01:37:34Z</updated>
+  <updated>2022-06-09T01:34:38Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ChecksFinance/soul-moment</title>
-    <updated>2022-06-08T01:37:34Z</updated>
-    <id>tag:github.com,2022-06-08:/ChecksFinance/soul-moment</id>
-    <link href="https://github.com/ChecksFinance/soul-moment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An attempt to provide an implementation of SBT in Cairo lang.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
