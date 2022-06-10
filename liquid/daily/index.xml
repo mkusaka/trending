@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Liquid Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:43:57Z</updated>
+  <updated>2022-06-10T01:45:31Z</updated>
   <subtitle>Daily Trending of Liquid in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Shopify/theme-extension-getting-started</title>
-    <updated>2022-06-09T01:43:57Z</updated>
-    <id>tag:github.com,2022-06-09:/Shopify/theme-extension-getting-started</id>
-    <link href="https://github.com/Shopify/theme-extension-getting-started" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A theme app extension boilerplate that highlights the basic structure and features that are available to developers who want to integrate their apps with Shopify Online Stores.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shopify/skeleton-theme</title>
+    <updated>2022-06-10T01:45:31Z</updated>
+    <id>tag:github.com,2022-06-10:/Shopify/skeleton-theme</id>
+    <link href="https://github.com/Shopify/skeleton-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A barebones ☠️starter theme with the required files needed to compile with Slate and upload to Shopify.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shopify/shopify-css-import</title>
+    <updated>2022-06-10T01:45:31Z</updated>
+    <id>tag:github.com,2022-06-10:/Shopify/shopify-css-import</id>
+    <link href="https://github.com/Shopify/shopify-css-import" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add CSS import functionality to Shopify theme development with Grunt.js or Gulp.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shopify/esqueleto</title>
+    <updated>2022-06-10T01:45:31Z</updated>
+    <id>tag:github.com,2022-06-10:/Shopify/esqueleto</id>
+    <link href="https://github.com/Shopify/esqueleto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:49:35Z</updated>
+  <updated>2022-06-10T01:51:22Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript-spec/purescript-spec-quickcheck</title>
-    <updated>2022-06-09T01:49:35Z</updated>
-    <id>tag:github.com,2022-06-09:/purescript-spec/purescript-spec-quickcheck</id>
-    <link href="https://github.com/purescript-spec/purescript-spec-quickcheck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adapter between purescript-spec and purescript-quickcheck&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-js-timers</title>
+    <updated>2022-06-10T01:51:22Z</updated>
+    <id>tag:github.com,2022-06-10:/purescript-contrib/purescript-js-timers</id>
+    <link href="https://github.com/purescript-contrib/purescript-js-timers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Low level bindings for JavaScript&#39;s timers API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-form-urlencoded</title>
-    <updated>2022-06-09T01:49:35Z</updated>
-    <id>tag:github.com,2022-06-09:/purescript-contrib/purescript-form-urlencoded</id>
-    <link href="https://github.com/purescript-contrib/purescript-form-urlencoded" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A data type, and encoding / decoding functions for application/x-www-form-urlencoded&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bodil/purescript-test-unit</title>
+    <updated>2022-06-10T01:51:22Z</updated>
+    <id>tag:github.com,2022-06-10:/bodil/purescript-test-unit</id>
+    <link href="https://github.com/bodil/purescript-test-unit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An asynchronous unit test runner for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-js-uri</title>
-    <updated>2022-06-09T01:49:35Z</updated>
-    <id>tag:github.com,2022-06-09:/purescript-contrib/purescript-js-uri</id>
-    <link href="https://github.com/purescript-contrib/purescript-js-uri" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;URI encoding and decoding functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-tuples</title>
+    <updated>2022-06-10T01:51:22Z</updated>
+    <id>tag:github.com,2022-06-10:/purescript/purescript-tuples</id>
+    <link href="https://github.com/purescript/purescript-tuples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tuple data type and utility functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

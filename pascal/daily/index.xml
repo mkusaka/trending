@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:48:02Z</updated>
+  <updated>2022-06-10T01:49:39Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>graphics32/graphics32</title>
-    <updated>2022-06-09T01:48:02Z</updated>
-    <id>tag:github.com,2022-06-09:/graphics32/graphics32</id>
-    <link href="https://github.com/graphics32/graphics32" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Graphics32 is a graphics library for Delphi and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives. In most cases Graphics32 considerably outperforms the standard TBitmap/TCanvas methods.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sacfiscal/Delphiscal</title>
+    <updated>2022-06-10T01:49:39Z</updated>
+    <id>tag:github.com,2022-06-10:/sacfiscal/Delphiscal</id>
+    <link href="https://github.com/sacfiscal/Delphiscal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Biblioteca de cálculos fiscais em Delphi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>edtrejo/rdpwrap</title>
-    <updated>2022-06-09T01:48:02Z</updated>
-    <id>tag:github.com,2022-06-09:/edtrejo/rdpwrap</id>
-    <link href="https://github.com/edtrejo/rdpwrap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RDP Wrapper Library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paolo-rossi/delphi-jose-jwt</title>
+    <updated>2022-06-10T01:49:39Z</updated>
+    <id>tag:github.com,2022-06-10:/paolo-rossi/delphi-jose-jwt</id>
+    <link href="https://github.com/paolo-rossi/delphi-jose-jwt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

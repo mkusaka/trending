@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:55:42Z</updated>
+  <updated>2022-06-10T01:57:33Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ck3g/vimfiles</title>
-    <updated>2022-06-09T01:55:42Z</updated>
-    <id>tag:github.com,2022-06-09:/ck3g/vimfiles</id>
-    <link href="https://github.com/ck3g/vimfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my vim configuration&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>amix/vimrc</title>
+    <updated>2022-06-10T01:57:33Z</updated>
+    <id>tag:github.com,2022-06-10:/amix/vimrc</id>
+    <link href="https://github.com/amix/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate Vim configuration (vimrc)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rgm/vectorscript-vim</title>
-    <updated>2022-06-09T01:55:42Z</updated>
-    <id>tag:github.com,2022-06-09:/rgm/vectorscript-vim</id>
-    <link href="https://github.com/rgm/vectorscript-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin for Vectorscript (Vectorworks CAD package Pascal scripting engine)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jpfender/makesense.vim</title>
+    <updated>2022-06-10T01:57:33Z</updated>
+    <id>tag:github.com,2022-06-10:/jpfender/makesense.vim</id>
+    <link href="https://github.com/jpfender/makesense.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim syntax highlighting file for the makeSense language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vim-python/python-syntax</title>
-    <updated>2022-06-09T01:55:42Z</updated>
-    <id>tag:github.com,2022-06-09:/vim-python/python-syntax</id>
-    <link href="https://github.com/vim-python/python-syntax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python syntax highlighting for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wellle/context.vim</title>
+    <updated>2022-06-10T01:57:33Z</updated>
+    <id>tag:github.com,2022-06-10:/wellle/context.vim</id>
+    <link href="https://github.com/wellle/context.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin that shows the context of the currently visible buffer contents&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

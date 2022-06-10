@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:31:52Z</updated>
+  <updated>2022-06-10T01:32:52Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LinuxSuRen/remote-jobs-in-china</title>
-    <updated>2022-06-09T01:31:52Z</updated>
-    <id>tag:github.com,2022-06-09:/LinuxSuRen/remote-jobs-in-china</id>
-    <link href="https://github.com/LinuxSuRen/remote-jobs-in-china" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;支持远程办公的中国公司&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skills/introduction-to-github</title>
+    <updated>2022-06-10T01:32:52Z</updated>
+    <id>tag:github.com,2022-06-10:/skills/introduction-to-github</id>
+    <link href="https://github.com/skills/introduction-to-github" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get started using GitHub in less than an hour.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CyC2018/CS-Notes</title>
-    <updated>2022-06-09T01:31:52Z</updated>
-    <id>tag:github.com,2022-06-09:/CyC2018/CS-Notes</id>
-    <link href="https://github.com/CyC2018/CS-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eugeneyan/applied-ml</title>
+    <updated>2022-06-10T01:32:52Z</updated>
+    <id>tag:github.com,2022-06-10:/eugeneyan/applied-ml</id>
+    <link href="https://github.com/eugeneyan/applied-ml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>heejkoo/Awesome-Diffusion-Models</title>
-    <updated>2022-06-09T01:31:52Z</updated>
-    <id>tag:github.com,2022-06-09:/heejkoo/Awesome-Diffusion-Models</id>
-    <link href="https://github.com/heejkoo/Awesome-Diffusion-Models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apple/device-management</title>
+    <updated>2022-06-10T01:32:52Z</updated>
+    <id>tag:github.com,2022-06-10:/apple/device-management</id>
+    <link href="https://github.com/apple/device-management" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Device management schema data for MDM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:35:11Z</updated>
+  <updated>2022-06-10T01:36:16Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>unclebob/more-speech</title>
-    <updated>2022-06-09T01:35:11Z</updated>
-    <id>tag:github.com,2022-06-09:/unclebob/more-speech</id>
-    <link href="https://github.com/unclebob/more-speech" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Nostr browser in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joy-framework/joy</title>
+    <updated>2022-06-10T01:36:16Z</updated>
+    <id>tag:github.com,2022-06-10:/joy-framework/joy</id>
+    <link href="https://github.com/joy-framework/joy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A full stack web framework written in janet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>swarmpit/swarmpit</title>
-    <updated>2022-06-09T01:35:11Z</updated>
-    <id>tag:github.com,2022-06-09:/swarmpit/swarmpit</id>
-    <link href="https://github.com/swarmpit/swarmpit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight mobile-friendly Docker Swarm management UI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>functional-koans/clojure-koans</title>
+    <updated>2022-06-10T01:36:16Z</updated>
+    <id>tag:github.com,2022-06-10:/functional-koans/clojure-koans</id>
+    <link href="https://github.com/functional-koans/clojure-koans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of exercises for learning Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sunilnandihalli/cpp-swig-java-clj</title>
-    <updated>2022-06-09T01:35:11Z</updated>
-    <id>tag:github.com,2022-06-09:/sunilnandihalli/cpp-swig-java-clj</id>
-    <link href="https://github.com/sunilnandihalli/cpp-swig-java-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;an attempt to try the c++ swig clojure working together with cmake and lein forming the build-tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xtdb/xtdb</title>
+    <updated>2022-06-10T01:36:16Z</updated>
+    <id>tag:github.com,2022-06-10:/xtdb/xtdb</id>
+    <link href="https://github.com/xtdb/xtdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;General-purpose bitemporal database for SQL, Datalog &amp; graph queries. Developed by @juxt&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

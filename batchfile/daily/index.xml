@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:33:33Z</updated>
+  <updated>2022-06-10T01:34:38Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MuhamadMtrosymuhamad/RDP_FREE-2022</title>
-    <updated>2022-06-09T01:33:33Z</updated>
-    <id>tag:github.com,2022-06-09:/MuhamadMtrosymuhamad/RDP_FREE-2022</id>
-    <link href="https://github.com/MuhamadMtrosymuhamad/RDP_FREE-2022" rel="alternate"></link>
+    <title>wiragunajaya/windowRDP</title>
+    <updated>2022-06-10T01:34:38Z</updated>
+    <id>tag:github.com,2022-06-10:/wiragunajaya/windowRDP</id>
+    <link href="https://github.com/wiragunajaya/windowRDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>voletro/wsa-toolbox</title>
-    <updated>2022-06-09T01:33:33Z</updated>
-    <id>tag:github.com,2022-06-09:/voletro/wsa-toolbox</id>
-    <link href="https://github.com/voletro/wsa-toolbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Quang2107/VPS-FREE</title>
+    <updated>2022-06-10T01:34:38Z</updated>
+    <id>tag:github.com,2022-06-10:/Quang2107/VPS-FREE</id>
+    <link href="https://github.com/Quang2107/VPS-FREE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FREE VPS SCOURCE, TIME : 30 DAY!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SanGraphic/QuickBoost</title>
-    <updated>2022-06-09T01:33:33Z</updated>
-    <id>tag:github.com,2022-06-09:/SanGraphic/QuickBoost</id>
-    <link href="https://github.com/SanGraphic/QuickBoost" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automated Windows 10 / 11 Tweaking Utility&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WSA-Community/WSAPackagingTool</title>
+    <updated>2022-06-10T01:34:38Z</updated>
+    <id>tag:github.com,2022-06-10:/WSA-Community/WSAPackagingTool</id>
+    <link href="https://github.com/WSA-Community/WSAPackagingTool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allows you to modify WSA&#39;s Msixbundle and redistribute it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

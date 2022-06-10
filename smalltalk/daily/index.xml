@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:52:26Z</updated>
+  <updated>2022-06-10T01:54:21Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>feenkcom/gtoolkit-glutin</title>
-    <updated>2022-06-09T01:52:26Z</updated>
-    <id>tag:github.com,2022-06-09:/feenkcom/gtoolkit-glutin</id>
-    <link href="https://github.com/feenkcom/gtoolkit-glutin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GToolkit bindings to Glutin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-contributions/pharo-unicode</title>
+    <updated>2022-06-10T01:54:21Z</updated>
+    <id>tag:github.com,2022-06-10:/pharo-contributions/pharo-unicode</id>
+    <link href="https://github.com/pharo-contributions/pharo-unicode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extended Unicode functionality for Pharo, e.g. normalisation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit</title>
-    <updated>2022-06-09T01:52:26Z</updated>
-    <id>tag:github.com,2022-06-09:/feenkcom/gtoolkit</id>
-    <link href="https://github.com/feenkcom/gtoolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Glamorous Toolkit is a multilanguage notebook. A fancy code editor. A software analysis platform. A visualization engine. A knowledge management system. All programmable. All in one.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/gt4changes</title>
-    <updated>2022-06-09T01:52:26Z</updated>
-    <id>tag:github.com,2022-06-09:/feenkcom/gt4changes</id>
-    <link href="https://github.com/feenkcom/gt4changes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The interface to work with changes from within Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jecisc/PharoBackwardCompatibility</title>
+    <updated>2022-06-10T01:54:21Z</updated>
+    <id>tag:github.com,2022-06-10:/jecisc/PharoBackwardCompatibility</id>
+    <link href="https://github.com/jecisc/PharoBackwardCompatibility" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I am a project to backport some really useful methods to older versions of Pharo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:55:52Z</updated>
+  <updated>2022-06-10T01:57:45Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bailicangdu/vue2-elm</title>
-    <updated>2022-06-09T01:55:52Z</updated>
-    <id>tag:github.com,2022-06-09:/bailicangdu/vue2-elm</id>
-    <link href="https://github.com/bailicangdu/vue2-elm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StavinLi/Workflow</title>
+    <updated>2022-06-10T01:57:45Z</updated>
+    <id>tag:github.com,2022-06-10:/StavinLi/Workflow</id>
+    <link href="https://github.com/StavinLi/Workflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;仿钉钉审批流程设置&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>honghuangdc/soybean-admin</title>
-    <updated>2022-06-09T01:55:52Z</updated>
-    <id>tag:github.com,2022-06-09:/honghuangdc/soybean-admin</id>
-    <link href="https://github.com/honghuangdc/soybean-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;soybean admin - a beautiful vue admin template, based on Vue3、Vite、Naive UI、TypeScript. 基于Vite + Vue3 + NaiveUI + TypeScript的漂亮清新的中后台管理模版&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pengxiaotian/datav-vue</title>
+    <updated>2022-06-10T01:57:45Z</updated>
+    <id>tag:github.com,2022-06-10:/pengxiaotian/datav-vue</id>
+    <link href="https://github.com/pengxiaotian/datav-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>weilanwl/ColorUI</title>
-    <updated>2022-06-09T01:55:52Z</updated>
-    <id>tag:github.com,2022-06-09:/weilanwl/ColorUI</id>
-    <link href="https://github.com/weilanwl/ColorUI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;鲜亮的高饱和色彩，专注视觉的小程序组件库&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vant-ui/vant-demo</title>
+    <updated>2022-06-10T01:57:45Z</updated>
+    <id>tag:github.com,2022-06-10:/vant-ui/vant-demo</id>
+    <link href="https://github.com/vant-ui/vant-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of vant demos.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

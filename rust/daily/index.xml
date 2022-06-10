@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:51:15Z</updated>
+  <updated>2022-06-10T01:52:59Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rust-lang/rust</title>
-    <updated>2022-06-09T01:51:15Z</updated>
-    <id>tag:github.com,2022-06-09:/rust-lang/rust</id>
-    <link href="https://github.com/rust-lang/rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Empowering everyone to build reliable and efficient software.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>neovide/neovide</title>
+    <updated>2022-06-10T01:52:59Z</updated>
+    <id>tag:github.com,2022-06-10:/neovide/neovide</id>
+    <link href="https://github.com/neovide/neovide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;No Nonsense Neovim Client in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vectordotdev/vector</title>
-    <updated>2022-06-09T01:51:15Z</updated>
-    <id>tag:github.com,2022-06-09:/vectordotdev/vector</id>
-    <link href="https://github.com/vectordotdev/vector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A high-performance observability data pipeline.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SerenityOS/jakt</title>
+    <updated>2022-06-10T01:52:59Z</updated>
+    <id>tag:github.com,2022-06-10:/SerenityOS/jakt</id>
+    <link href="https://github.com/SerenityOS/jakt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Jakt Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hyperium/hyper</title>
-    <updated>2022-06-09T01:51:15Z</updated>
-    <id>tag:github.com,2022-06-09:/hyperium/hyper</id>
-    <link href="https://github.com/hyperium/hyper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An HTTP library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coloradocolby/fsrx</title>
+    <updated>2022-06-10T01:52:59Z</updated>
+    <id>tag:github.com,2022-06-10:/coloradocolby/fsrx</id>
+    <link href="https://github.com/coloradocolby/fsrx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 flow state reading in the terminal&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

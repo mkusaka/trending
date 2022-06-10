@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:38:34Z</updated>
+  <updated>2022-06-10T01:39:41Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kafka4beam/brod</title>
-    <updated>2022-06-09T01:38:34Z</updated>
-    <id>tag:github.com,2022-06-09:/kafka4beam/brod</id>
-    <link href="https://github.com/kafka4beam/brod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache Kafka client library for Erlang/Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nomasystems/nmaglev</title>
+    <updated>2022-06-10T01:39:41Z</updated>
+    <id>tag:github.com,2022-06-10:/nomasystems/nmaglev</id>
+    <link href="https://github.com/nomasystems/nmaglev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang implementation of the consistent hashing algorithm used in MagLev system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lpgauth/fast_disk_log</title>
-    <updated>2022-06-09T01:38:34Z</updated>
-    <id>tag:github.com,2022-06-09:/lpgauth/fast_disk_log</id>
-    <link href="https://github.com/lpgauth/fast_disk_log" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pool-based asynchronous Erlang disk logger&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>couchbase/geocouch</title>
+    <updated>2022-06-10T01:39:41Z</updated>
+    <id>tag:github.com,2022-06-10:/couchbase/geocouch</id>
+    <link href="https://github.com/couchbase/geocouch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GeoCouch, a spatial index for CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ferd/recon</title>
-    <updated>2022-06-09T01:38:34Z</updated>
-    <id>tag:github.com,2022-06-09:/ferd/recon</id>
-    <link href="https://github.com/ferd/recon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of functions and scripts to debug Erlang in production.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>opentracing-contrib/opentracing-erlang</title>
+    <updated>2022-06-10T01:39:41Z</updated>
+    <id>tag:github.com,2022-06-10:/opentracing-contrib/opentracing-erlang</id>
+    <link href="https://github.com/opentracing-contrib/opentracing-erlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Tracing Toolkit for ERlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:37:58Z</updated>
+  <updated>2022-06-10T01:39:06Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ntrepid8/ex_crypto</title>
-    <updated>2022-06-09T01:37:58Z</updated>
-    <id>tag:github.com,2022-06-09:/ntrepid8/ex_crypto</id>
-    <link href="https://github.com/ntrepid8/ex_crypto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wrapper around the Erlang crypto module for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OffchainLabs/blockscout</title>
+    <updated>2022-06-10T01:39:06Z</updated>
+    <id>tag:github.com,2022-06-10:/OffchainLabs/blockscout</id>
+    <link href="https://github.com/OffchainLabs/blockscout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elixir-nx/explorer</title>
-    <updated>2022-06-09T01:37:58Z</updated>
-    <id>tag:github.com,2022-06-09:/elixir-nx/explorer</id>
-    <link href="https://github.com/elixir-nx/explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Series (one-dimensional) and dataframes (two-dimensional) for fast data exploration in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixir-nx/axon</title>
+    <updated>2022-06-10T01:39:06Z</updated>
+    <id>tag:github.com,2022-06-10:/elixir-nx/axon</id>
+    <link href="https://github.com/elixir-nx/axon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nx-powered Neural Networks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hissssst/pathex</title>
-    <updated>2022-06-09T01:37:58Z</updated>
-    <id>tag:github.com,2022-06-09:/hissssst/pathex</id>
-    <link href="https://github.com/hissssst/pathex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fastest way to access data in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixir-nx/nx</title>
+    <updated>2022-06-10T01:39:06Z</updated>
+    <id>tag:github.com,2022-06-10:/elixir-nx/nx</id>
+    <link href="https://github.com/elixir-nx/nx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-dimensional arrays (tensors) and numerical definitions for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

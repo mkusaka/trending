@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:40:43Z</updated>
+  <updated>2022-06-10T01:41:54Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LambdaTest/geb-parallel-sample-code</title>
-    <updated>2022-06-09T01:40:43Z</updated>
-    <id>tag:github.com,2022-06-09:/LambdaTest/geb-parallel-sample-code</id>
-    <link href="https://github.com/LambdaTest/geb-parallel-sample-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run test automation on cloud with Geb and LambdaTest. This is a sample repo to help you execute Geb framework based test scripts in parallel with LambdaTest automation testing cloud&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sjurgemeyer/GR8-US-2012</title>
-    <updated>2022-06-09T01:40:43Z</updated>
-    <id>tag:github.com,2022-06-09:/sjurgemeyer/GR8-US-2012</id>
-    <link href="https://github.com/sjurgemeyer/GR8-US-2012" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slides and materials from GR8 US presentations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kaxelson/vaadin-builder</title>
-    <updated>2022-06-09T01:40:43Z</updated>
-    <id>tag:github.com,2022-06-09:/kaxelson/vaadin-builder</id>
-    <link href="https://github.com/kaxelson/vaadin-builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Groovy Builder (DSL) for constructing Vaadin UIs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mulesoft/mule-assembly-verifier-plugin</title>
+    <updated>2022-06-10T01:41:54Z</updated>
+    <id>tag:github.com,2022-06-10:/mulesoft/mule-assembly-verifier-plugin</id>
+    <link href="https://github.com/mulesoft/mule-assembly-verifier-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maven Assembly Verifier for Mule Build&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

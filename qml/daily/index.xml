@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:49:39Z</updated>
+  <updated>2022-06-10T01:51:28Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Aseman-Land/Tricks</title>
-    <updated>2022-06-09T01:49:39Z</updated>
-    <id>tag:github.com,2022-06-09:/Aseman-Land/Tricks</id>
-    <link href="https://github.com/Aseman-Land/Tricks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tricks Social Network cross platforms client written using C++, Qt and Qml.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ghuntley/denon-prime4</title>
+    <updated>2022-06-10T01:51:28Z</updated>
+    <id>tag:github.com,2022-06-10:/ghuntley/denon-prime4</id>
+    <link href="https://github.com/ghuntley/denon-prime4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

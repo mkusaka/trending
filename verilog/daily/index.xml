@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:55:32Z</updated>
+  <updated>2022-06-10T01:57:24Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>antonblanchard/microwatt</title>
-    <updated>2022-06-09T01:55:32Z</updated>
-    <id>tag:github.com,2022-06-09:/antonblanchard/microwatt</id>
-    <link href="https://github.com/antonblanchard/microwatt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny Open POWER ISA softcore written in VHDL 2008&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>efabless/caravel-lite</title>
+    <updated>2022-06-10T01:57:24Z</updated>
+    <id>tag:github.com,2022-06-10:/efabless/caravel-lite</id>
+    <link href="https://github.com/efabless/caravel-lite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>olofk/serv</title>
+    <updated>2022-06-10T01:57:24Z</updated>
+    <id>tag:github.com,2022-06-10:/olofk/serv</id>
+    <link href="https://github.com/olofk/serv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SERV - The SErial RISC-V CPU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>efabless/caravel_mgmt_soc_litex</title>
+    <updated>2022-06-10T01:57:24Z</updated>
+    <id>tag:github.com,2022-06-10:/efabless/caravel_mgmt_soc_litex</id>
+    <link href="https://github.com/efabless/caravel_mgmt_soc_litex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

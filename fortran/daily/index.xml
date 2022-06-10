@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:39:06Z</updated>
+  <updated>2022-06-10T01:40:14Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>scipy/PROPACK</title>
-    <updated>2022-06-09T01:39:06Z</updated>
-    <id>tag:github.com,2022-06-09:/scipy/PROPACK</id>
-    <link href="https://github.com/scipy/PROPACK" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Software for large and sparse SVD calculations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NOAA-EMC/WW3</title>
+    <updated>2022-06-10T01:40:14Z</updated>
+    <id>tag:github.com,2022-06-10:/NOAA-EMC/WW3</id>
+    <link href="https://github.com/NOAA-EMC/WW3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WAVEWATCH III&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

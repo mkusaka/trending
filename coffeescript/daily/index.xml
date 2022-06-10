@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-09T01:35:30Z</updated>
+  <updated>2022-06-10T01:36:37Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Gutenberg-Technology/gt-unsafe-filter</title>
-    <updated>2022-06-09T01:35:30Z</updated>
-    <id>tag:github.com,2022-06-09:/Gutenberg-Technology/gt-unsafe-filter</id>
-    <link href="https://github.com/Gutenberg-Technology/gt-unsafe-filter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Filter to be used with ng-bind-html to prevent AngularJS unsafe warning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mulesoft/osprey-cli</title>
+    <updated>2022-06-10T01:36:37Z</updated>
+    <id>tag:github.com,2022-06-10:/mulesoft/osprey-cli</id>
+    <link href="https://github.com/mulesoft/osprey-cli" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Command Line Interface (CLI) scaffolding tool to generate Osprey-based applications, ideally from a pre-defined RAML API spec, with just a single command.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nicholaides/marsbars</title>
-    <updated>2022-06-09T01:35:30Z</updated>
-    <id>tag:github.com,2022-06-09:/nicholaides/marsbars</id>
-    <link href="https://github.com/nicholaides/marsbars" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scottwall0/nodext-bootstrap</title>
+    <updated>2022-06-10T01:36:37Z</updated>
+    <id>tag:github.com,2022-06-10:/scottwall0/nodext-bootstrap</id>
+    <link href="https://github.com/scottwall0/nodext-bootstrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Twitter Bootstrap extension for nodext&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jakubroztocil/cloudtunes</title>
-    <updated>2022-06-09T01:35:30Z</updated>
-    <id>tag:github.com,2022-06-09:/jakubroztocil/cloudtunes</id>
-    <link href="https://github.com/jakubroztocil/cloudtunes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web-based music player for the cloud ☁️ 🎶 Play music from YouTube, Dropbox, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shopify/twine</title>
+    <updated>2022-06-10T01:36:37Z</updated>
+    <id>tag:github.com,2022-06-10:/Shopify/twine</id>
+    <link href="https://github.com/Shopify/twine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Twine is a minimalistic two-way binding system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
