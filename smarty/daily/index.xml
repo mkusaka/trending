@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:54:17Z</updated>
+  <updated>2022-06-11T02:01:58Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>epinio/helm-charts</title>
-    <updated>2022-06-10T01:54:17Z</updated>
-    <id>tag:github.com,2022-06-10:/epinio/helm-charts</id>
-    <link href="https://github.com/epinio/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Epinio Helm chart&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LiveRamp/google-tag-manager</title>
-    <updated>2022-06-10T01:54:17Z</updated>
-    <id>tag:github.com,2022-06-10:/LiveRamp/google-tag-manager</id>
-    <link href="https://github.com/LiveRamp/google-tag-manager" rel="alternate"></link>
+    <title>SUSE/helm-charts</title>
+    <updated>2022-06-11T02:01:58Z</updated>
+    <id>tag:github.com,2022-06-11:/SUSE/helm-charts</id>
+    <link href="https://github.com/SUSE/helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JackExperts/helm-charts</title>
-    <updated>2022-06-10T01:54:17Z</updated>
-    <id>tag:github.com,2022-06-10:/JackExperts/helm-charts</id>
-    <link href="https://github.com/JackExperts/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts de criação ou contribuição da Jack Experts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uw-iti-app-platform/helm-charts</title>
+    <updated>2022-06-11T02:01:58Z</updated>
+    <id>tag:github.com,2022-06-11:/uw-iti-app-platform/helm-charts</id>
+    <link href="https://github.com/uw-iti-app-platform/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Orange-OpenSource/towards5gs-helm</title>
+    <updated>2022-06-11T02:01:58Z</updated>
+    <id>tag:github.com,2022-06-11:/Orange-OpenSource/towards5gs-helm</id>
+    <link href="https://github.com/Orange-OpenSource/towards5gs-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source project providing Helm charts for deploying Free5GC and UERANSIM on a Kubernetes cluster&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

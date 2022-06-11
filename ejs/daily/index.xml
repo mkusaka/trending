@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:39:11Z</updated>
+  <updated>2022-06-11T01:45:55Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KubeDev/kube-news</title>
-    <updated>2022-06-10T01:39:11Z</updated>
-    <id>tag:github.com,2022-06-10:/KubeDev/kube-news</id>
-    <link href="https://github.com/KubeDev/kube-news" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>saviodossantos/projeto-videos</title>
-    <updated>2022-06-10T01:39:11Z</updated>
-    <id>tag:github.com,2022-06-10:/saviodossantos/projeto-videos</id>
-    <link href="https://github.com/saviodossantos/projeto-videos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Capacitation project building in team by 10 where the objective is create a video streaming service.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>VitorAVPereira/projeto-videos-time-2</title>
-    <updated>2022-06-10T01:39:11Z</updated>
-    <id>tag:github.com,2022-06-10:/VitorAVPereira/projeto-videos-time-2</id>
-    <link href="https://github.com/VitorAVPereira/projeto-videos-time-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Gioni06/terminal.css</title>
+    <updated>2022-06-11T01:45:55Z</updated>
+    <id>tag:github.com,2022-06-11:/Gioni06/terminal.css</id>
+    <link href="https://github.com/Gioni06/terminal.css" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern and minimalistic CSS framework for terminal enthusiasts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

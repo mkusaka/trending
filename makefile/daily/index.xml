@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:46:13Z</updated>
+  <updated>2022-06-11T01:53:17Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hashicorp/terraform-docs-common</title>
-    <updated>2022-06-10T01:46:13Z</updated>
-    <id>tag:github.com,2022-06-10:/hashicorp/terraform-docs-common</id>
-    <link href="https://github.com/hashicorp/terraform-docs-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Content for Terraform&#39;s documentation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hmcts/nfdiv-cron</title>
+    <updated>2022-06-11T01:53:17Z</updated>
+    <id>tag:github.com,2022-06-11:/hmcts/nfdiv-cron</id>
+    <link href="https://github.com/hmcts/nfdiv-cron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart for nfdiv kubernetes cron job&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LinuxSuRen/open-source-best-practice</title>
-    <updated>2022-06-10T01:46:13Z</updated>
-    <id>tag:github.com,2022-06-10:/LinuxSuRen/open-source-best-practice</id>
-    <link href="https://github.com/LinuxSuRen/open-source-best-practice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grafana/tutorials</title>
+    <updated>2022-06-11T01:53:17Z</updated>
+    <id>tag:github.com,2022-06-11:/grafana/tutorials</id>
+    <link href="https://github.com/grafana/tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A series of tutorials for helping you make the most out of Grafana.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nexient-llc/tf-azurerm-module-user_managed_identity</title>
-    <updated>2022-06-10T01:46:13Z</updated>
-    <id>tag:github.com,2022-06-10:/nexient-llc/tf-azurerm-module-user_managed_identity</id>
-    <link href="https://github.com/nexient-llc/tf-azurerm-module-user_managed_identity" rel="alternate"></link>
+    <title>chatwork/dockerfiles</title>
+    <updated>2022-06-11T01:53:17Z</updated>
+    <id>tag:github.com,2022-06-11:/chatwork/dockerfiles</id>
+    <link href="https://github.com/chatwork/dockerfiles" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

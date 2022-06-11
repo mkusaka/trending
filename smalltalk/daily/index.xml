@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:54:21Z</updated>
+  <updated>2022-06-11T02:02:03Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pharo-contributions/pharo-unicode</title>
-    <updated>2022-06-10T01:54:21Z</updated>
-    <id>tag:github.com,2022-06-10:/pharo-contributions/pharo-unicode</id>
-    <link href="https://github.com/pharo-contributions/pharo-unicode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extended Unicode functionality for Pharo, e.g. normalisation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zweidenker/Units</title>
+    <updated>2022-06-11T02:02:03Z</updated>
+    <id>tag:github.com,2022-06-11:/zweidenker/Units</id>
+    <link href="https://github.com/zweidenker/Units" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple package for units&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jecisc/PharoBackwardCompatibility</title>
-    <updated>2022-06-10T01:54:21Z</updated>
-    <id>tag:github.com,2022-06-10:/jecisc/PharoBackwardCompatibility</id>
-    <link href="https://github.com/jecisc/PharoBackwardCompatibility" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I am a project to backport some really useful methods to older versions of Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-debugadapterprotocol</title>
+    <updated>2022-06-11T02:02:03Z</updated>
+    <id>tag:github.com,2022-06-11:/feenkcom/gtoolkit-debugadapterprotocol</id>
+    <link href="https://github.com/feenkcom/gtoolkit-debugadapterprotocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gtoolkit specific functionality for Debug Adapter Protocol access&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/JavaScriptGenerator</title>
+    <updated>2022-06-11T02:02:03Z</updated>
+    <id>tag:github.com,2022-06-11:/feenkcom/JavaScriptGenerator</id>
+    <link href="https://github.com/feenkcom/JavaScriptGenerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit to generate JavaScript source code from Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

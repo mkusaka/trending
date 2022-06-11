@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:55:50Z</updated>
+  <updated>2022-06-11T02:03:02Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pulp-platform/axi_mem_if</title>
-    <updated>2022-06-10T01:55:50Z</updated>
-    <id>tag:github.com,2022-06-10:/pulp-platform/axi_mem_if</id>
-    <link href="https://github.com/pulp-platform/axi_mem_if" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple single-port AXI memory interface&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pulp-platform/fpga-support</title>
+    <updated>2022-06-11T02:03:02Z</updated>
+    <id>tag:github.com,2022-06-11:/pulp-platform/fpga-support</id>
+    <link href="https://github.com/pulp-platform/fpga-support" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IP Blocks to Support Design, Prototyping, and Verification of PULP on FPGAs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pulp-platform/axi_node</title>
-    <updated>2022-06-10T01:55:50Z</updated>
-    <id>tag:github.com,2022-06-10:/pulp-platform/axi_node</id>
-    <link href="https://github.com/pulp-platform/axi_node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AXI X-Bar&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pulp-platform/fpu_div_sqrt_mvp</title>
-    <updated>2022-06-10T01:55:50Z</updated>
-    <id>tag:github.com,2022-06-10:/pulp-platform/fpu_div_sqrt_mvp</id>
-    <link href="https://github.com/pulp-platform/fpu_div_sqrt_mvp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[UNRELEASED] FP div/sqrt unit for transprecision&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lowRISC/ariane-ethernet</title>
+    <updated>2022-06-11T02:03:02Z</updated>
+    <id>tag:github.com,2022-06-11:/lowRISC/ariane-ethernet</id>
+    <link href="https://github.com/lowRISC/ariane-ethernet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;open-source Ethenet media access controller for Ariane on Genesys-2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

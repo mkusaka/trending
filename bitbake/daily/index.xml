@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:34:55Z</updated>
+  <updated>2022-06-11T01:41:15Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>balena-os/meta-balena</title>
-    <updated>2022-06-10T01:34:55Z</updated>
-    <id>tag:github.com,2022-06-10:/balena-os/meta-balena</id>
-    <link href="https://github.com/balena-os/meta-balena" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Yocto layers used to build balenaOS images&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ADLINK/meta-adlink-sema</title>
-    <updated>2022-06-10T01:34:55Z</updated>
-    <id>tag:github.com,2022-06-10:/ADLINK/meta-adlink-sema</id>
-    <link href="https://github.com/ADLINK/meta-adlink-sema" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yocto layer for SEMA&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:39:08Z</updated>
+  <updated>2022-06-11T01:45:49Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>compound-finance/palisade</title>
+    <updated>2022-06-11T01:45:49Z</updated>
+    <id>tag:github.com,2022-06-11:/compound-finance/palisade</id>
+    <link href="https://github.com/compound-finance/palisade" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compound Web3 Front-end&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

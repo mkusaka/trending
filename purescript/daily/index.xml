@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:51:22Z</updated>
+  <updated>2022-06-11T01:58:59Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript-contrib/purescript-js-timers</title>
-    <updated>2022-06-10T01:51:22Z</updated>
-    <id>tag:github.com,2022-06-10:/purescript-contrib/purescript-js-timers</id>
-    <link href="https://github.com/purescript-contrib/purescript-js-timers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low level bindings for JavaScript&#39;s timers API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bodil/purescript-test-unit</title>
-    <updated>2022-06-10T01:51:22Z</updated>
-    <id>tag:github.com,2022-06-10:/bodil/purescript-test-unit</id>
-    <link href="https://github.com/bodil/purescript-test-unit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An asynchronous unit test runner for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript/purescript-tuples</title>
-    <updated>2022-06-10T01:51:22Z</updated>
-    <id>tag:github.com,2022-06-10:/purescript/purescript-tuples</id>
-    <link href="https://github.com/purescript/purescript-tuples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tuple data type and utility functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-validation</title>
+    <updated>2022-06-11T01:58:59Z</updated>
+    <id>tag:github.com,2022-06-11:/purescript/purescript-validation</id>
+    <link href="https://github.com/purescript/purescript-validation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Applicative-style validation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

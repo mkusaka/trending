@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:36:16Z</updated>
+  <updated>2022-06-11T01:42:52Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>joy-framework/joy</title>
-    <updated>2022-06-10T01:36:16Z</updated>
-    <id>tag:github.com,2022-06-10:/joy-framework/joy</id>
-    <link href="https://github.com/joy-framework/joy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A full stack web framework written in janet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>metosin/reitit</title>
+    <updated>2022-06-11T01:42:52Z</updated>
+    <id>tag:github.com,2022-06-11:/metosin/reitit</id>
+    <link href="https://github.com/metosin/reitit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast data-driven router for Clojure/Script&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>functional-koans/clojure-koans</title>
-    <updated>2022-06-10T01:36:16Z</updated>
-    <id>tag:github.com,2022-06-10:/functional-koans/clojure-koans</id>
-    <link href="https://github.com/functional-koans/clojure-koans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of exercises for learning Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>babashka/babashka.curl</title>
+    <updated>2022-06-11T01:42:52Z</updated>
+    <id>tag:github.com,2022-06-11:/babashka/babashka.curl</id>
+    <link href="https://github.com/babashka/babashka.curl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiny curl wrapper via idiomatic Clojure, inspired by clj-http, Ring and friends.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xtdb/xtdb</title>
-    <updated>2022-06-10T01:36:16Z</updated>
-    <id>tag:github.com,2022-06-10:/xtdb/xtdb</id>
-    <link href="https://github.com/xtdb/xtdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;General-purpose bitemporal database for SQL, Datalog &amp; graph queries. Developed by @juxt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>babashka/sci</title>
+    <updated>2022-06-11T01:42:52Z</updated>
+    <id>tag:github.com,2022-06-11:/babashka/sci</id>
+    <link href="https://github.com/babashka/sci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configurable Clojure interpreter suitable for scripting and Clojure DSLs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

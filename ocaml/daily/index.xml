@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:48:52Z</updated>
+  <updated>2022-06-11T01:56:08Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ahrefs/atd</title>
-    <updated>2022-06-10T01:48:52Z</updated>
-    <id>tag:github.com,2022-06-10:/ahrefs/atd</id>
-    <link href="https://github.com/ahrefs/atd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Static types for JSON APIs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mirage/irmin</title>
+    <updated>2022-06-11T01:56:08Z</updated>
+    <id>tag:github.com,2022-06-11:/mirage/irmin</id>
+    <link href="https://github.com/mirage/irmin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Irmin is a distributed database that follows the same design principles as Git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BinaryAnalysisPlatform/bap</title>
+    <updated>2022-06-11T01:56:08Z</updated>
+    <id>tag:github.com,2022-06-11:/BinaryAnalysisPlatform/bap</id>
+    <link href="https://github.com/BinaryAnalysisPlatform/bap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Binary Analysis Platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

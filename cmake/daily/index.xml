@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:36:28Z</updated>
+  <updated>2022-06-11T01:43:03Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cpm-cmake/CPM.cmake</title>
-    <updated>2022-06-10T01:36:28Z</updated>
-    <id>tag:github.com,2022-06-10:/cpm-cmake/CPM.cmake</id>
-    <link href="https://github.com/cpm-cmake/CPM.cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📦 CMake&#39;s missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ros2/example_interfaces</title>
+    <updated>2022-06-11T01:43:03Z</updated>
+    <id>tag:github.com,2022-06-11:/ros2/example_interfaces</id>
+    <link href="https://github.com/ros2/example_interfaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Msg, Srv, etc. ROS interfaces used in examples&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NNTU-CS/ADS-9</title>
-    <updated>2022-06-10T01:36:28Z</updated>
-    <id>tag:github.com,2022-06-10:/NNTU-CS/ADS-9</id>
-    <link href="https://github.com/NNTU-CS/ADS-9" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>usdot-fhwa-stol/carma-msgs</title>
+    <updated>2022-06-11T01:43:03Z</updated>
+    <id>tag:github.com,2022-06-11:/usdot-fhwa-stol/carma-msgs</id>
+    <link href="https://github.com/usdot-fhwa-stol/carma-msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS Message definitions used by the CARMA Platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethz-asl/fftw3_catkin</title>
-    <updated>2022-06-10T01:36:28Z</updated>
-    <id>tag:github.com,2022-06-10:/ethz-asl/fftw3_catkin</id>
-    <link href="https://github.com/ethz-asl/fftw3_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/yaml_cpp_catkin</title>
+    <updated>2022-06-11T01:43:03Z</updated>
+    <id>tag:github.com,2022-06-11:/ethz-asl/yaml_cpp_catkin</id>
+    <link href="https://github.com/ethz-asl/yaml_cpp_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yaml cpp catkin package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

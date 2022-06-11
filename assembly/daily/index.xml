@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:34:20Z</updated>
+  <updated>2022-06-11T01:40:30Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>enkomio/thematrix</title>
-    <updated>2022-06-10T01:34:20Z</updated>
-    <id>tag:github.com,2022-06-10:/enkomio/thematrix</id>
-    <link href="https://github.com/enkomio/thematrix" rel="alternate"></link>
+    <title>android/renderscript-intrinsics-replacement-toolkit</title>
+    <updated>2022-06-11T01:40:30Z</updated>
+    <id>tag:github.com,2022-06-11:/android/renderscript-intrinsics-replacement-toolkit</id>
+    <link href="https://github.com/android/renderscript-intrinsics-replacement-toolkit" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vkoukis/os_tng</title>
-    <updated>2022-06-10T01:34:20Z</updated>
-    <id>tag:github.com,2022-06-10:/vkoukis/os_tng</id>
-    <link href="https://github.com/vkoukis/os_tng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OS:TNG: Operating Systems Course&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scanberg/pumlab3</title>
+    <updated>2022-06-11T01:40:30Z</updated>
+    <id>tag:github.com,2022-06-11:/scanberg/pumlab3</id>
+    <link href="https://github.com/scanberg/pumlab3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ilyakurdyukov/micro-lzmadec</title>
-    <updated>2022-06-10T01:34:20Z</updated>
-    <id>tag:github.com,2022-06-10:/ilyakurdyukov/micro-lzmadec</id>
-    <link href="https://github.com/ilyakurdyukov/micro-lzmadec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Micro LZMA decoder&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>supranational/blst</title>
+    <updated>2022-06-11T01:40:30Z</updated>
+    <id>tag:github.com,2022-06-11:/supranational/blst</id>
+    <link href="https://github.com/supranational/blst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multilingual BLS12-381 signature library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:54:33Z</updated>
+  <updated>2022-06-11T02:02:13Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MasterSprouts/CawUsernames</title>
-    <updated>2022-06-10T01:54:33Z</updated>
-    <id>tag:github.com,2022-06-10:/MasterSprouts/CawUsernames</id>
-    <link href="https://github.com/MasterSprouts/CawUsernames" rel="alternate"></link>
+    <title>SoulBoundProtocol/ERC721S</title>
+    <updated>2022-06-11T02:02:13Z</updated>
+    <id>tag:github.com,2022-06-11:/SoulBoundProtocol/ERC721S</id>
+    <link href="https://github.com/SoulBoundProtocol/ERC721S" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>t4sk/defi-by-example</title>
-    <updated>2022-06-10T01:54:33Z</updated>
-    <id>tag:github.com,2022-06-10:/t4sk/defi-by-example</id>
-    <link href="https://github.com/t4sk/defi-by-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bnb-chain/bsc-genesis-contract</title>
+    <updated>2022-06-11T02:02:13Z</updated>
+    <id>tag:github.com,2022-06-11:/bnb-chain/bsc-genesis-contract</id>
+    <link href="https://github.com/bnb-chain/bsc-genesis-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The genesis contracts of Binance Smart Chain.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>marryinweb3/ERC721-520</title>
-    <updated>2022-06-10T01:54:33Z</updated>
-    <id>tag:github.com,2022-06-10:/marryinweb3/ERC721-520</id>
-    <link href="https://github.com/marryinweb3/ERC721-520" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Paired NFT-like Soulbound Token implement&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>niclin/nic_meta</title>
+    <updated>2022-06-11T02:02:13Z</updated>
+    <id>tag:github.com,2022-06-11:/niclin/nic_meta</id>
+    <link href="https://github.com/niclin/nic_meta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

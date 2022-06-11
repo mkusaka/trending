@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:39:41Z</updated>
+  <updated>2022-06-11T01:46:30Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nomasystems/nmaglev</title>
-    <updated>2022-06-10T01:39:41Z</updated>
-    <id>tag:github.com,2022-06-10:/nomasystems/nmaglev</id>
-    <link href="https://github.com/nomasystems/nmaglev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang implementation of the consistent hashing algorithm used in MagLev system&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>milindparikh/nakiabu</title>
+    <updated>2022-06-11T01:46:30Z</updated>
+    <id>tag:github.com,2022-06-11:/milindparikh/nakiabu</id>
+    <link href="https://github.com/milindparikh/nakiabu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;9 9s of availability is the goal&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>couchbase/geocouch</title>
-    <updated>2022-06-10T01:39:41Z</updated>
-    <id>tag:github.com,2022-06-10:/couchbase/geocouch</id>
-    <link href="https://github.com/couchbase/geocouch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GeoCouch, a spatial index for CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kivra/greph</title>
+    <updated>2022-06-11T01:46:30Z</updated>
+    <id>tag:github.com,2022-06-11:/kivra/greph</id>
+    <link href="https://github.com/kivra/greph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang port of Prismatic&#39;s graph package.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>opentracing-contrib/opentracing-erlang</title>
-    <updated>2022-06-10T01:39:41Z</updated>
-    <id>tag:github.com,2022-06-10:/opentracing-contrib/opentracing-erlang</id>
-    <link href="https://github.com/opentracing-contrib/opentracing-erlang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open Tracing Toolkit for ERlang&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>snaiper80/hashids-erlang</title>
+    <updated>2022-06-11T01:46:30Z</updated>
+    <id>tag:github.com,2022-06-11:/snaiper80/hashids-erlang</id>
+    <link href="https://github.com/snaiper80/hashids-erlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Erlang port of Hashid to generate YouTube-like hashids from one or many numbers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

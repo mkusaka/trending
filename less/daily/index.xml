@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:45:13Z</updated>
+  <updated>2022-06-11T01:52:14Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spring-petclinic/spring-petclinic-reactjs</title>
+    <updated>2022-06-11T01:52:14Z</updated>
+    <id>tag:github.com,2022-06-11:/spring-petclinic/spring-petclinic-reactjs</id>
+    <link href="https://github.com/spring-petclinic/spring-petclinic-reactjs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ReactJS (with TypeScript) and Spring Boot version of the Spring Petclinic sample application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ant-design/ant-design-mini</title>
+    <updated>2022-06-11T01:52:14Z</updated>
+    <id>tag:github.com,2022-06-11:/ant-design/ant-design-mini</id>
+    <link href="https://github.com/ant-design/ant-design-mini" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ant Design for Alipay Mini Program&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

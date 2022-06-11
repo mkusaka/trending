@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:42:16Z</updated>
+  <updated>2022-06-11T01:49:16Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure/terraform-azurerm-naming</title>
-    <updated>2022-06-10T01:42:16Z</updated>
-    <id>tag:github.com,2022-06-10:/Azure/terraform-azurerm-naming</id>
-    <link href="https://github.com/Azure/terraform-azurerm-naming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bridgecrewio/terragoat</title>
+    <updated>2022-06-11T01:49:16Z</updated>
+    <id>tag:github.com,2022-06-11:/bridgecrewio/terragoat</id>
+    <link href="https://github.com/bridgecrewio/terragoat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TerraGoat is Bridgecrew&#39;s &#34;Vulnerable by Design&#34; Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Azure/terraform-azurerm-network</title>
-    <updated>2022-06-10T01:42:16Z</updated>
-    <id>tag:github.com,2022-06-10:/Azure/terraform-azurerm-network</id>
-    <link href="https://github.com/Azure/terraform-azurerm-network" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Azure RM Module for Network&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antonbabenko/terraform-best-practices</title>
+    <updated>2022-06-11T01:49:16Z</updated>
+    <id>tag:github.com,2022-06-11:/antonbabenko/terraform-best-practices</id>
+    <link href="https://github.com/antonbabenko/terraform-best-practices" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform best practices (available in en, fr, es, id, and other languages)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

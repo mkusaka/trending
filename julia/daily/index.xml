@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:43:59Z</updated>
+  <updated>2022-06-11T01:51:19Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cormullion/Glyphy.jl</title>
-    <updated>2022-06-10T01:43:59Z</updated>
-    <id>tag:github.com,2022-06-10:/cormullion/Glyphy.jl</id>
-    <link href="https://github.com/cormullion/Glyphy.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I will look for you. I will find you. And I will print you.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Chemellia/AtomicGraphNets.jl</title>
+    <updated>2022-06-11T01:51:19Z</updated>
+    <id>tag:github.com,2022-06-11:/Chemellia/AtomicGraphNets.jl</id>
+    <link href="https://github.com/Chemellia/AtomicGraphNets.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Atomic graph models for molecules and crystals in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PetrKryslUCSD/Sparspak.jl</title>
-    <updated>2022-06-10T01:43:59Z</updated>
-    <id>tag:github.com,2022-06-10:/PetrKryslUCSD/Sparspak.jl</id>
-    <link href="https://github.com/PetrKryslUCSD/Sparspak.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solution of large systems of linear algebraic equations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSymbolics/Symbolics.jl</title>
+    <updated>2022-06-11T01:51:19Z</updated>
+    <id>tag:github.com,2022-06-11:/JuliaSymbolics/Symbolics.jl</id>
+    <link href="https://github.com/JuliaSymbolics/Symbolics.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast and modern CAS for a fast and modern language.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>surajp92/CFD_Julia</title>
-    <updated>2022-06-10T01:43:59Z</updated>
-    <id>tag:github.com,2022-06-10:/surajp92/CFD_Julia</id>
-    <link href="https://github.com/surajp92/CFD_Julia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains fundamental codes related to CFD that can be included in any graduate level CFD coursework.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BioJulia/BioSequences.jl</title>
+    <updated>2022-06-11T01:51:19Z</updated>
+    <id>tag:github.com,2022-06-11:/BioJulia/BioSequences.jl</id>
+    <link href="https://github.com/BioJulia/BioSequences.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Biological sequences for the julia language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

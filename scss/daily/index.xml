@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:53:27Z</updated>
+  <updated>2022-06-11T02:01:15Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>picocss/pico</title>
-    <updated>2022-06-10T01:53:27Z</updated>
-    <id>tag:github.com,2022-06-10:/picocss/pico</id>
-    <link href="https://github.com/picocss/pico" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal CSS Framework for semantic HTML&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>conventional-commits/conventionalcommits.org</title>
+    <updated>2022-06-11T02:01:15Z</updated>
+    <id>tag:github.com,2022-06-11:/conventional-commits/conventionalcommits.org</id>
+    <link href="https://github.com/conventional-commits/conventionalcommits.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The conventional commits specification&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mdbootstrap/mdb-ui-kit</title>
-    <updated>2022-06-10T01:53:27Z</updated>
-    <id>tag:github.com,2022-06-10:/mdbootstrap/mdb-ui-kit</id>
-    <link href="https://github.com/mdbootstrap/mdb-ui-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap 5 &amp; Material Design 2.0 UI KIT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Dorota1997/react-frontend-dev-portfolio</title>
+    <updated>2022-06-11T02:01:15Z</updated>
+    <id>tag:github.com,2022-06-11:/Dorota1997/react-frontend-dev-portfolio</id>
+    <link href="https://github.com/Dorota1997/react-frontend-dev-portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easy to adapt and deploy React portfolio inspired with solutions found at GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LeNPaul/Millennial</title>
-    <updated>2022-06-10T01:53:27Z</updated>
-    <id>tag:github.com,2022-06-10:/LeNPaul/Millennial</id>
-    <link href="https://github.com/LeNPaul/Millennial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimalist Jekyll theme for running a blog or publication powered by Jekyll and GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>miniMAC/magic</title>
+    <updated>2022-06-11T02:01:15Z</updated>
+    <id>tag:github.com,2022-06-11:/miniMAC/magic</id>
+    <link href="https://github.com/miniMAC/magic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSS3 Animations with special effects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

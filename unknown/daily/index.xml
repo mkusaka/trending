@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:32:52Z</updated>
+  <updated>2022-06-11T01:38:55Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>skills/introduction-to-github</title>
-    <updated>2022-06-10T01:32:52Z</updated>
-    <id>tag:github.com,2022-06-10:/skills/introduction-to-github</id>
-    <link href="https://github.com/skills/introduction-to-github" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get started using GitHub in less than an hour.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tvbb/z</title>
+    <updated>2022-06-11T01:38:55Z</updated>
+    <id>tag:github.com,2022-06-11:/tvbb/z</id>
+    <link href="https://github.com/tvbb/z" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eugeneyan/applied-ml</title>
-    <updated>2022-06-10T01:32:52Z</updated>
-    <id>tag:github.com,2022-06-10:/eugeneyan/applied-ml</id>
-    <link href="https://github.com/eugeneyan/applied-ml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qianguyihao/Web</title>
+    <updated>2022-06-11T01:38:55Z</updated>
+    <id>tag:github.com,2022-06-11:/qianguyihao/Web</id>
+    <link href="https://github.com/qianguyihao/Web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>apple/device-management</title>
-    <updated>2022-06-10T01:32:52Z</updated>
-    <id>tag:github.com,2022-06-10:/apple/device-management</id>
-    <link href="https://github.com/apple/device-management" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Device management schema data for MDM.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GitHubDaily/GitHubDaily</title>
+    <updated>2022-06-11T01:38:55Z</updated>
+    <id>tag:github.com,2022-06-11:/GitHubDaily/GitHubDaily</id>
+    <link href="https://github.com/GitHubDaily/GitHubDaily" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

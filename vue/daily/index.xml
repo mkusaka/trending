@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:57:45Z</updated>
+  <updated>2022-06-11T02:05:23Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>StavinLi/Workflow</title>
-    <updated>2022-06-10T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-10:/StavinLi/Workflow</id>
-    <link href="https://github.com/StavinLi/Workflow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;仿钉钉审批流程设置&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Awheat/vue2-douban-market</title>
+    <updated>2022-06-11T02:05:23Z</updated>
+    <id>tag:github.com,2022-06-11:/Awheat/vue2-douban-market</id>
+    <link href="https://github.com/Awheat/vue2-douban-market" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个vue全家桶入门Demo ！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pengxiaotian/datav-vue</title>
-    <updated>2022-06-10T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-10:/pengxiaotian/datav-vue</id>
-    <link href="https://github.com/pengxiaotian/datav-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>view-design/ViewUIPlus</title>
+    <updated>2022-06-11T02:05:23Z</updated>
+    <id>tag:github.com,2022-06-11:/view-design/ViewUIPlus</id>
+    <link href="https://github.com/view-design/ViewUIPlus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An enterprise-level UI component library and front-end solution based on Vue.js 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vant-ui/vant-demo</title>
-    <updated>2022-06-10T01:57:45Z</updated>
-    <id>tag:github.com,2022-06-10:/vant-ui/vant-demo</id>
-    <link href="https://github.com/vant-ui/vant-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of vant demos.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chaitin/xray</title>
+    <updated>2022-06-11T02:05:23Z</updated>
+    <id>tag:github.com,2022-06-11:/chaitin/xray</id>
+    <link href="https://github.com/chaitin/xray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

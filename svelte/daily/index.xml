@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:55:13Z</updated>
+  <updated>2022-06-11T02:02:55Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kbrgl/svelte-french-toast</title>
-    <updated>2022-06-10T01:55:13Z</updated>
-    <id>tag:github.com,2022-06-10:/kbrgl/svelte-french-toast</id>
-    <link href="https://github.com/kbrgl/svelte-french-toast" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🥂 Buttery smooth toast notifications for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gitpod-io/website</title>
-    <updated>2022-06-10T01:55:13Z</updated>
-    <id>tag:github.com,2022-06-10:/gitpod-io/website</id>
-    <link href="https://github.com/gitpod-io/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gitpod website and documentation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>navneetsharmaui/sveltekit-starter</title>
-    <updated>2022-06-10T01:55:13Z</updated>
-    <id>tag:github.com,2022-06-10:/navneetsharmaui/sveltekit-starter</id>
-    <link href="https://github.com/navneetsharmaui/sveltekit-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paoloricciuti/hexwords</title>
+    <updated>2022-06-11T02:02:55Z</updated>
+    <id>tag:github.com,2022-06-11:/paoloricciuti/hexwords</id>
+    <link href="https://github.com/paoloricciuti/hexwords" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

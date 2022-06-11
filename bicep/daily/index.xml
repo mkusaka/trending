@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-10T01:34:50Z</updated>
+  <updated>2022-06-11T01:41:08Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/industry</title>
+    <updated>2022-06-11T01:41:08Z</updated>
+    <id>tag:github.com,2022-06-11:/microsoft/industry</id>
+    <link href="https://github.com/microsoft/industry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository provides holistic architecture design and reference implementation for industry cloud based on proven success of large scale deployments and at-scale adoption with customers and partners.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Yatish0833/VariantSpark-Azure-deployment</title>
+    <updated>2022-06-11T01:41:08Z</updated>
+    <id>tag:github.com,2022-06-11:/Yatish0833/VariantSpark-Azure-deployment</id>
+    <link href="https://github.com/Yatish0833/VariantSpark-Azure-deployment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
