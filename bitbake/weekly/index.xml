@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:02:31Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Freescale/meta-freescale-3rdparty</title>
+    <updated>2022-06-12T02:02:31Z</updated>
+    <id>tag:github.com,2022-06-12:/Freescale/meta-freescale-3rdparty</id>
+    <link href="https://github.com/Freescale/meta-freescale-3rdparty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenEmbedded/Yocto BSP layer for Freescale&#39;s ARM based platforms&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LibertyGlobal/meta-virtualization</title>
+    <updated>2022-06-12T02:02:31Z</updated>
+    <id>tag:github.com,2022-06-12:/LibertyGlobal/meta-virtualization</id>
+    <link href="https://github.com/LibertyGlobal/meta-virtualization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of http://git.yoctoproject.org/cgit/cgit.cgi/meta-virtualization/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OSSystems/meta-gstreamer1.0</title>
+    <updated>2022-06-12T02:02:31Z</updated>
+    <id>tag:github.com,2022-06-12:/OSSystems/meta-gstreamer1.0</id>
+    <link href="https://github.com/OSSystems/meta-gstreamer1.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenEmbedded layer for GStreamer 1.0&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:06:38Z</updated>
+  <subtitle>Weekly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>saviodossantos/projeto-videos</title>
+    <updated>2022-06-12T02:06:38Z</updated>
+    <id>tag:github.com,2022-06-12:/saviodossantos/projeto-videos</id>
+    <link href="https://github.com/saviodossantos/projeto-videos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Capacitation project building in team by 10 where the objective is create a video streaming service.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>replit/blog</title>
+    <updated>2022-06-12T02:06:38Z</updated>
+    <id>tag:github.com,2022-06-12:/replit/blog</id>
+    <link href="https://github.com/replit/blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the code behind https://blog.replit.com/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VitorAVPereira/projeto-videos-time-2</title>
+    <updated>2022-06-12T02:06:38Z</updated>
+    <id>tag:github.com,2022-06-12:/VitorAVPereira/projeto-videos-time-2</id>
+    <link href="https://github.com/VitorAVPereira/projeto-videos-time-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

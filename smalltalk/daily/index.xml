@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T02:02:03Z</updated>
+  <updated>2022-06-12T01:53:31Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zweidenker/Units</title>
-    <updated>2022-06-11T02:02:03Z</updated>
-    <id>tag:github.com,2022-06-11:/zweidenker/Units</id>
-    <link href="https://github.com/zweidenker/Units" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple package for units&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-releaser</title>
+    <updated>2022-06-12T01:53:31Z</updated>
+    <id>tag:github.com,2022-06-12:/feenkcom/gtoolkit-releaser</id>
+    <link href="https://github.com/feenkcom/gtoolkit-releaser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The engine for releasing deeply nested projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-debugadapterprotocol</title>
-    <updated>2022-06-11T02:02:03Z</updated>
-    <id>tag:github.com,2022-06-11:/feenkcom/gtoolkit-debugadapterprotocol</id>
-    <link href="https://github.com/feenkcom/gtoolkit-debugadapterprotocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gtoolkit specific functionality for Debug Adapter Protocol access&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pharo-rdbms/Pharo-SQLite3</title>
+    <updated>2022-06-12T01:53:31Z</updated>
+    <id>tag:github.com,2022-06-12:/pharo-rdbms/Pharo-SQLite3</id>
+    <link href="https://github.com/pharo-rdbms/Pharo-SQLite3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community-owned official SQLite3 binding for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/JavaScriptGenerator</title>
-    <updated>2022-06-11T02:02:03Z</updated>
-    <id>tag:github.com,2022-06-11:/feenkcom/JavaScriptGenerator</id>
-    <link href="https://github.com/feenkcom/JavaScriptGenerator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toolkit to generate JavaScript source code from Pharo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-remoterunner</title>
+    <updated>2022-06-12T01:53:31Z</updated>
+    <id>tag:github.com,2022-06-12:/feenkcom/gtoolkit-remoterunner</id>
+    <link href="https://github.com/feenkcom/gtoolkit-remoterunner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A framework for running tests and examples across a distributed system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jsonnet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:11:24Z</updated>
+  <subtitle>Weekly Trending of Jsonnet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kubeflow/kubeflow</title>
+    <updated>2022-06-12T02:11:24Z</updated>
+    <id>tag:github.com,2022-06-12:/kubeflow/kubeflow</id>
+    <link href="https://github.com/kubeflow/kubeflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Machine Learning Toolkit for Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grafana/grafonnet-lib</title>
+    <updated>2022-06-12T02:11:24Z</updated>
+    <id>tag:github.com,2022-06-12:/grafana/grafonnet-lib</id>
+    <link href="https://github.com/grafana/grafonnet-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jsonnet library for generating Grafana dashboard files.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kubernetes-monitoring/kubernetes-mixin</title>
+    <updated>2022-06-12T02:11:24Z</updated>
+    <id>tag:github.com,2022-06-12:/kubernetes-monitoring/kubernetes-mixin</id>
+    <link href="https://github.com/kubernetes-monitoring/kubernetes-mixin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of Grafana dashboards and Prometheus alerts for Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

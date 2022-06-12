@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:51:19Z</updated>
+  <updated>2022-06-12T01:44:07Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Chemellia/AtomicGraphNets.jl</title>
-    <updated>2022-06-11T01:51:19Z</updated>
-    <id>tag:github.com,2022-06-11:/Chemellia/AtomicGraphNets.jl</id>
-    <link href="https://github.com/Chemellia/AtomicGraphNets.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Atomic graph models for molecules and crystals in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaFolds/BangBang.jl</title>
+    <updated>2022-06-12T01:44:07Z</updated>
+    <id>tag:github.com,2022-06-12:/JuliaFolds/BangBang.jl</id>
+    <link href="https://github.com/JuliaFolds/BangBang.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Immutables as mutables, mutables as immutables.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaSymbolics/Symbolics.jl</title>
-    <updated>2022-06-11T01:51:19Z</updated>
-    <id>tag:github.com,2022-06-11:/JuliaSymbolics/Symbolics.jl</id>
-    <link href="https://github.com/JuliaSymbolics/Symbolics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast and modern CAS for a fast and modern language.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaArrays/StaticArrays.jl</title>
+    <updated>2022-06-12T01:44:07Z</updated>
+    <id>tag:github.com,2022-06-12:/JuliaArrays/StaticArrays.jl</id>
+    <link href="https://github.com/JuliaArrays/StaticArrays.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Statically sized arrays for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BioJulia/BioSequences.jl</title>
-    <updated>2022-06-11T01:51:19Z</updated>
-    <id>tag:github.com,2022-06-11:/BioJulia/BioSequences.jl</id>
-    <link href="https://github.com/BioJulia/BioSequences.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Biological sequences for the julia language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thowell/CALIPSO.jl</title>
+    <updated>2022-06-12T01:44:07Z</updated>
+    <id>tag:github.com,2022-06-12:/thowell/CALIPSO.jl</id>
+    <link href="https://github.com/thowell/CALIPSO.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Conic Augmented Lagrangian Interior-Point SOlver&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

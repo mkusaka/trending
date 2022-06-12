@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T02:02:13Z</updated>
+  <updated>2022-06-12T01:53:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SoulBoundProtocol/ERC721S</title>
-    <updated>2022-06-11T02:02:13Z</updated>
-    <id>tag:github.com,2022-06-11:/SoulBoundProtocol/ERC721S</id>
-    <link href="https://github.com/SoulBoundProtocol/ERC721S" rel="alternate"></link>
+    <title>bojitoken/BOJI</title>
+    <updated>2022-06-12T01:53:44Z</updated>
+    <id>tag:github.com,2022-06-12:/bojitoken/BOJI</id>
+    <link href="https://github.com/bojitoken/BOJI" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bnb-chain/bsc-genesis-contract</title>
-    <updated>2022-06-11T02:02:13Z</updated>
-    <id>tag:github.com,2022-06-11:/bnb-chain/bsc-genesis-contract</id>
-    <link href="https://github.com/bnb-chain/bsc-genesis-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The genesis contracts of Binance Smart Chain.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>beefyfinance/beefy-contracts</title>
+    <updated>2022-06-12T01:53:44Z</updated>
+    <id>tag:github.com,2022-06-12:/beefyfinance/beefy-contracts</id>
+    <link href="https://github.com/beefyfinance/beefy-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public repo for the community devs to advance the Beefy protocol.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>niclin/nic_meta</title>
-    <updated>2022-06-11T02:02:13Z</updated>
-    <id>tag:github.com,2022-06-11:/niclin/nic_meta</id>
-    <link href="https://github.com/niclin/nic_meta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nicolasgarcia214/damn-vulnerable-defi-foundry</title>
+    <updated>2022-06-12T01:53:44Z</updated>
+    <id>tag:github.com,2022-06-12:/nicolasgarcia214/damn-vulnerable-defi-foundry</id>
+    <link href="https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Damn Vulnerable DeFi - Foundry Version&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

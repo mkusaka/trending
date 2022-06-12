@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stata Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T02:02:44Z</updated>
+  <updated>2022-06-12T01:54:12Z</updated>
   <subtitle>Daily Trending of Stata in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Mixtape-Sessions/Causal-Inference</title>
+    <updated>2022-06-12T01:54:12Z</updated>
+    <id>tag:github.com,2022-06-12:/Mixtape-Sessions/Causal-Inference</id>
+    <link href="https://github.com/Mixtape-Sessions/Causal-Inference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Causal Inference Mixtape Sessions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

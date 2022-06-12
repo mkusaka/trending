@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:10:02Z</updated>
+  <subtitle>Weekly Trending of HLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>crosire/reshade-shaders</title>
+    <updated>2022-06-12T02:10:02Z</updated>
+    <id>tag:github.com,2022-06-12:/crosire/reshade-shaders</id>
+    <link href="https://github.com/crosire/reshade-shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of post-processing shaders written for ReShade.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ray-cast/ray-mmd</title>
+    <updated>2022-06-12T02:10:02Z</updated>
+    <id>tag:github.com,2022-06-12:/ray-cast/ray-mmd</id>
+    <link href="https://github.com/ray-cast/ray-mmd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎨 The project is designed to create a physically-based rendering at mikumikudance.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ikaroon/TMP3D</title>
+    <updated>2022-06-12T02:10:02Z</updated>
+    <id>tag:github.com,2022-06-12:/Ikaroon/TMP3D</id>
+    <link href="https://github.com/Ikaroon/TMP3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small extension that makes 3D text with Unity&#39;s TextMeshPro possible. It uses raymarching and a geometry shader to work around the limitations of TMP at the moment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T02:05:11Z</updated>
+  <updated>2022-06-12T01:56:29Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jiangmiao/auto-pairs</title>
-    <updated>2022-06-11T02:05:11Z</updated>
-    <id>tag:github.com,2022-06-11:/jiangmiao/auto-pairs</id>
-    <link href="https://github.com/jiangmiao/auto-pairs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin, insert or delete brackets, parens, quotes in pair&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prabirshrestha/vim-lsp</title>
+    <updated>2022-06-12T01:56:29Z</updated>
+    <id>tag:github.com,2022-06-12:/prabirshrestha/vim-lsp</id>
+    <link href="https://github.com/prabirshrestha/vim-lsp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;async language server protocol plugin for vim and neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AtsushiM/css-skelton.vim</title>
-    <updated>2022-06-11T02:05:11Z</updated>
-    <id>tag:github.com,2022-06-11:/AtsushiM/css-skelton.vim</id>
-    <link href="https://github.com/AtsushiM/css-skelton.vim" rel="alternate"></link>
+    <title>nseemakurty/dotfiles</title>
+    <updated>2022-06-12T01:56:29Z</updated>
+    <id>tag:github.com,2022-06-12:/nseemakurty/dotfiles</id>
+    <link href="https://github.com/nseemakurty/dotfiles" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>t9md/vim-choosewin</title>
-    <updated>2022-06-11T02:05:11Z</updated>
-    <id>tag:github.com,2022-06-11:/t9md/vim-choosewin</id>
-    <link href="https://github.com/t9md/vim-choosewin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Land on window you chose like tmux&#39;s &#39;display-pane&#39;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>junegunn/vader.vim</title>
+    <updated>2022-06-12T01:56:29Z</updated>
+    <id>tag:github.com,2022-06-12:/junegunn/vader.vim</id>
+    <link href="https://github.com/junegunn/vader.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Vimscript test framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

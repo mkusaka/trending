@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:20:48Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jonsuh/hamburgers</title>
+    <updated>2022-06-12T02:20:48Z</updated>
+    <id>tag:github.com,2022-06-12:/jonsuh/hamburgers</id>
+    <link href="https://github.com/jonsuh/hamburgers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tasty CSS-animated Hamburgers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alexgurr/react-coding-challenges</title>
+    <updated>2022-06-12T02:20:48Z</updated>
+    <id>tag:github.com,2022-06-12:/alexgurr/react-coding-challenges</id>
+    <link href="https://github.com/alexgurr/react-coding-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A series of ReactJS coding challenges with a variety of difficulties.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ileriayo/markdown-badges</title>
+    <updated>2022-06-12T02:20:48Z</updated>
+    <id>tag:github.com,2022-06-12:/Ileriayo/markdown-badges</id>
+    <link href="https://github.com/Ileriayo/markdown-badges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Badges for your personal developer branding, profile, and projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

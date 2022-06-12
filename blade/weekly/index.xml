@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blade Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:02:28Z</updated>
+  <subtitle>Weekly Trending of Blade in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>laravel/laravel.com</title>
+    <updated>2022-06-12T02:02:28Z</updated>
+    <id>tag:github.com,2022-06-12:/laravel/laravel.com</id>
+    <link href="https://github.com/laravel/laravel.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The source code of the official Laravel website.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Prajwal100/Advance-Ecommerce-in-laravel-7</title>
+    <updated>2022-06-12T02:02:28Z</updated>
+    <id>tag:github.com,2022-06-12:/Prajwal100/Advance-Ecommerce-in-laravel-7</id>
+    <link href="https://github.com/Prajwal100/Advance-Ecommerce-in-laravel-7" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advance e-commerce website in laravel 7.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stancl/tenancy-docs</title>
+    <updated>2022-06-12T02:02:28Z</updated>
+    <id>tag:github.com,2022-06-12:/stancl/tenancy-docs</id>
+    <link href="https://github.com/stancl/tenancy-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;stancl/tenancy docs &amp; website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

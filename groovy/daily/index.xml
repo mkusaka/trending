@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:48:58Z</updated>
+  <updated>2022-06-12T01:42:02Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devbyaccident/demo-shared-pipeline</title>
-    <updated>2022-06-11T01:48:58Z</updated>
-    <id>tag:github.com,2022-06-11:/devbyaccident/demo-shared-pipeline</id>
-    <link href="https://github.com/devbyaccident/demo-shared-pipeline" rel="alternate"></link>
+    <title>ReadyTalk/gradle-readytalk-plugin</title>
+    <updated>2022-06-12T01:42:02Z</updated>
+    <id>tag:github.com,2022-06-12:/ReadyTalk/gradle-readytalk-plugin</id>
+    <link href="https://github.com/ReadyTalk/gradle-readytalk-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[ARCHIVED]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>noamt/amazon-wishlist-parser</title>
+    <updated>2022-06-12T01:42:02Z</updated>
+    <id>tag:github.com,2022-06-12:/noamt/amazon-wishlist-parser</id>
+    <link href="https://github.com/noamt/amazon-wishlist-parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Produces a simple text list out of an Amazon wish list PDF file&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>savannahghi/openmrs-module-patientqueue</title>
+    <updated>2022-06-12T01:42:02Z</updated>
+    <id>tag:github.com,2022-06-12:/savannahghi/openmrs-module-patientqueue</id>
+    <link href="https://github.com/savannahghi/openmrs-module-patientqueue" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

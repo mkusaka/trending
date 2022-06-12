@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:47:06Z</updated>
+  <updated>2022-06-12T01:40:26Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dials/ccp4io_adaptbx</title>
+    <updated>2022-06-12T01:40:26Z</updated>
+    <id>tag:github.com,2022-06-12:/dials/ccp4io_adaptbx</id>
+    <link href="https://github.com/dials/ccp4io_adaptbx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;copy of LBL archive&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

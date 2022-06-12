@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:02:22Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/ResourceModules</title>
+    <updated>2022-06-12T02:02:22Z</updated>
+    <id>tag:github.com,2022-06-12:/Azure/ResourceModules</id>
+    <link href="https://github.com/Azure/ResourceModules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/ALZ-Bicep</title>
+    <updated>2022-06-12T02:02:22Z</updated>
+    <id>tag:github.com,2022-06-12:/Azure/ALZ-Bicep</id>
+    <link href="https://github.com/Azure/ALZ-Bicep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mspnp/aks-baseline</title>
+    <updated>2022-06-12T02:02:22Z</updated>
+    <id>tag:github.com,2022-06-12:/mspnp/aks-baseline</id>
+    <link href="https://github.com/mspnp/aks-baseline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

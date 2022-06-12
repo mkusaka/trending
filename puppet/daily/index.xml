@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:58:54Z</updated>
+  <updated>2022-06-12T01:50:32Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>grafana/puppet-grafana</title>
-    <updated>2022-06-11T01:58:54Z</updated>
-    <id>tag:github.com,2022-06-11:/grafana/puppet-grafana</id>
-    <link href="https://github.com/grafana/puppet-grafana" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grafana Puppet Module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>example42/puppet-tinc</title>
-    <updated>2022-06-11T01:58:54Z</updated>
-    <id>tag:github.com,2022-06-11:/example42/puppet-tinc</id>
-    <link href="https://github.com/example42/puppet-tinc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module for Tinc&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alvagante/puppet-scmserver</title>
-    <updated>2022-06-11T01:58:54Z</updated>
-    <id>tag:github.com,2022-06-11:/alvagante/puppet-scmserver</id>
-    <link href="https://github.com/alvagante/puppet-scmserver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module for SCM Server&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

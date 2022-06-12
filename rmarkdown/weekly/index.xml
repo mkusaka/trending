@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub RMarkdown Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:20:00Z</updated>
+  <subtitle>Weekly Trending of RMarkdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rstudio/rmarkdown-cookbook</title>
+    <updated>2022-06-12T02:20:00Z</updated>
+    <id>tag:github.com,2022-06-12:/rstudio/rmarkdown-cookbook</id>
+    <link href="https://github.com/rstudio/rmarkdown-cookbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;R Markdown Cookbook. A range of tips and tricks to make better use of R Markdown.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

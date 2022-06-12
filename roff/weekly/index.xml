@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Roff Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:20:03Z</updated>
+  <subtitle>Weekly Trending of Roff in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Cardano-NFTs/policyIDs</title>
+    <updated>2022-06-12T02:20:03Z</updated>
+    <id>tag:github.com,2022-06-12:/Cardano-NFTs/policyIDs</id>
+    <link href="https://github.com/Cardano-NFTs/policyIDs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CNFTs Verified Policy Database&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alextanhongpin/database-design</title>
+    <updated>2022-06-12T02:20:03Z</updated>
+    <id>tag:github.com,2022-06-12:/alextanhongpin/database-design</id>
+    <link href="https://github.com/alextanhongpin/database-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ideas on better database design&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lydrainbowcat/tedukuri</title>
+    <updated>2022-06-12T02:20:03Z</updated>
+    <id>tag:github.com,2022-06-12:/lydrainbowcat/tedukuri</id>
+    <link href="https://github.com/lydrainbowcat/tedukuri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《算法竞赛进阶指南》资源社区&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

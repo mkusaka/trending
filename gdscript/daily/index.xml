@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:47:31Z</updated>
+  <updated>2022-06-12T01:40:49Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MenacingMecha/gd_fpcc</title>
-    <updated>2022-06-11T01:47:31Z</updated>
-    <id>tag:github.com,2022-06-11:/MenacingMecha/gd_fpcc</id>
-    <link href="https://github.com/MenacingMecha/gd_fpcc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;First person character controller for Godot Engine 3.x&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alfredbaudisch/Godello</title>
+    <updated>2022-06-12T01:40:49Z</updated>
+    <id>tag:github.com,2022-06-12:/alfredbaudisch/Godello</id>
+    <link href="https://github.com/alfredbaudisch/Godello" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jgillich/godot-snappy</title>
+    <updated>2022-06-12T01:40:49Z</updated>
+    <id>tag:github.com,2022-06-12:/jgillich/godot-snappy</id>
+    <link href="https://github.com/jgillich/godot-snappy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vertex snapping plugin for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Orama-Interactive/Keychain</title>
+    <updated>2022-06-12T01:40:49Z</updated>
+    <id>tag:github.com,2022-06-12:/Orama-Interactive/Keychain</id>
+    <link href="https://github.com/Orama-Interactive/Keychain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Keychain is a plugin for the Godot Engine that aims to give the player full control over the input actions of the game.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

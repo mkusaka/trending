@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:24:50Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>junegunn/fzf.vim</title>
+    <updated>2022-06-12T02:24:50Z</updated>
+    <id>tag:github.com,2022-06-12:/junegunn/fzf.vim</id>
+    <link href="https://github.com/junegunn/fzf.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;fzf ❤️ vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>altercation/solarized</title>
+    <updated>2022-06-12T02:24:50Z</updated>
+    <id>tag:github.com,2022-06-12:/altercation/solarized</id>
+    <link href="https://github.com/altercation/solarized" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>neovim/neovim</title>
+    <updated>2022-06-12T02:24:50Z</updated>
+    <id>tag:github.com,2022-06-12:/neovim/neovim</id>
+    <link href="https://github.com/neovim/neovim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim-fork focused on extensibility and usability&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

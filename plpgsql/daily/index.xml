@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:57:56Z</updated>
+  <updated>2022-06-12T01:49:50Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>marcopeg/amazing-postgresql</title>
-    <updated>2022-06-11T01:57:56Z</updated>
-    <id>tag:github.com,2022-06-11:/marcopeg/amazing-postgresql</id>
-    <link href="https://github.com/marcopeg/amazing-postgresql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of info, queries, resources and ideas on PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>devrimgunduz/pagila</title>
-    <updated>2022-06-11T01:57:56Z</updated>
-    <id>tag:github.com,2022-06-11:/devrimgunduz/pagila</id>
-    <link href="https://github.com/devrimgunduz/pagila" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PostgreSQL Sample Database&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>supabase/walrus</title>
-    <updated>2022-06-11T01:57:56Z</updated>
-    <id>tag:github.com,2022-06-11:/supabase/walrus</id>
-    <link href="https://github.com/supabase/walrus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Applying RLS to PostgreSQL WAL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>supabase/supa_audit</title>
+    <updated>2022-06-12T01:49:50Z</updated>
+    <id>tag:github.com,2022-06-12:/supabase/supa_audit</id>
+    <link href="https://github.com/supabase/supa_audit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generic Table Auditing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:08:07Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>godotengine/godot-demo-projects</title>
+    <updated>2022-06-12T02:08:07Z</updated>
+    <id>tag:github.com,2022-06-12:/godotengine/godot-demo-projects</id>
+    <link href="https://github.com/godotengine/godot-demo-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demonstration and Template Projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GDQuest/learn-gdscript</title>
+    <updated>2022-06-12T02:08:07Z</updated>
+    <id>tag:github.com,2022-06-12:/GDQuest/learn-gdscript</id>
+    <link href="https://github.com/GDQuest/learn-gdscript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Godot&#39;s GDScript programming language from zero, right in your browser, for free.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Orama-Interactive/Pixelorama</title>
+    <updated>2022-06-12T02:08:07Z</updated>
+    <id>tag:github.com,2022-06-12:/Orama-Interactive/Pixelorama</id>
+    <link href="https://github.com/Orama-Interactive/Pixelorama" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free &amp; open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

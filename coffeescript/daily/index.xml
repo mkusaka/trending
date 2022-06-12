@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:43:13Z</updated>
+  <updated>2022-06-12T01:36:45Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DoersGuild/programmer-competency</title>
-    <updated>2022-06-11T01:43:13Z</updated>
-    <id>tag:github.com,2022-06-11:/DoersGuild/programmer-competency</id>
-    <link href="https://github.com/DoersGuild/programmer-competency" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A PhoneGap app that helps you find where you stand as a programmer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>christophercliff/wintersmith-kelvin</title>
+    <updated>2022-06-12T01:36:45Z</updated>
+    <id>tag:github.com,2022-06-12:/christophercliff/wintersmith-kelvin</id>
+    <link href="https://github.com/christophercliff/wintersmith-kelvin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A production-ready asset management plugin for Wintersmith.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

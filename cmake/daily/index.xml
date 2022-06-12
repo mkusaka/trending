@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:43:03Z</updated>
+  <updated>2022-06-12T01:36:36Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ros2/example_interfaces</title>
-    <updated>2022-06-11T01:43:03Z</updated>
-    <id>tag:github.com,2022-06-11:/ros2/example_interfaces</id>
-    <link href="https://github.com/ros2/example_interfaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Msg, Srv, etc. ROS interfaces used in examples&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NNTU-CS/ADS-3</title>
+    <updated>2022-06-12T01:36:36Z</updated>
+    <id>tag:github.com,2022-06-12:/NNTU-CS/ADS-3</id>
+    <link href="https://github.com/NNTU-CS/ADS-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>usdot-fhwa-stol/carma-msgs</title>
-    <updated>2022-06-11T01:43:03Z</updated>
-    <id>tag:github.com,2022-06-11:/usdot-fhwa-stol/carma-msgs</id>
-    <link href="https://github.com/usdot-fhwa-stol/carma-msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ROS Message definitions used by the CARMA Platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rudislabs/nxp_cup_interfaces</title>
+    <updated>2022-06-12T01:36:36Z</updated>
+    <id>tag:github.com,2022-06-12:/rudislabs/nxp_cup_interfaces</id>
+    <link href="https://github.com/rudislabs/nxp_cup_interfaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS2 Messages and Services for NXP Cup challenge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethz-asl/yaml_cpp_catkin</title>
-    <updated>2022-06-11T01:43:03Z</updated>
-    <id>tag:github.com,2022-06-11:/ethz-asl/yaml_cpp_catkin</id>
-    <link href="https://github.com/ethz-asl/yaml_cpp_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yaml cpp catkin package&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ros-planning/moveit_msgs</title>
+    <updated>2022-06-12T01:36:36Z</updated>
+    <id>tag:github.com,2022-06-12:/ros-planning/moveit_msgs</id>
+    <link href="https://github.com/ros-planning/moveit_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS messages used by MoveIt&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

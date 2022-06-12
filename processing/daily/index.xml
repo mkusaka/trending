@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:58:35Z</updated>
+  <updated>2022-06-12T01:50:19Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AndySok/Sokolov-is-Banned</title>
+    <updated>2022-06-12T01:50:19Z</updated>
+    <id>tag:github.com,2022-06-12:/AndySok/Sokolov-is-Banned</id>
+    <link href="https://github.com/AndySok/Sokolov-is-Banned" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a.k.a sokoban&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

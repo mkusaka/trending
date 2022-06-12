@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:01:48Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bitonic/pipes-speed-test</title>
+    <updated>2022-06-12T02:01:48Z</updated>
+    <id>tag:github.com,2022-06-12:/bitonic/pipes-speed-test</id>
+    <link href="https://github.com/bitonic/pipes-speed-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DerpFest-12/bionic</title>
+    <updated>2022-06-12T02:01:48Z</updated>
+    <id>tag:github.com,2022-06-12:/DerpFest-12/bionic</id>
+    <link href="https://github.com/DerpFest-12/bionic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mmasztalerczuk/Others</title>
+    <updated>2022-06-12T02:01:48Z</updated>
+    <id>tag:github.com,2022-06-12:/mmasztalerczuk/Others</id>
+    <link href="https://github.com/mmasztalerczuk/Others" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Others&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

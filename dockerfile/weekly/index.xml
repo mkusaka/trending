@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:05:59Z</updated>
+  <subtitle>Weekly Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kelseyhightower/nocode</title>
+    <updated>2022-06-12T02:05:59Z</updated>
+    <id>tag:github.com,2022-06-12:/kelseyhightower/nocode</id>
+    <link href="https://github.com/kelseyhightower/nocode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The best way to write secure and reliable applications. Write nothing; deploy nowhere.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;No Code&lt;/h1&gt; &#xA;&lt;p&gt;No code is the best way to write secure and reliable applications. Write nothing; deploy nowhere.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;Start by not writing any code.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This is just an example application, but imagine it doing anything you want. Adding new features is easy too:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The possibilities are endless.&lt;/p&gt; &#xA;&lt;h3&gt;Building the Application&lt;/h3&gt; &#xA;&lt;p&gt;Now that you have not done anything it&#39;s time to build your application:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Yep. That&#39;s it. You should see the following output:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Deploying&lt;/h3&gt; &#xA;&lt;p&gt;While you still have not done anything it&#39;s time to deploy your application. By running the following command you can deploy your application absolutely nowhere.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;It&#39;s that simple. And when it comes time to scale the application, all you have to do is:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;I know right?&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;You don&#39;t.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>nnn-training/yarn-training</title>
+    <updated>2022-06-12T02:05:59Z</updated>
+    <id>tag:github.com,2022-06-12:/nnn-training/yarn-training</id>
+    <link href="https://github.com/nnn-training/yarn-training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;入門コースの3章5節 yarnの練習&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yankils/Simple-DevOps-Project</title>
+    <updated>2022-06-12T02:05:59Z</updated>
+    <id>tag:github.com,2022-06-12:/yankils/Simple-DevOps-Project</id>
+    <link href="https://github.com/yankils/Simple-DevOps-Project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple DevOps Project&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F&#34;&gt;&lt;img src=&#34;https://github.com/yankils/Simple-DevOps-Project/raw/master/Devops_course.PNG&#34; alt=&#34;Image&#34; title=&#34;DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes &#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This Repository is a collection of Implementation documents.&lt;/p&gt; &#xA;&lt;h3&gt;Purpose:&lt;/h3&gt; &#xA;&lt;p&gt;By following this repository you can able to setup a DevOps CI/CD Pipeline using&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;git&lt;/li&gt; &#xA; &lt;li&gt;Jenkins&lt;/li&gt; &#xA; &lt;li&gt;Maven&lt;/li&gt; &#xA; &lt;li&gt;Ansible&lt;/li&gt; &#xA; &lt;li&gt;Docker &amp;amp;&lt;/li&gt; &#xA; &lt;li&gt;Kubernetes&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>

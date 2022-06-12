@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:05:05Z</updated>
+  <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NVIDIA/CUDALibrarySamples</title>
+    <updated>2022-06-12T02:05:05Z</updated>
+    <id>tag:github.com,2022-06-12:/NVIDIA/CUDALibrarySamples</id>
+    <link href="https://github.com/NVIDIA/CUDALibrarySamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CUDA Library Samples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bytedance/lightseq</title>
+    <updated>2022-06-12T02:05:05Z</updated>
+    <id>tag:github.com,2022-06-12:/bytedance/lightseq</id>
+    <link href="https://github.com/bytedance/lightseq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LightSeq: A High Performance Library for Sequence Processing and Generation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA/cub</title>
+    <updated>2022-06-12T02:05:05Z</updated>
+    <id>tag:github.com,2022-06-12:/NVIDIA/cub</id>
+    <link href="https://github.com/NVIDIA/cub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cooperative primitives for CUDA C++.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

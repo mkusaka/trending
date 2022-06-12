@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:40:30Z</updated>
+  <updated>2022-06-12T01:34:04Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>android/renderscript-intrinsics-replacement-toolkit</title>
-    <updated>2022-06-11T01:40:30Z</updated>
-    <id>tag:github.com,2022-06-11:/android/renderscript-intrinsics-replacement-toolkit</id>
-    <link href="https://github.com/android/renderscript-intrinsics-replacement-toolkit" rel="alternate"></link>
+    <title>Flamingo-OS/bionic</title>
+    <updated>2022-06-12T01:34:04Z</updated>
+    <id>tag:github.com,2022-06-12:/Flamingo-OS/bionic</id>
+    <link href="https://github.com/Flamingo-OS/bionic" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>scanberg/pumlab3</title>
-    <updated>2022-06-11T01:40:30Z</updated>
-    <id>tag:github.com,2022-06-11:/scanberg/pumlab3</id>
-    <link href="https://github.com/scanberg/pumlab3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>videolan/x265</title>
+    <updated>2022-06-12T01:34:04Z</updated>
+    <id>tag:github.com,2022-06-12:/videolan/x265</id>
+    <link href="https://github.com/videolan/x265" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://bitbucket.org/multicoreware/x265/ git mirror&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>supranational/blst</title>
-    <updated>2022-06-11T01:40:30Z</updated>
-    <id>tag:github.com,2022-06-11:/supranational/blst</id>
-    <link href="https://github.com/supranational/blst" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multilingual BLS12-381 signature library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RandalLinden/DOOM-FX</title>
+    <updated>2022-06-12T01:34:04Z</updated>
+    <id>tag:github.com,2022-06-12:/RandalLinden/DOOM-FX</id>
+    <link href="https://github.com/RandalLinden/DOOM-FX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Doom/FX for Super Nintendo with SuperFX GSU2A&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

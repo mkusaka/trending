@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:13:32Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>open-telemetry/opentelemetry-specification</title>
+    <updated>2022-06-12T02:13:32Z</updated>
+    <id>tag:github.com,2022-06-12:/open-telemetry/opentelemetry-specification</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-specification" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NJU-ProjectN/os-workbench-2022</title>
+    <updated>2022-06-12T02:13:32Z</updated>
+    <id>tag:github.com,2022-06-12:/NJU-ProjectN/os-workbench-2022</id>
+    <link href="https://github.com/NJU-ProjectN/os-workbench-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openwrt/packages</title>
+    <updated>2022-06-12T02:13:32Z</updated>
+    <id>tag:github.com,2022-06-12:/openwrt/packages</id>
+    <link href="https://github.com/openwrt/packages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

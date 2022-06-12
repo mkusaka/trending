@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:06:44Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>phoenixframework/phoenix_live_view</title>
+    <updated>2022-06-12T02:06:44Z</updated>
+    <id>tag:github.com,2022-06-12:/phoenixframework/phoenix_live_view</id>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rich, real-time user experiences with server-rendered HTML&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>esl/gradient</title>
+    <updated>2022-06-12T02:06:44Z</updated>
+    <id>tag:github.com,2022-06-12:/esl/gradient</id>
+    <link href="https://github.com/esl/gradient" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradient is a static typechecker for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>supabase/realtime</title>
+    <updated>2022-06-12T02:06:44Z</updated>
+    <id>tag:github.com,2022-06-12:/supabase/realtime</id>
+    <link href="https://github.com/supabase/realtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Open Policy Agent Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:16:20Z</updated>
+  <subtitle>Weekly Trending of Open Policy Agent in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elastic/csp-security-policies</title>
+    <updated>2022-06-12T02:16:20Z</updated>
+    <id>tag:github.com,2022-06-12:/elastic/csp-security-policies</id>
+    <link href="https://github.com/elastic/csp-security-policies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cloud Security Posture security policies&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-policy-agent/gatekeeper-library</title>
+    <updated>2022-06-12T02:16:20Z</updated>
+    <id>tag:github.com,2022-06-12:/open-policy-agent/gatekeeper-library</id>
+    <link href="https://github.com/open-policy-agent/gatekeeper-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The OPA Gatekeeper policy library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

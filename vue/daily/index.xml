@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T02:05:23Z</updated>
+  <updated>2022-06-12T01:56:39Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Awheat/vue2-douban-market</title>
-    <updated>2022-06-11T02:05:23Z</updated>
-    <id>tag:github.com,2022-06-11:/Awheat/vue2-douban-market</id>
-    <link href="https://github.com/Awheat/vue2-douban-market" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个vue全家桶入门Demo ！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vuejs-translations/docs-zh-cn</title>
+    <updated>2022-06-12T01:56:39Z</updated>
+    <id>tag:github.com,2022-06-12:/vuejs-translations/docs-zh-cn</id>
+    <link href="https://github.com/vuejs-translations/docs-zh-cn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>view-design/ViewUIPlus</title>
-    <updated>2022-06-11T02:05:23Z</updated>
-    <id>tag:github.com,2022-06-11:/view-design/ViewUIPlus</id>
-    <link href="https://github.com/view-design/ViewUIPlus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An enterprise-level UI component library and front-end solution based on Vue.js 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>inoutcode/ethereum_book</title>
+    <updated>2022-06-12T01:56:39Z</updated>
+    <id>tag:github.com,2022-06-12:/inoutcode/ethereum_book</id>
+    <link href="https://github.com/inoutcode/ethereum_book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;精通以太坊 （中文版）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chaitin/xray</title>
-    <updated>2022-06-11T02:05:23Z</updated>
-    <id>tag:github.com,2022-06-11:/chaitin/xray</id>
-    <link href="https://github.com/chaitin/xray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qier222/YesPlayMusic</title>
+    <updated>2022-06-12T01:56:39Z</updated>
+    <id>tag:github.com,2022-06-12:/qier222/YesPlayMusic</id>
+    <link href="https://github.com/qier222/YesPlayMusic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;高颜值的第三方网易云播放器，支持 Windows / macOS / Linux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

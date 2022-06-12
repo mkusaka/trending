@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T02:04:58Z</updated>
+  <updated>2022-06-12T01:56:19Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>google/CFU-Playground</title>
-    <updated>2022-06-11T02:04:58Z</updated>
-    <id>tag:github.com,2022-06-11:/google/CFU-Playground</id>
-    <link href="https://github.com/google/CFU-Playground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ultraembedded/riscv</title>
+    <updated>2022-06-12T01:56:19Z</updated>
+    <id>tag:github.com,2022-06-12:/ultraembedded/riscv</id>
+    <link href="https://github.com/ultraembedded/riscv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RISC-V CPU Core (RV32IM)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>keioNishi/lec-compsys</title>
-    <updated>2022-06-11T02:04:58Z</updated>
-    <id>tag:github.com,2022-06-11:/keioNishi/lec-compsys</id>
-    <link href="https://github.com/keioNishi/lec-compsys" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>T-head-Semi/openc910</title>
+    <updated>2022-06-12T01:56:19Z</updated>
+    <id>tag:github.com,2022-06-12:/T-head-Semi/openc910</id>
+    <link href="https://github.com/T-head-Semi/openc910" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenXuantie - OpenC910 Core&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

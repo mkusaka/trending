@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:43:22Z</updated>
+  <updated>2022-06-12T01:36:54Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jkcunningham/json-pt</title>
+    <updated>2022-06-12T01:36:54Z</updated>
+    <id>tag:github.com,2022-06-12:/jkcunningham/json-pt</id>
+    <link href="https://github.com/jkcunningham/json-pt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple encoder and decoder between JSON file/strings and p-list tree s-expressions&lt;/p&gt;&lt;hr&gt;&lt;p&gt;JSON-PT is a simple Common Lisp package for interacting with JSON interchange format data. It consists of a decoder, an encoder and some tests which demonstrate usage.&lt;/p&gt; &#xA;&lt;p&gt;This package has no dependencies.&lt;/p&gt; &#xA;&lt;p&gt;There are several excellent JSON utilities around for Common Lisp (see, CL-JSON and especially YASON). I wrote this because I found the other packages a little more difficult than I liked for representing the structures as simple s-expressions (p-list trees). It is very simple to use.&lt;/p&gt; &#xA;&lt;p&gt;The file test-json.lisp contains a series of tests/examples. (Note: the names, addresses, phone numbers, ccard numbers, etc. were randomly generated, so don&#39;t get excited. See my FAKER package for details.)&lt;/p&gt; &#xA;&lt;p&gt;Since this is all there is in the way of documentation, I&#39;ll mention that setting &lt;em&gt;json-pprint&lt;/em&gt; true will write the JSON output with linefeeds and indentation which is nice if you actually need to read one. Setting &lt;em&gt;json-debug&lt;/em&gt; true writes out grotesque amounts of information useful for debugging.&lt;/p&gt; &#xA;&lt;p&gt;I think I&#39;ve covered all the cases at &lt;a href=&#34;http://json.org&#34;&gt;http://json.org&lt;/a&gt;, but I stopped worring about it once my use-case was covered.&lt;/p&gt; &#xA;&lt;p&gt;Email me if you find any bugs, or better yet send me a pull-request with the fix.&lt;/p&gt; &#xA;&lt;p&gt;Jeff Cunningham &lt;a href=&#34;mailto:jeffrey@jkcunningham.com&#34;&gt;jeffrey@jkcunningham.com&lt;/a&gt; 6/2012&lt;/p&gt;</summary>
+  </entry>
 </feed>

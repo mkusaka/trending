@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T01:46:30Z</updated>
+  <updated>2022-06-12T01:39:53Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>milindparikh/nakiabu</title>
-    <updated>2022-06-11T01:46:30Z</updated>
-    <id>tag:github.com,2022-06-11:/milindparikh/nakiabu</id>
-    <link href="https://github.com/milindparikh/nakiabu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;9 9s of availability is the goal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>processone/pgsql</title>
+    <updated>2022-06-12T01:39:53Z</updated>
+    <id>tag:github.com,2022-06-12:/processone/pgsql</id>
+    <link href="https://github.com/processone/pgsql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Erlang PostgreSQL driver&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kivra/greph</title>
-    <updated>2022-06-11T01:46:30Z</updated>
-    <id>tag:github.com,2022-06-11:/kivra/greph</id>
-    <link href="https://github.com/kivra/greph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang port of Prismatic&#39;s graph package.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Bluehouse-Technology/otter_lib</title>
+    <updated>2022-06-12T01:39:53Z</updated>
+    <id>tag:github.com,2022-06-12:/Bluehouse-Technology/otter_lib</id>
+    <link href="https://github.com/Bluehouse-Technology/otter_lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>snaiper80/hashids-erlang</title>
-    <updated>2022-06-11T01:46:30Z</updated>
-    <id>tag:github.com,2022-06-11:/snaiper80/hashids-erlang</id>
-    <link href="https://github.com/snaiper80/hashids-erlang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Erlang port of Hashid to generate YouTube-like hashids from one or many numbers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tomas-abrahamsson/gpb</title>
+    <updated>2022-06-12T01:39:53Z</updated>
+    <id>tag:github.com,2022-06-12:/tomas-abrahamsson/gpb</id>
+    <link href="https://github.com/tomas-abrahamsson/gpb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Google Protobuf implementation for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

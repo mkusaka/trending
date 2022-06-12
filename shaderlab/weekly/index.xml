@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ShaderLab Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-12T02:20:56Z</updated>
+  <subtitle>Weekly Trending of ShaderLab in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Esri/arcgis-maps-sdk-unity-samples</title>
+    <updated>2022-06-12T02:20:56Z</updated>
+    <id>tag:github.com,2022-06-12:/Esri/arcgis-maps-sdk-unity-samples</id>
+    <link href="https://github.com/Esri/arcgis-maps-sdk-unity-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample code for the ArcGIS Maps SDK for Unity.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>csdjk/LearnUnityShader</title>
+    <updated>2022-06-12T02:20:56Z</updated>
+    <id>tag:github.com,2022-06-12:/csdjk/LearnUnityShader</id>
+    <link href="https://github.com/csdjk/LearnUnityShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;记录学习Unity Shader过程中实现过的一些Demo。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TwoTailsGames/Unity-Built-in-Shaders</title>
+    <updated>2022-06-12T02:20:56Z</updated>
+    <id>tag:github.com,2022-06-12:/TwoTailsGames/Unity-Built-in-Shaders</id>
+    <link href="https://github.com/TwoTailsGames/Unity-Built-in-Shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unity Built in Shaders&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

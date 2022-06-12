@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-11T02:03:02Z</updated>
+  <updated>2022-06-12T01:54:32Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pulp-platform/fpga-support</title>
-    <updated>2022-06-11T02:03:02Z</updated>
-    <id>tag:github.com,2022-06-11:/pulp-platform/fpga-support</id>
-    <link href="https://github.com/pulp-platform/fpga-support" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IP Blocks to Support Design, Prototyping, and Verification of PULP on FPGAs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lowRISC/ariane-ethernet</title>
-    <updated>2022-06-11T02:03:02Z</updated>
-    <id>tag:github.com,2022-06-11:/lowRISC/ariane-ethernet</id>
-    <link href="https://github.com/lowRISC/ariane-ethernet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;open-source Ethenet media access controller for Ariane on Genesys-2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
