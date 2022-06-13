@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:33:04Z</updated>
+  <updated>2022-06-13T01:42:51Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>chaoOfZhangs/SwipeKeyboard</title>
-    <updated>2022-06-12T01:33:04Z</updated>
-    <id>tag:github.com,2022-06-12:/chaoOfZhangs/SwipeKeyboard</id>
-    <link href="https://github.com/chaoOfZhangs/SwipeKeyboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulates the Swype app on a virtual keyboard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

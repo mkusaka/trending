@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:56:10Z</updated>
+  <updated>2022-06-13T02:11:44Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>regolith-linux/ilia</title>
-    <updated>2022-06-12T01:56:10Z</updated>
-    <id>tag:github.com,2022-06-12:/regolith-linux/ilia</id>
-    <link href="https://github.com/regolith-linux/ilia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GTK-based Desktop Executor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alexkdeveloper/easter</title>
+    <updated>2022-06-13T02:11:44Z</updated>
+    <id>tag:github.com,2022-06-13:/alexkdeveloper/easter</id>
+    <link href="https://github.com/alexkdeveloper/easter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Program for calculating the date of Catholic Easter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elementary/granite</title>
+    <updated>2022-06-13T02:11:44Z</updated>
+    <id>tag:github.com,2022-06-13:/elementary/granite</id>
+    <link href="https://github.com/elementary/granite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library that extends GTK with common widgets and utilities&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

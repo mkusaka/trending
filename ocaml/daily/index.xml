@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:48:27Z</updated>
+  <updated>2022-06-13T02:02:47Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tarides/ocaml-platform-installer</title>
-    <updated>2022-06-12T01:48:27Z</updated>
-    <id>tag:github.com,2022-06-12:/tarides/ocaml-platform-installer</id>
-    <link href="https://github.com/tarides/ocaml-platform-installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The best way for developers to write software in OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>teikalang/teika</title>
+    <updated>2022-06-13T02:02:47Z</updated>
+    <id>tag:github.com,2022-06-13:/teikalang/teika</id>
+    <link href="https://github.com/teikalang/teika" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coq-tactician/coq-tactician</title>
-    <updated>2022-06-12T01:48:27Z</updated>
-    <id>tag:github.com,2022-06-12:/coq-tactician/coq-tactician</id>
-    <link href="https://github.com/coq-tactician/coq-tactician" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Seamless, Interactive Tactic Learner and Prover for Coq&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rescript-lang/syntax</title>
+    <updated>2022-06-13T02:02:47Z</updated>
+    <id>tag:github.com,2022-06-13:/rescript-lang/syntax</id>
+    <link href="https://github.com/rescript-lang/syntax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ReScript&#39;s syntax as a standalone repo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>epavlick/turker-demographics</title>
+    <updated>2022-06-13T02:02:47Z</updated>
+    <id>tag:github.com,2022-06-13:/epavlick/turker-demographics</id>
+    <link href="https://github.com/epavlick/turker-demographics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

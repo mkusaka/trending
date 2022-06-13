@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:54:25Z</updated>
+  <updated>2022-06-13T02:09:38Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sw-yx/swyxkit</title>
-    <updated>2022-06-12T01:54:25Z</updated>
-    <id>tag:github.com,2022-06-12:/sw-yx/swyxkit</id>
-    <link href="https://github.com/sw-yx/swyxkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for 2022!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>primo-af/primo</title>
-    <updated>2022-06-12T01:54:25Z</updated>
-    <id>tag:github.com,2022-06-12:/primo-af/primo</id>
-    <link href="https://github.com/primo-af/primo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;primo is a low-code site builder powered by Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>evidence-dev/evidence</title>
-    <updated>2022-06-12T01:54:25Z</updated>
-    <id>tag:github.com,2022-06-12:/evidence-dev/evidence</id>
-    <link href="https://github.com/evidence-dev/evidence" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NMTuan/ezBookmarks</title>
+    <updated>2022-06-13T02:09:38Z</updated>
+    <id>tag:github.com,2022-06-13:/NMTuan/ezBookmarks</id>
+    <link href="https://github.com/NMTuan/ezBookmarks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;无压的浏览器书签管理插件&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

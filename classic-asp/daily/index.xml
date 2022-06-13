@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:36:15Z</updated>
+  <updated>2022-06-13T01:47:27Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LucasLeRay/Zappy</title>
+    <updated>2022-06-13T01:47:27Z</updated>
+    <id>tag:github.com,2022-06-13:/LucasLeRay/Zappy</id>
+    <link href="https://github.com/LucasLeRay/Zappy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Projet Epitech consistant au développement d&#39;un jeu en réseau.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

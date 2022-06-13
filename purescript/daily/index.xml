@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:50:44Z</updated>
+  <updated>2022-06-13T02:05:19Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript/purescript-effect</title>
-    <updated>2022-06-12T01:50:44Z</updated>
-    <id>tag:github.com,2022-06-12:/purescript/purescript-effect</id>
-    <link href="https://github.com/purescript/purescript-effect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Effect monad, for handling native side effects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-datetime</title>
+    <updated>2022-06-13T02:05:19Z</updated>
+    <id>tag:github.com,2022-06-13:/purescript/purescript-datetime</id>
+    <link href="https://github.com/purescript/purescript-datetime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Date and time library for PureScript.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-lazy</title>
-    <updated>2022-06-12T01:50:44Z</updated>
-    <id>tag:github.com,2022-06-12:/purescript/purescript-lazy</id>
-    <link href="https://github.com/purescript/purescript-lazy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Call-by-need values&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Thimoteus/purescript-mmorph</title>
+    <updated>2022-06-13T02:05:19Z</updated>
+    <id>tag:github.com,2022-06-13:/Thimoteus/purescript-mmorph</id>
+    <link href="https://github.com/Thimoteus/purescript-mmorph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A port of Haskell&#39;s mmorph&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript/purescript-enums</title>
-    <updated>2022-06-12T01:50:44Z</updated>
-    <id>tag:github.com,2022-06-12:/purescript/purescript-enums</id>
-    <link href="https://github.com/purescript/purescript-enums" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Operations for sequentially ordered types&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hdgarrood/purescript-ansi</title>
+    <updated>2022-06-13T02:05:19Z</updated>
+    <id>tag:github.com,2022-06-13:/hdgarrood/purescript-ansi</id>
+    <link href="https://github.com/hdgarrood/purescript-ansi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A PureScript library for dealing with ANSI escape codes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

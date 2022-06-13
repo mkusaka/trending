@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:42:19Z</updated>
+  <updated>2022-06-13T01:55:59Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>khuedoan/homelab</title>
-    <updated>2022-06-12T01:42:19Z</updated>
-    <id>tag:github.com,2022-06-12:/khuedoan/homelab</id>
-    <link href="https://github.com/khuedoan/homelab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yandex-cloud/yc-solution-library-for-security</title>
+    <updated>2022-06-13T01:55:59Z</updated>
+    <id>tag:github.com,2022-06-13:/yandex-cloud/yc-solution-library-for-security</id>
+    <link href="https://github.com/yandex-cloud/yc-solution-library-for-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rhythmictech/terraform-terraform-errorcheck</title>
-    <updated>2022-06-12T01:42:19Z</updated>
-    <id>tag:github.com,2022-06-12:/rhythmictech/terraform-terraform-errorcheck</id>
-    <link href="https://github.com/rhythmictech/terraform-terraform-errorcheck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use the `external` module to implement custom error checking at plan time&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>champ-oss/terraform-aws-kms</title>
+    <updated>2022-06-13T01:55:59Z</updated>
+    <id>tag:github.com,2022-06-13:/champ-oss/terraform-aws-kms</id>
+    <link href="https://github.com/champ-oss/terraform-aws-kms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-google-modules/terraform-google-gcloud</title>
-    <updated>2022-06-12T01:42:19Z</updated>
-    <id>tag:github.com,2022-06-12:/terraform-google-modules/terraform-google-gcloud</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-gcloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A module for executing gcloud commands within Terraform.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mediapop/terraform-aws-certificate</title>
+    <updated>2022-06-13T01:55:59Z</updated>
+    <id>tag:github.com,2022-06-13:/mediapop/terraform-aws-certificate</id>
+    <link href="https://github.com/mediapop/terraform-aws-certificate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple way of creating validated certs over multiple domains and zones.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

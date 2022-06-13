@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub P4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:48:55Z</updated>
+  <updated>2022-06-13T02:03:13Z</updated>
   <subtitle>Daily Trending of P4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure/DASH</title>
-    <updated>2022-06-12T01:48:55Z</updated>
-    <id>tag:github.com,2022-06-12:/Azure/DASH</id>
-    <link href="https://github.com/Azure/DASH" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Disaggregated APIs for SONiC Hosts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

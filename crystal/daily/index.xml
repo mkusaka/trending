@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:37:05Z</updated>
+  <updated>2022-06-13T01:48:52Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hkalexling/Mango</title>
-    <updated>2022-06-12T01:37:05Z</updated>
-    <id>tag:github.com,2022-06-12:/hkalexling/Mango</id>
-    <link href="https://github.com/hkalexling/Mango" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mango is a self-hosted manga server and web reader&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crystal-ameba/ameba</title>
-    <updated>2022-06-12T01:37:05Z</updated>
-    <id>tag:github.com,2022-06-12:/crystal-ameba/ameba</id>
-    <link href="https://github.com/crystal-ameba/ameba" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A static code analysis tool for Crystal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

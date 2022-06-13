@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:53:44Z</updated>
+  <updated>2022-06-13T02:08:53Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bojitoken/BOJI</title>
-    <updated>2022-06-12T01:53:44Z</updated>
-    <id>tag:github.com,2022-06-12:/bojitoken/BOJI</id>
-    <link href="https://github.com/bojitoken/BOJI" rel="alternate"></link>
+    <title>tintinweb/smart-contract-sanctuary-tron</title>
+    <updated>2022-06-13T02:08:53Z</updated>
+    <id>tag:github.com,2022-06-13:/tintinweb/smart-contract-sanctuary-tron</id>
+    <link href="https://github.com/tintinweb/smart-contract-sanctuary-tron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Tron] 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>enricobottazzi/ZK-SBT</title>
+    <updated>2022-06-13T02:08:53Z</updated>
+    <id>tag:github.com,2022-06-13:/enricobottazzi/ZK-SBT</id>
+    <link href="https://github.com/enricobottazzi/ZK-SBT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library to issue zero knowledge soul bound tokens (ZK SBTs)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-06-connext</title>
+    <updated>2022-06-13T02:08:53Z</updated>
+    <id>tag:github.com,2022-06-13:/code-423n4/2022-06-connext</id>
+    <link href="https://github.com/code-423n4/2022-06-connext" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>beefyfinance/beefy-contracts</title>
-    <updated>2022-06-12T01:53:44Z</updated>
-    <id>tag:github.com,2022-06-12:/beefyfinance/beefy-contracts</id>
-    <link href="https://github.com/beefyfinance/beefy-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public repo for the community devs to advance the Beefy protocol.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nicolasgarcia214/damn-vulnerable-defi-foundry</title>
-    <updated>2022-06-12T01:53:44Z</updated>
-    <id>tag:github.com,2022-06-12:/nicolasgarcia214/damn-vulnerable-defi-foundry</id>
-    <link href="https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Damn Vulnerable DeFi - Foundry Version&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:49:13Z</updated>
+  <updated>2022-06-13T02:03:37Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nglthach/SpkToolbar4Delphi</title>
-    <updated>2022-06-12T01:49:13Z</updated>
-    <id>tag:github.com,2022-06-12:/nglthach/SpkToolbar4Delphi</id>
-    <link href="https://github.com/nglthach/SpkToolbar4Delphi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ribbon alike component for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HashLoad/horse-jwt</title>
+    <updated>2022-06-13T02:03:37Z</updated>
+    <id>tag:github.com,2022-06-13:/HashLoad/horse-jwt</id>
+    <link href="https://github.com/HashLoad/horse-jwt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Middleware for JWT in HORSE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

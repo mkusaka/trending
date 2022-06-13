@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:39:53Z</updated>
+  <updated>2022-06-13T01:52:29Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>processone/pgsql</title>
-    <updated>2022-06-12T01:39:53Z</updated>
-    <id>tag:github.com,2022-06-12:/processone/pgsql</id>
-    <link href="https://github.com/processone/pgsql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure Erlang PostgreSQL driver&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>processone/cache_tab</title>
+    <updated>2022-06-13T01:52:29Z</updated>
+    <id>tag:github.com,2022-06-13:/processone/cache_tab</id>
+    <link href="https://github.com/processone/cache_tab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In-memory cache Erlang / Elixir library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Bluehouse-Technology/otter_lib</title>
-    <updated>2022-06-12T01:39:53Z</updated>
-    <id>tag:github.com,2022-06-12:/Bluehouse-Technology/otter_lib</id>
-    <link href="https://github.com/Bluehouse-Technology/otter_lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>basho/lager_syslog</title>
+    <updated>2022-06-13T01:52:29Z</updated>
+    <id>tag:github.com,2022-06-13:/basho/lager_syslog</id>
+    <link href="https://github.com/basho/lager_syslog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syslog backend for lager&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tomas-abrahamsson/gpb</title>
-    <updated>2022-06-12T01:39:53Z</updated>
-    <id>tag:github.com,2022-06-12:/tomas-abrahamsson/gpb</id>
-    <link href="https://github.com/tomas-abrahamsson/gpb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Google Protobuf implementation for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rcouch/ecsv</title>
+    <updated>2022-06-13T01:52:29Z</updated>
+    <id>tag:github.com,2022-06-13:/rcouch/ecsv</id>
+    <link href="https://github.com/rcouch/ecsv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang CSV Parser&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

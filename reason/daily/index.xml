@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Reason Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:51:32Z</updated>
+  <updated>2022-06-13T02:06:14Z</updated>
   <subtitle>Daily Trending of Reason in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>revery-ui/revery</title>
+    <updated>2022-06-13T02:06:14Z</updated>
+    <id>tag:github.com,2022-06-13:/revery-ui/revery</id>
+    <link href="https://github.com/revery-ui/revery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Native, high-performance, cross-platform desktop apps - built with Reason!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

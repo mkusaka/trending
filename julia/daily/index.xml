@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:44:07Z</updated>
+  <updated>2022-06-13T01:57:58Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaFolds/BangBang.jl</title>
-    <updated>2022-06-12T01:44:07Z</updated>
-    <id>tag:github.com,2022-06-12:/JuliaFolds/BangBang.jl</id>
-    <link href="https://github.com/JuliaFolds/BangBang.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Immutables as mutables, mutables as immutables.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZakariaBouguira/MonkeyPox</title>
+    <updated>2022-06-13T01:57:58Z</updated>
+    <id>tag:github.com,2022-06-13:/ZakariaBouguira/MonkeyPox</id>
+    <link href="https://github.com/ZakariaBouguira/MonkeyPox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project aims to provide a time series updated every hour about the 2022 Monkey Pox outbreak.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaArrays/StaticArrays.jl</title>
-    <updated>2022-06-12T01:44:07Z</updated>
-    <id>tag:github.com,2022-06-12:/JuliaArrays/StaticArrays.jl</id>
-    <link href="https://github.com/JuliaArrays/StaticArrays.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Statically sized arrays for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaWeb/HTTP.jl</title>
+    <updated>2022-06-13T01:57:58Z</updated>
+    <id>tag:github.com,2022-06-13:/JuliaWeb/HTTP.jl</id>
+    <link href="https://github.com/JuliaWeb/HTTP.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTTP for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thowell/CALIPSO.jl</title>
-    <updated>2022-06-12T01:44:07Z</updated>
-    <id>tag:github.com,2022-06-12:/thowell/CALIPSO.jl</id>
-    <link href="https://github.com/thowell/CALIPSO.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Conic Augmented Lagrangian Interior-Point SOlver&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mitsuaaki/Algorithms</title>
+    <updated>2022-06-13T01:57:58Z</updated>
+    <id>tag:github.com,2022-06-13:/Mitsuaaki/Algorithms</id>
+    <link href="https://github.com/Mitsuaaki/Algorithms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Various algorithms in mathematics, machine learning, computer science and physics written in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

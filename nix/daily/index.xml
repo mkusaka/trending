@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:47:40Z</updated>
+  <updated>2022-06-13T02:02:01Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nubank/nixpkgs</title>
-    <updated>2022-06-12T01:47:40Z</updated>
-    <id>tag:github.com,2022-06-12:/nubank/nixpkgs</id>
-    <link href="https://github.com/nubank/nixpkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix Packages collection used in Nubank&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dustinlyons/nixos-config</title>
+    <updated>2022-06-13T02:02:01Z</updated>
+    <id>tag:github.com,2022-06-13:/dustinlyons/nixos-config</id>
+    <link href="https://github.com/dustinlyons/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My NixOS config&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hlissner/dotfiles</title>
+    <updated>2022-06-13T02:02:01Z</updated>
+    <id>tag:github.com,2022-06-13:/hlissner/dotfiles</id>
+    <link href="https://github.com/hlissner/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;And I say hey, what&#39;s going on?&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Liqwid-Labs/plutarch-numeric</title>
+    <updated>2022-06-13T02:02:01Z</updated>
+    <id>tag:github.com,2022-06-13:/Liqwid-Labs/plutarch-numeric</id>
+    <link href="https://github.com/Liqwid-Labs/plutarch-numeric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

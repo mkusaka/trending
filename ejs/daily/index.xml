@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:39:09Z</updated>
+  <updated>2022-06-13T01:51:28Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vcodes-xyz/benedict</title>
+    <updated>2022-06-13T01:51:28Z</updated>
+    <id>tag:github.com,2022-06-13:/vcodes-xyz/benedict</id>
+    <link href="https://github.com/vcodes-xyz/benedict" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;It is a Discord-based, open-source website. Titles it contains; code sharing, server list, Bot list, uptime system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

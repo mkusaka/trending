@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:34:38Z</updated>
+  <updated>2022-06-13T01:44:56Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure/aks-baseline-automation</title>
-    <updated>2022-06-12T01:34:38Z</updated>
-    <id>tag:github.com,2022-06-12:/Azure/aks-baseline-automation</id>
-    <link href="https://github.com/Azure/aks-baseline-automation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for the AKS Landing Zone Accelerator program&#39;s Automation reference implementation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/bicep-registry-modules</title>
-    <updated>2022-06-12T01:34:38Z</updated>
-    <id>tag:github.com,2022-06-12:/Azure/bicep-registry-modules</id>
-    <link href="https://github.com/Azure/bicep-registry-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bicep registry modules&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/FTALive-Sessions</title>
-    <updated>2022-06-12T01:34:38Z</updated>
-    <id>tag:github.com,2022-06-12:/Azure/FTALive-Sessions</id>
-    <link href="https://github.com/Azure/FTALive-Sessions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is a public-facing source of information for FastTrack for Azure Live sessions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

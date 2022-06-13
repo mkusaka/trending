@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:56:19Z</updated>
+  <updated>2022-06-13T02:11:57Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ultraembedded/riscv</title>
-    <updated>2022-06-12T01:56:19Z</updated>
-    <id>tag:github.com,2022-06-12:/ultraembedded/riscv</id>
-    <link href="https://github.com/ultraembedded/riscv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RISC-V CPU Core (RV32IM)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>T-head-Semi/openc910</title>
-    <updated>2022-06-12T01:56:19Z</updated>
-    <id>tag:github.com,2022-06-12:/T-head-Semi/openc910</id>
-    <link href="https://github.com/T-head-Semi/openc910" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenXuantie - OpenC910 Core&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sudhamshu091/32-Verilog-Mini-Projects</title>
+    <updated>2022-06-13T02:11:57Z</updated>
+    <id>tag:github.com,2022-06-13:/sudhamshu091/32-Verilog-Mini-Projects</id>
+    <link href="https://github.com/sudhamshu091/32-Verilog-Mini-Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC Coding, Carry Select and Carry Look Ahead Adder, Carry Skip and Carry Save Adder, Complex Multiplier, Dice Game, FIFO, Fixed Point Adder and Subtractor, Fixed Point Multiplier and Divider, Floating Point IEEE 7…&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:56:55Z</updated>
+  <updated>2022-06-13T02:12:38Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hemashushu/xiaoxuan-vm</title>
-    <updated>2022-06-12T01:56:55Z</updated>
-    <id>tag:github.com,2022-06-12:/hemashushu/xiaoxuan-vm</id>
-    <link href="https://github.com/hemashushu/xiaoxuan-vm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A zero-dependency WebAssembly VM with a full-featured Web UI debugger implemented in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:56:29Z</updated>
+  <updated>2022-06-13T02:12:09Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>prabirshrestha/vim-lsp</title>
-    <updated>2022-06-12T01:56:29Z</updated>
-    <id>tag:github.com,2022-06-12:/prabirshrestha/vim-lsp</id>
-    <link href="https://github.com/prabirshrestha/vim-lsp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;async language server protocol plugin for vim and neovim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dracula/vim</title>
+    <updated>2022-06-13T02:12:09Z</updated>
+    <id>tag:github.com,2022-06-13:/dracula/vim</id>
+    <link href="https://github.com/dracula/vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dark theme for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nseemakurty/dotfiles</title>
-    <updated>2022-06-12T01:56:29Z</updated>
-    <id>tag:github.com,2022-06-12:/nseemakurty/dotfiles</id>
-    <link href="https://github.com/nseemakurty/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-airline/vim-airline</title>
+    <updated>2022-06-13T02:12:09Z</updated>
+    <id>tag:github.com,2022-06-13:/vim-airline/vim-airline</id>
+    <link href="https://github.com/vim-airline/vim-airline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lean &amp; mean status/tabline for vim that&#39;s light as air&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>junegunn/vader.vim</title>
-    <updated>2022-06-12T01:56:29Z</updated>
-    <id>tag:github.com,2022-06-12:/junegunn/vader.vim</id>
-    <link href="https://github.com/junegunn/vader.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Vimscript test framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VundleVim/Vundle.vim</title>
+    <updated>2022-06-13T02:12:09Z</updated>
+    <id>tag:github.com,2022-06-13:/VundleVim/Vundle.vim</id>
+    <link href="https://github.com/VundleVim/Vundle.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vundle, the plug-in manager for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

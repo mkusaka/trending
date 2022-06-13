@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:48:03Z</updated>
+  <updated>2022-06-13T02:02:24Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yasirkula/UnityNativeGallery</title>
+    <updated>2022-06-13T02:02:24Z</updated>
+    <id>tag:github.com,2022-06-13:/yasirkula/UnityNativeGallery</id>
+    <link href="https://github.com/yasirkula/UnityNativeGallery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A native Unity plugin to interact with Gallery/Photos on Android &amp; iOS (save and/or load images/videos)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

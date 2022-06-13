@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:42:02Z</updated>
+  <updated>2022-06-13T01:55:35Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ReadyTalk/gradle-readytalk-plugin</title>
-    <updated>2022-06-12T01:42:02Z</updated>
-    <id>tag:github.com,2022-06-12:/ReadyTalk/gradle-readytalk-plugin</id>
-    <link href="https://github.com/ReadyTalk/gradle-readytalk-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[ARCHIVED]&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tkgregory/jenkins-demo</title>
+    <updated>2022-06-13T01:55:35Z</updated>
+    <id>tag:github.com,2022-06-13:/tkgregory/jenkins-demo</id>
+    <link href="https://github.com/tkgregory/jenkins-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provisioned Jenkins instance to go along with &#39;Microservice devops&#39; series of tutorials&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>noamt/amazon-wishlist-parser</title>
-    <updated>2022-06-12T01:42:02Z</updated>
-    <id>tag:github.com,2022-06-12:/noamt/amazon-wishlist-parser</id>
-    <link href="https://github.com/noamt/amazon-wishlist-parser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Produces a simple text list out of an Amazon wish list PDF file&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mapbox/android-sdk-versions-plugin</title>
+    <updated>2022-06-13T01:55:35Z</updated>
+    <id>tag:github.com,2022-06-13:/mapbox/android-sdk-versions-plugin</id>
+    <link href="https://github.com/mapbox/android-sdk-versions-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This plugin validates and persists Mapbox SDK versions in a file(in assets folder) at compile time.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>savannahghi/openmrs-module-patientqueue</title>
-    <updated>2022-06-12T01:42:02Z</updated>
-    <id>tag:github.com,2022-06-12:/savannahghi/openmrs-module-patientqueue</id>
-    <link href="https://github.com/savannahghi/openmrs-module-patientqueue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moqui/moqui-framework</title>
+    <updated>2022-06-13T01:55:35Z</updated>
+    <id>tag:github.com,2022-06-13:/moqui/moqui-framework</id>
+    <link href="https://github.com/moqui/moqui-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use Moqui Framework to build enterprise applications based on Java. It includes tools for databases (relational, graph, document), local and web services, web and other UI with screens and forms, security, file/resource access, scripts, templates, l10n, caching, logging, search, rules, workflow, multi-instance, and integration.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

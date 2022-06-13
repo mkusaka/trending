@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:39:15Z</updated>
+  <updated>2022-06-13T01:51:35Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cabol/nebulex</title>
-    <updated>2022-06-12T01:39:15Z</updated>
-    <id>tag:github.com,2022-06-12:/cabol/nebulex</id>
-    <link href="https://github.com/cabol/nebulex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In-memory and distributed caching toolkit for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fly-apps/live_beats</title>
+    <updated>2022-06-13T01:51:35Z</updated>
+    <id>tag:github.com,2022-06-13:/fly-apps/live_beats</id>
+    <link href="https://github.com/fly-apps/live_beats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ex-aws/ex_aws</title>
-    <updated>2022-06-12T01:39:15Z</updated>
-    <id>tag:github.com,2022-06-12:/ex-aws/ex_aws</id>
-    <link href="https://github.com/ex-aws/ex_aws" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A flexible, easy to use set of clients AWS APIs for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>appsignal/appsignal-elixir</title>
+    <updated>2022-06-13T01:51:35Z</updated>
+    <id>tag:github.com,2022-06-13:/appsignal/appsignal-elixir</id>
+    <link href="https://github.com/appsignal/appsignal-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🟪 AppSignal for Elixir package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ZennerIoT/ex_audit</title>
-    <updated>2022-06-12T01:39:15Z</updated>
-    <id>tag:github.com,2022-06-12:/ZennerIoT/ex_audit</id>
-    <link href="https://github.com/ZennerIoT/ex_audit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ecto auditing library that transparently tracks changes and can revert them.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thechangelog/changelog.com</title>
+    <updated>2022-06-13T01:51:35Z</updated>
+    <id>tag:github.com,2022-06-13:/thechangelog/changelog.com</id>
+    <link href="https://github.com/thechangelog/changelog.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Changelog is news and podcast for developers. This is our open source platform.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

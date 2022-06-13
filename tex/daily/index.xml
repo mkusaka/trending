@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:55:06Z</updated>
+  <updated>2022-06-13T02:10:39Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>edlich/education</title>
-    <updated>2022-06-12T01:55:06Z</updated>
-    <id>tag:github.com,2022-06-12:/edlich/education</id>
-    <link href="https://github.com/edlich/education" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small repository for education purposes&lt;/p&gt;&lt;hr&gt;&lt;p&gt;My first added comment on a pulled project!&lt;/p&gt; &#xA;&lt;h1&gt;education&lt;/h1&gt; &#xA;&lt;p&gt;A small repository for education purposes&lt;/p&gt; &#xA;&lt;p&gt;It mostly contains random content for Git and Github education.&lt;/p&gt; &#xA;&lt;p&gt;To all &lt;code&gt;students&lt;/code&gt;: Let&#39;s create something unique here. A repository that contains hints about the perfect education. Let&#39;s say one file for each:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;perfect video-conference evening in moodle&lt;/li&gt; &#xA; &lt;li&gt;perfect documentation&lt;/li&gt; &#xA; &lt;li&gt;perfect add-on material&lt;/li&gt; &#xA; &lt;li&gt;perfect feedback&lt;/li&gt; &#xA; &lt;li&gt;perfect moodle&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;...?&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Happy to receive your pull requests!&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://www.itnetwork.cz/images/ftipy/585ad7fd3d0f2&#34; alt=&#34;alt tag&#34;&gt;&lt;/p&gt;</summary>
+    <title>hadley/r-pkgs</title>
+    <updated>2022-06-13T02:10:39Z</updated>
+    <id>tag:github.com,2022-06-13:/hadley/r-pkgs</id>
+    <link href="https://github.com/hadley/r-pkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Building R packages&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;R Packages&lt;/h1&gt; &#xA;&lt;!-- badges: start --&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/hadley/r-pkgs/actions/workflows/bookdown.yaml&#34;&gt;&lt;img src=&#34;https://github.com/hadley/r-pkgs/actions/workflows/bookdown.yaml/badge.svg?sanitize=true&#34; alt=&#34;bookdown&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://app.netlify.com/sites/r-pkgs/deploys&#34;&gt;&lt;img src=&#34;https://api.netlify.com/api/v1/badges/a5dbbee9-7396-4e7f-8ce7-6abd362d9752/deploy-status&#34; alt=&#34;Netlify Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;!-- badges: end --&gt; &#xA;&lt;p&gt;This repo holds the code and text behind the &lt;strong&gt;R Packages&lt;/strong&gt; book. The site is built with &lt;a href=&#34;https://bookdown.org/yihui/bookdown/&#34;&gt;bookdown&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;The first edition is available at &lt;a href=&#34;http://r-pkgs.had.co.nz&#34;&gt;http://r-pkgs.had.co.nz&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;A second edition is under development and available at &lt;a href=&#34;https://r-pkgs.org&#34;&gt;https://r-pkgs.org&lt;/a&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;em&gt;Status as of 2019-02: Work on a second edition is starting and this repo is coming out of hibernation. Issues and PRs are welcome. There will be big updates subsequent to the &lt;a href=&#34;https://www.tidyverse.org/articles/2018/10/devtools-2-0-0/&#34;&gt;recent changes in devtools and related packages&lt;/a&gt;. We may need to implement those changes systematically ourselves vs. piecemeal, so consider that when deciding between opening an issue or a PR.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Notes on mechanics&lt;/h2&gt; &#xA;&lt;p&gt;Screenshots: use &lt;code&gt;include_graphics()&lt;/code&gt;, chunk should have &lt;code&gt;output.width = NULL&lt;/code&gt;.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>AdamISZ/from0k2bp</title>
-    <updated>2022-06-12T01:55:06Z</updated>
-    <id>tag:github.com,2022-06-12:/AdamISZ/from0k2bp</id>
-    <link href="https://github.com/AdamISZ/from0k2bp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;From Zero (Knowledge) to Bulletproofs - writeup&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;from0k2bp&lt;/h1&gt; &#xA;&lt;p&gt;From Zero (Knowledge) to Bulletproofs - writeup See &lt;a href=&#34;https://joinmarket.me/blog/blog/from-zero-knowledge-proofs-to-bulletproofs-paper/&#34;&gt;here&lt;/a&gt; for brief context.&lt;/p&gt; &#xA;&lt;p&gt;Please download the pdf to view; the embedded viewer on github is not displaying equations correctly at the moment.&lt;/p&gt; &#xA;&lt;p&gt;If you see errors please do open an issue (of course PRs on the *.tex are also welcome), thanks.&lt;/p&gt;</summary>
+    <title>TBD54566975/tbdex-whitepaper</title>
+    <updated>2022-06-13T02:10:39Z</updated>
+    <id>tag:github.com,2022-06-13:/TBD54566975/tbdex-whitepaper</id>
+    <link href="https://github.com/TBD54566975/tbdex-whitepaper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openbiox/thesis-template</title>
-    <updated>2022-06-12T01:55:06Z</updated>
-    <id>tag:github.com,2022-06-12:/openbiox/thesis-template</id>
-    <link href="https://github.com/openbiox/thesis-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A free library of templates for thesis writing.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Thesis template&lt;/h1&gt; &#xA;&lt;p&gt;This project aims to build a free library of templates for thesis writing, including standard SCI journals and students thesis templates.&lt;/p&gt; &#xA;&lt;h2&gt;LICENSE&lt;/h2&gt; &#xA;&lt;p&gt;Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0)&lt;/p&gt;</summary>
+    <title>MartinThoma/LaTeX-examples</title>
+    <updated>2022-06-13T02:10:39Z</updated>
+    <id>tag:github.com,2022-06-13:/MartinThoma/LaTeX-examples</id>
+    <link href="https://github.com/MartinThoma/LaTeX-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples for the usage of LaTeX&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LaTeX-examples&lt;/h1&gt; &#xA;&lt;p&gt;More than 570 examples for the usage of LaTeX. You can check that with the following command:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ find . -type d | sort | awk &#39;$0 !~ last &#34;/&#34; {print last} {last=$0} END {print last}&#39; | grep -v .git | wc -l&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Many examples can be found on &lt;a href=&#34;http://commons.wikimedia.org/wiki/User:MartinThoma#Galerie&#34;&gt;my Wikpedia Commons user page&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;You might also be interested in &lt;a href=&#34;http://martin-thoma.com/tag/tikz/&#34;&gt;my Blog&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;Every LaTeX file is in a seperate folder and has its own Makefile. So you can simply generate the PDF by typing &lt;code&gt;make&lt;/code&gt; in the terminal.&lt;/p&gt; &#xA;&lt;p&gt;If you want to get all examples offline, you have to execute&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ git clone --recursive https://github.com/MartinThoma/LaTeX-examples.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Requirements&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;You should have the latest LaTeX version. Here are &lt;a href=&#34;http://martin-thoma.com/how-to-install-the-latest-latex-version/&#34;&gt;LaTeX installation instructions&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;If you want to use the Makefiles, you have to have make installed.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Contact&lt;/h1&gt; &#xA;&lt;p&gt;If you have examples or suggestions for improving given examples, please send them to &lt;a href=&#34;mailto:info@martin-thoma.de&#34;&gt;info@martin-thoma.de&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Re-use&lt;/h1&gt; &#xA;&lt;p&gt;Feel free to use and modify the examples in this repository, but please add a link to this repository or martin-thoma.com.&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;Most&lt;/em&gt; of the content was created completely by me. But check the Readme files in each specific folder to make sure you can use it.&lt;/p&gt; &#xA;&lt;h1&gt;Other resources&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.latextemplates.com/&#34;&gt;LaTeX Templates&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://tex.stackexchange.com/q/326/5645&#34;&gt;LaTeX templates for writing a thesis&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

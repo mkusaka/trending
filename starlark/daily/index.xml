@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:54:08Z</updated>
+  <updated>2022-06-13T02:09:20Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bazel-contrib/bazel-mypy-integration</title>
-    <updated>2022-06-12T01:54:08Z</updated>
-    <id>tag:github.com,2022-06-12:/bazel-contrib/bazel-mypy-integration</id>
-    <link href="https://github.com/bazel-contrib/bazel-mypy-integration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐍🌿💚 Integrate MyPy type-checking into your Python Bazel builds&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bazelbuild/rules_jvm_external</title>
+    <updated>2022-06-13T02:09:20Z</updated>
+    <id>tag:github.com,2022-06-13:/bazelbuild/rules_jvm_external</id>
+    <link href="https://github.com/bazelbuild/rules_jvm_external" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules to resolve, fetch and export Maven artifacts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

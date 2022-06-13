@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-12T01:36:27Z</updated>
+  <updated>2022-06-13T01:47:53Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nubank/new-grad-template</title>
-    <updated>2022-06-12T01:36:27Z</updated>
-    <id>tag:github.com,2022-06-12:/nubank/new-grad-template</id>
-    <link href="https://github.com/nubank/new-grad-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nextjournal/clerk-demo</title>
+    <updated>2022-06-13T01:47:53Z</updated>
+    <id>tag:github.com,2022-06-13:/nextjournal/clerk-demo</id>
+    <link href="https://github.com/nextjournal/clerk-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clerk is coming soon™️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nubank/state-flow</title>
-    <updated>2022-06-12T01:36:27Z</updated>
-    <id>tag:github.com,2022-06-12:/nubank/state-flow</id>
-    <link href="https://github.com/nubank/state-flow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integration testing framework using a state monad in the backend for building and composing flows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure-lsp/clojure-lsp</title>
+    <updated>2022-06-13T01:47:53Z</updated>
+    <id>tag:github.com,2022-06-13:/clojure-lsp/clojure-lsp</id>
+    <link href="https://github.com/clojure-lsp/clojure-lsp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure &amp; ClojureScript Language Server (LSP) implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nubank/selvage</title>
-    <updated>2022-06-12T01:36:27Z</updated>
-    <id>tag:github.com,2022-06-12:/nubank/selvage</id>
-    <link href="https://github.com/nubank/selvage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testing at the edges with a world-transition style integration test framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jpmonettas/flow-storm-debugger</title>
+    <updated>2022-06-13T01:47:53Z</updated>
+    <id>tag:github.com,2022-06-13:/jpmonettas/flow-storm-debugger</id>
+    <link href="https://github.com/jpmonettas/flow-storm-debugger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A debugger for Clojure and ClojureScript with some unique features.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
