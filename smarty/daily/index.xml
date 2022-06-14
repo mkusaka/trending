@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:08:35Z</updated>
+  <updated>2022-06-14T02:01:01Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>livekit/livekit-helm</title>
-    <updated>2022-06-13T02:08:35Z</updated>
-    <id>tag:github.com,2022-06-13:/livekit/livekit-helm</id>
-    <link href="https://github.com/livekit/livekit-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LiveKit Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>w-digital-scanner/w13scan</title>
+    <updated>2022-06-14T02:01:01Z</updated>
+    <id>tag:github.com,2022-06-14:/w-digital-scanner/w13scan</id>
+    <link href="https://github.com/w-digital-scanner/w13scan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Passive Security Scanner (被动式安全扫描器)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nextdoor/k8s-charts</title>
-    <updated>2022-06-13T02:08:35Z</updated>
-    <id>tag:github.com,2022-06-13:/Nextdoor/k8s-charts</id>
-    <link href="https://github.com/Nextdoor/k8s-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Internal Helm Chart Repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>k8s-at-home/library-charts</title>
-    <updated>2022-06-13T02:08:35Z</updated>
-    <id>tag:github.com,2022-06-13:/k8s-at-home/library-charts</id>
-    <link href="https://github.com/k8s-at-home/library-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm library charts for the k8s@home Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nixys/nxs-universal-chart</title>
+    <updated>2022-06-14T02:01:01Z</updated>
+    <id>tag:github.com,2022-06-14:/nixys/nxs-universal-chart</id>
+    <link href="https://github.com/nixys/nxs-universal-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

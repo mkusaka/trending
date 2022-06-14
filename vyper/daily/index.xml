@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vyper Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:12:24Z</updated>
+  <updated>2022-06-14T02:04:33Z</updated>
   <subtitle>Daily Trending of Vyper in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jmonteer/yearn-vaults-v3</title>
-    <updated>2022-06-13T02:12:24Z</updated>
-    <id>tag:github.com,2022-06-13:/jmonteer/yearn-vaults-v3</id>
-    <link href="https://github.com/jmonteer/yearn-vaults-v3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:54:21Z</updated>
+  <updated>2022-06-14T01:47:10Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jebbyk/OSBES-minecraft-bedrock-edition-shader</title>
-    <updated>2022-06-13T01:54:21Z</updated>
-    <id>tag:github.com,2022-06-13:/jebbyk/OSBES-minecraft-bedrock-edition-shader</id>
-    <link href="https://github.com/jebbyk/OSBES-minecraft-bedrock-edition-shader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;shaders for minecraft_pe that uses the latest functionality of OpenGLES 3.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bambosan/BSBE-Renewed</title>
-    <updated>2022-06-13T01:54:21Z</updated>
-    <id>tag:github.com,2022-06-13:/bambosan/BSBE-Renewed</id>
-    <link href="https://github.com/bambosan/BSBE-Renewed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a shader for minecraft be&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

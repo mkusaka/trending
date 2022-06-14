@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:48:07Z</updated>
+  <updated>2022-06-14T01:41:51Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CaffeinatedTech/nibbles</title>
-    <updated>2022-06-13T01:48:07Z</updated>
-    <id>tag:github.com,2022-06-13:/CaffeinatedTech/nibbles</id>
-    <link href="https://github.com/CaffeinatedTech/nibbles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Snake Game tutorial using C++ and SFML&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RWTH-HPC/CMake-codecov</title>
+    <updated>2022-06-14T01:41:51Z</updated>
+    <id>tag:github.com,2022-06-14:/RWTH-HPC/CMake-codecov</id>
+    <link href="https://github.com/RWTH-HPC/CMake-codecov" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake module for code coverage&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ros2/test_interface_files</title>
-    <updated>2022-06-13T01:48:07Z</updated>
-    <id>tag:github.com,2022-06-13:/ros2/test_interface_files</id>
-    <link href="https://github.com/ros2/test_interface_files" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smarc-project/smarc_msgs</title>
+    <updated>2022-06-14T01:41:51Z</updated>
+    <id>tag:github.com,2022-06-14:/smarc-project/smarc_msgs</id>
+    <link href="https://github.com/smarc-project/smarc_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🟢 Message definitions for the SMARC auvs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ros2/pybind11_vendor</title>
-    <updated>2022-06-13T01:48:07Z</updated>
-    <id>tag:github.com,2022-06-13:/ros2/pybind11_vendor</id>
-    <link href="https://github.com/ros2/pybind11_vendor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vendor package for pybind11.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pingcap/kvproto</title>
+    <updated>2022-06-14T01:41:51Z</updated>
+    <id>tag:github.com,2022-06-14:/pingcap/kvproto</id>
+    <link href="https://github.com/pingcap/kvproto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protocol buffer files for TiKV&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

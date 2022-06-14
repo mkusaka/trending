@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:47:53Z</updated>
+  <updated>2022-06-14T01:41:40Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nextjournal/clerk-demo</title>
-    <updated>2022-06-13T01:47:53Z</updated>
-    <id>tag:github.com,2022-06-13:/nextjournal/clerk-demo</id>
-    <link href="https://github.com/nextjournal/clerk-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clerk is coming soon™️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>babashka/sci.configs</title>
+    <updated>2022-06-14T01:41:40Z</updated>
+    <id>tag:github.com,2022-06-14:/babashka/sci.configs</id>
+    <link href="https://github.com/babashka/sci.configs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of ready to be used SCI configs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clojure-lsp/clojure-lsp</title>
-    <updated>2022-06-13T01:47:53Z</updated>
-    <id>tag:github.com,2022-06-13:/clojure-lsp/clojure-lsp</id>
-    <link href="https://github.com/clojure-lsp/clojure-lsp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure &amp; ClojureScript Language Server (LSP) implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>broadinstitute/firecloud-ui</title>
+    <updated>2022-06-14T01:41:40Z</updated>
+    <id>tag:github.com,2022-06-14:/broadinstitute/firecloud-ui</id>
+    <link href="https://github.com/broadinstitute/firecloud-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FireCloud user interface for web browsers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jpmonettas/flow-storm-debugger</title>
-    <updated>2022-06-13T01:47:53Z</updated>
-    <id>tag:github.com,2022-06-13:/jpmonettas/flow-storm-debugger</id>
-    <link href="https://github.com/jpmonettas/flow-storm-debugger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A debugger for Clojure and ClojureScript with some unique features.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>weavejester/hiccup</title>
+    <updated>2022-06-14T01:41:40Z</updated>
+    <id>tag:github.com,2022-06-14:/weavejester/hiccup</id>
+    <link href="https://github.com/weavejester/hiccup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast library for rendering HTML in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

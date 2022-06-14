@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AMPL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:43:10Z</updated>
+  <updated>2022-06-14T01:38:36Z</updated>
   <subtitle>Daily Trending of AMPL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JohannesPfeifer/DSGE_mod</title>
+    <updated>2022-06-14T01:38:36Z</updated>
+    <id>tag:github.com,2022-06-14:/JohannesPfeifer/DSGE_mod</id>
+    <link href="https://github.com/JohannesPfeifer/DSGE_mod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of Dynare models&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:13:35Z</updated>
+  <updated>2022-06-14T02:05:36Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ansible-lockdown/RHEL7-CIS</title>
-    <updated>2022-06-13T02:13:35Z</updated>
-    <id>tag:github.com,2022-06-13:/ansible-lockdown/RHEL7-CIS</id>
-    <link href="https://github.com/ansible-lockdown/RHEL7-CIS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ansible role for Red Hat 7 CIS Baseline&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

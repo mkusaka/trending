@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:01:58Z</updated>
+  <updated>2022-06-14T01:54:39Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>status-im/nimbus-eth2</title>
-    <updated>2022-06-13T02:01:58Z</updated>
-    <id>tag:github.com,2022-06-13:/status-im/nimbus-eth2</id>
-    <link href="https://github.com/status-im/nimbus-eth2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim implementation of the Ethereum 2.0 blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>guzba/zippy</title>
+    <updated>2022-06-14T01:54:39Z</updated>
+    <id>tag:github.com,2022-06-14:/guzba/zippy</id>
+    <link href="https://github.com/guzba/zippy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Nim implementation of deflate, zlib, gzip and zip.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

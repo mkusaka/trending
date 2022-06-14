@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:02:47Z</updated>
+  <updated>2022-06-14T01:55:22Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>teikalang/teika</title>
-    <updated>2022-06-13T02:02:47Z</updated>
-    <id>tag:github.com,2022-06-13:/teikalang/teika</id>
-    <link href="https://github.com/teikalang/teika" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>melange-re/melange</title>
+    <updated>2022-06-14T01:55:22Z</updated>
+    <id>tag:github.com,2022-06-14:/melange-re/melange</id>
+    <link href="https://github.com/melange-re/melange" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A mixture of tooling combined to produce JavaScript from OCaml &amp; Reason&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rescript-lang/syntax</title>
-    <updated>2022-06-13T02:02:47Z</updated>
-    <id>tag:github.com,2022-06-13:/rescript-lang/syntax</id>
-    <link href="https://github.com/rescript-lang/syntax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ReScript&#39;s syntax as a standalone repo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>epavlick/turker-demographics</title>
-    <updated>2022-06-13T02:02:47Z</updated>
-    <id>tag:github.com,2022-06-13:/epavlick/turker-demographics</id>
-    <link href="https://github.com/epavlick/turker-demographics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>janestreet/learn-ocaml-workshop</title>
+    <updated>2022-06-14T01:55:22Z</updated>
+    <id>tag:github.com,2022-06-14:/janestreet/learn-ocaml-workshop</id>
+    <link href="https://github.com/janestreet/learn-ocaml-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercises and projects for Jane Street&#39;s OCaml Workshop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

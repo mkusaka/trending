@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:12:22Z</updated>
+  <updated>2022-06-14T02:04:27Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nasinet/live-web</title>
-    <updated>2022-06-13T02:12:22Z</updated>
-    <id>tag:github.com,2022-06-13:/Nasinet/live-web</id>
-    <link href="https://github.com/Nasinet/live-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VUE开发的直播系统web版，接入腾讯云直播，腾讯im，dp播放器，游戏直播系统，高并发，低延迟，直播系统源码。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antfu/what-time</title>
+    <updated>2022-06-14T02:04:27Z</updated>
+    <id>tag:github.com,2022-06-14:/antfu/what-time</id>
+    <link href="https://github.com/antfu/what-time" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;What time works for you?&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ghosh/uiGradients</title>
-    <updated>2022-06-13T02:12:22Z</updated>
-    <id>tag:github.com,2022-06-13:/ghosh/uiGradients</id>
-    <link href="https://github.com/ghosh/uiGradients" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔴 Beautiful colour gradients for design and code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cuiocean/ZY-Player</title>
+    <updated>2022-06-14T02:04:27Z</updated>
+    <id>tag:github.com,2022-06-14:/cuiocean/ZY-Player</id>
+    <link href="https://github.com/cuiocean/ZY-Player" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fluidd-core/fluidd</title>
-    <updated>2022-06-13T02:12:22Z</updated>
-    <id>tag:github.com,2022-06-13:/fluidd-core/fluidd</id>
-    <link href="https://github.com/fluidd-core/fluidd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fluidd, the klipper UI.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fenixsoft/awesome-fenix</title>
+    <updated>2022-06-14T02:04:27Z</updated>
+    <id>tag:github.com,2022-06-14:/fenixsoft/awesome-fenix</id>
+    <link href="https://github.com/fenixsoft/awesome-fenix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;讨论如何构建一套可靠的大型分布式系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

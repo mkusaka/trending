@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:48:21Z</updated>
+  <updated>2022-06-14T01:42:01Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arunjitsingh/id3</title>
-    <updated>2022-06-13T01:48:21Z</updated>
-    <id>tag:github.com,2022-06-13:/arunjitsingh/id3</id>
-    <link href="https://github.com/arunjitsingh/id3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ID3 parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atom/apm</title>
+    <updated>2022-06-14T01:42:01Z</updated>
+    <id>tag:github.com,2022-06-14:/atom/apm</id>
+    <link href="https://github.com/atom/apm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Atom Package Manager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stripe-archive/jquery.payment</title>
+    <updated>2022-06-14T01:42:01Z</updated>
+    <id>tag:github.com,2022-06-14:/stripe-archive/jquery.payment</id>
+    <link href="https://github.com/stripe-archive/jquery.payment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[DEPRECATED] A general purpose library for building credit card forms, validating inputs and formatting numbers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:09:47Z</updated>
+  <updated>2022-06-14T02:02:16Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pulp-platform/axi2apb</title>
-    <updated>2022-06-13T02:09:47Z</updated>
-    <id>tag:github.com,2022-06-13:/pulp-platform/axi2apb</id>
-    <link href="https://github.com/pulp-platform/axi2apb" rel="alternate"></link>
+    <title>pulp-platform/scm</title>
+    <updated>2022-06-14T02:02:16Z</updated>
+    <id>tag:github.com,2022-06-14:/pulp-platform/scm</id>
+    <link href="https://github.com/pulp-platform/scm" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lowRISC/muntjac</title>
+    <updated>2022-06-14T02:02:16Z</updated>
+    <id>tag:github.com,2022-06-14:/lowRISC/muntjac</id>
+    <link href="https://github.com/lowRISC/muntjac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;64-bit multicore RISC-V processor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:57:58Z</updated>
+  <updated>2022-06-14T01:50:35Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZakariaBouguira/MonkeyPox</title>
-    <updated>2022-06-13T01:57:58Z</updated>
-    <id>tag:github.com,2022-06-13:/ZakariaBouguira/MonkeyPox</id>
-    <link href="https://github.com/ZakariaBouguira/MonkeyPox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project aims to provide a time series updated every hour about the 2022 Monkey Pox outbreak.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>biaslab/ReactiveMP.jl</title>
+    <updated>2022-06-14T01:50:35Z</updated>
+    <id>tag:github.com,2022-06-14:/biaslab/ReactiveMP.jl</id>
+    <link href="https://github.com/biaslab/ReactiveMP.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for automatic Bayesian inference on a factor graph with reactive message passing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaWeb/HTTP.jl</title>
-    <updated>2022-06-13T01:57:58Z</updated>
-    <id>tag:github.com,2022-06-13:/JuliaWeb/HTTP.jl</id>
-    <link href="https://github.com/JuliaWeb/HTTP.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTTP for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nep-pack/NonlinearEigenproblems.jl</title>
+    <updated>2022-06-14T01:50:35Z</updated>
+    <id>tag:github.com,2022-06-14:/nep-pack/NonlinearEigenproblems.jl</id>
+    <link href="https://github.com/nep-pack/NonlinearEigenproblems.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nonlinear eigenvalue problems in Julia: Iterative methods and benchmarks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Mitsuaaki/Algorithms</title>
-    <updated>2022-06-13T01:57:58Z</updated>
-    <id>tag:github.com,2022-06-13:/Mitsuaaki/Algorithms</id>
-    <link href="https://github.com/Mitsuaaki/Algorithms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Various algorithms in mathematics, machine learning, computer science and physics written in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDynamics/DrWatson.jl</title>
+    <updated>2022-06-14T01:50:35Z</updated>
+    <id>tag:github.com,2022-06-14:/JuliaDynamics/DrWatson.jl</id>
+    <link href="https://github.com/JuliaDynamics/DrWatson.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The perfect sidekick to your scientific inquiries&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

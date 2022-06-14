@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:08:53Z</updated>
+  <updated>2022-06-14T02:01:17Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tintinweb/smart-contract-sanctuary-tron</title>
-    <updated>2022-06-13T02:08:53Z</updated>
-    <id>tag:github.com,2022-06-13:/tintinweb/smart-contract-sanctuary-tron</id>
-    <link href="https://github.com/tintinweb/smart-contract-sanctuary-tron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[Tron] 🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>makerdao/dss</title>
+    <updated>2022-06-14T02:01:17Z</updated>
+    <id>tag:github.com,2022-06-14:/makerdao/dss</id>
+    <link href="https://github.com/makerdao/dss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dai Stablecoin System&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>enricobottazzi/ZK-SBT</title>
-    <updated>2022-06-13T02:08:53Z</updated>
-    <id>tag:github.com,2022-06-13:/enricobottazzi/ZK-SBT</id>
-    <link href="https://github.com/enricobottazzi/ZK-SBT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library to issue zero knowledge soul bound tokens (ZK SBTs)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>makerdao/multicall</title>
+    <updated>2022-06-14T02:01:17Z</updated>
+    <id>tag:github.com,2022-06-14:/makerdao/multicall</id>
+    <link href="https://github.com/makerdao/multicall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multicall: Aggregate multiple constant function call results into one&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2022-06-connext</title>
-    <updated>2022-06-13T02:08:53Z</updated>
-    <id>tag:github.com,2022-06-13:/code-423n4/2022-06-connext</id>
-    <link href="https://github.com/code-423n4/2022-06-connext" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Anish-Agnihotri/flashside</title>
+    <updated>2022-06-14T02:01:17Z</updated>
+    <id>tag:github.com,2022-06-14:/Anish-Agnihotri/flashside</id>
+    <link href="https://github.com/Anish-Agnihotri/flashside" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Long-tail MEV contracts to claim Otherside land NFTs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

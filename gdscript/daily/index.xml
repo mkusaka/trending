@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:53:43Z</updated>
+  <updated>2022-06-14T01:46:35Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Zylann/godot_heightmap_plugin</title>
-    <updated>2022-06-13T01:53:43Z</updated>
-    <id>tag:github.com,2022-06-13:/Zylann/godot_heightmap_plugin</id>
-    <link href="https://github.com/Zylann/godot_heightmap_plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HeightMap terrain for Godot implemented in GDScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>db0/godot-card-game-framework</title>
-    <updated>2022-06-13T01:53:43Z</updated>
-    <id>tag:github.com,2022-06-13:/db0/godot-card-game-framework</id>
-    <link href="https://github.com/db0/godot-card-game-framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework which comes with prepared scenes and classes to kickstart your card game, as well as a powerful scripting engine to use to provide full rules enforcement.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HungryProton/scatter</title>
-    <updated>2022-06-13T01:53:43Z</updated>
-    <id>tag:github.com,2022-06-13:/HungryProton/scatter</id>
-    <link href="https://github.com/HungryProton/scatter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot engine addon to randomly fill an area with props or other scenes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GDQuest/godot-procedural-generation</title>
+    <updated>2022-06-14T01:46:35Z</updated>
+    <id>tag:github.com,2022-06-14:/GDQuest/godot-procedural-generation</id>
+    <link href="https://github.com/GDQuest/godot-procedural-generation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Procedural generation algorithms and demos for the Godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

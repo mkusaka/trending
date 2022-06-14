@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:00:22Z</updated>
+  <updated>2022-06-14T01:52:58Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>slayton/matlab-git</title>
-    <updated>2022-06-13T02:00:22Z</updated>
-    <id>tag:github.com,2022-06-13:/slayton/matlab-git</id>
-    <link href="https://github.com/slayton/matlab-git" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple function that lets you use GIT from matlab using standard GIT commands&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ucsdsysnet/blephytracking</title>
-    <updated>2022-06-13T02:00:22Z</updated>
-    <id>tag:github.com,2022-06-13:/ucsdsysnet/blephytracking</id>
-    <link href="https://github.com/ucsdsysnet/blephytracking" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository of code for BLE physical-layer location tracking project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mahmoudnafifi/WB_sRGB</title>
-    <updated>2022-06-13T02:00:22Z</updated>
-    <id>tag:github.com,2022-06-13:/mahmoudnafifi/WB_sRGB</id>
-    <link href="https://github.com/mahmoudnafifi/WB_sRGB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;White balance camera-rendered sRGB images (CVPR 2019) [Matlab &amp; Python]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

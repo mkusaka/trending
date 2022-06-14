@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:49:21Z</updated>
+  <updated>2022-06-14T01:42:56Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rapidsai/raft</title>
+    <updated>2022-06-14T01:42:56Z</updated>
+    <id>tag:github.com,2022-06-14:/rapidsai/raft</id>
+    <link href="https://github.com/rapidsai/raft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RAFT contains fundamental widely-used algorithms and primitives for data science, graph and machine learning.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kwea123/pytorch_cppcuda_practice</title>
+    <updated>2022-06-14T01:42:56Z</updated>
+    <id>tag:github.com,2022-06-14:/kwea123/pytorch_cppcuda_practice</id>
+    <link href="https://github.com/kwea123/pytorch_cppcuda_practice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Practice to write cpp/cuda extension for pytorch&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

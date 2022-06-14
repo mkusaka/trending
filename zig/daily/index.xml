@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:13:49Z</updated>
+  <updated>2022-06-14T02:05:54Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hexops/mach</title>
+    <updated>2022-06-14T02:05:54Z</updated>
+    <id>tag:github.com,2022-06-14:/hexops/mach</id>
+    <link href="https://github.com/hexops/mach" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mach is a game engine &amp; graphics toolkit for the future.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

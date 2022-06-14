@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:44:42Z</updated>
+  <updated>2022-06-14T01:39:50Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MuhamadMtrosymuhamad/RDP-FREE-WINDOWS</title>
-    <updated>2022-06-13T01:44:42Z</updated>
-    <id>tag:github.com,2022-06-13:/MuhamadMtrosymuhamad/RDP-FREE-WINDOWS</id>
-    <link href="https://github.com/MuhamadMtrosymuhamad/RDP-FREE-WINDOWS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ArtanisInc/Post-Tweaks</title>
+    <updated>2022-06-14T01:39:50Z</updated>
+    <id>tag:github.com,2022-06-14:/ArtanisInc/Post-Tweaks</id>
+    <link href="https://github.com/ArtanisInc/Post-Tweaks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A post-installation batch script for Windows&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LuckZyx/freeRDPreal</title>
-    <updated>2022-06-13T01:44:42Z</updated>
-    <id>tag:github.com,2022-06-13:/LuckZyx/freeRDPreal</id>
-    <link href="https://github.com/LuckZyx/freeRDPreal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;use it well&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RiiConnect24/RiiConnect24-Patcher</title>
+    <updated>2022-06-14T01:39:50Z</updated>
+    <id>tag:github.com,2022-06-14:/RiiConnect24/RiiConnect24-Patcher</id>
+    <link href="https://github.com/RiiConnect24/RiiConnect24-Patcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This patcher will guide you through RiiConnect24 installation process.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MuhamadMtrosymuhamad/RDP-FREE-NEW</title>
-    <updated>2022-06-13T01:44:42Z</updated>
-    <id>tag:github.com,2022-06-13:/MuhamadMtrosymuhamad/RDP-FREE-NEW</id>
-    <link href="https://github.com/MuhamadMtrosymuhamad/RDP-FREE-NEW" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jangan Lupa Follow&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>forza-painter/forza-painter</title>
+    <updated>2022-06-14T01:39:50Z</updated>
+    <id>tag:github.com,2022-06-14:/forza-painter/forza-painter</id>
+    <link href="https://github.com/forza-painter/forza-painter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Import images into Forza&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

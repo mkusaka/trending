@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:09:38Z</updated>
+  <updated>2022-06-14T02:02:02Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NMTuan/ezBookmarks</title>
-    <updated>2022-06-13T02:09:38Z</updated>
-    <id>tag:github.com,2022-06-13:/NMTuan/ezBookmarks</id>
-    <link href="https://github.com/NMTuan/ezBookmarks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;无压的浏览器书签管理插件&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tropix126/fluent-svelte</title>
+    <updated>2022-06-14T02:02:02Z</updated>
+    <id>tag:github.com,2022-06-14:/Tropix126/fluent-svelte</id>
+    <link href="https://github.com/Tropix126/fluent-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A faithful implementation of Microsoft&#39;s Fluent Design System in Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sveltejs/sites</title>
+    <updated>2022-06-14T02:02:02Z</updated>
+    <id>tag:github.com,2022-06-14:/sveltejs/sites</id>
+    <link href="https://github.com/sveltejs/sites" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monorepo for the sites in the Svelte ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

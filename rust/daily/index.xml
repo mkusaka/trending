@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:07:08Z</updated>
+  <updated>2022-06-14T01:59:31Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>denoland/deno</title>
-    <updated>2022-06-13T02:07:08Z</updated>
-    <id>tag:github.com,2022-06-13:/denoland/deno</id>
-    <link href="https://github.com/denoland/deno" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern runtime for JavaScript and TypeScript.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/rustlings</title>
+    <updated>2022-06-14T01:59:31Z</updated>
+    <id>tag:github.com,2022-06-14:/rust-lang/rustlings</id>
+    <link href="https://github.com/rust-lang/rustlings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦀 Small exercises to get you used to reading and writing Rust code!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RustPython/RustPython</title>
-    <updated>2022-06-13T02:07:08Z</updated>
-    <id>tag:github.com,2022-06-13:/RustPython/RustPython</id>
-    <link href="https://github.com/RustPython/RustPython" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Python Interpreter written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uutils/coreutils</title>
+    <updated>2022-06-14T01:59:31Z</updated>
+    <id>tag:github.com,2022-06-14:/uutils/coreutils</id>
+    <link href="https://github.com/uutils/coreutils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform Rust rewrite of the GNU coreutils&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/rust-analyzer</title>
-    <updated>2022-06-13T02:07:08Z</updated>
-    <id>tag:github.com,2022-06-13:/rust-lang/rust-analyzer</id>
-    <link href="https://github.com/rust-lang/rust-analyzer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Rust compiler front-end for IDEs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yewstack/yew</title>
+    <updated>2022-06-14T01:59:31Z</updated>
+    <id>tag:github.com,2022-06-14:/yewstack/yew</id>
+    <link href="https://github.com/yewstack/yew" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust / Wasm framework for building client web apps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

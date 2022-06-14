@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:52:29Z</updated>
+  <updated>2022-06-14T01:45:34Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CompositionalIT/SAFE-PWA</title>
-    <updated>2022-06-13T01:52:29Z</updated>
-    <id>tag:github.com,2022-06-13:/CompositionalIT/SAFE-PWA</id>
-    <link href="https://github.com/CompositionalIT/SAFE-PWA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SAFE PWA&lt;/h1&gt; &#xA;&lt;p&gt;An example app which shows how to convert a SAFE template app into a progressive web app (PWA)&lt;/p&gt; &#xA;&lt;h2&gt;SAFE Stack Documentation&lt;/h2&gt; &#xA;&lt;p&gt;If you want to know more visit the official &lt;a href=&#34;https://safe-stack.github.io/docs/&#34;&gt;SAFE documentation&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;You will find more documentation about the used F# components at the following places:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://saturnframework.org/&#34;&gt;Saturn&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://fable.io/docs/&#34;&gt;Fable&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://elmish.github.io/elmish/&#34;&gt;Elmish&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

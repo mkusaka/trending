@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T02:11:08Z</updated>
+  <updated>2022-06-14T02:03:19Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WildCodeSchool/2022-03-php-orleans-project-splitscreen</title>
-    <updated>2022-06-13T02:11:08Z</updated>
-    <id>tag:github.com,2022-06-13:/WildCodeSchool/2022-03-php-orleans-project-splitscreen</id>
-    <link href="https://github.com/WildCodeSchool/2022-03-php-orleans-project-splitscreen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>symfony/web-profiler-bundle</title>
+    <updated>2022-06-14T02:03:19Z</updated>
+    <id>tag:github.com,2022-06-14:/symfony/web-profiler-bundle</id>
+    <link href="https://github.com/symfony/web-profiler-bundle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The WebProfilerBundle provides detailed technical information about each request execution and displays it in both the web debug toolbar and the profiler.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:51:35Z</updated>
+  <updated>2022-06-14T01:44:48Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fly-apps/live_beats</title>
-    <updated>2022-06-13T01:51:35Z</updated>
-    <id>tag:github.com,2022-06-13:/fly-apps/live_beats</id>
-    <link href="https://github.com/fly-apps/live_beats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nerves-project/nerves_system_rpi4</title>
+    <updated>2022-06-14T01:44:48Z</updated>
+    <id>tag:github.com,2022-06-14:/nerves-project/nerves_system_rpi4</id>
+    <link href="https://github.com/nerves-project/nerves_system_rpi4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base Nerves system configuration for the Raspberry Pi 4&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>appsignal/appsignal-elixir</title>
-    <updated>2022-06-13T01:51:35Z</updated>
-    <id>tag:github.com,2022-06-13:/appsignal/appsignal-elixir</id>
-    <link href="https://github.com/appsignal/appsignal-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🟪 AppSignal for Elixir package&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Qqwy/elixir-type_check</title>
+    <updated>2022-06-14T01:44:48Z</updated>
+    <id>tag:github.com,2022-06-14:/Qqwy/elixir-type_check</id>
+    <link href="https://github.com/Qqwy/elixir-type_check" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TypeCheck: Fast and flexible runtime type-checking for your Elixir projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thechangelog/changelog.com</title>
-    <updated>2022-06-13T01:51:35Z</updated>
-    <id>tag:github.com,2022-06-13:/thechangelog/changelog.com</id>
-    <link href="https://github.com/thechangelog/changelog.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Changelog is news and podcast for developers. This is our open source platform.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meyercm/shorter_maps</title>
+    <updated>2022-06-14T01:44:48Z</updated>
+    <id>tag:github.com,2022-06-14:/meyercm/shorter_maps</id>
+    <link href="https://github.com/meyercm/shorter_maps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir ~M sigil for map shorthand. `~M{id, name} ~&gt; %{id: id, name: name}`&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

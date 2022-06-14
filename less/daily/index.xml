@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:58:55Z</updated>
+  <updated>2022-06-14T01:51:36Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>StackExchange/Stacks</title>
+    <updated>2022-06-14T01:51:36Z</updated>
+    <id>tag:github.com,2022-06-14:/StackExchange/Stacks</id>
+    <link href="https://github.com/StackExchange/Stacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stack Overflow’s Design System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

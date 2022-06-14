@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-13T01:42:23Z</updated>
+  <updated>2022-06-14T01:37:53Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Schweinepriester/github-profile-achievements</title>
-    <updated>2022-06-13T01:42:23Z</updated>
-    <id>tag:github.com,2022-06-13:/Schweinepriester/github-profile-achievements</id>
-    <link href="https://github.com/Schweinepriester/github-profile-achievements" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection listing all Achievements available on the GitHub profile 🏆&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TBD54566975/collaboration</title>
+    <updated>2022-06-14T01:37:53Z</updated>
+    <id>tag:github.com,2022-06-14:/TBD54566975/collaboration</id>
+    <link href="https://github.com/TBD54566975/collaboration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;Collaboration&#34; - a word we made up which combines &#34;Collaboration&#34; and &#34;Innovation&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daiyu886/evil-man</title>
-    <updated>2022-06-13T01:42:23Z</updated>
-    <id>tag:github.com,2022-06-13:/daiyu886/evil-man</id>
-    <link href="https://github.com/daiyu886/evil-man" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EbookFoundation/free-programming-books</title>
+    <updated>2022-06-14T01:37:53Z</updated>
+    <id>tag:github.com,2022-06-14:/EbookFoundation/free-programming-books</id>
+    <link href="https://github.com/EbookFoundation/free-programming-books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Freely available programming books&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ngosang/trackerslist</title>
-    <updated>2022-06-13T01:42:23Z</updated>
-    <id>tag:github.com,2022-06-13:/ngosang/trackerslist</id>
-    <link href="https://github.com/ngosang/trackerslist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Updated list of public BitTorrent trackers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>academind/react-complete-guide-code</title>
+    <updated>2022-06-14T01:37:53Z</updated>
+    <id>tag:github.com,2022-06-14:/academind/react-complete-guide-code</id>
+    <link href="https://github.com/academind/react-complete-guide-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code snapshots and materials for our &#34;React - The Complete Guide&#34; course (https://acad.link/reactjs)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
