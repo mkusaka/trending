@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stylus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T02:01:48Z</updated>
+  <updated>2022-06-15T01:55:55Z</updated>
   <subtitle>Daily Trending of Stylus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>huff-language/huff-docs</title>
-    <updated>2022-06-14T02:01:48Z</updated>
-    <id>tag:github.com,2022-06-14:/huff-language/huff-docs</id>
-    <link href="https://github.com/huff-language/huff-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for the Huff language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

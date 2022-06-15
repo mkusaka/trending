@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T02:03:57Z</updated>
+  <updated>2022-06-15T01:57:56Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>akiraux/Akira</title>
+    <updated>2022-06-15T01:57:56Z</updated>
+    <id>tag:github.com,2022-06-15:/akiraux/Akira</id>
+    <link href="https://github.com/akiraux/Akira" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Native Linux App for UI and UX Design built in Vala and GTK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:55:22Z</updated>
+  <updated>2022-06-15T01:49:33Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>melange-re/melange</title>
-    <updated>2022-06-14T01:55:22Z</updated>
-    <id>tag:github.com,2022-06-14:/melange-re/melange</id>
-    <link href="https://github.com/melange-re/melange" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A mixture of tooling combined to produce JavaScript from OCaml &amp; Reason&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>janestreet/learn-ocaml-workshop</title>
-    <updated>2022-06-14T01:55:22Z</updated>
-    <id>tag:github.com,2022-06-14:/janestreet/learn-ocaml-workshop</id>
-    <link href="https://github.com/janestreet/learn-ocaml-workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercises and projects for Jane Street&#39;s OCaml Workshop&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

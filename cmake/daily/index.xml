@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:41:51Z</updated>
+  <updated>2022-06-15T01:37:04Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RWTH-HPC/CMake-codecov</title>
-    <updated>2022-06-14T01:41:51Z</updated>
-    <id>tag:github.com,2022-06-14:/RWTH-HPC/CMake-codecov</id>
-    <link href="https://github.com/RWTH-HPC/CMake-codecov" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake module for code coverage&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uzh-rpg/assimp_catkin</title>
+    <updated>2022-06-15T01:37:04Z</updated>
+    <id>tag:github.com,2022-06-15:/uzh-rpg/assimp_catkin</id>
+    <link href="https://github.com/uzh-rpg/assimp_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catkin wrapper for assimp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>smarc-project/smarc_msgs</title>
-    <updated>2022-06-14T01:41:51Z</updated>
-    <id>tag:github.com,2022-06-14:/smarc-project/smarc_msgs</id>
-    <link href="https://github.com/smarc-project/smarc_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🟢 Message definitions for the SMARC auvs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pingcap/kvproto</title>
-    <updated>2022-06-14T01:41:51Z</updated>
-    <id>tag:github.com,2022-06-14:/pingcap/kvproto</id>
-    <link href="https://github.com/pingcap/kvproto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protocol buffer files for TiKV&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethereum/cable</title>
+    <updated>2022-06-15T01:37:04Z</updated>
+    <id>tag:github.com,2022-06-15:/ethereum/cable</id>
+    <link href="https://github.com/ethereum/cable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cable: CMake Bootstrap Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

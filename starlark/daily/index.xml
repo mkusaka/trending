@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T02:01:42Z</updated>
+  <updated>2022-06-15T01:55:47Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>envoyproxy/envoy-build-tools</title>
-    <updated>2022-06-14T02:01:42Z</updated>
-    <id>tag:github.com,2022-06-14:/envoyproxy/envoy-build-tools</id>
-    <link href="https://github.com/envoyproxy/envoy-build-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common build tools shared by the Envoy/UDPA ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lucperkins/colossus</title>
-    <updated>2022-06-14T02:01:42Z</updated>
-    <id>tag:github.com,2022-06-14:/lucperkins/colossus</id>
-    <link href="https://github.com/lucperkins/colossus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

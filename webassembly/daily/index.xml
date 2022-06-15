@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T02:04:45Z</updated>
+  <updated>2022-06-15T01:58:43Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>torch2424/wasmboy</title>
-    <updated>2022-06-14T02:04:45Z</updated>
-    <id>tag:github.com,2022-06-14:/torch2424/wasmboy</id>
-    <link href="https://github.com/torch2424/wasmboy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:44:44Z</updated>
+  <updated>2022-06-15T01:39:44Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>johnoseni1/My-Portfolio-V1</title>
-    <updated>2022-06-14T01:44:44Z</updated>
-    <id>tag:github.com,2022-06-14:/johnoseni1/My-Portfolio-V1</id>
-    <link href="https://github.com/johnoseni1/My-Portfolio-V1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;First Version of my Portfolio&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mapbox/mbview</title>
+    <updated>2022-06-15T01:39:44Z</updated>
+    <id>tag:github.com,2022-06-15:/mapbox/mbview</id>
+    <link href="https://github.com/mapbox/mbview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;View mbtiles locally&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>navetacandra/fake-secreto</title>
+    <updated>2022-06-15T01:39:44Z</updated>
+    <id>tag:github.com,2022-06-15:/navetacandra/fake-secreto</id>
+    <link href="https://github.com/navetacandra/fake-secreto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Secreto clone with ExpressJs and EJS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

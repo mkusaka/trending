@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T02:04:27Z</updated>
+  <updated>2022-06-15T01:58:28Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>antfu/what-time</title>
-    <updated>2022-06-14T02:04:27Z</updated>
-    <id>tag:github.com,2022-06-14:/antfu/what-time</id>
-    <link href="https://github.com/antfu/what-time" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;What time works for you?&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rowanwins/vue-dropzone</title>
+    <updated>2022-06-15T01:58:28Z</updated>
+    <id>tag:github.com,2022-06-15:/rowanwins/vue-dropzone</id>
+    <link href="https://github.com/rowanwins/vue-dropzone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vue.js component for Dropzone.js - a drag’n’drop file uploads utility with image previews&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cuiocean/ZY-Player</title>
-    <updated>2022-06-14T02:04:27Z</updated>
-    <id>tag:github.com,2022-06-14:/cuiocean/ZY-Player</id>
-    <link href="https://github.com/cuiocean/ZY-Player" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antfu/icones</title>
+    <updated>2022-06-15T01:58:28Z</updated>
+    <id>tag:github.com,2022-06-15:/antfu/icones</id>
+    <link href="https://github.com/antfu/icones" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡️ Icon Explorer with Instant searching, powered by Iconify&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fenixsoft/awesome-fenix</title>
-    <updated>2022-06-14T02:04:27Z</updated>
-    <id>tag:github.com,2022-06-14:/fenixsoft/awesome-fenix</id>
-    <link href="https://github.com/fenixsoft/awesome-fenix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;讨论如何构建一套可靠的大型分布式系统&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>subspace/subspace-desktop</title>
+    <updated>2022-06-15T01:58:28Z</updated>
+    <id>tag:github.com,2022-06-15:/subspace/subspace-desktop</id>
+    <link href="https://github.com/subspace/subspace-desktop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple desktop farmer for the Subspace Network&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

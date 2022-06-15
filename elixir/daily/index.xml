@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:44:48Z</updated>
+  <updated>2022-06-15T01:39:50Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nerves-project/nerves_system_rpi4</title>
-    <updated>2022-06-14T01:44:48Z</updated>
-    <id>tag:github.com,2022-06-14:/nerves-project/nerves_system_rpi4</id>
-    <link href="https://github.com/nerves-project/nerves_system_rpi4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base Nerves system configuration for the Raspberry Pi 4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exercism/elixir</title>
+    <updated>2022-06-15T01:39:50Z</updated>
+    <id>tag:github.com,2022-06-15:/exercism/elixir</id>
+    <link href="https://github.com/exercism/elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercism exercises in Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Qqwy/elixir-type_check</title>
-    <updated>2022-06-14T01:44:48Z</updated>
-    <id>tag:github.com,2022-06-14:/Qqwy/elixir-type_check</id>
-    <link href="https://github.com/Qqwy/elixir-type_check" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TypeCheck: Fast and flexible runtime type-checking for your Elixir projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bcdevices/ly10-system-rpi3</title>
+    <updated>2022-06-15T01:39:50Z</updated>
+    <id>tag:github.com,2022-06-15:/bcdevices/ly10-system-rpi3</id>
+    <link href="https://github.com/bcdevices/ly10-system-rpi3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom Nerves System for RPI3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>meyercm/shorter_maps</title>
-    <updated>2022-06-14T01:44:48Z</updated>
-    <id>tag:github.com,2022-06-14:/meyercm/shorter_maps</id>
-    <link href="https://github.com/meyercm/shorter_maps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir ~M sigil for map shorthand. `~M{id, name} ~&gt; %{id: id, name: name}`&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bors-ng/bors-ng</title>
+    <updated>2022-06-15T01:39:50Z</updated>
+    <id>tag:github.com,2022-06-15:/bors-ng/bors-ng</id>
+    <link href="https://github.com/bors-ng/bors-ng" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👁 A merge bot for GitHub Pull Requests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

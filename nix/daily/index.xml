@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:54:36Z</updated>
+  <updated>2022-06-15T01:48:42Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nix-community/dream2nix</title>
-    <updated>2022-06-14T01:54:36Z</updated>
-    <id>tag:github.com,2022-06-14:/nix-community/dream2nix</id>
-    <link href="https://github.com/nix-community/dream2nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nixify software with less effort [maintainer=@DavHau]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nix-community/naersk</title>
-    <updated>2022-06-14T01:54:36Z</updated>
-    <id>tag:github.com,2022-06-14:/nix-community/naersk</id>
-    <link href="https://github.com/nix-community/naersk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @Patryk27]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

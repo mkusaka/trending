@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T02:04:02Z</updated>
+  <updated>2022-06-15T01:58:00Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>irBags/Retro-AOL-client</title>
-    <updated>2022-06-14T02:04:02Z</updated>
-    <id>tag:github.com,2022-06-14:/irBags/Retro-AOL-client</id>
-    <link href="https://github.com/irBags/Retro-AOL-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AOL® 3.0 32-bit client software for use with the Re-AOL server project.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mymmsc/books</title>
+    <updated>2022-06-15T01:58:00Z</updated>
+    <id>tag:github.com,2022-06-15:/mymmsc/books</id>
+    <link href="https://github.com/mymmsc/books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;常用书籍&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fabiogjardim/bigdata_docker</title>
+    <updated>2022-06-15T01:58:00Z</updated>
+    <id>tag:github.com,2022-06-15:/fabiogjardim/bigdata_docker</id>
+    <link href="https://github.com/fabiogjardim/bigdata_docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Big Data Ecosystem Docker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

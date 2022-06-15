@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:41:54Z</updated>
+  <updated>2022-06-15T01:37:08Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cfjedimaster/ColdFusion-Security-Profile</title>
+    <updated>2022-06-15T01:37:08Z</updated>
+    <id>tag:github.com,2022-06-15:/cfjedimaster/ColdFusion-Security-Profile</id>
+    <link href="https://github.com/cfjedimaster/ColdFusion-Security-Profile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A ColdFusion Admin Extension for CF10 that performs a set of security checks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

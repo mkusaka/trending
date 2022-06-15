@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:59:31Z</updated>
+  <updated>2022-06-15T01:53:31Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rust-lang/rustlings</title>
-    <updated>2022-06-14T01:59:31Z</updated>
-    <id>tag:github.com,2022-06-14:/rust-lang/rustlings</id>
-    <link href="https://github.com/rust-lang/rustlings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦀 Small exercises to get you used to reading and writing Rust code!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ankitects/anki</title>
+    <updated>2022-06-15T01:53:31Z</updated>
+    <id>tag:github.com,2022-06-15:/ankitects/anki</id>
+    <link href="https://github.com/ankitects/anki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Anki for desktop computers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>uutils/coreutils</title>
-    <updated>2022-06-14T01:59:31Z</updated>
-    <id>tag:github.com,2022-06-14:/uutils/coreutils</id>
-    <link href="https://github.com/uutils/coreutils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform Rust rewrite of the GNU coreutils&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Freaky/Compactor</title>
+    <updated>2022-06-15T01:53:31Z</updated>
+    <id>tag:github.com,2022-06-15:/Freaky/Compactor</id>
+    <link href="https://github.com/Freaky/Compactor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A user interface for Windows 10 filesystem compression&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yewstack/yew</title>
-    <updated>2022-06-14T01:59:31Z</updated>
-    <id>tag:github.com,2022-06-14:/yewstack/yew</id>
-    <link href="https://github.com/yewstack/yew" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust / Wasm framework for building client web apps&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pretzelhammer/rust-blog</title>
+    <updated>2022-06-15T01:53:31Z</updated>
+    <id>tag:github.com,2022-06-15:/pretzelhammer/rust-blog</id>
+    <link href="https://github.com/pretzelhammer/rust-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Educational blog posts for Rust beginners&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T02:04:18Z</updated>
+  <updated>2022-06-15T01:58:16Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mattn/emmet-vim</title>
-    <updated>2022-06-14T02:04:18Z</updated>
-    <id>tag:github.com,2022-06-14:/mattn/emmet-vim</id>
-    <link href="https://github.com/mattn/emmet-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;emmet for vim: http://emmet.io/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mg979/vim-visual-multi</title>
+    <updated>2022-06-15T01:58:16Z</updated>
+    <id>tag:github.com,2022-06-15:/mg979/vim-visual-multi</id>
+    <link href="https://github.com/mg979/vim-visual-multi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multiple cursors plugin for vim/neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>antoniosarosi/dotfiles</title>
-    <updated>2022-06-14T02:04:18Z</updated>
-    <id>tag:github.com,2022-06-14:/antoniosarosi/dotfiles</id>
-    <link href="https://github.com/antoniosarosi/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mattn/vim-gist</title>
+    <updated>2022-06-15T01:58:16Z</updated>
+    <id>tag:github.com,2022-06-15:/mattn/vim-gist</id>
+    <link href="https://github.com/mattn/vim-gist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin for Gist&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tpope/vim-sensible</title>
-    <updated>2022-06-14T02:04:18Z</updated>
-    <id>tag:github.com,2022-06-14:/tpope/vim-sensible</id>
-    <link href="https://github.com/tpope/vim-sensible" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;sensible.vim: Defaults everyone can agree on&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rafi/awesome-vim-colorschemes</title>
+    <updated>2022-06-15T01:58:16Z</updated>
+    <id>tag:github.com,2022-06-15:/rafi/awesome-vim-colorschemes</id>
+    <link href="https://github.com/rafi/awesome-vim-colorschemes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of awesome color schemes for Neo/vim, merged for quick use.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

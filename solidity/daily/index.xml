@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T02:01:17Z</updated>
+  <updated>2022-06-15T01:55:21Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>makerdao/dss</title>
-    <updated>2022-06-14T02:01:17Z</updated>
-    <id>tag:github.com,2022-06-14:/makerdao/dss</id>
-    <link href="https://github.com/makerdao/dss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dai Stablecoin System&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xBeans/Mirakai</title>
+    <updated>2022-06-15T01:55:21Z</updated>
+    <id>tag:github.com,2022-06-15:/0xBeans/Mirakai</id>
+    <link href="https://github.com/0xBeans/Mirakai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>makerdao/multicall</title>
-    <updated>2022-06-14T02:01:17Z</updated>
-    <id>tag:github.com,2022-06-14:/makerdao/multicall</id>
-    <link href="https://github.com/makerdao/multicall" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multicall: Aggregate multiple constant function call results into one&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SunWeb3Sec/DeFiHackLabs</title>
+    <updated>2022-06-15T01:55:21Z</updated>
+    <id>tag:github.com,2022-06-15:/SunWeb3Sec/DeFiHackLabs</id>
+    <link href="https://github.com/SunWeb3Sec/DeFiHackLabs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reproduce Defi hack incidents via Foundry.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Anish-Agnihotri/flashside</title>
-    <updated>2022-06-14T02:01:17Z</updated>
-    <id>tag:github.com,2022-06-14:/Anish-Agnihotri/flashside</id>
-    <link href="https://github.com/Anish-Agnihotri/flashside" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Long-tail MEV contracts to claim Otherside land NFTs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SmartContractSecurity/SWC-registry</title>
+    <updated>2022-06-15T01:55:21Z</updated>
+    <id>tag:github.com,2022-06-15:/SmartContractSecurity/SWC-registry</id>
+    <link href="https://github.com/SmartContractSecurity/SWC-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart Contract Weakness Classification and Test Cases&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

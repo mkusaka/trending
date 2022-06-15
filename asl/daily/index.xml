@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:39:10Z</updated>
+  <updated>2022-06-15T01:34:33Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>simprecicchiani/ThinkPad-T460s-macOS-OpenCore</title>
+    <updated>2022-06-15T01:34:33Z</updated>
+    <id>tag:github.com,2022-06-15:/simprecicchiani/ThinkPad-T460s-macOS-OpenCore</id>
+    <link href="https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootloader configuration for macOS on T460s and possibly others 6th gen ThinkPads&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

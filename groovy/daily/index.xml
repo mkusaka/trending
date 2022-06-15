@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-14T01:48:09Z</updated>
+  <updated>2022-06-15T01:42:42Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wololock/jenkine-pipeline-maven-demo</title>
+    <updated>2022-06-15T01:42:42Z</updated>
+    <id>tag:github.com,2022-06-15:/wololock/jenkine-pipeline-maven-demo</id>
+    <link href="https://github.com/wololock/jenkine-pipeline-maven-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
