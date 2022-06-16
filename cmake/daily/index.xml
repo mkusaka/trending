@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:37:04Z</updated>
+  <updated>2022-06-16T01:36:09Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uzh-rpg/assimp_catkin</title>
-    <updated>2022-06-15T01:37:04Z</updated>
-    <id>tag:github.com,2022-06-15:/uzh-rpg/assimp_catkin</id>
-    <link href="https://github.com/uzh-rpg/assimp_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A catkin wrapper for assimp&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Akagi201/learning-cmake</title>
+    <updated>2022-06-16T01:36:09Z</updated>
+    <id>tag:github.com,2022-06-16:/Akagi201/learning-cmake</id>
+    <link href="https://github.com/Akagi201/learning-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;learning cmake&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethereum/cable</title>
-    <updated>2022-06-15T01:37:04Z</updated>
-    <id>tag:github.com,2022-06-15:/ethereum/cable</id>
-    <link href="https://github.com/ethereum/cable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cable: CMake Bootstrap Library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ros-industrial/ur_msgs</title>
+    <updated>2022-06-16T01:36:09Z</updated>
+    <id>tag:github.com,2022-06-16:/ros-industrial/ur_msgs</id>
+    <link href="https://github.com/ros-industrial/ur_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS messages and services for Universal Robots robot controllers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wzpan/cmake-demo</title>
+    <updated>2022-06-16T01:36:09Z</updated>
+    <id>tag:github.com,2022-06-16:/wzpan/cmake-demo</id>
+    <link href="https://github.com/wzpan/cmake-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《CMake入门实战》源码&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

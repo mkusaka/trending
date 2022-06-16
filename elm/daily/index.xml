@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:39:42Z</updated>
+  <updated>2022-06-16T01:38:52Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>icidasset/diffuse</title>
+    <updated>2022-06-16T01:38:52Z</updated>
+    <id>tag:github.com,2022-06-16:/icidasset/diffuse</id>
+    <link href="https://github.com/icidasset/diffuse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A music player that connects to your cloud/distributed storage.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

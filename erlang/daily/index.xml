@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:40:28Z</updated>
+  <updated>2022-06-16T01:39:40Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>okeuday/quickrand</title>
-    <updated>2022-06-15T01:40:28Z</updated>
-    <id>tag:github.com,2022-06-15:/okeuday/quickrand</id>
-    <link href="https://github.com/okeuday/quickrand" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quick Erlang Random Number Generation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emqx/emqtt</title>
+    <updated>2022-06-16T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-16:/emqx/emqtt</id>
+    <link href="https://github.com/emqx/emqtt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang MQTT 5.0 Client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lehoff/chronos</title>
+    <updated>2022-06-16T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-16:/lehoff/chronos</id>
+    <link href="https://github.com/lehoff/chronos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Timer module for Erlang that makes it easy to abstact time out of the tests.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cabol/shards</title>
+    <updated>2022-06-16T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-16:/cabol/shards</id>
+    <link href="https://github.com/cabol/shards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Partitioned ETS tables for Erlang and Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

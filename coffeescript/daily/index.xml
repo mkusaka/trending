@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:37:14Z</updated>
+  <updated>2022-06-16T01:36:18Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Shopify/turbograft</title>
-    <updated>2022-06-15T01:37:14Z</updated>
-    <id>tag:github.com,2022-06-15:/Shopify/turbograft</id>
-    <link href="https://github.com/Shopify/turbograft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hard fork of turbolinks, adding partial page replacement strategies, and utilities.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atom/settings-view</title>
+    <updated>2022-06-16T01:36:18Z</updated>
+    <id>tag:github.com,2022-06-16:/atom/settings-view</id>
+    <link href="https://github.com/atom/settings-view" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔧 Edit Atom settings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ayosec/talkerapp-aentos-plugin</title>
+    <updated>2022-06-16T01:36:18Z</updated>
+    <id>tag:github.com,2022-06-16:/ayosec/talkerapp-aentos-plugin</id>
+    <link href="https://github.com/ayosec/talkerapp-aentos-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generator for the plugin used in the Talkerapp Aentos&#39; room&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>patrickdevivo/Cuber</title>
+    <updated>2022-06-16T01:36:18Z</updated>
+    <id>tag:github.com,2022-06-16:/patrickdevivo/Cuber</id>
+    <link href="https://github.com/patrickdevivo/Cuber" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Model of a 3x3x3 Rubik&#39;s cube written in CoffeeScript. Not to be confused with: http://en.wikipedia.org/wiki/Cuber&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

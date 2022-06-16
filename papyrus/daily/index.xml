@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Papyrus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:50:11Z</updated>
+  <updated>2022-06-16T01:49:22Z</updated>
   <subtitle>Daily Trending of Papyrus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fireundubh/skyrim</title>
+    <updated>2022-06-16T01:49:22Z</updated>
+    <id>tag:github.com,2022-06-16:/fireundubh/skyrim</id>
+    <link href="https://github.com/fireundubh/skyrim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Everything here is old and outdated by at least 5 years.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:42:42Z</updated>
+  <updated>2022-06-16T01:41:54Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wololock/jenkine-pipeline-maven-demo</title>
-    <updated>2022-06-15T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-15:/wololock/jenkine-pipeline-maven-demo</id>
-    <link href="https://github.com/wololock/jenkine-pipeline-maven-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adoptium/ci-jenkins-pipelines</title>
+    <updated>2022-06-16T01:41:54Z</updated>
+    <id>tag:github.com,2022-06-16:/adoptium/ci-jenkins-pipelines</id>
+    <link href="https://github.com/adoptium/ci-jenkins-pipelines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;jenkins pipeline build scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>etechDevops/team2-shared-pipeline</title>
+    <updated>2022-06-16T01:41:54Z</updated>
+    <id>tag:github.com,2022-06-16:/etechDevops/team2-shared-pipeline</id>
+    <link href="https://github.com/etechDevops/team2-shared-pipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;to demo jenkins shared library configs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>senthoor/programming_quiz</title>
+    <updated>2022-06-16T01:41:54Z</updated>
+    <id>tag:github.com,2022-06-16:/senthoor/programming_quiz</id>
+    <link href="https://github.com/senthoor/programming_quiz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Problems in &#39;Ruby Quiz&#39; Book will be solved in many different languages to facilitate learning.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

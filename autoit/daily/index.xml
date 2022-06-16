@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:34:51Z</updated>
+  <updated>2022-06-16T01:33:49Z</updated>
   <subtitle>Daily Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>310ken1/AutoItSciTEj</title>
+    <updated>2022-06-16T01:33:49Z</updated>
+    <id>tag:github.com,2022-06-16:/310ken1/AutoItSciTEj</id>
+    <link href="https://github.com/310ken1/AutoItSciTEj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AutoIt の日本語開発環境&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

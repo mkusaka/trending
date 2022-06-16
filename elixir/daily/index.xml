@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:39:50Z</updated>
+  <updated>2022-06-16T01:39:00Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>exercism/elixir</title>
-    <updated>2022-06-15T01:39:50Z</updated>
-    <id>tag:github.com,2022-06-15:/exercism/elixir</id>
-    <link href="https://github.com/exercism/elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercism exercises in Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cabol/nebulex_redis_adapter</title>
+    <updated>2022-06-16T01:39:00Z</updated>
+    <id>tag:github.com,2022-06-16:/cabol/nebulex_redis_adapter</id>
+    <link href="https://github.com/cabol/nebulex_redis_adapter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nebulex adapter for Redis&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bcdevices/ly10-system-rpi3</title>
-    <updated>2022-06-15T01:39:50Z</updated>
-    <id>tag:github.com,2022-06-15:/bcdevices/ly10-system-rpi3</id>
-    <link href="https://github.com/bcdevices/ly10-system-rpi3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom Nerves System for RPI3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akoutmos/prom_ex</title>
+    <updated>2022-06-16T01:39:00Z</updated>
+    <id>tag:github.com,2022-06-16:/akoutmos/prom_ex</id>
+    <link href="https://github.com/akoutmos/prom_ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bors-ng/bors-ng</title>
-    <updated>2022-06-15T01:39:50Z</updated>
-    <id>tag:github.com,2022-06-15:/bors-ng/bors-ng</id>
-    <link href="https://github.com/bors-ng/bors-ng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👁 A merge bot for GitHub Pull Requests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gadabout/challenge-fullstack</title>
+    <updated>2022-06-16T01:39:00Z</updated>
+    <id>tag:github.com,2022-06-16:/gadabout/challenge-fullstack</id>
+    <link href="https://github.com/gadabout/challenge-fullstack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

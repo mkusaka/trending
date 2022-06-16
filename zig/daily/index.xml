@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:59:56Z</updated>
+  <updated>2022-06-16T01:59:03Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PixelGuys/Stella-Dei</title>
-    <updated>2022-06-15T01:59:56Z</updated>
-    <id>tag:github.com,2022-06-15:/PixelGuys/Stella-Dei</id>
-    <link href="https://github.com/PixelGuys/Stella-Dei" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SimEarth-like sandbox game where you can make and develop your very own planet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kubkon/zld</title>
-    <updated>2022-06-15T01:59:56Z</updated>
-    <id>tag:github.com,2022-06-15:/kubkon/zld</id>
-    <link href="https://github.com/kubkon/zld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zig&#39;s lld drop-in replacement&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

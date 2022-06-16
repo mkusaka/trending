@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:45:45Z</updated>
+  <updated>2022-06-16T01:44:59Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ciderapp/iTheme</title>
-    <updated>2022-06-15T01:45:45Z</updated>
-    <id>tag:github.com,2022-06-15:/ciderapp/iTheme</id>
-    <link href="https://github.com/ciderapp/iTheme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iTheme (Beta)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>25H/Maya</title>
-    <updated>2022-06-15T01:45:45Z</updated>
-    <id>tag:github.com,2022-06-15:/25H/Maya</id>
-    <link href="https://github.com/25H/Maya" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Maye 一个简洁小巧的快速启动工具&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

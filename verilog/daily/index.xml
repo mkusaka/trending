@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:58:06Z</updated>
+  <updated>2022-06-16T01:57:18Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Modos-Labs/Caster</title>
-    <updated>2022-06-15T01:58:06Z</updated>
-    <id>tag:github.com,2022-06-15:/Modos-Labs/Caster</id>
-    <link href="https://github.com/Modos-Labs/Caster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FPGA gateware for Caster EPDC&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IObundle/iob-vexriscv</title>
+    <updated>2022-06-16T01:57:18Z</updated>
+    <id>tag:github.com,2022-06-16:/IObundle/iob-vexriscv</id>
+    <link href="https://github.com/IObundle/iob-vexriscv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

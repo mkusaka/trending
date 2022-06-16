@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:55:09Z</updated>
+  <updated>2022-06-16T01:54:04Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>magritte-metamodel/magritte</title>
-    <updated>2022-06-15T01:55:09Z</updated>
-    <id>tag:github.com,2022-06-15:/magritte-metamodel/magritte</id>
-    <link href="https://github.com/magritte-metamodel/magritte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Magritte Meta-Model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>j-brant/SmaCC</title>
+    <updated>2022-06-16T01:54:04Z</updated>
+    <id>tag:github.com,2022-06-16:/j-brant/SmaCC</id>
+    <link href="https://github.com/j-brant/SmaCC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feenkcom/gtoolkit-spotter</title>
-    <updated>2022-06-15T01:55:09Z</updated>
-    <id>tag:github.com,2022-06-15:/feenkcom/gtoolkit-spotter</id>
-    <link href="https://github.com/feenkcom/gtoolkit-spotter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The moldable search tool.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>feenkcom/pharo-debugadapterprotocol</title>
-    <updated>2022-06-15T01:55:09Z</updated>
-    <id>tag:github.com,2022-06-15:/feenkcom/pharo-debugadapterprotocol</id>
-    <link href="https://github.com/feenkcom/pharo-debugadapterprotocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Debug Adapter Protocol client for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>feenkcom/gtoolkit-chrome</title>
+    <updated>2022-06-16T01:54:04Z</updated>
+    <id>tag:github.com,2022-06-16:/feenkcom/gtoolkit-chrome</id>
+    <link href="https://github.com/feenkcom/gtoolkit-chrome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gtoolkit specific functionality for Chrome Dev Tools access&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

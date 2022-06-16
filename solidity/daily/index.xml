@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:55:21Z</updated>
+  <updated>2022-06-16T01:54:14Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xBeans/Mirakai</title>
-    <updated>2022-06-15T01:55:21Z</updated>
-    <id>tag:github.com,2022-06-15:/0xBeans/Mirakai</id>
-    <link href="https://github.com/0xBeans/Mirakai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZigZagExchange/token</title>
+    <updated>2022-06-16T01:54:14Z</updated>
+    <id>tag:github.com,2022-06-16:/ZigZagExchange/token</id>
+    <link href="https://github.com/ZigZagExchange/token" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Token-related Contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SunWeb3Sec/DeFiHackLabs</title>
-    <updated>2022-06-15T01:55:21Z</updated>
-    <id>tag:github.com,2022-06-15:/SunWeb3Sec/DeFiHackLabs</id>
-    <link href="https://github.com/SunWeb3Sec/DeFiHackLabs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reproduce Defi hack incidents via Foundry.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Wiger123/BuidlerDao-FlashLoan</title>
+    <updated>2022-06-16T01:54:14Z</updated>
+    <id>tag:github.com,2022-06-16:/Wiger123/BuidlerDao-FlashLoan</id>
+    <link href="https://github.com/Wiger123/BuidlerDao-FlashLoan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;闪电贷课程教学&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SmartContractSecurity/SWC-registry</title>
-    <updated>2022-06-15T01:55:21Z</updated>
-    <id>tag:github.com,2022-06-15:/SmartContractSecurity/SWC-registry</id>
-    <link href="https://github.com/SmartContractSecurity/SWC-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart Contract Weakness Classification and Test Cases&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Midvel/medium_blockchain_notes</title>
+    <updated>2022-06-16T01:54:14Z</updated>
+    <id>tag:github.com,2022-06-16:/Midvel/medium_blockchain_notes</id>
+    <link href="https://github.com/Midvel/medium_blockchain_notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blockchain Everywhere (code notes for Medium)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

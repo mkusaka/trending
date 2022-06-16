@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:44:55Z</updated>
+  <updated>2022-06-16T01:44:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jonathan-laurent/AlphaZero.jl</title>
-    <updated>2022-06-15T01:44:55Z</updated>
-    <id>tag:github.com,2022-06-15:/jonathan-laurent/AlphaZero.jl</id>
-    <link href="https://github.com/jonathan-laurent/AlphaZero.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A generic, simple and fast implementation of Deepmind&#39;s AlphaZero algorithm.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/ModelingToolkit.jl</title>
+    <updated>2022-06-16T01:44:08Z</updated>
+    <id>tag:github.com,2022-06-16:/SciML/ModelingToolkit.jl</id>
+    <link href="https://github.com/SciML/ModelingToolkit.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/DifferentialEquations.jl</title>
-    <updated>2022-06-15T01:44:55Z</updated>
-    <id>tag:github.com,2022-06-15:/SciML/DifferentialEquations.jl</id>
-    <link href="https://github.com/SciML/DifferentialEquations.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jump-dev/MathOptInterface.jl</title>
+    <updated>2022-06-16T01:44:08Z</updated>
+    <id>tag:github.com,2022-06-16:/jump-dev/MathOptInterface.jl</id>
+    <link href="https://github.com/jump-dev/MathOptInterface.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An abstraction layer for mathematical optimization solvers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Alexander-Barth/NCDatasets.jl</title>
-    <updated>2022-06-15T01:44:55Z</updated>
-    <id>tag:github.com,2022-06-15:/Alexander-Barth/NCDatasets.jl</id>
-    <link href="https://github.com/Alexander-Barth/NCDatasets.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Load and create NetCDF files in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jump-dev/JuMP.jl</title>
+    <updated>2022-06-16T01:44:08Z</updated>
+    <id>tag:github.com,2022-06-16:/jump-dev/JuMP.jl</id>
+    <link href="https://github.com/jump-dev/JuMP.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

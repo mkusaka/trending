@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:36:54Z</updated>
+  <updated>2022-06-16T01:35:59Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>javahippie/clj-test-containers</title>
-    <updated>2022-06-15T01:36:54Z</updated>
-    <id>tag:github.com,2022-06-15:/javahippie/clj-test-containers</id>
-    <link href="https://github.com/javahippie/clj-test-containers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Control Docker containers from your test lifecycle for Clojure integration tests.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>troyastorino/battleship</title>
+    <updated>2022-06-16T01:35:59Z</updated>
+    <id>tag:github.com,2022-06-16:/troyastorino/battleship</id>
+    <link href="https://github.com/troyastorino/battleship" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quick ASCII battleship game in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ribelo/doxa</title>
-    <updated>2022-06-15T01:36:54Z</updated>
-    <id>tag:github.com,2022-06-15:/ribelo/doxa</id>
-    <link href="https://github.com/ribelo/doxa" rel="alternate"></link>
+    <title>plumatic/schema</title>
+    <updated>2022-06-16T01:35:59Z</updated>
+    <id>tag:github.com,2022-06-16:/plumatic/schema</id>
+    <link href="https://github.com/plumatic/schema" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure(Script) library for declarative data description and validation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>syou6162/clj-utils</title>
+    <updated>2022-06-16T01:35:59Z</updated>
+    <id>tag:github.com,2022-06-16:/syou6162/clj-utils</id>
+    <link href="https://github.com/syou6162/clj-utils" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

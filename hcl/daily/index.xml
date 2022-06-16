@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:43:05Z</updated>
+  <updated>2022-06-16T01:42:15Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudposse/terraform-aws-ecs-container-definition</title>
-    <updated>2022-06-15T01:43:05Z</updated>
-    <id>tag:github.com,2022-06-15:/cloudposse/terraform-aws-ecs-container-definition</id>
-    <link href="https://github.com/cloudposse/terraform-aws-ecs-container-definition" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HuoCorp/TerraformGoat</title>
+    <updated>2022-06-16T01:42:15Z</updated>
+    <id>tag:github.com,2022-06-16:/HuoCorp/TerraformGoat</id>
+    <link href="https://github.com/HuoCorp/TerraformGoat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TerraformGoat is HuoCorp research lab&#39;s &#34;Vulnerable by Design&#34; multi cloud deployment tool.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nsbno/servicedocumentation</title>
-    <updated>2022-06-15T01:43:05Z</updated>
-    <id>tag:github.com,2022-06-15:/nsbno/servicedocumentation</id>
-    <link href="https://github.com/nsbno/servicedocumentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-redshift</title>
-    <updated>2022-06-15T01:43:05Z</updated>
-    <id>tag:github.com,2022-06-15:/terraform-aws-modules/terraform-aws-redshift</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-redshift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates Redshift resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/hashicat-azure</title>
+    <updated>2022-06-16T01:42:15Z</updated>
+    <id>tag:github.com,2022-06-16:/hashicorp/hashicat-azure</id>
+    <link href="https://github.com/hashicorp/hashicat-azure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample app for Terraform workshops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

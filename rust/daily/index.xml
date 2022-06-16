@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:53:31Z</updated>
+  <updated>2022-06-16T01:52:46Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ankitects/anki</title>
-    <updated>2022-06-15T01:53:31Z</updated>
-    <id>tag:github.com,2022-06-15:/ankitects/anki</id>
-    <link href="https://github.com/ankitects/anki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Anki for desktop computers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CeresDB/ceresdb</title>
+    <updated>2022-06-16T01:52:46Z</updated>
+    <id>tag:github.com,2022-06-16:/CeresDB/ceresdb</id>
+    <link href="https://github.com/CeresDB/ceresdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Freaky/Compactor</title>
-    <updated>2022-06-15T01:53:31Z</updated>
-    <id>tag:github.com,2022-06-15:/Freaky/Compactor</id>
-    <link href="https://github.com/Freaky/Compactor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A user interface for Windows 10 filesystem compression&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>riquito/tuc</title>
+    <updated>2022-06-16T01:52:46Z</updated>
+    <id>tag:github.com,2022-06-16:/riquito/tuc</id>
+    <link href="https://github.com/riquito/tuc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;When cut doesn&#39;t cut it&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pretzelhammer/rust-blog</title>
-    <updated>2022-06-15T01:53:31Z</updated>
-    <id>tag:github.com,2022-06-15:/pretzelhammer/rust-blog</id>
-    <link href="https://github.com/pretzelhammer/rust-blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Educational blog posts for Rust beginners&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tokio-rs/mini-redis</title>
+    <updated>2022-06-16T01:52:46Z</updated>
+    <id>tag:github.com,2022-06-16:/tokio-rs/mini-redis</id>
+    <link href="https://github.com/tokio-rs/mini-redis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Incomplete Redis client and server implementation using Tokio - for learning purposes only&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

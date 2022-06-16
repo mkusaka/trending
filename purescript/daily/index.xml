@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:51:54Z</updated>
+  <updated>2022-06-16T01:51:05Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript-contrib/purescript-affjax-web</title>
-    <updated>2022-06-15T01:51:54Z</updated>
-    <id>tag:github.com,2022-06-15:/purescript-contrib/purescript-affjax-web</id>
-    <link href="https://github.com/purescript-contrib/purescript-affjax-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>restaumatic/purescript-specular</title>
+    <updated>2022-06-16T01:51:05Z</updated>
+    <id>tag:github.com,2022-06-16:/restaumatic/purescript-specular</id>
+    <link href="https://github.com/restaumatic/purescript-specular" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Reflex-Dom inspired UI library for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-argonaut-codecs</title>
+    <updated>2022-06-16T01:51:05Z</updated>
+    <id>tag:github.com,2022-06-16:/purescript-contrib/purescript-argonaut-codecs</id>
+    <link href="https://github.com/purescript-contrib/purescript-argonaut-codecs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON serialization and deserialization with Argonaut.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-unicode</title>
+    <updated>2022-06-16T01:51:05Z</updated>
+    <id>tag:github.com,2022-06-16:/purescript-contrib/purescript-unicode</id>
+    <link href="https://github.com/purescript-contrib/purescript-unicode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unicode character functions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

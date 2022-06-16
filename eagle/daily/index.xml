@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Eagle Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:39:23Z</updated>
+  <updated>2022-06-16T01:38:33Z</updated>
   <subtitle>Daily Trending of Eagle in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hallard/teleinfo</title>
-    <updated>2022-06-15T01:39:23Z</updated>
-    <id>tag:github.com,2022-06-15:/hallard/teleinfo</id>
-    <link href="https://github.com/hallard/teleinfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projets dédié à la téléinformation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

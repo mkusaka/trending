@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:56:04Z</updated>
+  <updated>2022-06-16T01:54:57Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Rich-Harris/edge-fetch-repro</title>
-    <updated>2022-06-15T01:56:04Z</updated>
-    <id>tag:github.com,2022-06-15:/Rich-Harris/edge-fetch-repro</id>
-    <link href="https://github.com/Rich-Harris/edge-fetch-repro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>importantimport/urara</title>
+    <updated>2022-06-16T01:54:57Z</updated>
+    <id>tag:github.com,2022-06-16:/importantimport/urara</id>
+    <link href="https://github.com/importantimport/urara" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. (100% TypeScript)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grischaerbe/threlte</title>
+    <updated>2022-06-16T01:54:57Z</updated>
+    <id>tag:github.com,2022-06-16:/grischaerbe/threlte</id>
+    <link href="https://github.com/grischaerbe/threlte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A three.js component library for Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>illright/attractions</title>
+    <updated>2022-06-16T01:54:57Z</updated>
+    <id>tag:github.com,2022-06-16:/illright/attractions</id>
+    <link href="https://github.com/illright/attractions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pretty cool UI kit for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

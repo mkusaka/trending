@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:54:00Z</updated>
+  <updated>2022-06-16T01:53:15Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pagevamp/balendra-project-internship</title>
-    <updated>2022-06-15T01:54:00Z</updated>
-    <id>tag:github.com,2022-06-15:/pagevamp/balendra-project-internship</id>
-    <link href="https://github.com/pagevamp/balendra-project-internship" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Final project - Internship&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>odoo/design-themes</title>
+    <updated>2022-06-16T01:53:15Z</updated>
+    <id>tag:github.com,2022-06-16:/odoo/design-themes</id>
+    <link href="https://github.com/odoo/design-themes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Sinakhx/react-boilerplate</title>
-    <updated>2022-06-15T01:54:00Z</updated>
-    <id>tag:github.com,2022-06-15:/Sinakhx/react-boilerplate</id>
-    <link href="https://github.com/Sinakhx/react-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enterprise-level boilerplate for react projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>artemsheludko/zolan</title>
+    <updated>2022-06-16T01:53:15Z</updated>
+    <id>tag:github.com,2022-06-16:/artemsheludko/zolan</id>
+    <link href="https://github.com/artemsheludko/zolan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zolan is a minimal blog theme for Jekyll.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>andrewbanchich/forty-jekyll-theme</title>
-    <updated>2022-06-15T01:54:00Z</updated>
-    <id>tag:github.com,2022-06-15:/andrewbanchich/forty-jekyll-theme</id>
-    <link href="https://github.com/andrewbanchich/forty-jekyll-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Jekyll version of the &#34;Forty&#34; theme by HTML5 UP.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>saimoomedits/eww-widgets</title>
+    <updated>2022-06-16T01:53:15Z</updated>
+    <id>tag:github.com,2022-06-16:/saimoomedits/eww-widgets</id>
+    <link href="https://github.com/saimoomedits/eww-widgets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my eww widgets!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

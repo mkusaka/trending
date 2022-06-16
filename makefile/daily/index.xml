@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:46:48Z</updated>
+  <updated>2022-06-16T01:46:00Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linuxacademy/content-source-control-git</title>
-    <updated>2022-06-15T01:46:48Z</updated>
-    <id>tag:github.com,2022-06-15:/linuxacademy/content-source-control-git</id>
-    <link href="https://github.com/linuxacademy/content-source-control-git" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kenny&#39;s Source Control with Git Public Repo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>just-containers/s6-overlay</title>
+    <updated>2022-06-16T01:46:00Z</updated>
+    <id>tag:github.com,2022-06-16:/just-containers/s6-overlay</id>
+    <link href="https://github.com/just-containers/s6-overlay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mapbox/cpp-cli-skel</title>
-    <updated>2022-06-15T01:46:48Z</updated>
-    <id>tag:github.com,2022-06-15:/mapbox/cpp-cli-skel</id>
-    <link href="https://github.com/mapbox/cpp-cli-skel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A skeleton for C++ command line tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ChargePoint/buildroot</title>
+    <updated>2022-06-16T01:46:00Z</updated>
+    <id>tag:github.com,2022-06-16:/ChargePoint/buildroot</id>
+    <link href="https://github.com/ChargePoint/buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChargePoint internal mirror of buildroot. Upstream: git://git.busybox.net/buildroot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LineageOS/android_hardware_qcom_bt</title>
-    <updated>2022-06-15T01:46:48Z</updated>
-    <id>tag:github.com,2022-06-15:/LineageOS/android_hardware_qcom_bt</id>
-    <link href="https://github.com/LineageOS/android_hardware_qcom_bt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-telemetry/oteps</title>
+    <updated>2022-06-16T01:46:00Z</updated>
+    <id>tag:github.com,2022-06-16:/open-telemetry/oteps</id>
+    <link href="https://github.com/open-telemetry/oteps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenTelemetry Enhancement Proposals&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

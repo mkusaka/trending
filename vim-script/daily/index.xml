@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:58:16Z</updated>
+  <updated>2022-06-16T01:57:28Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mg979/vim-visual-multi</title>
-    <updated>2022-06-15T01:58:16Z</updated>
-    <id>tag:github.com,2022-06-15:/mg979/vim-visual-multi</id>
-    <link href="https://github.com/mg979/vim-visual-multi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multiple cursors plugin for vim/neovim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ghostjoy/lab7.vim</title>
+    <updated>2022-06-16T01:57:28Z</updated>
+    <id>tag:github.com,2022-06-16:/ghostjoy/lab7.vim</id>
+    <link href="https://github.com/ghostjoy/lab7.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a personal vimrc and plugins , fork from vgod and eddie kao&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mattn/vim-gist</title>
-    <updated>2022-06-15T01:58:16Z</updated>
-    <id>tag:github.com,2022-06-15:/mattn/vim-gist</id>
-    <link href="https://github.com/mattn/vim-gist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin for Gist&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arcticicestudio/nord-vim</title>
+    <updated>2022-06-16T01:57:28Z</updated>
+    <id>tag:github.com,2022-06-16:/arcticicestudio/nord-vim</id>
+    <link href="https://github.com/arcticicestudio/nord-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An arctic, north-bluish clean and elegant Vim theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rafi/awesome-vim-colorschemes</title>
-    <updated>2022-06-15T01:58:16Z</updated>
-    <id>tag:github.com,2022-06-15:/rafi/awesome-vim-colorschemes</id>
-    <link href="https://github.com/rafi/awesome-vim-colorschemes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of awesome color schemes for Neo/vim, merged for quick use.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yami-beta/asyncomplete-omni.vim</title>
+    <updated>2022-06-16T01:57:28Z</updated>
+    <id>tag:github.com,2022-06-16:/yami-beta/asyncomplete-omni.vim</id>
+    <link href="https://github.com/yami-beta/asyncomplete-omni.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Omni completion source for asyncomplete.vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

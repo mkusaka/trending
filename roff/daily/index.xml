@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:53:13Z</updated>
+  <updated>2022-06-16T01:52:27Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ophub/amlogic-s9xxx-armbian</title>
-    <updated>2022-06-15T01:53:13Z</updated>
-    <id>tag:github.com,2022-06-15:/ophub/amlogic-s9xxx-armbian</id>
-    <link href="https://github.com/ophub/amlogic-s9xxx-armbian" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc. including install to EMMC and update related functions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>linuxboot/linuxboot</title>
-    <updated>2022-06-15T01:53:13Z</updated>
-    <id>tag:github.com,2022-06-15:/linuxboot/linuxboot</id>
-    <link href="https://github.com/linuxboot/linuxboot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The LinuxBoot project is working to enable Linux to replace your firmware on all platforms.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

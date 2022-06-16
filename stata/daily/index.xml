@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stata Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-15T01:55:53Z</updated>
+  <updated>2022-06-16T01:54:44Z</updated>
   <subtitle>Daily Trending of Stata in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vikjam/mostly-harmless-replication</title>
-    <updated>2022-06-15T01:55:53Z</updated>
-    <id>tag:github.com,2022-06-15:/vikjam/mostly-harmless-replication</id>
-    <link href="https://github.com/vikjam/mostly-harmless-replication" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Replication of tables and figures from &#34;Mostly Harmless Econometrics&#34; in Stata, R, Python and Julia.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
