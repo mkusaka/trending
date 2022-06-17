@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:50:55Z</updated>
+  <updated>2022-06-17T01:52:29Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>digitalist-se/puppet-php</title>
-    <updated>2022-06-16T01:50:55Z</updated>
-    <id>tag:github.com,2022-06-16:/digitalist-se/puppet-php</id>
-    <link href="https://github.com/digitalist-se/puppet-php" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PHP Puppet module&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rogeriopradoj/oportunidades-puppet</title>
+    <updated>2022-06-17T01:52:29Z</updated>
+    <id>tag:github.com,2022-06-17:/rogeriopradoj/oportunidades-puppet</id>
+    <link href="https://github.com/rogeriopradoj/oportunidades-puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuração Puppet para projeto https://github.com/iMastersDev/oportunidades&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rtyler/puppet-puppet</title>
-    <updated>2022-06-16T01:50:55Z</updated>
-    <id>tag:github.com,2022-06-16:/rtyler/puppet-puppet</id>
-    <link href="https://github.com/rtyler/puppet-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module for managing Puppet installations with native packages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>digitalist-se/puppet-drush</title>
+    <updated>2022-06-17T01:52:29Z</updated>
+    <id>tag:github.com,2022-06-17:/digitalist-se/puppet-drush</id>
+    <link href="https://github.com/digitalist-se/puppet-drush" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for drush&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>digitalist-se/puppet-postfix</title>
+    <updated>2022-06-17T01:52:29Z</updated>
+    <id>tag:github.com,2022-06-17:/digitalist-se/puppet-postfix</id>
+    <link href="https://github.com/digitalist-se/puppet-postfix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Very simple puppet module for postfix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

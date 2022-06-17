@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:40:36Z</updated>
+  <updated>2022-06-17T01:41:47Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ywmaa/Advanced-Movement-System-Godot</title>
+    <updated>2022-06-17T01:41:47Z</updated>
+    <id>tag:github.com,2022-06-17:/ywmaa/Advanced-Movement-System-Godot</id>
+    <link href="https://github.com/ywmaa/Advanced-Movement-System-Godot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project is a template for creating advanced Third/First Person movement in GODOT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CaptainProton42/DynamicWaterDemo</title>
+    <updated>2022-06-17T01:41:47Z</updated>
+    <id>tag:github.com,2022-06-17:/CaptainProton42/DynamicWaterDemo</id>
+    <link href="https://github.com/CaptainProton42/DynamicWaterDemo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A real-time dynamic water simulation with object interaction made entirely within the Godot Engine.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

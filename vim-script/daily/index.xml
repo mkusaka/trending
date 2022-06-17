@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:57:28Z</updated>
+  <updated>2022-06-17T01:59:10Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ghostjoy/lab7.vim</title>
-    <updated>2022-06-16T01:57:28Z</updated>
-    <id>tag:github.com,2022-06-16:/ghostjoy/lab7.vim</id>
-    <link href="https://github.com/ghostjoy/lab7.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a personal vimrc and plugins , fork from vgod and eddie kao&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vimpostor/vim-tpipeline</title>
+    <updated>2022-06-17T01:59:10Z</updated>
+    <id>tag:github.com,2022-06-17:/vimpostor/vim-tpipeline</id>
+    <link href="https://github.com/vimpostor/vim-tpipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Embed your vim statusline in tmux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>arcticicestudio/nord-vim</title>
-    <updated>2022-06-16T01:57:28Z</updated>
-    <id>tag:github.com,2022-06-16:/arcticicestudio/nord-vim</id>
-    <link href="https://github.com/arcticicestudio/nord-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An arctic, north-bluish clean and elegant Vim theme.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>schmeekygeek/dotfiles</title>
+    <updated>2022-06-17T01:59:10Z</updated>
+    <id>tag:github.com,2022-06-17:/schmeekygeek/dotfiles</id>
+    <link href="https://github.com/schmeekygeek/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My own personal dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yami-beta/asyncomplete-omni.vim</title>
-    <updated>2022-06-16T01:57:28Z</updated>
-    <id>tag:github.com,2022-06-16:/yami-beta/asyncomplete-omni.vim</id>
-    <link href="https://github.com/yami-beta/asyncomplete-omni.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Omni completion source for asyncomplete.vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpope/vim-bundler</title>
+    <updated>2022-06-17T01:59:10Z</updated>
+    <id>tag:github.com,2022-06-17:/tpope/vim-bundler</id>
+    <link href="https://github.com/tpope/vim-bundler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bundler.vim: Lightweight support for Ruby&#39;s Bundler&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

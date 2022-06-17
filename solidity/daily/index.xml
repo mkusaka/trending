@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:54:14Z</updated>
+  <updated>2022-06-17T01:56:03Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZigZagExchange/token</title>
-    <updated>2022-06-16T01:54:14Z</updated>
-    <id>tag:github.com,2022-06-16:/ZigZagExchange/token</id>
-    <link href="https://github.com/ZigZagExchange/token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Token-related Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>superform-xyz/experimental-4626</title>
+    <updated>2022-06-17T01:56:03Z</updated>
+    <id>tag:github.com,2022-06-17:/superform-xyz/experimental-4626</id>
+    <link href="https://github.com/superform-xyz/experimental-4626" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental ERC4626 Extensions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Wiger123/BuidlerDao-FlashLoan</title>
-    <updated>2022-06-16T01:54:14Z</updated>
-    <id>tag:github.com,2022-06-16:/Wiger123/BuidlerDao-FlashLoan</id>
-    <link href="https://github.com/Wiger123/BuidlerDao-FlashLoan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;闪电贷课程教学&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Machovsky/ethereum-contracts</title>
+    <updated>2022-06-17T01:56:03Z</updated>
+    <id>tag:github.com,2022-06-17:/Machovsky/ethereum-contracts</id>
+    <link href="https://github.com/Machovsky/ethereum-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample ethereum contracts with full guide&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Midvel/medium_blockchain_notes</title>
-    <updated>2022-06-16T01:54:14Z</updated>
-    <id>tag:github.com,2022-06-16:/Midvel/medium_blockchain_notes</id>
-    <link href="https://github.com/Midvel/medium_blockchain_notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blockchain Everywhere (code notes for Medium)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Sabertoothtech/CryptoJhinga-Stablecoin</title>
+    <updated>2022-06-17T01:56:03Z</updated>
+    <id>tag:github.com,2022-06-17:/Sabertoothtech/CryptoJhinga-Stablecoin</id>
+    <link href="https://github.com/Sabertoothtech/CryptoJhinga-Stablecoin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

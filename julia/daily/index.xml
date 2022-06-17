@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:44:08Z</updated>
+  <updated>2022-06-17T01:45:24Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/ModelingToolkit.jl</title>
-    <updated>2022-06-16T01:44:08Z</updated>
-    <id>tag:github.com,2022-06-16:/SciML/ModelingToolkit.jl</id>
-    <link href="https://github.com/SciML/ModelingToolkit.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/Oceananigans.jl</title>
+    <updated>2022-06-17T01:45:24Z</updated>
+    <id>tag:github.com,2022-06-17:/CliMA/Oceananigans.jl</id>
+    <link href="https://github.com/CliMA/Oceananigans.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jump-dev/MathOptInterface.jl</title>
-    <updated>2022-06-16T01:44:08Z</updated>
-    <id>tag:github.com,2022-06-16:/jump-dev/MathOptInterface.jl</id>
-    <link href="https://github.com/jump-dev/MathOptInterface.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An abstraction layer for mathematical optimization solvers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/Catalyst.jl</title>
+    <updated>2022-06-17T01:45:24Z</updated>
+    <id>tag:github.com,2022-06-17:/SciML/Catalyst.jl</id>
+    <link href="https://github.com/SciML/Catalyst.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jump-dev/JuMP.jl</title>
-    <updated>2022-06-16T01:44:08Z</updated>
-    <id>tag:github.com,2022-06-16:/jump-dev/JuMP.jl</id>
-    <link href="https://github.com/jump-dev/JuMP.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaMath/SpecialFunctions.jl</title>
+    <updated>2022-06-17T01:45:24Z</updated>
+    <id>tag:github.com,2022-06-17:/JuliaMath/SpecialFunctions.jl</id>
+    <link href="https://github.com/JuliaMath/SpecialFunctions.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Special mathematical functions in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

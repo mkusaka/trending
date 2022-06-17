@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:34:13Z</updated>
+  <updated>2022-06-17T01:35:22Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure/avdaccelerator</title>
-    <updated>2022-06-16T01:34:13Z</updated>
-    <id>tag:github.com,2022-06-16:/Azure/avdaccelerator</id>
-    <link href="https://github.com/Azure/avdaccelerator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

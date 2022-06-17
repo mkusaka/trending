@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:52:46Z</updated>
+  <updated>2022-06-17T01:54:22Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CeresDB/ceresdb</title>
-    <updated>2022-06-16T01:52:46Z</updated>
-    <id>tag:github.com,2022-06-16:/CeresDB/ceresdb</id>
-    <link href="https://github.com/CeresDB/ceresdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rustdesk/rustdesk-server</title>
+    <updated>2022-06-17T01:54:22Z</updated>
+    <id>tag:github.com,2022-06-17:/rustdesk/rustdesk-server</id>
+    <link href="https://github.com/rustdesk/rustdesk-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RustDesk Server Program&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>riquito/tuc</title>
-    <updated>2022-06-16T01:52:46Z</updated>
-    <id>tag:github.com,2022-06-16:/riquito/tuc</id>
-    <link href="https://github.com/riquito/tuc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;When cut doesn&#39;t cut it&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yamato-Security/hayabusa</title>
+    <updated>2022-06-17T01:54:22Z</updated>
+    <id>tag:github.com,2022-06-17:/Yamato-Security/hayabusa</id>
+    <link href="https://github.com/Yamato-Security/hayabusa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tokio-rs/mini-redis</title>
-    <updated>2022-06-16T01:52:46Z</updated>
-    <id>tag:github.com,2022-06-16:/tokio-rs/mini-redis</id>
-    <link href="https://github.com/tokio-rs/mini-redis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Incomplete Redis client and server implementation using Tokio - for learning purposes only&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>firecracker-microvm/firecracker</title>
+    <updated>2022-06-17T01:54:22Z</updated>
+    <id>tag:github.com,2022-06-17:/firecracker-microvm/firecracker</id>
+    <link href="https://github.com/firecracker-microvm/firecracker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Secure and fast microVMs for serverless computing.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

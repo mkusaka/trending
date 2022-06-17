@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:56:21Z</updated>
+  <updated>2022-06-17T01:58:00Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TdP-esami/2019-06-27-A-JDK11</title>
-    <updated>2022-06-16T01:56:21Z</updated>
-    <id>tag:github.com,2022-06-16:/TdP-esami/2019-06-27-A-JDK11</id>
-    <link href="https://github.com/TdP-esami/2019-06-27-A-JDK11" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Conversione a JDK11 del tema d&#39;esame 2019-06-27-A&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nirzaf/SqlTelemetryXEvents</title>
+    <updated>2022-06-17T01:58:00Z</updated>
+    <id>tag:github.com,2022-06-17:/nirzaf/SqlTelemetryXEvents</id>
+    <link href="https://github.com/nirzaf/SqlTelemetryXEvents" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TdP-esami/2019-06-27-A</title>
-    <updated>2022-06-16T01:56:21Z</updated>
-    <id>tag:github.com,2022-06-16:/TdP-esami/2019-06-27-A</id>
-    <link href="https://github.com/TdP-esami/2019-06-27-A" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tema d&#39;esame del 27/06/2019, Turno A (Denver crimes, ricorsione)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TdP-esami/2019-07-12-A-JDK11</title>
+    <updated>2022-06-17T01:58:00Z</updated>
+    <id>tag:github.com,2022-06-17:/TdP-esami/2019-07-12-A-JDK11</id>
+    <link href="https://github.com/TdP-esami/2019-07-12-A-JDK11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Conversione a JDK11 del tema d&#39;esame 2019-07-12-A&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

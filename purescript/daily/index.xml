@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:51:05Z</updated>
+  <updated>2022-06-17T01:52:40Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>restaumatic/purescript-specular</title>
-    <updated>2022-06-16T01:51:05Z</updated>
-    <id>tag:github.com,2022-06-16:/restaumatic/purescript-specular</id>
-    <link href="https://github.com/restaumatic/purescript-specular" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Reflex-Dom inspired UI library for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-unfoldable</title>
+    <updated>2022-06-17T01:52:40Z</updated>
+    <id>tag:github.com,2022-06-17:/purescript/purescript-unfoldable</id>
+    <link href="https://github.com/purescript/purescript-unfoldable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unfoldable functors&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purescript-contrib/purescript-argonaut-codecs</title>
-    <updated>2022-06-16T01:51:05Z</updated>
-    <id>tag:github.com,2022-06-16:/purescript-contrib/purescript-argonaut-codecs</id>
-    <link href="https://github.com/purescript-contrib/purescript-argonaut-codecs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSON serialization and deserialization with Argonaut.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>purescript-contrib/purescript-unicode</title>
-    <updated>2022-06-16T01:51:05Z</updated>
-    <id>tag:github.com,2022-06-16:/purescript-contrib/purescript-unicode</id>
-    <link href="https://github.com/purescript-contrib/purescript-unicode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unicode character functions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript-contrib/purescript-fixed-points</title>
+    <updated>2022-06-17T01:52:40Z</updated>
+    <id>tag:github.com,2022-06-17:/purescript-contrib/purescript-fixed-points</id>
+    <link href="https://github.com/purescript-contrib/purescript-fixed-points" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Types for the least and greatest fixed points of functors.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

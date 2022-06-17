@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:34:24Z</updated>
+  <updated>2022-06-17T01:35:32Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rwema3/university-of-Rwanda_E-Document</title>
-    <updated>2022-06-16T01:34:24Z</updated>
-    <id>tag:github.com,2022-06-16:/rwema3/university-of-Rwanda_E-Document</id>
-    <link href="https://github.com/rwema3/university-of-Rwanda_E-Document" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This Project was made by Rwema in Laravel, to provide the way to the UR students so that they can access their documents easier through Online Services.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

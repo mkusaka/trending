@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:36:09Z</updated>
+  <updated>2022-06-17T01:37:22Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Akagi201/learning-cmake</title>
-    <updated>2022-06-16T01:36:09Z</updated>
-    <id>tag:github.com,2022-06-16:/Akagi201/learning-cmake</id>
-    <link href="https://github.com/Akagi201/learning-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;learning cmake&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tier4/autoware_auto_msgs</title>
+    <updated>2022-06-17T01:37:22Z</updated>
+    <id>tag:github.com,2022-06-17:/tier4/autoware_auto_msgs</id>
+    <link href="https://github.com/tier4/autoware_auto_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forked from https://gitlab.com/autowarefoundation/autoware.auto/autoware_auto_msgs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ros-industrial/ur_msgs</title>
-    <updated>2022-06-16T01:36:09Z</updated>
-    <id>tag:github.com,2022-06-16:/ros-industrial/ur_msgs</id>
-    <link href="https://github.com/ros-industrial/ur_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ROS messages and services for Universal Robots robot controllers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tier4/aip_description.iv</title>
+    <updated>2022-06-17T01:37:22Z</updated>
+    <id>tag:github.com,2022-06-17:/tier4/aip_description.iv</id>
+    <link href="https://github.com/tier4/aip_description.iv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wzpan/cmake-demo</title>
-    <updated>2022-06-16T01:36:09Z</updated>
-    <id>tag:github.com,2022-06-16:/wzpan/cmake-demo</id>
-    <link href="https://github.com/wzpan/cmake-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;《CMake入门实战》源码&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ros2/python_cmake_module</title>
+    <updated>2022-06-17T01:37:22Z</updated>
+    <id>tag:github.com,2022-06-17:/ros2/python_cmake_module</id>
+    <link href="https://github.com/ros2/python_cmake_module" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake module for finding Python in a consistent way for all ROS 2 packages.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inform 7 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:42:56Z</updated>
+  <updated>2022-06-17T01:44:18Z</updated>
   <subtitle>Daily Trending of Inform 7 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IBM/SCERL</title>
+    <updated>2022-06-17T01:44:18Z</updated>
+    <id>tag:github.com,2022-06-17:/IBM/SCERL</id>
+    <link href="https://github.com/IBM/SCERL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Safety Constrained Environments for Reinforcement Learning - submission for NeurIPS Benchmark and Dataset Track&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

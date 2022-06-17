@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:35:59Z</updated>
+  <updated>2022-06-17T01:37:11Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>troyastorino/battleship</title>
-    <updated>2022-06-16T01:35:59Z</updated>
-    <id>tag:github.com,2022-06-16:/troyastorino/battleship</id>
-    <link href="https://github.com/troyastorino/battleship" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quick ASCII battleship game in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>babashka/nbb</title>
+    <updated>2022-06-17T01:37:11Z</updated>
+    <id>tag:github.com,2022-06-17:/babashka/nbb</id>
+    <link href="https://github.com/babashka/nbb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripting in Clojure on Node.js using SCI.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>plumatic/schema</title>
-    <updated>2022-06-16T01:35:59Z</updated>
-    <id>tag:github.com,2022-06-16:/plumatic/schema</id>
-    <link href="https://github.com/plumatic/schema" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure(Script) library for declarative data description and validation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lochnesh/clojure-gol</title>
+    <updated>2022-06-17T01:37:11Z</updated>
+    <id>tag:github.com,2022-06-17:/lochnesh/clojure-gol</id>
+    <link href="https://github.com/lochnesh/clojure-gol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;playing with an implementation of gol in clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>syou6162/clj-utils</title>
-    <updated>2022-06-16T01:35:59Z</updated>
-    <id>tag:github.com,2022-06-16:/syou6162/clj-utils</id>
-    <link href="https://github.com/syou6162/clj-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>juxt/pick</title>
+    <updated>2022-06-17T01:37:11Z</updated>
+    <id>tag:github.com,2022-06-17:/juxt/pick</id>
+    <link href="https://github.com/juxt/pick" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure library for HTTP server-driven content negotiation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

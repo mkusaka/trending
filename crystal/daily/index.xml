@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:36:41Z</updated>
+  <updated>2022-06-17T01:37:58Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>I3oris/ic</title>
+    <updated>2022-06-17T01:37:58Z</updated>
+    <id>tag:github.com,2022-06-17:/I3oris/ic</id>
+    <link href="https://github.com/I3oris/ic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;REPL Interface wrapping Crystal Interpreter (crystal-i).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

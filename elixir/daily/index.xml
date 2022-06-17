@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:39:00Z</updated>
+  <updated>2022-06-17T01:40:13Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cabol/nebulex_redis_adapter</title>
-    <updated>2022-06-16T01:39:00Z</updated>
-    <id>tag:github.com,2022-06-16:/cabol/nebulex_redis_adapter</id>
-    <link href="https://github.com/cabol/nebulex_redis_adapter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nebulex adapter for Redis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>whitfin/cachex</title>
+    <updated>2022-06-17T01:40:13Z</updated>
+    <id>tag:github.com,2022-06-17:/whitfin/cachex</id>
+    <link href="https://github.com/whitfin/cachex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A powerful caching library for Elixir with support for transactions, fallbacks and expirations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>akoutmos/prom_ex</title>
-    <updated>2022-06-16T01:39:00Z</updated>
-    <id>tag:github.com,2022-06-16:/akoutmos/prom_ex</id>
-    <link href="https://github.com/akoutmos/prom_ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gadabout/challenge-fullstack</title>
-    <updated>2022-06-16T01:39:00Z</updated>
-    <id>tag:github.com,2022-06-16:/gadabout/challenge-fullstack</id>
-    <link href="https://github.com/gadabout/challenge-fullstack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dwyl/learn-elixir</title>
+    <updated>2022-06-17T01:40:13Z</updated>
+    <id>tag:github.com,2022-06-17:/dwyl/learn-elixir</id>
+    <link href="https://github.com/dwyl/learn-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💧 Learn the Elixir programming language to build functional, fast, scalable and maintainable web applications!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

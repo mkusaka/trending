@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-16T01:39:40Z</updated>
+  <updated>2022-06-17T01:40:47Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emqx/emqtt</title>
-    <updated>2022-06-16T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-16:/emqx/emqtt</id>
-    <link href="https://github.com/emqx/emqtt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang MQTT 5.0 Client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dmitryme/erlang_localtime</title>
+    <updated>2022-06-17T01:40:47Z</updated>
+    <id>tag:github.com,2022-06-17:/dmitryme/erlang_localtime</id>
+    <link href="https://github.com/dmitryme/erlang_localtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang library for conversion from one local time to another&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lehoff/chronos</title>
-    <updated>2022-06-16T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-16:/lehoff/chronos</id>
-    <link href="https://github.com/lehoff/chronos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Timer module for Erlang that makes it easy to abstact time out of the tests.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>titan098/erl-base58</title>
+    <updated>2022-06-17T01:40:47Z</updated>
+    <id>tag:github.com,2022-06-17:/titan098/erl-base58</id>
+    <link href="https://github.com/titan098/erl-base58" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Erlang Base58 encoder and decoder&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cabol/shards</title>
-    <updated>2022-06-16T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-16:/cabol/shards</id>
-    <link href="https://github.com/cabol/shards" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Partitioned ETS tables for Erlang and Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>g-andrade/stacktrace_compat</title>
+    <updated>2022-06-17T01:40:47Z</updated>
+    <id>tag:github.com,2022-06-17:/g-andrade/stacktrace_compat</id>
+    <link href="https://github.com/g-andrade/stacktrace_compat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;get_stacktrace() compatibility in Erlang/OTP 21+&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
