@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:33:03Z</updated>
+  <updated>2022-06-18T01:31:41Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>csteinmetz1/ai-audio-startups</title>
-    <updated>2022-06-17T01:33:03Z</updated>
-    <id>tag:github.com,2022-06-17:/csteinmetz1/ai-audio-startups</id>
-    <link href="https://github.com/csteinmetz1/ai-audio-startups" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community list of startups working with AI in audio and music technology&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>christophercalm/if-im-gone</title>
+    <updated>2022-06-18T01:31:41Z</updated>
+    <id>tag:github.com,2022-06-18:/christophercalm/if-im-gone</id>
+    <link href="https://github.com/christophercalm/if-im-gone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cheat sheet for if I am somehow incapacitated.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cagefigter/awesome-piracy</title>
-    <updated>2022-06-17T01:33:03Z</updated>
-    <id>tag:github.com,2022-06-17:/cagefigter/awesome-piracy</id>
-    <link href="https://github.com/cagefigter/awesome-piracy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AvillaDaniel/AvillaForensics</title>
+    <updated>2022-06-18T01:31:41Z</updated>
+    <id>tag:github.com,2022-06-18:/AvillaDaniel/AvillaForensics</id>
+    <link href="https://github.com/AvillaDaniel/AvillaForensics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Avilla Forensics 3.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Louis3797/awesome-readme-template</title>
-    <updated>2022-06-17T01:33:03Z</updated>
-    <id>tag:github.com,2022-06-17:/Louis3797/awesome-readme-template</id>
-    <link href="https://github.com/Louis3797/awesome-readme-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome README template for your projects!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dair-ai/Mathematics-for-ML</title>
+    <updated>2022-06-18T01:31:41Z</updated>
+    <id>tag:github.com,2022-06-18:/dair-ai/Mathematics-for-ML</id>
+    <link href="https://github.com/dair-ai/Mathematics-for-ML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧮 A collection of resources to learn mathematics for machine learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

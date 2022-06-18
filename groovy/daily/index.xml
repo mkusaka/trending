@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:43:08Z</updated>
+  <updated>2022-06-18T01:40:36Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FriendsInGlobalHealth/SIFMOZ-Backend</title>
-    <updated>2022-06-17T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-17:/FriendsInGlobalHealth/SIFMOZ-Backend</id>
-    <link href="https://github.com/FriendsInGlobalHealth/SIFMOZ-Backend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yeochinyi/groovy-web-console</title>
+    <updated>2022-06-18T01:40:36Z</updated>
+    <id>tag:github.com,2022-06-18:/yeochinyi/groovy-web-console</id>
+    <link href="https://github.com/yeochinyi/groovy-web-console" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Groovy Console in WAR&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nvaidyan/SHARP-UI</title>
-    <updated>2022-06-17T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-17:/nvaidyan/SHARP-UI</id>
-    <link href="https://github.com/nvaidyan/SHARP-UI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clinical Decision Support user interface for Arizona State University Biomedical Informatics SHARP project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jenkinsci/jenkins-scripts</title>
+    <updated>2022-06-18T01:40:36Z</updated>
+    <id>tag:github.com,2022-06-18:/jenkinsci/jenkins-scripts</id>
+    <link href="https://github.com/jenkinsci/jenkins-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yencarnacion/testhttps</title>
-    <updated>2022-06-17T01:43:08Z</updated>
-    <id>tag:github.com,2022-06-17:/yencarnacion/testhttps</id>
-    <link href="https://github.com/yencarnacion/testhttps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>researchgate/gradle-release</title>
+    <updated>2022-06-18T01:40:36Z</updated>
+    <id>tag:github.com,2022-06-18:/researchgate/gradle-release</id>
+    <link href="https://github.com/researchgate/gradle-release" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gradle-release is a plugin for providing a Maven-like release process for projects using Gradle&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

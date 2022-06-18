@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:51:37Z</updated>
+  <updated>2022-06-18T01:48:43Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uphold/json-output</title>
-    <updated>2022-06-17T01:51:37Z</updated>
-    <id>tag:github.com,2022-06-17:/uphold/json-output</id>
-    <link href="https://github.com/uphold/json-output" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSON decoding output plugin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starkfell/100DaysOfIaC</title>
+    <updated>2022-06-18T01:48:43Z</updated>
+    <id>tag:github.com,2022-06-18:/starkfell/100DaysOfIaC</id>
+    <link href="https://github.com/starkfell/100DaysOfIaC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;100 Days of IaC in Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:47:24Z</updated>
+  <updated>2022-06-18T01:44:44Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyperledger/fabric-protos</title>
-    <updated>2022-06-17T01:47:24Z</updated>
-    <id>tag:github.com,2022-06-17:/hyperledger/fabric-protos</id>
-    <link href="https://github.com/hyperledger/fabric-protos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thockin/go-build-template</title>
+    <updated>2022-06-18T01:44:44Z</updated>
+    <id>tag:github.com,2022-06-18:/thockin/go-build-template</id>
+    <link href="https://github.com/thockin/go-build-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Makefile/Dockerfile example for Go projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NVIDIA/nvidia-container-runtime</title>
-    <updated>2022-06-17T01:47:24Z</updated>
-    <id>tag:github.com,2022-06-17:/NVIDIA/nvidia-container-runtime</id>
-    <link href="https://github.com/NVIDIA/nvidia-container-runtime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NVIDIA container runtime&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>commercetools/commercetools-postman-collection</title>
+    <updated>2022-06-18T01:44:44Z</updated>
+    <id>tag:github.com,2022-06-18:/commercetools/commercetools-postman-collection</id>
+    <link href="https://github.com/commercetools/commercetools-postman-collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of commercetools API examples setup on top of Postman&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>envoyproxy/gateway</title>
-    <updated>2022-06-17T01:47:24Z</updated>
-    <id>tag:github.com,2022-06-17:/envoyproxy/gateway</id>
-    <link href="https://github.com/envoyproxy/gateway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manages Envoy Proxy as a standalone or Kubernetes-based application gateway&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phpbrew/phpbrew</title>
+    <updated>2022-06-18T01:44:44Z</updated>
+    <id>tag:github.com,2022-06-18:/phpbrew/phpbrew</id>
+    <link href="https://github.com/phpbrew/phpbrew" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brew &amp; manage PHP versions in pure PHP at HOME&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

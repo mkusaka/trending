@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:50:11Z</updated>
+  <updated>2022-06-18T01:47:21Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mirage/mirage</title>
-    <updated>2022-06-17T01:50:11Z</updated>
-    <id>tag:github.com,2022-06-17:/mirage/mirage</id>
-    <link href="https://github.com/mirage/mirage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MirageOS is a library operating system that constructs unikernels&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>linoscope/CAMLBOY</title>
-    <updated>2022-06-17T01:50:11Z</updated>
-    <id>tag:github.com,2022-06-17:/linoscope/CAMLBOY</id>
-    <link href="https://github.com/linoscope/CAMLBOY" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Game Boy emulator that runs in your browser written in OCaml 🐫 🎮&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gfngfn/SATySFi</title>
-    <updated>2022-06-17T01:50:11Z</updated>
-    <id>tag:github.com,2022-06-17:/gfngfn/SATySFi</id>
-    <link href="https://github.com/gfngfn/SATySFi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A statically-typed, functional typesetting system&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>davidsan/ocaml-othello</title>
+    <updated>2022-06-18T01:47:21Z</updated>
+    <id>tag:github.com,2022-06-18:/davidsan/ocaml-othello</id>
+    <link href="https://github.com/davidsan/ocaml-othello" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Othello game (OCaml)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

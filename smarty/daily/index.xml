@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:55:50Z</updated>
+  <updated>2022-06-18T01:52:45Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Alfresco/acs-deployment</title>
-    <updated>2022-06-17T01:55:50Z</updated>
-    <id>tag:github.com,2022-06-17:/Alfresco/acs-deployment</id>
-    <link href="https://github.com/Alfresco/acs-deployment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alfresco Content Services containerized deployment (Helm and Docker Compose)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akeylesslabs/helm-charts</title>
+    <updated>2022-06-18T01:52:45Z</updated>
+    <id>tag:github.com,2022-06-18:/akeylesslabs/helm-charts</id>
+    <link href="https://github.com/akeylesslabs/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Akeyless Kubernetes Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>usernames/konga-helm</title>
+    <updated>2022-06-18T01:52:45Z</updated>
+    <id>tag:github.com,2022-06-18:/usernames/konga-helm</id>
+    <link href="https://github.com/usernames/konga-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

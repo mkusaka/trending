@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:54:22Z</updated>
+  <updated>2022-06-18T01:51:21Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rustdesk/rustdesk-server</title>
-    <updated>2022-06-17T01:54:22Z</updated>
-    <id>tag:github.com,2022-06-17:/rustdesk/rustdesk-server</id>
-    <link href="https://github.com/rustdesk/rustdesk-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RustDesk Server Program&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wasmerio/wasmer</title>
+    <updated>2022-06-18T01:51:21Z</updated>
+    <id>tag:github.com,2022-06-18:/wasmerio/wasmer</id>
+    <link href="https://github.com/wasmerio/wasmer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 The leading WebAssembly Runtime supporting WASI and Emscripten&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Yamato-Security/hayabusa</title>
-    <updated>2022-06-17T01:54:22Z</updated>
-    <id>tag:github.com,2022-06-17:/Yamato-Security/hayabusa</id>
-    <link href="https://github.com/Yamato-Security/hayabusa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tauri-apps/wry</title>
+    <updated>2022-06-18T01:51:21Z</updated>
+    <id>tag:github.com,2022-06-18:/tauri-apps/wry</id>
+    <link href="https://github.com/tauri-apps/wry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform WebView library in Rust for Tauri.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>firecracker-microvm/firecracker</title>
-    <updated>2022-06-17T01:54:22Z</updated>
-    <id>tag:github.com,2022-06-17:/firecracker-microvm/firecracker</id>
-    <link href="https://github.com/firecracker-microvm/firecracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Secure and fast microVMs for serverless computing.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mtth-bfft/adeleg</title>
+    <updated>2022-06-18T01:51:21Z</updated>
+    <id>tag:github.com,2022-06-18:/mtth-bfft/adeleg</id>
+    <link href="https://github.com/mtth-bfft/adeleg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Active Directory delegation management tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

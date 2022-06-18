@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:41:22Z</updated>
+  <updated>2022-06-18T01:38:49Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>open-atmos/PyPartMC</title>
+    <updated>2022-06-18T01:38:49Z</updated>
+    <id>tag:github.com,2022-06-18:/open-atmos/PyPartMC</id>
+    <link href="https://github.com/open-atmos/PyPartMC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python (and C++) interface to PartMC with Jupyter/Python and Julia examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ElmerCSC/elmerfem</title>
+    <updated>2022-06-18T01:38:49Z</updated>
+    <id>tag:github.com,2022-06-18:/ElmerCSC/elmerfem</id>
+    <link href="https://github.com/ElmerCSC/elmerfem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official git repository of Elmer FEM software&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Unidata/netcdf-fortran</title>
+    <updated>2022-06-18T01:38:49Z</updated>
+    <id>tag:github.com,2022-06-18:/Unidata/netcdf-fortran</id>
+    <link href="https://github.com/Unidata/netcdf-fortran" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library. Install the netCDF C library first.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

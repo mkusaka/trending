@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:52:29Z</updated>
+  <updated>2022-06-18T01:49:38Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rogeriopradoj/oportunidades-puppet</title>
-    <updated>2022-06-17T01:52:29Z</updated>
-    <id>tag:github.com,2022-06-17:/rogeriopradoj/oportunidades-puppet</id>
-    <link href="https://github.com/rogeriopradoj/oportunidades-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configuração Puppet para projeto https://github.com/iMastersDev/oportunidades&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>digitalist-se/puppet-apache</title>
+    <updated>2022-06-18T01:49:38Z</updated>
+    <id>tag:github.com,2022-06-18:/digitalist-se/puppet-apache</id>
+    <link href="https://github.com/digitalist-se/puppet-apache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache puppet module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>digitalist-se/puppet-drush</title>
-    <updated>2022-06-17T01:52:29Z</updated>
-    <id>tag:github.com,2022-06-17:/digitalist-se/puppet-drush</id>
-    <link href="https://github.com/digitalist-se/puppet-drush" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module for drush&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>digitalist-se/puppet-postfix</title>
-    <updated>2022-06-17T01:52:29Z</updated>
-    <id>tag:github.com,2022-06-17:/digitalist-se/puppet-postfix</id>
-    <link href="https://github.com/digitalist-se/puppet-postfix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Very simple puppet module for postfix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>digitalist-se/puppet-systools</title>
+    <updated>2022-06-18T01:49:38Z</updated>
+    <id>tag:github.com,2022-06-18:/digitalist-se/puppet-systools</id>
+    <link href="https://github.com/digitalist-se/puppet-systools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet systools module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

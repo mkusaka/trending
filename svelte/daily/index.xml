@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:56:49Z</updated>
+  <updated>2022-06-18T01:53:37Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AguzzTN54/Genshin-Impact-Wish-Simulator</title>
-    <updated>2022-06-17T01:56:49Z</updated>
-    <id>tag:github.com,2022-06-17:/AguzzTN54/Genshin-Impact-Wish-Simulator</id>
-    <link href="https://github.com/AguzzTN54/Genshin-Impact-Wish-Simulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulate Genshin Impact Gacha with no cost through Web Application. Just For Fun. Don&#39;t make me in trouble :D&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>spruceid/kepler-dapp</title>
+    <updated>2022-06-18T01:53:37Z</updated>
+    <id>tag:github.com,2022-06-18:/spruceid/kepler-dapp</id>
+    <link href="https://github.com/spruceid/kepler-dapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>michael-spengler/fairness</title>
+    <updated>2022-06-18T01:53:37Z</updated>
+    <id>tag:github.com,2022-06-18:/michael-spengler/fairness</id>
+    <link href="https://github.com/michael-spengler/fairness" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;It&#39;s about Fairness&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

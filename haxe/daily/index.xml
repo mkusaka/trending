@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:43:30Z</updated>
+  <updated>2022-06-18T01:40:57Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ale46/TouchMyBalls</title>
+    <updated>2022-06-18T01:40:57Z</updated>
+    <id>tag:github.com,2022-06-18:/Ale46/TouchMyBalls</id>
+    <link href="https://github.com/Ale46/TouchMyBalls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple haxe game&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Touch My Balls!&lt;/h1&gt; &#xA;&lt;p&gt;Touch My Balls! is a very simply game. Colored balls flying around, can you touch all of them following some rules?&lt;/p&gt; &#xA;&lt;h2&gt;How to play&lt;/h2&gt; &#xA;&lt;p&gt;In Touch My Balls! you have to destroy balls that are flying around on the stage. There&#39; re only few things to rember: you&#39; ve to touch only the balls colored of the goal color, if you click on the wrong color you get a -1 on your score. Simply, no? The main concept of the game is extended by two type of games:&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Level Mode&lt;/strong&gt; : 10 levels. Each level has a goal number of balls you&#39; ve to touch and a max time to do it. The time you save is converted in extra points. You need to rember that in each level there&#39; s a finite number of balls, so take care about errors or you&#39; ll end your game very soon.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Arcade mode&lt;/strong&gt; : no levels, only 180 seconds to catch as many balls you can.&lt;/p&gt; &#xA;&lt;h2&gt;PLAY&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.kongregate.com/games/Ale4677/touch-my-balls&#34;&gt;Play The Game on Kongregate&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;NOTE&lt;/h3&gt; &#xA;&lt;p&gt;This is a simple game written in &lt;em&gt;haxe&lt;/em&gt; using the &lt;em&gt;Flixel&lt;/em&gt; game library. C++ and flash target compile and run without problems, for mobile platform more work should be done to get a working version.&lt;/p&gt;</summary>
+  </entry>
 </feed>

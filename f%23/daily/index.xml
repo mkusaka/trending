@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:40:48Z</updated>
+  <updated>2022-06-18T01:38:16Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>matthewcrews/FSharpPerformance</title>
+    <updated>2022-06-18T01:38:16Z</updated>
+    <id>tag:github.com,2022-06-18:/matthewcrews/FSharpPerformance</id>
+    <link href="https://github.com/matthewcrews/FSharpPerformance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;F# Performance&lt;/h1&gt; &#xA;&lt;p&gt;This is a collection of benchmarks that I have put together for the &lt;code&gt;Fast F#&lt;/code&gt; YouTube &lt;a href=&#34;https://www.youtube.com/channel/UCnOx0OGml1t-6u_v2N0GemA&#34;&gt;channel&lt;/a&gt;. It is meant to illustrate various aspects of F# performance.&lt;/p&gt;</summary>
+  </entry>
 </feed>

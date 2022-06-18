@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:37:11Z</updated>
+  <updated>2022-06-18T01:35:06Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>babashka/nbb</title>
-    <updated>2022-06-17T01:37:11Z</updated>
-    <id>tag:github.com,2022-06-17:/babashka/nbb</id>
-    <link href="https://github.com/babashka/nbb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripting in Clojure on Node.js using SCI.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bpiel/ferret-ql</title>
+    <updated>2022-06-18T01:35:06Z</updated>
+    <id>tag:github.com,2022-06-18:/bpiel/ferret-ql</id>
+    <link href="https://github.com/bpiel/ferret-ql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lochnesh/clojure-gol</title>
-    <updated>2022-06-17T01:37:11Z</updated>
-    <id>tag:github.com,2022-06-17:/lochnesh/clojure-gol</id>
-    <link href="https://github.com/lochnesh/clojure-gol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;playing with an implementation of gol in clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kanej/eviltalkingrabbit</title>
+    <updated>2022-06-18T01:35:06Z</updated>
+    <id>tag:github.com,2022-06-18:/kanej/eviltalkingrabbit</id>
+    <link href="https://github.com/kanej/eviltalkingrabbit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Website giving quick access to nabaztag lives api.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>juxt/pick</title>
-    <updated>2022-06-17T01:37:11Z</updated>
-    <id>tag:github.com,2022-06-17:/juxt/pick</id>
-    <link href="https://github.com/juxt/pick" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure library for HTTP server-driven content negotiation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nrepl/piggieback</title>
+    <updated>2022-06-18T01:35:06Z</updated>
+    <id>tag:github.com,2022-06-18:/nrepl/piggieback</id>
+    <link href="https://github.com/nrepl/piggieback" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nREPL support for ClojureScript REPLs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:51:02Z</updated>
+  <updated>2022-06-18T01:48:07Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Embarcadero/P4D-Data-Sciences</title>
-    <updated>2022-06-17T01:51:02Z</updated>
-    <id>tag:github.com,2022-06-17:/Embarcadero/P4D-Data-Sciences</id>
-    <link href="https://github.com/Embarcadero/P4D-Data-Sciences" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of lightweight Python wrappers based on Python4Delphi simplifying Data Sciences development with Delphi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HashLoad/DBCBr</title>
-    <updated>2022-06-17T01:51:02Z</updated>
-    <id>tag:github.com,2022-06-17:/HashLoad/DBCBr</id>
-    <link href="https://github.com/HashLoad/DBCBr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DBCBr Framework for Delphi (Isaque Pinheiro)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antoniojmsjr/FastReportExport</title>
+    <updated>2022-06-18T01:48:07Z</updated>
+    <id>tag:github.com,2022-06-18:/antoniojmsjr/FastReportExport</id>
+    <link href="https://github.com/antoniojmsjr/FastReportExport" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Biblioteca de exportação de relatórios utilizando Fast Report em ambientes multithreading.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

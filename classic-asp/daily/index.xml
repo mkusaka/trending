@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:37:00Z</updated>
+  <updated>2022-06-18T01:34:51Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Unity-Technologies/AddressableAssetsWebinar</title>
-    <updated>2022-06-17T01:37:00Z</updated>
-    <id>tag:github.com,2022-06-17:/Unity-Technologies/AddressableAssetsWebinar</id>
-    <link href="https://github.com/Unity-Technologies/AddressableAssetsWebinar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zendesk/zendesk_jwt_sso_examples</title>
+    <updated>2022-06-18T01:34:51Z</updated>
+    <id>tag:github.com,2022-06-18:/zendesk/zendesk_jwt_sso_examples</id>
+    <link href="https://github.com/zendesk/zendesk_jwt_sso_examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples using JWT for Zendesk SSO&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zendesk/classic_asp_jwt</title>
+    <updated>2022-06-18T01:34:51Z</updated>
+    <id>tag:github.com,2022-06-18:/zendesk/classic_asp_jwt</id>
+    <link href="https://github.com/zendesk/classic_asp_jwt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A JWT implementation in Classic ASP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

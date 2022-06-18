@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:37:41Z</updated>
+  <updated>2022-06-18T01:35:33Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>easye/yuka</title>
-    <updated>2022-06-17T01:37:41Z</updated>
-    <id>tag:github.com,2022-06-17:/easye/yuka</id>
-    <link href="https://github.com/easye/yuka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Java Virtual Machine written in Common Lisp.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;README&lt;/h1&gt; &#xA;&lt;p&gt;A Java Virtual Machine written in Common Lisp. As of now, yuka can load and display a class file in a human-readable format. Try this from your Common Lisp REPL:&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;(load &#34;/home/vijay/Desktop/yuka/src/vm.lisp&#34;) (yuka:klass-to-string (yuka:load-klass-file &#34;SomeJavaClass.class&#34;))&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
-  </entry>
-  <entry>
-    <title>chiro/yscheme</title>
-    <updated>2022-06-17T01:37:41Z</updated>
-    <id>tag:github.com,2022-06-17:/chiro/yscheme</id>
-    <link href="https://github.com/chiro/yscheme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;名前 : yscheme(仮) 何であるか : scheme(r7rs)処理系 状態 : 現在作っています。 ソース : &lt;a href=&#34;https://github/yukiahru/yscheme&#34;&gt;https://github/yukiahru/yscheme&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;実行方法(sbclの場合) : ~/.sbcl/systems/yscheme.asd から yschemey/scheme.asd へシンボリックリンクを貼って、 端末上で、 $ sbcl&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;(require &#39;yscheme)&lt;/li&gt; &#xA; &lt;li&gt;(in-package :yscheme)&lt;/li&gt; &#xA; &lt;li&gt;(repl) とするとREPLが起動します。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;バイナリは&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;(sb-ext:save-lisp-and-die &#34;yscheme.out&#34; :top-level &#39;yscheme:repl :executable t) によって生成することができると思います。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;TODO : call/cc, define-syntax など。&lt;/p&gt;</summary>
+    <title>kaveh808/kons-9</title>
+    <updated>2022-06-18T01:35:33Z</updated>
+    <id>tag:github.com,2022-06-18:/kaveh808/kons-9</id>
+    <link href="https://github.com/kaveh808/kons-9" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common Lisp 3D graphics code&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;kons-9&lt;/h1&gt; &#xA;&lt;p&gt;Common Lisp 3D graphics code&lt;/p&gt; &#xA;&lt;p&gt;This code is definitely not ready for primetime. It is very much a work in progress and a playground for my ideas.&lt;/p&gt; &#xA;&lt;p&gt;More info about the thoughts behind this project at my blog:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://kaveh808.medium.com&#34;&gt;https://kaveh808.medium.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;There is no documentation beyond this file.&lt;/p&gt; &#xA;&lt;p&gt;If you&#39;re brave enough, change the pathnames in main.lisp and eval the buffer.&lt;/p&gt; &#xA;&lt;p&gt;You should see a graphics window appear (only tested on CCL and MacOS).&lt;/p&gt; &#xA;&lt;p&gt;Type &#39;h&#39; in the window to see the available key bindings.&lt;/p&gt; &#xA;&lt;p&gt;Open demo.lisp and start evaluating the blocks of code. Things should appear in the graphics window.&lt;/p&gt; &#xA;&lt;p&gt;Have fun.&lt;/p&gt; &#xA;&lt;p&gt;TODO: many many things, including...&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;ASDF or other package system&lt;/li&gt; &#xA; &lt;li&gt;documentation&lt;/li&gt; &#xA; &lt;li&gt;GUI -- OpenGL, Web, or other?&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

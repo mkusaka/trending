@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:40:13Z</updated>
+  <updated>2022-06-18T01:37:47Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>whitfin/cachex</title>
-    <updated>2022-06-17T01:40:13Z</updated>
-    <id>tag:github.com,2022-06-17:/whitfin/cachex</id>
-    <link href="https://github.com/whitfin/cachex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A powerful caching library for Elixir with support for transactions, fallbacks and expirations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thehaigo/live_onnx</title>
+    <updated>2022-06-18T01:37:47Z</updated>
+    <id>tag:github.com,2022-06-18:/thehaigo/live_onnx</id>
+    <link href="https://github.com/thehaigo/live_onnx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ML application sample with LiveView and Axon&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dwyl/learn-elixir</title>
-    <updated>2022-06-17T01:40:13Z</updated>
-    <id>tag:github.com,2022-06-17:/dwyl/learn-elixir</id>
-    <link href="https://github.com/dwyl/learn-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💧 Learn the Elixir programming language to build functional, fast, scalable and maintainable web applications!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akira/exq</title>
+    <updated>2022-06-18T01:37:47Z</updated>
+    <id>tag:github.com,2022-06-18:/akira/exq</id>
+    <link href="https://github.com/akira/exq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Job processing library for Elixir - compatible with Resque / Sidekiq&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:55:05Z</updated>
+  <updated>2022-06-18T01:51:58Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/MRTK3-iet-tutorials</title>
-    <updated>2022-06-17T01:55:05Z</updated>
-    <id>tag:github.com,2022-06-17:/microsoft/MRTK3-iet-tutorials</id>
-    <link href="https://github.com/microsoft/MRTK3-iet-tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MRTK3 IET tutorials&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MirzaBeig/Anime-Speed-Lines</title>
+    <updated>2022-06-18T01:51:58Z</updated>
+    <id>tag:github.com,2022-06-18:/MirzaBeig/Anime-Speed-Lines</id>
+    <link href="https://github.com/MirzaBeig/Anime-Speed-Lines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

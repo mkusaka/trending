@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T01:59:21Z</updated>
+  <updated>2022-06-18T01:56:00Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>newbee-ltd/vue3-admin</title>
-    <updated>2022-06-17T01:59:21Z</updated>
-    <id>tag:github.com,2022-06-17:/newbee-ltd/vue3-admin</id>
-    <link href="https://github.com/newbee-ltd/vue3-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥 🎉 Vue 3.0 + Vite 2.0 + Vue-Router 4.0 + Element-Plus + Echarts 5.0 + Axios 开发的后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>balancer-labs/frontend-v2</title>
+    <updated>2022-06-18T01:56:00Z</updated>
+    <id>tag:github.com,2022-06-18:/balancer-labs/frontend-v2</id>
+    <link href="https://github.com/balancer-labs/frontend-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Frontend Vue app for Balancer exchange and pool management.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>liyupi/sql-generator</title>
-    <updated>2022-06-17T01:59:21Z</updated>
-    <id>tag:github.com,2022-06-17:/liyupi/sql-generator</id>
-    <link href="https://github.com/liyupi/sql-generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Tucsky/aggr</title>
-    <updated>2022-06-17T01:59:21Z</updated>
-    <id>tag:github.com,2022-06-17:/Tucsky/aggr</id>
-    <link href="https://github.com/Tucsky/aggr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cryptocurrency trades aggregator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dcloudio/uni-ui</title>
+    <updated>2022-06-18T01:56:00Z</updated>
+    <id>tag:github.com,2022-06-18:/dcloudio/uni-ui</id>
+    <link href="https://github.com/dcloudio/uni-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于uni-app的ui框架&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

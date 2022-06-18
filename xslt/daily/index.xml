@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-17T02:00:27Z</updated>
+  <updated>2022-06-18T01:57:01Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Twisted-Fields/rp2040-motor-controller</title>
-    <updated>2022-06-17T02:00:27Z</updated>
-    <id>tag:github.com,2022-06-17:/Twisted-Fields/rp2040-motor-controller</id>
-    <link href="https://github.com/Twisted-Fields/rp2040-motor-controller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dual channel brushless motor controller based on the RP2040 microcontroller&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rp2040-motor-controller&lt;/h1&gt; &#xA;&lt;p&gt;A dual channel brushless motor controller based on the RP2040 microcontroller&lt;/p&gt; &#xA;&lt;p&gt;The entire board is the size of a credit card, and is designed to be fabbed using the JLCPCB assembly service.&lt;/p&gt; &#xA;&lt;p&gt;Estimated price is $23 per assembled board when ordering 20 boards. BE ADVISED: the design is not final and you should not yet order boards from these files. They will be ready in a few weeks.&lt;/p&gt; &#xA;&lt;p&gt;Our dream is that you will fab your own boards, make changes, and share your work - giving this design life beyond our efforts.&lt;/p&gt; &#xA;&lt;p&gt;Designed by Taylor Alexander for Twisted Fields, for the Acorn Precision Farming Rover.&lt;/p&gt; &#xA;&lt;p&gt;Many thanks to &lt;a href=&#34;https://www.twistedfields.com/blog&#34;&gt;Daniel Theobald&lt;/a&gt;. Without your financial support and encouragement this project would not have been possible.&lt;/p&gt; &#xA;&lt;p&gt;Thanks to all of our supporters on Open Collective. Your contributions are helping grow this project in to a sustainable open source organization.&lt;/p&gt; &#xA;&lt;p&gt;You can support this project yourself at our &lt;a href=&#34;https://opencollective.com/twisted-fields-research-collective&#34;&gt;Open Collective Page&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;To learn more about Acorn, please see our &lt;a href=&#34;https://community.twistedfields.com/t/introducing-acorn-a-precision-farming-rover-from-twisted-fields/&#34;&gt;announcement blog post&lt;/a&gt;. Or see a more recent &lt;a href=&#34;https://community.twistedfields.com/t/march-2022-update-simulation-brakes-funding-and-navigation-improvements/202&#34;&gt;technical update here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Twisted-Fields/rp2040-motor-controller/main/docs/render.jpg&#34; alt=&#34;A render of the PCB&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/Twisted-Fields/rp2040-motor-controller/main/docs/pcb.png&#34; alt=&#34;A screenshot of the PCB Layout&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>
