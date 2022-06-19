@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub XSLT Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:26:26Z</updated>
+  <subtitle>Weekly Trending of XSLT in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>boostorg/docca</title>
+    <updated>2022-06-19T02:26:26Z</updated>
+    <id>tag:github.com,2022-06-19:/boostorg/docca</id>
+    <link href="https://github.com/boostorg/docca" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boost.Book XSLT C++ documentation system&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docca&lt;/h1&gt; &#xA;&lt;p&gt;Docca is a set of XSLT transformations which converts Doxygen XML extracted from Javadoc comments in C++ source code, into Boost.Quickbook output&lt;/p&gt; &#xA;&lt;p&gt;These scripts are used by &lt;a href=&#34;https://github.com/boostorg/beast/&#34;&gt;Boost.Beast&lt;/a&gt; to generate the reference. For example, this &lt;a href=&#34;https://github.com/boostorg/beast/raw/b7230f12f16fe7a9f7a1ece5be1f607c8552448a/include/boost/beast/core/buffers_cat.hpp#L68%5D&#34;&gt;Javadoc comment&lt;/a&gt; is extracted by Doxygen into an intermediate XML representation, then processed by the XSLT script via Saxon-HE to produce this &lt;a href=&#34;https://www.boost.org/doc/libs/1_71_0/libs/beast/doc/html/beast/ref/boost__beast__buffers_cat.html&#34;&gt;Boost.Quickbook page&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;The following Doxygen configuration settings must be set as indicated:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;DISTRIBUTE_GROUP_DOC = YES&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Distributed under the Boost Software License, Version 1.0. (See accompanying file &lt;a href=&#34;https://raw.githubusercontent.com/boostorg/docca/develop/LICENSE_1_0.txt&#34;&gt;LICENSE_1_0.txt&lt;/a&gt; or copy at &lt;a href=&#34;https://www.boost.org/LICENSE_1_0.txt&#34;&gt;https://www.boost.org/LICENSE_1_0.txt&lt;/a&gt;)&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>httpwg/http-core</title>
+    <updated>2022-06-19T02:26:26Z</updated>
+    <id>tag:github.com,2022-06-19:/httpwg/http-core</id>
+    <link href="https://github.com/httpwg/http-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core HTTP Specifications&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;HTTP Core Documents&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/httpwg/http-core/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is the working area for the &lt;a href=&#34;https://httpwg.org/&#34;&gt;IETF HTTP Working Group&lt;/a&gt;&#39;s documents that define the HTTP protocol. See also our &lt;a href=&#34;https://github.com/httpwg/http-extensions/&#34;&gt;extensions repository&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Pull requests and issues are welcome. See &lt;a href=&#34;https://raw.githubusercontent.com/httpwg/http-core/main/CONTRIBUTING.md&#34;&gt;our contribution guidelines&lt;/a&gt; for information about how to participate. The &lt;a href=&#34;https://raw.githubusercontent.com/httpwg/http-core/main/BUILDING.txt&#34;&gt;building instructions&lt;/a&gt; explain how to build the drafts from source -- but please only create PRs against the XML (i.e., do not update the HTML).&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Be aware that all contributions to our work fall under the &#34;NOTE WELL&#34; terms therein.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Status&lt;/h3&gt; &#xA;&lt;p&gt;The HTTP &#34;core&#34; documents have been published; see the &lt;a href=&#34;https://httpwg.org/specs/&#34;&gt;specification listing&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>boostorg/boostbook</title>
+    <updated>2022-06-19T02:26:26Z</updated>
+    <id>tag:github.com,2022-06-19:/boostorg/boostbook</id>
+    <link href="https://github.com/boostorg/boostbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boost.org boostbook module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

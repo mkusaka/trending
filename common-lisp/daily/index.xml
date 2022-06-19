@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:35:33Z</updated>
+  <updated>2022-06-19T01:37:02Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kaveh808/kons-9</title>
-    <updated>2022-06-18T01:35:33Z</updated>
-    <id>tag:github.com,2022-06-18:/kaveh808/kons-9</id>
-    <link href="https://github.com/kaveh808/kons-9" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common Lisp 3D graphics code&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;kons-9&lt;/h1&gt; &#xA;&lt;p&gt;Common Lisp 3D graphics code&lt;/p&gt; &#xA;&lt;p&gt;This code is definitely not ready for primetime. It is very much a work in progress and a playground for my ideas.&lt;/p&gt; &#xA;&lt;p&gt;More info about the thoughts behind this project at my blog:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://kaveh808.medium.com&#34;&gt;https://kaveh808.medium.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;There is no documentation beyond this file.&lt;/p&gt; &#xA;&lt;p&gt;If you&#39;re brave enough, change the pathnames in main.lisp and eval the buffer.&lt;/p&gt; &#xA;&lt;p&gt;You should see a graphics window appear (only tested on CCL and MacOS).&lt;/p&gt; &#xA;&lt;p&gt;Type &#39;h&#39; in the window to see the available key bindings.&lt;/p&gt; &#xA;&lt;p&gt;Open demo.lisp and start evaluating the blocks of code. Things should appear in the graphics window.&lt;/p&gt; &#xA;&lt;p&gt;Have fun.&lt;/p&gt; &#xA;&lt;p&gt;TODO: many many things, including...&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;ASDF or other package system&lt;/li&gt; &#xA; &lt;li&gt;documentation&lt;/li&gt; &#xA; &lt;li&gt;GUI -- OpenGL, Web, or other?&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

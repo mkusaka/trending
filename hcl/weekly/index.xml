@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:10:35Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terraform-google-modules/terraform-google-network</title>
+    <updated>2022-06-19T02:10:35Z</updated>
+    <id>tag:github.com,2022-06-19:/terraform-google-modules/terraform-google-network</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform module that makes it easy to set up a new VPC Network in GCP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-lambda</title>
+    <updated>2022-06-19T02:10:35Z</updated>
+    <id>tag:github.com,2022-06-19:/terraform-aws-modules/terraform-aws-lambda</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-iam</title>
+    <updated>2022-06-19T02:10:35Z</updated>
+    <id>tag:github.com,2022-06-19:/terraform-aws-modules/terraform-aws-iam</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-iam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates IAM resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

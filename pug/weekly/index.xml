@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pug Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:19:01Z</updated>
+  <subtitle>Weekly Trending of Pug in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/actions-workflow-samples</title>
+    <updated>2022-06-19T02:19:01Z</updated>
+    <id>tag:github.com,2022-06-19:/Azure/actions-workflow-samples</id>
+    <link href="https://github.com/Azure/actions-workflow-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Help developers to easily get started with GitHub Action workflows to deploy to Azure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>StartBootstrap/startbootstrap-creative</title>
+    <updated>2022-06-19T02:19:01Z</updated>
+    <id>tag:github.com,2022-06-19:/StartBootstrap/startbootstrap-creative</id>
+    <link href="https://github.com/StartBootstrap/startbootstrap-creative" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A one page HTML theme for creatives by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>StartBootstrap/startbootstrap-resume</title>
+    <updated>2022-06-19T02:19:01Z</updated>
+    <id>tag:github.com,2022-06-19:/StartBootstrap/startbootstrap-resume</id>
+    <link href="https://github.com/StartBootstrap/startbootstrap-resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Bootstrap 4 resume/CV theme created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

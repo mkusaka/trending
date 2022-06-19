@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:55:38Z</updated>
+  <updated>2022-06-19T01:57:17Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>enjoy-digital/litepcie</title>
-    <updated>2022-06-18T01:55:38Z</updated>
-    <id>tag:github.com,2022-06-18:/enjoy-digital/litepcie</id>
-    <link href="https://github.com/enjoy-digital/litepcie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Small footprint and configurable PCIe core&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cornell-ece5745/ece5745-tapeout</title>
-    <updated>2022-06-18T01:55:38Z</updated>
-    <id>tag:github.com,2022-06-18:/cornell-ece5745/ece5745-tapeout</id>
-    <link href="https://github.com/cornell-ece5745/ece5745-tapeout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>litex-hub/pythondata-cpu-vexriscv_smp</title>
-    <updated>2022-06-18T01:55:38Z</updated>
-    <id>tag:github.com,2022-06-18:/litex-hub/pythondata-cpu-vexriscv_smp</id>
-    <link href="https://github.com/litex-hub/pythondata-cpu-vexriscv_smp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python module containing verilog files for VexRiscv SMP CPU (for use with LiteX).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rick2047/OOCA</title>
+    <updated>2022-06-19T01:57:17Z</updated>
+    <id>tag:github.com,2022-06-19:/rick2047/OOCA</id>
+    <link href="https://github.com/rick2047/OOCA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Object Oriented Computer Architecture. Verilog code and test benches&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

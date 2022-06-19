@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:32:07Z</updated>
+  <updated>2022-06-19T01:33:15Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tinyspeck/glitch-avatars</title>
-    <updated>2022-06-18T01:32:07Z</updated>
-    <id>tag:github.com,2022-06-18:/tinyspeck/glitch-avatars</id>
-    <link href="https://github.com/tinyspeck/glitch-avatars" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Art and source for Glitch&#39;s customizable avatars&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alumican/alumican.as</title>
-    <updated>2022-06-18T01:32:07Z</updated>
-    <id>tag:github.com,2022-06-18:/alumican/alumican.as</id>
-    <link href="https://github.com/alumican/alumican.as" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My private ActionScript libs, PixelBender, and so on.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tinyspeck/glitch-client</title>
-    <updated>2022-06-18T01:32:07Z</updated>
-    <id>tag:github.com,2022-06-18:/tinyspeck/glitch-client</id>
-    <link href="https://github.com/tinyspeck/glitch-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source for the Flash-based Glitch client&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:49:38Z</updated>
+  <updated>2022-06-19T01:51:36Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>digitalist-se/puppet-apache</title>
-    <updated>2022-06-18T01:49:38Z</updated>
-    <id>tag:github.com,2022-06-18:/digitalist-se/puppet-apache</id>
-    <link href="https://github.com/digitalist-se/puppet-apache" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache puppet module&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wollviech/puppet-logrotate</title>
+    <updated>2022-06-19T01:51:36Z</updated>
+    <id>tag:github.com,2022-06-19:/wollviech/puppet-logrotate</id>
+    <link href="https://github.com/wollviech/puppet-logrotate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, stupid module for Logrotate&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>digitalist-se/puppet-systools</title>
-    <updated>2022-06-18T01:49:38Z</updated>
-    <id>tag:github.com,2022-06-18:/digitalist-se/puppet-systools</id>
-    <link href="https://github.com/digitalist-se/puppet-systools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet systools module&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>puppetlabs-toy-chest/puppetlabs-debbuilder</title>
+    <updated>2022-06-19T01:51:36Z</updated>
+    <id>tag:github.com,2022-06-19:/puppetlabs-toy-chest/puppetlabs-debbuilder</id>
+    <link href="https://github.com/puppetlabs-toy-chest/puppetlabs-debbuilder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Module to build a debian package builder&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blade Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:03:18Z</updated>
+  <subtitle>Weekly Trending of Blade in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shopperlabs/framework</title>
+    <updated>2022-06-19T02:03:18Z</updated>
+    <id>tag:github.com,2022-06-19:/shopperlabs/framework</id>
+    <link href="https://github.com/shopperlabs/framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An eCommerce administration built with Laravel to create and manage online shop with multi-vendor.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hrshadhin/school-management-system</title>
+    <updated>2022-06-19T02:03:18Z</updated>
+    <id>tag:github.com,2022-06-19:/hrshadhin/school-management-system</id>
+    <link href="https://github.com/hrshadhin/school-management-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Another School Management System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

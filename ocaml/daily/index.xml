@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:47:21Z</updated>
+  <updated>2022-06-19T01:49:19Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>davidsan/ocaml-othello</title>
-    <updated>2022-06-18T01:47:21Z</updated>
-    <id>tag:github.com,2022-06-18:/davidsan/ocaml-othello</id>
-    <link href="https://github.com/davidsan/ocaml-othello" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Othello game (OCaml)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adrieng/melitte</title>
+    <updated>2022-06-19T01:49:19Z</updated>
+    <id>tag:github.com,2022-06-19:/adrieng/melitte</id>
+    <link href="https://github.com/adrieng/melitte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toy implementation of Martin-Löf Type Theory&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>realworldocaml/book</title>
+    <updated>2022-06-19T01:49:19Z</updated>
+    <id>tag:github.com,2022-06-19:/realworldocaml/book</id>
+    <link href="https://github.com/realworldocaml/book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;V2 of Real World OCaml&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

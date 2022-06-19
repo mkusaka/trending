@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:38:16Z</updated>
+  <updated>2022-06-19T01:40:11Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emqx/emqttb</title>
-    <updated>2022-06-18T01:38:16Z</updated>
-    <id>tag:github.com,2022-06-18:/emqx/emqttb</id>
-    <link href="https://github.com/emqx/emqttb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A scriptable load generator for MQTT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lpgauth/swirl</title>
+    <updated>2022-06-19T01:40:11Z</updated>
+    <id>tag:github.com,2022-06-19:/lpgauth/swirl</id>
+    <link href="https://github.com/lpgauth/swirl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High-Performance Erlang Stream Processor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kbarber/erlang-mdigraph</title>
-    <updated>2022-06-18T01:38:16Z</updated>
-    <id>tag:github.com,2022-06-18:/kbarber/erlang-mdigraph</id>
-    <link href="https://github.com/kbarber/erlang-mdigraph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang Digraph library that uses mnesia as a backend&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>satyamshekhar/lager_email_backend</title>
-    <updated>2022-06-18T01:38:16Z</updated>
-    <id>tag:github.com,2022-06-18:/satyamshekhar/lager_email_backend</id>
-    <link href="https://github.com/satyamshekhar/lager_email_backend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Email Backend for lager.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AntidoteDB/antidote</title>
+    <updated>2022-06-19T01:40:11Z</updated>
+    <id>tag:github.com,2022-06-19:/AntidoteDB/antidote</id>
+    <link href="https://github.com/AntidoteDB/antidote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A planet scale, highly available, transactional database built on CRDT technology&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

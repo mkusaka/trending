@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LLVM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:44:08Z</updated>
+  <updated>2022-06-19T01:46:05Z</updated>
   <subtitle>Daily Trending of LLVM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bluesadi/Pluto-Obfuscator</title>
+    <updated>2022-06-19T01:46:05Z</updated>
+    <id>tag:github.com,2022-06-19:/bluesadi/Pluto-Obfuscator</id>
+    <link href="https://github.com/bluesadi/Pluto-Obfuscator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Obfuscator based on LLVM 12.0.1&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

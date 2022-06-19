@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:33:28Z</updated>
+  <updated>2022-06-19T01:34:41Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MuhamadMtrosymuhamad/RDP-FREE-2022</title>
-    <updated>2022-06-18T01:33:28Z</updated>
-    <id>tag:github.com,2022-06-18:/MuhamadMtrosymuhamad/RDP-FREE-2022</id>
-    <link href="https://github.com/MuhamadMtrosymuhamad/RDP-FREE-2022" rel="alternate"></link>
+    <title>nadun0409/FreeRDP</title>
+    <updated>2022-06-19T01:34:41Z</updated>
+    <id>tag:github.com,2022-06-19:/nadun0409/FreeRDP</id>
+    <link href="https://github.com/nadun0409/FreeRDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>crazywifi/RDP_SessionHijacking</title>
-    <updated>2022-06-18T01:33:28Z</updated>
-    <id>tag:github.com,2022-06-18:/crazywifi/RDP_SessionHijacking</id>
-    <link href="https://github.com/crazywifi/RDP_SessionHijacking" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Passwordless RDP Session Hijacking&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pal1000/Realtek-UAD-generic</title>
+    <updated>2022-06-19T01:34:41Z</updated>
+    <id>tag:github.com,2022-06-19:/pal1000/Realtek-UAD-generic</id>
+    <link href="https://github.com/pal1000/Realtek-UAD-generic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An unofficial package of generic Realtek Universal Audio Driver made from parts of various OEM specific Reatek Universal Audio drivers intended to work on legacy systems lacking OEM UAD support.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abbodi1406/BatUtil</title>
-    <updated>2022-06-18T01:33:28Z</updated>
-    <id>tag:github.com,2022-06-18:/abbodi1406/BatUtil</id>
-    <link href="https://github.com/abbodi1406/BatUtil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of batch scripts utilities for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wildan444/TechToBangla</title>
+    <updated>2022-06-19T01:34:41Z</updated>
+    <id>tag:github.com,2022-06-19:/wildan444/TechToBangla</id>
+    <link href="https://github.com/wildan444/TechToBangla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

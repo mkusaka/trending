@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:32:59Z</updated>
+  <updated>2022-06-19T01:34:16Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CMPT-295-SFU/RISCV-Lab-6</title>
-    <updated>2022-06-18T01:32:59Z</updated>
-    <id>tag:github.com,2022-06-18:/CMPT-295-SFU/RISCV-Lab-6</id>
-    <link href="https://github.com/CMPT-295-SFU/RISCV-Lab-6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RISC V Lab 6&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Havoc-OS/android_bionic</title>
-    <updated>2022-06-18T01:32:59Z</updated>
-    <id>tag:github.com,2022-06-18:/Havoc-OS/android_bionic</id>
-    <link href="https://github.com/Havoc-OS/android_bionic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ztreble/build-a-cpu</title>
-    <updated>2022-06-18T01:32:59Z</updated>
-    <id>tag:github.com,2022-06-18:/ztreble/build-a-cpu</id>
-    <link href="https://github.com/ztreble/build-a-cpu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;使用logisim搭建mips cpu&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dspinellis/unix-history-repo</title>
+    <updated>2022-06-19T01:34:16Z</updated>
+    <id>tag:github.com,2022-06-19:/dspinellis/unix-history-repo</id>
+    <link href="https://github.com/dspinellis/unix-history-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Continuous Unix commit history from 1970 until today&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

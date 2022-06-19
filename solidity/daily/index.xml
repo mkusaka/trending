@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:52:55Z</updated>
+  <updated>2022-06-19T01:54:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yuichiroaoki/poly-flash</title>
-    <updated>2022-06-18T01:52:55Z</updated>
-    <id>tag:github.com,2022-06-18:/yuichiroaoki/poly-flash</id>
-    <link href="https://github.com/yuichiroaoki/poly-flash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flashloan on Polygon&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MrToph/replaying-ethereum-hacks</title>
-    <updated>2022-06-18T01:52:55Z</updated>
-    <id>tag:github.com,2022-06-18:/MrToph/replaying-ethereum-hacks</id>
-    <link href="https://github.com/MrToph/replaying-ethereum-hacks" rel="alternate"></link>
+    <title>muslimtagizade/Metatradefinance</title>
+    <updated>2022-06-19T01:54:44Z</updated>
+    <id>tag:github.com,2022-06-19:/muslimtagizade/Metatradefinance</id>
+    <link href="https://github.com/muslimtagizade/Metatradefinance" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>1inch/1inchProtocol</title>
-    <updated>2022-06-18T01:52:55Z</updated>
-    <id>tag:github.com,2022-06-18:/1inch/1inchProtocol</id>
-    <link href="https://github.com/1inch/1inchProtocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;1inch Protocol – fully on-chain DeFi aggregation protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cryptocoders-wtf/pride-contract</title>
+    <updated>2022-06-19T01:54:44Z</updated>
+    <id>tag:github.com,2022-06-19:/Cryptocoders-wtf/pride-contract</id>
+    <link href="https://github.com/Cryptocoders-wtf/pride-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pickle-finance/protocol</title>
+    <updated>2022-06-19T01:54:44Z</updated>
+    <id>tag:github.com,2022-06-19:/pickle-finance/protocol</id>
+    <link href="https://github.com/pickle-finance/protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pickle Protocols&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

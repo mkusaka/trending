@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nunjucks Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:16:20Z</updated>
+  <subtitle>Weekly Trending of Nunjucks in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>soyHenry/Math4Data</title>
+    <updated>2022-06-19T02:16:20Z</updated>
+    <id>tag:github.com,2022-06-19:/soyHenry/Math4Data</id>
+    <link href="https://github.com/soyHenry/Math4Data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GoogleChromeLabs/quicklink</title>
+    <updated>2022-06-19T02:16:20Z</updated>
+    <id>tag:github.com,2022-06-19:/GoogleChromeLabs/quicklink</id>
+    <link href="https://github.com/GoogleChromeLabs/quicklink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

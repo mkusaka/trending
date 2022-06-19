@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:20:46Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tauri-apps/tauri</title>
+    <updated>2022-06-19T02:20:46Z</updated>
+    <id>tag:github.com,2022-06-19:/tauri-apps/tauri</id>
+    <link href="https://github.com/tauri-apps/tauri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build smaller, faster, and more secure desktop applications with a web frontend.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>skerkour/black-hat-rust</title>
+    <updated>2022-06-19T02:20:46Z</updated>
+    <id>tag:github.com,2022-06-19:/skerkour/black-hat-rust</id>
+    <link href="https://github.com/skerkour/black-hat-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Applied offensive security with Rust - https://kerkour.com/black-hat-rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RustScan/RustScan</title>
+    <updated>2022-06-19T02:20:46Z</updated>
+    <id>tag:github.com,2022-06-19:/RustScan/RustScan</id>
+    <link href="https://github.com/RustScan/RustScan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 The Modern Port Scanner 🤖&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

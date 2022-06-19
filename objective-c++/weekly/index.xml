@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:16:27Z</updated>
+  <subtitle>Weekly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>facebook/componentkit</title>
+    <updated>2022-06-19T02:16:27Z</updated>
+    <id>tag:github.com,2022-06-19:/facebook/componentkit</id>
+    <link href="https://github.com/facebook/componentkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A React-inspired view framework for iOS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mapbox/mapbox-gl-native-ios</title>
+    <updated>2022-06-19T02:16:27Z</updated>
+    <id>tag:github.com,2022-06-19:/mapbox/mapbox-gl-native-ios</id>
+    <link href="https://github.com/mapbox/mapbox-gl-native-ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive, thoroughly customizable maps for iOS powered by vector tiles and OpenGL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mapbox/XcodeClangFormat</title>
+    <updated>2022-06-19T02:16:27Z</updated>
+    <id>tag:github.com,2022-06-19:/mapbox/XcodeClangFormat</id>
+    <link href="https://github.com/mapbox/XcodeClangFormat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Format code in Xcode 8+ with clang-format&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

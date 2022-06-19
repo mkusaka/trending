@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:25:25Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>beekeeper-studio/beekeeper-studio</title>
+    <updated>2022-06-19T02:25:25Z</updated>
+    <id>tag:github.com,2022-06-19:/beekeeper-studio/beekeeper-studio</id>
+    <link href="https://github.com/beekeeper-studio/beekeeper-studio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VueTubeApp/VueTube</title>
+    <updated>2022-06-19T02:25:25Z</updated>
+    <id>tag:github.com,2022-06-19:/VueTubeApp/VueTube</id>
+    <link href="https://github.com/VueTubeApp/VueTube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>inoutcode/ethereum_book</title>
+    <updated>2022-06-19T02:25:25Z</updated>
+    <id>tag:github.com,2022-06-19:/inoutcode/ethereum_book</id>
+    <link href="https://github.com/inoutcode/ethereum_book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;精通以太坊 （中文版）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

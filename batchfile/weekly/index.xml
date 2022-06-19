@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:03:04Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MuhamadMtrosymuhamad/RDP-FREE-WINDOWS</title>
+    <updated>2022-06-19T02:03:04Z</updated>
+    <id>tag:github.com,2022-06-19:/MuhamadMtrosymuhamad/RDP-FREE-WINDOWS</id>
+    <link href="https://github.com/MuhamadMtrosymuhamad/RDP-FREE-WINDOWS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MuhamadMtrosymuhamad/RDP_FREE-2022</title>
+    <updated>2022-06-19T02:03:04Z</updated>
+    <id>tag:github.com,2022-06-19:/MuhamadMtrosymuhamad/RDP_FREE-2022</id>
+    <link href="https://github.com/MuhamadMtrosymuhamad/RDP_FREE-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xinggsf/Adblock-Plus-Rule</title>
+    <updated>2022-06-19T02:03:04Z</updated>
+    <id>tag:github.com,2022-06-19:/xinggsf/Adblock-Plus-Rule</id>
+    <link href="https://github.com/xinggsf/Adblock-Plus-Rule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;uBlock Origin 乘风广告过滤规则&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

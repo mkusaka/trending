@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:24:09Z</updated>
+  <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TdP-esami/2020-06-03-simulazione</title>
+    <updated>2022-06-19T02:24:09Z</updated>
+    <id>tag:github.com,2022-06-19:/TdP-esami/2020-06-03-simulazione</id>
+    <link href="https://github.com/TdP-esami/2020-06-03-simulazione" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simulazione d&#39;esame del 3/06/2020 (PremierLeague, ricorsione)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CodeYourFuture/syllabus-archive</title>
+    <updated>2022-06-19T02:24:09Z</updated>
+    <id>tag:github.com,2022-06-19:/CodeYourFuture/syllabus-archive</id>
+    <link href="https://github.com/CodeYourFuture/syllabus-archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[ARCHIVED] Please use https://github.com/CodeYourFuture/syllabus&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TdP-esami/2019-09-03-JDK11</title>
+    <updated>2022-06-19T02:24:09Z</updated>
+    <id>tag:github.com,2022-06-19:/TdP-esami/2019-09-03-JDK11</id>
+    <link href="https://github.com/TdP-esami/2019-09-03-JDK11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Versione aggiornata a JDK11 del tema d&#39;esame 2019-09-03&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:07:32Z</updated>
+  <subtitle>Weekly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KubeDev/kube-news</title>
+    <updated>2022-06-19T02:07:32Z</updated>
+    <id>tag:github.com,2022-06-19:/KubeDev/kube-news</id>
+    <link href="https://github.com/KubeDev/kube-news" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>keikaavousi/fake-store-api</title>
+    <updated>2022-06-19T02:07:32Z</updated>
+    <id>tag:github.com,2022-06-19:/keikaavousi/fake-store-api</id>
+    <link href="https://github.com/keikaavousi/fake-store-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mapbox/mbview</title>
+    <updated>2022-06-19T02:07:32Z</updated>
+    <id>tag:github.com,2022-06-19:/mapbox/mbview</id>
+    <link href="https://github.com/mapbox/mbview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;View mbtiles locally&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

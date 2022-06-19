@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:40:57Z</updated>
+  <updated>2022-06-19T01:42:51Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stacksimplify/terraform-on-aws-eks</title>
-    <updated>2022-06-18T01:40:57Z</updated>
-    <id>tag:github.com,2022-06-18:/stacksimplify/terraform-on-aws-eks</id>
-    <link href="https://github.com/stacksimplify/terraform-on-aws-eks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nsbno/terraform-aws-central-cognito</title>
+    <updated>2022-06-19T01:42:51Z</updated>
+    <id>tag:github.com,2022-06-19:/nsbno/terraform-aws-central-cognito</id>
+    <link href="https://github.com/nsbno/terraform-aws-central-cognito" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Set up an app client with central cognito&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Azure/terraform-azurerm-aks</title>
-    <updated>2022-06-18T01:40:57Z</updated>
-    <id>tag:github.com,2022-06-18:/Azure/terraform-azurerm-aks</id>
-    <link href="https://github.com/Azure/terraform-azurerm-aks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module for deploying an AKS cluster&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-cloudfront-s3-cdn</title>
+    <updated>2022-06-19T01:42:51Z</updated>
+    <id>tag:github.com,2022-06-19:/cloudposse/terraform-aws-cloudfront-s3-cdn</id>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to easily provision CloudFront CDN backed by an S3 origin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-cloudwatch</title>
-    <updated>2022-06-18T01:40:57Z</updated>
-    <id>tag:github.com,2022-06-18:/terraform-aws-modules/terraform-aws-cloudwatch</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-cloudwatch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates Cloudwatch resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grem11n/terraform-aws-vpc-peering</title>
+    <updated>2022-06-19T01:42:51Z</updated>
+    <id>tag:github.com,2022-06-19:/grem11n/terraform-aws-vpc-peering</id>
+    <link href="https://github.com/grem11n/terraform-aws-vpc-peering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to setup VPC peering connection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

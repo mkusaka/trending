@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:37:47Z</updated>
+  <updated>2022-06-19T01:39:40Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thehaigo/live_onnx</title>
-    <updated>2022-06-18T01:37:47Z</updated>
-    <id>tag:github.com,2022-06-18:/thehaigo/live_onnx</id>
-    <link href="https://github.com/thehaigo/live_onnx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ML application sample with LiveView and Axon&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quantum-elixir/quantum-core</title>
+    <updated>2022-06-19T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-19:/quantum-elixir/quantum-core</id>
+    <link href="https://github.com/quantum-elixir/quantum-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⌚ Cron-like job scheduler for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>akira/exq</title>
-    <updated>2022-06-18T01:37:47Z</updated>
-    <id>tag:github.com,2022-06-18:/akira/exq</id>
-    <link href="https://github.com/akira/exq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Job processing library for Elixir - compatible with Resque / Sidekiq&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bet01/bettelemetry</title>
+    <updated>2022-06-19T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-19:/bet01/bettelemetry</id>
+    <link href="https://github.com/bet01/bettelemetry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vic/params</title>
+    <updated>2022-06-19T01:39:40Z</updated>
+    <id>tag:github.com,2022-06-19:/vic/params</id>
+    <link href="https://github.com/vic/params" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easy parameters validation/casting with Ecto.Schema, akin to Rails&#39; strong parameters.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

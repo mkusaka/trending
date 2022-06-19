@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:42:45Z</updated>
+  <updated>2022-06-19T01:44:38Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaIO/BufferedStreams.jl</title>
-    <updated>2022-06-18T01:42:45Z</updated>
-    <id>tag:github.com,2022-06-18:/JuliaIO/BufferedStreams.jl</id>
-    <link href="https://github.com/JuliaIO/BufferedStreams.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast composable IO streams&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cjdoris/PythonCall.jl</title>
+    <updated>2022-06-19T01:44:38Z</updated>
+    <id>tag:github.com,2022-06-19:/cjdoris/PythonCall.jl</id>
+    <link href="https://github.com/cjdoris/PythonCall.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python and Julia in harmony.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BenLauwens/ResumableFunctions.jl</title>
-    <updated>2022-06-18T01:42:45Z</updated>
-    <id>tag:github.com,2022-06-18:/BenLauwens/ResumableFunctions.jl</id>
-    <link href="https://github.com/BenLauwens/ResumableFunctions.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C# style generators a.k.a. semi-coroutines for Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaIO/HDF5.jl</title>
+    <updated>2022-06-19T01:44:38Z</updated>
+    <id>tag:github.com,2022-06-19:/JuliaIO/HDF5.jl</id>
+    <link href="https://github.com/JuliaIO/HDF5.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Save and load data in the HDF5 file format from Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>qojulia/QuantumOptics.jl</title>
-    <updated>2022-06-18T01:42:45Z</updated>
-    <id>tag:github.com,2022-06-18:/qojulia/QuantumOptics.jl</id>
-    <link href="https://github.com/qojulia/QuantumOptics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for the numerical simulation of closed as well as open quantum systems.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLang/Compat.jl</title>
+    <updated>2022-06-19T01:44:38Z</updated>
+    <id>tag:github.com,2022-06-19:/JuliaLang/Compat.jl</id>
+    <link href="https://github.com/JuliaLang/Compat.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compatibility across Julia versions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

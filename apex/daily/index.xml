@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:32:38Z</updated>
+  <updated>2022-06-19T01:33:50Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>github2017luo/Superbadge-Apex-Specialist</title>
-    <updated>2022-06-18T01:32:38Z</updated>
-    <id>tag:github.com,2022-06-18:/github2017luo/Superbadge-Apex-Specialist</id>
-    <link href="https://github.com/github2017luo/Superbadge-Apex-Specialist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#39;Apex Specialist&#39; is one of the superbadges of Salesforce trailhead(A New Approach to Learning Salesforce). This repository is for solving all the problems in the way of earning this superbadge.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

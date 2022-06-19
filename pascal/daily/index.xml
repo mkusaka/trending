@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:48:07Z</updated>
+  <updated>2022-06-19T01:50:05Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>antoniojmsjr/FastReportExport</title>
-    <updated>2022-06-18T01:48:07Z</updated>
-    <id>tag:github.com,2022-06-18:/antoniojmsjr/FastReportExport</id>
-    <link href="https://github.com/antoniojmsjr/FastReportExport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Biblioteca de exportação de relatórios utilizando Fast Report em ambientes multithreading.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

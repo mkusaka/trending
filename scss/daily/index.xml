@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:51:50Z</updated>
+  <updated>2022-06-19T01:53:47Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BraveUX/for-the-badge</title>
-    <updated>2022-06-18T01:51:50Z</updated>
-    <id>tag:github.com,2022-06-18:/BraveUX/for-the-badge</id>
-    <link href="https://github.com/BraveUX/for-the-badge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Badges for badges&#39; sake.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hexlet/hexletguides.github.io</title>
+    <updated>2022-06-19T01:53:47Z</updated>
+    <id>tag:github.com,2022-06-19:/Hexlet/hexletguides.github.io</id>
+    <link href="https://github.com/Hexlet/hexletguides.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hexlet Guides&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>uswds/uswds</title>
-    <updated>2022-06-18T01:51:50Z</updated>
-    <id>tag:github.com,2022-06-18:/uswds/uswds</id>
-    <link href="https://github.com/uswds/uswds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The U.S. Web Design System helps the federal government build fast, accessible, mobile-friendly websites.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hug-sun/element3</title>
+    <updated>2022-06-19T01:53:47Z</updated>
+    <id>tag:github.com,2022-06-19:/hug-sun/element3</id>
+    <link href="https://github.com/hug-sun/element3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vue.js 3.0 UI Toolkit for Web. Build with Javascript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hmobius/hmobius.github.com</title>
-    <updated>2022-06-18T01:51:50Z</updated>
-    <id>tag:github.com,2022-06-18:/hmobius/hmobius.github.com</id>
-    <link href="https://github.com/hmobius/hmobius.github.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Homesite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/netbeans-website</title>
+    <updated>2022-06-19T01:53:47Z</updated>
+    <id>tag:github.com,2022-06-19:/apache/netbeans-website</id>
+    <link href="https://github.com/apache/netbeans-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache NetBeans Website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

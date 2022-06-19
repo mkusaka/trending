@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:31:41Z</updated>
+  <updated>2022-06-19T01:32:48Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>christophercalm/if-im-gone</title>
-    <updated>2022-06-18T01:31:41Z</updated>
-    <id>tag:github.com,2022-06-18:/christophercalm/if-im-gone</id>
-    <link href="https://github.com/christophercalm/if-im-gone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cheat sheet for if I am somehow incapacitated.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cmhungsteve/Awesome-Transformer-Attention</title>
+    <updated>2022-06-19T01:32:48Z</updated>
+    <id>tag:github.com,2022-06-19:/cmhungsteve/Awesome-Transformer-Attention</id>
+    <link href="https://github.com/cmhungsteve/Awesome-Transformer-Attention" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AvillaDaniel/AvillaForensics</title>
-    <updated>2022-06-18T01:31:41Z</updated>
-    <id>tag:github.com,2022-06-18:/AvillaDaniel/AvillaForensics</id>
-    <link href="https://github.com/AvillaDaniel/AvillaForensics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Avilla Forensics 3.0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mli/paper-reading</title>
+    <updated>2022-06-19T01:32:48Z</updated>
+    <id>tag:github.com,2022-06-19:/mli/paper-reading</id>
+    <link href="https://github.com/mli/paper-reading" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;深度学习经典、新论文逐段精读&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dair-ai/Mathematics-for-ML</title>
-    <updated>2022-06-18T01:31:41Z</updated>
-    <id>tag:github.com,2022-06-18:/dair-ai/Mathematics-for-ML</id>
-    <link href="https://github.com/dair-ai/Mathematics-for-ML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧮 A collection of resources to learn mathematics for machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FundamentalFrequency/LMN-3-Build-Guide</title>
+    <updated>2022-06-19T01:32:48Z</updated>
+    <id>tag:github.com,2022-06-19:/FundamentalFrequency/LMN-3-Build-Guide</id>
+    <link href="https://github.com/FundamentalFrequency/LMN-3-Build-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build guide for the LMN-3 project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

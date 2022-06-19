@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vala Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:24:53Z</updated>
+  <subtitle>Weekly Trending of Vala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alainm23/planner</title>
+    <updated>2022-06-19T02:24:53Z</updated>
+    <id>tag:github.com,2022-06-19:/alainm23/planner</id>
+    <link href="https://github.com/alainm23/planner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Task manager with Todoist support designed for GNU/Linux 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BuddiesOfBudgie/budgie-desktop</title>
+    <updated>2022-06-19T02:24:53Z</updated>
+    <id>tag:github.com,2022-06-19:/BuddiesOfBudgie/budgie-desktop</id>
+    <link href="https://github.com/BuddiesOfBudgie/budgie-desktop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Budgie Desktop is a familiar, modern desktop environment.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

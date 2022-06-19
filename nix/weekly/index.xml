@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:16:05Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nix-community/NixOS-WSL</title>
+    <updated>2022-06-19T02:16:05Z</updated>
+    <id>tag:github.com,2022-06-19:/nix-community/NixOS-WSL</id>
+    <link href="https://github.com/nix-community/NixOS-WSL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS on WSL(2) [maintainer=@nzbr]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BentonEdmondson/knock</title>
+    <updated>2022-06-19T02:16:05Z</updated>
+    <id>tag:github.com,2022-06-19:/BentonEdmondson/knock</id>
+    <link href="https://github.com/BentonEdmondson/knock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert ACSM files to PDFs/EPUBs with one command on Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>supabase/benchmarks</title>
+    <updated>2022-06-19T02:16:05Z</updated>
+    <id>tag:github.com,2022-06-19:/supabase/benchmarks</id>
+    <link href="https://github.com/supabase/benchmarks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Infrastucture benchmarks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

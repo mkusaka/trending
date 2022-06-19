@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:10:18Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jenkinsci/pipeline-examples</title>
+    <updated>2022-06-19T02:10:18Z</updated>
+    <id>tag:github.com,2022-06-19:/jenkinsci/pipeline-examples</id>
+    <link href="https://github.com/jenkinsci/pipeline-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MithunTechnologiesDevOps/slacknotification-sharedlibs</title>
+    <updated>2022-06-19T02:10:18Z</updated>
+    <id>tag:github.com,2022-06-19:/MithunTechnologiesDevOps/slacknotification-sharedlibs</id>
+    <link href="https://github.com/MithunTechnologiesDevOps/slacknotification-sharedlibs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MithunTechnologiesDevOps/JenkinsSharedLibraries</title>
+    <updated>2022-06-19T02:10:18Z</updated>
+    <id>tag:github.com,2022-06-19:/MithunTechnologiesDevOps/JenkinsSharedLibraries</id>
+    <link href="https://github.com/MithunTechnologiesDevOps/JenkinsSharedLibraries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

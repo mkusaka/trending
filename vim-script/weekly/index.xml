@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-19T02:25:13Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>craftzdog/dotfiles-public</title>
+    <updated>2022-06-19T02:25:13Z</updated>
+    <id>tag:github.com,2022-06-19:/craftzdog/dotfiles-public</id>
+    <link href="https://github.com/craftzdog/dotfiles-public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SpaceVim/SpaceVim</title>
+    <updated>2022-06-19T02:25:13Z</updated>
+    <id>tag:github.com,2022-06-19:/SpaceVim/SpaceVim</id>
+    <link href="https://github.com/SpaceVim/SpaceVim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A community-driven modular vim/neovim distribution - The ultimate vimrc&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>morhetz/gruvbox</title>
+    <updated>2022-06-19T02:25:13Z</updated>
+    <id>tag:github.com,2022-06-19:/morhetz/gruvbox</id>
+    <link href="https://github.com/morhetz/gruvbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Retro groove color scheme for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

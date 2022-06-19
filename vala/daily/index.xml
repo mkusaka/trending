@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:55:29Z</updated>
+  <updated>2022-06-19T01:57:08Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JumpLink/simple-xml-reader-vala</title>
+    <updated>2022-06-19T01:57:08Z</updated>
+    <id>tag:github.com,2022-06-19:/JumpLink/simple-xml-reader-vala</id>
+    <link href="https://github.com/JumpLink/simple-xml-reader-vala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Very Simple XML Reader forked from valadoc&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>frida/frida-core</title>
+    <updated>2022-06-19T01:57:08Z</updated>
+    <id>tag:github.com,2022-06-19:/frida/frida-core</id>
+    <link href="https://github.com/frida/frida-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Frida core library intended for static linking into bindings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

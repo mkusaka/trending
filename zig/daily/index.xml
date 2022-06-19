@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-18T01:57:26Z</updated>
+  <updated>2022-06-19T01:59:00Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Vexu/arocc</title>
+    <updated>2022-06-19T01:59:00Z</updated>
+    <id>tag:github.com,2022-06-19:/Vexu/arocc</id>
+    <link href="https://github.com/Vexu/arocc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A C compiler written in Zig.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
