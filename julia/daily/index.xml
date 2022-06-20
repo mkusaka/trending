@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:44:38Z</updated>
+  <updated>2022-06-20T01:43:18Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cjdoris/PythonCall.jl</title>
-    <updated>2022-06-19T01:44:38Z</updated>
-    <id>tag:github.com,2022-06-19:/cjdoris/PythonCall.jl</id>
-    <link href="https://github.com/cjdoris/PythonCall.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python and Julia in harmony.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaInterop/Cxx.jl</title>
+    <updated>2022-06-20T01:43:18Z</updated>
+    <id>tag:github.com,2022-06-20:/JuliaInterop/Cxx.jl</id>
+    <link href="https://github.com/JuliaInterop/Cxx.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Julia C++ Interface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaIO/HDF5.jl</title>
-    <updated>2022-06-19T01:44:38Z</updated>
-    <id>tag:github.com,2022-06-19:/JuliaIO/HDF5.jl</id>
-    <link href="https://github.com/JuliaIO/HDF5.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Save and load data in the HDF5 file format from Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaLang/Compat.jl</title>
-    <updated>2022-06-19T01:44:38Z</updated>
-    <id>tag:github.com,2022-06-19:/JuliaLang/Compat.jl</id>
-    <link href="https://github.com/JuliaLang/Compat.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compatibility across Julia versions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaPOMDP/POMDPs.jl</title>
+    <updated>2022-06-20T01:43:18Z</updated>
+    <id>tag:github.com,2022-06-20:/JuliaPOMDP/POMDPs.jl</id>
+    <link href="https://github.com/JuliaPOMDP/POMDPs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MDPs and POMDPs in Julia - An interface for defining, solving, and simulating fully and partially observable Markov decision processes on discrete and continuous spaces.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

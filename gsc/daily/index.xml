@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GSC Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:42:21Z</updated>
+  <updated>2022-06-20T01:40:58Z</updated>
   <subtitle>Daily Trending of GSC in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>simonlfc/MONACO</title>
-    <updated>2022-06-19T01:42:21Z</updated>
-    <id>tag:github.com,2022-06-19:/simonlfc/MONACO</id>
-    <link href="https://github.com/simonlfc/MONACO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

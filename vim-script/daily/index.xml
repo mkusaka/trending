@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:57:27Z</updated>
+  <updated>2022-06-20T01:55:42Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>youngyangyang04/PowerVim</title>
-    <updated>2022-06-19T01:57:27Z</updated>
-    <id>tag:github.com,2022-06-19:/youngyangyang04/PowerVim</id>
-    <link href="https://github.com/youngyangyang04/PowerVim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Make your vim more power and much easer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shougo/dein.vim</title>
+    <updated>2022-06-20T01:55:42Z</updated>
+    <id>tag:github.com,2022-06-20:/Shougo/dein.vim</id>
+    <link href="https://github.com/Shougo/dein.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Dark powered Vim/Neovim plugin manager&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tpope/vim-speeddating</title>
-    <updated>2022-06-19T01:57:27Z</updated>
-    <id>tag:github.com,2022-06-19:/tpope/vim-speeddating</id>
-    <link href="https://github.com/tpope/vim-speeddating" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chrislgarry/dotfiles</title>
-    <updated>2022-06-19T01:57:27Z</updated>
-    <id>tag:github.com,2022-06-19:/chrislgarry/dotfiles</id>
-    <link href="https://github.com/chrislgarry/dotfiles" rel="alternate"></link>
+    <title>Havoc-OS/android_external_vim</title>
+    <updated>2022-06-20T01:55:42Z</updated>
+    <id>tag:github.com,2022-06-20:/Havoc-OS/android_external_vim</id>
+    <link href="https://github.com/Havoc-OS/android_external_vim" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

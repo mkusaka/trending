@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:53:17Z</updated>
+  <updated>2022-06-20T01:51:23Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tauri-apps/tao</title>
-    <updated>2022-06-19T01:53:17Z</updated>
-    <id>tag:github.com,2022-06-19:/tauri-apps/tao</id>
-    <link href="https://github.com/tauri-apps/tao" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The TAO of cross-platform windowing. A library in Rust built for Tauri.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jfecher/ante</title>
+    <updated>2022-06-20T01:51:23Z</updated>
+    <id>tag:github.com,2022-06-20:/jfecher/ante</id>
+    <link href="https://github.com/jfecher/ante" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A safe, easy systems language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>skerkour/black-hat-rust</title>
-    <updated>2022-06-19T01:53:17Z</updated>
-    <id>tag:github.com,2022-06-19:/skerkour/black-hat-rust</id>
-    <link href="https://github.com/skerkour/black-hat-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Applied offensive security with Rust - https://kerkour.com/black-hat-rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>readysettech/readyset</title>
+    <updated>2022-06-20T01:51:23Z</updated>
+    <id>tag:github.com,2022-06-20:/readysettech/readyset</id>
+    <link href="https://github.com/readysettech/readyset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ReadySet is a lightweight SQL caching engine that helps developers enhance the performance and scalability of existing applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>copy/v86</title>
-    <updated>2022-06-19T01:53:17Z</updated>
-    <id>tag:github.com,2022-06-19:/copy/v86</id>
-    <link href="https://github.com/copy/v86" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;x86 virtualization in your browser, recompiling x86 to wasm on the fly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sarsko/CreuSAT</title>
+    <updated>2022-06-20T01:51:23Z</updated>
+    <id>tag:github.com,2022-06-20:/sarsko/CreuSAT</id>
+    <link href="https://github.com/sarsko/CreuSAT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CreuSAT - A formally verified SAT solver written in Rust and verified with Creusot.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

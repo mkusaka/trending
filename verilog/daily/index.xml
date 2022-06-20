@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:57:17Z</updated>
+  <updated>2022-06-20T01:55:31Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rick2047/OOCA</title>
-    <updated>2022-06-19T01:57:17Z</updated>
-    <id>tag:github.com,2022-06-19:/rick2047/OOCA</id>
-    <link href="https://github.com/rick2047/OOCA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Object Oriented Computer Architecture. Verilog code and test benches&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

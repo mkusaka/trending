@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:32:48Z</updated>
+  <updated>2022-06-20T01:31:49Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cmhungsteve/Awesome-Transformer-Attention</title>
-    <updated>2022-06-19T01:32:48Z</updated>
-    <id>tag:github.com,2022-06-19:/cmhungsteve/Awesome-Transformer-Attention</id>
-    <link href="https://github.com/cmhungsteve/Awesome-Transformer-Attention" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>girliemac/a-picture-is-worth-a-1000-words</title>
+    <updated>2022-06-20T01:31:49Z</updated>
+    <id>tag:github.com,2022-06-20:/girliemac/a-picture-is-worth-a-1000-words</id>
+    <link href="https://github.com/girliemac/a-picture-is-worth-a-1000-words" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I am trying to describe complex matters in simple doodles!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mli/paper-reading</title>
-    <updated>2022-06-19T01:32:48Z</updated>
-    <id>tag:github.com,2022-06-19:/mli/paper-reading</id>
-    <link href="https://github.com/mli/paper-reading" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;深度学习经典、新论文逐段精读&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>The-Run-Philosophy-Organization/run</title>
+    <updated>2022-06-20T01:31:49Z</updated>
+    <id>tag:github.com,2022-06-20:/The-Run-Philosophy-Organization/run</id>
+    <link href="https://github.com/The-Run-Philosophy-Organization/run" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FundamentalFrequency/LMN-3-Build-Guide</title>
-    <updated>2022-06-19T01:32:48Z</updated>
-    <id>tag:github.com,2022-06-19:/FundamentalFrequency/LMN-3-Build-Guide</id>
-    <link href="https://github.com/FundamentalFrequency/LMN-3-Build-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build guide for the LMN-3 project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zeroruka/GI_Assets</title>
+    <updated>2022-06-20T01:31:49Z</updated>
+    <id>tag:github.com,2022-06-20:/zeroruka/GI_Assets</id>
+    <link href="https://github.com/zeroruka/GI_Assets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Character textures, models and skins for Genshin.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:36:45Z</updated>
+  <updated>2022-06-20T01:35:27Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ruslo/polly</title>
-    <updated>2022-06-19T01:36:45Z</updated>
-    <id>tag:github.com,2022-06-19:/ruslo/polly</id>
-    <link href="https://github.com/ruslo/polly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔧 Collection of CMake toolchain files and scripts for cross-platform build and CI testing (GCC, Visual Studio, iOS, Android, Clang analyzer, sanitizers etc.)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>filipdutescu/modern-cpp-template</title>
+    <updated>2022-06-20T01:35:27Z</updated>
+    <id>tag:github.com,2022-06-20:/filipdutescu/modern-cpp-template</id>
+    <link href="https://github.com/filipdutescu/modern-cpp-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KiCad/kicad-footprints</title>
-    <updated>2022-06-19T01:36:45Z</updated>
-    <id>tag:github.com,2022-06-19:/KiCad/kicad-footprints</id>
-    <link href="https://github.com/KiCad/kicad-footprints" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official KiCad Footprint Libraries for Kicad version 5&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>autowarefoundation/autoware_msgs</title>
+    <updated>2022-06-20T01:35:27Z</updated>
+    <id>tag:github.com,2022-06-20:/autowarefoundation/autoware_msgs</id>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tier4/autoware_individual_params</title>
+    <updated>2022-06-20T01:35:27Z</updated>
+    <id>tag:github.com,2022-06-20:/tier4/autoware_individual_params</id>
+    <link href="https://github.com/tier4/autoware_individual_params" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:57:37Z</updated>
+  <updated>2022-06-20T01:55:50Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>music-assistant/hass-music-assistant</title>
-    <updated>2022-06-19T01:57:37Z</updated>
-    <id>tag:github.com,2022-06-19:/music-assistant/hass-music-assistant</id>
-    <link href="https://github.com/music-assistant/hass-music-assistant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Turn your Home Assistant instance into a jukebox, hassle free streaming of your favorite media to Home Assistant media players.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kodadot/nft-gallery</title>
+    <updated>2022-06-20T01:55:50Z</updated>
+    <id>tag:github.com,2022-06-20:/kodadot/nft-gallery</id>
+    <link href="https://github.com/kodadot/nft-gallery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NFT Explorer 🗺 🧭 running on Kusama and Polkadot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>epicmaxco/vuestic-ui</title>
-    <updated>2022-06-19T01:57:37Z</updated>
-    <id>tag:github.com,2022-06-19:/epicmaxco/vuestic-ui</id>
-    <link href="https://github.com/epicmaxco/vuestic-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free and Open Source UI Library for Vue 3 🤘&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gzydong/LumenIM</title>
+    <updated>2022-06-20T01:55:50Z</updated>
+    <id>tag:github.com,2022-06-20:/gzydong/LumenIM</id>
+    <link href="https://github.com/gzydong/LumenIM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lumen IM 是一个网页版在线聊天项目，前端使用 Element-ui + Vue，后端采用了基于 Swoole 开发的 Hyperf 协程框架进行接口开发，并使用 WebSocket 服务进行消息实时推送。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pipipi-pikachu/PPTist</title>
-    <updated>2022-06-19T01:57:37Z</updated>
-    <id>tag:github.com,2022-06-19:/pipipi-pikachu/PPTist</id>
-    <link href="https://github.com/pipipi-pikachu/PPTist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dcloudio/hello-uniapp</title>
+    <updated>2022-06-20T01:55:50Z</updated>
+    <id>tag:github.com,2022-06-20:/dcloudio/hello-uniapp</id>
+    <link href="https://github.com/dcloudio/hello-uniapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;uni-app框架演示示例&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

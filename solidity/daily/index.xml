@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:54:44Z</updated>
+  <updated>2022-06-20T01:52:52Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>muslimtagizade/Metatradefinance</title>
-    <updated>2022-06-19T01:54:44Z</updated>
-    <id>tag:github.com,2022-06-19:/muslimtagizade/Metatradefinance</id>
-    <link href="https://github.com/muslimtagizade/Metatradefinance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>m1guelpf/lil-web3</title>
+    <updated>2022-06-20T01:52:52Z</updated>
+    <id>tag:github.com,2022-06-20:/m1guelpf/lil-web3</id>
+    <link href="https://github.com/m1guelpf/lil-web3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, intentionally-limited versions of web3 protocols &amp; apps.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Cryptocoders-wtf/pride-contract</title>
-    <updated>2022-06-19T01:54:44Z</updated>
-    <id>tag:github.com,2022-06-19:/Cryptocoders-wtf/pride-contract</id>
-    <link href="https://github.com/Cryptocoders-wtf/pride-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>massun-onibakuchi/sol-challenge</title>
+    <updated>2022-06-20T01:52:52Z</updated>
+    <id>tag:github.com,2022-06-20:/massun-onibakuchi/sol-challenge</id>
+    <link href="https://github.com/massun-onibakuchi/sol-challenge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CTF-like challenges of smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pickle-finance/protocol</title>
-    <updated>2022-06-19T01:54:44Z</updated>
-    <id>tag:github.com,2022-06-19:/pickle-finance/protocol</id>
-    <link href="https://github.com/pickle-finance/protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pickle Protocols&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smartcontractkit/documentation</title>
+    <updated>2022-06-20T01:52:52Z</updated>
+    <id>tag:github.com,2022-06-20:/smartcontractkit/documentation</id>
+    <link href="https://github.com/smartcontractkit/documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

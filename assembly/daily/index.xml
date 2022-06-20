@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:34:16Z</updated>
+  <updated>2022-06-20T01:33:07Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dspinellis/unix-history-repo</title>
-    <updated>2022-06-19T01:34:16Z</updated>
-    <id>tag:github.com,2022-06-19:/dspinellis/unix-history-repo</id>
-    <link href="https://github.com/dspinellis/unix-history-repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Continuous Unix commit history from 1970 until today&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mathieulh/Lib-PSP-iplloader-Bootstraper-for-DTP-T1000</title>
+    <updated>2022-06-20T01:33:07Z</updated>
+    <id>tag:github.com,2022-06-20:/mathieulh/Lib-PSP-iplloader-Bootstraper-for-DTP-T1000</id>
+    <link href="https://github.com/mathieulh/Lib-PSP-iplloader-Bootstraper-for-DTP-T1000" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This crafts a specific IPL code that bootstraps your own custom Lib-PSP iplloader on a PSP Development Kit without requiring the Lib-PSP iplloader (kbooti) key.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbbarbosa/libsnark-supercop</title>
+    <updated>2022-06-20T01:33:07Z</updated>
+    <id>tag:github.com,2022-06-20:/mbbarbosa/libsnark-supercop</id>
+    <link href="https://github.com/mbbarbosa/libsnark-supercop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Subset of the supercop (http://bench.cr.yp.to/supercop.html) sources used in the libsnark ADSNARK demonstrating example.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

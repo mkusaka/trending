@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:53:00Z</updated>
+  <updated>2022-06-20T01:51:05Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Milxnor/Multiplayer-Patterns</title>
-    <updated>2022-06-19T01:53:00Z</updated>
-    <id>tag:github.com,2022-06-19:/Milxnor/Multiplayer-Patterns</id>
-    <link href="https://github.com/Milxnor/Multiplayer-Patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fortnite Multiplayer Patterns&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Alfaa123/Volvo-CAN-Gauge</title>
-    <updated>2022-06-19T01:53:00Z</updated>
-    <id>tag:github.com,2022-06-19:/Alfaa123/Volvo-CAN-Gauge</id>
-    <link href="https://github.com/Alfaa123/Volvo-CAN-Gauge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse engineering the Volvo VIDA protocol and CAN network to gather diagnostic information not available via OBD2 on Volvo cars.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moj-analytical-services/splink</title>
+    <updated>2022-06-20T01:51:05Z</updated>
+    <id>tag:github.com,2022-06-20:/moj-analytical-services/splink</id>
+    <link href="https://github.com/moj-analytical-services/splink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementation of Fellegi-Sunter&#39;s canonical model of record linkage in Apache Spark, including EM algorithm to estimate parameters&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

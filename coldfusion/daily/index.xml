@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:36:47Z</updated>
+  <updated>2022-06-20T01:35:33Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>foundeo/cfdocs</title>
-    <updated>2022-06-19T01:36:47Z</updated>
-    <id>tag:github.com,2022-06-19:/foundeo/cfdocs</id>
-    <link href="https://github.com/foundeo/cfdocs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for the cfdocs.org site.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

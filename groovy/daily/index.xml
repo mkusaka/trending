@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:42:29Z</updated>
+  <updated>2022-06-20T01:41:05Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bbk-pij-2012-84/myrepository</title>
-    <updated>2022-06-19T01:42:29Z</updated>
-    <id>tag:github.com,2022-06-19:/bbk-pij-2012-84/myrepository</id>
-    <link href="https://github.com/bbk-pij-2012-84/myrepository" rel="alternate"></link>
+    <title>gemfire/geode-integration-test-gradle-plugin</title>
+    <updated>2022-06-20T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-20:/gemfire/geode-integration-test-gradle-plugin</id>
+    <link href="https://github.com/gemfire/geode-integration-test-gradle-plugin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rakutentech/android-buildconfig</title>
-    <updated>2022-06-19T01:42:29Z</updated>
-    <id>tag:github.com,2022-06-19:/rakutentech/android-buildconfig</id>
-    <link href="https://github.com/rakutentech/android-buildconfig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shared (gradle) build configurations for Android and Java libraries&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skarkalas/PIJ-day4exercises</title>
+    <updated>2022-06-20T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-20:/skarkalas/PIJ-day4exercises</id>
+    <link href="https://github.com/skarkalas/PIJ-day4exercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HujiangTechnology/gradle_plugin_android_aspectjx</title>
-    <updated>2022-06-19T01:42:29Z</updated>
-    <id>tag:github.com,2022-06-19:/HujiangTechnology/gradle_plugin_android_aspectjx</id>
-    <link href="https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ksemaev/project_template</title>
+    <updated>2022-06-20T01:41:05Z</updated>
+    <id>tag:github.com,2022-06-20:/ksemaev/project_template</id>
+    <link href="https://github.com/ksemaev/project_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Typical repo for new devops project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

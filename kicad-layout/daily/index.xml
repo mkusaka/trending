@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub KiCad Layout Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:45:07Z</updated>
+  <updated>2022-06-20T01:43:43Z</updated>
   <subtitle>Daily Trending of KiCad Layout in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>valerionew/Banana-Random-Number-Generator</title>
-    <updated>2022-06-19T01:45:07Z</updated>
-    <id>tag:github.com,2022-06-19:/valerionew/Banana-Random-Number-Generator</id>
-    <link href="https://github.com/valerionew/Banana-Random-Number-Generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Random number generator based on radioactivity from bananas&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KCORES/KCORES-CSPS-to-ATX-Converter</title>
+    <updated>2022-06-20T01:43:43Z</updated>
+    <id>tag:github.com,2022-06-20:/KCORES/KCORES-CSPS-to-ATX-Converter</id>
+    <link href="https://github.com/KCORES/KCORES-CSPS-to-ATX-Converter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Super ATX Power!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

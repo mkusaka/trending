@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:56:27Z</updated>
+  <updated>2022-06-20T01:54:29Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CuriousDrive/EFCore.AllDatabasesConsidered</title>
-    <updated>2022-06-19T01:56:27Z</updated>
-    <id>tag:github.com,2022-06-19:/CuriousDrive/EFCore.AllDatabasesConsidered</id>
-    <link href="https://github.com/CuriousDrive/EFCore.AllDatabasesConsidered" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains sample .NET projects which are using EF Core to perform database operations for MS SQL Server, MySQL, SQLite &amp; CosmosDB. We have created these projects for developers who are getting started with EF Core and they want to know how you perform CRUD operations, load related data, load data from views and call stored procedu…&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TdP-esami/2019-06-27-C</title>
-    <updated>2022-06-19T01:56:27Z</updated>
-    <id>tag:github.com,2022-06-19:/TdP-esami/2019-06-27-C</id>
-    <link href="https://github.com/TdP-esami/2019-06-27-C" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tema d&#39;esame del 27/06/2019, Turno C (Denver crimes, ricorsione)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

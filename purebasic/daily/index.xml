@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureBasic Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:51:42Z</updated>
+  <updated>2022-06-20T01:49:43Z</updated>
   <subtitle>Daily Trending of PureBasic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>upes-open/OSC-Medical-Analysis-Application-Using-ML</title>
+    <updated>2022-06-20T01:49:43Z</updated>
+    <id>tag:github.com,2022-06-20:/upes-open/OSC-Medical-Analysis-Application-Using-ML</id>
+    <link href="https://github.com/upes-open/OSC-Medical-Analysis-Application-Using-ML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An CNN based binary classification model to classify X-Ray scans on whether they are suffering from pneumonia or not.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

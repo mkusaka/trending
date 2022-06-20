@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:57:19Z</updated>
+  <updated>2022-06-20T01:55:38Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mjbrown/umn_simaudio</title>
-    <updated>2022-06-19T01:57:19Z</updated>
-    <id>tag:github.com,2022-06-19:/mjbrown/umn_simaudio</id>
-    <link href="https://github.com/mjbrown/umn_simaudio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Univ. of MN Simultaneous Audio Recording Interface Software and Firmware&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>slaclab/epix-hr-core</title>
+    <updated>2022-06-20T01:55:38Z</updated>
+    <id>tag:github.com,2022-06-20:/slaclab/epix-hr-core</id>
+    <link href="https://github.com/slaclab/epix-hr-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>slaclab/axi-pcie-core</title>
+    <updated>2022-06-20T01:55:38Z</updated>
+    <id>tag:github.com,2022-06-20:/slaclab/axi-pcie-core</id>
+    <link href="https://github.com/slaclab/axi-pcie-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

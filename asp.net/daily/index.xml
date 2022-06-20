@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASP.NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:34:00Z</updated>
+  <updated>2022-06-20T01:32:57Z</updated>
   <subtitle>Daily Trending of ASP.NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>srajat/Online-Voting-System</title>
+    <updated>2022-06-20T01:32:57Z</updated>
+    <id>tag:github.com,2022-06-20:/srajat/Online-Voting-System</id>
+    <link href="https://github.com/srajat/Online-Voting-System" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ASP.NET app for managing and conducting elections in IIITA.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

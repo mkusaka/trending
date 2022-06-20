@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-19T01:46:58Z</updated>
+  <updated>2022-06-20T01:45:26Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CristhianBoujon/machine_learning_standford_university_course</title>
-    <updated>2022-06-19T01:46:58Z</updated>
-    <id>tag:github.com,2022-06-19:/CristhianBoujon/machine_learning_standford_university_course</id>
-    <link href="https://github.com/CristhianBoujon/machine_learning_standford_university_course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a repository created in order to store all michine learning practices I am doing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>UMich-BipedLab/LiDAR_intrinsic_calibration</title>
-    <updated>2022-06-19T01:46:58Z</updated>
-    <id>tag:github.com,2022-06-19:/UMich-BipedLab/LiDAR_intrinsic_calibration</id>
-    <link href="https://github.com/UMich-BipedLab/LiDAR_intrinsic_calibration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
