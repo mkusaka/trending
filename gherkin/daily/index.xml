@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:40:10Z</updated>
+  <updated>2022-06-21T01:43:24Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>testthedocs/Openly</title>
-    <updated>2022-06-20T01:40:10Z</updated>
-    <id>tag:github.com,2022-06-20:/testthedocs/Openly</id>
-    <link href="https://github.com/testthedocs/Openly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vale linter style that aims to replicate Grammarly in an open-source, privacy-friendly way&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>selenium-cucumber/selenium-cucumber-java-maven-example</title>
-    <updated>2022-06-20T01:40:10Z</updated>
-    <id>tag:github.com,2022-06-20:/selenium-cucumber/selenium-cucumber-java-maven-example</id>
-    <link href="https://github.com/selenium-cucumber/selenium-cucumber-java-maven-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Behavior driven development (BDD) approach to write automation test scripts to test web applications.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

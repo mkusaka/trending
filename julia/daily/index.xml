@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:43:18Z</updated>
+  <updated>2022-06-21T01:46:41Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaInterop/Cxx.jl</title>
-    <updated>2022-06-20T01:43:18Z</updated>
-    <id>tag:github.com,2022-06-20:/JuliaInterop/Cxx.jl</id>
-    <link href="https://github.com/JuliaInterop/Cxx.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Julia C++ Interface&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>legend-exp/LegendHDF5IO.jl</title>
+    <updated>2022-06-21T01:46:41Z</updated>
+    <id>tag:github.com,2022-06-21:/legend-exp/LegendHDF5IO.jl</id>
+    <link href="https://github.com/legend-exp/LegendHDF5IO.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HDF5-IO in Julia for the LEGEND experiment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaPOMDP/POMDPs.jl</title>
-    <updated>2022-06-20T01:43:18Z</updated>
-    <id>tag:github.com,2022-06-20:/JuliaPOMDP/POMDPs.jl</id>
-    <link href="https://github.com/JuliaPOMDP/POMDPs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MDPs and POMDPs in Julia - An interface for defining, solving, and simulating fully and partially observable Markov decision processes on discrete and continuous spaces.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TuringLang/Turing.jl</title>
+    <updated>2022-06-21T01:46:41Z</updated>
+    <id>tag:github.com,2022-06-21:/TuringLang/Turing.jl</id>
+    <link href="https://github.com/TuringLang/Turing.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bayesian inference with probabilistic programming.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaGraphs/Graphs.jl</title>
+    <updated>2022-06-21T01:46:41Z</updated>
+    <id>tag:github.com,2022-06-21:/JuliaGraphs/Graphs.jl</id>
+    <link href="https://github.com/JuliaGraphs/Graphs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An optimized graphs package for the Julia programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

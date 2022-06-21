@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:47:39Z</updated>
+  <updated>2022-06-21T01:51:38Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ocaml-multicore/eio</title>
+    <updated>2022-06-21T01:51:38Z</updated>
+    <id>tag:github.com,2022-06-21:/ocaml-multicore/eio</id>
+    <link href="https://github.com/ocaml-multicore/eio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Effects-based direct-style IO for multicore OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Guest0x0/normalization-bench</title>
+    <updated>2022-06-21T01:51:38Z</updated>
+    <id>tag:github.com,2022-06-21:/Guest0x0/normalization-bench</id>
+    <link href="https://github.com/Guest0x0/normalization-bench" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Benchmarking various normalization algorithms for the lambda calculus&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EasyCrypt/easycrypt</title>
+    <updated>2022-06-21T01:51:38Z</updated>
+    <id>tag:github.com,2022-06-21:/EasyCrypt/easycrypt</id>
+    <link href="https://github.com/EasyCrypt/easycrypt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EasyCrypt: Computer-Aided Cryptographic Proofs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

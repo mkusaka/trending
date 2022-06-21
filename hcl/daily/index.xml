@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:41:23Z</updated>
+  <updated>2022-06-21T01:44:39Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>champ-oss/terraform-aws-alb</title>
-    <updated>2022-06-20T01:41:23Z</updated>
-    <id>tag:github.com,2022-06-20:/champ-oss/terraform-aws-alb</id>
-    <link href="https://github.com/champ-oss/terraform-aws-alb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creates an AWS Application Load Balancer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wardviaene/terraform-course</title>
+    <updated>2022-06-21T01:44:39Z</updated>
+    <id>tag:github.com,2022-06-21:/wardviaene/terraform-course</id>
+    <link href="https://github.com/wardviaene/terraform-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course files for my Udemy course about Terraform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rackspace-infrastructure-automation/mgcp-terraform-modules</title>
-    <updated>2022-06-20T01:41:23Z</updated>
-    <id>tag:github.com,2022-06-20:/rackspace-infrastructure-automation/mgcp-terraform-modules</id>
-    <link href="https://github.com/rackspace-infrastructure-automation/mgcp-terraform-modules" rel="alternate"></link>
+    <title>champ-oss/terraform-aws-redirect</title>
+    <updated>2022-06-21T01:44:39Z</updated>
+    <id>tag:github.com,2022-06-21:/champ-oss/terraform-aws-redirect</id>
+    <link href="https://github.com/champ-oss/terraform-aws-redirect" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>champ-oss/terraform-github-repository</title>
-    <updated>2022-06-20T01:41:23Z</updated>
-    <id>tag:github.com,2022-06-20:/champ-oss/terraform-github-repository</id>
-    <link href="https://github.com/champ-oss/terraform-github-repository" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-multi-az-subnets</title>
+    <updated>2022-06-21T01:44:39Z</updated>
+    <id>tag:github.com,2022-06-21:/cloudposse/terraform-aws-multi-az-subnets</id>
+    <link href="https://github.com/cloudposse/terraform-aws-multi-az-subnets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for multi-AZ public and private subnets provisioning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

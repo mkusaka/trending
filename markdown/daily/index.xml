@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:45:18Z</updated>
+  <updated>2022-06-21T01:48:58Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FastGitORG/document</title>
+    <updated>2022-06-21T01:48:58Z</updated>
+    <id>tag:github.com,2022-06-21:/FastGitORG/document</id>
+    <link href="https://github.com/FastGitORG/document" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📄 FastGit Document&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

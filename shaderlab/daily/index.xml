@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:51:58Z</updated>
+  <updated>2022-06-21T01:56:19Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ToniMacaroni/AssetCreationProject</title>
-    <updated>2022-06-20T01:51:58Z</updated>
-    <id>tag:github.com,2022-06-20:/ToniMacaroni/AssetCreationProject</id>
-    <link href="https://github.com/ToniMacaroni/AssetCreationProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base unity project for creating beat saber mod assets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Xibanya/ShaderTutorials</title>
+    <updated>2022-06-21T01:56:19Z</updated>
+    <id>tag:github.com,2022-06-21:/Xibanya/ShaderTutorials</id>
+    <link href="https://github.com/Xibanya/ShaderTutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shaders For People Who Don&#39;t Know How To Shader, a tutorial series for beginners!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

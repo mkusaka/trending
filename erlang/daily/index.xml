@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:38:54Z</updated>
+  <updated>2022-06-21T01:42:00Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rustyio/sync</title>
-    <updated>2022-06-20T01:38:54Z</updated>
-    <id>tag:github.com,2022-06-20:/rustyio/sync</id>
-    <link href="https://github.com/rustyio/sync" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;On-the-fly recompiling and reloading in Erlang. Code without friction.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-telemetry/opentelemetry-demo-webstore</title>
+    <updated>2022-06-21T01:42:00Z</updated>
+    <id>tag:github.com,2022-06-21:/open-telemetry/opentelemetry-demo-webstore</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-demo-webstore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenTelemetry Community Demo Application&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>epgsql/epgsql</title>
-    <updated>2022-06-20T01:38:54Z</updated>
-    <id>tag:github.com,2022-06-20:/epgsql/epgsql</id>
-    <link href="https://github.com/epgsql/epgsql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang PostgreSQL client library.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>processone/fast_xml</title>
+    <updated>2022-06-21T01:42:00Z</updated>
+    <id>tag:github.com,2022-06-21:/processone/fast_xml</id>
+    <link href="https://github.com/processone/fast_xml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast Expat based Erlang XML parsing library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>helium/router</title>
-    <updated>2022-06-20T01:38:54Z</updated>
-    <id>tag:github.com,2022-06-20:/helium/router</id>
-    <link href="https://github.com/helium/router" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;router combines a LoRaWAN Network Server with an API for console, and provides a proxy to the Helium blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nitrogen/simple_bridge</title>
+    <updated>2022-06-21T01:42:00Z</updated>
+    <id>tag:github.com,2022-06-21:/nitrogen/simple_bridge</id>
+    <link href="https://github.com/nitrogen/simple_bridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple, standardized interface library to Erlang HTTP Servers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:40:21Z</updated>
+  <updated>2022-06-21T01:43:34Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BruceKnowsHow/Ebin-Shaders</title>
-    <updated>2022-06-20T01:40:21Z</updated>
-    <id>tag:github.com,2022-06-20:/BruceKnowsHow/Ebin-Shaders</id>
-    <link href="https://github.com/BruceKnowsHow/Ebin-Shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bambosan/Bicubic-Shaders-BE</title>
+    <updated>2022-06-21T01:43:34Z</updated>
+    <id>tag:github.com,2022-06-21:/bambosan/Bicubic-Shaders-BE</id>
+    <link href="https://github.com/bambosan/Bicubic-Shaders-BE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a resourcepack (shader) for McBE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Milk-Drinker01/Milk_Instancer01</title>
+    <updated>2022-06-21T01:43:34Z</updated>
+    <id>tag:github.com,2022-06-21:/Milk-Drinker01/Milk_Instancer01</id>
+    <link href="https://github.com/Milk-Drinker01/Milk_Instancer01" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unity indirect GPU instancing &amp; painting with occlusion culling, frustum culling, and LODs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

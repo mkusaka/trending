@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:51:23Z</updated>
+  <updated>2022-06-21T01:55:42Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jfecher/ante</title>
-    <updated>2022-06-20T01:51:23Z</updated>
-    <id>tag:github.com,2022-06-20:/jfecher/ante</id>
-    <link href="https://github.com/jfecher/ante" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A safe, easy systems language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SergioBenitez/Rocket</title>
+    <updated>2022-06-21T01:55:42Z</updated>
+    <id>tag:github.com,2022-06-21:/SergioBenitez/Rocket</id>
+    <link href="https://github.com/SergioBenitez/Rocket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web framework for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>readysettech/readyset</title>
-    <updated>2022-06-20T01:51:23Z</updated>
-    <id>tag:github.com,2022-06-20:/readysettech/readyset</id>
-    <link href="https://github.com/readysettech/readyset" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ReadySet is a lightweight SQL caching engine that helps developers enhance the performance and scalability of existing applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>messense/aliyundrive-webdav</title>
+    <updated>2022-06-21T01:55:42Z</updated>
+    <id>tag:github.com,2022-06-21:/messense/aliyundrive-webdav</id>
+    <link href="https://github.com/messense/aliyundrive-webdav" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;阿里云盘 WebDAV 服务&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sarsko/CreuSAT</title>
-    <updated>2022-06-20T01:51:23Z</updated>
-    <id>tag:github.com,2022-06-20:/sarsko/CreuSAT</id>
-    <link href="https://github.com/sarsko/CreuSAT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CreuSAT - A formally verified SAT solver written in Rust and verified with Creusot.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>serenity-rs/serenity</title>
+    <updated>2022-06-21T01:55:42Z</updated>
+    <id>tag:github.com,2022-06-21:/serenity-rs/serenity</id>
+    <link href="https://github.com/serenity-rs/serenity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Rust library for the Discord API.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

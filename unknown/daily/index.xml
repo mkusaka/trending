@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:31:49Z</updated>
+  <updated>2022-06-21T01:34:35Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>girliemac/a-picture-is-worth-a-1000-words</title>
-    <updated>2022-06-20T01:31:49Z</updated>
-    <id>tag:github.com,2022-06-20:/girliemac/a-picture-is-worth-a-1000-words</id>
-    <link href="https://github.com/girliemac/a-picture-is-worth-a-1000-words" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I am trying to describe complex matters in simple doodles!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wdzeng/bot-automation</title>
+    <updated>2022-06-21T01:34:35Z</updated>
+    <id>tag:github.com,2022-06-21:/wdzeng/bot-automation</id>
+    <link href="https://github.com/wdzeng/bot-automation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💰 簽到機器人 on GitHub Action! 💰&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>The-Run-Philosophy-Organization/run</title>
-    <updated>2022-06-20T01:31:49Z</updated>
-    <id>tag:github.com,2022-06-20:/The-Run-Philosophy-Organization/run</id>
-    <link href="https://github.com/The-Run-Philosophy-Organization/run" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LinghaoChan/CSSummerCamp2022</title>
+    <updated>2022-06-21T01:34:35Z</updated>
+    <id>tag:github.com,2022-06-21:/LinghaoChan/CSSummerCamp2022</id>
+    <link href="https://github.com/LinghaoChan/CSSummerCamp2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;关于2022年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zeroruka/GI_Assets</title>
-    <updated>2022-06-20T01:31:49Z</updated>
-    <id>tag:github.com,2022-06-20:/zeroruka/GI_Assets</id>
-    <link href="https://github.com/zeroruka/GI_Assets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Character textures, models and skins for Genshin.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zenml-io/awesome-open-data-annotation</title>
+    <updated>2022-06-21T01:34:35Z</updated>
+    <id>tag:github.com,2022-06-21:/zenml-io/awesome-open-data-annotation</id>
+    <link href="https://github.com/zenml-io/awesome-open-data-annotation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Data Annotation &amp; Labeling Tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:52:52Z</updated>
+  <updated>2022-06-21T01:57:20Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>m1guelpf/lil-web3</title>
-    <updated>2022-06-20T01:52:52Z</updated>
-    <id>tag:github.com,2022-06-20:/m1guelpf/lil-web3</id>
-    <link href="https://github.com/m1guelpf/lil-web3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple, intentionally-limited versions of web3 protocols &amp; apps.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eth-sri/securify2</title>
+    <updated>2022-06-21T01:57:20Z</updated>
+    <id>tag:github.com,2022-06-21:/eth-sri/securify2</id>
+    <link href="https://github.com/eth-sri/securify2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Securify v2.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>massun-onibakuchi/sol-challenge</title>
-    <updated>2022-06-20T01:52:52Z</updated>
-    <id>tag:github.com,2022-06-20:/massun-onibakuchi/sol-challenge</id>
-    <link href="https://github.com/massun-onibakuchi/sol-challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CTF-like challenges of smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OlympusDAO/olympus-contracts</title>
+    <updated>2022-06-21T01:57:20Z</updated>
+    <id>tag:github.com,2022-06-21:/OlympusDAO/olympus-contracts</id>
+    <link href="https://github.com/OlympusDAO/olympus-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>smartcontractkit/documentation</title>
-    <updated>2022-06-20T01:52:52Z</updated>
-    <id>tag:github.com,2022-06-20:/smartcontractkit/documentation</id>
-    <link href="https://github.com/smartcontractkit/documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://docs.chain.link The Chainlink developer documentation website for Smart Contract Devs and Node Operators&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VenusProtocol/venus-protocol</title>
+    <updated>2022-06-21T01:57:20Z</updated>
+    <id>tag:github.com,2022-06-21:/VenusProtocol/venus-protocol</id>
+    <link href="https://github.com/VenusProtocol/venus-protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Binance Smart Chain Venus Protocol&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

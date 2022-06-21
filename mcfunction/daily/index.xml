@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:45:34Z</updated>
+  <updated>2022-06-21T01:49:12Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FrederoxDev/Cosmos</title>
-    <updated>2022-06-20T01:45:34Z</updated>
-    <id>tag:github.com,2022-06-20:/FrederoxDev/Cosmos</id>
-    <link href="https://github.com/FrederoxDev/Cosmos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A mod for the Bedrock Edition of Minecraft which adds space exploration to the game&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tryashtar/shulker-preview</title>
-    <updated>2022-06-20T01:45:34Z</updated>
-    <id>tag:github.com,2022-06-20:/tryashtar/shulker-preview</id>
-    <link href="https://github.com/tryashtar/shulker-preview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data+resource pack for viewing inside of shulker boxes in your inventory&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

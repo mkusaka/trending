@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub IGOR Pro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:42:14Z</updated>
+  <updated>2022-06-21T01:45:31Z</updated>
   <subtitle>Daily Trending of IGOR Pro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NSLS-II-SST/TiledRSoXS</title>
-    <updated>2022-06-20T01:42:14Z</updated>
-    <id>tag:github.com,2022-06-20:/NSLS-II-SST/TiledRSoXS</id>
-    <link href="https://github.com/NSLS-II-SST/TiledRSoXS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A somewhat general IgorPro based browser for Tiled. Built for RSoXS, but useful in general&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

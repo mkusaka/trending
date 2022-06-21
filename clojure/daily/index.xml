@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:35:17Z</updated>
+  <updated>2022-06-21T01:38:14Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>esuomi/muotti</title>
-    <updated>2022-06-20T01:35:17Z</updated>
-    <id>tag:github.com,2022-06-20:/esuomi/muotti</id>
-    <link href="https://github.com/esuomi/muotti" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Muotti is a graph based value transformer library which aims to solve value transformation by utilizing a digraph of known transformations to produce a transformer chain which is then used to perform the actual transformation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>babashka/pods</title>
+    <updated>2022-06-21T01:38:14Z</updated>
+    <id>tag:github.com,2022-06-21:/babashka/pods</id>
+    <link href="https://github.com/babashka/pods" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pods support for JVM and babashka&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>polyfy/polylith</title>
-    <updated>2022-06-20T01:35:17Z</updated>
-    <id>tag:github.com,2022-06-20:/polyfy/polylith</id>
-    <link href="https://github.com/polyfy/polylith" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool used to develop Polylith based architectures in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>babashka/babashka.core</title>
+    <updated>2022-06-21T01:38:14Z</updated>
+    <id>tag:github.com,2022-06-21:/babashka/babashka.core</id>
+    <link href="https://github.com/babashka/babashka.core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Babashka core utils&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>logseq/nbb-logseq</title>
-    <updated>2022-06-20T01:35:17Z</updated>
-    <id>tag:github.com,2022-06-20:/logseq/nbb-logseq</id>
-    <link href="https://github.com/logseq/nbb-logseq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nbb with features enabled for logseq&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>puppetlabs/jdbc-util</title>
+    <updated>2022-06-21T01:38:14Z</updated>
+    <id>tag:github.com,2022-06-21:/puppetlabs/jdbc-util</id>
+    <link href="https://github.com/puppetlabs/jdbc-util" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common jdbc utilities for use in Puppet Labs clojure projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

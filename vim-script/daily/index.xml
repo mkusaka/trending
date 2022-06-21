@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:55:42Z</updated>
+  <updated>2022-06-21T02:00:30Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Shougo/dein.vim</title>
-    <updated>2022-06-20T01:55:42Z</updated>
-    <id>tag:github.com,2022-06-20:/Shougo/dein.vim</id>
-    <link href="https://github.com/Shougo/dein.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ Dark powered Vim/Neovim plugin manager&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>christoomey/vim-tmux-navigator</title>
+    <updated>2022-06-21T02:00:30Z</updated>
+    <id>tag:github.com,2022-06-21:/christoomey/vim-tmux-navigator</id>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Seamless navigation between tmux panes and vim splits&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Havoc-OS/android_external_vim</title>
-    <updated>2022-06-20T01:55:42Z</updated>
-    <id>tag:github.com,2022-06-20:/Havoc-OS/android_external_vim</id>
-    <link href="https://github.com/Havoc-OS/android_external_vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sbdchd/neoformat</title>
+    <updated>2022-06-21T02:00:30Z</updated>
+    <id>tag:github.com,2022-06-21:/sbdchd/neoformat</id>
+    <link href="https://github.com/sbdchd/neoformat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ A (Neo)vim plugin for formatting code.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>andymass/vim-matchup</title>
+    <updated>2022-06-21T02:00:30Z</updated>
+    <id>tag:github.com,2022-06-21:/andymass/vim-matchup</id>
+    <link href="https://github.com/andymass/vim-matchup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

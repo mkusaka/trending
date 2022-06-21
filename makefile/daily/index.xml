@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:45:09Z</updated>
+  <updated>2022-06-21T01:48:49Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Havoc-OS/android_vendor_havoc</title>
-    <updated>2022-06-20T01:45:09Z</updated>
-    <id>tag:github.com,2022-06-20:/Havoc-OS/android_vendor_havoc</id>
-    <link href="https://github.com/Havoc-OS/android_vendor_havoc" rel="alternate"></link>
+    <title>DerpFest-12/vendor_derp</title>
+    <updated>2022-06-21T01:48:49Z</updated>
+    <id>tag:github.com,2022-06-21:/DerpFest-12/vendor_derp</id>
+    <link href="https://github.com/DerpFest-12/vendor_derp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Havoc-OS/android_device_qcom_sepolicy_vndr</title>
-    <updated>2022-06-20T01:45:09Z</updated>
-    <id>tag:github.com,2022-06-20:/Havoc-OS/android_device_qcom_sepolicy_vndr</id>
-    <link href="https://github.com/Havoc-OS/android_device_qcom_sepolicy_vndr" rel="alternate"></link>
+    <title>DerpFest-12/vendor_overlay</title>
+    <updated>2022-06-21T01:48:49Z</updated>
+    <id>tag:github.com,2022-06-21:/DerpFest-12/vendor_overlay</id>
+    <link href="https://github.com/DerpFest-12/vendor_overlay" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Havoc-OS/android_device_havoc_sepolicy</title>
-    <updated>2022-06-20T01:45:09Z</updated>
-    <id>tag:github.com,2022-06-20:/Havoc-OS/android_device_havoc_sepolicy</id>
-    <link href="https://github.com/Havoc-OS/android_device_havoc_sepolicy" rel="alternate"></link>
+    <title>DerpFest-12/build</title>
+    <updated>2022-06-21T01:48:49Z</updated>
+    <id>tag:github.com,2022-06-21:/DerpFest-12/build</id>
+    <link href="https://github.com/DerpFest-12/build" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

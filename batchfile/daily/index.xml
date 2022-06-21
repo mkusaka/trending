@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:33:33Z</updated>
+  <updated>2022-06-21T01:36:27Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aegis-icons/aegis-icons</title>
-    <updated>2022-06-20T01:33:33Z</updated>
-    <id>tag:github.com,2022-06-20:/aegis-icons/aegis-icons</id>
-    <link href="https://github.com/aegis-icons/aegis-icons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unofficial 2FA entry icons for open source Android authenticator Aegis.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yuposewe2a/luqandta_dev</title>
+    <updated>2022-06-21T01:36:27Z</updated>
+    <id>tag:github.com,2022-06-21:/yuposewe2a/luqandta_dev</id>
+    <link href="https://github.com/yuposewe2a/luqandta_dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eaaasun/CCStopper</title>
-    <updated>2022-06-20T01:33:33Z</updated>
-    <id>tag:github.com,2022-06-20:/eaaasun/CCStopper</id>
-    <link href="https://github.com/eaaasun/CCStopper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kills Adobe&#39;s pesky background apps, and more!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GUENNOUN12/FreeRDP</title>
+    <updated>2022-06-21T01:36:27Z</updated>
+    <id>tag:github.com,2022-06-21:/GUENNOUN12/FreeRDP</id>
+    <link href="https://github.com/GUENNOUN12/FreeRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Emosewaj/IW4x</title>
-    <updated>2022-06-20T01:33:33Z</updated>
-    <id>tag:github.com,2022-06-20:/Emosewaj/IW4x</id>
-    <link href="https://github.com/Emosewaj/IW4x" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IW4x is a Call of Duty: Modern Warfare 2 client. This repository acts as a wiki- and file-mirror.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>edirimkus/JohnTechFreeRDP</title>
+    <updated>2022-06-21T01:36:27Z</updated>
+    <id>tag:github.com,2022-06-21:/edirimkus/JohnTechFreeRDP</id>
+    <link href="https://github.com/edirimkus/JohnTechFreeRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

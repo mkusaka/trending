@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-20T01:45:24Z</updated>
+  <updated>2022-06-21T01:49:08Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yunusem/crypto-101</title>
-    <updated>2022-06-20T01:45:24Z</updated>
-    <id>tag:github.com,2022-06-20:/yunusem/crypto-101</id>
-    <link href="https://github.com/yunusem/crypto-101" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Turkish 101 Game with Crypto Currency&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
