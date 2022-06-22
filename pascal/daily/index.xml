@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:52:27Z</updated>
+  <updated>2022-06-22T01:49:52Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dalijap/nx-horizon</title>
-    <updated>2022-06-21T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-21:/dalijap/nx-horizon</id>
-    <link href="https://github.com/dalijap/nx-horizon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NX Horizon - Event Bus for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ZXDunny/scr2AnimGIF</title>
-    <updated>2022-06-21T01:52:27Z</updated>
-    <id>tag:github.com,2022-06-21:/ZXDunny/scr2AnimGIF</id>
-    <link href="https://github.com/ZXDunny/scr2AnimGIF" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Speccy screen file (.scr) converter to animated GIF files.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

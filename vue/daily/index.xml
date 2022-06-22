@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T02:00:41Z</updated>
+  <updated>2022-06-22T01:57:56Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bradtraversy/vue-crash-2021</title>
-    <updated>2022-06-21T02:00:41Z</updated>
-    <id>tag:github.com,2022-06-21:/bradtraversy/vue-crash-2021</id>
-    <link href="https://github.com/bradtraversy/vue-crash-2021" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Task Tracker project from youtube crash course&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>miyuesc/bpmn-process-designer</title>
+    <updated>2022-06-22T01:57:56Z</updated>
+    <id>tag:github.com,2022-06-22:/miyuesc/bpmn-process-designer</id>
+    <link href="https://github.com/miyuesc/bpmn-process-designer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base on Vue 2.x and ElementUI，基于 Bpmn.js、Vue 2.x 和 ElementUI 的流程编辑器（前端部分），支持监听器，扩展属性，表单等配置，可自由扩展&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abi-collab/open-pos-inventory-laravelvue</title>
-    <updated>2022-06-21T02:00:41Z</updated>
-    <id>tag:github.com,2022-06-21:/abi-collab/open-pos-inventory-laravelvue</id>
-    <link href="https://github.com/abi-collab/open-pos-inventory-laravelvue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fully functional Point of Sale (POS) &amp; Inventory System made from Laravel and Vue js&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cdmoro/bootstrap-vue-3</title>
+    <updated>2022-06-22T01:57:56Z</updated>
+    <id>tag:github.com,2022-06-22:/cdmoro/bootstrap-vue-3</id>
+    <link href="https://github.com/cdmoro/bootstrap-vue-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Early (but lovely) implementation of Vue 3, Bootstrap 5 and Typescript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Geometry-Discovery-Project-UCI/homepage</title>
-    <updated>2022-06-21T02:00:41Z</updated>
-    <id>tag:github.com,2022-06-21:/Geometry-Discovery-Project-UCI/homepage</id>
-    <link href="https://github.com/Geometry-Discovery-Project-UCI/homepage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Geometry Discovery Project - University of California, Irvine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudhao1999/cloud-app-admin</title>
+    <updated>2022-06-22T01:57:56Z</updated>
+    <id>tag:github.com,2022-06-22:/cloudhao1999/cloud-app-admin</id>
+    <link href="https://github.com/cloudhao1999/cloud-app-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cloud-app-admin 使用了最新的vue3.2+ vite2+Element-Plus+TypeScript等主流技术开发，希望能和大家一起学习最新前端技术。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

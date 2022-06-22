@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:46:41Z</updated>
+  <updated>2022-06-22T01:44:10Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>legend-exp/LegendHDF5IO.jl</title>
-    <updated>2022-06-21T01:46:41Z</updated>
-    <id>tag:github.com,2022-06-21:/legend-exp/LegendHDF5IO.jl</id>
-    <link href="https://github.com/legend-exp/LegendHDF5IO.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HDF5-IO in Julia for the LEGEND experiment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ai4energy/Ai4ELab</title>
+    <updated>2022-06-22T01:44:10Z</updated>
+    <id>tag:github.com,2022-06-22:/ai4energy/Ai4ELab</id>
+    <link href="https://github.com/ai4energy/Ai4ELab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Virtual Simulation Lab of Ai4Energy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TuringLang/Turing.jl</title>
-    <updated>2022-06-21T01:46:41Z</updated>
-    <id>tag:github.com,2022-06-21:/TuringLang/Turing.jl</id>
-    <link href="https://github.com/TuringLang/Turing.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bayesian inference with probabilistic programming.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaGraphs/Graphs.jl</title>
-    <updated>2022-06-21T01:46:41Z</updated>
-    <id>tag:github.com,2022-06-21:/JuliaGraphs/Graphs.jl</id>
-    <link href="https://github.com/JuliaGraphs/Graphs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An optimized graphs package for the Julia programming language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaCollections/DataStructures.jl</title>
+    <updated>2022-06-22T01:44:10Z</updated>
+    <id>tag:github.com,2022-06-22:/JuliaCollections/DataStructures.jl</id>
+    <link href="https://github.com/JuliaCollections/DataStructures.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia implementation of Data structures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:41:21Z</updated>
+  <updated>2022-06-22T01:38:59Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elixirkoans/elixir-koans</title>
-    <updated>2022-06-21T01:41:21Z</updated>
-    <id>tag:github.com,2022-06-21:/elixirkoans/elixir-koans</id>
-    <link href="https://github.com/elixirkoans/elixir-koans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir learning exercises&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elixir-nx/axon_onnx</title>
-    <updated>2022-06-21T01:41:21Z</updated>
-    <id>tag:github.com,2022-06-21:/elixir-nx/axon_onnx</id>
-    <link href="https://github.com/elixir-nx/axon_onnx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily convert models between ONNX and Axon&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vaxine-io/vax</title>
-    <updated>2022-06-21T01:41:21Z</updated>
-    <id>tag:github.com,2022-06-21:/vaxine-io/vax</id>
-    <link href="https://github.com/vaxine-io/vax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vaxine data access library and Ecto integration.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>caleb-bb/periscope</title>
+    <updated>2022-06-22T01:38:59Z</updated>
+    <id>tag:github.com,2022-06-22:/caleb-bb/periscope</id>
+    <link href="https://github.com/caleb-bb/periscope" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for analyzing Phoenix Liveview applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:56:11Z</updated>
+  <updated>2022-06-22T01:53:38Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>filecoin-project/specs</title>
-    <updated>2022-06-21T01:56:11Z</updated>
-    <id>tag:github.com,2022-06-21:/filecoin-project/specs</id>
-    <link href="https://github.com/filecoin-project/specs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Filecoin protocol specification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mate-academy/layout_creativeBakery</title>
+    <updated>2022-06-22T01:53:38Z</updated>
+    <id>tag:github.com,2022-06-22:/mate-academy/layout_creativeBakery</id>
+    <link href="https://github.com/mate-academy/layout_creativeBakery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rootsongjc/cloud-native-library</title>
-    <updated>2022-06-21T01:56:11Z</updated>
-    <id>tag:github.com,2022-06-21:/rootsongjc/cloud-native-library</id>
-    <link href="https://github.com/rootsongjc/cloud-native-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;云原生资料库 - https://lib.jimmysong.io&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pmarsceill/jtd-remote</title>
+    <updated>2022-06-22T01:53:38Z</updated>
+    <id>tag:github.com,2022-06-22:/pmarsceill/jtd-remote</id>
+    <link href="https://github.com/pmarsceill/jtd-remote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example of Just the Docs as a remote theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>b2a3e8/jekyll-theme-console</title>
-    <updated>2022-06-21T01:56:11Z</updated>
-    <id>tag:github.com,2022-06-21:/b2a3e8/jekyll-theme-console</id>
-    <link href="https://github.com/b2a3e8/jekyll-theme-console" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A jekyll theme inspired by linux consoles for hackers, developers and script kiddies.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dessalines/essays</title>
+    <updated>2022-06-22T01:53:38Z</updated>
+    <id>tag:github.com,2022-06-22:/dessalines/essays</id>
+    <link href="https://github.com/dessalines/essays" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

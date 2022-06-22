@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:49:08Z</updated>
+  <updated>2022-06-22T01:46:29Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jingw/MathematicaScience</title>
+    <updated>2022-06-22T01:46:29Z</updated>
+    <id>tag:github.com,2022-06-22:/jingw/MathematicaScience</id>
+    <link href="https://github.com/jingw/MathematicaScience" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dimensional analysis and error propagation packages to make science easier.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

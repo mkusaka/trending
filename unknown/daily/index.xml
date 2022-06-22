@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:34:35Z</updated>
+  <updated>2022-06-22T01:32:16Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wdzeng/bot-automation</title>
-    <updated>2022-06-21T01:34:35Z</updated>
-    <id>tag:github.com,2022-06-21:/wdzeng/bot-automation</id>
-    <link href="https://github.com/wdzeng/bot-automation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💰 簽到機器人 on GitHub Action! 💰&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>daffainfo/AllAboutBugBounty</title>
+    <updated>2022-06-22T01:32:16Z</updated>
+    <id>tag:github.com,2022-06-22:/daffainfo/AllAboutBugBounty</id>
+    <link href="https://github.com/daffainfo/AllAboutBugBounty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All about bug bounty (bypasses, payloads, and etc)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LinghaoChan/CSSummerCamp2022</title>
-    <updated>2022-06-21T01:34:35Z</updated>
-    <id>tag:github.com,2022-06-21:/LinghaoChan/CSSummerCamp2022</id>
-    <link href="https://github.com/LinghaoChan/CSSummerCamp2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;关于2022年CS保研夏令营通知公告的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Q930844N/awesome_tech_content</title>
+    <updated>2022-06-22T01:32:16Z</updated>
+    <id>tag:github.com,2022-06-22:/Q930844N/awesome_tech_content</id>
+    <link href="https://github.com/Q930844N/awesome_tech_content" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Technology related content shared by folks on LinkedIn. I have collected, categorized and stored here. This content includes, Notes, Interview Questions, Leetcode Solutions, Hackerrank Solutions, Cheat sheets diagrams, Books etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zenml-io/awesome-open-data-annotation</title>
-    <updated>2022-06-21T01:34:35Z</updated>
-    <id>tag:github.com,2022-06-21:/zenml-io/awesome-open-data-annotation</id>
-    <link href="https://github.com/zenml-io/awesome-open-data-annotation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open Source Data Annotation &amp; Labeling Tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tayfunerbilen/react-bootcamp-notlari</title>
+    <updated>2022-06-22T01:32:16Z</updated>
+    <id>tag:github.com,2022-06-22:/tayfunerbilen/react-bootcamp-notlari</id>
+    <link href="https://github.com/tayfunerbilen/react-bootcamp-notlari" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;React&#39;e yeni başlayanlar için bootcamp notları&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

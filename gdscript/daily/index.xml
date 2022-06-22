@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:43:00Z</updated>
+  <updated>2022-06-22T01:40:40Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GDQuest/godot-visual-effects</title>
-    <updated>2022-06-21T01:43:00Z</updated>
-    <id>tag:github.com,2022-06-21:/GDQuest/godot-visual-effects</id>
-    <link href="https://github.com/GDQuest/godot-visual-effects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source visual effects designed in Godot, from our VFX Secrets course.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bitwes/Gut</title>
-    <updated>2022-06-21T01:43:00Z</updated>
-    <id>tag:github.com,2022-06-21:/bitwes/Gut</id>
-    <link href="https://github.com/bitwes/Gut" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot Unit Test. Unit testing tool for Godot Game Engine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

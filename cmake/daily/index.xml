@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:38:24Z</updated>
+  <updated>2022-06-22T01:36:10Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ARMmbed/mbed-os-example-blinky</title>
-    <updated>2022-06-21T01:38:24Z</updated>
-    <id>tag:github.com,2022-06-21:/ARMmbed/mbed-os-example-blinky</id>
-    <link href="https://github.com/ARMmbed/mbed-os-example-blinky" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blinky example for Mbed OS 6.0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meta-toolkit/meta-cmake</title>
+    <updated>2022-06-22T01:36:10Z</updated>
+    <id>tag:github.com,2022-06-22:/meta-toolkit/meta-cmake</id>
+    <link href="https://github.com/meta-toolkit/meta-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake scripts/modules used for MeTA&#39;s build system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nunolau/rm_mir_cleaner</title>
-    <updated>2022-06-21T01:38:24Z</updated>
-    <id>tag:github.com,2022-06-21:/nunolau/rm_mir_cleaner</id>
-    <link href="https://github.com/nunolau/rm_mir_cleaner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jrl-umi3218/jrl-cmakemodules</title>
+    <updated>2022-06-22T01:36:10Z</updated>
+    <id>tag:github.com,2022-06-22:/jrl-umi3218/jrl-cmakemodules</id>
+    <link href="https://github.com/jrl-umi3218/jrl-cmakemodules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake utility toolbox&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eve-autonomy/ad_sound.default</title>
-    <updated>2022-06-21T01:38:24Z</updated>
-    <id>tag:github.com,2022-06-21:/eve-autonomy/ad_sound.default</id>
-    <link href="https://github.com/eve-autonomy/ad_sound.default" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ros2/eigen3_cmake_module</title>
+    <updated>2022-06-22T01:36:10Z</updated>
+    <id>tag:github.com,2022-06-22:/ros2/eigen3_cmake_module</id>
+    <link href="https://github.com/ros2/eigen3_cmake_module" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds a custom find module for Eigen3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

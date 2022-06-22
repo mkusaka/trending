@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:57:05Z</updated>
+  <updated>2022-06-22T01:54:31Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>spotinst/spot-oceancd-releases</title>
-    <updated>2022-06-21T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-21:/spotinst/spot-oceancd-releases</id>
-    <link href="https://github.com/spotinst/spot-oceancd-releases" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>getoutreach/stencil-template-base</title>
-    <updated>2022-06-21T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-21:/getoutreach/stencil-template-base</id>
-    <link href="https://github.com/getoutreach/stencil-template-base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stencil template repository for template repositories&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>corda/corda-dev-helm</title>
-    <updated>2022-06-21T01:57:05Z</updated>
-    <id>tag:github.com,2022-06-21:/corda/corda-dev-helm</id>
-    <link href="https://github.com/corda/corda-dev-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart for deploying Corda 5 prereqs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

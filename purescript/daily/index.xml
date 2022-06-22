@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:53:58Z</updated>
+  <updated>2022-06-22T01:51:31Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript/purescript-unsafe-coerce</title>
-    <updated>2022-06-21T01:53:58Z</updated>
-    <id>tag:github.com,2022-06-21:/purescript/purescript-unsafe-coerce</id>
-    <link href="https://github.com/purescript/purescript-unsafe-coerce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unsafe coercion of values&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-maybe</title>
+    <updated>2022-06-22T01:51:31Z</updated>
+    <id>tag:github.com,2022-06-22:/purescript/purescript-maybe</id>
+    <link href="https://github.com/purescript/purescript-maybe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Optional values&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sigma-andex/purescript-lazy-joe</title>
-    <updated>2022-06-21T01:53:58Z</updated>
-    <id>tag:github.com,2022-06-21:/sigma-andex/purescript-lazy-joe</id>
-    <link href="https://github.com/sigma-andex/purescript-lazy-joe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Purescript ffi for the lazy joe 🦥&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purescript/purescript-integers</title>
+    <updated>2022-06-22T01:51:31Z</updated>
+    <id>tag:github.com,2022-06-22:/purescript/purescript-integers</id>
+    <link href="https://github.com/purescript/purescript-integers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functions and bitwise operators for the Int numeric type&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-invariant</title>
+    <updated>2022-06-22T01:51:31Z</updated>
+    <id>tag:github.com,2022-06-22:/purescript/purescript-invariant</id>
+    <link href="https://github.com/purescript/purescript-invariant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Invariant functors&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

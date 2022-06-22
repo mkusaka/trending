@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:36:27Z</updated>
+  <updated>2022-06-22T01:34:12Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yuposewe2a/luqandta_dev</title>
-    <updated>2022-06-21T01:36:27Z</updated>
-    <id>tag:github.com,2022-06-21:/yuposewe2a/luqandta_dev</id>
-    <link href="https://github.com/yuposewe2a/luqandta_dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DiligentGraphics/DiligentEngine</title>
+    <updated>2022-06-22T01:34:12Z</updated>
+    <id>tag:github.com,2022-06-22:/DiligentGraphics/DiligentEngine</id>
+    <link href="https://github.com/DiligentGraphics/DiligentEngine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern cross-platform low-level graphics library and rendering framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GUENNOUN12/FreeRDP</title>
-    <updated>2022-06-21T01:36:27Z</updated>
-    <id>tag:github.com,2022-06-21:/GUENNOUN12/FreeRDP</id>
-    <link href="https://github.com/GUENNOUN12/FreeRDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xz5116/ActivateMicrosoftProduct</title>
+    <updated>2022-06-22T01:34:12Z</updated>
+    <id>tag:github.com,2022-06-22:/xz5116/ActivateMicrosoftProduct</id>
+    <link href="https://github.com/xz5116/ActivateMicrosoftProduct" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;激活大部分微软产品和Windows系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>edirimkus/JohnTechFreeRDP</title>
-    <updated>2022-06-21T01:36:27Z</updated>
-    <id>tag:github.com,2022-06-21:/edirimkus/JohnTechFreeRDP</id>
-    <link href="https://github.com/edirimkus/JohnTechFreeRDP" rel="alternate"></link>
+    <title>nanakuryana41/RDPNanaGratis</title>
+    <updated>2022-06-22T01:34:12Z</updated>
+    <id>tag:github.com,2022-06-22:/nanakuryana41/RDPNanaGratis</id>
+    <link href="https://github.com/nanakuryana41/RDPNanaGratis" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

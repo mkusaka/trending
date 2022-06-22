@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:55:22Z</updated>
+  <updated>2022-06-22T01:52:49Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OpenFAST/r-test</title>
-    <updated>2022-06-21T01:55:22Z</updated>
-    <id>tag:github.com,2022-06-21:/OpenFAST/r-test</id>
-    <link href="https://github.com/OpenFAST/r-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dspinellis/unix-history-make</title>
-    <updated>2022-06-21T01:55:22Z</updated>
-    <id>tag:github.com,2022-06-21:/dspinellis/unix-history-make</id>
-    <link href="https://github.com/dspinellis/unix-history-make" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code and data to create a git repository representing the Unix source code history&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

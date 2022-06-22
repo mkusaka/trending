@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:36:36Z</updated>
+  <updated>2022-06-22T01:34:21Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments</title>
-    <updated>2022-06-21T01:36:36Z</updated>
-    <id>tag:github.com,2022-06-21:/microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments</id>
-    <link href="https://github.com/microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample Sensor Data Intelligence Azure resources template for Dynamics 365 Supply Chain Management.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

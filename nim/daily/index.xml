@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:50:47Z</updated>
+  <updated>2022-06-22T01:48:05Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ansiwave/nimwave</title>
-    <updated>2022-06-21T01:50:47Z</updated>
-    <id>tag:github.com,2022-06-21:/ansiwave/nimwave</id>
-    <link href="https://github.com/ansiwave/nimwave" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>status-im/nim-codex</title>
+    <updated>2022-06-22T01:48:05Z</updated>
+    <id>tag:github.com,2022-06-22:/status-im/nim-codex</id>
+    <link href="https://github.com/status-im/nim-codex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Decentralized Durability Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>avahe-kellenberger/nimdow</title>
+    <updated>2022-06-22T01:48:05Z</updated>
+    <id>tag:github.com,2022-06-22:/avahe-kellenberger/nimdow</id>
+    <link href="https://github.com/avahe-kellenberger/nimdow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A window manager written in Nim (In Development)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

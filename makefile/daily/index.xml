@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:48:49Z</updated>
+  <updated>2022-06-22T01:46:13Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DerpFest-12/vendor_derp</title>
-    <updated>2022-06-21T01:48:49Z</updated>
-    <id>tag:github.com,2022-06-21:/DerpFest-12/vendor_derp</id>
-    <link href="https://github.com/DerpFest-12/vendor_derp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lorien/awesome-web-scraping</title>
+    <updated>2022-06-22T01:46:13Z</updated>
+    <id>tag:github.com,2022-06-22:/lorien/awesome-web-scraping</id>
+    <link href="https://github.com/lorien/awesome-web-scraping" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of libraries, tools and APIs for web scraping and data processing.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DerpFest-12/vendor_overlay</title>
-    <updated>2022-06-21T01:48:49Z</updated>
-    <id>tag:github.com,2022-06-21:/DerpFest-12/vendor_overlay</id>
-    <link href="https://github.com/DerpFest-12/vendor_overlay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/sonic-linux-kernel</title>
+    <updated>2022-06-22T01:46:13Z</updated>
+    <id>tag:github.com,2022-06-22:/Azure/sonic-linux-kernel</id>
+    <link href="https://github.com/Azure/sonic-linux-kernel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linux kernel drivers for SONiC project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DerpFest-12/build</title>
-    <updated>2022-06-21T01:48:49Z</updated>
-    <id>tag:github.com,2022-06-21:/DerpFest-12/build</id>
-    <link href="https://github.com/DerpFest-12/build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>temporalio/api</title>
+    <updated>2022-06-22T01:46:13Z</updated>
+    <id>tag:github.com,2022-06-22:/temporalio/api</id>
+    <link href="https://github.com/temporalio/api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Temporal gRPC API and proto files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

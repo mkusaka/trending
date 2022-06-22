@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:38:14Z</updated>
+  <updated>2022-06-22T01:35:56Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>babashka/pods</title>
-    <updated>2022-06-21T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-21:/babashka/pods</id>
-    <link href="https://github.com/babashka/pods" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pods support for JVM and babashka&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure/tools.deps.alpha</title>
+    <updated>2022-06-22T01:35:56Z</updated>
+    <id>tag:github.com,2022-06-22:/clojure/tools.deps.alpha</id>
+    <link href="https://github.com/clojure/tools.deps.alpha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>babashka/babashka.core</title>
-    <updated>2022-06-21T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-21:/babashka/babashka.core</id>
-    <link href="https://github.com/babashka/babashka.core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Babashka core utils&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Netflix/PigPen</title>
+    <updated>2022-06-22T01:35:56Z</updated>
+    <id>tag:github.com,2022-06-22:/Netflix/PigPen</id>
+    <link href="https://github.com/Netflix/PigPen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Map-Reduce for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>puppetlabs/jdbc-util</title>
-    <updated>2022-06-21T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-21:/puppetlabs/jdbc-util</id>
-    <link href="https://github.com/puppetlabs/jdbc-util" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common jdbc utilities for use in Puppet Labs clojure projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Netflix/mantis-mql</title>
+    <updated>2022-06-22T01:35:56Z</updated>
+    <id>tag:github.com,2022-06-22:/Netflix/mantis-mql</id>
+    <link href="https://github.com/Netflix/mantis-mql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

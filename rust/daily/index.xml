@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:55:42Z</updated>
+  <updated>2022-06-22T01:53:09Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SergioBenitez/Rocket</title>
-    <updated>2022-06-21T01:55:42Z</updated>
-    <id>tag:github.com,2022-06-21:/SergioBenitez/Rocket</id>
-    <link href="https://github.com/SergioBenitez/Rocket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web framework for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SeaQL/sea-orm</title>
+    <updated>2022-06-22T01:53:09Z</updated>
+    <id>tag:github.com,2022-06-22:/SeaQL/sea-orm</id>
+    <link href="https://github.com/SeaQL/sea-orm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐚 An async &amp; dynamic ORM for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>messense/aliyundrive-webdav</title>
-    <updated>2022-06-21T01:55:42Z</updated>
-    <id>tag:github.com,2022-06-21:/messense/aliyundrive-webdav</id>
-    <link href="https://github.com/messense/aliyundrive-webdav" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;阿里云盘 WebDAV 服务&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qarmin/czkawka</title>
+    <updated>2022-06-22T01:53:09Z</updated>
+    <id>tag:github.com,2022-06-22:/qarmin/czkawka</id>
+    <link href="https://github.com/qarmin/czkawka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi functional app to find duplicates, empty folders, similar images etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>serenity-rs/serenity</title>
-    <updated>2022-06-21T01:55:42Z</updated>
-    <id>tag:github.com,2022-06-21:/serenity-rs/serenity</id>
-    <link href="https://github.com/serenity-rs/serenity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Rust library for the Discord API.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>actix/examples</title>
+    <updated>2022-06-22T01:53:09Z</updated>
+    <id>tag:github.com,2022-06-22:/actix/examples</id>
+    <link href="https://github.com/actix/examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community showcase and examples of Actix ecosystem usage.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

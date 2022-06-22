@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:57:46Z</updated>
+  <updated>2022-06-22T01:55:10Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jgao54/warp-hanging-example</title>
-    <updated>2022-06-21T01:57:46Z</updated>
-    <id>tag:github.com,2022-06-21:/jgao54/warp-hanging-example</id>
-    <link href="https://github.com/jgao54/warp-hanging-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bazelruby/rules_ruby</title>
+    <updated>2022-06-22T01:55:10Z</updated>
+    <id>tag:github.com,2022-06-22:/bazelruby/rules_ruby</id>
+    <link href="https://github.com/bazelruby/rules_ruby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ruby Rules for Bazel. It is, perhaps, production-ready. This project builds atop the work of Yugui, whose original rules can be found at https://github.com/yugui/rules_ruby. Please be aware there is an active fork of this project maintained by Coinbase at https://github.com/coinbase/rules_ruby.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

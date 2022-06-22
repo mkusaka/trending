@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:57:20Z</updated>
+  <updated>2022-06-22T01:54:45Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eth-sri/securify2</title>
-    <updated>2022-06-21T01:57:20Z</updated>
-    <id>tag:github.com,2022-06-21:/eth-sri/securify2</id>
-    <link href="https://github.com/eth-sri/securify2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Securify v2.0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>storming0x/ethlift-rs</title>
+    <updated>2022-06-22T01:54:45Z</updated>
+    <id>tag:github.com,2022-06-22:/storming0x/ethlift-rs</id>
+    <link href="https://github.com/storming0x/ethlift-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CLI tools intended to be use by smart contract developers for general tasks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OlympusDAO/olympus-contracts</title>
-    <updated>2022-06-21T01:57:20Z</updated>
-    <id>tag:github.com,2022-06-21:/OlympusDAO/olympus-contracts</id>
-    <link href="https://github.com/OlympusDAO/olympus-contracts" rel="alternate"></link>
+    <title>sismo-core/sismo-protocol</title>
+    <updated>2022-06-22T01:54:45Z</updated>
+    <id>tag:github.com,2022-06-22:/sismo-core/sismo-protocol</id>
+    <link href="https://github.com/sismo-core/sismo-protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contracts of the Sismo Attestation Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>farcasterxyz/contracts</title>
+    <updated>2022-06-22T01:54:45Z</updated>
+    <id>tag:github.com,2022-06-22:/farcasterxyz/contracts</id>
+    <link href="https://github.com/farcasterxyz/contracts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>VenusProtocol/venus-protocol</title>
-    <updated>2022-06-21T01:57:20Z</updated>
-    <id>tag:github.com,2022-06-21:/VenusProtocol/venus-protocol</id>
-    <link href="https://github.com/VenusProtocol/venus-protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Binance Smart Chain Venus Protocol&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-21T01:35:32Z</updated>
+  <updated>2022-06-22T01:33:18Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jongpie/NebulaLogger</title>
-    <updated>2022-06-21T01:35:32Z</updated>
-    <id>tag:github.com,2022-06-21:/jongpie/NebulaLogger</id>
-    <link href="https://github.com/jongpie/NebulaLogger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Designed for Salesforce admins, developers &amp; architects. A robust logger for Apex, Lightning Components, Flow, Process Builder &amp; Integrations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
