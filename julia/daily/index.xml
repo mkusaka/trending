@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:44:10Z</updated>
+  <updated>2022-06-23T01:43:37Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ai4energy/Ai4ELab</title>
-    <updated>2022-06-22T01:44:10Z</updated>
-    <id>tag:github.com,2022-06-22:/ai4energy/Ai4ELab</id>
-    <link href="https://github.com/ai4energy/Ai4ELab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Virtual Simulation Lab of Ai4Energy&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaCollections/DataStructures.jl</title>
-    <updated>2022-06-22T01:44:10Z</updated>
-    <id>tag:github.com,2022-06-22:/JuliaCollections/DataStructures.jl</id>
-    <link href="https://github.com/JuliaCollections/DataStructures.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia implementation of Data structures&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaParallel/DTables.jl</title>
+    <updated>2022-06-23T01:43:37Z</updated>
+    <id>tag:github.com,2022-06-23:/JuliaParallel/DTables.jl</id>
+    <link href="https://github.com/JuliaParallel/DTables.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

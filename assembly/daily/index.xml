@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:33:45Z</updated>
+  <updated>2022-06-23T01:33:49Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xmos/lib_spdif</title>
-    <updated>2022-06-22T01:33:45Z</updated>
-    <id>tag:github.com,2022-06-22:/xmos/lib_spdif</id>
-    <link href="https://github.com/xmos/lib_spdif" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;S/PDIF Library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mathieulh/Lib-PSP-iplloader-Jump-Slide-POC</title>
-    <updated>2022-06-22T01:33:45Z</updated>
-    <id>tag:github.com,2022-06-22:/mathieulh/Lib-PSP-iplloader-Jump-Slide-POC</id>
-    <link href="https://github.com/mathieulh/Lib-PSP-iplloader-Jump-Slide-POC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a proof of concept for the Lib-PSP iplloader arbitrary load address exploit which uses a jump slide to execute code in Lib-PSP iplloader context.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rfig/oc-cs360</title>
-    <updated>2022-06-22T01:33:45Z</updated>
-    <id>tag:github.com,2022-06-22:/rfig/oc-cs360</id>
-    <link href="https://github.com/rfig/oc-cs360" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

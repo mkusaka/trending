@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:46:13Z</updated>
+  <updated>2022-06-23T01:45:33Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lorien/awesome-web-scraping</title>
-    <updated>2022-06-22T01:46:13Z</updated>
-    <id>tag:github.com,2022-06-22:/lorien/awesome-web-scraping</id>
-    <link href="https://github.com/lorien/awesome-web-scraping" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of libraries, tools and APIs for web scraping and data processing.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/sonic-linux-kernel</title>
-    <updated>2022-06-22T01:46:13Z</updated>
-    <id>tag:github.com,2022-06-22:/Azure/sonic-linux-kernel</id>
-    <link href="https://github.com/Azure/sonic-linux-kernel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Linux kernel drivers for SONiC project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>temporalio/api</title>
-    <updated>2022-06-22T01:46:13Z</updated>
-    <id>tag:github.com,2022-06-22:/temporalio/api</id>
-    <link href="https://github.com/temporalio/api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Temporal gRPC API and proto files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Clever/csvlint</title>
+    <updated>2022-06-23T01:45:33Z</updated>
+    <id>tag:github.com,2022-06-23:/Clever/csvlint</id>
+    <link href="https://github.com/Clever/csvlint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;library and command line tool that validates a CSV file&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

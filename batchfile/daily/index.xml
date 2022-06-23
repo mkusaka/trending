@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:34:12Z</updated>
+  <updated>2022-06-23T01:34:13Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DiligentGraphics/DiligentEngine</title>
-    <updated>2022-06-22T01:34:12Z</updated>
-    <id>tag:github.com,2022-06-22:/DiligentGraphics/DiligentEngine</id>
-    <link href="https://github.com/DiligentGraphics/DiligentEngine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern cross-platform low-level graphics library and rendering framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dracula/mixplorer</title>
+    <updated>2022-06-23T01:34:13Z</updated>
+    <id>tag:github.com,2022-06-23:/dracula/mixplorer</id>
+    <link href="https://github.com/dracula/mixplorer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dark theme for MiXplorer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xz5116/ActivateMicrosoftProduct</title>
-    <updated>2022-06-22T01:34:12Z</updated>
-    <id>tag:github.com,2022-06-22:/xz5116/ActivateMicrosoftProduct</id>
-    <link href="https://github.com/xz5116/ActivateMicrosoftProduct" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;激活大部分微软产品和Windows系统&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>npocmaka/batch.scripts</title>
+    <updated>2022-06-23T01:34:13Z</updated>
+    <id>tag:github.com,2022-06-23:/npocmaka/batch.scripts</id>
+    <link href="https://github.com/npocmaka/batch.scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;batch script utils and examples by npocmaka -&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nanakuryana41/RDPNanaGratis</title>
-    <updated>2022-06-22T01:34:12Z</updated>
-    <id>tag:github.com,2022-06-22:/nanakuryana41/RDPNanaGratis</id>
-    <link href="https://github.com/nanakuryana41/RDPNanaGratis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ManuelGil/Script-Reset-Windows-Update-Tool</title>
+    <updated>2022-06-23T01:34:13Z</updated>
+    <id>tag:github.com,2022-06-23:/ManuelGil/Script-Reset-Windows-Update-Tool</id>
+    <link href="https://github.com/ManuelGil/Script-Reset-Windows-Update-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This script reset the Windows Update Components.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

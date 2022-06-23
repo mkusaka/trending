@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:41:58Z</updated>
+  <updated>2022-06-23T01:41:28Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Netflix/asgard</title>
-    <updated>2022-06-22T01:41:58Z</updated>
-    <id>tag:github.com,2022-06-22:/Netflix/asgard</id>
-    <link href="https://github.com/Netflix/asgard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Netflix/awsobjectmapper</title>
-    <updated>2022-06-22T01:41:58Z</updated>
-    <id>tag:github.com,2022-06-22:/Netflix/awsobjectmapper</id>
-    <link href="https://github.com/Netflix/awsobjectmapper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serializing / deserializing library for AWS objects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Unity-Technologies/kaizen</title>
+    <updated>2022-06-23T01:41:28Z</updated>
+    <id>tag:github.com,2022-06-23:/Unity-Technologies/kaizen</id>
+    <link href="https://github.com/Unity-Technologies/kaizen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

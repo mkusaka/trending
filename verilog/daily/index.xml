@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:57:33Z</updated>
+  <updated>2022-06-23T01:56:01Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bespoke-silicon-group/basejump_stl</title>
-    <updated>2022-06-22T01:57:33Z</updated>
-    <id>tag:github.com,2022-06-22:/bespoke-silicon-group/basejump_stl</id>
-    <link href="https://github.com/bespoke-silicon-group/basejump_stl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BaseJump STL: A Standard Template Library for SystemVerilog&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

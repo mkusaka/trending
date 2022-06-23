@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fluent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:40:06Z</updated>
+  <updated>2022-06-23T01:39:42Z</updated>
   <subtitle>Daily Trending of Fluent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rust-lang/www.rust-lang.org</title>
-    <updated>2022-06-22T01:40:06Z</updated>
-    <id>tag:github.com,2022-06-22:/rust-lang/www.rust-lang.org</id>
-    <link href="https://github.com/rust-lang/www.rust-lang.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The home of the Rust website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

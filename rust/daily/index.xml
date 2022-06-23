@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:53:09Z</updated>
+  <updated>2022-06-23T01:51:57Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SeaQL/sea-orm</title>
-    <updated>2022-06-22T01:53:09Z</updated>
-    <id>tag:github.com,2022-06-22:/SeaQL/sea-orm</id>
-    <link href="https://github.com/SeaQL/sea-orm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐚 An async &amp; dynamic ORM for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>singularity-data/risingwave</title>
+    <updated>2022-06-23T01:51:57Z</updated>
+    <id>tag:github.com,2022-06-23:/singularity-data/risingwave</id>
+    <link href="https://github.com/singularity-data/risingwave" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RisingWave: the next-generation streaming database in the cloud.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>qarmin/czkawka</title>
-    <updated>2022-06-22T01:53:09Z</updated>
-    <id>tag:github.com,2022-06-22:/qarmin/czkawka</id>
-    <link href="https://github.com/qarmin/czkawka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi functional app to find duplicates, empty folders, similar images etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Maius-Protocol/maius-core</title>
+    <updated>2022-06-23T01:51:57Z</updated>
+    <id>tag:github.com,2022-06-23:/Maius-Protocol/maius-core</id>
+    <link href="https://github.com/Maius-Protocol/maius-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;We build a subscription payment solution on the Solana blockchain, focusing on the privacy of the customers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>actix/examples</title>
-    <updated>2022-06-22T01:53:09Z</updated>
-    <id>tag:github.com,2022-06-22:/actix/examples</id>
-    <link href="https://github.com/actix/examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community showcase and examples of Actix ecosystem usage.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wormtql/yas</title>
+    <updated>2022-06-23T01:51:57Z</updated>
+    <id>tag:github.com,2022-06-23:/wormtql/yas</id>
+    <link href="https://github.com/wormtql/yas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Superfast Genshin Impact artifacts scanner&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

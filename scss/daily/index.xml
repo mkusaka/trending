@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:53:38Z</updated>
+  <updated>2022-06-23T01:52:27Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mate-academy/layout_creativeBakery</title>
-    <updated>2022-06-22T01:53:38Z</updated>
-    <id>tag:github.com,2022-06-22:/mate-academy/layout_creativeBakery</id>
-    <link href="https://github.com/mate-academy/layout_creativeBakery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>travis-ci/docs-travis-ci-com</title>
+    <updated>2022-06-23T01:52:27Z</updated>
+    <id>tag:github.com,2022-06-23:/travis-ci/docs-travis-ci-com</id>
+    <link href="https://github.com/travis-ci/docs-travis-ci-com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Travis CI Documentation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pmarsceill/jtd-remote</title>
-    <updated>2022-06-22T01:53:38Z</updated>
-    <id>tag:github.com,2022-06-22:/pmarsceill/jtd-remote</id>
-    <link href="https://github.com/pmarsceill/jtd-remote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example of Just the Docs as a remote theme&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>components/font-awesome</title>
+    <updated>2022-06-23T01:52:27Z</updated>
+    <id>tag:github.com,2022-06-23:/components/font-awesome</id>
+    <link href="https://github.com/components/font-awesome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shim repository for Font Awesome.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dessalines/essays</title>
-    <updated>2022-06-22T01:53:38Z</updated>
-    <id>tag:github.com,2022-06-22:/dessalines/essays</id>
-    <link href="https://github.com/dessalines/essays" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>monkeyWzr/hugo-theme-cactus</title>
+    <updated>2022-06-23T01:52:27Z</updated>
+    <id>tag:github.com,2022-06-23:/monkeyWzr/hugo-theme-cactus</id>
+    <link href="https://github.com/monkeyWzr/hugo-theme-cactus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cactus theme for hugo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

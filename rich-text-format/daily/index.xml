@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:52:43Z</updated>
+  <updated>2022-06-23T01:51:32Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gbhure/docker-demo</title>
-    <updated>2022-06-22T01:52:43Z</updated>
-    <id>tag:github.com,2022-06-22:/gbhure/docker-demo</id>
-    <link href="https://github.com/gbhure/docker-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

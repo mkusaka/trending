@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:38:59Z</updated>
+  <updated>2022-06-23T01:38:52Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>caleb-bb/periscope</title>
-    <updated>2022-06-22T01:38:59Z</updated>
-    <id>tag:github.com,2022-06-22:/caleb-bb/periscope</id>
-    <link href="https://github.com/caleb-bb/periscope" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools for analyzing Phoenix Liveview applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenFn/Lightning</title>
+    <updated>2022-06-23T01:38:52Z</updated>
+    <id>tag:github.com,2022-06-23:/OpenFn/Lightning</id>
+    <link href="https://github.com/OpenFn/Lightning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightning extends OpenFn&#39;s existing DPG, providing a web UI to visually manage complex workflow automation projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thoughtbot/ex_machina</title>
+    <updated>2022-06-23T01:38:52Z</updated>
+    <id>tag:github.com,2022-06-23:/thoughtbot/ex_machina</id>
+    <link href="https://github.com/thoughtbot/ex_machina" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create test data for Elixir applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bitwalker/libgraph</title>
+    <updated>2022-06-23T01:38:52Z</updated>
+    <id>tag:github.com,2022-06-23:/bitwalker/libgraph</id>
+    <link href="https://github.com/bitwalker/libgraph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A graph data structure library for Elixir projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:39:40Z</updated>
+  <updated>2022-06-23T01:39:20Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>adgear/consent-string</title>
-    <updated>2022-06-22T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-22:/adgear/consent-string</id>
-    <link href="https://github.com/adgear/consent-string" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang IAB consent-string library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>certifi/erlang-certifi</title>
+    <updated>2022-06-23T01:39:20Z</updated>
+    <id>tag:github.com,2022-06-23:/certifi/erlang-certifi</id>
+    <link href="https://github.com/certifi/erlang-certifi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SSL Certificates for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>antonhaw/VS-A1</title>
-    <updated>2022-06-22T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-22:/antonhaw/VS-A1</id>
-    <link href="https://github.com/antonhaw/VS-A1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kivra/id_token</title>
+    <updated>2022-06-23T01:39:20Z</updated>
+    <id>tag:github.com,2022-06-23:/kivra/id_token</id>
+    <link href="https://github.com/kivra/id_token" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang application to easily handle ID tokens&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aeternity/aesophia</title>
-    <updated>2022-06-22T01:39:40Z</updated>
-    <id>tag:github.com,2022-06-22:/aeternity/aesophia</id>
-    <link href="https://github.com/aeternity/aesophia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stand alone compiler for the Sophia smart contract language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>benoitc/unicode_util_compat</title>
+    <updated>2022-06-23T01:39:20Z</updated>
+    <id>tag:github.com,2022-06-23:/benoitc/unicode_util_compat</id>
+    <link href="https://github.com/benoitc/unicode_util_compat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;unicode_util compatibility library for Erlang &lt; 20&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

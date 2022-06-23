@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:32:16Z</updated>
+  <updated>2022-06-23T01:32:24Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>daffainfo/AllAboutBugBounty</title>
-    <updated>2022-06-22T01:32:16Z</updated>
-    <id>tag:github.com,2022-06-22:/daffainfo/AllAboutBugBounty</id>
-    <link href="https://github.com/daffainfo/AllAboutBugBounty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All about bug bounty (bypasses, payloads, and etc)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Reiten966/Polyformer</title>
+    <updated>2022-06-23T01:32:24Z</updated>
+    <id>tag:github.com,2022-06-23:/Reiten966/Polyformer</id>
+    <link href="https://github.com/Reiten966/Polyformer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polyformer is an open-source project that aims to recycle plastics into FDM filaments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Q930844N/awesome_tech_content</title>
-    <updated>2022-06-22T01:32:16Z</updated>
-    <id>tag:github.com,2022-06-22:/Q930844N/awesome_tech_content</id>
-    <link href="https://github.com/Q930844N/awesome_tech_content" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Technology related content shared by folks on LinkedIn. I have collected, categorized and stored here. This content includes, Notes, Interview Questions, Leetcode Solutions, Hackerrank Solutions, Cheat sheets diagrams, Books etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Technawi/SOC-Analyst-Diploma</title>
+    <updated>2022-06-23T01:32:24Z</updated>
+    <id>tag:github.com,2022-06-23:/Technawi/SOC-Analyst-Diploma</id>
+    <link href="https://github.com/Technawi/SOC-Analyst-Diploma" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tayfunerbilen/react-bootcamp-notlari</title>
-    <updated>2022-06-22T01:32:16Z</updated>
-    <id>tag:github.com,2022-06-22:/tayfunerbilen/react-bootcamp-notlari</id>
-    <link href="https://github.com/tayfunerbilen/react-bootcamp-notlari" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;React&#39;e yeni başlayanlar için bootcamp notları&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/PowerBI-Icons</title>
+    <updated>2022-06-23T01:32:24Z</updated>
+    <id>tag:github.com,2022-06-23:/microsoft/PowerBI-Icons</id>
+    <link href="https://github.com/microsoft/PowerBI-Icons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Icons (PNG and SVG) for Power BI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-22T01:36:10Z</updated>
+  <updated>2022-06-23T01:36:05Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>meta-toolkit/meta-cmake</title>
-    <updated>2022-06-22T01:36:10Z</updated>
-    <id>tag:github.com,2022-06-22:/meta-toolkit/meta-cmake</id>
-    <link href="https://github.com/meta-toolkit/meta-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake scripts/modules used for MeTA&#39;s build system&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/ceres_catkin</title>
+    <updated>2022-06-23T01:36:05Z</updated>
+    <id>tag:github.com,2022-06-23:/ethz-asl/ceres_catkin</id>
+    <link href="https://github.com/ethz-asl/ceres_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains ros-catkin files and a download/make script to checkout and build ceres.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jrl-umi3218/jrl-cmakemodules</title>
-    <updated>2022-06-22T01:36:10Z</updated>
-    <id>tag:github.com,2022-06-22:/jrl-umi3218/jrl-cmakemodules</id>
-    <link href="https://github.com/jrl-umi3218/jrl-cmakemodules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake utility toolbox&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uzh-rpg/dbow2_catkin</title>
+    <updated>2022-06-23T01:36:05Z</updated>
+    <id>tag:github.com,2022-06-23:/uzh-rpg/dbow2_catkin</id>
+    <link href="https://github.com/uzh-rpg/dbow2_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catkin wrapper for https://github.com/dorian3d/DBoW2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ros2/eigen3_cmake_module</title>
-    <updated>2022-06-22T01:36:10Z</updated>
-    <id>tag:github.com,2022-06-22:/ros2/eigen3_cmake_module</id>
-    <link href="https://github.com/ros2/eigen3_cmake_module" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adds a custom find module for Eigen3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ros-naoqi/naoqi_bridge_msgs</title>
+    <updated>2022-06-23T01:36:05Z</updated>
+    <id>tag:github.com,2022-06-23:/ros-naoqi/naoqi_bridge_msgs</id>
+    <link href="https://github.com/ros-naoqi/naoqi_bridge_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;commonly used message and services inside ros-naoqi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
