@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:51:57Z</updated>
+  <updated>2022-06-24T01:55:49Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>singularity-data/risingwave</title>
-    <updated>2022-06-23T01:51:57Z</updated>
-    <id>tag:github.com,2022-06-23:/singularity-data/risingwave</id>
-    <link href="https://github.com/singularity-data/risingwave" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RisingWave: the next-generation streaming database in the cloud.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fermyon/spin</title>
+    <updated>2022-06-24T01:55:49Z</updated>
+    <id>tag:github.com,2022-06-24:/fermyon/spin</id>
+    <link href="https://github.com/fermyon/spin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Maius-Protocol/maius-core</title>
-    <updated>2022-06-23T01:51:57Z</updated>
-    <id>tag:github.com,2022-06-23:/Maius-Protocol/maius-core</id>
-    <link href="https://github.com/Maius-Protocol/maius-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;We build a subscription payment solution on the Solana blockchain, focusing on the privacy of the customers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Wulf/create-rust-app</title>
+    <updated>2022-06-24T01:55:49Z</updated>
+    <id>tag:github.com,2022-06-24:/Wulf/create-rust-app</id>
+    <link href="https://github.com/Wulf/create-rust-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Set up a modern rust+react web app by running one command.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wormtql/yas</title>
-    <updated>2022-06-23T01:51:57Z</updated>
-    <id>tag:github.com,2022-06-23:/wormtql/yas</id>
-    <link href="https://github.com/wormtql/yas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Superfast Genshin Impact artifacts scanner&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tokio-rs/tracing</title>
+    <updated>2022-06-24T01:55:49Z</updated>
+    <id>tag:github.com,2022-06-24:/tokio-rs/tracing</id>
+    <link href="https://github.com/tokio-rs/tracing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Application level tracing for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

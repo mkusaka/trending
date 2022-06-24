@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:32:24Z</updated>
+  <updated>2022-06-24T01:35:51Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Reiten966/Polyformer</title>
-    <updated>2022-06-23T01:32:24Z</updated>
-    <id>tag:github.com,2022-06-23:/Reiten966/Polyformer</id>
-    <link href="https://github.com/Reiten966/Polyformer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Polyformer is an open-source project that aims to recycle plastics into FDM filaments&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Developer-Y/cs-video-courses</title>
+    <updated>2022-06-24T01:35:51Z</updated>
+    <id>tag:github.com,2022-06-24:/Developer-Y/cs-video-courses</id>
+    <link href="https://github.com/Developer-Y/cs-video-courses" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Computer Science courses with video lectures.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Technawi/SOC-Analyst-Diploma</title>
-    <updated>2022-06-23T01:32:24Z</updated>
-    <id>tag:github.com,2022-06-23:/Technawi/SOC-Analyst-Diploma</id>
-    <link href="https://github.com/Technawi/SOC-Analyst-Diploma" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dair-ai/MLOPs-Primer</title>
+    <updated>2022-06-24T01:35:51Z</updated>
+    <id>tag:github.com,2022-06-24:/dair-ai/MLOPs-Primer</id>
+    <link href="https://github.com/dair-ai/MLOPs-Primer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of resources to learn about MLOPs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/PowerBI-Icons</title>
-    <updated>2022-06-23T01:32:24Z</updated>
-    <id>tag:github.com,2022-06-23:/microsoft/PowerBI-Icons</id>
-    <link href="https://github.com/microsoft/PowerBI-Icons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Icons (PNG and SVG) for Power BI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>easychen/lean-side-bussiness</title>
+    <updated>2022-06-24T01:35:51Z</updated>
+    <id>tag:github.com,2022-06-24:/easychen/lean-side-bussiness</id>
+    <link href="https://github.com/easychen/lean-side-bussiness" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;精益副业：程序员如何优雅地做副业&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

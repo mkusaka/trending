@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:53:14Z</updated>
+  <updated>2022-06-24T01:57:07Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ba-st/Launchpad</title>
-    <updated>2022-06-23T01:53:14Z</updated>
-    <id>tag:github.com,2022-06-23:/ba-st/Launchpad</id>
-    <link href="https://github.com/ba-st/Launchpad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A command-line interface to start, list, and explain the applications available within the image&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TelescopeSt/TelescopeCytoscape</title>
+    <updated>2022-06-24T01:57:07Z</updated>
+    <id>tag:github.com,2022-06-24:/TelescopeSt/TelescopeCytoscape</id>
+    <link href="https://github.com/TelescopeSt/TelescopeCytoscape" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TelescopeCytoscape is a connector to render Telescope visualization on web via Seaside&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seandenigris/Pharo-Enhancements</title>
+    <updated>2022-06-24T01:57:07Z</updated>
+    <id>tag:github.com,2022-06-24:/seandenigris/Pharo-Enhancements</id>
+    <link href="https://github.com/seandenigris/Pharo-Enhancements" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

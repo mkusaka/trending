@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:57:32Z</updated>
+  <updated>2022-06-24T02:01:33Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KSP-CKAN/NetKAN</title>
+    <updated>2022-06-24T02:01:33Z</updated>
+    <id>tag:github.com,2022-06-24:/KSP-CKAN/NetKAN</id>
+    <link href="https://github.com/KSP-CKAN/NetKAN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Metadata files used by the NetKAN/CKAN indexer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>trinib/AdGuard-WireGuard-Unbound-DNScrypt</title>
+    <updated>2022-06-24T02:01:33Z</updated>
+    <id>tag:github.com,2022-06-24:/trinib/AdGuard-WireGuard-Unbound-DNScrypt</id>
+    <link href="https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate self-hosted network security guide ─ Protection🔒 | Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:34:13Z</updated>
+  <updated>2022-06-24T01:37:34Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dracula/mixplorer</title>
-    <updated>2022-06-23T01:34:13Z</updated>
-    <id>tag:github.com,2022-06-23:/dracula/mixplorer</id>
-    <link href="https://github.com/dracula/mixplorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dark theme for MiXplorer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SomeoneAlt-86/pc-killer</title>
+    <updated>2022-06-24T01:37:34Z</updated>
+    <id>tag:github.com,2022-06-24:/SomeoneAlt-86/pc-killer</id>
+    <link href="https://github.com/SomeoneAlt-86/pc-killer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kill any windows pc within seconds.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>npocmaka/batch.scripts</title>
-    <updated>2022-06-23T01:34:13Z</updated>
-    <id>tag:github.com,2022-06-23:/npocmaka/batch.scripts</id>
-    <link href="https://github.com/npocmaka/batch.scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;batch script utils and examples by npocmaka -&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FirewallSH567/TechToBangla</title>
+    <updated>2022-06-24T01:37:34Z</updated>
+    <id>tag:github.com,2022-06-24:/FirewallSH567/TechToBangla</id>
+    <link href="https://github.com/FirewallSH567/TechToBangla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ManuelGil/Script-Reset-Windows-Update-Tool</title>
-    <updated>2022-06-23T01:34:13Z</updated>
-    <id>tag:github.com,2022-06-23:/ManuelGil/Script-Reset-Windows-Update-Tool</id>
-    <link href="https://github.com/ManuelGil/Script-Reset-Windows-Update-Tool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This script reset the Windows Update Components.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anhduyvst-io/RDPWINDOWS2019</title>
+    <updated>2022-06-24T01:37:34Z</updated>
+    <id>tag:github.com,2022-06-24:/anhduyvst-io/RDPWINDOWS2019</id>
+    <link href="https://github.com/anhduyvst-io/RDPWINDOWS2019" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

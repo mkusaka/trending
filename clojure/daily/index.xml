@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:35:55Z</updated>
+  <updated>2022-06-24T01:39:21Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mdrobulis/Naming</title>
-    <updated>2022-06-23T01:35:55Z</updated>
-    <id>tag:github.com,2022-06-23:/mdrobulis/Naming</id>
-    <link href="https://github.com/mdrobulis/Naming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lists of all kinds of related names for use in software&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>athos/Postmortem</title>
+    <updated>2022-06-24T01:39:21Z</updated>
+    <id>tag:github.com,2022-06-24:/athos/Postmortem</id>
+    <link href="https://github.com/athos/Postmortem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiny data-oriented debugging tool for Clojure(Script), powered by transducers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>juxt/site</title>
-    <updated>2022-06-23T01:35:55Z</updated>
-    <id>tag:github.com,2022-06-23:/juxt/site</id>
-    <link href="https://github.com/juxt/site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web and API server, powered by xtdb.com (previously known as Crux)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure-lsp/homebrew-brew</title>
+    <updated>2022-06-24T01:39:21Z</updated>
+    <id>tag:github.com,2022-06-24:/clojure-lsp/homebrew-brew</id>
+    <link href="https://github.com/clojure-lsp/homebrew-brew" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official clojure-lsp tap homebrew tap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vefjun/joodat</title>
+    <updated>2022-06-24T01:39:21Z</updated>
+    <id>tag:github.com,2022-06-24:/vefjun/joodat</id>
+    <link href="https://github.com/vefjun/joodat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web application built with Joodo and Datomic&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

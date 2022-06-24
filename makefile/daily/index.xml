@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:45:33Z</updated>
+  <updated>2022-06-24T01:49:09Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Clever/csvlint</title>
-    <updated>2022-06-23T01:45:33Z</updated>
-    <id>tag:github.com,2022-06-23:/Clever/csvlint</id>
-    <link href="https://github.com/Clever/csvlint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;library and command line tool that validates a CSV file&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>olxbr/es-cerebro</title>
+    <updated>2022-06-24T01:49:09Z</updated>
+    <id>tag:github.com,2022-06-24:/olxbr/es-cerebro</id>
+    <link href="https://github.com/olxbr/es-cerebro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>olxbr/kafka-manager</title>
+    <updated>2022-06-24T01:49:09Z</updated>
+    <id>tag:github.com,2022-06-24:/olxbr/kafka-manager</id>
+    <link href="https://github.com/olxbr/kafka-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dockerized kafka-manager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ArrowOS/android_vendor_arrow</title>
+    <updated>2022-06-24T01:49:09Z</updated>
+    <id>tag:github.com,2022-06-24:/ArrowOS/android_vendor_arrow</id>
+    <link href="https://github.com/ArrowOS/android_vendor_arrow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

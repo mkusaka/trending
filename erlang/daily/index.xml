@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:39:20Z</updated>
+  <updated>2022-06-24T01:42:48Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>certifi/erlang-certifi</title>
-    <updated>2022-06-23T01:39:20Z</updated>
-    <id>tag:github.com,2022-06-23:/certifi/erlang-certifi</id>
-    <link href="https://github.com/certifi/erlang-certifi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SSL Certificates for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kivra/id_token</title>
-    <updated>2022-06-23T01:39:20Z</updated>
-    <id>tag:github.com,2022-06-23:/kivra/id_token</id>
-    <link href="https://github.com/kivra/id_token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang application to easily handle ID tokens&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>benoitc/unicode_util_compat</title>
-    <updated>2022-06-23T01:39:20Z</updated>
-    <id>tag:github.com,2022-06-23:/benoitc/unicode_util_compat</id>
-    <link href="https://github.com/benoitc/unicode_util_compat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;unicode_util compatibility library for Erlang &lt; 20&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nalundgaard/jsn</title>
+    <updated>2022-06-24T01:42:48Z</updated>
+    <id>tag:github.com,2022-06-24:/nalundgaard/jsn</id>
+    <link href="https://github.com/nalundgaard/jsn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilities for interacting with decoded JSON in erlang&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AngelScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:33:10Z</updated>
+  <updated>2022-06-24T01:36:35Z</updated>
   <subtitle>Daily Trending of AngelScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Exhen/PotplayerChineseSubs_assrt</title>
+    <updated>2022-06-24T01:36:35Z</updated>
+    <id>tag:github.com,2022-06-24:/Exhen/PotplayerChineseSubs_assrt</id>
+    <link href="https://github.com/Exhen/PotplayerChineseSubs_assrt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;assrt的Potplayer字幕搜索下载插件&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

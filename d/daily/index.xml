@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-23T01:37:08Z</updated>
+  <updated>2022-06-24T01:40:33Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>beingenious/titanium-modules</title>
+    <updated>2022-06-24T01:40:33Z</updated>
+    <id>tag:github.com,2022-06-24:/beingenious/titanium-modules</id>
+    <link href="https://github.com/beingenious/titanium-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
