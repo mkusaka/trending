@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-24T01:39:21Z</updated>
+  <updated>2022-06-25T01:35:59Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>athos/Postmortem</title>
-    <updated>2022-06-24T01:39:21Z</updated>
-    <id>tag:github.com,2022-06-24:/athos/Postmortem</id>
-    <link href="https://github.com/athos/Postmortem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny data-oriented debugging tool for Clojure(Script), powered by transducers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ovotech/kafka-avro-confluent</title>
+    <updated>2022-06-25T01:35:59Z</updated>
+    <id>tag:github.com,2022-06-25:/ovotech/kafka-avro-confluent</id>
+    <link href="https://github.com/ovotech/kafka-avro-confluent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kafka De/Serializer using avro and Confluent&#39;s Schema Registry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clojure-lsp/homebrew-brew</title>
-    <updated>2022-06-24T01:39:21Z</updated>
-    <id>tag:github.com,2022-06-24:/clojure-lsp/homebrew-brew</id>
-    <link href="https://github.com/clojure-lsp/homebrew-brew" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official clojure-lsp tap homebrew tap&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ovotech/ring-jwt</title>
+    <updated>2022-06-25T01:35:59Z</updated>
+    <id>tag:github.com,2022-06-25:/ovotech/ring-jwt</id>
+    <link href="https://github.com/ovotech/ring-jwt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ring middleware to parse, decide and verify JWT tokens&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vefjun/joodat</title>
-    <updated>2022-06-24T01:39:21Z</updated>
-    <id>tag:github.com,2022-06-24:/vefjun/joodat</id>
-    <link href="https://github.com/vefjun/joodat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web application built with Joodo and Datomic&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>borkdude/jet</title>
+    <updated>2022-06-25T01:35:59Z</updated>
+    <id>tag:github.com,2022-06-25:/borkdude/jet</id>
+    <link href="https://github.com/borkdude/jet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CLI to transform between JSON, EDN and Transit, powered with a minimal query language.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

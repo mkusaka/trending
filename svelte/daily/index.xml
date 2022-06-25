@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-24T01:57:58Z</updated>
+  <updated>2022-06-25T01:54:09Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Rich-Harris/svelte-cubed</title>
-    <updated>2022-06-24T01:57:58Z</updated>
-    <id>tag:github.com,2022-06-24:/Rich-Harris/svelte-cubed</id>
-    <link href="https://github.com/Rich-Harris/svelte-cubed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte ❤️ Three&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-source-labs/Svelvet</title>
+    <updated>2022-06-25T01:54:09Z</updated>
+    <id>tag:github.com,2022-06-25:/open-source-labs/Svelvet</id>
+    <link href="https://github.com/open-source-labs/Svelvet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight Svelte component library for building interactive node-based flow diagrams&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

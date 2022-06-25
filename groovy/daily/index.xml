@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-24T01:45:00Z</updated>
+  <updated>2022-06-25T01:41:27Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>electric-cloud-community/EC-WindowsServiceControl</title>
-    <updated>2022-06-24T01:45:00Z</updated>
-    <id>tag:github.com,2022-06-24:/electric-cloud-community/EC-WindowsServiceControl</id>
-    <link href="https://github.com/electric-cloud-community/EC-WindowsServiceControl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>scubaandre/SmartThings-Styrbar</title>
-    <updated>2022-06-24T01:45:00Z</updated>
-    <id>tag:github.com,2022-06-24:/scubaandre/SmartThings-Styrbar</id>
-    <link href="https://github.com/scubaandre/SmartThings-Styrbar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Styrbar four buttons remote device handler for Smartthings.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HariSekhon/Jenkins</title>
-    <updated>2022-06-24T01:45:00Z</updated>
-    <id>tag:github.com,2022-06-24:/HariSekhon/Jenkins</id>
-    <link href="https://github.com/HariSekhon/Jenkins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advanced Jenkinsfile &amp; Jenkins Shared Library (Groovy)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iquix/Smartthings</title>
+    <updated>2022-06-25T01:41:27Z</updated>
+    <id>tag:github.com,2022-06-25:/iquix/Smartthings</id>
+    <link href="https://github.com/iquix/Smartthings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom DTHs for Smartthings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

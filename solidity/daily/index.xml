@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-24T01:57:15Z</updated>
+  <updated>2022-06-25T01:53:28Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>itublockchain/web3-bootcamp</title>
-    <updated>2022-06-24T01:57:15Z</updated>
-    <id>tag:github.com,2022-06-24:/itublockchain/web3-bootcamp</id>
-    <link href="https://github.com/itublockchain/web3-bootcamp" rel="alternate"></link>
+    <title>hrkrshnn/seaport-utils</title>
+    <updated>2022-06-25T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-25:/hrkrshnn/seaport-utils</id>
+    <link href="https://github.com/hrkrshnn/seaport-utils" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maple-labs/proxy-factory</title>
-    <updated>2022-06-24T01:57:15Z</updated>
-    <id>tag:github.com,2022-06-24:/maple-labs/proxy-factory</id>
-    <link href="https://github.com/maple-labs/proxy-factory" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generic factory for deploying upgradeable proxy contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tintinweb/smart-contract-sanctuary-arbitrum</title>
+    <updated>2022-06-25T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-25:/tintinweb/smart-contract-sanctuary-arbitrum</id>
+    <link href="https://github.com/tintinweb/smart-contract-sanctuary-arbitrum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2022-06-illuminate</title>
-    <updated>2022-06-24T01:57:15Z</updated>
-    <id>tag:github.com,2022-06-24:/code-423n4/2022-06-illuminate</id>
-    <link href="https://github.com/code-423n4/2022-06-illuminate" rel="alternate"></link>
+    <title>Tapioca-DAO/Tapioca-bar</title>
+    <updated>2022-06-25T01:53:28Z</updated>
+    <id>tag:github.com,2022-06-25:/Tapioca-DAO/Tapioca-bar</id>
+    <link href="https://github.com/Tapioca-DAO/Tapioca-bar" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

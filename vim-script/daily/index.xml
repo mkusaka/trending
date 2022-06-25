@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-24T02:00:11Z</updated>
+  <updated>2022-06-25T01:56:24Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0rion3/dock</title>
-    <updated>2022-06-24T02:00:11Z</updated>
-    <id>tag:github.com,2022-06-24:/0rion3/dock</id>
-    <link href="https://github.com/0rion3/dock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pain-free containers for everyday Desktop development&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpope/vim-pathogen</title>
+    <updated>2022-06-25T01:56:24Z</updated>
+    <id>tag:github.com,2022-06-25:/tpope/vim-pathogen</id>
+    <link href="https://github.com/tpope/vim-pathogen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pathogen.vim: manage your runtimepath&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jlanzarotta/bufexplorer</title>
-    <updated>2022-06-24T02:00:11Z</updated>
-    <id>tag:github.com,2022-06-24:/jlanzarotta/bufexplorer</id>
-    <link href="https://github.com/jlanzarotta/bufexplorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BufExplorer Plugin for Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prabirshrestha/asyncomplete-buffer.vim</title>
-    <updated>2022-06-24T02:00:11Z</updated>
-    <id>tag:github.com,2022-06-24:/prabirshrestha/asyncomplete-buffer.vim</id>
-    <link href="https://github.com/prabirshrestha/asyncomplete-buffer.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;provides buffer autocomplete for asyncomplete.vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>voldikss/vim-translator</title>
+    <updated>2022-06-25T01:56:24Z</updated>
+    <id>tag:github.com,2022-06-25:/voldikss/vim-translator</id>
+    <link href="https://github.com/voldikss/vim-translator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📕 Translating plugin for Vim/Neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
