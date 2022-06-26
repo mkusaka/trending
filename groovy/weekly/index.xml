@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:12:07Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>groovejs/groovejs</title>
+    <updated>2022-06-26T02:12:07Z</updated>
+    <id>tag:github.com,2022-06-26:/groovejs/groovejs</id>
+    <link href="https://github.com/groovejs/groovejs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Groovy-like compiler targeting JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yeochinyi/groovy-web-console</title>
+    <updated>2022-06-26T02:12:07Z</updated>
+    <id>tag:github.com,2022-06-26:/yeochinyi/groovy-web-console</id>
+    <link href="https://github.com/yeochinyi/groovy-web-console" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Groovy Console in WAR&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cplim/closure-stylesheets</title>
+    <updated>2022-06-26T02:12:07Z</updated>
+    <id>tag:github.com,2022-06-26:/cplim/closure-stylesheets</id>
+    <link href="https://github.com/cplim/closure-stylesheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

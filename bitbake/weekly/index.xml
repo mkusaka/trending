@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:04:46Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>meta-qt5/meta-qt5</title>
+    <updated>2022-06-26T02:04:46Z</updated>
+    <id>tag:github.com,2022-06-26:/meta-qt5/meta-qt5</id>
+    <link href="https://github.com/meta-qt5/meta-qt5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QT5 layer for openembedded&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Xilinx/meta-xilinx-tools</title>
+    <updated>2022-06-26T02:04:46Z</updated>
+    <id>tag:github.com,2022-06-26:/Xilinx/meta-xilinx-tools</id>
+    <link href="https://github.com/Xilinx/meta-xilinx-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Freescale/meta-freescale-distro</title>
+    <updated>2022-06-26T02:04:46Z</updated>
+    <id>tag:github.com,2022-06-26:/Freescale/meta-freescale-distro</id>
+    <link href="https://github.com/Freescale/meta-freescale-distro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenEmbedded/Yocto BSP layer for Freescale&#39;s ARM based platforms&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

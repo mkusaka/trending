@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:34:14Z</updated>
+  <updated>2022-06-26T01:35:41Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bill-zhanxg/MEMZ_Destructive_Clean-Download</title>
+    <updated>2022-06-26T01:35:41Z</updated>
+    <id>tag:github.com,2022-06-26:/bill-zhanxg/MEMZ_Destructive_Clean-Download</id>
+    <link href="https://github.com/bill-zhanxg/MEMZ_Destructive_Clean-Download" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kentacok03/rdpfree</title>
+    <updated>2022-06-26T01:35:41Z</updated>
+    <id>tag:github.com,2022-06-26:/Kentacok03/rdpfree</id>
+    <link href="https://github.com/Kentacok03/rdpfree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>allcoolthingsatoneplace/UnrealPakTool</title>
+    <updated>2022-06-26T01:35:41Z</updated>
+    <id>tag:github.com,2022-06-26:/allcoolthingsatoneplace/UnrealPakTool</id>
+    <link href="https://github.com/allcoolthingsatoneplace/UnrealPakTool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;UnrealPak 4.27.0 [ Tool ] -extract *.pak files for Unreal Engine 4 [win64]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

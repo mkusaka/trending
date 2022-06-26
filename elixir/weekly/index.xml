@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:09:24Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>phoenixframework/phoenix</title>
+    <updated>2022-06-26T02:09:24Z</updated>
+    <id>tag:github.com,2022-06-26:/phoenixframework/phoenix</id>
+    <link href="https://github.com/phoenixframework/phoenix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Peace of mind from prototype to production&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blockscout/blockscout</title>
+    <updated>2022-06-26T02:09:24Z</updated>
+    <id>tag:github.com,2022-06-26:/blockscout/blockscout</id>
+    <link href="https://github.com/blockscout/blockscout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-ecto/ecto</title>
+    <updated>2022-06-26T02:09:24Z</updated>
+    <id>tag:github.com,2022-06-26:/elixir-ecto/ecto</id>
+    <link href="https://github.com/elixir-ecto/ecto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit for data mapping and language integrated query.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

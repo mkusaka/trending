@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:33:53Z</updated>
+  <updated>2022-06-26T01:35:21Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Lailloken/Lailloken-UI</title>
+    <updated>2022-06-26T01:35:21Z</updated>
+    <id>tag:github.com,2022-06-26:/Lailloken/Lailloken-UI</id>
+    <link href="https://github.com/Lailloken/Lailloken-UI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A light-weight AHK script with UI extensions and QoL features for Path of Exile, emphasizing ease-of-use, minimalist design, and seamless integration into the game-client.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nigh/I-wanna-clean-keyboard</title>
+    <updated>2022-06-26T01:35:21Z</updated>
+    <id>tag:github.com,2022-06-26:/Nigh/I-wanna-clean-keyboard</id>
+    <link href="https://github.com/Nigh/I-wanna-clean-keyboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This app won&#39;t clean your keyboard... but it could block the keyboard input when you were cleaning the keyboard...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

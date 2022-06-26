@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Open Policy Agent Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:19:08Z</updated>
+  <subtitle>Weekly Trending of Open Policy Agent in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>scribe-public/gitgat</title>
+    <updated>2022-06-26T02:19:08Z</updated>
+    <id>tag:github.com,2022-06-26:/scribe-public/gitgat</id>
+    <link href="https://github.com/scribe-public/gitgat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Evaluate source control (GitHub) security posture&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

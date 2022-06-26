@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:43:37Z</updated>
+  <updated>2022-06-26T01:45:32Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LCSB-BioCore/PikaParser.jl</title>
+    <updated>2022-06-26T01:45:32Z</updated>
+    <id>tag:github.com,2022-06-26:/LCSB-BioCore/PikaParser.jl</id>
+    <link href="https://github.com/LCSB-BioCore/PikaParser.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Julia implementation of pika parser.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaSmoothOptimizers/Krylov.jl</title>
+    <updated>2022-06-26T01:45:32Z</updated>
+    <id>tag:github.com,2022-06-26:/JuliaSmoothOptimizers/Krylov.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/Krylov.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia Basket of Hand-Picked Krylov Methods&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>agerlach/Flowstar.jl</title>
+    <updated>2022-06-26T01:45:32Z</updated>
+    <id>tag:github.com,2022-06-26:/agerlach/Flowstar.jl</id>
+    <link href="https://github.com/agerlach/Flowstar.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia wrapper for Flow*&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:11:25Z</updated>
+  <subtitle>Weekly Trending of GLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bambosan/BSBE-Renewed</title>
+    <updated>2022-06-26T02:11:25Z</updated>
+    <id>tag:github.com,2022-06-26:/bambosan/BSBE-Renewed</id>
+    <link href="https://github.com/bambosan/BSBE-Renewed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a shader for minecraft be&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hooke007/MPV_lazy</title>
+    <updated>2022-06-26T02:11:25Z</updated>
+    <id>tag:github.com,2022-06-26:/hooke007/MPV_lazy</id>
+    <link href="https://github.com/hooke007/MPV_lazy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 快速帮助萌新入门 ； mpv-lazy 懒人包 win10 x64&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BruceKnowsHow/Ebin-Shaders</title>
+    <updated>2022-06-26T02:11:25Z</updated>
+    <id>tag:github.com,2022-06-26:/BruceKnowsHow/Ebin-Shaders</id>
+    <link href="https://github.com/BruceKnowsHow/Ebin-Shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:52:31Z</updated>
+  <updated>2022-06-26T01:54:44Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mate-academy/Kickstarter</title>
-    <updated>2022-06-25T01:52:31Z</updated>
-    <id>tag:github.com,2022-06-25:/mate-academy/Kickstarter</id>
-    <link href="https://github.com/mate-academy/Kickstarter" rel="alternate"></link>
+    <title>next-step/infra-subway-performance</title>
+    <updated>2022-06-26T01:54:44Z</updated>
+    <id>tag:github.com,2022-06-26:/next-step/infra-subway-performance</id>
+    <link href="https://github.com/next-step/infra-subway-performance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ValentineFernandes/Interior-Design-Website</title>
+    <updated>2022-06-26T01:54:44Z</updated>
+    <id>tag:github.com,2022-06-26:/ValentineFernandes/Interior-Design-Website</id>
+    <link href="https://github.com/ValentineFernandes/Interior-Design-Website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a interior design website.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mate-academy/Eco_cosmetics</title>
+    <updated>2022-06-26T01:54:44Z</updated>
+    <id>tag:github.com,2022-06-26:/mate-academy/Eco_cosmetics</id>
+    <link href="https://github.com/mate-academy/Eco_cosmetics" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

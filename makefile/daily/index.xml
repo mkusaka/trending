@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:45:29Z</updated>
+  <updated>2022-06-26T01:47:29Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bmwiedemann/theunreproduciblepackage</title>
-    <updated>2022-06-25T01:45:29Z</updated>
-    <id>tag:github.com,2022-06-25:/bmwiedemann/theunreproduciblepackage</id>
-    <link href="https://github.com/bmwiedemann/theunreproduciblepackage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Unreproducible Package&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>typoes/harry-potter-gen-z</title>
+    <updated>2022-06-26T01:47:29Z</updated>
+    <id>tag:github.com,2022-06-26:/typoes/harry-potter-gen-z</id>
+    <link href="https://github.com/typoes/harry-potter-gen-z" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Harry Potter: The Gen Z Edition&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LineageOS/android_device_oneplus_lemonadep</title>
-    <updated>2022-06-25T01:45:29Z</updated>
-    <id>tag:github.com,2022-06-25:/LineageOS/android_device_oneplus_lemonadep</id>
-    <link href="https://github.com/LineageOS/android_device_oneplus_lemonadep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cakephp/docs</title>
+    <updated>2022-06-26T01:47:29Z</updated>
+    <id>tag:github.com,2022-06-26:/cakephp/docs</id>
+    <link href="https://github.com/cakephp/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CakePHP CookBook&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HariSekhon/GitHub-Actions</title>
-    <updated>2022-06-25T01:45:29Z</updated>
-    <id>tag:github.com,2022-06-25:/HariSekhon/GitHub-Actions</id>
-    <link href="https://github.com/HariSekhon/GitHub-Actions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitHub Actions master template and GitHub Actions Reusable Workflows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>niudai/How-to-be-a-good-programmer</title>
+    <updated>2022-06-26T01:47:29Z</updated>
+    <id>tag:github.com,2022-06-26:/niudai/How-to-be-a-good-programmer</id>
+    <link href="https://github.com/niudai/How-to-be-a-good-programmer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I&#39;m here to tell you some amazing stuff which teacher would never tell you.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

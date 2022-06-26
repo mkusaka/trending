@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:35:59Z</updated>
+  <updated>2022-06-26T01:37:32Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ovotech/kafka-avro-confluent</title>
-    <updated>2022-06-25T01:35:59Z</updated>
-    <id>tag:github.com,2022-06-25:/ovotech/kafka-avro-confluent</id>
-    <link href="https://github.com/ovotech/kafka-avro-confluent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kafka De/Serializer using avro and Confluent&#39;s Schema Registry&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/clj-github-mock</title>
+    <updated>2022-06-26T01:37:32Z</updated>
+    <id>tag:github.com,2022-06-26:/nubank/clj-github-mock</id>
+    <link href="https://github.com/nubank/clj-github-mock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An emulator of the github api implemented in clojure to test your github app&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ovotech/ring-jwt</title>
-    <updated>2022-06-25T01:35:59Z</updated>
-    <id>tag:github.com,2022-06-25:/ovotech/ring-jwt</id>
-    <link href="https://github.com/ovotech/ring-jwt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ring middleware to parse, decide and verify JWT tokens&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/ordnungsamt</title>
+    <updated>2022-06-26T01:37:32Z</updated>
+    <id>tag:github.com,2022-06-26:/nubank/ordnungsamt</id>
+    <link href="https://github.com/nubank/ordnungsamt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;helping maintain order and consistency across code-bases&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>borkdude/jet</title>
-    <updated>2022-06-25T01:35:59Z</updated>
-    <id>tag:github.com,2022-06-25:/borkdude/jet</id>
-    <link href="https://github.com/borkdude/jet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CLI to transform between JSON, EDN and Transit, powered with a minimal query language.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/robocode-clojure</title>
+    <updated>2022-06-26T01:37:32Z</updated>
+    <id>tag:github.com,2022-06-26:/nubank/robocode-clojure</id>
+    <link href="https://github.com/nubank/robocode-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template project for building a Robocode Robot in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

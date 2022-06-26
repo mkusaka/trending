@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:23:30Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jh3y/whirl</title>
+    <updated>2022-06-26T02:23:30Z</updated>
+    <id>tag:github.com,2022-06-26:/jh3y/whirl</id>
+    <link href="https://github.com/jh3y/whirl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSS loading animations with minimal effort!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zabbix/community-templates</title>
+    <updated>2022-06-26T02:23:30Z</updated>
+    <id>tag:github.com,2022-06-26:/zabbix/community-templates</id>
+    <link href="https://github.com/zabbix/community-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zabbix Community Templates repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/TypeScript-Node-Starter</title>
+    <updated>2022-06-26T02:23:30Z</updated>
+    <id>tag:github.com,2022-06-26:/microsoft/TypeScript-Node-Starter</id>
+    <link href="https://github.com/microsoft/TypeScript-Node-Starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reference example for TypeScript and Node with a detailed README describing how to use the two together.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

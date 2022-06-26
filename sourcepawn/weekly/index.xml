@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SourcePawn Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:24:44Z</updated>
+  <subtitle>Weekly Trending of SourcePawn in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kgns/weapons</title>
+    <updated>2022-06-26T02:24:44Z</updated>
+    <id>tag:github.com,2022-06-26:/kgns/weapons</id>
+    <link href="https://github.com/kgns/weapons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CS:GO Custom Weapon Options (Skins, NameTag, StatTrak, Wear/Float, Knives)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>splewis/csgo-practice-mode</title>
+    <updated>2022-06-26T02:24:44Z</updated>
+    <id>tag:github.com,2022-06-26:/splewis/csgo-practice-mode</id>
+    <link href="https://github.com/splewis/csgo-practice-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CS:GO Sourcemod plugin for private team/individual practice servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>raziEiL/SourceMod</title>
+    <updated>2022-06-26T02:24:44Z</updated>
+    <id>tag:github.com,2022-06-26:/raziEiL/SourceMod</id>
+    <link href="https://github.com/raziEiL/SourceMod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Released on alliedmods.net&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

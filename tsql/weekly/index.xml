@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:26:31Z</updated>
+  <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TdP-esami/2019-06-05-simulazione-JDK11</title>
+    <updated>2022-06-26T02:26:31Z</updated>
+    <id>tag:github.com,2022-06-26:/TdP-esami/2019-06-05-simulazione-JDK11</id>
+    <link href="https://github.com/TdP-esami/2019-06-05-simulazione-JDK11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Conversione a JDK11 della simulazione d&#39;esame 2019-06-05&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TdP-esami/2020-01-20-JDK11</title>
+    <updated>2022-06-26T02:26:31Z</updated>
+    <id>tag:github.com,2022-06-26:/TdP-esami/2020-01-20-JDK11</id>
+    <link href="https://github.com/TdP-esami/2020-01-20-JDK11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Versione convertita a JDK 11 del tema d&#39;esame 2020-01-20&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI</title>
+    <updated>2022-06-26T02:26:31Z</updated>
+    <id>tag:github.com,2022-06-26:/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI</id>
+    <link href="https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:41:27Z</updated>
+  <updated>2022-06-26T01:43:15Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iquix/Smartthings</title>
-    <updated>2022-06-25T01:41:27Z</updated>
-    <id>tag:github.com,2022-06-25:/iquix/Smartthings</id>
-    <link href="https://github.com/iquix/Smartthings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom DTHs for Smartthings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kurron/itext-experiment</title>
+    <updated>2022-06-26T01:43:15Z</updated>
+    <id>tag:github.com,2022-06-26:/kurron/itext-experiment</id>
+    <link href="https://github.com/kurron/itext-experiment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learning about the iText PDF library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apache/bigtop</title>
+    <updated>2022-06-26T01:43:15Z</updated>
+    <id>tag:github.com,2022-06-26:/apache/bigtop</id>
+    <link href="https://github.com/apache/bigtop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of Apache Bigtop&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>qq549631030/AndroidJunkCode</title>
+    <updated>2022-06-26T01:43:15Z</updated>
+    <id>tag:github.com,2022-06-26:/qq549631030/AndroidJunkCode</id>
+    <link href="https://github.com/qq549631030/AndroidJunkCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Android马甲包生成垃圾代码插件&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

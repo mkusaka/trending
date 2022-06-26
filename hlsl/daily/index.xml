@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:42:02Z</updated>
+  <updated>2022-06-26T01:43:55Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Delt06/urp-toon-shader</title>
+    <updated>2022-06-26T01:43:55Z</updated>
+    <id>tag:github.com,2022-06-26:/Delt06/urp-toon-shader</id>
+    <link href="https://github.com/Delt06/urp-toon-shader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌔 Toon shader for Unity&#39;s Universal Render Pipeline.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

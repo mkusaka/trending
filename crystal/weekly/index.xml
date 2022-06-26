@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Crystal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:07:01Z</updated>
+  <subtitle>Weekly Trending of Crystal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CustomEntity/crNormz</title>
+    <updated>2022-06-26T02:07:01Z</updated>
+    <id>tag:github.com,2022-06-26:/CustomEntity/crNormz</id>
+    <link href="https://github.com/CustomEntity/crNormz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The best norminette tool for Epitech C projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oprypin/nightly.link</title>
+    <updated>2022-06-26T02:07:01Z</updated>
+    <id>tag:github.com,2022-06-26:/oprypin/nightly.link</id>
+    <link href="https://github.com/oprypin/nightly.link" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Downloads the latest &#34;nightly&#34; build/artifact from a continuous testing workflow&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

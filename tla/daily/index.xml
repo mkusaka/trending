@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TLA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:55:16Z</updated>
+  <updated>2022-06-26T01:57:38Z</updated>
   <subtitle>Daily Trending of TLA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ElliotSwart/pragmaticformalmodeling</title>
+    <updated>2022-06-26T01:57:38Z</updated>
+    <id>tag:github.com,2022-06-26:/ElliotSwart/pragmaticformalmodeling</id>
+    <link href="https://github.com/ElliotSwart/pragmaticformalmodeling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An instructional website with progressively worked examples of TLA+ specifications and model checking.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

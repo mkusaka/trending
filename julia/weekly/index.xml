@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:14:18Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FluxML/Flux.jl</title>
+    <updated>2022-06-26T02:14:18Z</updated>
+    <id>tag:github.com,2022-06-26:/FluxML/Flux.jl</id>
+    <link href="https://github.com/FluxML/Flux.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Relax! Flux is the ML library that doesn&#39;t make you tensor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/ModelOrderReduction.jl</title>
+    <updated>2022-06-26T02:14:18Z</updated>
+    <id>tag:github.com,2022-06-26:/SciML/ModelOrderReduction.jl</id>
+    <link href="https://github.com/SciML/ModelOrderReduction.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaIO/MultifileArrays.jl</title>
+    <updated>2022-06-26T02:14:18Z</updated>
+    <id>tag:github.com,2022-06-26:/JuliaIO/MultifileArrays.jl</id>
+    <link href="https://github.com/JuliaIO/MultifileArrays.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create a higher-dimensional array from lazily-loaded slices in separate files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

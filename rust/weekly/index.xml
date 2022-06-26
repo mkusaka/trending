@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:22:59Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sigoden/dufs</title>
+    <updated>2022-06-26T02:22:59Z</updated>
+    <id>tag:github.com,2022-06-26:/sigoden/dufs</id>
+    <link href="https://github.com/sigoden/dufs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A file server that supports static serving, uploading, searching, accessing control, webdav...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>foundry-rs/foundry</title>
+    <updated>2022-06-26T02:22:59Z</updated>
+    <id>tag:github.com,2022-06-26:/foundry-rs/foundry</id>
+    <link href="https://github.com/foundry-rs/foundry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudflare/quiche</title>
+    <updated>2022-06-26T02:22:59Z</updated>
+    <id>tag:github.com,2022-06-26:/cloudflare/quiche</id>
+    <link href="https://github.com/cloudflare/quiche" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🥧 Savoury implementation of the QUIC transport protocol and HTTP/3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

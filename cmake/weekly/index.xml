@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:06:26Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GEOS-ESM/GEOSgcm</title>
+    <updated>2022-06-26T02:06:26Z</updated>
+    <id>tag:github.com,2022-06-26:/GEOS-ESM/GEOSgcm</id>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GEOS Earth System Model GEOSgcm Fixture&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>usdot-fhwa-stol/carma-msgs</title>
+    <updated>2022-06-26T02:06:26Z</updated>
+    <id>tag:github.com,2022-06-26:/usdot-fhwa-stol/carma-msgs</id>
+    <link href="https://github.com/usdot-fhwa-stol/carma-msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS Message definitions used by the CARMA Platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eve-autonomy/audio_driver_msgs</title>
+    <updated>2022-06-26T02:06:26Z</updated>
+    <id>tag:github.com,2022-06-26:/eve-autonomy/audio_driver_msgs</id>
+    <link href="https://github.com/eve-autonomy/audio_driver_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

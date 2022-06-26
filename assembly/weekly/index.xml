@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:04:03Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SheerSt/pokewilds</title>
+    <updated>2022-06-26T02:04:03Z</updated>
+    <id>tag:github.com,2022-06-26:/SheerSt/pokewilds</id>
+    <link href="https://github.com/SheerSt/pokewilds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PokeWilds - A Gen 2 Game/Engine using libGDX&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lukechampine/blake3</title>
+    <updated>2022-06-26T02:04:03Z</updated>
+    <id>tag:github.com,2022-06-26:/lukechampine/blake3</id>
+    <link href="https://github.com/lukechampine/blake3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure-Go implementation of the BLAKE3 cryptographic hash function&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zengguocheng/e-book</title>
+    <updated>2022-06-26T02:04:03Z</updated>
+    <id>tag:github.com,2022-06-26:/zengguocheng/e-book</id>
+    <link href="https://github.com/zengguocheng/e-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;各方面的电子书籍&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

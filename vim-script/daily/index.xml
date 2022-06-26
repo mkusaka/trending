@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:56:24Z</updated>
+  <updated>2022-06-26T01:58:48Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tpope/vim-pathogen</title>
-    <updated>2022-06-25T01:56:24Z</updated>
-    <id>tag:github.com,2022-06-25:/tpope/vim-pathogen</id>
-    <link href="https://github.com/tpope/vim-pathogen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;pathogen.vim: manage your runtimepath&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wolandark/wim</title>
+    <updated>2022-06-26T01:58:48Z</updated>
+    <id>tag:github.com,2022-06-26:/wolandark/wim</id>
+    <link href="https://github.com/wolandark/wim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a Vim configuration that gets you a similar experience as spacevim but without it acting like a parasite and sitting on top of your existing Vim. This is done using native vim features with the help of some plugins.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>voldikss/vim-translator</title>
-    <updated>2022-06-25T01:56:24Z</updated>
-    <id>tag:github.com,2022-06-25:/voldikss/vim-translator</id>
-    <link href="https://github.com/voldikss/vim-translator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📕 Translating plugin for Vim/Neovim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abyr/settings.vim</title>
+    <updated>2022-06-26T01:58:48Z</updated>
+    <id>tag:github.com,2022-06-26:/abyr/settings.vim</id>
+    <link href="https://github.com/abyr/settings.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;default settings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>toshi123/dotfiles</title>
+    <updated>2022-06-26T01:58:48Z</updated>
+    <id>tag:github.com,2022-06-26:/toshi123/dotfiles</id>
+    <link href="https://github.com/toshi123/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

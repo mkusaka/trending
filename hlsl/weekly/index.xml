@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-06-26T02:12:45Z</updated>
+  <subtitle>Weekly Trending of HLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Blinue/Magpie</title>
+    <updated>2022-06-26T02:12:45Z</updated>
+    <id>tag:github.com,2022-06-26:/Blinue/Magpie</id>
+    <link href="https://github.com/Blinue/Magpie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;使游戏窗口全屏显示&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mortalitas/GShade</title>
+    <updated>2022-06-26T02:12:45Z</updated>
+    <id>tag:github.com,2022-06-26:/Mortalitas/GShade</id>
+    <link href="https://github.com/Mortalitas/GShade" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GShade is a heavily modified fork of ReShade that features numerous improvements as well as a selectively-unlocked depth buffer for specific online games.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BlueSkyDefender/Depth3D</title>
+    <updated>2022-06-26T02:12:45Z</updated>
+    <id>tag:github.com,2022-06-26:/BlueSkyDefender/Depth3D</id>
+    <link href="https://github.com/BlueSkyDefender/Depth3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Depth Based 3D &amp; Other post-process shaders&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

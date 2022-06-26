@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:56:34Z</updated>
+  <updated>2022-06-26T01:58:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SelfhostedPro/Yacht</title>
+    <updated>2022-06-26T01:58:59Z</updated>
+    <id>tag:github.com,2022-06-26:/SelfhostedPro/Yacht</id>
+    <link href="https://github.com/SelfhostedPro/Yacht" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>emqx/MQTTX</title>
+    <updated>2022-06-26T01:58:59Z</updated>
+    <id>tag:github.com,2022-06-26:/emqx/MQTTX</id>
+    <link href="https://github.com/emqx/MQTTX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elegant cross-platform MQTT 5.0 desktop client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arco-design/arco-design-pro-vue</title>
+    <updated>2022-06-26T01:58:59Z</updated>
+    <id>tag:github.com,2022-06-26:/arco-design/arco-design-pro-vue</id>
+    <link href="https://github.com/arco-design/arco-design-pro-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:53:28Z</updated>
+  <updated>2022-06-26T01:55:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hrkrshnn/seaport-utils</title>
-    <updated>2022-06-25T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-25:/hrkrshnn/seaport-utils</id>
-    <link href="https://github.com/hrkrshnn/seaport-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lifinance/lizard-token</title>
+    <updated>2022-06-26T01:55:44Z</updated>
+    <id>tag:github.com,2022-06-26:/lifinance/lizard-token</id>
+    <link href="https://github.com/lifinance/lizard-token" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LizardDAO Reward Token&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tintinweb/smart-contract-sanctuary-arbitrum</title>
-    <updated>2022-06-25T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-25:/tintinweb/smart-contract-sanctuary-arbitrum</id>
-    <link href="https://github.com/tintinweb/smart-contract-sanctuary-arbitrum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timeless-fi/yield-daddy</title>
+    <updated>2022-06-26T01:55:44Z</updated>
+    <id>tag:github.com,2022-06-26:/timeless-fi/yield-daddy</id>
+    <link href="https://github.com/timeless-fi/yield-daddy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERC-4626 wrappers for common yield-generating platforms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Tapioca-DAO/Tapioca-bar</title>
-    <updated>2022-06-25T01:53:28Z</updated>
-    <id>tag:github.com,2022-06-25:/Tapioca-DAO/Tapioca-bar</id>
-    <link href="https://github.com/Tapioca-DAO/Tapioca-bar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ProjectOpenSea/marketplace-benchmarks</title>
+    <updated>2022-06-26T01:55:44Z</updated>
+    <id>tag:github.com,2022-06-26:/ProjectOpenSea/marketplace-benchmarks</id>
+    <link href="https://github.com/ProjectOpenSea/marketplace-benchmarks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A comparison supported features and respective gas overhead for NFT marketplaces&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

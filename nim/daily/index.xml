@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-25T01:47:17Z</updated>
+  <updated>2022-06-26T01:49:20Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>status-im/nim-stew</title>
+    <updated>2022-06-26T01:49:20Z</updated>
+    <id>tag:github.com,2022-06-26:/status-im/nim-stew</id>
+    <link href="https://github.com/status-im/nim-stew" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nim-chronos</title>
+    <updated>2022-06-26T01:49:20Z</updated>
+    <id>tag:github.com,2022-06-26:/status-im/nim-chronos</id>
+    <link href="https://github.com/status-im/nim-chronos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chronos - An efficient library for asynchronous programming&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nim-serialization</title>
+    <updated>2022-06-26T01:49:20Z</updated>
+    <id>tag:github.com,2022-06-26:/status-im/nim-serialization</id>
+    <link href="https://github.com/status-im/nim-serialization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern and extensible serialization framework for Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
