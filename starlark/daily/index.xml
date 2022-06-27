@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:56:09Z</updated>
+  <updated>2022-06-27T01:55:51Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coinbase/rules_ruby</title>
-    <updated>2022-06-26T01:56:09Z</updated>
-    <id>tag:github.com,2022-06-26:/coinbase/rules_ruby</id>
-    <link href="https://github.com/coinbase/rules_ruby" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel Ruby Rules&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bazelbuild/rules_foreign_cc</title>
+    <updated>2022-06-27T01:55:51Z</updated>
+    <id>tag:github.com,2022-06-27:/bazelbuild/rules_foreign_cc</id>
+    <link href="https://github.com/bazelbuild/rules_foreign_cc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build rules for interfacing with &#34;foreign&#34; (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vaticle/dependencies</title>
+    <updated>2022-06-27T01:55:51Z</updated>
+    <id>tag:github.com,2022-06-27:/vaticle/dependencies</id>
+    <link href="https://github.com/vaticle/dependencies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel dependency declarations for build tools reused across @vaticle repositories (only for @vaticle)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:37:42Z</updated>
+  <updated>2022-06-27T01:38:20Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Orphis/boost-cmake</title>
-    <updated>2022-06-26T01:37:42Z</updated>
-    <id>tag:github.com,2022-06-26:/Orphis/boost-cmake</id>
-    <link href="https://github.com/Orphis/boost-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easy Boost integration in CMake projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ros-planning/panda_moveit_config</title>
-    <updated>2022-06-26T01:37:42Z</updated>
-    <id>tag:github.com,2022-06-26:/ros-planning/panda_moveit_config</id>
-    <link href="https://github.com/ros-planning/panda_moveit_config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Panda robot is the flagship MoveIt integration robot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ros2/orocos_kdl_vendor</title>
-    <updated>2022-06-26T01:37:42Z</updated>
-    <id>tag:github.com,2022-06-26:/ros2/orocos_kdl_vendor</id>
-    <link href="https://github.com/ros2/orocos_kdl_vendor" rel="alternate"></link>
+    <title>it-top-shambala/BookShop</title>
+    <updated>2022-06-27T01:38:20Z</updated>
+    <id>tag:github.com,2022-06-27:/it-top-shambala/BookShop</id>
+    <link href="https://github.com/it-top-shambala/BookShop" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

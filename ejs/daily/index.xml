@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:40:23Z</updated>
+  <updated>2022-06-27T01:40:42Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>godweiyang/hexo-theme-sungod</title>
+    <updated>2022-06-27T01:40:42Z</updated>
+    <id>tag:github.com,2022-06-27:/godweiyang/hexo-theme-sungod</id>
+    <link href="https://github.com/godweiyang/hexo-theme-sungod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款定制化的Hexo博客主题&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

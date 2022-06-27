@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:38:14Z</updated>
+  <updated>2022-06-27T01:38:53Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>veelenga/awesome-crystal</title>
-    <updated>2022-06-26T01:38:14Z</updated>
-    <id>tag:github.com,2022-06-26:/veelenga/awesome-crystal</id>
-    <link href="https://github.com/veelenga/awesome-crystal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💎 A collection of awesome Crystal libraries, tools, frameworks and software&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:58:48Z</updated>
+  <updated>2022-06-27T01:58:13Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wolandark/wim</title>
-    <updated>2022-06-26T01:58:48Z</updated>
-    <id>tag:github.com,2022-06-26:/wolandark/wim</id>
-    <link href="https://github.com/wolandark/wim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a Vim configuration that gets you a similar experience as spacevim but without it acting like a parasite and sitting on top of your existing Vim. This is done using native vim features with the help of some plugins.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mashirozx/Pixiv-Nginx</title>
+    <updated>2022-06-27T01:58:13Z</updated>
+    <id>tag:github.com,2022-06-27:/mashirozx/Pixiv-Nginx</id>
+    <link href="https://github.com/mashirozx/Pixiv-Nginx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;P站（Pixiv）的正确打开方式&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abyr/settings.vim</title>
-    <updated>2022-06-26T01:58:48Z</updated>
-    <id>tag:github.com,2022-06-26:/abyr/settings.vim</id>
-    <link href="https://github.com/abyr/settings.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;default settings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LnL7/vim-nix</title>
+    <updated>2022-06-27T01:58:13Z</updated>
+    <id>tag:github.com,2022-06-27:/LnL7/vim-nix</id>
+    <link href="https://github.com/LnL7/vim-nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration files for Nix http://nixos.org/nix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>toshi123/dotfiles</title>
-    <updated>2022-06-26T01:58:48Z</updated>
-    <id>tag:github.com,2022-06-26:/toshi123/dotfiles</id>
-    <link href="https://github.com/toshi123/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rafi/vim-config</title>
+    <updated>2022-06-27T01:58:13Z</updated>
+    <id>tag:github.com,2022-06-27:/rafi/vim-config</id>
+    <link href="https://github.com/rafi/vim-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lean mean Neovim machine, carefully crafted with ❤️ Use with latest Neovim.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

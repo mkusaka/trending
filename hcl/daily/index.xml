@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:43:34Z</updated>
+  <updated>2022-06-27T01:43:53Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HoussemDellai/terraform-course</title>
-    <updated>2022-06-26T01:43:34Z</updated>
-    <id>tag:github.com,2022-06-26:/HoussemDellai/terraform-course</id>
-    <link href="https://github.com/HoussemDellai/terraform-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full course for deploying Infrastructure to the Cloud using Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/terraform-aws-consul</title>
+    <updated>2022-06-27T01:43:53Z</updated>
+    <id>tag:github.com,2022-06-27:/hashicorp/terraform-aws-consul</id>
+    <link href="https://github.com/hashicorp/terraform-aws-consul" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform Module for how to run Consul on AWS using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>champ-oss/terraform-aws-mq</title>
-    <updated>2022-06-26T01:43:34Z</updated>
-    <id>tag:github.com,2022-06-26:/champ-oss/terraform-aws-mq</id>
-    <link href="https://github.com/champ-oss/terraform-aws-mq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to manage Amazon mq service with rabbit engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MichaHoffmann/tree-sitter-hcl</title>
+    <updated>2022-06-27T01:43:53Z</updated>
+    <id>tag:github.com,2022-06-27:/MichaHoffmann/tree-sitter-hcl</id>
+    <link href="https://github.com/MichaHoffmann/tree-sitter-hcl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;tree-sitter grammar for HCL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>idealo/terraform-aws-mwaa</title>
-    <updated>2022-06-26T01:43:34Z</updated>
-    <id>tag:github.com,2022-06-26:/idealo/terraform-aws-mwaa</id>
-    <link href="https://github.com/idealo/terraform-aws-mwaa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to setup Managed Workflows with Apache Airflow. (Airflow as managed service by AWS)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>champ-oss/terraform-aws-metabase</title>
+    <updated>2022-06-27T01:43:53Z</updated>
+    <id>tag:github.com,2022-06-27:/champ-oss/terraform-aws-metabase</id>
+    <link href="https://github.com/champ-oss/terraform-aws-metabase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

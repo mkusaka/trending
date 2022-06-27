@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:40:29Z</updated>
+  <updated>2022-06-27T01:40:50Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elixir-desktop/desktop</title>
-    <updated>2022-06-26T01:40:29Z</updated>
-    <id>tag:github.com,2022-06-26:/elixir-desktop/desktop</id>
-    <link href="https://github.com/elixir-desktop/desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir library to write Windows, macOS, Linux, Android apps with OTP24 &amp; Phoenix.LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NashFP/euler</title>
+    <updated>2022-06-27T01:40:50Z</updated>
+    <id>tag:github.com,2022-06-27:/NashFP/euler</id>
+    <link href="https://github.com/NashFP/euler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NashFP&#39;s Project Euler playground&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>whatyouhide/nimble_lz4</title>
-    <updated>2022-06-26T01:40:29Z</updated>
-    <id>tag:github.com,2022-06-26:/whatyouhide/nimble_lz4</id>
-    <link href="https://github.com/whatyouhide/nimble_lz4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LZ4 compression for Elixir using Rust NIFs. 🗜&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>firezone/wireguardex</title>
+    <updated>2022-06-27T01:40:50Z</updated>
+    <id>tag:github.com,2022-06-27:/firezone/wireguardex</id>
+    <link href="https://github.com/firezone/wireguardex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configure WireGuard interfaces in Elixir using Rust NIFs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bencheeorg/benchee</title>
-    <updated>2022-06-26T01:40:29Z</updated>
-    <id>tag:github.com,2022-06-26:/bencheeorg/benchee</id>
-    <link href="https://github.com/bencheeorg/benchee" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easy and extensible benchmarking in Elixir providing you with lots of statistics!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gpedic/nimble_export</title>
+    <updated>2022-06-27T01:40:50Z</updated>
+    <id>tag:github.com,2022-06-27:/gpedic/nimble_export</id>
+    <link href="https://github.com/gpedic/nimble_export" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

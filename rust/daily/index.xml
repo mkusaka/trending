@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:54:13Z</updated>
+  <updated>2022-06-27T01:54:01Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sigoden/dufs</title>
-    <updated>2022-06-26T01:54:13Z</updated>
-    <id>tag:github.com,2022-06-26:/sigoden/dufs</id>
-    <link href="https://github.com/sigoden/dufs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A file server that supports static serving, uploading, searching, accessing control, webdav...&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Morganamilo/paru</title>
+    <updated>2022-06-27T01:54:01Z</updated>
+    <id>tag:github.com,2022-06-27:/Morganamilo/paru</id>
+    <link href="https://github.com/Morganamilo/paru" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Feature packed AUR helper&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>qdrant/qdrant</title>
-    <updated>2022-06-26T01:54:13Z</updated>
-    <id>tag:github.com,2022-06-26:/qdrant/qdrant</id>
-    <link href="https://github.com/qdrant/qdrant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Qdrant - Vector Search Engine for the next generation of AI applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DioxusLabs/dioxus</title>
+    <updated>2022-06-27T01:54:01Z</updated>
+    <id>tag:github.com,2022-06-27:/DioxusLabs/dioxus</id>
+    <link href="https://github.com/DioxusLabs/dioxus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Friendly React-like GUI library for desktop, web, mobile, and more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>graphprotocol/graph-node</title>
-    <updated>2022-06-26T01:54:13Z</updated>
-    <id>tag:github.com,2022-06-26:/graphprotocol/graph-node</id>
-    <link href="https://github.com/graphprotocol/graph-node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timvisee/ffsend</title>
+    <updated>2022-06-27T01:54:01Z</updated>
+    <id>tag:github.com,2022-06-27:/timvisee/ffsend</id>
+    <link href="https://github.com/timvisee/ffsend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📬 Easily and securely share files from the command line. A fully featured Firefox Send client.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

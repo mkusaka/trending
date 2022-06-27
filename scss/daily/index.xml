@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:54:44Z</updated>
+  <updated>2022-06-27T01:54:29Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>next-step/infra-subway-performance</title>
-    <updated>2022-06-26T01:54:44Z</updated>
-    <id>tag:github.com,2022-06-26:/next-step/infra-subway-performance</id>
-    <link href="https://github.com/next-step/infra-subway-performance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jekyll/minima</title>
+    <updated>2022-06-27T01:54:29Z</updated>
+    <id>tag:github.com,2022-06-27:/jekyll/minima</id>
+    <link href="https://github.com/jekyll/minima" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ValentineFernandes/Interior-Design-Website</title>
-    <updated>2022-06-26T01:54:44Z</updated>
-    <id>tag:github.com,2022-06-26:/ValentineFernandes/Interior-Design-Website</id>
-    <link href="https://github.com/ValentineFernandes/Interior-Design-Website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a interior design website.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nana-4/materia-theme</title>
+    <updated>2022-06-27T01:54:29Z</updated>
+    <id>tag:github.com,2022-06-27:/nana-4/materia-theme</id>
+    <link href="https://github.com/nana-4/materia-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Material Design theme for GNOME/GTK based desktop environments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mate-academy/Eco_cosmetics</title>
-    <updated>2022-06-26T01:54:44Z</updated>
-    <id>tag:github.com,2022-06-26:/mate-academy/Eco_cosmetics</id>
-    <link href="https://github.com/mate-academy/Eco_cosmetics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>noatpad/typora-theme-ursine</title>
+    <updated>2022-06-27T01:54:29Z</updated>
+    <id>tag:github.com,2022-06-27:/noatpad/typora-theme-ursine</id>
+    <link href="https://github.com/noatpad/typora-theme-ursine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Typora theme, inspired by Bear&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-26T01:58:55Z</updated>
+  <updated>2022-06-27T01:58:20Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Duroska/GroupProject</title>
-    <updated>2022-06-26T01:58:55Z</updated>
-    <id>tag:github.com,2022-06-26:/Duroska/GroupProject</id>
-    <link href="https://github.com/Duroska/GroupProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UJ group project. small stuff&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
