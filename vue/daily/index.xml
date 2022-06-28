@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:58:24Z</updated>
+  <updated>2022-06-28T01:57:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>forrestchang/programmer-soft-skills</title>
-    <updated>2022-06-27T01:58:24Z</updated>
-    <id>tag:github.com,2022-06-27:/forrestchang/programmer-soft-skills</id>
-    <link href="https://github.com/forrestchang/programmer-soft-skills" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;程序员的软技能&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JustArchiNET/ASF-ui</title>
+    <updated>2022-06-28T01:57:15Z</updated>
+    <id>tag:github.com,2022-06-28:/JustArchiNET/ASF-ui</id>
+    <link href="https://github.com/JustArchiNET/ASF-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official web interface for ASF&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jzfai/vue3-admin-plus</title>
-    <updated>2022-06-27T01:58:24Z</updated>
-    <id>tag:github.com,2022-06-27:/jzfai/vue3-admin-plus</id>
-    <link href="https://github.com/jzfai/vue3-admin-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👏A magical vue3 admin using vue3(script-setup) + vite2 + element-plus&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ingdanielf8/vue-web-components</title>
+    <updated>2022-06-28T01:57:15Z</updated>
+    <id>tag:github.com,2022-06-28:/ingdanielf8/vue-web-components</id>
+    <link href="https://github.com/ingdanielf8/vue-web-components" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iamxcd/tkinter-helper</title>
-    <updated>2022-06-27T01:58:24Z</updated>
-    <id>tag:github.com,2022-06-27:/iamxcd/tkinter-helper</id>
-    <link href="https://github.com/iamxcd/tkinter-helper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;为tkinter打造的可视化拖拽布局界面设计小工具&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ddiu8081/tin</title>
+    <updated>2022-06-28T01:57:15Z</updated>
+    <id>tag:github.com,2022-06-28:/ddiu8081/tin</id>
+    <link href="https://github.com/ddiu8081/tin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mathematical arts driven by t, i and anything.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

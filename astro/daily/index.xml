@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:36:01Z</updated>
+  <updated>2022-06-28T01:34:45Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rebelchris/daily-dev-tips</title>
-    <updated>2022-06-27T01:36:01Z</updated>
-    <id>tag:github.com,2022-06-27:/rebelchris/daily-dev-tips</id>
-    <link href="https://github.com/rebelchris/daily-dev-tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A blog with daily articles on web development&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>narze/basic-svelte-for-react-and-vue-developers</title>
+    <updated>2022-06-28T01:34:45Z</updated>
+    <id>tag:github.com,2022-06-28:/narze/basic-svelte-for-react-and-vue-developers</id>
+    <link href="https://github.com/narze/basic-svelte-for-react-and-vue-developers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compare basic features between React, Vue, and Svelte, built with Astro (Svelte Meetup Thailand #1)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:58:09Z</updated>
+  <updated>2022-06-28T01:56:59Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>airhdl/spi-to-axi-bridge</title>
-    <updated>2022-06-27T01:58:09Z</updated>
-    <id>tag:github.com,2022-06-27:/airhdl/spi-to-axi-bridge</id>
-    <link href="https://github.com/airhdl/spi-to-axi-bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An SPI to AXI4-lite bridge for easy interfacing of airhdl register banks with any microcontroller.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

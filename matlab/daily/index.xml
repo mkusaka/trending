@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:47:56Z</updated>
+  <updated>2022-06-28T01:46:39Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LGA/EDBV</title>
-    <updated>2022-06-27T01:47:56Z</updated>
-    <id>tag:github.com,2022-06-27:/LGA/EDBV</id>
-    <link href="https://github.com/LGA/EDBV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EDBV Project - 2012/2013 - PixelMinotaur&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mathworks/ci-configuration-examples</title>
+    <updated>2022-06-28T01:46:39Z</updated>
+    <id>tag:github.com,2022-06-28:/mathworks/ci-configuration-examples</id>
+    <link href="https://github.com/mathworks/ci-configuration-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

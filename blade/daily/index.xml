@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:36:45Z</updated>
+  <updated>2022-06-28T01:35:31Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ignatiaindy/Integratif-IT0201-1202190022</title>
-    <updated>2022-06-27T01:36:45Z</updated>
-    <id>tag:github.com,2022-06-27:/ignatiaindy/Integratif-IT0201-1202190022</id>
-    <link href="https://github.com/ignatiaindy/Integratif-IT0201-1202190022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ignatia Indreswari || 1202190022 || IT 02-01&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

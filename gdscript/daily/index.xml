@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:42:16Z</updated>
+  <updated>2022-06-28T01:41:10Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zacYP2/godotgamejam</title>
-    <updated>2022-06-27T01:42:16Z</updated>
-    <id>tag:github.com,2022-06-27:/zacYP2/godotgamejam</id>
-    <link href="https://github.com/zacYP2/godotgamejam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GDQuest/godot-demos-2022</title>
-    <updated>2022-06-27T01:42:16Z</updated>
-    <id>tag:github.com,2022-06-27:/GDQuest/godot-demos-2022</id>
-    <link href="https://github.com/GDQuest/godot-demos-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source Godot demos for learning purposes, 2022 edition.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Calinou/godot-movie-maker-demo</title>
+    <updated>2022-06-28T01:41:10Z</updated>
+    <id>tag:github.com,2022-06-28:/Calinou/godot-movie-maker-demo</id>
+    <link href="https://github.com/Calinou/godot-movie-maker-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demo project for Godot&#39;s Movie Maker mode to generate high-quality offline videos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

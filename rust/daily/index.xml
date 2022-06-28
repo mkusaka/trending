@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:54:01Z</updated>
+  <updated>2022-06-28T01:52:45Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Morganamilo/paru</title>
-    <updated>2022-06-27T01:54:01Z</updated>
-    <id>tag:github.com,2022-06-27:/Morganamilo/paru</id>
-    <link href="https://github.com/Morganamilo/paru" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Feature packed AUR helper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>x2bool/xlite</title>
+    <updated>2022-06-28T01:52:45Z</updated>
+    <id>tag:github.com,2022-06-28:/x2bool/xlite</id>
+    <link href="https://github.com/x2bool/xlite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQLite extension to query Excel (.xlsx, .xls, .ods) files as virtual tables&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DioxusLabs/dioxus</title>
-    <updated>2022-06-27T01:54:01Z</updated>
-    <id>tag:github.com,2022-06-27:/DioxusLabs/dioxus</id>
-    <link href="https://github.com/DioxusLabs/dioxus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Friendly React-like GUI library for desktop, web, mobile, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alacritty/alacritty</title>
+    <updated>2022-06-28T01:52:45Z</updated>
+    <id>tag:github.com,2022-06-28:/alacritty/alacritty</id>
+    <link href="https://github.com/alacritty/alacritty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform, OpenGL terminal emulator.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>timvisee/ffsend</title>
-    <updated>2022-06-27T01:54:01Z</updated>
-    <id>tag:github.com,2022-06-27:/timvisee/ffsend</id>
-    <link href="https://github.com/timvisee/ffsend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📬 Easily and securely share files from the command line. A fully featured Firefox Send client.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fnapi/fnapi</title>
+    <updated>2022-06-28T01:52:45Z</updated>
+    <id>tag:github.com,2022-06-28:/fnapi/fnapi</id>
+    <link href="https://github.com/fnapi/fnapi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A function is enough&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

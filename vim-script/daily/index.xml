@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:58:13Z</updated>
+  <updated>2022-06-28T01:57:03Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mashirozx/Pixiv-Nginx</title>
-    <updated>2022-06-27T01:58:13Z</updated>
-    <id>tag:github.com,2022-06-27:/mashirozx/Pixiv-Nginx</id>
-    <link href="https://github.com/mashirozx/Pixiv-Nginx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;P站（Pixiv）的正确打开方式&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LnL7/vim-nix</title>
-    <updated>2022-06-27T01:58:13Z</updated>
-    <id>tag:github.com,2022-06-27:/LnL7/vim-nix</id>
-    <link href="https://github.com/LnL7/vim-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim configuration files for Nix http://nixos.org/nix&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rafi/vim-config</title>
-    <updated>2022-06-27T01:58:13Z</updated>
-    <id>tag:github.com,2022-06-27:/rafi/vim-config</id>
-    <link href="https://github.com/rafi/vim-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lean mean Neovim machine, carefully crafted with ❤️ Use with latest Neovim.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>altercation/vim-colors-solarized</title>
+    <updated>2022-06-28T01:57:03Z</updated>
+    <id>tag:github.com,2022-06-28:/altercation/vim-colors-solarized</id>
+    <link href="https://github.com/altercation/vim-colors-solarized" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;precision colorscheme for the vim text editor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

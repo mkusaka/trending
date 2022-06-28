@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:50:14Z</updated>
+  <updated>2022-06-28T01:48:53Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cs3110/textbook</title>
-    <updated>2022-06-27T01:50:14Z</updated>
-    <id>tag:github.com,2022-06-27:/cs3110/textbook</id>
-    <link href="https://github.com/cs3110/textbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The CS 3110 Textbook, &#34;OCaml Programming: Correct + Efficient + Beautiful&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coccinelle/coccinelle</title>
+    <updated>2022-06-28T01:48:53Z</updated>
+    <id>tag:github.com,2022-06-28:/coccinelle/coccinelle</id>
+    <link href="https://github.com/coccinelle/coccinelle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code of the Coccinelle project (mirror of the main Coccinelle repository located at Inria)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mattjbray/ocaml-decoders</title>
-    <updated>2022-06-27T01:50:14Z</updated>
-    <id>tag:github.com,2022-06-27:/mattjbray/ocaml-decoders</id>
-    <link href="https://github.com/mattjbray/ocaml-decoders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elm-inspired decoders for Ocaml&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>haesbaert/ocaml-cpu</title>
+    <updated>2022-06-28T01:48:53Z</updated>
+    <id>tag:github.com,2022-06-28:/haesbaert/ocaml-cpu</id>
+    <link href="https://github.com/haesbaert/ocaml-cpu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cpu topology and affinity for ocaml-multicore&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

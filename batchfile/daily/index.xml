@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:36:31Z</updated>
+  <updated>2022-06-28T01:35:15Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>auraside/HoneCtrl</title>
-    <updated>2022-06-27T01:36:31Z</updated>
-    <id>tag:github.com,2022-06-27:/auraside/HoneCtrl</id>
-    <link href="https://github.com/auraside/HoneCtrl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mhvuze/MonsterHunterRiseModding</title>
+    <updated>2022-06-28T01:35:15Z</updated>
+    <id>tag:github.com,2022-06-28:/mhvuze/MonsterHunterRiseModding</id>
+    <link href="https://github.com/mhvuze/MonsterHunterRiseModding" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Work in progress Wiki for modding Monster Hunter Rise.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>prestonsn/windows-10-activation-script</title>
-    <updated>2022-06-27T01:36:31Z</updated>
-    <id>tag:github.com,2022-06-27:/prestonsn/windows-10-activation-script</id>
-    <link href="https://github.com/prestonsn/windows-10-activation-script" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Windows batch file that tries Windows activation keys found around the internet.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vishalnagda1/windows-10-activator</title>
+    <updated>2022-06-28T01:35:15Z</updated>
+    <id>tag:github.com,2022-06-28:/vishalnagda1/windows-10-activator</id>
+    <link href="https://github.com/vishalnagda1/windows-10-activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

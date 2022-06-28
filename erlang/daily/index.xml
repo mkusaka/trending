@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-27T01:41:21Z</updated>
+  <updated>2022-06-28T01:40:13Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>helium/blockchain-core</title>
-    <updated>2022-06-27T01:41:21Z</updated>
-    <id>tag:github.com,2022-06-27:/helium/blockchain-core</id>
-    <link href="https://github.com/helium/blockchain-core" rel="alternate"></link>
+    <title>clojerl/clojerl</title>
+    <updated>2022-06-28T01:40:13Z</updated>
+    <id>tag:github.com,2022-06-28:/clojerl/clojerl</id>
+    <link href="https://github.com/clojerl/clojerl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure for the Erlang VM (unofficial)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>helium/erlang-lorawan</title>
+    <updated>2022-06-28T01:40:13Z</updated>
+    <id>tag:github.com,2022-06-28:/helium/erlang-lorawan</id>
+    <link href="https://github.com/helium/erlang-lorawan" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>esl/MongooseIM</title>
+    <updated>2022-06-28T01:40:13Z</updated>
+    <id>tag:github.com,2022-06-28:/esl/MongooseIM</id>
+    <link href="https://github.com/esl/MongooseIM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MongooseIM is Erlang Solutions&#39; robust, scalable and efficient XMPP server, aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant and can utilise the resources of multiple clustered machines.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
