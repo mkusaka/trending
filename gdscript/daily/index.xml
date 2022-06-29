@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-28T01:41:10Z</updated>
+  <updated>2022-06-29T01:44:03Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Calinou/godot-movie-maker-demo</title>
-    <updated>2022-06-28T01:41:10Z</updated>
-    <id>tag:github.com,2022-06-28:/Calinou/godot-movie-maker-demo</id>
-    <link href="https://github.com/Calinou/godot-movie-maker-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo project for Godot&#39;s Movie Maker mode to generate high-quality offline videos&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

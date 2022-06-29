@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-28T01:44:32Z</updated>
+  <updated>2022-06-29T01:47:27Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AlgebraicJulia/Decapodes.jl</title>
-    <updated>2022-06-28T01:44:32Z</updated>
-    <id>tag:github.com,2022-06-28:/AlgebraicJulia/Decapodes.jl</id>
-    <link href="https://github.com/AlgebraicJulia/Decapodes.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for composing and simulating multiphysics systems&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BioTurboNick/AbbreviatedStackTraces.jl</title>
-    <updated>2022-06-28T01:44:32Z</updated>
-    <id>tag:github.com,2022-06-28:/BioTurboNick/AbbreviatedStackTraces.jl</id>
-    <link href="https://github.com/BioTurboNick/AbbreviatedStackTraces.jl" rel="alternate"></link>
+    <title>garrett-anstreicher/optimal_growth</title>
+    <updated>2022-06-29T01:47:27Z</updated>
+    <id>tag:github.com,2022-06-29:/garrett-anstreicher/optimal_growth</id>
+    <link href="https://github.com/garrett-anstreicher/optimal_growth" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaAnimators/Javis.jl</title>
-    <updated>2022-06-28T01:44:32Z</updated>
-    <id>tag:github.com,2022-06-28:/JuliaAnimators/Javis.jl</id>
-    <link href="https://github.com/JuliaAnimators/Javis.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia Animations and Visualizations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

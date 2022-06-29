@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-28T01:42:47Z</updated>
+  <updated>2022-06-29T01:45:37Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>humanishai/terraform</title>
-    <updated>2022-06-28T01:42:47Z</updated>
-    <id>tag:github.com,2022-06-28:/humanishai/terraform</id>
-    <link href="https://github.com/humanishai/terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Open Source AI company&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-ec2-instance</title>
+    <updated>2022-06-29T01:45:37Z</updated>
+    <id>tag:github.com,2022-06-29:/cloudposse/terraform-aws-ec2-instance</id>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-instance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for provisioning a general purpose EC2 host&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>adv4000/terraform-lessons</title>
-    <updated>2022-06-28T01:42:47Z</updated>
-    <id>tag:github.com,2022-06-28:/adv4000/terraform-lessons</id>
-    <link href="https://github.com/adv4000/terraform-lessons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source Code for Course &#34;Terraform From Beginner to Professional&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>memes/terraform-google-secret-manager</title>
+    <updated>2022-06-29T01:45:37Z</updated>
+    <id>tag:github.com,2022-06-29:/memes/terraform-google-secret-manager</id>
+    <link href="https://github.com/memes/terraform-google-secret-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform module for creating GCP Secret Manager secrets and assigning read-permissions to them&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>champ-oss/terraform-aws-mysql</title>
-    <updated>2022-06-28T01:42:47Z</updated>
-    <id>tag:github.com,2022-06-28:/champ-oss/terraform-aws-mysql</id>
-    <link href="https://github.com/champ-oss/terraform-aws-mysql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-google-cloud-dns</title>
+    <updated>2022-06-29T01:45:37Z</updated>
+    <id>tag:github.com,2022-06-29:/terraform-google-modules/terraform-google-cloud-dns</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-cloud-dns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This module makes it easy to create and manage Google Cloud DNS public or private zones, and their records.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

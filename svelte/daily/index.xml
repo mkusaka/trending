@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-28T01:54:53Z</updated>
+  <updated>2022-06-29T01:58:04Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>orefalo/svelte-splitpanes</title>
-    <updated>2022-06-28T01:54:53Z</updated>
-    <id>tag:github.com,2022-06-28:/orefalo/svelte-splitpanes</id>
-    <link href="https://github.com/orefalo/svelte-splitpanes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Tommertom/svelte-ionic-app</title>
-    <updated>2022-06-28T01:54:53Z</updated>
-    <id>tag:github.com,2022-06-28:/Tommertom/svelte-ionic-app</id>
-    <link href="https://github.com/Tommertom/svelte-ionic-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ionic UI showcase app - try Ionic UI and directly go to API or source code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>neurosnap/neovimcraft</title>
+    <updated>2022-06-29T01:58:04Z</updated>
+    <id>tag:github.com,2022-06-29:/neurosnap/neovimcraft</id>
+    <link href="https://github.com/neurosnap/neovimcraft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;website that makes it easy to find neovim plugins&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

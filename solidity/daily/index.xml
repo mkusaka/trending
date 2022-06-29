@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-28T01:54:11Z</updated>
+  <updated>2022-06-29T01:57:22Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kleros/kleros</title>
-    <updated>2022-06-28T01:54:11Z</updated>
-    <id>tag:github.com,2022-06-28:/kleros/kleros</id>
-    <link href="https://github.com/kleros/kleros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kleros smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenZeppelin/damn-vulnerable-defi</title>
+    <updated>2022-06-29T01:57:22Z</updated>
+    <id>tag:github.com,2022-06-29:/OpenZeppelin/damn-vulnerable-defi</id>
+    <link href="https://github.com/OpenZeppelin/damn-vulnerable-defi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Rivaill/CryptoVulhub</title>
-    <updated>2022-06-28T01:54:11Z</updated>
-    <id>tag:github.com,2022-06-28:/Rivaill/CryptoVulhub</id>
-    <link href="https://github.com/Rivaill/CryptoVulhub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Analyze and reproduce attack events or vulnerabilities in the blockchain world.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Dhruv-2003/30SmartContract_1</title>
+    <updated>2022-06-29T01:57:22Z</updated>
+    <id>tag:github.com,2022-06-29:/Dhruv-2003/30SmartContract_1</id>
+    <link href="https://github.com/Dhruv-2003/30SmartContract_1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of 30 Smart contracts 01 , form beginner to intermediate level concepts with usecases&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maple-labs/maple-proxy-factory</title>
-    <updated>2022-06-28T01:54:11Z</updated>
-    <id>tag:github.com,2022-06-28:/maple-labs/maple-proxy-factory</id>
-    <link href="https://github.com/maple-labs/maple-proxy-factory" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Maple flavored proxy factory&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clabby/delphi</title>
+    <updated>2022-06-29T01:57:22Z</updated>
+    <id>tag:github.com,2022-06-29:/clabby/delphi</id>
+    <link href="https://github.com/clabby/delphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Permissionlessly create oracles that perform operations on data from ChainLink aggregators&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

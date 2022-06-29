@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-28T01:39:38Z</updated>
+  <updated>2022-06-29T01:42:33Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>joinum/parzival</title>
-    <updated>2022-06-28T01:39:38Z</updated>
-    <id>tag:github.com,2022-06-28:/joinum/parzival</id>
-    <link href="https://github.com/joinum/parzival" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The webplatform for the JOIN Job Shop event&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nikkomiu/phoenix_inline_svg</title>
+    <updated>2022-06-29T01:42:33Z</updated>
+    <id>tag:github.com,2022-06-29:/nikkomiu/phoenix_inline_svg</id>
+    <link href="https://github.com/nikkomiu/phoenix_inline_svg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Inline SVG module for Phoenix Framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fredlund/gtimer</title>
-    <updated>2022-06-28T01:39:38Z</updated>
-    <id>tag:github.com,2022-06-28:/fredlund/gtimer</id>
-    <link href="https://github.com/fredlund/gtimer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A global timer facility in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>procore/elixir-sdk</title>
+    <updated>2022-06-29T01:42:33Z</updated>
+    <id>tag:github.com,2022-06-29:/procore/elixir-sdk</id>
+    <link href="https://github.com/procore/elixir-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir SDK for Procore&#39;s APIs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

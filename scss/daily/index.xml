@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-28T01:53:12Z</updated>
+  <updated>2022-06-29T01:56:22Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vinibiavatti1/TuiCss</title>
-    <updated>2022-06-28T01:53:12Z</updated>
-    <id>tag:github.com,2022-06-28:/vinibiavatti1/TuiCss</id>
-    <link href="https://github.com/vinibiavatti1/TuiCss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Text-based user interface CSS library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ilyas-it83/CloudComparer</title>
+    <updated>2022-06-29T01:56:22Z</updated>
+    <id>tag:github.com,2022-06-29:/ilyas-it83/CloudComparer</id>
+    <link href="https://github.com/ilyas-it83/CloudComparer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compare the various managed cloud services offered by the major public cloud providers in the market.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KittyGiraudel/sass-boilerplate</title>
-    <updated>2022-06-28T01:53:12Z</updated>
-    <id>tag:github.com,2022-06-28:/KittyGiraudel/sass-boilerplate</id>
-    <link href="https://github.com/KittyGiraudel/sass-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A boilerplate for Sass projects using the 7-1 architecture pattern from Sass Guidelines.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mate-academy/Museum_2</title>
+    <updated>2022-06-29T01:56:22Z</updated>
+    <id>tag:github.com,2022-06-29:/mate-academy/Museum_2</id>
+    <link href="https://github.com/mate-academy/Museum_2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aspnetrun/run-aspnet-identityserver4</title>
-    <updated>2022-06-28T01:53:12Z</updated>
-    <id>tag:github.com,2022-06-28:/aspnetrun/run-aspnet-identityserver4</id>
-    <link href="https://github.com/aspnetrun/run-aspnet-identityserver4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mate-academy/Potr_Pots</title>
+    <updated>2022-06-29T01:56:22Z</updated>
+    <id>tag:github.com,2022-06-29:/mate-academy/Potr_Pots</id>
+    <link href="https://github.com/mate-academy/Potr_Pots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

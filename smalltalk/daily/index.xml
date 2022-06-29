@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-28T01:54:02Z</updated>
+  <updated>2022-06-29T01:57:12Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bauing-schmidt/MethodTracker</title>
-    <updated>2022-06-28T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-28:/bauing-schmidt/MethodTracker</id>
-    <link href="https://github.com/bauing-schmidt/MethodTracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pharo method wrappers for performance analysis&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>noha/JSONWebToken</title>
-    <updated>2022-06-28T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-28:/noha/JSONWebToken</id>
-    <link href="https://github.com/noha/JSONWebToken" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A pharo implementation of JSON web token (JWT)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ba-st/Buoy</title>
-    <updated>2022-06-28T01:54:02Z</updated>
-    <id>tag:github.com,2022-06-28:/ba-st/Buoy</id>
-    <link href="https://github.com/ba-st/Buoy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A complement to Pharo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
