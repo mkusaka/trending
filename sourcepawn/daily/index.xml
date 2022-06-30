@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SourcePawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:57:28Z</updated>
+  <updated>2022-06-30T01:55:20Z</updated>
   <subtitle>Daily Trending of SourcePawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Mentrillum/Slender-Fortress-Modified-Versions</title>
-    <updated>2022-06-29T01:57:28Z</updated>
-    <id>tag:github.com,2022-06-29:/Mentrillum/Slender-Fortress-Modified-Versions</id>
-    <link href="https://github.com/Mentrillum/Slender-Fortress-Modified-Versions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modification of Team Fortress 2 based on the game Slender: The Eight Pages.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

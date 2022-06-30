@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:55:55Z</updated>
+  <updated>2022-06-30T01:53:47Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rust-embedded/rust-raspberrypi-OS-tutorials</title>
-    <updated>2022-06-29T01:55:55Z</updated>
-    <id>tag:github.com,2022-06-29:/rust-embedded/rust-raspberrypi-OS-tutorials</id>
-    <link href="https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 Learn to write an embedded OS in Rust 🦀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JSorngard/cosmic_ray_detection</title>
+    <updated>2022-06-30T01:53:47Z</updated>
+    <id>tag:github.com,2022-06-30:/JSorngard/cosmic_ray_detection</id>
+    <link href="https://github.com/JSorngard/cosmic_ray_detection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use your computer as a cosmic ray detector! One of the memory errors rust does not protect against.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>prql/prql</title>
-    <updated>2022-06-29T01:55:55Z</updated>
-    <id>tag:github.com,2022-06-29:/prql/prql</id>
-    <link href="https://github.com/prql/prql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hyperium/tonic</title>
+    <updated>2022-06-30T01:53:47Z</updated>
+    <id>tag:github.com,2022-06-30:/hyperium/tonic</id>
+    <link href="https://github.com/hyperium/tonic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A native gRPC client &amp; server implementation with async/await support.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>actix/actix-web</title>
-    <updated>2022-06-29T01:55:55Z</updated>
-    <id>tag:github.com,2022-06-29:/actix/actix-web</id>
-    <link href="https://github.com/actix/actix-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mTvare6/hello-world.rs</title>
+    <updated>2022-06-30T01:53:47Z</updated>
+    <id>tag:github.com,2022-06-30:/mTvare6/hello-world.rs</id>
+    <link href="https://github.com/mTvare6/hello-world.rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

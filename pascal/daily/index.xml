@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:52:49Z</updated>
+  <updated>2022-06-30T01:50:25Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dilshan/star-pointer</title>
-    <updated>2022-06-29T01:52:49Z</updated>
-    <id>tag:github.com,2022-06-29:/dilshan/star-pointer</id>
-    <link href="https://github.com/dilshan/star-pointer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DIY virtual electronic finderscope for astronomical telescopes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

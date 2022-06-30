@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:58:04Z</updated>
+  <updated>2022-06-30T01:55:56Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>neurosnap/neovimcraft</title>
-    <updated>2022-06-29T01:58:04Z</updated>
-    <id>tag:github.com,2022-06-29:/neurosnap/neovimcraft</id>
-    <link href="https://github.com/neurosnap/neovimcraft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;website that makes it easy to find neovim plugins&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NMTuan/maths</title>
+    <updated>2022-06-30T01:55:56Z</updated>
+    <id>tag:github.com,2022-06-30:/NMTuan/maths</id>
+    <link href="https://github.com/NMTuan/maths" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;加减法数学题生成器&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/notus-svelte</title>
+    <updated>2022-06-30T01:55:56Z</updated>
+    <id>tag:github.com,2022-06-30:/creativetimofficial/notus-svelte</id>
+    <link href="https://github.com/creativetimofficial/notus-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Notus Svelte: Free Tailwind CSS UI Kit and Admin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>refact0r/startpage</title>
+    <updated>2022-06-30T01:55:56Z</updated>
+    <id>tag:github.com,2022-06-30:/refact0r/startpage</id>
+    <link href="https://github.com/refact0r/startpage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple, clean startpage.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

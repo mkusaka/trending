@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:57:22Z</updated>
+  <updated>2022-06-30T01:55:14Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OpenZeppelin/damn-vulnerable-defi</title>
-    <updated>2022-06-29T01:57:22Z</updated>
-    <id>tag:github.com,2022-06-29:/OpenZeppelin/damn-vulnerable-defi</id>
-    <link href="https://github.com/OpenZeppelin/damn-vulnerable-defi" rel="alternate"></link>
+    <title>runtimeverification/verified-smart-contracts</title>
+    <updated>2022-06-30T01:55:14Z</updated>
+    <id>tag:github.com,2022-06-30:/runtimeverification/verified-smart-contracts</id>
+    <link href="https://github.com/runtimeverification/verified-smart-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart contracts which are formally verified&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PatrickAlphaC/nft-mix</title>
+    <updated>2022-06-30T01:55:14Z</updated>
+    <id>tag:github.com,2022-06-30:/PatrickAlphaC/nft-mix</id>
+    <link href="https://github.com/PatrickAlphaC/nft-mix" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Dhruv-2003/30SmartContract_1</title>
-    <updated>2022-06-29T01:57:22Z</updated>
-    <id>tag:github.com,2022-06-29:/Dhruv-2003/30SmartContract_1</id>
-    <link href="https://github.com/Dhruv-2003/30SmartContract_1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of 30 Smart contracts 01 , form beginner to intermediate level concepts with usecases&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>clabby/delphi</title>
-    <updated>2022-06-29T01:57:22Z</updated>
-    <id>tag:github.com,2022-06-29:/clabby/delphi</id>
-    <link href="https://github.com/clabby/delphi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Permissionlessly create oracles that perform operations on data from ChainLink aggregators&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wschwab/one-of-one</title>
+    <updated>2022-06-30T01:55:14Z</updated>
+    <id>tag:github.com,2022-06-30:/wschwab/one-of-one</id>
+    <link href="https://github.com/wschwab/one-of-one" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;minimalist contract for a one-NFT soulbound ERC721&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

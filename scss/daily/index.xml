@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:56:22Z</updated>
+  <updated>2022-06-30T01:54:17Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ilyas-it83/CloudComparer</title>
-    <updated>2022-06-29T01:56:22Z</updated>
-    <id>tag:github.com,2022-06-29:/ilyas-it83/CloudComparer</id>
-    <link href="https://github.com/ilyas-it83/CloudComparer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compare the various managed cloud services offered by the major public cloud providers in the market.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deliveroo/deliveroo.engineering</title>
+    <updated>2022-06-30T01:54:17Z</updated>
+    <id>tag:github.com,2022-06-30:/deliveroo/deliveroo.engineering</id>
+    <link href="https://github.com/deliveroo/deliveroo.engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guidelines and conventions for good software at Deliveroo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mate-academy/Museum_2</title>
-    <updated>2022-06-29T01:56:22Z</updated>
-    <id>tag:github.com,2022-06-29:/mate-academy/Museum_2</id>
-    <link href="https://github.com/mate-academy/Museum_2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adeo/lmru--tech</title>
+    <updated>2022-06-30T01:54:17Z</updated>
+    <id>tag:github.com,2022-06-30:/adeo/lmru--tech</id>
+    <link href="https://github.com/adeo/lmru--tech" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leroy Merlin Russia Technology Culture Site&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mate-academy/Potr_Pots</title>
-    <updated>2022-06-29T01:56:22Z</updated>
-    <id>tag:github.com,2022-06-29:/mate-academy/Potr_Pots</id>
-    <link href="https://github.com/mate-academy/Potr_Pots" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bu-ist/responsive-foundation</title>
+    <updated>2022-06-30T01:54:17Z</updated>
+    <id>tag:github.com,2022-06-30:/bu-ist/responsive-foundation</id>
+    <link href="https://github.com/bu-ist/responsive-foundation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A responsive front-end framework. Used by the Responsive Framework.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

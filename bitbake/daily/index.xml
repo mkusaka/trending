@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:38:05Z</updated>
+  <updated>2022-06-30T01:35:30Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DynamicDevices/meta-mono</title>
-    <updated>2022-06-29T01:38:05Z</updated>
-    <id>tag:github.com,2022-06-29:/DynamicDevices/meta-mono</id>
-    <link href="https://github.com/DynamicDevices/meta-mono" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Yocto / OpenEmbedded layer providing Mono and dotNet support&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sifive/meta-sifive</title>
-    <updated>2022-06-29T01:38:05Z</updated>
-    <id>tag:github.com,2022-06-29:/sifive/meta-sifive</id>
-    <link href="https://github.com/sifive/meta-sifive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SiFive OpenEmbedded (OE) Layer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meta-erlang/meta-erlang</title>
+    <updated>2022-06-30T01:35:30Z</updated>
+    <id>tag:github.com,2022-06-30:/meta-erlang/meta-erlang</id>
+    <link href="https://github.com/meta-erlang/meta-erlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang and Elixir support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:45:41Z</updated>
+  <updated>2022-06-30T01:43:03Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sonygod/nekoAmf3</title>
-    <updated>2022-06-29T01:45:41Z</updated>
-    <id>tag:github.com,2022-06-29:/sonygod/nekoAmf3</id>
-    <link href="https://github.com/sonygod/nekoAmf3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nekoserver as remotiong server for as3&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This file was created by IntelliJ IDEA (Leda) IU-122.395 for binding GitHub repository&lt;/p&gt;</summary>
-  </entry>
 </feed>

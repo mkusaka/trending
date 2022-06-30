@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:43:06Z</updated>
+  <updated>2022-06-30T01:40:27Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fitzgen/boffo</title>
-    <updated>2022-06-29T01:43:06Z</updated>
-    <id>tag:github.com,2022-06-29:/fitzgen/boffo</id>
-    <link href="https://github.com/fitzgen/boffo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boffo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudant-labs/hastings</title>
+    <updated>2022-06-30T01:40:27Z</updated>
+    <id>tag:github.com,2022-06-30:/cloudant-labs/hastings</id>
+    <link href="https://github.com/cloudant-labs/hastings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GeoSpatial Search for CouchDB 2.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kivra/oauth2_client</title>
-    <updated>2022-06-29T01:43:06Z</updated>
-    <id>tag:github.com,2022-06-29:/kivra/oauth2_client</id>
-    <link href="https://github.com/kivra/oauth2_client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang OAuth2 Client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>benoitc/erlang-metrics</title>
+    <updated>2022-06-30T01:40:27Z</updated>
+    <id>tag:github.com,2022-06-30:/benoitc/erlang-metrics</id>
+    <link href="https://github.com/benoitc/erlang-metrics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A generic interface to different metrics systems in Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

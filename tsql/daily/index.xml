@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:59:32Z</updated>
+  <updated>2022-06-30T01:57:03Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TdP-esami/2019-09-03</title>
-    <updated>2022-06-29T01:59:32Z</updated>
-    <id>tag:github.com,2022-06-29:/TdP-esami/2019-09-03</id>
-    <link href="https://github.com/TdP-esami/2019-09-03" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tema d&#39;esame del 03/09/2019 (Food Pyramid, ricorsione)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TdP-esami/2020-01-20</title>
-    <updated>2022-06-29T01:59:32Z</updated>
-    <id>tag:github.com,2022-06-29:/TdP-esami/2020-01-20</id>
-    <link href="https://github.com/TdP-esami/2020-01-20" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tema d&#39;esame del 20/01/2020 (artsmia, ricorsione)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AustinCodingAcademy/311_wk4_day1_crud</title>
-    <updated>2022-06-29T01:59:32Z</updated>
-    <id>tag:github.com,2022-06-29:/AustinCodingAcademy/311_wk4_day1_crud</id>
-    <link href="https://github.com/AustinCodingAcademy/311_wk4_day1_crud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TdP-esami/2019-06-27-B</title>
+    <updated>2022-06-30T01:57:03Z</updated>
+    <id>tag:github.com,2022-06-30:/TdP-esami/2019-06-27-B</id>
+    <link href="https://github.com/TdP-esami/2019-06-27-B" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tema d&#39;esame del 27/06/2019, Turno B (Denver crimes, ricorsione)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

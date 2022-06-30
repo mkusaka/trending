@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:54:06Z</updated>
+  <updated>2022-06-30T01:51:43Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>willettk/kw-spitzer-idl</title>
+    <updated>2022-06-30T01:51:43Z</updated>
+    <id>tag:github.com,2022-06-30:/willettk/kw-spitzer-idl</id>
+    <link href="https://github.com/willettk/kw-spitzer-idl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IDL code to reduce and analyze Spitzer IRS data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:55:38Z</updated>
+  <updated>2022-06-30T01:53:29Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NaCl-Ltd/container-registry-files</title>
-    <updated>2022-06-29T01:55:38Z</updated>
-    <id>tag:github.com,2022-06-29:/NaCl-Ltd/container-registry-files</id>
-    <link href="https://github.com/NaCl-Ltd/container-registry-files" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dockerfiles for images registered in Container Registry&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NVIDIA/radtts</title>
+    <updated>2022-06-30T01:53:29Z</updated>
+    <id>tag:github.com,2022-06-30:/NVIDIA/radtts</id>
+    <link href="https://github.com/NVIDIA/radtts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provides training, inference and voice conversion recipes for RADTTS and RADTTS++: Flow-based TTS models with Robust Alignment Learning, Diverse Synthesis, and Generative Modelling and Fine-Grained Control over of Low Dimensional (F0 and Energy) Speech Attributes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

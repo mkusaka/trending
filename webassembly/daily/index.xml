@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T02:01:04Z</updated>
+  <updated>2022-06-30T01:58:34Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mdn/webassembly-examples</title>
-    <updated>2022-06-29T02:01:04Z</updated>
-    <id>tag:github.com,2022-06-29:/mdn/webassembly-examples</id>
-    <link href="https://github.com/mdn/webassembly-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code examples that accompany the MDN WebAssembly documentation — see https://developer.mozilla.org/en-US/docs/WebAssembly.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

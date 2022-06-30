@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:39:38Z</updated>
+  <updated>2022-06-30T01:37:03Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jmglov/blambda</title>
-    <updated>2022-06-29T01:39:38Z</updated>
-    <id>tag:github.com,2022-06-29:/jmglov/blambda</id>
-    <link href="https://github.com/jmglov/blambda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blambda! is a custom runtime for AWS Lambda that lets you write functions using Babashka&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>logseq/graph-validator</title>
+    <updated>2022-06-30T01:37:03Z</updated>
+    <id>tag:github.com,2022-06-30:/logseq/graph-validator</id>
+    <link href="https://github.com/logseq/graph-validator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Validate your logseq graphs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clj-depend/clj-depend</title>
-    <updated>2022-06-29T01:39:38Z</updated>
-    <id>tag:github.com,2022-06-29:/clj-depend/clj-depend</id>
-    <link href="https://github.com/clj-depend/clj-depend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure namespace dependency analyzer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>broquaint/i-choose-you</title>
+    <updated>2022-06-30T01:37:03Z</updated>
+    <id>tag:github.com,2022-06-30:/broquaint/i-choose-you</id>
+    <link href="https://github.com/broquaint/i-choose-you" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Randomly select then launch a game.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seancorfield/honeysql</title>
+    <updated>2022-06-30T01:37:03Z</updated>
+    <id>tag:github.com,2022-06-30:/seancorfield/honeysql</id>
+    <link href="https://github.com/seancorfield/honeysql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Turn Clojure data structures into SQL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

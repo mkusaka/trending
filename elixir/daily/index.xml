@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:42:33Z</updated>
+  <updated>2022-06-30T01:39:56Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nikkomiu/phoenix_inline_svg</title>
-    <updated>2022-06-29T01:42:33Z</updated>
-    <id>tag:github.com,2022-06-29:/nikkomiu/phoenix_inline_svg</id>
-    <link href="https://github.com/nikkomiu/phoenix_inline_svg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inline SVG module for Phoenix Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Frameio/exlasticsearch</title>
+    <updated>2022-06-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-06-30:/Frameio/exlasticsearch</id>
+    <link href="https://github.com/Frameio/exlasticsearch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir Elasticsearch DSL with ecto mapping built in&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>procore/elixir-sdk</title>
-    <updated>2022-06-29T01:42:33Z</updated>
-    <id>tag:github.com,2022-06-29:/procore/elixir-sdk</id>
-    <link href="https://github.com/procore/elixir-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir SDK for Procore&#39;s APIs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Frameio/cereal_ex</title>
+    <updated>2022-06-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-06-30:/Frameio/cereal_ex</id>
+    <link href="https://github.com/Frameio/cereal_ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pluggable JSON serialization library for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Frameio/rolodex</title>
+    <updated>2022-06-30T01:39:56Z</updated>
+    <id>tag:github.com,2022-06-30:/Frameio/rolodex</id>
+    <link href="https://github.com/Frameio/rolodex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📇API Documentation Generator for Phoenix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:57:08Z</updated>
+  <updated>2022-06-30T01:55:00Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>truecharts/catalog</title>
+    <updated>2022-06-30T01:55:00Z</updated>
+    <id>tag:github.com,2022-06-30:/truecharts/catalog</id>
+    <link href="https://github.com/truecharts/catalog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is JUST the catalog, please refer to truecharts/apps for the actuall app code!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>srcmesh-workshop/kubernetes-adoption-hands-on</title>
+    <updated>2022-06-30T01:55:00Z</updated>
+    <id>tag:github.com,2022-06-30:/srcmesh-workshop/kubernetes-adoption-hands-on</id>
+    <link href="https://github.com/srcmesh-workshop/kubernetes-adoption-hands-on" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

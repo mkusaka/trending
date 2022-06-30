@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:36:00Z</updated>
+  <updated>2022-06-30T01:33:08Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>edoardottt/awesome-hacker-search-engines</title>
-    <updated>2022-06-29T01:36:00Z</updated>
-    <id>tag:github.com,2022-06-29:/edoardottt/awesome-hacker-search-engines</id>
-    <link href="https://github.com/edoardottt/awesome-hacker-search-engines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hack-with-Github/Awesome-Hacking</title>
+    <updated>2022-06-30T01:33:08Z</updated>
+    <id>tag:github.com,2022-06-30:/Hack-with-Github/Awesome-Hacking</id>
+    <link href="https://github.com/Hack-with-Github/Awesome-Hacking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of various awesome lists for hackers, pentesters and security researchers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>o0HalfLife0o/TVBoxOSC</title>
-    <updated>2022-06-29T01:36:00Z</updated>
-    <id>tag:github.com,2022-06-29:/o0HalfLife0o/TVBoxOSC</id>
-    <link href="https://github.com/o0HalfLife0o/TVBoxOSC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dotdc/grafana-dashboards-kubernetes</title>
+    <updated>2022-06-30T01:33:08Z</updated>
+    <id>tag:github.com,2022-06-30:/dotdc/grafana-dashboards-kubernetes</id>
+    <link href="https://github.com/dotdc/grafana-dashboards-kubernetes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of modern Grafana dashboards for Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KathanP19/HowToHunt</title>
-    <updated>2022-06-29T01:36:00Z</updated>
-    <id>tag:github.com,2022-06-29:/KathanP19/HowToHunt</id>
-    <link href="https://github.com/KathanP19/HowToHunt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tutorials and Things to Do while Hunting Vulnerability.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>inverse-scaling/prize</title>
+    <updated>2022-06-30T01:33:08Z</updated>
+    <id>tag:github.com,2022-06-30:/inverse-scaling/prize</id>
+    <link href="https://github.com/inverse-scaling/prize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A prize for finding tasks that cause large language models to show inverse scaling&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

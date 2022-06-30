@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-29T01:54:08Z</updated>
+  <updated>2022-06-30T01:51:56Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>procore/puppet-dnsmasq</title>
-    <updated>2022-06-29T01:54:08Z</updated>
-    <id>tag:github.com,2022-06-29:/procore/puppet-dnsmasq</id>
-    <link href="https://github.com/procore/puppet-dnsmasq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module to manage dnsmasq&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danburkert/nic-hadoop-cluster-config</title>
+    <updated>2022-06-30T01:51:56Z</updated>
+    <id>tag:github.com,2022-06-30:/danburkert/nic-hadoop-cluster-config</id>
+    <link href="https://github.com/danburkert/nic-hadoop-cluster-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts used to bring the NIC-MiniCloud online&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
