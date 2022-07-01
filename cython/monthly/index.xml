@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cython Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:36:59Z</updated>
+  <subtitle>Monthly Trending of Cython in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>discord/erlpack</title>
+    <updated>2022-07-01T02:36:59Z</updated>
+    <id>tag:github.com,2022-07-01:/discord/erlpack</id>
+    <link href="https://github.com/discord/erlpack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High Performance Erlang Term Format Packer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mrjbq7/ta-lib</title>
+    <updated>2022-07-01T02:36:59Z</updated>
+    <id>tag:github.com,2022-07-01:/mrjbq7/ta-lib</id>
+    <link href="https://github.com/mrjbq7/ta-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python wrapper for TA-Lib (http://ta-lib.org/).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Unidata/netcdf4-python</title>
+    <updated>2022-07-01T02:36:59Z</updated>
+    <id>tag:github.com,2022-07-01:/Unidata/netcdf4-python</id>
+    <link href="https://github.com/Unidata/netcdf4-python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;netcdf4-python: python/numpy interface to the netCDF C library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

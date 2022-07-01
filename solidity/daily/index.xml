@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:55:14Z</updated>
+  <updated>2022-07-01T01:55:00Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>runtimeverification/verified-smart-contracts</title>
-    <updated>2022-06-30T01:55:14Z</updated>
-    <id>tag:github.com,2022-06-30:/runtimeverification/verified-smart-contracts</id>
-    <link href="https://github.com/runtimeverification/verified-smart-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts which are formally verified&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>team-s2/ACTF-2022</title>
+    <updated>2022-07-01T01:55:00Z</updated>
+    <id>tag:github.com,2022-07-01:/team-s2/ACTF-2022</id>
+    <link href="https://github.com/team-s2/ACTF-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Archive of AAA CTF 2022 (XCTF competition)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PatrickAlphaC/nft-mix</title>
-    <updated>2022-06-30T01:55:14Z</updated>
-    <id>tag:github.com,2022-06-30:/PatrickAlphaC/nft-mix</id>
-    <link href="https://github.com/PatrickAlphaC/nft-mix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>onbjerg/forge-coverage-test</title>
+    <updated>2022-07-01T01:55:00Z</updated>
+    <id>tag:github.com,2022-07-01:/onbjerg/forge-coverage-test</id>
+    <link href="https://github.com/onbjerg/forge-coverage-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A test repository for Forge coverage&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wschwab/one-of-one</title>
-    <updated>2022-06-30T01:55:14Z</updated>
-    <id>tag:github.com,2022-06-30:/wschwab/one-of-one</id>
-    <link href="https://github.com/wschwab/one-of-one" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;minimalist contract for a one-NFT soulbound ERC721&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dmfxyz/murky</title>
+    <updated>2022-07-01T01:55:00Z</updated>
+    <id>tag:github.com,2022-07-01:/dmfxyz/murky</id>
+    <link href="https://github.com/dmfxyz/murky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Merkle Proof Generator and Validator in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

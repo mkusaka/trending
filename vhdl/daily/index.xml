@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:58:01Z</updated>
+  <updated>2022-07-01T01:57:45Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bpadalino/vhdl-format</title>
+    <updated>2022-07-01T01:57:45Z</updated>
+    <id>tag:github.com,2022-07-01:/bpadalino/vhdl-format</id>
+    <link href="https://github.com/bpadalino/vhdl-format" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VHDL String Formatting Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

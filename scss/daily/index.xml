@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:54:17Z</updated>
+  <updated>2022-07-01T01:54:03Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>deliveroo/deliveroo.engineering</title>
-    <updated>2022-06-30T01:54:17Z</updated>
-    <id>tag:github.com,2022-06-30:/deliveroo/deliveroo.engineering</id>
-    <link href="https://github.com/deliveroo/deliveroo.engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Guidelines and conventions for good software at Deliveroo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JaccoVeldscholten/SlimmeMeterDashboard</title>
+    <updated>2022-07-01T01:54:03Z</updated>
+    <id>tag:github.com,2022-07-01:/JaccoVeldscholten/SlimmeMeterDashboard</id>
+    <link href="https://github.com/JaccoVeldscholten/SlimmeMeterDashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;P1 Measurement Dashboard Application &amp; Beyond.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>adeo/lmru--tech</title>
-    <updated>2022-06-30T01:54:17Z</updated>
-    <id>tag:github.com,2022-06-30:/adeo/lmru--tech</id>
-    <link href="https://github.com/adeo/lmru--tech" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Leroy Merlin Russia Technology Culture Site&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>discord-extensions/essence</title>
+    <updated>2022-07-01T01:54:03Z</updated>
+    <id>tag:github.com,2022-07-01:/discord-extensions/essence</id>
+    <link href="https://github.com/discord-extensions/essence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A smooth, rounded theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bu-ist/responsive-foundation</title>
-    <updated>2022-06-30T01:54:17Z</updated>
-    <id>tag:github.com,2022-06-30:/bu-ist/responsive-foundation</id>
-    <link href="https://github.com/bu-ist/responsive-foundation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A responsive front-end framework. Used by the Responsive Framework.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mate-academy/Museum</title>
+    <updated>2022-07-01T01:54:03Z</updated>
+    <id>tag:github.com,2022-07-01:/mate-academy/Museum</id>
+    <link href="https://github.com/mate-academy/Museum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

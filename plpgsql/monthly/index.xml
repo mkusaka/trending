@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:49:26Z</updated>
+  <subtitle>Monthly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digoal/blog</title>
+    <updated>2022-07-01T02:49:26Z</updated>
+    <id>tag:github.com,2022-07-01:/digoal/blog</id>
+    <link href="https://github.com/digoal/blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Everything about database,business.(Most for PostgreSQL).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>supabase/pg_graphql</title>
+    <updated>2022-07-01T02:49:26Z</updated>
+    <id>tag:github.com,2022-07-01:/supabase/pg_graphql</id>
+    <link href="https://github.com/supabase/pg_graphql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GraphQL support for PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zombodb/zombodb</title>
+    <updated>2022-07-01T02:49:26Z</updated>
+    <id>tag:github.com,2022-07-01:/zombodb/zombodb</id>
+    <link href="https://github.com/zombodb/zombodb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Making Postgres and Elasticsearch work together like it&#39;s 2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

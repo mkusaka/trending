@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Logos Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:44:52Z</updated>
+  <subtitle>Monthly Trending of Logos in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qnblackcat/CercubePlus</title>
+    <updated>2022-07-01T02:44:52Z</updated>
+    <id>tag:github.com,2022-07-01:/qnblackcat/CercubePlus</id>
+    <link href="https://github.com/qnblackcat/CercubePlus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cercube with extra features&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>llvm/llvm-test-suite</title>
+    <updated>2022-07-01T02:44:52Z</updated>
+    <id>tag:github.com,2022-07-01:/llvm/llvm-test-suite</id>
+    <link href="https://github.com/llvm/llvm-test-suite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

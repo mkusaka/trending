@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:38:39Z</updated>
+  <subtitle>Monthly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>github/haikus-for-codespaces</title>
+    <updated>2022-07-01T02:38:39Z</updated>
+    <id>tag:github.com,2022-07-01:/github/haikus-for-codespaces</id>
+    <link href="https://github.com/github/haikus-for-codespaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rocketseat-education/nlw-06-discover</title>
+    <updated>2022-07-01T02:38:39Z</updated>
+    <id>tag:github.com,2022-07-01:/rocketseat-education/nlw-06-discover</id>
+    <link href="https://github.com/rocketseat-education/nlw-06-discover" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>betagouv/template-design-system-de-l-etat</title>
+    <updated>2022-07-01T02:38:39Z</updated>
+    <id>tag:github.com,2022-07-01:/betagouv/template-design-system-de-l-etat</id>
+    <link href="https://github.com/betagouv/template-design-system-de-l-etat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Démo du Design System de l&#39;État (ressource non officielle)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

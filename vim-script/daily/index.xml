@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:58:08Z</updated>
+  <updated>2022-07-01T01:57:49Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AndrewRadev/linediff.vim</title>
-    <updated>2022-06-30T01:58:08Z</updated>
-    <id>tag:github.com,2022-06-30:/AndrewRadev/linediff.vim</id>
-    <link href="https://github.com/AndrewRadev/linediff.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vim plugin to perform diffs on blocks of code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/SimpylFold</title>
+    <updated>2022-07-01T01:57:49Z</updated>
+    <id>tag:github.com,2022-07-01:/vim-scripts/SimpylFold</id>
+    <link href="https://github.com/vim-scripts/SimpylFold" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;No-BS Python code folding&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>groenewege/vim-less</title>
-    <updated>2022-06-30T01:58:08Z</updated>
-    <id>tag:github.com,2022-06-30:/groenewege/vim-less</id>
-    <link href="https://github.com/groenewege/vim-less" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim syntax for LESS (dynamic CSS)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NLKNguyen/papercolor-theme</title>
+    <updated>2022-07-01T01:57:49Z</updated>
+    <id>tag:github.com,2022-07-01:/NLKNguyen/papercolor-theme</id>
+    <link href="https://github.com/NLKNguyen/papercolor-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎨 Light &amp; Dark Vim color schemes inspired by Google&#39;s Material Design&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>w0ng/vim-hybrid</title>
-    <updated>2022-06-30T01:58:08Z</updated>
-    <id>tag:github.com,2022-06-30:/w0ng/vim-hybrid</id>
-    <link href="https://github.com/w0ng/vim-hybrid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dark color scheme for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>metakirby5/codi.vim</title>
+    <updated>2022-07-01T01:57:49Z</updated>
+    <id>tag:github.com,2022-07-01:/metakirby5/codi.vim</id>
+    <link href="https://github.com/metakirby5/codi.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📔 The interactive scratchpad for hackers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

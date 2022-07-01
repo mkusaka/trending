@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub RAML Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:51:05Z</updated>
+  <subtitle>Monthly Trending of RAML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mulesoft/raml-parser-service-e2e-test</title>
+    <updated>2022-07-01T02:51:05Z</updated>
+    <id>tag:github.com,2022-07-01:/mulesoft/raml-parser-service-e2e-test</id>
+    <link href="https://github.com/mulesoft/raml-parser-service-e2e-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mulesoft/docs-apikit</title>
+    <updated>2022-07-01T02:51:05Z</updated>
+    <id>tag:github.com,2022-07-01:/mulesoft/docs-apikit</id>
+    <link href="https://github.com/mulesoft/docs-apikit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mulesoft/conformance-api-suite</title>
+    <updated>2022-07-01T02:51:05Z</updated>
+    <id>tag:github.com,2022-07-01:/mulesoft/conformance-api-suite</id>
+    <link href="https://github.com/mulesoft/conformance-api-suite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub V Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:56:26Z</updated>
+  <subtitle>Monthly Trending of V in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vlang/vls</title>
+    <updated>2022-07-01T02:56:26Z</updated>
+    <id>tag:github.com,2022-07-01:/vlang/vls</id>
+    <link href="https://github.com/vlang/vls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;V language server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vlang/v</title>
+    <updated>2022-07-01T02:56:26Z</updated>
+    <id>tag:github.com,2022-07-01:/vlang/v</id>
+    <link href="https://github.com/vlang/v" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

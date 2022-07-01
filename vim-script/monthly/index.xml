@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:56:51Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>github/copilot.vim</title>
+    <updated>2022-07-01T02:56:51Z</updated>
+    <id>tag:github.com,2022-07-01:/github/copilot.vim</id>
+    <link href="https://github.com/github/copilot.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neovim plugin for GitHub Copilot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vim/vim</title>
+    <updated>2022-07-01T02:56:51Z</updated>
+    <id>tag:github.com,2022-07-01:/vim/vim</id>
+    <link href="https://github.com/vim/vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official Vim repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>neovim/neovim</title>
+    <updated>2022-07-01T02:56:51Z</updated>
+    <id>tag:github.com,2022-07-01:/neovim/neovim</id>
+    <link href="https://github.com/neovim/neovim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim-fork focused on extensibility and usability&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

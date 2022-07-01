@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:33:59Z</updated>
+  <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AveYo/MediaCreationTool.bat</title>
+    <updated>2022-07-01T02:33:59Z</updated>
+    <id>tag:github.com,2022-07-01:/AveYo/MediaCreationTool.bat</id>
+    <link href="https://github.com/AveYo/MediaCreationTool.bat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>massgravel/Microsoft-Activation-Scripts</title>
+    <updated>2022-07-01T02:33:59Z</updated>
+    <id>tag:github.com,2022-07-01:/massgravel/Microsoft-Activation-Scripts</id>
+    <link href="https://github.com/massgravel/Microsoft-Activation-Scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kkkgo/LTSC-Add-MicrosoftStore</title>
+    <updated>2022-07-01T02:33:59Z</updated>
+    <id>tag:github.com,2022-07-01:/kkkgo/LTSC-Add-MicrosoftStore</id>
+    <link href="https://github.com/kkkgo/LTSC-Add-MicrosoftStore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add Windows Store for LTSC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:37:15Z</updated>
+  <updated>2022-07-01T01:37:33Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TRL-RMF/caato2</title>
-    <updated>2022-06-30T01:37:15Z</updated>
-    <id>tag:github.com,2022-06-30:/TRL-RMF/caato2</id>
-    <link href="https://github.com/TRL-RMF/caato2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Robot files for CAATO2.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KDE/plasma-wayland-protocols</title>
+    <updated>2022-07-01T01:37:33Z</updated>
+    <id>tag:github.com,2022-07-01:/KDE/plasma-wayland-protocols</id>
+    <link href="https://github.com/KDE/plasma-wayland-protocols" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plasma-specific protocols for Wayland&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethz-asl/suitesparse</title>
+    <updated>2022-07-01T01:37:33Z</updated>
+    <id>tag:github.com,2022-07-01:/ethz-asl/suitesparse</id>
+    <link href="https://github.com/ethz-asl/suitesparse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catkin wrapper package for Dr. Tim Davis Suitesparse 4.2.1 (with PIC) http://faculty.cse.tamu.edu/davis/suitesparse.html&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seoulrobotics/sensr_ros_interface</title>
+    <updated>2022-07-01T01:37:33Z</updated>
+    <id>tag:github.com,2022-07-01:/seoulrobotics/sensr_ros_interface</id>
+    <link href="https://github.com/seoulrobotics/sensr_ros_interface" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SENSR M ROS interface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

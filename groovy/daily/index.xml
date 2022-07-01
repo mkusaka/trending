@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:42:42Z</updated>
+  <updated>2022-07-01T01:42:56Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cplim/closure-stylesheets</title>
-    <updated>2022-06-30T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-30:/cplim/closure-stylesheets</id>
-    <link href="https://github.com/cplim/closure-stylesheets" rel="alternate"></link>
+    <title>gregjmarshall/JavaExercises</title>
+    <updated>2022-07-01T01:42:56Z</updated>
+    <id>tag:github.com,2022-07-01:/gregjmarshall/JavaExercises</id>
+    <link href="https://github.com/gregjmarshall/JavaExercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;First attempts using groovy to call java class&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LandmakTechnology/JenkinsSharedLibraries</title>
+    <updated>2022-07-01T01:42:56Z</updated>
+    <id>tag:github.com,2022-07-01:/LandmakTechnology/JenkinsSharedLibraries</id>
+    <link href="https://github.com/LandmakTechnology/JenkinsSharedLibraries" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dmiller44/Funtastik-POS</title>
-    <updated>2022-06-30T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-30:/dmiller44/Funtastik-POS</id>
-    <link href="https://github.com/dmiller44/Funtastik-POS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Funtastik POS System for Snowboard Shop in Mechanicsburg, PA&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>naoyoshinori/nstm</title>
-    <updated>2022-06-30T01:42:42Z</updated>
-    <id>tag:github.com,2022-06-30:/naoyoshinori/nstm</id>
-    <link href="https://github.com/naoyoshinori/nstm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;StateMachineFramework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

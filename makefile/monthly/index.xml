@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:45:28Z</updated>
+  <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>open-telemetry/opentelemetry-specification</title>
+    <updated>2022-07-01T02:45:28Z</updated>
+    <id>tag:github.com,2022-07-01:/open-telemetry/opentelemetry-specification</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-specification" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Specifications for OpenTelemetry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mkubecek/vmware-host-modules</title>
+    <updated>2022-07-01T02:45:28Z</updated>
+    <id>tag:github.com,2022-07-01:/mkubecek/vmware-host-modules</id>
+    <link href="https://github.com/mkubecek/vmware-host-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Patches needed to build VMware (Player and Workstation) host modules against recent kernels&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA/nvidia-docker</title>
+    <updated>2022-07-01T02:45:28Z</updated>
+    <id>tag:github.com,2022-07-01:/NVIDIA/nvidia-docker</id>
+    <link href="https://github.com/NVIDIA/nvidia-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build and run Docker containers leveraging NVIDIA GPUs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

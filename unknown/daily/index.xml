@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:33:08Z</updated>
+  <updated>2022-07-01T01:33:40Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Hack-with-Github/Awesome-Hacking</title>
-    <updated>2022-06-30T01:33:08Z</updated>
-    <id>tag:github.com,2022-06-30:/Hack-with-Github/Awesome-Hacking</id>
-    <link href="https://github.com/Hack-with-Github/Awesome-Hacking" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of various awesome lists for hackers, pentesters and security researchers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dair-ai/ML-Course-Notes</title>
+    <updated>2022-07-01T01:33:40Z</updated>
+    <id>tag:github.com,2022-07-01:/dair-ai/ML-Course-Notes</id>
+    <link href="https://github.com/dair-ai/ML-Course-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dotdc/grafana-dashboards-kubernetes</title>
-    <updated>2022-06-30T01:33:08Z</updated>
-    <id>tag:github.com,2022-06-30:/dotdc/grafana-dashboards-kubernetes</id>
-    <link href="https://github.com/dotdc/grafana-dashboards-kubernetes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of modern Grafana dashboards for Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Avik-Jain/100-Days-Of-ML-Code</title>
+    <updated>2022-07-01T01:33:40Z</updated>
+    <id>tag:github.com,2022-07-01:/Avik-Jain/100-Days-Of-ML-Code</id>
+    <link href="https://github.com/Avik-Jain/100-Days-Of-ML-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;100 Days of ML Coding&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>inverse-scaling/prize</title>
-    <updated>2022-06-30T01:33:08Z</updated>
-    <id>tag:github.com,2022-06-30:/inverse-scaling/prize</id>
-    <link href="https://github.com/inverse-scaling/prize" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A prize for finding tasks that cause large language models to show inverse scaling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kaustubh-Natuskar/moreThanFAANGM</title>
+    <updated>2022-07-01T01:33:40Z</updated>
+    <id>tag:github.com,2022-07-01:/Kaustubh-Natuskar/moreThanFAANGM</id>
+    <link href="https://github.com/Kaustubh-Natuskar/moreThanFAANGM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) &amp; good start-ups.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:44:52Z</updated>
+  <updated>2022-07-01T01:45:03Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alan-turing-institute/MLJ.jl</title>
+    <updated>2022-07-01T01:45:03Z</updated>
+    <id>tag:github.com,2022-07-01:/alan-turing-institute/MLJ.jl</id>
+    <link href="https://github.com/alan-turing-institute/MLJ.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia machine learning framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>peterahrens/MemoizedMethods.jl</title>
+    <updated>2022-07-01T01:45:03Z</updated>
+    <id>tag:github.com,2022-07-01:/peterahrens/MemoizedMethods.jl</id>
+    <link href="https://github.com/peterahrens/MemoizedMethods.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Methodwise Memoization for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

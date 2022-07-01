@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:56:40Z</updated>
+  <subtitle>Monthly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>efabless/caravel_user_project</title>
+    <updated>2022-07-01T02:56:40Z</updated>
+    <id>tag:github.com,2022-07-01:/efabless/caravel_user_project</id>
+    <link href="https://github.com/efabless/caravel_user_project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://caravel-user-project.readthedocs.io&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ucb-bar/sha3</title>
+    <updated>2022-07-01T02:56:40Z</updated>
+    <id>tag:github.com,2022-07-01:/ucb-bar/sha3</id>
+    <link href="https://github.com/ucb-bar/sha3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>analogdevicesinc/hdl</title>
+    <updated>2022-07-01T02:56:40Z</updated>
+    <id>tag:github.com,2022-07-01:/analogdevicesinc/hdl</id>
+    <link href="https://github.com/analogdevicesinc/hdl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HDL libraries and projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

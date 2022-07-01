@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:53:39Z</updated>
+  <subtitle>Monthly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ProjectOpenSea/seaport</title>
+    <updated>2022-07-01T02:53:39Z</updated>
+    <id>tag:github.com,2022-07-01:/ProjectOpenSea/seaport</id>
+    <link href="https://github.com/ProjectOpenSea/seaport" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethereum/EIPs</title>
+    <updated>2022-07-01T02:53:39Z</updated>
+    <id>tag:github.com,2022-07-01:/ethereum/EIPs</id>
+    <link href="https://github.com/ethereum/EIPs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Ethereum Improvement Proposal repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenZeppelin/openzeppelin-contracts-upgradeable</title>
+    <updated>2022-07-01T02:53:39Z</updated>
+    <id>tag:github.com,2022-07-01:/OpenZeppelin/openzeppelin-contracts-upgradeable</id>
+    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

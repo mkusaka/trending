@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:53:47Z</updated>
+  <updated>2022-07-01T01:53:32Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JSorngard/cosmic_ray_detection</title>
-    <updated>2022-06-30T01:53:47Z</updated>
-    <id>tag:github.com,2022-06-30:/JSorngard/cosmic_ray_detection</id>
-    <link href="https://github.com/JSorngard/cosmic_ray_detection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use your computer as a cosmic ray detector! One of the memory errors rust does not protect against.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>libp2p/rust-libp2p</title>
+    <updated>2022-07-01T01:53:32Z</updated>
+    <id>tag:github.com,2022-07-01:/libp2p/rust-libp2p</id>
+    <link href="https://github.com/libp2p/rust-libp2p" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rust Implementation of the libp2p networking stack.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hyperium/tonic</title>
-    <updated>2022-06-30T01:53:47Z</updated>
-    <id>tag:github.com,2022-06-30:/hyperium/tonic</id>
-    <link href="https://github.com/hyperium/tonic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A native gRPC client &amp; server implementation with async/await support.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/miri</title>
+    <updated>2022-07-01T01:53:32Z</updated>
+    <id>tag:github.com,2022-07-01:/rust-lang/miri</id>
+    <link href="https://github.com/rust-lang/miri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interpreter for Rust&#39;s mid-level intermediate representation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mTvare6/hello-world.rs</title>
-    <updated>2022-06-30T01:53:47Z</updated>
-    <id>tag:github.com,2022-06-30:/mTvare6/hello-world.rs</id>
-    <link href="https://github.com/mTvare6/hello-world.rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Equim-chan/mjai-reviewer</title>
+    <updated>2022-07-01T01:53:32Z</updated>
+    <id>tag:github.com,2022-07-01:/Equim-chan/mjai-reviewer</id>
+    <link href="https://github.com/Equim-chan/mjai-reviewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔍🀄️ Review your Tenhou or Mahjong Soul (Jantama) log with mjai-compatible mahjong AI such as akochan.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

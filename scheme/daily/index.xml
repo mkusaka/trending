@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:54:12Z</updated>
+  <updated>2022-07-01T01:53:57Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Deltares/GEOLib</title>
+    <updated>2022-07-01T01:53:57Z</updated>
+    <id>tag:github.com,2022-07-01:/Deltares/GEOLib</id>
+    <link href="https://github.com/Deltares/GEOLib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GEOLib: Python wrappers around the input and output files of the Deltares D-Serie models&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

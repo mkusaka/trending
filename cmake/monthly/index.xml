@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:35:52Z</updated>
+  <subtitle>Monthly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/vcpkg</title>
+    <updated>2022-07-01T02:35:52Z</updated>
+    <id>tag:github.com,2022-07-01:/microsoft/vcpkg</id>
+    <link href="https://github.com/microsoft/vcpkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eve-autonomy/autoware_state_machine_msgs</title>
+    <updated>2022-07-01T02:35:52Z</updated>
+    <id>tag:github.com,2022-07-01:/eve-autonomy/autoware_state_machine_msgs</id>
+    <link href="https://github.com/eve-autonomy/autoware_state_machine_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eve-autonomy/audio_driver_msgs</title>
+    <updated>2022-07-01T02:35:52Z</updated>
+    <id>tag:github.com,2022-07-01:/eve-autonomy/audio_driver_msgs</id>
+    <link href="https://github.com/eve-autonomy/audio_driver_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HLSL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:42:05Z</updated>
+  <subtitle>Monthly Trending of HLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Samueleonard/AIG-ModelMatching-For-MSFS</title>
+    <updated>2022-07-01T02:42:05Z</updated>
+    <id>tag:github.com,2022-07-01:/Samueleonard/AIG-ModelMatching-For-MSFS</id>
+    <link href="https://github.com/Samueleonard/AIG-ModelMatching-For-MSFS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Latest version of AIG modelmatching for MSFS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hecomi/UnityFurURP</title>
+    <updated>2022-07-01T02:42:05Z</updated>
+    <id>tag:github.com,2022-07-01:/hecomi/UnityFurURP</id>
+    <link href="https://github.com/hecomi/UnityFurURP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fur shader implementation for URP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ray-cast/ray-mmd</title>
+    <updated>2022-07-01T02:42:05Z</updated>
+    <id>tag:github.com,2022-07-01:/ray-cast/ray-mmd</id>
+    <link href="https://github.com/ray-cast/ray-mmd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎨 The project is designed to create a physically-based rendering at mikumikudance.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

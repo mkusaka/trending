@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:38:43Z</updated>
+  <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>phoenixframework/phoenix</title>
+    <updated>2022-07-01T02:38:43Z</updated>
+    <id>tag:github.com,2022-07-01:/phoenixframework/phoenix</id>
+    <link href="https://github.com/phoenixframework/phoenix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Peace of mind from prototype to production&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>plausible/analytics</title>
+    <updated>2022-07-01T02:38:43Z</updated>
+    <id>tag:github.com,2022-07-01:/plausible/analytics</id>
+    <link href="https://github.com/plausible/analytics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-ecto/ecto</title>
+    <updated>2022-07-01T02:38:43Z</updated>
+    <id>tag:github.com,2022-07-01:/elixir-ecto/ecto</id>
+    <link href="https://github.com/elixir-ecto/ecto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toolkit for data mapping and language integrated query.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

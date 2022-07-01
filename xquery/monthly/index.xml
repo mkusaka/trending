@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub XQuery Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:58:02Z</updated>
+  <subtitle>Monthly Trending of XQuery in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>malteseduck/Grocery-Pricebook</title>
+    <updated>2022-07-01T02:58:02Z</updated>
+    <id>tag:github.com,2022-07-01:/malteseduck/Grocery-Pricebook</id>
+    <link href="https://github.com/malteseduck/Grocery-Pricebook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage prices of various items and keep history for reference&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

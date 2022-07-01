@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Sass Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:52:17Z</updated>
+  <subtitle>Monthly Trending of Sass in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nisrulz/app-privacy-policy-generator</title>
+    <updated>2022-07-01T02:52:17Z</updated>
+    <id>tag:github.com,2022-07-01:/nisrulz/app-privacy-policy-generator</id>
+    <link href="https://github.com/nisrulz/app-privacy-policy-generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple web app to generate a generic privacy policy for your Android/iOS apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Weilbyte/PVEDiscordDark</title>
+    <updated>2022-07-01T02:52:17Z</updated>
+    <id>tag:github.com,2022-07-01:/Weilbyte/PVEDiscordDark</id>
+    <link href="https://github.com/Weilbyte/PVEDiscordDark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Discord-like dark theme for the Proxmox Web UI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>readthedocs/sphinx_rtd_theme</title>
+    <updated>2022-07-01T02:52:17Z</updated>
+    <id>tag:github.com,2022-07-01:/readthedocs/sphinx_rtd_theme</id>
+    <link href="https://github.com/readthedocs/sphinx_rtd_theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sphinx theme for readthedocs.org&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-06-30T01:55:04Z</updated>
+  <updated>2022-07-01T01:54:51Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pharo-project/pharo-unicorn</title>
-    <updated>2022-06-30T01:55:04Z</updated>
-    <id>tag:github.com,2022-06-30:/pharo-project/pharo-unicorn</id>
-    <link href="https://github.com/pharo-project/pharo-unicorn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pharo bindings to the Unicorn machine code simulation library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pharo-project/pharo-llvmDisassembler</title>
-    <updated>2022-06-30T01:55:04Z</updated>
-    <id>tag:github.com,2022-06-30:/pharo-project/pharo-llvmDisassembler</id>
-    <link href="https://github.com/pharo-project/pharo-llvmDisassembler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pharo bindings to the LLVM disassembler&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pharo-ai/normalization</title>
-    <updated>2022-06-30T01:55:04Z</updated>
-    <id>tag:github.com,2022-06-30:/pharo-ai/normalization</id>
-    <link href="https://github.com/pharo-ai/normalization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Different strategies for normalizing a numeric collection that can be used by machine learning algorithms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:33:34Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>supranational/blst</title>
+    <updated>2022-07-01T02:33:34Z</updated>
+    <id>tag:github.com,2022-07-01:/supranational/blst</id>
+    <link href="https://github.com/supranational/blst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multilingual BLS12-381 signature library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DerpFest-12/bionic</title>
+    <updated>2022-07-01T02:33:34Z</updated>
+    <id>tag:github.com,2022-07-01:/DerpFest-12/bionic</id>
+    <link href="https://github.com/DerpFest-12/bionic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kleiton0x00/Shelltropy</title>
+    <updated>2022-07-01T02:33:34Z</updated>
+    <id>tag:github.com,2022-07-01:/kleiton0x00/Shelltropy</id>
+    <link href="https://github.com/kleiton0x00/Shelltropy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A technique of hiding malicious shellcode via Shannon encoding.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

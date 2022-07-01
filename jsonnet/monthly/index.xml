@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jsonnet Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:43:29Z</updated>
+  <subtitle>Monthly Trending of Jsonnet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>argoproj/argocd-example-apps</title>
+    <updated>2022-07-01T02:43:29Z</updated>
+    <id>tag:github.com,2022-07-01:/argoproj/argocd-example-apps</id>
+    <link href="https://github.com/argoproj/argocd-example-apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example Apps to Demonstrate Argo CD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kubeflow/kubeflow</title>
+    <updated>2022-07-01T02:43:29Z</updated>
+    <id>tag:github.com,2022-07-01:/kubeflow/kubeflow</id>
+    <link href="https://github.com/kubeflow/kubeflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Machine Learning Toolkit for Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>prometheus-operator/kube-prometheus</title>
+    <updated>2022-07-01T02:43:29Z</updated>
+    <id>tag:github.com,2022-07-01:/prometheus-operator/kube-prometheus</id>
+    <link href="https://github.com/prometheus-operator/kube-prometheus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use Prometheus to monitor Kubernetes and applications running on Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

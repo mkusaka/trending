@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-01T02:54:22Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>saadeghi/daisyui</title>
+    <updated>2022-07-01T02:54:22Z</updated>
+    <id>tag:github.com,2022-07-01:/saadeghi/daisyui</id>
+    <link href="https://github.com/saadeghi/daisyui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mermaid-js/mermaid-live-editor</title>
+    <updated>2022-07-01T02:54:22Z</updated>
+    <id>tag:github.com,2022-07-01:/mermaid-js/mermaid-live-editor</id>
+    <link href="https://github.com/mermaid-js/mermaid-live-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>carbon-design-system/carbon-components-svelte</title>
+    <updated>2022-07-01T02:54:22Z</updated>
+    <id>tag:github.com,2022-07-01:/carbon-design-system/carbon-components-svelte</id>
+    <link href="https://github.com/carbon-design-system/carbon-components-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte implementation of the Carbon Design System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
