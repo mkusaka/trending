@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:40:43Z</updated>
+  <updated>2022-07-02T01:39:17Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>okeuday/uuid</title>
-    <updated>2022-07-01T01:40:43Z</updated>
-    <id>tag:github.com,2022-07-01:/okeuday/uuid</id>
-    <link href="https://github.com/okeuday/uuid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang Native UUID Generation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>helium/blockchain-node</title>
-    <updated>2022-07-01T01:40:43Z</updated>
-    <id>tag:github.com,2022-07-01:/helium/blockchain-node</id>
-    <link href="https://github.com/helium/blockchain-node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Helum Blockchain Node&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sumup/hello_jesse</title>
-    <updated>2022-07-01T01:40:43Z</updated>
-    <id>tag:github.com,2022-07-01:/sumup/hello_jesse</id>
-    <link href="https://github.com/sumup/hello_jesse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSON Schema validations for Hello JSON-RPC framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

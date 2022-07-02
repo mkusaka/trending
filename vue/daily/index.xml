@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:57:59Z</updated>
+  <updated>2022-07-02T01:57:03Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vform666/variant-form</title>
-    <updated>2022-07-01T01:57:59Z</updated>
-    <id>tag:github.com,2022-07-01:/vform666/variant-form</id>
-    <link href="https://github.com/vform666/variant-form" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A powerful form designer for Vue.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lewkamtao/Lew-UI</title>
+    <updated>2022-07-02T01:57:03Z</updated>
+    <id>tag:github.com,2022-07-02:/lewkamtao/Lew-UI</id>
+    <link href="https://github.com/lewkamtao/Lew-UI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A beautiful component library based on vue3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WDaan/VueTorrent</title>
-    <updated>2022-07-01T01:57:59Z</updated>
-    <id>tag:github.com,2022-07-01:/WDaan/VueTorrent</id>
-    <link href="https://github.com/WDaan/VueTorrent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The sleekest looking WEBUI for qBittorrent made with Vuejs!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Vuepic/vue-datepicker</title>
+    <updated>2022-07-02T01:57:03Z</updated>
+    <id>tag:github.com,2022-07-02:/Vuepic/vue-datepicker</id>
+    <link href="https://github.com/Vuepic/vue-datepicker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Datepicker component for Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Down-1998/x-ui</title>
-    <updated>2022-07-01T01:57:59Z</updated>
-    <id>tag:github.com,2022-07-01:/Down-1998/x-ui</id>
-    <link href="https://github.com/Down-1998/x-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于vue3.2(setup语法糖)+vite创建的自己的ui组件库并实现按需导入&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>buefy/buefy</title>
+    <updated>2022-07-02T01:57:03Z</updated>
+    <id>tag:github.com,2022-07-02:/buefy/buefy</id>
+    <link href="https://github.com/buefy/buefy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight UI components for Vue.js based on Bulma&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

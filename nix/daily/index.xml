@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:48:49Z</updated>
+  <updated>2022-07-02T01:47:30Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dfinity/interface-spec</title>
-    <updated>2022-07-01T01:48:49Z</updated>
-    <id>tag:github.com,2022-07-01:/dfinity/interface-spec</id>
-    <link href="https://github.com/dfinity/interface-spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IC Interface Specification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pinpox/lollypops</title>
+    <updated>2022-07-02T01:47:30Z</updated>
+    <id>tag:github.com,2022-07-02:/pinpox/lollypops</id>
+    <link href="https://github.com/pinpox/lollypops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lollypop Operations - NixOS Deployment Tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gytis-ivaskevicius/flake-utils-plus</title>
+    <updated>2022-07-02T01:47:30Z</updated>
+    <id>tag:github.com,2022-07-02:/gytis-ivaskevicius/flake-utils-plus</id>
+    <link href="https://github.com/gytis-ivaskevicius/flake-utils-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use Nix flakes without any fluff.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

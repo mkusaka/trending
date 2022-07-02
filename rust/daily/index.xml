@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:53:32Z</updated>
+  <updated>2022-07-02T01:52:31Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>libp2p/rust-libp2p</title>
-    <updated>2022-07-01T01:53:32Z</updated>
-    <id>tag:github.com,2022-07-01:/libp2p/rust-libp2p</id>
-    <link href="https://github.com/libp2p/rust-libp2p" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Rust Implementation of the libp2p networking stack.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LearningOS/rust-based-os-comp2022</title>
+    <updated>2022-07-02T01:52:31Z</updated>
+    <id>tag:github.com,2022-07-02:/LearningOS/rust-based-os-comp2022</id>
+    <link href="https://github.com/LearningOS/rust-based-os-comp2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/miri</title>
-    <updated>2022-07-01T01:53:32Z</updated>
-    <id>tag:github.com,2022-07-01:/rust-lang/miri</id>
-    <link href="https://github.com/rust-lang/miri" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An interpreter for Rust&#39;s mid-level intermediate representation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>denisidoro/navi</title>
+    <updated>2022-07-02T01:52:31Z</updated>
+    <id>tag:github.com,2022-07-02:/denisidoro/navi</id>
+    <link href="https://github.com/denisidoro/navi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interactive cheatsheet tool for the command-line&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Equim-chan/mjai-reviewer</title>
-    <updated>2022-07-01T01:53:32Z</updated>
-    <id>tag:github.com,2022-07-01:/Equim-chan/mjai-reviewer</id>
-    <link href="https://github.com/Equim-chan/mjai-reviewer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔍🀄️ Review your Tenhou or Mahjong Soul (Jantama) log with mjai-compatible mahjong AI such as akochan.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moonrepo/moon</title>
+    <updated>2022-07-02T01:52:31Z</updated>
+    <id>tag:github.com,2022-07-02:/moonrepo/moon</id>
+    <link href="https://github.com/moonrepo/moon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A build system for the JavaScript ecosystem, written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:54:03Z</updated>
+  <updated>2022-07-02T01:53:00Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JaccoVeldscholten/SlimmeMeterDashboard</title>
-    <updated>2022-07-01T01:54:03Z</updated>
-    <id>tag:github.com,2022-07-01:/JaccoVeldscholten/SlimmeMeterDashboard</id>
-    <link href="https://github.com/JaccoVeldscholten/SlimmeMeterDashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;P1 Measurement Dashboard Application &amp; Beyond.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zivong/jekyll-theme-hamilton</title>
+    <updated>2022-07-02T01:53:00Z</updated>
+    <id>tag:github.com,2022-07-02:/zivong/jekyll-theme-hamilton</id>
+    <link href="https://github.com/zivong/jekyll-theme-hamilton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal and beautiful Jekyll theme best for writing and note-taking.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>discord-extensions/essence</title>
-    <updated>2022-07-01T01:54:03Z</updated>
-    <id>tag:github.com,2022-07-01:/discord-extensions/essence</id>
-    <link href="https://github.com/discord-extensions/essence" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A smooth, rounded theme.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rancher/docs</title>
+    <updated>2022-07-02T01:53:00Z</updated>
+    <id>tag:github.com,2022-07-02:/rancher/docs</id>
+    <link href="https://github.com/rancher/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for Rancher products (for 2.0/new site)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mate-academy/Museum</title>
-    <updated>2022-07-01T01:54:03Z</updated>
-    <id>tag:github.com,2022-07-01:/mate-academy/Museum</id>
-    <link href="https://github.com/mate-academy/Museum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bedimcode/modern-input-field</title>
+    <updated>2022-07-02T01:53:00Z</updated>
+    <id>tag:github.com,2022-07-02:/bedimcode/modern-input-field</id>
+    <link href="https://github.com/bedimcode/modern-input-field" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Input Field Animation Using HTML &amp; CSS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

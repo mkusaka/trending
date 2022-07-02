@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:33:40Z</updated>
+  <updated>2022-07-02T01:32:17Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dair-ai/ML-Course-Notes</title>
-    <updated>2022-07-01T01:33:40Z</updated>
-    <id>tag:github.com,2022-07-01:/dair-ai/ML-Course-Notes</id>
-    <link href="https://github.com/dair-ai/ML-Course-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>upptime/upptime</title>
+    <updated>2022-07-02T01:32:17Z</updated>
+    <id>tag:github.com,2022-07-02:/upptime/upptime</id>
+    <link href="https://github.com/upptime/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⬆️ Free uptime monitor and status page powered by GitHub&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Avik-Jain/100-Days-Of-ML-Code</title>
-    <updated>2022-07-01T01:33:40Z</updated>
-    <id>tag:github.com,2022-07-01:/Avik-Jain/100-Days-Of-ML-Code</id>
-    <link href="https://github.com/Avik-Jain/100-Days-Of-ML-Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;100 Days of ML Coding&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>f-lab-edu/graduate-resume</title>
+    <updated>2022-07-02T01:32:17Z</updated>
+    <id>tag:github.com,2022-07-02:/f-lab-edu/graduate-resume</id>
+    <link href="https://github.com/f-lab-edu/graduate-resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;취업/이직을 준비하시는 분들을 위해 F-Lab 수료생들의 이력서를 무료로 배포합니다.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kaustubh-Natuskar/moreThanFAANGM</title>
-    <updated>2022-07-01T01:33:40Z</updated>
-    <id>tag:github.com,2022-07-01:/Kaustubh-Natuskar/moreThanFAANGM</id>
-    <link href="https://github.com/Kaustubh-Natuskar/moreThanFAANGM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) &amp; good start-ups.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>guchangan1/All-Defense-Tool</title>
+    <updated>2022-07-02T01:32:17Z</updated>
+    <id>tag:github.com,2022-07-02:/guchangan1/All-Defense-Tool</id>
+    <link href="https://github.com/guchangan1/All-Defense-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

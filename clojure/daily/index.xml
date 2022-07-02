@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:37:23Z</updated>
+  <updated>2022-07-02T01:35:52Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyperfiddle/rcf</title>
-    <updated>2022-07-01T01:37:23Z</updated>
-    <id>tag:github.com,2022-07-01:/hyperfiddle/rcf</id>
-    <link href="https://github.com/hyperfiddle/rcf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RCF – a REPL-first, async test macro for Clojure/Script&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure-cookbook/clojure-cookbook</title>
+    <updated>2022-07-02T01:35:52Z</updated>
+    <id>tag:github.com,2022-07-02:/clojure-cookbook/clojure-cookbook</id>
+    <link href="https://github.com/clojure-cookbook/clojure-cookbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the home of O&#39;Reilly&#39;s Clojure Cookbook - http://clojure-cookbook.com&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>braveclojure/cftbat-code</title>
-    <updated>2022-07-01T01:37:23Z</updated>
-    <id>tag:github.com,2022-07-01:/braveclojure/cftbat-code</id>
-    <link href="https://github.com/braveclojure/cftbat-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>drewr/elmer</title>
-    <updated>2022-07-01T01:37:23Z</updated>
-    <id>tag:github.com,2022-07-01:/drewr/elmer</id>
-    <link href="https://github.com/drewr/elmer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure paste servlet.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>overtone/overtone</title>
+    <updated>2022-07-02T01:35:52Z</updated>
+    <id>tag:github.com,2022-07-02:/overtone/overtone</id>
+    <link href="https://github.com/overtone/overtone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collaborative Programmable Music&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

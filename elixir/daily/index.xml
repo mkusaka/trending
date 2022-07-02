@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:40:11Z</updated>
+  <updated>2022-07-02T01:38:44Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fabriziosestito/commanded-spear-adapter</title>
-    <updated>2022-07-01T01:40:11Z</updated>
-    <id>tag:github.com,2022-07-01:/fabriziosestito/commanded-spear-adapter</id>
-    <link href="https://github.com/fabriziosestito/commanded-spear-adapter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spear event store adapter for Commanded&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primait/csv_schema</title>
+    <updated>2022-07-02T01:38:44Z</updated>
+    <id>tag:github.com,2022-07-02:/primait/csv_schema</id>
+    <link href="https://github.com/primait/csv_schema" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>theblitzapp/phoenix_config</title>
-    <updated>2022-07-01T01:40:11Z</updated>
-    <id>tag:github.com,2022-07-01:/theblitzapp/phoenix_config</id>
-    <link href="https://github.com/theblitzapp/phoenix_config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Config as code generation for phoenix applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primait/auth0_ex</title>
+    <updated>2022-07-02T01:38:44Z</updated>
+    <id>tag:github.com,2022-07-02:/primait/auth0_ex</id>
+    <link href="https://github.com/primait/auth0_ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;auth0 elixir library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>msharp/elixir-statistics</title>
-    <updated>2022-07-01T01:40:11Z</updated>
-    <id>tag:github.com,2022-07-01:/msharp/elixir-statistics</id>
-    <link href="https://github.com/msharp/elixir-statistics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Statistical functions and distributions for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primait/amqpx</title>
+    <updated>2022-07-02T01:38:44Z</updated>
+    <id>tag:github.com,2022-07-02:/primait/amqpx</id>
+    <link href="https://github.com/primait/amqpx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir AMQP client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

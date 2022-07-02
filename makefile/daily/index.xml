@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:46:59Z</updated>
+  <updated>2022-07-02T01:45:42Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nestlabs/nlfaultinjection</title>
-    <updated>2022-07-01T01:46:59Z</updated>
-    <id>tag:github.com,2022-07-01:/nestlabs/nlfaultinjection</id>
-    <link href="https://github.com/nestlabs/nlfaultinjection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nest Labs Fault Injection (nlfaultinjection) is designed to provide a simple, portable fault injection framework.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scratchnative/scratch-linux-modules</title>
+    <updated>2022-07-02T01:45:42Z</updated>
+    <id>tag:github.com,2022-07-02:/scratchnative/scratch-linux-modules</id>
+    <link href="https://github.com/scratchnative/scratch-linux-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linux kernel modules written in Scratch&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chidiebubeuchenna/monitraka</title>
-    <updated>2022-07-01T01:46:59Z</updated>
-    <id>tag:github.com,2022-07-01:/chidiebubeuchenna/monitraka</id>
-    <link href="https://github.com/chidiebubeuchenna/monitraka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An app that helps users track their finance and reach their money goals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qaware/cloud-native-explab</title>
+    <updated>2022-07-02T01:45:42Z</updated>
+    <id>tag:github.com,2022-07-02:/qaware/cloud-native-explab</id>
+    <link href="https://github.com/qaware/cloud-native-explab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QAware Cloud Native Experience Lab&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/management-clusters-fleet</title>
+    <updated>2022-07-02T01:45:42Z</updated>
+    <id>tag:github.com,2022-07-02:/giantswarm/management-clusters-fleet</id>
+    <link href="https://github.com/giantswarm/management-clusters-fleet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitOps for Giant Swarm management clusters&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

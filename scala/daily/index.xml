@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:53:42Z</updated>
+  <updated>2022-07-02T01:52:41Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Baeldung/scala-tutorials</title>
-    <updated>2022-07-01T01:53:42Z</updated>
-    <id>tag:github.com,2022-07-01:/Baeldung/scala-tutorials</id>
-    <link href="https://github.com/Baeldung/scala-tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scala-tutorials&lt;/h1&gt; &#xA;&lt;h1&gt;Code fomatting&lt;/h1&gt; &#xA;&lt;p&gt;Before creating a PR, make sure the code is correctly formatted running &lt;code&gt;sbt scalafmt&lt;/code&gt;.&lt;/p&gt;</summary>
+    <title>oxlade39/scala-betfair</title>
+    <updated>2022-07-02T01:52:41Z</updated>
+    <id>tag:github.com,2022-07-02:/oxlade39/scala-betfair</id>
+    <link href="https://github.com/oxlade39/scala-betfair" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Scala wrapper around the Betfair API&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;http://travis-ci.org/oxlade39/scala-betfair&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/oxlade39/scala-betfair.png&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Betfair API written in Scala&lt;/h2&gt; &#xA;&lt;p&gt;A simple Scala library allowing you to authenticate with Betfair and query the exchange.&lt;/p&gt; &#xA;&lt;p&gt;All operations operate asynchronously allowing for nice Scala for comprehension to chain and map results from the exchange.&lt;/p&gt; &#xA;&lt;h2&gt;Example Usage&lt;/h2&gt; &#xA;&lt;h3&gt;List today&#39;s Horse Racing events:&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;object TodaysHorseRacingEvents extends ExampleApp {&#xA;  import betfair.ex&#xA;  &#xA;  val HorseRacingEventTypeId = &#34;7&#34;&#xA;&#xA;  val horseRacingEvents = for {&#xA;    session &amp;lt;- betfair.login(MyCredentials)&#xA;    events &amp;lt;- betfair.listEvents(AuthorisedRequest(token = session.token, maxResults = 100, filter = MarketFilter(&#xA;      eventTypeIds = Set(HorseRacingEventTypeId),&#xA;      marketStartTime = Some(TimeRange.Today)&#xA;    )))&#xA;  } yield events&#xA;&#xA;  horseRacingEvents onSuccess {&#xA;    case events =&amp;gt;&#xA;      events foreach println&#xA;      betfair.http.shutdown()&#xA;  }&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This would output:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;username: ********&#xA;password: ********&#xA;ListEventsResponse(Event(id : 27315292, name : TPara (US) 28th Nov, countryCode : Some(US), timezone : US/Arizona, openDate : 2014-11-28T19:55:00.000Z),2)&#xA;ListEventsResponse(Event(id : 27314820, name : ClubHip (CHL) 28th Nov, countryCode : Some(CL), timezone : America/Santiago, openDate : 2014-11-28T17:30:00.000Z),1)&#xA;ListEventsResponse(Event(id : 27314989, name : Hawth (US) 28th Nov, countryCode : Some(US), timezone : US/Central, openDate : 2014-11-28T19:50:00.000Z),6)&#xA;ListEventsResponse(Event(id : 27315216, name : DeltaD (US) 28th Nov, countryCode : Some(US), timezone : US/Central, openDate : 2014-11-28T23:50:00.000Z),2)&#xA;ListEventsResponse(Event(id : 27315266, name : Penn (US) 28th Nov, countryCode : Some(US), timezone : US/Eastern, openDate : 2014-11-28T23:00:00.000Z),6)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;More examples&lt;/h3&gt; &#xA;&lt;p&gt;See the &lt;code&gt;uk.co.softsquare.privetng.example&lt;/code&gt; package for further examples&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>yanns/play2-scala-DI</title>
-    <updated>2022-07-01T01:53:42Z</updated>
-    <id>tag:github.com,2022-07-01:/yanns/play2-scala-DI</id>
-    <link href="https://github.com/yanns/play2-scala-DI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;play2-scala-DI&lt;/h1&gt; &#xA;&lt;p&gt;Technical prototyp to test different dependency injection solutions.&lt;/p&gt; &#xA;&lt;p&gt;The target platform is:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Play framework v2&lt;/li&gt; &#xA; &lt;li&gt;Scala&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Tested:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Cake pattern&lt;/li&gt; &#xA; &lt;li&gt;injection with implicits.&lt;/li&gt; &#xA; &lt;li&gt;spring&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>adrianfilip/reservation-booker</title>
+    <updated>2022-07-02T01:52:41Z</updated>
+    <id>tag:github.com,2022-07-02:/adrianfilip/reservation-booker</id>
+    <link href="https://github.com/adrianfilip/reservation-booker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;I. Start the app&lt;/h2&gt; &#xA;&lt;h3&gt;1. Start backend&lt;/h3&gt; &#xA;&lt;h4&gt;- tab 1&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;sbt &#34;~bookerService/reStart&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;2. Start frontend&lt;/h3&gt; &#xA;&lt;h4&gt;- tab 2&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;sbt &#34;~bookerUI/fastLinkJS&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;- tab 3&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;cd booker-ui&#xA;#only has to be run once&#xA;npm install&#xA;yarn exec vite&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then you can access the frontend at &lt;a href=&#34;http://localhost:3000&#34;&gt;http://localhost:3000&lt;/a&gt; and login with user/pass: john/aaa or jane/aaa&lt;/p&gt; &#xA;&lt;p&gt;Once logged in you should see this screen: &lt;img src=&#34;https://github.com/adrianfilip/reservation-booker/raw/master/Screenshots/MyReservationsPage.png?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;II. Other commands&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;sbtn &#34;~bookerService/reStart&#34;&#xA;&#xA;sbtn &#34;~bookerUI/fastLinkJS&#34;&#xA;&#xA;cd booker-ui&#xA;yarn exec vite&#xA;&#xA;curl -X POST http://localhost:8090/login -H &#39;Content-Type:application/json&#39; -d &#39;{&#34;username&#34;:&#34;my_login&#34;,&#34;password&#34;:&#34;my_password&#34;}&#39; | jq&#xA;&#xA;curl -v -X POST http://localhost:8090/login -H &#39;Content-Type:application/json&#39; -d &#39;{&#34;username&#34;:&#34;my_login&#34;,&#34;password&#34;:&#34;my_password&#34;}&#39; | jq&#xA;&#xA;#ports&#xA;lsof -PiTCP -sTCP:LISTEN&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;III. Other details&lt;/h2&gt; &#xA;&lt;p&gt;This project is a Proof of Concept for Scala 3 + ZIO 2 + zio-http + Laminar so not all simplifications or refactors that can be done are done.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>neo4j/neo4j-documentation</title>
+    <updated>2022-07-02T01:52:41Z</updated>
+    <id>tag:github.com,2022-07-02:/neo4j/neo4j-documentation</id>
+    <link href="https://github.com/neo4j/neo4j-documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;About Neo4j documentation&lt;/h1&gt; &#xA;&lt;div class=&#34;paragraph&#34;&gt; &#xA; &lt;p&gt;This repository contains tools and tests for proving and generating documentation for &lt;a href=&#34;https://github.com/neo4j/neo4j/&#34;&gt;Neo4j&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;div class=&#34;paragraph&#34;&gt; &#xA; &lt;p&gt;All docs sources are maintained in AsciiDoc format. The primary output of building the projects kept here are artifacts (JARs) containing docs sources, code examples, and some scripts and images. These are processed downstream with custom tools, Asciidoctor and XSLT to produce the library of documentation available at &lt;a href=&#34;https://neo4j.com/docs/&#34; class=&#34;bare&#34;&gt;https://neo4j.com/docs/&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;/div&gt;</summary>
   </entry>
 </feed>

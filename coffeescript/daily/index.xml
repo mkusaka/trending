@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:37:42Z</updated>
+  <updated>2022-07-02T01:36:11Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fetch/countdown</title>
-    <updated>2022-07-01T01:37:42Z</updated>
-    <id>tag:github.com,2022-07-01:/fetch/countdown</id>
-    <link href="https://github.com/fetch/countdown" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Countdown is a JavaScript plugin to easily create counters.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>docpad/docpad-plugin-coffeekup</title>
+    <updated>2022-07-02T01:36:11Z</updated>
+    <id>tag:github.com,2022-07-02:/docpad/docpad-plugin-coffeekup</id>
+    <link href="https://github.com/docpad/docpad-plugin-coffeekup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds support for CoffeeKup compilation to DocPad&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>amccollum/timeout</title>
-    <updated>2022-07-01T01:37:42Z</updated>
-    <id>tag:github.com,2022-07-01:/amccollum/timeout</id>
-    <link href="https://github.com/amccollum/timeout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple replacement for setTimeout, setInterval, and polling loops&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fase/coffee_zombies</title>
+    <updated>2022-07-02T01:36:11Z</updated>
+    <id>tag:github.com,2022-07-02:/fase/coffee_zombies</id>
+    <link href="https://github.com/fase/coffee_zombies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Because an caffeinated mind is a terrible thing to waste.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pangratz/emberjs-hubot</title>
-    <updated>2022-07-01T01:37:42Z</updated>
-    <id>tag:github.com,2022-07-01:/pangratz/emberjs-hubot</id>
-    <link href="https://github.com/pangratz/emberjs-hubot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;hubot for #emberjs IRC channel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>docpad-archive/docpad-plugin-php</title>
+    <updated>2022-07-02T01:36:11Z</updated>
+    <id>tag:github.com,2022-07-02:/docpad-archive/docpad-plugin-php</id>
+    <link href="https://github.com/docpad-archive/docpad-plugin-php" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds support for the PHP language to DocPad.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

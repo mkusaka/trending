@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:45:03Z</updated>
+  <updated>2022-07-02T01:43:38Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alan-turing-institute/MLJ.jl</title>
-    <updated>2022-07-01T01:45:03Z</updated>
-    <id>tag:github.com,2022-07-01:/alan-turing-institute/MLJ.jl</id>
-    <link href="https://github.com/alan-turing-institute/MLJ.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia machine learning framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Leticia-maria/QuantumFoca.jl</title>
+    <updated>2022-07-02T01:43:38Z</updated>
+    <id>tag:github.com,2022-07-02:/Leticia-maria/QuantumFoca.jl</id>
+    <link href="https://github.com/Leticia-maria/QuantumFoca.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for calculating Molecular Integrals, based on O-ohata method (1966).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>peterahrens/MemoizedMethods.jl</title>
-    <updated>2022-07-01T01:45:03Z</updated>
-    <id>tag:github.com,2022-07-01:/peterahrens/MemoizedMethods.jl</id>
-    <link href="https://github.com/peterahrens/MemoizedMethods.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Methodwise Memoization for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lazarusA/BeautifulMakie</title>
+    <updated>2022-07-02T01:43:38Z</updated>
+    <id>tag:github.com,2022-07-02:/lazarusA/BeautifulMakie</id>
+    <link href="https://github.com/lazarusA/BeautifulMakie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://lazarusa.github.io/BeautifulMakie/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

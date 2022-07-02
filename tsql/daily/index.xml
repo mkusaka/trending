@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-01T01:56:49Z</updated>
+  <updated>2022-07-02T01:55:51Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DiscoDurodeRoer/Database_pokemon</title>
-    <updated>2022-07-01T01:56:49Z</updated>
-    <id>tag:github.com,2022-07-01:/DiscoDurodeRoer/Database_pokemon</id>
-    <link href="https://github.com/DiscoDurodeRoer/Database_pokemon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Representacion en base de datos de las generaciones de pokemon&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ivanceras/sakila</title>
-    <updated>2022-07-01T01:56:49Z</updated>
-    <id>tag:github.com,2022-07-01:/ivanceras/sakila</id>
-    <link href="https://github.com/ivanceras/sakila" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sakila sample database for each database platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
