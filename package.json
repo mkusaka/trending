@@ -5,9 +5,6 @@
   "repository": "https://github.com/mkusaka/trending.git",
   "author": "mkusaka <hinoshita1992@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "@types/node": "^16.0.0"
-  },
   "scripts": {
     "deploy": "gh-pages -d out",
     "deploy:ci": "gh-pages -d out -u 'github-actions-bot <support+actions@github.com>'"

@@ -37,19 +37,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["@types/node", "npm:16.11.36"],
             ["gh-pages", "npm:4.0.0"]
           ],
           "linkType": "SOFT",
-        }]
-      ]],
-      ["@types/node", [
-        ["npm:16.11.36", {
-          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.36-bab977b752-569084ec8b.zip/node_modules/@types/node/",
-          "packageDependencies": [
-            ["@types/node", "npm:16.11.36"]
-          ],
-          "linkType": "HARD",
         }]
       ]],
       ["array-union", [
@@ -462,7 +452,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["trending", "workspace:."],
-            ["@types/node", "npm:16.11.36"],
             ["gh-pages", "npm:4.0.0"]
           ],
           "linkType": "SOFT",
