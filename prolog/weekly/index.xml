@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Prolog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:20:09Z</updated>
+  <subtitle>Weekly Trending of Prolog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>willettk/kw-spitzer-idl</title>
+    <updated>2022-07-03T02:20:09Z</updated>
+    <id>tag:github.com,2022-07-03:/willettk/kw-spitzer-idl</id>
+    <link href="https://github.com/willettk/kw-spitzer-idl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IDL code to reduce and analyze Spitzer IRS data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NicholasCLewis/Ribbon-to-DIP-SIP</title>
+    <updated>2022-07-03T02:20:09Z</updated>
+    <id>tag:github.com,2022-07-03:/NicholasCLewis/Ribbon-to-DIP-SIP</id>
+    <link href="https://github.com/NicholasCLewis/Ribbon-to-DIP-SIP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ribbon Cable to DIP and SIP adapters&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

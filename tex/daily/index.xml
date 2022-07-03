@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:55:28Z</updated>
+  <updated>2022-07-03T01:56:43Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>olivierverdier/python-latex-highlighting</title>
-    <updated>2022-07-02T01:55:28Z</updated>
-    <id>tag:github.com,2022-07-02:/olivierverdier/python-latex-highlighting</id>
-    <link href="https://github.com/olivierverdier/python-latex-highlighting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LaTeX style for Python highlighting&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Python highlighting in LaTeX&lt;/h1&gt; &#xA;&lt;p&gt;A simple Python highlighting style to be used with LaTeX.&lt;/p&gt; &#xA;&lt;p&gt;The package is loaded by the following line:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;\usepackage{pythonhighlight}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;It is then possible to include a Python snippet directly in the code using:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;\begin{python}&#xA;def f(x):&#xA;    return x&#xA;\end{python}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;It is also possible to include inline Python code in LaTeX with &lt;code&gt;\pyth&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;The special method \pyth{__init__}... &#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Last but not least, you can load an external Python file with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;\inputpython{python_file.py}{23}{50}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;to display the contents of the file &lt;code&gt;python_file&lt;/code&gt; from line 23 to line 50.&lt;/p&gt;</summary>
+    <title>tlringer/ml-for-proofs</title>
+    <updated>2022-07-03T01:56:43Z</updated>
+    <id>tag:github.com,2022-07-03:/tlringer/ml-for-proofs</id>
+    <link href="https://github.com/tlringer/ml-for-proofs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open bibliography of machine learning for formal proof papers&lt;/p&gt;&lt;hr&gt;&lt;p&gt;An open bibliography of machine learning for formal proof papers. All papers on machine learning applied to proof assistants are welcome here, regardless of venue and quality. Papers on machine learning for automated theorem provers are welcome if and only if they are directly applicable to proof assistants, and the connection to proof assistants is discussed explicitly in the paper.&lt;/p&gt; &#xA;&lt;p&gt;This bibliography is nonexhaustive, and open to the public to add papers to. To contribute, please submit a pull request. It is perfectly fine to add your own papers.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>AutonomyLab/autonomylab.github.com</title>
-    <updated>2022-07-02T01:55:28Z</updated>
-    <id>tag:github.com,2022-07-02:/AutonomyLab/autonomylab.github.com</id>
-    <link href="https://github.com/AutonomyLab/autonomylab.github.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lab web pages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lambdabetaeta/pls-tt-tutorial</title>
-    <updated>2022-07-02T01:55:28Z</updated>
-    <id>tag:github.com,2022-07-02:/lambdabetaeta/pls-tt-tutorial</id>
-    <link href="https://github.com/lambdabetaeta/pls-tt-tutorial" rel="alternate"></link>
+    <title>muhammadoginh/kisi-kisi_komdat</title>
+    <updated>2022-07-03T01:56:43Z</updated>
+    <id>tag:github.com,2022-07-03:/muhammadoginh/kisi-kisi_komdat</id>
+    <link href="https://github.com/muhammadoginh/kisi-kisi_komdat" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

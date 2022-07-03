@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EmberScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:09:01Z</updated>
+  <subtitle>Weekly Trending of EmberScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zurich-eye/cmake_external_project_catkin</title>
+    <updated>2022-07-03T02:09:01Z</updated>
+    <id>tag:github.com,2022-07-03:/zurich-eye/cmake_external_project_catkin</id>
+    <link href="https://github.com/zurich-eye/cmake_external_project_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;macros that help to make ExternalProject dependencies install and build correctly when used with catkin devel and install locations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

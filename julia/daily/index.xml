@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:43:38Z</updated>
+  <updated>2022-07-03T01:45:06Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Leticia-maria/QuantumFoca.jl</title>
-    <updated>2022-07-02T01:43:38Z</updated>
-    <id>tag:github.com,2022-07-02:/Leticia-maria/QuantumFoca.jl</id>
-    <link href="https://github.com/Leticia-maria/QuantumFoca.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for calculating Molecular Integrals, based on O-ohata method (1966).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lazarusA/BeautifulMakie</title>
-    <updated>2022-07-02T01:43:38Z</updated>
-    <id>tag:github.com,2022-07-02:/lazarusA/BeautifulMakie</id>
-    <link href="https://github.com/lazarusA/BeautifulMakie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://lazarusa.github.io/BeautifulMakie/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RoyiAvital/Julia100Exercises</title>
+    <updated>2022-07-03T01:45:06Z</updated>
+    <id>tag:github.com,2022-07-03:/RoyiAvital/Julia100Exercises</id>
+    <link href="https://github.com/RoyiAvital/Julia100Exercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of introductory exercises for Julia. Based on [100 NumPy Exercises](https://github.com/rougier/numpy-100).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

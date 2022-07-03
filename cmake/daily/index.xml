@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:36:02Z</updated>
+  <updated>2022-07-03T01:37:17Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>McMartin/FRUT</title>
-    <updated>2022-07-02T01:36:02Z</updated>
-    <id>tag:github.com,2022-07-02:/McMartin/FRUT</id>
-    <link href="https://github.com/McMartin/FRUT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Building JUCE projects using CMake made easy&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

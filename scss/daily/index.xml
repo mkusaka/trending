@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:53:00Z</updated>
+  <updated>2022-07-03T01:54:12Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zivong/jekyll-theme-hamilton</title>
-    <updated>2022-07-02T01:53:00Z</updated>
-    <id>tag:github.com,2022-07-02:/zivong/jekyll-theme-hamilton</id>
-    <link href="https://github.com/zivong/jekyll-theme-hamilton" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimal and beautiful Jekyll theme best for writing and note-taking.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iCyris/Magia</title>
+    <updated>2022-07-03T01:54:12Z</updated>
+    <id>tag:github.com,2022-07-03:/iCyris/Magia</id>
+    <link href="https://github.com/iCyris/Magia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rancher/docs</title>
-    <updated>2022-07-02T01:53:00Z</updated>
-    <id>tag:github.com,2022-07-02:/rancher/docs</id>
-    <link href="https://github.com/rancher/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for Rancher products (for 2.0/new site)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>silverstripe/silverstripe-login-forms</title>
+    <updated>2022-07-03T01:54:12Z</updated>
+    <id>tag:github.com,2022-07-03:/silverstripe/silverstripe-login-forms</id>
+    <link href="https://github.com/silverstripe/silverstripe-login-forms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Login form templates for SilverStripe CMS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bedimcode/modern-input-field</title>
-    <updated>2022-07-02T01:53:00Z</updated>
-    <id>tag:github.com,2022-07-02:/bedimcode/modern-input-field</id>
-    <link href="https://github.com/bedimcode/modern-input-field" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Input Field Animation Using HTML &amp; CSS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joshgerdes/jekyll-uno</title>
+    <updated>2022-07-03T01:54:12Z</updated>
+    <id>tag:github.com,2022-07-03:/joshgerdes/jekyll-uno</id>
+    <link href="https://github.com/joshgerdes/jekyll-uno" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jekyll-Uno - a minimal, responsive theme for Jekyll based on Uno for Ghost&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

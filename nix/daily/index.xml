@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:47:30Z</updated>
+  <updated>2022-07-03T01:48:49Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pinpox/lollypops</title>
-    <updated>2022-07-02T01:47:30Z</updated>
-    <id>tag:github.com,2022-07-02:/pinpox/lollypops</id>
-    <link href="https://github.com/pinpox/lollypops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lollypop Operations - NixOS Deployment Tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tow-Boot/Tow-Boot</title>
+    <updated>2022-07-03T01:48:49Z</updated>
+    <id>tag:github.com,2022-07-03:/Tow-Boot/Tow-Boot</id>
+    <link href="https://github.com/Tow-Boot/Tow-Boot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gytis-ivaskevicius/flake-utils-plus</title>
-    <updated>2022-07-02T01:47:30Z</updated>
-    <id>tag:github.com,2022-07-02:/gytis-ivaskevicius/flake-utils-plus</id>
-    <link href="https://github.com/gytis-ivaskevicius/flake-utils-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use Nix flakes without any fluff.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Liqwid-Labs/agora-ps-bridge</title>
+    <updated>2022-07-03T01:48:49Z</updated>
+    <id>tag:github.com,2022-07-03:/Liqwid-Labs/agora-ps-bridge</id>
+    <link href="https://github.com/Liqwid-Labs/agora-ps-bridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PureScript bridging functionality for Agora.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>divnix/digga</title>
+    <updated>2022-07-03T01:48:49Z</updated>
+    <id>tag:github.com,2022-07-03:/divnix/digga</id>
+    <link href="https://github.com/divnix/digga" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A flake utility library to craft shell-, home-, and hosts- environments.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

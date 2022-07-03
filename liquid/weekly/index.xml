@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Liquid Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:14:57Z</updated>
+  <subtitle>Weekly Trending of Liquid in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shopify/starter-theme</title>
+    <updated>2022-07-03T02:14:57Z</updated>
+    <id>tag:github.com,2022-07-03:/Shopify/starter-theme</id>
+    <link href="https://github.com/Shopify/starter-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Shopify Themes Team opinionated starting point for new a Slate project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shopify/skeleton-theme</title>
+    <updated>2022-07-03T02:14:57Z</updated>
+    <id>tag:github.com,2022-07-03:/Shopify/skeleton-theme</id>
+    <link href="https://github.com/Shopify/skeleton-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A barebones ☠️starter theme with the required files needed to compile with Slate and upload to Shopify.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shopify/esqueleto</title>
+    <updated>2022-07-03T02:14:57Z</updated>
+    <id>tag:github.com,2022-07-03:/Shopify/esqueleto</id>
+    <link href="https://github.com/Shopify/esqueleto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:23:14Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LiveRamp/privacy-manager-consent-state</title>
+    <updated>2022-07-03T02:23:14Z</updated>
+    <id>tag:github.com,2022-07-03:/LiveRamp/privacy-manager-consent-state</id>
+    <link href="https://github.com/LiveRamp/privacy-manager-consent-state" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Privacy Manager Consent State&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>algolia/search-insights-gtm</title>
+    <updated>2022-07-03T02:23:14Z</updated>
+    <id>tag:github.com,2022-07-03:/algolia/search-insights-gtm</id>
+    <link href="https://github.com/algolia/search-insights-gtm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google Tag Manager template for detecting front-end Algolia search metrics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DandelionSprout/adfilt</title>
+    <updated>2022-07-03T02:23:14Z</updated>
+    <id>tag:github.com,2022-07-03:/DandelionSprout/adfilt</id>
+    <link href="https://github.com/DandelionSprout/adfilt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

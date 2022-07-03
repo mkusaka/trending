@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jsonnet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:13:35Z</updated>
+  <subtitle>Weekly Trending of Jsonnet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kubeflow/examples</title>
+    <updated>2022-07-03T02:13:35Z</updated>
+    <id>tag:github.com,2022-07-03:/kubeflow/examples</id>
+    <link href="https://github.com/kubeflow/examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository to host extended examples and tutorials&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>google/jsonnet</title>
+    <updated>2022-07-03T02:13:35Z</updated>
+    <id>tag:github.com,2022-07-03:/google/jsonnet</id>
+    <link href="https://github.com/google/jsonnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jsonnet - The data templating language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>google/earthengine-catalog</title>
+    <updated>2022-07-03T02:13:35Z</updated>
+    <id>tag:github.com,2022-07-03:/google/earthengine-catalog</id>
+    <link href="https://github.com/google/earthengine-catalog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

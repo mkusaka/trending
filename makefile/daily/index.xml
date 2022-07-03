@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:45:42Z</updated>
+  <updated>2022-07-03T01:46:58Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>scratchnative/scratch-linux-modules</title>
-    <updated>2022-07-02T01:45:42Z</updated>
-    <id>tag:github.com,2022-07-02:/scratchnative/scratch-linux-modules</id>
-    <link href="https://github.com/scratchnative/scratch-linux-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Linux kernel modules written in Scratch&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NJU-ProjectN/os-workbench-2022</title>
+    <updated>2022-07-03T01:46:58Z</updated>
+    <id>tag:github.com,2022-07-03:/NJU-ProjectN/os-workbench-2022</id>
+    <link href="https://github.com/NJU-ProjectN/os-workbench-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>qaware/cloud-native-explab</title>
-    <updated>2022-07-02T01:45:42Z</updated>
-    <id>tag:github.com,2022-07-02:/qaware/cloud-native-explab</id>
-    <link href="https://github.com/qaware/cloud-native-explab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QAware Cloud Native Experience Lab&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xdite/memory-hack</title>
+    <updated>2022-07-03T01:46:58Z</updated>
+    <id>tag:github.com,2022-07-03:/xdite/memory-hack</id>
+    <link href="https://github.com/xdite/memory-hack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;打造超人大脑&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>giantswarm/management-clusters-fleet</title>
-    <updated>2022-07-02T01:45:42Z</updated>
-    <id>tag:github.com,2022-07-02:/giantswarm/management-clusters-fleet</id>
-    <link href="https://github.com/giantswarm/management-clusters-fleet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitOps for Giant Swarm management clusters&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xiaomi-sm6150/android_vendor_xiaomi</title>
+    <updated>2022-07-03T01:46:58Z</updated>
+    <id>tag:github.com,2022-07-03:/xiaomi-sm6150/android_vendor_xiaomi</id>
+    <link href="https://github.com/xiaomi-sm6150/android_vendor_xiaomi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

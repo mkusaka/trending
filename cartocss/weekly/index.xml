@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CartoCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:05:47Z</updated>
+  <subtitle>Weekly Trending of CartoCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mapbox/mapbox-studio-satellite-afternoon.tm2</title>
+    <updated>2022-07-03T02:05:47Z</updated>
+    <id>tag:github.com,2022-07-03:/mapbox/mapbox-studio-satellite-afternoon.tm2</id>
+    <link href="https://github.com/mapbox/mapbox-studio-satellite-afternoon.tm2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mapbox/mapbox-studio-high-contrast.tm2</title>
+    <updated>2022-07-03T02:05:47Z</updated>
+    <id>tag:github.com,2022-07-03:/mapbox/mapbox-studio-high-contrast.tm2</id>
+    <link href="https://github.com/mapbox/mapbox-studio-high-contrast.tm2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High Contrast map style for Mapbox Studio Classic&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mapbox/mapbox-studio-comic.tm2</title>
+    <updated>2022-07-03T02:05:47Z</updated>
+    <id>tag:github.com,2022-07-03:/mapbox/mapbox-studio-comic.tm2</id>
+    <link href="https://github.com/mapbox/mapbox-studio-comic.tm2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

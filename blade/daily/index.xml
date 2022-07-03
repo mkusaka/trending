@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:34:24Z</updated>
+  <updated>2022-07-03T01:35:43Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>themeselection/sneat-html-laravel-admin-template-free</title>
-    <updated>2022-07-02T01:34:24Z</updated>
-    <id>tag:github.com,2022-07-02:/themeselection/sneat-html-laravel-admin-template-free</id>
-    <link href="https://github.com/themeselection/sneat-html-laravel-admin-template-free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Most Powerful &amp; Comprehensive Free Bootstrap 5 HTML Laravel Admin Dashboard Template built for developers!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:20:17Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digitalist-se/puppet-php</title>
+    <updated>2022-07-03T02:20:17Z</updated>
+    <id>tag:github.com,2022-07-03:/digitalist-se/puppet-php</id>
+    <link href="https://github.com/digitalist-se/puppet-php" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PHP Puppet module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>procore/puppet-dnsmasq</title>
+    <updated>2022-07-03T02:20:17Z</updated>
+    <id>tag:github.com,2022-07-03:/procore/puppet-dnsmasq</id>
+    <link href="https://github.com/procore/puppet-dnsmasq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to manage dnsmasq&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>digitalist-se/puppet-apache</title>
+    <updated>2022-07-03T02:20:17Z</updated>
+    <id>tag:github.com,2022-07-03:/digitalist-se/puppet-apache</id>
+    <link href="https://github.com/digitalist-se/puppet-apache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache puppet module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:21:34Z</updated>
+  <subtitle>Weekly Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>splunk/addonfactory-splunk_sa_cim</title>
+    <updated>2022-07-03T02:21:34Z</updated>
+    <id>tag:github.com,2022-07-03:/splunk/addonfactory-splunk_sa_cim</id>
+    <link href="https://github.com/splunk/addonfactory-splunk_sa_cim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Splunk_SA_CIM used by add-on test infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>decalage2/oletools</title>
+    <updated>2022-07-03T02:21:34Z</updated>
+    <id>tag:github.com,2022-07-03:/decalage2/oletools</id>
+    <link href="https://github.com/decalage2/oletools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IAOldman/parallels</title>
+    <updated>2022-07-03T02:21:34Z</updated>
+    <id>tag:github.com,2022-07-03:/IAOldman/parallels</id>
+    <link href="https://github.com/IAOldman/parallels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PD Runner&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

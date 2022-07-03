@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:52:31Z</updated>
+  <updated>2022-07-03T01:53:45Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LearningOS/rust-based-os-comp2022</title>
-    <updated>2022-07-02T01:52:31Z</updated>
-    <id>tag:github.com,2022-07-02:/LearningOS/rust-based-os-comp2022</id>
-    <link href="https://github.com/LearningOS/rust-based-os-comp2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gfx-rs/wgpu</title>
+    <updated>2022-07-03T01:53:45Z</updated>
+    <id>tag:github.com,2022-07-03:/gfx-rs/wgpu</id>
+    <link href="https://github.com/gfx-rs/wgpu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Safe and portable GPU abstraction in Rust, implementing WebGPU API.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>denisidoro/navi</title>
-    <updated>2022-07-02T01:52:31Z</updated>
-    <id>tag:github.com,2022-07-02:/denisidoro/navi</id>
-    <link href="https://github.com/denisidoro/navi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An interactive cheatsheet tool for the command-line&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rome/tools</title>
+    <updated>2022-07-03T01:53:45Z</updated>
+    <id>tag:github.com,2022-07-03:/rome/tools</id>
+    <link href="https://github.com/rome/tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>moonrepo/moon</title>
-    <updated>2022-07-02T01:52:31Z</updated>
-    <id>tag:github.com,2022-07-02:/moonrepo/moon</id>
-    <link href="https://github.com/moonrepo/moon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A build system for the JavaScript ecosystem, written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pest-parser/pest</title>
+    <updated>2022-07-03T01:53:45Z</updated>
+    <id>tag:github.com,2022-07-03:/pest-parser/pest</id>
+    <link href="https://github.com/pest-parser/pest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Elegant Parser&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

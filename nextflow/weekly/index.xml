@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:17:22Z</updated>
+  <subtitle>Weekly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>genomic-medicine-sweden/gmsmetapost</title>
+    <updated>2022-07-03T02:17:22Z</updated>
+    <id>tag:github.com,2022-07-03:/genomic-medicine-sweden/gmsmetapost</id>
+    <link href="https://github.com/genomic-medicine-sweden/gmsmetapost" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GMS Metagenomics post-classification&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/scrnaseq</title>
+    <updated>2022-07-03T02:17:22Z</updated>
+    <id>tag:github.com,2022-07-03:/nf-core/scrnaseq</id>
+    <link href="https://github.com/nf-core/scrnaseq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A single-cell RNAseq pipeline for 10X genomics data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:32:17Z</updated>
+  <updated>2022-07-03T01:33:35Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>upptime/upptime</title>
-    <updated>2022-07-02T01:32:17Z</updated>
-    <id>tag:github.com,2022-07-02:/upptime/upptime</id>
-    <link href="https://github.com/upptime/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⬆️ Free uptime monitor and status page powered by GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mtdvio/every-programmer-should-know</title>
+    <updated>2022-07-03T01:33:35Z</updated>
+    <id>tag:github.com,2022-07-03:/mtdvio/every-programmer-should-know</id>
+    <link href="https://github.com/mtdvio/every-programmer-should-know" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of (mostly) technical things every software developer should know about&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>f-lab-edu/graduate-resume</title>
-    <updated>2022-07-02T01:32:17Z</updated>
-    <id>tag:github.com,2022-07-02:/f-lab-edu/graduate-resume</id>
-    <link href="https://github.com/f-lab-edu/graduate-resume" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;취업/이직을 준비하시는 분들을 위해 F-Lab 수료생들의 이력서를 무료로 배포합니다.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TryHello/DogCs4.4</title>
+    <updated>2022-07-03T01:33:35Z</updated>
+    <id>tag:github.com,2022-07-03:/TryHello/DogCs4.4</id>
+    <link href="https://github.com/TryHello/DogCs4.4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cs4.4修改去特征狗狗版(美化ui,去除特征,自带bypass核晶截图等..)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>guchangan1/All-Defense-Tool</title>
-    <updated>2022-07-02T01:32:17Z</updated>
-    <id>tag:github.com,2022-07-02:/guchangan1/All-Defense-Tool</id>
-    <link href="https://github.com/guchangan1/All-Defense-Tool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LaravelDaily/Laravel-Roadmap-Learning-Path</title>
+    <updated>2022-07-03T01:33:35Z</updated>
+    <id>tag:github.com,2022-07-03:/LaravelDaily/Laravel-Roadmap-Learning-Path</id>
+    <link href="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

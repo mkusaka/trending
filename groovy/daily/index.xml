@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:41:30Z</updated>
+  <updated>2022-07-03T01:42:54Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>manheim/terraform-pipeline</title>
-    <updated>2022-07-02T01:41:30Z</updated>
-    <id>tag:github.com,2022-07-02:/manheim/terraform-pipeline</id>
-    <link href="https://github.com/manheim/terraform-pipeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reusable pipeline library to apply terraform configuration serially across multiple environments, using Jenkins and a Jenkinsfile.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

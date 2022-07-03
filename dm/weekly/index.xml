@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub DM Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:08:08Z</updated>
+  <subtitle>Weekly Trending of DM in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Foundation-19/Foundation-19</title>
+    <updated>2022-07-03T02:08:08Z</updated>
+    <id>tag:github.com,2022-07-03:/Foundation-19/Foundation-19</id>
+    <link href="https://github.com/Foundation-19/Foundation-19" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;heavy wip&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>StoneAndStar/RockStar</title>
+    <updated>2022-07-03T02:08:08Z</updated>
+    <id>tag:github.com,2022-07-03:/StoneAndStar/RockStar</id>
+    <link href="https://github.com/StoneAndStar/RockStar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

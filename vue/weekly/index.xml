@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:26:41Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeecgboot/jeecgboot-vue3</title>
+    <updated>2022-07-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-07-03:/jeecgboot/jeecgboot-vue3</id>
+    <link href="https://github.com/jeecgboot/jeecgboot-vue3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;「企业级低代码平台」采用 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 等新技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。 是在 Vben-Admin 基础上研发的，适合于JeecgBoot的新版前端VUE3框架。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yangzongzhuan/RuoYi-Vue3</title>
+    <updated>2022-07-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-07-03:/yangzongzhuan/RuoYi-Vue3</id>
+    <link href="https://github.com/yangzongzhuan/RuoYi-Vue3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kochrt/markwhen</title>
+    <updated>2022-07-03T02:26:41Z</updated>
+    <id>tag:github.com,2022-07-03:/kochrt/markwhen</id>
+    <link href="https://github.com/kochrt/markwhen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

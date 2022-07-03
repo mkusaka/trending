@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:56:52Z</updated>
+  <updated>2022-07-03T01:58:04Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vim/colorschemes</title>
-    <updated>2022-07-02T01:56:52Z</updated>
-    <id>tag:github.com,2022-07-02:/vim/colorschemes</id>
-    <link href="https://github.com/vim/colorschemes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;colorschemes for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpope/vim-dadbod</title>
+    <updated>2022-07-03T01:58:04Z</updated>
+    <id>tag:github.com,2022-07-03:/tpope/vim-dadbod</id>
+    <link href="https://github.com/tpope/vim-dadbod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dadbod.vim: Modern database interface for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vim-scripts/cudajinja.vim</title>
-    <updated>2022-07-02T01:56:52Z</updated>
-    <id>tag:github.com,2022-07-02:/vim-scripts/cudajinja.vim</id>
-    <link href="https://github.com/vim-scripts/cudajinja.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jinja templating syntax for CUDA&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liuchengxu/vista.vim</title>
+    <updated>2022-07-03T01:58:04Z</updated>
+    <id>tag:github.com,2022-07-03:/liuchengxu/vista.vim</id>
+    <link href="https://github.com/liuchengxu/vista.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌵 Viewer &amp; Finder for LSP symbols and tags&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wuelnerdotexe/vim-enfocado</title>
-    <updated>2022-07-02T01:56:52Z</updated>
-    <id>tag:github.com,2022-07-02:/wuelnerdotexe/vim-enfocado</id>
-    <link href="https://github.com/wuelnerdotexe/vim-enfocado" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;How themes should be.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Quramy/tsuquyomi</title>
+    <updated>2022-07-03T01:58:04Z</updated>
+    <id>tag:github.com,2022-07-03:/Quramy/tsuquyomi</id>
+    <link href="https://github.com/Quramy/tsuquyomi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vim plugin for TypeScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

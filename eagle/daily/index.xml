@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Eagle Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:38:19Z</updated>
+  <updated>2022-07-03T01:39:23Z</updated>
   <subtitle>Daily Trending of Eagle in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>samyk/magspoof</title>
-    <updated>2022-07-02T01:38:19Z</updated>
-    <id>tag:github.com,2022-07-02:/samyk/magspoof</id>
-    <link href="https://github.com/samyk/magspoof" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card &#34;wirelessly&#34;, even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&amp;PIN and predict AMEX card numbers with 100% accuracy.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

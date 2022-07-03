@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:10:52Z</updated>
+  <subtitle>Weekly Trending of GLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pa1nki113r/Project_Brutality</title>
+    <updated>2022-07-03T02:10:52Z</updated>
+    <id>tag:github.com,2022-07-03:/pa1nki113r/Project_Brutality</id>
+    <link href="https://github.com/pa1nki113r/Project_Brutality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the primary repository for collaborative efforts between Doom developers on Project Brutality. This is the bleeding-edge version that is constantly being developed on, and not meant in any way shape or form to be representative of the final version of the mod.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>poiyomi/PoiyomiToonShader</title>
+    <updated>2022-07-03T02:10:52Z</updated>
+    <id>tag:github.com,2022-07-03:/poiyomi/PoiyomiToonShader</id>
+    <link href="https://github.com/poiyomi/PoiyomiToonShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A feature rich toon shader for unity and VR Chat&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bambosan/Bicubic-Shaders-BE</title>
+    <updated>2022-07-03T02:10:52Z</updated>
+    <id>tag:github.com,2022-07-03:/bambosan/Bicubic-Shaders-BE</id>
+    <link href="https://github.com/bambosan/Bicubic-Shaders-BE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a resourcepack (shader) for McBE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

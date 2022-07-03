@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:19:34Z</updated>
+  <subtitle>Weekly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zombodb/zombodb</title>
+    <updated>2022-07-03T02:19:34Z</updated>
+    <id>tag:github.com,2022-07-03:/zombodb/zombodb</id>
+    <link href="https://github.com/zombodb/zombodb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Making Postgres and Elasticsearch work together like it&#39;s 2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pgpartman/pg_partman</title>
+    <updated>2022-07-03T02:19:34Z</updated>
+    <id>tag:github.com,2022-07-03:/pgpartman/pg_partman</id>
+    <link href="https://github.com/pgpartman/pg_partman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Partition management extension for PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>postgis/postgis</title>
+    <updated>2022-07-03T02:19:34Z</updated>
+    <id>tag:github.com,2022-07-03:/postgis/postgis</id>
+    <link href="https://github.com/postgis/postgis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PostGIS spatial database extension to PostgreSQL [mirror]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

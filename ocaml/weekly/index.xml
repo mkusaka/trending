@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:18:18Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>teikalang/teika</title>
+    <updated>2022-07-03T02:18:18Z</updated>
+    <id>tag:github.com,2022-07-03:/teikalang/teika</id>
+    <link href="https://github.com/teikalang/teika" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cs3110/textbook</title>
+    <updated>2022-07-03T02:18:18Z</updated>
+    <id>tag:github.com,2022-07-03:/cs3110/textbook</id>
+    <link href="https://github.com/cs3110/textbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The CS 3110 Textbook, &#34;OCaml Programming: Correct + Efficient + Beautiful&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>epavlick/turker-demographics</title>
+    <updated>2022-07-03T02:18:18Z</updated>
+    <id>tag:github.com,2022-07-03:/epavlick/turker-demographics</id>
+    <link href="https://github.com/epavlick/turker-demographics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:55:59Z</updated>
+  <updated>2022-07-03T01:57:12Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>italia/design-drupal-theme</title>
-    <updated>2022-07-02T01:55:59Z</updated>
-    <id>tag:github.com,2022-07-02:/italia/design-drupal-theme</id>
-    <link href="https://github.com/italia/design-drupal-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap Italia theme for Drupal. Mirror of https://git.drupalcode.org/project/bootstrap_italia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

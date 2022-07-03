@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:47:04Z</updated>
+  <updated>2022-07-03T01:48:20Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gravitee-io/helm-charts</title>
-    <updated>2022-07-02T01:47:04Z</updated>
-    <id>tag:github.com,2022-07-02:/gravitee-io/helm-charts</id>
-    <link href="https://github.com/gravitee-io/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts - This project includes helm charts developed to deploy Gravitee.io components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>v3io/helm-charts</title>
-    <updated>2022-07-02T01:47:04Z</updated>
-    <id>tag:github.com,2022-07-02:/v3io/helm-charts</id>
-    <link href="https://github.com/v3io/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts for V3IO Components - Used in Iguazio Data Science Platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>giantswarm/kyverno-app</title>
+    <updated>2022-07-03T01:48:20Z</updated>
+    <id>tag:github.com,2022-07-03:/giantswarm/kyverno-app</id>
+    <link href="https://github.com/giantswarm/kyverno-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

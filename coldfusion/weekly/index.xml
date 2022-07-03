@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ColdFusion Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:06:31Z</updated>
+  <subtitle>Weekly Trending of ColdFusion in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>existdissolve/ColdBox-CriteriaBuilder-Subqueries-Examples</title>
+    <updated>2022-07-03T02:06:31Z</updated>
+    <id>tag:github.com,2022-07-03:/existdissolve/ColdBox-CriteriaBuilder-Subqueries-Examples</id>
+    <link href="https://github.com/existdissolve/ColdBox-CriteriaBuilder-Subqueries-Examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples of subqueries and SQL projections using ColdBox CriteriaBuilder&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

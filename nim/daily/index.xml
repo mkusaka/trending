@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:47:36Z</updated>
+  <updated>2022-07-03T01:48:52Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oakes/vim_cubed</title>
-    <updated>2022-07-02T01:47:36Z</updated>
-    <id>tag:github.com,2022-07-02:/oakes/vim_cubed</id>
-    <link href="https://github.com/oakes/vim_cubed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim rendered on a cube for no reason&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jfilby/nexus</title>
+    <updated>2022-07-03T01:48:52Z</updated>
+    <id>tag:github.com,2022-07-03:/jfilby/nexus</id>
+    <link href="https://github.com/jfilby/nexus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nim web framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

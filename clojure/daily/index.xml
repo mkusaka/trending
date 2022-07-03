@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:35:52Z</updated>
+  <updated>2022-07-03T01:37:08Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clojure-cookbook/clojure-cookbook</title>
-    <updated>2022-07-02T01:35:52Z</updated>
-    <id>tag:github.com,2022-07-02:/clojure-cookbook/clojure-cookbook</id>
-    <link href="https://github.com/clojure-cookbook/clojure-cookbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the home of O&#39;Reilly&#39;s Clojure Cookbook - http://clojure-cookbook.com&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chromaticbum/clojure.net.core</title>
+    <updated>2022-07-03T01:37:08Z</updated>
+    <id>tag:github.com,2022-07-03:/chromaticbum/clojure.net.core</id>
+    <link href="https://github.com/chromaticbum/clojure.net.core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>overtone/overtone</title>
-    <updated>2022-07-02T01:35:52Z</updated>
-    <id>tag:github.com,2022-07-02:/overtone/overtone</id>
-    <link href="https://github.com/overtone/overtone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collaborative Programmable Music&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jepsen-io/local-fs</title>
+    <updated>2022-07-03T01:37:08Z</updated>
+    <id>tag:github.com,2022-07-03:/jepsen-io/local-fs</id>
+    <link href="https://github.com/jepsen-io/local-fs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jepsen tests for local filesystems, running on a single node.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

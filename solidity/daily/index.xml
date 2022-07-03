@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:53:59Z</updated>
+  <updated>2022-07-03T01:55:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mevcheb/optimal-sandwich</title>
-    <updated>2022-07-02T01:53:59Z</updated>
-    <id>tag:github.com,2022-07-02:/mevcheb/optimal-sandwich</id>
-    <link href="https://github.com/mevcheb/optimal-sandwich" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;we do a little bit of mathematics to make a little bit of money&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paradigm-operations/paradigm-ctf-2021</title>
+    <updated>2022-07-03T01:55:08Z</updated>
+    <id>tag:github.com,2022-07-03:/paradigm-operations/paradigm-ctf-2021</id>
+    <link href="https://github.com/paradigm-operations/paradigm-ctf-2021" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repository for Paradigm CTF 2021&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>davidiola/nftx-bayc-flash-borrow</title>
-    <updated>2022-07-02T01:53:59Z</updated>
-    <id>tag:github.com,2022-07-02:/davidiola/nftx-bayc-flash-borrow</id>
-    <link href="https://github.com/davidiola/nftx-bayc-flash-borrow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;flash borrow BAYC NFTs from NFTX to redeem ApeCoin airdrop atomically&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NoahZinsmeister/franchiser</title>
+    <updated>2022-07-03T01:55:08Z</updated>
+    <id>tag:github.com,2022-07-03:/NoahZinsmeister/franchiser</id>
+    <link href="https://github.com/NoahZinsmeister/franchiser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://uniswaplabs.notion.site/The-Franchiser-768dd0e188eb4323957c6e919c09491b&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2022-06-putty</title>
-    <updated>2022-07-02T01:53:59Z</updated>
-    <id>tag:github.com,2022-07-02:/code-423n4/2022-06-putty</id>
-    <link href="https://github.com/code-423n4/2022-06-putty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>UV-Labs/Tutorials</title>
+    <updated>2022-07-03T01:55:08Z</updated>
+    <id>tag:github.com,2022-07-03:/UV-Labs/Tutorials</id>
+    <link href="https://github.com/UV-Labs/Tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Centralized Repo where all the tutorials of UV_Labs are maintained.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

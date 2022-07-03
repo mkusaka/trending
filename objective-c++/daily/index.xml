@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:47:59Z</updated>
+  <updated>2022-07-03T01:49:18Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>thoutbeckers/LeBlue</title>
-    <updated>2022-07-02T01:47:59Z</updated>
-    <id>tag:github.com,2022-07-02:/thoutbeckers/LeBlue</id>
-    <link href="https://github.com/thoutbeckers/LeBlue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bluetooth LE API for Android and iOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

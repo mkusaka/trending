@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:41:51Z</updated>
+  <updated>2022-07-03T01:43:16Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hashicorp/terraform-aws-vault-starter</title>
-    <updated>2022-07-02T01:41:51Z</updated>
-    <id>tag:github.com,2022-07-02:/hashicorp/terraform-aws-vault-starter</id>
-    <link href="https://github.com/hashicorp/terraform-aws-vault-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module for provisioning an OSS Vault cluster (using integrated storage) as described by HashiCorp reference architecture.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Invicton-Labs/terraform-null-deepmerge</title>
+    <updated>2022-07-03T01:43:16Z</updated>
+    <id>tag:github.com,2022-07-03:/Invicton-Labs/terraform-null-deepmerge</id>
+    <link href="https://github.com/Invicton-Labs/terraform-null-deepmerge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This module performs a deep map merge of standard Terraform maps/objects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Invicton-Labs/terraform-null-assertion</title>
+    <updated>2022-07-03T01:43:16Z</updated>
+    <id>tag:github.com,2022-07-03:/Invicton-Labs/terraform-null-assertion</id>
+    <link href="https://github.com/Invicton-Labs/terraform-null-assertion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple module that asserts (during planning) that a condition is true&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-google-modules/terraform-google-iam</title>
+    <updated>2022-07-03T01:43:16Z</updated>
+    <id>tag:github.com,2022-07-03:/terraform-google-modules/terraform-google-iam</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-iam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Terraform module makes it easier to non-destructively manage multiple IAM roles for resources on Google Cloud Platform.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LookML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:45:08Z</updated>
+  <updated>2022-07-03T01:46:25Z</updated>
   <subtitle>Daily Trending of LookML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fivetran/analytics-templates</title>
+    <updated>2022-07-03T01:46:25Z</updated>
+    <id>tag:github.com,2022-07-03:/fivetran/analytics-templates</id>
+    <link href="https://github.com/fivetran/analytics-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fivetran Analytics Templates&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

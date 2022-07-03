@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-03T02:03:05Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nilocesar/globalvars</title>
+    <updated>2022-07-03T02:03:05Z</updated>
+    <id>tag:github.com,2022-07-03:/nilocesar/globalvars</id>
+    <link href="https://github.com/nilocesar/globalvars" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;globalvas as3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

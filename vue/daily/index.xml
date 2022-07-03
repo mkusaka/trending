@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-02T01:57:03Z</updated>
+  <updated>2022-07-03T01:58:14Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lewkamtao/Lew-UI</title>
-    <updated>2022-07-02T01:57:03Z</updated>
-    <id>tag:github.com,2022-07-02:/lewkamtao/Lew-UI</id>
-    <link href="https://github.com/lewkamtao/Lew-UI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A beautiful component library based on vue3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vuejs/create-vue</title>
+    <updated>2022-07-03T01:58:14Z</updated>
+    <id>tag:github.com,2022-07-03:/vuejs/create-vue</id>
+    <link href="https://github.com/vuejs/create-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🛠️ Quickly scaffold a Vue project with `npm init vue@3`&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Vuepic/vue-datepicker</title>
-    <updated>2022-07-02T01:57:03Z</updated>
-    <id>tag:github.com,2022-07-02:/Vuepic/vue-datepicker</id>
-    <link href="https://github.com/Vuepic/vue-datepicker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Datepicker component for Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>buefy/buefy</title>
-    <updated>2022-07-02T01:57:03Z</updated>
-    <id>tag:github.com,2022-07-02:/buefy/buefy</id>
-    <link href="https://github.com/buefy/buefy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight UI components for Vue.js based on Bulma&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>build-admin/buildadmin</title>
+    <updated>2022-07-03T01:58:14Z</updated>
+    <id>tag:github.com,2022-07-03:/build-admin/buildadmin</id>
+    <link href="https://github.com/build-admin/buildadmin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CRUD代码生成、内置WEB终端，基于Vue3.x(setup)+ThinkPHP6+TypeScript+Vite+Pinia+Element Plus，自适应多端，同时提供Web和Server端、自动注册路由、无限级菜单权限节点、全局数据回收站、字段级修改保护等集颜值、实用、敏捷于一身的后台管理系统。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
