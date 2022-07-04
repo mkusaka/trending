@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:33:35Z</updated>
+  <updated>2022-07-04T01:37:42Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mtdvio/every-programmer-should-know</title>
-    <updated>2022-07-03T01:33:35Z</updated>
-    <id>tag:github.com,2022-07-03:/mtdvio/every-programmer-should-know</id>
-    <link href="https://github.com/mtdvio/every-programmer-should-know" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of (mostly) technical things every software developer should know about&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>decalage2/awesome-security-hardening</title>
+    <updated>2022-07-04T01:37:42Z</updated>
+    <id>tag:github.com,2022-07-04:/decalage2/awesome-security-hardening</id>
+    <link href="https://github.com/decalage2/awesome-security-hardening" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of awesome security hardening guides, tools and other resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TryHello/DogCs4.4</title>
-    <updated>2022-07-03T01:33:35Z</updated>
-    <id>tag:github.com,2022-07-03:/TryHello/DogCs4.4</id>
-    <link href="https://github.com/TryHello/DogCs4.4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cs4.4修改去特征狗狗版(美化ui,去除特征,自带bypass核晶截图等..)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>malgamves/CommunityWriterPrograms</title>
+    <updated>2022-07-04T01:37:42Z</updated>
+    <id>tag:github.com,2022-07-04:/malgamves/CommunityWriterPrograms</id>
+    <link href="https://github.com/malgamves/CommunityWriterPrograms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of Developer Community Writer Programs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LaravelDaily/Laravel-Roadmap-Learning-Path</title>
-    <updated>2022-07-03T01:33:35Z</updated>
-    <id>tag:github.com,2022-07-03:/LaravelDaily/Laravel-Roadmap-Learning-Path</id>
-    <link href="https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/rust-by-example</title>
+    <updated>2022-07-04T01:37:42Z</updated>
+    <id>tag:github.com,2022-07-04:/rust-lang/rust-by-example</id>
+    <link href="https://github.com/rust-lang/rust-by-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Rust with examples (Live code editor included)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

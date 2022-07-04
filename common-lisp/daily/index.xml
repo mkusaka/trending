@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:37:34Z</updated>
+  <updated>2022-07-04T01:41:51Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yitzchak/trivial-pathname</title>
-    <updated>2022-07-03T01:37:34Z</updated>
-    <id>tag:github.com,2022-07-03:/yitzchak/trivial-pathname</id>
-    <link href="https://github.com/yitzchak/trivial-pathname" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;trivial-pathname&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>gpwwjr/LISA</title>
-    <updated>2022-07-03T01:37:34Z</updated>
-    <id>tag:github.com,2022-07-03:/gpwwjr/LISA</id>
-    <link href="https://github.com/gpwwjr/LISA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a fork of Lisp-based Intelligent Software Agents (Lisa) from http://lisa.sourceforge.net/&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a fork of Lisp-based Intelligent Software Agents (Lisa) from &lt;a href=&#34;http://lisa.sourceforge.net/&#34;&gt;http://lisa.sourceforge.net/&lt;/a&gt; The purpose of this fork is primarily to publish it in notCVS, but I also made some changes. See the file ChangeLog.&lt;/p&gt;</summary>
-  </entry>
 </feed>

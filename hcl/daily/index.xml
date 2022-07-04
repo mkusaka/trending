@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:43:16Z</updated>
+  <updated>2022-07-04T01:47:20Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Invicton-Labs/terraform-null-deepmerge</title>
-    <updated>2022-07-03T01:43:16Z</updated>
-    <id>tag:github.com,2022-07-03:/Invicton-Labs/terraform-null-deepmerge</id>
-    <link href="https://github.com/Invicton-Labs/terraform-null-deepmerge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This module performs a deep map merge of standard Terraform maps/objects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AdminTurnedDevOps/Kubernetes-Quickstart-Environments</title>
+    <updated>2022-07-04T01:47:20Z</updated>
+    <id>tag:github.com,2022-07-04:/AdminTurnedDevOps/Kubernetes-Quickstart-Environments</id>
+    <link href="https://github.com/AdminTurnedDevOps/Kubernetes-Quickstart-Environments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code to bring up and configure Kubernetes environments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Invicton-Labs/terraform-null-assertion</title>
-    <updated>2022-07-03T01:43:16Z</updated>
-    <id>tag:github.com,2022-07-03:/Invicton-Labs/terraform-null-assertion</id>
-    <link href="https://github.com/Invicton-Labs/terraform-null-assertion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple module that asserts (during planning) that a condition is true&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-s3-bucket</title>
+    <updated>2022-07-04T01:47:20Z</updated>
+    <id>tag:github.com,2022-07-04:/cloudposse/terraform-aws-s3-bucket</id>
+    <link href="https://github.com/cloudposse/terraform-aws-s3-bucket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-google-modules/terraform-google-iam</title>
-    <updated>2022-07-03T01:43:16Z</updated>
-    <id>tag:github.com,2022-07-03:/terraform-google-modules/terraform-google-iam</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-iam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This Terraform module makes it easier to non-destructively manage multiple IAM roles for resources on Google Cloud Platform.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mydevopscoach/my-tf-iac-aws-repo</title>
+    <updated>2022-07-04T01:47:20Z</updated>
+    <id>tag:github.com,2022-07-04:/mydevopscoach/my-tf-iac-aws-repo</id>
+    <link href="https://github.com/mydevopscoach/my-tf-iac-aws-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

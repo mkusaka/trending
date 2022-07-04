@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:35:26Z</updated>
+  <updated>2022-07-04T01:39:37Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kkkgo/LTSB-Add-MicrosoftStore</title>
-    <updated>2022-07-03T01:35:26Z</updated>
-    <id>tag:github.com,2022-07-03:/kkkgo/LTSB-Add-MicrosoftStore</id>
-    <link href="https://github.com/kkkgo/LTSB-Add-MicrosoftStore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add Windows Store for LTSB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>4lT4lR/Windows-RDP-Control</title>
-    <updated>2022-07-03T01:35:26Z</updated>
-    <id>tag:github.com,2022-07-03:/4lT4lR/Windows-RDP-Control</id>
-    <link href="https://github.com/4lT4lR/Windows-RDP-Control" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for RDP-Control tutorial in BATCH&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nodemcu/nodemcu-devkit</title>
+    <updated>2022-07-04T01:39:37Z</updated>
+    <id>tag:github.com,2022-07-04:/nodemcu/nodemcu-devkit</id>
+    <link href="https://github.com/nodemcu/nodemcu-devkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A development kit for NodeMCU firmware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

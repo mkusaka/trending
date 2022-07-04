@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:53:45Z</updated>
+  <updated>2022-07-04T01:58:00Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gfx-rs/wgpu</title>
-    <updated>2022-07-03T01:53:45Z</updated>
-    <id>tag:github.com,2022-07-03:/gfx-rs/wgpu</id>
-    <link href="https://github.com/gfx-rs/wgpu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Safe and portable GPU abstraction in Rust, implementing WebGPU API.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruffle-rs/ruffle</title>
+    <updated>2022-07-04T01:58:00Z</updated>
+    <id>tag:github.com,2022-07-04:/ruffle-rs/ruffle</id>
+    <link href="https://github.com/ruffle-rs/ruffle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Flash Player emulator written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rome/tools</title>
-    <updated>2022-07-03T01:53:45Z</updated>
-    <id>tag:github.com,2022-07-03:/rome/tools</id>
-    <link href="https://github.com/rome/tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>serde-rs/serde</title>
+    <updated>2022-07-04T01:58:00Z</updated>
+    <id>tag:github.com,2022-07-04:/serde-rs/serde</id>
+    <link href="https://github.com/serde-rs/serde" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Serialization framework for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pest-parser/pest</title>
-    <updated>2022-07-03T01:53:45Z</updated>
-    <id>tag:github.com,2022-07-03:/pest-parser/pest</id>
-    <link href="https://github.com/pest-parser/pest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Elegant Parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mullvad/mullvadvpn-app</title>
+    <updated>2022-07-04T01:58:00Z</updated>
+    <id>tag:github.com,2022-07-04:/mullvad/mullvadvpn-app</id>
+    <link href="https://github.com/mullvad/mullvadvpn-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Mullvad VPN client app for desktop and mobile&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

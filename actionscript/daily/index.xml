@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:34:05Z</updated>
+  <updated>2022-07-04T01:38:06Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RazvanRanca/Achterhuis</title>
-    <updated>2022-07-03T01:34:05Z</updated>
-    <id>tag:github.com,2022-07-03:/RazvanRanca/Achterhuis</id>
-    <link href="https://github.com/RazvanRanca/Achterhuis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A story driven, 2D flash game - made in 48 hours by 4 people as part of the Global Game Jam 2011&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cepa-usp/AI-0133</title>
-    <updated>2022-07-03T01:34:05Z</updated>
-    <id>tag:github.com,2022-07-03:/cepa-usp/AI-0133</id>
-    <link href="https://github.com/cepa-usp/AI-0133" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JohnnyOpcode/vertx.eventbus.client</title>
+    <updated>2022-07-04T01:38:06Z</updated>
+    <id>tag:github.com,2022-07-04:/JohnnyOpcode/vertx.eventbus.client</id>
+    <link href="https://github.com/JohnnyOpcode/vertx.eventbus.client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of client-side components which allow the participation of applications on the Vert.x platform.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

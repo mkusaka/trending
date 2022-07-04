@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:54:12Z</updated>
+  <updated>2022-07-04T01:58:27Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iCyris/Magia</title>
-    <updated>2022-07-03T01:54:12Z</updated>
-    <id>tag:github.com,2022-07-03:/iCyris/Magia</id>
-    <link href="https://github.com/iCyris/Magia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lassekongo83/adw-gtk3</title>
+    <updated>2022-07-04T01:58:27Z</updated>
+    <id>tag:github.com,2022-07-04:/lassekongo83/adw-gtk3</id>
+    <link href="https://github.com/lassekongo83/adw-gtk3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The theme from libadwaita ported to GTK-3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>silverstripe/silverstripe-login-forms</title>
-    <updated>2022-07-03T01:54:12Z</updated>
-    <id>tag:github.com,2022-07-03:/silverstripe/silverstripe-login-forms</id>
-    <link href="https://github.com/silverstripe/silverstripe-login-forms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Login form templates for SilverStripe CMS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LeNPaul/portfolio-jekyll-theme</title>
+    <updated>2022-07-04T01:58:27Z</updated>
+    <id>tag:github.com,2022-07-04:/LeNPaul/portfolio-jekyll-theme</id>
+    <link href="https://github.com/LeNPaul/portfolio-jekyll-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>joshgerdes/jekyll-uno</title>
-    <updated>2022-07-03T01:54:12Z</updated>
-    <id>tag:github.com,2022-07-03:/joshgerdes/jekyll-uno</id>
-    <link href="https://github.com/joshgerdes/jekyll-uno" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jekyll-Uno - a minimal, responsive theme for Jekyll based on Uno for Ghost&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emilbaehr/automatic-app-landing-page</title>
+    <updated>2022-07-04T01:58:27Z</updated>
+    <id>tag:github.com,2022-07-04:/emilbaehr/automatic-app-landing-page</id>
+    <link href="https://github.com/emilbaehr/automatic-app-landing-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

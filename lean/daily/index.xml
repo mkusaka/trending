@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:45:56Z</updated>
+  <updated>2022-07-04T01:50:11Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yatima-inc/straume</title>
+    <updated>2022-07-04T01:50:11Z</updated>
+    <id>tag:github.com,2022-07-04:/yatima-inc/straume</id>
+    <link href="https://github.com/yatima-inc/straume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;State-of-the-art streams for Lean 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

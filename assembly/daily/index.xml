@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:35:01Z</updated>
+  <updated>2022-07-04T01:39:08Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jmechner/Prince-of-Persia-Apple-II</title>
-    <updated>2022-07-03T01:35:01Z</updated>
-    <id>tag:github.com,2022-07-03:/jmechner/Prince-of-Persia-Apple-II</id>
-    <link href="https://github.com/jmechner/Prince-of-Persia-Apple-II" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A running-jumping-swordfighting game I made on the Apple II from 1985-89&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tbsp/uxngb</title>
-    <updated>2022-07-03T01:35:01Z</updated>
-    <id>tag:github.com,2022-07-03:/tbsp/uxngb</id>
-    <link href="https://github.com/tbsp/uxngb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nemasu/asmttpd</title>
-    <updated>2022-07-03T01:35:01Z</updated>
-    <id>tag:github.com,2022-07-03:/nemasu/asmttpd</id>
-    <link href="https://github.com/nemasu/asmttpd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web server for Linux written in amd64 assembly.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sudleyplace/386MAX</title>
+    <updated>2022-07-04T01:39:08Z</updated>
+    <id>tag:github.com,2022-07-04:/sudleyplace/386MAX</id>
+    <link href="https://github.com/sudleyplace/386MAX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;386MAX Memory Manager for DOS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

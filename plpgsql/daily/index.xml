@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:51:05Z</updated>
+  <updated>2022-07-04T01:55:21Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fivetran/dbt_salesforce_formula_udfs</title>
-    <updated>2022-07-03T01:51:05Z</updated>
-    <id>tag:github.com,2022-07-03:/fivetran/dbt_salesforce_formula_udfs</id>
-    <link href="https://github.com/fivetran/dbt_salesforce_formula_udfs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dbt package containing UDFs to be leveraged within the dbt_salesforce_formula_utils package.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>morenoh149/postgresDBSamples</title>
+    <updated>2022-07-04T01:55:21Z</updated>
+    <id>tag:github.com,2022-07-04:/morenoh149/postgresDBSamples</id>
+    <link href="https://github.com/morenoh149/postgresDBSamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample databases for postgres&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:54:54Z</updated>
+  <updated>2022-07-04T01:59:13Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>algolia/search-insights-gtm</title>
-    <updated>2022-07-03T01:54:54Z</updated>
-    <id>tag:github.com,2022-07-03:/algolia/search-insights-gtm</id>
-    <link href="https://github.com/algolia/search-insights-gtm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google Tag Manager template for detecting front-end Algolia search metrics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>onaio/helm-chart-pgbouncer</title>
+    <updated>2022-07-04T01:59:13Z</updated>
+    <id>tag:github.com,2022-07-04:/onaio/helm-chart-pgbouncer</id>
+    <link href="https://github.com/onaio/helm-chart-pgbouncer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

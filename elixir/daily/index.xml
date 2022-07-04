@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:39:53Z</updated>
+  <updated>2022-07-04T01:44:13Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>am-kantox/siblings</title>
-    <updated>2022-07-03T01:39:53Z</updated>
-    <id>tag:github.com,2022-07-03:/am-kantox/siblings</id>
-    <link href="https://github.com/am-kantox/siblings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The partitioned dynamic supervision of FSM-backed workers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>primait/bridge_ex</title>
-    <updated>2022-07-03T01:39:53Z</updated>
-    <id>tag:github.com,2022-07-03:/primait/bridge_ex</id>
-    <link href="https://github.com/primait/bridge_ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prima bridge pattern implementation for elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>primait/prima_opentelemetry_ex</title>
-    <updated>2022-07-03T01:39:53Z</updated>
-    <id>tag:github.com,2022-07-03:/primait/prima_opentelemetry_ex</id>
-    <link href="https://github.com/primait/prima_opentelemetry_ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;prima opentelemetry instrumentation for elixir projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bonfire-networks/bonfire-app</title>
+    <updated>2022-07-04T01:44:13Z</updated>
+    <id>tag:github.com,2022-07-04:/bonfire-networks/bonfire-app</id>
+    <link href="https://github.com/bonfire-networks/bonfire-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

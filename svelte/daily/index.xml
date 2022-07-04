@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:55:50Z</updated>
+  <updated>2022-07-04T02:00:11Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rogchap/wombat</title>
-    <updated>2022-07-03T01:55:50Z</updated>
-    <id>tag:github.com,2022-07-03:/rogchap/wombat</id>
-    <link href="https://github.com/rogchap/wombat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross platform gRPC client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vercel/sveltekit-commerce</title>
+    <updated>2022-07-04T02:00:11Z</updated>
+    <id>tag:github.com,2022-07-04:/vercel/sveltekit-commerce</id>
+    <link href="https://github.com/vercel/sveltekit-commerce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SvelteKit Commerce&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>factoria-org/openfactoria</title>
-    <updated>2022-07-03T01:55:50Z</updated>
-    <id>tag:github.com,2022-07-03:/factoria-org/openfactoria</id>
-    <link href="https://github.com/factoria-org/openfactoria" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;totally open source and decentralized NFT vending machine factory&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vercel/beginner-sveltekit</title>
-    <updated>2022-07-03T01:55:50Z</updated>
-    <id>tag:github.com,2022-07-03:/vercel/beginner-sveltekit</id>
-    <link href="https://github.com/vercel/beginner-sveltekit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The complete course to start your journey building Svelte applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>matyunya/smelte</title>
+    <updated>2022-07-04T02:00:11Z</updated>
+    <id>tag:github.com,2022-07-04:/matyunya/smelte</id>
+    <link href="https://github.com/matyunya/smelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;UI framework with material components built with Svelte and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

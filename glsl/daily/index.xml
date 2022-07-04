@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:41:54Z</updated>
+  <updated>2022-07-04T01:46:17Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>haosulab/cvpr-tutorial-2022</title>
-    <updated>2022-07-03T01:41:54Z</updated>
-    <id>tag:github.com,2022-07-03:/haosulab/cvpr-tutorial-2022</id>
-    <link href="https://github.com/haosulab/cvpr-tutorial-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smkplus/ShaderMan</title>
+    <updated>2022-07-04T01:46:17Z</updated>
+    <id>tag:github.com,2022-07-04:/smkplus/ShaderMan</id>
+    <link href="https://github.com/smkplus/ShaderMan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert ShaderToy to Unity HLSL/CG&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>libretro/glsl-shaders</title>
+    <updated>2022-07-04T01:46:17Z</updated>
+    <id>tag:github.com,2022-07-04:/libretro/glsl-shaders</id>
+    <link href="https://github.com/libretro/glsl-shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo is for glsl shaders converted by hand from libretro&#39;s common-shaders repo, since some don&#39;t play nicely with the cg2glsl script.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

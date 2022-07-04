@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:55:08Z</updated>
+  <updated>2022-07-04T01:59:27Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>paradigm-operations/paradigm-ctf-2021</title>
-    <updated>2022-07-03T01:55:08Z</updated>
-    <id>tag:github.com,2022-07-03:/paradigm-operations/paradigm-ctf-2021</id>
-    <link href="https://github.com/paradigm-operations/paradigm-ctf-2021" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official repository for Paradigm CTF 2021&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SunWeb3Sec/DeFiVulnLabs</title>
+    <updated>2022-07-04T01:59:27Z</updated>
+    <id>tag:github.com,2022-07-04:/SunWeb3Sec/DeFiVulnLabs</id>
+    <link href="https://github.com/SunWeb3Sec/DeFiVulnLabs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;To learn common smart contract vulnerabilities using Foundry!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NoahZinsmeister/franchiser</title>
-    <updated>2022-07-03T01:55:08Z</updated>
-    <id>tag:github.com,2022-07-03:/NoahZinsmeister/franchiser</id>
-    <link href="https://github.com/NoahZinsmeister/franchiser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://uniswaplabs.notion.site/The-Franchiser-768dd0e188eb4323957c6e919c09491b&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bnsid/bns-contracts</title>
+    <updated>2022-07-04T01:59:27Z</updated>
+    <id>tag:github.com,2022-07-04:/bnsid/bns-contracts</id>
+    <link href="https://github.com/bnsid/bns-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A BNB Smart Chain Name Service based on the ens fork.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>UV-Labs/Tutorials</title>
-    <updated>2022-07-03T01:55:08Z</updated>
-    <id>tag:github.com,2022-07-03:/UV-Labs/Tutorials</id>
-    <link href="https://github.com/UV-Labs/Tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Centralized Repo where all the tutorials of UV_Labs are maintained.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tintinweb/smart-contract-sanctuary-celo</title>
+    <updated>2022-07-04T01:59:27Z</updated>
+    <id>tag:github.com,2022-07-04:/tintinweb/smart-contract-sanctuary-celo</id>
+    <link href="https://github.com/tintinweb/smart-contract-sanctuary-celo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

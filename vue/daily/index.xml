@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-03T01:58:14Z</updated>
+  <updated>2022-07-04T02:02:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vuejs/create-vue</title>
-    <updated>2022-07-03T01:58:14Z</updated>
-    <id>tag:github.com,2022-07-03:/vuejs/create-vue</id>
-    <link href="https://github.com/vuejs/create-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🛠️ Quickly scaffold a Vue project with `npm init vue@3`&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coreui/coreui-free-vue-admin-template</title>
+    <updated>2022-07-04T02:02:59Z</updated>
+    <id>tag:github.com,2022-07-04:/coreui/coreui-free-vue-admin-template</id>
+    <link href="https://github.com/coreui/coreui-free-vue-admin-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source admin template based on Bootstrap 5 and Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>build-admin/buildadmin</title>
-    <updated>2022-07-03T01:58:14Z</updated>
-    <id>tag:github.com,2022-07-03:/build-admin/buildadmin</id>
-    <link href="https://github.com/build-admin/buildadmin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CRUD代码生成、内置WEB终端，基于Vue3.x(setup)+ThinkPHP6+TypeScript+Vite+Pinia+Element Plus，自适应多端，同时提供Web和Server端、自动注册路由、无限级菜单权限节点、全局数据回收站、字段级修改保护等集颜值、实用、敏捷于一身的后台管理系统。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Solar-Tweaks/Solar-Tweaks</title>
+    <updated>2022-07-04T02:02:59Z</updated>
+    <id>tag:github.com,2022-07-04:/Solar-Tweaks/Solar-Tweaks</id>
+    <link href="https://github.com/Solar-Tweaks/Solar-Tweaks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solar Tweaks is a tool for tweaking and customizing Lunar Client. Give yourself an upgrade in your gaming experience.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pterodactyl/documentation</title>
+    <updated>2022-07-04T02:02:59Z</updated>
+    <id>tag:github.com,2022-07-04:/pterodactyl/documentation</id>
+    <link href="https://github.com/pterodactyl/documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pterodactyl&#39;s documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
