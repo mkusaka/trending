@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:50:11Z</updated>
+  <updated>2022-07-05T01:44:59Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yatima-inc/straume</title>
-    <updated>2022-07-04T01:50:11Z</updated>
-    <id>tag:github.com,2022-07-04:/yatima-inc/straume</id>
-    <link href="https://github.com/yatima-inc/straume" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;State-of-the-art streams for Lean 4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ImperialCollegeLondon/formalising-mathematics-2022</title>
+    <updated>2022-07-05T01:44:59Z</updated>
+    <id>tag:github.com,2022-07-05:/ImperialCollegeLondon/formalising-mathematics-2022</id>
+    <link href="https://github.com/ImperialCollegeLondon/formalising-mathematics-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lean material for Kevin Buzzard&#39;s Jan-Mar 2022 course on formalising mathematics.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

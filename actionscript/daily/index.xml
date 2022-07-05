@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:38:06Z</updated>
+  <updated>2022-07-05T01:33:11Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JohnnyOpcode/vertx.eventbus.client</title>
-    <updated>2022-07-04T01:38:06Z</updated>
-    <id>tag:github.com,2022-07-04:/JohnnyOpcode/vertx.eventbus.client</id>
-    <link href="https://github.com/JohnnyOpcode/vertx.eventbus.client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of client-side components which allow the participation of applications on the Vert.x platform.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kimak/minko-sinusoidal-particles</title>
+    <updated>2022-07-05T01:33:11Z</updated>
+    <id>tag:github.com,2022-07-05:/kimak/minko-sinusoidal-particles</id>
+    <link href="https://github.com/kimak/minko-sinusoidal-particles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A custom demo based on minko-examples (PointsExample.as), to create sinusoidal curve with particles.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

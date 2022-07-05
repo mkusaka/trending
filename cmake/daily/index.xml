@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:41:35Z</updated>
+  <updated>2022-07-05T01:36:25Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>desktop-app/cmake_helpers</title>
-    <updated>2022-07-04T01:41:35Z</updated>
-    <id>tag:github.com,2022-07-04:/desktop-app/cmake_helpers</id>
-    <link href="https://github.com/desktop-app/cmake_helpers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake helper scripts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KDE/extra-cmake-modules</title>
+    <updated>2022-07-05T01:36:25Z</updated>
+    <id>tag:github.com,2022-07-05:/KDE/extra-cmake-modules</id>
+    <link href="https://github.com/KDE/extra-cmake-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extra modules and scripts for CMake.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>boschresearch/fmilibrary_vendor</title>
+    <updated>2022-07-05T01:36:25Z</updated>
+    <id>tag:github.com,2022-07-05:/boschresearch/fmilibrary_vendor</id>
+    <link href="https://github.com/boschresearch/fmilibrary_vendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vendor ROS package for the FMILibrary by Modelon AB, cf. https://jmodelica.org/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

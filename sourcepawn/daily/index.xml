@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SourcePawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:59:31Z</updated>
+  <updated>2022-07-05T01:54:09Z</updated>
   <subtitle>Daily Trending of SourcePawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kgns/gloves</title>
-    <updated>2022-07-04T01:59:31Z</updated>
-    <id>tag:github.com,2022-07-04:/kgns/gloves</id>
-    <link href="https://github.com/kgns/gloves" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CS:GO Gloves&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

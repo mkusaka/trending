@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:44:09Z</updated>
+  <updated>2022-07-05T01:39:02Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AKC068/nitBlog</title>
-    <updated>2022-07-04T01:44:09Z</updated>
-    <id>tag:github.com,2022-07-04:/AKC068/nitBlog</id>
-    <link href="https://github.com/AKC068/nitBlog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a blog, for the students and by the students&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>herbsjs/herbs-cli</title>
-    <updated>2022-07-04T01:44:09Z</updated>
-    <id>tag:github.com,2022-07-04:/herbsjs/herbs-cli</id>
-    <link href="https://github.com/herbsjs/herbs-cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Herbs CLI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Ovi/DummyJSON</title>
-    <updated>2022-07-04T01:44:09Z</updated>
-    <id>tag:github.com,2022-07-04:/Ovi/DummyJSON</id>
-    <link href="https://github.com/Ovi/DummyJSON" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get dummy/fake JSON data to use as placeholder in development or in prototype testing.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

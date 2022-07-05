@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:57:42Z</updated>
+  <updated>2022-07-05T01:52:16Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>c-proof/pyglider</title>
-    <updated>2022-07-04T01:57:42Z</updated>
-    <id>tag:github.com,2022-07-04:/c-proof/pyglider</id>
-    <link href="https://github.com/c-proof/pyglider" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;glider software&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mimus-assa/cybersecurity_learning</title>
+    <updated>2022-07-05T01:52:16Z</updated>
+    <id>tag:github.com,2022-07-05:/mimus-assa/cybersecurity_learning</id>
+    <link href="https://github.com/mimus-assa/cybersecurity_learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Karan-GM/spam_classifier</title>
+    <updated>2022-07-05T01:52:16Z</updated>
+    <id>tag:github.com,2022-07-05:/Karan-GM/spam_classifier</id>
+    <link href="https://github.com/Karan-GM/spam_classifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Spam Classifier using Machine Learning and ElasticSearch&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

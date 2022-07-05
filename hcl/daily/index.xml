@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:47:20Z</updated>
+  <updated>2022-07-05T01:42:06Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AdminTurnedDevOps/Kubernetes-Quickstart-Environments</title>
-    <updated>2022-07-04T01:47:20Z</updated>
-    <id>tag:github.com,2022-07-04:/AdminTurnedDevOps/Kubernetes-Quickstart-Environments</id>
-    <link href="https://github.com/AdminTurnedDevOps/Kubernetes-Quickstart-Environments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code to bring up and configure Kubernetes environments&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nsbno/terraform-aws-alarms</title>
+    <updated>2022-07-05T01:42:06Z</updated>
+    <id>tag:github.com,2022-07-05:/nsbno/terraform-aws-alarms</id>
+    <link href="https://github.com/nsbno/terraform-aws-alarms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Setup alarms for your services or other infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-aws-s3-bucket</title>
-    <updated>2022-07-04T01:47:20Z</updated>
-    <id>tag:github.com,2022-07-04:/cloudposse/terraform-aws-s3-bucket</id>
-    <link href="https://github.com/cloudposse/terraform-aws-s3-bucket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nsbno/terraform-aws-service-permissions</title>
+    <updated>2022-07-05T01:42:06Z</updated>
+    <id>tag:github.com,2022-07-05:/nsbno/terraform-aws-service-permissions</id>
+    <link href="https://github.com/nsbno/terraform-aws-service-permissions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily set up common permissions for your service!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mydevopscoach/my-tf-iac-aws-repo</title>
-    <updated>2022-07-04T01:47:20Z</updated>
-    <id>tag:github.com,2022-07-04:/mydevopscoach/my-tf-iac-aws-repo</id>
-    <link href="https://github.com/mydevopscoach/my-tf-iac-aws-repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cashapp/hermit-packages</title>
+    <updated>2022-07-05T01:42:06Z</updated>
+    <id>tag:github.com,2022-07-05:/cashapp/hermit-packages</id>
+    <link href="https://github.com/cashapp/hermit-packages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hermit manages isolated, self-bootstrapping sets of tools in software projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

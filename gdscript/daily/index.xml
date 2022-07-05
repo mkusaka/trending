@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:45:44Z</updated>
+  <updated>2022-07-05T01:40:35Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ceceppa/anima</title>
+    <updated>2022-07-05T01:40:35Z</updated>
+    <id>tag:github.com,2022-07-05:/ceceppa/anima</id>
+    <link href="https://github.com/ceceppa/anima" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot: run sequential and parallel animations with less code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nekotogd/Godot_2D_Grass_Particles</title>
+    <updated>2022-07-05T01:40:35Z</updated>
+    <id>tag:github.com,2022-07-05:/nekotogd/Godot_2D_Grass_Particles</id>
+    <link href="https://github.com/nekotogd/Godot_2D_Grass_Particles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive 2D Grass Particles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

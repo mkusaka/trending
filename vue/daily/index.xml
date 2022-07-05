@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T02:02:59Z</updated>
+  <updated>2022-07-05T01:56:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coreui/coreui-free-vue-admin-template</title>
-    <updated>2022-07-04T02:02:59Z</updated>
-    <id>tag:github.com,2022-07-04:/coreui/coreui-free-vue-admin-template</id>
-    <link href="https://github.com/coreui/coreui-free-vue-admin-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source admin template based on Bootstrap 5 and Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Dashibase/dashibase-insert</title>
+    <updated>2022-07-05T01:56:59Z</updated>
+    <id>tag:github.com,2022-07-05:/Dashibase/dashibase-insert</id>
+    <link href="https://github.com/Dashibase/dashibase-insert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Notion-like form builder powered by Vue, Tailwind and Supabase&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Solar-Tweaks/Solar-Tweaks</title>
-    <updated>2022-07-04T02:02:59Z</updated>
-    <id>tag:github.com,2022-07-04:/Solar-Tweaks/Solar-Tweaks</id>
-    <link href="https://github.com/Solar-Tweaks/Solar-Tweaks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solar Tweaks is a tool for tweaking and customizing Lunar Client. Give yourself an upgrade in your gaming experience.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>serversideup/financial-freedom</title>
+    <updated>2022-07-05T01:56:59Z</updated>
+    <id>tag:github.com,2022-07-05:/serversideup/financial-freedom</id>
+    <link href="https://github.com/serversideup/financial-freedom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal finance should be personal. Self-hosted and open source alternative to Mint and YNAB, using Laravel PHP + Vue 3 + InertiaJS + Redis + Meilisearch + TailwindCSS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pterodactyl/documentation</title>
-    <updated>2022-07-04T02:02:59Z</updated>
-    <id>tag:github.com,2022-07-04:/pterodactyl/documentation</id>
-    <link href="https://github.com/pterodactyl/documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pterodactyl&#39;s documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>leaftheef/group-work</title>
+    <updated>2022-07-05T01:56:59Z</updated>
+    <id>tag:github.com,2022-07-05:/leaftheef/group-work</id>
+    <link href="https://github.com/leaftheef/group-work" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

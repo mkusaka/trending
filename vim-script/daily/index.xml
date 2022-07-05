@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T02:02:49Z</updated>
+  <updated>2022-07-05T01:56:49Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wfxr/minimap.vim</title>
-    <updated>2022-07-04T02:02:49Z</updated>
-    <id>tag:github.com,2022-07-04:/wfxr/minimap.vim</id>
-    <link href="https://github.com/wfxr/minimap.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hrsh7th/vim-vsnip</title>
-    <updated>2022-07-04T02:02:49Z</updated>
-    <id>tag:github.com,2022-07-04:/hrsh7th/vim-vsnip</id>
-    <link href="https://github.com/hrsh7th/vim-vsnip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Snippet plugin for vim/nvim that supports LSP/VSCode&#39;s snippet format.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>psliwka/vim-smoothie</title>
-    <updated>2022-07-04T02:02:49Z</updated>
-    <id>tag:github.com,2022-07-04:/psliwka/vim-smoothie</id>
-    <link href="https://github.com/psliwka/vim-smoothie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smooth scrolling for Vim done right🥤&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

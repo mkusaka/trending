@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:44:47Z</updated>
+  <updated>2022-07-05T01:39:39Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>helium/blockchain-etl</title>
-    <updated>2022-07-04T01:44:47Z</updated>
-    <id>tag:github.com,2022-07-04:/helium/blockchain-etl</id>
-    <link href="https://github.com/helium/blockchain-etl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blockchain follower that follows and stores the Helium blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hstreamdb/hstreamdb_erl</title>
+    <updated>2022-07-05T01:39:39Z</updated>
+    <id>tag:github.com,2022-07-05:/hstreamdb/hstreamdb_erl</id>
+    <link href="https://github.com/hstreamdb/hstreamdb_erl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang Client for HStreamDB&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ferd/dandelion</title>
-    <updated>2022-07-04T01:44:47Z</updated>
-    <id>tag:github.com,2022-07-04:/ferd/dandelion</id>
-    <link href="https://github.com/ferd/dandelion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A weed is a plant considered undesirable in a particular situation, &#34;a plant in the wrong place&#34;. Taxonomically, the term &#34;weed&#34; has no botanical significance, because a plant that is a weed in one context is not a weed when growing in a situation where it is wanted.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>esl/elarm_mailer</title>
+    <updated>2022-07-05T01:39:39Z</updated>
+    <id>tag:github.com,2022-07-05:/esl/elarm_mailer</id>
+    <link href="https://github.com/esl/elarm_mailer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SMTP reporting for elarm&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>erlware/erlware_commons</title>
-    <updated>2022-07-04T01:44:47Z</updated>
-    <id>tag:github.com,2022-07-04:/erlware/erlware_commons</id>
-    <link href="https://github.com/erlware/erlware_commons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlware Commons is an Erlware project focused on all aspects of reusable Erlang components.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>esl/elarm</title>
+    <updated>2022-07-05T01:39:39Z</updated>
+    <id>tag:github.com,2022-07-05:/esl/elarm</id>
+    <link href="https://github.com/esl/elarm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

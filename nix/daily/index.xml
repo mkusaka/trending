@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:53:11Z</updated>
+  <updated>2022-07-05T01:47:50Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oxalica/rust-overlay</title>
-    <updated>2022-07-04T01:53:11Z</updated>
-    <id>tag:github.com,2022-07-04:/oxalica/rust-overlay</id>
-    <link href="https://github.com/oxalica/rust-overlay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure and reproducible nix overlay of binary distributed rust toolchains&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>abdul2906/nixos-system-config</title>
-    <updated>2022-07-04T01:53:11Z</updated>
-    <id>tag:github.com,2022-07-04:/abdul2906/nixos-system-config</id>
-    <link href="https://github.com/abdul2906/nixos-system-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modular NixOS configuration with dotfiles.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nix-community/poetry2nix</title>
+    <updated>2022-07-05T01:47:50Z</updated>
+    <id>tag:github.com,2022-07-05:/nix-community/poetry2nix</id>
+    <link href="https://github.com/nix-community/poetry2nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert poetry projects to nix automagically [maintainer=@adisbladis]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

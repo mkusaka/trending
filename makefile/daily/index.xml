@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:51:20Z</updated>
+  <updated>2022-07-05T01:46:01Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>minvws/nl-kat-coordination</title>
-    <updated>2022-07-04T01:51:20Z</updated>
-    <id>tag:github.com,2022-07-04:/minvws/nl-kat-coordination</id>
-    <link href="https://github.com/minvws/nl-kat-coordination" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo nl-kat-coordination for minvws&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Nusantara-ROM/android_device_qcom_sepolicy</title>
-    <updated>2022-07-04T01:51:20Z</updated>
-    <id>tag:github.com,2022-07-04:/Nusantara-ROM/android_device_qcom_sepolicy</id>
-    <link href="https://github.com/Nusantara-ROM/android_device_qcom_sepolicy" rel="alternate"></link>
+    <title>Havoc-OS/android_device_qcom_sepolicy</title>
+    <updated>2022-07-05T01:46:01Z</updated>
+    <id>tag:github.com,2022-07-05:/Havoc-OS/android_device_qcom_sepolicy</id>
+    <link href="https://github.com/Havoc-OS/android_device_qcom_sepolicy" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nusantara-ROM/android_device_qcom_sepolicy-legacy-um</title>
-    <updated>2022-07-04T01:51:20Z</updated>
-    <id>tag:github.com,2022-07-04:/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um</id>
-    <link href="https://github.com/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um" rel="alternate"></link>
+    <title>Havoc-OS/android_device_generic_common</title>
+    <updated>2022-07-05T01:46:01Z</updated>
+    <id>tag:github.com,2022-07-05:/Havoc-OS/android_device_generic_common</id>
+    <link href="https://github.com/Havoc-OS/android_device_generic_common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Havoc-OS/android_build</title>
+    <updated>2022-07-05T01:46:01Z</updated>
+    <id>tag:github.com,2022-07-05:/Havoc-OS/android_build</id>
+    <link href="https://github.com/Havoc-OS/android_build" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

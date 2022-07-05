@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:58:27Z</updated>
+  <updated>2022-07-05T01:53:03Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lassekongo83/adw-gtk3</title>
-    <updated>2022-07-04T01:58:27Z</updated>
-    <id>tag:github.com,2022-07-04:/lassekongo83/adw-gtk3</id>
-    <link href="https://github.com/lassekongo83/adw-gtk3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The theme from libadwaita ported to GTK-3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jhildenbiddle/docsify-themeable</title>
+    <updated>2022-07-05T01:53:03Z</updated>
+    <id>tag:github.com,2022-07-05:/jhildenbiddle/docsify-themeable</id>
+    <link href="https://github.com/jhildenbiddle/docsify-themeable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LeNPaul/portfolio-jekyll-theme</title>
-    <updated>2022-07-04T01:58:27Z</updated>
-    <id>tag:github.com,2022-07-04:/LeNPaul/portfolio-jekyll-theme</id>
-    <link href="https://github.com/LeNPaul/portfolio-jekyll-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StaticMania/hugo-apsho</title>
+    <updated>2022-07-05T01:53:03Z</updated>
+    <id>tag:github.com,2022-07-05:/StaticMania/hugo-apsho</id>
+    <link href="https://github.com/StaticMania/hugo-apsho" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>emilbaehr/automatic-app-landing-page</title>
-    <updated>2022-07-04T01:58:27Z</updated>
-    <id>tag:github.com,2022-07-04:/emilbaehr/automatic-app-landing-page</id>
-    <link href="https://github.com/emilbaehr/automatic-app-landing-page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VoronDesign/Voron-Documentation</title>
+    <updated>2022-07-05T01:53:03Z</updated>
+    <id>tag:github.com,2022-07-05:/VoronDesign/Voron-Documentation</id>
+    <link href="https://github.com/VoronDesign/Voron-Documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sources of the documentation website for all Voron 3D printers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

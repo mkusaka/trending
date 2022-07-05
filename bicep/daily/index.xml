@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:39:46Z</updated>
+  <updated>2022-07-05T01:34:44Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/azure-private-link-service</title>
+    <updated>2022-07-05T01:34:44Z</updated>
+    <id>tag:github.com,2022-07-05:/Azure-Samples/azure-private-link-service</id>
+    <link href="https://github.com/Azure-Samples/azure-private-link-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This sample shows how to use Bicep to create an Azure Private Link Service that can be accessed by a third party via an Azure Private Endpoint. Bicep modules deploy all the Azure resources in the same resource group in the same Azure subscription.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

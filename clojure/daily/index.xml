@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:41:25Z</updated>
+  <updated>2022-07-05T01:36:17Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure-Samples/clojure-on-app-service</title>
-    <updated>2022-07-04T01:41:25Z</updated>
-    <id>tag:github.com,2022-07-04:/Azure-Samples/clojure-on-app-service</id>
-    <link href="https://github.com/Azure-Samples/clojure-on-app-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure web application and instructions for deploying it to Azure App Service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>djblue/portal</title>
+    <updated>2022-07-05T01:36:17Z</updated>
+    <id>tag:github.com,2022-07-05:/djblue/portal</id>
+    <link href="https://github.com/djblue/portal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clojure tool to navigate through your data.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clojure-finance/clojure-heap</title>
-    <updated>2022-07-04T01:41:25Z</updated>
-    <id>tag:github.com,2022-07-04:/clojure-finance/clojure-heap</id>
-    <link href="https://github.com/clojure-finance/clojure-heap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure Clojure implementation of a heap, i.e. priority queue&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>borkdude/bebo</title>
+    <updated>2022-07-05T01:36:17Z</updated>
+    <id>tag:github.com,2022-07-05:/borkdude/bebo</id>
+    <link href="https://github.com/borkdude/bebo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Clojure scripts on deno&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>uncomplicate/deep-diamond</title>
-    <updated>2022-07-04T01:41:25Z</updated>
-    <id>tag:github.com,2022-07-04:/uncomplicate/deep-diamond</id>
-    <link href="https://github.com/uncomplicate/deep-diamond" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast Clojure Tensor &amp; Deep Learning library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cljfx/cljfx</title>
+    <updated>2022-07-05T01:36:17Z</updated>
+    <id>tag:github.com,2022-07-05:/cljfx/cljfx</id>
+    <link href="https://github.com/cljfx/cljfx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

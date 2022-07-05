@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:59:27Z</updated>
+  <updated>2022-07-05T01:54:01Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SunWeb3Sec/DeFiVulnLabs</title>
-    <updated>2022-07-04T01:59:27Z</updated>
-    <id>tag:github.com,2022-07-04:/SunWeb3Sec/DeFiVulnLabs</id>
-    <link href="https://github.com/SunWeb3Sec/DeFiVulnLabs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;To learn common smart contract vulnerabilities using Foundry!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cultdao-developer/cultdao</title>
+    <updated>2022-07-05T01:54:01Z</updated>
+    <id>tag:github.com,2022-07-05:/cultdao-developer/cultdao</id>
+    <link href="https://github.com/cultdao-developer/cultdao" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bnsid/bns-contracts</title>
-    <updated>2022-07-04T01:59:27Z</updated>
-    <id>tag:github.com,2022-07-04:/bnsid/bns-contracts</id>
-    <link href="https://github.com/bnsid/bns-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A BNB Smart Chain Name Service based on the ens fork.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cultdao-developer/revolt2earn</title>
+    <updated>2022-07-05T01:54:01Z</updated>
+    <id>tag:github.com,2022-07-05:/cultdao-developer/revolt2earn</id>
+    <link href="https://github.com/cultdao-developer/revolt2earn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tintinweb/smart-contract-sanctuary-celo</title>
-    <updated>2022-07-04T01:59:27Z</updated>
-    <id>tag:github.com,2022-07-04:/tintinweb/smart-contract-sanctuary-celo</id>
-    <link href="https://github.com/tintinweb/smart-contract-sanctuary-celo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>makerdao/dss-teleport</title>
+    <updated>2022-07-05T01:54:01Z</updated>
+    <id>tag:github.com,2022-07-05:/makerdao/dss-teleport</id>
+    <link href="https://github.com/makerdao/dss-teleport" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

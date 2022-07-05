@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:58:00Z</updated>
+  <updated>2022-07-05T01:52:34Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ruffle-rs/ruffle</title>
-    <updated>2022-07-04T01:58:00Z</updated>
-    <id>tag:github.com,2022-07-04:/ruffle-rs/ruffle</id>
-    <link href="https://github.com/ruffle-rs/ruffle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Flash Player emulator written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RustScan/RustScan</title>
+    <updated>2022-07-05T01:52:34Z</updated>
+    <id>tag:github.com,2022-07-05:/RustScan/RustScan</id>
+    <link href="https://github.com/RustScan/RustScan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 The Modern Port Scanner 🤖&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>serde-rs/serde</title>
-    <updated>2022-07-04T01:58:00Z</updated>
-    <id>tag:github.com,2022-07-04:/serde-rs/serde</id>
-    <link href="https://github.com/serde-rs/serde" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serialization framework for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/windows-rs</title>
+    <updated>2022-07-05T01:52:34Z</updated>
+    <id>tag:github.com,2022-07-05:/microsoft/windows-rs</id>
+    <link href="https://github.com/microsoft/windows-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust for Windows&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mullvad/mullvadvpn-app</title>
-    <updated>2022-07-04T01:58:00Z</updated>
-    <id>tag:github.com,2022-07-04:/mullvad/mullvadvpn-app</id>
-    <link href="https://github.com/mullvad/mullvadvpn-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Mullvad VPN client app for desktop and mobile&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PyO3/pyo3</title>
+    <updated>2022-07-05T01:52:34Z</updated>
+    <id>tag:github.com,2022-07-05:/PyO3/pyo3</id>
+    <link href="https://github.com/PyO3/pyo3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust bindings for the Python interpreter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

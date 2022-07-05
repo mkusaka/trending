@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-04T01:37:42Z</updated>
+  <updated>2022-07-05T01:32:50Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>decalage2/awesome-security-hardening</title>
-    <updated>2022-07-04T01:37:42Z</updated>
-    <id>tag:github.com,2022-07-04:/decalage2/awesome-security-hardening</id>
-    <link href="https://github.com/decalage2/awesome-security-hardening" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of awesome security hardening guides, tools and other resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fiveoutofnine/cool-contracts</title>
+    <updated>2022-07-05T01:32:50Z</updated>
+    <id>tag:github.com,2022-07-05:/fiveoutofnine/cool-contracts</id>
+    <link href="https://github.com/fiveoutofnine/cool-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A compilation of smart contracts I find cool/fun/interesting.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>malgamves/CommunityWriterPrograms</title>
-    <updated>2022-07-04T01:37:42Z</updated>
-    <id>tag:github.com,2022-07-04:/malgamves/CommunityWriterPrograms</id>
-    <link href="https://github.com/malgamves/CommunityWriterPrograms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of Developer Community Writer Programs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ombharatiya/FAANG-Coding-Interview-Questions</title>
+    <updated>2022-07-05T01:32:50Z</updated>
+    <id>tag:github.com,2022-07-05:/ombharatiya/FAANG-Coding-Interview-Questions</id>
+    <link href="https://github.com/ombharatiya/FAANG-Coding-Interview-Questions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated List of Coding Questions Asked in FAANG Interviews&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/rust-by-example</title>
-    <updated>2022-07-04T01:37:42Z</updated>
-    <id>tag:github.com,2022-07-04:/rust-lang/rust-by-example</id>
-    <link href="https://github.com/rust-lang/rust-by-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn Rust with examples (Live code editor included)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CyberSecurityUP/OSCE-Complete-Guide</title>
+    <updated>2022-07-05T01:32:50Z</updated>
+    <id>tag:github.com,2022-07-05:/CyberSecurityUP/OSCE-Complete-Guide</id>
+    <link href="https://github.com/CyberSecurityUP/OSCE-Complete-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OSWE, OSEP, OSED&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
