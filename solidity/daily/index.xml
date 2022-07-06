@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:54:01Z</updated>
+  <updated>2022-07-06T01:54:01Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cultdao-developer/cultdao</title>
-    <updated>2022-07-05T01:54:01Z</updated>
-    <id>tag:github.com,2022-07-05:/cultdao-developer/cultdao</id>
-    <link href="https://github.com/cultdao-developer/cultdao" rel="alternate"></link>
+    <title>anyswap/multichain-smart-contracts</title>
+    <updated>2022-07-06T01:54:01Z</updated>
+    <id>tag:github.com,2022-07-06:/anyswap/multichain-smart-contracts</id>
+    <link href="https://github.com/anyswap/multichain-smart-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;multichain smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blockscout/blockscout-rs</title>
+    <updated>2022-07-06T01:54:01Z</updated>
+    <id>tag:github.com,2022-07-06:/blockscout/blockscout-rs</id>
+    <link href="https://github.com/blockscout/blockscout-rs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cultdao-developer/revolt2earn</title>
-    <updated>2022-07-05T01:54:01Z</updated>
-    <id>tag:github.com,2022-07-05:/cultdao-developer/revolt2earn</id>
-    <link href="https://github.com/cultdao-developer/revolt2earn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>makerdao/dss-teleport</title>
-    <updated>2022-07-05T01:54:01Z</updated>
-    <id>tag:github.com,2022-07-05:/makerdao/dss-teleport</id>
-    <link href="https://github.com/makerdao/dss-teleport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WeBankBlockchain/SmartDev-Contract</title>
+    <updated>2022-07-06T01:54:01Z</updated>
+    <id>tag:github.com,2022-07-06:/WeBankBlockchain/SmartDev-Contract</id>
+    <link href="https://github.com/WeBankBlockchain/SmartDev-Contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity智能合约库，包含了基础类型到上层业务的一系列智能合约库代码，便于开发者借鉴、引入和复用。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

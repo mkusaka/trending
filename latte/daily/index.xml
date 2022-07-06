@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Latte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:44:49Z</updated>
+  <updated>2022-07-06T01:44:32Z</updated>
   <subtitle>Daily Trending of Latte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fykosak/webs</title>
-    <updated>2022-07-05T01:44:49Z</updated>
-    <id>tag:github.com,2022-07-05:/fykosak/webs</id>
-    <link href="https://github.com/fykosak/webs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌍 Non-game part website of Online Physics Brawl and Fyziklani competitions online.fyziklani.cz fyziklani.cz&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

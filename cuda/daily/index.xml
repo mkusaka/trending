@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:37:23Z</updated>
+  <updated>2022-07-06T01:37:26Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>princeton-vl/lietorch</title>
-    <updated>2022-07-05T01:37:23Z</updated>
-    <id>tag:github.com,2022-07-05:/princeton-vl/lietorch</id>
-    <link href="https://github.com/princeton-vl/lietorch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vincentfpgarcia/kNN-CUDA</title>
+    <updated>2022-07-06T01:37:26Z</updated>
+    <id>tag:github.com,2022-07-06:/vincentfpgarcia/kNN-CUDA</id>
+    <link href="https://github.com/vincentfpgarcia/kNN-CUDA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast k nearest neighbor search using GPU&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

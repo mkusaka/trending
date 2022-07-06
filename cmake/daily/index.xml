@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:36:25Z</updated>
+  <updated>2022-07-06T01:36:31Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KDE/extra-cmake-modules</title>
-    <updated>2022-07-05T01:36:25Z</updated>
-    <id>tag:github.com,2022-07-05:/KDE/extra-cmake-modules</id>
-    <link href="https://github.com/KDE/extra-cmake-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extra modules and scripts for CMake.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sakra/cotire</title>
+    <updated>2022-07-06T01:36:31Z</updated>
+    <id>tag:github.com,2022-07-06:/sakra/cotire</id>
+    <link href="https://github.com/sakra/cotire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake module to speed up builds.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>boschresearch/fmilibrary_vendor</title>
-    <updated>2022-07-05T01:36:25Z</updated>
-    <id>tag:github.com,2022-07-05:/boschresearch/fmilibrary_vendor</id>
-    <link href="https://github.com/boschresearch/fmilibrary_vendor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vendor ROS package for the FMILibrary by Modelon AB, cf. https://jmodelica.org/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PolarityWorks/zmk-config-rotr</title>
+    <updated>2022-07-06T01:36:31Z</updated>
+    <id>tag:github.com,2022-07-06:/PolarityWorks/zmk-config-rotr</id>
+    <link href="https://github.com/PolarityWorks/zmk-config-rotr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ZMK config for the rotr&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tilk/rtcm_msgs</title>
+    <updated>2022-07-06T01:36:31Z</updated>
+    <id>tag:github.com,2022-07-06:/tilk/rtcm_msgs</id>
+    <link href="https://github.com/tilk/rtcm_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The rtcm_msgs package contains messages related to data in the RTCM format.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

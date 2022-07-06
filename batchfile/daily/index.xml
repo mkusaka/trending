@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:34:38Z</updated>
+  <updated>2022-07-06T01:34:42Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Asia81/HackingToolkit9DS-Deprecated-</title>
-    <updated>2022-07-05T01:34:38Z</updated>
-    <id>tag:github.com,2022-07-05:/Asia81/HackingToolkit9DS-Deprecated-</id>
-    <link href="https://github.com/Asia81/HackingToolkit9DS-Deprecated-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HackingToolkit9DS, a (deprecated) 3DS RomHacking Tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AshutoshSingh002s/WindowsRDP</title>
+    <updated>2022-07-06T01:34:42Z</updated>
+    <id>tag:github.com,2022-07-06:/AshutoshSingh002s/WindowsRDP</id>
+    <link href="https://github.com/AshutoshSingh002s/WindowsRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SarnaxLii/HWID.Spoofer</title>
-    <updated>2022-07-05T01:34:38Z</updated>
-    <id>tag:github.com,2022-07-05:/SarnaxLii/HWID.Spoofer</id>
-    <link href="https://github.com/SarnaxLii/HWID.Spoofer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This will change the S/N and Hardware ID.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vbssubscribeit/RDP-6HRS-WINDOWS</title>
+    <updated>2022-07-06T01:34:42Z</updated>
+    <id>tag:github.com,2022-07-06:/vbssubscribeit/RDP-6HRS-WINDOWS</id>
+    <link href="https://github.com/vbssubscribeit/RDP-6HRS-WINDOWS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matiffeder/3DS-stuff</title>
+    <updated>2022-07-06T01:34:42Z</updated>
+    <id>tag:github.com,2022-07-06:/matiffeder/3DS-stuff</id>
+    <link href="https://github.com/matiffeder/3DS-stuff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

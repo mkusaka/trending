@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:44:01Z</updated>
+  <updated>2022-07-06T01:43:50Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rafaqz/Interfaces.jl</title>
-    <updated>2022-07-05T01:44:01Z</updated>
-    <id>tag:github.com,2022-07-05:/rafaqz/Interfaces.jl</id>
-    <link href="https://github.com/rafaqz/Interfaces.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Macros to define and implement interfaces, to ensure they are checked and correct.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaGPU/GPUArrays.jl</title>
-    <updated>2022-07-05T01:44:01Z</updated>
-    <id>tag:github.com,2022-07-05:/JuliaGPU/GPUArrays.jl</id>
-    <link href="https://github.com/JuliaGPU/GPUArrays.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reusable array functionality for Julia&#39;s various GPU backends.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DynareJulia/FastLapackInterface.jl</title>
-    <updated>2022-07-05T01:44:01Z</updated>
-    <id>tag:github.com,2022-07-05:/DynareJulia/FastLapackInterface.jl</id>
-    <link href="https://github.com/DynareJulia/FastLapackInterface.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/OrdinaryDiffEq.jl</title>
+    <updated>2022-07-06T01:43:50Z</updated>
+    <id>tag:github.com,2022-07-06:/SciML/OrdinaryDiffEq.jl</id>
+    <link href="https://github.com/SciML/OrdinaryDiffEq.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High performance differential equation solvers for ordinary differential equations, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

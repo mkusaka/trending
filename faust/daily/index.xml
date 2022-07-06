@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Faust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:39:42Z</updated>
+  <updated>2022-07-06T01:39:42Z</updated>
   <subtitle>Daily Trending of Faust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mouseos/RadiMod</title>
-    <updated>2022-07-05T01:39:42Z</updated>
-    <id>tag:github.com,2022-07-05:/mouseos/RadiMod</id>
-    <link href="https://github.com/mouseos/RadiMod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;First open source audio processing software for radio&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

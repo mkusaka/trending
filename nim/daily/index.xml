@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:47:52Z</updated>
+  <updated>2022-07-06T01:47:29Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xflywind/awesome-nim</title>
-    <updated>2022-07-05T01:47:52Z</updated>
-    <id>tag:github.com,2022-07-05:/xflywind/awesome-nim</id>
-    <link href="https://github.com/xflywind/awesome-nim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome Nim frameworks, libraries, software and resources.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

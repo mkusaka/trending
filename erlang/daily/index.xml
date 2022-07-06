@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:39:39Z</updated>
+  <updated>2022-07-06T01:39:37Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hstreamdb/hstreamdb_erl</title>
-    <updated>2022-07-05T01:39:39Z</updated>
-    <id>tag:github.com,2022-07-05:/hstreamdb/hstreamdb_erl</id>
-    <link href="https://github.com/hstreamdb/hstreamdb_erl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang Client for HStreamDB&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emqx/ekka</title>
+    <updated>2022-07-06T01:39:37Z</updated>
+    <id>tag:github.com,2022-07-06:/emqx/ekka</id>
+    <link href="https://github.com/emqx/ekka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Autocluster and Autoheal for EMQX Broker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>esl/elarm_mailer</title>
-    <updated>2022-07-05T01:39:39Z</updated>
-    <id>tag:github.com,2022-07-05:/esl/elarm_mailer</id>
-    <link href="https://github.com/esl/elarm_mailer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SMTP reporting for elarm&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>esl/elarm</title>
-    <updated>2022-07-05T01:39:39Z</updated>
-    <id>tag:github.com,2022-07-05:/esl/elarm</id>
-    <link href="https://github.com/esl/elarm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emqx/lc</title>
+    <updated>2022-07-06T01:39:37Z</updated>
+    <id>tag:github.com,2022-07-06:/emqx/lc</id>
+    <link href="https://github.com/emqx/lc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Load Control for beam&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

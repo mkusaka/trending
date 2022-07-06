@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:46:01Z</updated>
+  <updated>2022-07-06T01:45:39Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Havoc-OS/android_device_qcom_sepolicy</title>
-    <updated>2022-07-05T01:46:01Z</updated>
-    <id>tag:github.com,2022-07-05:/Havoc-OS/android_device_qcom_sepolicy</id>
-    <link href="https://github.com/Havoc-OS/android_device_qcom_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moneyforward/dscar-coffeelint</title>
+    <updated>2022-07-06T01:45:39Z</updated>
+    <id>tag:github.com,2022-07-06:/moneyforward/dscar-coffeelint</id>
+    <link href="https://github.com/moneyforward/dscar-coffeelint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delta CoffeeLint reports running on CircleCI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Havoc-OS/android_device_generic_common</title>
-    <updated>2022-07-05T01:46:01Z</updated>
-    <id>tag:github.com,2022-07-05:/Havoc-OS/android_device_generic_common</id>
-    <link href="https://github.com/Havoc-OS/android_device_generic_common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moneyforward/dscar-brakeman</title>
+    <updated>2022-07-06T01:45:39Z</updated>
+    <id>tag:github.com,2022-07-06:/moneyforward/dscar-brakeman</id>
+    <link href="https://github.com/moneyforward/dscar-brakeman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delta Brakeman Reports&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Havoc-OS/android_build</title>
-    <updated>2022-07-05T01:46:01Z</updated>
-    <id>tag:github.com,2022-07-05:/Havoc-OS/android_build</id>
-    <link href="https://github.com/Havoc-OS/android_build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moneyforward/dscar</title>
+    <updated>2022-07-06T01:45:39Z</updated>
+    <id>tag:github.com,2022-07-06:/moneyforward/dscar</id>
+    <link href="https://github.com/moneyforward/dscar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delta Static Code Analysis Reports&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

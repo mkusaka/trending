@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:53:03Z</updated>
+  <updated>2022-07-06T01:53:01Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jhildenbiddle/docsify-themeable</title>
-    <updated>2022-07-05T01:53:03Z</updated>
-    <id>tag:github.com,2022-07-05:/jhildenbiddle/docsify-themeable</id>
-    <link href="https://github.com/jhildenbiddle/docsify-themeable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>junnei/mml</title>
+    <updated>2022-07-06T01:53:01Z</updated>
+    <id>tag:github.com,2022-07-06:/junnei/mml</id>
+    <link href="https://github.com/junnei/mml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mathematics For Machine Learning Study&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>StaticMania/hugo-apsho</title>
-    <updated>2022-07-05T01:53:03Z</updated>
-    <id>tag:github.com,2022-07-05:/StaticMania/hugo-apsho</id>
-    <link href="https://github.com/StaticMania/hugo-apsho" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>samarsault/plainwhite-jekyll</title>
+    <updated>2022-07-06T01:53:01Z</updated>
+    <id>tag:github.com,2022-07-06:/samarsault/plainwhite-jekyll</id>
+    <link href="https://github.com/samarsault/plainwhite-jekyll" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A configurable portfolio-style jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>VoronDesign/Voron-Documentation</title>
-    <updated>2022-07-05T01:53:03Z</updated>
-    <id>tag:github.com,2022-07-05:/VoronDesign/Voron-Documentation</id>
-    <link href="https://github.com/VoronDesign/Voron-Documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sources of the documentation website for all Voron 3D printers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>samarsault/texture</title>
+    <updated>2022-07-06T01:53:01Z</updated>
+    <id>tag:github.com,2022-07-06:/samarsault/texture</id>
+    <link href="https://github.com/samarsault/texture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A configurable jekyll theme for simply beautiful blogs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

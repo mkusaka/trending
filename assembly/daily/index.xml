@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:34:11Z</updated>
+  <updated>2022-07-06T01:34:16Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sudleyplace/DPMIONE</title>
-    <updated>2022-07-05T01:34:11Z</updated>
-    <id>tag:github.com,2022-07-05:/sudleyplace/DPMIONE</id>
-    <link href="https://github.com/sudleyplace/DPMIONE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DPMI 1.0 Server&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mrfearless/DateTime-Library</title>
-    <updated>2022-07-05T01:34:11Z</updated>
-    <id>tag:github.com,2022-07-05:/mrfearless/DateTime-Library</id>
-    <link href="https://github.com/mrfearless/DateTime-Library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DateTime Library - a library written in assembler (for x86 and x64) which provides simple date and time conversion, manipulation and comparison functions for use in any of your assembler projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nanochess/bootBASIC</title>
+    <updated>2022-07-06T01:34:16Z</updated>
+    <id>tag:github.com,2022-07-06:/nanochess/bootBASIC</id>
+    <link href="https://github.com/nanochess/bootBASIC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bootBASIC is a BASIC language in 512 bytes of x86 machine code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

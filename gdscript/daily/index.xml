@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:40:35Z</updated>
+  <updated>2022-07-06T01:40:31Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ceceppa/anima</title>
-    <updated>2022-07-05T01:40:35Z</updated>
-    <id>tag:github.com,2022-07-05:/ceceppa/anima</id>
-    <link href="https://github.com/ceceppa/anima" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot: run sequential and parallel animations with less code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Bimbam360/Curve_Terrain</title>
+    <updated>2022-07-06T01:40:31Z</updated>
+    <id>tag:github.com,2022-07-06:/Bimbam360/Curve_Terrain</id>
+    <link href="https://github.com/Bimbam360/Curve_Terrain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add-on for Godot Engine to generate simple 3D platformer terrain meshes based on bezier curves&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nekotogd/Godot_2D_Grass_Particles</title>
-    <updated>2022-07-05T01:40:35Z</updated>
-    <id>tag:github.com,2022-07-05:/nekotogd/Godot_2D_Grass_Particles</id>
-    <link href="https://github.com/nekotogd/Godot_2D_Grass_Particles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interactive 2D Grass Particles&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pemguin005/Third-Person-Controller---Godot-Souls-like</title>
+    <updated>2022-07-06T01:40:31Z</updated>
+    <id>tag:github.com,2022-07-06:/pemguin005/Third-Person-Controller---Godot-Souls-like</id>
+    <link href="https://github.com/pemguin005/Third-Person-Controller---Godot-Souls-like" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A controller template for speedy &#39;soul&#39;s-like&#39; game prototyping.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

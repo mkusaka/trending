@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lasso Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:44:51Z</updated>
+  <updated>2022-07-06T01:44:29Z</updated>
   <subtitle>Daily Trending of Lasso in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bolgebrygg/Force-2020-Machine-Learning-competition</title>
+    <updated>2022-07-06T01:44:29Z</updated>
+    <id>tag:github.com,2022-07-06:/bolgebrygg/Force-2020-Machine-Learning-competition</id>
+    <link href="https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the results, code and the data for the Force 2020 Machine learning competition after the completion of the competition in October 2020.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

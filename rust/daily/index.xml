@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-05T01:52:34Z</updated>
+  <updated>2022-07-06T01:52:31Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RustScan/RustScan</title>
-    <updated>2022-07-05T01:52:34Z</updated>
-    <id>tag:github.com,2022-07-05:/RustScan/RustScan</id>
-    <link href="https://github.com/RustScan/RustScan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤖 The Modern Port Scanner 🤖&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pola-rs/polars</title>
+    <updated>2022-07-06T01:52:31Z</updated>
+    <id>tag:github.com,2022-07-06:/pola-rs/polars</id>
+    <link href="https://github.com/pola-rs/polars" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast multi-threaded DataFrame library in Rust | Python | Node.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/windows-rs</title>
-    <updated>2022-07-05T01:52:34Z</updated>
-    <id>tag:github.com,2022-07-05:/microsoft/windows-rs</id>
-    <link href="https://github.com/microsoft/windows-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>diesel-rs/diesel</title>
+    <updated>2022-07-06T01:52:31Z</updated>
+    <id>tag:github.com,2022-07-06:/diesel-rs/diesel</id>
+    <link href="https://github.com/diesel-rs/diesel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A safe, extensible ORM and Query Builder for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PyO3/pyo3</title>
-    <updated>2022-07-05T01:52:34Z</updated>
-    <id>tag:github.com,2022-07-05:/PyO3/pyo3</id>
-    <link href="https://github.com/PyO3/pyo3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust bindings for the Python interpreter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>swc-project/swc</title>
+    <updated>2022-07-06T01:52:31Z</updated>
+    <id>tag:github.com,2022-07-06:/swc-project/swc</id>
+    <link href="https://github.com/swc-project/swc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust-based platform for the Web&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
