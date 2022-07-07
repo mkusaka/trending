@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:38:58Z</updated>
+  <updated>2022-07-07T01:39:30Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CydVilla/RC-Cohort2022a</title>
-    <updated>2022-07-06T01:38:58Z</updated>
-    <id>tag:github.com,2022-07-06:/CydVilla/RC-Cohort2022a</id>
-    <link href="https://github.com/CydVilla/RC-Cohort2022a" rel="alternate"></link>
+    <title>WebClub-NITK/book-directory</title>
+    <updated>2022-07-07T01:39:30Z</updated>
+    <id>tag:github.com,2022-07-07:/WebClub-NITK/book-directory</id>
+    <link href="https://github.com/WebClub-NITK/book-directory" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

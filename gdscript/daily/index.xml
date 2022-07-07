@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:40:31Z</updated>
+  <updated>2022-07-07T01:40:59Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Bimbam360/Curve_Terrain</title>
-    <updated>2022-07-06T01:40:31Z</updated>
-    <id>tag:github.com,2022-07-06:/Bimbam360/Curve_Terrain</id>
-    <link href="https://github.com/Bimbam360/Curve_Terrain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add-on for Godot Engine to generate simple 3D platformer terrain meshes based on bezier curves&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nathanhoad/godot_dialogue_manager</title>
+    <updated>2022-07-07T01:40:59Z</updated>
+    <id>tag:github.com,2022-07-07:/nathanhoad/godot_dialogue_manager</id>
+    <link href="https://github.com/nathanhoad/godot_dialogue_manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple but powerful branching dialogue system for Godot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pemguin005/Third-Person-Controller---Godot-Souls-like</title>
-    <updated>2022-07-06T01:40:31Z</updated>
-    <id>tag:github.com,2022-07-06:/pemguin005/Third-Person-Controller---Godot-Souls-like</id>
-    <link href="https://github.com/pemguin005/Third-Person-Controller---Godot-Souls-like" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A controller template for speedy &#39;soul&#39;s-like&#39; game prototyping.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>theobori/game_jame</title>
+    <updated>2022-07-07T01:40:59Z</updated>
+    <id>tag:github.com,2022-07-07:/theobori/game_jame</id>
+    <link href="https://github.com/theobori/game_jame" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mario like&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

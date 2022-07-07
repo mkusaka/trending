@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:39:37Z</updated>
+  <updated>2022-07-07T01:40:05Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emqx/ekka</title>
-    <updated>2022-07-06T01:39:37Z</updated>
-    <id>tag:github.com,2022-07-06:/emqx/ekka</id>
-    <link href="https://github.com/emqx/ekka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Autocluster and Autoheal for EMQX Broker&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>emqx/lc</title>
-    <updated>2022-07-06T01:39:37Z</updated>
-    <id>tag:github.com,2022-07-06:/emqx/lc</id>
-    <link href="https://github.com/emqx/lc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Load Control for beam&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>launchdarkly/erlang-server-sdk</title>
+    <updated>2022-07-07T01:40:05Z</updated>
+    <id>tag:github.com,2022-07-07:/launchdarkly/erlang-server-sdk</id>
+    <link href="https://github.com/launchdarkly/erlang-server-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LaunchDarkly Server-Side SDK for Erlang/Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

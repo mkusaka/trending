@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Component Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:36:42Z</updated>
+  <updated>2022-07-07T01:37:13Z</updated>
   <subtitle>Daily Trending of Component Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>etcho/Magic-Pics-Downloader</title>
-    <updated>2022-07-06T01:36:42Z</updated>
-    <id>tag:github.com,2022-07-06:/etcho/Magic-Pics-Downloader</id>
-    <link href="https://github.com/etcho/Magic-Pics-Downloader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ferramenta para download de pics(imagens) de cartas para o Magic Workstation, um criador de baralhos do jogo Magic The Gathering&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

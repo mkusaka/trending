@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:34:56Z</updated>
+  <updated>2022-07-07T01:35:13Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zuramai/laravel-smm</title>
-    <updated>2022-07-06T01:34:56Z</updated>
-    <id>tag:github.com,2022-07-06:/zuramai/laravel-smm</id>
-    <link href="https://github.com/zuramai/laravel-smm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Social Media Marketing App (buy social media followers) built with Laravel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

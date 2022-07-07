@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:42:05Z</updated>
+  <updated>2022-07-07T01:42:38Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vmware-samples/packer-examples-for-vsphere</title>
-    <updated>2022-07-06T01:42:05Z</updated>
-    <id>tag:github.com,2022-07-06:/vmware-samples/packer-examples-for-vsphere</id>
-    <link href="https://github.com/vmware-samples/packer-examples-for-vsphere" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Packer Examples for vSphere&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-vpc</title>
+    <updated>2022-07-07T01:42:38Z</updated>
+    <id>tag:github.com,2022-07-07:/cloudposse/terraform-aws-vpc</id>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mavrick202/terraformsingleinstance</title>
-    <updated>2022-07-06T01:42:05Z</updated>
-    <id>tag:github.com,2022-07-06:/mavrick202/terraformsingleinstance</id>
-    <link href="https://github.com/mavrick202/terraformsingleinstance" rel="alternate"></link>
+    <title>DataDog/Datadog-Labs-jp</title>
+    <updated>2022-07-07T01:42:38Z</updated>
+    <id>tag:github.com,2022-07-07:/DataDog/Datadog-Labs-jp</id>
+    <link href="https://github.com/DataDog/Datadog-Labs-jp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-terraform-label</title>
-    <updated>2022-07-06T01:42:05Z</updated>
-    <id>tag:github.com,2022-07-06:/cloudposse/terraform-terraform-label</id>
-    <link href="https://github.com/cloudposse/terraform-terraform-label" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:34:16Z</updated>
+  <updated>2022-07-07T01:34:33Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nanochess/bootBASIC</title>
-    <updated>2022-07-06T01:34:16Z</updated>
-    <id>tag:github.com,2022-07-06:/nanochess/bootBASIC</id>
-    <link href="https://github.com/nanochess/bootBASIC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;bootBASIC is a BASIC language in 512 bytes of x86 machine code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>winterknife/PINKPANTHER</title>
+    <updated>2022-07-07T01:34:33Z</updated>
+    <id>tag:github.com,2022-07-07:/winterknife/PINKPANTHER</id>
+    <link href="https://github.com/winterknife/PINKPANTHER" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows x64 handcrafted token stealing kernel-mode shellcode&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>azertyfun/SimpleOS</title>
+    <updated>2022-07-07T01:34:33Z</updated>
+    <id>tag:github.com,2022-07-07:/azertyfun/SimpleOS</id>
+    <link href="https://github.com/azertyfun/SimpleOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OS for DCPU-16 (0x10^c)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

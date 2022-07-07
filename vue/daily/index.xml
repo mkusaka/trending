@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:57:11Z</updated>
+  <updated>2022-07-07T01:57:43Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>productdevbook/oku-nuxt3-template</title>
-    <updated>2022-07-06T01:57:11Z</updated>
-    <id>tag:github.com,2022-07-06:/productdevbook/oku-nuxt3-template</id>
-    <link href="https://github.com/productdevbook/oku-nuxt3-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nuxt 3 best starter repo, Tailwindcss, Sass, Headless UI, Vue, Pinia, Vite, Eslint Nuxt 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starsliao/ConsulManager</title>
+    <updated>2022-07-07T01:57:43Z</updated>
+    <id>tag:github.com,2022-07-07:/starsliao/ConsulManager</id>
+    <link href="https://github.com/starsliao/ConsulManager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦄ConsulManager：高效易用的Consul Web运维平台 &amp; ECS云主机自动同步Prometheus监控 &amp; Blackbox站点监控Web管理工具 &amp; 漏洞采集与告警&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

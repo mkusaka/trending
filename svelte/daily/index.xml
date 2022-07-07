@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:54:42Z</updated>
+  <updated>2022-07-07T01:55:17Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anotherempty/svelte-brick-gallery</title>
-    <updated>2022-07-06T01:54:42Z</updated>
-    <id>tag:github.com,2022-07-06:/anotherempty/svelte-brick-gallery</id>
-    <link href="https://github.com/anotherempty/svelte-brick-gallery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A masonry-like image gallery component for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>midudev/chat-hackathon</title>
+    <updated>2022-07-07T01:55:17Z</updated>
+    <id>tag:github.com,2022-07-07:/midudev/chat-hackathon</id>
+    <link href="https://github.com/midudev/chat-hackathon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base de la hackathon de Twilio Julio 2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hcengineering/anticrm</title>
+    <updated>2022-07-07T01:55:17Z</updated>
+    <id>tag:github.com,2022-07-07:/hcengineering/anticrm</id>
+    <link href="https://github.com/hcengineering/anticrm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Anticrm Platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

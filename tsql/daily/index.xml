@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:55:52Z</updated>
+  <updated>2022-07-07T01:56:30Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TdP-esami/2019-07-12-B</title>
-    <updated>2022-07-06T01:55:52Z</updated>
-    <id>tag:github.com,2022-07-06:/TdP-esami/2019-07-12-B</id>
-    <link href="https://github.com/TdP-esami/2019-07-12-B" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tema d&#39;esame del 12/07/2019, Turno B (Food Pyramid, simulazione)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jmayta1984/si400-2201-ea</title>
+    <updated>2022-07-07T01:56:30Z</updated>
+    <id>tag:github.com,2022-07-07:/jmayta1984/si400-2201-ea</id>
+    <link href="https://github.com/jmayta1984/si400-2201-ea" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

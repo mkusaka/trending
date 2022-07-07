@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:39:02Z</updated>
+  <updated>2022-07-07T01:39:34Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Shopify/asls</title>
-    <updated>2022-07-06T01:39:02Z</updated>
-    <id>tag:github.com,2022-07-06:/Shopify/asls</id>
-    <link href="https://github.com/Shopify/asls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A front-end independent language server for AssemblyScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>WTTJ/ecto_anon</title>
-    <updated>2022-07-06T01:39:02Z</updated>
-    <id>tag:github.com,2022-07-06:/WTTJ/ecto_anon</id>
-    <link href="https://github.com/WTTJ/ecto_anon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data anonymization for your Ecto models !&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primait/telepoison</title>
+    <updated>2022-07-07T01:39:34Z</updated>
+    <id>tag:github.com,2022-07-07:/primait/telepoison</id>
+    <link href="https://github.com/primait/telepoison" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

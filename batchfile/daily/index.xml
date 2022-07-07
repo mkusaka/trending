@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:34:42Z</updated>
+  <updated>2022-07-07T01:35:01Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AshutoshSingh002s/WindowsRDP</title>
-    <updated>2022-07-06T01:34:42Z</updated>
-    <id>tag:github.com,2022-07-06:/AshutoshSingh002s/WindowsRDP</id>
-    <link href="https://github.com/AshutoshSingh002s/WindowsRDP" rel="alternate"></link>
+    <title>toshiro9117/Villain.In.Glasses</title>
+    <updated>2022-07-07T01:35:01Z</updated>
+    <id>tag:github.com,2022-07-07:/toshiro9117/Villain.In.Glasses</id>
+    <link href="https://github.com/toshiro9117/Villain.In.Glasses" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vbssubscribeit/RDP-6HRS-WINDOWS</title>
-    <updated>2022-07-06T01:34:42Z</updated>
-    <id>tag:github.com,2022-07-06:/vbssubscribeit/RDP-6HRS-WINDOWS</id>
-    <link href="https://github.com/vbssubscribeit/RDP-6HRS-WINDOWS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>newbit1/rootAVD</title>
+    <updated>2022-07-07T01:35:01Z</updated>
+    <id>tag:github.com,2022-07-07:/newbit1/rootAVD</id>
+    <link href="https://github.com/newbit1/rootAVD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Script to root AVDs running with QEMU Emulator from Android Studio&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matiffeder/3DS-stuff</title>
-    <updated>2022-07-06T01:34:42Z</updated>
-    <id>tag:github.com,2022-07-06:/matiffeder/3DS-stuff</id>
-    <link href="https://github.com/matiffeder/3DS-stuff" rel="alternate"></link>
+    <title>vs454545/WindowsRDP-1</title>
+    <updated>2022-07-07T01:35:01Z</updated>
+    <id>tag:github.com,2022-07-07:/vs454545/WindowsRDP-1</id>
+    <link href="https://github.com/vs454545/WindowsRDP-1" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

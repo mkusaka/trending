@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:57:03Z</updated>
+  <updated>2022-07-07T01:57:32Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>magnunleno/.vim</title>
-    <updated>2022-07-06T01:57:03Z</updated>
-    <id>tag:github.com,2022-07-06:/magnunleno/.vim</id>
-    <link href="https://github.com/magnunleno/.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Vim Setup&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ayu-theme/ayu-vim</title>
+    <updated>2022-07-07T01:57:32Z</updated>
+    <id>tag:github.com,2022-07-07:/ayu-theme/ayu-vim</id>
+    <link href="https://github.com/ayu-theme/ayu-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern theme for modern VIMs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>simnalamburt/vim-mundo</title>
-    <updated>2022-07-06T01:57:03Z</updated>
-    <id>tag:github.com,2022-07-06:/simnalamburt/vim-mundo</id>
-    <link href="https://github.com/simnalamburt/vim-mundo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎄 Vim undo tree visualizer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jdah/dotfiles</title>
+    <updated>2022-07-07T01:57:32Z</updated>
+    <id>tag:github.com,2022-07-07:/jdah/dotfiles</id>
+    <link href="https://github.com/jdah/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;some of my configs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kana/vim-textobj-user</title>
-    <updated>2022-07-06T01:57:03Z</updated>
-    <id>tag:github.com,2022-07-06:/kana/vim-textobj-user</id>
-    <link href="https://github.com/kana/vim-textobj-user" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin: Create your own text objects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jamesshieh/vimrc</title>
+    <updated>2022-07-07T01:57:32Z</updated>
+    <id>tag:github.com,2022-07-07:/jamesshieh/vimrc</id>
+    <link href="https://github.com/jamesshieh/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim config&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

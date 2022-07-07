@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:41:44Z</updated>
+  <updated>2022-07-07T01:42:16Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elbuo8/platzi-scripts</title>
-    <updated>2022-07-06T01:41:44Z</updated>
-    <id>tag:github.com,2022-07-06:/elbuo8/platzi-scripts</id>
-    <link href="https://github.com/elbuo8/platzi-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of platzi scripts for classes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ikambarov/scripted-pipeline</title>
+    <updated>2022-07-07T01:42:16Z</updated>
+    <id>tag:github.com,2022-07-07:/ikambarov/scripted-pipeline</id>
+    <link href="https://github.com/ikambarov/scripted-pipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>npero/Infodoc</title>
+    <updated>2022-07-07T01:42:16Z</updated>
+    <id>tag:github.com,2022-07-07:/npero/Infodoc</id>
+    <link href="https://github.com/npero/Infodoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>libris/librisxl</title>
+    <updated>2022-07-07T01:42:16Z</updated>
+    <id>tag:github.com,2022-07-07:/libris/librisxl</id>
+    <link href="https://github.com/libris/librisxl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Libris XL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

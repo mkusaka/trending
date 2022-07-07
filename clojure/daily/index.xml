@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-06T01:36:20Z</updated>
+  <updated>2022-07-07T01:36:46Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>6vr/Bug-Bounty-Tips</title>
-    <updated>2022-07-06T01:36:20Z</updated>
-    <id>tag:github.com,2022-07-06:/6vr/Bug-Bounty-Tips</id>
-    <link href="https://github.com/6vr/Bug-Bounty-Tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of notes, checklists, writeups on bug bounty hunting and web application security.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dpassen/malapropism</title>
+    <updated>2022-07-07T01:36:46Z</updated>
+    <id>tag:github.com,2022-07-07:/dpassen/malapropism</id>
+    <link href="https://github.com/dpassen/malapropism" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Malli-backed configuration library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>razum2um/awesome-clojure</title>
-    <updated>2022-07-06T01:36:20Z</updated>
-    <id>tag:github.com,2022-07-06:/razum2um/awesome-clojure</id>
-    <link href="https://github.com/razum2um/awesome-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nextjournal/clojure-mode</title>
+    <updated>2022-07-07T01:36:46Z</updated>
+    <id>tag:github.com,2022-07-07:/nextjournal/clojure-mode</id>
+    <link href="https://github.com/nextjournal/clojure-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure/Script mode for CodeMirror 6&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>clojure/core.async</title>
+    <updated>2022-07-07T01:36:46Z</updated>
+    <id>tag:github.com,2022-07-07:/clojure/core.async</id>
+    <link href="https://github.com/clojure/core.async" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Facilities for async programming and communication in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
