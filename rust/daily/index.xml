@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:52:57Z</updated>
+  <updated>2022-07-08T01:54:58Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coral-xyz/anchor</title>
-    <updated>2022-07-07T01:52:57Z</updated>
-    <id>tag:github.com,2022-07-07:/coral-xyz/anchor</id>
-    <link href="https://github.com/coral-xyz/anchor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚓ Solana Sealevel Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zesterer/tao</title>
+    <updated>2022-07-08T01:54:58Z</updated>
+    <id>tag:github.com,2022-07-08:/zesterer/tao</id>
+    <link href="https://github.com/zesterer/tao" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sunface/rust-by-practice</title>
-    <updated>2022-07-07T01:52:57Z</updated>
-    <id>tag:github.com,2022-07-07:/sunface/rust-by-practice</id>
-    <link href="https://github.com/sunface/rust-by-practice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jerry153fish/remote-secrets</title>
+    <updated>2022-07-08T01:54:58Z</updated>
+    <id>tag:github.com,2022-07-08:/jerry153fish/remote-secrets</id>
+    <link href="https://github.com/jerry153fish/remote-secrets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A k8s operator in rust that convert remote secrets into k8s secrets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LukeMathWalker/zero-to-production</title>
-    <updated>2022-07-07T01:52:57Z</updated>
-    <id>tag:github.com,2022-07-07:/LukeMathWalker/zero-to-production</id>
-    <link href="https://github.com/LukeMathWalker/zero-to-production" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for &#34;Zero To Production In Rust&#34;, a book on API development using Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>casey/just</title>
+    <updated>2022-07-08T01:54:58Z</updated>
+    <id>tag:github.com,2022-07-08:/casey/just</id>
+    <link href="https://github.com/casey/just" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 Just a command runner&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

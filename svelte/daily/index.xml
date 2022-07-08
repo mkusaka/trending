@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:55:17Z</updated>
+  <updated>2022-07-08T01:57:08Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>midudev/chat-hackathon</title>
-    <updated>2022-07-07T01:55:17Z</updated>
-    <id>tag:github.com,2022-07-07:/midudev/chat-hackathon</id>
-    <link href="https://github.com/midudev/chat-hackathon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base de la hackathon de Twilio Julio 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>martykuentzel/sveltekit-tailwind-ecommerce</title>
+    <updated>2022-07-08T01:57:08Z</updated>
+    <id>tag:github.com,2022-07-08:/martykuentzel/sveltekit-tailwind-ecommerce</id>
+    <link href="https://github.com/martykuentzel/sveltekit-tailwind-ecommerce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Ecommerce Store build with sveltekit and tailwindcss&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hcengineering/anticrm</title>
-    <updated>2022-07-07T01:55:17Z</updated>
-    <id>tag:github.com,2022-07-07:/hcengineering/anticrm</id>
-    <link href="https://github.com/hcengineering/anticrm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Anticrm Platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quassum/SVG-to-SwiftUI</title>
+    <updated>2022-07-08T01:57:08Z</updated>
+    <id>tag:github.com,2022-07-08:/quassum/SVG-to-SwiftUI</id>
+    <link href="https://github.com/quassum/SVG-to-SwiftUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool to convert SVG to SwiftUI&#39;s Shape structure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

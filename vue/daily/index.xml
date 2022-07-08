@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:57:43Z</updated>
+  <updated>2022-07-08T01:59:35Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>starsliao/ConsulManager</title>
-    <updated>2022-07-07T01:57:43Z</updated>
-    <id>tag:github.com,2022-07-07:/starsliao/ConsulManager</id>
-    <link href="https://github.com/starsliao/ConsulManager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦄ConsulManager：高效易用的Consul Web运维平台 &amp; ECS云主机自动同步Prometheus监控 &amp; Blackbox站点监控Web管理工具 &amp; 漏洞采集与告警&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xyxiao001/vue-cropper</title>
+    <updated>2022-07-08T01:59:35Z</updated>
+    <id>tag:github.com,2022-07-08:/xyxiao001/vue-cropper</id>
+    <link href="https://github.com/xyxiao001/vue-cropper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple picture clipping plugin for vue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Atinux/content-wind</title>
+    <updated>2022-07-08T01:59:35Z</updated>
+    <id>tag:github.com,2022-07-08:/Atinux/content-wind</id>
+    <link href="https://github.com/Atinux/content-wind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight Nuxt template to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>reoreo-zyt/blog</title>
+    <updated>2022-07-08T01:59:35Z</updated>
+    <id>tag:github.com,2022-07-08:/reoreo-zyt/blog</id>
+    <link href="https://github.com/reoreo-zyt/blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A blog made with vue2,go,elementUI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

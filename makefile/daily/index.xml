@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:46:20Z</updated>
+  <updated>2022-07-08T01:48:17Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gusmanb/logicanalyzer</title>
-    <updated>2022-07-07T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-07:/gusmanb/logicanalyzer</id>
-    <link href="https://github.com/gusmanb/logicanalyzer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;24 channel, 100Msps logic analyzer hardware and software&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fiatjaf/lnurl-rfc</title>
+    <updated>2022-07-08T01:48:17Z</updated>
+    <id>tag:github.com,2022-07-08:/fiatjaf/lnurl-rfc</id>
+    <link href="https://github.com/fiatjaf/lnurl-rfc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lnurl specifications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>feiskyer/kubernetes-handbook</title>
-    <updated>2022-07-07T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-07:/feiskyer/kubernetes-handbook</id>
-    <link href="https://github.com/feiskyer/kubernetes-handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes Handbook （Kubernetes指南） https://kubernetes.feisky.xyz&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emlid/code-quality</title>
+    <updated>2022-07-08T01:48:17Z</updated>
+    <id>tag:github.com,2022-07-08:/emlid/code-quality</id>
+    <link href="https://github.com/emlid/code-quality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emlid coding style&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>phhusson/device_phh_treble</title>
-    <updated>2022-07-07T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-07:/phhusson/device_phh_treble</id>
-    <link href="https://github.com/phhusson/device_phh_treble" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android device-tree for generic Treble target&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Iotic-Labs/api</title>
+    <updated>2022-07-08T01:48:17Z</updated>
+    <id>tag:github.com,2022-07-08:/Iotic-Labs/api</id>
+    <link href="https://github.com/Iotic-Labs/api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create Data Mesh. Use interoperable digital twins to create data interactions and build powerful real-time data products. This repository contains protocol buffers specification for Iotics API.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

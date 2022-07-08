@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:51:10Z</updated>
+  <updated>2022-07-08T01:53:12Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>voxpupuli/puppet-pbuilder</title>
+    <updated>2022-07-08T01:53:12Z</updated>
+    <id>tag:github.com,2022-07-08:/voxpupuli/puppet-pbuilder</id>
+    <link href="https://github.com/voxpupuli/puppet-pbuilder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pbuilder module for Puppet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

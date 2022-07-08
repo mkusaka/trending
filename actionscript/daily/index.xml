@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:33:38Z</updated>
+  <updated>2022-07-08T01:35:18Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>carykh/5b</title>
-    <updated>2022-07-07T01:33:38Z</updated>
-    <id>tag:github.com,2022-07-07:/carykh/5b</id>
-    <link href="https://github.com/carykh/5b" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flash game I developed in early 2013, first announced in this YouTube video: https://www.youtube.com/watch?v=emDpKog8v6w&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PaulSB/LD18</title>
+    <updated>2022-07-08T01:35:18Z</updated>
+    <id>tag:github.com,2022-07-08:/PaulSB/LD18</id>
+    <link href="https://github.com/PaulSB/LD18" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My effort for Ludum Dare 18 - theme &#34;Enemies as Weapons&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo</title>
-    <updated>2022-07-07T01:33:38Z</updated>
-    <id>tag:github.com,2022-07-07:/AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo</id>
-    <link href="https://github.com/AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Node.js-Socket.io-Flash-Multiplayer-demo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vrobel/SkeletonAnimationFramework</title>
+    <updated>2022-07-08T01:35:18Z</updated>
+    <id>tag:github.com,2022-07-08:/vrobel/SkeletonAnimationFramework</id>
+    <link href="https://github.com/vrobel/SkeletonAnimationFramework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 2D Skeletal Animation Framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dborisenko/as3-dynamic-proxy</title>
+    <updated>2022-07-08T01:35:18Z</updated>
+    <id>tag:github.com,2022-07-08:/dborisenko/as3-dynamic-proxy</id>
+    <link href="https://github.com/dborisenko/as3-dynamic-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dynamic proxy for ActionScript 3.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

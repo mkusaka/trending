@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:44:28Z</updated>
+  <updated>2022-07-08T01:46:29Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oxfordcontrol/Clarabel.jl</title>
-    <updated>2022-07-07T01:44:28Z</updated>
-    <id>tag:github.com,2022-07-07:/oxfordcontrol/Clarabel.jl</id>
-    <link href="https://github.com/oxfordcontrol/Clarabel.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clarabel.jl: Interior-point solver for convex conic optimisation problems (LPs, QPs, SOCPs, SDPs).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jmejia8/Metaheuristics.jl</title>
+    <updated>2022-07-08T01:46:29Z</updated>
+    <id>tag:github.com,2022-07-08:/jmejia8/Metaheuristics.jl</id>
+    <link href="https://github.com/jmejia8/Metaheuristics.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High performance metaheuristics for optimization purely coded in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

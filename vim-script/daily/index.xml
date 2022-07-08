@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:57:32Z</updated>
+  <updated>2022-07-08T01:59:24Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ayu-theme/ayu-vim</title>
-    <updated>2022-07-07T01:57:32Z</updated>
-    <id>tag:github.com,2022-07-07:/ayu-theme/ayu-vim</id>
-    <link href="https://github.com/ayu-theme/ayu-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern theme for modern VIMs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mrdomino/vim-utf8</title>
+    <updated>2022-07-08T01:59:24Z</updated>
+    <id>tag:github.com,2022-07-08:/mrdomino/vim-utf8</id>
+    <link href="https://github.com/mrdomino/vim-utf8" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convenient TeX-ish Unicode shorthand with *.utf8 files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jdah/dotfiles</title>
-    <updated>2022-07-07T01:57:32Z</updated>
-    <id>tag:github.com,2022-07-07:/jdah/dotfiles</id>
-    <link href="https://github.com/jdah/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;some of my configs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skywind3000/vim-init</title>
+    <updated>2022-07-08T01:59:24Z</updated>
+    <id>tag:github.com,2022-07-08:/skywind3000/vim-init</id>
+    <link href="https://github.com/skywind3000/vim-init" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;轻量级 Vim 配置框架，全中文注释&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jamesshieh/vimrc</title>
-    <updated>2022-07-07T01:57:32Z</updated>
-    <id>tag:github.com,2022-07-07:/jamesshieh/vimrc</id>
-    <link href="https://github.com/jamesshieh/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim config&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shougo/deol.nvim</title>
+    <updated>2022-07-08T01:59:24Z</updated>
+    <id>tag:github.com,2022-07-08:/Shougo/deol.nvim</id>
+    <link href="https://github.com/Shougo/deol.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dark powered shell interface for NeoVim/Vim8&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

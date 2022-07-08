@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:33:05Z</updated>
+  <updated>2022-07-08T01:34:49Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hemanth/functional-programming-jargon</title>
-    <updated>2022-07-07T01:33:05Z</updated>
-    <id>tag:github.com,2022-07-07:/hemanth/functional-programming-jargon</id>
-    <link href="https://github.com/hemanth/functional-programming-jargon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jargon from the functional programming world in simple terms!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nomi-sec/PoC-in-GitHub</title>
+    <updated>2022-07-08T01:34:49Z</updated>
+    <id>tag:github.com,2022-07-08:/nomi-sec/PoC-in-GitHub</id>
+    <link href="https://github.com/nomi-sec/PoC-in-GitHub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>h33tlit/secret-regex-list</title>
-    <updated>2022-07-07T01:33:05Z</updated>
-    <id>tag:github.com,2022-07-07:/h33tlit/secret-regex-list</id>
-    <link href="https://github.com/h33tlit/secret-regex-list" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of regex for scraping secret API keys and juicy information.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fastfire/deepdarkCTI</title>
+    <updated>2022-07-08T01:34:49Z</updated>
+    <id>tag:github.com,2022-07-08:/fastfire/deepdarkCTI</id>
+    <link href="https://github.com/fastfire/deepdarkCTI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of Cyber Threat Intelligence sources from the deep and dark web&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kadenzipfel/gas-optimizations</title>
-    <updated>2022-07-07T01:33:05Z</updated>
-    <id>tag:github.com,2022-07-07:/kadenzipfel/gas-optimizations</id>
-    <link href="https://github.com/kadenzipfel/gas-optimizations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of smart contract optimizations in solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sp4zcmd/WeblogicExploit-GUI</title>
+    <updated>2022-07-08T01:34:49Z</updated>
+    <id>tag:github.com,2022-07-08:/sp4zcmd/WeblogicExploit-GUI</id>
+    <link href="https://github.com/sp4zcmd/WeblogicExploit-GUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Weblogic漏洞利用图形化工具 支持注入内存马、一键上传webshell、命令执行&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

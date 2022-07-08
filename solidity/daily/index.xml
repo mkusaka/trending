@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:54:36Z</updated>
+  <updated>2022-07-08T01:56:26Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>smartcontractkit/foundry-starter-kit</title>
-    <updated>2022-07-07T01:54:36Z</updated>
-    <id>tag:github.com,2022-07-07:/smartcontractkit/foundry-starter-kit</id>
-    <link href="https://github.com/smartcontractkit/foundry-starter-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rugpullindex/ERC4973</title>
-    <updated>2022-07-07T01:54:36Z</updated>
-    <id>tag:github.com,2022-07-07:/rugpullindex/ERC4973</id>
-    <link href="https://github.com/rugpullindex/ERC4973" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference Implementation of EIP-4973 &#34;Account-bound tokens&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yuyasugano/pancake-bakery-arbitrage</title>
-    <updated>2022-07-07T01:54:36Z</updated>
-    <id>tag:github.com,2022-07-07:/yuyasugano/pancake-bakery-arbitrage</id>
-    <link href="https://github.com/yuyasugano/pancake-bakery-arbitrage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sample application invokes a flashswap in PancakeSwap and a monitoring tool in Node.js.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>semaphore-protocol/semaphore</title>
+    <updated>2022-07-08T01:56:26Z</updated>
+    <id>tag:github.com,2022-07-08:/semaphore-protocol/semaphore</id>
+    <link href="https://github.com/semaphore-protocol/semaphore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A zero-knowledge protocol for anonymous signalling on Ethereum.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

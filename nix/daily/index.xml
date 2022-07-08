@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-07T01:48:12Z</updated>
+  <updated>2022-07-08T01:50:10Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>profianinc/benefice</title>
-    <updated>2022-07-07T01:48:12Z</updated>
-    <id>tag:github.com,2022-07-07:/profianinc/benefice</id>
-    <link href="https://github.com/profianinc/benefice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo workload executor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flox/floxpkgs</title>
-    <updated>2022-07-07T01:48:12Z</updated>
-    <id>tag:github.com,2022-07-07:/flox/floxpkgs</id>
-    <link href="https://github.com/flox/floxpkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
