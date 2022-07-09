@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:48:17Z</updated>
+  <updated>2022-07-09T01:46:13Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fiatjaf/lnurl-rfc</title>
-    <updated>2022-07-08T01:48:17Z</updated>
-    <id>tag:github.com,2022-07-08:/fiatjaf/lnurl-rfc</id>
-    <link href="https://github.com/fiatjaf/lnurl-rfc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;lnurl specifications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gl-inet/gl-infra-builder</title>
+    <updated>2022-07-09T01:46:13Z</updated>
+    <id>tag:github.com,2022-07-09:/gl-inet/gl-infra-builder</id>
+    <link href="https://github.com/gl-inet/gl-infra-builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>emlid/code-quality</title>
-    <updated>2022-07-08T01:48:17Z</updated>
-    <id>tag:github.com,2022-07-08:/emlid/code-quality</id>
-    <link href="https://github.com/emlid/code-quality" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emlid coding style&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>immortalwrt/packages</title>
+    <updated>2022-07-09T01:46:13Z</updated>
+    <id>tag:github.com,2022-07-09:/immortalwrt/packages</id>
+    <link href="https://github.com/immortalwrt/packages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community maintained packages for ImmortalWrt.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Iotic-Labs/api</title>
-    <updated>2022-07-08T01:48:17Z</updated>
-    <id>tag:github.com,2022-07-08:/Iotic-Labs/api</id>
-    <link href="https://github.com/Iotic-Labs/api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create Data Mesh. Use interoperable digital twins to create data interactions and build powerful real-time data products. This repository contains protocol buffers specification for Iotics API.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lsst-sqre/run-tox</title>
+    <updated>2022-07-09T01:46:13Z</updated>
+    <id>tag:github.com,2022-07-09:/lsst-sqre/run-tox</id>
+    <link href="https://github.com/lsst-sqre/run-tox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitHub Action for running Python CI tasks through tox&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

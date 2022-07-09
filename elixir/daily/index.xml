@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:41:30Z</updated>
+  <updated>2022-07-09T01:39:29Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>onkel-dirtus/logger_file_backend</title>
-    <updated>2022-07-08T01:41:30Z</updated>
-    <id>tag:github.com,2022-07-08:/onkel-dirtus/logger_file_backend</id>
-    <link href="https://github.com/onkel-dirtus/logger_file_backend" rel="alternate"></link>
+    <title>QuinnWilton/deft</title>
+    <updated>2022-07-09T01:39:29Z</updated>
+    <id>tag:github.com,2022-07-09:/QuinnWilton/deft</id>
+    <link href="https://github.com/QuinnWilton/deft" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tsg-global/mailmaid</title>
-    <updated>2022-07-08T01:41:30Z</updated>
-    <id>tag:github.com,2022-07-08:/tsg-global/mailmaid</id>
-    <link href="https://github.com/tsg-global/mailmaid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir port of gen_smtp, with a handful of patches&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>remoteoss/swoosh_gallery</title>
+    <updated>2022-07-09T01:39:29Z</updated>
+    <id>tag:github.com,2022-07-09:/remoteoss/swoosh_gallery</id>
+    <link href="https://github.com/remoteoss/swoosh_gallery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Preview and display your Swoosh mailers to everyone&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

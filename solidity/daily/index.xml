@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:56:26Z</updated>
+  <updated>2022-07-09T01:54:11Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>semaphore-protocol/semaphore</title>
-    <updated>2022-07-08T01:56:26Z</updated>
-    <id>tag:github.com,2022-07-08:/semaphore-protocol/semaphore</id>
-    <link href="https://github.com/semaphore-protocol/semaphore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A zero-knowledge protocol for anonymous signalling on Ethereum.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>memester-xyz/solenv</title>
+    <updated>2022-07-09T01:54:11Z</updated>
+    <id>tag:github.com,2022-07-09:/memester-xyz/solenv</id>
+    <link href="https://github.com/memester-xyz/solenv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dotenv parser for solidity &amp; foundry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>memester-xyz/surl</title>
+    <updated>2022-07-09T01:54:11Z</updated>
+    <id>tag:github.com,2022-07-09:/memester-xyz/surl</id>
+    <link href="https://github.com/memester-xyz/surl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTTP Library for Solidity based on curl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-07-fractional</title>
+    <updated>2022-07-09T01:54:11Z</updated>
+    <id>tag:github.com,2022-07-09:/code-423n4/2022-07-fractional</id>
+    <link href="https://github.com/code-423n4/2022-07-fractional" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

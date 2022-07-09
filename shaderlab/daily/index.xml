@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:55:36Z</updated>
+  <updated>2022-07-09T01:53:13Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>muveso/URPVertexDensity</title>
-    <updated>2022-07-08T01:55:36Z</updated>
-    <id>tag:github.com,2022-07-08:/muveso/URPVertexDensity</id>
-    <link href="https://github.com/muveso/URPVertexDensity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;It shows vertex density as a heatmeap. Useful to identify dense geometry in a scene.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Delt06/urp-toon-shader</title>
+    <updated>2022-07-09T01:53:13Z</updated>
+    <id>tag:github.com,2022-07-09:/Delt06/urp-toon-shader</id>
+    <link href="https://github.com/Delt06/urp-toon-shader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌔 Toon shader for Unity&#39;s Universal Render Pipeline.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>watapax/Cinematica-Interactiva</title>
+    <updated>2022-07-09T01:53:13Z</updated>
+    <id>tag:github.com,2022-07-09:/watapax/Cinematica-Interactiva</id>
+    <link href="https://github.com/watapax/Cinematica-Interactiva" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

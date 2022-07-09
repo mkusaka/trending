@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:38:41Z</updated>
+  <updated>2022-07-09T01:36:31Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ykskb/phrag</title>
-    <updated>2022-07-08T01:38:41Z</updated>
-    <id>tag:github.com,2022-07-08:/ykskb/phrag</id>
-    <link href="https://github.com/ykskb/phrag" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GraphQL API created from an RDBMS connection for instant, flexible and customizable CRUD operations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fabricate-site/fabricate</title>
-    <updated>2022-07-08T01:38:41Z</updated>
-    <id>tag:github.com,2022-07-08:/fabricate-site/fabricate</id>
-    <link href="https://github.com/fabricate-site/fabricate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Next-generation static website generation for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eriksvedang/card-grid</title>
-    <updated>2022-07-08T01:38:41Z</updated>
-    <id>tag:github.com,2022-07-08:/eriksvedang/card-grid</id>
-    <link href="https://github.com/eriksvedang/card-grid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generate grids of cards&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pandeiro/jaki</title>
+    <updated>2022-07-09T01:36:31Z</updated>
+    <id>tag:github.com,2022-07-09:/pandeiro/jaki</id>
+    <link href="https://github.com/pandeiro/jaki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple ClojureScript CouchDB client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

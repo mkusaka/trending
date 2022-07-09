@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:34:49Z</updated>
+  <updated>2022-07-09T01:32:42Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nomi-sec/PoC-in-GitHub</title>
-    <updated>2022-07-08T01:34:49Z</updated>
-    <id>tag:github.com,2022-07-08:/nomi-sec/PoC-in-GitHub</id>
-    <link href="https://github.com/nomi-sec/PoC-in-GitHub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>robmarkcole/satellite-image-deep-learning</title>
+    <updated>2022-07-09T01:32:42Z</updated>
+    <id>tag:github.com,2022-07-09:/robmarkcole/satellite-image-deep-learning</id>
+    <link href="https://github.com/robmarkcole/satellite-image-deep-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources for deep learning with satellite &amp; aerial imagery&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fastfire/deepdarkCTI</title>
-    <updated>2022-07-08T01:34:49Z</updated>
-    <id>tag:github.com,2022-07-08:/fastfire/deepdarkCTI</id>
-    <link href="https://github.com/fastfire/deepdarkCTI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of Cyber Threat Intelligence sources from the deep and dark web&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bradtraversy/design-resources-for-developers</title>
+    <updated>2022-07-09T01:32:42Z</updated>
+    <id>tag:github.com,2022-07-09:/bradtraversy/design-resources-for-developers</id>
+    <link href="https://github.com/bradtraversy/design-resources-for-developers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sp4zcmd/WeblogicExploit-GUI</title>
-    <updated>2022-07-08T01:34:49Z</updated>
-    <id>tag:github.com,2022-07-08:/sp4zcmd/WeblogicExploit-GUI</id>
-    <link href="https://github.com/sp4zcmd/WeblogicExploit-GUI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Weblogic漏洞利用图形化工具 支持注入内存马、一键上传webshell、命令执行&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lee-WonJun/JDD-Description</title>
+    <updated>2022-07-09T01:32:42Z</updated>
+    <id>tag:github.com,2022-07-09:/Lee-WonJun/JDD-Description</id>
+    <link href="https://github.com/Lee-WonJun/JDD-Description" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ju-Dung-A-Li Driven Development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

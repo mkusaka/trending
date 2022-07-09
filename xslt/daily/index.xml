@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T02:00:35Z</updated>
+  <updated>2022-07-09T01:58:05Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BIBSYSDEV/nva-courses-api</title>
+    <updated>2022-07-09T01:58:05Z</updated>
+    <id>tag:github.com,2022-07-09:/BIBSYSDEV/nva-courses-api</id>
+    <link href="https://github.com/BIBSYSDEV/nva-courses-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nva-courses-api&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>BIBSYSDEV/dlr-nva-email-service</title>
+    <updated>2022-07-09T01:58:05Z</updated>
+    <id>tag:github.com,2022-07-09:/BIBSYSDEV/dlr-nva-email-service</id>
+    <link href="https://github.com/BIBSYSDEV/dlr-nva-email-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shared email service for dlr and NVA&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DLR NVA email service&lt;/h1&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:59:20Z</updated>
+  <updated>2022-07-09T01:56:51Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UVVM/UVVM</title>
-    <updated>2022-07-08T01:59:20Z</updated>
-    <id>tag:github.com,2022-07-08:/UVVM/UVVM</id>
-    <link href="https://github.com/UVVM/UVVM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UVVM (Universal VHDL Verification Methodology) is a free and Open Source Methodology and Library for very efficient VHDL verification of FPGA and ASIC – resulting also in significant quality improvement. Community forum: https://forum.uvvm.org/ UVVM.org: https://uvvm.org/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

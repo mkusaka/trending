@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:44:18Z</updated>
+  <updated>2022-07-09T01:42:12Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spinnaker/rosco</title>
+    <updated>2022-07-09T01:42:12Z</updated>
+    <id>tag:github.com,2022-07-09:/spinnaker/rosco</id>
+    <link href="https://github.com/spinnaker/rosco" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bakery for deployable images&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spinnaker/orca</title>
+    <updated>2022-07-09T01:42:12Z</updated>
+    <id>tag:github.com,2022-07-09:/spinnaker/orca</id>
+    <link href="https://github.com/spinnaker/orca" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Orchestration engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spinnaker/gate</title>
+    <updated>2022-07-09T01:42:12Z</updated>
+    <id>tag:github.com,2022-07-09:/spinnaker/gate</id>
+    <link href="https://github.com/spinnaker/gate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spinnaker API Gateway&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

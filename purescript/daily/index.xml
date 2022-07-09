@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:53:20Z</updated>
+  <updated>2022-07-09T01:51:04Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-safe-coerce</title>
+    <updated>2022-07-09T01:51:04Z</updated>
+    <id>tag:github.com,2022-07-09:/purescript/purescript-safe-coerce</id>
+    <link href="https://github.com/purescript/purescript-safe-coerce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library support for the compiler-builtin Coercible type class.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-numbers</title>
+    <updated>2022-07-09T01:51:04Z</updated>
+    <id>tag:github.com,2022-07-09:/purescript/purescript-numbers</id>
+    <link href="https://github.com/purescript/purescript-numbers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functions for working with PureScripts &#39;Number&#39; type&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-argonaut-traversals</title>
+    <updated>2022-07-09T01:51:04Z</updated>
+    <id>tag:github.com,2022-07-09:/purescript-contrib/purescript-argonaut-traversals</id>
+    <link href="https://github.com/purescript-contrib/purescript-argonaut-traversals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prisms, traversals, and zipper for the Argonaut Json type.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:36:43Z</updated>
+  <updated>2022-07-09T01:34:30Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shenyaocn/IP-Camera-Bridge</title>
-    <updated>2022-07-08T01:36:43Z</updated>
-    <id>tag:github.com,2022-07-08:/shenyaocn/IP-Camera-Bridge</id>
-    <link href="https://github.com/shenyaocn/IP-Camera-Bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A MJPEG video streaming and virtual microphone driver for Windows which can make your Windows applications using IP Camera as WebCam with audio input.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

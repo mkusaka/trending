@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:44:35Z</updated>
+  <updated>2022-07-09T01:42:29Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hoodbu/ace-iac-day-zero</title>
-    <updated>2022-07-08T01:44:35Z</updated>
-    <id>tag:github.com,2022-07-08:/hoodbu/ace-iac-day-zero</id>
-    <link href="https://github.com/hoodbu/ace-iac-day-zero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-guardduty</title>
-    <updated>2022-07-08T01:44:35Z</updated>
-    <id>tag:github.com,2022-07-08:/cloudposse/terraform-aws-guardduty</id>
-    <link href="https://github.com/cloudposse/terraform-aws-guardduty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision AWS Guard Duty&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stacksimplify/terraform-on-azure-cloud</title>
+    <updated>2022-07-09T01:42:29Z</updated>
+    <id>tag:github.com,2022-07-09:/stacksimplify/terraform-on-azure-cloud</id>
+    <link href="https://github.com/stacksimplify/terraform-on-azure-cloud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform on AWS with SRE &amp; IaC DevOps | Real-World 20 Demos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:55:28Z</updated>
+  <updated>2022-07-09T01:53:05Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>doabit/semantic-ui-sass</title>
-    <updated>2022-07-08T01:55:28Z</updated>
-    <id>tag:github.com,2022-07-08:/doabit/semantic-ui-sass</id>
-    <link href="https://github.com/doabit/semantic-ui-sass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Semantic UI, converted to Sass and ready to drop into Rails &amp; Compass.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abhinavs/moonwalk</title>
+    <updated>2022-07-09T01:53:05Z</updated>
+    <id>tag:github.com,2022-07-09:/abhinavs/moonwalk</id>
+    <link href="https://github.com/abhinavs/moonwalk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast &amp; minimal Jekyll blog theme with clean dark mode&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>azouaoui-med/react-pro-sidebar</title>
-    <updated>2022-07-08T01:55:28Z</updated>
-    <id>tag:github.com,2022-07-08:/azouaoui-med/react-pro-sidebar</id>
-    <link href="https://github.com/azouaoui-med/react-pro-sidebar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Customizable and responsive react sidebar library with dropdown menus and unlimited number of nested submenus&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CristianForonda/Encuesta-Covid</title>
+    <updated>2022-07-09T01:53:05Z</updated>
+    <id>tag:github.com,2022-07-09:/CristianForonda/Encuesta-Covid</id>
+    <link href="https://github.com/CristianForonda/Encuesta-Covid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;covid survey connected to an api&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ingram-projects/animxyz</title>
-    <updated>2022-07-08T01:55:28Z</updated>
-    <id>tag:github.com,2022-07-08:/ingram-projects/animxyz</id>
-    <link href="https://github.com/ingram-projects/animxyz" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>murraco/jekyll-theme-minimal-resume</title>
+    <updated>2022-07-09T01:53:05Z</updated>
+    <id>tag:github.com,2022-07-09:/murraco/jekyll-theme-minimal-resume</id>
+    <link href="https://github.com/murraco/jekyll-theme-minimal-resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

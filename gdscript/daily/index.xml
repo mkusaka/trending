@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:42:55Z</updated>
+  <updated>2022-07-09T01:40:57Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GDQuest/godot-open-rpg</title>
-    <updated>2022-07-08T01:42:55Z</updated>
-    <id>tag:github.com,2022-07-08:/GDQuest/godot-open-rpg</id>
-    <link href="https://github.com/GDQuest/godot-open-rpg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn to create turn-based combat with this Open Source RPG demo ⚔&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

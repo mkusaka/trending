@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:54:58Z</updated>
+  <updated>2022-07-09T01:52:38Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zesterer/tao</title>
-    <updated>2022-07-08T01:54:58Z</updated>
-    <id>tag:github.com,2022-07-08:/zesterer/tao</id>
-    <link href="https://github.com/zesterer/tao" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ogham/exa</title>
+    <updated>2022-07-09T01:52:38Z</updated>
+    <id>tag:github.com,2022-07-09:/ogham/exa</id>
+    <link href="https://github.com/ogham/exa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern replacement for ‘ls’.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jerry153fish/remote-secrets</title>
-    <updated>2022-07-08T01:54:58Z</updated>
-    <id>tag:github.com,2022-07-08:/jerry153fish/remote-secrets</id>
-    <link href="https://github.com/jerry153fish/remote-secrets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A k8s operator in rust that convert remote secrets into k8s secrets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>awslabs/aws-sdk-rust</title>
+    <updated>2022-07-09T01:52:38Z</updated>
+    <id>tag:github.com,2022-07-09:/awslabs/aws-sdk-rust</id>
+    <link href="https://github.com/awslabs/aws-sdk-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS SDK for the Rust Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>casey/just</title>
-    <updated>2022-07-08T01:54:58Z</updated>
-    <id>tag:github.com,2022-07-08:/casey/just</id>
-    <link href="https://github.com/casey/just" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤖 Just a command runner&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>railwayapp/nixpacks</title>
+    <updated>2022-07-09T01:52:38Z</updated>
+    <id>tag:github.com,2022-07-09:/railwayapp/nixpacks</id>
+    <link href="https://github.com/railwayapp/nixpacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;App source + Nix packages + Docker = Image&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

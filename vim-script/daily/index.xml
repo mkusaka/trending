@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:59:24Z</updated>
+  <updated>2022-07-09T01:56:55Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mrdomino/vim-utf8</title>
-    <updated>2022-07-08T01:59:24Z</updated>
-    <id>tag:github.com,2022-07-08:/mrdomino/vim-utf8</id>
-    <link href="https://github.com/mrdomino/vim-utf8" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convenient TeX-ish Unicode shorthand with *.utf8 files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AndrewRadev/splitjoin.vim</title>
+    <updated>2022-07-09T01:56:55Z</updated>
+    <id>tag:github.com,2022-07-09:/AndrewRadev/splitjoin.vim</id>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Switch between single-line and multiline forms of code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>skywind3000/vim-init</title>
-    <updated>2022-07-08T01:59:24Z</updated>
-    <id>tag:github.com,2022-07-08:/skywind3000/vim-init</id>
-    <link href="https://github.com/skywind3000/vim-init" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;轻量级 Vim 配置框架，全中文注释&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shougo/vimshell.vim</title>
+    <updated>2022-07-09T01:56:55Z</updated>
+    <id>tag:github.com,2022-07-09:/Shougo/vimshell.vim</id>
+    <link href="https://github.com/Shougo/vimshell.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐚 Powerful shell implemented by vim.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Shougo/deol.nvim</title>
-    <updated>2022-07-08T01:59:24Z</updated>
-    <id>tag:github.com,2022-07-08:/Shougo/deol.nvim</id>
-    <link href="https://github.com/Shougo/deol.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dark powered shell interface for NeoVim/Vim8&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shougo/echodoc.vim</title>
+    <updated>2022-07-09T01:56:55Z</updated>
+    <id>tag:github.com,2022-07-09:/Shougo/echodoc.vim</id>
+    <link href="https://github.com/Shougo/echodoc.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Print documents in echo area.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

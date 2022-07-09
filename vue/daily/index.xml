@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-08T01:59:35Z</updated>
+  <updated>2022-07-09T01:57:05Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xyxiao001/vue-cropper</title>
-    <updated>2022-07-08T01:59:35Z</updated>
-    <id>tag:github.com,2022-07-08:/xyxiao001/vue-cropper</id>
-    <link href="https://github.com/xyxiao001/vue-cropper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple picture clipping plugin for vue&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mumuchenchen/pikpak</title>
+    <updated>2022-07-09T01:57:05Z</updated>
+    <id>tag:github.com,2022-07-09:/mumuchenchen/pikpak</id>
+    <link href="https://github.com/mumuchenchen/pikpak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pikpak web&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Atinux/content-wind</title>
-    <updated>2022-07-08T01:59:35Z</updated>
-    <id>tag:github.com,2022-07-08:/Atinux/content-wind</id>
-    <link href="https://github.com/Atinux/content-wind" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight Nuxt template to build a Markdown driven website. Powered by Nuxt Content, TailwindCSS and Iconify.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>reoreo-zyt/blog</title>
-    <updated>2022-07-08T01:59:35Z</updated>
-    <id>tag:github.com,2022-07-08:/reoreo-zyt/blog</id>
-    <link href="https://github.com/reoreo-zyt/blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A blog made with vue2,go,elementUI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zhp8341/flink-streaming-platform-web</title>
+    <updated>2022-07-09T01:57:05Z</updated>
+    <id>tag:github.com,2022-07-09:/zhp8341/flink-streaming-platform-web</id>
+    <link href="https://github.com/zhp8341/flink-streaming-platform-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于flink的实时流计算web平台&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
