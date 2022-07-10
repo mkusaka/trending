@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:54:52Z</updated>
+  <updated>2022-07-10T01:55:22Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sveltejs/learn.svelte.dev</title>
-    <updated>2022-07-09T01:54:52Z</updated>
-    <id>tag:github.com,2022-07-09:/sveltejs/learn.svelte.dev</id>
-    <link href="https://github.com/sveltejs/learn.svelte.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A soup-to-nuts interactive tutorial on how to build apps with Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>daison12006013/sveltekit-starter</title>
-    <updated>2022-07-09T01:54:52Z</updated>
-    <id>tag:github.com,2022-07-09:/daison12006013/sveltekit-starter</id>
-    <link href="https://github.com/daison12006013/sveltekit-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Admin Dashboard for SvelteKit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>subvisual/summer_camp_jam</title>
-    <updated>2022-07-09T01:54:52Z</updated>
-    <id>tag:github.com,2022-07-09:/subvisual/summer_camp_jam</id>
-    <link href="https://github.com/subvisual/summer_camp_jam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

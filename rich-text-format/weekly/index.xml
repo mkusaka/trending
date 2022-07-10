@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:21:23Z</updated>
+  <subtitle>Weekly Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shinplest/GitriniForkRepo</title>
+    <updated>2022-07-10T02:21:23Z</updated>
+    <id>tag:github.com,2022-07-10:/shinplest/GitriniForkRepo</id>
+    <link href="https://github.com/shinplest/GitriniForkRepo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✍🏻인프런 깃린이코스 Fork Repo입니다.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FailedShack/USBHelperInstaller</title>
+    <updated>2022-07-10T02:21:23Z</updated>
+    <id>tag:github.com,2022-07-10:/FailedShack/USBHelperInstaller</id>
+    <link href="https://github.com/FailedShack/USBHelperInstaller" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An installer for USBHelperLauncher.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>edlich/education</title>
+    <updated>2022-07-10T02:21:23Z</updated>
+    <id>tag:github.com,2022-07-10:/edlich/education</id>
+    <link href="https://github.com/edlich/education" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small repository for education purposes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

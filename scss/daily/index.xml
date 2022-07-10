@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:53:05Z</updated>
+  <updated>2022-07-10T01:53:36Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abhinavs/moonwalk</title>
-    <updated>2022-07-09T01:53:05Z</updated>
-    <id>tag:github.com,2022-07-09:/abhinavs/moonwalk</id>
-    <link href="https://github.com/abhinavs/moonwalk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast &amp; minimal Jekyll blog theme with clean dark mode&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StaticMania/hugo-cohub</title>
+    <updated>2022-07-10T01:53:36Z</updated>
+    <id>tag:github.com,2022-07-10:/StaticMania/hugo-cohub</id>
+    <link href="https://github.com/StaticMania/hugo-cohub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CristianForonda/Encuesta-Covid</title>
-    <updated>2022-07-09T01:53:05Z</updated>
-    <id>tag:github.com,2022-07-09:/CristianForonda/Encuesta-Covid</id>
-    <link href="https://github.com/CristianForonda/Encuesta-Covid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;covid survey connected to an api&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>influxdata/docs-v2</title>
+    <updated>2022-07-10T01:53:36Z</updated>
+    <id>tag:github.com,2022-07-10:/influxdata/docs-v2</id>
+    <link href="https://github.com/influxdata/docs-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>murraco/jekyll-theme-minimal-resume</title>
-    <updated>2022-07-09T01:53:05Z</updated>
-    <id>tag:github.com,2022-07-09:/murraco/jekyll-theme-minimal-resume</id>
-    <link href="https://github.com/murraco/jekyll-theme-minimal-resume" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>spryker/spryker-docs</title>
+    <updated>2022-07-10T01:53:36Z</updated>
+    <id>tag:github.com,2022-07-10:/spryker/spryker-docs</id>
+    <link href="https://github.com/spryker/spryker-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is for the Spryker documentation available at https://docs.spryker.com.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Roff Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:21:30Z</updated>
+  <subtitle>Weekly Trending of Roff in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JonathanSalwan/VMProtect-devirtualization</title>
+    <updated>2022-07-10T02:21:30Z</updated>
+    <id>tag:github.com,2022-07-10:/JonathanSalwan/VMProtect-devirtualization</id>
+    <link href="https://github.com/JonathanSalwan/VMProtect-devirtualization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA/radtts</title>
+    <updated>2022-07-10T02:21:30Z</updated>
+    <id>tag:github.com,2022-07-10:/NVIDIA/radtts</id>
+    <link href="https://github.com/NVIDIA/radtts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provides training, inference and voice conversion recipes for RADTTS and RADTTS++: Flow-based TTS models with Robust Alignment Learning, Diverse Synthesis, and Generative Modelling and Fine-Grained Control over of Low Dimensional (F0 and Energy) Speech Attributes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

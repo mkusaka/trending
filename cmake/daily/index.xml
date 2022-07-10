@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:36:41Z</updated>
+  <updated>2022-07-10T01:37:27Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cpp-best-practices/gui_starter_template</title>
-    <updated>2022-07-09T01:36:41Z</updated>
-    <id>tag:github.com,2022-07-09:/cpp-best-practices/gui_starter_template</id>
-    <link href="https://github.com/cpp-best-practices/gui_starter_template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template CMake project to get you started with C++ and tooling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JoakimSoderberg/coveralls-cmake</title>
+    <updated>2022-07-10T01:37:27Z</updated>
+    <id>tag:github.com,2022-07-10:/JoakimSoderberg/coveralls-cmake</id>
+    <link href="https://github.com/JoakimSoderberg/coveralls-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coveralls JSON coverage generator and uploader for CMake&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rapidsai/rapids-cmake</title>
-    <updated>2022-07-09T01:36:41Z</updated>
-    <id>tag:github.com,2022-07-09:/rapidsai/rapids-cmake</id>
-    <link href="https://github.com/rapidsai/rapids-cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>noloader/cryptopp-cmake</title>
+    <updated>2022-07-10T01:37:27Z</updated>
+    <id>tag:github.com,2022-07-10:/noloader/cryptopp-cmake</id>
+    <link href="https://github.com/noloader/cryptopp-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake files for Crypto++ project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>autowarefoundation/sample_vehicle_launch</title>
-    <updated>2022-07-09T01:36:41Z</updated>
-    <id>tag:github.com,2022-07-09:/autowarefoundation/sample_vehicle_launch</id>
-    <link href="https://github.com/autowarefoundation/sample_vehicle_launch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DLR-TS/adore_if_ros_msg</title>
+    <updated>2022-07-10T01:37:27Z</updated>
+    <id>tag:github.com,2022-07-10:/DLR-TS/adore_if_ros_msg</id>
+    <link href="https://github.com/DLR-TS/adore_if_ros_msg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eclipse ADORe interface package with ros messages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

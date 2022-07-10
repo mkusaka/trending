@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:13:13Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GenieFramework/Genie.jl</title>
+    <updated>2022-07-10T02:13:13Z</updated>
+    <id>tag:github.com,2022-07-10:/GenieFramework/Genie.jl</id>
+    <link href="https://github.com/GenieFramework/Genie.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧞The highly productive Julia web framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaPy/PyCall.jl</title>
+    <updated>2022-07-10T02:13:13Z</updated>
+    <id>tag:github.com,2022-07-10:/JuliaPy/PyCall.jl</id>
+    <link href="https://github.com/JuliaPy/PyCall.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package to call Python functions from the Julia language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/SBMLToolkitTestSuite.jl</title>
+    <updated>2022-07-10T02:13:13Z</updated>
+    <id>tag:github.com,2022-07-10:/SciML/SBMLToolkitTestSuite.jl</id>
+    <link href="https://github.com/SciML/SBMLToolkitTestSuite.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functions to run the SBML Test Suite with SBMLToolkit, create logs and create reports for the SBML Test Suite Database&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

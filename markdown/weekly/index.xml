@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:15:26Z</updated>
+  <subtitle>Weekly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>satoshilabs/slips</title>
+    <updated>2022-07-10T02:15:26Z</updated>
+    <id>tag:github.com,2022-07-10:/satoshilabs/slips</id>
+    <link href="https://github.com/satoshilabs/slips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SatoshiLabs Improvement Proposals&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ppy/osu-wiki</title>
+    <updated>2022-07-10T02:15:26Z</updated>
+    <id>tag:github.com,2022-07-10:/ppy/osu-wiki</id>
+    <link href="https://github.com/ppy/osu-wiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;home of the osu! wiki&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>antfu/antfu.me</title>
+    <updated>2022-07-10T02:15:26Z</updated>
+    <id>tag:github.com,2022-07-10:/antfu/antfu.me</id>
+    <link href="https://github.com/antfu/antfu.me" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:09:33Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dreadpon/godot_spatial_gardener</title>
+    <updated>2022-07-10T02:09:33Z</updated>
+    <id>tag:github.com,2022-07-10:/dreadpon/godot_spatial_gardener</id>
+    <link href="https://github.com/dreadpon/godot_spatial_gardener" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot plugin for painting plants and props on arbitrary 3D surfaces implemented in GDScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uheartbeast/youtube-tutorials</title>
+    <updated>2022-07-10T02:09:33Z</updated>
+    <id>tag:github.com,2022-07-10:/uheartbeast/youtube-tutorials</id>
+    <link href="https://github.com/uheartbeast/youtube-tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for holding all the source code to my YouTube tutorial videos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Zylann/godot_heightmap_plugin</title>
+    <updated>2022-07-10T02:09:33Z</updated>
+    <id>tag:github.com,2022-07-10:/Zylann/godot_heightmap_plugin</id>
+    <link href="https://github.com/Zylann/godot_heightmap_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HeightMap terrain for Godot implemented in GDScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

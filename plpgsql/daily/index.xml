@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:50:08Z</updated>
+  <updated>2022-07-10T01:50:42Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>anthonydb/practical-sql</title>
-    <updated>2022-07-09T01:50:08Z</updated>
-    <id>tag:github.com,2022-07-09:/anthonydb/practical-sql</id>
-    <link href="https://github.com/anthonydb/practical-sql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code and Data for the First Edition of &#34;Practical SQL&#34; by Anthony DeBarros, published by No Starch Press (2018).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

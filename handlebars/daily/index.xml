@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:42:21Z</updated>
+  <updated>2022-07-10T01:42:55Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fegemo/cefet-web-geiser</title>
-    <updated>2022-07-09T01:42:21Z</updated>
-    <id>tag:github.com,2022-07-09:/fegemo/cefet-web-geiser</id>
-    <link href="https://github.com/fegemo/cefet-web-geiser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Um registrador de jogos&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>StrangerCodingThings-Ironhack-June-22/express-ecommerce-stranger-nfts</title>
-    <updated>2022-07-09T01:42:21Z</updated>
-    <id>tag:github.com,2022-07-09:/StrangerCodingThings-Ironhack-June-22/express-ecommerce-stranger-nfts</id>
-    <link href="https://github.com/StrangerCodingThings-Ironhack-June-22/express-ecommerce-stranger-nfts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Codealong for Express, Handlebars and Mongoose&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>quarkiverse/quarkiverse-docs</title>
-    <updated>2022-07-09T01:42:21Z</updated>
-    <id>tag:github.com,2022-07-09:/quarkiverse/quarkiverse-docs</id>
-    <link href="https://github.com/quarkiverse/quarkiverse-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Antora Documentation for Quarkiverse extensions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

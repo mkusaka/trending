@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:23:17Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jamesbachini/DEX-Arbitrage</title>
+    <updated>2022-07-10T02:23:17Z</updated>
+    <id>tag:github.com,2022-07-10:/jamesbachini/DEX-Arbitrage</id>
+    <link href="https://github.com/jamesbachini/DEX-Arbitrage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example arbitrage trading bot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rari-Capital/solmate</title>
+    <updated>2022-07-10T02:23:17Z</updated>
+    <id>tag:github.com,2022-07-10:/Rari-Capital/solmate</id>
+    <link href="https://github.com/Rari-Capital/solmate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern, opinionated, and gas optimized building blocks for smart contract development.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dapp-Learning-DAO/Dapp-Learning</title>
+    <updated>2022-07-10T02:23:17Z</updated>
+    <id>tag:github.com,2022-07-10:/Dapp-Learning-DAO/Dapp-Learning</id>
+    <link href="https://github.com/Dapp-Learning-DAO/Dapp-Learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:37:12Z</updated>
+  <updated>2022-07-10T01:37:58Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Sija/backtracer.cr</title>
-    <updated>2022-07-09T01:37:12Z</updated>
-    <id>tag:github.com,2022-07-09:/Sija/backtracer.cr</id>
-    <link href="https://github.com/Sija/backtracer.cr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Crystal shard aiming to assist with parsing backtraces into a structured form.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crystal-lang/crystal-sqlite3</title>
+    <updated>2022-07-10T01:37:58Z</updated>
+    <id>tag:github.com,2022-07-10:/crystal-lang/crystal-sqlite3</id>
+    <link href="https://github.com/crystal-lang/crystal-sqlite3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQLite3 bindings for Crystal&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

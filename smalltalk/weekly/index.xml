@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:23:08Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pharo-contributions/BitmapCharacterSet</title>
+    <updated>2022-07-10T02:23:08Z</updated>
+    <id>tag:github.com,2022-07-10:/pharo-contributions/BitmapCharacterSet</id>
+    <link href="https://github.com/pharo-contributions/BitmapCharacterSet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BitmapCharacterSet is a set for characters that uses a bitmap for storing wide characters and an array of truth values for byte characters. Used by XMLParser.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-installer</title>
+    <updated>2022-07-10T02:23:08Z</updated>
+    <id>tag:github.com,2022-07-10:/feenkcom/gtoolkit-installer</id>
+    <link href="https://github.com/feenkcom/gtoolkit-installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GT Installer is a set of tools for installation of various software system artefacts such as shared libraries or projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-boxer</title>
+    <updated>2022-07-10T02:23:08Z</updated>
+    <id>tag:github.com,2022-07-10:/feenkcom/gtoolkit-boxer</id>
+    <link href="https://github.com/feenkcom/gtoolkit-boxer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of utilities to work with Rust through FFI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

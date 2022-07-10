@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:26:09Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IObundle/iob-mem</title>
+    <updated>2022-07-10T02:26:09Z</updated>
+    <id>tag:github.com,2022-07-10:/IObundle/iob-mem</id>
+    <link href="https://github.com/IObundle/iob-mem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog behavioral description of various memories&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>google/CFU-Playground</title>
+    <updated>2022-07-10T02:26:09Z</updated>
+    <id>tag:github.com,2022-07-10:/google/CFU-Playground</id>
+    <link href="https://github.com/google/CFU-Playground" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

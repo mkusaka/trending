@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:15:15Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NVIDIA/nvidia-docker</title>
+    <updated>2022-07-10T02:15:15Z</updated>
+    <id>tag:github.com,2022-07-10:/NVIDIA/nvidia-docker</id>
+    <link href="https://github.com/NVIDIA/nvidia-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build and run Docker containers leveraging NVIDIA GPUs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>buildroot/buildroot</title>
+    <updated>2022-07-10T02:15:15Z</updated>
+    <id>tag:github.com,2022-07-10:/buildroot/buildroot</id>
+    <link href="https://github.com/buildroot/buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>minvws/nl-kat-coordination</title>
+    <updated>2022-07-10T02:15:15Z</updated>
+    <id>tag:github.com,2022-07-10:/minvws/nl-kat-coordination</id>
+    <link href="https://github.com/minvws/nl-kat-coordination" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo nl-kat-coordination for minvws&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

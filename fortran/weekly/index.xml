@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fortran Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:09:10Z</updated>
+  <subtitle>Weekly Trending of Fortran in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CFMIP/COSPv2.0</title>
+    <updated>2022-07-10T02:09:10Z</updated>
+    <id>tag:github.com,2022-07-10:/CFMIP/COSPv2.0</id>
+    <link href="https://github.com/CFMIP/COSPv2.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;COSP - The CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>E3SM-Project/E3SM</title>
+    <updated>2022-07-10T02:09:10Z</updated>
+    <id>tag:github.com,2022-07-10:/E3SM-Project/E3SM</id>
+    <link href="https://github.com/E3SM-Project/E3SM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Energy Exascale Earth System Model source code.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MPP-LSM/MPP</title>
+    <updated>2022-07-10T02:09:10Z</updated>
+    <id>tag:github.com,2022-07-10:/MPP-LSM/MPP</id>
+    <link href="https://github.com/MPP-LSM/MPP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-Physics Problem (MPP) library is a standalone library that solves biophysics problems relevant to global land surface models (LSMs).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

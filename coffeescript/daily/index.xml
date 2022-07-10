@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:36:50Z</updated>
+  <updated>2022-07-10T01:37:34Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leshy/nodejs-validator2-extras</title>
-    <updated>2022-07-09T01:36:50Z</updated>
-    <id>tag:github.com,2022-07-09:/leshy/nodejs-validator2-extras</id>
-    <link href="https://github.com/leshy/nodejs-validator2-extras" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compiling to a mongodb query, Backbone models that validate themselves.. didn&#39;t want to make validator2 dependant on any libraries, so this is implemented externally.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moveline/mongoose-pagination</title>
+    <updated>2022-07-10T01:37:34Z</updated>
+    <id>tag:github.com,2022-07-10:/moveline/mongoose-pagination</id>
+    <link href="https://github.com/moveline/mongoose-pagination" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mongoose Query Pagination&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

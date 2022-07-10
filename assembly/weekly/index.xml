@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:02:59Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leachim6/hello-world</title>
+    <updated>2022-07-10T02:02:59Z</updated>
+    <id>tag:github.com,2022-07-10:/leachim6/hello-world</id>
+    <link href="https://github.com/leachim6/hello-world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pret/pokered</title>
+    <updated>2022-07-10T02:02:59Z</updated>
+    <id>tag:github.com,2022-07-10:/pret/pokered</id>
+    <link href="https://github.com/pret/pokered" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Disassembly of Pokémon Red/Blue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>riscv/riscv-v-spec</title>
+    <updated>2022-07-10T02:02:59Z</updated>
+    <id>tag:github.com,2022-07-10:/riscv/riscv-v-spec</id>
+    <link href="https://github.com/riscv/riscv-v-spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Working draft of the proposed RISC-V V vector extension&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

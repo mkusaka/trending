@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:32:42Z</updated>
+  <updated>2022-07-10T01:33:31Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>robmarkcole/satellite-image-deep-learning</title>
-    <updated>2022-07-09T01:32:42Z</updated>
-    <id>tag:github.com,2022-07-09:/robmarkcole/satellite-image-deep-learning</id>
-    <link href="https://github.com/robmarkcole/satellite-image-deep-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources for deep learning with satellite &amp; aerial imagery&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CARLOSGP2021/2023-campus-recruitment-for-IT-industry</title>
+    <updated>2022-07-10T01:33:31Z</updated>
+    <id>tag:github.com,2022-07-10:/CARLOSGP2021/2023-campus-recruitment-for-IT-industry</id>
+    <link href="https://github.com/CARLOSGP2021/2023-campus-recruitment-for-IT-industry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;收集2023届互联网校招信息 ⌈提前批⌋ ⌈秋招⌋ ⌈春招⌋，star项目不迷路，欢迎大家提交pr，共享校招信息，最上方的为最新消息。注意：附学校就业中心或者企业的链接，不要附上机构的链接！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bradtraversy/design-resources-for-developers</title>
-    <updated>2022-07-09T01:32:42Z</updated>
-    <id>tag:github.com,2022-07-09:/bradtraversy/design-resources-for-developers</id>
-    <link href="https://github.com/bradtraversy/design-resources-for-developers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bmorelli25/Become-A-Full-Stack-Web-Developer</title>
+    <updated>2022-07-10T01:33:31Z</updated>
+    <id>tag:github.com,2022-07-10:/bmorelli25/Become-A-Full-Stack-Web-Developer</id>
+    <link href="https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free resources for learning Full Stack Web Development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Lee-WonJun/JDD-Description</title>
-    <updated>2022-07-09T01:32:42Z</updated>
-    <id>tag:github.com,2022-07-09:/Lee-WonJun/JDD-Description</id>
-    <link href="https://github.com/Lee-WonJun/JDD-Description" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ju-Dung-A-Li Driven Development&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code</title>
+    <updated>2022-07-10T01:33:31Z</updated>
+    <id>tag:github.com,2022-07-10:/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code</id>
+    <link href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;500 AI Machine learning Deep learning Computer vision NLP Projects with code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

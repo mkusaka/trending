@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:46:13Z</updated>
+  <updated>2022-07-10T01:46:46Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gl-inet/gl-infra-builder</title>
-    <updated>2022-07-09T01:46:13Z</updated>
-    <id>tag:github.com,2022-07-09:/gl-inet/gl-infra-builder</id>
-    <link href="https://github.com/gl-inet/gl-infra-builder" rel="alternate"></link>
+    <title>LairdCP/wb-buildroot</title>
+    <updated>2022-07-10T01:46:46Z</updated>
+    <id>tag:github.com,2022-07-10:/LairdCP/wb-buildroot</id>
+    <link href="https://github.com/LairdCP/wb-buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laird&#39;s Buildroot component for the WB projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>opengeospatial/Bounding-Box-Abstract-Specification</title>
+    <updated>2022-07-10T01:46:46Z</updated>
+    <id>tag:github.com,2022-07-10:/opengeospatial/Bounding-Box-Abstract-Specification</id>
+    <link href="https://github.com/opengeospatial/Bounding-Box-Abstract-Specification" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>immortalwrt/packages</title>
-    <updated>2022-07-09T01:46:13Z</updated>
-    <id>tag:github.com,2022-07-09:/immortalwrt/packages</id>
-    <link href="https://github.com/immortalwrt/packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community maintained packages for ImmortalWrt.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lsst-sqre/run-tox</title>
-    <updated>2022-07-09T01:46:13Z</updated>
-    <id>tag:github.com,2022-07-09:/lsst-sqre/run-tox</id>
-    <link href="https://github.com/lsst-sqre/run-tox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitHub Action for running Python CI tasks through tox&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hmcts/probate-cron</title>
+    <updated>2022-07-10T01:46:46Z</updated>
+    <id>tag:github.com,2022-07-10:/hmcts/probate-cron</id>
+    <link href="https://github.com/hmcts/probate-cron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

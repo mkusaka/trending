@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:03:42Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>meta-erlang/meta-erlang</title>
+    <updated>2022-07-10T02:03:42Z</updated>
+    <id>tag:github.com,2022-07-10:/meta-erlang/meta-erlang</id>
+    <link href="https://github.com/meta-erlang/meta-erlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang and Elixir support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

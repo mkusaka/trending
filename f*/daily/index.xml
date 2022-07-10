@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F* Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:39:58Z</updated>
+  <updated>2022-07-10T01:40:31Z</updated>
   <subtitle>Daily Trending of F* in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>project-everest/everparse</title>
+    <updated>2022-07-10T01:40:31Z</updated>
+    <id>tag:github.com,2022-07-10:/project-everest/everparse</id>
+    <link href="https://github.com/project-everest/everparse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automated generation of provably secure, zero-copy parsers from format specifications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

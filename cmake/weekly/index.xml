@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:05:23Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/c-testrunnerswitcher</title>
+    <updated>2022-07-10T02:05:23Z</updated>
+    <id>tag:github.com,2022-07-10:/Azure/c-testrunnerswitcher</id>
+    <link href="https://github.com/Azure/c-testrunnerswitcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C test runner switcher repo to be broken off from azure-c-shared-utility so it can be reused in several of our IoT repos&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tier4/autoware_auto_msgs</title>
+    <updated>2022-07-10T02:05:23Z</updated>
+    <id>tag:github.com,2022-07-10:/tier4/autoware_auto_msgs</id>
+    <link href="https://github.com/tier4/autoware_auto_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forked from https://gitlab.com/autowarefoundation/autoware.auto/autoware_auto_msgs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TLeonardUK/ds3os</title>
+    <updated>2022-07-10T02:05:23Z</updated>
+    <id>tag:github.com,2022-07-10:/TLeonardUK/ds3os</id>
+    <link href="https://github.com/TLeonardUK/ds3os" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dark Souls 3 - Open Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

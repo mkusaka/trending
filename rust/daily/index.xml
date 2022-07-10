@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:52:38Z</updated>
+  <updated>2022-07-10T01:53:09Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ogham/exa</title>
-    <updated>2022-07-09T01:52:38Z</updated>
-    <id>tag:github.com,2022-07-09:/ogham/exa</id>
-    <link href="https://github.com/ogham/exa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern replacement for ‘ls’.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>buckyos/CYFS</title>
+    <updated>2022-07-10T01:53:09Z</updated>
+    <id>tag:github.com,2022-07-10:/buckyos/CYFS</id>
+    <link href="https://github.com/buckyos/CYFS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CYFS is the next-generation technology to build real Web3 by upgrading the basic protocol of Web (TCP/IP+DNS+HTTP),is short for CYberFileSystem. https://www.cyfs.com/, cyfs://cyfs/index_en.html.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>awslabs/aws-sdk-rust</title>
-    <updated>2022-07-09T01:52:38Z</updated>
-    <id>tag:github.com,2022-07-09:/awslabs/aws-sdk-rust</id>
-    <link href="https://github.com/awslabs/aws-sdk-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AWS SDK for the Rust Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elkowar/eww</title>
+    <updated>2022-07-10T01:53:09Z</updated>
+    <id>tag:github.com,2022-07-10:/elkowar/eww</id>
+    <link href="https://github.com/elkowar/eww" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ElKowars wacky widgets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>railwayapp/nixpacks</title>
-    <updated>2022-07-09T01:52:38Z</updated>
-    <id>tag:github.com,2022-07-09:/railwayapp/nixpacks</id>
-    <link href="https://github.com/railwayapp/nixpacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;App source + Nix packages + Docker = Image&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/rustfmt</title>
+    <updated>2022-07-10T01:53:09Z</updated>
+    <id>tag:github.com,2022-07-10:/rust-lang/rustfmt</id>
+    <link href="https://github.com/rust-lang/rustfmt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Format Rust code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

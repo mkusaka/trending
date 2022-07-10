@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:34:38Z</updated>
+  <updated>2022-07-10T01:35:25Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>evgenyb/aks-workshops</title>
-    <updated>2022-07-09T01:34:38Z</updated>
-    <id>tag:github.com,2022-07-09:/evgenyb/aks-workshops</id>
-    <link href="https://github.com/evgenyb/aks-workshops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/powerplatform-dev-day</title>
+    <updated>2022-07-10T01:35:25Z</updated>
+    <id>tag:github.com,2022-07-10:/microsoft/powerplatform-dev-day</id>
+    <link href="https://github.com/microsoft/powerplatform-dev-day" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Power Platform Dev Day&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

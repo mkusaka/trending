@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:36:58Z</updated>
+  <updated>2022-07-10T01:37:44Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeffshrager/elizagen.org</title>
+    <updated>2022-07-10T01:37:44Z</updated>
+    <id>tag:github.com,2022-07-10:/jeffshrager/elizagen.org</id>
+    <link href="https://github.com/jeffshrager/elizagen.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Genealogy of Elizas&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;elizagen.org&lt;/h1&gt; &#xA;&lt;p&gt;2021-07-26: JS Refactored the entire repo to align better with the site (and to get rid of some duplication and trash)&lt;/p&gt;</summary>
+  </entry>
 </feed>

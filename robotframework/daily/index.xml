@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub RobotFramework Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:52:15Z</updated>
+  <updated>2022-07-10T01:52:48Z</updated>
   <subtitle>Daily Trending of RobotFramework in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Kikkomanq/Auto1</title>
-    <updated>2022-07-09T01:52:15Z</updated>
-    <id>tag:github.com,2022-07-09:/Kikkomanq/Auto1</id>
-    <link href="https://github.com/Kikkomanq/Auto1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

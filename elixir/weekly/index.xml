@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-10T02:08:09Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hentioe/policr-mini</title>
+    <updated>2022-07-10T02:08:09Z</updated>
+    <id>tag:github.com,2022-07-10:/Hentioe/policr-mini</id>
+    <link href="https://github.com/Hentioe/policr-mini" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;更加现代的 Policr 迷你版&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>livebook-dev/livebook</title>
+    <updated>2022-07-10T02:08:09Z</updated>
+    <id>tag:github.com,2022-07-10:/livebook-dev/livebook</id>
+    <link href="https://github.com/livebook-dev/livebook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pluralsh/plural</title>
+    <updated>2022-07-10T02:08:09Z</updated>
+    <id>tag:github.com,2022-07-10:/pluralsh/plural</id>
+    <link href="https://github.com/pluralsh/plural" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-cloud, multi-prem application deployments for kubernetes in minutes.🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:40:35Z</updated>
+  <updated>2022-07-10T01:41:11Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>loganoz/horses3d</title>
-    <updated>2022-07-09T01:40:35Z</updated>
-    <id>tag:github.com,2022-07-09:/loganoz/horses3d</id>
-    <link href="https://github.com/loganoz/horses3d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dengwirda/PPR</title>
+    <updated>2022-07-10T01:41:11Z</updated>
+    <id>tag:github.com,2022-07-10:/dengwirda/PPR</id>
+    <link href="https://github.com/dengwirda/PPR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A high-order accurate piecewise polynomial reconstruction library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openmopac/mopac</title>
+    <updated>2022-07-10T01:41:11Z</updated>
+    <id>tag:github.com,2022-07-10:/openmopac/mopac</id>
+    <link href="https://github.com/openmopac/mopac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Molecular Orbital PACkage&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

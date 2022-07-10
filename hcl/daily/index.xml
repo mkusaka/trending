@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:42:29Z</updated>
+  <updated>2022-07-10T01:43:05Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stacksimplify/terraform-on-azure-cloud</title>
-    <updated>2022-07-09T01:42:29Z</updated>
-    <id>tag:github.com,2022-07-09:/stacksimplify/terraform-on-azure-cloud</id>
-    <link href="https://github.com/stacksimplify/terraform-on-azure-cloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform on AWS with SRE &amp; IaC DevOps | Real-World 20 Demos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-aws-modules/terraform-aws-atlantis</title>
+    <updated>2022-07-10T01:43:05Z</updated>
+    <id>tag:github.com,2022-07-10:/terraform-aws-modules/terraform-aws-atlantis</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-atlantis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hoodbu/ace-iac-day-two</title>
+    <updated>2022-07-10T01:43:05Z</updated>
+    <id>tag:github.com,2022-07-10:/hoodbu/ace-iac-day-two</id>
+    <link href="https://github.com/hoodbu/ace-iac-day-two" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-google-modules/terraform-google-cloud-router</title>
+    <updated>2022-07-10T01:43:05Z</updated>
+    <id>tag:github.com,2022-07-10:/terraform-google-modules/terraform-google-cloud-router</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-cloud-router" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage a Cloud Router on GCP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

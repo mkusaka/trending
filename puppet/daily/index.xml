@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-09T01:50:54Z</updated>
+  <updated>2022-07-10T01:51:23Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>voxpupuli/puppet-falco</title>
-    <updated>2022-07-09T01:50:54Z</updated>
-    <id>tag:github.com,2022-07-09:/voxpupuli/puppet-falco</id>
-    <link href="https://github.com/voxpupuli/puppet-falco" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>voxpupuli/puppet-vmwaretools</title>
-    <updated>2022-07-09T01:50:54Z</updated>
-    <id>tag:github.com,2022-07-09:/voxpupuli/puppet-vmwaretools</id>
-    <link href="https://github.com/voxpupuli/puppet-vmwaretools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module to manage VMware Operating System Specific Packages for VMware tools installation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>voxpupuli/puppet-mrepo</title>
-    <updated>2022-07-09T01:50:54Z</updated>
-    <id>tag:github.com,2022-07-09:/voxpupuli/puppet-mrepo</id>
-    <link href="https://github.com/voxpupuli/puppet-mrepo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module for creating and managing RPM based repository mirrors.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
