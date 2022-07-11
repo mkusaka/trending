@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:44:57Z</updated>
+  <updated>2022-07-11T01:44:51Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Suzhou-Tongyuan/TyOOP.jl</title>
-    <updated>2022-07-10T01:44:57Z</updated>
-    <id>tag:github.com,2022-07-10:/Suzhou-Tongyuan/TyOOP.jl</id>
-    <link href="https://github.com/Suzhou-Tongyuan/TyOOP.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Conventional object-oriented programming in Julia without breaking Julia&#39;s core design ideas&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/SciMLBase.jl</title>
+    <updated>2022-07-11T01:44:51Z</updated>
+    <id>tag:github.com,2022-07-11:/SciML/SciMLBase.jl</id>
+    <link href="https://github.com/SciML/SciMLBase.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Base interface of the SciML ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaSmoothOptimizers/QRMumps.jl</title>
-    <updated>2022-07-10T01:44:57Z</updated>
-    <id>tag:github.com,2022-07-10:/JuliaSmoothOptimizers/QRMumps.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/QRMumps.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interface to multicore QR factorization qr_mumps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FluxML/FluxTraining.jl</title>
-    <updated>2022-07-10T01:44:57Z</updated>
-    <id>tag:github.com,2022-07-10:/FluxML/FluxTraining.jl</id>
-    <link href="https://github.com/FluxML/FluxTraining.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A flexible neural net training library inspired by fast.ai&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>caseykneale/VIMKiller</title>
+    <updated>2022-07-11T01:44:51Z</updated>
+    <id>tag:github.com,2022-07-11:/caseykneale/VIMKiller</id>
+    <link href="https://github.com/caseykneale/VIMKiller" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exiting VIM is hard; sometimes we need to take drastic measures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

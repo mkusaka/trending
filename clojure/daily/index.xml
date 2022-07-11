@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:37:17Z</updated>
+  <updated>2022-07-11T01:36:38Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>weavejester/compojure</title>
-    <updated>2022-07-10T01:37:17Z</updated>
-    <id>tag:github.com,2022-07-10:/weavejester/compojure</id>
-    <link href="https://github.com/weavejester/compojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A concise routing library for Ring/Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alguevara7/wallbase-clj</title>
+    <updated>2022-07-11T01:36:38Z</updated>
+    <id>tag:github.com,2022-07-11:/alguevara7/wallbase-clj</id>
+    <link href="https://github.com/alguevara7/wallbase-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;wallbase.cc clojure library and cli&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Flexiana/notion-to-md</title>
-    <updated>2022-07-10T01:37:17Z</updated>
-    <id>tag:github.com,2022-07-10:/Flexiana/notion-to-md</id>
-    <link href="https://github.com/Flexiana/notion-to-md" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool for fetching Notion page trees, written in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shoreleave/shoreleave-core</title>
+    <updated>2022-07-11T01:36:38Z</updated>
+    <id>tag:github.com,2022-07-11:/shoreleave/shoreleave-core</id>
+    <link href="https://github.com/shoreleave/shoreleave-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A smarter client-side with ClojureScript : Shoreleave&#39;s core auxiliary functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Flexiana/framework</title>
-    <updated>2022-07-10T01:37:17Z</updated>
-    <id>tag:github.com,2022-07-10:/Flexiana/framework</id>
-    <link href="https://github.com/Flexiana/framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Our framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>puppetlabs/ring-middleware</title>
+    <updated>2022-07-11T01:36:38Z</updated>
+    <id>tag:github.com,2022-07-11:/puppetlabs/ring-middleware</id>
+    <link href="https://github.com/puppetlabs/ring-middleware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

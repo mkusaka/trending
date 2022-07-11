@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:50:15Z</updated>
+  <updated>2022-07-11T01:50:24Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>binary-com/perl-Finance-MIFIR-CONCAT</title>
-    <updated>2022-07-10T01:50:15Z</updated>
-    <id>tag:github.com,2022-07-10:/binary-com/perl-Finance-MIFIR-CONCAT</id>
-    <link href="https://github.com/binary-com/perl-Finance-MIFIR-CONCAT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NAME&lt;/h1&gt; &#xA;&lt;p&gt;Finance::MIFIR::CONCAT - provides CONCAT code generation out of client data according to MIFIR rules&lt;/p&gt; &#xA;&lt;h1&gt;SYNOPSYS&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;use Finance::MIFIR::CONCAT /mifir_concat/&#xA;print mifir_concat({&#xA;    cc          =&amp;gt; &#39;DE&#39;,&#xA;    date        =&amp;gt; &#39;1960-01-01&#39;,&#xA;    first_name  =&amp;gt; &#39;Jack&#39;,&#xA;    last_name   =&amp;gt; &#39;Daniels&#39;,&#xA;});&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>PixelExperience/prebuilts_tools-custom</title>
+    <updated>2022-07-11T01:50:24Z</updated>
+    <id>tag:github.com,2022-07-11:/PixelExperience/prebuilts_tools-custom</id>
+    <link href="https://github.com/PixelExperience/prebuilts_tools-custom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>girish1729/perl-article</title>
+    <updated>2022-07-11T01:50:24Z</updated>
+    <id>tag:github.com,2022-07-11:/girish1729/perl-article</id>
+    <link href="https://github.com/girish1729/perl-article" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fix perl article and code&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Stack Overflow &#34;Perl is still relevant in 2022&#34; blog post&lt;/h1&gt; &#xA;&lt;h2&gt;Objectives&lt;/h2&gt; &#xA;&lt;p&gt;After initial publication of the &lt;a href=&#34;https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/&#34;&gt;blog post&lt;/a&gt;, various comments came out due to the lack of review before the article was published. This repository could help to improve it by:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Review &lt;a href=&#34;https://stackoverflow.blog/2022/07/06/why-perl-is-still-relevant-in-2022/&#34;&gt;perl article&lt;/a&gt; on Stack Overflow blogging platform&lt;/li&gt; &#xA; &lt;li&gt;Improve the code examples to reflect contemporary practices as of 2022&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;How to contribute&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Use the &lt;a href=&#34;https://github.com/girish1729/perl-article/raw/main/perl-article-stackoverflow-july6-2022.md&#34;&gt;&lt;code&gt;perl-article-stackoverflow-july6-2022.md &lt;/code&gt;markdown file&lt;/a&gt; for article review and contributions.&lt;/li&gt; &#xA; &lt;li&gt;For code examples, prefer the the &lt;code&gt;.pl&lt;/code&gt; files. We&#39;ll add them to the article in the end. It will allow to test the code in an easier way.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;A &lt;a href=&#34;https://github.com/girish1729/perl-article/raw/main/strong-case-for-perl.md&#34;&gt;draft version of the article is available&lt;/a&gt;, but shouldn&#39;t be used for the reviews.&lt;/p&gt;</summary>
   </entry>
 </feed>

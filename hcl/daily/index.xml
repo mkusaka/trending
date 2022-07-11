@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:43:05Z</updated>
+  <updated>2022-07-11T01:42:56Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-atlantis</title>
-    <updated>2022-07-10T01:43:05Z</updated>
-    <id>tag:github.com,2022-07-10:/terraform-aws-modules/terraform-aws-atlantis</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-atlantis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform configurations for running Atlantis on AWS Fargate. Github, Gitlab and BitBucket are supported 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>manikcloud/terraform-ansible</title>
+    <updated>2022-07-11T01:42:56Z</updated>
+    <id>tag:github.com,2022-07-11:/manikcloud/terraform-ansible</id>
+    <link href="https://github.com/manikcloud/terraform-ansible" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform and ansible learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hoodbu/ace-iac-day-two</title>
-    <updated>2022-07-10T01:43:05Z</updated>
-    <id>tag:github.com,2022-07-10:/hoodbu/ace-iac-day-two</id>
-    <link href="https://github.com/hoodbu/ace-iac-day-two" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-vpc-peering-multi-account</title>
+    <updated>2022-07-11T01:42:56Z</updated>
+    <id>tag:github.com,2022-07-11:/cloudposse/terraform-aws-vpc-peering-multi-account</id>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-google-modules/terraform-google-cloud-router</title>
-    <updated>2022-07-10T01:43:05Z</updated>
-    <id>tag:github.com,2022-07-10:/terraform-google-modules/terraform-google-cloud-router</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-cloud-router" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage a Cloud Router on GCP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-codebuild</title>
+    <updated>2022-07-11T01:42:56Z</updated>
+    <id>tag:github.com,2022-07-11:/cloudposse/terraform-aws-codebuild</id>
+    <link href="https://github.com/cloudposse/terraform-aws-codebuild" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module to easily leverage AWS CodeBuild for Continuous Integration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

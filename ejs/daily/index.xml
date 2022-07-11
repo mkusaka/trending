@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:40:01Z</updated>
+  <updated>2022-07-11T01:39:34Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Audreugzg/decision_maker</title>
-    <updated>2022-07-10T01:40:01Z</updated>
-    <id>tag:github.com,2022-07-10:/Audreugzg/decision_maker</id>
-    <link href="https://github.com/Audreugzg/decision_maker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

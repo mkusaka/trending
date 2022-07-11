@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:34:52Z</updated>
+  <updated>2022-07-11T01:34:26Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>psywave-games/coco-battle-royale-2</title>
-    <updated>2022-07-10T01:34:52Z</updated>
-    <id>tag:github.com,2022-07-10:/psywave-games/coco-battle-royale-2</id>
-    <link href="https://github.com/psywave-games/coco-battle-royale-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coco Battle Royale II ココバトル (kokobatoru) 2 is a homebrew game for nintendo years 80 console, distributed as free software.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mrfalcone/TwistOS</title>
-    <updated>2022-07-10T01:34:52Z</updated>
-    <id>tag:github.com,2022-07-10:/mrfalcone/TwistOS</id>
-    <link href="https://github.com/mrfalcone/TwistOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The basic beginnings of a hobby operating system.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tanakh/tgbr</title>
-    <updated>2022-07-10T01:34:52Z</updated>
-    <id>tag:github.com,2022-07-10:/tanakh/tgbr</id>
-    <link href="https://github.com/tanakh/tgbr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Battelle/REpsych</title>
+    <updated>2022-07-11T01:34:26Z</updated>
+    <id>tag:github.com,2022-07-11:/Battelle/REpsych</id>
+    <link href="https://github.com/Battelle/REpsych" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Psychological warfare in reverse engineering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

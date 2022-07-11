@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:47:03Z</updated>
+  <updated>2022-07-11T01:47:12Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HydroComplexity/MLCan</title>
-    <updated>2022-07-10T01:47:03Z</updated>
-    <id>tag:github.com,2022-07-10:/HydroComplexity/MLCan</id>
-    <link href="https://github.com/HydroComplexity/MLCan" rel="alternate"></link>
+    <title>ttpekkan/git</title>
+    <updated>2022-07-11T01:47:12Z</updated>
+    <id>tag:github.com,2022-07-11:/ttpekkan/git</id>
+    <link href="https://github.com/ttpekkan/git" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

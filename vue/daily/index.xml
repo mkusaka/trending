@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:57:31Z</updated>
+  <updated>2022-07-11T01:58:06Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>antfu/vitesse-nuxt3</title>
-    <updated>2022-07-10T01:57:31Z</updated>
-    <id>tag:github.com,2022-07-10:/antfu/vitesse-nuxt3</id>
-    <link href="https://github.com/antfu/vitesse-nuxt3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vitesse for Nuxt 3 🏔💚⚡️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Checkmarx/cuteboi</title>
+    <updated>2022-07-11T01:58:06Z</updated>
+    <id>tag:github.com,2022-07-11:/Checkmarx/cuteboi</id>
+    <link href="https://github.com/Checkmarx/cuteboi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This open-source project tracks CuteBoi&#39;s activity over time as there are evidence the actor is still active. All information provided here is intended for research purposes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>umicro/uView</title>
-    <updated>2022-07-10T01:57:31Z</updated>
-    <id>tag:github.com,2022-07-10:/umicro/uView</id>
-    <link href="https://github.com/umicro/uView" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uView UI，是uni-app生态最优秀的UI框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bawangxx/XZVoice</title>
+    <updated>2022-07-11T01:58:06Z</updated>
+    <id>tag:github.com,2022-07-11:/bawangxx/XZVoice</id>
+    <link href="https://github.com/bawangxx/XZVoice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free and open source text-to-speech software&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tiyongliu/keeper</title>
-    <updated>2022-07-10T01:57:31Z</updated>
-    <id>tag:github.com,2022-07-10:/tiyongliu/keeper</id>
-    <link href="https://github.com/tiyongliu/keeper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;underway wails + go + vue3 = multiple database visualization development tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wikihost-opensource/als</title>
+    <updated>2022-07-11T01:58:06Z</updated>
+    <id>tag:github.com,2022-07-11:/wikihost-opensource/als</id>
+    <link href="https://github.com/wikihost-opensource/als" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Another Looking-glass Server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

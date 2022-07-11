@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Boo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:35:38Z</updated>
+  <updated>2022-07-11T01:35:12Z</updated>
   <subtitle>Daily Trending of Boo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>byt3bl33d3r/SILENTTRINITY</title>
-    <updated>2022-07-10T01:35:38Z</updated>
-    <id>tag:github.com,2022-07-10:/byt3bl33d3r/SILENTTRINITY</id>
-    <link href="https://github.com/byt3bl33d3r/SILENTTRINITY" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An asynchronous, collaborative post-exploitation agent powered by Python and .NET&#39;s DLR&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

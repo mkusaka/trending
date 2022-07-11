@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:46:46Z</updated>
+  <updated>2022-07-11T01:46:54Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LairdCP/wb-buildroot</title>
-    <updated>2022-07-10T01:46:46Z</updated>
-    <id>tag:github.com,2022-07-10:/LairdCP/wb-buildroot</id>
-    <link href="https://github.com/LairdCP/wb-buildroot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Laird&#39;s Buildroot component for the WB projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>libretro/Lakka-LibreELEC</title>
+    <updated>2022-07-11T01:46:54Z</updated>
+    <id>tag:github.com,2022-07-11:/libretro/Lakka-LibreELEC</id>
+    <link href="https://github.com/libretro/Lakka-LibreELEC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>opengeospatial/Bounding-Box-Abstract-Specification</title>
-    <updated>2022-07-10T01:46:46Z</updated>
-    <id>tag:github.com,2022-07-10:/opengeospatial/Bounding-Box-Abstract-Specification</id>
-    <link href="https://github.com/opengeospatial/Bounding-Box-Abstract-Specification" rel="alternate"></link>
+    <title>marco-calautti/SigpatchesModuleWiiU</title>
+    <updated>2022-07-11T01:46:54Z</updated>
+    <id>tag:github.com,2022-07-11:/marco-calautti/SigpatchesModuleWiiU</id>
+    <link href="https://github.com/marco-calautti/SigpatchesModuleWiiU" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hmcts/probate-cron</title>
-    <updated>2022-07-10T01:46:46Z</updated>
-    <id>tag:github.com,2022-07-10:/hmcts/probate-cron</id>
-    <link href="https://github.com/hmcts/probate-cron" rel="alternate"></link>
+    <title>Havoc-OS/android_packages_overlays_ThemeIcons</title>
+    <updated>2022-07-11T01:46:54Z</updated>
+    <id>tag:github.com,2022-07-11:/Havoc-OS/android_packages_overlays_ThemeIcons</id>
+    <link href="https://github.com/Havoc-OS/android_packages_overlays_ThemeIcons" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

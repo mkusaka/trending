@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:54:42Z</updated>
+  <updated>2022-07-11T01:54:57Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>abigger87/unix</title>
-    <updated>2022-07-10T01:54:42Z</updated>
-    <id>tag:github.com,2022-07-10:/abigger87/unix</id>
-    <link href="https://github.com/abigger87/unix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight, extensible foundry library for shell scripting.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0xfoobar/boredanddangerous</title>
-    <updated>2022-07-10T01:54:42Z</updated>
-    <id>tag:github.com,2022-07-10:/0xfoobar/boredanddangerous</id>
-    <link href="https://github.com/0xfoobar/boredanddangerous" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alikonuk1/Sirius</title>
-    <updated>2022-07-10T01:54:42Z</updated>
-    <id>tag:github.com,2022-07-10:/alikonuk1/Sirius</id>
-    <link href="https://github.com/alikonuk1/Sirius" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern and exotic solidity smart contract library for wide use cases.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

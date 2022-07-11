@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:53:09Z</updated>
+  <updated>2022-07-11T01:53:29Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>buckyos/CYFS</title>
-    <updated>2022-07-10T01:53:09Z</updated>
-    <id>tag:github.com,2022-07-10:/buckyos/CYFS</id>
-    <link href="https://github.com/buckyos/CYFS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CYFS is the next-generation technology to build real Web3 by upgrading the basic protocol of Web (TCP/IP+DNS+HTTP),is short for CYberFileSystem. https://www.cyfs.com/, cyfs://cyfs/index_en.html.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zesterer/chumsky</title>
+    <updated>2022-07-11T01:53:29Z</updated>
+    <id>tag:github.com,2022-07-11:/zesterer/chumsky</id>
+    <link href="https://github.com/zesterer/chumsky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A parser library for humans with powerful error recovery.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elkowar/eww</title>
-    <updated>2022-07-10T01:53:09Z</updated>
-    <id>tag:github.com,2022-07-10:/elkowar/eww</id>
-    <link href="https://github.com/elkowar/eww" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ElKowars wacky widgets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloud-hypervisor/cloud-hypervisor</title>
+    <updated>2022-07-11T01:53:29Z</updated>
+    <id>tag:github.com,2022-07-11:/cloud-hypervisor/cloud-hypervisor</id>
+    <link href="https://github.com/cloud-hypervisor/cloud-hypervisor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/rustfmt</title>
-    <updated>2022-07-10T01:53:09Z</updated>
-    <id>tag:github.com,2022-07-10:/rust-lang/rustfmt</id>
-    <link href="https://github.com/rust-lang/rustfmt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Format Rust code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starship/starship</title>
+    <updated>2022-07-11T01:53:29Z</updated>
+    <id>tag:github.com,2022-07-11:/starship/starship</id>
+    <link href="https://github.com/starship/starship" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

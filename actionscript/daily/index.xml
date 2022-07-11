@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:33:52Z</updated>
+  <updated>2022-07-11T01:33:26Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>arkeus/axel-axelite-basic</title>
-    <updated>2022-07-10T01:33:52Z</updated>
-    <id>tag:github.com,2022-07-10:/arkeus/axel-axelite-basic</id>
-    <link href="https://github.com/arkeus/axel-axelite-basic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Axelite Basic is a tutorial project for learning the basics of the Axel Game Library.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

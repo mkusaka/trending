@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:35:17Z</updated>
+  <updated>2022-07-11T01:34:50Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>amitxv/EVA</title>
-    <updated>2022-07-10T01:35:17Z</updated>
-    <id>tag:github.com,2022-07-10:/amitxv/EVA</id>
-    <link href="https://github.com/amitxv/EVA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A highly structured &amp; technical hardware, BIOS &amp; Windows optimization guide dedicated for performance, privacy &amp; latency enthusiasts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sadewa999/RDP</title>
-    <updated>2022-07-10T01:35:17Z</updated>
-    <id>tag:github.com,2022-07-10:/sadewa999/RDP</id>
-    <link href="https://github.com/sadewa999/RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;# RDP Windows Server 2022 **Windows Server 2022 with 2 CPU-7gb Ram FREE with Github with RDP Access (ngrok US)** + Prosesor : Intel Xeon 2.6 Ghz + Ram : 7 gb + Time Duration RDP : 1 Hour + Include Remote Deskop Protokol, RDClient Repo link: https://github.com/sadewa999/RDP-BAA/ + Click Fork in the right corner of the screen to save it to your Gi…&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ImminentFate/SiriShortcuts</title>
-    <updated>2022-07-10T01:35:17Z</updated>
-    <id>tag:github.com,2022-07-10:/ImminentFate/SiriShortcuts</id>
-    <link href="https://github.com/ImminentFate/SiriShortcuts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts to control Windows PC over SSH&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

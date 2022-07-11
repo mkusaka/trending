@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:45:45Z</updated>
+  <updated>2022-07-11T01:45:52Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stoneatom/stonedb-docs</title>
-    <updated>2022-07-10T01:45:45Z</updated>
-    <id>tag:github.com,2022-07-10:/stoneatom/stonedb-docs</id>
-    <link href="https://github.com/stoneatom/stonedb-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;StoneDB database documentation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hanFengSan/eHunter</title>
+    <updated>2022-07-11T01:45:52Z</updated>
+    <id>tag:github.com,2022-07-11:/hanFengSan/eHunter</id>
+    <link href="https://github.com/hanFengSan/eHunter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For the best reading experience&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

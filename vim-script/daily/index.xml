@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:57:21Z</updated>
+  <updated>2022-07-11T01:57:56Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>flazz/vim-colorschemes</title>
-    <updated>2022-07-10T01:57:21Z</updated>
-    <id>tag:github.com,2022-07-10:/flazz/vim-colorschemes</id>
-    <link href="https://github.com/flazz/vim-colorschemes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;one colorscheme pack to rule them all!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tomasiser/vim-code-dark</title>
+    <updated>2022-07-11T01:57:56Z</updated>
+    <id>tag:github.com,2022-07-11:/tomasiser/vim-code-dark</id>
+    <link href="https://github.com/tomasiser/vim-code-dark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>justinmk/vim-sneak</title>
-    <updated>2022-07-10T01:57:21Z</updated>
-    <id>tag:github.com,2022-07-10:/justinmk/vim-sneak</id>
-    <link href="https://github.com/justinmk/vim-sneak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The missing motion for Vim 👟&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>luochen1990/rainbow</title>
-    <updated>2022-07-10T01:57:21Z</updated>
-    <id>tag:github.com,2022-07-10:/luochen1990/rainbow</id>
-    <link href="https://github.com/luochen1990/rainbow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bluz71/vim-moonfly-colors</title>
+    <updated>2022-07-11T01:57:56Z</updated>
+    <id>tag:github.com,2022-07-11:/bluz71/vim-moonfly-colors</id>
+    <link href="https://github.com/bluz71/vim-moonfly-colors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dark color scheme for Vim &amp; Neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

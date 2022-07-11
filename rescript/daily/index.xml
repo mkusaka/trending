@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:52:35Z</updated>
+  <updated>2022-07-11T01:52:55Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ThePrimeagen/tyrone-biggums</title>
-    <updated>2022-07-10T01:52:35Z</updated>
-    <id>tag:github.com,2022-07-10:/ThePrimeagen/tyrone-biggums</id>
-    <link href="https://github.com/ThePrimeagen/tyrone-biggums" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clearly a repo about websockets and their comparison...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

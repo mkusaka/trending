@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:36:43Z</updated>
+  <updated>2022-07-11T01:36:05Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>starknet-edu/starknet-accounts</title>
-    <updated>2022-07-10T01:36:43Z</updated>
-    <id>tag:github.com,2022-07-10:/starknet-edu/starknet-accounts</id>
-    <link href="https://github.com/starknet-edu/starknet-accounts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn how to build and deploy StarkNet Accounts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>starknet-edu/starknet-erc20</title>
-    <updated>2022-07-10T01:36:43Z</updated>
-    <id>tag:github.com,2022-07-10:/starknet-edu/starknet-erc20</id>
-    <link href="https://github.com/starknet-edu/starknet-erc20" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn how to deploy and customize an ERC20 token on StarkNet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>starknet-edu/starknet-cairo-101</title>
-    <updated>2022-07-10T01:36:43Z</updated>
-    <id>tag:github.com,2022-07-10:/starknet-edu/starknet-cairo-101</id>
-    <link href="https://github.com/starknet-edu/starknet-cairo-101" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn how to read Cairo code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

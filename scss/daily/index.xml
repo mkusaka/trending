@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:53:36Z</updated>
+  <updated>2022-07-11T01:53:56Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>StaticMania/hugo-cohub</title>
-    <updated>2022-07-10T01:53:36Z</updated>
-    <id>tag:github.com,2022-07-10:/StaticMania/hugo-cohub</id>
-    <link href="https://github.com/StaticMania/hugo-cohub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rabobank-cdc/DeTTECT</title>
+    <updated>2022-07-11T01:53:56Z</updated>
+    <id>tag:github.com,2022-07-11:/rabobank-cdc/DeTTECT</id>
+    <link href="https://github.com/rabobank-cdc/DeTTECT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Detect Tactics, Techniques &amp; Combat Threats&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>influxdata/docs-v2</title>
-    <updated>2022-07-10T01:53:36Z</updated>
-    <id>tag:github.com,2022-07-10:/influxdata/docs-v2</id>
-    <link href="https://github.com/influxdata/docs-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;InfluxData Documentation that covers InfluxDB Cloud, InfluxDB OSS 2.x, InfluxDB OSS 1.x, InfluxDB Enterprise, Telegraf, Chronograf, Kapacitor, and Flux.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>asciidoctor/asciidoctor.org</title>
+    <updated>2022-07-11T01:53:56Z</updated>
+    <id>tag:github.com,2022-07-11:/asciidoctor/asciidoctor.org</id>
+    <link href="https://github.com/asciidoctor/asciidoctor.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌐 Asciidoctor project site. Composed in AsciiDoc. Baked with Awestruct.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spryker/spryker-docs</title>
-    <updated>2022-07-10T01:53:36Z</updated>
-    <id>tag:github.com,2022-07-10:/spryker/spryker-docs</id>
-    <link href="https://github.com/spryker/spryker-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is for the Spryker documentation available at https://docs.spryker.com.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sbryngelson/academic-website-template</title>
+    <updated>2022-07-11T01:53:56Z</updated>
+    <id>tag:github.com,2022-07-11:/sbryngelson/academic-website-template</id>
+    <link href="https://github.com/sbryngelson/academic-website-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jekyll website template for personal academic or research group web pages.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:51:47Z</updated>
+  <updated>2022-07-11T01:51:54Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pudymody/kde-manualtiling</title>
+    <updated>2022-07-11T01:51:54Z</updated>
+    <id>tag:github.com,2022-07-11:/pudymody/kde-manualtiling</id>
+    <link href="https://github.com/pudymody/kde-manualtiling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A manual tiling kwin script like Divvy from mac os&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

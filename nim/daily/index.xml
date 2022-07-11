@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-10T01:48:33Z</updated>
+  <updated>2022-07-11T01:48:44Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Arc-Compute/LibVF.IO</title>
-    <updated>2022-07-10T01:48:33Z</updated>
-    <id>tag:github.com,2022-07-10:/Arc-Compute/LibVF.IO</id>
-    <link href="https://github.com/Arc-Compute/LibVF.IO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vendor neutral GPU multiplexing tool driven by VFIO &amp; YAML.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>planety/prologue</title>
+    <updated>2022-07-11T01:48:44Z</updated>
+    <id>tag:github.com,2022-07-11:/planety/prologue</id>
+    <link href="https://github.com/planety/prologue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerful and flexible web framework written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dom96/jester</title>
-    <updated>2022-07-10T01:48:33Z</updated>
-    <id>tag:github.com,2022-07-10:/dom96/jester</id>
-    <link href="https://github.com/dom96/jester" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sinatra-like web framework for Nim.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nim-works/nimskull</title>
+    <updated>2022-07-11T01:48:44Z</updated>
+    <id>tag:github.com,2022-07-11:/nim-works/nimskull</id>
+    <link href="https://github.com/nim-works/nimskull" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An in development statically typed systems programming language; with sustainability at its core. We, the community of users, maintain it.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Infinitybeond1/aurc</title>
+    <updated>2022-07-11T01:48:44Z</updated>
+    <id>tag:github.com,2022-07-11:/Infinitybeond1/aurc</id>
+    <link href="https://github.com/Infinitybeond1/aurc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WIP: A fast simple gentoo inspired aur helper written in nim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
