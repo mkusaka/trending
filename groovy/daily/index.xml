@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:42:39Z</updated>
+  <updated>2022-07-12T01:44:35Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jenkins-infra/pipeline-library</title>
-    <updated>2022-07-11T01:42:39Z</updated>
-    <id>tag:github.com,2022-07-11:/jenkins-infra/pipeline-library</id>
-    <link href="https://github.com/jenkins-infra/pipeline-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of custom steps and variables for our Jenkins instance(s)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jenkinsci/nexus-platform-plugin</title>
-    <updated>2022-07-11T01:42:39Z</updated>
-    <id>tag:github.com,2022-07-11:/jenkinsci/nexus-platform-plugin</id>
-    <link href="https://github.com/jenkinsci/nexus-platform-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nexus Platform Plugin for Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hierynomus/license-gradle-plugin</title>
-    <updated>2022-07-11T01:42:39Z</updated>
-    <id>tag:github.com,2022-07-11:/hierynomus/license-gradle-plugin</id>
-    <link href="https://github.com/hierynomus/license-gradle-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage your license(s)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>spockframework/spock-example</title>
+    <updated>2022-07-12T01:44:35Z</updated>
+    <id>tag:github.com,2022-07-12:/spockframework/spock-example</id>
+    <link href="https://github.com/spockframework/spock-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spock example specifications along with ready-to-go Gradle and Maven builds&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

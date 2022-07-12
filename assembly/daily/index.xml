@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:34:26Z</updated>
+  <updated>2022-07-12T01:36:23Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Battelle/REpsych</title>
-    <updated>2022-07-11T01:34:26Z</updated>
-    <id>tag:github.com,2022-07-11:/Battelle/REpsych</id>
-    <link href="https://github.com/Battelle/REpsych" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Psychological warfare in reverse engineering&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

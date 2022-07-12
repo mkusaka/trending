@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:57:56Z</updated>
+  <updated>2022-07-12T02:00:40Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tomasiser/vim-code-dark</title>
-    <updated>2022-07-11T01:57:56Z</updated>
-    <id>tag:github.com,2022-07-11:/tomasiser/vim-code-dark</id>
-    <link href="https://github.com/tomasiser/vim-code-dark" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dark color scheme for Vim and vim-airline, inspired by Dark+ in Visual Studio Code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bluz71/vim-moonfly-colors</title>
-    <updated>2022-07-11T01:57:56Z</updated>
-    <id>tag:github.com,2022-07-11:/bluz71/vim-moonfly-colors</id>
-    <link href="https://github.com/bluz71/vim-moonfly-colors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dark color scheme for Vim &amp; Neovim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>preservim/vim-wordy</title>
+    <updated>2022-07-12T02:00:40Z</updated>
+    <id>tag:github.com,2022-07-12:/preservim/vim-wordy</id>
+    <link href="https://github.com/preservim/vim-wordy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uncover usage problems in your writing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

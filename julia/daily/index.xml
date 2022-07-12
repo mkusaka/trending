@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:44:51Z</updated>
+  <updated>2022-07-12T01:46:50Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/SciMLBase.jl</title>
-    <updated>2022-07-11T01:44:51Z</updated>
-    <id>tag:github.com,2022-07-11:/SciML/SciMLBase.jl</id>
-    <link href="https://github.com/SciML/SciMLBase.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Base interface of the SciML ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>caseykneale/VIMKiller</title>
-    <updated>2022-07-11T01:44:51Z</updated>
-    <id>tag:github.com,2022-07-11:/caseykneale/VIMKiller</id>
-    <link href="https://github.com/caseykneale/VIMKiller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exiting VIM is hard; sometimes we need to take drastic measures&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaReinforcementLearning/Brax.jl</title>
+    <updated>2022-07-12T01:46:50Z</updated>
+    <id>tag:github.com,2022-07-12:/JuliaReinforcementLearning/Brax.jl</id>
+    <link href="https://github.com/JuliaReinforcementLearning/Brax.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia wrapper for https://github.com/google/brax&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

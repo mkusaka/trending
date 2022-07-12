@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:34:12Z</updated>
+  <updated>2022-07-12T01:36:12Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>edk2-porting/edk2-msm8998</title>
-    <updated>2022-07-11T01:34:12Z</updated>
-    <id>tag:github.com,2022-07-11:/edk2-porting/edk2-msm8998</id>
-    <link href="https://github.com/edk2-porting/edk2-msm8998" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

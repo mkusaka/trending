@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:53:04Z</updated>
+  <updated>2022-07-12T01:55:36Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jchamberlainhome/My-Project-Management-Documents</title>
-    <updated>2022-07-11T01:53:04Z</updated>
-    <id>tag:github.com,2022-07-11:/jchamberlainhome/My-Project-Management-Documents</id>
-    <link href="https://github.com/jchamberlainhome/My-Project-Management-Documents" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a grouping of files I&#39;ve collected over the years. It may grow, it may shrink&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

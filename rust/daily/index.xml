@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:53:29Z</updated>
+  <updated>2022-07-12T01:56:01Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zesterer/chumsky</title>
-    <updated>2022-07-11T01:53:29Z</updated>
-    <id>tag:github.com,2022-07-11:/zesterer/chumsky</id>
-    <link href="https://github.com/zesterer/chumsky" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A parser library for humans with powerful error recovery.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>poem-web/poem</title>
+    <updated>2022-07-12T01:56:01Z</updated>
+    <id>tag:github.com,2022-07-12:/poem-web/poem</id>
+    <link href="https://github.com/poem-web/poem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A full-featured and easy-to-use web framework with the Rust programming language.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloud-hypervisor/cloud-hypervisor</title>
-    <updated>2022-07-11T01:53:29Z</updated>
-    <id>tag:github.com,2022-07-11:/cloud-hypervisor/cloud-hypervisor</id>
-    <link href="https://github.com/cloud-hypervisor/cloud-hypervisor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>http-rs/tide</title>
+    <updated>2022-07-12T01:56:01Z</updated>
+    <id>tag:github.com,2022-07-12:/http-rs/tide</id>
+    <link href="https://github.com/http-rs/tide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast and friendly HTTP server framework for async Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>starship/starship</title>
-    <updated>2022-07-11T01:53:29Z</updated>
-    <id>tag:github.com,2022-07-11:/starship/starship</id>
-    <link href="https://github.com/starship/starship" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HomelyGuy/dyer</title>
+    <updated>2022-07-12T01:56:01Z</updated>
+    <id>tag:github.com,2022-07-12:/HomelyGuy/dyer</id>
+    <link href="https://github.com/HomelyGuy/dyer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dyer is designed for reliable, flexible and fast web crawling, providing some high-level, comprehensive features without compromising speed.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

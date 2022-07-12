@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:59:34Z</updated>
+  <updated>2022-07-12T02:02:19Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oven-sh/bun</title>
-    <updated>2022-07-11T01:59:34Z</updated>
-    <id>tag:github.com,2022-07-11:/oven-sh/bun</id>
-    <link href="https://github.com/oven-sh/bun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hejsil/zig-clap</title>
+    <updated>2022-07-12T02:02:19Z</updated>
+    <id>tag:github.com,2022-07-12:/Hejsil/zig-clap</id>
+    <link href="https://github.com/Hejsil/zig-clap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple command line argument parsing library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nektro/zigmod</title>
-    <updated>2022-07-11T01:59:34Z</updated>
-    <id>tag:github.com,2022-07-11:/nektro/zigmod</id>
-    <link href="https://github.com/nektro/zigmod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📦 A package manager for the Zig programming language.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kdchambers/vkwayland</title>
-    <updated>2022-07-11T01:59:34Z</updated>
-    <id>tag:github.com,2022-07-11:/kdchambers/vkwayland</id>
-    <link href="https://github.com/kdchambers/vkwayland" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference application for Vulkan / Wayland&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darkr4y/OffensiveZig</title>
+    <updated>2022-07-12T02:02:19Z</updated>
+    <id>tag:github.com,2022-07-12:/darkr4y/OffensiveZig</id>
+    <link href="https://github.com/darkr4y/OffensiveZig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some attempts at using Zig(https://ziglang.org/) in penetration testing.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

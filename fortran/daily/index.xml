@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:40:48Z</updated>
+  <updated>2022-07-12T01:42:52Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>arjenmarkus/interpolation2d3d</title>
-    <updated>2022-07-11T01:40:48Z</updated>
-    <id>tag:github.com,2022-07-11:/arjenmarkus/interpolation2d3d</id>
-    <link href="https://github.com/arjenmarkus/interpolation2d3d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interpolation in 2D and 3D, object-oriented interfaces&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

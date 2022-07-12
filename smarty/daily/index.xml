@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:54:42Z</updated>
+  <updated>2022-07-12T01:57:21Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CheckPointSW/charts</title>
-    <updated>2022-07-11T01:54:42Z</updated>
-    <id>tag:github.com,2022-07-11:/CheckPointSW/charts</id>
-    <link href="https://github.com/CheckPointSW/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deploy Kubernetes Helm Charts for Check Point CloudGuard&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codeartx/awesome-kubernetes</title>
+    <updated>2022-07-12T01:57:21Z</updated>
+    <id>tag:github.com,2022-07-12:/codeartx/awesome-kubernetes</id>
+    <link href="https://github.com/codeartx/awesome-kubernetes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;面向 docker/kubernates 初学者的快速本地部署和测试 docker/k8s 各种功能特性...持续更新&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:54:57Z</updated>
+  <updated>2022-07-12T01:57:36Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Arachnid/solidity-stringutils</title>
+    <updated>2022-07-12T01:57:36Z</updated>
+    <id>tag:github.com,2022-07-12:/Arachnid/solidity-stringutils</id>
+    <link href="https://github.com/Arachnid/solidity-stringutils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic string utilities for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>morpho-labs/data-structures</title>
+    <updated>2022-07-12T01:57:36Z</updated>
+    <id>tag:github.com,2022-07-12:/morpho-labs/data-structures</id>
+    <link href="https://github.com/morpho-labs/data-structures" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contracts of data structures tested for the Morpho Protocol 🦋&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>argentlabs/argent-contracts</title>
+    <updated>2022-07-12T01:57:36Z</updated>
+    <id>tag:github.com,2022-07-12:/argentlabs/argent-contracts</id>
+    <link href="https://github.com/argentlabs/argent-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart Contracts for Argent Wallet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

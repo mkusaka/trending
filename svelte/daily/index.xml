@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:55:40Z</updated>
+  <updated>2022-07-12T01:58:20Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iptv-org/iptv-org.github.io</title>
-    <updated>2022-07-11T01:55:40Z</updated>
-    <id>tag:github.com,2022-07-11:/iptv-org/iptv-org.github.io</id>
-    <link href="https://github.com/iptv-org/iptv-org.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>muonw/powertable</title>
+    <updated>2022-07-12T01:58:20Z</updated>
+    <id>tag:github.com,2022-07-12:/muonw/powertable</id>
+    <link href="https://github.com/muonw/powertable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;▦ PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. Inspired by DataTables. Powered by Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

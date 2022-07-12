@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:54:04Z</updated>
+  <updated>2022-07-12T01:56:38Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IronWarrior/UnityToonShader</title>
+    <updated>2022-07-12T01:56:38Z</updated>
+    <id>tag:github.com,2022-07-12:/IronWarrior/UnityToonShader</id>
+    <link href="https://github.com/IronWarrior/UnityToonShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eangulee/UnityShader</title>
+    <updated>2022-07-12T01:56:38Z</updated>
+    <id>tag:github.com,2022-07-12:/eangulee/UnityShader</id>
+    <link href="https://github.com/eangulee/UnityShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unity Shader Demo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

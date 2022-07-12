@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:53:56Z</updated>
+  <updated>2022-07-12T01:56:30Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rabobank-cdc/DeTTECT</title>
-    <updated>2022-07-11T01:53:56Z</updated>
-    <id>tag:github.com,2022-07-11:/rabobank-cdc/DeTTECT</id>
-    <link href="https://github.com/rabobank-cdc/DeTTECT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Detect Tactics, Techniques &amp; Combat Threats&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StaticMania/roxo-hugo</title>
+    <updated>2022-07-12T01:56:30Z</updated>
+    <id>tag:github.com,2022-07-12:/StaticMania/roxo-hugo</id>
+    <link href="https://github.com/StaticMania/roxo-hugo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>asciidoctor/asciidoctor.org</title>
-    <updated>2022-07-11T01:53:56Z</updated>
-    <id>tag:github.com,2022-07-11:/asciidoctor/asciidoctor.org</id>
-    <link href="https://github.com/asciidoctor/asciidoctor.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌐 Asciidoctor project site. Composed in AsciiDoc. Baked with Awestruct.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>forever-inc/forever-style-guide</title>
+    <updated>2022-07-12T01:56:30Z</updated>
+    <id>tag:github.com,2022-07-12:/forever-inc/forever-style-guide</id>
+    <link href="https://github.com/forever-inc/forever-style-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FOREVER Style Guide&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sbryngelson/academic-website-template</title>
-    <updated>2022-07-11T01:53:56Z</updated>
-    <id>tag:github.com,2022-07-11:/sbryngelson/academic-website-template</id>
-    <link href="https://github.com/sbryngelson/academic-website-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jekyll website template for personal academic or research group web pages.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zutrinken/attila</title>
+    <updated>2022-07-12T01:56:30Z</updated>
+    <id>tag:github.com,2022-07-12:/zutrinken/attila</id>
+    <link href="https://github.com/zutrinken/attila" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ghost Theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

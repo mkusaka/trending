@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-11T01:38:39Z</updated>
+  <updated>2022-07-12T01:40:34Z</updated>
   <subtitle>Daily Trending of DM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sojourn-13/sojourn-station</title>
-    <updated>2022-07-11T01:38:39Z</updated>
-    <id>tag:github.com,2022-07-11:/sojourn-13/sojourn-station</id>
-    <link href="https://github.com/sojourn-13/sojourn-station" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
