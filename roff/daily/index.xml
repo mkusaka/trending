@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:55:45Z</updated>
+  <updated>2022-07-13T01:54:38Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NsCDE/NsCDE</title>
-    <updated>2022-07-12T01:55:45Z</updated>
-    <id>tag:github.com,2022-07-12:/NsCDE/NsCDE</id>
-    <link href="https://github.com/NsCDE/NsCDE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern and functional CDE desktop based on FVWM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vlang/tccbin</title>
-    <updated>2022-07-12T01:55:45Z</updated>
-    <id>tag:github.com,2022-07-12:/vlang/tccbin</id>
-    <link href="https://github.com/vlang/tccbin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xfg0218/greenplum--summarize</title>
+    <updated>2022-07-13T01:54:38Z</updated>
+    <id>tag:github.com,2022-07-13:/xfg0218/greenplum--summarize</id>
+    <link href="https://github.com/xfg0218/greenplum--summarize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;主要介绍作者使用过的Greenplum技术,欢迎大家交流&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

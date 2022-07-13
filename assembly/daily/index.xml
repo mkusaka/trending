@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:36:23Z</updated>
+  <updated>2022-07-13T01:36:02Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ogamespec/gc-ipl</title>
+    <updated>2022-07-13T01:36:02Z</updated>
+    <id>tag:github.com,2022-07-13:/ogamespec/gc-ipl</id>
+    <link href="https://github.com/ogamespec/gc-ipl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source Gamecube bootrom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Lameguy64/n00brom</title>
+    <updated>2022-07-13T01:36:02Z</updated>
+    <id>tag:github.com,2022-07-13:/Lameguy64/n00brom</id>
+    <link href="https://github.com/Lameguy64/n00brom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source Caetla equivalent for PS1 homebrew development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

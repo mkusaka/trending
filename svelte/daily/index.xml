@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:58:20Z</updated>
+  <updated>2022-07-13T01:57:13Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>muonw/powertable</title>
-    <updated>2022-07-12T01:58:20Z</updated>
-    <id>tag:github.com,2022-07-12:/muonw/powertable</id>
-    <link href="https://github.com/muonw/powertable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;▦ PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. Inspired by DataTables. Powered by Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hidayatullah94/webTorche</title>
+    <updated>2022-07-13T01:57:13Z</updated>
+    <id>tag:github.com,2022-07-13:/hidayatullah94/webTorche</id>
+    <link href="https://github.com/hidayatullah94/webTorche" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arma7x/svelte-telekram</title>
+    <updated>2022-07-13T01:57:13Z</updated>
+    <id>tag:github.com,2022-07-13:/arma7x/svelte-telekram</id>
+    <link href="https://github.com/arma7x/svelte-telekram" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Telegram client for KaiOS using Svelte and TypeScript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

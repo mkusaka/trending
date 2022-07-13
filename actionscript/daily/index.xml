@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:35:21Z</updated>
+  <updated>2022-07-13T01:35:03Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MindScriptAct/as3-utils</title>
+    <updated>2022-07-13T01:35:03Z</updated>
+    <id>tag:github.com,2022-07-13:/MindScriptAct/as3-utils</id>
+    <link href="https://github.com/MindScriptAct/as3-utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple xml-object converting tool. (with limited but simplified)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marianonieves/mimica</title>
+    <updated>2022-07-13T01:35:03Z</updated>
+    <id>tag:github.com,2022-07-13:/marianonieves/mimica</id>
+    <link href="https://github.com/marianonieves/mimica" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mobile application, it is an acting game in which one player acts out a word or phrase.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

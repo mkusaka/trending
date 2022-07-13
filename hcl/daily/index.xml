@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:44:57Z</updated>
+  <updated>2022-07-13T01:44:16Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>garutilorenzo/k8s-aws-terraform-cluster</title>
-    <updated>2022-07-12T01:44:57Z</updated>
-    <id>tag:github.com,2022-07-12:/garutilorenzo/k8s-aws-terraform-cluster</id>
-    <link href="https://github.com/garutilorenzo/k8s-aws-terraform-cluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deploy an high available Kubernetes (k8s) cluster on Amazon AWS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dubiety/terraform-aws-elasticsearch-cloudwatch-sns-alarms</title>
-    <updated>2022-07-12T01:44:57Z</updated>
-    <id>tag:github.com,2022-07-12:/dubiety/terraform-aws-elasticsearch-cloudwatch-sns-alarms</id>
-    <link href="https://github.com/dubiety/terraform-aws-elasticsearch-cloudwatch-sns-alarms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;terraform module that configures important alarms for AWS elasticsearch and send them to SNS topic&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/terraform-azurerm-vnet</title>
-    <updated>2022-07-12T01:44:57Z</updated>
-    <id>tag:github.com,2022-07-12:/Azure/terraform-azurerm-vnet</id>
-    <link href="https://github.com/Azure/terraform-azurerm-vnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to create/provision Azure vnet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>troy-ingram/week-24-project</title>
+    <updated>2022-07-13T01:44:16Z</updated>
+    <id>tag:github.com,2022-07-13:/troy-ingram/week-24-project</id>
+    <link href="https://github.com/troy-ingram/week-24-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

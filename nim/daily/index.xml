@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:50:55Z</updated>
+  <updated>2022-07-13T01:49:59Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PMunch/nimlsp</title>
-    <updated>2022-07-12T01:50:55Z</updated>
-    <id>tag:github.com,2022-07-12:/PMunch/nimlsp</id>
-    <link href="https://github.com/PMunch/nimlsp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Language Server Protocol implementation for Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/nim-chronicles</title>
-    <updated>2022-07-12T01:50:55Z</updated>
-    <id>tag:github.com,2022-07-12:/status-im/nim-chronicles</id>
-    <link href="https://github.com/status-im/nim-chronicles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A crafty implementation of structured logging for Nim.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

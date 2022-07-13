@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:46:50Z</updated>
+  <updated>2022-07-13T01:46:06Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaReinforcementLearning/Brax.jl</title>
-    <updated>2022-07-12T01:46:50Z</updated>
-    <id>tag:github.com,2022-07-12:/JuliaReinforcementLearning/Brax.jl</id>
-    <link href="https://github.com/JuliaReinforcementLearning/Brax.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia wrapper for https://github.com/google/brax&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LICO-labs/LinA.jl</title>
+    <updated>2022-07-13T01:46:06Z</updated>
+    <id>tag:github.com,2022-07-13:/LICO-labs/LinA.jl</id>
+    <link href="https://github.com/LICO-labs/LinA.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Optimal piecewise linear approximation package for the Julia programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

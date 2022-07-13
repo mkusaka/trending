@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:38:34Z</updated>
+  <updated>2022-07-13T01:38:06Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thheller/shadow-grove</title>
-    <updated>2022-07-12T01:38:34Z</updated>
-    <id>tag:github.com,2022-07-12:/thheller/shadow-grove</id>
-    <link href="https://github.com/thheller/shadow-grove" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A ClojureScript system to build browser based frontends&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/clj-bigpanda</title>
+    <updated>2022-07-13T01:38:06Z</updated>
+    <id>tag:github.com,2022-07-13:/nubank/clj-bigpanda</id>
+    <link href="https://github.com/nubank/clj-bigpanda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clojure library for BigPanda Alerts and Deployments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Roam-Research/roam-depot</title>
-    <updated>2022-07-12T01:38:34Z</updated>
-    <id>tag:github.com,2022-07-12:/Roam-Research/roam-depot</id>
-    <link href="https://github.com/Roam-Research/roam-depot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/docopt.clj</title>
+    <updated>2022-07-13T01:38:06Z</updated>
+    <id>tag:github.com,2022-07-13:/nubank/docopt.clj</id>
+    <link href="https://github.com/nubank/docopt.clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure implementation of the docopt description language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MokkeMeguru/spa_guide_sns_server</title>
-    <updated>2022-07-12T01:38:34Z</updated>
-    <id>tag:github.com,2022-07-12:/MokkeMeguru/spa_guide_sns_server</id>
-    <link href="https://github.com/MokkeMeguru/spa_guide_sns_server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/umschreiben-clj</title>
+    <updated>2022-07-13T01:38:06Z</updated>
+    <id>tag:github.com,2022-07-13:/nubank/umschreiben-clj</id>
+    <link href="https://github.com/nubank/umschreiben-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rewrite utilities for refactoring clojure files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

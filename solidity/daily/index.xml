@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:57:36Z</updated>
+  <updated>2022-07-13T01:56:31Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Arachnid/solidity-stringutils</title>
-    <updated>2022-07-12T01:57:36Z</updated>
-    <id>tag:github.com,2022-07-12:/Arachnid/solidity-stringutils</id>
-    <link href="https://github.com/Arachnid/solidity-stringutils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic string utilities for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jameswenzel/foundry-create2-deployer</title>
+    <updated>2022-07-13T01:56:31Z</updated>
+    <id>tag:github.com,2022-07-13:/jameswenzel/foundry-create2-deployer</id>
+    <link href="https://github.com/jameswenzel/foundry-create2-deployer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(WIP) Foundry scripting template for deploying contracts to deterministic addresses on any network&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>morpho-labs/data-structures</title>
-    <updated>2022-07-12T01:57:36Z</updated>
-    <id>tag:github.com,2022-07-12:/morpho-labs/data-structures</id>
-    <link href="https://github.com/morpho-labs/data-structures" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contracts of data structures tested for the Morpho Protocol 🦋&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>worldcoin/world-id-lens</title>
+    <updated>2022-07-13T01:56:31Z</updated>
+    <id>tag:github.com,2022-07-13:/worldcoin/world-id-lens</id>
+    <link href="https://github.com/worldcoin/world-id-lens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Human verification for Lens Protocol with World ID.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>argentlabs/argent-contracts</title>
-    <updated>2022-07-12T01:57:36Z</updated>
-    <id>tag:github.com,2022-07-12:/argentlabs/argent-contracts</id>
-    <link href="https://github.com/argentlabs/argent-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart Contracts for Argent Wallet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>z0r0z/zolidity</title>
+    <updated>2022-07-13T01:56:31Z</updated>
+    <id>tag:github.com,2022-07-13:/z0r0z/zolidity</id>
+    <link href="https://github.com/z0r0z/zolidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zero-fuss smart contracts. Experiments on Ethereum.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

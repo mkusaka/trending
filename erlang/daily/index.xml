@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:42:16Z</updated>
+  <updated>2022-07-13T01:41:39Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apache/couchdb-recon</title>
-    <updated>2022-07-12T01:42:16Z</updated>
-    <id>tag:github.com,2022-07-12:/apache/couchdb-recon</id>
-    <link href="https://github.com/apache/couchdb-recon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache CouchDB mirror of ferdrecon&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apache/couchdb-ibrowse</title>
-    <updated>2022-07-12T01:42:16Z</updated>
-    <id>tag:github.com,2022-07-12:/apache/couchdb-ibrowse</id>
-    <link href="https://github.com/apache/couchdb-ibrowse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of Apache CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

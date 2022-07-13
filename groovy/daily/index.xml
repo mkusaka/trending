@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:44:35Z</updated>
+  <updated>2022-07-13T01:43:55Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spockframework/spock-example</title>
-    <updated>2022-07-12T01:44:35Z</updated>
-    <id>tag:github.com,2022-07-12:/spockframework/spock-example</id>
-    <link href="https://github.com/spockframework/spock-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spock example specifications along with ready-to-go Gradle and Maven builds&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gdeltorno/Gina</title>
+    <updated>2022-07-13T01:43:55Z</updated>
+    <id>tag:github.com,2022-07-13:/gdeltorno/Gina</id>
+    <link href="https://github.com/gdeltorno/Gina" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;repositorioPrueba&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>compiledammit/sharp</title>
+    <updated>2022-07-13T01:43:55Z</updated>
+    <id>tag:github.com,2022-07-13:/compiledammit/sharp</id>
+    <link href="https://github.com/compiledammit/sharp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Where Todd&#39;s stuff goes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>edgexfoundry/edgex-global-pipelines</title>
+    <updated>2022-07-13T01:43:55Z</updated>
+    <id>tag:github.com,2022-07-13:/edgexfoundry/edgex-global-pipelines</id>
+    <link href="https://github.com/edgexfoundry/edgex-global-pipelines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Owner: DevOps WG&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

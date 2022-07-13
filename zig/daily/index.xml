@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T02:02:19Z</updated>
+  <updated>2022-07-13T02:01:06Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Hejsil/zig-clap</title>
-    <updated>2022-07-12T02:02:19Z</updated>
-    <id>tag:github.com,2022-07-12:/Hejsil/zig-clap</id>
-    <link href="https://github.com/Hejsil/zig-clap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple command line argument parsing library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>darkr4y/OffensiveZig</title>
-    <updated>2022-07-12T02:02:19Z</updated>
-    <id>tag:github.com,2022-07-12:/darkr4y/OffensiveZig</id>
-    <link href="https://github.com/darkr4y/OffensiveZig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some attempts at using Zig(https://ziglang.org/) in penetration testing.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

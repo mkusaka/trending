@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:49:02Z</updated>
+  <updated>2022-07-13T01:48:07Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Havoc-OS/android_system_sepolicy</title>
-    <updated>2022-07-12T01:49:02Z</updated>
-    <id>tag:github.com,2022-07-12:/Havoc-OS/android_system_sepolicy</id>
-    <link href="https://github.com/Havoc-OS/android_system_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GrapheneOS/platform_external_Apps</title>
-    <updated>2022-07-12T01:49:02Z</updated>
-    <id>tag:github.com,2022-07-12:/GrapheneOS/platform_external_Apps</id>
-    <link href="https://github.com/GrapheneOS/platform_external_Apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Flamingo-OS/device_qcom_vendor-common</title>
-    <updated>2022-07-12T01:49:02Z</updated>
-    <id>tag:github.com,2022-07-12:/Flamingo-OS/device_qcom_vendor-common</id>
-    <link href="https://github.com/Flamingo-OS/device_qcom_vendor-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darekasan/gc-sd-ipl-dumper</title>
+    <updated>2022-07-13T01:48:07Z</updated>
+    <id>tag:github.com,2022-07-13:/darekasan/gc-sd-ipl-dumper</id>
+    <link href="https://github.com/darekasan/gc-sd-ipl-dumper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dump GameCube IPL ROM to SD Card.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

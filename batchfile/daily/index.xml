@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-12T01:36:51Z</updated>
+  <updated>2022-07-13T01:36:25Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sukma80/W10_RDP</title>
+    <updated>2022-07-13T01:36:25Z</updated>
+    <id>tag:github.com,2022-07-13:/Sukma80/W10_RDP</id>
+    <link href="https://github.com/Sukma80/W10_RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Biadsab22/AviRDP</title>
+    <updated>2022-07-13T01:36:25Z</updated>
+    <id>tag:github.com,2022-07-13:/Biadsab22/AviRDP</id>
+    <link href="https://github.com/Biadsab22/AviRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
