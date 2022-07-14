@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:36:36Z</updated>
+  <updated>2022-07-14T01:34:45Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nehalineogi/azure-cross-solution-network-architectures</title>
-    <updated>2022-07-13T01:36:36Z</updated>
-    <id>tag:github.com,2022-07-13:/nehalineogi/azure-cross-solution-network-architectures</id>
-    <link href="https://github.com/nehalineogi/azure-cross-solution-network-architectures" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a repo of cross solution network designs with Azure PaaS and on-premise connectivity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure-Samples/todo-python-mongo-aca</title>
-    <updated>2022-07-13T01:36:36Z</updated>
-    <id>tag:github.com,2022-07-13:/Azure-Samples/todo-python-mongo-aca</id>
-    <link href="https://github.com/Azure-Samples/todo-python-mongo-aca" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A complete ToDo application that includes everything you need to build, deploy, and monitor an Azure solution using React.js for the Web application, Python (FastAPI) for the API, Azure Cosmos DB API for MongoDB for storage, and Azure Monitor for monitoring and logging.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/azure-dev</title>
-    <updated>2022-07-13T01:36:36Z</updated>
-    <id>tag:github.com,2022-07-13:/Azure/azure-dev</id>
-    <link href="https://github.com/Azure/azure-dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A developer CLI that accelerates the time it takes for you to get started on Azure. The Azure Developer CLI provides a set of developer-friendly commands that map to key stages in your workflow - code, build, deploy, monitor, repeat.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:34:33Z</updated>
+  <updated>2022-07-14T01:32:34Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PoaceaeTriticum/Exposure_HongSenlian</title>
-    <updated>2022-07-13T01:34:33Z</updated>
-    <id>tag:github.com,2022-07-13:/PoaceaeTriticum/Exposure_HongSenlian</id>
-    <link href="https://github.com/PoaceaeTriticum/Exposure_HongSenlian" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A database of violations of Hong Senlian, a researcher at Peking University School of Pharmacy.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devsuperior/sds-dsmeta</title>
+    <updated>2022-07-14T01:32:34Z</updated>
+    <id>tag:github.com,2022-07-14:/devsuperior/sds-dsmeta</id>
+    <link href="https://github.com/devsuperior/sds-dsmeta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Dimbreath/GenshinData</title>
-    <updated>2022-07-13T01:34:33Z</updated>
-    <id>tag:github.com,2022-07-13:/Dimbreath/GenshinData</id>
-    <link href="https://github.com/Dimbreath/GenshinData" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository containing the game data for the game Genshin Impact.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>afontcu/awesome-learning</title>
+    <updated>2022-07-14T01:32:34Z</updated>
+    <id>tag:github.com,2022-07-14:/afontcu/awesome-learning</id>
+    <link href="https://github.com/afontcu/awesome-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome learning material&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>riti2409/Resources-for-preparation-Of-Placements</title>
-    <updated>2022-07-13T01:34:33Z</updated>
-    <id>tag:github.com,2022-07-13:/riti2409/Resources-for-preparation-Of-Placements</id>
-    <link href="https://github.com/riti2409/Resources-for-preparation-Of-Placements" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lecture video links for preparation of Placements&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rod-trent/MustLearnKQL</title>
+    <updated>2022-07-14T01:32:34Z</updated>
+    <id>tag:github.com,2022-07-14:/rod-trent/MustLearnKQL</id>
+    <link href="https://github.com/rod-trent/MustLearnKQL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code included as part of the MustLearnKQL blog series&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

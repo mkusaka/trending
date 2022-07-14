@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:54:38Z</updated>
+  <updated>2022-07-14T01:53:17Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xfg0218/greenplum--summarize</title>
-    <updated>2022-07-13T01:54:38Z</updated>
-    <id>tag:github.com,2022-07-13:/xfg0218/greenplum--summarize</id>
-    <link href="https://github.com/xfg0218/greenplum--summarize" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;主要介绍作者使用过的Greenplum技术,欢迎大家交流&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WOA-Project/SurfaceDuo-Drivers</title>
+    <updated>2022-07-14T01:53:17Z</updated>
+    <id>tag:github.com,2022-07-14:/WOA-Project/SurfaceDuo-Drivers</id>
+    <link href="https://github.com/WOA-Project/SurfaceDuo-Drivers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of driver binaries for Surface Duo devices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

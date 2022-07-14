@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:53:51Z</updated>
+  <updated>2022-07-14T01:52:08Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nikomatsakis/a-mir-formality</title>
+    <updated>2022-07-14T01:52:08Z</updated>
+    <id>tag:github.com,2022-07-14:/nikomatsakis/a-mir-formality</id>
+    <link href="https://github.com/nikomatsakis/a-mir-formality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a PLT redex model of MIR and its type system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

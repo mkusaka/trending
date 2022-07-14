@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:58:30Z</updated>
+  <updated>2022-07-14T01:57:03Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis</title>
-    <updated>2022-07-13T01:58:30Z</updated>
-    <id>tag:github.com,2022-07-13:/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis</id>
-    <link href="https://github.com/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for files related to YouTube series on creating a Data Analyst Portoflio from scratch with SQL &amp; Power BI.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CodeYourFuture/syllabus-archive</title>
-    <updated>2022-07-13T01:58:30Z</updated>
-    <id>tag:github.com,2022-07-13:/CodeYourFuture/syllabus-archive</id>
-    <link href="https://github.com/CodeYourFuture/syllabus-archive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[ARCHIVED] Please use https://github.com/CodeYourFuture/syllabus&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/FHIR-Analytics-Pipelines</title>
+    <updated>2022-07-14T01:57:03Z</updated>
+    <id>tag:github.com,2022-07-14:/microsoft/FHIR-Analytics-Pipelines</id>
+    <link href="https://github.com/microsoft/FHIR-Analytics-Pipelines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

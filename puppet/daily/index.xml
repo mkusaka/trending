@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:53:00Z</updated>
+  <updated>2022-07-14T01:51:43Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mrzarquon/sneezingdog_dns</title>
-    <updated>2022-07-13T01:53:00Z</updated>
-    <id>tag:github.com,2022-07-13:/mrzarquon/sneezingdog_dns</id>
-    <link href="https://github.com/mrzarquon/sneezingdog_dns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;playing around with dns&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>voxpupuli/puppet-smokeping</title>
+    <updated>2022-07-14T01:51:43Z</updated>
+    <id>tag:github.com,2022-07-14:/voxpupuli/puppet-smokeping</id>
+    <link href="https://github.com/voxpupuli/puppet-smokeping" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to install and configure smokeping. Including target and slave definition&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>voxpupuli/puppet-borg</title>
+    <updated>2022-07-14T01:51:43Z</updated>
+    <id>tag:github.com,2022-07-14:/voxpupuli/puppet-borg</id>
+    <link href="https://github.com/voxpupuli/puppet-borg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to deploy borgbackup with helpful CLI wrappers for backup &amp; restore&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>voxpupuli/puppet-gitlab</title>
+    <updated>2022-07-14T01:51:43Z</updated>
+    <id>tag:github.com,2022-07-14:/voxpupuli/puppet-gitlab</id>
+    <link href="https://github.com/voxpupuli/puppet-gitlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to manage Gitlab (Omnibus)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

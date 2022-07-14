@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:41:05Z</updated>
+  <updated>2022-07-14T01:39:43Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ndreynolds/ratatouille</title>
+    <updated>2022-07-14T01:39:43Z</updated>
+    <id>tag:github.com,2022-07-14:/ndreynolds/ratatouille</id>
+    <link href="https://github.com/ndreynolds/ratatouille" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A TUI (terminal UI) kit for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bmitc/functional-web-development-with-elixir</title>
+    <updated>2022-07-14T01:39:43Z</updated>
+    <id>tag:github.com,2022-07-14:/bmitc/functional-web-development-with-elixir</id>
+    <link href="https://github.com/bmitc/functional-web-development-with-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>woylie/let_me</title>
+    <updated>2022-07-14T01:39:43Z</updated>
+    <id>tag:github.com,2022-07-14:/woylie/let_me</id>
+    <link href="https://github.com/woylie/let_me" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Authorization library for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

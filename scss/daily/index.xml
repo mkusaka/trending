@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:55:25Z</updated>
+  <updated>2022-07-14T01:54:06Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>decentraland/documentation</title>
-    <updated>2022-07-13T01:55:25Z</updated>
-    <id>tag:github.com,2022-07-13:/decentraland/documentation</id>
-    <link href="https://github.com/decentraland/documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📖 What is Decentraland?&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zyachel/quetre</title>
+    <updated>2022-07-14T01:54:06Z</updated>
+    <id>tag:github.com,2022-07-14:/zyachel/quetre</id>
+    <link href="https://github.com/zyachel/quetre" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A libre front-end for Quora&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gem5bootcamp/gem5-bootcamp-env</title>
+    <updated>2022-07-14T01:54:06Z</updated>
+    <id>tag:github.com,2022-07-14:/gem5bootcamp/gem5-bootcamp-env</id>
+    <link href="https://github.com/gem5bootcamp/gem5-bootcamp-env" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>droptica/droopler_project</title>
+    <updated>2022-07-14T01:54:06Z</updated>
+    <id>tag:github.com,2022-07-14:/droptica/droopler_project</id>
+    <link href="https://github.com/droptica/droopler_project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

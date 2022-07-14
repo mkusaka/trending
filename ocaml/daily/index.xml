@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:50:47Z</updated>
+  <updated>2022-07-14T01:49:24Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andrejbauer/plzoo</title>
-    <updated>2022-07-13T01:50:47Z</updated>
-    <id>tag:github.com,2022-07-13:/andrejbauer/plzoo</id>
-    <link href="https://github.com/andrejbauer/plzoo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programming Languages Zoo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deedy/Custom-Scheme-Interpreter</title>
+    <updated>2022-07-14T01:49:24Z</updated>
+    <id>tag:github.com,2022-07-14:/deedy/Custom-Scheme-Interpreter</id>
+    <link href="https://github.com/deedy/Custom-Scheme-Interpreter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A custom Scheme Interpreter designed in OCaml.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Deducteam/sttfaxport</title>
-    <updated>2022-07-13T01:50:47Z</updated>
-    <id>tag:github.com,2022-07-13:/Deducteam/sttfaxport</id>
-    <link href="https://github.com/Deducteam/sttfaxport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vincent-hugot/qtest</title>
+    <updated>2022-07-14T01:49:24Z</updated>
+    <id>tag:github.com,2022-07-14:/vincent-hugot/qtest</id>
+    <link href="https://github.com/vincent-hugot/qtest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Inline (Unit) Tests for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:44:16Z</updated>
+  <updated>2022-07-14T01:42:48Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>troy-ingram/week-24-project</title>
-    <updated>2022-07-13T01:44:16Z</updated>
-    <id>tag:github.com,2022-07-13:/troy-ingram/week-24-project</id>
-    <link href="https://github.com/troy-ingram/week-24-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/terraform-cidr-subnets</title>
+    <updated>2022-07-14T01:42:48Z</updated>
+    <id>tag:github.com,2022-07-14:/hashicorp/terraform-cidr-subnets</id>
+    <link href="https://github.com/hashicorp/terraform-cidr-subnets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform module for calculating subnet IP address prefixes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-documentdb-cluster</title>
+    <updated>2022-07-14T01:42:48Z</updated>
+    <id>tag:github.com,2022-07-14:/cloudposse/terraform-aws-documentdb-cluster</id>
+    <link href="https://github.com/cloudposse/terraform-aws-documentdb-cluster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision a DocumentDB cluster on AWS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nozaq/terraform-aws-secure-baseline</title>
+    <updated>2022-07-14T01:42:48Z</updated>
+    <id>tag:github.com,2022-07-14:/nozaq/terraform-aws-secure-baseline</id>
+    <link href="https://github.com/nozaq/terraform-aws-secure-baseline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AngelScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:35:24Z</updated>
+  <updated>2022-07-14T01:33:28Z</updated>
   <subtitle>Daily Trending of AngelScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fjqingyou/PotPlayer_Subtitle_Translate_Baidu</title>
-    <updated>2022-07-13T01:35:24Z</updated>
-    <id>tag:github.com,2022-07-13:/fjqingyou/PotPlayer_Subtitle_Translate_Baidu</id>
-    <link href="https://github.com/fjqingyou/PotPlayer_Subtitle_Translate_Baidu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PotPlayer 字幕在线翻译插件 - 百度平台&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:54:56Z</updated>
+  <updated>2022-07-14T01:53:34Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Qovery/Replibyte</title>
-    <updated>2022-07-13T01:54:56Z</updated>
-    <id>tag:github.com,2022-07-13:/Qovery/Replibyte</id>
-    <link href="https://github.com/Qovery/Replibyte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Seed your development database with real data ⚡️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/rustup</title>
+    <updated>2022-07-14T01:53:34Z</updated>
+    <id>tag:github.com,2022-07-14:/rust-lang/rustup</id>
+    <link href="https://github.com/rust-lang/rustup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rust toolchain installer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nitnelave/lldap</title>
-    <updated>2022-07-13T01:54:56Z</updated>
-    <id>tag:github.com,2022-07-13:/nitnelave/lldap</id>
-    <link href="https://github.com/nitnelave/lldap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Light LDAP implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jorgecarleitao/arrow2</title>
+    <updated>2022-07-14T01:53:34Z</updated>
+    <id>tag:github.com,2022-07-14:/jorgecarleitao/arrow2</id>
+    <link href="https://github.com/jorgecarleitao/arrow2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unofficial transmute-free Rust library to work with the Arrow format&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PhilipK/BoilR</title>
-    <updated>2022-07-13T01:54:56Z</updated>
-    <id>tag:github.com,2022-07-13:/PhilipK/BoilR</id>
-    <link href="https://github.com/PhilipK/BoilR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Synchronize games from other platforms into your Steam library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>move-language/move</title>
+    <updated>2022-07-14T01:53:34Z</updated>
+    <id>tag:github.com,2022-07-14:/move-language/move</id>
+    <link href="https://github.com/move-language/move" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

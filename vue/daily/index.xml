@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:59:42Z</updated>
+  <updated>2022-07-14T01:58:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>frappe/insights</title>
-    <updated>2022-07-13T01:59:42Z</updated>
-    <id>tag:github.com,2022-07-13:/frappe/insights</id>
-    <link href="https://github.com/frappe/insights" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free and Open Source Data Analytics Tool for your Frappe Apps&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kuari/RedFish</title>
+    <updated>2022-07-14T01:58:15Z</updated>
+    <id>tag:github.com,2022-07-14:/Kuari/RedFish</id>
+    <link href="https://github.com/Kuari/RedFish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lian-yue/vue-upload-component</title>
-    <updated>2022-07-13T01:59:42Z</updated>
-    <id>tag:github.com,2022-07-13:/lian-yue/vue-upload-component</id>
-    <link href="https://github.com/lian-yue/vue-upload-component" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue.js file upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory, Upload multiple files at the same time, html4 (IE 9), `PUT` method, Customize the filter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tokyo-metropolitan-gov/covid19</title>
+    <updated>2022-07-14T01:58:15Z</updated>
+    <id>tag:github.com,2022-07-14:/tokyo-metropolitan-gov/covid19</id>
+    <link href="https://github.com/tokyo-metropolitan-gov/covid19" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>statping/statping</title>
+    <updated>2022-07-14T01:58:15Z</updated>
+    <id>tag:github.com,2022-07-14:/statping/statping</id>
+    <link href="https://github.com/statping/statping" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

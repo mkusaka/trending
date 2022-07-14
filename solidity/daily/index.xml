@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:56:31Z</updated>
+  <updated>2022-07-14T01:55:10Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jameswenzel/foundry-create2-deployer</title>
-    <updated>2022-07-13T01:56:31Z</updated>
-    <id>tag:github.com,2022-07-13:/jameswenzel/foundry-create2-deployer</id>
-    <link href="https://github.com/jameswenzel/foundry-create2-deployer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(WIP) Foundry scripting template for deploying contracts to deterministic addresses on any network&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abigger87/protec</title>
+    <updated>2022-07-14T01:55:10Z</updated>
+    <id>tag:github.com,2022-07-14:/abigger87/protec</id>
+    <link href="https://github.com/abigger87/protec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Isolated Safe Environment to Execute Foundry Projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>worldcoin/world-id-lens</title>
-    <updated>2022-07-13T01:56:31Z</updated>
-    <id>tag:github.com,2022-07-13:/worldcoin/world-id-lens</id>
-    <link href="https://github.com/worldcoin/world-id-lens" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Human verification for Lens Protocol with World ID.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mangrovedao/mangrove</title>
+    <updated>2022-07-14T01:55:10Z</updated>
+    <id>tag:github.com,2022-07-14:/mangrovedao/mangrove</id>
+    <link href="https://github.com/mangrovedao/mangrove" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Development repository for Mangrove&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>z0r0z/zolidity</title>
-    <updated>2022-07-13T01:56:31Z</updated>
-    <id>tag:github.com,2022-07-13:/z0r0z/zolidity</id>
-    <link href="https://github.com/z0r0z/zolidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zero-fuss smart contracts. Experiments on Ethereum.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>studydefi/money-legos</title>
+    <updated>2022-07-14T01:55:10Z</updated>
+    <id>tag:github.com,2022-07-14:/studydefi/money-legos</id>
+    <link href="https://github.com/studydefi/money-legos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

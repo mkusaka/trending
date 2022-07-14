@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-13T01:48:07Z</updated>
+  <updated>2022-07-14T01:46:40Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>darekasan/gc-sd-ipl-dumper</title>
-    <updated>2022-07-13T01:48:07Z</updated>
-    <id>tag:github.com,2022-07-13:/darekasan/gc-sd-ipl-dumper</id>
-    <link href="https://github.com/darekasan/gc-sd-ipl-dumper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dump GameCube IPL ROM to SD Card.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gardener/alpine-iptables</title>
+    <updated>2022-07-14T01:46:40Z</updated>
+    <id>tag:github.com,2022-07-14:/gardener/alpine-iptables</id>
+    <link href="https://github.com/gardener/alpine-iptables" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alpine image with pre-installed iptables rules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mxe/mxe</title>
+    <updated>2022-07-14T01:46:40Z</updated>
+    <id>tag:github.com,2022-07-14:/mxe/mxe</id>
+    <link href="https://github.com/mxe/mxe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MXE (M cross environment)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
