@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:55:10Z</updated>
+  <updated>2022-07-15T01:54:36Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abigger87/protec</title>
-    <updated>2022-07-14T01:55:10Z</updated>
-    <id>tag:github.com,2022-07-14:/abigger87/protec</id>
-    <link href="https://github.com/abigger87/protec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Isolated Safe Environment to Execute Foundry Projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paulrberg/check-same-sign</title>
+    <updated>2022-07-15T01:54:36Z</updated>
+    <id>tag:github.com,2022-07-15:/paulrberg/check-same-sign</id>
+    <link href="https://github.com/paulrberg/check-same-sign" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gas golfing the most gas efficient way to check if two integers have the same sign in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mangrovedao/mangrove</title>
-    <updated>2022-07-14T01:55:10Z</updated>
-    <id>tag:github.com,2022-07-14:/mangrovedao/mangrove</id>
-    <link href="https://github.com/mangrovedao/mangrove" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Development repository for Mangrove&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zobront/xchain</title>
+    <updated>2022-07-15T01:54:36Z</updated>
+    <id>tag:github.com,2022-07-15:/zobront/xchain</id>
+    <link href="https://github.com/zobront/xchain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross chain call library for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>studydefi/money-legos</title>
-    <updated>2022-07-14T01:55:10Z</updated>
-    <id>tag:github.com,2022-07-14:/studydefi/money-legos</id>
-    <link href="https://github.com/studydefi/money-legos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2022-07-swivel</title>
+    <updated>2022-07-15T01:54:36Z</updated>
+    <id>tag:github.com,2022-07-15:/code-423n4/2022-07-swivel</id>
+    <link href="https://github.com/code-423n4/2022-07-swivel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

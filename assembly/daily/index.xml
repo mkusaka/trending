@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:34:10Z</updated>
+  <updated>2022-07-15T01:34:37Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KD-lab-Open-Source/VistaEngine</title>
+    <updated>2022-07-15T01:34:37Z</updated>
+    <id>tag:github.com,2022-07-15:/KD-lab-Open-Source/VistaEngine</id>
+    <link href="https://github.com/KD-lab-Open-Source/VistaEngine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LineageOS/android_bionic</title>
+    <updated>2022-07-15T01:34:37Z</updated>
+    <id>tag:github.com,2022-07-15:/LineageOS/android_bionic</id>
+    <link href="https://github.com/LineageOS/android_bionic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

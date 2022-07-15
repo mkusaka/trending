@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Latte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:45:33Z</updated>
+  <updated>2022-07-15T01:45:12Z</updated>
   <subtitle>Daily Trending of Latte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nette-examples/latte</title>
+    <updated>2022-07-15T01:45:12Z</updated>
+    <id>tag:github.com,2022-07-15:/nette-examples/latte</id>
+    <link href="https://github.com/nette-examples/latte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Latte Examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

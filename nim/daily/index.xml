@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:48:36Z</updated>
+  <updated>2022-07-15T01:48:07Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chvancooten/maldev-for-dummies</title>
+    <updated>2022-07-15T01:48:07Z</updated>
+    <id>tag:github.com,2022-07-15:/chvancooten/maldev-for-dummies</id>
+    <link href="https://github.com/chvancooten/maldev-for-dummies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A workshop about Malware Development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oXis/NimWinAPICustom</title>
+    <updated>2022-07-15T01:48:07Z</updated>
+    <id>tag:github.com,2022-07-15:/oXis/NimWinAPICustom</id>
+    <link href="https://github.com/oXis/NimWinAPICustom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resolve WinAPI func. Custom GetProcAddress and GetModuleHandle written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

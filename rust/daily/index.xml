@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:53:34Z</updated>
+  <updated>2022-07-15T01:53:09Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rust-lang/rustup</title>
-    <updated>2022-07-14T01:53:34Z</updated>
-    <id>tag:github.com,2022-07-14:/rust-lang/rustup</id>
-    <link href="https://github.com/rust-lang/rustup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Rust toolchain installer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cnosdb/cnosdb</title>
+    <updated>2022-07-15T01:53:09Z</updated>
+    <id>tag:github.com,2022-07-15:/cnosdb/cnosdb</id>
+    <link href="https://github.com/cnosdb/cnosdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jorgecarleitao/arrow2</title>
-    <updated>2022-07-14T01:53:34Z</updated>
-    <id>tag:github.com,2022-07-14:/jorgecarleitao/arrow2</id>
-    <link href="https://github.com/jorgecarleitao/arrow2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unofficial transmute-free Rust library to work with the Arrow format&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sharkdp/bat</title>
+    <updated>2022-07-15T01:53:09Z</updated>
+    <id>tag:github.com,2022-07-15:/sharkdp/bat</id>
+    <link href="https://github.com/sharkdp/bat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cat(1) clone with wings.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>move-language/move</title>
-    <updated>2022-07-14T01:53:34Z</updated>
-    <id>tag:github.com,2022-07-14:/move-language/move</id>
-    <link href="https://github.com/move-language/move" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>analysis-tools-dev/static-analysis</title>
+    <updated>2022-07-15T01:53:09Z</updated>
+    <id>tag:github.com,2022-07-15:/analysis-tools-dev/static-analysis</id>
+    <link href="https://github.com/analysis-tools-dev/static-analysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

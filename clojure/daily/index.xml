@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:36:26Z</updated>
+  <updated>2022-07-15T01:36:44Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jacobobryant/platypub</title>
-    <updated>2022-07-14T01:36:26Z</updated>
-    <id>tag:github.com,2022-07-14:/jacobobryant/platypub</id>
-    <link href="https://github.com/jacobobryant/platypub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A publishing platform built with Biff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mettlsa/Drugs</title>
+    <updated>2022-07-15T01:36:44Z</updated>
+    <id>tag:github.com,2022-07-15:/mettlsa/Drugs</id>
+    <link href="https://github.com/mettlsa/Drugs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A solution to the 0 1 bag mathematical problem using Closure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>juxt/reap</title>
-    <updated>2022-07-14T01:36:26Z</updated>
-    <id>tag:github.com,2022-07-14:/juxt/reap</id>
-    <link href="https://github.com/juxt/reap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure library for decoding and encoding strings used by web protocols.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>juxt/jinx</title>
-    <updated>2022-07-14T01:36:26Z</updated>
-    <id>tag:github.com,2022-07-14:/juxt/jinx</id>
-    <link href="https://github.com/juxt/jinx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;jinx is not xml-schema (it&#39;s json-schema!)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>puppetlabs/dujour-version-check</title>
+    <updated>2022-07-15T01:36:44Z</updated>
+    <id>tag:github.com,2022-07-15:/puppetlabs/dujour-version-check</id>
+    <link href="https://github.com/puppetlabs/dujour-version-check" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:42:48Z</updated>
+  <updated>2022-07-15T01:42:37Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hashicorp/terraform-cidr-subnets</title>
-    <updated>2022-07-14T01:42:48Z</updated>
-    <id>tag:github.com,2022-07-14:/hashicorp/terraform-cidr-subnets</id>
-    <link href="https://github.com/hashicorp/terraform-cidr-subnets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform module for calculating subnet IP address prefixes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devopsacademyau/academy</title>
+    <updated>2022-07-15T01:42:37Z</updated>
+    <id>tag:github.com,2022-07-15:/devopsacademyau/academy</id>
+    <link href="https://github.com/devopsacademyau/academy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps content, classes and exercises&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-aws-documentdb-cluster</title>
-    <updated>2022-07-14T01:42:48Z</updated>
-    <id>tag:github.com,2022-07-14:/cloudposse/terraform-aws-documentdb-cluster</id>
-    <link href="https://github.com/cloudposse/terraform-aws-documentdb-cluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision a DocumentDB cluster on AWS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-ecs-codepipeline</title>
+    <updated>2022-07-15T01:42:37Z</updated>
+    <id>tag:github.com,2022-07-15:/cloudposse/terraform-aws-ecs-codepipeline</id>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-codepipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module for CI/CD with AWS Code Pipeline and Code Build for ECS https://cloudposse.com/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nozaq/terraform-aws-secure-baseline</title>
-    <updated>2022-07-14T01:42:48Z</updated>
-    <id>tag:github.com,2022-07-14:/nozaq/terraform-aws-secure-baseline</id>
-    <link href="https://github.com/nozaq/terraform-aws-secure-baseline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/tfc-workshops-sentinel</title>
+    <updated>2022-07-15T01:42:37Z</updated>
+    <id>tag:github.com,2022-07-15:/hashicorp/tfc-workshops-sentinel</id>
+    <link href="https://github.com/hashicorp/tfc-workshops-sentinel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sentinel policies for use in pre-sales workshops: https://hashicorp.github.io/workshops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

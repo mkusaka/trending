@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-15T01:38:45Z</updated>
+  <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tiagoad/suicide-linux</title>
+    <updated>2022-07-15T01:38:45Z</updated>
+    <id>tag:github.com,2022-07-15:/tiagoad/suicide-linux</id>
+    <link href="https://github.com/tiagoad/suicide-linux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;@qntm&#39;s Suicide Linux, now available on Docker!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Suicide Linux&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://qntm.org/suicide&#34;&gt;Suicide Linux&lt;/a&gt; is now available from the comfort of Docker!&lt;/p&gt; &#xA;&lt;p&gt;With a single command, an instance of &lt;em&gt;Suicide Stretch&lt;/em&gt; will be downloaded and booted up, for all your suicidal needs.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;You know how sometimes if you mistype a filename in Bash, it corrects your spelling and runs the command anyway? Such as when changing directory, or opening a file.&lt;/p&gt; &#xA; &lt;p&gt;I have invented Suicide Linux. Any time - any time - you type any remotely incorrect command, the interpreter creatively resolves it into rm -rf / and wipes your hard drive.&lt;/p&gt; &#xA; &lt;p&gt;It&#39;s a game. Like walking a tightrope. You have to see how long you can continue to use the operating system before losing all your data.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;-- &lt;a href=&#34;https://qntm.org/suicide&#34;&gt;https://qntm.org/suicide&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/tiagoad/suicide-linux/master/screenshot.png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Running&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker run --rm -it -t tiagoad/suicide-linux&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>a2nk/xrdp</title>
+    <updated>2022-07-15T01:38:45Z</updated>
+    <id>tag:github.com,2022-07-15:/a2nk/xrdp</id>
+    <link href="https://github.com/a2nk/xrdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Copy + Paste this git repositories to get Free XRDP Browser (lxde-vnc) on Okteto Cloud: https://github.com/a2nk/xrdp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;lxde-vnc&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Copy + Paste this git repositories to get Free XRDP Browser (lxde-vnc) on Okteto Cloud:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://github.com/a2nk/xrdp&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;How to use-&amp;gt; &lt;a href=&#34;https://aank.me/Youtube&#34;&gt;https://aank.me/Youtube&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>especializati/setup-docker-laravel</title>
+    <updated>2022-07-15T01:38:45Z</updated>
+    <id>tag:github.com,2022-07-15:/especializati/setup-docker-laravel</id>
+    <link href="https://github.com/especializati/setup-docker-laravel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Setup Docker Laravel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Setup Docker Para Projetos Laravel (8 ou 9)&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://academy.especializati.com.br&#34;&gt;Assine a Academy, e Seja VIP!&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Passo a passo&lt;/h3&gt; &#xA;&lt;p&gt;Clone Repositório&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;git clone https://github.com/especializati/setup-docker-laravel.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Clone os Arquivos do Laravel&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;git clone https://github.com/laravel/laravel.git app-laravel&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Copie os arquivos docker-compose.yml, Dockerfile e o diretório docker/ para o seu projeto&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;cp -rf setup-docker-laravel/* app-laravel/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;cd app-laravel/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Crie o Arquivo .env&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;cp .env.example .env&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Atualize as variáveis de ambiente do arquivo .env&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-dosini&#34;&gt;APP_NAME=EspecializaTi&#xA;APP_URL=http://localhost:8989&#xA;&#xA;DB_CONNECTION=mysql&#xA;DB_HOST=mysql&#xA;DB_PORT=3306&#xA;DB_DATABASE=nome_que_desejar_db&#xA;DB_USERNAME=nome_usuario&#xA;DB_PASSWORD=senha_aqui&#xA;&#xA;CACHE_DRIVER=redis&#xA;QUEUE_CONNECTION=redis&#xA;SESSION_DRIVER=redis&#xA;&#xA;REDIS_HOST=redis&#xA;REDIS_PASSWORD=null&#xA;REDIS_PORT=6379&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Suba os containers do projeto&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;docker-compose up -d&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Acessar o container&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;docker-compose exec app bash&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Instalar as dependências do projeto&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;composer install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Gerar a key do projeto Laravel&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;php artisan key:generate&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Acessar o projeto &lt;a href=&#34;http://localhost:8989&#34;&gt;http://localhost:8989&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

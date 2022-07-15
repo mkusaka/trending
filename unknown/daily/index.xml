@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:32:34Z</updated>
+  <updated>2022-07-15T01:33:09Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devsuperior/sds-dsmeta</title>
-    <updated>2022-07-14T01:32:34Z</updated>
-    <id>tag:github.com,2022-07-14:/devsuperior/sds-dsmeta</id>
-    <link href="https://github.com/devsuperior/sds-dsmeta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CS-BAOYAN/CSYuTuiMian2022</title>
+    <updated>2022-07-15T01:33:09Z</updated>
+    <id>tag:github.com,2022-07-15:/CS-BAOYAN/CSYuTuiMian2022</id>
+    <link href="https://github.com/CS-BAOYAN/CSYuTuiMian2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;关于2022年CS保研预推免通知公告的汇总，欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>afontcu/awesome-learning</title>
-    <updated>2022-07-14T01:32:34Z</updated>
-    <id>tag:github.com,2022-07-14:/afontcu/awesome-learning</id>
-    <link href="https://github.com/afontcu/awesome-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome learning material&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jlevy/the-art-of-command-line</title>
+    <updated>2022-07-15T01:33:09Z</updated>
+    <id>tag:github.com,2022-07-15:/jlevy/the-art-of-command-line</id>
+    <link href="https://github.com/jlevy/the-art-of-command-line" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Master the command line, in one page&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rod-trent/MustLearnKQL</title>
-    <updated>2022-07-14T01:32:34Z</updated>
-    <id>tag:github.com,2022-07-14:/rod-trent/MustLearnKQL</id>
-    <link href="https://github.com/rod-trent/MustLearnKQL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code included as part of the MustLearnKQL blog series&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>python-engineer/ml-study-plan</title>
+    <updated>2022-07-15T01:33:09Z</updated>
+    <id>tag:github.com,2022-07-15:/python-engineer/ml-study-plan</id>
+    <link href="https://github.com/python-engineer/ml-study-plan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Ultimate FREE Machine Learning Study Plan&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

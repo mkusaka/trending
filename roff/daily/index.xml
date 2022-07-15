@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:53:17Z</updated>
+  <updated>2022-07-15T01:52:46Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WOA-Project/SurfaceDuo-Drivers</title>
-    <updated>2022-07-14T01:53:17Z</updated>
-    <id>tag:github.com,2022-07-14:/WOA-Project/SurfaceDuo-Drivers</id>
-    <link href="https://github.com/WOA-Project/SurfaceDuo-Drivers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of driver binaries for Surface Duo devices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

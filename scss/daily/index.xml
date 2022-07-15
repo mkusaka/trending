@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:54:06Z</updated>
+  <updated>2022-07-15T01:53:38Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zyachel/quetre</title>
-    <updated>2022-07-14T01:54:06Z</updated>
-    <id>tag:github.com,2022-07-14:/zyachel/quetre</id>
-    <link href="https://github.com/zyachel/quetre" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A libre front-end for Quora&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mate-academy/js_2048_game</title>
+    <updated>2022-07-15T01:53:38Z</updated>
+    <id>tag:github.com,2022-07-15:/mate-academy/js_2048_game</id>
+    <link href="https://github.com/mate-academy/js_2048_game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JS Advanced task. Create a 2048 game.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gem5bootcamp/gem5-bootcamp-env</title>
-    <updated>2022-07-14T01:54:06Z</updated>
-    <id>tag:github.com,2022-07-14:/gem5bootcamp/gem5-bootcamp-env</id>
-    <link href="https://github.com/gem5bootcamp/gem5-bootcamp-env" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nrandecker/particle</title>
+    <updated>2022-07-15T01:53:38Z</updated>
+    <id>tag:github.com,2022-07-15:/nrandecker/particle</id>
+    <link href="https://github.com/nrandecker/particle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple portfolio Jekyll theme:&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>droptica/droopler_project</title>
-    <updated>2022-07-14T01:54:06Z</updated>
-    <id>tag:github.com,2022-07-14:/droptica/droopler_project</id>
-    <link href="https://github.com/droptica/droopler_project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>daviddarnes/alembic</title>
+    <updated>2022-07-15T01:53:38Z</updated>
+    <id>tag:github.com,2022-07-15:/daviddarnes/alembic</id>
+    <link href="https://github.com/daviddarnes/alembic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

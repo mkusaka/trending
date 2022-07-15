@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:50:09Z</updated>
+  <updated>2022-07-15T01:49:46Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ArtemIzmaylov/ACL</title>
+    <updated>2022-07-15T01:49:46Z</updated>
+    <id>tag:github.com,2022-07-15:/ArtemIzmaylov/ACL</id>
+    <link href="https://github.com/ArtemIzmaylov/ACL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ACL is library of classes, components and visual controls for Delphi.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IndySockets/Indy</title>
+    <updated>2022-07-15T01:49:46Z</updated>
+    <id>tag:github.com,2022-07-15:/IndySockets/Indy</id>
+    <link href="https://github.com/IndySockets/Indy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Indy - Internet Direct&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

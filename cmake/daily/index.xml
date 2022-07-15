@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:36:36Z</updated>
+  <updated>2022-07-15T01:36:54Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>qt/qttranslations</title>
-    <updated>2022-07-14T01:36:36Z</updated>
-    <id>tag:github.com,2022-07-14:/qt/qttranslations</id>
-    <link href="https://github.com/qt/qttranslations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Qt Translations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ros2/yaml_cpp_vendor</title>
+    <updated>2022-07-15T01:36:54Z</updated>
+    <id>tag:github.com,2022-07-15:/ros2/yaml_cpp_vendor</id>
+    <link href="https://github.com/ros2/yaml_cpp_vendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vendor package for providing yaml cpp within a cmake package&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ros2/rosidl_defaults</title>
+    <updated>2022-07-15T01:36:54Z</updated>
+    <id>tag:github.com,2022-07-15:/ros2/rosidl_defaults</id>
+    <link href="https://github.com/ros2/rosidl_defaults" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Default rosidl runtime and generators.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ament/uncrustify_vendor</title>
+    <updated>2022-07-15T01:36:54Z</updated>
+    <id>tag:github.com,2022-07-15:/ament/uncrustify_vendor</id>
+    <link href="https://github.com/ament/uncrustify_vendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake shim over the uncrustify library: https://github.com/uncrustify/uncrustify&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

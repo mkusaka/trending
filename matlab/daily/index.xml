@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:46:58Z</updated>
+  <updated>2022-07-15T01:46:38Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>odedstein/sgi-introduction-course</title>
-    <updated>2022-07-14T01:46:58Z</updated>
-    <id>tag:github.com,2022-07-14:/odedstein/sgi-introduction-course</id>
-    <link href="https://github.com/odedstein/sgi-introduction-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A course for getting started with geometry processing using MATLAB and gptoolbox&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PyojinKim/Sensors-Data-Logger</title>
+    <updated>2022-07-15T01:46:38Z</updated>
+    <id>tag:github.com,2022-07-15:/PyojinKim/Sensors-Data-Logger</id>
+    <link href="https://github.com/PyojinKim/Sensors-Data-Logger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Android app to save IMU &amp; WiFi data (accelerometer, gyroscope, magnetometer) to a series of text files for offline use.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

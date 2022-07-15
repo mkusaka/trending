@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:34:37Z</updated>
+  <updated>2022-07-15T01:35:02Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Harchanel15/RDP-BULAN-JULY-BY-HAR-CHANEL</title>
-    <updated>2022-07-14T01:34:37Z</updated>
-    <id>tag:github.com,2022-07-14:/Harchanel15/RDP-BULAN-JULY-BY-HAR-CHANEL</id>
-    <link href="https://github.com/Harchanel15/RDP-BULAN-JULY-BY-HAR-CHANEL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gunakan sebaik mungkin dan jangan lupa subscribe Channel Har Chanel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mdsecactivebreach/RDPInception</title>
+    <updated>2022-07-15T01:35:02Z</updated>
+    <id>tag:github.com,2022-07-15:/mdsecactivebreach/RDPInception</id>
+    <link href="https://github.com/mdsecactivebreach/RDPInception" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A proof of concept for the RDP Inception Attack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SAFOOOO/rdpfree</title>
+    <updated>2022-07-15T01:35:02Z</updated>
+    <id>tag:github.com,2022-07-15:/SAFOOOO/rdpfree</id>
+    <link href="https://github.com/SAFOOOO/rdpfree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

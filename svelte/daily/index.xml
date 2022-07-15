@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:55:52Z</updated>
+  <updated>2022-07-15T01:55:17Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rohitpotato/svelte-command-palette</title>
-    <updated>2022-07-14T01:55:52Z</updated>
-    <id>tag:github.com,2022-07-14:/rohitpotato/svelte-command-palette</id>
-    <link href="https://github.com/rohitpotato/svelte-command-palette" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple command palette for svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hertg/lightdm-neon</title>
-    <updated>2022-07-14T01:55:52Z</updated>
-    <id>tag:github.com,2022-07-14:/hertg/lightdm-neon</id>
-    <link href="https://github.com/hertg/lightdm-neon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎨 A customizable theme for web-greeter in a nostalgic but modern neon look&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

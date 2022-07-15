@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:57:03Z</updated>
+  <updated>2022-07-15T01:56:28Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/FHIR-Analytics-Pipelines</title>
-    <updated>2022-07-14T01:57:03Z</updated>
-    <id>tag:github.com,2022-07-14:/microsoft/FHIR-Analytics-Pipelines</id>
-    <link href="https://github.com/microsoft/FHIR-Analytics-Pipelines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ta-data-lis/lab-mysql-select</title>
+    <updated>2022-07-15T01:56:28Z</updated>
+    <id>tag:github.com,2022-07-15:/ta-data-lis/lab-mysql-select</id>
+    <link href="https://github.com/ta-data-lis/lab-mysql-select" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support Lab for the SQL class in Ironhack Data Analytics Bootcamp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

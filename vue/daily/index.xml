@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:58:15Z</updated>
+  <updated>2022-07-15T01:57:43Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kuari/RedFish</title>
-    <updated>2022-07-14T01:58:15Z</updated>
-    <id>tag:github.com,2022-07-14:/Kuari/RedFish</id>
-    <link href="https://github.com/Kuari/RedFish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌈A convenient, cross-platform, and content-focused redis GUI client. Maybe you will like it.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>airyland/vux</title>
+    <updated>2022-07-15T01:57:43Z</updated>
+    <id>tag:github.com,2022-07-15:/airyland/vux</id>
+    <link href="https://github.com/airyland/vux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mobile UI Components based on Vue &amp; WeUI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tokyo-metropolitan-gov/covid19</title>
-    <updated>2022-07-14T01:58:15Z</updated>
-    <id>tag:github.com,2022-07-14:/tokyo-metropolitan-gov/covid19</id>
-    <link href="https://github.com/tokyo-metropolitan-gov/covid19" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;東京都 新型コロナウイルス感染症対策サイト / Tokyo COVID-19 Task Force website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>statping/statping</title>
-    <updated>2022-07-14T01:58:15Z</updated>
-    <id>tag:github.com,2022-07-14:/statping/statping</id>
-    <link href="https://github.com/statping/statping" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins. Run on any type of environment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ltv/argon-dashboard-vue3</title>
+    <updated>2022-07-15T01:57:43Z</updated>
+    <id>tag:github.com,2022-07-15:/ltv/argon-dashboard-vue3</id>
+    <link href="https://github.com/ltv/argon-dashboard-vue3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Argon Dashboard Vue 3, Element Plus &amp; TaildwindCSS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

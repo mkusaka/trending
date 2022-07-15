@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-14T01:54:13Z</updated>
+  <updated>2022-07-15T01:53:44Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Dawnosaur/platformer-movement</title>
-    <updated>2022-07-14T01:54:13Z</updated>
-    <id>tag:github.com,2022-07-14:/Dawnosaur/platformer-movement</id>
-    <link href="https://github.com/Dawnosaur/platformer-movement" rel="alternate"></link>
+    <title>TitanKraken/Tarikh-al-Islam-Bookmarks-TIB</title>
+    <updated>2022-07-15T01:53:44Z</updated>
+    <id>tag:github.com,2022-07-15:/TitanKraken/Tarikh-al-Islam-Bookmarks-TIB</id>
+    <link href="https://github.com/TitanKraken/Tarikh-al-Islam-Bookmarks-TIB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A GitHub for TIB, mod for Crusader Kings III&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Superbia00/Game-development-practiceV2</title>
+    <updated>2022-07-15T01:53:44Z</updated>
+    <id>tag:github.com,2022-07-15:/Superbia00/Game-development-practiceV2</id>
+    <link href="https://github.com/Superbia00/Game-development-practiceV2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
