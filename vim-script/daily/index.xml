@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:57:33Z</updated>
+  <updated>2022-07-16T01:57:54Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ccreid/vimfiles</title>
-    <updated>2022-07-15T01:57:33Z</updated>
-    <id>tag:github.com,2022-07-15:/ccreid/vimfiles</id>
-    <link href="https://github.com/ccreid/vimfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/tumblr.vim--Curry</title>
+    <updated>2022-07-16T01:57:54Z</updated>
+    <id>tag:github.com,2022-07-16:/vim-scripts/tumblr.vim--Curry</id>
+    <link href="https://github.com/vim-scripts/tumblr.vim--Curry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syntax highlighting for Tumblr themes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jlebar/conf</title>
-    <updated>2022-07-15T01:57:33Z</updated>
-    <id>tag:github.com,2022-07-15:/jlebar/conf</id>
-    <link href="https://github.com/jlebar/conf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My config directory; contains rcfiles, tools, sub-repositories, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>spf13/spf13-vim</title>
+    <updated>2022-07-16T01:57:54Z</updated>
+    <id>tag:github.com,2022-07-16:/spf13/spf13-vim</id>
+    <link href="https://github.com/spf13/spf13-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate vim distribution&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>danchoi/pager_mode.vim</title>
-    <updated>2022-07-15T01:57:33Z</updated>
-    <id>tag:github.com,2022-07-15:/danchoi/pager_mode.vim</id>
-    <link href="https://github.com/danchoi/pager_mode.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;toggle on and off less-style paging key-bindings in Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/very-monochrome-grey-theme</title>
+    <updated>2022-07-16T01:57:54Z</updated>
+    <id>tag:github.com,2022-07-16:/vim-scripts/very-monochrome-grey-theme</id>
+    <link href="https://github.com/vim-scripts/very-monochrome-grey-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grey color sheme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:46:20Z</updated>
+  <updated>2022-07-16T01:46:30Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>instill-ai/vdp</title>
-    <updated>2022-07-15T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-15:/instill-ai/vdp</id>
-    <link href="https://github.com/instill-ai/vdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💧 Visual Data Preparation (VDP) is an open-source tool to seamlessly integrate Vision AI with the modern data stack&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>python/devguide</title>
-    <updated>2022-07-15T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-15:/python/devguide</id>
-    <link href="https://github.com/python/devguide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Python developer&#39;s guide&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>etalab/udata-event-consumer</title>
-    <updated>2022-07-15T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-15:/etalab/udata-event-consumer</id>
-    <link href="https://github.com/etalab/udata-event-consumer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A udata plugin to consume kafka events&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CodyReichert/awesome-cl</title>
+    <updated>2022-07-16T01:46:30Z</updated>
+    <id>tag:github.com,2022-07-16:/CodyReichert/awesome-cl</id>
+    <link href="https://github.com/CodyReichert/awesome-cl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

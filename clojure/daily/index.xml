@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:36:44Z</updated>
+  <updated>2022-07-16T01:36:43Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mettlsa/Drugs</title>
-    <updated>2022-07-15T01:36:44Z</updated>
-    <id>tag:github.com,2022-07-15:/mettlsa/Drugs</id>
-    <link href="https://github.com/mettlsa/Drugs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A solution to the 0 1 bag mathematical problem using Closure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/workspaces</title>
+    <updated>2022-07-16T01:36:43Z</updated>
+    <id>tag:github.com,2022-07-16:/nubank/workspaces</id>
+    <link href="https://github.com/nubank/workspaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Live development environment for Clojurescript&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>puppetlabs/dujour-version-check</title>
-    <updated>2022-07-15T01:36:44Z</updated>
-    <id>tag:github.com,2022-07-15:/puppetlabs/dujour-version-check</id>
-    <link href="https://github.com/puppetlabs/dujour-version-check" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubank/matcher-combinators</title>
+    <updated>2022-07-16T01:36:43Z</updated>
+    <id>tag:github.com,2022-07-16:/nubank/matcher-combinators</id>
+    <link href="https://github.com/nubank/matcher-combinators" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for creating matcher combinator to compare nested data structures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/k8s-api</title>
+    <updated>2022-07-16T01:36:43Z</updated>
+    <id>tag:github.com,2022-07-16:/nubank/k8s-api</id>
+    <link href="https://github.com/nubank/k8s-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kubernetes client, data driven&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

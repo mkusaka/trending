@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:33:09Z</updated>
+  <updated>2022-07-16T01:32:57Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CS-BAOYAN/CSYuTuiMian2022</title>
-    <updated>2022-07-15T01:33:09Z</updated>
-    <id>tag:github.com,2022-07-15:/CS-BAOYAN/CSYuTuiMian2022</id>
-    <link href="https://github.com/CS-BAOYAN/CSYuTuiMian2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;关于2022年CS保研预推免通知公告的汇总，欢迎大家积极分享预推免信息，资瓷一下互联网精神吼不吼啊？&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shengcaishizhan/kkndme_tianya</title>
+    <updated>2022-07-16T01:32:57Z</updated>
+    <id>tag:github.com,2022-07-16:/shengcaishizhan/kkndme_tianya</id>
+    <link href="https://github.com/shengcaishizhan/kkndme_tianya" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;天涯 kkndme 神贴聊房价&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jlevy/the-art-of-command-line</title>
-    <updated>2022-07-15T01:33:09Z</updated>
-    <id>tag:github.com,2022-07-15:/jlevy/the-art-of-command-line</id>
-    <link href="https://github.com/jlevy/the-art-of-command-line" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Master the command line, in one page&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vasanthk/how-web-works</title>
+    <updated>2022-07-16T01:32:57Z</updated>
+    <id>tag:github.com,2022-07-16:/vasanthk/how-web-works</id>
+    <link href="https://github.com/vasanthk/how-web-works" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;What happens behind the scenes when we type www.google.com in a browser?&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>python-engineer/ml-study-plan</title>
-    <updated>2022-07-15T01:33:09Z</updated>
-    <id>tag:github.com,2022-07-15:/python-engineer/ml-study-plan</id>
-    <link href="https://github.com/python-engineer/ml-study-plan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Ultimate FREE Machine Learning Study Plan&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>996icu/996.ICU</title>
+    <updated>2022-07-16T01:32:57Z</updated>
+    <id>tag:github.com,2022-07-16:/996icu/996.ICU</id>
+    <link href="https://github.com/996icu/996.ICU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo for counting stars and contributing. Press F to pay respect to glorious developers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Chapel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:36:18Z</updated>
+  <updated>2022-07-16T01:36:17Z</updated>
   <subtitle>Daily Trending of Chapel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mhmerrill/LisExpr</title>
+    <updated>2022-07-16T01:36:17Z</updated>
+    <id>tag:github.com,2022-07-16:/mhmerrill/LisExpr</id>
+    <link href="https://github.com/mhmerrill/LisExpr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mike&#39;s version of a simple Lisp interpreter written in Chapel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

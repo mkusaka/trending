@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:46:38Z</updated>
+  <updated>2022-07-16T01:46:49Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PyojinKim/Sensors-Data-Logger</title>
-    <updated>2022-07-15T01:46:38Z</updated>
-    <id>tag:github.com,2022-07-15:/PyojinKim/Sensors-Data-Logger</id>
-    <link href="https://github.com/PyojinKim/Sensors-Data-Logger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android app to save IMU &amp; WiFi data (accelerometer, gyroscope, magnetometer) to a series of text files for offline use.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SYSU-HI-LAB/Fundamentals-of-autopilot-project</title>
+    <updated>2022-07-16T01:46:49Z</updated>
+    <id>tag:github.com,2022-07-16:/SYSU-HI-LAB/Fundamentals-of-autopilot-project</id>
+    <link href="https://github.com/SYSU-HI-LAB/Fundamentals-of-autopilot-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;there is none&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

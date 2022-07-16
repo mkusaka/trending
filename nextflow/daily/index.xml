@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:48:13Z</updated>
+  <updated>2022-07-16T01:48:19Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nf-core/atacseq</title>
-    <updated>2022-07-15T01:48:13Z</updated>
-    <id>tag:github.com,2022-07-15:/nf-core/atacseq</id>
-    <link href="https://github.com/nf-core/atacseq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ATAC-seq peak-calling, QC and differential analysis pipeline&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sanger-tol/genomeassembly</title>
+    <updated>2022-07-16T01:48:19Z</updated>
+    <id>tag:github.com,2022-07-16:/sanger-tol/genomeassembly</id>
+    <link href="https://github.com/sanger-tol/genomeassembly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nf-core/raredisease</title>
-    <updated>2022-07-15T01:48:13Z</updated>
-    <id>tag:github.com,2022-07-15:/nf-core/raredisease</id>
-    <link href="https://github.com/nf-core/raredisease" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Call and score variants from WGS/WES of rare disease patients.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nf-core/ampliseq</title>
-    <updated>2022-07-15T01:48:13Z</updated>
-    <id>tag:github.com,2022-07-15:/nf-core/ampliseq</id>
-    <link href="https://github.com/nf-core/ampliseq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Amplicon sequencing analysis workflow using DADA2 and QIIME2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nf-core/spatialtranscriptomics</title>
+    <updated>2022-07-16T01:48:19Z</updated>
+    <id>tag:github.com,2022-07-16:/nf-core/spatialtranscriptomics</id>
+    <link href="https://github.com/nf-core/spatialtranscriptomics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pipeline for processing spatially-resolved gene counts with spatial coordinates, image data, and optionally single cell RNA-seq data, designed for 10x genomics visium and single cell transcriptomics.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

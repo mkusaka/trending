@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:57:59Z</updated>
+  <updated>2022-07-16T01:58:20Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PollRobots/scheme</title>
-    <updated>2022-07-15T01:57:59Z</updated>
-    <id>tag:github.com,2022-07-15:/PollRobots/scheme</id>
-    <link href="https://github.com/PollRobots/scheme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An R7RS Scheme implemented in WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:54:26Z</updated>
+  <updated>2022-07-16T01:54:38Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>falcosecurity/charts</title>
-    <updated>2022-07-15T01:54:26Z</updated>
-    <id>tag:github.com,2022-07-15:/falcosecurity/charts</id>
-    <link href="https://github.com/falcosecurity/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community managed Helm charts for running Falco with Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alphagov/govuk-helm-charts</title>
-    <updated>2022-07-15T01:54:26Z</updated>
-    <id>tag:github.com,2022-07-15:/alphagov/govuk-helm-charts</id>
-    <link href="https://github.com/alphagov/govuk-helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>castai/helm-charts</title>
-    <updated>2022-07-15T01:54:26Z</updated>
-    <id>tag:github.com,2022-07-15:/castai/helm-charts</id>
-    <link href="https://github.com/castai/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CAST AI Kubernetes helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rstudio/helm</title>
+    <updated>2022-07-16T01:54:38Z</updated>
+    <id>tag:github.com,2022-07-16:/rstudio/helm</id>
+    <link href="https://github.com/rstudio/helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Resources for RStudio Products&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

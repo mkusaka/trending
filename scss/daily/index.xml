@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:53:38Z</updated>
+  <updated>2022-07-16T01:53:47Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mate-academy/js_2048_game</title>
-    <updated>2022-07-15T01:53:38Z</updated>
-    <id>tag:github.com,2022-07-15:/mate-academy/js_2048_game</id>
-    <link href="https://github.com/mate-academy/js_2048_game" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JS Advanced task. Create a 2048 game.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primait/pyxis-npm</title>
+    <updated>2022-07-16T01:53:47Z</updated>
+    <id>tag:github.com,2022-07-16:/primait/pyxis-npm</id>
+    <link href="https://github.com/primait/pyxis-npm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nrandecker/particle</title>
-    <updated>2022-07-15T01:53:38Z</updated>
-    <id>tag:github.com,2022-07-15:/nrandecker/particle</id>
-    <link href="https://github.com/nrandecker/particle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple portfolio Jekyll theme:&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>suoshengbao/suoshengbao.github.io</title>
+    <updated>2022-07-16T01:53:47Z</updated>
+    <id>tag:github.com,2022-07-16:/suoshengbao/suoshengbao.github.io</id>
+    <link href="https://github.com/suoshengbao/suoshengbao.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daviddarnes/alembic</title>
-    <updated>2022-07-15T01:53:38Z</updated>
-    <id>tag:github.com,2022-07-15:/daviddarnes/alembic</id>
-    <link href="https://github.com/daviddarnes/alembic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pydata/pydata-sphinx-theme</title>
+    <updated>2022-07-16T01:53:47Z</updated>
+    <id>tag:github.com,2022-07-16:/pydata/pydata-sphinx-theme</id>
+    <link href="https://github.com/pydata/pydata-sphinx-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clean, three-column Sphinx theme with Bootstrap for the PyData community&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

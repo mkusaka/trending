@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:35:17Z</updated>
+  <updated>2022-07-16T01:35:05Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EliasVega/Prosigem</title>
-    <updated>2022-07-15T01:35:17Z</updated>
-    <id>tag:github.com,2022-07-15:/EliasVega/Prosigem</id>
-    <link href="https://github.com/EliasVega/Prosigem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dcblogdev/laravel-sent-emails</title>
+    <updated>2022-07-16T01:35:05Z</updated>
+    <id>tag:github.com,2022-07-16:/dcblogdev/laravel-sent-emails</id>
+    <link href="https://github.com/dcblogdev/laravel-sent-emails" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Store outgoing emails in Laravel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

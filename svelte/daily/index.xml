@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:55:17Z</updated>
+  <updated>2022-07-16T01:55:34Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Rich-Harris/sveltekit-on-the-edge</title>
+    <updated>2022-07-16T01:55:34Z</updated>
+    <id>tag:github.com,2022-07-16:/Rich-Harris/sveltekit-on-the-edge</id>
+    <link href="https://github.com/Rich-Harris/sveltekit-on-the-edge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SvelteKit, running on the edge&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mattcroat/joy-of-code</title>
+    <updated>2022-07-16T01:55:34Z</updated>
+    <id>tag:github.com,2022-07-16:/mattcroat/joy-of-code</id>
+    <link href="https://github.com/mattcroat/joy-of-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌸 Joy of Code is a digital garden growing curious minds&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Androz2091/discord-data-package-explorer</title>
+    <updated>2022-07-16T01:55:34Z</updated>
+    <id>tag:github.com,2022-07-16:/Androz2091/discord-data-package-explorer</id>
+    <link href="https://github.com/Androz2091/discord-data-package-explorer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌀 What&#39;s really in your Discord Data package?&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

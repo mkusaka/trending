@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-15T01:51:26Z</updated>
+  <updated>2022-07-16T01:51:31Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>avatarnewyork/puppet-cloudflare</title>
-    <updated>2022-07-15T01:51:26Z</updated>
-    <id>tag:github.com,2022-07-15:/avatarnewyork/puppet-cloudflare</id>
-    <link href="https://github.com/avatarnewyork/puppet-cloudflare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cloudflare module to manage DNS entries for puppet clients&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>actionjack/puppet-logstash</title>
+    <updated>2022-07-16T01:51:31Z</updated>
+    <id>tag:github.com,2022-07-16:/actionjack/puppet-logstash</id>
+    <link href="https://github.com/actionjack/puppet-logstash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Logstash puppet module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
