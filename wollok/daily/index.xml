@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Wollok Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:58:33Z</updated>
+  <updated>2022-07-17T01:58:58Z</updated>
   <subtitle>Daily Trending of Wollok in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>uqbar-project/wollok-language</title>
-    <updated>2022-07-16T01:58:33Z</updated>
-    <id>tag:github.com,2022-07-16:/uqbar-project/wollok-language</id>
-    <link href="https://github.com/uqbar-project/wollok-language" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wollok language definition&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

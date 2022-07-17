@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:58:05Z</updated>
+  <updated>2022-07-17T01:58:32Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vueschool/vuejs-forge-the-project</title>
-    <updated>2022-07-16T01:58:05Z</updated>
-    <id>tag:github.com,2022-07-16:/vueschool/vuejs-forge-the-project</id>
-    <link href="https://github.com/vueschool/vuejs-forge-the-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official project for Vue.js Forge&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zfile-dev/zfile-vue</title>
+    <updated>2022-07-17T01:58:32Z</updated>
+    <id>tag:github.com,2022-07-17:/zfile-dev/zfile-vue</id>
+    <link href="https://github.com/zfile-dev/zfile-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zfile 前端工程&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gz-yami/mall4cloud</title>
-    <updated>2022-07-16T01:58:05Z</updated>
-    <id>tag:github.com,2022-07-16:/gz-yami/mall4cloud</id>
-    <link href="https://github.com/gz-yami/mall4cloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zxb1655/weipyq</title>
-    <updated>2022-07-16T01:58:05Z</updated>
-    <id>tag:github.com,2022-07-16:/zxb1655/weipyq</id>
-    <link href="https://github.com/zxb1655/weipyq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;朋友圈转发集赞截图生成，仿朋友圈页面，多种模式&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Panyue-genkiyo/vue-advance</title>
+    <updated>2022-07-17T01:58:32Z</updated>
+    <id>tag:github.com,2022-07-17:/Panyue-genkiyo/vue-advance</id>
+    <link href="https://github.com/Panyue-genkiyo/vue-advance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;利用vue-cli脚手架学习vue核心知识(示例小项目)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

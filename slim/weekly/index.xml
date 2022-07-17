@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Slim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:24:28Z</updated>
+  <subtitle>Weekly Trending of Slim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AdoptOpenJDK/openjdk-docker</title>
+    <updated>2022-07-17T02:24:28Z</updated>
+    <id>tag:github.com,2022-07-17:/AdoptOpenJDK/openjdk-docker</id>
+    <link href="https://github.com/AdoptOpenJDK/openjdk-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts for creating Docker images of OpenJDK binaries.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

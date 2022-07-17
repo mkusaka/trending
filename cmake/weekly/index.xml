@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:06:40Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xmos/xmos_cmake_toolchain</title>
+    <updated>2022-07-17T02:06:40Z</updated>
+    <id>tag:github.com,2022-07-17:/xmos/xmos_cmake_toolchain</id>
+    <link href="https://github.com/xmos/xmos_cmake_toolchain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>christianrauch/apriltag_msgs</title>
+    <updated>2022-07-17T02:06:40Z</updated>
+    <id>tag:github.com,2022-07-17:/christianrauch/apriltag_msgs</id>
+    <link href="https://github.com/christianrauch/apriltag_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AprilTag message definitions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gazebosim/gz-cmake</title>
+    <updated>2022-07-17T02:06:40Z</updated>
+    <id>tag:github.com,2022-07-17:/gazebosim/gz-cmake</id>
+    <link href="https://github.com/gazebosim/gz-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of CMake modules that are used by the C++-based Gazebo projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

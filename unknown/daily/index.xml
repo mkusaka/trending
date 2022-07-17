@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:32:57Z</updated>
+  <updated>2022-07-17T01:33:27Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shengcaishizhan/kkndme_tianya</title>
-    <updated>2022-07-16T01:32:57Z</updated>
-    <id>tag:github.com,2022-07-16:/shengcaishizhan/kkndme_tianya</id>
-    <link href="https://github.com/shengcaishizhan/kkndme_tianya" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;天涯 kkndme 神贴聊房价&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>near/stakewars-iii</title>
+    <updated>2022-07-17T01:33:27Z</updated>
+    <id>tag:github.com,2022-07-17:/near/stakewars-iii</id>
+    <link href="https://github.com/near/stakewars-iii" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stake Wars: Episode 3 challenges and place to report issues&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vasanthk/how-web-works</title>
-    <updated>2022-07-16T01:32:57Z</updated>
-    <id>tag:github.com,2022-07-16:/vasanthk/how-web-works</id>
-    <link href="https://github.com/vasanthk/how-web-works" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;What happens behind the scenes when we type www.google.com in a browser?&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dair-ai/ML-YouTube-Courses</title>
+    <updated>2022-07-17T01:33:27Z</updated>
+    <id>tag:github.com,2022-07-17:/dair-ai/ML-YouTube-Courses</id>
+    <link href="https://github.com/dair-ai/ML-YouTube-Courses" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📺 A place to discover the latest machine learning courses on YouTube.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>996icu/996.ICU</title>
-    <updated>2022-07-16T01:32:57Z</updated>
-    <id>tag:github.com,2022-07-16:/996icu/996.ICU</id>
-    <link href="https://github.com/996icu/996.ICU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for counting stars and contributing. Press F to pay respect to glorious developers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>farcasterxyz/protocol</title>
+    <updated>2022-07-17T01:33:27Z</updated>
+    <id>tag:github.com,2022-07-17:/farcasterxyz/protocol</id>
+    <link href="https://github.com/farcasterxyz/protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Specification of the Farcaster Protocol&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

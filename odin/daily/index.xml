@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Odin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:49:18Z</updated>
+  <updated>2022-07-17T01:49:42Z</updated>
   <subtitle>Daily Trending of Odin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gingerBill/blaise</title>
-    <updated>2022-07-16T01:49:18Z</updated>
-    <id>tag:github.com,2022-07-16:/gingerBill/blaise</id>
-    <link href="https://github.com/gingerBill/blaise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blaise Programming Language - A Language for Learning About Compilers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

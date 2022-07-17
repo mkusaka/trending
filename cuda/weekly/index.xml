@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:07:42Z</updated>
+  <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>brucefan1983/CUDA-Programming</title>
+    <updated>2022-07-17T02:07:42Z</updated>
+    <id>tag:github.com,2022-07-17:/brucefan1983/CUDA-Programming</id>
+    <link href="https://github.com/brucefan1983/CUDA-Programming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample codes for my CUDA programming book&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA/nccl-tests</title>
+    <updated>2022-07-17T02:07:42Z</updated>
+    <id>tag:github.com,2022-07-17:/NVIDIA/nccl-tests</id>
+    <link href="https://github.com/NVIDIA/nccl-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NCCL Tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

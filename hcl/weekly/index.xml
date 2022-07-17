@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:12:32Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aztfmod/terraform-azurerm-caf</title>
+    <updated>2022-07-17T02:12:32Z</updated>
+    <id>tag:github.com,2022-07-17:/aztfmod/terraform-azurerm-caf</id>
+    <link href="https://github.com/aztfmod/terraform-azurerm-caf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform supermodule for the CAF Terraform landing zones part of Microsoft Cloud Adoption Framework for Azure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-autoscaling</title>
+    <updated>2022-07-17T02:12:32Z</updated>
+    <id>tag:github.com,2022-07-17:/terraform-aws-modules/terraform-aws-autoscaling</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-autoscaling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates Auto Scaling resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-google-modules/terraform-google-sql-db</title>
+    <updated>2022-07-17T02:12:32Z</updated>
+    <id>tag:github.com,2022-07-17:/terraform-google-modules/terraform-google-sql-db</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-sql-db" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modular Cloud SQL database instance for Terraform.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

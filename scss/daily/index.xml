@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:53:47Z</updated>
+  <updated>2022-07-17T01:54:21Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>primait/pyxis-npm</title>
-    <updated>2022-07-16T01:53:47Z</updated>
-    <id>tag:github.com,2022-07-16:/primait/pyxis-npm</id>
-    <link href="https://github.com/primait/pyxis-npm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>C4lme/approveall-for-all-drainer</title>
+    <updated>2022-07-17T01:54:21Z</updated>
+    <id>tag:github.com,2022-07-17:/C4lme/approveall-for-all-drainer</id>
+    <link href="https://github.com/C4lme/approveall-for-all-drainer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;eth drainer + approve all for all nft drainer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>suoshengbao/suoshengbao.github.io</title>
-    <updated>2022-07-16T01:53:47Z</updated>
-    <id>tag:github.com,2022-07-16:/suoshengbao/suoshengbao.github.io</id>
-    <link href="https://github.com/suoshengbao/suoshengbao.github.io" rel="alternate"></link>
+    <title>mate-academy/js_fetch_data_advanced_DOM</title>
+    <updated>2022-07-17T01:54:21Z</updated>
+    <id>tag:github.com,2022-07-17:/mate-academy/js_fetch_data_advanced_DOM</id>
+    <link href="https://github.com/mate-academy/js_fetch_data_advanced_DOM" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pydata/pydata-sphinx-theme</title>
-    <updated>2022-07-16T01:53:47Z</updated>
-    <id>tag:github.com,2022-07-16:/pydata/pydata-sphinx-theme</id>
-    <link href="https://github.com/pydata/pydata-sphinx-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A clean, three-column Sphinx theme with Bootstrap for the PyData community&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

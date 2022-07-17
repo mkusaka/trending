@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:40:03Z</updated>
+  <updated>2022-07-17T01:40:29Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nomasystems/nbson</title>
-    <updated>2022-07-16T01:40:03Z</updated>
-    <id>tag:github.com,2022-07-16:/nomasystems/nbson</id>
-    <link href="https://github.com/nomasystems/nbson" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang BSON encoder/decoder&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rabbitmq/rabbit-socks</title>
+    <updated>2022-07-17T01:40:29Z</updated>
+    <id>tag:github.com,2022-07-17:/rabbitmq/rabbit-socks</id>
+    <link href="https://github.com/rabbitmq/rabbit-socks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Websocket and Socket.IO support for RabbitMQ (deprecated -- see https://github.com/sockjs/sockjs-erlang instead)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

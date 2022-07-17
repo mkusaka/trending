@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:51:18Z</updated>
+  <updated>2022-07-17T01:51:40Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nemomobile/nemo-ssu-repos</title>
-    <updated>2022-07-16T01:51:18Z</updated>
-    <id>tag:github.com,2022-07-16:/nemomobile/nemo-ssu-repos</id>
-    <link href="https://github.com/nemomobile/nemo-ssu-repos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SSU configuration and repository data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:03:20Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rajatagrawal/Kinectic-Typography</title>
+    <updated>2022-07-17T02:03:20Z</updated>
+    <id>tag:github.com,2022-07-17:/rajatagrawal/Kinectic-Typography</id>
+    <link href="https://github.com/rajatagrawal/Kinectic-Typography" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kinectic Typography coded in AS3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo</title>
+    <updated>2022-07-17T02:03:20Z</updated>
+    <id>tag:github.com,2022-07-17:/AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo</id>
+    <link href="https://github.com/AdamHarte/Node.js-Socket.io-Flash-Multiplayer-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Node.js-Socket.io-Flash-Multiplayer-demo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>greensock/GreenSock-AS2</title>
+    <updated>2022-07-17T02:03:20Z</updated>
+    <id>tag:github.com,2022-07-17:/greensock/GreenSock-AS2</id>
+    <link href="https://github.com/greensock/GreenSock-AS2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public repository for GreenSock&#39;s ActionScript 2 libraries like GSAP (TweenLite, TweenMax, etc.). For AS3, see the GreenSock-AS3 repository and for JavaScript, see the GreenSock-JS repository. Main site: http://www.greensock.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:54:38Z</updated>
+  <updated>2022-07-17T01:55:17Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rstudio/helm</title>
-    <updated>2022-07-16T01:54:38Z</updated>
-    <id>tag:github.com,2022-07-16:/rstudio/helm</id>
-    <link href="https://github.com/rstudio/helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Resources for RStudio Products&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nearform/openshift-kafka</title>
+    <updated>2022-07-17T01:55:17Z</updated>
+    <id>tag:github.com,2022-07-17:/nearform/openshift-kafka</id>
+    <link href="https://github.com/nearform/openshift-kafka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Apache Kafka in Openshift Origin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>redpanda-data/helm-charts</title>
+    <updated>2022-07-17T01:55:17Z</updated>
+    <id>tag:github.com,2022-07-17:/redpanda-data/helm-charts</id>
+    <link href="https://github.com/redpanda-data/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Redpanda Helm Chart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sudolabs-io/gtm-instyle</title>
+    <updated>2022-07-17T01:55:17Z</updated>
+    <id>tag:github.com,2022-07-17:/sudolabs-io/gtm-instyle</id>
+    <link href="https://github.com/sudolabs-io/gtm-instyle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

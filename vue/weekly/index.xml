@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:28:09Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gz-yami/mall4cloud</title>
+    <updated>2022-07-17T02:28:09Z</updated>
+    <id>tag:github.com,2022-07-17:/gz-yami/mall4cloud</id>
+    <link href="https://github.com/gz-yami/mall4cloud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Hunlongyu/ZY-Player</title>
+    <updated>2022-07-17T02:28:09Z</updated>
+    <id>tag:github.com,2022-07-17:/Hunlongyu/ZY-Player</id>
+    <link href="https://github.com/Hunlongyu/ZY-Player" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TeamPiped/Piped</title>
+    <updated>2022-07-17T02:28:09Z</updated>
+    <id>tag:github.com,2022-07-17:/TeamPiped/Piped</id>
+    <link href="https://github.com/TeamPiped/Piped" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An alternative privacy-friendly YouTube frontend which is efficient by design.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

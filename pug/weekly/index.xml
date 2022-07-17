@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pug Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:21:29Z</updated>
+  <subtitle>Weekly Trending of Pug in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>StartBootstrap/startbootstrap-clean-blog</title>
+    <updated>2022-07-17T02:21:29Z</updated>
+    <id>tag:github.com,2022-07-17:/StartBootstrap/startbootstrap-clean-blog</id>
+    <link href="https://github.com/StartBootstrap/startbootstrap-clean-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clean Bootstrap blog theme created by Start Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nigelpoulton/getting-started-k8s</title>
+    <updated>2022-07-17T02:21:29Z</updated>
+    <id>tag:github.com,2022-07-17:/nigelpoulton/getting-started-k8s</id>
+    <link href="https://github.com/nigelpoulton/getting-started-k8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code and YAML files for Getting Started with Kubernetes video course on Pluralsight&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:25:16Z</updated>
+  <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rules-proto-grpc/rules_proto_grpc</title>
+    <updated>2022-07-17T02:25:16Z</updated>
+    <id>tag:github.com,2022-07-17:/rules-proto-grpc/rules_proto_grpc</id>
+    <link href="https://github.com/rules-proto-grpc/rules_proto_grpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazelbuild/rules_cc</title>
+    <updated>2022-07-17T02:25:16Z</updated>
+    <id>tag:github.com,2022-07-17:/bazelbuild/rules_cc</id>
+    <link href="https://github.com/bazelbuild/rules_cc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C++ Rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tilt-dev/tilt-extensions</title>
+    <updated>2022-07-17T02:25:16Z</updated>
+    <id>tag:github.com,2022-07-17:/tilt-dev/tilt-extensions</id>
+    <link href="https://github.com/tilt-dev/tilt-extensions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extensions for Tilt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

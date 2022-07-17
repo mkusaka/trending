@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:19:58Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>synopse/mORMot2</title>
+    <updated>2022-07-17T02:19:58Z</updated>
+    <id>tag:github.com,2022-07-17:/synopse/mORMot2</id>
+    <link href="https://github.com/synopse/mORMot2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenSource RESTful ORM/SOA/MVC Framework for Delphi and FreePascal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>transmission-remote-gui/transgui</title>
+    <updated>2022-07-17T02:19:58Z</updated>
+    <id>tag:github.com,2022-07-17:/transmission-remote-gui/transgui</id>
+    <link href="https://github.com/transmission-remote-gui/transgui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:36:43Z</updated>
+  <updated>2022-07-17T01:36:58Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nubank/workspaces</title>
-    <updated>2022-07-16T01:36:43Z</updated>
-    <id>tag:github.com,2022-07-16:/nubank/workspaces</id>
-    <link href="https://github.com/nubank/workspaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Live development environment for Clojurescript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nubank/matcher-combinators</title>
-    <updated>2022-07-16T01:36:43Z</updated>
-    <id>tag:github.com,2022-07-16:/nubank/matcher-combinators</id>
-    <link href="https://github.com/nubank/matcher-combinators" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for creating matcher combinator to compare nested data structures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nubank/k8s-api</title>
-    <updated>2022-07-16T01:36:43Z</updated>
-    <id>tag:github.com,2022-07-16:/nubank/k8s-api</id>
-    <link href="https://github.com/nubank/k8s-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes client, data driven&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

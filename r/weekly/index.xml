@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub R Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:21:59Z</updated>
+  <subtitle>Weekly Trending of R in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>uribo/tokupon_ds</title>
+    <updated>2022-07-17T02:21:59Z</updated>
+    <id>tag:github.com,2022-07-17:/uribo/tokupon_ds</id>
+    <link href="https://github.com/uribo/tokupon_ds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;中高生向け「データ分析入門」資料&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;データ分析入門&lt;/h1&gt; &#xA;&lt;p&gt;このリポジトリは徳島大学デザイン型AI教育研究センターが実施する とくぽんAI塾のコース「データ分析入門」のための資料置き場です。&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://mybinder.org/v2/gh/uribo/tokupon_ds/main?urlpath=rstudio&#34;&gt;&lt;img src=&#34;https://mybinder.org/badge_logo.svg?sanitize=true&#34; alt=&#34;Binder&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;binderによる演習環境を提供しています。 上記のボタンをクリックすることでbinder上のRStduio Serverが起動します。 （起動に時間がかかることがあります） これによりブラウザ上でRを動かすことができます。 必要なデータ、パッケージはすでにインストールされている状態です。 資料のqmdファイルを開き、内容を試してみてください。&lt;/p&gt; &#xA;&lt;h2&gt;スライド&lt;/h2&gt; &#xA;&lt;p&gt;当日投影したスライドの公開版をSpeaker Deckで公開しています。&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/s_uryu/tokupon-ds2022&#34;&gt;https://speakerdeck.com/s_uryu/tokupon-ds2022&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://speakerdeck.com/s_uryu/tokupon-ds2022&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/uribo/tokupon_ds/main/images/slide_top.jpeg&#34; alt=&#34;スライドへのリンク&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;ライセンス&lt;/h2&gt; &#xA;&lt;p&gt;MIT&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.tokushima-u.ac.jp/about/profile/univ_mascot/&#34;&gt;とくぽん&lt;/a&gt;(徳島大学マスコットキャラクター)の著作権は徳島大学に帰属します。&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>selva86/datasets</title>
+    <updated>2022-07-17T02:21:59Z</updated>
+    <id>tag:github.com,2022-07-17:/selva86/datasets</id>
+    <link href="https://github.com/selva86/datasets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of datasets of ML problem solving&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Datasets&lt;/h1&gt; &#xA;&lt;h3&gt;Datasets collected from R packages&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;mlbench&lt;/li&gt; &#xA; &lt;li&gt;kernlab&lt;/li&gt; &#xA; &lt;li&gt;klaR&lt;/li&gt; &#xA; &lt;li&gt;car&lt;/li&gt; &#xA; &lt;li&gt;reshape2&lt;/li&gt; &#xA; &lt;li&gt;hflights&lt;/li&gt; &#xA; &lt;li&gt;ISLR&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;The original source repositories are:&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;ftp://ftp.ics.uci.edu/pub/machine-learning-databases&#34;&gt;ftp://ftp.ics.uci.edu/pub/machine-learning-databases&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.ics.uci.edu/~mlearn/MLRepository.html&#34;&gt;http://www.ics.uci.edu/~mlearn/MLRepository.html&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://kdd.ics.uci.edu&#34;&gt;http://kdd.ics.uci.edu&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://www.liacs.nl/~putten/library/cc2000/&#34;&gt;http://www.liacs.nl/~putten/library/cc2000/&lt;/a&gt; (ticdata)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>hadley/r4ds</title>
+    <updated>2022-07-17T02:21:59Z</updated>
+    <id>tag:github.com,2022-07-17:/hadley/r4ds</id>
+    <link href="https://github.com/hadley/r4ds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;R for data science: a book&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;R for Data Science&lt;/h1&gt; &#xA;&lt;!-- badges: start --&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/hadley/r4ds/actions/workflows/build_book.yaml&#34;&gt;&lt;img src=&#34;https://github.com/hadley/r4ds/actions/workflows/build_book.yaml/badge.svg?sanitize=true&#34; alt=&#34;build_book&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;!-- badges: end --&gt; &#xA;&lt;p&gt;This repository contains the source of &lt;a href=&#34;http://r4ds.had.co.nz&#34;&gt;R for Data Science&lt;/a&gt; book. The book is built using &lt;a href=&#34;https://github.com/rstudio/bookdown&#34;&gt;bookdown&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The R packages used in this book can be installed via&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-{r}&#34;&gt;devtools::install_github(&#34;hadley/r4ds&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Images&lt;/h2&gt; &#xA;&lt;h3&gt;Omnigraffle drawings&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Font: 12pt Ubuntu mono&lt;/li&gt; &#xA; &lt;li&gt;Export as 300 dpi png.&lt;/li&gt; &#xA; &lt;li&gt;Website font is 18 px = 13.5 pt, so scale dpi to match font sizes: 270 = 300 * 12 / 13.5&lt;/li&gt; &#xA; &lt;li&gt;Verified sizes are visually equivalent by screenshotting.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;!-- --&gt; &#xA;&lt;pre&gt;&lt;code&gt;#| echo: FALSE&#xA;#| out.width: NULL&#xA;knitr::include_graphics(&#34;diagrams/transform.png&#34;, dpi = 270)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Code of Conduct&lt;/h2&gt; &#xA;&lt;p&gt;Please note that r4ds uses a &lt;a href=&#34;https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html&#34;&gt;Contributor Code of Conduct&lt;/a&gt;. By contributing to this book, you agree to abide by its terms.&lt;/p&gt;</summary>
+  </entry>
+</feed>

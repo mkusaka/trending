@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:20:08Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qt/qtrepotools</title>
+    <updated>2022-07-17T02:20:08Z</updated>
+    <id>tag:github.com,2022-07-17:/qt/qtrepotools</id>
+    <link href="https://github.com/qt/qtrepotools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qt Repository Tools - git commands and hooks, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>trinityrnaseq/trinityrnaseq</title>
+    <updated>2022-07-17T02:20:08Z</updated>
+    <id>tag:github.com,2022-07-17:/trinityrnaseq/trinityrnaseq</id>
+    <link href="https://github.com/trinityrnaseq/trinityrnaseq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Trinity RNA-Seq de novo transcriptome assembly&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;trinityrnaseq&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/trinityrnaseq/trinityrnaseq&#34;&gt;&lt;img src=&#34;https://travis-ci.org/trinityrnaseq/trinityrnaseq.svg?branch=devel&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://bioconda.github.io/recipes/trinity/README.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat-square&#34; alt=&#34;install with bioconda&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Trinity RNA-Seq de novo transcriptome assembly see the main webpage &lt;a href=&#34;http://trinityrnaseq.github.io&#34;&gt;http://trinityrnaseq.github.io&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;We encourage you to contribute to Trinity! Please check out the &lt;a href=&#34;https://github.com/trinityrnaseq/trinityrnaseq/wiki/Contributing&#34;&gt;Contributing&lt;/a&gt; for the guidelines.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>elastic/elasticsearch-perl</title>
+    <updated>2022-07-17T02:20:08Z</updated>
+    <id>tag:github.com,2022-07-17:/elastic/elasticsearch-perl</id>
+    <link href="https://github.com/elastic/elasticsearch-perl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Perl low-level client for Elasticsearch.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Elasticsearch Perl client&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/elastic/elasticsearch-perl/actions&#34;&gt;&lt;img src=&#34;https://github.com/elastic/elasticsearch-perl/workflows/Perl%20module%20test/badge.svg?sanitize=true&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Search::Elasticsearch is the official Perl API for Elasticsearch. The full documentation is available on &lt;a href=&#34;https://metacpan.org/module/Search::Elasticsearch&#34;&gt;https://metacpan.org/module/Search::Elasticsearch&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Full support for all Elasticsearch APIs&lt;/li&gt; &#xA; &lt;li&gt;HTTP backend (blocking and asynchronous with &lt;a href=&#34;https://metacpan.org/module/Search::Elasticsearch::Async&#34;&gt;Search::Elasticsearch::Async&lt;/a&gt;)&lt;/li&gt; &#xA; &lt;li&gt;Robust networking support which handles load balancing, failure detection and failover&lt;/li&gt; &#xA; &lt;li&gt;Good defaults&lt;/li&gt; &#xA; &lt;li&gt;Helper utilities for more complex operations, such as bulk indexing, scrolled searches and reindexing.&lt;/li&gt; &#xA; &lt;li&gt;Logging support via &lt;code&gt;Log::Any&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Compatibility with the &lt;a href=&#34;https://www.elastic.co/guide/en/elasticsearch/client/index.html&#34;&gt;official clients&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Easy extensibility&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cpanm Search::Elasticsearch&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Compatibility&lt;/h2&gt; &#xA;&lt;p&gt;Language clients are forward compatible; meaning that clients support communicating with greater or equal minor versions of Elasticsearch. Elasticsearch language clients are only backwards compatible with default distributions and without guarantees made.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This software is licensed under the &lt;a href=&#34;https://raw.githubusercontent.com/elastic/elasticsearch-perl/master/LICENSE&#34;&gt;Apache 2 license&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

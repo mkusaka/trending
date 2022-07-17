@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:59:25Z</updated>
+  <updated>2022-07-17T01:59:51Z</updated>
   <subtitle>Daily Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>albertzsigovits/malware-notes</title>
-    <updated>2022-07-16T01:59:25Z</updated>
-    <id>tag:github.com,2022-07-16:/albertzsigovits/malware-notes</id>
-    <link href="https://github.com/albertzsigovits/malware-notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notes and IoCs of fresh malware&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

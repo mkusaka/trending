@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:44:26Z</updated>
+  <updated>2022-07-17T01:44:48Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CliMA/RRTMGP.jl</title>
-    <updated>2022-07-16T01:44:26Z</updated>
-    <id>tag:github.com,2022-07-16:/CliMA/RRTMGP.jl</id>
-    <link href="https://github.com/CliMA/RRTMGP.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia implementation of Rapid and accurate Radiative Transfer Model for General Circulation Models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSmoothOptimizers/SolverCore.jl</title>
+    <updated>2022-07-17T01:44:48Z</updated>
+    <id>tag:github.com,2022-07-17:/JuliaSmoothOptimizers/SolverCore.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/SolverCore.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ManuelStapper/RandomVariables.jl</title>
-    <updated>2022-07-16T01:44:26Z</updated>
-    <id>tag:github.com,2022-07-16:/ManuelStapper/RandomVariables.jl</id>
-    <link href="https://github.com/ManuelStapper/RandomVariables.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for random variables, some transformations and probabilities&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSymbolics/SymbolicUtils.jl</title>
+    <updated>2022-07-17T01:44:48Z</updated>
+    <id>tag:github.com,2022-07-17:/JuliaSymbolics/SymbolicUtils.jl</id>
+    <link href="https://github.com/JuliaSymbolics/SymbolicUtils.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Expression rewriting and simplification&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaLang/MbedTLS.jl</title>
+    <updated>2022-07-17T01:44:48Z</updated>
+    <id>tag:github.com,2022-07-17:/JuliaLang/MbedTLS.jl</id>
+    <link href="https://github.com/JuliaLang/MbedTLS.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wrapper around mbedtls&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

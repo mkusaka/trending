@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-16T01:39:31Z</updated>
+  <updated>2022-07-17T01:39:49Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sasa1977/parent</title>
-    <updated>2022-07-16T01:39:31Z</updated>
-    <id>tag:github.com,2022-07-16:/sasa1977/parent</id>
-    <link href="https://github.com/sasa1977/parent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom parenting of processes in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SalesLoft/DevelopmentInterviewStarterKit-Elixir</title>
+    <updated>2022-07-17T01:39:49Z</updated>
+    <id>tag:github.com,2022-07-17:/SalesLoft/DevelopmentInterviewStarterKit-Elixir</id>
+    <link href="https://github.com/SalesLoft/DevelopmentInterviewStarterKit-Elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elixir-plug/plug</title>
-    <updated>2022-07-16T01:39:31Z</updated>
-    <id>tag:github.com,2022-07-16:/elixir-plug/plug</id>
-    <link href="https://github.com/elixir-plug/plug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compose web applications with functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Kry10-NZ/k10_dtb</title>
-    <updated>2022-07-16T01:39:31Z</updated>
-    <id>tag:github.com,2022-07-16:/Kry10-NZ/k10_dtb</id>
-    <link href="https://github.com/Kry10-NZ/k10_dtb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic Devicetree Blob (also known as Flattened Devicetree) parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bitwalker/timex</title>
+    <updated>2022-07-17T01:39:49Z</updated>
+    <id>tag:github.com,2022-07-17:/bitwalker/timex</id>
+    <link href="https://github.com/bitwalker/timex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete date/time library for Elixir projects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

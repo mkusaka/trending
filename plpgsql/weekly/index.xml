@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-17T02:20:37Z</updated>
+  <subtitle>Weekly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>morenoh149/postgresDBSamples</title>
+    <updated>2022-07-17T02:20:37Z</updated>
+    <id>tag:github.com,2022-07-17:/morenoh149/postgresDBSamples</id>
+    <link href="https://github.com/morenoh149/postgresDBSamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample databases for postgres&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
