@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:51:01Z</updated>
+  <updated>2022-07-18T01:52:59Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dongxuyang1985/postgresql_dev_guide</title>
+    <updated>2022-07-18T01:52:59Z</updated>
+    <id>tag:github.com,2022-07-18:/dongxuyang1985/postgresql_dev_guide</id>
+    <link href="https://github.com/dongxuyang1985/postgresql_dev_guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《PostgreSQL开发指南》PostgreSQL 安装与配置，用户与角色管理，数据库的维护、备份与恢复操作。SQL 语句，常见函数，高级查询，数据库事务、索引、视图、存储过程/函数、触发器，Java、PHP、Python 编程接口。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

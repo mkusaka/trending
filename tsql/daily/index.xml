@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:57:16Z</updated>
+  <updated>2022-07-18T01:59:15Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DavidSchanzer/Sql-Server-DBA-Toolbox</title>
-    <updated>2022-07-17T01:57:16Z</updated>
-    <id>tag:github.com,2022-07-17:/DavidSchanzer/Sql-Server-DBA-Toolbox</id>
-    <link href="https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A box of tricks (SQL scripts) that I&#39;ve built up over many years for Microsoft SQL Server instance and database administration, and general working-with-data.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dlbunker/ps-first-spring-boot-app</title>
-    <updated>2022-07-17T01:57:16Z</updated>
-    <id>tag:github.com,2022-07-17:/dlbunker/ps-first-spring-boot-app</id>
-    <link href="https://github.com/dlbunker/ps-first-spring-boot-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>laika-sfs/acss</title>
-    <updated>2022-07-17T01:57:16Z</updated>
-    <id>tag:github.com,2022-07-17:/laika-sfs/acss</id>
-    <link href="https://github.com/laika-sfs/acss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Actually Complete Solar System (ACSS) - SpaceFlight Simulator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

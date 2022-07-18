@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:46:43Z</updated>
+  <updated>2022-07-18T01:49:03Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nusantara-ROM/android_device_nad_sepolicy</title>
-    <updated>2022-07-17T01:46:43Z</updated>
-    <id>tag:github.com,2022-07-17:/Nusantara-ROM/android_device_nad_sepolicy</id>
-    <link href="https://github.com/Nusantara-ROM/android_device_nad_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thirtythreeforty/businesscard-linux</title>
+    <updated>2022-07-18T01:49:03Z</updated>
+    <id>tag:github.com,2022-07-18:/thirtythreeforty/businesscard-linux</id>
+    <link href="https://github.com/thirtythreeforty/businesscard-linux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Buildroot distribution small enough to run on my business card&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nusantara-ROM/android_device_qcom_sepolicy_vndr</title>
-    <updated>2022-07-17T01:46:43Z</updated>
-    <id>tag:github.com,2022-07-17:/Nusantara-ROM/android_device_qcom_sepolicy_vndr</id>
-    <link href="https://github.com/Nusantara-ROM/android_device_qcom_sepolicy_vndr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>netdata/aclk-schemas</title>
+    <updated>2022-07-18T01:49:03Z</updated>
+    <id>tag:github.com,2022-07-18:/netdata/aclk-schemas</id>
+    <link href="https://github.com/netdata/aclk-schemas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protobuf schemas used in ACLK connection&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nusantara-ROM/android_system_sepolicy</title>
-    <updated>2022-07-17T01:46:43Z</updated>
-    <id>tag:github.com,2022-07-17:/Nusantara-ROM/android_system_sepolicy</id>
-    <link href="https://github.com/Nusantara-ROM/android_system_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liberationfonts/liberation-fonts</title>
+    <updated>2022-07-18T01:49:03Z</updated>
+    <id>tag:github.com,2022-07-18:/liberationfonts/liberation-fonts</id>
+    <link href="https://github.com/liberationfonts/liberation-fonts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

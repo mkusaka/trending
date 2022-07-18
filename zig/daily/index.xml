@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T02:00:06Z</updated>
+  <updated>2022-07-18T02:02:09Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mattn/zig-lisp</title>
-    <updated>2022-07-17T02:00:06Z</updated>
-    <id>tag:github.com,2022-07-17:/mattn/zig-lisp</id>
-    <link href="https://github.com/mattn/zig-lisp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>natecraddock/zf</title>
-    <updated>2022-07-17T02:00:06Z</updated>
-    <id>tag:github.com,2022-07-17:/natecraddock/zf</id>
-    <link href="https://github.com/natecraddock/zf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a commandline fuzzy finder that prioritizes matches on filenames&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Vexu/bog</title>
+    <updated>2022-07-18T02:02:09Z</updated>
+    <id>tag:github.com,2022-07-18:/Vexu/bog</id>
+    <link href="https://github.com/Vexu/bog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small, strongly typed, embeddable language.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

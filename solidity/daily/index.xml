@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:55:25Z</updated>
+  <updated>2022-07-18T01:57:20Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kadenzipfel/bit-packed-map</title>
-    <updated>2022-07-17T01:55:25Z</updated>
-    <id>tag:github.com,2022-07-17:/kadenzipfel/bit-packed-map</id>
-    <link href="https://github.com/kadenzipfel/bit-packed-map" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bitpacked bitmap&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ciaranmcveigh5/ethernaut-x-foundry</title>
+    <updated>2022-07-18T01:57:20Z</updated>
+    <id>tag:github.com,2022-07-18:/ciaranmcveigh5/ethernaut-x-foundry</id>
+    <link href="https://github.com/ciaranmcveigh5/ethernaut-x-foundry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethernaut puzzles solved with foundry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2022-07-yield</title>
-    <updated>2022-07-17T01:55:25Z</updated>
-    <id>tag:github.com,2022-07-17:/code-423n4/2022-07-yield</id>
-    <link href="https://github.com/code-423n4/2022-07-yield" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paulrberg/prb-test</title>
+    <updated>2022-07-18T01:57:20Z</updated>
+    <id>tag:github.com,2022-07-18:/paulrberg/prb-test</id>
+    <link href="https://github.com/paulrberg/prb-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern collection of testing assertions and logging utilities for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>huff-language/huffers</title>
+    <updated>2022-07-18T01:57:20Z</updated>
+    <id>tag:github.com,2022-07-18:/huff-language/huffers</id>
+    <link href="https://github.com/huff-language/huffers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fully Onchain Badges for Huff Language GitHub Contributors.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

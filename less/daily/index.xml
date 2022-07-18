@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:45:41Z</updated>
+  <updated>2022-07-18T01:48:03Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>blomstra/flarum-ext-fontawesome</title>
+    <updated>2022-07-18T01:48:03Z</updated>
+    <id>tag:github.com,2022-07-18:/blomstra/flarum-ext-fontawesome</id>
+    <link href="https://github.com/blomstra/flarum-ext-fontawesome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use FontAwesome 6 on your Flarum forum.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

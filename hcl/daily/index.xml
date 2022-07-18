@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:43:00Z</updated>
+  <updated>2022-07-18T01:45:19Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LeonardoDG2084/cia-08</title>
-    <updated>2022-07-17T01:43:00Z</updated>
-    <id>tag:github.com,2022-07-17:/LeonardoDG2084/cia-08</id>
-    <link href="https://github.com/LeonardoDG2084/cia-08" rel="alternate"></link>
+    <title>akannan1087/myInfra2021Repo</title>
+    <updated>2022-07-18T01:45:19Z</updated>
+    <id>tag:github.com,2022-07-18:/akannan1087/myInfra2021Repo</id>
+    <link href="https://github.com/akannan1087/myInfra2021Repo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>champ-oss/terraform-mongo-atlas</title>
+    <updated>2022-07-18T01:45:19Z</updated>
+    <id>tag:github.com,2022-07-18:/champ-oss/terraform-mongo-atlas</id>
+    <link href="https://github.com/champ-oss/terraform-mongo-atlas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nosql mongo atlas resources&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mediapop/terraform-aws-route53-alias</title>
+    <updated>2022-07-18T01:45:19Z</updated>
+    <id>tag:github.com,2022-07-18:/mediapop/terraform-aws-route53-alias</id>
+    <link href="https://github.com/mediapop/terraform-aws-route53-alias" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplest way to set up IPv4 and IPv6 aliases.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

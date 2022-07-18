@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HolyC Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:43:11Z</updated>
+  <updated>2022-07-18T01:45:34Z</updated>
   <subtitle>Daily Trending of HolyC in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Zeal-Operating-System/ZealOS</title>
+    <updated>2022-07-18T01:45:34Z</updated>
+    <id>tag:github.com,2022-07-18:/Zeal-Operating-System/ZealOS</id>
+    <link href="https://github.com/Zeal-Operating-System/ZealOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Zeal Operating System is a modernized, professional fork of the 64-bit Temple Operating System, TempleOS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

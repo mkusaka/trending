@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:55:13Z</updated>
+  <updated>2022-07-18T01:57:10Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pharo-contributions/Cryptography</title>
-    <updated>2022-07-17T01:55:13Z</updated>
-    <id>tag:github.com,2022-07-17:/pharo-contributions/Cryptography</id>
-    <link href="https://github.com/pharo-contributions/Cryptography" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

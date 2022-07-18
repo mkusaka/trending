@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:53:52Z</updated>
+  <updated>2022-07-18T01:55:45Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nalinbhardwaj/zordle</title>
-    <updated>2022-07-17T01:53:52Z</updated>
-    <id>tag:github.com,2022-07-17:/nalinbhardwaj/zordle</id>
-    <link href="https://github.com/nalinbhardwaj/zordle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wordle, but with ZK proofs!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mgunyho/tere</title>
+    <updated>2022-07-18T01:55:45Z</updated>
+    <id>tag:github.com,2022-07-18:/mgunyho/tere</id>
+    <link href="https://github.com/mgunyho/tere" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terminal file explorer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Narasimha1997/boson-lang</title>
-    <updated>2022-07-17T01:53:52Z</updated>
-    <id>tag:github.com,2022-07-17:/Narasimha1997/boson-lang</id>
-    <link href="https://github.com/Narasimha1997/boson-lang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A hybrid programming language written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>getzola/zola</title>
-    <updated>2022-07-17T01:53:52Z</updated>
-    <id>tag:github.com,2022-07-17:/getzola/zola</id>
-    <link href="https://github.com/getzola/zola" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast static site generator in a single binary with everything built-in. https://www.getzola.org&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudflare/boringtun</title>
+    <updated>2022-07-18T01:55:45Z</updated>
+    <id>tag:github.com,2022-07-18:/cloudflare/boringtun</id>
+    <link href="https://github.com/cloudflare/boringtun" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Userspace WireGuard® Implementation in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

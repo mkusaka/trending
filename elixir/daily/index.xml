@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-17T01:39:49Z</updated>
+  <updated>2022-07-18T01:42:04Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SalesLoft/DevelopmentInterviewStarterKit-Elixir</title>
-    <updated>2022-07-17T01:39:49Z</updated>
-    <id>tag:github.com,2022-07-17:/SalesLoft/DevelopmentInterviewStarterKit-Elixir</id>
-    <link href="https://github.com/SalesLoft/DevelopmentInterviewStarterKit-Elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixir-wallaby/wallaby</title>
+    <updated>2022-07-18T01:42:04Z</updated>
+    <id>tag:github.com,2022-07-18:/elixir-wallaby/wallaby</id>
+    <link href="https://github.com/elixir-wallaby/wallaby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Concurrent browser tests for your Elixir web apps.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bitwalker/timex</title>
-    <updated>2022-07-17T01:39:49Z</updated>
-    <id>tag:github.com,2022-07-17:/bitwalker/timex</id>
-    <link href="https://github.com/bitwalker/timex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A complete date/time library for Elixir projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bitwalker/firefly</title>
+    <updated>2022-07-18T01:42:04Z</updated>
+    <id>tag:github.com,2022-07-18:/bitwalker/firefly</id>
+    <link href="https://github.com/bitwalker/firefly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TBD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cesium/yearbook</title>
+    <updated>2022-07-18T01:42:04Z</updated>
+    <id>tag:github.com,2022-07-18:/cesium/yearbook</id>
+    <link href="https://github.com/cesium/yearbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🖼️ An online yearbook website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
