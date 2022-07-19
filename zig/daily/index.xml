@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T02:02:09Z</updated>
+  <updated>2022-07-19T02:02:07Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Vexu/bog</title>
-    <updated>2022-07-18T02:02:09Z</updated>
-    <id>tag:github.com,2022-07-18:/Vexu/bog</id>
-    <link href="https://github.com/Vexu/bog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Small, strongly typed, embeddable language.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

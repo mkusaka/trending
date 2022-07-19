@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:42:49Z</updated>
+  <updated>2022-07-19T01:42:31Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aeternity/aeternity</title>
-    <updated>2022-07-18T01:42:49Z</updated>
-    <id>tag:github.com,2022-07-18:/aeternity/aeternity</id>
-    <link href="https://github.com/aeternity/aeternity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>markusn/coveralls-erl</title>
+    <updated>2022-07-19T01:42:31Z</updated>
+    <id>tag:github.com,2022-07-19:/markusn/coveralls-erl</id>
+    <link href="https://github.com/markusn/coveralls-erl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang module to convert and send cover data to coveralls.io (or similar). Available as a hex package on https://hex.pm/packages/coveralls.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

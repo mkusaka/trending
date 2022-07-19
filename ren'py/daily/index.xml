@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ren&#39;Py Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:54:55Z</updated>
+  <updated>2022-07-19T01:54:53Z</updated>
   <subtitle>Daily Trending of Ren&#39;Py in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WretchedTeam/WintermuteV3</title>
-    <updated>2022-07-18T01:54:55Z</updated>
-    <id>tag:github.com,2022-07-18:/WretchedTeam/WintermuteV3</id>
-    <link href="https://github.com/WretchedTeam/WintermuteV3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Cultural Learning of Neckbeard AI Girlfriend Simulator Make Benefit Glorious Nation of United Kingdoms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

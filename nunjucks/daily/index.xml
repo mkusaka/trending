@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:51:09Z</updated>
+  <updated>2022-07-19T01:51:11Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>danurbanowicz/eleventy-netlify-boilerplate</title>
-    <updated>2022-07-18T01:51:09Z</updated>
-    <id>tag:github.com,2022-07-18:/danurbanowicz/eleventy-netlify-boilerplate</id>
-    <link href="https://github.com/danurbanowicz/eleventy-netlify-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template for building a simple website with the Eleventy static site generator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hankchizljaw/hylia</title>
-    <updated>2022-07-18T01:51:09Z</updated>
-    <id>tag:github.com,2022-07-18:/hankchizljaw/hylia</id>
-    <link href="https://github.com/hankchizljaw/hylia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HackClubRAIT/Frontend-Owls</title>
+    <updated>2022-07-19T01:51:11Z</updated>
+    <id>tag:github.com,2022-07-19:/HackClubRAIT/Frontend-Owls</id>
+    <link href="https://github.com/HackClubRAIT/Frontend-Owls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open source project to bring all front end documentation under one repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

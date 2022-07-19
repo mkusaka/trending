@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:57:46Z</updated>
+  <updated>2022-07-19T01:57:32Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>grailbio/bazel-compilation-database</title>
-    <updated>2022-07-18T01:57:46Z</updated>
-    <id>tag:github.com,2022-07-18:/grailbio/bazel-compilation-database</id>
-    <link href="https://github.com/grailbio/bazel-compilation-database" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tool to generate compile_commands.json from the Bazel build system&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>1e100/cloud_archive</title>
+    <updated>2022-07-19T01:57:32Z</updated>
+    <id>tag:github.com,2022-07-19:/1e100/cloud_archive</id>
+    <link href="https://github.com/1e100/cloud_archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rule to securely download private dependencies from cloud storage.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:40:37Z</updated>
+  <updated>2022-07-19T01:40:35Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RivaanRanawat/flutter-whatsapp-clone</title>
-    <updated>2022-07-18T01:40:37Z</updated>
-    <id>tag:github.com,2022-07-18:/RivaanRanawat/flutter-whatsapp-clone</id>
-    <link href="https://github.com/RivaanRanawat/flutter-whatsapp-clone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WhatsApp Clone&lt;/h1&gt; &#xA;&lt;p&gt;Full Stack Whatsapp Clone with Flutter, Firebase &amp;amp; Riverpod 2.0!&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Phone Number Authentication&lt;/li&gt; &#xA; &lt;li&gt;1-1 Chatting with Contacts Only&lt;/li&gt; &#xA; &lt;li&gt;Group Chatting&lt;/li&gt; &#xA; &lt;li&gt;Text, Image, GIF, Audio(Recording), Video &amp;amp; Emoji Sharing&lt;/li&gt; &#xA; &lt;li&gt;Status Visible to Contacts Only and Disappears after 24 hours&lt;/li&gt; &#xA; &lt;li&gt;Video Calling&lt;/li&gt; &#xA; &lt;li&gt;Online/Offline Status&lt;/li&gt; &#xA; &lt;li&gt;Seen Message&lt;/li&gt; &#xA; &lt;li&gt;Replying to Messages&lt;/li&gt; &#xA; &lt;li&gt;Auto Scroll on New Messages&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;YouTube&lt;/h2&gt; &#xA;&lt;p&gt;I have created a tutorial based on this, do check it out on my channel &lt;a href=&#34;https://youtu.be/yqwfP2vXWJQ&#34;&gt;Rivaan Ranawat&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img width=&#34;600&#34; src=&#34;https://github.com/RivaanRanawat/flutter-whatsapp-clone/raw/master/screenshot.jpg&#34; alt=&#34;Youtube Tutorial Image&#34;&gt; &lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;After cloning this repository, migrate to &lt;code&gt;flutter-whatsapp-clone&lt;/code&gt; folder. Then, follow the following steps:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Create Firebase Project&lt;/li&gt; &#xA; &lt;li&gt;Run the commands: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;npm install -g firebase-tools&lt;/li&gt; &#xA;   &lt;li&gt;dart pub global activate flutterfire_cli&lt;/li&gt; &#xA;   &lt;li&gt;flutterfire configure&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Enable Authentication&lt;/li&gt; &#xA; &lt;li&gt;Add Firestore &amp;amp; Storage Rules&lt;/li&gt; &#xA; &lt;li&gt;Create Android &amp;amp; iOS Apps&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Then run the following commands to run your app:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;  flutter pub get&#xA;  open -a simulator (to get iOS Simulator)&#xA;  flutter run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Tech Used&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;Server&lt;/strong&gt;: Firebase Auth, Firebase Storage, Firebase Firestore&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Client&lt;/strong&gt;: Flutter, Riverpod&lt;/p&gt; &#xA;&lt;h2&gt;Feedback&lt;/h2&gt; &#xA;&lt;p&gt;If you have any feedback, please reach out to me at &lt;a href=&#34;mailto:namanrivaan@gmail.com&#34;&gt;namanrivaan@gmail.com&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>BenjaminMahmic/collapsible_drawer</title>
+    <updated>2022-07-19T01:40:35Z</updated>
+    <id>tag:github.com,2022-07-19:/BenjaminMahmic/collapsible_drawer</id>
+    <link href="https://github.com/BenjaminMahmic/collapsible_drawer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Animated collapsible app drawer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;collasable_drawer&lt;/h1&gt; &#xA;&lt;p&gt;Animated collasable app drawer&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/89051381/179352186-d4763116-8145-4ff2-b195-ecf2249d5183.png&#34; alt=&#34;Samsung2phonesDrawerPreview&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>vandadnp/mynotes-course</title>
+    <updated>2022-07-19T01:40:35Z</updated>
+    <id>tag:github.com,2022-07-19:/vandadnp/mynotes-course</id>
+    <link href="https://github.com/vandadnp/mynotes-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the GitHub repository of the MyNotes application for the Free Flutter Course (https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mynotes&lt;/h1&gt; &#xA;&lt;p&gt;A new Flutter project.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;This project is a starting point for a Flutter application.&lt;/p&gt; &#xA;&lt;p&gt;A few resources to get you started if this is your first Flutter project:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://flutter.dev/docs/get-started/codelab&#34;&gt;Lab: Write your first Flutter app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://flutter.dev/docs/cookbook&#34;&gt;Cookbook: Useful Flutter samples&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For help getting started with Flutter, view our &lt;a href=&#34;https://flutter.dev/docs&#34;&gt;online documentation&lt;/a&gt;, which offers tutorials, samples, guidance on mobile development, and a full API reference.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>superlistapp/super_editor</title>
+    <updated>2022-07-19T01:40:35Z</updated>
+    <id>tag:github.com,2022-07-19:/superlistapp/super_editor</id>
+    <link href="https://github.com/superlistapp/super_editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Rich Text Editor for Flutter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;super_editor&lt;/h1&gt; &#xA;&lt;p&gt;The missing Rich Text Editor for Flutter. Please see the &lt;a href=&#34;https://raw.githubusercontent.com/superlistapp/super_editor/main/super_editor/README.md&#34;&gt;SuperEditor README&lt;/a&gt; about how to use the packages, or run the &lt;a href=&#34;https://raw.githubusercontent.com/superlistapp/super_editor/main/super_editor/example/README.md&#34;&gt;sample editor&lt;/a&gt;. There&#39;s also a version for Web accessible at &lt;a href=&#34;https://superlist.com/SuperEditor/&#34;&gt;https://superlist.com/SuperEditor&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Feel free to &lt;a href=&#34;https://join.slack.com/t/superlist-community/shared_invite/zt-10cpx277q-uZ~pmjlTWg9QQzH64OK9_w&#34;&gt;join us on Slack&lt;/a&gt; and say hello 👋.&lt;/p&gt;</summary>
   </entry>
 </feed>

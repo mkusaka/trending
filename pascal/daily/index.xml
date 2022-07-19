@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:52:23Z</updated>
+  <updated>2022-07-19T01:52:25Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OpenSourceCommunityBrasil/REST-DataWare</title>
-    <updated>2022-07-18T01:52:23Z</updated>
-    <id>tag:github.com,2022-07-18:/OpenSourceCommunityBrasil/REST-DataWare</id>
-    <link href="https://github.com/OpenSourceCommunityBrasil/REST-DataWare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório oficial do pacote Rest Dataware para Delphi e Lazarus&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

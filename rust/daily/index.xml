@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:55:45Z</updated>
+  <updated>2022-07-19T01:55:36Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mgunyho/tere</title>
-    <updated>2022-07-18T01:55:45Z</updated>
-    <id>tag:github.com,2022-07-18:/mgunyho/tere</id>
-    <link href="https://github.com/mgunyho/tere" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terminal file explorer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudflare/boringtun</title>
-    <updated>2022-07-18T01:55:45Z</updated>
-    <id>tag:github.com,2022-07-18:/cloudflare/boringtun</id>
-    <link href="https://github.com/cloudflare/boringtun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Userspace WireGuard® Implementation in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tokio-rs/mio</title>
+    <updated>2022-07-19T01:55:36Z</updated>
+    <id>tag:github.com,2022-07-19:/tokio-rs/mio</id>
+    <link href="https://github.com/tokio-rs/mio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Metal IO library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

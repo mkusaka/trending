@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:35:37Z</updated>
+  <updated>2022-07-19T01:35:42Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Moataz-Elmesmary/Data-Science-Roadmap</title>
-    <updated>2022-07-18T01:35:37Z</updated>
-    <id>tag:github.com,2022-07-18:/Moataz-Elmesmary/Data-Science-Roadmap</id>
-    <link href="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data Science Roadmap from A to Z&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jbhuang0604/awesome-tips</title>
+    <updated>2022-07-19T01:35:42Z</updated>
+    <id>tag:github.com,2022-07-19:/jbhuang0604/awesome-tips</id>
+    <link href="https://github.com/jbhuang0604/awesome-tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>enaqx/awesome-react</title>
-    <updated>2022-07-18T01:35:37Z</updated>
-    <id>tag:github.com,2022-07-18:/enaqx/awesome-react</id>
-    <link href="https://github.com/enaqx/awesome-react" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of awesome things regarding React ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RoseSecurity/Anti-Virus-Evading-Payloads</title>
+    <updated>2022-07-19T01:35:42Z</updated>
+    <id>tag:github.com,2022-07-19:/RoseSecurity/Anti-Virus-Evading-Payloads</id>
+    <link href="https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that yo…&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>We5ter/Scanners-Box</title>
-    <updated>2022-07-18T01:35:37Z</updated>
-    <id>tag:github.com,2022-07-18:/We5ter/Scanners-Box</id>
-    <link href="https://github.com/We5ter/Scanners-Box" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lissy93/awesome-privacy</title>
+    <updated>2022-07-19T01:35:42Z</updated>
+    <id>tag:github.com,2022-07-19:/Lissy93/awesome-privacy</id>
+    <link href="https://github.com/Lissy93/awesome-privacy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦄 A curated list of privacy &amp; security-focused software and services&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

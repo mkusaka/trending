@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:37:47Z</updated>
+  <updated>2022-07-19T01:37:44Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>heidesebastiao95/CMS-Panel</title>
-    <updated>2022-07-18T01:37:47Z</updated>
-    <id>tag:github.com,2022-07-18:/heidesebastiao95/CMS-Panel</id>
-    <link href="https://github.com/heidesebastiao95/CMS-Panel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simlpe Admin Panel&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wireui/phosphoricons</title>
-    <updated>2022-07-18T01:37:47Z</updated>
-    <id>tag:github.com,2022-07-18:/wireui/phosphoricons</id>
-    <link href="https://github.com/wireui/phosphoricons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The phosphoricons made for laravel blade by WireUI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

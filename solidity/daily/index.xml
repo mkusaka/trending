@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:57:20Z</updated>
+  <updated>2022-07-19T01:57:07Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ciaranmcveigh5/ethernaut-x-foundry</title>
-    <updated>2022-07-18T01:57:20Z</updated>
-    <id>tag:github.com,2022-07-18:/ciaranmcveigh5/ethernaut-x-foundry</id>
-    <link href="https://github.com/ciaranmcveigh5/ethernaut-x-foundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethernaut puzzles solved with foundry&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>transmissions11/solmate</title>
+    <updated>2022-07-19T01:57:07Z</updated>
+    <id>tag:github.com,2022-07-19:/transmissions11/solmate</id>
+    <link href="https://github.com/transmissions11/solmate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern, opinionated, and gas optimized building blocks for smart contract development.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>paulrberg/prb-test</title>
-    <updated>2022-07-18T01:57:20Z</updated>
-    <id>tag:github.com,2022-07-18:/paulrberg/prb-test</id>
-    <link href="https://github.com/paulrberg/prb-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern collection of testing assertions and logging utilities for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ourzora/foundry-script-examples</title>
+    <updated>2022-07-19T01:57:07Z</updated>
+    <id>tag:github.com,2022-07-19:/ourzora/foundry-script-examples</id>
+    <link href="https://github.com/ourzora/foundry-script-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>huff-language/huffers</title>
-    <updated>2022-07-18T01:57:20Z</updated>
-    <id>tag:github.com,2022-07-18:/huff-language/huffers</id>
-    <link href="https://github.com/huff-language/huffers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fully Onchain Badges for Huff Language GitHub Contributors.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arcadia-finance/lending-core</title>
+    <updated>2022-07-19T01:57:07Z</updated>
+    <id>tag:github.com,2022-07-19:/arcadia-finance/lending-core</id>
+    <link href="https://github.com/arcadia-finance/lending-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A new paradigm in collateral management. Liquidity for your NFTs!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

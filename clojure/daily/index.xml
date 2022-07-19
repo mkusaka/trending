@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:39:08Z</updated>
+  <updated>2022-07-19T01:39:06Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>borkdude/quickblog</title>
-    <updated>2022-07-18T01:39:08Z</updated>
-    <id>tag:github.com,2022-07-18:/borkdude/quickblog</id>
-    <link href="https://github.com/borkdude/quickblog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Light-weight static blog engine for Clojure and babashka&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>weavejester/medley</title>
+    <updated>2022-07-19T01:39:06Z</updated>
+    <id>tag:github.com,2022-07-19:/weavejester/medley</id>
+    <link href="https://github.com/weavejester/medley" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight library of useful Clojure functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>borkdude/gh-release-artifact</title>
-    <updated>2022-07-18T01:39:08Z</updated>
-    <id>tag:github.com,2022-07-18:/borkdude/gh-release-artifact</id>
-    <link href="https://github.com/borkdude/gh-release-artifact" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Babashka lib to upload an artifact to a Github release&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adamtornhill/code-maat</title>
-    <updated>2022-07-18T01:39:08Z</updated>
-    <id>tag:github.com,2022-07-18:/adamtornhill/code-maat</id>
-    <link href="https://github.com/adamtornhill/code-maat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A command line tool to mine and analyze data from version-control systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>status-im/status-mobile</title>
+    <updated>2022-07-19T01:39:06Z</updated>
+    <id>tag:github.com,2022-07-19:/status-im/status-mobile</id>
+    <link href="https://github.com/status-im/status-mobile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a free (libre) open source, mobile OS for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

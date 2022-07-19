@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-18T01:36:54Z</updated>
+  <updated>2022-07-19T01:36:56Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WOA-Project/SurfaceDuoPkg</title>
+    <updated>2022-07-19T01:36:56Z</updated>
+    <id>tag:github.com,2022-07-19:/WOA-Project/SurfaceDuoPkg</id>
+    <link href="https://github.com/WOA-Project/SurfaceDuoPkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make Epsilon Great again - Project Mu UEFI Firmware for Surface Duo (First Generation) Devices&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
