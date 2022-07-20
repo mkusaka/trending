@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:48:59Z</updated>
+  <updated>2022-07-20T01:45:01Z</updated>
   <subtitle>Daily Trending of M4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>freedesktop/xorg-macros</title>
-    <updated>2022-07-19T01:48:59Z</updated>
-    <id>tag:github.com,2022-07-19:/freedesktop/xorg-macros</id>
-    <link href="https://github.com/freedesktop/xorg-macros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;X.org macros utilities.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

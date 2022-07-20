@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:35:42Z</updated>
+  <updated>2022-07-20T01:32:04Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jbhuang0604/awesome-tips</title>
-    <updated>2022-07-19T01:35:42Z</updated>
-    <id>tag:github.com,2022-07-19:/jbhuang0604/awesome-tips</id>
-    <link href="https://github.com/jbhuang0604/awesome-tips" rel="alternate"></link>
+    <title>huachaohuang/awesome-dbdev</title>
+    <updated>2022-07-20T01:32:04Z</updated>
+    <id>tag:github.com,2022-07-20:/huachaohuang/awesome-dbdev</id>
+    <link href="https://github.com/huachaohuang/awesome-dbdev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome materials about database development.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NagliNagli/BountyTricks</title>
+    <updated>2022-07-20T01:32:04Z</updated>
+    <id>tag:github.com,2022-07-20:/NagliNagli/BountyTricks</id>
+    <link href="https://github.com/NagliNagli/BountyTricks" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RoseSecurity/Anti-Virus-Evading-Payloads</title>
-    <updated>2022-07-19T01:35:42Z</updated>
-    <id>tag:github.com,2022-07-19:/RoseSecurity/Anti-Virus-Evading-Payloads</id>
-    <link href="https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;During the exploitation phase of a pen test or ethical hacking engagement, you will ultimately need to try to cause code to run on target system computers. Whether accomplished by phishing emails, delivering a payload through an exploit, or social engineering, running code on target computers is part of most penetration tests. That means that yo…&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Lissy93/awesome-privacy</title>
-    <updated>2022-07-19T01:35:42Z</updated>
-    <id>tag:github.com,2022-07-19:/Lissy93/awesome-privacy</id>
-    <link href="https://github.com/Lissy93/awesome-privacy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦄 A curated list of privacy &amp; security-focused software and services&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nithur-M/work-from-anywhere</title>
+    <updated>2022-07-20T01:32:04Z</updated>
+    <id>tag:github.com,2022-07-20:/Nithur-M/work-from-anywhere</id>
+    <link href="https://github.com/Nithur-M/work-from-anywhere" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A daily curated list of jobs that allow working from anywhere.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

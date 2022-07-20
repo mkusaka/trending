@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:43:28Z</updated>
+  <updated>2022-07-20T01:39:54Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>id-be/GMTK2022</title>
-    <updated>2022-07-19T01:43:28Z</updated>
-    <id>tag:github.com,2022-07-19:/id-be/GMTK2022</id>
-    <link href="https://github.com/id-be/GMTK2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GMTK 2022&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>s4x0r/GMTKjam-2022</title>
-    <updated>2022-07-19T01:43:28Z</updated>
-    <id>tag:github.com,2022-07-19:/s4x0r/GMTKjam-2022</id>
-    <link href="https://github.com/s4x0r/GMTKjam-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>moehnked/GMTK-2022</title>
-    <updated>2022-07-19T01:43:28Z</updated>
-    <id>tag:github.com,2022-07-19:/moehnked/GMTK-2022</id>
-    <link href="https://github.com/moehnked/GMTK-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

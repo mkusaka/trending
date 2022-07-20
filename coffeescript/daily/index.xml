@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:39:25Z</updated>
+  <updated>2022-07-20T01:35:52Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phonowell/genshin-impact-script</title>
-    <updated>2022-07-19T01:39:25Z</updated>
-    <id>tag:github.com,2022-07-19:/phonowell/genshin-impact-script</id>
-    <link href="https://github.com/phonowell/genshin-impact-script" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;好耶！是人畜无害的原神脚本！Sweet! What a cute Genshin Impact script!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rosenfeld/js-modules</title>
-    <updated>2022-07-19T01:39:25Z</updated>
-    <id>tag:github.com,2022-07-19:/rosenfeld/js-modules</id>
-    <link href="https://github.com/rosenfeld/js-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Split your JavaScript &#34;classes&#34; in multiple files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thebrigade/spotify-girl-talk</title>
+    <updated>2022-07-20T01:35:52Z</updated>
+    <id>tag:github.com,2022-07-20:/thebrigade/spotify-girl-talk</id>
+    <link href="https://github.com/thebrigade/spotify-girl-talk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Girl talk spotify app hack for PDX music hack day&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

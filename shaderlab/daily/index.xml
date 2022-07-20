@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:56:14Z</updated>
+  <updated>2022-07-20T01:52:26Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Omarlsg98/GameJam</title>
-    <updated>2022-07-19T01:56:14Z</updated>
-    <id>tag:github.com,2022-07-19:/Omarlsg98/GameJam</id>
-    <link href="https://github.com/Omarlsg98/GameJam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Twinf0x/gmtk-game-jam-2022</title>
-    <updated>2022-07-19T01:56:14Z</updated>
-    <id>tag:github.com,2022-07-19:/Twinf0x/gmtk-game-jam-2022</id>
-    <link href="https://github.com/Twinf0x/gmtk-game-jam-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PanchoCx/EnDecoudre</title>
-    <updated>2022-07-19T01:56:14Z</updated>
-    <id>tag:github.com,2022-07-19:/PanchoCx/EnDecoudre</id>
-    <link href="https://github.com/PanchoCx/EnDecoudre" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

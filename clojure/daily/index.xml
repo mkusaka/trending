@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:39:06Z</updated>
+  <updated>2022-07-20T01:35:33Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>weavejester/medley</title>
-    <updated>2022-07-19T01:39:06Z</updated>
-    <id>tag:github.com,2022-07-19:/weavejester/medley</id>
-    <link href="https://github.com/weavejester/medley" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight library of useful Clojure functions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/status-mobile</title>
-    <updated>2022-07-19T01:39:06Z</updated>
-    <id>tag:github.com,2022-07-19:/status-im/status-mobile</id>
-    <link href="https://github.com/status-im/status-mobile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a free (libre) open source, mobile OS for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

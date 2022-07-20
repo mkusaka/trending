@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T02:00:34Z</updated>
+  <updated>2022-07-20T01:56:19Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ccfddl/ccf-deadlines</title>
-    <updated>2022-07-19T02:00:34Z</updated>
-    <id>tag:github.com,2022-07-19:/ccfddl/ccf-deadlines</id>
-    <link href="https://github.com/ccfddl/ccf-deadlines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>5aaee9/Dnsflare</title>
+    <updated>2022-07-20T01:56:19Z</updated>
+    <id>tag:github.com,2022-07-20:/5aaee9/Dnsflare</id>
+    <link href="https://github.com/5aaee9/Dnsflare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Edit cloudflare domain dns settings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>XPoet/picx</title>
-    <updated>2022-07-19T02:00:34Z</updated>
-    <id>tag:github.com,2022-07-19:/XPoet/picx</id>
-    <link href="https://github.com/XPoet/picx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 GitHub API 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cuiocean/ZY-Player-APP</title>
+    <updated>2022-07-20T01:56:19Z</updated>
+    <id>tag:github.com,2022-07-20:/cuiocean/ZY-Player-APP</id>
+    <link href="https://github.com/cuiocean/ZY-Player-APP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;▶️ 跨平台移动端视频资源播放器. 简洁免费. 🎞 ZY Player 移动端 APP，基于 Uni-app 开发.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>betterRunner/context-note</title>
-    <updated>2022-07-19T02:00:34Z</updated>
-    <id>tag:github.com,2022-07-19:/betterRunner/context-note</id>
-    <link href="https://github.com/betterRunner/context-note" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A note-taking chrome extension: taking notes on the web with their context.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tencent/tdesign-mobile-vue</title>
+    <updated>2022-07-20T01:56:19Z</updated>
+    <id>tag:github.com,2022-07-20:/Tencent/tdesign-mobile-vue</id>
+    <link href="https://github.com/Tencent/tdesign-mobile-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vue3.x Mobile UI components lib for TDesign.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

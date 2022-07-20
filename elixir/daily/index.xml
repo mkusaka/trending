@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:41:56Z</updated>
+  <updated>2022-07-20T01:38:20Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rauversion/rauversion-phx</title>
+    <updated>2022-07-20T01:38:20Z</updated>
+    <id>tag:github.com,2022-07-20:/rauversion/rauversion-phx</id>
+    <link href="https://github.com/rauversion/rauversion-phx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rauversion is an open source music platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lk-geimfari/awesomo</title>
+    <updated>2022-07-20T01:38:20Z</updated>
+    <id>tag:github.com,2022-07-20:/lk-geimfari/awesomo</id>
+    <link href="https://github.com/lk-geimfari/awesomo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cool open source projects written in various languages.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>meltwater/sparkline</title>
+    <updated>2022-07-20T01:38:20Z</updated>
+    <id>tag:github.com,2022-07-20:/meltwater/sparkline</id>
+    <link href="https://github.com/meltwater/sparkline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ANSI Sparklines for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

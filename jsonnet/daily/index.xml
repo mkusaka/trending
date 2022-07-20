@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:46:48Z</updated>
+  <updated>2022-07-20T01:43:10Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DUNE-DAQ/rcif</title>
-    <updated>2022-07-19T01:46:48Z</updated>
-    <id>tag:github.com,2022-07-19:/DUNE-DAQ/rcif</id>
-    <link href="https://github.com/DUNE-DAQ/rcif" rel="alternate"></link>
+    <title>kubeflow/kfserving-lts</title>
+    <updated>2022-07-20T01:43:10Z</updated>
+    <id>tag:github.com,2022-07-20:/kubeflow/kfserving-lts</id>
+    <link href="https://github.com/kubeflow/kfserving-lts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

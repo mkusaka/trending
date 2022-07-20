@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:39:16Z</updated>
+  <updated>2022-07-20T01:35:43Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>machines-in-motion/mpi_cmake_modules</title>
-    <updated>2022-07-19T01:39:16Z</updated>
-    <id>tag:github.com,2022-07-19:/machines-in-motion/mpi_cmake_modules</id>
-    <link href="https://github.com/machines-in-motion/mpi_cmake_modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethz-asl/metis_catkin</title>
+    <updated>2022-07-20T01:35:43Z</updated>
+    <id>tag:github.com,2022-07-20:/ethz-asl/metis_catkin</id>
+    <link href="https://github.com/ethz-asl/metis_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catkin wrapper for http://glaros.dtc.umn.edu/gkhome/metis&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

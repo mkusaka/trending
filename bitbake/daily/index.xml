@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:37:49Z</updated>
+  <updated>2022-07-20T01:34:08Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>balena-os/balena-generic</title>
-    <updated>2022-07-19T01:37:49Z</updated>
-    <id>tag:github.com,2022-07-19:/balena-os/balena-generic</id>
-    <link href="https://github.com/balena-os/balena-generic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Balena support for generic devices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

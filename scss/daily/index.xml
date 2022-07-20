@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:56:07Z</updated>
+  <updated>2022-07-20T01:52:20Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ML-Collective/robotics</title>
-    <updated>2022-07-19T01:56:07Z</updated>
-    <id>tag:github.com,2022-07-19:/ML-Collective/robotics</id>
-    <link href="https://github.com/ML-Collective/robotics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The robotics interest group landing page.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lucferbux/TypescriptWeatherExample</title>
-    <updated>2022-07-19T01:56:07Z</updated>
-    <id>tag:github.com,2022-07-19:/lucferbux/TypescriptWeatherExample</id>
-    <link href="https://github.com/lucferbux/TypescriptWeatherExample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Weather Example&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>okp4/docs</title>
+    <updated>2022-07-20T01:52:20Z</updated>
+    <id>tag:github.com,2022-07-20:/okp4/docs</id>
+    <link href="https://github.com/okp4/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 ØKP4 documentation portal (built with Docusaurus).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

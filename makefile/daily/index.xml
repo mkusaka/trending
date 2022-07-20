@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:49:03Z</updated>
+  <updated>2022-07-20T01:45:08Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NothingOSS/android_kernel_devicetree_nothing_sm7325</title>
-    <updated>2022-07-19T01:49:03Z</updated>
-    <id>tag:github.com,2022-07-19:/NothingOSS/android_kernel_devicetree_nothing_sm7325</id>
-    <link href="https://github.com/NothingOSS/android_kernel_devicetree_nothing_sm7325" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kernel Devicetree Source for NOTHING Phone(1)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>soundmonster/samoklava</title>
+    <updated>2022-07-20T01:45:08Z</updated>
+    <id>tag:github.com,2022-07-20:/soundmonster/samoklava</id>
+    <link href="https://github.com/soundmonster/samoklava" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generated keyboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Flamingo-OS/device_flamingo_sepolicy</title>
-    <updated>2022-07-19T01:49:03Z</updated>
-    <id>tag:github.com,2022-07-19:/Flamingo-OS/device_flamingo_sepolicy</id>
-    <link href="https://github.com/Flamingo-OS/device_flamingo_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>greenpeace/planet4-docker-compose</title>
+    <updated>2022-07-20T01:45:08Z</updated>
+    <id>tag:github.com,2022-07-20:/greenpeace/planet4-docker-compose</id>
+    <link href="https://github.com/greenpeace/planet4-docker-compose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Planet 4 docker-compose development environment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Flamingo-OS/device_qcom_common</title>
-    <updated>2022-07-19T01:49:03Z</updated>
-    <id>tag:github.com,2022-07-19:/Flamingo-OS/device_qcom_common</id>
-    <link href="https://github.com/Flamingo-OS/device_qcom_common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xmos/lib_xassert</title>
+    <updated>2022-07-20T01:45:08Z</updated>
+    <id>tag:github.com,2022-07-20:/xmos/lib_xassert</id>
+    <link href="https://github.com/xmos/lib_xassert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight assertions library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

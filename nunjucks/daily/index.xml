@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:51:11Z</updated>
+  <updated>2022-07-20T01:47:15Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HackClubRAIT/Frontend-Owls</title>
-    <updated>2022-07-19T01:51:11Z</updated>
-    <id>tag:github.com,2022-07-19:/HackClubRAIT/Frontend-Owls</id>
-    <link href="https://github.com/HackClubRAIT/Frontend-Owls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open source project to bring all front end documentation under one repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ministryofjustice/opg-modernising-lpa-docs</title>
+    <updated>2022-07-20T01:47:15Z</updated>
+    <id>tag:github.com,2022-07-20:/ministryofjustice/opg-modernising-lpa-docs</id>
+    <link href="https://github.com/ministryofjustice/opg-modernising-lpa-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OPG Modernising LPA Docs: Managed by opg-org-infra &amp; Terraform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

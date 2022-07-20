@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:37:32Z</updated>
+  <updated>2022-07-20T01:33:53Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QuocNinhXR/WindowsServerFreeVPS</title>
-    <updated>2022-07-19T01:37:32Z</updated>
-    <id>tag:github.com,2022-07-19:/QuocNinhXR/WindowsServerFreeVPS</id>
-    <link href="https://github.com/QuocNinhXR/WindowsServerFreeVPS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chundermike/rpi-fruitbox-v2</title>
+    <updated>2022-07-20T01:33:53Z</updated>
+    <id>tag:github.com,2022-07-20:/chundermike/rpi-fruitbox-v2</id>
+    <link href="https://github.com/chundermike/rpi-fruitbox-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Retro MP3 Jukebox for Raspberry Pi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ALYNADV/FreeRDP</title>
-    <updated>2022-07-19T01:37:32Z</updated>
-    <id>tag:github.com,2022-07-19:/ALYNADV/FreeRDP</id>
-    <link href="https://github.com/ALYNADV/FreeRDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VDSfree/freevds</title>
+    <updated>2022-07-20T01:33:53Z</updated>
+    <id>tag:github.com,2022-07-20:/VDSfree/freevds</id>
+    <link href="https://github.com/VDSfree/freevds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free vds (6 hours)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rdmo1/Rdmo1-Multi-Tool</title>
+    <updated>2022-07-20T01:33:53Z</updated>
+    <id>tag:github.com,2022-07-20:/Rdmo1/Rdmo1-Multi-Tool</id>
+    <link href="https://github.com/Rdmo1/Rdmo1-Multi-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Made in Python! Multi Tool for Roblox &amp; Discord, visit now!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

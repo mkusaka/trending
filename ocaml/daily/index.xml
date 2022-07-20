@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-19T01:51:35Z</updated>
+  <updated>2022-07-20T01:47:47Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>deedy/MapReduce</title>
-    <updated>2022-07-19T01:51:35Z</updated>
-    <id>tag:github.com,2022-07-19:/deedy/MapReduce</id>
-    <link href="https://github.com/deedy/MapReduce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simplified version of Google&#39;s MapReduce on OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imandra-ai/fix-engine</title>
+    <updated>2022-07-20T01:47:47Z</updated>
+    <id>tag:github.com,2022-07-20:/imandra-ai/fix-engine</id>
+    <link href="https://github.com/imandra-ai/fix-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Imandra FIX Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
