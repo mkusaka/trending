@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:38:57Z</updated>
+  <updated>2022-07-21T01:43:31Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Nypias/Groupy-Erlang</title>
-    <updated>2022-07-20T01:38:57Z</updated>
-    <id>tag:github.com,2022-07-20:/Nypias/Groupy-Erlang</id>
-    <link href="https://github.com/Nypias/Groupy-Erlang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A group membership service that provides atomic multicast (Academic project)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

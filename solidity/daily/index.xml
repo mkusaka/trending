@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:53:19Z</updated>
+  <updated>2022-07-21T01:58:05Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>graphprotocol/example-subgraph</title>
-    <updated>2022-07-20T01:53:19Z</updated>
-    <id>tag:github.com,2022-07-20:/graphprotocol/example-subgraph</id>
-    <link href="https://github.com/graphprotocol/example-subgraph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An example to help you get started with The Graph&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Charged-Particles/erc721i</title>
+    <updated>2022-07-21T01:58:05Z</updated>
+    <id>tag:github.com,2022-07-21:/Charged-Particles/erc721i</id>
+    <link href="https://github.com/Charged-Particles/erc721i" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Infinite (ERC721i) - Gas-efficient NFT contracts for Pre-Minting Millions of NFTs!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Uniswap/governance</title>
-    <updated>2022-07-20T01:53:19Z</updated>
-    <id>tag:github.com,2022-07-20:/Uniswap/governance</id>
-    <link href="https://github.com/Uniswap/governance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏛 Governance contracts for the Uniswap protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>defi-wonderland/solidity-foundry-boilerplate</title>
+    <updated>2022-07-21T01:58:05Z</updated>
+    <id>tag:github.com,2022-07-21:/defi-wonderland/solidity-foundry-boilerplate</id>
+    <link href="https://github.com/defi-wonderland/solidity-foundry-boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚒️ Start your next Solidity project with Foundry in seconds&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Vectorized/solady</title>
+    <updated>2022-07-21T01:58:05Z</updated>
+    <id>tag:github.com,2022-07-21:/Vectorized/solady</id>
+    <link href="https://github.com/Vectorized/solady" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Optimized Solidity snippets.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

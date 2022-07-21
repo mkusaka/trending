@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:52:20Z</updated>
+  <updated>2022-07-21T01:57:08Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>okp4/docs</title>
-    <updated>2022-07-20T01:52:20Z</updated>
-    <id>tag:github.com,2022-07-20:/okp4/docs</id>
-    <link href="https://github.com/okp4/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 ØKP4 documentation portal (built with Docusaurus).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anburocky3/webdesign-tamil</title>
+    <updated>2022-07-21T01:57:08Z</updated>
+    <id>tag:github.com,2022-07-21:/anburocky3/webdesign-tamil</id>
+    <link href="https://github.com/anburocky3/webdesign-tamil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern landing page built on HTML, CSS, SASS &amp; Javascript in Tamil. Learn Webdesign in tamil.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>brianmaierjr/long-haul</title>
+    <updated>2022-07-21T01:57:08Z</updated>
+    <id>tag:github.com,2022-07-21:/brianmaierjr/long-haul</id>
+    <link href="https://github.com/brianmaierjr/long-haul" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal, type-focused Jekyll theme.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>UTMIST/WallStreetBots</title>
+    <updated>2022-07-21T01:57:08Z</updated>
+    <id>tag:github.com,2022-07-21:/UTMIST/WallStreetBots</id>
+    <link href="https://github.com/UTMIST/WallStreetBots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boom or Bust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

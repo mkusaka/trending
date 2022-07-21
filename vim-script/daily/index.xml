@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:56:09Z</updated>
+  <updated>2022-07-21T02:01:08Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rubinovk/.vim</title>
-    <updated>2022-07-20T01:56:09Z</updated>
-    <id>tag:github.com,2022-07-20:/rubinovk/.vim</id>
-    <link href="https://github.com/rubinovk/.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My vimrc is a compilation of the most useful vimrc&#39;s I&#39;ve seen so far&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vbjordan/dotvim-old</title>
+    <updated>2022-07-21T02:01:08Z</updated>
+    <id>tag:github.com,2022-07-21:/vbjordan/dotvim-old</id>
+    <link href="https://github.com/vbjordan/dotvim-old" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim stuff&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JamshedVesuna/vim-markdown-preview</title>
-    <updated>2022-07-20T01:56:09Z</updated>
-    <id>tag:github.com,2022-07-20:/JamshedVesuna/vim-markdown-preview</id>
-    <link href="https://github.com/JamshedVesuna/vim-markdown-preview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A light Vim plugin for previewing markdown files in a browser - without leaving Vim.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yoroizukapsuke/vimrc</title>
+    <updated>2022-07-21T02:01:08Z</updated>
+    <id>tag:github.com,2022-07-21:/yoroizukapsuke/vimrc</id>
+    <link href="https://github.com/yoroizukapsuke/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my vimrc&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kien/ctrlp.vim</title>
-    <updated>2022-07-20T01:56:09Z</updated>
-    <id>tag:github.com,2022-07-20:/kien/ctrlp.vim</id>
-    <link href="https://github.com/kien/ctrlp.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fuzzy file, buffer, mru, tag, etc finder.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpope/vim-abolish</title>
+    <updated>2022-07-21T02:01:08Z</updated>
+    <id>tag:github.com,2022-07-21:/tpope/vim-abolish</id>
+    <link href="https://github.com/tpope/vim-abolish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

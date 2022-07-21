@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:51:51Z</updated>
+  <updated>2022-07-21T01:56:38Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seanmonstar/reqwest</title>
-    <updated>2022-07-20T01:51:51Z</updated>
-    <id>tag:github.com,2022-07-20:/seanmonstar/reqwest</id>
-    <link href="https://github.com/seanmonstar/reqwest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An easy and powerful Rust HTTP Client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>freenet/locutus</title>
+    <updated>2022-07-21T01:56:38Z</updated>
+    <id>tag:github.com,2022-07-21:/freenet/locutus</id>
+    <link href="https://github.com/freenet/locutus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Declare your digital independence&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>near/nearcore</title>
-    <updated>2022-07-20T01:51:51Z</updated>
-    <id>tag:github.com,2022-07-20:/near/nearcore</id>
-    <link href="https://github.com/near/nearcore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference client for NEAR Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Schniz/fnm</title>
+    <updated>2022-07-21T01:56:38Z</updated>
+    <id>tag:github.com,2022-07-21:/Schniz/fnm</id>
+    <link href="https://github.com/Schniz/fnm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Fast and simple Node.js version manager, built in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tomusdrw/rust-web3</title>
-    <updated>2022-07-20T01:51:51Z</updated>
-    <id>tag:github.com,2022-07-20:/tomusdrw/rust-web3</id>
-    <link href="https://github.com/tomusdrw/rust-web3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library. ENS address: rust-web3.eth&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bevy-cheatbook/bevy-cheatbook</title>
+    <updated>2022-07-21T01:56:38Z</updated>
+    <id>tag:github.com,2022-07-21:/bevy-cheatbook/bevy-cheatbook</id>
+    <link href="https://github.com/bevy-cheatbook/bevy-cheatbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Concise Reference Book for the Bevy Game Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

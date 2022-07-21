@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:50:12Z</updated>
+  <updated>2022-07-21T01:55:02Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>purescript/purescript-lcg</title>
-    <updated>2022-07-20T01:50:12Z</updated>
-    <id>tag:github.com,2022-07-20:/purescript/purescript-lcg</id>
-    <link href="https://github.com/purescript/purescript-lcg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A seeded pseudorandom number generator based on the linear congruential generator algorithm.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

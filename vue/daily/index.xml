@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:56:19Z</updated>
+  <updated>2022-07-21T02:01:19Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>5aaee9/Dnsflare</title>
-    <updated>2022-07-20T01:56:19Z</updated>
-    <id>tag:github.com,2022-07-20:/5aaee9/Dnsflare</id>
-    <link href="https://github.com/5aaee9/Dnsflare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Edit cloudflare domain dns settings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gmingchen/vue3-element-plus-admin</title>
+    <updated>2022-07-21T02:01:19Z</updated>
+    <id>tag:github.com,2022-07-21:/gmingchen/vue3-element-plus-admin</id>
+    <link href="https://github.com/gmingchen/vue3-element-plus-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vue3-element-plus-admin vue3.0 ts typescript element-plus vue-cli vue-router i18n vuex composition-api class-style 管理端 后台管理 admin模版框架 后端权限控制 动态加载路由 国际化 前端vue 后端java springboot 【私活神器，私活利器】&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cuiocean/ZY-Player-APP</title>
-    <updated>2022-07-20T01:56:19Z</updated>
-    <id>tag:github.com,2022-07-20:/cuiocean/ZY-Player-APP</id>
-    <link href="https://github.com/cuiocean/ZY-Player-APP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;▶️ 跨平台移动端视频资源播放器. 简洁免费. 🎞 ZY Player 移动端 APP，基于 Uni-app 开发.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GeekQiaQia/vue3.0-template-admin</title>
+    <updated>2022-07-21T02:01:19Z</updated>
+    <id>tag:github.com,2022-07-21:/GeekQiaQia/vue3.0-template-admin</id>
+    <link href="https://github.com/GeekQiaQia/vue3.0-template-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Tencent/tdesign-mobile-vue</title>
-    <updated>2022-07-20T01:56:19Z</updated>
-    <id>tag:github.com,2022-07-20:/Tencent/tdesign-mobile-vue</id>
-    <link href="https://github.com/Tencent/tdesign-mobile-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vue3.x Mobile UI components lib for TDesign.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>euvl/vue-js-modal</title>
+    <updated>2022-07-21T02:01:19Z</updated>
+    <id>tag:github.com,2022-07-21:/euvl/vue-js-modal</id>
+    <link href="https://github.com/euvl/vue-js-modal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easy to use, highly customizable Vue.js modal library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

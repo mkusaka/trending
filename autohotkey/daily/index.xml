@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:33:36Z</updated>
+  <updated>2022-07-21T01:38:07Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Aetopia/Lunar-Client-Lite-Launcher</title>
+    <updated>2022-07-21T01:38:07Z</updated>
+    <id>tag:github.com,2022-07-21:/Aetopia/Lunar-Client-Lite-Launcher</id>
+    <link href="https://github.com/Aetopia/Lunar-Client-Lite-Launcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight and unlocked launcher for Lunar Client. Made in AutoHotkey.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

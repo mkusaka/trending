@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:53:09Z</updated>
+  <updated>2022-07-21T01:57:58Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pharo-spec/Spec</title>
+    <updated>2022-07-21T01:57:58Z</updated>
+    <id>tag:github.com,2022-07-21:/pharo-spec/Spec</id>
+    <link href="https://github.com/pharo-spec/Spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spec is a framework in Pharo for describing user interfaces.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PharoJS/PharoJS</title>
+    <updated>2022-07-21T01:57:58Z</updated>
+    <id>tag:github.com,2022-07-21:/PharoJS/PharoJS</id>
+    <link href="https://github.com/PharoJS/PharoJS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PharoJS: Develop in Pharo, Run on JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

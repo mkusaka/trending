@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:32:04Z</updated>
+  <updated>2022-07-21T01:36:28Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huachaohuang/awesome-dbdev</title>
-    <updated>2022-07-20T01:32:04Z</updated>
-    <id>tag:github.com,2022-07-20:/huachaohuang/awesome-dbdev</id>
-    <link href="https://github.com/huachaohuang/awesome-dbdev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome materials about database development.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eserozvataf/telegram</title>
+    <updated>2022-07-21T01:36:28Z</updated>
+    <id>tag:github.com,2022-07-21:/eserozvataf/telegram</id>
+    <link href="https://github.com/eserozvataf/telegram" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yazılımcı Telegram Topluluk ve Kanalları&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NagliNagli/BountyTricks</title>
-    <updated>2022-07-20T01:32:04Z</updated>
-    <id>tag:github.com,2022-07-20:/NagliNagli/BountyTricks</id>
-    <link href="https://github.com/NagliNagli/BountyTricks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paradite/sg-tech-list</title>
+    <updated>2022-07-21T01:36:28Z</updated>
+    <id>tag:github.com,2022-07-21:/paradite/sg-tech-list</id>
+    <link href="https://github.com/paradite/sg-tech-list" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📜 List of notable tech companies in Singapore&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nithur-M/work-from-anywhere</title>
-    <updated>2022-07-20T01:32:04Z</updated>
-    <id>tag:github.com,2022-07-20:/Nithur-M/work-from-anywhere</id>
-    <link href="https://github.com/Nithur-M/work-from-anywhere" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A daily curated list of jobs that allow working from anywhere.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>martinshkreli/models</title>
+    <updated>2022-07-21T01:36:28Z</updated>
+    <id>tag:github.com,2022-07-21:/martinshkreli/models</id>
+    <link href="https://github.com/martinshkreli/models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;stock market models - have fun&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

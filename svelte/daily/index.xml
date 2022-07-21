@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:53:58Z</updated>
+  <updated>2022-07-21T01:58:52Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>commune-org/commune</title>
-    <updated>2022-07-20T01:53:58Z</updated>
-    <id>tag:github.com,2022-07-20:/commune-org/commune</id>
-    <link href="https://github.com/commune-org/commune" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Commune is a communications suite built on top of matrix. Commune aims to bring together chat, discussions, email and other interactive apps into a single matrix client.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creatorsgarten/creatorsgarten.org</title>
+    <updated>2022-07-21T01:58:52Z</updated>
+    <id>tag:github.com,2022-07-21:/creatorsgarten/creatorsgarten.org</id>
+    <link href="https://github.com/creatorsgarten/creatorsgarten.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;creatorsgarten = garden of creators&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

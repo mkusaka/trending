@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-20T01:46:59Z</updated>
+  <updated>2022-07-21T01:51:44Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>frkngksl/NiCOFF</title>
+    <updated>2022-07-21T01:51:44Z</updated>
+    <id>tag:github.com,2022-07-21:/frkngksl/NiCOFF</id>
+    <link href="https://github.com/frkngksl/NiCOFF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;COFF and BOF Loader written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Araq/mastering_nim</title>
+    <updated>2022-07-21T01:51:44Z</updated>
+    <id>tag:github.com,2022-07-21:/Araq/mastering_nim</id>
+    <link href="https://github.com/Araq/mastering_nim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code examples and issue tracker for my book &#34;Mastering Nim&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sh3d0ww01f/nim_shellloader</title>
+    <updated>2022-07-21T01:51:44Z</updated>
+    <id>tag:github.com,2022-07-21:/sh3d0ww01f/nim_shellloader</id>
+    <link href="https://github.com/sh3d0ww01f/nim_shellloader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nim,免杀,红队,shellcode,bypass,apt,bypass-av.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
