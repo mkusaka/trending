@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:57:08Z</updated>
+  <updated>2022-07-22T01:54:35Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anburocky3/webdesign-tamil</title>
-    <updated>2022-07-21T01:57:08Z</updated>
-    <id>tag:github.com,2022-07-21:/anburocky3/webdesign-tamil</id>
-    <link href="https://github.com/anburocky3/webdesign-tamil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern landing page built on HTML, CSS, SASS &amp; Javascript in Tamil. Learn Webdesign in tamil.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kaushikgopal/henry-hugo</title>
+    <updated>2022-07-22T01:54:35Z</updated>
+    <id>tag:github.com,2022-07-22:/kaushikgopal/henry-hugo</id>
+    <link href="https://github.com/kaushikgopal/henry-hugo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Henry: Hugo theme meant for a gorgeous reading experience and packed with features&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>brianmaierjr/long-haul</title>
-    <updated>2022-07-21T01:57:08Z</updated>
-    <id>tag:github.com,2022-07-21:/brianmaierjr/long-haul</id>
-    <link href="https://github.com/brianmaierjr/long-haul" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimal, type-focused Jekyll theme.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dgknca/css-skeletons</title>
+    <updated>2022-07-22T01:54:35Z</updated>
+    <id>tag:github.com,2022-07-22:/dgknca/css-skeletons</id>
+    <link href="https://github.com/dgknca/css-skeletons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A single div, dynamic, fully customizable pure CSS skeletons library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>UTMIST/WallStreetBots</title>
-    <updated>2022-07-21T01:57:08Z</updated>
-    <id>tag:github.com,2022-07-21:/UTMIST/WallStreetBots</id>
-    <link href="https://github.com/UTMIST/WallStreetBots" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boom or Bust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pages-themes/modernist</title>
+    <updated>2022-07-22T01:54:35Z</updated>
+    <id>tag:github.com,2022-07-22:/pages-themes/modernist</id>
+    <link href="https://github.com/pages-themes/modernist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modernist is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

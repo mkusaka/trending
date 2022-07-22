@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:45:01Z</updated>
+  <updated>2022-07-22T01:42:19Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TianZerL/ACNetGLSL</title>
-    <updated>2022-07-21T01:45:01Z</updated>
-    <id>tag:github.com,2022-07-21:/TianZerL/ACNetGLSL</id>
-    <link href="https://github.com/TianZerL/ACNetGLSL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ACNet (Anime4KCPP Net) re-implemented in GLSL for real-time anime upscaling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Aerthas/UNITY-Arc-system-Works-Shader</title>
+    <updated>2022-07-22T01:42:19Z</updated>
+    <id>tag:github.com,2022-07-22:/Aerthas/UNITY-Arc-system-Works-Shader</id>
+    <link href="https://github.com/Aerthas/UNITY-Arc-system-Works-Shader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shader created to emulate the design style of Arc System Works games such as Guilty Gear and Dragon Ball FighterZ. Created using Amplify Shader Editor.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

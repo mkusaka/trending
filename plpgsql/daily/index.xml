@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:53:57Z</updated>
+  <updated>2022-07-22T01:51:17Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tadinve/EKG-Foundations</title>
-    <updated>2022-07-21T01:53:57Z</updated>
-    <id>tag:github.com,2022-07-21:/tadinve/EKG-Foundations</id>
-    <link href="https://github.com/tadinve/EKG-Foundations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aiven/aiven-extras</title>
+    <updated>2022-07-22T01:51:17Z</updated>
+    <id>tag:github.com,2022-07-22:/aiven/aiven-extras</id>
+    <link href="https://github.com/aiven/aiven-extras" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aiven PostgreSQL® extras&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

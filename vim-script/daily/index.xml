@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T02:01:08Z</updated>
+  <updated>2022-07-22T01:58:32Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vbjordan/dotvim-old</title>
-    <updated>2022-07-21T02:01:08Z</updated>
-    <id>tag:github.com,2022-07-21:/vbjordan/dotvim-old</id>
-    <link href="https://github.com/vbjordan/dotvim-old" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim stuff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mhinz/vim-signify</title>
+    <updated>2022-07-22T01:58:32Z</updated>
+    <id>tag:github.com,2022-07-22:/mhinz/vim-signify</id>
+    <link href="https://github.com/mhinz/vim-signify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;➕ Show a diff using Vim its sign column.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yoroizukapsuke/vimrc</title>
-    <updated>2022-07-21T02:01:08Z</updated>
-    <id>tag:github.com,2022-07-21:/yoroizukapsuke/vimrc</id>
-    <link href="https://github.com/yoroizukapsuke/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my vimrc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>junegunn/seoul256.vim</title>
+    <updated>2022-07-22T01:58:32Z</updated>
+    <id>tag:github.com,2022-07-22:/junegunn/seoul256.vim</id>
+    <link href="https://github.com/junegunn/seoul256.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌳 Low-contrast Vim color scheme based on Seoul Colors&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tpope/vim-abolish</title>
-    <updated>2022-07-21T02:01:08Z</updated>
-    <id>tag:github.com,2022-07-21:/tpope/vim-abolish</id>
-    <link href="https://github.com/tpope/vim-abolish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alexey-goloburdin/nvim-config</title>
+    <updated>2022-07-22T01:58:32Z</updated>
+    <id>tag:github.com,2022-07-22:/alexey-goloburdin/nvim-config</id>
+    <link href="https://github.com/alexey-goloburdin/nvim-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

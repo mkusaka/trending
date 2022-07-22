@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:38:01Z</updated>
+  <updated>2022-07-22T01:35:26Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>giaf/blasfeo</title>
-    <updated>2022-07-21T01:38:01Z</updated>
-    <id>tag:github.com,2022-07-21:/giaf/blasfeo</id>
-    <link href="https://github.com/giaf/blasfeo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic linear algebra subroutines for embedded optimization&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KALTCHUK/Z80_Modular_Computer</title>
+    <updated>2022-07-22T01:35:26Z</updated>
+    <id>tag:github.com,2022-07-22:/KALTCHUK/Z80_Modular_Computer</id>
+    <link href="https://github.com/KALTCHUK/Z80_Modular_Computer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;Anyone who has brought up CP/M on a homebuilt computer has felt this moment of elation. A myriad of connections are properly closed; bits are flying at lightning speeds over busses and through circuits and program logic, to produce a single prompt&#34;. Gary Kildall&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pmret/papermario</title>
+    <updated>2022-07-22T01:35:26Z</updated>
+    <id>tag:github.com,2022-07-22:/pmret/papermario</id>
+    <link href="https://github.com/pmret/papermario" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Decompilation of Paper Mario&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:56:38Z</updated>
+  <updated>2022-07-22T01:54:07Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>freenet/locutus</title>
-    <updated>2022-07-21T01:56:38Z</updated>
-    <id>tag:github.com,2022-07-21:/freenet/locutus</id>
-    <link href="https://github.com/freenet/locutus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Declare your digital independence&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>privacy-scaling-explorations/zkevm-circuits</title>
+    <updated>2022-07-22T01:54:07Z</updated>
+    <id>tag:github.com,2022-07-22:/privacy-scaling-explorations/zkevm-circuits</id>
+    <link href="https://github.com/privacy-scaling-explorations/zkevm-circuits" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Schniz/fnm</title>
-    <updated>2022-07-21T01:56:38Z</updated>
-    <id>tag:github.com,2022-07-21:/Schniz/fnm</id>
-    <link href="https://github.com/Schniz/fnm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Fast and simple Node.js version manager, built in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kindelia/HVM</title>
+    <updated>2022-07-22T01:54:07Z</updated>
+    <id>tag:github.com,2022-07-22:/Kindelia/HVM</id>
+    <link href="https://github.com/Kindelia/HVM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A massively parallel, optimal functional runtime in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bevy-cheatbook/bevy-cheatbook</title>
-    <updated>2022-07-21T01:56:38Z</updated>
-    <id>tag:github.com,2022-07-21:/bevy-cheatbook/bevy-cheatbook</id>
-    <link href="https://github.com/bevy-cheatbook/bevy-cheatbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Concise Reference Book for the Bevy Game Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>delta-io/delta-rs</title>
+    <updated>2022-07-22T01:54:07Z</updated>
+    <id>tag:github.com,2022-07-22:/delta-io/delta-rs</id>
+    <link href="https://github.com/delta-io/delta-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A native Rust library for Delta Lake, with bindings into Python and Ruby.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

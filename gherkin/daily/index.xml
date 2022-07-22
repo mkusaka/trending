@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:44:53Z</updated>
+  <updated>2022-07-22T01:42:09Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openshift/verification-tests</title>
+    <updated>2022-07-22T01:42:09Z</updated>
+    <id>tag:github.com,2022-07-22:/openshift/verification-tests</id>
+    <link href="https://github.com/openshift/verification-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blackbox test suite for OpenShift.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pagopa/pagopa-nodo-dei-pagamenti-test</title>
+    <updated>2022-07-22T01:42:09Z</updated>
+    <id>tag:github.com,2022-07-22:/pagopa/pagopa-nodo-dei-pagamenti-test</id>
+    <link href="https://github.com/pagopa/pagopa-nodo-dei-pagamenti-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools 🥒 &amp; test 🧪 related to nodo dei pagamenti 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

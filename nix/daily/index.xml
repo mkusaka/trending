@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:51:53Z</updated>
+  <updated>2022-07-22T01:49:08Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>redcode-labs/RedNixOS</title>
-    <updated>2022-07-21T01:51:53Z</updated>
-    <id>tag:github.com,2022-07-21:/redcode-labs/RedNixOS</id>
-    <link href="https://github.com/redcode-labs/RedNixOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NixOS-based &#39;distro&#39; for cybersecurity enthusiasts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clhodapp/nix-runner</title>
+    <updated>2022-07-22T01:49:08Z</updated>
+    <id>tag:github.com,2022-07-22:/clhodapp/nix-runner</id>
+    <link href="https://github.com/clhodapp/nix-runner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tidy shell shebangs with nix flakes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

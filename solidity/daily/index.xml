@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:58:05Z</updated>
+  <updated>2022-07-22T01:55:33Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Charged-Particles/erc721i</title>
-    <updated>2022-07-21T01:58:05Z</updated>
-    <id>tag:github.com,2022-07-21:/Charged-Particles/erc721i</id>
-    <link href="https://github.com/Charged-Particles/erc721i" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Infinite (ERC721i) - Gas-efficient NFT contracts for Pre-Minting Millions of NFTs!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xmas7/nft-art-marketplace</title>
+    <updated>2022-07-22T01:55:33Z</updated>
+    <id>tag:github.com,2022-07-22:/xmas7/nft-art-marketplace</id>
+    <link href="https://github.com/xmas7/nft-art-marketplace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Musee Art NFT marketplace&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>defi-wonderland/solidity-foundry-boilerplate</title>
-    <updated>2022-07-21T01:58:05Z</updated>
-    <id>tag:github.com,2022-07-21:/defi-wonderland/solidity-foundry-boilerplate</id>
-    <link href="https://github.com/defi-wonderland/solidity-foundry-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚒️ Start your next Solidity project with Foundry in seconds&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>merklejerk/permit-everywhere</title>
+    <updated>2022-07-22T01:55:33Z</updated>
+    <id>tag:github.com,2022-07-22:/merklejerk/permit-everywhere</id>
+    <link href="https://github.com/merklejerk/permit-everywhere" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Vectorized/solady</title>
-    <updated>2022-07-21T01:58:05Z</updated>
-    <id>tag:github.com,2022-07-21:/Vectorized/solady</id>
-    <link href="https://github.com/Vectorized/solady" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Optimized Solidity snippets.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paulrberg/foundry-template</title>
+    <updated>2022-07-22T01:55:33Z</updated>
+    <id>tag:github.com,2022-07-22:/paulrberg/foundry-template</id>
+    <link href="https://github.com/paulrberg/foundry-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foundry-based template for developing Solidity smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

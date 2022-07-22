@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:40:20Z</updated>
+  <updated>2022-07-22T01:37:38Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>usedbytes/picowota_blink</title>
-    <updated>2022-07-21T01:40:20Z</updated>
-    <id>tag:github.com,2022-07-21:/usedbytes/picowota_blink</id>
-    <link href="https://github.com/usedbytes/picowota_blink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example project for using the picowota Pico W OTA bootloader&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

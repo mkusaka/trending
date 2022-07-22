@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:49:50Z</updated>
+  <updated>2022-07-22T01:47:08Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>richfelker/musl-cross-make</title>
-    <updated>2022-07-21T01:49:50Z</updated>
-    <id>tag:github.com,2022-07-21:/richfelker/musl-cross-make</id>
-    <link href="https://github.com/richfelker/musl-cross-make" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple makefile-based build for musl cross compiler&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>upside-services/python-setup-scripts</title>
-    <updated>2022-07-21T01:49:50Z</updated>
-    <id>tag:github.com,2022-07-21:/upside-services/python-setup-scripts</id>
-    <link href="https://github.com/upside-services/python-setup-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts to install pyenv and various python versions. !! This is a public repo !!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deepfence/agent-plugins-grpc</title>
+    <updated>2022-07-22T01:47:08Z</updated>
+    <id>tag:github.com,2022-07-22:/deepfence/agent-plugins-grpc</id>
+    <link href="https://github.com/deepfence/agent-plugins-grpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Agent plugins&#39; gRPC definitions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

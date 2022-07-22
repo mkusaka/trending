@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-21T01:38:26Z</updated>
+  <updated>2022-07-22T01:35:51Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>chroblert/JC-jEnv</title>
-    <updated>2022-07-21T01:38:26Z</updated>
-    <id>tag:github.com,2022-07-21:/chroblert/JC-jEnv</id>
-    <link href="https://github.com/chroblert/JC-jEnv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;windows java environ manage&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aakkam22/windowsUpdateLoopFix</title>
-    <updated>2022-07-21T01:38:26Z</updated>
-    <id>tag:github.com,2022-07-21:/aakkam22/windowsUpdateLoopFix</id>
-    <link href="https://github.com/aakkam22/windowsUpdateLoopFix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An automated script to fix the &#34;Checking for Updates&#34; loop on Windows 7&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>conda-forge/libwebp-base-feedstock</title>
-    <updated>2022-07-21T01:38:26Z</updated>
-    <id>tag:github.com,2022-07-21:/conda-forge/libwebp-base-feedstock</id>
-    <link href="https://github.com/conda-forge/libwebp-base-feedstock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A conda-smithy repository for libwebp-base.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
