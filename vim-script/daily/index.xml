@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:58:32Z</updated>
+  <updated>2022-07-23T01:57:48Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mhinz/vim-signify</title>
-    <updated>2022-07-22T01:58:32Z</updated>
-    <id>tag:github.com,2022-07-22:/mhinz/vim-signify</id>
-    <link href="https://github.com/mhinz/vim-signify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;➕ Show a diff using Vim its sign column.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rhysd/vim.wasm</title>
+    <updated>2022-07-23T01:57:48Z</updated>
+    <id>tag:github.com,2022-07-23:/rhysd/vim.wasm</id>
+    <link href="https://github.com/rhysd/vim.wasm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim editor ported to WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>junegunn/seoul256.vim</title>
-    <updated>2022-07-22T01:58:32Z</updated>
-    <id>tag:github.com,2022-07-22:/junegunn/seoul256.vim</id>
-    <link href="https://github.com/junegunn/seoul256.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌳 Low-contrast Vim color scheme based on Seoul Colors&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ludovicchabant/vim-gutentags</title>
+    <updated>2022-07-23T01:57:48Z</updated>
+    <id>tag:github.com,2022-07-23:/ludovicchabant/vim-gutentags</id>
+    <link href="https://github.com/ludovicchabant/vim-gutentags" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vim plugin that manages your tag files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alexey-goloburdin/nvim-config</title>
-    <updated>2022-07-22T01:58:32Z</updated>
-    <id>tag:github.com,2022-07-22:/alexey-goloburdin/nvim-config</id>
-    <link href="https://github.com/alexey-goloburdin/nvim-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/locator</title>
+    <updated>2022-07-23T01:57:48Z</updated>
+    <id>tag:github.com,2022-07-23:/vim-scripts/locator</id>
+    <link href="https://github.com/vim-scripts/locator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shows full &#34;path&#34; to the cursor, including folds, classes, functions, and more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

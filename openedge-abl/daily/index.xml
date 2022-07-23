@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenEdge ABL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:50:04Z</updated>
+  <updated>2022-07-23T01:49:22Z</updated>
   <subtitle>Daily Trending of OpenEdge ABL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition</title>
-    <updated>2022-07-22T01:50:04Z</updated>
-    <id>tag:github.com,2022-07-22:/PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition</id>
-    <link href="https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bioinformatics with Python Cookbook Second Edition, published by Packt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>declare-lab/multimodal-deep-learning</title>
+    <updated>2022-07-23T01:49:22Z</updated>
+    <id>tag:github.com,2022-07-23:/declare-lab/multimodal-deep-learning</id>
+    <link href="https://github.com/declare-lab/multimodal-deep-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains various models targetting multimodal representation learning, multimodal fusion for downstream tasks such as multimodal sentiment analysis.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

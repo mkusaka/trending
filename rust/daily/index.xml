@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:54:07Z</updated>
+  <updated>2022-07-23T01:53:08Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>privacy-scaling-explorations/zkevm-circuits</title>
-    <updated>2022-07-22T01:54:07Z</updated>
-    <id>tag:github.com,2022-07-22:/privacy-scaling-explorations/zkevm-circuits</id>
-    <link href="https://github.com/privacy-scaling-explorations/zkevm-circuits" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AFLplusplus/LibAFL</title>
+    <updated>2022-07-23T01:53:08Z</updated>
+    <id>tag:github.com,2022-07-23:/AFLplusplus/LibAFL</id>
+    <link href="https://github.com/AFLplusplus/LibAFL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kindelia/HVM</title>
-    <updated>2022-07-22T01:54:07Z</updated>
-    <id>tag:github.com,2022-07-22:/Kindelia/HVM</id>
-    <link href="https://github.com/Kindelia/HVM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A massively parallel, optimal functional runtime in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BurntSushi/xsv</title>
+    <updated>2022-07-23T01:53:08Z</updated>
+    <id>tag:github.com,2022-07-23:/BurntSushi/xsv</id>
+    <link href="https://github.com/BurntSushi/xsv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast CSV command line toolkit written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>delta-io/delta-rs</title>
-    <updated>2022-07-22T01:54:07Z</updated>
-    <id>tag:github.com,2022-07-22:/delta-io/delta-rs</id>
-    <link href="https://github.com/delta-io/delta-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A native Rust library for Delta Lake, with bindings into Python and Ruby.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BRA1L0R/hopper-rs</title>
+    <updated>2022-07-23T01:53:08Z</updated>
+    <id>tag:github.com,2022-07-23:/BRA1L0R/hopper-rs</id>
+    <link href="https://github.com/BRA1L0R/hopper-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hopper - Fast, configurable, lightweight Reverse Proxy for Minecraft&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

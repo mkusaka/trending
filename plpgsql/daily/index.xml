@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:51:17Z</updated>
+  <updated>2022-07-23T01:50:32Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aiven/aiven-extras</title>
-    <updated>2022-07-22T01:51:17Z</updated>
-    <id>tag:github.com,2022-07-22:/aiven/aiven-extras</id>
-    <link href="https://github.com/aiven/aiven-extras" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aiven PostgreSQL® extras&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NikolayS/postgres_dba</title>
+    <updated>2022-07-23T01:50:32Z</updated>
+    <id>tag:github.com,2022-07-23:/NikolayS/postgres_dba</id>
+    <link href="https://github.com/NikolayS/postgres_dba" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The missing set of useful tools for Postgres DBAs and all engineers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Agda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:34:27Z</updated>
+  <updated>2022-07-23T01:33:14Z</updated>
   <subtitle>Daily Trending of Agda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jmchapman/Relative-Monads</title>
-    <updated>2022-07-22T01:34:27Z</updated>
-    <id>tag:github.com,2022-07-22:/jmchapman/Relative-Monads</id>
-    <link href="https://github.com/jmchapman/Relative-Monads" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Relative Monad Library for Agda&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

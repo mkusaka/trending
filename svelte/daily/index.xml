@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:56:16Z</updated>
+  <updated>2022-07-23T01:55:21Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>leveluptuts/bookit</title>
-    <updated>2022-07-22T01:56:16Z</updated>
-    <id>tag:github.com,2022-07-22:/leveluptuts/bookit</id>
-    <link href="https://github.com/leveluptuts/bookit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A UI component explorere desiged specifically for Svelte Kit, not spooky&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>revanced/revanced.github.io</title>
-    <updated>2022-07-22T01:56:16Z</updated>
-    <id>tag:github.com,2022-07-22:/revanced/revanced.github.io</id>
-    <link href="https://github.com/revanced/revanced.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌐Repository for the website of ReVanced&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tarb/svelte-dnd-list</title>
-    <updated>2022-07-22T01:56:16Z</updated>
-    <id>tag:github.com,2022-07-22:/tarb/svelte-dnd-list</id>
-    <link href="https://github.com/tarb/svelte-dnd-list" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple and lightweight Svelte Drag and Drop library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

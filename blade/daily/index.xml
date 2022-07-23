@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:36:08Z</updated>
+  <updated>2022-07-23T01:34:54Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>awcodes/filament-quick-create</title>
-    <updated>2022-07-22T01:36:08Z</updated>
-    <id>tag:github.com,2022-07-22:/awcodes/filament-quick-create</id>
-    <link href="https://github.com/awcodes/filament-quick-create" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugin for Filament Admin that adds a dropdown menu to the header to quickly create new items.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wireui/heroicons</title>
+    <updated>2022-07-23T01:34:54Z</updated>
+    <id>tag:github.com,2022-07-23:/wireui/heroicons</id>
+    <link href="https://github.com/wireui/heroicons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Tailwind Heroicons for laravel blade by WireUI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:34:57Z</updated>
+  <updated>2022-07-23T01:33:49Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>McCubo/lwc_superbadge</title>
-    <updated>2022-07-22T01:34:57Z</updated>
-    <id>tag:github.com,2022-07-22:/McCubo/lwc_superbadge</id>
-    <link href="https://github.com/McCubo/lwc_superbadge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightning Web Components Specialist&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

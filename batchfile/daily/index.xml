@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-22T01:35:51Z</updated>
+  <updated>2022-07-23T01:34:40Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Skulltrail192/One-Core-API-Binaries</title>
+    <updated>2022-07-23T01:34:40Z</updated>
+    <id>tag:github.com,2022-07-23:/Skulltrail192/One-Core-API-Binaries</id>
+    <link href="https://github.com/Skulltrail192/One-Core-API-Binaries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>naksunday/frreeRDP</title>
+    <updated>2022-07-23T01:34:40Z</updated>
+    <id>tag:github.com,2022-07-23:/naksunday/frreeRDP</id>
+    <link href="https://github.com/naksunday/frreeRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RavensVenix/RDP6HFREE</title>
+    <updated>2022-07-23T01:34:40Z</updated>
+    <id>tag:github.com,2022-07-23:/RavensVenix/RDP6HFREE</id>
+    <link href="https://github.com/RavensVenix/RDP6HFREE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
