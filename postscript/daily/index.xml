@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PostScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:50:45Z</updated>
+  <updated>2022-07-24T01:50:49Z</updated>
   <subtitle>Daily Trending of PostScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EasyChart/Beautiful-Visualization-with-R</title>
+    <updated>2022-07-24T01:50:49Z</updated>
+    <id>tag:github.com,2022-07-24:/EasyChart/Beautiful-Visualization-with-R</id>
+    <link href="https://github.com/EasyChart/Beautiful-Visualization-with-R" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《R语言数据可视化之美》配套代码&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

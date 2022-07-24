@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:07:55Z</updated>
+  <subtitle>Weekly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Itz-Hyperz/firewallgg</title>
+    <updated>2022-07-24T02:07:55Z</updated>
+    <id>tag:github.com,2022-07-24:/Itz-Hyperz/firewallgg</id>
+    <link href="https://github.com/Itz-Hyperz/firewallgg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple program that will search all users in multiple database api&#39;s to see if they are banned in any of them. It will return a list of all databases the user is banned in as-well.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

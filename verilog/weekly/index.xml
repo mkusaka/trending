@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:25:47Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pConst/basic_verilog</title>
+    <updated>2022-07-24T02:25:47Z</updated>
+    <id>tag:github.com,2022-07-24:/pConst/basic_verilog</id>
+    <link href="https://github.com/pConst/basic_verilog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Must-have verilog systemverilog modules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>riscv-mcu/e203_hbirdv2</title>
+    <updated>2022-07-24T02:25:47Z</updated>
+    <id>tag:github.com,2022-07-24:/riscv-mcu/e203_hbirdv2</id>
+    <link href="https://github.com/riscv-mcu/e203_hbirdv2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Ultra-Low Power RISC-V Core&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bespoke-silicon-group/basejump_stl</title>
+    <updated>2022-07-24T02:25:47Z</updated>
+    <id>tag:github.com,2022-07-24:/bespoke-silicon-group/basejump_stl</id>
+    <link href="https://github.com/bespoke-silicon-group/basejump_stl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BaseJump STL: A Standard Template Library for SystemVerilog&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

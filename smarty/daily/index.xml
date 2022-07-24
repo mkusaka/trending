@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:54:25Z</updated>
+  <updated>2022-07-24T01:54:34Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>helm/examples</title>
-    <updated>2022-07-23T01:54:25Z</updated>
-    <id>tag:github.com,2022-07-23:/helm/examples</id>
-    <link href="https://github.com/helm/examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart repository for example charts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sorry-cypress/charts</title>
+    <updated>2022-07-24T01:54:34Z</updated>
+    <id>tag:github.com,2022-07-24:/sorry-cypress/charts</id>
+    <link href="https://github.com/sorry-cypress/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Kubernetes Helm Chart for Sorry Cypress, an open-source on-premise, self-hosted alternative to cypress dashboard.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LinuxSuRen/open-source-best-practice</title>
-    <updated>2022-07-23T01:54:25Z</updated>
-    <id>tag:github.com,2022-07-23:/LinuxSuRen/open-source-best-practice</id>
-    <link href="https://github.com/LinuxSuRen/open-source-best-practice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is an open-source best practice for those who want to participate in open-source projects 参与开源过程中的一些最佳实践&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LM-Firefly/Rules</title>
+    <updated>2022-07-24T01:54:34Z</updated>
+    <id>tag:github.com,2022-07-24:/LM-Firefly/Rules</id>
+    <link href="https://github.com/LM-Firefly/Rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自用Clash 策略组及规则 及Subconverter 相关资源备份&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aneeshansaricloud/vp1</title>
-    <updated>2022-07-23T01:54:25Z</updated>
-    <id>tag:github.com,2022-07-23:/aneeshansaricloud/vp1</id>
-    <link href="https://github.com/aneeshansaricloud/vp1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>milvus-io/milvus-helm</title>
+    <updated>2022-07-24T01:54:34Z</updated>
+    <id>tag:github.com,2022-07-24:/milvus-io/milvus-helm</id>
+    <link href="https://github.com/milvus-io/milvus-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The helm chart to deploy Milvus&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

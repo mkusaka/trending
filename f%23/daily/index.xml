@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:39:51Z</updated>
+  <updated>2022-07-24T01:40:17Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>achrissmith/Programming-FS-Examples</title>
-    <updated>2022-07-23T01:39:51Z</updated>
-    <id>tag:github.com,2022-07-23:/achrissmith/Programming-FS-Examples</id>
-    <link href="https://github.com/achrissmith/Programming-FS-Examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code associated with Programming F#, published by O&#39;Reilly Media.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#Programming F# Source Code# This repro contains the source code for all things &lt;em&gt;Programming F#&lt;/em&gt;, available from O&#39;Reilly Media.&lt;/p&gt;</summary>
-  </entry>
 </feed>

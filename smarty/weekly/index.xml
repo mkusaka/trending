@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:22:45Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>truecharts/charts</title>
+    <updated>2022-07-24T02:22:45Z</updated>
+    <id>tag:github.com,2022-07-24:/truecharts/charts</id>
+    <link href="https://github.com/truecharts/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community App Catalog for TrueNAS SCALE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nearform/openshift-kafka</title>
+    <updated>2022-07-24T02:22:45Z</updated>
+    <id>tag:github.com,2022-07-24:/nearform/openshift-kafka</id>
+    <link href="https://github.com/nearform/openshift-kafka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Apache Kafka in Openshift Origin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dracula/metatrader5</title>
+    <updated>2022-07-24T02:22:45Z</updated>
+    <id>tag:github.com,2022-07-24:/dracula/metatrader5</id>
+    <link href="https://github.com/dracula/metatrader5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dark theme for MetaTrader 5&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

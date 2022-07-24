@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:11:12Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terraform-google-modules/terraform-google-project-factory</title>
+    <updated>2022-07-24T02:11:12Z</updated>
+    <id>tag:github.com,2022-07-24:/terraform-google-modules/terraform-google-project-factory</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-project-factory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opinionated Google Cloud Platform project creation and configuration with Shared VPC, IAM, APIs, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xcad2k/boilerplates</title>
+    <updated>2022-07-24T02:11:12Z</updated>
+    <id>tag:github.com,2022-07-24:/xcad2k/boilerplates</id>
+    <link href="https://github.com/xcad2k/boilerplates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Templates and configurations for various projects and deployment scenarios&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/terraform-azurerm-caf-enterprise-scale</title>
+    <updated>2022-07-24T02:11:12Z</updated>
+    <id>tag:github.com,2022-07-24:/Azure/terraform-azurerm-caf-enterprise-scale</id>
+    <link href="https://github.com/Azure/terraform-azurerm-caf-enterprise-scale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure landing zones Terraform module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

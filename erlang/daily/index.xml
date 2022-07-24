@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:39:51Z</updated>
+  <updated>2022-07-24T01:40:17Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shortishly/shelly</title>
-    <updated>2022-07-23T01:39:51Z</updated>
-    <id>tag:github.com,2022-07-23:/shortishly/shelly</id>
-    <link href="https://github.com/shortishly/shelly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shelly is an Erlang/OTP application makes it simple to have a remote maintenance shell into your application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>esl/lhttpc</title>
+    <updated>2022-07-24T01:40:17Z</updated>
+    <id>tag:github.com,2022-07-24:/esl/lhttpc</id>
+    <link href="https://github.com/esl/lhttpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lhttpc is a lightweight HTTP/1.1 client implemented in Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

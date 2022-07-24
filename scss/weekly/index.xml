@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:22:01Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>just-the-docs/just-the-docs</title>
+    <updated>2022-07-24T02:22:01Z</updated>
+    <id>tag:github.com,2022-07-24:/just-the-docs/just-the-docs</id>
+    <link href="https://github.com/just-the-docs/just-the-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern, high customizable, responsive Jekyll theme for documention with built-in search.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lassekongo83/adw-gtk3</title>
+    <updated>2022-07-24T02:22:01Z</updated>
+    <id>tag:github.com,2022-07-24:/lassekongo83/adw-gtk3</id>
+    <link href="https://github.com/lassekongo83/adw-gtk3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The theme from libadwaita ported to GTK-3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>luizdepra/hugo-coder</title>
+    <updated>2022-07-24T02:22:01Z</updated>
+    <id>tag:github.com,2022-07-24:/luizdepra/hugo-coder</id>
+    <link href="https://github.com/luizdepra/hugo-coder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalist blog theme for hugo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

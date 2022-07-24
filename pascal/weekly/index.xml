@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:18:22Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>viniciussanchez/dataset-serialize</title>
+    <updated>2022-07-24T02:18:22Z</updated>
+    <id>tag:github.com,2022-07-24:/viniciussanchez/dataset-serialize</id>
+    <link href="https://github.com/viniciussanchez/dataset-serialize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON to DataSet and DataSet to JSON converter for Delphi and Lazarus (FPC)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Embarcadero/Dev-Cpp</title>
+    <updated>2022-07-24T02:18:22Z</updated>
+    <id>tag:github.com,2022-07-24:/Embarcadero/Dev-Cpp</id>
+    <link href="https://github.com/Embarcadero/Dev-Cpp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, portable, simple, and free C/C++ IDE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Sass Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:21:38Z</updated>
+  <subtitle>Weekly Trending of Sass in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JupiterBroadcasting/jupiterbroadcasting.com</title>
+    <updated>2022-07-24T02:21:38Z</updated>
+    <id>tag:github.com,2022-07-24:/JupiterBroadcasting/jupiterbroadcasting.com</id>
+    <link href="https://github.com/JupiterBroadcasting/jupiterbroadcasting.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Future JupiterBroadcasting.com website, hugo-based and community-driven!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

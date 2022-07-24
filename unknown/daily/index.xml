@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:32:48Z</updated>
+  <updated>2022-07-24T01:33:24Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Yule718/Yule718</title>
-    <updated>2022-07-23T01:32:48Z</updated>
-    <id>tag:github.com,2022-07-23:/Yule718/Yule718</id>
-    <link href="https://github.com/Yule718/Yule718" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Config files for my GitHub profile.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AllThingsSmitty/css-protips</title>
+    <updated>2022-07-24T01:33:24Z</updated>
+    <id>tag:github.com,2022-07-24:/AllThingsSmitty/css-protips</id>
+    <link href="https://github.com/AllThingsSmitty/css-protips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of tips to help take your CSS skills pro&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Celthi/effective-debugging-zh</title>
-    <updated>2022-07-23T01:32:48Z</updated>
-    <id>tag:github.com,2022-07-23:/Celthi/effective-debugging-zh</id>
-    <link href="https://github.com/Celthi/effective-debugging-zh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;effective debugging 中文翻译&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MiCode/Xiaomi_Kernel_OpenSource</title>
+    <updated>2022-07-24T01:33:24Z</updated>
+    <id>tag:github.com,2022-07-24:/MiCode/Xiaomi_Kernel_OpenSource</id>
+    <link href="https://github.com/MiCode/Xiaomi_Kernel_OpenSource" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Xiaomi Mobile Phone Kernel OpenSource&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rootkit-io/awesome-malware-development</title>
-    <updated>2022-07-23T01:32:48Z</updated>
-    <id>tag:github.com,2022-07-23:/rootkit-io/awesome-malware-development</id>
-    <link href="https://github.com/rootkit-io/awesome-malware-development" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Organized list of my malware development resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sdmg15/Best-websites-a-programmer-should-visit</title>
+    <updated>2022-07-24T01:33:24Z</updated>
+    <id>tag:github.com,2022-07-24:/sdmg15/Best-websites-a-programmer-should-visit</id>
+    <link href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔗 Some useful websites for programmers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

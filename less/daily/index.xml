@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:45:14Z</updated>
+  <updated>2022-07-24T01:45:32Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NixOS/nixos-homepage</title>
+    <updated>2022-07-24T01:45:32Z</updated>
+    <id>tag:github.com,2022-07-24:/NixOS/nixos-homepage</id>
+    <link href="https://github.com/NixOS/nixos-homepage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sources for nixos.org&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

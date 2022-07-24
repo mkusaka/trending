@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:44:23Z</updated>
+  <updated>2022-07-24T01:44:38Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaDynamics/GoodScientificCodeWorkshop</title>
-    <updated>2022-07-23T01:44:23Z</updated>
-    <id>tag:github.com,2022-07-23:/JuliaDynamics/GoodScientificCodeWorkshop</id>
-    <link href="https://github.com/JuliaDynamics/GoodScientificCodeWorkshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A workshop on writing good scientific code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaCommunity/YouTubeVideoTimestamps</title>
+    <updated>2022-07-24T01:44:38Z</updated>
+    <id>tag:github.com,2022-07-24:/JuliaCommunity/YouTubeVideoTimestamps</id>
+    <link href="https://github.com/JuliaCommunity/YouTubeVideoTimestamps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adding timestamps to Julia YouTube videos!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

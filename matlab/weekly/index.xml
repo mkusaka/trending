@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:15:16Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>therealbazzi/Audio-Signal-Processing-Basics</title>
+    <updated>2022-07-24T02:15:16Z</updated>
+    <id>tag:github.com,2022-07-24:/therealbazzi/Audio-Signal-Processing-Basics</id>
+    <link href="https://github.com/therealbazzi/Audio-Signal-Processing-Basics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This packages is meant for audio digital signal processing for beginners. It shows basic stuff like loading an audio file to matlab, performing spectral analysis, listening to signals that are created online via matlab, perform Fourier transforms on the audio signals, some basic filtering on the signals, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ttpekkan/git</title>
+    <updated>2022-07-24T02:15:16Z</updated>
+    <id>tag:github.com,2022-07-24:/ttpekkan/git</id>
+    <link href="https://github.com/ttpekkan/git" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mattjj/matlab-fftconv</title>
+    <updated>2022-07-24T02:15:16Z</updated>
+    <id>tag:github.com,2022-07-24:/mattjj/matlab-fftconv</id>
+    <link href="https://github.com/mattjj/matlab-fftconv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

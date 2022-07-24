@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TLA Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:24:44Z</updated>
+  <subtitle>Weekly Trending of TLA in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>anoma/typhon</title>
+    <updated>2022-07-24T02:24:44Z</updated>
+    <id>tag:github.com,2022-07-24:/anoma/typhon</id>
+    <link href="https://github.com/anoma/typhon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Specification of Heterogeneous Paxos protocol&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

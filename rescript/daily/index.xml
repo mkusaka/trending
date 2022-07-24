@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:52:37Z</updated>
+  <updated>2022-07-24T01:52:35Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>glennsl/rescript-json-combinators</title>
-    <updated>2022-07-23T01:52:37Z</updated>
-    <id>tag:github.com,2022-07-23:/glennsl/rescript-json-combinators</id>
-    <link href="https://github.com/glennsl/rescript-json-combinators" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Combinator library for JSON decoding and encoding.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rescript-lang/rescript-vscode</title>
-    <updated>2022-07-23T01:52:37Z</updated>
-    <id>tag:github.com,2022-07-23:/rescript-lang/rescript-vscode</id>
-    <link href="https://github.com/rescript-lang/rescript-vscode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official VSCode plugin for ReScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

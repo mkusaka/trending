@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Mathematica Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:15:13Z</updated>
+  <subtitle>Weekly Trending of Mathematica in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dracula/wolfram-notebooks</title>
+    <updated>2022-07-24T02:15:13Z</updated>
+    <id>tag:github.com,2022-07-24:/dracula/wolfram-notebooks</id>
+    <link href="https://github.com/dracula/wolfram-notebooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧛🏻‍♂️ Dark theme for Wolfram Notebooks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

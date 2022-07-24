@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:05:34Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>turbolinks/turbolinks-classic</title>
+    <updated>2022-07-24T02:05:34Z</updated>
+    <id>tag:github.com,2022-07-24:/turbolinks/turbolinks-classic</id>
+    <link href="https://github.com/turbolinks/turbolinks-classic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Classic version of Turbolinks. Now deprecated in favor of Turbolinks 5.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shopify/turbograft</title>
+    <updated>2022-07-24T02:05:34Z</updated>
+    <id>tag:github.com,2022-07-24:/Shopify/turbograft</id>
+    <link href="https://github.com/Shopify/turbograft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hard fork of turbolinks, adding partial page replacement strategies, and utilities.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shopify/twine</title>
+    <updated>2022-07-24T02:05:34Z</updated>
+    <id>tag:github.com,2022-07-24:/Shopify/twine</id>
+    <link href="https://github.com/Shopify/twine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Twine is a minimalistic two-way binding system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

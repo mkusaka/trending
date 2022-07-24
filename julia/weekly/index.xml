@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:12:57Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Suzhou-Tongyuan/ObjectOriented.jl</title>
+    <updated>2022-07-24T02:12:57Z</updated>
+    <id>tag:github.com,2022-07-24:/Suzhou-Tongyuan/ObjectOriented.jl</id>
+    <link href="https://github.com/Suzhou-Tongyuan/ObjectOriented.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Conventional object-oriented programming in Julia without breaking Julia&#39;s core design ideas&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

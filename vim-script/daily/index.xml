@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:57:48Z</updated>
+  <updated>2022-07-24T01:57:32Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rhysd/vim.wasm</title>
-    <updated>2022-07-23T01:57:48Z</updated>
-    <id>tag:github.com,2022-07-23:/rhysd/vim.wasm</id>
-    <link href="https://github.com/rhysd/vim.wasm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim editor ported to WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>42Paris/42header</title>
+    <updated>2022-07-24T01:57:32Z</updated>
+    <id>tag:github.com,2022-07-24:/42Paris/42header</id>
+    <link href="https://github.com/42Paris/42header" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;42 header&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ludovicchabant/vim-gutentags</title>
-    <updated>2022-07-23T01:57:48Z</updated>
-    <id>tag:github.com,2022-07-23:/ludovicchabant/vim-gutentags</id>
-    <link href="https://github.com/ludovicchabant/vim-gutentags" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vim plugin that manages your tag files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aalonso/vimrc</title>
+    <updated>2022-07-24T01:57:32Z</updated>
+    <id>tag:github.com,2022-07-24:/aalonso/vimrc</id>
+    <link href="https://github.com/aalonso/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vimrc custom scripts and common used plugins&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vim-scripts/locator</title>
-    <updated>2022-07-23T01:57:48Z</updated>
-    <id>tag:github.com,2022-07-23:/vim-scripts/locator</id>
-    <link href="https://github.com/vim-scripts/locator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shows full &#34;path&#34; to the cursor, including folds, classes, functions, and more&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jparise/vim-graphql</title>
+    <updated>2022-07-24T01:57:32Z</updated>
+    <id>tag:github.com,2022-07-24:/jparise/vim-graphql</id>
+    <link href="https://github.com/jparise/vim-graphql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

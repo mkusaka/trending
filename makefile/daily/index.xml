@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:46:20Z</updated>
+  <updated>2022-07-24T01:46:28Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rwema3/FlutterBookApp</title>
-    <updated>2022-07-23T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-23:/rwema3/FlutterBookApp</id>
-    <link href="https://github.com/rwema3/FlutterBookApp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This app was created by @rwema3 to Educate the World&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openshift-assisted/opensearch-infra</title>
-    <updated>2022-07-23T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-23:/openshift-assisted/opensearch-infra</id>
-    <link href="https://github.com/openshift-assisted/opensearch-infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Define infrastructure and configuration for OpenSearch instance used by assisted-events-scrape and prow-jobs-scraper&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cartesi/grpc-interfaces</title>
-    <updated>2022-07-23T01:46:20Z</updated>
-    <id>tag:github.com,2022-07-23:/cartesi/grpc-interfaces</id>
-    <link href="https://github.com/cartesi/grpc-interfaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cartesi gRPC Interfaces&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>google/gf180mcu-pdk</title>
+    <updated>2022-07-24T01:46:28Z</updated>
+    <id>tag:github.com,2022-07-24:/google/gf180mcu-pdk</id>
+    <link href="https://github.com/google/gf180mcu-pdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PDK for GlobalFoundries&#39; 180nm MCU bulk process technology (GF180MCU).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

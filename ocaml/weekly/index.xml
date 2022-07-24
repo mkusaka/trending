@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:17:35Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>austral/austral</title>
+    <updated>2022-07-24T02:17:35Z</updated>
+    <id>tag:github.com,2022-07-24:/austral/austral</id>
+    <link href="https://github.com/austral/austral" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Systems language with linear types and capability-based security.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>reasonml/reason</title>
+    <updated>2022-07-24T02:17:35Z</updated>
+    <id>tag:github.com,2022-07-24:/reasonml/reason</id>
+    <link href="https://github.com/reasonml/reason" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, fast &amp; type safe code that leverages the JavaScript &amp; OCaml ecosystems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ocaml/opam</title>
+    <updated>2022-07-24T02:17:35Z</updated>
+    <id>tag:github.com,2022-07-24:/ocaml/opam</id>
+    <link href="https://github.com/ocaml/opam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

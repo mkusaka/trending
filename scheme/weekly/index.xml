@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:21:57Z</updated>
+  <subtitle>Weekly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ThomasHintz/mplayer-web-ui</title>
+    <updated>2022-07-24T02:21:57Z</updated>
+    <id>tag:github.com,2022-07-24:/ThomasHintz/mplayer-web-ui</id>
+    <link href="https://github.com/ThomasHintz/mplayer-web-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web based frontend for mplayer written in Chicken Scheme.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blade Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:03:48Z</updated>
+  <subtitle>Weekly Trending of Blade in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leicortega/lawsoft</title>
+    <updated>2022-07-24T02:03:48Z</updated>
+    <id>tag:github.com,2022-07-24:/leicortega/lawsoft</id>
+    <link href="https://github.com/leicortega/lawsoft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

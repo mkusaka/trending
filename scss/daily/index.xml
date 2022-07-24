@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:53:40Z</updated>
+  <updated>2022-07-24T01:53:32Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>liferay/clay</title>
-    <updated>2022-07-23T01:53:40Z</updated>
-    <id>tag:github.com,2022-07-23:/liferay/clay</id>
-    <link href="https://github.com/liferay/clay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web implementation of the Lexicon Experience Language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>twbs/bootstrap-rubygem</title>
+    <updated>2022-07-24T01:53:32Z</updated>
+    <id>tag:github.com,2022-07-24:/twbs/bootstrap-rubygem</id>
+    <link href="https://github.com/twbs/bootstrap-rubygem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrap rubygem for Rails / Sprockets / Hanami / etc&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ElementUI/theme-chalk</title>
-    <updated>2022-07-23T01:53:40Z</updated>
-    <id>tag:github.com,2022-07-23:/ElementUI/theme-chalk</id>
-    <link href="https://github.com/ElementUI/theme-chalk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Element theme chalk&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chrisbobbe/jekyll-theme-prologue</title>
+    <updated>2022-07-24T01:53:32Z</updated>
+    <id>tag:github.com,2022-07-24:/chrisbobbe/jekyll-theme-prologue</id>
+    <link href="https://github.com/chrisbobbe/jekyll-theme-prologue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Jekyll version of the &#34;Prologue&#34; theme by HTML5 UP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

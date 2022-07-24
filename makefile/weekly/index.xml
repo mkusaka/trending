@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:14:58Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WICG/turtledove</title>
+    <updated>2022-07-24T02:14:58Z</updated>
+    <id>tag:github.com,2022-07-24:/WICG/turtledove</id>
+    <link href="https://github.com/WICG/turtledove" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TURTLEDOVE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>waveaccounting/terraform-aws-chatbot-slack-configuration</title>
+    <updated>2022-07-24T02:14:58Z</updated>
+    <id>tag:github.com,2022-07-24:/waveaccounting/terraform-aws-chatbot-slack-configuration</id>
+    <link href="https://github.com/waveaccounting/terraform-aws-chatbot-slack-configuration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Module to enable Chatbot Slack channel configuration in Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Clever/go-process-metrics</title>
+    <updated>2022-07-24T02:14:58Z</updated>
+    <id>tag:github.com,2022-07-24:/Clever/go-process-metrics</id>
+    <link href="https://github.com/Clever/go-process-metrics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library for tracking golang process metrics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:22:59Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>transmissions11/solmate</title>
+    <updated>2022-07-24T02:22:59Z</updated>
+    <id>tag:github.com,2022-07-24:/transmissions11/solmate</id>
+    <link href="https://github.com/transmissions11/solmate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern, opinionated, and gas optimized building blocks for smart contract development.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>makerdao/multicall</title>
+    <updated>2022-07-24T02:22:59Z</updated>
+    <id>tag:github.com,2022-07-24:/makerdao/multicall</id>
+    <link href="https://github.com/makerdao/multicall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multicall: Aggregate multiple constant function call results into one&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spo0ds/Journey-to-become-a-Blockchain-Engineer</title>
+    <updated>2022-07-24T02:22:59Z</updated>
+    <id>tag:github.com,2022-07-24:/spo0ds/Journey-to-become-a-Blockchain-Engineer</id>
+    <link href="https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I&#39;m sharing everything I&#39;m learning to become a Blockchain Engineer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

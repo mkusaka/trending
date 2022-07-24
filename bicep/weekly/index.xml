@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:03:42Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/azure-dev</title>
+    <updated>2022-07-24T02:03:42Z</updated>
+    <id>tag:github.com,2022-07-24:/Azure/azure-dev</id>
+    <link href="https://github.com/Azure/azure-dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A developer CLI that accelerates the time it takes for you to get started on Azure. The Azure Developer CLI (azd) provides a set of developer-friendly commands that map to key stages in your workflow - code, build, deploy, monitor, repeat.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/pubsub-dapr-python-servicebus</title>
+    <updated>2022-07-24T02:03:42Z</updated>
+    <id>tag:github.com,2022-07-24:/Azure-Samples/pubsub-dapr-python-servicebus</id>
+    <link href="https://github.com/Azure-Samples/pubsub-dapr-python-servicebus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete microservice application featuring Dapr Pub-Sub, deployed to Azure Container Apps and Azure Service Bus Topics with dead-lettering support.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/pubsub-dapr-nodejs-servicebus</title>
+    <updated>2022-07-24T02:03:42Z</updated>
+    <id>tag:github.com,2022-07-24:/Azure-Samples/pubsub-dapr-nodejs-servicebus</id>
+    <link href="https://github.com/Azure-Samples/pubsub-dapr-nodejs-servicebus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete microservice application featuring Dapr Pub-Sub, deployed to Azure Container Apps and Azure Service Bus Topics with dead-lettering support.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

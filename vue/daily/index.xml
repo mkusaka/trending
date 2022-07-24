@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:57:59Z</updated>
+  <updated>2022-07-24T01:57:42Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iview/iview</title>
-    <updated>2022-07-23T01:57:59Z</updated>
-    <id>tag:github.com,2022-07-23:/iview/iview</id>
-    <link href="https://github.com/iview/iview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A high quality UI Toolkit built on Vue.js 2.0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Code-Pop/Real-World_Vue-3</title>
+    <updated>2022-07-24T01:57:42Z</updated>
+    <id>tag:github.com,2022-07-24:/Code-Pop/Real-World_Vue-3</id>
+    <link href="https://github.com/Code-Pop/Real-World_Vue-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example app for Vue Mastery&#39;s Real World Vue 3 course&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wilfredinni/python-cheatsheet</title>
+    <updated>2022-07-24T01:57:42Z</updated>
+    <id>tag:github.com,2022-07-24:/wilfredinni/python-cheatsheet</id>
+    <link href="https://github.com/wilfredinni/python-cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lusaxweb/vuesax</title>
+    <updated>2022-07-24T01:57:42Z</updated>
+    <id>tag:github.com,2022-07-24:/lusaxweb/vuesax</id>
+    <link href="https://github.com/lusaxweb/vuesax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New Framework Components for Vue.js 2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

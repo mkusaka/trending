@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:47:48Z</updated>
+  <updated>2022-07-24T01:47:55Z</updated>
   <subtitle>Daily Trending of NASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>meta-flutter/meta-flutter</title>
+    <updated>2022-07-24T01:47:55Z</updated>
+    <id>tag:github.com,2022-07-24:/meta-flutter/meta-flutter</id>
+    <link href="https://github.com/meta-flutter/meta-flutter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google Flutter for Yocto&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

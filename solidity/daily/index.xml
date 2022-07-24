@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-23T01:54:39Z</updated>
+  <updated>2022-07-24T01:54:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pinkmoonfinance/pinksale-contracts</title>
-    <updated>2022-07-23T01:54:39Z</updated>
-    <id>tag:github.com,2022-07-23:/pinkmoonfinance/pinksale-contracts</id>
-    <link href="https://github.com/pinkmoonfinance/pinksale-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lumos-metaverse/Coding-Quest-Solved-the-unsolved</title>
+    <updated>2022-07-24T01:54:44Z</updated>
+    <id>tag:github.com,2022-07-24:/Lumos-metaverse/Coding-Quest-Solved-the-unsolved</id>
+    <link href="https://github.com/Lumos-metaverse/Coding-Quest-Solved-the-unsolved" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Welcome to Coding Quests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Certora/Tutorials</title>
+    <updated>2022-07-24T01:54:44Z</updated>
+    <id>tag:github.com,2022-07-24:/Certora/Tutorials</id>
+    <link href="https://github.com/Certora/Tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Practical tutorials of Certora Prover&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

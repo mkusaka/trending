@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:19:58Z</updated>
+  <subtitle>Weekly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript-contrib/purescript-argonaut-traversals</title>
+    <updated>2022-07-24T02:19:58Z</updated>
+    <id>tag:github.com,2022-07-24:/purescript-contrib/purescript-argonaut-traversals</id>
+    <link href="https://github.com/purescript-contrib/purescript-argonaut-traversals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prisms, traversals, and zipper for the Argonaut Json type.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-profunctor-lenses</title>
+    <updated>2022-07-24T02:19:58Z</updated>
+    <id>tag:github.com,2022-07-24:/purescript-contrib/purescript-profunctor-lenses</id>
+    <link href="https://github.com/purescript-contrib/purescript-profunctor-lenses" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure profunctor lenses&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-argonaut-codecs</title>
+    <updated>2022-07-24T02:19:58Z</updated>
+    <id>tag:github.com,2022-07-24:/purescript-contrib/purescript-argonaut-codecs</id>
+    <link href="https://github.com/purescript-contrib/purescript-argonaut-codecs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON serialization and deserialization with Argonaut.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

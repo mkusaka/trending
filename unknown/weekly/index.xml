@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-24T02:01:41Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shengcaishizhan/kkndme_tianya</title>
+    <updated>2022-07-24T02:01:41Z</updated>
+    <id>tag:github.com,2022-07-24:/shengcaishizhan/kkndme_tianya</id>
+    <link href="https://github.com/shengcaishizhan/kkndme_tianya" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;天涯 kkndme 神贴聊房价&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vasanthk/how-web-works</title>
+    <updated>2022-07-24T02:01:41Z</updated>
+    <id>tag:github.com,2022-07-24:/vasanthk/how-web-works</id>
+    <link href="https://github.com/vasanthk/how-web-works" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;What happens behind the scenes when we type www.google.com in a browser?&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ruanyf/weekly</title>
+    <updated>2022-07-24T02:01:41Z</updated>
+    <id>tag:github.com,2022-07-24:/ruanyf/weekly</id>
+    <link href="https://github.com/ruanyf/weekly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;科技爱好者周刊，每周五发布&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
