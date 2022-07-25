@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:44:38Z</updated>
+  <updated>2022-07-25T01:44:20Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaCommunity/YouTubeVideoTimestamps</title>
-    <updated>2022-07-24T01:44:38Z</updated>
-    <id>tag:github.com,2022-07-24:/JuliaCommunity/YouTubeVideoTimestamps</id>
-    <link href="https://github.com/JuliaCommunity/YouTubeVideoTimestamps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adding timestamps to Julia YouTube videos!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLabs/LULESH.jl</title>
+    <updated>2022-07-25T01:44:20Z</updated>
+    <id>tag:github.com,2022-07-25:/JuliaLabs/LULESH.jl</id>
+    <link href="https://github.com/JuliaLabs/LULESH.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia implementation of LULESH with MPI + X.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaCon/JuliaCon.jl</title>
+    <updated>2022-07-25T01:44:20Z</updated>
+    <id>tag:github.com,2022-07-25:/JuliaCon/JuliaCon.jl</id>
+    <link href="https://github.com/JuliaCon/JuliaCon.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JuliaCon. Everywhere.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

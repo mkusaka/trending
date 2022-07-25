@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:57:32Z</updated>
+  <updated>2022-07-25T01:57:15Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>42Paris/42header</title>
-    <updated>2022-07-24T01:57:32Z</updated>
-    <id>tag:github.com,2022-07-24:/42Paris/42header</id>
-    <link href="https://github.com/42Paris/42header" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;42 header&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HerringtonDarkholme/yats.vim</title>
+    <updated>2022-07-25T01:57:15Z</updated>
+    <id>tag:github.com,2022-07-25:/HerringtonDarkholme/yats.vim</id>
+    <link href="https://github.com/HerringtonDarkholme/yats.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aalonso/vimrc</title>
-    <updated>2022-07-24T01:57:32Z</updated>
-    <id>tag:github.com,2022-07-24:/aalonso/vimrc</id>
-    <link href="https://github.com/aalonso/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vimrc custom scripts and common used plugins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jparise/vim-graphql</title>
-    <updated>2022-07-24T01:57:32Z</updated>
-    <id>tag:github.com,2022-07-24:/jparise/vim-graphql</id>
-    <link href="https://github.com/jparise/vim-graphql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gelguy/wilder.nvim</title>
+    <updated>2022-07-25T01:57:15Z</updated>
+    <id>tag:github.com,2022-07-25:/gelguy/wilder.nvim</id>
+    <link href="https://github.com/gelguy/wilder.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A more adventurous wildmenu&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:37:06Z</updated>
+  <updated>2022-07-25T01:36:14Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>smart-methods/arduino_robot_arm</title>
-    <updated>2022-07-24T01:37:06Z</updated>
-    <id>tag:github.com,2022-07-24:/smart-methods/arduino_robot_arm</id>
-    <link href="https://github.com/smart-methods/arduino_robot_arm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ROS packages to control an Arduino robot arm by using Moveit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>64/cmake-raytracer</title>
-    <updated>2022-07-24T01:37:06Z</updated>
-    <id>tag:github.com,2022-07-24:/64/cmake-raytracer</id>
-    <link href="https://github.com/64/cmake-raytracer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ray tracer written in pure CMake&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

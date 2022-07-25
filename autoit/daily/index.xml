@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:34:55Z</updated>
+  <updated>2022-07-25T01:34:03Z</updated>
   <subtitle>Daily Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purogamer/Fluent-for-Steam</title>
+    <updated>2022-07-25T01:34:03Z</updated>
+    <id>tag:github.com,2022-07-25:/purogamer/Fluent-for-Steam</id>
+    <link href="https://github.com/purogamer/Fluent-for-Steam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fluent for Steam. A simple skin for steam to make it look like windows 11.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

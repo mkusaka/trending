@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:36:58Z</updated>
+  <updated>2022-07-25T01:36:04Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kit-clj/kit</title>
-    <updated>2022-07-24T01:36:58Z</updated>
-    <id>tag:github.com,2022-07-24:/kit-clj/kit</id>
-    <link href="https://github.com/kit-clj/kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight, modular framework for scalable web development in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clj-commons/etaoin</title>
+    <updated>2022-07-25T01:36:04Z</updated>
+    <id>tag:github.com,2022-07-25:/clj-commons/etaoin</id>
+    <link href="https://github.com/clj-commons/etaoin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Clojure Webdriver protocol implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>johnwayner/dynamo20</title>
-    <updated>2022-07-24T01:36:58Z</updated>
-    <id>tag:github.com,2022-07-24:/johnwayner/dynamo20</id>
-    <link href="https://github.com/johnwayner/dynamo20" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A quick hack to update No-Ip dynamic DNS entries.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure-goes-fast/clj-async-profiler</title>
+    <updated>2022-07-25T01:36:04Z</updated>
+    <id>tag:github.com,2022-07-25:/clojure-goes-fast/clj-async-profiler</id>
+    <link href="https://github.com/clojure-goes-fast/clj-async-profiler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Embedded high-precision Clojure profiler. Based on https://github.com/jvm-profiling-tools/async-profiler&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

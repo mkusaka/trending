@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:42:36Z</updated>
+  <updated>2022-07-25T01:42:06Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>imroc/kubernetes-guide</title>
-    <updated>2022-07-24T01:42:36Z</updated>
-    <id>tag:github.com,2022-07-24:/imroc/kubernetes-guide</id>
-    <link href="https://github.com/imroc/kubernetes-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes 实践指南&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

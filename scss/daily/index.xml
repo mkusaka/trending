@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:53:32Z</updated>
+  <updated>2022-07-25T01:53:24Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>twbs/bootstrap-rubygem</title>
-    <updated>2022-07-24T01:53:32Z</updated>
-    <id>tag:github.com,2022-07-24:/twbs/bootstrap-rubygem</id>
-    <link href="https://github.com/twbs/bootstrap-rubygem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap rubygem for Rails / Sprockets / Hanami / etc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rashevskyv/switch</title>
+    <updated>2022-07-25T01:53:24Z</updated>
+    <id>tag:github.com,2022-07-25:/rashevskyv/switch</id>
+    <link href="https://github.com/rashevskyv/switch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chrisbobbe/jekyll-theme-prologue</title>
-    <updated>2022-07-24T01:53:32Z</updated>
-    <id>tag:github.com,2022-07-24:/chrisbobbe/jekyll-theme-prologue</id>
-    <link href="https://github.com/chrisbobbe/jekyll-theme-prologue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Jekyll version of the &#34;Prologue&#34; theme by HTML5 UP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>logto-io/docs</title>
+    <updated>2022-07-25T01:53:24Z</updated>
+    <id>tag:github.com,2022-07-25:/logto-io/docs</id>
+    <link href="https://github.com/logto-io/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📖 Logto docs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zerostaticthemes/jekyll-serif-theme</title>
+    <updated>2022-07-25T01:53:24Z</updated>
+    <id>tag:github.com,2022-07-25:/zerostaticthemes/jekyll-serif-theme</id>
+    <link href="https://github.com/zerostaticthemes/jekyll-serif-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Serif is a multi page business theme for Jekyll.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

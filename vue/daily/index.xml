@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:57:42Z</updated>
+  <updated>2022-07-25T01:57:25Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Code-Pop/Real-World_Vue-3</title>
-    <updated>2022-07-24T01:57:42Z</updated>
-    <id>tag:github.com,2022-07-24:/Code-Pop/Real-World_Vue-3</id>
-    <link href="https://github.com/Code-Pop/Real-World_Vue-3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example app for Vue Mastery&#39;s Real World Vue 3 course&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HalseySpicy/Geeker-Admin</title>
+    <updated>2022-07-25T01:57:25Z</updated>
+    <id>tag:github.com,2022-07-25:/HalseySpicy/Geeker-Admin</id>
+    <link href="https://github.com/HalseySpicy/Geeker-Admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wilfredinni/python-cheatsheet</title>
-    <updated>2022-07-24T01:57:42Z</updated>
-    <id>tag:github.com,2022-07-24:/wilfredinni/python-cheatsheet</id>
-    <link href="https://github.com/wilfredinni/python-cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic Cheat Sheet for Python (PDF, Markdown and Jupyter Notebook)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Panyue-genkiyo/vue3-learning</title>
+    <updated>2022-07-25T01:57:25Z</updated>
+    <id>tag:github.com,2022-07-25:/Panyue-genkiyo/vue3-learning</id>
+    <link href="https://github.com/Panyue-genkiyo/vue3-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;学习vue3.0的基础代码&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lusaxweb/vuesax</title>
-    <updated>2022-07-24T01:57:42Z</updated>
-    <id>tag:github.com,2022-07-24:/lusaxweb/vuesax</id>
-    <link href="https://github.com/lusaxweb/vuesax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;New Framework Components for Vue.js 2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Code-Pop/Vuex_Fundamentals</title>
+    <updated>2022-07-25T01:57:25Z</updated>
+    <id>tag:github.com,2022-07-25:/Code-Pop/Vuex_Fundamentals</id>
+    <link href="https://github.com/Code-Pop/Vuex_Fundamentals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The repo for Vue Mastery&#39;s Intro to State Management course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

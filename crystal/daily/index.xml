@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:37:37Z</updated>
+  <updated>2022-07-25T01:36:49Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>luislavena/radix</title>
+    <updated>2022-07-25T01:36:49Z</updated>
+    <id>tag:github.com,2022-07-25:/luislavena/radix</id>
+    <link href="https://github.com/luislavena/radix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Radix Tree implementation for Crystal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

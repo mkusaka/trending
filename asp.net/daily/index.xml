@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASP.NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:34:35Z</updated>
+  <updated>2022-07-25T01:33:38Z</updated>
   <subtitle>Daily Trending of ASP.NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fazeelkhalid/Creating-basic-Page-on-ASP.Net-frame-work-with-CSS</title>
+    <updated>2022-07-25T01:33:38Z</updated>
+    <id>tag:github.com,2022-07-25:/fazeelkhalid/Creating-basic-Page-on-ASP.Net-frame-work-with-CSS</id>
+    <link href="https://github.com/fazeelkhalid/Creating-basic-Page-on-ASP.Net-frame-work-with-CSS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete discription is present inside the lab manual 1.1 and lab manual 1.2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ChenFengYe/TightCap</title>
+    <updated>2022-07-25T01:33:38Z</updated>
+    <id>tag:github.com,2022-07-25:/ChenFengYe/TightCap</id>
+    <link href="https://github.com/ChenFengYe/TightCap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The implementation for the TightCap (SIGGRAPH 2022)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

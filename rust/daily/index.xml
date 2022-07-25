@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:53:08Z</updated>
+  <updated>2022-07-25T01:52:57Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rust-lang/mdBook</title>
-    <updated>2022-07-24T01:53:08Z</updated>
-    <id>tag:github.com,2022-07-24:/rust-lang/mdBook</id>
-    <link href="https://github.com/rust-lang/mdBook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create book from markdown files. Like Gitbook but implemented in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-windowing/winit</title>
+    <updated>2022-07-25T01:52:57Z</updated>
+    <id>tag:github.com,2022-07-25:/rust-windowing/winit</id>
+    <link href="https://github.com/rust-windowing/winit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Window handling library in pure Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ekzhang/bore</title>
-    <updated>2022-07-24T01:53:08Z</updated>
-    <id>tag:github.com,2022-07-24:/ekzhang/bore</id>
-    <link href="https://github.com/ekzhang/bore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🕳 bore is a simple CLI tool for making tunnels to localhost&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crossbeam-rs/crossbeam</title>
+    <updated>2022-07-25T01:52:57Z</updated>
+    <id>tag:github.com,2022-07-25:/crossbeam-rs/crossbeam</id>
+    <link href="https://github.com/crossbeam-rs/crossbeam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for concurrent programming in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>supabase/pg_jsonschema</title>
-    <updated>2022-07-24T01:53:08Z</updated>
-    <id>tag:github.com,2022-07-24:/supabase/pg_jsonschema</id>
-    <link href="https://github.com/supabase/pg_jsonschema" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PostgreSQL extension providing JSON Schema validation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BurntSushi/ripgrep</title>
+    <updated>2022-07-25T01:52:57Z</updated>
+    <id>tag:github.com,2022-07-25:/BurntSushi/ripgrep</id>
+    <link href="https://github.com/BurntSushi/ripgrep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ripgrep recursively searches directories for a regex pattern while respecting your gitignore&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

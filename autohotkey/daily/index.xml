@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:34:57Z</updated>
+  <updated>2022-07-25T01:34:01Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>joe-ldp/Rawalle</title>
+    <updated>2022-07-25T01:34:01Z</updated>
+    <id>tag:github.com,2022-07-25:/joe-ldp/Rawalle</id>
+    <link href="https://github.com/joe-ldp/Rawalle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A wall and multi-instance reset macro for Minecraft Speedrunning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

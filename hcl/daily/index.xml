@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:42:49Z</updated>
+  <updated>2022-07-25T01:42:20Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>btkrausen/hashicorp</title>
-    <updated>2022-07-24T01:42:49Z</updated>
-    <id>tag:github.com,2022-07-24:/btkrausen/hashicorp</id>
-    <link href="https://github.com/btkrausen/hashicorp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Random code for HashiCorp related projects, training, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/learn-terraform-aft-account-request</title>
+    <updated>2022-07-25T01:42:20Z</updated>
+    <id>tag:github.com,2022-07-25:/hashicorp/learn-terraform-aft-account-request</id>
+    <link href="https://github.com/hashicorp/learn-terraform-aft-account-request" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-aws-elastic-beanstalk-environment</title>
-    <updated>2022-07-24T01:42:49Z</updated>
-    <id>tag:github.com,2022-07-24:/cloudposse/terraform-aws-elastic-beanstalk-environment</id>
-    <link href="https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision an AWS Elastic Beanstalk Environment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/learn-terraform-aft-account-provisioning-customizations</title>
+    <updated>2022-07-25T01:42:20Z</updated>
+    <id>tag:github.com,2022-07-25:/hashicorp/learn-terraform-aft-account-provisioning-customizations</id>
+    <link href="https://github.com/hashicorp/learn-terraform-aft-account-provisioning-customizations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-cloudfront</title>
+    <updated>2022-07-25T01:42:20Z</updated>
+    <id>tag:github.com,2022-07-25:/terraform-aws-modules/terraform-aws-cloudfront</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-cloudfront" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates CloudFront resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

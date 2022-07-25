@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:55:25Z</updated>
+  <updated>2022-07-25T01:55:04Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>countercept/detectree</title>
-    <updated>2022-07-24T01:55:25Z</updated>
-    <id>tag:github.com,2022-07-24:/countercept/detectree</id>
-    <link href="https://github.com/countercept/detectree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data visualization for blue teams&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JonasKruckenberg/tauri-symbols</title>
+    <updated>2022-07-25T01:55:04Z</updated>
+    <id>tag:github.com,2022-07-25:/JonasKruckenberg/tauri-symbols</id>
+    <link href="https://github.com/JonasKruckenberg/tauri-symbols" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SF Symbols in Tauri&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

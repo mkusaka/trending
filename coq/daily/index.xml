@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Coq Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:37:33Z</updated>
+  <updated>2022-07-25T01:36:37Z</updated>
   <subtitle>Daily Trending of Coq in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jwiegley/category-theory</title>
-    <updated>2022-07-24T01:37:33Z</updated>
-    <id>tag:github.com,2022-07-24:/jwiegley/category-theory</id>
-    <link href="https://github.com/jwiegley/category-theory" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An axiom-free formalization of category theory in Coq for personal study and practical work&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>IBM/FormalML</title>
-    <updated>2022-07-24T01:37:33Z</updated>
-    <id>tag:github.com,2022-07-24:/IBM/FormalML</id>
-    <link href="https://github.com/IBM/FormalML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Formalization of Machine Learning Theory with Applications to Program Synthesis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LogicalAtomist/principia</title>
+    <updated>2022-07-25T01:36:37Z</updated>
+    <id>tag:github.com,2022-07-25:/LogicalAtomist/principia</id>
+    <link href="https://github.com/LogicalAtomist/principia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Principia Rewrite&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

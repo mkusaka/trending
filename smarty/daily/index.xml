@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-24T01:54:34Z</updated>
+  <updated>2022-07-25T01:54:03Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sorry-cypress/charts</title>
-    <updated>2022-07-24T01:54:34Z</updated>
-    <id>tag:github.com,2022-07-24:/sorry-cypress/charts</id>
-    <link href="https://github.com/sorry-cypress/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Kubernetes Helm Chart for Sorry Cypress, an open-source on-premise, self-hosted alternative to cypress dashboard.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LM-Firefly/Rules</title>
-    <updated>2022-07-24T01:54:34Z</updated>
-    <id>tag:github.com,2022-07-24:/LM-Firefly/Rules</id>
-    <link href="https://github.com/LM-Firefly/Rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;自用Clash 策略组及规则 及Subconverter 相关资源备份&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>milvus-io/milvus-helm</title>
-    <updated>2022-07-24T01:54:34Z</updated>
-    <id>tag:github.com,2022-07-24:/milvus-io/milvus-helm</id>
-    <link href="https://github.com/milvus-io/milvus-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The helm chart to deploy Milvus&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
