@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:52:57Z</updated>
+  <updated>2022-07-26T01:52:24Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rust-windowing/winit</title>
-    <updated>2022-07-25T01:52:57Z</updated>
-    <id>tag:github.com,2022-07-25:/rust-windowing/winit</id>
-    <link href="https://github.com/rust-windowing/winit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Window handling library in pure Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/regex</title>
+    <updated>2022-07-26T01:52:24Z</updated>
+    <id>tag:github.com,2022-07-26:/rust-lang/regex</id>
+    <link href="https://github.com/rust-lang/regex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>crossbeam-rs/crossbeam</title>
-    <updated>2022-07-25T01:52:57Z</updated>
-    <id>tag:github.com,2022-07-25:/crossbeam-rs/crossbeam</id>
-    <link href="https://github.com/crossbeam-rs/crossbeam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools for concurrent programming in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rapiz1/catp</title>
+    <updated>2022-07-26T01:52:24Z</updated>
+    <id>tag:github.com,2022-07-26:/rapiz1/catp</id>
+    <link href="https://github.com/rapiz1/catp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Print the output of a running process&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BurntSushi/ripgrep</title>
-    <updated>2022-07-25T01:52:57Z</updated>
-    <id>tag:github.com,2022-07-25:/BurntSushi/ripgrep</id>
-    <link href="https://github.com/BurntSushi/ripgrep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ripgrep recursively searches directories for a regex pattern while respecting your gitignore&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arxanas/git-branchless</title>
+    <updated>2022-07-26T01:52:24Z</updated>
+    <id>tag:github.com,2022-07-26:/arxanas/git-branchless</id>
+    <link href="https://github.com/arxanas/git-branchless" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High-velocity, monorepo-scale workflow for Git&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

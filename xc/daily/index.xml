@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XC Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:58:13Z</updated>
+  <updated>2022-07-26T01:57:33Z</updated>
   <subtitle>Daily Trending of XC in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xmos/lib_spi</title>
-    <updated>2022-07-25T01:58:13Z</updated>
-    <id>tag:github.com,2022-07-25:/xmos/lib_spi</id>
-    <link href="https://github.com/xmos/lib_spi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SPI peripheral library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

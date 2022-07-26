@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:55:04Z</updated>
+  <updated>2022-07-26T01:54:29Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JonasKruckenberg/tauri-symbols</title>
-    <updated>2022-07-25T01:55:04Z</updated>
-    <id>tag:github.com,2022-07-25:/JonasKruckenberg/tauri-symbols</id>
-    <link href="https://github.com/JonasKruckenberg/tauri-symbols" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SF Symbols in Tauri&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xFutte/futte-newspaper</title>
+    <updated>2022-07-26T01:54:29Z</updated>
+    <id>tag:github.com,2022-07-26:/xFutte/futte-newspaper</id>
+    <link href="https://github.com/xFutte/futte-newspaper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[QBCore] Newspaper script displaying news, prison sentences, and enables reporters to write, update and delete news&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mhkeller/layercake</title>
+    <updated>2022-07-26T01:54:29Z</updated>
+    <id>tag:github.com,2022-07-26:/mhkeller/layercake</id>
+    <link href="https://github.com/mhkeller/layercake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;graphics framework for sveltejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>itszero/HasGoogleFixedItYet</title>
+    <updated>2022-07-26T01:54:29Z</updated>
+    <id>tag:github.com,2022-07-26:/itszero/HasGoogleFixedItYet</id>
+    <link href="https://github.com/itszero/HasGoogleFixedItYet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;估狗翻譯修好了沒？&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

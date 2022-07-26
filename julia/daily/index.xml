@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:44:20Z</updated>
+  <updated>2022-07-26T01:43:59Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaLabs/LULESH.jl</title>
-    <updated>2022-07-25T01:44:20Z</updated>
-    <id>tag:github.com,2022-07-25:/JuliaLabs/LULESH.jl</id>
-    <link href="https://github.com/JuliaLabs/LULESH.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia implementation of LULESH with MPI + X.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDataScience/JuliaDataScience</title>
+    <updated>2022-07-26T01:43:59Z</updated>
+    <id>tag:github.com,2022-07-26:/JuliaDataScience/JuliaDataScience</id>
+    <link href="https://github.com/JuliaDataScience/JuliaDataScience" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Book on Julia for Data Science&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaCon/JuliaCon.jl</title>
-    <updated>2022-07-25T01:44:20Z</updated>
-    <id>tag:github.com,2022-07-25:/JuliaCon/JuliaCon.jl</id>
-    <link href="https://github.com/JuliaCon/JuliaCon.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JuliaCon. Everywhere.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>domluna/JuliaFormatter.jl</title>
+    <updated>2022-07-26T01:43:59Z</updated>
+    <id>tag:github.com,2022-07-26:/domluna/JuliaFormatter.jl</id>
+    <link href="https://github.com/domluna/JuliaFormatter.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated code formatter for Julia. Plot twist - the opinion is your own.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaNeuralGraphics/GL.jl</title>
+    <updated>2022-07-26T01:43:59Z</updated>
+    <id>tag:github.com,2022-07-26:/JuliaNeuralGraphics/GL.jl</id>
+    <link href="https://github.com/JuliaNeuralGraphics/GL.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

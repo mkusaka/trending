@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:58:37Z</updated>
+  <updated>2022-07-26T01:57:56Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>usnistgov/metaschema</title>
-    <updated>2022-07-25T01:58:37Z</updated>
-    <id>tag:github.com,2022-07-25:/usnistgov/metaschema</id>
-    <link href="https://github.com/usnistgov/metaschema" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for and implementations of the metaschema modeling language&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;metaschema&lt;/h1&gt; &#xA;&lt;p&gt;Documentation for and implementations of the metaschema modeling language&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Schematron/schematron-test</title>
-    <updated>2022-07-25T01:58:37Z</updated>
-    <id>tag:github.com,2022-07-25:/Schematron/schematron-test</id>
-    <link href="https://github.com/Schematron/schematron-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Schematron test files&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Schematron test files&lt;/h1&gt; &#xA;&lt;p&gt;These are test files for testing Schematron implementations.&lt;/p&gt; &#xA;&lt;p&gt;The initial test files were moved here from the &#39;Schematron/schematron&#39; project.&lt;/p&gt; &#xA;&lt;p&gt;In an ideal world, this would include test files for every testable statement in the ISO standard. If you can add one or two test files, please do so.&lt;/p&gt; &#xA;&lt;p&gt;In an even more ideal world, tests would also have accompanying XSpec files so that they can be tested using XSpec. The priority, however, is the tests themselves, since not every Schematron implementation can be run by the XSpec framework.&lt;/p&gt;</summary>
-  </entry>
 </feed>

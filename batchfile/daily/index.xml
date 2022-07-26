@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:34:21Z</updated>
+  <updated>2022-07-26T01:34:20Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DoingDog/XXKiller</title>
-    <updated>2022-07-25T01:34:21Z</updated>
-    <id>tag:github.com,2022-07-25:/DoingDog/XXKiller</id>
-    <link href="https://github.com/DoingDog/XXKiller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;多合一通杀内容拦截器规则 CN&amp;全球&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rdmo1/Rdmo1-Swift-Tool</title>
-    <updated>2022-07-25T01:34:21Z</updated>
-    <id>tag:github.com,2022-07-25:/Rdmo1/Rdmo1-Swift-Tool</id>
-    <link href="https://github.com/Rdmo1/Rdmo1-Swift-Tool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Made in Python! Multi Tool for Roblox &amp; Discord, visit now!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

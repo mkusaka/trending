@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:42:02Z</updated>
+  <updated>2022-07-26T01:41:46Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gradle/android-cache-fix-gradle-plugin</title>
-    <updated>2022-07-25T01:42:02Z</updated>
-    <id>tag:github.com,2022-07-25:/gradle/android-cache-fix-gradle-plugin</id>
-    <link href="https://github.com/gradle/android-cache-fix-gradle-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin that fixes Android build caching problems.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nubenetes/awesome-kubernetes</title>
+    <updated>2022-07-26T01:41:46Z</updated>
+    <id>tag:github.com,2022-07-26:/nubenetes/awesome-kubernetes</id>
+    <link href="https://github.com/nubenetes/awesome-kubernetes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome references collected since 2018.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

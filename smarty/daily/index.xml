@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:54:03Z</updated>
+  <updated>2022-07-26T01:53:28Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>memphisdev/memphis-k8s</title>
+    <updated>2022-07-26T01:53:28Z</updated>
+    <id>tag:github.com,2022-07-26:/memphisdev/memphis-k8s</id>
+    <link href="https://github.com/memphisdev/memphis-k8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Memphis is a dev-first event processing platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kubeshop/helm-charts</title>
+    <updated>2022-07-26T01:53:28Z</updated>
+    <id>tag:github.com,2022-07-26:/kubeshop/helm-charts</id>
+    <link href="https://github.com/kubeshop/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kubeshop Helm Repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudtechmasters/springboot-maven-course-micro-svc</title>
+    <updated>2022-07-26T01:53:28Z</updated>
+    <id>tag:github.com,2022-07-26:/cloudtechmasters/springboot-maven-course-micro-svc</id>
+    <link href="https://github.com/cloudtechmasters/springboot-maven-course-micro-svc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:39:42Z</updated>
+  <updated>2022-07-26T01:39:19Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>antoniogarrote/erlfaye</title>
-    <updated>2022-07-25T01:39:42Z</updated>
-    <id>tag:github.com,2022-07-25:/antoniogarrote/erlfaye</id>
-    <link href="https://github.com/antoniogarrote/erlfaye" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;comet ++ websockets ++ erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yakaz/yamerl</title>
-    <updated>2022-07-25T01:39:42Z</updated>
-    <id>tag:github.com,2022-07-25:/yakaz/yamerl</id>
-    <link href="https://github.com/yakaz/yamerl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;YAML 1.2 and JSON parser in pure Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apache/couchdb-mochiweb</title>
-    <updated>2022-07-25T01:39:42Z</updated>
-    <id>tag:github.com,2022-07-25:/apache/couchdb-mochiweb</id>
-    <link href="https://github.com/apache/couchdb-mochiweb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of Apache CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seancribbs/eunit_formatters</title>
+    <updated>2022-07-26T01:39:19Z</updated>
+    <id>tag:github.com,2022-07-26:/seancribbs/eunit_formatters</id>
+    <link href="https://github.com/seancribbs/eunit_formatters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Because eunit&#39;s output sucks. Let&#39;s make it better.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

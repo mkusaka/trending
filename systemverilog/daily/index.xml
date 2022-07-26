@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:55:13Z</updated>
+  <updated>2022-07-26T01:54:37Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>chipsalliance/Cores-SweRV-EL2</title>
-    <updated>2022-07-25T01:55:13Z</updated>
-    <id>tag:github.com,2022-07-25:/chipsalliance/Cores-SweRV-EL2</id>
-    <link href="https://github.com/chipsalliance/Cores-SweRV-EL2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SweRV EL2 Core&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

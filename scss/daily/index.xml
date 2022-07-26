@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:53:24Z</updated>
+  <updated>2022-07-26T01:52:49Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rashevskyv/switch</title>
-    <updated>2022-07-25T01:53:24Z</updated>
-    <id>tag:github.com,2022-07-25:/rashevskyv/switch</id>
-    <link href="https://github.com/rashevskyv/switch" rel="alternate"></link>
+    <title>FernandoTol/Desafio1</title>
+    <updated>2022-07-26T01:52:49Z</updated>
+    <id>tag:github.com,2022-07-26:/FernandoTol/Desafio1</id>
+    <link href="https://github.com/FernandoTol/Desafio1" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>logto-io/docs</title>
-    <updated>2022-07-25T01:53:24Z</updated>
-    <id>tag:github.com,2022-07-25:/logto-io/docs</id>
-    <link href="https://github.com/logto-io/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📖 Logto docs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>foreverphoenix/the-phoenix-flavour</title>
+    <updated>2022-07-26T01:52:49Z</updated>
+    <id>tag:github.com,2022-07-26:/foreverphoenix/the-phoenix-flavour</id>
+    <link href="https://github.com/foreverphoenix/the-phoenix-flavour" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Skyrim SE modding guide.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zerostaticthemes/jekyll-serif-theme</title>
-    <updated>2022-07-25T01:53:24Z</updated>
-    <id>tag:github.com,2022-07-25:/zerostaticthemes/jekyll-serif-theme</id>
-    <link href="https://github.com/zerostaticthemes/jekyll-serif-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serif is a multi page business theme for Jekyll.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pages-themes/dinky</title>
+    <updated>2022-07-26T01:52:49Z</updated>
+    <id>tag:github.com,2022-07-26:/pages-themes/dinky</id>
+    <link href="https://github.com/pages-themes/dinky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dinky is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-25T01:33:54Z</updated>
+  <updated>2022-07-26T01:33:54Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>smnjameson/S65</title>
-    <updated>2022-07-25T01:33:54Z</updated>
-    <id>tag:github.com,2022-07-25:/smnjameson/S65</id>
-    <link href="https://github.com/smnjameson/S65" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shallan65 kick assembler macro toolkit for MEGA65&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fazeelkhalid/TREX-GAME-coal-project--intel-8080</title>
+    <updated>2022-07-26T01:33:54Z</updated>
+    <id>tag:github.com,2022-07-26:/fazeelkhalid/TREX-GAME-coal-project--intel-8080</id>
+    <link href="https://github.com/fazeelkhalid/TREX-GAME-coal-project--intel-8080" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For this assignment you will work in group of two team member, in case you are unable to find partner you can work alone (but you will need my permission). You cannot working in group of more than 2. You will submit assignment in one. asm file on google classroom (link will be provided soon) Due data of assignment is: 23rd Dec 2020 (no extension…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fazeelkhalid/COAL-labs-FastNu-fall-2020--processor-8080-or-8086-</title>
+    <updated>2022-07-26T01:33:54Z</updated>
+    <id>tag:github.com,2022-07-26:/fazeelkhalid/COAL-labs-FastNu-fall-2020--processor-8080-or-8086-</id>
+    <link href="https://github.com/fazeelkhalid/COAL-labs-FastNu-fall-2020--processor-8080-or-8086-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Its the main folder so all solved labs are Inside it&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Spritetm/pbf-table</title>
+    <updated>2022-07-26T01:33:54Z</updated>
+    <id>tag:github.com,2022-07-26:/Spritetm/pbf-table</id>
+    <link href="https://github.com/Spritetm/pbf-table" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Firmware, pcbs and case design for a tiny Pinball Fantasies-based video pinball table.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
