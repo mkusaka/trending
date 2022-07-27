@@ -5,24 +5,10 @@
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>solita/mnt-teet</title>
+    <title>jmayaalv/graffito</title>
     <updated>2022-07-26T01:35:58Z</updated>
-    <id>tag:github.com,2022-07-26:/solita/mnt-teet</id>
-    <link href="https://github.com/solita/mnt-teet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Maanteeamet TEET: Road Lifecycle Software&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>puppetlabs/trapperkeeper</title>
-    <updated>2022-07-26T01:35:58Z</updated>
-    <id>tag:github.com,2022-07-26:/puppetlabs/trapperkeeper</id>
-    <link href="https://github.com/puppetlabs/trapperkeeper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A services framework for Clojure / JVM applications.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thheller/shadow-css</title>
-    <updated>2022-07-26T01:35:58Z</updated>
-    <id>tag:github.com,2022-07-26:/thheller/shadow-css</id>
-    <link href="https://github.com/thheller/shadow-css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-07-26:/jmayaalv/graffito</id>
+    <link href="https://github.com/jmayaalv/graffito" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graphql Interface for Pathom3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

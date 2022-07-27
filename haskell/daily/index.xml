@@ -4,11 +4,4 @@
   <updated>2022-07-26T01:42:10Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>elliottt/llvm-pretty</title>
-    <updated>2022-07-26T01:42:10Z</updated>
-    <id>tag:github.com,2022-07-26:/elliottt/llvm-pretty</id>
-    <link href="https://github.com/elliottt/llvm-pretty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An llvm pretty printer inspired by the haskell llvm binding&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

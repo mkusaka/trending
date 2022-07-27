@@ -4,11 +4,4 @@
   <updated>2022-07-26T01:58:18Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>batmac/docker-zig</title>
-    <updated>2022-07-26T01:58:18Z</updated>
-    <id>tag:github.com,2022-07-26:/batmac/docker-zig</id>
-    <link href="https://github.com/batmac/docker-zig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my zig docker images&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

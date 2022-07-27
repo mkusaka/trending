@@ -5,24 +5,10 @@
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xFutte/futte-newspaper</title>
+    <title>ottomated/interview-avatar</title>
     <updated>2022-07-26T01:54:29Z</updated>
-    <id>tag:github.com,2022-07-26:/xFutte/futte-newspaper</id>
-    <link href="https://github.com/xFutte/futte-newspaper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[QBCore] Newspaper script displaying news, prison sentences, and enables reporters to write, update and delete news&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mhkeller/layercake</title>
-    <updated>2022-07-26T01:54:29Z</updated>
-    <id>tag:github.com,2022-07-26:/mhkeller/layercake</id>
-    <link href="https://github.com/mhkeller/layercake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;graphics framework for sveltejs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>itszero/HasGoogleFixedItYet</title>
-    <updated>2022-07-26T01:54:29Z</updated>
-    <id>tag:github.com,2022-07-26:/itszero/HasGoogleFixedItYet</id>
-    <link href="https://github.com/itszero/HasGoogleFixedItYet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;估狗翻譯修好了沒？&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-07-26:/ottomated/interview-avatar</id>
+    <link href="https://github.com/ottomated/interview-avatar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -5,24 +5,17 @@
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaDataScience/JuliaDataScience</title>
+    <title>lucifer1004/Jl2Py.jl</title>
     <updated>2022-07-26T01:43:59Z</updated>
-    <id>tag:github.com,2022-07-26:/JuliaDataScience/JuliaDataScience</id>
-    <link href="https://github.com/JuliaDataScience/JuliaDataScience" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Book on Julia for Data Science&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-07-26:/lucifer1004/Jl2Py.jl</id>
+    <link href="https://github.com/lucifer1004/Jl2Py.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Transpile from Julia to Python&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>domluna/JuliaFormatter.jl</title>
+    <title>jkrumbiegel/JuliaCon2022Makie</title>
     <updated>2022-07-26T01:43:59Z</updated>
-    <id>tag:github.com,2022-07-26:/domluna/JuliaFormatter.jl</id>
-    <link href="https://github.com/domluna/JuliaFormatter.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An opinionated code formatter for Julia. Plot twist - the opinion is your own.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaNeuralGraphics/GL.jl</title>
-    <updated>2022-07-26T01:43:59Z</updated>
-    <id>tag:github.com,2022-07-26:/JuliaNeuralGraphics/GL.jl</id>
-    <link href="https://github.com/JuliaNeuralGraphics/GL.jl" rel="alternate"></link>
+    <id>tag:github.com,2022-07-26:/jkrumbiegel/JuliaCon2022Makie</id>
+    <link href="https://github.com/jkrumbiegel/JuliaCon2022Makie" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
