@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:47:48Z</updated>
+  <updated>2022-07-28T02:29:15Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nix-community/impermanence</title>
+    <updated>2022-07-28T02:29:15Z</updated>
+    <id>tag:github.com,2022-07-28:/nix-community/impermanence</id>
+    <link href="https://github.com/nix-community/impermanence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

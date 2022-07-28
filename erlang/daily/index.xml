@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:39:19Z</updated>
+  <updated>2022-07-28T02:02:14Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>id3as/rebar3_vir</title>
+    <updated>2022-07-28T02:02:14Z</updated>
+    <id>tag:github.com,2022-07-28:/id3as/rebar3_vir</id>
+    <link href="https://github.com/id3as/rebar3_vir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A replacement for vir that doesn&#39;t rely on a pile of bash lying in your path&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

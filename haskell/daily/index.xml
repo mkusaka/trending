@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:42:10Z</updated>
+  <updated>2022-07-28T02:10:19Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mooseman/Haskell</title>
+    <updated>2022-07-28T02:10:19Z</updated>
+    <id>tag:github.com,2022-07-28:/mooseman/Haskell</id>
+    <link href="https://github.com/mooseman/Haskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing around with Haskell.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Reykudo/geoip-redis</title>
+    <updated>2022-07-28T02:10:19Z</updated>
+    <id>tag:github.com,2022-07-28:/Reykudo/geoip-redis</id>
+    <link href="https://github.com/Reykudo/geoip-redis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;geoip-redis&lt;/h1&gt; &#xA;&lt;p&gt;2-part package for loading &lt;a href=&#34;https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en&#34;&gt;GeoLite2 Database&lt;/a&gt; to redis and working with it from your application.&lt;/p&gt; &#xA;&lt;h2&gt;app&lt;/h2&gt; &#xA;&lt;p&gt;Contains&lt;/p&gt; &#xA;&lt;h2&gt;lib&lt;/h2&gt; &#xA;&lt;p&gt;Contains types + lookup function&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;login &lt;a href=&#34;https://dev.maxmind.com/geoip/geolite2-free-geolocation-data?lang=en&#34;&gt;here&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;download database (you need 2 files: GeoLite2-City-Blocks-IPv4.csv and GeoLite2-City-Locations-&#xA;  &lt;lang&gt;&#xA;   .csv)&#xA;  &lt;/lang&gt;&lt;/li&gt; &#xA; &lt;li&gt;install redis&lt;/li&gt; &#xA; &lt;li&gt;run &lt;code&gt;geoip-redis-exe -r &#39;redis://user@localhost:6379/1&#39; -b &#39;./data/GeoLite2-City-Blocks-IPv4.csv&#39; -l &#39;./data/GeoLite2-City-Locations-ru.csv&#39; -d &#39;geoip_ipv4&#39;&lt;/code&gt; on host where you need database&lt;/li&gt; &#xA; &lt;li&gt;run your app (which use &lt;code&gt;./lib&lt;/code&gt; i guess)&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

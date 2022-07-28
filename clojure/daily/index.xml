@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:35:58Z</updated>
+  <updated>2022-07-28T01:51:44Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jmayaalv/graffito</title>
-    <updated>2022-07-26T01:35:58Z</updated>
-    <id>tag:github.com,2022-07-26:/jmayaalv/graffito</id>
-    <link href="https://github.com/jmayaalv/graffito" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Graphql Interface for Pathom3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sifive/freedom-u-sdk</title>
+    <updated>2022-07-28T01:51:44Z</updated>
+    <id>tag:github.com,2022-07-28:/sifive/freedom-u-sdk</id>
+    <link href="https://github.com/sifive/freedom-u-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Freedom U Software Development Kit (FUSDK)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jherrlin/guitar-theory-training</title>
+    <updated>2022-07-28T01:51:44Z</updated>
+    <id>tag:github.com,2022-07-28:/jherrlin/guitar-theory-training</id>
+    <link href="https://github.com/jherrlin/guitar-theory-training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guitar and music theory&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:32:31Z</updated>
+  <updated>2022-07-28T01:39:42Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>peng-zhihui/PocketLCD</title>
-    <updated>2022-07-26T01:32:31Z</updated>
-    <id>tag:github.com,2022-07-26:/peng-zhihui/PocketLCD</id>
-    <link href="https://github.com/peng-zhihui/PocketLCD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;带充电宝功能的便携显示器&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tencent/secguide</title>
+    <updated>2022-07-28T01:39:42Z</updated>
+    <id>tag:github.com,2022-07-28:/Tencent/secguide</id>
+    <link href="https://github.com/Tencent/secguide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;面向开发人员梳理的代码安全指南&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zeroruka/GI-Assets-wiki</title>
-    <updated>2022-07-26T01:32:31Z</updated>
-    <id>tag:github.com,2022-07-26:/zeroruka/GI-Assets-wiki</id>
-    <link href="https://github.com/zeroruka/GI-Assets-wiki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chinese Wiki for GI_Assets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>b7leung/MLE-Flashcards</title>
+    <updated>2022-07-28T01:39:42Z</updated>
+    <id>tag:github.com,2022-07-28:/b7leung/MLE-Flashcards</id>
+    <link href="https://github.com/b7leung/MLE-Flashcards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>imvast/Discord-Account-Creator</title>
-    <updated>2022-07-26T01:32:31Z</updated>
-    <id>tag:github.com,2022-07-26:/imvast/Discord-Account-Creator</id>
-    <link href="https://github.com/imvast/Discord-Account-Creator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Discord Account/Token Creator + Automatic Server Joiner + Automatic Boosts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>peng-zhihui/Project-Quantum</title>
+    <updated>2022-07-28T01:39:42Z</updated>
+    <id>tag:github.com,2022-07-28:/peng-zhihui/Project-Quantum</id>
+    <link href="https://github.com/peng-zhihui/Project-Quantum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;超迷你模块化卡片电脑计划&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

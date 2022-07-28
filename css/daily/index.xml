@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:36:53Z</updated>
+  <updated>2022-07-28T01:54:33Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Heriec/typoraCracker</title>
+    <updated>2022-07-28T01:54:33Z</updated>
+    <id>tag:github.com,2022-07-28:/Heriec/typoraCracker</id>
+    <link href="https://github.com/Heriec/typoraCracker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;修改Typora过段时间就过期的问题&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Typora&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;对于现在的新版本，我觉得也没必要破解，作者并没有把以前的版本也收费，已经对他来说仁至义尽了，但是令人琢磨不懂的是，老版本会有过期问题。&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;放了两个老版本版本的Typora，都是以前的免费版，但是会过期，本项目旨在解决过期问题。&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;链接：https://pan.baidu.com/s/1JBCMcUzs9BH-5nYVCCIiTQ?pwd=5maz &#xA;提取码：5maz&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;typora Cracker&lt;/h2&gt; &#xA;&lt;p&gt;原项目是&lt;a href=&#34;https://github.com/fossabot/typoraCracker&#34;&gt;fossabot/typoraCracker: A patch and keygen tools for typora. (github.com)&lt;/a&gt;的，我拿过来使用，防止后面Typora不给用了，我有个备份。&lt;/p&gt; &#xA;&lt;p&gt;本项目里面的dec_app是已经修改过的了，所以直接放到Typora下改名为&lt;code&gt;app&lt;/code&gt;就可以用。&lt;/p&gt; &#xA;&lt;p&gt;下面是解决步骤。&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;遇到Typora过期问题&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;This beta version of Typora is expired, please download and install a newer version.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;解决方案如下：&lt;/p&gt; &#xA;&lt;p&gt;1、下载解密typoraCracker教程&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/fossabot/typoraCracker&#34;&gt;https://github.com/fossabot/typoraCracker&lt;/a&gt;&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;现在我们这个项目里面就可以用了，下面操作都不需要。&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;下载后，win+R打开cmd，进入typoraCracker目录。&lt;/p&gt; &#xA;&lt;p&gt;2、执行命令&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;pip install -r requirements.txt&#xA;python typora.py &#34;C:\Program Files\Typora\resources\app.asar&#34; .  // 你Typora安装在那个文件夹下面就是那个文件夹&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;会在 typoraCracker 文件夹下生成dec_app文件 &lt;img src=&#34;https://img-blog.csdnimg.cn/a1ffe1d6db444e688a4e71d8cae6d67d.png&#34; alt=&#34;在这里插入图片描述&#34;&gt; 3、修改我们反编译的 dec_app 文件夹下的 &lt;code&gt;License.js&lt;/code&gt;文件&lt;/p&gt; &#xA;&lt;p&gt;我们省事，直接将文件中&lt;code&gt;1636297098336&lt;/code&gt;全部替换成&lt;code&gt;4713176400336&lt;/code&gt; 这就是修改注册时间，如果想研究一下源码也是可以的。 好了，这个时候我们保存这个文件&lt;/p&gt; &#xA;&lt;p&gt;4、文件替换&lt;/p&gt; &#xA;&lt;p&gt;把dec_app，把它复制到Typora目录下的resources，并改名为app &lt;img src=&#34;https://img-blog.csdnimg.cn/f1619a78b9f347bcad1eb62bdcf3ec5f.png&#34; alt=&#34;在这里插入图片描述&#34;&gt; 现在我再打开typora就可以使用了。&lt;/p&gt; &#xA;&lt;h2&gt;themes&lt;/h2&gt; &#xA;&lt;p&gt;themes文件夹是我存的各种主题直接放到 &lt;code&gt;偏好设置&lt;/code&gt; 中的 &lt;code&gt;外观&lt;/code&gt; 里的 &lt;code&gt;打开主题文件夹&lt;/code&gt;里面的文件夹就可以了&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img-blog.csdnimg.cn/4488ea79f4bd4d10aedc47ba096892ee.png&#34; alt=&#34;在这里插入图片描述&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>MoeidHeidari/PrestoApp</title>
+    <updated>2022-07-28T01:54:33Z</updated>
+    <id>tag:github.com,2022-07-28:/MoeidHeidari/PrestoApp</id>
+    <link href="https://github.com/MoeidHeidari/PrestoApp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>meet-projects/Y2-Summer-Labs</title>
+    <updated>2022-07-28T01:54:33Z</updated>
+    <id>tag:github.com,2022-07-28:/meet-projects/Y2-Summer-Labs</id>
+    <link href="https://github.com/meet-projects/Y2-Summer-Labs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Y2-Summer-Labs&lt;/h1&gt;</summary>
+  </entry>
 </feed>

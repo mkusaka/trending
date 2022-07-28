@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:54:29Z</updated>
+  <updated>2022-07-28T02:51:46Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ottomated/interview-avatar</title>
-    <updated>2022-07-26T01:54:29Z</updated>
-    <id>tag:github.com,2022-07-26:/ottomated/interview-avatar</id>
-    <link href="https://github.com/ottomated/interview-avatar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gereleth/hexapipes</title>
+    <updated>2022-07-28T02:51:46Z</updated>
+    <id>tag:github.com,2022-07-28:/gereleth/hexapipes</id>
+    <link href="https://github.com/gereleth/hexapipes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hexagonal pipes puzzles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YeungKC/Hakuba</title>
+    <updated>2022-07-28T02:51:46Z</updated>
+    <id>tag:github.com,2022-07-28:/YeungKC/Hakuba</id>
+    <link href="https://github.com/YeungKC/Hakuba" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast blog starter that reads data off GitHub Discussions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

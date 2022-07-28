@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:46:06Z</updated>
+  <updated>2022-07-28T02:23:30Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ramintoosi/ROSS</title>
+    <updated>2022-07-28T02:23:30Z</updated>
+    <id>tag:github.com,2022-07-28:/ramintoosi/ROSS</id>
+    <link href="https://github.com/ramintoosi/ROSS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robust Offline Spike Sorter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>analogdevicesinc/HighSpeedConverterToolbox</title>
+    <updated>2022-07-28T02:23:30Z</updated>
+    <id>tag:github.com,2022-07-28:/analogdevicesinc/HighSpeedConverterToolbox</id>
+    <link href="https://github.com/analogdevicesinc/HighSpeedConverterToolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MATLAB toolbox for ADI high speed converter products&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

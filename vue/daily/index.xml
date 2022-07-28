@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:56:47Z</updated>
+  <updated>2022-07-28T02:59:30Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Code-Pop/Vue-3-Forms</title>
-    <updated>2022-07-26T01:56:47Z</updated>
-    <id>tag:github.com,2022-07-26:/Code-Pop/Vue-3-Forms</id>
-    <link href="https://github.com/Code-Pop/Vue-3-Forms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DeimosC2/DeimosC2</title>
+    <updated>2022-07-28T02:59:30Z</updated>
+    <id>tag:github.com,2022-07-28:/DeimosC2/DeimosC2</id>
+    <link href="https://github.com/DeimosC2/DeimosC2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DeimosC2 is a Golang command and control framework for post-exploitation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Code-Pop/validating-vue3-forms</title>
-    <updated>2022-07-26T01:56:47Z</updated>
-    <id>tag:github.com,2022-07-26:/Code-Pop/validating-vue3-forms</id>
-    <link href="https://github.com/Code-Pop/validating-vue3-forms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for VueMastery.com&#39;s Validating Vue 3 Forms course.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Code-Pop/Real-World-Vue-3-TypeScript</title>
-    <updated>2022-07-26T01:56:47Z</updated>
-    <id>tag:github.com,2022-07-26:/Code-Pop/Real-World-Vue-3-TypeScript</id>
-    <link href="https://github.com/Code-Pop/Real-World-Vue-3-TypeScript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GavinZhuLei/vue-form-making</title>
+    <updated>2022-07-28T02:59:30Z</updated>
+    <id>tag:github.com,2022-07-28:/GavinZhuLei/vue-form-making</id>
+    <link href="https://github.com/GavinZhuLei/vue-form-making" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

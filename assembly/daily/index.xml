@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-26T01:33:54Z</updated>
+  <updated>2022-07-28T01:44:45Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Project-Nyanpasu/bionic</title>
-    <updated>2022-07-26T01:33:54Z</updated>
-    <id>tag:github.com,2022-07-26:/Project-Nyanpasu/bionic</id>
-    <link href="https://github.com/Project-Nyanpasu/bionic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>enkomio/AlanFramework</title>
+    <updated>2022-07-28T01:44:45Z</updated>
+    <id>tag:github.com,2022-07-28:/enkomio/AlanFramework</id>
+    <link href="https://github.com/enkomio/AlanFramework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A C2 post-exploitation framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gabrielrfonseca/Carga-gelada</title>
+    <updated>2022-07-28T01:44:45Z</updated>
+    <id>tag:github.com,2022-07-28:/gabrielrfonseca/Carga-gelada</id>
+    <link href="https://github.com/gabrielrfonseca/Carga-gelada" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Projeto desenvolvido para a disciplina de Microcontroladores - UFPB.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Famicoman/Euclidean-MIPS</title>
+    <updated>2022-07-28T01:44:45Z</updated>
+    <id>tag:github.com,2022-07-28:/Famicoman/Euclidean-MIPS</id>
+    <link href="https://github.com/Famicoman/Euclidean-MIPS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Euclid&#39;s algorithm with iterative and recursive implementations in MIPS assembly.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
