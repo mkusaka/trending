@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub 1C Enterprise Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T01:39:29Z</updated>
+  <updated>2022-07-29T01:32:45Z</updated>
   <subtitle>Daily Trending of 1C Enterprise in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>huxuxuya/KafkaConfluentRESTProxyAdapter1C</title>
-    <updated>2022-07-28T01:39:29Z</updated>
-    <id>tag:github.com,2022-07-28:/huxuxuya/KafkaConfluentRESTProxyAdapter1C</id>
-    <link href="https://github.com/huxuxuya/KafkaConfluentRESTProxyAdapter1C" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

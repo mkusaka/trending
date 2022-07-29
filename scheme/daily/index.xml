@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:46:03Z</updated>
+  <updated>2022-07-29T01:53:14Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>marcomaggi/vicare-curl</title>
-    <updated>2022-07-28T02:46:03Z</updated>
-    <id>tag:github.com,2022-07-28:/marcomaggi/vicare-curl</id>
-    <link href="https://github.com/marcomaggi/vicare-curl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vicare Scheme binding to Libcurl&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

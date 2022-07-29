@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:59:10Z</updated>
+  <updated>2022-07-29T01:57:26Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>habamax/vim-godot</title>
-    <updated>2022-07-28T02:59:10Z</updated>
-    <id>tag:github.com,2022-07-28:/habamax/vim-godot</id>
-    <link href="https://github.com/habamax/vim-godot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use vim and godot engine to make games&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alvan/vim-closetag</title>
+    <updated>2022-07-29T01:57:26Z</updated>
+    <id>tag:github.com,2022-07-29:/alvan/vim-closetag</id>
+    <link href="https://github.com/alvan/vim-closetag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Auto close (X)HTML tags&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>simplemx/tools</title>
-    <updated>2022-07-28T02:59:10Z</updated>
-    <id>tag:github.com,2022-07-28:/simplemx/tools</id>
-    <link href="https://github.com/simplemx/tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;personal tools.such as file converter/file formater etc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>matze/vim-move</title>
+    <updated>2022-07-29T01:57:26Z</updated>
+    <id>tag:github.com,2022-07-29:/matze/vim-move</id>
+    <link href="https://github.com/matze/vim-move" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plugin to move lines and selections up and down&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>liuchengxu/vim-which-key</title>
-    <updated>2022-07-28T02:59:10Z</updated>
-    <id>tag:github.com,2022-07-28:/liuchengxu/vim-which-key</id>
-    <link href="https://github.com/liuchengxu/vim-which-key" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌷 Vim plugin that shows keybindings in popup&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chriskempson/base16-vim</title>
+    <updated>2022-07-29T01:57:26Z</updated>
+    <id>tag:github.com,2022-07-29:/chriskempson/base16-vim</id>
+    <link href="https://github.com/chriskempson/base16-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base16 for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

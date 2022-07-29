@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:00:46Z</updated>
+  <updated>2022-07-29T01:39:11Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>phenixdigital/phx_live_storybook</title>
-    <updated>2022-07-28T02:00:46Z</updated>
-    <id>tag:github.com,2022-07-28:/phenixdigital/phx_live_storybook</id>
-    <link href="https://github.com/phenixdigital/phx_live_storybook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A pluggable storybook for your LiveView components.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AdRoll/meandro</title>
-    <updated>2022-07-28T02:00:46Z</updated>
-    <id>tag:github.com,2022-07-28:/AdRoll/meandro</id>
-    <link href="https://github.com/AdRoll/meandro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

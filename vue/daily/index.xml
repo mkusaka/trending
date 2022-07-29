@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:59:30Z</updated>
+  <updated>2022-07-29T01:57:36Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DeimosC2/DeimosC2</title>
-    <updated>2022-07-28T02:59:30Z</updated>
-    <id>tag:github.com,2022-07-28:/DeimosC2/DeimosC2</id>
-    <link href="https://github.com/DeimosC2/DeimosC2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DeimosC2 is a Golang command and control framework for post-exploitation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GavinZhuLei/vue-form-making</title>
-    <updated>2022-07-28T02:59:30Z</updated>
-    <id>tag:github.com,2022-07-28:/GavinZhuLei/vue-form-making</id>
-    <link href="https://github.com/GavinZhuLei/vue-form-making" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A visual form designer/generator base on Vue.js, make form development simple and efficient.（基于Vue的可视化表单设计器，让表单开发简单而高效。）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

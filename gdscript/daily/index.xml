@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:05:11Z</updated>
+  <updated>2022-07-29T01:40:36Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>godotengine/godot-benchmarks</title>
-    <updated>2022-07-28T02:05:11Z</updated>
-    <id>tag:github.com,2022-07-28:/godotengine/godot-benchmarks</id>
-    <link href="https://github.com/godotengine/godot-benchmarks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of benchmarks to test performance of different areas of Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rormattio/MultiplayerGameJam2022</title>
-    <updated>2022-07-28T02:05:11Z</updated>
-    <id>tag:github.com,2022-07-28:/Rormattio/MultiplayerGameJam2022</id>
-    <link href="https://github.com/Rormattio/MultiplayerGameJam2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

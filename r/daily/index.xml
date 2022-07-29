@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:40:44Z</updated>
+  <updated>2022-07-29T01:51:31Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rstudio-conf-2022/shiny-prod-apps</title>
-    <updated>2022-07-28T02:40:44Z</updated>
-    <id>tag:github.com,2022-07-28:/rstudio-conf-2022/shiny-prod-apps</id>
-    <link href="https://github.com/rstudio-conf-2022/shiny-prod-apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Building Production-Quality Shiny Applications Workshop&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Building production-quality Shiny applications&lt;/h1&gt; &#xA;&lt;h3&gt;rstudio::conf 2022&lt;/h3&gt; &#xA;&lt;p&gt;by Eric Nantz&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;span&gt;🗓&lt;/span&gt; July 25 and 26, 2022&lt;br&gt; &lt;span&gt;⏰&lt;/span&gt; 09:00 - 17:00&lt;br&gt; &lt;span&gt;🏨&lt;/span&gt; [ADD ROOM]&lt;br&gt; &lt;span&gt;✍&lt;/span&gt; &lt;a href=&#34;http://rstd.io/conf&#34;&gt;rstd.io/conf&lt;/a&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;This repository contains materials for the &lt;strong&gt;Building Production-Quality Shiny Applications&lt;/strong&gt; workshop at rstudio::conf(2022). See &lt;a href=&#34;https://shinyprod.com&#34;&gt;https://shinyprod.com&lt;/a&gt; for rendered workshop materials.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; alt=&#34;&#34;&gt; This work is licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;Creative Commons Attribution 4.0 International License&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>IslasGECI/robinson_code</title>
-    <updated>2022-07-28T02:40:44Z</updated>
-    <id>tag:github.com,2022-07-28:/IslasGECI/robinson_code</id>
-    <link href="https://github.com/IslasGECI/robinson_code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-Source Code Repository for the Coati Eradication Project on Robinson Crusoe Island&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://www.islas.org.mx/&#34;&gt;&lt;img src=&#34;https://www.islas.org.mx/img/logo.svg?sanitize=true&#34; width=&#34;256&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.islandconservation.org/&#34;&gt;&lt;img src=&#34;https://github.com/IslasGECI/robinson_code/raw/develop/assets/images/ic_logo.png&#34; align=&#34;right&#34; width=&#34;256&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;robinson&lt;/h1&gt; &#xA;&lt;p&gt;R package for data management of the Coati Eradication Project on Robinson Crusoe Island&lt;/p&gt;</summary>
-  </entry>
 </feed>

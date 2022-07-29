@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:46:17Z</updated>
+  <updated>2022-07-29T01:53:18Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>davidkpiano/frontend-masters-css</title>
-    <updated>2022-07-28T02:46:17Z</updated>
-    <id>tag:github.com,2022-07-28:/davidkpiano/frontend-masters-css</id>
-    <link href="https://github.com/davidkpiano/frontend-masters-css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>creativetimofficial/soft-ui-dashboard</title>
-    <updated>2022-07-28T02:46:17Z</updated>
-    <id>tag:github.com,2022-07-28:/creativetimofficial/soft-ui-dashboard</id>
-    <link href="https://github.com/creativetimofficial/soft-ui-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Soft UI Dashboard - Free and OpenSource Bootstrap 5 Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>netlify/functions.netlify.com</title>
-    <updated>2022-07-28T02:46:17Z</updated>
-    <id>tag:github.com,2022-07-28:/netlify/functions.netlify.com</id>
-    <link href="https://github.com/netlify/functions.netlify.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tutorials, examples, workshops and a playground for serverless with Netlify Functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/vite-soft-ui-dashboard</title>
+    <updated>2022-07-29T01:53:18Z</updated>
+    <id>tag:github.com,2022-07-29:/creativetimofficial/vite-soft-ui-dashboard</id>
+    <link href="https://github.com/creativetimofficial/vite-soft-ui-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vite Soft UI Dashboard by Creative Tim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:31:34Z</updated>
+  <updated>2022-07-29T01:48:46Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>namanmansukhani/ocaml-coreutils</title>
-    <updated>2022-07-28T02:31:34Z</updated>
-    <id>tag:github.com,2022-07-28:/namanmansukhani/ocaml-coreutils</id>
-    <link href="https://github.com/namanmansukhani/ocaml-coreutils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OCaml rewrite of GNU coreutils&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kxcteam/kxclib-ocaml</title>
-    <updated>2022-07-28T02:31:34Z</updated>
-    <id>tag:github.com,2022-07-28:/kxcteam/kxclib-ocaml</id>
-    <link href="https://github.com/kxcteam/kxclib-ocaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

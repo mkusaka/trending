@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:06:48Z</updated>
+  <updated>2022-07-29T01:41:05Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>onnowhere/core_shaders</title>
-    <updated>2022-07-28T02:06:48Z</updated>
-    <id>tag:github.com,2022-07-28:/onnowhere/core_shaders</id>
-    <link href="https://github.com/onnowhere/core_shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;1.17 Core Shaders&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

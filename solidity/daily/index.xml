@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:49:34Z</updated>
+  <updated>2022-07-29T01:54:22Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>axelarnetwork/axelar-utils-solidity</title>
-    <updated>2022-07-28T02:49:34Z</updated>
-    <id>tag:github.com,2022-07-28:/axelarnetwork/axelar-utils-solidity</id>
-    <link href="https://github.com/axelarnetwork/axelar-utils-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity libraries and utilities provided by Axelar.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

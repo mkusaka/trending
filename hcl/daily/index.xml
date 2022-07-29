@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:10:00Z</updated>
+  <updated>2022-07-29T01:42:12Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mandiant/Azure_Workshop</title>
-    <updated>2022-07-28T02:10:00Z</updated>
-    <id>tag:github.com,2022-07-28:/mandiant/Azure_Workshop</id>
-    <link href="https://github.com/mandiant/Azure_Workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-google-modules/terraform-google-kms</title>
-    <updated>2022-07-28T02:10:00Z</updated>
-    <id>tag:github.com,2022-07-28:/terraform-google-modules/terraform-google-kms</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-kms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Cloud KMS module that allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

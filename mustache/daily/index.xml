@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:27:12Z</updated>
+  <updated>2022-07-29T01:47:26Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>base16-project/base16-xfce4-terminal</title>
-    <updated>2022-07-28T02:27:12Z</updated>
-    <id>tag:github.com,2022-07-28:/base16-project/base16-xfce4-terminal</id>
-    <link href="https://github.com/base16-project/base16-xfce4-terminal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base16 template for xfce4-terminal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

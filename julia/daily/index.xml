@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:15:55Z</updated>
+  <updated>2022-07-29T01:44:01Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JuliaDiff/Diffractor.jl</title>
-    <updated>2022-07-28T02:15:55Z</updated>
-    <id>tag:github.com,2022-07-28:/JuliaDiff/Diffractor.jl</id>
-    <link href="https://github.com/JuliaDiff/Diffractor.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Next-generation AD&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

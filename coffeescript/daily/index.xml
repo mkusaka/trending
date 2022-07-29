@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T01:52:45Z</updated>
+  <updated>2022-07-29T01:36:46Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hci-au-dk/LaTeX-surrogate</title>
-    <updated>2022-07-28T01:52:45Z</updated>
-    <id>tag:github.com,2022-07-28:/hci-au-dk/LaTeX-surrogate</id>
-    <link href="https://github.com/hci-au-dk/LaTeX-surrogate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A LaTeX compiler surrogate for FluidWeb&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jcipriano/boxframe-js</title>
-    <updated>2022-07-28T01:52:45Z</updated>
-    <id>tag:github.com,2022-07-28:/jcipriano/boxframe-js</id>
-    <link href="https://github.com/jcipriano/boxframe-js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Javascript framework and library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocrybit/by-docco</title>
-    <updated>2022-07-28T01:52:45Z</updated>
-    <id>tag:github.com,2022-07-28:/ocrybit/by-docco</id>
-    <link href="https://github.com/ocrybit/by-docco" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Bystander plugin for Docco&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

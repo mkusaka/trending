@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-28T02:28:55Z</updated>
+  <updated>2022-07-29T01:47:54Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>status-im/nim-stint</title>
-    <updated>2022-07-28T02:28:55Z</updated>
-    <id>tag:github.com,2022-07-28:/status-im/nim-stint</id>
-    <link href="https://github.com/status-im/nim-stint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
