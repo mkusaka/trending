@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:44:01Z</updated>
+  <updated>2022-07-30T01:45:43Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>comonicon/Comonicon.jl</title>
+    <updated>2022-07-30T01:45:43Z</updated>
+    <id>tag:github.com,2022-07-30:/comonicon/Comonicon.jl</id>
+    <link href="https://github.com/comonicon/Comonicon.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your best CLI generator in JuliaLang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>miguelraz/REPLMasteryWorkshop</title>
+    <updated>2022-07-30T01:45:43Z</updated>
+    <id>tag:github.com,2022-07-30:/miguelraz/REPLMasteryWorkshop</id>
+    <link href="https://github.com/miguelraz/REPLMasteryWorkshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;From 0 to Hero!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

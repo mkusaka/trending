@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:55:04Z</updated>
+  <updated>2022-07-30T01:56:34Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Brain-Bones/skeleton</title>
+    <updated>2022-07-30T01:56:34Z</updated>
+    <id>tag:github.com,2022-07-30:/Brain-Bones/skeleton</id>
+    <link href="https://github.com/Brain-Bones/skeleton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Svelte/Kit component library designed for use with Tailwind.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svelte-society/sveltesociety.dev</title>
+    <updated>2022-07-30T01:56:34Z</updated>
+    <id>tag:github.com,2022-07-30:/svelte-society/sveltesociety.dev</id>
+    <link href="https://github.com/svelte-society/sveltesociety.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Svelte Society website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

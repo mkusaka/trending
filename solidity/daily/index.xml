@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:54:22Z</updated>
+  <updated>2022-07-30T01:55:52Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IPILabs/shorter-v1-periphery</title>
+    <updated>2022-07-30T01:55:52Z</updated>
+    <id>tag:github.com,2022-07-30:/IPILabs/shorter-v1-periphery</id>
+    <link href="https://github.com/IPILabs/shorter-v1-periphery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Peripheral smart contracts for interacting with Shorter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>safehousefinance/autostaking</title>
+    <updated>2022-07-30T01:55:52Z</updated>
+    <id>tag:github.com,2022-07-30:/safehousefinance/autostaking</id>
+    <link href="https://github.com/safehousefinance/autostaking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nftyte/optimint</title>
+    <updated>2022-07-30T01:55:52Z</updated>
+    <id>tag:github.com,2022-07-30:/nftyte/optimint</id>
+    <link href="https://github.com/nftyte/optimint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Optimint is a gas-optimized ERC721 reference implementation that&#39;s based on OpenZeppelin Contracts, and requires only 1 SSTORE operation per batch-mint.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

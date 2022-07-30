@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:41:54Z</updated>
+  <updated>2022-07-30T01:43:42Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>facebookarchive/hack-example-site</title>
+    <updated>2022-07-30T01:43:42Z</updated>
+    <id>tag:github.com,2022-07-30:/facebookarchive/hack-example-site</id>
+    <link href="https://github.com/facebookarchive/hack-example-site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple website that contains Hack examples and acts as a Hack example itself&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

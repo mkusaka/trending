@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:36:46Z</updated>
+  <updated>2022-07-30T01:38:12Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vilterp/reactive.coffee</title>
+    <updated>2022-07-30T01:38:12Z</updated>
+    <id>tag:github.com,2022-07-30:/vilterp/reactive.coffee</id>
+    <link href="https://github.com/vilterp/reactive.coffee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functional Reactive Programming library for CoffeeScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>anagrius/dog</title>
+    <updated>2022-07-30T01:38:12Z</updated>
+    <id>tag:github.com,2022-07-30:/anagrius/dog</id>
+    <link href="https://github.com/anagrius/dog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A project documentation generator.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

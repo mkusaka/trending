@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:41:50Z</updated>
+  <updated>2022-07-30T01:43:36Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ansible-ThoTeam/nexus3-oss</title>
+    <updated>2022-07-30T01:43:36Z</updated>
+    <id>tag:github.com,2022-07-30:/ansible-ThoTeam/nexus3-oss</id>
+    <link href="https://github.com/ansible-ThoTeam/nexus3-oss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ansible role to install and provision sonatype nexus3-oss&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

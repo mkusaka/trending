@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Reason Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:51:47Z</updated>
+  <updated>2022-07-30T01:53:13Z</updated>
   <subtitle>Daily Trending of Reason in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>esy/esy</title>
+    <updated>2022-07-30T01:53:13Z</updated>
+    <id>tag:github.com,2022-07-30:/esy/esy</id>
+    <link href="https://github.com/esy/esy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;package.json workflow for native development with Reason/OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

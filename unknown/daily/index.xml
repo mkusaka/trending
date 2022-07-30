@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:32:49Z</updated>
+  <updated>2022-07-30T01:34:23Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Integerous/goQuality-dev-contents</title>
-    <updated>2022-07-29T01:32:49Z</updated>
-    <id>tag:github.com,2022-07-29:/Integerous/goQuality-dev-contents</id>
-    <link href="https://github.com/Integerous/goQuality-dev-contents" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;{ 고퀄리티 ⚡ 개발 컨텐츠 모음 }&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MystenLabs/awesome-move</title>
+    <updated>2022-07-30T01:34:23Z</updated>
+    <id>tag:github.com,2022-07-30:/MystenLabs/awesome-move</id>
+    <link href="https://github.com/MystenLabs/awesome-move" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code and content from the Move community.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lwd-temp/anti-ip-attribution</title>
-    <updated>2022-07-29T01:32:49Z</updated>
-    <id>tag:github.com,2022-07-29:/lwd-temp/anti-ip-attribution</id>
-    <link href="https://github.com/lwd-temp/anti-ip-attribution" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;针对部分网站显示IP归属地的流量分流规则&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rstudio-conf-2022/people-analytics-rstats</title>
+    <updated>2022-07-30T01:34:23Z</updated>
+    <id>tag:github.com,2022-07-30:/rstudio-conf-2022/people-analytics-rstats</id>
+    <link href="https://github.com/rstudio-conf-2022/people-analytics-rstats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>izackwu/TeachYourselfCS-CN</title>
-    <updated>2022-07-29T01:32:49Z</updated>
-    <id>tag:github.com,2022-07-29:/izackwu/TeachYourselfCS-CN</id>
-    <link href="https://github.com/izackwu/TeachYourselfCS-CN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thedaviddias/Front-End-Checklist</title>
+    <updated>2022-07-30T01:34:23Z</updated>
+    <id>tag:github.com,2022-07-30:/thedaviddias/Front-End-Checklist</id>
+    <link href="https://github.com/thedaviddias/Front-End-Checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🗂 The perfect Front-End Checklist for modern websites and meticulous developers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:42:13Z</updated>
+  <updated>2022-07-30T01:43:58Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digital-asset/daml-finance</title>
+    <updated>2022-07-30T01:43:58Z</updated>
+    <id>tag:github.com,2022-07-30:/digital-asset/daml-finance</id>
+    <link href="https://github.com/digital-asset/daml-finance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/digital-asset/daml/raw/main/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/License-Apache%202.0-blue.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://dl.circleci.com/status-badge/redirect/gh/digital-asset/daml-finance/tree/main&#34;&gt;&lt;img src=&#34;https://dl.circleci.com/status-badge/img/gh/digital-asset/daml-finance/tree/main.svg?style=svg&#34; alt=&#34;CircleCI&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Copyright © 2022 Digital Asset (Switzerland) GmbH and/or its affiliates. All Rights Reserved. SPDX-License-Identifier: Apache-2.0&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;p&gt;To build this library locally, the following requirements are necessary:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.daml.com/getting-started/installation.html&#34;&gt;Daml SDK&lt;/a&gt; (2.x)&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;make&lt;/code&gt; (3.x)&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;yq&lt;/code&gt; (4.x)&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;To build the library:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-script&#34;&gt;make&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This will produce individual DAR files for each package in the &lt;code&gt;.dars&lt;/code&gt; directory.&lt;/p&gt; &#xA;&lt;h2&gt;Developing&lt;/h2&gt; &#xA;&lt;p&gt;When developing please adhere to the &lt;a href=&#34;https://raw.githubusercontent.com/digital-asset/daml-finance/main/docs/STYLEGUIDE.md&#34;&gt;style guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Releasing&lt;/h2&gt; &#xA;&lt;p&gt;To perform a release of this project, please follow the guide &lt;a href=&#34;https://raw.githubusercontent.com/digital-asset/daml-finance/main/docs/RELEASE.MD&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>pqwy/irc-enumerator</title>
+    <updated>2022-07-30T01:43:58Z</updated>
+    <id>tag:github.com,2022-07-30:/pqwy/irc-enumerator</id>
+    <link href="https://github.com/pqwy/irc-enumerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enumerator-based IRC library for Haskell&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kawu/monad-codec</title>
+    <updated>2022-07-30T01:43:58Z</updated>
+    <id>tag:github.com,2022-07-30:/kawu/monad-codec</id>
+    <link href="https://github.com/kawu/monad-codec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monadic conversion between complex data structures and unique integers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

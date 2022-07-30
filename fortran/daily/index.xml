@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:40:12Z</updated>
+  <updated>2022-07-30T01:41:45Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GeoscienceAustralia/ginan</title>
+    <updated>2022-07-30T01:41:45Z</updated>
+    <id>tag:github.com,2022-07-30:/GeoscienceAustralia/ginan</id>
+    <link href="https://github.com/GeoscienceAustralia/ginan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Australian Government, through Positioning Australia (part of Geoscience Australia), is funding the design, development and operational service of a Global Navigation Satellite System (GNSS) position correction system - the Ginan service and toolkit. The application of the Ginan correction service by a GNSS device has the potential to increa…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

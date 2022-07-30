@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-29T01:57:26Z</updated>
+  <updated>2022-07-30T01:58:40Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alvan/vim-closetag</title>
-    <updated>2022-07-29T01:57:26Z</updated>
-    <id>tag:github.com,2022-07-29:/alvan/vim-closetag</id>
-    <link href="https://github.com/alvan/vim-closetag" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Auto close (X)HTML tags&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>waylon999/vimrc</title>
+    <updated>2022-07-30T01:58:40Z</updated>
+    <id>tag:github.com,2022-07-30:/waylon999/vimrc</id>
+    <link href="https://github.com/waylon999/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My vimrc&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matze/vim-move</title>
-    <updated>2022-07-29T01:57:26Z</updated>
-    <id>tag:github.com,2022-07-29:/matze/vim-move</id>
-    <link href="https://github.com/matze/vim-move" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugin to move lines and selections up and down&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-autoformat/vim-autoformat</title>
+    <updated>2022-07-30T01:58:40Z</updated>
+    <id>tag:github.com,2022-07-30:/vim-autoformat/vim-autoformat</id>
+    <link href="https://github.com/vim-autoformat/vim-autoformat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provide easy code formatting in Vim by integrating existing code formatters.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chriskempson/base16-vim</title>
-    <updated>2022-07-29T01:57:26Z</updated>
-    <id>tag:github.com,2022-07-29:/chriskempson/base16-vim</id>
-    <link href="https://github.com/chriskempson/base16-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base16 for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>machakann/vim-highlightedyank</title>
+    <updated>2022-07-30T01:58:40Z</updated>
+    <id>tag:github.com,2022-07-30:/machakann/vim-highlightedyank</id>
+    <link href="https://github.com/machakann/vim-highlightedyank" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make the yanked region apparent!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
