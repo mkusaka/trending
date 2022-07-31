@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:58:40Z</updated>
+  <updated>2022-07-31T01:59:52Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>waylon999/vimrc</title>
-    <updated>2022-07-30T01:58:40Z</updated>
-    <id>tag:github.com,2022-07-30:/waylon999/vimrc</id>
-    <link href="https://github.com/waylon999/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My vimrc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rhysd/vim-grammarous</title>
+    <updated>2022-07-31T01:59:52Z</updated>
+    <id>tag:github.com,2022-07-31:/rhysd/vim-grammarous</id>
+    <link href="https://github.com/rhysd/vim-grammarous" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A powerful grammar checker for Vim using LanguageTool.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vim-autoformat/vim-autoformat</title>
-    <updated>2022-07-30T01:58:40Z</updated>
-    <id>tag:github.com,2022-07-30:/vim-autoformat/vim-autoformat</id>
-    <link href="https://github.com/vim-autoformat/vim-autoformat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Provide easy code formatting in Vim by integrating existing code formatters.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-pandoc/vim-pandoc</title>
+    <updated>2022-07-31T01:59:52Z</updated>
+    <id>tag:github.com,2022-07-31:/vim-pandoc/vim-pandoc</id>
+    <link href="https://github.com/vim-pandoc/vim-pandoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pandoc integration and utilities for vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>machakann/vim-highlightedyank</title>
-    <updated>2022-07-30T01:58:40Z</updated>
-    <id>tag:github.com,2022-07-30:/machakann/vim-highlightedyank</id>
-    <link href="https://github.com/machakann/vim-highlightedyank" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Make the yanked region apparent!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rhysd/git-messenger.vim</title>
+    <updated>2022-07-31T01:59:52Z</updated>
+    <id>tag:github.com,2022-07-31:/rhysd/git-messenger.vim</id>
+    <link href="https://github.com/rhysd/git-messenger.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim and Neovim plugin to reveal the commit messages under the cursor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

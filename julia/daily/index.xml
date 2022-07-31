@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:45:43Z</updated>
+  <updated>2022-07-31T01:46:34Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>comonicon/Comonicon.jl</title>
-    <updated>2022-07-30T01:45:43Z</updated>
-    <id>tag:github.com,2022-07-30:/comonicon/Comonicon.jl</id>
-    <link href="https://github.com/comonicon/Comonicon.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Your best CLI generator in JuliaLang&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>axelparmentier/InferOpt.jl</title>
+    <updated>2022-07-31T01:46:34Z</updated>
+    <id>tag:github.com,2022-07-31:/axelparmentier/InferOpt.jl</id>
+    <link href="https://github.com/axelparmentier/InferOpt.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Combinatorial optimization layers for machine learning pipelines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>miguelraz/REPLMasteryWorkshop</title>
-    <updated>2022-07-30T01:45:43Z</updated>
-    <id>tag:github.com,2022-07-30:/miguelraz/REPLMasteryWorkshop</id>
-    <link href="https://github.com/miguelraz/REPLMasteryWorkshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;From 0 to Hero!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLang/JuliaSyntax.jl</title>
+    <updated>2022-07-31T01:46:34Z</updated>
+    <id>tag:github.com,2022-07-31:/JuliaLang/JuliaSyntax.jl</id>
+    <link href="https://github.com/JuliaLang/JuliaSyntax.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia frontend, written in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/LinearSolve.jl</title>
+    <updated>2022-07-31T01:46:34Z</updated>
+    <id>tag:github.com,2022-07-31:/SciML/LinearSolve.jl</id>
+    <link href="https://github.com/SciML/LinearSolve.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LinearSolve.jl: High-Performance Unified Linear Solvers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

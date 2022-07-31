@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:34:23Z</updated>
+  <updated>2022-07-31T01:35:17Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MystenLabs/awesome-move</title>
-    <updated>2022-07-30T01:34:23Z</updated>
-    <id>tag:github.com,2022-07-30:/MystenLabs/awesome-move</id>
-    <link href="https://github.com/MystenLabs/awesome-move" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code and content from the Move community.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jorgef/engineeringladders</title>
+    <updated>2022-07-31T01:35:17Z</updated>
+    <id>tag:github.com,2022-07-31:/jorgef/engineeringladders</id>
+    <link href="https://github.com/jorgef/engineeringladders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A framework for Engineering Managers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rstudio-conf-2022/people-analytics-rstats</title>
-    <updated>2022-07-30T01:34:23Z</updated>
-    <id>tag:github.com,2022-07-30:/rstudio-conf-2022/people-analytics-rstats</id>
-    <link href="https://github.com/rstudio-conf-2022/people-analytics-rstats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp</title>
+    <updated>2022-07-31T01:35:17Z</updated>
+    <id>tag:github.com,2022-07-31:/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp</id>
+    <link href="https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;警惕 一种针对红队的新型溯源手段!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thedaviddias/Front-End-Checklist</title>
-    <updated>2022-07-30T01:34:23Z</updated>
-    <id>tag:github.com,2022-07-30:/thedaviddias/Front-End-Checklist</id>
-    <link href="https://github.com/thedaviddias/Front-End-Checklist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🗂 The perfect Front-End Checklist for modern websites and meticulous developers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DopplerHQ/awesome-interview-questions</title>
+    <updated>2022-07-31T01:35:17Z</updated>
+    <id>tag:github.com,2022-07-31:/DopplerHQ/awesome-interview-questions</id>
+    <link href="https://github.com/DopplerHQ/awesome-interview-questions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated awesome list of lists of interview questions. Feel free to contribute! 🎓&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

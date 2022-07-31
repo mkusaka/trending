@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:49:40Z</updated>
+  <updated>2022-07-31T01:50:33Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GoogleChrome/web.dev</title>
+    <updated>2022-07-31T01:50:33Z</updated>
+    <id>tag:github.com,2022-07-31:/GoogleChrome/web.dev</id>
+    <link href="https://github.com/GoogleChrome/web.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The frontend, backend, and content source code for web.dev&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

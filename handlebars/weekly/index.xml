@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Handlebars Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:13:14Z</updated>
+  <subtitle>Weekly Trending of Handlebars in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yeun/open-color</title>
+    <updated>2022-07-31T02:13:14Z</updated>
+    <id>tag:github.com,2022-07-31:/yeun/open-color</id>
+    <link href="https://github.com/yeun/open-color" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Color scheme for UI design.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EverFi/leadership-suite</title>
+    <updated>2022-07-31T02:13:14Z</updated>
+    <id>tag:github.com,2022-07-31:/EverFi/leadership-suite</id>
+    <link href="https://github.com/EverFi/leadership-suite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[LS] Leadership Suite (leadership-suite)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

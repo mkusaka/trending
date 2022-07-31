@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:56:34Z</updated>
+  <updated>2022-07-31T01:57:47Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Brain-Bones/skeleton</title>
-    <updated>2022-07-30T01:56:34Z</updated>
-    <id>tag:github.com,2022-07-30:/Brain-Bones/skeleton</id>
-    <link href="https://github.com/Brain-Bones/skeleton" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Svelte/Kit component library designed for use with Tailwind.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>acidcoolffc/YapeFake</title>
+    <updated>2022-07-31T01:57:47Z</updated>
+    <id>tag:github.com,2022-07-31:/acidcoolffc/YapeFake</id>
+    <link href="https://github.com/acidcoolffc/YapeFake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>svelte-society/sveltesociety.dev</title>
-    <updated>2022-07-30T01:56:34Z</updated>
-    <id>tag:github.com,2022-07-30:/svelte-society/sveltesociety.dev</id>
-    <link href="https://github.com/svelte-society/sveltesociety.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Svelte Society website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>the-pudding/dark-patterns</title>
+    <updated>2022-07-31T01:57:47Z</updated>
+    <id>tag:github.com,2022-07-31:/the-pudding/dark-patterns</id>
+    <link href="https://github.com/the-pudding/dark-patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gurucomputing/headscale-ui</title>
+    <updated>2022-07-31T01:57:47Z</updated>
+    <id>tag:github.com,2022-07-31:/gurucomputing/headscale-ui</id>
+    <link href="https://github.com/gurucomputing/headscale-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web frontend for the headscale Tailscale-compatible coordination server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

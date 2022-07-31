@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:23:56Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aptos-labs/aptos-core</title>
+    <updated>2022-07-31T02:23:56Z</updated>
+    <id>tag:github.com,2022-07-31:/aptos-labs/aptos-core</id>
+    <link href="https://github.com/aptos-labs/aptos-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A layer 1 for everyone!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rustdesk/rustdesk</title>
+    <updated>2022-07-31T02:23:56Z</updated>
+    <id>tag:github.com,2022-07-31:/rustdesk/rustdesk</id>
+    <link href="https://github.com/rustdesk/rustdesk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>move-language/move</title>
+    <updated>2022-07-31T02:23:56Z</updated>
+    <id>tag:github.com,2022-07-31:/move-language/move</id>
+    <link href="https://github.com/move-language/move" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

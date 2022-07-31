@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Crystal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:08:02Z</updated>
+  <subtitle>Weekly Trending of Crystal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>robinsloan/spring-83</title>
+    <updated>2022-07-31T02:08:02Z</updated>
+    <id>tag:github.com,2022-07-31:/robinsloan/spring-83</id>
+    <link href="https://github.com/robinsloan/spring-83" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A speculative new protocol 🌸&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

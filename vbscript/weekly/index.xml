@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VBScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:28:03Z</updated>
+  <subtitle>Weekly Trending of VBScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rootclay/WMIHACKER</title>
+    <updated>2022-07-31T02:28:03Z</updated>
+    <id>tag:github.com,2022-07-31:/rootclay/WMIHACKER</id>
+    <link href="https://github.com/rootclay/WMIHACKER" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Bypass Anti-virus Software Lateral Movement Command Execution Tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:17:26Z</updated>
+  <subtitle>Weekly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>airbnb/swift</title>
+    <updated>2022-07-31T02:17:26Z</updated>
+    <id>tag:github.com,2022-07-31:/airbnb/swift</id>
+    <link href="https://github.com/airbnb/swift" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Airbnb&#39;s Swift Style Guide&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vivian-dai/PicoCTF2021-Writeup</title>
+    <updated>2022-07-31T02:17:26Z</updated>
+    <id>tag:github.com,2022-07-31:/vivian-dai/PicoCTF2021-Writeup</id>
+    <link href="https://github.com/vivian-dai/PicoCTF2021-Writeup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solutions (that we managed to find) for the 2021 PicoCTF&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>noahliechti/web3-interview-preparation</title>
+    <updated>2022-07-31T02:17:26Z</updated>
+    <id>tag:github.com,2022-07-31:/noahliechti/web3-interview-preparation</id>
+    <link href="https://github.com/noahliechti/web3-interview-preparation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete web3 guide that prepares you for interviews and will help you land your dream job.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

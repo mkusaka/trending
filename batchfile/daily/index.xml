@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:36:13Z</updated>
+  <updated>2022-07-31T01:37:14Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shuhongfan/idea_activate</title>
-    <updated>2022-07-30T01:36:13Z</updated>
-    <id>tag:github.com,2022-07-30:/shuhongfan/idea_activate</id>
-    <link href="https://github.com/shuhongfan/idea_activate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JetBrains全家桶激活 idea Activator idea全家桶激活 JetBrains收费所有收费插件激活 idea收费所有收费插件激活 JetBrains 2017-2022所有版本激活 idea激活 phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>logicopslab/JenkinsAutomation</title>
+    <updated>2022-07-31T01:37:14Z</updated>
+    <id>tag:github.com,2022-07-31:/logicopslab/JenkinsAutomation</id>
+    <link href="https://github.com/logicopslab/JenkinsAutomation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Codebase for Jenkins automation tutorial&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Prodesire/Python-Guide-CN</title>
-    <updated>2022-07-30T01:36:13Z</updated>
-    <id>tag:github.com,2022-07-30:/Prodesire/Python-Guide-CN</id>
-    <link href="https://github.com/Prodesire/Python-Guide-CN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python最佳实践指南。 The chinese translation of &#34;Hitchhiker&#39;s Guide to Python&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>amarkantofficial/Windows2019RDP-US</title>
+    <updated>2022-07-31T01:37:14Z</updated>
+    <id>tag:github.com,2022-07-31:/amarkantofficial/Windows2019RDP-US</id>
+    <link href="https://github.com/amarkantofficial/Windows2019RDP-US" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

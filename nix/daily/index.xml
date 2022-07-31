@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:49:34Z</updated>
+  <updated>2022-07-31T01:50:25Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ipetkov/crane</title>
+    <updated>2022-07-31T01:50:25Z</updated>
+    <id>tag:github.com,2022-07-31:/ipetkov/crane</id>
+    <link href="https://github.com/ipetkov/crane" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub IDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:44:35Z</updated>
+  <updated>2022-07-31T01:45:26Z</updated>
   <subtitle>Daily Trending of IDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aringlis/solar_physics_utils</title>
+    <updated>2022-07-31T01:45:26Z</updated>
+    <id>tag:github.com,2022-07-31:/aringlis/solar_physics_utils</id>
+    <link href="https://github.com/aringlis/solar_physics_utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utility programs for solar physics, written in IDL.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

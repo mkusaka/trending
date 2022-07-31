@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:56:17Z</updated>
+  <updated>2022-07-31T01:57:29Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>angular/dev-infra-private-build-tooling-builds</title>
-    <updated>2022-07-30T01:56:17Z</updated>
-    <id>tag:github.com,2022-07-30:/angular/dev-infra-private-build-tooling-builds</id>
-    <link href="https://github.com/angular/dev-infra-private-build-tooling-builds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Private. Do not use. Snapshot builds for `build-tooling` from https://github.com/angular/dev-infra&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

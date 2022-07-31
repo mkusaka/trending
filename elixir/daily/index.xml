@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:40:44Z</updated>
+  <updated>2022-07-31T01:41:36Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>witchcrafters/witchcraft</title>
-    <updated>2022-07-30T01:40:44Z</updated>
-    <id>tag:github.com,2022-07-30:/witchcrafters/witchcraft</id>
-    <link href="https://github.com/witchcrafters/witchcraft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Monads and other dark magic for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pro-football-focus/health_checks</title>
-    <updated>2022-07-30T01:40:44Z</updated>
-    <id>tag:github.com,2022-07-30:/pro-football-focus/health_checks</id>
-    <link href="https://github.com/pro-football-focus/health_checks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generic health checks for Elixir applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mtrudel/machete</title>
+    <updated>2022-07-31T01:41:36Z</updated>
+    <id>tag:github.com,2022-07-31:/mtrudel/machete</id>
+    <link href="https://github.com/mtrudel/machete" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Literate test matchers for ExUnit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

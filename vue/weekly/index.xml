@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:28:28Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HalseySpicy/Geeker-Admin</title>
+    <updated>2022-07-31T02:28:28Z</updated>
+    <id>tag:github.com,2022-07-31:/HalseySpicy/Geeker-Admin</id>
+    <link href="https://github.com/HalseySpicy/Geeker-Admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>woai3c/visual-drag-demo</title>
+    <updated>2022-07-31T02:28:28Z</updated>
+    <id>tag:github.com,2022-07-31:/woai3c/visual-drag-demo</id>
+    <link href="https://github.com/woai3c/visual-drag-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个低代码（可视化拖拽）教学项目&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lewkamtao/Lew-UI</title>
+    <updated>2022-07-31T02:28:28Z</updated>
+    <id>tag:github.com,2022-07-31:/lewkamtao/Lew-UI</id>
+    <link href="https://github.com/lewkamtao/Lew-UI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A beautiful component library based on vue3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

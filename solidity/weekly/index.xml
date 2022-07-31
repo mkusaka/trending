@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:25:27Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>33357/smartcontract-apps</title>
+    <updated>2022-07-31T02:25:27Z</updated>
+    <id>tag:github.com,2022-07-31:/33357/smartcontract-apps</id>
+    <link href="https://github.com/33357/smartcontract-apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;这是一个面向中文社区，分析市面上智能合约应用的架构与实现的仓库。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HashLips/solidity_smart_contracts</title>
+    <updated>2022-07-31T02:25:27Z</updated>
+    <id>tag:github.com,2022-07-31:/HashLips/solidity_smart_contracts</id>
+    <link href="https://github.com/HashLips/solidity_smart_contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of smart contracts coded in solidity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cultdao-developer/cultdao</title>
+    <updated>2022-07-31T02:25:27Z</updated>
+    <id>tag:github.com,2022-07-31:/cultdao-developer/cultdao</id>
+    <link href="https://github.com/cultdao-developer/cultdao" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

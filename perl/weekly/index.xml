@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:20:50Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mpeters/cgi--application--mailpage</title>
+    <updated>2022-07-31T02:20:50Z</updated>
+    <id>tag:github.com,2022-07-31:/mpeters/cgi--application--mailpage</id>
+    <link href="https://github.com/mpeters/cgi--application--mailpage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Perl - simple mail page application written in CGI::Application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maxmind/MaxMind-DB</title>
+    <updated>2022-07-31T02:20:50Z</updated>
+    <id>tag:github.com,2022-07-31:/maxmind/MaxMind-DB</id>
+    <link href="https://github.com/maxmind/MaxMind-DB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spec and test data for the MaxMind DB file format&lt;/p&gt;&lt;hr&gt;&lt;p&gt;MaxMind DB is a binary file format that stores data indexed by IP address subnets (IPv4 or IPv6).&lt;/p&gt; &#xA;&lt;p&gt;This repository contains the spec for that format.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>binary-com/perl-FIX-Parser</title>
+    <updated>2022-07-31T02:20:50Z</updated>
+    <id>tag:github.com,2022-07-31:/binary-com/perl-FIX-Parser</id>
+    <link href="https://github.com/binary-com/perl-FIX-Parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A module to parse FIX market data.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;perl-FIX-Parser&lt;/h1&gt; &#xA;&lt;p&gt;A module to parse FIX market data. Currently supports FIX 4.4.&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;p&gt;To install this module, run the following commands:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perl Makefile.PL&#xA;make&#xA;make test&#xA;make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Example&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;use FIX::Parser::FIX44;&#xA;&#xA;my $parser = FIX::Parser::FIX44-&amp;gt;new;&#xA;&#xA;my @msgs = $parser-&amp;gt;add($fix_msg);&#xA;&#xA;for(@msgs) {&#xA;&#x9;print &#34;Symbol: &#34;.$_-&amp;gt;{symbol}.&#34;\n&#34;;&#xA;        &#xA;&#x9;print &#34;Bid: &#34;.$_-&amp;gt;{bid}.&#34;\n&#34;;&#xA;&#x9;print &#34;Ask: &#34;.$_-&amp;gt;{ask}.&#34;\n&#34;;&#xA;&#x9;print &#34;Datetime: &#34;.$_-&amp;gt;{datetime}.&#34;\n&#34;;&#xA;}&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+</feed>

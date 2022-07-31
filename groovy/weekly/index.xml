@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:13:05Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ianibo/OpenLocalInformationDirectory</title>
+    <updated>2022-07-31T02:13:05Z</updated>
+    <id>tag:github.com,2022-07-31:/ianibo/OpenLocalInformationDirectory</id>
+    <link href="https://github.com/ianibo/OpenLocalInformationDirectory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Open Source federated information directory making it easier for orgs such as libraries and local gov depts to manage, publish and search spatially tagged, semantically rich informaiton as open data. Initially targeted at UK Public Libraries and LAs but generally applicable. A project under OpenData Sheffield and Better With Data Society.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spinnaker/clouddriver</title>
+    <updated>2022-07-31T02:13:05Z</updated>
+    <id>tag:github.com,2022-07-31:/spinnaker/clouddriver</id>
+    <link href="https://github.com/spinnaker/clouddriver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;read and write operations across cloud providers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gregjmarshall/JavaExercises</title>
+    <updated>2022-07-31T02:13:05Z</updated>
+    <id>tag:github.com,2022-07-31:/gregjmarshall/JavaExercises</id>
+    <link href="https://github.com/gregjmarshall/JavaExercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;First attempts using groovy to call java class&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

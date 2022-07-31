@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:15:15Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>storopoli/Julia-Workshop</title>
+    <updated>2022-07-31T02:15:15Z</updated>
+    <id>tag:github.com,2022-07-31:/storopoli/Julia-Workshop</id>
+    <link href="https://github.com/storopoli/Julia-Workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JuliaCon 2022 - Introduction to Julia Tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaLang/IJulia.jl</title>
+    <updated>2022-07-31T02:15:15Z</updated>
+    <id>tag:github.com,2022-07-31:/JuliaLang/IJulia.jl</id>
+    <link href="https://github.com/JuliaLang/IJulia.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia kernel for Jupyter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaDynamics/GoodScientificCodeWorkshop</title>
+    <updated>2022-07-31T02:15:15Z</updated>
+    <id>tag:github.com,2022-07-31:/JuliaDynamics/GoodScientificCodeWorkshop</id>
+    <link href="https://github.com/JuliaDynamics/GoodScientificCodeWorkshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A workshop on writing good scientific code.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

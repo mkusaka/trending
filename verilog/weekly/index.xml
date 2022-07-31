@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:28:07Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SI-RISCV/e200_opensource</title>
+    <updated>2022-07-31T02:28:07Z</updated>
+    <id>tag:github.com,2022-07-31:/SI-RISCV/e200_opensource</id>
+    <link href="https://github.com/SI-RISCV/e200_opensource" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deprecated, please go to next generation Ultra-Low Power RISC-V Core https://github.com/riscv-mcu/e203_hbirdv2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>badgeteam/mch2022-firmware-ice40</title>
+    <updated>2022-07-31T02:28:07Z</updated>
+    <id>tag:github.com,2022-07-31:/badgeteam/mch2022-firmware-ice40</id>
+    <link href="https://github.com/badgeteam/mch2022-firmware-ice40" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>T-head-Semi/openc910</title>
+    <updated>2022-07-31T02:28:07Z</updated>
+    <id>tag:github.com,2022-07-31:/T-head-Semi/openc910</id>
+    <link href="https://github.com/T-head-Semi/openc910" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenXuantie - OpenC910 Core&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

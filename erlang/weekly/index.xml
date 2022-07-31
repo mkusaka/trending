@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:10:44Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>open-telemetry/opentelemetry-demo</title>
+    <updated>2022-07-31T02:10:44Z</updated>
+    <id>tag:github.com,2022-07-31:/open-telemetry/opentelemetry-demo</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenTelemetry Community Demo Application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fogfish/swirl</title>
+    <updated>2022-07-31T02:10:44Z</updated>
+    <id>tag:github.com,2022-07-31:/fogfish/swirl</id>
+    <link href="https://github.com/fogfish/swirl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;swirl is the Erlang port of whiskers.js template library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deadtrickster/rebar3_elvis_plugin</title>
+    <updated>2022-07-31T02:10:44Z</updated>
+    <id>tag:github.com,2022-07-31:/deadtrickster/rebar3_elvis_plugin</id>
+    <link href="https://github.com/deadtrickster/rebar3_elvis_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Elvis as rebar3 plugin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

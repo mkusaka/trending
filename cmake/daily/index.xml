@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:38:03Z</updated>
+  <updated>2022-07-31T01:39:03Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kuolunwang/UR5</title>
-    <updated>2022-07-30T01:38:03Z</updated>
-    <id>tag:github.com,2022-07-30:/kuolunwang/UR5</id>
-    <link href="https://github.com/kuolunwang/UR5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure-Samples/iot-middleware-freertos-samples</title>
+    <updated>2022-07-31T01:39:03Z</updated>
+    <id>tag:github.com,2022-07-31:/Azure-Samples/iot-middleware-freertos-samples</id>
+    <link href="https://github.com/Azure-Samples/iot-middleware-freertos-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo has samples for dev kits using the Azure IoT middleware for FreeRTOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ms-iot/ros_simulation_lab</title>
+    <updated>2022-07-31T01:39:03Z</updated>
+    <id>tag:github.com,2022-07-31:/ms-iot/ros_simulation_lab</id>
+    <link href="https://github.com/ms-iot/ros_simulation_lab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS Simulation Lab on Azure Pipelines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

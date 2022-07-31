@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:45:36Z</updated>
+  <updated>2022-07-31T01:46:28Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/nlu-incremental-symbol-learning</title>
-    <updated>2022-07-30T01:45:36Z</updated>
-    <id>tag:github.com,2022-07-30:/microsoft/nlu-incremental-symbol-learning</id>
-    <link href="https://github.com/microsoft/nlu-incremental-symbol-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;incremental symbol learning for natural language understanding&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>appuio/component-openshift4-nodes</title>
+    <updated>2022-07-31T01:46:28Z</updated>
+    <id>tag:github.com,2022-07-31:/appuio/component-openshift4-nodes</id>
+    <link href="https://github.com/appuio/component-openshift4-nodes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Commodore Component: OpenShift 4 Machine Management&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

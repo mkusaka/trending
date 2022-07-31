@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:35:57Z</updated>
+  <updated>2022-07-31T01:36:57Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Spartan711/Genshin-to-Honkai-PC-Control-Project</title>
-    <updated>2022-07-30T01:35:57Z</updated>
-    <id>tag:github.com,2022-07-30:/Spartan711/Genshin-to-Honkai-PC-Control-Project</id>
-    <link href="https://github.com/Spartan711/Genshin-to-Honkai-PC-Control-Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In this repository, I&#39;ll start a project that basically built with AutoHotkey. Currently it&#39;s just for Honkai Impact 3 gaming.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kazhafeizhale/supper_command</title>
+    <updated>2022-07-31T01:36:57Z</updated>
+    <id>tag:github.com,2022-07-31:/kazhafeizhale/supper_command</id>
+    <link href="https://github.com/kazhafeizhale/supper_command" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Snippet management tools, if ahK code, can be executed directly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:10:15Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DockYard-Academy/beta_curriculum</title>
+    <updated>2022-07-31T02:10:15Z</updated>
+    <id>tag:github.com,2022-07-31:/DockYard-Academy/beta_curriculum</id>
+    <link href="https://github.com/DockYard-Academy/beta_curriculum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>procore/elixir-sdk</title>
+    <updated>2022-07-31T02:10:15Z</updated>
+    <id>tag:github.com,2022-07-31:/procore/elixir-sdk</id>
+    <link href="https://github.com/procore/elixir-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir SDK for Procore&#39;s APIs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>unrelentingtech/httpotion</title>
+    <updated>2022-07-31T02:10:15Z</updated>
+    <id>tag:github.com,2022-07-31:/unrelentingtech/httpotion</id>
+    <link href="https://github.com/unrelentingtech/httpotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(soft-deprecated) HTTP client for Elixir (use Tesla please)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

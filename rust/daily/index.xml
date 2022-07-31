@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:54:11Z</updated>
+  <updated>2022-07-31T01:55:37Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>luca364/rust-stealer</title>
-    <updated>2022-07-30T01:54:11Z</updated>
-    <id>tag:github.com,2022-07-30:/luca364/rust-stealer</id>
-    <link href="https://github.com/luca364/rust-stealer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Rust Stealer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>librespot-org/librespot</title>
+    <updated>2022-07-31T01:55:37Z</updated>
+    <id>tag:github.com,2022-07-31:/librespot-org/librespot</id>
+    <link href="https://github.com/librespot-org/librespot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Spotify client library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>johnthagen/min-sized-rust</title>
-    <updated>2022-07-30T01:54:11Z</updated>
-    <id>tag:github.com,2022-07-30:/johnthagen/min-sized-rust</id>
-    <link href="https://github.com/johnthagen/min-sized-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦀 How to minimize Rust binary size 📦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudflare/svg-hush</title>
+    <updated>2022-07-31T01:55:37Z</updated>
+    <id>tag:github.com,2022-07-31:/cloudflare/svg-hush</id>
+    <link href="https://github.com/cloudflare/svg-hush" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>losfair/blueboat</title>
-    <updated>2022-07-30T01:54:11Z</updated>
-    <id>tag:github.com,2022-07-30:/losfair/blueboat</id>
-    <link href="https://github.com/losfair/blueboat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All-in-one, multi-tenant serverless JavaScript runtime.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>valeriansaliou/sonic</title>
+    <updated>2022-07-31T01:55:37Z</updated>
+    <id>tag:github.com,2022-07-31:/valeriansaliou/sonic</id>
+    <link href="https://github.com/valeriansaliou/sonic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

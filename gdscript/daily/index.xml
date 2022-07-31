@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-30T01:42:08Z</updated>
+  <updated>2022-07-31T01:43:07Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>argosopentech/Conquest</title>
+    <updated>2022-07-31T01:43:07Z</updated>
+    <id>tag:github.com,2022-07-31:/argosopentech/Conquest</id>
+    <link href="https://github.com/argosopentech/Conquest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Risk-like game in Godot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MrEliptik/godot_experiments</title>
+    <updated>2022-07-31T01:43:07Z</updated>
+    <id>tag:github.com,2022-07-31:/MrEliptik/godot_experiments</id>
+    <link href="https://github.com/MrEliptik/godot_experiments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some 2D, 3D &amp; VR experiments and tutorials in Godot 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

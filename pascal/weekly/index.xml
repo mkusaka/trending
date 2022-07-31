@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-07-31T02:20:40Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DonkeySmall/Face-Detection-Delphi-FMX</title>
+    <updated>2022-07-31T02:20:40Z</updated>
+    <id>tag:github.com,2022-07-31:/DonkeySmall/Face-Detection-Delphi-FMX</id>
+    <link href="https://github.com/DonkeySmall/Face-Detection-Delphi-FMX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast and accurate face detection with Delphi FMX and Tensorflow Lite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbirth/cm2010</title>
+    <updated>2022-07-31T02:20:40Z</updated>
+    <id>tag:github.com,2022-07-31:/mbirth/cm2010</id>
+    <link href="https://github.com/mbirth/cm2010" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Delphi application to monitor a Conrad/Voltcraft Charge Manager 2010.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nodemcu/nodemcu-flasher</title>
+    <updated>2022-07-31T02:20:40Z</updated>
+    <id>tag:github.com,2022-07-31:/nodemcu/nodemcu-flasher</id>
+    <link href="https://github.com/nodemcu/nodemcu-flasher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A firmware Flash tool for nodemcu&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
