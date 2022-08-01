@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smali Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:54:32Z</updated>
+  <subtitle>Monthly Trending of Smali in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jonathandata1/pegasus_spyware</title>
+    <updated>2022-08-01T02:54:32Z</updated>
+    <id>tag:github.com,2022-08-01:/jonathandata1/pegasus_spyware</id>
+    <link href="https://github.com/jonathandata1/pegasus_spyware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;decompiled pegasus_spyware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AhMyth/AhMyth-Android-RAT</title>
+    <updated>2022-08-01T02:54:32Z</updated>
+    <id>tag:github.com,2022-08-01:/AhMyth/AhMyth-Android-RAT</id>
+    <link href="https://github.com/AhMyth/AhMyth-Android-RAT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Android Remote Administration Tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

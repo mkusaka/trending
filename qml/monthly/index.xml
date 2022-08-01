@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub QML Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:51:47Z</updated>
+  <subtitle>Monthly Trending of QML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Esri/arcgis-appstudio-samples</title>
+    <updated>2022-08-01T02:51:47Z</updated>
+    <id>tag:github.com,2022-08-01:/Esri/arcgis-appstudio-samples</id>
+    <link href="https://github.com/Esri/arcgis-appstudio-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of samples available in AppStudio for ArcGIS desktop to learn and help build your next app.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>qt/qtvirtualkeyboard</title>
+    <updated>2022-08-01T02:51:47Z</updated>
+    <id>tag:github.com,2022-08-01:/qt/qtvirtualkeyboard</id>
+    <link href="https://github.com/qt/qtvirtualkeyboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QtQuick virtual keyboard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wsdfhjxc/virtual-desktop-bar</title>
+    <updated>2022-08-01T02:51:47Z</updated>
+    <id>tag:github.com,2022-08-01:/wsdfhjxc/virtual-desktop-bar</id>
+    <link href="https://github.com/wsdfhjxc/virtual-desktop-bar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pager panel widget for KDE Plasma&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

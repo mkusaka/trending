@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HLSL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:42:36Z</updated>
+  <subtitle>Monthly Trending of HLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Mortalitas/GShade</title>
+    <updated>2022-08-01T02:42:36Z</updated>
+    <id>tag:github.com,2022-08-01:/Mortalitas/GShade</id>
+    <link href="https://github.com/Mortalitas/GShade" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GShade is a heavily modified fork of ReShade that features numerous improvements as well as a selectively-unlocked depth buffer for specific online games.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Historical-Expansion-Mod/Greater-Flavor-Mod</title>
+    <updated>2022-08-01T02:42:36Z</updated>
+    <id>tag:github.com,2022-08-01:/Historical-Expansion-Mod/Greater-Flavor-Mod</id>
+    <link href="https://github.com/Historical-Expansion-Mod/Greater-Flavor-Mod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A mod that adds the strangest flavor to most nations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>notpeelz/reshade-xhair</title>
+    <updated>2022-08-01T02:42:36Z</updated>
+    <id>tag:github.com,2022-08-01:/notpeelz/reshade-xhair</id>
+    <link href="https://github.com/notpeelz/reshade-xhair" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A heavily customizable, fullscreen-compatible crosshair overlay for ReShade&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

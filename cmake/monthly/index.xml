@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:36:17Z</updated>
+  <subtitle>Monthly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ttroy50/cmake-examples</title>
+    <updated>2022-08-01T02:36:17Z</updated>
+    <id>tag:github.com,2022-08-01:/ttroy50/cmake-examples</id>
+    <link href="https://github.com/ttroy50/cmake-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Useful CMake Examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TLeonardUK/ds3os</title>
+    <updated>2022-08-01T02:36:17Z</updated>
+    <id>tag:github.com,2022-08-01:/TLeonardUK/ds3os</id>
+    <link href="https://github.com/TLeonardUK/ds3os" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dark Souls 3 - Open Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>leetal/ios-cmake</title>
+    <updated>2022-08-01T02:36:17Z</updated>
+    <id>tag:github.com,2022-08-01:/leetal/ios-cmake</id>
+    <link href="https://github.com/leetal/ios-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CMake toolchain file for iOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

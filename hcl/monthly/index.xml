@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:42:14Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terraform-google-modules/terraform-google-network</title>
+    <updated>2022-08-01T02:42:14Z</updated>
+    <id>tag:github.com,2022-08-01:/terraform-google-modules/terraform-google-network</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform module that makes it easy to set up a new VPC Network in GCP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-rds-aurora</title>
+    <updated>2022-08-01T02:42:14Z</updated>
+    <id>tag:github.com,2022-08-01:/terraform-aws-modules/terraform-aws-rds-aurora</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds-aurora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates RDS Aurora resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-ec2-instance</title>
+    <updated>2022-08-01T02:42:14Z</updated>
+    <id>tag:github.com,2022-08-01:/terraform-aws-modules/terraform-aws-ec2-instance</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ec2-instance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates EC2 instance(s) on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

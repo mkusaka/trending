@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:44:08Z</updated>
+  <subtitle>Monthly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaLang/julia</title>
+    <updated>2022-08-01T02:44:08Z</updated>
+    <id>tag:github.com,2022-08-01:/JuliaLang/julia</id>
+    <link href="https://github.com/JuliaLang/julia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Julia Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaPackaging/Yggdrasil</title>
+    <updated>2022-08-01T02:44:08Z</updated>
+    <id>tag:github.com,2022-08-01:/JuliaPackaging/Yggdrasil</id>
+    <link href="https://github.com/JuliaPackaging/Yggdrasil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of builder repositories for BinaryBuilder.jl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GenieFramework/Genie.jl</title>
+    <updated>2022-08-01T02:44:08Z</updated>
+    <id>tag:github.com,2022-08-01:/GenieFramework/Genie.jl</id>
+    <link href="https://github.com/GenieFramework/Genie.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧞The highly productive Julia web framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

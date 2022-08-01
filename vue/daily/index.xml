@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T02:00:02Z</updated>
+  <updated>2022-08-01T01:59:07Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vform666/variant-form3-vite</title>
-    <updated>2022-07-31T02:00:02Z</updated>
-    <id>tag:github.com,2022-07-31:/vform666/variant-form3-vite</id>
-    <link href="https://github.com/vform666/variant-form3-vite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>huajian-pro/resume-design</title>
+    <updated>2022-08-01T01:59:07Z</updated>
+    <id>tag:github.com,2022-08-01:/huajian-pro/resume-design</id>
+    <link href="https://github.com/huajian-pro/resume-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款简历设计生成器&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>didi/mand-mobile</title>
-    <updated>2022-07-31T02:00:02Z</updated>
-    <id>tag:github.com,2022-07-31:/didi/mand-mobile</id>
-    <link href="https://github.com/didi/mand-mobile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💰 A mobile UI toolkit, based on Vue.js 2, designed for financial scenarios.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>girlsgoit/notes-2022</title>
+    <updated>2022-08-01T01:59:07Z</updated>
+    <id>tag:github.com,2022-08-01:/girlsgoit/notes-2022</id>
+    <link href="https://github.com/girlsgoit/notes-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Created with CodeSandbox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/vuetify-material-dashboard</title>
+    <updated>2022-08-01T01:59:07Z</updated>
+    <id>tag:github.com,2022-08-01:/creativetimofficial/vuetify-material-dashboard</id>
+    <link href="https://github.com/creativetimofficial/vuetify-material-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vuetify Material Dashboard - Open Source Material Design Admin by Creative Tim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

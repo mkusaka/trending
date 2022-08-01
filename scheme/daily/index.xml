@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:56:00Z</updated>
+  <updated>2022-08-01T01:54:43Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>silverstripe/cwp-starter-theme</title>
-    <updated>2022-07-31T01:56:00Z</updated>
-    <id>tag:github.com,2022-07-31:/silverstripe/cwp-starter-theme</id>
-    <link href="https://github.com/silverstripe/cwp-starter-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Highly accessible Bootstrap 4 theme which you can use as a starter for your CWP project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

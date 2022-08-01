@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:54:36Z</updated>
+  <subtitle>Monthly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>truecharts/charts</title>
+    <updated>2022-08-01T02:54:36Z</updated>
+    <id>tag:github.com,2022-08-01:/truecharts/charts</id>
+    <link href="https://github.com/truecharts/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community App Catalog for TrueNAS SCALE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>traefik/traefik-helm-chart</title>
+    <updated>2022-08-01T02:54:36Z</updated>
+    <id>tag:github.com,2022-08-01:/traefik/traefik-helm-chart</id>
+    <link href="https://github.com/traefik/traefik-helm-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Traefik v2 helm chart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>k8s-at-home/charts</title>
+    <updated>2022-08-01T02:54:36Z</updated>
+    <id>tag:github.com,2022-08-01:/k8s-at-home/charts</id>
+    <link href="https://github.com/k8s-at-home/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for applications you run at home&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

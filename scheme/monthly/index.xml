@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:53:43Z</updated>
+  <subtitle>Monthly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cisco/ChezScheme</title>
+    <updated>2022-08-01T02:53:43Z</updated>
+    <id>tag:github.com,2022-08-01:/cisco/ChezScheme</id>
+    <link href="https://github.com/cisco/ChezScheme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chez Scheme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nvim-treesitter/nvim-treesitter-textobjects</title>
+    <updated>2022-08-01T02:53:43Z</updated>
+    <id>tag:github.com,2022-08-01:/nvim-treesitter/nvim-treesitter-textobjects</id>
+    <link href="https://github.com/nvim-treesitter/nvim-treesitter-textobjects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marcomaggi/vicare-curl</title>
+    <updated>2022-08-01T02:53:43Z</updated>
+    <id>tag:github.com,2022-08-01:/marcomaggi/vicare-curl</id>
+    <link href="https://github.com/marcomaggi/vicare-curl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vicare Scheme binding to Libcurl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

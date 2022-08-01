@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:35:17Z</updated>
+  <updated>2022-08-01T01:33:55Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jorgef/engineeringladders</title>
-    <updated>2022-07-31T01:35:17Z</updated>
-    <id>tag:github.com,2022-07-31:/jorgef/engineeringladders</id>
-    <link href="https://github.com/jorgef/engineeringladders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for Engineering Managers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruesandora/stratos-sds</title>
+    <updated>2022-08-01T01:33:55Z</updated>
+    <id>tag:github.com,2022-08-01:/ruesandora/stratos-sds</id>
+    <link href="https://github.com/ruesandora/stratos-sds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp</title>
-    <updated>2022-07-31T01:35:17Z</updated>
-    <id>tag:github.com,2022-07-31:/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp</id>
-    <link href="https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;警惕 一种针对红队的新型溯源手段!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>milanm/azure-cheat-sheet</title>
+    <updated>2022-08-01T01:33:55Z</updated>
+    <id>tag:github.com,2022-08-01:/milanm/azure-cheat-sheet</id>
+    <link href="https://github.com/milanm/azure-cheat-sheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DopplerHQ/awesome-interview-questions</title>
-    <updated>2022-07-31T01:35:17Z</updated>
-    <id>tag:github.com,2022-07-31:/DopplerHQ/awesome-interview-questions</id>
-    <link href="https://github.com/DopplerHQ/awesome-interview-questions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated awesome list of lists of interview questions. Feel free to contribute! 🎓&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smartcontractkit/full-blockchain-solidity-course-py</title>
+    <updated>2022-08-01T01:33:55Z</updated>
+    <id>tag:github.com,2022-08-01:/smartcontractkit/full-blockchain-solidity-course-py</id>
+    <link href="https://github.com/smartcontractkit/full-blockchain-solidity-course-py" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

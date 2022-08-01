@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:57:47Z</updated>
+  <updated>2022-08-01T01:56:52Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>acidcoolffc/YapeFake</title>
-    <updated>2022-07-31T01:57:47Z</updated>
-    <id>tag:github.com,2022-07-31:/acidcoolffc/YapeFake</id>
-    <link href="https://github.com/acidcoolffc/YapeFake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Leomotors/anime-captcha</title>
+    <updated>2022-08-01T01:56:52Z</updated>
+    <id>tag:github.com,2022-08-01:/Leomotors/anime-captcha</id>
+    <link href="https://github.com/Leomotors/anime-captcha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just a Normal Captcha, you are not a robot? Then pass this Captcha!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>the-pudding/dark-patterns</title>
-    <updated>2022-07-31T01:57:47Z</updated>
-    <id>tag:github.com,2022-07-31:/the-pudding/dark-patterns</id>
-    <link href="https://github.com/the-pudding/dark-patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coinbase-samples/prime-explorer-js</title>
+    <updated>2022-08-01T01:56:52Z</updated>
+    <id>tag:github.com,2022-08-01:/coinbase-samples/prime-explorer-js</id>
+    <link href="https://github.com/coinbase-samples/prime-explorer-js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coinbase Prime REST API sample application&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gurucomputing/headscale-ui</title>
-    <updated>2022-07-31T01:57:47Z</updated>
-    <id>tag:github.com,2022-07-31:/gurucomputing/headscale-ui</id>
-    <link href="https://github.com/gurucomputing/headscale-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web frontend for the headscale Tailscale-compatible coordination server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dj-nitehawk/FastEndpoints-DocSite</title>
+    <updated>2022-08-01T01:56:52Z</updated>
+    <id>tag:github.com,2022-08-01:/dj-nitehawk/FastEndpoints-DocSite</id>
+    <link href="https://github.com/dj-nitehawk/FastEndpoints-DocSite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;documentation website source code for FastEndpoints lives here&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

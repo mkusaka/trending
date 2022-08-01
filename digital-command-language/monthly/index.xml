@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub DIGITAL Command Language Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:38:08Z</updated>
+  <subtitle>Monthly Trending of DIGITAL Command Language in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>udacity/ud120-projects</title>
+    <updated>2022-08-01T02:38:08Z</updated>
+    <id>tag:github.com,2022-08-01:/udacity/ud120-projects</id>
+    <link href="https://github.com/udacity/ud120-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starter project code for students taking Udacity ud120&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

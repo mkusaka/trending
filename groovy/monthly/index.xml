@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:41:56Z</updated>
+  <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nextflow-io/nextflow</title>
+    <updated>2022-08-01T02:41:56Z</updated>
+    <id>tag:github.com,2022-08-01:/nextflow-io/nextflow</id>
+    <link href="https://github.com/nextflow-io/nextflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A DSL for data-driven computational pipelines&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SmartThingsCommunity/SmartThingsPublic</title>
+    <updated>2022-08-01T02:41:56Z</updated>
+    <id>tag:github.com,2022-08-01:/SmartThingsCommunity/SmartThingsPublic</id>
+    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SmartThings open-source DeviceTypeHandlers and SmartApps code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kezong/fat-aar-android</title>
+    <updated>2022-08-01T02:41:56Z</updated>
+    <id>tag:github.com,2022-08-01:/kezong/fat-aar-android</id>
+    <link href="https://github.com/kezong/fat-aar-android" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A gradle plugin that merge dependencies into the final aar file works with AGP 3.+&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

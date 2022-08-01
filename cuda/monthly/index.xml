@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:37:17Z</updated>
+  <subtitle>Monthly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Tony-Tan/CUDA_Freshman</title>
+    <updated>2022-08-01T02:37:17Z</updated>
+    <id>tag:github.com,2022-08-01:/Tony-Tan/CUDA_Freshman</id>
+    <link href="https://github.com/Tony-Tan/CUDA_Freshman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA/cub</title>
+    <updated>2022-08-01T02:37:17Z</updated>
+    <id>tag:github.com,2022-08-01:/NVIDIA/cub</id>
+    <link href="https://github.com/NVIDIA/cub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cooperative primitives for CUDA C++.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA/nccl-tests</title>
+    <updated>2022-08-01T02:37:17Z</updated>
+    <id>tag:github.com,2022-08-01:/NVIDIA/nccl-tests</id>
+    <link href="https://github.com/NVIDIA/nccl-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NCCL Tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

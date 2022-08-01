@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub AutoIt Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:34:03Z</updated>
+  <subtitle>Monthly Trending of AutoIt in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rcmaehl/MSEdgeRedirect</title>
+    <updated>2022-08-01T02:34:03Z</updated>
+    <id>tag:github.com,2022-08-01:/rcmaehl/MSEdgeRedirect</id>
+    <link href="https://github.com/rcmaehl/MSEdgeRedirect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RattletraPM/Snickerstream</title>
+    <updated>2022-08-01T02:34:03Z</updated>
+    <id>tag:github.com,2022-08-01:/RattletraPM/Snickerstream</id>
+    <link href="https://github.com/RattletraPM/Snickerstream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unified NTR and HzMod streaming client for the 3DS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:36:27Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>m9/hubot-basecamp-pomodoro</title>
+    <updated>2022-08-01T02:36:27Z</updated>
+    <id>tag:github.com,2022-08-01:/m9/hubot-basecamp-pomodoro</id>
+    <link href="https://github.com/m9/hubot-basecamp-pomodoro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basecamp and Pomodoro integration for Github Hubot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>moveline/mongoose-pagination</title>
+    <updated>2022-08-01T02:36:27Z</updated>
+    <id>tag:github.com,2022-08-01:/moveline/mongoose-pagination</id>
+    <link href="https://github.com/moveline/mongoose-pagination" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mongoose Query Pagination&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>s0ber/mock-async</title>
+    <updated>2022-08-01T02:36:27Z</updated>
+    <id>tag:github.com,2022-08-01:/s0ber/mock-async</id>
+    <link href="https://github.com/s0ber/mock-async" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple one-method library for mocking asynchronous methods&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

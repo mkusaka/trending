@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:46:34Z</updated>
+  <updated>2022-08-01T01:45:48Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>axelparmentier/InferOpt.jl</title>
-    <updated>2022-07-31T01:46:34Z</updated>
-    <id>tag:github.com,2022-07-31:/axelparmentier/InferOpt.jl</id>
-    <link href="https://github.com/axelparmentier/InferOpt.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Combinatorial optimization layers for machine learning pipelines&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLang/www.julialang.org</title>
+    <updated>2022-08-01T01:45:48Z</updated>
+    <id>tag:github.com,2022-08-01:/JuliaLang/www.julialang.org</id>
+    <link href="https://github.com/JuliaLang/www.julialang.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia Project website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaLang/JuliaSyntax.jl</title>
-    <updated>2022-07-31T01:46:34Z</updated>
-    <id>tag:github.com,2022-07-31:/JuliaLang/JuliaSyntax.jl</id>
-    <link href="https://github.com/JuliaLang/JuliaSyntax.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia frontend, written in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lucifer1004/Taichi.jl</title>
+    <updated>2022-08-01T01:45:48Z</updated>
+    <id>tag:github.com,2022-08-01:/lucifer1004/Taichi.jl</id>
+    <link href="https://github.com/lucifer1004/Taichi.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Using Taichi from Julia!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/LinearSolve.jl</title>
-    <updated>2022-07-31T01:46:34Z</updated>
-    <id>tag:github.com,2022-07-31:/SciML/LinearSolve.jl</id>
-    <link href="https://github.com/SciML/LinearSolve.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LinearSolve.jl: High-Performance Unified Linear Solvers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>olynch/CompTime.jl</title>
+    <updated>2022-08-01T01:45:48Z</updated>
+    <id>tag:github.com,2022-08-01:/olynch/CompTime.jl</id>
+    <link href="https://github.com/olynch/CompTime.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for compile-time computing in julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

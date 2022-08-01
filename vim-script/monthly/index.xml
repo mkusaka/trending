@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:58:00Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>junegunn/vim-plug</title>
+    <updated>2022-08-01T02:58:00Z</updated>
+    <id>tag:github.com,2022-08-01:/junegunn/vim-plug</id>
+    <link href="https://github.com/junegunn/vim-plug" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌺 Minimalist Vim Plugin Manager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>craftzdog/dotfiles-public</title>
+    <updated>2022-08-01T02:58:00Z</updated>
+    <id>tag:github.com,2022-08-01:/craftzdog/dotfiles-public</id>
+    <link href="https://github.com/craftzdog/dotfiles-public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dense-analysis/ale</title>
+    <updated>2022-08-01T02:58:00Z</updated>
+    <id>tag:github.com,2022-08-01:/dense-analysis/ale</id>
+    <link href="https://github.com/dense-analysis/ale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

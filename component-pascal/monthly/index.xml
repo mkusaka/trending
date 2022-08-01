@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Component Pascal Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:36:33Z</updated>
+  <subtitle>Monthly Trending of Component Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>magicmonty/delphi-code-coverage</title>
+    <updated>2022-08-01T02:36:33Z</updated>
+    <id>tag:github.com,2022-08-01:/magicmonty/delphi-code-coverage</id>
+    <link href="https://github.com/magicmonty/delphi-code-coverage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a clone of the code coverage tool for Delphi on http://code.google.com/p/delphi-code-coverage/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

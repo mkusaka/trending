@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:51:24Z</updated>
+  <subtitle>Monthly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>procore/puppet-dnsmasq</title>
+    <updated>2022-08-01T02:51:24Z</updated>
+    <id>tag:github.com,2022-08-01:/procore/puppet-dnsmasq</id>
+    <link href="https://github.com/procore/puppet-dnsmasq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to manage dnsmasq&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RexGibson/vagrant-template1</title>
+    <updated>2022-08-01T02:51:24Z</updated>
+    <id>tag:github.com,2022-08-01:/RexGibson/vagrant-template1</id>
+    <link href="https://github.com/RexGibson/vagrant-template1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>couchbaselabs/connect_mobile_deploy</title>
+    <updated>2022-08-01T02:51:24Z</updated>
+    <id>tag:github.com,2022-08-01:/couchbaselabs/connect_mobile_deploy</id>
+    <link href="https://github.com/couchbaselabs/connect_mobile_deploy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

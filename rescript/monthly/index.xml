@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ReScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:52:37Z</updated>
+  <subtitle>Monthly Trending of ReScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Jack-Myth/Threshold-Miku</title>
+    <updated>2022-08-01T02:52:37Z</updated>
+    <id>tag:github.com,2022-08-01:/Jack-Myth/Threshold-Miku</id>
+    <link href="https://github.com/Jack-Myth/Threshold-Miku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Hatsune Miku Steam Theme Skin with Steam New Library Supported!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>redsigma/UPMetroSkin</title>
+    <updated>2022-08-01T02:52:37Z</updated>
+    <id>tag:github.com,2022-08-01:/redsigma/UPMetroSkin</id>
+    <link href="https://github.com/redsigma/UPMetroSkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This non-official addon for Metro for Steam fixes bugs with the current version and adds optional content for you to choose from.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

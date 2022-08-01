@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:57:49Z</updated>
+  <subtitle>Monthly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chipsalliance/yosys-f4pga-plugins</title>
+    <updated>2022-08-01T02:57:49Z</updated>
+    <id>tag:github.com,2022-08-01:/chipsalliance/yosys-f4pga-plugins</id>
+    <link href="https://github.com/chipsalliance/yosys-f4pga-plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plugins for Yosys developed as part of the F4PGA project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>The-OpenROAD-Project/OpenROAD</title>
+    <updated>2022-08-01T02:57:49Z</updated>
+    <id>tag:github.com,2022-08-01:/The-OpenROAD-Project/OpenROAD</id>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenROAD&#39;s unified application implementing an RTL-to-GDS Flow&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ucb-bar/nvdla-wrapper</title>
+    <updated>2022-08-01T02:57:49Z</updated>
+    <id>tag:github.com,2022-08-01:/ucb-bar/nvdla-wrapper</id>
+    <link href="https://github.com/ucb-bar/nvdla-wrapper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wraps the NVDLA project for Chipyard integration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

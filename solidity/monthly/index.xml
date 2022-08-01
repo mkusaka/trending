@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:54:48Z</updated>
+  <subtitle>Monthly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AmazingAng/WTFSolidity</title>
+    <updated>2022-08-01T02:54:48Z</updated>
+    <id>tag:github.com,2022-08-01:/AmazingAng/WTFSolidity</id>
+    <link href="https://github.com/AmazingAng/WTFSolidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>foundry-rs/book</title>
+    <updated>2022-08-01T02:54:48Z</updated>
+    <id>tag:github.com,2022-08-01:/foundry-rs/book</id>
+    <link href="https://github.com/foundry-rs/book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A book on all things Foundry, available at https://book.getfoundry.sh.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jamesbachini/DEX-Arbitrage</title>
+    <updated>2022-08-01T02:54:48Z</updated>
+    <id>tag:github.com,2022-08-01:/jamesbachini/DEX-Arbitrage</id>
+    <link href="https://github.com/jamesbachini/DEX-Arbitrage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example arbitrage trading bot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

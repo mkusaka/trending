@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:36:49Z</updated>
+  <updated>2022-08-01T01:35:20Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>barberd/cocorsa</title>
-    <updated>2022-07-31T01:36:49Z</updated>
-    <id>tag:github.com,2022-07-31:/barberd/cocorsa</id>
-    <link href="https://github.com/barberd/cocorsa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of RSA for the Tandy/Radio Shack TRS-80 Color Computer including key generation, encryption, and decryption&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

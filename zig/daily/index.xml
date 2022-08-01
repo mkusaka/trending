@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T02:01:34Z</updated>
+  <updated>2022-08-01T02:00:42Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>david-vanderson/gui</title>
-    <updated>2022-07-31T02:01:34Z</updated>
-    <id>tag:github.com,2022-07-31:/david-vanderson/gui</id>
-    <link href="https://github.com/david-vanderson/gui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kristoff-it/bork</title>
+    <updated>2022-08-01T02:00:42Z</updated>
+    <id>tag:github.com,2022-08-01:/kristoff-it/bork</id>
+    <link href="https://github.com/kristoff-it/bork" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A TUI chat client tailored for livecoding on Twitch.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fabioarnold/MiniPixel</title>
-    <updated>2022-07-31T02:01:34Z</updated>
-    <id>tag:github.com,2022-07-31:/fabioarnold/MiniPixel</id>
-    <link href="https://github.com/fabioarnold/MiniPixel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny pixel art editor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>capy-ui/capy</title>
+    <updated>2022-08-01T02:00:42Z</updated>
+    <id>tag:github.com,2022-08-01:/capy-ui/capy</id>
+    <link href="https://github.com/capy-ui/capy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform library for making true native GUIs in Zig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mattn/zig-curl</title>
+    <updated>2022-08-01T02:00:42Z</updated>
+    <id>tag:github.com,2022-08-01:/mattn/zig-curl</id>
+    <link href="https://github.com/mattn/zig-curl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cURL binding for Zig&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

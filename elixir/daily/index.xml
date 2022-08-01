@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:41:36Z</updated>
+  <updated>2022-08-01T01:40:24Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mtrudel/machete</title>
-    <updated>2022-07-31T01:41:36Z</updated>
-    <id>tag:github.com,2022-07-31:/mtrudel/machete</id>
-    <link href="https://github.com/mtrudel/machete" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Literate test matchers for ExUnit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ClaperCo/Claper</title>
+    <updated>2022-08-01T01:40:24Z</updated>
+    <id>tag:github.com,2022-08-01:/ClaperCo/Claper</id>
+    <link href="https://github.com/ClaperCo/Claper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate tool to interact with your audience&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub DM Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:38:14Z</updated>
+  <subtitle>Monthly Trending of DM in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Foundation-19/Foundation-19</title>
+    <updated>2022-08-01T02:38:14Z</updated>
+    <id>tag:github.com,2022-08-01:/Foundation-19/Foundation-19</id>
+    <link href="https://github.com/Foundation-19/Foundation-19" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;heavy wip&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Aurorastation/Aurora.3</title>
+    <updated>2022-08-01T02:38:14Z</updated>
+    <id>tag:github.com,2022-08-01:/Aurorastation/Aurora.3</id>
+    <link href="https://github.com/Aurorastation/Aurora.3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The code for Aurorastation&#39;s new base, forked from Baystation12.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BeeStation/BeeStation-Hornet</title>
+    <updated>2022-08-01T02:38:14Z</updated>
+    <id>tag:github.com,2022-08-01:/BeeStation/BeeStation-Hornet</id>
+    <link href="https://github.com/BeeStation/BeeStation-Hornet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;99.95% station. 0.05% bees&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

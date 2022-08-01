@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:48:54Z</updated>
+  <subtitle>Monthly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Unity-Technologies/uaal-example</title>
+    <updated>2022-08-01T02:48:54Z</updated>
+    <id>tag:github.com,2022-08-01:/Unity-Technologies/uaal-example</id>
+    <link href="https://github.com/Unity-Technologies/uaal-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>avibrazil/RDM</title>
+    <updated>2022-08-01T02:48:54Z</updated>
+    <id>tag:github.com,2022-08-01:/avibrazil/RDM</id>
+    <link href="https://github.com/avibrazil/RDM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily set Mac Retina display to higher unsupported resolutions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

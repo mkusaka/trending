@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:55:37Z</updated>
+  <updated>2022-08-01T01:54:22Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>librespot-org/librespot</title>
-    <updated>2022-07-31T01:55:37Z</updated>
-    <id>tag:github.com,2022-07-31:/librespot-org/librespot</id>
-    <link href="https://github.com/librespot-org/librespot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open Source Spotify client library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>losfair/mvsqlite</title>
+    <updated>2022-08-01T01:54:22Z</updated>
+    <id>tag:github.com,2022-08-01:/losfair/mvsqlite</id>
+    <link href="https://github.com/losfair/mvsqlite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributed, MVCC SQLite that runs on FoundationDB.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudflare/svg-hush</title>
-    <updated>2022-07-31T01:55:37Z</updated>
-    <id>tag:github.com,2022-07-31:/cloudflare/svg-hush</id>
-    <link href="https://github.com/cloudflare/svg-hush" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>valeriansaliou/sonic</title>
-    <updated>2022-07-31T01:55:37Z</updated>
-    <id>tag:github.com,2022-07-31:/valeriansaliou/sonic</id>
-    <link href="https://github.com/valeriansaliou/sonic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦔 Fast, lightweight &amp; schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ajeetdsouza/zoxide</title>
+    <updated>2022-08-01T01:54:22Z</updated>
+    <id>tag:github.com,2022-08-01:/ajeetdsouza/zoxide</id>
+    <link href="https://github.com/ajeetdsouza/zoxide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A smarter cd command. Supports all major shells.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

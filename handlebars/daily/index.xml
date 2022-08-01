@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:44:34Z</updated>
+  <updated>2022-08-01T01:43:45Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TryGhost/Headline</title>
-    <updated>2022-07-31T01:44:34Z</updated>
-    <id>tag:github.com,2022-07-31:/TryGhost/Headline</id>
-    <link href="https://github.com/TryGhost/Headline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A local news theme for Ghost&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jean424/DnD-Character-Creater</title>
+    <updated>2022-08-01T01:43:45Z</updated>
+    <id>tag:github.com,2022-08-01:/Jean424/DnD-Character-Creater</id>
+    <link href="https://github.com/Jean424/DnD-Character-Creater" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DnD-Character-Creator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>italia/design-comuni-pagine-statiche</title>
+    <updated>2022-08-01T01:43:45Z</updated>
+    <id>tag:github.com,2022-08-01:/italia/design-comuni-pagine-statiche</id>
+    <link href="https://github.com/italia/design-comuni-pagine-statiche" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Le pagine statiche che compongono il modello di sito web per i comuni&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Sercanbrack/dnd-right-here</title>
+    <updated>2022-08-01T01:43:45Z</updated>
+    <id>tag:github.com,2022-08-01:/Sercanbrack/dnd-right-here</id>
+    <link href="https://github.com/Sercanbrack/dnd-right-here" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

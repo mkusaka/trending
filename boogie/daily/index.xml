@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Boogie Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-07-31T01:37:35Z</updated>
+  <updated>2022-08-01T01:36:12Z</updated>
   <subtitle>Daily Trending of Boogie in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>boogie-org/boogie</title>
-    <updated>2022-07-31T01:37:35Z</updated>
-    <id>tag:github.com,2022-07-31:/boogie-org/boogie</id>
-    <link href="https://github.com/boogie-org/boogie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boogie&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

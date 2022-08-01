@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-01T02:50:20Z</updated>
+  <subtitle>Monthly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>duneanalytics/abstractions</title>
+    <updated>2022-08-01T02:50:20Z</updated>
+    <id>tag:github.com,2022-08-01:/duneanalytics/abstractions</id>
+    <link href="https://github.com/duneanalytics/abstractions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQL views for Dune&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aiven/devportal</title>
+    <updated>2022-08-01T02:50:20Z</updated>
+    <id>tag:github.com,2022-08-01:/aiven/devportal</id>
+    <link href="https://github.com/aiven/devportal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources for users of the projects on the Aiven platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pgpartman/pg_partman</title>
+    <updated>2022-08-01T02:50:20Z</updated>
+    <id>tag:github.com,2022-08-01:/pgpartman/pg_partman</id>
+    <link href="https://github.com/pgpartman/pg_partman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Partition management extension for PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
