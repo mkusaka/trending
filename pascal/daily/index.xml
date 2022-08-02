@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:50:58Z</updated>
+  <updated>2022-08-02T01:51:08Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>balena-os/balena-beaglebone</title>
-    <updated>2022-08-01T01:50:58Z</updated>
-    <id>tag:github.com,2022-08-01:/balena-os/balena-beaglebone</id>
-    <link href="https://github.com/balena-os/balena-beaglebone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Balena support for Beaglebone boards&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

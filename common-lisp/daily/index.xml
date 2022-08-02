@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:37:57Z</updated>
+  <updated>2022-08-02T01:38:11Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bonkzwonil/lisp-irc</title>
+    <updated>2022-08-02T01:38:11Z</updated>
+    <id>tag:github.com,2022-08-02:/bonkzwonil/lisp-irc</id>
+    <link href="https://github.com/bonkzwonil/lisp-irc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common Lisp IRC Library&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Matzes Lisp IRC Library Rewrite 3&lt;/h2&gt; &#xA;&lt;p&gt;(C) 2007 by Mathias Menzel-Nielsen &lt;a href=&#34;mailto:matze@mausland.de&#34;&gt;matze@mausland.de&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Distributed under the beerware-license. See LICENSE for details.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Prerequisites:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;code&gt;matzlisp, cl-ppcre, split-sequence&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;You will need to have matzlisp installed. Its ASDF installable so it shouldnt be a big deal.&lt;/p&gt; &#xA;&lt;p&gt;You can get matzlisp via git:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&#x9;git clone https://github.com/bonkzwonil/matzlisp.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;lisp-irc should run under any common-lisp implementation, however you will need an implementation which matzlisp supports (sbcl, LispWorks and clisp for now)&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;lisp-irc is ASDF-installable, so install instructions are easy: o Make a symlink to newirc.asd from your ASDF systems directory. e.g: &lt;code&gt;ln -s /path/to/lisp-irc/newirc.asd ~/.sbcl/systems/newirc.asd&lt;/code&gt; o Load it via asdf e.g: &lt;code&gt;(asdf:oos &#39;asdf:load-op &#39;newirc)&lt;/code&gt; in most lisp implementations or simply &lt;code&gt;(require &#39;newirc)&lt;/code&gt; in sbcl&lt;/p&gt; &#xA;&lt;p&gt;look at newdemobot.lisp, for an example bot.&lt;/p&gt; &#xA;&lt;p&gt;remember to -darcs- git send patches....&lt;/p&gt;</summary>
+  </entry>
 </feed>

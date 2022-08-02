@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:59:07Z</updated>
+  <updated>2022-08-02T01:58:54Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huajian-pro/resume-design</title>
-    <updated>2022-08-01T01:59:07Z</updated>
-    <id>tag:github.com,2022-08-01:/huajian-pro/resume-design</id>
-    <link href="https://github.com/huajian-pro/resume-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款简历设计生成器&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qmhc/vexip-ui</title>
+    <updated>2022-08-02T01:58:54Z</updated>
+    <id>tag:github.com,2022-08-02:/qmhc/vexip-ui</id>
+    <link href="https://github.com/qmhc/vexip-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vue 3 UI library, Highly customizable property values, Full TypeScript, Performance should be good.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>girlsgoit/notes-2022</title>
-    <updated>2022-08-01T01:59:07Z</updated>
-    <id>tag:github.com,2022-08-01:/girlsgoit/notes-2022</id>
-    <link href="https://github.com/girlsgoit/notes-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Created with CodeSandbox&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GuMengYu/v-player</title>
+    <updated>2022-08-02T01:58:54Z</updated>
+    <id>tag:github.com,2022-08-02:/GuMengYu/v-player</id>
+    <link href="https://github.com/GuMengYu/v-player" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Design 3 (Material You) 风格的网易云音乐播放器&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>creativetimofficial/vuetify-material-dashboard</title>
-    <updated>2022-08-01T01:59:07Z</updated>
-    <id>tag:github.com,2022-08-01:/creativetimofficial/vuetify-material-dashboard</id>
-    <link href="https://github.com/creativetimofficial/vuetify-material-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vuetify Material Dashboard - Open Source Material Design Admin by Creative Tim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>webyang-male/nuxt3-edu</title>
+    <updated>2022-08-02T01:58:54Z</updated>
+    <id>tag:github.com,2022-08-02:/webyang-male/nuxt3-edu</id>
+    <link href="https://github.com/webyang-male/nuxt3-edu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nuxt3+Vue3实战在线教育SSR网站&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

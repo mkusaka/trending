@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:46:40Z</updated>
+  <updated>2022-08-02T01:46:43Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sButtons/sbuttons</title>
+    <updated>2022-08-02T01:46:43Z</updated>
+    <id>tag:github.com,2022-08-02:/sButtons/sbuttons</id>
+    <link href="https://github.com/sButtons/sbuttons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💡 Simple buttons you can use easily for your next project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OctoPrint/plugins.octoprint.org</title>
+    <updated>2022-08-02T01:46:43Z</updated>
+    <id>tag:github.com,2022-08-02:/OctoPrint/plugins.octoprint.org</id>
+    <link href="https://github.com/OctoPrint/plugins.octoprint.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sources of the OctoPrint Plugin Repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fossasia/loklak-webtweets</title>
+    <updated>2022-08-02T01:46:43Z</updated>
+    <id>tag:github.com,2022-08-02:/fossasia/loklak-webtweets</id>
+    <link href="https://github.com/fossasia/loklak-webtweets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FOSSASIA Tweets with loklak http://fossasia.github.io/loklak-webtweets/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

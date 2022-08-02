@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:56:09Z</updated>
+  <updated>2022-08-02T01:55:51Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dsam82/unifap-v2</title>
-    <updated>2022-08-01T01:56:09Z</updated>
-    <id>tag:github.com,2022-08-01:/dsam82/unifap-v2</id>
-    <link href="https://github.com/dsam82/unifap-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Port of uniswap-v2 with foundry tests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pcaversaccio/snekmate</title>
+    <updated>2022-08-02T01:55:51Z</updated>
+    <id>tag:github.com,2022-08-02:/pcaversaccio/snekmate</id>
+    <link href="https://github.com/pcaversaccio/snekmate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;State-of-the-art, highly opinionated, hyper-optimised, and secure Vyper smart contract building blocks.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cagataycali/HSTP</title>
-    <updated>2022-08-01T01:56:09Z</updated>
-    <id>tag:github.com,2022-08-01:/cagataycali/HSTP</id>
-    <link href="https://github.com/cagataycali/HSTP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hyper Service Transfer Protocol on EVM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-423n4/2022-07-golom</title>
-    <updated>2022-08-01T01:56:09Z</updated>
-    <id>tag:github.com,2022-08-01:/code-423n4/2022-07-golom</id>
-    <link href="https://github.com/code-423n4/2022-07-golom" rel="alternate"></link>
+    <title>grizzlyfi/smart-contracts</title>
+    <updated>2022-08-02T01:55:51Z</updated>
+    <id>tag:github.com,2022-08-02:/grizzlyfi/smart-contracts</id>
+    <link href="https://github.com/grizzlyfi/smart-contracts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>devtooligan/skidsdao-ctf-22-jul-22</title>
+    <updated>2022-08-02T01:55:51Z</updated>
+    <id>tag:github.com,2022-08-02:/devtooligan/skidsdao-ctf-22-jul-22</id>
+    <link href="https://github.com/devtooligan/skidsdao-ctf-22-jul-22" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://twitter.com/jtriley_eth/status/1550459124047138819?s=20&amp;t=cTBP-TSnIstNEwwPuRDF5Q&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

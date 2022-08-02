@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:43:54Z</updated>
+  <updated>2022-08-02T01:43:52Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bercemturk/TerraformProject</title>
-    <updated>2022-08-01T01:43:54Z</updated>
-    <id>tag:github.com,2022-08-01:/bercemturk/TerraformProject</id>
-    <link href="https://github.com/bercemturk/TerraformProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;azure terraform project for Team2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Sanjeev-Thiyagarajan/Terraform-Crash-Course</title>
-    <updated>2022-08-01T01:43:54Z</updated>
-    <id>tag:github.com,2022-08-01:/Sanjeev-Thiyagarajan/Terraform-Crash-Course</id>
-    <link href="https://github.com/Sanjeev-Thiyagarajan/Terraform-Crash-Course" rel="alternate"></link>
+    <title>devopseasylearning/terroform-s2-session</title>
+    <updated>2022-08-02T01:43:52Z</updated>
+    <id>tag:github.com,2022-08-02:/devopseasylearning/terroform-s2-session</id>
+    <link href="https://github.com/devopseasylearning/terroform-s2-session" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>champ-oss/terraform-aws-s3</title>
-    <updated>2022-08-01T01:43:54Z</updated>
-    <id>tag:github.com,2022-08-01:/champ-oss/terraform-aws-s3</id>
-    <link href="https://github.com/champ-oss/terraform-aws-s3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/azure-spring-apps-reference-architecture</title>
+    <updated>2022-08-02T01:43:52Z</updated>
+    <id>tag:github.com,2022-08-02:/Azure/azure-spring-apps-reference-architecture</id>
+    <link href="https://github.com/Azure/azure-spring-apps-reference-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quickstarts for deploying Azure Spring Apps Reference Architecture - using Terraform, ARM Template, Bicep or Azure CLI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nsbno/terraform-aws-api-gateway</title>
+    <updated>2022-08-02T01:43:52Z</updated>
+    <id>tag:github.com,2022-08-02:/nsbno/terraform-aws-api-gateway</id>
+    <link href="https://github.com/nsbno/terraform-aws-api-gateway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Setup API Gateway with an OpenAPI Schema&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

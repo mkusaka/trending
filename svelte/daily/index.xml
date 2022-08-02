@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:56:52Z</updated>
+  <updated>2022-08-02T01:56:34Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Leomotors/anime-captcha</title>
-    <updated>2022-08-01T01:56:52Z</updated>
-    <id>tag:github.com,2022-08-01:/Leomotors/anime-captcha</id>
-    <link href="https://github.com/Leomotors/anime-captcha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Just a Normal Captcha, you are not a robot? Then pass this Captcha!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rosslh/rosshill.ca</title>
+    <updated>2022-08-02T01:56:34Z</updated>
+    <id>tag:github.com,2022-08-02:/rosslh/rosshill.ca</id>
+    <link href="https://github.com/rosslh/rosshill.ca" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal website built with Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coinbase-samples/prime-explorer-js</title>
-    <updated>2022-08-01T01:56:52Z</updated>
-    <id>tag:github.com,2022-08-01:/coinbase-samples/prime-explorer-js</id>
-    <link href="https://github.com/coinbase-samples/prime-explorer-js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coinbase Prime REST API sample application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dj-nitehawk/FastEndpoints-DocSite</title>
-    <updated>2022-08-01T01:56:52Z</updated>
-    <id>tag:github.com,2022-08-01:/dj-nitehawk/FastEndpoints-DocSite</id>
-    <link href="https://github.com/dj-nitehawk/FastEndpoints-DocSite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;documentation website source code for FastEndpoints lives here&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Akezh/N17R-Hack</title>
+    <updated>2022-08-02T01:56:34Z</updated>
+    <id>tag:github.com,2022-08-02:/Akezh/N17R-Hack</id>
+    <link href="https://github.com/Akezh/N17R-Hack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CTF ⚑ written in Svelte, nFactorial Summer 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

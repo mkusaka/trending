@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:45:48Z</updated>
+  <updated>2022-08-02T01:45:52Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaLang/www.julialang.org</title>
-    <updated>2022-08-01T01:45:48Z</updated>
-    <id>tag:github.com,2022-08-01:/JuliaLang/www.julialang.org</id>
-    <link href="https://github.com/JuliaLang/www.julialang.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia Project website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vchuravy/FancyDebugger.jl</title>
+    <updated>2022-08-02T01:45:52Z</updated>
+    <id>tag:github.com,2022-08-02:/vchuravy/FancyDebugger.jl</id>
+    <link href="https://github.com/vchuravy/FancyDebugger.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lucifer1004/Taichi.jl</title>
-    <updated>2022-08-01T01:45:48Z</updated>
-    <id>tag:github.com,2022-08-01:/lucifer1004/Taichi.jl</id>
-    <link href="https://github.com/lucifer1004/Taichi.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Using Taichi from Julia!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adrhill/ExplainableAI.jl</title>
+    <updated>2022-08-02T01:45:52Z</updated>
+    <id>tag:github.com,2022-08-02:/adrhill/ExplainableAI.jl</id>
+    <link href="https://github.com/adrhill/ExplainableAI.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;XAI in Julia using Flux.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>olynch/CompTime.jl</title>
-    <updated>2022-08-01T01:45:48Z</updated>
-    <id>tag:github.com,2022-08-01:/olynch/CompTime.jl</id>
-    <link href="https://github.com/olynch/CompTime.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for compile-time computing in julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gridap/Gridap.jl</title>
+    <updated>2022-08-02T01:45:52Z</updated>
+    <id>tag:github.com,2022-08-02:/gridap/Gridap.jl</id>
+    <link href="https://github.com/gridap/Gridap.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grid-based approximation of partial differential equations in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

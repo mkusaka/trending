@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:58:31Z</updated>
+  <updated>2022-08-02T01:58:19Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ao-org/argentum20-client</title>
+    <updated>2022-08-02T01:58:19Z</updated>
+    <id>tag:github.com,2022-08-02:/ao-org/argentum20-client</id>
+    <link href="https://github.com/ao-org/argentum20-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Código fuente del cliente de Argentum20&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

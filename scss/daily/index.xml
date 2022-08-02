@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:54:49Z</updated>
+  <updated>2022-08-02T01:54:44Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mahdi-momeni/Dashlib.css</title>
-    <updated>2022-08-01T01:54:49Z</updated>
-    <id>tag:github.com,2022-08-01:/mahdi-momeni/Dashlib.css</id>
-    <link href="https://github.com/mahdi-momeni/Dashlib.css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stylish, modern, compact and powerful front-end library for faster and easier web development.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jackyzha0/quartz</title>
+    <updated>2022-08-02T01:54:44Z</updated>
+    <id>tag:github.com,2022-08-02:/jackyzha0/quartz</id>
+    <link href="https://github.com/jackyzha0/quartz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌱 host your own second brain and digital garden for free&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>creativetimofficial/light-bootstrap-dashboard-react</title>
-    <updated>2022-08-01T01:54:49Z</updated>
-    <id>tag:github.com,2022-08-01:/creativetimofficial/light-bootstrap-dashboard-react</id>
-    <link href="https://github.com/creativetimofficial/light-bootstrap-dashboard-react" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;React version of Light Bootstrap Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>section-engineering-education/engineering-education</title>
+    <updated>2022-08-02T01:54:44Z</updated>
+    <id>tag:github.com,2022-08-02:/section-engineering-education/engineering-education</id>
+    <link href="https://github.com/section-engineering-education/engineering-education" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;“Section&#39;s Engineering Education (EngEd) Program is dedicated to offering a unique quality community experience for computer science university students.&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

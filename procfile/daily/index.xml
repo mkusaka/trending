@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Procfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:52:20Z</updated>
+  <updated>2022-08-02T01:52:17Z</updated>
   <subtitle>Daily Trending of Procfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DEVSMSM/Account-Online-V13</title>
-    <updated>2022-08-01T01:52:20Z</updated>
-    <id>tag:github.com,2022-08-01:/DEVSMSM/Account-Online-V13</id>
-    <link href="https://github.com/DEVSMSM/Account-Online-V13" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

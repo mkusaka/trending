@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:33:55Z</updated>
+  <updated>2022-08-02T01:34:11Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ruesandora/stratos-sds</title>
-    <updated>2022-08-01T01:33:55Z</updated>
-    <id>tag:github.com,2022-08-01:/ruesandora/stratos-sds</id>
-    <link href="https://github.com/ruesandora/stratos-sds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheOdinProject/curriculum</title>
+    <updated>2022-08-02T01:34:11Z</updated>
+    <id>tag:github.com,2022-08-02:/TheOdinProject/curriculum</id>
+    <link href="https://github.com/TheOdinProject/curriculum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open curriculum for learning web development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>milanm/azure-cheat-sheet</title>
-    <updated>2022-08-01T01:33:55Z</updated>
-    <id>tag:github.com,2022-08-01:/milanm/azure-cheat-sheet</id>
-    <link href="https://github.com/milanm/azure-cheat-sheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Azure Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liu673cn/box</title>
+    <updated>2022-08-02T01:34:11Z</updated>
+    <id>tag:github.com,2022-08-02:/liu673cn/box</id>
+    <link href="https://github.com/liu673cn/box" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TVbox 1.0.0（空壳-自行配置）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>smartcontractkit/full-blockchain-solidity-course-py</title>
-    <updated>2022-08-01T01:33:55Z</updated>
-    <id>tag:github.com,2022-08-01:/smartcontractkit/full-blockchain-solidity-course-py</id>
-    <link href="https://github.com/smartcontractkit/full-blockchain-solidity-course-py" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>probml/pml2-book</title>
+    <updated>2022-08-02T01:34:11Z</updated>
+    <id>tag:github.com,2022-08-02:/probml/pml2-book</id>
+    <link href="https://github.com/probml/pml2-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Probabilistic Machine Learning: Advanced Topics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

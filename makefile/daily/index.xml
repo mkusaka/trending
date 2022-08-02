@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:47:40Z</updated>
+  <updated>2022-08-02T01:47:44Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>userver-framework/service_template</title>
-    <updated>2022-08-01T01:47:40Z</updated>
-    <id>tag:github.com,2022-08-01:/userver-framework/service_template</id>
-    <link href="https://github.com/userver-framework/service_template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template of a C++ service that uses userver framework. Build, test and CI scripts ready&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>saleor/saleor-platform</title>
-    <updated>2022-08-01T01:47:40Z</updated>
-    <id>tag:github.com,2022-08-01:/saleor/saleor-platform</id>
-    <link href="https://github.com/saleor/saleor-platform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All Saleor services started from a single repository with docker-compose.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nspcc-dev/neofs-api</title>
-    <updated>2022-08-01T01:47:40Z</updated>
-    <id>tag:github.com,2022-08-01:/nspcc-dev/neofs-api</id>
-    <link href="https://github.com/nspcc-dev/neofs-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NeoFS API documentation and proto files declaration&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>surajadkhari/user_profile_riverpod-futureprovider</title>
+    <updated>2022-08-02T01:47:44Z</updated>
+    <id>tag:github.com,2022-08-02:/surajadkhari/user_profile_riverpod-futureprovider</id>
+    <link href="https://github.com/surajadkhari/user_profile_riverpod-futureprovider" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fetch API using Riverpod-FutureProvider with http&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:50:10Z</updated>
+  <updated>2022-08-02T01:50:17Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Tim-ats-d/Macron</title>
+    <updated>2022-08-02T01:50:17Z</updated>
+    <id>tag:github.com,2022-08-02:/Tim-ats-d/Macron</id>
+    <link href="https://github.com/Tim-ats-d/Macron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A powerful keybind library and daemon for Linux.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

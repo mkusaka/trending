@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:54:22Z</updated>
+  <updated>2022-08-02T01:54:19Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>losfair/mvsqlite</title>
-    <updated>2022-08-01T01:54:22Z</updated>
-    <id>tag:github.com,2022-08-01:/losfair/mvsqlite</id>
-    <link href="https://github.com/losfair/mvsqlite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Distributed, MVCC SQLite that runs on FoundationDB.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>console-rs/indicatif</title>
+    <updated>2022-08-02T01:54:19Z</updated>
+    <id>tag:github.com,2022-08-02:/console-rs/indicatif</id>
+    <link href="https://github.com/console-rs/indicatif" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A command line progress reporting library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ajeetdsouza/zoxide</title>
-    <updated>2022-08-01T01:54:22Z</updated>
-    <id>tag:github.com,2022-08-01:/ajeetdsouza/zoxide</id>
-    <link href="https://github.com/ajeetdsouza/zoxide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A smarter cd command. Supports all major shells.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vulkano-rs/vulkano</title>
+    <updated>2022-08-02T01:54:19Z</updated>
+    <id>tag:github.com,2022-08-02:/vulkano-rs/vulkano</id>
+    <link href="https://github.com/vulkano-rs/vulkano" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Safe and rich Rust wrapper around the Vulkan API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gyroflow/gyroflow</title>
+    <updated>2022-08-02T01:54:19Z</updated>
+    <id>tag:github.com,2022-08-02:/gyroflow/gyroflow</id>
+    <link href="https://github.com/gyroflow/gyroflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Video stabilization using gyroscope data&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

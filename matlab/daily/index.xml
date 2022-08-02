@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-01T01:47:57Z</updated>
+  <updated>2022-08-02T01:48:00Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>VipaiLab/Signals-and-Systems-course</title>
+    <updated>2022-08-02T01:48:00Z</updated>
+    <id>tag:github.com,2022-08-02:/VipaiLab/Signals-and-Systems-course</id>
+    <link href="https://github.com/VipaiLab/Signals-and-Systems-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;浙江大学信电学院2022信号与系统课程资料&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
