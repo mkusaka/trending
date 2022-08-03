@@ -5,24 +5,24 @@
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheOdinProject/curriculum</title>
+    <title>kleiton0x00/Advanced-SQL-Injection-Cheatsheet</title>
     <updated>2022-08-02T01:34:11Z</updated>
-    <id>tag:github.com,2022-08-02:/TheOdinProject/curriculum</id>
-    <link href="https://github.com/TheOdinProject/curriculum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The open curriculum for learning web development&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-08-02:/kleiton0x00/Advanced-SQL-Injection-Cheatsheet</id>
+    <link href="https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cheat sheet that contains advanced queries for SQL Injection of all types.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>liu673cn/box</title>
+    <title>sindresorhus/awesome-nodejs</title>
     <updated>2022-08-02T01:34:11Z</updated>
-    <id>tag:github.com,2022-08-02:/liu673cn/box</id>
-    <link href="https://github.com/liu673cn/box" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TVbox 1.0.0（空壳-自行配置）&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-08-02:/sindresorhus/awesome-nodejs</id>
+    <link href="https://github.com/sindresorhus/awesome-nodejs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Delightful Node.js packages and resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>probml/pml2-book</title>
+    <title>spiritualized1997/openFPGA-GB-GBC</title>
     <updated>2022-08-02T01:34:11Z</updated>
-    <id>tag:github.com,2022-08-02:/probml/pml2-book</id>
-    <link href="https://github.com/probml/pml2-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Probabilistic Machine Learning: Advanced Topics&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-08-02:/spiritualized1997/openFPGA-GB-GBC</id>
+    <link href="https://github.com/spiritualized1997/openFPGA-GB-GBC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Game Boy and Game Boy Color cores for openFPGA on Analogue Pocket&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

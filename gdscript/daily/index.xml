@@ -4,11 +4,4 @@
   <updated>2022-08-02T01:42:22Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MikeSchulze/gdUnit3</title>
-    <updated>2022-08-02T01:42:22Z</updated>
-    <id>tag:github.com,2022-08-02:/MikeSchulze/gdUnit3</id>
-    <link href="https://github.com/MikeSchulze/gdUnit3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Godot Unit Test Framework. Support for gdScript and c# unit testing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

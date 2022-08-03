@@ -5,24 +5,10 @@
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kovisoft/paredit</title>
+    <title>vimlab/split-term.vim</title>
     <updated>2022-08-02T01:58:43Z</updated>
-    <id>tag:github.com,2022-08-02:/kovisoft/paredit</id>
-    <link href="https://github.com/kovisoft/paredit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official mirror of Paredit versions released on vim.org&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tpope/vim-fireplace</title>
-    <updated>2022-08-02T01:58:43Z</updated>
-    <id>tag:github.com,2022-08-02:/tpope/vim-fireplace</id>
-    <link href="https://github.com/tpope/vim-fireplace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;fireplace.vim: Clojure REPL support&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>romainl/vim-cool</title>
-    <updated>2022-08-02T01:58:43Z</updated>
-    <id>tag:github.com,2022-08-02:/romainl/vim-cool</id>
-    <link href="https://github.com/romainl/vim-cool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A very simple plugin that makes hlsearch more useful.&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-08-02:/vimlab/split-term.vim</id>
+    <link href="https://github.com/vimlab/split-term.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilites around neovim&#39;s `:terminal`.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

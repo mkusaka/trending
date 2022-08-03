@@ -5,24 +5,10 @@
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vchuravy/FancyDebugger.jl</title>
+    <title>JuliaControl/ControlSystems.jl</title>
     <updated>2022-08-02T01:45:52Z</updated>
-    <id>tag:github.com,2022-08-02:/vchuravy/FancyDebugger.jl</id>
-    <link href="https://github.com/vchuravy/FancyDebugger.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adrhill/ExplainableAI.jl</title>
-    <updated>2022-08-02T01:45:52Z</updated>
-    <id>tag:github.com,2022-08-02:/adrhill/ExplainableAI.jl</id>
-    <link href="https://github.com/adrhill/ExplainableAI.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XAI in Julia using Flux.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gridap/Gridap.jl</title>
-    <updated>2022-08-02T01:45:52Z</updated>
-    <id>tag:github.com,2022-08-02:/gridap/Gridap.jl</id>
-    <link href="https://github.com/gridap/Gridap.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grid-based approximation of partial differential equations in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-08-02:/JuliaControl/ControlSystems.jl</id>
+    <link href="https://github.com/JuliaControl/ControlSystems.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Control Systems Toolbox for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -4,18 +4,4 @@
   <updated>2022-08-02T01:56:34Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rosslh/rosshill.ca</title>
-    <updated>2022-08-02T01:56:34Z</updated>
-    <id>tag:github.com,2022-08-02:/rosslh/rosshill.ca</id>
-    <link href="https://github.com/rosslh/rosshill.ca" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal website built with Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Akezh/N17R-Hack</title>
-    <updated>2022-08-02T01:56:34Z</updated>
-    <id>tag:github.com,2022-08-02:/Akezh/N17R-Hack</id>
-    <link href="https://github.com/Akezh/N17R-Hack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CTF ⚑ written in Svelte, nFactorial Summer 2022&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

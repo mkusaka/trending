@@ -4,11 +4,4 @@
   <updated>2022-08-02T01:56:41Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pulp-platform/pulpissimo</title>
-    <updated>2022-08-02T01:56:41Z</updated>
-    <id>tag:github.com,2022-08-02:/pulp-platform/pulpissimo</id>
-    <link href="https://github.com/pulp-platform/pulpissimo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the top-level project for the PULPissimo Platform. It instantiates a PULPissimo open-source system with a PULP SoC domain, but no cluster.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -5,24 +5,10 @@
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>qmhc/vexip-ui</title>
+    <title>creativetimofficial/vue-notus</title>
     <updated>2022-08-02T01:58:54Z</updated>
-    <id>tag:github.com,2022-08-02:/qmhc/vexip-ui</id>
-    <link href="https://github.com/qmhc/vexip-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vue 3 UI library, Highly customizable property values, Full TypeScript, Performance should be good.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GuMengYu/v-player</title>
-    <updated>2022-08-02T01:58:54Z</updated>
-    <id>tag:github.com,2022-08-02:/GuMengYu/v-player</id>
-    <link href="https://github.com/GuMengYu/v-player" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Design 3 (Material You) 风格的网易云音乐播放器&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>webyang-male/nuxt3-edu</title>
-    <updated>2022-08-02T01:58:54Z</updated>
-    <id>tag:github.com,2022-08-02:/webyang-male/nuxt3-edu</id>
-    <link href="https://github.com/webyang-male/nuxt3-edu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nuxt3+Vue3实战在线教育SSR网站&lt;/p&gt;&lt;hr&gt;</summary>
+    <id>tag:github.com,2022-08-02:/creativetimofficial/vue-notus</id>
+    <link href="https://github.com/creativetimofficial/vue-notus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue Notus: Free Tailwind CSS UI Kit and Admin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

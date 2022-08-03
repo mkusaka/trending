@@ -4,25 +4,4 @@
   <updated>2022-08-02T01:54:19Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>console-rs/indicatif</title>
-    <updated>2022-08-02T01:54:19Z</updated>
-    <id>tag:github.com,2022-08-02:/console-rs/indicatif</id>
-    <link href="https://github.com/console-rs/indicatif" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A command line progress reporting library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vulkano-rs/vulkano</title>
-    <updated>2022-08-02T01:54:19Z</updated>
-    <id>tag:github.com,2022-08-02:/vulkano-rs/vulkano</id>
-    <link href="https://github.com/vulkano-rs/vulkano" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Safe and rich Rust wrapper around the Vulkan API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gyroflow/gyroflow</title>
-    <updated>2022-08-02T01:54:19Z</updated>
-    <id>tag:github.com,2022-08-02:/gyroflow/gyroflow</id>
-    <link href="https://github.com/gyroflow/gyroflow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Video stabilization using gyroscope data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -5,24 +5,24 @@
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devopseasylearning/terroform-s2-session</title>
+    <title>cloudposse/terraform-aws-config-storage</title>
     <updated>2022-08-02T01:43:52Z</updated>
-    <id>tag:github.com,2022-08-02:/devopseasylearning/terroform-s2-session</id>
-    <link href="https://github.com/devopseasylearning/terroform-s2-session" rel="alternate"></link>
+    <id>tag:github.com,2022-08-02:/cloudposse/terraform-aws-config-storage</id>
+    <link href="https://github.com/cloudposse/terraform-aws-config-storage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This module creates an S3 bucket suitable for storing AWS Config data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ned1313/Getting-Started-Terraform</title>
+    <updated>2022-08-02T01:43:52Z</updated>
+    <id>tag:github.com,2022-08-02:/ned1313/Getting-Started-Terraform</id>
+    <link href="https://github.com/ned1313/Getting-Started-Terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise files for my Pluralsight course&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rahulwagh/Terraform-Topics</title>
+    <updated>2022-08-02T01:43:52Z</updated>
+    <id>tag:github.com,2022-08-02:/rahulwagh/Terraform-Topics</id>
+    <link href="https://github.com/rahulwagh/Terraform-Topics" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/azure-spring-apps-reference-architecture</title>
-    <updated>2022-08-02T01:43:52Z</updated>
-    <id>tag:github.com,2022-08-02:/Azure/azure-spring-apps-reference-architecture</id>
-    <link href="https://github.com/Azure/azure-spring-apps-reference-architecture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quickstarts for deploying Azure Spring Apps Reference Architecture - using Terraform, ARM Template, Bicep or Azure CLI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nsbno/terraform-aws-api-gateway</title>
-    <updated>2022-08-02T01:43:52Z</updated>
-    <id>tag:github.com,2022-08-02:/nsbno/terraform-aws-api-gateway</id>
-    <link href="https://github.com/nsbno/terraform-aws-api-gateway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Setup API Gateway with an OpenAPI Schema&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
