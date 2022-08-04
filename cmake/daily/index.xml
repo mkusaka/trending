@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:37:54Z</updated>
+  <updated>2022-08-04T01:36:43Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GlistPlugins/gipEmpty</title>
+    <updated>2022-08-04T01:36:43Z</updated>
+    <id>tag:github.com,2022-08-04:/GlistPlugins/gipEmpty</id>
+    <link href="https://github.com/GlistPlugins/gipEmpty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Empty plugin template to use in the creation of new GlistEngine plugins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thelfer/MFrontGallery</title>
+    <updated>2022-08-04T01:36:43Z</updated>
+    <id>tag:github.com,2022-08-04:/thelfer/MFrontGallery</id>
+    <link href="https://github.com/thelfer/MFrontGallery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project shows how to create a compilation project for MFront properties, behaviours and models&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

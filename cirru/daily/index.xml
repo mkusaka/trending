@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cirru Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:37:21Z</updated>
+  <updated>2022-08-04T01:36:16Z</updated>
   <subtitle>Daily Trending of Cirru in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chai2010/china-programming-languages</title>
+    <updated>2022-08-04T01:36:16Z</updated>
+    <id>tag:github.com,2022-08-04:/chai2010/china-programming-languages</id>
+    <link href="https://github.com/chai2010/china-programming-languages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🇨🇳 中国人主导的编程语言列表(欢迎PR)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

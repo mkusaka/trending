@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:40:40Z</updated>
+  <updated>2022-08-04T01:39:24Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>membraneframework/membrane_rtc_engine</title>
+    <updated>2022-08-04T01:39:24Z</updated>
+    <id>tag:github.com,2022-08-04:/membraneframework/membrane_rtc_engine</id>
+    <link href="https://github.com/membraneframework/membrane_rtc_engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Customizable Real-time Communication Engine/SFU library focused on WebRTC.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>commanded/commanded</title>
+    <updated>2022-08-04T01:39:24Z</updated>
+    <id>tag:github.com,2022-08-04:/commanded/commanded</id>
+    <link href="https://github.com/commanded/commanded" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use Commanded to build Elixir CQRS/ES applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sumup-bank/journey</title>
+    <updated>2022-08-04T01:39:24Z</updated>
+    <id>tag:github.com,2022-08-04:/sumup-bank/journey</id>
+    <link href="https://github.com/sumup-bank/journey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple sagas pattern implementation in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

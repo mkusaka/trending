@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:38:54Z</updated>
+  <updated>2022-08-04T01:37:41Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chengdazhi/Deformable-Convolution-V2-PyTorch</title>
+    <updated>2022-08-04T01:37:41Z</updated>
+    <id>tag:github.com,2022-08-04:/chengdazhi/Deformable-Convolution-V2-PyTorch</id>
+    <link href="https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deformable ConvNets V2 (DCNv2) in PyTorch&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

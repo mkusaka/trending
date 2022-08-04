@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:36:12Z</updated>
+  <updated>2022-08-04T01:34:43Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Gordonby/servicebus-dotnet-functionapp</title>
+    <updated>2022-08-04T01:34:43Z</updated>
+    <id>tag:github.com,2022-08-04:/Gordonby/servicebus-dotnet-functionapp</id>
+    <link href="https://github.com/Gordonby/servicebus-dotnet-functionapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provides an azd template for using Function Apps with Service Bus using native bindings. Get started with service bus and functions, faster!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

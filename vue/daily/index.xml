@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:58:54Z</updated>
+  <updated>2022-08-04T01:58:08Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/vue-notus</title>
-    <updated>2022-08-02T01:58:54Z</updated>
-    <id>tag:github.com,2022-08-02:/creativetimofficial/vue-notus</id>
-    <link href="https://github.com/creativetimofficial/vue-notus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue Notus: Free Tailwind CSS UI Kit and Admin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rubjo/victor-mono</title>
+    <updated>2022-08-04T01:58:08Z</updated>
+    <id>tag:github.com,2022-08-04:/rubjo/victor-mono</id>
+    <link href="https://github.com/rubjo/victor-mono" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free programming font with cursive italics and ligatures. Donations welcome ❤️&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>web2033/vite-vue3-tailwind-starter</title>
+    <updated>2022-08-04T01:58:08Z</updated>
+    <id>tag:github.com,2022-08-04:/web2033/vite-vue3-tailwind-starter</id>
+    <link href="https://github.com/web2033/vite-vue3-tailwind-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vite, Vue3, Tailwind CSS (single-page app)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AbelChe/cola_dnslog</title>
+    <updated>2022-08-04T01:58:08Z</updated>
+    <id>tag:github.com,2022-08-04:/AbelChe/cola_dnslog</id>
+    <link href="https://github.com/AbelChe/cola_dnslog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cola Dnslog v1.2.1 更加强大的dnslog平台/无回显漏洞探测辅助平台 完全开源 dnslog httplog ldaplog rmilog 支持dns http ldap rmi等协议 提供API调用方式便于与其他工具结合 支持钉钉机器人、Bark等提醒 后续更新docker一键部署 后端完全使用python实现 前端基于vue-element-admin二开&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

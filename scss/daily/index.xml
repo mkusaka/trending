@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:54:44Z</updated>
+  <updated>2022-08-04T01:53:57Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MLH-Fellowship/prep-portfolio-22.AUG.PREP.2</title>
+    <updated>2022-08-04T01:53:57Z</updated>
+    <id>tag:github.com,2022-08-04:/MLH-Fellowship/prep-portfolio-22.AUG.PREP.2</id>
+    <link href="https://github.com/MLH-Fellowship/prep-portfolio-22.AUG.PREP.2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MLH Prep Portfolio for Pod 22.AUG.PREP.2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jobspacecreative/desafio-front-end</title>
+    <updated>2022-08-04T01:53:57Z</updated>
+    <id>tag:github.com,2022-08-04:/jobspacecreative/desafio-front-end</id>
+    <link href="https://github.com/jobspacecreative/desafio-front-end" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/vue-now-ui-kit</title>
+    <updated>2022-08-04T01:53:57Z</updated>
+    <id>tag:github.com,2022-08-04:/creativetimofficial/vue-now-ui-kit</id>
+    <link href="https://github.com/creativetimofficial/vue-now-ui-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue Now UI Kit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

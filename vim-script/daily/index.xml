@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:58:43Z</updated>
+  <updated>2022-08-04T01:57:59Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vimlab/split-term.vim</title>
-    <updated>2022-08-02T01:58:43Z</updated>
-    <id>tag:github.com,2022-08-02:/vimlab/split-term.vim</id>
-    <link href="https://github.com/vimlab/split-term.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilites around neovim&#39;s `:terminal`.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruxandraburtica/vim</title>
+    <updated>2022-08-04T01:57:59Z</updated>
+    <id>tag:github.com,2022-08-04:/ruxandraburtica/vim</id>
+    <link href="https://github.com/ruxandraburtica/vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>google/vim-maktaba</title>
+    <updated>2022-08-04T01:57:59Z</updated>
+    <id>tag:github.com,2022-08-04:/google/vim-maktaba</id>
+    <link href="https://github.com/google/vim-maktaba" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Consistent Vimscript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rodjek/vim-puppet</title>
+    <updated>2022-08-04T01:57:59Z</updated>
+    <id>tag:github.com,2022-08-04:/rodjek/vim-puppet</id>
+    <link href="https://github.com/rodjek/vim-puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet niceties for your Vim setup&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

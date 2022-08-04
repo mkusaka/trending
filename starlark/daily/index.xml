@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:56:16Z</updated>
+  <updated>2022-08-04T01:55:27Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bazelbuild/rules_pkg</title>
+    <updated>2022-08-04T01:55:27Z</updated>
+    <id>tag:github.com,2022-08-04:/bazelbuild/rules_pkg</id>
+    <link href="https://github.com/bazelbuild/rules_pkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

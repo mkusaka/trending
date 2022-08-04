@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-02T01:34:11Z</updated>
+  <updated>2022-08-04T01:32:48Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kleiton0x00/Advanced-SQL-Injection-Cheatsheet</title>
-    <updated>2022-08-02T01:34:11Z</updated>
-    <id>tag:github.com,2022-08-02:/kleiton0x00/Advanced-SQL-Injection-Cheatsheet</id>
-    <link href="https://github.com/kleiton0x00/Advanced-SQL-Injection-Cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cheat sheet that contains advanced queries for SQL Injection of all types.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antoniosarosi/Wallpapers</title>
+    <updated>2022-08-04T01:32:48Z</updated>
+    <id>tag:github.com,2022-08-04:/antoniosarosi/Wallpapers</id>
+    <link href="https://github.com/antoniosarosi/Wallpapers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sindresorhus/awesome-nodejs</title>
-    <updated>2022-08-02T01:34:11Z</updated>
-    <id>tag:github.com,2022-08-02:/sindresorhus/awesome-nodejs</id>
-    <link href="https://github.com/sindresorhus/awesome-nodejs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ Delightful Node.js packages and resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MoienTajik/AspNetCore-Developer-Roadmap</title>
+    <updated>2022-08-04T01:32:48Z</updated>
+    <id>tag:github.com,2022-08-04:/MoienTajik/AspNetCore-Developer-Roadmap</id>
+    <link href="https://github.com/MoienTajik/AspNetCore-Developer-Roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Roadmap to becoming an ASP.NET Core developer in 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spiritualized1997/openFPGA-GB-GBC</title>
-    <updated>2022-08-02T01:34:11Z</updated>
-    <id>tag:github.com,2022-08-02:/spiritualized1997/openFPGA-GB-GBC</id>
-    <link href="https://github.com/spiritualized1997/openFPGA-GB-GBC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game Boy and Game Boy Color cores for openFPGA on Analogue Pocket&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>razrabs-media/editorial</title>
+    <updated>2022-08-04T01:32:48Z</updated>
+    <id>tag:github.com,2022-08-04:/razrabs-media/editorial</id>
+    <link href="https://github.com/razrabs-media/editorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;editorial&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
