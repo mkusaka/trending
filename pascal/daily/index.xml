@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:49:47Z</updated>
+  <updated>2022-08-05T01:48:58Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sysrpl/Tiny.Sim</title>
-    <updated>2022-08-04T01:49:47Z</updated>
-    <id>tag:github.com,2022-08-04:/sysrpl/Tiny.Sim</id>
-    <link href="https://github.com/sysrpl/Tiny.Sim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross platform real time 2D/3D graphics and 2D physics simulation library for Free Pascal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LordOfTrident/pas-wpm</title>
+    <updated>2022-08-05T01:48:58Z</updated>
+    <id>tag:github.com,2022-08-05:/LordOfTrident/pas-wpm</id>
+    <link href="https://github.com/LordOfTrident/pas-wpm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple WPM measurement program&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

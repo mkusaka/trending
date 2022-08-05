@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:58:08Z</updated>
+  <updated>2022-08-05T01:56:36Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rubjo/victor-mono</title>
-    <updated>2022-08-04T01:58:08Z</updated>
-    <id>tag:github.com,2022-08-04:/rubjo/victor-mono</id>
-    <link href="https://github.com/rubjo/victor-mono" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A free programming font with cursive italics and ligatures. Donations welcome ❤️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KKKyrie/giftie</title>
+    <updated>2022-08-05T01:56:36Z</updated>
+    <id>tag:github.com,2022-08-05:/KKKyrie/giftie</id>
+    <link href="https://github.com/KKKyrie/giftie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个用来搞定「送礼问题」的终极解决方案&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>web2033/vite-vue3-tailwind-starter</title>
-    <updated>2022-08-04T01:58:08Z</updated>
-    <id>tag:github.com,2022-08-04:/web2033/vite-vue3-tailwind-starter</id>
-    <link href="https://github.com/web2033/vite-vue3-tailwind-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vite, Vue3, Tailwind CSS (single-page app)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HC200ok/vue3-easy-data-table</title>
+    <updated>2022-08-05T01:56:36Z</updated>
+    <id>tag:github.com,2022-08-05:/HC200ok/vue3-easy-data-table</id>
+    <link href="https://github.com/HC200ok/vue3-easy-data-table" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A customizable and easy-to-use data table component made with Vue.js 3.x&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AbelChe/cola_dnslog</title>
-    <updated>2022-08-04T01:58:08Z</updated>
-    <id>tag:github.com,2022-08-04:/AbelChe/cola_dnslog</id>
-    <link href="https://github.com/AbelChe/cola_dnslog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cola Dnslog v1.2.1 更加强大的dnslog平台/无回显漏洞探测辅助平台 完全开源 dnslog httplog ldaplog rmilog 支持dns http ldap rmi等协议 提供API调用方式便于与其他工具结合 支持钉钉机器人、Bark等提醒 后续更新docker一键部署 后端完全使用python实现 前端基于vue-element-admin二开&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Akryum/floating-vue</title>
+    <updated>2022-08-05T01:56:36Z</updated>
+    <id>tag:github.com,2022-08-05:/Akryum/floating-vue</id>
+    <link href="https://github.com/Akryum/floating-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💬 Easy tooltips, popovers, dropdown, menus... for Vue&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

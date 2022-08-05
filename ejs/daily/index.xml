@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:39:20Z</updated>
+  <updated>2022-08-05T01:38:44Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RakaCreativeContent/sih-project</title>
-    <updated>2022-08-04T01:39:20Z</updated>
-    <id>tag:github.com,2022-08-04:/RakaCreativeContent/sih-project</id>
-    <link href="https://github.com/RakaCreativeContent/sih-project" rel="alternate"></link>
+    <title>Jayakrishnan-mk/Node_js_LoginPage</title>
+    <updated>2022-08-05T01:38:44Z</updated>
+    <id>tag:github.com,2022-08-05:/Jayakrishnan-mk/Node_js_LoginPage</id>
+    <link href="https://github.com/Jayakrishnan-mk/Node_js_LoginPage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Jayakrishnan-mk/JK-books</title>
+    <updated>2022-08-05T01:38:44Z</updated>
+    <id>tag:github.com,2022-08-05:/Jayakrishnan-mk/JK-books</id>
+    <link href="https://github.com/Jayakrishnan-mk/JK-books" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

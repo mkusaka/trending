@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:34:55Z</updated>
+  <updated>2022-08-05T01:34:49Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>balena-os/balena-coral</title>
+    <updated>2022-08-05T01:34:49Z</updated>
+    <id>tag:github.com,2022-08-05:/balena-os/balena-coral</id>
+    <link href="https://github.com/balena-os/balena-coral" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>balena-os/balena-compulab</title>
+    <updated>2022-08-05T01:34:49Z</updated>
+    <id>tag:github.com,2022-08-05:/balena-os/balena-compulab</id>
+    <link href="https://github.com/balena-os/balena-compulab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WebPlatformForEmbedded/meta-wpe</title>
+    <updated>2022-08-05T01:34:49Z</updated>
+    <id>tag:github.com,2022-08-05:/WebPlatformForEmbedded/meta-wpe</id>
+    <link href="https://github.com/WebPlatformForEmbedded/meta-wpe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yocto/OE - Web Platform for Embedded (WPE)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

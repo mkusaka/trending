@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:41:19Z</updated>
+  <updated>2022-08-05T01:40:43Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SamuelSimoes31/Esspotify</title>
-    <updated>2022-08-04T01:41:19Z</updated>
-    <id>tag:github.com,2022-08-04:/SamuelSimoes31/Esspotify</id>
-    <link href="https://github.com/SamuelSimoes31/Esspotify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório do projeto de ESS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EmanoelRafael/ess-ecommerce-app</title>
+    <updated>2022-08-05T01:40:43Z</updated>
+    <id>tag:github.com,2022-08-05:/EmanoelRafael/ess-ecommerce-app</id>
+    <link href="https://github.com/EmanoelRafael/ess-ecommerce-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositório para gerenciamento do projeto da disciplina de Engenharia de Software e Sistemas&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:42:16Z</updated>
+  <updated>2022-08-05T01:41:37Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ianibo/OpenLocalInformationDirectory</title>
-    <updated>2022-08-04T01:42:16Z</updated>
-    <id>tag:github.com,2022-08-04:/ianibo/OpenLocalInformationDirectory</id>
-    <link href="https://github.com/ianibo/OpenLocalInformationDirectory" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Open Source federated information directory making it easier for orgs such as libraries and local gov depts to manage, publish and search spatially tagged, semantically rich informaiton as open data. Initially targeted at UK Public Libraries and LAs but generally applicable. A project under OpenData Sheffield and Better With Data Society.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>marceloemanoel/gradle-environments-plugin</title>
+    <updated>2022-08-05T01:41:37Z</updated>
+    <id>tag:github.com,2022-08-05:/marceloemanoel/gradle-environments-plugin</id>
+    <link href="https://github.com/marceloemanoel/gradle-environments-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plugin to use gradle with files and configurations for each environment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

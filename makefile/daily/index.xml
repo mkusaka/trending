@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:46:22Z</updated>
+  <updated>2022-08-05T01:45:35Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sthakrishnakumar/form_ui</title>
-    <updated>2022-08-04T01:46:22Z</updated>
-    <id>tag:github.com,2022-08-04:/sthakrishnakumar/form_ui</id>
-    <link href="https://github.com/sthakrishnakumar/form_ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;onboard screen,&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kiran11476/food_delivery_app</title>
+    <updated>2022-08-05T01:45:35Z</updated>
+    <id>tag:github.com,2022-08-05:/kiran11476/food_delivery_app</id>
+    <link href="https://github.com/kiran11476/food_delivery_app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>surajadkhari/flutter-fetchapi-with-riverpod-futureprovider</title>
-    <updated>2022-08-04T01:46:22Z</updated>
-    <id>tag:github.com,2022-08-04:/surajadkhari/flutter-fetchapi-with-riverpod-futureprovider</id>
-    <link href="https://github.com/surajadkhari/flutter-fetchapi-with-riverpod-futureprovider" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fetch API using Riverpod-FutureProvider with http&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ucoProject/UCO</title>
+    <updated>2022-08-05T01:45:35Z</updated>
+    <id>tag:github.com,2022-08-05:/ucoProject/UCO</id>
+    <link href="https://github.com/ucoProject/UCO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is for development of the Unified Cyber Ontology.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zeelog/proprietary_vendor_xiaomi</title>
-    <updated>2022-08-04T01:46:22Z</updated>
-    <id>tag:github.com,2022-08-04:/zeelog/proprietary_vendor_xiaomi</id>
-    <link href="https://github.com/zeelog/proprietary_vendor_xiaomi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Xiaomi Mido - Proprietary Blobs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>confluentinc/demos-docker-common</title>
+    <updated>2022-08-05T01:45:35Z</updated>
+    <id>tag:github.com,2022-08-05:/confluentinc/demos-docker-common</id>
+    <link href="https://github.com/confluentinc/demos-docker-common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

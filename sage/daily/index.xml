@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Sage Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:53:23Z</updated>
+  <updated>2022-08-05T01:52:04Z</updated>
   <subtitle>Daily Trending of Sage in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jack4818/Castryck-Decru-SageMath</title>
+    <updated>2022-08-05T01:52:04Z</updated>
+    <id>tag:github.com,2022-08-05:/jack4818/Castryck-Decru-SageMath</id>
+    <link href="https://github.com/jack4818/Castryck-Decru-SageMath" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A SageMath implementation of the Castryck-Decru Key Recovery attack on SIDH&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

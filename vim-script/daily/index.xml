@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:57:59Z</updated>
+  <updated>2022-08-05T01:56:25Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ruxandraburtica/vim</title>
-    <updated>2022-08-04T01:57:59Z</updated>
-    <id>tag:github.com,2022-08-04:/ruxandraburtica/vim</id>
-    <link href="https://github.com/ruxandraburtica/vim" rel="alternate"></link>
+    <title>byterussian/VimConfig</title>
+    <updated>2022-08-05T01:56:25Z</updated>
+    <id>tag:github.com,2022-08-05:/byterussian/VimConfig</id>
+    <link href="https://github.com/byterussian/VimConfig" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>google/vim-maktaba</title>
-    <updated>2022-08-04T01:57:59Z</updated>
-    <id>tag:github.com,2022-08-04:/google/vim-maktaba</id>
-    <link href="https://github.com/google/vim-maktaba" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Consistent Vimscript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pedrohdz/vim-yaml-folds</title>
+    <updated>2022-08-05T01:56:25Z</updated>
+    <id>tag:github.com,2022-08-05:/pedrohdz/vim-yaml-folds</id>
+    <link href="https://github.com/pedrohdz/vim-yaml-folds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;YAML, RAML, EYAML &amp; SaltStack SLS folding for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rodjek/vim-puppet</title>
-    <updated>2022-08-04T01:57:59Z</updated>
-    <id>tag:github.com,2022-08-04:/rodjek/vim-puppet</id>
-    <link href="https://github.com/rodjek/vim-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet niceties for your Vim setup&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rakr/vim-one</title>
+    <updated>2022-08-05T01:56:25Z</updated>
+    <id>tag:github.com,2022-08-05:/rakr/vim-one</id>
+    <link href="https://github.com/rakr/vim-one" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adaptation of one-light and one-dark colorschemes for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

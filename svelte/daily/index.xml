@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:55:47Z</updated>
+  <updated>2022-08-05T01:54:16Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vkurko/calendar</title>
+    <updated>2022-08-05T01:54:16Z</updated>
+    <id>tag:github.com,2022-08-05:/vkurko/calendar</id>
+    <link href="https://github.com/vkurko/calendar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full-sized drag &amp; drop JavaScript event calendar with resource view&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WithSecureLabs/detectree</title>
+    <updated>2022-08-05T01:54:16Z</updated>
+    <id>tag:github.com,2022-08-05:/WithSecureLabs/detectree</id>
+    <link href="https://github.com/WithSecureLabs/detectree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data visualization for blue teams&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

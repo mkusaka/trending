@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:55:02Z</updated>
+  <updated>2022-08-05T01:53:34Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Philogy/huff-weth</title>
-    <updated>2022-08-04T01:55:02Z</updated>
-    <id>tag:github.com,2022-08-04:/Philogy/huff-weth</id>
-    <link href="https://github.com/Philogy/huff-weth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SweetmanTech/Onchain-Music-Metadata</title>
+    <updated>2022-08-05T01:53:34Z</updated>
+    <id>tag:github.com,2022-08-05:/SweetmanTech/Onchain-Music-Metadata</id>
+    <link href="https://github.com/SweetmanTech/Onchain-Music-Metadata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;On-Chain Music Metadata for music NFTs. NPM package with `npm i onchain-music-metadata`.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>huff-language/huff-examples</title>
-    <updated>2022-08-04T01:55:02Z</updated>
-    <id>tag:github.com,2022-08-04:/huff-language/huff-examples</id>
-    <link href="https://github.com/huff-language/huff-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of commonly used, vigorously tested Huff contracts for learning purposes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Bank-Of-Chain/boc-contract-periphery-eth</title>
+    <updated>2022-08-05T01:53:34Z</updated>
+    <id>tag:github.com,2022-08-05:/Bank-Of-Chain/boc-contract-periphery-eth</id>
+    <link href="https://github.com/Bank-Of-Chain/boc-contract-periphery-eth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;periphery contract for Ethereum.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>e-roy/create-web3</title>
+    <updated>2022-08-05T01:53:34Z</updated>
+    <id>tag:github.com,2022-08-05:/e-roy/create-web3</id>
+    <link href="https://github.com/e-roy/create-web3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a quick start boilerplate for developing web3 apps and deploying smart contracts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

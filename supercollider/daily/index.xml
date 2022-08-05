@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SuperCollider Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:55:40Z</updated>
+  <updated>2022-08-05T01:54:09Z</updated>
   <subtitle>Daily Trending of SuperCollider in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AbbottMc/RenderDragonSourceCodeInv</title>
-    <updated>2022-08-04T01:55:40Z</updated>
-    <id>tag:github.com,2022-08-04:/AbbottMc/RenderDragonSourceCodeInv</id>
-    <link href="https://github.com/AbbottMc/RenderDragonSourceCodeInv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse render dragon shaders source code from .bin file&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

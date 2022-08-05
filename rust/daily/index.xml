@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:53:27Z</updated>
+  <updated>2022-08-05T01:52:10Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phiresky/sqlite-zstd</title>
-    <updated>2022-08-04T01:53:27Z</updated>
-    <id>tag:github.com,2022-08-04:/phiresky/sqlite-zstd</id>
-    <link href="https://github.com/phiresky/sqlite-zstd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Transparent dictionary-based row-level compression for SQLite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>budde25/switcheroo</title>
+    <updated>2022-08-05T01:52:10Z</updated>
+    <id>tag:github.com,2022-08-05:/budde25/switcheroo</id>
+    <link href="https://github.com/budde25/switcheroo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross platform, rust implementation for the Tegra X1 bootROM exploit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AleoHQ/snarkOS</title>
-    <updated>2022-08-04T01:53:27Z</updated>
-    <id>tag:github.com,2022-08-04:/AleoHQ/snarkOS</id>
-    <link href="https://github.com/AleoHQ/snarkOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Decentralized Operating System for Zero-Knowledge Applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>barafael/cute-copter</title>
+    <updated>2022-08-05T01:52:10Z</updated>
+    <id>tag:github.com,2022-08-05:/barafael/cute-copter</id>
+    <link href="https://github.com/barafael/cute-copter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bottlerocket-os/bottlerocket</title>
-    <updated>2022-08-04T01:53:27Z</updated>
-    <id>tag:github.com,2022-08-04:/bottlerocket-os/bottlerocket</id>
-    <link href="https://github.com/bottlerocket-os/bottlerocket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An operating system designed for hosting containers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starcoinorg/starcoin</title>
+    <updated>2022-08-05T01:52:10Z</updated>
+    <id>tag:github.com,2022-08-05:/starcoinorg/starcoin</id>
+    <link href="https://github.com/starcoinorg/starcoin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starcoin - A smart contract blockchain network that scales by layering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

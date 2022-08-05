@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:34:37Z</updated>
+  <updated>2022-08-05T01:34:32Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Leonidariogamer/WindowsServerFreeVPS</title>
-    <updated>2022-08-04T01:34:37Z</updated>
-    <id>tag:github.com,2022-08-04:/Leonidariogamer/WindowsServerFreeVPS</id>
-    <link href="https://github.com/Leonidariogamer/WindowsServerFreeVPS" rel="alternate"></link>
+    <title>RDPCHANNEL/RDP-FREE</title>
+    <updated>2022-08-05T01:34:32Z</updated>
+    <id>tag:github.com,2022-08-05:/RDPCHANNEL/RDP-FREE</id>
+    <link href="https://github.com/RDPCHANNEL/RDP-FREE" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>simplilearn-github/Pipeline_Script</title>
-    <updated>2022-08-04T01:34:37Z</updated>
-    <id>tag:github.com,2022-08-04:/simplilearn-github/Pipeline_Script</id>
-    <link href="https://github.com/simplilearn-github/Pipeline_Script" rel="alternate"></link>
+    <title>Liub0myr/MS-Store-for-LTSC-21H2</title>
+    <updated>2022-08-05T01:34:32Z</updated>
+    <id>tag:github.com,2022-08-05:/Liub0myr/MS-Store-for-LTSC-21H2</id>
+    <link href="https://github.com/Liub0myr/MS-Store-for-LTSC-21H2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alijohn3/Free-RDP</title>
+    <updated>2022-08-05T01:34:32Z</updated>
+    <id>tag:github.com,2022-08-05:/alijohn3/Free-RDP</id>
+    <link href="https://github.com/alijohn3/Free-RDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

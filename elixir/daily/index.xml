@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:39:24Z</updated>
+  <updated>2022-08-05T01:38:50Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>membraneframework/membrane_rtc_engine</title>
-    <updated>2022-08-04T01:39:24Z</updated>
-    <id>tag:github.com,2022-08-04:/membraneframework/membrane_rtc_engine</id>
-    <link href="https://github.com/membraneframework/membrane_rtc_engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Customizable Real-time Communication Engine/SFU library focused on WebRTC.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>theblitzapp/elixir_app_gen</title>
+    <updated>2022-08-05T01:38:50Z</updated>
+    <id>tag:github.com,2022-08-05:/theblitzapp/elixir_app_gen</id>
+    <link href="https://github.com/theblitzapp/elixir_app_gen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Config as code generation for elixir applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>commanded/commanded</title>
-    <updated>2022-08-04T01:39:24Z</updated>
-    <id>tag:github.com,2022-08-04:/commanded/commanded</id>
-    <link href="https://github.com/commanded/commanded" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use Commanded to build Elixir CQRS/ES applications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Entropy1729/aleo_wallet</title>
+    <updated>2022-08-05T01:38:50Z</updated>
+    <id>tag:github.com,2022-08-05:/Entropy1729/aleo_wallet</id>
+    <link href="https://github.com/Entropy1729/aleo_wallet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sumup-bank/journey</title>
-    <updated>2022-08-04T01:39:24Z</updated>
-    <id>tag:github.com,2022-08-04:/sumup-bank/journey</id>
-    <link href="https://github.com/sumup-bank/journey" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple sagas pattern implementation in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixir-tesla/tesla</title>
+    <updated>2022-08-05T01:38:50Z</updated>
+    <id>tag:github.com,2022-08-05:/elixir-tesla/tesla</id>
+    <link href="https://github.com/elixir-tesla/tesla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The flexible HTTP client library for Elixir, with support for middleware and multiple adapters.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

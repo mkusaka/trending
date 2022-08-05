@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:54:50Z</updated>
+  <updated>2022-08-05T01:53:21Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>balena-io/contracts</title>
+    <updated>2022-08-05T01:53:21Z</updated>
+    <id>tag:github.com,2022-08-05:/balena-io/contracts</id>
+    <link href="https://github.com/balena-io/contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Balena.io Base Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sagikazarmark/helm-charts</title>
+    <updated>2022-08-05T01:53:21Z</updated>
+    <id>tag:github.com,2022-08-05:/sagikazarmark/helm-charts</id>
+    <link href="https://github.com/sagikazarmark/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Various Helm charts for my own and other projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

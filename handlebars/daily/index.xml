@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:42:22Z</updated>
+  <updated>2022-08-05T01:41:47Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>awesome-kusion/kusion-cookbook</title>
+    <updated>2022-08-05T01:41:47Z</updated>
+    <id>tag:github.com,2022-08-05:/awesome-kusion/kusion-cookbook</id>
+    <link href="https://github.com/awesome-kusion/kusion-cookbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Kusion Cookbook 云原生·中文版 🇨🇳&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>salsalvm/gadgetquebackend</title>
+    <updated>2022-08-05T01:41:47Z</updated>
+    <id>tag:github.com,2022-08-05:/salsalvm/gadgetquebackend</id>
+    <link href="https://github.com/salsalvm/gadgetquebackend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

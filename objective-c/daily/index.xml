@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:48:41Z</updated>
+  <updated>2022-08-05T01:47:51Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>n3tr/JKLanguageBundle</title>
-    <updated>2022-08-04T01:48:41Z</updated>
-    <id>tag:github.com,2022-08-04:/n3tr/JKLanguageBundle</id>
-    <link href="https://github.com/n3tr/JKLanguageBundle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom Language Bundle for Objective-C.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

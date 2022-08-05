@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-04T01:44:26Z</updated>
+  <updated>2022-08-05T01:43:50Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sl-solution/InMemoryDatasets.jl</title>
-    <updated>2022-08-04T01:44:26Z</updated>
-    <id>tag:github.com,2022-08-04:/sl-solution/InMemoryDatasets.jl</id>
-    <link href="https://github.com/sl-solution/InMemoryDatasets.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multithreaded package for working with tabular data in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PumasAI/SimpleChains.jl</title>
-    <updated>2022-08-04T01:44:26Z</updated>
-    <id>tag:github.com,2022-08-04:/PumasAI/SimpleChains.jl</id>
-    <link href="https://github.com/PumasAI/SimpleChains.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple chains&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ENCCS/Julia-for-HPC</title>
-    <updated>2022-08-04T01:44:26Z</updated>
-    <id>tag:github.com,2022-08-04:/ENCCS/Julia-for-HPC</id>
-    <link href="https://github.com/ENCCS/Julia-for-HPC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lesson material for &#34;Julia for high-performance scientific computing&#34; workshops&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MasonProtter/ShapeCheck.jl</title>
+    <updated>2022-08-05T01:43:50Z</updated>
+    <id>tag:github.com,2022-08-05:/MasonProtter/ShapeCheck.jl</id>
+    <link href="https://github.com/MasonProtter/ShapeCheck.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
