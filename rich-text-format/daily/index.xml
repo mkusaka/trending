@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:51:37Z</updated>
+  <updated>2022-08-06T01:53:18Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NuGet/NuGet.Build.Localization</title>
-    <updated>2022-08-05T01:51:37Z</updated>
-    <id>tag:github.com,2022-08-05:/NuGet/NuGet.Build.Localization</id>
-    <link href="https://github.com/NuGet/NuGet.Build.Localization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Holds localization artifacts for NuGet client dlls.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:40:53Z</updated>
+  <updated>2022-08-06T01:41:41Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>QianMo/GPU-Pro-Books-Source-Code</title>
-    <updated>2022-08-05T01:40:53Z</updated>
-    <id>tag:github.com,2022-08-05:/QianMo/GPU-Pro-Books-Source-Code</id>
-    <link href="https://github.com/QianMo/GPU-Pro-Books-Source-Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💿 Source Code Collection of Book &lt;GPU Pro&gt; 1~ 7 | 《GPU Pro》1~ 7 书本源代码珍藏&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TechDevOnGitHub/Lux-Shader</title>
-    <updated>2022-08-05T01:40:53Z</updated>
-    <id>tag:github.com,2022-08-05:/TechDevOnGitHub/Lux-Shader</id>
-    <link href="https://github.com/TechDevOnGitHub/Lux-Shader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Minecraft shader pack based on the popular BSL shader pack, adding quality of life additions and tweaks.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:48:11Z</updated>
+  <updated>2022-08-06T01:49:34Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Yuki-Inoue/ec-ocaml</title>
-    <updated>2022-08-05T01:48:11Z</updated>
-    <id>tag:github.com,2022-08-05:/Yuki-Inoue/ec-ocaml</id>
-    <link href="https://github.com/Yuki-Inoue/ec-ocaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;evolutionary computation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imandra-ai/imandra-reason-parser</title>
+    <updated>2022-08-06T01:49:34Z</updated>
+    <id>tag:github.com,2022-08-06:/imandra-ai/imandra-reason-parser</id>
+    <link href="https://github.com/imandra-ai/imandra-reason-parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reason parser for Imandra (fork of reason&#39;s parser)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dinakajoy/pen-it-down</title>
-    <updated>2022-08-05T01:48:11Z</updated>
-    <id>tag:github.com,2022-08-05:/dinakajoy/pen-it-down</id>
-    <link href="https://github.com/dinakajoy/pen-it-down" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple note-taking app (WIP)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bobzhang/fan</title>
-    <updated>2022-08-05T01:48:11Z</updated>
-    <id>tag:github.com,2022-08-05:/bobzhang/fan</id>
-    <link href="https://github.com/bobzhang/fan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compile-time metaprogramming for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imandra-ai/catapult</title>
+    <updated>2022-08-06T01:49:34Z</updated>
+    <id>tag:github.com,2022-08-06:/imandra-ai/catapult</id>
+    <link href="https://github.com/imandra-ai/catapult" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tracing library for OCaml with catapult/TEF export.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

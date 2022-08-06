@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:47:26Z</updated>
+  <updated>2022-08-06T01:48:51Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>frkngksl/NimicStack</title>
-    <updated>2022-08-05T01:47:26Z</updated>
-    <id>tag:github.com,2022-08-05:/frkngksl/NimicStack</id>
-    <link href="https://github.com/frkngksl/NimicStack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NimicStack is the pure Nim implementation of Call Stack Spoofing technique to mimic legitimate programs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>c-blake/gralg</title>
-    <updated>2022-08-05T01:47:26Z</updated>
-    <id>tag:github.com,2022-08-05:/c-blake/gralg</id>
-    <link href="https://github.com/c-blake/gralg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Classical Graph Algos in Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

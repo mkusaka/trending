@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:46:55Z</updated>
+  <updated>2022-08-06T01:48:19Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>percona/percona-helm-charts</title>
-    <updated>2022-08-05T01:46:55Z</updated>
-    <id>tag:github.com,2022-08-05:/percona/percona-helm-charts</id>
-    <link href="https://github.com/percona/percona-helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of Helm charts for Percona Kubernetes Operators.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timescale/tobs</title>
+    <updated>2022-08-06T01:48:19Z</updated>
+    <id>tag:github.com,2022-08-06:/timescale/tobs</id>
+    <link href="https://github.com/timescale/tobs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;tobs - The Observability Stack for Kubernetes. Easy install of a full observability stack into a k8s cluster with a CLI tool or Helm charts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>timescale/helm-charts</title>
+    <updated>2022-08-06T01:48:19Z</updated>
+    <id>tag:github.com,2022-08-06:/timescale/helm-charts</id>
+    <link href="https://github.com/timescale/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuration and Documentation to run TimescaleDB in your Kubernetes cluster&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

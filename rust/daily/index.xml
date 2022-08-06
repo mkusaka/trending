@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:52:10Z</updated>
+  <updated>2022-08-06T01:53:49Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>budde25/switcheroo</title>
-    <updated>2022-08-05T01:52:10Z</updated>
-    <id>tag:github.com,2022-08-05:/budde25/switcheroo</id>
-    <link href="https://github.com/budde25/switcheroo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross platform, rust implementation for the Tegra X1 bootROM exploit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/arrow-rs</title>
+    <updated>2022-08-06T01:53:49Z</updated>
+    <id>tag:github.com,2022-08-06:/apache/arrow-rs</id>
+    <link href="https://github.com/apache/arrow-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Rust implementation of Apache Arrow&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>barafael/cute-copter</title>
-    <updated>2022-08-05T01:52:10Z</updated>
-    <id>tag:github.com,2022-08-05:/barafael/cute-copter</id>
-    <link href="https://github.com/barafael/cute-copter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>containers/krunvm</title>
+    <updated>2022-08-06T01:53:49Z</updated>
+    <id>tag:github.com,2022-08-06:/containers/krunvm</id>
+    <link href="https://github.com/containers/krunvm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create microVMs from OCI images&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>starcoinorg/starcoin</title>
-    <updated>2022-08-05T01:52:10Z</updated>
-    <id>tag:github.com,2022-08-05:/starcoinorg/starcoin</id>
-    <link href="https://github.com/starcoinorg/starcoin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starcoin - A smart contract blockchain network that scales by layering&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>modus-continens/modus</title>
+    <updated>2022-08-06T01:53:49Z</updated>
+    <id>tag:github.com,2022-08-06:/modus-continens/modus</id>
+    <link href="https://github.com/modus-continens/modus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A language for building Docker/OCI container images&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

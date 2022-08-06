@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:56:36Z</updated>
+  <updated>2022-08-06T01:58:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KKKyrie/giftie</title>
-    <updated>2022-08-05T01:56:36Z</updated>
-    <id>tag:github.com,2022-08-05:/KKKyrie/giftie</id>
-    <link href="https://github.com/KKKyrie/giftie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个用来搞定「送礼问题」的终极解决方案&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wdlhao/vue2-element-touzi-admin</title>
+    <updated>2022-08-06T01:58:59Z</updated>
+    <id>tag:github.com,2022-08-06:/wdlhao/vue2-element-touzi-admin</id>
+    <link href="https://github.com/wdlhao/vue2-element-touzi-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于vue2.0 +vuex+ element-ui后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HC200ok/vue3-easy-data-table</title>
-    <updated>2022-08-05T01:56:36Z</updated>
-    <id>tag:github.com,2022-08-05:/HC200ok/vue3-easy-data-table</id>
-    <link href="https://github.com/HC200ok/vue3-easy-data-table" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A customizable and easy-to-use data table component made with Vue.js 3.x&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>se331-2022/Lab05</title>
+    <updated>2022-08-06T01:58:59Z</updated>
+    <id>tag:github.com,2022-08-06:/se331-2022/Lab05</id>
+    <link href="https://github.com/se331-2022/Lab05" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Akryum/floating-vue</title>
-    <updated>2022-08-05T01:56:36Z</updated>
-    <id>tag:github.com,2022-08-05:/Akryum/floating-vue</id>
-    <link href="https://github.com/Akryum/floating-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💬 Easy tooltips, popovers, dropdown, menus... for Vue&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Zerx0r/Kage</title>
+    <updated>2022-08-06T01:58:59Z</updated>
+    <id>tag:github.com,2022-08-06:/Zerx0r/Kage</id>
+    <link href="https://github.com/Zerx0r/Kage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

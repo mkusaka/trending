@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BlitzBasic Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:34:42Z</updated>
+  <updated>2022-08-06T01:35:02Z</updated>
   <subtitle>Daily Trending of BlitzBasic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eslam3kl/SQLiDetector</title>
-    <updated>2022-08-05T01:34:42Z</updated>
-    <id>tag:github.com,2022-08-05:/eslam3kl/SQLiDetector</id>
-    <link href="https://github.com/eslam3kl/SQLiDetector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple python script that helps you to detect SQL injection &#34;Error based&#34; by sending multiple requests with different payloads and check for 152 regex pattern for different databases.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

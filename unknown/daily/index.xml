@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:32:47Z</updated>
+  <updated>2022-08-06T01:32:44Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nickyie/Cybersecurity-Resources</title>
-    <updated>2022-08-05T01:32:47Z</updated>
-    <id>tag:github.com,2022-08-05:/Nickyie/Cybersecurity-Resources</id>
-    <link href="https://github.com/Nickyie/Cybersecurity-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Library of various cybersecurity resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YDHCUI/manjusaka</title>
+    <updated>2022-08-06T01:32:44Z</updated>
+    <id>tag:github.com,2022-08-06:/YDHCUI/manjusaka</id>
+    <link href="https://github.com/YDHCUI/manjusaka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;牛屎花 一款C2远控&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KEJIXIAOLU/FQ</title>
-    <updated>2022-08-05T01:32:47Z</updated>
-    <id>tag:github.com,2022-08-05:/KEJIXIAOLU/FQ</id>
-    <link href="https://github.com/KEJIXIAOLU/FQ" rel="alternate"></link>
+    <title>willwulfken/MidJourney-Styles-and-Keywords-Reference</title>
+    <updated>2022-08-06T01:32:44Z</updated>
+    <id>tag:github.com,2022-08-06:/willwulfken/MidJourney-Styles-and-Keywords-Reference</id>
+    <link href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>apple/ml-gaudi</title>
+    <updated>2022-08-06T01:32:44Z</updated>
+    <id>tag:github.com,2022-08-06:/apple/ml-gaudi</id>
+    <link href="https://github.com/apple/ml-gaudi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ruesandora/sui-devnet</title>
-    <updated>2022-08-05T01:32:47Z</updated>
-    <id>tag:github.com,2022-08-05:/ruesandora/sui-devnet</id>
-    <link href="https://github.com/ruesandora/sui-devnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sui Devnet rehberi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

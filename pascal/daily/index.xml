@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:48:58Z</updated>
+  <updated>2022-08-06T01:50:25Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LordOfTrident/pas-wpm</title>
-    <updated>2022-08-05T01:48:58Z</updated>
-    <id>tag:github.com,2022-08-05:/LordOfTrident/pas-wpm</id>
-    <link href="https://github.com/LordOfTrident/pas-wpm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple WPM measurement program&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antoniojmsjr/FastReportPrinter</title>
+    <updated>2022-08-06T01:50:25Z</updated>
+    <id>tag:github.com,2022-08-06:/antoniojmsjr/FastReportPrinter</id>
+    <link href="https://github.com/antoniojmsjr/FastReportPrinter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Biblioteca de impressão de relatórios utilizando Fast Report em ambientes multithreading e não GUI(Graphical User Interface) usando spooler de impressão.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

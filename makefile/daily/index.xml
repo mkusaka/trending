@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:45:35Z</updated>
+  <updated>2022-08-06T01:46:57Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kiran11476/food_delivery_app</title>
-    <updated>2022-08-05T01:45:35Z</updated>
-    <id>tag:github.com,2022-08-05:/kiran11476/food_delivery_app</id>
-    <link href="https://github.com/kiran11476/food_delivery_app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/build-harness</title>
+    <updated>2022-08-06T01:46:57Z</updated>
+    <id>tag:github.com,2022-08-06:/cloudposse/build-harness</id>
+    <link href="https://github.com/cloudposse/build-harness" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ucoProject/UCO</title>
-    <updated>2022-08-05T01:45:35Z</updated>
-    <id>tag:github.com,2022-08-05:/ucoProject/UCO</id>
-    <link href="https://github.com/ucoProject/UCO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is for development of the Unified Cyber Ontology.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BecoSystems/spacewar</title>
+    <updated>2022-08-06T01:46:57Z</updated>
+    <id>tag:github.com,2022-08-06:/BecoSystems/spacewar</id>
+    <link href="https://github.com/BecoSystems/spacewar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositório para testes de fork e aprendizado do git&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>confluentinc/demos-docker-common</title>
-    <updated>2022-08-05T01:45:35Z</updated>
-    <id>tag:github.com,2022-08-05:/confluentinc/demos-docker-common</id>
-    <link href="https://github.com/confluentinc/demos-docker-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sighupio/fury-kubernetes-ingress</title>
+    <updated>2022-08-06T01:46:57Z</updated>
+    <id>tag:github.com,2022-08-06:/sighupio/fury-kubernetes-ingress</id>
+    <link href="https://github.com/sighupio/fury-kubernetes-ingress" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fury Kubernetes Ingress - Fury Core Module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-05T01:42:01Z</updated>
+  <updated>2022-08-06T01:43:01Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AndrasKovacs/sett</title>
-    <updated>2022-08-05T01:42:01Z</updated>
-    <id>tag:github.com,2022-08-05:/AndrasKovacs/sett</id>
-    <link href="https://github.com/AndrasKovacs/sett" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Setoid type theory implementation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sett&lt;/h1&gt; &#xA;&lt;p&gt;Setoid type theory implementation (new, WIP)&lt;/p&gt;</summary>
+    <title>imsut/starthaskell</title>
+    <updated>2022-08-06T01:43:01Z</updated>
+    <id>tag:github.com,2022-08-06:/imsut/starthaskell</id>
+    <link href="https://github.com/imsut/starthaskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matthiasgoergens/Tatami</title>
+    <updated>2022-08-06T01:43:01Z</updated>
+    <id>tag:github.com,2022-08-06:/matthiasgoergens/Tatami</id>
+    <link href="https://github.com/matthiasgoergens/Tatami" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tatami&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
