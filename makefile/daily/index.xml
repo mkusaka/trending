@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:46:57Z</updated>
+  <updated>2022-08-07T01:45:38Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudposse/build-harness</title>
-    <updated>2022-08-06T01:46:57Z</updated>
-    <id>tag:github.com,2022-08-06:/cloudposse/build-harness</id>
-    <link href="https://github.com/cloudposse/build-harness" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤖Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>twilio/twilio-oai</title>
+    <updated>2022-08-07T01:45:38Z</updated>
+    <id>tag:github.com,2022-08-07:/twilio/twilio-oai</id>
+    <link href="https://github.com/twilio/twilio-oai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Twilio OpenAPI Specification&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BecoSystems/spacewar</title>
-    <updated>2022-08-06T01:46:57Z</updated>
-    <id>tag:github.com,2022-08-06:/BecoSystems/spacewar</id>
-    <link href="https://github.com/BecoSystems/spacewar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório para testes de fork e aprendizado do git&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>department-of-veterans-affairs/acronyms</title>
+    <updated>2022-08-07T01:45:38Z</updated>
+    <id>tag:github.com,2022-08-07:/department-of-veterans-affairs/acronyms</id>
+    <link href="https://github.com/department-of-veterans-affairs/acronyms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of VA acronyms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sighupio/fury-kubernetes-ingress</title>
-    <updated>2022-08-06T01:46:57Z</updated>
-    <id>tag:github.com,2022-08-06:/sighupio/fury-kubernetes-ingress</id>
-    <link href="https://github.com/sighupio/fury-kubernetes-ingress" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fury Kubernetes Ingress - Fury Core Module&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>esp8266/source-code-examples</title>
+    <updated>2022-08-07T01:45:38Z</updated>
+    <id>tag:github.com,2022-08-07:/esp8266/source-code-examples</id>
+    <link href="https://github.com/esp8266/source-code-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples of code for the ESP8266&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

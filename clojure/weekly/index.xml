@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-07T02:04:22Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>babashka/babashka</title>
+    <updated>2022-08-07T02:04:22Z</updated>
+    <id>tag:github.com,2022-08-07:/babashka/babashka</id>
+    <link href="https://github.com/babashka/babashka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Native, fast starting Clojure interpreter for scripting&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>babashka/nbb</title>
+    <updated>2022-08-07T02:04:22Z</updated>
+    <id>tag:github.com,2022-08-07:/babashka/nbb</id>
+    <link href="https://github.com/babashka/nbb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripting in Clojure on Node.js using SCI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>unclebob/more-speech</title>
+    <updated>2022-08-07T02:04:22Z</updated>
+    <id>tag:github.com,2022-08-07:/unclebob/more-speech</id>
+    <link href="https://github.com/unclebob/more-speech" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Nostr browser in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

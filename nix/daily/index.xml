@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:48:59Z</updated>
+  <updated>2022-08-07T01:47:37Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ckauhaus/nixos-vulnerability-roundup</title>
+    <updated>2022-08-07T01:47:37Z</updated>
+    <id>tag:github.com,2022-08-07:/ckauhaus/nixos-vulnerability-roundup</id>
+    <link href="https://github.com/ckauhaus/nixos-vulnerability-roundup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts and whitelists for the weekly NixOS vulnerability roundups&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>input-output-hk/plutus-starter</title>
+    <updated>2022-08-07T01:47:37Z</updated>
+    <id>tag:github.com,2022-08-07:/input-output-hk/plutus-starter</id>
+    <link href="https://github.com/input-output-hk/plutus-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter project for Plutus apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:39:52Z</updated>
+  <updated>2022-08-07T01:38:58Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FindBoat/.emacs.d</title>
-    <updated>2022-08-06T01:39:52Z</updated>
-    <id>tag:github.com,2022-08-06:/FindBoat/.emacs.d</id>
-    <link href="https://github.com/FindBoat/.emacs.d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my emacs config files.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;My emacs config files. Clone the repository and execute command: ln ~/.emacs.d/.emacs ~/.emacs&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>emacs-straight/eldoc</title>
-    <updated>2022-08-06T01:39:52Z</updated>
-    <id>tag:github.com,2022-08-06:/emacs-straight/eldoc</id>
-    <link href="https://github.com/emacs-straight/eldoc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of the eldoc package from GNU ELPA, current as of 2022-08-06&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>emacs-straight/flymake</title>
-    <updated>2022-08-06T01:39:52Z</updated>
-    <id>tag:github.com,2022-08-06:/emacs-straight/flymake</id>
-    <link href="https://github.com/emacs-straight/flymake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of the flymake package from GNU ELPA, current as of 2022-08-06&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>haji-ali/lp-transient</title>
+    <updated>2022-08-07T01:38:58Z</updated>
+    <id>tag:github.com,2022-08-07:/haji-ali/lp-transient</id>
+    <link href="https://github.com/haji-ali/lp-transient" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A transient menu for lp&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+title: lp-transient.el - A transient menu for lp #+author: Al Haji-Ali #+language: en #+export_file_name: lp-transient.texi #+texinfo_dir_category: Emacs misc features #+texinfo_dir_title: lp-transient: (lp-transient). #+texinfo_dir_desc: A transient menu for lp&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Introduction&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;=lp-transient= provides a menu based on [[https://github.com/magit/transient/][transient]] to call the CUPS printing program =lp= on the current buffer or a selected file.&lt;/p&gt; &#xA;&lt;p&gt;#+CAPTION: Printing menu [[file:lp-transient.png]]&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Configuration&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;=lp-transient= can be enabled for =dired= and [[https://github.com/vedang/pdf-tools/][pdf-tools]] buffers as follows (make sure that =lp-transient.el= is in &lt;del&gt;load-path&lt;/del&gt;)&lt;/p&gt; &#xA;&lt;p&gt;#+begin_src emacs-lisp (require &#39;lp-transient)&lt;/p&gt; &#xA;&lt;p&gt;(with-eval-after-load &#39;dired (define-key dired-mode-map (kbd &#34;C-c C-p&#34;) #&#39;lp-transient-menu))&lt;/p&gt; &#xA;&lt;p&gt;(with-eval-after-load &#39;pdf-tools (define-key pdf-misc-minor-mode-map (kbd &#34;C-c C-p&#34;) #&#39;lp-transient-menu)) #+end_src&lt;/p&gt; &#xA;&lt;p&gt;Or simply call =lp-transient= to print the current buffer or the selected files in =dired=. If a buffer has an associated file, the file is printed, otherwise the buffer content is sent to =lp=.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Additional Features By pressing =d=, you can input the name of the printer. The command =lpstat -a= is used to get a list of installed and network printers. If you have [[https://github.com/haji-ali/async-completing-read][async-completing-read]] installed then the command will be run asynchronously.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

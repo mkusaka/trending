@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:52:20Z</updated>
+  <updated>2022-08-07T01:50:48Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>arch-linux-gui/arch-linux-gui-zen</title>
+    <updated>2022-08-07T01:50:48Z</updated>
+    <id>tag:github.com,2022-08-07:/arch-linux-gui/arch-linux-gui-zen</id>
+    <link href="https://github.com/arch-linux-gui/arch-linux-gui-zen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zen Kernel, BTRFS, Z Shell, ZSTD Compression&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arch-linux-gui/arch-linux-gui-plasma</title>
+    <updated>2022-08-07T01:50:48Z</updated>
+    <id>tag:github.com,2022-08-07:/arch-linux-gui/arch-linux-gui-plasma</id>
+    <link href="https://github.com/arch-linux-gui/arch-linux-gui-plasma" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KDE Themed Edition&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

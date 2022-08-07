@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:58:59Z</updated>
+  <updated>2022-08-07T01:57:11Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wdlhao/vue2-element-touzi-admin</title>
-    <updated>2022-08-06T01:58:59Z</updated>
-    <id>tag:github.com,2022-08-06:/wdlhao/vue2-element-touzi-admin</id>
-    <link href="https://github.com/wdlhao/vue2-element-touzi-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于vue2.0 +vuex+ element-ui后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>se331-2022/Lab05</title>
-    <updated>2022-08-06T01:58:59Z</updated>
-    <id>tag:github.com,2022-08-06:/se331-2022/Lab05</id>
-    <link href="https://github.com/se331-2022/Lab05" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zerx0r/Kage</title>
-    <updated>2022-08-06T01:58:59Z</updated>
-    <id>tag:github.com,2022-08-06:/Zerx0r/Kage</id>
-    <link href="https://github.com/Zerx0r/Kage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kage is Graphical User Interface for Metasploit Meterpreter and Session Handler&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Moosync/Moosync</title>
+    <updated>2022-08-07T01:57:11Z</updated>
+    <id>tag:github.com,2022-08-07:/Moosync/Moosync</id>
+    <link href="https://github.com/Moosync/Moosync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple music player capable of playing local audio or from Youtube or Spotify&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

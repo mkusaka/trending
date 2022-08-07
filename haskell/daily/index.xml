@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:43:01Z</updated>
+  <updated>2022-08-07T01:41:54Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>imsut/starthaskell</title>
-    <updated>2022-08-06T01:43:01Z</updated>
-    <id>tag:github.com,2022-08-06:/imsut/starthaskell</id>
-    <link href="https://github.com/imsut/starthaskell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>matthiasgoergens/Tatami</title>
-    <updated>2022-08-06T01:43:01Z</updated>
-    <id>tag:github.com,2022-08-06:/matthiasgoergens/Tatami</id>
-    <link href="https://github.com/matthiasgoergens/Tatami" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tatami&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>achals/99-questions</title>
+    <updated>2022-08-07T01:41:54Z</updated>
+    <id>tag:github.com,2022-08-07:/achals/99-questions</id>
+    <link href="https://github.com/achals/99-questions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My attempt at: http://www.haskell.org/haskellwiki/99_questions/1_to_10&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;99-questions&lt;/h1&gt; &#xA;&lt;p&gt;My attempt at: &lt;a href=&#34;http://www.haskell.org/haskellwiki/99_questions/1_to_10&#34;&gt;http://www.haskell.org/haskellwiki/99_questions/1_to_10&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

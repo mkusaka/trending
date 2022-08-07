@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:55:29Z</updated>
+  <updated>2022-08-07T01:53:51Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>massun-onibakuchi/nomad-bridge-exploit-poc</title>
-    <updated>2022-08-06T01:55:29Z</updated>
-    <id>tag:github.com,2022-08-06:/massun-onibakuchi/nomad-bridge-exploit-poc</id>
-    <link href="https://github.com/massun-onibakuchi/nomad-bridge-exploit-poc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>smartcontractkit/huff-starter-kit</title>
-    <updated>2022-08-06T01:55:29Z</updated>
-    <id>tag:github.com,2022-08-06:/smartcontractkit/huff-starter-kit</id>
-    <link href="https://github.com/smartcontractkit/huff-starter-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template repo to work with huff smart contracts and learn about low level EVM opcodes. Also Horse ♘.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mdexSwap/contracts</title>
-    <updated>2022-08-06T01:55:29Z</updated>
-    <id>tag:github.com,2022-08-06:/mdexSwap/contracts</id>
-    <link href="https://github.com/mdexSwap/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mdex contracts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

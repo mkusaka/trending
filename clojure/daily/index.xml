@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:36:43Z</updated>
+  <updated>2022-08-07T01:36:05Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zendesk/api_live_tests</title>
-    <updated>2022-08-06T01:36:43Z</updated>
-    <id>tag:github.com,2022-08-06:/zendesk/api_live_tests</id>
-    <link href="https://github.com/zendesk/api_live_tests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zendesk/clj-headlights</title>
-    <updated>2022-08-06T01:36:43Z</updated>
-    <id>tag:github.com,2022-08-06:/zendesk/clj-headlights</id>
-    <link href="https://github.com/zendesk/clj-headlights" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure on Beam&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

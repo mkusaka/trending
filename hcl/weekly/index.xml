@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-07T02:10:12Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terraform-google-modules/terraform-google-vm</title>
+    <updated>2022-08-07T02:10:12Z</updated>
+    <id>tag:github.com,2022-08-07:/terraform-google-modules/terraform-google-vm</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-vm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a collection of opinionated submodules that can be used to provision VMs in GCP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>btkrausen/hashicorp</title>
+    <updated>2022-08-07T02:10:12Z</updated>
+    <id>tag:github.com,2022-08-07:/btkrausen/hashicorp</id>
+    <link href="https://github.com/btkrausen/hashicorp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Random code for HashiCorp related projects, training, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-eventbridge</title>
+    <updated>2022-08-07T02:10:12Z</updated>
+    <id>tag:github.com,2022-08-07:/terraform-aws-modules/terraform-aws-eventbridge</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eventbridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates EventBridge resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

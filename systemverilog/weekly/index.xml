@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SystemVerilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-07T02:23:10Z</updated>
+  <subtitle>Weekly Trending of SystemVerilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rcls/terpine</title>
+    <updated>2022-08-07T02:23:10Z</updated>
+    <id>tag:github.com,2022-08-07:/rcls/terpine</id>
+    <link href="https://github.com/rcls/terpine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Good when mixed with codeine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pulp-platform/iDMA</title>
+    <updated>2022-08-07T02:23:10Z</updated>
+    <id>tag:github.com,2022-08-07:/pulp-platform/iDMA</id>
+    <link href="https://github.com/pulp-platform/iDMA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modular, parametrizable, and highly flexible Data Movement Accelerator (DMA)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

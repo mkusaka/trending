@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:44:57Z</updated>
+  <updated>2022-08-07T01:43:42Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>timholy/SnoopCompile.jl</title>
-    <updated>2022-08-06T01:44:57Z</updated>
-    <id>tag:github.com,2022-08-06:/timholy/SnoopCompile.jl</id>
-    <link href="https://github.com/timholy/SnoopCompile.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Making packages work faster with more extensive precompilation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nealmckee/penumbra</title>
+    <updated>2022-08-07T01:43:42Z</updated>
+    <id>tag:github.com,2022-08-07:/nealmckee/penumbra</id>
+    <link href="https://github.com/nealmckee/penumbra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Penumbra Color Theme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mforets/computacion-cientifica-en-julia</title>
+    <updated>2022-08-07T01:43:42Z</updated>
+    <id>tag:github.com,2022-08-07:/mforets/computacion-cientifica-en-julia</id>
+    <link href="https://github.com/mforets/computacion-cientifica-en-julia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material del curso &#34;Computación Científica en Julia&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

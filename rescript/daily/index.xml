@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:53:14Z</updated>
+  <updated>2022-08-07T01:51:43Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fdaciuk/severino</title>
+    <updated>2022-08-07T01:51:43Z</updated>
+    <id>tag:github.com,2022-08-07:/fdaciuk/severino</id>
+    <link href="https://github.com/fdaciuk/severino" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:47:11Z</updated>
+  <updated>2022-08-07T01:45:53Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>drlocutus/depth-map</title>
-    <updated>2022-08-06T01:47:11Z</updated>
-    <id>tag:github.com,2022-08-06:/drlocutus/depth-map</id>
-    <link href="https://github.com/drlocutus/depth-map" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;depth map Matlab codes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adriencombaz/HybBciCode</title>
-    <updated>2022-08-06T01:47:11Z</updated>
-    <id>tag:github.com,2022-08-06:/adriencombaz/HybBciCode</id>
-    <link href="https://github.com/adriencombaz/HybBciCode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zhoubolei/CAM</title>
+    <updated>2022-08-07T01:45:53Z</updated>
+    <id>tag:github.com,2022-08-07:/zhoubolei/CAM</id>
+    <link href="https://github.com/zhoubolei/CAM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Class Activation Mapping&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-07T02:19:06Z</updated>
+  <subtitle>Weekly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript-contrib/purescript-aff</title>
+    <updated>2022-08-07T02:19:06Z</updated>
+    <id>tag:github.com,2022-08-07:/purescript-contrib/purescript-aff</id>
+    <link href="https://github.com/purescript-contrib/purescript-aff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An asynchronous effect monad for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>andys8/type-signature-com</title>
+    <updated>2022-08-07T02:19:06Z</updated>
+    <id>tag:github.com,2022-08-07:/andys8/type-signature-com</id>
+    <link href="https://github.com/andys8/type-signature-com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Who Wants to Be a Millionaire - but with types&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-form-urlencoded</title>
+    <updated>2022-08-07T02:19:06Z</updated>
+    <id>tag:github.com,2022-08-07:/purescript-contrib/purescript-form-urlencoded</id>
+    <link href="https://github.com/purescript-contrib/purescript-form-urlencoded" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A data type, and encoding / decoding functions for application/x-www-form-urlencoded&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

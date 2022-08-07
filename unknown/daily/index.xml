@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:32:44Z</updated>
+  <updated>2022-08-07T01:32:29Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YDHCUI/manjusaka</title>
-    <updated>2022-08-06T01:32:44Z</updated>
-    <id>tag:github.com,2022-08-06:/YDHCUI/manjusaka</id>
-    <link href="https://github.com/YDHCUI/manjusaka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;牛屎花 一款C2远控&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pratikratadiya/awesome-ml-internships</title>
+    <updated>2022-08-07T01:32:29Z</updated>
+    <id>tag:github.com,2022-08-07:/pratikratadiya/awesome-ml-internships</id>
+    <link href="https://github.com/pratikratadiya/awesome-ml-internships" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of companies offering Machine learning and Data Science internships&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>willwulfken/MidJourney-Styles-and-Keywords-Reference</title>
-    <updated>2022-08-06T01:32:44Z</updated>
-    <id>tag:github.com,2022-08-06:/willwulfken/MidJourney-Styles-and-Keywords-Reference</id>
-    <link href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shieldfy/API-Security-Checklist</title>
+    <updated>2022-08-07T01:32:29Z</updated>
+    <id>tag:github.com,2022-08-07:/shieldfy/API-Security-Checklist</id>
+    <link href="https://github.com/shieldfy/API-Security-Checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Checklist of the most important security countermeasures when designing, testing, and releasing your API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>apple/ml-gaudi</title>
-    <updated>2022-08-06T01:32:44Z</updated>
-    <id>tag:github.com,2022-08-06:/apple/ml-gaudi</id>
-    <link href="https://github.com/apple/ml-gaudi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trickest/inventory</title>
+    <updated>2022-08-07T01:32:29Z</updated>
+    <id>tag:github.com,2022-08-07:/trickest/inventory</id>
+    <link href="https://github.com/trickest/inventory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Asset inventory on public bug bounty programs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:42:56Z</updated>
+  <updated>2022-08-07T01:41:53Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudposse/terraform-aws-cloudfront-cdn</title>
-    <updated>2022-08-06T01:42:56Z</updated>
-    <id>tag:github.com,2022-08-06:/cloudposse/terraform-aws-cloudfront-cdn</id>
-    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-cdn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module that implements a CloudFront Distribution (CDN) for a custom origin.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>avinashmamidi/terraform</title>
+    <updated>2022-08-07T01:41:53Z</updated>
+    <id>tag:github.com,2022-08-07:/avinashmamidi/terraform</id>
+    <link href="https://github.com/avinashmamidi/terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

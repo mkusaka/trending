@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Odin Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-07T02:16:50Z</updated>
+  <subtitle>Weekly Trending of Odin in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DanielGavin/ols</title>
+    <updated>2022-08-07T02:16:50Z</updated>
+    <id>tag:github.com,2022-08-07:/DanielGavin/ols</id>
+    <link href="https://github.com/DanielGavin/ols" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Language server for Odin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

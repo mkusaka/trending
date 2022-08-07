@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-07T02:25:22Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Dashibase/lotion</title>
+    <updated>2022-08-07T02:25:22Z</updated>
+    <id>tag:github.com,2022-08-07:/Dashibase/lotion</id>
+    <link href="https://github.com/Dashibase/lotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source Notion UI built with Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wilfredinni/python-cheatsheet</title>
+    <updated>2022-08-07T02:25:22Z</updated>
+    <id>tag:github.com,2022-08-07:/wilfredinni/python-cheatsheet</id>
+    <link href="https://github.com/wilfredinni/python-cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All-inclusive Python cheatsheet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wdlhao/vue2-element-touzi-admin</title>
+    <updated>2022-08-07T02:25:22Z</updated>
+    <id>tag:github.com,2022-08-07:/wdlhao/vue2-element-touzi-admin</id>
+    <link href="https://github.com/wdlhao/vue2-element-touzi-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于vue2.0 +vuex+ element-ui后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

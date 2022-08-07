@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:58:47Z</updated>
+  <updated>2022-08-07T01:57:00Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kristijanhusak/vim-dadbod-ui</title>
-    <updated>2022-08-06T01:58:47Z</updated>
-    <id>tag:github.com,2022-08-06:/kristijanhusak/vim-dadbod-ui</id>
-    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple UI for https://github.com/tpope/vim-dadbod&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>neoclide/jsonc.vim</title>
+    <updated>2022-08-07T01:57:00Z</updated>
+    <id>tag:github.com,2022-08-07:/neoclide/jsonc.vim</id>
+    <link href="https://github.com/neoclide/jsonc.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;jsonc syntax support for vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>juliosueiras/vim-terraform-completion</title>
-    <updated>2022-08-06T01:58:47Z</updated>
-    <id>tag:github.com,2022-08-06:/juliosueiras/vim-terraform-completion</id>
-    <link href="https://github.com/juliosueiras/vim-terraform-completion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A (Neo)Vim Autocompletion and linter for Terraform, a HashiCorp tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terryma/vim-expand-region</title>
-    <updated>2022-08-06T01:58:47Z</updated>
-    <id>tag:github.com,2022-08-06:/terryma/vim-expand-region</id>
-    <link href="https://github.com/terryma/vim-expand-region" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dyng/ctrlsf.vim</title>
+    <updated>2022-08-07T01:57:00Z</updated>
+    <id>tag:github.com,2022-08-07:/dyng/ctrlsf.vim</id>
+    <link href="https://github.com/dyng/ctrlsf.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

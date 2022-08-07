@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:39:41Z</updated>
+  <updated>2022-08-07T01:38:49Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mojotech/torch</title>
-    <updated>2022-08-06T01:39:41Z</updated>
-    <id>tag:github.com,2022-08-06:/mojotech/torch</id>
-    <link href="https://github.com/mojotech/torch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rapid admin generator for Elixir &amp; Phoenix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ricardoccpaiva/barragenspt</title>
+    <updated>2022-08-07T01:38:49Z</updated>
+    <id>tag:github.com,2022-08-07:/ricardoccpaiva/barragenspt</id>
+    <link href="https://github.com/ricardoccpaiva/barragenspt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CargoSense/briefly</title>
-    <updated>2022-08-06T01:39:41Z</updated>
-    <id>tag:github.com,2022-08-06:/CargoSense/briefly</id>
-    <link href="https://github.com/CargoSense/briefly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple, robust temporary file support for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>peburrows/goth</title>
-    <updated>2022-08-06T01:39:41Z</updated>
-    <id>tag:github.com,2022-08-06:/peburrows/goth</id>
-    <link href="https://github.com/peburrows/goth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir package for Oauth authentication via Google Cloud APIs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>globocom/alchemetrics_tesla</title>
+    <updated>2022-08-07T01:38:49Z</updated>
+    <id>tag:github.com,2022-08-07:/globocom/alchemetrics_tesla</id>
+    <link href="https://github.com/globocom/alchemetrics_tesla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tesla middleware to report external call metrics.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:52:30Z</updated>
+  <updated>2022-08-07T01:50:58Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krlmlr/tidyduck</title>
-    <updated>2022-08-06T01:52:30Z</updated>
-    <id>tag:github.com,2022-08-06:/krlmlr/tidyduck</id>
-    <link href="https://github.com/krlmlr/tidyduck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High-level R bindings for the DuckDB Database Management System&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://duckdb.org/images/DuckDB_Logo_dl.png&#34; height=&#34;50&#34;&gt; &#xA;&lt;h1&gt;duckdb R package&lt;/h1&gt; &#xA;&lt;h2&gt;Installation from CRAN&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install.packages(&#34;duckdb&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;The default build compiles a release version from an amalgamation.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;cd tools/rpkg&#xA;R CMD INSTALL .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Optional extensions can be enabled by passing them (comma-separated, if there is more than one) to the environment variable &lt;code&gt;DUCKDB_R_EXTENSIONS&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;DUCKDB_R_EXTENSIONS=tpch R CMD INSTALL .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Development&lt;/h2&gt; &#xA;&lt;p&gt;For development, setting the &lt;code&gt;DUCKDB_R_DEBUG&lt;/code&gt; environment variable enables incremental debugging builds for the R package.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;cd tools/rpkg&#xA;DUCKDB_R_DEBUG=1 R CMD INSTALL .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This also works for devtools:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;Sys.setenv(DUCKDB_R_DEBUG = &#34;1&#34;)&#xA;pkgload::load_all()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Add the following to your &lt;code&gt;.Renviron&lt;/code&gt; to make this the default:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;DUCKDB_R_DEBUG=1&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If you do this, remember to use &lt;code&gt;--vanilla&lt;/code&gt; for building release builds.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>amatsuo/MB21-Day3</title>
-    <updated>2022-08-06T01:52:30Z</updated>
-    <id>tag:github.com,2022-08-06:/amatsuo/MB21-Day3</id>
-    <link href="https://github.com/amatsuo/MB21-Day3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MB21-Day3&lt;/h1&gt;</summary>
+    <title>CBIIT/CancerDataServices-SubmissionValidationR</title>
+    <updated>2022-08-07T01:50:58Z</updated>
+    <id>tag:github.com,2022-08-07:/CBIIT/CancerDataServices-SubmissionValidationR</id>
+    <link href="https://github.com/CBIIT/CancerDataServices-SubmissionValidationR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool for validating the Cancer Data Service&#39;s (CDS) Metadata Template in R&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CancerDataServices-SubmissionValidationR&lt;/h1&gt; &#xA;&lt;p&gt;Tool for validating the Cancer Data Service&#39;s (CDS) Metadata Template in R&lt;/p&gt; &#xA;&lt;p&gt;This R Script takes a data file that is formatted to the submission template for CDS v1.3 as input. It will output a file that describes whether sections of the Metadata table PASS or ERROR on the checks.&lt;/p&gt; &#xA;&lt;p&gt;To run the script on a CDS v1.3 template, run the following command in a terminal where R is installed for help.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Rscript --vanilla CDS-Submission_ValidationR.R --help&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code&gt;Usage: CDS-Submission_ValidationR.R [options]&#xA;&#xA;CDS-Submission_ValidationR v.1.3.3&#xA;&#xA;Options:&#xA;&#x9;-f CHARACTER, --file=CHARACTER&#xA;&#x9;&#x9;dataset file (.xlsx, .tsv, .csv)&#xA;&#xA;&#x9;-t CHARACTER, --template=CHARACTER&#xA;&#x9;&#x9;dataset template file, CDS_submission_metadata_template-v1.3.xlsx&#xA;&#xA;&#x9;-h, --help&#xA;&#x9;&#x9;Show this help message and exit&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

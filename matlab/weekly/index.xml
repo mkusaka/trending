@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-07T02:14:27Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nfloery/crowd-flow-optimization</title>
+    <updated>2022-08-07T02:14:27Z</updated>
+    <id>tag:github.com,2022-08-07:/nfloery/crowd-flow-optimization</id>
+    <link href="https://github.com/nfloery/crowd-flow-optimization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>drlocutus/depth-map</title>
+    <updated>2022-08-07T02:14:27Z</updated>
+    <id>tag:github.com,2022-08-07:/drlocutus/depth-map</id>
+    <link href="https://github.com/drlocutus/depth-map" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;depth map Matlab codes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>petercorke/robotics-toolbox-matlab</title>
+    <updated>2022-08-07T02:14:27Z</updated>
+    <id>tag:github.com,2022-08-07:/petercorke/robotics-toolbox-matlab</id>
+    <link href="https://github.com/petercorke/robotics-toolbox-matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robotics Toolbox for MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

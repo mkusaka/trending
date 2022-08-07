@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:54:23Z</updated>
+  <updated>2022-08-07T01:52:51Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/material-dashboard-angular2</title>
-    <updated>2022-08-06T01:54:23Z</updated>
-    <id>tag:github.com,2022-08-06:/creativetimofficial/material-dashboard-angular2</id>
-    <link href="https://github.com/creativetimofficial/material-dashboard-angular2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Dashboard Angular&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>creativetimofficial/now-ui-kit-angular</title>
-    <updated>2022-08-06T01:54:23Z</updated>
-    <id>tag:github.com,2022-08-06:/creativetimofficial/now-ui-kit-angular</id>
-    <link href="https://github.com/creativetimofficial/now-ui-kit-angular" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>okta/okta-developer-docs</title>
-    <updated>2022-08-06T01:54:23Z</updated>
-    <id>tag:github.com,2022-08-06:/okta/okta-developer-docs</id>
-    <link href="https://github.com/okta/okta-developer-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;okta-developer-docs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pidcodes/pidcodes.github.com</title>
+    <updated>2022-08-07T01:52:51Z</updated>
+    <id>tag:github.com,2022-08-07:/pidcodes/pidcodes.github.com</id>
+    <link href="https://github.com/pidcodes/pidcodes.github.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Website for pid.codes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

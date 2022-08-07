@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:40:11Z</updated>
+  <updated>2022-08-07T01:39:18Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shortishly/pgmp</title>
+    <updated>2022-08-07T01:39:18Z</updated>
+    <id>tag:github.com,2022-08-07:/shortishly/pgmp</id>
+    <link href="https://github.com/shortishly/pgmp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang/OTP 25 PostgreSQL client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-07T02:04:51Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hexstream/enhanced-multiple-value-bind</title>
+    <updated>2022-08-07T02:04:51Z</updated>
+    <id>tag:github.com,2022-08-07:/Hexstream/enhanced-multiple-value-bind</id>
+    <link href="https://github.com/Hexstream/enhanced-multiple-value-bind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provides an enhanced MULTIPLE-VALUE-BIND macro that adds support for lambda keywords by expanding to a MULTIPLE-VALUE-CALL when necessary. This makes catching multiple-value &amp;rest and &amp;key much more lightweight and convenient. A MULTIPLE-VALUE-&amp;BIND alias is supported.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Project&#39;s home: &lt;a href=&#34;https://www.hexstreamsoft.com/libraries/enhanced-multiple-value-bind/&#34;&gt;https://www.hexstreamsoft.com/libraries/enhanced-multiple-value-bind/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;enhanced-multiple-value-bind provides an enhanced MULTIPLE-VALUE-BIND macro that adds support for lambda keywords by expanding to a MULTIPLE-VALUE-CALL when necessary. This makes catching multiple-value &amp;amp;rest and &amp;amp;key much more lightweight and convenient. A MULTIPLE-VALUE-&amp;amp;BIND alias is supported.&lt;/p&gt; &#xA;&lt;p&gt;This library is in the Public Domain. See the UNLICENSE file for details.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>hoelzl/Par-T</title>
+    <updated>2022-08-07T02:04:51Z</updated>
+    <id>tag:github.com,2022-08-07:/hoelzl/Par-T</id>
+    <link href="https://github.com/hoelzl/Par-T" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Parallel Thetis Compiler&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Parallel Thetis&lt;/h1&gt; &#xA;&lt;p&gt;Parallel Thetis, also known as Par-T, will (hopefully) be the programming language component of the &lt;em&gt;Iliad&lt;/em&gt; system.&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-06T01:56:11Z</updated>
+  <updated>2022-08-07T01:54:33Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>svelteland/svelte-kit-blog-demo</title>
-    <updated>2022-08-06T01:56:11Z</updated>
-    <id>tag:github.com,2022-08-06:/svelteland/svelte-kit-blog-demo</id>
-    <link href="https://github.com/svelteland/svelte-kit-blog-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A demo of a markdown based blog with SvelteKit, deployed to Github Pages.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oslabs-beta/FastForm</title>
+    <updated>2022-08-07T01:54:33Z</updated>
+    <id>tag:github.com,2022-08-07:/oslabs-beta/FastForm</id>
+    <link href="https://github.com/oslabs-beta/FastForm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spences10/sveltekit-vendure-commerce</title>
-    <updated>2022-08-06T01:56:11Z</updated>
-    <id>tag:github.com,2022-08-06:/spences10/sveltekit-vendure-commerce</id>
-    <link href="https://github.com/spences10/sveltekit-vendure-commerce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteKit and Vendure Commerce example 🤝&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rajasegar/svelte-slides</title>
+    <updated>2022-08-07T01:54:33Z</updated>
+    <id>tag:github.com,2022-08-07:/rajasegar/svelte-slides</id>
+    <link href="https://github.com/rajasegar/svelte-slides" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Reveal.js boilerplate with Svelte and Vite&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
