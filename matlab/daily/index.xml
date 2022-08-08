@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:45:53Z</updated>
+  <updated>2022-08-08T01:45:24Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zhoubolei/CAM</title>
-    <updated>2022-08-07T01:45:53Z</updated>
-    <id>tag:github.com,2022-08-07:/zhoubolei/CAM</id>
-    <link href="https://github.com/zhoubolei/CAM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Class Activation Mapping&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>42-AI/Elegant-Elegans</title>
+    <updated>2022-08-08T01:45:24Z</updated>
+    <id>tag:github.com,2022-08-08:/42-AI/Elegant-Elegans</id>
+    <link href="https://github.com/42-AI/Elegant-Elegans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

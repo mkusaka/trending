@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:50:14Z</updated>
+  <updated>2022-08-08T01:49:41Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sarathms007/prolog</title>
+    <updated>2022-08-08T01:49:41Z</updated>
+    <id>tag:github.com,2022-08-08:/sarathms007/prolog</id>
+    <link href="https://github.com/sarathms007/prolog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;basic prgms in prolog&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

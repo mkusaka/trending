@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:49:34Z</updated>
+  <updated>2022-08-08T01:49:04Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Unknown273/Bidding</title>
-    <updated>2022-08-07T01:49:34Z</updated>
-    <id>tag:github.com,2022-08-07:/Unknown273/Bidding</id>
-    <link href="https://github.com/Unknown273/Bidding" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure-Samples/azure-sql-db-fullstack-serverless-kickstart</title>
+    <updated>2022-08-08T01:49:04Z</updated>
+    <id>tag:github.com,2022-08-08:/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart</id>
+    <link href="https://github.com/Azure-Samples/azure-sql-db-fullstack-serverless-kickstart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

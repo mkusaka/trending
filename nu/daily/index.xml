@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nu Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:47:40Z</updated>
+  <updated>2022-08-08T01:47:09Z</updated>
   <subtitle>Daily Trending of Nu in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>skelly37/nupac</title>
+    <updated>2022-08-08T01:47:09Z</updated>
+    <id>tag:github.com,2022-08-08:/skelly37/nupac</id>
+    <link href="https://github.com/skelly37/nupac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nu package manager written entirely in nu &amp; for nu&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

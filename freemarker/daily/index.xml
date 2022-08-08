@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub FreeMarker Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:39:57Z</updated>
+  <updated>2022-08-08T01:39:28Z</updated>
   <subtitle>Daily Trending of FreeMarker in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MoeOxygen/halo-theme-fantasy</title>
-    <updated>2022-08-07T01:39:57Z</updated>
-    <id>tag:github.com,2022-08-07:/MoeOxygen/halo-theme-fantasy</id>
-    <link href="https://github.com/MoeOxygen/halo-theme-fantasy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Halo博客主题Fantasy&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:52:21Z</updated>
+  <updated>2022-08-08T01:51:41Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cross-rs/cross</title>
-    <updated>2022-08-07T01:52:21Z</updated>
-    <id>tag:github.com,2022-08-07:/cross-rs/cross</id>
-    <link href="https://github.com/cross-rs/cross" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;“Zero setup” cross compilation and “cross testing” of Rust crates&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iced-rs/iced</title>
+    <updated>2022-08-08T01:51:41Z</updated>
+    <id>tag:github.com,2022-08-08:/iced-rs/iced</id>
+    <link href="https://github.com/iced-rs/iced" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform GUI library for Rust, inspired by Elm&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shaunsingh/oxocarbon.nvim</title>
-    <updated>2022-08-07T01:52:21Z</updated>
-    <id>tag:github.com,2022-08-07:/shaunsingh/oxocarbon.nvim</id>
-    <link href="https://github.com/shaunsingh/oxocarbon.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dark and light Neovim theme written in Rust, inspired by IBM Carbon.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>julianbuettner/tcp-over-http</title>
+    <updated>2022-08-08T01:51:41Z</updated>
+    <id>tag:github.com,2022-08-08:/julianbuettner/tcp-over-http</id>
+    <link href="https://github.com/julianbuettner/tcp-over-http" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mCaptcha/mCaptcha</title>
-    <updated>2022-08-07T01:52:21Z</updated>
-    <id>tag:github.com,2022-08-07:/mCaptcha/mCaptcha</id>
-    <link href="https://github.com/mCaptcha/mCaptcha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A no-nonsense CAPTCHA system with seamless UX | Backend component&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>m1911star/affine-client</title>
+    <updated>2022-08-08T01:51:41Z</updated>
+    <id>tag:github.com,2022-08-08:/m1911star/affine-client</id>
+    <link href="https://github.com/m1911star/affine-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;client for https://github.com/toeverything/AFFiNE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:54:41Z</updated>
+  <updated>2022-08-08T01:53:56Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hdl-util/hdmi</title>
-    <updated>2022-08-07T01:54:41Z</updated>
-    <id>tag:github.com,2022-08-07:/hdl-util/hdmi</id>
-    <link href="https://github.com/hdl-util/hdmi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Send video/audio over HDMI on an FPGA&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>makslevental/bragghls</title>
+    <updated>2022-08-08T01:53:56Z</updated>
+    <id>tag:github.com,2022-08-08:/makslevental/bragghls</id>
+    <link href="https://github.com/makslevental/bragghls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PyTorch model to RTL flow for low latency inference&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>taichi-ishitani/tvip-axi</title>
+    <updated>2022-08-08T01:53:56Z</updated>
+    <id>tag:github.com,2022-08-08:/taichi-ishitani/tvip-axi</id>
+    <link href="https://github.com/taichi-ishitani/tvip-axi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AMBA AXI VIP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

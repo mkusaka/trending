@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:41:54Z</updated>
+  <updated>2022-08-08T01:41:22Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>achals/99-questions</title>
-    <updated>2022-08-07T01:41:54Z</updated>
-    <id>tag:github.com,2022-08-07:/achals/99-questions</id>
-    <link href="https://github.com/achals/99-questions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My attempt at: http://www.haskell.org/haskellwiki/99_questions/1_to_10&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;99-questions&lt;/h1&gt; &#xA;&lt;p&gt;My attempt at: &lt;a href=&#34;http://www.haskell.org/haskellwiki/99_questions/1_to_10&#34;&gt;http://www.haskell.org/haskellwiki/99_questions/1_to_10&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>fryguybob/diagrams-examples</title>
+    <updated>2022-08-08T01:41:22Z</updated>
+    <id>tag:github.com,2022-08-08:/fryguybob/diagrams-examples</id>
+    <link href="https://github.com/fryguybob/diagrams-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Random examples in diagrams.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;diagrams-examples&lt;/h1&gt; &#xA;&lt;p&gt;Random examples in diagrams.&lt;/p&gt; &#xA;&lt;h2&gt;&lt;code&gt;puzzle&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;Project to solve a 3d puzzle. Diagrams projections and Rasterific&#39;s &lt;code&gt;gifMain&lt;/code&gt; are used to visualize the pieces.&lt;/p&gt; &#xA;&lt;h2&gt;&lt;code&gt;weave&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;Playing with 1.3 intersections, exploring what will be nice for an API that includes intersection parameters.&lt;/p&gt; &#xA;&lt;h2&gt;&lt;code&gt;lion&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;Eventually will turn into a wall hanging made from felt squares.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>awakesecurity/gRPC-haskell</title>
+    <updated>2022-08-08T01:41:22Z</updated>
+    <id>tag:github.com,2022-08-08:/awakesecurity/gRPC-haskell</id>
+    <link href="https://github.com/awakesecurity/gRPC-haskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haskell gRPC support&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Attribution&lt;/h2&gt; &#xA;&lt;p&gt;This library is a fork of &lt;a href=&#34;https://github.com/aloiscochard/grpc-haskell&#34;&gt;https://github.com/aloiscochard/grpc-haskell&lt;/a&gt; that we have extended and released under the same &lt;a href=&#34;https://raw.githubusercontent.com/awakesecurity/gRPC-haskell/master/LICENSE&#34;&gt;&lt;code&gt;LICENSE&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;The current version of this library requires gRPC version 1.34.1. Newer versions may work but have not been tested.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;There is a tutorial &lt;a href=&#34;https://raw.githubusercontent.com/awakesecurity/gRPC-haskell/master/examples/tutorial/TUTORIAL.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Building and testing&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;nix-build release.nix -A grpc-haskell&lt;/code&gt; will build and test the whole thing and put the completed package into the nix store. &lt;code&gt;nix-shell&lt;/code&gt; can be used to give you a development environment where you can use &lt;code&gt;cabal&lt;/code&gt; for development and testing:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ nix-shell&#xA;[nix-shell]$ cabal configure --enable-tests &amp;amp;&amp;amp; cabal build &amp;amp;&amp;amp; cabal test&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Using the Library&lt;/h2&gt; &#xA;&lt;p&gt;You must compile with &lt;code&gt;-threaded&lt;/code&gt;, because we rely on being able to execute Haskell while blocking on foreign calls to the gRPC library. If not using code generation, the recommended place to start is in the &lt;code&gt;Network.GRPC.HighLevel.Server.Unregistered&lt;/code&gt; module, where &lt;code&gt;serverLoop&lt;/code&gt; provides a handler loop.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>binplz/binplz.dev</title>
+    <updated>2022-08-08T01:41:22Z</updated>
+    <id>tag:github.com,2022-08-08:/binplz/binplz.dev</id>
+    <link href="https://github.com/binplz/binplz.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;binplz.dev&lt;/p&gt;&lt;hr&gt;&lt;h1 align=&#34;center&#34;&gt;binplz.dev&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;$ curl -O binplz.dev/cowsay&#xA;$ chmod +x cowsay&#xA;$ ./cowsay moo&#xA; _____ &#xA;&amp;lt; moo &amp;gt;&#xA; ----- &#xA;        \   ^__^&#xA;         \  (oo)\_______&#xA;            (__)\       )\/\&#xA;                ||----w |&#xA;                ||     ||&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:45:38Z</updated>
+  <updated>2022-08-08T01:45:08Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>twilio/twilio-oai</title>
-    <updated>2022-08-07T01:45:38Z</updated>
-    <id>tag:github.com,2022-08-07:/twilio/twilio-oai</id>
-    <link href="https://github.com/twilio/twilio-oai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Twilio OpenAPI Specification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>confluentinc/ksqldb-recipes</title>
+    <updated>2022-08-08T01:45:08Z</updated>
+    <id>tag:github.com,2022-08-08:/confluentinc/ksqldb-recipes</id>
+    <link href="https://github.com/confluentinc/ksqldb-recipes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>department-of-veterans-affairs/acronyms</title>
-    <updated>2022-08-07T01:45:38Z</updated>
-    <id>tag:github.com,2022-08-07:/department-of-veterans-affairs/acronyms</id>
-    <link href="https://github.com/department-of-veterans-affairs/acronyms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of VA acronyms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>procount/pinn</title>
+    <updated>2022-08-08T01:45:08Z</updated>
+    <id>tag:github.com,2022-08-08:/procount/pinn</id>
+    <link href="https://github.com/procount/pinn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An enhanced Operating System installer for the Raspberry Pi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>esp8266/source-code-examples</title>
-    <updated>2022-08-07T01:45:38Z</updated>
-    <id>tag:github.com,2022-08-07:/esp8266/source-code-examples</id>
-    <link href="https://github.com/esp8266/source-code-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples of code for the ESP8266&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LineageOS/android_device_qcom_sepolicy_vndr</title>
+    <updated>2022-08-08T01:45:08Z</updated>
+    <id>tag:github.com,2022-08-08:/LineageOS/android_device_qcom_sepolicy_vndr</id>
+    <link href="https://github.com/LineageOS/android_device_qcom_sepolicy_vndr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:34:01Z</updated>
+  <updated>2022-08-08T01:33:22Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fffb/7zDT</title>
+    <updated>2022-08-08T01:33:22Z</updated>
+    <id>tag:github.com,2022-08-08:/fffb/7zDT</id>
+    <link href="https://github.com/fffb/7zDT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add &#34;date / time&#34; to 7-Zip&#39;s &#34;Add to Archive&#34; window. 给 7-Zip 压缩界面添加“日期/时间命名”功能&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

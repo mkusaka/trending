@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:57:11Z</updated>
+  <updated>2022-08-08T01:56:20Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Moosync/Moosync</title>
-    <updated>2022-08-07T01:57:11Z</updated>
-    <id>tag:github.com,2022-08-07:/Moosync/Moosync</id>
-    <link href="https://github.com/Moosync/Moosync" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple music player capable of playing local audio or from Youtube or Spotify&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wudskq/wc-manager-ui</title>
+    <updated>2022-08-08T01:56:20Z</updated>
+    <id>tag:github.com,2022-08-08:/wudskq/wc-manager-ui</id>
+    <link href="https://github.com/wudskq/wc-manager-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;公厕管理平台(前端项目)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>biaochenxuying/blog-vue-typescript</title>
+    <updated>2022-08-08T01:56:20Z</updated>
+    <id>tag:github.com,2022-08-08:/biaochenxuying/blog-vue-typescript</id>
+    <link href="https://github.com/biaochenxuying/blog-vue-typescript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue3 + TypeScript + Vite2 + Vuex4 + Vue-Router4 + element-plus 支持 markdown 渲染的博客前台展示&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

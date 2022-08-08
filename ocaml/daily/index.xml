@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:48:13Z</updated>
+  <updated>2022-08-08T01:47:36Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheLortex/mirage-monorepo</title>
-    <updated>2022-08-07T01:48:13Z</updated>
-    <id>tag:github.com,2022-08-07:/TheLortex/mirage-monorepo</id>
-    <link href="https://github.com/TheLortex/mirage-monorepo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A monorepo of mirage packages that work with OCaml 5 using effects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>geocaml/carbon-intensity</title>
-    <updated>2022-08-07T01:48:13Z</updated>
-    <id>tag:github.com,2022-08-07:/geocaml/carbon-intensity</id>
-    <link href="https://github.com/geocaml/carbon-intensity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An HTTP client for accessing various carbon intensity APIs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:33:55Z</updated>
+  <updated>2022-08-08T01:33:15Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PDP-10/its</title>
-    <updated>2022-08-07T01:33:55Z</updated>
-    <id>tag:github.com,2022-08-07:/PDP-10/its</id>
-    <link href="https://github.com/PDP-10/its" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Incompatible Timesharing System&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PrincetonUniversity/openpiton</title>
-    <updated>2022-08-07T01:33:55Z</updated>
-    <id>tag:github.com,2022-08-07:/PrincetonUniversity/openpiton</id>
-    <link href="https://github.com/PrincetonUniversity/openpiton" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The OpenPiton Platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>1Password/ring</title>
-    <updated>2022-08-07T01:33:55Z</updated>
-    <id>tag:github.com,2022-08-07:/1Password/ring</id>
-    <link href="https://github.com/1Password/ring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fork of https://github.com/briansmith/ring&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

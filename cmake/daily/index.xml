@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-07T01:36:14Z</updated>
+  <updated>2022-08-08T01:35:30Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>openxla/stablehlo</title>
-    <updated>2022-08-07T01:36:14Z</updated>
-    <id>tag:github.com,2022-08-07:/openxla/stablehlo</id>
-    <link href="https://github.com/openxla/stablehlo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Backward compatible ML compute opset inspired by HLO/MHLO&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Celemony/ARA_SDK</title>
+    <updated>2022-08-08T01:35:30Z</updated>
+    <id>tag:github.com,2022-08-08:/Celemony/ARA_SDK</id>
+    <link href="https://github.com/Celemony/ARA_SDK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Umbrella installer for all ARA SDK submodules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PX4/px4_msgs</title>
+    <updated>2022-08-08T01:35:30Z</updated>
+    <id>tag:github.com,2022-08-08:/PX4/px4_msgs</id>
+    <link href="https://github.com/PX4/px4_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS/ROS2 messages that match the uORB messages counterparts on the PX4 Firmware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
