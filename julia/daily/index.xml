@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:43:08Z</updated>
+  <updated>2022-08-09T01:44:19Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/DiffEqDocs.jl</title>
-    <updated>2022-08-08T01:43:08Z</updated>
-    <id>tag:github.com,2022-08-08:/SciML/DiffEqDocs.jl</id>
-    <link href="https://github.com/SciML/DiffEqDocs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for the DiffEq differential equations and scientific machine learning (SciML) ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDiff/ForwardDiff.jl</title>
+    <updated>2022-08-09T01:44:19Z</updated>
+    <id>tag:github.com,2022-08-09:/JuliaDiff/ForwardDiff.jl</id>
+    <link href="https://github.com/JuliaDiff/ForwardDiff.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forward Mode Automatic Differentiation for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaApproximation/ApproxFun.jl</title>
-    <updated>2022-08-08T01:43:08Z</updated>
-    <id>tag:github.com,2022-08-08:/JuliaApproximation/ApproxFun.jl</id>
-    <link href="https://github.com/JuliaApproximation/ApproxFun.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia package for function approximation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ACEsuit/BIPs.jl</title>
-    <updated>2022-08-08T01:43:08Z</updated>
-    <id>tag:github.com,2022-08-08:/ACEsuit/BIPs.jl</id>
-    <link href="https://github.com/ACEsuit/BIPs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boost-Invariant Polynomials for jet tagging&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>idiap/HMMGradients.jl</title>
+    <updated>2022-08-09T01:44:19Z</updated>
+    <id>tag:github.com,2022-08-09:/idiap/HMMGradients.jl</id>
+    <link href="https://github.com/idiap/HMMGradients.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enables computing the gradient of the parameters of Hidden Markov Models (HMMs)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

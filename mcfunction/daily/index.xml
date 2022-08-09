@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:45:33Z</updated>
+  <updated>2022-08-09T01:46:38Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheWii/auto-utilities-vein-mining</title>
-    <updated>2022-08-08T01:45:33Z</updated>
-    <id>tag:github.com,2022-08-08:/TheWii/auto-utilities-vein-mining</id>
-    <link href="https://github.com/TheWii/auto-utilities-vein-mining" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vein miner datapack for Minecraft.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thalida/bonemeal_small_flowers</title>
-    <updated>2022-08-08T01:45:33Z</updated>
-    <id>tag:github.com,2022-08-08:/thalida/bonemeal_small_flowers</id>
-    <link href="https://github.com/thalida/bonemeal_small_flowers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bonemeal Small Flowers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

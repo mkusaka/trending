@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AMPL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:32:34Z</updated>
+  <updated>2022-08-09T01:33:38Z</updated>
   <subtitle>Daily Trending of AMPL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Assin127/Russian-Universalis</title>
-    <updated>2022-08-08T01:32:34Z</updated>
-    <id>tag:github.com,2022-08-08:/Assin127/Russian-Universalis</id>
-    <link href="https://github.com/Assin127/Russian-Universalis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mod for Europa Universalis IV&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:38:48Z</updated>
+  <updated>2022-08-09T01:39:54Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>harold/metatracker</title>
-    <updated>2022-08-08T01:38:48Z</updated>
-    <id>tag:github.com,2022-08-08:/harold/metatracker</id>
-    <link href="https://github.com/harold/metatracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some recursive music tracker ideas&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Some new new new ideas about old old old trackers.&lt;/p&gt; &#xA;&lt;p&gt;TODO:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;play at different volumes&lt;/li&gt; &#xA; &lt;li&gt;data format&lt;/li&gt; &#xA; &lt;li&gt;GUI&lt;/li&gt; &#xA; &lt;li&gt;play at different pitches&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

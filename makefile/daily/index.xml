@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:45:08Z</updated>
+  <updated>2022-08-09T01:46:13Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>confluentinc/ksqldb-recipes</title>
-    <updated>2022-08-08T01:45:08Z</updated>
-    <id>tag:github.com,2022-08-08:/confluentinc/ksqldb-recipes</id>
-    <link href="https://github.com/confluentinc/ksqldb-recipes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>procount/pinn</title>
-    <updated>2022-08-08T01:45:08Z</updated>
-    <id>tag:github.com,2022-08-08:/procount/pinn</id>
-    <link href="https://github.com/procount/pinn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An enhanced Operating System installer for the Raspberry Pi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LineageOS/android_device_qcom_sepolicy_vndr</title>
-    <updated>2022-08-08T01:45:08Z</updated>
-    <id>tag:github.com,2022-08-08:/LineageOS/android_device_qcom_sepolicy_vndr</id>
-    <link href="https://github.com/LineageOS/android_device_qcom_sepolicy_vndr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RocketRobz/TWiLightMenu-Updater</title>
+    <updated>2022-08-09T01:46:13Z</updated>
+    <id>tag:github.com,2022-08-09:/RocketRobz/TWiLightMenu-Updater</id>
+    <link href="https://github.com/RocketRobz/TWiLightMenu-Updater" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An updater for TWiLight Menu++&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:53:06Z</updated>
+  <updated>2022-08-09T01:54:20Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nut2Earn/-NUT-Token</title>
-    <updated>2022-08-08T01:53:06Z</updated>
-    <id>tag:github.com,2022-08-08:/Nut2Earn/-NUT-Token</id>
-    <link href="https://github.com/Nut2Earn/-NUT-Token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;$NUT token smart contract&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ourzora/zora-drops-contracts</title>
-    <updated>2022-08-08T01:53:06Z</updated>
-    <id>tag:github.com,2022-08-08:/ourzora/zora-drops-contracts</id>
-    <link href="https://github.com/ourzora/zora-drops-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zora drops contracts (powers create.zora.co)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>camohe90/platziretoDNFT</title>
-    <updated>2022-08-08T01:53:06Z</updated>
-    <id>tag:github.com,2022-08-08:/camohe90/platziretoDNFT</id>
-    <link href="https://github.com/camohe90/platziretoDNFT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vamos a aprender a crear NFT&#39;s dinámicos, lo que significa que pueden cambiar su metadata dependiendo de ciertas condiciones que definamos. Para lograrlo necesitamos usar algunos servicios de chainlink&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nomad-xyz/ExcessivelySafeCall</title>
+    <updated>2022-08-09T01:54:20Z</updated>
+    <id>tag:github.com,2022-08-09:/nomad-xyz/ExcessivelySafeCall</id>
+    <link href="https://github.com/nomad-xyz/ExcessivelySafeCall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;excessively safe solidity calls&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

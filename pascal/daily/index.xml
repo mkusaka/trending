@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:48:27Z</updated>
+  <updated>2022-08-09T01:49:37Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>devlooped/GitInfo</title>
-    <updated>2022-08-08T01:48:27Z</updated>
-    <id>tag:github.com,2022-08-08:/devlooped/GitInfo</id>
-    <link href="https://github.com/devlooped/GitInfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Git and SemVer Info from MSBuild, C# and VB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tinyBigGAMES/SDL</title>
-    <updated>2022-08-08T01:48:27Z</updated>
-    <id>tag:github.com,2022-08-08:/tinyBigGAMES/SDL</id>
-    <link href="https://github.com/tinyBigGAMES/SDL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple DirectMedia Layer for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CUE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:36:24Z</updated>
+  <updated>2022-08-09T01:37:34Z</updated>
   <subtitle>Daily Trending of CUE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>prometheus/promci</title>
-    <updated>2022-08-08T01:36:24Z</updated>
-    <id>tag:github.com,2022-08-08:/prometheus/promci</id>
-    <link href="https://github.com/prometheus/promci" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dagger.io libraries for Prometheus projects CI.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

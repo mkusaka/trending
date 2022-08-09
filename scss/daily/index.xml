@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:52:09Z</updated>
+  <updated>2022-08-09T01:53:18Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/argon-dashboard</title>
-    <updated>2022-08-08T01:52:09Z</updated>
-    <id>tag:github.com,2022-08-08:/creativetimofficial/argon-dashboard</id>
-    <link href="https://github.com/creativetimofficial/argon-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Argon - Dashboard for Bootstrap 5 by Creative Tim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>melangue/dactl</title>
+    <updated>2022-08-09T01:53:18Z</updated>
+    <id>tag:github.com,2022-08-09:/melangue/dactl</id>
+    <link href="https://github.com/melangue/dactl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern, fast and configurable Jekyll theme with some tricks up it&#39;s sleeve.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-08T01:51:41Z</updated>
+  <updated>2022-08-09T01:52:52Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iced-rs/iced</title>
-    <updated>2022-08-08T01:51:41Z</updated>
-    <id>tag:github.com,2022-08-08:/iced-rs/iced</id>
-    <link href="https://github.com/iced-rs/iced" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross-platform GUI library for Rust, inspired by Elm&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MicroCBer/BetterNCM-Installer</title>
+    <updated>2022-08-09T01:52:52Z</updated>
+    <id>tag:github.com,2022-08-09:/MicroCBer/BetterNCM-Installer</id>
+    <link href="https://github.com/MicroCBer/BetterNCM-Installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一键安装BetterNCM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>julianbuettner/tcp-over-http</title>
-    <updated>2022-08-08T01:51:41Z</updated>
-    <id>tag:github.com,2022-08-08:/julianbuettner/tcp-over-http</id>
-    <link href="https://github.com/julianbuettner/tcp-over-http" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rust-SDL2/rust-sdl2</title>
+    <updated>2022-08-09T01:52:52Z</updated>
+    <id>tag:github.com,2022-08-09:/Rust-SDL2/rust-sdl2</id>
+    <link href="https://github.com/Rust-SDL2/rust-sdl2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SDL2 bindings for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>m1911star/affine-client</title>
-    <updated>2022-08-08T01:51:41Z</updated>
-    <id>tag:github.com,2022-08-08:/m1911star/affine-client</id>
-    <link href="https://github.com/m1911star/affine-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;client for https://github.com/toeverything/AFFiNE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rahix/avr-hal</title>
+    <updated>2022-08-09T01:52:52Z</updated>
+    <id>tag:github.com,2022-08-09:/Rahix/avr-hal</id>
+    <link href="https://github.com/Rahix/avr-hal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;embedded-hal abstractions for AVR microcontrollers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
