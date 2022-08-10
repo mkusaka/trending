@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-09T01:48:13Z</updated>
+  <updated>2022-08-10T01:48:12Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fufexan/nix-gaming</title>
-    <updated>2022-08-09T01:48:13Z</updated>
-    <id>tag:github.com,2022-08-09:/fufexan/nix-gaming</id>
-    <link href="https://github.com/fufexan/nix-gaming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gaming on Nix&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>viperML/home-manager-wsl</title>
-    <updated>2022-08-09T01:48:13Z</updated>
-    <id>tag:github.com,2022-08-09:/viperML/home-manager-wsl</id>
-    <link href="https://github.com/viperML/home-manager-wsl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WSL distribution, including Nix + Home-manager + FHS Distro&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>input-output-hk/clockworks-world</title>
-    <updated>2022-08-09T01:48:13Z</updated>
-    <id>tag:github.com,2022-08-09:/input-output-hk/clockworks-world</id>
-    <link href="https://github.com/input-output-hk/clockworks-world" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keep things ticking like a clock&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>input-output-hk/cardano-world</title>
+    <updated>2022-08-10T01:48:12Z</updated>
+    <id>tag:github.com,2022-08-10:/input-output-hk/cardano-world</id>
+    <link href="https://github.com/input-output-hk/cardano-world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

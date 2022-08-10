@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-09T01:57:23Z</updated>
+  <updated>2022-08-10T01:57:34Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mcchrish/zenbones.nvim</title>
-    <updated>2022-08-09T01:57:23Z</updated>
-    <id>tag:github.com,2022-08-09:/mcchrish/zenbones.nvim</id>
-    <link href="https://github.com/mcchrish/zenbones.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🪨 A collection of contrast-based Vim/Neovim colorschemes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>moll/vim-bbye</title>
-    <updated>2022-08-09T01:57:23Z</updated>
-    <id>tag:github.com,2022-08-09:/moll/vim-bbye</id>
-    <link href="https://github.com/moll/vim-bbye" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>digitaltoad/vim-pug</title>
-    <updated>2022-08-09T01:57:23Z</updated>
-    <id>tag:github.com,2022-08-09:/digitaltoad/vim-pug</id>
-    <link href="https://github.com/digitaltoad/vim-pug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim Pug (formerly Jade) template engine syntax highlighting and indention&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>airblade/vim-rooter</title>
+    <updated>2022-08-10T01:57:34Z</updated>
+    <id>tag:github.com,2022-08-10:/airblade/vim-rooter</id>
+    <link href="https://github.com/airblade/vim-rooter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Changes Vim working directory to project root.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

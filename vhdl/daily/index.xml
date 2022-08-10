@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-09T01:57:15Z</updated>
+  <updated>2022-08-10T01:57:30Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Haily-Holt-EE/Four-Bit-Multiplier</title>
-    <updated>2022-08-09T01:57:15Z</updated>
-    <id>tag:github.com,2022-08-09:/Haily-Holt-EE/Four-Bit-Multiplier</id>
-    <link href="https://github.com/Haily-Holt-EE/Four-Bit-Multiplier" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Obtains two 4-bit numbers from slide switches, then multiplies the numbers with a &#34;shift and add&#34; algorithm using half adders and full adders&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

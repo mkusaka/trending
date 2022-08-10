@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-09T01:55:03Z</updated>
+  <updated>2022-08-10T01:55:10Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jmagrippis/with-svelte</title>
-    <updated>2022-08-09T01:55:03Z</updated>
-    <id>tag:github.com,2022-08-09:/jmagrippis/with-svelte</id>
-    <link href="https://github.com/jmagrippis/with-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;We&#39;ve done a few things with Svelte, and so can you!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>restspace/svelte-schema-form</title>
-    <updated>2022-08-09T01:55:03Z</updated>
-    <id>tag:github.com,2022-08-09:/restspace/svelte-schema-form</id>
-    <link href="https://github.com/restspace/svelte-schema-form" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSON Schema based form generator in Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

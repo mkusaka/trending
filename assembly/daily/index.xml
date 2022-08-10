@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-09T01:34:25Z</updated>
+  <updated>2022-08-10T01:34:03Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>blackbird71SR/Hello-World</title>
-    <updated>2022-08-09T01:34:25Z</updated>
-    <id>tag:github.com,2022-08-09:/blackbird71SR/Hello-World</id>
-    <link href="https://github.com/blackbird71SR/Hello-World" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hello World in all possible programmnig languages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dfinitski/N7DDC-ATU-100-mini-and-extended-boards</title>
-    <updated>2022-08-09T01:34:25Z</updated>
-    <id>tag:github.com,2022-08-09:/Dfinitski/N7DDC-ATU-100-mini-and-extended-boards</id>
-    <link href="https://github.com/Dfinitski/N7DDC-ATU-100-mini-and-extended-boards" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>videolan/dav1d</title>
-    <updated>2022-08-09T01:34:25Z</updated>
-    <id>tag:github.com,2022-08-09:/videolan/dav1d</id>
-    <link href="https://github.com/videolan/dav1d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A read-only mirror of dav1d source code repository. The origin is at https://code.videolan.org/videolan/dav1d/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
