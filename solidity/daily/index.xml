@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-10T01:54:26Z</updated>
+  <updated>2022-08-11T01:55:19Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iphelix/exploits-defi</title>
+    <updated>2022-08-11T01:55:19Z</updated>
+    <id>tag:github.com,2022-08-11:/iphelix/exploits-defi</id>
+    <link href="https://github.com/iphelix/exploits-defi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of PoCs and exploits for DeFi and other Ethereum projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>a16z/zkp-merkle-airdrop-contracts</title>
+    <updated>2022-08-11T01:55:19Z</updated>
+    <id>tag:github.com,2022-08-11:/a16z/zkp-merkle-airdrop-contracts</id>
+    <link href="https://github.com/a16z/zkp-merkle-airdrop-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>foundry-rs/forge-template</title>
+    <updated>2022-08-11T01:55:19Z</updated>
+    <id>tag:github.com,2022-08-11:/foundry-rs/forge-template</id>
+    <link href="https://github.com/foundry-rs/forge-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forkable template to get you started with Foundry&#39;s Forge&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

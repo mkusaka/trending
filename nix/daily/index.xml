@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-10T01:48:12Z</updated>
+  <updated>2022-08-11T01:48:39Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>input-output-hk/cardano-world</title>
-    <updated>2022-08-10T01:48:12Z</updated>
-    <id>tag:github.com,2022-08-10:/input-output-hk/cardano-world</id>
-    <link href="https://github.com/input-output-hk/cardano-world" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ralismark/nix-appimage</title>
+    <updated>2022-08-11T01:48:39Z</updated>
+    <id>tag:github.com,2022-08-11:/ralismark/nix-appimage</id>
+    <link href="https://github.com/ralismark/nix-appimage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(experimental) Convert a nixos derivation into a self-contained binary&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpwrules/nixos-m1</title>
+    <updated>2022-08-11T01:48:39Z</updated>
+    <id>tag:github.com,2022-08-11:/tpwrules/nixos-m1</id>
+    <link href="https://github.com/tpwrules/nixos-m1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Attempts to get NixOS up on M1 Macs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

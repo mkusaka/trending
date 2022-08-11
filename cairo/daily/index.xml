@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-10T01:35:35Z</updated>
+  <updated>2022-08-11T01:35:39Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aave-starknet-project/aave-starknet-core</title>
+    <updated>2022-08-11T01:35:39Z</updated>
+    <id>tag:github.com,2022-08-11:/aave-starknet-project/aave-starknet-core</id>
+    <link href="https://github.com/aave-starknet-project/aave-starknet-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

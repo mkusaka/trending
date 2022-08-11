@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-10T01:57:34Z</updated>
+  <updated>2022-08-11T01:58:19Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>airblade/vim-rooter</title>
-    <updated>2022-08-10T01:57:34Z</updated>
-    <id>tag:github.com,2022-08-10:/airblade/vim-rooter</id>
-    <link href="https://github.com/airblade/vim-rooter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Changes Vim working directory to project root.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kana/vim-textobj-entire</title>
+    <updated>2022-08-11T01:58:19Z</updated>
+    <id>tag:github.com,2022-08-11:/kana/vim-textobj-entire</id>
+    <link href="https://github.com/kana/vim-textobj-entire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin: Text objects for entire buffer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HsuBokai/.vim</title>
+    <updated>2022-08-11T01:58:19Z</updated>
+    <id>tag:github.com,2022-08-11:/HsuBokai/.vim</id>
+    <link href="https://github.com/HsuBokai/.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim setting&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maksimr/vim-jsbeautify</title>
+    <updated>2022-08-11T01:58:19Z</updated>
+    <id>tag:github.com,2022-08-11:/maksimr/vim-jsbeautify</id>
+    <link href="https://github.com/maksimr/vim-jsbeautify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim plugin which formated javascript files by js-beautify&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

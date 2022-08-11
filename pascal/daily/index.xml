@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-10T01:49:38Z</updated>
+  <updated>2022-08-11T01:50:10Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>exercism/windows-installer</title>
+    <updated>2022-08-11T01:50:10Z</updated>
+    <id>tag:github.com,2022-08-11:/exercism/windows-installer</id>
+    <link href="https://github.com/exercism/windows-installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A project to download and install the latest version of Exercism Client for Windows depending on the architecture.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-10T01:49:49Z</updated>
+  <updated>2022-08-11T01:50:21Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chandra-mta/Weekly_report</title>
+    <updated>2022-08-11T01:50:21Z</updated>
+    <id>tag:github.com,2022-08-11:/chandra-mta/Weekly_report</id>
+    <link href="https://github.com/chandra-mta/Weekly_report" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MTA weekly report scripts.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;These are scripts to create the MTA weekly report. They create the telemetry and recent observations sections of the report.&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-10T01:52:55Z</updated>
+  <updated>2022-08-11T01:53:45Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rust-in-action/code</title>
-    <updated>2022-08-10T01:52:55Z</updated>
-    <id>tag:github.com,2022-08-10:/rust-in-action/code</id>
-    <link href="https://github.com/rust-in-action/code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for the book Rust in Action&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Alcibiades-Capital/mev_bundle_generator</title>
+    <updated>2022-08-11T01:53:45Z</updated>
+    <id>tag:github.com,2022-08-11:/Alcibiades-Capital/mev_bundle_generator</id>
+    <link href="https://github.com/Alcibiades-Capital/mev_bundle_generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A MEV bundle generator written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>simbleau/nbody-wasm-sim</title>
+    <updated>2022-08-11T01:53:45Z</updated>
+    <id>tag:github.com,2022-08-11:/simbleau/nbody-wasm-sim</id>
+    <link href="https://github.com/simbleau/nbody-wasm-sim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An N-body WebAssembly simulation using Web GPU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CosmWasm/cosmwasm</title>
+    <updated>2022-08-11T01:53:45Z</updated>
+    <id>tag:github.com,2022-08-11:/CosmWasm/cosmwasm</id>
+    <link href="https://github.com/CosmWasm/cosmwasm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Framework for building smart contracts in Wasm for the Cosmos SDK&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
