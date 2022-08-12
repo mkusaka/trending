@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:58:19Z</updated>
+  <updated>2022-08-12T01:57:13Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kana/vim-textobj-entire</title>
-    <updated>2022-08-11T01:58:19Z</updated>
-    <id>tag:github.com,2022-08-11:/kana/vim-textobj-entire</id>
-    <link href="https://github.com/kana/vim-textobj-entire" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin: Text objects for entire buffer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mileszs/ack.vim</title>
+    <updated>2022-08-12T01:57:13Z</updated>
+    <id>tag:github.com,2022-08-12:/mileszs/ack.vim</id>
+    <link href="https://github.com/mileszs/ack.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin for the Perl module / CLI script &#39;ack&#39;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HsuBokai/.vim</title>
-    <updated>2022-08-11T01:58:19Z</updated>
-    <id>tag:github.com,2022-08-11:/HsuBokai/.vim</id>
-    <link href="https://github.com/HsuBokai/.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim setting&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mbbill/undotree</title>
+    <updated>2022-08-12T01:57:13Z</updated>
+    <id>tag:github.com,2022-08-12:/mbbill/undotree</id>
+    <link href="https://github.com/mbbill/undotree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The undo history visualizer for VIM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maksimr/vim-jsbeautify</title>
-    <updated>2022-08-11T01:58:19Z</updated>
-    <id>tag:github.com,2022-08-11:/maksimr/vim-jsbeautify</id>
-    <link href="https://github.com/maksimr/vim-jsbeautify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim plugin which formated javascript files by js-beautify&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>udalov/kotlin-vim</title>
+    <updated>2022-08-12T01:57:13Z</updated>
+    <id>tag:github.com,2022-08-12:/udalov/kotlin-vim</id>
+    <link href="https://github.com/udalov/kotlin-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

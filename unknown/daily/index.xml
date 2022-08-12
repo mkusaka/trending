@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:32:27Z</updated>
+  <updated>2022-08-12T01:32:30Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RalfJung/minirust</title>
-    <updated>2022-08-11T01:32:27Z</updated>
-    <id>tag:github.com,2022-08-11:/RalfJung/minirust</id>
-    <link href="https://github.com/RalfJung/minirust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A precise specification for &#34;Rust lite / MIR plus&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uber-go/guide</title>
+    <updated>2022-08-12T01:32:30Z</updated>
+    <id>tag:github.com,2022-08-12:/uber-go/guide</id>
+    <link href="https://github.com/uber-go/guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Uber Go Style Guide.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SummitRoute/aws_breaking_changes</title>
-    <updated>2022-08-11T01:32:27Z</updated>
-    <id>tag:github.com,2022-08-11:/SummitRoute/aws_breaking_changes</id>
-    <link href="https://github.com/SummitRoute/aws_breaking_changes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of changes announced for AWS that may break existing code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruesandora/stride-testnet</title>
+    <updated>2022-08-12T01:32:30Z</updated>
+    <id>tag:github.com,2022-08-12:/ruesandora/stride-testnet</id>
+    <link href="https://github.com/ruesandora/stride-testnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;stride testnet guide&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tmplink/IPDB</title>
-    <updated>2022-08-11T01:32:27Z</updated>
-    <id>tag:github.com,2022-08-11:/tmplink/IPDB</id>
-    <link href="https://github.com/tmplink/IPDB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;National IP database, providing data based on CIDR and NETMASK format, supporting IPv4 and IPv6.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iuricode/padroes-de-commits</title>
+    <updated>2022-08-12T01:32:30Z</updated>
+    <id>tag:github.com,2022-08-12:/iuricode/padroes-de-commits</id>
+    <link href="https://github.com/iuricode/padroes-de-commits" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📄 Padrão de commits para repositórios.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

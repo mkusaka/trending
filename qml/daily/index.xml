@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:52:00Z</updated>
+  <updated>2022-08-12T01:51:12Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emvaized/kde-snap-assist</title>
-    <updated>2022-08-11T01:52:00Z</updated>
-    <id>tag:github.com,2022-08-11:/emvaized/kde-snap-assist</id>
-    <link href="https://github.com/emvaized/kde-snap-assist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KWin script for KDE Plasma which suggests other window thumbnails on snap&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Librum-Reader/Librum</title>
+    <updated>2022-08-12T01:51:12Z</updated>
+    <id>tag:github.com,2022-08-12:/Librum-Reader/Librum</id>
+    <link href="https://github.com/Librum-Reader/Librum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Librum client application&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

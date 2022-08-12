@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:36:29Z</updated>
+  <updated>2022-08-12T01:36:12Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Codesire-Deng/TemplateRepoCxx</title>
-    <updated>2022-08-11T01:36:29Z</updated>
-    <id>tag:github.com,2022-08-11:/Codesire-Deng/TemplateRepoCxx</id>
-    <link href="https://github.com/Codesire-Deng/TemplateRepoCxx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VS Code C++项目模板&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lifting-bits/sleigh</title>
+    <updated>2022-08-12T01:36:12Z</updated>
+    <id>tag:github.com,2022-08-12:/lifting-bits/sleigh</id>
+    <link href="https://github.com/lifting-bits/sleigh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unofficial CMake build for Ghidra SLEIGH&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

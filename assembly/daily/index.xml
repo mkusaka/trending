@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:34:01Z</updated>
+  <updated>2022-08-12T01:33:57Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WWCSD/img-scripts</title>
-    <updated>2022-08-11T01:34:01Z</updated>
-    <id>tag:github.com,2022-08-11:/WWCSD/img-scripts</id>
-    <link href="https://github.com/WWCSD/img-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Imaging Scripts for PXE Client kernel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jardon-u/miniprojs</title>
+    <updated>2022-08-12T01:33:57Z</updated>
+    <id>tag:github.com,2022-08-12:/jardon-u/miniprojs</id>
+    <link href="https://github.com/jardon-u/miniprojs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Very small projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

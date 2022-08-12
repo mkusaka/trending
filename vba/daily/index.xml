@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:57:59Z</updated>
+  <updated>2022-08-12T01:56:49Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mgeeky/CustomXMLPart</title>
-    <updated>2022-08-11T01:57:59Z</updated>
-    <id>tag:github.com,2022-08-11:/mgeeky/CustomXMLPart</id>
-    <link href="https://github.com/mgeeky/CustomXMLPart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A PoC weaponising CustomXMLPart for hiding malware code inside of Office document structures.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

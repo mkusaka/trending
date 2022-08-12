@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cadence Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:35:37Z</updated>
+  <updated>2022-08-12T01:35:26Z</updated>
   <subtitle>Daily Trending of Cadence in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alchemyplatform/alchemy-flow-contracts</title>
-    <updated>2022-08-11T01:35:37Z</updated>
-    <id>tag:github.com,2022-08-11:/alchemyplatform/alchemy-flow-contracts</id>
-    <link href="https://github.com/alchemyplatform/alchemy-flow-contracts" rel="alternate"></link>
+    <title>FlowFans/web3jam-2022-summer</title>
+    <updated>2022-08-12T01:35:26Z</updated>
+    <id>tag:github.com,2022-08-12:/FlowFans/web3jam-2022-summer</id>
+    <link href="https://github.com/FlowFans/web3jam-2022-summer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

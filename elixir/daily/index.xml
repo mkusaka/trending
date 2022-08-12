@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:39:20Z</updated>
+  <updated>2022-08-12T01:38:57Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BanchanArt/banchan</title>
-    <updated>2022-08-11T01:39:20Z</updated>
-    <id>tag:github.com,2022-08-11:/BanchanArt/banchan</id>
-    <link href="https://github.com/BanchanArt/banchan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;art goes here&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coingaming/moon</title>
+    <updated>2022-08-12T01:38:57Z</updated>
+    <id>tag:github.com,2022-08-12:/coingaming/moon</id>
+    <link href="https://github.com/coingaming/moon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>grempe/ex_rated</title>
-    <updated>2022-08-11T01:39:20Z</updated>
-    <id>tag:github.com,2022-08-11:/grempe/ex_rated</id>
-    <link href="https://github.com/grempe/ex_rated" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bikebrigade/dispatch</title>
+    <updated>2022-08-12T01:38:57Z</updated>
+    <id>tag:github.com,2022-08-12:/bikebrigade/dispatch</id>
+    <link href="https://github.com/bikebrigade/dispatch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bike Brigade&#39;s dispatching software 🚴&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

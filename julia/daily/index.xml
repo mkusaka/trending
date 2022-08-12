@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:44:35Z</updated>
+  <updated>2022-08-12T01:43:57Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Suzhou-Tongyuan/jnumpy</title>
-    <updated>2022-08-11T01:44:35Z</updated>
-    <id>tag:github.com,2022-08-11:/Suzhou-Tongyuan/jnumpy</id>
-    <link href="https://github.com/Suzhou-Tongyuan/jnumpy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Writing Python C extensions in Julia within 5 minutes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciFracX/FractionalDiffEq.jl</title>
+    <updated>2022-08-12T01:43:57Z</updated>
+    <id>tag:github.com,2022-08-12:/SciFracX/FractionalDiffEq.jl</id>
+    <link href="https://github.com/SciFracX/FractionalDiffEq.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solve Fractional Differential Equations using high performance numerical methods&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CliMA/ClimaTimeSteppers.jl</title>
+    <updated>2022-08-12T01:43:57Z</updated>
+    <id>tag:github.com,2022-08-12:/CliMA/ClimaTimeSteppers.jl</id>
+    <link href="https://github.com/CliMA/ClimaTimeSteppers.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CPU- and GPU-friendly package for solving ordinary differential equations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Merck/GeneratedExpressions.jl</title>
+    <updated>2022-08-12T01:43:57Z</updated>
+    <id>tag:github.com,2022-08-12:/Merck/GeneratedExpressions.jl</id>
+    <link href="https://github.com/Merck/GeneratedExpressions.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package that implements a metalanguage to support code-less expression comprehensions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

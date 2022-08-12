@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:50:21Z</updated>
+  <updated>2022-08-12T01:49:30Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chandra-mta/Weekly_report</title>
-    <updated>2022-08-11T01:50:21Z</updated>
-    <id>tag:github.com,2022-08-11:/chandra-mta/Weekly_report</id>
-    <link href="https://github.com/chandra-mta/Weekly_report" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MTA weekly report scripts.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;These are scripts to create the MTA weekly report. They create the telemetry and recent observations sections of the report.&lt;/p&gt;</summary>
+    <title>baboowang/anycomic</title>
+    <updated>2022-08-12T01:49:30Z</updated>
+    <id>tag:github.com,2022-08-12:/baboowang/anycomic</id>
+    <link href="https://github.com/baboowang/anycomic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Read any comic from any site. Comfortably.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;实现原理：&lt;/h1&gt; &#xA;&lt;p&gt;AnyComic在本地搭建了一个实时的漫画采集站点，通过配置文件描述漫画站点的页面结构，识别各个漫画站的漫画链接，将漫画的元信息和图片保存在本地。&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;默认支持的网站：&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;笨蛋漫画 bengou.com&lt;/li&gt; &#xA; &lt;li&gt;爱漫画 imanhua.com&lt;/li&gt; &#xA; &lt;li&gt;有妖气 u17.com&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;安装：&lt;/h1&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;安装perl，版本5.12或以上。&lt;/p&gt; &lt;p&gt;Window操作系统请下载 &lt;a href=&#34;http://www.activestate.com/activeperl/downloads&#34;&gt;ActivePerl&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Linux/Mac 等类Unix系统都自带Perl，请检查下版本号，版本过低请升级。&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;下载 &lt;a href=&#34;https://github.com/baboowang/anycomic/zipball/master&#34;&gt;AnyComic应用&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;进入应用目录，运行安装脚本anycomic.pl&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;使用方法：&lt;/h1&gt; &#xA;&lt;p&gt;服务启动成功，你会看到一行类似下面的输出信息： Server available at &lt;a href=&#34;http://127.0.0.1:3000&#34;&gt;http://127.0.0.1:3000&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;之后，你就可以用你最习惯的浏览器打开 &lt;a href=&#34;http://127.0.0.1:3000&#34;&gt;http://127.0.0.1:3000&lt;/a&gt; 。&lt;/p&gt; &#xA;&lt;p&gt;添加漫画的方式有两种：&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;搜索漫画，在搜索结果中，点击漫画左上角的添加按钮即可将漫画添加到书架。&lt;/li&gt; &#xA; &lt;li&gt;点击页面顶部的添加漫画或按快捷键A，会弹出一个输入框，输入漫画链接后，就可以将漫画加入书架了。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;开始享受爽歪歪的漫画之旅吧。&lt;/p&gt; &#xA;&lt;h1&gt;相关论坛&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://ybmanhua.com&#34;&gt;有讨论&lt;/a&gt; - 技术支持、问题/建议反馈、使用者交流。&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-11T01:46:34Z</updated>
+  <updated>2022-08-12T01:45:53Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>publicsamples/Oi-Grandad</title>
-    <updated>2022-08-11T01:46:34Z</updated>
-    <id>tag:github.com,2022-08-11:/publicsamples/Oi-Grandad</id>
-    <link href="https://github.com/publicsamples/Oi-Grandad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;4 Voice Granular Synth&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thesephist/hfm</title>
-    <updated>2022-08-11T01:46:34Z</updated>
-    <id>tag:github.com,2022-08-11:/thesephist/hfm</id>
-    <link href="https://github.com/thesephist/hfm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hugging Face Download (Cache) Manager&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brochington/sematic</title>
-    <updated>2022-08-11T01:46:34Z</updated>
-    <id>tag:github.com,2022-08-11:/brochington/sematic</id>
-    <link href="https://github.com/brochington/sematic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NLU service that converts plain English to known and structured data.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aws-samples/ecs-refarch-cloudformation</title>
+    <updated>2022-08-12T01:45:53Z</updated>
+    <id>tag:github.com,2022-08-12:/aws-samples/ecs-refarch-cloudformation</id>
+    <link href="https://github.com/aws-samples/ecs-refarch-cloudformation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
