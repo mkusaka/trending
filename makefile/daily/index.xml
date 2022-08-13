@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:45:53Z</updated>
+  <updated>2022-08-13T01:46:42Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aws-samples/ecs-refarch-cloudformation</title>
-    <updated>2022-08-12T01:45:53Z</updated>
-    <id>tag:github.com,2022-08-12:/aws-samples/ecs-refarch-cloudformation</id>
-    <link href="https://github.com/aws-samples/ecs-refarch-cloudformation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

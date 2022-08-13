@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:32:30Z</updated>
+  <updated>2022-08-13T01:33:40Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uber-go/guide</title>
-    <updated>2022-08-12T01:32:30Z</updated>
-    <id>tag:github.com,2022-08-12:/uber-go/guide</id>
-    <link href="https://github.com/uber-go/guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Uber Go Style Guide.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/fluentui-emoji</title>
+    <updated>2022-08-13T01:33:40Z</updated>
+    <id>tag:github.com,2022-08-13:/microsoft/fluentui-emoji</id>
+    <link href="https://github.com/microsoft/fluentui-emoji" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ruesandora/stride-testnet</title>
-    <updated>2022-08-12T01:32:30Z</updated>
-    <id>tag:github.com,2022-08-12:/ruesandora/stride-testnet</id>
-    <link href="https://github.com/ruesandora/stride-testnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;stride testnet guide&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ocsf/ocsf-schema</title>
+    <updated>2022-08-13T01:33:40Z</updated>
+    <id>tag:github.com,2022-08-13:/ocsf/ocsf-schema</id>
+    <link href="https://github.com/ocsf/ocsf-schema" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCSF Schema&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iuricode/padroes-de-commits</title>
-    <updated>2022-08-12T01:32:30Z</updated>
-    <id>tag:github.com,2022-08-12:/iuricode/padroes-de-commits</id>
-    <link href="https://github.com/iuricode/padroes-de-commits" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📄 Padrão de commits para repositórios.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mqyqingfeng/Blog</title>
+    <updated>2022-08-13T01:33:40Z</updated>
+    <id>tag:github.com,2022-08-13:/mqyqingfeng/Blog</id>
+    <link href="https://github.com/mqyqingfeng/Blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Sass Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:52:48Z</updated>
+  <updated>2022-08-13T01:53:31Z</updated>
   <subtitle>Daily Trending of Sass in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>deps-rs/deps.rs</title>
-    <updated>2022-08-12T01:52:48Z</updated>
-    <id>tag:github.com,2022-08-12:/deps-rs/deps.rs</id>
-    <link href="https://github.com/deps-rs/deps.rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keep your dependencies up-to-date&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

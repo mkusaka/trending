@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:54:21Z</updated>
+  <updated>2022-08-13T01:54:58Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NFTX-project/nftx-protocol-v2</title>
-    <updated>2022-08-12T01:54:21Z</updated>
-    <id>tag:github.com,2022-08-12:/NFTX-project/nftx-protocol-v2</id>
-    <link href="https://github.com/NFTX-project/nftx-protocol-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The new and improved NFTX v2 Protocol.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xfoobar/nft-delegation</title>
+    <updated>2022-08-13T01:54:58Z</updated>
+    <id>tag:github.com,2022-08-13:/0xfoobar/nft-delegation</id>
+    <link href="https://github.com/0xfoobar/nft-delegation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>asimm241/nft-barter</title>
-    <updated>2022-08-12T01:54:21Z</updated>
-    <id>tag:github.com,2022-08-12:/asimm241/nft-barter</id>
-    <link href="https://github.com/asimm241/nft-barter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web 3 project to swap NFTs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>goosedefi/goose-contracts</title>
+    <updated>2022-08-13T01:54:58Z</updated>
+    <id>tag:github.com,2022-08-13:/goosedefi/goose-contracts</id>
+    <link href="https://github.com/goosedefi/goose-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>runtimeverification/evm-semantics</title>
-    <updated>2022-08-12T01:54:21Z</updated>
-    <id>tag:github.com,2022-08-12:/runtimeverification/evm-semantics</id>
-    <link href="https://github.com/runtimeverification/evm-semantics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;K Semantics of the Ethereum Virtual Machine (EVM)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>solidlyexchange/solidly</title>
+    <updated>2022-08-13T01:54:58Z</updated>
+    <id>tag:github.com,2022-08-13:/solidlyexchange/solidly</id>
+    <link href="https://github.com/solidlyexchange/solidly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

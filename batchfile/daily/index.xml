@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:34:22Z</updated>
+  <updated>2022-08-13T01:35:31Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hkshitesh/AC_LAB_2022</title>
-    <updated>2022-08-12T01:34:22Z</updated>
-    <id>tag:github.com,2022-08-12:/hkshitesh/AC_LAB_2022</id>
-    <link href="https://github.com/hkshitesh/AC_LAB_2022" rel="alternate"></link>
+    <title>toshiro9117/Villain.In.Glasses.RDP</title>
+    <updated>2022-08-13T01:35:31Z</updated>
+    <id>tag:github.com,2022-08-13:/toshiro9117/Villain.In.Glasses.RDP</id>
+    <link href="https://github.com/toshiro9117/Villain.In.Glasses.RDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kurniawanfebri344/-Windows2019RDP-Github</title>
+    <updated>2022-08-13T01:35:31Z</updated>
+    <id>tag:github.com,2022-08-13:/kurniawanfebri344/-Windows2019RDP-Github</id>
+    <link href="https://github.com/kurniawanfebri344/-Windows2019RDP-Github" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dzaky0/Rdp-Free</title>
+    <updated>2022-08-13T01:35:31Z</updated>
+    <id>tag:github.com,2022-08-13:/Dzaky0/Rdp-Free</id>
+    <link href="https://github.com/Dzaky0/Rdp-Free" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Akun yg Zakybotz Dibanned 😭&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

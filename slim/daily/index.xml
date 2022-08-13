@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Slim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:53:55Z</updated>
+  <updated>2022-08-13T01:54:31Z</updated>
   <subtitle>Daily Trending of Slim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cruz/iic2333-course</title>
-    <updated>2022-08-12T01:53:55Z</updated>
-    <id>tag:github.com,2022-08-12:/cruz/iic2333-course</id>
-    <link href="https://github.com/cruz/iic2333-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sitio para IIC2333 Sistemas Operativos y Redes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

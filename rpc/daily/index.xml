@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub RPC Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:52:32Z</updated>
+  <updated>2022-08-13T01:53:09Z</updated>
   <subtitle>Daily Trending of RPC in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>stellar/stellar-xdr-next</title>
-    <updated>2022-08-12T01:52:32Z</updated>
-    <id>tag:github.com,2022-08-12:/stellar/stellar-xdr-next</id>
-    <link href="https://github.com/stellar/stellar-xdr-next" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Staging area for future version of Stellar XDR.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

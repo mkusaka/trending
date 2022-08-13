@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:54:11Z</updated>
+  <updated>2022-08-13T01:54:44Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iqrabismi/YouTubeDemo-NodeJsSampleAPI</title>
-    <updated>2022-08-12T01:54:11Z</updated>
-    <id>tag:github.com,2022-08-12:/iqrabismi/YouTubeDemo-NodeJsSampleAPI</id>
-    <link href="https://github.com/iqrabismi/YouTubeDemo-NodeJsSampleAPI" rel="alternate"></link>
+    <title>mosip/mosip-helm</title>
+    <updated>2022-08-13T01:54:44Z</updated>
+    <id>tag:github.com,2022-08-13:/mosip/mosip-helm</id>
+    <link href="https://github.com/mosip/mosip-helm" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

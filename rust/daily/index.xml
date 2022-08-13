@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-12T01:52:42Z</updated>
+  <updated>2022-08-13T01:53:24Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ClementTsang/bottom</title>
-    <updated>2022-08-12T01:52:42Z</updated>
-    <id>tag:github.com,2022-08-12:/ClementTsang/bottom</id>
-    <link href="https://github.com/ClementTsang/bottom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yet another cross-platform graphical process/system monitor.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MaterializeInc/materialize</title>
+    <updated>2022-08-13T01:53:24Z</updated>
+    <id>tag:github.com,2022-08-13:/MaterializeInc/materialize</id>
+    <link href="https://github.com/MaterializeInc/materialize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sharkdp/hyperfine</title>
-    <updated>2022-08-12T01:52:42Z</updated>
-    <id>tag:github.com,2022-08-12:/sharkdp/hyperfine</id>
-    <link href="https://github.com/sharkdp/hyperfine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A command-line benchmarking tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ndd7xv/heh</title>
+    <updated>2022-08-13T01:53:24Z</updated>
+    <id>tag:github.com,2022-08-13:/ndd7xv/heh</id>
+    <link href="https://github.com/ndd7xv/heh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A terminal UI to edit bytes by the nibble.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sweatco/sweat-near</title>
-    <updated>2022-08-12T01:52:42Z</updated>
-    <id>tag:github.com,2022-08-12:/sweatco/sweat-near</id>
-    <link href="https://github.com/sweatco/sweat-near" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sweat The Token&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dtolnay/proc-macro-workshop</title>
+    <updated>2022-08-13T01:53:24Z</updated>
+    <id>tag:github.com,2022-08-13:/dtolnay/proc-macro-workshop</id>
+    <link href="https://github.com/dtolnay/proc-macro-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
