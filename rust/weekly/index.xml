@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:22:56Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dani-garcia/vaultwarden</title>
+    <updated>2022-08-14T02:22:56Z</updated>
+    <id>tag:github.com,2022-08-14:/dani-garcia/vaultwarden</id>
+    <link href="https://github.com/dani-garcia/vaultwarden" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MaterializeInc/materialize</title>
+    <updated>2022-08-14T02:22:56Z</updated>
+    <id>tag:github.com,2022-08-14:/MaterializeInc/materialize</id>
+    <link href="https://github.com/MaterializeInc/materialize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>serde-rs/serde</title>
+    <updated>2022-08-14T02:22:56Z</updated>
+    <id>tag:github.com,2022-08-14:/serde-rs/serde</id>
+    <link href="https://github.com/serde-rs/serde" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Serialization framework for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fortran Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:10:08Z</updated>
+  <subtitle>Weekly Trending of Fortran in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>earth-system-radiation/rte-rrtmgp</title>
+    <updated>2022-08-14T02:10:08Z</updated>
+    <id>tag:github.com,2022-08-14:/earth-system-radiation/rte-rrtmgp</id>
+    <link href="https://github.com/earth-system-radiation/rte-rrtmgp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Reference-LAPACK/lapack</title>
+    <updated>2022-08-14T02:10:08Z</updated>
+    <id>tag:github.com,2022-08-14:/Reference-LAPACK/lapack</id>
+    <link href="https://github.com/Reference-LAPACK/lapack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LAPACK development repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>starkiller-astro/weaklib</title>
+    <updated>2022-08-14T02:10:08Z</updated>
+    <id>tag:github.com,2022-08-14:/starkiller-astro/weaklib</id>
+    <link href="https://github.com/starkiller-astro/weaklib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

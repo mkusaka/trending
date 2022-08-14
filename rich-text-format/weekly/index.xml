@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:22:23Z</updated>
+  <subtitle>Weekly Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vajrang-b/RPA-Developer-in-30-Days</title>
+    <updated>2022-08-14T02:22:23Z</updated>
+    <id>tag:github.com,2022-08-14:/vajrang-b/RPA-Developer-in-30-Days</id>
+    <link href="https://github.com/vajrang-b/RPA-Developer-in-30-Days" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;We will use this repo to understand and develop code,&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kellydevops/Meterials</title>
+    <updated>2022-08-14T02:22:23Z</updated>
+    <id>tag:github.com,2022-08-14:/kellydevops/Meterials</id>
+    <link href="https://github.com/kellydevops/Meterials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nicehash/NiceHashMiner</title>
+    <updated>2022-08-14T02:22:23Z</updated>
+    <id>tag:github.com,2022-08-14:/nicehash/NiceHashMiner</id>
+    <link href="https://github.com/nicehash/NiceHashMiner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NiceHash Miner&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:38:17Z</updated>
+  <updated>2022-08-14T01:39:14Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leeyegy/SimCC</title>
-    <updated>2022-08-13T01:38:17Z</updated>
-    <id>tag:github.com,2022-08-13:/leeyegy/SimCC</id>
-    <link href="https://github.com/leeyegy/SimCC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[ECCV&#39;2022 Oral] PyTorch implementation for: SimCC: a Simple Coordinate Classification Perspective for Human Pose Estimation (http://arxiv.org/abs/2107.03332). Old name: SimDR&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CannyLab/tsne-cuda</title>
+    <updated>2022-08-14T01:39:14Z</updated>
+    <id>tag:github.com,2022-08-14:/CannyLab/tsne-cuda</id>
+    <link href="https://github.com/CannyLab/tsne-cuda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GPU Accelerated t-SNE for CUDA with Python bindings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

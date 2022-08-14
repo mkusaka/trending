@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:16:27Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adriencombaz/HybBciCode</title>
+    <updated>2022-08-14T02:16:27Z</updated>
+    <id>tag:github.com,2022-08-14:/adriencombaz/HybBciCode</id>
+    <link href="https://github.com/adriencombaz/HybBciCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>altmany/export_fig</title>
+    <updated>2022-08-14T02:16:27Z</updated>
+    <id>tag:github.com,2022-08-14:/altmany/export_fig</id>
+    <link href="https://github.com/altmany/export_fig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A MATLAB toolbox for exporting publication quality figures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

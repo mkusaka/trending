@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:37:18Z</updated>
+  <updated>2022-08-14T01:38:15Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ethz-asl/lpsolve_catkin</title>
-    <updated>2022-08-13T01:37:18Z</updated>
-    <id>tag:github.com,2022-08-13:/ethz-asl/lpsolve_catkin</id>
-    <link href="https://github.com/ethz-asl/lpsolve_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Catkin wrapper for http://lpsolve.sourceforge.net/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cpp-best-practices/cmake_conan_boilerplate_template</title>
+    <updated>2022-08-14T01:38:15Z</updated>
+    <id>tag:github.com,2022-08-14:/cpp-best-practices/cmake_conan_boilerplate_template</id>
+    <link href="https://github.com/cpp-best-practices/cmake_conan_boilerplate_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimized version of cpp_starter_project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

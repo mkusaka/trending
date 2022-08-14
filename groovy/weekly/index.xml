@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:12:01Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>futurelearn/jenkins-pipeline</title>
+    <updated>2022-08-14T02:12:01Z</updated>
+    <id>tag:github.com,2022-08-14:/futurelearn/jenkins-pipeline</id>
+    <link href="https://github.com/futurelearn/jenkins-pipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shared code for Jenkins pipelines&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bmuschko/gradle-docker-plugin</title>
+    <updated>2022-08-14T02:12:01Z</updated>
+    <id>tag:github.com,2022-08-14:/bmuschko/gradle-docker-plugin</id>
+    <link href="https://github.com/bmuschko/gradle-docker-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin for managing Docker images and containers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zeyangli/jenkinslibrary</title>
+    <updated>2022-08-14T02:12:01Z</updated>
+    <id>tag:github.com,2022-08-14:/zeyangli/jenkinslibrary</id>
+    <link href="https://github.com/zeyangli/jenkinslibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins共享库&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

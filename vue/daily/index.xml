@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:58:05Z</updated>
+  <updated>2022-08-14T01:58:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>foamzou/melody</title>
-    <updated>2022-08-13T01:58:05Z</updated>
-    <id>tag:github.com,2022-08-13:/foamzou/melody</id>
-    <link href="https://github.com/foamzou/melody" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;我的音乐精灵&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>merakiui/merakiui</title>
-    <updated>2022-08-13T01:58:05Z</updated>
-    <id>tag:github.com,2022-08-13:/merakiui/merakiui</id>
-    <link href="https://github.com/merakiui/merakiui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tailwind CSS components that support RTL languages &amp; fully responsive based on Flexbox &amp; CSS Grid with elegant Dark Mode 🚀 ☄️.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

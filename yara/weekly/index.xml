@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YARA Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:28:58Z</updated>
+  <subtitle>Weekly Trending of YARA in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elastic/protections-artifacts</title>
+    <updated>2022-08-14T02:28:58Z</updated>
+    <id>tag:github.com,2022-08-14:/elastic/protections-artifacts</id>
+    <link href="https://github.com/elastic/protections-artifacts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elastic Security detection content for Endpoint&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

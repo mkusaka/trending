@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:54:58Z</updated>
+  <updated>2022-08-14T01:55:53Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xfoobar/nft-delegation</title>
-    <updated>2022-08-13T01:54:58Z</updated>
-    <id>tag:github.com,2022-08-13:/0xfoobar/nft-delegation</id>
-    <link href="https://github.com/0xfoobar/nft-delegation" rel="alternate"></link>
+    <title>cyberscope-io/audits</title>
+    <updated>2022-08-14T01:55:53Z</updated>
+    <id>tag:github.com,2022-08-14:/cyberscope-io/audits</id>
+    <link href="https://github.com/cyberscope-io/audits" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>goosedefi/goose-contracts</title>
-    <updated>2022-08-13T01:54:58Z</updated>
-    <id>tag:github.com,2022-08-13:/goosedefi/goose-contracts</id>
-    <link href="https://github.com/goosedefi/goose-contracts" rel="alternate"></link>
+    <title>code-423n4/2022-08-foundation</title>
+    <updated>2022-08-14T01:55:53Z</updated>
+    <id>tag:github.com,2022-08-14:/code-423n4/2022-08-foundation</id>
+    <link href="https://github.com/code-423n4/2022-08-foundation" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>solidlyexchange/solidly</title>
-    <updated>2022-08-13T01:54:58Z</updated>
-    <id>tag:github.com,2022-08-13:/solidlyexchange/solidly</id>
-    <link href="https://github.com/solidlyexchange/solidly" rel="alternate"></link>
+    <title>FraxFinance/fraxlend</title>
+    <updated>2022-08-14T01:55:53Z</updated>
+    <id>tag:github.com,2022-08-14:/FraxFinance/fraxlend</id>
+    <link href="https://github.com/FraxFinance/fraxlend" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

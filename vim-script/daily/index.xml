@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:57:53Z</updated>
+  <updated>2022-08-14T01:58:48Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>granpadano/dotvim</title>
-    <updated>2022-08-13T01:57:53Z</updated>
-    <id>tag:github.com,2022-08-13:/granpadano/dotvim</id>
-    <link href="https://github.com/granpadano/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vimconfig&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dag/vim-fish</title>
+    <updated>2022-08-14T01:58:48Z</updated>
+    <id>tag:github.com,2022-08-14:/dag/vim-fish</id>
+    <link href="https://github.com/dag/vim-fish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim support for editing fish scripts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tpope/vim-characterize</title>
-    <updated>2022-08-13T01:57:53Z</updated>
-    <id>tag:github.com,2022-08-13:/tpope/vim-characterize</id>
-    <link href="https://github.com/tpope/vim-characterize" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;characterize.vim: Unicode character metadata&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>michaeljsmith/vim-indent-object</title>
+    <updated>2022-08-14T01:58:48Z</updated>
+    <id>tag:github.com,2022-08-14:/michaeljsmith/vim-indent-object</id>
+    <link href="https://github.com/michaeljsmith/vim-indent-object" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tweekmonster/helpful.vim</title>
-    <updated>2022-08-13T01:57:53Z</updated>
-    <id>tag:github.com,2022-08-13:/tweekmonster/helpful.vim</id>
-    <link href="https://github.com/tweekmonster/helpful.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📓 Display vim version numbers in docs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Shougo/neocomplete.vim</title>
+    <updated>2022-08-14T01:58:48Z</updated>
+    <id>tag:github.com,2022-08-14:/Shougo/neocomplete.vim</id>
+    <link href="https://github.com/Shougo/neocomplete.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Next generation completion framework after neocomplcache&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

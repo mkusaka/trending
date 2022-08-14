@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:43:05Z</updated>
+  <updated>2022-08-14T01:43:59Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-transit-gateway</title>
-    <updated>2022-08-13T01:43:05Z</updated>
-    <id>tag:github.com,2022-08-13:/terraform-aws-modules/terraform-aws-transit-gateway</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-transit-gateway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates Transit Gateway resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tycloud97/devops-exercise</title>
+    <updated>2022-08-14T01:43:59Z</updated>
+    <id>tag:github.com,2022-08-14:/tycloud97/devops-exercise</id>
+    <link href="https://github.com/tycloud97/devops-exercise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ShiftLeftSecurity/shiftleft-terraform-demo</title>
-    <updated>2022-08-13T01:43:05Z</updated>
-    <id>tag:github.com,2022-08-13:/ShiftLeftSecurity/shiftleft-terraform-demo</id>
-    <link href="https://github.com/ShiftLeftSecurity/shiftleft-terraform-demo" rel="alternate"></link>
+    <title>LandmakTechnology/k8s-ansible</title>
+    <updated>2022-08-14T01:43:59Z</updated>
+    <id>tag:github.com,2022-08-14:/LandmakTechnology/k8s-ansible</id>
+    <link href="https://github.com/LandmakTechnology/k8s-ansible" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

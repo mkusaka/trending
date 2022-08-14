@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:27:37Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>justboil/admin-one-vue-tailwind</title>
+    <updated>2022-08-14T02:27:37Z</updated>
+    <id>tag:github.com,2022-08-14:/justboil/admin-one-vue-tailwind</id>
+    <link href="https://github.com/justboil/admin-one-vue-tailwind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Vue.js 3.x Tailwind 3.x admin dashboard template with dark mode. Vite builds. Pinia state. Laravel integration available&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chuzhixin/vue-admin-better</title>
+    <updated>2022-08-14T02:27:37Z</updated>
+    <id>tag:github.com,2022-08-14:/chuzhixin/vue-admin-better</id>
+    <link href="https://github.com/chuzhixin/vue-admin-better" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀🚀🚀vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vue-admin-beautiful-pro,vab admin pro,vab admin plus,vue admin plus,vue admin pro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vueComponent/ant-design-vue</title>
+    <updated>2022-08-14T02:27:37Z</updated>
+    <id>tag:github.com,2022-08-14:/vueComponent/ant-design-vue</id>
+    <link href="https://github.com/vueComponent/ant-design-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

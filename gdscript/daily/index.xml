@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:41:28Z</updated>
+  <updated>2022-08-14T01:42:18Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GDQuest/godot-kickstarter-2019</title>
-    <updated>2022-08-13T01:41:28Z</updated>
-    <id>tag:github.com,2022-08-13:/GDQuest/godot-kickstarter-2019</id>
-    <link href="https://github.com/GDQuest/godot-kickstarter-2019" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create your Own Games with Godot, the Free Game Engine: sources from the January Kickstarter project from GDQuest&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nro001/Nro-Galaxy-Editor</title>
+    <updated>2022-08-14T01:42:18Z</updated>
+    <id>tag:github.com,2022-08-14:/Nro001/Nro-Galaxy-Editor</id>
+    <link href="https://github.com/Nro001/Nro-Galaxy-Editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;As a Type-5 Kardashev being, you are able to move the stars of a mere galaxy and manipulate their waypoints as you please with just a divine click of a button. Purpose: Generates visual map to edit the position of stars and connect or disconnect hyperlanes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mashumafi/nylon</title>
-    <updated>2022-08-13T01:41:28Z</updated>
-    <id>tag:github.com,2022-08-13:/mashumafi/nylon</id>
-    <link href="https://github.com/mashumafi/nylon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Async scheduling and management of couroutines for Godot/gdscript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DigitalN8m4r3/Godot-XR-Avatar</title>
+    <updated>2022-08-14T01:42:18Z</updated>
+    <id>tag:github.com,2022-08-14:/DigitalN8m4r3/Godot-XR-Avatar</id>
+    <link href="https://github.com/DigitalN8m4r3/Godot-XR-Avatar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a MIT Licensed VR avatar for the Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

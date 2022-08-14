@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:24:21Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>j-brant/SmaCC</title>
+    <updated>2022-08-14T02:24:21Z</updated>
+    <id>tag:github.com,2022-08-14:/j-brant/SmaCC</id>
+    <link href="https://github.com/j-brant/SmaCC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/PharoLink</title>
+    <updated>2022-08-14T02:24:21Z</updated>
+    <id>tag:github.com,2022-08-14:/feenkcom/PharoLink</id>
+    <link href="https://github.com/feenkcom/PharoLink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A PythonBridge / JSLink style server for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-vm-bindings</title>
+    <updated>2022-08-14T02:24:21Z</updated>
+    <id>tag:github.com,2022-08-14:/feenkcom/gtoolkit-vm-bindings</id>
+    <link href="https://github.com/feenkcom/gtoolkit-vm-bindings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Image side code to communicate with the Glamorous Toolkit VM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

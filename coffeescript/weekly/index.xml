@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:06:29Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>garciaf/FabbookJs</title>
+    <updated>2022-08-14T02:06:29Z</updated>
+    <id>tag:github.com,2022-08-14:/garciaf/FabbookJs</id>
+    <link href="https://github.com/garciaf/FabbookJs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blog to learn how to use node.js and express.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thebrigade/spotify-girl-talk</title>
+    <updated>2022-08-14T02:06:29Z</updated>
+    <id>tag:github.com,2022-08-14:/thebrigade/spotify-girl-talk</id>
+    <link href="https://github.com/thebrigade/spotify-girl-talk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Girl talk spotify app hack for PDX music hack day&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rcbops/opencenter-dashboard</title>
+    <updated>2022-08-14T02:06:29Z</updated>
+    <id>tag:github.com,2022-08-14:/rcbops/opencenter-dashboard</id>
+    <link href="https://github.com/rcbops/opencenter-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

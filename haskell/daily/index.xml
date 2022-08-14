@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:43:07Z</updated>
+  <updated>2022-08-14T01:44:00Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AmpersandTarski/Ampersand</title>
+    <updated>2022-08-14T01:44:00Z</updated>
+    <id>tag:github.com,2022-08-14:/AmpersandTarski/Ampersand</id>
+    <link href="https://github.com/AmpersandTarski/Ampersand" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build database applications faster than anyone else, and keep your data pollution free as a bonus.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ampersand&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/AmpersandTarski/Ampersand/actions/workflows/ci2.yml&#34;&gt;&lt;img src=&#34;https://github.com/AmpersandTarski/Ampersand/actions/workflows/ci2.yml/badge.svg?sanitize=true&#34; alt=&#34;Build &amp;amp; Test 🚀&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/AmpersandTarski/Ampersand/releases/latest&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/release/AmpersandTarski/Ampersand.svg?sanitize=true&#34; alt=&#34;Latest Release&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Releases&lt;/h2&gt; &#xA;&lt;p&gt;Check out the &lt;a href=&#34;https://github.com/AmpersandTarski/Ampersand/raw/development/ReleaseNotes.md&#34;&gt;release notes&lt;/a&gt; and &lt;a href=&#34;https://github.com/AmpersandTarski/Ampersand/releases&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/release/AmpersandTarski/Ampersand.svg?sanitize=true&#34; alt=&#34;all Releases&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;The best place to look at if you are new to Ampersand, and you want to install the software, is at our &lt;a href=&#34;https://ampersandtarski.gitbook.io/documentation/&#34;&gt;documentation&lt;/a&gt;. Anyone can add comments if you read the documentation online. Please do so if there is anything you miss in the documentation.&lt;/p&gt; &#xA;&lt;p&gt;There is also some &lt;a href=&#34;https://ampersandtarski.gitbook.io/the-tools-we-use-for-ampersand/&#34;&gt;documentation for the developers of ampersand&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>konn/Yablog</title>
+    <updated>2022-08-14T01:44:00Z</updated>
+    <id>tag:github.com,2022-08-14:/konn/Yablog</id>
+    <link href="https://github.com/konn/Yablog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yet another Blog engine written in Haskell powered by yesod.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:55:37Z</updated>
+  <updated>2022-08-14T01:56:36Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Superd22/webos-gamepad</title>
+    <updated>2022-08-14T01:56:36Z</updated>
+    <id>tag:github.com,2022-08-14:/Superd22/webos-gamepad</id>
+    <link href="https://github.com/Superd22/webos-gamepad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

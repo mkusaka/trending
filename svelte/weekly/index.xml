@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:25:18Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>stemrollerapp/stemroller</title>
+    <updated>2022-08-14T02:25:18Z</updated>
+    <id>tag:github.com,2022-08-14:/stemrollerapp/stemroller</id>
+    <link href="https://github.com/stemrollerapp/stemroller" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Isolate vocals, drums, bass, and other instrumental stems from any song&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aeternity/aepp-hc-ui</title>
+    <updated>2022-08-14T02:25:18Z</updated>
+    <id>tag:github.com,2022-08-14:/aeternity/aepp-hc-ui</id>
+    <link href="https://github.com/aeternity/aepp-hc-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hyperchains UI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gurucomputing/headscale-ui</title>
+    <updated>2022-08-14T02:25:18Z</updated>
+    <id>tag:github.com,2022-08-14:/gurucomputing/headscale-ui</id>
+    <link href="https://github.com/gurucomputing/headscale-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web frontend for the headscale Tailscale-compatible coordination server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

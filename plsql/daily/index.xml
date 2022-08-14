@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:50:33Z</updated>
+  <updated>2022-08-14T01:51:34Z</updated>
   <subtitle>Daily Trending of PLSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hyunsik96/Sand5rang</title>
-    <updated>2022-08-13T01:50:33Z</updated>
-    <id>tag:github.com,2022-08-13:/hyunsik96/Sand5rang</id>
-    <link href="https://github.com/hyunsik96/Sand5rang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KH academy group5 final project. Sand5rang.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:46:42Z</updated>
+  <updated>2022-08-14T01:47:41Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ewenwan/Ros</title>
+    <updated>2022-08-14T01:47:41Z</updated>
+    <id>tag:github.com,2022-08-14:/Ewenwan/Ros</id>
+    <link href="https://github.com/Ewenwan/Ros" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;机器人操作系统ROS 语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

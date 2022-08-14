@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Hack Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:12:13Z</updated>
+  <subtitle>Weekly Trending of Hack in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hhvm/fbexpect</title>
+    <updated>2022-08-14T02:12:13Z</updated>
+    <id>tag:github.com,2022-08-14:/hhvm/fbexpect</id>
+    <link href="https://github.com/hhvm/fbexpect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Hack library for writing unit tests expressively&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hhvm/difflib</title>
+    <updated>2022-08-14T02:12:13Z</updated>
+    <id>tag:github.com,2022-08-14:/hhvm/difflib</id>
+    <link href="https://github.com/hhvm/difflib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functions and classes for calculating the differences between two sequences of items.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hhvm/type-assert</title>
+    <updated>2022-08-14T02:12:13Z</updated>
+    <id>tag:github.com,2022-08-14:/hhvm/type-assert</id>
+    <link href="https://github.com/hhvm/type-assert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hack library for converting untyped data to typed data.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:27:28Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>antoniosarosi/dotfiles</title>
+    <updated>2022-08-14T02:27:28Z</updated>
+    <id>tag:github.com,2022-08-14:/antoniosarosi/dotfiles</id>
+    <link href="https://github.com/antoniosarosi/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My dotfiles repo, here you can find all my window manager configs as well as documentation and a guide on how to make your own desktop environment.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>puremourning/vimspector</title>
+    <updated>2022-08-14T02:27:28Z</updated>
+    <id>tag:github.com,2022-08-14:/puremourning/vimspector</id>
+    <link href="https://github.com/puremourning/vimspector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vimspector - A multi-language debugging system for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>preservim/nerdtree</title>
+    <updated>2022-08-14T02:27:28Z</updated>
+    <id>tag:github.com,2022-08-14:/preservim/nerdtree</id>
+    <link href="https://github.com/preservim/nerdtree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tree explorer plugin for vim.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

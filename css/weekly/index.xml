@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:07:04Z</updated>
+  <subtitle>Weekly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bradtraversy/tailwind-landing-page</title>
+    <updated>2022-08-14T02:07:04Z</updated>
+    <id>tag:github.com,2022-08-14:/bradtraversy/tailwind-landing-page</id>
+    <link href="https://github.com/bradtraversy/tailwind-landing-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tailwind Manage Landing Page&lt;/h1&gt; &#xA;&lt;p&gt;This is the project from my 2022 Tailwind Crash Course on YouTube.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/bradtraversy/tailwind-landing-page/main/img/screen.png?raw=true&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;Install dependencies (Tailwind)&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Run the Tailwind CLI to compile the &lt;strong&gt;input.css&lt;/strong&gt; during development. The output file is &lt;strong&gt;css/main.css&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm run watch&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To build once run...&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm run build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can edit the scripts in package.json and the tailwind.config.js file to change input/output locations&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>codyseibert/youtube</title>
+    <updated>2022-08-14T02:07:04Z</updated>
+    <id>tag:github.com,2022-08-14:/codyseibert/youtube</id>
+    <link href="https://github.com/codyseibert/youtube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;code from my youtube channel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Abhinav-26/DevOps-Projects</title>
+    <updated>2022-08-14T02:07:04Z</updated>
+    <id>tag:github.com,2022-08-14:/Abhinav-26/DevOps-Projects</id>
+    <link href="https://github.com/Abhinav-26/DevOps-Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The repository contains beginner friendly DevOps projects for automating stuffs using DevOps concepts.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DevOps-Projects&lt;/h1&gt; &#xA;&lt;p&gt;In this repository I will upload my projects on DevOps and also Integration of DevOps technology with other technologies like Machine Learning, Git/Github, etc.&lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-1&#34;&gt;Project-1 : Automated WebDevelopment Environment&lt;/a&gt;&lt;br&gt; In this Project I have created an Automated Web Development Environment integrating Git/GitHub, Jenkins and Httpd WebServer in RHEL-8. In this Project the developer just need to Commit the code from his local repository, GitHub will automatically send the code to Jenkins using webhooks as soon as there will be any commit in GitHub repo, and Jenkins will then automatically launch the website into apache2 httpd server which is setup in RHEL-8.&lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;For Demonstration of the Project &lt;a href=&#34;https://www.youtube.com/watch?v=CRvzphqTtU4&amp;amp;t=49s&#34;&gt;Click Here&lt;/a&gt;&lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-2&#34;&gt;Project-2 : Automated WebSite Deployement within Docker&lt;/a&gt;&lt;br&gt; In this Project I have created an Automated Website Deployment inside a docker container. In this project I have used the techologies like Git/GitHub, Jenkins, and Docker Container for making an automated website deployment.&lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;For Demonstration of the Project &lt;a href=&#34;https://www.linkedin.com/posts/abhinavdubey26_dockers-dockerimage-automation-activity-6668859867073273856-P6D2&#34;&gt;Click Here&lt;/a&gt;&lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-3&#34;&gt;Project-3 : Containerization Within Container&lt;/a&gt;&lt;br&gt; In this Project I have used the concepts of docker to make Automation Project lanching docker-within-docker so that the Project can be easily shipped from one system to another without any problem. Docker Concepts are very useful for such projects when you need to send your project with complete environment of the project.&lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;For detailed Article of this Project &lt;a href=&#34;https://emagazine26.blogspot.com/2020/05/containerization-within-container.html&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Abhinav-26/DevOps-Integration/tree/master/DevOps%20Project-4&#34;&gt;Project-4 : CI/CD DevEnv/ProductionEnv Deployment&lt;/a&gt;&lt;br&gt; In this project I have created Continous Deployment using Git, Jenkins and Docker but it more focused in automation of Developer Environment and Production Envirnoment Deployment. &lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;For Demonstration of this Project &lt;a href=&#34;https://www.youtube.com/watch?v=IJAjCQeu_q8&#34;&gt;Click Here&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

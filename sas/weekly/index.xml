@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SAS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-14T02:22:58Z</updated>
+  <subtitle>Weekly Trending of SAS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sassoftware/clinical-standards-toolkit</title>
+    <updated>2022-08-14T02:22:58Z</updated>
+    <id>tag:github.com,2022-08-14:/sassoftware/clinical-standards-toolkit</id>
+    <link href="https://github.com/sassoftware/clinical-standards-toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The open source release of SAS Clinical Standards Toolkit is a direct port of the last production release with minor modifications to adapt to a new deployment architecture.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:40:32Z</updated>
+  <updated>2022-08-14T01:41:24Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>esl/elibcloud</title>
-    <updated>2022-08-13T01:40:32Z</updated>
-    <id>tag:github.com,2022-08-13:/esl/elibcloud</id>
-    <link href="https://github.com/esl/elibcloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang wrapper for Libcloud&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>boundary/folsom</title>
-    <updated>2022-08-13T01:40:32Z</updated>
-    <id>tag:github.com,2022-08-13:/boundary/folsom</id>
-    <link href="https://github.com/boundary/folsom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Expose Erlang Events and Metrics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

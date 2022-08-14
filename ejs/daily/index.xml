@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-13T01:39:53Z</updated>
+  <updated>2022-08-14T01:40:49Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MUYIio/hexo-themes-matery</title>
-    <updated>2022-08-13T01:39:53Z</updated>
-    <id>tag:github.com,2022-08-13:/MUYIio/hexo-themes-matery</id>
-    <link href="https://github.com/MUYIio/hexo-themes-matery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;个性化定制的Hexo-Matery主题，简单配置即可使用，欢迎Star&amp;Fork&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
