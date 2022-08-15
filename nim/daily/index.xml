@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:49:33Z</updated>
+  <updated>2022-08-15T01:47:38Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chvancooten/NimPackt-v1</title>
-    <updated>2022-08-14T01:49:33Z</updated>
-    <id>tag:github.com,2022-08-14:/chvancooten/NimPackt-v1</id>
-    <link href="https://github.com/chvancooten/NimPackt-v1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim-based assembly packer and shellcode loader for opsec &amp; profit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>juancarlospaco/faster-than-requests</title>
+    <updated>2022-08-15T01:47:38Z</updated>
+    <id>tag:github.com,2022-08-15:/juancarlospaco/faster-than-requests</id>
+    <link href="https://github.com/juancarlospaco/faster-than-requests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Faster requests on Python 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

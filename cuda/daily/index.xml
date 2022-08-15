@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:39:14Z</updated>
+  <updated>2022-08-15T01:37:08Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CannyLab/tsne-cuda</title>
-    <updated>2022-08-14T01:39:14Z</updated>
-    <id>tag:github.com,2022-08-14:/CannyLab/tsne-cuda</id>
-    <link href="https://github.com/CannyLab/tsne-cuda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GPU Accelerated t-SNE for CUDA with Python bindings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MegviiRobot/MegBA</title>
+    <updated>2022-08-15T01:37:08Z</updated>
+    <id>tag:github.com,2022-08-15:/MegviiRobot/MegBA</id>
+    <link href="https://github.com/MegviiRobot/MegBA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:34:38Z</updated>
+  <updated>2022-08-15T01:32:38Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>keyding/Operator-Mono</title>
-    <updated>2022-08-14T01:34:38Z</updated>
-    <id>tag:github.com,2022-08-14:/keyding/Operator-Mono</id>
-    <link href="https://github.com/keyding/Operator-Mono" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A nice code font&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Learn-with-Sumit/think-in-a-redux-way</title>
+    <updated>2022-08-15T01:32:38Z</updated>
+    <id>tag:github.com,2022-08-15:/Learn-with-Sumit/think-in-a-redux-way</id>
+    <link href="https://github.com/Learn-with-Sumit/think-in-a-redux-way" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Think in a Redux way - React-Redux basic to advanced Bangla course by Learn with Sumit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ip-scanner/cloudflare</title>
-    <updated>2022-08-14T01:34:38Z</updated>
-    <id>tag:github.com,2022-08-14:/ip-scanner/cloudflare</id>
-    <link href="https://github.com/ip-scanner/cloudflare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>payloadbox/sql-injection-payload-list</title>
+    <updated>2022-08-15T01:32:38Z</updated>
+    <id>tag:github.com,2022-08-15:/payloadbox/sql-injection-payload-list</id>
+    <link href="https://github.com/payloadbox/sql-injection-payload-list" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎯 SQL Injection Payload List&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>curtisbarnard/BANKI</title>
-    <updated>2022-08-14T01:34:38Z</updated>
-    <id>tag:github.com,2022-08-14:/curtisbarnard/BANKI</id>
-    <link href="https://github.com/curtisbarnard/BANKI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All the questions to prep for a technical interview&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>divanov11/Hackathon---Code-Battle-Edition</title>
+    <updated>2022-08-15T01:32:38Z</updated>
+    <id>tag:github.com,2022-08-15:/divanov11/Hackathon---Code-Battle-Edition</id>
+    <link href="https://github.com/divanov11/Hackathon---Code-Battle-Edition" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Announcing the next hackathon for the month of august!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:47:41Z</updated>
+  <updated>2022-08-15T01:45:51Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ewenwan/Ros</title>
-    <updated>2022-08-14T01:47:41Z</updated>
-    <id>tag:github.com,2022-08-14:/Ewenwan/Ros</id>
-    <link href="https://github.com/Ewenwan/Ros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;机器人操作系统ROS 语音识别 语义理解 视觉控制 gazebo仿真 雷达建图导航&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eosrei/twemoji-color-font</title>
+    <updated>2022-08-15T01:45:51Z</updated>
+    <id>tag:github.com,2022-08-15:/eosrei/twemoji-color-font</id>
+    <link href="https://github.com/eosrei/twemoji-color-font" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Twitter Unicode 13.1 emoji color OpenType-SVG font for Linux/MacOS/Windows&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>roboyoshi/datacurator-filetree</title>
+    <updated>2022-08-15T01:45:51Z</updated>
+    <id>tag:github.com,2022-08-15:/roboyoshi/datacurator-filetree</id>
+    <link href="https://github.com/roboyoshi/datacurator-filetree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a standard filetree for /r/datacurator [ and r/datahoarder ]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bitemyapp/learnhaskell</title>
+    <updated>2022-08-15T01:45:51Z</updated>
+    <id>tag:github.com,2022-08-15:/bitemyapp/learnhaskell</id>
+    <link href="https://github.com/bitemyapp/learnhaskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Haskell&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:55:53Z</updated>
+  <updated>2022-08-15T01:53:54Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cyberscope-io/audits</title>
-    <updated>2022-08-14T01:55:53Z</updated>
-    <id>tag:github.com,2022-08-14:/cyberscope-io/audits</id>
-    <link href="https://github.com/cyberscope-io/audits" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alchemix-finance/v2-foundry</title>
+    <updated>2022-08-15T01:53:54Z</updated>
+    <id>tag:github.com,2022-08-15:/alchemix-finance/v2-foundry</id>
+    <link href="https://github.com/alchemix-finance/v2-foundry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foundry-based repo for V2 tools, expansions, new vaults, and surrounding infrastructure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2022-08-foundation</title>
-    <updated>2022-08-14T01:55:53Z</updated>
-    <id>tag:github.com,2022-08-14:/code-423n4/2022-08-foundation</id>
-    <link href="https://github.com/code-423n4/2022-08-foundation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FraxFinance/fraxlend</title>
-    <updated>2022-08-14T01:55:53Z</updated>
-    <id>tag:github.com,2022-08-14:/FraxFinance/fraxlend</id>
-    <link href="https://github.com/FraxFinance/fraxlend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinchoabbate/eth-sec-lab</title>
+    <updated>2022-08-15T01:53:54Z</updated>
+    <id>tag:github.com,2022-08-15:/tinchoabbate/eth-sec-lab</id>
+    <link href="https://github.com/tinchoabbate/eth-sec-lab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository of notes, writeups and tests to understand security-related issues of Ethereum smart contracts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

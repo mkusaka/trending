@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:43:59Z</updated>
+  <updated>2022-08-15T01:42:08Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tycloud97/devops-exercise</title>
-    <updated>2022-08-14T01:43:59Z</updated>
-    <id>tag:github.com,2022-08-14:/tycloud97/devops-exercise</id>
-    <link href="https://github.com/tycloud97/devops-exercise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LinkedInLearning/terraform-azure-2453108</title>
+    <updated>2022-08-15T01:42:08Z</updated>
+    <id>tag:github.com,2022-08-15:/LinkedInLearning/terraform-azure-2453108</id>
+    <link href="https://github.com/LinkedInLearning/terraform-azure-2453108" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Introduction to Terraform on Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LandmakTechnology/k8s-ansible</title>
-    <updated>2022-08-14T01:43:59Z</updated>
-    <id>tag:github.com,2022-08-14:/LandmakTechnology/k8s-ansible</id>
-    <link href="https://github.com/LandmakTechnology/k8s-ansible" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stacksimplify/hashicorp-certified-terraform-associate-on-azure</title>
+    <updated>2022-08-15T01:42:08Z</updated>
+    <id>tag:github.com,2022-08-15:/stacksimplify/hashicorp-certified-terraform-associate-on-azure</id>
+    <link href="https://github.com/stacksimplify/hashicorp-certified-terraform-associate-on-azure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HashiCorp Certified Terraform Associate on Azure Cloud&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-cloudtrail</title>
+    <updated>2022-08-15T01:42:08Z</updated>
+    <id>tag:github.com,2022-08-15:/cloudposse/terraform-aws-cloudtrail</id>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision an AWS CloudTrail and an encrypted S3 bucket with versioning to store CloudTrail logs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

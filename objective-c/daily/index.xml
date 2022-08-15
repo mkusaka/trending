@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:50:01Z</updated>
+  <updated>2022-08-15T01:48:04Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yylive/YYEVA-iOS</title>
-    <updated>2022-08-14T01:50:01Z</updated>
-    <id>tag:github.com,2022-08-14:/yylive/YYEVA-iOS</id>
-    <link href="https://github.com/yylive/YYEVA-iOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;YY-EVA &lt;sup&gt;iOS&lt;/sup&gt;&lt;/h1&gt; &#xA;&lt;p&gt;简体中文 | &lt;a href=&#34;https://raw.githubusercontent.com/yylive/YYEVA-iOS/main/README_en.md&#34;&gt;English&lt;/a&gt;&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;轻量级 高性能 跨平台 MP4 礼物播放器&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;介绍&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;YYEVAPlayer 是一个轻量的动画渲染库。通过&lt;a href=&#34;https://github.com/yylive/YYEVA/raw/main/YYEVA%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.md&#34;&gt;这里&lt;/a&gt;导出动画文件&lt;/li&gt; &#xA; &lt;li&gt;YYEVA-iOS 使用原生 Metal 库渲染视频，为你提供高性能、低开销的动画体验。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;平台支持&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;支持 &lt;a href=&#34;https://github.com/yylive/YYEVA-Android&#34;&gt;Android&lt;/a&gt;、&lt;a href=&#34;https://github.com/yylive/YYEVA-iOS&#34;&gt;IOS&lt;/a&gt;、&lt;a href=&#34;https://github.com/yylive/YYEVA-Web&#34;&gt;Web&lt;/a&gt; 点击了解详细接入&lt;/li&gt; &#xA; &lt;li&gt;资源制作的AE插件使用规范 &lt;a href=&#34;https://github.com/yylive/YYEVA/tree/main/AEP&#34;&gt;详情&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;数据结构定义 &lt;a href=&#34;https://github.com/yylive/YYEVA/raw/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md&#34;&gt;详情&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;项目相关文章、设计规范等 &lt;a href=&#34;https://github.com/yylive/YYEVA&#34;&gt;详情&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;用法&lt;/h2&gt; &#xA;&lt;h3&gt;使用Cocoapods安装依赖&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;使用 CocoaPods 安装依赖&lt;/li&gt; &#xA; &lt;li&gt;添加依赖 &#39;YYEVA&#39; 到 Podfile 文件中:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;target &#39;MyApp&#39; do &#xA;  pod &#39;YYEVA&#39; ,&#39;1.0.1&#39; &#xA;end&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;放置混合 mp4 文件 在bundle中&lt;/h3&gt; &#xA;&lt;h3&gt;代码&lt;/h3&gt; &#xA;&lt;p&gt;创建一个&lt;code&gt;YYEVAPlayer&lt;/code&gt;实例&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-c++&#34;&gt;YYEVAPlayer *player = [[YYEVAPlayer alloc] init];&#xA;[self.view addSubview:player]; &#xA;&#xA;//config dynmaic elements &#xA;[player setImageUrl:localPath forKey:@&#34;image_key1&#34;];   &#xA;[player setImageUrl:localPath forKey:@&#34;image_key2&#34;];&#xA;[player setImageUrl:localPath forKey:@&#34;image_key3&#34;];&#xA;[player setText:str.text forKey:@&#34;text_key1&#34;];&#xA; &#xA;[player play:file];&#xA;     &#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;其中以下接口是给MP4动态插入,业务文字或图片的接口&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;setImageUrl:forKey&lt;/li&gt; &#xA; &lt;li&gt;setText:forKey&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;QQ交流群&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/yylive/YYEVA/raw/main/img/qqgroup.png&#34; alt=&#34;qqgroup&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;鸣谢&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;感谢 &lt;a href=&#34;https://github.com/Tencent/vap&#34;&gt;vap&lt;/a&gt; 优秀的混合渲染方案、项目Render混合部分重用了 vap的方案&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Dev Team&lt;/h2&gt; &#xA;&lt;table&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt; &lt;img style=&#34;border-radius:8px&#34; width=&#34;80&#34; height=&#34;80&#34; src=&#34;https://avatars.githubusercontent.com/u/14030762?v=4&amp;amp;s=80&#34;&gt; &lt;br&gt; &lt;a href=&#34;https://github.com/guoyabiniOS&#34;&gt;GuoyabiniOS&lt;/a&gt; &lt;/td&gt; &#xA;   &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt; &lt;img style=&#34;border-radius:8px&#34; width=&#34;80&#34; height=&#34;80&#34; src=&#34;https://avatars.githubusercontent.com/u/44636610?v=4&amp;amp;s=80&#34;&gt; &lt;br&gt; &lt;a href=&#34;https://github.com/ganpenglong&#34;&gt;Ganpenglong&lt;/a&gt; &lt;/td&gt; &#xA;   &lt;td align=&#34;center&#34; valign=&#34;top&#34;&gt; &lt;img style=&#34;border-radius:8px&#34; width=&#34;80&#34; height=&#34;80&#34; src=&#34;https://avatars.githubusercontent.com/u/12680946?v=4&amp;amp;s=80&#34;&gt; &lt;br&gt; &lt;a href=&#34;https://github.com/WickyLeung&#34;&gt;WickyLeung&lt;/a&gt; &lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt;</summary>
+    <title>objective-see/OverSight</title>
+    <updated>2022-08-15T01:48:04Z</updated>
+    <id>tag:github.com,2022-08-15:/objective-see/OverSight</id>
+    <link href="https://github.com/objective-see/OverSight" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OverSight monitors a mac&#39;s mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OverSight&lt;/h1&gt; &#xA;&lt;p&gt;Mac malware often spies on users by recording audio and video sessions...sometimes in an undetected manner. OverSight monitors a mac&#39;s mic and webcam, alerting the user when the internal mic is activated, or whenever a process accesses the webcam:&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://objective-see.com/images/OST/overSight.png&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;For more details, see its &lt;a href=&#34;https://objective-see.com/products/oversight.html&#34;&gt;product page&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nearhan/FFMenuApp</title>
+    <updated>2022-08-15T01:48:04Z</updated>
+    <id>tag:github.com,2022-08-15:/Nearhan/FFMenuApp</id>
+    <link href="https://github.com/Nearhan/FFMenuApp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Founding Farmers Fisher&#39;s Bakers Simple Menu App&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>embrace-io/embrace-spm</title>
+    <updated>2022-08-15T01:48:04Z</updated>
+    <id>tag:github.com,2022-08-15:/embrace-io/embrace-spm</id>
+    <link href="https://github.com/embrace-io/embrace-spm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Embrace SPM repo. Documentation: &lt;a href=&#34;https://embrace.io/docs/ios/integration/&#34;&gt;https://embrace.io/docs/ios/integration/&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub RobotFramework Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:53:53Z</updated>
+  <updated>2022-08-15T01:51:48Z</updated>
   <subtitle>Daily Trending of RobotFramework in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>robocorp/example-ssh-commands</title>
-    <updated>2022-08-14T01:53:53Z</updated>
-    <id>tag:github.com,2022-08-14:/robocorp/example-ssh-commands</id>
-    <link href="https://github.com/robocorp/example-ssh-commands" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Various ways of running SSH commands with/out waiting for output.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-14T01:58:48Z</updated>
+  <updated>2022-08-15T01:56:44Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dag/vim-fish</title>
-    <updated>2022-08-14T01:58:48Z</updated>
-    <id>tag:github.com,2022-08-14:/dag/vim-fish</id>
-    <link href="https://github.com/dag/vim-fish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim support for editing fish scripts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sainnhe/edge</title>
+    <updated>2022-08-15T01:56:44Z</updated>
+    <id>tag:github.com,2022-08-15:/sainnhe/edge</id>
+    <link href="https://github.com/sainnhe/edge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clean &amp; Elegant Color Scheme inspired by Atom One and Material&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>michaeljsmith/vim-indent-object</title>
-    <updated>2022-08-14T01:58:48Z</updated>
-    <id>tag:github.com,2022-08-14:/michaeljsmith/vim-indent-object</id>
-    <link href="https://github.com/michaeljsmith/vim-indent-object" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Shougo/neocomplete.vim</title>
-    <updated>2022-08-14T01:58:48Z</updated>
-    <id>tag:github.com,2022-08-14:/Shougo/neocomplete.vim</id>
-    <link href="https://github.com/Shougo/neocomplete.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Next generation completion framework after neocomplcache&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpope/vim-vinegar</title>
+    <updated>2022-08-15T01:56:44Z</updated>
+    <id>tag:github.com,2022-08-15:/tpope/vim-vinegar</id>
+    <link href="https://github.com/tpope/vim-vinegar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vinegar.vim: Combine with netrw to create a delicious salad dressing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
