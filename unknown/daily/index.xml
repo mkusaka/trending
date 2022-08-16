@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:32:38Z</updated>
+  <updated>2022-08-16T01:34:17Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Learn-with-Sumit/think-in-a-redux-way</title>
-    <updated>2022-08-15T01:32:38Z</updated>
-    <id>tag:github.com,2022-08-15:/Learn-with-Sumit/think-in-a-redux-way</id>
-    <link href="https://github.com/Learn-with-Sumit/think-in-a-redux-way" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Think in a Redux way - React-Redux basic to advanced Bangla course by Learn with Sumit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>awesomedata/awesome-public-datasets</title>
+    <updated>2022-08-16T01:34:17Z</updated>
+    <id>tag:github.com,2022-08-16:/awesomedata/awesome-public-datasets</id>
+    <link href="https://github.com/awesomedata/awesome-public-datasets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A topic-centric list of HQ open datasets.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>payloadbox/sql-injection-payload-list</title>
-    <updated>2022-08-15T01:32:38Z</updated>
-    <id>tag:github.com,2022-08-15:/payloadbox/sql-injection-payload-list</id>
-    <link href="https://github.com/payloadbox/sql-injection-payload-list" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎯 SQL Injection Payload List&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sorrycc/awesome-javascript</title>
+    <updated>2022-08-16T01:34:17Z</updated>
+    <id>tag:github.com,2022-08-16:/sorrycc/awesome-javascript</id>
+    <link href="https://github.com/sorrycc/awesome-javascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>divanov11/Hackathon---Code-Battle-Edition</title>
-    <updated>2022-08-15T01:32:38Z</updated>
-    <id>tag:github.com,2022-08-15:/divanov11/Hackathon---Code-Battle-Edition</id>
-    <link href="https://github.com/divanov11/Hackathon---Code-Battle-Edition" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Announcing the next hackathon for the month of august!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clear-code-projects/PyDew-Valley</title>
+    <updated>2022-08-16T01:34:17Z</updated>
+    <id>tag:github.com,2022-08-16:/clear-code-projects/PyDew-Valley</id>
+    <link href="https://github.com/clear-code-projects/PyDew-Valley" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proejct files for a Stardew Valley inspired game in Python&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

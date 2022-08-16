@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stan Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:54:12Z</updated>
+  <updated>2022-08-16T01:57:16Z</updated>
   <subtitle>Daily Trending of Stan in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>julianfaraway/rexamples</title>
+    <updated>2022-08-16T01:57:16Z</updated>
+    <id>tag:github.com,2022-08-16:/julianfaraway/rexamples</id>
+    <link href="https://github.com/julianfaraway/rexamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;worked R examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

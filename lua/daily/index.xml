@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:45:33Z</updated>
+  <updated>2022-08-16T01:48:13Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hrsh7th/cmp-nvim-lsp</title>
-    <updated>2022-08-15T01:45:33Z</updated>
-    <id>tag:github.com,2022-08-15:/hrsh7th/cmp-nvim-lsp</id>
-    <link href="https://github.com/hrsh7th/cmp-nvim-lsp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nvim-cmp source for neovim builtin LSP client&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cmp-nvim-lsp&lt;/h1&gt; &#xA;&lt;p&gt;nvim-cmp source for neovim&#39;s built-in language server client.&lt;/p&gt; &#xA;&lt;h1&gt;Capabilities&lt;/h1&gt; &#xA;&lt;p&gt;Language servers provide different completion results depending on the capabilities of the client. Neovim&#39;s default omnifunc has basic support for serving completion candidates. nvim-cmp supports more types of completion candidates, so users must override the capabilities sent to the server such that it can provide these candidates during a completion request. These capabilities are provided via the helper function &lt;code&gt;require(&#39;cmp_nvim_lsp&#39;).update_capabilities&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;As these candidates are sent on each request, &lt;strong&gt;adding these capabilities will break the built-in omnifunc support for neovim&#39;s language server client&lt;/strong&gt;. &lt;code&gt;nvim-cmp&lt;/code&gt; provides manually triggered completion that can replace omnifunc. See &lt;code&gt;:help cmp-faq&lt;/code&gt; for more details.&lt;/p&gt; &#xA;&lt;h1&gt;Setup&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;&#xA;require&#39;cmp&#39;.setup {&#xA;  sources = {&#xA;    { name = &#39;nvim_lsp&#39; }&#xA;  }&#xA;}&#xA;&#xA;-- The nvim-cmp almost supports LSP&#39;s capabilities so You should advertise it to LSP servers..&#xA;local capabilities = vim.lsp.protocol.make_client_capabilities()&#xA;capabilities = require(&#39;cmp_nvim_lsp&#39;).update_capabilities(capabilities)&#xA;&#xA;-- The following example advertise capabilities to `clangd`.&#xA;require&#39;lspconfig&#39;.clangd.setup {&#xA;  capabilities = capabilities,&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

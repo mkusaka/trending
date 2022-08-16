@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:51:56Z</updated>
+  <updated>2022-08-16T01:55:01Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>palantir/windows-event-forwarding</title>
+    <updated>2022-08-16T01:55:01Z</updated>
+    <id>tag:github.com,2022-08-16:/palantir/windows-event-forwarding</id>
+    <link href="https://github.com/palantir/windows-event-forwarding" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for using windows event forwarding for incident detection and response&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:47:38Z</updated>
+  <updated>2022-08-16T01:50:30Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>juancarlospaco/faster-than-requests</title>
-    <updated>2022-08-15T01:47:38Z</updated>
-    <id>tag:github.com,2022-08-15:/juancarlospaco/faster-than-requests</id>
-    <link href="https://github.com/juancarlospaco/faster-than-requests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Faster requests on Python 3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

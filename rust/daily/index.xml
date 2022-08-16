@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:52:13Z</updated>
+  <updated>2022-08-16T01:55:22Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>roc-lang/roc</title>
-    <updated>2022-08-15T01:52:13Z</updated>
-    <id>tag:github.com,2022-08-15:/roc-lang/roc</id>
-    <link href="https://github.com/roc-lang/roc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Roc is a language for making delightful software.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vadimcn/vscode-lldb</title>
+    <updated>2022-08-16T01:55:22Z</updated>
+    <id>tag:github.com,2022-08-16:/vadimcn/vscode-lldb</id>
+    <link href="https://github.com/vadimcn/vscode-lldb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A native debugger extension for VSCode based on LLDB&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>erg-lang/erg</title>
-    <updated>2022-08-15T01:52:13Z</updated>
-    <id>tag:github.com,2022-08-15:/erg-lang/erg</id>
-    <link href="https://github.com/erg-lang/erg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Python-compatible statically typed language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>image-rs/image</title>
+    <updated>2022-08-16T01:55:22Z</updated>
+    <id>tag:github.com,2022-08-16:/image-rs/image</id>
+    <link href="https://github.com/image-rs/image" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Encoding and decoding images in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>trimental/inlyne</title>
-    <updated>2022-08-15T01:52:13Z</updated>
-    <id>tag:github.com,2022-08-15:/trimental/inlyne</id>
-    <link href="https://github.com/trimental/inlyne" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Introducing Inlyne, a GPU powered yet browsless tool to help you quickly view markdown files in the blink of an eye.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>redis-rs/redis-rs</title>
+    <updated>2022-08-16T01:55:22Z</updated>
+    <id>tag:github.com,2022-08-16:/redis-rs/redis-rs</id>
+    <link href="https://github.com/redis-rs/redis-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Redis library for rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

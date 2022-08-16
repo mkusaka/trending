@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:38:49Z</updated>
+  <updated>2022-08-16T01:40:53Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phoenixframework/tailwind</title>
-    <updated>2022-08-15T01:38:49Z</updated>
-    <id>tag:github.com,2022-08-15:/phoenixframework/tailwind</id>
-    <link href="https://github.com/phoenixframework/tailwind" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An installer for tailwind&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mirego/mix_audit</title>
-    <updated>2022-08-15T01:38:49Z</updated>
-    <id>tag:github.com,2022-08-15:/mirego/mix_audit</id>
-    <link href="https://github.com/mirego/mix_audit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🕵️‍♀️ MixAudit provides a mix deps.audit task to scan a project Mix dependencies for known Elixir security vulnerabilities&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>theblitzapp/factory_ex</title>
+    <updated>2022-08-16T01:40:53Z</updated>
+    <id>tag:github.com,2022-08-16:/theblitzapp/factory_ex</id>
+    <link href="https://github.com/theblitzapp/factory_ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Factories for elixir to help create data models at random, this works for any type of ecto structs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

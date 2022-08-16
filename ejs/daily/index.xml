@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:38:45Z</updated>
+  <updated>2022-08-16T01:40:47Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dhvitOP/AnimeEZ</title>
+    <updated>2022-08-16T01:40:47Z</updated>
+    <id>tag:github.com,2022-08-16:/dhvitOP/AnimeEZ</id>
+    <link href="https://github.com/dhvitOP/AnimeEZ" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AnimeEZ - An Anime Streaming website (Demo - https://animeez.live) BTW ITS MADE IN HTML&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sapbtptraining/weatherapp</title>
+    <updated>2022-08-16T01:40:47Z</updated>
+    <id>tag:github.com,2022-08-16:/sapbtptraining/weatherapp</id>
+    <link href="https://github.com/sapbtptraining/weatherapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;weather app for Batch2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

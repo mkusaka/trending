@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:40:20Z</updated>
+  <updated>2022-08-16T01:42:33Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andresgamboaa/goduz</title>
-    <updated>2022-08-15T01:40:20Z</updated>
-    <id>tag:github.com,2022-08-15:/andresgamboaa/goduz</id>
-    <link href="https://github.com/andresgamboaa/goduz" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GDScript library for building interactive user interfaces with Godot Engine 4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andresgamboaa/guidot-docs</title>
+    <updated>2022-08-16T01:42:33Z</updated>
+    <id>tag:github.com,2022-08-16:/andresgamboaa/guidot-docs</id>
+    <link href="https://github.com/andresgamboaa/guidot-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GodotVR/godot-xr-tools</title>
-    <updated>2022-08-15T01:40:20Z</updated>
-    <id>tag:github.com,2022-08-15:/GodotVR/godot-xr-tools</id>
-    <link href="https://github.com/GodotVR/godot-xr-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Support scenes for AR and VR in Godot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FluffyLuffie/Godot-GpuPathfinder</title>
+    <updated>2022-08-16T01:42:33Z</updated>
+    <id>tag:github.com,2022-08-16:/FluffyLuffie/Godot-GpuPathfinder</id>
+    <link href="https://github.com/FluffyLuffie/Godot-GpuPathfinder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pathfinding algorithm utilizing the GPU in Godot.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

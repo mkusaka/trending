@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:34:27Z</updated>
+  <updated>2022-08-16T01:36:20Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Rdmo1/swift-multi-Tool</title>
-    <updated>2022-08-15T01:34:27Z</updated>
-    <id>tag:github.com,2022-08-15:/Rdmo1/swift-multi-Tool</id>
-    <link href="https://github.com/Rdmo1/swift-multi-Tool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Made in Python! Multi Tool for Roblox &amp; Discord, visit now!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

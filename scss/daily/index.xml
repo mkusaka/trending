@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-15T01:52:40Z</updated>
+  <updated>2022-08-16T01:55:49Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>khang-nd/7.css</title>
-    <updated>2022-08-15T01:52:40Z</updated>
-    <id>tag:github.com,2022-08-15:/khang-nd/7.css</id>
-    <link href="https://github.com/khang-nd/7.css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny CSS framework for building faithful recreations of the Windows 7 UI.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/argon-design-system-angular</title>
+    <updated>2022-08-16T01:55:49Z</updated>
+    <id>tag:github.com,2022-08-16:/creativetimofficial/argon-design-system-angular</id>
+    <link href="https://github.com/creativetimofficial/argon-design-system-angular" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>peterewills/peterewills.github.io</title>
+    <updated>2022-08-16T01:55:49Z</updated>
+    <id>tag:github.com,2022-08-16:/peterewills/peterewills.github.io</id>
+    <link href="https://github.com/peterewills/peterewills.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source for pwills.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zerostaticthemes/hugo-hero-theme</title>
+    <updated>2022-08-16T01:55:49Z</updated>
+    <id>tag:github.com,2022-08-16:/zerostaticthemes/hugo-hero-theme</id>
+    <link href="https://github.com/zerostaticthemes/hugo-hero-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A multi-page Hugo theme with fullscreen hero images and fullwidth sections.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
