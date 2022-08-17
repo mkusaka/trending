@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-16T01:44:27Z</updated>
+  <updated>2022-08-17T01:45:49Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stacksimplify/terraform-iacdevops-with-aws-codepipeline</title>
-    <updated>2022-08-16T01:44:27Z</updated>
-    <id>tag:github.com,2022-08-16:/stacksimplify/terraform-iacdevops-with-aws-codepipeline</id>
-    <link href="https://github.com/stacksimplify/terraform-iacdevops-with-aws-codepipeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implement Terraform IAC DevOps for AWS Project with AWS CodePipeline&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JamesWoolfenden/pike</title>
+    <updated>2022-08-17T01:45:49Z</updated>
+    <id>tag:github.com,2022-08-17:/JamesWoolfenden/pike</id>
+    <link href="https://github.com/JamesWoolfenden/pike" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pike is a tool for determining the permissions or policy required for IAC code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cldcvr/codepipes-tutorials</title>
-    <updated>2022-08-16T01:44:27Z</updated>
-    <id>tag:github.com,2022-08-16:/cldcvr/codepipes-tutorials</id>
-    <link href="https://github.com/cldcvr/codepipes-tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for interesting tutorial artifacts that can be used with Code Pipes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-route53-cluster-zone</title>
+    <updated>2022-08-17T01:45:49Z</updated>
+    <id>tag:github.com,2022-08-17:/cloudposse/terraform-aws-route53-cluster-zone</id>
+    <link href="https://github.com/cloudposse/terraform-aws-route53-cluster-zone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to easily define consistent cluster domains on Route53 (e.g. `prod.ourcompany.com`)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hashicorp/learn-private-module-root</title>
-    <updated>2022-08-16T01:44:27Z</updated>
-    <id>tag:github.com,2022-08-16:/hashicorp/learn-private-module-root</id>
-    <link href="https://github.com/hashicorp/learn-private-module-root" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-google-cloud-nat</title>
+    <updated>2022-08-17T01:45:49Z</updated>
+    <id>tag:github.com,2022-08-17:/terraform-google-modules/terraform-google-cloud-nat</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-cloud-nat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This module handles opinionated Google Cloud Platform Cloud NAT creation and configuration.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

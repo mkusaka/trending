@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-16T01:34:17Z</updated>
+  <updated>2022-08-17T01:35:32Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>awesomedata/awesome-public-datasets</title>
-    <updated>2022-08-16T01:34:17Z</updated>
-    <id>tag:github.com,2022-08-16:/awesomedata/awesome-public-datasets</id>
-    <link href="https://github.com/awesomedata/awesome-public-datasets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A topic-centric list of HQ open datasets.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>notpresident35/learn-awesome-gamedev</title>
+    <updated>2022-08-17T01:35:32Z</updated>
+    <id>tag:github.com,2022-08-17:/notpresident35/learn-awesome-gamedev</id>
+    <link href="https://github.com/notpresident35/learn-awesome-gamedev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated collection of game development resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sorrycc/awesome-javascript</title>
-    <updated>2022-08-16T01:34:17Z</updated>
-    <id>tag:github.com,2022-08-16:/sorrycc/awesome-javascript</id>
-    <link href="https://github.com/sorrycc/awesome-javascript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blaCCkHatHacEEkr/PENTESTING-BIBLE</title>
+    <updated>2022-08-17T01:35:32Z</updated>
+    <id>tag:github.com,2022-08-17:/blaCCkHatHacEEkr/PENTESTING-BIBLE</id>
+    <link href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clear-code-projects/PyDew-Valley</title>
-    <updated>2022-08-16T01:34:17Z</updated>
-    <id>tag:github.com,2022-08-16:/clear-code-projects/PyDew-Valley</id>
-    <link href="https://github.com/clear-code-projects/PyDew-Valley" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proejct files for a Stardew Valley inspired game in Python&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>h4wkst3r/Blackhat-USA-2022-Materials</title>
+    <updated>2022-08-17T01:35:32Z</updated>
+    <id>tag:github.com,2022-08-17:/h4wkst3r/Blackhat-USA-2022-Materials</id>
+    <link href="https://github.com/h4wkst3r/Blackhat-USA-2022-Materials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Presentation materials for my Black Hat USA 2022 Briefing and Arsenal talks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-16T01:55:22Z</updated>
+  <updated>2022-08-17T01:56:48Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vadimcn/vscode-lldb</title>
-    <updated>2022-08-16T01:55:22Z</updated>
-    <id>tag:github.com,2022-08-16:/vadimcn/vscode-lldb</id>
-    <link href="https://github.com/vadimcn/vscode-lldb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A native debugger extension for VSCode based on LLDB&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/futures-rs</title>
+    <updated>2022-08-17T01:56:48Z</updated>
+    <id>tag:github.com,2022-08-17:/rust-lang/futures-rs</id>
+    <link href="https://github.com/rust-lang/futures-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zero-cost asynchronous programming in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>image-rs/image</title>
-    <updated>2022-08-16T01:55:22Z</updated>
-    <id>tag:github.com,2022-08-16:/image-rs/image</id>
-    <link href="https://github.com/image-rs/image" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Encoding and decoding images in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>redis-rs/redis-rs</title>
-    <updated>2022-08-16T01:55:22Z</updated>
-    <id>tag:github.com,2022-08-16:/redis-rs/redis-rs</id>
-    <link href="https://github.com/redis-rs/redis-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Redis library for rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kurbos/bevy-shell-template</title>
+    <updated>2022-08-17T01:56:48Z</updated>
+    <id>tag:github.com,2022-08-17:/kurbos/bevy-shell-template</id>
+    <link href="https://github.com/kurbos/bevy-shell-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
