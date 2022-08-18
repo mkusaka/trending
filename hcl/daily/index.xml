@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-17T01:45:49Z</updated>
+  <updated>2022-08-18T01:41:50Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JamesWoolfenden/pike</title>
-    <updated>2022-08-17T01:45:49Z</updated>
-    <id>tag:github.com,2022-08-17:/JamesWoolfenden/pike</id>
-    <link href="https://github.com/JamesWoolfenden/pike" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pike is a tool for determining the permissions or policy required for IAC code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-ssm-parameter-store</title>
+    <updated>2022-08-18T01:41:50Z</updated>
+    <id>tag:github.com,2022-08-18:/cloudposse/terraform-aws-ssm-parameter-store</id>
+    <link href="https://github.com/cloudposse/terraform-aws-ssm-parameter-store" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to populate AWS Systems Manager (SSM) Parameter Store with values from Terraform. Works great with Chamber.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-aws-route53-cluster-zone</title>
-    <updated>2022-08-17T01:45:49Z</updated>
-    <id>tag:github.com,2022-08-17:/cloudposse/terraform-aws-route53-cluster-zone</id>
-    <link href="https://github.com/cloudposse/terraform-aws-route53-cluster-zone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to easily define consistent cluster domains on Route53 (e.g. `prod.ourcompany.com`)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-iam-system-user</title>
+    <updated>2022-08-18T01:41:50Z</updated>
+    <id>tag:github.com,2022-08-18:/cloudposse/terraform-aws-iam-system-user</id>
+    <link href="https://github.com/cloudposse/terraform-aws-iam-system-user" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module to Provision a Basic IAM System User Suitable for CI/CD Systems (E.g. TravisCI, CircleCI)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>terraform-google-modules/terraform-google-cloud-nat</title>
-    <updated>2022-08-17T01:45:49Z</updated>
-    <id>tag:github.com,2022-08-17:/terraform-google-modules/terraform-google-cloud-nat</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-cloud-nat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This module handles opinionated Google Cloud Platform Cloud NAT creation and configuration.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quortex/terraform-aws-load-balancer</title>
+    <updated>2022-08-18T01:41:50Z</updated>
+    <id>tag:github.com,2022-08-18:/quortex/terraform-aws-load-balancer</id>
+    <link href="https://github.com/quortex/terraform-aws-load-balancer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A terraform module for Quortex infrastructure AWS load balancing layer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

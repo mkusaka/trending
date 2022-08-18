@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-17T01:35:32Z</updated>
+  <updated>2022-08-18T01:32:38Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>notpresident35/learn-awesome-gamedev</title>
-    <updated>2022-08-17T01:35:32Z</updated>
-    <id>tag:github.com,2022-08-17:/notpresident35/learn-awesome-gamedev</id>
-    <link href="https://github.com/notpresident35/learn-awesome-gamedev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated collection of game development resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>engenheiracoelho/curriculo</title>
+    <updated>2022-08-18T01:32:38Z</updated>
+    <id>tag:github.com,2022-08-18:/engenheiracoelho/curriculo</id>
+    <link href="https://github.com/engenheiracoelho/curriculo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Esse repositório tem o objetivo de te ajudar a criar um bom currículo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>blaCCkHatHacEEkr/PENTESTING-BIBLE</title>
-    <updated>2022-08-17T01:35:32Z</updated>
-    <id>tag:github.com,2022-08-17:/blaCCkHatHacEEkr/PENTESTING-BIBLE</id>
-    <link href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Authing/Authing</title>
+    <updated>2022-08-18T01:32:38Z</updated>
+    <id>tag:github.com,2022-08-18:/Authing/Authing</id>
+    <link href="https://github.com/Authing/Authing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥Authing - IDaaS/IAM solution that can Auth to web and mobile applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>h4wkst3r/Blackhat-USA-2022-Materials</title>
-    <updated>2022-08-17T01:35:32Z</updated>
-    <id>tag:github.com,2022-08-17:/h4wkst3r/Blackhat-USA-2022-Materials</id>
-    <link href="https://github.com/h4wkst3r/Blackhat-USA-2022-Materials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Presentation materials for my Black Hat USA 2022 Briefing and Arsenal talks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wietze/HijackLibs</title>
+    <updated>2022-08-18T01:32:38Z</updated>
+    <id>tag:github.com,2022-08-18:/wietze/HijackLibs</id>
+    <link href="https://github.com/wietze/HijackLibs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project for tracking publicly disclosed DLL Hijacking opportunities.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

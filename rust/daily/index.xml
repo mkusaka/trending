@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-17T01:56:48Z</updated>
+  <updated>2022-08-18T01:52:01Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rust-lang/futures-rs</title>
-    <updated>2022-08-17T01:56:48Z</updated>
-    <id>tag:github.com,2022-08-17:/rust-lang/futures-rs</id>
-    <link href="https://github.com/rust-lang/futures-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zero-cost asynchronous programming in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PyO3/maturin</title>
+    <updated>2022-08-18T01:52:01Z</updated>
+    <id>tag:github.com,2022-08-18:/PyO3/maturin</id>
+    <link href="https://github.com/PyO3/maturin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kurbos/bevy-shell-template</title>
-    <updated>2022-08-17T01:56:48Z</updated>
-    <id>tag:github.com,2022-08-17:/kurbos/bevy-shell-template</id>
-    <link href="https://github.com/kurbos/bevy-shell-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An opinionated, monolithic template for Bevy with cross-platform CI/CD, native + WASM launchers, and managed cross-platform deployment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>notify-rs/notify</title>
+    <updated>2022-08-18T01:52:01Z</updated>
+    <id>tag:github.com,2022-08-18:/notify-rs/notify</id>
+    <link href="https://github.com/notify-rs/notify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔭 Cross-platform filesystem notification library for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

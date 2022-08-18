@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-17T01:57:14Z</updated>
+  <updated>2022-08-18T01:52:28Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FE-Ocean/who-be-go</title>
-    <updated>2022-08-17T01:57:14Z</updated>
-    <id>tag:github.com,2022-08-17:/FE-Ocean/who-be-go</id>
-    <link href="https://github.com/FE-Ocean/who-be-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>synllc/hollywood-themes</title>
+    <updated>2022-08-18T01:52:28Z</updated>
+    <id>tag:github.com,2022-08-18:/synllc/hollywood-themes</id>
+    <link href="https://github.com/synllc/hollywood-themes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The themes and styling for Hollywood.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>creativetimofficial/nuxt-black-dashboard</title>
-    <updated>2022-08-17T01:57:14Z</updated>
-    <id>tag:github.com,2022-08-17:/creativetimofficial/nuxt-black-dashboard</id>
-    <link href="https://github.com/creativetimofficial/nuxt-black-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mqtt/mqtt.org</title>
+    <updated>2022-08-18T01:52:28Z</updated>
+    <id>tag:github.com,2022-08-18:/mqtt/mqtt.org</id>
+    <link href="https://github.com/mqtt/mqtt.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The mqtt.org website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pages-themes/architect</title>
+    <updated>2022-08-18T01:52:28Z</updated>
+    <id>tag:github.com,2022-08-18:/pages-themes/architect</id>
+    <link href="https://github.com/pages-themes/architect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Architect is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
