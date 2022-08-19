@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:36:16Z</updated>
+  <updated>2022-08-19T01:34:57Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pananton/cpp-lib-template</title>
-    <updated>2022-08-18T01:36:16Z</updated>
-    <id>tag:github.com,2022-08-18:/pananton/cpp-lib-template</id>
-    <link href="https://github.com/pananton/cpp-lib-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template for C++ library built with CMake&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MORAI-Autonomous/MORAI-ROS2_morai_msgs</title>
+    <updated>2022-08-19T01:34:57Z</updated>
+    <id>tag:github.com,2022-08-19:/MORAI-Autonomous/MORAI-ROS2_morai_msgs</id>
+    <link href="https://github.com/MORAI-Autonomous/MORAI-ROS2_morai_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MORAI Simulator ROS2 message set&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tier4/lexus_description.iv</title>
+    <updated>2022-08-19T01:34:57Z</updated>
+    <id>tag:github.com,2022-08-19:/tier4/lexus_description.iv</id>
+    <link href="https://github.com/tier4/lexus_description.iv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lexus_description for autoware.iv&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

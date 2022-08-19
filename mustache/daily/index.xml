@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:46:38Z</updated>
+  <updated>2022-08-19T01:43:32Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>twuni/docker-registry.helm</title>
+    <updated>2022-08-19T01:43:32Z</updated>
+    <id>tag:github.com,2022-08-19:/twuni/docker-registry.helm</id>
+    <link href="https://github.com/twuni/docker-registry.helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart for a Docker registry. Successor to stable/docker-registry chart.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

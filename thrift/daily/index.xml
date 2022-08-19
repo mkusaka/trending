@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Thrift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:55:06Z</updated>
+  <updated>2022-08-19T01:50:40Z</updated>
   <subtitle>Daily Trending of Thrift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>quintoandar/hive-metastore-client</title>
+    <updated>2022-08-19T01:50:40Z</updated>
+    <id>tag:github.com,2022-08-19:/quintoandar/hive-metastore-client</id>
+    <link href="https://github.com/quintoandar/hive-metastore-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A client for connecting and running DDLs on hive metastore.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:33:02Z</updated>
+  <updated>2022-08-19T01:32:31Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>perfume-dev/example-flash</title>
+    <updated>2022-08-19T01:32:31Z</updated>
+    <id>tag:github.com,2022-08-19:/perfume-dev/example-flash</id>
+    <link href="https://github.com/perfume-dev/example-flash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

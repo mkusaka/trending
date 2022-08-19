@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:56:31Z</updated>
+  <updated>2022-08-19T01:51:23Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>martinbundgaard/dotvim</title>
-    <updated>2022-08-18T01:56:31Z</updated>
-    <id>tag:github.com,2022-08-18:/martinbundgaard/dotvim</id>
-    <link href="https://github.com/martinbundgaard/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My vim config files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skywind3000/asynctasks.vim</title>
+    <updated>2022-08-19T01:51:23Z</updated>
+    <id>tag:github.com,2022-08-19:/skywind3000/asynctasks.vim</id>
+    <link href="https://github.com/skywind3000/asynctasks.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Modern Task System for Project Building, Testing and Deploying !!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vim-scripts/restore_view.vim</title>
-    <updated>2022-08-18T01:56:31Z</updated>
-    <id>tag:github.com,2022-08-18:/vim-scripts/restore_view.vim</id>
-    <link href="https://github.com/vim-scripts/restore_view.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A plugin for automatically restoring file&#39;s cursor position and folding&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>olsender/sql_gf</title>
+    <updated>2022-08-19T01:51:23Z</updated>
+    <id>tag:github.com,2022-08-19:/olsender/sql_gf</id>
+    <link href="https://github.com/olsender/sql_gf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast jumping to database function source file (go file for database code)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Raimondi/delimitMate</title>
-    <updated>2022-08-18T01:56:31Z</updated>
-    <id>tag:github.com,2022-08-18:/Raimondi/delimitMate</id>
-    <link href="https://github.com/Raimondi/delimitMate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tmhedberg/SimpylFold</title>
+    <updated>2022-08-19T01:51:23Z</updated>
+    <id>tag:github.com,2022-08-19:/tmhedberg/SimpylFold</id>
+    <link href="https://github.com/tmhedberg/SimpylFold" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;No-BS Python code folding for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

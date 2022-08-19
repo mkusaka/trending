@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:34:07Z</updated>
+  <updated>2022-08-19T01:33:12Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JusKillmeQik/PoE-Leveling-Guide</title>
-    <updated>2022-08-18T01:34:07Z</updated>
-    <id>tag:github.com,2022-08-18:/JusKillmeQik/PoE-Leveling-Guide</id>
-    <link href="https://github.com/JusKillmeQik/PoE-Leveling-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Autohotkey overlay macro for leveling in Path of Exile&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

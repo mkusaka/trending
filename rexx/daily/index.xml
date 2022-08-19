@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub REXX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:51:28Z</updated>
+  <updated>2022-08-19T01:47:15Z</updated>
   <subtitle>Daily Trending of REXX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mainframed/DC30_Workshop</title>
-    <updated>2022-08-18T01:51:28Z</updated>
-    <id>tag:github.com,2022-08-18:/mainframed/DC30_Workshop</id>
-    <link href="https://github.com/mainframed/DC30_Workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DEFCON 30 Mainframe buffer overlow workshop container&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SQF Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:53:29Z</updated>
+  <updated>2022-08-19T01:49:24Z</updated>
   <subtitle>Daily Trending of SQF in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gruppe-adler/Shoot_and_Scoot.Tanoa</title>
+    <updated>2022-08-19T01:49:24Z</updated>
+    <id>tag:github.com,2022-08-19:/gruppe-adler/Shoot_and_Scoot.Tanoa</id>
+    <link href="https://github.com/gruppe-adler/Shoot_and_Scoot.Tanoa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TvT game mode - artillery vs. sound directionfinders vs. hunter-killer-teams&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

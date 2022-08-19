@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:52:24Z</updated>
+  <updated>2022-08-19T01:48:10Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>oc/roninku</title>
-    <updated>2022-08-18T01:52:24Z</updated>
-    <id>tag:github.com,2022-08-18:/oc/roninku</id>
-    <link href="https://github.com/oc/roninku" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Roninku - Build your own Heroku with Salt, Git, etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dwyer/lilib</title>
-    <updated>2022-08-18T01:52:24Z</updated>
-    <id>tag:github.com,2022-08-18:/dwyer/lilib</id>
-    <link href="https://github.com/dwyer/lilib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

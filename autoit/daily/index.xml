@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:34:05Z</updated>
+  <updated>2022-08-19T01:33:17Z</updated>
   <subtitle>Daily Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>KovaaK/InterAccel</title>
-    <updated>2022-08-18T01:34:05Z</updated>
-    <id>tag:github.com,2022-08-18:/KovaaK/InterAccel</id>
-    <link href="https://github.com/KovaaK/InterAccel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QuakeLive style mouse acceleration across your entire OS and any game&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:53:25Z</updated>
+  <updated>2022-08-19T01:49:19Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>The-Arbiter/Aux-Bytes-Example</title>
-    <updated>2022-08-18T01:53:25Z</updated>
-    <id>tag:github.com,2022-08-18:/The-Arbiter/Aux-Bytes-Example</id>
-    <link href="https://github.com/The-Arbiter/Aux-Bytes-Example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An example repo for how to use aux bytes to store uint values and read them.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bikenfinance/BKN-SmartContract</title>
-    <updated>2022-08-18T01:53:25Z</updated>
-    <id>tag:github.com,2022-08-18:/bikenfinance/BKN-SmartContract</id>
-    <link href="https://github.com/bikenfinance/BKN-SmartContract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0age/HomeWork</title>
-    <updated>2022-08-18T01:53:25Z</updated>
-    <id>tag:github.com,2022-08-18:/0age/HomeWork</id>
-    <link href="https://github.com/0age/HomeWork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HomeWork is an autonomous utility for finding, sharing and reusing home addresses for contracts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>minaminao/ctf-blockchain</title>
+    <updated>2022-08-19T01:49:19Z</updated>
+    <id>tag:github.com,2022-08-19:/minaminao/ctf-blockchain</id>
+    <link href="https://github.com/minaminao/ctf-blockchain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A summary of 100+ CTF blockchain challenges&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

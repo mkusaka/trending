@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:56:42Z</updated>
+  <updated>2022-08-19T01:51:33Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leon-kfd/Dashboard</title>
-    <updated>2022-08-18T01:56:42Z</updated>
-    <id>tag:github.com,2022-08-18:/leon-kfd/Dashboard</id>
-    <link href="https://github.com/leon-kfd/Dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom your personal browser start page from some configurable components.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dragon1207/vue-infinite-scroll-view</title>
-    <updated>2022-08-18T01:56:42Z</updated>
-    <id>tag:github.com,2022-08-18:/Dragon1207/vue-infinite-scroll-view</id>
-    <link href="https://github.com/Dragon1207/vue-infinite-scroll-view" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>caojianyu/tauri-remote-desktop</title>
-    <updated>2022-08-18T01:56:42Z</updated>
-    <id>tag:github.com,2022-08-18:/caojianyu/tauri-remote-desktop</id>
-    <link href="https://github.com/caojianyu/tauri-remote-desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a remote desktop control tool built using Tauri and implemented based on WebRTC. Build a simple server using Rust. Views built using Vue3+TypeScript.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jeecgboot/ant-design-vue-jeecg</title>
+    <updated>2022-08-19T01:51:33Z</updated>
+    <id>tag:github.com,2022-08-19:/jeecgboot/ant-design-vue-jeecg</id>
+    <link href="https://github.com/jeecgboot/ant-design-vue-jeecg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;「企业级低代码平台」Vue2版UI，基于 Vue2+AntDesignVue 实现的 Ant Design Pro，提供强大代码生成器的低代码平台。 前端页面代码和后端功能代码一键生成，不需要写任何代码，保持jeecg一贯的强大！！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:33:59Z</updated>
+  <updated>2022-08-19T01:33:08Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nornagon/jonesforth</title>
-    <updated>2022-08-18T01:33:59Z</updated>
-    <id>tag:github.com,2022-08-18:/nornagon/jonesforth</id>
-    <link href="https://github.com/nornagon/jonesforth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of JONESFORTH&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nmlgc/ReC98</title>
+    <updated>2022-08-19T01:33:08Z</updated>
+    <id>tag:github.com,2022-08-19:/nmlgc/ReC98</id>
+    <link href="https://github.com/nmlgc/ReC98" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Touhou PC-98 Restoration Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hugokernel/RC2Fms</title>
+    <updated>2022-08-19T01:33:08Z</updated>
+    <id>tag:github.com,2022-08-19:/hugokernel/RC2Fms</id>
+    <link href="https://github.com/hugokernel/RC2Fms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert data from rc remote control to rs232 serial stream for use with FMS simulator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>barrettotte/perceptron-asm</title>
+    <updated>2022-08-19T01:33:08Z</updated>
+    <id>tag:github.com,2022-08-19:/barrettotte/perceptron-asm</id>
+    <link href="https://github.com/barrettotte/perceptron-asm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A single-layer perceptron in x86 assembly to distinguish between circles and rectangles.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:41:30Z</updated>
+  <updated>2022-08-19T01:38:40Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>micronaut-projects/micronaut-groovy</title>
-    <updated>2022-08-18T01:41:30Z</updated>
-    <id>tag:github.com,2022-08-18:/micronaut-projects/micronaut-groovy</id>
-    <link href="https://github.com/micronaut-projects/micronaut-groovy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projects that enhance the Micronaut + Groovy experience&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>micronaut-projects/micronaut-chatbots</title>
-    <updated>2022-08-18T01:41:30Z</updated>
-    <id>tag:github.com,2022-08-18:/micronaut-projects/micronaut-chatbots</id>
-    <link href="https://github.com/micronaut-projects/micronaut-chatbots" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create Telegram, Slack, Google Chat Bots with the Micronaut Framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>micronaut-projects/static-website</title>
-    <updated>2022-08-18T01:41:30Z</updated>
-    <id>tag:github.com,2022-08-18:/micronaut-projects/static-website</id>
-    <link href="https://github.com/micronaut-projects/static-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Micronaut website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>season-max/asm_hook</title>
+    <updated>2022-08-19T01:38:40Z</updated>
+    <id>tag:github.com,2022-08-19:/season-max/asm_hook</id>
+    <link href="https://github.com/season-max/asm_hook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;hook system by asm&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:52:01Z</updated>
+  <updated>2022-08-19T01:47:49Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PyO3/maturin</title>
-    <updated>2022-08-18T01:52:01Z</updated>
-    <id>tag:github.com,2022-08-18:/PyO3/maturin</id>
-    <link href="https://github.com/PyO3/maturin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Piturnah/gex</title>
+    <updated>2022-08-19T01:47:49Z</updated>
+    <id>tag:github.com,2022-08-19:/Piturnah/gex</id>
+    <link href="https://github.com/Piturnah/gex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Git Explorer: cross-platform git workflow improvement tool inspired by Magit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>notify-rs/notify</title>
-    <updated>2022-08-18T01:52:01Z</updated>
-    <id>tag:github.com,2022-08-18:/notify-rs/notify</id>
-    <link href="https://github.com/notify-rs/notify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔭 Cross-platform filesystem notification library for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sqlparser-rs/sqlparser-rs</title>
+    <updated>2022-08-19T01:47:49Z</updated>
+    <id>tag:github.com,2022-08-19:/sqlparser-rs/sqlparser-rs</id>
+    <link href="https://github.com/sqlparser-rs/sqlparser-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extensible SQL Lexer and Parser for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

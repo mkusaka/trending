@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-18T01:45:21Z</updated>
+  <updated>2022-08-19T01:42:45Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Evolution-X/vendor_evolution</title>
-    <updated>2022-08-18T01:45:21Z</updated>
-    <id>tag:github.com,2022-08-18:/Evolution-X/vendor_evolution</id>
-    <link href="https://github.com/Evolution-X/vendor_evolution" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RedHatOfficial/Overpass</title>
-    <updated>2022-08-18T01:45:21Z</updated>
-    <id>tag:github.com,2022-08-18:/RedHatOfficial/Overpass</id>
-    <link href="https://github.com/RedHatOfficial/Overpass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Overpass open source web font family — Sponsored by Red Hat&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
