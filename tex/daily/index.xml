@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:50:28Z</updated>
+  <updated>2022-08-20T01:48:55Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>starpos/develop-transaction-system</title>
-    <updated>2022-08-19T01:50:28Z</updated>
-    <id>tag:github.com,2022-08-19:/starpos/develop-transaction-system</id>
-    <link href="https://github.com/starpos/develop-transaction-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code of the book &#34;Develop A Transaction System&#34; (in Japanese).&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;データベース自作入門&lt;/h1&gt; &#xA;&lt;p&gt;これは「データベース自作入門」本のソースコードです。 フィードバック大歓迎です。Issue にでも登録してください。&lt;/p&gt; &#xA;&lt;h2&gt;著作権&lt;/h2&gt; &#xA;&lt;p&gt;(C) 2018 Takashi HOSHINO&lt;/p&gt; &#xA;&lt;h2&gt;ライセンス&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja&#34;&gt;CC BY-NC-SA 4.0&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;ビルド&lt;/h2&gt; &#xA;&lt;p&gt;2022 年 8 月現在、&lt;a href=&#34;https://github.com/kmuto/review&#34;&gt;Re:VIEW&lt;/a&gt; 5.5 でビルドできます。 LaTeX 経由で PDF が生成できることしか確認していません。&lt;/p&gt; &#xA;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nmfs-opensci/quarto_titlepages</title>
-    <updated>2022-08-19T01:50:28Z</updated>
-    <id>tag:github.com,2022-08-19:/nmfs-opensci/quarto_titlepages</id>
-    <link href="https://github.com/nmfs-opensci/quarto_titlepages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repo with templates for title pages for PDF output.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;quarto_titlepages &lt;a href=&#34;https://github.com/nmfs-opensci/quarto_titlepages&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nmfs-opensci/assets/main/images/GitHub-Mark-32px.png&#34; align=&#34;right&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://nmfs-opensci.github.io/quarto_titlepages/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This template makes a custom title page using the information in the YAML (from the &lt;code&gt;xyz.qmd&lt;/code&gt; for an single doc and from &lt;code&gt;index.qmd&lt;/code&gt; for a &lt;a href=&#34;https://quarto.org/&#34;&gt;Quarto&lt;/a&gt; book).&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://nmfs-opensci.github.io/quarto_titlepages/images/paste-CC55A28D.png&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/nmfs-opensci/quarto_titlepages/main/images/bg-image.png&#34; width=&#34;200&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;This work is uses the &lt;a href=&#34;https://quarto.org/&#34;&gt;Quarto&lt;/a&gt;, &lt;a href=&#34;https://github.com/quarto-dev/quarto-cli/raw/main/CITATION.cff&#34;&gt;citation&lt;/a&gt;. The default document classes for Quarto are scrbook and scrartcl. This repo also includes a copy of the Springer &lt;a href=&#34;https://www.springernature.com/gp/authors/campaigns/latex-author-support&#34;&gt;svmono&lt;/a&gt; document class, CRC/Chapman &amp;amp; Hall krantz document class, and the Elsevier elsarticle document class.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>riscvarchive/riscv-dejagnu</title>
-    <updated>2022-08-19T01:50:28Z</updated>
-    <id>tag:github.com,2022-08-19:/riscvarchive/riscv-dejagnu</id>
-    <link href="https://github.com/riscvarchive/riscv-dejagnu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DejaGnu RISC-V port&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;Welcome to DejaGnu!&lt;/p&gt; &#xA;&lt;p&gt;DejaGnu is a framework for testing other programs. Its purpose is to provide a single front-end for all tests. Beyond this, DejaGnu offers several advantages for testing:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;* The flexibility and consistency of the DejaGnu framework make it&#xA;  easy to write tests for any program.&#xA;&#xA;* DejaGnu provides a layer of abstraction which makes all tests&#xA;  portable to any host or target where a program must be tested.&#xA;  For instance, a test for GDB can run (from any UNIX based host)&#xA;  on any target architecture supported by DejaGnu.  DejaGnu has&#xA;  run tests on several single board computers, whose operating&#xA;  software ranges from a boot monitor to a fully-fledged,&#xA;  UNIX-like realtime OS.&#xA;&#xA;* DejaGnu is written in Expect, which in turn uses Tcl (Tool&#xA;  command language).  The framework comprises two parts: the&#xA;  testing framework and the testsuites themselves.  Tests are&#xA;  usually written in Tcl and distributed with the programs, not&#xA;  with DejaGnu.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;For detailed instructions on installing DejaGnu, see the INSTALL file.&lt;/p&gt; &#xA;&lt;h2&gt;Reporting bugs&lt;/h2&gt; &#xA;&lt;p&gt;If you think you have found a bug in DejaGnu, then please send a bug report. Guidelines for reporting bugs can be found at:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;http://www.gnu.org/software/dejagnu/#bug&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;The DejaGnu documentation is written in Docbook/XML. The Makefile does not render the documentation into other formats by default, as this requires a range of Docbook packages to be installed. The intention is that this will be done by the maintainers when a release is made. HTML, RTF, PostScript and PDF versions of the current user manual are kept on the web at:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;http://www.gnu.org/software/dejagnu/#documentation&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Info documentation is installed on a system as part of the installation process. You can read this by typing &#34;info dejagnu&#34;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

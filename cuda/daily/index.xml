@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:35:28Z</updated>
+  <updated>2022-08-20T01:34:09Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>THU-luvision/INS-Conv</title>
-    <updated>2022-08-19T01:35:28Z</updated>
-    <id>tag:github.com,2022-08-19:/THU-luvision/INS-Conv</id>
-    <link href="https://github.com/THU-luvision/INS-Conv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;INS-Conv: Incremental Sparse Convolution for Online 3D Segmentation (CVPR 2022)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Liu-xiandong/How_to_optimize_in_GPU</title>
+    <updated>2022-08-20T01:34:09Z</updated>
+    <id>tag:github.com,2022-08-20:/Liu-xiandong/How_to_optimize_in_GPU</id>
+    <link href="https://github.com/Liu-xiandong/How_to_optimize_in_GPU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a series of GPU optimization topics. Here we will introduce how to optimize the CUDA kernel in detail. I will introduce several basic kernel optimizations, including: elementwise, reduce, sgemv, sgemm, etc. The performance of these kernels is basically at or near the theoretical limit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

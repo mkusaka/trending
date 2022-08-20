@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:48:14Z</updated>
+  <updated>2022-08-20T01:46:52Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/vue-material-kit</title>
-    <updated>2022-08-19T01:48:14Z</updated>
-    <id>tag:github.com,2022-08-19:/creativetimofficial/vue-material-kit</id>
-    <link href="https://github.com/creativetimofficial/vue-material-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue Material Kit - Open Source Material Design UI Kit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DACSS/DACSS_601_August2022_v2</title>
+    <updated>2022-08-20T01:46:52Z</updated>
+    <id>tag:github.com,2022-08-20:/DACSS/DACSS_601_August2022_v2</id>
+    <link href="https://github.com/DACSS/DACSS_601_August2022_v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DACSS August 2022 Blog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>awesome-academy/naitei_2022_DailyReportSystem</title>
-    <updated>2022-08-19T01:48:14Z</updated>
-    <id>tag:github.com,2022-08-19:/awesome-academy/naitei_2022_DailyReportSystem</id>
-    <link href="https://github.com/awesome-academy/naitei_2022_DailyReportSystem" rel="alternate"></link>
+    <title>iris-hep/iris-hep.github.io-source</title>
+    <updated>2022-08-20T01:46:52Z</updated>
+    <id>tag:github.com,2022-08-20:/iris-hep/iris-hep.github.io-source</id>
+    <link href="https://github.com/iris-hep/iris-hep.github.io-source" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Institute for Research and Innovation in Software for High Energy Physics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FbW-E05-B/parcel-boilerplate</title>
+    <updated>2022-08-20T01:46:52Z</updated>
+    <id>tag:github.com,2022-08-20:/FbW-E05-B/parcel-boilerplate</id>
+    <link href="https://github.com/FbW-E05-B/parcel-boilerplate" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>piharpi/jekyll-klise</title>
-    <updated>2022-08-19T01:48:14Z</updated>
-    <id>tag:github.com,2022-08-19:/piharpi/jekyll-klise</id>
-    <link href="https://github.com/piharpi/jekyll-klise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏖️ Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (https://klise.vercel.app)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

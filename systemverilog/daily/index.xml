@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:49:48Z</updated>
+  <updated>2022-08-20T01:48:26Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WangXuan95/FPGA-SATA-HBA</title>
+    <updated>2022-08-20T01:48:26Z</updated>
+    <id>tag:github.com,2022-08-20:/WangXuan95/FPGA-SATA-HBA</id>
+    <link href="https://github.com/WangXuan95/FPGA-SATA-HBA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A SATA host (HBA) core based on Xilinx FPGA with GTH. Easy to read/write hard disk.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>srg320/Saturn_MiSTer</title>
+    <updated>2022-08-20T01:48:26Z</updated>
+    <id>tag:github.com,2022-08-20:/srg320/Saturn_MiSTer</id>
+    <link href="https://github.com/srg320/Saturn_MiSTer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

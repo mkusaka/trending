@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:36:54Z</updated>
+  <updated>2022-08-20T01:35:31Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>btkostner/hexagon</title>
-    <updated>2022-08-19T01:36:54Z</updated>
-    <id>tag:github.com,2022-08-19:/btkostner/hexagon</id>
-    <link href="https://github.com/btkostner/hexagon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package server for your organization.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ityonemo/zigler</title>
+    <updated>2022-08-20T01:35:31Z</updated>
+    <id>tag:github.com,2022-08-20:/ityonemo/zigler</id>
+    <link href="https://github.com/ityonemo/zigler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zig nifs in elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>discord/sorted_set_nif</title>
-    <updated>2022-08-19T01:36:54Z</updated>
-    <id>tag:github.com,2022-08-19:/discord/sorted_set_nif</id>
-    <link href="https://github.com/discord/sorted_set_nif" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir SortedSet backed by a Rust-based NIF&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mirego/elixir-security-advisories</title>
+    <updated>2022-08-20T01:35:31Z</updated>
+    <id>tag:github.com,2022-08-20:/mirego/elixir-security-advisories</id>
+    <link href="https://github.com/mirego/elixir-security-advisories" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🛡 Public database of Elixir security advisories pulled from GitHub Advisory Database&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

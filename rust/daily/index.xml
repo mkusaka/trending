@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:47:49Z</updated>
+  <updated>2022-08-20T01:46:29Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Piturnah/gex</title>
-    <updated>2022-08-19T01:47:49Z</updated>
-    <id>tag:github.com,2022-08-19:/Piturnah/gex</id>
-    <link href="https://github.com/Piturnah/gex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Git Explorer: cross-platform git workflow improvement tool inspired by Magit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>viridIT/vSMTP</title>
+    <updated>2022-08-20T01:46:29Z</updated>
+    <id>tag:github.com,2022-08-20:/viridIT/vSMTP</id>
+    <link href="https://github.com/viridIT/vSMTP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vSMTP : a next-gen mail transfer agent (MTA) written in Rust. Faster and Greener.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sqlparser-rs/sqlparser-rs</title>
-    <updated>2022-08-19T01:47:49Z</updated>
-    <id>tag:github.com,2022-08-19:/sqlparser-rs/sqlparser-rs</id>
-    <link href="https://github.com/sqlparser-rs/sqlparser-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extensible SQL Lexer and Parser for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gakonst/ethers-rs</title>
+    <updated>2022-08-20T01:46:29Z</updated>
+    <id>tag:github.com,2022-08-20:/gakonst/ethers-rs</id>
+    <link href="https://github.com/gakonst/ethers-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Complete Ethereum &amp; Celo library and wallet implementation in Rust. https://docs.rs/ethers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

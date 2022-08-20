@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:42:45Z</updated>
+  <updated>2022-08-20T01:41:18Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lyz-code/blue-book</title>
+    <updated>2022-08-20T01:41:18Z</updated>
+    <id>tag:github.com,2022-08-20:/lyz-code/blue-book</id>
+    <link href="https://github.com/lyz-code/blue-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal knowledge repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thenickdude/wacom-driver-fix</title>
+    <updated>2022-08-20T01:41:18Z</updated>
+    <id>tag:github.com,2022-08-20:/thenickdude/wacom-driver-fix</id>
+    <link href="https://github.com/thenickdude/wacom-driver-fix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fixes the Wacom Bamboo, Graphire, Intuos 1+2+3 and Cintiq 1st gen tablet drivers for macOS Catalina, Big Sur, Monterey (including M1 macs)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:31:28Z</updated>
+  <updated>2022-08-20T01:30:20Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>karanpratapsingh/system-design</title>
-    <updated>2022-08-19T01:31:28Z</updated>
-    <id>tag:github.com,2022-08-19:/karanpratapsingh/system-design</id>
-    <link href="https://github.com/karanpratapsingh/system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn how to design systems at scale and prepare for system design interviews&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JetBrains/intellij-community</title>
+    <updated>2022-08-20T01:30:20Z</updated>
+    <id>tag:github.com,2022-08-20:/JetBrains/intellij-community</id>
+    <link href="https://github.com/JetBrains/intellij-community" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IntelliJ IDEA Community Edition &amp; IntelliJ Platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>projectdiscovery/nuclei-templates</title>
-    <updated>2022-08-19T01:31:28Z</updated>
-    <id>tag:github.com,2022-08-19:/projectdiscovery/nuclei-templates</id>
-    <link href="https://github.com/projectdiscovery/nuclei-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community curated list of templates for the nuclei engine to find security vulnerabilities.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ksundong/backend-interview-question</title>
+    <updated>2022-08-20T01:30:20Z</updated>
+    <id>tag:github.com,2022-08-20:/ksundong/backend-interview-question</id>
+    <link href="https://github.com/ksundong/backend-interview-question" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;백엔드 개발자로 입사를 준비하며 받았던 질문, 예상했던 질문, 인터넷 참고한 질문(CC BY-NC)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>berkcangumusisik/YazilimcilarIcinKaynaklar</title>
-    <updated>2022-08-19T01:31:28Z</updated>
-    <id>tag:github.com,2022-08-19:/berkcangumusisik/YazilimcilarIcinKaynaklar</id>
-    <link href="https://github.com/berkcangumusisik/YazilimcilarIcinKaynaklar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sadanandpai/git-guide</title>
+    <updated>2022-08-20T01:30:20Z</updated>
+    <id>tag:github.com,2022-08-20:/sadanandpai/git-guide</id>
+    <link href="https://github.com/sadanandpai/git-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Practical guide to everyday Git commands&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

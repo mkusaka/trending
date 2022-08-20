@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-19T01:35:09Z</updated>
+  <updated>2022-08-20T01:33:47Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jwsm/schenkerbot</title>
-    <updated>2022-08-19T01:35:09Z</updated>
-    <id>tag:github.com,2022-08-19:/jwsm/schenkerbot</id>
-    <link href="https://github.com/jwsm/schenkerbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An experimental Lisp program that applies fuzzy Schenkerian techniques to MIDI files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Hexstream/with-shadowed-bindings</title>
-    <updated>2022-08-19T01:35:09Z</updated>
-    <id>tag:github.com,2022-08-19:/Hexstream/with-shadowed-bindings</id>
-    <link href="https://github.com/Hexstream/with-shadowed-bindings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Establishes a new lexical context within which specified bindings are explicitly shadowed, making it clear that they are not referenced within, thereby reducing cognitive load.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Project&#39;s home: &lt;a href=&#34;https://www.hexstreamsoft.com/libraries/with-shadowed-bindings/&#34;&gt;https://www.hexstreamsoft.com/libraries/with-shadowed-bindings/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;with-shadowed-bindings establishes a new lexical context within which specified bindings are explicitly shadowed, making it clear that they are not referenced within, thereby reducing cognitive load.&lt;/p&gt; &#xA;&lt;p&gt;This library is in the Public Domain. See the UNLICENSE file for details.&lt;/p&gt;</summary>
-  </entry>
 </feed>
