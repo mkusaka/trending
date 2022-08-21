@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:47:54Z</updated>
+  <updated>2022-08-21T01:47:52Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tokenspice/tokenspice</title>
-    <updated>2022-08-20T01:47:54Z</updated>
-    <id>tag:github.com,2022-08-20:/tokenspice/tokenspice</id>
-    <link href="https://github.com/tokenspice/tokenspice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EVM agent-based token simulator 🐟🌪️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ProjectOpenSea/seaport-order-validator</title>
+    <updated>2022-08-21T01:47:52Z</updated>
+    <id>tag:github.com,2022-08-21:/ProjectOpenSea/seaport-order-validator</id>
+    <link href="https://github.com/ProjectOpenSea/seaport-order-validator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>morpho-dao/morpho-utils</title>
-    <updated>2022-08-20T01:47:54Z</updated>
-    <id>tag:github.com,2022-08-20:/morpho-dao/morpho-utils</id>
-    <link href="https://github.com/morpho-dao/morpho-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository gathering useful libraries and contracts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antoncoding/squeeth-vol-oracle</title>
+    <updated>2022-08-21T01:47:52Z</updated>
+    <id>tag:github.com,2022-08-21:/antoncoding/squeeth-vol-oracle</id>
+    <link href="https://github.com/antoncoding/squeeth-vol-oracle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;on-chain vol oracle from squeeth&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bnb-chain/BEPs</title>
-    <updated>2022-08-20T01:47:54Z</updated>
-    <id>tag:github.com,2022-08-20:/bnb-chain/BEPs</id>
-    <link href="https://github.com/bnb-chain/BEPs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BNB Evolution Proposals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MrToph/nft-enhancement</title>
+    <updated>2022-08-21T01:47:52Z</updated>
+    <id>tag:github.com,2022-08-21:/MrToph/nft-enhancement</id>
+    <link href="https://github.com/MrToph/nft-enhancement" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

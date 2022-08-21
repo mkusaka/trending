@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:42:45Z</updated>
+  <updated>2022-08-21T01:43:03Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PromiseKit/SystemConfiguration</title>
+    <updated>2022-08-21T01:43:03Z</updated>
+    <id>tag:github.com,2022-08-21:/PromiseKit/SystemConfiguration</id>
+    <link href="https://github.com/PromiseKit/SystemConfiguration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PromiseKit SystemConfiguration Extensions &lt;img src=&#34;https://travis-ci.org/PromiseKit/Foundation.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;This project adds promises to Apple’s SystemConfiguration framework.&lt;/p&gt; &#xA;&lt;h2&gt;CocoaPods&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ruby&#34;&gt;pod &#34;PromiseKit/SystemConfiguration&#34; ~&amp;gt; 6.0&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The extensions are built into &lt;code&gt;PromiseKit.framework&lt;/code&gt; thus nothing else is needed.&lt;/p&gt; &#xA;&lt;h2&gt;Carthage&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ruby&#34;&gt;github &#34;PromiseKit/SystemConfiguration&#34; ~&amp;gt; 3.0&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The extensions are built into their own framework:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-swift&#34;&gt;// swift&#xA;import PromiseKit&#xA;import PMKSystemConfiguration&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-objc&#34;&gt;// objc&#xA;@import PromiseKit;&#xA;@import PMKSystemConfiguration;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

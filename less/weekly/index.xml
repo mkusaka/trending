@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Less Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T02:01:04Z</updated>
+  <subtitle>Weekly Trending of Less in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sButtons/sbuttons</title>
+    <updated>2022-08-21T02:01:04Z</updated>
+    <id>tag:github.com,2022-08-21:/sButtons/sbuttons</id>
+    <link href="https://github.com/sButtons/sbuttons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💡 Simple buttons you can use easily for your next project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

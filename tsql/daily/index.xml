@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:49:14Z</updated>
+  <updated>2022-08-21T01:49:17Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ko4life-net/ko-db</title>
-    <updated>2022-08-20T01:49:14Z</updated>
-    <id>tag:github.com,2022-08-20:/ko4life-net/ko-db</id>
-    <link href="https://github.com/ko4life-net/ko-db" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Knight Online database scripts, dumps, documentation and all the good stuff&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

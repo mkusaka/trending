@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mercury Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:41:33Z</updated>
+  <updated>2022-08-21T01:41:53Z</updated>
   <subtitle>Daily Trending of Mercury in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spacekookie/gay</title>
+    <updated>2022-08-21T01:41:53Z</updated>
+    <id>tag:github.com,2022-08-21:/spacekookie/gay</id>
+    <link href="https://github.com/spacekookie/gay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏳️‍🌈 LGBT pride in here 🏳️‍🌈&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

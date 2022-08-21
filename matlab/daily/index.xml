@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:41:24Z</updated>
+  <updated>2022-08-21T01:41:45Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>proto17/dji_droneid</title>
-    <updated>2022-08-20T01:41:24Z</updated>
-    <id>tag:github.com,2022-08-20:/proto17/dji_droneid</id>
-    <link href="https://github.com/proto17/dji_droneid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>swedishembedded/control</title>
+    <updated>2022-08-21T01:41:45Z</updated>
+    <id>tag:github.com,2022-08-21:/swedishembedded/control</id>
+    <link href="https://github.com/swedishembedded/control" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Embedded Firmware Control Systems Toolbox (Pure C and GNU Octave)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

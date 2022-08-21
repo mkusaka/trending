@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:49:56Z</updated>
+  <updated>2022-08-21T01:49:59Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>overcache/NeoSolarized</title>
-    <updated>2022-08-20T01:49:56Z</updated>
-    <id>tag:github.com,2022-08-20:/overcache/NeoSolarized</id>
-    <link href="https://github.com/overcache/NeoSolarized" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NeoSolarized: A fixed solarized colorscheme for better truecolor support.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpope/vim-obsession</title>
+    <updated>2022-08-21T01:49:59Z</updated>
+    <id>tag:github.com,2022-08-21:/tpope/vim-obsession</id>
+    <link href="https://github.com/tpope/vim-obsession" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;obsession.vim: continuously updated session files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alpicola/vim-egison</title>
-    <updated>2022-08-20T01:49:56Z</updated>
-    <id>tag:github.com,2022-08-20:/alpicola/vim-egison</id>
-    <link href="https://github.com/alpicola/vim-egison" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yangyangwithgnu/use_vim_as_ide</title>
+    <updated>2022-08-21T01:49:59Z</updated>
+    <id>tag:github.com,2022-08-21:/yangyangwithgnu/use_vim_as_ide</id>
+    <link href="https://github.com/yangyangwithgnu/use_vim_as_ide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;use vim as IDE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tomtom/tcomment_vim</title>
-    <updated>2022-08-20T01:49:56Z</updated>
-    <id>tag:github.com,2022-08-20:/tomtom/tcomment_vim</id>
-    <link href="https://github.com/tomtom/tcomment_vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An extensible &amp; universal comment vim-plugin that also handles embedded filetypes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nschurmann/configs</title>
+    <updated>2022-08-21T01:49:59Z</updated>
+    <id>tag:github.com,2022-08-21:/nschurmann/configs</id>
+    <link href="https://github.com/nschurmann/configs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My neovim configuration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

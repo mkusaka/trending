@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:50:04Z</updated>
+  <updated>2022-08-21T01:50:06Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cool-team-official/cool-admin-vue</title>
-    <updated>2022-08-20T01:50:04Z</updated>
-    <id>tag:github.com,2022-08-20:/cool-team-official/cool-admin-vue</id>
-    <link href="https://github.com/cool-team-official/cool-admin-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mlogclub/bbs-go</title>
-    <updated>2022-08-20T01:50:04Z</updated>
-    <id>tag:github.com,2022-08-20:/mlogclub/bbs-go</id>
-    <link href="https://github.com/mlogclub/bbs-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Golang的开源社区系统。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>geongeorge/i-hate-regex</title>
+    <updated>2022-08-21T01:50:06Z</updated>
+    <id>tag:github.com,2022-08-21:/geongeorge/i-hate-regex</id>
+    <link href="https://github.com/geongeorge/i-hate-regex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The code for iHateregex.io 😈 - The Regex Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

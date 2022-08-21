@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T01:55:45Z</updated>
+  <subtitle>Weekly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Mayanwolfe/todo-CRUD-exercise</title>
+    <updated>2022-08-21T01:55:45Z</updated>
+    <id>tag:github.com,2022-08-21:/Mayanwolfe/todo-CRUD-exercise</id>
+    <link href="https://github.com/Mayanwolfe/todo-CRUD-exercise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

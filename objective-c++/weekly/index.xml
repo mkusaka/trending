@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T02:03:25Z</updated>
+  <subtitle>Weekly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rileytestut/GBCDeltaCore</title>
+    <updated>2022-08-21T02:03:25Z</updated>
+    <id>tag:github.com,2022-08-21:/rileytestut/GBCDeltaCore</id>
+    <link href="https://github.com/rileytestut/GBCDeltaCore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rileytestut/SNESDeltaCore</title>
+    <updated>2022-08-21T02:03:25Z</updated>
+    <id>tag:github.com,2022-08-21:/rileytestut/SNESDeltaCore</id>
+    <link href="https://github.com/rileytestut/SNESDeltaCore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chrisridd/opendj-utils</title>
+    <updated>2022-08-21T02:03:25Z</updated>
+    <id>tag:github.com,2022-08-21:/chrisridd/opendj-utils</id>
+    <link href="https://github.com/chrisridd/opendj-utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small utilities for the OpenDJ LDAP server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

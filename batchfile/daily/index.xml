@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:32:07Z</updated>
+  <updated>2022-08-21T01:32:32Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ossaw/books</title>
-    <updated>2022-08-20T01:32:07Z</updated>
-    <id>tag:github.com,2022-08-20:/ossaw/books</id>
-    <link href="https://github.com/ossaw/books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Technical books and blogs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>conda-forge/proxsuite-feedstock</title>
+    <updated>2022-08-21T01:32:32Z</updated>
+    <id>tag:github.com,2022-08-21:/conda-forge/proxsuite-feedstock</id>
+    <link href="https://github.com/conda-forge/proxsuite-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for proxsuite.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vuong0809/AviRDP-0</title>
-    <updated>2022-08-20T01:32:07Z</updated>
-    <id>tag:github.com,2022-08-20:/vuong0809/AviRDP-0</id>
-    <link href="https://github.com/vuong0809/AviRDP-0" rel="alternate"></link>
+    <title>getdrive/vps</title>
+    <updated>2022-08-21T01:32:32Z</updated>
+    <id>tag:github.com,2022-08-21:/getdrive/vps</id>
+    <link href="https://github.com/getdrive/vps" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

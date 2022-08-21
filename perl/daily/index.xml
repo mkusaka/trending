@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:43:49Z</updated>
+  <updated>2022-08-21T01:43:56Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eaobservatory/perl-JCMT-ACSIS-Array</title>
+    <updated>2022-08-21T01:43:56Z</updated>
+    <id>tag:github.com,2022-08-21:/eaobservatory/perl-JCMT-ACSIS-Array</id>
+    <link href="https://github.com/eaobservatory/perl-JCMT-ACSIS-Array" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Information for the ACSIS spectrometer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mrmckain/Genomic_Processing</title>
+    <updated>2022-08-21T01:43:56Z</updated>
+    <id>tag:github.com,2022-08-21:/mrmckain/Genomic_Processing</id>
+    <link href="https://github.com/mrmckain/Genomic_Processing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Genomic_Processing&lt;/h1&gt;</summary>
+  </entry>
 </feed>

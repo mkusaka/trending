@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T02:02:01Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IIC2133-PUC/2022-2</title>
+    <updated>2022-08-21T02:02:01Z</updated>
+    <id>tag:github.com,2022-08-21:/IIC2133-PUC/2022-2</id>
+    <link href="https://github.com/IIC2133-PUC/2022-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositorio Base IIC2133 para el semestre 2022-2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zh-google-styleguide/zh-google-styleguide</title>
+    <updated>2022-08-21T02:02:01Z</updated>
+    <id>tag:github.com,2022-08-21:/zh-google-styleguide/zh-google-styleguide</id>
+    <link href="https://github.com/zh-google-styleguide/zh-google-styleguide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google 开源项目风格指南 (中文版)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feiskyer/kubernetes-handbook</title>
+    <updated>2022-08-21T02:02:01Z</updated>
+    <id>tag:github.com,2022-08-21:/feiskyer/kubernetes-handbook</id>
+    <link href="https://github.com/feiskyer/kubernetes-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kubernetes Handbook （Kubernetes指南） https://kubernetes.feisky.xyz&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

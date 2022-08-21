@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:48:21Z</updated>
+  <updated>2022-08-21T01:48:18Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>openneno/neno</title>
-    <updated>2022-08-20T01:48:21Z</updated>
-    <id>tag:github.com,2022-08-20:/openneno/neno</id>
-    <link href="https://github.com/openneno/neno" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;使用svelte+tailwindcss 仿照 浮墨 写的pwa应用&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>probablykasper/date-picker-svelte</title>
+    <updated>2022-08-21T01:48:18Z</updated>
+    <id>tag:github.com,2022-08-21:/probablykasper/date-picker-svelte</id>
+    <link href="https://github.com/probablykasper/date-picker-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Date and time picker for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pie-dao/pools.piedao.org</title>
-    <updated>2022-08-20T01:48:21Z</updated>
-    <id>tag:github.com,2022-08-20:/pie-dao/pools.piedao.org</id>
-    <link href="https://github.com/pie-dao/pools.piedao.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EmeraldSnorlax/manjarno</title>
+    <updated>2022-08-21T01:48:18Z</updated>
+    <id>tag:github.com,2022-08-21:/EmeraldSnorlax/manjarno</id>
+    <link href="https://github.com/EmeraldSnorlax/manjarno" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Why you shouldn&#39;t use Manjaro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>garredow/kaite</title>
+    <updated>2022-08-21T01:48:18Z</updated>
+    <id>tag:github.com,2022-08-21:/garredow/kaite</id>
+    <link href="https://github.com/garredow/kaite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Twitter client for KaiOS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

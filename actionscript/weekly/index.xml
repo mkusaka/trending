@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T01:51:36Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>flowplayer/flash</title>
+    <updated>2022-08-21T01:51:36Z</updated>
+    <id>tag:github.com,2022-08-21:/flowplayer/flash</id>
+    <link href="https://github.com/flowplayer/flash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flowplayer Flash, the video player for the Web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seajean/JPWall</title>
+    <updated>2022-08-21T01:51:36Z</updated>
+    <id>tag:github.com,2022-08-21:/seajean/JPWall</id>
+    <link href="https://github.com/seajean/JPWall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a photo wall display&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dansumption/Sorcerer</title>
+    <updated>2022-08-21T01:51:36Z</updated>
+    <id>tag:github.com,2022-08-21:/dansumption/Sorcerer</id>
+    <link href="https://github.com/dansumption/Sorcerer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Board game simulation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T01:52:26Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>george-martinec/jetbrains-activator</title>
+    <updated>2022-08-21T01:52:26Z</updated>
+    <id>tag:github.com,2022-08-21:/george-martinec/jetbrains-activator</id>
+    <link href="https://github.com/george-martinec/jetbrains-activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JetBrains License Server Activator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>realpython/python-guide</title>
+    <updated>2022-08-21T01:52:26Z</updated>
+    <id>tag:github.com,2022-08-21:/realpython/python-guide</id>
+    <link href="https://github.com/realpython/python-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python best practices guidebook, written for humans.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eaaasun/CCStopper</title>
+    <updated>2022-08-21T01:52:26Z</updated>
+    <id>tag:github.com,2022-08-21:/eaaasun/CCStopper</id>
+    <link href="https://github.com/eaaasun/CCStopper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stops Adobe&#39;s pesky background apps and more!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

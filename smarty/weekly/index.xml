@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T02:08:40Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CircleCI-Public/circleci-runner-k8s</title>
+    <updated>2022-08-21T02:08:40Z</updated>
+    <id>tag:github.com,2022-08-21:/CircleCI-Public/circleci-runner-k8s</id>
+    <link href="https://github.com/CircleCI-Public/circleci-runner-k8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository with Helm charts to install CircleCI&#39;s runner on a Kubernetes cluster.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>k8s-at-home/library-charts</title>
+    <updated>2022-08-21T02:08:40Z</updated>
+    <id>tag:github.com,2022-08-21:/k8s-at-home/library-charts</id>
+    <link href="https://github.com/k8s-at-home/library-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm library charts for the k8s@home Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudtechmasters/springboot-maven-course-micro-svc</title>
+    <updated>2022-08-21T02:08:40Z</updated>
+    <id>tag:github.com,2022-08-21:/cloudtechmasters/springboot-maven-course-micro-svc</id>
+    <link href="https://github.com/cloudtechmasters/springboot-maven-course-micro-svc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

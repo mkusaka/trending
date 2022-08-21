@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:46:52Z</updated>
+  <updated>2022-08-21T01:46:59Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DACSS/DACSS_601_August2022_v2</title>
-    <updated>2022-08-20T01:46:52Z</updated>
-    <id>tag:github.com,2022-08-20:/DACSS/DACSS_601_August2022_v2</id>
-    <link href="https://github.com/DACSS/DACSS_601_August2022_v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DACSS August 2022 Blog&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>iris-hep/iris-hep.github.io-source</title>
-    <updated>2022-08-20T01:46:52Z</updated>
-    <id>tag:github.com,2022-08-20:/iris-hep/iris-hep.github.io-source</id>
-    <link href="https://github.com/iris-hep/iris-hep.github.io-source" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Institute for Research and Innovation in Software for High Energy Physics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FbW-E05-B/parcel-boilerplate</title>
-    <updated>2022-08-20T01:46:52Z</updated>
-    <id>tag:github.com,2022-08-20:/FbW-E05-B/parcel-boilerplate</id>
-    <link href="https://github.com/FbW-E05-B/parcel-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>avanishsubbiah/material-you-theme</title>
+    <updated>2022-08-21T01:46:59Z</updated>
+    <id>tag:github.com,2022-08-21:/avanishsubbiah/material-you-theme</id>
+    <link href="https://github.com/avanishsubbiah/material-you-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Applies generated libadwaita theme from wallpaper using Material You&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

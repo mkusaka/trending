@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:50:01Z</updated>
+  <updated>2022-08-21T01:50:02Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NECrosby/VisualBasicClasses</title>
-    <updated>2022-08-20T01:50:01Z</updated>
-    <id>tag:github.com,2022-08-20:/NECrosby/VisualBasicClasses</id>
-    <link href="https://github.com/NECrosby/VisualBasicClasses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vb.net Class Homework and Book Examples&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>amiit/Library_Management_System</title>
-    <updated>2022-08-20T01:50:01Z</updated>
-    <id>tag:github.com,2022-08-20:/amiit/Library_Management_System</id>
-    <link href="https://github.com/amiit/Library_Management_System" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This app is developed in Visual basic.Library management system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

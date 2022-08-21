@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T02:11:02Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vuejs/create-vue</title>
+    <updated>2022-08-21T02:11:02Z</updated>
+    <id>tag:github.com,2022-08-21:/vuejs/create-vue</id>
+    <link href="https://github.com/vuejs/create-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🛠️ The recommended way to start a Vite-powered Vue project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>foamzou/melody</title>
+    <updated>2022-08-21T02:11:02Z</updated>
+    <id>tag:github.com,2022-08-21:/foamzou/melody</id>
+    <link href="https://github.com/foamzou/melody" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;我的音乐精灵&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xugaoyi/vuepress-theme-vdoing</title>
+    <updated>2022-08-21T02:11:02Z</updated>
+    <id>tag:github.com,2022-08-21:/xugaoyi/vuepress-theme-vdoing</id>
+    <link href="https://github.com/xugaoyi/vuepress-theme-vdoing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀一款简洁高效的VuePress知识管理&amp;博客(blog)主题&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

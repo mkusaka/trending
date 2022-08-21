@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:37:34Z</updated>
+  <updated>2022-08-21T01:38:06Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>foxhuston/Network.Irc</title>
-    <updated>2022-08-20T01:37:34Z</updated>
-    <id>tag:github.com,2022-08-20:/foxhuston/Network.Irc</id>
-    <link href="https://github.com/foxhuston/Network.Irc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple haskell Irc library&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Network.Irc&lt;/h1&gt; &#xA;&lt;p&gt;An extremely work-in-progress Irc client library for haskell.&lt;/p&gt; &#xA;&lt;p&gt;I&#39;m building this mainly for pancake, and to get back in to writing some haskell code.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>qnikst/iochan-conduit</title>
-    <updated>2022-08-20T01:37:34Z</updated>
-    <id>tag:github.com,2022-08-20:/qnikst/iochan-conduit</id>
-    <link href="https://github.com/qnikst/iochan-conduit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IO concurrent promitives for conduit&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Library for making conduit message passing via Control.Concurrent primitives, it can be faster than using STM in some cases, but do not allow all functionality that STM chans has.&lt;/p&gt; &#xA;&lt;p&gt;3 basic primitives will be provided:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;simple Chan as InfiniteChan&lt;/li&gt; &#xA; &lt;li&gt;wrapper over Chan as EndedChan&lt;/li&gt; &#xA; &lt;li&gt;bounded Chan as BChan&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>compiladores-lcc/compiladores2022</title>
+    <updated>2022-08-21T01:38:06Z</updated>
+    <id>tag:github.com,2022-08-21:/compiladores-lcc/compiladores2022</id>
+    <link href="https://github.com/compiladores-lcc/compiladores2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Código inicial para la materia Compiladores 2022 de LCC - FCEIA - UNR&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Compiladores&lt;/h1&gt; &#xA;&lt;p&gt;Código para la materia Compiladores 2022 de &lt;a href=&#34;https://dcc.fceia.unr.edu.ar&#34;&gt;LCC&lt;/a&gt;, &lt;a href=&#34;https://www.fceia.unr.edu.ar&#34;&gt;FCEIA&lt;/a&gt;, &lt;a href=&#34;https://www.unr.edu.ar&#34;&gt;UNR&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Este es el código a partir del cual los estudiantes empiezan a desarrollar un compilador.&lt;/p&gt; &#xA;&lt;p&gt;Para fijar la versión de GHC y de los paquetes usaremos la herramienta &lt;a href=&#34;https://docs.haskellstack.org/en/stable/README/&#34;&gt;stack&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Los pasos para instalar son:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;stack setup&#xA;stack build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Luego se puede ejecutar con&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;stack run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;o cargar el entorno interactivo GHCi&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;stack ghci&#xA;&#xA;stack ghci src/TypeChecker.hs&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;También se pueden cargar archivos. Desde stack:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;stack run -- miprograma.fd4&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;En general, los argumentos a nuestro programa se escriben luego de &lt;code&gt;--&lt;/code&gt;. Por ejemplo,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;% stack run -- --help&#xA;Compilador de FD4 de la materia Compiladores 2022&#xA;&#xA;Usage: compiladores-exe [(-t|--typecheck) | (-i|--interactive)] [FILES...]&#xA;  Compilador de FD4&#xA;&#xA;Available options:&#xA;  -t,--typecheck           Solo chequear tipos&#xA;  -i,--interactive         Ejecutar en forma interactiva&#xA;  -h,--help                Show this help text&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

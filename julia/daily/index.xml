@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:39:58Z</updated>
+  <updated>2022-08-21T01:40:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maren-ha/scVI.jl</title>
-    <updated>2022-08-20T01:39:58Z</updated>
-    <id>tag:github.com,2022-08-20:/maren-ha/scVI.jl</id>
-    <link href="https://github.com/maren-ha/scVI.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for fitting VAEs to single-cell data using count distributions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>InPhyT/MultilayerGraphs.jl</title>
+    <updated>2022-08-21T01:40:08Z</updated>
+    <id>tag:github.com,2022-08-21:/InPhyT/MultilayerGraphs.jl</id>
+    <link href="https://github.com/InPhyT/MultilayerGraphs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for the construction, manipulation and analysis of multilayer graphs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mfiano/CoherentNoise.jl</title>
-    <updated>2022-08-20T01:39:58Z</updated>
-    <id>tag:github.com,2022-08-20:/mfiano/CoherentNoise.jl</id>
-    <link href="https://github.com/mfiano/CoherentNoise.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A comprehensive suite of coherent noise algorithms and composable tools for manipulating them.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nathanaelbosch/TuePlots.jl</title>
+    <updated>2022-08-21T01:40:08Z</updated>
+    <id>tag:github.com,2022-08-21:/nathanaelbosch/TuePlots.jl</id>
+    <link href="https://github.com/nathanaelbosch/TuePlots.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>arviz-devs/InferenceObjects.jl</title>
+    <updated>2022-08-21T01:40:08Z</updated>
+    <id>tag:github.com,2022-08-21:/arviz-devs/InferenceObjects.jl</id>
+    <link href="https://github.com/arviz-devs/InferenceObjects.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Storage for results of Bayesian inference&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

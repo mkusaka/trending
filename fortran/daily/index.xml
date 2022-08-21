@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-20T01:36:15Z</updated>
+  <updated>2022-08-21T01:36:49Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>npinto/pydirect</title>
-    <updated>2022-08-20T01:36:15Z</updated>
-    <id>tag:github.com,2022-08-20:/npinto/pydirect</id>
-    <link href="https://github.com/npinto/pydirect" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python wrapper to the DIRECT global optimization algorithm (forked from http://code.google.com/p/pydirect/source/browse)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

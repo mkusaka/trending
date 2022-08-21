@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Hack Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T01:57:43Z</updated>
+  <subtitle>Weekly Trending of Hack in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hhvm/user-documentation</title>
+    <updated>2022-08-21T01:57:43Z</updated>
+    <id>tag:github.com,2022-08-21:/hhvm/user-documentation</id>
+    <link href="https://github.com/hhvm/user-documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for those that use HHVM and write Hack code.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hhvm/hsl-experimental</title>
+    <updated>2022-08-21T01:57:43Z</updated>
+    <id>tag:github.com,2022-08-21:/hhvm/hsl-experimental</id>
+    <link href="https://github.com/hhvm/hsl-experimental" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental features for the Hack Standard Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hhvm/hsl</title>
+    <updated>2022-08-21T01:57:43Z</updated>
+    <id>tag:github.com,2022-08-21:/hhvm/hsl</id>
+    <link href="https://github.com/hhvm/hsl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Hack Standard Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

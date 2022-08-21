@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T01:57:39Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sjurgemeyer/GR8-US-2012</title>
+    <updated>2022-08-21T01:57:39Z</updated>
+    <id>tag:github.com,2022-08-21:/sjurgemeyer/GR8-US-2012</id>
+    <link href="https://github.com/sjurgemeyer/GR8-US-2012" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slides and materials from GR8 US presentations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mkdecisiondev/moqui-pac4j-authentication</title>
+    <updated>2022-08-21T01:57:39Z</updated>
+    <id>tag:github.com,2022-08-21:/mkdecisiondev/moqui-pac4j-authentication</id>
+    <link href="https://github.com/mkdecisiondev/moqui-pac4j-authentication" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Single Sign-on authentication support for Moqui&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudbees/user-activity-monitoring-scripts</title>
+    <updated>2022-08-21T01:57:39Z</updated>
+    <id>tag:github.com,2022-08-21:/cloudbees/user-activity-monitoring-scripts</id>
+    <link href="https://github.com/cloudbees/user-activity-monitoring-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts for the User Activity Monitoring plugin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

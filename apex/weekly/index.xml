@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Apex Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-21T01:51:53Z</updated>
+  <subtitle>Weekly Trending of Apex in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kevinohara80/sfdc-trigger-framework</title>
+    <updated>2022-08-21T01:51:53Z</updated>
+    <id>tag:github.com,2022-08-21:/kevinohara80/sfdc-trigger-framework</id>
+    <link href="https://github.com/kevinohara80/sfdc-trigger-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal trigger framework for your Salesforce Apex Triggers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>registerguard/custom.rg.Scraper</title>
+    <updated>2022-08-21T01:51:53Z</updated>
+    <id>tag:github.com,2022-08-21:/registerguard/custom.rg.Scraper</id>
+    <link href="https://github.com/registerguard/custom.rg.Scraper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;Scraper&#34; class for DTI&#39;s ContentPublisher CMS which is built on Intersystems Caché, the world&#39;s fastest high performance object database.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
