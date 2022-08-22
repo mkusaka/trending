@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:37:08Z</updated>
+  <updated>2022-08-22T01:35:54Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Orama-Interactive/VoxeloramaExtension</title>
-    <updated>2022-08-21T01:37:08Z</updated>
-    <id>tag:github.com,2022-08-21:/Orama-Interactive/VoxeloramaExtension</id>
-    <link href="https://github.com/Orama-Interactive/VoxeloramaExtension" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An extension for Pixelorama that generates 3D voxel art out of 2D pixel art.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MarcoFazioRandom/Virtual-Joystick-Godot</title>
-    <updated>2022-08-21T01:37:08Z</updated>
-    <id>tag:github.com,2022-08-21:/MarcoFazioRandom/Virtual-Joystick-Godot</id>
-    <link href="https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple virtual joystick for touchscreens, for both 2D and 3D games, with useful options.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IsotoxalDev/Todot</title>
+    <updated>2022-08-22T01:35:54Z</updated>
+    <id>tag:github.com,2022-08-22:/IsotoxalDev/Todot</id>
+    <link href="https://github.com/IsotoxalDev/Todot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A kanban style todo plugin for godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

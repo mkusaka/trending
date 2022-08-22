@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:46:59Z</updated>
+  <updated>2022-08-22T01:45:52Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>avanishsubbiah/material-you-theme</title>
-    <updated>2022-08-21T01:46:59Z</updated>
-    <id>tag:github.com,2022-08-21:/avanishsubbiah/material-you-theme</id>
-    <link href="https://github.com/avanishsubbiah/material-you-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Applies generated libadwaita theme from wallpaper using Material You&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atedeg/mdm-slides</title>
+    <updated>2022-08-22T01:45:52Z</updated>
+    <id>tag:github.com,2022-08-22:/atedeg/mdm-slides</id>
+    <link href="https://github.com/atedeg/mdm-slides" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slides for the MDM projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

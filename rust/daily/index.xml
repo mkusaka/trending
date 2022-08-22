@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:46:38Z</updated>
+  <updated>2022-08-22T01:45:28Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seanmonstar/warp</title>
-    <updated>2022-08-21T01:46:38Z</updated>
-    <id>tag:github.com,2022-08-21:/seanmonstar/warp</id>
-    <link href="https://github.com/seanmonstar/warp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A super-easy, composable, web server framework for warp speeds.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>salsa-rs/salsa</title>
-    <updated>2022-08-21T01:46:38Z</updated>
-    <id>tag:github.com,2022-08-21:/salsa-rs/salsa</id>
-    <link href="https://github.com/salsa-rs/salsa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc&#39;s query system.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>luamfb/tempest-lcd</title>
-    <updated>2022-08-21T01:46:38Z</updated>
-    <id>tag:github.com,2022-08-21:/luamfb/tempest-lcd</id>
-    <link href="https://github.com/luamfb/tempest-lcd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Play music from your LCD monitor with a radio&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>michaelb/sniprun</title>
+    <updated>2022-08-22T01:45:28Z</updated>
+    <id>tag:github.com,2022-08-22:/michaelb/sniprun</id>
+    <link href="https://github.com/michaelb/sniprun" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

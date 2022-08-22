@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:47:52Z</updated>
+  <updated>2022-08-22T01:46:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ProjectOpenSea/seaport-order-validator</title>
-    <updated>2022-08-21T01:47:52Z</updated>
-    <id>tag:github.com,2022-08-21:/ProjectOpenSea/seaport-order-validator</id>
-    <link href="https://github.com/ProjectOpenSea/seaport-order-validator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>antoncoding/squeeth-vol-oracle</title>
-    <updated>2022-08-21T01:47:52Z</updated>
-    <id>tag:github.com,2022-08-21:/antoncoding/squeeth-vol-oracle</id>
-    <link href="https://github.com/antoncoding/squeeth-vol-oracle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;on-chain vol oracle from squeeth&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MrToph/nft-enhancement</title>
-    <updated>2022-08-21T01:47:52Z</updated>
-    <id>tag:github.com,2022-08-21:/MrToph/nft-enhancement</id>
-    <link href="https://github.com/MrToph/nft-enhancement" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zobront/paradigm-ctf</title>
+    <updated>2022-08-22T01:46:49Z</updated>
+    <id>tag:github.com,2022-08-22:/zobront/paradigm-ctf</id>
+    <link href="https://github.com/zobront/paradigm-ctf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;template for efficient paradigm ctf testing &amp; scripts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:50:06Z</updated>
+  <updated>2022-08-22T01:49:24Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>geongeorge/i-hate-regex</title>
-    <updated>2022-08-21T01:50:06Z</updated>
-    <id>tag:github.com,2022-08-21:/geongeorge/i-hate-regex</id>
-    <link href="https://github.com/geongeorge/i-hate-regex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The code for iHateregex.io 😈 - The Regex Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bestony/logoly</title>
+    <updated>2022-08-22T01:49:24Z</updated>
+    <id>tag:github.com,2022-08-22:/bestony/logoly</id>
+    <link href="https://github.com/bestony/logoly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Pornhub Flavour Logo Generator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>silent-lad/VueSolitaire</title>
+    <updated>2022-08-22T01:49:24Z</updated>
+    <id>tag:github.com,2022-08-22:/silent-lad/VueSolitaire</id>
+    <link href="https://github.com/silent-lad/VueSolitaire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solitaire made in Vue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>COPS-IITBHU/sdg-site</title>
+    <updated>2022-08-22T01:49:24Z</updated>
+    <id>tag:github.com,2022-08-22:/COPS-IITBHU/sdg-site</id>
+    <link href="https://github.com/COPS-IITBHU/sdg-site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Club of Programmers Software Development Guild Site&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

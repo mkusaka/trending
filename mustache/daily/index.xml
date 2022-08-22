@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:42:22Z</updated>
+  <updated>2022-08-22T01:41:14Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Mailu/helm-charts</title>
+    <updated>2022-08-22T01:41:14Z</updated>
+    <id>tag:github.com,2022-08-22:/Mailu/helm-charts</id>
+    <link href="https://github.com/Mailu/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Development repo for helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TalkingQuickly/kubernetes-sso-guide</title>
+    <updated>2022-08-22T01:41:14Z</updated>
+    <id>tag:github.com,2022-08-22:/TalkingQuickly/kubernetes-sso-guide</id>
+    <link href="https://github.com/TalkingQuickly/kubernetes-sso-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

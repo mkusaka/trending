@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:50:15Z</updated>
+  <updated>2022-08-22T01:49:33Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>remko/waforth</title>
+    <updated>2022-08-22T01:49:33Z</updated>
+    <id>tag:github.com,2022-08-22:/remko/waforth</id>
+    <link href="https://github.com/remko/waforth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrapping dynamic Forth Interpreter/Compiler for WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

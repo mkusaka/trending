@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:31:05Z</updated>
+  <updated>2022-08-22T01:30:18Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jbhuang0604/awesome-computer-vision</title>
-    <updated>2022-08-21T01:31:05Z</updated>
-    <id>tag:github.com,2022-08-21:/jbhuang0604/awesome-computer-vision</id>
-    <link href="https://github.com/jbhuang0604/awesome-computer-vision" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome computer vision resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cloud-Architekt/AzureAD-Attack-Defense</title>
+    <updated>2022-08-22T01:30:18Z</updated>
+    <id>tag:github.com,2022-08-22:/Cloud-Architekt/AzureAD-Attack-Defense</id>
+    <link href="https://github.com/Cloud-Architekt/AzureAD-Attack-Defense" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This publication is a collection of various common attack scenarios on Azure Active Directory and how they can be mitigated or detected.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gayanvoice/top-github-users</title>
-    <updated>2022-08-21T01:31:05Z</updated>
-    <id>tag:github.com,2022-08-21:/gayanvoice/top-github-users</id>
-    <link href="https://github.com/gayanvoice/top-github-users" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Check your ranking in GitHub! Don&#39;t forget to star ⭐ this repository.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Twipped/InterviewThis</title>
+    <updated>2022-08-22T01:30:18Z</updated>
+    <id>tag:github.com,2022-08-22:/Twipped/InterviewThis</id>
+    <link href="https://github.com/Twipped/InterviewThis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open source list of developer questions to ask prospective employers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vasanthk/react-bits</title>
-    <updated>2022-08-21T01:31:05Z</updated>
-    <id>tag:github.com,2022-08-21:/vasanthk/react-bits</id>
-    <link href="https://github.com/vasanthk/react-bits" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✨ React patterns, techniques, tips and tricks ✨&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sorrycc/chinese-f2e-developer</title>
+    <updated>2022-08-22T01:30:18Z</updated>
+    <id>tag:github.com,2022-08-22:/sorrycc/chinese-f2e-developer</id>
+    <link href="https://github.com/sorrycc/chinese-f2e-developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;中国前端开发者。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

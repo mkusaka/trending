@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:38:06Z</updated>
+  <updated>2022-08-22T01:37:05Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>compiladores-lcc/compiladores2022</title>
-    <updated>2022-08-21T01:38:06Z</updated>
-    <id>tag:github.com,2022-08-21:/compiladores-lcc/compiladores2022</id>
-    <link href="https://github.com/compiladores-lcc/compiladores2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Código inicial para la materia Compiladores 2022 de LCC - FCEIA - UNR&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Compiladores&lt;/h1&gt; &#xA;&lt;p&gt;Código para la materia Compiladores 2022 de &lt;a href=&#34;https://dcc.fceia.unr.edu.ar&#34;&gt;LCC&lt;/a&gt;, &lt;a href=&#34;https://www.fceia.unr.edu.ar&#34;&gt;FCEIA&lt;/a&gt;, &lt;a href=&#34;https://www.unr.edu.ar&#34;&gt;UNR&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Este es el código a partir del cual los estudiantes empiezan a desarrollar un compilador.&lt;/p&gt; &#xA;&lt;p&gt;Para fijar la versión de GHC y de los paquetes usaremos la herramienta &lt;a href=&#34;https://docs.haskellstack.org/en/stable/README/&#34;&gt;stack&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Los pasos para instalar son:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;stack setup&#xA;stack build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Luego se puede ejecutar con&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;stack run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;o cargar el entorno interactivo GHCi&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;stack ghci&#xA;&#xA;stack ghci src/TypeChecker.hs&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;También se pueden cargar archivos. Desde stack:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;stack run -- miprograma.fd4&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;En general, los argumentos a nuestro programa se escriben luego de &lt;code&gt;--&lt;/code&gt;. Por ejemplo,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-code&#34;&gt;% stack run -- --help&#xA;Compilador de FD4 de la materia Compiladores 2022&#xA;&#xA;Usage: compiladores-exe [(-t|--typecheck) | (-i|--interactive)] [FILES...]&#xA;  Compilador de FD4&#xA;&#xA;Available options:&#xA;  -t,--typecheck           Solo chequear tipos&#xA;  -i,--interactive         Ejecutar en forma interactiva&#xA;  -h,--help                Show this help text&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>ruHaskell-learn/lhx</title>
+    <updated>2022-08-22T01:37:05Z</updated>
+    <id>tag:github.com,2022-08-22:/ruHaskell-learn/lhx</id>
+    <link href="https://github.com/ruHaskell-learn/lhx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Line Hyper-eXpander, a sed/awk-like text processing tool with a human face :)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Line Hyper-eXpander&lt;/h1&gt; &#xA;&lt;p&gt;The LHX is dual:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;it is a tool to do some work&lt;/li&gt; &#xA; &lt;li&gt;it is a sandbox to learn how to program in the Haskell language&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Idea&lt;/h2&gt; &#xA;&lt;p&gt;The central idea is to make possible to transform some text line-by-line using a simple templating language: rename a group of files, generate HTML lists and tables, etc.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:33:59Z</updated>
+  <updated>2022-08-22T01:33:02Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PolarityWorks/zmk-config-adv360</title>
-    <updated>2022-08-21T01:33:59Z</updated>
-    <id>tag:github.com,2022-08-21:/PolarityWorks/zmk-config-adv360</id>
-    <link href="https://github.com/PolarityWorks/zmk-config-adv360" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adv360 zmk config&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>micro-ROS/micro_ros_msgs</title>
+    <updated>2022-08-22T01:33:02Z</updated>
+    <id>tag:github.com,2022-08-22:/micro-ROS/micro_ros_msgs</id>
+    <link href="https://github.com/micro-ROS/micro_ros_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of ROS 2 message definitions used throughout the implementation of micro-ROS, both in the agent and client endpoints.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ReFil/zmk-config</title>
-    <updated>2022-08-21T01:33:59Z</updated>
-    <id>tag:github.com,2022-08-21:/ReFil/zmk-config</id>
-    <link href="https://github.com/ReFil/zmk-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>intel/confidential-computing-zoo</title>
+    <updated>2022-08-22T01:33:02Z</updated>
+    <id>tag:github.com,2022-08-22:/intel/confidential-computing-zoo</id>
+    <link href="https://github.com/intel/confidential-computing-zoo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Confidential Computing Zoo provides confidential computing solutions based on Intel SGX, TDX, HEXL, etc. technologies.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

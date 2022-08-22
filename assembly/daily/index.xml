@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-21T01:32:16Z</updated>
+  <updated>2022-08-22T01:31:32Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zdimension/parm_extended</title>
-    <updated>2022-08-21T01:32:16Z</updated>
-    <id>tag:github.com,2022-08-21:/zdimension/parm_extended</id>
-    <link href="https://github.com/zdimension/parm_extended" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>callofduty4x/CoD4x_Server</title>
+    <updated>2022-08-22T01:31:32Z</updated>
+    <id>tag:github.com,2022-08-22:/callofduty4x/CoD4x_Server</id>
+    <link href="https://github.com/callofduty4x/CoD4x_Server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extended Call of Duty 4 server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Baron-von-Riedesel/XDMA</title>
-    <updated>2022-08-21T01:32:16Z</updated>
-    <id>tag:github.com,2022-08-21:/Baron-von-Riedesel/XDMA</id>
-    <link href="https://github.com/Baron-von-Riedesel/XDMA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;simple Ultra-DMA DOS driver for &#34;vintage&#34; PCs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jarisha/Social-Slots</title>
+    <updated>2022-08-22T01:31:32Z</updated>
+    <id>tag:github.com,2022-08-22:/Jarisha/Social-Slots</id>
+    <link href="https://github.com/Jarisha/Social-Slots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
