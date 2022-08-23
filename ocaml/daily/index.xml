@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:42:06Z</updated>
+  <updated>2022-08-23T01:42:48Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>coq/opam-coq-archive</title>
-    <updated>2022-08-22T01:42:06Z</updated>
-    <id>tag:github.com,2022-08-22:/coq/opam-coq-archive</id>
-    <link href="https://github.com/coq/opam-coq-archive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Archive for all Coq related OPAM packages organized in various repositories&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nyinyithann/favemarks</title>
-    <updated>2022-08-22T01:42:06Z</updated>
-    <id>tag:github.com,2022-08-22:/nyinyithann/favemarks</id>
-    <link href="https://github.com/nyinyithann/favemarks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny command line bookmark manager.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

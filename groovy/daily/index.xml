@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:36:53Z</updated>
+  <updated>2022-08-23T01:37:26Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ovflowd/ecommerce</title>
-    <updated>2022-08-22T01:36:53Z</updated>
-    <id>tag:github.com,2022-08-22:/ovflowd/ecommerce</id>
-    <link href="https://github.com/ovflowd/ecommerce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👜 A simple restful API for Purchases and Products&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>msgilligan/unit-test-template</title>
-    <updated>2022-08-22T01:36:53Z</updated>
-    <id>tag:github.com,2022-08-22:/msgilligan/unit-test-template</id>
-    <link href="https://github.com/msgilligan/unit-test-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle JUnit Template Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fischerzh/mobilefood</title>
+    <updated>2022-08-23T01:37:26Z</updated>
+    <id>tag:github.com,2022-08-23:/fischerzh/mobilefood</id>
+    <link href="https://github.com/fischerzh/mobilefood" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

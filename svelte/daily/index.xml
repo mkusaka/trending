@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:47:16Z</updated>
+  <updated>2022-08-23T01:47:56Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>3w36zj6/pixel-art-converter</title>
-    <updated>2022-08-22T01:47:16Z</updated>
-    <id>tag:github.com,2022-08-22:/3w36zj6/pixel-art-converter</id>
-    <link href="https://github.com/3w36zj6/pixel-art-converter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pixel art converter by k-means clustering.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>josh-collinsworth/sveltekit-blog-starter</title>
+    <updated>2022-08-23T01:47:56Z</updated>
+    <id>tag:github.com,2022-08-23:/josh-collinsworth/sveltekit-blog-starter</id>
+    <link href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>janosh/awesome-sveltekit</title>
-    <updated>2022-08-22T01:47:16Z</updated>
-    <id>tag:github.com,2022-08-22:/janosh/awesome-sveltekit</id>
-    <link href="https://github.com/janosh/awesome-sveltekit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome examples of SvelteKit in the wild&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timdeschryver/timdeschryver.dev</title>
+    <updated>2022-08-23T01:47:56Z</updated>
+    <id>tag:github.com,2022-08-23:/timdeschryver/timdeschryver.dev</id>
+    <link href="https://github.com/timdeschryver/timdeschryver.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

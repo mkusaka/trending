@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:30:18Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-08-23T01:30:46Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cloud-Architekt/AzureAD-Attack-Defense</title>
-    <updated>2022-08-22T01:30:18Z</updated>
-    <id>tag:github.com,2022-08-22:/Cloud-Architekt/AzureAD-Attack-Defense</id>
-    <link href="https://github.com/Cloud-Architekt/AzureAD-Attack-Defense" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This publication is a collection of various common attack scenarios on Azure Active Directory and how they can be mitigated or detected.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CollabCodeTech/backend-challenges</title>
+    <updated>2022-08-23T01:30:46Z</updated>
+    <id>tag:github.com,2022-08-23:/CollabCodeTech/backend-challenges</id>
+    <link href="https://github.com/CollabCodeTech/backend-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A public list of open-source challenges from jobs around the world&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Twipped/InterviewThis</title>
-    <updated>2022-08-22T01:30:18Z</updated>
-    <id>tag:github.com,2022-08-22:/Twipped/InterviewThis</id>
-    <link href="https://github.com/Twipped/InterviewThis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open source list of developer questions to ask prospective employers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ihebski/A-Red-Teamer-diaries</title>
+    <updated>2022-08-23T01:30:46Z</updated>
+    <id>tag:github.com,2022-08-23:/ihebski/A-Red-Teamer-diaries</id>
+    <link href="https://github.com/ihebski/A-Red-Teamer-diaries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sorrycc/chinese-f2e-developer</title>
-    <updated>2022-08-22T01:30:18Z</updated>
-    <id>tag:github.com,2022-08-22:/sorrycc/chinese-f2e-developer</id>
-    <link href="https://github.com/sorrycc/chinese-f2e-developer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;中国前端开发者。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>csseky/cskaoyan</title>
+    <updated>2022-08-23T01:30:46Z</updated>
+    <id>tag:github.com,2022-08-23:/csseky/cskaoyan</id>
+    <link href="https://github.com/csseky/cskaoyan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;提供计算机考研和软件工程考研专业的各个学校 考研真题&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

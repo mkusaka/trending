@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:45:28Z</updated>
+  <updated>2022-08-23T01:46:19Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>michaelb/sniprun</title>
-    <updated>2022-08-22T01:45:28Z</updated>
-    <id>tag:github.com,2022-08-22:/michaelb/sniprun</id>
-    <link href="https://github.com/michaelb/sniprun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A neovim plugin to run lines/blocs of code (independently of the rest of the file), supporting multiples languages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>surrealdb/surrealdb</title>
+    <updated>2022-08-23T01:46:19Z</updated>
+    <id>tag:github.com,2022-08-23:/surrealdb/surrealdb</id>
+    <link href="https://github.com/surrealdb/surrealdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A scalable, distributed, collaborative, document-graph database, for the realtime web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>crossterm-rs/crossterm</title>
+    <updated>2022-08-23T01:46:19Z</updated>
+    <id>tag:github.com,2022-08-23:/crossterm-rs/crossterm</id>
+    <link href="https://github.com/crossterm-rs/crossterm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross platform terminal library rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>timClicks/coin-boolean</title>
+    <updated>2022-08-23T01:46:19Z</updated>
+    <id>tag:github.com,2022-08-23:/timClicks/coin-boolean</id>
+    <link href="https://github.com/timClicks/coin-boolean" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bit flip resistant Boolean type&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

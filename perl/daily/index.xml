@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:42:50Z</updated>
+  <updated>2022-08-23T01:43:24Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uninets/Unicorn</title>
-    <updated>2022-08-22T01:42:50Z</updated>
-    <id>tag:github.com,2022-08-22:/uninets/Unicorn</id>
-    <link href="https://github.com/uninets/Unicorn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Perl module to interface with the Unicorn webserver. (unicorn_rails only)&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Unicorn&lt;/p&gt; &#xA;&lt;p&gt;THIS IS A DEVELOPMENT RELEASE NOT READY FOR PRODUCTION!&lt;/p&gt; &#xA;&lt;p&gt;The Unicorn::Manager module aimes to provide an interface to the Unicorn webserver.&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION&lt;/p&gt; &#xA;&lt;p&gt;To install this module, run the following commands:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perl Build.PL&#xA;./Build&#xA;./Build test&#xA;./Build install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;SUPPORT AND DOCUMENTATION&lt;/p&gt; &#xA;&lt;p&gt;After installing, you can find documentation for this module with the perldoc command.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perldoc Unicorn&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can also look for information about bugs/problems at:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://github.com/mugenken/Unicorn/issues&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;LICENSE AND COPYRIGHT&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2011 Mugen Kenichi&lt;/p&gt; &#xA;&lt;p&gt;This program is released under the following license: MIT&lt;/p&gt;</summary>
+    <title>kentaro/nippo</title>
+    <updated>2022-08-23T01:43:24Z</updated>
+    <id>tag:github.com,2022-08-23:/kentaro/nippo</id>
+    <link href="https://github.com/kentaro/nippo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nippo&lt;/h1&gt; &#xA;&lt;p&gt;日報半自動化スクリプトです。&lt;/p&gt; &#xA;&lt;h2&gt;インストール&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ git clone git://github.com/kentaro/nippo.git&#xA;$ cd nippo&#xA;$ cpanm --install-dependencies . # 最後の . を忘れずに&#xA;$ perl Makefile.PL&#xA;$ make&#xA;$ make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;実行&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ nippo [-f 自分用テンプレ] [-d YYYY-MM-DD] [--prev]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;f: 自分用テンプレを指定します。指定のない場合は、デフォルトのものが使われます。&lt;/li&gt; &#xA; &lt;li&gt;d: 日付を指定します。指定のない場合は、実行時の日付けになります。&lt;/li&gt; &#xA; &lt;li&gt;prev: 前回の日報を取得し、それをテンプレとして使用します。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;TODO&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;編集モード&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

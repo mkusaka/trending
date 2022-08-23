@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:38:59Z</updated>
+  <updated>2022-08-23T01:39:44Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cjungerius/BeepBeep.jl</title>
-    <updated>2022-08-22T01:38:59Z</updated>
-    <id>tag:github.com,2022-08-22:/cjungerius/BeepBeep.jl</id>
-    <link href="https://github.com/cjungerius/BeepBeep.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Because watched code never finishes!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaIO/JSON.jl</title>
-    <updated>2022-08-22T01:38:59Z</updated>
-    <id>tag:github.com,2022-08-22:/JuliaIO/JSON.jl</id>
-    <link href="https://github.com/JuliaIO/JSON.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSON parsing and printing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaBooks/Books.jl</title>
-    <updated>2022-08-22T01:38:59Z</updated>
-    <id>tag:github.com,2022-08-22:/JuliaBooks/Books.jl</id>
-    <link href="https://github.com/JuliaBooks/Books.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create books with Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaPerf/PProf.jl</title>
+    <updated>2022-08-23T01:39:44Z</updated>
+    <id>tag:github.com,2022-08-23:/JuliaPerf/PProf.jl</id>
+    <link href="https://github.com/JuliaPerf/PProf.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Export Julia profiles to the pprof format&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

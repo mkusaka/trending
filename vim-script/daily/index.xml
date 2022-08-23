@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:49:17Z</updated>
+  <updated>2022-08-23T01:49:36Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hrsh7th/vim-eft</title>
-    <updated>2022-08-22T01:49:17Z</updated>
-    <id>tag:github.com,2022-08-22:/hrsh7th/vim-eft</id>
-    <link href="https://github.com/hrsh7th/vim-eft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;enhanced f/t&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antoinemadec/FixCursorHold.nvim</title>
+    <updated>2022-08-23T01:49:36Z</updated>
+    <id>tag:github.com,2022-08-23:/antoinemadec/FixCursorHold.nvim</id>
+    <link href="https://github.com/antoinemadec/FixCursorHold.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fix CursorHold Performance.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kkoomen/vim-doge</title>
+    <updated>2022-08-23T01:49:36Z</updated>
+    <id>tag:github.com,2022-08-23:/kkoomen/vim-doge</id>
+    <link href="https://github.com/kkoomen/vim-doge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

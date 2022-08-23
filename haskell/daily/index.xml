@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-22T01:37:05Z</updated>
+  <updated>2022-08-23T01:37:40Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ruHaskell-learn/lhx</title>
-    <updated>2022-08-22T01:37:05Z</updated>
-    <id>tag:github.com,2022-08-22:/ruHaskell-learn/lhx</id>
-    <link href="https://github.com/ruHaskell-learn/lhx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Line Hyper-eXpander, a sed/awk-like text processing tool with a human face :)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Line Hyper-eXpander&lt;/h1&gt; &#xA;&lt;p&gt;The LHX is dual:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;it is a tool to do some work&lt;/li&gt; &#xA; &lt;li&gt;it is a sandbox to learn how to program in the Haskell language&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Idea&lt;/h2&gt; &#xA;&lt;p&gt;The central idea is to make possible to transform some text line-by-line using a simple templating language: rename a group of files, generate HTML lists and tables, etc.&lt;/p&gt;</summary>
-  </entry>
 </feed>
