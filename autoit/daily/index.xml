@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:32:13Z</updated>
+  <updated>2022-08-24T01:32:36Z</updated>
   <subtitle>Daily Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>guided-hacking/GuidedHacking-Injector</title>
-    <updated>2022-08-23T01:32:13Z</updated>
-    <id>tag:github.com,2022-08-23:/guided-hacking/GuidedHacking-Injector</id>
-    <link href="https://github.com/guided-hacking/GuidedHacking-Injector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fully Featured DLL Injector made by Broihon&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

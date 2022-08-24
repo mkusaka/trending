@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:43:57Z</updated>
+  <updated>2022-08-24T01:45:10Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dotnet/spa-templates</title>
-    <updated>2022-08-23T01:43:57Z</updated>
-    <id>tag:github.com,2022-08-23:/dotnet/spa-templates</id>
-    <link href="https://github.com/dotnet/spa-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo contains SPA project templates which are part of the ASP.NET Core&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ASP.NET Core Single Page App templates&lt;/h1&gt; &#xA;&lt;p&gt;This repo is home for the ASP.NET Core Single Page App (SPA) project templates for Angular and React that ship as part of the .NET SDK, as well as a listing of community provided templates for using ASP.NET Core with other frontend JavaScript frameworks.&lt;/p&gt; &#xA;&lt;h2&gt;Community templates&lt;/h2&gt; &#xA;&lt;p&gt;This section is for community project templates for using ASP.NET Core with various frontend JavaScript frameworks.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;See the &lt;a href=&#34;https://github.com/dotnet/spa-templates/raw/main/CONTRIBUTING.md&#34;&gt;contributing guide&lt;/a&gt; for details on how to add a project template to this list.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.nuget.org/packages/JohannDev.DotNet.Web.Spa.ProjectTemplates/&#34;&gt;ASP.NET Core + Vite&lt;/a&gt; - &lt;img src=&#34;https://img.shields.io/github/stars/johanndev/spa-templates?style=flat-square&amp;amp;cacheSeconds=604800&amp;amp;logo=microsoft&#34; alt=&#34;GitHub stars&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/last-commit/johanndev/spa-templates?style=flat-square&amp;amp;cacheSeconds=86400&#34; alt=&#34;last commit&#34;&gt; Integrates &lt;a href=&#34;https://vitejs.dev/&#34;&gt;Vite&lt;/a&gt; with ASP.NET Core; currently enables authoring front-end projects in vanilla-js, vue, react, preact, lit-element, and svelte, with optional TypeScript support for all listed technologies.&lt;/p&gt; &#xA;&lt;!--&#xA;Please use this template for each submission:&#xA;&#xA;- [Template name](https://www.nuget.org/packages/**packageName**/) - ![GitHub stars](https://img.shields.io/github/stars/**org**/**repo**?style=flat-square&amp;cacheSeconds=604800&amp;logo=microsoft) ![last commit](https://img.shields.io/github/last-commit/**org**/**repo**?style=flat-square&amp;cacheSeconds=86400) Short description of the template.&#xA;--&gt;</summary>
+    <title>mr-r3b00t/parse_win_log</title>
+    <updated>2022-08-24T01:45:10Z</updated>
+    <id>tag:github.com,2022-08-24:/mr-r3b00t/parse_win_log</id>
+    <link href="https://github.com/mr-r3b00t/parse_win_log" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;parse_win_log&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>nobitaPT/Windows-CRD</title>
+    <updated>2022-08-24T01:45:10Z</updated>
+    <id>tag:github.com,2022-08-24:/nobitaPT/Windows-CRD</id>
+    <link href="https://github.com/nobitaPT/Windows-CRD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Windows-CRD&lt;/h1&gt; &#xA;&lt;h3&gt;How to use&lt;/h3&gt; &#xA;&lt;p&gt;Just Fork this Repository, Go to Actions tab, Select the &lt;em&gt;Windows-CRD&lt;/em&gt; workflow. Then select &lt;strong&gt;Run Workflow&lt;/strong&gt; fill the following data in CRD Code and your Pin in the fields. After that, Press Start.&lt;/p&gt; &#xA;&lt;p&gt;Input the following code in the fields.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Get the &lt;strong&gt;Windows (Powershell)&lt;/strong&gt; command from here:&lt;/p&gt; &lt;p&gt;&lt;a href=&#34;https://remotedesktop.google.com/headless&#34;&gt;https://remotedesktop.google.com/headless&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Enter you Six digit Pin code to Login&lt;/p&gt; &lt;p&gt;(&lt;em&gt;Any Six digit Pin&lt;/em&gt;)&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;strong&gt;Thats it...&lt;/strong&gt; After 2-3 min of Initialize, Check your CRD Application or Account.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;p&gt;Initial Bringup and Improvements by Team &lt;a href=&#34;https://github.com/Area69Lab&#34;&gt;Area69Lab&lt;/a&gt; and &lt;a href=&#34;https://t.me/Alone215&#34;&gt;Alone&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

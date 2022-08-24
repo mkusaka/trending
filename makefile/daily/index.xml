@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:41:15Z</updated>
+  <updated>2022-08-24T01:42:11Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RMX1805/vendor_oppo</title>
-    <updated>2022-08-23T01:41:15Z</updated>
-    <id>tag:github.com,2022-08-23:/RMX1805/vendor_oppo</id>
-    <link href="https://github.com/RMX1805/vendor_oppo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vendor for realme 2/c1&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sasansafari/techblog</title>
+    <updated>2022-08-24T01:42:11Z</updated>
+    <id>tag:github.com,2022-08-24:/sasansafari/techblog</id>
+    <link href="https://github.com/sasansafari/techblog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;techblog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ArrowOS/android_device_qcom_sepolicy-legacy-um</title>
-    <updated>2022-08-23T01:41:15Z</updated>
-    <id>tag:github.com,2022-08-23:/ArrowOS/android_device_qcom_sepolicy-legacy-um</id>
-    <link href="https://github.com/ArrowOS/android_device_qcom_sepolicy-legacy-um" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hww3/pike_modules-public_xapian</title>
+    <updated>2022-08-24T01:42:11Z</updated>
+    <id>tag:github.com,2022-08-24:/hww3/pike_modules-public_xapian</id>
+    <link href="https://github.com/hww3/pike_modules-public_xapian" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;None&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kubeclipper-labs/test-infra</title>
+    <updated>2022-08-24T01:42:11Z</updated>
+    <id>tag:github.com,2022-08-24:/kubeclipper-labs/test-infra</id>
+    <link href="https://github.com/kubeclipper-labs/test-infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools and configuration files for the testing and automation needs for Kubeclipper&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

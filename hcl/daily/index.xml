@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:37:55Z</updated>
+  <updated>2022-08-24T01:38:39Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alijahnas/CKA-practice-exercises</title>
-    <updated>2022-08-23T01:37:55Z</updated>
-    <id>tag:github.com,2022-08-23:/alijahnas/CKA-practice-exercises</id>
-    <link href="https://github.com/alijahnas/CKA-practice-exercises" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a guide for passing the CNCF Certified Kubernetes Administrator (CKA) with practice exercises. Good luck!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-rds-proxy</title>
-    <updated>2022-08-23T01:37:55Z</updated>
-    <id>tag:github.com,2022-08-23:/terraform-aws-modules/terraform-aws-rds-proxy</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds-proxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates AWS RDS Proxy resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-google-modules/terraform-google-bastion-host</title>
-    <updated>2022-08-23T01:37:55Z</updated>
-    <id>tag:github.com,2022-08-23:/terraform-google-modules/terraform-google-bastion-host</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-bastion-host" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This module will generate a bastion host vm compatible with OS Login and IAP Tunneling that can be used to access internal VMs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>traveloka/terraform-aws-iam-role</title>
+    <updated>2022-08-24T01:38:39Z</updated>
+    <id>tag:github.com,2022-08-24:/traveloka/terraform-aws-iam-role</id>
+    <link href="https://github.com/traveloka/terraform-aws-iam-role" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to create AWS IAM Role.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

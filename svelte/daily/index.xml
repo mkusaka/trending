@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:47:56Z</updated>
+  <updated>2022-08-24T01:49:13Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>josh-collinsworth/sveltekit-blog-starter</title>
-    <updated>2022-08-23T01:47:56Z</updated>
-    <id>tag:github.com,2022-08-23:/josh-collinsworth/sveltekit-blog-starter</id>
-    <link href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>timdeschryver/timdeschryver.dev</title>
-    <updated>2022-08-23T01:47:56Z</updated>
-    <id>tag:github.com,2022-08-23:/timdeschryver/timdeschryver.dev</id>
-    <link href="https://github.com/timdeschryver/timdeschryver.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kwchang0831/svelte-QWER</title>
+    <updated>2022-08-24T01:49:13Z</updated>
+    <id>tag:github.com,2022-08-24:/kwchang0831/svelte-QWER</id>
+    <link href="https://github.com/kwchang0831/svelte-QWER" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✒︎ Simply Awesome Blog Starter built with Svelte and ❤&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

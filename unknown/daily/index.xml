@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:30:46Z</updated>
+  <updated>2022-08-24T01:30:46Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CollabCodeTech/backend-challenges</title>
-    <updated>2022-08-23T01:30:46Z</updated>
-    <id>tag:github.com,2022-08-23:/CollabCodeTech/backend-challenges</id>
-    <link href="https://github.com/CollabCodeTech/backend-challenges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A public list of open-source challenges from jobs around the world&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OffcierCia/DeFi-Developer-Road-Map</title>
+    <updated>2022-08-24T01:30:46Z</updated>
+    <id>tag:github.com,2022-08-24:/OffcierCia/DeFi-Developer-Road-Map</id>
+    <link href="https://github.com/OffcierCia/DeFi-Developer-Road-Map" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ihebski/A-Red-Teamer-diaries</title>
-    <updated>2022-08-23T01:30:46Z</updated>
-    <id>tag:github.com,2022-08-23:/ihebski/A-Red-Teamer-diaries</id>
-    <link href="https://github.com/ihebski/A-Red-Teamer-diaries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sib-swiss/training-collection</title>
+    <updated>2022-08-24T01:30:46Z</updated>
+    <id>tag:github.com,2022-08-24:/sib-swiss/training-collection</id>
+    <link href="https://github.com/sib-swiss/training-collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of bioinformatics training materials&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>csseky/cskaoyan</title>
-    <updated>2022-08-23T01:30:46Z</updated>
-    <id>tag:github.com,2022-08-23:/csseky/cskaoyan</id>
-    <link href="https://github.com/csseky/cskaoyan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;提供计算机考研和软件工程考研专业的各个学校 考研真题&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kelseyhightower/kubernetes-the-hard-way</title>
+    <updated>2022-08-24T01:30:46Z</updated>
+    <id>tag:github.com,2022-08-24:/kelseyhightower/kubernetes-the-hard-way</id>
+    <link href="https://github.com/kelseyhightower/kubernetes-the-hard-way" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

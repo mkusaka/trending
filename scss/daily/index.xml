@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:46:43Z</updated>
+  <updated>2022-08-24T01:48:01Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JustGoodThemes/Scriptor-Jekyll-Theme</title>
-    <updated>2022-08-23T01:46:43Z</updated>
-    <id>tag:github.com,2022-08-23:/JustGoodThemes/Scriptor-Jekyll-Theme</id>
-    <link href="https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scriptor is a minimal, clean, modern and responsive Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TakosThings/Fluent-Discord</title>
+    <updated>2022-08-24T01:48:01Z</updated>
+    <id>tag:github.com,2022-08-24:/TakosThings/Fluent-Discord</id>
+    <link href="https://github.com/TakosThings/Fluent-Discord" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows 11 Fluent Discord theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jackyzha0/jackyzha0.github.io</title>
-    <updated>2022-08-23T01:46:43Z</updated>
-    <id>tag:github.com,2022-08-23:/jackyzha0/jackyzha0.github.io</id>
-    <link href="https://github.com/jackyzha0/jackyzha0.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✨ website v3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/vue-soft-ui-dashboard</title>
+    <updated>2022-08-24T01:48:01Z</updated>
+    <id>tag:github.com,2022-08-24:/creativetimofficial/vue-soft-ui-dashboard</id>
+    <link href="https://github.com/creativetimofficial/vue-soft-ui-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue Soft UI Dashboard - Free and OpenSource VueJS 3 &amp; Bootstrap 5 Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>creativetimofficial/vue-material-dashboard-laravel</title>
-    <updated>2022-08-23T01:46:43Z</updated>
-    <id>tag:github.com,2022-08-23:/creativetimofficial/vue-material-dashboard-laravel</id>
-    <link href="https://github.com/creativetimofficial/vue-material-dashboard-laravel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue SPA Material template connected to working Laravel REST API with the help of json:api standard&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lavender-Discord/Lavender</title>
+    <updated>2022-08-24T01:48:01Z</updated>
+    <id>tag:github.com,2022-08-24:/Lavender-Discord/Lavender</id>
+    <link href="https://github.com/Lavender-Discord/Lavender" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A highly customizeable and good looking discord theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

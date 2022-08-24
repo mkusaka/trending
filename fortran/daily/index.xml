@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:36:13Z</updated>
+  <updated>2022-08-24T01:37:05Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nwchemgit/nwchem</title>
-    <updated>2022-08-23T01:36:13Z</updated>
-    <id>tag:github.com,2022-08-23:/nwchemgit/nwchem</id>
-    <link href="https://github.com/nwchemgit/nwchem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NWChem: Open Source High-Performance Computational Chemistry&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jgomezdans/sixs</title>
+    <updated>2022-08-24T01:37:05Z</updated>
+    <id>tag:github.com,2022-08-24:/jgomezdans/sixs</id>
+    <link href="https://github.com/jgomezdans/sixs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python bindings for 6s. The 6S code is a basic RT code used for calculation of lookup tables in the MODIS atmospheric correction algorithm.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

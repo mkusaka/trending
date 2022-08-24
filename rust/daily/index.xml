@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:46:19Z</updated>
+  <updated>2022-08-24T01:47:40Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>surrealdb/surrealdb</title>
-    <updated>2022-08-23T01:46:19Z</updated>
-    <id>tag:github.com,2022-08-23:/surrealdb/surrealdb</id>
-    <link href="https://github.com/surrealdb/surrealdb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A scalable, distributed, collaborative, document-graph database, for the realtime web&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akula-bft/akula</title>
+    <updated>2022-08-24T01:47:40Z</updated>
+    <id>tag:github.com,2022-08-24:/akula-bft/akula</id>
+    <link href="https://github.com/akula-bft/akula" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast Ethereum full-node implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>crossterm-rs/crossterm</title>
-    <updated>2022-08-23T01:46:19Z</updated>
-    <id>tag:github.com,2022-08-23:/crossterm-rs/crossterm</id>
-    <link href="https://github.com/crossterm-rs/crossterm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross platform terminal library rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nnextdb/nnext</title>
+    <updated>2022-08-24T01:47:40Z</updated>
+    <id>tag:github.com,2022-08-24:/nnextdb/nnext</id>
+    <link href="https://github.com/nnextdb/nnext" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Main NNext Application Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>timClicks/coin-boolean</title>
-    <updated>2022-08-23T01:46:19Z</updated>
-    <id>tag:github.com,2022-08-23:/timClicks/coin-boolean</id>
-    <link href="https://github.com/timClicks/coin-boolean" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bit flip resistant Boolean type&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Wilfred/difftastic</title>
+    <updated>2022-08-24T01:47:40Z</updated>
+    <id>tag:github.com,2022-08-24:/Wilfred/difftastic</id>
+    <link href="https://github.com/Wilfred/difftastic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a structural diff that understands syntax 🟥🟩&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

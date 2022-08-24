@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:47:20Z</updated>
+  <updated>2022-08-24T01:48:40Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bjw-s/helm-charts</title>
+    <updated>2022-08-24T01:48:40Z</updated>
+    <id>tag:github.com,2022-08-24:/bjw-s/helm-charts</id>
+    <link href="https://github.com/bjw-s/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ministryofjustice/staff-infrastructure-monitoring-cluster</title>
+    <updated>2022-08-24T01:48:40Z</updated>
+    <id>tag:github.com,2022-08-24:/ministryofjustice/staff-infrastructure-monitoring-cluster</id>
+    <link href="https://github.com/ministryofjustice/staff-infrastructure-monitoring-cluster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform to create new VPC and EKS Cluster for the MoJO IMA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

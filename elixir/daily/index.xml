@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-23T01:35:27Z</updated>
+  <updated>2022-08-24T01:36:22Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ueberauth/guardian</title>
-    <updated>2022-08-23T01:35:27Z</updated>
-    <id>tag:github.com,2022-08-23:/ueberauth/guardian</id>
-    <link href="https://github.com/ueberauth/guardian" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir Authentication&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bitfo/timescale</title>
+    <updated>2022-08-24T01:36:22Z</updated>
+    <id>tag:github.com,2022-08-24:/bitfo/timescale</id>
+    <link href="https://github.com/bitfo/timescale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TimescaleDB made easy with Ecto&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>am-kantox/finitomata</title>
+    <updated>2022-08-24T01:36:22Z</updated>
+    <id>tag:github.com,2022-08-24:/am-kantox/finitomata</id>
+    <link href="https://github.com/am-kantox/finitomata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FSM implementation generated from PlantUML textual representation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>benhaney/Jsonrs</title>
+    <updated>2022-08-24T01:36:22Z</updated>
+    <id>tag:github.com,2022-08-24:/benhaney/Jsonrs</id>
+    <link href="https://github.com/benhaney/Jsonrs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust powered JSON library for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
