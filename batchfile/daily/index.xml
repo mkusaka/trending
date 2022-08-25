@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:32:43Z</updated>
+  <updated>2022-08-25T01:32:01Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Djemchik/AkatsukiRDP</title>
-    <updated>2022-08-24T01:32:43Z</updated>
-    <id>tag:github.com,2022-08-24:/Djemchik/AkatsukiRDP</id>
-    <link href="https://github.com/Djemchik/AkatsukiRDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yesyeahvh123/VPS-FREE</title>
+    <updated>2022-08-25T01:32:01Z</updated>
+    <id>tag:github.com,2022-08-25:/yesyeahvh123/VPS-FREE</id>
+    <link href="https://github.com/yesyeahvh123/VPS-FREE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FREE VPS SCOURCE, TIME : 30 DAY!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DappaUhuy/FreeRDP</title>
-    <updated>2022-08-24T01:32:43Z</updated>
-    <id>tag:github.com,2022-08-24:/DappaUhuy/FreeRDP</id>
-    <link href="https://github.com/DappaUhuy/FreeRDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AveYo/fox</title>
+    <updated>2022-08-25T01:32:01Z</updated>
+    <id>tag:github.com,2022-08-25:/AveYo/fox</id>
+    <link href="https://github.com/AveYo/fox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Firefox stuff&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kazu0617/vrmtoglb_autoconvert</title>
+    <updated>2022-08-25T01:32:01Z</updated>
+    <id>tag:github.com,2022-08-25:/kazu0617/vrmtoglb_autoconvert</id>
+    <link href="https://github.com/kazu0617/vrmtoglb_autoconvert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VRMをNeos対応っぽく自動で変換できるやつです。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:35:50Z</updated>
+  <updated>2022-08-25T01:35:01Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kubeclipper-labs/kubectl</title>
-    <updated>2022-08-24T01:35:50Z</updated>
-    <id>tag:github.com,2022-08-24:/kubeclipper-labs/kubectl</id>
-    <link href="https://github.com/kubeclipper-labs/kubectl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;kubectl tools docker image used in kubeclipper for kubectl console feature&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;kubectl&lt;/h1&gt; &#xA;&lt;p&gt;kubectl tools docker image used in kubeclipper for kubectl console feature.&lt;/p&gt;</summary>
-  </entry>
 </feed>

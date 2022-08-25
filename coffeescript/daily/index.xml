@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:34:38Z</updated>
+  <updated>2022-08-25T01:33:49Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alanzoppa/gburg</title>
-    <updated>2022-08-24T01:34:38Z</updated>
-    <id>tag:github.com,2022-08-24:/alanzoppa/gburg</id>
-    <link href="https://github.com/alanzoppa/gburg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple recursive line cutter for a coding workshop with Robert Martin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cakecatz/garage</title>
+    <updated>2022-08-25T01:33:49Z</updated>
+    <id>tag:github.com,2022-08-25:/cakecatz/garage</id>
+    <link href="https://github.com/cakecatz/garage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage VirtualMachine from browser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>michaelficarra/url-shortener</title>
+    <updated>2022-08-25T01:33:49Z</updated>
+    <id>tag:github.com,2022-08-25:/michaelficarra/url-shortener</id>
+    <link href="https://github.com/michaelficarra/url-shortener" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔗 a toy application for databases class&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

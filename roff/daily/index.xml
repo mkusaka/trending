@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:47:04Z</updated>
+  <updated>2022-08-25T01:45:57Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PabloJMoreno/mbli_powerbi_r_python</title>
+    <updated>2022-08-25T01:45:57Z</updated>
+    <id>tag:github.com,2022-08-25:/PabloJMoreno/mbli_powerbi_r_python</id>
+    <link href="https://github.com/PabloJMoreno/mbli_powerbi_r_python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Machine Learning en Power BI con R y Python&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dinosaure/esperanto</title>
+    <updated>2022-08-25T01:45:57Z</updated>
+    <id>tag:github.com,2022-08-25:/dinosaure/esperanto</id>
+    <link href="https://github.com/dinosaure/esperanto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;build-once run-anywhere OCaml programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>slavistan/lf-gadgets</title>
+    <updated>2022-08-25T01:45:57Z</updated>
+    <id>tag:github.com,2022-08-25:/slavistan/lf-gadgets</id>
+    <link href="https://github.com/slavistan/lf-gadgets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of useful and nifty use cases and configurations for lf.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

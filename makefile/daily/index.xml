@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:42:11Z</updated>
+  <updated>2022-08-25T01:41:06Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sasansafari/techblog</title>
-    <updated>2022-08-24T01:42:11Z</updated>
-    <id>tag:github.com,2022-08-24:/sasansafari/techblog</id>
-    <link href="https://github.com/sasansafari/techblog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;techblog&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gnu-enjoyer/ActuallyPortableNim</title>
+    <updated>2022-08-25T01:41:06Z</updated>
+    <id>tag:github.com,2022-08-25:/gnu-enjoyer/ActuallyPortableNim</id>
+    <link href="https://github.com/gnu-enjoyer/ActuallyPortableNim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Turns Nim into a build once run anywhere language.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hww3/pike_modules-public_xapian</title>
-    <updated>2022-08-24T01:42:11Z</updated>
-    <id>tag:github.com,2022-08-24:/hww3/pike_modules-public_xapian</id>
-    <link href="https://github.com/hww3/pike_modules-public_xapian" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;None&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kubeclipper-labs/test-infra</title>
-    <updated>2022-08-24T01:42:11Z</updated>
-    <id>tag:github.com,2022-08-24:/kubeclipper-labs/test-infra</id>
-    <link href="https://github.com/kubeclipper-labs/test-infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools and configuration files for the testing and automation needs for Kubeclipper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brash99/Cpsc256</title>
+    <updated>2022-08-25T01:41:06Z</updated>
+    <id>tag:github.com,2022-08-25:/brash99/Cpsc256</id>
+    <link href="https://github.com/brash99/Cpsc256" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CPSC 256 at Christopher Newport University&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:45:10Z</updated>
+  <updated>2022-08-25T01:44:06Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mr-r3b00t/parse_win_log</title>
-    <updated>2022-08-24T01:45:10Z</updated>
-    <id>tag:github.com,2022-08-24:/mr-r3b00t/parse_win_log</id>
-    <link href="https://github.com/mr-r3b00t/parse_win_log" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;parse_win_log&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>nobitaPT/Windows-CRD</title>
-    <updated>2022-08-24T01:45:10Z</updated>
-    <id>tag:github.com,2022-08-24:/nobitaPT/Windows-CRD</id>
-    <link href="https://github.com/nobitaPT/Windows-CRD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Windows-CRD&lt;/h1&gt; &#xA;&lt;h3&gt;How to use&lt;/h3&gt; &#xA;&lt;p&gt;Just Fork this Repository, Go to Actions tab, Select the &lt;em&gt;Windows-CRD&lt;/em&gt; workflow. Then select &lt;strong&gt;Run Workflow&lt;/strong&gt; fill the following data in CRD Code and your Pin in the fields. After that, Press Start.&lt;/p&gt; &#xA;&lt;p&gt;Input the following code in the fields.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Get the &lt;strong&gt;Windows (Powershell)&lt;/strong&gt; command from here:&lt;/p&gt; &lt;p&gt;&lt;a href=&#34;https://remotedesktop.google.com/headless&#34;&gt;https://remotedesktop.google.com/headless&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Enter you Six digit Pin code to Login&lt;/p&gt; &lt;p&gt;(&lt;em&gt;Any Six digit Pin&lt;/em&gt;)&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;strong&gt;Thats it...&lt;/strong&gt; After 2-3 min of Initialize, Check your CRD Application or Account.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;p&gt;Initial Bringup and Improvements by Team &lt;a href=&#34;https://github.com/Area69Lab&#34;&gt;Area69Lab&lt;/a&gt; and &lt;a href=&#34;https://t.me/Alone215&#34;&gt;Alone&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

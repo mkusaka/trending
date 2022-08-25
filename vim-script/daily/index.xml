@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:50:58Z</updated>
+  <updated>2022-08-25T01:49:36Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vim-test/vim-test</title>
-    <updated>2022-08-24T01:50:58Z</updated>
-    <id>tag:github.com,2022-08-24:/vim-test/vim-test</id>
-    <link href="https://github.com/vim-test/vim-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run your tests at the speed of thought&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>minuteman3/vimfiles</title>
+    <updated>2022-08-25T01:49:36Z</updated>
+    <id>tag:github.com,2022-08-25:/minuteman3/vimfiles</id>
+    <link href="https://github.com/minuteman3/vimfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chr4/nginx.vim</title>
-    <updated>2022-08-24T01:50:58Z</updated>
-    <id>tag:github.com,2022-08-24:/chr4/nginx.vim</id>
-    <link href="https://github.com/chr4/nginx.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Improved nginx vim plugin (incl. syntax highlighting)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mracos/mermaid.vim</title>
+    <updated>2022-08-25T01:49:36Z</updated>
+    <id>tag:github.com,2022-08-25:/mracos/mermaid.vim</id>
+    <link href="https://github.com/mracos/mermaid.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support of mermaid files to vim/neovim - work in progress&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nvie/vim-flake8</title>
-    <updated>2022-08-24T01:50:58Z</updated>
-    <id>tag:github.com,2022-08-24:/nvie/vim-flake8</id>
-    <link href="https://github.com/nvie/vim-flake8" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flake8 plugin for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ekalinin/Dockerfile.vim</title>
+    <updated>2022-08-25T01:49:36Z</updated>
+    <id>tag:github.com,2022-08-25:/ekalinin/Dockerfile.vim</id>
+    <link href="https://github.com/ekalinin/Dockerfile.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim syntax file &amp; snippets for Docker&#39;s Dockerfile&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

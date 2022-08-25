@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:34:32Z</updated>
+  <updated>2022-08-25T01:33:36Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rads/bbin</title>
+    <updated>2022-08-25T01:33:36Z</updated>
+    <id>tag:github.com,2022-08-25:/rads/bbin</id>
+    <link href="https://github.com/rads/bbin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📦 Install any Babashka script or project with one command&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jandrewthompson/automata-clj</title>
+    <updated>2022-08-25T01:33:36Z</updated>
+    <id>tag:github.com,2022-08-25:/jandrewthompson/automata-clj</id>
+    <link href="https://github.com/jandrewthompson/automata-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a cellular automata in clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

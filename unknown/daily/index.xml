@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:30:46Z</updated>
+  <updated>2022-08-25T01:30:38Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OffcierCia/DeFi-Developer-Road-Map</title>
-    <updated>2022-08-24T01:30:46Z</updated>
-    <id>tag:github.com,2022-08-24:/OffcierCia/DeFi-Developer-Road-Map</id>
-    <link href="https://github.com/OffcierCia/DeFi-Developer-Road-Map" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stuhli/awesome-event-ids</title>
+    <updated>2022-08-25T01:30:38Z</updated>
+    <id>tag:github.com,2022-08-25:/stuhli/awesome-event-ids</id>
+    <link href="https://github.com/stuhli/awesome-event-ids" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of Event ID ressources useful for Digital Forensics and Incident Response&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sib-swiss/training-collection</title>
-    <updated>2022-08-24T01:30:46Z</updated>
-    <id>tag:github.com,2022-08-24:/sib-swiss/training-collection</id>
-    <link href="https://github.com/sib-swiss/training-collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of bioinformatics training materials&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arfrix/migration-roadmap</title>
+    <updated>2022-08-25T01:30:38Z</updated>
+    <id>tag:github.com,2022-08-25:/arfrix/migration-roadmap</id>
+    <link href="https://github.com/arfrix/migration-roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kelseyhightower/kubernetes-the-hard-way</title>
-    <updated>2022-08-24T01:30:46Z</updated>
-    <id>tag:github.com,2022-08-24:/kelseyhightower/kubernetes-the-hard-way</id>
-    <link href="https://github.com/kelseyhightower/kubernetes-the-hard-way" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codebasics/interview-help</title>
+    <updated>2022-08-25T01:30:38Z</updated>
+    <id>tag:github.com,2022-08-25:/codebasics/interview-help</id>
+    <link href="https://github.com/codebasics/interview-help" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Max Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:42:20Z</updated>
+  <updated>2022-08-25T01:41:13Z</updated>
   <subtitle>Daily Trending of Max in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sdretu/Shruthi-1-Editor</title>
+    <updated>2022-08-25T01:41:13Z</updated>
+    <id>tag:github.com,2022-08-25:/sdretu/Shruthi-1-Editor</id>
+    <link href="https://github.com/sdretu/Shruthi-1-Editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Max based MIDI editor for Mutable Instruments Shruthi-1 synthesizer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

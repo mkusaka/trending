@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:51:05Z</updated>
+  <updated>2022-08-25T01:49:43Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>balajidharma/laravel-vue-admin-panel</title>
+    <updated>2022-08-25T01:49:43Z</updated>
+    <id>tag:github.com,2022-08-25:/balajidharma/laravel-vue-admin-panel</id>
+    <link href="https://github.com/balajidharma/laravel-vue-admin-panel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel Vue Admin panel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZiuChen/ClipboardManager</title>
+    <updated>2022-08-25T01:49:43Z</updated>
+    <id>tag:github.com,2022-08-25:/ZiuChen/ClipboardManager</id>
+    <link href="https://github.com/ZiuChen/ClipboardManager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;强大的剪贴板管理工具&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

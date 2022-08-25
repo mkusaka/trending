@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-24T01:32:27Z</updated>
+  <updated>2022-08-25T01:31:46Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uliegeCSS/cloud_css</title>
-    <updated>2022-08-24T01:32:27Z</updated>
-    <id>tag:github.com,2022-08-24:/uliegeCSS/cloud_css</id>
-    <link href="https://github.com/uliegeCSS/cloud_css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aide pour les étudiants en sciences informatique de l&#39;université de l&#39;Uliege.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ironsource-mobile/Mediation-Demo-Apps</title>
+    <updated>2022-08-25T01:31:46Z</updated>
+    <id>tag:github.com,2022-08-25:/ironsource-mobile/Mediation-Demo-Apps</id>
+    <link href="https://github.com/ironsource-mobile/Mediation-Demo-Apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IronSource Mediation Demo Apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>virtualagc/virtualagc</title>
+    <updated>2022-08-25T01:31:46Z</updated>
+    <id>tag:github.com,2022-08-25:/virtualagc/virtualagc</id>
+    <link href="https://github.com/virtualagc/virtualagc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Virtual Apollo Guidance Computer (AGC) software&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mas0nShi/ownsha2</title>
+    <updated>2022-08-25T01:31:46Z</updated>
+    <id>tag:github.com,2022-08-25:/Mas0nShi/ownsha2</id>
+    <link href="https://github.com/Mas0nShi/ownsha2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;minimum ELF64 program to calculate its own SHA256.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
