@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:46:41Z</updated>
+  <updated>2022-08-26T01:46:28Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RayeRen/rayeren.github.io</title>
-    <updated>2022-08-25T01:46:41Z</updated>
-    <id>tag:github.com,2022-08-25:/RayeRen/rayeren.github.io</id>
-    <link href="https://github.com/RayeRen/rayeren.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal homepage&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wanghenshui/cppweeklynews</title>
+    <updated>2022-08-26T01:46:28Z</updated>
+    <id>tag:github.com,2022-08-26:/wanghenshui/cppweeklynews</id>
+    <link href="https://github.com/wanghenshui/cppweeklynews" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;c++中文周刊&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vaibhavvikas/jekyll-theme-minimalistic</title>
-    <updated>2022-08-25T01:46:41Z</updated>
-    <id>tag:github.com,2022-08-25:/vaibhavvikas/jekyll-theme-minimalistic</id>
-    <link href="https://github.com/vaibhavvikas/jekyll-theme-minimalistic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimal responsive Jekyll theme with navigation in the sidebar and many more amazing features.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FromEndWorld/LOFFER</title>
+    <updated>2022-08-26T01:46:28Z</updated>
+    <id>tag:github.com,2022-08-26:/FromEndWorld/LOFFER</id>
+    <link href="https://github.com/FromEndWorld/LOFFER" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;博客主题 A Jekyll theme with Chinese UI and document&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:43:17Z</updated>
+  <updated>2022-08-26T01:43:23Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>benibela/xidel</title>
-    <updated>2022-08-25T01:43:17Z</updated>
-    <id>tag:github.com,2022-08-25:/benibela/xidel</id>
-    <link href="https://github.com/benibela/xidel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Command line tool to download and extract data from HTML/XML pages or JSON-APIs, using CSS, XPath 3.0, XQuery 3.0, JSONiq or pattern matching. It can also create new or transformed XML/HTML/JSON documents.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Project-NX/2MASX</title>
+    <updated>2022-08-26T01:43:23Z</updated>
+    <id>tag:github.com,2022-08-26:/Project-NX/2MASX</id>
+    <link href="https://github.com/Project-NX/2MASX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERP PILOT PROJECT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

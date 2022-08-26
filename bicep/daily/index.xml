@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:32:05Z</updated>
+  <updated>2022-08-26T01:32:17Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jrzyshr/AzureMonitoringRefresh</title>
+    <updated>2022-08-26T01:32:17Z</updated>
+    <id>tag:github.com,2022-08-26:/jrzyshr/AzureMonitoringRefresh</id>
+    <link href="https://github.com/jrzyshr/AzureMonitoringRefresh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A temporary repo to host the contents of the Azure Monitoring What The Hack contents as it is being refreshed.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

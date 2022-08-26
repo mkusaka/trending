@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:47:27Z</updated>
+  <updated>2022-08-26T01:47:13Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2022-08-nounsdao</title>
-    <updated>2022-08-25T01:47:27Z</updated>
-    <id>tag:github.com,2022-08-25:/code-423n4/2022-08-nounsdao</id>
-    <link href="https://github.com/code-423n4/2022-08-nounsdao" rel="alternate"></link>
+    <title>andrew3009/0xmonaco</title>
+    <updated>2022-08-26T01:47:13Z</updated>
+    <id>tag:github.com,2022-08-26:/andrew3009/0xmonaco</id>
+    <link href="https://github.com/andrew3009/0xmonaco" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>saucepoint/0xMonaco</title>
-    <updated>2022-08-25T01:47:27Z</updated>
-    <id>tag:github.com,2022-08-25:/saucepoint/0xMonaco</id>
-    <link href="https://github.com/saucepoint/0xMonaco" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The dream baby!!!!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unhackedctf/reaper</title>
+    <updated>2022-08-26T01:47:13Z</updated>
+    <id>tag:github.com,2022-08-26:/unhackedctf/reaper</id>
+    <link href="https://github.com/unhackedctf/reaper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>marktoda/paradigm-ctf</title>
-    <updated>2022-08-25T01:47:27Z</updated>
-    <id>tag:github.com,2022-08-25:/marktoda/paradigm-ctf</id>
-    <link href="https://github.com/marktoda/paradigm-ctf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My notes and code from the Paradigm CTF&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>goncaloMagalhaes/erc20-low-level</title>
+    <updated>2022-08-26T01:47:13Z</updated>
+    <id>tag:github.com,2022-08-26:/goncaloMagalhaes/erc20-low-level</id>
+    <link href="https://github.com/goncaloMagalhaes/erc20-low-level" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERC20 contracts programmed only with low level syntax (inline assembly, pure Yul, ...)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

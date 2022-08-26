@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:41:52Z</updated>
+  <updated>2022-08-26T01:41:58Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RocketChat/helm-charts</title>
-    <updated>2022-08-25T01:41:52Z</updated>
-    <id>tag:github.com,2022-08-25:/RocketChat/helm-charts</id>
-    <link href="https://github.com/RocketChat/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for RocketChat helm charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ExpediaGroup/openworld-sdk-java-generators</title>
-    <updated>2022-08-25T01:41:52Z</updated>
-    <id>tag:github.com,2022-08-25:/ExpediaGroup/openworld-sdk-java-generators</id>
-    <link href="https://github.com/ExpediaGroup/openworld-sdk-java-generators" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SpotOnInc/helmcharts</title>
+    <updated>2022-08-26T01:41:58Z</updated>
+    <id>tag:github.com,2022-08-26:/SpotOnInc/helmcharts</id>
+    <link href="https://github.com/SpotOnInc/helmcharts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spoton forked helm charts repository.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

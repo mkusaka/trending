@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:46:07Z</updated>
+  <updated>2022-08-26T01:45:54Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WithSecureLabs/chainsaw</title>
-    <updated>2022-08-25T01:46:07Z</updated>
-    <id>tag:github.com,2022-08-25:/WithSecureLabs/chainsaw</id>
-    <link href="https://github.com/WithSecureLabs/chainsaw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rapidly Search and Hunt through Windows Event Logs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fadeevab/design-patterns-rust</title>
+    <updated>2022-08-26T01:45:54Z</updated>
+    <id>tag:github.com,2022-08-26:/fadeevab/design-patterns-rust</id>
+    <link href="https://github.com/fadeevab/design-patterns-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust examples for all 23 classic GoF design patterns, and even a little more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LemmyNet/lemmy</title>
-    <updated>2022-08-25T01:46:07Z</updated>
-    <id>tag:github.com,2022-08-25:/LemmyNet/lemmy</id>
-    <link href="https://github.com/LemmyNet/lemmy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐀 Building a federated link aggregator in rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>daac-tools/vibrato</title>
+    <updated>2022-08-26T01:45:54Z</updated>
+    <id>tag:github.com,2022-08-26:/daac-tools/vibrato</id>
+    <link href="https://github.com/daac-tools/vibrato" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎤 vibrato: Viterbi-based accelerated tokenizer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Byron/gitoxide</title>
-    <updated>2022-08-25T01:46:07Z</updated>
-    <id>tag:github.com,2022-08-25:/Byron/gitoxide</id>
-    <link href="https://github.com/Byron/gitoxide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An idiomatic, lean, fast &amp; safe pure Rust implementation of Git&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dandavison/delta</title>
+    <updated>2022-08-26T01:45:54Z</updated>
+    <id>tag:github.com,2022-08-26:/dandavison/delta</id>
+    <link href="https://github.com/dandavison/delta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A syntax-highlighting pager for git, diff, and grep output&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

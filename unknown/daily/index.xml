@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:30:38Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-08-26T01:30:48Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stuhli/awesome-event-ids</title>
-    <updated>2022-08-25T01:30:38Z</updated>
-    <id>tag:github.com,2022-08-25:/stuhli/awesome-event-ids</id>
-    <link href="https://github.com/stuhli/awesome-event-ids" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of Event ID ressources useful for Digital Forensics and Incident Response&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Maks-s/sd-akashic</title>
+    <updated>2022-08-26T01:30:48Z</updated>
+    <id>tag:github.com,2022-08-26:/Maks-s/sd-akashic</id>
+    <link href="https://github.com/Maks-s/sd-akashic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A compendium of informations regarding Stable Diffusion (SD)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>arfrix/migration-roadmap</title>
-    <updated>2022-08-25T01:30:38Z</updated>
-    <id>tag:github.com,2022-08-25:/arfrix/migration-roadmap</id>
-    <link href="https://github.com/arfrix/migration-roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shmup/awesome-cosmopolitan</title>
+    <updated>2022-08-26T01:30:48Z</updated>
+    <id>tag:github.com,2022-08-26:/shmup/awesome-cosmopolitan</id>
+    <link href="https://github.com/shmup/awesome-cosmopolitan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Cosmopolitan Libc related resources and projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codebasics/interview-help</title>
-    <updated>2022-08-25T01:30:38Z</updated>
-    <id>tag:github.com,2022-08-25:/codebasics/interview-help</id>
-    <link href="https://github.com/codebasics/interview-help" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DovAmir/awesome-design-patterns</title>
+    <updated>2022-08-26T01:30:48Z</updated>
+    <id>tag:github.com,2022-08-26:/DovAmir/awesome-design-patterns</id>
+    <link href="https://github.com/DovAmir/awesome-design-patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of software and architecture related design patterns.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

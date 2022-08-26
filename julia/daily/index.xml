@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:39:43Z</updated>
+  <updated>2022-08-26T01:39:53Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>assipt/intro-to-computational-thinking</title>
-    <updated>2022-08-25T01:39:43Z</updated>
-    <id>tag:github.com,2022-08-25:/assipt/intro-to-computational-thinking</id>
-    <link href="https://github.com/assipt/intro-to-computational-thinking" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório para o curso Introduction to Computational Thinking no IPT&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaPluto/PlutoTeachingTools.jl</title>
-    <updated>2022-08-25T01:39:43Z</updated>
-    <id>tag:github.com,2022-08-25:/JuliaPluto/PlutoTeachingTools.jl</id>
-    <link href="https://github.com/JuliaPluto/PlutoTeachingTools.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functions useful when using Pluto in teaching.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>avik-pal/SimpleConfig.jl</title>
+    <updated>2022-08-26T01:39:53Z</updated>
+    <id>tag:github.com,2022-08-26:/avik-pal/SimpleConfig.jl</id>
+    <link href="https://github.com/avik-pal/SimpleConfig.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple way to specify experiment configurations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

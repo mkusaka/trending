@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:34:25Z</updated>
+  <updated>2022-08-26T01:34:30Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>D-Programming-Deimos/Nanopb</title>
-    <updated>2022-08-25T01:34:25Z</updated>
-    <id>tag:github.com,2022-08-25:/D-Programming-Deimos/Nanopb</id>
-    <link href="https://github.com/D-Programming-Deimos/Nanopb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nanopb - protocol buffers with small code size - http://koti.kapsi.fi/jpa/nanopb/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

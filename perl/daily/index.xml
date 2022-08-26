@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:43:34Z</updated>
+  <updated>2022-08-26T01:43:39Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bugzilla/bugzilla</title>
+    <updated>2022-08-26T01:43:39Z</updated>
+    <id>tag:github.com,2022-08-26:/bugzilla/bugzilla</id>
+    <link href="https://github.com/bugzilla/bugzilla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repository for the Bugzilla bug tracking system. Report bugs to https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&amp;format=__default__ . Main website:&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bugzilla&lt;/h1&gt; &#xA;&lt;p&gt;Bugzilla is free and open source web-based bug-tracking software that is developed by an active group of volunteers in the Mozilla community, and used by thousands of projects and companies around the world. It can be installed on Linux and other flavors of Unix, Windows or Mac OS X.&lt;/p&gt; &#xA;&lt;h1&gt;Documentation&lt;/h1&gt; &#xA;&lt;p&gt;Bugzilla&#39;s comprehensive documentation, including installation instructions, can be found here: &lt;a href=&#34;http://www.bugzilla.org/docs/&#34;&gt;http://www.bugzilla.org/docs/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Reporting Bugs&lt;/h1&gt; &#xA;&lt;p&gt;Report bugs here: &lt;a href=&#34;https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&#34;&gt;https://bugzilla.mozilla.org/enter_bug.cgi?product=Bugzilla&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;(Please do not file test bugs in this installation of Bugzilla.)&lt;/p&gt; &#xA;&lt;h1&gt;Mailing Lists&lt;/h1&gt; &#xA;&lt;p&gt;Development: &lt;a href=&#34;https://www.mozilla.org/en-US/about/forums/#dev-apps-bugzilla&#34;&gt;https://www.mozilla.org/en-US/about/forums/#dev-apps-bugzilla&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Support: &lt;a href=&#34;https://www.mozilla.org/en-US/about/forums/#support-bugzilla&#34;&gt;https://www.mozilla.org/en-US/about/forums/#support-bugzilla&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;IRC&lt;/h1&gt; &#xA;&lt;p&gt;You can often find Bugzilla developers on IRC: irc://irc.mozilla.org/bugzilla&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at &lt;a href=&#34;http://mozilla.org/MPL/2.0/&#34;&gt;http://mozilla.org/MPL/2.0/&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This Source Code Form is &#34;Incompatible With Secondary Licenses&#34;, as defined by the Mozilla Public License, v. 2.0.&lt;/p&gt; &#xA;&lt;p&gt;However, this is all only relevant to you if you want to modify the code and redistribute it. As with all open source software, there are no restrictions on running it, or on modifying it for your own purposes.&lt;/p&gt;</summary>
+  </entry>
 </feed>

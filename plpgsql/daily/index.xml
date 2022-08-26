@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:43:55Z</updated>
+  <updated>2022-08-26T01:43:58Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>duneanalytics/spellbook</title>
-    <updated>2022-08-25T01:43:55Z</updated>
-    <id>tag:github.com,2022-08-25:/duneanalytics/spellbook</id>
-    <link href="https://github.com/duneanalytics/spellbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SQL views for Dune&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Codaisseur/tennis-client</title>
+    <updated>2022-08-26T01:43:58Z</updated>
+    <id>tag:github.com,2022-08-26:/Codaisseur/tennis-client</id>
+    <link href="https://github.com/Codaisseur/tennis-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GraphQL Workshop Tennis Score react app&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

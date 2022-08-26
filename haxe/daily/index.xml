@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-25T01:37:26Z</updated>
+  <updated>2022-08-26T01:37:32Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KadeDev/trickster</title>
+    <updated>2022-08-26T01:37:32Z</updated>
+    <id>tag:github.com,2022-08-26:/KadeDev/trickster</id>
+    <link href="https://github.com/KadeDev/trickster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;trickin&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Vs. Tricky (trickster, what ever)&lt;/h1&gt; &#xA;&lt;p&gt;ok ok so heres the build instructions.&lt;/p&gt; &#xA;&lt;p&gt;first, default kade engine build obv. &lt;a href=&#34;https://kadedev.github.io/Kade-Engine/building&#34;&gt;here if you don&#39;t know&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;next, we gotta do some video shit or what ever.&lt;/p&gt; &#xA;&lt;p&gt;just do these things in the cmd window:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;haxelib install actuate&#xA;haxelib git extension-webm https://github.com/KadeDev/extension-webm&#xA;lime rebuild extension-webm windows&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;you can change windows to mac or linux&lt;/p&gt; &#xA;&lt;p&gt;alright you got everything you need to build now.&lt;/p&gt; &#xA;&lt;p&gt;just do like&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;lime test windows -release&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;or what ever platform, be it linux or mac or smth lol!&lt;/p&gt; &#xA;&lt;p&gt;btw special thanks to &lt;a href=&#34;https://github.com/GrowtopiaFli&#34;&gt;GWebDev&lt;/a&gt; for obviously video support, chad man.&lt;/p&gt;</summary>
+  </entry>
 </feed>
