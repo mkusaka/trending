@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:41:15Z</updated>
+  <updated>2022-08-27T01:40:31Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>disnake-ru/guide</title>
-    <updated>2022-08-26T01:41:15Z</updated>
-    <id>tag:github.com,2022-08-26:/disnake-ru/guide</id>
-    <link href="https://github.com/disnake-ru/guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Руководство по использованию disnake.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

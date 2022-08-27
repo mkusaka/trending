@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:39:53Z</updated>
+  <updated>2022-08-27T01:39:07Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>avik-pal/SimpleConfig.jl</title>
-    <updated>2022-08-26T01:39:53Z</updated>
-    <id>tag:github.com,2022-08-26:/avik-pal/SimpleConfig.jl</id>
-    <link href="https://github.com/avik-pal/SimpleConfig.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple way to specify experiment configurations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/CalibrateEDMF.jl</title>
+    <updated>2022-08-27T01:39:07Z</updated>
+    <id>tag:github.com,2022-08-27:/CliMA/CalibrateEDMF.jl</id>
+    <link href="https://github.com/CliMA/CalibrateEDMF.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A package to calibrate atmospheric turbulence and convection parameterizations using gradient-free ensemble Kalman methods&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:42:21Z</updated>
+  <updated>2022-08-27T01:41:34Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>guibou/nixGL</title>
-    <updated>2022-08-26T01:42:21Z</updated>
-    <id>tag:github.com,2022-08-26:/guibou/nixGL</id>
-    <link href="https://github.com/guibou/nixGL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A wrapper tool for nix OpenGL application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>input-output-hk/cardano-graphql</title>
-    <updated>2022-08-26T01:42:21Z</updated>
-    <id>tag:github.com,2022-08-26:/input-output-hk/cardano-graphql</id>
-    <link href="https://github.com/input-output-hk/cardano-graphql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GraphQL API for Cardano&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>w3f/polkadot-spec</title>
-    <updated>2022-08-26T01:42:21Z</updated>
-    <id>tag:github.com,2022-08-26:/w3f/polkadot-spec</id>
-    <link href="https://github.com/w3f/polkadot-spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Polkadot Protocol Specification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nix-community/disko</title>
+    <updated>2022-08-27T01:41:34Z</updated>
+    <id>tag:github.com,2022-08-27:/nix-community/disko</id>
+    <link href="https://github.com/nix-community/disko" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Format disks with nix-config [maintainer=@Lassulus]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

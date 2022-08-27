@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:41:08Z</updated>
+  <updated>2022-08-27T01:40:25Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>giantswarm/goldilocks-app</title>
-    <updated>2022-08-26T01:41:08Z</updated>
-    <id>tag:github.com,2022-08-26:/giantswarm/goldilocks-app</id>
-    <link href="https://github.com/giantswarm/goldilocks-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cs61/cs61-f22-psets</title>
+    <updated>2022-08-27T01:40:25Z</updated>
+    <id>tag:github.com,2022-08-27:/cs61/cs61-f22-psets</id>
+    <link href="https://github.com/cs61/cs61-f22-psets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CS 61 problem sets for 2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Noboilerplate/code</title>
+    <updated>2022-08-27T01:40:25Z</updated>
+    <id>tag:github.com,2022-08-27:/Noboilerplate/code</id>
+    <link href="https://github.com/Noboilerplate/code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for my talks on the No Boilerplate channel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JacobLinCool/homework-space</title>
+    <updated>2022-08-27T01:40:25Z</updated>
+    <id>tag:github.com,2022-08-27:/JacobLinCool/homework-space</id>
+    <link href="https://github.com/JacobLinCool/homework-space" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homework Space Template.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

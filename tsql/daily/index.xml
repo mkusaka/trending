@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:48:31Z</updated>
+  <updated>2022-08-27T01:47:53Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gabriele-tomassetti/parsing-sql</title>
-    <updated>2022-08-26T01:48:31Z</updated>
-    <id>tag:github.com,2022-08-26:/gabriele-tomassetti/parsing-sql</id>
-    <link href="https://github.com/gabriele-tomassetti/parsing-sql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Companion repository of Parsing SQL, an article on tools and libraries to parse SQL and a how to build a SQL parser&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

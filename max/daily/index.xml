@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Max Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:41:18Z</updated>
+  <updated>2022-08-27T01:40:33Z</updated>
   <subtitle>Daily Trending of Max in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ossia/libossia</title>
-    <updated>2022-08-26T01:41:18Z</updated>
-    <id>tag:github.com,2022-08-26:/ossia/libossia</id>
-    <link href="https://github.com/ossia/libossia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern C++, cross-environment distributed object model for creative coding and interaction scoring&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:49:14Z</updated>
+  <updated>2022-08-27T01:48:34Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>daikeshi/sys-config</title>
-    <updated>2022-08-26T01:49:14Z</updated>
-    <id>tag:github.com,2022-08-26:/daikeshi/sys-config</id>
-    <link href="https://github.com/daikeshi/sys-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dkarter/bullets.vim</title>
+    <updated>2022-08-27T01:48:34Z</updated>
+    <id>tag:github.com,2022-08-27:/dkarter/bullets.vim</id>
+    <link href="https://github.com/dkarter/bullets.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thoughtbot/vim-rspec</title>
-    <updated>2022-08-26T01:49:14Z</updated>
-    <id>tag:github.com,2022-08-26:/thoughtbot/vim-rspec</id>
-    <link href="https://github.com/thoughtbot/vim-rspec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run Rspec specs from Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MarcWeber/vim-addon-mw-utils</title>
+    <updated>2022-08-27T01:48:34Z</updated>
+    <id>tag:github.com,2022-08-27:/MarcWeber/vim-addon-mw-utils</id>
+    <link href="https://github.com/MarcWeber/vim-addon-mw-utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim: interpret a file by function and cache file automatically&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>google/vim-jsonnet</title>
-    <updated>2022-08-26T01:49:14Z</updated>
-    <id>tag:github.com,2022-08-26:/google/vim-jsonnet</id>
-    <link href="https://github.com/google/vim-jsonnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jsonnet filetype plugin for Vim.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wsdjeg/vim-fetch</title>
+    <updated>2022-08-27T01:48:34Z</updated>
+    <id>tag:github.com,2022-08-27:/wsdjeg/vim-fetch</id>
+    <link href="https://github.com/wsdjeg/vim-fetch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make Vim handle line and column numbers in file names with a minimum of fuss&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

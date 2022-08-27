@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:49:21Z</updated>
+  <updated>2022-08-27T01:48:41Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sahadev/vue-component-creater-ui</title>
-    <updated>2022-08-26T01:49:21Z</updated>
-    <id>tag:github.com,2022-08-26:/sahadev/vue-component-creater-ui</id>
-    <link href="https://github.com/sahadev/vue-component-creater-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;拖拽式Vue组件代码生成编辑器（VCC）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dullage/flatnotes</title>
-    <updated>2022-08-26T01:49:21Z</updated>
-    <id>tag:github.com,2022-08-26:/Dullage/flatnotes</id>
-    <link href="https://github.com/Dullage/flatnotes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A database-less note taking web app that utilises a flat folder of markdown files for storage.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FriendsInGlobalHealth/SIFMOZ-Frontend</title>
-    <updated>2022-08-26T01:49:21Z</updated>
-    <id>tag:github.com,2022-08-26:/FriendsInGlobalHealth/SIFMOZ-Frontend</id>
-    <link href="https://github.com/FriendsInGlobalHealth/SIFMOZ-Frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-source-labs/OverVue</title>
+    <updated>2022-08-27T01:48:41Z</updated>
+    <id>tag:github.com,2022-08-27:/open-source-labs/OverVue</id>
+    <link href="https://github.com/open-source-labs/OverVue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prototyping Tool For Vue Devs 适用于Vue的原型工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

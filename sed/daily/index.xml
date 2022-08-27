@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub sed Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:46:31Z</updated>
+  <updated>2022-08-27T01:45:47Z</updated>
   <subtitle>Daily Trending of sed in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mikkun/sedmines</title>
-    <updated>2022-08-26T01:46:31Z</updated>
-    <id>tag:github.com,2022-08-26:/mikkun/sedmines</id>
-    <link href="https://github.com/mikkun/sedmines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minesweeper game written in GNU sed&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

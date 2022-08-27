@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:46:28Z</updated>
+  <updated>2022-08-27T01:45:46Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wanghenshui/cppweeklynews</title>
-    <updated>2022-08-26T01:46:28Z</updated>
-    <id>tag:github.com,2022-08-26:/wanghenshui/cppweeklynews</id>
-    <link href="https://github.com/wanghenshui/cppweeklynews" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;c++中文周刊&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lmoraesdev/react-studies</title>
+    <updated>2022-08-27T01:45:46Z</updated>
+    <id>tag:github.com,2022-08-27:/lmoraesdev/react-studies</id>
+    <link href="https://github.com/lmoraesdev/react-studies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FromEndWorld/LOFFER</title>
-    <updated>2022-08-26T01:46:28Z</updated>
-    <id>tag:github.com,2022-08-26:/FromEndWorld/LOFFER</id>
-    <link href="https://github.com/FromEndWorld/LOFFER" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;博客主题 A Jekyll theme with Chinese UI and document&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AnilSeervi/DevFolio</title>
+    <updated>2022-08-27T01:45:46Z</updated>
+    <id>tag:github.com,2022-08-27:/AnilSeervi/DevFolio</id>
+    <link href="https://github.com/AnilSeervi/DevFolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Modern Portfolio Template for Developers with easy setup process documented(with hosting).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sass/sass-spec</title>
+    <updated>2022-08-27T01:45:46Z</updated>
+    <id>tag:github.com,2022-08-27:/sass/sass-spec</id>
+    <link href="https://github.com/sass/sass-spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Sass Spec Suite&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

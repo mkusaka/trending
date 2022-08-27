@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:37:34Z</updated>
+  <updated>2022-08-27T01:37:07Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nguyentito/miniml</title>
-    <updated>2022-08-26T01:37:34Z</updated>
-    <id>tag:github.com,2022-08-26:/nguyentito/miniml</id>
-    <link href="https://github.com/nguyentito/miniml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implémentation d&#39;un petit langage fonctionnel en Haskell.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MiniML&lt;/h1&gt; &#xA;&lt;p&gt;Ceci est un projet d&#39;interprète du langage miniML utilisé dans les exemples du &lt;a href=&#34;http://www.lri.fr/%7Efilliatr/ens/compil/&#34;&gt;cours de compilation de Jean-Christophe Filliâtre à l&#39;ENS&lt;/a&gt;, lui-même inspiré du cours &#34;Programmation, sémantique, typage&#34; de Xavier Leroy. A terme, il devrait comporter un parseur, un typeur Hindley-Milner et un interprète, voire un compilateur...&lt;/p&gt; &#xA;&lt;p&gt;Note : le projet d&#39;implémenter la sémantique à petits pas avec un zipper a été abandonné car ça ne sert à rien.&lt;/p&gt;</summary>
+    <title>sugoi/sugoi-2012-11-12</title>
+    <updated>2022-08-27T01:37:07Z</updated>
+    <id>tag:github.com,2022-08-27:/sugoi/sugoi-2012-11-12</id>
+    <link href="https://github.com/sugoi/sugoi-2012-11-12" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scalable, Universal, Generic Optimization Infrastructure in Haskell&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

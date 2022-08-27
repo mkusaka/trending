@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-26T01:33:54Z</updated>
+  <updated>2022-08-27T01:33:28Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Axonify/muffin.io</title>
-    <updated>2022-08-26T01:33:54Z</updated>
-    <id>tag:github.com,2022-08-26:/Axonify/muffin.io</id>
-    <link href="https://github.com/Axonify/muffin.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zestjs/zestjs.org</title>
+    <updated>2022-08-27T01:33:28Z</updated>
+    <id>tag:github.com,2022-08-27:/zestjs/zestjs.org</id>
+    <link href="https://github.com/zestjs/zestjs.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zestjs.org website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
