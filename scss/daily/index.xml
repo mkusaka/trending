@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-27T01:45:46Z</updated>
+  <updated>2022-08-28T01:40:23Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lmoraesdev/react-studies</title>
-    <updated>2022-08-27T01:45:46Z</updated>
-    <id>tag:github.com,2022-08-27:/lmoraesdev/react-studies</id>
-    <link href="https://github.com/lmoraesdev/react-studies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kakawait/hugo-tranquilpeak-theme</title>
+    <updated>2022-08-28T01:40:23Z</updated>
+    <id>tag:github.com,2022-08-28:/kakawait/hugo-tranquilpeak-theme</id>
+    <link href="https://github.com/kakawait/hugo-tranquilpeak-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A gorgeous responsive theme for Hugo blog framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AnilSeervi/DevFolio</title>
-    <updated>2022-08-27T01:45:46Z</updated>
-    <id>tag:github.com,2022-08-27:/AnilSeervi/DevFolio</id>
-    <link href="https://github.com/AnilSeervi/DevFolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Modern Portfolio Template for Developers with easy setup process documented(with hosting).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TestingConferences/testingconferences.github.io</title>
+    <updated>2022-08-28T01:40:23Z</updated>
+    <id>tag:github.com,2022-08-28:/TestingConferences/testingconferences.github.io</id>
+    <link href="https://github.com/TestingConferences/testingconferences.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple list of Software Testing Conferences and Workshops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sass/sass-spec</title>
-    <updated>2022-08-27T01:45:46Z</updated>
-    <id>tag:github.com,2022-08-27:/sass/sass-spec</id>
-    <link href="https://github.com/sass/sass-spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Sass Spec Suite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Data-Liberation-Front/csvlint.io</title>
+    <updated>2022-08-28T01:40:23Z</updated>
+    <id>tag:github.com,2022-08-28:/Data-Liberation-Front/csvlint.io</id>
+    <link href="https://github.com/Data-Liberation-Front/csvlint.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check that your CSV files are valid&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

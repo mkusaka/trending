@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-27T01:41:30Z</updated>
+  <updated>2022-08-28T01:37:59Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>StefanSalewski/salewski-chess</title>
+    <updated>2022-08-28T01:37:59Z</updated>
+    <id>tag:github.com,2022-08-28:/StefanSalewski/salewski-chess</id>
+    <link href="https://github.com/StefanSalewski/salewski-chess" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Salewski Chess Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

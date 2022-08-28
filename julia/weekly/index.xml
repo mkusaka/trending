@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-28T01:47:11Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>comonicon/Comonicon.jl</title>
+    <updated>2022-08-28T01:47:11Z</updated>
+    <id>tag:github.com,2022-08-28:/comonicon/Comonicon.jl</id>
+    <link href="https://github.com/comonicon/Comonicon.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your best CLI generator in JuliaLang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaData/DataFrames.jl</title>
+    <updated>2022-08-28T01:47:11Z</updated>
+    <id>tag:github.com,2022-08-28:/JuliaData/DataFrames.jl</id>
+    <link href="https://github.com/JuliaData/DataFrames.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In-memory tabular data in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/DiffEqDocs.jl</title>
+    <updated>2022-08-28T01:47:11Z</updated>
+    <id>tag:github.com,2022-08-28:/SciML/DiffEqDocs.jl</id>
+    <link href="https://github.com/SciML/DiffEqDocs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for the DiffEq differential equations and scientific machine learning (SciML) ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

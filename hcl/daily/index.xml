@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-27T01:37:22Z</updated>
+  <updated>2022-08-28T01:36:15Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudposse/terraform-aws-elasticsearch</title>
+    <updated>2022-08-28T01:36:15Z</updated>
+    <id>tag:github.com,2022-08-28:/cloudposse/terraform-aws-elasticsearch</id>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticsearch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision an Elasticsearch cluster with built-in integrations with Kibana and Logstash.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-ecs-alb-service-task</title>
+    <updated>2022-08-28T01:36:15Z</updated>
+    <id>tag:github.com,2022-08-28:/cloudposse/terraform-aws-ecs-alb-service-task</id>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-alb-service-task" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which implements an ECS service which exposes a web service via ALB.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-route53-cluster-hostname</title>
+    <updated>2022-08-28T01:36:15Z</updated>
+    <id>tag:github.com,2022-08-28:/cloudposse/terraform-aws-route53-cluster-hostname</id>
+    <link href="https://github.com/cloudposse/terraform-aws-route53-cluster-hostname" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to define a consistent AWS Route53 hostname&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

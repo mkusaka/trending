@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-28T01:51:10Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>feenkcom/gt4smacc</title>
+    <updated>2022-08-28T01:51:10Z</updated>
+    <id>tag:github.com,2022-08-28:/feenkcom/gt4smacc</id>
+    <link href="https://github.com/feenkcom/gt4smacc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The development environment for SmaCC based on the Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit</title>
+    <updated>2022-08-28T01:51:10Z</updated>
+    <id>tag:github.com,2022-08-28:/feenkcom/gtoolkit</id>
+    <link href="https://github.com/feenkcom/gtoolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Glamorous Toolkit is a multilanguage notebook. A fancy code editor. A software analysis platform. A visualization engine. A knowledge management system. All programmable. All in one.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-constrainer</title>
+    <updated>2022-08-28T01:51:10Z</updated>
+    <id>tag:github.com,2022-08-28:/feenkcom/gtoolkit-constrainer</id>
+    <link href="https://github.com/feenkcom/gtoolkit-constrainer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apply constraints on Pharo object models and reveal rule breakers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

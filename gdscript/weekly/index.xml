@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-28T01:45:25Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HungryProton/scatter</title>
+    <updated>2022-08-28T01:45:25Z</updated>
+    <id>tag:github.com,2022-08-28:/HungryProton/scatter</id>
+    <link href="https://github.com/HungryProton/scatter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot engine addon to randomly fill an area with props or other scenes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alfredbaudisch/Godello</title>
+    <updated>2022-08-28T01:45:25Z</updated>
+    <id>tag:github.com,2022-08-28:/alfredbaudisch/Godello</id>
+    <link href="https://github.com/alfredbaudisch/Godello" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Trello inspired kanban board made with the Godot Engine and GDScript, powered by an online real-time collaborative backend (Elixir and Phoenix Channels)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

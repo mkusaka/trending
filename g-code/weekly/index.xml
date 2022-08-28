@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub G-code Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-28T01:45:23Z</updated>
+  <subtitle>Weekly Trending of G-code in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dotnet-presentations/dotNETConf</title>
+    <updated>2022-08-28T01:45:23Z</updated>
+    <id>tag:github.com,2022-08-28:/dotnet-presentations/dotNETConf</id>
+    <link href="https://github.com/dotnet-presentations/dotNETConf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creative and technical content for running a .NET Conf local event in your community&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

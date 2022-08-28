@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-27T01:30:30Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-08-28T01:33:06Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bittentech/Bug-Bounty-Beginner-Roadmap</title>
-    <updated>2022-08-27T01:30:30Z</updated>
-    <id>tag:github.com,2022-08-27:/bittentech/Bug-Bounty-Beginner-Roadmap</id>
-    <link href="https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>heroku/roadmap</title>
+    <updated>2022-08-28T01:33:06Z</updated>
+    <id>tag:github.com,2022-08-28:/heroku/roadmap</id>
+    <link href="https://github.com/heroku/roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the public roadmap for Salesforce Heroku services.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tv-player/TvBox</title>
-    <updated>2022-08-27T01:30:30Z</updated>
-    <id>tag:github.com,2022-08-27:/tv-player/TvBox</id>
-    <link href="https://github.com/tv-player/TvBox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TvBox 配置、maoTv配置&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ibraheemdev/modern-unix</title>
+    <updated>2022-08-28T01:33:06Z</updated>
+    <id>tag:github.com,2022-08-28:/ibraheemdev/modern-unix</id>
+    <link href="https://github.com/ibraheemdev/modern-unix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of modern/faster/saner alternatives to common unix commands.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>imthenachoman/How-To-Secure-A-Linux-Server</title>
-    <updated>2022-08-27T01:30:30Z</updated>
-    <id>tag:github.com,2022-08-27:/imthenachoman/How-To-Secure-A-Linux-Server</id>
-    <link href="https://github.com/imthenachoman/How-To-Secure-A-Linux-Server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An evolving how-to guide for securing a Linux server.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jivoi/awesome-ml-for-cybersecurity</title>
+    <updated>2022-08-28T01:33:06Z</updated>
+    <id>tag:github.com,2022-08-28:/jivoi/awesome-ml-for-cybersecurity</id>
+    <link href="https://github.com/jivoi/awesome-ml-for-cybersecurity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Machine Learning for Cyber Security&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

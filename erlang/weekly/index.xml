@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-28T01:45:17Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apatheticrabbit/wfpg_presentation</title>
+    <updated>2022-08-28T01:45:17Z</updated>
+    <id>tag:github.com,2022-08-28:/apatheticrabbit/wfpg_presentation</id>
+    <link href="https://github.com/apatheticrabbit/wfpg_presentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My presentation notes for the Introduction to Erlang at the Winnipeg Functional Programming Group&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>emqx/emqtt</title>
+    <updated>2022-08-28T01:45:17Z</updated>
+    <id>tag:github.com,2022-08-28:/emqx/emqtt</id>
+    <link href="https://github.com/emqx/emqtt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang MQTT 5.0 Client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>josefs/Gradualizer</title>
+    <updated>2022-08-28T01:45:17Z</updated>
+    <id>tag:github.com,2022-08-28:/josefs/Gradualizer</id>
+    <link href="https://github.com/josefs/Gradualizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Gradual type system for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blade Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-08-28T01:43:02Z</updated>
+  <subtitle>Weekly Trending of Blade in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>creativetimofficial/soft-ui-dashboard-laravel-livewire</title>
+    <updated>2022-08-28T01:43:02Z</updated>
+    <id>tag:github.com,2022-08-28:/creativetimofficial/soft-ui-dashboard-laravel-livewire</id>
+    <link href="https://github.com/creativetimofficial/soft-ui-dashboard-laravel-livewire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Soft UI Dashboard Laravel - Free full stack app with Laravel, Livewire &amp; Alpine.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

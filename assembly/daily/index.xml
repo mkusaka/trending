@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-27T01:31:21Z</updated>
+  <updated>2022-08-28T01:33:33Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>640-KB/GLaBIOS</title>
-    <updated>2022-08-27T01:31:21Z</updated>
-    <id>tag:github.com,2022-08-27:/640-KB/GLaBIOS</id>
-    <link href="https://github.com/640-KB/GLaBIOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern, scratch-built, open-source (GPLv3) alternative BIOS for PC, XT, 8088 Clone or Turbo PCs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jephthai/EvilVM</title>
+    <updated>2022-08-28T01:33:33Z</updated>
+    <id>tag:github.com,2022-08-28:/jephthai/EvilVM</id>
+    <link href="https://github.com/jephthai/EvilVM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EvilVM compiler for information security research tools.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

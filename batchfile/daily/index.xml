@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-27T01:31:37Z</updated>
+  <updated>2022-08-28T01:33:37Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mave14/VeronaCheat-Valorant</title>
-    <updated>2022-08-27T01:31:37Z</updated>
-    <id>tag:github.com,2022-08-27:/Mave14/VeronaCheat-Valorant</id>
-    <link href="https://github.com/Mave14/VeronaCheat-Valorant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Valorant undetected cheat (Wallhack, ESP, Aimbot and more!)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HarshalKudale/EasySideload-WSA</title>
+    <updated>2022-08-28T01:33:37Z</updated>
+    <id>tag:github.com,2022-08-28:/HarshalKudale/EasySideload-WSA</id>
+    <link href="https://github.com/HarshalKudale/EasySideload-WSA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Mave14/Crypto-Drainer-NFT-ETH</title>
-    <updated>2022-08-27T01:31:37Z</updated>
-    <id>tag:github.com,2022-08-27:/Mave14/Crypto-Drainer-NFT-ETH</id>
-    <link href="https://github.com/Mave14/Crypto-Drainer-NFT-ETH" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Crypto Drainer for NFT, ETH&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Mave14/Netflix-Pro-Account-Generator</title>
-    <updated>2022-08-27T01:31:37Z</updated>
-    <id>tag:github.com,2022-08-27:/Mave14/Netflix-Pro-Account-Generator</id>
-    <link href="https://github.com/Mave14/Netflix-Pro-Account-Generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Netflix Pro Account Generator / Nord VPN Account Generator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lstprjct/IDM-Activation-Script</title>
+    <updated>2022-08-28T01:33:37Z</updated>
+    <id>tag:github.com,2022-08-28:/lstprjct/IDM-Activation-Script</id>
+    <link href="https://github.com/lstprjct/IDM-Activation-Script" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IDM Activation &amp; Trail Reset Script&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

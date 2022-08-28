@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-27T01:33:28Z</updated>
+  <updated>2022-08-28T01:34:18Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zestjs/zestjs.org</title>
-    <updated>2022-08-27T01:33:28Z</updated>
-    <id>tag:github.com,2022-08-27:/zestjs/zestjs.org</id>
-    <link href="https://github.com/zestjs/zestjs.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zestjs.org website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mpneuried/frozen</title>
+    <updated>2022-08-28T01:34:18Z</updated>
+    <id>tag:github.com,2022-08-28:/mpneuried/frozen</id>
+    <link href="https://github.com/mpneuried/frozen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Frozen is a node AWS-Glacier client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
