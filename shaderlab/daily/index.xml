@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-28T01:40:24Z</updated>
+  <updated>2022-08-29T01:45:09Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kodai100/Unity_MultiPassRenderingOnURP</title>
-    <updated>2022-08-28T01:40:24Z</updated>
-    <id>tag:github.com,2022-08-28:/kodai100/Unity_MultiPassRenderingOnURP</id>
-    <link href="https://github.com/kodai100/Unity_MultiPassRenderingOnURP" rel="alternate"></link>
+    <title>SebLague/Neural-Network-Experiments</title>
+    <updated>2022-08-29T01:45:09Z</updated>
+    <id>tag:github.com,2022-08-29:/SebLague/Neural-Network-Experiments</id>
+    <link href="https://github.com/SebLague/Neural-Network-Experiments" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bzyzhang/RoadOfShader</title>
+    <updated>2022-08-29T01:45:09Z</updated>
+    <id>tag:github.com,2022-08-29:/bzyzhang/RoadOfShader</id>
+    <link href="https://github.com/bzyzhang/RoadOfShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;学习Shader的一些练习记录。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KlearVacuum/KirbGlobalWarmingTogether</title>
+    <updated>2022-08-29T01:45:09Z</updated>
+    <id>tag:github.com,2022-08-29:/KlearVacuum/KirbGlobalWarmingTogether</id>
+    <link href="https://github.com/KlearVacuum/KirbGlobalWarmingTogether" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brackey&#39;s game jam 2022.2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

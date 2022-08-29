@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-28T01:40:23Z</updated>
+  <updated>2022-08-29T01:45:08Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kakawait/hugo-tranquilpeak-theme</title>
-    <updated>2022-08-28T01:40:23Z</updated>
-    <id>tag:github.com,2022-08-28:/kakawait/hugo-tranquilpeak-theme</id>
-    <link href="https://github.com/kakawait/hugo-tranquilpeak-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A gorgeous responsive theme for Hugo blog framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alicenet/alice-semantic-css</title>
+    <updated>2022-08-29T01:45:08Z</updated>
+    <id>tag:github.com,2022-08-29:/alicenet/alice-semantic-css</id>
+    <link href="https://github.com/alicenet/alice-semantic-css" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An override css stylesheet for semantic-ui for the alice pallete&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TestingConferences/testingconferences.github.io</title>
-    <updated>2022-08-28T01:40:23Z</updated>
-    <id>tag:github.com,2022-08-28:/TestingConferences/testingconferences.github.io</id>
-    <link href="https://github.com/TestingConferences/testingconferences.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple list of Software Testing Conferences and Workshops&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Data-Liberation-Front/csvlint.io</title>
-    <updated>2022-08-28T01:40:23Z</updated>
-    <id>tag:github.com,2022-08-28:/Data-Liberation-Front/csvlint.io</id>
-    <link href="https://github.com/Data-Liberation-Front/csvlint.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Check that your CSV files are valid&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zerostaticthemes/hugo-serif-theme</title>
+    <updated>2022-08-29T01:45:08Z</updated>
+    <id>tag:github.com,2022-08-29:/zerostaticthemes/hugo-serif-theme</id>
+    <link href="https://github.com/zerostaticthemes/hugo-serif-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Serif is a modern business theme for Hugo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

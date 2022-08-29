@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-28T01:34:23Z</updated>
+  <updated>2022-08-29T01:39:09Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>olcf/cuda-training-series</title>
-    <updated>2022-08-28T01:34:23Z</updated>
-    <id>tag:github.com,2022-08-28:/olcf/cuda-training-series</id>
-    <link href="https://github.com/olcf/cuda-training-series" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Training materials associated with NVIDIA&#39;s CUDA Training Series (www.olcf.ornl.gov/cuda-training-series/)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>salykovaa/instant-DexNerf</title>
+    <updated>2022-08-29T01:39:09Z</updated>
+    <id>tag:github.com,2022-08-29:/salykovaa/instant-DexNerf</id>
+    <link href="https://github.com/salykovaa/instant-DexNerf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Instant NeRF for depth/3d shape estimation of transparent objects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

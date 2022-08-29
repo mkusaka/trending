@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-28T01:34:13Z</updated>
+  <updated>2022-08-29T01:39:00Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ChristopherBiscardi/Maximum-Clique--Sparse-Graphs-</title>
-    <updated>2022-08-28T01:34:13Z</updated>
-    <id>tag:github.com,2022-08-28:/ChristopherBiscardi/Maximum-Clique--Sparse-Graphs-</id>
-    <link href="https://github.com/ChristopherBiscardi/Maximum-Clique--Sparse-Graphs-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Based on http://arxiv.org/pdf/1209.5818v1.pdf&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>babashka/bbin</title>
+    <updated>2022-08-29T01:39:00Z</updated>
+    <id>tag:github.com,2022-08-29:/babashka/bbin</id>
+    <link href="https://github.com/babashka/bbin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Install any Babashka script or project with one command&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lambdaisland/kaocha</title>
+    <updated>2022-08-29T01:39:00Z</updated>
+    <id>tag:github.com,2022-08-29:/lambdaisland/kaocha</id>
+    <link href="https://github.com/lambdaisland/kaocha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full featured next gen Clojure test runner&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

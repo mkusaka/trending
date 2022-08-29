@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-28T01:33:06Z</updated>
+  <updated>2022-08-29T01:37:55Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>heroku/roadmap</title>
-    <updated>2022-08-28T01:33:06Z</updated>
-    <id>tag:github.com,2022-08-28:/heroku/roadmap</id>
-    <link href="https://github.com/heroku/roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the public roadmap for Salesforce Heroku services.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ossu/data-science</title>
+    <updated>2022-08-29T01:37:55Z</updated>
+    <id>tag:github.com,2022-08-29:/ossu/data-science</id>
+    <link href="https://github.com/ossu/data-science" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📊 Path to a free self-taught education in Data Science!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ibraheemdev/modern-unix</title>
-    <updated>2022-08-28T01:33:06Z</updated>
-    <id>tag:github.com,2022-08-28:/ibraheemdev/modern-unix</id>
-    <link href="https://github.com/ibraheemdev/modern-unix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of modern/faster/saner alternatives to common unix commands.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/gitignore</title>
+    <updated>2022-08-29T01:37:55Z</updated>
+    <id>tag:github.com,2022-08-29:/github/gitignore</id>
+    <link href="https://github.com/github/gitignore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of useful .gitignore templates&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jivoi/awesome-ml-for-cybersecurity</title>
-    <updated>2022-08-28T01:33:06Z</updated>
-    <id>tag:github.com,2022-08-28:/jivoi/awesome-ml-for-cybersecurity</id>
-    <link href="https://github.com/jivoi/awesome-ml-for-cybersecurity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learning for Cyber Security&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>binhnguyennus/awesome-scalability</title>
+    <updated>2022-08-29T01:37:55Z</updated>
+    <id>tag:github.com,2022-08-29:/binhnguyennus/awesome-scalability</id>
+    <link href="https://github.com/binhnguyennus/awesome-scalability" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Patterns of Scalable, Reliable, and Performant Large-Scale Systems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
