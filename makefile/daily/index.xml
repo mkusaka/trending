@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:42:52Z</updated>
+  <updated>2022-08-30T01:37:17Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MythicalGames/saga-sdk-proto</title>
-    <updated>2022-08-29T01:42:52Z</updated>
-    <id>tag:github.com,2022-08-29:/MythicalGames/saga-sdk-proto</id>
-    <link href="https://github.com/MythicalGames/saga-sdk-proto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Saga SDK protobuf/gRPC files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FlamingoOS-Devices/vendor_oneplus_sm8150-common</title>
+    <updated>2022-08-30T01:37:17Z</updated>
+    <id>tag:github.com,2022-08-30:/FlamingoOS-Devices/vendor_oneplus_sm8150-common</id>
+    <link href="https://github.com/FlamingoOS-Devices/vendor_oneplus_sm8150-common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:45:37Z</updated>
+  <updated>2022-08-30T01:39:30Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maurelian/solidity-sandbox</title>
-    <updated>2022-08-29T01:45:37Z</updated>
-    <id>tag:github.com,2022-08-29:/maurelian/solidity-sandbox</id>
-    <link href="https://github.com/maurelian/solidity-sandbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A forkable template repo for easily writing and testing toy contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fullyallocated/Default</title>
+    <updated>2022-08-30T01:39:30Z</updated>
+    <id>tag:github.com,2022-08-30:/fullyallocated/Default</id>
+    <link href="https://github.com/fullyallocated/Default" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protocol Development &amp; Upgradability Framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aragon/aragonOS</title>
-    <updated>2022-08-29T01:45:37Z</updated>
-    <id>tag:github.com,2022-08-29:/aragon/aragonOS</id>
-    <link href="https://github.com/aragon/aragonOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>maple-labs/debt-locker</title>
+    <updated>2022-08-30T01:39:30Z</updated>
+    <id>tag:github.com,2022-08-30:/maple-labs/debt-locker</id>
+    <link href="https://github.com/maple-labs/debt-locker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eugenioclrc/DeFi-Security-Summit-Stanford</title>
-    <updated>2022-08-29T01:45:37Z</updated>
-    <id>tag:github.com,2022-08-29:/eugenioclrc/DeFi-Security-Summit-Stanford</id>
-    <link href="https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DEFI Focus Smart Contract Security Capture the Flag&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sentimentxyz/oracle</title>
+    <updated>2022-08-30T01:39:30Z</updated>
+    <id>tag:github.com,2022-08-30:/sentimentxyz/oracle</id>
+    <link href="https://github.com/sentimentxyz/oracle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Price Oracles for Sentiment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

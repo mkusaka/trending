@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:41:03Z</updated>
+  <updated>2022-08-30T01:35:16Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>egovernments/DIGIT-DevOps</title>
-    <updated>2022-08-29T01:41:03Z</updated>
-    <id>tag:github.com,2022-08-29:/egovernments/DIGIT-DevOps</id>
-    <link href="https://github.com/egovernments/DIGIT-DevOps" rel="alternate"></link>
+    <title>champ-oss/terraform-aws-rds-snapshot-account-share-lambda</title>
+    <updated>2022-08-30T01:35:16Z</updated>
+    <id>tag:github.com,2022-08-30:/champ-oss/terraform-aws-rds-snapshot-account-share-lambda</id>
+    <link href="https://github.com/champ-oss/terraform-aws-rds-snapshot-account-share-lambda" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>champ-oss/terraform-aws-s3-presign-lambda</title>
-    <updated>2022-08-29T01:41:03Z</updated>
-    <id>tag:github.com,2022-08-29:/champ-oss/terraform-aws-s3-presign-lambda</id>
-    <link href="https://github.com/champ-oss/terraform-aws-s3-presign-lambda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>StyraInc/sample-scan-repository</title>
-    <updated>2022-08-29T01:41:03Z</updated>
-    <id>tag:github.com,2022-08-29:/StyraInc/sample-scan-repository</id>
-    <link href="https://github.com/StyraInc/sample-scan-repository" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sample repository with dummy kubernetes and terraform files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

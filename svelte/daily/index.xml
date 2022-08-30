@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:45:48Z</updated>
+  <updated>2022-08-30T01:39:38Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>industry-standard-good-practice/lurker-for-reddit</title>
-    <updated>2022-08-29T01:45:48Z</updated>
-    <id>tag:github.com,2022-08-29:/industry-standard-good-practice/lurker-for-reddit</id>
-    <link href="https://github.com/industry-standard-good-practice/lurker-for-reddit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MauritsWilke/mcpfp</title>
+    <updated>2022-08-30T01:39:38Z</updated>
+    <id>tag:github.com,2022-08-30:/MauritsWilke/mcpfp</id>
+    <link href="https://github.com/MauritsWilke/mcpfp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A website to generate Minecraft profile pictures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

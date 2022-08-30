@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:43:08Z</updated>
+  <updated>2022-08-30T01:37:32Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sherubthakur/dotfiles</title>
-    <updated>2022-08-29T01:43:08Z</updated>
-    <id>tag:github.com,2022-08-29:/sherubthakur/dotfiles</id>
-    <link href="https://github.com/sherubthakur/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My dotfiles + system configuration for NixOS and mac&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>srid/haskell-template</title>
-    <updated>2022-08-29T01:43:08Z</updated>
-    <id>tag:github.com,2022-08-29:/srid/haskell-template</id>
-    <link href="https://github.com/srid/haskell-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Haskell project template using Nix + Flakes + VSCode (HLS)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MSF-OCB/NixOS</title>
-    <updated>2022-08-29T01:43:08Z</updated>
-    <id>tag:github.com,2022-08-29:/MSF-OCB/NixOS</id>
-    <link href="https://github.com/MSF-OCB/NixOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MSF OCB NixOS config&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Misterio77/nix-starter-configs</title>
+    <updated>2022-08-30T01:37:32Z</updated>
+    <id>tag:github.com,2022-08-30:/Misterio77/nix-starter-configs</id>
+    <link href="https://github.com/Misterio77/nix-starter-configs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

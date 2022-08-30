@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:43:11Z</updated>
+  <updated>2022-08-30T01:37:35Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DerekSelander/dsdump</title>
-    <updated>2022-08-29T01:43:11Z</updated>
-    <id>tag:github.com,2022-08-29:/DerekSelander/dsdump</id>
-    <link href="https://github.com/DerekSelander/dsdump" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An improved nm + Objective-C &amp; Swift class-dump&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

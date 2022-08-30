@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:40:10Z</updated>
+  <updated>2022-08-30T01:34:16Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>delneg/Fable-tauri-vite-feliz-starter</title>
-    <updated>2022-08-29T01:40:10Z</updated>
-    <id>tag:github.com,2022-08-29:/delneg/Fable-tauri-vite-feliz-starter</id>
-    <link href="https://github.com/delneg/Fable-tauri-vite-feliz-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fable + Vite+ Tauri + React(Feliz)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tauri + React + F# Fable&lt;/h1&gt; &#xA;&lt;p&gt;This template should help get you started developing with Tauri, React (Feliz) and F# Fable in Vite.&lt;/p&gt; &#xA;&lt;h2&gt;Recommended IDE Setup&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;VS Code&lt;/a&gt; + &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode&#34;&gt;Tauri&lt;/a&gt; + &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer&#34;&gt;rust-analyzer&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>CompositionalIT/farmer</title>
-    <updated>2022-08-29T01:40:10Z</updated>
-    <id>tag:github.com,2022-08-29:/CompositionalIT/farmer</id>
-    <link href="https://github.com/CompositionalIT/farmer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repeatable Azure deployments with ARM templates - made easy!&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/CompositionalIT/farmer/master/Logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Farmer makes repeatable Azure deployments easy!&lt;/h2&gt; &#xA;&lt;p&gt;See the full docs &lt;a href=&#34;https://compositionalit.github.io/farmer&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Want to edit the docs? Check out the &lt;a href=&#34;https://github.com/CompositionalIT/farmer/tree/master/docs&#34;&gt;docs folder&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://compositional-it.visualstudio.com/Farmer/_build/latest?definitionId=14&amp;amp;branchName=master&#34;&gt;&lt;img src=&#34;https://compositional-it.visualstudio.com/Farmer/_apis/build/status/CompositionalIT.farmer?branchName=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.nuget.org/packages/farmer/&#34;&gt;&lt;img src=&#34;https://buildstats.info/nuget/farmer&#34; alt=&#34;Farmer on Nuget&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>adutilleul/tigress-deobfuscation</title>
+    <updated>2022-08-30T01:34:16Z</updated>
+    <id>tag:github.com,2022-08-30:/adutilleul/tigress-deobfuscation</id>
+    <link href="https://github.com/adutilleul/tigress-deobfuscation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A documentation of several Tigress obfuscation passes and an attempt to simplify Mixed Boolean-Arithmetic (MBA) expressions.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tigress Deobfuscation&lt;/h1&gt; &#xA;&lt;p&gt;A documentation of several Tigress obfuscation passes and an attempt to simplify Mixed Boolean-Arithmetic (MBA) expressions.&lt;/p&gt; &#xA;&lt;h1&gt;Tool&lt;/h1&gt; &#xA;&lt;p&gt;The tool for simplifying MBA expressions is available in the folder &lt;strong&gt;simplify&lt;/strong&gt;, its use is described in the secondary README.md.&lt;/p&gt; &#xA;&lt;h1&gt;Scripts and miscellaneous&lt;/h1&gt; &#xA;&lt;p&gt;The scripts that were used to generate the obfuscated code for the analysis are available in the &lt;strong&gt;sample&lt;/strong&gt; folder.&lt;/p&gt;</summary>
   </entry>
 </feed>

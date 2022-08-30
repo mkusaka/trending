@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:39:39Z</updated>
+  <updated>2022-08-30T01:33:50Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chriscrowe/docker-pihole-unbound</title>
+    <updated>2022-08-30T01:33:50Z</updated>
+    <id>tag:github.com,2022-08-30:/chriscrowe/docker-pihole-unbound</id>
+    <link href="https://github.com/chriscrowe/docker-pihole-unbound" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Pi-Hole + Unbound on Docker&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Pi-Hole + Unbound on Docker&lt;/h1&gt; &#xA;&lt;h3&gt;Use Docker to run &lt;a href=&#34;https://pi-hole.net&#34;&gt;Pi-Hole&lt;/a&gt; with an upstream &lt;a href=&#34;https://nlnetlabs.nl/projects/unbound/about/&#34;&gt;Unbound&lt;/a&gt; resolver.&lt;/h3&gt; &#xA;&lt;p&gt;This repo has 2 different &lt;code&gt;docker-compose&lt;/code&gt; configs-- choose your favorite. The &lt;code&gt;two-container&lt;/code&gt; config may work better on Synology due to usage of &lt;code&gt;macvlan&lt;/code&gt; networking which helps prevent port conflicts with the host.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/chriscrowe/docker-pihole-unbound/main/one-container/&#34;&gt;&lt;code&gt;one-container&lt;/code&gt;&lt;/a&gt; (new) - Install Unbound directly into the Pi-Hole container &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;This configuration contacts the DNS root servers directly, please read the Pi-Hole docs on &lt;a href=&#34;https://docs.pi-hole.net/guides/unbound/&#34;&gt;Pi-hole as All-Around DNS Solution&lt;/a&gt; to understand what this means.&lt;/li&gt; &#xA;   &lt;li&gt;With this approach, we can also simplify our Docker networking since &lt;code&gt;macvlan&lt;/code&gt; is no longer necessary.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/chriscrowe/docker-pihole-unbound/main/two-container/&#34;&gt;&lt;code&gt;two-container&lt;/code&gt;&lt;/a&gt; (legacy) - Use separate containers for Pi-Hole and Unbound &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;This configuration uses MatthewVance&#39;s &lt;a href=&#34;https://github.com/MatthewVance/unbound-docker&#34;&gt;unbound-docker&lt;/a&gt; container to implement encrypted DNS to third party DNS resolvers (eg Cloudflare). This is arguably less privacy-friendly since you&#39;re handing your DNS queries to those 3rd party providers.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

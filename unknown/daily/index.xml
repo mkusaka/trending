@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:37:55Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-08-30T01:31:42Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ossu/data-science</title>
-    <updated>2022-08-29T01:37:55Z</updated>
-    <id>tag:github.com,2022-08-29:/ossu/data-science</id>
-    <link href="https://github.com/ossu/data-science" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📊 Path to a free self-taught education in Data Science!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brickbots/HandiPi</title>
+    <updated>2022-08-30T01:31:42Z</updated>
+    <id>tag:github.com,2022-08-30:/brickbots/HandiPi</id>
+    <link href="https://github.com/brickbots/HandiPi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Handheld RPI4 based computer with keyboard and display&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>github/gitignore</title>
-    <updated>2022-08-29T01:37:55Z</updated>
-    <id>tag:github.com,2022-08-29:/github/gitignore</id>
-    <link href="https://github.com/github/gitignore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of useful .gitignore templates&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yhiumy/New-Grad-2023</title>
+    <updated>2022-08-30T01:31:42Z</updated>
+    <id>tag:github.com,2022-08-30:/yhiumy/New-Grad-2023</id>
+    <link href="https://github.com/yhiumy/New-Grad-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>binhnguyennus/awesome-scalability</title>
-    <updated>2022-08-29T01:37:55Z</updated>
-    <id>tag:github.com,2022-08-29:/binhnguyennus/awesome-scalability</id>
-    <link href="https://github.com/binhnguyennus/awesome-scalability" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Patterns of Scalable, Reliable, and Performant Large-Scale Systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>krishnaik06/Trackersheet-For-Leaning-Data-Science</title>
+    <updated>2022-08-30T01:31:42Z</updated>
+    <id>tag:github.com,2022-08-30:/krishnaik06/Trackersheet-For-Leaning-Data-Science</id>
+    <link href="https://github.com/krishnaik06/Trackersheet-For-Leaning-Data-Science" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

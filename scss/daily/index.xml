@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:45:08Z</updated>
+  <updated>2022-08-30T01:39:11Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alicenet/alice-semantic-css</title>
-    <updated>2022-08-29T01:45:08Z</updated>
-    <id>tag:github.com,2022-08-29:/alicenet/alice-semantic-css</id>
-    <link href="https://github.com/alicenet/alice-semantic-css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An override css stylesheet for semantic-ui for the alice pallete&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ubuntu/yaru</title>
+    <updated>2022-08-30T01:39:11Z</updated>
+    <id>tag:github.com,2022-08-30:/ubuntu/yaru</id>
+    <link href="https://github.com/ubuntu/yaru" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ubuntu community theme &#34;yaru&#34;. Better than a 🌯.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zerostaticthemes/hugo-serif-theme</title>
-    <updated>2022-08-29T01:45:08Z</updated>
-    <id>tag:github.com,2022-08-29:/zerostaticthemes/hugo-serif-theme</id>
-    <link href="https://github.com/zerostaticthemes/hugo-serif-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serif is a modern business theme for Hugo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>inponomarev/java-mipt</title>
+    <updated>2022-08-30T01:39:11Z</updated>
+    <id>tag:github.com,2022-08-30:/inponomarev/java-mipt</id>
+    <link href="https://github.com/inponomarev/java-mipt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Java lectures for MIPT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>atp-mipt/ljv</title>
+    <updated>2022-08-30T01:39:11Z</updated>
+    <id>tag:github.com,2022-08-30:/atp-mipt/ljv</id>
+    <link href="https://github.com/atp-mipt/ljv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight Java Visualizer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

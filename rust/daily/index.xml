@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:44:44Z</updated>
+  <updated>2022-08-30T01:38:56Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>espanso/espanso</title>
-    <updated>2022-08-29T01:44:44Z</updated>
-    <id>tag:github.com,2022-08-29:/espanso/espanso</id>
-    <link href="https://github.com/espanso/espanso" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform Text Expander written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>input-output-hk/mithril</title>
-    <updated>2022-08-29T01:44:44Z</updated>
-    <id>tag:github.com,2022-08-29:/input-output-hk/mithril</id>
-    <link href="https://github.com/input-output-hk/mithril" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stake-based threshold multi-signatures protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svenstaro/genact</title>
+    <updated>2022-08-30T01:38:56Z</updated>
+    <id>tag:github.com,2022-08-30:/svenstaro/genact</id>
+    <link href="https://github.com/svenstaro/genact" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌀 A nonsense activity generator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

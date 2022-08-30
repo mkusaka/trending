@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:46:52Z</updated>
+  <updated>2022-08-30T01:40:21Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lilydjwg/colorizer</title>
-    <updated>2022-08-29T01:46:52Z</updated>
-    <id>tag:github.com,2022-08-29:/lilydjwg/colorizer</id>
-    <link href="https://github.com/lilydjwg/colorizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vim plugin to colorize all text in the form #rrggbb or #rgb.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>roymanigley/nerd-slides-vim-plugin</title>
+    <updated>2022-08-30T01:40:21Z</updated>
+    <id>tag:github.com,2022-08-30:/roymanigley/nerd-slides-vim-plugin</id>
+    <link href="https://github.com/roymanigley/nerd-slides-vim-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a vim plugin to keep your presentations/slides nerdy 🤓&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wellle/targets.vim</title>
+    <updated>2022-08-30T01:40:21Z</updated>
+    <id>tag:github.com,2022-08-30:/wellle/targets.vim</id>
+    <link href="https://github.com/wellle/targets.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin that provides additional text objects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

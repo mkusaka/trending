@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:46:55Z</updated>
+  <updated>2022-08-30T01:40:23Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vueschool/vuejs-forge-episode-2-the-project</title>
-    <updated>2022-08-29T01:46:55Z</updated>
-    <id>tag:github.com,2022-08-29:/vueschool/vuejs-forge-episode-2-the-project</id>
-    <link href="https://github.com/vueschool/vuejs-forge-episode-2-the-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official repository for Vue.js Forge Episode 2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vuejs/theme</title>
-    <updated>2022-08-29T01:46:55Z</updated>
-    <id>tag:github.com,2022-08-29:/vuejs/theme</id>
-    <link href="https://github.com/vuejs/theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VitePress theme for vuejs.org.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jez500/bender</title>
-    <updated>2022-08-29T01:46:55Z</updated>
-    <id>tag:github.com,2022-08-29:/jez500/bender</id>
-    <link href="https://github.com/jez500/bender" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A link dashboard that can be managed completely via the browser&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

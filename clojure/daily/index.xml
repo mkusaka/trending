@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-29T01:39:00Z</updated>
+  <updated>2022-08-30T01:33:12Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>babashka/bbin</title>
-    <updated>2022-08-29T01:39:00Z</updated>
-    <id>tag:github.com,2022-08-29:/babashka/bbin</id>
-    <link href="https://github.com/babashka/bbin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Install any Babashka script or project with one command&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lambdaisland/kaocha</title>
-    <updated>2022-08-29T01:39:00Z</updated>
-    <id>tag:github.com,2022-08-29:/lambdaisland/kaocha</id>
-    <link href="https://github.com/lambdaisland/kaocha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full featured next gen Clojure test runner&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nrepl/nrepl</title>
+    <updated>2022-08-30T01:33:12Z</updated>
+    <id>tag:github.com,2022-08-30:/nrepl/nrepl</id>
+    <link href="https://github.com/nrepl/nrepl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
