@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:39:11Z</updated>
+  <updated>2022-08-31T01:39:06Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ubuntu/yaru</title>
-    <updated>2022-08-30T01:39:11Z</updated>
-    <id>tag:github.com,2022-08-30:/ubuntu/yaru</id>
-    <link href="https://github.com/ubuntu/yaru" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ubuntu community theme &#34;yaru&#34;. Better than a 🌯.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>splintercommunity/splinter-canopyjs</title>
+    <updated>2022-08-31T01:39:06Z</updated>
+    <id>tag:github.com,2022-08-31:/splintercommunity/splinter-canopyjs</id>
+    <link href="https://github.com/splintercommunity/splinter-canopyjs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>inponomarev/java-mipt</title>
-    <updated>2022-08-30T01:39:11Z</updated>
-    <id>tag:github.com,2022-08-30:/inponomarev/java-mipt</id>
-    <link href="https://github.com/inponomarev/java-mipt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Java lectures for MIPT&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>atp-mipt/ljv</title>
-    <updated>2022-08-30T01:39:11Z</updated>
-    <id>tag:github.com,2022-08-30:/atp-mipt/ljv</id>
-    <link href="https://github.com/atp-mipt/ljv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight Java Visualizer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pages-themes/tactile</title>
+    <updated>2022-08-31T01:39:06Z</updated>
+    <id>tag:github.com,2022-08-31:/pages-themes/tactile</id>
+    <link href="https://github.com/pages-themes/tactile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tactile is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

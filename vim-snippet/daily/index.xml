@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Snippet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:40:19Z</updated>
+  <updated>2022-08-31T01:40:25Z</updated>
   <subtitle>Daily Trending of Vim Snippet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adityastomar67/nvim-dots</title>
+    <updated>2022-08-31T01:40:25Z</updated>
+    <id>tag:github.com,2022-08-31:/adityastomar67/nvim-dots</id>
+    <link href="https://github.com/adityastomar67/nvim-dots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern Neovim configuration with full support for Python, C++, Java, Web Dev and more...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

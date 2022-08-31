@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:34:59Z</updated>
+  <updated>2022-08-31T01:34:42Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ihub-pub/plugins</title>
-    <updated>2022-08-30T01:34:59Z</updated>
-    <id>tag:github.com,2022-08-30:/ihub-pub/plugins</id>
-    <link href="https://github.com/ihub-pub/plugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of Gradle plug-ins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:39:30Z</updated>
+  <updated>2022-08-31T01:39:32Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fullyallocated/Default</title>
-    <updated>2022-08-30T01:39:30Z</updated>
-    <id>tag:github.com,2022-08-30:/fullyallocated/Default</id>
-    <link href="https://github.com/fullyallocated/Default" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protocol Development &amp; Upgradability Framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/debt-locker</title>
-    <updated>2022-08-30T01:39:30Z</updated>
-    <id>tag:github.com,2022-08-30:/maple-labs/debt-locker</id>
-    <link href="https://github.com/maple-labs/debt-locker" rel="alternate"></link>
+    <title>MrToph/ctf-lending</title>
+    <updated>2022-08-31T01:39:32Z</updated>
+    <id>tag:github.com,2022-08-31:/MrToph/ctf-lending</id>
+    <link href="https://github.com/MrToph/ctf-lending" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sentimentxyz/oracle</title>
-    <updated>2022-08-30T01:39:30Z</updated>
-    <id>tag:github.com,2022-08-30:/sentimentxyz/oracle</id>
-    <link href="https://github.com/sentimentxyz/oracle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Price Oracles for Sentiment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zeuslawyer/chainlink-dynamic-nft-alchemy</title>
+    <updated>2022-08-31T01:39:32Z</updated>
+    <id>tag:github.com,2022-08-31:/zeuslawyer/chainlink-dynamic-nft-alchemy</id>
+    <link href="https://github.com/zeuslawyer/chainlink-dynamic-nft-alchemy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helper repository (Project #5) for Alchemy&#39;s Road To Web3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maple-labs/erc20-helper</title>
+    <updated>2022-08-31T01:39:32Z</updated>
+    <id>tag:github.com,2022-08-31:/maple-labs/erc20-helper</id>
+    <link href="https://github.com/maple-labs/erc20-helper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

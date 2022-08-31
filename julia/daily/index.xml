@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:36:24Z</updated>
+  <updated>2022-08-31T01:36:04Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AshlinHarris/Spinners.jl</title>
-    <updated>2022-08-30T01:36:24Z</updated>
-    <id>tag:github.com,2022-08-30:/AshlinHarris/Spinners.jl</id>
-    <link href="https://github.com/AshlinHarris/Spinners.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Command line spinners in Julia with decent Unicode support&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>peng1999/PkgDependency.jl</title>
+    <updated>2022-08-31T01:36:04Z</updated>
+    <id>tag:github.com,2022-08-31:/peng1999/PkgDependency.jl</id>
+    <link href="https://github.com/peng1999/PkgDependency.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Show dependency tree of Julia project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

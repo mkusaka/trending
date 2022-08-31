@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:31:42Z</updated>
+  <updated>2022-08-31T01:32:07Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>brickbots/HandiPi</title>
-    <updated>2022-08-30T01:31:42Z</updated>
-    <id>tag:github.com,2022-08-30:/brickbots/HandiPi</id>
-    <link href="https://github.com/brickbots/HandiPi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Handheld RPI4 based computer with keyboard and display&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yhiumy/New-Grad-2023</title>
-    <updated>2022-08-30T01:31:42Z</updated>
-    <id>tag:github.com,2022-08-30:/yhiumy/New-Grad-2023</id>
-    <link href="https://github.com/yhiumy/New-Grad-2023" rel="alternate"></link>
+    <title>cwi-reset/edicao-04-level-1</title>
+    <updated>2022-08-31T01:32:07Z</updated>
+    <id>tag:github.com,2022-08-31:/cwi-reset/edicao-04-level-1</id>
+    <link href="https://github.com/cwi-reset/edicao-04-level-1" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>krishnaik06/Trackersheet-For-Leaning-Data-Science</title>
-    <updated>2022-08-30T01:31:42Z</updated>
-    <id>tag:github.com,2022-08-30:/krishnaik06/Trackersheet-For-Leaning-Data-Science</id>
-    <link href="https://github.com/krishnaik06/Trackersheet-For-Leaning-Data-Science" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CAIC-AD/YOLOPv2</title>
+    <updated>2022-08-31T01:32:07Z</updated>
+    <id>tag:github.com,2022-08-31:/CAIC-AD/YOLOPv2</id>
+    <link href="https://github.com/CAIC-AD/YOLOPv2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;YOLOPv2: Better, Faster, Stronger for Panoptic driving Perception&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>altryne/awesome-ai-art-image-synthesis</title>
+    <updated>2022-08-31T01:32:07Z</updated>
+    <id>tag:github.com,2022-08-31:/altryne/awesome-ai-art-image-synthesis</id>
+    <link href="https://github.com/altryne/awesome-ai-art-image-synthesis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:35:13Z</updated>
+  <updated>2022-08-31T01:34:56Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HigashiSan/Next-Generation-Character-Rendering</title>
-    <updated>2022-08-30T01:35:13Z</updated>
-    <id>tag:github.com,2022-08-30:/HigashiSan/Next-Generation-Character-Rendering</id>
-    <link href="https://github.com/HigashiSan/Next-Generation-Character-Rendering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My research and attempt for character rendering, including hair、eyes and face in unity URP.(Won&#39;t upload any resources, only share shaders and algorithm)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

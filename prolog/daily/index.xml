@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:38:16Z</updated>
+  <updated>2022-08-31T01:38:01Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>celinehocquette/magicpopper</title>
+    <updated>2022-08-31T01:38:01Z</updated>
+    <id>tag:github.com,2022-08-31:/celinehocquette/magicpopper</id>
+    <link href="https://github.com/celinehocquette/magicpopper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C. Hocquette and A. Cropper, Learning programs with magic values.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

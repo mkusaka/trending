@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:39:48Z</updated>
+  <updated>2022-08-31T01:39:53Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lizhirui/AXI-SDCard-High-Speed-Controller</title>
-    <updated>2022-08-30T01:39:48Z</updated>
-    <id>tag:github.com,2022-08-30:/lizhirui/AXI-SDCard-High-Speed-Controller</id>
-    <link href="https://github.com/lizhirui/AXI-SDCard-High-Speed-Controller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A SDCard Controller Based AXI4 Bus with SDIO 4-wire 50MHz Mode(Max Rate 23MB/s)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>raysalemi/uvmprimer</title>
-    <updated>2022-08-30T01:39:48Z</updated>
-    <id>tag:github.com,2022-08-30:/raysalemi/uvmprimer</id>
-    <link href="https://github.com/raysalemi/uvmprimer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains the code examples from The UVM Primer Book sorted by chapters.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hanysalah/Design-Pattern-in-SV</title>
+    <updated>2022-08-31T01:39:53Z</updated>
+    <id>tag:github.com,2022-08-31:/hanysalah/Design-Pattern-in-SV</id>
+    <link href="https://github.com/hanysalah/Design-Pattern-in-SV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo is created to include illustrative examples on object oriented design pattern in SV&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:40:21Z</updated>
+  <updated>2022-08-31T01:40:27Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>roymanigley/nerd-slides-vim-plugin</title>
-    <updated>2022-08-30T01:40:21Z</updated>
-    <id>tag:github.com,2022-08-30:/roymanigley/nerd-slides-vim-plugin</id>
-    <link href="https://github.com/roymanigley/nerd-slides-vim-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a vim plugin to keep your presentations/slides nerdy 🤓&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>haya14busa/vim-asterisk</title>
+    <updated>2022-08-31T01:40:27Z</updated>
+    <id>tag:github.com,2022-08-31:/haya14busa/vim-asterisk</id>
+    <link href="https://github.com/haya14busa/vim-asterisk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;❄️ *-Improved&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wellle/targets.vim</title>
-    <updated>2022-08-30T01:40:21Z</updated>
-    <id>tag:github.com,2022-08-30:/wellle/targets.vim</id>
-    <link href="https://github.com/wellle/targets.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin that provides additional text objects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skywind3000/asyncrun.vim</title>
+    <updated>2022-08-31T01:40:27Z</updated>
+    <id>tag:github.com,2022-08-31:/skywind3000/asyncrun.vim</id>
+    <link href="https://github.com/skywind3000/asyncrun.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chrisbra/unicode.vim</title>
+    <updated>2022-08-31T01:40:27Z</updated>
+    <id>tag:github.com,2022-08-31:/chrisbra/unicode.vim</id>
+    <link href="https://github.com/chrisbra/unicode.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vim plugin that provides a completion function for Unicode glyphs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:35:04Z</updated>
+  <updated>2022-08-31T01:34:47Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>csclyde/lightrun</title>
+    <updated>2022-08-31T01:34:47Z</updated>
+    <id>tag:github.com,2022-08-31:/csclyde/lightrun</id>
+    <link href="https://github.com/csclyde/lightrun" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lightrun&lt;/h1&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;h3&gt;Install Haxe (Windows/Mac)&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://haxe.org/download/&#34;&gt;https://haxe.org/download/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Install HashLink (Windows)&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/HaxeFoundation/hashlink/releases&#34;&gt;https://github.com/HaxeFoundation/hashlink/releases&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Install Haxe (Ubuntu)&lt;/h3&gt; &#xA;&lt;p&gt;sudo add-apt-repository ppa:haxe/releases -y sudo apt-get update sudo apt-get install haxe -y mkdir ~/haxelib &amp;amp;&amp;amp; haxelib setup ~/haxelib&lt;/p&gt; &#xA;&lt;h3&gt;Install Hashlink (Linux)&lt;/h3&gt; &#xA;&lt;p&gt;git clone &lt;a href=&#34;https://github.com/HaxeFoundation/hashlink.git&#34;&gt;https://github.com/HaxeFoundation/hashlink.git&lt;/a&gt; sudo apt-get install libpng-dev libturbojpeg-dev libvorbis-dev libopenal-dev libsdl2-dev libmbedtls-dev libuv1-dev cd hashlink make make install cp -f /usr/local/lib/libhl* /lib cp -f /usr/local/lib/*.hdll /lib&lt;/p&gt; &#xA;&lt;h3&gt;Install Deps&lt;/h3&gt; &#xA;&lt;p&gt;haxelib install hlsdl haxelib git castle &lt;a href=&#34;https://github.com/ncannasse/castle.git&#34;&gt;https://github.com/ncannasse/castle.git&lt;/a&gt; haxelib git heaps &lt;a href=&#34;https://github.com/HeapsIO/heaps.git&#34;&gt;https://github.com/HeapsIO/heaps.git&lt;/a&gt; haxelib git deepnightLibs &lt;a href=&#34;https://github.com/deepnight/deepnightLibs.git&#34;&gt;https://github.com/deepnight/deepnightLibs.git&lt;/a&gt; haxelib git echo &lt;a href=&#34;https://github.com/AustinEast/echo.git&#34;&gt;https://github.com/AustinEast/echo.git&lt;/a&gt; haxelib git redistHelper &lt;a href=&#34;https://github.com/deepnight/redistHelper.git&#34;&gt;https://github.com/deepnight/redistHelper.git&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Profile&lt;/h2&gt; &#xA;&lt;h3&gt;Create Profile&lt;/h3&gt; &#xA;&lt;p&gt;hl --profile 1000 bin/client.hl&lt;/p&gt; &#xA;&lt;h3&gt;Convert Profile Dump&lt;/h3&gt; &#xA;&lt;p&gt;hl profiler.hl hlprofile.dump&lt;/p&gt; &#xA;&lt;h2&gt;Distribute&lt;/h2&gt; &#xA;&lt;h3&gt;Make Dist Build (Windows/Mac/Linux)&lt;/h3&gt; &#xA;&lt;p&gt;haxelib run hxdist hl.sdl.hxml&lt;/p&gt;</summary>
+  </entry>
 </feed>

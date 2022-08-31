@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:40:18Z</updated>
+  <updated>2022-08-31T01:40:24Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mattvenn/wokwi-verilog-gds-test</title>
-    <updated>2022-08-30T01:40:18Z</updated>
-    <id>tag:github.com,2022-08-30:/mattvenn/wokwi-verilog-gds-test</id>
-    <link href="https://github.com/mattvenn/wokwi-verilog-gds-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chipsalliance/aib-phy-hardware</title>
+    <updated>2022-08-31T01:40:24Z</updated>
+    <id>tag:github.com,2022-08-31:/chipsalliance/aib-phy-hardware</id>
+    <link href="https://github.com/chipsalliance/aib-phy-hardware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced Interface Bus (AIB) die-to-die hardware open source&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WalkerLau/DetectHumanFaces</title>
-    <updated>2022-08-30T01:40:18Z</updated>
-    <id>tag:github.com,2022-08-30:/WalkerLau/DetectHumanFaces</id>
-    <link href="https://github.com/WalkerLau/DetectHumanFaces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Real time face detection based on Arm Cortex-M3 DesignStart and FPGA&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alexforencich/verilog-uart</title>
+    <updated>2022-08-31T01:40:24Z</updated>
+    <id>tag:github.com,2022-08-31:/alexforencich/verilog-uart</id>
+    <link href="https://github.com/alexforencich/verilog-uart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog UART&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

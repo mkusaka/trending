@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-30T01:35:16Z</updated>
+  <updated>2022-08-31T01:34:58Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>champ-oss/terraform-aws-rds-snapshot-account-share-lambda</title>
-    <updated>2022-08-30T01:35:16Z</updated>
-    <id>tag:github.com,2022-08-30:/champ-oss/terraform-aws-rds-snapshot-account-share-lambda</id>
-    <link href="https://github.com/champ-oss/terraform-aws-rds-snapshot-account-share-lambda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cn-terraform/terraform-aws-ecs-service-autoscaling</title>
+    <updated>2022-08-31T01:34:58Z</updated>
+    <id>tag:github.com,2022-08-31:/cn-terraform/terraform-aws-ecs-service-autoscaling</id>
+    <link href="https://github.com/cn-terraform/terraform-aws-ecs-service-autoscaling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS ECS Service Autoscaling&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-yaml-config</title>
+    <updated>2022-08-31T01:34:58Z</updated>
+    <id>tag:github.com,2022-08-31:/cloudposse/terraform-yaml-config</id>
+    <link href="https://github.com/cloudposse/terraform-yaml-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to convert local and remote YAML configuration templates into Terraform lists and maps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
