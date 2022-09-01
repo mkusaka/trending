@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Component Pascal Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:49:26Z</updated>
+  <subtitle>Monthly Trending of Component Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>andriy-gerasika/dfm2xml</title>
+    <updated>2022-09-01T01:49:26Z</updated>
+    <id>tag:github.com,2022-09-01:/andriy-gerasika/dfm2xml</id>
+    <link href="https://github.com/andriy-gerasika/dfm2xml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DFM to XML converter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

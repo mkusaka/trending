@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:55:38Z</updated>
+  <subtitle>Monthly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GoogleContainerTools/distroless</title>
+    <updated>2022-09-01T01:55:38Z</updated>
+    <id>tag:github.com,2022-09-01:/GoogleContainerTools/distroless</id>
+    <link href="https://github.com/GoogleContainerTools/distroless" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🥑 Language focused docker images, minus the operating system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DataDog/rules_oci_bootstrap</title>
+    <updated>2022-09-01T01:55:38Z</updated>
+    <id>tag:github.com,2022-09-01:/DataDog/rules_oci_bootstrap</id>
+    <link href="https://github.com/DataDog/rules_oci_bootstrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules to bootstrap from an OCI registry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tilt-dev/tilt-extensions</title>
+    <updated>2022-09-01T01:55:38Z</updated>
+    <id>tag:github.com,2022-09-01:/tilt-dev/tilt-extensions</id>
+    <link href="https://github.com/tilt-dev/tilt-extensions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extensions for Tilt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

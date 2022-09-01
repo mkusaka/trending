@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:50:24Z</updated>
+  <subtitle>Monthly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bitbrain/beehave</title>
+    <updated>2022-09-01T01:50:24Z</updated>
+    <id>tag:github.com,2022-09-01:/bitbrain/beehave</id>
+    <link href="https://github.com/bitbrain/beehave" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐝 behaviour tree AI for Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nathanhoad/godot_dialogue_manager</title>
+    <updated>2022-09-01T01:50:24Z</updated>
+    <id>tag:github.com,2022-09-01:/nathanhoad/godot_dialogue_manager</id>
+    <link href="https://github.com/nathanhoad/godot_dialogue_manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple but powerful branching dialogue system for Godot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>coppolaemilio/dialogic</title>
+    <updated>2022-09-01T01:50:24Z</updated>
+    <id>tag:github.com,2022-09-01:/coppolaemilio/dialogic</id>
+    <link href="https://github.com/coppolaemilio/dialogic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💬 Create dialogs, characters and scenes to display conversations in your Godot games.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:52:49Z</updated>
+  <subtitle>Monthly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>slayton/matlab-git</title>
+    <updated>2022-09-01T01:52:49Z</updated>
+    <id>tag:github.com,2022-09-01:/slayton/matlab-git</id>
+    <link href="https://github.com/slayton/matlab-git" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple function that lets you use GIT from matlab using standard GIT commands&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>personqianduixue/Math_Model</title>
+    <updated>2022-09-01T01:52:49Z</updated>
+    <id>tag:github.com,2022-09-01:/personqianduixue/Math_Model</id>
+    <link href="https://github.com/personqianduixue/Math_Model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>drlocutus/depth-map</title>
+    <updated>2022-09-01T01:52:49Z</updated>
+    <id>tag:github.com,2022-09-01:/drlocutus/depth-map</id>
+    <link href="https://github.com/drlocutus/depth-map" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;depth map Matlab codes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

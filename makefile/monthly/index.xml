@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:52:45Z</updated>
+  <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>golang-standards/project-layout</title>
+    <updated>2022-09-01T01:52:45Z</updated>
+    <id>tag:github.com,2022-09-01:/golang-standards/project-layout</id>
+    <link href="https://github.com/golang-standards/project-layout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standard Go Project Layout&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>manna-harbour/miryoku</title>
+    <updated>2022-09-01T01:52:45Z</updated>
+    <id>tag:github.com,2022-09-01:/manna-harbour/miryoku</id>
+    <link href="https://github.com/manna-harbour/miryoku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>foostan/crkbd</title>
+    <updated>2022-09-01T01:52:45Z</updated>
+    <id>tag:github.com,2022-09-01:/foostan/crkbd</id>
+    <link href="https://github.com/foostan/crkbd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

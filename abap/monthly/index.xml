@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ABAP Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:48:31Z</updated>
+  <subtitle>Monthly Trending of ABAP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SAP/code-pal-for-abap</title>
+    <updated>2022-09-01T01:48:31Z</updated>
+    <id>tag:github.com,2022-09-01:/SAP/code-pal-for-abap</id>
+    <link href="https://github.com/SAP/code-pal-for-abap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;code pal for ABAP is a highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

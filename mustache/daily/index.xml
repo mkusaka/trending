@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-31T01:37:05Z</updated>
+  <updated>2022-09-01T01:35:39Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>likamrat/hello_arc</title>
-    <updated>2022-08-31T01:37:05Z</updated>
-    <id>tag:github.com,2022-08-31:/likamrat/hello_arc</id>
-    <link href="https://github.com/likamrat/hello_arc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes &#34;Hello World&#34; application for Azure Arc GitOps demos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloud-native-toolkit/toolkit-charts</title>
+    <updated>2022-09-01T01:35:39Z</updated>
+    <id>tag:github.com,2022-09-01:/cloud-native-toolkit/toolkit-charts</id>
+    <link href="https://github.com/cloud-native-toolkit/toolkit-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts used by catalyst assets. The helm repo can be accessed - https://charts.cloudnativetoolkit.dev&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>evryfs/helm-charts</title>
+    <updated>2022-09-01T01:35:39Z</updated>
+    <id>tag:github.com,2022-09-01:/evryfs/helm-charts</id>
+    <link href="https://github.com/evryfs/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenSourced Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bambash/helm-cronjobs</title>
+    <updated>2022-09-01T01:35:39Z</updated>
+    <id>tag:github.com,2022-09-01:/bambash/helm-cronjobs</id>
+    <link href="https://github.com/bambash/helm-cronjobs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a helm chart for cronjobs in kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

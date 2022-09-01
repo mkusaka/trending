@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-31T01:34:58Z</updated>
+  <updated>2022-09-01T01:33:40Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cn-terraform/terraform-aws-ecs-service-autoscaling</title>
-    <updated>2022-08-31T01:34:58Z</updated>
-    <id>tag:github.com,2022-08-31:/cn-terraform/terraform-aws-ecs-service-autoscaling</id>
-    <link href="https://github.com/cn-terraform/terraform-aws-ecs-service-autoscaling" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AWS ECS Service Autoscaling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oracle-terraform-modules/terraform-oci-oke</title>
+    <updated>2022-09-01T01:33:40Z</updated>
+    <id>tag:github.com,2022-09-01:/oracle-terraform-modules/terraform-oci-oke</id>
+    <link href="https://github.com/oracle-terraform-modules/terraform-oci-oke" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Terraform OKE Module Installer for Oracle Cloud Infrastructure provides a Terraform module that provisions the necessary resources for Oracle Container Engine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-yaml-config</title>
-    <updated>2022-08-31T01:34:58Z</updated>
-    <id>tag:github.com,2022-08-31:/cloudposse/terraform-yaml-config</id>
-    <link href="https://github.com/cloudposse/terraform-yaml-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to convert local and remote YAML configuration templates into Terraform lists and maps&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LinkedInLearning/advanced-terraform-2823489</title>
+    <updated>2022-09-01T01:33:40Z</updated>
+    <id>tag:github.com,2022-09-01:/LinkedInLearning/advanced-terraform-2823489</id>
+    <link href="https://github.com/LinkedInLearning/advanced-terraform-2823489" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nsbno/terraform-aws-trafficcontrol</title>
+    <updated>2022-09-01T01:33:40Z</updated>
+    <id>tag:github.com,2022-09-01:/nsbno/terraform-aws-trafficcontrol</id>
+    <link href="https://github.com/nsbno/terraform-aws-trafficcontrol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of terraform modules created by Team Traffic Control&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

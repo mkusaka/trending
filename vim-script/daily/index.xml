@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-31T01:40:27Z</updated>
+  <updated>2022-09-01T01:38:58Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>haya14busa/vim-asterisk</title>
-    <updated>2022-08-31T01:40:27Z</updated>
-    <id>tag:github.com,2022-08-31:/haya14busa/vim-asterisk</id>
-    <link href="https://github.com/haya14busa/vim-asterisk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;❄️ *-Improved&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PProvost/vim-ps1</title>
+    <updated>2022-09-01T01:38:58Z</updated>
+    <id>tag:github.com,2022-09-01:/PProvost/vim-ps1</id>
+    <link href="https://github.com/PProvost/vim-ps1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vim plugin for Windows PowerShell support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>skywind3000/asyncrun.vim</title>
-    <updated>2022-08-31T01:40:27Z</updated>
-    <id>tag:github.com,2022-08-31:/skywind3000/asyncrun.vim</id>
-    <link href="https://github.com/skywind3000/asyncrun.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sickill/vim-monokai</title>
+    <updated>2022-09-01T01:38:58Z</updated>
+    <id>tag:github.com,2022-09-01:/sickill/vim-monokai</id>
+    <link href="https://github.com/sickill/vim-monokai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monokai color scheme for Vim converted from Textmate theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chrisbra/unicode.vim</title>
-    <updated>2022-08-31T01:40:27Z</updated>
-    <id>tag:github.com,2022-08-31:/chrisbra/unicode.vim</id>
-    <link href="https://github.com/chrisbra/unicode.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vim plugin that provides a completion function for Unicode glyphs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>machakann/vim-sandwich</title>
+    <updated>2022-09-01T01:38:58Z</updated>
+    <id>tag:github.com,2022-09-01:/machakann/vim-sandwich</id>
+    <link href="https://github.com/machakann/vim-sandwich" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Set of operators and textobjects to search/select/edit sandwiched texts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

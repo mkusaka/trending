@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fennel Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:50:18Z</updated>
+  <subtitle>Monthly Trending of Fennel in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shaunsingh/nyoom.nvim</title>
+    <updated>2022-09-01T01:50:18Z</updated>
+    <id>tag:github.com,2022-09-01:/shaunsingh/nyoom.nvim</id>
+    <link href="https://github.com/shaunsingh/nyoom.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configurable, minimal, modular, and lispy neovim config written in Fennel. Base config for users to extend and add upon, leading to a more unique editing experience.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Olical/magic-kit</title>
+    <updated>2022-09-01T01:50:18Z</updated>
+    <id>tag:github.com,2022-09-01:/Olical/magic-kit</id>
+    <link href="https://github.com/Olical/magic-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter kit for Conjure, Aniseed and Neovim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

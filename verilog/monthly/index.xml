@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:56:26Z</updated>
+  <subtitle>Monthly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>The-OpenROAD-Project/OpenLane</title>
+    <updated>2022-09-01T01:56:26Z</updated>
+    <id>tag:github.com,2022-09-01:/The-OpenROAD-Project/OpenLane</id>
+    <link href="https://github.com/The-OpenROAD-Project/OpenLane" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mazamars312/Analogue_Pocket_Neogeo</title>
+    <updated>2022-09-01T01:56:26Z</updated>
+    <id>tag:github.com,2022-09-01:/Mazamars312/Analogue_Pocket_Neogeo</id>
+    <link href="https://github.com/Mazamars312/Analogue_Pocket_Neogeo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Analogue Pocket Neogeo Core compatible with openFPGA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EttusResearch/uhd</title>
+    <updated>2022-09-01T01:56:26Z</updated>
+    <id>tag:github.com,2022-09-01:/EttusResearch/uhd</id>
+    <link href="https://github.com/EttusResearch/uhd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The USRP™ Hardware Driver Repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

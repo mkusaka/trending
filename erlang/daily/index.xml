@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-31T01:34:14Z</updated>
+  <updated>2022-09-01T01:32:56Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>manishc1/Gossip</title>
-    <updated>2022-08-31T01:34:14Z</updated>
-    <id>tag:github.com,2022-08-31:/manishc1/Gossip</id>
-    <link href="https://github.com/manishc1/Gossip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gossip Implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>klarna/erlavro</title>
+    <updated>2022-09-01T01:32:56Z</updated>
+    <id>tag:github.com,2022-09-01:/klarna/erlavro</id>
+    <link href="https://github.com/klarna/erlavro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Avro support for Erlang/Elixir (http://avro.apache.org/)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub XML Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:56:37Z</updated>
+  <subtitle>Monthly Trending of XML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tauweb/Tipsy-CMS-dev-</title>
+    <updated>2022-09-01T01:56:37Z</updated>
+    <id>tag:github.com,2022-09-01:/tauweb/Tipsy-CMS-dev-</id>
+    <link href="https://github.com/tauweb/Tipsy-CMS-dev-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tipsy CMS - Open Source Content Management System&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Tipsy CMS - попытка создать удобную и практичную систему управления контентом. Находится на начальной стадии разработки. Автор только изучает программирование, поэтому создание может затянуться.&lt;/p&gt;</summary>
+  </entry>
+</feed>

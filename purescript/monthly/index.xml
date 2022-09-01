@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:54:02Z</updated>
+  <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Plutonomicon/cardano-transaction-lib</title>
+    <updated>2022-09-01T01:54:02Z</updated>
+    <id>tag:github.com,2022-09-01:/Plutonomicon/cardano-transaction-lib</id>
+    <link href="https://github.com/Plutonomicon/cardano-transaction-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Purescript library for building smart contract transactions on Cardano&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-lcg</title>
+    <updated>2022-09-01T01:54:02Z</updated>
+    <id>tag:github.com,2022-09-01:/purescript/purescript-lcg</id>
+    <link href="https://github.com/purescript/purescript-lcg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A seeded pseudorandom number generator based on the linear congruential generator algorithm.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-ordered-collections</title>
+    <updated>2022-09-01T01:54:02Z</updated>
+    <id>tag:github.com,2022-09-01:/purescript/purescript-ordered-collections</id>
+    <link href="https://github.com/purescript/purescript-ordered-collections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Purely functional map and set data structures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

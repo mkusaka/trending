@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown Languages Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:48:12Z</updated>
+  <subtitle>Monthly Trending of Unknown Languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>martinshkreli/models</title>
+    <updated>2022-09-01T01:48:12Z</updated>
+    <id>tag:github.com,2022-09-01:/martinshkreli/models</id>
+    <link href="https://github.com/martinshkreli/models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;stock market models - have fun&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eugeneyan/applied-ml</title>
+    <updated>2022-09-01T01:48:12Z</updated>
+    <id>tag:github.com,2022-09-01:/eugeneyan/applied-ml</id>
+    <link href="https://github.com/eugeneyan/applied-ml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Papers &amp; tech blogs by companies sharing their work on data science &amp; machine learning in production.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>willwulfken/MidJourney-Styles-and-Keywords-Reference</title>
+    <updated>2022-09-01T01:48:12Z</updated>
+    <id>tag:github.com,2022-09-01:/willwulfken/MidJourney-Styles-and-Keywords-Reference</id>
+    <link href="https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

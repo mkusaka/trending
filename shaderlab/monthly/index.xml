@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ShaderLab Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:55:03Z</updated>
+  <subtitle>Monthly Trending of ShaderLab in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>csdjk/LearnUnityShader</title>
+    <updated>2022-09-01T01:55:03Z</updated>
+    <id>tag:github.com,2022-09-01:/csdjk/LearnUnityShader</id>
+    <link href="https://github.com/csdjk/LearnUnityShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;记录学习Unity Shader过程中实现过的一些Demo。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>candycat1992/Unity_Shaders_Book</title>
+    <updated>2022-09-01T01:55:03Z</updated>
+    <id>tag:github.com,2022-09-01:/candycat1992/Unity_Shaders_Book</id>
+    <link href="https://github.com/candycat1992/Unity_Shaders_Book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📖 书籍《Unity Shader入门精要》源代码&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>QianMo/Awesome-Unity-Shader</title>
+    <updated>2022-09-01T01:55:03Z</updated>
+    <id>tag:github.com,2022-09-01:/QianMo/Awesome-Unity-Shader</id>
+    <link href="https://github.com/QianMo/Awesome-Unity-Shader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⛵ 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

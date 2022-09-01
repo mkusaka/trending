@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:50:05Z</updated>
+  <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>supabase/realtime</title>
+    <updated>2022-09-01T01:50:05Z</updated>
+    <id>tag:github.com,2022-09-01:/supabase/realtime</id>
+    <link href="https://github.com/supabase/realtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>livebook-dev/livebook</title>
+    <updated>2022-09-01T01:50:05Z</updated>
+    <id>tag:github.com,2022-09-01:/livebook-dev/livebook</id>
+    <link href="https://github.com/livebook-dev/livebook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blockscout/blockscout</title>
+    <updated>2022-09-01T01:50:05Z</updated>
+    <id>tag:github.com,2022-09-01:/blockscout/blockscout</id>
+    <link href="https://github.com/blockscout/blockscout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

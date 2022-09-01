@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Inno Setup Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:51:12Z</updated>
+  <subtitle>Monthly Trending of Inno Setup in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qmk/qmk_distro_msys</title>
+    <updated>2022-09-01T01:51:12Z</updated>
+    <id>tag:github.com,2022-09-01:/qmk/qmk_distro_msys</id>
+    <link href="https://github.com/qmk/qmk_distro_msys" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Windows one-click installer for the QMK CLI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>git-for-windows/build-extra</title>
+    <updated>2022-09-01T01:51:12Z</updated>
+    <id>tag:github.com,2022-09-01:/git-for-windows/build-extra</id>
+    <link href="https://github.com/git-for-windows/build-extra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Additional files and scripts to help build Git for Windows on MSYS2.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:48:40Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bytedance/sonic</title>
+    <updated>2022-09-01T01:48:40Z</updated>
+    <id>tag:github.com,2022-09-01:/bytedance/sonic</id>
+    <link href="https://github.com/bytedance/sonic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A blazingly fast JSON serializing &amp; deserializing library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vxunderground/MalwareSourceCode</title>
+    <updated>2022-09-01T01:48:40Z</updated>
+    <id>tag:github.com,2022-09-01:/vxunderground/MalwareSourceCode</id>
+    <link href="https://github.com/vxunderground/MalwareSourceCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of malware source code for a variety of platforms in an array of different programming languages.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/MS-DOS</title>
+    <updated>2022-09-01T01:48:40Z</updated>
+    <id>tag:github.com,2022-09-01:/microsoft/MS-DOS</id>
+    <link href="https://github.com/microsoft/MS-DOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The original sources of MS-DOS 1.25 and 2.0, for reference purposes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

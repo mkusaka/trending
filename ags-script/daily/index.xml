@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AGS Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-31T01:32:26Z</updated>
+  <updated>2022-09-01T01:31:07Z</updated>
   <subtitle>Daily Trending of AGS Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EcoForecast/EF_Activities</title>
+    <updated>2022-09-01T01:31:07Z</updated>
+    <id>tag:github.com,2022-09-01:/EcoForecast/EF_Activities</id>
+    <link href="https://github.com/EcoForecast/EF_Activities" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hands-on activities associated with the Ecological Forecasting book and graduate class&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

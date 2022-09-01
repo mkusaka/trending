@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:56:43Z</updated>
+  <subtitle>Monthly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hejsil/zig-clap</title>
+    <updated>2022-09-01T01:56:43Z</updated>
+    <id>tag:github.com,2022-09-01:/Hejsil/zig-clap</id>
+    <link href="https://github.com/Hejsil/zig-clap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple command line argument parsing library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>frmdstryr/zhp</title>
+    <updated>2022-09-01T01:56:43Z</updated>
+    <id>tag:github.com,2022-09-01:/frmdstryr/zhp</id>
+    <link href="https://github.com/frmdstryr/zhp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Http server written in Zig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-31T01:40:42Z</updated>
+  <updated>2022-09-01T01:39:12Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PrajwalCH/yazap</title>
-    <updated>2022-08-31T01:40:42Z</updated>
-    <id>tag:github.com,2022-08-31:/PrajwalCH/yazap</id>
-    <link href="https://github.com/PrajwalCH/yazap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Command line argument parser for zig which support flags, subcommand and nested subcommands out of the box.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:49:23Z</updated>
+  <subtitle>Monthly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yujinrobot/kobuki_msgs</title>
+    <updated>2022-09-01T01:49:23Z</updated>
+    <id>tag:github.com,2022-09-01:/yujinrobot/kobuki_msgs</id>
+    <link href="https://github.com/yujinrobot/kobuki_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom ROS messages for Kobuki&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>christianrauch/apriltag_msgs</title>
+    <updated>2022-09-01T01:49:23Z</updated>
+    <id>tag:github.com,2022-09-01:/christianrauch/apriltag_msgs</id>
+    <link href="https://github.com/christianrauch/apriltag_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AprilTag message definitions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>friendlyanon/cmake-init</title>
+    <updated>2022-09-01T01:49:23Z</updated>
+    <id>tag:github.com,2022-09-01:/friendlyanon/cmake-init</id>
+    <link href="https://github.com/friendlyanon/cmake-init" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The missing CMake project initializer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

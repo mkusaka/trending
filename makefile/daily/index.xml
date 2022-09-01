@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-08-31T01:36:55Z</updated>
+  <updated>2022-09-01T01:35:27Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mucsi96/cpp-hello-world</title>
-    <updated>2022-08-31T01:36:55Z</updated>
-    <id>tag:github.com,2022-08-31:/mucsi96/cpp-hello-world</id>
-    <link href="https://github.com/mucsi96/cpp-hello-world" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hello world in C++ with VSCode, MinGW and Make&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nanoninja/docker-nginx-php-mysql</title>
-    <updated>2022-08-31T01:36:55Z</updated>
-    <id>tag:github.com,2022-08-31:/nanoninja/docker-nginx-php-mysql</id>
-    <link href="https://github.com/nanoninja/docker-nginx-php-mysql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docker running Nginx, PHP-FPM, MySQL &amp; PHPMyAdmin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DjangoGirls/tutorial</title>
+    <updated>2022-09-01T01:35:27Z</updated>
+    <id>tag:github.com,2022-09-01:/DjangoGirls/tutorial</id>
+    <link href="https://github.com/DjangoGirls/tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a tutorial we are using for Django Girls workshops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Red Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-01T01:54:35Z</updated>
+  <subtitle>Monthly Trending of Red in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>red/red</title>
+    <updated>2022-09-01T01:54:35Z</updated>
+    <id>tag:github.com,2022-09-01:/red/red</id>
+    <link href="https://github.com/red/red" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
