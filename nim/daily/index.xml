@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:35:44Z</updated>
+  <updated>2022-09-02T01:35:24Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>status-im/questionable</title>
-    <updated>2022-09-01T01:35:44Z</updated>
-    <id>tag:github.com,2022-09-01:/status-im/questionable</id>
-    <link href="https://github.com/status-im/questionable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elegant optional types for Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/nim-rlp</title>
-    <updated>2022-09-01T01:35:44Z</updated>
-    <id>tag:github.com,2022-09-01:/status-im/nim-rlp</id>
-    <link href="https://github.com/status-im/nim-rlp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethereum RLP encoding/decoding library for Nim (moved to status-im/nim-eth)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/asynctest</title>
-    <updated>2022-09-01T01:35:44Z</updated>
-    <id>tag:github.com,2022-09-01:/status-im/asynctest</id>
-    <link href="https://github.com/status-im/asynctest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unit testing of asynchrononous code in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nim-lang/virus_checker</title>
+    <updated>2022-09-02T01:35:24Z</updated>
+    <id>tag:github.com,2022-09-02:/nim-lang/virus_checker</id>
+    <link href="https://github.com/nim-lang/virus_checker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A virus checker for nim binaries&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

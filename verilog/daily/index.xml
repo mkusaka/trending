@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:38:55Z</updated>
+  <updated>2022-09-02T01:38:31Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Devipriya1921/Physical_Design_Using_OpenLANE_Sky130</title>
-    <updated>2022-09-01T01:38:55Z</updated>
-    <id>tag:github.com,2022-09-01:/Devipriya1921/Physical_Design_Using_OpenLANE_Sky130</id>
-    <link href="https://github.com/Devipriya1921/Physical_Design_Using_OpenLANE_Sky130" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TejasBN28/iiitb_gc</title>
+    <updated>2022-09-02T01:38:31Z</updated>
+    <id>tag:github.com,2022-09-02:/TejasBN28/iiitb_gc</id>
+    <link href="https://github.com/TejasBN28/iiitb_gc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Physical Design of a gray counter implemented with skywater 130 pdk&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vinayrayapati/iiitb_rv32i</title>
-    <updated>2022-09-01T01:38:55Z</updated>
-    <id>tag:github.com,2022-09-01:/vinayrayapati/iiitb_rv32i</id>
-    <link href="https://github.com/vinayrayapati/iiitb_rv32i" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of RISC-V RV32I&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sfmth/ibnalhaytham</title>
+    <updated>2022-09-02T01:38:31Z</updated>
+    <id>tag:github.com,2022-09-02:/sfmth/ibnalhaytham</id>
+    <link href="https://github.com/sfmth/ibnalhaytham" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;32-bit RISC-V based processor with memory controler&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stnolting/neorv32-verilog</title>
-    <updated>2022-09-01T01:38:55Z</updated>
-    <id>tag:github.com,2022-09-01:/stnolting/neorv32-verilog</id>
-    <link href="https://github.com/stnolting/neorv32-verilog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;♻️ Convert the NEORV32 processor into a synthesizable plain-Verilog netlist module using GHDL.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fredrequin/verilator_xilinx</title>
+    <updated>2022-09-02T01:38:31Z</updated>
+    <id>tag:github.com,2022-09-02:/fredrequin/verilator_xilinx</id>
+    <link href="https://github.com/fredrequin/verilator_xilinx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Re-coded Xilinx primitives for Verilator use&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

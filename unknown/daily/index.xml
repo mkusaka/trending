@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:30:40Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-02T01:30:50Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zhanymkanov/fastapi-best-practices</title>
-    <updated>2022-09-01T01:30:40Z</updated>
-    <id>tag:github.com,2022-09-01:/zhanymkanov/fastapi-best-practices</id>
-    <link href="https://github.com/zhanymkanov/fastapi-best-practices" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FastAPI Best Practices and Conventions we used @ hi.peerlink.me&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mstrYoda/kubernetes-kitap</title>
+    <updated>2022-09-02T01:30:50Z</updated>
+    <id>tag:github.com,2022-09-02:/mstrYoda/kubernetes-kitap</id>
+    <link href="https://github.com/mstrYoda/kubernetes-kitap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jackfrued/Python-Core-50-Courses</title>
-    <updated>2022-09-01T01:30:40Z</updated>
-    <id>tag:github.com,2022-09-01:/jackfrued/Python-Core-50-Courses</id>
-    <link href="https://github.com/jackfrued/Python-Core-50-Courses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python语言基础50课&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>priyankavergadia/google-cloud-4-words</title>
+    <updated>2022-09-02T01:30:50Z</updated>
+    <id>tag:github.com,2022-09-02:/priyankavergadia/google-cloud-4-words</id>
+    <link href="https://github.com/priyankavergadia/google-cloud-4-words" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Google Cloud Developer&#39;s Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GorvGoyl/Clone-Wars</title>
-    <updated>2022-09-01T01:30:40Z</updated>
-    <id>tag:github.com,2022-09-01:/GorvGoyl/Clone-Wars</id>
-    <link href="https://github.com/GorvGoyl/Clone-Wars" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tomhuang12/awesome-k8s-resources</title>
+    <updated>2022-09-02T01:30:50Z</updated>
+    <id>tag:github.com,2022-09-02:/tomhuang12/awesome-k8s-resources</id>
+    <link href="https://github.com/tomhuang12/awesome-k8s-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome Kubernetes tools and resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

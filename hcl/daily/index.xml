@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:33:40Z</updated>
+  <updated>2022-09-02T01:33:37Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oracle-terraform-modules/terraform-oci-oke</title>
-    <updated>2022-09-01T01:33:40Z</updated>
-    <id>tag:github.com,2022-09-01:/oracle-terraform-modules/terraform-oci-oke</id>
-    <link href="https://github.com/oracle-terraform-modules/terraform-oci-oke" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Terraform OKE Module Installer for Oracle Cloud Infrastructure provides a Terraform module that provisions the necessary resources for Oracle Container Engine.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
+    <updated>2022-09-02T01:33:37Z</updated>
+    <id>tag:github.com,2022-09-02:/cloudposse/terraform-aws-msk-apache-kafka-cluster</id>
+    <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision AWS MSK&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LinkedInLearning/advanced-terraform-2823489</title>
-    <updated>2022-09-01T01:33:40Z</updated>
-    <id>tag:github.com,2022-09-01:/LinkedInLearning/advanced-terraform-2823489</id>
-    <link href="https://github.com/LinkedInLearning/advanced-terraform-2823489" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advanced Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-google-modules/terraform-docs-samples</title>
+    <updated>2022-09-02T01:33:37Z</updated>
+    <id>tag:github.com,2022-09-02:/terraform-google-modules/terraform-docs-samples</id>
+    <link href="https://github.com/terraform-google-modules/terraform-docs-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform samples intended for inclusion in cloud.google.com&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nsbno/terraform-aws-trafficcontrol</title>
-    <updated>2022-09-01T01:33:40Z</updated>
-    <id>tag:github.com,2022-09-01:/nsbno/terraform-aws-trafficcontrol</id>
-    <link href="https://github.com/nsbno/terraform-aws-trafficcontrol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of terraform modules created by Team Traffic Control&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xcad2k/videos</title>
+    <updated>2022-09-02T01:33:37Z</updated>
+    <id>tag:github.com,2022-09-02:/xcad2k/videos</id>
+    <link href="https://github.com/xcad2k/videos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project files for all my video tutorials on YouTube&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

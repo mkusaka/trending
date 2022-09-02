@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:32:44Z</updated>
+  <updated>2022-09-02T01:32:49Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>britton-jb/elixirconf_2022_broadway_training</title>
-    <updated>2022-09-01T01:32:44Z</updated>
-    <id>tag:github.com,2022-09-01:/britton-jb/elixirconf_2022_broadway_training</id>
-    <link href="https://github.com/britton-jb/elixirconf_2022_broadway_training" rel="alternate"></link>
+    <title>novuhq/elixir</title>
+    <updated>2022-09-02T01:32:49Z</updated>
+    <id>tag:github.com,2022-09-02:/novuhq/elixir</id>
+    <link href="https://github.com/novuhq/elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir SDK for Novu&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rentpath/slack_queue_bot</title>
+    <updated>2022-09-02T01:32:49Z</updated>
+    <id>tag:github.com,2022-09-02:/rentpath/slack_queue_bot</id>
+    <link href="https://github.com/rentpath/slack_queue_bot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

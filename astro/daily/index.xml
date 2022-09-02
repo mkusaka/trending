@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:31:13Z</updated>
+  <updated>2022-09-02T01:31:19Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hellotham/hello-astro</title>
-    <updated>2022-09-01T01:31:13Z</updated>
-    <id>tag:github.com,2022-09-01:/hellotham/hello-astro</id>
-    <link href="https://github.com/hellotham/hello-astro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hello Astro is a full featured Astro corporate/marketing/blog starter theme written in Typescript and TailwindCSS. It supports Markdown and MDX based pages and blog posts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chrismwilliams/astro-theme-cactus</title>
-    <updated>2022-09-01T01:31:13Z</updated>
-    <id>tag:github.com,2022-09-01:/chrismwilliams/astro-theme-cactus</id>
-    <link href="https://github.com/chrismwilliams/astro-theme-cactus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple opinionated Astro theme. Use it to create your blog or website.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

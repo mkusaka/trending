@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:34:45Z</updated>
+  <updated>2022-09-02T01:34:42Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aguaviva/articles</title>
-    <updated>2022-09-01T01:34:45Z</updated>
-    <id>tag:github.com,2022-09-01:/aguaviva/articles</id>
-    <link href="https://github.com/aguaviva/articles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;just random notes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>magnusviri/stable-diffusion-old</title>
-    <updated>2022-09-01T01:34:45Z</updated>
-    <id>tag:github.com,2022-09-01:/magnusviri/stable-diffusion-old</id>
-    <link href="https://github.com/magnusviri/stable-diffusion-old" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Placeholder for the old Stable Diffusion Mac version&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This repo is being renamed and archived in favor of a branch in the &lt;a href=&#34;https://github.com/lstein/stable-diffusion/tree/magnusviri-apple-mps-support&#34;&gt;lstein&lt;/a&gt; stable-diffusion fork. That fork has so many amazing features you just need to go look for yourself. I&#39;m also going to focus all of the M1 enabling efforts to that branch.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>altryne/sd-webui-colab</title>
-    <updated>2022-09-01T01:34:45Z</updated>
-    <id>tag:github.com,2022-09-01:/altryne/sd-webui-colab</id>
-    <link href="https://github.com/altryne/sd-webui-colab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repo for the maintenance of the Colab version of stable-diffusion-webui repo&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Colab version of the amazing stable diffusion web ui repo located &lt;a href=&#34;https://github.com/hlky/stable-diffusion&#34;&gt;here&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;See the original repo for all the features&lt;/p&gt; &#xA;&lt;p&gt;This repo is for the maintenance of the Colab script itself&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb&#34;&gt;&lt;img src=&#34;https://colab.research.google.com/assets/colab-badge.svg?sanitize=true&#34; alt=&#34;Open In Colab&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Super simple to get started&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/463317/187118517-6c5cbe01-84d1-4e39-97e7-9ffd85c00d2a.jpg&#34; alt=&#34;CleanShot 2022-08-28 at 21 40 05@2x&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;After it loads everything, it &lt;strong&gt;WILL&lt;/strong&gt; fail and send you a notification, it&#39;s ok&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Download the stable diffusion model (s-d-v1-4.ckpt) file from &lt;a href=&#34;https://huggingface.co/CompVis/stable-diffusion-v1-4&#34;&gt;Hugging Face Stable Diffusion&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Create a folder in the root of your Google Drive and name it &lt;code&gt;AI&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Upload the downloaded file into Ai/models (create the models folder)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Then click Runtime -&amp;gt; Run After It will ask you to connect your google drive to find the model.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/463317/187119142-860634f0-2d55-4e6b-b54d-a7d8b510db36.jpg&#34; alt=&#34;CleanShot 2022-08-28 at 21 47 03@2x&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;The keep running the cells or again hit Runtime -&amp;gt; Run After&lt;/p&gt; &#xA;&lt;p&gt;After all cells have run, time to launcht he webui!&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/463317/187121016-26b24be2-3317-4f24-a8c0-5f917fa4ded2.jpg&#34; alt=&#34;CleanShot 2022-08-28 at 22 05 13@2x&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;TADA&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/463317/187121044-40210fd8-ca80-4bab-bd90-3b749e06c8fb.jpg&#34; alt=&#34;CleanShot 2022-08-28 at 22 06 42@2x&#34;&gt;&lt;/p&gt;</summary>
+    <title>pinilpypinilpy/sd-webui-colab-simplified</title>
+    <updated>2022-09-02T01:34:42Z</updated>
+    <id>tag:github.com,2022-09-02:/pinilpypinilpy/sd-webui-colab-simplified</id>
+    <link href="https://github.com/pinilpypinilpy/sd-webui-colab-simplified" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A one-click version of sd-webui-colab&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple Colab version of the amazing stable diffusion web ui repo located &lt;a href=&#34;https://github.com/hlky/stable-diffusion&#34;&gt;here&lt;/a&gt; and based off of the original Colab found &lt;a href=&#34;https://github.com/altryne/sd-webui-colab&#34;&gt;here&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://colab.research.google.com/github/pinilpypinilpy/sd-webui-colab-simplified/blob/main/Stable_Diffusion_WebUi_Simplified.ipynb&#34;&gt;&lt;img src=&#34;https://colab.research.google.com/assets/colab-badge.svg?sanitize=true&#34; alt=&#34;Open In Colab&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Super simple to get started&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Follow the links to accept the terms for the model and get a token, then paste it into the field below the links.&lt;/li&gt; &#xA; &lt;li&gt;Optionally enter a password for the webserver.&lt;/li&gt; &#xA; &lt;li&gt;If you want easy access to the images you generate, check &#34;mount_google_drive&#34; then specify the location (anything after /content/drive/MyDrive/ is what you see when you open google drive normally).&lt;/li&gt; &#xA; &lt;li&gt;Click the little play icon, and wait a few minutes until the &#34;&lt;em&gt;random number&lt;/em&gt;.gradio.app&#34; link shows up at the bottom of the lines of code (you&#39;ll have to scroll a bit). If you entered a share password, the username is &#34;webui&#34;.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;TADA&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/463317/187121044-40210fd8-ca80-4bab-bd90-3b749e06c8fb.jpg&#34; alt=&#34;CleanShot 2022-08-28 at 22 06 42@2x&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

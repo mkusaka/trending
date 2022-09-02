@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:36:08Z</updated>
+  <updated>2022-09-02T01:35:44Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DarkCoderSc/SubSeven</title>
-    <updated>2022-09-01T01:36:08Z</updated>
-    <id>tag:github.com,2022-09-01:/DarkCoderSc/SubSeven</id>
-    <link href="https://github.com/DarkCoderSc/SubSeven" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SubSeven Legacy Official Source Code Repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EtheaDev/DelphiGoogleMap</title>
+    <updated>2022-09-02T01:35:44Z</updated>
+    <id>tag:github.com,2022-09-02:/EtheaDev/DelphiGoogleMap</id>
+    <link href="https://github.com/EtheaDev/DelphiGoogleMap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi WebView2 Component to View Google Map with Routing and Markers Support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mateoconlechuga/cesium</title>
+    <updated>2022-09-02T01:35:44Z</updated>
+    <id>tag:github.com,2022-09-02:/mateoconlechuga/cesium</id>
+    <link href="https://github.com/mateoconlechuga/cesium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A GUI shell for the TI-84+CE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

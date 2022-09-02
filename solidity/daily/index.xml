@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:38:04Z</updated>
+  <updated>2022-09-02T01:37:39Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>unhackedctf/schnoodle</title>
-    <updated>2022-09-01T01:38:04Z</updated>
-    <id>tag:github.com,2022-09-01:/unhackedctf/schnoodle</id>
-    <link href="https://github.com/unhackedctf/schnoodle" rel="alternate"></link>
+    <title>karmacoma-eth/snow-computer-club</title>
+    <updated>2022-09-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-09-02:/karmacoma-eth/snow-computer-club</id>
+    <link href="https://github.com/karmacoma-eth/snow-computer-club" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>polymerdao/plonky2-solidity-verifier</title>
-    <updated>2022-09-01T01:38:04Z</updated>
-    <id>tag:github.com,2022-09-01:/polymerdao/plonky2-solidity-verifier</id>
-    <link href="https://github.com/polymerdao/plonky2-solidity-verifier" rel="alternate"></link>
+    <title>sonnysangha/lottery-smart-contract</title>
+    <updated>2022-09-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-09-02:/sonnysangha/lottery-smart-contract</id>
+    <link href="https://github.com/sonnysangha/lottery-smart-contract" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sentimentxyz/protocol</title>
-    <updated>2022-09-01T01:38:04Z</updated>
-    <id>tag:github.com,2022-09-01:/sentimentxyz/protocol</id>
-    <link href="https://github.com/sentimentxyz/protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core Protocol Repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>theblockchainchief/web3-hub</title>
+    <updated>2022-09-02T01:37:39Z</updated>
+    <id>tag:github.com,2022-09-02:/theblockchainchief/web3-hub</id>
+    <link href="https://github.com/theblockchainchief/web3-hub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ready to use smart contracts and web3 scripts to ease your Blockchain Development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

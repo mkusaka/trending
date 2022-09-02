@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:39:00Z</updated>
+  <updated>2022-09-02T01:38:36Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Couy69/vue-idle-game</title>
-    <updated>2022-09-01T01:39:00Z</updated>
-    <id>tag:github.com,2022-09-01:/Couy69/vue-idle-game</id>
-    <link href="https://github.com/Couy69/vue-idle-game" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个全随机的刷装备小游戏&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/ImagineCup</title>
+    <updated>2022-09-02T01:38:36Z</updated>
+    <id>tag:github.com,2022-09-02:/microsoft/ImagineCup</id>
+    <link href="https://github.com/microsoft/ImagineCup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources to help you enter, and perhaps win, the Imagine Cup, a worldwide event by Microsoft&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aws-samples/aws-serverless-airline-booking</title>
+    <updated>2022-09-02T01:38:36Z</updated>
+    <id>tag:github.com,2022-09-02:/aws-samples/aws-serverless-airline-booking</id>
+    <link href="https://github.com/aws-samples/aws-serverless-airline-booking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD. This web application was the theme of Build on Serverless Season 2 on AWS Twitch running from April 24th until end of August in 2019.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

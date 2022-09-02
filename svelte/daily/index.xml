@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:38:12Z</updated>
+  <updated>2022-09-02T01:37:47Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>the-pudding/censorship</title>
-    <updated>2022-09-01T01:38:12Z</updated>
-    <id>tag:github.com,2022-09-01:/the-pudding/censorship</id>
-    <link href="https://github.com/the-pudding/censorship" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Zakrok09/RoTUer</title>
+    <updated>2022-09-02T01:37:47Z</updated>
+    <id>tag:github.com,2022-09-02:/Zakrok09/RoTUer</id>
+    <link href="https://github.com/Zakrok09/RoTUer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a group project made by eccy, dinu, thijs, thefallenking, dimitursm which focuses on helping students in TU Delft 🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yashash1511/win11Svelte</title>
-    <updated>2022-09-01T01:38:12Z</updated>
-    <id>tag:github.com,2022-09-01:/yashash1511/win11Svelte</id>
-    <link href="https://github.com/yashash1511/win11Svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows 11 recreated with Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mkpoli/word-order</title>
+    <updated>2022-09-02T01:37:47Z</updated>
+    <id>tag:github.com,2022-09-02:/mkpoli/word-order</id>
+    <link href="https://github.com/mkpoli/word-order" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

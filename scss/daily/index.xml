@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:37:40Z</updated>
+  <updated>2022-09-02T01:37:13Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vinceliuice/Nephrite-gtk-theme</title>
-    <updated>2022-09-01T01:37:40Z</updated>
-    <id>tag:github.com,2022-09-01:/vinceliuice/Nephrite-gtk-theme</id>
-    <link href="https://github.com/vinceliuice/Nephrite-gtk-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nephrite gtk theme for linux&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eNote-GmbH/enote-dashboard</title>
+    <updated>2022-09-02T01:37:13Z</updated>
+    <id>tag:github.com,2022-09-02:/eNote-GmbH/enote-dashboard</id>
+    <link href="https://github.com/eNote-GmbH/enote-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;enote-dashboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>muk-it/muk_web</title>
-    <updated>2022-09-01T01:37:40Z</updated>
-    <id>tag:github.com,2022-09-01:/muk-it/muk_web</id>
-    <link href="https://github.com/muk-it/muk_web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MuK Odoo Web Modules&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BDHU/minimalist</title>
+    <updated>2022-09-02T01:37:13Z</updated>
+    <id>tag:github.com,2022-09-02:/BDHU/minimalist</id>
+    <link href="https://github.com/BDHU/minimalist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimalist is a Jekyll theme inspired by the Minimal theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

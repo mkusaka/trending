@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-01T01:34:41Z</updated>
+  <updated>2022-09-02T01:34:39Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>appuio/component-openshift4-slos</title>
-    <updated>2022-09-01T01:34:41Z</updated>
-    <id>tag:github.com,2022-09-01:/appuio/component-openshift4-slos</id>
-    <link href="https://github.com/appuio/component-openshift4-slos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SLOs for APPUiO Managed OCP4 Clusters&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
