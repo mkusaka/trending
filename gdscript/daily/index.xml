@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:33:07Z</updated>
+  <updated>2022-09-03T01:35:44Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>scienceacademy/physics_example</title>
-    <updated>2022-09-02T01:33:07Z</updated>
-    <id>tag:github.com,2022-09-02:/scienceacademy/physics_example</id>
-    <link href="https://github.com/scienceacademy/physics_example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GTcreyon/SM63Redux</title>
+    <updated>2022-09-03T01:35:44Z</updated>
+    <id>tag:github.com,2022-09-03:/GTcreyon/SM63Redux</id>
+    <link href="https://github.com/GTcreyon/SM63Redux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code base for Super Mario 63 Redux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

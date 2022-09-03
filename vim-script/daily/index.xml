@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:38:34Z</updated>
+  <updated>2022-09-03T01:41:53Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Shopify/shadowenv.vim</title>
-    <updated>2022-09-02T01:38:34Z</updated>
-    <id>tag:github.com,2022-09-02:/Shopify/shadowenv.vim</id>
-    <link href="https://github.com/Shopify/shadowenv.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shadowenv integration for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cujojp/hydrogen</title>
+    <updated>2022-09-03T01:41:53Z</updated>
+    <id>tag:github.com,2022-09-03:/cujojp/hydrogen</id>
+    <link href="https://github.com/cujojp/hydrogen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The most basic building block of my workflow: vim configurations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jamessan/vim-gnupg</title>
+    <updated>2022-09-03T01:41:53Z</updated>
+    <id>tag:github.com,2022-09-03:/jamessan/vim-gnupg</id>
+    <link href="https://github.com/jamessan/vim-gnupg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This script implements transparent editing of gpg encrypted files.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>milisims/nvim-luaref</title>
+    <updated>2022-09-03T01:41:53Z</updated>
+    <id>tag:github.com,2022-09-03:/milisims/nvim-luaref</id>
+    <link href="https://github.com/milisims/nvim-luaref" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add a vim :help reference for lua&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

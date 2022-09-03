@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:37:39Z</updated>
+  <updated>2022-09-03T01:40:48Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>karmacoma-eth/snow-computer-club</title>
-    <updated>2022-09-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-09-02:/karmacoma-eth/snow-computer-club</id>
-    <link href="https://github.com/karmacoma-eth/snow-computer-club" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>a16z/a16z-contracts</title>
+    <updated>2022-09-03T01:40:48Z</updated>
+    <id>tag:github.com,2022-09-03:/a16z/a16z-contracts</id>
+    <link href="https://github.com/a16z/a16z-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a16z Contracts is a library for solidity contracts, including licenses&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sonnysangha/lottery-smart-contract</title>
-    <updated>2022-09-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-09-02:/sonnysangha/lottery-smart-contract</id>
-    <link href="https://github.com/sonnysangha/lottery-smart-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>para-space/paraspace-core</title>
+    <updated>2022-09-03T01:40:48Z</updated>
+    <id>tag:github.com,2022-09-03:/para-space/paraspace-core</id>
+    <link href="https://github.com/para-space/paraspace-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Para-Space NFT Money Market Protocol&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>theblockchainchief/web3-hub</title>
-    <updated>2022-09-02T01:37:39Z</updated>
-    <id>tag:github.com,2022-09-02:/theblockchainchief/web3-hub</id>
-    <link href="https://github.com/theblockchainchief/web3-hub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ready to use smart contracts and web3 scripts to ease your Blockchain Development&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Dragonfly-Capital/useful-solidity-patterns</title>
+    <updated>2022-09-03T01:40:48Z</updated>
+    <id>tag:github.com,2022-09-03:/Dragonfly-Capital/useful-solidity-patterns</id>
+    <link href="https://github.com/Dragonfly-Capital/useful-solidity-patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:32:07Z</updated>
+  <updated>2022-09-03T01:34:33Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lambdaisland/witchcraft-workshop</title>
-    <updated>2022-09-02T01:32:07Z</updated>
-    <id>tag:github.com,2022-09-02:/lambdaisland/witchcraft-workshop</id>
-    <link href="https://github.com/lambdaisland/witchcraft-workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;materials and code for the ClojureD 2022 workshop on Minecraft+Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lambdaisland/witchcraft</title>
-    <updated>2022-09-02T01:32:07Z</updated>
-    <id>tag:github.com,2022-09-02:/lambdaisland/witchcraft</id>
-    <link href="https://github.com/lambdaisland/witchcraft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure API for manipulating Minecraft, based on Bukkit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lahorichargha/sphinxure</title>
-    <updated>2022-09-02T01:32:07Z</updated>
-    <id>tag:github.com,2022-09-02:/lahorichargha/sphinxure</id>
-    <link href="https://github.com/lahorichargha/sphinxure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure wrapper for the Sphinx Search API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>byatool/ClojureExamples</title>
+    <updated>2022-09-03T01:34:33Z</updated>
+    <id>tag:github.com,2022-09-03:/byatool/ClojureExamples</id>
+    <link href="https://github.com/byatool/ClojureExamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is for housing various Clojure Examples... duh&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

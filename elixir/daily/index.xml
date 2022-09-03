@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:32:49Z</updated>
+  <updated>2022-09-03T01:35:17Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>novuhq/elixir</title>
-    <updated>2022-09-02T01:32:49Z</updated>
-    <id>tag:github.com,2022-09-02:/novuhq/elixir</id>
-    <link href="https://github.com/novuhq/elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir SDK for Novu&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kipcole9/tempo</title>
+    <updated>2022-09-03T01:35:17Z</updated>
+    <id>tag:github.com,2022-09-03:/kipcole9/tempo</id>
+    <link href="https://github.com/kipcole9/tempo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Date/Time library for Elixir based upon intervals not instants&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rentpath/slack_queue_bot</title>
-    <updated>2022-09-02T01:32:49Z</updated>
-    <id>tag:github.com,2022-09-02:/rentpath/slack_queue_bot</id>
-    <link href="https://github.com/rentpath/slack_queue_bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>discord/manifold</title>
+    <updated>2022-09-03T01:35:17Z</updated>
+    <id>tag:github.com,2022-09-03:/discord/manifold</id>
+    <link href="https://github.com/discord/manifold" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast batch message passing between nodes for Erlang/Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

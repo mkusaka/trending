@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Idris Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:33:57Z</updated>
+  <updated>2022-09-03T01:36:32Z</updated>
   <subtitle>Daily Trending of Idris in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>stefan-hoeck/idris2-elab-util</title>
-    <updated>2022-09-02T01:33:57Z</updated>
-    <id>tag:github.com,2022-09-02:/stefan-hoeck/idris2-elab-util</id>
-    <link href="https://github.com/stefan-hoeck/idris2-elab-util" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilities and documentation for exploring idirs2&#39;s new elaborator reflection.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

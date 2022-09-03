@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:38:31Z</updated>
+  <updated>2022-09-03T01:41:51Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TejasBN28/iiitb_gc</title>
-    <updated>2022-09-02T01:38:31Z</updated>
-    <id>tag:github.com,2022-09-02:/TejasBN28/iiitb_gc</id>
-    <link href="https://github.com/TejasBN28/iiitb_gc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Physical Design of a gray counter implemented with skywater 130 pdk&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cornell-ece4750/ece4750-tut3-verilog</title>
+    <updated>2022-09-03T01:41:51Z</updated>
+    <id>tag:github.com,2022-09-03:/cornell-ece4750/ece4750-tut3-verilog</id>
+    <link href="https://github.com/cornell-ece4750/ece4750-tut3-verilog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ECE 4750 Tutorial 3: Verilog Hardware Description Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sfmth/ibnalhaytham</title>
-    <updated>2022-09-02T01:38:31Z</updated>
-    <id>tag:github.com,2022-09-02:/sfmth/ibnalhaytham</id>
-    <link href="https://github.com/sfmth/ibnalhaytham" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;32-bit RISC-V based processor with memory controler&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DantuNandiniDevi/iiitb_freqdiv</title>
+    <updated>2022-09-03T01:41:51Z</updated>
+    <id>tag:github.com,2022-09-03:/DantuNandiniDevi/iiitb_freqdiv</id>
+    <link href="https://github.com/DantuNandiniDevi/iiitb_freqdiv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a frequency divider model&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fredrequin/verilator_xilinx</title>
-    <updated>2022-09-02T01:38:31Z</updated>
-    <id>tag:github.com,2022-09-02:/fredrequin/verilator_xilinx</id>
-    <link href="https://github.com/fredrequin/verilator_xilinx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Re-coded Xilinx primitives for Verilator use&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>simbricks/simbricks</title>
+    <updated>2022-09-03T01:41:51Z</updated>
+    <id>tag:github.com,2022-09-03:/simbricks/simbricks</id>
+    <link href="https://github.com/simbricks/simbricks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Main Repository for the SimBricks Modular Full-System Simulation Framework.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

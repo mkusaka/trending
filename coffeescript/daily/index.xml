@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:32:12Z</updated>
+  <updated>2022-09-03T01:34:38Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rodriguezartav/rodriguezartav-site</title>
-    <updated>2022-09-02T01:32:12Z</updated>
-    <id>tag:github.com,2022-09-02:/rodriguezartav/rodriguezartav-site</id>
-    <link href="https://github.com/rodriguezartav/rodriguezartav-site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal Web Site&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>slicksik/gmaps</title>
+    <updated>2022-09-03T01:34:38Z</updated>
+    <id>tag:github.com,2022-09-03:/slicksik/gmaps</id>
+    <link href="https://github.com/slicksik/gmaps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jsvana/decoded</title>
-    <updated>2022-09-02T01:32:12Z</updated>
-    <id>tag:github.com,2022-09-02:/jsvana/decoded</id>
-    <link href="https://github.com/jsvana/decoded" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A backend for a web text editor written in Node.js, CoffeeScript, Jade, and Stylus.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Echo3ToEcho7/RallyRestAPI.js</title>
+    <updated>2022-09-03T01:34:38Z</updated>
+    <id>tag:github.com,2022-09-03:/Echo3ToEcho7/RallyRestAPI.js</id>
+    <link href="https://github.com/Echo3ToEcho7/RallyRestAPI.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Thin wrapper around Rally&#39;s REST API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:37:47Z</updated>
+  <updated>2022-09-03T01:40:55Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Zakrok09/RoTUer</title>
-    <updated>2022-09-02T01:37:47Z</updated>
-    <id>tag:github.com,2022-09-02:/Zakrok09/RoTUer</id>
-    <link href="https://github.com/Zakrok09/RoTUer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a group project made by eccy, dinu, thijs, thefallenking, dimitursm which focuses on helping students in TU Delft 🔥&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mkpoli/word-order</title>
-    <updated>2022-09-02T01:37:47Z</updated>
-    <id>tag:github.com,2022-09-02:/mkpoli/word-order</id>
-    <link href="https://github.com/mkpoli/word-order" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bkalendar/bkalendar.github.io</title>
+    <updated>2022-09-03T01:40:55Z</updated>
+    <id>tag:github.com,2022-09-03:/bkalendar/bkalendar.github.io</id>
+    <link href="https://github.com/bkalendar/bkalendar.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bring your timetable to Google Calendar&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

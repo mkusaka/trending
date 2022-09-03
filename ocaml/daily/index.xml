@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:35:39Z</updated>
+  <updated>2022-09-03T01:38:45Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>berkeley-cs164-2022/class-compiler-f22</title>
-    <updated>2022-09-02T01:35:39Z</updated>
-    <id>tag:github.com,2022-09-02:/berkeley-cs164-2022/class-compiler-f22</id>
-    <link href="https://github.com/berkeley-cs164-2022/class-compiler-f22" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>coq-tactician/coq-tactician-reinforce</title>
-    <updated>2022-09-02T01:35:39Z</updated>
-    <id>tag:github.com,2022-09-02:/coq-tactician/coq-tactician-reinforce</id>
-    <link href="https://github.com/coq-tactician/coq-tactician-reinforce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imandra-ai/imandra-prelude</title>
+    <updated>2022-09-03T01:38:45Z</updated>
+    <id>tag:github.com,2022-09-03:/imandra-ai/imandra-prelude</id>
+    <link href="https://github.com/imandra-ai/imandra-prelude" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extracted version of imandra&#39;s prelude&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

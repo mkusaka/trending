@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:36:09Z</updated>
+  <updated>2022-09-03T01:39:21Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>olafhartong/MDE-AuditCheck</title>
+    <updated>2022-09-03T01:39:21Z</updated>
+    <id>tag:github.com,2022-09-03:/olafhartong/MDE-AuditCheck</id>
+    <link href="https://github.com/olafhartong/MDE-AuditCheck" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MDE relies on some of the Audit settings to be enabled&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MDE-AuditCheck&lt;/h1&gt; &#xA;&lt;p&gt;Makes sure all audit settings MDE relies on are properly set in the GPO&lt;/p&gt; &#xA;&lt;p&gt;The script relies on the Remote Server Administration Tools (RSAT).&lt;/p&gt;</summary>
+  </entry>
 </feed>

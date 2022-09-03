@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:31:25Z</updated>
+  <updated>2022-09-03T01:33:44Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NightmareXIV/MyDalamudPlugins</title>
-    <updated>2022-09-02T01:31:25Z</updated>
-    <id>tag:github.com,2022-09-02:/NightmareXIV/MyDalamudPlugins</id>
-    <link href="https://github.com/NightmareXIV/MyDalamudPlugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of my personal Dalamud plugins, made for myself, shared for everyone.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mave14/Roblox-Robux-Generator</title>
+    <updated>2022-09-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-03:/Mave14/Roblox-Robux-Generator</id>
+    <link href="https://github.com/Mave14/Roblox-Robux-Generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Roblox Robux Generator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dimonbavly/jetbrains-activator</title>
-    <updated>2022-09-02T01:31:25Z</updated>
-    <id>tag:github.com,2022-09-02:/dimonbavly/jetbrains-activator</id>
-    <link href="https://github.com/dimonbavly/jetbrains-activator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JetBrains License Server Activator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mave14/SenoxCheat-Apex-Legends</title>
+    <updated>2022-09-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-03:/Mave14/SenoxCheat-Apex-Legends</id>
+    <link href="https://github.com/Mave14/SenoxCheat-Apex-Legends" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SenoxCheat - Undetected cheat for Apex Legends&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LuciVera1/BloxFlip-Predictor</title>
-    <updated>2022-09-02T01:31:25Z</updated>
-    <id>tag:github.com,2022-09-02:/LuciVera1/BloxFlip-Predictor</id>
-    <link href="https://github.com/LuciVera1/BloxFlip-Predictor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free BloxFlip Preditcor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mave14/VeronaCheat-Fortnite</title>
+    <updated>2022-09-03T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-03:/Mave14/VeronaCheat-Fortnite</id>
+    <link href="https://github.com/Mave14/VeronaCheat-Fortnite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fortnite AImbot, Visuals, misc - UNDETECTED - Bypasses EAC&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

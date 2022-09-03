@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:32:03Z</updated>
+  <updated>2022-09-03T01:34:29Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>amanusk/cairo-paradigm-ctf</title>
-    <updated>2022-09-02T01:32:03Z</updated>
-    <id>tag:github.com,2022-09-02:/amanusk/cairo-paradigm-ctf</id>
-    <link href="https://github.com/amanusk/cairo-paradigm-ctf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solutions and scripts for Cairo Challenges of Paradigm CTF 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bitcoin-stark/khepri</title>
+    <updated>2022-09-03T01:34:29Z</updated>
+    <id>tag:github.com,2022-09-03:/bitcoin-stark/khepri</id>
+    <link href="https://github.com/bitcoin-stark/khepri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;STARK-proven Stateful Bitcoin client enabling hyper fast trustless sync and checkpoints.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

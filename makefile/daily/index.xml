@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:35:12Z</updated>
+  <updated>2022-09-03T01:38:14Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uw-x/watercomms</title>
-    <updated>2022-09-02T01:35:12Z</updated>
-    <id>tag:github.com,2022-09-02:/uw-x/watercomms</id>
-    <link href="https://github.com/uw-x/watercomms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ezcmd/flask-demo-kustomize</title>
+    <updated>2022-09-03T01:38:14Z</updated>
+    <id>tag:github.com,2022-09-03:/ezcmd/flask-demo-kustomize</id>
+    <link href="https://github.com/ezcmd/flask-demo-kustomize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gitops of flask demo with kustomize&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LineageOS/android_build</title>
-    <updated>2022-09-02T01:35:12Z</updated>
-    <id>tag:github.com,2022-09-02:/LineageOS/android_build</id>
-    <link href="https://github.com/LineageOS/android_build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clever/gitsem</title>
-    <updated>2022-09-02T01:35:12Z</updated>
-    <id>tag:github.com,2022-09-02:/Clever/gitsem</id>
-    <link href="https://github.com/Clever/gitsem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a command line utility for managing semantically versioned (semver) git tags&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>teaxyz/white-paper</title>
+    <updated>2022-09-03T01:38:14Z</updated>
+    <id>tag:github.com,2022-09-03:/teaxyz/white-paper</id>
+    <link href="https://github.com/teaxyz/white-paper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The tea White Paper&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

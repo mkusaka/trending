@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:32:47Z</updated>
+  <updated>2022-09-03T01:35:15Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oaksandspokes/bike-counter</title>
+    <updated>2022-09-03T01:35:15Z</updated>
+    <id>tag:github.com,2022-09-03:/oaksandspokes/bike-counter</id>
+    <link href="https://github.com/oaksandspokes/bike-counter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Bike Counter Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>caliphdev/filezone-v2</title>
+    <updated>2022-09-03T01:35:15Z</updated>
+    <id>tag:github.com,2022-09-03:/caliphdev/filezone-v2</id>
+    <link href="https://github.com/caliphdev/filezone-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;File Uploader by CaliphDev&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

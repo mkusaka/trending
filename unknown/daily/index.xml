@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-02T01:30:50Z</updated>
+  <updated>2022-09-03T01:33:22Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mstrYoda/kubernetes-kitap</title>
-    <updated>2022-09-02T01:30:50Z</updated>
-    <id>tag:github.com,2022-09-02:/mstrYoda/kubernetes-kitap</id>
-    <link href="https://github.com/mstrYoda/kubernetes-kitap" rel="alternate"></link>
+    <title>lz520520/railgun</title>
+    <updated>2022-09-03T01:33:22Z</updated>
+    <id>tag:github.com,2022-09-03:/lz520520/railgun</id>
+    <link href="https://github.com/lz520520/railgun" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>priyankavergadia/google-cloud-4-words</title>
-    <updated>2022-09-02T01:30:50Z</updated>
-    <id>tag:github.com,2022-09-02:/priyankavergadia/google-cloud-4-words</id>
-    <link href="https://github.com/priyankavergadia/google-cloud-4-words" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Google Cloud Developer&#39;s Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/Windows-classic-samples</title>
+    <updated>2022-09-03T01:33:22Z</updated>
+    <id>tag:github.com,2022-09-03:/microsoft/Windows-classic-samples</id>
+    <link href="https://github.com/microsoft/Windows-classic-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo contains samples that demonstrate the API used in Windows classic desktop applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tomhuang12/awesome-k8s-resources</title>
-    <updated>2022-09-02T01:30:50Z</updated>
-    <id>tag:github.com,2022-09-02:/tomhuang12/awesome-k8s-resources</id>
-    <link href="https://github.com/tomhuang12/awesome-k8s-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome Kubernetes tools and resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kirbyguy22/engine-sim-garage</title>
+    <updated>2022-09-03T01:33:22Z</updated>
+    <id>tag:github.com,2022-09-03:/kirbyguy22/engine-sim-garage</id>
+    <link href="https://github.com/kirbyguy22/engine-sim-garage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for custom parts and engines for AngeTheGreat&#39;s Engine Simulator: https://github.com/ange-yaghi/engine-sim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
