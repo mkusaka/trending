@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:43:10Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>access-company/antikythera</title>
+    <updated>2022-09-04T01:43:10Z</updated>
+    <id>tag:github.com,2022-09-04:/access-company/antikythera</id>
+    <link href="https://github.com/access-company/antikythera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir framework to build your own in-house PaaS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>h4cc/awesome-elixir</title>
+    <updated>2022-09-04T01:43:10Z</updated>
+    <id>tag:github.com,2022-09-04:/h4cc/awesome-elixir</id>
+    <link href="https://github.com/h4cc/awesome-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rentpath/slack_queue_bot</title>
+    <updated>2022-09-04T01:43:10Z</updated>
+    <id>tag:github.com,2022-09-04:/rentpath/slack_queue_bot</id>
+    <link href="https://github.com/rentpath/slack_queue_bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

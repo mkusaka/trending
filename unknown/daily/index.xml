@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:33:22Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-09-04T01:34:07Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lz520520/railgun</title>
-    <updated>2022-09-03T01:33:22Z</updated>
-    <id>tag:github.com,2022-09-03:/lz520520/railgun</id>
-    <link href="https://github.com/lz520520/railgun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>community/community</title>
+    <updated>2022-09-04T01:34:07Z</updated>
+    <id>tag:github.com,2022-09-04:/community/community</id>
+    <link href="https://github.com/community/community" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/Windows-classic-samples</title>
-    <updated>2022-09-03T01:33:22Z</updated>
-    <id>tag:github.com,2022-09-03:/microsoft/Windows-classic-samples</id>
-    <link href="https://github.com/microsoft/Windows-classic-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo contains samples that demonstrate the API used in Windows classic desktop applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ValveSoftware/Dota2-Gameplay</title>
+    <updated>2022-09-04T01:34:07Z</updated>
+    <id>tag:github.com,2022-09-04:/ValveSoftware/Dota2-Gameplay</id>
+    <link href="https://github.com/ValveSoftware/Dota2-Gameplay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public Bug Tracker for Dota2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kirbyguy22/engine-sim-garage</title>
-    <updated>2022-09-03T01:33:22Z</updated>
-    <id>tag:github.com,2022-09-03:/kirbyguy22/engine-sim-garage</id>
-    <link href="https://github.com/kirbyguy22/engine-sim-garage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for custom parts and engines for AngeTheGreat&#39;s Engine Simulator: https://github.com/ange-yaghi/engine-sim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>awesome-stable-diffusion/awesome-stable-diffusion</title>
+    <updated>2022-09-04T01:34:07Z</updated>
+    <id>tag:github.com,2022-09-04:/awesome-stable-diffusion/awesome-stable-diffusion</id>
+    <link href="https://github.com/awesome-stable-diffusion/awesome-stable-diffusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of awesome resources for the Stable Diffusion AI Model.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

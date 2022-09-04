@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cuda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:42:37Z</updated>
+  <subtitle>Weekly Trending of Cuda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>postgresml/postgresml</title>
+    <updated>2022-09-04T01:42:37Z</updated>
+    <id>tag:github.com,2022-09-04:/postgresml/postgresml</id>
+    <link href="https://github.com/postgresml/postgresml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

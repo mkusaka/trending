@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:40:48Z</updated>
+  <updated>2022-09-04T01:40:23Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>a16z/a16z-contracts</title>
-    <updated>2022-09-03T01:40:48Z</updated>
-    <id>tag:github.com,2022-09-03:/a16z/a16z-contracts</id>
-    <link href="https://github.com/a16z/a16z-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a16z Contracts is a library for solidity contracts, including licenses&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>whitenois3/huff-snark-verifier</title>
+    <updated>2022-09-04T01:40:23Z</updated>
+    <id>tag:github.com,2022-09-04:/whitenois3/huff-snark-verifier</id>
+    <link href="https://github.com/whitenois3/huff-snark-verifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate an optimized Groth16 SNARK verification smart contract for use on EVM-based blockchains.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>para-space/paraspace-core</title>
-    <updated>2022-09-03T01:40:48Z</updated>
-    <id>tag:github.com,2022-09-03:/para-space/paraspace-core</id>
-    <link href="https://github.com/para-space/paraspace-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Para-Space NFT Money Market Protocol&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Dragonfly-Capital/useful-solidity-patterns</title>
-    <updated>2022-09-03T01:40:48Z</updated>
-    <id>tag:github.com,2022-09-03:/Dragonfly-Capital/useful-solidity-patterns</id>
-    <link href="https://github.com/Dragonfly-Capital/useful-solidity-patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LearnWeb3DAO/14-Days-of-Solidity</title>
+    <updated>2022-09-04T01:40:23Z</updated>
+    <id>tag:github.com,2022-09-04:/LearnWeb3DAO/14-Days-of-Solidity</id>
+    <link href="https://github.com/LearnWeb3DAO/14-Days-of-Solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Follow along with the &#34;14 Days of Solidity&#34; challenge with our instructors, Larry Cutts and Sahil Ahuja&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

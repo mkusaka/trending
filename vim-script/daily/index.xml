@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:41:53Z</updated>
+  <updated>2022-09-04T01:41:11Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cujojp/hydrogen</title>
-    <updated>2022-09-03T01:41:53Z</updated>
-    <id>tag:github.com,2022-09-03:/cujojp/hydrogen</id>
-    <link href="https://github.com/cujojp/hydrogen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The most basic building block of my workflow: vim configurations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hrsh7th/vim-vsnip-integ</title>
+    <updated>2022-09-04T01:41:11Z</updated>
+    <id>tag:github.com,2022-09-04:/hrsh7th/vim-vsnip-integ</id>
+    <link href="https://github.com/hrsh7th/vim-vsnip-integ" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim-vsnip integrations to other plugins.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jamessan/vim-gnupg</title>
-    <updated>2022-09-03T01:41:53Z</updated>
-    <id>tag:github.com,2022-09-03:/jamessan/vim-gnupg</id>
-    <link href="https://github.com/jamessan/vim-gnupg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This script implements transparent editing of gpg encrypted files.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prabirshrestha/asyncomplete-lsp.vim</title>
+    <updated>2022-09-04T01:41:11Z</updated>
+    <id>tag:github.com,2022-09-04:/prabirshrestha/asyncomplete-lsp.vim</id>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>milisims/nvim-luaref</title>
-    <updated>2022-09-03T01:41:53Z</updated>
-    <id>tag:github.com,2022-09-03:/milisims/nvim-luaref</id>
-    <link href="https://github.com/milisims/nvim-luaref" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add a vim :help reference for lua&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kana/vim-operator-user</title>
+    <updated>2022-09-04T01:41:11Z</updated>
+    <id>tag:github.com,2022-09-04:/kana/vim-operator-user</id>
+    <link href="https://github.com/kana/vim-operator-user" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin: Define your own operator easily&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

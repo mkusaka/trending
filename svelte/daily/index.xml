@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:40:55Z</updated>
+  <updated>2022-09-04T01:40:30Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bkalendar/bkalendar.github.io</title>
-    <updated>2022-09-03T01:40:55Z</updated>
-    <id>tag:github.com,2022-09-03:/bkalendar/bkalendar.github.io</id>
-    <link href="https://github.com/bkalendar/bkalendar.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bring your timetable to Google Calendar&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rezaaa/biainobokhor</title>
+    <updated>2022-09-04T01:40:30Z</updated>
+    <id>tag:github.com,2022-09-04:/rezaaa/biainobokhor</id>
+    <link href="https://github.com/rezaaa/biainobokhor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

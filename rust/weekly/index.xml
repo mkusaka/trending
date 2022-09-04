@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:47:18Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>0x192/universal-android-debloater</title>
+    <updated>2022-09-04T01:47:18Z</updated>
+    <id>tag:github.com,2022-09-04:/0x192/universal-android-debloater</id>
+    <link href="https://github.com/0x192/universal-android-debloater" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CleanCut/ultimate_rust_crash_course</title>
+    <updated>2022-09-04T01:47:18Z</updated>
+    <id>tag:github.com,2022-09-04:/CleanCut/ultimate_rust_crash_course</id>
+    <link href="https://github.com/CleanCut/ultimate_rust_crash_course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust Programming Fundamentals - one course to rule them all, one course to find them...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>buckyos/CYFS</title>
+    <updated>2022-09-04T01:47:18Z</updated>
+    <id>tag:github.com,2022-09-04:/buckyos/CYFS</id>
+    <link href="https://github.com/buckyos/CYFS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CYFS is the next-generation technology to build real Web3 by upgrading the basic protocol of Web (TCP/IP+DNS+HTTP),is short for CYberFileSystem. https://www.cyfs.com/, cyfs://cyfs/index_en.html.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

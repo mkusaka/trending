@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:40:50Z</updated>
+  <updated>2022-09-04T01:40:24Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MinchinWeb/openttd-wmdot</title>
+    <updated>2022-09-04T01:40:24Z</updated>
+    <id>tag:github.com,2022-09-04:/MinchinWeb/openttd-wmdot</id>
+    <link href="https://github.com/MinchinWeb/openttd-wmdot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An AI for OpenTTD that doubles as your highway department!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:36:12Z</updated>
+  <updated>2022-09-04T01:36:26Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>YoshiCrafter29/Yoshi-Engine-code-samples</title>
+    <updated>2022-09-04T01:36:26Z</updated>
+    <id>tag:github.com,2022-09-04:/YoshiCrafter29/Yoshi-Engine-code-samples</id>
+    <link href="https://github.com/YoshiCrafter29/Yoshi-Engine-code-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Yoshi Engine code samples&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains all of the samples created for the engine, and it&#39;s use.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>PixelPounce/NMEXAndroidFix</title>
+    <updated>2022-09-04T01:36:26Z</updated>
+    <id>tag:github.com,2022-09-04:/PixelPounce/NMEXAndroidFix</id>
+    <link href="https://github.com/PixelPounce/NMEXAndroidFix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fixes some coding and configuration errors preventing ads on Android being displayed.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NMEX Android ads fix&lt;/h1&gt; &#xA;&lt;p&gt;Use &lt;a href=&#34;http://code.google.com/p/nmex/&#34;&gt;NMEX&lt;/a&gt; to incorporate ads into your NME applications.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;p&gt;Copy the nmex folder and the java folder to your src folder.&lt;/p&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;p&gt;Copy the &lt;code&gt;AndroidManifest.xml&lt;/code&gt;, &lt;code&gt;MainActivity.java&lt;/code&gt;, &lt;code&gt;Android&lt;/code&gt; folder and &lt;code&gt;application.nmml&lt;/code&gt; to your root project directory&lt;/p&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;p&gt;Go to your &lt;code&gt;Motion-Twin\haxe\lib\ nme\3,4,4\ templates\default\ android\ template\src\org\haxe\ nme&lt;/code&gt; folder and open the &lt;code&gt;MainView.java&lt;/code&gt;. Change the class to public. Then, open the &lt;code&gt;GameActivity.java&lt;/code&gt; and change the member variable &lt;code&gt;mView&lt;/code&gt; to public and &lt;code&gt;static GameActivity activity &lt;/code&gt; to &lt;code&gt; public static GameActivity activity&lt;/code&gt;.&lt;/p&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;p&gt;Go to your &lt;code&gt;C:\Motion-Twin\haxe\lib\ nme\3,4,4\ templates\default\ android\ template&lt;/code&gt; folder and open the &lt;code&gt;build.xml&lt;/code&gt; file. Change the target value to &lt;code&gt;android-13&lt;/code&gt;. You will need to ensure you have downloaded the Android 3.3 (android 13) SDK with the SDK manager.&lt;/p&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;p&gt;Create an Admob account. Click add new app/site and enter the details requested. Afterwards, click on manage and then you will see your publisherID.&lt;/p&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;p&gt;Call &lt;code&gt;AD.showAd()&lt;/code&gt; and pass in your publisherID &lt;/p&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;p&gt;Find your device ID by running logcat and examinine the output. This can be done by opening a command prompt, changing directory to your AndroidSDK platform tools and running &lt;code&gt;adb logcat &amp;gt; logcat.txt&lt;/code&gt;. Then run your app. After it has finished starting, close the command prompt and open the generated logcat.txt file. Search it for your device ID. Then, open the &lt;code&gt;AdActivity.java&lt;/code&gt; file in the com\pixelpounce\ads folder. Replace the &lt;code&gt;AdRequest.TEST_EMULATOR&lt;/code&gt; with your device id. Finally uncomment the &lt;code&gt;adView.loadAd(request)&lt;/code&gt;&lt;/p&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

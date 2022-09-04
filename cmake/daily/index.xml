@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:34:36Z</updated>
+  <updated>2022-09-04T01:35:07Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oceansystemslab/auv_msgs</title>
-    <updated>2022-09-03T01:34:36Z</updated>
-    <id>tag:github.com,2022-09-03:/oceansystemslab/auv_msgs</id>
-    <link href="https://github.com/oceansystemslab/auv_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standard messages used with Autonomous Underwater Vehicles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Polytonic/Glitter</title>
-    <updated>2022-09-03T01:34:36Z</updated>
-    <id>tag:github.com,2022-09-03:/Polytonic/Glitter</id>
-    <link href="https://github.com/Polytonic/Glitter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dead Simple OpenGL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>petejohanson/technikable-zmk-config</title>
+    <updated>2022-09-04T01:35:07Z</updated>
+    <id>tag:github.com,2022-09-04:/petejohanson/technikable-zmk-config</id>
+    <link href="https://github.com/petejohanson/technikable-zmk-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ZMK Config for Technikable&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

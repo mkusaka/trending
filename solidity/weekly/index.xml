@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:48:10Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>crytic/building-secure-contracts</title>
+    <updated>2022-09-04T01:48:10Z</updated>
+    <id>tag:github.com,2022-09-04:/crytic/building-secure-contracts</id>
+    <link href="https://github.com/crytic/building-secure-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guidelines and training material to write secure smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>solidproof/projects</title>
+    <updated>2022-09-04T01:48:10Z</updated>
+    <id>tag:github.com,2022-09-04:/solidproof/projects</id>
+    <link href="https://github.com/solidproof/projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-08-olympus</title>
+    <updated>2022-09-04T01:48:10Z</updated>
+    <id>tag:github.com,2022-09-04:/code-423n4/2022-08-olympus</id>
+    <link href="https://github.com/code-423n4/2022-08-olympus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

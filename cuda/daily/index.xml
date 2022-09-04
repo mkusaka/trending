@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:34:42Z</updated>
+  <updated>2022-09-04T01:35:13Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nicolaswilde/cuda-tensorcore-hgemm</title>
-    <updated>2022-09-03T01:34:42Z</updated>
-    <id>tag:github.com,2022-09-03:/nicolaswilde/cuda-tensorcore-hgemm</id>
-    <link href="https://github.com/nicolaswilde/cuda-tensorcore-hgemm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mit-han-lab/torchsparse</title>
+    <updated>2022-09-04T01:35:13Z</updated>
+    <id>tag:github.com,2022-09-04:/mit-han-lab/torchsparse</id>
+    <link href="https://github.com/mit-han-lab/torchsparse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[MLSys&#39;22] TorchSparse: Efficient Point Cloud Inference Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

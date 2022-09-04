@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:38:14Z</updated>
+  <updated>2022-09-04T01:38:02Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ezcmd/flask-demo-kustomize</title>
-    <updated>2022-09-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-09-03:/ezcmd/flask-demo-kustomize</id>
-    <link href="https://github.com/ezcmd/flask-demo-kustomize" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;gitops of flask demo with kustomize&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>teaxyz/white-paper</title>
-    <updated>2022-09-03T01:38:14Z</updated>
-    <id>tag:github.com,2022-09-03:/teaxyz/white-paper</id>
-    <link href="https://github.com/teaxyz/white-paper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The tea White Paper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>awesome-kusion/rust-code-book</title>
+    <updated>2022-09-04T01:38:02Z</updated>
+    <id>tag:github.com,2022-09-04:/awesome-kusion/rust-code-book</id>
+    <link href="https://github.com/awesome-kusion/rust-code-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 《Rust源码剖析》开源图书&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

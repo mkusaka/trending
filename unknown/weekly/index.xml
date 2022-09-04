@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:41:26Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mstrYoda/kubernetes-kitap</title>
+    <updated>2022-09-04T01:41:26Z</updated>
+    <id>tag:github.com,2022-09-04:/mstrYoda/kubernetes-kitap</id>
+    <link href="https://github.com/mstrYoda/kubernetes-kitap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>priyankavergadia/google-cloud-4-words</title>
+    <updated>2022-09-04T01:41:26Z</updated>
+    <id>tag:github.com,2022-09-04:/priyankavergadia/google-cloud-4-words</id>
+    <link href="https://github.com/priyankavergadia/google-cloud-4-words" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Google Cloud Developer&#39;s Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WebKit/WebKit</title>
+    <updated>2022-09-04T01:41:26Z</updated>
+    <id>tag:github.com,2022-09-04:/WebKit/WebKit</id>
+    <link href="https://github.com/WebKit/WebKit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

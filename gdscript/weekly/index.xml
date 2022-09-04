@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:43:25Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HarmonyHoney/tiny_crate</title>
+    <updated>2022-09-04T01:43:25Z</updated>
+    <id>tag:github.com,2022-09-04:/HarmonyHoney/tiny_crate</id>
+    <link href="https://github.com/HarmonyHoney/tiny_crate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot 3.5 / Precision Puzzle Platformer Game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>crystal-bit/godot-game-template</title>
+    <updated>2022-09-04T01:43:25Z</updated>
+    <id>tag:github.com,2022-09-04:/crystal-bit/godot-game-template</id>
+    <link href="https://github.com/crystal-bit/godot-game-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opinionated template for Godot 3.5&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:35:17Z</updated>
+  <updated>2022-09-04T01:35:45Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kipcole9/tempo</title>
-    <updated>2022-09-03T01:35:17Z</updated>
-    <id>tag:github.com,2022-09-03:/kipcole9/tempo</id>
-    <link href="https://github.com/kipcole9/tempo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Date/Time library for Elixir based upon intervals not instants&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liveviewnative/elixirconf_chat</title>
+    <updated>2022-09-04T01:35:45Z</updated>
+    <id>tag:github.com,2022-09-04:/liveviewnative/elixirconf_chat</id>
+    <link href="https://github.com/liveviewnative/elixirconf_chat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>discord/manifold</title>
-    <updated>2022-09-03T01:35:17Z</updated>
-    <id>tag:github.com,2022-09-03:/discord/manifold</id>
-    <link href="https://github.com/discord/manifold" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast batch message passing between nodes for Erlang/Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>podium/elixir-secure-coding</title>
+    <updated>2022-09-04T01:35:45Z</updated>
+    <id>tag:github.com,2022-09-04:/podium/elixir-secure-coding</id>
+    <link href="https://github.com/podium/elixir-secure-coding" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>liveviewnative/ios-tutorial</title>
+    <updated>2022-09-04T01:35:45Z</updated>
+    <id>tag:github.com,2022-09-04:/liveviewnative/ios-tutorial</id>
+    <link href="https://github.com/liveviewnative/ios-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample code for the liveview-client-swiftui tutorial app.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

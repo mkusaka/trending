@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:41:51Z</updated>
+  <updated>2022-09-04T01:41:09Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cornell-ece4750/ece4750-tut3-verilog</title>
-    <updated>2022-09-03T01:41:51Z</updated>
-    <id>tag:github.com,2022-09-03:/cornell-ece4750/ece4750-tut3-verilog</id>
-    <link href="https://github.com/cornell-ece4750/ece4750-tut3-verilog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ECE 4750 Tutorial 3: Verilog Hardware Description Language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DantuNandiniDevi/iiitb_freqdiv</title>
-    <updated>2022-09-03T01:41:51Z</updated>
-    <id>tag:github.com,2022-09-03:/DantuNandiniDevi/iiitb_freqdiv</id>
-    <link href="https://github.com/DantuNandiniDevi/iiitb_freqdiv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a frequency divider model&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>simbricks/simbricks</title>
-    <updated>2022-09-03T01:41:51Z</updated>
-    <id>tag:github.com,2022-09-03:/simbricks/simbricks</id>
-    <link href="https://github.com/simbricks/simbricks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Main Repository for the SimBricks Modular Full-System Simulation Framework.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jiaowushuang/fpga_cmos_design</title>
+    <updated>2022-09-04T01:41:09Z</updated>
+    <id>tag:github.com,2022-09-04:/jiaowushuang/fpga_cmos_design</id>
+    <link href="https://github.com/jiaowushuang/fpga_cmos_design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;这是使用FPGA开发CMOS的两个真实项目，之前的fpga_design仅是一个未完善的版本，同时也删除了一些与项目无关的东西&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:34:33Z</updated>
+  <updated>2022-09-04T01:35:05Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>byatool/ClojureExamples</title>
-    <updated>2022-09-03T01:34:33Z</updated>
-    <id>tag:github.com,2022-09-03:/byatool/ClojureExamples</id>
-    <link href="https://github.com/byatool/ClojureExamples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is for housing various Clojure Examples... duh&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anders88/clojureSweeperSolver</title>
+    <updated>2022-09-04T01:35:05Z</updated>
+    <id>tag:github.com,2022-09-04:/anders88/clojureSweeperSolver</id>
+    <link href="https://github.com/anders88/clojureSweeperSolver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A solution for the minesweeper game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HumbleUI/HumbleUI</title>
+    <updated>2022-09-04T01:35:05Z</updated>
+    <id>tag:github.com,2022-09-04:/HumbleUI/HumbleUI</id>
+    <link href="https://github.com/HumbleUI/HumbleUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure Desktop UI framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beulet/DrugsRUs</title>
+    <updated>2022-09-04T01:35:05Z</updated>
+    <id>tag:github.com,2022-09-04:/beulet/DrugsRUs</id>
+    <link href="https://github.com/beulet/DrugsRUs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A program that solves the 0 1 Knapsack problem in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

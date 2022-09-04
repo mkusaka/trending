@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:37:41Z</updated>
+  <updated>2022-09-04T01:37:30Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaComputing/MultiDocumenter.jl</title>
-    <updated>2022-09-03T01:37:41Z</updated>
-    <id>tag:github.com,2022-09-03:/JuliaComputing/MultiDocumenter.jl</id>
-    <link href="https://github.com/JuliaComputing/MultiDocumenter.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aggregating all the docs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>petvana/AutoSysimages.jl</title>
+    <updated>2022-09-04T01:37:30Z</updated>
+    <id>tag:github.com,2022-09-04:/petvana/AutoSysimages.jl</id>
+    <link href="https://github.com/petvana/AutoSysimages.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automate user-specific system images for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/ModelingToolkitStandardLibrary.jl</title>
+    <updated>2022-09-04T01:37:30Z</updated>
+    <id>tag:github.com,2022-09-04:/SciML/ModelingToolkitStandardLibrary.jl</id>
+    <link href="https://github.com/SciML/ModelingToolkitStandardLibrary.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A standard library of components to model the world and beyond&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/JumpProcesses.jl</title>
+    <updated>2022-09-04T01:37:30Z</updated>
+    <id>tag:github.com,2022-09-04:/SciML/JumpProcesses.jl</id>
+    <link href="https://github.com/SciML/JumpProcesses.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build and simulate jump equations like Gillespie simulations and jump diffusions with constant and state-dependent rates and mix with differential equations and scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:47:49Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pages-themes/hacker</title>
+    <updated>2022-09-04T01:47:49Z</updated>
+    <id>tag:github.com,2022-09-04:/pages-themes/hacker</id>
+    <link href="https://github.com/pages-themes/hacker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hacker is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pages-themes/minimal</title>
+    <updated>2022-09-04T01:47:49Z</updated>
+    <id>tag:github.com,2022-09-04:/pages-themes/minimal</id>
+    <link href="https://github.com/pages-themes/minimal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>compose-spec/compose-spec</title>
+    <updated>2022-09-04T01:47:49Z</updated>
+    <id>tag:github.com,2022-09-04:/compose-spec/compose-spec</id>
+    <link href="https://github.com/compose-spec/compose-spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Compose specification&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

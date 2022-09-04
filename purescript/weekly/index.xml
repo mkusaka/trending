@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:46:46Z</updated>
+  <subtitle>Weekly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>input-output-hk/purescript-marlowe</title>
+    <updated>2022-09-04T01:46:46Z</updated>
+    <id>tag:github.com,2022-09-04:/input-output-hk/purescript-marlowe</id>
+    <link href="https://github.com/input-output-hk/purescript-marlowe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PureScript implementation of the Marlowe smart contract lanugage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-typelevel-prelude</title>
+    <updated>2022-09-04T01:46:46Z</updated>
+    <id>tag:github.com,2022-09-04:/purescript/purescript-typelevel-prelude</id>
+    <link href="https://github.com/purescript/purescript-typelevel-prelude" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Types and kinds for basic type-level programming&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-st</title>
+    <updated>2022-09-04T01:46:46Z</updated>
+    <id>tag:github.com,2022-09-04:/purescript/purescript-st</id>
+    <link href="https://github.com/purescript/purescript-st" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ST effect, for safe local mutation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:33:35Z</updated>
+  <updated>2022-09-04T01:34:20Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aritram1/Superbadge-Data-Integration-Specialist</title>
-    <updated>2022-09-03T01:33:35Z</updated>
-    <id>tag:github.com,2022-09-03:/aritram1/Superbadge-Data-Integration-Specialist</id>
-    <link href="https://github.com/aritram1/Superbadge-Data-Integration-Specialist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#39;Data Integration Specialist&#39; is one of the superbadges of Salesforce trailhead(A New Approach to Learning Salesforce). This superbadge is specially designed for learning and testing integrations between different systems. This repository is for solving all the problems in the way of earning the superbadge.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

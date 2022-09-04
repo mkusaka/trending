@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:38:18Z</updated>
+  <updated>2022-09-04T01:38:06Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JimHokanson/matlab_web</title>
-    <updated>2022-09-03T01:38:18Z</updated>
-    <id>tag:github.com,2022-09-03:/JimHokanson/matlab_web</id>
-    <link href="https://github.com/JimHokanson/matlab_web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Matlab web functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ssblee/TensorNetworks2022</title>
+    <updated>2022-09-04T01:38:06Z</updated>
+    <id>tag:github.com,2022-09-04:/ssblee/TensorNetworks2022</id>
+    <link href="https://github.com/ssblee/TensorNetworks2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tutorial materials for the lecture course &#34;Tensor Networks&#34; in the 2022 fall semester of Seoul National University.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gbrrestoration/coral-bleaching-model</title>
+    <updated>2022-09-04T01:38:06Z</updated>
+    <id>tag:github.com,2022-09-04:/gbrrestoration/coral-bleaching-model</id>
+    <link href="https://github.com/gbrrestoration/coral-bleaching-model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Matlab version of coral bleaching model contained within C based CSIRO Environmental Modelling Suite (EMS).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bids-standard/bids-examples</title>
+    <updated>2022-09-04T01:38:06Z</updated>
+    <id>tag:github.com,2022-09-04:/bids-standard/bids-examples</id>
+    <link href="https://github.com/bids-standard/bids-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of BIDS compatible datasets with empty raw data files that can be used for writing lightweight software tests.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

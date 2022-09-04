@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-04T01:45:43Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sherubthakur/dotfiles</title>
+    <updated>2022-09-04T01:45:43Z</updated>
+    <id>tag:github.com,2022-09-04:/sherubthakur/dotfiles</id>
+    <link href="https://github.com/sherubthakur/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My dotfiles + system configuration for NixOS and mac&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>t184256/nix-on-droid</title>
+    <updated>2022-09-04T01:45:43Z</updated>
+    <id>tag:github.com,2022-09-04:/t184256/nix-on-droid</id>
+    <link href="https://github.com/t184256/nix-on-droid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix-enabled environment for your Android device.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

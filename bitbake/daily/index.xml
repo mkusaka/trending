@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:33:47Z</updated>
+  <updated>2022-09-04T01:34:30Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sony/meta-flutter</title>
-    <updated>2022-09-03T01:33:47Z</updated>
-    <id>tag:github.com,2022-09-03:/sony/meta-flutter</id>
-    <link href="https://github.com/sony/meta-flutter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yocto recipes for Flutter Engine and custom embedders&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OE4T/meta-tegra-community</title>
-    <updated>2022-09-03T01:33:47Z</updated>
-    <id>tag:github.com,2022-09-03:/OE4T/meta-tegra-community</id>
-    <link href="https://github.com/OE4T/meta-tegra-community" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for community-maintained recipes for additional packages for NVIDIA Jetson platforms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nxp-qoriq/qoriq-components_meta-qoriq</title>
+    <updated>2022-09-04T01:34:30Z</updated>
+    <id>tag:github.com,2022-09-04:/nxp-qoriq/qoriq-components_meta-qoriq</id>
+    <link href="https://github.com/nxp-qoriq/qoriq-components_meta-qoriq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yocto layer of QorIQ specific recipe&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

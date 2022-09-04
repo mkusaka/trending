@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-03T01:40:27Z</updated>
+  <updated>2022-09-04T01:40:04Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TomHuynhSG/cosc2767-rmit-store</title>
-    <updated>2022-09-03T01:40:27Z</updated>
-    <id>tag:github.com,2022-09-03:/TomHuynhSG/cosc2767-rmit-store</id>
-    <link href="https://github.com/TomHuynhSG/cosc2767-rmit-store" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RMIT Merchandise Store with LAMP stack&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>drycc/workflow</title>
+    <updated>2022-09-04T01:40:04Z</updated>
+    <id>tag:github.com,2022-09-04:/drycc/workflow</id>
+    <link href="https://github.com/drycc/workflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The developer and operations friendly Kubernetes toolbox&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EmilHvitfeldt/quarto-nes-theme</title>
-    <updated>2022-09-03T01:40:27Z</updated>
-    <id>tag:github.com,2022-09-03:/EmilHvitfeldt/quarto-nes-theme</id>
-    <link href="https://github.com/EmilHvitfeldt/quarto-nes-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Quarto reveal.js theme based on NES.css&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>greenelab/lab-website-template</title>
+    <updated>2022-09-04T01:40:04Z</updated>
+    <id>tag:github.com,2022-09-04:/greenelab/lab-website-template</id>
+    <link href="https://github.com/greenelab/lab-website-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(Pre-release) An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>next-step/infra-subway-stable</title>
-    <updated>2022-09-03T01:40:27Z</updated>
-    <id>tag:github.com,2022-09-03:/next-step/infra-subway-stable</id>
-    <link href="https://github.com/next-step/infra-subway-stable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ClearVision/ClearVision-v6</title>
+    <updated>2022-09-04T01:40:04Z</updated>
+    <id>tag:github.com,2022-09-04:/ClearVision/ClearVision-v6</id>
+    <link href="https://github.com/ClearVision/ClearVision-v6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highly customizable theme for BetterDiscord.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
