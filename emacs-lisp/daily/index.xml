@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:35:47Z</updated>
+  <updated>2022-09-05T01:37:28Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>e2r0r/joy-emacs</title>
-    <updated>2022-09-04T01:35:47Z</updated>
-    <id>tag:github.com,2022-09-04:/e2r0r/joy-emacs</id>
-    <link href="https://github.com/e2r0r/joy-emacs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;enjoy with emacs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#title README&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;mailto:breeze.guangfeng@googlemail.com&#34;&gt;breeze.guangfeng@googlemail.com&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;my .emacs and site-lisp backup here&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;add .emacs for console&lt;/li&gt; &#xA; &lt;li&gt;fix .emacs with classic theme supporting&lt;/li&gt; &#xA; &lt;li&gt;add SML-Mode&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

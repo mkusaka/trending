@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:36:27Z</updated>
+  <updated>2022-09-05T01:38:19Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jaspervdj/hakyll</title>
-    <updated>2022-09-04T01:36:27Z</updated>
-    <id>tag:github.com,2022-09-04:/jaspervdj/hakyll</id>
-    <link href="https://github.com/jaspervdj/hakyll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A static website compiler library in Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hakyll&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/jaspervdj/hakyll/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;CI&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Hakyll is a static site generator library in Haskell. More information (including a tutorial) can be found on &lt;a href=&#34;http://jaspervdj.be/hakyll&#34;&gt;the hakyll homepage&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;You can install this library using cabal:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal install hakyll&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Or using stack:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;stack install hakyll&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If Stack fails, please &lt;a href=&#34;https://www.stackage.org/package/hakyll/snapshots&#34;&gt;see which Stackage snapshots contian Hakyll&lt;/a&gt; and specify one explicitly, e.g. &lt;code&gt;stack install --resolver=lts-19.0 hakyll&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>garious/process-iterio</title>
-    <updated>2022-09-04T01:36:27Z</updated>
-    <id>tag:github.com,2022-09-04:/garious/process-iterio</id>
-    <link href="https://github.com/garious/process-iterio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Haskell library to pipe processes to IterIO enumerators&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;IterIO Process Library&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://travis-ci.org/garious/process-iterio&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/garious/process-iterio.png?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A small library using the IterIO library to pipe data between processes.&lt;/p&gt; &#xA;&lt;p&gt;Example usage:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;{-# LANGUAGE OverloadedStrings #-}&#xA;&#xA;import Data.IterIO&#xA;import Data.IterIO.Process&#xA;&#xA;main :: IO ()&#xA;main = do&#xA;    -- List the contents of the current directory,&#xA;    -- grep for a cabal file, and print&#xA;    enumProcess &#34;ls&#34; [] |. cmd &#34;grep&#34; [&#34;cabal&#34;] |$ stdoutI&#xA;&#xA;    -- Pipe &#34;very cool&#34; to &#39;cat&#39; and print the output&#xA;    enumPure &#34;very cool\n&#34; |. cmd &#34;cat&#34; [] |$ stdoutI&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

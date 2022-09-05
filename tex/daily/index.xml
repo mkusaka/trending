@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:40:46Z</updated>
+  <updated>2022-09-05T01:43:17Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>stineje/dldfall2022</title>
-    <updated>2022-09-04T01:40:46Z</updated>
-    <id>tag:github.com,2022-09-04:/stineje/dldfall2022</id>
-    <link href="https://github.com/stineje/dldfall2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains information about Digital Logic Design (ecen 3233) laboratory elements for Fall 2022.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dldfall2022&lt;/h1&gt; &#xA;&lt;pre&gt;&#xA;James E. Stine, Jr.&#xA;james.stine@okstate.edu &#xA;Oklahoma State University&#xA;School of Electrical and Computer Engineering&#xA;VLSI Computer Architecture Research Group&#xA;&lt;/pre&gt; &#xA;&lt;p&gt;Respository for ECEN 3233 Digital Logic Design at Oklahoma State University for the Fall 2022 semester!&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Due Dates:&lt;/strong&gt;&lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;Although tentative due dates are given, pay attention to dates given on Canvas as well as in class. Later labs may be updated as we move throughout the semester, so make sure you pull often.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Location and Training:&lt;/strong&gt;&lt;br&gt; Laboratory is held in ENDV 350 (&lt;a href=&#34;https://ceat.okstate.edu/labs/endeavor/&#34;&gt;https://ceat.okstate.edu/labs/endeavor/&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;p&gt;First week of class is important for logistics as well as getting access to Endeavor&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Labs:&lt;/strong&gt;&lt;br&gt; This repository is broken down into each laboratory and should be cloned on your desktop. It contains System Verilog, testbenches, documents relevant to each laboratyr, and a template to start working on your Digital System Development Board (DSDB) by National Instruments. More information about the board can be found here: &lt;a href=&#34;https://www.ni.com/docs/en-US/bundle/digital-systems-development-specs/resource/376641b.pdf&#34;&gt;https://www.ni.com/docs/en-US/bundle/digital-systems-development-specs/resource/376641b.pdf&lt;/a&gt; and in this repository.&lt;/p&gt; &#xA;&lt;p&gt;The DSDB device was designed by Xilinx, but manufactured by a company called Digilent. There is some other information availble at Digilent&#39;s &lt;a href=&#34;https://digilent.com/reference/dsdb/dsdb&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

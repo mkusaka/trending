@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:35:36Z</updated>
+  <updated>2022-09-05T01:37:14Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>filewalkwithme/gvm-openvas-docker</title>
-    <updated>2022-09-04T01:35:36Z</updated>
-    <id>tag:github.com,2022-09-04:/filewalkwithme/gvm-openvas-docker</id>
-    <link href="https://github.com/filewalkwithme/gvm-openvas-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ready to use Openvas (GVM 11) in a Docker container&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ready to use Openvas / GVM 11 in a Docker container&lt;/h1&gt; &#xA;&lt;p&gt;This is a Docker image that comes with the latest version of Openvas (GVM 11) installed and ready to use. The NVT feed database is downloaded during the Docker build step and stored inside the final image. This way, when the image starts it&#39;s ready to start scanning.&lt;/p&gt; &#xA;&lt;h2&gt;Run from DockerHub&lt;/h2&gt; &#xA;&lt;p&gt;This image is available on DockerHub under &lt;a href=&#34;https://hub.docker.com/r/maiconio/gvm-openvas-docker&#34;&gt;maiconio/gvm-openvas-docker&lt;/a&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo docker run -p 80:80 -p 443:443 --rm -ti -d --name openvas maiconio/gvm-openvas-docker&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;How to build the image&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo docker build -t openvas .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;How to start a local container&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo docker run -p 80:80 -p 443:443 --rm -ti -d --name openvas openvas&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;How to access the web UI&lt;/h2&gt; &#xA;&lt;p&gt;The web UI will be available at:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://127.0.0.1&#xA;&#xA;Username: openvas&#xA;Password: openvas&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;List of software and versions&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;gvm-libs &lt;code&gt;v11.0.1&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;openvas &lt;code&gt;v7.0.1&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;ospd &lt;code&gt;v2.0.1&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;ospd-openvas &lt;code&gt;v1.0.1&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;gvmd &lt;code&gt;v9.0.1&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;gsa &lt;code&gt;v9.0.1&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;nmap&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

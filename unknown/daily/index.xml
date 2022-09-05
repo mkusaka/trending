@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:34:07Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-05T01:35:28Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>community/community</title>
-    <updated>2022-09-04T01:34:07Z</updated>
-    <id>tag:github.com,2022-09-04:/community/community</id>
-    <link href="https://github.com/community/community" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andkret/Cookbook</title>
+    <updated>2022-09-05T01:35:28Z</updated>
+    <id>tag:github.com,2022-09-05:/andkret/Cookbook</id>
+    <link href="https://github.com/andkret/Cookbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Data Engineering Cookbook&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ValveSoftware/Dota2-Gameplay</title>
-    <updated>2022-09-04T01:34:07Z</updated>
-    <id>tag:github.com,2022-09-04:/ValveSoftware/Dota2-Gameplay</id>
-    <link href="https://github.com/ValveSoftware/Dota2-Gameplay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public Bug Tracker for Dota2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>k88hudson/git-flight-rules</title>
+    <updated>2022-09-05T01:35:28Z</updated>
+    <id>tag:github.com,2022-09-05:/k88hudson/git-flight-rules</id>
+    <link href="https://github.com/k88hudson/git-flight-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flight rules for git&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>awesome-stable-diffusion/awesome-stable-diffusion</title>
-    <updated>2022-09-04T01:34:07Z</updated>
-    <id>tag:github.com,2022-09-04:/awesome-stable-diffusion/awesome-stable-diffusion</id>
-    <link href="https://github.com/awesome-stable-diffusion/awesome-stable-diffusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of awesome resources for the Stable Diffusion AI Model.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sparanoid/chinese-copywriting-guidelines</title>
+    <updated>2022-09-05T01:35:28Z</updated>
+    <id>tag:github.com,2022-09-05:/sparanoid/chinese-copywriting-guidelines</id>
+    <link href="https://github.com/sparanoid/chinese-copywriting-guidelines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chinese copywriting guidelines for better written communication／中文文案排版指北&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:39:44Z</updated>
+  <updated>2022-09-05T01:42:04Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>veloren/veloren</title>
-    <updated>2022-09-04T01:39:44Z</updated>
-    <id>tag:github.com,2022-09-04:/veloren/veloren</id>
-    <link href="https://github.com/veloren/veloren" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sycamore-rs/sycamore</title>
-    <updated>2022-09-04T01:39:44Z</updated>
-    <id>tag:github.com,2022-09-04:/sycamore-rs/sycamore</id>
-    <link href="https://github.com/sycamore-rs/sycamore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reactive library for creating web apps in Rust and WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tower-rs/tower</title>
-    <updated>2022-09-04T01:39:44Z</updated>
-    <id>tag:github.com,2022-09-04:/tower-rs/tower</id>
-    <link href="https://github.com/tower-rs/tower" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;async fn(Request) -&gt; Result&lt;Response, Error&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wormtql/genshin_artifact</title>
+    <updated>2022-09-05T01:42:04Z</updated>
+    <id>tag:github.com,2022-09-05:/wormtql/genshin_artifact</id>
+    <link href="https://github.com/wormtql/genshin_artifact" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

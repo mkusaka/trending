@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:41:13Z</updated>
+  <updated>2022-09-05T01:43:45Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>opensource-f2f/website</title>
-    <updated>2022-09-04T01:41:13Z</updated>
-    <id>tag:github.com,2022-09-04:/opensource-f2f/website</id>
-    <link href="https://github.com/opensource-f2f/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;《开源面对面》官网&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>knex/documentation</title>
-    <updated>2022-09-04T01:41:13Z</updated>
-    <id>tag:github.com,2022-09-04:/knex/documentation</id>
-    <link href="https://github.com/knex/documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Knex Documentation Builder&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

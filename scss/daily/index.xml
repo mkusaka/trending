@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:40:04Z</updated>
+  <updated>2022-09-05T01:42:29Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>drycc/workflow</title>
-    <updated>2022-09-04T01:40:04Z</updated>
-    <id>tag:github.com,2022-09-04:/drycc/workflow</id>
-    <link href="https://github.com/drycc/workflow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The developer and operations friendly Kubernetes toolbox&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>greenelab/lab-website-template</title>
-    <updated>2022-09-04T01:40:04Z</updated>
-    <id>tag:github.com,2022-09-04:/greenelab/lab-website-template</id>
-    <link href="https://github.com/greenelab/lab-website-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(Pre-release) An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ClearVision/ClearVision-v6</title>
-    <updated>2022-09-04T01:40:04Z</updated>
-    <id>tag:github.com,2022-09-04:/ClearVision/ClearVision-v6</id>
-    <link href="https://github.com/ClearVision/ClearVision-v6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Highly customizable theme for BetterDiscord.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pages-themes/leap-day</title>
+    <updated>2022-09-05T01:42:29Z</updated>
+    <id>tag:github.com,2022-09-05:/pages-themes/leap-day</id>
+    <link href="https://github.com/pages-themes/leap-day" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leap day is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pure Data Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:39:07Z</updated>
+  <updated>2022-09-05T01:41:25Z</updated>
   <subtitle>Daily Trending of Pure Data in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>matschaffer/collavoce</title>
-    <updated>2022-09-04T01:39:07Z</updated>
-    <id>tag:github.com,2022-09-04:/matschaffer/collavoce</id>
-    <link href="https://github.com/matschaffer/collavoce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Powering MIDI through Ruby ala jFugue&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

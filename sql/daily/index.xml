@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:40:24Z</updated>
+  <updated>2022-09-05T01:42:52Z</updated>
   <subtitle>Daily Trending of SQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nextail/pulpocon-data-pipelines</title>
-    <updated>2022-09-04T01:40:24Z</updated>
-    <id>tag:github.com,2022-09-04:/nextail/pulpocon-data-pipelines</id>
-    <link href="https://github.com/nextail/pulpocon-data-pipelines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositorio para el taller &#34;Construyendo pipelines de datos a escala&#34; de la PulpoCon 2022&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

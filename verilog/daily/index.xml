@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-04T01:41:09Z</updated>
+  <updated>2022-09-05T01:43:40Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jiaowushuang/fpga_cmos_design</title>
-    <updated>2022-09-04T01:41:09Z</updated>
-    <id>tag:github.com,2022-09-04:/jiaowushuang/fpga_cmos_design</id>
-    <link href="https://github.com/jiaowushuang/fpga_cmos_design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;这是使用FPGA开发CMOS的两个真实项目，之前的fpga_design仅是一个未完善的版本，同时也删除了一些与项目无关的东西&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
