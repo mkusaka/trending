@@ -125416,5 +125416,239 @@
     "uri": "https://github.com/hexops/mach-glfw",
     "period": "weekly",
     "language": "zig"
+  },
+  {
+    "logged": "2022-09-05T01:35:28Z",
+    "uri": "https://github.com/WebKit/WebKit",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2022-09-05T01:35:28Z",
+    "uri": "https://github.com/alembics/disco-diffusion",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2022-09-05T01:35:28Z",
+    "uri": "https://github.com/dataease/dataease",
+    "period": "daily",
+    "language": "all"
+  },
+  {
+    "logged": "2022-09-05T01:35:28Z",
+    "uri": "https://github.com/andkret/Cookbook",
+    "period": "daily",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-09-05T01:35:28Z",
+    "uri": "https://github.com/k88hudson/git-flight-rules",
+    "period": "daily",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-09-05T01:35:28Z",
+    "uri": "https://github.com/sparanoid/chinese-copywriting-guidelines",
+    "period": "daily",
+    "language": "unknown"
+  },
+  {
+    "logged": "2022-09-05T01:36:20Z",
+    "uri": "https://github.com/openxrlab/xrnerf",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-09-05T01:36:20Z",
+    "uri": "https://github.com/Tencent/mars",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-09-05T01:36:20Z",
+    "uri": "https://github.com/weidai11/cryptopp",
+    "period": "daily",
+    "language": "c++"
+  },
+  {
+    "logged": "2022-09-05T01:38:46Z",
+    "uri": "https://github.com/streamxhub/streampark",
+    "period": "daily",
+    "language": "java"
+  },
+  {
+    "logged": "2022-09-05T01:38:46Z",
+    "uri": "https://github.com/scwang90/SmartRefreshLayout",
+    "period": "daily",
+    "language": "java"
+  },
+  {
+    "logged": "2022-09-05T01:38:56Z",
+    "uri": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "period": "daily",
+    "language": "javascript"
+  },
+  {
+    "logged": "2022-09-05T01:41:29Z",
+    "uri": "https://github.com/Gabattal/Scripts-LeagueOfLegends",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2022-09-05T01:41:29Z",
+    "uri": "https://github.com/fundamentalvision/Deformable-DETR",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2022-09-05T01:41:29Z",
+    "uri": "https://github.com/vnpy/vnpy",
+    "period": "daily",
+    "language": "python"
+  },
+  {
+    "logged": "2022-09-05T01:36:47Z",
+    "uri": "https://github.com/enhance-dev/enhance-starter-project",
+    "period": "daily",
+    "language": "css"
+  },
+  {
+    "logged": "2022-09-05T01:36:47Z",
+    "uri": "https://github.com/vicky002/AlgoWiki",
+    "period": "daily",
+    "language": "css"
+  },
+  {
+    "logged": "2022-09-05T01:36:47Z",
+    "uri": "https://github.com/eic/epic-eic.org",
+    "period": "daily",
+    "language": "css"
+  },
+  {
+    "logged": "2022-09-05T01:37:25Z",
+    "uri": "https://github.com/BeaconCMS/beacon",
+    "period": "daily",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-09-05T01:37:25Z",
+    "uri": "https://github.com/elixir-ecto/db_connection",
+    "period": "daily",
+    "language": "elixir"
+  },
+  {
+    "logged": "2022-09-05T01:37:59Z",
+    "uri": "https://github.com/kubernetes/enhancements",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2022-09-05T01:37:59Z",
+    "uri": "https://github.com/fsnotify/fsnotify",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2022-09-05T01:37:59Z",
+    "uri": "https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example",
+    "period": "daily",
+    "language": "go"
+  },
+  {
+    "logged": "2022-09-05T01:39:32Z",
+    "uri": "https://github.com/JuliaDiff/ChainRules.jl",
+    "period": "daily",
+    "language": "julia"
+  },
+  {
+    "logged": "2022-09-05T01:39:46Z",
+    "uri": "https://github.com/mobile-dev-inc/dadb",
+    "period": "daily",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-09-05T01:39:46Z",
+    "uri": "https://github.com/hussien89aa/KotlinUdemy",
+    "period": "daily",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-09-05T01:39:46Z",
+    "uri": "https://github.com/mustfaibra/RoFFu",
+    "period": "daily",
+    "language": "kotlin"
+  },
+  {
+    "logged": "2022-09-05T01:41:16Z",
+    "uri": "https://github.com/MicrosoftDocs/microsoft-365-docs-pr.cs-CZ",
+    "period": "daily",
+    "language": "powershell"
+  },
+  {
+    "logged": "2022-09-05T01:42:04Z",
+    "uri": "https://github.com/wormtql/genshin_artifact",
+    "period": "daily",
+    "language": "rust"
+  },
+  {
+    "logged": "2022-09-05T01:42:29Z",
+    "uri": "https://github.com/pages-themes/leap-day",
+    "period": "daily",
+    "language": "scss"
+  },
+  {
+    "logged": "2022-09-05T01:42:48Z",
+    "uri": "https://github.com/harness/helm-template-service",
+    "period": "daily",
+    "language": "smarty"
+  },
+  {
+    "logged": "2022-09-05T01:42:48Z",
+    "uri": "https://github.com/harness/helm-scm-service",
+    "period": "daily",
+    "language": "smarty"
+  },
+  {
+    "logged": "2022-09-05T01:42:48Z",
+    "uri": "https://github.com/harness/helm-pipeline-service",
+    "period": "daily",
+    "language": "smarty"
+  },
+  {
+    "logged": "2022-09-05T01:43:30Z",
+    "uri": "https://github.com/faker-js/faker",
+    "period": "daily",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-09-05T01:43:30Z",
+    "uri": "https://github.com/microsoft/azure-pipelines-tasks",
+    "period": "daily",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-09-05T01:43:30Z",
+    "uri": "https://github.com/discord/react-dnd-accessible-backend",
+    "period": "daily",
+    "language": "typescript"
+  },
+  {
+    "logged": "2022-09-05T01:43:43Z",
+    "uri": "https://github.com/dart-lang/dart-vim-plugin",
+    "period": "daily",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-09-05T01:43:43Z",
+    "uri": "https://github.com/prabirshrestha/async.vim",
+    "period": "daily",
+    "language": "vim-script"
+  },
+  {
+    "logged": "2022-09-05T01:43:43Z",
+    "uri": "https://github.com/nathanaelkane/vim-indent-guides",
+    "period": "daily",
+    "language": "vim-script"
   }
 ]
