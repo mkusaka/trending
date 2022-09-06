@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-05T01:42:04Z</updated>
+  <updated>2022-09-06T01:38:00Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wormtql/genshin_artifact</title>
-    <updated>2022-09-05T01:42:04Z</updated>
-    <id>tag:github.com,2022-09-05:/wormtql/genshin_artifact</id>
-    <link href="https://github.com/wormtql/genshin_artifact" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>godot-rust/godot-rust</title>
+    <updated>2022-09-06T01:38:00Z</updated>
+    <id>tag:github.com,2022-09-06:/godot-rust/godot-rust</id>
+    <link href="https://github.com/godot-rust/godot-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust bindings for GDNative&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tibordp/alumina</title>
+    <updated>2022-09-06T01:38:00Z</updated>
+    <id>tag:github.com,2022-09-06:/tibordp/alumina</id>
+    <link href="https://github.com/tibordp/alumina" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A general purpose programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

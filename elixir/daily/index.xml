@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-05T01:37:25Z</updated>
+  <updated>2022-09-06T01:33:18Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BeaconCMS/beacon</title>
-    <updated>2022-09-05T01:37:25Z</updated>
-    <id>tag:github.com,2022-09-05:/BeaconCMS/beacon</id>
-    <link href="https://github.com/BeaconCMS/beacon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Beacon CMS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DockYard/flame_on</title>
+    <updated>2022-09-06T01:33:18Z</updated>
+    <id>tag:github.com,2022-09-06:/DockYard/flame_on</id>
+    <link href="https://github.com/DockYard/flame_on" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flame Graph LiveView Component and LiveDashboard plugin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elixir-ecto/db_connection</title>
-    <updated>2022-09-05T01:37:25Z</updated>
-    <id>tag:github.com,2022-09-05:/elixir-ecto/db_connection</id>
-    <link href="https://github.com/elixir-ecto/db_connection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Database connection behaviour&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>UrbanOS-Public/smartcitiesdata</title>
+    <updated>2022-09-06T01:33:18Z</updated>
+    <id>tag:github.com,2022-09-06:/UrbanOS-Public/smartcitiesdata</id>
+    <link href="https://github.com/UrbanOS-Public/smartcitiesdata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The core micro services of UrbanOS as an umbrella project with component documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>membraneframework/membrane_sdl_plugin</title>
+    <updated>2022-09-06T01:33:18Z</updated>
+    <id>tag:github.com,2022-09-06:/membraneframework/membrane_sdl_plugin</id>
+    <link href="https://github.com/membraneframework/membrane_sdl_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Membrane video player based on SDL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

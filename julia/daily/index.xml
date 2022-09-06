@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-05T01:39:32Z</updated>
+  <updated>2022-09-06T01:35:24Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaDiff/ChainRules.jl</title>
-    <updated>2022-09-05T01:39:32Z</updated>
-    <id>tag:github.com,2022-09-05:/JuliaDiff/ChainRules.jl</id>
-    <link href="https://github.com/JuliaDiff/ChainRules.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;forward and reverse mode automatic differentiation primitives for Julia Base + StdLibs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/DataDrivenDiffEq.jl</title>
+    <updated>2022-09-06T01:35:24Z</updated>
+    <id>tag:github.com,2022-09-06:/SciML/DataDrivenDiffEq.jl</id>
+    <link href="https://github.com/SciML/DataDrivenDiffEq.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data driven modeling and automated discovery of dynamical systems for the SciML Scientific Machine Learning organization&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/DiffEqBase.jl</title>
+    <updated>2022-09-06T01:35:24Z</updated>
+    <id>tag:github.com,2022-09-06:/SciML/DiffEqBase.jl</id>
+    <link href="https://github.com/SciML/DiffEqBase.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The lightweight Base library for shared types and functionality for defining differential equation and scientific machine learning (SciML) problems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaNLSolvers/LsqFit.jl</title>
+    <updated>2022-09-06T01:35:24Z</updated>
+    <id>tag:github.com,2022-09-06:/JuliaNLSolvers/LsqFit.jl</id>
+    <link href="https://github.com/JuliaNLSolvers/LsqFit.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple curve fitting in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

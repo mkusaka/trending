@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-05T01:35:28Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-09-06T01:31:14Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andkret/Cookbook</title>
-    <updated>2022-09-05T01:35:28Z</updated>
-    <id>tag:github.com,2022-09-05:/andkret/Cookbook</id>
-    <link href="https://github.com/andkret/Cookbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Data Engineering Cookbook&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool</title>
+    <updated>2022-09-06T01:31:14Z</updated>
+    <id>tag:github.com,2022-09-06:/JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool</id>
+    <link href="https://github.com/JoeRichardsonJR/Ethereum-Proof-of-Stack-Merger-fork-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethereum Proof of Stack Merger Harkfork Tool ,This tool will make sure your address is locked in to get both side of the hard fork and double your holdings.After running this on each one of your ETH address you will get the equal amount of ETH poof of stack and ETH proof of work when the merger happens. The amount you will get depend on the amou…&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>k88hudson/git-flight-rules</title>
-    <updated>2022-09-05T01:35:28Z</updated>
-    <id>tag:github.com,2022-09-05:/k88hudson/git-flight-rules</id>
-    <link href="https://github.com/k88hudson/git-flight-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flight rules for git&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>greenbellpepper/GreenPepper</title>
+    <updated>2022-09-06T01:31:14Z</updated>
+    <id>tag:github.com,2022-09-06:/greenbellpepper/GreenPepper</id>
+    <link href="https://github.com/greenbellpepper/GreenPepper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sparanoid/chinese-copywriting-guidelines</title>
-    <updated>2022-09-05T01:35:28Z</updated>
-    <id>tag:github.com,2022-09-05:/sparanoid/chinese-copywriting-guidelines</id>
-    <link href="https://github.com/sparanoid/chinese-copywriting-guidelines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chinese copywriting guidelines for better written communication／中文文案排版指北&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dgkanatsios/CKAD-exercises</title>
+    <updated>2022-09-06T01:31:14Z</updated>
+    <id>tag:github.com,2022-09-06:/dgkanatsios/CKAD-exercises</id>
+    <link href="https://github.com/dgkanatsios/CKAD-exercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of exercises to prepare for Certified Kubernetes Application Developer exam by Cloud Native Computing Foundation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F* Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-05T01:37:41Z</updated>
+  <updated>2022-09-06T01:33:44Z</updated>
   <subtitle>Daily Trending of F* in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hacl-star/hacl-star</title>
+    <updated>2022-09-06T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-06:/hacl-star/hacl-star</id>
+    <link href="https://github.com/hacl-star/hacl-star" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HACL*, a formally verified cryptographic library written in F*&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

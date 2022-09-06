@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-05T01:36:35Z</updated>
+  <updated>2022-09-06T01:32:30Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pangloss/pattern</title>
+    <updated>2022-09-06T01:32:30Z</updated>
+    <id>tag:github.com,2022-09-06:/pangloss/pattern</id>
+    <link href="https://github.com/pangloss/pattern" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pattern lets you transform data structures in amazing ways.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hypirion/snigilbot</title>
+    <updated>2022-09-06T01:32:30Z</updated>
+    <id>tag:github.com,2022-09-06:/hypirion/snigilbot</id>
+    <link href="https://github.com/hypirion/snigilbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A quarto-playing bot taking its time.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bortexz/graphcom</title>
+    <updated>2022-09-06T01:32:30Z</updated>
+    <id>tag:github.com,2022-09-06:/bortexz/graphcom</id>
+    <link href="https://github.com/bortexz/graphcom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dependency graph computations for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
