@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:38:51Z</updated>
+  <updated>2022-09-07T01:38:16Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>marcusolsson/obsidian-projects</title>
-    <updated>2022-09-06T01:38:51Z</updated>
-    <id>tag:github.com,2022-09-06:/marcusolsson/obsidian-projects</id>
-    <link href="https://github.com/marcusolsson/obsidian-projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project management for Obsidian&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Niek/obs-web</title>
-    <updated>2022-09-06T01:38:51Z</updated>
-    <id>tag:github.com,2022-09-06:/Niek/obs-web</id>
-    <link href="https://github.com/Niek/obs-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OBS-web - the easiest way to control OBS remotely&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>breadthe/sd-buddy</title>
+    <updated>2022-09-07T01:38:16Z</updated>
+    <id>tag:github.com,2022-09-07:/breadthe/sd-buddy</id>
+    <link href="https://github.com/breadthe/sd-buddy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

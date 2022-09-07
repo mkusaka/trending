@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:36:16Z</updated>
+  <updated>2022-09-07T01:35:30Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>neulab/explainaboard_web</title>
-    <updated>2022-09-06T01:36:16Z</updated>
-    <id>tag:github.com,2022-09-06:/neulab/explainaboard_web</id>
-    <link href="https://github.com/neulab/explainaboard_web" rel="alternate"></link>
+    <title>ssts-alg/kubernetes</title>
+    <updated>2022-09-07T01:35:30Z</updated>
+    <id>tag:github.com,2022-09-07:/ssts-alg/kubernetes</id>
+    <link href="https://github.com/ssts-alg/kubernetes" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

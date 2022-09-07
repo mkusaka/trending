@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:32:54Z</updated>
+  <updated>2022-09-07T01:32:43Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>umasagashi/umacapture</title>
-    <updated>2022-09-06T01:32:54Z</updated>
-    <id>tag:github.com,2022-09-06:/umasagashi/umacapture</id>
-    <link href="https://github.com/umasagashi/umacapture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;umacapture is a software that extracts in-game information from the game ウマ娘 using only image recognition.&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt;&#xA; &lt;img src=&#34;https://raw.githubusercontent.com/umasagashi/umacapture/develop/logo.png&#34; width=&#34;400&#34; alt=&#34;umacapture_logo&#34;&gt;&#xA;&lt;/div&gt; &#xA;&lt;h1&gt;umacapture&lt;/h1&gt; &#xA;&lt;p&gt;umacapture is a software that extracts in-game information from the game &lt;a href=&#34;https://umamusume.jp/&#34;&gt;ウマ娘&lt;/a&gt; using only image recognition. This software is designed not to interfere with the game client or server and is not intended to violate the terms of use.&lt;/p&gt; &#xA;&lt;p&gt;NOTE: Currently, only supports the game client for the Japanese market.&lt;/p&gt; &#xA;&lt;h2&gt;Docs&lt;/h2&gt; &#xA;&lt;p&gt;under development&lt;/p&gt; &#xA;&lt;h2&gt;Community&lt;/h2&gt; &#xA;&lt;p&gt;Discord: &lt;a href=&#34;https://discord.gg/Ph9hEGHR4M&#34;&gt;https://discord.gg/Ph9hEGHR4M&lt;/a&gt; [Japanese/日本語]&lt;/p&gt; &#xA;&lt;p&gt;Twitter: &lt;a href=&#34;https://twitter.com/umasagashi&#34;&gt;https://twitter.com/umasagashi&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Licence&lt;/h2&gt; &#xA;&lt;p&gt;MIT License&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Tarikul711/flutter-food-delivery-app-ui</title>
-    <updated>2022-09-06T01:32:54Z</updated>
-    <id>tag:github.com,2022-09-06:/Tarikul711/flutter-food-delivery-app-ui</id>
-    <link href="https://github.com/Tarikul711/flutter-food-delivery-app-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The food ordering &amp; delivery application designed based on the real-life scenario. Anyone can use this code on their own purpose. If you are interested please make your contribution to the code.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Flutter Food Delivery Application Design&lt;/h1&gt; &#xA;&lt;h2&gt;This application is not completed yet. Currently, I am working on it.&lt;/h2&gt; &#xA;&lt;p&gt;A small attempt to make an Food delivery app user interface in Flutter for Android and iOS.&lt;/p&gt; &#xA;&lt;h2&gt;🤓 Author(s)&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;Md Tarikul Islam&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/tarikul711&#34;&gt;&lt;img src=&#34;https://img.shields.io/twitter/follow/tarikul711.svg?style=social&#34; alt=&#34;Twitter Follow&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Food Ordering &amp;amp; Delivery App UI in Flutter&lt;/h2&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/Tarikul711/flutter-food-delivery-app-ui/master/screens/full_ui.png&#34;&gt; &#xA;&lt;h2&gt;ScreenShots&lt;/h2&gt; &#xA;&lt;h3&gt;Home Page&lt;/h3&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/Tarikul711/flutter-food-delivery-app-ui/master/screens/home_screen.jpg&#34; height=&#34;500em&#34;&gt; &#xA;&lt;h3&gt;Food Details Screen &amp;amp; Add To Cart Screen&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Tarikul711/flutter-food-delivery-app-ui/master/screens/detail_screen.jpg&#34; height=&#34;500em&#34;&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;img src=&#34;https://raw.githubusercontent.com/Tarikul711/flutter-food-delivery-app-ui/master/screens/add_to_cart_screen.jpg&#34; height=&#34;500em&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Login &amp;amp; Registration Screen&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Tarikul711/flutter-food-delivery-app-ui/master/screens/login_screen.jpg&#34; height=&#34;500em&#34;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;img src=&#34;https://raw.githubusercontent.com/Tarikul711/flutter-food-delivery-app-ui/master/screens/signin_scren.jpg&#34; height=&#34;500em&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;✨ Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Any Operating System (ie. MacOS X, Linux, Windows)&lt;/li&gt; &#xA; &lt;li&gt;Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)&lt;/li&gt; &#xA; &lt;li&gt;A little knowledge of Dart and Flutter&lt;/li&gt; &#xA; &lt;li&gt;A brain to think 🤓🤓&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>ryanheise/audio_service</title>
+    <updated>2022-09-07T01:32:43Z</updated>
+    <id>tag:github.com,2022-09-07:/ryanheise/audio_service</id>
+    <link href="https://github.com/ryanheise/audio_service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flutter plugin to play audio in the background while the screen is off.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

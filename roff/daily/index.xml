@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:37:55Z</updated>
+  <updated>2022-09-07T01:37:12Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>octavian-ganea/equidock_public</title>
+    <updated>2022-09-07T01:37:12Z</updated>
+    <id>tag:github.com,2022-09-07:/octavian-ganea/equidock_public</id>
+    <link href="https://github.com/octavian-ganea/equidock_public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EquiDock: geometric deep learning for fast rigid 3D protein-protein docking&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:36:07Z</updated>
+  <updated>2022-09-07T01:35:23Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lebedeva-anestezia/segal</title>
-    <updated>2022-09-06T01:36:07Z</updated>
-    <id>tag:github.com,2022-09-06:/lebedeva-anestezia/segal</id>
-    <link href="https://github.com/lebedeva-anestezia/segal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>datajoint/example</title>
+    <updated>2022-09-07T01:35:23Z</updated>
+    <id>tag:github.com,2022-09-07:/datajoint/example</id>
+    <link href="https://github.com/datajoint/example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example schema&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

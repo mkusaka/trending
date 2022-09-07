@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:31:41Z</updated>
+  <updated>2022-09-07T01:31:25Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cybereason/siofra</title>
-    <updated>2022-09-06T01:31:41Z</updated>
-    <id>tag:github.com,2022-09-06:/Cybereason/siofra</id>
-    <link href="https://github.com/Cybereason/siofra" rel="alternate"></link>
+    <title>markmoxon/c64-elite-flicker-free</title>
+    <updated>2022-09-07T01:31:25Z</updated>
+    <id>tag:github.com,2022-09-07:/markmoxon/c64-elite-flicker-free</id>
+    <link href="https://github.com/markmoxon/c64-elite-flicker-free" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A patch for Commodore 64 and Plus/4 Elite that removes the flicker&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BetaFilter/Sonic-1-MDO</title>
+    <updated>2022-09-07T01:31:25Z</updated>
+    <id>tag:github.com,2022-09-07:/BetaFilter/Sonic-1-MDO</id>
+    <link href="https://github.com/BetaFilter/Sonic-1-MDO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sonic 1 Mega Drive Optimized Public Repository.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>2022-fall-rcc-cis-csc-11/lab-demos</title>
+    <updated>2022-09-07T01:31:25Z</updated>
+    <id>tag:github.com,2022-09-07:/2022-fall-rcc-cis-csc-11/lab-demos</id>
+    <link href="https://github.com/2022-fall-rcc-cis-csc-11/lab-demos" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>leo007er1/MascOS</title>
-    <updated>2022-09-06T01:31:41Z</updated>
-    <id>tag:github.com,2022-09-06:/leo007er1/MascOS</id>
-    <link href="https://github.com/leo007er1/MascOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;16-bit Real Mode operating system made entirely in Assembly&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>retrio/gb-test-roms</title>
-    <updated>2022-09-06T01:31:41Z</updated>
-    <id>tag:github.com,2022-09-06:/retrio/gb-test-roms</id>
-    <link href="https://github.com/retrio/gb-test-roms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of Game Boy test roms.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

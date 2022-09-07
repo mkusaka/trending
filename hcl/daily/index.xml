@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:34:15Z</updated>
+  <updated>2022-09-07T01:33:53Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>champ-oss/terraform-aws-rds-snapshot-copy-lambda</title>
-    <updated>2022-09-06T01:34:15Z</updated>
-    <id>tag:github.com,2022-09-06:/champ-oss/terraform-aws-rds-snapshot-copy-lambda</id>
-    <link href="https://github.com/champ-oss/terraform-aws-rds-snapshot-copy-lambda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tedilabs/fastcampus-devops</title>
+    <updated>2022-09-07T01:33:53Z</updated>
+    <id>tag:github.com,2022-09-07:/tedilabs/fastcampus-devops</id>
+    <link href="https://github.com/tedilabs/fastcampus-devops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 패스트캠퍼스 데브옵스 초격차 코스 자료&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-ec2-bastion-server</title>
+    <updated>2022-09-07T01:33:53Z</updated>
+    <id>tag:github.com,2022-09-07:/cloudposse/terraform-aws-ec2-bastion-server</id>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-bastion-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to define a generic Bastion host with parameterized user_data and support for AWS SSM Session Manager for remote access with IAM authentication.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>traveloka/terraform-aws-vpc-peering</title>
+    <updated>2022-09-07T01:33:53Z</updated>
+    <id>tag:github.com,2022-09-07:/traveloka/terraform-aws-vpc-peering</id>
+    <link href="https://github.com/traveloka/terraform-aws-vpc-peering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to create VPC peering components for requester and accepter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

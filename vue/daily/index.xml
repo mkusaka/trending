@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:39:34Z</updated>
+  <updated>2022-09-07T01:39:02Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Splode/pomotroid</title>
-    <updated>2022-09-06T01:39:34Z</updated>
-    <id>tag:github.com,2022-09-06:/Splode/pomotroid</id>
-    <link href="https://github.com/Splode/pomotroid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍅 Simple and visually-pleasing Pomodoro timer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gdg-x/aura-admin</title>
-    <updated>2022-09-06T01:39:34Z</updated>
-    <id>tag:github.com,2022-09-06:/gdg-x/aura-admin</id>
-    <link href="https://github.com/gdg-x/aura-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aura Admin is the Web App that helps you to mange the Tech Communities like GDGs, DSCs or any other tech communities with Aura&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>satisfactorymodding/SatisfactoryModManager</title>
-    <updated>2022-09-06T01:39:34Z</updated>
-    <id>tag:github.com,2022-09-06:/satisfactorymodding/SatisfactoryModManager</id>
-    <link href="https://github.com/satisfactorymodding/SatisfactoryModManager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A mod manager for easy installation of mods and modloader&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pumelotea/happyboot-tiger</title>
+    <updated>2022-09-07T01:39:02Z</updated>
+    <id>tag:github.com,2022-09-07:/pumelotea/happyboot-tiger</id>
+    <link href="https://github.com/pumelotea/happyboot-tiger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个基于Vite+Vue3+NaiveUI中后台框架&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

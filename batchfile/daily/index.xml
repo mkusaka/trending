@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:31:47Z</updated>
+  <updated>2022-09-07T01:31:29Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jasmin456mulyani/FreeRDP</title>
-    <updated>2022-09-06T01:31:47Z</updated>
-    <id>tag:github.com,2022-09-06:/jasmin456mulyani/FreeRDP</id>
-    <link href="https://github.com/jasmin456mulyani/FreeRDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uiis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>swagkarna/Defeat-Defender-V1.2.0</title>
+    <updated>2022-09-07T01:31:29Z</updated>
+    <id>tag:github.com,2022-09-07:/swagkarna/Defeat-Defender-V1.2.0</id>
+    <link href="https://github.com/swagkarna/Defeat-Defender-V1.2.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daher45/freerdp</title>
-    <updated>2022-09-06T01:31:47Z</updated>
-    <id>tag:github.com,2022-09-06:/daher45/freerdp</id>
-    <link href="https://github.com/daher45/freerdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ErichStyger/mcuoneclipse</title>
+    <updated>2022-09-07T01:31:29Z</updated>
+    <id>tag:github.com,2022-09-07:/ErichStyger/mcuoneclipse</id>
+    <link href="https://github.com/ErichStyger/mcuoneclipse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;McuOnEclipse Processor Expert components and example projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

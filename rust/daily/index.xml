@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:38:00Z</updated>
+  <updated>2022-09-07T01:37:15Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>godot-rust/godot-rust</title>
-    <updated>2022-09-06T01:38:00Z</updated>
-    <id>tag:github.com,2022-09-06:/godot-rust/godot-rust</id>
-    <link href="https://github.com/godot-rust/godot-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust bindings for GDNative&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>valence-rs/valence</title>
+    <updated>2022-09-07T01:37:15Z</updated>
+    <id>tag:github.com,2022-09-07:/valence-rs/valence</id>
+    <link href="https://github.com/valence-rs/valence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Rust framework for building Minecraft servers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tibordp/alumina</title>
-    <updated>2022-09-06T01:38:00Z</updated>
-    <id>tag:github.com,2022-09-06:/tibordp/alumina</id>
-    <link href="https://github.com/tibordp/alumina" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A general purpose programming language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MaikKlein/unreal-rust</title>
+    <updated>2022-09-07T01:37:15Z</updated>
+    <id>tag:github.com,2022-09-07:/MaikKlein/unreal-rust</id>
+    <link href="https://github.com/MaikKlein/unreal-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust integration for Unreal Engine 5&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sloganking/rs-code-visualizer</title>
+    <updated>2022-09-07T01:37:15Z</updated>
+    <id>tag:github.com,2022-09-07:/sloganking/rs-code-visualizer</id>
+    <link href="https://github.com/sloganking/rs-code-visualizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Turns your code into one large PNG&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-06T01:33:18Z</updated>
+  <updated>2022-09-07T01:33:04Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DockYard/flame_on</title>
-    <updated>2022-09-06T01:33:18Z</updated>
-    <id>tag:github.com,2022-09-06:/DockYard/flame_on</id>
-    <link href="https://github.com/DockYard/flame_on" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flame Graph LiveView Component and LiveDashboard plugin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liveshowy/webauthn_live_component</title>
+    <updated>2022-09-07T01:33:04Z</updated>
+    <id>tag:github.com,2022-09-07:/liveshowy/webauthn_live_component</id>
+    <link href="https://github.com/liveshowy/webauthn_live_component" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WebAuthnLiveComponent allows Phoenix developers to quickly add passwordless authentication to LiveView applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>UrbanOS-Public/smartcitiesdata</title>
-    <updated>2022-09-06T01:33:18Z</updated>
-    <id>tag:github.com,2022-09-06:/UrbanOS-Public/smartcitiesdata</id>
-    <link href="https://github.com/UrbanOS-Public/smartcitiesdata" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The core micro services of UrbanOS as an umbrella project with component documentation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-telemetry/opentelemetry-erlang-contrib</title>
+    <updated>2022-09-07T01:33:04Z</updated>
+    <id>tag:github.com,2022-09-07:/open-telemetry/opentelemetry-erlang-contrib</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-erlang-contrib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenTelemetry instrumentation for Erlang &amp; Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>membraneframework/membrane_sdl_plugin</title>
-    <updated>2022-09-06T01:33:18Z</updated>
-    <id>tag:github.com,2022-09-06:/membraneframework/membrane_sdl_plugin</id>
-    <link href="https://github.com/membraneframework/membrane_sdl_plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Membrane video player based on SDL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vanessaklee/elixir_conf</title>
+    <updated>2022-09-07T01:33:04Z</updated>
+    <id>tag:github.com,2022-09-07:/vanessaklee/elixir_conf</id>
+    <link href="https://github.com/vanessaklee/elixir_conf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
