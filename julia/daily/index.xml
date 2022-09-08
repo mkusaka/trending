@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:34:51Z</updated>
+  <updated>2022-09-08T01:39:00Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/DeepEquilibriumNetworks.jl</title>
-    <updated>2022-09-07T01:34:51Z</updated>
-    <id>tag:github.com,2022-09-07:/SciML/DeepEquilibriumNetworks.jl</id>
-    <link href="https://github.com/SciML/DeepEquilibriumNetworks.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deep Equilibrium Networks (but faster!!!)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaLang/LinearAlgebra.jl</title>
+    <updated>2022-09-08T01:39:00Z</updated>
+    <id>tag:github.com,2022-09-08:/JuliaLang/LinearAlgebra.jl</id>
+    <link href="https://github.com/JuliaLang/LinearAlgebra.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/DiffEqBayes.jl</title>
+    <updated>2022-09-08T01:39:00Z</updated>
+    <id>tag:github.com,2022-09-08:/SciML/DiffEqBayes.jl</id>
+    <link href="https://github.com/SciML/DiffEqBayes.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extension functionality which uses Stan.jl, DynamicHMC.jl, and Turing.jl to estimate the parameters to differential equations and perform Bayesian probabilistic scientific machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/DiffEqOperators.jl</title>
+    <updated>2022-09-08T01:39:00Z</updated>
+    <id>tag:github.com,2022-09-08:/SciML/DiffEqOperators.jl</id>
+    <link href="https://github.com/SciML/DiffEqOperators.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linear operators for discretizations of differential equations and scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:39:02Z</updated>
+  <updated>2022-09-08T01:43:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pumelotea/happyboot-tiger</title>
-    <updated>2022-09-07T01:39:02Z</updated>
-    <id>tag:github.com,2022-09-07:/pumelotea/happyboot-tiger</id>
-    <link href="https://github.com/pumelotea/happyboot-tiger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个基于Vite+Vue3+NaiveUI中后台框架&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nuxt-modules/icon</title>
+    <updated>2022-09-08T01:43:15Z</updated>
+    <id>tag:github.com,2022-09-08:/nuxt-modules/icon</id>
+    <link href="https://github.com/nuxt-modules/icon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The &lt;Icon&gt; component, supporting Iconify, Emojis and custom components.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>webfansplz/temir-snake-game</title>
+    <updated>2022-09-08T01:43:15Z</updated>
+    <id>tag:github.com,2022-09-08:/webfansplz/temir-snake-game</id>
+    <link href="https://github.com/webfansplz/temir-snake-game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terminal-based Snake game. Powered by Temir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>we-dance/platform</title>
+    <updated>2022-09-08T01:43:15Z</updated>
+    <id>tag:github.com,2022-09-08:/we-dance/platform</id>
+    <link href="https://github.com/we-dance/platform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community platform for dancers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

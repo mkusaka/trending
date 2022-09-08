@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:37:38Z</updated>
+  <updated>2022-09-08T01:41:53Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0x32Moon/cat</title>
-    <updated>2022-09-07T01:37:38Z</updated>
-    <id>tag:github.com,2022-09-07:/0x32Moon/cat</id>
-    <link href="https://github.com/0x32Moon/cat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;soon&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zyachel/libremdb</title>
+    <updated>2022-09-08T01:41:53Z</updated>
+    <id>tag:github.com,2022-09-08:/zyachel/libremdb</id>
+    <link href="https://github.com/zyachel/libremdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A FOSS alternative front-end to IMDb.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SHUAILEFT/Veaser</title>
-    <updated>2022-09-07T01:37:38Z</updated>
-    <id>tag:github.com,2022-09-07:/SHUAILEFT/Veaser</id>
-    <link href="https://github.com/SHUAILEFT/Veaser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Veaser, 对前端初学者友好的Vue2.x组件库/Veaser,a Vue2.x components library for beginners&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uq-its-ss/design-system</title>
-    <updated>2022-09-07T01:37:38Z</updated>
-    <id>tag:github.com,2022-09-07:/uq-its-ss/design-system</id>
-    <link href="https://github.com/uq-its-ss/design-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/paper-kit-react</title>
+    <updated>2022-09-08T01:41:53Z</updated>
+    <id>tag:github.com,2022-09-08:/creativetimofficial/paper-kit-react</id>
+    <link href="https://github.com/creativetimofficial/paper-kit-react" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;React version of Paper Kit 2 by Creative Tim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

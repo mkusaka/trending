@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:35:20Z</updated>
+  <updated>2022-09-08T01:39:32Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>riscv-non-isa/riscv-elf-psabi-doc</title>
+    <updated>2022-09-08T01:39:32Z</updated>
+    <id>tag:github.com,2022-09-08:/riscv-non-isa/riscv-elf-psabi-doc</id>
+    <link href="https://github.com/riscv-non-isa/riscv-elf-psabi-doc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A RISC-V ELF psABI Document&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kubevirt/user-guide</title>
+    <updated>2022-09-08T01:39:32Z</updated>
+    <id>tag:github.com,2022-09-08:/kubevirt/user-guide</id>
+    <link href="https://github.com/kubevirt/user-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This user guide will walk you through installation and various features.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

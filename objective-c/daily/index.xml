@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:35:39Z</updated>
+  <updated>2022-09-08T01:39:54Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AloneMonkey/MonkeyDev</title>
-    <updated>2022-09-07T01:35:39Z</updated>
-    <id>tag:github.com,2022-09-07:/AloneMonkey/MonkeyDev</id>
-    <link href="https://github.com/AloneMonkey/MonkeyDev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps, Without Jailbreak.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MonkeyDev&lt;/h1&gt; &#xA;&lt;p&gt;A modified version of iOSOpenDev&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;easy to install&lt;/li&gt; &#xA; &lt;li&gt;support the latest version of theos&lt;/li&gt; &#xA; &lt;li&gt;support CaptainHook Tweak、Logos Tweak、Command-line Tool&lt;/li&gt; &#xA; &lt;li&gt;support insert dylib、class-dump、restore-symbol、reveal、cycript，patch and debug iOS Apps, without jailbreak.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Plese Read Wiki: &lt;a href=&#34;https://github.com/AloneMonkey/MonkeyDev/wiki&#34;&gt;Wiki&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;原有iOSOpenDev的升级，非越狱插件开发集成神器！&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;可以使用Xcode开发CaptainHook Tweak、Logos Tweak 和 Command-line Tool，在越狱机器开发插件，这是原来iOSOpenDev功能的迁移和改进。&lt;/li&gt; &#xA; &lt;li&gt;只需拖入一个砸壳应用，自动集成class-dump、restore-symbol、Reveal、Cycript和注入的动态库并重签名安装到非越狱机器。&lt;/li&gt; &#xA; &lt;li&gt;支持调试自己编写的动态库和第三方App&lt;/li&gt; &#xA; &lt;li&gt;支持通过CocoaPods第三方应用集成SDK以及非越狱插件，简单来说就是通过CocoaPods搭建了一个非越狱插件商店。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;使用请阅读Wiki文档: &lt;a href=&#34;https://github.com/AloneMonkey/MonkeyDev/wiki&#34;&gt;Wiki&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;非越狱插件CocoaPods私有仓库地址:&lt;a href=&#34;https://github.com/AloneMonkey/MonkeyDevSpecs&#34;&gt;MonkeyDevSpecs&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;免责声明: 软件仅供技术交流，禁止用于商业及非法用途，如产生法律纠纷与本人无关。&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;br&gt; &#xA;&lt;h2&gt;《iOS应用逆向与安全》出版啦！！！&lt;/h2&gt; &#xA;&lt;h1&gt;购书链接&lt;/h1&gt; &#xA;&lt;h4&gt;京东: &lt;a href=&#34;https://item.jd.com/12361729.html&#34;&gt;https://item.jd.com/12361729.html&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;天猫: &lt;a href=&#34;https://detail.tmall.com/item.htm?id=570691214072&#34;&gt;https://detail.tmall.com/item.htm?id=570691214072&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;当当: &lt;a href=&#34;http://product.dangdang.com/25283164.html&#34;&gt;http://product.dangdang.com/25283164.html&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;亚马逊: &lt;a href=&#34;https://www.amazon.cn/dp/B07D5952BR/&#34;&gt;https://www.amazon.cn/dp/B07D5952BR/&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h3&gt;请大家多多支持正版哦~&lt;/h3&gt;</summary>
-  </entry>
 </feed>

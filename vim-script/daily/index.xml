@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:38:59Z</updated>
+  <updated>2022-09-08T01:43:12Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pearofducks/ansible-vim</title>
-    <updated>2022-09-07T01:38:59Z</updated>
-    <id>tag:github.com,2022-09-07:/pearofducks/ansible-vim</id>
-    <link href="https://github.com/pearofducks/ansible-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vim plugin for syntax highlighting Ansible&#39;s common filetypes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lambdalisue/platex.vim</title>
+    <updated>2022-09-08T01:43:12Z</updated>
+    <id>tag:github.com,2022-09-08:/lambdalisue/platex.vim</id>
+    <link href="https://github.com/lambdalisue/platex.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;日本人の日本人による日本人のためのLaTeXコンパイル用Vimプラグイン&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>muramount/conf_files</title>
-    <updated>2022-09-07T01:38:59Z</updated>
-    <id>tag:github.com,2022-09-07:/muramount/conf_files</id>
-    <link href="https://github.com/muramount/conf_files" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;linux develop conf files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tomtom/tlib_vim</title>
+    <updated>2022-09-08T01:43:12Z</updated>
+    <id>tag:github.com,2022-09-08:/tomtom/tlib_vim</id>
+    <link href="https://github.com/tomtom/tlib_vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some utility functions for VIM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>4513ECHO/vim-colors-hatsunemiku</title>
-    <updated>2022-09-07T01:38:59Z</updated>
-    <id>tag:github.com,2022-09-07:/4513ECHO/vim-colors-hatsunemiku</id>
-    <link href="https://github.com/4513ECHO/vim-colors-hatsunemiku" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💚 A vim colorscheme like &#34;初音ミク&#34; (Hatsune Miku). Miku makes vimmers happy!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mattn/webapi-vim</title>
+    <updated>2022-09-08T01:43:12Z</updated>
+    <id>tag:github.com,2022-09-08:/mattn/webapi-vim</id>
+    <link href="https://github.com/mattn/webapi-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim interface to Web API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

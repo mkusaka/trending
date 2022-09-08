@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:33:27Z</updated>
+  <updated>2022-09-08T01:37:37Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>notapixelstudio/superstarfighter</title>
-    <updated>2022-09-07T01:33:27Z</updated>
-    <id>tag:github.com,2022-09-07:/notapixelstudio/superstarfighter</id>
-    <link href="https://github.com/notapixelstudio/superstarfighter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast-paced local party game with starships that battle in a 2d top-down arena&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NiclasEriksen/game-of-leif</title>
-    <updated>2022-09-07T01:33:27Z</updated>
-    <id>tag:github.com,2022-09-07:/NiclasEriksen/game-of-leif</id>
-    <link href="https://github.com/NiclasEriksen/game-of-leif" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A particle simulation based purely on attraction and repulsion. Watch Leif unfold before your eyes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ev1lbl0w/controller_icons</title>
+    <updated>2022-09-08T01:37:37Z</updated>
+    <id>tag:github.com,2022-09-08:/Ev1lbl0w/controller_icons</id>
+    <link href="https://github.com/Ev1lbl0w/controller_icons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatic keyboard/mouse/controller icons and remapper for Godot.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

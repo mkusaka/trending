@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:38:16Z</updated>
+  <updated>2022-09-08T01:42:23Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>breadthe/sd-buddy</title>
-    <updated>2022-09-07T01:38:16Z</updated>
-    <id>tag:github.com,2022-09-07:/breadthe/sd-buddy</id>
-    <link href="https://github.com/breadthe/sd-buddy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cncf/apisnoop</title>
+    <updated>2022-09-08T01:42:23Z</updated>
+    <id>tag:github.com,2022-09-08:/cncf/apisnoop</id>
+    <link href="https://github.com/cncf/apisnoop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭕️Snooping on the Kubernetes OpenAPI communications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gitpod-io/devx-community</title>
+    <updated>2022-09-08T01:42:23Z</updated>
+    <id>tag:github.com,2022-09-08:/gitpod-io/devx-community</id>
+    <link href="https://github.com/gitpod-io/devx-community" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

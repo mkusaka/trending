@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:37:15Z</updated>
+  <updated>2022-09-08T01:41:34Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>valence-rs/valence</title>
-    <updated>2022-09-07T01:37:15Z</updated>
-    <id>tag:github.com,2022-09-07:/valence-rs/valence</id>
-    <link href="https://github.com/valence-rs/valence" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Rust framework for building Minecraft servers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lunatic-solutions/lunatic</title>
+    <updated>2022-09-08T01:41:34Z</updated>
+    <id>tag:github.com,2022-09-08:/lunatic-solutions/lunatic</id>
+    <link href="https://github.com/lunatic-solutions/lunatic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lunatic is an Erlang-inspired runtime for WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MaikKlein/unreal-rust</title>
-    <updated>2022-09-07T01:37:15Z</updated>
-    <id>tag:github.com,2022-09-07:/MaikKlein/unreal-rust</id>
-    <link href="https://github.com/MaikKlein/unreal-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust integration for Unreal Engine 5&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>purefinance/mmb</title>
+    <updated>2022-09-08T01:41:34Z</updated>
+    <id>tag:github.com,2022-09-08:/purefinance/mmb</id>
+    <link href="https://github.com/purefinance/mmb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Trading bot implemented in Rust, with market making and strategy automation for any exchange or blockchain.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sloganking/rs-code-visualizer</title>
-    <updated>2022-09-07T01:37:15Z</updated>
-    <id>tag:github.com,2022-09-07:/sloganking/rs-code-visualizer</id>
-    <link href="https://github.com/sloganking/rs-code-visualizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Turns your code into one large PNG&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xi-editor/xi-editor</title>
+    <updated>2022-09-08T01:41:34Z</updated>
+    <id>tag:github.com,2022-09-08:/xi-editor/xi-editor</id>
+    <link href="https://github.com/xi-editor/xi-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern editor with a backend written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

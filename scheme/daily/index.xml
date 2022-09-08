@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:37:36Z</updated>
+  <updated>2022-09-08T01:41:52Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RHIT-CSSE/csse304</title>
-    <updated>2022-09-07T01:37:36Z</updated>
-    <id>tag:github.com,2022-09-07:/RHIT-CSSE/csse304</id>
-    <link href="https://github.com/RHIT-CSSE/csse304" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danx0r/festival</title>
+    <updated>2022-09-08T01:41:52Z</updated>
+    <id>tag:github.com,2022-09-08:/danx0r/festival</id>
+    <link href="https://github.com/danx0r/festival" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;some old versions of Festival, here for posterity&#39;s sake&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

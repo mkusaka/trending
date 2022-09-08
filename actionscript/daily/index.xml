@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:31:17Z</updated>
+  <updated>2022-09-08T01:35:31Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>quentint/as3-WeatherBug-API</title>
+    <updated>2022-09-08T01:35:31Z</updated>
+    <id>tag:github.com,2022-09-08:/quentint/as3-WeatherBug-API</id>
+    <link href="https://github.com/quentint/as3-WeatherBug-API" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple WeatherBug API for ActionScript 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

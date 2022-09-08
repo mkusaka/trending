@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:35:49Z</updated>
+  <updated>2022-09-08T01:40:05Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ocurrent/ocaml-docs-ci</title>
-    <updated>2022-09-07T01:35:49Z</updated>
-    <id>tag:github.com,2022-09-07:/ocurrent/ocaml-docs-ci</id>
-    <link href="https://github.com/ocurrent/ocaml-docs-ci" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CI building documentation for ALL versions of ALL packages !&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

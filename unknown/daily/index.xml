@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:30:46Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-08T01:35:19Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mr-xn/BLACKHAT_USA2022</title>
-    <updated>2022-09-07T01:30:46Z</updated>
-    <id>tag:github.com,2022-09-07:/Mr-xn/BLACKHAT_USA2022</id>
-    <link href="https://github.com/Mr-xn/BLACKHAT_USA2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BLACKHAT USA2022 PDF Public&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>safak/youtube2022</title>
+    <updated>2022-09-08T01:35:19Z</updated>
+    <id>tag:github.com,2022-09-08:/safak/youtube2022</id>
+    <link href="https://github.com/safak/youtube2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Season 2 on Lama Dev&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kghobbs/job-market-materials</title>
-    <updated>2022-09-07T01:30:46Z</updated>
-    <id>tag:github.com,2022-09-07:/kghobbs/job-market-materials</id>
-    <link href="https://github.com/kghobbs/job-market-materials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>llvm/llvm-project</title>
+    <updated>2022-09-08T01:35:19Z</updated>
+    <id>tag:github.com,2022-09-08:/llvm/llvm-project</id>
+    <link href="https://github.com/llvm/llvm-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mbeaudru/modern-js-cheatsheet</title>
-    <updated>2022-09-07T01:30:46Z</updated>
-    <id>tag:github.com,2022-09-07:/mbeaudru/modern-js-cheatsheet</id>
-    <link href="https://github.com/mbeaudru/modern-js-cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gskinnerTeam/flutter_vignettes</title>
+    <updated>2022-09-08T01:35:19Z</updated>
+    <id>tag:github.com,2022-09-08:/gskinnerTeam/flutter_vignettes</id>
+    <link href="https://github.com/gskinnerTeam/flutter_vignettes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of fun Flutter experiments, created by gskinner, in partnership with Google.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

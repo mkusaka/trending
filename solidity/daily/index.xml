@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-07T01:38:09Z</updated>
+  <updated>2022-09-08T01:42:16Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>curio-research/contracts</title>
-    <updated>2022-09-07T01:38:09Z</updated>
-    <id>tag:github.com,2022-09-07:/curio-research/contracts</id>
-    <link href="https://github.com/curio-research/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Fantom-foundation/Artion-Contracts</title>
-    <updated>2022-09-07T01:38:09Z</updated>
-    <id>tag:github.com,2022-09-07:/Fantom-foundation/Artion-Contracts</id>
-    <link href="https://github.com/Fantom-foundation/Artion-Contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts for Fantom Artion Marketplace&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>abigger87/femplate</title>
-    <updated>2022-09-07T01:38:09Z</updated>
-    <id>tag:github.com,2022-09-07:/abigger87/femplate</id>
-    <link href="https://github.com/abigger87/femplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Robust Template for Foundry Projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rmrk-team/evm-sample-contracts</title>
+    <updated>2022-09-08T01:42:16Z</updated>
+    <id>tag:github.com,2022-09-08:/rmrk-team/evm-sample-contracts</id>
+    <link href="https://github.com/rmrk-team/evm-sample-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Set of sample contracts created using RMRK standard package: @rmrk-team/evm-contracts&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
