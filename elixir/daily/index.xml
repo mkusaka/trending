@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:37:19Z</updated>
+  <updated>2022-09-09T01:35:49Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ScenicFramework/scenic</title>
-    <updated>2022-09-08T01:37:19Z</updated>
-    <id>tag:github.com,2022-09-08:/ScenicFramework/scenic</id>
-    <link href="https://github.com/ScenicFramework/scenic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core Scenic library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>juvet/juvet</title>
+    <updated>2022-09-09T01:35:49Z</updated>
+    <id>tag:github.com,2022-09-09:/juvet/juvet</id>
+    <link href="https://github.com/juvet/juvet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The MVC framework for chat apps built on a platform designed for communication systems.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>petlove/slack_elixir</title>
-    <updated>2022-09-08T01:37:19Z</updated>
-    <id>tag:github.com,2022-09-08:/petlove/slack_elixir</id>
-    <link href="https://github.com/petlove/slack_elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir lib to send messages to slack.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>livebook-dev/kino</title>
-    <updated>2022-09-08T01:37:19Z</updated>
-    <id>tag:github.com,2022-09-08:/livebook-dev/kino</id>
-    <link href="https://github.com/livebook-dev/kino" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Client-driven interactive widgets for Livebook&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coingaming/money-elixir</title>
+    <updated>2022-09-09T01:35:49Z</updated>
+    <id>tag:github.com,2022-09-09:/coingaming/money-elixir</id>
+    <link href="https://github.com/coingaming/money-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

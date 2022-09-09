@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:43:10Z</updated>
+  <updated>2022-09-09T01:41:28Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nonarkitten/amiga_replacement_project</title>
+    <updated>2022-09-09T01:41:28Z</updated>
+    <id>tag:github.com,2022-09-09:/nonarkitten/amiga_replacement_project</id>
+    <link href="https://github.com/nonarkitten/amiga_replacement_project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an attempt to make clean Verilog sources for each chip on the Amiga.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>b224hisl/rioschip</title>
+    <updated>2022-09-09T01:41:28Z</updated>
+    <id>tag:github.com,2022-09-09:/b224hisl/rioschip</id>
+    <link href="https://github.com/b224hisl/rioschip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

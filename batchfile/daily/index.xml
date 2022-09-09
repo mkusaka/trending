@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:35:46Z</updated>
+  <updated>2022-09-09T01:34:13Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Jodlar98/social-insecurity-master</title>
-    <updated>2022-09-08T01:35:46Z</updated>
-    <id>tag:github.com,2022-09-08:/Jodlar98/social-insecurity-master</id>
-    <link href="https://github.com/Jodlar98/social-insecurity-master" rel="alternate"></link>
+    <title>botman99/ue4-unreal-automation-tool</title>
+    <updated>2022-09-09T01:34:13Z</updated>
+    <id>tag:github.com,2022-09-09:/botman99/ue4-unreal-automation-tool</id>
+    <link href="https://github.com/botman99/ue4-unreal-automation-tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CXXPLOIDBOT/RDP-FREE-</title>
+    <updated>2022-09-09T01:34:13Z</updated>
+    <id>tag:github.com,2022-09-09:/CXXPLOIDBOT/RDP-FREE-</id>
+    <link href="https://github.com/CXXPLOIDBOT/RDP-FREE-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jagoanstore/RDP-FREE-JAGOAN-STORE</title>
+    <updated>2022-09-09T01:34:13Z</updated>
+    <id>tag:github.com,2022-09-09:/jagoanstore/RDP-FREE-JAGOAN-STORE</id>
+    <link href="https://github.com/jagoanstore/RDP-FREE-JAGOAN-STORE" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

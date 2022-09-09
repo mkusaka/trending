@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:42:16Z</updated>
+  <updated>2022-09-09T01:40:27Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rmrk-team/evm-sample-contracts</title>
-    <updated>2022-09-08T01:42:16Z</updated>
-    <id>tag:github.com,2022-09-08:/rmrk-team/evm-sample-contracts</id>
-    <link href="https://github.com/rmrk-team/evm-sample-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Set of sample contracts created using RMRK standard package: @rmrk-team/evm-contracts&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2022-09-nouns-builder</title>
+    <updated>2022-09-09T01:40:27Z</updated>
+    <id>tag:github.com,2022-09-09:/code-423n4/2022-09-nouns-builder</id>
+    <link href="https://github.com/code-423n4/2022-09-nouns-builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>transmissions11/goo-issuance</title>
+    <updated>2022-09-09T01:40:27Z</updated>
+    <id>tag:github.com,2022-09-09:/transmissions11/goo-issuance</id>
+    <link href="https://github.com/transmissions11/goo-issuance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GOO (Gradual Ownership Optimization) Issuance.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>w1nt3r-eth/dom-strategy-game</title>
+    <updated>2022-09-09T01:40:27Z</updated>
+    <id>tag:github.com,2022-09-09:/w1nt3r-eth/dom-strategy-game</id>
+    <link href="https://github.com/w1nt3r-eth/dom-strategy-game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple on-chain strategy game (work-in-progress)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

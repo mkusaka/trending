@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:43:08Z</updated>
+  <updated>2022-09-09T01:41:26Z</updated>
   <subtitle>Daily Trending of VBScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>keydet89/LNK</title>
+    <updated>2022-09-09T01:41:26Z</updated>
+    <id>tag:github.com,2022-09-09:/keydet89/LNK</id>
+    <link href="https://github.com/keydet89/LNK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for LNK stuff&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

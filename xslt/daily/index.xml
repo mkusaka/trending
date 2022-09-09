@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:43:22Z</updated>
+  <updated>2022-09-09T01:41:43Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SAA-SDT/eac-cpf-schema</title>
+    <updated>2022-09-09T01:41:43Z</updated>
+    <id>tag:github.com,2022-09-09:/SAA-SDT/eac-cpf-schema</id>
+    <link href="https://github.com/SAA-SDT/eac-cpf-schema" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;EAC-CPF&lt;/h1&gt; &#xA;&lt;h2&gt;EAC-CPF Schema files&lt;/h2&gt; &#xA;&lt;p&gt;This repository contains the official schema releases of EAC-CPF. Although the original releases did not contain version numbers, the three releases contained here may be referred to as:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;version 1.0 (released 2010);&lt;/li&gt; &#xA; &lt;li&gt;version 1.1 (a revised version of the original, released 2018); and&lt;/li&gt; &#xA; &lt;li&gt;version 2.0 (a major revision, released 2022).&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For more information, see &lt;a href=&#34;https://eac.staatsbibliothek-berlin.de&#34;&gt;https://eac.staatsbibliothek-berlin.de&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

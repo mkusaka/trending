@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:42:14Z</updated>
+  <updated>2022-09-09T01:40:25Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudforet-io/launchpad</title>
-    <updated>2022-09-08T01:42:14Z</updated>
-    <id>tag:github.com,2022-09-08:/cloudforet-io/launchpad</id>
-    <link href="https://github.com/cloudforet-io/launchpad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SpaceONE launchpad&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>datanav/sesam-helm-chart</title>
+    <updated>2022-09-09T01:40:25Z</updated>
+    <id>tag:github.com,2022-09-09:/datanav/sesam-helm-chart</id>
+    <link href="https://github.com/datanav/sesam-helm-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shikhar82/springboot-maven-micro</title>
+    <updated>2022-09-09T01:40:25Z</updated>
+    <id>tag:github.com,2022-09-09:/Shikhar82/springboot-maven-micro</id>
+    <link href="https://github.com/Shikhar82/springboot-maven-micro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

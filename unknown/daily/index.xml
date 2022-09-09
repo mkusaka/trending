@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:35:19Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-09-09T01:33:45Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>safak/youtube2022</title>
-    <updated>2022-09-08T01:35:19Z</updated>
-    <id>tag:github.com,2022-09-08:/safak/youtube2022</id>
-    <link href="https://github.com/safak/youtube2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Season 2 on Lama Dev&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IdreesInc/Monocraft</title>
+    <updated>2022-09-09T01:33:45Z</updated>
+    <id>tag:github.com,2022-09-09:/IdreesInc/Monocraft</id>
+    <link href="https://github.com/IdreesInc/Monocraft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A programming font based on the typeface used in Minecraft&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>llvm/llvm-project</title>
-    <updated>2022-09-08T01:35:19Z</updated>
-    <id>tag:github.com,2022-09-08:/llvm/llvm-project</id>
-    <link href="https://github.com/llvm/llvm-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qazbnm456/awesome-web-security</title>
+    <updated>2022-09-09T01:33:45Z</updated>
+    <id>tag:github.com,2022-09-09:/qazbnm456/awesome-web-security</id>
+    <link href="https://github.com/qazbnm456/awesome-web-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐶 A curated list of Web Security materials and resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gskinnerTeam/flutter_vignettes</title>
-    <updated>2022-09-08T01:35:19Z</updated>
-    <id>tag:github.com,2022-09-08:/gskinnerTeam/flutter_vignettes</id>
-    <link href="https://github.com/gskinnerTeam/flutter_vignettes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of fun Flutter experiments, created by gskinner, in partnership with Google.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SPX372928/MyIPTV</title>
+    <updated>2022-09-09T01:33:45Z</updated>
+    <id>tag:github.com,2022-09-09:/SPX372928/MyIPTV</id>
+    <link href="https://github.com/SPX372928/MyIPTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;标准协议移动直播源&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

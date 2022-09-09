@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub KiCad Layout Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:39:06Z</updated>
+  <updated>2022-09-09T01:37:35Z</updated>
   <subtitle>Daily Trending of KiCad Layout in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Redherring32/TinyTendo</title>
+    <updated>2022-09-09T01:37:35Z</updated>
+    <id>tag:github.com,2022-09-09:/Redherring32/TinyTendo</id>
+    <link href="https://github.com/Redherring32/TinyTendo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source portable handheld NES using real hardware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

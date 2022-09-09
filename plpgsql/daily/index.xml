@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:40:34Z</updated>
+  <updated>2022-09-09T01:38:49Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tudelft3d/3DCityDB-QGIS-Loader</title>
-    <updated>2022-09-08T01:40:34Z</updated>
-    <id>tag:github.com,2022-09-08:/tudelft3d/3DCityDB-QGIS-Loader</id>
-    <link href="https://github.com/tudelft3d/3DCityDB-QGIS-Loader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains code of a QGIS plugin that facilitates data handling of the CityGML 3D City Database.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meeeejin/SWE3033-F2021</title>
+    <updated>2022-09-09T01:38:49Z</updated>
+    <id>tag:github.com,2022-09-09:/meeeejin/SWE3033-F2021</id>
+    <link href="https://github.com/meeeejin/SWE3033-F2021" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SKKU SWE3033: Database Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:39:00Z</updated>
+  <updated>2022-09-09T01:37:22Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaLang/LinearAlgebra.jl</title>
-    <updated>2022-09-08T01:39:00Z</updated>
-    <id>tag:github.com,2022-09-08:/JuliaLang/LinearAlgebra.jl</id>
-    <link href="https://github.com/JuliaLang/LinearAlgebra.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/DiffEqFlux.jl</title>
+    <updated>2022-09-09T01:37:22Z</updated>
+    <id>tag:github.com,2022-09-09:/SciML/DiffEqFlux.jl</id>
+    <link href="https://github.com/SciML/DiffEqFlux.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers, demonstrating scientific machine learning (SciML) and physics-informed machine learning methods&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/DiffEqBayes.jl</title>
-    <updated>2022-09-08T01:39:00Z</updated>
-    <id>tag:github.com,2022-09-08:/SciML/DiffEqBayes.jl</id>
-    <link href="https://github.com/SciML/DiffEqBayes.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extension functionality which uses Stan.jl, DynamicHMC.jl, and Turing.jl to estimate the parameters to differential equations and perform Bayesian probabilistic scientific machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mitmath/JuliaComputation</title>
+    <updated>2022-09-09T01:37:22Z</updated>
+    <id>tag:github.com,2022-09-09:/mitmath/JuliaComputation</id>
+    <link href="https://github.com/mitmath/JuliaComputation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for Common Ground C25&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/DiffEqOperators.jl</title>
-    <updated>2022-09-08T01:39:00Z</updated>
-    <id>tag:github.com,2022-09-08:/SciML/DiffEqOperators.jl</id>
-    <link href="https://github.com/SciML/DiffEqOperators.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Linear operators for discretizations of differential equations and scientific machine learning (SciML)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yoninazarathy/2504_2022_project1</title>
+    <updated>2022-09-09T01:37:22Z</updated>
+    <id>tag:github.com,2022-09-09:/yoninazarathy/2504_2022_project1</id>
+    <link href="https://github.com/yoninazarathy/2504_2022_project1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for project 1 in the 2022 MATH2504 course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

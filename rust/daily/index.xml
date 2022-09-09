@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:41:34Z</updated>
+  <updated>2022-09-09T01:39:42Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lunatic-solutions/lunatic</title>
-    <updated>2022-09-08T01:41:34Z</updated>
-    <id>tag:github.com,2022-09-08:/lunatic-solutions/lunatic</id>
-    <link href="https://github.com/lunatic-solutions/lunatic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lunatic is an Erlang-inspired runtime for WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GetFirefly/firefly</title>
+    <updated>2022-09-09T01:39:42Z</updated>
+    <id>tag:github.com,2022-09-09:/GetFirefly/firefly</id>
+    <link href="https://github.com/GetFirefly/firefly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An alternative BEAM implementation, designed for WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>purefinance/mmb</title>
-    <updated>2022-09-08T01:41:34Z</updated>
-    <id>tag:github.com,2022-09-08:/purefinance/mmb</id>
-    <link href="https://github.com/purefinance/mmb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Trading bot implemented in Rust, with market making and strategy automation for any exchange or blockchain.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sloganking/codevis</title>
+    <updated>2022-09-09T01:39:42Z</updated>
+    <id>tag:github.com,2022-09-09:/sloganking/codevis</id>
+    <link href="https://github.com/sloganking/codevis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Turns your code into one large PNG&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xi-editor/xi-editor</title>
-    <updated>2022-09-08T01:41:34Z</updated>
-    <id>tag:github.com,2022-09-08:/xi-editor/xi-editor</id>
-    <link href="https://github.com/xi-editor/xi-editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern editor with a backend written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>build-trust/ockam</title>
+    <updated>2022-09-09T01:39:42Z</updated>
+    <id>tag:github.com,2022-09-09:/build-trust/ockam</id>
+    <link href="https://github.com/build-trust/ockam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Orchestrate end-to-end encryption, mutual authentication, key management, credential management &amp; authorization policy enforcement — at scale.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

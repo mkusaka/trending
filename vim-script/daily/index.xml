@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:43:12Z</updated>
+  <updated>2022-09-09T01:41:31Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lambdalisue/platex.vim</title>
-    <updated>2022-09-08T01:43:12Z</updated>
-    <id>tag:github.com,2022-09-08:/lambdalisue/platex.vim</id>
-    <link href="https://github.com/lambdalisue/platex.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;日本人の日本人による日本人のためのLaTeXコンパイル用Vimプラグイン&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nulpunkt/configs</title>
+    <updated>2022-09-09T01:41:31Z</updated>
+    <id>tag:github.com,2022-09-09:/nulpunkt/configs</id>
+    <link href="https://github.com/nulpunkt/configs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My configfiles&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tomtom/tlib_vim</title>
-    <updated>2022-09-08T01:43:12Z</updated>
-    <id>tag:github.com,2022-09-08:/tomtom/tlib_vim</id>
-    <link href="https://github.com/tomtom/tlib_vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some utility functions for VIM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phanviet/vim-monokai-pro</title>
+    <updated>2022-09-09T01:41:31Z</updated>
+    <id>tag:github.com,2022-09-09:/phanviet/vim-monokai-pro</id>
+    <link href="https://github.com/phanviet/vim-monokai-pro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monokai Pro color scheme for Vim / Neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mattn/webapi-vim</title>
-    <updated>2022-09-08T01:43:12Z</updated>
-    <id>tag:github.com,2022-09-08:/mattn/webapi-vim</id>
-    <link href="https://github.com/mattn/webapi-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim interface to Web API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpope/vim-ragtag</title>
+    <updated>2022-09-09T01:41:31Z</updated>
+    <id>tag:github.com,2022-09-09:/tpope/vim-ragtag</id>
+    <link href="https://github.com/tpope/vim-ragtag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

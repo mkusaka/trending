@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:37:28Z</updated>
+  <updated>2022-09-09T01:35:59Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kivra/kivra-api-errors</title>
-    <updated>2022-09-08T01:37:28Z</updated>
-    <id>tag:github.com,2022-09-08:/kivra/kivra-api-errors</id>
-    <link href="https://github.com/kivra/kivra-api-errors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kivra API Errors&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nomasystems/triq</title>
-    <updated>2022-09-08T01:37:28Z</updated>
-    <id>tag:github.com,2022-09-08:/nomasystems/triq</id>
-    <link href="https://github.com/nomasystems/triq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FORKED FROM https://gitlab.com/triq/triq&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nomasystems/ncalendar</title>
+    <updated>2022-09-09T01:35:59Z</updated>
+    <id>tag:github.com,2022-09-09:/nomasystems/ncalendar</id>
+    <link href="https://github.com/nomasystems/ncalendar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An OTP library for the manipulation of a binary representation of dates and times&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

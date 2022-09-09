@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-08T01:42:57Z</updated>
+  <updated>2022-09-09T01:41:09Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cq-panda/Vue.NetCore</title>
-    <updated>2022-09-08T01:42:57Z</updated>
-    <id>tag:github.com,2022-09-08:/cq-panda/Vue.NetCore</id>
-    <link href="https://github.com/cq-panda/Vue.NetCore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;.NetCore+Vue2/Vue3+Element plus+uniapp前后端分离，全自动生成代码；支持移动端(uniapp)ios/android/h5/微信小程序。http://www.volcore.xyz/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nashville-software-school/bangazon-inc</title>
-    <updated>2022-09-08T01:42:57Z</updated>
-    <id>tag:github.com,2022-09-08:/nashville-software-school/bangazon-inc</id>
-    <link href="https://github.com/nashville-software-school/bangazon-inc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curriculum for the C# web development full-time back-end course.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
