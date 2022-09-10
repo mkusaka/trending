@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:34:04Z</updated>
+  <updated>2022-09-10T01:34:44Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>registerguard/custom.rg.Scraper</title>
-    <updated>2022-09-09T01:34:04Z</updated>
-    <id>tag:github.com,2022-09-09:/registerguard/custom.rg.Scraper</id>
-    <link href="https://github.com/registerguard/custom.rg.Scraper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#34;Scraper&#34; class for DTI&#39;s ContentPublisher CMS which is built on Intersystems Caché, the world&#39;s fastest high performance object database.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

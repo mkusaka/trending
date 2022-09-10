@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:41:31Z</updated>
+  <updated>2022-09-10T01:42:28Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nulpunkt/configs</title>
-    <updated>2022-09-09T01:41:31Z</updated>
-    <id>tag:github.com,2022-09-09:/nulpunkt/configs</id>
-    <link href="https://github.com/nulpunkt/configs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My configfiles&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>braintreeps/vim_dotfiles</title>
+    <updated>2022-09-10T01:42:28Z</updated>
+    <id>tag:github.com,2022-09-10:/braintreeps/vim_dotfiles</id>
+    <link href="https://github.com/braintreeps/vim_dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;our vim dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>phanviet/vim-monokai-pro</title>
-    <updated>2022-09-09T01:41:31Z</updated>
-    <id>tag:github.com,2022-09-09:/phanviet/vim-monokai-pro</id>
-    <link href="https://github.com/phanviet/vim-monokai-pro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Monokai Pro color scheme for Vim / Neovim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thomcom/vim</title>
+    <updated>2022-09-10T01:42:28Z</updated>
+    <id>tag:github.com,2022-09-10:/thomcom/vim</id>
+    <link href="https://github.com/thomcom/vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim custom configuration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tpope/vim-ragtag</title>
-    <updated>2022-09-09T01:41:31Z</updated>
-    <id>tag:github.com,2022-09-09:/tpope/vim-ragtag</id>
-    <link href="https://github.com/tpope/vim-ragtag" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/pb.vim</title>
+    <updated>2022-09-10T01:42:28Z</updated>
+    <id>tag:github.com,2022-09-10:/vim-scripts/pb.vim</id>
+    <link href="https://github.com/vim-scripts/pb.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;plugin for interacting with Mac OS X pastebuffer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

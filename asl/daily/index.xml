@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:34:05Z</updated>
+  <updated>2022-09-10T01:34:45Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Lorys89/Lenovo_ThinkPad_E570</title>
+    <updated>2022-09-10T01:34:45Z</updated>
+    <id>tag:github.com,2022-09-10:/Lorys89/Lenovo_ThinkPad_E570</id>
+    <link href="https://github.com/Lorys89/Lenovo_ThinkPad_E570" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HACKINTOSH OPENCORE LENOVO THINKPAD E570/E470&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

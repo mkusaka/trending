@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:34:13Z</updated>
+  <updated>2022-09-10T01:34:52Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>botman99/ue4-unreal-automation-tool</title>
-    <updated>2022-09-09T01:34:13Z</updated>
-    <id>tag:github.com,2022-09-09:/botman99/ue4-unreal-automation-tool</id>
-    <link href="https://github.com/botman99/ue4-unreal-automation-tool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>so87/CISSP-Study-Guide</title>
+    <updated>2022-09-10T01:34:52Z</updated>
+    <id>tag:github.com,2022-09-10:/so87/CISSP-Study-Guide</id>
+    <link href="https://github.com/so87/CISSP-Study-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;study material used for the 2018 CISSP exam&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CXXPLOIDBOT/RDP-FREE-</title>
-    <updated>2022-09-09T01:34:13Z</updated>
-    <id>tag:github.com,2022-09-09:/CXXPLOIDBOT/RDP-FREE-</id>
-    <link href="https://github.com/CXXPLOIDBOT/RDP-FREE-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pr0cf5/kernel-exploit-practice</title>
+    <updated>2022-09-10T01:34:52Z</updated>
+    <id>tag:github.com,2022-09-10:/pr0cf5/kernel-exploit-practice</id>
+    <link href="https://github.com/pr0cf5/kernel-exploit-practice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;repository for kernel exploit practice&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jagoanstore/RDP-FREE-JAGOAN-STORE</title>
-    <updated>2022-09-09T01:34:13Z</updated>
-    <id>tag:github.com,2022-09-09:/jagoanstore/RDP-FREE-JAGOAN-STORE</id>
-    <link href="https://github.com/jagoanstore/RDP-FREE-JAGOAN-STORE" rel="alternate"></link>
+    <title>NightBOTDeveloper/rdp6jam</title>
+    <updated>2022-09-10T01:34:52Z</updated>
+    <id>tag:github.com,2022-09-10:/NightBOTDeveloper/rdp6jam</id>
+    <link href="https://github.com/NightBOTDeveloper/rdp6jam" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

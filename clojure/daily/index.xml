@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:34:59Z</updated>
+  <updated>2022-09-10T01:35:42Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clojure/data.generators</title>
-    <updated>2022-09-09T01:34:59Z</updated>
-    <id>tag:github.com,2022-09-09:/clojure/data.generators</id>
-    <link href="https://github.com/clojure/data.generators" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Random data generators&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stathissideris/spectacles</title>
+    <updated>2022-09-10T01:35:42Z</updated>
+    <id>tag:github.com,2022-09-10:/stathissideris/spectacles</id>
+    <link href="https://github.com/stathissideris/spectacles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lenses for Clojure, checked at runtime using spec.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cljdoc/cljdoc</title>
-    <updated>2022-09-09T01:34:59Z</updated>
-    <id>tag:github.com,2022-09-09:/cljdoc/cljdoc</id>
-    <link href="https://github.com/cljdoc/cljdoc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 A central documentation hub for the Clojure community&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ferdinand-beyer/refx</title>
+    <updated>2022-09-10T01:35:42Z</updated>
+    <id>tag:github.com,2022-09-10:/ferdinand-beyer/refx</id>
+    <link href="https://github.com/ferdinand-beyer/refx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;re-frame without Reagent&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

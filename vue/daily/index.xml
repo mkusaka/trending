@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:41:34Z</updated>
+  <updated>2022-09-10T01:42:31Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>meleethine/aria2c-vue-ui</title>
-    <updated>2022-09-09T01:41:34Z</updated>
-    <id>tag:github.com,2022-09-09:/meleethine/aria2c-vue-ui</id>
-    <link href="https://github.com/meleethine/aria2c-vue-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🙋‍♂Hi pals,这是一个对新手特友好的纯前端demo,不需要vuex,后端接口可DIY调用.本项目为🐮🍺下载内核aria2c的前端UI,技术栈vue2 + vue-router + ES6 + Element UI + WebSocket + webpack ,欢迎🍴&amp;&amp;⭐,共同提升,持续完善中...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>creativetimofficial/bootstrap-vue-argon-dashboard</title>
-    <updated>2022-09-09T01:41:34Z</updated>
-    <id>tag:github.com,2022-09-09:/creativetimofficial/bootstrap-vue-argon-dashboard</id>
-    <link href="https://github.com/creativetimofficial/bootstrap-vue-argon-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rancher/dashboard</title>
+    <updated>2022-09-10T01:42:31Z</updated>
+    <id>tag:github.com,2022-09-10:/rancher/dashboard</id>
+    <link href="https://github.com/rancher/dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rancher new Dashboard UI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

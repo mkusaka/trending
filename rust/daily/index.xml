@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:39:42Z</updated>
+  <updated>2022-09-10T01:40:49Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GetFirefly/firefly</title>
-    <updated>2022-09-09T01:39:42Z</updated>
-    <id>tag:github.com,2022-09-09:/GetFirefly/firefly</id>
-    <link href="https://github.com/GetFirefly/firefly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An alternative BEAM implementation, designed for WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aalykiot/dune</title>
+    <updated>2022-09-10T01:40:49Z</updated>
+    <id>tag:github.com,2022-09-10:/aalykiot/dune</id>
+    <link href="https://github.com/aalykiot/dune" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A hobby runtime for JavaScript and TypeScript 🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sloganking/codevis</title>
-    <updated>2022-09-09T01:39:42Z</updated>
-    <id>tag:github.com,2022-09-09:/sloganking/codevis</id>
-    <link href="https://github.com/sloganking/codevis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Turns your code into one large PNG&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>webrtc-rs/webrtc</title>
+    <updated>2022-09-10T01:40:49Z</updated>
+    <id>tag:github.com,2022-09-10:/webrtc-rs/webrtc</id>
+    <link href="https://github.com/webrtc-rs/webrtc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure Rust implementation of WebRTC&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>build-trust/ockam</title>
-    <updated>2022-09-09T01:39:42Z</updated>
-    <id>tag:github.com,2022-09-09:/build-trust/ockam</id>
-    <link href="https://github.com/build-trust/ockam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Orchestrate end-to-end encryption, mutual authentication, key management, credential management &amp; authorization policy enforcement — at scale.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tock/tock</title>
+    <updated>2022-09-10T01:40:49Z</updated>
+    <id>tag:github.com,2022-09-10:/tock/tock</id>
+    <link href="https://github.com/tock/tock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A secure embedded operating system for microcontrollers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

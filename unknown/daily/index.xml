@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:33:45Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-10T01:34:02Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IdreesInc/Monocraft</title>
-    <updated>2022-09-09T01:33:45Z</updated>
-    <id>tag:github.com,2022-09-09:/IdreesInc/Monocraft</id>
-    <link href="https://github.com/IdreesInc/Monocraft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A programming font based on the typeface used in Minecraft&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>naver/fe-news</title>
+    <updated>2022-09-10T01:34:02Z</updated>
+    <id>tag:github.com,2022-09-10:/naver/fe-news</id>
+    <link href="https://github.com/naver/fe-news" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FE 기술 소식 큐레이션 뉴스레터&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>qazbnm456/awesome-web-security</title>
-    <updated>2022-09-09T01:33:45Z</updated>
-    <id>tag:github.com,2022-09-09:/qazbnm456/awesome-web-security</id>
-    <link href="https://github.com/qazbnm456/awesome-web-security" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐶 A curated list of Web Security materials and resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meirwah/awesome-workflow-engines</title>
+    <updated>2022-09-10T01:34:02Z</updated>
+    <id>tag:github.com,2022-09-10:/meirwah/awesome-workflow-engines</id>
+    <link href="https://github.com/meirwah/awesome-workflow-engines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome open source workflow engines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SPX372928/MyIPTV</title>
-    <updated>2022-09-09T01:33:45Z</updated>
-    <id>tag:github.com,2022-09-09:/SPX372928/MyIPTV</id>
-    <link href="https://github.com/SPX372928/MyIPTV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;标准协议移动直播源&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CavsZhouyou/Front-End-Interview-Notebook</title>
+    <updated>2022-09-10T01:34:02Z</updated>
+    <id>tag:github.com,2022-09-10:/CavsZhouyou/Front-End-Interview-Notebook</id>
+    <link href="https://github.com/CavsZhouyou/Front-End-Interview-Notebook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐜前端面试复习笔记&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

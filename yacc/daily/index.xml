@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Yacc Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:41:42Z</updated>
+  <updated>2022-09-10T01:42:37Z</updated>
   <subtitle>Daily Trending of Yacc in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>maxrchung/insane_game_jam_im_insane</title>
+    <updated>2022-09-10T01:42:37Z</updated>
+    <id>tag:github.com,2022-09-10:/maxrchung/insane_game_jam_im_insane</id>
+    <link href="https://github.com/maxrchung/insane_game_jam_im_insane" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Insane game jam I&#39;M INSANE&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

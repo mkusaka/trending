@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:35:06Z</updated>
+  <updated>2022-09-10T01:35:47Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zenhacks/zenbot</title>
-    <updated>2022-09-09T01:35:06Z</updated>
-    <id>tag:github.com,2022-09-09:/zenhacks/zenbot</id>
-    <link href="https://github.com/zenhacks/zenbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Out beloved robots in zenhacks - luban&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andreyvit/json-diff</title>
+    <updated>2022-09-10T01:35:47Z</updated>
+    <id>tag:github.com,2022-09-10:/andreyvit/json-diff</id>
+    <link href="https://github.com/andreyvit/json-diff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Structural diff for JSON files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wlaurance/shopify-oauth-tool</title>
+    <updated>2022-09-10T01:35:47Z</updated>
+    <id>tag:github.com,2022-09-10:/wlaurance/shopify-oauth-tool</id>
+    <link href="https://github.com/wlaurance/shopify-oauth-tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool for getting a permanent API Token for node applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

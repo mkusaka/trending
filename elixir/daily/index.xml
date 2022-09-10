@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:35:49Z</updated>
+  <updated>2022-09-10T01:36:22Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>juvet/juvet</title>
-    <updated>2022-09-09T01:35:49Z</updated>
-    <id>tag:github.com,2022-09-09:/juvet/juvet</id>
-    <link href="https://github.com/juvet/juvet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The MVC framework for chat apps built on a platform designed for communication systems.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>coingaming/money-elixir</title>
-    <updated>2022-09-09T01:35:49Z</updated>
-    <id>tag:github.com,2022-09-09:/coingaming/money-elixir</id>
-    <link href="https://github.com/coingaming/money-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ash-project/ash_hq</title>
+    <updated>2022-09-10T01:36:22Z</updated>
+    <id>tag:github.com,2022-09-10:/ash-project/ash_hq</id>
+    <link href="https://github.com/ash-project/ash_hq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Ash Framework homepage and documentation site.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

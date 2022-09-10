@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:39:58Z</updated>
+  <updated>2022-09-10T01:41:01Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devsisters/shardcake</title>
+    <updated>2022-09-10T01:41:01Z</updated>
+    <id>tag:github.com,2022-09-10:/devsisters/shardcake</id>
+    <link href="https://github.com/devsisters/shardcake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sharding and location transparency for Scala&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Shardcake&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://s01.oss.sonatype.org/content/repositories/releases/com/devsisters/shardcake-core_2.13/&#34; title=&#34;Sonatype Releases&#34;&gt;&lt;img src=&#34;https://img.shields.io/nexus/r/https/s01.oss.sonatype.org/com.devsisters/shardcake-core_2.13.svg?sanitize=true&#34; alt=&#34;Release Artifacts&#34; title=&#34;Sonatype Releases&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://s01.oss.sonatype.org/content/repositories/snapshots/com/devsisters/shardcake-core_2.13/&#34; title=&#34;Sonatype Snapshots&#34;&gt;&lt;img src=&#34;https://img.shields.io/nexus/s/https/s01.oss.sonatype.org/com.devsisters/shardcake-core_2.13.svg?sanitize=true&#34; alt=&#34;Snapshot Artifacts&#34; title=&#34;Sonatype Snapshots&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Shardcake&lt;/strong&gt; is a &lt;strong&gt;Scala open source library&lt;/strong&gt; that makes it easy to distribute entities across multiple servers and interact with those entities using their ID without knowing their actual location (this is also known as &lt;em&gt;location transparency&lt;/em&gt;).&lt;/p&gt; &#xA;&lt;p&gt;Shardcake exposes a &lt;strong&gt;purely functional API&lt;/strong&gt; and depends heavily on &lt;a href=&#34;https://zio.dev&#34;&gt;ZIO&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;a href=&#34;https://devsisters.github.io/shardcake/&#34;&gt;Documentation&lt;/a&gt; explains how to use Shardcake, in particular:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;how to &lt;a href=&#34;https://devsisters.github.io/shardcake/docs/&#34;&gt;get started&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;the &lt;a href=&#34;https://devsisters.github.io/shardcake/docs/architecture.html&#34;&gt;architecture&lt;/a&gt; behind shardcake&lt;/li&gt; &#xA; &lt;li&gt;how to &lt;a href=&#34;https://devsisters.github.io/shardcake/docs/config.html&#34;&gt;configure&lt;/a&gt; it&lt;/li&gt; &#xA; &lt;li&gt;parts you can &lt;a href=&#34;https://devsisters.github.io/shardcake/docs/customization.html&#34;&gt;customize&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>wickedwukong/SeriousPiggies</title>
+    <updated>2022-09-10T01:41:01Z</updated>
+    <id>tag:github.com,2022-09-10:/wickedwukong/SeriousPiggies</id>
+    <link href="https://github.com/wickedwukong/SeriousPiggies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal finance education&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

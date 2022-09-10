@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:40:27Z</updated>
+  <updated>2022-09-10T01:41:33Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2022-09-nouns-builder</title>
-    <updated>2022-09-09T01:40:27Z</updated>
-    <id>tag:github.com,2022-09-09:/code-423n4/2022-09-nouns-builder</id>
-    <link href="https://github.com/code-423n4/2022-09-nouns-builder" rel="alternate"></link>
+    <title>code-423n4/2022-09-canto</title>
+    <updated>2022-09-10T01:41:33Z</updated>
+    <id>tag:github.com,2022-09-10:/code-423n4/2022-09-canto</id>
+    <link href="https://github.com/code-423n4/2022-09-canto" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>transmissions11/goo-issuance</title>
-    <updated>2022-09-09T01:40:27Z</updated>
-    <id>tag:github.com,2022-09-09:/transmissions11/goo-issuance</id>
-    <link href="https://github.com/transmissions11/goo-issuance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GOO (Gradual Ownership Optimization) Issuance.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>a16z/evm-powers-of-tau</title>
+    <updated>2022-09-10T01:41:33Z</updated>
+    <id>tag:github.com,2022-09-10:/a16z/evm-powers-of-tau</id>
+    <link href="https://github.com/a16z/evm-powers-of-tau" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>w1nt3r-eth/dom-strategy-game</title>
-    <updated>2022-09-09T01:40:27Z</updated>
-    <id>tag:github.com,2022-09-09:/w1nt3r-eth/dom-strategy-game</id>
-    <link href="https://github.com/w1nt3r-eth/dom-strategy-game" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple on-chain strategy game (work-in-progress)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paxosglobal/busd-contract</title>
+    <updated>2022-09-10T01:41:33Z</updated>
+    <id>tag:github.com,2022-09-10:/paxosglobal/busd-contract</id>
+    <link href="https://github.com/paxosglobal/busd-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity smart contracts for the Binance USD&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

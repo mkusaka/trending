@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:39:07Z</updated>
+  <updated>2022-09-10T01:40:09Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wikimedia/puppet-kafka-0.7.2</title>
+    <updated>2022-09-10T01:40:09Z</updated>
+    <id>tag:github.com,2022-09-10:/wikimedia/puppet-kafka-0.7.2</id>
+    <link href="https://github.com/wikimedia/puppet-kafka-0.7.2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Puppet module for installing and managing Apache Kafka brokers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wikimedia/puppet-storm</title>
+    <updated>2022-09-10T01:40:09Z</updated>
+    <id>tag:github.com,2022-09-10:/wikimedia/puppet-storm</id>
+    <link href="https://github.com/wikimedia/puppet-storm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to install and manage Storm.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

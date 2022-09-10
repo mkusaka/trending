@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:38:04Z</updated>
+  <updated>2022-09-10T01:38:57Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mathworks/bloombergHypermedia</title>
+    <updated>2022-09-10T01:38:57Z</updated>
+    <id>tag:github.com,2022-09-10:/mathworks/bloombergHypermedia</id>
+    <link href="https://github.com/mathworks/bloombergHypermedia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Access to Bloomberg Hypermedia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>scottclowe/matlab-schemer</title>
+    <updated>2022-09-10T01:38:57Z</updated>
+    <id>tag:github.com,2022-09-10:/scottclowe/matlab-schemer</id>
+    <link href="https://github.com/scottclowe/matlab-schemer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apply and save color schemes in MATLAB with ease.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

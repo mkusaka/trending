@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-09T01:36:25Z</updated>
+  <updated>2022-09-10T01:37:09Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thezaorish/cucumber-jvm-geb-example</title>
-    <updated>2022-09-09T01:36:25Z</updated>
-    <id>tag:github.com,2022-09-09:/thezaorish/cucumber-jvm-geb-example</id>
-    <link href="https://github.com/thezaorish/cucumber-jvm-geb-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;skeleton project for demostrating the integration between cucumber-jvm and geb&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dorongold/gradle-task-tree</title>
+    <updated>2022-09-10T01:37:09Z</updated>
+    <id>tag:github.com,2022-09-10:/dorongold/gradle-task-tree</id>
+    <link href="https://github.com/dorongold/gradle-task-tree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin that adds a &#39;taskTree&#39; task that prints task dependency tree&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>micronode/feedhabit</title>
-    <updated>2022-09-09T01:36:25Z</updated>
-    <id>tag:github.com,2022-09-09:/micronode/feedhabit</id>
-    <link href="https://github.com/micronode/feedhabit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Internet management tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Zer0d/jrepo</title>
+    <updated>2022-09-10T01:37:09Z</updated>
+    <id>tag:github.com,2022-09-10:/Zer0d/jrepo</id>
+    <link href="https://github.com/Zer0d/jrepo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ka-ching! You zero&#39;d another repo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
