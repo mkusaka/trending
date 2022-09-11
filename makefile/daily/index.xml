@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:38:53Z</updated>
+  <updated>2022-09-11T01:36:21Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AICP/build</title>
-    <updated>2022-09-10T01:38:53Z</updated>
-    <id>tag:github.com,2022-09-10:/AICP/build</id>
-    <link href="https://github.com/AICP/build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android Build System (forked from cyanogenmod)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd-instance</title>
-    <updated>2022-09-10T01:38:53Z</updated>
-    <id>tag:github.com,2022-09-10:/TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd-instance</id>
-    <link href="https://github.com/TeoZosa/cookiecutter-cruft-poetry-tox-pre-commit-ci-cd-instance" rel="alternate"></link>
+    <title>LineageOS/android_external_chromium-webview_patches</title>
+    <updated>2022-09-11T01:36:21Z</updated>
+    <id>tag:github.com,2022-09-11:/LineageOS/android_external_chromium-webview_patches</id>
+    <link href="https://github.com/LineageOS/android_external_chromium-webview_patches" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

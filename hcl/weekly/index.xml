@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-11T01:43:16Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ned1313/Getting-Started-Terraform</title>
+    <updated>2022-09-11T01:43:16Z</updated>
+    <id>tag:github.com,2022-09-11:/ned1313/Getting-Started-Terraform</id>
+    <link href="https://github.com/ned1313/Getting-Started-Terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise files for my Pluralsight course&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-google-modules/terraform-docs-samples</title>
+    <updated>2022-09-11T01:43:16Z</updated>
+    <id>tag:github.com,2022-09-11:/terraform-google-modules/terraform-docs-samples</id>
+    <link href="https://github.com/terraform-google-modules/terraform-docs-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform samples intended for inclusion in cloud.google.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xcad2k/videos</title>
+    <updated>2022-09-11T01:43:16Z</updated>
+    <id>tag:github.com,2022-09-11:/xcad2k/videos</id>
+    <link href="https://github.com/xcad2k/videos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is my video documentation. Here you&#39;ll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

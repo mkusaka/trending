@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:36:46Z</updated>
+  <updated>2022-09-11T01:34:23Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HL7/fhir-directory-attestation</title>
-    <updated>2022-09-10T01:36:46Z</updated>
-    <id>tag:github.com,2022-09-10:/HL7/fhir-directory-attestation</id>
-    <link href="https://github.com/HL7/fhir-directory-attestation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FAST directory attestation FHIR implementation guide&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HL7/fhir-directory-query</title>
-    <updated>2022-09-10T01:36:46Z</updated>
-    <id>tag:github.com,2022-09-10:/HL7/fhir-directory-query</id>
-    <link href="https://github.com/HL7/fhir-directory-query" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FAST directory query FHIR implementation guide&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

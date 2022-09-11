@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F# Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-11T01:42:35Z</updated>
+  <subtitle>Weekly Trending of F# in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aakoshh/Problems-Algorithms</title>
+    <updated>2022-09-11T01:42:35Z</updated>
+    <id>tag:github.com,2022-09-11:/aakoshh/Problems-Algorithms</id>
+    <link href="https://github.com/aakoshh/Problems-Algorithms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing with algorithms&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Problems-Algorithms&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Functional tutorial solutions for the 99 problems&lt;/li&gt; &#xA; &lt;li&gt;Deep Dives, Symbolics&lt;/li&gt; &#xA; &lt;li&gt;Algorithms&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>

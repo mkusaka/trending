@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:42:38Z</updated>
+  <updated>2022-09-11T01:40:18Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hackclub/dns</title>
-    <updated>2022-09-10T01:42:38Z</updated>
-    <id>tag:github.com,2022-09-10:/hackclub/dns</id>
-    <link href="https://github.com/hackclub/dns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🕹 Manage Hack Club&#39;s DNS through a GitHub repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-11T01:45:22Z</updated>
+  <subtitle>Weekly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>status-im/nimbus-eth1</title>
+    <updated>2022-09-11T01:45:22Z</updated>
+    <id>tag:github.com,2022-09-11:/status-im/nimbus-eth1</id>
+    <link href="https://github.com/status-im/nimbus-eth1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nimbus: an Ethereum 1.0 and 2.0 Client for Resource-Restricted Devices&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nim-ngtcp2</title>
+    <updated>2022-09-11T01:45:22Z</updated>
+    <id>tag:github.com,2022-09-11:/status-im/nim-ngtcp2</id>
+    <link href="https://github.com/status-im/nim-ngtcp2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ngtcp2 wrapper for Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

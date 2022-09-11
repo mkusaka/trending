@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub 1C Enterprise Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:33:57Z</updated>
+  <updated>2022-09-11T01:31:49Z</updated>
   <subtitle>Daily Trending of 1C Enterprise in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Daabramov/1c-redis-lib</title>
-    <updated>2022-09-10T01:33:57Z</updated>
-    <id>tag:github.com,2022-09-10:/Daabramov/1c-redis-lib</id>
-    <link href="https://github.com/Daabramov/1c-redis-lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Удобная обертка над 1c Redis Native AddIn&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

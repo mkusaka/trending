@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-11T01:47:57Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>feenkcom/pharo-futures</title>
+    <updated>2022-09-11T01:47:57Z</updated>
+    <id>tag:github.com,2022-09-11:/feenkcom/pharo-futures</id>
+    <link href="https://github.com/feenkcom/pharo-futures" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Abstractions for asynchronous programming in Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/XPath</title>
+    <updated>2022-09-11T01:47:57Z</updated>
+    <id>tag:github.com,2022-09-11:/feenkcom/XPath</id>
+    <link href="https://github.com/feenkcom/XPath" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/pharo-telemetry</title>
+    <updated>2022-09-11T01:47:57Z</updated>
+    <id>tag:github.com,2022-09-11:/feenkcom/pharo-telemetry</id>
+    <link href="https://github.com/feenkcom/pharo-telemetry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Performance telemetry collection infrastructure based on Beacon&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

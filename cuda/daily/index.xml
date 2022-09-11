@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:35:59Z</updated>
+  <updated>2022-09-11T01:33:23Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LeiWang1999/tvm_gpu_gemm</title>
-    <updated>2022-09-10T01:35:59Z</updated>
-    <id>tag:github.com,2022-09-10:/LeiWang1999/tvm_gpu_gemm</id>
-    <link href="https://github.com/LeiWang1999/tvm_gpu_gemm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;play gemm with tvm&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lucidrains/flash-cosine-sim-attention</title>
-    <updated>2022-09-10T01:35:59Z</updated>
-    <id>tag:github.com,2022-09-10:/lucidrains/flash-cosine-sim-attention</id>
-    <link href="https://github.com/lucidrains/flash-cosine-sim-attention" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of fused cosine similarity attention in the same style as Flash Attention&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:35:42Z</updated>
+  <updated>2022-09-11T01:33:07Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stathissideris/spectacles</title>
-    <updated>2022-09-10T01:35:42Z</updated>
-    <id>tag:github.com,2022-09-10:/stathissideris/spectacles</id>
-    <link href="https://github.com/stathissideris/spectacles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lenses for Clojure, checked at runtime using spec.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nedap/formatting-stack</title>
+    <updated>2022-09-11T01:33:07Z</updated>
+    <id>tag:github.com,2022-09-11:/nedap/formatting-stack</id>
+    <link href="https://github.com/nedap/formatting-stack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An efficient, smart, graceful composition of Clojure formatters, linters and such.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ferdinand-beyer/refx</title>
-    <updated>2022-09-10T01:35:42Z</updated>
-    <id>tag:github.com,2022-09-10:/ferdinand-beyer/refx</id>
-    <link href="https://github.com/ferdinand-beyer/refx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;re-frame without Reagent&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exoscale/interceptor</title>
+    <updated>2022-09-11T01:33:07Z</updated>
+    <id>tag:github.com,2022-09-11:/exoscale/interceptor</id>
+    <link href="https://github.com/exoscale/interceptor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small Interceptor lib for clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chrovis/cljam</title>
+    <updated>2022-09-11T01:33:07Z</updated>
+    <id>tag:github.com,2022-09-11:/chrovis/cljam</id>
+    <link href="https://github.com/chrovis/cljam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A DNA Sequence Alignment/Map (SAM) library for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

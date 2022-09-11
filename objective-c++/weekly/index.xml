@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-11T01:45:27Z</updated>
+  <subtitle>Weekly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>johnboiles/obs-mac-virtualcam</title>
+    <updated>2022-09-11T01:45:27Z</updated>
+    <id>tag:github.com,2022-09-11:/johnboiles/obs-mac-virtualcam</id>
+    <link href="https://github.com/johnboiles/obs-mac-virtualcam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

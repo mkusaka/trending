@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:34:53Z</updated>
+  <updated>2022-09-11T01:32:29Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/azure-quickstart-templates</title>
+    <updated>2022-09-11T01:32:29Z</updated>
+    <id>tag:github.com,2022-09-11:/Azure/azure-quickstart-templates</id>
+    <link href="https://github.com/Azure/azure-quickstart-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Quickstart Templates&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/azure-opensource-labs</title>
+    <updated>2022-09-11T01:32:29Z</updated>
+    <id>tag:github.com,2022-09-11:/Azure-Samples/azure-opensource-labs</id>
+    <link href="https://github.com/Azure-Samples/azure-opensource-labs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Open Source Labs (https://aka.ms/oss-labs)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

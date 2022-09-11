@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:42:31Z</updated>
+  <updated>2022-09-11T01:40:11Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rancher/dashboard</title>
-    <updated>2022-09-10T01:42:31Z</updated>
-    <id>tag:github.com,2022-09-10:/rancher/dashboard</id>
-    <link href="https://github.com/rancher/dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rancher new Dashboard UI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cmdparkour/vue-admin-box</title>
+    <updated>2022-09-11T01:40:11Z</updated>
+    <id>tag:github.com,2022-09-11:/cmdparkour/vue-admin-box</id>
+    <link href="https://github.com/cmdparkour/vue-admin-box" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BenRoe/awesome-mechanical-keyboard</title>
+    <updated>2022-09-11T01:40:11Z</updated>
+    <id>tag:github.com,2022-09-11:/BenRoe/awesome-mechanical-keyboard</id>
+    <link href="https://github.com/BenRoe/awesome-mechanical-keyboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⌨️ A curated list of Open Source Mechanical Keyboard resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

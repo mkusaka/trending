@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-11T01:45:07Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DjangoGirls/tutorial</title>
+    <updated>2022-09-11T01:45:07Z</updated>
+    <id>tag:github.com,2022-09-11:/DjangoGirls/tutorial</id>
+    <link href="https://github.com/DjangoGirls/tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a tutorial we are using for Django Girls workshops&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ChargePoint/buildroot</title>
+    <updated>2022-09-11T01:45:07Z</updated>
+    <id>tag:github.com,2022-09-11:/ChargePoint/buildroot</id>
+    <link href="https://github.com/ChargePoint/buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChargePoint internal mirror of buildroot. Upstream: git://git.busybox.net/buildroot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marco-calautti/SigpatchesModuleWiiU</title>
+    <updated>2022-09-11T01:45:07Z</updated>
+    <id>tag:github.com,2022-09-11:/marco-calautti/SigpatchesModuleWiiU</id>
+    <link href="https://github.com/marco-calautti/SigpatchesModuleWiiU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub StringTemplate Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:41:38Z</updated>
+  <updated>2022-09-11T01:39:13Z</updated>
   <subtitle>Daily Trending of StringTemplate in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lifeware-sa/C-API</title>
+    <updated>2022-09-11T01:39:13Z</updated>
+    <id>tag:github.com,2022-09-11:/lifeware-sa/C-API</id>
+    <link href="https://github.com/lifeware-sa/C-API" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library bindings for Smalltalk&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

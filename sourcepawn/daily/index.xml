@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SourcePawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:41:33Z</updated>
+  <updated>2022-09-11T01:39:08Z</updated>
   <subtitle>Daily Trending of SourcePawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DoctorMcKay/sourcemod-plugins</title>
+    <updated>2022-09-11T01:39:08Z</updated>
+    <id>tag:github.com,2022-09-11:/DoctorMcKay/sourcemod-plugins</id>
+    <link href="https://github.com/DoctorMcKay/sourcemod-plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

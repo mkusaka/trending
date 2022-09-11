@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:41:09Z</updated>
+  <updated>2022-09-11T01:38:42Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>esnt/stat386-projects</title>
-    <updated>2022-09-10T01:41:09Z</updated>
-    <id>tag:github.com,2022-09-10:/esnt/stat386-projects</id>
-    <link href="https://github.com/esnt/stat386-projects" rel="alternate"></link>
+    <title>Supernova-Studio/exporter-documentation</title>
+    <updated>2022-09-11T01:38:42Z</updated>
+    <id>tag:github.com,2022-09-11:/Supernova-Studio/exporter-documentation</id>
+    <link href="https://github.com/Supernova-Studio/exporter-documentation" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DACSS/601_Fall_2022</title>
-    <updated>2022-09-10T01:41:09Z</updated>
-    <id>tag:github.com,2022-09-10:/DACSS/601_Fall_2022</id>
-    <link href="https://github.com/DACSS/601_Fall_2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CloudCannon/hydra-jekyll-template</title>
-    <updated>2022-09-10T01:41:09Z</updated>
-    <id>tag:github.com,2022-09-10:/CloudCannon/hydra-jekyll-template</id>
-    <link href="https://github.com/CloudCannon/hydra-jekyll-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐉 Product marketing template for Jekyll&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tefkah/zotero-night</title>
+    <updated>2022-09-11T01:38:42Z</updated>
+    <id>tag:github.com,2022-09-11:/tefkah/zotero-night</id>
+    <link href="https://github.com/tefkah/zotero-night" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Night theme for Zotero UI and PDF&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

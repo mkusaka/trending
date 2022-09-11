@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:36:43Z</updated>
+  <updated>2022-09-11T01:34:20Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Hairic95/Godot-WebSocket-Multiplayer-Template</title>
-    <updated>2022-09-10T01:36:43Z</updated>
-    <id>tag:github.com,2022-09-10:/Hairic95/Godot-WebSocket-Multiplayer-Template</id>
-    <link href="https://github.com/Hairic95/Godot-WebSocket-Multiplayer-Template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Godot client project that connects to a Typescript server&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

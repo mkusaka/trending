@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:41:33Z</updated>
+  <updated>2022-09-11T01:39:07Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2022-09-canto</title>
-    <updated>2022-09-10T01:41:33Z</updated>
-    <id>tag:github.com,2022-09-10:/code-423n4/2022-09-canto</id>
-    <link href="https://github.com/code-423n4/2022-09-canto" rel="alternate"></link>
+    <title>ControlCplusControlV/Yulp-VRGDAs</title>
+    <updated>2022-09-11T01:39:07Z</updated>
+    <id>tag:github.com,2022-09-11:/ControlCplusControlV/Yulp-VRGDAs</id>
+    <link href="https://github.com/ControlCplusControlV/Yulp-VRGDAs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>a16z/evm-powers-of-tau</title>
-    <updated>2022-09-10T01:41:33Z</updated>
-    <id>tag:github.com,2022-09-10:/a16z/evm-powers-of-tau</id>
-    <link href="https://github.com/a16z/evm-powers-of-tau" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mixbytes/audits_public</title>
+    <updated>2022-09-11T01:39:07Z</updated>
+    <id>tag:github.com,2022-09-11:/mixbytes/audits_public</id>
+    <link href="https://github.com/mixbytes/audits_public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MixBytes Team public security audits&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>paxosglobal/busd-contract</title>
-    <updated>2022-09-10T01:41:33Z</updated>
-    <id>tag:github.com,2022-09-10:/paxosglobal/busd-contract</id>
-    <link href="https://github.com/paxosglobal/busd-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity smart contracts for the Binance USD&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>euler-xyz/median-oracle</title>
+    <updated>2022-09-11T01:39:07Z</updated>
+    <id>tag:github.com,2022-09-11:/euler-xyz/median-oracle</id>
+    <link href="https://github.com/euler-xyz/median-oracle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

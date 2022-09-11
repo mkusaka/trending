@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:37:09Z</updated>
+  <updated>2022-09-11T01:34:40Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dorongold/gradle-task-tree</title>
-    <updated>2022-09-10T01:37:09Z</updated>
-    <id>tag:github.com,2022-09-10:/dorongold/gradle-task-tree</id>
-    <link href="https://github.com/dorongold/gradle-task-tree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin that adds a &#39;taskTree&#39; task that prints task dependency tree&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zer0d/jrepo</title>
-    <updated>2022-09-10T01:37:09Z</updated>
-    <id>tag:github.com,2022-09-10:/Zer0d/jrepo</id>
-    <link href="https://github.com/Zer0d/jrepo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ka-ching! You zero&#39;d another repo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>narvar/data-change-notifier</title>
+    <updated>2022-09-11T01:34:40Z</updated>
+    <id>tag:github.com,2022-09-11:/narvar/data-change-notifier</id>
+    <link href="https://github.com/narvar/data-change-notifier" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data sources like Atlas as a stream of filtered events&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

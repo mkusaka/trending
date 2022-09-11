@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:42:42Z</updated>
+  <updated>2022-09-11T01:40:22Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mov-rax/zig-validate</title>
-    <updated>2022-09-10T01:42:42Z</updated>
-    <id>tag:github.com,2022-09-10:/mov-rax/zig-validate</id>
-    <link href="https://github.com/mov-rax/zig-validate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A type validation library for writing a zero-cost, declarative, understandable, generic code in zig.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

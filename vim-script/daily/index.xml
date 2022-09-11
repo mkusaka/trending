@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:42:28Z</updated>
+  <updated>2022-09-11T01:40:09Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>braintreeps/vim_dotfiles</title>
-    <updated>2022-09-10T01:42:28Z</updated>
-    <id>tag:github.com,2022-09-10:/braintreeps/vim_dotfiles</id>
-    <link href="https://github.com/braintreeps/vim_dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;our vim dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vonbane/dotvim</title>
+    <updated>2022-09-11T01:40:09Z</updated>
+    <id>tag:github.com,2022-09-11:/vonbane/dotvim</id>
+    <link href="https://github.com/vonbane/dotvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thomcom/vim</title>
-    <updated>2022-09-10T01:42:28Z</updated>
-    <id>tag:github.com,2022-09-10:/thomcom/vim</id>
-    <link href="https://github.com/thomcom/vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim custom configuration&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>styled-components/vim-styled-components</title>
+    <updated>2022-09-11T01:40:09Z</updated>
+    <id>tag:github.com,2022-09-11:/styled-components/vim-styled-components</id>
+    <link href="https://github.com/styled-components/vim-styled-components" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim bundle for http://styled-components.com based javascript files.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vim-scripts/pb.vim</title>
-    <updated>2022-09-10T01:42:28Z</updated>
-    <id>tag:github.com,2022-09-10:/vim-scripts/pb.vim</id>
-    <link href="https://github.com/vim-scripts/pb.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;plugin for interacting with Mac OS X pastebuffer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cohama/lexima.vim</title>
+    <updated>2022-09-11T01:40:09Z</updated>
+    <id>tag:github.com,2022-09-11:/cohama/lexima.vim</id>
+    <link href="https://github.com/cohama/lexima.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Auto close parentheses and repeat by dot dot dot...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-11T01:49:18Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tigerbeetledb/tigerbeetle</title>
+    <updated>2022-09-11T01:49:18Z</updated>
+    <id>tag:github.com,2022-09-11:/tigerbeetledb/tigerbeetle</id>
+    <link href="https://github.com/tigerbeetledb/tigerbeetle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A distributed financial accounting database designed for mission critical safety and performance.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>capy-ui/capy</title>
+    <updated>2022-09-11T01:49:18Z</updated>
+    <id>tag:github.com,2022-09-11:/capy-ui/capy</id>
+    <link href="https://github.com/capy-ui/capy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform library for making true native GUIs in Zig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

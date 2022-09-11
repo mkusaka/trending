@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Diff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:36:10Z</updated>
+  <updated>2022-09-11T01:33:36Z</updated>
   <subtitle>Daily Trending of Diff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pld-linux/edje</title>
+    <updated>2022-09-11T01:33:36Z</updated>
+    <id>tag:github.com,2022-09-11:/pld-linux/edje</id>
+    <link href="https://github.com/pld-linux/edje" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Complex Graphical Design/Layout Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

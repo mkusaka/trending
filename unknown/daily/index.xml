@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:34:02Z</updated>
+  <updated>2022-09-11T01:31:55Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>naver/fe-news</title>
-    <updated>2022-09-10T01:34:02Z</updated>
-    <id>tag:github.com,2022-09-10:/naver/fe-news</id>
-    <link href="https://github.com/naver/fe-news" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FE 기술 소식 큐레이션 뉴스레터&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>inkasadev/osib-frontend-pt</title>
+    <updated>2022-09-11T01:31:55Z</updated>
+    <id>tag:github.com,2022-09-11:/inkasadev/osib-frontend-pt</id>
+    <link href="https://github.com/inkasadev/osib-frontend-pt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Caminho para uma educação autodidata gratuita em Frontend!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>meirwah/awesome-workflow-engines</title>
-    <updated>2022-09-10T01:34:02Z</updated>
-    <id>tag:github.com,2022-09-10:/meirwah/awesome-workflow-engines</id>
-    <link href="https://github.com/meirwah/awesome-workflow-engines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome open source workflow engines&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>academic/awesome-datascience</title>
+    <updated>2022-09-11T01:31:55Z</updated>
+    <id>tag:github.com,2022-09-11:/academic/awesome-datascience</id>
+    <link href="https://github.com/academic/awesome-datascience" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📝 An awesome Data Science repository to learn and apply for real world problems.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CavsZhouyou/Front-End-Interview-Notebook</title>
-    <updated>2022-09-10T01:34:02Z</updated>
-    <id>tag:github.com,2022-09-10:/CavsZhouyou/Front-End-Interview-Notebook</id>
-    <link href="https://github.com/CavsZhouyou/Front-End-Interview-Notebook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐜前端面试复习笔记&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wjz304/Redpill_CustomBuild</title>
+    <updated>2022-09-11T01:31:55Z</updated>
+    <id>tag:github.com,2022-09-11:/wjz304/Redpill_CustomBuild</id>
+    <link href="https://github.com/wjz304/Redpill_CustomBuild" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Redpill 定制化编译&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

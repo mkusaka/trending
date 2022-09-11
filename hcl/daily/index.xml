@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-10T01:37:14Z</updated>
+  <updated>2022-09-11T01:34:45Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NodesBlocks/testnet-examples</title>
-    <updated>2022-09-10T01:37:14Z</updated>
-    <id>tag:github.com,2022-09-10:/NodesBlocks/testnet-examples</id>
-    <link href="https://github.com/NodesBlocks/testnet-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some examples of testnet deployments, configurations, automations and other tips and tricks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>terraform-aws-modules/terraform-aws-elb</title>
-    <updated>2022-09-10T01:37:14Z</updated>
-    <id>tag:github.com,2022-09-10:/terraform-aws-modules/terraform-aws-elb</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-elb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates ELB resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-eks-node-group</title>
+    <updated>2022-09-11T01:34:45Z</updated>
+    <id>tag:github.com,2022-09-11:/cloudposse/terraform-aws-eks-node-group</id>
+    <link href="https://github.com/cloudposse/terraform-aws-eks-node-group" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision a fully managed AWS EKS Node Group&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

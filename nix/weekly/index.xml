@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-11T01:45:24Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NixOS/nixos-hardware</title>
+    <updated>2022-09-11T01:45:24Z</updated>
+    <id>tag:github.com,2022-09-11:/NixOS/nixos-hardware</id>
+    <link href="https://github.com/NixOS/nixos-hardware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of NixOS modules covering hardware quirks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>srid/haskell-template</title>
+    <updated>2022-09-11T01:45:24Z</updated>
+    <id>tag:github.com,2022-09-11:/srid/haskell-template</id>
+    <link href="https://github.com/srid/haskell-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haskell project template using Nix + Flakes + VSCode (HLS)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>confluentinc/coding-in-motion</title>
+    <updated>2022-09-11T01:45:24Z</updated>
+    <id>tag:github.com,2022-09-11:/confluentinc/coding-in-motion</id>
+    <link href="https://github.com/confluentinc/coding-in-motion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for the &#34;Coding in Motion&#34; series.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
