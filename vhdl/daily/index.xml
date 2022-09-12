@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:40:06Z</updated>
+  <updated>2022-09-12T01:42:49Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ztachip/ztachip</title>
-    <updated>2022-09-11T01:40:06Z</updated>
-    <id>tag:github.com,2022-09-11:/ztachip/ztachip</id>
-    <link href="https://github.com/ztachip/ztachip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Opensource software/hardware platform to build edge AI solutions deployed on FPGA or custom ASIC hardware.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:31:55Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-09-12T01:33:45Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>inkasadev/osib-frontend-pt</title>
-    <updated>2022-09-11T01:31:55Z</updated>
-    <id>tag:github.com,2022-09-11:/inkasadev/osib-frontend-pt</id>
-    <link href="https://github.com/inkasadev/osib-frontend-pt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Caminho para uma educação autodidata gratuita em Frontend!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>34306/TrollStoreiPA</title>
+    <updated>2022-09-12T01:33:45Z</updated>
+    <id>tag:github.com,2022-09-12:/34306/TrollStoreiPA</id>
+    <link href="https://github.com/34306/TrollStoreiPA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo saved iPA for TrollStore, work as jailbreak.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>academic/awesome-datascience</title>
-    <updated>2022-09-11T01:31:55Z</updated>
-    <id>tag:github.com,2022-09-11:/academic/awesome-datascience</id>
-    <link href="https://github.com/academic/awesome-datascience" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📝 An awesome Data Science repository to learn and apply for real world problems.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>km-neuron/se-git-exercise</title>
+    <updated>2022-09-12T01:33:45Z</updated>
+    <id>tag:github.com,2022-09-12:/km-neuron/se-git-exercise</id>
+    <link href="https://github.com/km-neuron/se-git-exercise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Git Exercise Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wjz304/Redpill_CustomBuild</title>
-    <updated>2022-09-11T01:31:55Z</updated>
-    <id>tag:github.com,2022-09-11:/wjz304/Redpill_CustomBuild</id>
-    <link href="https://github.com/wjz304/Redpill_CustomBuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Redpill 定制化编译&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anandjha90/iNeuron_FSDA</title>
+    <updated>2022-09-12T01:33:45Z</updated>
+    <id>tag:github.com,2022-09-12:/anandjha90/iNeuron_FSDA</id>
+    <link href="https://github.com/anandjha90/iNeuron_FSDA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains all the files and folders taught in the class.Make use of it effectively&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

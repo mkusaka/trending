@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:34:10Z</updated>
+  <updated>2022-09-12T01:36:17Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>basho/bitcask</title>
-    <updated>2022-09-11T01:34:10Z</updated>
-    <id>tag:github.com,2022-09-11:/basho/bitcask</id>
-    <link href="https://github.com/basho/bitcask" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;because you need another a key/value storage engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>happi/theBeamBook</title>
+    <updated>2022-09-12T01:36:17Z</updated>
+    <id>tag:github.com,2022-09-12:/happi/theBeamBook</id>
+    <link href="https://github.com/happi/theBeamBook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

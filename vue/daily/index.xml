@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:40:11Z</updated>
+  <updated>2022-09-12T01:42:56Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cmdparkour/vue-admin-box</title>
-    <updated>2022-09-11T01:40:11Z</updated>
-    <id>tag:github.com,2022-09-11:/cmdparkour/vue-admin-box</id>
-    <link href="https://github.com/cmdparkour/vue-admin-box" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Alfred-Skyblue/v-scale-screen</title>
+    <updated>2022-09-12T01:42:56Z</updated>
+    <id>tag:github.com,2022-09-12:/Alfred-Skyblue/v-scale-screen</id>
+    <link href="https://github.com/Alfred-Skyblue/v-scale-screen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vue大屏自适应组件&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BenRoe/awesome-mechanical-keyboard</title>
-    <updated>2022-09-11T01:40:11Z</updated>
-    <id>tag:github.com,2022-09-11:/BenRoe/awesome-mechanical-keyboard</id>
-    <link href="https://github.com/BenRoe/awesome-mechanical-keyboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⌨️ A curated list of Open Source Mechanical Keyboard resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>doiim/web3-boilerplate</title>
+    <updated>2022-09-12T01:42:56Z</updated>
+    <id>tag:github.com,2022-09-12:/doiim/web3-boilerplate</id>
+    <link href="https://github.com/doiim/web3-boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A boilerplate for Web3 project to be used on Hackatons and start projects from scratch. It uses Vue3, Tailwind and Hardhat.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LOUSANPANG/HBuilderX-template</title>
+    <updated>2022-09-12T01:42:56Z</updated>
+    <id>tag:github.com,2022-09-12:/LOUSANPANG/HBuilderX-template</id>
+    <link href="https://github.com/LOUSANPANG/HBuilderX-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[HBuilderX ⚒] uview Weapp H5 APP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

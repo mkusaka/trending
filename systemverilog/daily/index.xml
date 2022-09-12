@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:39:35Z</updated>
+  <updated>2022-09-12T01:42:18Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WangXuan95/FpOC</title>
+    <updated>2022-09-12T01:42:18Z</updated>
+    <id>tag:github.com,2022-09-12:/WangXuan95/FpOC</id>
+    <link href="https://github.com/WangXuan95/FpOC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WangXuan95/USTC-RVSoC</title>
+    <updated>2022-09-12T01:42:18Z</updated>
+    <id>tag:github.com,2022-09-12:/WangXuan95/USTC-RVSoC</id>
+    <link href="https://github.com/WangXuan95/USTC-RVSoC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FPGA-based RISC-V CPU+SoC.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ARC-Lab-UF/intel-training-modules</title>
+    <updated>2022-09-12T01:42:18Z</updated>
+    <id>tag:github.com,2022-09-12:/ARC-Lab-UF/intel-training-modules</id>
+    <link href="https://github.com/ARC-Lab-UF/intel-training-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

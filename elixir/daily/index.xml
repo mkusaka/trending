@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:33:49Z</updated>
+  <updated>2022-09-12T01:36:03Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ExHammer/hammer-backend-redis</title>
-    <updated>2022-09-11T01:33:49Z</updated>
-    <id>tag:github.com,2022-09-11:/ExHammer/hammer-backend-redis</id>
-    <link href="https://github.com/ExHammer/hammer-backend-redis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Redis backend for for the Hammer rate-limiter&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fabriziosestito/contracts</title>
-    <updated>2022-09-11T01:33:49Z</updated>
-    <id>tag:github.com,2022-09-11:/fabriziosestito/contracts</id>
-    <link href="https://github.com/fabriziosestito/contracts" rel="alternate"></link>
+    <title>exercism/elixir-representer</title>
+    <updated>2022-09-12T01:36:03Z</updated>
+    <id>tag:github.com,2022-09-12:/exercism/elixir-representer</id>
+    <link href="https://github.com/exercism/elixir-representer" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

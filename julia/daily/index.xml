@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:35:44Z</updated>
+  <updated>2022-09-12T01:38:06Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jMetal/MetaJul</title>
-    <updated>2022-09-11T01:35:44Z</updated>
-    <id>tag:github.com,2022-09-11:/jMetal/MetaJul</id>
-    <link href="https://github.com/jMetal/MetaJul" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Metaheuristics in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaPhysics/SolidStateDetectors.jl</title>
+    <updated>2022-09-12T01:38:06Z</updated>
+    <id>tag:github.com,2022-09-12:/JuliaPhysics/SolidStateDetectors.jl</id>
+    <link href="https://github.com/JuliaPhysics/SolidStateDetectors.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solid state detector field and charge drift simulation in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MurrellGroup/MolecularEvolution.jl</title>
-    <updated>2022-09-11T01:35:44Z</updated>
-    <id>tag:github.com,2022-09-11:/MurrellGroup/MolecularEvolution.jl</id>
-    <link href="https://github.com/MurrellGroup/MolecularEvolution.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia framework for developing phylogenetic models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MineralsCloud/EquationsOfStateOfSolids.jl</title>
+    <updated>2022-09-12T01:38:06Z</updated>
+    <id>tag:github.com,2022-09-12:/MineralsCloud/EquationsOfStateOfSolids.jl</id>
+    <link href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for fitting the equation of state of solids, and more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lanl-ansi/Alpine.jl</title>
-    <updated>2022-09-11T01:35:44Z</updated>
-    <id>tag:github.com,2022-09-11:/lanl-ansi/Alpine.jl</id>
-    <link href="https://github.com/lanl-ansi/Alpine.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia/JuMP-based Global Optimization Solver for Non-convex Programs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stepanzh/CTTaskPoints</title>
+    <updated>2022-09-12T01:38:06Z</updated>
+    <id>tag:github.com,2022-09-12:/stepanzh/CTTaskPoints</id>
+    <link href="https://github.com/stepanzh/CTTaskPoints" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Задание для курса вычислительной термодинамики.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

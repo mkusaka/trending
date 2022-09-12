@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:33:11Z</updated>
+  <updated>2022-09-12T01:35:16Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vishwassharma/hirevoice</title>
-    <updated>2022-09-11T01:33:11Z</updated>
-    <id>tag:github.com,2022-09-11:/vishwassharma/hirevoice</id>
-    <link href="https://github.com/vishwassharma/hirevoice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A application for job search and create&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>shanejonas/backbone-d3-demo</title>
-    <updated>2022-09-11T01:33:11Z</updated>
-    <id>tag:github.com,2022-09-11:/shanejonas/backbone-d3-demo</id>
-    <link href="https://github.com/shanejonas/backbone-d3-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;d3 bar chart demo using backbone&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>franzenzenhofer/countdown</title>
+    <updated>2022-09-12T01:35:16Z</updated>
+    <id>tag:github.com,2022-09-12:/franzenzenhofer/countdown</id>
+    <link href="https://github.com/franzenzenhofer/countdown" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a countdown&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

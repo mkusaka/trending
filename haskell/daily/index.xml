@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:34:47Z</updated>
+  <updated>2022-09-12T01:36:55Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>upenn-cis5520/02-higherorder</title>
+    <updated>2022-09-12T01:36:55Z</updated>
+    <id>tag:github.com,2022-09-12:/upenn-cis5520/02-higherorder</id>
+    <link href="https://github.com/upenn-cis5520/02-higherorder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Material about higher-order functions in Haskell&lt;/h1&gt; &#xA;&lt;p&gt;Code to accompany first lectures &amp;amp; in-class exercises for CIS 5520.&lt;/p&gt; &#xA;&lt;p&gt;The description of these modules and in-class exercises will be posted on the &lt;a href=&#34;https://www.seas.upenn.edu/~cis5520/current/schedule.html&#34;&gt;CIS 5520 website&lt;/a&gt;. Most of this code will not make sense without these descriptions.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>awonnacott/project-euler</title>
+    <updated>2022-09-12T01:36:55Z</updated>
+    <id>tag:github.com,2022-09-12:/awonnacott/project-euler</id>
+    <link href="https://github.com/awonnacott/project-euler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Where I keep my solutions to Project Euler problems&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;project-euler&lt;/h1&gt; &#xA;&lt;p&gt;Where I keep my solutions to Project Euler problems&lt;/p&gt;</summary>
+  </entry>
 </feed>

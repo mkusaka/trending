@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:39:07Z</updated>
+  <updated>2022-09-12T01:41:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ControlCplusControlV/Yulp-VRGDAs</title>
-    <updated>2022-09-11T01:39:07Z</updated>
-    <id>tag:github.com,2022-09-11:/ControlCplusControlV/Yulp-VRGDAs</id>
-    <link href="https://github.com/ControlCplusControlV/Yulp-VRGDAs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>whitenois3/mvrgda</title>
+    <updated>2022-09-12T01:41:44Z</updated>
+    <id>tag:github.com,2022-09-12:/whitenois3/mvrgda</id>
+    <link href="https://github.com/whitenois3/mvrgda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Variable Rate Gradual Dutch Auctions with Martingale Price Correction.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mixbytes/audits_public</title>
-    <updated>2022-09-11T01:39:07Z</updated>
-    <id>tag:github.com,2022-09-11:/mixbytes/audits_public</id>
-    <link href="https://github.com/mixbytes/audits_public" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MixBytes Team public security audits&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>secureum/DeFi-Security-Summit-Stanford</title>
+    <updated>2022-09-12T01:41:44Z</updated>
+    <id>tag:github.com,2022-09-12:/secureum/DeFi-Security-Summit-Stanford</id>
+    <link href="https://github.com/secureum/DeFi-Security-Summit-Stanford" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DEFI Focus Smart Contract Security Capture the Flag&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>euler-xyz/median-oracle</title>
-    <updated>2022-09-11T01:39:07Z</updated>
-    <id>tag:github.com,2022-09-11:/euler-xyz/median-oracle</id>
-    <link href="https://github.com/euler-xyz/median-oracle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zkLinkProtocol/zklink-contracts</title>
+    <updated>2022-09-12T01:41:44Z</updated>
+    <id>tag:github.com,2022-09-12:/zkLinkProtocol/zklink-contracts</id>
+    <link href="https://github.com/zkLinkProtocol/zklink-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zklink core contract, EVM compatible.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

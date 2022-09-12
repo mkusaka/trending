@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:39:15Z</updated>
+  <updated>2022-09-12T01:41:53Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ravenclaw900/DietPi-Dashboard</title>
-    <updated>2022-09-11T01:39:15Z</updated>
-    <id>tag:github.com,2022-09-11:/ravenclaw900/DietPi-Dashboard</id>
-    <link href="https://github.com/ravenclaw900/DietPi-Dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight, standalone web dashboard for DietPi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dominikg/summit-2022</title>
+    <updated>2022-09-12T01:41:53Z</updated>
+    <id>tag:github.com,2022-09-12:/dominikg/summit-2022</id>
+    <link href="https://github.com/dominikg/summit-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

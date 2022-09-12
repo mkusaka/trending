@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:39:46Z</updated>
+  <updated>2022-09-12T01:42:28Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BrayanTorres2/Bases_De_Datos</title>
-    <updated>2022-09-11T01:39:46Z</updated>
-    <id>tag:github.com,2022-09-11:/BrayanTorres2/Bases_De_Datos</id>
-    <link href="https://github.com/BrayanTorres2/Bases_De_Datos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;La base de datos como un componente de los sistemas de información debe tener una definición clara y precisa entendiendo la importancia del repositorio de datos, como esta definido, cual es su rendimiento ,como se accede y escala. Se abordaran bases de datos SQL y NoSQL como servicio o como componente entendiendo que la forma de operar los siste…&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

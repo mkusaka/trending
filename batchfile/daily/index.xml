@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:32:28Z</updated>
+  <updated>2022-09-12T01:34:19Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>VirtualHotBar/HotPEToolBox</title>
-    <updated>2022-09-11T01:32:28Z</updated>
-    <id>tag:github.com,2022-09-11:/VirtualHotBar/HotPEToolBox</id>
-    <link href="https://github.com/VirtualHotBar/HotPEToolBox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个纯净、强大、优雅的WinPE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Omnis9/Imperial-Genshin-Impact-Cheat-V3.0</title>
+    <updated>2022-09-12T01:34:19Z</updated>
+    <id>tag:github.com,2022-09-12:/Omnis9/Imperial-Genshin-Impact-Cheat-V3.0</id>
+    <link href="https://github.com/Omnis9/Imperial-Genshin-Impact-Cheat-V3.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Imperial Genshin Impact Private Cheat with over 100 features, created by Omnis9&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Brut81/Roobet-Crypto-Casino-predictor</title>
+    <updated>2022-09-12T01:34:19Z</updated>
+    <id>tag:github.com,2022-09-12:/Brut81/Roobet-Crypto-Casino-predictor</id>
+    <link href="https://github.com/Brut81/Roobet-Crypto-Casino-predictor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Roobet Crypto Predictor that supports almost all Roobet games&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Brut81/BitRat-Cracked</title>
+    <updated>2022-09-12T01:34:19Z</updated>
+    <id>tag:github.com,2022-09-12:/Brut81/BitRat-Cracked</id>
+    <link href="https://github.com/Brut81/BitRat-Cracked" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Remote Access Tool (RAT) - BitRat Cracked&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

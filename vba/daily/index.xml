@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:40:04Z</updated>
+  <updated>2022-09-12T01:42:48Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AndyGlx/FullControl-GCode-Designer</title>
-    <updated>2022-09-11T01:40:04Z</updated>
-    <id>tag:github.com,2022-09-11:/AndyGlx/FullControl-GCode-Designer</id>
-    <link href="https://github.com/AndyGlx/FullControl-GCode-Designer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Software for designing GCODE for 3D printing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ba5tz/vbaTutorial</title>
+    <updated>2022-09-12T01:42:48Z</updated>
+    <id>tag:github.com,2022-09-12:/ba5tz/vbaTutorial</id>
+    <link href="https://github.com/ba5tz/vbaTutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo untuk kumpulan File dan Link Tutorial yang saya bahas pada Channel YouTube Andi Setiadi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-11T01:38:17Z</updated>
+  <updated>2022-09-12T01:40:53Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>parcel-bundler/lightningcss</title>
-    <updated>2022-09-11T01:38:17Z</updated>
-    <id>tag:github.com,2022-09-11:/parcel-bundler/lightningcss</id>
-    <link href="https://github.com/parcel-bundler/lightningcss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>o2sh/onefetch</title>
-    <updated>2022-09-11T01:38:17Z</updated>
-    <id>tag:github.com,2022-09-11:/o2sh/onefetch</id>
-    <link href="https://github.com/o2sh/onefetch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Git repository summary in your terminal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fzyzcjy/flutter_rust_bridge</title>
-    <updated>2022-09-11T01:38:17Z</updated>
-    <id>tag:github.com,2022-09-11:/fzyzcjy/flutter_rust_bridge</id>
-    <link href="https://github.com/fzyzcjy/flutter_rust_bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High-level memory-safe binding generator for Flutter/Dart &lt;-&gt; Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WebAssembly/WASI</title>
+    <updated>2022-09-12T01:40:53Z</updated>
+    <id>tag:github.com,2022-09-12:/WebAssembly/WASI</id>
+    <link href="https://github.com/WebAssembly/WASI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WebAssembly System Interface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
