@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:42:53Z</updated>
+  <updated>2022-09-13T01:40:15Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>posva/vim-vue</title>
-    <updated>2022-09-12T01:42:53Z</updated>
-    <id>tag:github.com,2022-09-12:/posva/vim-vue</id>
-    <link href="https://github.com/posva/vim-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Syntax Highlight for Vue.js components&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nvim-zh/better-escape.vim</title>
+    <updated>2022-09-13T01:40:15Z</updated>
+    <id>tag:github.com,2022-09-13:/nvim-zh/better-escape.vim</id>
+    <link href="https://github.com/nvim-zh/better-escape.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Vim/Neovim plugin for escaping insert mode without lagging.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tpope/vim-dispatch</title>
-    <updated>2022-09-12T01:42:53Z</updated>
-    <id>tag:github.com,2022-09-12:/tpope/vim-dispatch</id>
-    <link href="https://github.com/tpope/vim-dispatch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dispatch.vim: Asynchronous build and test dispatcher&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kassio/neoterm</title>
+    <updated>2022-09-13T01:40:15Z</updated>
+    <id>tag:github.com,2022-09-13:/kassio/neoterm</id>
+    <link href="https://github.com/kassio/neoterm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wrapper of some vim/neovim&#39;s :terminal functions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

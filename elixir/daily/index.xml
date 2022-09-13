@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:36:03Z</updated>
+  <updated>2022-09-13T01:34:02Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>exercism/elixir-representer</title>
-    <updated>2022-09-12T01:36:03Z</updated>
-    <id>tag:github.com,2022-09-12:/exercism/elixir-representer</id>
-    <link href="https://github.com/exercism/elixir-representer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>XL-ML/XL-ML</title>
+    <updated>2022-09-13T01:34:02Z</updated>
+    <id>tag:github.com,2022-09-13:/XL-ML/XL-ML</id>
+    <link href="https://github.com/XL-ML/XL-ML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A unique elixir machine learning framework that provides various ML algorithms.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

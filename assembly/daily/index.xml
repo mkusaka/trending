@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:34:14Z</updated>
+  <updated>2022-09-13T01:32:30Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>monero-project/supercop</title>
-    <updated>2022-09-12T01:34:14Z</updated>
-    <id>tag:github.com,2022-09-12:/monero-project/supercop</id>
-    <link href="https://github.com/monero-project/supercop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KissLinkA-205/BSUIR-Labs</title>
+    <updated>2022-09-13T01:32:30Z</updated>
+    <id>tag:github.com,2022-09-13:/KissLinkA-205/BSUIR-Labs</id>
+    <link href="https://github.com/KissLinkA-205/BSUIR-Labs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;БГУИР 2019-2023 (КСиС, ВМСиС)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

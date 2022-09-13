@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:39:14Z</updated>
+  <updated>2022-09-13T01:37:18Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>polytypic/f-omega-mu</title>
-    <updated>2022-09-12T01:39:14Z</updated>
-    <id>tag:github.com,2022-09-12:/polytypic/f-omega-mu</id>
-    <link href="https://github.com/polytypic/f-omega-mu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fωμ type checker and compiler&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brendanzab/language-garden</title>
+    <updated>2022-09-13T01:37:18Z</updated>
+    <id>tag:github.com,2022-09-13:/brendanzab/language-garden</id>
+    <link href="https://github.com/brendanzab/language-garden" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A garden of small programming language implementations 🪴&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:38:04Z</updated>
+  <updated>2022-09-13T01:36:14Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gruberdev/homelab</title>
+    <updated>2022-09-13T01:36:14Z</updated>
+    <id>tag:github.com,2022-09-13:/gruberdev/homelab</id>
+    <link href="https://github.com/gruberdev/homelab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Self-managed ArgoCD deployment. This repository controls my homelab k3s cluster.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

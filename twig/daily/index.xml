@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:42:29Z</updated>
+  <updated>2022-09-13T01:39:50Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lucasgiovannibr/canaryaac</title>
-    <updated>2022-09-12T01:42:29Z</updated>
-    <id>tag:github.com,2022-09-12:/lucasgiovannibr/canaryaac</id>
-    <link href="https://github.com/lucasgiovannibr/canaryaac" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CanaryAAC is a free and open-source Automatic Account Creator (AAC) written in MVC-PHP. It supports only MySQL databases.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

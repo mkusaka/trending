@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:39:01Z</updated>
+  <updated>2022-09-13T01:37:06Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>41north/ethereum.nix</title>
-    <updated>2022-09-12T01:39:01Z</updated>
-    <id>tag:github.com,2022-09-12:/41north/ethereum.nix</id>
-    <link href="https://github.com/41north/ethereum.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reproducible Nix package set for Ethereum clients and utilities.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NobbZ/nixos-config</title>
-    <updated>2022-09-12T01:39:01Z</updated>
-    <id>tag:github.com,2022-09-12:/NobbZ/nixos-config</id>
-    <link href="https://github.com/NobbZ/nixos-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>shaunsingh/nix-darwin-dotfiles</title>
-    <updated>2022-09-12T01:39:01Z</updated>
-    <id>tag:github.com,2022-09-12:/shaunsingh/nix-darwin-dotfiles</id>
-    <link href="https://github.com/shaunsingh/nix-darwin-dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nix-community/nixos-images</title>
+    <updated>2022-09-13T01:37:06Z</updated>
+    <id>tag:github.com,2022-09-13:/nix-community/nixos-images</id>
+    <link href="https://github.com/nix-community/nixos-images" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically build (netboot) images for NixOS [maintainer=@Mic92]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

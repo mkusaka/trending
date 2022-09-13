@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:42:56Z</updated>
+  <updated>2022-09-13T01:40:17Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Alfred-Skyblue/v-scale-screen</title>
-    <updated>2022-09-12T01:42:56Z</updated>
-    <id>tag:github.com,2022-09-12:/Alfred-Skyblue/v-scale-screen</id>
-    <link href="https://github.com/Alfred-Skyblue/v-scale-screen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vue大屏自适应组件&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shuax/MouseInc.Settings</title>
+    <updated>2022-09-13T01:40:17Z</updated>
+    <id>tag:github.com,2022-09-13:/shuax/MouseInc.Settings</id>
+    <link href="https://github.com/shuax/MouseInc.Settings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MouseInc设置界面&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>doiim/web3-boilerplate</title>
-    <updated>2022-09-12T01:42:56Z</updated>
-    <id>tag:github.com,2022-09-12:/doiim/web3-boilerplate</id>
-    <link href="https://github.com/doiim/web3-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A boilerplate for Web3 project to be used on Hackatons and start projects from scratch. It uses Vue3, Tailwind and Hardhat.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MakeContributions/ideahub</title>
+    <updated>2022-09-13T01:40:17Z</updated>
+    <id>tag:github.com,2022-09-13:/MakeContributions/ideahub</id>
+    <link href="https://github.com/MakeContributions/ideahub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of ideas and projects that contain from beginner to advance 🎯🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LOUSANPANG/HBuilderX-template</title>
-    <updated>2022-09-12T01:42:56Z</updated>
-    <id>tag:github.com,2022-09-12:/LOUSANPANG/HBuilderX-template</id>
-    <link href="https://github.com/LOUSANPANG/HBuilderX-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[HBuilderX ⚒] uview Weapp H5 APP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SpartnerNL/laravel-excel-docs</title>
+    <updated>2022-09-13T01:40:17Z</updated>
+    <id>tag:github.com,2022-09-13:/SpartnerNL/laravel-excel-docs</id>
+    <link href="https://github.com/SpartnerNL/laravel-excel-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel Excel Docs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

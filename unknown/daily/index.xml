@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:33:45Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-13T01:31:58Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>34306/TrollStoreiPA</title>
-    <updated>2022-09-12T01:33:45Z</updated>
-    <id>tag:github.com,2022-09-12:/34306/TrollStoreiPA</id>
-    <link href="https://github.com/34306/TrollStoreiPA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo saved iPA for TrollStore, work as jailbreak.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>neurreps/awesome-neural-geometry</title>
+    <updated>2022-09-13T01:31:58Z</updated>
+    <id>tag:github.com,2022-09-13:/neurreps/awesome-neural-geometry</id>
+    <link href="https://github.com/neurreps/awesome-neural-geometry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>km-neuron/se-git-exercise</title>
-    <updated>2022-09-12T01:33:45Z</updated>
-    <id>tag:github.com,2022-09-12:/km-neuron/se-git-exercise</id>
-    <link href="https://github.com/km-neuron/se-git-exercise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Git Exercise Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imDazui/Tvlist-awesome-m3u-m3u8</title>
+    <updated>2022-09-13T01:31:58Z</updated>
+    <id>tag:github.com,2022-09-13:/imDazui/Tvlist-awesome-m3u-m3u8</id>
+    <link href="https://github.com/imDazui/Tvlist-awesome-m3u-m3u8" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>anandjha90/iNeuron_FSDA</title>
-    <updated>2022-09-12T01:33:45Z</updated>
-    <id>tag:github.com,2022-09-12:/anandjha90/iNeuron_FSDA</id>
-    <link href="https://github.com/anandjha90/iNeuron_FSDA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains all the files and folders taught in the class.Make use of it effectively&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>amazon-research/alexa-teacher-models</title>
+    <updated>2022-09-13T01:31:58Z</updated>
+    <id>tag:github.com,2022-09-13:/amazon-research/alexa-teacher-models</id>
+    <link href="https://github.com/amazon-research/alexa-teacher-models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

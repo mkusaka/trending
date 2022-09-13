@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:39:19Z</updated>
+  <updated>2022-09-13T01:37:22Z</updated>
   <subtitle>Daily Trending of Pawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NexiusTailer/Nex-AC</title>
-    <updated>2022-09-12T01:39:19Z</updated>
-    <id>tag:github.com,2022-09-12:/NexiusTailer/Nex-AC</id>
-    <link href="https://github.com/NexiusTailer/Nex-AC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Anticheat system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

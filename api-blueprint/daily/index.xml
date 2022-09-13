@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub API Blueprint Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:34:08Z</updated>
+  <updated>2022-09-13T01:32:26Z</updated>
   <subtitle>Daily Trending of API Blueprint in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>teamleadercrm/api</title>
-    <updated>2022-09-12T01:34:08Z</updated>
-    <id>tag:github.com,2022-09-12:/teamleadercrm/api</id>
-    <link href="https://github.com/teamleadercrm/api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Teamleader API definition&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

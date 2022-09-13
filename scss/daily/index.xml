@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:41:14Z</updated>
+  <updated>2022-09-13T01:38:54Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cs531-f22/cs531-f22.github.io</title>
-    <updated>2022-09-12T01:41:14Z</updated>
-    <id>tag:github.com,2022-09-12:/cs531-f22/cs531-f22.github.io</id>
-    <link href="https://github.com/cs531-f22/cs531-f22.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ODU CS 431/531 Web Server Design - Fall 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pages-themes/time-machine</title>
+    <updated>2022-09-13T01:38:54Z</updated>
+    <id>tag:github.com,2022-09-13:/pages-themes/time-machine</id>
+    <link href="https://github.com/pages-themes/time-machine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Time machine is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thomasbendl/craft4-ddev-vite-blueprint</title>
-    <updated>2022-09-12T01:41:14Z</updated>
-    <id>tag:github.com,2022-09-12:/thomasbendl/craft4-ddev-vite-blueprint</id>
-    <link href="https://github.com/thomasbendl/craft4-ddev-vite-blueprint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Craft CMS 4 Webdevelopment Environment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vitalii-sopilka/3d-freedom</title>
+    <updated>2022-09-13T01:38:54Z</updated>
+    <id>tag:github.com,2022-09-13:/vitalii-sopilka/3d-freedom</id>
+    <link href="https://github.com/vitalii-sopilka/3d-freedom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3d-freedom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>guilhermeborgesbastos/live-resume</title>
+    <updated>2022-09-13T01:38:54Z</updated>
+    <id>tag:github.com,2022-09-13:/guilhermeborgesbastos/live-resume</id>
+    <link href="https://github.com/guilhermeborgesbastos/live-resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stand out of the crowd by showing a professional website/resume. Building fast and easy the best Personal Web Application resume!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

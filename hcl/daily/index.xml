@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:36:54Z</updated>
+  <updated>2022-09-13T01:35:11Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms</title>
-    <updated>2022-09-12T01:36:54Z</updated>
-    <id>tag:github.com,2022-09-12:/cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms</id>
-    <link href="https://github.com/cloudposse/terraform-aws-alb-target-group-cloudwatch-sns-alarms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to create CloudWatch Alarms on ALB Target level metrics.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-github-repository-webhooks</title>
-    <updated>2022-09-12T01:36:54Z</updated>
-    <id>tag:github.com,2022-09-12:/cloudposse/terraform-github-repository-webhooks</id>
-    <link href="https://github.com/cloudposse/terraform-github-repository-webhooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision webhooks on a set of GitHub repositories&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-vpc-peering</title>
-    <updated>2022-09-12T01:36:54Z</updated>
-    <id>tag:github.com,2022-09-12:/cloudposse/terraform-aws-vpc-peering</id>
-    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to create a peering connection between two VPCs in the same AWS account.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>addamstj/Terraform-012</title>
+    <updated>2022-09-13T01:35:11Z</updated>
+    <id>tag:github.com,2022-09-13:/addamstj/Terraform-012</id>
+    <link href="https://github.com/addamstj/Terraform-012" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for the Terraform course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

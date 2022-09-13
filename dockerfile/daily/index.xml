@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:35:50Z</updated>
+  <updated>2022-09-13T01:33:47Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>devopsjourney1/devops-project2021</title>
-    <updated>2022-09-12T01:35:50Z</updated>
-    <id>tag:github.com,2022-09-12:/devopsjourney1/devops-project2021</id>
-    <link href="https://github.com/devopsjourney1/devops-project2021" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn Vagrant, ANsible, Docker, DockerSwarm&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;YouTube Tutorial Below&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=YuZ002YrvUA&#34;&gt;https://www.youtube.com/watch?v=YuZ002YrvUA&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Vagrant Cheatsheet&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4&#34;&gt;https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudnative-pg/pgbouncer-containers</title>
-    <updated>2022-09-12T01:35:50Z</updated>
-    <id>tag:github.com,2022-09-12:/cloudnative-pg/pgbouncer-containers</id>
-    <link href="https://github.com/cloudnative-pg/pgbouncer-containers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Operand images for CloudNativePG containing PgBouncer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PgBouncer Container Images&lt;/h1&gt; &#xA;&lt;p&gt;Maintenance scripts to generate Immutable Application Containers for the latest PgBouncer version to be used as operands with the &lt;a href=&#34;https://cloudnative-pg.io&#34;&gt;CloudNativePG operator&lt;/a&gt; for Kubernetes.&lt;/p&gt; &#xA;&lt;p&gt;These images are built on top of the &lt;a href=&#34;https://hub.docker.com/_/debian/&#34;&gt;Offical Debian image&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;PgBouncer is distributed under the &lt;a href=&#34;https://github.com/pgbouncer/pgbouncer/raw/master/COPYRIGHT&#34;&gt;ISC License&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Images are available via &lt;a href=&#34;https://github.com/cloudnative-pg/pgbouncer-containers/pkgs/container/pgbouncer&#34;&gt;GitHub Container Registry&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License and copyright&lt;/h2&gt; &#xA;&lt;p&gt;This software is available under &lt;a href=&#34;https://raw.githubusercontent.com/cloudnative-pg/pgbouncer-containers/main/LICENSE&#34;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Copyright The CloudNativePG Contributors.&lt;/p&gt; &#xA;&lt;h2&gt;Trademarks&lt;/h2&gt; &#xA;&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://www.postgresql.org/about/policies/trademarks/&#34;&gt;Postgres, PostgreSQL and the Slonik Logo&lt;/a&gt; are trademarks or registered trademarks of the PostgreSQL Community Association of Canada, and used with their permission.&lt;/em&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>softwareyoga/docker-tomcat-tutorial</title>
-    <updated>2022-09-12T01:35:50Z</updated>
-    <id>tag:github.com,2022-09-12:/softwareyoga/docker-tomcat-tutorial</id>
-    <link href="https://github.com/softwareyoga/docker-tomcat-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A basic tutorial on running a web app on Tomcat using Docker&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docker-tomcat-tutorial&lt;/h1&gt; &#xA;&lt;p&gt;A basic tutorial on running a web app on Tomcat using Docker&lt;/p&gt; &#xA;&lt;p&gt;See tutorial here - &lt;a href=&#34;https://www.softwareyoga.com/docker-tomact-tutorial/&#34;&gt;https://www.softwareyoga.com/docker-tomact-tutorial/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Steps&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install &lt;a href=&#34;https://docs.docker.com/install/&#34;&gt;Docker&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Clone this repository - $git clone &lt;a href=&#34;https://github.com/softwareyoga/docker-tomcat-tutorial.git&#34;&gt;https://github.com/softwareyoga/docker-tomcat-tutorial.git&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;cd &#39;docker-tomcat-tutorial&#39;&lt;/li&gt; &#xA; &lt;li&gt;$docker build -t mywebapp .&lt;/li&gt; &#xA; &lt;li&gt;$docker run -p 80:8080 mywebapp&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://localhost:80&#34;&gt;http://localhost:80&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Links&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://tomcat.apache.org/tomcat-8.0-doc/appdev/sample/&#34;&gt;Sample Tomcat web app&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

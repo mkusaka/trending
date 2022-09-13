@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:41:44Z</updated>
+  <updated>2022-09-13T01:39:15Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>whitenois3/mvrgda</title>
-    <updated>2022-09-12T01:41:44Z</updated>
-    <id>tag:github.com,2022-09-12:/whitenois3/mvrgda</id>
-    <link href="https://github.com/whitenois3/mvrgda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Variable Rate Gradual Dutch Auctions with Martingale Price Correction.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fei-protocol/fuse-flywheel</title>
+    <updated>2022-09-13T01:39:15Z</updated>
+    <id>tag:github.com,2022-09-13:/fei-protocol/fuse-flywheel</id>
+    <link href="https://github.com/fei-protocol/fuse-flywheel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A flywheel repo specifically for Fuse compatibility&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>secureum/DeFi-Security-Summit-Stanford</title>
-    <updated>2022-09-12T01:41:44Z</updated>
-    <id>tag:github.com,2022-09-12:/secureum/DeFi-Security-Summit-Stanford</id>
-    <link href="https://github.com/secureum/DeFi-Security-Summit-Stanford" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DEFI Focus Smart Contract Security Capture the Flag&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zkLinkProtocol/zklink-contracts</title>
-    <updated>2022-09-12T01:41:44Z</updated>
-    <id>tag:github.com,2022-09-12:/zkLinkProtocol/zklink-contracts</id>
-    <link href="https://github.com/zkLinkProtocol/zklink-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zklink core contract, EVM compatible.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fei-protocol/flywheel-v2</title>
+    <updated>2022-09-13T01:39:15Z</updated>
+    <id>tag:github.com,2022-09-13:/fei-protocol/flywheel-v2</id>
+    <link href="https://github.com/fei-protocol/flywheel-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;General Token Incentives Infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

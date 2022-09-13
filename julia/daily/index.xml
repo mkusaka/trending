@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:38:06Z</updated>
+  <updated>2022-09-13T01:36:15Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaPhysics/SolidStateDetectors.jl</title>
-    <updated>2022-09-12T01:38:06Z</updated>
-    <id>tag:github.com,2022-09-12:/JuliaPhysics/SolidStateDetectors.jl</id>
-    <link href="https://github.com/JuliaPhysics/SolidStateDetectors.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solid state detector field and charge drift simulation in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MineralsCloud/EquationsOfStateOfSolids.jl</title>
-    <updated>2022-09-12T01:38:06Z</updated>
-    <id>tag:github.com,2022-09-12:/MineralsCloud/EquationsOfStateOfSolids.jl</id>
-    <link href="https://github.com/MineralsCloud/EquationsOfStateOfSolids.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for fitting the equation of state of solids, and more&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stepanzh/CTTaskPoints</title>
-    <updated>2022-09-12T01:38:06Z</updated>
-    <id>tag:github.com,2022-09-12:/stepanzh/CTTaskPoints</id>
-    <link href="https://github.com/stepanzh/CTTaskPoints" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Задание для курса вычислительной термодинамики.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MakieOrg/Makie.jl</title>
+    <updated>2022-09-13T01:36:15Z</updated>
+    <id>tag:github.com,2022-09-13:/MakieOrg/Makie.jl</id>
+    <link href="https://github.com/MakieOrg/Makie.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Visualizations and plotting in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

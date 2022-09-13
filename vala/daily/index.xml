@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:42:47Z</updated>
+  <updated>2022-09-13T01:40:10Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emrevit/vala-http</title>
+    <updated>2022-09-13T01:40:10Z</updated>
+    <id>tag:github.com,2022-09-13:/emrevit/vala-http</id>
+    <link href="https://github.com/emrevit/vala-http" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An HTTP/1.1 Client Library written in Vala&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

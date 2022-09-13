@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LookML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-12T01:38:31Z</updated>
+  <updated>2022-09-13T01:36:36Z</updated>
   <subtitle>Daily Trending of LookML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>looker-open-source/bqml-accelerator-public-datasets</title>
-    <updated>2022-09-12T01:38:31Z</updated>
-    <id>tag:github.com,2022-09-12:/looker-open-source/bqml-accelerator-public-datasets</id>
-    <link href="https://github.com/looker-open-source/bqml-accelerator-public-datasets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
