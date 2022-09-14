@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:32:36Z</updated>
+  <updated>2022-09-14T01:33:01Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OverTheNet/CODE_OF_MALWARE_I</title>
-    <updated>2022-09-13T01:32:36Z</updated>
-    <id>tag:github.com,2022-09-13:/OverTheNet/CODE_OF_MALWARE_I</id>
-    <link href="https://github.com/OverTheNet/CODE_OF_MALWARE_I" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains Actual Events and Codes of Threat Groups, APTs, Research Groups&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kamucantik/RDP-FREE-WINDOWSA</title>
+    <updated>2022-09-14T01:33:01Z</updated>
+    <id>tag:github.com,2022-09-14:/kamucantik/RDP-FREE-WINDOWSA</id>
+    <link href="https://github.com/kamucantik/RDP-FREE-WINDOWSA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tdenc/TDEnc</title>
+    <updated>2022-09-14T01:33:01Z</updated>
+    <id>tag:github.com,2022-09-14:/tdenc/TDEnc</id>
+    <link href="https://github.com/tdenc/TDEnc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

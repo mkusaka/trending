@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:33:18Z</updated>
+  <updated>2022-09-14T01:33:42Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ros2/console_bridge_vendor</title>
+    <updated>2022-09-14T01:33:42Z</updated>
+    <id>tag:github.com,2022-09-14:/ros2/console_bridge_vendor</id>
+    <link href="https://github.com/ros2/console_bridge_vendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake shim over the console_bridge library: https://github.com/ros/console_bridge.git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ament/google_benchmark_vendor</title>
+    <updated>2022-09-14T01:33:42Z</updated>
+    <id>tag:github.com,2022-09-14:/ament/google_benchmark_vendor</id>
+    <link href="https://github.com/ament/google_benchmark_vendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vendor package for providing Google Benchmark&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

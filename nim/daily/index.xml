@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:37:04Z</updated>
+  <updated>2022-09-14T01:37:03Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yglukhov/nimpy</title>
-    <updated>2022-09-13T01:37:04Z</updated>
-    <id>tag:github.com,2022-09-13:/yglukhov/nimpy</id>
-    <link href="https://github.com/yglukhov/nimpy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim - Python bridge&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>status-im/nim-eth</title>
+    <updated>2022-09-14T01:37:03Z</updated>
+    <id>tag:github.com,2022-09-14:/status-im/nim-eth</id>
+    <link href="https://github.com/status-im/nim-eth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common utilities for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

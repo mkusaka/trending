@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:38:54Z</updated>
+  <updated>2022-09-14T01:38:51Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pages-themes/time-machine</title>
-    <updated>2022-09-13T01:38:54Z</updated>
-    <id>tag:github.com,2022-09-13:/pages-themes/time-machine</id>
-    <link href="https://github.com/pages-themes/time-machine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Time machine is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DACSS/Text_as_Data_Fall_2022</title>
+    <updated>2022-09-14T01:38:51Z</updated>
+    <id>tag:github.com,2022-09-14:/DACSS/Text_as_Data_Fall_2022</id>
+    <link href="https://github.com/DACSS/Text_as_Data_Fall_2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vitalii-sopilka/3d-freedom</title>
-    <updated>2022-09-13T01:38:54Z</updated>
-    <id>tag:github.com,2022-09-13:/vitalii-sopilka/3d-freedom</id>
-    <link href="https://github.com/vitalii-sopilka/3d-freedom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3d-freedom&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>guilhermeborgesbastos/live-resume</title>
-    <updated>2022-09-13T01:38:54Z</updated>
-    <id>tag:github.com,2022-09-13:/guilhermeborgesbastos/live-resume</id>
-    <link href="https://github.com/guilhermeborgesbastos/live-resume" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stand out of the crowd by showing a professional website/resume. Building fast and easy the best Personal Web Application resume!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/paper-kit-2-angular</title>
+    <updated>2022-09-14T01:38:51Z</updated>
+    <id>tag:github.com,2022-09-14:/creativetimofficial/paper-kit-2-angular</id>
+    <link href="https://github.com/creativetimofficial/paper-kit-2-angular" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Bootstrap 4 UI Kit for Angular 2+&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

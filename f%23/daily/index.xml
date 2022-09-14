@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:34:21Z</updated>
+  <updated>2022-09-14T01:34:34Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fable-compiler/Fable.Solid</title>
-    <updated>2022-09-13T01:34:21Z</updated>
-    <id>tag:github.com,2022-09-13:/fable-compiler/Fable.Solid</id>
-    <link href="https://github.com/fable-compiler/Fable.Solid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fable bindings for SolidJS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fable.Solid&lt;/h1&gt; &#xA;&lt;p&gt;Fable bindings for &lt;a href=&#34;https://www.solidjs.com/&#34;&gt;SolidJS&lt;/a&gt;. You can use it in combination with Feliz.JSX.Solid to write React-like apps without a Virtual DOM.&lt;/p&gt; &#xA;&lt;p&gt;To test run &lt;code&gt;npm install &amp;amp;&amp;amp; npm start&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Note: Requires Fable 4 (in beta at the time of writing)&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fable-compiler/Fable.Solid/master/screencast.gif&#34; alt=&#34;Screen cast&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

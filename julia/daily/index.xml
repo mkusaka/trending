@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:36:15Z</updated>
+  <updated>2022-09-14T01:36:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MakieOrg/Makie.jl</title>
-    <updated>2022-09-13T01:36:15Z</updated>
-    <id>tag:github.com,2022-09-13:/MakieOrg/Makie.jl</id>
-    <link href="https://github.com/MakieOrg/Makie.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Visualizations and plotting in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

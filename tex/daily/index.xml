@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:39:40Z</updated>
+  <updated>2022-09-14T01:39:44Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ietf-wg-ppm/draft-ietf-ppm-dap</title>
+    <updated>2022-09-14T01:39:44Z</updated>
+    <id>tag:github.com,2022-09-14:/ietf-wg-ppm/draft-ietf-ppm-dap</id>
+    <link href="https://github.com/ietf-wg-ppm/draft-ietf-ppm-dap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This document describes the Distributed Aggregation Protocol (DAP) being developed by the PPM working group at IETF.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Distributed Aggregation Protocol for Privacy Preserving Measurement&lt;/h1&gt; &#xA;&lt;p&gt;This is the working area for the IETF &lt;a href=&#34;https://datatracker.ietf.org/wg/ppm/documents/&#34;&gt;PPM Working Group&lt;/a&gt; Internet-Draft, &#34;Distributed Aggregation Protocol for Privacy Preserving Measurement&#34;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://ietf-wg-ppm.github.io/draft-ietf-ppm-dap/#go.draft-ietf-ppm-dap.html&#34;&gt;Editor&#39;s Copy&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://datatracker.ietf.org/doc/draft-ietf-ppm-dap&#34;&gt;Datatracker Page&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://datatracker.ietf.org/doc/html/draft-ietf-ppm-dap&#34;&gt;Working Group Draft&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://ietf-wg-ppm.github.io/draft-ietf-ppm-dap/#go.draft-ietf-ppm-dap.diff&#34;&gt;Compare Editor&#39;s Copy to Working Group Draft&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://github.com/ietf-wg-ppm/draft-ietf-ppm-dap/raw/main/CONTRIBUTING.md&#34;&gt;guidelines for contributions&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Contributions can be made by creating pull requests. The GitHub interface supports creating pull requests using the Edit (✏) button.&lt;/p&gt; &#xA;&lt;h2&gt;Command Line Usage&lt;/h2&gt; &#xA;&lt;p&gt;Formatted text and HTML versions of the draft can be built using &lt;code&gt;make&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ make&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Command line usage requires that you have the necessary software installed. See &lt;a href=&#34;https://github.com/martinthomson/i-d-template/raw/main/doc/SETUP.md&#34;&gt;the instructions&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

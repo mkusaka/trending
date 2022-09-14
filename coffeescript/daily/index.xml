@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:33:19Z</updated>
+  <updated>2022-09-14T01:33:44Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ethagnawl/deck_of_cards_workout</title>
+    <updated>2022-09-14T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-14:/ethagnawl/deck_of_cards_workout</id>
+    <link href="https://github.com/ethagnawl/deck_of_cards_workout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

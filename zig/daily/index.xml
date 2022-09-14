@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-13T01:40:29Z</updated>
+  <updated>2022-09-14T01:40:28Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hexops/mach-gpu</title>
+    <updated>2022-09-14T01:40:28Z</updated>
+    <id>tag:github.com,2022-09-14:/hexops/mach-gpu</id>
+    <link href="https://github.com/hexops/mach-gpu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mach/gpu: truly cross-platform WebGPU graphics for Zig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EclesioMeloJunior/zig-grep</title>
+    <updated>2022-09-14T01:40:28Z</updated>
+    <id>tag:github.com,2022-09-14:/EclesioMeloJunior/zig-grep</id>
+    <link href="https://github.com/EclesioMeloJunior/zig-grep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A grep that implements KMP pattern search algorithm written in Zig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
