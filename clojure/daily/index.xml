@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:33:40Z</updated>
+  <updated>2022-09-15T01:32:35Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tshinbum/clapp</title>
+    <updated>2022-09-15T01:32:35Z</updated>
+    <id>tag:github.com,2022-09-15:/tshinbum/clapp</id>
+    <link href="https://github.com/tshinbum/clapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simple clojure app for learning clj&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

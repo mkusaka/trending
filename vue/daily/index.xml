@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:40:17Z</updated>
+  <updated>2022-09-15T01:40:43Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rwv/lookscanned.io</title>
-    <updated>2022-09-14T01:40:17Z</updated>
-    <id>tag:github.com,2022-09-14:/rwv/lookscanned.io</id>
-    <link href="https://github.com/rwv/lookscanned.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 LookScanned.io - Make your PDFs look scanned&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>misenhower/splatoon3.ink</title>
-    <updated>2022-09-14T01:40:17Z</updated>
-    <id>tag:github.com,2022-09-14:/misenhower/splatoon3.ink</id>
-    <link href="https://github.com/misenhower/splatoon3.ink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦑 Countdown to Splatoon 3. More coming soon!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>amir20/dozzle</title>
-    <updated>2022-09-14T01:40:17Z</updated>
-    <id>tag:github.com,2022-09-14:/amir20/dozzle</id>
-    <link href="https://github.com/amir20/dozzle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Realtime log viewer for docker containers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

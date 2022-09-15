@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:34:38Z</updated>
+  <updated>2022-09-15T01:33:53Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jochenklar/evora</title>
-    <updated>2022-09-14T01:34:38Z</updated>
-    <id>tag:github.com,2022-09-14:/jochenklar/evora</id>
-    <link href="https://github.com/jochenklar/evora" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;evolution of a polytropic fluid within a cosmological framework including the influence of gravity, primordial chemical processes, radiative cooling, heating by a UV background, and thermal conduction&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MYSTRANsolver/MYSTRAN</title>
+    <updated>2022-09-15T01:33:53Z</updated>
+    <id>tag:github.com,2022-09-15:/MYSTRANsolver/MYSTRAN</id>
+    <link href="https://github.com/MYSTRANsolver/MYSTRAN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MYSTRAN is a general purpose finite element analysis solver&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

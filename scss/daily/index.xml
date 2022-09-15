@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:38:51Z</updated>
+  <updated>2022-09-15T01:39:07Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DACSS/Text_as_Data_Fall_2022</title>
-    <updated>2022-09-14T01:38:51Z</updated>
-    <id>tag:github.com,2022-09-14:/DACSS/Text_as_Data_Fall_2022</id>
-    <link href="https://github.com/DACSS/Text_as_Data_Fall_2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apple/swift-org-website</title>
+    <updated>2022-09-15T01:39:07Z</updated>
+    <id>tag:github.com,2022-09-15:/apple/swift-org-website</id>
+    <link href="https://github.com/apple/swift-org-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Swift.org website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>creativetimofficial/paper-kit-2-angular</title>
-    <updated>2022-09-14T01:38:51Z</updated>
-    <id>tag:github.com,2022-09-14:/creativetimofficial/paper-kit-2-angular</id>
-    <link href="https://github.com/creativetimofficial/paper-kit-2-angular" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free Bootstrap 4 UI Kit for Angular 2+&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NrdyBhu1/atlas-jekyll-theme</title>
+    <updated>2022-09-15T01:39:07Z</updated>
+    <id>tag:github.com,2022-09-15:/NrdyBhu1/atlas-jekyll-theme</id>
+    <link href="https://github.com/NrdyBhu1/atlas-jekyll-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A jekyll theme for personal website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pages-themes/primer</title>
+    <updated>2022-09-15T01:39:07Z</updated>
+    <id>tag:github.com,2022-09-15:/pages-themes/primer</id>
+    <link href="https://github.com/pages-themes/primer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Primer is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

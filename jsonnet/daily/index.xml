@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:36:07Z</updated>
+  <updated>2022-09-15T01:35:38Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GoogleCloudPlatform/ml-testing-accelerators</title>
+    <updated>2022-09-15T01:35:38Z</updated>
+    <id>tag:github.com,2022-09-15:/GoogleCloudPlatform/ml-testing-accelerators</id>
+    <link href="https://github.com/GoogleCloudPlatform/ml-testing-accelerators" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testing framework for Deep Learning models (Tensorflow and PyTorch) on Google Cloud hardware accelerators (TPU and GPU)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/dashboards</title>
+    <updated>2022-09-15T01:35:38Z</updated>
+    <id>tag:github.com,2022-09-15:/giantswarm/dashboards</id>
+    <link href="https://github.com/giantswarm/dashboards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All our dashboards for Grafana&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

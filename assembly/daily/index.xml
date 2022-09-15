@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:32:56Z</updated>
+  <updated>2022-09-15T01:31:37Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hidsh/capsense_ctrl</title>
-    <updated>2022-09-14T01:32:56Z</updated>
-    <id>tag:github.com,2022-09-14:/hidsh/capsense_ctrl</id>
-    <link href="https://github.com/hidsh/capsense_ctrl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;capsence ctrl key on HHK Lite2, using Cypress PSoC&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sammyuri/chungus-2-assembler</title>
-    <updated>2022-09-14T01:32:56Z</updated>
-    <id>tag:github.com,2022-09-14:/sammyuri/chungus-2-assembler</id>
-    <link href="https://github.com/sammyuri/chungus-2-assembler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Assembler and example programs for the CHUNGUS 2 Minecraft CPU.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>organix/uFork</title>
+    <updated>2022-09-15T01:31:37Z</updated>
+    <id>tag:github.com,2022-09-15:/organix/uFork</id>
+    <link href="https://github.com/organix/uFork" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure-actor virtual machine with object-capabilities and memory-safety.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

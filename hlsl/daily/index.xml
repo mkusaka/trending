@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:35:16Z</updated>
+  <updated>2022-09-15T01:34:34Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>festivize/Cheddar</title>
-    <updated>2022-09-14T01:35:16Z</updated>
-    <id>tag:github.com,2022-09-14:/festivize/Cheddar</id>
-    <link href="https://github.com/festivize/Cheddar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A shader for Unity (Built-in Rendering Pipeline) attempting to replicate the shading of Genshin Impact developed by miHoYo. This shader is especially for datamined assets, not custom-made ones nor the MMD variants.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

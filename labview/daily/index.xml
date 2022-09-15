@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LabVIEW Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:36:35Z</updated>
+  <updated>2022-09-15T01:36:20Z</updated>
   <subtitle>Daily Trending of LabVIEW in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>oist/PPL_Builder</title>
-    <updated>2022-09-14T01:36:35Z</updated>
-    <id>tag:github.com,2022-09-14:/oist/PPL_Builder</id>
-    <link href="https://github.com/oist/PPL_Builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tool for building LabVIEW Packed Project Library files on Windows and cRIO-9045&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:32:25Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-15T01:31:12Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AUTOMATIC1111/stable-diffusion-webui-feature-showcase</title>
-    <updated>2022-09-14T01:32:25Z</updated>
-    <id>tag:github.com,2022-09-14:/AUTOMATIC1111/stable-diffusion-webui-feature-showcase</id>
-    <link href="https://github.com/AUTOMATIC1111/stable-diffusion-webui-feature-showcase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Feature showcase for stable-diffusion-webui&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apptension/developer-handbook</title>
+    <updated>2022-09-15T01:31:12Z</updated>
+    <id>tag:github.com,2022-09-15:/apptension/developer-handbook</id>
+    <link href="https://github.com/apptension/developer-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated guide on how to become a professional Web/Mobile App Developer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RealityNet/Android-Forensics-References</title>
-    <updated>2022-09-14T01:32:25Z</updated>
-    <id>tag:github.com,2022-09-14:/RealityNet/Android-Forensics-References</id>
-    <link href="https://github.com/RealityNet/Android-Forensics-References" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joaocarvalhoopen/How_to_learn_modern_Rust</title>
+    <updated>2022-09-15T01:31:12Z</updated>
+    <id>tag:github.com,2022-09-15:/joaocarvalhoopen/How_to_learn_modern_Rust</id>
+    <link href="https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A guide to the adventurer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>km-neuron/se-git-assignment</title>
-    <updated>2022-09-14T01:32:25Z</updated>
-    <id>tag:github.com,2022-09-14:/km-neuron/se-git-assignment</id>
-    <link href="https://github.com/km-neuron/se-git-assignment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SE Git Assignment Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cat-milk/Anime-Girls-Holding-Programming-Books</title>
+    <updated>2022-09-15T01:31:12Z</updated>
+    <id>tag:github.com,2022-09-15:/cat-milk/Anime-Girls-Holding-Programming-Books</id>
+    <link href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Anime Girls Holding Programming Books&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

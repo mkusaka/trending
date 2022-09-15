@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:36:49Z</updated>
+  <updated>2022-09-15T01:36:37Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aquanauts/python_interview</title>
-    <updated>2022-09-14T01:36:49Z</updated>
-    <id>tag:github.com,2022-09-14:/aquanauts/python_interview</id>
-    <link href="https://github.com/aquanauts/python_interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Our Python Programming Interview&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>projectceladon/device-androidia-mixins</title>
+    <updated>2022-09-15T01:36:37Z</updated>
+    <id>tag:github.com,2022-09-15:/projectceladon/device-androidia-mixins</id>
+    <link href="https://github.com/projectceladon/device-androidia-mixins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>timcharper/git_osx_installer</title>
+    <updated>2022-09-15T01:36:37Z</updated>
+    <id>tag:github.com,2022-09-15:/timcharper/git_osx_installer</id>
+    <link href="https://github.com/timcharper/git_osx_installer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Installer for OS X&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xdroid-oss/xd_vendor_xdroid</title>
+    <updated>2022-09-15T01:36:37Z</updated>
+    <id>tag:github.com,2022-09-15:/xdroid-oss/xd_vendor_xdroid</id>
+    <link href="https://github.com/xdroid-oss/xd_vendor_xdroid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:33:45Z</updated>
+  <updated>2022-09-15T01:32:41Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>manuel/parenscript</title>
-    <updated>2022-09-14T01:33:45Z</updated>
-    <id>tag:github.com,2022-09-14:/manuel/parenscript</id>
-    <link href="https://github.com/manuel/parenscript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fork of Parenscript with support for documentation strings&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bld/bld-orbit</title>
-    <updated>2022-09-14T01:33:45Z</updated>
-    <id>tag:github.com,2022-09-14:/bld/bld-orbit</id>
-    <link href="https://github.com/bld/bld-orbit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common Lisp orbital mechanics library&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bld-orbit&lt;/h1&gt; &#xA;&lt;p&gt;bld-orbit is an orbital mechanics in Common Lisp. This library uses the orbit equations of Kustaanheimo and Stiefel instead of the traditional Kepler orbital elements and their singularities. Orbits are represented by the geometry of the orbit plane (using geometric algebra), and time is scaled by the distance from the orbit center to make integration more uniform for highly elliptical orbits.&lt;/p&gt; &#xA;&lt;p&gt;&#xA; &lt;tbd&gt;&#xA;   Better explanation on what all this is. The included document &#34;Perturbed Kepler Orbital Element Problem in Geometric Algebra&#34; goes into a mathematical derivation, but is hardly an introduction.&#xA; &lt;/tbd&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Comparison with General Mission Analysis Tool (GMAT)&lt;/h2&gt; &#xA;&lt;p&gt;This library is tested against NASA&#39;s open source GMAT program, version R2013a, to demonstrate that it is capable of the accuracy needed for real mission analysis. GMAT R2013a was the staging release for R2013b (an unreleased version) that was deemed ready for operational use on the Advanced Composition Explorer (ACE) mission.&lt;/p&gt; &#xA;&lt;h3&gt;Test scripts&lt;/h3&gt; &#xA;&lt;p&gt;Load the file &#34;gmat/Test01.script&#34; to load the first test, which is to propagate a spacecraft for 1 year, starting from Earth&#39;s position and velocity, with only solar gravity.&lt;/p&gt; &#xA;&lt;p&gt;The report files require an absolute path, and Test01.script is saved with the relative path. To set the absolute path:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Run GMAT R2013a&lt;/li&gt; &#xA; &lt;li&gt;Open &#34;gmat/Test01.script&#34;&lt;/li&gt; &#xA; &lt;li&gt;Open the &#34;Output&#34; folder in the &#34;Resources&#34; tab.&lt;/li&gt; &#xA; &lt;li&gt;Open &#34;ReportFile01Sun&#34; (double-click)&lt;/li&gt; &#xA; &lt;li&gt;Click &#34;Browse&#34; and select the &#34;gmat/ReportFile01Sun.txt&#34;&lt;/li&gt; &#xA; &lt;li&gt;Repeat process for &#34;ReportFile01SSB&#34;.&lt;/li&gt; &#xA; &lt;li&gt;Click &#34;Run&#34; to regenerate report files.&lt;/li&gt; &#xA; &lt;li&gt;Click &#34;Output&#34; tab, and double-click report files to look at the results in GMAT.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Other libraries&lt;/h2&gt; &#xA;&lt;h3&gt;bld-ga &amp;amp; bld-e3&lt;/h3&gt; &#xA;&lt;p&gt;The orbits are described by geometric algebra objects that represent the plane and planar velocity of the orbit. These are implemented in bld-ga (geometric algebra) and bld-e3 (geometric algebra of Euclidean three-dimensional space).&lt;/p&gt; &#xA;&lt;h3&gt;bld-ode&lt;/h3&gt; &#xA;&lt;p&gt;bld-orbit uses bld-ode&#39;s adaptive step-size Runge-Kutta 7-8th order integrators. There are versions of the integrator that end at a specified integrator time, or other stopping condition &amp;amp; value.&lt;/p&gt; &#xA;&lt;h3&gt;cl-spice&lt;/h3&gt; &#xA;&lt;p&gt;cl-spice is a library that accesses precision orbit and other data of celestial bodies and spacecraft using JPL&#39;s SPICE system.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;See &#34;examples.lisp&#34; for some Kepler orbit test cases.&lt;/p&gt; &#xA;&lt;tbd&gt; &#xA;&lt;/tbd&gt;</summary>
-  </entry>
 </feed>

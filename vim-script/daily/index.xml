@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-14T01:40:15Z</updated>
+  <updated>2022-09-15T01:40:40Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tommcdo/vim-exchange</title>
-    <updated>2022-09-14T01:40:15Z</updated>
-    <id>tag:github.com,2022-09-14:/tommcdo/vim-exchange</id>
-    <link href="https://github.com/tommcdo/vim-exchange" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easy text exchange operator for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fanzeyi/usaco.vim</title>
+    <updated>2022-09-15T01:40:40Z</updated>
+    <id>tag:github.com,2022-09-15:/fanzeyi/usaco.vim</id>
+    <link href="https://github.com/fanzeyi/usaco.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;auto add usaco header to code file&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tpope/vim-tbone</title>
-    <updated>2022-09-14T01:40:15Z</updated>
-    <id>tag:github.com,2022-09-14:/tpope/vim-tbone</id>
-    <link href="https://github.com/tpope/vim-tbone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;tbone.vim: tmux basics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hchbaw/textobj-motionmotion.vim</title>
+    <updated>2022-09-15T01:40:40Z</updated>
+    <id>tag:github.com,2022-09-15:/hchbaw/textobj-motionmotion.vim</id>
+    <link href="https://github.com/hchbaw/textobj-motionmotion.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Text objects for bounds of 2 motions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aklt/plantuml-syntax</title>
-    <updated>2022-09-14T01:40:15Z</updated>
-    <id>tag:github.com,2022-09-14:/aklt/plantuml-syntax</id>
-    <link href="https://github.com/aklt/plantuml-syntax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim syntax file for plantuml&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>junegunn/limelight.vim</title>
+    <updated>2022-09-15T01:40:40Z</updated>
+    <id>tag:github.com,2022-09-15:/junegunn/limelight.vim</id>
+    <link href="https://github.com/junegunn/limelight.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔦 All the world&#39;s indeed a stage and we are merely players&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
