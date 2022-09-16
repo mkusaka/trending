@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:38:39Z</updated>
+  <updated>2022-09-16T01:39:37Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ritik2703/Coursera---Programming-for-Everybody-Getting-Started-with-Python-</title>
+    <updated>2022-09-16T01:39:37Z</updated>
+    <id>tag:github.com,2022-09-16:/Ritik2703/Coursera---Programming-for-Everybody-Getting-Started-with-Python-</id>
+    <link href="https://github.com/Ritik2703/Coursera---Programming-for-Everybody-Getting-Started-with-Python-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;this contains all the answers to the quizes and asssignments for &#34;Programming for Everybody (Getting Started with Python)&#34; on Coursera by the University of Michigan.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

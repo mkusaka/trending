@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:32:40Z</updated>
+  <updated>2022-09-16T01:34:47Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>interviewstreet/jquery.dragResize</title>
-    <updated>2022-09-15T01:32:40Z</updated>
-    <id>tag:github.com,2022-09-15:/interviewstreet/jquery.dragResize</id>
-    <link href="https://github.com/interviewstreet/jquery.dragResize" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jquery plugin to add resizable pane support&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rewinfrey/visual-selection-sort</title>
-    <updated>2022-09-15T01:32:40Z</updated>
-    <id>tag:github.com,2022-09-15:/rewinfrey/visual-selection-sort</id>
-    <link href="https://github.com/rewinfrey/visual-selection-sort" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Sinatra / Javascript app to show a visual representation of a Selection Sort&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yourcelf/firestarter</title>
+    <updated>2022-09-16T01:34:47Z</updated>
+    <id>tag:github.com,2022-09-16:/yourcelf/firestarter</id>
+    <link href="https://github.com/yourcelf/firestarter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web application for firestarters/icebreakers/go-arounds. Not yet functional.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

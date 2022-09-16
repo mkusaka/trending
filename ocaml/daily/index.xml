@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:37:17Z</updated>
+  <updated>2022-09-16T01:38:29Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>imandra-ai/ocaml-gcloud</title>
-    <updated>2022-09-15T01:37:17Z</updated>
-    <id>tag:github.com,2022-09-15:/imandra-ai/ocaml-gcloud</id>
-    <link href="https://github.com/imandra-ai/ocaml-gcloud" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OCaml bindings to Google Cloud Platform APIs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>art-w/mcset</title>
-    <updated>2022-09-15T01:37:17Z</updated>
-    <id>tag:github.com,2022-09-15:/art-w/mcset</id>
-    <link href="https://github.com/art-w/mcset" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lock-free Set for OCaml multicore&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

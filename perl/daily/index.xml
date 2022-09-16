@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:37:37Z</updated>
+  <updated>2022-09-16T01:38:47Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sbwml/halflife-list</title>
-    <updated>2022-09-15T01:37:37Z</updated>
-    <id>tag:github.com,2022-09-15:/sbwml/halflife-list</id>
-    <link href="https://github.com/sbwml/halflife-list" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;ABP/ublock订阅规则&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;ad-pc.txt：[推荐桌面端]合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX&#39;sAnnoyance，以及补充的一些规则；&lt;/li&gt; &#xA; &lt;li&gt;ad-mo.txt：合并自Easylist、EasylistChina、EasyPrivacy、CJX&#39;sAnnoyance；&lt;/li&gt; &#xA; &lt;li&gt;ad.txt：[推荐移动端]合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX&#39;sAnnoyance，以及补充的一些规则；&lt;/li&gt; &#xA; &lt;li&gt;ad2.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX&#39;sAnnoyance；&lt;/li&gt; &#xA; &lt;li&gt;ad3.txt：合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX&#39;sAnnoyance、EasyPrivacy；&lt;/li&gt; &#xA; &lt;li&gt;ad-edentw.txt：合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters。&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+    <title>belden/aliased-constructor</title>
+    <updated>2022-09-16T01:38:47Z</updated>
+    <id>tag:github.com,2022-09-16:/belden/aliased-constructor</id>
+    <link href="https://github.com/belden/aliased-constructor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;alias class constructors to shortened versions of the class name&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;aliased-constructor&lt;/h1&gt; &#xA;&lt;p&gt;alias class constructors to shortened versions of the class name&lt;/p&gt;</summary>
   </entry>
 </feed>

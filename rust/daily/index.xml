@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:38:42Z</updated>
+  <updated>2022-09-16T01:39:41Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nik012003/ripdrag</title>
-    <updated>2022-09-15T01:38:42Z</updated>
-    <id>tag:github.com,2022-09-15:/nik012003/ripdrag</id>
-    <link href="https://github.com/nik012003/ripdrag" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Drag and Drop utilty written in Rust and GTK4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MCHPR/MCHPRS</title>
+    <updated>2022-09-16T01:39:41Z</updated>
+    <id>tag:github.com,2022-09-16:/MCHPR/MCHPRS</id>
+    <link href="https://github.com/MCHPR/MCHPRS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A multithreaded Minecraft server built for redstone.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dtolnay/anyhow</title>
-    <updated>2022-09-15T01:38:42Z</updated>
-    <id>tag:github.com,2022-09-15:/dtolnay/anyhow</id>
-    <link href="https://github.com/dtolnay/anyhow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flexible concrete Error type built on std::error::Error&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>parseablehq/parseable</title>
+    <updated>2022-09-16T01:39:41Z</updated>
+    <id>tag:github.com,2022-09-16:/parseablehq/parseable</id>
+    <link href="https://github.com/parseablehq/parseable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Think Prometheus, but for logs (not metrics). Simple, efficient, cloud native, log storage and observability platform.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kudaes/Dumpy</title>
-    <updated>2022-09-15T01:38:42Z</updated>
-    <id>tag:github.com,2022-09-15:/Kudaes/Dumpy</id>
-    <link href="https://github.com/Kudaes/Dumpy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reuse opened handles to dynamically dump LSASS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>supabase/pg_netstat</title>
+    <updated>2022-09-16T01:39:41Z</updated>
+    <id>tag:github.com,2022-09-16:/supabase/pg_netstat</id>
+    <link href="https://github.com/supabase/pg_netstat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PostgreSQL extension to monitor database network traffic&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:39:35Z</updated>
+  <updated>2022-09-16T01:40:29Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PraneshASP/huff-goo-issuance</title>
-    <updated>2022-09-15T01:39:35Z</updated>
-    <id>tag:github.com,2022-09-15:/PraneshASP/huff-goo-issuance</id>
-    <link href="https://github.com/PraneshASP/huff-goo-issuance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GOO(Gradual Ownership Optimization) issuance implementation using Huff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>balancer-labs/balancer-core</title>
+    <updated>2022-09-16T01:40:29Z</updated>
+    <id>tag:github.com,2022-09-16:/balancer-labs/balancer-core</id>
+    <link href="https://github.com/balancer-labs/balancer-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Balancer on the EVM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EarnyTV/EARNY_Token</title>
-    <updated>2022-09-15T01:39:35Z</updated>
-    <id>tag:github.com,2022-09-15:/EarnyTV/EARNY_Token</id>
-    <link href="https://github.com/EarnyTV/EARNY_Token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;$EARNY token is the native utility-coin of EarnyTV. It was created to help powering the platform and it&#39;s unique mechanism in a fully decentralized way. $EARNY is currently available on BSC, and via cross-chain bridging on ETH &amp; MATIC (wrapped $EARNY).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>t4sk/sol-best-practices</title>
-    <updated>2022-09-15T01:39:35Z</updated>
-    <id>tag:github.com,2022-09-15:/t4sk/sol-best-practices</id>
-    <link href="https://github.com/t4sk/sol-best-practices" rel="alternate"></link>
+    <title>enclosed-money/contracts</title>
+    <updated>2022-09-16T01:40:29Z</updated>
+    <id>tag:github.com,2022-09-16:/enclosed-money/contracts</id>
+    <link href="https://github.com/enclosed-money/contracts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>velodrome-finance/contracts</title>
+    <updated>2022-09-16T01:40:29Z</updated>
+    <id>tag:github.com,2022-09-16:/velodrome-finance/contracts</id>
+    <link href="https://github.com/velodrome-finance/contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Our Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

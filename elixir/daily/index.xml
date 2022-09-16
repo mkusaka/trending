@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:33:28Z</updated>
+  <updated>2022-09-16T01:35:26Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>verypossible/nerves_system_onlogic_da1000_atom</title>
-    <updated>2022-09-15T01:33:28Z</updated>
-    <id>tag:github.com,2022-09-15:/verypossible/nerves_system_onlogic_da1000_atom</id>
-    <link href="https://github.com/verypossible/nerves_system_onlogic_da1000_atom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nerves system for OnLogic DA-1000 with Intel Atom processor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixir-crawly/crawly</title>
+    <updated>2022-09-16T01:35:26Z</updated>
+    <id>tag:github.com,2022-09-16:/elixir-crawly/crawly</id>
+    <link href="https://github.com/elixir-crawly/crawly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Crawly, a high-level web crawling &amp; scraping framework for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>verypossible/accounting</title>
-    <updated>2022-09-15T01:33:28Z</updated>
-    <id>tag:github.com,2022-09-15:/verypossible/accounting</id>
-    <link href="https://github.com/verypossible/accounting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>verypossible/rpi3_sudo</title>
-    <updated>2022-09-15T01:33:28Z</updated>
-    <id>tag:github.com,2022-09-15:/verypossible/rpi3_sudo</id>
-    <link href="https://github.com/verypossible/rpi3_sudo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A copy of https://github.com/nerves-project/nerves_system_rpi3 with sudo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>notesclub/notesclub</title>
+    <updated>2022-09-16T01:35:26Z</updated>
+    <id>tag:github.com,2022-09-16:/notesclub/notesclub</id>
+    <link href="https://github.com/notesclub/notesclub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Discover Livebook notebooks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

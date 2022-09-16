@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:34:20Z</updated>
+  <updated>2022-09-16T01:36:12Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>surrealdb/www.surrealdb.com</title>
-    <updated>2022-09-15T01:34:20Z</updated>
-    <id>tag:github.com,2022-09-15:/surrealdb/www.surrealdb.com</id>
-    <link href="https://github.com/surrealdb/www.surrealdb.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The website, blog, and documentation for SurrealDB, built using Ember.js&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fazt/nodejs-notes-app</title>
+    <updated>2022-09-16T01:36:12Z</updated>
+    <id>tag:github.com,2022-09-16:/fazt/nodejs-notes-app</id>
+    <link href="https://github.com/fazt/nodejs-notes-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web app to manage notes using Nodejs, and Mongodb as database, plus authentication with passportjs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

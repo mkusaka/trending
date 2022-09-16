@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:39:46Z</updated>
+  <updated>2022-09-16T01:40:40Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>itswadesh/svelte-commerce</title>
-    <updated>2022-09-15T01:39:46Z</updated>
-    <id>tag:github.com,2022-09-15:/itswadesh/svelte-commerce</id>
-    <link href="https://github.com/itswadesh/svelte-commerce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte ecommerce - Headless, Authentication, Cart &amp; Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Faceted Filters, Typescript, Open Source, MIT license. 1 command deploy to your own server, 1 click deploy to netlify.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

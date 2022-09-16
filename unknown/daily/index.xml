@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-15T01:31:12Z</updated>
+  <updated>2022-09-16T01:33:30Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>apptension/developer-handbook</title>
-    <updated>2022-09-15T01:31:12Z</updated>
-    <id>tag:github.com,2022-09-15:/apptension/developer-handbook</id>
-    <link href="https://github.com/apptension/developer-handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An opinionated guide on how to become a professional Web/Mobile App Developer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy</title>
+    <updated>2022-09-16T01:33:30Z</updated>
+    <id>tag:github.com,2022-09-16:/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy</id>
+    <link href="https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diffusion model papers, survey, and taxonomy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>joaocarvalhoopen/How_to_learn_modern_Rust</title>
-    <updated>2022-09-15T01:31:12Z</updated>
-    <id>tag:github.com,2022-09-15:/joaocarvalhoopen/How_to_learn_modern_Rust</id>
-    <link href="https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A guide to the adventurer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CocoaPods/Specs</title>
+    <updated>2022-09-16T01:33:30Z</updated>
+    <id>tag:github.com,2022-09-16:/CocoaPods/Specs</id>
+    <link href="https://github.com/CocoaPods/Specs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The CocoaPods Master Repo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cat-milk/Anime-Girls-Holding-Programming-Books</title>
-    <updated>2022-09-15T01:31:12Z</updated>
-    <id>tag:github.com,2022-09-15:/cat-milk/Anime-Girls-Holding-Programming-Books</id>
-    <link href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Anime Girls Holding Programming Books&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>filsv/iOSDeviceSupport</title>
+    <updated>2022-09-16T01:33:30Z</updated>
+    <id>tag:github.com,2022-09-16:/filsv/iOSDeviceSupport</id>
+    <link href="https://github.com/filsv/iOSDeviceSupport" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Xcode iPhoneOS DeviceSupport files (6.0 - 15.4)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
