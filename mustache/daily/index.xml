@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:38:08Z</updated>
+  <updated>2022-09-17T01:35:48Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>intershop/helm-charts</title>
+    <updated>2022-09-17T01:35:48Z</updated>
+    <id>tag:github.com,2022-09-17:/intershop/helm-charts</id>
+    <link href="https://github.com/intershop/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Charts of Intershop`s Service Offering&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/harbor-operator-app</title>
+    <updated>2022-09-17T01:35:48Z</updated>
+    <id>tag:github.com,2022-09-17:/giantswarm/harbor-operator-app</id>
+    <link href="https://github.com/giantswarm/harbor-operator-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/harbor-app</title>
+    <updated>2022-09-17T01:35:48Z</updated>
+    <id>tag:github.com,2022-09-17:/giantswarm/harbor-app</id>
+    <link href="https://github.com/giantswarm/harbor-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Harbor App Template&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

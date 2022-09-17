@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:35:26Z</updated>
+  <updated>2022-09-17T01:33:06Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elixir-crawly/crawly</title>
-    <updated>2022-09-16T01:35:26Z</updated>
-    <id>tag:github.com,2022-09-16:/elixir-crawly/crawly</id>
-    <link href="https://github.com/elixir-crawly/crawly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Crawly, a high-level web crawling &amp; scraping framework for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zookzook/elixir-mongodb-driver</title>
+    <updated>2022-09-17T01:33:06Z</updated>
+    <id>tag:github.com,2022-09-17:/zookzook/elixir-mongodb-driver</id>
+    <link href="https://github.com/zookzook/elixir-mongodb-driver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MongoDB driver for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>notesclub/notesclub</title>
-    <updated>2022-09-16T01:35:26Z</updated>
-    <id>tag:github.com,2022-09-16:/notesclub/notesclub</id>
-    <link href="https://github.com/notesclub/notesclub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Discover Livebook notebooks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>verypossible/elixir-starter-kit</title>
+    <updated>2022-09-17T01:33:06Z</updated>
+    <id>tag:github.com,2022-09-17:/verypossible/elixir-starter-kit</id>
+    <link href="https://github.com/verypossible/elixir-starter-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>verypossible/very_laser</title>
+    <updated>2022-09-17T01:33:06Z</updated>
+    <id>tag:github.com,2022-09-17:/verypossible/very_laser</id>
+    <link href="https://github.com/verypossible/very_laser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:41:39Z</updated>
+  <updated>2022-09-17T01:39:30Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tmcw/zig-raytracer</title>
+    <updated>2022-09-17T01:39:30Z</updated>
+    <id>tag:github.com,2022-09-17:/tmcw/zig-raytracer</id>
+    <link href="https://github.com/tmcw/zig-raytracer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a webassembly/zig raytracer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zigtools/scip-zig</title>
+    <updated>2022-09-17T01:39:30Z</updated>
+    <id>tag:github.com,2022-09-17:/zigtools/scip-zig</id>
+    <link href="https://github.com/zigtools/scip-zig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SCIP indexer for Zig!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

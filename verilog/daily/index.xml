@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:41:21Z</updated>
+  <updated>2022-09-17T01:39:15Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Radio-Stack/caravel_ft8_receiver</title>
-    <updated>2022-09-16T01:41:21Z</updated>
-    <id>tag:github.com,2022-09-16:/Radio-Stack/caravel_ft8_receiver</id>
-    <link href="https://github.com/Radio-Stack/caravel_ft8_receiver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fully-integrated FT8 protocol receiver on 130nm CMOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aolofsson/oh</title>
-    <updated>2022-09-16T01:41:21Z</updated>
-    <id>tag:github.com,2022-09-16:/aolofsson/oh</id>
-    <link href="https://github.com/aolofsson/oh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verilog library for ASIC and FPGA designers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IObundle/iob-dma</title>
+    <updated>2022-09-17T01:39:15Z</updated>
+    <id>tag:github.com,2022-09-17:/IObundle/iob-dma</id>
+    <link href="https://github.com/IObundle/iob-dma" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

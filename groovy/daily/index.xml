@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:36:10Z</updated>
+  <updated>2022-09-17T01:33:44Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>paulwoods/groovychallenges</title>
-    <updated>2022-09-16T01:36:10Z</updated>
-    <id>tag:github.com,2022-09-16:/paulwoods/groovychallenges</id>
-    <link href="https://github.com/paulwoods/groovychallenges" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;groovy challenges&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>christianhxc/jenkins-pipeline-tutorial</title>
+    <updated>2022-09-17T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-17:/christianhxc/jenkins-pipeline-tutorial</id>
+    <link href="https://github.com/christianhxc/jenkins-pipeline-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins Pipeline Tutorial&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kiegroup/kogito-pipelines</title>
-    <updated>2022-09-16T01:36:10Z</updated>
-    <id>tag:github.com,2022-09-16:/kiegroup/kogito-pipelines</id>
-    <link href="https://github.com/kiegroup/kogito-pipelines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CI/CD pipelines for Kogito&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prayagupa/who-tweets-nepal</title>
-    <updated>2022-09-16T01:36:10Z</updated>
-    <id>tag:github.com,2022-09-16:/prayagupa/who-tweets-nepal</id>
-    <link href="https://github.com/prayagupa/who-tweets-nepal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WhoTweetsNepal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aarontimbo/fitness-cube</title>
+    <updated>2022-09-17T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-17:/aarontimbo/fitness-cube</id>
+    <link href="https://github.com/aarontimbo/fitness-cube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grails application for tracking individual fitness metrics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

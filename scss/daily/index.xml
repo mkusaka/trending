@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:40:03Z</updated>
+  <updated>2022-09-17T01:37:58Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>next-step/infra-subway-db</title>
-    <updated>2022-09-16T01:40:03Z</updated>
-    <id>tag:github.com,2022-09-16:/next-step/infra-subway-db</id>
-    <link href="https://github.com/next-step/infra-subway-db" rel="alternate"></link>
+    <title>oluwadareseyi/narrowdesign-rebuild</title>
+    <updated>2022-09-17T01:37:58Z</updated>
+    <id>tag:github.com,2022-09-17:/oluwadareseyi/narrowdesign-rebuild</id>
+    <link href="https://github.com/oluwadareseyi/narrowdesign-rebuild" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kuenaimaku/lancer-briefings</title>
+    <updated>2022-09-17T01:37:58Z</updated>
+    <id>tag:github.com,2022-09-17:/Kuenaimaku/lancer-briefings</id>
+    <link href="https://github.com/Kuenaimaku/lancer-briefings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;self-contained site for presenting LANCER mission briefs to players&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Apress/pro-asp.net-core-6</title>
+    <updated>2022-09-17T01:37:58Z</updated>
+    <id>tag:github.com,2022-09-17:/Apress/pro-asp.net-core-6</id>
+    <link href="https://github.com/Apress/pro-asp.net-core-6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source Code for &#39;Pro ASP.NET Core 6&#39; by Adam Freeman&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

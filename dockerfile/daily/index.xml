@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:35:17Z</updated>
+  <updated>2022-09-17T01:32:54Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>verypossible/docker-node-python</title>
+    <updated>2022-09-17T01:32:54Z</updated>
+    <id>tag:github.com,2022-09-17:/verypossible/docker-node-python</id>
+    <link href="https://github.com/verypossible/docker-node-python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal docker image with nodejs and python.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Docker Node Python&lt;/h1&gt; &#xA;&lt;p&gt;A minimal docker image with nodejs and python.&lt;/p&gt; &#xA;&lt;p&gt;The Dockerfile makes use of build ARGS to allow the docker-compose.yml file to define nodejs and python versions as well as base of the nodejs version.&lt;/p&gt; &#xA;&lt;p&gt;Built images are shared on docker hub at &lt;a href=&#34;https://hub.docker.com/r/verypossible/node-python&#34;&gt;verypossible/node-python&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>aswan-heart-centre/ahc-backend-base-image</title>
+    <updated>2022-09-17T01:32:54Z</updated>
+    <id>tag:github.com,2022-09-17:/aswan-heart-centre/ahc-backend-base-image</id>
+    <link href="https://github.com/aswan-heart-centre/ahc-backend-base-image" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

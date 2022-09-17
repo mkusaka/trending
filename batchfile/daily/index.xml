@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:34:06Z</updated>
+  <updated>2022-09-17T01:31:39Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kutu48/RDP-FREE-WINDOWS</title>
+    <updated>2022-09-17T01:31:39Z</updated>
+    <id>tag:github.com,2022-09-17:/kutu48/RDP-FREE-WINDOWS</id>
+    <link href="https://github.com/kutu48/RDP-FREE-WINDOWS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wapchief/idea_activate</title>
+    <updated>2022-09-17T01:31:39Z</updated>
+    <id>tag:github.com,2022-09-17:/wapchief/idea_activate</id>
+    <link href="https://github.com/wapchief/idea_activate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JetBrains全家桶激活 idea激活 Activator idea全家桶激活 JetBrains收费所有收费插件激活 idea收费所有收费插件激活 JetBrains 2017-2022所有版本激活 idea激活 phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活 IntelliJ IDEA PhpStorm AppCode DataGrip RubyMine WebStorm Rider CLion PyCharm GoLand DataSpell dotCover dotTrace dotMemory Symfony Support Wolfram La…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

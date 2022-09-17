@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:33:30Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-09-17T01:31:12Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy</title>
-    <updated>2022-09-16T01:33:30Z</updated>
-    <id>tag:github.com,2022-09-16:/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy</id>
-    <link href="https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Diffusion model papers, survey, and taxonomy&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nas5w/interview-resources</title>
+    <updated>2022-09-17T01:31:12Z</updated>
+    <id>tag:github.com,2022-09-17:/nas5w/interview-resources</id>
+    <link href="https://github.com/nas5w/interview-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A non-overwhelming list of resources for tech interviews.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CocoaPods/Specs</title>
-    <updated>2022-09-16T01:33:30Z</updated>
-    <id>tag:github.com,2022-09-16:/CocoaPods/Specs</id>
-    <link href="https://github.com/CocoaPods/Specs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The CocoaPods Master Repo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>baristunar/design-patterns-tr</title>
+    <updated>2022-09-17T01:31:12Z</updated>
+    <id>tag:github.com,2022-09-17:/baristunar/design-patterns-tr</id>
+    <link href="https://github.com/baristunar/design-patterns-tr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Türkçe daha fazla kaynak oluşturmak adına önemli &#34;Design &#34;Pattern&#34; makalelerini çeviriyoruz.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>filsv/iOSDeviceSupport</title>
-    <updated>2022-09-16T01:33:30Z</updated>
-    <id>tag:github.com,2022-09-16:/filsv/iOSDeviceSupport</id>
-    <link href="https://github.com/filsv/iOSDeviceSupport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Xcode iPhoneOS DeviceSupport files (6.0 - 15.4)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CnTransGroup/EffectiveModernCppChinese</title>
+    <updated>2022-09-17T01:31:12Z</updated>
+    <id>tag:github.com,2022-09-17:/CnTransGroup/EffectiveModernCppChinese</id>
+    <link href="https://github.com/CnTransGroup/EffectiveModernCppChinese" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《Effective Modern C++》翻译 - 已完成&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

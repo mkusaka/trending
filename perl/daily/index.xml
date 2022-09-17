@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:38:47Z</updated>
+  <updated>2022-09-17T01:36:26Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>belden/aliased-constructor</title>
-    <updated>2022-09-16T01:38:47Z</updated>
-    <id>tag:github.com,2022-09-16:/belden/aliased-constructor</id>
-    <link href="https://github.com/belden/aliased-constructor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;alias class constructors to shortened versions of the class name&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;aliased-constructor&lt;/h1&gt; &#xA;&lt;p&gt;alias class constructors to shortened versions of the class name&lt;/p&gt;</summary>
+    <title>jontonsoup/dbproject2</title>
+    <updated>2022-09-17T01:36:26Z</updated>
+    <id>tag:github.com,2022-09-17:/jontonsoup/dbproject2</id>
+    <link href="https://github.com/jontonsoup/dbproject2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mambo numba 2!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Notes&lt;/h1&gt; &#xA;&lt;h2&gt;To Do&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;page: history of transactions DONE&lt;/li&gt; &#xA; &lt;li&gt;update DB to allow one or more portfolios &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;change database.sql DONE&lt;/li&gt; &#xA;   &lt;li&gt;change queries for new schema DONE&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;buy/sell of stocks DONE&lt;/li&gt; &#xA; &lt;li&gt;past/future performance DONE&lt;/li&gt; &#xA; &lt;li&gt;portfolio stats - doing in stats branch &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;coeff of var and beta for each stock&lt;/li&gt; &#xA;   &lt;li&gt;covariance matrix of stocks in portfolio&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;strategy eval&lt;/li&gt; &#xA; &lt;li&gt;viewing portfolios&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;DB changes&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;removed cash_holdings from stockuser&lt;/li&gt; &#xA; &lt;li&gt;removed portfolio_id from transaction&lt;/li&gt; &#xA; &lt;li&gt;removed symbol as primary key from transaction (there could be multiple transactions with the same stock symbol)&lt;/li&gt; &#xA; &lt;li&gt;add timestamp (ts) as primary key of transaction&lt;/li&gt; &#xA; &lt;li&gt;updated database to support many portfolios to many users &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;portfolio table readded&lt;/li&gt; &#xA;   &lt;li&gt;portfolio_id added to transaction&lt;/li&gt; &#xA;   &lt;li&gt;timestamp change by Jon&lt;/li&gt; &#xA;   &lt;li&gt;hastransaction and hasstock updated&lt;/li&gt; &#xA;   &lt;li&gt;file added to drop all tables quickly (drop_tables.sql)&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Useful Queries&lt;/h2&gt; &#xA;&lt;h3&gt;Drop Tables&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;drop table stockuser cascade constraints;&#xA;drop table stocks cascade constraints; &#xA;drop table hastransaction;&#xA;drop table hasstock;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Show Tables of Given Owner&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt;select owner, table_name from all_tables where owner=&#39;JMF716&#39;;&lt;/code&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

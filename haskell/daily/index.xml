@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:36:17Z</updated>
+  <updated>2022-09-17T01:33:50Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nushio3/pkwiki</title>
-    <updated>2022-09-16T01:36:17Z</updated>
-    <id>tag:github.com,2022-09-16:/nushio3/pkwiki</id>
-    <link href="https://github.com/nushio3/pkwiki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a mirror for www.paraiso-lang.org/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>input-output-hk/typed-protocols</title>
+    <updated>2022-09-17T01:33:50Z</updated>
+    <id>tag:github.com,2022-09-17:/input-output-hk/typed-protocols</id>
+    <link href="https://github.com/input-output-hk/typed-protocols" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;typed-protocols&lt;/h1&gt; &#xA;&lt;p&gt;A robust session type framework which supports &lt;a href=&#34;https://www.wikiwand.com/en/Protocol_pipelining&#34;&gt;protocol pipelining&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Public content&lt;/h2&gt; &#xA;&lt;p&gt;Duncan Coutts (@dcoutts) Haskell eXchange 2019 &lt;a href=&#34;https://skillsmatter.com/skillscasts/14633-45-minute-talk-by-duncan-coutts&#34;&gt;talk&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Monadic party workshop by Marcin Szamotulski (@coot):&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=j8gza2L61nM&#34;&gt;part 1&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oV6KSl1srL8&#34;&gt;part 2&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nOIQCRPwmPA&#34;&gt;part 2&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Slides from a talk given at &lt;a href=&#34;https://coot.me/posts/typed-protocols-at-haskell-love.html&#34;&gt;Haskell Love 2021&lt;/a&gt; by Marcin Szamotulski (@coot).&lt;/p&gt; &#xA;&lt;p&gt;An &lt;a href=&#34;https://coot.me/agda/posts.agda.typed-protocols.html&#34;&gt;Agda&lt;/a&gt; implementation by Marcin Szamotulski (@coot).&lt;/p&gt;</summary>
   </entry>
 </feed>

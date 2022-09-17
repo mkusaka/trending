@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:38:13Z</updated>
+  <updated>2022-09-17T01:35:53Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>input-output-hk/cicero-api</title>
-    <updated>2022-09-16T01:38:13Z</updated>
-    <id>tag:github.com,2022-09-16:/input-output-hk/cicero-api</id>
-    <link href="https://github.com/input-output-hk/cicero-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;API bindings to Cicero&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nix-community/infra</title>
-    <updated>2022-09-16T01:38:13Z</updated>
-    <id>tag:github.com,2022-09-16:/nix-community/infra</id>
-    <link href="https://github.com/nix-community/infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nix-community infrastructure [maintainer=@Mic92]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

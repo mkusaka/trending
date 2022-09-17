@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:40:29Z</updated>
+  <updated>2022-09-17T01:38:25Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>balancer-labs/balancer-core</title>
-    <updated>2022-09-16T01:40:29Z</updated>
-    <id>tag:github.com,2022-09-16:/balancer-labs/balancer-core</id>
-    <link href="https://github.com/balancer-labs/balancer-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Balancer on the EVM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xBeans/GenesisAndConclusion</title>
+    <updated>2022-09-17T01:38:25Z</updated>
+    <id>tag:github.com,2022-09-17:/0xBeans/GenesisAndConclusion</id>
+    <link href="https://github.com/0xBeans/GenesisAndConclusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A blitz project to try to mint an onchain NFT in the last ever POW block and first ever POS block.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>enclosed-money/contracts</title>
-    <updated>2022-09-16T01:40:29Z</updated>
-    <id>tag:github.com,2022-09-16:/enclosed-money/contracts</id>
-    <link href="https://github.com/enclosed-money/contracts" rel="alternate"></link>
+    <title>axic/weth3074</title>
+    <updated>2022-09-17T01:38:25Z</updated>
+    <id>tag:github.com,2022-09-17:/axic/weth3074</id>
+    <link href="https://github.com/axic/weth3074" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>velodrome-finance/contracts</title>
-    <updated>2022-09-16T01:40:29Z</updated>
-    <id>tag:github.com,2022-09-16:/velodrome-finance/contracts</id>
-    <link href="https://github.com/velodrome-finance/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Our Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Sol-DAO/solbase</title>
+    <updated>2022-09-17T01:38:25Z</updated>
+    <id>tag:github.com,2022-09-17:/Sol-DAO/solbase</id>
+    <link href="https://github.com/Sol-DAO/solbase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Modern, opinionated, and gas optimized base for smart contract development.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

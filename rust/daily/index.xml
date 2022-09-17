@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:39:41Z</updated>
+  <updated>2022-09-17T01:37:30Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MCHPR/MCHPRS</title>
-    <updated>2022-09-16T01:39:41Z</updated>
-    <id>tag:github.com,2022-09-16:/MCHPR/MCHPRS</id>
-    <link href="https://github.com/MCHPR/MCHPRS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A multithreaded Minecraft server built for redstone.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>b23r0/Heroinn</title>
+    <updated>2022-09-17T01:37:30Z</updated>
+    <id>tag:github.com,2022-09-17:/b23r0/Heroinn</id>
+    <link href="https://github.com/b23r0/Heroinn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross platform C2/post-exploitation framework.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>parseablehq/parseable</title>
-    <updated>2022-09-16T01:39:41Z</updated>
-    <id>tag:github.com,2022-09-16:/parseablehq/parseable</id>
-    <link href="https://github.com/parseablehq/parseable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Think Prometheus, but for logs (not metrics). Simple, efficient, cloud native, log storage and observability platform.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wormhole-foundation/wormhole</title>
+    <updated>2022-09-17T01:37:30Z</updated>
+    <id>tag:github.com,2022-09-17:/wormhole-foundation/wormhole</id>
+    <link href="https://github.com/wormhole-foundation/wormhole" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reference implementation for the Wormhole blockchain interoperability protocol.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>supabase/pg_netstat</title>
-    <updated>2022-09-16T01:39:41Z</updated>
-    <id>tag:github.com,2022-09-16:/supabase/pg_netstat</id>
-    <link href="https://github.com/supabase/pg_netstat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PostgreSQL extension to monitor database network traffic&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>slint-ui/slint</title>
+    <updated>2022-09-17T01:37:30Z</updated>
+    <id>tag:github.com,2022-09-17:/slint-ui/slint</id>
+    <link href="https://github.com/slint-ui/slint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

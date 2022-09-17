@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:37:12Z</updated>
+  <updated>2022-09-17T01:34:55Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaLang/docs.julialang.org</title>
+    <updated>2022-09-17T01:34:55Z</updated>
+    <id>tag:github.com,2022-09-17:/JuliaLang/docs.julialang.org</id>
+    <link href="https://github.com/JuliaLang/docs.julialang.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for hosting the manual for the Julia language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaSmoothOptimizers/JSOSolvers.jl</title>
+    <updated>2022-09-17T01:34:55Z</updated>
+    <id>tag:github.com,2022-09-17:/JuliaSmoothOptimizers/JSOSolvers.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/JSOSolvers.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GenXProject/GenX</title>
+    <updated>2022-09-17T01:34:55Z</updated>
+    <id>tag:github.com,2022-09-17:/GenXProject/GenX</id>
+    <link href="https://github.com/GenXProject/GenX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GenX: a configurable power system capacity expansion model for studying low-carbon energy futures. More details at : https://genx.mit.edu&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

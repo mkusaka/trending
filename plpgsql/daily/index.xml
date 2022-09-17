@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-16T01:38:57Z</updated>
+  <updated>2022-09-17T01:36:40Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dbt-labs/dbt-external-tables</title>
-    <updated>2022-09-16T01:38:57Z</updated>
-    <id>tag:github.com,2022-09-16:/dbt-labs/dbt-external-tables</id>
-    <link href="https://github.com/dbt-labs/dbt-external-tables" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dbt macros to stage external sources&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GeoscienceAustralia/dea-coastlines</title>
-    <updated>2022-09-16T01:38:57Z</updated>
-    <id>tag:github.com,2022-09-16:/GeoscienceAustralia/dea-coastlines</id>
-    <link href="https://github.com/GeoscienceAustralia/dea-coastlines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extracting tidally-constrained annual shorelines and robust rates of coastal change from freely available Earth observation data at continental scale&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
