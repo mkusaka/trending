@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:31:34Z</updated>
+  <updated>2022-09-18T01:35:00Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mrfearless/RadASM2</title>
-    <updated>2022-09-17T01:31:34Z</updated>
-    <id>tag:github.com,2022-09-17:/mrfearless/RadASM2</id>
-    <link href="https://github.com/mrfearless/RadASM2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RadASM v2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thu-cs-lab/supervisor-rv</title>
-    <updated>2022-09-17T01:31:34Z</updated>
-    <id>tag:github.com,2022-09-17:/thu-cs-lab/supervisor-rv</id>
-    <link href="https://github.com/thu-cs-lab/supervisor-rv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;计算机组成原理课程 RISC-V 监控程序，支持 32 位和 64 位&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

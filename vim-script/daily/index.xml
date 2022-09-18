@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:39:18Z</updated>
+  <updated>2022-09-18T01:43:22Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rmatei/vimrc</title>
-    <updated>2022-09-17T01:39:18Z</updated>
-    <id>tag:github.com,2022-09-17:/rmatei/vimrc</id>
-    <link href="https://github.com/rmatei/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim configs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tibux/conf-files</title>
+    <updated>2022-09-18T01:43:22Z</updated>
+    <id>tag:github.com,2022-09-18:/tibux/conf-files</id>
+    <link href="https://github.com/tibux/conf-files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuration files for various programs that I use on a regular basis.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>elhu/config</title>
-    <updated>2022-09-17T01:39:18Z</updated>
-    <id>tag:github.com,2022-09-17:/elhu/config</id>
-    <link href="https://github.com/elhu/config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Various configuration files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chrisbra/csv.vim</title>
+    <updated>2022-09-18T01:43:22Z</updated>
+    <id>tag:github.com,2022-09-18:/chrisbra/csv.vim</id>
+    <link href="https://github.com/chrisbra/csv.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Filetype plugin for csv files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bluz71/vim-nightfly-guicolors</title>
-    <updated>2022-09-17T01:39:18Z</updated>
-    <id>tag:github.com,2022-09-17:/bluz71/vim-nightfly-guicolors</id>
-    <link href="https://github.com/bluz71/vim-nightfly-guicolors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Another dark color scheme for Vim &amp; Neovim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ryotakato/unite-outline-vimwiki</title>
+    <updated>2022-09-18T01:43:22Z</updated>
+    <id>tag:github.com,2022-09-18:/ryotakato/unite-outline-vimwiki</id>
+    <link href="https://github.com/ryotakato/unite-outline-vimwiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim plugin, unite plugin, unite-outline plugin. vimwiki outline info.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

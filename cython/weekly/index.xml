@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cython Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:45:20Z</updated>
+  <subtitle>Weekly Trending of Cython in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IntelPython/mkl-service</title>
+    <updated>2022-09-18T01:45:20Z</updated>
+    <id>tag:github.com,2022-09-18:/IntelPython/mkl-service</id>
+    <link href="https://github.com/IntelPython/mkl-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python hooks for Intel(R) Math Kernel Library runtime control settings.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

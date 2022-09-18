@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:51:03Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>surrealdb/surrealdb</title>
+    <updated>2022-09-18T01:51:03Z</updated>
+    <id>tag:github.com,2022-09-18:/surrealdb/surrealdb</id>
+    <link href="https://github.com/surrealdb/surrealdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A scalable, distributed, collaborative, document-graph database, for the realtime web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sigp/lighthouse</title>
+    <updated>2022-09-18T01:51:03Z</updated>
+    <id>tag:github.com,2022-09-18:/sigp/lighthouse</id>
+    <link href="https://github.com/sigp/lighthouse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethereum consensus client in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Wilfred/difftastic</title>
+    <updated>2022-09-18T01:51:03Z</updated>
+    <id>tag:github.com,2022-09-18:/Wilfred/difftastic</id>
+    <link href="https://github.com/Wilfred/difftastic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a structural diff that understands syntax 🟥🟩&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

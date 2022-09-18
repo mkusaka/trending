@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:44:02Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>littlesticks/odyssey-theme</title>
+    <updated>2022-09-18T01:44:02Z</updated>
+    <id>tag:github.com,2022-09-18:/littlesticks/odyssey-theme</id>
+    <link href="https://github.com/littlesticks/odyssey-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern business marketing website theme/starter built with Astro 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Charca/astro-blog-template</title>
+    <updated>2022-09-18T01:44:02Z</updated>
+    <id>tag:github.com,2022-09-18:/Charca/astro-blog-template</id>
+    <link href="https://github.com/Charca/astro-blog-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal Blog Template Powered by Astro&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:48:12Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MakieOrg/Makie.jl</title>
+    <updated>2022-09-18T01:48:12Z</updated>
+    <id>tag:github.com,2022-09-18:/MakieOrg/Makie.jl</id>
+    <link href="https://github.com/MakieOrg/Makie.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Visualizations and plotting in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>peng1999/PkgDependency.jl</title>
+    <updated>2022-09-18T01:48:12Z</updated>
+    <id>tag:github.com,2022-09-18:/peng1999/PkgDependency.jl</id>
+    <link href="https://github.com/peng1999/PkgDependency.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Show dependency tree of Julia project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

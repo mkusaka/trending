@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:34:55Z</updated>
+  <updated>2022-09-18T01:38:29Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaLang/docs.julialang.org</title>
-    <updated>2022-09-17T01:34:55Z</updated>
-    <id>tag:github.com,2022-09-17:/JuliaLang/docs.julialang.org</id>
-    <link href="https://github.com/JuliaLang/docs.julialang.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for hosting the manual for the Julia language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaData/CSV.jl</title>
+    <updated>2022-09-18T01:38:29Z</updated>
+    <id>tag:github.com,2022-09-18:/JuliaData/CSV.jl</id>
+    <link href="https://github.com/JuliaData/CSV.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utility library for working with CSV and other delimited files in the Julia programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaSmoothOptimizers/JSOSolvers.jl</title>
-    <updated>2022-09-17T01:34:55Z</updated>
-    <id>tag:github.com,2022-09-17:/JuliaSmoothOptimizers/JSOSolvers.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/JSOSolvers.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>beacon-biosignals/Onda.jl</title>
+    <updated>2022-09-18T01:38:29Z</updated>
+    <id>tag:github.com,2022-09-18:/beacon-biosignals/Onda.jl</id>
+    <link href="https://github.com/beacon-biosignals/Onda.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for high-throughput manipulation of structured signal data across arbitrary domain-specific encodings, file formats and storage layers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GenXProject/GenX</title>
-    <updated>2022-09-17T01:34:55Z</updated>
-    <id>tag:github.com,2022-09-17:/GenXProject/GenX</id>
-    <link href="https://github.com/GenXProject/GenX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GenX: a configurable power system capacity expansion model for studying low-carbon energy futures. More details at : https://genx.mit.edu&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>invenia/Mocking.jl</title>
+    <updated>2022-09-18T01:38:29Z</updated>
+    <id>tag:github.com,2022-09-18:/invenia/Mocking.jl</id>
+    <link href="https://github.com/invenia/Mocking.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allows Julia function calls to be temporarily overloaded for purpose of testing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

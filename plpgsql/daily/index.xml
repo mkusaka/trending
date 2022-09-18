@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:36:40Z</updated>
+  <updated>2022-09-18T01:40:09Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>diegoyon/vet-clinic</title>
+    <updated>2022-09-18T01:40:09Z</updated>
+    <id>tag:github.com,2022-09-18:/diegoyon/vet-clinic</id>
+    <link href="https://github.com/diegoyon/vet-clinic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a project about creating the data structure for a vet clinic using a relational database. Database contains tables of animals, animals&#39; owners, clinic employees and visits. Built with PostgresSQL.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

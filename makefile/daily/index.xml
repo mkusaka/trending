@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:35:38Z</updated>
+  <updated>2022-09-18T01:39:06Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZJU-SEC/os22fall-stu</title>
-    <updated>2022-09-17T01:35:38Z</updated>
-    <id>tag:github.com,2022-09-17:/ZJU-SEC/os22fall-stu</id>
-    <link href="https://github.com/ZJU-SEC/os22fall-stu" rel="alternate"></link>
+    <title>naz664/xdroid_gsi</title>
+    <updated>2022-09-18T01:39:06Z</updated>
+    <id>tag:github.com,2022-09-18:/naz664/xdroid_gsi</id>
+    <link href="https://github.com/naz664/xdroid_gsi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hyper-type/hahmlet</title>
-    <updated>2022-09-17T01:35:38Z</updated>
-    <id>tag:github.com,2022-09-17:/hyper-type/hahmlet</id>
-    <link href="https://github.com/hyper-type/hahmlet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hahmlet font by Minjoo Ham and Mark Frömberg aka Hypertype&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>giantswarm/capa-app-collection</title>
+    <updated>2022-09-18T01:39:06Z</updated>
+    <id>tag:github.com,2022-09-18:/giantswarm/capa-app-collection</id>
+    <link href="https://github.com/giantswarm/capa-app-collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CherishOS/android_vendor_cherish</title>
-    <updated>2022-09-17T01:35:38Z</updated>
-    <id>tag:github.com,2022-09-17:/CherishOS/android_vendor_cherish</id>
-    <link href="https://github.com/CherishOS/android_vendor_cherish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imandra-ai/imandra-stdlib</title>
+    <updated>2022-09-18T01:39:06Z</updated>
+    <id>tag:github.com,2022-09-18:/imandra-ai/imandra-stdlib</id>
+    <link href="https://github.com/imandra-ai/imandra-stdlib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standard library for [Imandra](https://imandra.ai)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

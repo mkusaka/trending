@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:53:04Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>snapshot-labs/snapshot</title>
+    <updated>2022-09-18T01:53:04Z</updated>
+    <id>tag:github.com,2022-09-18:/snapshot-labs/snapshot</id>
+    <link href="https://github.com/snapshot-labs/snapshot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interface for Snapshot. Join us on Discord https://discord.gg/snapshot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hoppscotch/hoppscotch</title>
+    <updated>2022-09-18T01:53:04Z</updated>
+    <id>tag:github.com,2022-09-18:/hoppscotch/hoppscotch</id>
+    <link href="https://github.com/hoppscotch/hoppscotch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👽 Open source API development ecosystem - https://hoppscotch.io&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pipipi-pikachu/PPTist</title>
+    <updated>2022-09-18T01:53:04Z</updated>
+    <id>tag:github.com,2022-09-18:/pipipi-pikachu/PPTist</id>
+    <link href="https://github.com/pipipi-pikachu/PPTist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

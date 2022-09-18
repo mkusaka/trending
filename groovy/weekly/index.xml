@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:46:29Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>johnrengelman/shadow</title>
+    <updated>2022-09-18T01:46:29Z</updated>
+    <id>tag:github.com,2022-09-18:/johnrengelman/shadow</id>
+    <link href="https://github.com/johnrengelman/shadow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven&#39;s Shade plugin.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>g0t4/course-jenkins-getting-started</title>
+    <updated>2022-09-18T01:46:29Z</updated>
+    <id>tag:github.com,2022-09-18:/g0t4/course-jenkins-getting-started</id>
+    <link href="https://github.com/g0t4/course-jenkins-getting-started" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins Getting Started (jgsu) Course Materials - An update to my initial version of the course&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ultraq/thymeleaf-layout-dialect</title>
+    <updated>2022-09-18T01:46:29Z</updated>
+    <id>tag:github.com,2022-09-18:/ultraq/thymeleaf-layout-dialect</id>
+    <link href="https://github.com/ultraq/thymeleaf-layout-dialect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

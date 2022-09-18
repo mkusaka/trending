@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:37:58Z</updated>
+  <updated>2022-09-18T01:41:42Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oluwadareseyi/narrowdesign-rebuild</title>
-    <updated>2022-09-17T01:37:58Z</updated>
-    <id>tag:github.com,2022-09-17:/oluwadareseyi/narrowdesign-rebuild</id>
-    <link href="https://github.com/oluwadareseyi/narrowdesign-rebuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dlcastillop/paylink</title>
+    <updated>2022-09-18T01:41:42Z</updated>
+    <id>tag:github.com,2022-09-18:/dlcastillop/paylink</id>
+    <link href="https://github.com/dlcastillop/paylink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A payment organizer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kuenaimaku/lancer-briefings</title>
-    <updated>2022-09-17T01:37:58Z</updated>
-    <id>tag:github.com,2022-09-17:/Kuenaimaku/lancer-briefings</id>
-    <link href="https://github.com/Kuenaimaku/lancer-briefings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;self-contained site for presenting LANCER mission briefs to players&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>picturepan2/devices.css</title>
+    <updated>2022-09-18T01:41:42Z</updated>
+    <id>tag:github.com,2022-09-18:/picturepan2/devices.css</id>
+    <link href="https://github.com/picturepan2/devices.css" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Devices.css - Modern devices crafted in pure CSS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Apress/pro-asp.net-core-6</title>
-    <updated>2022-09-17T01:37:58Z</updated>
-    <id>tag:github.com,2022-09-17:/Apress/pro-asp.net-core-6</id>
-    <link href="https://github.com/Apress/pro-asp.net-core-6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source Code for &#39;Pro ASP.NET Core 6&#39; by Adam Freeman&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mantech-oss/jira-search-helper</title>
+    <updated>2022-09-18T01:41:42Z</updated>
+    <id>tag:github.com,2022-09-18:/mantech-oss/jira-search-helper</id>
+    <link href="https://github.com/mantech-oss/jira-search-helper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;Jira Search Helper&#34; is a project to search more detail view and support highlight than original jira search&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:48:53Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>clemedon/Makefile_tutor</title>
+    <updated>2022-09-18T01:48:53Z</updated>
+    <id>tag:github.com,2022-09-18:/clemedon/Makefile_tutor</id>
+    <link href="https://github.com/clemedon/Makefile_tutor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project aims to create a crystal clear tutorial on a cryptic looking topic.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>prometheus/client_model</title>
+    <updated>2022-09-18T01:48:53Z</updated>
+    <id>tag:github.com,2022-09-18:/prometheus/client_model</id>
+    <link href="https://github.com/prometheus/client_model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data model artifacts for Prometheus.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-telemetry/oteps</title>
+    <updated>2022-09-18T01:48:53Z</updated>
+    <id>tag:github.com,2022-09-18:/open-telemetry/oteps</id>
+    <link href="https://github.com/open-telemetry/oteps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenTelemetry Enhancement Proposals&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

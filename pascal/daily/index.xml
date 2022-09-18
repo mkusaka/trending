@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:36:15Z</updated>
+  <updated>2022-09-18T01:39:42Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DarkCoderSc/win-brute-logon</title>
-    <updated>2022-09-17T01:36:15Z</updated>
-    <id>tag:github.com,2022-09-17:/DarkCoderSc/win-brute-logon</id>
-    <link href="https://github.com/DarkCoderSc/win-brute-logon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Crack any Microsoft Windows users password without any privilege (Guest account included)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danieleteti/delphimvcframework</title>
+    <updated>2022-09-18T01:39:42Z</updated>
+    <id>tag:github.com,2022-09-18:/danieleteti/delphimvcframework</id>
+    <link href="https://github.com/danieleteti/delphimvcframework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DMVCFramework (for short) is a popular and powerful framework for web solution in Delphi. Supports RESTful and JSON-RPC APIs development.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

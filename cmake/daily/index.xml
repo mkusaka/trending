@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:32:18Z</updated>
+  <updated>2022-09-18T01:35:51Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gazebo-release/gz_cmake2_vendor</title>
-    <updated>2022-09-17T01:32:18Z</updated>
-    <id>tag:github.com,2022-09-17:/gazebo-release/gz_cmake2_vendor</id>
-    <link href="https://github.com/gazebo-release/gz_cmake2_vendor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vendor package for providing ign-cmake2 in ROS 2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gazebo-release/gz_math6_vendor</title>
-    <updated>2022-09-17T01:32:18Z</updated>
-    <id>tag:github.com,2022-09-17:/gazebo-release/gz_math6_vendor</id>
-    <link href="https://github.com/gazebo-release/gz_math6_vendor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vendor package for providing ign-math6 in ROS 2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ros2/tinyxml2_vendor</title>
-    <updated>2022-09-17T01:32:18Z</updated>
-    <id>tag:github.com,2022-09-17:/ros2/tinyxml2_vendor</id>
-    <link href="https://github.com/ros2/tinyxml2_vendor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;temporary vendor package for tinyxml2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mod-cpp/cpp-template-project-vcpkg</title>
+    <updated>2022-09-18T01:35:51Z</updated>
+    <id>tag:github.com,2022-09-18:/mod-cpp/cpp-template-project-vcpkg</id>
+    <link href="https://github.com/mod-cpp/cpp-template-project-vcpkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vala Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:52:53Z</updated>
+  <subtitle>Weekly Trending of Vala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ErikReider/SwayNotificationCenter</title>
+    <updated>2022-09-18T01:52:53Z</updated>
+    <id>tag:github.com,2022-09-18:/ErikReider/SwayNotificationCenter</id>
+    <link href="https://github.com/ErikReider/SwayNotificationCenter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple GTK based notification daemon for SwayWM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RajSolai/TextSnatcher</title>
+    <updated>2022-09-18T01:52:53Z</updated>
+    <id>tag:github.com,2022-09-18:/RajSolai/TextSnatcher</id>
+    <link href="https://github.com/RajSolai/TextSnatcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

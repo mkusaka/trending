@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:51:50Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ferlab-Ste-Justine/kvm-opensearch-server</title>
+    <updated>2022-09-18T01:51:50Z</updated>
+    <id>tag:github.com,2022-09-18:/Ferlab-Ste-Justine/kvm-opensearch-server</id>
+    <link href="https://github.com/Ferlab-Ste-Justine/kvm-opensearch-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision an opensearch server that is to be part of a secure cluster&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TIBCOSoftware/js-docker</title>
+    <updated>2022-09-18T01:51:50Z</updated>
+    <id>tag:github.com,2022-09-18:/TIBCOSoftware/js-docker</id>
+    <link href="https://github.com/TIBCOSoftware/js-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Container deployment of TIBCO JasperReports® Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vectordotdev/helm-charts</title>
+    <updated>2022-09-18T01:51:50Z</updated>
+    <id>tag:github.com,2022-09-18:/vectordotdev/helm-charts</id>
+    <link href="https://github.com/vectordotdev/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for Vector.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

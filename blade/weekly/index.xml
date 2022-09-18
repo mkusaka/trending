@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blade Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:44:13Z</updated>
+  <subtitle>Weekly Trending of Blade in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Samir-Gamal/Invoices_Project</title>
+    <updated>2022-09-18T01:44:13Z</updated>
+    <id>tag:github.com,2022-09-18:/Samir-Gamal/Invoices_Project</id>
+    <link href="https://github.com/Samir-Gamal/Invoices_Project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Invoices_Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/material-dashboard-laravel-livewire</title>
+    <updated>2022-09-18T01:44:13Z</updated>
+    <id>tag:github.com,2022-09-18:/creativetimofficial/material-dashboard-laravel-livewire</id>
+    <link href="https://github.com/creativetimofficial/material-dashboard-laravel-livewire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Dashboard 2 For Laravel Framework 9.x and Up using Livewire&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

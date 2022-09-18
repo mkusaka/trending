@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-18T01:45:02Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ros2/example_interfaces</title>
+    <updated>2022-09-18T01:45:02Z</updated>
+    <id>tag:github.com,2022-09-18:/ros2/example_interfaces</id>
+    <link href="https://github.com/ros2/example_interfaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Msg, Srv, etc. ROS interfaces used in examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ros2/ros2cli_common_extensions</title>
+    <updated>2022-09-18T01:45:02Z</updated>
+    <id>tag:github.com,2022-09-18:/ros2/ros2cli_common_extensions</id>
+    <link href="https://github.com/ros2/ros2cli_common_extensions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ament/google_benchmark_vendor</title>
+    <updated>2022-09-18T01:45:02Z</updated>
+    <id>tag:github.com,2022-09-18:/ament/google_benchmark_vendor</id>
+    <link href="https://github.com/ament/google_benchmark_vendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vendor package for providing Google Benchmark&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

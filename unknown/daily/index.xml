@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:31:12Z</updated>
+  <updated>2022-09-18T01:34:19Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nas5w/interview-resources</title>
-    <updated>2022-09-17T01:31:12Z</updated>
-    <id>tag:github.com,2022-09-17:/nas5w/interview-resources</id>
-    <link href="https://github.com/nas5w/interview-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A non-overwhelming list of resources for tech interviews.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nasa/Transform-to-Open-Science</title>
+    <updated>2022-09-18T01:34:19Z</updated>
+    <id>tag:github.com,2022-09-18:/nasa/Transform-to-Open-Science</id>
+    <link href="https://github.com/nasa/Transform-to-Open-Science" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Transformation to Open Science&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>baristunar/design-patterns-tr</title>
-    <updated>2022-09-17T01:31:12Z</updated>
-    <id>tag:github.com,2022-09-17:/baristunar/design-patterns-tr</id>
-    <link href="https://github.com/baristunar/design-patterns-tr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Türkçe daha fazla kaynak oluşturmak adına önemli &#34;Design &#34;Pattern&#34; makalelerini çeviriyoruz.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yangzhi-1/yanglegeyang</title>
+    <updated>2022-09-18T01:34:19Z</updated>
+    <id>tag:github.com,2022-09-18:/yangzhi-1/yanglegeyang</id>
+    <link href="https://github.com/yangzhi-1/yanglegeyang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;羊了个羊微信PC版无限道具；重复进入第一关。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CnTransGroup/EffectiveModernCppChinese</title>
-    <updated>2022-09-17T01:31:12Z</updated>
-    <id>tag:github.com,2022-09-17:/CnTransGroup/EffectiveModernCppChinese</id>
-    <link href="https://github.com/CnTransGroup/EffectiveModernCppChinese" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;《Effective Modern C++》翻译 - 已完成&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>orkunisitmak/text2img-index</title>
+    <updated>2022-09-18T01:34:19Z</updated>
+    <id>tag:github.com,2022-09-18:/orkunisitmak/text2img-index</id>
+    <link href="https://github.com/orkunisitmak/text2img-index" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Text2img ve diğer yazıdan görsel üretme araçlarının listesi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

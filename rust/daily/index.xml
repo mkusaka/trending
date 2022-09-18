@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:37:30Z</updated>
+  <updated>2022-09-18T01:41:10Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>b23r0/Heroinn</title>
-    <updated>2022-09-17T01:37:30Z</updated>
-    <id>tag:github.com,2022-09-17:/b23r0/Heroinn</id>
-    <link href="https://github.com/b23r0/Heroinn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross platform C2/post-exploitation framework.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rustls/rustls</title>
+    <updated>2022-09-18T01:41:10Z</updated>
+    <id>tag:github.com,2022-09-18:/rustls/rustls</id>
+    <link href="https://github.com/rustls/rustls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern TLS library in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wormhole-foundation/wormhole</title>
-    <updated>2022-09-17T01:37:30Z</updated>
-    <id>tag:github.com,2022-09-17:/wormhole-foundation/wormhole</id>
-    <link href="https://github.com/wormhole-foundation/wormhole" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reference implementation for the Wormhole blockchain interoperability protocol.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>slint-ui/slint</title>
-    <updated>2022-09-17T01:37:30Z</updated>
-    <id>tag:github.com,2022-09-17:/slint-ui/slint</id>
-    <link href="https://github.com/slint-ui/slint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>serde-rs/json</title>
+    <updated>2022-09-18T01:41:10Z</updated>
+    <id>tag:github.com,2022-09-18:/serde-rs/json</id>
+    <link href="https://github.com/serde-rs/json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Strongly typed JSON library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

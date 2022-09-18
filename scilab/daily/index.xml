@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scilab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:37:56Z</updated>
+  <updated>2022-09-18T01:41:40Z</updated>
   <subtitle>Daily Trending of Scilab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ccccourse/co111a</title>
-    <updated>2022-09-17T01:37:56Z</updated>
-    <id>tag:github.com,2022-09-17:/ccccourse/co111a</id>
-    <link href="https://github.com/ccccourse/co111a" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;課程：計算機結構 -- 筆記、習題與報告&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

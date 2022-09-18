@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-17T01:37:27Z</updated>
+  <updated>2022-09-18T01:41:06Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>samadpls/salary-managment</title>
-    <updated>2022-09-17T01:37:27Z</updated>
-    <id>tag:github.com,2022-09-17:/samadpls/salary-managment</id>
-    <link href="https://github.com/samadpls/salary-managment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The salary management system can store employees&#39; data in a sqlite3 database. By selecting any employee record, it can send a salary slip to their Whatsapp number.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
