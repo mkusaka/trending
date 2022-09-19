@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:41:10Z</updated>
+  <updated>2022-09-19T01:41:05Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rustls/rustls</title>
-    <updated>2022-09-18T01:41:10Z</updated>
-    <id>tag:github.com,2022-09-18:/rustls/rustls</id>
-    <link href="https://github.com/rustls/rustls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern TLS library in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>serde-rs/json</title>
-    <updated>2022-09-18T01:41:10Z</updated>
-    <id>tag:github.com,2022-09-18:/serde-rs/json</id>
-    <link href="https://github.com/serde-rs/json" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Strongly typed JSON library for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paradigmxyz/paradigm-ctf-2022</title>
+    <updated>2022-09-19T01:41:05Z</updated>
+    <id>tag:github.com,2022-09-19:/paradigmxyz/paradigm-ctf-2022</id>
+    <link href="https://github.com/paradigmxyz/paradigm-ctf-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

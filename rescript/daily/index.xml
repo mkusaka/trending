@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:41:04Z</updated>
+  <updated>2022-09-19T01:40:59Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyoretsu/Ultimate-Steam-Dark-Mode-Skin</title>
-    <updated>2022-09-18T01:41:04Z</updated>
-    <id>tag:github.com,2022-09-18:/hyoretsu/Ultimate-Steam-Dark-Mode-Skin</id>
-    <link href="https://github.com/hyoretsu/Ultimate-Steam-Dark-Mode-Skin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An all-in-one pack for the best Steam skin, which is also a dark mode.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ungstein/OG-Steam</title>
-    <updated>2022-09-18T01:41:04Z</updated>
-    <id>tag:github.com,2022-09-18:/ungstein/OG-Steam</id>
-    <link href="https://github.com/ungstein/OG-Steam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Classic Steam Skin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rescript-lang/rescript-project-template</title>
+    <updated>2022-09-19T01:40:59Z</updated>
+    <id>tag:github.com,2022-09-19:/rescript-lang/rescript-project-template</id>
+    <link href="https://github.com/rescript-lang/rescript-project-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone this repo to start your own project!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:39:06Z</updated>
+  <updated>2022-09-19T01:39:15Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>naz664/xdroid_gsi</title>
-    <updated>2022-09-18T01:39:06Z</updated>
-    <id>tag:github.com,2022-09-18:/naz664/xdroid_gsi</id>
-    <link href="https://github.com/naz664/xdroid_gsi" rel="alternate"></link>
+    <title>twrpdtgen/android_device_sony_griffin_docomo</title>
+    <updated>2022-09-19T01:39:15Z</updated>
+    <id>tag:github.com,2022-09-19:/twrpdtgen/android_device_sony_griffin_docomo</id>
+    <link href="https://github.com/twrpdtgen/android_device_sony_griffin_docomo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>giantswarm/capa-app-collection</title>
-    <updated>2022-09-18T01:39:06Z</updated>
-    <id>tag:github.com,2022-09-18:/giantswarm/capa-app-collection</id>
-    <link href="https://github.com/giantswarm/capa-app-collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>imandra-ai/imandra-stdlib</title>
-    <updated>2022-09-18T01:39:06Z</updated>
-    <id>tag:github.com,2022-09-18:/imandra-ai/imandra-stdlib</id>
-    <link href="https://github.com/imandra-ai/imandra-stdlib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standard library for [Imandra](https://imandra.ai)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ProcursusTeam/Procursus</title>
+    <updated>2022-09-19T01:39:15Z</updated>
+    <id>tag:github.com,2022-09-19:/ProcursusTeam/Procursus</id>
+    <link href="https://github.com/ProcursusTeam/Procursus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern *OS Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

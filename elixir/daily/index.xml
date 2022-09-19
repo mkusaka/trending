@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:36:34Z</updated>
+  <updated>2022-09-19T01:36:23Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>handnot2/samly</title>
-    <updated>2022-09-18T01:36:34Z</updated>
-    <id>tag:github.com,2022-09-18:/handnot2/samly</id>
-    <link href="https://github.com/handnot2/samly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir Plug library to enable SAML 2.0 SP SSO in Phoenix/Plug applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nbw/figmex</title>
+    <updated>2022-09-19T01:36:23Z</updated>
+    <id>tag:github.com,2022-09-19:/nbw/figmex</id>
+    <link href="https://github.com/nbw/figmex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Figmex: Making Figma distributed with Elixir (proof of concept).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cbh123/shlinked</title>
+    <updated>2022-09-19T01:36:23Z</updated>
+    <id>tag:github.com,2022-09-19:/cbh123/shlinked</id>
+    <link href="https://github.com/cbh123/shlinked" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source satirical social network. shlinkedin.com&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

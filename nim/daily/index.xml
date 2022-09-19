@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:39:21Z</updated>
+  <updated>2022-09-19T01:39:27Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>status-im/nim-web3</title>
-    <updated>2022-09-18T01:39:21Z</updated>
-    <id>tag:github.com,2022-09-18:/status-im/nim-web3</id>
-    <link href="https://github.com/status-im/nim-web3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>status-im/nwaku</title>
+    <updated>2022-09-19T01:39:27Z</updated>
+    <id>tag:github.com,2022-09-19:/status-im/nwaku</id>
+    <link href="https://github.com/status-im/nwaku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Waku node and protocol.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>qb-0/PyMeow</title>
+    <updated>2022-09-19T01:39:27Z</updated>
+    <id>tag:github.com,2022-09-19:/qb-0/PyMeow</id>
+    <link href="https://github.com/qb-0/PyMeow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python Game Hacking Library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

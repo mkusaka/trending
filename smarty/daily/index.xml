@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:42:06Z</updated>
+  <updated>2022-09-19T01:42:01Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>unionai/unionoperator</title>
-    <updated>2022-09-18T01:42:06Z</updated>
-    <id>tag:github.com,2022-09-18:/unionai/unionoperator</id>
-    <link href="https://github.com/unionai/unionoperator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Union&#39;s Public K8s Operator.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

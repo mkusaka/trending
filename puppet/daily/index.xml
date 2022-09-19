@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:40:30Z</updated>
+  <updated>2022-09-19T01:40:27Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>niyue/l2tpvpn</title>
-    <updated>2022-09-18T01:40:30Z</updated>
-    <id>tag:github.com,2022-09-18:/niyue/l2tpvpn</id>
-    <link href="https://github.com/niyue/l2tpvpn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A L2TP VPN module for puppet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bmx0r/communicating_vessels</title>
+    <updated>2022-09-19T01:40:27Z</updated>
+    <id>tag:github.com,2022-09-19:/bmx0r/communicating_vessels</id>
+    <link href="https://github.com/bmx0r/communicating_vessels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;communicating vessels&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

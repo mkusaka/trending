@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:36:55Z</updated>
+  <updated>2022-09-19T01:36:49Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD</title>
-    <updated>2022-09-18T01:36:55Z</updated>
-    <id>tag:github.com,2022-09-18:/BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD</id>
-    <link href="https://github.com/BL-MSCH-C220-F22/Exercise-02d-Menu-and-HUD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fernandolv33/lowpoly-chmaker</title>
+    <updated>2022-09-19T01:36:49Z</updated>
+    <id>tag:github.com,2022-09-19:/fernandolv33/lowpoly-chmaker</id>
+    <link href="https://github.com/fernandolv33/lowpoly-chmaker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

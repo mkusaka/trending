@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:39:17Z</updated>
+  <updated>2022-09-19T01:39:24Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ploigos/dotnet-app-ops</title>
-    <updated>2022-09-18T01:39:17Z</updated>
-    <id>tag:github.com,2022-09-18:/ploigos/dotnet-app-ops</id>
-    <link href="https://github.com/ploigos/dotnet-app-ops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitOps repo for the dotnet-app example application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>submariner-io/submariner-charts</title>
+    <updated>2022-09-19T01:39:24Z</updated>
+    <id>tag:github.com,2022-09-19:/submariner-io/submariner-charts</id>
+    <link href="https://github.com/submariner-io/submariner-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

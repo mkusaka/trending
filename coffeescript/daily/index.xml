@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:35:53Z</updated>
+  <updated>2022-09-19T01:35:42Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>johnrees/llandudno-attractions-map</title>
-    <updated>2022-09-18T01:35:53Z</updated>
-    <id>tag:github.com,2022-09-18:/johnrees/llandudno-attractions-map</id>
-    <link href="https://github.com/johnrees/llandudno-attractions-map" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sparanoid/path-menu</title>
-    <updated>2022-09-18T01:35:53Z</updated>
-    <id>tag:github.com,2022-09-18:/sparanoid/path-menu</id>
-    <link href="https://github.com/sparanoid/path-menu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Path 2.0 Flyout Menu using CSS (Less), contrib to Path (iOS app) by Tunghsiao Liu&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aardvarrk/glowing-bear</title>
+    <updated>2022-09-19T01:35:42Z</updated>
+    <id>tag:github.com,2022-09-19:/aardvarrk/glowing-bear</id>
+    <link href="https://github.com/aardvarrk/glowing-bear" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple messaging library for Node.js.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

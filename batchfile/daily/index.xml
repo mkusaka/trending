@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:35:05Z</updated>
+  <updated>2022-09-19T01:34:55Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shirooo39/Windows-11-Bypass</title>
-    <updated>2022-09-18T01:35:05Z</updated>
-    <id>tag:github.com,2022-09-18:/shirooo39/Windows-11-Bypass</id>
-    <link href="https://github.com/shirooo39/Windows-11-Bypass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bypass Windows 11&#39;s system requirements in a simple and easy way.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

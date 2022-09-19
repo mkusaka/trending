@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:39:36Z</updated>
+  <updated>2022-09-19T01:39:39Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>djs55/ocaml-gpt</title>
-    <updated>2022-09-18T01:39:36Z</updated>
-    <id>tag:github.com,2022-09-18:/djs55/ocaml-gpt</id>
-    <link href="https://github.com/djs55/ocaml-gpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manipulate GUID Partition Tables (GPT)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JetBrains-Research/Lama</title>
+    <updated>2022-09-19T01:39:39Z</updated>
+    <id>tag:github.com,2022-09-19:/JetBrains-Research/Lama</id>
+    <link href="https://github.com/JetBrains-Research/Lama" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

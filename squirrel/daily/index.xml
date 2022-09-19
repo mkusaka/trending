@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:42:13Z</updated>
+  <updated>2022-09-19T01:42:09Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ColombianGuy/r5_flowstate</title>
+    <updated>2022-09-19T01:42:09Z</updated>
+    <id>tag:github.com,2022-09-19:/ColombianGuy/r5_flowstate</id>
+    <link href="https://github.com/ColombianGuy/r5_flowstate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fully featured Aim Trainer mod for Apex Legends. Includes bugs fixes and new features for other r5reloaded gamemodes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

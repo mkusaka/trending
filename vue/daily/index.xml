@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:43:24Z</updated>
+  <updated>2022-09-19T01:43:00Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jolaleye/cssfx</title>
+    <updated>2022-09-19T01:43:00Z</updated>
+    <id>tag:github.com,2022-09-19:/jolaleye/cssfx</id>
+    <link href="https://github.com/jolaleye/cssfx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ Beautifully simple click-to-copy CSS effects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jurassicjs/nuxt3-fullstack-tutorial</title>
+    <updated>2022-09-19T01:43:00Z</updated>
+    <id>tag:github.com,2022-09-19:/jurassicjs/nuxt3-fullstack-tutorial</id>
+    <link href="https://github.com/jurassicjs/nuxt3-fullstack-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>faraday-academy/curriculum-app</title>
+    <updated>2022-09-19T01:43:00Z</updated>
+    <id>tag:github.com,2022-09-19:/faraday-academy/curriculum-app</id>
+    <link href="https://github.com/faraday-academy/curriculum-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create, share, and keep track of your learning curricula. https://studytracker.tech&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

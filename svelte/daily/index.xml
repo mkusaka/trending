@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:42:19Z</updated>
+  <updated>2022-09-19T01:42:16Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mail3protocol/mail3-me-button</title>
-    <updated>2022-09-18T01:42:19Z</updated>
-    <id>tag:github.com,2022-09-18:/mail3protocol/mail3-me-button</id>
-    <link href="https://github.com/mail3protocol/mail3-me-button" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

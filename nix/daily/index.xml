@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:39:23Z</updated>
+  <updated>2022-09-19T01:39:28Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sigprof/nur-packages</title>
-    <updated>2022-09-18T01:39:23Z</updated>
-    <id>tag:github.com,2022-09-18:/sigprof/nur-packages</id>
-    <link href="https://github.com/sigprof/nur-packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal NUR repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nix-community/rnix-parser</title>
+    <updated>2022-09-19T01:39:28Z</updated>
+    <id>tag:github.com,2022-09-19:/nix-community/rnix-parser</id>
+    <link href="https://github.com/nix-community/rnix-parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Nix parser written in Rust [maintainer=@oberblastmeister]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fzakaria/nix-harden-needed</title>
+    <updated>2022-09-19T01:39:28Z</updated>
+    <id>tag:github.com,2022-09-19:/fzakaria/nix-harden-needed</id>
+    <link href="https://github.com/fzakaria/nix-harden-needed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bubble up the correct paths to your shared object libraries in Nix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

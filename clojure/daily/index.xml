@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:35:49Z</updated>
+  <updated>2022-09-19T01:35:37Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>felipereigosa/mock-mechanics</title>
+    <updated>2022-09-19T01:35:37Z</updated>
+    <id>tag:github.com,2022-09-19:/felipereigosa/mock-mechanics</id>
+    <link href="https://github.com/felipereigosa/mock-mechanics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mechanical/visual programming language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

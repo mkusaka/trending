@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:36:07Z</updated>
+  <updated>2022-09-19T01:36:00Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ldc-developers/dmd-testsuite</title>
-    <updated>2022-09-18T01:36:07Z</updated>
-    <id>tag:github.com,2022-09-18:/ldc-developers/dmd-testsuite</id>
-    <link href="https://github.com/ldc-developers/dmd-testsuite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirrors the test suite in the DMD test/ directory, for use as Git submodule.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

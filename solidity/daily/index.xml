@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:42:11Z</updated>
+  <updated>2022-09-19T01:42:06Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Koinswapio/KSTTOKEN-V2</title>
-    <updated>2022-09-18T01:42:11Z</updated>
-    <id>tag:github.com,2022-09-18:/Koinswapio/KSTTOKEN-V2</id>
-    <link href="https://github.com/Koinswapio/KSTTOKEN-V2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MOST PROMISING AND INSTANT DECENTRALIZED CRYPTO ASSET SWAPPING PROTOCOL V2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Philogy/erc721h</title>
-    <updated>2022-09-18T01:42:11Z</updated>
-    <id>tag:github.com,2022-09-18:/Philogy/erc721h</id>
-    <link href="https://github.com/Philogy/erc721h" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PartyDAO/party-contracts-c4</title>
-    <updated>2022-09-18T01:42:11Z</updated>
-    <id>tag:github.com,2022-09-18:/PartyDAO/party-contracts-c4</id>
-    <link href="https://github.com/PartyDAO/party-contracts-c4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Party Protocol Contracts for code4rena contest&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rsksmart/tokenbridge</title>
+    <updated>2022-09-19T01:42:06Z</updated>
+    <id>tag:github.com,2022-09-19:/rsksmart/tokenbridge</id>
+    <link href="https://github.com/rsksmart/tokenbridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bidirectional Ethereum / RSK Token Bridge implementation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

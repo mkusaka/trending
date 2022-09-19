@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:34:19Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-19T01:34:07Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nasa/Transform-to-Open-Science</title>
-    <updated>2022-09-18T01:34:19Z</updated>
-    <id>tag:github.com,2022-09-18:/nasa/Transform-to-Open-Science</id>
-    <link href="https://github.com/nasa/Transform-to-Open-Science" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Transformation to Open Science&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lcry/a-sheep-assistant</title>
+    <updated>2022-09-19T01:34:07Z</updated>
+    <id>tag:github.com,2022-09-19:/Lcry/a-sheep-assistant</id>
+    <link href="https://github.com/Lcry/a-sheep-assistant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yangzhi-1/yanglegeyang</title>
-    <updated>2022-09-18T01:34:19Z</updated>
-    <id>tag:github.com,2022-09-18:/yangzhi-1/yanglegeyang</id>
-    <link href="https://github.com/yangzhi-1/yanglegeyang" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;羊了个羊微信PC版无限道具；重复进入第一关。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Funkmyster/awesome-cloud-security</title>
+    <updated>2022-09-19T01:34:07Z</updated>
+    <id>tag:github.com,2022-09-19:/Funkmyster/awesome-cloud-security</id>
+    <link href="https://github.com/Funkmyster/awesome-cloud-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>orkunisitmak/text2img-index</title>
-    <updated>2022-09-18T01:34:19Z</updated>
-    <id>tag:github.com,2022-09-18:/orkunisitmak/text2img-index</id>
-    <link href="https://github.com/orkunisitmak/text2img-index" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Text2img ve diğer yazıdan görsel üretme araçlarının listesi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chainsulting/ethereum-2.0-validator-setup-guide</title>
+    <updated>2022-09-19T01:34:07Z</updated>
+    <id>tag:github.com,2022-09-19:/chainsulting/ethereum-2.0-validator-setup-guide</id>
+    <link href="https://github.com/chainsulting/ethereum-2.0-validator-setup-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👨‍🏫 How to setup Ethereum 2.0 validator via dedicated server by OVHCloud ☁️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

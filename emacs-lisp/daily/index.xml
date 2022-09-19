@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-18T01:36:37Z</updated>
+  <updated>2022-09-19T01:36:26Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>skeeto/emacs-memoize</title>
+    <updated>2022-09-19T01:36:26Z</updated>
+    <id>tag:github.com,2022-09-19:/skeeto/emacs-memoize</id>
+    <link href="https://github.com/skeeto/emacs-memoize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elisp memoization functions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Elisp memoization functions&lt;/h1&gt; &#xA;&lt;p&gt;See the header in the source file for details. It&#39;s very easy to use:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-cl&#34;&gt;(require &#39;memoize)&#xA;&#xA;(memoize &#39;my-function)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The macro &lt;code&gt;defmemoize&lt;/code&gt; is also provided to directly create memoized functions:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-cl&#34;&gt;(defmemoize my-expensive-function (n)&#xA;  (if (zerop n)&#xA;      1&#xA;    (* n (my-expensive-function (1- n)))))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Some functions are run over buffer contents, and need to be cached only so long as the buffer contents do not change. For these use-cases, we have the function &lt;code&gt;memoize-by-buffer-contents&lt;/code&gt; as well as the &lt;code&gt;defmemoize-by-buffer-contents&lt;/code&gt; macro.&lt;/p&gt; &#xA;&lt;p&gt;To restore the original definition of a memoized function symbol (not a lambda or closure), use &lt;code&gt;memoize-restore&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-cl&#34;&gt;(memoize &#39;my-function)&#xA;(memoize-restore &#39;my-function)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
