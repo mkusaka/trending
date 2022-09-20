@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:34:48Z</updated>
+  <updated>2022-09-20T01:32:28Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Charca/astro-music</title>
-    <updated>2022-09-19T01:34:48Z</updated>
-    <id>tag:github.com,2022-09-19:/Charca/astro-music</id>
-    <link href="https://github.com/Charca/astro-music" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo ssing Astro and the Shared Element Transition API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>getbem/getbem.github.io</title>
-    <updated>2022-09-19T01:34:48Z</updated>
-    <id>tag:github.com,2022-09-19:/getbem/getbem.github.io</id>
-    <link href="https://github.com/getbem/getbem.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get BEM to all people in simplest way&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

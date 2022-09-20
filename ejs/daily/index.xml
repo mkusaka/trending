@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:36:21Z</updated>
+  <updated>2022-09-20T01:34:08Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Yashkapure06/Blogging-Website</title>
-    <updated>2022-09-19T01:36:21Z</updated>
-    <id>tag:github.com,2022-09-19:/Yashkapure06/Blogging-Website</id>
-    <link href="https://github.com/Yashkapure06/Blogging-Website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Complete Blogging Website made with - Express, Nodejs, MongoDB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Gisithj/testQ</title>
-    <updated>2022-09-19T01:36:21Z</updated>
-    <id>tag:github.com,2022-09-19:/Gisithj/testQ</id>
-    <link href="https://github.com/Gisithj/testQ" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

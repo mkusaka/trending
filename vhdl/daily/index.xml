@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:42:55Z</updated>
+  <updated>2022-09-20T01:40:38Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>agg23/openfpga-SNES</title>
-    <updated>2022-09-19T01:42:55Z</updated>
-    <id>tag:github.com,2022-09-19:/agg23/openfpga-SNES</id>
-    <link href="https://github.com/agg23/openfpga-SNES" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SNES for the Analogue Pocket&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ADSD-SoC-FPGA/Code</title>
-    <updated>2022-09-19T01:42:55Z</updated>
-    <id>tag:github.com,2022-09-19:/ADSD-SoC-FPGA/Code</id>
-    <link href="https://github.com/ADSD-SoC-FPGA/Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ericlewis/openfpga-superbreakout</title>
-    <updated>2022-09-19T01:42:55Z</updated>
-    <id>tag:github.com,2022-09-19:/ericlewis/openfpga-superbreakout</id>
-    <link href="https://github.com/ericlewis/openfpga-superbreakout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FPGA implementation of Arcade Super Breakout (Atari, 1978) for Analogue Pocket.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

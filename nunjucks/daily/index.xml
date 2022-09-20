@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:39:30Z</updated>
+  <updated>2022-09-20T01:37:39Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>5t3ph/11ty-sass-skeleton</title>
+    <updated>2022-09-20T01:37:39Z</updated>
+    <id>tag:github.com,2022-09-20:/5t3ph/11ty-sass-skeleton</id>
+    <link href="https://github.com/5t3ph/11ty-sass-skeleton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Featuring absolutely nothing beyond a base HTML5 template and the essential setup to watch and compile your Sass alongside 11ty.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

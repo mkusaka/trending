@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:42:01Z</updated>
+  <updated>2022-09-20T01:39:37Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PrefectHQ/prefect-helm</title>
+    <updated>2022-09-20T01:39:37Z</updated>
+    <id>tag:github.com,2022-09-20:/PrefectHQ/prefect-helm</id>
+    <link href="https://github.com/PrefectHQ/prefect-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for deploying Prefect Services&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

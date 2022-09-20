@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:41:23Z</updated>
+  <updated>2022-09-20T01:39:21Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/blk-design-system-angular</title>
-    <updated>2022-09-19T01:41:23Z</updated>
-    <id>tag:github.com,2022-09-19:/creativetimofficial/blk-design-system-angular</id>
-    <link href="https://github.com/creativetimofficial/blk-design-system-angular" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PaystackHQ/nigerialogos</title>
+    <updated>2022-09-20T01:39:21Z</updated>
+    <id>tag:github.com,2022-09-20:/PaystackHQ/nigerialogos</id>
+    <link href="https://github.com/PaystackHQ/nigerialogos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High quality vector logos for Nigerian companies&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

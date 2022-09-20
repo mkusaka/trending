@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:34:07Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-09-20T01:32:04Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Lcry/a-sheep-assistant</title>
-    <updated>2022-09-19T01:34:07Z</updated>
-    <id>tag:github.com,2022-09-19:/Lcry/a-sheep-assistant</id>
-    <link href="https://github.com/Lcry/a-sheep-assistant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arainho/awesome-api-security</title>
+    <updated>2022-09-20T01:32:04Z</updated>
+    <id>tag:github.com,2022-09-20:/arainho/awesome-api-security</id>
+    <link href="https://github.com/arainho/awesome-api-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Funkmyster/awesome-cloud-security</title>
-    <updated>2022-09-19T01:34:07Z</updated>
-    <id>tag:github.com,2022-09-19:/Funkmyster/awesome-cloud-security</id>
-    <link href="https://github.com/Funkmyster/awesome-cloud-security" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prasadgujar/low-level-design-primer</title>
+    <updated>2022-09-20T01:32:04Z</updated>
+    <id>tag:github.com,2022-09-20:/prasadgujar/low-level-design-primer</id>
+    <link href="https://github.com/prasadgujar/low-level-design-primer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chainsulting/ethereum-2.0-validator-setup-guide</title>
-    <updated>2022-09-19T01:34:07Z</updated>
-    <id>tag:github.com,2022-09-19:/chainsulting/ethereum-2.0-validator-setup-guide</id>
-    <link href="https://github.com/chainsulting/ethereum-2.0-validator-setup-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👨‍🏫 How to setup Ethereum 2.0 validator via dedicated server by OVHCloud ☁️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>campusx-official/ML-Roadmap-for-2022</title>
+    <updated>2022-09-20T01:32:04Z</updated>
+    <id>tag:github.com,2022-09-20:/campusx-official/ML-Roadmap-for-2022</id>
+    <link href="https://github.com/campusx-official/ML-Roadmap-for-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Machine learning videos, links, projects and datasets to help you conquer the ML landscape in 6 months&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

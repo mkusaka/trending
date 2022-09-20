@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:37:15Z</updated>
+  <updated>2022-09-20T01:35:02Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudfoundry-samples/pong_matcher_groovy</title>
-    <updated>2022-09-19T01:37:15Z</updated>
-    <id>tag:github.com,2022-09-19:/cloudfoundry-samples/pong_matcher_groovy</id>
-    <link href="https://github.com/cloudfoundry-samples/pong_matcher_groovy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>radarsh/gradle-test-logger-plugin</title>
+    <updated>2022-09-20T01:35:02Z</updated>
+    <id>tag:github.com,2022-09-20:/radarsh/gradle-test-logger-plugin</id>
+    <link href="https://github.com/radarsh/gradle-test-logger-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Gradle plugin for printing beautiful logs on the console while running tests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

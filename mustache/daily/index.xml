@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-19T01:39:24Z</updated>
+  <updated>2022-09-20T01:37:32Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>submariner-io/submariner-charts</title>
-    <updated>2022-09-19T01:39:24Z</updated>
-    <id>tag:github.com,2022-09-19:/submariner-io/submariner-charts</id>
-    <link href="https://github.com/submariner-io/submariner-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
