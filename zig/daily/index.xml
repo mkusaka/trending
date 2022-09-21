@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:40:55Z</updated>
+  <updated>2022-09-21T01:43:26Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>haze/zig-libressl</title>
-    <updated>2022-09-20T01:40:55Z</updated>
-    <id>tag:github.com,2022-09-20:/haze/zig-libressl</id>
-    <link href="https://github.com/haze/zig-libressl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LibreSSL stream wrappers for Zig&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

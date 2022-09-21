@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DIGITAL Command Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:33:48Z</updated>
+  <updated>2022-09-21T01:36:45Z</updated>
   <subtitle>Daily Trending of DIGITAL Command Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aXR6/utilitarios</title>
-    <updated>2022-09-20T01:33:48Z</updated>
-    <id>tag:github.com,2022-09-20:/aXR6/utilitarios</id>
-    <link href="https://github.com/aXR6/utilitarios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material utilizado durante as aulas. - Desenv. Web em Html5, Css, Javascript e Php - Protocolos de Comunicação Tcp/ip - Segurança Cibernética - Protocolos de Redes de Computadores - Programação Orientada a Objetos em Java&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

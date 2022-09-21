@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:38:20Z</updated>
+  <updated>2022-09-21T01:40:57Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SoniaSpindt/DrawColorfulPixelArt</title>
+    <updated>2022-09-21T01:40:57Z</updated>
+    <id>tag:github.com,2022-09-21:/SoniaSpindt/DrawColorfulPixelArt</id>
+    <link href="https://github.com/SoniaSpindt/DrawColorfulPixelArt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starter code for a lesson in conditionals. Expands upon students understanding of matrices/2D arrays.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:34:36Z</updated>
+  <updated>2022-09-21T01:37:23Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ic3bug/strafer</title>
-    <updated>2022-09-20T01:34:36Z</updated>
-    <id>tag:github.com,2022-09-20:/ic3bug/strafer</id>
-    <link href="https://github.com/ic3bug/strafer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Strafing mechanics for Godot 4.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

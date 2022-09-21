@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:37:26Z</updated>
+  <updated>2022-09-21T01:39:46Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Hamid-Nasiri/VMD-MFRFNN</title>
-    <updated>2022-09-20T01:37:26Z</updated>
-    <id>tag:github.com,2022-09-20:/Hamid-Nasiri/VMD-MFRFNN</id>
-    <link href="https://github.com/Hamid-Nasiri/VMD-MFRFNN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-step-ahead Stock Price Prediction Using Recurrent Fuzzy Neural Network and Variational Mode Decomposition&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Hamid-Nasiri/Recurrent-Fuzzy-Neural-Network</title>
-    <updated>2022-09-20T01:37:26Z</updated>
-    <id>tag:github.com,2022-09-20:/Hamid-Nasiri/Recurrent-Fuzzy-Neural-Network</id>
-    <link href="https://github.com/Hamid-Nasiri/Recurrent-Fuzzy-Neural-Network" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MFRFNN: Multi-Functional Recurrent Fuzzy Neural Network for Chaotic Time Series Prediction&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>verivital/nnv</title>
+    <updated>2022-09-21T01:39:46Z</updated>
+    <id>tag:github.com,2022-09-21:/verivital/nnv</id>
+    <link href="https://github.com/verivital/nnv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neural Network Verification Software Tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

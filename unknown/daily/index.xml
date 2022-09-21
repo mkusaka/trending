@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:32:04Z</updated>
+  <updated>2022-09-21T01:34:41Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arainho/awesome-api-security</title>
-    <updated>2022-09-20T01:32:04Z</updated>
-    <id>tag:github.com,2022-09-20:/arainho/awesome-api-security</id>
-    <link href="https://github.com/arainho/awesome-api-security" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/oss-ssc-framework</title>
+    <updated>2022-09-21T01:34:41Z</updated>
+    <id>tag:github.com,2022-09-21:/microsoft/oss-ssc-framework</id>
+    <link href="https://github.com/microsoft/oss-ssc-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Software Secure Supply Chain Framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>prasadgujar/low-level-design-primer</title>
-    <updated>2022-09-20T01:32:04Z</updated>
-    <id>tag:github.com,2022-09-20:/prasadgujar/low-level-design-primer</id>
-    <link href="https://github.com/prasadgujar/low-level-design-primer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CyberSecurityUP/Cloud-Security-Attacks</title>
+    <updated>2022-09-21T01:34:41Z</updated>
+    <id>tag:github.com,2022-09-21:/CyberSecurityUP/Cloud-Security-Attacks</id>
+    <link href="https://github.com/CyberSecurityUP/Cloud-Security-Attacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure and AWS Attacks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>campusx-official/ML-Roadmap-for-2022</title>
-    <updated>2022-09-20T01:32:04Z</updated>
-    <id>tag:github.com,2022-09-20:/campusx-official/ML-Roadmap-for-2022</id>
-    <link href="https://github.com/campusx-official/ML-Roadmap-for-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of Machine learning videos, links, projects and datasets to help you conquer the ML landscape in 6 months&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JunweiLiang/awesome_lists</title>
+    <updated>2022-09-21T01:34:41Z</updated>
+    <id>tag:github.com,2022-09-21:/JunweiLiang/awesome_lists</id>
+    <link href="https://github.com/JunweiLiang/awesome_lists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

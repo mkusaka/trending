@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:40:18Z</updated>
+  <updated>2022-09-21T01:42:48Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>treyhunner/resume</title>
-    <updated>2022-09-20T01:40:18Z</updated>
-    <id>tag:github.com,2022-09-20:/treyhunner/resume</id>
-    <link href="https://github.com/treyhunner/resume" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LaTeX resume format&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;A LaTeX resume template&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;resume.cls&lt;/code&gt; is a document class that adds name and address information to the head of the document and provides resume section and subsection environments (&lt;code&gt;rSection&lt;/code&gt; and &lt;code&gt;rSubsection&lt;/code&gt;). The address separator format, the &lt;code&gt;rSubsection&lt;/code&gt; heading format, and the skip sizes defined in &lt;code&gt;resume.cls&lt;/code&gt; can be customized.&lt;/p&gt; &#xA;&lt;h3&gt;License&lt;/h3&gt; &#xA;&lt;p&gt;Please see LICENSE file.&lt;/p&gt;</summary>
+    <title>ASDS-TCD/StatsI_Fall2022</title>
+    <updated>2022-09-21T01:42:48Z</updated>
+    <id>tag:github.com,2022-09-21:/ASDS-TCD/StatsI_Fall2022</id>
+    <link href="https://github.com/ASDS-TCD/StatsI_Fall2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Repository for Applied Stats I @ TCD in Fall 2022&lt;/h1&gt; &#xA;&lt;p&gt;Here, you can find code for in-person tutorials, .pdfs for practice, as well as problem sets.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>ElegantLaTeX/ElegantNote</title>
-    <updated>2022-09-20T01:40:18Z</updated>
-    <id>tag:github.com,2022-09-20:/ElegantLaTeX/ElegantNote</id>
-    <link href="https://github.com/ElegantLaTeX/ElegantNote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elegant LaTeX Template for Notes&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ElegantNote&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://elegantlatex.org/&#34;&gt;Homepage&lt;/a&gt; | &lt;a href=&#34;https://github.com/ElegantLaTeX/ElegantNote&#34;&gt;Github&lt;/a&gt; | &lt;a href=&#34;https://ctan.org/pkg/elegantnote&#34;&gt;CTAN&lt;/a&gt; | &lt;a href=&#34;https://github.com/ElegantLaTeX/ElegantNote/releases&#34;&gt;Download&lt;/a&gt; | &lt;a href=&#34;https://github.com/ElegantLaTeX/ElegantNote/wiki&#34;&gt;Wiki&lt;/a&gt; | &lt;a href=&#34;https://weibo.com/elegantlatex&#34;&gt;Weibo&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/ctan/l/elegantnote.svg?sanitize=true&#34; alt=&#34;License&#34;&gt; &lt;img src=&#34;https://img.shields.io/ctan/v/elegantnote.svg?sanitize=true&#34; alt=&#34;CTAN Version&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/release/ElegantLaTeX/ElegantNote.svg?sanitize=true&#34; alt=&#34;Github Version&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/repo-size/ElegantLaTeX/ElegantNote.svg?sanitize=true&#34; alt=&#34;Repo Size&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;ElegantNote is designed for Notes. Just enjoy it! If you have any questions, suggestions or bug reports, you can create issues, pull requests or email us at &lt;a href=&#34;mailto:elegantlatex2e@gmail.com&#34;&gt;elegantlatex2e@gmail.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;设计 ElegantNote 是为了方便记录笔记和阅读笔记。如果你有其他问题、建议或者报告 bug，可以提交 issues 或者给我们发邮件：&lt;a href=&#34;mailto:elegantlatex2e@gmail.com&#34;&gt;elegantlatex2e@gmail.com&lt;/a&gt;。最近我们新建了一个 QQ 用户交流群（Q 群：692108391），欢迎加入。&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;This work is released under the LaTeX Project Public License, v1.3c or later.&lt;/p&gt; &#xA;&lt;p&gt;本模板发布遵循 LaTeX 项目公共许可证 1.3 c 或更高版本。&lt;/p&gt;</summary>
+    <title>yqh/ece252</title>
+    <updated>2022-09-21T01:42:48Z</updated>
+    <id>tag:github.com,2022-09-21:/yqh/ece252</id>
+    <link href="https://github.com/yqh/ece252" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Systems Programming and Concurrency Lab&lt;/p&gt;&lt;hr&gt;&lt;p&gt;University of Waterloo ECE252 Systems Programming and Concurrency Lab Starter Files and Manual&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>tboult/CS6000-F22-Gitassignment</title>
+    <updated>2022-09-21T01:42:48Z</updated>
+    <id>tag:github.com,2022-09-21:/tboult/CS6000-F22-Gitassignment</id>
+    <link href="https://github.com/tboult/CS6000-F22-Gitassignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CS6000-F22-Gitassignment&lt;/h1&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:39:41Z</updated>
+  <updated>2022-09-21T01:42:21Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xronin/30-days-SmartContractProgrammer</title>
-    <updated>2022-09-20T01:39:41Z</updated>
-    <id>tag:github.com,2022-09-20:/0xronin/30-days-SmartContractProgrammer</id>
-    <link href="https://github.com/0xronin/30-days-SmartContractProgrammer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏄 Surfing through the Smart Contract Programmer Solidity Playlist&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WagameDAO/forked-multisig-wallet</title>
+    <updated>2022-09-21T01:42:21Z</updated>
+    <id>tag:github.com,2022-09-21:/WagameDAO/forked-multisig-wallet</id>
+    <link href="https://github.com/WagameDAO/forked-multisig-wallet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-Sig Wallet forked from Solidity by Example version 0.8.13&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>provable-things/ethereum-api</title>
-    <updated>2022-09-20T01:39:41Z</updated>
-    <id>tag:github.com,2022-09-20:/provable-things/ethereum-api</id>
-    <link href="https://github.com/provable-things/ethereum-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Provable API for Ethereum smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cheethas/governor-of-athens</title>
+    <updated>2022-09-21T01:42:21Z</updated>
+    <id>tag:github.com,2022-09-21:/cheethas/governor-of-athens</id>
+    <link href="https://github.com/cheethas/governor-of-athens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Governor of Athens: A protocol to enable private governance on existing governor bravo contracts by leveraging Aztec&#39;s Defi Batching&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yieldyak/yak-aggregator</title>
-    <updated>2022-09-20T01:39:41Z</updated>
-    <id>tag:github.com,2022-09-20:/yieldyak/yak-aggregator</id>
-    <link href="https://github.com/yieldyak/yak-aggregator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;On-chain dex aggregator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dragonfly-xyz/useful-solidity-patterns</title>
+    <updated>2022-09-21T01:42:21Z</updated>
+    <id>tag:github.com,2022-09-21:/dragonfly-xyz/useful-solidity-patterns</id>
+    <link href="https://github.com/dragonfly-xyz/useful-solidity-patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

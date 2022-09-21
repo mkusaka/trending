@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:39:05Z</updated>
+  <updated>2022-09-21T01:41:38Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dtolnay/cxx</title>
-    <updated>2022-09-20T01:39:05Z</updated>
-    <id>tag:github.com,2022-09-20:/dtolnay/cxx</id>
-    <link href="https://github.com/dtolnay/cxx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Safe interop between Rust and C++&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>huggingface/tokenizers</title>
+    <updated>2022-09-21T01:41:38Z</updated>
+    <id>tag:github.com,2022-09-21:/huggingface/tokenizers</id>
+    <link href="https://github.com/huggingface/tokenizers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💥 Fast State-of-the-Art Tokenizers optimized for Research and Production&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Canop/broot</title>
-    <updated>2022-09-20T01:39:05Z</updated>
-    <id>tag:github.com,2022-09-20:/Canop/broot</id>
-    <link href="https://github.com/Canop/broot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A new way to see and navigate directory trees : https://dystroy.org/broot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aurae-runtime/aurae</title>
+    <updated>2022-09-21T01:41:38Z</updated>
+    <id>tag:github.com,2022-09-21:/aurae-runtime/aurae</id>
+    <link href="https://github.com/aurae-runtime/aurae" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplified distributed systems runtime for application teams. Written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jaw-sh/ruforo</title>
+    <updated>2022-09-21T01:41:38Z</updated>
+    <id>tag:github.com,2022-09-21:/jaw-sh/ruforo</id>
+    <link href="https://github.com/jaw-sh/ruforo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

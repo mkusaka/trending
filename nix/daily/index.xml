@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:37:37Z</updated>
+  <updated>2022-09-21T01:39:58Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gytis-ivaskevicius/neovitality</title>
-    <updated>2022-09-20T01:37:37Z</updated>
-    <id>tag:github.com,2022-09-20:/gytis-ivaskevicius/neovitality</id>
-    <link href="https://github.com/gytis-ivaskevicius/neovitality" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Gabriella439/macos-builder</title>
+    <updated>2022-09-21T01:39:58Z</updated>
+    <id>tag:github.com,2022-09-21:/Gabriella439/macos-builder</id>
+    <link href="https://github.com/Gabriella439/macos-builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrap a Linux build VM on macOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/nur-packages-template</title>
+    <updated>2022-09-21T01:39:58Z</updated>
+    <id>tag:github.com,2022-09-21:/nix-community/nur-packages-template</id>
+    <link href="https://github.com/nix-community/nur-packages-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A template for NUR repositories: [maintainer=@fgaz]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

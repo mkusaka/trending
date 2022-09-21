@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:35:10Z</updated>
+  <updated>2022-09-21T01:38:02Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>upenn-cis5520/03-trees</title>
-    <updated>2022-09-20T01:35:10Z</updated>
-    <id>tag:github.com,2022-09-20:/upenn-cis5520/03-trees</id>
-    <link href="https://github.com/upenn-cis5520/03-trees" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thumbtack/datadog-petshop</title>
+    <updated>2022-09-21T01:38:02Z</updated>
+    <id>tag:github.com,2022-09-21:/thumbtack/datadog-petshop</id>
+    <link href="https://github.com/thumbtack/datadog-petshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Synchronize data between Datadog and the local system&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Petshop&lt;/h1&gt; &#xA;&lt;p&gt;A CLI tool for synchronizing data between Datadog and files on a local system.&lt;/p&gt; &#xA;&lt;p&gt;This tools is designed to allow monitoring (alerts, graphs, etc) to be tracked as code. A common usage pattern would be to place a directory (or directories) targeted by this program under version control and to use that repository as a reviewable, auditable source of truth for monitoring.&lt;/p&gt; &#xA;&lt;p&gt;Currently, Datadog monitors are supported.&lt;/p&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;datadog-petshop&lt;/code&gt; can be built and installed like any other cabal package.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;To communicate with datadog, the environment variables &lt;code&gt;DATADOG_API_KEY&lt;/code&gt; and &lt;code&gt;DATADOG_APP_KEY&lt;/code&gt; must exist. These can be obtained from the Datadog account settings page.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Usage: datadog-petshop [-d|--dry-run] COMMAND&#xA;  Synchronize between Datadog and the local filesystem&#xA;&#xA;Available options:&#xA;  -h,--help                Show this help text&#xA;  -d,--dry-run             Do not perform any changes&#xA;&#xA;Available commands:&#xA;  save                     Sync Datadog configurations to the local filesystem&#xA;  load                     Sync local filesystem configurations to Datadog&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Save&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;Usage: datadog-petshop save DEST [ID...]&#xA;  Sync Datadog configurations to the local filesystem&#xA;&#xA;Available options:&#xA;  -h,--help                Show this help text&#xA;  DEST                     File/Directory in which to store configuration&#xA;  ID...                    Datadog metric ID from which to pull configuration&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Load&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;Usage: datadog-petshop load [-f|--force] SOURCE...&#xA;  Sync local filesystem configurations to Datadog&#xA;&#xA;Available options:&#xA;  -h,--help                Show this help text&#xA;  -f,--force               Update monitors regardless of update status&#xA;  SOURCE...                File/Directory from which to read configuration&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

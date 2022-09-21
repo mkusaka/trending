@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:38:06Z</updated>
+  <updated>2022-09-21T01:40:33Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ttfnrob/SatelliteTracking</title>
+    <updated>2022-09-21T01:40:33Z</updated>
+    <id>tag:github.com,2022-09-21:/ttfnrob/SatelliteTracking</id>
+    <link href="https://github.com/ttfnrob/SatelliteTracking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tracking satellites using TLEs and Perl (KML/Google Earth output)&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Tracking Satellites on Google Earth&lt;/h2&gt; &#xA;&lt;p&gt;Tracking satellites using TLEs and Perl (KML/Google Earth output). This single Perl file is designed to sit on your server and by default returns a KML file tracking the International Space Station over the next 2 hours. The default TLW source file is at &lt;a href=&#34;http://celestrak.com/NORAD/elements/visual.txt&#34;&gt;http://celestrak.com/NORAD/elements/visual.txt&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;File useage&lt;/h3&gt; &#xA;&lt;p&gt;With a few simple arguments the file can slightly alter the returned output in KML. Defaults shown in brackets.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;em&gt;url:&lt;/em&gt; URL of TLW data file (&lt;a href=&#34;http://celestrak.com/NORAD/elements/visual.txt&#34;&gt;http://celestrak.com/NORAD/elements/visual.txt&lt;/a&gt;)&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;id:&lt;/em&gt; Comma-sperated list of TLE ids from the file (25544)&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;hor&lt;/em&gt; Boolean Y or N to show satellite&#39;s horizon (Y)&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;path&lt;/em&gt; Integer number of hours to shown future path of satellite (2)&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;ex&lt;/em&gt; Boolean Y or N to show line connecting satellite to ground (N)&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;icon&lt;/em&gt; URL path to icon for the satellite in Google Earth (&lt;a href=&#34;http://resources.orbitingfrog.com/ID_OF_SATELLITE.png&#34;&gt;http://resources.orbitingfrog.com/ID_OF_SATELLITE.png&lt;/a&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Perl Packages Required&lt;/h3&gt; &#xA;&lt;p&gt;CGI, Math, POSIX, LWP and Astro::Coord&lt;/p&gt; &#xA;&lt;p&gt;It was written in Perl because it utilises the &lt;em&gt;Astro-satpass&lt;/em&gt; package by Tom Wyant (found at &lt;a href=&#34;http://search.cpan.org/dist/Astro-satpass/&#34;&gt;http://search.cpan.org/dist/Astro-satpass/&lt;/a&gt;). Perl is not my favorutie package but this is a speedy library that does most of the grunt work. Big thank you to Tom for all his hard work. :)&lt;/p&gt;</summary>
+  </entry>
 </feed>

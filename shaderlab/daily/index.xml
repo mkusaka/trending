@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:39:23Z</updated>
+  <updated>2022-09-21T01:42:01Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LlGOuDaN/9Noobs</title>
-    <updated>2022-09-20T01:39:23Z</updated>
-    <id>tag:github.com,2022-09-20:/LlGOuDaN/9Noobs</id>
-    <link href="https://github.com/LlGOuDaN/9Noobs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Git Repo for CSCI526 project (Team 9Noobs)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>VRCreatorAcademy/vr-creator-academy-collab</title>
-    <updated>2022-09-20T01:39:23Z</updated>
-    <id>tag:github.com,2022-09-20:/VRCreatorAcademy/vr-creator-academy-collab</id>
-    <link href="https://github.com/VRCreatorAcademy/vr-creator-academy-collab" rel="alternate"></link>
+    <title>markwright2002/Game_jam_G3</title>
+    <updated>2022-09-21T01:42:01Z</updated>
+    <id>tag:github.com,2022-09-21:/markwright2002/Game_jam_G3</id>
+    <link href="https://github.com/markwright2002/Game_jam_G3" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ChaseOB/Barkane</title>
-    <updated>2022-09-20T01:39:23Z</updated>
-    <id>tag:github.com,2022-09-20:/ChaseOB/Barkane</id>
-    <link href="https://github.com/ChaseOB/Barkane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A 3D paper-folding puzzle game with magical dogs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

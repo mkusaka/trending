@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:33:09Z</updated>
+  <updated>2022-09-21T01:36:09Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bcooksey/Lunch-Picker</title>
-    <updated>2022-09-20T01:33:09Z</updated>
-    <id>tag:github.com,2022-09-20:/bcooksey/Lunch-Picker</id>
-    <link href="https://github.com/bcooksey/Lunch-Picker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure app to vote on places to eat lunch&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Wall-Brew-Co/common-beer-format</title>
-    <updated>2022-09-20T01:33:09Z</updated>
-    <id>tag:github.com,2022-09-20:/Wall-Brew-Co/common-beer-format</id>
-    <link href="https://github.com/Wall-Brew-Co/common-beer-format" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross-format implementation of the BeerXML standard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:37:36Z</updated>
+  <updated>2022-09-21T01:39:57Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>status-im/nim-websock</title>
-    <updated>2022-09-20T01:37:36Z</updated>
-    <id>tag:github.com,2022-09-20:/status-im/nim-websock</id>
-    <link href="https://github.com/status-im/nim-websock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Websocket for Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/nim-dnsdisc</title>
-    <updated>2022-09-20T01:37:36Z</updated>
-    <id>tag:github.com,2022-09-20:/status-im/nim-dnsdisc</id>
-    <link href="https://github.com/status-im/nim-dnsdisc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim discovery library supporting EIP-1459&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

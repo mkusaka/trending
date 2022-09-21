@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-20T01:33:13Z</updated>
+  <updated>2022-09-21T01:36:14Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>azampagl/express-boilerplate</title>
+    <updated>2022-09-21T01:36:14Z</updated>
+    <id>tag:github.com,2022-09-21:/azampagl/express-boilerplate</id>
+    <link href="https://github.com/azampagl/express-boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boilerplate express application using Express 3.x, RequireJS (+ i18n) 2.x, Mocha, Soda, Docco, jQuery 1.8.x, Bootstrap 2.x, BackboneJS, Less, CoffeeScript and CodeKit.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
