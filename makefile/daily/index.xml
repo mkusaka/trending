@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:39:42Z</updated>
+  <updated>2022-09-22T01:35:02Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>secdim/play-sdk</title>
-    <updated>2022-09-21T01:39:42Z</updated>
-    <id>tag:github.com,2022-09-21:/secdim/play-sdk</id>
-    <link href="https://github.com/secdim/play-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SDK for SecDim Play Levels&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ece362-purdue/f2022-lab-2</title>
+    <updated>2022-09-22T01:35:02Z</updated>
+    <id>tag:github.com,2022-09-22:/ece362-purdue/f2022-lab-2</id>
+    <link href="https://github.com/ece362-purdue/f2022-lab-2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

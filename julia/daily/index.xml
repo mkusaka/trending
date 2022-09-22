@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:39:05Z</updated>
+  <updated>2022-09-22T01:34:25Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dpo/mth6412b-starter-code</title>
-    <updated>2022-09-21T01:39:05Z</updated>
-    <id>tag:github.com,2022-09-21:/dpo/mth6412b-starter-code</id>
-    <link href="https://github.com/dpo/mth6412b-starter-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starter code for the class project in MTH6412B&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaPlots/PlotDocs.jl</title>
+    <updated>2022-09-22T01:34:25Z</updated>
+    <id>tag:github.com,2022-09-22:/JuliaPlots/PlotDocs.jl</id>
+    <link href="https://github.com/JuliaPlots/PlotDocs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for Plots.jl&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>timholy/MethodAnalysis.jl</title>
-    <updated>2022-09-21T01:39:05Z</updated>
-    <id>tag:github.com,2022-09-21:/timholy/MethodAnalysis.jl</id>
-    <link href="https://github.com/timholy/MethodAnalysis.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilities to analyze Julia&#39;s method tables&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaGeometry/Meshes.jl</title>
-    <updated>2022-09-21T01:39:05Z</updated>
-    <id>tag:github.com,2022-09-21:/JuliaGeometry/Meshes.jl</id>
-    <link href="https://github.com/JuliaGeometry/Meshes.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Computational geometry and meshing algorithms in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fncbook/FundamentalsNumericalComputation.jl</title>
+    <updated>2022-09-22T01:34:25Z</updated>
+    <id>tag:github.com,2022-09-22:/fncbook/FundamentalsNumericalComputation.jl</id>
+    <link href="https://github.com/fncbook/FundamentalsNumericalComputation.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core functions for the Julia (2nd) edition of the text Fundamentals of Numerical Computation, by Driscoll and Braun.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

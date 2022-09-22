@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:34:41Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-22T01:30:46Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/oss-ssc-framework</title>
-    <updated>2022-09-21T01:34:41Z</updated>
-    <id>tag:github.com,2022-09-21:/microsoft/oss-ssc-framework</id>
-    <link href="https://github.com/microsoft/oss-ssc-framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open Source Software Secure Supply Chain Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>macbian-linux/macos-subsystem-for-linux</title>
+    <updated>2022-09-22T01:30:46Z</updated>
+    <id>tag:github.com,2022-09-22:/macbian-linux/macos-subsystem-for-linux</id>
+    <link href="https://github.com/macbian-linux/macos-subsystem-for-linux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guide on how to use Qemu to create a similar effect to Windows Subsystem for Linux on macOS. Unfinished; contributions are welcome!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CyberSecurityUP/Cloud-Security-Attacks</title>
-    <updated>2022-09-21T01:34:41Z</updated>
-    <id>tag:github.com,2022-09-21:/CyberSecurityUP/Cloud-Security-Attacks</id>
-    <link href="https://github.com/CyberSecurityUP/Cloud-Security-Attacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Azure and AWS Attacks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>metaplex-foundation/metaplex</title>
+    <updated>2022-09-22T01:30:46Z</updated>
+    <id>tag:github.com,2022-09-22:/metaplex-foundation/metaplex</id>
+    <link href="https://github.com/metaplex-foundation/metaplex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A directory of what the Metaplex Foundation works on!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JunweiLiang/awesome_lists</title>
-    <updated>2022-09-21T01:34:41Z</updated>
-    <id>tag:github.com,2022-09-21:/JunweiLiang/awesome_lists</id>
-    <link href="https://github.com/JunweiLiang/awesome_lists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome Lists for Tenure-Track Assistant Professors and PhD students. (助理教授/博士生生存指南)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lukasz-madon/awesome-remote-job</title>
+    <updated>2022-09-22T01:30:46Z</updated>
+    <id>tag:github.com,2022-09-22:/lukasz-madon/awesome-remote-job</id>
+    <link href="https://github.com/lukasz-madon/awesome-remote-job" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

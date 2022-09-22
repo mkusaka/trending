@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:37:15Z</updated>
+  <updated>2022-09-22T01:32:44Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>akhansari/FSharp.OpenApi</title>
-    <updated>2022-09-21T01:37:15Z</updated>
-    <id>tag:github.com,2022-09-21:/akhansari/FSharp.OpenApi</id>
-    <link href="https://github.com/akhansari/FSharp.OpenApi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;F# Wrapper for OpenAPI.NET&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;FSharp OpenAPI &lt;a href=&#34;https://www.nuget.org/packages/FSharp.OpenApi&#34;&gt;&lt;img src=&#34;https://img.shields.io/nuget/v/FSharp.OpenApi.svg?sanitize=true&#34; alt=&#34;NuGet Status&#34;&gt;&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;F# Wrapper for &lt;a href=&#34;https://github.com/microsoft/OpenAPI.NET&#34;&gt;OpenAPI.NET SDK&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Describe API specifications with computation expressions.&lt;/li&gt; &#xA; &lt;li&gt;Provide helpers for F# libraries to write specifications and exposing them to Swagger UI.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;This is still a work in progress project and breaking changes could be frequent.&lt;br&gt; Contributions are welcome.&lt;/p&gt; &#xA;&lt;h3&gt;Example Usage&lt;/h3&gt; &#xA;&lt;p&gt;Creating an OpenAPI document&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-fsharp&#34;&gt;let document =&#xA;    apiDocument {&#xA;        info (apiInfo {&#xA;            version &#34;1.0.0&#34;&#xA;            title &#34;Swagger Petstore (Simple)&#34;&#xA;        })&#xA;        servers [&#xA;            apiServer {&#xA;                url &#34;http://petstore.swagger.io/api&#34;&#xA;            }&#xA;        ]&#xA;        paths [&#xA;            &#34;/pets&#34;, apiPathItem {&#xA;                operations [&#xA;                    OperationType.Get, apiOperation {&#xA;                        description &#34;Returns all pets from the system that the user has access to&#34;&#xA;                        responses [&#xA;                            HttpStatusCode.OK, apiResponse {&#xA;                                description &#34;OK&#34;&#xA;                            }&#xA;                        ]&#xA;                    }&#xA;                ]&#xA;            }&#xA;        ]&#xA;    }&#xA;&#xA;let outputString =&#xA;    document.Serialize (OpenApiSpecVersion.OpenApi3_0, OpenApiFormat.Json)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

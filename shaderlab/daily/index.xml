@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:42:01Z</updated>
+  <updated>2022-09-22T01:37:14Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>markwright2002/Game_jam_G3</title>
-    <updated>2022-09-21T01:42:01Z</updated>
-    <id>tag:github.com,2022-09-21:/markwright2002/Game_jam_G3</id>
-    <link href="https://github.com/markwright2002/Game_jam_G3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phi-lira/UniversalShaderExamples</title>
+    <updated>2022-09-22T01:37:14Z</updated>
+    <id>tag:github.com,2022-09-22:/phi-lira/UniversalShaderExamples</id>
+    <link href="https://github.com/phi-lira/UniversalShaderExamples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sand box project containing example shaders and assets compatible with Unity Universal Render Pipeline.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

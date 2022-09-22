@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:35:20Z</updated>
+  <updated>2022-09-22T01:31:07Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sweety-apps/yungujia_proj</title>
-    <updated>2022-09-21T01:35:20Z</updated>
-    <id>tag:github.com,2022-09-21:/sweety-apps/yungujia_proj</id>
-    <link href="https://github.com/sweety-apps/yungujia_proj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;project of yungujia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dmohindru/cod5e</title>
+    <updated>2022-09-22T01:31:07Z</updated>
+    <id>tag:github.com,2022-09-22:/dmohindru/cod5e</id>
+    <link href="https://github.com/dmohindru/cod5e" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for exercises for Computer Organization and Design: The Hardware/Software Interface 5th Edition&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dev43/harpocrates</title>
+    <updated>2022-09-22T01:31:07Z</updated>
+    <id>tag:github.com,2022-09-22:/Dev43/harpocrates</id>
+    <link href="https://github.com/Dev43/harpocrates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤫 🔑 Harpocrates, the god of silence and secrets. 🔐🗝️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

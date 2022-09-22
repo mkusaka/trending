@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:40:17Z</updated>
+  <updated>2022-09-22T01:35:32Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>batsh-dev-team/Batsh</title>
-    <updated>2022-09-21T01:40:17Z</updated>
-    <id>tag:github.com,2022-09-21:/batsh-dev-team/Batsh</id>
-    <link href="https://github.com/batsh-dev-team/Batsh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A language that compiles to Bash and Windows Batch&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>criticic/llpp</title>
+    <updated>2022-09-22T01:35:32Z</updated>
+    <id>tag:github.com,2022-09-22:/criticic/llpp</id>
+    <link href="https://github.com/criticic/llpp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;llpp original source code before it turned to protestware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

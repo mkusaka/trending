@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:39:46Z</updated>
+  <updated>2022-09-22T01:35:05Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>verivital/nnv</title>
-    <updated>2022-09-21T01:39:46Z</updated>
-    <id>tag:github.com,2022-09-21:/verivital/nnv</id>
-    <link href="https://github.com/verivital/nnv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neural Network Verification Software Tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dsteinmo/bandLimFourierInterp</title>
+    <updated>2022-09-22T01:35:05Z</updated>
+    <id>tag:github.com,2022-09-22:/dsteinmo/bandLimFourierInterp</id>
+    <link href="https://github.com/dsteinmo/bandLimFourierInterp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Band-limited periodic Fourier interpolation in one- and two-dimensions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>randybeard/uavbook</title>
+    <updated>2022-09-22T01:35:05Z</updated>
+    <id>tag:github.com,2022-09-22:/randybeard/uavbook</id>
+    <link href="https://github.com/randybeard/uavbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for the textbook: Small Unmanned Aircraft: Theory and Practice, by Randy Beard and Tim McLain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

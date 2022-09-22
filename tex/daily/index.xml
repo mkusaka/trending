@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:42:48Z</updated>
+  <updated>2022-09-22T01:38:00Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ASDS-TCD/StatsI_Fall2022</title>
-    <updated>2022-09-21T01:42:48Z</updated>
-    <id>tag:github.com,2022-09-21:/ASDS-TCD/StatsI_Fall2022</id>
-    <link href="https://github.com/ASDS-TCD/StatsI_Fall2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Repository for Applied Stats I @ TCD in Fall 2022&lt;/h1&gt; &#xA;&lt;p&gt;Here, you can find code for in-person tutorials, .pdfs for practice, as well as problem sets.&lt;/p&gt;</summary>
+    <title>dfm/araa-gps</title>
+    <updated>2022-09-22T01:38:00Z</updated>
+    <id>tag:github.com,2022-09-22:/dfm/araa-gps</id>
+    <link href="https://github.com/dfm/araa-gps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Souce code for our ARA&amp;A review of Gaussian process regression for astronomical time-series&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://github.com/dfm/araa-gps/actions/workflows/build.yml&#34;&gt; &lt;img src=&#34;https://github.com/dfm/araa-gps/actions/workflows/build.yml/badge.svg?branch=main&#34; alt=&#34;Article status&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://github.com/dfm/araa-gps/raw/main-pdf/arxiv.tar.gz&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/article-tarball-blue.svg?style=flat&#34; alt=&#34;Article tarball&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://github.com/dfm/araa-gps/raw/main-pdf/ms.pdf&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/article-pdf-blue.svg?style=flat&#34; alt=&#34;Read the article&#34;&gt; &lt;/a&gt; &lt;/p&gt; &#xA;&lt;h1&gt;Gaussian Process regression for astronomical time-series&lt;/h1&gt; &#xA;&lt;h3&gt;Suzanne Aigrain &amp;amp; Daniel Foreman-Mackey&lt;/h3&gt; &#xA;&lt;p&gt;This is the source code for our submitted &lt;a href=&#34;https://www.annualreviews.org/journal/astro&#34;&gt;Annual Review of Astronomy &amp;amp; Astrophysics&lt;/a&gt; titled &#34;Gaussian Process regression for astronomical time-series&#34;. Most of the figures in this submission are generated using scripts in this repository via the &lt;a href=&#34;https://github.com/showyourwork/showyourwork&#34;&gt;showyourwork&lt;/a&gt; workflow. To set up your environment, you can use the &lt;code&gt;conda&lt;/code&gt; environment defined in &lt;code&gt;environment.yml&lt;/code&gt;, and then run the Jupyter notebooks in &lt;code&gt;src/scripts&lt;/code&gt; to generate the figures. To re-build the full manuscript, take a look at the &lt;a href=&#34;https://show-your.work&#34;&gt;showyourwork documentation&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>yqh/ece252</title>
-    <updated>2022-09-21T01:42:48Z</updated>
-    <id>tag:github.com,2022-09-21:/yqh/ece252</id>
-    <link href="https://github.com/yqh/ece252" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Systems Programming and Concurrency Lab&lt;/p&gt;&lt;hr&gt;&lt;p&gt;University of Waterloo ECE252 Systems Programming and Concurrency Lab Starter Files and Manual&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>tboult/CS6000-F22-Gitassignment</title>
-    <updated>2022-09-21T01:42:48Z</updated>
-    <id>tag:github.com,2022-09-21:/tboult/CS6000-F22-Gitassignment</id>
-    <link href="https://github.com/tboult/CS6000-F22-Gitassignment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CS6000-F22-Gitassignment&lt;/h1&gt;</summary>
+    <title>NCEAS/scalable-computing-course</title>
+    <updated>2022-09-22T01:38:00Z</updated>
+    <id>tag:github.com,2022-09-22:/NCEAS/scalable-computing-course</id>
+    <link href="https://github.com/NCEAS/scalable-computing-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Materials and lessons for python-based data science short courses on scalable computing&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scalable-computing-course&lt;/h1&gt; &#xA;&lt;p&gt;Materials and lessons for python-based data science short courses on scalable computing&lt;/p&gt;</summary>
   </entry>
 </feed>

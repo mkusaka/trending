@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:41:22Z</updated>
+  <updated>2022-09-22T01:36:39Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ngharo/ubuntu-nexus7-minimal-livebuild</title>
-    <updated>2022-09-21T01:41:22Z</updated>
-    <id>tag:github.com,2022-09-21:/ngharo/ubuntu-nexus7-minimal-livebuild</id>
-    <link href="https://github.com/ngharo/ubuntu-nexus7-minimal-livebuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ubuntu live-build configs for building Nexus 7 rootfs tarballs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

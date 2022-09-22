@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:39:58Z</updated>
+  <updated>2022-09-22T01:35:17Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Gabriella439/macos-builder</title>
-    <updated>2022-09-21T01:39:58Z</updated>
-    <id>tag:github.com,2022-09-21:/Gabriella439/macos-builder</id>
-    <link href="https://github.com/Gabriella439/macos-builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap a Linux build VM on macOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>the-nix-way/nome</title>
+    <updated>2022-09-22T01:35:17Z</updated>
+    <id>tag:github.com,2022-09-22:/the-nix-way/nome</id>
+    <link href="https://github.com/the-nix-way/nome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Nix home&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nix-community/nur-packages-template</title>
-    <updated>2022-09-21T01:39:58Z</updated>
-    <id>tag:github.com,2022-09-21:/nix-community/nur-packages-template</id>
-    <link href="https://github.com/nix-community/nur-packages-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template for NUR repositories: [maintainer=@fgaz]&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flyx/Zicross</title>
+    <updated>2022-09-22T01:35:17Z</updated>
+    <id>tag:github.com,2022-09-22:/flyx/Zicross</id>
+    <link href="https://github.com/flyx/Zicross" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix Flake for cross-compiling and packaging for foreign systems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

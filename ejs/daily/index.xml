@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:36:56Z</updated>
+  <updated>2022-09-22T01:32:31Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lighthouse-labs/HTML-sea-shanty</title>
+    <updated>2022-09-22T01:32:31Z</updated>
+    <id>tag:github.com,2022-09-22:/lighthouse-labs/HTML-sea-shanty</id>
+    <link href="https://github.com/lighthouse-labs/HTML-sea-shanty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The HTML Sea Shanty webpage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

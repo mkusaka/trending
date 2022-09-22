@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub FreeMarker Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:37:21Z</updated>
+  <updated>2022-09-22T01:32:48Z</updated>
   <subtitle>Daily Trending of FreeMarker in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>liaocp666/halo-theme-daisy</title>
-    <updated>2022-09-21T01:37:21Z</updated>
-    <id>tag:github.com,2022-09-21:/liaocp666/halo-theme-daisy</id>
-    <link href="https://github.com/liaocp666/halo-theme-daisy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;白色、简洁、个人博客的 halo 主题&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

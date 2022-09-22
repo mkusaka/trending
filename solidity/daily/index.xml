@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:42:21Z</updated>
+  <updated>2022-09-22T01:37:37Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WagameDAO/forked-multisig-wallet</title>
-    <updated>2022-09-21T01:42:21Z</updated>
-    <id>tag:github.com,2022-09-21:/WagameDAO/forked-multisig-wallet</id>
-    <link href="https://github.com/WagameDAO/forked-multisig-wallet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-Sig Wallet forked from Solidity by Example version 0.8.13&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cheethas/governor-of-athens</title>
-    <updated>2022-09-21T01:42:21Z</updated>
-    <id>tag:github.com,2022-09-21:/cheethas/governor-of-athens</id>
-    <link href="https://github.com/cheethas/governor-of-athens" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Governor of Athens: A protocol to enable private governance on existing governor bravo contracts by leveraging Aztec&#39;s Defi Batching&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dragonfly-xyz/useful-solidity-patterns</title>
-    <updated>2022-09-21T01:42:21Z</updated>
-    <id>tag:github.com,2022-09-21:/dragonfly-xyz/useful-solidity-patterns</id>
-    <link href="https://github.com/dragonfly-xyz/useful-solidity-patterns" rel="alternate"></link>
+    <title>code-423n4/2022-09-artgobblers</title>
+    <updated>2022-09-22T01:37:37Z</updated>
+    <id>tag:github.com,2022-09-22:/code-423n4/2022-09-artgobblers</id>
+    <link href="https://github.com/code-423n4/2022-09-artgobblers" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FractonProtocol/FractonV1</title>
+    <updated>2022-09-22T01:37:37Z</updated>
+    <id>tag:github.com,2022-09-22:/FractonProtocol/FractonV1</id>
+    <link href="https://github.com/FractonProtocol/FractonV1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Destiner/hollander-core</title>
+    <updated>2022-09-22T01:37:37Z</updated>
+    <id>tag:github.com,2022-09-22:/Destiner/hollander-core</id>
+    <link href="https://github.com/Destiner/hollander-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERC20 token swaps via gradual dutch auctions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

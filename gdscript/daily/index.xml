@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:37:23Z</updated>
+  <updated>2022-09-22T01:32:50Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spicylobstergames/shotcaller-godot</title>
+    <updated>2022-09-22T01:32:50Z</updated>
+    <id>tag:github.com,2022-09-22:/spicylobstergames/shotcaller-godot</id>
+    <link href="https://github.com/spicylobstergames/shotcaller-godot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2D top-down 1v1 MOBA with autonomous units. Design doc below 👇&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nezvers/Godot-GameTemplate</title>
+    <updated>2022-09-22T01:32:50Z</updated>
+    <id>tag:github.com,2022-09-22:/nezvers/Godot-GameTemplate</id>
+    <link href="https://github.com/nezvers/Godot-GameTemplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template with all necessary stuff taken care, just create your games main features.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

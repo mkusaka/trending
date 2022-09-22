@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Yacc Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-21T01:43:22Z</updated>
+  <updated>2022-09-22T01:38:31Z</updated>
   <subtitle>Daily Trending of Yacc in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>meyerd/flex-bison-example</title>
+    <updated>2022-09-22T01:38:31Z</updated>
+    <id>tag:github.com,2022-09-22:/meyerd/flex-bison-example</id>
+    <link href="https://github.com/meyerd/flex-bison-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple example demonstrating a calculator written with flex/bison&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
