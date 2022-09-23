@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:35:17Z</updated>
+  <updated>2022-09-23T01:35:55Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>the-nix-way/nome</title>
-    <updated>2022-09-22T01:35:17Z</updated>
-    <id>tag:github.com,2022-09-22:/the-nix-way/nome</id>
-    <link href="https://github.com/the-nix-way/nome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Nix home&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flyx/Zicross</title>
-    <updated>2022-09-22T01:35:17Z</updated>
-    <id>tag:github.com,2022-09-22:/flyx/Zicross</id>
-    <link href="https://github.com/flyx/Zicross" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix Flake for cross-compiling and packaging for foreign systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tylerjl/benchmarking-proxies</title>
+    <updated>2022-09-23T01:35:55Z</updated>
+    <id>tag:github.com,2022-09-23:/tylerjl/benchmarking-proxies</id>
+    <link href="https://github.com/tylerjl/benchmarking-proxies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automation to perform automated benchmarks against reverse proxy services.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

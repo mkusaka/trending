@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:37:37Z</updated>
+  <updated>2022-09-23T01:38:26Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2022-09-artgobblers</title>
-    <updated>2022-09-22T01:37:37Z</updated>
-    <id>tag:github.com,2022-09-22:/code-423n4/2022-09-artgobblers</id>
-    <link href="https://github.com/code-423n4/2022-09-artgobblers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>artgobblers/art-gobblers</title>
+    <updated>2022-09-23T01:38:26Z</updated>
+    <id>tag:github.com,2022-09-23:/artgobblers/art-gobblers</id>
+    <link href="https://github.com/artgobblers/art-gobblers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experimental decentralized art factory by Justin Roiland and Paradigm.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FractonProtocol/FractonV1</title>
-    <updated>2022-09-22T01:37:37Z</updated>
-    <id>tag:github.com,2022-09-22:/FractonProtocol/FractonV1</id>
-    <link href="https://github.com/FractonProtocol/FractonV1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abigger87/huffplate</title>
+    <updated>2022-09-23T01:38:26Z</updated>
+    <id>tag:github.com,2022-09-23:/abigger87/huffplate</id>
+    <link href="https://github.com/abigger87/huffplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robust, Extensible Template for Huff Projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Destiner/hollander-core</title>
-    <updated>2022-09-22T01:37:37Z</updated>
-    <id>tag:github.com,2022-09-22:/Destiner/hollander-core</id>
-    <link href="https://github.com/Destiner/hollander-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ERC20 token swaps via gradual dutch auctions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZeframLou/bagholder</title>
+    <updated>2022-09-23T01:38:26Z</updated>
+    <id>tag:github.com,2022-09-23:/ZeframLou/bagholder</id>
+    <link href="https://github.com/ZeframLou/bagholder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reward holders of an NFT without needing their NFTs to leave their wallets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

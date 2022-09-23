@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:34:25Z</updated>
+  <updated>2022-09-23T01:35:02Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaPlots/PlotDocs.jl</title>
-    <updated>2022-09-22T01:34:25Z</updated>
-    <id>tag:github.com,2022-09-22:/JuliaPlots/PlotDocs.jl</id>
-    <link href="https://github.com/JuliaPlots/PlotDocs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for Plots.jl&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/CloudMicrophysics.jl</title>
+    <updated>2022-09-23T01:35:02Z</updated>
+    <id>tag:github.com,2022-09-23:/CliMA/CloudMicrophysics.jl</id>
+    <link href="https://github.com/CliMA/CloudMicrophysics.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library of cloud microphysics parameterizations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fncbook/FundamentalsNumericalComputation.jl</title>
-    <updated>2022-09-22T01:34:25Z</updated>
-    <id>tag:github.com,2022-09-22:/fncbook/FundamentalsNumericalComputation.jl</id>
-    <link href="https://github.com/fncbook/FundamentalsNumericalComputation.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core functions for the Julia (2nd) edition of the text Fundamentals of Numerical Computation, by Driscoll and Braun.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sauterl/VBS22-AVS-Analysis</title>
+    <updated>2022-09-23T01:35:02Z</updated>
+    <id>tag:github.com,2022-09-23:/sauterl/VBS22-AVS-Analysis</id>
+    <link href="https://github.com/sauterl/VBS22-AVS-Analysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VBS 2022 AVS Analysis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaStats/StatsFuns.jl</title>
+    <updated>2022-09-23T01:35:02Z</updated>
+    <id>tag:github.com,2022-09-23:/JuliaStats/StatsFuns.jl</id>
+    <link href="https://github.com/JuliaStats/StatsFuns.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mathematical functions related to statistics.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

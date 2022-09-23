@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:38:25Z</updated>
+  <updated>2022-09-23T01:39:26Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hu-snail/vue-sheep</title>
-    <updated>2022-09-22T01:38:25Z</updated>
-    <id>tag:github.com,2022-09-22:/hu-snail/vue-sheep</id>
-    <link href="https://github.com/hu-snail/vue-sheep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;使用Vue + nodeJs 实现羊了个🐑助手,本项目仅学习使用切勿商用，后果自负！！！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zwave-js/zwave-js-ui</title>
+    <updated>2022-09-23T01:39:26Z</updated>
+    <id>tag:github.com,2022-09-23:/zwave-js/zwave-js-ui</id>
+    <link href="https://github.com/zwave-js/zwave-js-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>seeksdream/relation-graph</title>
-    <updated>2022-09-22T01:38:25Z</updated>
-    <id>tag:github.com,2022-09-22:/seeksdream/relation-graph</id>
-    <link href="https://github.com/seeksdream/relation-graph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure graph, group relationship graph,&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MLoth/Birds-</title>
+    <updated>2022-09-23T01:39:26Z</updated>
+    <id>tag:github.com,2022-09-23:/MLoth/Birds-</id>
+    <link href="https://github.com/MLoth/Birds-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>widcardw/D4nm4ku</title>
-    <updated>2022-09-22T01:38:25Z</updated>
-    <id>tag:github.com,2022-09-22:/widcardw/D4nm4ku</id>
-    <link href="https://github.com/widcardw/D4nm4ku" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;使用 Tauri 写一个弹幕姬 A danmaku viewer based on Tauri and Vue&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bokub/vanity-eth</title>
+    <updated>2022-09-23T01:39:26Z</updated>
+    <id>tag:github.com,2022-09-23:/bokub/vanity-eth</id>
+    <link href="https://github.com/bokub/vanity-eth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Browser-based ETH vanity address generator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

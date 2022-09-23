@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:31:07Z</updated>
+  <updated>2022-09-23T01:31:24Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dmohindru/cod5e</title>
-    <updated>2022-09-22T01:31:07Z</updated>
-    <id>tag:github.com,2022-09-22:/dmohindru/cod5e</id>
-    <link href="https://github.com/dmohindru/cod5e" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for exercises for Computer Organization and Design: The Hardware/Software Interface 5th Edition&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mmasztalerczuk/Others</title>
+    <updated>2022-09-23T01:31:24Z</updated>
+    <id>tag:github.com,2022-09-23:/mmasztalerczuk/Others</id>
+    <link href="https://github.com/mmasztalerczuk/Others" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Others&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Dev43/harpocrates</title>
-    <updated>2022-09-22T01:31:07Z</updated>
-    <id>tag:github.com,2022-09-22:/Dev43/harpocrates</id>
-    <link href="https://github.com/Dev43/harpocrates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤫 🔑 Harpocrates, the god of silence and secrets. 🔐🗝️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ralferoo/sugarlumps</title>
+    <updated>2022-09-23T01:31:24Z</updated>
+    <id>tag:github.com,2022-09-23:/ralferoo/sugarlumps</id>
+    <link href="https://github.com/ralferoo/sugarlumps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CPC sugarlumps demo - released at Sundown 2012&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>now/pcp-yes-no</title>
+    <updated>2022-09-23T01:31:24Z</updated>
+    <id>tag:github.com,2022-09-23:/now/pcp-yes-no</id>
+    <link href="https://github.com/now/pcp-yes-no" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;“Humourous” little program that I wrote ages ago that shows a Yes/No dialog and switches them when you try to press Yes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

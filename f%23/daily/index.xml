@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:32:44Z</updated>
+  <updated>2022-09-23T01:33:05Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adacola/NintendoCodePuzzle</title>
+    <updated>2022-09-23T01:33:05Z</updated>
+    <id>tag:github.com,2022-09-23:/adacola/NintendoCodePuzzle</id>
+    <link href="https://github.com/adacola/NintendoCodePuzzle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;http://cp1.nintendo.co.jp/ の問題をF#で解答した。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:31:06Z</updated>
+  <updated>2022-09-23T01:31:22Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>craftzdog/craftzdog-uses</title>
+    <updated>2022-09-23T01:31:22Z</updated>
+    <id>tag:github.com,2022-09-23:/craftzdog/craftzdog-uses</id>
+    <link href="https://github.com/craftzdog/craftzdog-uses" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of the tech I use, built with Astro and Tailwind CSS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>manfredsteyer/astro-last-minute</title>
+    <updated>2022-09-23T01:31:22Z</updated>
+    <id>tag:github.com,2022-09-23:/manfredsteyer/astro-last-minute</id>
+    <link href="https://github.com/manfredsteyer/astro-last-minute" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>midudev/frontend-mentor-challenges</title>
+    <updated>2022-09-23T01:31:22Z</updated>
+    <id>tag:github.com,2022-09-23:/midudev/frontend-mentor-challenges</id>
+    <link href="https://github.com/midudev/frontend-mentor-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resolviendo retos de Frontend Mentor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

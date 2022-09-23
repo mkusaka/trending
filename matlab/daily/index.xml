@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:35:05Z</updated>
+  <updated>2022-09-23T01:35:40Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dsteinmo/bandLimFourierInterp</title>
-    <updated>2022-09-22T01:35:05Z</updated>
-    <id>tag:github.com,2022-09-22:/dsteinmo/bandLimFourierInterp</id>
-    <link href="https://github.com/dsteinmo/bandLimFourierInterp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Band-limited periodic Fourier interpolation in one- and two-dimensions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>UTulsa-Hook/FormulaECE_SrDesign2023</title>
+    <updated>2022-09-23T01:35:40Z</updated>
+    <id>tag:github.com,2022-09-23:/UTulsa-Hook/FormulaECE_SrDesign2023</id>
+    <link href="https://github.com/UTulsa-Hook/FormulaECE_SrDesign2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The home for all of the code for the Fall 2022 (Class of 2023) Formula ECE Sr Design Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>randybeard/uavbook</title>
-    <updated>2022-09-22T01:35:05Z</updated>
-    <id>tag:github.com,2022-09-22:/randybeard/uavbook</id>
-    <link href="https://github.com/randybeard/uavbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for the textbook: Small Unmanned Aircraft: Theory and Practice, by Randy Beard and Tim McLain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>llorz/3DV22_DeformingThings4DMatching_dataset</title>
+    <updated>2022-09-23T01:35:40Z</updated>
+    <id>tag:github.com,2022-09-23:/llorz/3DV22_DeformingThings4DMatching_dataset</id>
+    <link href="https://github.com/llorz/3DV22_DeformingThings4DMatching_dataset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A new dataset adapted from DeformThings4D for non-isometric shape matching task&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matlab2tikz/matlab2tikz</title>
+    <updated>2022-09-23T01:35:40Z</updated>
+    <id>tag:github.com,2022-09-23:/matlab2tikz/matlab2tikz</id>
+    <link href="https://github.com/matlab2tikz/matlab2tikz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This program converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

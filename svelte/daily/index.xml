@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:37:46Z</updated>
+  <updated>2022-09-23T01:38:35Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>reuters-graphics/example_svelte-graph-patterns</title>
-    <updated>2022-09-22T01:37:46Z</updated>
-    <id>tag:github.com,2022-09-22:/reuters-graphics/example_svelte-graph-patterns</id>
-    <link href="https://github.com/reuters-graphics/example_svelte-graph-patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of examples and templates for working with Svelte in a number of situations that commonly arise when building D3 graphs, scrollytelling webpages and other kinds of projects we often produce.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

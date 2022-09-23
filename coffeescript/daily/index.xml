@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-22T01:31:57Z</updated>
+  <updated>2022-09-23T01:32:13Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gotmayonase/node-toolbox</title>
-    <updated>2022-09-22T01:31:57Z</updated>
-    <id>tag:github.com,2022-09-22:/gotmayonase/node-toolbox</id>
-    <link href="https://github.com/gotmayonase/node-toolbox" rel="alternate"></link>
+    <title>KirillTemnov/node-pocket</title>
+    <updated>2022-09-23T01:32:13Z</updated>
+    <id>tag:github.com,2022-09-23:/KirillTemnov/node-pocket</id>
+    <link href="https://github.com/KirillTemnov/node-pocket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;API bindings to getpocket.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>notnottilde/ac-roomserver</title>
+    <updated>2022-09-23T01:32:13Z</updated>
+    <id>tag:github.com,2022-09-23:/notnottilde/ac-roomserver</id>
+    <link href="https://github.com/notnottilde/ac-roomserver" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jameskeane/livetransit</title>
-    <updated>2022-09-22T01:31:57Z</updated>
-    <id>tag:github.com,2022-09-22:/jameskeane/livetransit</id>
-    <link href="https://github.com/jameskeane/livetransit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Leaflet + NextBusAPI mashup&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>audreyt/batbone</title>
+    <updated>2022-09-23T01:32:13Z</updated>
+    <id>tag:github.com,2022-09-23:/audreyt/batbone</id>
+    <link href="https://github.com/audreyt/batbone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Batman-esque framework built on Backbone&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
