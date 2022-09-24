@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-23T01:30:56Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-24T01:32:10Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Launch-X-Latam/OnBoarding</title>
-    <updated>2022-09-23T01:30:56Z</updated>
-    <id>tag:github.com,2022-09-23:/Launch-X-Latam/OnBoarding</id>
-    <link href="https://github.com/Launch-X-Latam/OnBoarding" rel="alternate"></link>
+    <title>3xp0rt/LockBit-Black-Builder</title>
+    <updated>2022-09-24T01:32:10Z</updated>
+    <id>tag:github.com,2022-09-24:/3xp0rt/LockBit-Black-Builder</id>
+    <link href="https://github.com/3xp0rt/LockBit-Black-Builder" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MahdiMashrur/Awesome-Application-Security-Checklist</title>
-    <updated>2022-09-23T01:30:56Z</updated>
-    <id>tag:github.com,2022-09-23:/MahdiMashrur/Awesome-Application-Security-Checklist</id>
-    <link href="https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Checklist of the most important security countermeasures when designing, creating, testing your web/mobile application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FavioVazquez/ds-cheatsheets</title>
+    <updated>2022-09-24T01:32:10Z</updated>
+    <id>tag:github.com,2022-09-24:/FavioVazquez/ds-cheatsheets</id>
+    <link href="https://github.com/FavioVazquez/ds-cheatsheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Data Science Cheatsheets to rule the world&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CScorza/OSINT-FORENSICS-MOBILE</title>
-    <updated>2022-09-23T01:30:56Z</updated>
-    <id>tag:github.com,2022-09-23:/CScorza/OSINT-FORENSICS-MOBILE</id>
-    <link href="https://github.com/CScorza/OSINT-FORENSICS-MOBILE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools OSINT MOBILE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tanprathan/MobileApp-Pentest-Cheatsheet</title>
+    <updated>2022-09-24T01:32:10Z</updated>
+    <id>tag:github.com,2022-09-24:/tanprathan/MobileApp-Pentest-Cheatsheet</id>
+    <link href="https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

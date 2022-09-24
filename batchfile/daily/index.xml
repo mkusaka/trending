@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-23T01:31:27Z</updated>
+  <updated>2022-09-24T01:32:44Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kmille36/Go-Deploy-Windows-11-NGROK-RDP</title>
-    <updated>2022-09-23T01:31:27Z</updated>
-    <id>tag:github.com,2022-09-23:/kmille36/Go-Deploy-Windows-11-NGROK-RDP</id>
-    <link href="https://github.com/kmille36/Go-Deploy-Windows-11-NGROK-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is RDP tutorial for Go Deploy Demo Lab.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>enryteam/smart-city</title>
+    <updated>2022-09-24T01:32:44Z</updated>
+    <id>tag:github.com,2022-09-24:/enryteam/smart-city</id>
+    <link href="https://github.com/enryteam/smart-city" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;因为专注久了所以更专业，可视化|三维|3D|数字|智慧|智能|物联网|集成|网关|边缘|采控|unity|ue4|thingjs|threejs|webgl|大屏|仿真|虚拟|VR|大数据|云平台|iot|开发|app|小程序|软件|展厅|弱电|中台|农业|安全生产|园区|bim|建筑 等这些是都是能快速识别出我们标签...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HenGaming13/freeRDP_2022</title>
+    <updated>2022-09-24T01:32:44Z</updated>
+    <id>tag:github.com,2022-09-24:/HenGaming13/freeRDP_2022</id>
+    <link href="https://github.com/HenGaming13/freeRDP_2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Infinity Time&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

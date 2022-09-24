@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-23T01:32:09Z</updated>
+  <updated>2022-09-24T01:33:24Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mathiasbn/Euler_Project</title>
-    <updated>2022-09-23T01:32:09Z</updated>
-    <id>tag:github.com,2022-09-23:/mathiasbn/Euler_Project</id>
-    <link href="https://github.com/mathiasbn/Euler_Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quoll/clormat</title>
+    <updated>2022-09-24T01:33:24Z</updated>
+    <id>tag:github.com,2022-09-24:/quoll/clormat</id>
+    <link href="https://github.com/quoll/clormat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reimplementation of Java string formatting&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oiiku/oiiku-data-validation</title>
+    <updated>2022-09-24T01:33:24Z</updated>
+    <id>tag:github.com,2022-09-24:/oiiku/oiiku-data-validation</id>
+    <link href="https://github.com/oiiku/oiiku-data-validation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure library to validate data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>roman01la/cljs-worklet</title>
+    <updated>2022-09-24T01:33:24Z</updated>
+    <id>tag:github.com,2022-09-24:/roman01la/cljs-worklet</id>
+    <link href="https://github.com/roman01la/cljs-worklet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run ClojureScript functions on a worklet thread in React Native&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

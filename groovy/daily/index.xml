@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-23T01:33:36Z</updated>
+  <updated>2022-09-24T01:34:38Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>macloujulian/nodejsapp</title>
-    <updated>2022-09-23T01:33:36Z</updated>
-    <id>tag:github.com,2022-09-23:/macloujulian/nodejsapp</id>
-    <link href="https://github.com/macloujulian/nodejsapp" rel="alternate"></link>
+    <title>iamkishore0/Jenkins_scripts</title>
+    <updated>2022-09-24T01:34:38Z</updated>
+    <id>tag:github.com,2022-09-24:/iamkishore0/Jenkins_scripts</id>
+    <link href="https://github.com/iamkishore0/Jenkins_scripts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>frontlinesms/flip</title>
-    <updated>2022-09-23T01:33:36Z</updated>
-    <id>tag:github.com,2022-09-23:/frontlinesms/flip</id>
-    <link href="https://github.com/frontlinesms/flip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grails48 Nairobi Hackathon repo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jmvrbanac/gradle-js-boilerplate</title>
-    <updated>2022-09-23T01:33:36Z</updated>
-    <id>tag:github.com,2022-09-23:/jmvrbanac/gradle-js-boilerplate</id>
-    <link href="https://github.com/jmvrbanac/gradle-js-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boilerplate Javascript project using Gradle and Jasmine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>milesburton/tdd-numbers-to-words</title>
+    <updated>2022-09-24T01:34:38Z</updated>
+    <id>tag:github.com,2022-09-24:/milesburton/tdd-numbers-to-words</id>
+    <link href="https://github.com/milesburton/tdd-numbers-to-words" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

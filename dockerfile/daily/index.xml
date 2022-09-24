@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-23T01:32:41Z</updated>
+  <updated>2022-09-24T01:33:56Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Crystal123-123/docker-compose</title>
-    <updated>2022-09-23T01:32:41Z</updated>
-    <id>tag:github.com,2022-09-23:/Crystal123-123/docker-compose</id>
-    <link href="https://github.com/Crystal123-123/docker-compose" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my-test&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>metacomp/nyu-cs2262-001-fa20</title>
+    <updated>2022-09-24T01:33:56Z</updated>
+    <id>tag:github.com,2022-09-24:/metacomp/nyu-cs2262-001-fa20</id>
+    <link href="https://github.com/metacomp/nyu-cs2262-001-fa20" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nyu-cs2262-001-fa20&lt;/h1&gt; &#xA;&lt;p&gt;CSCI-UA.0201-005 - Fall 2020&lt;/p&gt; &#xA;&lt;p&gt;Central repository for managing class activities and course information&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>IBM/oc-docker-s2i</title>
-    <updated>2022-09-23T01:32:41Z</updated>
-    <id>tag:github.com,2022-09-23:/IBM/oc-docker-s2i</id>
-    <link href="https://github.com/IBM/oc-docker-s2i" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deploying OpenShift application from Dockerfile using S2I capability&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Deploying OpenShift application from Dockerfile using S2I capability&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains sample code for the &lt;a href=&#34;https://developer.ibm.com/tutorials/deploy-applications-from-dockerfile-using-openshift-s2i/&#34;&gt;Use Red Hat OpenShift Source-to-Image to deploy applications from Dockerfiles&lt;/a&gt; tutorial on IBM Developer.&lt;/p&gt;</summary>
+    <title>Shantanumajan6/velocity-compose</title>
+    <updated>2022-09-24T01:33:56Z</updated>
+    <id>tag:github.com,2022-09-24:/Shantanumajan6/velocity-compose</id>
+    <link href="https://github.com/Shantanumajan6/velocity-compose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>portainer/templates</title>
+    <updated>2022-09-24T01:33:56Z</updated>
+    <id>tag:github.com,2022-09-24:/portainer/templates</id>
+    <link href="https://github.com/portainer/templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;App Templates used by Portainer&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;App Templates&lt;/h1&gt; &#xA;&lt;p&gt;This repository hosts the official templates (&lt;strong&gt;&#39;Apps Templates&#39;&lt;/strong&gt;) definitions for Portainer.&lt;/p&gt; &#xA;&lt;p&gt;For more information about the template definition format and how to deploy your own templates, see the &lt;a href=&#34;https://documentation.portainer.io/v2.0/templates/deploy_stack/&#34;&gt;relevant documentation section&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-23T01:32:29Z</updated>
+  <updated>2022-09-24T01:33:44Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thomasuster/BreadthFirstSearch</title>
-    <updated>2022-09-23T01:32:29Z</updated>
-    <id>tag:github.com,2022-09-23:/thomasuster/BreadthFirstSearch</id>
-    <link href="https://github.com/thomasuster/BreadthFirstSearch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Breadth First Search In Dart&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>leancodepl/patrol</title>
+    <updated>2022-09-24T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-24:/leancodepl/patrol</id>
+    <link href="https://github.com/leancodepl/patrol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flutter-first UI testing framework. Ready for action!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Patrol&lt;/h1&gt; &#xA;&lt;p&gt;Simple yet powerful Flutter-native UI testing framework eliminating limitations of &lt;code&gt;flutter_test&lt;/code&gt;, &lt;code&gt;integration_test&lt;/code&gt;, and &lt;code&gt;flutter_driver&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://pub.dartlang.org/packages/patrol&#34;&gt;&lt;img src=&#34;https://img.shields.io/pub/v/patrol?label=patrol&#34; alt=&#34;patrol on pub.dev&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://pub.dartlang.org/packages/patrol_cli&#34;&gt;&lt;img src=&#34;https://img.shields.io/pub/v/patrol_cli?label=patrol_cli&#34; alt=&#34;patrol_cli on pub.dev&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://pub.dartlang.org/packages/leancode_lint&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/style-leancode__lint-black&#34; alt=&#34;code style&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;CLI&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/leancodepl/patrol/tree/master/packages/patrol_cli&#34;&gt;packages/patrol_cli&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Package&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/leancodepl/patrol/tree/master/packages/patrol&#34;&gt;packages/patrol&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Release process&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Create a git tag:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ git tag patrol_cli-v0.3.4&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;Push it! GitHub Actions will take care of the rest.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
+  <entry>
+    <title>loft-br/flutter-architecture-example</title>
+    <updated>2022-09-24T01:33:44Z</updated>
+    <id>tag:github.com,2022-09-24:/loft-br/flutter-architecture-example</id>
+    <link href="https://github.com/loft-br/flutter-architecture-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ideas&lt;/h1&gt; &#xA;&lt;p&gt;A new Flutter project.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;This project is a starting point for a Flutter application.&lt;/p&gt; &#xA;&lt;p&gt;A few resources to get you started if this is your first Flutter project:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://flutter.dev/docs/get-started/codelab&#34;&gt;Lab: Write your first Flutter app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://flutter.dev/docs/cookbook&#34;&gt;Cookbook: Useful Flutter samples&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For help getting started with Flutter, view our &lt;a href=&#34;https://flutter.dev/docs&#34;&gt;online documentation&lt;/a&gt;, which offers tutorials, samples, guidance on mobile development, and a full API reference.&lt;/p&gt;</summary>
   </entry>
 </feed>

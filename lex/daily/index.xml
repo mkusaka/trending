@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-23T01:35:22Z</updated>
+  <updated>2022-09-24T01:36:05Z</updated>
   <subtitle>Daily Trending of Lex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MATA61-IC-2022-2/T1</title>
+    <updated>2022-09-24T01:36:05Z</updated>
+    <id>tag:github.com,2022-09-24:/MATA61-IC-2022-2/T1</id>
+    <link href="https://github.com/MATA61-IC-2022-2/T1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Trabalho Prático 1 - Implementação de Analisador Léxico&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

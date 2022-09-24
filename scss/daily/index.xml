@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-23T01:37:59Z</updated>
+  <updated>2022-09-24T01:38:36Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>app-generator/flask-soft-ui-dashboard</title>
-    <updated>2022-09-23T01:37:59Z</updated>
-    <id>tag:github.com,2022-09-23:/app-generator/flask-soft-ui-dashboard</id>
-    <link href="https://github.com/app-generator/flask-soft-ui-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Soft UI Dashboard - Open-source Flask Dashboard | AppSeed&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devaslanphp/help-desk</title>
+    <updated>2022-09-24T01:38:36Z</updated>
+    <id>tag:github.com,2022-09-24:/devaslanphp/help-desk</id>
+    <link href="https://github.com/devaslanphp/help-desk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open source Help desk based on Laravel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GradienceTeam/Gradience</title>
-    <updated>2022-09-23T01:37:59Z</updated>
-    <id>tag:github.com,2022-09-23:/GradienceTeam/Gradience</id>
-    <link href="https://github.com/GradienceTeam/Gradience" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradience is a tool for customizing Libadwaita applications and the adw-gtk3 theme.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ackarlse/webutvikling2022</title>
-    <updated>2022-09-23T01:37:59Z</updated>
-    <id>tag:github.com,2022-09-23:/ackarlse/webutvikling2022</id>
-    <link href="https://github.com/ackarlse/webutvikling2022" rel="alternate"></link>
+    <title>DACSS/603_Fall_2022</title>
+    <updated>2022-09-24T01:38:36Z</updated>
+    <id>tag:github.com,2022-09-24:/DACSS/603_Fall_2022</id>
+    <link href="https://github.com/DACSS/603_Fall_2022" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vinceliuice/Colloid-gtk-theme</title>
+    <updated>2022-09-24T01:38:36Z</updated>
+    <id>tag:github.com,2022-09-24:/vinceliuice/Colloid-gtk-theme</id>
+    <link href="https://github.com/vinceliuice/Colloid-gtk-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Colloid gtk theme for linux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
