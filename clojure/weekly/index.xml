@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:39:50Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>felipereigosa/mock-mechanics</title>
+    <updated>2022-09-25T01:39:50Z</updated>
+    <id>tag:github.com,2022-09-25:/felipereigosa/mock-mechanics</id>
+    <link href="https://github.com/felipereigosa/mock-mechanics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mechanical/visual programming language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seancorfield/build-uber-log4j2-handler</title>
+    <updated>2022-09-25T01:39:50Z</updated>
+    <id>tag:github.com,2022-09-25:/seancorfield/build-uber-log4j2-handler</id>
+    <link href="https://github.com/seancorfield/build-uber-log4j2-handler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conflict handler for log4j2 plugins cache files for the tools.build uber task.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/clojure-on-app-service</title>
+    <updated>2022-09-25T01:39:50Z</updated>
+    <id>tag:github.com,2022-09-25:/Azure-Samples/clojure-on-app-service</id>
+    <link href="https://github.com/Azure-Samples/clojure-on-app-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure web application and instructions for deploying it to Azure App Service&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

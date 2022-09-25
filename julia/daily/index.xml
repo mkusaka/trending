@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:35:47Z</updated>
+  <updated>2022-09-25T01:34:23Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AlgebraicJulia/Catlab.jl</title>
-    <updated>2022-09-24T01:35:47Z</updated>
-    <id>tag:github.com,2022-09-24:/AlgebraicJulia/Catlab.jl</id>
-    <link href="https://github.com/AlgebraicJulia/Catlab.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for applied category theory in the Julia language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

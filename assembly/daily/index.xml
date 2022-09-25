@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:32:39Z</updated>
+  <updated>2022-09-25T01:31:03Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>VitorVilela7/SA1-Root</title>
-    <updated>2022-09-24T01:32:39Z</updated>
-    <id>tag:github.com,2022-09-24:/VitorVilela7/SA1-Root</id>
-    <link href="https://github.com/VitorVilela7/SA1-Root" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project for accelerating SNES games using the SA-1 chip.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>havivha/Nand2Tetris</title>
-    <updated>2022-09-24T01:32:39Z</updated>
-    <id>tag:github.com,2022-09-24:/havivha/Nand2Tetris</id>
-    <link href="https://github.com/havivha/Nand2Tetris" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Computer implementation as described in &#34;The Elements of Computing Systems&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>netspooky/BGGP</title>
-    <updated>2022-09-24T01:32:39Z</updated>
-    <id>tag:github.com,2022-09-24:/netspooky/BGGP</id>
-    <link href="https://github.com/netspooky/BGGP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Binary Golf Grand Prix&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

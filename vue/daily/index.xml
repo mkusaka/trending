@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:40:13Z</updated>
+  <updated>2022-09-25T01:38:30Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>readpage/undraw-ui</title>
-    <updated>2022-09-24T01:40:13Z</updated>
-    <id>tag:github.com,2022-09-24:/readpage/undraw-ui</id>
-    <link href="https://github.com/readpage/undraw-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oslabs-beta/colada</title>
+    <updated>2022-09-25T01:38:30Z</updated>
+    <id>tag:github.com,2022-09-25:/oslabs-beta/colada</id>
+    <link href="https://github.com/oslabs-beta/colada" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Time-travel debugging for Pinia, Vue&#39;s official state management library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xiaoluoboding/vue-command-palette</title>
-    <updated>2022-09-24T01:40:13Z</updated>
-    <id>tag:github.com,2022-09-24:/xiaoluoboding/vue-command-palette</id>
-    <link href="https://github.com/xiaoluoboding/vue-command-palette" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast, composable, unstyled command palette interface for Vue.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>L1yp/van</title>
+    <updated>2022-09-25T01:38:30Z</updated>
+    <id>tag:github.com,2022-09-25:/L1yp/van</id>
+    <link href="https://github.com/L1yp/van" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vue3-element-plus-bpmnjs项目&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

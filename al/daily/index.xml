@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:32:33Z</updated>
+  <updated>2022-09-25T01:30:57Z</updated>
   <subtitle>Daily Trending of AL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>waldo1001/waldo.BCPerfTool</title>
-    <updated>2022-09-24T01:32:33Z</updated>
-    <id>tag:github.com,2022-09-24:/waldo1001/waldo.BCPerfTool</id>
-    <link href="https://github.com/waldo1001/waldo.BCPerfTool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Business Central Performance Tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:33:26Z</updated>
+  <updated>2022-09-25T01:31:44Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>k2-fsa/sherpa-ncnn</title>
-    <updated>2022-09-24T01:33:26Z</updated>
-    <id>tag:github.com,2022-09-24:/k2-fsa/sherpa-ncnn</id>
-    <link href="https://github.com/k2-fsa/sherpa-ncnn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Real-time speech recognition using next-gen Kaldi with ncnn&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Becavalier/geektime-c</title>
-    <updated>2022-09-24T01:33:26Z</updated>
-    <id>tag:github.com,2022-09-24:/Becavalier/geektime-c</id>
-    <link href="https://github.com/Becavalier/geektime-c" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Repo holding all the code snippets related to the C course on Geektime.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>is-itmo-c-22/labwork1</title>
+    <updated>2022-09-25T01:31:44Z</updated>
+    <id>tag:github.com,2022-09-25:/is-itmo-c-22/labwork1</id>
+    <link href="https://github.com/is-itmo-c-22/labwork1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

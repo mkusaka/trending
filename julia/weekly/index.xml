@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:42:34Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaLang/LinearAlgebra.jl</title>
+    <updated>2022-09-25T01:42:34Z</updated>
+    <id>tag:github.com,2022-09-25:/JuliaLang/LinearAlgebra.jl</id>
+    <link href="https://github.com/JuliaLang/LinearAlgebra.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yoninazarathy/2504_2022_project1</title>
+    <updated>2022-09-25T01:42:34Z</updated>
+    <id>tag:github.com,2022-09-25:/yoninazarathy/2504_2022_project1</id>
+    <link href="https://github.com/yoninazarathy/2504_2022_project1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for project 1 in the 2022 MATH2504 course&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>petvana/AutoSysimages.jl</title>
+    <updated>2022-09-25T01:42:34Z</updated>
+    <id>tag:github.com,2022-09-25:/petvana/AutoSysimages.jl</id>
+    <link href="https://github.com/petvana/AutoSysimages.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automate user-specific system images for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

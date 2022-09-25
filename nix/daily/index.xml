@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:36:38Z</updated>
+  <updated>2022-09-25T01:35:12Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kclejeune/system</title>
-    <updated>2022-09-24T01:36:38Z</updated>
-    <id>tag:github.com,2022-09-24:/kclejeune/system</id>
-    <link href="https://github.com/kclejeune/system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Declarative system configurations using nixOS, nix-darwin, and home-manager&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dlang-community/quic-d</title>
-    <updated>2022-09-24T01:36:38Z</updated>
-    <id>tag:github.com,2022-09-24:/dlang-community/quic-d</id>
-    <link href="https://github.com/dlang-community/quic-d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of QUIC in D. See: https://github.com/dlang/projects/issues/84&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lilyinstarlight/foosteros</title>
+    <updated>2022-09-25T01:35:12Z</updated>
+    <id>tag:github.com,2022-09-25:/lilyinstarlight/foosteros</id>
+    <link href="https://github.com/lilyinstarlight/foosteros" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FoosterOS/2 Warp - NixOS-based system configuration for my computers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

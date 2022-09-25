@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:43:24Z</updated>
+  <subtitle>Weekly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>status-im/nim-nat-mapper</title>
+    <updated>2022-09-25T01:43:24Z</updated>
+    <id>tag:github.com,2022-09-25:/status-im/nim-nat-mapper</id>
+    <link href="https://github.com/status-im/nim-nat-mapper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cheatfate/asynctools</title>
+    <updated>2022-09-25T01:43:24Z</updated>
+    <id>tag:github.com,2022-09-25:/cheatfate/asynctools</id>
+    <link href="https://github.com/cheatfate/asynctools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Various asynchronous tools for Nim language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

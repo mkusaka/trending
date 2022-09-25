@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:36:18Z</updated>
+  <updated>2022-09-25T01:34:58Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ghostplant/ubuntu-pe</title>
-    <updated>2022-09-24T01:36:18Z</updated>
-    <id>tag:github.com,2022-09-24:/ghostplant/ubuntu-pe</id>
-    <link href="https://github.com/ghostplant/ubuntu-pe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ubuntu PE for Ubuntu Live CD, Ubuntu Installation and Windows Installation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chainguard-dev/wolfi-os</title>
+    <updated>2022-09-25T01:34:58Z</updated>
+    <id>tag:github.com,2022-09-25:/chainguard-dev/wolfi-os</id>
+    <link href="https://github.com/chainguard-dev/wolfi-os" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Main package repository for production Wolfi images&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KeckCAVES/packaging</title>
-    <updated>2022-09-24T01:36:18Z</updated>
-    <id>tag:github.com,2022-09-24:/KeckCAVES/packaging</id>
-    <link href="https://github.com/KeckCAVES/packaging" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts for generating (Ubuntu) packages of KeckCAVES and KeckCAVES-related software&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pop-os/iso</title>
+    <updated>2022-09-25T01:34:58Z</updated>
+    <id>tag:github.com,2022-09-25:/pop-os/iso</id>
+    <link href="https://github.com/pop-os/iso" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pop!_OS ISO production&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>http-wasm/http-wasm-abi</title>
-    <updated>2022-09-24T01:36:18Z</updated>
-    <id>tag:github.com,2022-09-24:/http-wasm/http-wasm-abi</id>
-    <link href="https://github.com/http-wasm/http-wasm-abi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ABI for http-wasm&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tomwhite/hadoop-book</title>
+    <updated>2022-09-25T01:34:58Z</updated>
+    <id>tag:github.com,2022-09-25:/tomwhite/hadoop-book</id>
+    <link href="https://github.com/tomwhite/hadoop-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example source code accompanying O&#39;Reilly&#39;s &#34;Hadoop: The Definitive Guide&#34; by Tom White&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:40:11Z</updated>
+  <updated>2022-09-25T01:38:28Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wakatime/vim-wakatime</title>
+    <updated>2022-09-25T01:38:28Z</updated>
+    <id>tag:github.com,2022-09-25:/wakatime/vim-wakatime</id>
+    <link href="https://github.com/wakatime/vim-wakatime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin for automatic time tracking and metrics generated from your programming activity.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazelbuild/vim-bazel</title>
+    <updated>2022-09-25T01:38:28Z</updated>
+    <id>tag:github.com,2022-09-25:/bazelbuild/vim-bazel</id>
+    <link href="https://github.com/bazelbuild/vim-bazel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim support for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

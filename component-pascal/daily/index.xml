@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Component Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:33:30Z</updated>
+  <updated>2022-09-25T01:31:46Z</updated>
   <subtitle>Daily Trending of Component Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>samcrow/Challenger604Plugin</title>
-    <updated>2022-09-24T01:33:30Z</updated>
-    <id>tag:github.com,2022-09-24:/samcrow/Challenger604Plugin</id>
-    <link href="https://github.com/samcrow/Challenger604Plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;X-plane plugin for the Challenger 604 aircraft systems simulation. Links against the Challenger604Logic library for the actual systems logic.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:33:29Z</updated>
+  <updated>2022-09-25T01:31:46Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>isystk/coffeescript-sample</title>
-    <updated>2022-09-24T01:33:29Z</updated>
-    <id>tag:github.com,2022-09-24:/isystk/coffeescript-sample</id>
-    <link href="https://github.com/isystk/coffeescript-sample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Node.js &amp; CoffeeScript &amp; MongoDB を利用して作成したHTML5スライドショー&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rewinfrey/game-of-life</title>
-    <updated>2022-09-24T01:33:29Z</updated>
-    <id>tag:github.com,2022-09-24:/rewinfrey/game-of-life</id>
-    <link href="https://github.com/rewinfrey/game-of-life" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Sinatra / Javascript app to show a visual representation of Conway&#39;s Game of Life&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>georgeOsdDev/SlideBase</title>
-    <updated>2022-09-24T01:33:29Z</updated>
-    <id>tag:github.com,2022-09-24:/georgeOsdDev/SlideBase</id>
-    <link href="https://github.com/georgeOsdDev/SlideBase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PresentationTool using webSocket&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

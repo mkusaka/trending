@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:46:16Z</updated>
+  <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digitalinnovationone/trilha-net-banco-de-dados-desafio</title>
+    <updated>2022-09-25T01:46:16Z</updated>
+    <id>tag:github.com,2022-09-25:/digitalinnovationone/trilha-net-banco-de-dados-desafio</id>
+    <link href="https://github.com/digitalinnovationone/trilha-net-banco-de-dados-desafio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MicrosoftLearning/dp-300-database-administrator</title>
+    <updated>2022-09-25T01:46:16Z</updated>
+    <id>tag:github.com,2022-09-25:/MicrosoftLearning/dp-300-database-administrator</id>
+    <link href="https://github.com/MicrosoftLearning/dp-300-database-administrator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for lab exercises and instructions for Microsoft DP-300 learning content&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

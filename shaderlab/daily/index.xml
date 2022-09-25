@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:38:37Z</updated>
+  <updated>2022-09-25T01:37:05Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BrianPHChen/training99</title>
+    <updated>2022-09-25T01:37:05Z</updated>
+    <id>tag:github.com,2022-09-25:/BrianPHChen/training99</id>
+    <link href="https://github.com/BrianPHChen/training99" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSCI-526 team project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Guavka/TextQuest</title>
+    <updated>2022-09-25T01:37:05Z</updated>
+    <id>tag:github.com,2022-09-25:/Guavka/TextQuest</id>
+    <link href="https://github.com/Guavka/TextQuest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Текстовый квест на Unity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

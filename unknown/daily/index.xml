@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:32:10Z</updated>
+  <updated>2022-09-25T01:30:45Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>3xp0rt/LockBit-Black-Builder</title>
-    <updated>2022-09-24T01:32:10Z</updated>
-    <id>tag:github.com,2022-09-24:/3xp0rt/LockBit-Black-Builder</id>
-    <link href="https://github.com/3xp0rt/LockBit-Black-Builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudcommunity/Free-Certifications</title>
+    <updated>2022-09-25T01:30:45Z</updated>
+    <id>tag:github.com,2022-09-25:/cloudcommunity/Free-Certifications</id>
+    <link href="https://github.com/cloudcommunity/Free-Certifications" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of free courses &amp; certifications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FavioVazquez/ds-cheatsheets</title>
-    <updated>2022-09-24T01:32:10Z</updated>
-    <id>tag:github.com,2022-09-24:/FavioVazquez/ds-cheatsheets</id>
-    <link href="https://github.com/FavioVazquez/ds-cheatsheets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of Data Science Cheatsheets to rule the world&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ngalongc/bug-bounty-reference</title>
+    <updated>2022-09-25T01:30:45Z</updated>
+    <id>tag:github.com,2022-09-25:/ngalongc/bug-bounty-reference</id>
+    <link href="https://github.com/ngalongc/bug-bounty-reference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Inspired by https://github.com/djadmin/awesome-bug-bounty, a list of bug bounty write-up that is categorized by the bug nature&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tanprathan/MobileApp-Pentest-Cheatsheet</title>
-    <updated>2022-09-24T01:32:10Z</updated>
-    <id>tag:github.com,2022-09-24:/tanprathan/MobileApp-Pentest-Cheatsheet</id>
-    <link href="https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vuejs/awesome-vue</title>
+    <updated>2022-09-25T01:30:45Z</updated>
+    <id>tag:github.com,2022-09-25:/vuejs/awesome-vue</id>
+    <link href="https://github.com/vuejs/awesome-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 A curated list of awesome things related to Vue.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

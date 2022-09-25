@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:38:16Z</updated>
+  <updated>2022-09-25T01:36:37Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tonarino/innernet</title>
-    <updated>2022-09-24T01:38:16Z</updated>
-    <id>tag:github.com,2022-09-24:/tonarino/innernet</id>
-    <link href="https://github.com/tonarino/innernet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A private network system that uses WireGuard under the hood.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nullpo-head/wsl-distrod</title>
-    <updated>2022-09-24T01:38:16Z</updated>
-    <id>tag:github.com,2022-09-24:/nullpo-head/wsl-distrod</id>
-    <link href="https://github.com/nullpo-head/wsl-distrod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>massalabs/massa</title>
-    <updated>2022-09-24T01:38:16Z</updated>
-    <id>tag:github.com,2022-09-24:/massalabs/massa</id>
-    <link href="https://github.com/massalabs/massa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Decentralized and Scaled Blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Orange-OpenSource/hurl</title>
+    <updated>2022-09-25T01:36:37Z</updated>
+    <id>tag:github.com,2022-09-25:/Orange-OpenSource/hurl</id>
+    <link href="https://github.com/Orange-OpenSource/hurl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hurl, run and test HTTP requests with plain text.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

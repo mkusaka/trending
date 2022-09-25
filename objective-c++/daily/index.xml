@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:36:41Z</updated>
+  <updated>2022-09-25T01:35:15Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apple-oss-distributions/objc4</title>
-    <updated>2022-09-24T01:36:41Z</updated>
-    <id>tag:github.com,2022-09-24:/apple-oss-distributions/objc4</id>
-    <link href="https://github.com/apple-oss-distributions/objc4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

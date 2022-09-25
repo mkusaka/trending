@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:45:53Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dbgate/dbgate</title>
+    <updated>2022-09-25T01:45:53Z</updated>
+    <id>tag:github.com,2022-09-25:/dbgate/dbgate</id>
+    <link href="https://github.com/dbgate/dbgate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svelte-society/sveltesociety.dev</title>
+    <updated>2022-09-25T01:45:53Z</updated>
+    <id>tag:github.com,2022-09-25:/svelte-society/sveltesociety.dev</id>
+    <link href="https://github.com/svelte-society/sveltesociety.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Svelte Society website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vercel/sveltekit-commerce</title>
+    <updated>2022-09-25T01:45:53Z</updated>
+    <id>tag:github.com,2022-09-25:/vercel/sveltekit-commerce</id>
+    <link href="https://github.com/vercel/sveltekit-commerce" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SvelteKit Commerce&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

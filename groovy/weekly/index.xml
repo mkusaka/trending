@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:41:09Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>christianhxc/jenkins-pipeline-tutorial</title>
+    <updated>2022-09-25T01:41:09Z</updated>
+    <id>tag:github.com,2022-09-25:/christianhxc/jenkins-pipeline-tutorial</id>
+    <link href="https://github.com/christianhxc/jenkins-pipeline-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jenkins Pipeline Tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rbeltran/grails-petclinic</title>
+    <updated>2022-09-25T01:41:09Z</updated>
+    <id>tag:github.com,2022-09-25:/rbeltran/grails-petclinic</id>
+    <link href="https://github.com/rbeltran/grails-petclinic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;grails implementation of the petclinic app&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cluain/resTest</title>
+    <updated>2022-09-25T01:41:09Z</updated>
+    <id>tag:github.com,2022-09-25:/Cluain/resTest</id>
+    <link href="https://github.com/Cluain/resTest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fully scriptable REST Testing Tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

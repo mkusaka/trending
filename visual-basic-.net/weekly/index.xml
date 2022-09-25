@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Visual Basic .NET Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:46:36Z</updated>
+  <subtitle>Weekly Trending of Visual Basic .NET in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JoeyNovais/Site-assurances</title>
+    <updated>2022-09-25T01:46:36Z</updated>
+    <id>tag:github.com,2022-09-25:/JoeyNovais/Site-assurances</id>
+    <link href="https://github.com/JoeyNovais/Site-assurances" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Site en développement pour le cabinet de services Jennie Huard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jpimbert/VBAToolKit</title>
+    <updated>2022-09-25T01:46:36Z</updated>
+    <id>tag:github.com,2022-09-25:/jpimbert/VBAToolKit</id>
+    <link href="https://github.com/jpimbert/VBAToolKit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toolkit for quality development with Excel VBA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

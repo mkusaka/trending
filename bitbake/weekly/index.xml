@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:39:13Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ADLINK/meta-adlink-sema</title>
+    <updated>2022-09-25T01:39:13Z</updated>
+    <id>tag:github.com,2022-09-25:/ADLINK/meta-adlink-sema</id>
+    <link href="https://github.com/ADLINK/meta-adlink-sema" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yocto layer for SEMA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tuxable-ltd/meta-scikit-learn</title>
+    <updated>2022-09-25T01:39:13Z</updated>
+    <id>tag:github.com,2022-09-25:/tuxable-ltd/meta-scikit-learn</id>
+    <link href="https://github.com/tuxable-ltd/meta-scikit-learn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenEmbedded recipes for scikit-learn&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

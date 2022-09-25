@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:38:27Z</updated>
+  <updated>2022-09-25T01:36:55Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GeeksOfTheDusk/csn.modules.bbcodeparser</title>
+    <updated>2022-09-25T01:36:55Z</updated>
+    <id>tag:github.com,2022-09-25:/GeeksOfTheDusk/csn.modules.bbcodeparser</id>
+    <link href="https://github.com/GeeksOfTheDusk/csn.modules.bbcodeparser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;This is your new Play 2.0 application&lt;/h1&gt; &#xA;&lt;p&gt;This file will be packaged with your application, when using &lt;code&gt;play dist&lt;/code&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

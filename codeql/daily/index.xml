@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CodeQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:33:28Z</updated>
+  <updated>2022-09-25T01:31:45Z</updated>
   <subtitle>Daily Trending of CodeQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>YunDingLab/QlRules</title>
-    <updated>2022-09-24T01:33:28Z</updated>
-    <id>tag:github.com,2022-09-24:/YunDingLab/QlRules</id>
-    <link href="https://github.com/YunDingLab/QlRules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Auto-generated CodeQL rules for matching CVE vulnerabilities and variants.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-09-25T01:45:47Z</updated>
+  <subtitle>Weekly Trending of SQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cahyadsn/wilayah</title>
+    <updated>2022-09-25T01:45:47Z</updated>
+    <id>tag:github.com,2022-09-25:/cahyadsn/wilayah</id>
+    <link href="https://github.com/cahyadsn/wilayah" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kode dan Data Wilayah Administrasi &amp; Pulau Indonesia sesuai Permendagri No 58 Tahun 2021* dengan PHP+MySQL+AJaX. Demo link : https://wilayah.cahyadsn.com/v2.4/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

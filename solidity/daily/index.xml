@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-24T01:38:58Z</updated>
+  <updated>2022-09-25T01:37:31Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>soundxyz/sound-protocol</title>
-    <updated>2022-09-24T01:38:58Z</updated>
-    <id>tag:github.com,2022-09-24:/soundxyz/sound-protocol</id>
-    <link href="https://github.com/soundxyz/sound-protocol" rel="alternate"></link>
+    <title>kalidao/rage-router</title>
+    <updated>2022-09-25T01:37:31Z</updated>
+    <id>tag:github.com,2022-09-25:/kalidao/rage-router</id>
+    <link href="https://github.com/kalidao/rage-router" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ragequit everywhere&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-09-frax</title>
+    <updated>2022-09-25T01:37:31Z</updated>
+    <id>tag:github.com,2022-09-25:/code-423n4/2022-09-frax</id>
+    <link href="https://github.com/code-423n4/2022-09-frax" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mudgen/diamond-3-hardhat</title>
-    <updated>2022-09-24T01:38:58Z</updated>
-    <id>tag:github.com,2022-09-24:/mudgen/diamond-3-hardhat</id>
-    <link href="https://github.com/mudgen/diamond-3-hardhat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EIP-2535 Diamond reference implementation using Hardhat and Solidity 0.8.*&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>abdk-consulting/abdk-libraries-solidity</title>
-    <updated>2022-09-24T01:38:58Z</updated>
-    <id>tag:github.com,2022-09-24:/abdk-consulting/abdk-libraries-solidity</id>
-    <link href="https://github.com/abdk-consulting/abdk-libraries-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-Source Libraries for Solidity by ABDK Consulting&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pentagonxyz/dpd-assembly</title>
+    <updated>2022-09-25T01:37:31Z</updated>
+    <id>tag:github.com,2022-09-25:/pentagonxyz/dpd-assembly</id>
+    <link href="https://github.com/pentagonxyz/dpd-assembly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Decentralized Programmable Data, written in assembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
