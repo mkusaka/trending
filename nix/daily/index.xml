@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:35:12Z</updated>
+  <updated>2022-09-26T01:36:09Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lilyinstarlight/foosteros</title>
-    <updated>2022-09-25T01:35:12Z</updated>
-    <id>tag:github.com,2022-09-25:/lilyinstarlight/foosteros</id>
-    <link href="https://github.com/lilyinstarlight/foosteros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FoosterOS/2 Warp - NixOS-based system configuration for my computers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hercules-ci/arion</title>
+    <updated>2022-09-26T01:36:09Z</updated>
+    <id>tag:github.com,2022-09-26:/hercules-ci/arion</id>
+    <link href="https://github.com/hercules-ci/arion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run docker-compose with help from Nix/NixOS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:38:10Z</updated>
+  <updated>2022-09-26T01:39:12Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digitalinnovationone/trilha-net-banco-de-dados</title>
+    <updated>2022-09-26T01:39:12Z</updated>
+    <id>tag:github.com,2022-09-26:/digitalinnovationone/trilha-net-banco-de-dados</id>
+    <link href="https://github.com/digitalinnovationone/trilha-net-banco-de-dados" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>big-data-europe/docker-hive-metastore-postgresql</title>
+    <updated>2022-09-26T01:39:12Z</updated>
+    <id>tag:github.com,2022-09-26:/big-data-europe/docker-hive-metastore-postgresql</id>
+    <link href="https://github.com/big-data-europe/docker-hive-metastore-postgresql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Postgresql configured to work as metastore for Hive.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

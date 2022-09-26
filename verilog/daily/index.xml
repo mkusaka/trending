@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:38:25Z</updated>
+  <updated>2022-09-26T01:39:33Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ericlewis/openFPGA-Genesis</title>
+    <updated>2022-09-26T01:39:33Z</updated>
+    <id>tag:github.com,2022-09-26:/ericlewis/openFPGA-Genesis</id>
+    <link href="https://github.com/ericlewis/openFPGA-Genesis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FPGA implementation of Sega Genesis for Analogue Pocket.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cornell-ece4750/ece4750-sec05-bug-hunt</title>
+    <updated>2022-09-26T01:39:33Z</updated>
+    <id>tag:github.com,2022-09-26:/cornell-ece4750/ece4750-sec05-bug-hunt</id>
+    <link href="https://github.com/cornell-ece4750/ece4750-sec05-bug-hunt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ECE 4750 Section 5: Bug Hunt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chipsalliance/f4pga-examples</title>
+    <updated>2022-09-26T01:39:33Z</updated>
+    <id>tag:github.com,2022-09-26:/chipsalliance/f4pga-examples</id>
+    <link href="https://github.com/chipsalliance/f4pga-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example designs showing different ways to use F4PGA toolchains.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

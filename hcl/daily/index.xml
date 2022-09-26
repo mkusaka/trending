@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:33:07Z</updated>
+  <updated>2022-09-26T01:34:13Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>returntocorp/semgrep-rules</title>
-    <updated>2022-09-25T01:33:07Z</updated>
-    <id>tag:github.com,2022-09-25:/returntocorp/semgrep-rules</id>
-    <link href="https://github.com/returntocorp/semgrep-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Semgrep rules registry&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>champ-oss/terraform-aws-oidc-github</title>
+    <updated>2022-09-26T01:34:13Z</updated>
+    <id>tag:github.com,2022-09-26:/champ-oss/terraform-aws-oidc-github</id>
+    <link href="https://github.com/champ-oss/terraform-aws-oidc-github" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EMnify/aws-community-day-2022-network-troubleshooting</title>
-    <updated>2022-09-25T01:33:07Z</updated>
-    <id>tag:github.com,2022-09-25:/EMnify/aws-community-day-2022-network-troubleshooting</id>
-    <link href="https://github.com/EMnify/aws-community-day-2022-network-troubleshooting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Network troubleshooting material for talk at AWS Community Day DACH 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>azeezsalu/terraform-tutorial-reference-files</title>
+    <updated>2022-09-26T01:34:13Z</updated>
+    <id>tag:github.com,2022-09-26:/azeezsalu/terraform-tutorial-reference-files</id>
+    <link href="https://github.com/azeezsalu/terraform-tutorial-reference-files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lacework/terraform-aws-cloudtrail</title>
-    <updated>2022-09-25T01:33:07Z</updated>
-    <id>tag:github.com,2022-09-25:/lacework/terraform-aws-cloudtrail</id>
-    <link href="https://github.com/lacework/terraform-aws-cloudtrail" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module for configuring an integration with Lacework and AWS for CloudTrail analysis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ozbillwang/terraform-best-practices</title>
+    <updated>2022-09-26T01:34:13Z</updated>
+    <id>tag:github.com,2022-09-26:/ozbillwang/terraform-best-practices</id>
+    <link href="https://github.com/ozbillwang/terraform-best-practices" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Best Practices for AWS users&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:38:30Z</updated>
+  <updated>2022-09-26T01:39:38Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oslabs-beta/colada</title>
-    <updated>2022-09-25T01:38:30Z</updated>
-    <id>tag:github.com,2022-09-25:/oslabs-beta/colada</id>
-    <link href="https://github.com/oslabs-beta/colada" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Time-travel debugging for Pinia, Vue&#39;s official state management library.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>L1yp/van</title>
-    <updated>2022-09-25T01:38:30Z</updated>
-    <id>tag:github.com,2022-09-25:/L1yp/van</id>
-    <link href="https://github.com/L1yp/van" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vue3-element-plus-bpmnjs项目&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bartlomieju/vite-deno-example</title>
+    <updated>2022-09-26T01:39:38Z</updated>
+    <id>tag:github.com,2022-09-26:/bartlomieju/vite-deno-example</id>
+    <link href="https://github.com/bartlomieju/vite-deno-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example of using Vite with Deno&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

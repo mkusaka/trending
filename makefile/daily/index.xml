@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:34:58Z</updated>
+  <updated>2022-09-26T01:35:52Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chainguard-dev/wolfi-os</title>
-    <updated>2022-09-25T01:34:58Z</updated>
-    <id>tag:github.com,2022-09-25:/chainguard-dev/wolfi-os</id>
-    <link href="https://github.com/chainguard-dev/wolfi-os" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Main package repository for production Wolfi images&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheMuppets/proprietary_vendor_fairphone_FP4</title>
+    <updated>2022-09-26T01:35:52Z</updated>
+    <id>tag:github.com,2022-09-26:/TheMuppets/proprietary_vendor_fairphone_FP4</id>
+    <link href="https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pop-os/iso</title>
-    <updated>2022-09-25T01:34:58Z</updated>
-    <id>tag:github.com,2022-09-25:/pop-os/iso</id>
-    <link href="https://github.com/pop-os/iso" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pop!_OS ISO production&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Machine-Hum/ovrdrive</title>
+    <updated>2022-09-26T01:35:52Z</updated>
+    <id>tag:github.com,2022-09-26:/Machine-Hum/ovrdrive</id>
+    <link href="https://github.com/Machine-Hum/ovrdrive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The one and only, exploding USB drive&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tomwhite/hadoop-book</title>
-    <updated>2022-09-25T01:34:58Z</updated>
-    <id>tag:github.com,2022-09-25:/tomwhite/hadoop-book</id>
-    <link href="https://github.com/tomwhite/hadoop-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example source code accompanying O&#39;Reilly&#39;s &#34;Hadoop: The Definitive Guide&#34; by Tom White&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seebi/dircolors-solarized</title>
+    <updated>2022-09-26T01:35:52Z</updated>
+    <id>tag:github.com,2022-09-26:/seebi/dircolors-solarized</id>
+    <link href="https://github.com/seebi/dircolors-solarized" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

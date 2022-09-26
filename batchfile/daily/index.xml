@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:31:07Z</updated>
+  <updated>2022-09-26T01:31:40Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sadiknabil/ngrok-rdp</title>
-    <updated>2022-09-25T01:31:07Z</updated>
-    <id>tag:github.com,2022-09-25:/sadiknabil/ngrok-rdp</id>
-    <link href="https://github.com/sadiknabil/ngrok-rdp" rel="alternate"></link>
+    <title>HenGaming13/FreeRDP</title>
+    <updated>2022-09-26T01:31:40Z</updated>
+    <id>tag:github.com,2022-09-26:/HenGaming13/FreeRDP</id>
+    <link href="https://github.com/HenGaming13/FreeRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;# RDP Windows Gratis Unlimited Buat RDP Windows Ram 7GB 2 Core Cpu Dengan Github: + Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop). + kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN + Di Dalam Repo ini Pergi ke Settings&gt; Secrets&gt; New repository secret + isi Nama: Masukan NGROK_…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mgigor/exerc2</title>
+    <updated>2022-09-26T01:31:40Z</updated>
+    <id>tag:github.com,2022-09-26:/mgigor/exerc2</id>
+    <link href="https://github.com/mgigor/exerc2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

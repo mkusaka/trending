@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:32:44Z</updated>
+  <updated>2022-09-26T01:33:37Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HarmonyHoney/ROTA</title>
+    <updated>2022-09-26T01:33:37Z</updated>
+    <id>tag:github.com,2022-09-26:/HarmonyHoney/ROTA</id>
+    <link href="https://github.com/HarmonyHoney/ROTA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot 3.5 / Gravity Bending Puzzle Platformer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>don-tnowe/godot-resources-as-sheets-plugin</title>
+    <updated>2022-09-26T01:33:37Z</updated>
+    <id>tag:github.com,2022-09-26:/don-tnowe/godot-resources-as-sheets-plugin</id>
+    <link href="https://github.com/don-tnowe/godot-resources-as-sheets-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I needed to edit many Resource files, so figured someone would too.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BL-MSCH-C220-F22/Godot-Project-Template</title>
+    <updated>2022-09-26T01:33:37Z</updated>
+    <id>tag:github.com,2022-09-26:/BL-MSCH-C220-F22/Godot-Project-Template</id>
+    <link href="https://github.com/BL-MSCH-C220-F22/Godot-Project-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A generic template for Godot 3 projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

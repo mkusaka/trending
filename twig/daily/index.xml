@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:38:11Z</updated>
+  <updated>2022-09-26T01:39:13Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SymfonyCasts/symfony5</title>
-    <updated>2022-09-25T01:38:11Z</updated>
-    <id>tag:github.com,2022-09-25:/SymfonyCasts/symfony5</id>
-    <link href="https://github.com/SymfonyCasts/symfony5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Screencast code, script and sunshine behind the Symfony 5 tutorials!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

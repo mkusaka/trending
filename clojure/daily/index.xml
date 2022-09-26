@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-25T01:31:42Z</updated>
+  <updated>2022-09-26T01:32:16Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>clj-commons/clj-yaml</title>
+    <updated>2022-09-26T01:32:16Z</updated>
+    <id>tag:github.com,2022-09-26:/clj-commons/clj-yaml</id>
+    <link href="https://github.com/clj-commons/clj-yaml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;YAML encoding and decoding for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>borkdude/deps.clj</title>
+    <updated>2022-09-26T01:32:16Z</updated>
+    <id>tag:github.com,2022-09-26:/borkdude/deps.clj</id>
+    <link href="https://github.com/borkdude/deps.clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A faithful port of the clojure CLI bash script to Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>crinklywrappr/stocker</title>
+    <updated>2022-09-26T01:32:16Z</updated>
+    <id>tag:github.com,2022-09-26:/crinklywrappr/stocker</id>
+    <link href="https://github.com/crinklywrappr/stocker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone of ystockquote for Clojure (https://github.com/fengb/ystockquote/). Allows you to programatically query Yahoo for stock information.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
