@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-26T01:32:37Z</updated>
+  <updated>2022-09-27T01:37:27Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>erfanoabdi/gbinder-python</title>
-    <updated>2022-09-26T01:32:37Z</updated>
-    <id>tag:github.com,2022-09-26:/erfanoabdi/gbinder-python</id>
-    <link href="https://github.com/erfanoabdi/gbinder-python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python bindings for libgbinder&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

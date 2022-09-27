@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-26T01:39:00Z</updated>
+  <updated>2022-09-27T01:43:04Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EDAMC/DigitalDesignSchool</title>
-    <updated>2022-09-26T01:39:00Z</updated>
-    <id>tag:github.com,2022-09-26:/EDAMC/DigitalDesignSchool</id>
-    <link href="https://github.com/EDAMC/DigitalDesignSchool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DigitalDesignSchool2022/23 repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>veripool/verilog-mode</title>
+    <updated>2022-09-27T01:43:04Z</updated>
+    <id>tag:github.com,2022-09-27:/veripool/verilog-mode</id>
+    <link href="https://github.com/veripool/verilog-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog-Mode for Emacs with Indentation, Hightlighting and AUTOs. Master repository for pushing to GNU, verilog.com and veripool.org.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

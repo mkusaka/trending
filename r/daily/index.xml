@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-26T01:37:31Z</updated>
+  <updated>2022-09-27T01:41:54Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>guindilla/coursera-statistics-002</title>
-    <updated>2022-09-26T01:37:31Z</updated>
-    <id>tag:github.com,2022-09-26:/guindilla/coursera-statistics-002</id>
-    <link href="https://github.com/guindilla/coursera-statistics-002" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data Analysis and Statistical Inference, Duke University&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mbehzad/datasciencecoursera</title>
-    <updated>2022-09-26T01:37:31Z</updated>
-    <id>tag:github.com,2022-09-26:/mbehzad/datasciencecoursera</id>
-    <link href="https://github.com/mbehzad/datasciencecoursera" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for Data Sience Assignments&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jrnold/r4ds-exercise-solutions</title>
-    <updated>2022-09-26T01:37:31Z</updated>
-    <id>tag:github.com,2022-09-26:/jrnold/r4ds-exercise-solutions</id>
-    <link href="https://github.com/jrnold/r4ds-exercise-solutions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise solutions to &#34;R for Data Science&#34;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/jrnold/r4ds-exercise-solutions&#34;&gt;&lt;img src=&#34;https://travis-ci.org/jrnold/r4ds-exercise-solutions.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.tidyverse.org/lifecycle/#stable&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/lifecycle-stable-brightgreen.svg?sanitize=true&#34; alt=&#34;Lifecycle: stable&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Exercise Solutions to R for Data Science&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the code and text behind the &lt;a href=&#34;https://jrnold.github.io/r4ds-exercise-solutions/&#34;&gt;Solutions for R for Data Science&lt;/a&gt;, which, as its name suggests, has solutions to the the exercises in &lt;a href=&#34;https://r4ds.had.co.nz/&#34;&gt;R for Data Science&lt;/a&gt; by Garrett Grolemund and Hadley Wickham.&lt;/p&gt; &#xA;&lt;p&gt;The R packages used in this book can be installed via&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;devtools::install_github(&#34;jrnold/r4ds-exercise-solutions&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Contributions welcome! Notice a wrong answer, typo, bug, or have an alternative/better solution, open a new &lt;a href=&#34;https://github.com/jrnold/r4ds-exercise-solutions/issues&#34;&gt;issue&lt;/a&gt; or &lt;a href=&#34;https://github.com/jrnold/r4ds-exercise-solutions/pulls&#34;&gt;pull request&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Please note that the &#39;R4DSSolutions&#39; project is released with a &lt;a href=&#34;https://raw.githubusercontent.com/jrnold/r4ds-exercise-solutions/master/.github/CODE_OF_CONDUCT.md&#34;&gt;Contributor Code of Conduct&lt;/a&gt;. By contributing to this project, you agree to abide by its terms.&lt;/p&gt; &#xA;&lt;h2&gt;Build&lt;/h2&gt; &#xA;&lt;p&gt;The site is built using the &lt;a href=&#34;https://bookdown.org/yihui/bookdown/&#34;&gt;bookdown&lt;/a&gt; package and pandoc.&lt;/p&gt;</summary>
-  </entry>
 </feed>

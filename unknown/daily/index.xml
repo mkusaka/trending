@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-26T01:31:19Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-09-27T01:35:39Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nv-tlabs/GET3D</title>
-    <updated>2022-09-26T01:31:19Z</updated>
-    <id>tag:github.com,2022-09-26:/nv-tlabs/GET3D</id>
-    <link href="https://github.com/nv-tlabs/GET3D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>openai/gpt-3</title>
+    <updated>2022-09-27T01:35:39Z</updated>
+    <id>tag:github.com,2022-09-27:/openai/gpt-3</id>
+    <link href="https://github.com/openai/gpt-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GPT-3: Language Models are Few-Shot Learners&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>binance/binance-spot-api-docs</title>
-    <updated>2022-09-26T01:31:19Z</updated>
-    <id>tag:github.com,2022-09-26:/binance/binance-spot-api-docs</id>
-    <link href="https://github.com/binance/binance-spot-api-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Documentation for the Binance Spot APIs and Streams&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jenndryden/Canadian-Tech-Internships-Summer-2023</title>
+    <updated>2022-09-27T01:35:39Z</updated>
+    <id>tag:github.com,2022-09-27:/jenndryden/Canadian-Tech-Internships-Summer-2023</id>
+    <link href="https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>googlehosts/hosts</title>
-    <updated>2022-09-26T01:31:19Z</updated>
-    <id>tag:github.com,2022-09-26:/googlehosts/hosts</id>
-    <link href="https://github.com/googlehosts/hosts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CyberSecurityUP/PenTest-Consulting-Creator</title>
+    <updated>2022-09-27T01:35:39Z</updated>
+    <id>tag:github.com,2022-09-27:/CyberSecurityUP/PenTest-Consulting-Creator</id>
+    <link href="https://github.com/CyberSecurityUP/PenTest-Consulting-Creator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository with some necessary information for you to create your PenTest consultancy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

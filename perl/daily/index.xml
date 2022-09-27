@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-26T01:36:37Z</updated>
+  <updated>2022-09-27T01:41:05Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yanu102/doScript</title>
-    <updated>2022-09-26T01:36:37Z</updated>
-    <id>tag:github.com,2022-09-26:/yanu102/doScript</id>
-    <link href="https://github.com/yanu102/doScript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a wrapper script for InDesign scripts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>k0ekk0ek/firefox-branding</title>
-    <updated>2022-09-26T01:36:37Z</updated>
-    <id>tag:github.com,2022-09-26:/k0ekk0ek/firefox-branding</id>
-    <link href="https://github.com/k0ekk0ek/firefox-branding" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Script that installs official Firefox branding for Iceweasel in Debian GNU/Linux&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Package that ships official Firefox branding bits for Iceweasel in Debian GNU/Linux&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Place browser.jar and en-US.jar files in the root.&lt;/li&gt; &#xA; &lt;li&gt;Issue dpkg-buildpackage -b&lt;/li&gt; &#xA; &lt;li&gt;Remove .mozilla directory from your home folder&lt;/li&gt; &#xA; &lt;li&gt;Launch Firefox after doing a new login&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-26T01:37:48Z</updated>
+  <updated>2022-09-27T01:42:07Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ellie/atuin</title>
-    <updated>2022-09-26T01:37:48Z</updated>
-    <id>tag:github.com,2022-09-26:/ellie/atuin</id>
-    <link href="https://github.com/ellie/atuin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐢 Magical shell history&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>roapi/roapi</title>
+    <updated>2022-09-27T01:42:07Z</updated>
+    <id>tag:github.com,2022-09-27:/roapi/roapi</id>
+    <link href="https://github.com/roapi/roapi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create full-fledged APIs for slowly moving datasets without writing a single line of code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hrkfdn/ncspot</title>
-    <updated>2022-09-26T01:37:48Z</updated>
-    <id>tag:github.com,2022-09-26:/hrkfdn/ncspot</id>
-    <link href="https://github.com/hrkfdn/ncspot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>memN0ps/srdi-rs</title>
-    <updated>2022-09-26T01:37:48Z</updated>
-    <id>tag:github.com,2022-09-26:/memN0ps/srdi-rs</id>
-    <link href="https://github.com/memN0ps/srdi-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rusty Shellcode Reflective DLL Injection (sRDI)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>araekiel/jot</title>
+    <updated>2022-09-27T01:42:07Z</updated>
+    <id>tag:github.com,2022-09-27:/araekiel/jot</id>
+    <link href="https://github.com/araekiel/jot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡Rapid note management for the terminal.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

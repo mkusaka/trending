@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-26T01:38:28Z</updated>
+  <updated>2022-09-27T01:42:47Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JoshuaTrujillo15/ez-bitmap</title>
-    <updated>2022-09-26T01:38:28Z</updated>
-    <id>tag:github.com,2022-09-26:/JoshuaTrujillo15/ez-bitmap</id>
-    <link href="https://github.com/JoshuaTrujillo15/ez-bitmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>beskay/solidity-challenges</title>
+    <updated>2022-09-27T01:42:47Z</updated>
+    <id>tag:github.com,2022-09-27:/beskay/solidity-challenges</id>
+    <link href="https://github.com/beskay/solidity-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity challenges for EthernautDAO&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

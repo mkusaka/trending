@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-26T01:35:52Z</updated>
+  <updated>2022-09-27T01:40:24Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheMuppets/proprietary_vendor_fairphone_FP4</title>
-    <updated>2022-09-26T01:35:52Z</updated>
-    <id>tag:github.com,2022-09-26:/TheMuppets/proprietary_vendor_fairphone_FP4</id>
-    <link href="https://github.com/TheMuppets/proprietary_vendor_fairphone_FP4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rog-golang-buddies/rmx</title>
+    <updated>2022-09-27T01:40:24Z</updated>
+    <id>tag:github.com,2022-09-27:/rog-golang-buddies/rmx</id>
+    <link href="https://github.com/rog-golang-buddies/rmx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rapid MIDI Exchange&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Machine-Hum/ovrdrive</title>
-    <updated>2022-09-26T01:35:52Z</updated>
-    <id>tag:github.com,2022-09-26:/Machine-Hum/ovrdrive</id>
-    <link href="https://github.com/Machine-Hum/ovrdrive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The one and only, exploding USB drive&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seebi/dircolors-solarized</title>
-    <updated>2022-09-26T01:35:52Z</updated>
-    <id>tag:github.com,2022-09-26:/seebi/dircolors-solarized</id>
-    <link href="https://github.com/seebi/dircolors-solarized" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kost/nmap-android</title>
+    <updated>2022-09-27T01:40:24Z</updated>
+    <id>tag:github.com,2022-09-27:/kost/nmap-android</id>
+    <link href="https://github.com/kost/nmap-android" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nmap on Android - Makefile/diff/scripts to build it with Android NDK&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
