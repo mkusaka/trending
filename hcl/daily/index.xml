@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:38:42Z</updated>
+  <updated>2022-09-28T01:36:19Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MithunTechnologiesDevOps/jekins-ansible-dynimc-inv</title>
-    <updated>2022-09-27T01:38:42Z</updated>
-    <id>tag:github.com,2022-09-27:/MithunTechnologiesDevOps/jekins-ansible-dynimc-inv</id>
-    <link href="https://github.com/MithunTechnologiesDevOps/jekins-ansible-dynimc-inv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jtfernandesGit/hackaton-fiap-iac</title>
-    <updated>2022-09-27T01:38:42Z</updated>
-    <id>tag:github.com,2022-09-27:/jtfernandesGit/hackaton-fiap-iac</id>
-    <link href="https://github.com/jtfernandesGit/hackaton-fiap-iac" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hashicorp/terraform-aws-vault</title>
-    <updated>2022-09-27T01:38:42Z</updated>
-    <id>tag:github.com,2022-09-27:/hashicorp/terraform-aws-vault</id>
-    <link href="https://github.com/hashicorp/terraform-aws-vault" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module for how to run Vault on AWS using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codeaprendiz/learn-devops</title>
+    <updated>2022-09-28T01:36:19Z</updated>
+    <id>tag:github.com,2022-09-28:/codeaprendiz/learn-devops</id>
+    <link href="https://github.com/codeaprendiz/learn-devops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps Essentials | terraform | kubernetes | linux | nginx | monitoring | docker | docker-compose&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

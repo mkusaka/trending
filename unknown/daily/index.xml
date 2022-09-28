@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:35:39Z</updated>
+  <updated>2022-09-28T01:32:57Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>openai/gpt-3</title>
-    <updated>2022-09-27T01:35:39Z</updated>
-    <id>tag:github.com,2022-09-27:/openai/gpt-3</id>
-    <link href="https://github.com/openai/gpt-3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GPT-3: Language Models are Few-Shot Learners&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fffaraz/awesome-cpp</title>
+    <updated>2022-09-28T01:32:57Z</updated>
+    <id>tag:github.com,2022-09-28:/fffaraz/awesome-cpp</id>
+    <link href="https://github.com/fffaraz/awesome-cpp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jenndryden/Canadian-Tech-Internships-Summer-2023</title>
-    <updated>2022-09-27T01:35:39Z</updated>
-    <id>tag:github.com,2022-09-27:/jenndryden/Canadian-Tech-Internships-Summer-2023</id>
-    <link href="https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qingsongedu/time-series-transformers-review</title>
+    <updated>2022-09-28T01:32:57Z</updated>
+    <id>tag:github.com,2022-09-28:/qingsongedu/time-series-transformers-review</id>
+    <link href="https://github.com/qingsongedu/time-series-transformers-review" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CyberSecurityUP/PenTest-Consulting-Creator</title>
-    <updated>2022-09-27T01:35:39Z</updated>
-    <id>tag:github.com,2022-09-27:/CyberSecurityUP/PenTest-Consulting-Creator</id>
-    <link href="https://github.com/CyberSecurityUP/PenTest-Consulting-Creator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository with some necessary information for you to create your PenTest consultancy&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book</title>
+    <updated>2022-09-28T01:32:57Z</updated>
+    <id>tag:github.com,2022-09-28:/ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book</id>
+    <link href="https://github.com/ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;嵌入式，计算机常用电子书籍整理，并且附带下载链接，涵盖：ARM体系与架构，C/C++语言，汇编语言，操作系统，计算机网络，计算组成原理，Linux驱动，Linux内核，单片机开发，程序员认知成长，笔试面试技巧等书籍。长期更新中，欢迎star~&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

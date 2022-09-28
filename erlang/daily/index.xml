@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:38:04Z</updated>
+  <updated>2022-09-28T01:35:43Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seriyps/mtproto_proxy</title>
+    <updated>2022-09-28T01:35:43Z</updated>
+    <id>tag:github.com,2022-09-28:/seriyps/mtproto_proxy</id>
+    <link href="https://github.com/seriyps/mtproto_proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High performance Erlang MTProto proxy that powers https://t.me/socksy_bot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kivra/oauth2</title>
+    <updated>2022-09-28T01:35:43Z</updated>
+    <id>tag:github.com,2022-09-28:/kivra/oauth2</id>
+    <link href="https://github.com/kivra/oauth2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang Oauth2 implementation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aws-beam/aws_credentials</title>
+    <updated>2022-09-28T01:35:43Z</updated>
+    <id>tag:github.com,2022-09-28:/aws-beam/aws_credentials</id>
+    <link href="https://github.com/aws-beam/aws_credentials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Erlang library to provide AWS credentials&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

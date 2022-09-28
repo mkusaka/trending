@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:43:36Z</updated>
+  <updated>2022-09-28T01:42:58Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>auroral-ui/hexo-theme-aurora</title>
-    <updated>2022-09-27T01:43:36Z</updated>
-    <id>tag:github.com,2022-09-27:/auroral-ui/hexo-theme-aurora</id>
-    <link href="https://github.com/auroral-ui/hexo-theme-aurora" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏳️‍🌈 Futuristic auroral Hexo theme.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>un-pany/v3-admin-vite</title>
+    <updated>2022-09-28T01:42:58Z</updated>
+    <id>tag:github.com,2022-09-28:/un-pany/v3-admin-vite</id>
+    <link href="https://github.com/un-pany/v3-admin-vite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☀️ A vue3 minimal admin template, based on &#39;vite&#39;. 一个基于 vite 的 vue3 最小后台管理模板&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shuangxunian/wechat-form</title>
+    <updated>2022-09-28T01:42:58Z</updated>
+    <id>tag:github.com,2022-09-28:/shuangxunian/wechat-form</id>
+    <link href="https://github.com/shuangxunian/wechat-form" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

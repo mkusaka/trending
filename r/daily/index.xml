@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:41:54Z</updated>
+  <updated>2022-09-28T01:40:23Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeffwong/pdist</title>
+    <updated>2022-09-28T01:40:23Z</updated>
+    <id>tag:github.com,2022-09-28:/jeffwong/pdist</id>
+    <link href="https://github.com/jeffwong/pdist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distance functions on subsets of matrices&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#Partitioned Distances&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://cran.r-project.org/web/packages/pdist/index.html&#34;&gt;pdist on CRAN&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Given a matrix X with m observations and another matrix Y with n observations, Partitioned Distances computes the m by n distance matrix. A rectangular distance matrix can be more appropriate than a square matrix in many applications; for example, in bipartite graphs we might be concerned with the distance between objects in Graph A with objects in Graph B, but we may not care about the distance between objects within Graph A or Graph B. Currently, R only has a &lt;code&gt;dist&lt;/code&gt; function which returns square distance matrices.&lt;/p&gt; &#xA;&lt;p&gt;##Performance &lt;code&gt;pdist&lt;/code&gt; is a slightly optimized version of the native &lt;code&gt;dist&lt;/code&gt; function; distances are not computed between objects that are both in X or both in Y. Using native functions, we could stack X and Y on top of each other using &lt;code&gt;rbind&lt;/code&gt;, and call &lt;code&gt;dist&lt;/code&gt; on the result, but this would compute the (m+n) by (m+n) distance matrix, yielding m^2 + mn + n^2 unnecessary distance computations. If the matrices have p columns, and the distance metric is the Euclidean metric, then p(m^2 + mn + n^2) unnecessary flops are made. More complex metrics, such as dynamic time warping, can run in O(p^3), which means a naive dist function would make O(p^3(m^2 + mn + n^2)) unnecessary flops!&lt;/p&gt; &#xA;&lt;p&gt;##Timing Using a matrix X that is 1000 by 100, it took 0.543 seconds to compute the distance matrix based on the Euclidean metric using &lt;code&gt;dist&lt;/code&gt;. Using pdist, the timing was the same. If we are interested in the subset A taken by the first 100 rows of X, and subset B taken by the next 100 rows of X, we can compute a smaller distance matrix in only 0.006 seconds!&lt;/p&gt;</summary>
+  </entry>
 </feed>

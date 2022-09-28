@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:42:27Z</updated>
+  <updated>2022-09-28T01:41:11Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>catppuccin/discord</title>
+    <updated>2022-09-28T01:41:11Z</updated>
+    <id>tag:github.com,2022-09-28:/catppuccin/discord</id>
+    <link href="https://github.com/catppuccin/discord" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎮 Soothing pastel theme for Discord&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phuocng/1loc</title>
+    <updated>2022-09-28T01:41:11Z</updated>
+    <id>tag:github.com,2022-09-28:/phuocng/1loc</id>
+    <link href="https://github.com/phuocng/1loc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;What&#39;s your favorite JavaScript single LOC (line of code)?&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>IBM-EPBL/IBM-Project-1392-1658386621</title>
+    <updated>2022-09-28T01:41:11Z</updated>
+    <id>tag:github.com,2022-09-28:/IBM-EPBL/IBM-Project-1392-1658386621</id>
+    <link href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Customer Care Registry implementing on Web development based on Cloud Application Development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

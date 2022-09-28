@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:38:38Z</updated>
+  <updated>2022-09-28T01:36:13Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>marcus-clarusway/jenkins-project-settings</title>
-    <updated>2022-09-27T01:38:38Z</updated>
-    <id>tag:github.com,2022-09-27:/marcus-clarusway/jenkins-project-settings</id>
-    <link href="https://github.com/marcus-clarusway/jenkins-project-settings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;jenkins-project-settings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cluain/resTest</title>
+    <updated>2022-09-28T01:36:13Z</updated>
+    <id>tag:github.com,2022-09-28:/Cluain/resTest</id>
+    <link href="https://github.com/Cluain/resTest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fully scriptable REST Testing Tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:36:18Z</updated>
+  <updated>2022-09-28T01:33:39Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/NoOpsAccelerator</title>
+    <updated>2022-09-28T01:33:39Z</updated>
+    <id>tag:github.com,2022-09-28:/Azure/NoOpsAccelerator</id>
+    <link href="https://github.com/Azure/NoOpsAccelerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A flexible, Infrastructure-as-Code foundation that assists customers with the development and deployment of opinionated infrastructure models that are secure, well-governed, and simple to maintain.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

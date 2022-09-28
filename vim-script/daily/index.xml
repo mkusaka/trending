@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-27T01:43:33Z</updated>
+  <updated>2022-09-28T01:42:55Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vim-pandoc/vim-pandoc-syntax</title>
-    <updated>2022-09-27T01:43:33Z</updated>
-    <id>tag:github.com,2022-09-27:/vim-pandoc/vim-pandoc-syntax</id>
-    <link href="https://github.com/vim-pandoc/vim-pandoc-syntax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;pandoc markdown syntax, to be installed alongside vim-pandoc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>preservim/vimux</title>
+    <updated>2022-09-28T01:42:55Z</updated>
+    <id>tag:github.com,2022-09-28:/preservim/vimux</id>
+    <link href="https://github.com/preservim/vimux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;easily interact with tmux from vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rhysd/vim-clang-format</title>
-    <updated>2022-09-27T01:43:33Z</updated>
-    <id>tag:github.com,2022-09-27:/rhysd/vim-clang-format</id>
-    <link href="https://github.com/rhysd/vim-clang-format" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin for clang-format, a formatter for C, C++, Obj-C, Java, JavaScript, and so on.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chandsie/dotfiles</title>
+    <updated>2022-09-28T01:42:55Z</updated>
+    <id>tag:github.com,2022-09-28:/chandsie/dotfiles</id>
+    <link href="https://github.com/chandsie/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dotfiles for fish and vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shumphrey/fugitive-gitlab.vim</title>
-    <updated>2022-09-27T01:43:33Z</updated>
-    <id>tag:github.com,2022-09-27:/shumphrey/fugitive-gitlab.vim</id>
-    <link href="https://github.com/shumphrey/fugitive-gitlab.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vim extension to fugitive.vim for GitLab support&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bkaradzic/dotvim</title>
+    <updated>2022-09-28T01:42:55Z</updated>
+    <id>tag:github.com,2022-09-28:/bkaradzic/dotvim</id>
+    <link href="https://github.com/bkaradzic/dotvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My .vim config.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
