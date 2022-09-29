@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-28T01:41:35Z</updated>
+  <updated>2022-09-29T01:39:55Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kkailiwang/erc20r</title>
-    <updated>2022-09-28T01:41:35Z</updated>
-    <id>tag:github.com,2022-09-28:/kkailiwang/erc20r</id>
-    <link href="https://github.com/kkailiwang/erc20r" rel="alternate"></link>
+    <title>ScopeLift/l2-optimizoooors</title>
+    <updated>2022-09-29T01:39:55Z</updated>
+    <id>tag:github.com,2022-09-29:/ScopeLift/l2-optimizoooors</id>
+    <link href="https://github.com/ScopeLift/l2-optimizoooors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gas efficient routers for L2 applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MrToph/goostew</title>
+    <updated>2022-09-29T01:39:55Z</updated>
+    <id>tag:github.com,2022-09-29:/MrToph/goostew</id>
+    <link href="https://github.com/MrToph/goostew" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LlamaLend/contracts</title>
-    <updated>2022-09-28T01:41:35Z</updated>
-    <id>tag:github.com,2022-09-28:/LlamaLend/contracts</id>
-    <link href="https://github.com/LlamaLend/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cairoeth/GOO-Racing</title>
+    <updated>2022-09-29T01:39:55Z</updated>
+    <id>tag:github.com,2022-09-29:/cairoeth/GOO-Racing</id>
+    <link href="https://github.com/cairoeth/GOO-Racing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dynamic on-chain racing game with real simulations 🏎️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

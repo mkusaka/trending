@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-28T01:40:44Z</updated>
+  <updated>2022-09-29T01:38:45Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dtolnay/thiserror</title>
-    <updated>2022-09-28T01:40:44Z</updated>
-    <id>tag:github.com,2022-09-28:/dtolnay/thiserror</id>
-    <link href="https://github.com/dtolnay/thiserror" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;derive(Error) for struct and enum error types&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kube-rs/kube</title>
+    <updated>2022-09-29T01:38:45Z</updated>
+    <id>tag:github.com,2022-09-29:/kube-rs/kube</id>
+    <link href="https://github.com/kube-rs/kube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust Kubernetes client and controller runtime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tauri-apps/create-tauri-app</title>
-    <updated>2022-09-28T01:40:44Z</updated>
-    <id>tag:github.com,2022-09-28:/tauri-apps/create-tauri-app</id>
-    <link href="https://github.com/tauri-apps/create-tauri-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rapidly scaffold out a new tauri app project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>XAMPPRocky/tokei</title>
-    <updated>2022-09-28T01:40:44Z</updated>
-    <id>tag:github.com,2022-09-28:/XAMPPRocky/tokei</id>
-    <link href="https://github.com/XAMPPRocky/tokei" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Count your code, quickly.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shuttle-hq/shuttle</title>
+    <updated>2022-09-29T01:38:45Z</updated>
+    <id>tag:github.com,2022-09-29:/shuttle-hq/shuttle</id>
+    <link href="https://github.com/shuttle-hq/shuttle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploy Rust apps with a single Cargo command&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

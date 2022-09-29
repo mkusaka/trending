@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-28T01:35:24Z</updated>
+  <updated>2022-09-29T01:33:39Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>woylie/flop_phoenix</title>
-    <updated>2022-09-28T01:35:24Z</updated>
-    <id>tag:github.com,2022-09-28:/woylie/flop_phoenix</id>
-    <link href="https://github.com/woylie/flop_phoenix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Components for pagination, sortable tables and filter forms using Phoenix, Ecto and Flop&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mtrudel/bandit</title>
+    <updated>2022-09-29T01:33:39Z</updated>
+    <id>tag:github.com,2022-09-29:/mtrudel/bandit</id>
+    <link href="https://github.com/mtrudel/bandit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bandit is a pure Elixir HTTP server for Plug &amp; Sock applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beam-community/jsonapi</title>
+    <updated>2022-09-29T01:33:39Z</updated>
+    <id>tag:github.com,2022-09-29:/beam-community/jsonapi</id>
+    <link href="https://github.com/beam-community/jsonapi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON:API Serializer and Query Handler for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

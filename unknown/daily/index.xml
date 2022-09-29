@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-28T01:32:57Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-09-29T01:31:07Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fffaraz/awesome-cpp</title>
-    <updated>2022-09-28T01:32:57Z</updated>
-    <id>tag:github.com,2022-09-28:/fffaraz/awesome-cpp</id>
-    <link href="https://github.com/fffaraz/awesome-cpp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>geerlingguy/ansible-role-docker</title>
+    <updated>2022-09-29T01:31:07Z</updated>
+    <id>tag:github.com,2022-09-29:/geerlingguy/ansible-role-docker</id>
+    <link href="https://github.com/geerlingguy/ansible-role-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ansible Role - Docker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>qingsongedu/time-series-transformers-review</title>
-    <updated>2022-09-28T01:32:57Z</updated>
-    <id>tag:github.com,2022-09-28:/qingsongedu/time-series-transformers-review</id>
-    <link href="https://github.com/qingsongedu/time-series-transformers-review" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A professionally curated list of awesome resources (paper, code, data, etc.) on transformers in time series.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getify/foi-lang</title>
+    <updated>2022-09-29T01:31:07Z</updated>
+    <id>tag:github.com,2022-09-29:/getify/foi-lang</id>
+    <link href="https://github.com/getify/foi-lang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foi: a different kind of functional programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book</title>
-    <updated>2022-09-28T01:32:57Z</updated>
-    <id>tag:github.com,2022-09-28:/ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book</id>
-    <link href="https://github.com/ZhongYi-LinuxDriverDev/CS-EmbeddedLinux-Book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;嵌入式，计算机常用电子书籍整理，并且附带下载链接，涵盖：ARM体系与架构，C/C++语言，汇编语言，操作系统，计算机网络，计算组成原理，Linux驱动，Linux内核，单片机开发，程序员认知成长，笔试面试技巧等书籍。长期更新中，欢迎star~&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/roadmap</title>
+    <updated>2022-09-29T01:31:07Z</updated>
+    <id>tag:github.com,2022-09-29:/github/roadmap</id>
+    <link href="https://github.com/github/roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitHub public roadmap&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-28T01:42:55Z</updated>
+  <updated>2022-09-29T01:41:35Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>preservim/vimux</title>
-    <updated>2022-09-28T01:42:55Z</updated>
-    <id>tag:github.com,2022-09-28:/preservim/vimux</id>
-    <link href="https://github.com/preservim/vimux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;easily interact with tmux from vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>slindberg/dotvim</title>
+    <updated>2022-09-29T01:41:35Z</updated>
+    <id>tag:github.com,2022-09-29:/slindberg/dotvim</id>
+    <link href="https://github.com/slindberg/dotvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal Vim config&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chandsie/dotfiles</title>
-    <updated>2022-09-28T01:42:55Z</updated>
-    <id>tag:github.com,2022-09-28:/chandsie/dotfiles</id>
-    <link href="https://github.com/chandsie/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dotfiles for fish and vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bkaradzic/dotvim</title>
-    <updated>2022-09-28T01:42:55Z</updated>
-    <id>tag:github.com,2022-09-28:/bkaradzic/dotvim</id>
-    <link href="https://github.com/bkaradzic/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My .vim config.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>maximbaz/lightline-ale</title>
+    <updated>2022-09-29T01:41:35Z</updated>
+    <id>tag:github.com,2022-09-29:/maximbaz/lightline-ale</id>
+    <link href="https://github.com/maximbaz/lightline-ale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ALE indicator for the lightline vim plugin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

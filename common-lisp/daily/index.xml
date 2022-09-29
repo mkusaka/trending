@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-28T01:34:39Z</updated>
+  <updated>2022-09-29T01:32:57Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zkat/memento-mori</title>
-    <updated>2022-09-28T01:34:39Z</updated>
-    <id>tag:github.com,2022-09-28:/zkat/memento-mori</id>
-    <link href="https://github.com/zkat/memento-mori" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Robustness through actors, for Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Quickstart&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;memento-mori&lt;/code&gt; is &lt;a href=&#34;http://github.com/zkat/memento-mori&#34;&gt;hosted at Github&lt;/a&gt;. You can download it there if it&#39;s not available on quicklisp yet.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;&#xA;CL-USER&amp;gt; (ql:quickload &#39;memento-mori)&#xA;To load &#34;memento-mori&#34;:&#xA;  Load 1 ASDF system:&#xA;    memento-mori&#xA;; Loading &#34;memento-mori&#34;&#xA;&#xA;(MEMENTO-MORI)&#xA;CL-USER&amp;gt; (defparameter *scheduler* (mori:make-threaded-scheduler 6))&#xA;*SCHEDULER*&#xA;CL-USER&amp;gt; *scheduler*&#xA;#&amp;lt;THREADED-SCHEDULER [6 threads] #x302000E02CFD&amp;gt;&#xA;CL-USER&amp;gt; (mori:send (mori:spawn #&#39;print :scheduler *scheduler*) &#34;Hello, world!&#34;)&#xA;&#34;Hello, world!&#34;&#xA;&#34;Hello, world!&#34;&#xA;CL-USER&amp;gt;&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Introduction&lt;/h1&gt; &#xA;&lt;h3&gt;Remember you must die&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt;memento-mori&lt;/code&gt; is a library for writing robust, actor-based systems in Common Lisp. It draws inspiration from &lt;a href=&#34;http://www.erlang.org&#34;&gt;Erlang/OTP&lt;/a&gt;, particularly its crash-first approach to high-availability systems, as well as &lt;a href=&#34;http://akka.io&#34;&gt;Akka&lt;/a&gt;. &lt;code&gt;memento-mori&lt;/code&gt; works under the assumption that whatever you do, you will eventually crash, and thus the best way to keep a system running is to try to limit the damage and recover.&lt;/p&gt;</summary>
-  </entry>
 </feed>
