@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:41:31Z</updated>
+  <updated>2022-09-30T01:44:42Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>viduraakalanka/HDL-Bits-Solutions</title>
-    <updated>2022-09-29T01:41:31Z</updated>
-    <id>tag:github.com,2022-09-29:/viduraakalanka/HDL-Bits-Solutions</id>
-    <link href="https://github.com/viduraakalanka/HDL-Bits-Solutions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a repository containing solutions to the problem statements given in HDL Bits website.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0616ygh/riosclass_template</title>
+    <updated>2022-09-30T01:44:42Z</updated>
+    <id>tag:github.com,2022-09-30:/0616ygh/riosclass_template</id>
+    <link href="https://github.com/0616ygh/riosclass_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

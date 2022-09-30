@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:39:28Z</updated>
+  <updated>2022-09-30T01:42:57Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>opensearch-project/project-website</title>
-    <updated>2022-09-29T01:39:28Z</updated>
-    <id>tag:github.com,2022-09-29:/opensearch-project/project-website</id>
-    <link href="https://github.com/opensearch-project/project-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The source to opensearch.org&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>heysagnik/screenREC</title>
+    <updated>2022-09-30T01:42:57Z</updated>
+    <id>tag:github.com,2022-09-30:/heysagnik/screenREC</id>
+    <link href="https://github.com/heysagnik/screenREC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A really simple , ad-free &amp; minimal web based screen recorder 📹&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>infobigsteptech/React-Challenge-2</title>
-    <updated>2022-09-29T01:39:28Z</updated>
-    <id>tag:github.com,2022-09-29:/infobigsteptech/React-Challenge-2</id>
-    <link href="https://github.com/infobigsteptech/React-Challenge-2" rel="alternate"></link>
+    <title>mentorchita/my_yourname_site</title>
+    <updated>2022-09-30T01:42:57Z</updated>
+    <id>tag:github.com,2022-09-30:/mentorchita/my_yourname_site</id>
+    <link href="https://github.com/mentorchita/my_yourname_site" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phuocng/csslayout</title>
+    <updated>2022-09-30T01:42:57Z</updated>
+    <id>tag:github.com,2022-09-30:/phuocng/csslayout</id>
+    <link href="https://github.com/phuocng/csslayout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

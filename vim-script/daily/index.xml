@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:41:35Z</updated>
+  <updated>2022-09-30T01:44:46Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>slindberg/dotvim</title>
-    <updated>2022-09-29T01:41:35Z</updated>
-    <id>tag:github.com,2022-09-29:/slindberg/dotvim</id>
-    <link href="https://github.com/slindberg/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal Vim config&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SphereII/7D2DModLauncher</title>
+    <updated>2022-09-30T01:44:46Z</updated>
+    <id>tag:github.com,2022-09-30:/SphereII/7D2DModLauncher</id>
+    <link href="https://github.com/SphereII/7D2DModLauncher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;7D2DModLauncher Unity Version&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maximbaz/lightline-ale</title>
-    <updated>2022-09-29T01:41:35Z</updated>
-    <id>tag:github.com,2022-09-29:/maximbaz/lightline-ale</id>
-    <link href="https://github.com/maximbaz/lightline-ale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ALE indicator for the lightline vim plugin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dofy/learn-vim</title>
+    <updated>2022-09-30T01:44:46Z</updated>
+    <id>tag:github.com,2022-09-30:/dofy/learn-vim</id>
+    <link href="https://github.com/dofy/learn-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim 实操教程（Learning Vim）Vim practical tutorial.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gosukiwi/vim-atom-dark</title>
+    <updated>2022-09-30T01:44:46Z</updated>
+    <id>tag:github.com,2022-09-30:/gosukiwi/vim-atom-dark</id>
+    <link href="https://github.com/gosukiwi/vim-atom-dark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vim theme inspired by Atom&#39;s default dark theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:32:11Z</updated>
+  <updated>2022-09-30T01:36:38Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/todo-csharp-sql</title>
-    <updated>2022-09-29T01:32:11Z</updated>
-    <id>tag:github.com,2022-09-29:/Azure-Samples/todo-csharp-sql</id>
-    <link href="https://github.com/Azure-Samples/todo-csharp-sql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A complete sample To Do application that demonstrates how to build an Azure solution using C#, Azure SQL for storage, and Azure Monitor for monitoring and logging.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

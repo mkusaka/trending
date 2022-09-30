@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:33:56Z</updated>
+  <updated>2022-09-30T01:38:20Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>epfl-theos/koopmans-qe-utils</title>
-    <updated>2022-09-29T01:33:56Z</updated>
-    <id>tag:github.com,2022-09-29:/epfl-theos/koopmans-qe-utils</id>
-    <link href="https://github.com/epfl-theos/koopmans-qe-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilities related to running Koopmans-compliant functionals with Quantum ESPRESSO&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>epfl-theos/koopmans-kcp</title>
-    <updated>2022-09-29T01:33:56Z</updated>
-    <id>tag:github.com,2022-09-29:/epfl-theos/koopmans-kcp</id>
-    <link href="https://github.com/epfl-theos/koopmans-kcp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of Koopmans functionals with full orbital optimization in Quantum ESPRESSO v4.1&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

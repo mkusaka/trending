@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:40:46Z</updated>
+  <updated>2022-09-30T01:44:06Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>polkadot-fellows/manifesto</title>
-    <updated>2022-09-29T01:40:46Z</updated>
-    <id>tag:github.com,2022-09-29:/polkadot-fellows/manifesto</id>
-    <link href="https://github.com/polkadot-fellows/manifesto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manifesto and rulebook for the Polkadot Fellowship&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Polkadot Fellowship Manifesto&lt;/h1&gt; &#xA;&lt;p&gt;Abstract: The Polkadot Fellowship is a rules-based ranked-membership organisation administered and empowered through blockchain logic hosted on the Polkadot Network. In this paper, the goals of the organisation are discussed, as is the background of its creation. Its bylaws and membership rules are specified and relevant conventions described.&lt;/p&gt; &#xA;&lt;p&gt;This document is provided as a LaTeX file &lt;code&gt;manifesto.tex&lt;/code&gt;. It can be built using &lt;code&gt;latexmk manifesto.tex&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;TODO:&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;References&lt;/li&gt; &#xA; &lt;li&gt;Spell-check&lt;/li&gt; &#xA; &lt;li&gt;Content: Appendix B&lt;/li&gt; &#xA; &lt;li&gt;Content: Remove Appendix C into forum topics&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

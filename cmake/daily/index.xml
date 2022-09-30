@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:32:54Z</updated>
+  <updated>2022-09-30T01:37:14Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>twig-energy/vcpkg-registry</title>
-    <updated>2022-09-29T01:32:54Z</updated>
-    <id>tag:github.com,2022-09-29:/twig-energy/vcpkg-registry</id>
-    <link href="https://github.com/twig-energy/vcpkg-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Registry for our own or third party libraries.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shinchiro/mpv-winbuild-cmake</title>
+    <updated>2022-09-30T01:37:14Z</updated>
+    <id>tag:github.com,2022-09-30:/shinchiro/mpv-winbuild-cmake</id>
+    <link href="https://github.com/shinchiro/mpv-winbuild-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake-based MinGW-w64 Cross Toolchain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bmstu-iu8-cpp-sem-1/lab-00-introduce-labs</title>
-    <updated>2022-09-29T01:32:54Z</updated>
-    <id>tag:github.com,2022-09-29:/bmstu-iu8-cpp-sem-1/lab-00-introduce-labs</id>
-    <link href="https://github.com/bmstu-iu8-cpp-sem-1/lab-00-introduce-labs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Учимся сдавать лабы&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>InjectiveLabs/sdk-cpp</title>
+    <updated>2022-09-30T01:37:14Z</updated>
+    <id>tag:github.com,2022-09-30:/InjectiveLabs/sdk-cpp</id>
+    <link href="https://github.com/InjectiveLabs/sdk-cpp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ros-perception/pcl_msgs</title>
-    <updated>2022-09-29T01:32:54Z</updated>
-    <id>tag:github.com,2022-09-29:/ros-perception/pcl_msgs</id>
-    <link href="https://github.com/ros-perception/pcl_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ROS package containing PCL-related messages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lifting-bits/cxx-common</title>
+    <updated>2022-09-30T01:37:14Z</updated>
+    <id>tag:github.com,2022-09-30:/lifting-bits/cxx-common</id>
+    <link href="https://github.com/lifting-bits/cxx-common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common dependency management for various Trail of Bits C++ codebases&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

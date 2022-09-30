@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PostScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:37:25Z</updated>
+  <updated>2022-09-30T01:41:34Z</updated>
   <subtitle>Daily Trending of PostScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cooplab/popgen-notes</title>
-    <updated>2022-09-29T01:37:25Z</updated>
-    <id>tag:github.com,2022-09-29:/cooplab/popgen-notes</id>
-    <link href="https://github.com/cooplab/popgen-notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Population genetics notes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:39:55Z</updated>
+  <updated>2022-09-30T01:43:36Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ScopeLift/l2-optimizoooors</title>
-    <updated>2022-09-29T01:39:55Z</updated>
-    <id>tag:github.com,2022-09-29:/ScopeLift/l2-optimizoooors</id>
-    <link href="https://github.com/ScopeLift/l2-optimizoooors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gas efficient routers for L2 applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MrToph/goostew</title>
-    <updated>2022-09-29T01:39:55Z</updated>
-    <id>tag:github.com,2022-09-29:/MrToph/goostew</id>
-    <link href="https://github.com/MrToph/goostew" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cairoeth/GOO-Racing</title>
-    <updated>2022-09-29T01:39:55Z</updated>
-    <id>tag:github.com,2022-09-29:/cairoeth/GOO-Racing</id>
-    <link href="https://github.com/cairoeth/GOO-Racing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dynamic on-chain racing game with real simulations 🏎️&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

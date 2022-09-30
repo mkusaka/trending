@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-29T01:33:41Z</updated>
+  <updated>2022-09-30T01:38:05Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nyoho/chitanda.el</title>
-    <updated>2022-09-29T01:33:41Z</updated>
-    <id>tag:github.com,2022-09-29:/Nyoho/chitanda.el</id>
-    <link href="https://github.com/Nyoho/chitanda.el" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;chitanda.el&lt;/h1&gt; &#xA;&lt;p&gt;さあどういう Emacs lisp にしようかなあ。&lt;/p&gt; &#xA;&lt;p&gt;まだ kininarimasu 関数を作っただけです。 まだそれはセリフを言うだけです。&lt;/p&gt; &#xA;&lt;p&gt;遠慮なく fork して pull request して下さい。&lt;/p&gt;</summary>
+    <title>magit/closql</title>
+    <updated>2022-09-30T01:38:05Z</updated>
+    <id>tag:github.com,2022-09-30:/magit/closql</id>
+    <link href="https://github.com/magit/closql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Store EIEIO objects using EmacSQL&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Store EIEIO objects using EmacSQL&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Store uniform [[https://www.gnu.org/software/emacs/manual/html_node/eieio/index.html][EIEIO]] objects in an [[https://github.com/skeeto/emacsql][EmacSQL]] database. [[https://www.sqlite.org][SQLite]] is used as backend. This library imposes some restrictions on what kind of objects can be stored; it isn&#39;t intended to store arbitrary objects. All objects have to share a common superclass and subclasses cannot add any additional instance slots.&lt;/p&gt;</summary>
   </entry>
 </feed>
