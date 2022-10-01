@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:44:49Z</updated>
+  <updated>2022-10-01T01:45:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AnsGoo/openDataV</title>
-    <updated>2022-09-30T01:44:49Z</updated>
-    <id>tag:github.com,2022-09-30:/AnsGoo/openDataV</id>
-    <link href="https://github.com/AnsGoo/openDataV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Vue3的拖拽式、低代码数据可视化平台&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

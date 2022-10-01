@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:40:44Z</updated>
+  <updated>2022-10-01T01:40:26Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nitely/nim-unicodedb</title>
+    <updated>2022-10-01T01:40:26Z</updated>
+    <id>tag:github.com,2022-10-01:/nitely/nim-unicodedb</id>
+    <link href="https://github.com/nitely/nim-unicodedb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unicode Character Database (UCD, tr44) for Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:44:47Z</updated>
+  <updated>2022-10-01T01:45:01Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ace-n/ContexType</title>
-    <updated>2022-09-30T01:44:47Z</updated>
-    <id>tag:github.com,2022-09-30:/ace-n/ContexType</id>
-    <link href="https://github.com/ace-n/ContexType" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An auto-completion tool for Microsoft Word. Built with Microsoft .NET. Ported from the Google Code below. (As of December 2012, the Google Code is no longer being fully maintained)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rigerd/ClientControl</title>
-    <updated>2022-09-30T01:44:47Z</updated>
-    <id>tag:github.com,2022-09-30:/rigerd/ClientControl</id>
-    <link href="https://github.com/rigerd/ClientControl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;to control a client&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

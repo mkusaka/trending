@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T02:01:04Z</updated>
+  <subtitle>Monthly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>facebookarchive/pop</title>
+    <updated>2022-10-01T02:01:04Z</updated>
+    <id>tag:github.com,2022-10-01:/facebookarchive/pop</id>
+    <link href="https://github.com/facebookarchive/pop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An extensible iOS and OS X animation library, useful for physics-based interactions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openai/miniF2F</title>
+    <updated>2022-10-01T02:01:04Z</updated>
+    <id>tag:github.com,2022-10-01:/openai/miniF2F</id>
+    <link href="https://github.com/openai/miniF2F" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Formal to Formal Mathematics Benchmark&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>johnboiles/obs-mac-virtualcam</title>
+    <updated>2022-10-01T02:01:04Z</updated>
+    <id>tag:github.com,2022-10-01:/johnboiles/obs-mac-virtualcam</id>
+    <link href="https://github.com/johnboiles/obs-mac-virtualcam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ARCHIVED! This plugin is officially a part of OBS as of version 26.1. See note below for info on upgrading. 🎉🎉🎉Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into Zoom, Hangouts, Jitsi etc. Like CatxFish/obs-virtualcam but for macOS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

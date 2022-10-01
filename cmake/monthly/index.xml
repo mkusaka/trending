@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T01:57:09Z</updated>
+  <subtitle>Monthly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>swift-nav/cmake</title>
+    <updated>2022-10-01T01:57:09Z</updated>
+    <id>tag:github.com,2022-10-01:/swift-nav/cmake</id>
+    <link href="https://github.com/swift-nav/cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Swift&#39;s commonly used CMake modules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Andersama/obs-asio</title>
+    <updated>2022-10-01T01:57:09Z</updated>
+    <id>tag:github.com,2022-10-01:/Andersama/obs-asio</id>
+    <link href="https://github.com/Andersama/obs-asio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ASIO plugin for OBS-Studio&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PolarityWorks/zmk-config-adv360</title>
+    <updated>2022-10-01T01:57:09Z</updated>
+    <id>tag:github.com,2022-10-01:/PolarityWorks/zmk-config-adv360</id>
+    <link href="https://github.com/PolarityWorks/zmk-config-adv360" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adv360 zmk config&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

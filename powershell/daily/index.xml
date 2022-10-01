@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:41:37Z</updated>
+  <updated>2022-10-01T01:41:29Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/azure-quickstart-templates</title>
+    <updated>2022-10-01T01:41:29Z</updated>
+    <id>tag:github.com,2022-10-01:/Azure/azure-quickstart-templates</id>
+    <link href="https://github.com/Azure/azure-quickstart-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Quickstart Templates&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Azure Resource Manager QuickStart Templates&lt;/h1&gt; &#xA;&lt;p&gt;This repo contains all currently available Azure Resource Manager templates contributed by the community. A searchable template index is maintained at &lt;a href=&#34;https://azure.microsoft.com/documentation/templates&#34;&gt;azure.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/README.md#contribution-guide&#34;&gt;&lt;strong&gt;Contribution guide&lt;/strong&gt;&lt;/a&gt; for how to use or contribute to this repo.&lt;/p&gt; &#xA;&lt;h2&gt;NOTE&lt;/h2&gt; &#xA;&lt;p&gt;We have finished migration of the samples to subfolders, see &lt;a href=&#34;https://azure.microsoft.com/documentation/templates&#34;&gt;azure.com&lt;/a&gt; if you need help finding a sample. A few obsolete samples were removed in the migration.&lt;/p&gt; &#xA;&lt;h3&gt;Final Note&lt;/h3&gt; &#xA;&lt;p&gt;This project has adopted the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/&#34;&gt;Microsoft Open Source Code of Conduct&lt;/a&gt;. For more information see the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/faq/&#34;&gt;Code of Conduct FAQ&lt;/a&gt; or contact &lt;a href=&#34;mailto:opencode@microsoft.com&#34;&gt;opencode@microsoft.com&lt;/a&gt; with any additional questions or comments.&lt;/p&gt;</summary>
+  </entry>
 </feed>

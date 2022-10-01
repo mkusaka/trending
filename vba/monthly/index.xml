@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VBA Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T02:04:22Z</updated>
+  <subtitle>Monthly Trending of VBA in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tannerhelland/PhotoDemon</title>
+    <updated>2022-10-01T02:04:22Z</updated>
+    <id>tag:github.com,2022-10-01:/tannerhelland/PhotoDemon</id>
+    <link href="https://github.com/tannerhelland/PhotoDemon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free portable photo editor focused on pro-grade features, high performance, and maximum usability.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/review-checklists</title>
+    <updated>2022-10-01T02:04:22Z</updated>
+    <id>tag:github.com,2022-10-01:/Azure/review-checklists</id>
+    <link href="https://github.com/Azure/review-checklists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo contains code and examples to operationalize spreadsheet-based checklists that can be used for Azure design reviews on multiple technologies.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:42:22Z</updated>
+  <updated>2022-10-01T01:42:27Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>szabodanika/microbin</title>
-    <updated>2022-09-30T01:42:22Z</updated>
-    <id>tag:github.com,2022-09-30:/szabodanika/microbin</id>
-    <link href="https://github.com/szabodanika/microbin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny, self-contained, configurable paste bin and URL shortener written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>diem/diem</title>
+    <updated>2022-10-01T01:42:27Z</updated>
+    <id>tag:github.com,2022-10-01:/diem/diem</id>
+    <link href="https://github.com/diem/diem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alibaba/GraphScope</title>
-    <updated>2022-09-30T01:42:22Z</updated>
-    <id>tag:github.com,2022-09-30:/alibaba/GraphScope</id>
-    <link href="https://github.com/alibaba/GraphScope" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>open-telemetry/opentelemetry-rust</title>
-    <updated>2022-09-30T01:42:22Z</updated>
-    <id>tag:github.com,2022-09-30:/open-telemetry/opentelemetry-rust</id>
-    <link href="https://github.com/open-telemetry/opentelemetry-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenTelemetry API and SDK for Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JulienMalka/Linkal</title>
+    <updated>2022-10-01T01:42:27Z</updated>
+    <id>tag:github.com,2022-10-01:/JulienMalka/Linkal</id>
+    <link href="https://github.com/JulienMalka/Linkal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A public-calendar aggregator server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T02:03:04Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wowchemy/wowchemy-hugo-themes</title>
+    <updated>2022-10-01T02:03:04Z</updated>
+    <id>tag:github.com,2022-10-01:/wowchemy/wowchemy-hugo-themes</id>
+    <link href="https://github.com/wowchemy/wowchemy-hugo-themes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 Hugo website builder, Hugo themes &amp; Hugo CMS. No code, easily build with widgets! 创建在线课程，学术简历或初创网站。#OpenScience&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jekyll/minima</title>
+    <updated>2022-10-01T02:03:04Z</updated>
+    <id>tag:github.com,2022-10-01:/jekyll/minima</id>
+    <link href="https://github.com/jekyll/minima" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minima is a one-size-fits-all Jekyll theme for writers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pages-themes/minimal</title>
+    <updated>2022-10-01T02:03:04Z</updated>
+    <id>tag:github.com,2022-10-01:/pages-themes/minimal</id>
+    <link href="https://github.com/pages-themes/minimal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal is a Jekyll theme for GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

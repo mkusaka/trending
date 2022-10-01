@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YARA Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T02:04:39Z</updated>
+  <subtitle>Monthly Trending of YARA in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sophoslabs/IoCs</title>
+    <updated>2022-10-01T02:04:39Z</updated>
+    <id>tag:github.com,2022-10-01:/sophoslabs/IoCs</id>
+    <link href="https://github.com/sophoslabs/IoCs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sophos-originated indicators-of-compromise from published reports&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>threatlabz/iocs</title>
+    <updated>2022-10-01T02:04:39Z</updated>
+    <id>tag:github.com,2022-10-01:/threatlabz/iocs</id>
+    <link href="https://github.com/threatlabz/iocs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is for Indicators of Compromise (IOCs) from Zscaler ThreatLabz public reports&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

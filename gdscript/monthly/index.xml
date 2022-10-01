@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T01:58:17Z</updated>
+  <subtitle>Monthly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RodZill4/material-maker</title>
+    <updated>2022-10-01T01:58:17Z</updated>
+    <id>tag:github.com,2022-10-01:/RodZill4/material-maker</id>
+    <link href="https://github.com/RodZill4/material-maker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A procedural textures authoring and 3D model painting tool based on the Godot game engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GDQuest/godot-demos-2022</title>
+    <updated>2022-10-01T01:58:17Z</updated>
+    <id>tag:github.com,2022-10-01:/GDQuest/godot-demos-2022</id>
+    <link href="https://github.com/GDQuest/godot-demos-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>virtual-puppet-project/vpuppr</title>
+    <updated>2022-10-01T01:58:17Z</updated>
+    <id>tag:github.com,2022-10-01:/virtual-puppet-project/vpuppr</id>
+    <link href="https://github.com/virtual-puppet-project/vpuppr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VTuber application made with Godot 3.5&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

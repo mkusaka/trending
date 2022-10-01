@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:36:36Z</updated>
+  <updated>2022-10-01T01:35:42Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>j-oy/github-actions-rdp</title>
+    <updated>2022-10-01T01:35:42Z</updated>
+    <id>tag:github.com,2022-10-01:/j-oy/github-actions-rdp</id>
+    <link href="https://github.com/j-oy/github-actions-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;windows rdp off of github actions lol&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bbggname/dedic-top</title>
+    <updated>2022-10-01T01:35:42Z</updated>
+    <id>tag:github.com,2022-10-01:/bbggname/dedic-top</id>
+    <link href="https://github.com/bbggname/dedic-top" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Pabedilan/freeRDP_Pabedilan</title>
+    <updated>2022-10-01T01:35:42Z</updated>
+    <id>tag:github.com,2022-10-01:/Pabedilan/freeRDP_Pabedilan</id>
+    <link href="https://github.com/Pabedilan/freeRDP_Pabedilan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

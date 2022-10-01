@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:42:58Z</updated>
+  <updated>2022-10-01T01:42:55Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ianhorswill/CS376-student</title>
-    <updated>2022-09-30T01:42:58Z</updated>
-    <id>tag:github.com,2022-09-30:/ianhorswill/CS376-student</id>
-    <link href="https://github.com/ianhorswill/CS376-student" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for CS376 students&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

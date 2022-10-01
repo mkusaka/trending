@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T01:57:57Z</updated>
+  <subtitle>Monthly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DockYard-Academy/beta_curriculum</title>
+    <updated>2022-10-01T01:57:57Z</updated>
+    <id>tag:github.com,2022-10-01:/DockYard-Academy/beta_curriculum</id>
+    <link href="https://github.com/DockYard-Academy/beta_curriculum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-grpc/grpc</title>
+    <updated>2022-10-01T01:57:57Z</updated>
+    <id>tag:github.com,2022-10-01:/elixir-grpc/grpc</id>
+    <link href="https://github.com/elixir-grpc/grpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir implementation of gRPC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>h4cc/awesome-elixir</title>
+    <updated>2022-10-01T01:57:57Z</updated>
+    <id>tag:github.com,2022-10-01:/h4cc/awesome-elixir</id>
+    <link href="https://github.com/h4cc/awesome-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

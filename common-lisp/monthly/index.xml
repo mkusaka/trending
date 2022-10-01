@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T01:57:14Z</updated>
+  <subtitle>Monthly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aleksandr-vin/Google-Code-Jam-Practice</title>
+    <updated>2022-10-01T01:57:14Z</updated>
+    <id>tag:github.com,2022-10-01:/aleksandr-vin/Google-Code-Jam-Practice</id>
+    <link href="https://github.com/aleksandr-vin/Google-Code-Jam-Practice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source codes for Google Code Jam practicing&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a repository for practicing for Google Code Jam 2010.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>kishorekdty/scheme1</title>
+    <updated>2022-10-01T01:57:14Z</updated>
+    <id>tag:github.com,2022-10-01:/kishorekdty/scheme1</id>
+    <link href="https://github.com/kishorekdty/scheme1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scheme1&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>death/consix</title>
+    <updated>2022-10-01T01:57:14Z</updated>
+    <id>tag:github.com,2022-10-01:/death/consix</id>
+    <link href="https://github.com/death/consix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lispy Qix-like game in 7 days&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CONSIX&lt;/h1&gt; &#xA;&lt;p&gt;CONSIX is a Lispy Qix-like game.&lt;/p&gt; &#xA;&lt;p&gt;It is my entry to &lt;a href=&#34;http://dto.github.com/notebook/lgdc.html&#34;&gt;The 2010 Lisp Game Design Challenge&lt;/a&gt; and should be &#34;done&#34; by 2010-03-27T23:59Z.&lt;/p&gt;</summary>
+  </entry>
+</feed>

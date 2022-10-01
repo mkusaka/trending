@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T02:04:07Z</updated>
+  <subtitle>Monthly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cq-panda/Vue.NetCore</title>
+    <updated>2022-10-01T02:04:07Z</updated>
+    <id>tag:github.com,2022-10-01:/cq-panda/Vue.NetCore</id>
+    <link href="https://github.com/cq-panda/Vue.NetCore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;.NetCore+Vue2/Vue3+Element plus+uniapp前后端分离，全自动生成代码；支持移动端(uniapp)ios/android/h5/微信小程序。http://www.volcore.xyz/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>XD-DENG/SQL-exercise</title>
+    <updated>2022-10-01T02:04:07Z</updated>
+    <id>tag:github.com,2022-10-01:/XD-DENG/SQL-exercise</id>
+    <link href="https://github.com/XD-DENG/SQL-exercise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Practice with &#34;Real&#34; SQL Problems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AlexTheAnalyst/SQL-Code</title>
+    <updated>2022-10-01T02:04:07Z</updated>
+    <id>tag:github.com,2022-10-01:/AlexTheAnalyst/SQL-Code</id>
+    <link href="https://github.com/AlexTheAnalyst/SQL-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All SQL Code or Documents from AlexTheAnalyst YouTube videos&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

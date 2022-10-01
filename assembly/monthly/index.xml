@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T01:55:56Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pret/pokered</title>
+    <updated>2022-10-01T01:55:56Z</updated>
+    <id>tag:github.com,2022-10-01:/pret/pokered</id>
+    <link href="https://github.com/pret/pokered" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Disassembly of Pokémon Red/Blue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nmlgc/ReC98</title>
+    <updated>2022-10-01T01:55:56Z</updated>
+    <id>tag:github.com,2022-10-01:/nmlgc/ReC98</id>
+    <link href="https://github.com/nmlgc/ReC98" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Touhou PC-98 Restoration Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VitorVilela7/wide-snes</title>
+    <updated>2022-10-01T01:55:56Z</updated>
+    <id>tag:github.com,2022-10-01:/VitorVilela7/wide-snes</id>
+    <link href="https://github.com/VitorVilela7/wide-snes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Super Mario World (SNES) Widescreen Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T02:04:24Z</updated>
+  <subtitle>Monthly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>YosysHQ/picorv32</title>
+    <updated>2022-10-01T02:04:24Z</updated>
+    <id>tag:github.com,2022-10-01:/YosysHQ/picorv32</id>
+    <link href="https://github.com/YosysHQ/picorv32" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PicoRV32 - A Size-Optimized RISC-V CPU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cornell-ece4750/ece4750-tut3-verilog</title>
+    <updated>2022-10-01T02:04:24Z</updated>
+    <id>tag:github.com,2022-10-01:/cornell-ece4750/ece4750-tut3-verilog</id>
+    <link href="https://github.com/cornell-ece4750/ece4750-tut3-verilog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ECE 4750 Tutorial 3: Verilog Hardware Description Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>The-OpenROAD-Project/OpenROAD-flow-scripts</title>
+    <updated>2022-10-01T02:04:24Z</updated>
+    <id>tag:github.com,2022-10-01:/The-OpenROAD-Project/OpenROAD-flow-scripts</id>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

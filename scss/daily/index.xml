@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:42:57Z</updated>
+  <updated>2022-10-01T01:42:54Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>heysagnik/screenREC</title>
-    <updated>2022-09-30T01:42:57Z</updated>
-    <id>tag:github.com,2022-09-30:/heysagnik/screenREC</id>
-    <link href="https://github.com/heysagnik/screenREC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A really simple , ad-free &amp; minimal web based screen recorder 📹&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mremarchant/ExampleSite</title>
+    <updated>2022-10-01T01:42:54Z</updated>
+    <id>tag:github.com,2022-10-01:/mremarchant/ExampleSite</id>
+    <link href="https://github.com/mremarchant/ExampleSite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example of a GitHub Pages website.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mentorchita/my_yourname_site</title>
-    <updated>2022-09-30T01:42:57Z</updated>
-    <id>tag:github.com,2022-09-30:/mentorchita/my_yourname_site</id>
-    <link href="https://github.com/mentorchita/my_yourname_site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zerostaticthemes/hugo-winston-theme</title>
+    <updated>2022-10-01T01:42:54Z</updated>
+    <id>tag:github.com,2022-10-01:/zerostaticthemes/hugo-winston-theme</id>
+    <link href="https://github.com/zerostaticthemes/hugo-winston-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal and bold blog theme for Hugo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>phuocng/csslayout</title>
-    <updated>2022-09-30T01:42:57Z</updated>
-    <id>tag:github.com,2022-09-30:/phuocng/csslayout</id>
-    <link href="https://github.com/phuocng/csslayout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>app-generator/django-soft-ui-dashboard</title>
+    <updated>2022-10-01T01:42:54Z</updated>
+    <id>tag:github.com,2022-10-01:/app-generator/django-soft-ui-dashboard</id>
+    <link href="https://github.com/app-generator/django-soft-ui-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Soft UI Dashboard - Open-source Django Dashboard | AppSeed&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

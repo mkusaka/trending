@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-01T02:02:35Z</updated>
+  <subtitle>Monthly Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nicehash/NiceHashMiner</title>
+    <updated>2022-10-01T02:02:35Z</updated>
+    <id>tag:github.com,2022-10-01:/nicehash/NiceHashMiner</id>
+    <link href="https://github.com/nicehash/NiceHashMiner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NiceHash Miner&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>decalage2/oletools</title>
+    <updated>2022-10-01T02:02:35Z</updated>
+    <id>tag:github.com,2022-10-01:/decalage2/oletools</id>
+    <link href="https://github.com/decalage2/oletools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phodal/github</title>
+    <updated>2022-10-01T02:02:35Z</updated>
+    <id>tag:github.com,2022-10-01:/phodal/github</id>
+    <link href="https://github.com/phodal/github" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users&#39; behavior. Find some thing interest.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

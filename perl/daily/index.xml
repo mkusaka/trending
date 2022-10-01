@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:41:21Z</updated>
+  <updated>2022-10-01T01:41:08Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jmacarthur/flatten</title>
-    <updated>2022-09-30T01:41:21Z</updated>
-    <id>tag:github.com,2022-09-30:/jmacarthur/flatten</id>
-    <link href="https://github.com/jmacarthur/flatten" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Perl scripts to unfold 3D OpenSCAD shapes&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;flatten&lt;/h1&gt; &#xA;&lt;p&gt;Perl scripts to unfold 3D OpenSCAD shapes.&lt;/p&gt; &#xA;&lt;p&gt;Example usage and self test:&lt;/p&gt; &#xA;&lt;p&gt;./flatten.pl --thickness=3 tests/lifters.csg ./process.pl --kerf=130 tests/lifters.csg-3.svg&lt;/p&gt; &#xA;&lt;p&gt;diff lifters.csg-3.svg lifters.csg-3.svg.correct diff lifters.csg-3-processed.svg lifters.csg-3-processed.svg.correct&lt;/p&gt;</summary>
-  </entry>
 </feed>

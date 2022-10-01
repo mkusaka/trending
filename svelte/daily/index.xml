@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:43:43Z</updated>
+  <updated>2022-10-01T01:43:58Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fireship-io/fireship.io</title>
-    <updated>2022-09-30T01:43:43Z</updated>
-    <id>tag:github.com,2022-09-30:/fireship-io/fireship.io</id>
-    <link href="https://github.com/fireship-io/fireship.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build and ship your app faster https://fireship.io&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yizhe-ang/k-means-explorable</title>
+    <updated>2022-10-01T01:43:58Z</updated>
+    <id>tag:github.com,2022-10-01:/yizhe-ang/k-means-explorable</id>
+    <link href="https://github.com/yizhe-ang/k-means-explorable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Explorable Explainer of K-Means Clustering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

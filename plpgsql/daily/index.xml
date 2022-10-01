@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-09-30T01:41:32Z</updated>
+  <updated>2022-10-01T01:41:25Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pgRouting/pgrouting</title>
+    <updated>2022-10-01T01:41:25Z</updated>
+    <id>tag:github.com,2022-10-01:/pgRouting/pgrouting</id>
+    <link href="https://github.com/pgRouting/pgrouting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository contains pgRouting library. Development branch is &#34;develop&#34;, stable branch is &#34;master&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
