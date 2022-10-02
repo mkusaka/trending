@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:48:39Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mlogclub/bbs-go</title>
+    <updated>2022-10-02T01:48:39Z</updated>
+    <id>tag:github.com,2022-10-02:/mlogclub/bbs-go</id>
+    <link href="https://github.com/mlogclub/bbs-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Golang的开源社区系统。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>linhaojun857/aurora-public</title>
+    <updated>2022-10-02T01:48:39Z</updated>
+    <id>tag:github.com,2022-10-02:/linhaojun857/aurora-public</id>
+    <link href="https://github.com/linhaojun857/aurora-public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于SpringBoot+Vue开发的个人博客系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>buqiyuan/vue3-antd-admin</title>
+    <updated>2022-10-02T01:48:39Z</updated>
+    <id>tag:github.com,2022-10-02:/buqiyuan/vue3-antd-admin</id>
+    <link href="https://github.com/buqiyuan/vue3-antd-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

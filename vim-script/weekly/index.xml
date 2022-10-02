@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:48:36Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rust-lang/rust.vim</title>
+    <updated>2022-10-02T01:48:36Z</updated>
+    <id>tag:github.com,2022-10-02:/rust-lang/rust.vim</id>
+    <link href="https://github.com/rust-lang/rust.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration for Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>guns/vim-sexp</title>
+    <updated>2022-10-02T01:48:36Z</updated>
+    <id>tag:github.com,2022-10-02:/guns/vim-sexp</id>
+    <link href="https://github.com/guns/vim-sexp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Precision Editing for S-expressions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>atropo/dotFiles</title>
+    <updated>2022-10-02T01:48:36Z</updated>
+    <id>tag:github.com,2022-10-02:/atropo/dotFiles</id>
+    <link href="https://github.com/atropo/dotFiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My dot files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

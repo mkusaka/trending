@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Standard ML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:43:53Z</updated>
+  <updated>2022-10-02T01:39:03Z</updated>
   <subtitle>Daily Trending of Standard ML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rshepherd/sml-boolsat</title>
-    <updated>2022-10-01T01:43:53Z</updated>
-    <id>tag:github.com,2022-10-01:/rshepherd/sml-boolsat</id>
-    <link href="https://github.com/rshepherd/sml-boolsat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A brute force 3-SAT solver in SML&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rems-project/sail</title>
+    <updated>2022-10-02T01:39:03Z</updated>
+    <id>tag:github.com,2022-10-02:/rems-project/sail</id>
+    <link href="https://github.com/rems-project/sail" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sail architecture definition language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

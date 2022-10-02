@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:40:28Z</updated>
+  <updated>2022-10-02T01:36:32Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>input-output-hk/bitte-world</title>
-    <updated>2022-10-01T01:40:28Z</updated>
-    <id>tag:github.com,2022-10-01:/input-output-hk/bitte-world</id>
-    <link href="https://github.com/input-output-hk/bitte-world" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bitte world test cluster for new bitte features&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>input-output-hk/devx</title>
-    <updated>2022-10-01T01:40:28Z</updated>
-    <id>tag:github.com,2022-10-01:/input-output-hk/devx</id>
-    <link href="https://github.com/input-output-hk/devx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slightly opinionated shared GitHub Action for Cardano-Haskell projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DarKWinGTM/aw-express</title>
-    <updated>2022-10-01T01:40:28Z</updated>
-    <id>tag:github.com,2022-10-01:/DarKWinGTM/aw-express</id>
-    <link href="https://github.com/DarKWinGTM/aw-express" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DavHau/nix-portable</title>
+    <updated>2022-10-02T01:36:32Z</updated>
+    <id>tag:github.com,2022-10-02:/DavHau/nix-portable</id>
+    <link href="https://github.com/DavHau/nix-portable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix - Static, Permissionless, Installation-free, Pre-configured&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

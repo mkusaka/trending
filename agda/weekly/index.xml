@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Agda Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:40:30Z</updated>
+  <subtitle>Weekly Trending of Agda in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>input-output-hk/formal-ledger-specifications</title>
+    <updated>2022-10-02T01:40:30Z</updated>
+    <id>tag:github.com,2022-10-02:/input-output-hk/formal-ledger-specifications</id>
+    <link href="https://github.com/input-output-hk/formal-ledger-specifications" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

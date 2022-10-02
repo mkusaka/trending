@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:40:36Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Unity-Technologies/com.unity.webrtc</title>
+    <updated>2022-10-02T01:40:36Z</updated>
+    <id>tag:github.com,2022-10-02:/Unity-Technologies/com.unity.webrtc</id>
+    <link href="https://github.com/Unity-Technologies/com.unity.webrtc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WebRTC package for Unity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blackbird71SR/Hello-World</title>
+    <updated>2022-10-02T01:40:36Z</updated>
+    <id>tag:github.com,2022-10-02:/blackbird71SR/Hello-World</id>
+    <link href="https://github.com/blackbird71SR/Hello-World" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello World in all possible programmnig languages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ElectricRCAircraftGuy/eRCaGuy_hello_world</title>
+    <updated>2022-10-02T01:40:36Z</updated>
+    <id>tag:github.com,2022-10-02:/ElectricRCAircraftGuy/eRCaGuy_hello_world</id>
+    <link href="https://github.com/ElectricRCAircraftGuy/eRCaGuy_hello_world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;hello world&#34; demos &amp; templates for various languages, for beginners and experts alike, incl. gcc build commands for C &amp; C++&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

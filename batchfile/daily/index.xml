@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:35:42Z</updated>
+  <updated>2022-10-02T01:32:10Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>j-oy/github-actions-rdp</title>
-    <updated>2022-10-01T01:35:42Z</updated>
-    <id>tag:github.com,2022-10-01:/j-oy/github-actions-rdp</id>
-    <link href="https://github.com/j-oy/github-actions-rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;windows rdp off of github actions lol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Octanium91/NFS_Heat_CPU_Load_FIX</title>
+    <updated>2022-10-02T01:32:10Z</updated>
+    <id>tag:github.com,2022-10-02:/Octanium91/NFS_Heat_CPU_Load_FIX</id>
+    <link href="https://github.com/Octanium91/NFS_Heat_CPU_Load_FIX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Need for Speed Heat, CPU 90-100% load fix (script, windows)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bbggname/dedic-top</title>
-    <updated>2022-10-01T01:35:42Z</updated>
-    <id>tag:github.com,2022-10-01:/bbggname/dedic-top</id>
-    <link href="https://github.com/bbggname/dedic-top" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yamato-Security/EnableWindowsLogSettings</title>
+    <updated>2022-10-02T01:32:10Z</updated>
+    <id>tag:github.com,2022-10-02:/Yamato-Security/EnableWindowsLogSettings</id>
+    <link href="https://github.com/Yamato-Security/EnableWindowsLogSettings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation and PowerShell &amp; Batch scripts to properly enable Windows event logs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Pabedilan/freeRDP_Pabedilan</title>
-    <updated>2022-10-01T01:35:42Z</updated>
-    <id>tag:github.com,2022-10-01:/Pabedilan/freeRDP_Pabedilan</id>
-    <link href="https://github.com/Pabedilan/freeRDP_Pabedilan" rel="alternate"></link>
+    <title>duongnhhtc/RDPngrokkk</title>
+    <updated>2022-10-02T01:32:10Z</updated>
+    <id>tag:github.com,2022-10-02:/duongnhhtc/RDPngrokkk</id>
+    <link href="https://github.com/duongnhhtc/RDPngrokkk" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

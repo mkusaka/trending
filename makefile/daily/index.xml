@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:40:12Z</updated>
+  <updated>2022-10-02T01:36:17Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AOSPA/android_device_qcom_common</title>
-    <updated>2022-10-01T01:40:12Z</updated>
-    <id>tag:github.com,2022-10-01:/AOSPA/android_device_qcom_common</id>
-    <link href="https://github.com/AOSPA/android_device_qcom_common" rel="alternate"></link>
+    <title>thomas-fossati/draft-ftbs-rats-msg-wrap</title>
+    <updated>2022-10-02T01:36:17Z</updated>
+    <id>tag:github.com,2022-10-02:/thomas-fossati/draft-ftbs-rats-msg-wrap</id>
+    <link href="https://github.com/thomas-fossati/draft-ftbs-rats-msg-wrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RATS conceptual messages wrapper&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common</title>
+    <updated>2022-10-02T01:36:17Z</updated>
+    <id>tag:github.com,2022-10-02:/Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common</id>
+    <link href="https://github.com/Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xmos/lib_trycatch</title>
-    <updated>2022-10-01T01:40:12Z</updated>
-    <id>tag:github.com,2022-10-01:/xmos/lib_trycatch</id>
-    <link href="https://github.com/xmos/lib_trycatch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Try/catch exception handling library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ipfs/specs</title>
+    <updated>2022-10-02T01:36:17Z</updated>
+    <id>tag:github.com,2022-10-02:/ipfs/specs</id>
+    <link href="https://github.com/ipfs/specs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Technical specifications for the IPFS protocol stack&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

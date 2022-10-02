@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:47:28Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ObjectProfile/NumericScales</title>
+    <updated>2022-10-02T01:47:28Z</updated>
+    <id>tag:github.com,2022-10-02:/ObjectProfile/NumericScales</id>
+    <link href="https://github.com/ObjectProfile/NumericScales" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Numerical scales for Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pharo-contributions/Athens-SVG</title>
+    <updated>2022-10-02T01:47:28Z</updated>
+    <id>tag:github.com,2022-10-02:/pharo-contributions/Athens-SVG</id>
+    <link href="https://github.com/pharo-contributions/Athens-SVG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SVG support for Athens framework in Pharo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gt4jenkins</title>
+    <updated>2022-10-02T01:47:28Z</updated>
+    <id>tag:github.com,2022-10-02:/feenkcom/gt4jenkins</id>
+    <link href="https://github.com/feenkcom/gt4jenkins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An elegant Jenkins client for Glamorous Toolkit.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

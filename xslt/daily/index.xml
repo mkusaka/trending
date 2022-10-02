@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:45:10Z</updated>
+  <updated>2022-10-02T01:40:12Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>deepin-community/docbook2x</title>
-    <updated>2022-10-01T01:45:10Z</updated>
-    <id>tag:github.com,2022-10-01:/deepin-community/docbook2x</id>
-    <link href="https://github.com/deepin-community/docbook2x" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docbook2X README&lt;/h1&gt; &#xA;&lt;p&gt;docbook2X converts DocBook documents into man pages and Texinfo documents.&lt;/p&gt; &#xA;&lt;p&gt;For detailed instructions on building and installing docbook2X, see the file INSTALL (or doc/install.html). Basically it is just the usual ./configure; make; make install mantra.&lt;/p&gt; &#xA;&lt;p&gt;The documentation in HTML, Texinfo, and man-page format is found under doc/. It is automatically generated from DocBook source, of course. It is distributed with the rest of the package in releases, but for CVS versions you must first build the package to read it.&lt;/p&gt; &#xA;&lt;p&gt;Enjoy.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>deepin-community/dblatex</title>
-    <updated>2022-10-01T01:45:10Z</updated>
-    <id>tag:github.com,2022-10-01:/deepin-community/dblatex</id>
-    <link href="https://github.com/deepin-community/dblatex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

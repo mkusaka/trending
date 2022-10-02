@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Roff Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:46:45Z</updated>
+  <subtitle>Weekly Trending of Roff in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BoiseState/CS321-resources</title>
+    <updated>2022-10-02T01:46:45Z</updated>
+    <id>tag:github.com,2022-10-02:/BoiseState/CS321-resources</id>
+    <link href="https://github.com/BoiseState/CS321-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public resources for CS 321&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oasislinux/oasis</title>
+    <updated>2022-10-02T01:46:45Z</updated>
+    <id>tag:github.com,2022-10-02:/oasislinux/oasis</id>
+    <link href="https://github.com/oasislinux/oasis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a small statically-linked linux system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

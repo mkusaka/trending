@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub NSIS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:45:02Z</updated>
+  <subtitle>Weekly Trending of NSIS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kaylh/RetroBat</title>
+    <updated>2022-10-02T01:45:02Z</updated>
+    <id>tag:github.com,2022-10-02:/kaylh/RetroBat</id>
+    <link href="https://github.com/kaylh/RetroBat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RetroBat is the best way to play your ROMs collection on Windows !&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

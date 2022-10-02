@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:45:00Z</updated>
+  <updated>2022-10-02T01:40:02Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ivannotes/dotfiles</title>
-    <updated>2022-10-01T01:45:00Z</updated>
-    <id>tag:github.com,2022-10-01:/ivannotes/dotfiles</id>
-    <link href="https://github.com/ivannotes/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my vimrc file&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>junegunn/gv.vim</title>
-    <updated>2022-10-01T01:45:00Z</updated>
-    <id>tag:github.com,2022-10-01:/junegunn/gv.vim</id>
-    <link href="https://github.com/junegunn/gv.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A git commit browser in Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>parhammmm/dotfiles</title>
-    <updated>2022-10-01T01:45:00Z</updated>
-    <id>tag:github.com,2022-10-01:/parhammmm/dotfiles</id>
-    <link href="https://github.com/parhammmm/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seatont/Dot-Files</title>
+    <updated>2022-10-02T01:40:02Z</updated>
+    <id>tag:github.com,2022-10-02:/seatont/Dot-Files</id>
+    <link href="https://github.com/seatont/Dot-Files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just my .rc files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

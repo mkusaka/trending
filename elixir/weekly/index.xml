@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:42:09Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lucasvegi/Elixir-Code-Smells</title>
+    <updated>2022-10-02T01:42:09Z</updated>
+    <id>tag:github.com,2022-10-02:/lucasvegi/Elixir-Code-Smells</id>
+    <link href="https://github.com/lucasvegi/Elixir-Code-Smells" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catalog of Elixir-specific code smells&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bitwalker/distillery</title>
+    <updated>2022-10-02T01:42:09Z</updated>
+    <id>tag:github.com,2022-10-02:/bitwalker/distillery</id>
+    <link href="https://github.com/bitwalker/distillery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplify deployments in Elixir with OTP releases!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>absinthe-graphql/absinthe</title>
+    <updated>2022-10-02T01:42:09Z</updated>
+    <id>tag:github.com,2022-10-02:/absinthe-graphql/absinthe</id>
+    <link href="https://github.com/absinthe-graphql/absinthe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The GraphQL toolkit for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:47:32Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AmazingAng/WTF-Solidity</title>
+    <updated>2022-10-02T01:47:32Z</updated>
+    <id>tag:github.com,2022-10-02:/AmazingAng/WTF-Solidity</id>
+    <link href="https://github.com/AmazingAng/WTF-Solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FractonProtocol/FractonV1</title>
+    <updated>2022-10-02T01:47:32Z</updated>
+    <id>tag:github.com,2022-10-02:/FractonProtocol/FractonV1</id>
+    <link href="https://github.com/FractonProtocol/FractonV1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-09-frax</title>
+    <updated>2022-10-02T01:47:32Z</updated>
+    <id>tag:github.com,2022-10-02:/code-423n4/2022-09-frax</id>
+    <link href="https://github.com/code-423n4/2022-09-frax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:37:39Z</updated>
+  <updated>2022-10-02T01:34:03Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>deepin-community/emoslib</title>
-    <updated>2022-10-01T01:37:39Z</updated>
-    <id>tag:github.com,2022-10-01:/deepin-community/emoslib</id>
-    <link href="https://github.com/deepin-community/emoslib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

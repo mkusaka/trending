@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:42:27Z</updated>
+  <updated>2022-10-02T01:38:03Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>diem/diem</title>
-    <updated>2022-10-01T01:42:27Z</updated>
-    <id>tag:github.com,2022-10-01:/diem/diem</id>
-    <link href="https://github.com/diem/diem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unicode-org/icu4x</title>
+    <updated>2022-10-02T01:38:03Z</updated>
+    <id>tag:github.com,2022-10-02:/unicode-org/icu4x</id>
+    <link href="https://github.com/unicode-org/icu4x" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solving i18n for client-side and resource-constrained environments.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JulienMalka/Linkal</title>
-    <updated>2022-10-01T01:42:27Z</updated>
-    <id>tag:github.com,2022-10-01:/JulienMalka/Linkal</id>
-    <link href="https://github.com/JulienMalka/Linkal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A public-calendar aggregator server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>swanandx/lemmeknow</title>
+    <updated>2022-10-02T01:38:03Z</updated>
+    <id>tag:github.com,2022-10-02:/swanandx/lemmeknow</id>
+    <link href="https://github.com/swanandx/lemmeknow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The fastest way to identify anything!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

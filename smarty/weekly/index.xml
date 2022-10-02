@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-02T01:47:30Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>paimonhub/Paimonnode</title>
+    <updated>2022-10-02T01:47:30Z</updated>
+    <id>tag:github.com,2022-10-02:/paimonhub/Paimonnode</id>
+    <link href="https://github.com/paimonhub/Paimonnode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free subcribe for everyone&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CrowdStrike/falcon-helm</title>
+    <updated>2022-10-02T01:47:30Z</updated>
+    <id>tag:github.com,2022-10-02:/CrowdStrike/falcon-helm</id>
+    <link href="https://github.com/CrowdStrike/falcon-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Charts for running CrowdStrike Falcon with Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pkp/healthSciences</title>
+    <updated>2022-10-02T01:47:30Z</updated>
+    <id>tag:github.com,2022-10-02:/pkp/healthSciences</id>
+    <link href="https://github.com/pkp/healthSciences" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An official theme for OJS 3.1.1+ designed for health science journals or any journal that wants a clean, modern appearance.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

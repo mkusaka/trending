@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:35:45Z</updated>
+  <updated>2022-10-02T01:32:13Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OpenPLi-meta/meta-miraclebox</title>
+    <updated>2022-10-02T01:32:13Z</updated>
+    <id>tag:github.com,2022-10-02:/OpenPLi-meta/meta-miraclebox</id>
+    <link href="https://github.com/OpenPLi-meta/meta-miraclebox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BSP layer for MIRACLEBOX STB&#39;s&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenPLi-meta/meta-qviart</title>
+    <updated>2022-10-02T01:32:13Z</updated>
+    <id>tag:github.com,2022-10-02:/OpenPLi-meta/meta-qviart</id>
+    <link href="https://github.com/OpenPLi-meta/meta-qviart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BSP layer for QVIART STB&#39;s&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenPLi-meta/meta-sab</title>
+    <updated>2022-10-02T01:32:13Z</updated>
+    <id>tag:github.com,2022-10-02:/OpenPLi-meta/meta-sab</id>
+    <link href="https://github.com/OpenPLi-meta/meta-sab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BSP layer for SAB STB&#39;s&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

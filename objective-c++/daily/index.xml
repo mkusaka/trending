@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:40:31Z</updated>
+  <updated>2022-10-02T01:36:35Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>opa334/SafariPlus</title>
-    <updated>2022-10-01T01:40:31Z</updated>
-    <id>tag:github.com,2022-10-01:/opa334/SafariPlus</id>
-    <link href="https://github.com/opa334/SafariPlus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tweak for iOS App &#34;Safari&#34; - Various enhancements&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

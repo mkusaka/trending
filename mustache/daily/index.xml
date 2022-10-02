@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-01T01:40:23Z</updated>
+  <updated>2022-10-02T01:36:27Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>giantswarm/fluent-logshipping-app</title>
+    <updated>2022-10-02T01:36:27Z</updated>
+    <id>tag:github.com,2022-10-02:/giantswarm/fluent-logshipping-app</id>
+    <link href="https://github.com/giantswarm/fluent-logshipping-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fluentd/Fluent-Bit app chart to forward logs to CloudWatch or S3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/flamethrower-app</title>
+    <updated>2022-10-02T01:36:27Z</updated>
+    <id>tag:github.com,2022-10-02:/giantswarm/flamethrower-app</id>
+    <link href="https://github.com/giantswarm/flamethrower-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A DNS load testing app wrapper for https://github.com/DNS-OARC/flamethrower&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
