@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:36:17Z</updated>
+  <updated>2022-10-03T01:39:26Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thomas-fossati/draft-ftbs-rats-msg-wrap</title>
-    <updated>2022-10-02T01:36:17Z</updated>
-    <id>tag:github.com,2022-10-02:/thomas-fossati/draft-ftbs-rats-msg-wrap</id>
-    <link href="https://github.com/thomas-fossati/draft-ftbs-rats-msg-wrap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RATS conceptual messages wrapper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Xilinx/qemu-devicetrees</title>
+    <updated>2022-10-03T01:39:26Z</updated>
+    <id>tag:github.com,2022-10-03:/Xilinx/qemu-devicetrees</id>
+    <link href="https://github.com/Xilinx/qemu-devicetrees" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Device trees used by QEMU to describe the hardware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common</title>
-    <updated>2022-10-02T01:36:17Z</updated>
-    <id>tag:github.com,2022-10-02:/Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common</id>
-    <link href="https://github.com/Mi-Thorium/proprietary_vendor_xiaomi_mithorium-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sheetpilot/sheet-pilot-proto</title>
+    <updated>2022-10-03T01:39:26Z</updated>
+    <id>tag:github.com,2022-10-03:/sheetpilot/sheet-pilot-proto</id>
+    <link href="https://github.com/sheetpilot/sheet-pilot-proto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sheet-pilot-proto&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ipfs/specs</title>
-    <updated>2022-10-02T01:36:17Z</updated>
-    <id>tag:github.com,2022-10-02:/ipfs/specs</id>
-    <link href="https://github.com/ipfs/specs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Technical specifications for the IPFS protocol stack&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wolfi-dev/os</title>
+    <updated>2022-10-03T01:39:26Z</updated>
+    <id>tag:github.com,2022-10-03:/wolfi-dev/os</id>
+    <link href="https://github.com/wolfi-dev/os" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Main package repository for production Wolfi images&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

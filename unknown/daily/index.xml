@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:31:45Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-10-03T01:33:37Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>inspiradanacomputacao/tecnologistas-contra-bolsonaro</title>
-    <updated>2022-10-02T01:31:45Z</updated>
-    <id>tag:github.com,2022-10-02:/inspiradanacomputacao/tecnologistas-contra-bolsonaro</id>
-    <link href="https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manifesto de Pessoas Tecnologistas contra Bolsonaro&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GoVanguard/Getting-into-InfoSec-and-Cybersecurity</title>
+    <updated>2022-10-03T01:33:37Z</updated>
+    <id>tag:github.com,2022-10-03:/GoVanguard/Getting-into-InfoSec-and-Cybersecurity</id>
+    <link href="https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A shorter, less intimidating list of infosec resources helpful for anyone trying to learn.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lidangzzz/canada-run</title>
-    <updated>2022-10-02T01:31:45Z</updated>
-    <id>tag:github.com,2022-10-02:/lidangzzz/canada-run</id>
-    <link href="https://github.com/lidangzzz/canada-run" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;成本100万人民币拿15张枫叶卡零基础教程（程序员篇）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stephrobert/awesome-french-devops</title>
+    <updated>2022-10-03T01:33:37Z</updated>
+    <id>tag:github.com,2022-10-03:/stephrobert/awesome-french-devops</id>
+    <link href="https://github.com/stephrobert/awesome-french-devops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aquasecurity/cloud-security-remediation-guides</title>
-    <updated>2022-10-02T01:31:45Z</updated>
-    <id>tag:github.com,2022-10-02:/aquasecurity/cloud-security-remediation-guides</id>
-    <link href="https://github.com/aquasecurity/cloud-security-remediation-guides" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Security Remediation Guides&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OtacilioN/awesome-hacktoberfest-2022</title>
+    <updated>2022-10-03T01:33:37Z</updated>
+    <id>tag:github.com,2022-10-03:/OtacilioN/awesome-hacktoberfest-2022</id>
+    <link href="https://github.com/OtacilioN/awesome-hacktoberfest-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome Hacktoberfest 2022 repositories, guides and resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

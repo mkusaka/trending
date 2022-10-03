@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:36:20Z</updated>
+  <updated>2022-10-03T01:39:29Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hjfritz/Exercise_VRPG</title>
+    <updated>2022-10-03T01:39:29Z</updated>
+    <id>tag:github.com,2022-10-03:/hjfritz/Exercise_VRPG</id>
+    <link href="https://github.com/hjfritz/Exercise_VRPG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

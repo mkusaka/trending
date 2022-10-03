@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:38:03Z</updated>
+  <updated>2022-10-03T01:41:49Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>unicode-org/icu4x</title>
-    <updated>2022-10-02T01:38:03Z</updated>
-    <id>tag:github.com,2022-10-02:/unicode-org/icu4x</id>
-    <link href="https://github.com/unicode-org/icu4x" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solving i18n for client-side and resource-constrained environments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>swanandx/lemmeknow</title>
-    <updated>2022-10-02T01:38:03Z</updated>
-    <id>tag:github.com,2022-10-02:/swanandx/lemmeknow</id>
-    <link href="https://github.com/swanandx/lemmeknow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The fastest way to identify anything!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/crates.io</title>
+    <updated>2022-10-03T01:41:49Z</updated>
+    <id>tag:github.com,2022-10-03:/rust-lang/crates.io</id>
+    <link href="https://github.com/rust-lang/crates.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for crates.io&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

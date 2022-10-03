@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:38:20Z</updated>
+  <updated>2022-10-03T01:42:02Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eastpavillion/Scala</title>
-    <updated>2022-10-02T01:38:20Z</updated>
-    <id>tag:github.com,2022-10-02:/eastpavillion/Scala</id>
-    <link href="https://github.com/eastpavillion/Scala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programming in Scala Practice&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Scala&lt;/h1&gt; &#xA;&lt;p&gt;Programming in Scala Practice&lt;/p&gt;</summary>
-  </entry>
 </feed>

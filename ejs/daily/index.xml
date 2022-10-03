@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:33:42Z</updated>
+  <updated>2022-10-03T01:36:06Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ScottyLabs/scottylol</title>
+    <updated>2022-10-03T01:36:06Z</updated>
+    <id>tag:github.com,2022-10-03:/ScottyLabs/scottylol</id>
+    <link href="https://github.com/ScottyLabs/scottylol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Search bookmarking tool for CMU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kodingkeun/shorturl</title>
+    <updated>2022-10-03T01:36:06Z</updated>
+    <id>tag:github.com,2022-10-03:/kodingkeun/shorturl</id>
+    <link href="https://github.com/kodingkeun/shorturl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Url shortner&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

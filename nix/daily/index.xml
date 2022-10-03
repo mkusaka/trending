@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:36:32Z</updated>
+  <updated>2022-10-03T01:39:42Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DavHau/nix-portable</title>
-    <updated>2022-10-02T01:36:32Z</updated>
-    <id>tag:github.com,2022-10-02:/DavHau/nix-portable</id>
-    <link href="https://github.com/DavHau/nix-portable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix - Static, Permissionless, Installation-free, Pre-configured&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>telent/liminix</title>
+    <updated>2022-10-03T01:39:42Z</updated>
+    <id>tag:github.com,2022-10-03:/telent/liminix</id>
+    <link href="https://github.com/telent/liminix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of gti.telent.net:dan/liminix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:39:01Z</updated>
+  <updated>2022-10-03T01:42:42Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GNSPS/solidity-bytes-utils</title>
-    <updated>2022-10-02T01:39:01Z</updated>
-    <id>tag:github.com,2022-10-02:/GNSPS/solidity-bytes-utils</id>
-    <link href="https://github.com/GNSPS/solidity-bytes-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utility Solidity library composed of basic operations for tightly packed bytes arrays&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>metafy-social/web3-smart-contracts</title>
+    <updated>2022-10-03T01:42:42Z</updated>
+    <id>tag:github.com,2022-10-03:/metafy-social/web3-smart-contracts</id>
+    <link href="https://github.com/metafy-social/web3-smart-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository of smart-contracts in the web3 space, all in a simple and collective space of hardhat for you to refer anytime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>certusone/wormhole-lending-examples</title>
+    <updated>2022-10-03T01:42:42Z</updated>
+    <id>tag:github.com,2022-10-03:/certusone/wormhole-lending-examples</id>
+    <link href="https://github.com/certusone/wormhole-lending-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wormhole Dapp Integration for Cross Chain Borrow/Lending&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

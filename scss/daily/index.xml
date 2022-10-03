@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:38:28Z</updated>
+  <updated>2022-10-03T01:42:12Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BeeSoftLabs/sass-project</title>
-    <updated>2022-10-02T01:38:28Z</updated>
-    <id>tag:github.com,2022-10-02:/BeeSoftLabs/sass-project</id>
-    <link href="https://github.com/BeeSoftLabs/sass-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akhil-aggarwal/cookie</title>
+    <updated>2022-10-03T01:42:12Z</updated>
+    <id>tag:github.com,2022-10-03:/akhil-aggarwal/cookie</id>
+    <link href="https://github.com/akhil-aggarwal/cookie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a demonstration website on how internet cookies work.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Open-Source-Contributors-JSS/Hacktoberfest2019</title>
+    <updated>2022-10-03T01:42:12Z</updated>
+    <id>tag:github.com,2022-10-03:/Open-Source-Contributors-JSS/Hacktoberfest2019</id>
+    <link href="https://github.com/Open-Source-Contributors-JSS/Hacktoberfest2019" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Happy Hacktober! This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

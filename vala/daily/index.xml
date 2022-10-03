@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:39:56Z</updated>
+  <updated>2022-10-03T01:44:01Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>davidgomes/cubes-on-steroids</title>
-    <updated>2022-10-02T01:39:56Z</updated>
-    <id>tag:github.com,2022-10-02:/davidgomes/cubes-on-steroids</id>
-    <link href="https://github.com/davidgomes/cubes-on-steroids" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple 3D game where you must fly away from cubes on steroids&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

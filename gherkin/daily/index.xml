@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:34:09Z</updated>
+  <updated>2022-10-03T01:36:44Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wp-cli/db-command</title>
+    <updated>2022-10-03T01:36:44Z</updated>
+    <id>tag:github.com,2022-10-03:/wp-cli/db-command</id>
+    <link href="https://github.com/wp-cli/db-command" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Performs basic database operations using credentials stored in wp-config.php.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

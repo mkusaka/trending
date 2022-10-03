@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:40:04Z</updated>
+  <updated>2022-10-03T01:44:11Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WeAreMahsaAmini/TwitterScraper</title>
-    <updated>2022-10-02T01:40:04Z</updated>
-    <id>tag:github.com,2022-10-02:/WeAreMahsaAmini/TwitterScraper</id>
-    <link href="https://github.com/WeAreMahsaAmini/TwitterScraper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lee-citizen/avatar</title>
+    <updated>2022-10-03T01:44:11Z</updated>
+    <id>tag:github.com,2022-10-03:/lee-citizen/avatar</id>
+    <link href="https://github.com/lee-citizen/avatar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;火爆全网的国庆头像生成器, 微信小程序源码 , 修改了一些已知bug, 用的是uniapp框架, 仅支持微信小程序端 , 获取微信头像, 可以选择国旗或其他小图标, 支持扩展&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rule-34/App</title>
+    <updated>2022-10-03T01:44:11Z</updated>
+    <id>tag:github.com,2022-10-03:/Rule-34/App</id>
+    <link href="https://github.com/Rule-34/App" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Browse the most popular Boorus with the Rule 34 App.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kavyanshpandey/Covid19--Tracker</title>
+    <updated>2022-10-03T01:44:11Z</updated>
+    <id>tag:github.com,2022-10-03:/kavyanshpandey/Covid19--Tracker</id>
+    <link href="https://github.com/kavyanshpandey/Covid19--Tracker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;It is a web application made with VueJs by using Covid19 API.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

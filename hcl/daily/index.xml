@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-02T01:34:29Z</updated>
+  <updated>2022-10-03T01:37:17Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-google-modules/terraform-google-vpn</title>
-    <updated>2022-10-02T01:34:29Z</updated>
-    <id>tag:github.com,2022-10-02:/terraform-google-modules/terraform-google-vpn</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-vpn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module for setting up Google Cloud VPN&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure-Samples/aks-multi-cluster-service-mesh</title>
+    <updated>2022-10-03T01:37:17Z</updated>
+    <id>tag:github.com,2022-10-03:/Azure-Samples/aks-multi-cluster-service-mesh</id>
+    <link href="https://github.com/Azure-Samples/aks-multi-cluster-service-mesh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This sample describes how to deploy applications across multiple AKS clusters by using a Service Mesh (e.g., Istio)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>champ-oss/terraform-aws-lambda</title>
+    <updated>2022-10-03T01:37:17Z</updated>
+    <id>tag:github.com,2022-10-03:/champ-oss/terraform-aws-lambda</id>
+    <link href="https://github.com/champ-oss/terraform-aws-lambda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creates an AWS Lambda function&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-ecr</title>
+    <updated>2022-10-03T01:37:17Z</updated>
+    <id>tag:github.com,2022-10-03:/cloudposse/terraform-aws-ecr</id>
+    <link href="https://github.com/cloudposse/terraform-aws-ecr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module to manage Docker Container Registries on AWS ECR&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
