@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:39:42Z</updated>
+  <updated>2022-10-04T01:36:25Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>telent/liminix</title>
-    <updated>2022-10-03T01:39:42Z</updated>
-    <id>tag:github.com,2022-10-03:/telent/liminix</id>
-    <link href="https://github.com/telent/liminix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of gti.telent.net:dan/liminix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jpetrucciani/nix</title>
+    <updated>2022-10-04T01:36:25Z</updated>
+    <id>tag:github.com,2022-10-04:/jpetrucciani/nix</id>
+    <link href="https://github.com/jpetrucciani/nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my nix modules, overlays, host configurations, and more!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/nix-environments</title>
+    <updated>2022-10-04T01:36:25Z</updated>
+    <id>tag:github.com,2022-10-04:/nix-community/nix-environments</id>
+    <link href="https://github.com/nix-community/nix-environments" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository to maintain out-of-tree shell.nix files (maintainer=@Mic92)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

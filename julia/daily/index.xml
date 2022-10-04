@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:38:39Z</updated>
+  <updated>2022-10-04T01:35:17Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>korsbo/Latexify.jl</title>
-    <updated>2022-10-03T01:38:39Z</updated>
-    <id>tag:github.com,2022-10-03:/korsbo/Latexify.jl</id>
-    <link href="https://github.com/korsbo/Latexify.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convert julia objects to LaTeX equations, arrays or other environments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaMath/Bessels.jl</title>
-    <updated>2022-10-03T01:38:39Z</updated>
-    <id>tag:github.com,2022-10-03:/JuliaMath/Bessels.jl</id>
-    <link href="https://github.com/JuliaMath/Bessels.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bessel functions for real arguments and orders&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/TurbulenceConvection.jl</title>
+    <updated>2022-10-04T01:35:17Z</updated>
+    <id>tag:github.com,2022-10-04:/CliMA/TurbulenceConvection.jl</id>
+    <link href="https://github.com/CliMA/TurbulenceConvection.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

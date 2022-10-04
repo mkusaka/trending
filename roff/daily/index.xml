@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:41:45Z</updated>
+  <updated>2022-10-04T01:38:08Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>knmnyn/aclanthology.info</title>
-    <updated>2022-10-03T01:41:45Z</updated>
-    <id>tag:github.com,2022-10-03:/knmnyn/aclanthology.info</id>
-    <link href="https://github.com/knmnyn/aclanthology.info" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The software that runs the current version of the ACL Anthology. It&#39;s architected as a Rails 3 application running Project Blacklight for faceted navigation and Solr as its search backend. This is the development version.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svind1er/Bonelab-Mods</title>
+    <updated>2022-10-04T01:38:08Z</updated>
+    <id>tag:github.com,2022-10-04:/svind1er/Bonelab-Mods</id>
+    <link href="https://github.com/svind1er/Bonelab-Mods" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bonelab mods&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

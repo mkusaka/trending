@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:42:14Z</updated>
+  <updated>2022-10-04T01:38:32Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jeanfrancoisemil/ld51</title>
-    <updated>2022-10-03T01:42:14Z</updated>
-    <id>tag:github.com,2022-10-03:/jeanfrancoisemil/ld51</id>
-    <link href="https://github.com/jeanfrancoisemil/ld51" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A game jam repo for ludum dare 51 w/ friends. OwO&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmorimEmanuell/10seconds</title>
+    <updated>2022-10-04T01:38:32Z</updated>
+    <id>tag:github.com,2022-10-04:/AmorimEmanuell/10seconds</id>
+    <link href="https://github.com/AmorimEmanuell/10seconds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

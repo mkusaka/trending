@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:44:04Z</updated>
+  <updated>2022-10-04T01:40:10Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mirkat1206/2021_Spring_NCTU_ICLAB</title>
+    <updated>2022-10-04T01:40:10Z</updated>
+    <id>tag:github.com,2022-10-04:/mirkat1206/2021_Spring_NCTU_ICLAB</id>
+    <link href="https://github.com/mirkat1206/2021_Spring_NCTU_ICLAB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NCTU 2021 Spring Integrated Circuit Design Laboratory&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

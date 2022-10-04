@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:33:37Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-10-04T01:31:14Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GoVanguard/Getting-into-InfoSec-and-Cybersecurity</title>
-    <updated>2022-10-03T01:33:37Z</updated>
-    <id>tag:github.com,2022-10-03:/GoVanguard/Getting-into-InfoSec-and-Cybersecurity</id>
-    <link href="https://github.com/GoVanguard/Getting-into-InfoSec-and-Cybersecurity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A shorter, less intimidating list of infosec resources helpful for anyone trying to learn.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codedamn/projects</title>
+    <updated>2022-10-04T01:31:14Z</updated>
+    <id>tag:github.com,2022-10-04:/codedamn/projects</id>
+    <link href="https://github.com/codedamn/projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of high-quality projects to build as a developer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stephrobert/awesome-french-devops</title>
-    <updated>2022-10-03T01:33:37Z</updated>
-    <id>tag:github.com,2022-10-03:/stephrobert/awesome-french-devops</id>
-    <link href="https://github.com/stephrobert/awesome-french-devops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AUK9527/Are-u-ok</title>
+    <updated>2022-10-04T01:31:14Z</updated>
+    <id>tag:github.com,2022-10-04:/AUK9527/Are-u-ok</id>
+    <link href="https://github.com/AUK9527/Are-u-ok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OtacilioN/awesome-hacktoberfest-2022</title>
-    <updated>2022-10-03T01:33:37Z</updated>
-    <id>tag:github.com,2022-10-03:/OtacilioN/awesome-hacktoberfest-2022</id>
-    <link href="https://github.com/OtacilioN/awesome-hacktoberfest-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome Hacktoberfest 2022 repositories, guides and resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lucidrains/phenaki-pytorch</title>
+    <updated>2022-10-04T01:31:14Z</updated>
+    <id>tag:github.com,2022-10-04:/lucidrains/phenaki-pytorch</id>
+    <link href="https://github.com/lucidrains/phenaki-pytorch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementation of Phenaki Video, which uses Mask GIT to produce videos of up to 2 minutes in length, in Pytorch&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

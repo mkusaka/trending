@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:37:11Z</updated>
+  <updated>2022-10-04T01:34:06Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jelrod45/Grails-Management-Application</title>
-    <updated>2022-10-03T01:37:11Z</updated>
-    <id>tag:github.com,2022-10-03:/jelrod45/Grails-Management-Application</id>
-    <link href="https://github.com/jelrod45/Grails-Management-Application" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An application used for managing a mySQL database with domain objects, relationships, and user accounts with a UI powered by Vaadin.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DeekshithSN/shared-library</title>
+    <updated>2022-10-04T01:34:06Z</updated>
+    <id>tag:github.com,2022-10-04:/DeekshithSN/shared-library</id>
+    <link href="https://github.com/DeekshithSN/shared-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

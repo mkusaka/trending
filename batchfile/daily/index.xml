@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:34:26Z</updated>
+  <updated>2022-10-04T01:31:44Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pytorch/functorch</title>
-    <updated>2022-10-03T01:34:26Z</updated>
-    <id>tag:github.com,2022-10-03:/pytorch/functorch</id>
-    <link href="https://github.com/pytorch/functorch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;functorch is JAX-like composable function transforms for PyTorch.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Fnoberz/Valorant.Spoofer</title>
+    <updated>2022-10-04T01:31:44Z</updated>
+    <id>tag:github.com,2022-10-04:/Fnoberz/Valorant.Spoofer</id>
+    <link href="https://github.com/Fnoberz/Valorant.Spoofer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📗〢Spoofer Hardware ID / Code 152&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

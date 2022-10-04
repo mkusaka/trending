@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASP.NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:34:17Z</updated>
+  <updated>2022-10-04T01:31:36Z</updated>
   <subtitle>Daily Trending of ASP.NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Mingrui-Yu/shape_control_DLO_2</title>
-    <updated>2022-10-03T01:34:17Z</updated>
-    <id>tag:github.com,2022-10-03:/Mingrui-Yu/shape_control_DLO_2</id>
-    <link href="https://github.com/Mingrui-Yu/shape_control_DLO_2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for the IEEE T-RO Paper &#34;Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

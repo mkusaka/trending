@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:35:10Z</updated>
+  <updated>2022-10-04T01:32:19Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mikera/imagez</title>
-    <updated>2022-10-03T01:35:10Z</updated>
-    <id>tag:github.com,2022-10-03:/mikera/imagez</id>
-    <link href="https://github.com/mikera/imagez" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Image processing library for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>babashka/babashka.nrepl</title>
-    <updated>2022-10-03T01:35:10Z</updated>
-    <id>tag:github.com,2022-10-03:/babashka/babashka.nrepl</id>
-    <link href="https://github.com/babashka/babashka.nrepl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The nREPL server from babashka as a library, so it can be used from other SCI-based CLIs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>escherize/bask</title>
+    <updated>2022-10-04T01:32:19Z</updated>
+    <id>tag:github.com,2022-10-04:/escherize/bask</id>
+    <link href="https://github.com/escherize/bask" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get user input on the cli&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

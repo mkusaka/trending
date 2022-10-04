@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-03T01:39:57Z</updated>
+  <updated>2022-10-04T01:36:38Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Guest0x0/pruning-tutor</title>
-    <updated>2022-10-03T01:39:57Z</updated>
-    <id>tag:github.com,2022-10-03:/Guest0x0/pruning-tutor</id>
-    <link href="https://github.com/Guest0x0/pruning-tutor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a tutorial implementation on an elaborator of a dependently typed language with pruning&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
