@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:40:09Z</updated>
+  <updated>2022-10-05T01:43:15Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fallingcat/HomebrewGPU</title>
-    <updated>2022-10-04T01:40:09Z</updated>
-    <id>tag:github.com,2022-10-04:/fallingcat/HomebrewGPU</id>
-    <link href="https://github.com/fallingcat/HomebrewGPU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HomebrewGPU is a simple ray tracing GPU on FPGA which implements basic ray-primitive intersection, BVH traversal, shadowing, reflection and refraction. This is a project I used to learn programming in Verilog and I think it should be educational to someone who is new to FPGA.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

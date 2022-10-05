@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:32:39Z</updated>
+  <updated>2022-10-05T01:35:57Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SJTU-IPADS/reef</title>
+    <updated>2022-10-05T01:35:57Z</updated>
+    <id>tag:github.com,2022-10-05:/SJTU-IPADS/reef</id>
+    <link href="https://github.com/SJTU-IPADS/reef" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;REEF is a GPU-accelerated DNN inference serving system that enables instant kernel preemption and biased concurrent execution in GPU scheduling.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

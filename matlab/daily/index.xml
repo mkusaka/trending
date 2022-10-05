@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:36:13Z</updated>
+  <updated>2022-10-05T01:39:25Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>suman-shah/Learn-to-Code-with-MATLAB</title>
-    <updated>2022-10-04T01:36:13Z</updated>
-    <id>tag:github.com,2022-10-04:/suman-shah/Learn-to-Code-with-MATLAB</id>
-    <link href="https://github.com/suman-shah/Learn-to-Code-with-MATLAB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Let&#39;s learn how to work with variables, functions, vectors and many more inbuilt commands.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheDatumOrg/TSDistEval</title>
-    <updated>2022-10-04T01:36:13Z</updated>
-    <id>tag:github.com,2022-10-04:/TheDatumOrg/TSDistEval</id>
-    <link href="https://github.com/TheDatumOrg/TSDistEval" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheDatumOrg/grail-matlab</title>
-    <updated>2022-10-04T01:36:13Z</updated>
-    <id>tag:github.com,2022-10-04:/TheDatumOrg/grail-matlab</id>
-    <link href="https://github.com/TheDatumOrg/grail-matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generic RepresentAtIon Learning for Time Series&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheDatumOrg/UCRArchiveFixes</title>
+    <updated>2022-10-05T01:39:25Z</updated>
+    <id>tag:github.com,2022-10-05:/TheDatumOrg/UCRArchiveFixes</id>
+    <link href="https://github.com/TheDatumOrg/UCRArchiveFixes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2018 UCR Time-Series Archive: Backward Compatibility, Missing Values, and Varying Lengths&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:36:11Z</updated>
+  <updated>2022-10-05T01:39:23Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>upptime/upptime</title>
-    <updated>2022-10-04T01:36:11Z</updated>
-    <id>tag:github.com,2022-10-04:/upptime/upptime</id>
-    <link href="https://github.com/upptime/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⬆️ Free uptime monitor and status page powered by GitHub&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

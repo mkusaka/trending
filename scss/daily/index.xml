@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:38:31Z</updated>
+  <updated>2022-10-05T01:41:39Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>d-edge/foss-acronyms</title>
-    <updated>2022-10-04T01:38:31Z</updated>
-    <id>tag:github.com,2022-10-04:/d-edge/foss-acronyms</id>
-    <link href="https://github.com/d-edge/foss-acronyms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of abbreviations used within the FOSS community, and their definitions and usages.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prysmaticlabs/prysm-web-ui</title>
-    <updated>2022-10-04T01:38:31Z</updated>
-    <id>tag:github.com,2022-10-04:/prysmaticlabs/prysm-web-ui</id>
-    <link href="https://github.com/prysmaticlabs/prysm-web-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web interface for the Prysm validator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gardener/website-generator</title>
+    <updated>2022-10-05T01:41:39Z</updated>
+    <id>tag:github.com,2022-10-05:/gardener/website-generator</id>
+    <link href="https://github.com/gardener/website-generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools to generate the public facing gardener website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

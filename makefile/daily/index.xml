@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:36:09Z</updated>
+  <updated>2022-10-05T01:39:21Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yoanbernabeu/Symfony-And-Docker-Makefile-Taskfile</title>
-    <updated>2022-10-04T01:36:09Z</updated>
-    <id>tag:github.com,2022-10-04:/yoanbernabeu/Symfony-And-Docker-Makefile-Taskfile</id>
-    <link href="https://github.com/yoanbernabeu/Symfony-And-Docker-Makefile-Taskfile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Symfony And Docker Makefile + Taskfile&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>libopencm3/libopencm3-examples</title>
-    <updated>2022-10-04T01:36:09Z</updated>
-    <id>tag:github.com,2022-10-04:/libopencm3/libopencm3-examples</id>
-    <link href="https://github.com/libopencm3/libopencm3-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple example projects showing how to use libopencm3.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>34306/JailedSpeedAds</title>
+    <updated>2022-10-05T01:39:21Z</updated>
+    <id>tag:github.com,2022-10-05:/34306/JailedSpeedAds</id>
+    <link href="https://github.com/34306/JailedSpeedAds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Speed up ads for jailed devices!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

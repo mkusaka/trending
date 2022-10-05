@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:33:43Z</updated>
+  <updated>2022-10-05T01:36:55Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BL-MSCH-C220-F22/Exercise-03d-Shaders</title>
+    <updated>2022-10-05T01:36:55Z</updated>
+    <id>tag:github.com,2022-10-05:/BL-MSCH-C220-F22/Exercise-03d-Shaders</id>
+    <link href="https://github.com/BL-MSCH-C220-F22/Exercise-03d-Shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>db0/Stable-Horde-Client</title>
+    <updated>2022-10-05T01:36:55Z</updated>
+    <id>tag:github.com,2022-10-05:/db0/Stable-Horde-Client</id>
+    <link href="https://github.com/db0/Stable-Horde-Client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple client to create Stable Diffusion images without any dependencies or hardware requirements&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dubiouspotions/DubiousWare</title>
+    <updated>2022-10-05T01:36:55Z</updated>
+    <id>tag:github.com,2022-10-05:/dubiouspotions/DubiousWare</id>
+    <link href="https://github.com/dubiouspotions/DubiousWare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

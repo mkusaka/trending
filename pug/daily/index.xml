@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pug Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:37:25Z</updated>
+  <updated>2022-10-05T01:40:37Z</updated>
   <subtitle>Daily Trending of Pug in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>random-yang/paper</title>
-    <updated>2022-10-04T01:37:25Z</updated>
-    <id>tag:github.com,2022-10-04:/random-yang/paper</id>
-    <link href="https://github.com/random-yang/paper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个类纸风的主题paper 🎉 (stop update)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

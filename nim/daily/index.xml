@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:36:23Z</updated>
+  <updated>2022-10-05T01:39:36Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Hapenia-Lans/gdextension-nim</title>
-    <updated>2022-10-04T01:36:23Z</updated>
-    <id>tag:github.com,2022-10-04:/Hapenia-Lans/gdextension-nim</id>
-    <link href="https://github.com/Hapenia-Lans/gdextension-nim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot 4.0 GDExtension binding for nim language.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>status-im/nim-snappy</title>
+    <updated>2022-10-05T01:39:36Z</updated>
+    <id>tag:github.com,2022-10-05:/status-im/nim-snappy</id>
+    <link href="https://github.com/status-im/nim-snappy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nim implementation of Snappy compression algorithm&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nimbus-security-resources</title>
+    <updated>2022-10-05T01:39:36Z</updated>
+    <id>tag:github.com,2022-10-05:/status-im/nimbus-security-resources</id>
+    <link href="https://github.com/status-im/nimbus-security-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Security resources used in Nimbus project (lists of common passwords, etc)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nim-chronicles-tail</title>
+    <updated>2022-10-05T01:39:36Z</updated>
+    <id>tag:github.com,2022-10-05:/status-im/nim-chronicles-tail</id>
+    <link href="https://github.com/status-im/nim-chronicles-tail" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interactive filtering and visualization tool for Chronicles&#39; JSON outputs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

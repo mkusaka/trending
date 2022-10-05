@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:35:52Z</updated>
+  <updated>2022-10-05T01:39:05Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MaLuns/hexo-theme-async</title>
-    <updated>2022-10-04T01:35:52Z</updated>
-    <id>tag:github.com,2022-10-04:/MaLuns/hexo-theme-async</id>
-    <link href="https://github.com/MaLuns/hexo-theme-async" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple, lightweight Hexo theme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yyzwz/medicine-system</title>
-    <updated>2022-10-04T01:35:52Z</updated>
-    <id>tag:github.com,2022-10-04:/yyzwz/medicine-system</id>
-    <link href="https://github.com/yyzwz/medicine-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Vue和SpringBoot的大病保险管理系统，前端采用View UI组件库，后端集成MyBatisPlus连接MySQL数据库，采用Spring Security做权限控制。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yyzwz/bill-system</title>
-    <updated>2022-10-04T01:35:52Z</updated>
-    <id>tag:github.com,2022-10-04:/yyzwz/bill-system</id>
-    <link href="https://github.com/yyzwz/bill-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Vue和SpringBoot的超市账单管理系统，前端采用View UI组件库，后端集成MyBatisPlus连接MySQL数据库，采用Spring Security做权限控制。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FFmpeg/web</title>
+    <updated>2022-10-05T01:39:05Z</updated>
+    <id>tag:github.com,2022-10-05:/FFmpeg/web</id>
+    <link href="https://github.com/FFmpeg/web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of git://ffmpeg.org/ffmpeg-web&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

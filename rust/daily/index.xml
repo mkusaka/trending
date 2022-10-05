@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:38:11Z</updated>
+  <updated>2022-10-05T01:41:13Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>danielhuang/cotton</title>
-    <updated>2022-10-04T01:38:11Z</updated>
-    <id>tag:github.com,2022-10-04:/danielhuang/cotton</id>
-    <link href="https://github.com/danielhuang/cotton" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package manager for JavaScript projects. With a fast network, `cotton install` runs faster than `rm -rf node_modules`.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cnpryer/huak</title>
-    <updated>2022-10-04T01:38:11Z</updated>
-    <id>tag:github.com,2022-10-04:/cnpryer/huak</id>
-    <link href="https://github.com/cnpryer/huak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📦 A Python package manager written in Rust inspired by Cargo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jon-Becker/heimdall-rs</title>
+    <updated>2022-10-05T01:41:13Z</updated>
+    <id>tag:github.com,2022-10-05:/Jon-Becker/heimdall-rs</id>
+    <link href="https://github.com/Jon-Becker/heimdall-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Heimdall is an advanced Ethereum smart contract toolkit for forensic and heuristic analysis.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

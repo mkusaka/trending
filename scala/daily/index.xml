@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:38:21Z</updated>
+  <updated>2022-10-05T01:41:30Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jaytaylor/Squerbuld</title>
+    <updated>2022-10-05T01:41:30Z</updated>
+    <id>tag:github.com,2022-10-05:/jaytaylor/Squerbuld</id>
+    <link href="https://github.com/jaytaylor/Squerbuld" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Squeryl-based bulletin board demo&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Squerbuld&lt;/h1&gt; &#xA;&lt;p&gt;A Squeryl-based bulletin board demo&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Topl/quivr4s</title>
+    <updated>2022-10-05T01:41:30Z</updated>
+    <id>tag:github.com,2022-10-05:/Topl/quivr4s</id>
+    <link href="https://github.com/Topl/quivr4s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scala reference implementation for the Quivr DSL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;quivr4s&lt;/h1&gt; &#xA;&lt;p&gt;Scala reference implementation for the Quivr DSL&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:36:12Z</updated>
+  <updated>2022-10-05T01:39:24Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>brandoncimino/ludum-dare-51</title>
-    <updated>2022-10-04T01:36:12Z</updated>
-    <id>tag:github.com,2022-10-04:/brandoncimino/ludum-dare-51</id>
-    <link href="https://github.com/brandoncimino/ludum-dare-51" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

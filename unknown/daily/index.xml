@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:31:14Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-10-05T01:34:10Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>codedamn/projects</title>
-    <updated>2022-10-04T01:31:14Z</updated>
-    <id>tag:github.com,2022-10-04:/codedamn/projects</id>
-    <link href="https://github.com/codedamn/projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of high-quality projects to build as a developer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FernandaCader/recursos-datos</title>
+    <updated>2022-10-05T01:34:10Z</updated>
+    <id>tag:github.com,2022-10-05:/FernandaCader/recursos-datos</id>
+    <link href="https://github.com/FernandaCader/recursos-datos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Recopilación de recursos de ciencias de datos por parte de la comunidad Datos Para Todos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AUK9527/Are-u-ok</title>
-    <updated>2022-10-04T01:31:14Z</updated>
-    <id>tag:github.com,2022-10-04:/AUK9527/Are-u-ok</id>
-    <link href="https://github.com/AUK9527/Are-u-ok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PRBonn/kiss-icp</title>
+    <updated>2022-10-05T01:34:10Z</updated>
+    <id>tag:github.com,2022-10-05:/PRBonn/kiss-icp</id>
+    <link href="https://github.com/PRBonn/kiss-icp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done in the Right Way https://arxiv.org/pdf/2209.15397.pdf&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lucidrains/phenaki-pytorch</title>
-    <updated>2022-10-04T01:31:14Z</updated>
-    <id>tag:github.com,2022-10-04:/lucidrains/phenaki-pytorch</id>
-    <link href="https://github.com/lucidrains/phenaki-pytorch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of Phenaki Video, which uses Mask GIT to produce videos of up to 2 minutes in length, in Pytorch&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trickest/wordlists</title>
+    <updated>2022-10-05T01:34:10Z</updated>
+    <id>tag:github.com,2022-10-05:/trickest/wordlists</id>
+    <link href="https://github.com/trickest/wordlists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Real-world infosec wordlists, updated regularly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

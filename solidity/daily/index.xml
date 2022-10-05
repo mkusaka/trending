@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:39:00Z</updated>
+  <updated>2022-10-05T01:42:07Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FairCrypto/XEN-crypto</title>
-    <updated>2022-10-04T01:39:00Z</updated>
-    <id>tag:github.com,2022-10-04:/FairCrypto/XEN-crypto</id>
-    <link href="https://github.com/FairCrypto/XEN-crypto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XEN Crypto&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xInuarashi/ERC721G</title>
+    <updated>2022-10-05T01:42:07Z</updated>
+    <id>tag:github.com,2022-10-05:/0xInuarashi/ERC721G</id>
+    <link href="https://github.com/0xInuarashi/ERC721G" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERC721G is the all-in-one batch minting and staking smart contract created by 0xInuarashi for Gangster All Star, and open-sourced to the public to build upon.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AmazingAng/WTF-Solidity</title>
-    <updated>2022-10-04T01:39:00Z</updated>
-    <id>tag:github.com,2022-10-04:/AmazingAng/WTF-Solidity</id>
-    <link href="https://github.com/AmazingAng/WTF-Solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;我最近在重新学solidity，巩固一下细节，也写一个“Solidity极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Darlington02/circom-next-starter</title>
+    <updated>2022-10-05T01:42:07Z</updated>
+    <id>tag:github.com,2022-10-05:/Darlington02/circom-next-starter</id>
+    <link href="https://github.com/Darlington02/circom-next-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ultimate Boilerplate for building full stack ZK decentralized application, with Circom, Snarkjs and Nextjs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codemistic/Web3</title>
+    <updated>2022-10-05T01:42:07Z</updated>
+    <id>tag:github.com,2022-10-05:/codemistic/Web3</id>
+    <link href="https://github.com/codemistic/Web3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository to help the open-source community with Web3 contributions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

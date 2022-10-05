@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-04T01:38:13Z</updated>
+  <updated>2022-10-05T01:41:13Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xieyu33333/badwords</title>
-    <updated>2022-10-04T01:38:13Z</updated>
-    <id>tag:github.com,2022-10-04:/xieyu33333/badwords</id>
-    <link href="https://github.com/xieyu33333/badwords" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;judge the badwords in Chinese&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;badwords&lt;/h1&gt; &#xA;&lt;p&gt;badwords包含一个敏感词库，如果一段字符串中含有敏感词，则返回true，否则返回false&lt;/p&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;p&gt;In your gem file:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ruby&#34;&gt;gem &#34;badwords&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;For example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ruby&#34;&gt;&#34;testwords&#34;.badwords&#xA;#=&amp;gt;false&#xA;&#xA;&#34;江青是毛泽东的妻子&#34;.badwords&#xA;#=&amp;gt;true&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>
