@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:43:21Z</updated>
+  <updated>2022-10-06T01:38:52Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ap/vim-css-color</title>
-    <updated>2022-10-05T01:43:21Z</updated>
-    <id>tag:github.com,2022-10-05:/ap/vim-css-color</id>
-    <link href="https://github.com/ap/vim-css-color" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Preview colours in source code while editing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OmniSharp/omnisharp-vim</title>
+    <updated>2022-10-06T01:38:52Z</updated>
+    <id>tag:github.com,2022-10-06:/OmniSharp/omnisharp-vim</id>
+    <link href="https://github.com/OmniSharp/omnisharp-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim omnicompletion (intellisense) and more for C#&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kana/vim-textobj-function</title>
+    <updated>2022-10-06T01:38:52Z</updated>
+    <id>tag:github.com,2022-10-06:/kana/vim-textobj-function</id>
+    <link href="https://github.com/kana/vim-textobj-function" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin: Text objects for functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uarun/vim-protobuf</title>
+    <updated>2022-10-06T01:38:52Z</updated>
+    <id>tag:github.com,2022-10-06:/uarun/vim-protobuf</id>
+    <link href="https://github.com/uarun/vim-protobuf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim syntax highlighting for Google&#39;s Protocol Buffers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

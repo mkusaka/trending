@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:41:39Z</updated>
+  <updated>2022-10-06T01:37:20Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gardener/website-generator</title>
-    <updated>2022-10-05T01:41:39Z</updated>
-    <id>tag:github.com,2022-10-05:/gardener/website-generator</id>
-    <link href="https://github.com/gardener/website-generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools to generate the public facing gardener website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MetaFam/metagame-wiki</title>
+    <updated>2022-10-06T01:37:20Z</updated>
+    <id>tag:github.com,2022-10-06:/MetaFam/metagame-wiki</id>
+    <link href="https://github.com/MetaFam/metagame-wiki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your collaborative guide to your journey into The MetaGame&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

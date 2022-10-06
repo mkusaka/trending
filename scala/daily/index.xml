@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:41:30Z</updated>
+  <updated>2022-10-06T01:37:08Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jaytaylor/Squerbuld</title>
-    <updated>2022-10-05T01:41:30Z</updated>
-    <id>tag:github.com,2022-10-05:/jaytaylor/Squerbuld</id>
-    <link href="https://github.com/jaytaylor/Squerbuld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Squeryl-based bulletin board demo&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Squerbuld&lt;/h1&gt; &#xA;&lt;p&gt;A Squeryl-based bulletin board demo&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Topl/quivr4s</title>
-    <updated>2022-10-05T01:41:30Z</updated>
-    <id>tag:github.com,2022-10-05:/Topl/quivr4s</id>
-    <link href="https://github.com/Topl/quivr4s" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scala reference implementation for the Quivr DSL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;quivr4s&lt;/h1&gt; &#xA;&lt;p&gt;Scala reference implementation for the Quivr DSL&lt;/p&gt;</summary>
+    <title>chipsalliance/rocket-chip-blocks</title>
+    <updated>2022-10-06T01:37:08Z</updated>
+    <id>tag:github.com,2022-10-06:/chipsalliance/rocket-chip-blocks</id>
+    <link href="https://github.com/chipsalliance/rocket-chip-blocks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RTL blocks compatible with the Rocket Chip Generator&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RTL Blocks for the Rocket Chip Generator&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains RTL generators for a variety of IO peripheral blocks that are designed to be compatible with the Rocket Chip SoC Generator&lt;/p&gt; &#xA;&lt;p&gt;This repository is a fork of &lt;a href=&#34;https://github.com/sifive/sifive-blocks&#34;&gt;https://github.com/sifive/sifive-blocks&lt;/a&gt;, which it replaces.&lt;/p&gt;</summary>
   </entry>
 </feed>

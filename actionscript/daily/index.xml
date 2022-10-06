@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:34:45Z</updated>
+  <updated>2022-10-06T01:30:48Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pnkl1999/DDTank41</title>
-    <updated>2022-10-05T01:34:45Z</updated>
-    <id>tag:github.com,2022-10-05:/pnkl1999/DDTank41</id>
-    <link href="https://github.com/pnkl1999/DDTank41" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full Source DDTank Version 41&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Oldes/Starling-timeline-example</title>
+    <updated>2022-10-06T01:30:48Z</updated>
+    <id>tag:github.com,2022-10-06:/Oldes/Starling-timeline-example</id>
+    <link href="https://github.com/Oldes/Starling-timeline-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

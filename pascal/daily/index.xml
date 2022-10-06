@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:39:58Z</updated>
+  <updated>2022-10-06T01:35:41Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tinyBigGAMES/Luna</title>
-    <updated>2022-10-05T01:39:58Z</updated>
-    <id>tag:github.com,2022-10-05:/tinyBigGAMES/Luna</id>
-    <link href="https://github.com/tinyBigGAMES/Luna" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Luna Game Toolkit, easy, fast &amp; fun game development for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

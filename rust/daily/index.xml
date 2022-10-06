@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:41:13Z</updated>
+  <updated>2022-10-06T01:36:50Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Jon-Becker/heimdall-rs</title>
-    <updated>2022-10-05T01:41:13Z</updated>
-    <id>tag:github.com,2022-10-05:/Jon-Becker/heimdall-rs</id>
-    <link href="https://github.com/Jon-Becker/heimdall-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Heimdall is an advanced Ethereum smart contract toolkit for forensic and heuristic analysis.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jito-labs/searcher-examples</title>
+    <updated>2022-10-06T01:36:50Z</updated>
+    <id>tag:github.com,2022-10-06:/jito-labs/searcher-examples</id>
+    <link href="https://github.com/jito-labs/searcher-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Searcher Examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>subconsciousnetwork/noosphere</title>
+    <updated>2022-10-06T01:36:50Z</updated>
+    <id>tag:github.com,2022-10-06:/subconsciousnetwork/noosphere</id>
+    <link href="https://github.com/subconsciousnetwork/noosphere" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Noosphere is a protocol for thought; let&#39;s discover it together!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mozilla/uniffi-rs</title>
+    <updated>2022-10-06T01:36:50Z</updated>
+    <id>tag:github.com,2022-10-06:/mozilla/uniffi-rs</id>
+    <link href="https://github.com/mozilla/uniffi-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a multi-language bindings generator for rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

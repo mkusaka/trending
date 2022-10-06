@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:43:24Z</updated>
+  <updated>2022-10-06T01:38:56Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fzf404/Monit</title>
-    <updated>2022-10-05T01:43:24Z</updated>
-    <id>tag:github.com,2022-10-05:/fzf404/Monit</id>
-    <link href="https://github.com/fzf404/Monit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;用于展示各种信息的桌面小组件&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oruga-ui/oruga</title>
+    <updated>2022-10-06T01:38:56Z</updated>
+    <id>tag:github.com,2022-10-06:/oruga-ui/oruga</id>
+    <link href="https://github.com/oruga-ui/oruga" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐛 Oruga is a lightweight library of UI components without CSS framework dependency&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hmabed/poetsClubInitial-source</title>
-    <updated>2022-10-05T01:43:24Z</updated>
-    <id>tag:github.com,2022-10-05:/hmabed/poetsClubInitial-source</id>
-    <link href="https://github.com/hmabed/poetsClubInitial-source" rel="alternate"></link>
+    <title>apexcharts/vue-apexcharts</title>
+    <updated>2022-10-06T01:38:56Z</updated>
+    <id>tag:github.com,2022-10-06:/apexcharts/vue-apexcharts</id>
+    <link href="https://github.com/apexcharts/vue-apexcharts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📊 Vue.js component for ApexCharts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cryptocoders-wtf/onchaincanvas</title>
+    <updated>2022-10-06T01:38:56Z</updated>
+    <id>tag:github.com,2022-10-06:/Cryptocoders-wtf/onchaincanvas</id>
+    <link href="https://github.com/Cryptocoders-wtf/onchaincanvas" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>narze/awesome-cheab-quotes</title>
-    <updated>2022-10-05T01:43:24Z</updated>
-    <id>tag:github.com,2022-10-05:/narze/awesome-cheab-quotes</id>
-    <link href="https://github.com/narze/awesome-cheab-quotes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;รวบรวมคำคม ที่ใครได้ฟังก็ต้องบอกว่า &#34;เฉียบบบบบ&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

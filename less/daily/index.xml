@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:39:05Z</updated>
+  <updated>2022-10-06T01:34:47Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FFmpeg/web</title>
-    <updated>2022-10-05T01:39:05Z</updated>
-    <id>tag:github.com,2022-10-05:/FFmpeg/web</id>
-    <link href="https://github.com/FFmpeg/web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of git://ffmpeg.org/ffmpeg-web&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

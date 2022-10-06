@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:34:57Z</updated>
+  <updated>2022-10-06T01:31:00Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>killgcd/justmysocks</title>
-    <updated>2022-10-05T01:34:57Z</updated>
-    <id>tag:github.com,2022-10-05:/killgcd/justmysocks</id>
-    <link href="https://github.com/killgcd/justmysocks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Just My Socks翻墙教程&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Martin911567/CryptBB_RDP</title>
-    <updated>2022-10-05T01:34:57Z</updated>
-    <id>tag:github.com,2022-10-05:/Martin911567/CryptBB_RDP</id>
-    <link href="https://github.com/Martin911567/CryptBB_RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FREE RDP WINDOWS SERVER! Create Free RDP 7GB RAM and 2 CPU Core with Github. Follow these instructions Click Fork to get started (Mobile users please activate Desktop Mode). Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN In this repository go to Settings&gt; Secrets&gt; New repository secret Name: NGROK_AUTH_TOKEN Value: https://dashboard.n…&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>techienikhil/Office-2019-Activator</title>
+    <updated>2022-10-06T01:31:00Z</updated>
+    <id>tag:github.com,2022-10-06:/techienikhil/Office-2019-Activator</id>
+    <link href="https://github.com/techienikhil/Office-2019-Activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

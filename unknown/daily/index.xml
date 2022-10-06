@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:34:10Z</updated>
+  <updated>2022-10-06T01:30:36Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FernandaCader/recursos-datos</title>
-    <updated>2022-10-05T01:34:10Z</updated>
-    <id>tag:github.com,2022-10-05:/FernandaCader/recursos-datos</id>
-    <link href="https://github.com/FernandaCader/recursos-datos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Recopilación de recursos de ciencias de datos por parte de la comunidad Datos Para Todos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>he4rt/he4rtoberfest-2022</title>
+    <updated>2022-10-06T01:30:36Z</updated>
+    <id>tag:github.com,2022-10-06:/he4rt/he4rtoberfest-2022</id>
+    <link href="https://github.com/he4rt/he4rtoberfest-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo oficial do He4rtoberfest da He4rt Developers 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PRBonn/kiss-icp</title>
-    <updated>2022-10-05T01:34:10Z</updated>
-    <id>tag:github.com,2022-10-05:/PRBonn/kiss-icp</id>
-    <link href="https://github.com/PRBonn/kiss-icp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KISS-ICP: In Defense of Point-to-Point ICP – Simple, Accurate, and Robust Registration If Done in the Right Way https://arxiv.org/pdf/2209.15397.pdf&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>leereilly/games</title>
+    <updated>2022-10-06T01:30:36Z</updated>
+    <id>tag:github.com,2022-10-06:/leereilly/games</id>
+    <link href="https://github.com/leereilly/games" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>trickest/wordlists</title>
-    <updated>2022-10-05T01:34:10Z</updated>
-    <id>tag:github.com,2022-10-05:/trickest/wordlists</id>
-    <link href="https://github.com/trickest/wordlists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Real-world infosec wordlists, updated regularly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>backend-br/vagas</title>
+    <updated>2022-10-06T01:30:36Z</updated>
+    <id>tag:github.com,2022-10-06:/backend-br/vagas</id>
+    <link href="https://github.com/backend-br/vagas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

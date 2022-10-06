@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CUE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-05T01:35:57Z</updated>
+  <updated>2022-10-06T01:32:04Z</updated>
   <subtitle>Daily Trending of CUE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>input-output-hk/vit-ops</title>
-    <updated>2022-10-05T01:35:57Z</updated>
-    <id>tag:github.com,2022-10-05:/input-output-hk/vit-ops</id>
-    <link href="https://github.com/input-output-hk/vit-ops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VIT Ops&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
