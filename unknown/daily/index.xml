@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:30:36Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-10-07T01:31:25Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>he4rt/he4rtoberfest-2022</title>
-    <updated>2022-10-06T01:30:36Z</updated>
-    <id>tag:github.com,2022-10-06:/he4rt/he4rtoberfest-2022</id>
-    <link href="https://github.com/he4rt/he4rtoberfest-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo oficial do He4rtoberfest da He4rt Developers 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xcad2k/cheat-sheets</title>
+    <updated>2022-10-07T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-07:/xcad2k/cheat-sheets</id>
+    <link href="https://github.com/xcad2k/cheat-sheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is my personal knowledge-base. Here you&#39;ll find code-snippets, technical documentation, and command reference for various tools, and technologies.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>leereilly/games</title>
-    <updated>2022-10-06T01:30:36Z</updated>
-    <id>tag:github.com,2022-10-06:/leereilly/games</id>
-    <link href="https://github.com/leereilly/games" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shubhamgrg04/awesome-diagramming</title>
+    <updated>2022-10-07T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-07:/shubhamgrg04/awesome-diagramming</id>
+    <link href="https://github.com/shubhamgrg04/awesome-diagramming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated collection of diagramming tools used by leading software engineering teams&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>backend-br/vagas</title>
-    <updated>2022-10-06T01:30:36Z</updated>
-    <id>tag:github.com,2022-10-06:/backend-br/vagas</id>
-    <link href="https://github.com/backend-br/vagas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Espaço para a divulgação de vagas para desenvolvedores backend via issues do Github.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sbilly/awesome-security</title>
+    <updated>2022-10-07T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-07:/sbilly/awesome-security</id>
+    <link href="https://github.com/sbilly/awesome-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

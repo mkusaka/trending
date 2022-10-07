@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:30:56Z</updated>
+  <updated>2022-10-07T01:31:57Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>platformatic/db-workshop</title>
-    <updated>2022-10-06T01:30:56Z</updated>
-    <id>tag:github.com,2022-10-06:/platformatic/db-workshop</id>
-    <link href="https://github.com/platformatic/db-workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Platformatic DB Workshop&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>manuelernestog/astro-modern-personal-website</title>
+    <updated>2022-10-07T01:31:57Z</updated>
+    <id>tag:github.com,2022-10-07:/manuelernestog/astro-modern-personal-website</id>
+    <link href="https://github.com/manuelernestog/astro-modern-personal-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Astro Modern Personal Website Template with Project Section, CV Section, Paginated Blog, RSS Feed, SEO Friendly, Visual themes and Responsive Desing.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>satnaing/astro-paper</title>
+    <updated>2022-10-07T01:31:57Z</updated>
+    <id>tag:github.com,2022-10-07:/satnaing/astro-paper</id>
+    <link href="https://github.com/satnaing/astro-paper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal, responsive and SEO-friendly Astro blog theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:34:16Z</updated>
+  <updated>2022-10-07T01:36:15Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ferrite-FEM/Ferrite.jl</title>
-    <updated>2022-10-06T01:34:16Z</updated>
-    <id>tag:github.com,2022-10-06:/Ferrite-FEM/Ferrite.jl</id>
-    <link href="https://github.com/Ferrite-FEM/Ferrite.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Finite element toolbox for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MineralsCloud/SimpleWorkflows.jl</title>
+    <updated>2022-10-07T01:36:15Z</updated>
+    <id>tag:github.com,2022-10-07:/MineralsCloud/SimpleWorkflows.jl</id>
+    <link href="https://github.com/MineralsCloud/SimpleWorkflows.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple workflow engine powered by Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DARPA-ASKEM/model-transform</title>
-    <updated>2022-10-06T01:34:16Z</updated>
-    <id>tag:github.com,2022-10-06:/DARPA-ASKEM/model-transform</id>
-    <link href="https://github.com/DARPA-ASKEM/model-transform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Model transform service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MineralsCloud/Express.jl</title>
+    <updated>2022-10-07T01:36:15Z</updated>
+    <id>tag:github.com,2022-10-07:/MineralsCloud/Express.jl</id>
+    <link href="https://github.com/MineralsCloud/Express.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;extensible, lightweight, high-throughput, high-level workflow framework that aims to automate ab initio calculations for the materials science community&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

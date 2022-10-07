@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:33:30Z</updated>
+  <updated>2022-10-07T01:34:50Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hashicorp/terraform-template-dir</title>
-    <updated>2022-10-06T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-06:/hashicorp/terraform-template-dir</id>
-    <link href="https://github.com/hashicorp/terraform-template-dir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template module for preparing static files and templates under a particular directory&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>matti/terraform-shell-resource</title>
-    <updated>2022-10-06T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-06:/matti/terraform-shell-resource</id>
-    <link href="https://github.com/matti/terraform-shell-resource" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run (exec) a command in shell and capture the output (stdout, stderr) and status code (exit status)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudposse/terraform-aws-lb-s3-bucket</title>
-    <updated>2022-10-06T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-06:/cloudposse/terraform-aws-lb-s3-bucket</id>
-    <link href="https://github.com/cloudposse/terraform-aws-lb-s3-bucket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision an S3 bucket with built in IAM policy to allow AWS Load Balancers to ship access logs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

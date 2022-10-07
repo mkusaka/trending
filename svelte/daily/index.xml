@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:37:55Z</updated>
+  <updated>2022-10-07T01:41:17Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>narze/DaiMai</title>
+    <updated>2022-10-07T01:41:17Z</updated>
+    <id>tag:github.com,2022-10-07:/narze/DaiMai</id>
+    <link href="https://github.com/narze/DaiMai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;เราสามารถออกไอเดียให้ BossKerati ได้ไหม!?&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mellobacon/Nucleus</title>
+    <updated>2022-10-07T01:41:17Z</updated>
+    <id>tag:github.com,2022-10-07:/mellobacon/Nucleus</id>
+    <link href="https://github.com/mellobacon/Nucleus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A text editor made with Tauri&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tinarskii/MukPakPak</title>
+    <updated>2022-10-07T01:41:17Z</updated>
+    <id>tag:github.com,2022-10-07:/tinarskii/MukPakPak</id>
+    <link href="https://github.com/tinarskii/MukPakPak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;มุขแป๊ก ๆ ที่เพื่อนคุณยังจะเอามาเล่น...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

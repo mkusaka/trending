@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:31:50Z</updated>
+  <updated>2022-10-07T01:32:55Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>daniilidis-group/ffmpeg_image_transport_msgs</title>
-    <updated>2022-10-06T01:31:50Z</updated>
-    <id>tag:github.com,2022-10-06:/daniilidis-group/ffmpeg_image_transport_msgs</id>
-    <link href="https://github.com/daniilidis-group/ffmpeg_image_transport_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ros package for messages for the ffmpeg image transport&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>iDommel/RType</title>
-    <updated>2022-10-06T01:31:50Z</updated>
-    <id>tag:github.com,2022-10-06:/iDommel/RType</id>
-    <link href="https://github.com/iDommel/RType" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for the R-Type project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yujinrobot/yocs_msgs</title>
+    <updated>2022-10-07T01:32:55Z</updated>
+    <id>tag:github.com,2022-10-07:/yujinrobot/yocs_msgs</id>
+    <link href="https://github.com/yujinrobot/yocs_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yujin Open Control System (yocs) messages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

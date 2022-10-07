@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gleam Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:33:07Z</updated>
+  <updated>2022-10-07T01:34:23Z</updated>
   <subtitle>Daily Trending of Gleam in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gleam-lang/example-lisp-interpreter</title>
+    <updated>2022-10-07T01:34:23Z</updated>
+    <id>tag:github.com,2022-10-07:/gleam-lang/example-lisp-interpreter</id>
+    <link href="https://github.com/gleam-lang/example-lisp-interpreter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👾 A Lisp interpreter in Gleam!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

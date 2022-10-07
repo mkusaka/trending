@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:33:25Z</updated>
+  <updated>2022-10-07T01:34:44Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>china-programming-languages/zh-lang-book</title>
-    <updated>2022-10-06T01:33:25Z</updated>
-    <id>tag:github.com,2022-10-06:/china-programming-languages/zh-lang-book</id>
-    <link href="https://github.com/china-programming-languages/zh-lang-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 🇨🇳 《中国编程语言》开源图书，涵盖中国人主导的编程语言&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

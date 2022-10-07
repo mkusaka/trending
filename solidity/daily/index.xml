@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:37:46Z</updated>
+  <updated>2022-10-07T01:41:06Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZeframLou/create3-factory</title>
-    <updated>2022-10-06T01:37:46Z</updated>
-    <id>tag:github.com,2022-10-06:/ZeframLou/create3-factory</id>
-    <link href="https://github.com/ZeframLou/create3-factory" rel="alternate"></link>
+    <title>asixdev0082/baby-swap-bsc</title>
+    <updated>2022-10-07T01:41:06Z</updated>
+    <id>tag:github.com,2022-10-07:/asixdev0082/baby-swap-bsc</id>
+    <link href="https://github.com/asixdev0082/baby-swap-bsc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ProjectOpenSea/seadrop</title>
-    <updated>2022-10-06T01:37:46Z</updated>
-    <id>tag:github.com,2022-10-06:/ProjectOpenSea/seadrop</id>
-    <link href="https://github.com/ProjectOpenSea/seadrop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts for primary drops on EVM chains&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LooksRare/contracts-libs</title>
+    <updated>2022-10-07T01:41:06Z</updated>
+    <id>tag:github.com,2022-10-07:/LooksRare/contracts-libs</id>
+    <link href="https://github.com/LooksRare/contracts-libs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of Solidity libraries &amp; contracts shared across the LooksRare ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gmx-io/gmx-synthetics</title>
-    <updated>2022-10-06T01:37:46Z</updated>
-    <id>tag:github.com,2022-10-06:/gmx-io/gmx-synthetics</id>
-    <link href="https://github.com/gmx-io/gmx-synthetics" rel="alternate"></link>
+    <title>dmihal/ens-everywhere-contracts</title>
+    <updated>2022-10-07T01:41:06Z</updated>
+    <id>tag:github.com,2022-10-07:/dmihal/ens-everywhere-contracts</id>
+    <link href="https://github.com/dmihal/ens-everywhere-contracts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:35:14Z</updated>
+  <updated>2022-10-07T01:37:14Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ministryofjustice/laa-crown-court-proceeding</title>
+    <updated>2022-10-07T01:37:14Z</updated>
+    <id>tag:github.com,2022-10-07:/ministryofjustice/laa-crown-court-proceeding</id>
+    <link href="https://github.com/ministryofjustice/laa-crown-court-proceeding" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a service that handles crown court specific processing for crime applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:31:00Z</updated>
+  <updated>2022-10-07T01:32:03Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>techienikhil/Office-2019-Activator</title>
-    <updated>2022-10-06T01:31:00Z</updated>
-    <id>tag:github.com,2022-10-06:/techienikhil/Office-2019-Activator</id>
-    <link href="https://github.com/techienikhil/Office-2019-Activator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

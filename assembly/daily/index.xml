@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:30:56Z</updated>
+  <updated>2022-10-07T01:31:58Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>davidgiven/cpm65</title>
+    <updated>2022-10-07T01:31:58Z</updated>
+    <id>tag:github.com,2022-10-07:/davidgiven/cpm65</id>
+    <link href="https://github.com/davidgiven/cpm65" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CP/M for the 6502&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lexdene/gcc_five_minute</title>
+    <updated>2022-10-07T01:31:58Z</updated>
+    <id>tag:github.com,2022-10-07:/lexdene/gcc_five_minute</id>
+    <link href="https://github.com/lexdene/gcc_five_minute" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gcc五分钟系列&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>algokidd/COA-PRACTICALS</title>
+    <updated>2022-10-07T01:31:58Z</updated>
+    <id>tag:github.com,2022-10-07:/algokidd/COA-PRACTICALS</id>
+    <link href="https://github.com/algokidd/COA-PRACTICALS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

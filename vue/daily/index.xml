@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:38:56Z</updated>
+  <updated>2022-10-07T01:42:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oruga-ui/oruga</title>
-    <updated>2022-10-06T01:38:56Z</updated>
-    <id>tag:github.com,2022-10-06:/oruga-ui/oruga</id>
-    <link href="https://github.com/oruga-ui/oruga" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐛 Oruga is a lightweight library of UI components without CSS framework dependency&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zernonia/supabase-schema</title>
+    <updated>2022-10-07T01:42:59Z</updated>
+    <id>tag:github.com,2022-10-07:/zernonia/supabase-schema</id>
+    <link href="https://github.com/zernonia/supabase-schema" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Secured &amp; Simple Supabase Schema Visualizer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>apexcharts/vue-apexcharts</title>
-    <updated>2022-10-06T01:38:56Z</updated>
-    <id>tag:github.com,2022-10-06:/apexcharts/vue-apexcharts</id>
-    <link href="https://github.com/apexcharts/vue-apexcharts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📊 Vue.js component for ApexCharts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/vue-paper-dashboard</title>
+    <updated>2022-10-07T01:42:59Z</updated>
+    <id>tag:github.com,2022-10-07:/creativetimofficial/vue-paper-dashboard</id>
+    <link href="https://github.com/creativetimofficial/vue-paper-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creative Tim Paper Dashboard made for Vue&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Cryptocoders-wtf/onchaincanvas</title>
-    <updated>2022-10-06T01:38:56Z</updated>
-    <id>tag:github.com,2022-10-06:/Cryptocoders-wtf/onchaincanvas</id>
-    <link href="https://github.com/Cryptocoders-wtf/onchaincanvas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nyancodeid/quotes</title>
+    <updated>2022-10-07T01:42:59Z</updated>
+    <id>tag:github.com,2022-10-07:/nyancodeid/quotes</id>
+    <link href="https://github.com/nyancodeid/quotes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the place to try and learn to contribute with a simple, open source quotes website. Part of Hacktoberfest 2021&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

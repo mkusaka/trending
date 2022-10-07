@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-06T01:38:53Z</updated>
+  <updated>2022-10-07T01:42:53Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dirle/Chip8</title>
-    <updated>2022-10-06T01:38:53Z</updated>
-    <id>tag:github.com,2022-10-06:/dirle/Chip8</id>
-    <link href="https://github.com/dirle/Chip8" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
