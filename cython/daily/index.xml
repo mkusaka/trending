@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:33:14Z</updated>
+  <updated>2022-10-08T01:31:56Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gihannagalindez/boostdiff_inference</title>
-    <updated>2022-10-07T01:33:14Z</updated>
-    <id>tag:github.com,2022-10-07:/gihannagalindez/boostdiff_inference</id>
-    <link href="https://github.com/gihannagalindez/boostdiff_inference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BoostDiff - Inference of differential networks from gene expression data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

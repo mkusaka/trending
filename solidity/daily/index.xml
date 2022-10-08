@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:41:06Z</updated>
+  <updated>2022-10-08T01:38:22Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>asixdev0082/baby-swap-bsc</title>
-    <updated>2022-10-07T01:41:06Z</updated>
-    <id>tag:github.com,2022-10-07:/asixdev0082/baby-swap-bsc</id>
-    <link href="https://github.com/asixdev0082/baby-swap-bsc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZeframLou/foundry-canary</title>
+    <updated>2022-10-08T01:38:22Z</updated>
+    <id>tag:github.com,2022-10-08:/ZeframLou/foundry-canary</id>
+    <link href="https://github.com/ZeframLou/foundry-canary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal repo for Foundry examples and reproducing bugs in Foundry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LooksRare/contracts-libs</title>
-    <updated>2022-10-07T01:41:06Z</updated>
-    <id>tag:github.com,2022-10-07:/LooksRare/contracts-libs</id>
-    <link href="https://github.com/LooksRare/contracts-libs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of Solidity libraries &amp; contracts shared across the LooksRare ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Aniket-Engg/solidity-school</title>
+    <updated>2022-10-08T01:38:22Z</updated>
+    <id>tag:github.com,2022-10-08:/Aniket-Engg/solidity-school</id>
+    <link href="https://github.com/Aniket-Engg/solidity-school" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;First place for early developers to learn Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dmihal/ens-everywhere-contracts</title>
-    <updated>2022-10-07T01:41:06Z</updated>
-    <id>tag:github.com,2022-10-07:/dmihal/ens-everywhere-contracts</id>
-    <link href="https://github.com/dmihal/ens-everywhere-contracts" rel="alternate"></link>
+    <title>0xfoobar/delegation-registry</title>
+    <updated>2022-10-08T01:38:22Z</updated>
+    <id>tag:github.com,2022-10-08:/0xfoobar/delegation-registry</id>
+    <link href="https://github.com/0xfoobar/delegation-registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

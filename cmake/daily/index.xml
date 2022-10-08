@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:32:55Z</updated>
+  <updated>2022-10-08T01:31:39Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yujinrobot/yocs_msgs</title>
-    <updated>2022-10-07T01:32:55Z</updated>
-    <id>tag:github.com,2022-10-07:/yujinrobot/yocs_msgs</id>
-    <link href="https://github.com/yujinrobot/yocs_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yujin Open Control System (yocs) messages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

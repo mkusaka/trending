@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ada Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:31:49Z</updated>
+  <updated>2022-10-08T01:30:46Z</updated>
   <subtitle>Daily Trending of Ada in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bracke/Text2HTML</title>
-    <updated>2022-10-07T01:31:49Z</updated>
-    <id>tag:github.com,2022-10-07:/bracke/Text2HTML</id>
-    <link href="https://github.com/bracke/Text2HTML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Text2HTML is a command line program which converts text files to HTML. It is supplied with a desktop frontend, but is also useable on its own. NOTE: This is a RISC OS app.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

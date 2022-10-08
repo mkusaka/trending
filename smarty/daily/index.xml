@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:40:58Z</updated>
+  <updated>2022-10-08T01:38:17Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aiven/aiven-charts</title>
-    <updated>2022-10-07T01:40:58Z</updated>
-    <id>tag:github.com,2022-10-07:/aiven/aiven-charts</id>
-    <link href="https://github.com/aiven/aiven-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official @aiven helm repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Alfresco/OPSEXP-1746</title>
-    <updated>2022-10-07T01:40:58Z</updated>
-    <id>tag:github.com,2022-10-07:/Alfresco/OPSEXP-1746</id>
-    <link href="https://github.com/Alfresco/OPSEXP-1746" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

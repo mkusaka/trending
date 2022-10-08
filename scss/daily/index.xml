@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:40:28Z</updated>
+  <updated>2022-10-08T01:37:57Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rahul-n18/Student-Library</title>
-    <updated>2022-10-07T01:40:28Z</updated>
-    <id>tag:github.com,2022-10-07:/rahul-n18/Student-Library</id>
-    <link href="https://github.com/rahul-n18/Student-Library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;We are Building One Stop Solution for all Students needs for studying, guidance and more...&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>website-template/html5-simple-personal-website</title>
+    <updated>2022-10-08T01:37:57Z</updated>
+    <id>tag:github.com,2022-10-08:/website-template/html5-simple-personal-website</id>
+    <link href="https://github.com/website-template/html5-simple-personal-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple simple personal website I created using HTML5&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hugo-next/hugo-theme-next</title>
-    <updated>2022-10-07T01:40:28Z</updated>
-    <id>tag:github.com,2022-10-07:/hugo-next/hugo-theme-next</id>
-    <link href="https://github.com/hugo-next/hugo-theme-next" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily &amp; powerful theme for Hugo engine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MLH-Fellowship/prep-portfolio-22.OCT.PREP.2</title>
-    <updated>2022-10-07T01:40:28Z</updated>
-    <id>tag:github.com,2022-10-07:/MLH-Fellowship/prep-portfolio-22.OCT.PREP.2</id>
-    <link href="https://github.com/MLH-Fellowship/prep-portfolio-22.OCT.PREP.2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prep Portfolio for Pod 22.OCT.PREP.2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jonico/awesome-runners</title>
+    <updated>2022-10-08T01:37:57Z</updated>
+    <id>tag:github.com,2022-10-08:/jonico/awesome-runners</id>
+    <link href="https://github.com/jonico/awesome-runners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

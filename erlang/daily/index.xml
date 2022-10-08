@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:34:08Z</updated>
+  <updated>2022-10-08T01:32:46Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>findmypast/rabbit-common</title>
-    <updated>2022-10-07T01:34:08Z</updated>
-    <id>tag:github.com,2022-10-07:/findmypast/rabbit-common</id>
-    <link href="https://github.com/findmypast/rabbit-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>findmypast/amqp-client</title>
-    <updated>2022-10-07T01:34:08Z</updated>
-    <id>tag:github.com,2022-10-07:/findmypast/amqp-client</id>
-    <link href="https://github.com/findmypast/amqp-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

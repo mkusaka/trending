@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:33:13Z</updated>
+  <updated>2022-10-08T01:31:54Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NVIDIA/TransformerEngine</title>
-    <updated>2022-10-07T01:33:13Z</updated>
-    <id>tag:github.com,2022-10-07:/NVIDIA/TransformerEngine</id>
-    <link href="https://github.com/NVIDIA/TransformerEngine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper GPUs, to provide better performance with lower memory utilization in both training and inference.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

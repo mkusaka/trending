@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PostScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-07T01:38:34Z</updated>
+  <updated>2022-10-08T01:36:33Z</updated>
   <subtitle>Daily Trending of PostScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AllenDowney/ThinkPython</title>
-    <updated>2022-10-07T01:38:34Z</updated>
-    <id>tag:github.com,2022-10-07:/AllenDowney/ThinkPython</id>
-    <link href="https://github.com/AllenDowney/ThinkPython" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code examples and exercise solutions from Think Python by Allen Downey, published by O&#39;Reilly Media.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
