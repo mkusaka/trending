@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:37:29Z</updated>
+  <updated>2022-10-09T01:38:23Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mre/zerocal</title>
+    <updated>2022-10-09T01:38:23Z</updated>
+    <id>tag:github.com,2022-10-09:/mre/zerocal</id>
+    <link href="https://github.com/mre/zerocal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚫📆 Serverless calendar built with shuttle.rs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>noir-lang/noir</title>
+    <updated>2022-10-09T01:38:23Z</updated>
+    <id>tag:github.com,2022-10-09:/noir-lang/noir</id>
+    <link href="https://github.com/noir-lang/noir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Noir is a domain specific language for zero knowledge proofs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spacedriveapp/spacedrive</title>
+    <updated>2022-10-09T01:38:23Z</updated>
+    <id>tag:github.com,2022-10-09:/spacedriveapp/spacedrive</id>
+    <link href="https://github.com/spacedriveapp/spacedrive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

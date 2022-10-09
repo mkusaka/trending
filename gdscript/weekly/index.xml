@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:42:24Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound</title>
+    <updated>2022-10-09T01:42:24Z</updated>
+    <id>tag:github.com,2022-10-09:/BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound</id>
+    <link href="https://github.com/BL-MSCH-C220-F22/Exercise-03c-Music-and-Sound" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spicylobstergames/shotcaller-godot</title>
+    <updated>2022-10-09T01:42:24Z</updated>
+    <id>tag:github.com,2022-10-09:/spicylobstergames/shotcaller-godot</id>
+    <link href="https://github.com/spicylobstergames/shotcaller-godot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2D top-down 1v1 MOBA with autonomous units. Design doc below 👇&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

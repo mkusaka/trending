@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:47:17Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>svenvc/zinc</title>
+    <updated>2022-10-09T01:47:17Z</updated>
+    <id>tag:github.com,2022-10-09:/svenvc/zinc</id>
+    <link href="https://github.com/svenvc/zinc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zinc HTTP Components is an open-source Smalltalk framework to deal with the HTTP networking protocol.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SmaCCRefactoring/SmaCC</title>
+    <updated>2022-10-09T01:47:17Z</updated>
+    <id>tag:github.com,2022-10-09:/SmaCCRefactoring/SmaCC</id>
+    <link href="https://github.com/SmaCCRefactoring/SmaCC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smalltalk Compiler Compiler : a parser generator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/famix3</title>
+    <updated>2022-10-09T01:47:17Z</updated>
+    <id>tag:github.com,2022-10-09:/feenkcom/famix3</id>
+    <link href="https://github.com/feenkcom/famix3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a port of the FAMIX 3 meta-model and of the depending projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

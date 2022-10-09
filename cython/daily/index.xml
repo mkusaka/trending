@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:31:56Z</updated>
+  <updated>2022-10-09T01:33:03Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ycjungSubhuman/cyobj</title>
+    <updated>2022-10-09T01:33:03Z</updated>
+    <id>tag:github.com,2022-10-09:/ycjungSubhuman/cyobj</id>
+    <link href="https://github.com/ycjungSubhuman/cyobj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast Wavefront .OBJ file reader/writer library for Python 3 written in Cython&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

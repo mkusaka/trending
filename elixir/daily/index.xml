@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:32:31Z</updated>
+  <updated>2022-10-09T01:33:34Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>findmypast/elsol</title>
-    <updated>2022-10-08T01:32:31Z</updated>
-    <id>tag:github.com,2022-10-08:/findmypast/elsol</id>
-    <link href="https://github.com/findmypast/elsol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir library for interfacing with Solr&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>findmypast/hex_web</title>
-    <updated>2022-10-08T01:32:31Z</updated>
-    <id>tag:github.com,2022-10-08:/findmypast/hex_web</id>
-    <link href="https://github.com/findmypast/hex_web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fork of hex_web&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CargoSense/absinthe_client</title>
+    <updated>2022-10-09T01:33:34Z</updated>
+    <id>tag:github.com,2022-10-09:/CargoSense/absinthe_client</id>
+    <link href="https://github.com/CargoSense/absinthe_client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A GraphQL client designed for Elixir Absinthe.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

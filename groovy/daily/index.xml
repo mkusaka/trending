@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:33:20Z</updated>
+  <updated>2022-10-09T01:34:16Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eclipse-platform/eclipse.platform.releng.aggregator</title>
+    <updated>2022-10-09T01:34:16Z</updated>
+    <id>tag:github.com,2022-10-09:/eclipse-platform/eclipse.platform.releng.aggregator</id>
+    <link href="https://github.com/eclipse-platform/eclipse.platform.releng.aggregator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

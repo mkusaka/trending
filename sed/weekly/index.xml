@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub sed Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:46:53Z</updated>
+  <subtitle>Weekly Trending of sed in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>smc/corpus</title>
+    <updated>2022-10-09T01:46:53Z</updated>
+    <id>tag:github.com,2022-10-09:/smc/corpus</id>
+    <link href="https://github.com/smc/corpus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Malayalam Corpus by Swathanthra Malayalam Computing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

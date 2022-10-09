@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:47:19Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dragonfly-xyz/useful-solidity-patterns</title>
+    <updated>2022-10-09T01:47:19Z</updated>
+    <id>tag:github.com,2022-10-09:/dragonfly-xyz/useful-solidity-patterns</id>
+    <link href="https://github.com/dragonfly-xyz/useful-solidity-patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FairCrypto/XEN-crypto</title>
+    <updated>2022-10-09T01:47:19Z</updated>
+    <id>tag:github.com,2022-10-09:/FairCrypto/XEN-crypto</id>
+    <link href="https://github.com/FairCrypto/XEN-crypto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;XEN Crypto&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FraxFinance/frax-solidity</title>
+    <updated>2022-10-09T01:47:19Z</updated>
+    <id>tag:github.com,2022-10-09:/FraxFinance/frax-solidity</id>
+    <link href="https://github.com/FraxFinance/frax-solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity implementation of the Frax Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:46:35Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pola-rs/polars</title>
+    <updated>2022-10-09T01:46:35Z</updated>
+    <id>tag:github.com,2022-10-09:/pola-rs/polars</id>
+    <link href="https://github.com/pola-rs/polars" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast multi-threaded DataFrame library in Rust | Python | Node.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>build-trust/ockam</title>
+    <updated>2022-10-09T01:46:35Z</updated>
+    <id>tag:github.com,2022-10-09:/build-trust/ockam</id>
+    <link href="https://github.com/build-trust/ockam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Orchestrate end-to-end encryption, mutual authentication, key management, credential management &amp; authorization policy enforcement — at scale.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iced-rs/iced</title>
+    <updated>2022-10-09T01:46:35Z</updated>
+    <id>tag:github.com,2022-10-09:/iced-rs/iced</id>
+    <link href="https://github.com/iced-rs/iced" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform GUI library for Rust, inspired by Elm&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:39:11Z</updated>
+  <updated>2022-10-09T01:39:48Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/sqlmi</title>
+    <updated>2022-10-09T01:39:48Z</updated>
+    <id>tag:github.com,2022-10-09:/Azure/sqlmi</id>
+    <link href="https://github.com/Azure/sqlmi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure SQL Managed Instance scripts &amp; tools&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>siqichen-usc/LeetCode-SQL-Summary</title>
+    <updated>2022-10-09T01:39:48Z</updated>
+    <id>tag:github.com,2022-10-09:/siqichen-usc/LeetCode-SQL-Summary</id>
+    <link href="https://github.com/siqichen-usc/LeetCode-SQL-Summary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;*Summary of 102 LeetCode SQL questions* This note aims to help people learn and review SQL efficiently. The first draft mainly focuses on T-SQL/MS SQL Server.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

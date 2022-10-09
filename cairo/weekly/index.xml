@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cairo Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:41:15Z</updated>
+  <subtitle>Weekly Trending of Cairo in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ExtropyIO/ZeroKnowledgeBootcamp</title>
+    <updated>2022-10-09T01:41:15Z</updated>
+    <id>tag:github.com,2022-10-09:/ExtropyIO/ZeroKnowledgeBootcamp</id>
+    <link href="https://github.com/ExtropyIO/ZeroKnowledgeBootcamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lucidLuckylee/zerosync</title>
+    <updated>2022-10-09T01:41:15Z</updated>
+    <id>tag:github.com,2022-10-09:/lucidLuckylee/zerosync</id>
+    <link href="https://github.com/lucidLuckylee/zerosync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sync a Bitcoin full node using a STARK proof&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

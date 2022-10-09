@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:37:13Z</updated>
+  <updated>2022-10-09T01:38:04Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>karthkk/R</title>
+    <updated>2022-10-09T01:38:04Z</updated>
+    <id>tag:github.com,2022-10-09:/karthkk/R</id>
+    <link href="https://github.com/karthkk/R" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;utility functions with R&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dib-lab/2022-donut-ibd-classified-sra-search</title>
+    <updated>2022-10-09T01:38:04Z</updated>
+    <id>tag:github.com,2022-10-09:/dib-lab/2022-donut-ibd-classified-sra-search</id>
+    <link href="https://github.com/dib-lab/2022-donut-ibd-classified-sra-search" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;WIP! Here ther&#39; be dragons!&lt;/p&gt; &#xA;&lt;p&gt;This repo exist to answer the question of &#34;what if we took classified hashes from a Random Forest model and used them to search the entire SRA database?&#34;.&lt;/p&gt; &#xA;&lt;p&gt;The general workflow:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;merge the population of classified hashes into a single signature file of &lt;code&gt;k=31&lt;/code&gt; and &lt;code&gt;scaled=2000&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;use that merged signature file in MAGsearch to find all related signature files from the &lt;code&gt;Wort-SRA&lt;/code&gt; database.&lt;/li&gt; &#xA; &lt;li&gt;use the classifier to predict the outcome of signature files from the SRA search.&lt;/li&gt; &#xA; &lt;li&gt;...&lt;/li&gt; &#xA; &lt;li&gt;?&lt;/li&gt; &#xA; &lt;li&gt;who knows...&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

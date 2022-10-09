@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:42:05Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mcrumm/phoenix_profiler</title>
+    <updated>2022-10-09T01:42:05Z</updated>
+    <id>tag:github.com,2022-10-09:/mcrumm/phoenix_profiler</id>
+    <link href="https://github.com/mcrumm/phoenix_profiler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web Profiler and Debug Toolbar for Phoenix Framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mtrudel/bandit</title>
+    <updated>2022-10-09T01:42:05Z</updated>
+    <id>tag:github.com,2022-10-09:/mtrudel/bandit</id>
+    <link href="https://github.com/mtrudel/bandit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bandit is a pure Elixir HTTP server for Plug &amp; Sock applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>solfacil/feature-flag</title>
+    <updated>2022-10-09T01:42:05Z</updated>
+    <id>tag:github.com,2022-10-09:/solfacil/feature-flag</id>
+    <link href="https://github.com/solfacil/feature-flag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FeatureFlag abstract the communication with Launch Darkly SDK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

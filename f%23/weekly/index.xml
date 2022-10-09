@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F# Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:42:18Z</updated>
+  <subtitle>Weekly Trending of F# in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PatrickMcDonald/RealWorldFunctionalProgramming</title>
+    <updated>2022-10-09T01:42:18Z</updated>
+    <id>tag:github.com,2022-10-09:/PatrickMcDonald/RealWorldFunctionalProgramming</id>
+    <link href="https://github.com/PatrickMcDonald/RealWorldFunctionalProgramming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some examples from the book &#34;Real World Functional Programming&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cotowali/litsu</title>
+    <updated>2022-10-09T01:42:18Z</updated>
+    <id>tag:github.com,2022-10-09:/cotowali/litsu</id>
+    <link href="https://github.com/cotowali/litsu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Litsu&lt;/h1&gt; &#xA;&lt;p&gt;A statically-typed functional language that is transpiled into POSIX sh.&lt;/p&gt; &#xA;&lt;h2&gt;Example&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ml&#34;&gt;(* fib.lit *)&#xA;let rec fib n =&#xA;  if n &amp;lt;= 1 then&#xA;    n&#xA;  else&#xA;    fib (n - 1) + fib (n - 2)&#xA;in fib 10&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ litc fib.lit | sh&#xA;55&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Build&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ dotnet build&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+</feed>

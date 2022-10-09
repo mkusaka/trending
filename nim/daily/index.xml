@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:35:38Z</updated>
+  <updated>2022-10-09T01:36:42Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eversinc33/BouncyGate</title>
+    <updated>2022-10-09T01:36:42Z</updated>
+    <id>tag:github.com,2022-10-09:/eversinc33/BouncyGate</id>
+    <link href="https://github.com/eversinc33/BouncyGate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HellsGate in Nim, but making sure that all syscalls go through NTDLL.DLL (as in RecycledGate).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

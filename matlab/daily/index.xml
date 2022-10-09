@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:35:24Z</updated>
+  <updated>2022-10-09T01:36:32Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cokemaster/Connectome</title>
+    <updated>2022-10-09T01:36:32Z</updated>
+    <id>tag:github.com,2022-10-09:/cokemaster/Connectome</id>
+    <link href="https://github.com/cokemaster/Connectome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brain Connecome project. Here I&#39;ll store visualization and analyses toolkits/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JorgeL123/QM</title>
+    <updated>2022-10-09T01:36:32Z</updated>
+    <id>tag:github.com,2022-10-09:/JorgeL123/QM</id>
+    <link href="https://github.com/JorgeL123/QM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codeslake/SYNDOF</title>
+    <updated>2022-10-09T01:36:32Z</updated>
+    <id>tag:github.com,2022-10-09:/codeslake/SYNDOF</id>
+    <link href="https://github.com/codeslake/SYNDOF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official matlab implementation of SYNDOF generation used in the paper, &#39;Deep Defocus Map Estimation using Domain Adaptation&#39;, CVPR 2019&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

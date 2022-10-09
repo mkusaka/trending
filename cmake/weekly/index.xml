@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:41:21Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ultralight-ux/Ultralight</title>
+    <updated>2022-10-09T01:41:21Z</updated>
+    <id>tag:github.com,2022-10-09:/ultralight-ux/Ultralight</id>
+    <link href="https://github.com/ultralight-ux/Ultralight" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Next-generation HTML renderer for apps and games&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tier4/lexus_description.iv</title>
+    <updated>2022-10-09T01:41:21Z</updated>
+    <id>tag:github.com,2022-10-09:/tier4/lexus_description.iv</id>
+    <link href="https://github.com/tier4/lexus_description.iv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lexus_description for autoware.iv&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autowarefoundation/sample_vehicle_launch</title>
+    <updated>2022-10-09T01:41:21Z</updated>
+    <id>tag:github.com,2022-10-09:/autowarefoundation/sample_vehicle_launch</id>
+    <link href="https://github.com/autowarefoundation/sample_vehicle_launch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

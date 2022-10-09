@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:39:36Z</updated>
+  <updated>2022-10-09T01:40:09Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>divamgupta/diffusionbee-stable-diffusion-ui</title>
+    <updated>2022-10-09T01:40:09Z</updated>
+    <id>tag:github.com,2022-10-09:/divamgupta/diffusionbee-stable-diffusion-ui</id>
+    <link href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nas5w/interview-guide</title>
+    <updated>2022-10-09T01:40:09Z</updated>
+    <id>tag:github.com,2022-10-09:/nas5w/interview-guide</id>
+    <link href="https://github.com/nas5w/interview-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated, actionable guide for software engineering interviews.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>robotichead/NearBeach</title>
+    <updated>2022-10-09T01:40:09Z</updated>
+    <id>tag:github.com,2022-10-09:/robotichead/NearBeach</id>
+    <link href="https://github.com/robotichead/NearBeach" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NearBeach is an open sourced project management tool, helping you keep track of your project. You can track requirements, projects and tasks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

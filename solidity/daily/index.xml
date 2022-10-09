@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:38:22Z</updated>
+  <updated>2022-10-09T01:39:09Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZeframLou/foundry-canary</title>
-    <updated>2022-10-08T01:38:22Z</updated>
-    <id>tag:github.com,2022-10-08:/ZeframLou/foundry-canary</id>
-    <link href="https://github.com/ZeframLou/foundry-canary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal repo for Foundry examples and reproducing bugs in Foundry&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Aniket-Engg/solidity-school</title>
-    <updated>2022-10-08T01:38:22Z</updated>
-    <id>tag:github.com,2022-10-08:/Aniket-Engg/solidity-school</id>
-    <link href="https://github.com/Aniket-Engg/solidity-school" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;First place for early developers to learn Solidity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0xfoobar/delegation-registry</title>
-    <updated>2022-10-08T01:38:22Z</updated>
-    <id>tag:github.com,2022-10-08:/0xfoobar/delegation-registry</id>
-    <link href="https://github.com/0xfoobar/delegation-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vezenovm/simple_shield</title>
+    <updated>2022-10-09T01:39:09Z</updated>
+    <id>tag:github.com,2022-10-09:/vezenovm/simple_shield</id>
+    <link href="https://github.com/vezenovm/simple_shield" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic Noir anonymous proof of membership&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

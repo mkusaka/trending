@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:30:25Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-10-09T01:31:34Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ElzeroWebSchool/HTML_And_CSS_Template_Four</title>
-    <updated>2022-10-08T01:30:25Z</updated>
-    <id>tag:github.com,2022-10-08:/ElzeroWebSchool/HTML_And_CSS_Template_Four</id>
-    <link href="https://github.com/ElzeroWebSchool/HTML_And_CSS_Template_Four" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YuzukiHD/YuzukiLOHCC-PRO</title>
+    <updated>2022-10-09T01:31:34Z</updated>
+    <id>tag:github.com,2022-10-09:/YuzukiHD/YuzukiLOHCC-PRO</id>
+    <link href="https://github.com/YuzukiHD/YuzukiLOHCC-PRO" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 &amp; MS9332&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>karanS08/ctf-tools</title>
-    <updated>2022-10-08T01:30:25Z</updated>
-    <id>tag:github.com,2022-10-08:/karanS08/ctf-tools</id>
-    <link href="https://github.com/karanS08/ctf-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Add links to your favorite CTF tools to make other people lives easier .&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meirwah/awesome-incident-response</title>
+    <updated>2022-10-09T01:31:34Z</updated>
+    <id>tag:github.com,2022-10-09:/meirwah/awesome-incident-response</id>
+    <link href="https://github.com/meirwah/awesome-incident-response" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of tools for incident response&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rafaballerini/rafaballerini</title>
-    <updated>2022-10-08T01:30:25Z</updated>
-    <id>tag:github.com,2022-10-08:/rafaballerini/rafaballerini</id>
-    <link href="https://github.com/rafaballerini/rafaballerini" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/vscode-discussions</title>
+    <updated>2022-10-09T01:31:34Z</updated>
+    <id>tag:github.com,2022-10-09:/microsoft/vscode-discussions</id>
+    <link href="https://github.com/microsoft/vscode-discussions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official place to discuss all things VS Code!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

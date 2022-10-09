@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:38:34Z</updated>
+  <updated>2022-10-09T01:39:19Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KeJunMao/better-emby-server</title>
-    <updated>2022-10-08T01:38:34Z</updated>
-    <id>tag:github.com,2022-10-08:/KeJunMao/better-emby-server</id>
-    <link href="https://github.com/KeJunMao/better-emby-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;获取最快的终点站公益服服务器地址&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tricities-dev/tricities.dev</title>
+    <updated>2022-10-09T01:39:19Z</updated>
+    <id>tag:github.com,2022-10-09:/tricities-dev/tricities.dev</id>
+    <link href="https://github.com/tricities-dev/tricities.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository backs the TriDev public website.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>N00nDay/stwui</title>
+    <updated>2022-10-09T01:39:19Z</updated>
+    <id>tag:github.com,2022-10-09:/N00nDay/stwui</id>
+    <link href="https://github.com/N00nDay/stwui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opinionated yet customizable Svelte-TailwindCSS component library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

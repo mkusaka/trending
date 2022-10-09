@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:32:29Z</updated>
+  <updated>2022-10-09T01:33:32Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RamGoel/Lekhak</title>
+    <updated>2022-10-09T01:33:32Z</updated>
+    <id>tag:github.com,2022-10-09:/RamGoel/Lekhak</id>
+    <link href="https://github.com/RamGoel/Lekhak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write Articles Anonymously without any Logins.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tusharkhatriofficial/Blogify</title>
+    <updated>2022-10-09T01:33:32Z</updated>
+    <id>tag:github.com,2022-10-09:/tusharkhatriofficial/Blogify</id>
+    <link href="https://github.com/tusharkhatriofficial/Blogify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blogify | An Open-source Node.js blogging Website for everyone... We are working towards implementing authentication for admin, please wait for the stable version!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

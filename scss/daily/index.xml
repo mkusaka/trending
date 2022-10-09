@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-08T01:37:57Z</updated>
+  <updated>2022-10-09T01:38:46Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>website-template/html5-simple-personal-website</title>
-    <updated>2022-10-08T01:37:57Z</updated>
-    <id>tag:github.com,2022-10-08:/website-template/html5-simple-personal-website</id>
-    <link href="https://github.com/website-template/html5-simple-personal-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple simple personal website I created using HTML5&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jonico/awesome-runners</title>
-    <updated>2022-10-08T01:37:57Z</updated>
-    <id>tag:github.com,2022-10-08:/jonico/awesome-runners</id>
-    <link href="https://github.com/jonico/awesome-runners" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome self-hosted GitHub Action runners in a large comparison matrix&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

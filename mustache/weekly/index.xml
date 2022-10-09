@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Mustache Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-09T01:44:47Z</updated>
+  <subtitle>Weekly Trending of Mustache in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ministryofjustice/laa-crown-court-proceeding</title>
+    <updated>2022-10-09T01:44:47Z</updated>
+    <id>tag:github.com,2022-10-09:/ministryofjustice/laa-crown-court-proceeding</id>
+    <link href="https://github.com/ministryofjustice/laa-crown-court-proceeding" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a service that handles crown court specific processing for crime applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/outgoing-proxy-stack</title>
+    <updated>2022-10-09T01:44:47Z</updated>
+    <id>tag:github.com,2022-10-09:/giantswarm/outgoing-proxy-stack</id>
+    <link href="https://github.com/giantswarm/outgoing-proxy-stack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;repository to aggregate CRs necessery to create capa internal outgoing proxy cluster&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/squid-proxy-app</title>
+    <updated>2022-10-09T01:44:47Z</updated>
+    <id>tag:github.com,2022-10-09:/giantswarm/squid-proxy-app</id>
+    <link href="https://github.com/giantswarm/squid-proxy-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;squid proxy app which can be used as outgoing proxy, deploys LB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
