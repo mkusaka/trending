@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:38:46Z</updated>
+  <updated>2022-10-10T01:41:29Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Jaay06/fun-form-validation</title>
+    <updated>2022-10-10T01:41:29Z</updated>
+    <id>tag:github.com,2022-10-10:/Jaay06/fun-form-validation</id>
+    <link href="https://github.com/Jaay06/fun-form-validation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Pycord-Development/guide</title>
+    <updated>2022-10-10T01:41:29Z</updated>
+    <id>tag:github.com,2022-10-10:/Pycord-Development/guide</id>
+    <link href="https://github.com/Pycord-Development/guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official guide for Pycord&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>v2net/ios</title>
+    <updated>2022-10-10T01:41:29Z</updated>
+    <id>tag:github.com,2022-10-10:/v2net/ios</id>
+    <link href="https://github.com/v2net/ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shadowrocket 小火箭最新版在线安装， 共享Shadowrocket 小火箭账号，苹果手机SS/SSR/V2Ray客户端&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

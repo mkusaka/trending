@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:32:50Z</updated>
+  <updated>2022-10-10T01:32:57Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AlexJWayne/Lysertron</title>
-    <updated>2022-10-09T01:32:50Z</updated>
-    <id>tag:github.com,2022-10-09:/AlexJWayne/Lysertron</id>
-    <link href="https://github.com/AlexJWayne/Lysertron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>reedlabotz/wordonthetweet</title>
-    <updated>2022-10-09T01:32:50Z</updated>
-    <id>tag:github.com,2022-10-09:/reedlabotz/wordonthetweet</id>
-    <link href="https://github.com/reedlabotz/wordonthetweet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A twitter dashboard that allows you to see what the world is thinking about an issue. Tweets are pulled in from twitter and analyzed for positive or negative sentiments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stickfigure/wh-slurp</title>
-    <updated>2022-10-09T01:32:50Z</updated>
-    <id>tag:github.com,2022-10-09:/stickfigure/wh-slurp</id>
-    <link href="https://github.com/stickfigure/wh-slurp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blindmonkey/supersecret</title>
+    <updated>2022-10-10T01:32:57Z</updated>
+    <id>tag:github.com,2022-10-10:/blindmonkey/supersecret</id>
+    <link href="https://github.com/blindmonkey/supersecret" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Super secret 3D project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:40:07Z</updated>
+  <updated>2022-10-10T01:43:14Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>casr/vim-colors-reference</title>
-    <updated>2022-10-09T01:40:07Z</updated>
-    <id>tag:github.com,2022-10-09:/casr/vim-colors-reference</id>
-    <link href="https://github.com/casr/vim-colors-reference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim&#39;s default colour scheme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rhysd/conflict-marker.vim</title>
-    <updated>2022-10-09T01:40:07Z</updated>
-    <id>tag:github.com,2022-10-09:/rhysd/conflict-marker.vim</id>
-    <link href="https://github.com/rhysd/conflict-marker.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Weapon to fight against conflicts in Vim.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mattn/vim-goimports</title>
-    <updated>2022-10-09T01:40:07Z</updated>
-    <id>tag:github.com,2022-10-09:/mattn/vim-goimports</id>
-    <link href="https://github.com/mattn/vim-goimports" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin for Minimalist Gopher&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tomlion/vim-solidity</title>
+    <updated>2022-10-10T01:43:14Z</updated>
+    <id>tag:github.com,2022-10-10:/tomlion/vim-solidity</id>
+    <link href="https://github.com/tomlion/vim-solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim syntax file for solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

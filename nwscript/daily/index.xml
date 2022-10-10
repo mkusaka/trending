@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NWScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:36:45Z</updated>
+  <updated>2022-10-10T01:38:19Z</updated>
   <subtitle>Daily Trending of NWScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CromFr/NWN2-SQLAuth</title>
-    <updated>2022-10-09T01:36:45Z</updated>
-    <id>tag:github.com,2022-10-09:/CromFr/NWN2-SQLAuth</id>
-    <link href="https://github.com/CromFr/NWN2-SQLAuth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neverwinter Nights 2 in-game authentication system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

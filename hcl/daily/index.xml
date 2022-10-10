@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:34:24Z</updated>
+  <updated>2022-10-10T01:35:34Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-google-modules/terraform-google-log-export</title>
-    <updated>2022-10-09T01:34:24Z</updated>
-    <id>tag:github.com,2022-10-09:/terraform-google-modules/terraform-google-log-export</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-log-export" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This module allows you to create log exports at the project, folder, or organization level.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-eks-iam-role</title>
+    <updated>2022-10-10T01:35:34Z</updated>
+    <id>tag:github.com,2022-10-10:/cloudposse/terraform-aws-eks-iam-role</id>
+    <link href="https://github.com/cloudposse/terraform-aws-eks-iam-role" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision an EKS IAM Role for Service Account&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hashicorp/terraform-google-vault</title>
+    <updated>2022-10-10T01:35:34Z</updated>
+    <id>tag:github.com,2022-10-10:/hashicorp/terraform-google-vault</id>
+    <link href="https://github.com/hashicorp/terraform-google-vault" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform Module for how to run Vault on Google Cloud using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-mwaa</title>
+    <updated>2022-10-10T01:35:34Z</updated>
+    <id>tag:github.com,2022-10-10:/cloudposse/terraform-aws-mwaa</id>
+    <link href="https://github.com/cloudposse/terraform-aws-mwaa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision Amazon Managed Workflows for Apache Airflow (MWAA)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

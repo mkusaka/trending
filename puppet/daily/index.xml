@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:37:46Z</updated>
+  <updated>2022-10-10T01:39:41Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>augusts/rockies</title>
-    <updated>2022-10-09T01:37:46Z</updated>
-    <id>tag:github.com,2022-10-09:/augusts/rockies</id>
-    <link href="https://github.com/augusts/rockies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fiddyspence/peha</title>
-    <updated>2022-10-09T01:37:46Z</updated>
-    <id>tag:github.com,2022-10-09:/fiddyspence/peha</id>
-    <link href="https://github.com/fiddyspence/peha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modules for pe_ha&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

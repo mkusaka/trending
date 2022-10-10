@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:33:34Z</updated>
+  <updated>2022-10-10T01:34:00Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CargoSense/absinthe_client</title>
-    <updated>2022-10-09T01:33:34Z</updated>
-    <id>tag:github.com,2022-10-09:/CargoSense/absinthe_client</id>
-    <link href="https://github.com/CargoSense/absinthe_client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GraphQL client designed for Elixir Absinthe.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Adzz/data_schema</title>
+    <updated>2022-10-10T01:34:00Z</updated>
+    <id>tag:github.com,2022-10-10:/Adzz/data_schema</id>
+    <link href="https://github.com/Adzz/data_schema" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Declarative schemas for data transformations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>joshnuss/design-patterns-in-elixir</title>
+    <updated>2022-10-10T01:34:00Z</updated>
+    <id>tag:github.com,2022-10-10:/joshnuss/design-patterns-in-elixir</id>
+    <link href="https://github.com/joshnuss/design-patterns-in-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common design patterns applied in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

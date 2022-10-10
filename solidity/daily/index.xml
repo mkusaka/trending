@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:39:09Z</updated>
+  <updated>2022-10-10T01:41:57Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vezenovm/simple_shield</title>
-    <updated>2022-10-09T01:39:09Z</updated>
-    <id>tag:github.com,2022-10-09:/vezenovm/simple_shield</id>
-    <link href="https://github.com/vezenovm/simple_shield" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic Noir anonymous proof of membership&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>a16z/auction-zoo</title>
+    <updated>2022-10-10T01:41:57Z</updated>
+    <id>tag:github.com,2022-10-10:/a16z/auction-zoo</id>
+    <link href="https://github.com/a16z/auction-zoo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A menagerie of auction mechanisms implemented in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dabit3/foundry-workshop</title>
+    <updated>2022-10-10T01:41:57Z</updated>
+    <id>tag:github.com,2022-10-10:/dabit3/foundry-workshop</id>
+    <link href="https://github.com/dabit3/foundry-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Building and testing smart contracts with Foundry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lifinance/create3-factory</title>
+    <updated>2022-10-10T01:41:57Z</updated>
+    <id>tag:github.com,2022-10-10:/lifinance/create3-factory</id>
+    <link href="https://github.com/lifinance/create3-factory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LIFI Deployment of CREATE3-Factory by @ZeframLou&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

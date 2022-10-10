@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:35:37Z</updated>
+  <updated>2022-10-10T01:37:05Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaSmoothOptimizers/LDLFactorizations.jl</title>
-    <updated>2022-10-09T01:35:37Z</updated>
-    <id>tag:github.com,2022-10-09:/JuliaSmoothOptimizers/LDLFactorizations.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/LDLFactorizations.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Factorization of Symmetric Matrices&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arviz-devs/ArviZ.jl</title>
+    <updated>2022-10-10T01:37:05Z</updated>
+    <id>tag:github.com,2022-10-10:/arviz-devs/ArviZ.jl</id>
+    <link href="https://github.com/arviz-devs/ArviZ.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exploratory analysis of Bayesian models with Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MagneticResonanceImaging/MRIReco.jl</title>
-    <updated>2022-10-09T01:35:37Z</updated>
-    <id>tag:github.com,2022-10-09:/MagneticResonanceImaging/MRIReco.jl</id>
-    <link href="https://github.com/MagneticResonanceImaging/MRIReco.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia Package for MRI Reconstruction&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaPackaging/BinaryBuilder.jl</title>
+    <updated>2022-10-10T01:37:05Z</updated>
+    <id>tag:github.com,2022-10-10:/JuliaPackaging/BinaryBuilder.jl</id>
+    <link href="https://github.com/JuliaPackaging/BinaryBuilder.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Binary Dependency Builder for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>natema/WorldDynamics.jl</title>
-    <updated>2022-10-09T01:35:37Z</updated>
-    <id>tag:github.com,2022-10-09:/natema/WorldDynamics.jl</id>
-    <link href="https://github.com/natema/WorldDynamics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source framework written in Julia for global integrated assessment models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unbalancedparentheses/data_science_in_julia_for_hackers</title>
+    <updated>2022-10-10T01:37:05Z</updated>
+    <id>tag:github.com,2022-10-10:/unbalancedparentheses/data_science_in_julia_for_hackers</id>
+    <link href="https://github.com/unbalancedparentheses/data_science_in_julia_for_hackers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data Science in Julia With Hackers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:36:28Z</updated>
+  <updated>2022-10-10T01:38:00Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>frida/frida</title>
-    <updated>2022-10-09T01:36:28Z</updated>
-    <id>tag:github.com,2022-10-09:/frida/frida</id>
-    <link href="https://github.com/frida/frida" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clone this repo to build Frida&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tanmoy27112000/flutter_UI_design_hactoberfest</title>
+    <updated>2022-10-10T01:38:00Z</updated>
+    <id>tag:github.com,2022-10-10:/tanmoy27112000/flutter_UI_design_hactoberfest</id>
+    <link href="https://github.com/tanmoy27112000/flutter_UI_design_hactoberfest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository will contain various UI flutter designs for the flutter community&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CSCE313-FA22-Kebo/quiz-3-2b</title>
-    <updated>2022-10-09T01:36:28Z</updated>
-    <id>tag:github.com,2022-10-09:/CSCE313-FA22-Kebo/quiz-3-2b</id>
-    <link href="https://github.com/CSCE313-FA22-Kebo/quiz-3-2b" rel="alternate"></link>
+    <title>LineageOS/android_packages_providers_BookmarkProvider</title>
+    <updated>2022-10-10T01:38:00Z</updated>
+    <id>tag:github.com,2022-10-10:/LineageOS/android_packages_providers_BookmarkProvider</id>
+    <link href="https://github.com/LineageOS/android_packages_providers_BookmarkProvider" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cilium/json-mock</title>
-    <updated>2022-10-09T01:36:28Z</updated>
-    <id>tag:github.com,2022-10-09:/cilium/json-mock</id>
-    <link href="https://github.com/cilium/json-mock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple container image for json-server to mock REST/JSON APIs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LineageOS/android_device_lineage_atv</title>
+    <updated>2022-10-10T01:38:00Z</updated>
+    <id>tag:github.com,2022-10-10:/LineageOS/android_device_lineage_atv</id>
+    <link href="https://github.com/LineageOS/android_device_lineage_atv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

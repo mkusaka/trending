@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-09T01:31:34Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-10-10T01:31:25Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YuzukiHD/YuzukiLOHCC-PRO</title>
-    <updated>2022-10-09T01:31:34Z</updated>
-    <id>tag:github.com,2022-10-09:/YuzukiHD/YuzukiLOHCC-PRO</id>
-    <link href="https://github.com/YuzukiHD/YuzukiLOHCC-PRO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 &amp; MS9332&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>extreme-assistant/CVPR2022-Paper-Code-Interpretation</title>
+    <updated>2022-10-10T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-10:/extreme-assistant/CVPR2022-Paper-Code-Interpretation</id>
+    <link href="https://github.com/extreme-assistant/CVPR2022-Paper-Code-Interpretation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>meirwah/awesome-incident-response</title>
-    <updated>2022-10-09T01:31:34Z</updated>
-    <id>tag:github.com,2022-10-09:/meirwah/awesome-incident-response</id>
-    <link href="https://github.com/meirwah/awesome-incident-response" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of tools for incident response&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xingshaocheng/architect-awesome</title>
+    <updated>2022-10-10T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-10:/xingshaocheng/architect-awesome</id>
+    <link href="https://github.com/xingshaocheng/architect-awesome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;后端架构师技术图谱&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/vscode-discussions</title>
-    <updated>2022-10-09T01:31:34Z</updated>
-    <id>tag:github.com,2022-10-09:/microsoft/vscode-discussions</id>
-    <link href="https://github.com/microsoft/vscode-discussions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official place to discuss all things VS Code!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arthurspk/guiadofrontend</title>
+    <updated>2022-10-10T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-10:/arthurspk/guiadofrontend</id>
+    <link href="https://github.com/arthurspk/guiadofrontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nesse guia você encontrará tudo para se torna um desenvolvedor front-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
