@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:41:51Z</updated>
+  <updated>2022-10-11T01:39:31Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AdminTurnedDevOps/PearsonCourses</title>
-    <updated>2022-10-10T01:41:51Z</updated>
-    <id>tag:github.com,2022-10-10:/AdminTurnedDevOps/PearsonCourses</id>
-    <link href="https://github.com/AdminTurnedDevOps/PearsonCourses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethpandaops/ethereum-helm-charts</title>
+    <updated>2022-10-11T01:39:31Z</updated>
+    <id>tag:github.com,2022-10-11:/ethpandaops/ethereum-helm-charts</id>
+    <link href="https://github.com/ethpandaops/ethereum-helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of Helm charts to run multiple components of the Ethereum blockchain on Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:40:55Z</updated>
+  <updated>2022-10-11T01:38:46Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>quickwit-oss/quickwit</title>
-    <updated>2022-10-10T01:40:55Z</updated>
-    <id>tag:github.com,2022-10-10:/quickwit-oss/quickwit</id>
-    <link href="https://github.com/quickwit-oss/quickwit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cloud-native search engine for log management &amp; analytics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DeGatchi/mev-template-rs</title>
-    <updated>2022-10-10T01:40:55Z</updated>
-    <id>tag:github.com,2022-10-10:/DeGatchi/mev-template-rs</id>
-    <link href="https://github.com/DeGatchi/mev-template-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap your MEV bot strategies with a simple boilerplate to build on top of.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bnjbvr/rouille</title>
-    <updated>2022-10-10T01:40:55Z</updated>
-    <id>tag:github.com,2022-10-10:/bnjbvr/rouille</id>
-    <link href="https://github.com/bnjbvr/rouille" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust programming, in French.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sarah-ek/pulp</title>
+    <updated>2022-10-11T01:38:46Z</updated>
+    <id>tag:github.com,2022-10-11:/sarah-ek/pulp</id>
+    <link href="https://github.com/sarah-ek/pulp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:43:14Z</updated>
+  <updated>2022-10-11T01:40:31Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tomlion/vim-solidity</title>
-    <updated>2022-10-10T01:43:14Z</updated>
-    <id>tag:github.com,2022-10-10:/tomlion/vim-solidity</id>
-    <link href="https://github.com/tomlion/vim-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim syntax file for solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>justinmk/vim-dirvish</title>
+    <updated>2022-10-11T01:40:31Z</updated>
+    <id>tag:github.com,2022-10-11:/justinmk/vim-dirvish</id>
+    <link href="https://github.com/justinmk/vim-dirvish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Directory viewer for Vim ⚡&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

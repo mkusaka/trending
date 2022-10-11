@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DIGITAL Command Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:33:37Z</updated>
+  <updated>2022-10-11T01:33:08Z</updated>
   <subtitle>Daily Trending of DIGITAL Command Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oracle-oci/oracle-2022-1</title>
+    <updated>2022-10-11T01:33:08Z</updated>
+    <id>tag:github.com,2022-10-11:/oracle-oci/oracle-2022-1</id>
+    <link href="https://github.com/oracle-oci/oracle-2022-1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

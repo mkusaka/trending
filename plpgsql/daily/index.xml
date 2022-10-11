@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:39:29Z</updated>
+  <updated>2022-10-11T01:37:23Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vineeths96/Data-Engineering-Nanodegree</title>
-    <updated>2022-10-10T01:39:29Z</updated>
-    <id>tag:github.com,2022-10-10:/vineeths96/Data-Engineering-Nanodegree</id>
-    <link href="https://github.com/vineeths96/Data-Engineering-Nanodegree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository holds the python files and notebooks associated with the Udacity Data Engineering Nanodegree.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

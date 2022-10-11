@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:37:26Z</updated>
+  <updated>2022-10-11T01:35:53Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>revanced/revanced-manager-compose</title>
-    <updated>2022-10-10T01:37:26Z</updated>
-    <id>tag:github.com,2022-10-10:/revanced/revanced-manager-compose</id>
-    <link href="https://github.com/revanced/revanced-manager-compose" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💊 The official ReVanced Manager&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;💊 ReVanced Manager (Compose)&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;Making the Manager in Jetpack Compose because we (canny and I) despise Fluttter.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h3&gt;🔴 Status&lt;/h3&gt; &#xA;&lt;p&gt;This rewrite is still incomplete and is a WIP. Please use the &lt;a href=&#34;https://github.com/revanced/revanced-manager&#34;&gt;Fluttter ReVanced Manager&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

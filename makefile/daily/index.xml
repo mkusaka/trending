@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:38:00Z</updated>
+  <updated>2022-10-11T01:36:20Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tanmoy27112000/flutter_UI_design_hactoberfest</title>
-    <updated>2022-10-10T01:38:00Z</updated>
-    <id>tag:github.com,2022-10-10:/tanmoy27112000/flutter_UI_design_hactoberfest</id>
-    <link href="https://github.com/tanmoy27112000/flutter_UI_design_hactoberfest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository will contain various UI flutter designs for the flutter community&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LineageOS/android_packages_providers_BookmarkProvider</title>
-    <updated>2022-10-10T01:38:00Z</updated>
-    <id>tag:github.com,2022-10-10:/LineageOS/android_packages_providers_BookmarkProvider</id>
-    <link href="https://github.com/LineageOS/android_packages_providers_BookmarkProvider" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LineageOS/android_device_lineage_atv</title>
-    <updated>2022-10-10T01:38:00Z</updated>
-    <id>tag:github.com,2022-10-10:/LineageOS/android_device_lineage_atv</id>
-    <link href="https://github.com/LineageOS/android_device_lineage_atv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:35:28Z</updated>
+  <updated>2022-10-11T01:34:28Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>akarshansonkar/Weather-project</title>
+    <updated>2022-10-11T01:34:28Z</updated>
+    <id>tag:github.com,2022-10-11:/akarshansonkar/Weather-project</id>
+    <link href="https://github.com/akarshansonkar/Weather-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

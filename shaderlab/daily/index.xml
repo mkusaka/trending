@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:41:31Z</updated>
+  <updated>2022-10-11T01:39:08Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>foxartorg/unity-tower-defence</title>
-    <updated>2022-10-10T01:41:31Z</updated>
-    <id>tag:github.com,2022-10-10:/foxartorg/unity-tower-defence</id>
-    <link href="https://github.com/foxartorg/unity-tower-defence" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>markulie/Smooth-Follow-Unity</title>
+    <updated>2022-10-11T01:39:08Z</updated>
+    <id>tag:github.com,2022-10-11:/markulie/Smooth-Follow-Unity</id>
+    <link href="https://github.com/markulie/Smooth-Follow-Unity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unity Smooth Follow with Lerp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>markulie/Always-On-Top-Shader-Unity</title>
+    <updated>2022-10-11T01:39:08Z</updated>
+    <id>tag:github.com,2022-10-11:/markulie/Always-On-Top-Shader-Unity</id>
+    <link href="https://github.com/markulie/Always-On-Top-Shader-Unity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Always On Top Shader for Unity Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>markulie/Unlit-Shader-Unity</title>
+    <updated>2022-10-11T01:39:08Z</updated>
+    <id>tag:github.com,2022-10-11:/markulie/Unlit-Shader-Unity</id>
+    <link href="https://github.com/markulie/Unlit-Shader-Unity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unlit Shader for Unity Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:38:15Z</updated>
+  <updated>2022-10-11T01:36:37Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>qb-0/pyMeow</title>
-    <updated>2022-10-10T01:38:15Z</updated>
-    <id>tag:github.com,2022-10-10:/qb-0/pyMeow</id>
-    <link href="https://github.com/qb-0/pyMeow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python Game Hacking Library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>unquietwiki/sortplz</title>
-    <updated>2022-10-10T01:38:15Z</updated>
-    <id>tag:github.com,2022-10-10:/unquietwiki/sortplz</id>
-    <link href="https://github.com/unquietwiki/sortplz" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MAXScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:38:05Z</updated>
+  <updated>2022-10-11T01:36:25Z</updated>
   <subtitle>Daily Trending of MAXScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>markulie/xCalc</title>
+    <updated>2022-10-11T01:36:25Z</updated>
+    <id>tag:github.com,2022-10-11:/markulie/xCalc</id>
+    <link href="https://github.com/markulie/xCalc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Calculator for 3ds Max and Maya&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>markulie/ProColor</title>
+    <updated>2022-10-11T01:36:25Z</updated>
+    <id>tag:github.com,2022-10-11:/markulie/ProColor</id>
+    <link href="https://github.com/markulie/ProColor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced WireColor Manager for 3ds Max&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>markulie/AnimLayerCleaner</title>
+    <updated>2022-10-11T01:36:25Z</updated>
+    <id>tag:github.com,2022-10-11:/markulie/AnimLayerCleaner</id>
+    <link href="https://github.com/markulie/AnimLayerCleaner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Animation Layer Cleaner for 3ds Max&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

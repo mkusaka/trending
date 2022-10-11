@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:31:25Z</updated>
+  <updated>2022-10-11T01:31:10Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>extreme-assistant/CVPR2022-Paper-Code-Interpretation</title>
-    <updated>2022-10-10T01:31:25Z</updated>
-    <id>tag:github.com,2022-10-10:/extreme-assistant/CVPR2022-Paper-Code-Interpretation</id>
-    <link href="https://github.com/extreme-assistant/CVPR2022-Paper-Code-Interpretation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ilovexjp/trip-card</title>
+    <updated>2022-10-11T01:31:10Z</updated>
+    <id>tag:github.com,2022-10-11:/ilovexjp/trip-card</id>
+    <link href="https://github.com/ilovexjp/trip-card" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;通信大数据行程卡模拟&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xingshaocheng/architect-awesome</title>
-    <updated>2022-10-10T01:31:25Z</updated>
-    <id>tag:github.com,2022-10-10:/xingshaocheng/architect-awesome</id>
-    <link href="https://github.com/xingshaocheng/architect-awesome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;后端架构师技术图谱&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StewAlexander-com/VIM-Awesome-Cheatsheet</title>
+    <updated>2022-10-11T01:31:10Z</updated>
+    <id>tag:github.com,2022-10-11:/StewAlexander-com/VIM-Awesome-Cheatsheet</id>
+    <link href="https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cheatsheet for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>arthurspk/guiadofrontend</title>
-    <updated>2022-10-10T01:31:25Z</updated>
-    <id>tag:github.com,2022-10-10:/arthurspk/guiadofrontend</id>
-    <link href="https://github.com/arthurspk/guiadofrontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nesse guia você encontrará tudo para se torna um desenvolvedor front-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anderspitman/awesome-tunneling</title>
+    <updated>2022-10-11T01:31:10Z</updated>
+    <id>tag:github.com,2022-10-11:/anderspitman/awesome-tunneling</id>
+    <link href="https://github.com/anderspitman/awesome-tunneling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:32:53Z</updated>
+  <updated>2022-10-11T01:32:29Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mhuebert/maria</title>
-    <updated>2022-10-10T01:32:53Z</updated>
-    <id>tag:github.com,2022-10-10:/mhuebert/maria</id>
-    <link href="https://github.com/mhuebert/maria" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A ClojureScript coding environment for beginners.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abedra/yow-2012</title>
+    <updated>2022-10-11T01:32:29Z</updated>
+    <id>tag:github.com,2022-10-11:/abedra/yow-2012</id>
+    <link href="https://github.com/abedra/yow-2012" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My talk for Yow! 2012&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clj-commons/aleph</title>
-    <updated>2022-10-10T01:32:53Z</updated>
-    <id>tag:github.com,2022-10-10:/clj-commons/aleph</id>
-    <link href="https://github.com/clj-commons/aleph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Asynchronous communication for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lambdaisland/uri</title>
+    <updated>2022-10-11T01:32:29Z</updated>
+    <id>tag:github.com,2022-10-11:/lambdaisland/uri</id>
+    <link href="https://github.com/lambdaisland/uri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pure Clojure/ClojureScript URI library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

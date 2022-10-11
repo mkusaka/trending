@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:33:57Z</updated>
+  <updated>2022-10-11T01:33:27Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ContriHUB/Sticky-Notes</title>
-    <updated>2022-10-10T01:33:57Z</updated>
-    <id>tag:github.com,2022-10-10:/ContriHUB/Sticky-Notes</id>
-    <link href="https://github.com/ContriHUB/Sticky-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A platform to save and share your Notes and todos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Abhisheksabhi33/Webd-and-Blockchain-dev-hectoberfest-2022</title>
+    <updated>2022-10-11T01:33:27Z</updated>
+    <id>tag:github.com,2022-10-11:/Abhisheksabhi33/Webd-and-Blockchain-dev-hectoberfest-2022</id>
+    <link href="https://github.com/Abhisheksabhi33/Webd-and-Blockchain-dev-hectoberfest-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contribute in this repository by raising genuine PR. Get verified, merged and earn the free swags from Hacktoberfest 2022.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MisraSwarup45/ChartView</title>
-    <updated>2022-10-10T01:33:57Z</updated>
-    <id>tag:github.com,2022-10-10:/MisraSwarup45/ChartView</id>
-    <link href="https://github.com/MisraSwarup45/ChartView" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Crypto Details Web App&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>acicts/BITS22</title>
+    <updated>2022-10-11T01:33:27Z</updated>
+    <id>tag:github.com,2022-10-11:/acicts/BITS22</id>
+    <link href="https://github.com/acicts/BITS22" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Bits&#39;22 Source code created using Nodejs, ExpressJS, MongoDB, Sass and much more. Make a contribution and make this code awesome.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

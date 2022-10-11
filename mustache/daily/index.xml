@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-10T01:38:11Z</updated>
+  <updated>2022-10-11T01:36:34Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BeryJu/k8s</title>
+    <updated>2022-10-11T01:36:34Z</updated>
+    <id>tag:github.com,2022-10-11:/BeryJu/k8s</id>
+    <link href="https://github.com/BeryJu/k8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flux repository for my K8s clusters&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
