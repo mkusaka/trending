@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:35:00Z</updated>
+  <updated>2022-10-12T01:35:33Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>coding-parrot/Low-Level-Design</title>
-    <updated>2022-10-11T01:35:00Z</updated>
-    <id>tag:github.com,2022-10-11:/coding-parrot/Low-Level-Design</id>
-    <link href="https://github.com/coding-parrot/Low-Level-Design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful Resources for Low Level System Design&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Low Level System Design&lt;/h1&gt; &#xA;&lt;p&gt;This project contains multiple LLD codes for system design interviews. &lt;br&gt; Please raise issues and pull requests for fixes and updates.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Cache&lt;/li&gt; &#xA; &lt;li&gt;Event Bus&lt;/li&gt; &#xA; &lt;li&gt;Rate Limiter&lt;/li&gt; &#xA; &lt;li&gt;Service Orchestrator&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;The following resources are useful for learning low level design.&lt;/p&gt; &#xA;&lt;h3&gt;Design Patterns&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://refactoring.guru/&#34;&gt;Refactoring Guru&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Memory Management&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.cs.utexas.edu/~bornholt/post/memory-models.html&#34;&gt;Texas University Memory Models&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://slack.engineering/reducing-slacks-memory-footprint&#34;&gt;Slack reducing memory footprint&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Rate Limiting&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/11Jqy_GjUGtdXJK94XGsEIK7CP1SnQGdp2eF0wSw9ra8&#34;&gt;Apache Kafka Exactly Once processing&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/uber-go/ratelimit/raw/master/ratelimit.go&#34;&gt;Uber Rate Limiter&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://martinfowler.com/bliki/CircuitBreaker.html&#34;&gt;Martin Fowler Circuit Breaker&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Netflix/Hystrix&#34;&gt;Netflix Hystrix&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/awslabs/route53-infima&#34;&gt;Amazon AWS Shuffle Sharding&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Course&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://interviewready.io/&#34;&gt;https://interviewready.io/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

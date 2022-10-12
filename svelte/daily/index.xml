@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:39:46Z</updated>
+  <updated>2022-10-12T01:41:20Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>haishanh/cherry</title>
-    <updated>2022-10-11T01:39:46Z</updated>
-    <id>tag:github.com,2022-10-11:/haishanh/cherry</id>
-    <link href="https://github.com/haishanh/cherry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cherry is a self-hostable bookmark service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>the-pudding/svelte-starter</title>
+    <updated>2022-10-12T01:41:20Z</updated>
+    <id>tag:github.com,2022-10-12:/the-pudding/svelte-starter</id>
+    <link href="https://github.com/the-pudding/svelte-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Svelte starter template for projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

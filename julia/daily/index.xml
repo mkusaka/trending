@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:35:35Z</updated>
+  <updated>2022-10-12T01:36:25Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaSmoothOptimizers/RipQP.jl</title>
-    <updated>2022-10-11T01:35:35Z</updated>
-    <id>tag:github.com,2022-10-11:/JuliaSmoothOptimizers/RipQP.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/RipQP.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDiff/ChainRulesCore.jl</title>
+    <updated>2022-10-12T01:36:25Z</updated>
+    <id>tag:github.com,2022-10-12:/JuliaDiff/ChainRulesCore.jl</id>
+    <link href="https://github.com/JuliaDiff/ChainRulesCore.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AD-backend agnostic system defining custom forward and reverse mode rules. This is the light weight core to allow you to define rules for your functions in your packages, without depending on any particular AD system.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ctkelley/SIAMFANLEquations.jl</title>
-    <updated>2022-10-11T01:35:35Z</updated>
-    <id>tag:github.com,2022-10-11:/ctkelley/SIAMFANLEquations.jl</id>
-    <link href="https://github.com/ctkelley/SIAMFANLEquations.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a Julia package for a book project.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaGaussianProcesses/KernelFunctions.jl</title>
+    <updated>2022-10-12T01:36:25Z</updated>
+    <id>tag:github.com,2022-10-12:/JuliaGaussianProcesses/KernelFunctions.jl</id>
+    <link href="https://github.com/JuliaGaussianProcesses/KernelFunctions.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for kernel functions for machine learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaEarth/GeoStats.jl</title>
-    <updated>2022-10-11T01:35:35Z</updated>
-    <id>tag:github.com,2022-10-11:/JuliaEarth/GeoStats.jl</id>
-    <link href="https://github.com/JuliaEarth/GeoStats.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An extensible framework for high-performance geostatistics in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aviatesk/JET.jl</title>
+    <updated>2022-10-12T01:36:25Z</updated>
+    <id>tag:github.com,2022-10-12:/aviatesk/JET.jl</id>
+    <link href="https://github.com/aviatesk/JET.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experimental code analyzer for Julia, no need for additional type annotations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

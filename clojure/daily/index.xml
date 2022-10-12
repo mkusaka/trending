@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:32:29Z</updated>
+  <updated>2022-10-12T01:33:07Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abedra/yow-2012</title>
-    <updated>2022-10-11T01:32:29Z</updated>
-    <id>tag:github.com,2022-10-11:/abedra/yow-2012</id>
-    <link href="https://github.com/abedra/yow-2012" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My talk for Yow! 2012&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VictorInacio/curso-clojure-mybank</title>
+    <updated>2022-10-12T01:33:07Z</updated>
+    <id>tag:github.com,2022-10-12:/VictorInacio/curso-clojure-mybank</id>
+    <link href="https://github.com/VictorInacio/curso-clojure-mybank" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lambdaisland/uri</title>
-    <updated>2022-10-11T01:32:29Z</updated>
-    <id>tag:github.com,2022-10-11:/lambdaisland/uri</id>
-    <link href="https://github.com/lambdaisland/uri" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A pure Clojure/ClojureScript URI library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wolfbiter/cereal</title>
+    <updated>2022-10-12T01:33:07Z</updated>
+    <id>tag:github.com,2022-10-12:/wolfbiter/cereal</id>
+    <link href="https://github.com/wolfbiter/cereal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;program to take midi input from a virmidi port and output it in serial. specifically, the purpose of this is to pass beat information to arduino-driven LEDs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

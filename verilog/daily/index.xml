@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:40:28Z</updated>
+  <updated>2022-10-12T01:42:54Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MiSTer-devel/Arcade-BankPanic_MiSTer</title>
-    <updated>2022-10-11T01:40:28Z</updated>
-    <id>tag:github.com,2022-10-11:/MiSTer-devel/Arcade-BankPanic_MiSTer</id>
-    <link href="https://github.com/MiSTer-devel/Arcade-BankPanic_MiSTer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BankPanic FPGA core for MiSTer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

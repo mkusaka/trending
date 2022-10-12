@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:40:31Z</updated>
+  <updated>2022-10-12T01:43:00Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>justinmk/vim-dirvish</title>
-    <updated>2022-10-11T01:40:31Z</updated>
-    <id>tag:github.com,2022-10-11:/justinmk/vim-dirvish</id>
-    <link href="https://github.com/justinmk/vim-dirvish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Directory viewer for Vim ⚡&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/matchit.zip</title>
+    <updated>2022-10-12T01:43:00Z</updated>
+    <id>tag:github.com,2022-10-12:/vim-scripts/matchit.zip</id>
+    <link href="https://github.com/vim-scripts/matchit.zip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;extended % matching for HTML, LaTeX, and many other languages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gcmt/wildfire.vim</title>
+    <updated>2022-10-12T01:43:00Z</updated>
+    <id>tag:github.com,2022-10-12:/gcmt/wildfire.vim</id>
+    <link href="https://github.com/gcmt/wildfire.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart selection of the closest text object&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shougo/neosnippet.vim</title>
+    <updated>2022-10-12T01:43:00Z</updated>
+    <id>tag:github.com,2022-10-12:/Shougo/neosnippet.vim</id>
+    <link href="https://github.com/Shougo/neosnippet.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;neo-snippet plugin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

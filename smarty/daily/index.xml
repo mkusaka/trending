@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:39:31Z</updated>
+  <updated>2022-10-12T01:41:07Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ethpandaops/ethereum-helm-charts</title>
-    <updated>2022-10-11T01:39:31Z</updated>
-    <id>tag:github.com,2022-10-11:/ethpandaops/ethereum-helm-charts</id>
-    <link href="https://github.com/ethpandaops/ethereum-helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of Helm charts to run multiple components of the Ethereum blockchain on Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bukowa/http-headers</title>
+    <updated>2022-10-12T01:41:07Z</updated>
+    <id>tag:github.com,2022-10-12:/bukowa/http-headers</id>
+    <link href="https://github.com/bukowa/http-headers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;very simple http server for debugging - print your http headers - written golang, built in docker packaged into helm chart&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deepfence/helm-charts</title>
+    <updated>2022-10-12T01:41:07Z</updated>
+    <id>tag:github.com,2022-10-12:/deepfence/helm-charts</id>
+    <link href="https://github.com/deepfence/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

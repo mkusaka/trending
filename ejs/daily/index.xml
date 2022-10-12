@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:33:27Z</updated>
+  <updated>2022-10-12T01:34:02Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Abhisheksabhi33/Webd-and-Blockchain-dev-hectoberfest-2022</title>
-    <updated>2022-10-11T01:33:27Z</updated>
-    <id>tag:github.com,2022-10-11:/Abhisheksabhi33/Webd-and-Blockchain-dev-hectoberfest-2022</id>
-    <link href="https://github.com/Abhisheksabhi33/Webd-and-Blockchain-dev-hectoberfest-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contribute in this repository by raising genuine PR. Get verified, merged and earn the free swags from Hacktoberfest 2022.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abhinavkashyap061/Dear-Diary</title>
+    <updated>2022-10-12T01:34:02Z</updated>
+    <id>tag:github.com,2022-10-12:/abhinavkashyap061/Dear-Diary</id>
+    <link href="https://github.com/abhinavkashyap061/Dear-Diary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalistic blog website where you can also add your own writings. The database used in this app is MongoDB with EJS used for creating dynamic pages, and express.js for creating local server.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>acicts/BITS22</title>
-    <updated>2022-10-11T01:33:27Z</updated>
-    <id>tag:github.com,2022-10-11:/acicts/BITS22</id>
-    <link href="https://github.com/acicts/BITS22" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Bits&#39;22 Source code created using Nodejs, ExpressJS, MongoDB, Sass and much more. Make a contribution and make this code awesome.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TomasZerbino/ej_blog</title>
+    <updated>2022-10-12T01:34:02Z</updated>
+    <id>tag:github.com,2022-10-12:/TomasZerbino/ej_blog</id>
+    <link href="https://github.com/TomasZerbino/ej_blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-11T01:32:55Z</updated>
+  <updated>2022-10-12T01:33:28Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fplll/fpylll</title>
-    <updated>2022-10-11T01:32:55Z</updated>
-    <id>tag:github.com,2022-10-11:/fplll/fpylll</id>
-    <link href="https://github.com/fplll/fpylll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Python interface for https://github.com/fplll/fplll&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
