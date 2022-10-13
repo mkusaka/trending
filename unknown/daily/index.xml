@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-12T01:31:41Z</updated>
+  <updated>2022-10-13T01:31:08Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>forthespada/CS-Books</title>
-    <updated>2022-10-12T01:31:41Z</updated>
-    <id>tag:github.com,2022-10-12:/forthespada/CS-Books</id>
-    <link href="https://github.com/forthespada/CS-Books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lissy93/personal-security-checklist</title>
+    <updated>2022-10-13T01:31:08Z</updated>
+    <id>tag:github.com,2022-10-13:/Lissy93/personal-security-checklist</id>
+    <link href="https://github.com/Lissy93/personal-security-checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Azure/azure-sdk-for-net</title>
-    <updated>2022-10-12T01:31:41Z</updated>
-    <id>tag:github.com,2022-10-12:/Azure/azure-sdk-for-net</id>
-    <link href="https://github.com/Azure/azure-sdk-for-net" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itdevbooks/pdf</title>
+    <updated>2022-10-13T01:31:08Z</updated>
+    <id>tag:github.com,2022-10-13:/itdevbooks/pdf</id>
+    <link href="https://github.com/itdevbooks/pdf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Pradeep-Pandey13/CSS-Cheatsheets</title>
-    <updated>2022-10-12T01:31:41Z</updated>
-    <id>tag:github.com,2022-10-12:/Pradeep-Pandey13/CSS-Cheatsheets</id>
-    <link href="https://github.com/Pradeep-Pandey13/CSS-Cheatsheets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In this repository I have provided all the cheatsheets which I have shared on my Twitter account. So if you find these cheatsheets useful you can download and share them with other people.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xsyr0/OSCP</title>
+    <updated>2022-10-13T01:31:08Z</updated>
+    <id>tag:github.com,2022-10-13:/0xsyr0/OSCP</id>
+    <link href="https://github.com/0xsyr0/OSCP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OSCP Guide&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

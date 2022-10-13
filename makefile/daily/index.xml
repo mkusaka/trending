@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-12T01:37:11Z</updated>
+  <updated>2022-10-13T01:35:54Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DSC-Galgotias/Hacktoberfest2022</title>
-    <updated>2022-10-12T01:37:11Z</updated>
-    <id>tag:github.com,2022-10-12:/DSC-Galgotias/Hacktoberfest2022</id>
-    <link href="https://github.com/DSC-Galgotias/Hacktoberfest2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Make your first Pull Request on Hacktoberfest 2022. Don&#39;t forget to spread love and if you like give us a star&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>giantswarm/architect-orb</title>
-    <updated>2022-10-12T01:37:11Z</updated>
-    <id>tag:github.com,2022-10-12:/giantswarm/architect-orb</id>
-    <link href="https://github.com/giantswarm/architect-orb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>whamcloud/python-requests-unixsocket</title>
-    <updated>2022-10-12T01:37:11Z</updated>
-    <id>tag:github.com,2022-10-12:/whamcloud/python-requests-unixsocket</id>
-    <link href="https://github.com/whamcloud/python-requests-unixsocket" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Packating/buiding for python-requests-unixsocket&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
