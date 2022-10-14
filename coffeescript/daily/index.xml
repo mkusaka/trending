@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:32:40Z</updated>
+  <updated>2022-10-14T01:33:21Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lakenen/coffeemation</title>
-    <updated>2022-10-13T01:32:40Z</updated>
-    <id>tag:github.com,2022-10-13:/lakenen/coffeemation</id>
-    <link href="https://github.com/lakenen/coffeemation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CoffeeScript port of Animation.js&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ko-yamamoto/yammer-checker</title>
-    <updated>2022-10-13T01:32:40Z</updated>
-    <id>tag:github.com,2022-10-13:/ko-yamamoto/yammer-checker</id>
-    <link href="https://github.com/ko-yamamoto/yammer-checker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yammer 更新確認 Chrome 拡張&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>martinstannard/casioletterpress</title>
-    <updated>2022-10-13T01:32:40Z</updated>
-    <id>tag:github.com,2022-10-13:/martinstannard/casioletterpress</id>
-    <link href="https://github.com/martinstannard/casioletterpress" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A mulitplayer word game written at Railscamp12&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JonBreizh/CSS_vertex</title>
+    <updated>2022-10-14T01:33:21Z</updated>
+    <id>tag:github.com,2022-10-14:/JonBreizh/CSS_vertex</id>
+    <link href="https://github.com/JonBreizh/CSS_vertex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tryout at the experimental custom() property&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

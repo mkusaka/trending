@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:37:42Z</updated>
+  <updated>2022-10-14T01:38:31Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hotneim/ban400-lectures</title>
-    <updated>2022-10-13T01:37:42Z</updated>
-    <id>tag:github.com,2022-10-13:/hotneim/ban400-lectures</id>
-    <link href="https://github.com/hotneim/ban400-lectures" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for the material connected to the git/github-session in ban400&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ban400-git&lt;/h1&gt; &#xA;&lt;p&gt;Repository for the material connected to the lectures and workshops in ban400.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jwokaty/packageTemplate</title>
-    <updated>2022-10-13T01:37:42Z</updated>
-    <id>tag:github.com,2022-10-13:/jwokaty/packageTemplate</id>
-    <link href="https://github.com/jwokaty/packageTemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template for creating R packages.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;packagetemplate&lt;/h1&gt; &#xA;&lt;!-- badges: start --&gt; &#xA;&lt;!-- badges: end --&gt; &#xA;&lt;p&gt;The goal of packagetemplate is to provide a template for R packages.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;You can install the development version of packagetemplate from &lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt; with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;install_github(&#34;packagetemplate&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Example&lt;/h2&gt; &#xA;&lt;p&gt;This is a basic example which shows how to use helloWorld:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(packagetemplate)&#xA;helloWorld()&#xA;#&amp;gt; [1] &#34;Hello, World&#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>CLAAUDIA-teaching/sci-sw-dev-2021</title>
+    <updated>2022-10-14T01:38:31Z</updated>
+    <id>tag:github.com,2022-10-14:/CLAAUDIA-teaching/sci-sw-dev-2021</id>
+    <link href="https://github.com/CLAAUDIA-teaching/sci-sw-dev-2021" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for projects in the PhD course Tools for Scientific Software Development and Data Science&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sci-sw-dev-2021&lt;/h1&gt; &#xA;&lt;p&gt;Repository for projects in the PhD course Tools for Scientific Software Development and Data Science&lt;/p&gt; &#xA;&lt;p&gt;Just a trick update to make things a little complicated.&lt;/p&gt;</summary>
   </entry>
 </feed>

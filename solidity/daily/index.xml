@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:38:48Z</updated>
+  <updated>2022-10-14T01:39:50Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ismailbangee/smart-contracts</title>
-    <updated>2022-10-13T01:38:48Z</updated>
-    <id>tag:github.com,2022-10-13:/ismailbangee/smart-contracts</id>
-    <link href="https://github.com/ismailbangee/smart-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository will help community to think about new use cases and create smart contracts for those use cases.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AmanGotchu/RandaoZKP</title>
-    <updated>2022-10-13T01:38:48Z</updated>
-    <id>tag:github.com,2022-10-13:/AmanGotchu/RandaoZKP</id>
-    <link href="https://github.com/AmanGotchu/RandaoZKP" rel="alternate"></link>
+    <title>0xSplits/splits-waterfall</title>
+    <updated>2022-10-14T01:39:50Z</updated>
+    <id>tag:github.com,2022-10-14:/0xSplits/splits-waterfall</id>
+    <link href="https://github.com/0xSplits/splits-waterfall" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FuelLabs/fuel-merkle-sol</title>
-    <updated>2022-10-13T01:38:48Z</updated>
-    <id>tag:github.com,2022-10-13:/FuelLabs/fuel-merkle-sol</id>
-    <link href="https://github.com/FuelLabs/fuel-merkle-sol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Solidity implementation of binary, sum, and sparse Merkle trees&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cygaar/ERC5643</title>
+    <updated>2022-10-14T01:39:50Z</updated>
+    <id>tag:github.com,2022-10-14:/cygaar/ERC5643</id>
+    <link href="https://github.com/cygaar/ERC5643" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Fankouzu/smart-contract</title>
+    <updated>2022-10-14T01:39:50Z</updated>
+    <id>tag:github.com,2022-10-14:/Fankouzu/smart-contract</id>
+    <link href="https://github.com/Fankouzu/smart-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;学习智能合约&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

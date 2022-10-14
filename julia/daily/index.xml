@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:35:13Z</updated>
+  <updated>2022-10-14T01:36:13Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaSmoothOptimizers/LinearOperators.jl</title>
-    <updated>2022-10-13T01:35:13Z</updated>
-    <id>tag:github.com,2022-10-13:/JuliaSmoothOptimizers/LinearOperators.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/LinearOperators.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Linear Operators for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>invenia/ExprTools.jl</title>
+    <updated>2022-10-14T01:36:13Z</updated>
+    <id>tag:github.com,2022-10-14:/invenia/ExprTools.jl</id>
+    <link href="https://github.com/invenia/ExprTools.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Light-weight expression manipulation tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaData/Tables.jl</title>
-    <updated>2022-10-13T01:35:13Z</updated>
-    <id>tag:github.com,2022-10-13:/JuliaData/Tables.jl</id>
-    <link href="https://github.com/JuliaData/Tables.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An interface for tables in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaRegistries/CompatHelper.jl</title>
+    <updated>2022-10-14T01:36:13Z</updated>
+    <id>tag:github.com,2022-10-14:/JuliaRegistries/CompatHelper.jl</id>
+    <link href="https://github.com/JuliaRegistries/CompatHelper.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically update the [compat] entries for your Julia package&#39;s dependencies&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CTUAvastLab/Mill.jl</title>
-    <updated>2022-10-13T01:35:13Z</updated>
-    <id>tag:github.com,2022-10-13:/CTUAvastLab/Mill.jl</id>
-    <link href="https://github.com/CTUAvastLab/Mill.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multiple Instance Learning Library is build on top of Flux.jl aimed to prototype flexible multi-instance learning models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>singularitti/Spglib.jl</title>
+    <updated>2022-10-14T01:36:13Z</updated>
+    <id>tag:github.com,2022-10-14:/singularitti/Spglib.jl</id>
+    <link href="https://github.com/singularitti/Spglib.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia wrapper for the spglib C-API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

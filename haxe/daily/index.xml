@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:34:12Z</updated>
+  <updated>2022-10-14T01:34:55Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pahaze/Mistful-Crimson-Morning</title>
-    <updated>2022-10-13T01:34:12Z</updated>
-    <id>tag:github.com,2022-10-13:/pahaze/Mistful-Crimson-Morning</id>
-    <link href="https://github.com/pahaze/Mistful-Crimson-Morning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for Mistful Crimson Morning&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;img src=&#34;https://raw.githubusercontent.com/pahaze/Mistful-Crimson-Morning/master/art/icon64.png&#34; align=&#34;center&#34;&gt; Friday Night Funkin&#39;: Mistful Crimson Morning&lt;/h1&gt; &#xA;&lt;p&gt;Mistful Crimson Morning is a Friday Night Funkin&#39; mod based on creepypastas revolving SpongeBob! This mod has been canned, but this project by a previous coder for it (me) aims to fix the issues the current v1 build (at the very least) has.&lt;/p&gt; &#xA;&lt;h2&gt;Pull Requests and Issues&lt;/h2&gt; &#xA;&lt;p&gt;These are open! If you want to contribute, go ahead! Please make sure if your PR is incomplete that you use a template, however.&lt;/p&gt; &#xA;&lt;h2&gt;Psych README&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/pahaze/Mistful-Crimson-Morning/master/OGREADME.md&#34;&gt;Check here&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:37:57Z</updated>
+  <updated>2022-10-14T01:38:48Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>raphamorim/rio</title>
-    <updated>2022-10-13T01:37:57Z</updated>
-    <id>tag:github.com,2022-10-13:/raphamorim/rio</id>
-    <link href="https://github.com/raphamorim/rio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WGPU based terminal - built with Rust and Tokio&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LGUG2Z/komorebi</title>
+    <updated>2022-10-14T01:38:48Z</updated>
+    <id>tag:github.com,2022-10-14:/LGUG2Z/komorebi</id>
+    <link href="https://github.com/LGUG2Z/komorebi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiling window manager for Windows&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rust-lang/rust-bindgen</title>
-    <updated>2022-10-13T01:37:57Z</updated>
-    <id>tag:github.com,2022-10-13:/rust-lang/rust-bindgen</id>
-    <link href="https://github.com/rust-lang/rust-bindgen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automatically generates Rust FFI bindings to C (and some C++) libraries.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rp-rs/rp-hal</title>
+    <updated>2022-10-14T01:38:48Z</updated>
+    <id>tag:github.com,2022-10-14:/rp-rs/rp-hal</id>
+    <link href="https://github.com/rp-rs/rp-hal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Rust Embedded-HAL for the rp series microcontrollers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

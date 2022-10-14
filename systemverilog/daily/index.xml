@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:39:21Z</updated>
+  <updated>2022-10-14T01:40:21Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OPAE/ofs-platform-afu-bbb</title>
-    <updated>2022-10-13T01:39:21Z</updated>
-    <id>tag:github.com,2022-10-13:/OPAE/ofs-platform-afu-bbb</id>
-    <link href="https://github.com/OPAE/ofs-platform-afu-bbb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fpgasystems/Coyote-CIRCT</title>
-    <updated>2022-10-13T01:39:21Z</updated>
-    <id>tag:github.com,2022-10-13:/fpgasystems/Coyote-CIRCT</id>
-    <link href="https://github.com/fpgasystems/Coyote-CIRCT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deploy CIRCT generated circuits with a streaming abstraction (circt-stream) effortlessly through Coyote.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:33:44Z</updated>
+  <updated>2022-10-14T01:34:24Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>UppASD/UppASD</title>
+    <updated>2022-10-14T01:34:24Z</updated>
+    <id>tag:github.com,2022-10-14:/UppASD/UppASD</id>
+    <link href="https://github.com/UppASD/UppASD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The UppASD package is a simulation tool for atomistic spin dynamics and Monte Carlo simulations of Heisenberg spin systems.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-13T01:40:12Z</updated>
+  <updated>2022-10-14T01:40:52Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>go-admin-team/go-admin-ui</title>
+    <updated>2022-10-14T01:40:52Z</updated>
+    <id>tag:github.com,2022-10-14:/go-admin-team/go-admin-ui</id>
+    <link href="https://github.com/go-admin-team/go-admin-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Gin + Vue + Element UI的前后端分离权限管理系统的前端模块&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
