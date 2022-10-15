@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-14T01:40:50Z</updated>
+  <updated>2022-10-15T01:42:27Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jiaokai/.vim</title>
-    <updated>2022-10-14T01:40:50Z</updated>
-    <id>tag:github.com,2022-10-14:/jiaokai/.vim</id>
-    <link href="https://github.com/jiaokai/.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my vim proflie&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>francoiscabrol/ranger.vim</title>
+    <updated>2022-10-15T01:42:27Z</updated>
+    <id>tag:github.com,2022-10-15:/francoiscabrol/ranger.vim</id>
+    <link href="https://github.com/francoiscabrol/ranger.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ranger integration in vim and neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KuanHsiaoKuo/apple_power_user</title>
-    <updated>2022-10-14T01:40:50Z</updated>
-    <id>tag:github.com,2022-10-14:/KuanHsiaoKuo/apple_power_user</id>
-    <link href="https://github.com/KuanHsiaoKuo/apple_power_user" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;整理记录macOS/iOS的使用经验&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rbgrouleff/bclose.vim</title>
+    <updated>2022-10-15T01:42:27Z</updated>
+    <id>tag:github.com,2022-10-15:/rbgrouleff/bclose.vim</id>
+    <link href="https://github.com/rbgrouleff/bclose.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The BClose Vim plugin for deleting a buffer without closing the window&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tpope/vim-sleuth</title>
-    <updated>2022-10-14T01:40:50Z</updated>
-    <id>tag:github.com,2022-10-14:/tpope/vim-sleuth</id>
-    <link href="https://github.com/tpope/vim-sleuth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;sleuth.vim: Heuristically set buffer options&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>madetech/configs</title>
+    <updated>2022-10-15T01:42:27Z</updated>
+    <id>tag:github.com,2022-10-15:/madetech/configs</id>
+    <link href="https://github.com/madetech/configs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sensible defaults for things like VIM and TMUX&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

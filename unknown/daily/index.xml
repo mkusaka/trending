@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-14T01:31:58Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-10-15T01:34:27Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>justjavac/awesome-wechat-weapp</title>
-    <updated>2022-10-14T01:31:58Z</updated>
-    <id>tag:github.com,2022-10-14:/justjavac/awesome-wechat-weapp</id>
-    <link href="https://github.com/justjavac/awesome-wechat-weapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;微信小程序开发资源汇总 💯&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>awesome-devblog/awesome-devblog</title>
+    <updated>2022-10-15T01:34:27Z</updated>
+    <id>tag:github.com,2022-10-15:/awesome-devblog/awesome-devblog</id>
+    <link href="https://github.com/awesome-devblog/awesome-devblog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hua1995116/awesome-ai-painting</title>
-    <updated>2022-10-14T01:31:58Z</updated>
-    <id>tag:github.com,2022-10-14:/hua1995116/awesome-ai-painting</id>
-    <link href="https://github.com/hua1995116/awesome-ai-painting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shreyaschavhan/oscp-pre-preparation-plan-and-notes</title>
+    <updated>2022-10-15T01:34:27Z</updated>
+    <id>tag:github.com,2022-10-15:/shreyaschavhan/oscp-pre-preparation-plan-and-notes</id>
+    <link href="https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My OSCP Pre-Preparation Phase. I&#39;m not sure if I&#39;ll be able to afford the exam but what count&#39;s trying and learning things. I&#39;m gonna give it a try. [Start Date: 21st March 2022]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Salusec/EfficientAudit</title>
-    <updated>2022-10-14T01:31:58Z</updated>
-    <id>tag:github.com,2022-10-14:/Salusec/EfficientAudit</id>
-    <link href="https://github.com/Salusec/EfficientAudit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;About how you should cooperate with the audit company to complete project audit with high quality and efficiency.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sebaxakerhtc/rdpwrap.ini</title>
+    <updated>2022-10-15T01:34:27Z</updated>
+    <id>tag:github.com,2022-10-15:/sebaxakerhtc/rdpwrap.ini</id>
+    <link href="https://github.com/sebaxakerhtc/rdpwrap.ini" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RDPWrap.ini for RDP Wrapper Library by Stas&#39;M&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

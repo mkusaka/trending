@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-14T01:38:07Z</updated>
+  <updated>2022-10-15T01:40:08Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Joey9801/DorMouse</title>
-    <updated>2022-10-14T01:38:07Z</updated>
-    <id>tag:github.com,2022-10-14:/Joey9801/DorMouse</id>
-    <link href="https://github.com/Joey9801/DorMouse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dormouse Flight computer for low-medium height model rockets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imchipwood/dumbpad</title>
+    <updated>2022-10-15T01:40:08Z</updated>
+    <id>tag:github.com,2022-10-15:/imchipwood/dumbpad</id>
+    <link href="https://github.com/imchipwood/dumbpad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple 4x4 numpad with rotary encoder. Powered by QMK via ATmega32u4 Pro Micro&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

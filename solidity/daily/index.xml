@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-14T01:39:50Z</updated>
+  <updated>2022-10-15T01:41:31Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xSplits/splits-waterfall</title>
-    <updated>2022-10-14T01:39:50Z</updated>
-    <id>tag:github.com,2022-10-14:/0xSplits/splits-waterfall</id>
-    <link href="https://github.com/0xSplits/splits-waterfall" rel="alternate"></link>
+    <title>neal-zhu/batcher</title>
+    <updated>2022-10-15T01:41:31Z</updated>
+    <id>tag:github.com,2022-10-15:/neal-zhu/batcher</id>
+    <link href="https://github.com/neal-zhu/batcher" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cygaar/ERC5643</title>
-    <updated>2022-10-14T01:39:50Z</updated>
-    <id>tag:github.com,2022-10-14:/cygaar/ERC5643</id>
-    <link href="https://github.com/cygaar/ERC5643" rel="alternate"></link>
+    <title>iotexproject/pebble-data-container</title>
+    <updated>2022-10-15T01:41:31Z</updated>
+    <id>tag:github.com,2022-10-15:/iotexproject/pebble-data-container</id>
+    <link href="https://github.com/iotexproject/pebble-data-container" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Fankouzu/smart-contract</title>
-    <updated>2022-10-14T01:39:50Z</updated>
-    <id>tag:github.com,2022-10-14:/Fankouzu/smart-contract</id>
-    <link href="https://github.com/Fankouzu/smart-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;学习智能合约&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>whitenois3/ctf</title>
+    <updated>2022-10-15T01:41:31Z</updated>
+    <id>tag:github.com,2022-10-15:/whitenois3/ctf</id>
+    <link href="https://github.com/whitenois3/ctf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Whitenoise CTF I: Doves in the Wind&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

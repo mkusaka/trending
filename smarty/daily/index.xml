@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-14T01:39:47Z</updated>
+  <updated>2022-10-15T01:41:27Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hmcts/hmcts-charts</title>
-    <updated>2022-10-14T01:39:47Z</updated>
-    <id>tag:github.com,2022-10-14:/hmcts/hmcts-charts</id>
-    <link href="https://github.com/hmcts/hmcts-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;repository to hold all the hmcts charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>giantswarm/cluster-aws</title>
-    <updated>2022-10-14T01:39:47Z</updated>
-    <id>tag:github.com,2022-10-14:/giantswarm/cluster-aws</id>
-    <link href="https://github.com/giantswarm/cluster-aws" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

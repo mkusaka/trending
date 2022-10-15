@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-14T01:34:55Z</updated>
+  <updated>2022-10-15T01:37:19Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Erizur/FNF-DaveEngine</title>
+    <updated>2022-10-15T01:37:19Z</updated>
+    <id>tag:github.com,2022-10-15:/Erizur/FNF-DaveEngine</id>
+    <link href="https://github.com/Erizur/FNF-DaveEngine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Friday Night Funkin&#39; Engine made for the Vs. Dave mod, with additional improvements to make your own mod!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WARNING&lt;/h1&gt; &#xA;&lt;p&gt;THE ENGINE IS AT A VERY UNSTABLE STATE AT THE MOMENT, IT HAS NO MODDING SUPPORT AT THE MOMENT, BUT IT WILL GET ADDED SOON. IF YOU WANNA MAKE A MOD AT THE MOMENT, YOU WILL HAVE TO MODIFY THE SOURCE CODE.&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/Erizur/FNF-DaveEngine/main/KadeEngineWitBackground.png&#34; width=&#34;600&#34; height=&#34;400&#34;&gt; &#xA;&lt;h1&gt;DAVE ENGINE&lt;/h1&gt; &#xA;&lt;p&gt;this is dave&lt;/p&gt; &#xA;&lt;img src=&#34;https://cdn.discordapp.com/attachments/892140166309892136/905267141299802152/dorve_reale.png&#34; width=&#34;211&#34; height=&#34;373&#34;&gt; &#xA;&lt;p&gt;say hi to dave please say hi to him&lt;/p&gt; &#xA;&lt;h2&gt;About the engine&lt;/h2&gt; &#xA;&lt;p&gt;Powered by a heavily modified version of Kade Engine, This includes lots of additional improvements such as&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;OpenGL Shaders&lt;/li&gt; &#xA; &lt;li&gt;Character Selector&lt;/li&gt; &#xA; &lt;li&gt;Languages&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/benjaminpants/Funkin-Strawberry&#34;&gt;Strawberry Input&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If you&#39;re looking to compile the mod/make your own modification, &lt;a href=&#34;https://raw.githubusercontent.com/Erizur/FNF-DaveEngine/main/Modding.md&#34;&gt;look here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

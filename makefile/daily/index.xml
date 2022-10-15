@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-14T01:36:53Z</updated>
+  <updated>2022-10-15T01:38:56Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jeszy75/pandoc-markdown-examples</title>
-    <updated>2022-10-14T01:36:53Z</updated>
-    <id>tag:github.com,2022-10-14:/jeszy75/pandoc-markdown-examples</id>
-    <link href="https://github.com/jeszy75/pandoc-markdown-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>droy312/hacktoberfest_2022_flutter_opensource_project</title>
+    <updated>2022-10-15T01:38:56Z</updated>
+    <id>tag:github.com,2022-10-15:/droy312/hacktoberfest_2022_flutter_opensource_project</id>
+    <link href="https://github.com/droy312/hacktoberfest_2022_flutter_opensource_project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an opensource project for flutter enthusiast who want to contribute to open source projects in this hacktoberfest 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>giantswarm/cloud-director-app-collection</title>
-    <updated>2022-10-14T01:36:53Z</updated>
-    <id>tag:github.com,2022-10-14:/giantswarm/cloud-director-app-collection</id>
-    <link href="https://github.com/giantswarm/cloud-director-app-collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kokoscript/PeterAlert</title>
+    <updated>2022-10-15T01:38:56Z</updated>
+    <id>tag:github.com,2022-10-15:/kokoscript/PeterAlert</id>
+    <link href="https://github.com/kokoscript/PeterAlert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nyeheheheheh look lois im in the computah&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

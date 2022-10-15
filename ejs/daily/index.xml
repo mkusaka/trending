@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-14T01:34:06Z</updated>
+  <updated>2022-10-15T01:36:31Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AasPaas-5/AasPaas-Alpha</title>
-    <updated>2022-10-14T01:34:06Z</updated>
-    <id>tag:github.com,2022-10-14:/AasPaas-5/AasPaas-Alpha</id>
-    <link href="https://github.com/AasPaas-5/AasPaas-Alpha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ravi-singh-100/HacktoberFest2022</title>
+    <updated>2022-10-15T01:36:31Z</updated>
+    <id>tag:github.com,2022-10-15:/ravi-singh-100/HacktoberFest2022</id>
+    <link href="https://github.com/ravi-singh-100/HacktoberFest2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an open source repo for Web Developer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
