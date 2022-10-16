@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:46:08Z</updated>
+  <subtitle>Weekly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dbt-labs/dbt-external-tables</title>
+    <updated>2022-10-16T01:46:08Z</updated>
+    <id>tag:github.com,2022-10-16:/dbt-labs/dbt-external-tables</id>
+    <link href="https://github.com/dbt-labs/dbt-external-tables" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dbt macros to stage external sources&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FlipsideCrypto/axelar-models</title>
+    <updated>2022-10-16T01:46:08Z</updated>
+    <id>tag:github.com,2022-10-16:/FlipsideCrypto/axelar-models</id>
+    <link href="https://github.com/FlipsideCrypto/axelar-models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

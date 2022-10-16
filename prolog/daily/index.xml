@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:40:08Z</updated>
+  <updated>2022-10-16T01:37:25Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>imchipwood/dumbpad</title>
-    <updated>2022-10-15T01:40:08Z</updated>
-    <id>tag:github.com,2022-10-15:/imchipwood/dumbpad</id>
-    <link href="https://github.com/imchipwood/dumbpad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple 4x4 numpad with rotary encoder. Powered by QMK via ATmega32u4 Pro Micro&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kunalagrawal42/dhd-represent-</title>
+    <updated>2022-10-16T01:37:25Z</updated>
+    <id>tag:github.com,2022-10-16:/kunalagrawal42/dhd-represent-</id>
+    <link href="https://github.com/kunalagrawal42/dhd-represent-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

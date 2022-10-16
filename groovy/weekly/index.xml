@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:42:54Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/fetchngs</title>
+    <updated>2022-10-16T01:42:54Z</updated>
+    <id>tag:github.com,2022-10-16:/nf-core/fetchngs</id>
+    <link href="https://github.com/nf-core/fetchngs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pipeline to fetch metadata and raw FastQ files from public and private databases&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spinnaker/orca</title>
+    <updated>2022-10-16T01:42:54Z</updated>
+    <id>tag:github.com,2022-10-16:/spinnaker/orca</id>
+    <link href="https://github.com/spinnaker/orca" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Orchestration engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>palantir/gradle-docker</title>
+    <updated>2022-10-16T01:42:54Z</updated>
+    <id>tag:github.com,2022-10-16:/palantir/gradle-docker</id>
+    <link href="https://github.com/palantir/gradle-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Gradle plugin for orchestrating docker builds and pushes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

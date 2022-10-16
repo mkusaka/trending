@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:46:53Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>massalabs/massa</title>
+    <updated>2022-10-16T01:46:53Z</updated>
+    <id>tag:github.com,2022-10-16:/massalabs/massa</id>
+    <link href="https://github.com/massalabs/massa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Decentralized and Scaled Blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FyroxEngine/Fyrox</title>
+    <updated>2022-10-16T01:46:53Z</updated>
+    <id>tag:github.com,2022-10-16:/FyroxEngine/Fyrox</id>
+    <link href="https://github.com/FyroxEngine/Fyrox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3D and 2D game engine written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>graphprotocol/graph-node</title>
+    <updated>2022-10-16T01:46:53Z</updated>
+    <id>tag:github.com,2022-10-16:/graphprotocol/graph-node</id>
+    <link href="https://github.com/graphprotocol/graph-node" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

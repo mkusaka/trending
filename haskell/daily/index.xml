@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:37:21Z</updated>
+  <updated>2022-10-16T01:34:40Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Bodigrim/data-array-byte</title>
-    <updated>2022-10-15T01:37:21Z</updated>
-    <id>tag:github.com,2022-10-15:/Bodigrim/data-array-byte</id>
-    <link href="https://github.com/Bodigrim/data-array-byte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compatibility layer for Data.Array.Byte from base&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;data-array-byte&lt;/h1&gt; &#xA;&lt;p&gt;Compatibility layer for &lt;a href=&#34;https://hackage.haskell.org/package/base/docs/Data-Array-Byte.html&#34;&gt;&lt;code&gt;Data.Array.Byte&lt;/code&gt;&lt;/a&gt;, providing boxed wrappers for &lt;a href=&#34;https://hackage.haskell.org/package/base/docs/GHC-Exts.html#t:ByteArray-35-&#34;&gt;&lt;code&gt;ByteArray#&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;https://hackage.haskell.org/package/base/docs/GHC-Exts.html#t:MutableByteArray-35-&#34;&gt;&lt;code&gt;MutableByteArray#&lt;/code&gt;&lt;/a&gt; and relevant instances for GHC &amp;lt; 9.4. Include it into your Cabal file:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-cabal&#34;&gt;build-depends: base&#xA;if impl(ghc &amp;lt; 9.4)&#xA;  build-depends: data-array-byte&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and then &lt;code&gt;import Data.Array.Byte&lt;/code&gt; unconditionally.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:35:42Z</updated>
+  <updated>2022-10-16T01:32:46Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>madetech/mld_clojure</title>
-    <updated>2022-10-15T01:35:42Z</updated>
-    <id>tag:github.com,2022-10-15:/madetech/mld_clojure</id>
-    <link href="https://github.com/madetech/mld_clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Made Learning Day Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>madetech/https-www-redirector</title>
-    <updated>2022-10-15T01:35:42Z</updated>
-    <id>tag:github.com,2022-10-15:/madetech/https-www-redirector</id>
-    <link href="https://github.com/madetech/https-www-redirector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

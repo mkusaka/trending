@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:40:33Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rockholla/net-readalonglibrary</title>
+    <updated>2022-10-16T01:40:33Z</updated>
+    <id>tag:github.com,2022-10-16:/rockholla/net-readalonglibrary</id>
+    <link href="https://github.com/rockholla/net-readalonglibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An AIR application for Read-Along style books&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Seitei/Battleplan</title>
+    <updated>2022-10-16T01:40:33Z</updated>
+    <id>tag:github.com,2022-10-16:/Seitei/Battleplan</id>
+    <link href="https://github.com/Seitei/Battleplan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Not sure what to type here.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

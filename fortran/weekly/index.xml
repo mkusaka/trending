@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fortran Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:42:31Z</updated>
+  <subtitle>Weekly Trending of Fortran in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MPAS-Dev/MPAS-Model</title>
+    <updated>2022-10-16T01:42:31Z</updated>
+    <id>tag:github.com,2022-10-16:/MPAS-Dev/MPAS-Model</id>
+    <link href="https://github.com/MPAS-Dev/MPAS-Model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for MPAS models and shared framework releases.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aerosol-modelling/Book-Code</title>
+    <updated>2022-10-16T01:42:31Z</updated>
+    <id>tag:github.com,2022-10-16:/aerosol-modelling/Book-Code</id>
+    <link href="https://github.com/aerosol-modelling/Book-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code of exercises and content of the associated printed book&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MITgcm/MITgcm</title>
+    <updated>2022-10-16T01:42:31Z</updated>
+    <id>tag:github.com,2022-10-16:/MITgcm/MITgcm</id>
+    <link href="https://github.com/MITgcm/MITgcm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;M.I.T General Circulation Model master code and documentation repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

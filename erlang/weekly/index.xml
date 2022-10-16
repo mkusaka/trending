@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:42:26Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seriyps/mtproto_proxy</title>
+    <updated>2022-10-16T01:42:26Z</updated>
+    <id>tag:github.com,2022-10-16:/seriyps/mtproto_proxy</id>
+    <link href="https://github.com/seriyps/mtproto_proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High performance Erlang MTProto proxy that powers https://t.me/socksy_bot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>potatosalad/erlang-jose</title>
+    <updated>2022-10-16T01:42:26Z</updated>
+    <id>tag:github.com,2022-10-16:/potatosalad/erlang-jose</id>
+    <link href="https://github.com/potatosalad/erlang-jose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON Object Signing and Encryption (JOSE) for Erlang and Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>inaka/cowboy_swagger</title>
+    <updated>2022-10-16T01:42:26Z</updated>
+    <id>tag:github.com,2022-10-16:/inaka/cowboy_swagger</id>
+    <link href="https://github.com/inaka/cowboy_swagger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Swagger integration for Cowboy (built on trails)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

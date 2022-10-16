@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:35:46Z</updated>
+  <updated>2022-10-16T01:32:50Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lmaccherone/node-localstorage</title>
-    <updated>2022-10-15T01:35:46Z</updated>
-    <id>tag:github.com,2022-10-15:/lmaccherone/node-localstorage</id>
-    <link href="https://github.com/lmaccherone/node-localstorage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A drop-in substitute for the browser native localStorage API that runs on node.js.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>madetech/made-studio-hubot</title>
-    <updated>2022-10-15T01:35:46Z</updated>
-    <id>tag:github.com,2022-10-15:/madetech/made-studio-hubot</id>
-    <link href="https://github.com/madetech/made-studio-hubot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Our office Hubot (http://hubot.github.com/) config&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maxwells/bootstrap-tags</title>
-    <updated>2022-10-15T01:35:46Z</updated>
-    <id>tag:github.com,2022-10-15:/maxwells/bootstrap-tags</id>
-    <link href="https://github.com/maxwells/bootstrap-tags" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bootstrap-themed jquery tag interface&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>q3boy/justlog</title>
+    <updated>2022-10-16T01:32:50Z</updated>
+    <id>tag:github.com,2022-10-16:/q3boy/justlog</id>
+    <link href="https://github.com/q3boy/justlog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;justlog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:42:29Z</updated>
+  <updated>2022-10-16T01:40:01Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zernonia/keypress</title>
-    <updated>2022-10-15T01:42:29Z</updated>
-    <id>tag:github.com,2022-10-15:/zernonia/keypress</id>
-    <link href="https://github.com/zernonia/keypress" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KeyPress - an open-source blogging platform + free custom domains.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Geriano/laravel-inertia-vite-template</title>
+    <updated>2022-10-16T01:40:01Z</updated>
+    <id>tag:github.com,2022-10-16:/Geriano/laravel-inertia-vite-template</id>
+    <link href="https://github.com/Geriano/laravel-inertia-vite-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel starter template with inertiajs and vue vite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>crmeb/CRMEB</title>
+    <updated>2022-10-16T01:40:01Z</updated>
+    <id>tag:github.com,2022-10-16:/crmeb/CRMEB</id>
+    <link href="https://github.com/crmeb/CRMEB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nextcloud/nextcloud-vue</title>
+    <updated>2022-10-16T01:40:01Z</updated>
+    <id>tag:github.com,2022-10-16:/nextcloud/nextcloud-vue</id>
+    <link href="https://github.com/nextcloud/nextcloud-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍱 Vue.js components for Nextcloud app development ✌&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

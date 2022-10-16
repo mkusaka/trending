@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Processing Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:46:16Z</updated>
+  <subtitle>Weekly Trending of Processing in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gromain/ArduFocuser</title>
+    <updated>2022-10-16T01:46:16Z</updated>
+    <id>tag:github.com,2022-10-16:/gromain/ArduFocuser</id>
+    <link href="https://github.com/gromain/ArduFocuser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Arduino attempt to a focuser control system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

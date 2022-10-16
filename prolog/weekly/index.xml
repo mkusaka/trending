@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Prolog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:46:17Z</updated>
+  <subtitle>Weekly Trending of Prolog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Joey9801/DorMouse</title>
+    <updated>2022-10-16T01:46:17Z</updated>
+    <id>tag:github.com,2022-10-16:/Joey9801/DorMouse</id>
+    <link href="https://github.com/Joey9801/DorMouse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dormouse Flight computer for low-medium height model rockets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

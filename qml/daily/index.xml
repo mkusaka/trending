@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:40:28Z</updated>
+  <updated>2022-10-16T01:37:46Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ShowFL/Toou-2D</title>
+    <updated>2022-10-16T01:37:46Z</updated>
+    <id>tag:github.com,2022-10-16:/ShowFL/Toou-2D</id>
+    <link href="https://github.com/ShowFL/Toou-2D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Qt Quick(Qml) 跨平台技术打造的2D框架&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

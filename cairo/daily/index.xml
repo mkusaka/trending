@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:35:38Z</updated>
+  <updated>2022-10-16T01:32:41Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zerosync/zerosync</title>
+    <updated>2022-10-16T01:32:41Z</updated>
+    <id>tag:github.com,2022-10-16:/zerosync/zerosync</id>
+    <link href="https://github.com/zerosync/zerosync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A STARK proof to sync a Bitcoin full node in an instant.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

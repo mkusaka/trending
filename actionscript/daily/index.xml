@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:34:48Z</updated>
+  <updated>2022-10-16T01:31:46Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>madetech/porkys-duck-hunt</title>
-    <updated>2022-10-15T01:34:48Z</updated>
-    <id>tag:github.com,2022-10-15:/madetech/porkys-duck-hunt</id>
-    <link href="https://github.com/madetech/porkys-duck-hunt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(Porky&#39;s) Duck Hunt hackday game&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:36:46Z</updated>
+  <updated>2022-10-16T01:34:05Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CompositionalIT/htmx-demo</title>
+    <updated>2022-10-16T01:34:05Z</updated>
+    <id>tag:github.com,2022-10-16:/CompositionalIT/htmx-demo</id>
+    <link href="https://github.com/CompositionalIT/htmx-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;htmx-demo&lt;/h1&gt; &#xA;&lt;p&gt;A demo application using HTMX with an ASP .NET back-end using Saturn and Giraffe.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;dotnet tool restore&lt;/li&gt; &#xA; &lt;li&gt;dotnet run&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

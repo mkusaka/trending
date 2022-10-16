@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:41:07Z</updated>
+  <updated>2022-10-16T01:38:38Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>app-generator/sample-django-celery</title>
-    <updated>2022-10-15T01:41:07Z</updated>
-    <id>tag:github.com,2022-10-15:/app-generator/sample-django-celery</id>
-    <link href="https://github.com/app-generator/sample-django-celery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Django &amp; Celery Integration - Open-Source Sample | AppSeed.us&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sparanoid/almace-scaffolding</title>
-    <updated>2022-10-15T01:41:07Z</updated>
-    <id>tag:github.com,2022-10-15:/sparanoid/almace-scaffolding</id>
-    <link href="https://github.com/sparanoid/almace-scaffolding" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AMSF, a.k.a. Almace Scaffolding, a super-fast Jekyll framework fighting against the website obesity.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:46:18Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>josephmc5/puppet-minisub</title>
+    <updated>2022-10-16T01:46:18Z</updated>
+    <id>tag:github.com,2022-10-16:/josephmc5/puppet-minisub</id>
+    <link href="https://github.com/josephmc5/puppet-minisub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Install minisub subsonic HTML5 interface&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

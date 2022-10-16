@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:41:31Z</updated>
+  <updated>2022-10-16T01:39:03Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>neal-zhu/batcher</title>
-    <updated>2022-10-15T01:41:31Z</updated>
-    <id>tag:github.com,2022-10-15:/neal-zhu/batcher</id>
-    <link href="https://github.com/neal-zhu/batcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>raiden-network/raiden-contracts</title>
+    <updated>2022-10-16T01:39:03Z</updated>
+    <id>tag:github.com,2022-10-16:/raiden-network/raiden-contracts</id>
+    <link href="https://github.com/raiden-network/raiden-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Raiden Network Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iotexproject/pebble-data-container</title>
-    <updated>2022-10-15T01:41:31Z</updated>
-    <id>tag:github.com,2022-10-15:/iotexproject/pebble-data-container</id>
-    <link href="https://github.com/iotexproject/pebble-data-container" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>whitenois3/ctf</title>
-    <updated>2022-10-15T01:41:31Z</updated>
-    <id>tag:github.com,2022-10-15:/whitenois3/ctf</id>
-    <link href="https://github.com/whitenois3/ctf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Whitenoise CTF I: Doves in the Wind&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kalidao/keep</title>
+    <updated>2022-10-16T01:39:03Z</updated>
+    <id>tag:github.com,2022-10-16:/kalidao/keep</id>
+    <link href="https://github.com/kalidao/keep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tokenized multisig wallet.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

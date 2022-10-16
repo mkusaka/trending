@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown Languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:40:20Z</updated>
+  <subtitle>Weekly Trending of Unknown Languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xcad2k/cheat-sheets</title>
+    <updated>2022-10-16T01:40:20Z</updated>
+    <id>tag:github.com,2022-10-16:/xcad2k/cheat-sheets</id>
+    <link href="https://github.com/xcad2k/cheat-sheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is my personal knowledge-base. Here you&#39;ll find code-snippets, technical documentation, and command reference for various tools, and technologies.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>heejkoo/Awesome-Diffusion-Models</title>
+    <updated>2022-10-16T01:40:20Z</updated>
+    <id>tag:github.com,2022-10-16:/heejkoo/Awesome-Diffusion-Models</id>
+    <link href="https://github.com/heejkoo/Awesome-Diffusion-Models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of resources and papers on Diffusion Models&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shubhamgrg04/awesome-diagramming</title>
+    <updated>2022-10-16T01:40:20Z</updated>
+    <id>tag:github.com,2022-10-16:/shubhamgrg04/awesome-diagramming</id>
+    <link href="https://github.com/shubhamgrg04/awesome-diagramming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated collection of diagramming tools used by leading software engineering teams&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

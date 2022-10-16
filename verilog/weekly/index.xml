@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:48:40Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RapidSilicon/litex_reference_designs</title>
+    <updated>2022-10-16T01:48:40Z</updated>
+    <id>tag:github.com,2022-10-16:/RapidSilicon/litex_reference_designs</id>
+    <link href="https://github.com/RapidSilicon/litex_reference_designs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>efabless/caravel</title>
+    <updated>2022-10-16T01:48:40Z</updated>
+    <id>tag:github.com,2022-10-16:/efabless/caravel</id>
+    <link href="https://github.com/efabless/caravel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

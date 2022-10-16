@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Roff Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:46:50Z</updated>
+  <subtitle>Weekly Trending of Roff in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>phentz15/A-First-Book-of-C-Exercises-</title>
+    <updated>2022-10-16T01:46:50Z</updated>
+    <id>tag:github.com,2022-10-16:/phentz15/A-First-Book-of-C-Exercises-</id>
+    <link href="https://github.com/phentz15/A-First-Book-of-C-Exercises-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All work done in this book&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>knmnyn/aclanthology.info</title>
+    <updated>2022-10-16T01:46:50Z</updated>
+    <id>tag:github.com,2022-10-16:/knmnyn/aclanthology.info</id>
+    <link href="https://github.com/knmnyn/aclanthology.info" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The software that runs the current version of the ACL Anthology. It&#39;s architected as a Rails 3 application running Project Blacklight for faceted navigation and Solr as its search backend. This is the development version.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

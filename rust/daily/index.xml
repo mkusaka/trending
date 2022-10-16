@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:40:43Z</updated>
+  <updated>2022-10-16T01:38:15Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>smallnest/concurrency-programming-via-rust</title>
-    <updated>2022-10-15T01:40:43Z</updated>
-    <id>tag:github.com,2022-10-15:/smallnest/concurrency-programming-via-rust</id>
-    <link href="https://github.com/smallnest/concurrency-programming-via-rust" rel="alternate"></link>
+    <title>gbj/leptos</title>
+    <updated>2022-10-16T01:38:15Z</updated>
+    <id>tag:github.com,2022-10-16:/gbj/leptos</id>
+    <link href="https://github.com/gbj/leptos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OPENCYBER-FR/RustHound</title>
+    <updated>2022-10-16T01:38:15Z</updated>
+    <id>tag:github.com,2022-10-16:/OPENCYBER-FR/RustHound</id>
+    <link href="https://github.com/OPENCYBER-FR/RustHound" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Active Directory data collector for BloodHound written in rust. 🦀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>google/zerocopy</title>
+    <updated>2022-10-16T01:38:15Z</updated>
+    <id>tag:github.com,2022-10-16:/google/zerocopy</id>
+    <link href="https://github.com/google/zerocopy" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:34:27Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-10-16T01:31:26Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>awesome-devblog/awesome-devblog</title>
-    <updated>2022-10-15T01:34:27Z</updated>
-    <id>tag:github.com,2022-10-15:/awesome-devblog/awesome-devblog</id>
-    <link href="https://github.com/awesome-devblog/awesome-devblog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sw-yx/prompt-eng</title>
+    <updated>2022-10-16T01:31:26Z</updated>
+    <id>tag:github.com,2022-10-16:/sw-yx/prompt-eng</id>
+    <link href="https://github.com/sw-yx/prompt-eng" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;notes for prompt engineering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shreyaschavhan/oscp-pre-preparation-plan-and-notes</title>
-    <updated>2022-10-15T01:34:27Z</updated>
-    <id>tag:github.com,2022-10-15:/shreyaschavhan/oscp-pre-preparation-plan-and-notes</id>
-    <link href="https://github.com/shreyaschavhan/oscp-pre-preparation-plan-and-notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My OSCP Pre-Preparation Phase. I&#39;m not sure if I&#39;ll be able to afford the exam but what count&#39;s trying and learning things. I&#39;m gonna give it a try. [Start Date: 21st March 2022]&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vaib25vicky/awesome-mobile-security</title>
+    <updated>2022-10-16T01:31:26Z</updated>
+    <id>tag:github.com,2022-10-16:/vaib25vicky/awesome-mobile-security</id>
+    <link href="https://github.com/vaib25vicky/awesome-mobile-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I&#39;m just maintaining it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sebaxakerhtc/rdpwrap.ini</title>
-    <updated>2022-10-15T01:34:27Z</updated>
-    <id>tag:github.com,2022-10-15:/sebaxakerhtc/rdpwrap.ini</id>
-    <link href="https://github.com/sebaxakerhtc/rdpwrap.ini" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RDPWrap.ini for RDP Wrapper Library by Stas&#39;M&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iNeuronai/interview-question-data-science-</title>
+    <updated>2022-10-16T01:31:26Z</updated>
+    <id>tag:github.com,2022-10-16:/iNeuronai/interview-question-data-science-</id>
+    <link href="https://github.com/iNeuronai/interview-question-data-science-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:47:23Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mate-academy/layout_miami</title>
+    <updated>2022-10-16T01:47:23Z</updated>
+    <id>tag:github.com,2022-10-16:/mate-academy/layout_miami</id>
+    <link href="https://github.com/mate-academy/layout_miami" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>heysagnik/screenREC</title>
+    <updated>2022-10-16T01:47:23Z</updated>
+    <id>tag:github.com,2022-10-16:/heysagnik/screenREC</id>
+    <link href="https://github.com/heysagnik/screenREC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A really simple , ad-free &amp; minimal web based screen recorder 📹&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GriffinJohnston/uiball-loaders</title>
+    <updated>2022-10-16T01:47:23Z</updated>
+    <id>tag:github.com,2022-10-16:/GriffinJohnston/uiball-loaders</id>
+    <link href="https://github.com/GriffinJohnston/uiball-loaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern, tree-shakeable loaders &amp; spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-15T01:36:33Z</updated>
+  <updated>2022-10-16T01:33:36Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dbernheisel/seo</title>
-    <updated>2022-10-15T01:36:33Z</updated>
-    <id>tag:github.com,2022-10-15:/dbernheisel/seo</id>
-    <link href="https://github.com/dbernheisel/seo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SEO for Phoenix Apps&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mneudert/ecto_ip_range</title>
+    <updated>2022-10-16T01:33:36Z</updated>
+    <id>tag:github.com,2022-10-16:/mneudert/ecto_ip_range</id>
+    <link href="https://github.com/mneudert/ecto_ip_range" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ecto/Postgrex types to work with the PostgreSQL IP4R extension&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

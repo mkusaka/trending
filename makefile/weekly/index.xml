@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-16T01:45:02Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>frida/frida</title>
+    <updated>2022-10-16T01:45:02Z</updated>
+    <id>tag:github.com,2022-10-16:/frida/frida</id>
+    <link href="https://github.com/frida/frida" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone this repo to build Frida&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LibreELEC/LibreELEC.tv</title>
+    <updated>2022-10-16T01:45:02Z</updated>
+    <id>tag:github.com,2022-10-16:/LibreELEC/LibreELEC.tv</id>
+    <link href="https://github.com/LibreELEC/LibreELEC.tv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just enough OS for KODI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>moul/http2curl</title>
+    <updated>2022-10-16T01:45:02Z</updated>
+    <id>tag:github.com,2022-10-16:/moul/http2curl</id>
+    <link href="https://github.com/moul/http2curl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📐 Convert Golang&#39;s http.Request to CURL command line&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
