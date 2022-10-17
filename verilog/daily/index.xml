@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:39:55Z</updated>
+  <updated>2022-10-17T01:39:40Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RapidSilicon/litex_reference_designs</title>
-    <updated>2022-10-16T01:39:55Z</updated>
-    <id>tag:github.com,2022-10-16:/RapidSilicon/litex_reference_designs</id>
-    <link href="https://github.com/RapidSilicon/litex_reference_designs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darklife/darkriscv</title>
+    <updated>2022-10-17T01:39:40Z</updated>
+    <id>tag:github.com,2022-10-17:/darklife/darkriscv</id>
+    <link href="https://github.com/darklife/darkriscv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;opensouce RISC-V cpu core implemented in Verilog from scratch in one night!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

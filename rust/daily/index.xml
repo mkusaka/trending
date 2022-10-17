@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:38:15Z</updated>
+  <updated>2022-10-17T01:37:59Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gbj/leptos</title>
-    <updated>2022-10-16T01:38:15Z</updated>
-    <id>tag:github.com,2022-10-16:/gbj/leptos</id>
-    <link href="https://github.com/gbj/leptos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tw93/Pake</title>
+    <updated>2022-10-17T01:37:59Z</updated>
+    <id>tag:github.com,2022-10-17:/tw93/Pake</id>
+    <link href="https://github.com/tw93/Pake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤱🏻 很简单的用 Rust 来打包网页 Mac App&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OPENCYBER-FR/RustHound</title>
-    <updated>2022-10-16T01:38:15Z</updated>
-    <id>tag:github.com,2022-10-16:/OPENCYBER-FR/RustHound</id>
-    <link href="https://github.com/OPENCYBER-FR/RustHound" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Active Directory data collector for BloodHound written in rust. 🦀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>evmar/retrowin32</title>
+    <updated>2022-10-17T01:37:59Z</updated>
+    <id>tag:github.com,2022-10-17:/evmar/retrowin32</id>
+    <link href="https://github.com/evmar/retrowin32" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;windows emulator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>google/zerocopy</title>
-    <updated>2022-10-16T01:38:15Z</updated>
-    <id>tag:github.com,2022-10-16:/google/zerocopy</id>
-    <link href="https://github.com/google/zerocopy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>signalapp/libsignal</title>
+    <updated>2022-10-17T01:37:59Z</updated>
+    <id>tag:github.com,2022-10-17:/signalapp/libsignal</id>
+    <link href="https://github.com/signalapp/libsignal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:39:14Z</updated>
+  <updated>2022-10-17T01:38:59Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oregon-state-innovation-lab/cs561-swift</title>
+    <updated>2022-10-17T01:38:59Z</updated>
+    <id>tag:github.com,2022-10-17:/oregon-state-innovation-lab/cs561-swift</id>
+    <link href="https://github.com/oregon-state-innovation-lab/cs561-swift" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jan 3, 2022 - lecture on code coverage, unit tests, and dependency injection&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cs561-swift&lt;/h1&gt; &#xA;&lt;p&gt;Jan 3, 2022 - an example from a lecture on code coverage, unit tests, and dependency injection&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>sourcelocation/DebToIPA</title>
+    <updated>2022-10-17T01:38:59Z</updated>
+    <id>tag:github.com,2022-10-17:/sourcelocation/DebToIPA</id>
+    <link href="https://github.com/sourcelocation/DebToIPA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert .deb apps to .ipa files, on iOS, locally&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DebtoIPA&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/52459150/196053657-ac7aaa35-ff7d-4091-b4fb-e1536b59250f.png&#34; alt=&#34;Banner&#34;&gt; Convert .deb apps to .ipa files, on iOS, locally&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Download .deb that contains .app file. You will get an error if you try importing other files.&lt;/li&gt; &#xA; &lt;li&gt;Open Deb to IPA&lt;/li&gt; &#xA; &lt;li&gt;Tap on import&lt;/li&gt; &#xA; &lt;li&gt;Select .deb&lt;/li&gt; &#xA; &lt;li&gt;Wait&lt;/li&gt; &#xA; &lt;li&gt;Open in TrollStore (captured on simulator, so TrollStore isn&#39;t installed)&lt;/li&gt; &#xA; &lt;li&gt;⭐️ this project if you find it usefull :)&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/52459150/195981437-a85d3aca-6c03-43ea-a569-9c7d6116b7ab.png&#34; width=&#34;275&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/52459150/195981441-5b78803e-3a65-43c1-afb2-4ea133427fdd.png&#34; width=&#34;275&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/52459150/195981443-fe487d39-2743-47e8-bcc2-6d7b9aa96bfd.png&#34; width=&#34;275&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/52459150/195981447-81b30948-2997-4bcf-899f-002b698ecdcc.png&#34; width=&#34;275&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;My Discord server &lt;a href=&#34;https://discord.com/invite/VyVcNjRMeg&#34;&gt;https://discord.com/invite/VyVcNjRMeg&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

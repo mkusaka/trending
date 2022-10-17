@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:34:04Z</updated>
+  <updated>2022-10-17T01:34:04Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spawnfest/erlyorm</title>
+    <updated>2022-10-17T01:34:04Z</updated>
+    <id>tag:github.com,2022-10-17:/spawnfest/erlyorm</id>
+    <link href="https://github.com/spawnfest/erlyorm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spawnfest/dtu</title>
+    <updated>2022-10-17T01:34:04Z</updated>
+    <id>tag:github.com,2022-10-17:/spawnfest/dtu</id>
+    <link href="https://github.com/spawnfest/dtu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

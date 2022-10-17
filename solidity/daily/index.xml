@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:39:03Z</updated>
+  <updated>2022-10-17T01:38:46Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>raiden-network/raiden-contracts</title>
-    <updated>2022-10-16T01:39:03Z</updated>
-    <id>tag:github.com,2022-10-16:/raiden-network/raiden-contracts</id>
-    <link href="https://github.com/raiden-network/raiden-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Raiden Network Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2022-10-traderjoe</title>
+    <updated>2022-10-17T01:38:46Z</updated>
+    <id>tag:github.com,2022-10-17:/code-423n4/2022-10-traderjoe</id>
+    <link href="https://github.com/code-423n4/2022-10-traderjoe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kalidao/keep</title>
-    <updated>2022-10-16T01:39:03Z</updated>
-    <id>tag:github.com,2022-10-16:/kalidao/keep</id>
-    <link href="https://github.com/kalidao/keep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tokenized multisig wallet.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ziyadedher/evm-bench</title>
+    <updated>2022-10-17T01:38:46Z</updated>
+    <id>tag:github.com,2022-10-17:/ziyadedher/evm-bench</id>
+    <link href="https://github.com/ziyadedher/evm-bench" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀🪑 evm-bench is a suite of Ethereum Virtual Machine stress tests and benchmarks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZeframLou/bunni</title>
+    <updated>2022-10-17T01:38:46Z</updated>
+    <id>tag:github.com,2022-10-17:/ZeframLou/bunni</id>
+    <link href="https://github.com/ZeframLou/bunni" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERC-20 LP tokens for Uniswap V3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

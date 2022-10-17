@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:39:11Z</updated>
+  <updated>2022-10-17T01:38:59Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jesperorb/intl-explorer</title>
-    <updated>2022-10-16T01:39:11Z</updated>
-    <id>tag:github.com,2022-10-16:/jesperorb/intl-explorer</id>
-    <link href="https://github.com/jesperorb/intl-explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Intl Explorer is a tool for experimenting and trying out the ECMAScript Internationalization API.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>geoffrich/sveltekit-satori</title>
+    <updated>2022-10-17T01:38:59Z</updated>
+    <id>tag:github.com,2022-10-17:/geoffrich/sveltekit-satori</id>
+    <link href="https://github.com/geoffrich/sveltekit-satori" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dynamically generated social images from Svelte components&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>oslabs-beta/Sveste</title>
-    <updated>2022-10-16T01:39:11Z</updated>
-    <id>tag:github.com,2022-10-16:/oslabs-beta/Sveste</id>
-    <link href="https://github.com/oslabs-beta/Sveste" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A no code GUI for writing great unit tests for Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kevmodrome/kitbase</title>
+    <updated>2022-10-17T01:38:59Z</updated>
+    <id>tag:github.com,2022-10-17:/kevmodrome/kitbase</id>
+    <link href="https://github.com/kevmodrome/kitbase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KitBase is a starter template geared towards quickly spinning up projects using PocketBase and Stripe&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nickytonline/connect-four</title>
+    <updated>2022-10-17T01:38:59Z</updated>
+    <id>tag:github.com,2022-10-17:/nickytonline/connect-four</id>
+    <link href="https://github.com/nickytonline/connect-four" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web based version of the classic game Connect Four&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:36:12Z</updated>
+  <updated>2022-10-17T01:36:16Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>matsonj/nba-monte-carlo</title>
-    <updated>2022-10-16T01:36:12Z</updated>
-    <id>tag:github.com,2022-10-16:/matsonj/nba-monte-carlo</id>
-    <link href="https://github.com/matsonj/nba-monte-carlo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Monte Carlo simulation of the NBA season, leveraging meltano, dbt, duckdb and superset&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>napari/docs</title>
+    <updated>2022-10-17T01:36:16Z</updated>
+    <id>tag:github.com,2022-10-17:/napari/docs</id>
+    <link href="https://github.com/napari/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for napari (other than API docs)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Open-Science-Community-Saudi-Arabia/MOOCs</title>
-    <updated>2022-10-16T01:36:12Z</updated>
-    <id>tag:github.com,2022-10-16:/Open-Science-Community-Saudi-Arabia/MOOCs</id>
-    <link href="https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creating MOOCs for Open Education Resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jackpot51/hackinthebox</title>
+    <updated>2022-10-17T01:36:16Z</updated>
+    <id>tag:github.com,2022-10-17:/jackpot51/hackinthebox</id>
+    <link href="https://github.com/jackpot51/hackinthebox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GrapheneOS/platform_external_GmsCompatConfig</title>
+    <updated>2022-10-17T01:36:16Z</updated>
+    <id>tag:github.com,2022-10-17:/GrapheneOS/platform_external_GmsCompatConfig</id>
+    <link href="https://github.com/GrapheneOS/platform_external_GmsCompatConfig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Built from https://github.com/GrapheneOS/platform_packages_apps_GmsCompat/tree/13/config-holder&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:38:39Z</updated>
+  <updated>2022-10-17T01:38:22Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ogxd/wireframe-effect-unity</title>
-    <updated>2022-10-16T01:38:39Z</updated>
-    <id>tag:github.com,2022-10-16:/ogxd/wireframe-effect-unity</id>
-    <link href="https://github.com/ogxd/wireframe-effect-unity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A wireframe shader for Unity. Also works as an screen image effect&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

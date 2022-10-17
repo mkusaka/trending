@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:34:48Z</updated>
+  <updated>2022-10-17T01:34:43Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>simplestargame/SimpleURPToonLitOutlineExample</title>
-    <updated>2022-10-16T01:34:48Z</updated>
-    <id>tag:github.com,2022-10-16:/simplestargame/SimpleURPToonLitOutlineExample</id>
-    <link href="https://github.com/simplestargame/SimpleURPToonLitOutlineExample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SimpleURPToonLitOutlineExample&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

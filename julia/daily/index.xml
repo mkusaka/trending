@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:35:32Z</updated>
+  <updated>2022-10-17T01:35:32Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UW-ACL/SCPToolbox.jl</title>
-    <updated>2022-10-16T01:35:32Z</updated>
-    <id>tag:github.com,2022-10-16:/UW-ACL/SCPToolbox.jl</id>
-    <link href="https://github.com/UW-ACL/SCPToolbox.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sequential Convex Programming Toolbox for nonconvex trajectory optimization.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ashwani-rathee/ExifViewer.jl</title>
+    <updated>2022-10-17T01:35:32Z</updated>
+    <id>tag:github.com,2022-10-17:/ashwani-rathee/ExifViewer.jl</id>
+    <link href="https://github.com/ashwani-rathee/ExifViewer.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provides access to exif data in Julia. Wrapper over LibExif&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EnzymeAD/Enzyme.jl</title>
-    <updated>2022-10-16T01:35:32Z</updated>
-    <id>tag:github.com,2022-10-16:/EnzymeAD/Enzyme.jl</id>
-    <link href="https://github.com/EnzymeAD/Enzyme.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia bindings for the Enzyme automatic differentiator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jkrumbiegel/DataFrameMacros.jl</title>
+    <updated>2022-10-17T01:35:32Z</updated>
+    <id>tag:github.com,2022-10-17:/jkrumbiegel/DataFrameMacros.jl</id>
+    <link href="https://github.com/jkrumbiegel/DataFrameMacros.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Macros that simplify working with DataFrames.jl&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>exercism/julia</title>
-    <updated>2022-10-16T01:35:32Z</updated>
-    <id>tag:github.com,2022-10-16:/exercism/julia</id>
-    <link href="https://github.com/exercism/julia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercism exercises in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oscar-system/Oscar.jl</title>
+    <updated>2022-10-17T01:35:32Z</updated>
+    <id>tag:github.com,2022-10-17:/oscar-system/Oscar.jl</id>
+    <link href="https://github.com/oscar-system/Oscar.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

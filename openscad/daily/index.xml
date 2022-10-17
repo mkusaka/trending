@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenSCAD Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:36:47Z</updated>
+  <updated>2022-10-17T01:36:46Z</updated>
   <subtitle>Daily Trending of OpenSCAD in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Rhoban/sigmaban_urdf</title>
-    <updated>2022-10-16T01:36:47Z</updated>
-    <id>tag:github.com,2022-10-16:/Rhoban/sigmaban_urdf</id>
-    <link href="https://github.com/Rhoban/sigmaban_urdf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:32:46Z</updated>
+  <updated>2022-10-17T01:32:52Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oakes/odoyle-rules</title>
+    <updated>2022-10-17T01:32:52Z</updated>
+    <id>tag:github.com,2022-10-17:/oakes/odoyle-rules</id>
+    <link href="https://github.com/oakes/odoyle-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rules engine for Clojure(Script)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>borkdude/lein2deps</title>
+    <updated>2022-10-17T01:32:52Z</updated>
+    <id>tag:github.com,2022-10-17:/borkdude/lein2deps</id>
+    <link href="https://github.com/borkdude/lein2deps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lein to deps.edn converter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RoyalEagle73/Hacktoberfest-2022</title>
+    <updated>2022-10-17T01:32:52Z</updated>
+    <id>tag:github.com,2022-10-17:/RoyalEagle73/Hacktoberfest-2022</id>
+    <link href="https://github.com/RoyalEagle73/Hacktoberfest-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for hacktoberfest 2022.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:37:47Z</updated>
+  <updated>2022-10-17T01:37:44Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lemurproject/site-sampling</title>
-    <updated>2022-10-16T01:37:47Z</updated>
-    <id>tag:github.com,2022-10-16:/lemurproject/site-sampling</id>
-    <link href="https://github.com/lemurproject/site-sampling" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code to sample forums and check stats on pages and their information content&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:31:26Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-10-17T01:31:55Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sw-yx/prompt-eng</title>
-    <updated>2022-10-16T01:31:26Z</updated>
-    <id>tag:github.com,2022-10-16:/sw-yx/prompt-eng</id>
-    <link href="https://github.com/sw-yx/prompt-eng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;notes for prompt engineering&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itsnebulalol/deb-to-ipa</title>
+    <updated>2022-10-17T01:31:55Z</updated>
+    <id>tag:github.com,2022-10-17:/itsnebulalol/deb-to-ipa</id>
+    <link href="https://github.com/itsnebulalol/deb-to-ipa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;▶️ Convert an application from a deb to an IPA with a GitHub workflow.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vaib25vicky/awesome-mobile-security</title>
-    <updated>2022-10-16T01:31:26Z</updated>
-    <id>tag:github.com,2022-10-16:/vaib25vicky/awesome-mobile-security</id>
-    <link href="https://github.com/vaib25vicky/awesome-mobile-security" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An effort to build a single place for all useful android and iOS security related stuff. All references and tools belong to their respective owners. I&#39;m just maintaining it.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yeahhub/Hacking-Security-Ebooks</title>
+    <updated>2022-10-17T01:31:55Z</updated>
+    <id>tag:github.com,2022-10-17:/yeahhub/Hacking-Security-Ebooks</id>
+    <link href="https://github.com/yeahhub/Hacking-Security-Ebooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Top 100 Hacking &amp; Security E-Books (Free Download)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iNeuronai/interview-question-data-science-</title>
-    <updated>2022-10-16T01:31:26Z</updated>
-    <id>tag:github.com,2022-10-16:/iNeuronai/interview-question-data-science-</id>
-    <link href="https://github.com/iNeuronai/interview-question-data-science-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zhanghong863/Feature-Extractors-for-Video-Steganalysis</title>
+    <updated>2022-10-17T01:31:55Z</updated>
+    <id>tag:github.com,2022-10-17:/zhanghong863/Feature-Extractors-for-Video-Steganalysis</id>
+    <link href="https://github.com/zhanghong863/Feature-Extractors-for-Video-Steganalysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;To provide the stego community with C/C++ implementations of selected feature extractors mainly targeted at H.264 steganography.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

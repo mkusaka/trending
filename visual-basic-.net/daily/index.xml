@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-16T01:39:59Z</updated>
+  <updated>2022-10-17T01:39:44Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>antonio-delvalle/modal-popup-control-asp-net-vb</title>
-    <updated>2022-10-16T01:39:59Z</updated>
-    <id>tag:github.com,2022-10-16:/antonio-delvalle/modal-popup-control-asp-net-vb</id>
-    <link href="https://github.com/antonio-delvalle/modal-popup-control-asp-net-vb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modal popup window in ASP.NEt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NovaJr/ModOne</title>
+    <updated>2022-10-17T01:39:44Z</updated>
+    <id>tag:github.com,2022-10-17:/NovaJr/ModOne</id>
+    <link href="https://github.com/NovaJr/ModOne" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Its just a learning repo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
