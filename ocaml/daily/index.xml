@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:36:44Z</updated>
+  <updated>2022-10-18T01:36:51Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>geocaml/ocaml-topojson</title>
-    <updated>2022-10-17T01:36:44Z</updated>
-    <id>tag:github.com,2022-10-17:/geocaml/ocaml-topojson</id>
-    <link href="https://github.com/geocaml/ocaml-topojson" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A pure OCaml library for working with the TopoJSON format&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocamllabs/ocaml-effects-tutorial</title>
-    <updated>2022-10-17T01:36:44Z</updated>
-    <id>tag:github.com,2022-10-17:/ocamllabs/ocaml-effects-tutorial</id>
-    <link href="https://github.com/ocamllabs/ocaml-effects-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Concurrent Programming with Effect Handlers (CUFP&#39;17)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocsigen/js_of_ocaml</title>
-    <updated>2022-10-17T01:36:44Z</updated>
-    <id>tag:github.com,2022-10-17:/ocsigen/js_of_ocaml</id>
-    <link href="https://github.com/ocsigen/js_of_ocaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compiler from OCaml to Javascript.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

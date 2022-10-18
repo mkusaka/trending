@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:32:55Z</updated>
+  <updated>2022-10-18T01:32:41Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>o3de/NewspaperDeliveryGame</title>
-    <updated>2022-10-17T01:32:55Z</updated>
-    <id>tag:github.com,2022-10-17:/o3de/NewspaperDeliveryGame</id>
-    <link href="https://github.com/o3de/NewspaperDeliveryGame" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nealpointerexception/intro-to-auto-starter</title>
+    <updated>2022-10-18T01:32:41Z</updated>
+    <id>tag:github.com,2022-10-18:/nealpointerexception/intro-to-auto-starter</id>
+    <link href="https://github.com/nealpointerexception/intro-to-auto-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CRSN 151C Intro to Autonomous Vehicles Starter Lab Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rfzeg/virtual_racetracks_collection</title>
-    <updated>2022-10-17T01:32:55Z</updated>
-    <id>tag:github.com,2022-10-17:/rfzeg/virtual_racetracks_collection</id>
-    <link href="https://github.com/rfzeg/virtual_racetracks_collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Training repository for the Git and GitHub course.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yumagulovrn/dao-zmk-config</title>
+    <updated>2022-10-18T01:32:41Z</updated>
+    <id>tag:github.com,2022-10-18:/yumagulovrn/dao-zmk-config</id>
+    <link href="https://github.com/yumagulovrn/dao-zmk-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository with zmk-config for Dao keyboard firmware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

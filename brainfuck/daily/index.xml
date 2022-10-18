@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Brainfuck Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:32:21Z</updated>
+  <updated>2022-10-18T01:32:07Z</updated>
   <subtitle>Daily Trending of Brainfuck in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1</title>
-    <updated>2022-10-17T01:32:21Z</updated>
-    <id>tag:github.com,2022-10-17:/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1</id>
-    <link href="https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automatic unattended weekly builds of the current OpenWrt development master branch for X86/64, NanoPi R2S, NanoPi R4S, NanoPi R2C, Phicomm N1, NanoPi NEO3, 树莓派 4B, DoorNet1, DoorNet2, 香橙派 Orange Pi R1 Plus, 香橙派 Orange Pi R1 Plus LTS, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S/小米AX3200, 红米AC2100, 小米AC2100, 小米CR6606/TR606(联通版), CR6608/TR608(移动版), CR6609/T…&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

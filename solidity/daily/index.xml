@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:38:46Z</updated>
+  <updated>2022-10-18T01:39:14Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2022-10-traderjoe</title>
-    <updated>2022-10-17T01:38:46Z</updated>
-    <id>tag:github.com,2022-10-17:/code-423n4/2022-10-traderjoe</id>
-    <link href="https://github.com/code-423n4/2022-10-traderjoe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>whitenois3/huh</title>
+    <updated>2022-10-18T01:39:14Z</updated>
+    <id>tag:github.com,2022-10-18:/whitenois3/huh</id>
+    <link href="https://github.com/whitenois3/huh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Huh? Who minted it?&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ziyadedher/evm-bench</title>
-    <updated>2022-10-17T01:38:46Z</updated>
-    <id>tag:github.com,2022-10-17:/ziyadedher/evm-bench</id>
-    <link href="https://github.com/ziyadedher/evm-bench" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀🪑 evm-bench is a suite of Ethereum Virtual Machine stress tests and benchmarks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>proofofsoulprotocol/smart-contract-wallet-4337</title>
+    <updated>2022-10-18T01:39:14Z</updated>
+    <id>tag:github.com,2022-10-18:/proofofsoulprotocol/smart-contract-wallet-4337</id>
+    <link href="https://github.com/proofofsoulprotocol/smart-contract-wallet-4337" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implemention of 4337 and a wrapped SDK for DApps and a Dapp demo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ZeframLou/bunni</title>
-    <updated>2022-10-17T01:38:46Z</updated>
-    <id>tag:github.com,2022-10-17:/ZeframLou/bunni</id>
-    <link href="https://github.com/ZeframLou/bunni" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ERC-20 LP tokens for Uniswap V3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>holographxyz/holograph-protocol</title>
+    <updated>2022-10-18T01:39:14Z</updated>
+    <id>tag:github.com,2022-10-18:/holographxyz/holograph-protocol</id>
+    <link href="https://github.com/holographxyz/holograph-protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Holograph Protocol&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

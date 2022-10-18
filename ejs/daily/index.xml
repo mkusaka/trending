@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:33:38Z</updated>
+  <updated>2022-10-18T01:33:32Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>codemistic/HacktoberFest</title>
-    <updated>2022-10-17T01:33:38Z</updated>
-    <id>tag:github.com,2022-10-17:/codemistic/HacktoberFest</id>
-    <link href="https://github.com/codemistic/HacktoberFest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An exclusive repository to make your first contribution to Open Source and HactoberFest 2022.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

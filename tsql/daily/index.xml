@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:39:21Z</updated>
+  <updated>2022-10-18T01:39:46Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Nashville-Software-School-Assessments/BiancasBikeShop</title>
+    <updated>2022-10-18T01:39:46Z</updated>
+    <id>tag:github.com,2022-10-18:/Nashville-Software-School-Assessments/BiancasBikeShop</id>
+    <link href="https://github.com/Nashville-Software-School-Assessments/BiancasBikeShop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;full-stack coding assessment for the .NET curriculum&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

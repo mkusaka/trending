@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:34:09Z</updated>
+  <updated>2022-10-18T01:33:54Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aradi/fortuno</title>
+    <updated>2022-10-18T01:33:54Z</updated>
+    <id>tag:github.com,2022-10-18:/aradi/fortuno</id>
+    <link href="https://github.com/aradi/fortuno" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;User friendly, flexible and extensible object-oriented Fortran unit testing framework for testing serial, MPI-parallelized and coarray-parallelized applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

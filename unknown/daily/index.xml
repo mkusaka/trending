@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:31:55Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-10-18T01:31:13Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>itsnebulalol/deb-to-ipa</title>
-    <updated>2022-10-17T01:31:55Z</updated>
-    <id>tag:github.com,2022-10-17:/itsnebulalol/deb-to-ipa</id>
-    <link href="https://github.com/itsnebulalol/deb-to-ipa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;▶️ Convert an application from a deb to an IPA with a GitHub workflow.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pop3ret/AWSome-Pentesting</title>
+    <updated>2022-10-18T01:31:13Z</updated>
+    <id>tag:github.com,2022-10-18:/pop3ret/AWSome-Pentesting</id>
+    <link href="https://github.com/pop3ret/AWSome-Pentesting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My cheatsheet notes to pentest AWS infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yeahhub/Hacking-Security-Ebooks</title>
-    <updated>2022-10-17T01:31:55Z</updated>
-    <id>tag:github.com,2022-10-17:/yeahhub/Hacking-Security-Ebooks</id>
-    <link href="https://github.com/yeahhub/Hacking-Security-Ebooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Top 100 Hacking &amp; Security E-Books (Free Download)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arthurspk/guiadobackend</title>
+    <updated>2022-10-18T01:31:13Z</updated>
+    <id>tag:github.com,2022-10-18:/arthurspk/guiadobackend</id>
+    <link href="https://github.com/arthurspk/guiadobackend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zhanghong863/Feature-Extractors-for-Video-Steganalysis</title>
-    <updated>2022-10-17T01:31:55Z</updated>
-    <id>tag:github.com,2022-10-17:/zhanghong863/Feature-Extractors-for-Video-Steganalysis</id>
-    <link href="https://github.com/zhanghong863/Feature-Extractors-for-Video-Steganalysis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;To provide the stego community with C/C++ implementations of selected feature extractors mainly targeted at H.264 steganography.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jeromedalbert/real-world-react-apps</title>
+    <updated>2022-10-18T01:31:13Z</updated>
+    <id>tag:github.com,2022-10-18:/jeromedalbert/real-world-react-apps</id>
+    <link href="https://github.com/jeromedalbert/real-world-react-apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Real world React apps and their open source codebases for developers to learn from&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

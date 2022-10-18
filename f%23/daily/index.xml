@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:34:05Z</updated>
+  <updated>2022-10-18T01:33:49Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wraikny/Do.fs</title>
+    <updated>2022-10-18T01:33:49Z</updated>
+    <id>tag:github.com,2022-10-18:/wraikny/Do.fs</id>
+    <link href="https://github.com/wraikny/Do.fs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Do.fs&lt;/h1&gt; &#xA;&lt;p&gt;F# optimized Computation Expressions for built-in types.&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Self-contained single source file.&lt;/li&gt; &#xA; &lt;li&gt;Optimized with &lt;code&gt;InlineIfLambda&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Builders&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;Option&amp;lt;&#39;a&amp;gt;&lt;/code&gt;: &lt;code&gt;Do.option&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;ValueOption&amp;lt;&#39;a&amp;gt;&lt;/code&gt;: &lt;code&gt;Do.voption&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;Result&amp;lt;&#39;a, &#39;e&amp;gt;&lt;/code&gt;: &lt;code&gt;Do.result&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;Lazy&amp;lt;&#39;a&amp;gt;&lt;/code&gt; : &lt;code&gt;Do.lazily&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

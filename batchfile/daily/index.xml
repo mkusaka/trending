@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:32:16Z</updated>
+  <updated>2022-10-18T01:32:01Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ucoruh/course-note-template</title>
-    <updated>2022-10-17T01:32:16Z</updated>
-    <id>tag:github.com,2022-10-17:/ucoruh/course-note-template</id>
-    <link href="https://github.com/ucoruh/course-note-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Course Note Template for Material Theme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

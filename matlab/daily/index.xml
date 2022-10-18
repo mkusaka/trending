@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:36:20Z</updated>
+  <updated>2022-10-18T01:36:25Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UniprJRC/FSDA</title>
-    <updated>2022-10-17T01:36:20Z</updated>
-    <id>tag:github.com,2022-10-17:/UniprJRC/FSDA</id>
-    <link href="https://github.com/UniprJRC/FSDA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flexible Statistics and Data Analysis (FSDA) extends MATLAB for a robust analysis of data sets affected by different sources of heterogeneity. It is open source software licensed under the European Union Public Licence (EUPL). FSDA is a joint project by the University of Parma and the Joint Research Centre of the European Commission.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

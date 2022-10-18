@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:32:52Z</updated>
+  <updated>2022-10-18T01:32:38Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oakes/odoyle-rules</title>
-    <updated>2022-10-17T01:32:52Z</updated>
-    <id>tag:github.com,2022-10-17:/oakes/odoyle-rules</id>
-    <link href="https://github.com/oakes/odoyle-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rules engine for Clojure(Script)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zen-lang/zen</title>
+    <updated>2022-10-18T01:32:38Z</updated>
+    <id>tag:github.com,2022-10-18:/zen-lang/zen</id>
+    <link href="https://github.com/zen-lang/zen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for model driven systems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>borkdude/lein2deps</title>
-    <updated>2022-10-17T01:32:52Z</updated>
-    <id>tag:github.com,2022-10-17:/borkdude/lein2deps</id>
-    <link href="https://github.com/borkdude/lein2deps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lein to deps.edn converter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Viasat/halite</title>
+    <updated>2022-10-18T01:32:38Z</updated>
+    <id>tag:github.com,2022-10-18:/Viasat/halite</id>
+    <link href="https://github.com/Viasat/halite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Halite provides a LISP-like constraint expression language built on top of open source formal modelling tools such as the Choco constraint programming library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RoyalEagle73/Hacktoberfest-2022</title>
-    <updated>2022-10-17T01:32:52Z</updated>
-    <id>tag:github.com,2022-10-17:/RoyalEagle73/Hacktoberfest-2022</id>
-    <link href="https://github.com/RoyalEagle73/Hacktoberfest-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for hacktoberfest 2022.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HealthSamurai/klog</title>
+    <updated>2022-10-18T01:32:38Z</updated>
+    <id>tag:github.com,2022-10-18:/HealthSamurai/klog</id>
+    <link href="https://github.com/HealthSamurai/klog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

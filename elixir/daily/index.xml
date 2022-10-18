@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:33:40Z</updated>
+  <updated>2022-10-18T01:33:34Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spawnfest/collywobble</title>
-    <updated>2022-10-17T01:33:40Z</updated>
-    <id>tag:github.com,2022-10-17:/spawnfest/collywobble</id>
-    <link href="https://github.com/spawnfest/collywobble" rel="alternate"></link>
+    <title>spawnfest/lively</title>
+    <updated>2022-10-18T01:33:34Z</updated>
+    <id>tag:github.com,2022-10-18:/spawnfest/lively</id>
+    <link href="https://github.com/spawnfest/lively" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spawnfest/tres-web</title>
-    <updated>2022-10-17T01:33:40Z</updated>
-    <id>tag:github.com,2022-10-17:/spawnfest/tres-web</id>
-    <link href="https://github.com/spawnfest/tres-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cesium/safira</title>
+    <updated>2022-10-18T01:33:34Z</updated>
+    <id>tag:github.com,2022-10-18:/cesium/safira</id>
+    <link href="https://github.com/cesium/safira" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💎 safira platform (intra 2.0)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nebo15/sage</title>
+    <updated>2022-10-18T01:33:34Z</updated>
+    <id>tag:github.com,2022-10-18:/Nebo15/sage</id>
+    <link href="https://github.com/Nebo15/sage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dependency-free tool to run distributed transactions in Elixir, inspired by Sagas pattern.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

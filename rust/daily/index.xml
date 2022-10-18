@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-17T01:37:59Z</updated>
+  <updated>2022-10-18T01:38:30Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tw93/Pake</title>
-    <updated>2022-10-17T01:37:59Z</updated>
-    <id>tag:github.com,2022-10-17:/tw93/Pake</id>
-    <link href="https://github.com/tw93/Pake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤱🏻 很简单的用 Rust 来打包网页 Mac App&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fruiframework/frui</title>
+    <updated>2022-10-18T01:38:30Z</updated>
+    <id>tag:github.com,2022-10-18:/fruiframework/frui</id>
+    <link href="https://github.com/fruiframework/frui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A developer-friendly framework for building user interfaces in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>evmar/retrowin32</title>
-    <updated>2022-10-17T01:37:59Z</updated>
-    <id>tag:github.com,2022-10-17:/evmar/retrowin32</id>
-    <link href="https://github.com/evmar/retrowin32" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;windows emulator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wssheldon/osintui</title>
+    <updated>2022-10-18T01:38:30Z</updated>
+    <id>tag:github.com,2022-10-18:/wssheldon/osintui</id>
+    <link href="https://github.com/wssheldon/osintui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OSINT from your favorite services in a friendly terminal user interface, written in Rust 🦀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>signalapp/libsignal</title>
-    <updated>2022-10-17T01:37:59Z</updated>
-    <id>tag:github.com,2022-10-17:/signalapp/libsignal</id>
-    <link href="https://github.com/signalapp/libsignal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rigellute/spotify-tui</title>
+    <updated>2022-10-18T01:38:30Z</updated>
+    <id>tag:github.com,2022-10-18:/Rigellute/spotify-tui</id>
+    <link href="https://github.com/Rigellute/spotify-tui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spotify for the terminal written in Rust 🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
