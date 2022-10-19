@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:31:13Z</updated>
+  <updated>2022-10-19T01:30:59Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pop3ret/AWSome-Pentesting</title>
-    <updated>2022-10-18T01:31:13Z</updated>
-    <id>tag:github.com,2022-10-18:/pop3ret/AWSome-Pentesting</id>
-    <link href="https://github.com/pop3ret/AWSome-Pentesting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My cheatsheet notes to pentest AWS infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dreamhead/patterns-of-distributed-systems</title>
+    <updated>2022-10-19T01:30:59Z</updated>
+    <id>tag:github.com,2022-10-19:/dreamhead/patterns-of-distributed-systems</id>
+    <link href="https://github.com/dreamhead/patterns-of-distributed-systems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《Patterns of Distributed Systems》中文版&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>arthurspk/guiadobackend</title>
-    <updated>2022-10-18T01:31:13Z</updated>
-    <id>tag:github.com,2022-10-18:/arthurspk/guiadobackend</id>
-    <link href="https://github.com/arthurspk/guiadobackend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nesse guia você encontrará tudo para se torna um desenvolvedor back-end, dessa maneira, encontrará mapas mentais, cursos, trilhas e outras ferramentas para poder praticar o conhecimento adquirido.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmbiML/sparrow-manifest</title>
+    <updated>2022-10-19T01:30:59Z</updated>
+    <id>tag:github.com,2022-10-19:/AmbiML/sparrow-manifest</id>
+    <link href="https://github.com/AmbiML/sparrow-manifest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project Sparrow: Repo Materials&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jeromedalbert/real-world-react-apps</title>
-    <updated>2022-10-18T01:31:13Z</updated>
-    <id>tag:github.com,2022-10-18:/jeromedalbert/real-world-react-apps</id>
-    <link href="https://github.com/jeromedalbert/real-world-react-apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Real world React apps and their open source codebases for developers to learn from&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruitunion/open-letter-to-mishustin</title>
+    <updated>2022-10-19T01:30:59Z</updated>
+    <id>tag:github.com,2022-10-19:/ruitunion/open-letter-to-mishustin</id>
+    <link href="https://github.com/ruitunion/open-letter-to-mishustin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:34:03Z</updated>
+  <updated>2022-10-19T01:33:43Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>espen96/Loop</title>
-    <updated>2022-10-18T01:34:03Z</updated>
-    <id>tag:github.com,2022-10-18:/espen96/Loop</id>
-    <link href="https://github.com/espen96/Loop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

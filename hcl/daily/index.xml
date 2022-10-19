@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:34:31Z</updated>
+  <updated>2022-10-19T01:34:05Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>traveloka/terraform-aws-ecs-fargate-service</title>
-    <updated>2022-10-18T01:34:31Z</updated>
-    <id>tag:github.com,2022-10-18:/traveloka/terraform-aws-ecs-fargate-service</id>
-    <link href="https://github.com/traveloka/terraform-aws-ecs-fargate-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module for creating Autoscaled ECS Service&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ondat/terraform-eksblueprints-ondat-addon</title>
-    <updated>2022-10-18T01:34:31Z</updated>
-    <id>tag:github.com,2022-10-18:/ondat/terraform-eksblueprints-ondat-addon</id>
-    <link href="https://github.com/ondat/terraform-eksblueprints-ondat-addon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Amazon EKS Blueprints addon to enrich stateful storage in Kubernetes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hashicorp/learn-terraform-enforce-policies</title>
-    <updated>2022-10-18T01:34:31Z</updated>
-    <id>tag:github.com,2022-10-18:/hashicorp/learn-terraform-enforce-policies</id>
-    <link href="https://github.com/hashicorp/learn-terraform-enforce-policies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:39:24Z</updated>
+  <updated>2022-10-19T01:38:30Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Lobby-Hoes/wo-ist-vulva</title>
-    <updated>2022-10-18T01:39:24Z</updated>
-    <id>tag:github.com,2022-10-18:/Lobby-Hoes/wo-ist-vulva</id>
-    <link href="https://github.com/Lobby-Hoes/wo-ist-vulva" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ein Spiel basierend auf Wimmelbildern entwickelt für den podcast &#34;Hobbylos&#34; von Rezo und Julien Bam.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yekta/stablecog</title>
+    <updated>2022-10-19T01:38:30Z</updated>
+    <id>tag:github.com,2022-10-19:/yekta/stablecog</id>
+    <link href="https://github.com/yekta/stablecog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

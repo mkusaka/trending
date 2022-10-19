@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:33:59Z</updated>
+  <updated>2022-10-19T01:33:39Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>paddy-exe/GodotVisualShader-Extras</title>
+    <updated>2022-10-19T01:33:39Z</updated>
+    <id>tag:github.com,2022-10-19:/paddy-exe/GodotVisualShader-Extras</id>
+    <link href="https://github.com/paddy-exe/GodotVisualShader-Extras" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Visual Shader Nodes Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

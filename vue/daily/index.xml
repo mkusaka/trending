@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:40:13Z</updated>
+  <updated>2022-10-19T01:39:17Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>se331-2022/Lab12-frontend</title>
-    <updated>2022-10-18T01:40:13Z</updated>
-    <id>tag:github.com,2022-10-18:/se331-2022/Lab12-frontend</id>
-    <link href="https://github.com/se331-2022/Lab12-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wfjsw/danbooru-diffusion-prompt-builder</title>
-    <updated>2022-10-18T01:40:13Z</updated>
-    <id>tag:github.com,2022-10-18:/wfjsw/danbooru-diffusion-prompt-builder</id>
-    <link href="https://github.com/wfjsw/danbooru-diffusion-prompt-builder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Danbooru / NovelAI 标签超市&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheLearneer/api-party</title>
-    <updated>2022-10-18T01:40:13Z</updated>
-    <id>tag:github.com,2022-10-18:/TheLearneer/api-party</id>
-    <link href="https://github.com/TheLearneer/api-party" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome list of amazing API to be used!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

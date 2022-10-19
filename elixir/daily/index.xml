@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:33:34Z</updated>
+  <updated>2022-10-19T01:33:19Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spawnfest/lively</title>
-    <updated>2022-10-18T01:33:34Z</updated>
-    <id>tag:github.com,2022-10-18:/spawnfest/lively</id>
-    <link href="https://github.com/spawnfest/lively" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cesium/safira</title>
-    <updated>2022-10-18T01:33:34Z</updated>
-    <id>tag:github.com,2022-10-18:/cesium/safira</id>
-    <link href="https://github.com/cesium/safira" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💎 safira platform (intra 2.0)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Nebo15/sage</title>
-    <updated>2022-10-18T01:33:34Z</updated>
-    <id>tag:github.com,2022-10-18:/Nebo15/sage</id>
-    <link href="https://github.com/Nebo15/sage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dependency-free tool to run distributed transactions in Elixir, inspired by Sagas pattern.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lubien/sorteios</title>
+    <updated>2022-10-19T01:33:19Z</updated>
+    <id>tag:github.com,2022-10-19:/lubien/sorteios</id>
+    <link href="https://github.com/lubien/sorteios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prize draw system built using Phoenix (LiveView + Presence + PubSub)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

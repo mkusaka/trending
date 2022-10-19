@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:39:14Z</updated>
+  <updated>2022-10-19T01:38:24Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>whitenois3/huh</title>
-    <updated>2022-10-18T01:39:14Z</updated>
-    <id>tag:github.com,2022-10-18:/whitenois3/huh</id>
-    <link href="https://github.com/whitenois3/huh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Huh? Who minted it?&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jtriley-eth/minimum-viable-proxy</title>
+    <updated>2022-10-19T01:38:24Z</updated>
+    <id>tag:github.com,2022-10-19:/jtriley-eth/minimum-viable-proxy</id>
+    <link href="https://github.com/jtriley-eth/minimum-viable-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>proofofsoulprotocol/smart-contract-wallet-4337</title>
-    <updated>2022-10-18T01:39:14Z</updated>
-    <id>tag:github.com,2022-10-18:/proofofsoulprotocol/smart-contract-wallet-4337</id>
-    <link href="https://github.com/proofofsoulprotocol/smart-contract-wallet-4337" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An implemention of 4337 and a wrapped SDK for DApps and a Dapp demo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>holographxyz/holograph-protocol</title>
-    <updated>2022-10-18T01:39:14Z</updated>
-    <id>tag:github.com,2022-10-18:/holographxyz/holograph-protocol</id>
-    <link href="https://github.com/holographxyz/holograph-protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Holograph Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ylv-io/devcon-bogota-workshop-2022</title>
+    <updated>2022-10-19T01:38:24Z</updated>
+    <id>tag:github.com,2022-10-19:/ylv-io/devcon-bogota-workshop-2022</id>
+    <link href="https://github.com/ylv-io/devcon-bogota-workshop-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

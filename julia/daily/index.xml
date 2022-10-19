@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:35:42Z</updated>
+  <updated>2022-10-19T01:35:13Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kevin-tracy/DifferentiableCollisions.jl</title>
-    <updated>2022-10-18T01:35:42Z</updated>
-    <id>tag:github.com,2022-10-18:/kevin-tracy/DifferentiableCollisions.jl</id>
-    <link href="https://github.com/kevin-tracy/DifferentiableCollisions.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Differentiable collision detection for polytopes, capsules, cylinders, cones, spheres, and polygons.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vinhphunguyen/maths_julia</title>
+    <updated>2022-10-19T01:35:13Z</updated>
+    <id>tag:github.com,2022-10-19:/vinhphunguyen/maths_julia</id>
+    <link href="https://github.com/vinhphunguyen/maths_julia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia codes for various mathematics topics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bkamins/JuliaForDataAnalysis</title>
+    <updated>2022-10-19T01:35:13Z</updated>
+    <id>tag:github.com,2022-10-19:/bkamins/JuliaForDataAnalysis</id>
+    <link href="https://github.com/bkamins/JuliaForDataAnalysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Codes for the book &#34;Julia for Data Analysis&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tshort/StaticCompiler.jl</title>
+    <updated>2022-10-19T01:35:13Z</updated>
+    <id>tag:github.com,2022-10-19:/tshort/StaticCompiler.jl</id>
+    <link href="https://github.com/tshort/StaticCompiler.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compiles Julia code to a standalone library (experimental)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

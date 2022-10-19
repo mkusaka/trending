@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:34:01Z</updated>
+  <updated>2022-10-19T01:33:42Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wp-cli/wp-cli-bundle</title>
+    <updated>2022-10-19T01:33:42Z</updated>
+    <id>tag:github.com,2022-10-19:/wp-cli/wp-cli-bundle</id>
+    <link href="https://github.com/wp-cli/wp-cli-bundle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📦 WP-CLI package that bundles the framework with a set of common commands&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wp-cli/core-command</title>
+    <updated>2022-10-19T01:33:42Z</updated>
+    <id>tag:github.com,2022-10-19:/wp-cli/core-command</id>
+    <link href="https://github.com/wp-cli/core-command" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Downloads, installs, updates, and manages a WordPress installation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

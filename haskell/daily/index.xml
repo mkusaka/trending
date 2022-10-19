@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:34:35Z</updated>
+  <updated>2022-10-19T01:34:06Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>upenn-cis5520/07-GADTs</title>
-    <updated>2022-10-18T01:34:35Z</updated>
-    <id>tag:github.com,2022-10-18:/upenn-cis5520/07-GADTs</id>
-    <link href="https://github.com/upenn-cis5520/07-GADTs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yesodweb/persistent</title>
-    <updated>2022-10-18T01:34:35Z</updated>
-    <id>tag:github.com,2022-10-18:/yesodweb/persistent</id>
-    <link href="https://github.com/yesodweb/persistent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Persistence interface for Haskell allowing multiple storage methods.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Learn more: &lt;a href=&#34;http://www.yesodweb.com/book/persistent&#34;&gt;http://www.yesodweb.com/book/persistent&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gitter.im/yesodweb/persistent?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/Join%20Chat.svg?sanitize=true&#34; alt=&#34;Join the chat at https://gitter.im/yesodweb/persistent&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://travis-ci.org/yesodweb/persistent&#34;&gt;&lt;img src=&#34;https://travis-ci.org/yesodweb/persistent.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt; &lt;img src=&#34;https://img.shields.io/hackage/v/persistent.svg?sanitize=true&#34; alt=&#34;Hackage&#34;&gt; &lt;img src=&#34;https://img.shields.io/hackage-deps/v/persistent.svg?sanitize=true&#34; alt=&#34;Hackage-Deps&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;A Haskell datastore. Datastores are often referred to as &#34;ORM&#34;s. While &#39;O&#39; traditionally means object, the concept can be generalized as:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;avoidance of boilerplate serialization&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;In addition , the ORM concept is a way to make what is usually an un-typed driver type-safe. In dynamic languages rather than compile time errors, safety comes from creating specific dynamic errors rather than sending nonsense queries to the database.&lt;/p&gt; &#xA;&lt;p&gt;Persistent&#39;s goal is to catch every possible error at compile-time, and it comes close to that.&lt;/p&gt; &#xA;&lt;h1&gt;Backend agnostic&lt;/h1&gt; &#xA;&lt;p&gt;Supports PostgreSql, Sqlite, MongoDB, Redis, ZooKeeper, and many other databases via &lt;a href=&#34;https://github.com/gbwey/persistent-odbc&#34;&gt;persistent-odbc&lt;/a&gt;. The MySQL backend is in need of a maintainer. Currently there are issues with migrations and support for composite and primary keys is lacking.&lt;/p&gt; &#xA;&lt;p&gt;Persistent is designed to be adaptable to any datastore, and to allow multiple datastores to be used simultaneously. The serialization layer should be adaptable to any datastore.&lt;/p&gt; &#xA;&lt;p&gt;Providing a universal query layer will always be limiting. A major limitation for SQL databases is that the persistent library does not directly provide joins. However, you can use &lt;a href=&#34;http://hackage.haskell.org/package/esqueleto&#34;&gt;Esqueleto&lt;/a&gt; with Persistent&#39;s serialization to write type-safe SQL queries. Key-value stores such as Redis can be used with persistent, but only fill out the key-value portion of the API (PersistStore) rather than the query portion (PersistQuery).&lt;/p&gt; &#xA;&lt;p&gt;Persistent provides several hooks to create backend-specific functionality. One can always fall back to using the raw database driver or other lower-level or less type-safe libraries and can utilize Persistent for un-serializing the database response to a Haskell record.&lt;/p&gt; &#xA;&lt;h2&gt;Install from source&lt;/h2&gt; &#xA;&lt;p&gt;Clone the repo and run &lt;code&gt;stack build&lt;/code&gt; to build all targets. Persistent supports many backends. If you have only some of these installed the &lt;a href=&#34;https://raw.githubusercontent.com/yesodweb/persistent/master/development.md&#34;&gt;development doc&lt;/a&gt; shows how to build against a subset of targets.&lt;/p&gt; &#xA;&lt;h2&gt;Development&lt;/h2&gt; &#xA;&lt;p&gt;For more information on how to hack ont he &lt;code&gt;persistent&lt;/code&gt; set of libraries, see the &lt;a href=&#34;https://raw.githubusercontent.com/yesodweb/persistent/master/development.md&#34;&gt;&lt;code&gt;development.md&lt;/code&gt;&lt;/a&gt; file.&lt;/p&gt;</summary>
+    <title>jgeiss/trabalho3</title>
+    <updated>2022-10-19T01:34:06Z</updated>
+    <id>tag:github.com,2022-10-19:/jgeiss/trabalho3</id>
+    <link href="https://github.com/jgeiss/trabalho3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;trabalho 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

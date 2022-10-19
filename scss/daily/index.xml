@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:38:54Z</updated>
+  <updated>2022-10-19T01:38:03Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IBM-EPBL/IBM-Project-27325-1660054120</title>
-    <updated>2022-10-18T01:38:54Z</updated>
-    <id>tag:github.com,2022-10-18:/IBM-EPBL/IBM-Project-27325-1660054120</id>
-    <link href="https://github.com/IBM-EPBL/IBM-Project-27325-1660054120" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Customer Care Registry&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Anjan50/Python</title>
+    <updated>2022-10-19T01:38:03Z</updated>
+    <id>tag:github.com,2022-10-19:/Anjan50/Python</id>
+    <link href="https://github.com/Anjan50/Python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Different type of program list and project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:33:02Z</updated>
+  <updated>2022-10-19T01:32:48Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Travis-Sun/mmseg-3.2.14</title>
+    <updated>2022-10-19T01:32:48Z</updated>
+    <id>tag:github.com,2022-10-19:/Travis-Sun/mmseg-3.2.14</id>
+    <link href="https://github.com/Travis-Sun/mmseg-3.2.14" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-18T01:32:38Z</updated>
+  <updated>2022-10-19T01:32:24Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zen-lang/zen</title>
-    <updated>2022-10-18T01:32:38Z</updated>
-    <id>tag:github.com,2022-10-18:/zen-lang/zen</id>
-    <link href="https://github.com/zen-lang/zen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for model driven systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yayitswei/maestro</title>
+    <updated>2022-10-19T01:32:24Z</updated>
+    <id>tag:github.com,2022-10-19:/yayitswei/maestro</id>
+    <link href="https://github.com/yayitswei/maestro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;arduino instrument via overtone&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Viasat/halite</title>
-    <updated>2022-10-18T01:32:38Z</updated>
-    <id>tag:github.com,2022-10-18:/Viasat/halite</id>
-    <link href="https://github.com/Viasat/halite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Halite provides a LISP-like constraint expression language built on top of open source formal modelling tools such as the Choco constraint programming library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HealthSamurai/klog</title>
-    <updated>2022-10-18T01:32:38Z</updated>
-    <id>tag:github.com,2022-10-18:/HealthSamurai/klog</id>
-    <link href="https://github.com/HealthSamurai/klog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>humbhenri/brainfuck-clj</title>
+    <updated>2022-10-19T01:32:24Z</updated>
+    <id>tag:github.com,2022-10-19:/humbhenri/brainfuck-clj</id>
+    <link href="https://github.com/humbhenri/brainfuck-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brainfuck interpreter written in clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
