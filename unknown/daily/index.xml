@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:30:59Z</updated>
+  <updated>2022-10-20T01:31:28Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dreamhead/patterns-of-distributed-systems</title>
-    <updated>2022-10-19T01:30:59Z</updated>
-    <id>tag:github.com,2022-10-19:/dreamhead/patterns-of-distributed-systems</id>
-    <link href="https://github.com/dreamhead/patterns-of-distributed-systems" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;《Patterns of Distributed Systems》中文版&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eugeneyan/ml-surveys</title>
+    <updated>2022-10-20T01:31:28Z</updated>
+    <id>tag:github.com,2022-10-20:/eugeneyan/ml-surveys</id>
+    <link href="https://github.com/eugeneyan/ml-surveys" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AmbiML/sparrow-manifest</title>
-    <updated>2022-10-19T01:30:59Z</updated>
-    <id>tag:github.com,2022-10-19:/AmbiML/sparrow-manifest</id>
-    <link href="https://github.com/AmbiML/sparrow-manifest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project Sparrow: Repo Materials&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nv-tlabs/LION</title>
+    <updated>2022-10-20T01:31:28Z</updated>
+    <id>tag:github.com,2022-10-20:/nv-tlabs/LION</id>
+    <link href="https://github.com/nv-tlabs/LION" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Latent Point Diffusion Models for 3D Shape Generation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ruitunion/open-letter-to-mishustin</title>
-    <updated>2022-10-19T01:30:59Z</updated>
-    <id>tag:github.com,2022-10-19:/ruitunion/open-letter-to-mishustin</id>
-    <link href="https://github.com/ruitunion/open-letter-to-mishustin" rel="alternate"></link>
+    <title>Cryptocandy342/Pancakeswap-Sniper-Bot</title>
+    <updated>2022-10-20T01:31:28Z</updated>
+    <id>tag:github.com,2022-10-20:/Cryptocandy342/Pancakeswap-Sniper-Bot</id>
+    <link href="https://github.com/Cryptocandy342/Pancakeswap-Sniper-Bot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:39:17Z</updated>
+  <updated>2022-10-20T01:40:08Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Akegarasu/novelai-tagreader</title>
+    <updated>2022-10-20T01:40:08Z</updated>
+    <id>tag:github.com,2022-10-20:/Akegarasu/novelai-tagreader</id>
+    <link href="https://github.com/Akegarasu/novelai-tagreader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;read pnginfo in novelai generated images&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>275313730/novelai-tagsearch</title>
+    <updated>2022-10-20T01:40:08Z</updated>
+    <id>tag:github.com,2022-10-20:/275313730/novelai-tagsearch</id>
+    <link href="https://github.com/275313730/novelai-tagsearch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

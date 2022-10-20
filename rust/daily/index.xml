@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:37:38Z</updated>
+  <updated>2022-10-20T01:37:44Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fereidani/kanal</title>
-    <updated>2022-10-19T01:37:38Z</updated>
-    <id>tag:github.com,2022-10-19:/fereidani/kanal</id>
-    <link href="https://github.com/fereidani/kanal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fastest sync and async channel that Rust deserves&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmbiML/sparrow-kata-full</title>
+    <updated>2022-10-20T01:37:44Z</updated>
+    <id>tag:github.com,2022-10-20:/AmbiML/sparrow-kata-full</id>
+    <link href="https://github.com/AmbiML/sparrow-kata-full" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AmbiML/sparrow-kata</title>
-    <updated>2022-10-19T01:37:38Z</updated>
-    <id>tag:github.com,2022-10-19:/AmbiML/sparrow-kata</id>
-    <link href="https://github.com/AmbiML/sparrow-kata" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project Sparrow: KataOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EAimTY/tuic</title>
+    <updated>2022-10-20T01:37:44Z</updated>
+    <id>tag:github.com,2022-10-20:/EAimTY/tuic</id>
+    <link href="https://github.com/EAimTY/tuic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delicately-TUICed high-performance proxy built on top of the QUIC protocol&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

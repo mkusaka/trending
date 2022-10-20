@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:36:14Z</updated>
+  <updated>2022-10-20T01:36:04Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>opa334/u0Launcher</title>
-    <updated>2022-10-19T01:36:14Z</updated>
-    <id>tag:github.com,2022-10-19:/opa334/u0Launcher</id>
-    <link href="https://github.com/opa334/u0Launcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Launches unc0ver in a way that works when it&#39;s installed through TrollStore&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;u0Launcher&lt;/h1&gt; &#xA;&lt;p&gt;Normally when you install unc0ver through TrollStore and try to jailbreak with it, it fails with a &#34;Failed to disable codesigning&#34; error because unc0ver expects amfid to be running in the background in order to patch it. However when unc0ver is installed through TrollStore, amfid doesn&#39;t get invoked in the unc0ver launch process because it launches through App Store fast path, which does not contact amfid for verification.&lt;/p&gt; &#xA;&lt;p&gt;u0Launcher is an App that first sends an empty XPC message to amfid to make it start up and then jumps to unc0ver. This fixes the &#34;Failed to disable codesigning&#34; error when jailbreaking.&lt;/p&gt; &#xA;&lt;h2&gt;How to use&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Install unc0ver through TrollStore&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Install u0Launcher through TrollStore&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;When jailbreaking, start the u0Launcher app instead of unc0ver, it will do the neccessary fix and then jump to unc0ver. Then you can press the &#34;Jailbreak&#34; button in the unc0ver app and it will work.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

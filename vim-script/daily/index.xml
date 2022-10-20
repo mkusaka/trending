@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:39:15Z</updated>
+  <updated>2022-10-20T01:40:05Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uupaa/dotfiles</title>
-    <updated>2022-10-19T01:39:15Z</updated>
-    <id>tag:github.com,2022-10-19:/uupaa/dotfiles</id>
-    <link href="https://github.com/uupaa/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dot files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stephpy/vim-yaml</title>
-    <updated>2022-10-19T01:39:15Z</updated>
-    <id>tag:github.com,2022-10-19:/stephpy/vim-yaml</id>
-    <link href="https://github.com/stephpy/vim-yaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Override vim syntax for yaml files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jefferyf/dotfiles</title>
+    <updated>2022-10-20T01:40:05Z</updated>
+    <id>tag:github.com,2022-10-20:/jefferyf/dotfiles</id>
+    <link href="https://github.com/jefferyf/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;configuration files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

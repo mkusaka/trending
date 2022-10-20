@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:38:24Z</updated>
+  <updated>2022-10-20T01:38:53Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jtriley-eth/minimum-viable-proxy</title>
-    <updated>2022-10-19T01:38:24Z</updated>
-    <id>tag:github.com,2022-10-19:/jtriley-eth/minimum-viable-proxy</id>
-    <link href="https://github.com/jtriley-eth/minimum-viable-proxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chiru-labs/PBT</title>
+    <updated>2022-10-20T01:38:53Z</updated>
+    <id>tag:github.com,2022-10-20:/chiru-labs/PBT</id>
+    <link href="https://github.com/chiru-labs/PBT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Physical Backed Token (EIP-5791)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ylv-io/devcon-bogota-workshop-2022</title>
-    <updated>2022-10-19T01:38:24Z</updated>
-    <id>tag:github.com,2022-10-19:/ylv-io/devcon-bogota-workshop-2022</id>
-    <link href="https://github.com/ylv-io/devcon-bogota-workshop-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DanejSakshi13/SmartContracts</title>
+    <updated>2022-10-20T01:38:53Z</updated>
+    <id>tag:github.com,2022-10-20:/DanejSakshi13/SmartContracts</id>
+    <link href="https://github.com/DanejSakshi13/SmartContracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Config files for my GitHub profile.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hananbeer/sqlidity</title>
+    <updated>2022-10-20T01:38:53Z</updated>
+    <id>tag:github.com,2022-10-20:/hananbeer/sqlidity</id>
+    <link href="https://github.com/hananbeer/sqlidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQL on chain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

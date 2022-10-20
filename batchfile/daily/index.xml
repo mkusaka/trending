@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:31:44Z</updated>
+  <updated>2022-10-20T01:31:48Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bendovergirl/VPS-FREE</title>
-    <updated>2022-10-19T01:31:44Z</updated>
-    <id>tag:github.com,2022-10-19:/bendovergirl/VPS-FREE</id>
-    <link href="https://github.com/bendovergirl/VPS-FREE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FREE VPS SCOURCE, TIME : 30 DAY!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>camenduru/stable-diffusion-webui-offline</title>
+    <updated>2022-10-20T01:31:48Z</updated>
+    <id>tag:github.com,2022-10-20:/camenduru/stable-diffusion-webui-offline</id>
+    <link href="https://github.com/camenduru/stable-diffusion-webui-offline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Project Aims for 100% Offline Stable Diffusion (People without internet or with slow internet can get it via USB or CD)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>neelk19450/RDP-FREE</title>
-    <updated>2022-10-19T01:31:44Z</updated>
-    <id>tag:github.com,2022-10-19:/neelk19450/RDP-FREE</id>
-    <link href="https://github.com/neelk19450/RDP-FREE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tudat-team/tudatpy-feedstock</title>
+    <updated>2022-10-20T01:31:48Z</updated>
+    <id>tag:github.com,2022-10-20:/tudat-team/tudatpy-feedstock</id>
+    <link href="https://github.com/tudat-team/tudatpy-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for tudatpy.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Usercodersystem/Ngrokrdp</title>
-    <updated>2022-10-19T01:31:44Z</updated>
-    <id>tag:github.com,2022-10-19:/Usercodersystem/Ngrokrdp</id>
-    <link href="https://github.com/Usercodersystem/Ngrokrdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ucoruh/ce103-algorithms-and-programming-I</title>
+    <updated>2022-10-20T01:31:48Z</updated>
+    <id>tag:github.com,2022-10-20:/ucoruh/ce103-algorithms-and-programming-I</id>
+    <link href="https://github.com/ucoruh/ce103-algorithms-and-programming-I" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ce103 algorithms and programming I course notes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

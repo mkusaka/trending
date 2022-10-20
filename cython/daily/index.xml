@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:32:46Z</updated>
+  <updated>2022-10-20T01:32:50Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lnds/tarea1-CEDCCPEC01</title>
-    <updated>2022-10-19T01:32:46Z</updated>
-    <id>tag:github.com,2022-10-19:/lnds/tarea1-CEDCCPEC01</id>
-    <link href="https://github.com/lnds/tarea1-CEDCCPEC01" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tarea 1&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:32:24Z</updated>
+  <updated>2022-10-20T01:32:34Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yayitswei/maestro</title>
-    <updated>2022-10-19T01:32:24Z</updated>
-    <id>tag:github.com,2022-10-19:/yayitswei/maestro</id>
-    <link href="https://github.com/yayitswei/maestro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;arduino instrument via overtone&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>humbhenri/brainfuck-clj</title>
-    <updated>2022-10-19T01:32:24Z</updated>
-    <id>tag:github.com,2022-10-19:/humbhenri/brainfuck-clj</id>
-    <link href="https://github.com/humbhenri/brainfuck-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Brainfuck interpreter written in clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>athos/syntactic-closure</title>
+    <updated>2022-10-20T01:32:34Z</updated>
+    <id>tag:github.com,2022-10-20:/athos/syntactic-closure</id>
+    <link href="https://github.com/athos/syntactic-closure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;syntactic closures built on top of Clojure&#39;s macro system&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

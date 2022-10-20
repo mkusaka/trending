@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:33:29Z</updated>
+  <updated>2022-10-20T01:33:40Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emqx/quic</title>
+    <updated>2022-10-20T01:33:40Z</updated>
+    <id>tag:github.com,2022-10-20:/emqx/quic</id>
+    <link href="https://github.com/emqx/quic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QUIC protocol for Erlang &amp; Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Leapsight/bondy</title>
+    <updated>2022-10-20T01:33:40Z</updated>
+    <id>tag:github.com,2022-10-20:/Leapsight/bondy</id>
+    <link href="https://github.com/Leapsight/bondy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bondy is an open source, always-on and scalable application networking platform for modern architectures. It is an all-in-one event and service mesh that offers both Publish-Subscribe (PubSub) and routed Remote Procedure Calls (RPC). Bondy implements the open Web Application Messaging Protocol (WAMP) and is written in Erlang.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

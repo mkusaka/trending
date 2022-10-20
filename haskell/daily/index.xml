@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:34:06Z</updated>
+  <updated>2022-10-20T01:34:13Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jgeiss/trabalho3</title>
-    <updated>2022-10-19T01:34:06Z</updated>
-    <id>tag:github.com,2022-10-19:/jgeiss/trabalho3</id>
-    <link href="https://github.com/jgeiss/trabalho3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;trabalho 3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

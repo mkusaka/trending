@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-19T01:36:09Z</updated>
+  <updated>2022-10-20T01:35:59Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terlar/nix-config</title>
-    <updated>2022-10-19T01:36:09Z</updated>
-    <id>tag:github.com,2022-10-19:/terlar/nix-config</id>
-    <link href="https://github.com/terlar/nix-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configuration for NixOS and user home (dot files).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fiksn/lightning-nix</title>
-    <updated>2022-10-19T01:36:09Z</updated>
-    <id>tag:github.com,2022-10-19:/fiksn/lightning-nix</id>
-    <link href="https://github.com/fiksn/lightning-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of nix packages and modules for running a Bitcoin Lightning node&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>marigold-dev/ligo-deku-rpc</title>
+    <updated>2022-10-20T01:35:59Z</updated>
+    <id>tag:github.com,2022-10-20:/marigold-dev/ligo-deku-rpc</id>
+    <link href="https://github.com/marigold-dev/ligo-deku-rpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
