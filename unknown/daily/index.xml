@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-20T01:31:28Z</updated>
+  <updated>2022-10-21T01:30:35Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eugeneyan/ml-surveys</title>
-    <updated>2022-10-20T01:31:28Z</updated>
-    <id>tag:github.com,2022-10-20:/eugeneyan/ml-surveys</id>
-    <link href="https://github.com/eugeneyan/ml-surveys" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📋 Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blockchain-etl/awesome-bigquery-views</title>
+    <updated>2022-10-21T01:30:35Z</updated>
+    <id>tag:github.com,2022-10-21:/blockchain-etl/awesome-bigquery-views</id>
+    <link href="https://github.com/blockchain-etl/awesome-bigquery-views" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Useful SQL queries for Blockchain ETL datasets in BigQuery.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nv-tlabs/LION</title>
-    <updated>2022-10-20T01:31:28Z</updated>
-    <id>tag:github.com,2022-10-20:/nv-tlabs/LION</id>
-    <link href="https://github.com/nv-tlabs/LION" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Latent Point Diffusion Models for 3D Shape Generation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Cryptocandy342/Pancakeswap-Sniper-Bot</title>
-    <updated>2022-10-20T01:31:28Z</updated>
-    <id>tag:github.com,2022-10-20:/Cryptocandy342/Pancakeswap-Sniper-Bot</id>
-    <link href="https://github.com/Cryptocandy342/Pancakeswap-Sniper-Bot" rel="alternate"></link>
+    <title>bigdatabysumitm/NotesOfYouTubeSQLSeries</title>
+    <updated>2022-10-21T01:30:35Z</updated>
+    <id>tag:github.com,2022-10-21:/bigdatabysumitm/NotesOfYouTubeSQLSeries</id>
+    <link href="https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>google/material-design-icons</title>
+    <updated>2022-10-21T01:30:35Z</updated>
+    <id>tag:github.com,2022-10-21:/google/material-design-icons</id>
+    <link href="https://github.com/google/material-design-icons" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Design icons by Google&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

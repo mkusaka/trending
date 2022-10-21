@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-20T01:40:08Z</updated>
+  <updated>2022-10-21T01:38:27Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Akegarasu/novelai-tagreader</title>
-    <updated>2022-10-20T01:40:08Z</updated>
-    <id>tag:github.com,2022-10-20:/Akegarasu/novelai-tagreader</id>
-    <link href="https://github.com/Akegarasu/novelai-tagreader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;read pnginfo in novelai generated images&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stackblitz/viteconf</title>
+    <updated>2022-10-21T01:38:27Z</updated>
+    <id>tag:github.com,2022-10-21:/stackblitz/viteconf</id>
+    <link href="https://github.com/stackblitz/viteconf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ViteConf main website, powering viteconf.org.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>275313730/novelai-tagsearch</title>
-    <updated>2022-10-20T01:40:08Z</updated>
-    <id>tag:github.com,2022-10-20:/275313730/novelai-tagsearch</id>
-    <link href="https://github.com/275313730/novelai-tagsearch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nuxt/movies</title>
+    <updated>2022-10-21T01:38:27Z</updated>
+    <id>tag:github.com,2022-10-21:/nuxt/movies</id>
+    <link href="https://github.com/nuxt/movies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍿 A TMDB client built with Nuxt 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AustinGil/vuetensils</title>
+    <updated>2022-10-21T01:38:27Z</updated>
+    <id>tag:github.com,2022-10-21:/AustinGil/vuetensils</id>
+    <link href="https://github.com/AustinGil/vuetensils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍴 A tasty toolset for Vue.js 🛠 - Lightweight, functional components to boost your next project.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

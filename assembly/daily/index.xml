@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-20T01:31:44Z</updated>
+  <updated>2022-10-21T01:30:58Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kobronson/isr</title>
-    <updated>2022-10-20T01:31:44Z</updated>
-    <id>tag:github.com,2022-10-20:/kobronson/isr</id>
-    <link href="https://github.com/kobronson/isr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;isr odwrocone wahadlo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>riscv-non-isa/riscv-arch-test</title>
-    <updated>2022-10-20T01:31:44Z</updated>
-    <id>tag:github.com,2022-10-20:/riscv-non-isa/riscv-arch-test</id>
-    <link href="https://github.com/riscv-non-isa/riscv-arch-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alvin-tosh/Malware-Exhibit</title>
+    <updated>2022-10-21T01:30:58Z</updated>
+    <id>tag:github.com,2022-10-21:/alvin-tosh/Malware-Exhibit</id>
+    <link href="https://github.com/alvin-tosh/Malware-Exhibit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀🚀 This is a 🎇🔥 REAL WORLD🔥 🎇 Malware Collection I have created or Compiled/analysed🔥 to understand more about Malware threats😈, analysis and mitigation🧐.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

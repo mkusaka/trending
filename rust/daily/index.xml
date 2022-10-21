@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-20T01:37:44Z</updated>
+  <updated>2022-10-21T01:36:41Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AmbiML/sparrow-kata-full</title>
-    <updated>2022-10-20T01:37:44Z</updated>
-    <id>tag:github.com,2022-10-20:/AmbiML/sparrow-kata-full</id>
-    <link href="https://github.com/AmbiML/sparrow-kata-full" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eycorsican/leaf</title>
+    <updated>2022-10-21T01:36:41Z</updated>
+    <id>tag:github.com,2022-10-21:/eycorsican/leaf</id>
+    <link href="https://github.com/eycorsican/leaf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A versatile and efficient proxy framework with nice features suitable for various use cases.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EAimTY/tuic</title>
-    <updated>2022-10-20T01:37:44Z</updated>
-    <id>tag:github.com,2022-10-20:/EAimTY/tuic</id>
-    <link href="https://github.com/EAimTY/tuic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Delicately-TUICed high-performance proxy built on top of the QUIC protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zackradisic/aussieplusplus</title>
+    <updated>2022-10-21T01:36:41Z</updated>
+    <id>tag:github.com,2022-10-21:/zackradisic/aussieplusplus</id>
+    <link href="https://github.com/zackradisic/aussieplusplus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Programming language from down under&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

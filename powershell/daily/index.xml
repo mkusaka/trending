@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-20T01:36:55Z</updated>
+  <updated>2022-10-21T01:36:02Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MicrosoftDocs/azure-docs-powershell</title>
-    <updated>2022-10-20T01:36:55Z</updated>
-    <id>tag:github.com,2022-10-20:/MicrosoftDocs/azure-docs-powershell</id>
-    <link href="https://github.com/MicrosoftDocs/azure-docs-powershell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Azure PowerShell documentation&lt;/h1&gt; &#xA;&lt;p&gt;This repository hosts the documentation source for the Azure PowerShell module, published on &lt;a href=&#34;https://docs.microsoft.com/powershell/azure/&#34;&gt;docs.microsoft.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Public contributions&lt;/h2&gt; &#xA;&lt;p&gt;We welcome public contributions to the Azure PowerShell documentation! There are two types of documentation hosted in this repository, with different workflows:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;To submit a change for &lt;em&gt;conceptual&lt;/em&gt; documentation (content in the &lt;code&gt;docs-conceptual&lt;/code&gt; directory) make a pull request against this repository. Keep in mind that there&#39;s conceptual documentation maintained for every major version - update all of the affected files!&lt;/li&gt; &#xA; &lt;li&gt;To submit a change for &lt;em&gt;previous versions&#39; reference&lt;/em&gt; documentation (all documentation for AzureRM and Az 1.x), make a pull request against this repository. This will only update the online help available for these modules, as no old versions are rebuilt if the help is updated.&lt;/li&gt; &#xA; &lt;li&gt;To submit a change for the &lt;em&gt;current version&#39;s reference&lt;/em&gt; please make a pull request against &lt;a href=&#34;https://github.com/azure/azure-powershell&#34;&gt;azure/azure-powershell&lt;/a&gt;. This reference is generated from the source code, and is also used in the command-line help.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Microsoft Open Source Code of Conduct&lt;/h2&gt; &#xA;&lt;p&gt;This project uses &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/&#34;&gt;Microsoft Open Source Code of Conduct&lt;/a&gt;. For more information, see &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/faq/&#34;&gt;Code of Conduct FAQs&lt;/a&gt; or contact &lt;a href=&#34;mailto:opencode@microsoft.com&#34;&gt;opencode@microsoft.com&lt;/a&gt; for further questions or comments.&lt;/p&gt;</summary>
-  </entry>
 </feed>

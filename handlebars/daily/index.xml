@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-20T01:34:07Z</updated>
+  <updated>2022-10-21T01:33:17Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jamaljm/Carbon-footprint-calculator</title>
-    <updated>2022-10-20T01:34:07Z</updated>
-    <id>tag:github.com,2022-10-20:/jamaljm/Carbon-footprint-calculator</id>
-    <link href="https://github.com/jamaljm/Carbon-footprint-calculator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brettchalupa/projectbook</title>
+    <updated>2022-10-21T01:33:17Z</updated>
+    <id>tag:github.com,2022-10-21:/brettchalupa/projectbook</id>
+    <link href="https://github.com/brettchalupa/projectbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;100+ project ideas with specifications, mock-ups, and assets for learning any programming language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

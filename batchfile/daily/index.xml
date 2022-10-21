@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-20T01:31:48Z</updated>
+  <updated>2022-10-21T01:31:02Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>camenduru/stable-diffusion-webui-offline</title>
-    <updated>2022-10-20T01:31:48Z</updated>
-    <id>tag:github.com,2022-10-20:/camenduru/stable-diffusion-webui-offline</id>
-    <link href="https://github.com/camenduru/stable-diffusion-webui-offline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This Project Aims for 100% Offline Stable Diffusion (People without internet or with slow internet can get it via USB or CD)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>allegro/dotnet-sdk</title>
+    <updated>2022-10-21T01:31:02Z</updated>
+    <id>tag:github.com,2022-10-21:/allegro/dotnet-sdk</id>
+    <link href="https://github.com/allegro/dotnet-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tudat-team/tudatpy-feedstock</title>
-    <updated>2022-10-20T01:31:48Z</updated>
-    <id>tag:github.com,2022-10-20:/tudat-team/tudatpy-feedstock</id>
-    <link href="https://github.com/tudat-team/tudatpy-feedstock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A conda-smithy repository for tudatpy.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>psomashekar/pram0d-pocket-dist-public</title>
+    <updated>2022-10-21T01:31:02Z</updated>
+    <id>tag:github.com,2022-10-21:/psomashekar/pram0d-pocket-dist-public</id>
+    <link href="https://github.com/psomashekar/pram0d-pocket-dist-public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distribution for pram0d&#39;s pocket cores&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ucoruh/ce103-algorithms-and-programming-I</title>
-    <updated>2022-10-20T01:31:48Z</updated>
-    <id>tag:github.com,2022-10-20:/ucoruh/ce103-algorithms-and-programming-I</id>
-    <link href="https://github.com/ucoruh/ce103-algorithms-and-programming-I" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ce103 algorithms and programming I course notes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>multirex/MuhamadMtrosymuhamad-RDP_FREE-2022</title>
+    <updated>2022-10-21T01:31:02Z</updated>
+    <id>tag:github.com,2022-10-21:/multirex/MuhamadMtrosymuhamad-RDP_FREE-2022</id>
+    <link href="https://github.com/multirex/MuhamadMtrosymuhamad-RDP_FREE-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

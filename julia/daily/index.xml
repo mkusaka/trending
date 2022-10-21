@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-20T01:35:06Z</updated>
+  <updated>2022-10-21T01:34:16Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gaurav-arya/StochasticAD.jl</title>
-    <updated>2022-10-20T01:35:06Z</updated>
-    <id>tag:github.com,2022-10-20:/gaurav-arya/StochasticAD.jl</id>
-    <link href="https://github.com/gaurav-arya/StochasticAD.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Research package for automatic differentiation of programs containing discrete randomness.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brenhinkeller/StaticTools.jl</title>
+    <updated>2022-10-21T01:34:16Z</updated>
+    <id>tag:github.com,2022-10-21:/brenhinkeller/StaticTools.jl</id>
+    <link href="https://github.com/brenhinkeller/StaticTools.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enabling StaticCompiler.jl-based compilation of (some) Julia code to standalone native binaries by avoiding GC allocations and llvmcall-ing all the things!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sl-solution/StatisticalGraphics.jl</title>
-    <updated>2022-10-20T01:35:06Z</updated>
-    <id>tag:github.com,2022-10-20:/sl-solution/StatisticalGraphics.jl</id>
-    <link href="https://github.com/sl-solution/StatisticalGraphics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data visualization in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/ClimaOcean.jl</title>
+    <updated>2022-10-21T01:34:16Z</updated>
+    <id>tag:github.com,2022-10-21:/CliMA/ClimaOcean.jl</id>
+    <link href="https://github.com/CliMA/ClimaOcean.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌎 Ocean component for CliMa&#39;s Earth system model based on Oceananigans&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
