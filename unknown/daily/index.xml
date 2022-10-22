@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-21T01:30:35Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-10-22T01:30:43Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>blockchain-etl/awesome-bigquery-views</title>
-    <updated>2022-10-21T01:30:35Z</updated>
-    <id>tag:github.com,2022-10-21:/blockchain-etl/awesome-bigquery-views</id>
-    <link href="https://github.com/blockchain-etl/awesome-bigquery-views" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful SQL queries for Blockchain ETL datasets in BigQuery.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/WSA</title>
+    <updated>2022-10-22T01:30:43Z</updated>
+    <id>tag:github.com,2022-10-22:/microsoft/WSA</id>
+    <link href="https://github.com/microsoft/WSA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Developer-related issues and feature requests for Windows Subsystem for Android&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bigdatabysumitm/NotesOfYouTubeSQLSeries</title>
-    <updated>2022-10-21T01:30:35Z</updated>
-    <id>tag:github.com,2022-10-21:/bigdatabysumitm/NotesOfYouTubeSQLSeries</id>
-    <link href="https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries" rel="alternate"></link>
+    <title>alexpate/awesome-design-systems</title>
+    <updated>2022-10-22T01:30:43Z</updated>
+    <id>tag:github.com,2022-10-22:/alexpate/awesome-design-systems</id>
+    <link href="https://github.com/alexpate/awesome-design-systems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💅🏻 ⚒ A collection of awesome design systems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MakeYourPet/hexapod</title>
+    <updated>2022-10-22T01:30:43Z</updated>
+    <id>tag:github.com,2022-10-22:/MakeYourPet/hexapod</id>
+    <link href="https://github.com/MakeYourPet/hexapod" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>google/material-design-icons</title>
-    <updated>2022-10-21T01:30:35Z</updated>
-    <id>tag:github.com,2022-10-21:/google/material-design-icons</id>
-    <link href="https://github.com/google/material-design-icons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material Design icons by Google&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
