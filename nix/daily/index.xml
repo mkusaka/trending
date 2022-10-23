@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:34:59Z</updated>
+  <updated>2022-10-23T01:37:15Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clearpathrobotics/nix-ros</title>
-    <updated>2022-10-22T01:34:59Z</updated>
-    <id>tag:github.com,2022-10-22:/clearpathrobotics/nix-ros</id>
-    <link href="https://github.com/clearpathrobotics/nix-ros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HelixLauncher/HelixLauncher</title>
+    <updated>2022-10-23T01:37:15Z</updated>
+    <id>tag:github.com,2022-10-23:/HelixLauncher/HelixLauncher</id>
+    <link href="https://github.com/HelixLauncher/HelixLauncher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Minecraft launcher built on Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Feeld/nix-build</title>
-    <updated>2022-10-22T01:34:59Z</updated>
-    <id>tag:github.com,2022-10-22:/Feeld/nix-build</id>
-    <link href="https://github.com/Feeld/nix-build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DEPRECATED! Do not use. Use https://github.com/Feeld/fld-ks instead&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Misterio77/nix-config</title>
+    <updated>2022-10-23T01:37:15Z</updated>
+    <id>tag:github.com,2022-10-23:/Misterio77/nix-config</id>
+    <link href="https://github.com/Misterio77/nix-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal nixos and home-manager configurations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:50:04Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>smallnest/concurrency-programming-via-rust</title>
+    <updated>2022-10-23T01:50:04Z</updated>
+    <id>tag:github.com,2022-10-23:/smallnest/concurrency-programming-via-rust</id>
+    <link href="https://github.com/smallnest/concurrency-programming-via-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>paritytech/substrate</title>
+    <updated>2022-10-23T01:50:04Z</updated>
+    <id>tag:github.com,2022-10-23:/paritytech/substrate</id>
+    <link href="https://github.com/paritytech/substrate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Substrate: The platform for blockchain innovators&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>risingwavelabs/risingwave</title>
+    <updated>2022-10-23T01:50:04Z</updated>
+    <id>tag:github.com,2022-10-23:/risingwavelabs/risingwave</id>
+    <link href="https://github.com/risingwavelabs/risingwave" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RisingWave: the next-generation streaming database in the cloud.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

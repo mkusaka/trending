@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:45:16Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dmitryme/erlang_localtime</title>
+    <updated>2022-10-23T01:45:16Z</updated>
+    <id>tag:github.com,2022-10-23:/dmitryme/erlang_localtime</id>
+    <link href="https://github.com/dmitryme/erlang_localtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang library for conversion from one local time to another&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seancribbs/eunit_formatters</title>
+    <updated>2022-10-23T01:45:16Z</updated>
+    <id>tag:github.com,2022-10-23:/seancribbs/eunit_formatters</id>
+    <link href="https://github.com/seancribbs/eunit_formatters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Because eunit&#39;s output sucks. Let&#39;s make it better.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>relaypro-open/imetrics</title>
+    <updated>2022-10-23T01:45:16Z</updated>
+    <id>tag:github.com,2022-10-23:/relaypro-open/imetrics</id>
+    <link href="https://github.com/relaypro-open/imetrics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight Erlang application for gathering metrics. Focus on easy instrumentation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

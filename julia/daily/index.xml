@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:34:14Z</updated>
+  <updated>2022-10-23T01:36:12Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SymbolicML/DynamicExpressions.jl</title>
-    <updated>2022-10-22T01:34:14Z</updated>
-    <id>tag:github.com,2022-10-22:/SymbolicML/DynamicExpressions.jl</id>
-    <link href="https://github.com/SymbolicML/DynamicExpressions.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ridiculously fast dynamic expressions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>liuyxpp/MakiePublication.jl</title>
-    <updated>2022-10-22T01:34:14Z</updated>
-    <id>tag:github.com,2022-10-22:/liuyxpp/MakiePublication.jl</id>
-    <link href="https://github.com/liuyxpp/MakiePublication.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for producing publication quality figures based on Makie.jl.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

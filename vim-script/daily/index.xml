@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:38:18Z</updated>
+  <updated>2022-10-23T01:42:02Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>osyo-manga/unite-quickrun_config</title>
-    <updated>2022-10-22T01:38:18Z</updated>
-    <id>tag:github.com,2022-10-22:/osyo-manga/unite-quickrun_config</id>
-    <link href="https://github.com/osyo-manga/unite-quickrun_config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ervandew/supertab</title>
-    <updated>2022-10-22T01:38:18Z</updated>
-    <id>tag:github.com,2022-10-22:/ervandew/supertab</id>
-    <link href="https://github.com/ervandew/supertab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Perform all your vim insert mode completions with Tab&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

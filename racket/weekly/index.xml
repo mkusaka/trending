@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Racket Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:49:48Z</updated>
+  <subtitle>Weekly Trending of Racket in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lemurproject/site-sampling</title>
+    <updated>2022-10-23T01:49:48Z</updated>
+    <id>tag:github.com,2022-10-23:/lemurproject/site-sampling</id>
+    <link href="https://github.com/lemurproject/site-sampling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code to sample forums and check stats on pages and their information content&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AlphaPerfect/alphalang</title>
+    <updated>2022-10-23T01:49:48Z</updated>
+    <id>tag:github.com,2022-10-23:/AlphaPerfect/alphalang</id>
+    <link href="https://github.com/AlphaPerfect/alphalang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the language of alpha&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

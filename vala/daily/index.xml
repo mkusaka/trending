@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:38:14Z</updated>
+  <updated>2022-10-23T01:41:56Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Sweets/tiramisu</title>
-    <updated>2022-10-22T01:38:14Z</updated>
-    <id>tag:github.com,2022-10-22:/Sweets/tiramisu</id>
-    <link href="https://github.com/Sweets/tiramisu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Desktop notifications, the UNIX way&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vala-lang/vala-language-server</title>
+    <updated>2022-10-23T01:41:56Z</updated>
+    <id>tag:github.com,2022-10-23:/vala-lang/vala-language-server</id>
+    <link href="https://github.com/vala-lang/vala-language-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code Intelligence for Vala &amp; Genie&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:48:18Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>marigold-dev/ligo-deku-rpc</title>
+    <updated>2022-10-23T01:48:18Z</updated>
+    <id>tag:github.com,2022-10-23:/marigold-dev/ligo-deku-rpc</id>
+    <link href="https://github.com/marigold-dev/ligo-deku-rpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/poetry2nix</title>
+    <updated>2022-10-23T01:48:18Z</updated>
+    <id>tag:github.com,2022-10-23:/nix-community/poetry2nix</id>
+    <link href="https://github.com/nix-community/poetry2nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert poetry projects to nix automagically [maintainer=@adisbladis]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

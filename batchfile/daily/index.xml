@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:31:04Z</updated>
+  <updated>2022-10-23T01:32:10Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kontur-courses/git-rules</title>
-    <updated>2022-10-22T01:31:04Z</updated>
-    <id>tag:github.com,2022-10-22:/kontur-courses/git-rules</id>
-    <link href="https://github.com/kontur-courses/git-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mgtechshow/Windows-RDP</title>
+    <updated>2022-10-23T01:32:10Z</updated>
+    <id>tag:github.com,2022-10-23:/mgtechshow/Windows-RDP</id>
+    <link href="https://github.com/mgtechshow/Windows-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Rdp By MG TECH SHOW&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nattfsdfd/ngrok_rdp_main</title>
+    <updated>2022-10-23T01:32:10Z</updated>
+    <id>tag:github.com,2022-10-23:/nattfsdfd/ngrok_rdp_main</id>
+    <link href="https://github.com/nattfsdfd/ngrok_rdp_main" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;What is RDP? RDP (Remote Desktop Protocol) is a network communications protocol developed by Microsoft, which allows users to connect to another computer from a remote location. How long does this RDP stay active? This RDP stays active for up to 6 hours. How to use it?&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

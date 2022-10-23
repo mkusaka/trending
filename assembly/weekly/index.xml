@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:43:07Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>boostorg/context</title>
+    <updated>2022-10-23T01:43:07Z</updated>
+    <id>tag:github.com,2022-10-23:/boostorg/context</id>
+    <link href="https://github.com/boostorg/context" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vinodstanur/multitasking-in-avr</title>
+    <updated>2022-10-23T01:43:07Z</updated>
+    <id>tag:github.com,2022-10-23:/vinodstanur/multitasking-in-avr</id>
+    <link href="https://github.com/vinodstanur/multitasking-in-avr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;multitasking-in-avr , a simple demo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Flamingo-OS/bionic</title>
+    <updated>2022-10-23T01:43:07Z</updated>
+    <id>tag:github.com,2022-10-23:/Flamingo-OS/bionic</id>
+    <link href="https://github.com/Flamingo-OS/bionic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

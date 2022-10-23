@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:31:56Z</updated>
+  <updated>2022-10-23T01:33:00Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>6/multitube-socketstream</title>
-    <updated>2022-10-22T01:31:56Z</updated>
-    <id>tag:github.com,2022-10-22:/6/multitube-socketstream</id>
-    <link href="https://github.com/6/multitube-socketstream" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;web app for watching youtube videos in sync with your friends&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jiyinyiyong/article</title>
-    <updated>2022-10-22T01:31:56Z</updated>
-    <id>tag:github.com,2022-10-22:/jiyinyiyong/article</id>
-    <link href="https://github.com/jiyinyiyong/article" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[Deprecated] My aritcles in HTML&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>igroff/caching-proxy</title>
-    <updated>2022-10-22T01:31:56Z</updated>
-    <id>tag:github.com,2022-10-22:/igroff/caching-proxy</id>
-    <link href="https://github.com/igroff/caching-proxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Just that, so far.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

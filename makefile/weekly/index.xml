@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:48:02Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Xilinx/Vitis_Accel_Examples</title>
+    <updated>2022-10-23T01:48:02Z</updated>
+    <id>tag:github.com,2022-10-23:/Xilinx/Vitis_Accel_Examples</id>
+    <link href="https://github.com/Xilinx/Vitis_Accel_Examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vitis_Accel_Examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WerWolv/Tesla-Menu</title>
+    <updated>2022-10-23T01:48:02Z</updated>
+    <id>tag:github.com,2022-10-23:/WerWolv/Tesla-Menu</id>
+    <link href="https://github.com/WerWolv/Tesla-Menu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Nintendo Switch overlay menu&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-telemetry/opentelemetry-proto-go</title>
+    <updated>2022-10-23T01:48:02Z</updated>
+    <id>tag:github.com,2022-10-23:/open-telemetry/opentelemetry-proto-go</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generated code for OpenTelemetry protobuf data model&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

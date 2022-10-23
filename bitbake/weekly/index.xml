@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:43:15Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Stefan-Schmidt/oniro</title>
+    <updated>2022-10-23T01:43:15Z</updated>
+    <id>tag:github.com,2022-10-23:/Stefan-Schmidt/oniro</id>
+    <link href="https://github.com/Stefan-Schmidt/oniro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone of the Oniro repository for TechArena&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Xilinx/meta-browser</title>
+    <updated>2022-10-23T01:43:15Z</updated>
+    <id>tag:github.com,2022-10-23:/Xilinx/meta-browser</id>
+    <link href="https://github.com/Xilinx/meta-browser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

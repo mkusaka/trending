@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:36:48Z</updated>
+  <updated>2022-10-23T01:40:00Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>phuocng/this-vs-that</title>
-    <updated>2022-10-22T01:36:48Z</updated>
-    <id>tag:github.com,2022-10-22:/phuocng/this-vs-that</id>
-    <link href="https://github.com/phuocng/this-vs-that" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;What is the difference between ___ and ___ in the front-end development?&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

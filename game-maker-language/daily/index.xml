@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Game Maker Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:32:58Z</updated>
+  <updated>2022-10-23T01:34:14Z</updated>
   <subtitle>Daily Trending of Game Maker Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ENDESGA/NYKRA_Before</title>
-    <updated>2022-10-22T01:32:58Z</updated>
-    <id>tag:github.com,2022-10-22:/ENDESGA/NYKRA_Before</id>
-    <link href="https://github.com/ENDESGA/NYKRA_Before" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The 7 year journey NYKRA took to become real, via GameMaker - consequently GML; the GameMaker Language, that was used as a way to learn programming, but to also make NYKRA real.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

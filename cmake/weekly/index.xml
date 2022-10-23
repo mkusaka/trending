@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:43:57Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seoulrobotics/sensr_ros_interface</title>
+    <updated>2022-10-23T01:43:57Z</updated>
+    <id>tag:github.com,2022-10-23:/seoulrobotics/sensr_ros_interface</id>
+    <link href="https://github.com/seoulrobotics/sensr_ros_interface" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SENSR M ROS interface&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>manelpuig/rUBot_tutorial_ws</title>
+    <updated>2022-10-23T01:43:57Z</updated>
+    <id>tag:github.com,2022-10-23:/manelpuig/rUBot_tutorial_ws</id>
+    <link href="https://github.com/manelpuig/rUBot_tutorial_ws" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Akagi201/learning-cmake</title>
+    <updated>2022-10-23T01:43:57Z</updated>
+    <id>tag:github.com,2022-10-23:/Akagi201/learning-cmake</id>
+    <link href="https://github.com/Akagi201/learning-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;learning cmake&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

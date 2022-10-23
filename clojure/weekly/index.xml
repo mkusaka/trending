@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:43:55Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nextjournal/clerk-demo</title>
+    <updated>2022-10-23T01:43:55Z</updated>
+    <id>tag:github.com,2022-10-23:/nextjournal/clerk-demo</id>
+    <link href="https://github.com/nextjournal/clerk-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤹 A bucket of interesting Clerk demos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/ordnungsamt</title>
+    <updated>2022-10-23T01:43:55Z</updated>
+    <id>tag:github.com,2022-10-23:/nubank/ordnungsamt</id>
+    <link href="https://github.com/nubank/ordnungsamt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;helping maintain order and consistency across code-bases&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/robocode-clojure</title>
+    <updated>2022-10-23T01:43:55Z</updated>
+    <id>tag:github.com,2022-10-23:/nubank/robocode-clojure</id>
+    <link href="https://github.com/nubank/robocode-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template project for building a Robocode Robot in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:30:43Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-10-23T01:31:27Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/WSA</title>
-    <updated>2022-10-22T01:30:43Z</updated>
-    <id>tag:github.com,2022-10-22:/microsoft/WSA</id>
-    <link href="https://github.com/microsoft/WSA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Developer-related issues and feature requests for Windows Subsystem for Android&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>immunefi-team/Web3-Security-Library</title>
+    <updated>2022-10-23T01:31:27Z</updated>
+    <id>tag:github.com,2022-10-23:/immunefi-team/Web3-Security-Library</id>
+    <link href="https://github.com/immunefi-team/Web3-Security-Library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Information about web3 security and programming tutorials/tools&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alexpate/awesome-design-systems</title>
-    <updated>2022-10-22T01:30:43Z</updated>
-    <id>tag:github.com,2022-10-22:/alexpate/awesome-design-systems</id>
-    <link href="https://github.com/alexpate/awesome-design-systems" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💅🏻 ⚒ A collection of awesome design systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ManfredHu/gua-area</title>
+    <updated>2022-10-23T01:31:27Z</updated>
+    <id>tag:github.com,2022-10-23:/ManfredHu/gua-area</id>
+    <link href="https://github.com/ManfredHu/gua-area" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;famous PDF&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MakeYourPet/hexapod</title>
-    <updated>2022-10-22T01:30:43Z</updated>
-    <id>tag:github.com,2022-10-22:/MakeYourPet/hexapod</id>
-    <link href="https://github.com/MakeYourPet/hexapod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ayush714/data-science-roadmap</title>
+    <updated>2022-10-23T01:31:27Z</updated>
+    <id>tag:github.com,2022-10-23:/ayush714/data-science-roadmap</id>
+    <link href="https://github.com/ayush714/data-science-roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Roadmap for Data Science&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

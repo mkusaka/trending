@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:44:54Z</updated>
+  <subtitle>Weekly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ravi-singh-100/HacktoberFest2022</title>
+    <updated>2022-10-23T01:44:54Z</updated>
+    <id>tag:github.com,2022-10-23:/ravi-singh-100/HacktoberFest2022</id>
+    <link href="https://github.com/ravi-singh-100/HacktoberFest2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an open source repo for Web Developer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>abhinavkashyap061/Dear-Diary</title>
+    <updated>2022-10-23T01:44:54Z</updated>
+    <id>tag:github.com,2022-10-23:/abhinavkashyap061/Dear-Diary</id>
+    <link href="https://github.com/abhinavkashyap061/Dear-Diary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalistic blog website where you can also add your own writings. The database used in this app is MongoDB with EJS used for creating dynamic pages, and express.js for creating local server.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

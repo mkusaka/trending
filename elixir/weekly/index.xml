@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-23T01:44:56Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ash-project/ash</title>
+    <updated>2022-10-23T01:44:56Z</updated>
+    <id>tag:github.com,2022-10-23:/ash-project/ash</id>
+    <link href="https://github.com/ash-project/ash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A declarative and extensible framework for building Elixir applications.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dazuma/erl2ex</title>
+    <updated>2022-10-23T01:44:56Z</updated>
+    <id>tag:github.com,2022-10-23:/dazuma/erl2ex</id>
+    <link href="https://github.com/dazuma/erl2ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Erlang to Elixir transpiler&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixirkoans/elixir-koans</title>
+    <updated>2022-10-23T01:44:56Z</updated>
+    <id>tag:github.com,2022-10-23:/elixirkoans/elixir-koans</id>
+    <link href="https://github.com/elixirkoans/elixir-koans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir learning exercises&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

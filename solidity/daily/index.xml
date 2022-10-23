@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-22T01:37:13Z</updated>
+  <updated>2022-10-23T01:40:40Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jameswenzel/are-we-immutable-yet</title>
-    <updated>2022-10-22T01:37:13Z</updated>
-    <id>tag:github.com,2022-10-22:/jameswenzel/are-we-immutable-yet</id>
-    <link href="https://github.com/jameswenzel/are-we-immutable-yet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contract that checks if the SELFDESTRUCT opcode is still valid on the chain it is deployed to&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>estarriolvetch/solidity-bits</title>
+    <updated>2022-10-23T01:40:40Z</updated>
+    <id>tag:github.com,2022-10-23:/estarriolvetch/solidity-bits</id>
+    <link href="https://github.com/estarriolvetch/solidity-bits" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethereum-optimism/cannon</title>
+    <updated>2022-10-23T01:40:40Z</updated>
+    <id>tag:github.com,2022-10-23:/ethereum-optimism/cannon</id>
+    <link href="https://github.com/ethereum-optimism/cannon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;On chain interactive fault prover for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TheAlgorithms/Solidity</title>
+    <updated>2022-10-23T01:40:40Z</updated>
+    <id>tag:github.com,2022-10-23:/TheAlgorithms/Solidity</id>
+    <link href="https://github.com/TheAlgorithms/Solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Algorithms and data structures implemented in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
