@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:35:03Z</updated>
+  <updated>2022-10-24T01:35:03Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>entur/terraform-aiven-kafka-connect-elasticsearch-sink</title>
-    <updated>2022-10-23T01:35:03Z</updated>
-    <id>tag:github.com,2022-10-23:/entur/terraform-aiven-kafka-connect-elasticsearch-sink</id>
-    <link href="https://github.com/entur/terraform-aiven-kafka-connect-elasticsearch-sink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module for managing Elasticsearch sink connector on Aiven managed KafkaConnect cluster&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ChristianLempa/videos</title>
+    <updated>2022-10-24T01:35:03Z</updated>
+    <id>tag:github.com,2022-10-24:/ChristianLempa/videos</id>
+    <link href="https://github.com/ChristianLempa/videos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is my video documentation. Here you&#39;ll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gruntwork-io/terragrunt-infrastructure-modules-example</title>
+    <updated>2022-10-24T01:35:03Z</updated>
+    <id>tag:github.com,2022-10-24:/gruntwork-io/terragrunt-infrastructure-modules-example</id>
+    <link href="https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repo used to show examples file/folder structures you can use with Terragrunt and Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nozaq/terraform-aws-remote-state-s3-backend</title>
+    <updated>2022-10-24T01:35:03Z</updated>
+    <id>tag:github.com,2022-10-24:/nozaq/terraform-aws-remote-state-s3-backend</id>
+    <link href="https://github.com/nozaq/terraform-aws-remote-state-s3-backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A terraform module to set up remote state management with S3 backend for your account.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

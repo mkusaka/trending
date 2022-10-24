@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:41:36Z</updated>
+  <updated>2022-10-24T01:39:52Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kaushikjadhav01/Online-Food-Ordering-Web-App</title>
-    <updated>2022-10-23T01:41:36Z</updated>
-    <id>tag:github.com,2022-10-23:/kaushikjadhav01/Online-Food-Ordering-Web-App</id>
-    <link href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Online Food Ordering System Website using basic PHP, SQL, HTML &amp; CSS. You can use any one of XAMPP, WAMP or LAMP server to run the Web App&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/vscode-remote-try-sqlserver</title>
+    <updated>2022-10-24T01:39:52Z</updated>
+    <id>tag:github.com,2022-10-24:/microsoft/vscode-remote-try-sqlserver</id>
+    <link href="https://github.com/microsoft/vscode-remote-try-sqlserver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQL Server and Azure SQL sample project for trying out the VS Code Remote - Containers extension&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

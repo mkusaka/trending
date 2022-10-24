@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:39:27Z</updated>
+  <updated>2022-10-24T01:38:26Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gluesql/gluesql</title>
-    <updated>2022-10-23T01:39:27Z</updated>
-    <id>tag:github.com,2022-10-23:/gluesql/gluesql</id>
-    <link href="https://github.com/gluesql/gluesql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GlueSQL is quite sticky. It attaches to anywhere.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>matter-labs/zksync</title>
-    <updated>2022-10-23T01:39:27Z</updated>
-    <id>tag:github.com,2022-10-23:/matter-labs/zksync</id>
-    <link href="https://github.com/matter-labs/zksync" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zkSync: trustless scaling and privacy engine for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

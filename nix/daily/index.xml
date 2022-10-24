@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:37:15Z</updated>
+  <updated>2022-10-24T01:36:54Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HelixLauncher/HelixLauncher</title>
-    <updated>2022-10-23T01:37:15Z</updated>
-    <id>tag:github.com,2022-10-23:/HelixLauncher/HelixLauncher</id>
-    <link href="https://github.com/HelixLauncher/HelixLauncher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Minecraft launcher built on Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kuutamolabs/near-staking-knd</title>
+    <updated>2022-10-24T01:36:54Z</updated>
+    <id>tag:github.com,2022-10-24:/kuutamolabs/near-staking-knd</id>
+    <link href="https://github.com/kuutamolabs/near-staking-knd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A NEAR Staking node distribution by kuutamo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Misterio77/nix-config</title>
-    <updated>2022-10-23T01:37:15Z</updated>
-    <id>tag:github.com,2022-10-23:/Misterio77/nix-config</id>
-    <link href="https://github.com/Misterio77/nix-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal nixos and home-manager configurations.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tiiuae/spectrum</title>
+    <updated>2022-10-24T01:36:54Z</updated>
+    <id>tag:github.com,2022-10-24:/tiiuae/spectrum</id>
+    <link href="https://github.com/tiiuae/spectrum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tiiuae/nixpkgs-spectrum</title>
+    <updated>2022-10-24T01:36:54Z</updated>
+    <id>tag:github.com,2022-10-24:/tiiuae/nixpkgs-spectrum</id>
+    <link href="https://github.com/tiiuae/nixpkgs-spectrum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fork of https://spectrum-os.org/git/nixpkgs/ to store and share WIP patches&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:42:02Z</updated>
+  <updated>2022-10-24T01:40:15Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MTDL9/vim-log-highlighting</title>
+    <updated>2022-10-24T01:40:15Z</updated>
+    <id>tag:github.com,2022-10-24:/MTDL9/vim-log-highlighting</id>
+    <link href="https://github.com/MTDL9/vim-log-highlighting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Syntax highlighting for generic log files in VIM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:39:15Z</updated>
+  <updated>2022-10-24T01:38:20Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>darklang/dark</title>
-    <updated>2022-10-23T01:39:15Z</updated>
-    <id>tag:github.com,2022-10-23:/darklang/dark</id>
-    <link href="https://github.com/darklang/dark" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Client, backend, and services for Dark: https://darklang.com&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

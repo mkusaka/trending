@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:38:10Z</updated>
+  <updated>2022-10-24T01:37:37Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mirza2804/testfreeRdp</title>
-    <updated>2022-10-23T01:38:10Z</updated>
-    <id>tag:github.com,2022-10-23:/mirza2804/testfreeRdp</id>
-    <link href="https://github.com/mirza2804/testfreeRdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows2019RDP-US Windows Server 2019 Github with RDP Access (ngrok US) Create a free VPS with 2cpu-7gb Ram FREE with Github: For Asia Wait Click Fork in the right corner of the screen to save it to your Github. Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN In Github go to Settings&gt; Secrets&gt; New repository secret In Name: enter NGROK…&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;testfreeRdp&lt;/h1&gt; &#xA;&lt;p&gt;Windows2019RDP-US Windows Server 2019 Github with RDP Access (ngrok US)&lt;br&gt; Create a free VPS with 2cpu-7gb Ram FREE with Github: For Asia Wait Click Fork in the right corner of the screen to save it to your Github. Visit &lt;a href=&#34;https://dashboard.ngrok.com&#34;&gt;https://dashboard.ngrok.com&lt;/a&gt; to get NGROK_AUTH_TOKEN In Github go to Settings&amp;gt; Secrets&amp;gt; New repository secret In Name: enter NGROK_AUTH_TOKEN In Value: visit &lt;a href=&#34;https://dashboard.ngrok.com/auth/your-authtoken&#34;&gt;https://dashboard.ngrok.com/auth/your-authtoken&lt;/a&gt; Copy and Paste Your Authtoken into Press Add secret Go to Action&amp;gt; CI&amp;gt; Run workflow Reload the page and press CI&amp;gt; build Press the down arrow on Connect To Your RDP to get IP, User, Password. IF MY REPO GOT DELETED,ON YOUR GITHUB GO TO .github/workflows &amp;gt; main.yml AND EDIT NEW LINK TO YOUR REPO. ALL .BAT in Files FOLDER PLEASE DON&#39;T MINING CRYPTO AGAIN *&lt;/p&gt;</summary>
-  </entry>
 </feed>

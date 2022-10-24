@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:40:40Z</updated>
+  <updated>2022-10-24T01:39:09Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>estarriolvetch/solidity-bits</title>
-    <updated>2022-10-23T01:40:40Z</updated>
-    <id>tag:github.com,2022-10-23:/estarriolvetch/solidity-bits</id>
-    <link href="https://github.com/estarriolvetch/solidity-bits" rel="alternate"></link>
+    <title>Poor4ever/Some-defivuln-exp</title>
+    <updated>2022-10-24T01:39:09Z</updated>
+    <id>tag:github.com,2022-10-24:/Poor4ever/Some-defivuln-exp</id>
+    <link href="https://github.com/Poor4ever/Some-defivuln-exp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethereum-optimism/cannon</title>
-    <updated>2022-10-23T01:40:40Z</updated>
-    <id>tag:github.com,2022-10-23:/ethereum-optimism/cannon</id>
-    <link href="https://github.com/ethereum-optimism/cannon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;On chain interactive fault prover for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheAlgorithms/Solidity</title>
-    <updated>2022-10-23T01:40:40Z</updated>
-    <id>tag:github.com,2022-10-23:/TheAlgorithms/Solidity</id>
-    <link href="https://github.com/TheAlgorithms/Solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Algorithms and data structures implemented in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brockelmore/solvm</title>
+    <updated>2022-10-24T01:39:09Z</updated>
+    <id>tag:github.com,2022-10-24:/brockelmore/solvm</id>
+    <link href="https://github.com/brockelmore/solvm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;evm inception: the evm inside the evm via yul and solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

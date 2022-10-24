@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:33:52Z</updated>
+  <updated>2022-10-24T01:33:48Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vorce/kino_ecto</title>
-    <updated>2022-10-23T01:33:52Z</updated>
-    <id>tag:github.com,2022-10-23:/vorce/kino_ecto</id>
-    <link href="https://github.com/vorce/kino_ecto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ecto utilities with Kino for Livebook&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dbernheisel/phoenix_seo</title>
+    <updated>2022-10-24T01:33:48Z</updated>
+    <id>tag:github.com,2022-10-24:/dbernheisel/phoenix_seo</id>
+    <link href="https://github.com/dbernheisel/phoenix_seo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SEO for Phoenix Apps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>edgurgel/httpoison</title>
-    <updated>2022-10-23T01:33:52Z</updated>
-    <id>tag:github.com,2022-10-23:/edgurgel/httpoison</id>
-    <link href="https://github.com/edgurgel/httpoison" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yet Another HTTP client for Elixir powered by hackney&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mirego/accent</title>
+    <updated>2022-10-24T01:33:48Z</updated>
+    <id>tag:github.com,2022-10-24:/mirego/accent</id>
+    <link href="https://github.com/mirego/accent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The first developer-oriented translation tool. True asynchronous flow between translators and your team.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

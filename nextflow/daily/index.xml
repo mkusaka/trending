@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:37:13Z</updated>
+  <updated>2022-10-24T01:36:52Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>labsyspharm/mcmicro</title>
-    <updated>2022-10-23T01:37:13Z</updated>
-    <id>tag:github.com,2022-10-23:/labsyspharm/mcmicro</id>
-    <link href="https://github.com/labsyspharm/mcmicro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multiple-choice microscopy pipeline&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

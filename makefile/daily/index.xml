@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:36:55Z</updated>
+  <updated>2022-10-24T01:36:39Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>chainguard-dev/osquery-defense-kit</title>
-    <updated>2022-10-23T01:36:55Z</updated>
-    <id>tag:github.com,2022-10-23:/chainguard-dev/osquery-defense-kit</id>
-    <link href="https://github.com/chainguard-dev/osquery-defense-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Production-ready detection &amp; response queries for osquery&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

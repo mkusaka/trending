@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:42:05Z</updated>
+  <updated>2022-10-24T01:40:17Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>flawiddsouza/Restfox</title>
+    <updated>2022-10-24T01:40:17Z</updated>
+    <id>tag:github.com,2022-10-24:/flawiddsouza/Restfox</id>
+    <link href="https://github.com/flawiddsouza/Restfox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Offline-first web HTTP client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nuxt/modules</title>
+    <updated>2022-10-24T01:40:17Z</updated>
+    <id>tag:github.com,2022-10-24:/nuxt/modules</id>
+    <link href="https://github.com/nuxt/modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Discover the list of modules to supercharge your Nuxt project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sftfjugg/vAdmin-web</title>
+    <updated>2022-10-24T01:40:17Z</updated>
+    <id>tag:github.com,2022-10-24:/sftfjugg/vAdmin-web</id>
+    <link href="https://github.com/sftfjugg/vAdmin-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Open Policy Agent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:37:31Z</updated>
+  <updated>2022-10-24T01:37:06Z</updated>
   <subtitle>Daily Trending of Open Policy Agent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cisagov/ScubaGear</title>
-    <updated>2022-10-23T01:37:31Z</updated>
-    <id>tag:github.com,2022-10-23:/cisagov/ScubaGear</id>
-    <link href="https://github.com/cisagov/ScubaGear" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automation to assess the state of your M365 tenant against CISA&#39;s baselines&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

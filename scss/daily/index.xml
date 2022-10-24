@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-23T01:40:00Z</updated>
+  <updated>2022-10-24T01:38:46Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>panr/hugo-theme-terminal</title>
+    <updated>2022-10-24T01:38:46Z</updated>
+    <id>tag:github.com,2022-10-24:/panr/hugo-theme-terminal</id>
+    <link href="https://github.com/panr/hugo-theme-terminal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple, retro theme for Hugo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
