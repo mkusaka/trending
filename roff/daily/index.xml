@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-24T01:38:23Z</updated>
+  <updated>2022-10-25T01:39:21Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chaoss/grimoirelab</title>
-    <updated>2022-10-24T01:38:23Z</updated>
-    <id>tag:github.com,2022-10-24:/chaoss/grimoirelab</id>
-    <link href="https://github.com/chaoss/grimoirelab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GrimoireLab: toolset for software development analytics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PatrickHentz/A-First-Book-of-C-Exercises-</title>
+    <updated>2022-10-25T01:39:21Z</updated>
+    <id>tag:github.com,2022-10-25:/PatrickHentz/A-First-Book-of-C-Exercises-</id>
+    <link href="https://github.com/PatrickHentz/A-First-Book-of-C-Exercises-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All work done in this book&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

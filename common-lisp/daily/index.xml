@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-24T01:32:53Z</updated>
+  <updated>2022-10-25T01:33:00Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ralt/ralt-site</title>
-    <updated>2022-10-24T01:32:53Z</updated>
-    <id>tag:github.com,2022-10-24:/ralt/ralt-site</id>
-    <link href="https://github.com/ralt/ralt-site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common Lisp Playground&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ralt-site&lt;/h1&gt; &#xA;&lt;p&gt;This is my first Common Lisp project. There&#39;s not much to look at, it&#39;s mostly full of beginners stuff. This project is my playground for Web Lisp.&lt;/p&gt;</summary>
-  </entry>
 </feed>

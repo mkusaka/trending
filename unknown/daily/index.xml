@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-24T01:31:26Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-10-25T01:31:25Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ahkarami/Deep-Learning-in-Production</title>
-    <updated>2022-10-24T01:31:26Z</updated>
-    <id>tag:github.com,2022-10-24:/ahkarami/Deep-Learning-in-Production</id>
-    <link href="https://github.com/ahkarami/Deep-Learning-in-Production" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In this repository, I will share some useful notes and references about deploying deep learning-based models in production.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TelegramMessenger/telemint</title>
+    <updated>2022-10-25T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-25:/TelegramMessenger/telemint</id>
+    <link href="https://github.com/TelegramMessenger/telemint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Telegram Auction Platform smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>commclassroom/roadmaps</title>
-    <updated>2022-10-24T01:31:26Z</updated>
-    <id>tag:github.com,2022-10-24:/commclassroom/roadmaps</id>
-    <link href="https://github.com/commclassroom/roadmaps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains the list of communities and job portals you can join and apply to.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anonystick/anonystick</title>
+    <updated>2022-10-25T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-25:/anonystick/anonystick</id>
+    <link href="https://github.com/anonystick/anonystick" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CodingForCrypt0/MagicEden-minting-bot</title>
-    <updated>2022-10-24T01:31:26Z</updated>
-    <id>tag:github.com,2022-10-24:/CodingForCrypt0/MagicEden-minting-bot</id>
-    <link href="https://github.com/CodingForCrypt0/MagicEden-minting-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Private Solana Minting Bot | MagicEden Mint Bot Monkelabs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ChristianLempa/cheat-sheets</title>
+    <updated>2022-10-25T01:31:25Z</updated>
+    <id>tag:github.com,2022-10-25:/ChristianLempa/cheat-sheets</id>
+    <link href="https://github.com/ChristianLempa/cheat-sheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is my personal knowledge-base. Here you&#39;ll find code-snippets, technical documentation, and command reference for various tools, and technologies.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

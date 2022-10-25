@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-24T01:37:44Z</updated>
+  <updated>2022-10-25T01:38:33Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SWI-Prolog/packages-plunit</title>
+    <updated>2022-10-25T01:38:33Z</updated>
+    <id>tag:github.com,2022-10-25:/SWI-Prolog/packages-plunit</id>
+    <link href="https://github.com/SWI-Prolog/packages-plunit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The SWI-Prolog Unit Testing library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SWI-Prolog/packages-redis</title>
+    <updated>2022-10-25T01:38:33Z</updated>
+    <id>tag:github.com,2022-10-25:/SWI-Prolog/packages-redis</id>
+    <link href="https://github.com/SWI-Prolog/packages-redis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Redis client library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SWI-Prolog/packages-paxos</title>
+    <updated>2022-10-25T01:38:33Z</updated>
+    <id>tag:github.com,2022-10-25:/SWI-Prolog/packages-paxos</id>
+    <link href="https://github.com/SWI-Prolog/packages-paxos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SWI-Prolog replicating key-value store&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

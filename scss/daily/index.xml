@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-24T01:38:46Z</updated>
+  <updated>2022-10-25T01:39:47Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>panr/hugo-theme-terminal</title>
-    <updated>2022-10-24T01:38:46Z</updated>
-    <id>tag:github.com,2022-10-24:/panr/hugo-theme-terminal</id>
-    <link href="https://github.com/panr/hugo-theme-terminal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple, retro theme for Hugo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rundocs/jekyll-rtd-theme</title>
+    <updated>2022-10-25T01:39:47Z</updated>
+    <id>tag:github.com,2022-10-25:/rundocs/jekyll-rtd-theme</id>
+    <link href="https://github.com/rundocs/jekyll-rtd-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Just another documentation theme compatible with GitHub Pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>catppuccin/obsidian</title>
+    <updated>2022-10-25T01:39:47Z</updated>
+    <id>tag:github.com,2022-10-25:/catppuccin/obsidian</id>
+    <link href="https://github.com/catppuccin/obsidian" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💎 Soothing pastel theme for Obsidian&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>panr/hugo-theme-hello-friend</title>
+    <updated>2022-10-25T01:39:47Z</updated>
+    <id>tag:github.com,2022-10-25:/panr/hugo-theme-hello-friend</id>
+    <link href="https://github.com/panr/hugo-theme-hello-friend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pretty basic theme for Hugo that covers all of the essentials. All you have to do is start typing!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

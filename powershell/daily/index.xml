@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-24T01:37:37Z</updated>
+  <updated>2022-10-25T01:38:25Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Epitech/coding-style-checker</title>
+    <updated>2022-10-25T01:38:25Z</updated>
+    <id>tag:github.com,2022-10-25:/Epitech/coding-style-checker</id>
+    <link href="https://github.com/Epitech/coding-style-checker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Scripts to generate coding style reports&lt;/h2&gt; &#xA;&lt;h3&gt;Linux&lt;/h3&gt; &#xA;&lt;p&gt;Requirement :&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/install/&#34;&gt;Docker&lt;/a&gt; installed&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Use &lt;code&gt;coding-style.sh&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Windows&lt;/h3&gt; &#xA;&lt;p&gt;Requirements :&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.docker.com/engine/install/&#34;&gt;Docker&lt;/a&gt; installed&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows&#34;&gt;Powershell&lt;/a&gt; installed&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Use &lt;code&gt;coding-style.ps1&lt;/code&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
