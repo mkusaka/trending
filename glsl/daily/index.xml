@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-25T01:34:23Z</updated>
+  <updated>2022-10-26T01:34:36Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shadow2560/switch_AIO_LS_pack</title>
-    <updated>2022-10-25T01:34:23Z</updated>
-    <id>tag:github.com,2022-10-25:/shadow2560/switch_AIO_LS_pack</id>
-    <link href="https://github.com/shadow2560/switch_AIO_LS_pack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pack AIO pour la SD de la switch&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

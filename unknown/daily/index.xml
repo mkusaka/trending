@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-25T01:31:25Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-10-26T01:31:15Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TelegramMessenger/telemint</title>
-    <updated>2022-10-25T01:31:25Z</updated>
-    <id>tag:github.com,2022-10-25:/TelegramMessenger/telemint</id>
-    <link href="https://github.com/TelegramMessenger/telemint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Telegram Auction Platform smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/azure-rest-api-specs</title>
+    <updated>2022-10-26T01:31:15Z</updated>
+    <id>tag:github.com,2022-10-26:/Azure/azure-rest-api-specs</id>
+    <link href="https://github.com/Azure/azure-rest-api-specs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The source for REST API specifications for Microsoft Azure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>anonystick/anonystick</title>
-    <updated>2022-10-25T01:31:25Z</updated>
-    <id>tag:github.com,2022-10-25:/anonystick/anonystick</id>
-    <link href="https://github.com/anonystick/anonystick" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dolevshor/azure-orphan-resources</title>
+    <updated>2022-10-26T01:31:15Z</updated>
+    <id>tag:github.com,2022-10-26:/dolevshor/azure-orphan-resources</id>
+    <link href="https://github.com/dolevshor/azure-orphan-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Centralize orphan resources in Azure environments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ChristianLempa/cheat-sheets</title>
-    <updated>2022-10-25T01:31:25Z</updated>
-    <id>tag:github.com,2022-10-25:/ChristianLempa/cheat-sheets</id>
-    <link href="https://github.com/ChristianLempa/cheat-sheets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is my personal knowledge-base. Here you&#39;ll find code-snippets, technical documentation, and command reference for various tools, and technologies.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bumingbaipod/podcast</title>
+    <updated>2022-10-26T01:31:15Z</updated>
+    <id>tag:github.com,2022-10-26:/bumingbaipod/podcast</id>
+    <link href="https://github.com/bumingbaipod/podcast" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。 版权所有 ©️ 不明白播客 bumingbai.net&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

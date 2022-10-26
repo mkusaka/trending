@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-25T01:39:48Z</updated>
+  <updated>2022-10-26T01:39:08Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>taccck/KenoSurvivors</title>
-    <updated>2022-10-25T01:39:48Z</updated>
-    <id>tag:github.com,2022-10-25:/taccck/KenoSurvivors</id>
-    <link href="https://github.com/taccck/KenoSurvivors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Habrador/Unity-Advanced-Shaders-Tutorial</title>
+    <updated>2022-10-26T01:39:08Z</updated>
+    <id>tag:github.com,2022-10-26:/Habrador/Unity-Advanced-Shaders-Tutorial</id>
+    <link href="https://github.com/Habrador/Unity-Advanced-Shaders-Tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementation of advanced shaders in Unity like raytracing, interior mapping, parallax mapping&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

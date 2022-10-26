@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-25T01:41:05Z</updated>
+  <updated>2022-10-26T01:40:39Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mhinz/vim-grepper</title>
-    <updated>2022-10-25T01:41:05Z</updated>
-    <id>tag:github.com,2022-10-25:/mhinz/vim-grepper</id>
-    <link href="https://github.com/mhinz/vim-grepper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👾 Helps you win at grep.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim-scripts/DoxygenToolkit.vim</title>
-    <updated>2022-10-25T01:41:05Z</updated>
-    <id>tag:github.com,2022-10-25:/vim-scripts/DoxygenToolkit.vim</id>
-    <link href="https://github.com/vim-scripts/DoxygenToolkit.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simplify Doxygen documentation in C, C++, Python.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>szw/vim-maximizer</title>
+    <updated>2022-10-26T01:40:39Z</updated>
+    <id>tag:github.com,2022-10-26:/szw/vim-maximizer</id>
+    <link href="https://github.com/szw/vim-maximizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maximizes and restores the current window in Vim.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

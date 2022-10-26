@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-25T01:35:04Z</updated>
+  <updated>2022-10-26T01:35:12Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>upenn-cis5520/08-monads</title>
-    <updated>2022-10-25T01:35:04Z</updated>
-    <id>tag:github.com,2022-10-25:/upenn-cis5520/08-monads</id>
-    <link href="https://github.com/upenn-cis5520/08-monads" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lucasvreis/organon</title>
-    <updated>2022-10-25T01:35:04Z</updated>
-    <id>tag:github.com,2022-10-25:/lucasvreis/organon</id>
-    <link href="https://github.com/lucasvreis/organon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🕮 WIP — view and generate static websites from your Org files. Built with focus on being customizable, robust and compatible with org-roam. For an overview of current development, see the link below.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NelosG/fp-tests</title>
-    <updated>2022-10-25T01:35:04Z</updated>
-    <id>tag:github.com,2022-10-25:/NelosG/fp-tests</id>
-    <link href="https://github.com/NelosG/fp-tests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Haskell homework tests&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FP homework-tests&lt;/h1&gt; &#xA;&lt;p&gt;Положите свои решения в &lt;code&gt;src/HW+/T*.hs&lt;/code&gt;. Тесты запускаются командой &lt;code&gt;stack test hw+:t*&lt;/code&gt;, где вместо &lt;code&gt;+&lt;/code&gt; нужно написать номер домашнего задания, а вместо &lt;code&gt;*&lt;/code&gt; нужно написать номер тестируемого модуля. Все тесты запускаются командой &lt;code&gt;stack test hw+&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/NelosG/fp-tests/raw/master/Task.md&#34;&gt;Задание&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Создание приватного репозитория&lt;/h1&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Создайте пустой приватный репозиторий.&lt;/li&gt; &#xA; &lt;li&gt;Сделайте &lt;em&gt;bare&lt;/em&gt; клон этого репозитория:&lt;code&gt;git clone --bare https://github.com/NelosG/fp-tests.git&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Перейдите в созданную папку:&lt;code&gt;cd fp-tests.git&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Сделайте пуш в ваш приватный репозиторий: &lt;code&gt;git push --mirror &amp;lt;your rep&amp;gt;&lt;/code&gt; Это позволит сохранить историю коммитов для последующей подгрузки новых тестов.&lt;/li&gt; &#xA; &lt;li&gt;Склонируйте ваш репозиторий и перейдите в него.&lt;/li&gt; &#xA; &lt;li&gt;Добавьте удаленный репозиторий:&lt;code&gt;git remote add upstream https://github.com/NelosG/fp-tests.git&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Готово&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Теперь вы можете подгружать новые тесты командой:&lt;code&gt;git pull upstream master&lt;/code&gt;&lt;/p&gt;</summary>
+    <title>TobBrandt/vector-instances-collections</title>
+    <updated>2022-10-26T01:35:12Z</updated>
+    <id>tag:github.com,2022-10-26:/TobBrandt/vector-instances-collections</id>
+    <link href="https://github.com/TobBrandt/vector-instances-collections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This package defines instances of the Foldable, Unfoldable, Collection, Sequence and Indexed classes from Data.Collections for all pure Vector types (those found in Data.Vector, Data.Vector.Unboxed, Data.Vector.Primitive, Data.Vector.Storable).&lt;/p&gt;</summary>
   </entry>
 </feed>

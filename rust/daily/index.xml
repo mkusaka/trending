@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-25T01:39:24Z</updated>
+  <updated>2022-10-26T01:38:39Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>plotters-rs/plotters</title>
-    <updated>2022-10-25T01:39:24Z</updated>
-    <id>tag:github.com,2022-10-25:/plotters-rs/plotters</id>
-    <link href="https://github.com/plotters-rs/plotters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AlfioEmanueleFresta/xdg-credentials-portal</title>
+    <updated>2022-10-26T01:38:39Z</updated>
+    <id>tag:github.com,2022-10-26:/AlfioEmanueleFresta/xdg-credentials-portal</id>
+    <link href="https://github.com/AlfioEmanueleFresta/xdg-credentials-portal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FIDO2 (WebAuthn) and FIDO U2F platform library for Linux written in Rust; includes a proposal for a new D-Bus Portal interface for FIDO2, accessible from Flatpak apps and Snaps 🔑&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spacejam/sled</title>
-    <updated>2022-10-25T01:39:24Z</updated>
-    <id>tag:github.com,2022-10-25:/spacejam/sled</id>
-    <link href="https://github.com/spacejam/sled" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the champagne of beta embedded databases&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pop-os/cosmic-text</title>
+    <updated>2022-10-26T01:38:39Z</updated>
+    <id>tag:github.com,2022-10-26:/pop-os/cosmic-text</id>
+    <link href="https://github.com/pop-os/cosmic-text" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Rust multi-line text handling&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

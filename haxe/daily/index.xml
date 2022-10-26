@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-25T01:35:02Z</updated>
+  <updated>2022-10-26T01:35:12Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Yoshubs/Hypnos-Lullaby</title>
+    <updated>2022-10-26T01:35:12Z</updated>
+    <id>tag:github.com,2022-10-26:/Yoshubs/Hypnos-Lullaby</id>
+    <link href="https://github.com/Yoshubs/Hypnos-Lullaby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Hypno&#39;s Lullaby&lt;/h1&gt; &#xA;&lt;p&gt;Uh, it&#39;s built on Psych Engine and programmed by Ash and Yoshubs, idk you dont really need much of a description I just dont wanna see psych engine here lmao &lt;a href=&#34;https://github.com/ShadowMario/FNF-PsychEngine&#34;&gt;Psych Engine&lt;/a&gt; is by shadowmario&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>PopcornColonell/hypnosource</title>
+    <updated>2022-10-26T01:35:12Z</updated>
+    <id>tag:github.com,2022-10-26:/PopcornColonell/hypnosource</id>
+    <link href="https://github.com/PopcornColonell/hypnosource" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;hpyno lullabyino&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Leather128/FabricEngine</title>
+    <updated>2022-10-26T01:35:12Z</updated>
+    <id>tag:github.com,2022-10-26:/Leather128/FabricEngine</id>
+    <link href="https://github.com/Leather128/FabricEngine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yes I do infact exist :O&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fabric Engine&lt;/h1&gt; &#xA;&lt;p&gt;wow you&#39;re trans gener??? that&#39;s so cool!!!&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://pbs.twimg.com/media/FfcpMEiaMAA0skp?format=jpg&amp;amp;name=small&#34; alt=&#34;cat&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;har har har har&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Leather128/FabricEngine/raw/main/assets/funkin/images/freddy.png?raw=true&#34; alt=&#34;freddy&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
