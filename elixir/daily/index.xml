@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:34:12Z</updated>
+  <updated>2022-10-27T01:35:06Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>asciinema/asciinema-server</title>
-    <updated>2022-10-26T01:34:12Z</updated>
-    <id>tag:github.com,2022-10-26:/asciinema/asciinema-server</id>
-    <link href="https://github.com/asciinema/asciinema-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web app for hosting asciicasts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kipcole9/image</title>
+    <updated>2022-10-27T01:35:06Z</updated>
+    <id>tag:github.com,2022-10-27:/kipcole9/image</id>
+    <link href="https://github.com/kipcole9/image" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Image processing for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

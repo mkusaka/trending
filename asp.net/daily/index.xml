@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASP.NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:32:18Z</updated>
+  <updated>2022-10-27T01:33:24Z</updated>
   <subtitle>Daily Trending of ASP.NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DevExpress-Examples/how-to-group-date-time-values-e1875</title>
-    <updated>2022-10-26T01:32:18Z</updated>
-    <id>tag:github.com,2022-10-26:/DevExpress-Examples/how-to-group-date-time-values-e1875</id>
-    <link href="https://github.com/DevExpress-Examples/how-to-group-date-time-values-e1875" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This example shows how to group date-time values in Pivot Grid for Web Forms.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DevExpress-Examples/aspxpivotgrid-how-to-calculate-running-totals-t590001</title>
-    <updated>2022-10-26T01:32:18Z</updated>
-    <id>tag:github.com,2022-10-26:/DevExpress-Examples/aspxpivotgrid-how-to-calculate-running-totals-t590001</id>
-    <link href="https://github.com/DevExpress-Examples/aspxpivotgrid-how-to-calculate-running-totals-t590001" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This example demonstrates how to calculate running totals in Pivot Grid for Web Forms.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DevExpress-Examples/how-to-add-unbound-fields-e1892</title>
-    <updated>2022-10-26T01:32:18Z</updated>
-    <id>tag:github.com,2022-10-26:/DevExpress-Examples/how-to-add-unbound-fields-e1892</id>
-    <link href="https://github.com/DevExpress-Examples/how-to-add-unbound-fields-e1892" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This example shows how to add unbound fields in Pivot Grid for Web Forms.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

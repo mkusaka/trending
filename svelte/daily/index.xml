@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:39:48Z</updated>
+  <updated>2022-10-27T01:40:24Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lemmoor/jigsaw-svelte</title>
-    <updated>2022-10-26T01:39:48Z</updated>
-    <id>tag:github.com,2022-10-26:/lemmoor/jigsaw-svelte</id>
-    <link href="https://github.com/lemmoor/jigsaw-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web app where you can solve a jigsaw puzzle with a random image or your own.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>canadaduane/soliloquy</title>
-    <updated>2022-10-26T01:39:48Z</updated>
-    <id>tag:github.com,2022-10-26:/canadaduane/soliloquy</id>
-    <link href="https://github.com/canadaduane/soliloquy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Give voice to every aspect of your intelligence&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

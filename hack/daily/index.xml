@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:35:06Z</updated>
+  <updated>2022-10-27T01:36:04Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MadhushaPrasad/Diagon-Alley</title>
-    <updated>2022-10-26T01:35:06Z</updated>
-    <id>tag:github.com,2022-10-26:/MadhushaPrasad/Diagon-Alley</id>
-    <link href="https://github.com/MadhushaPrasad/Diagon-Alley" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Happy Hacktober! This is a beginner friendly repository made specifically for Hacktoberfest that helps you get your first PR.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LuisGuilh3rme/PWNoite-Gui</title>
-    <updated>2022-10-26T01:35:06Z</updated>
-    <id>tag:github.com,2022-10-26:/LuisGuilh3rme/PWNoite-Gui</id>
-    <link href="https://github.com/LuisGuilh3rme/PWNoite-Gui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

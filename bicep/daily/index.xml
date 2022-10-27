@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:32:27Z</updated>
+  <updated>2022-10-27T01:33:32Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/function-app-arm-templates</title>
+    <updated>2022-10-27T01:33:32Z</updated>
+    <id>tag:github.com,2022-10-27:/Azure-Samples/function-app-arm-templates</id>
+    <link href="https://github.com/Azure-Samples/function-app-arm-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo contains Azure Resource Manager templates for deploying Function App with recommended settings and best practices.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/azure-devops-templates-iac</title>
+    <updated>2022-10-27T01:33:32Z</updated>
+    <id>tag:github.com,2022-10-27:/Azure/azure-devops-templates-iac</id>
+    <link href="https://github.com/Azure/azure-devops-templates-iac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository of reusable Azure DevOps pipelines YAML definitions oriented with Infrastructure as Code deployments in mind.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

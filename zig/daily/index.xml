@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:40:53Z</updated>
+  <updated>2022-10-27T01:41:22Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BanchouBoo/accord</title>
-    <updated>2022-10-26T01:40:53Z</updated>
-    <id>tag:github.com,2022-10-26:/BanchouBoo/accord</id>
-    <link href="https://github.com/BanchouBoo/accord" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple argument parser for Zig&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Himujjal/zig-json5</title>
+    <updated>2022-10-27T01:41:22Z</updated>
+    <id>tag:github.com,2022-10-27:/Himujjal/zig-json5</id>
+    <link href="https://github.com/Himujjal/zig-json5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A JSON5 parser/stringifier for Zig resembling the std.json API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jacobly0/tizr80</title>
+    <updated>2022-10-27T01:41:22Z</updated>
+    <id>tag:github.com,2022-10-27:/jacobly0/tizr80</id>
+    <link href="https://github.com/jacobly0/tizr80" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TiZr80, a TI-84+ CE/TI-83 Premium CE calculator emulator core&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

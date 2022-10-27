@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:37:50Z</updated>
+  <updated>2022-10-27T01:38:32Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cybertec-postgresql/pgfaceting</title>
-    <updated>2022-10-26T01:37:50Z</updated>
-    <id>tag:github.com,2022-10-26:/cybertec-postgresql/pgfaceting</id>
-    <link href="https://github.com/cybertec-postgresql/pgfaceting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Faceted query acceleration for PostgreSQL using roaring bitmaps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>supabase/postgres</title>
-    <updated>2022-10-26T01:37:50Z</updated>
-    <id>tag:github.com,2022-10-26:/supabase/postgres</id>
-    <link href="https://github.com/supabase/postgres" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unmodified Postgres with some useful plugins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

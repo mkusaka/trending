@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:35:12Z</updated>
+  <updated>2022-10-27T01:36:10Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TobBrandt/vector-instances-collections</title>
-    <updated>2022-10-26T01:35:12Z</updated>
-    <id>tag:github.com,2022-10-26:/TobBrandt/vector-instances-collections</id>
-    <link href="https://github.com/TobBrandt/vector-instances-collections" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This package defines instances of the Foldable, Unfoldable, Collection, Sequence and Indexed classes from Data.Collections for all pure Vector types (those found in Data.Vector, Data.Vector.Unboxed, Data.Vector.Primitive, Data.Vector.Storable).&lt;/p&gt;</summary>
-  </entry>
 </feed>

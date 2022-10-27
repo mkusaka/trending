@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:38:35Z</updated>
+  <updated>2022-10-27T01:39:19Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DevExpress-Examples/blazor-dxrichedit-custom-saving</title>
-    <updated>2022-10-26T01:38:35Z</updated>
-    <id>tag:github.com,2022-10-26:/DevExpress-Examples/blazor-dxrichedit-custom-saving</id>
-    <link href="https://github.com/DevExpress-Examples/blazor-dxrichedit-custom-saving" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implement custom document save capabilities with the Rich Text Editor.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

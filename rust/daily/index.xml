@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:38:39Z</updated>
+  <updated>2022-10-27T01:39:23Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AlfioEmanueleFresta/xdg-credentials-portal</title>
-    <updated>2022-10-26T01:38:39Z</updated>
-    <id>tag:github.com,2022-10-26:/AlfioEmanueleFresta/xdg-credentials-portal</id>
-    <link href="https://github.com/AlfioEmanueleFresta/xdg-credentials-portal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FIDO2 (WebAuthn) and FIDO U2F platform library for Linux written in Rust; includes a proposal for a new D-Bus Portal interface for FIDO2, accessible from Flatpak apps and Snaps 🔑&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vercel/turbo</title>
+    <updated>2022-10-27T01:39:23Z</updated>
+    <id>tag:github.com,2022-10-27:/vercel/turbo</id>
+    <link href="https://github.com/vercel/turbo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pop-os/cosmic-text</title>
-    <updated>2022-10-26T01:38:39Z</updated>
-    <id>tag:github.com,2022-10-26:/pop-os/cosmic-text</id>
-    <link href="https://github.com/pop-os/cosmic-text" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pure Rust multi-line text handling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>security-union/rust-zoom</title>
+    <updated>2022-10-27T01:39:23Z</updated>
+    <id>tag:github.com,2022-10-27:/security-union/rust-zoom</id>
+    <link href="https://github.com/security-union/rust-zoom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zoom clone using rust for RESEARCH PURPOSES&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tfpk/macrokata</title>
+    <updated>2022-10-27T01:39:23Z</updated>
+    <id>tag:github.com,2022-10-27:/tfpk/macrokata</id>
+    <link href="https://github.com/tfpk/macrokata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Macros In Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

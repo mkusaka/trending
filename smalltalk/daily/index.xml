@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-26T01:39:37Z</updated>
+  <updated>2022-10-27T01:40:15Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pillar-markup/Microdown</title>
+    <updated>2022-10-27T01:40:15Z</updated>
+    <id>tag:github.com,2022-10-27:/pillar-markup/Microdown</id>
+    <link href="https://github.com/pillar-markup/Microdown" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Microdown is a cleaned and simpler markdown but with more powerful features such as extensions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>paoloboschini/tetris</title>
+    <updated>2022-10-27T01:40:15Z</updated>
+    <id>tag:github.com,2022-10-27:/paoloboschini/tetris</id>
+    <link href="https://github.com/paoloboschini/tetris" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tetris in Smalltalk.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
