@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:33:26Z</updated>
+  <updated>2022-10-28T01:31:36Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bogwonch/Thesis</title>
-    <updated>2022-10-27T01:33:26Z</updated>
-    <id>tag:github.com,2022-10-27:/bogwonch/Thesis</id>
-    <link href="https://github.com/bogwonch/Thesis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Masters thesis work on &#39;Platform Independent Programs&#39;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>braxtonhall/fib</title>
-    <updated>2022-10-27T01:33:26Z</updated>
-    <id>tag:github.com,2022-10-27:/braxtonhall/fib</id>
-    <link href="https://github.com/braxtonhall/fib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the fibonacci only you would give me&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

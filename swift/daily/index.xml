@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:40:28Z</updated>
+  <updated>2022-10-28T01:39:53Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>emqx/MQTT-Client-Examples</title>
-    <updated>2022-10-27T01:40:28Z</updated>
-    <id>tag:github.com,2022-10-27:/emqx/MQTT-Client-Examples</id>
-    <link href="https://github.com/emqx/MQTT-Client-Examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MQTT Client Examples&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MQTT-Client-Examples&lt;/h1&gt; &#xA;&lt;p&gt;MQTT Client Examples&lt;/p&gt;</summary>
-  </entry>
 </feed>

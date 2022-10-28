@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:37:38Z</updated>
+  <updated>2022-10-28T01:36:34Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>proto-graphql/proto-graphql</title>
-    <updated>2022-10-27T01:37:38Z</updated>
-    <id>tag:github.com,2022-10-27:/proto-graphql/proto-graphql</id>
-    <link href="https://github.com/proto-graphql/proto-graphql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protobuf-first GraphQL schemas&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>contino/docker-packer</title>
-    <updated>2022-10-27T01:37:38Z</updated>
-    <id>tag:github.com,2022-10-27:/contino/docker-packer</id>
-    <link href="https://github.com/contino/docker-packer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐳 Containerised Packer to avoid having to install CLI on Dev or CI/CD machines.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:33:30Z</updated>
+  <updated>2022-10-28T01:31:41Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aryankashyap7/CheatSheets-for-Developers</title>
-    <updated>2022-10-27T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-27:/aryankashyap7/CheatSheets-for-Developers</id>
-    <link href="https://github.com/aryankashyap7/CheatSheets-for-Developers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This Cheat sheet list has been made to enhance the workflow and efficiency. This well curated list will save you time when you just can&#39;t remember the code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jtmaveryk/ngrok</title>
+    <updated>2022-10-28T01:31:41Z</updated>
+    <id>tag:github.com,2022-10-28:/jtmaveryk/ngrok</id>
+    <link href="https://github.com/jtmaveryk/ngrok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ngrok rdp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kaysuto/rdp-windows</title>
-    <updated>2022-10-27T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-27:/Kaysuto/rdp-windows</id>
-    <link href="https://github.com/Kaysuto/rdp-windows" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Un RDP par Kaysuto. A des fins éducatives.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>conda-forge/libsdformat-feedstock</title>
+    <updated>2022-10-28T01:31:41Z</updated>
+    <id>tag:github.com,2022-10-28:/conda-forge/libsdformat-feedstock</id>
+    <link href="https://github.com/conda-forge/libsdformat-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for libsdformat.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>orangjawa29/Ngrokrdpfree2</title>
-    <updated>2022-10-27T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-27:/orangjawa29/Ngrokrdpfree2</id>
-    <link href="https://github.com/orangjawa29/Ngrokrdpfree2" rel="alternate"></link>
+    <title>FirmanNesatsumi/YouTubeNgrokRDP</title>
+    <updated>2022-10-28T01:31:41Z</updated>
+    <id>tag:github.com,2022-10-28:/FirmanNesatsumi/YouTubeNgrokRDP</id>
+    <link href="https://github.com/FirmanNesatsumi/YouTubeNgrokRDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

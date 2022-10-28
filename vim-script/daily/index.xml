@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:41:09Z</updated>
+  <updated>2022-10-28T01:40:50Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>evanleck/vim-svelte</title>
-    <updated>2022-10-27T01:41:09Z</updated>
-    <id>tag:github.com,2022-10-27:/evanleck/vim-svelte</id>
-    <link href="https://github.com/evanleck/vim-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim syntax highlighting and indentation for Svelte 3 components.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lambdalisue/nerdfont.vim</title>
+    <updated>2022-10-28T01:40:50Z</updated>
+    <id>tag:github.com,2022-10-28:/lambdalisue/nerdfont.vim</id>
+    <link href="https://github.com/lambdalisue/nerdfont.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👓 Fundemental plugin to handle Nerd Fonts in Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>raimon49/requirements.txt.vim</title>
-    <updated>2022-10-27T01:41:09Z</updated>
-    <id>tag:github.com,2022-10-27:/raimon49/requirements.txt.vim</id>
-    <link href="https://github.com/raimon49/requirements.txt.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the Requirements File Format syntax support for Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim-jp/vital.vim</title>
-    <updated>2022-10-27T01:41:09Z</updated>
-    <id>tag:github.com,2022-10-27:/vim-jp/vital.vim</id>
-    <link href="https://github.com/vim-jp/vital.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A comprehensive Vim utility functions for Vim plugins&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/ReplaceWithRegister</title>
+    <updated>2022-10-28T01:40:50Z</updated>
+    <id>tag:github.com,2022-10-28:/vim-scripts/ReplaceWithRegister</id>
+    <link href="https://github.com/vim-scripts/ReplaceWithRegister" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Replace text with the contents of a register.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

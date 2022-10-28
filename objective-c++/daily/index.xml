@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:37:57Z</updated>
+  <updated>2022-10-28T01:36:55Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>facebookresearch/miniF2F</title>
+    <updated>2022-10-28T01:36:55Z</updated>
+    <id>tag:github.com,2022-10-28:/facebookresearch/miniF2F</id>
+    <link href="https://github.com/facebookresearch/miniF2F" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An updated version of miniF2F with lots of fixes and informal statements / solutions.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

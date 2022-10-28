@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:37:54Z</updated>
+  <updated>2022-10-28T01:36:52Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>the-nix-way/dev-templates</title>
+    <updated>2022-10-28T01:36:52Z</updated>
+    <id>tag:github.com,2022-10-28:/the-nix-way/dev-templates</id>
+    <link href="https://github.com/the-nix-way/dev-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

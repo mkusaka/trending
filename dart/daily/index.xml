@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:34:32Z</updated>
+  <updated>2022-10-28T01:32:48Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vandadnp/youtube-riverpodcourse-public</title>
-    <updated>2022-10-27T01:34:32Z</updated>
-    <id>tag:github.com,2022-10-27:/vandadnp/youtube-riverpodcourse-public</id>
-    <link href="https://github.com/vandadnp/youtube-riverpodcourse-public" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for &#34;Riverpod 2.x Course for Flutter Developers - Go from Beginner to Advanced in 17 Hours&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Instagram Clone&lt;/h1&gt; &#xA;&lt;p&gt;This is the source code for Vandad Nahavandipoor&#39;s Riverpod 2.x Course available on YouTube. &lt;a href=&#34;https://youtu.be/vtGCteFYs4M&#34;&gt;Click here&lt;/a&gt; to go to the course.&lt;/p&gt; &#xA;&lt;p&gt;The backend for this project has been deleted and the Firebase configurations inside the project have been nulled-out as well for the sake of security. If you want to run this project and see how it works, first set up a Firebase instance for your project using Firebase&#39;s CLI!&lt;/p&gt; &#xA;&lt;p&gt;We are using Facebook login as well in this project. I&#39;ve deleted the Facebook Project that is associated with this app from Facebook&#39;s developer protal. In order to get this app out of the box to work with Facebook login, you will have to create a Facebook app and connect it with this app. Instructions on how to do all of this is provided in the YouTube course itself.&lt;/p&gt;</summary>
+    <title>CrossroadsAcademy/queue-user-frontend</title>
+    <updated>2022-10-28T01:32:48Z</updated>
+    <id>tag:github.com,2022-10-28:/CrossroadsAcademy/queue-user-frontend</id>
+    <link href="https://github.com/CrossroadsAcademy/queue-user-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;queue&lt;/h1&gt; &#xA;&lt;p&gt;A new Flutter project.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;This project is a starting point for a Flutter application.&lt;/p&gt; &#xA;&lt;p&gt;A few resources to get you started if this is your first Flutter project:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://flutter.dev/docs/get-started/codelab&#34;&gt;Lab: Write your first Flutter app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://flutter.dev/docs/cookbook&#34;&gt;Cookbook: Useful Flutter samples&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For help getting started with Flutter, view our &lt;a href=&#34;https://flutter.dev/docs&#34;&gt;online documentation&lt;/a&gt;, which offers tutorials, samples, guidance on mobile development, and a full API reference.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>pratikbutani/awesome-flutter-snippets</title>
+    <updated>2022-10-28T01:32:48Z</updated>
+    <id>tag:github.com,2022-10-28:/pratikbutani/awesome-flutter-snippets</id>
+    <link href="https://github.com/pratikbutani/awesome-flutter-snippets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A wonderful snippet that will boost you every day.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;awesome-flutter-snippets&lt;/h1&gt; &#xA;&lt;p&gt;A wonderful snippet that will boost you every day.&lt;/p&gt; &#xA;&lt;img width=&#34;2400&#34; alt=&#34;Email Banners-Dark&#34; src=&#34;https://user-images.githubusercontent.com/3306366/198207782-928a504c-1c67-4a46-a0f4-e4bf2d6eefa7.png&#34;&gt; &#xA;&lt;h2&gt;Idea&lt;/h2&gt; &#xA;&lt;p&gt;During the Hacktoberfest 2022 season, I intend to collect all of the great snippets that are highly beneficial to all Flutter devs on a daily basis.&amp;nbsp;&lt;/p&gt; &#xA;&lt;p&gt;Let&#39;s work together to collect incredibly fantastic snippets from all of the amazing devs. Continue to share.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Contributions are always welcome!&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/pratikbutani/awesome-flutter-snippets/raw/main/contributing.md&#34;&gt;contributing.md&lt;/a&gt; for ways to get started.&lt;/p&gt; &#xA;&lt;h2&gt;Official Links&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://hacktoberfest.com/&#34;&gt;https://hacktoberfest.com/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Authors&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.github.com/pratikbutani&#34;&gt;@pratikbutani&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

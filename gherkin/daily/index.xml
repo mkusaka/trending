@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:35:34Z</updated>
+  <updated>2022-10-28T01:34:01Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wp-cli/i18n-command</title>
-    <updated>2022-10-27T01:35:34Z</updated>
-    <id>tag:github.com,2022-10-27:/wp-cli/i18n-command</id>
-    <link href="https://github.com/wp-cli/i18n-command" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Provides internationalization tools for WordPress projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bitloops/bitloops-language</title>
+    <updated>2022-10-28T01:34:01Z</updated>
+    <id>tag:github.com,2022-10-28:/bitloops/bitloops-language</id>
+    <link href="https://github.com/bitloops/bitloops-language" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bitloops Programming Language | A high-productivity, fourth generation (4GL), DDD/BDD focused, transpiled programming language | Like the idea? Don&#39;t forget to star ⭐ us ^^^&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wp-cli/config-command</title>
-    <updated>2022-10-27T01:35:34Z</updated>
-    <id>tag:github.com,2022-10-27:/wp-cli/config-command</id>
-    <link href="https://github.com/wp-cli/config-command" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generates and reads the wp-config.php file.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hexlet-components/ru-my-first-pullrequest</title>
+    <updated>2022-10-28T01:34:01Z</updated>
+    <id>tag:github.com,2022-10-28:/hexlet-components/ru-my-first-pullrequest</id>
+    <link href="https://github.com/hexlet-components/ru-my-first-pullrequest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Репозиторий, который автоматически мержит пулреквесты. Создан для тренировки в курсе по git&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

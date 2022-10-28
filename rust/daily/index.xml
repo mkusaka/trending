@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:39:23Z</updated>
+  <updated>2022-10-28T01:38:33Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vercel/turbo</title>
-    <updated>2022-10-27T01:39:23Z</updated>
-    <id>tag:github.com,2022-10-27:/vercel/turbo</id>
-    <link href="https://github.com/vercel/turbo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>security-union/rust-zoom</title>
-    <updated>2022-10-27T01:39:23Z</updated>
-    <id>tag:github.com,2022-10-27:/security-union/rust-zoom</id>
-    <link href="https://github.com/security-union/rust-zoom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zoom clone using rust for RESEARCH PURPOSES&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tfpk/macrokata</title>
-    <updated>2022-10-27T01:39:23Z</updated>
-    <id>tag:github.com,2022-10-27:/tfpk/macrokata</id>
-    <link href="https://github.com/tfpk/macrokata" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn Macros In Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AleoHQ/aleo</title>
+    <updated>2022-10-28T01:38:33Z</updated>
+    <id>tag:github.com,2022-10-28:/AleoHQ/aleo</id>
+    <link href="https://github.com/AleoHQ/aleo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Software Development Kit (SDK) for Zero-Knowledge Transactions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

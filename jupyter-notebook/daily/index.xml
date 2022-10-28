@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-27T01:37:04Z</updated>
+  <updated>2022-10-28T01:36:01Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>venetisgr/space_titanic_basic</title>
+    <updated>2022-10-28T01:36:01Z</updated>
+    <id>tag:github.com,2022-10-28:/venetisgr/space_titanic_basic</id>
+    <link href="https://github.com/venetisgr/space_titanic_basic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explore the space titanic dataset and crate a pipeline with all the &#34;basic&#34; forest algorithms&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Space Titanic&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Exploration of the space titanic dataset&lt;/li&gt; &#xA; &lt;li&gt;EDA and Feature Engineering (manual)&lt;/li&gt; &#xA; &lt;li&gt;Pileline creation&lt;/li&gt; &#xA; &lt;li&gt;Exploration of &#34;basic&#34; forest algorithms&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Dataset can be found here: &lt;a href=&#34;https://www.kaggle.com/competitions/spaceship-titanic&#34;&gt;https://www.kaggle.com/competitions/spaceship-titanic&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;You should be able to replicate all the results without any code modifications to the code. The only adjustment you have to make is to change the path in the second cell in order to point to the correct folder in your Google Drive&lt;/p&gt;</summary>
+  </entry>
 </feed>
