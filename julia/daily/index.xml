@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-28T01:35:58Z</updated>
+  <updated>2022-10-29T01:36:40Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kofron/KDSP.jl</title>
-    <updated>2022-10-28T01:35:58Z</updated>
-    <id>tag:github.com,2022-10-28:/kofron/KDSP.jl</id>
-    <link href="https://github.com/kofron/KDSP.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DSP module for Julia. Called KDSP instead of DSP to distinguish from existing DSP module in Julia base.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/ExponentialUtilities.jl</title>
-    <updated>2022-10-28T01:35:58Z</updated>
-    <id>tag:github.com,2022-10-28:/SciML/ExponentialUtilities.jl</id>
-    <link href="https://github.com/SciML/ExponentialUtilities.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utility functions for exponential integrators for the SciML scientific machine learning ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>corail-research/SeaPearl.jl</title>
+    <updated>2022-10-29T01:36:40Z</updated>
+    <id>tag:github.com,2022-10-29:/corail-research/SeaPearl.jl</id>
+    <link href="https://github.com/corail-research/SeaPearl.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julian hybrid constraint programming solver enhanced by a reinforcement learning driven search.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

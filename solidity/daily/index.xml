@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-28T01:39:39Z</updated>
+  <updated>2022-10-29T01:40:36Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>proofofsoulprotocol/soul-wallet-contract</title>
-    <updated>2022-10-28T01:39:39Z</updated>
-    <id>tag:github.com,2022-10-28:/proofofsoulprotocol/soul-wallet-contract</id>
-    <link href="https://github.com/proofofsoulprotocol/soul-wallet-contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;core contract of eip 4337 implementation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-423n4/2022-10-inverse</title>
-    <updated>2022-10-28T01:39:39Z</updated>
-    <id>tag:github.com,2022-10-28:/code-423n4/2022-10-inverse</id>
-    <link href="https://github.com/code-423n4/2022-10-inverse" rel="alternate"></link>
+    <title>awaisahmadfg/Blockchain-Projects</title>
+    <updated>2022-10-29T01:40:36Z</updated>
+    <id>tag:github.com,2022-10-29:/awaisahmadfg/Blockchain-Projects</id>
+    <link href="https://github.com/awaisahmadfg/Blockchain-Projects" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Apebotting/MEV-bot</title>
-    <updated>2022-10-28T01:39:39Z</updated>
-    <id>tag:github.com,2022-10-28:/Apebotting/MEV-bot</id>
-    <link href="https://github.com/Apebotting/MEV-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Uniswap v2 MEV bot - Updated mempool settings - October 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stakewithus/defi-by-example</title>
+    <updated>2022-10-29T01:40:36Z</updated>
+    <id>tag:github.com,2022-10-29:/stakewithus/defi-by-example</id>
+    <link href="https://github.com/stakewithus/defi-by-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

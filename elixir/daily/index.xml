@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-28T01:33:30Z</updated>
+  <updated>2022-10-29T01:34:11Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>puemos/overbooked</title>
-    <updated>2022-10-28T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-28:/puemos/overbooked</id>
-    <link href="https://github.com/puemos/overbooked" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Overbooked is a self-hosted flexible workplace platform for indie co-working owners.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mcrumm/req_sandbox</title>
+    <updated>2022-10-29T01:34:11Z</updated>
+    <id>tag:github.com,2022-10-29:/mcrumm/req_sandbox</id>
+    <link href="https://github.com/mcrumm/req_sandbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Req plugin for Phoenix Ecto SQL Sandbox&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xerions/phoenix_swagger</title>
-    <updated>2022-10-28T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-28:/xerions/phoenix_swagger</id>
-    <link href="https://github.com/xerions/phoenix_swagger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Swagger integration to Phoenix framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sasa1977/elixir-in-action</title>
-    <updated>2022-10-28T01:33:30Z</updated>
-    <id>tag:github.com,2022-10-28:/sasa1977/elixir-in-action</id>
-    <link href="https://github.com/sasa1977/elixir-in-action" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code samples for Elixir in Action book&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phoenixframework/phoenix_html</title>
+    <updated>2022-10-29T01:34:11Z</updated>
+    <id>tag:github.com,2022-10-29:/phoenixframework/phoenix_html</id>
+    <link href="https://github.com/phoenixframework/phoenix_html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Phoenix.HTML functions for working with HTML strings and templates&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

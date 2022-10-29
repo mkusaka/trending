@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-28T01:39:01Z</updated>
+  <updated>2022-10-29T01:40:07Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>agrinfauzi/rackspira</title>
-    <updated>2022-10-28T01:39:01Z</updated>
-    <id>tag:github.com,2022-10-28:/agrinfauzi/rackspira</id>
-    <link href="https://github.com/agrinfauzi/rackspira" rel="alternate"></link>
+    <title>MinesIT-Club/MinesITClub</title>
+    <updated>2022-10-29T01:40:07Z</updated>
+    <id>tag:github.com,2022-10-29:/MinesIT-Club/MinesITClub</id>
+    <link href="https://github.com/MinesIT-Club/MinesITClub" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jarrekk/Jalpc</title>
-    <updated>2022-10-28T01:39:01Z</updated>
-    <id>tag:github.com,2022-10-28:/jarrekk/Jalpc</id>
-    <link href="https://github.com/jarrekk/Jalpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍎Jalpc -- A flexible Jekyll theme, 3 steps to build your website.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>localstack/docs</title>
+    <updated>2022-10-29T01:40:07Z</updated>
+    <id>tag:github.com,2022-10-29:/localstack/docs</id>
+    <link href="https://github.com/localstack/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The LocalStack documentation 📖&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fongandrew/hydeout</title>
-    <updated>2022-10-28T01:39:01Z</updated>
-    <id>tag:github.com,2022-10-28:/fongandrew/hydeout</id>
-    <link href="https://github.com/fongandrew/hydeout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A refreshed version of Hyde for Jekyll 3.x and 4.x&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>helm/helm-www</title>
+    <updated>2022-10-29T01:40:07Z</updated>
+    <id>tag:github.com,2022-10-29:/helm/helm-www</id>
+    <link href="https://github.com/helm/helm-www" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Helm website for docs, blog and project info.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

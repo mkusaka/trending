@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-28T01:33:51Z</updated>
+  <updated>2022-10-29T01:34:26Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fsprojects/fantomas</title>
-    <updated>2022-10-28T01:33:51Z</updated>
-    <id>tag:github.com,2022-10-28:/fsprojects/fantomas</id>
-    <link href="https://github.com/fsprojects/fantomas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FSharp source code formatter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fantomas&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fsprojects/fantomas/main/fantomas_logo.png&#34; alt=&#34;Fantomas logo&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/github/workflow/status/fsprojects/fantomas/Build%20main?event=push&amp;amp;label=Build%20main&amp;amp;style=flat-square&#34; alt=&#34;GitHub Workflow Status (event)&#34;&gt; &lt;a href=&#34;https://discord.gg/D5QXvQrBVa&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/940511234179096586?label=Fantomas%20Discord&amp;amp;style=flat-square&#34; alt=&#34;Discord&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.nuget.org/packages/fantomas/absoluteLatest&#34;&gt;&lt;img src=&#34;https://img.shields.io/nuget/vpre/fantomas?style=flat-square&#34; alt=&#34;Nuget (with prereleases)&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;F# source code formatter, inspired by &lt;a href=&#34;https://github.com/mdr/scalariform&#34;&gt;scalariform&lt;/a&gt; for Scala, &lt;a href=&#34;https://github.com/OCamlPro/ocp-indent&#34;&gt;ocp-indent&lt;/a&gt; for OCaml and &lt;a href=&#34;https://github.com/acdha/PythonTidy&#34;&gt;PythonTidy&lt;/a&gt; for Python.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;dotnet tool install fantomas&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;Documentation is available at &lt;a href=&#34;https://fsprojects.github.io/fantomas/docs/index.html&#34;&gt;https://fsprojects.github.io/fantomas/docs/index.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing Guidelines&lt;/h2&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://raw.githubusercontent.com/fsprojects/fantomas/main/CONTRIBUTING.md&#34;&gt;Contribution Guidelines&lt;/a&gt; and our &lt;a href=&#34;https://fsprojects.github.io/fantomas/docs/contributors/Index.html&#34;&gt;contributors documentation&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

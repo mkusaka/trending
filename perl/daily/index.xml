@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-28T01:37:28Z</updated>
+  <updated>2022-10-29T01:38:15Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mdturnerinoz/EclipseShowLocation</title>
+    <updated>2022-10-29T01:38:15Z</updated>
+    <id>tag:github.com,2022-10-29:/mdturnerinoz/EclipseShowLocation</id>
+    <link href="https://github.com/mdturnerinoz/EclipseShowLocation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic notes on how to make Eclipse show the project location in its title bar (on Win/Mac/Lin).&lt;/p&gt;&lt;hr&gt;&lt;p&gt;The Eclipse &#34;-showlocation&#34; startup parameter causes the current location of the workspace to be displayed in the title bar (status bar) of the Eclipse window.&lt;/p&gt; &#xA;&lt;p&gt;The &#34;-showlocation&#34; option can either be specified on the command line when Eclipse is started or in the eclipse.ini file (which resides where the eclipse binary has been installed).&lt;/p&gt; &#xA;&lt;p&gt;Command Line eclipse -showlocation&lt;/p&gt; &#xA;&lt;p&gt;.eclipse.ini (in the same directory as the eclipse (eclipse.exe windows) binary resides)&lt;/p&gt; &#xA;&lt;p&gt;Example eclipse.ini (note the first line containing &#34;-showlocation&#34;)):&lt;/p&gt; &#xA;&lt;p&gt;-showlocation -startup plugins/org.eclipse.equinox.launcher_1.2.0.v20110502.jar --launcher.library plugins/org.eclipse.equinox.launcher.win32.win32.x86_1.1.100.v20110502 -product org.eclipse.epp.package.java.product --launcher.defaultAction openFile --launcher.XXMaxPermSize 256M -showsplash org.eclipse.platform --launcher.XXMaxPermSize 256m --launcher.defaultAction openFile -vmargs -Dosgi.requiredJavaVersion=1.5 -Xms40m -Xmx384m&lt;/p&gt; &#xA;&lt;p&gt;Example eclipse.ini locations by OS:&lt;/p&gt; &#xA;&lt;p&gt;Windows c:\Program Files\eclipse.eclipse.ini&lt;/p&gt; &#xA;&lt;p&gt;Linux /usr/local/eclipse/.eclipse.ini ~/.eclipse.ini&lt;/p&gt; &#xA;&lt;p&gt;Mac /Applications/eclipse/.eclipse.ini&lt;/p&gt;</summary>
+  </entry>
 </feed>

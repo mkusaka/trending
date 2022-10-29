@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-28T01:30:59Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-10-29T01:31:29Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nodejs/Release</title>
-    <updated>2022-10-28T01:30:59Z</updated>
-    <id>tag:github.com,2022-10-28:/nodejs/Release</id>
-    <link href="https://github.com/nodejs/Release" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Node.js Release Working Group&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IBM-EPBL/Assignments-CApD</title>
+    <updated>2022-10-29T01:31:29Z</updated>
+    <id>tag:github.com,2022-10-29:/IBM-EPBL/Assignments-CApD</id>
+    <link href="https://github.com/IBM-EPBL/Assignments-CApD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>woowacourse/woowacourse-docs</title>
-    <updated>2022-10-28T01:30:59Z</updated>
-    <id>tag:github.com,2022-10-28:/woowacourse/woowacourse-docs</id>
-    <link href="https://github.com/woowacourse/woowacourse-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;우아한테크코스 문서를 관리하는 저장소&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Paladinfeng/MiaoProject</title>
+    <updated>2022-10-29T01:31:29Z</updated>
+    <id>tag:github.com,2022-10-29:/Paladinfeng/MiaoProject</id>
+    <link href="https://github.com/Paladinfeng/MiaoProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Miao Project Bug 反馈&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>anil-yelken/cyber-security-tools</title>
-    <updated>2022-10-28T01:30:59Z</updated>
-    <id>tag:github.com,2022-10-28:/anil-yelken/cyber-security-tools</id>
-    <link href="https://github.com/anil-yelken/cyber-security-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My cyber security tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ripperhe/Bob</title>
+    <updated>2022-10-29T01:31:29Z</updated>
+    <id>tag:github.com,2022-10-29:/ripperhe/Bob</id>
+    <link href="https://github.com/ripperhe/Bob" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bob 是一款 macOS 平台翻译和 OCR 软件。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
