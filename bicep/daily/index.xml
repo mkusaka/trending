@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:32:20Z</updated>
+  <updated>2022-10-30T01:32:54Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/bicep-lz-vending</title>
+    <updated>2022-10-30T01:32:54Z</updated>
+    <id>tag:github.com,2022-10-30:/Azure/bicep-lz-vending</id>
+    <link href="https://github.com/Azure/bicep-lz-vending" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bicep module/s &amp; pipelines to deploy landing zone subscriptions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Agda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:32:07Z</updated>
+  <updated>2022-10-30T01:32:40Z</updated>
   <subtitle>Daily Trending of Agda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>maxsnew/synthetic-domain-theory</title>
+    <updated>2022-10-30T01:32:40Z</updated>
+    <id>tag:github.com,2022-10-30:/maxsnew/synthetic-domain-theory</id>
+    <link href="https://github.com/maxsnew/synthetic-domain-theory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experiment with synthetic domain theory in cubical agda&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

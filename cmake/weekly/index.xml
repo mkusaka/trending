@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:44:30Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>machines-in-motion/mpi_cmake_modules</title>
+    <updated>2022-10-30T01:44:30Z</updated>
+    <id>tag:github.com,2022-10-30:/machines-in-motion/mpi_cmake_modules</id>
+    <link href="https://github.com/machines-in-motion/mpi_cmake_modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>minecraft-linux/mcpelauncher-manifest</title>
+    <updated>2022-10-30T01:44:30Z</updated>
+    <id>tag:github.com,2022-10-30:/minecraft-linux/mcpelauncher-manifest</id>
+    <link href="https://github.com/minecraft-linux/mcpelauncher-manifest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>qt/qttranslations</title>
+    <updated>2022-10-30T01:44:30Z</updated>
+    <id>tag:github.com,2022-10-30:/qt/qttranslations</id>
+    <link href="https://github.com/qt/qttranslations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qt Translations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

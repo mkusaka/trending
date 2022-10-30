@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:41:42Z</updated>
+  <updated>2022-10-30T01:42:16Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TutorJoes-Stanley/MySQL_Tamil</title>
-    <updated>2022-10-29T01:41:42Z</updated>
-    <id>tag:github.com,2022-10-29:/TutorJoes-Stanley/MySQL_Tamil</id>
-    <link href="https://github.com/TutorJoes-Stanley/MySQL_Tamil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Complete MySQL tutorial for Beginners in Tamil&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>unoplatform/Uno.Samples</title>
-    <updated>2022-10-29T01:41:42Z</updated>
-    <id>tag:github.com,2022-10-29:/unoplatform/Uno.Samples</id>
-    <link href="https://github.com/unoplatform/Uno.Samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of code samples for the Uno Platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

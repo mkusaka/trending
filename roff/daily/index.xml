@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:39:31Z</updated>
+  <updated>2022-10-30T01:40:15Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PP-FM/ppsat</title>
-    <updated>2022-10-29T01:39:31Z</updated>
-    <id>tag:github.com,2022-10-29:/PP-FM/ppsat</id>
-    <link href="https://github.com/PP-FM/ppsat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;code for privacy-preserving sat solver&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

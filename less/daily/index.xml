@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:37:06Z</updated>
+  <updated>2022-10-30T01:37:58Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>revahj/v88TheWall</title>
+    <updated>2022-10-30T01:37:58Z</updated>
+    <id>tag:github.com,2022-10-30:/revahj/v88TheWall</id>
+    <link href="https://github.com/revahj/v88TheWall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Wall - A forum dashoard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CloudDectective-Harmonycloud/kindling</title>
+    <updated>2022-10-30T01:37:58Z</updated>
+    <id>tag:github.com,2022-10-30:/CloudDectective-Harmonycloud/kindling</id>
+    <link href="https://github.com/CloudDectective-Harmonycloud/kindling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;eBPF-based Cloud Native Monitoring Tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

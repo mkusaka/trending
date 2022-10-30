@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:49:46Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>obazoud/puppet-jmxtrans</title>
+    <updated>2022-10-30T01:49:46Z</updated>
+    <id>tag:github.com,2022-10-30:/obazoud/puppet-jmxtrans</id>
+    <link href="https://github.com/obazoud/puppet-jmxtrans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Puppet module for jmxtrans.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>actionjack/puppet-logstash</title>
+    <updated>2022-10-30T01:49:46Z</updated>
+    <id>tag:github.com,2022-10-30:/actionjack/puppet-logstash</id>
+    <link href="https://github.com/actionjack/puppet-logstash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Logstash puppet module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:33:10Z</updated>
+  <updated>2022-10-30T01:34:01Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ferdinand-beyer/reitit-ring-defaults</title>
-    <updated>2022-10-29T01:33:10Z</updated>
-    <id>tag:github.com,2022-10-29:/ferdinand-beyer/reitit-ring-defaults</id>
-    <link href="https://github.com/ferdinand-beyer/reitit-ring-defaults" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sensible data-driven Ring middleware defaults&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arohner/prxml</title>
+    <updated>2022-10-30T01:34:01Z</updated>
+    <id>tag:github.com,2022-10-30:/arohner/prxml</id>
+    <link href="https://github.com/arohner/prxml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;clojure contrib prxml as a standalone&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hiredman/bc</title>
-    <updated>2022-10-29T01:33:10Z</updated>
-    <id>tag:github.com,2022-10-29:/hiredman/bc</id>
-    <link href="https://github.com/hiredman/bc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;bc is a java bytecode dissambler written in clojure, very rough, includes some bits for generating ruby&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>justone/tabl</title>
-    <updated>2022-10-29T01:33:10Z</updated>
-    <id>tag:github.com,2022-10-29:/justone/tabl</id>
-    <link href="https://github.com/justone/tabl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Make tables from data in your terminal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>whamtet/redlobster</title>
+    <updated>2022-10-30T01:34:01Z</updated>
+    <id>tag:github.com,2022-10-30:/whamtet/redlobster</id>
+    <link href="https://github.com/whamtet/redlobster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ClojureScript promises for Node&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:50:55Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>murraco/jekyll-theme-minimal-resume</title>
+    <updated>2022-10-30T01:50:55Z</updated>
+    <id>tag:github.com,2022-10-30:/murraco/jekyll-theme-minimal-resume</id>
+    <link href="https://github.com/murraco/jekyll-theme-minimal-resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.com&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sujaykundu777/devlopr-jekyll</title>
+    <updated>2022-10-30T01:50:55Z</updated>
+    <id>tag:github.com,2022-10-30:/sujaykundu777/devlopr-jekyll</id>
+    <link href="https://github.com/sujaykundu777/devlopr-jekyll" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS 🚀 in minutes built for developers. (with CMS)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/light-bootstrap-dashboard-react</title>
+    <updated>2022-10-30T01:50:55Z</updated>
+    <id>tag:github.com,2022-10-30:/creativetimofficial/light-bootstrap-dashboard-react</id>
+    <link href="https://github.com/creativetimofficial/light-bootstrap-dashboard-react" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;React version of Light Bootstrap Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

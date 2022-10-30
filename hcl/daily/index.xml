@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:35:02Z</updated>
+  <updated>2022-10-30T01:36:06Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LinkedInLearning/learning-terraform-3087701</title>
-    <updated>2022-10-29T01:35:02Z</updated>
-    <id>tag:github.com,2022-10-29:/LinkedInLearning/learning-terraform-3087701</id>
-    <link href="https://github.com/LinkedInLearning/learning-terraform-3087701" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo is for the Linkedin Learning course: Learning Terraform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

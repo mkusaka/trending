@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:39:54Z</updated>
+  <updated>2022-10-30T01:40:46Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zio/zio-connect</title>
+    <updated>2022-10-30T01:40:46Z</updated>
+    <id>tag:github.com,2022-10-30:/zio/zio-connect</id>
+    <link href="https://github.com/zio/zio-connect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sources, Sinks and Pipelines for channeling data&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;zio-connect&lt;/h1&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Project Stage&lt;/th&gt; &#xA;   &lt;th&gt;CI&lt;/th&gt; &#xA;   &lt;th&gt;Release&lt;/th&gt; &#xA;   &lt;th&gt;Snapshot&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://github.com/zio/zio/wiki/Project-Stages&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Project%20Stage-Concept-red.svg?sanitize=true&#34; alt=&#34;Project stage&#34;&gt;&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://github.com/zio/zio-connect/workflows/CI&#34; title=&#34;circleci&#34;&gt;&lt;img src=&#34;https://github.com/zio/zio-connect/workflows/CI/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34; title=&#34;circleci&#34;&gt;&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://oss.sonatype.org/content/repositories/releases/dev/zio/zio-connect-file_2.13/&#34; title=&#34;Sonatype Releases&#34;&gt;&lt;img src=&#34;https://img.shields.io/nexus/r/https/oss.sonatype.org/dev.zio/zio-connect-file_2.13.svg?sanitize=true&#34; alt=&#34;Release Artifacts&#34; title=&#34;Sonatype Releases&#34;&gt;&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://oss.sonatype.org/content/repositories/snapshots/dev/zio/zio-connect-file_2.13/&#34; title=&#34;Sonatype Snapshots&#34;&gt;&lt;img src=&#34;https://img.shields.io/nexus/s/https/oss.sonatype.org/dev.zio/zio-connect-file_2.13.svg?sanitize=true&#34; alt=&#34;Snapshot Artifacts&#34; title=&#34;Sonatype Snapshots&#34;&gt;&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://discord.gg/2ccFBr4&#34; title=&#34;Discord&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/629491597070827530?logo=discord&#34; alt=&#34;Badge-Discord&#34; title=&#34;chat on discord&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Support&lt;/h2&gt; &#xA;&lt;p&gt;Sources, Sinks and Pipelines for channeling data. Please find more details in the &lt;a href=&#34;https://zio.github.io/zio-connect/&#34;&gt;website&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

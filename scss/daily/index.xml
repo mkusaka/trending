@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:40:07Z</updated>
+  <updated>2022-10-30T01:40:56Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MinesIT-Club/MinesITClub</title>
-    <updated>2022-10-29T01:40:07Z</updated>
-    <id>tag:github.com,2022-10-29:/MinesIT-Club/MinesITClub</id>
-    <link href="https://github.com/MinesIT-Club/MinesITClub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dsacl3-2022/dsacl3-2022.github.io</title>
+    <updated>2022-10-30T01:40:56Z</updated>
+    <id>tag:github.com,2022-10-30:/dsacl3-2022/dsacl3-2022.github.io</id>
+    <link href="https://github.com/dsacl3-2022/dsacl3-2022.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course web page&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>localstack/docs</title>
-    <updated>2022-10-29T01:40:07Z</updated>
-    <id>tag:github.com,2022-10-29:/localstack/docs</id>
-    <link href="https://github.com/localstack/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The LocalStack documentation 📖&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>helm/helm-www</title>
-    <updated>2022-10-29T01:40:07Z</updated>
-    <id>tag:github.com,2022-10-29:/helm/helm-www</id>
-    <link href="https://github.com/helm/helm-www" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Helm website for docs, blog and project info.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>relativitydev/relativity-trace-documentation</title>
+    <updated>2022-10-30T01:40:56Z</updated>
+    <id>tag:github.com,2022-10-30:/relativitydev/relativity-trace-documentation</id>
+    <link href="https://github.com/relativitydev/relativity-trace-documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Relativity Trace Documentation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

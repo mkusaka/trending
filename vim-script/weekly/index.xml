@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:52:22Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>preservim/tagbar</title>
+    <updated>2022-10-30T01:52:22Z</updated>
+    <id>tag:github.com,2022-10-30:/preservim/tagbar</id>
+    <link href="https://github.com/preservim/tagbar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin that displays tags in a window, ordered by scope&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>szw/vim-maximizer</title>
+    <updated>2022-10-30T01:52:22Z</updated>
+    <id>tag:github.com,2022-10-30:/szw/vim-maximizer</id>
+    <link href="https://github.com/szw/vim-maximizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maximizes and restores the current window in Vim.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lambdalisue/nerdfont.vim</title>
+    <updated>2022-10-30T01:52:22Z</updated>
+    <id>tag:github.com,2022-10-30:/lambdalisue/nerdfont.vim</id>
+    <link href="https://github.com/lambdalisue/nerdfont.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👓 Fundemental plugin to handle Nerd Fonts in Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

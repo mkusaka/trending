@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub RAML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:50:20Z</updated>
+  <subtitle>Weekly Trending of RAML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mulesoft-consulting/public-cicd-mobile-customer-api</title>
+    <updated>2022-10-30T01:50:20Z</updated>
+    <id>tag:github.com,2022-10-30:/mulesoft-consulting/public-cicd-mobile-customer-api</id>
+    <link href="https://github.com/mulesoft-consulting/public-cicd-mobile-customer-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:31:29Z</updated>
+  <updated>2022-10-30T01:32:20Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IBM-EPBL/Assignments-CApD</title>
-    <updated>2022-10-29T01:31:29Z</updated>
-    <id>tag:github.com,2022-10-29:/IBM-EPBL/Assignments-CApD</id>
-    <link href="https://github.com/IBM-EPBL/Assignments-CApD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>plantuml-stdlib/C4-PlantUML</title>
+    <updated>2022-10-30T01:32:20Z</updated>
+    <id>tag:github.com,2022-10-30:/plantuml-stdlib/C4-PlantUML</id>
+    <link href="https://github.com/plantuml-stdlib/C4-PlantUML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Paladinfeng/MiaoProject</title>
-    <updated>2022-10-29T01:31:29Z</updated>
-    <id>tag:github.com,2022-10-29:/Paladinfeng/MiaoProject</id>
-    <link href="https://github.com/Paladinfeng/MiaoProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Miao Project Bug 反馈&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Qihoo360/safe-rules</title>
+    <updated>2022-10-30T01:32:20Z</updated>
+    <id>tag:github.com,2022-10-30:/Qihoo360/safe-rules</id>
+    <link href="https://github.com/Qihoo360/safe-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;详细的C/C++编程规范指南，由360质量工程部编著，适用于桌面、服务端及嵌入式软件系统。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ripperhe/Bob</title>
-    <updated>2022-10-29T01:31:29Z</updated>
-    <id>tag:github.com,2022-10-29:/ripperhe/Bob</id>
-    <link href="https://github.com/ripperhe/Bob" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bob 是一款 macOS 平台翻译和 OCR 软件。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>programthink/books</title>
+    <updated>2022-10-30T01:32:20Z</updated>
+    <id>tag:github.com,2022-10-30:/programthink/books</id>
+    <link href="https://github.com/programthink/books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【编程随想】收藏的电子书清单（多个学科，含下载链接）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

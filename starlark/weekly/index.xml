@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:51:26Z</updated>
+  <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bazelbuild/rules_testing</title>
+    <updated>2022-10-30T01:51:26Z</updated>
+    <id>tag:github.com,2022-10-30:/bazelbuild/rules_testing</id>
+    <link href="https://github.com/bazelbuild/rules_testing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ApexAI/rules_ros</title>
+    <updated>2022-10-30T01:51:26Z</updated>
+    <id>tag:github.com,2022-10-30:/ApexAI/rules_ros</id>
+    <link href="https://github.com/ApexAI/rules_ros" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS2 Rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

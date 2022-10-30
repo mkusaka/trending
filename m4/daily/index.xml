@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:37:19Z</updated>
+  <updated>2022-10-30T01:38:15Z</updated>
   <subtitle>Daily Trending of M4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>giellalt/lang-kal</title>
+    <updated>2022-10-30T01:38:15Z</updated>
+    <id>tag:github.com,2022-10-30:/giellalt/lang-kal</id>
+    <link href="https://github.com/giellalt/lang-kal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Kalaallisut (Greenlandic) language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:51:17Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>InseeFrLab/helm-charts-automation</title>
+    <updated>2022-10-30T01:51:17Z</updated>
+    <id>tag:github.com,2022-10-30:/InseeFrLab/helm-charts-automation</id>
+    <link href="https://github.com/InseeFrLab/helm-charts-automation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>redhat-developer/helm-backstage</title>
+    <updated>2022-10-30T01:51:17Z</updated>
+    <id>tag:github.com,2022-10-30:/redhat-developer/helm-backstage</id>
+    <link href="https://github.com/redhat-developer/helm-backstage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Chart for Deploying Backstage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>newrelic/helm-charts</title>
+    <updated>2022-10-30T01:51:17Z</updated>
+    <id>tag:github.com,2022-10-30:/newrelic/helm-charts</id>
+    <link href="https://github.com/newrelic/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for New Relic applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

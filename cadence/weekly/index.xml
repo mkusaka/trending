@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cadence Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:44:23Z</updated>
+  <subtitle>Weekly Trending of Cadence in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>onflow/nft-storefront</title>
+    <updated>2022-10-30T01:44:23Z</updated>
+    <id>tag:github.com,2022-10-30:/onflow/nft-storefront</id>
+    <link href="https://github.com/onflow/nft-storefront" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A general-purpose Cadence contract for trading NFTs on Flow&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:42:06Z</updated>
+  <updated>2022-10-30T01:42:39Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>brson/wasm-opt-rs</title>
-    <updated>2022-10-29T01:42:06Z</updated>
-    <id>tag:github.com,2022-10-29:/brson/wasm-opt-rs</id>
-    <link href="https://github.com/brson/wasm-opt-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust bindings for Binaryen&#39;s wasm-opt&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:39:36Z</updated>
+  <updated>2022-10-30T01:40:20Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>asciinema/agg</title>
-    <updated>2022-10-29T01:39:36Z</updated>
-    <id>tag:github.com,2022-10-29:/asciinema/agg</id>
-    <link href="https://github.com/asciinema/agg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;asciinema gif generator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>n0-computer/iroh</title>
+    <updated>2022-10-30T01:40:20Z</updated>
+    <id>tag:github.com,2022-10-30:/n0-computer/iroh</id>
+    <link href="https://github.com/n0-computer/iroh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The most efficient implementation of IPFS on any planet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mkawalec/deluge</title>
+    <updated>2022-10-30T01:40:20Z</updated>
+    <id>tag:github.com,2022-10-30:/mkawalec/deluge</id>
+    <link href="https://github.com/mkawalec/deluge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deluge, not a stream&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bastion-rs/bastion</title>
+    <updated>2022-10-30T01:40:20Z</updated>
+    <id>tag:github.com,2022-10-30:/bastion-rs/bastion</id>
+    <link href="https://github.com/bastion-rs/bastion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highly-available Distributed Fault-tolerant Runtime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

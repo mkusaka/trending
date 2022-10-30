@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Component Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:44:33Z</updated>
+  <subtitle>Weekly Trending of Component Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zweig1971/Piggy_FG380.751</title>
+    <updated>2022-10-30T01:44:33Z</updated>
+    <id>tag:github.com,2022-10-30:/zweig1971/Piggy_FG380.751</id>
+    <link href="https://github.com/zweig1971/Piggy_FG380.751" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stockcode/stockimage</title>
+    <updated>2022-10-30T01:44:33Z</updated>
+    <id>tag:github.com,2022-10-30:/stockcode/stockimage</id>
+    <link href="https://github.com/stockcode/stockimage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

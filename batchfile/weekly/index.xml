@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:43:41Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>UberGuidoZ/Flipper</title>
+    <updated>2022-10-30T01:43:41Z</updated>
+    <id>tag:github.com,2022-10-30:/UberGuidoZ/Flipper</id>
+    <link href="https://github.com/UberGuidoZ/Flipper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playground (and dump) of stuff I make or modify for the Flipper Zero&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pal1000/Realtek-UAD-generic</title>
+    <updated>2022-10-30T01:43:41Z</updated>
+    <id>tag:github.com,2022-10-30:/pal1000/Realtek-UAD-generic</id>
+    <link href="https://github.com/pal1000/Realtek-UAD-generic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An unofficial package of generic Realtek Universal Audio Driver made from parts of various OEM specific Reatek Universal Audio drivers intended to work on legacy systems lacking OEM UAD support.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Vanna007/Free-RDP</title>
+    <updated>2022-10-30T01:43:41Z</updated>
+    <id>tag:github.com,2022-10-30:/Vanna007/Free-RDP</id>
+    <link href="https://github.com/Vanna007/Free-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

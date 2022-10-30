@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:32:13Z</updated>
+  <updated>2022-10-30T01:32:45Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lokkeestudios/LokkeeStudios</title>
-    <updated>2022-10-29T01:32:13Z</updated>
-    <id>tag:github.com,2022-10-29:/lokkeestudios/LokkeeStudios</id>
-    <link href="https://github.com/lokkeestudios/LokkeeStudios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the source code of my personal portfolio website. Why don&#39;t you check out the fancy time machine I built over there?&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aryankashyap7/CheatSheets-for-Developers</title>
+    <updated>2022-10-30T01:32:45Z</updated>
+    <id>tag:github.com,2022-10-30:/aryankashyap7/CheatSheets-for-Developers</id>
+    <link href="https://github.com/aryankashyap7/CheatSheets-for-Developers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Cheat sheet list has been made to enhance the workflow and efficiency. This well curated list will save you time when you just can&#39;t remember the code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

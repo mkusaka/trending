@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-10-30T01:44:33Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lmaccherone/node-localstorage</title>
+    <updated>2022-10-30T01:44:33Z</updated>
+    <id>tag:github.com,2022-10-30:/lmaccherone/node-localstorage</id>
+    <link href="https://github.com/lmaccherone/node-localstorage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A drop-in substitute for the browser native localStorage API that runs on node.js.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>c9s/BenchmarkTest</title>
+    <updated>2022-10-30T01:44:33Z</updated>
+    <id>tag:github.com,2022-10-30:/c9s/BenchmarkTest</id>
+    <link href="https://github.com/c9s/BenchmarkTest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>node-cache/node-cache</title>
+    <updated>2022-10-30T01:44:33Z</updated>
+    <id>tag:github.com,2022-10-30:/node-cache/node-cache</id>
+    <link href="https://github.com/node-cache/node-cache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a node internal (in-memory) caching module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

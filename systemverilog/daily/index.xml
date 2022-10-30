@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:41:11Z</updated>
+  <updated>2022-10-30T01:42:01Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>avisalmon/VGAstarter_DE10_lite</title>
-    <updated>2022-10-29T01:41:11Z</updated>
-    <id>tag:github.com,2022-10-29:/avisalmon/VGAstarter_DE10_lite</id>
-    <link href="https://github.com/avisalmon/VGAstarter_DE10_lite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starter Verilog project for VGA games on DE10 lite&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

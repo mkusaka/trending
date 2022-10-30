@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:42:15Z</updated>
+  <updated>2022-10-30T01:42:50Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>machlibs/zmath</title>
-    <updated>2022-10-29T01:42:15Z</updated>
-    <id>tag:github.com,2022-10-29:/machlibs/zmath</id>
-    <link href="https://github.com/machlibs/zmath" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zig-gamedev/zmath, but as a standalone repository. 1:1 copy otherwise.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

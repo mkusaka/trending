@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-29T01:33:22Z</updated>
+  <updated>2022-10-30T01:34:14Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maykbrito/nlw-copa-card</title>
-    <updated>2022-10-29T01:33:22Z</updated>
-    <id>tag:github.com,2022-10-29:/maykbrito/nlw-copa-card</id>
-    <link href="https://github.com/maykbrito/nlw-copa-card" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Aprenda a desenvolver esse código pelo vídeo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zack-Dx/Mini-TODO</title>
-    <updated>2022-10-29T01:33:22Z</updated>
-    <id>tag:github.com,2022-10-29:/Zack-Dx/Mini-TODO</id>
-    <link href="https://github.com/Zack-Dx/Mini-TODO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository to contribute at hacktoberfest 2022. Make sure to share love by giving it a star🌟. Have a great day!&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img style=&#34;background-color: black&#34; src=&#34;https://hotemoji.com/images/dl/7/memo-emoji-by-google.png&#34; width=&#34;10%&#34;&gt; &#xA; &lt;h2 align=&#34;center&#34; style=&#34;margin-top: -12px&#34;&gt;Mini-TODO&lt;/h2&gt; &#xA; &lt;h3&gt;An opensource todo app made with html,css and javascript&lt;/h3&gt; &#xA;&lt;/div&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://github.com/Zack-Dx/Mini-TODO/issues&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/issues/Zack-Dx/Mini-TODO?color=0d1117&amp;amp;style=flat-square&#34; alt=&#34;GitHub Issues&#34;&gt; &lt;/a&gt;&lt;a href=&#34;https://github.com/Zack-Dx/Mini-TODO/stargazers&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/stars/Zack-Dx/Mini-TODO?style=flat-square&amp;amp;color=0d1117&#34; alt=&#34;GitHub Stars&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/Zack-Dx/Mini-TODO/pulls&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/issues-pr/Zack-Dx/Mini-TODO?color=0d1117&amp;amp;style=flat-square&#34; alt=&#34;GitHub Pull Requests&#34;&gt;&lt;/a&gt; &lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://raw.githubusercontent.com/Zack-Dx/Mini-TODO/master/#introduction&#34;&gt;Introduction&lt;/a&gt; • &lt;a href=&#34;https://github.com/Zack-Dx/Mini-TODO/raw/master/CONTRIBUTING.md&#34;&gt;Contributing Guide&lt;/a&gt; • &lt;a href=&#34;https://raw.githubusercontent.com/Zack-Dx/Mini-TODO/master/#contributors&#34;&gt;Contributors&lt;/a&gt; • &lt;a href=&#34;https://raw.githubusercontent.com/Zack-Dx/Mini-TODO/master/#usage&#34;&gt;Usage&lt;/a&gt; &lt;/p&gt; &#xA;&lt;h2&gt;&lt;a name=&#34;introduction&#34;&gt;📌 Introduction&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;Mini-TODO is a Web Application made using HTML, CSS, and Javascript. It is easy to use application where the user can make notes on the go and Delete them whenever required.&lt;/p&gt; &#xA;&lt;p&gt;Features of the application include:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Create Notes&lt;/li&gt; &#xA; &lt;li&gt;Delete Notes&lt;/li&gt; &#xA; &lt;li&gt;Edit Notes&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;&lt;a name=&#34;how-to-contribute&#34;&gt;💥 How to Contribute?&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Take a look at the Existing &lt;a href=&#34;https://github.com/Zack-Dx/Mini-TODO/issues&#34;&gt;Issues&lt;/a&gt; or create your Issues!&lt;/li&gt; &#xA; &lt;li&gt;Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.&lt;/li&gt; &#xA; &lt;li&gt;Add Screenshots to help us know what your contribution is all about.&lt;/li&gt; &#xA; &lt;li&gt;Having difficulty in contributing? Read the &lt;a href=&#34;https://github.com/Zack-Dx/Mini-TODO/raw/master/CONTRIBUTING.md&#34;&gt;Contribution Guide&lt;/a&gt; for a detailed explanation.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;&lt;a name=&#34;usage&#34;&gt;💻 Usage&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/67597538/198573875-d16c8268-9f7b-4cd3-9187-32995461d0c2.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;&lt;a name=&#34;contributors&#34;&gt;👥 Contributors&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;a href=&#34;https://github.com/Zack-Dx/Mini-TODO/graphs/contributors&#34;&gt; &lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://contrib.rocks/image?repo=Zack-Dx/Mini-TODO&#34;&gt; &lt;/p&gt; &lt;/a&gt; &#xA;&lt;br&gt; &#xA;&lt;h5 align=&#34;center&#34;&gt; &lt;/h5&gt;</summary>
+    <title>xcwill/CMeKG_labelingPlatform</title>
+    <updated>2022-10-30T01:34:14Z</updated>
+    <id>tag:github.com,2022-10-30:/xcwill/CMeKG_labelingPlatform</id>
+    <link href="https://github.com/xcwill/CMeKG_labelingPlatform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;实体关系标注平台&lt;/h1&gt; &#xA;&lt;h1&gt;CMeKG_labelingPlatform&lt;/h1&gt; &#xA;&lt;h1&gt;CMeKG_labelingPlatform&lt;/h1&gt;</summary>
   </entry>
 </feed>
