@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:35:37Z</updated>
+  <updated>2022-10-31T01:34:06Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>geodynamics/specfem3d</title>
-    <updated>2022-10-30T01:35:37Z</updated>
-    <id>tag:github.com,2022-10-30:/geodynamics/specfem3d</id>
-    <link href="https://github.com/geodynamics/specfem3d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SPECFEM3D_Cartesian simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>geoschem/HEMCO</title>
-    <updated>2022-10-30T01:35:37Z</updated>
-    <id>tag:github.com,2022-10-30:/geoschem/HEMCO</id>
-    <link href="https://github.com/geoschem/HEMCO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Harmonized Emissions Component (HEMCO), developed by the GEOS-Chem Support Team&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

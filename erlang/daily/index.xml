@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:35:29Z</updated>
+  <updated>2022-10-31T01:33:58Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kafka4beam/snabbkaffe</title>
-    <updated>2022-10-30T01:35:29Z</updated>
-    <id>tag:github.com,2022-10-30:/kafka4beam/snabbkaffe</id>
-    <link href="https://github.com/kafka4beam/snabbkaffe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Distributed trace-based test framework with fault injection&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kivra/context</title>
-    <updated>2022-10-30T01:35:29Z</updated>
-    <id>tag:github.com,2022-10-30:/kivra/context</id>
-    <link href="https://github.com/kivra/context" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang Standard Context&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aeternity/aeserialization</title>
+    <updated>2022-10-31T01:33:58Z</updated>
+    <id>tag:github.com,2022-10-31:/aeternity/aeserialization</id>
+    <link href="https://github.com/aeternity/aeserialization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Serialization formats for the aeternity node&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

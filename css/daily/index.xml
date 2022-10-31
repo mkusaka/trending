@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:34:14Z</updated>
+  <updated>2022-10-31T01:32:55Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xcwill/CMeKG_labelingPlatform</title>
-    <updated>2022-10-30T01:34:14Z</updated>
-    <id>tag:github.com,2022-10-30:/xcwill/CMeKG_labelingPlatform</id>
-    <link href="https://github.com/xcwill/CMeKG_labelingPlatform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;实体关系标注平台&lt;/h1&gt; &#xA;&lt;h1&gt;CMeKG_labelingPlatform&lt;/h1&gt; &#xA;&lt;h1&gt;CMeKG_labelingPlatform&lt;/h1&gt;</summary>
+    <title>digitalinnovationone/js-developer-pokedex</title>
+    <updated>2022-10-31T01:32:55Z</updated>
+    <id>tag:github.com,2022-10-31:/digitalinnovationone/js-developer-pokedex</id>
+    <link href="https://github.com/digitalinnovationone/js-developer-pokedex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Trilha JS Developer - Pokedex&lt;/h1&gt;</summary>
   </entry>
 </feed>

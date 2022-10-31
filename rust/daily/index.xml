@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:40:20Z</updated>
+  <updated>2022-10-31T01:39:03Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>n0-computer/iroh</title>
-    <updated>2022-10-30T01:40:20Z</updated>
-    <id>tag:github.com,2022-10-30:/n0-computer/iroh</id>
-    <link href="https://github.com/n0-computer/iroh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The most efficient implementation of IPFS on any planet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dudykr/stc</title>
+    <updated>2022-10-31T01:39:03Z</updated>
+    <id>tag:github.com,2022-10-31:/dudykr/stc</id>
+    <link href="https://github.com/dudykr/stc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Speedy TypeScript type checker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mkawalec/deluge</title>
-    <updated>2022-10-30T01:40:20Z</updated>
-    <id>tag:github.com,2022-10-30:/mkawalec/deluge</id>
-    <link href="https://github.com/mkawalec/deluge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deluge, not a stream&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/cc-rs</title>
+    <updated>2022-10-31T01:39:03Z</updated>
+    <id>tag:github.com,2022-10-31:/rust-lang/cc-rs</id>
+    <link href="https://github.com/rust-lang/cc-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust library for build scripts to compile C/C++ code into a Rust library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bastion-rs/bastion</title>
-    <updated>2022-10-30T01:40:20Z</updated>
-    <id>tag:github.com,2022-10-30:/bastion-rs/bastion</id>
-    <link href="https://github.com/bastion-rs/bastion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Highly-available Distributed Fault-tolerant Runtime&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jito-foundation/jito-solana</title>
+    <updated>2022-10-31T01:39:03Z</updated>
+    <id>tag:github.com,2022-10-31:/jito-foundation/jito-solana</id>
+    <link href="https://github.com/jito-foundation/jito-solana" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jito Foundation MEV Solana Client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:35:03Z</updated>
+  <updated>2022-10-31T01:33:39Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phoenixframework/phoenix_view</title>
-    <updated>2022-10-30T01:35:03Z</updated>
-    <id>tag:github.com,2022-10-30:/phoenixframework/phoenix_view</id>
-    <link href="https://github.com/phoenixframework/phoenix_view" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;View abstraction for Phoenix v1.0-v1.6&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>electric-sql/electric</title>
+    <updated>2022-10-31T01:33:39Z</updated>
+    <id>tag:github.com,2022-10-31:/electric-sql/electric</id>
+    <link href="https://github.com/electric-sql/electric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ElectricSQL core replication services.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ambry-app/ambry</title>
-    <updated>2022-10-30T01:35:03Z</updated>
-    <id>tag:github.com,2022-10-30:/ambry-app/ambry</id>
-    <link href="https://github.com/ambry-app/ambry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Self-hosted audiobook streaming server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iamvery/iamvery-elixir</title>
+    <updated>2022-10-31T01:33:39Z</updated>
+    <id>tag:github.com,2022-10-31:/iamvery/iamvery-elixir</id>
+    <link href="https://github.com/iamvery/iamvery-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal collection of utilities and ideas in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kommitters/kadena.ex</title>
-    <updated>2022-10-30T01:35:03Z</updated>
-    <id>tag:github.com,2022-10-30:/kommitters/kadena.ex</id>
-    <link href="https://github.com/kommitters/kadena.ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir library to interact with the Kadena blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>malach-it/boruta-server</title>
+    <updated>2022-10-31T01:33:39Z</updated>
+    <id>tag:github.com,2022-10-31:/malach-it/boruta-server</id>
+    <link href="https://github.com/malach-it/boruta-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight Identity and Access Management server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

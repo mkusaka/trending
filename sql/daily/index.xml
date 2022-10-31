@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:41:29Z</updated>
+  <updated>2022-10-31T01:40:08Z</updated>
   <subtitle>Daily Trending of SQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>basedosdados/mais</title>
-    <updated>2022-10-30T01:41:29Z</updated>
-    <id>tag:github.com,2022-10-30:/basedosdados/mais</id>
-    <link href="https://github.com/basedosdados/mais" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚙️ Código de manutenção do datalake (metadados e pacotes de acesso) | 📖 Docs: https://basedosdados.github.io/mais/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

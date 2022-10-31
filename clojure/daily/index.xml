@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:34:01Z</updated>
+  <updated>2022-10-31T01:32:42Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arohner/prxml</title>
-    <updated>2022-10-30T01:34:01Z</updated>
-    <id>tag:github.com,2022-10-30:/arohner/prxml</id>
-    <link href="https://github.com/arohner/prxml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;clojure contrib prxml as a standalone&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kriyative/clj-http-client</title>
+    <updated>2022-10-31T01:32:42Z</updated>
+    <id>tag:github.com,2022-10-31:/kriyative/clj-http-client</id>
+    <link href="https://github.com/kriyative/clj-http-client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal HTTP client for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>whamtet/redlobster</title>
-    <updated>2022-10-30T01:34:01Z</updated>
-    <id>tag:github.com,2022-10-30:/whamtet/redlobster</id>
-    <link href="https://github.com/whamtet/redlobster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ClojureScript promises for Node&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>justone/bb-pod-racer</title>
+    <updated>2022-10-31T01:32:42Z</updated>
+    <id>tag:github.com,2022-10-31:/justone/bb-pod-racer</id>
+    <link href="https://github.com/justone/bb-pod-racer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Speed up development of Babashka pods&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

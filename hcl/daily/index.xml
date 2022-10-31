@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:36:06Z</updated>
+  <updated>2022-10-31T01:34:42Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>josephmachado/data_engineering_project_template</title>
+    <updated>2022-10-31T01:34:42Z</updated>
+    <id>tag:github.com,2022-10-31:/josephmachado/data_engineering_project_template</id>
+    <link href="https://github.com/josephmachado/data_engineering_project_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A template repository to create a data project with IAC, CI/CD, Data migrations, &amp; testing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>utrains/utrains_terraform_three_tiers</title>
+    <updated>2022-10-31T01:34:42Z</updated>
+    <id>tag:github.com,2022-10-31:/utrains/utrains_terraform_three_tiers</id>
+    <link href="https://github.com/utrains/utrains_terraform_three_tiers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>npalm/terraform-aws-gitlab-runner</title>
+    <updated>2022-10-31T01:34:42Z</updated>
+    <id>tag:github.com,2022-10-31:/npalm/terraform-aws-gitlab-runner</id>
+    <link href="https://github.com/npalm/terraform-aws-gitlab-runner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for AWS GitLab runners on ec2 (spot) instances&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

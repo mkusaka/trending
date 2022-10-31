@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:40:54Z</updated>
+  <updated>2022-10-31T01:39:28Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Adellica/chicken-mobile</title>
+    <updated>2022-10-31T01:39:28Z</updated>
+    <id>tag:github.com,2022-10-31:/Adellica/chicken-mobile</id>
+    <link href="https://github.com/Adellica/chicken-mobile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[DEAD] Make building chicken-scheme apps on Android easier (iOS to come, maybe)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

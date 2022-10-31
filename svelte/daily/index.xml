@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:41:35Z</updated>
+  <updated>2022-10-31T01:40:17Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>simeydotme/pokemon-cards-css</title>
-    <updated>2022-10-30T01:41:35Z</updated>
-    <id>tag:github.com,2022-10-30:/simeydotme/pokemon-cards-css</id>
-    <link href="https://github.com/simeydotme/pokemon-cards-css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ballerine-io/ballerine</title>
-    <updated>2022-10-30T01:41:35Z</updated>
-    <id>tag:github.com,2022-10-30:/ballerine-io/ballerine</id>
-    <link href="https://github.com/ballerine-io/ballerine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ballerine is an open-source infrastructure for user identity and risk management&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lego37yoon/isspc-yespc</title>
-    <updated>2022-10-30T01:41:35Z</updated>
-    <id>tag:github.com,2022-10-30:/lego37yoon/isspc-yespc</id>
-    <link href="https://github.com/lego37yoon/isspc-yespc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SPC 식품을 찾아줘요!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

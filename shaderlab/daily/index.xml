@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:40:57Z</updated>
+  <updated>2022-10-31T01:39:32Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BioSparkDreamer/InsideProductions</title>
-    <updated>2022-10-30T01:40:57Z</updated>
-    <id>tag:github.com,2022-10-30:/BioSparkDreamer/InsideProductions</id>
-    <link href="https://github.com/BioSparkDreamer/InsideProductions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LiteraryGames/Week-10---Interfaces-Public</title>
-    <updated>2022-10-30T01:40:57Z</updated>
-    <id>tag:github.com,2022-10-30:/LiteraryGames/Week-10---Interfaces-Public</id>
-    <link href="https://github.com/LiteraryGames/Week-10---Interfaces-Public" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:32:20Z</updated>
+  <updated>2022-10-31T01:31:11Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>plantuml-stdlib/C4-PlantUML</title>
-    <updated>2022-10-30T01:32:20Z</updated>
-    <id>tag:github.com,2022-10-30:/plantuml-stdlib/C4-PlantUML</id>
-    <link href="https://github.com/plantuml-stdlib/C4-PlantUML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/sql-server-samples</title>
+    <updated>2022-10-31T01:31:11Z</updated>
+    <id>tag:github.com,2022-10-31:/microsoft/sql-server-samples</id>
+    <link href="https://github.com/microsoft/sql-server-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Qihoo360/safe-rules</title>
-    <updated>2022-10-30T01:32:20Z</updated>
-    <id>tag:github.com,2022-10-30:/Qihoo360/safe-rules</id>
-    <link href="https://github.com/Qihoo360/safe-rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;详细的C/C++编程规范指南，由360质量工程部编著，适用于桌面、服务端及嵌入式软件系统。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ACL4SSR/ACL4SSR</title>
+    <updated>2022-10-31T01:31:11Z</updated>
+    <id>tag:github.com,2022-10-31:/ACL4SSR/ACL4SSR</id>
+    <link href="https://github.com/ACL4SSR/ACL4SSR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>programthink/books</title>
-    <updated>2022-10-30T01:32:20Z</updated>
-    <id>tag:github.com,2022-10-30:/programthink/books</id>
-    <link href="https://github.com/programthink/books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;【编程随想】收藏的电子书清单（多个学科，含下载链接）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DivineEngine/Profiles</title>
+    <updated>2022-10-31T01:31:11Z</updated>
+    <id>tag:github.com,2022-10-31:/DivineEngine/Profiles</id>
+    <link href="https://github.com/DivineEngine/Profiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌐Dial-up Internet access&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:42:38Z</updated>
+  <updated>2022-10-31T01:41:17Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jellyfin/jellyfin-vue</title>
+    <updated>2022-10-31T01:41:17Z</updated>
+    <id>tag:github.com,2022-10-31:/jellyfin/jellyfin-vue</id>
+    <link href="https://github.com/jellyfin/jellyfin-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern web client for Jellyfin based on Vue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Diving-Fish/maimaidx-prober</title>
+    <updated>2022-10-31T01:41:17Z</updated>
+    <id>tag:github.com,2022-10-31:/Diving-Fish/maimaidx-prober</id>
+    <link href="https://github.com/Diving-Fish/maimaidx-prober" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;舞萌 DX 查分器&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Goldfish-Social/Goldfish</title>
+    <updated>2022-10-31T01:41:17Z</updated>
+    <id>tag:github.com,2022-10-31:/Goldfish-Social/Goldfish</id>
+    <link href="https://github.com/Goldfish-Social/Goldfish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Goldfish Social - Free open source alternative for Vine / TikTok (alpha). ActivityPub will come later!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

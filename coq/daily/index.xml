@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Coq Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-30T01:34:08Z</updated>
+  <updated>2022-10-31T01:32:50Z</updated>
   <subtitle>Daily Trending of Coq in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>math-comp/analysis</title>
-    <updated>2022-10-30T01:34:08Z</updated>
-    <id>tag:github.com,2022-10-30:/math-comp/analysis</id>
-    <link href="https://github.com/math-comp/analysis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mathematical Components compliant Analysis Library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
