@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:58:47Z</updated>
+  <subtitle>Monthly Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>couchbase/product-texts</title>
+    <updated>2022-11-01T01:58:47Z</updated>
+    <id>tag:github.com,2022-11-01:/couchbase/product-texts</id>
+    <link href="https://github.com/couchbase/product-texts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for product-specific documents (e.g. READMEs, license files, etc.)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TP-Lab/tokens</title>
+    <updated>2022-11-01T01:58:47Z</updated>
+    <id>tag:github.com,2022-11-01:/TP-Lab/tokens</id>
+    <link href="https://github.com/TP-Lab/tokens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Token assets for TokenPocket&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vajrang-b/RPA-Developer-in-30-Days</title>
+    <updated>2022-11-01T01:58:47Z</updated>
+    <id>tag:github.com,2022-11-01:/vajrang-b/RPA-Developer-in-30-Days</id>
+    <link href="https://github.com/vajrang-b/RPA-Developer-in-30-Days" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;We will use this repo to understand and develop code,&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

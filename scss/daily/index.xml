@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:39:31Z</updated>
+  <updated>2022-11-01T01:39:31Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AnubisNekhet/AnuPpuccin</title>
-    <updated>2022-10-31T01:39:31Z</updated>
-    <id>tag:github.com,2022-10-31:/AnubisNekhet/AnuPpuccin</id>
-    <link href="https://github.com/AnubisNekhet/AnuPpuccin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal theme for Obsidian&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>twitter/opensource-website</title>
-    <updated>2022-10-31T01:39:31Z</updated>
-    <id>tag:github.com,2022-10-31:/twitter/opensource-website</id>
-    <link href="https://github.com/twitter/opensource-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Twitter&#39;s open source website, identifying projects we&#39;ve released, organizations we support, and the work we do to support open source.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Comfy-Themes/Spicetify</title>
+    <updated>2022-11-01T01:39:31Z</updated>
+    <id>tag:github.com,2022-11-01:/Comfy-Themes/Spicetify</id>
+    <link href="https://github.com/Comfy-Themes/Spicetify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stay comfy while listening to music&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

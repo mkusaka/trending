@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:57:21Z</updated>
+  <subtitle>Monthly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>input-output-hk/cardano-world</title>
+    <updated>2022-11-01T01:57:21Z</updated>
+    <id>tag:github.com,2022-11-01:/input-output-hk/cardano-world</id>
+    <link href="https://github.com/input-output-hk/cardano-world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NixOS/nixos-hardware</title>
+    <updated>2022-11-01T01:57:21Z</updated>
+    <id>tag:github.com,2022-11-01:/NixOS/nixos-hardware</id>
+    <link href="https://github.com/NixOS/nixos-hardware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of NixOS modules covering hardware quirks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>confluentinc/coding-in-motion</title>
+    <updated>2022-11-01T01:57:21Z</updated>
+    <id>tag:github.com,2022-11-01:/confluentinc/coding-in-motion</id>
+    <link href="https://github.com/confluentinc/coding-in-motion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for the &#34;Coding in Motion&#34; series.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

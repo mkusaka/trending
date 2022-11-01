@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MLIR Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:57:12Z</updated>
+  <subtitle>Monthly Trending of MLIR in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>openxla/stablehlo</title>
+    <updated>2022-11-01T01:57:12Z</updated>
+    <id>tag:github.com,2022-11-01:/openxla/stablehlo</id>
+    <link href="https://github.com/openxla/stablehlo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Backward compatible ML compute opset inspired by HLO/MHLO&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

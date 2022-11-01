@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:53:47Z</updated>
+  <subtitle>Monthly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ovi/DummyJSON</title>
+    <updated>2022-11-01T01:53:47Z</updated>
+    <id>tag:github.com,2022-11-01:/Ovi/DummyJSON</id>
+    <link href="https://github.com/Ovi/DummyJSON" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DummyJSON provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lighthouse-labs/HTML-sea-shanty</title>
+    <updated>2022-11-01T01:53:47Z</updated>
+    <id>tag:github.com,2022-11-01:/lighthouse-labs/HTML-sea-shanty</id>
+    <link href="https://github.com/lighthouse-labs/HTML-sea-shanty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The HTML Sea Shanty webpage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codemistic/HacktoberFest</title>
+    <updated>2022-11-01T01:53:47Z</updated>
+    <id>tag:github.com,2022-11-01:/codemistic/HacktoberFest</id>
+    <link href="https://github.com/codemistic/HacktoberFest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An exclusive repository to make your first contribution to Open Source and HactoberFest 2022.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

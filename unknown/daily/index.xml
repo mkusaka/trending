@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:31:11Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-11-01T01:31:13Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/sql-server-samples</title>
-    <updated>2022-10-31T01:31:11Z</updated>
-    <id>tag:github.com,2022-10-31:/microsoft/sql-server-samples</id>
-    <link href="https://github.com/microsoft/sql-server-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getsurfboard/surfboard</title>
+    <updated>2022-11-01T01:31:13Z</updated>
+    <id>tag:github.com,2022-11-01:/getsurfboard/surfboard</id>
+    <link href="https://github.com/getsurfboard/surfboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ACL4SSR/ACL4SSR</title>
-    <updated>2022-10-31T01:31:11Z</updated>
-    <id>tag:github.com,2022-10-31:/ACL4SSR/ACL4SSR</id>
-    <link href="https://github.com/ACL4SSR/ACL4SSR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GoldHEN/GoldHEN</title>
+    <updated>2022-11-01T01:31:13Z</updated>
+    <id>tag:github.com,2022-11-01:/GoldHEN/GoldHEN</id>
+    <link href="https://github.com/GoldHEN/GoldHEN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PS4 Homebrew Enabler&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DivineEngine/Profiles</title>
-    <updated>2022-10-31T01:31:11Z</updated>
-    <id>tag:github.com,2022-10-31:/DivineEngine/Profiles</id>
-    <link href="https://github.com/DivineEngine/Profiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌐Dial-up Internet access&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hmaverickadams/Beginner-Network-Pentesting</title>
+    <updated>2022-11-01T01:31:13Z</updated>
+    <id>tag:github.com,2022-11-01:/hmaverickadams/Beginner-Network-Pentesting</id>
+    <link href="https://github.com/hmaverickadams/Beginner-Network-Pentesting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Notes for Beginner Network Pentesting Course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:32:04Z</updated>
+  <updated>2022-11-01T01:31:52Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>s-cart/s-cart</title>
-    <updated>2022-10-31T01:32:04Z</updated>
-    <id>tag:github.com,2022-10-31:/s-cart/s-cart</id>
-    <link href="https://github.com/s-cart/s-cart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free Laravel open source e-commerce for business: shopping cart, cms content, and more...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>blumilksoftware/meetup</title>
-    <updated>2022-10-31T01:32:04Z</updated>
-    <id>tag:github.com,2022-10-31:/blumilksoftware/meetup</id>
-    <link href="https://github.com/blumilksoftware/meetup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base for meetup applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>samiullahsaleem/cyberblock</title>
+    <updated>2022-11-01T01:31:52Z</updated>
+    <id>tag:github.com,2022-11-01:/samiullahsaleem/cyberblock</id>
+    <link href="https://github.com/samiullahsaleem/cyberblock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is open source repository for Hacktoberfest 2022. Don&#39;t forget to spread love and if you like give us a ⭐️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

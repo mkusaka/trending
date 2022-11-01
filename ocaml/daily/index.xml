@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:37:19Z</updated>
+  <updated>2022-11-01T01:37:22Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sanette/bogue</title>
-    <updated>2022-10-31T01:37:19Z</updated>
-    <id>tag:github.com,2022-10-31:/sanette/bogue</id>
-    <link href="https://github.com/sanette/bogue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GUI library for ocaml based on SDL2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>janestreet/bonsai</title>
-    <updated>2022-10-31T01:37:19Z</updated>
-    <id>tag:github.com,2022-10-31:/janestreet/bonsai</id>
-    <link href="https://github.com/janestreet/bonsai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library for building dynamic webapps, using Js_of_ocaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

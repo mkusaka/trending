@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NSIS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:37:04Z</updated>
+  <updated>2022-11-01T01:37:09Z</updated>
   <subtitle>Daily Trending of NSIS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Shair17/wannabemygf</title>
-    <updated>2022-10-31T01:37:04Z</updated>
-    <id>tag:github.com,2022-10-31:/Shair17/wannabemygf</id>
-    <link href="https://github.com/Shair17/wannabemygf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fun way to express your feelings if you are a programmer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

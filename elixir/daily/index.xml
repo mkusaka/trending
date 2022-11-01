@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:33:39Z</updated>
+  <updated>2022-11-01T01:33:29Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>electric-sql/electric</title>
-    <updated>2022-10-31T01:33:39Z</updated>
-    <id>tag:github.com,2022-10-31:/electric-sql/electric</id>
-    <link href="https://github.com/electric-sql/electric" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ElectricSQL core replication services.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hexpm/hexpm</title>
+    <updated>2022-11-01T01:33:29Z</updated>
+    <id>tag:github.com,2022-11-01:/hexpm/hexpm</id>
+    <link href="https://github.com/hexpm/hexpm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;API server and website for Hex&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iamvery/iamvery-elixir</title>
-    <updated>2022-10-31T01:33:39Z</updated>
-    <id>tag:github.com,2022-10-31:/iamvery/iamvery-elixir</id>
-    <link href="https://github.com/iamvery/iamvery-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal collection of utilities and ideas in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>swoosh/swoosh</title>
+    <updated>2022-11-01T01:33:29Z</updated>
+    <id>tag:github.com,2022-11-01:/swoosh/swoosh</id>
+    <link href="https://github.com/swoosh/swoosh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compose, deliver and test your emails easily in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>malach-it/boruta-server</title>
-    <updated>2022-10-31T01:33:39Z</updated>
-    <id>tag:github.com,2022-10-31:/malach-it/boruta-server</id>
-    <link href="https://github.com/malach-it/boruta-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight Identity and Access Management server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pro-football-focus/libcluster_ecs</title>
+    <updated>2022-11-01T01:33:29Z</updated>
+    <id>tag:github.com,2022-11-01:/pro-football-focus/libcluster_ecs</id>
+    <link href="https://github.com/pro-football-focus/libcluster_ecs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;libcluster provider for AWS ECS instances using awsvpc netowork mode&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

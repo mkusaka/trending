@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:57:41Z</updated>
+  <subtitle>Monthly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>peazip/PeaZip</title>
+    <updated>2022-11-01T01:57:41Z</updated>
+    <id>tag:github.com,2022-11-01:/peazip/PeaZip</id>
+    <link href="https://github.com/peazip/PeaZip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tarcode-apps/BatteryMode</title>
+    <updated>2022-11-01T01:57:41Z</updated>
+    <id>tag:github.com,2022-11-01:/tarcode-apps/BatteryMode</id>
+    <link href="https://github.com/tarcode-apps/BatteryMode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows Battery Indicator replacement&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nodemcu/nodemcu-flasher</title>
+    <updated>2022-11-01T01:57:41Z</updated>
+    <id>tag:github.com,2022-11-01:/nodemcu/nodemcu-flasher</id>
+    <link href="https://github.com/nodemcu/nodemcu-flasher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A firmware Flash tool for nodemcu&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

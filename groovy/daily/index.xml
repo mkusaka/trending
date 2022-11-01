@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:34:36Z</updated>
+  <updated>2022-11-01T01:34:20Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alphagov/govuk-jenkinslib</title>
-    <updated>2022-10-31T01:34:36Z</updated>
-    <id>tag:github.com,2022-10-31:/alphagov/govuk-jenkinslib</id>
-    <link href="https://github.com/alphagov/govuk-jenkinslib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Groovy library that is used by GOV.UK for Jenkins CI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>krlaframboise/SmartThings</title>
+    <updated>2022-11-01T01:34:20Z</updated>
+    <id>tag:github.com,2022-11-01:/krlaframboise/SmartThings</id>
+    <link href="https://github.com/krlaframboise/SmartThings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>IBM/dbb-zappbuild</title>
-    <updated>2022-10-31T01:34:36Z</updated>
-    <id>tag:github.com,2022-10-31:/IBM/dbb-zappbuild</id>
-    <link href="https://github.com/IBM/dbb-zappbuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zAppBuild is a generic build solution for building z/OS applications using Apache Groovy build scripts and IBM Dependency Based Build (DBB) APIs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RavitejaAdepudi/vamsi</title>
+    <updated>2022-11-01T01:34:20Z</updated>
+    <id>tag:github.com,2022-11-01:/RavitejaAdepudi/vamsi</id>
+    <link href="https://github.com/RavitejaAdepudi/vamsi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

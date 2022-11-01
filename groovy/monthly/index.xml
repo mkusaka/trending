@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:54:52Z</updated>
+  <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>encube/SchoolRegistrationSystem</title>
+    <updated>2022-11-01T01:54:52Z</updated>
+    <id>tag:github.com,2022-11-01:/encube/SchoolRegistrationSystem</id>
+    <link href="https://github.com/encube/SchoolRegistrationSystem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MithunTechnologiesDevOps/slacknotification-sharedlibs</title>
+    <updated>2022-11-01T01:54:52Z</updated>
+    <id>tag:github.com,2022-11-01:/MithunTechnologiesDevOps/slacknotification-sharedlibs</id>
+    <link href="https://github.com/MithunTechnologiesDevOps/slacknotification-sharedlibs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jmvrbanac/gradle-js-boilerplate</title>
+    <updated>2022-11-01T01:54:52Z</updated>
+    <id>tag:github.com,2022-11-01:/jmvrbanac/gradle-js-boilerplate</id>
+    <link href="https://github.com/jmvrbanac/gradle-js-boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boilerplate Javascript project using Gradle and Jasmine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

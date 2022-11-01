@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:59:46Z</updated>
+  <subtitle>Monthly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>envoyproxy/data-plane-api</title>
+    <updated>2022-11-01T01:59:46Z</updated>
+    <id>tag:github.com,2022-11-01:/envoyproxy/data-plane-api</id>
+    <link href="https://github.com/envoyproxy/data-plane-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[READ ONLY MIRROR] Envoy REST/proto API definitions and documentation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>swift-nav/swiftnav-bazel</title>
+    <updated>2022-11-01T01:59:46Z</updated>
+    <id>tag:github.com,2022-11-01:/swift-nav/swiftnav-bazel</id>
+    <link href="https://github.com/swift-nav/swiftnav-bazel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Swift bazel repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cncf/udpa</title>
+    <updated>2022-11-01T01:59:46Z</updated>
+    <id>tag:github.com,2022-11-01:/cncf/udpa</id>
+    <link href="https://github.com/cncf/udpa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌌📊✈Universal Data Plane API Working Group (UDPA-WG)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

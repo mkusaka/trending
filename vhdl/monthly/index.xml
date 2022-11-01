@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VHDL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T02:00:32Z</updated>
+  <subtitle>Monthly Trending of VHDL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>texane/vhdl</title>
+    <updated>2022-11-01T02:00:32Z</updated>
+    <id>tag:github.com,2022-11-01:/texane/vhdl</id>
+    <link href="https://github.com/texane/vhdl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vhdl related contents&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stnolting/neorv32</title>
+    <updated>2022-11-01T02:00:32Z</updated>
+    <id>tag:github.com,2022-11-01:/stnolting/neorv32</id>
+    <link href="https://github.com/stnolting/neorv32" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🖥️ A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>agg23/openfpga-SNES</title>
+    <updated>2022-11-01T02:00:32Z</updated>
+    <id>tag:github.com,2022-11-01:/agg23/openfpga-SNES</id>
+    <link href="https://github.com/agg23/openfpga-SNES" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SNES for the Analogue Pocket&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

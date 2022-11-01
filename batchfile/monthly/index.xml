@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:52:12Z</updated>
+  <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lxgw/LxgwWenKai</title>
+    <updated>2022-11-01T01:52:12Z</updated>
+    <id>tag:github.com,2022-11-01:/lxgw/LxgwWenKai</id>
+    <link href="https://github.com/lxgw/LxgwWenKai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>badafans/better-cloudflare-ip</title>
+    <updated>2022-11-01T01:52:12Z</updated>
+    <id>tag:github.com,2022-11-01:/badafans/better-cloudflare-ip</id>
+    <link href="https://github.com/badafans/better-cloudflare-ip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;查找适合自己当前网络环境的优选cloudflare anycast IP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FQrabbit/SSTap-Rule</title>
+    <updated>2022-11-01T01:52:12Z</updated>
+    <id>tag:github.com,2022-11-01:/FQrabbit/SSTap-Rule</id>
+    <link href="https://github.com/FQrabbit/SSTap-Rule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;支持更多游戏规则，让SSTap成为真正的“网游加速器”&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

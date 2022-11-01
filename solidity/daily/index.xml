@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:40:06Z</updated>
+  <updated>2022-11-01T01:39:57Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2022-10-zksync</title>
-    <updated>2022-10-31T01:40:06Z</updated>
-    <id>tag:github.com,2022-10-31:/code-423n4/2022-10-zksync</id>
-    <link href="https://github.com/code-423n4/2022-10-zksync" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>a16z/erc4626-tests</title>
-    <updated>2022-10-31T01:40:06Z</updated>
-    <id>tag:github.com,2022-10-31:/a16z/erc4626-tests</id>
-    <link href="https://github.com/a16z/erc4626-tests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ERC4626 Property Tests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FydeTreasury/Diamond-Foundry</title>
+    <updated>2022-11-01T01:39:57Z</updated>
+    <id>tag:github.com,2022-11-01:/FydeTreasury/Diamond-Foundry</id>
+    <link href="https://github.com/FydeTreasury/Diamond-Foundry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foundry version of Diamond Pattern (EIP-2535) reference implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

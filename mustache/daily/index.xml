@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:36:57Z</updated>
+  <updated>2022-11-01T01:37:01Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oll-test-repos/cityofsanmateo-law-static-assets</title>
-    <updated>2022-10-31T01:36:57Z</updated>
-    <id>tag:github.com,2022-10-31:/oll-test-repos/cityofsanmateo-law-static-assets</id>
-    <link href="https://github.com/oll-test-repos/cityofsanmateo-law-static-assets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;contains partners static assets (css, js, ...)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>itzg/minecraft-server-charts</title>
-    <updated>2022-10-31T01:36:57Z</updated>
-    <id>tag:github.com,2022-10-31:/itzg/minecraft-server-charts</id>
-    <link href="https://github.com/itzg/minecraft-server-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinted-theming/base16-iterm2</title>
+    <updated>2022-11-01T01:37:01Z</updated>
+    <id>tag:github.com,2022-11-01:/tinted-theming/base16-iterm2</id>
+    <link href="https://github.com/tinted-theming/base16-iterm2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base16 for iTerm2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

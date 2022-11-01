@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Mustache Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:57:16Z</updated>
+  <subtitle>Monthly Trending of Mustache in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SonarSource/helm-chart-sonarqube</title>
+    <updated>2022-11-01T01:57:16Z</updated>
+    <id>tag:github.com,2022-11-01:/SonarSource/helm-chart-sonarqube</id>
+    <link href="https://github.com/SonarSource/helm-chart-sonarqube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>redkubes/otomi-core</title>
+    <updated>2022-11-01T01:57:16Z</updated>
+    <id>tag:github.com,2022-11-01:/redkubes/otomi-core</id>
+    <link href="https://github.com/redkubes/otomi-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Self-hosted PaaS for Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kedacore/charts</title>
+    <updated>2022-11-01T01:57:16Z</updated>
+    <id>tag:github.com,2022-11-01:/kedacore/charts</id>
+    <link href="https://github.com/kedacore/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for KEDA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

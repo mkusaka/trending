@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:52:48Z</updated>
+  <subtitle>Monthly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nextjournal/clerk</title>
+    <updated>2022-11-01T01:52:48Z</updated>
+    <id>tag:github.com,2022-11-01:/nextjournal/clerk</id>
+    <link href="https://github.com/nextjournal/clerk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡️ Moldable Live Programming for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seancorfield/build-uber-log4j2-handler</title>
+    <updated>2022-11-01T01:52:48Z</updated>
+    <id>tag:github.com,2022-11-01:/seancorfield/build-uber-log4j2-handler</id>
+    <link href="https://github.com/seancorfield/build-uber-log4j2-handler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conflict handler for log4j2 plugins cache files for the tools.build uber task.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seancorfield/build-clj</title>
+    <updated>2022-11-01T01:52:48Z</updated>
+    <id>tag:github.com,2022-11-01:/seancorfield/build-clj</id>
+    <link href="https://github.com/seancorfield/build-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common build tasks abstracted into a library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

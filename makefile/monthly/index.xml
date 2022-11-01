@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:57:06Z</updated>
+  <subtitle>Monthly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>frida/frida</title>
+    <updated>2022-11-01T01:57:06Z</updated>
+    <id>tag:github.com,2022-11-01:/frida/frida</id>
+    <link href="https://github.com/frida/frida" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone this repo to build Frida&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JustEnoughLinuxOS/distribution</title>
+    <updated>2022-11-01T01:57:06Z</updated>
+    <id>tag:github.com,2022-11-01:/JustEnoughLinuxOS/distribution</id>
+    <link href="https://github.com/JustEnoughLinuxOS/distribution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Home of the JELOS Linux distribution.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feiskyer/kubernetes-handbook</title>
+    <updated>2022-11-01T01:57:06Z</updated>
+    <id>tag:github.com,2022-11-01:/feiskyer/kubernetes-handbook</id>
+    <link href="https://github.com/feiskyer/kubernetes-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kubernetes Handbook （Kubernetes指南） https://kubernetes.feisky.xyz&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

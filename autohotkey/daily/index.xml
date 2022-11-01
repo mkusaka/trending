@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:31:56Z</updated>
+  <updated>2022-11-01T01:31:47Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Altify-Development/krnl-linkvertise-bypass</title>
-    <updated>2022-10-31T01:31:56Z</updated>
-    <id>tag:github.com,2022-10-31:/Altify-Development/krnl-linkvertise-bypass</id>
-    <link href="https://github.com/Altify-Development/krnl-linkvertise-bypass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;autohotkey linkvertise bypasser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seonglae/intuiter</title>
+    <updated>2022-11-01T01:31:47Z</updated>
+    <id>tag:github.com,2022-11-01:/seonglae/intuiter</id>
+    <link href="https://github.com/seonglae/intuiter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Global productivity app for anyone who use Windows&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

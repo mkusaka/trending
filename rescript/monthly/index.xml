@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ReScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:58:46Z</updated>
+  <subtitle>Monthly Trending of ReScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ungstein/OG-Steam</title>
+    <updated>2022-11-01T01:58:46Z</updated>
+    <id>tag:github.com,2022-11-01:/ungstein/OG-Steam</id>
+    <link href="https://github.com/ungstein/OG-Steam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Classic Steam Skin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rescript-lang/rescript-project-template</title>
+    <updated>2022-11-01T01:58:46Z</updated>
+    <id>tag:github.com,2022-11-01:/rescript-lang/rescript-project-template</id>
+    <link href="https://github.com/rescript-lang/rescript-project-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone this repo to start your own project!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

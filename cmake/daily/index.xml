@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-10-31T01:32:45Z</updated>
+  <updated>2022-11-01T01:32:34Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mc-rtc/mc-rtc-superbuild</title>
-    <updated>2022-10-31T01:32:45Z</updated>
-    <id>tag:github.com,2022-10-31:/mc-rtc/mc-rtc-superbuild</id>
-    <link href="https://github.com/mc-rtc/mc-rtc-superbuild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build mc-rtc and mc-rtc related projects with a super project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pal-robotics/hey5_description</title>
+    <updated>2022-11-01T01:32:34Z</updated>
+    <id>tag:github.com,2022-11-01:/pal-robotics/hey5_description</id>
+    <link href="https://github.com/pal-robotics/hey5_description" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AXERA-TECH/ax-pipeline</title>
+    <updated>2022-11-01T01:32:34Z</updated>
+    <id>tag:github.com,2022-11-01:/AXERA-TECH/ax-pipeline</id>
+    <link href="https://github.com/AXERA-TECH/ax-pipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Pipeline example based on AXear-Pi (AX620A) shows the software development skills of ISP, Image Processing, NPU, Encoding, and Display modules, which is helpful for users to develop their own multimedia applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

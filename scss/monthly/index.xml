@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-01T01:59:15Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IanLunn/Hover</title>
+    <updated>2022-11-01T01:59:15Z</updated>
+    <id>tag:github.com,2022-11-01:/IanLunn/Hover</id>
+    <link href="https://github.com/IanLunn/Hover" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jackyzha0/quartz</title>
+    <updated>2022-11-01T01:59:15Z</updated>
+    <id>tag:github.com,2022-11-01:/jackyzha0/quartz</id>
+    <link href="https://github.com/jackyzha0/quartz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌱 host your own second brain and digital garden for free&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ceciliamay/obsidianmd-theme-primary</title>
+    <updated>2022-11-01T01:59:15Z</updated>
+    <id>tag:github.com,2022-11-01:/ceciliamay/obsidianmd-theme-primary</id>
+    <link href="https://github.com/ceciliamay/obsidianmd-theme-primary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Comfy, playful but productive theme for Obsidian. &#34;Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
