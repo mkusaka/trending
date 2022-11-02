@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:41:06Z</updated>
+  <updated>2022-11-02T01:38:50Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>EsupPortail/esup-pstage</title>
-    <updated>2022-11-01T01:41:06Z</updated>
-    <id>tag:github.com,2022-11-01:/EsupPortail/esup-pstage</id>
-    <link href="https://github.com/EsupPortail/esup-pstage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

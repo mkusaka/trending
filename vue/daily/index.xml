@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:40:58Z</updated>
+  <updated>2022-11-02T01:38:45Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kavyanshpandey/Asset-Management-System</title>
-    <updated>2022-11-01T01:40:58Z</updated>
-    <id>tag:github.com,2022-11-01:/kavyanshpandey/Asset-Management-System</id>
-    <link href="https://github.com/kavyanshpandey/Asset-Management-System" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is basically a small application that I made in weekend.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Orginone/oiocns-web-vue</title>
-    <updated>2022-11-01T01:40:58Z</updated>
-    <id>tag:github.com,2022-11-01:/Orginone/oiocns-web-vue</id>
-    <link href="https://github.com/Orginone/oiocns-web-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;奥集能前端vue版本&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stick-i/scblogs</title>
-    <updated>2022-11-01T01:40:58Z</updated>
-    <id>tag:github.com,2022-11-01:/stick-i/scblogs</id>
-    <link href="https://github.com/stick-i/scblogs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于微服务架构的前后端分离的博客社区系统，欢迎大家参与项目开发，一起建设(学习)，前端后端安卓端都可以✨，有兴趣的同学私聊我噢😘。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:39:08Z</updated>
+  <updated>2022-11-02T01:37:02Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>meilisearch/milli</title>
-    <updated>2022-11-01T01:39:08Z</updated>
-    <id>tag:github.com,2022-11-01:/meilisearch/milli</id>
-    <link href="https://github.com/meilisearch/milli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Search engine library for Meilisearch ⚡️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LaurentMazare/tch-rs</title>
+    <updated>2022-11-02T01:37:02Z</updated>
+    <id>tag:github.com,2022-11-02:/LaurentMazare/tch-rs</id>
+    <link href="https://github.com/LaurentMazare/tch-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust bindings for the C++ api of PyTorch.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FuelLabs/sway</title>
-    <updated>2022-11-01T01:39:08Z</updated>
-    <id>tag:github.com,2022-11-01:/FuelLabs/sway</id>
-    <link href="https://github.com/FuelLabs/sway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌴 Empowering everyone to build reliable and efficient smart contracts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flosse/rust-web-framework-comparison</title>
-    <updated>2022-11-01T01:39:08Z</updated>
-    <id>tag:github.com,2022-11-01:/flosse/rust-web-framework-comparison</id>
-    <link href="https://github.com/flosse/rust-web-framework-comparison" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A comparison of some web frameworks and libs written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>benwr/soanm</title>
+    <updated>2022-11-02T01:37:02Z</updated>
+    <id>tag:github.com,2022-11-02:/benwr/soanm</id>
+    <link href="https://github.com/benwr/soanm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shell Of A New Machine: Quickly configure new environments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

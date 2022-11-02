@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:40:23Z</updated>
+  <updated>2022-11-02T01:38:13Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LearnPrologNow/lpn</title>
+    <updated>2022-11-02T01:38:13Z</updated>
+    <id>tag:github.com,2022-11-02:/LearnPrologNow/lpn</id>
+    <link href="https://github.com/LearnPrologNow/lpn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Prolog Now LaTeX sources&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Learn Prolog Now! source text&lt;/h1&gt; &#xA;&lt;h2&gt;Directories&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;archive&#x9;&#x9;contains old stuff (just for the record)&#xA;web_site&#x9;contains sources of OLD website&#xA;prolog&#x9;&#x9;example prolog databases&#xA;text&#x9;&#x9;contains latex sources and produced ps and pdf files&#xA;scripts&#x9;&#x9;contains shell/perl scripts for conversion and pdf production&#xA;www&#x9;&#x9;contains sources of current website&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Scripts&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;scripts/_generate_html&#x9;converts html from latex sources&#xA;scripts/_run&#x9;&#x9;produces lpn.ps and lpn.pdf&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Character set&lt;/h2&gt; &#xA;&lt;p&gt;The sources are ISO-Latin-1 files. They do not compile after conversion to UTF-8. The scripts must be executed under non-UTF-8 locale.&lt;/p&gt;</summary>
+  </entry>
 </feed>

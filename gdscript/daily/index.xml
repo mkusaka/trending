@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:33:56Z</updated>
+  <updated>2022-11-02T01:33:03Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>moonbench/simple-godot-train</title>
-    <updated>2022-11-01T01:33:56Z</updated>
-    <id>tag:github.com,2022-11-01:/moonbench/simple-godot-train</id>
-    <link href="https://github.com/moonbench/simple-godot-train" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2D Train implementation demo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BL-MSCH-C220-F22/Exercise-05b-Procedural-Generation</title>
-    <updated>2022-11-01T01:33:56Z</updated>
-    <id>tag:github.com,2022-11-01:/BL-MSCH-C220-F22/Exercise-05b-Procedural-Generation</id>
-    <link href="https://github.com/BL-MSCH-C220-F22/Exercise-05b-Procedural-Generation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Thanduriel/cyborg-tower-boxing</title>
-    <updated>2022-11-01T01:33:56Z</updated>
-    <id>tag:github.com,2022-11-01:/Thanduriel/cyborg-tower-boxing</id>
-    <link href="https://github.com/Thanduriel/cyborg-tower-boxing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AcaGamejam 10/2022&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

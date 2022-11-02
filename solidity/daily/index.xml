@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:39:57Z</updated>
+  <updated>2022-11-02T01:37:45Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FydeTreasury/Diamond-Foundry</title>
-    <updated>2022-11-01T01:39:57Z</updated>
-    <id>tag:github.com,2022-11-01:/FydeTreasury/Diamond-Foundry</id>
-    <link href="https://github.com/FydeTreasury/Diamond-Foundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Foundry version of Diamond Pattern (EIP-2535) reference implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jspruance/aave-flash-loan-tutorial</title>
+    <updated>2022-11-02T01:37:45Z</updated>
+    <id>tag:github.com,2022-11-02:/jspruance/aave-flash-loan-tutorial</id>
+    <link href="https://github.com/jspruance/aave-flash-loan-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create an Aave Flash Loan arbitrage smart contract from scratch in this comprehensive flash loan tutorial from Block Explorer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>1inch/erc20-pods</title>
+    <updated>2022-11-02T01:37:45Z</updated>
+    <id>tag:github.com,2022-11-02:/1inch/erc20-pods</id>
+    <link href="https://github.com/1inch/erc20-pods" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OptimizorClub/sqrt_foundry_template</title>
+    <updated>2022-11-02T01:37:45Z</updated>
+    <id>tag:github.com,2022-11-02:/OptimizorClub/sqrt_foundry_template</id>
+    <link href="https://github.com/OptimizorClub/sqrt_foundry_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foundry template for the Optimizor Club SQRT challenge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

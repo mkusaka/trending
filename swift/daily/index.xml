@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:40:09Z</updated>
+  <updated>2022-11-02T01:37:55Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vapor/http</title>
-    <updated>2022-11-01T01:40:09Z</updated>
-    <id>tag:github.com,2022-11-01:/vapor/http</id>
-    <link href="https://github.com/vapor/http" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Non-blocking, event-driven HTTP built on Swift NIO.&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/1342803/38903730-611d852e-4274-11e8-9370-7f968061d6d7.png&#34; height=&#34;64&#34; alt=&#34;HTTP&#34;&gt; &lt;br&gt; &lt;br&gt; &lt;a href=&#34;https://docs.vapor.codes/3.0/http/getting-started/&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/read_the-docs-2196f3.svg?sanitize=true&#34; alt=&#34;Documentation&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://discord.gg/vapor&#34;&gt; &lt;img src=&#34;https://img.shields.io/discord/431917998102675485.svg?sanitize=true&#34; alt=&#34;Team Chat&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://raw.githubusercontent.com/vapor/http/main/LICENSE&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/license-MIT-brightgreen.svg?sanitize=true&#34; alt=&#34;MIT License&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://circleci.com/gh/vapor/http&#34;&gt; &lt;img src=&#34;https://circleci.com/gh/vapor/http.svg?style=shield&#34; alt=&#34;Continuous Integration&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://swift.org&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/swift-5-brightgreen.svg?sanitize=true&#34; alt=&#34;Swift 5&#34;&gt; &lt;/a&gt; &lt;/p&gt;</summary>
-  </entry>
 </feed>

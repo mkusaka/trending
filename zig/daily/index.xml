@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:41:11Z</updated>
+  <updated>2022-11-02T01:38:53Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hejsil/aniz</title>
+    <updated>2022-11-02T01:38:53Z</updated>
+    <id>tag:github.com,2022-11-02:/Hejsil/aniz</id>
+    <link href="https://github.com/Hejsil/aniz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A program for keeping a local list of anime you have watched&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

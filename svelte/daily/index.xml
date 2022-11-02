@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:40:09Z</updated>
+  <updated>2022-11-02T01:37:53Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kryptokrona/hugin-desktop</title>
-    <updated>2022-11-01T01:40:09Z</updated>
-    <id>tag:github.com,2022-11-01:/kryptokrona/hugin-desktop</id>
-    <link href="https://github.com/kryptokrona/hugin-desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The new version of the private messaging desktop application powered by the Kryptokrona Blockchain.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

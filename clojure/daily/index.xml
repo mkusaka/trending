@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:32:31Z</updated>
+  <updated>2022-11-02T01:32:02Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Wall-Brew-Co/brew-bot</title>
-    <updated>2022-11-01T01:32:31Z</updated>
-    <id>tag:github.com,2022-11-01:/Wall-Brew-Co/brew-bot</id>
-    <link href="https://github.com/Wall-Brew-Co/brew-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A quick, dirty way to get randomized beer recipes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>johanfylling/jarl</title>
-    <updated>2022-11-01T01:32:31Z</updated>
-    <id>tag:github.com,2022-11-01:/johanfylling/jarl</id>
-    <link href="https://github.com/johanfylling/jarl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jarl, the JVM Alternative for the Rego Language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starburstdata/metabase-driver</title>
+    <updated>2022-11-02T01:32:02Z</updated>
+    <id>tag:github.com,2022-11-02:/starburstdata/metabase-driver</id>
+    <link href="https://github.com/starburstdata/metabase-driver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starburst Metabase driver&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

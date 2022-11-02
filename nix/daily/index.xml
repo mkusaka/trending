@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:37:07Z</updated>
+  <updated>2022-11-02T01:35:33Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mtoohey31/infra</title>
-    <updated>2022-11-01T01:37:07Z</updated>
-    <id>tag:github.com,2022-11-01:/mtoohey31/infra</id>
-    <link href="https://github.com/mtoohey31/infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal infrastructure, as code in the form of a Nix flake.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>natural-transformation/sbtix</title>
+    <updated>2022-11-02T01:35:33Z</updated>
+    <id>tag:github.com,2022-11-02:/natural-transformation/sbtix</id>
+    <link href="https://github.com/natural-transformation/sbtix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a fork of https://gitlab.com/teozkr/Sbtix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GTrunSec/cells-lab</title>
+    <updated>2022-11-02T01:35:33Z</updated>
+    <id>tag:github.com,2022-11-02:/GTrunSec/cells-lab</id>
+    <link href="https://github.com/GTrunSec/cells-lab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:31:43Z</updated>
+  <updated>2022-11-02T01:31:19Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tylernguyen/x1c6-hackintosh</title>
-    <updated>2022-11-01T01:31:43Z</updated>
-    <id>tag:github.com,2022-11-01:/tylernguyen/x1c6-hackintosh</id>
-    <link href="https://github.com/tylernguyen/x1c6-hackintosh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;READMEs, OpenCore configurations, patches, and notes for the Thinkpad X1 Carbon 6th Gen 2018 Hackintosh&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

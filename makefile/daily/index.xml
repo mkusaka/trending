@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:36:49Z</updated>
+  <updated>2022-11-02T01:35:18Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PretendoNetwork/GiveMiiYouTube</title>
-    <updated>2022-11-01T01:36:49Z</updated>
-    <id>tag:github.com,2022-11-01:/PretendoNetwork/GiveMiiYouTube</id>
-    <link href="https://github.com/PretendoNetwork/GiveMiiYouTube" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Allows the Wii U YouTube app to continue functioning after its discontinuation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bensuperpc/docker-crosstool-ng</title>
-    <updated>2022-11-01T01:36:49Z</updated>
-    <id>tag:github.com,2022-11-01:/bensuperpc/docker-crosstool-ng</id>
-    <link href="https://github.com/bensuperpc/docker-crosstool-ng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;docker-crosstool-ng&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:34:29Z</updated>
+  <updated>2022-11-02T01:33:34Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>upenn-cis5520/09-state</title>
-    <updated>2022-11-01T01:34:29Z</updated>
-    <id>tag:github.com,2022-11-01:/upenn-cis5520/09-state</id>
-    <link href="https://github.com/upenn-cis5520/09-state" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nushio3/learn-haskell</title>
+    <updated>2022-11-02T01:33:34Z</updated>
+    <id>tag:github.com,2022-11-02:/nushio3/learn-haskell</id>
+    <link href="https://github.com/nushio3/learn-haskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;すごいHaskell　つくばで学ぼう！&lt;/h1&gt; &#xA;&lt;p&gt;2016年 筑波大学 Haskell集中講義の資料です。&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;最新の講義資料はこちらを参照してください： &lt;a href=&#34;https://github.com/nushio3/learn-haskell/raw/master/Tsukuba-2016.pdf&#34;&gt;https://github.com/nushio3/learn-haskell/blob/master/Tsukuba-2016.pdf&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;授業中随時、質問が出たポイントをまとめていきます： &lt;a href=&#34;https://github.com/nushio3/learn-haskell/raw/master/tips.md&#34;&gt;https://github.com/nushio3/learn-haskell/blob/master/tips.md&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
   <entry>
-    <title>Tarrasch/gawebsite</title>
-    <updated>2022-11-01T01:34:29Z</updated>
-    <id>tag:github.com,2022-11-01:/Tarrasch/gawebsite</id>
-    <link href="https://github.com/Tarrasch/gawebsite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My gatech.edu/~user web site&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;This is my personal blog which is based upon the &lt;a href=&#34;http://blog.wuzzeb.org&#34;&gt;blog&lt;/a&gt; of John Lenz.&lt;/p&gt;</summary>
+    <title>TikhonJelvis/Presentations</title>
+    <updated>2022-11-02T01:33:34Z</updated>
+    <id>tag:github.com,2022-11-02:/TikhonJelvis/Presentations</id>
+    <link href="https://github.com/TikhonJelvis/Presentations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generating JavaScript presentations from Org-mode files&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;I should write the readme at some point.&lt;/h1&gt;</summary>
   </entry>
 </feed>

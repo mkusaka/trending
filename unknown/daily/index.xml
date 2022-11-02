@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:31:13Z</updated>
+  <updated>2022-11-02T01:30:53Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>getsurfboard/surfboard</title>
-    <updated>2022-11-01T01:31:13Z</updated>
-    <id>tag:github.com,2022-11-01:/getsurfboard/surfboard</id>
-    <link href="https://github.com/getsurfboard/surfboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>milanm/DevOps-Roadmap</title>
+    <updated>2022-11-02T01:30:53Z</updated>
+    <id>tag:github.com,2022-11-02:/milanm/DevOps-Roadmap</id>
+    <link href="https://github.com/milanm/DevOps-Roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps Roadmap for 2022. with learning resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GoldHEN/GoldHEN</title>
-    <updated>2022-11-01T01:31:13Z</updated>
-    <id>tag:github.com,2022-11-01:/GoldHEN/GoldHEN</id>
-    <link href="https://github.com/GoldHEN/GoldHEN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PS4 Homebrew Enabler&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>a8m/golang-cheat-sheet</title>
+    <updated>2022-11-02T01:30:53Z</updated>
+    <id>tag:github.com,2022-11-02:/a8m/golang-cheat-sheet</id>
+    <link href="https://github.com/a8m/golang-cheat-sheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An overview of Go syntax and features.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hmaverickadams/Beginner-Network-Pentesting</title>
-    <updated>2022-11-01T01:31:13Z</updated>
-    <id>tag:github.com,2022-11-01:/hmaverickadams/Beginner-Network-Pentesting</id>
-    <link href="https://github.com/hmaverickadams/Beginner-Network-Pentesting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notes for Beginner Network Pentesting Course&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters</title>
+    <updated>2022-11-02T01:30:53Z</updated>
+    <id>tag:github.com,2022-11-02:/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters</id>
+    <link href="https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of resources for those interested in getting started in bug bounties&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

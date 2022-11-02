@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-01T01:36:03Z</updated>
+  <updated>2022-11-02T01:34:38Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CliMA/ClimaLSM.jl</title>
-    <updated>2022-11-01T01:36:03Z</updated>
-    <id>tag:github.com,2022-11-01:/CliMA/ClimaLSM.jl</id>
-    <link href="https://github.com/CliMA/ClimaLSM.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;an in-progress prototype interface for the land model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timholy/PkgCacheInspector.jl</title>
+    <updated>2022-11-02T01:34:38Z</updated>
+    <id>tag:github.com,2022-11-02:/timholy/PkgCacheInspector.jl</id>
+    <link href="https://github.com/timholy/PkgCacheInspector.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Inspect the contents of Julia package cache files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaSmoothOptimizers/CaNNOLeS.jl</title>
+    <updated>2022-11-02T01:34:38Z</updated>
+    <id>tag:github.com,2022-11-02:/JuliaSmoothOptimizers/CaNNOLeS.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/CaNNOLeS.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Constrained and NoNlinear Optimizer of Least Squares&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaCN/Julia2Nix.jl</title>
+    <updated>2022-11-02T01:34:38Z</updated>
+    <id>tag:github.com,2022-11-02:/JuliaCN/Julia2Nix.jl</id>
+    <link href="https://github.com/JuliaCN/Julia2Nix.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Nix interface to Julia Ecosystem [maintainer=@GTrunSec]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
