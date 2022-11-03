@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:33:06Z</updated>
+  <updated>2022-11-03T01:34:21Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alfredbaudisch/GodotShaderCollection</title>
-    <updated>2022-11-02T01:33:06Z</updated>
-    <id>tag:github.com,2022-11-02:/alfredbaudisch/GodotShaderCollection</id>
-    <link href="https://github.com/alfredbaudisch/GodotShaderCollection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of 3D Shaders for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Adeon18/BaseTeroid</title>
-    <updated>2022-11-02T01:33:06Z</updated>
-    <id>tag:github.com,2022-11-02:/Adeon18/BaseTeroid</id>
-    <link href="https://github.com/Adeon18/BaseTeroid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A a non-Euclidean Asteroid-like game written in a fragment shader(shadertoy)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

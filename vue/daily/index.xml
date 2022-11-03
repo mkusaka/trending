@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:38:45Z</updated>
+  <updated>2022-11-03T01:40:37Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JDArmy/BREAK</title>
+    <updated>2022-11-03T01:40:37Z</updated>
+    <id>tag:github.com,2022-11-03:/JDArmy/BREAK</id>
+    <link href="https://github.com/JDArmy/BREAK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;业务风险枚举与规避知识（Business Risk Enumeration &amp; Avoidance Kownledge）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eehhh/naviii</title>
+    <updated>2022-11-03T01:40:37Z</updated>
+    <id>tag:github.com,2022-11-03:/eehhh/naviii</id>
+    <link href="https://github.com/eehhh/naviii" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个简单优雅的导航页&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jeecgboot/jeecg-uniapp</title>
+    <updated>2022-11-03T01:40:37Z</updated>
+    <id>tag:github.com,2022-11-03:/jeecgboot/jeecg-uniapp</id>
+    <link href="https://github.com/jeecgboot/jeecg-uniapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JEECG BOOT APP 移动解决方案，采用uniapp框架，一份代码多终端适配，同时支持APP、小程序、H5！实现了与JeecgBoot平台完美对接的移动解决方案！目前已经实现登录、用户信息、通讯录、公告、移动首页、九宫格等基础功能。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:33:27Z</updated>
+  <updated>2022-11-03T01:34:38Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>karfunkel/FishyGames</title>
+    <updated>2022-11-03T01:34:38Z</updated>
+    <id>tag:github.com,2022-11-03:/karfunkel/FishyGames</id>
+    <link href="https://github.com/karfunkel/FishyGames" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demonstration Project for Talk: &#34;Von der Designergrafik zur Oberflaeche&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

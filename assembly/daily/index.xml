@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:31:22Z</updated>
+  <updated>2022-11-03T01:31:57Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>susam/hello</title>
-    <updated>2022-11-02T01:31:22Z</updated>
-    <id>tag:github.com,2022-11-02:/susam/hello</id>
-    <link href="https://github.com/susam/hello" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nofxx/mcu_scaffold</title>
-    <updated>2022-11-02T01:31:22Z</updated>
-    <id>tag:github.com,2022-11-02:/nofxx/mcu_scaffold</id>
-    <link href="https://github.com/nofxx/mcu_scaffold" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rake scaffolds for chipsets: ARM/AVR/ESP...&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

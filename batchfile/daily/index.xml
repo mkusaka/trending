@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:31:26Z</updated>
+  <updated>2022-11-03T01:32:02Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lanag313/free_rdp</title>
-    <updated>2022-11-02T01:31:26Z</updated>
-    <id>tag:github.com,2022-11-02:/lanag313/free_rdp</id>
-    <link href="https://github.com/lanag313/free_rdp" rel="alternate"></link>
+    <title>VinzGh1/rdp-free</title>
+    <updated>2022-11-03T01:32:02Z</updated>
+    <id>tag:github.com,2022-11-03:/VinzGh1/rdp-free</id>
+    <link href="https://github.com/VinzGh1/rdp-free" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Hasith035/NGROK-RDP2</title>
+    <updated>2022-11-03T01:32:02Z</updated>
+    <id>tag:github.com,2022-11-03:/Hasith035/NGROK-RDP2</id>
+    <link href="https://github.com/Hasith035/NGROK-RDP2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:33:28Z</updated>
+  <updated>2022-11-03T01:34:38Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AllYarnsAreBeautiful/allyarnsarebeautiful.github.io</title>
-    <updated>2022-11-02T01:33:28Z</updated>
-    <id>tag:github.com,2022-11-02:/AllYarnsAreBeautiful/allyarnsarebeautiful.github.io</id>
-    <link href="https://github.com/AllYarnsAreBeautiful/allyarnsarebeautiful.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the AYAB-Knitting Homepage&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>samleong123/heroku-clearkey-hex-base64-json</title>
+    <updated>2022-11-03T01:34:38Z</updated>
+    <id>tag:github.com,2022-11-03:/samleong123/heroku-clearkey-hex-base64-json</id>
+    <link href="https://github.com/samleong123/heroku-clearkey-hex-base64-json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A barebones PHP app run on Heroku that convert Clearkey in Hex to Base64 and output the Base64 Key and Key ID as JSON&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jussimar/ExemploSiteVulneravel</title>
+    <updated>2022-11-03T01:34:38Z</updated>
+    <id>tag:github.com,2022-11-03:/jussimar/ExemploSiteVulneravel</id>
+    <link href="https://github.com/jussimar/ExemploSiteVulneravel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

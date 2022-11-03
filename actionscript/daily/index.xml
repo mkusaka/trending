@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:31:15Z</updated>
+  <updated>2022-11-03T01:31:49Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mihaibirsan/InvadingHammerica</title>
-    <updated>2022-11-02T01:31:15Z</updated>
-    <id>tag:github.com,2022-11-02:/mihaibirsan/InvadingHammerica</id>
-    <link href="https://github.com/mihaibirsan/InvadingHammerica" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Risk type game, developed for Networking class at FII. The name was chose such as to avoid licencing issues&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ILgiza/start</title>
+    <updated>2022-11-03T01:31:49Z</updated>
+    <id>tag:github.com,2022-11-03:/ILgiza/start</id>
+    <link href="https://github.com/ILgiza/start" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

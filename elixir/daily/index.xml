@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:32:41Z</updated>
+  <updated>2022-11-03T01:33:55Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phcurado/parameter</title>
-    <updated>2022-11-02T01:32:41Z</updated>
-    <id>tag:github.com,2022-11-02:/phcurado/parameter</id>
-    <link href="https://github.com/phcurado/parameter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Schema creation, validation, serialization and deserialization for input data&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>valpackett/httpotion</title>
+    <updated>2022-11-03T01:33:55Z</updated>
+    <id>tag:github.com,2022-11-03:/valpackett/httpotion</id>
+    <link href="https://github.com/valpackett/httpotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

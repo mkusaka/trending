@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:32:33Z</updated>
+  <updated>2022-11-03T01:33:44Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dunglas/frankenphp-wordpress</title>
-    <updated>2022-11-02T01:32:33Z</updated>
-    <id>tag:github.com,2022-11-02:/dunglas/frankenphp-wordpress</id>
-    <link href="https://github.com/dunglas/frankenphp-wordpress" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WordPress on FrankenPHP&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WordPress on FrankenPHP&lt;/h1&gt; &#xA;&lt;p&gt;Run the popular &lt;a href=&#34;https://wordpress.org&#34;&gt;WordPress CMS&lt;/a&gt; on top of &lt;a href=&#34;https://frankenphp.dev&#34;&gt;FrankenPHP&lt;/a&gt;, the modern app server for PHP.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone https://github.com/dunglas/frankenphp-wordpress&#xA;cd frankenphp-wordpress&#xA;docker compose pull --include-deps&#xA;docker compose up&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Your WordPress is available on &lt;code&gt;https://localhost&lt;/code&gt;. Check &lt;code&gt;docker-compose.yml&lt;/code&gt; to find DB credentials.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>nnn-training/intro-curriculum-3019</title>
-    <updated>2022-11-02T01:32:33Z</updated>
-    <id>tag:github.com,2022-11-02:/nnn-training/intro-curriculum-3019</id>
-    <link href="https://github.com/nnn-training/intro-curriculum-3019" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;入門コースの3章20節の練習&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bufbuild/plugins</title>
-    <updated>2022-11-02T01:32:33Z</updated>
-    <id>tag:github.com,2022-11-02:/bufbuild/plugins</id>
-    <link href="https://github.com/bufbuild/plugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hosted plugins available on the BSR&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;plugins&lt;/h1&gt; &#xA;&lt;h2&gt;Description&lt;/h2&gt; &#xA;&lt;p&gt;This repository contains plugins published to the Buf Schema Registry. Each plugin consists of a &lt;code&gt;buf.plugin.yaml&lt;/code&gt; file containing metadata and a &lt;code&gt;Dockerfile&lt;/code&gt; used to build and publish the plugin for remote execution. Plugins are uniquely identified by the combination of the &lt;code&gt;name&lt;/code&gt; and &lt;code&gt;plugin_version&lt;/code&gt; specified in &lt;code&gt;buf.plugin.yaml&lt;/code&gt; and an auto-generated revision which is incremented each time a modified plugin is pushed to the BSR.&lt;/p&gt; &#xA;&lt;p&gt;If you&#39;d like a Protobuf plugin to be added to the Buf Schema Registry, open an issue using the &#39;Plugin Request for Buf Schema Registry&#39; issue template and our team will follow up.&lt;/p&gt; &#xA;&lt;h2&gt;Community&lt;/h2&gt; &#xA;&lt;p&gt;For help and discussion regarding Protobuf plugins, join us on &lt;a href=&#34;https://buf.build/links/slack&#34;&gt;Slack&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;For feature requests, bugs, or technical questions, email us at &lt;a href=&#34;https://raw.githubusercontent.com/bufbuild/plugins/main/dev@buf.build&#34;&gt;dev@buf.build&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

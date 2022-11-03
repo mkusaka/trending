@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:30:53Z</updated>
+  <updated>2022-11-03T01:31:23Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>milanm/DevOps-Roadmap</title>
-    <updated>2022-11-02T01:30:53Z</updated>
-    <id>tag:github.com,2022-11-02:/milanm/DevOps-Roadmap</id>
-    <link href="https://github.com/milanm/DevOps-Roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DevOps Roadmap for 2022. with learning resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NCSC-NL/OpenSSL-2022</title>
+    <updated>2022-11-03T01:31:23Z</updated>
+    <id>tag:github.com,2022-11-03:/NCSC-NL/OpenSSL-2022</id>
+    <link href="https://github.com/NCSC-NL/OpenSSL-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>a8m/golang-cheat-sheet</title>
-    <updated>2022-11-02T01:30:53Z</updated>
-    <id>tag:github.com,2022-11-02:/a8m/golang-cheat-sheet</id>
-    <link href="https://github.com/a8m/golang-cheat-sheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An overview of Go syntax and features.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>v2-dev/awesome-social-engineering</title>
+    <updated>2022-11-03T01:31:23Z</updated>
+    <id>tag:github.com,2022-11-03:/v2-dev/awesome-social-engineering</id>
+    <link href="https://github.com/v2-dev/awesome-social-engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome social engineering resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters</title>
-    <updated>2022-11-02T01:30:53Z</updated>
-    <id>tag:github.com,2022-11-02:/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters</id>
-    <link href="https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of resources for those interested in getting started in bug bounties&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ilovexjp/jkb-simulator</title>
+    <updated>2022-11-03T01:31:23Z</updated>
+    <id>tag:github.com,2022-11-03:/ilovexjp/jkb-simulator</id>
+    <link href="https://github.com/ilovexjp/jkb-simulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 Web 的北京健康宝模拟&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

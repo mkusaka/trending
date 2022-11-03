@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenQASM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-02T01:35:50Z</updated>
+  <updated>2022-11-03T01:37:08Z</updated>
   <subtitle>Daily Trending of OpenQASM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>plum-umd/QNP</title>
+    <updated>2022-11-03T01:37:08Z</updated>
+    <id>tag:github.com,2022-11-03:/plum-umd/QNP</id>
+    <link href="https://github.com/plum-umd/QNP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quantum Natural Proof&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
