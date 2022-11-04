@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-03T01:33:30Z</updated>
+  <updated>2022-11-04T01:32:37Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fluttermapp/flutter_widgets</title>
-    <updated>2022-11-03T01:33:30Z</updated>
-    <id>tag:github.com,2022-11-03:/fluttermapp/flutter_widgets</id>
-    <link href="https://github.com/fluttermapp/flutter_widgets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;the_widgets&lt;/h1&gt; &#xA;&lt;p&gt;A new Flutter project.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;This project is a starting point for a Flutter application.&lt;/p&gt; &#xA;&lt;p&gt;A few resources to get you started if this is your first Flutter project:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.flutter.dev/get-started/codelab&#34;&gt;Lab: Write your first Flutter app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.flutter.dev/cookbook&#34;&gt;Cookbook: Useful Flutter samples&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For help getting started with Flutter development, view the &lt;a href=&#34;https://docs.flutter.dev/&#34;&gt;online documentation&lt;/a&gt;, which offers tutorials, samples, guidance on mobile development, and a full API reference.&lt;/p&gt;</summary>
+    <title>mkobuolys/flutter-design-challenges</title>
+    <updated>2022-11-04T01:32:37Z</updated>
+    <id>tag:github.com,2022-11-04:/mkobuolys/flutter-design-challenges</id>
+    <link href="https://github.com/mkobuolys/flutter-design-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flutter Design Challenges&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Flutter Design Challenges&lt;/h1&gt; &#xA;&lt;h2&gt;Onboarding concept&lt;/h2&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/mkobuolys/flutter-design-challenges/master/assets/onboarding-concept.gif&#34; alt=&#34;Onboarding Concept&#34; width=&#34;600&#34;&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Rotary passcode&lt;/h2&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/mkobuolys/flutter-design-challenges/master/assets/rotary-passcode.gif&#34; alt=&#34;Rotary passcode&#34; width=&#34;600&#34;&gt;</summary>
   </entry>
 </feed>

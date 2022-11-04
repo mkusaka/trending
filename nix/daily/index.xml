@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-03T01:36:50Z</updated>
+  <updated>2022-11-04T01:35:52Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xanderio/dotfiles</title>
-    <updated>2022-11-03T01:36:50Z</updated>
-    <id>tag:github.com,2022-11-03:/xanderio/dotfiles</id>
-    <link href="https://github.com/xanderio/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hdgarrood/haskell-incremental-nix-example</title>
-    <updated>2022-11-03T01:36:50Z</updated>
-    <id>tag:github.com,2022-11-03:/hdgarrood/haskell-incremental-nix-example</id>
-    <link href="https://github.com/hdgarrood/haskell-incremental-nix-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example to illustrate how to set up incremental Haskell Nix builds&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thiagokokada/nix-configs</title>
-    <updated>2022-11-03T01:36:50Z</updated>
-    <id>tag:github.com,2022-11-03:/thiagokokada/nix-configs</id>
-    <link href="https://github.com/thiagokokada/nix-configs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Nix{OS} configuration files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jessestricker/zig-master.nix</title>
+    <updated>2022-11-04T01:35:52Z</updated>
+    <id>tag:github.com,2022-11-04:/jessestricker/zig-master.nix</id>
+    <link href="https://github.com/jessestricker/zig-master.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ A Nix flake providing pre-built master releases of the Zig language and toolchain.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

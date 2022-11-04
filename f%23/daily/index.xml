@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-03T01:34:10Z</updated>
+  <updated>2022-11-04T01:33:23Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>algreen/RssFeeder</title>
-    <updated>2022-11-03T01:34:10Z</updated>
-    <id>tag:github.com,2022-11-03:/algreen/RssFeeder</id>
-    <link href="https://github.com/algreen/RssFeeder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Creating a Rss Feeder App&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

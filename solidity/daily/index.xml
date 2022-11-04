@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-03T01:39:28Z</updated>
+  <updated>2022-11-04T01:38:11Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ArtBlocks/artblocks-contracts</title>
-    <updated>2022-11-03T01:39:28Z</updated>
-    <id>tag:github.com,2022-11-03:/ArtBlocks/artblocks-contracts</id>
-    <link href="https://github.com/ArtBlocks/artblocks-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts that power Art Blocks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smartcontractkit/chainlink-testing-framework</title>
+    <updated>2022-11-04T01:38:11Z</updated>
+    <id>tag:github.com,2022-11-04:/smartcontractkit/chainlink-testing-framework</id>
+    <link href="https://github.com/smartcontractkit/chainlink-testing-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A testing framework for smart contracts and Chainlink nodes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

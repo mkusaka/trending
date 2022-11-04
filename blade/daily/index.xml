@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-03T01:32:04Z</updated>
+  <updated>2022-11-04T01:31:29Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rakutentech/laravel-request-docs</title>
-    <updated>2022-11-03T01:32:04Z</updated>
-    <id>tag:github.com,2022-11-03:/rakutentech/laravel-request-docs</id>
-    <link href="https://github.com/rakutentech/laravel-request-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Effortless API documentation tool for Laravel applications. Swagger alternative.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

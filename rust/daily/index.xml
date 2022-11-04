@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-03T01:38:38Z</updated>
+  <updated>2022-11-04T01:37:33Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leftwm/leftwm</title>
-    <updated>2022-11-03T01:38:38Z</updated>
-    <id>tag:github.com,2022-11-03:/leftwm/leftwm</id>
-    <link href="https://github.com/leftwm/leftwm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiling window manager for Adventurers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>m1guelpf/auto-commit</title>
-    <updated>2022-11-03T01:38:38Z</updated>
-    <id>tag:github.com,2022-11-03:/m1guelpf/auto-commit</id>
-    <link href="https://github.com/m1guelpf/auto-commit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A CLI tool that automatically writes commit messages for you.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hermitcore/rusty-hermit</title>
-    <updated>2022-11-03T01:38:38Z</updated>
-    <id>tag:github.com,2022-11-03:/hermitcore/rusty-hermit</id>
-    <link href="https://github.com/hermitcore/rusty-hermit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RustyHermit - A Rust-based, lightweight unikernel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>guygastineau/rust-trees-that-grow</title>
+    <updated>2022-11-04T01:37:33Z</updated>
+    <id>tag:github.com,2022-11-04:/guygastineau/rust-trees-that-grow</id>
+    <link href="https://github.com/guygastineau/rust-trees-that-grow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brief implementation of Trees that Grow in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

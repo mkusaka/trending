@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-03T01:31:23Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-11-04T01:30:42Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NCSC-NL/OpenSSL-2022</title>
-    <updated>2022-11-03T01:31:23Z</updated>
-    <id>tag:github.com,2022-11-03:/NCSC-NL/OpenSSL-2022</id>
-    <link href="https://github.com/NCSC-NL/OpenSSL-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>windows-powertool/Powertool</title>
+    <updated>2022-11-04T01:30:42Z</updated>
+    <id>tag:github.com,2022-11-04:/windows-powertool/Powertool</id>
+    <link href="https://github.com/windows-powertool/Powertool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>v2-dev/awesome-social-engineering</title>
-    <updated>2022-11-03T01:31:23Z</updated>
-    <id>tag:github.com,2022-11-03:/v2-dev/awesome-social-engineering</id>
-    <link href="https://github.com/v2-dev/awesome-social-engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome social engineering resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>superphiz/dashboards</title>
+    <updated>2022-11-04T01:30:42Z</updated>
+    <id>tag:github.com,2022-11-04:/superphiz/dashboards</id>
+    <link href="https://github.com/superphiz/dashboards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of dashboards related to Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ilovexjp/jkb-simulator</title>
-    <updated>2022-11-03T01:31:23Z</updated>
-    <id>tag:github.com,2022-11-03:/ilovexjp/jkb-simulator</id>
-    <link href="https://github.com/ilovexjp/jkb-simulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 Web 的北京健康宝模拟&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hslatman/awesome-threat-intelligence</title>
+    <updated>2022-11-04T01:30:42Z</updated>
+    <id>tag:github.com,2022-11-04:/hslatman/awesome-threat-intelligence</id>
+    <link href="https://github.com/hslatman/awesome-threat-intelligence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Awesome Threat Intelligence resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
