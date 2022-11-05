@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:31:22Z</updated>
+  <updated>2022-11-05T01:31:09Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Bnyro/WallYou</title>
+    <updated>2022-11-05T01:31:09Z</updated>
+    <id>tag:github.com,2022-11-05:/Bnyro/WallYou</id>
+    <link href="https://github.com/Bnyro/WallYou" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wallpaper app built with Material Design 3 (You)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OrionNavattan/Sonic-2-ASM68K</title>
+    <updated>2022-11-05T01:31:09Z</updated>
+    <id>tag:github.com,2022-11-05:/OrionNavattan/Sonic-2-ASM68K</id>
+    <link href="https://github.com/OrionNavattan/Sonic-2-ASM68K" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WIP disassembly of Sonic the Hedgehog 2, targeting AXM68K (hacked ASM68K with Z80 macros)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

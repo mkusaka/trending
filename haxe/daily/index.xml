@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:33:55Z</updated>
+  <updated>2022-11-05T01:33:18Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lunarcleint/Psych-Advanced-Hscript</title>
+    <updated>2022-11-05T01:33:18Z</updated>
+    <id>tag:github.com,2022-11-05:/lunarcleint/Psych-Advanced-Hscript</id>
+    <link href="https://github.com/lunarcleint/Psych-Advanced-Hscript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bare-bones fork of psych engine designed to be soft coded, but to be used with source code. Has support for advanced hscript.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lunar&#39;s Advanced Psych Fork&lt;/h1&gt; &#xA;&lt;p&gt;A bare-bones fork of psych engine designed to be soft coded in certian ways, but to be used with source code. Has support for advanced hscript intergrated with FNF.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;This fork will stay on Psych Engine V6.3 unless major features are added to future builds!&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/fRACgfU.png&#34; alt=&#34;Minecraft Steve&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Current Developement Status🟡&lt;/h2&gt; &#xA;&lt;p&gt;Current Version: &lt;strong&gt;v0.0.1&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;The current build will be unfinished for awhile, please report any errors you get in the &lt;a href=&#34;https://github.com/lunarcleint/Psych-Advanced-Hscript/issues&#34;&gt;Issues&lt;/a&gt; tab!&lt;/p&gt; &#xA;&lt;h2&gt;Documenation&lt;/h2&gt; &#xA;&lt;p&gt;Coming Soon! (I can&#39;t work git for shit)&lt;/p&gt;</summary>
+  </entry>
 </feed>

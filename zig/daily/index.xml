@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:39:12Z</updated>
+  <updated>2022-11-05T01:38:41Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mbrock/wisp</title>
+    <updated>2022-11-05T01:38:41Z</updated>
+    <id>tag:github.com,2022-11-05:/mbrock/wisp</id>
+    <link href="https://github.com/mbrock/wisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lisp in WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

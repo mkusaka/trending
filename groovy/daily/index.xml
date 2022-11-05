@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:33:48Z</updated>
+  <updated>2022-11-05T01:33:12Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vegaprotocol/jenkins-shared-library</title>
-    <updated>2022-11-04T01:33:48Z</updated>
-    <id>tag:github.com,2022-11-04:/vegaprotocol/jenkins-shared-library</id>
-    <link href="https://github.com/vegaprotocol/jenkins-shared-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jenkins shared library for Vega pipeline needs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>frozenspider/dota-headquarters</title>
+    <updated>2022-11-05T01:33:12Z</updated>
+    <id>tag:github.com,2022-11-05:/frozenspider/dota-headquarters</id>
+    <link href="https://github.com/frozenspider/dota-headquarters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DotA strategy planning tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>etiennestuder/gradle-jooq-plugin</title>
+    <updated>2022-11-05T01:33:12Z</updated>
+    <id>tag:github.com,2022-11-05:/etiennestuder/gradle-jooq-plugin</id>
+    <link href="https://github.com/etiennestuder/gradle-jooq-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin that integrates jOOQ.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

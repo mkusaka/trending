@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:32:13Z</updated>
+  <updated>2022-11-05T01:31:49Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>squint-cljs/cherry</title>
-    <updated>2022-11-04T01:32:13Z</updated>
-    <id>tag:github.com,2022-11-04:/squint-cljs/cherry</id>
-    <link href="https://github.com/squint-cljs/cherry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental ClojureScript to ES6 module compiler&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>babashka/obb</title>
-    <updated>2022-11-04T01:32:13Z</updated>
-    <id>tag:github.com,2022-11-04:/babashka/obb</id>
-    <link href="https://github.com/babashka/obb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ad-hoc ClojureScript scripting of Mac applications via Apple&#39;s Open Scripting Architecture.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dgtized/shimmers</title>
-    <updated>2022-11-04T01:32:13Z</updated>
-    <id>tag:github.com,2022-11-04:/dgtized/shimmers</id>
-    <link href="https://github.com/dgtized/shimmers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Sketchbook of Generative Art&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lfranchi/droplet</title>
+    <updated>2022-11-05T01:31:49Z</updated>
+    <id>tag:github.com,2022-11-05:/lfranchi/droplet</id>
+    <link href="https://github.com/lfranchi/droplet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Datalog in time and space - see http://www.bloom-lang.net&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

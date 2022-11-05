@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:34:58Z</updated>
+  <updated>2022-11-05T01:34:13Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chengchingwen/NeuralAttentionlib.jl</title>
-    <updated>2022-11-04T01:34:58Z</updated>
-    <id>tag:github.com,2022-11-04:/chengchingwen/NeuralAttentionlib.jl</id>
-    <link href="https://github.com/chengchingwen/NeuralAttentionlib.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reusable functionality for defining custom attention/transformer layers.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Quantum-Many-Body/RandomPhaseApproximation.jl</title>
+    <updated>2022-11-05T01:34:13Z</updated>
+    <id>tag:github.com,2022-11-05:/Quantum-Many-Body/RandomPhaseApproximation.jl</id>
+    <link href="https://github.com/Quantum-Many-Body/RandomPhaseApproximation.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standard random phase approximation (particle-hole channel) for quantum lattice system.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

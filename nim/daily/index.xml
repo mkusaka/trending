@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:35:50Z</updated>
+  <updated>2022-11-05T01:34:58Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dizzyliam/pigeon</title>
-    <updated>2022-11-04T01:35:50Z</updated>
-    <id>tag:github.com,2022-11-04:/dizzyliam/pigeon</id>
-    <link href="https://github.com/dizzyliam/pigeon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🕊️ Define procedures on the server, call them from the browser.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brack-lang/transpiler</title>
-    <updated>2022-11-04T01:35:50Z</updated>
-    <id>tag:github.com,2022-11-04:/brack-lang/transpiler</id>
-    <link href="https://github.com/brack-lang/transpiler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Brackets-based markup language for blogs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

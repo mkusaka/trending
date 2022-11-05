@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:37:33Z</updated>
+  <updated>2022-11-05T01:36:37Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>guygastineau/rust-trees-that-grow</title>
-    <updated>2022-11-04T01:37:33Z</updated>
-    <id>tag:github.com,2022-11-04:/guygastineau/rust-trees-that-grow</id>
-    <link href="https://github.com/guygastineau/rust-trees-that-grow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Brief implementation of Trees that Grow in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>framesurge/perseus</title>
+    <updated>2022-11-05T01:36:37Z</updated>
+    <id>tag:github.com,2022-11-05:/framesurge/perseus</id>
+    <link href="https://github.com/framesurge/perseus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A state-driven web development framework for Rust with full support for server-side rendering and static generation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

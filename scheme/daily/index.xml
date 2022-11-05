@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:37:49Z</updated>
+  <updated>2022-11-05T01:37:01Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>manuel-serrano/hop</title>
-    <updated>2022-11-04T01:37:49Z</updated>
-    <id>tag:github.com,2022-11-04:/manuel-serrano/hop</id>
-    <link href="https://github.com/manuel-serrano/hop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multitier JavaScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

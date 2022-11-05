@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:35:52Z</updated>
+  <updated>2022-11-05T01:35:00Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jessestricker/zig-master.nix</title>
-    <updated>2022-11-04T01:35:52Z</updated>
-    <id>tag:github.com,2022-11-04:/jessestricker/zig-master.nix</id>
-    <link href="https://github.com/jessestricker/zig-master.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ A Nix flake providing pre-built master releases of the Zig language and toolchain.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>madjam002/yarnpnp2nix</title>
+    <updated>2022-11-05T01:35:00Z</updated>
+    <id>tag:github.com,2022-11-05:/madjam002/yarnpnp2nix</id>
+    <link href="https://github.com/madjam002/yarnpnp2nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A performance focused and space efficient way of packaging NodeJS applications with Nix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ruixi-rebirth/nixos-config</title>
+    <updated>2022-11-05T01:35:00Z</updated>
+    <id>tag:github.com,2022-11-05:/Ruixi-rebirth/nixos-config</id>
+    <link href="https://github.com/Ruixi-rebirth/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My presonal NixOS config&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>internet4refugees/beherbergung</title>
+    <updated>2022-11-05T01:35:00Z</updated>
+    <id>tag:github.com,2022-11-05:/internet4refugees/beherbergung</id>
+    <link href="https://github.com/internet4refugees/beherbergung" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for ngos, organizing private hosting 💙 💛&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

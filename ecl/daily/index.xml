@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ECL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:33:00Z</updated>
+  <updated>2022-11-05T01:32:29Z</updated>
   <subtitle>Daily Trending of ECL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bobf2000/ODSCWest2022</title>
-    <updated>2022-11-04T01:33:00Z</updated>
-    <id>tag:github.com,2022-11-04:/bobf2000/ODSCWest2022</id>
-    <link href="https://github.com/bobf2000/ODSCWest2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Workshop Code for ODSCWest 2022 San Francisco Nov 1-4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:35:36Z</updated>
+  <updated>2022-11-05T01:34:46Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jesperancinha/isbn-stacks</title>
-    <updated>2022-11-04T01:35:36Z</updated>
-    <id>tag:github.com,2022-11-04:/jesperancinha/isbn-stacks</id>
-    <link href="https://github.com/jesperancinha/isbn-stacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Worldwide, the ISBN number is used. It is a massive collection of numbers which uniquely identify books per type and edition. Based on that, this project is here to evaluate the recent experimental project from the spring team called Spring-FU. As DSL that, when released, it will allow Spring applications to be developed without the use of annot…&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bensuperpc/docker-rgbds</title>
+    <updated>2022-11-05T01:34:46Z</updated>
+    <id>tag:github.com,2022-11-05:/bensuperpc/docker-rgbds</id>
+    <link href="https://github.com/bensuperpc/docker-rgbds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;rgbds compiler in docker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:33:03Z</updated>
+  <updated>2022-11-05T01:32:32Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>surgeventures/protein-elixir</title>
-    <updated>2022-11-04T01:33:03Z</updated>
-    <id>tag:github.com,2022-11-04:/surgeventures/protein-elixir</id>
-    <link href="https://github.com/surgeventures/protein-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-platform remote procedure call (RPC) system based on Protocol Buffers. Package for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>surgeventures/sea-elixir</title>
-    <updated>2022-11-04T01:33:03Z</updated>
-    <id>tag:github.com,2022-11-04:/surgeventures/sea-elixir</id>
-    <link href="https://github.com/surgeventures/sea-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Side-effect abstraction for Elixir - signal and observe your side-effects like a pro&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>surgeventures/surgex</title>
-    <updated>2022-11-04T01:33:03Z</updated>
-    <id>tag:github.com,2022-11-04:/surgeventures/surgex</id>
-    <link href="https://github.com/surgeventures/surgex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All Things Elixir @ Surge Ventures Inc, the creators of Fresha&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

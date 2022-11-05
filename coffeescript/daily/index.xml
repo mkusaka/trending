@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:32:17Z</updated>
+  <updated>2022-11-05T01:31:53Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>balena-os/balena-intel</title>
-    <updated>2022-11-04T01:32:17Z</updated>
-    <id>tag:github.com,2022-11-04:/balena-os/balena-intel</id>
-    <link href="https://github.com/balena-os/balena-intel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Balena support for Intel boards&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>balena-os/balena-generic</title>
+    <updated>2022-11-05T01:31:53Z</updated>
+    <id>tag:github.com,2022-11-05:/balena-os/balena-generic</id>
+    <link href="https://github.com/balena-os/balena-generic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Balena support for generic devices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

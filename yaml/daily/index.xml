@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-04T01:39:08Z</updated>
+  <updated>2022-11-05T01:38:38Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elastic/dbt</title>
-    <updated>2022-11-04T01:39:08Z</updated>
-    <id>tag:github.com,2022-11-04:/elastic/dbt</id>
-    <link href="https://github.com/elastic/dbt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data Build Tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>victor-gp/cmd-help-sublime-syntax</title>
+    <updated>2022-11-05T01:38:38Z</updated>
+    <id>tag:github.com,2022-11-05:/victor-gp/cmd-help-sublime-syntax</id>
+    <link href="https://github.com/victor-gp/cmd-help-sublime-syntax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sublime Syntax definition for sharkdp/bat to colorize command --help messages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
