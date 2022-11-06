@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:37:56Z</updated>
+  <updated>2022-11-06T01:41:55Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pulp-platform/iDMA</title>
-    <updated>2022-11-05T01:37:56Z</updated>
-    <id>tag:github.com,2022-11-05:/pulp-platform/iDMA</id>
-    <link href="https://github.com/pulp-platform/iDMA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modular, parametrizable, and highly flexible Data Movement Accelerator (DMA)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pulp-platform/clint</title>
+    <updated>2022-11-06T01:41:55Z</updated>
+    <id>tag:github.com,2022-11-06:/pulp-platform/clint</id>
+    <link href="https://github.com/pulp-platform/clint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RISC-V Core Local Interrupt Controller (CLINT)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

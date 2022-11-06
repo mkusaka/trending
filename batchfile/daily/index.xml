@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:31:12Z</updated>
+  <updated>2022-11-06T01:33:27Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AyrA/ZipBomb</title>
-    <updated>2022-11-05T01:31:12Z</updated>
-    <id>tag:github.com,2022-11-05:/AyrA/ZipBomb</id>
-    <link href="https://github.com/AyrA/ZipBomb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;About an old technology that still screws up some anti virus software&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>amatyahoo/Free-RDP</title>
+    <updated>2022-11-06T01:33:27Z</updated>
+    <id>tag:github.com,2022-11-06:/amatyahoo/Free-RDP</id>
+    <link href="https://github.com/amatyahoo/Free-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;No Tutorial 🥱&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hengdang00/virtual-private-server-free</title>
-    <updated>2022-11-05T01:31:12Z</updated>
-    <id>tag:github.com,2022-11-05:/hengdang00/virtual-private-server-free</id>
-    <link href="https://github.com/hengdang00/virtual-private-server-free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;free rdp rep&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>conda-forge/perl-devel-assert-feedstock</title>
-    <updated>2022-11-05T01:31:12Z</updated>
-    <id>tag:github.com,2022-11-05:/conda-forge/perl-devel-assert-feedstock</id>
-    <link href="https://github.com/conda-forge/perl-devel-assert-feedstock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A conda-smithy repository for perl-devel-assert.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kenn-notation/DooRektEktivities</title>
+    <updated>2022-11-06T01:33:27Z</updated>
+    <id>tag:github.com,2022-11-06:/kenn-notation/DooRektEktivities</id>
+    <link href="https://github.com/kenn-notation/DooRektEktivities" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

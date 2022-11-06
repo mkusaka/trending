@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:31:49Z</updated>
+  <updated>2022-11-06T01:34:08Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lfranchi/droplet</title>
-    <updated>2022-11-05T01:31:49Z</updated>
-    <id>tag:github.com,2022-11-05:/lfranchi/droplet</id>
-    <link href="https://github.com/lfranchi/droplet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Datalog in time and space - see http://www.bloom-lang.net&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rboyd/picasso</title>
+    <updated>2022-11-06T01:34:08Z</updated>
+    <id>tag:github.com,2022-11-06:/rboyd/picasso</id>
+    <link href="https://github.com/rboyd/picasso" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rubik&#39;s cube in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

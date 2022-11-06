@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:44:00Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ethz-asl/maplab_test_data</title>
+    <updated>2022-11-06T01:44:00Z</updated>
+    <id>tag:github.com,2022-11-06:/ethz-asl/maplab_test_data</id>
+    <link href="https://github.com/ethz-asl/maplab_test_data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eProsima/foonathan_memory_vendor</title>
+    <updated>2022-11-06T01:44:00Z</updated>
+    <id>tag:github.com,2022-11-06:/eProsima/foonathan_memory_vendor</id>
+    <link href="https://github.com/eProsima/foonathan_memory_vendor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;foonathan/memory vendor package for Fast DDS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethz-asl/nlopt</title>
+    <updated>2022-11-06T01:44:00Z</updated>
+    <id>tag:github.com,2022-11-06:/ethz-asl/nlopt</id>
+    <link href="https://github.com/ethz-asl/nlopt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This package integrates NL opt with Catkin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

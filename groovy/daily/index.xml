@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:33:12Z</updated>
+  <updated>2022-11-06T01:35:55Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>frozenspider/dota-headquarters</title>
-    <updated>2022-11-05T01:33:12Z</updated>
-    <id>tag:github.com,2022-11-05:/frozenspider/dota-headquarters</id>
-    <link href="https://github.com/frozenspider/dota-headquarters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DotA strategy planning tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Zer0d/ddayRepo</title>
+    <updated>2022-11-06T01:35:55Z</updated>
+    <id>tag:github.com,2022-11-06:/Zer0d/ddayRepo</id>
+    <link href="https://github.com/Zer0d/ddayRepo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ka-ching! You zero&#39;d another repo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>etiennestuder/gradle-jooq-plugin</title>
-    <updated>2022-11-05T01:33:12Z</updated>
-    <id>tag:github.com,2022-11-05:/etiennestuder/gradle-jooq-plugin</id>
-    <link href="https://github.com/etiennestuder/gradle-jooq-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin that integrates jOOQ.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dennyzhang/cheatsheet-jenkins-groovy-A4</title>
+    <updated>2022-11-06T01:35:55Z</updated>
+    <id>tag:github.com,2022-11-06:/dennyzhang/cheatsheet-jenkins-groovy-A4</id>
+    <link href="https://github.com/dennyzhang/cheatsheet-jenkins-groovy-A4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📖 Groovy CheatSheet For Jenkins Usage In A4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uli-heller/grails-2.0-qsg</title>
+    <updated>2022-11-06T01:35:55Z</updated>
+    <id>tag:github.com,2022-11-06:/uli-heller/grails-2.0-qsg</id>
+    <link href="https://github.com/uli-heller/grails-2.0-qsg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

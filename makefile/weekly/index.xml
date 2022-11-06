@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:47:25Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nestlabs/nlfaultinjection</title>
+    <updated>2022-11-06T01:47:25Z</updated>
+    <id>tag:github.com,2022-11-06:/nestlabs/nlfaultinjection</id>
+    <link href="https://github.com/nestlabs/nlfaultinjection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nest Labs Fault Injection (nlfaultinjection) is designed to provide a simple, portable fault injection framework.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>remerge/ansible-role-kafka</title>
+    <updated>2022-11-06T01:47:25Z</updated>
+    <id>tag:github.com,2022-11-06:/remerge/ansible-role-kafka</id>
+    <link href="https://github.com/remerge/ansible-role-kafka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Install and configure Kafka with Ansible&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lightstep/lightstep-tracer-common</title>
+    <updated>2022-11-06T01:47:25Z</updated>
+    <id>tag:github.com,2022-11-06:/lightstep/lightstep-tracer-common</id>
+    <link href="https://github.com/lightstep/lightstep-tracer-common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Files shared by most or all of the Lightstep tracer implementations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

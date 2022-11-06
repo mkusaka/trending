@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:45:24Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>healthonnet/HonLogAnalysis</title>
+    <updated>2022-11-06T01:45:24Z</updated>
+    <id>tag:github.com,2022-11-06:/healthonnet/HonLogAnalysis</id>
+    <link href="https://github.com/healthonnet/HonLogAnalysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grails application to analyze HON&#39;s query logs and output interesting statistics and graphs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>quiltdata/nf-quilt</title>
+    <updated>2022-11-06T01:45:24Z</updated>
+    <id>tag:github.com,2022-11-06:/quiltdata/nf-quilt</id>
+    <link href="https://github.com/quiltdata/nf-quilt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ansible-ThoTeam/nexus3-oss</title>
+    <updated>2022-11-06T01:45:24Z</updated>
+    <id>tag:github.com,2022-11-06:/ansible-ThoTeam/nexus3-oss</id>
+    <link href="https://github.com/ansible-ThoTeam/nexus3-oss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ansible role to install and provision sonatype nexus3-oss&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

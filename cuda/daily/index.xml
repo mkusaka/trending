@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:32:05Z</updated>
+  <updated>2022-11-06T01:34:28Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NVIDIA-Merlin/HierarchicalKV</title>
+    <updated>2022-11-06T01:34:28Z</updated>
+    <id>tag:github.com,2022-11-06:/NVIDIA-Merlin/HierarchicalKV</id>
+    <link href="https://github.com/NVIDIA-Merlin/HierarchicalKV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HierarchicalKV is a part of NVIDIA Merlin and provides hierarchical key-value storage to meet RecSys requirements. The key capability of Merlin-KV is to store key-value feature-embeddings on high-bandwidth memory (HBM) of GPUs and in host memory. It also can be used as a generic key-value storage.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

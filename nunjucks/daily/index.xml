@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:35:02Z</updated>
+  <updated>2022-11-06T01:38:27Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>maxboeck/webring</title>
+    <updated>2022-11-06T01:38:27Z</updated>
+    <id>tag:github.com,2022-11-06:/maxboeck/webring</id>
+    <link href="https://github.com/maxboeck/webring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A boilerplate for hosting a webring community&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

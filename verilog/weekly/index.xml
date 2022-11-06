@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:51:44Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>darklife/darkriscv</title>
+    <updated>2022-11-06T01:51:44Z</updated>
+    <id>tag:github.com,2022-11-06:/darklife/darkriscv</id>
+    <link href="https://github.com/darklife/darkriscv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;opensouce RISC-V cpu core implemented in Verilog from scratch in one night!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nvdla/hw</title>
+    <updated>2022-11-06T01:51:44Z</updated>
+    <id>tag:github.com,2022-11-06:/nvdla/hw</id>
+    <link href="https://github.com/nvdla/hw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RTL, Cmodel, and testbench for NVDLA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

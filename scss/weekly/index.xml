@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:50:01Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>panr/hugo-theme-terminal</title>
+    <updated>2022-11-06T01:50:01Z</updated>
+    <id>tag:github.com,2022-11-06:/panr/hugo-theme-terminal</id>
+    <link href="https://github.com/panr/hugo-theme-terminal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple, retro theme for Hugo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>twbs/bootstrap-sass</title>
+    <updated>2022-11-06T01:50:01Z</updated>
+    <id>tag:github.com,2022-11-06:/twbs/bootstrap-sass</id>
+    <link href="https://github.com/twbs/bootstrap-sass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Sass port of Bootstrap 2 and 3.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phuocng/csslayout</title>
+    <updated>2022-11-06T01:50:01Z</updated>
+    <id>tag:github.com,2022-11-06:/phuocng/csslayout</id>
+    <link href="https://github.com/phuocng/csslayout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

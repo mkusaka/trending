@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:36:31Z</updated>
+  <updated>2022-11-06T01:40:26Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pablo-arantes/making-it-rain</title>
-    <updated>2022-11-05T01:36:31Z</updated>
-    <id>tag:github.com,2022-11-05:/pablo-arantes/making-it-rain</id>
-    <link href="https://github.com/pablo-arantes/making-it-rain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cloud-based molecular simulations for everyone&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:37:03Z</updated>
+  <updated>2022-11-06T01:40:58Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>selectize/selectize.js</title>
-    <updated>2022-11-05T01:37:03Z</updated>
-    <id>tag:github.com,2022-11-05:/selectize/selectize.js</id>
-    <link href="https://github.com/selectize/selectize.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Selectize is the hybrid of a textbox and &lt;select&gt; box. It&#39;s jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Wallapop/web-styleguide</title>
+    <updated>2022-11-06T01:40:58Z</updated>
+    <id>tag:github.com,2022-11-06:/Wallapop/web-styleguide</id>
+    <link href="https://github.com/Wallapop/web-styleguide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CSS Styling for frontend web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mastodon/documentation</title>
+    <updated>2022-11-06T01:40:58Z</updated>
+    <id>tag:github.com,2022-11-06:/mastodon/documentation</id>
+    <link href="https://github.com/mastodon/documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mastodon documentation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:38:28Z</updated>
+  <updated>2022-11-06T01:42:32Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kshenoy/vim-signature</title>
-    <updated>2022-11-05T01:38:28Z</updated>
-    <id>tag:github.com,2022-11-05:/kshenoy/vim-signature</id>
-    <link href="https://github.com/kshenoy/vim-signature" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugin to toggle, display and navigate marks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>octol/vim-cpp-enhanced-highlight</title>
-    <updated>2022-11-05T01:38:28Z</updated>
-    <id>tag:github.com,2022-11-05:/octol/vim-cpp-enhanced-highlight</id>
-    <link href="https://github.com/octol/vim-cpp-enhanced-highlight" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Additional Vim syntax highlighting for C++ (including C++11/14/17)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zzqhost/my-script-back</title>
+    <updated>2022-11-06T01:42:32Z</updated>
+    <id>tag:github.com,2022-11-06:/zzqhost/my-script-back</id>
+    <link href="https://github.com/zzqhost/my-script-back" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;我自己用的一些脚本文件备份，有.gitconfig, .vimrc 等&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

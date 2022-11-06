@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:31:04Z</updated>
+  <updated>2022-11-06T01:33:17Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SFDO-Community-Sprints/MembershipSchemaAndBenefits</title>
+    <updated>2022-11-06T01:33:17Z</updated>
+    <id>tag:github.com,2022-11-06:/SFDO-Community-Sprints/MembershipSchemaAndBenefits</id>
+    <link href="https://github.com/SFDO-Community-Sprints/MembershipSchemaAndBenefits" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Community Sprint project focused on building a schema for memberships, renewals, payments, multiple members, families, benefits, etc, that actually works. Eventually automation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

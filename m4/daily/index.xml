@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:34:44Z</updated>
+  <updated>2022-11-06T01:38:06Z</updated>
   <subtitle>Daily Trending of M4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>giellalt/lang-dag</title>
-    <updated>2022-11-05T01:34:44Z</updated>
-    <id>tag:github.com,2022-11-05:/giellalt/lang-dag</id>
-    <link href="https://github.com/giellalt/lang-dag" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Dagbani language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>giellalt/lang-gur</title>
-    <updated>2022-11-05T01:34:44Z</updated>
-    <id>tag:github.com,2022-11-05:/giellalt/lang-gur</id>
-    <link href="https://github.com/giellalt/lang-gur" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Farefare language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>courselab/snaskii22</title>
+    <updated>2022-11-06T01:38:06Z</updated>
+    <id>tag:github.com,2022-11-06:/courselab/snaskii22</id>
+    <link href="https://github.com/courselab/snaskii22" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Programming exercise based on snaskii (class of 2022)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

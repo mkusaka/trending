@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:51:50Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeecgboot/ant-design-vue-jeecg</title>
+    <updated>2022-11-06T01:51:50Z</updated>
+    <id>tag:github.com,2022-11-06:/jeecgboot/ant-design-vue-jeecg</id>
+    <link href="https://github.com/jeecgboot/ant-design-vue-jeecg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;「企业级低代码平台」Vue2版UI，基于 Vue2+AntDesignVue 实现的 Ant Design Pro，提供强大代码生成器的低代码平台。 前端页面代码和后端功能代码一键生成，不需要写任何代码，保持jeecg一贯的强大！！&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>epicmaxco/vuestic-admin</title>
+    <updated>2022-11-06T01:51:50Z</updated>
+    <id>tag:github.com,2022-11-06:/epicmaxco/vuestic-admin</id>
+    <link href="https://github.com/epicmaxco/vuestic-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free and Beautiful Vue 3 Admin Template&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vueComponent/ant-design-vue-pro</title>
+    <updated>2022-11-06T01:51:50Z</updated>
+    <id>tag:github.com,2022-11-06:/vueComponent/ant-design-vue-pro</id>
+    <link href="https://github.com/vueComponent/ant-design-vue-pro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro! (vue2)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

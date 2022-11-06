@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Handlebars Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:45:26Z</updated>
+  <subtitle>Weekly Trending of Handlebars in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rustwasm/book</title>
+    <updated>2022-11-06T01:45:26Z</updated>
+    <id>tag:github.com,2022-11-06:/rustwasm/book</id>
+    <link href="https://github.com/rustwasm/book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rust and WebAssembly Book&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

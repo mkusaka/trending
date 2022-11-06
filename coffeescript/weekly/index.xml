@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:44:03Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mikemurray/kis</title>
+    <updated>2022-11-06T01:44:03Z</updated>
+    <id>tag:github.com,2022-11-06:/mikemurray/kis</id>
+    <link href="https://github.com/mikemurray/kis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple static site generator using Jade, CoffeeScript and Stylus&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>authorly/interapptive-web</title>
+    <updated>2022-11-06T01:44:03Z</updated>
+    <id>tag:github.com,2022-11-06:/authorly/interapptive-web</id>
+    <link href="https://github.com/authorly/interapptive-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Authorly web-based storybook builder&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>unpoly/unpoly</title>
+    <updated>2022-11-06T01:44:03Z</updated>
+    <id>tag:github.com,2022-11-06:/unpoly/unpoly</id>
+    <link href="https://github.com/unpoly/unpoly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unobtrusive Javascript Framework for server-side applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

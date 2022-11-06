@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-05T01:37:33Z</updated>
+  <updated>2022-11-06T01:41:36Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Meraz-IITBhilai/meraz22</title>
-    <updated>2022-11-05T01:37:33Z</updated>
-    <id>tag:github.com,2022-11-05:/Meraz-IITBhilai/meraz22</id>
-    <link href="https://github.com/Meraz-IITBhilai/meraz22" rel="alternate"></link>
+    <title>on-team/shared-components</title>
+    <updated>2022-11-06T01:41:36Z</updated>
+    <id>tag:github.com,2022-11-06:/on-team/shared-components</id>
+    <link href="https://github.com/on-team/shared-components" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sabine/svelte-crop-window</title>
-    <updated>2022-11-05T01:37:33Z</updated>
-    <id>tag:github.com,2022-11-05:/sabine/svelte-crop-window</id>
-    <link href="https://github.com/sabine/svelte-crop-window" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Image and video cropper Svelte component with gesture and mouse support&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

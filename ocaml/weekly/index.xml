@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-06T01:47:59Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dinosaure/bob</title>
+    <updated>2022-11-06T01:47:59Z</updated>
+    <id>tag:github.com,2022-11-06:/dinosaure/bob</id>
+    <link href="https://github.com/dinosaure/bob" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A peer-to-peer file-transfer tool in OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>processone/jamler</title>
+    <updated>2022-11-06T01:47:59Z</updated>
+    <id>tag:github.com,2022-11-06:/processone/jamler</id>
+    <link href="https://github.com/processone/jamler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
