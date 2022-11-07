@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-06T01:41:54Z</updated>
+  <updated>2022-11-07T01:42:28Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vidhoonv/MAC-Uplink-Capacity-Simulation</title>
+    <updated>2022-11-07T01:42:28Z</updated>
+    <id>tag:github.com,2022-11-07:/vidhoonv/MAC-Uplink-Capacity-Simulation</id>
+    <link href="https://github.com/vidhoonv/MAC-Uplink-Capacity-Simulation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;two scenario versions for simulating vehicles on highway &amp; estimating upload capacity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

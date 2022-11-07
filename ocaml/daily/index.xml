@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-06T01:38:45Z</updated>
+  <updated>2022-11-07T01:40:00Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LesleyLai/PFPL-Interpreters</title>
+    <updated>2022-11-07T01:40:00Z</updated>
+    <id>tag:github.com,2022-11-07:/LesleyLai/PFPL-Interpreters</id>
+    <link href="https://github.com/LesleyLai/PFPL-Interpreters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains interpreters for mini-languages described by the book &#34;Practical Foundations for Programming Languages&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>umd-cmsc330/cmsc330spring22</title>
+    <updated>2022-11-07T01:40:00Z</updated>
+    <id>tag:github.com,2022-11-07:/umd-cmsc330/cmsc330spring22</id>
+    <link href="https://github.com/umd-cmsc330/cmsc330spring22" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

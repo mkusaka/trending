@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-06T01:41:27Z</updated>
+  <updated>2022-11-07T01:42:01Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>succinctlabs/eth-proof-of-consensus</title>
-    <updated>2022-11-06T01:41:27Z</updated>
-    <id>tag:github.com,2022-11-06:/succinctlabs/eth-proof-of-consensus</id>
-    <link href="https://github.com/succinctlabs/eth-proof-of-consensus" rel="alternate"></link>
+    <title>nvrotoken/nvrotoken</title>
+    <updated>2022-11-07T01:42:01Z</updated>
+    <id>tag:github.com,2022-11-07:/nvrotoken/nvrotoken</id>
+    <link href="https://github.com/nvrotoken/nvrotoken" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Config files for my GitHub profile.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-11-size</title>
+    <updated>2022-11-07T01:42:01Z</updated>
+    <id>tag:github.com,2022-11-07:/code-423n4/2022-11-size</id>
+    <link href="https://github.com/code-423n4/2022-11-size" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>debtdao/Line-of-Credit</title>
-    <updated>2022-11-06T01:41:27Z</updated>
-    <id>tag:github.com,2022-11-06:/debtdao/Line-of-Credit</id>
-    <link href="https://github.com/debtdao/Line-of-Credit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ExtropyIO/SolidityBootcamp</title>
-    <updated>2022-11-06T01:41:27Z</updated>
-    <id>tag:github.com,2022-11-06:/ExtropyIO/SolidityBootcamp</id>
-    <link href="https://github.com/ExtropyIO/SolidityBootcamp" rel="alternate"></link>
+    <title>jtriley-eth/super-liquidator</title>
+    <updated>2022-11-07T01:42:01Z</updated>
+    <id>tag:github.com,2022-11-07:/jtriley-eth/super-liquidator</id>
+    <link href="https://github.com/jtriley-eth/super-liquidator" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

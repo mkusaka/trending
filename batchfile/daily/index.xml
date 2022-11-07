@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-06T01:33:27Z</updated>
+  <updated>2022-11-07T01:34:46Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>amatyahoo/Free-RDP</title>
-    <updated>2022-11-06T01:33:27Z</updated>
-    <id>tag:github.com,2022-11-06:/amatyahoo/Free-RDP</id>
-    <link href="https://github.com/amatyahoo/Free-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;No Tutorial 🥱&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kenn-notation/DooRektEktivities</title>
-    <updated>2022-11-06T01:33:27Z</updated>
-    <id>tag:github.com,2022-11-06:/kenn-notation/DooRektEktivities</id>
-    <link href="https://github.com/kenn-notation/DooRektEktivities" rel="alternate"></link>
+    <title>azizur333/FREE-RDP-SERVER2019</title>
+    <updated>2022-11-07T01:34:46Z</updated>
+    <id>tag:github.com,2022-11-07:/azizur333/FREE-RDP-SERVER2019</id>
+    <link href="https://github.com/azizur333/FREE-RDP-SERVER2019" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

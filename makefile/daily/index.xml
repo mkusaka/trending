@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-06T01:38:09Z</updated>
+  <updated>2022-11-07T01:39:35Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>diracdeltas/tweets</title>
+    <updated>2022-11-07T01:39:35Z</updated>
+    <id>tag:github.com,2022-11-07:/diracdeltas/tweets</id>
+    <link href="https://github.com/diracdeltas/tweets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;janky twitter replacement.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>StudioKeys/vendor_PixelLauncher</title>
+    <updated>2022-11-07T01:39:35Z</updated>
+    <id>tag:github.com,2022-11-07:/StudioKeys/vendor_PixelLauncher</id>
+    <link href="https://github.com/StudioKeys/vendor_PixelLauncher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

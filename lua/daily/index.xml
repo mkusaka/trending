@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-06T01:37:53Z</updated>
+  <updated>2022-11-07T01:39:25Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ac-custom-shaders-patch/acc-lua-internal</title>
-    <updated>2022-11-06T01:37:53Z</updated>
-    <id>tag:github.com,2022-11-06:/ac-custom-shaders-patch/acc-lua-internal</id>
-    <link href="https://github.com/ac-custom-shaders-patch/acc-lua-internal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some Lua internals and more built-in scripts for reference&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CSP Lua Internals&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gfycat.com/NimbleCheeryAntbear&#34;&gt;&lt;img src=&#34;https://thumbs.gfycat.com/NimbleCheeryAntbear-size_restricted.gif&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Some Lua internals for reference.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;included-cars&lt;/code&gt;: shared car scripts shipped with CSP builds (look for readme for information on how to include those in your car config);&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;included-tools&lt;/code&gt;: shared tools shipped with CSP builds (can be accessed with Objects Inspector);&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;lua-module&lt;/code&gt;: code used by Small Tweaks module adding all sorts of small things, too small to be kept in C++ code (feel free to use those modules as examples);&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;lua-shared&lt;/code&gt;: shared libraries available by any Lua script running with CSP. To include, use “shared/” prefix, like &lt;code&gt;require(&#39;shared/socket&#39;)&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

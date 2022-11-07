@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-06T01:40:28Z</updated>
+  <updated>2022-11-07T01:41:14Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jilleb/MQB-FPA</title>
-    <updated>2022-11-06T01:40:28Z</updated>
-    <id>tag:github.com,2022-11-06:/jilleb/MQB-FPA</id>
-    <link href="https://github.com/jilleb/MQB-FPA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Driving profiles customization research for MQB platform cars&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

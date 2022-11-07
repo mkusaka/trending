@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-06T01:33:28Z</updated>
+  <updated>2022-11-07T01:34:47Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/osdu-bicep</title>
+    <updated>2022-11-07T01:34:47Z</updated>
+    <id>tag:github.com,2022-11-07:/Azure/osdu-bicep</id>
+    <link href="https://github.com/Azure/osdu-bicep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bicep infrastructure for OSDU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/aks-workload-identity</title>
+    <updated>2022-11-07T01:34:47Z</updated>
+    <id>tag:github.com,2022-11-07:/Azure-Samples/aks-workload-identity</id>
+    <link href="https://github.com/Azure-Samples/aks-workload-identity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Showcasing the different application identity options for accessing Azure Key Vault from AKS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/todo-java-mongo</title>
+    <updated>2022-11-07T01:34:47Z</updated>
+    <id>tag:github.com,2022-11-07:/Azure-Samples/todo-java-mongo</id>
+    <link href="https://github.com/Azure-Samples/todo-java-mongo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete ToDo application that includes everything you need to build, deploy, and monitor an Azure solution. This application uses the Azure Developer CLI (azd) to get you up and running on Azure quickly, React.js for the Web application, Java for the API, Azure Cosmos DB API for MongoDB for storage, and Azure Monitor for monitoring and logging.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
