@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:39:37Z</updated>
+  <updated>2022-11-08T01:36:34Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>z-shell/status</title>
-    <updated>2022-11-07T01:39:37Z</updated>
-    <id>tag:github.com,2022-11-07:/z-shell/status</id>
-    <link href="https://github.com/z-shell/status" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RavelloH/sitemonitor</title>
-    <updated>2022-11-07T01:39:37Z</updated>
-    <id>tag:github.com,2022-11-07:/RavelloH/sitemonitor</id>
-    <link href="https://github.com/RavelloH/sitemonitor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Site status monitoring based on GitHub actions # # # 基于Github Actions的站点状态监控&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

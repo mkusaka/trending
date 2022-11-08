@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:37:53Z</updated>
+  <updated>2022-11-08T01:34:21Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HIllya51/LunaTranslator</title>
-    <updated>2022-11-07T01:37:53Z</updated>
-    <id>tag:github.com,2022-11-07:/HIllya51/LunaTranslator</id>
-    <link href="https://github.com/HIllya51/LunaTranslator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Galgame翻译工具，支持剪贴板、OCR、HOOK，支持30余种翻译工具，支持TTS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

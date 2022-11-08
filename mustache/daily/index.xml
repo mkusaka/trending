@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:39:44Z</updated>
+  <updated>2022-11-08T01:36:52Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>longhorn/charts</title>
-    <updated>2022-11-07T01:39:44Z</updated>
-    <id>tag:github.com,2022-11-07:/longhorn/charts</id>
-    <link href="https://github.com/longhorn/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ckotzbauer/helm-charts</title>
-    <updated>2022-11-07T01:39:44Z</updated>
-    <id>tag:github.com,2022-11-07:/ckotzbauer/helm-charts</id>
-    <link href="https://github.com/ckotzbauer/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>giantswarm/aws-ebs-volume-tagger</title>
+    <updated>2022-11-08T01:36:52Z</updated>
+    <id>tag:github.com,2022-11-08:/giantswarm/aws-ebs-volume-tagger</id>
+    <link href="https://github.com/giantswarm/aws-ebs-volume-tagger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS EBS Volume Tagger&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

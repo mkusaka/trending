@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:42:08Z</updated>
+  <updated>2022-11-08T01:40:04Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oslabs-beta/Sveltool</title>
-    <updated>2022-11-07T01:42:08Z</updated>
-    <id>tag:github.com,2022-11-07:/oslabs-beta/Sveltool</id>
-    <link href="https://github.com/oslabs-beta/Sveltool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dynamic visualization for all things Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cmudig/AutoProfiler</title>
+    <updated>2022-11-08T01:40:04Z</updated>
+    <id>tag:github.com,2022-11-08:/cmudig/AutoProfiler</id>
+    <link href="https://github.com/cmudig/AutoProfiler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically profile dataframes in the Jupyter sidebar&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nrosa01/pmd-quiz-online</title>
+    <updated>2022-11-08T01:40:04Z</updated>
+    <id>tag:github.com,2022-11-08:/Nrosa01/pmd-quiz-online</id>
+    <link href="https://github.com/Nrosa01/pmd-quiz-online" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web recreation of the PMD EoS personality test&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

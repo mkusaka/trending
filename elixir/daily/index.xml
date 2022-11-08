@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:36:20Z</updated>
+  <updated>2022-11-08T01:32:54Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>straw-hat-team/beam-monorepo</title>
-    <updated>2022-11-07T01:36:20Z</updated>
-    <id>tag:github.com,2022-11-07:/straw-hat-team/beam-monorepo</id>
-    <link href="https://github.com/straw-hat-team/beam-monorepo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Monorepo for the open-source packages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ash-project/ash_graphql</title>
+    <updated>2022-11-08T01:32:54Z</updated>
+    <id>tag:github.com,2022-11-08:/ash-project/ash_graphql</id>
+    <link href="https://github.com/ash-project/ash_graphql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An absinthe backed graphql API extension for the Ash Framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Killian-p/MSC-Pool</title>
+    <updated>2022-11-08T01:32:54Z</updated>
+    <id>tag:github.com,2022-11-08:/Killian-p/MSC-Pool</id>
+    <link href="https://github.com/Killian-p/MSC-Pool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

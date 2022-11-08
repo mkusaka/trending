@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:37:39Z</updated>
+  <updated>2022-11-08T01:34:08Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pumasecurity/serverless-prey</title>
-    <updated>2022-11-07T01:37:39Z</updated>
-    <id>tag:github.com,2022-11-07:/pumasecurity/serverless-prey</id>
-    <link href="https://github.com/pumasecurity/serverless-prey" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serverless Functions for establishing Reverse Shells to Lambda, Azure Functions, and Google Cloud Functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ned1313/Implementing-Terraform-on-Microsoft-Azure</title>
+    <updated>2022-11-08T01:34:08Z</updated>
+    <id>tag:github.com,2022-11-08:/ned1313/Implementing-Terraform-on-Microsoft-Azure</id>
+    <link href="https://github.com/ned1313/Implementing-Terraform-on-Microsoft-Azure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code examples for the Pluralsight course Implementing Terraform on Microsoft Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GoogleCloudPlatform/terraform-google-cloud-run</title>
-    <updated>2022-11-07T01:37:39Z</updated>
-    <id>tag:github.com,2022-11-07:/GoogleCloudPlatform/terraform-google-cloud-run</id>
-    <link href="https://github.com/GoogleCloudPlatform/terraform-google-cloud-run" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module for deploying apps to Cloud Run, along with option to map custom domain&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fabianschmauder/cgn-aws-22-3-job-notifier</title>
-    <updated>2022-11-07T01:37:39Z</updated>
-    <id>tag:github.com,2022-11-07:/fabianschmauder/cgn-aws-22-3-job-notifier</id>
-    <link href="https://github.com/fabianschmauder/cgn-aws-22-3-job-notifier" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-aws-modules/terraform-aws-key-pair</title>
+    <updated>2022-11-08T01:34:08Z</updated>
+    <id>tag:github.com,2022-11-08:/terraform-aws-modules/terraform-aws-key-pair</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-key-pair" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates EC2 key pair on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

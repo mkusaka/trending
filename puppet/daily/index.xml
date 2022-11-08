@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:40:40Z</updated>
+  <updated>2022-11-08T01:38:05Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aaronbbrown/borg-puppet</title>
-    <updated>2022-11-07T01:40:40Z</updated>
-    <id>tag:github.com,2022-11-07:/aaronbbrown/borg-puppet</id>
-    <link href="https://github.com/aaronbbrown/borg-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet Manifests for my local network&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:42:01Z</updated>
+  <updated>2022-11-08T01:39:56Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nvrotoken/nvrotoken</title>
-    <updated>2022-11-07T01:42:01Z</updated>
-    <id>tag:github.com,2022-11-07:/nvrotoken/nvrotoken</id>
-    <link href="https://github.com/nvrotoken/nvrotoken" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Config files for my GitHub profile.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-423n4/2022-11-size</title>
-    <updated>2022-11-07T01:42:01Z</updated>
-    <id>tag:github.com,2022-11-07:/code-423n4/2022-11-size</id>
-    <link href="https://github.com/code-423n4/2022-11-size" rel="alternate"></link>
+    <title>ProjectOpenSea/operator-filter-registry</title>
+    <updated>2022-11-08T01:39:56Z</updated>
+    <id>tag:github.com,2022-11-08:/ProjectOpenSea/operator-filter-registry</id>
+    <link href="https://github.com/ProjectOpenSea/operator-filter-registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jtriley-eth/super-liquidator</title>
-    <updated>2022-11-07T01:42:01Z</updated>
-    <id>tag:github.com,2022-11-07:/jtriley-eth/super-liquidator</id>
-    <link href="https://github.com/jtriley-eth/super-liquidator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cawfree/zk-starter</title>
+    <updated>2022-11-08T01:39:56Z</updated>
+    <id>tag:github.com,2022-11-08:/cawfree/zk-starter</id>
+    <link href="https://github.com/cawfree/zk-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zero knowledge for those with zero knowledge&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gelatodigital/ops</title>
+    <updated>2022-11-08T01:39:56Z</updated>
+    <id>tag:github.com,2022-11-08:/gelatodigital/ops</id>
+    <link href="https://github.com/gelatodigital/ops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automate arbitrary smart contracts with Gelato Ops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:35:21Z</updated>
+  <updated>2022-11-08T01:31:57Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>donut-party/datapotato</title>
-    <updated>2022-11-07T01:35:21Z</updated>
-    <id>tag:github.com,2022-11-07:/donut-party/datapotato</id>
-    <link href="https://github.com/donut-party/datapotato" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;better database fixtures for Clojure tests! 🥔&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Wall-Brew-Co/brewtility</title>
+    <updated>2022-11-08T01:31:57Z</updated>
+    <id>tag:github.com,2022-11-08:/Wall-Brew-Co/brewtility</id>
+    <link href="https://github.com/Wall-Brew-Co/brewtility" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A utility library for all of your brewing needs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>donut-party/dbxray</title>
-    <updated>2022-11-07T01:35:21Z</updated>
-    <id>tag:github.com,2022-11-07:/donut-party/dbxray</id>
-    <link href="https://github.com/donut-party/dbxray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;view your database&#39;s metadata skeleton and generate schemas from it 🩻&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>green-labs/gosura</title>
+    <updated>2022-11-08T01:31:57Z</updated>
+    <id>tag:github.com,2022-11-08:/green-labs/gosura</id>
+    <link href="https://github.com/green-labs/gosura" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

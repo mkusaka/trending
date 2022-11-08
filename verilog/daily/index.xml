@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:42:54Z</updated>
+  <updated>2022-11-08T01:40:47Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bu-ec311-fall2022/EC311_Lab2_Template</title>
-    <updated>2022-11-07T01:42:54Z</updated>
-    <id>tag:github.com,2022-11-07:/bu-ec311-fall2022/EC311_Lab2_Template</id>
-    <link href="https://github.com/bu-ec311-fall2022/EC311_Lab2_Template" rel="alternate"></link>
+    <title>WilsonChen003/HDLGen</title>
+    <updated>2022-11-08T01:40:47Z</updated>
+    <id>tag:github.com,2022-11-08:/WilsonChen003/HDLGen</id>
+    <link href="https://github.com/WilsonChen003/HDLGen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

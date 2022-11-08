@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:39:54Z</updated>
+  <updated>2022-11-08T01:37:06Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OpenNative/open-native</title>
+    <updated>2022-11-08T01:37:06Z</updated>
+    <id>tag:github.com,2022-11-08:/OpenNative/open-native</id>
+    <link href="https://github.com/OpenNative/open-native" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Native helps cross platform communities work better together.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Open Native is an effort to bring cross platform communities together &amp;amp; help them collaborate and share work.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm install @open-native/core&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Android Setup&lt;/h2&gt; &#xA;&lt;p&gt;Create `App_Resources/Android/before-plugins.gradle with the following contents&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-groovy&#34;&gt;allprojects {&#xA;&#xA;  // Nativescript by default runs this hook for all plugin builds,&#xA;  // but we want to run it only when the main app builds.&#xA;  if (!rootProject.projectDir.absolutePath.contains(&#34;tempPlugin&#34;)) {&#xA;    // We are replacing com.facebook.react:react-native with our local :react library in all linked libraries.&#xA;    // We could do this inside the module itself but we want the module to work in both&#xA;    // react-native &amp;amp; nativescript&#xA;    configurations {&#xA;      all {&#xA;        resolutionStrategy {&#xA;          dependencySubstitution {&#xA;            substitute module(&#34;com.facebook.react:react-native&#34;) using project(&#34;:react&#34;) because &#34;we will replace this with our local react&#34;&#xA;          }&#xA;        }&#xA;      }&#xA;    }&#xA;  }&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Configure Webpack&lt;/h2&gt; &#xA;&lt;p&gt;Alias &lt;code&gt;react-native&lt;/code&gt; with &lt;code&gt;@open-native/core&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;webpack.chainWebpack((config) =&amp;gt; {&#xA;  config.resolve.alias.set(&#39;react-native&#39;, &#39;@open-native/core&#39;);&#xA;});&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If you install a react-natie module &amp;amp; get errors in webpack, install &lt;code&gt;metro-react-native-babel-preset&lt;/code&gt; via npm/yarn.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm install -D metro-react-native-babel-preset&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;add the following preset to your webpack config.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;webpack.chainWebpack((config) =&amp;gt; {&#xA;  config.resolve.alias.set(&#39;react-native&#39;, &#39;@open-native/core&#39;);&#xA;  config.module&#xA;    .rule(&#39;rnmodules&#39;)&#xA;    // Add each react-native module that gives errors in webpack build here&#xA;    // like this:&#xA;    .include.add(/node_modules(.*[/\\])+react-native-module/)&#xA;    .end()&#xA;    .use(&#39;babel-loader&#39;)&#xA;    .before(&#39;ts-loader&#39;)&#xA;    .loader(&#39;babel-loader&#39;)&#xA;    .options({&#xA;      babelrc: false,&#xA;      presets: [&#39;module:metro-react-native-babel-preset&#39;],&#xA;    });&#xA;});&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;That&#39;s all, try out some react-native modules &amp;amp; feel free to open and issue if you face a problem.&lt;/p&gt; &#xA;&lt;p&gt;Join the &lt;a href=&#34;https://discord.com/invite/RgmpGky9GR&#34;&gt;NativeScript Discord Community&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;If you want to contribute, feel free to open an issue or join our discord community to discuss your ideas.&lt;/p&gt; &#xA;&lt;h1&gt;MIT License&lt;/h1&gt; &#xA;&lt;p&gt;Copyright (c) 2022 Ammar Ahmed&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>automonkey/Hangman</title>
+    <updated>2022-11-08T01:37:06Z</updated>
+    <id>tag:github.com,2022-11-08:/automonkey/Hangman</id>
+    <link href="https://github.com/automonkey/Hangman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A basic iOS hangman game developed using TDD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

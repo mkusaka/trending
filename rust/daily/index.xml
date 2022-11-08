@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-07T01:41:17Z</updated>
+  <updated>2022-11-08T01:39:06Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>geph-official/geph4-client</title>
-    <updated>2022-11-07T01:41:17Z</updated>
-    <id>tag:github.com,2022-11-07:/geph-official/geph4-client</id>
-    <link href="https://github.com/geph-official/geph4-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>abba23/spotify-adblock</title>
-    <updated>2022-11-07T01:41:17Z</updated>
-    <id>tag:github.com,2022-11-07:/abba23/spotify-adblock</id>
-    <link href="https://github.com/abba23/spotify-adblock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adblocker for Spotify&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
