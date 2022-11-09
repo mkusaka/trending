@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:33:17Z</updated>
+  <updated>2022-11-09T01:36:29Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PHASTA/phasta</title>
-    <updated>2022-11-08T01:33:17Z</updated>
-    <id>tag:github.com,2022-11-08:/PHASTA/phasta</id>
-    <link href="https://github.com/PHASTA/phasta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parallel Hierarchic Adaptive Stabilized Transient Analysis of compressible and incompressible Navier Stokes equations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ExtremeFLOW/neko</title>
+    <updated>2022-11-09T01:36:29Z</updated>
+    <id>tag:github.com,2022-11-09:/ExtremeFLOW/neko</id>
+    <link href="https://github.com/ExtremeFLOW/neko" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;/ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

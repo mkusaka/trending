@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:37:23Z</updated>
+  <updated>2022-11-09T01:39:51Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xaicron/p5-Cache-LRU-WithExpires</title>
+    <updated>2022-11-09T01:39:51Z</updated>
+    <id>tag:github.com,2022-11-09:/xaicron/p5-Cache-LRU-WithExpires</id>
+    <link href="https://github.com/xaicron/p5-Cache-LRU-WithExpires" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;can set an expiration for the Cache::LRU.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;package Cache::LRU::WithExpires;&lt;/p&gt; &#xA;&lt;p&gt;use strict; use warnings; use 5.008_001; our $VERSION = &#39;0.03&#39;;&lt;/p&gt; &#xA;&lt;p&gt;use parent &#39;Cache::LRU&#39;; use Time::HiRes ();&lt;/p&gt; &#xA;&lt;p&gt;use constant NO_EXPIRES =&amp;gt; 0;&lt;/p&gt; &#xA;&lt;p&gt;sub set { my ($self, $key, $value, $expires) = @_; $expires = $expires ? Time::HiRes::time() + $expires : NO_EXPIRES; $value = [$value, $expires]; $self-&amp;gt;SUPER::set($key, $value); }&lt;/p&gt; &#xA;&lt;p&gt;sub get { my ($self, $key) = @_; my $value = $self-&amp;gt;SUPER::get($key); return undef unless defined $value; ## no critic&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;($value, my $expires) = @$value;&#xA;return $value if $expires == NO_EXPIRES;&#xA;if ($expires - Time::HiRes::time() &amp;lt; 0) {&#xA;    $self-&amp;gt;remove($key);&#xA;    return undef; ## no critic&#xA;}&#xA;&#xA;return $value;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;}&lt;/p&gt; &#xA;&lt;p&gt;1; &lt;strong&gt;END&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;=encoding utf-8&lt;/p&gt; &#xA;&lt;p&gt;=for stopwords&lt;/p&gt; &#xA;&lt;p&gt;=head1 NAME&lt;/p&gt; &#xA;&lt;p&gt;Cache::LRU::WithExpires - can set an expiration for the Cache::LRU&lt;/p&gt; &#xA;&lt;p&gt;=head1 SYNOPSIS&lt;/p&gt; &#xA;&lt;p&gt;use Cache::LRU::WithExpires;&lt;/p&gt; &#xA;&lt;p&gt;my $cache = Cache::LRU::WithExpires-&amp;gt;new; $cache-&amp;gt;set(&#39;foo&#39;, &#39;bar&#39;, 1); sleep 2; $cache-&amp;gt;get(&#39;foo&#39;); # undef&lt;/p&gt; &#xA;&lt;p&gt;=head1 DESCRIPTION&lt;/p&gt; &#xA;&lt;p&gt;Cache::LRU::WithExpires is a can set an expiration for the L&amp;lt;&amp;lt; Cache::LRU &amp;gt;&amp;gt;.&lt;/p&gt; &#xA;&lt;p&gt;=head1 AUTHOR&lt;/p&gt; &#xA;&lt;p&gt;xaicron E&#xA; &lt;lt&gt;&#xA;  xaicron {at} cpan.orgE&#xA;  &lt;gt&gt;&lt;/gt&gt;&#xA; &lt;/lt&gt;&lt;/p&gt; &#xA;&lt;p&gt;=head1 COPYRIGHT&lt;/p&gt; &#xA;&lt;p&gt;Copyright 2012 - xaicron&lt;/p&gt; &#xA;&lt;p&gt;=head1 LICENSE&lt;/p&gt; &#xA;&lt;p&gt;This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.&lt;/p&gt; &#xA;&lt;p&gt;=head1 SEE ALSO&lt;/p&gt; &#xA;&lt;p&gt;L&amp;lt;&amp;lt; Cache::LRU &amp;gt;&amp;gt;&lt;/p&gt; &#xA;&lt;p&gt;=cut&lt;/p&gt;</summary>
+  </entry>
 </feed>

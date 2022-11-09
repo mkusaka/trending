@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:41:08Z</updated>
+  <updated>2022-11-09T01:43:01Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eatonphil/zigrocks</title>
-    <updated>2022-11-08T01:41:08Z</updated>
-    <id>tag:github.com,2022-11-08:/eatonphil/zigrocks</id>
-    <link href="https://github.com/eatonphil/zigrocks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zigrocks: a basic SQL database in Zig, with storage via RocksDB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>andrewrk/zig-wasi</title>
-    <updated>2022-11-08T01:41:08Z</updated>
-    <id>tag:github.com,2022-11-08:/andrewrk/zig-wasi</id>
-    <link href="https://github.com/andrewrk/zig-wasi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal WASI interpreter&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>watzon/zhtml</title>
-    <updated>2022-11-08T01:41:08Z</updated>
-    <id>tag:github.com,2022-11-08:/watzon/zhtml</id>
-    <link href="https://github.com/watzon/zhtml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTML parser built in Zig&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pithlessly/witty</title>
+    <updated>2022-11-09T01:43:01Z</updated>
+    <id>tag:github.com,2022-11-09:/pithlessly/witty</id>
+    <link href="https://github.com/pithlessly/witty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

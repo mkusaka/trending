@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:35:45Z</updated>
+  <updated>2022-11-09T01:38:28Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CliMA/ClimaCoupler.jl</title>
-    <updated>2022-11-08T01:35:45Z</updated>
-    <id>tag:github.com,2022-11-08:/CliMA/ClimaCoupler.jl</id>
-    <link href="https://github.com/CliMA/ClimaCoupler.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for Coupler Specific Shared Development&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSmoothOptimizers/JSOSuite.jl</title>
+    <updated>2022-11-09T01:38:28Z</updated>
+    <id>tag:github.com,2022-11-09:/JuliaSmoothOptimizers/JSOSuite.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/JSOSuite.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;One stop solutions for all things optimization&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaDiff/SparseDiffTools.jl</title>
-    <updated>2022-11-08T01:35:45Z</updated>
-    <id>tag:github.com,2022-11-08:/JuliaDiff/SparseDiffTools.jl</id>
-    <link href="https://github.com/JuliaDiff/SparseDiffTools.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast jacobian computation through sparsity exploitation and matrix coloring&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaManifolds/Manifolds.jl</title>
+    <updated>2022-11-09T01:38:28Z</updated>
+    <id>tag:github.com,2022-11-09:/JuliaManifolds/Manifolds.jl</id>
+    <link href="https://github.com/JuliaManifolds/Manifolds.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manifolds.jl provides a library of manifolds aiming for an easy-to-use and fast implementation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>apache/arrow-julia</title>
-    <updated>2022-11-08T01:35:45Z</updated>
-    <id>tag:github.com,2022-11-08:/apache/arrow-julia</id>
-    <link href="https://github.com/apache/arrow-julia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Julia implementation of Apache Arrow&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaApproximation/FastTransforms.jl</title>
+    <updated>2022-11-09T01:38:28Z</updated>
+    <id>tag:github.com,2022-11-09:/JuliaApproximation/FastTransforms.jl</id>
+    <link href="https://github.com/JuliaApproximation/FastTransforms.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Julia package for orthogonal polynomial transforms 🏂&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:39:29Z</updated>
+  <updated>2022-11-09T01:41:25Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>next-step/atdd-subway-admin</title>
+    <updated>2022-11-09T01:41:25Z</updated>
+    <id>tag:github.com,2022-11-09:/next-step/atdd-subway-admin</id>
+    <link href="https://github.com/next-step/atdd-subway-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;우아한테크캠프 pro ATDD 과정 저장소&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ningstyle/mzlui-react</title>
+    <updated>2022-11-09T01:41:25Z</updated>
+    <id>tag:github.com,2022-11-09:/Ningstyle/mzlui-react</id>
+    <link href="https://github.com/Ningstyle/mzlui-react" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vite+ts+react组件库&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YunoHost/doc</title>
+    <updated>2022-11-09T01:41:25Z</updated>
+    <id>tag:github.com,2022-11-09:/YunoHost/doc</id>
+    <link href="https://github.com/YunoHost/doc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;YunoHost documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

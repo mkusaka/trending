@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:40:04Z</updated>
+  <updated>2022-11-09T01:41:55Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cmudig/AutoProfiler</title>
-    <updated>2022-11-08T01:40:04Z</updated>
-    <id>tag:github.com,2022-11-08:/cmudig/AutoProfiler</id>
-    <link href="https://github.com/cmudig/AutoProfiler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automatically profile dataframes in the Jupyter sidebar&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>badarsebard/terraforge</title>
+    <updated>2022-11-09T01:41:55Z</updated>
+    <id>tag:github.com,2022-11-09:/badarsebard/terraforge</id>
+    <link href="https://github.com/badarsebard/terraforge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graphical Terraform configuration generator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nrosa01/pmd-quiz-online</title>
-    <updated>2022-11-08T01:40:04Z</updated>
-    <id>tag:github.com,2022-11-08:/Nrosa01/pmd-quiz-online</id>
-    <link href="https://github.com/Nrosa01/pmd-quiz-online" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web recreation of the PMD EoS personality test&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vega/svelte-vega</title>
+    <updated>2022-11-09T01:41:55Z</updated>
+    <id>tag:github.com,2022-11-09:/vega/svelte-vega</id>
+    <link href="https://github.com/vega/svelte-vega" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte component for Vega and Vega-Lite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ennoriel/svelte-awesome-color-picker</title>
+    <updated>2022-11-09T01:41:55Z</updated>
+    <id>tag:github.com,2022-11-09:/Ennoriel/svelte-awesome-color-picker</id>
+    <link href="https://github.com/Ennoriel/svelte-awesome-color-picker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

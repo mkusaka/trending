@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:39:06Z</updated>
+  <updated>2022-11-09T01:40:56Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>burn-rs/burn</title>
+    <updated>2022-11-09T01:40:56Z</updated>
+    <id>tag:github.com,2022-11-09:/burn-rs/burn</id>
+    <link href="https://github.com/burn-rs/burn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BURN: Burn Unstoppable Rusty Neurons&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>volta-cli/volta</title>
+    <updated>2022-11-09T01:40:56Z</updated>
+    <id>tag:github.com,2022-11-09:/volta-cli/volta</id>
+    <link href="https://github.com/volta-cli/volta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Volta: JS Toolchains as Code. ⚡&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>godot-rust/gdextension</title>
+    <updated>2022-11-09T01:40:56Z</updated>
+    <id>tag:github.com,2022-11-09:/godot-rust/gdextension</id>
+    <link href="https://github.com/godot-rust/gdextension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

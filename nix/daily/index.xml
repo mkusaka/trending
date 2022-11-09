@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:36:59Z</updated>
+  <updated>2022-11-09T01:39:23Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sioodmy/dotfiles</title>
-    <updated>2022-11-08T01:36:59Z</updated>
-    <id>tag:github.com,2022-11-08:/sioodmy/dotfiles</id>
-    <link href="https://github.com/sioodmy/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌸 Catppuccin themed nixos configuration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>matthewbauer/nix-bundle</title>
-    <updated>2022-11-08T01:36:59Z</updated>
-    <id>tag:github.com,2022-11-08:/matthewbauer/nix-bundle</id>
-    <link href="https://github.com/matthewbauer/nix-bundle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bundle Nix derivations to run anywhere!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

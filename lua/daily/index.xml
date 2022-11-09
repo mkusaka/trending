@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lua Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-09T01:38:56Z</updated>
+  <subtitle>Daily Trending of Lua in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>overextended/ox_target</title>
+    <updated>2022-11-09T01:38:56Z</updated>
+    <id>tag:github.com,2022-11-09:/overextended/ox_target</id>
+    <link href="https://github.com/overextended/ox_target" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standalone &#34;third-eye&#34; targeting resource.&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt;&#xA; &lt;h2&gt;&lt;a href=&#34;https://overextended.github.io/docs/ox_target/&#34;&gt;Documentation&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;/div&gt; &#xA;&lt;h2&gt;ox_target&lt;/h2&gt; &#xA;&lt;p&gt;A performant and flexible standalone &#34;third-eye&#34; targeting resource, with additional functionality when using ox_core, esx, or qb-core.&lt;/p&gt; &#xA;&lt;p&gt;ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-target. To improve many design flaws, ox_target has been written from scratch and drops support for bt-target/qtarget standards, though partial compatibility is being implemented where possible.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Performance increased ~4x compared to qtarget.&lt;/li&gt; &#xA; &lt;li&gt;Improved error handling protects against soft-locking.&lt;/li&gt; &#xA; &lt;li&gt;Improved entity and world collision detection.&lt;/li&gt; &#xA; &lt;li&gt;Options now stack, rather than overriding.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>filloax/revelations-mirror</title>
+    <updated>2022-11-09T01:38:56Z</updated>
+    <id>tag:github.com,2022-11-09:/filloax/revelations-mirror</id>
+    <link href="https://github.com/filloax/revelations-mirror" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror for the Binding of Isaac mod Revelations&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Revelations - Mirror&lt;/h1&gt; &#xA;&lt;h5&gt;Download mirror for the Binding of Isaac: Repentance mod, Revelations&lt;/h5&gt; &#xA;&lt;p&gt;This is not the main repository for the mod, but only a mirror for downloads in case of Steam download failures or easier perusing of source code.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;LATEST VERSION: &lt;a href=&#34;https://github.com/filloax/revelations-mirror/releases/latest&#34;&gt;DOWNLOAD HERE&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://raw.githubusercontent.com/filloax/revelations-mirror/main/changelog.md&#34;&gt;Changelog&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;Check releases for all version downloads.&lt;/p&gt; &#xA;&lt;p&gt;For the description of the mod refer to the &lt;a href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=2880387531&#34;&gt;Steam Workshop page&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>LunarVim/lunar.nvim</title>
+    <updated>2022-11-09T01:38:56Z</updated>
+    <id>tag:github.com,2022-11-09:/LunarVim/lunar.nvim</id>
+    <link href="https://github.com/LunarVim/lunar.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LunarVim Colorscheme&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;lunar.nvim&lt;/h1&gt; &#xA;&lt;p&gt;LunarVim Colorscheme&lt;/p&gt;</summary>
+  </entry>
+</feed>

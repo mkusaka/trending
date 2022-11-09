@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:31:00Z</updated>
+  <updated>2022-11-09T01:34:20Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>natemoo-re/feed</title>
-    <updated>2022-11-08T01:31:00Z</updated>
-    <id>tag:github.com,2022-11-08:/natemoo-re/feed</id>
-    <link href="https://github.com/natemoo-re/feed" rel="alternate"></link>
+    <title>deepgram/web-next</title>
+    <updated>2022-11-09T01:34:20Z</updated>
+    <id>tag:github.com,2022-11-09:/deepgram/web-next</id>
+    <link href="https://github.com/deepgram/web-next" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nexxeln/nexxel.dev</title>
-    <updated>2022-11-08T01:31:00Z</updated>
-    <id>tag:github.com,2022-11-08:/nexxeln/nexxel.dev</id>
-    <link href="https://github.com/nexxeln/nexxel.dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boring personal site built with Astro&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

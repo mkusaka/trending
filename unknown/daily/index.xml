@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:30:37Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-11-09T01:33:45Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>trinib/Linux-Bash-Commands</title>
-    <updated>2022-11-08T01:30:37Z</updated>
-    <id>tag:github.com,2022-11-08:/trinib/Linux-Bash-Commands</id>
-    <link href="https://github.com/trinib/Linux-Bash-Commands" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ultimate list of Linux bash commands&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EthicalML/awesome-production-machine-learning</title>
+    <updated>2022-11-09T01:33:45Z</updated>
+    <id>tag:github.com,2022-11-09:/EthicalML/awesome-production-machine-learning</id>
+    <link href="https://github.com/EthicalML/awesome-production-machine-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>6mile/DevSecOps-Playbook</title>
-    <updated>2022-11-08T01:30:37Z</updated>
-    <id>tag:github.com,2022-11-08:/6mile/DevSecOps-Playbook</id>
-    <link href="https://github.com/6mile/DevSecOps-Playbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a step-by-step guide to implementing a DevSecOps program for any size organization&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tuhin1729/Bug-Bounty-Methodology</title>
-    <updated>2022-11-08T01:30:37Z</updated>
-    <id>tag:github.com,2022-11-08:/tuhin1729/Bug-Bounty-Methodology</id>
-    <link href="https://github.com/tuhin1729/Bug-Bounty-Methodology" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;These are my checklists which I use during my hunting.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xicilion/BitcoinWhitePaper</title>
+    <updated>2022-11-09T01:33:45Z</updated>
+    <id>tag:github.com,2022-11-09:/xicilion/BitcoinWhitePaper</id>
+    <link href="https://github.com/xicilion/BitcoinWhitePaper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

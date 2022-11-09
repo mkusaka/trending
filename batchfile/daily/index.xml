@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:31:07Z</updated>
+  <updated>2022-11-09T01:34:26Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LintangWisesa/Microsoft_Office_2016_Activator</title>
+    <updated>2022-11-09T01:34:26Z</updated>
+    <id>tag:github.com,2022-11-09:/LintangWisesa/Microsoft_Office_2016_Activator</id>
+    <link href="https://github.com/LintangWisesa/Microsoft_Office_2016_Activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple batch file to activate Microsoft Office 2016&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

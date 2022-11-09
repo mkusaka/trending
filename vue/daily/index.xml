@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-08T01:40:53Z</updated>
+  <updated>2022-11-09T01:42:48Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Thecosy/IceCMS</title>
-    <updated>2022-11-08T01:40:53Z</updated>
-    <id>tag:github.com,2022-11-08:/Thecosy/IceCMS</id>
-    <link href="https://github.com/Thecosy/IceCMS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍦冰激凌内容管理系统🍦,社区图片视频圈子CMS，支持网页端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>q-mona/p5-ui</title>
-    <updated>2022-11-08T01:40:53Z</updated>
-    <id>tag:github.com,2022-11-08:/q-mona/p5-ui</id>
-    <link href="https://github.com/q-mona/p5-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toy persona5 ui library for vue3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>inovector/mixpost</title>
-    <updated>2022-11-08T01:40:53Z</updated>
-    <id>tag:github.com,2022-11-08:/inovector/mixpost</id>
-    <link href="https://github.com/inovector/mixpost" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Self-hosted social media management. Schedule and organize your social content. Built with Laravel Framework.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
