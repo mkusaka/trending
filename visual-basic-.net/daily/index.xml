@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:42:49Z</updated>
+  <updated>2022-11-10T01:40:06Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ace-n/RegexCalculator</title>
-    <updated>2022-11-09T01:42:49Z</updated>
-    <id>tag:github.com,2022-11-09:/ace-n/RegexCalculator</id>
-    <link href="https://github.com/ace-n/RegexCalculator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple calculator program in .NET that supports simple arithmetic and order of operations (PEMDAS).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

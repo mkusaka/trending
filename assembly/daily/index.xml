@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:34:22Z</updated>
+  <updated>2022-11-10T01:31:05Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pkivolowitz/asm_book</title>
-    <updated>2022-11-09T01:34:22Z</updated>
-    <id>tag:github.com,2022-11-09:/pkivolowitz/asm_book</id>
-    <link href="https://github.com/pkivolowitz/asm_book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offer which apply directly to higher level languages.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

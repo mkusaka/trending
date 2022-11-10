@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:36:23Z</updated>
+  <updated>2022-11-10T01:33:12Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thoth-org/Thoth.Json</title>
+    <updated>2022-11-10T01:33:12Z</updated>
+    <id>tag:github.com,2022-11-10:/thoth-org/Thoth.Json</id>
+    <link href="https://github.com/thoth-org/Thoth.Json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for working with JSON in a type safe manner, this libs is targeting Fable&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Thoth.Json &lt;a href=&#34;https://dev.azure.com/thoth-org/Thoth.Json/_build/latest?definitionId=1&amp;amp;branchName=master&#34;&gt;&lt;img src=&#34;https://dev.azure.com/thoth-org/Thoth.Json/_apis/build/status/thoth-org.Thoth.Json?branchName=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Stable&lt;/th&gt; &#xA;   &lt;th&gt;Prerelease&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.nuget.org/packages/Thoth.Json/&#34;&gt;&lt;img src=&#34;https://buildstats.info/nuget/Thoth.Json&#34; alt=&#34;NuGet Badge&#34;&gt;&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://www.nuget.org/packages/Thoth.Json/&#34;&gt;&lt;img src=&#34;https://buildstats.info/nuget/Thoth.Json?includePreReleases=true&#34; alt=&#34;NuGet Badge&#34;&gt;&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h2&gt;Blogs post&lt;/h2&gt; &#xA;&lt;p&gt;This is to keep track of different blog post that I refer to sometimes when thinking or helping people.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://jordanmarr.github.io/fsharp/thoth-json-net-intro/&#34;&gt;Introduction about Thoth.Json.Net&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.planetgeek.ch/2021/04/19/our-journey-to-f-json-serialization-with-a-mix-of-c-and-f/&#34;&gt;Our journey to F#: JSON serialization with a mix of C# and F#&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

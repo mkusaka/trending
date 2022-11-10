@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:38:28Z</updated>
+  <updated>2022-11-10T01:35:10Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaSmoothOptimizers/JSOSuite.jl</title>
-    <updated>2022-11-09T01:38:28Z</updated>
-    <id>tag:github.com,2022-11-09:/JuliaSmoothOptimizers/JSOSuite.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/JSOSuite.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;One stop solutions for all things optimization&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaManifolds/Manifolds.jl</title>
-    <updated>2022-11-09T01:38:28Z</updated>
-    <id>tag:github.com,2022-11-09:/JuliaManifolds/Manifolds.jl</id>
-    <link href="https://github.com/JuliaManifolds/Manifolds.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manifolds.jl provides a library of manifolds aiming for an easy-to-use and fast implementation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaApproximation/FastTransforms.jl</title>
-    <updated>2022-11-09T01:38:28Z</updated>
-    <id>tag:github.com,2022-11-09:/JuliaApproximation/FastTransforms.jl</id>
-    <link href="https://github.com/JuliaApproximation/FastTransforms.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Julia package for orthogonal polynomial transforms 🏂&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MRC-CSO-SPHSU/LPMCalibration.jl</title>
+    <updated>2022-11-10T01:35:10Z</updated>
+    <id>tag:github.com,2022-11-10:/MRC-CSO-SPHSU/LPMCalibration.jl</id>
+    <link href="https://github.com/MRC-CSO-SPHSU/LPMCalibration.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental package for calibrating LPM and similar to empirical data&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

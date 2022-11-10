@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:39:16Z</updated>
+  <updated>2022-11-10T01:36:02Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>explorium-ai/kube-auto-puller</title>
-    <updated>2022-11-09T01:39:16Z</updated>
-    <id>tag:github.com,2022-11-09:/explorium-ai/kube-auto-puller</id>
-    <link href="https://github.com/explorium-ai/kube-auto-puller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Kubernetes Image Puller and Cacher with Automatic Discovery&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>giantswarm/kong-app</title>
-    <updated>2022-11-09T01:39:16Z</updated>
-    <id>tag:github.com,2022-11-09:/giantswarm/kong-app</id>
-    <link href="https://github.com/giantswarm/kong-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kong chart for Giant Swarm clusters&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

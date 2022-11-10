@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:34:26Z</updated>
+  <updated>2022-11-10T01:31:09Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LintangWisesa/Microsoft_Office_2016_Activator</title>
-    <updated>2022-11-09T01:34:26Z</updated>
-    <id>tag:github.com,2022-11-09:/LintangWisesa/Microsoft_Office_2016_Activator</id>
-    <link href="https://github.com/LintangWisesa/Microsoft_Office_2016_Activator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple batch file to activate Microsoft Office 2016&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SamToki/IconDesign---Sam-Toki-Mouse-Cursors</title>
+    <updated>2022-11-10T01:31:09Z</updated>
+    <id>tag:github.com,2022-11-10:/SamToki/IconDesign---Sam-Toki-Mouse-Cursors</id>
+    <link href="https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 原创极简风格鼠标指针，适用于 Windows 系统。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

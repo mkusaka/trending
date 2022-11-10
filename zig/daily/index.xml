@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:43:01Z</updated>
+  <updated>2022-11-10T01:40:22Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pithlessly/witty</title>
-    <updated>2022-11-09T01:43:01Z</updated>
-    <id>tag:github.com,2022-11-09:/pithlessly/witty</id>
-    <link href="https://github.com/pithlessly/witty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fengb/wazm</title>
+    <updated>2022-11-10T01:40:22Z</updated>
+    <id>tag:github.com,2022-11-10:/fengb/wazm</id>
+    <link href="https://github.com/fengb/wazm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web Assembly Zig Machine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

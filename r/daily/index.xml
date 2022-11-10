@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:40:42Z</updated>
+  <updated>2022-11-10T01:37:51Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jtr13/cc22tt</title>
-    <updated>2022-11-09T01:40:42Z</updated>
-    <id>tag:github.com,2022-11-09:/jtr13/cc22tt</id>
-    <link href="https://github.com/jtr13/cc22tt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source files for community contribution repo for EDAV Fall 2022 Tues/Thurs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cc22tt&lt;/h1&gt; &#xA;&lt;p&gt;Community contributions for STAT GR 5702 (EDAV) Fall 2022 Tues/Thurs&lt;/p&gt; &#xA;&lt;p&gt;The class projects will be collected as &lt;code&gt;.Rmd&lt;/code&gt; files and rendered into a bookdown book: &lt;a href=&#34;https://jtr13.github.io/cc22tt/&#34;&gt;https://jtr13.github.io/cc22tt/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Contributors, see: &lt;a href=&#34;https://jtr13.github.io/cc22tt/github-submission-instructions.html&#34;&gt;Submission Instructions&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Collaborators, see: &lt;a href=&#34;https://jtr13.github.io/cc22tt/tutorial-for-pull-request-mergers.html&#34;&gt;Tutorial for Pull Request Mergers&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>gkaramanis/30DayMapChallenge</title>
-    <updated>2022-11-09T01:40:42Z</updated>
-    <id>tag:github.com,2022-11-09:/gkaramanis/30DayMapChallenge</id>
-    <link href="https://github.com/gkaramanis/30DayMapChallenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Submissions to the #30DayMapChallenge&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;30DayMapChallenge&lt;/h1&gt; &#xA;&lt;p&gt;Submissions to the #30DayMapChallenge&lt;/p&gt;</summary>
-  </entry>
 </feed>

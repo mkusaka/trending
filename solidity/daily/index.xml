@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:41:48Z</updated>
+  <updated>2022-11-10T01:38:59Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ourzora/nouns-protocol</title>
-    <updated>2022-11-09T01:41:48Z</updated>
-    <id>tag:github.com,2022-11-09:/ourzora/nouns-protocol</id>
-    <link href="https://github.com/ourzora/nouns-protocol" rel="alternate"></link>
+    <title>Atarpara/DateTimeLib</title>
+    <updated>2022-11-10T01:38:59Z</updated>
+    <id>tag:github.com,2022-11-10:/Atarpara/DateTimeLib</id>
+    <link href="https://github.com/Atarpara/DateTimeLib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gas-Efficient Solidity DateTime Library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mangrovedao/mangrove-core</title>
+    <updated>2022-11-10T01:38:59Z</updated>
+    <id>tag:github.com,2022-11-10:/mangrovedao/mangrove-core</id>
+    <link href="https://github.com/mangrovedao/mangrove-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌴 Core smart contracts for Mangrove with deployment scripts and example offer logics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adeelhasan/licensing-dapp</title>
+    <updated>2022-11-10T01:38:59Z</updated>
+    <id>tag:github.com,2022-11-10:/adeelhasan/licensing-dapp</id>
+    <link href="https://github.com/adeelhasan/licensing-dapp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>transmissions11/foundry-template</title>
-    <updated>2022-11-09T01:41:48Z</updated>
-    <id>tag:github.com,2022-11-09:/transmissions11/foundry-template</id>
-    <link href="https://github.com/transmissions11/foundry-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Streamlined template for getting started with Foundry and Solmate.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>webb-tools/protocol-solidity</title>
-    <updated>2022-11-09T01:41:48Z</updated>
-    <id>tag:github.com,2022-11-09:/webb-tools/protocol-solidity</id>
-    <link href="https://github.com/webb-tools/protocol-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Webb Protocol implementation in Solidity.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:37:20Z</updated>
+  <updated>2022-11-10T01:34:09Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GaloisInc/elf-edit</title>
-    <updated>2022-11-09T01:37:20Z</updated>
-    <id>tag:github.com,2022-11-09:/GaloisInc/elf-edit</id>
-    <link href="https://github.com/GaloisInc/elf-edit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The elf-edit library provides a datatype suitable for reading and writing Elf files.&lt;/p&gt;&lt;hr&gt;&lt;table&gt; &#xA; &lt;tbody&gt;&#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;License&lt;/th&gt;&#xA;   &lt;th&gt;Linux&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://raw.githubusercontent.com/GaloisInc/elf-edit/main/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-BSD-blue.svg?sanitize=true&#34; title=&#34;License&#34;&gt;&lt;/a&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt;&#xA;&lt;/table&gt; &#xA;&lt;h1&gt;elf-edit&lt;/h1&gt; &#xA;&lt;p&gt;The elf-edit library provides a datatype suitable for reading and writing Elf files.&lt;/p&gt; &#xA;&lt;p&gt;It is a fork of the original elf package on Hackage, but enables modifying and serializing Elf files. These changes are not backwards compatible and hence we have a new name.&lt;/p&gt; &#xA;&lt;h2&gt;Building with Stack&lt;/h2&gt; &#xA;&lt;p&gt;To build with Stack, first symlink to one of the provided YAML files. For example&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;ln -fs stack-8.6.yaml stack.yaml&#xA;stack build&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>input-output-hk/cardano-automation</title>
+    <updated>2022-11-10T01:34:09Z</updated>
+    <id>tag:github.com,2022-11-10:/input-output-hk/cardano-automation</id>
+    <link href="https://github.com/input-output-hk/cardano-automation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automation supporting `cardano-node` development, which is also not dependent on it.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GaloisInc/flexdis86</title>
+    <updated>2022-11-10T01:34:09Z</updated>
+    <id>tag:github.com,2022-11-10:/GaloisInc/flexdis86</id>
+    <link href="https://github.com/GaloisInc/flexdis86" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library for disassembling x86-64 binaries.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Building with Stack&lt;/h1&gt; &#xA;&lt;p&gt;Flexdis is meant to build with stack. For example,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;stack --stack-yaml stack-8.6.yaml build&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

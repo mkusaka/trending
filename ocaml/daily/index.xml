@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:39:37Z</updated>
+  <updated>2022-11-10T01:36:29Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ArulselvanMadhavan/mini_dalle</title>
-    <updated>2022-11-09T01:39:37Z</updated>
-    <id>tag:github.com,2022-11-09:/ArulselvanMadhavan/mini_dalle</id>
-    <link href="https://github.com/ArulselvanMadhavan/mini_dalle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mini-dalle in ocaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocsigen/lwt_domain</title>
-    <updated>2022-11-09T01:39:37Z</updated>
-    <id>tag:github.com,2022-11-09:/ocsigen/lwt_domain</id>
-    <link href="https://github.com/ocsigen/lwt_domain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parallelism in Lwt using domainslib&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stephenrkell/libcrunch</title>
+    <updated>2022-11-10T01:36:29Z</updated>
+    <id>tag:github.com,2022-11-10:/stephenrkell/libcrunch</id>
+    <link href="https://github.com/stephenrkell/libcrunch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dynamically safe implementation of C, using your existing C compiler. Tolerates idiomatic C code pretty well. Not perfect... yet.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

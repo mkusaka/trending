@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:33:45Z</updated>
+  <updated>2022-11-10T01:30:27Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EthicalML/awesome-production-machine-learning</title>
-    <updated>2022-11-09T01:33:45Z</updated>
-    <id>tag:github.com,2022-11-09:/EthicalML/awesome-production-machine-learning</id>
-    <link href="https://github.com/EthicalML/awesome-production-machine-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fr0gger/Awesome_Malware_Techniques</title>
+    <updated>2022-11-10T01:30:27Z</updated>
+    <id>tag:github.com,2022-11-10:/fr0gger/Awesome_Malware_Techniques</id>
+    <link href="https://github.com/fr0gger/Awesome_Malware_Techniques" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repository of resource about Malware techniques&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xicilion/BitcoinWhitePaper</title>
-    <updated>2022-11-09T01:33:45Z</updated>
-    <id>tag:github.com,2022-11-09:/xicilion/BitcoinWhitePaper</id>
-    <link href="https://github.com/xicilion/BitcoinWhitePaper" rel="alternate"></link>
+    <title>alura-challenges/aluratube</title>
+    <updated>2022-11-10T01:30:27Z</updated>
+    <id>tag:github.com,2022-11-10:/alura-challenges/aluratube</id>
+    <link href="https://github.com/alura-challenges/aluratube" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>warpdotdev/Warp</title>
+    <updated>2022-11-10T01:30:27Z</updated>
+    <id>tag:github.com,2022-11-10:/warpdotdev/Warp</id>
+    <link href="https://github.com/warpdotdev/Warp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-09T01:35:20Z</updated>
+  <updated>2022-11-10T01:32:01Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sauron-board/sauron</title>
-    <updated>2022-11-09T01:35:20Z</updated>
-    <id>tag:github.com,2022-11-09:/sauron-board/sauron</id>
-    <link href="https://github.com/sauron-board/sauron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The all-seeing dashboard for continuous deployment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blaiprat/jquery.cssQueue</title>
+    <updated>2022-11-10T01:32:01Z</updated>
+    <id>tag:github.com,2022-11-10:/blaiprat/jquery.cssQueue</id>
+    <link href="https://github.com/blaiprat/jquery.cssQueue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A plugin to handle chain adding, removing css classes with transitions attached to them without worrying about timeouts or events!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>joyqi/sfz</title>
-    <updated>2022-11-09T01:35:20Z</updated>
-    <id>tag:github.com,2022-11-09:/joyqi/sfz</id>
-    <link href="https://github.com/joyqi/sfz" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alexaivars/node-post-proxy</title>
-    <updated>2022-11-09T01:35:20Z</updated>
-    <id>tag:github.com,2022-11-09:/alexaivars/node-post-proxy</id>
-    <link href="https://github.com/alexaivars/node-post-proxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;proxy a http get to post&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jazzychad/bridge-trainer</title>
+    <updated>2022-11-10T01:32:01Z</updated>
+    <id>tag:github.com,2022-11-10:/jazzychad/bridge-trainer</id>
+    <link href="https://github.com/jazzychad/bridge-trainer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Bridge bidding trainer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
