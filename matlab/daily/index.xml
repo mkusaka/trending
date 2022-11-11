@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:35:53Z</updated>
+  <updated>2022-11-11T01:35:27Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AndrewVSutherland/ModularCurves</title>
+    <updated>2022-11-11T01:35:27Z</updated>
+    <id>tag:github.com,2022-11-11:/AndrewVSutherland/ModularCurves</id>
+    <link href="https://github.com/AndrewVSutherland/ModularCurves" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code and data related to the construction of a modular curves database in the LMFDB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

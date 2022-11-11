@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:38:32Z</updated>
+  <updated>2022-11-11T01:37:44Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0x32Moon/Crypto-NFT-Drainer-V2</title>
-    <updated>2022-11-10T01:38:32Z</updated>
-    <id>tag:github.com,2022-11-10:/0x32Moon/Crypto-NFT-Drainer-V2</id>
-    <link href="https://github.com/0x32Moon/Crypto-NFT-Drainer-V2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌊 Best NFT/Crypto ETH Drainer [V2]&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MLH-Fellowship/prep-portfolio-22.NOV.PREP.2</title>
+    <updated>2022-11-11T01:37:44Z</updated>
+    <id>tag:github.com,2022-11-11:/MLH-Fellowship/prep-portfolio-22.NOV.PREP.2</id>
+    <link href="https://github.com/MLH-Fellowship/prep-portfolio-22.NOV.PREP.2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MLH Prep Portfolio for Pod 22.NOV.PREP.2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deep-generative-models-AIM5036/deep-generative-models-AIM5036.github.io</title>
+    <updated>2022-11-11T01:37:44Z</updated>
+    <id>tag:github.com,2022-11-11:/deep-generative-models-AIM5036/deep-generative-models-AIM5036.github.io</id>
+    <link href="https://github.com/deep-generative-models-AIM5036/deep-generative-models-AIM5036.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vfarcic/kaniko-demo</title>
+    <updated>2022-11-11T01:37:44Z</updated>
+    <id>tag:github.com,2022-11-11:/vfarcic/kaniko-demo</id>
+    <link href="https://github.com/vfarcic/kaniko-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

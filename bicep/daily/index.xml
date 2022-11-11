@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:31:11Z</updated>
+  <updated>2022-11-11T01:30:58Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bradygaster/RockPaperOrleans</title>
+    <updated>2022-11-11T01:30:58Z</updated>
+    <id>tag:github.com,2022-11-11:/bradygaster/RockPaperOrleans</id>
+    <link href="https://github.com/bradygaster/RockPaperOrleans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A distributed dotnet game written as multiple microservices that play rock, paper, scissors. You can send in a pull request with your own player logic and we&#39;ll host it for you.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/todo-csharp-sql-swa-func</title>
+    <updated>2022-11-11T01:30:58Z</updated>
+    <id>tag:github.com,2022-11-11:/Azure-Samples/todo-csharp-sql-swa-func</id>
+    <link href="https://github.com/Azure-Samples/todo-csharp-sql-swa-func" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete ToDo application that includes everything you need to build, deploy, and monitor an Azure solution. This application uses the Azure Developer CLI (azd) to get you up and running on Azure quickly, React.js for the Web application, C# isolated Azure Functions for the API, Azure SQL for DB, and Azure Monitor for monitoring and logging.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

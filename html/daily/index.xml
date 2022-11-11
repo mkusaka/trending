@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:34:20Z</updated>
+  <updated>2022-11-11T01:33:49Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tuanfat2k4/Trend-Trai-Tim</title>
-    <updated>2022-11-10T01:34:20Z</updated>
-    <id>tag:github.com,2022-11-10:/tuanfat2k4/Trend-Trai-Tim</id>
-    <link href="https://github.com/tuanfat2k4/Trend-Trai-Tim" rel="alternate"></link>
+    <title>HMC2910/loveVanHa</title>
+    <updated>2022-11-11T01:33:49Z</updated>
+    <id>tag:github.com,2022-11-11:/HMC2910/loveVanHa</id>
+    <link href="https://github.com/HMC2910/loveVanHa" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matheusbattisti/frontweek_1</title>
-    <updated>2022-11-10T01:34:20Z</updated>
-    <id>tag:github.com,2022-11-10:/matheusbattisti/frontweek_1</id>
-    <link href="https://github.com/matheusbattisti/frontweek_1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório dos arquivos da Front Week #1&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qimengke/html5-canvas</title>
+    <updated>2022-11-11T01:33:49Z</updated>
+    <id>tag:github.com,2022-11-11:/qimengke/html5-canvas</id>
+    <link href="https://github.com/qimengke/html5-canvas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;html5 canvas飘动的爱心心形动画特效&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nicoburns/blessed-rs</title>
-    <updated>2022-11-10T01:34:20Z</updated>
-    <id>tag:github.com,2022-11-10:/nicoburns/blessed-rs</id>
-    <link href="https://github.com/nicoburns/blessed-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A community guide to the Rust ecosystem&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://blessed.rs&#34;&gt;Blessed.rs&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;A community guide to the Rust ecosystem&lt;/p&gt;</summary>
+    <title>aarneranta/chalmers-advanced-python</title>
+    <updated>2022-11-11T01:33:49Z</updated>
+    <id>tag:github.com,2022-11-11:/aarneranta/chalmers-advanced-python</id>
+    <link href="https://github.com/aarneranta/chalmers-advanced-python" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public repository for Chalmers Advanced Python course material.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;chalmers-advanced-python&lt;/h1&gt; &#xA;&lt;p&gt;Public repository for Chalmers Advanced Python course material.&lt;/p&gt;</summary>
   </entry>
 </feed>

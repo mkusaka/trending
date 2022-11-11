@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:36:35Z</updated>
+  <updated>2022-11-11T01:35:58Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>marciomichelluzzi/ravin</title>
-    <updated>2022-11-10T01:36:35Z</updated>
-    <id>tag:github.com,2022-11-10:/marciomichelluzzi/ravin</id>
-    <link href="https://github.com/marciomichelluzzi/ravin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projeto modelo para os alunos do curso Dev2Blu&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>abysshint/tor-control-panel</title>
-    <updated>2022-11-10T01:36:35Z</updated>
-    <id>tag:github.com,2022-11-10:/abysshint/tor-control-panel</id>
-    <link href="https://github.com/abysshint/tor-control-panel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows GUI Client for Tor Expert Bundle&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

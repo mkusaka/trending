@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:31:09Z</updated>
+  <updated>2022-11-11T01:30:56Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SamToki/IconDesign---Sam-Toki-Mouse-Cursors</title>
-    <updated>2022-11-10T01:31:09Z</updated>
-    <id>tag:github.com,2022-11-10:/SamToki/IconDesign---Sam-Toki-Mouse-Cursors</id>
-    <link href="https://github.com/SamToki/IconDesign---Sam-Toki-Mouse-Cursors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 原创极简风格鼠标指针，适用于 Windows 系统。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QuocAnVN1310/NgrokRDP2019</title>
+    <updated>2022-11-11T01:30:56Z</updated>
+    <id>tag:github.com,2022-11-11:/QuocAnVN1310/NgrokRDP2019</id>
+    <link href="https://github.com/QuocAnVN1310/NgrokRDP2019" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BaiqingL/CyberPatriotScripts</title>
+    <updated>2022-11-11T01:30:56Z</updated>
+    <id>tag:github.com,2022-11-11:/BaiqingL/CyberPatriotScripts</id>
+    <link href="https://github.com/BaiqingL/CyberPatriotScripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cyber Patriot scripts for the IX competition.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

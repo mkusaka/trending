@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:40:05Z</updated>
+  <updated>2022-11-11T01:39:00Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dciccale/dotfiles</title>
-    <updated>2022-11-10T01:40:05Z</updated>
-    <id>tag:github.com,2022-11-10:/dciccale/dotfiles</id>
-    <link href="https://github.com/dciccale/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>viroulep/configFiles</title>
-    <updated>2022-11-10T01:40:05Z</updated>
-    <id>tag:github.com,2022-11-10:/viroulep/configFiles</id>
-    <link href="https://github.com/viroulep/configFiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dépot de mes configs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

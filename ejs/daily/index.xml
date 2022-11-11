@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:32:52Z</updated>
+  <updated>2022-11-11T01:32:45Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apache/incubator-streampipes-website</title>
-    <updated>2022-11-10T01:32:52Z</updated>
-    <id>tag:github.com,2022-11-10:/apache/incubator-streampipes-website</id>
-    <link href="https://github.com/apache/incubator-streampipes-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache StreamPipes Website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:40:17Z</updated>
+  <updated>2022-11-11T01:39:10Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>thomasleplus/ADO</title>
-    <updated>2022-11-10T01:40:17Z</updated>
-    <id>tag:github.com,2022-11-10:/thomasleplus/ADO</id>
-    <link href="https://github.com/thomasleplus/ADO" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts to process ADO autobuses web data.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ADO&lt;/h1&gt; &#xA;&lt;p&gt;Scripts to process &lt;a href=&#34;https://www.ado.com.mx&#34;&gt;ADO&lt;/a&gt; autobuses web data.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/thomasleplus/ADO/actions?query=workflow:%22ShellCheck%22&#34;&gt;&lt;img src=&#34;https://github.com/thomasleplus/ADO/workflows/ShellCheck/badge.svg?sanitize=true&#34; alt=&#34;ShellCheck&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

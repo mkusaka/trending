@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:40:17Z</updated>
+  <updated>2022-11-11T01:39:10Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>redhat-cop/aap_configuration_template</title>
-    <updated>2022-11-10T01:40:17Z</updated>
-    <id>tag:github.com,2022-11-10:/redhat-cop/aap_configuration_template</id>
-    <link href="https://github.com/redhat-cop/aap_configuration_template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ansible Automation Platform Configuration as Code examples template&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>redhat-cop/ee_utilities</title>
-    <updated>2022-11-10T01:40:17Z</updated>
-    <id>tag:github.com,2022-11-10:/redhat-cop/ee_utilities</id>
-    <link href="https://github.com/redhat-cop/ee_utilities" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This ansible collection includes a number of roles and tools which can be useful for managing Ansible Execution Environments.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

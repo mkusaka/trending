@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-10T01:31:56Z</updated>
+  <updated>2022-11-11T01:32:00Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ramoneees/datomic-classes</title>
+    <updated>2022-11-11T01:32:00Z</updated>
+    <id>tag:github.com,2022-11-11:/ramoneees/datomic-classes</id>
+    <link href="https://github.com/ramoneees/datomic-classes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phronmophobic/clong</title>
+    <updated>2022-11-11T01:32:00Z</updated>
+    <id>tag:github.com,2022-11-11:/phronmophobic/clong</id>
+    <link href="https://github.com/phronmophobic/clong" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A wrapper for libclang and a generator that can turn c header files into clojure apis.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
