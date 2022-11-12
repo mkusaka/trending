@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:31:00Z</updated>
+  <updated>2022-11-12T01:32:55Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>creativetimofficial/soft-ui-dashboard-tall</title>
+    <updated>2022-11-12T01:32:55Z</updated>
+    <id>tag:github.com,2022-11-12:/creativetimofficial/soft-ui-dashboard-tall</id>
+    <link href="https://github.com/creativetimofficial/soft-ui-dashboard-tall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free full stack app with dozens of UI components powered by Tailwind, Alpine.js, Laravel and Livewire.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nettantra/filament-slider-input-field</title>
+    <updated>2022-11-12T01:32:55Z</updated>
+    <id>tag:github.com,2022-11-12:/nettantra/filament-slider-input-field</id>
+    <link href="https://github.com/nettantra/filament-slider-input-field" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a wrapper around noUiSlider which allows creating a slider field on Filament Forms.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Open Policy Agent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:35:54Z</updated>
+  <updated>2022-11-12T01:38:39Z</updated>
   <subtitle>Daily Trending of Open Policy Agent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ansible-Policy-as-Code/tutorial-ibmcloud</title>
+    <updated>2022-11-12T01:38:39Z</updated>
+    <id>tag:github.com,2022-11-12:/Ansible-Policy-as-Code/tutorial-ibmcloud</id>
+    <link href="https://github.com/Ansible-Policy-as-Code/tutorial-ibmcloud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:35:24Z</updated>
+  <updated>2022-11-12T01:38:02Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>moul/cosmos-scripts</title>
-    <updated>2022-11-11T01:35:24Z</updated>
-    <id>tag:github.com,2022-11-11:/moul/cosmos-scripts</id>
-    <link href="https://github.com/moul/cosmos-scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dronedeploy/api-testing</title>
+    <updated>2022-11-12T01:38:02Z</updated>
+    <id>tag:github.com,2022-11-12:/dronedeploy/api-testing</id>
+    <link href="https://github.com/dronedeploy/api-testing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;API Load &amp; Performance Testing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:34:47Z</updated>
+  <updated>2022-11-12T01:37:15Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaDSP/DSP.jl</title>
-    <updated>2022-11-11T01:34:47Z</updated>
-    <id>tag:github.com,2022-11-11:/JuliaDSP/DSP.jl</id>
-    <link href="https://github.com/JuliaDSP/DSP.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Filter design, periodograms, window functions, and other digital signal processing functionality&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>soundcloud/MinimalPerfectHashes.jl</title>
+    <updated>2022-11-12T01:37:15Z</updated>
+    <id>tag:github.com,2022-11-12:/soundcloud/MinimalPerfectHashes.jl</id>
+    <link href="https://github.com/soundcloud/MinimalPerfectHashes.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of minimal perfect hash function generation as described in Czech et. al. 1992.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PetrKryslUCSD/FinEtools.jl</title>
-    <updated>2022-11-11T01:34:47Z</updated>
-    <id>tag:github.com,2022-11-11:/PetrKryslUCSD/FinEtools.jl</id>
-    <link href="https://github.com/PetrKryslUCSD/FinEtools.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Finite Element tools in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Quantum-Many-Body/SUNSpinWaveTheory.jl</title>
+    <updated>2022-11-12T01:37:15Z</updated>
+    <id>tag:github.com,2022-11-12:/Quantum-Many-Body/SUNSpinWaveTheory.jl</id>
+    <link href="https://github.com/Quantum-Many-Body/SUNSpinWaveTheory.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SU(N) linear spin-wave theory ( linear flavor-wave theory) is the extension of the linear spin-wave theory.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/SciMLBenchmarks.jl</title>
-    <updated>2022-11-11T01:34:47Z</updated>
-    <id>tag:github.com,2022-11-11:/SciML/SciMLBenchmarks.jl</id>
-    <link href="https://github.com/SciML/SciMLBenchmarks.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Benchmarks for scientific machine learning (SciML) software, scientific AI, and (differential) equation solvers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SciML/MethodOfLines.jl</title>
+    <updated>2022-11-12T01:37:15Z</updated>
+    <id>tag:github.com,2022-11-12:/SciML/MethodOfLines.jl</id>
+    <link href="https://github.com/SciML/MethodOfLines.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatic Finite Difference PDE solving with Julia SciML&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

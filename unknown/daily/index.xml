@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:30:30Z</updated>
+  <updated>2022-11-12T01:32:18Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YanG-1989/m3u</title>
-    <updated>2022-11-11T01:30:30Z</updated>
-    <id>tag:github.com,2022-11-11:/YanG-1989/m3u</id>
-    <link href="https://github.com/YanG-1989/m3u" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>infosecB/awesome-detection-engineering</title>
+    <updated>2022-11-12T01:32:18Z</updated>
+    <id>tag:github.com,2022-11-12:/infosecB/awesome-detection-engineering</id>
+    <link href="https://github.com/infosecB/awesome-detection-engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of useful Detection Engineering-related resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fuzhengwei/CodeGuide</title>
-    <updated>2022-11-11T01:30:30Z</updated>
-    <id>tag:github.com,2022-11-11:/fuzhengwei/CodeGuide</id>
-    <link href="https://github.com/fuzhengwei/CodeGuide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>valeman/awesome-conformal-prediction</title>
+    <updated>2022-11-12T01:32:18Z</updated>
+    <id>tag:github.com,2022-11-12:/valeman/awesome-conformal-prediction</id>
+    <link href="https://github.com/valeman/awesome-conformal-prediction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A professionally curated list of awesome Conformal Prediction videos, tutorials, books, papers, PhD and MSc theses, articles and open-source libraries.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dangkhoasdc/awesome-ai-residency</title>
-    <updated>2022-11-11T01:30:30Z</updated>
-    <id>tag:github.com,2022-11-11:/dangkhoasdc/awesome-ai-residency</id>
-    <link href="https://github.com/dangkhoasdc/awesome-ai-residency" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of AI Residency Programs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0x90n/InfoSec-Black-Friday</title>
+    <updated>2022-11-12T01:32:18Z</updated>
+    <id>tag:github.com,2022-11-12:/0x90n/InfoSec-Black-Friday</id>
+    <link href="https://github.com/0x90n/InfoSec-Black-Friday" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All the deals for InfoSec related software/tools this Black Friday&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

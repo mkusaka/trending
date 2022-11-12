@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:30:53Z</updated>
+  <updated>2022-11-12T01:32:47Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>chaohershi/cclose</title>
-    <updated>2022-11-11T01:30:53Z</updated>
-    <id>tag:github.com,2022-11-11:/chaohershi/cclose</id>
-    <link href="https://github.com/chaohershi/cclose" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Windows utility that helps you close windows faster or pin windows always on top.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

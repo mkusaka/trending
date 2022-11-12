@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Workflow Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:32:05Z</updated>
+  <updated>2022-11-12T01:33:48Z</updated>
   <subtitle>Daily Trending of Common Workflow Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ResearchObject/runcrate</title>
-    <updated>2022-11-11T01:32:05Z</updated>
-    <id>tag:github.com,2022-11-11:/ResearchObject/runcrate</id>
-    <link href="https://github.com/ResearchObject/runcrate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python library/tool that can process/convert RO-Crates following Workflow Run Crate profiles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:33:32Z</updated>
+  <updated>2022-11-12T01:35:51Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chipsfingrar/Learning-Gradle</title>
-    <updated>2022-11-11T01:33:32Z</updated>
-    <id>tag:github.com,2022-11-11:/chipsfingrar/Learning-Gradle</id>
-    <link href="https://github.com/chipsfingrar/Learning-Gradle" rel="alternate"></link>
+    <title>jameselsey/restful-mongo</title>
+    <updated>2022-11-12T01:35:51Z</updated>
+    <id>tag:github.com,2022-11-12:/jameselsey/restful-mongo</id>
+    <link href="https://github.com/jameselsey/restful-mongo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example Java web app with RESTful services provided by jersey and spring, along with mongoDB datastore&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grails/grails-spring-security-core</title>
+    <updated>2022-11-12T01:35:51Z</updated>
+    <id>tag:github.com,2022-11-12:/grails/grails-spring-security-core</id>
+    <link href="https://github.com/grails/grails-spring-security-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grails Spring Security Core Plugin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kzaporozhtsev/octopus-rm-gradle-plugin</title>
+    <updated>2022-11-12T01:35:51Z</updated>
+    <id>tag:github.com,2022-11-12:/kzaporozhtsev/octopus-rm-gradle-plugin</id>
+    <link href="https://github.com/kzaporozhtsev/octopus-rm-gradle-plugin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

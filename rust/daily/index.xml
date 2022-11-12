@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:37:20Z</updated>
+  <updated>2022-11-12T01:40:30Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cozodb/cozo</title>
-    <updated>2022-11-11T01:37:20Z</updated>
-    <id>tag:github.com,2022-11-11:/cozodb/cozo</id>
-    <link href="https://github.com/cozodb/cozo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>a16z/helios</title>
-    <updated>2022-11-11T01:37:20Z</updated>
-    <id>tag:github.com,2022-11-11:/a16z/helios</id>
-    <link href="https://github.com/a16z/helios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast, secure, and portable light client for Ethereum&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>levkk/pgcat</title>
-    <updated>2022-11-11T01:37:20Z</updated>
-    <id>tag:github.com,2022-11-11:/levkk/pgcat</id>
-    <link href="https://github.com/levkk/pgcat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PostgreSQL pooler with sharding, load balancing and failover support.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DiamondHunters/NodeInject</title>
+    <updated>2022-11-12T01:40:30Z</updated>
+    <id>tag:github.com,2022-11-12:/DiamondHunters/NodeInject</id>
+    <link href="https://github.com/DiamondHunters/NodeInject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a inject tools for injecting js code into typora (with an activation script example)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

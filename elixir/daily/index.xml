@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:32:47Z</updated>
+  <updated>2022-11-12T01:34:52Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>opendoor-labs/redix_pool</title>
+    <updated>2022-11-12T01:34:52Z</updated>
+    <id>tag:github.com,2022-11-12:/opendoor-labs/redix_pool</id>
+    <link href="https://github.com/opendoor-labs/redix_pool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Redix + Poolboy&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mveytsman/heroicons_elixir</title>
+    <updated>2022-11-12T01:34:52Z</updated>
+    <id>tag:github.com,2022-11-12:/mveytsman/heroicons_elixir</id>
+    <link href="https://github.com/mveytsman/heroicons_elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Phoenix components for Heroicons!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

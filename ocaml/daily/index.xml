@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:35:53Z</updated>
+  <updated>2022-11-12T01:38:37Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>informatica-unica/lip</title>
+    <updated>2022-11-12T01:38:37Z</updated>
+    <id>tag:github.com,2022-11-12:/informatica-unica/lip</id>
+    <link href="https://github.com/informatica-unica/lip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>etiloz/projet-pf-2022-2023-ogit</title>
+    <updated>2022-11-12T01:38:37Z</updated>
+    <id>tag:github.com,2022-11-12:/etiloz/projet-pf-2022-2023-ogit</id>
+    <link href="https://github.com/etiloz/projet-pf-2022-2023-ogit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;projet de programmation fonctionnelle L3 info Valrose - Mini git en OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:33:49Z</updated>
+  <updated>2022-11-12T01:36:14Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HMC2910/loveVanHa</title>
-    <updated>2022-11-11T01:33:49Z</updated>
-    <id>tag:github.com,2022-11-11:/HMC2910/loveVanHa</id>
-    <link href="https://github.com/HMC2910/loveVanHa" rel="alternate"></link>
+    <title>fromann/heart</title>
+    <updated>2022-11-12T01:36:14Z</updated>
+    <id>tag:github.com,2022-11-12:/fromann/heart</id>
+    <link href="https://github.com/fromann/heart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;点燃我温暖你李洵同款爱心代码，爱心跳动代码，爱心代码&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HEART爱心代码&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;《点燃我温暖你》李洵同款爱心代码，爱心跳动代码，爱心代码&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;网站&lt;a href=&#34;https://heart.froan.cn&#34;&gt;演示&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h2&gt;演示图片&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/fromann/heart/main/image.png&#34; alt=&#34;展示&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>leduyminhcn20b/duyminhbio</title>
+    <updated>2022-11-12T01:36:14Z</updated>
+    <id>tag:github.com,2022-11-12:/leduyminhcn20b/duyminhbio</id>
+    <link href="https://github.com/leduyminhcn20b/duyminhbio" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>qimengke/html5-canvas</title>
-    <updated>2022-11-11T01:33:49Z</updated>
-    <id>tag:github.com,2022-11-11:/qimengke/html5-canvas</id>
-    <link href="https://github.com/qimengke/html5-canvas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;html5 canvas飘动的爱心心形动画特效&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aarneranta/chalmers-advanced-python</title>
-    <updated>2022-11-11T01:33:49Z</updated>
-    <id>tag:github.com,2022-11-11:/aarneranta/chalmers-advanced-python</id>
-    <link href="https://github.com/aarneranta/chalmers-advanced-python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public repository for Chalmers Advanced Python course material.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;chalmers-advanced-python&lt;/h1&gt; &#xA;&lt;p&gt;Public repository for Chalmers Advanced Python course material.&lt;/p&gt;</summary>
+    <title>TranQuangBun/heart</title>
+    <updated>2022-11-12T01:36:14Z</updated>
+    <id>tag:github.com,2022-11-12:/TranQuangBun/heart</id>
+    <link href="https://github.com/TranQuangBun/heart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

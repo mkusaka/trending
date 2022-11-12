@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:33:38Z</updated>
+  <updated>2022-11-12T01:35:59Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>swordcube/FNF-Plasma-Engine</title>
-    <updated>2022-11-11T01:33:38Z</updated>
-    <id>tag:github.com,2022-11-11:/swordcube/FNF-Plasma-Engine</id>
-    <link href="https://github.com/swordcube/FNF-Plasma-Engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Friday Night Funkin&#39; but rewritten from the ground up for easy modding and better performance.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;🎮 Plasma Engine&lt;/h1&gt; &#xA;&lt;p&gt;A Friday Night Funkin&#39; engine designed to be lightweight and easy to mod. Use &lt;code&gt;.hx&lt;/code&gt; files to make modcharts, stages, characters, states, and more!&lt;/p&gt; &#xA;&lt;h3&gt;psst hey vizz here if you want debug builds so you can see all your hscript errors here they are!&lt;/h3&gt; &#xA;&lt;h4&gt;WINDOWS : &lt;a href=&#34;https://drive.google.com/file/d/10mho5g__RmmdnCnU6JnTcA6jPDAXL95e/view?usp=sharing&#34;&gt;https://drive.google.com/file/d/10mho5g__RmmdnCnU6JnTcA6jPDAXL95e/view?usp=sharing&lt;/a&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;MAC: compiler errors&lt;/h4&gt; &#xA;&lt;h4&gt;LINUX: more errors &lt;span&gt;💀&lt;/span&gt;&lt;/h4&gt; &#xA;&lt;h1&gt;🖥️ Building the game&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Step 1. &lt;a href=&#34;https://git-scm.com/downloads&#34;&gt;Install git-scm&lt;/a&gt; if you don&#39;t have it already.&lt;/li&gt; &#xA; &lt;li&gt;Step 2. &lt;a href=&#34;https://haxe.org/download/&#34;&gt;Install Haxe&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Step 3. &lt;a href=&#34;https://haxeflixel.com/documentation/install-haxeflixel/&#34;&gt;Install HaxeFlixel&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Step 4. Run these commands to install required libraries:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;haxelib git flixel https://github.com/YoshiCrafter29/flixel&#xA;haxelib git hxCodec https://github.com/swordcube/hxCodec-testing&#xA;haxelib git hscript-improved https://github.com/YoshiCrafter29/hscript-improved&#xA;haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc&#xA;haxelib git openfl https://github.com/openfl/openfl&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Step 5. If you run on Windows, install &lt;a href=&#34;https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=community&amp;amp;rel=16&amp;amp;utm_medium=microsoft&amp;amp;utm_source=docs.microsoft.com&amp;amp;utm_campaign=download+from+relnotes&amp;amp;utm_content=vs2019ga+button&#34;&gt;Visual Studio Community 2019&lt;/a&gt; using these specific components in &lt;code&gt;Individual Components&lt;/code&gt; instead of selecting the normal options:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;* MSVC v142 - VS 2019 C++ x64/x86 build tools&#xA;* Windows SDK (10.0.17763.0)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Step 6. Run &lt;code&gt;lime test &amp;lt;windows/linux/mac&amp;gt;&lt;/code&gt;, choosing your OS. (Ex. &lt;code&gt;lime test windows&lt;/code&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>andrew-git/Orbit</title>
-    <updated>2022-11-11T01:33:38Z</updated>
-    <id>tag:github.com,2022-11-11:/andrew-git/Orbit</id>
-    <link href="https://github.com/andrew-git/Orbit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Orbit Scripting Language&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Orbit v0.1&lt;/h1&gt; &#xA;&lt;p&gt;Orbit - The awesome mix of Lisp, JavaScript, and Lua&lt;/p&gt;</summary>
-  </entry>
 </feed>

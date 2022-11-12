@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-11T01:39:03Z</updated>
+  <updated>2022-11-12T01:42:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MasteringNuxt/mastering-nuxt-3</title>
-    <updated>2022-11-11T01:39:03Z</updated>
-    <id>tag:github.com,2022-11-11:/MasteringNuxt/mastering-nuxt-3</id>
-    <link href="https://github.com/MasteringNuxt/mastering-nuxt-3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>StavinLi/Workflow-Vue3</title>
-    <updated>2022-11-11T01:39:03Z</updated>
-    <id>tag:github.com,2022-11-11:/StavinLi/Workflow-Vue3</id>
-    <link href="https://github.com/StavinLi/Workflow-Vue3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;仿钉钉审批流程设置vue3版本&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
