@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:39:28Z</updated>
+  <updated>2022-11-13T01:39:59Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>briandelmsft/SentinelAutomationModules</title>
+    <updated>2022-11-13T01:39:59Z</updated>
+    <id>tag:github.com,2022-11-13:/briandelmsft/SentinelAutomationModules</id>
+    <link href="https://github.com/briandelmsft/SentinelAutomationModules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Microsoft Sentinel Triage AssistanT (STAT) enables easy to create incident triage automation in Microsoft Sentinel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Microsoft Sentinel Triage AssistanT (STAT) &lt;span&gt;🏥&lt;/span&gt;&lt;/h1&gt; &#xA;&lt;p&gt;The Microsoft Sentinel Triage AssistanT (STAT) is a Logic Apps Custom Connector that calls on a library of Automation &lt;a href=&#34;https://raw.githubusercontent.com/briandelmsft/SentinelAutomationModules/main/Modules/&#34;&gt;Modules&lt;/a&gt; that can be used from Incident based Microsoft Sentinel playbooks. This connector and modules simplify automation by moving complex automation tasks into these callable modules so they can be performed consistently and with ease from the Logic Apps Connector.&lt;/p&gt; &#xA;&lt;p&gt;Using the Microsoft Sentinel Triage AssistanT starts by calling the Base Module. This module prepares and enriches Incident and entity data for each of the triage modules which consumes this data. Once the Base Module has been called the triage modules can be used to perform analysis against the entities related to the Microsoft Sentinel incident. These triage modules will return an easy to use, well documented result so you can evaluate the outputs and quickly make decisions about how to handle an incident.&lt;/p&gt; &#xA;&lt;p&gt;Project goals include:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Reducing the time (and cost) of building Microsoft Sentinel Automation&lt;/li&gt; &#xA; &lt;li&gt;Reducing the time to test Microsoft Sentinel Automation through the use of consistent callable modules&lt;/li&gt; &#xA; &lt;li&gt;Increasing SOC efficiency by triaging Incidents before they reach an analyst&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Many of the Microsoft Sentinel playbook templates available today focus on Notification, Incident Enrichment and Remediation. This project focuses on the triage and analysis of an incident to provide additional confidence in the quality of the incident before taking actions. When the incident is determined to be low quality (likely a benign positive), it can be closed or lowered in severity through these automation flows. When the incident is determined to be of higher quality, it can be raised in severity, assigned to an analyst or even trigger a remediation task.&lt;/p&gt; &#xA;&lt;p&gt;The full solution is available for deployment in the &lt;a href=&#34;https://raw.githubusercontent.com/briandelmsft/SentinelAutomationModules/main/Deploy/&#34;&gt;Deployment&lt;/a&gt; section and additional documentation can be found in &lt;a href=&#34;https://raw.githubusercontent.com/briandelmsft/SentinelAutomationModules/main/Docs/&#34;&gt;Docs&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ChristianLempa/dotfiles-win</title>
+    <updated>2022-11-13T01:39:59Z</updated>
+    <id>tag:github.com,2022-11-13:/ChristianLempa/dotfiles-win</id>
+    <link href="https://github.com/ChristianLempa/dotfiles-win" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These are my user-specific configuration files that I use to personalize my Windows experience.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dotfiles-win&lt;/h1&gt; &#xA;&lt;p&gt;These are my user-specific configuration files that I use to personalize my Windows experience.&lt;/p&gt;</summary>
+  </entry>
 </feed>

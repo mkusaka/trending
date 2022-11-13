@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SQLPL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:51:01Z</updated>
+  <subtitle>Weekly Trending of SQLPL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Olosinsk-commits/MYSQL</title>
+    <updated>2022-11-13T01:51:01Z</updated>
+    <id>tag:github.com,2022-11-13:/Olosinsk-commits/MYSQL</id>
+    <link href="https://github.com/Olosinsk-commits/MYSQL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LWTech&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

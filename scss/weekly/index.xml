@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:50:18Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tefkah/zotero-night</title>
+    <updated>2022-11-13T01:50:18Z</updated>
+    <id>tag:github.com,2022-11-13:/tefkah/zotero-night</id>
+    <link href="https://github.com/tefkah/zotero-night" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Night theme for Zotero UI and PDF&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mastodon/documentation</title>
+    <updated>2022-11-13T01:50:18Z</updated>
+    <id>tag:github.com,2022-11-13:/mastodon/documentation</id>
+    <link href="https://github.com/mastodon/documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mastodon documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mate-academy/js_2048_game</title>
+    <updated>2022-11-13T01:50:18Z</updated>
+    <id>tag:github.com,2022-11-13:/mate-academy/js_2048_game</id>
+    <link href="https://github.com/mate-academy/js_2048_game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JS Advanced task. Create a 2048 game.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

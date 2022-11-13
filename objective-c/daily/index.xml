@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:38:25Z</updated>
+  <updated>2022-11-13T01:39:15Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>braze-inc/braze-ios-sdk</title>
+    <updated>2022-11-13T01:39:15Z</updated>
+    <id>tag:github.com,2022-11-13:/braze-inc/braze-ios-sdk</id>
+    <link href="https://github.com/braze-inc/braze-ios-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public repo for the Braze iOS SDK (for Swift Package Manager)&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;⚠ The new &lt;a href=&#34;https://github.com/braze-inc/braze-swift-sdk&#34;&gt;Braze Swift SDK&lt;/a&gt; is now available!&lt;/h3&gt; &#xA;&lt;br&gt; &#xA;&lt;img src=&#34;https://github.com/Appboy/appboy-ios-sdk/raw/master/braze-logo.png&#34; width=&#34;300&#34; title=&#34;Braze Logo&#34;&gt; &#xA;&lt;h1&gt;iOS SDK (Swift Package Manager only)&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;⚠️ For versions prior to 3.33.1, please reference the original &lt;code&gt;Appboy&lt;/code&gt; repo here: &lt;a href=&#34;https://github.com/Appboy/Appboy-ios-sdk&#34;&gt;https://github.com/Appboy/Appboy-ios-sdk&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;Successful marketing automation is essential to the future of your mobile app. Braze helps you engage your users beyond the download. Visit the following links for details and we&#39;ll have you up and running in no time!&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.braze.com/docs/user_guide/introduction/&#34; title=&#34;Braze User Guide&#34;&gt;Braze User Guide&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.braze.com/docs/developer_guide/platform_integration_guides/ios/initial_sdk_setup/&#34; title=&#34;Braze Developer Guide&#34;&gt;Braze Developer Guide&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://appboy.github.io/appboy-ios-sdk/docs/annotated.html&#34; title=&#34;Braze iOS SDK Class Documentation&#34;&gt;Full Class Documentation&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Uses&lt;/h2&gt; &#xA;&lt;p&gt;Please use this repo when integrating via Swift Package Manager to ensure optimal performance.&lt;/p&gt; &#xA;&lt;h2&gt;Components&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;AppboyKit&lt;/code&gt; - Contains the variant of our SDK.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;AppboyUI&lt;/code&gt; - Contains the open-source UI code of our SDK. Not all of the UI code of the SDK is open-source.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Version Support&lt;/h2&gt; &#xA;&lt;p&gt;The iOS SDK supports iOS 9.0+.&lt;/p&gt; &#xA;&lt;h2&gt;Questions?&lt;/h2&gt; &#xA;&lt;p&gt;If you have questions, please contact &lt;a href=&#34;mailto:support@braze.com&#34;&gt;support@braze.com&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>salesforce-marketingcloud/MarketingCloudSDK-iOS</title>
+    <updated>2022-11-13T01:39:15Z</updated>
+    <id>tag:github.com,2022-11-13:/salesforce-marketingcloud/MarketingCloudSDK-iOS</id>
+    <link href="https://github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official Marketing Cloud MobilePush SDK Framework &amp; LearningApp Example Application&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MarketingCloudSDK - MobilePush SDK for iOS&lt;/h1&gt; &#xA;&lt;p&gt;============================================&lt;/p&gt; &#xA;&lt;p&gt;This is the git repository for the Salesforce Marketing Cloud MobilePush SDK for iOS.&lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;Release History, Documentation, and Apple docs are located at &lt;a href=&#34;http://salesforce-marketingcloud.github.io/MarketingCloudSDK-iOS/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;For questions regarding the SDK or any issues you would like to report, please contact your Salesforce Marketing Cloud support team or post a question on &lt;a href=&#34;http://salesforce.stackexchange.com/&#34; target=&#34;_blank&#34;&gt;Salesforce StackExchange&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

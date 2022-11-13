@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:44:19Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>arsenm/sanitizers-cmake</title>
+    <updated>2022-11-13T01:44:19Z</updated>
+    <id>tag:github.com,2022-11-13:/arsenm/sanitizers-cmake</id>
+    <link href="https://github.com/arsenm/sanitizers-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake modules to help use sanitizers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethz-asl/opencv3_catkin</title>
+    <updated>2022-11-13T01:44:19Z</updated>
+    <id>tag:github.com,2022-11-13:/ethz-asl/opencv3_catkin</id>
+    <link href="https://github.com/ethz-asl/opencv3_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catkin wrapper for opencv3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/azure-sdk-vcpkg-betas</title>
+    <updated>2022-11-13T01:44:19Z</updated>
+    <id>tag:github.com,2022-11-13:/Azure/azure-sdk-vcpkg-betas</id>
+    <link href="https://github.com/Azure/azure-sdk-vcpkg-betas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure SDK Vcpkg Betas&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

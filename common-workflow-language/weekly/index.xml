@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Workflow Language Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:44:21Z</updated>
+  <subtitle>Weekly Trending of Common Workflow Language in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ResearchObject/runcrate</title>
+    <updated>2022-11-13T01:44:21Z</updated>
+    <id>tag:github.com,2022-11-13:/ResearchObject/runcrate</id>
+    <link href="https://github.com/ResearchObject/runcrate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python library/tool that can process/convert RO-Crates following Workflow Run Crate profiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ddbj/jga-analysis</title>
+    <updated>2022-11-13T01:44:21Z</updated>
+    <id>tag:github.com,2022-11-13:/ddbj/jga-analysis</id>
+    <link href="https://github.com/ddbj/jga-analysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

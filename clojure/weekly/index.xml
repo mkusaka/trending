@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:44:16Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>donut-party/dbxray</title>
+    <updated>2022-11-13T01:44:16Z</updated>
+    <id>tag:github.com,2022-11-13:/donut-party/dbxray</id>
+    <link href="https://github.com/donut-party/dbxray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;view your database&#39;s metadata skeleton and generate schemas from it 🩻&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/docopt.clj</title>
+    <updated>2022-11-13T01:44:16Z</updated>
+    <id>tag:github.com,2022-11-13:/nubank/docopt.clj</id>
+    <link href="https://github.com/nubank/docopt.clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure implementation of the docopt description language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/workspaces</title>
+    <updated>2022-11-13T01:44:16Z</updated>
+    <id>tag:github.com,2022-11-13:/nubank/workspaces</id>
+    <link href="https://github.com/nubank/workspaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Live development environment for Clojurescript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

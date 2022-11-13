@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:49:55Z</updated>
+  <subtitle>Weekly Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>baldsealion/Steamdeck-Ultimate-Windows11-Guide</title>
+    <updated>2022-11-13T01:49:55Z</updated>
+    <id>tag:github.com,2022-11-13:/baldsealion/Steamdeck-Ultimate-Windows11-Guide</id>
+    <link href="https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Customizations and instructions for Windows 11 setup for SteamDeck&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tsingui/clover-efi</title>
+    <updated>2022-11-13T01:49:55Z</updated>
+    <id>tag:github.com,2022-11-13:/tsingui/clover-efi</id>
+    <link href="https://github.com/tsingui/clover-efi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;分享整理一些黑苹果Clover驱动配置文件&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

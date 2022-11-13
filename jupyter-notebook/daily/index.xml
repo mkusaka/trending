@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:37:17Z</updated>
+  <updated>2022-11-13T01:38:21Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>qiskit-community/ibm-quantum-challenge-fall-22</title>
+    <updated>2022-11-13T01:38:21Z</updated>
+    <id>tag:github.com,2022-11-13:/qiskit-community/ibm-quantum-challenge-fall-22</id>
+    <link href="https://github.com/qiskit-community/ibm-quantum-challenge-fall-22" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For IBM Quantum Fall Challenge 2022&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IBM Quantum Challenge Fall 2022&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://opensource.org/licenses/Apache-2.0&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/qiskit-community/ibm-quantum-fall-challenge-22.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt;&#xA; &lt;!-- long-description-skip-begin --&gt;&lt;img src=&#34;https://img.shields.io/github/last-commit/qiskit-community/ibm-quantum-fall-challenge-22/main?label=Last%20updated&amp;amp;style=flat&#34; alt=&#34;Last updated&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;We are proud to welcome you back for another bi-annual IBM Quantum Challenge this fall! This time we are taking you through an interactive intergalactic storyline and introducing you to a new programming model for building algorithmic routines - The Qiskit Primitives. Qiskit Primitives showcases two of the currently available primitive constructs: Sampler and Estimator - building on core common algorithmic routines in the domain of Optimization, Chemistry and Machine Learning, while also using them as an interface to explore the offerings of the Qiskit Runtime service.&lt;/p&gt; &#xA;&lt;p&gt;Starting on Friday, November 11 (9AM EDT), embark with us on an 7-day space journey of learning and exploring the latest cutting edge capabilities of Qiskit and Qiskit Runtime service to help you build on skills and tackle constructing quantum algorithmic routines accommodating a few real life deployment practices. You can read more about the challenge in the &lt;a href=&#34;https://www.research.ibm.com/blog/quantum-challenge-fall-2022&#34;&gt;announcement blog&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Make sure to join the dedicated Slack channel &lt;a href=&#34;https://qiskit.slack.com/archives/C0466L7D5CG&#34;&gt;#challenge-fall-2022&lt;/a&gt; where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace &lt;a href=&#34;https://ibm.co/joinqiskitslack&#34;&gt;here&lt;/a&gt; if you haven&#39;t already.&lt;/p&gt; &#xA;&lt;p&gt;Following this challenge, if you are looking to apply your new-found knowledge further, we encourage you to participate in the IBM Open Science Prize that will be announced later this year! Every year, a new technical challenge at the forefront of quantum computing is posed to the entire world and those who generate the strongest solutions can win thousands of dollars in prizes. We hope to see you there too!&lt;/p&gt; &#xA;&lt;br&gt; &#xA;&lt;br&gt;&#xA;&lt;br&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://github.com/qiskit-community/ibm-quantum-fall-challenge-22/raw/main/code%20of%20conduct-for-participants.md&#34;&gt;Event Code of Conduct&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://github.com/qiskit-community/ibm-quantum-challenge-fall-22/raw/main/preliminary_content.md&#34;&gt;Preparatory Study Resources&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://github.com/qiskit-community/ibm-quantum-challenge-fall-22/wiki&#34;&gt;FAQ / Wiki&lt;/a&gt;&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>nicknochnack/RealTimeObjectDetection</title>
+    <updated>2022-11-13T01:38:21Z</updated>
+    <id>tag:github.com,2022-11-13:/nicknochnack/RealTimeObjectDetection</id>
+    <link href="https://github.com/nicknochnack/RealTimeObjectDetection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

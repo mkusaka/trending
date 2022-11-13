@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ada Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:32:36Z</updated>
+  <updated>2022-11-13T01:34:13Z</updated>
   <subtitle>Daily Trending of Ada in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AdaCore/spark2014</title>
-    <updated>2022-11-12T01:32:36Z</updated>
-    <id>tag:github.com,2022-11-12:/AdaCore/spark2014</id>
-    <link href="https://github.com/AdaCore/spark2014" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SPARK 2014 is the new version of SPARK, a software development technology specifically designed for engineering high-reliability applications.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

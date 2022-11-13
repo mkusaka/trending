@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:45:05Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bonfire-networks/bonfire-app</title>
+    <updated>2022-11-13T01:45:05Z</updated>
+    <id>tag:github.com,2022-11-13:/bonfire-networks/bonfire-app</id>
+    <link href="https://github.com/bonfire-networks/bonfire-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hexpm/hexpm</title>
+    <updated>2022-11-13T01:45:05Z</updated>
+    <id>tag:github.com,2022-11-13:/hexpm/hexpm</id>
+    <link href="https://github.com/hexpm/hexpm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;API server and website for Hex&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>commanded/eventstore</title>
+    <updated>2022-11-13T01:45:05Z</updated>
+    <id>tag:github.com,2022-11-13:/commanded/eventstore</id>
+    <link href="https://github.com/commanded/eventstore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Event store using PostgreSQL for persistence&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

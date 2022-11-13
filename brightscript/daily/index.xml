@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Brightscript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:32:57Z</updated>
+  <updated>2022-11-13T01:34:36Z</updated>
   <subtitle>Daily Trending of Brightscript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jellyfin/jellyfin-roku</title>
-    <updated>2022-11-12T01:32:57Z</updated>
-    <id>tag:github.com,2022-11-12:/jellyfin/jellyfin-roku</id>
-    <link href="https://github.com/jellyfin/jellyfin-roku" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Roku Client for Jellyfin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

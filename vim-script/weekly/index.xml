@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:52:05Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bluz71/vim-nightfly-colors</title>
+    <updated>2022-11-13T01:52:05Z</updated>
+    <id>tag:github.com,2022-11-13:/bluz71/vim-nightfly-colors</id>
+    <link href="https://github.com/bluz71/vim-nightfly-colors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dark midnight theme for classic Vim &amp; modern Neovim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ekalinin/Dockerfile.vim</title>
+    <updated>2022-11-13T01:52:05Z</updated>
+    <id>tag:github.com,2022-11-13:/ekalinin/Dockerfile.vim</id>
+    <link href="https://github.com/ekalinin/Dockerfile.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim syntax file &amp; snippets for Docker&#39;s Dockerfile&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbbill/undotree</title>
+    <updated>2022-11-13T01:52:05Z</updated>
+    <id>tag:github.com,2022-11-13:/mbbill/undotree</id>
+    <link href="https://github.com/mbbill/undotree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The undo history visualizer for VIM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

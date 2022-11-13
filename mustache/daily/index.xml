@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:38:14Z</updated>
+  <updated>2022-11-13T01:39:05Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mend/renovate-on-prem</title>
+    <updated>2022-11-13T01:39:05Z</updated>
+    <id>tag:github.com,2022-11-13:/mend/renovate-on-prem</id>
+    <link href="https://github.com/mend/renovate-on-prem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WhiteSource Renovate On-Premises Documentation &amp; Examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hypothesis/client</title>
+    <updated>2022-11-13T01:39:05Z</updated>
+    <id>tag:github.com,2022-11-13:/hypothesis/client</id>
+    <link href="https://github.com/hypothesis/client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Hypothesis web-based annotation client.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

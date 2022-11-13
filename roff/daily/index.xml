@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:40:25Z</updated>
+  <updated>2022-11-13T01:40:41Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cytopia/docker-mypy</title>
-    <updated>2022-11-12T01:40:25Z</updated>
-    <id>tag:github.com,2022-11-12:/cytopia/docker-mypy</id>
-    <link href="https://github.com/cytopia/docker-mypy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alpine-based multistage-build version of Python mypy for reproducible usage in CI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

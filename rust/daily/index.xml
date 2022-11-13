@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:40:30Z</updated>
+  <updated>2022-11-13T01:40:44Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DiamondHunters/NodeInject</title>
-    <updated>2022-11-12T01:40:30Z</updated>
-    <id>tag:github.com,2022-11-12:/DiamondHunters/NodeInject</id>
-    <link href="https://github.com/DiamondHunters/NodeInject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a inject tools for injecting js code into typora (with an activation script example)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flamegraph-rs/flamegraph</title>
+    <updated>2022-11-13T01:40:44Z</updated>
+    <id>tag:github.com,2022-11-13:/flamegraph-rs/flamegraph</id>
+    <link href="https://github.com/flamegraph-rs/flamegraph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easy flamegraphs for Rust projects and everything else, without Perl or pipes &lt;3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

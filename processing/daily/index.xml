@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:39:35Z</updated>
+  <updated>2022-11-13T01:40:05Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>APCSLowell/Thingies</title>
-    <updated>2022-11-12T01:39:35Z</updated>
-    <id>tag:github.com,2022-11-12:/APCSLowell/Thingies</id>
-    <link href="https://github.com/APCSLowell/Thingies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>APCSLowell/Doodads</title>
-    <updated>2022-11-12T01:39:35Z</updated>
-    <id>tag:github.com,2022-11-12:/APCSLowell/Doodads</id>
-    <link href="https://github.com/APCSLowell/Doodads" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>n1ckfg/SeamcarveSeq</title>
+    <updated>2022-11-13T01:40:05Z</updated>
+    <id>tag:github.com,2022-11-13:/n1ckfg/SeamcarveSeq</id>
+    <link href="https://github.com/n1ckfg/SeamcarveSeq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Batch-able version of Greg Borenstein&#39;s seam carver. Updated for Processing 2 and cross-platform file handling.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

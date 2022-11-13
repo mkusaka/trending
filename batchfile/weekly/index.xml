@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:43:31Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xz5116/ActivateMicrosoftProduct</title>
+    <updated>2022-11-13T01:43:31Z</updated>
+    <id>tag:github.com,2022-11-13:/xz5116/ActivateMicrosoftProduct</id>
+    <link href="https://github.com/xz5116/ActivateMicrosoftProduct" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;激活大部分微软产品和Windows系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hengdang00/virtual-private-server-free</title>
+    <updated>2022-11-13T01:43:31Z</updated>
+    <id>tag:github.com,2022-11-13:/hengdang00/virtual-private-server-free</id>
+    <link href="https://github.com/hengdang00/virtual-private-server-free" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;free rdp rep&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rootmelo92118/-</title>
+    <updated>2022-11-13T01:43:31Z</updated>
+    <id>tag:github.com,2022-11-13:/rootmelo92118/-</id>
+    <link href="https://github.com/rootmelo92118/-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

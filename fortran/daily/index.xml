@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:35:15Z</updated>
+  <updated>2022-11-13T01:36:48Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mccannjb/kcellmod</title>
-    <updated>2022-11-12T01:35:15Z</updated>
-    <id>tag:github.com,2022-11-12:/mccannjb/kcellmod</id>
-    <link href="https://github.com/mccannjb/kcellmod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fortran utility and accompanying python script to modify a CAMx point-source emissions file to adjust hourly emission rates and kcell values.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ExoMol/MORBint</title>
-    <updated>2022-11-12T01:35:15Z</updated>
-    <id>tag:github.com,2022-11-12:/ExoMol/MORBint</id>
-    <link href="https://github.com/ExoMol/MORBint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Computing rovibrational spectra of triatomic molecule in an isolated electronic state&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ExoMol/RENNER</title>
-    <updated>2022-11-12T01:35:15Z</updated>
-    <id>tag:github.com,2022-11-12:/ExoMol/RENNER</id>
-    <link href="https://github.com/ExoMol/RENNER" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rovibronic solver to a triatomic molecule for a system of two electronic states coupled with a Renner-Taylor interaction&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clawpack/pyclaw</title>
+    <updated>2022-11-13T01:36:48Z</updated>
+    <id>tag:github.com,2022-11-13:/clawpack/pyclaw</id>
+    <link href="https://github.com/clawpack/pyclaw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PyClaw is a Python-based interface to the algorithms of Clawpack and SharpClaw. It also contains the PetClaw package, which adds parallelism through PETSc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

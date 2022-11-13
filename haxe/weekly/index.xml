@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haxe Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:45:55Z</updated>
+  <subtitle>Weekly Trending of Haxe in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>andrew-git/Lune</title>
+    <updated>2022-11-13T01:45:55Z</updated>
+    <id>tag:github.com,2022-11-13:/andrew-git/Lune</id>
+    <link href="https://github.com/andrew-git/Lune" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lune Game Engine&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lune v0&lt;/h1&gt; &#xA;&lt;p&gt;Lune - haXe/NME Cross-Platform Game Engine&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>geekparty/gp1-exorcist</title>
+    <updated>2022-11-13T01:45:55Z</updated>
+    <id>tag:github.com,2022-11-13:/geekparty/gp1-exorcist</id>
+    <link href="https://github.com/geekparty/gp1-exorcist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GeekParty EXORCIST&lt;/h1&gt; &#xA;&lt;p&gt;Very danger and dramatic game based on real story.&lt;/p&gt; &#xA;&lt;p&gt;-== CREDITS ==-&lt;/p&gt; &#xA;&lt;p&gt;Code: Anton Serebrennikov, varvaray, doctar, ilyichzc Graphics: KirAlex, Ilya Ispolatov Sounds: sk1e, ilyichzc Game design: Ilya Ispolatov&lt;/p&gt;</summary>
+  </entry>
+</feed>

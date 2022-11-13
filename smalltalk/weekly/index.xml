@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:50:57Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>feenkcom/lepiter</title>
+    <updated>2022-11-13T01:50:57Z</updated>
+    <id>tag:github.com,2022-11-13:/feenkcom/lepiter</id>
+    <link href="https://github.com/feenkcom/lepiter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-presenter</title>
+    <updated>2022-11-13T01:50:57Z</updated>
+    <id>tag:github.com,2022-11-13:/feenkcom/gtoolkit-presenter</id>
+    <link href="https://github.com/feenkcom/gtoolkit-presenter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The tool for live slide-based storytelling.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-visualizer</title>
+    <updated>2022-11-13T01:50:57Z</updated>
+    <id>tag:github.com,2022-11-13:/feenkcom/gtoolkit-visualizer</id>
+    <link href="https://github.com/feenkcom/gtoolkit-visualizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of visualization engines.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

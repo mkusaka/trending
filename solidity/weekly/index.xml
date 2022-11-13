@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-13T01:50:59Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>debtdao/Line-of-Credit</title>
+    <updated>2022-11-13T01:50:59Z</updated>
+    <id>tag:github.com,2022-11-13:/debtdao/Line-of-Credit</id>
+    <link href="https://github.com/debtdao/Line-of-Credit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LlamaLend/contracts</title>
+    <updated>2022-11-13T01:50:59Z</updated>
+    <id>tag:github.com,2022-11-13:/LlamaLend/contracts</id>
+    <link href="https://github.com/LlamaLend/contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ProjectOpenSea/operator-filter-registry</title>
+    <updated>2022-11-13T01:50:59Z</updated>
+    <id>tag:github.com,2022-11-13:/ProjectOpenSea/operator-filter-registry</id>
+    <link href="https://github.com/ProjectOpenSea/operator-filter-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

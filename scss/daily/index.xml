@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:41:09Z</updated>
+  <updated>2022-11-13T01:41:06Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>qwd/dev-site</title>
-    <updated>2022-11-12T01:41:09Z</updated>
-    <id>tag:github.com,2022-11-12:/qwd/dev-site</id>
-    <link href="https://github.com/qwd/dev-site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;和风天气开发平台网站的源代码 Source code for dev.qweather.com&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Duffigoogle/shoprite_discount_app</title>
-    <updated>2022-11-12T01:41:09Z</updated>
-    <id>tag:github.com,2022-11-12:/Duffigoogle/shoprite_discount_app</id>
-    <link href="https://github.com/Duffigoogle/shoprite_discount_app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-12T01:32:46Z</updated>
+  <updated>2022-11-13T01:34:21Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>surjithctly/astroship</title>
-    <updated>2022-11-12T01:32:46Z</updated>
-    <id>tag:github.com,2022-11-12:/surjithctly/astroship</id>
-    <link href="https://github.com/surjithctly/astroship" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🛸 Astroship is a starter template for startups, marketing websites &amp; landing pages. Built with Astro, TailwindCSS &amp; Alpine.js&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
