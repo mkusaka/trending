@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:42:38Z</updated>
+  <updated>2022-11-14T01:39:00Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>creativetimofficial/vue-argon-design-system</title>
+    <updated>2022-11-14T01:39:00Z</updated>
+    <id>tag:github.com,2022-11-14:/creativetimofficial/vue-argon-design-system</id>
+    <link href="https://github.com/creativetimofficial/vue-argon-design-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue Argon Design System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bym110/vue-echarts</title>
+    <updated>2022-11-14T01:39:00Z</updated>
+    <id>tag:github.com,2022-11-14:/bym110/vue-echarts</id>
+    <link href="https://github.com/bym110/vue-echarts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vue、 echarts、iview 实现大数据可视化大屏模板&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

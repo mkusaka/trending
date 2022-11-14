@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:38:58Z</updated>
+  <updated>2022-11-14T01:35:25Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>facebookresearch/Geo-metric</title>
+    <updated>2022-11-14T01:35:25Z</updated>
+    <id>tag:github.com,2022-11-14:/facebookresearch/Geo-metric</id>
+    <link href="https://github.com/facebookresearch/Geo-metric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Geo-metric A Perceptual Dataset of Distortions on Faces&#34; by Wolski et al., SIGGRAPH Asia 2022.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jlucasmckay/bmi-500-2022</title>
+    <updated>2022-11-14T01:35:25Z</updated>
+    <id>tag:github.com,2022-11-14:/jlucasmckay/bmi-500-2022</id>
+    <link href="https://github.com/jlucasmckay/bmi-500-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>johannesgerer/jburkardt-m</title>
+    <updated>2022-11-14T01:35:25Z</updated>
+    <id>tag:github.com,2022-11-14:/johannesgerer/jburkardt-m</id>
+    <link href="https://github.com/johannesgerer/jburkardt-m" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An official Git Mirror of John Burkardt&#39;s great collection of MATLAB Software&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

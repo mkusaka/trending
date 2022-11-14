@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:39:09Z</updated>
+  <updated>2022-11-14T01:35:36Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>input-output-hk/cardano-engineering-handbook</title>
-    <updated>2022-11-13T01:39:09Z</updated>
-    <id>tag:github.com,2022-11-13:/input-output-hk/cardano-engineering-handbook</id>
-    <link href="https://github.com/input-output-hk/cardano-engineering-handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A handbook covering cross-project policies and information for projects in the Cardano Open Source Consortium&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>canva-public/js2nix</title>
-    <updated>2022-11-13T01:39:09Z</updated>
-    <id>tag:github.com,2022-11-13:/canva-public/js2nix</id>
-    <link href="https://github.com/canva-public/js2nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Node.js modules installation using Nix&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DeterminateSystems/update-flake-lock</title>
-    <updated>2022-11-13T01:39:09Z</updated>
-    <id>tag:github.com,2022-11-13:/DeterminateSystems/update-flake-lock</id>
-    <link href="https://github.com/DeterminateSystems/update-flake-lock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automatically refresh your Nix Flakes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cachix/devenv</title>
+    <updated>2022-11-14T01:35:36Z</updated>
+    <id>tag:github.com,2022-11-14:/cachix/devenv</id>
+    <link href="https://github.com/cachix/devenv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast, Declarative, Reproducible, and Composable Developer Environments&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

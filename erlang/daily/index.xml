@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:36:43Z</updated>
+  <updated>2022-11-14T01:32:52Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>oujinliang/erlang_utils</title>
-    <updated>2022-11-13T01:36:43Z</updated>
-    <id>tag:github.com,2022-11-13:/oujinliang/erlang_utils</id>
-    <link href="https://github.com/oujinliang/erlang_utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some utilities code for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

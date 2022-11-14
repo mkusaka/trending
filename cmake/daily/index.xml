@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:35:28Z</updated>
+  <updated>2022-11-14T01:31:38Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KhronosGroup/OpenCL-Guide</title>
-    <updated>2022-11-13T01:35:28Z</updated>
-    <id>tag:github.com,2022-11-13:/KhronosGroup/OpenCL-Guide</id>
-    <link href="https://github.com/KhronosGroup/OpenCL-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A guide to help developers get up and running quickly with the OpenCL programming framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>UF-IRI/TP_Final</title>
-    <updated>2022-11-13T01:35:28Z</updated>
-    <id>tag:github.com,2022-11-13:/UF-IRI/TP_Final</id>
-    <link href="https://github.com/UF-IRI/TP_Final" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TP Final - IRI 2022 - Grupo &lt;Nro&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ARM-software/LLVM-embedded-toolchain-for-Arm</title>
-    <updated>2022-11-13T01:35:28Z</updated>
-    <id>tag:github.com,2022-11-13:/ARM-software/LLVM-embedded-toolchain-for-Arm</id>
-    <link href="https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TUK-EIS/VDSProject</title>
+    <updated>2022-11-14T01:31:38Z</updated>
+    <id>tag:github.com,2022-11-14:/TUK-EIS/VDSProject</id>
+    <link href="https://github.com/TUK-EIS/VDSProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains the basic files for the class project of the course &#34;Verification of Digital Systems&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

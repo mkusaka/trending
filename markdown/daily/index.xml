@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:38:57Z</updated>
+  <updated>2022-11-14T01:35:24Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>raspibolt/raspibolt</title>
-    <updated>2022-11-13T01:38:57Z</updated>
-    <id>tag:github.com,2022-11-13:/raspibolt/raspibolt</id>
-    <link href="https://github.com/raspibolt/raspibolt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RaspiBolt v3: Bitcoin &amp; Lightning full node on a Raspberry Pi&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Bryan-Herrera-DEV/status-for-my-web-pages</title>
-    <updated>2022-11-13T01:38:57Z</updated>
-    <id>tag:github.com,2022-11-13:/Bryan-Herrera-DEV/status-for-my-web-pages</id>
-    <link href="https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stethoscope-js/status</title>
+    <updated>2022-11-14T01:35:24Z</updated>
+    <id>tag:github.com,2022-11-14:/stethoscope-js/status</id>
+    <link href="https://github.com/stethoscope-js/status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Stethoscope websites&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

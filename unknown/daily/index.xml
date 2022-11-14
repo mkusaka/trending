@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:33:52Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-11-14T01:30:33Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>github/mona-sans</title>
-    <updated>2022-11-13T01:33:52Z</updated>
-    <id>tag:github.com,2022-11-13:/github/mona-sans</id>
-    <link href="https://github.com/github/mona-sans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mona Sans, a variable font from GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/hubot-sans</title>
+    <updated>2022-11-14T01:30:33Z</updated>
+    <id>tag:github.com,2022-11-14:/github/hubot-sans</id>
+    <link href="https://github.com/github/hubot-sans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hubot Sans, a variable font from GitHub&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sulab999/AppMessenger</title>
-    <updated>2022-11-13T01:33:52Z</updated>
-    <id>tag:github.com,2022-11-13:/sulab999/AppMessenger</id>
-    <link href="https://github.com/sulab999/AppMessenger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款适用于以APP病毒分析、APP漏洞挖掘、APP开发、HW行动/红队/渗透测试团队为场景的移动端(Android、iOS)辅助分析工具&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dariubs/GoBooks</title>
+    <updated>2022-11-14T01:30:33Z</updated>
+    <id>tag:github.com,2022-11-14:/dariubs/GoBooks</id>
+    <link href="https://github.com/dariubs/GoBooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Golang books&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>4ndersonLin/awesome-cloud-security</title>
-    <updated>2022-11-13T01:33:52Z</updated>
-    <id>tag:github.com,2022-11-13:/4ndersonLin/awesome-cloud-security</id>
-    <link href="https://github.com/4ndersonLin/awesome-cloud-security" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🛡️ Awesome Cloud Security Resources ⚔️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>octocat/Hello-World</title>
+    <updated>2022-11-14T01:30:33Z</updated>
+    <id>tag:github.com,2022-11-14:/octocat/Hello-World</id>
+    <link href="https://github.com/octocat/Hello-World" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My first repository on GitHub!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

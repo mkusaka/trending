@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:38:19Z</updated>
+  <updated>2022-11-14T01:34:41Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>daviddelaat/SemidefiniteProgramming.jl</title>
-    <updated>2022-11-13T01:38:19Z</updated>
-    <id>tag:github.com,2022-11-13:/daviddelaat/SemidefiniteProgramming.jl</id>
-    <link href="https://github.com/daviddelaat/SemidefiniteProgramming.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interface to semidefinite programming libraries.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MasonProtter/Bumper.jl</title>
+    <updated>2022-11-14T01:34:41Z</updated>
+    <id>tag:github.com,2022-11-14:/MasonProtter/Bumper.jl</id>
+    <link href="https://github.com/MasonProtter/Bumper.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bring Your Own Stack&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaGaussianProcesses/TemporalGPs.jl</title>
-    <updated>2022-11-13T01:38:19Z</updated>
-    <id>tag:github.com,2022-11-13:/JuliaGaussianProcesses/TemporalGPs.jl</id>
-    <link href="https://github.com/JuliaGaussianProcesses/TemporalGPs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast inference for Gaussian processes in problems involving time&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>c42f/SQLREPL.jl</title>
+    <updated>2022-11-14T01:34:41Z</updated>
+    <id>tag:github.com,2022-11-14:/c42f/SQLREPL.jl</id>
+    <link href="https://github.com/c42f/SQLREPL.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia REPL mode for SQL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>julia-vscode/LanguageServer.jl</title>
-    <updated>2022-11-13T01:38:19Z</updated>
-    <id>tag:github.com,2022-11-13:/julia-vscode/LanguageServer.jl</id>
-    <link href="https://github.com/julia-vscode/LanguageServer.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An implementation of the Microsoft Language Server Protocol for the Julia language.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaIO/JLD2.jl</title>
+    <updated>2022-11-14T01:34:41Z</updated>
+    <id>tag:github.com,2022-11-14:/JuliaIO/JLD2.jl</id>
+    <link href="https://github.com/JuliaIO/JLD2.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HDF5-compatible file format in pure Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

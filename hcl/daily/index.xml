@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:37:21Z</updated>
+  <updated>2022-11-14T01:33:34Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gruntwork-io/terraform-kubernetes-helm</title>
-    <updated>2022-11-13T01:37:21Z</updated>
-    <id>tag:github.com,2022-11-13:/gruntwork-io/terraform-kubernetes-helm</id>
-    <link href="https://github.com/gruntwork-io/terraform-kubernetes-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform code and scripts for deploying Helm Server (Helm v2) on a Kubernetes cluster. https://www.gruntwork.io&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/learn-terraform-run-triggers-network</title>
+    <updated>2022-11-14T01:33:34Z</updated>
+    <id>tag:github.com,2022-11-14:/hashicorp/learn-terraform-run-triggers-network</id>
+    <link href="https://github.com/hashicorp/learn-terraform-run-triggers-network" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-aws-elastic-beanstalk-application</title>
-    <updated>2022-11-13T01:37:21Z</updated>
-    <id>tag:github.com,2022-11-13:/cloudposse/terraform-aws-elastic-beanstalk-application</id>
-    <link href="https://github.com/cloudposse/terraform-aws-elastic-beanstalk-application" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Module to define an ElasticBeanstalk Application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oracle-terraform-modules/terraform-oci-vcn</title>
+    <updated>2022-11-14T01:33:34Z</updated>
+    <id>tag:github.com,2022-11-14:/oracle-terraform-modules/terraform-oci-vcn</id>
+    <link href="https://github.com/oracle-terraform-modules/terraform-oci-vcn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reusable and extensible Terraform module that provisions a VCN on Oracle Cloud Infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-cloudtrail-s3-bucket</title>
+    <updated>2022-11-14T01:33:34Z</updated>
+    <id>tag:github.com,2022-11-14:/cloudposse/terraform-aws-cloudtrail-s3-bucket</id>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;S3 bucket with built in IAM policy to allow CloudTrail logs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

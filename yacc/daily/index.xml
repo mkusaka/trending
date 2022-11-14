@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Yacc Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:42:44Z</updated>
+  <updated>2022-11-14T01:39:06Z</updated>
   <subtitle>Daily Trending of Yacc in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Gizmo199/msdf_previewer</title>
-    <updated>2022-11-13T01:42:44Z</updated>
-    <id>tag:github.com,2022-11-13:/Gizmo199/msdf_previewer</id>
-    <link href="https://github.com/Gizmo199/msdf_previewer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An MSDF font previewer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

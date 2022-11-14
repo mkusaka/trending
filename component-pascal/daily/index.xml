@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Component Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:35:30Z</updated>
+  <updated>2022-11-14T01:31:40Z</updated>
   <subtitle>Daily Trending of Component Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zweig1971/MilXbase_Portierung</title>
-    <updated>2022-11-13T01:35:30Z</updated>
-    <id>tag:github.com,2022-11-13:/zweig1971/MilXbase_Portierung</id>
-    <link href="https://github.com/zweig1971/MilXbase_Portierung" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

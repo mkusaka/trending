@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:34:19Z</updated>
+  <updated>2022-11-14T01:30:49Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wilsomwong/Asus-TUF-FX504GE-Hackintosh</title>
-    <updated>2022-11-13T01:34:19Z</updated>
-    <id>tag:github.com,2022-11-13:/wilsomwong/Asus-TUF-FX504GE-Hackintosh</id>
-    <link href="https://github.com/wilsomwong/Asus-TUF-FX504GE-Hackintosh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nothing but intresting.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

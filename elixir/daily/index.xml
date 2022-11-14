@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:36:28Z</updated>
+  <updated>2022-11-14T01:32:35Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fuelen/ecto_dev_logger</title>
-    <updated>2022-11-13T01:36:28Z</updated>
-    <id>tag:github.com,2022-11-13:/fuelen/ecto_dev_logger</id>
-    <link href="https://github.com/fuelen/ecto_dev_logger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An alternative logger for Ecto queries&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>beam-community/stripe-elixir</title>
-    <updated>2022-11-13T01:36:28Z</updated>
-    <id>tag:github.com,2022-11-13:/beam-community/stripe-elixir</id>
-    <link href="https://github.com/beam-community/stripe-elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir Library for Stripe&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>semaphoreci-demos/semaphore-demo-monorepo</title>
-    <updated>2022-11-13T01:36:28Z</updated>
-    <id>tag:github.com,2022-11-13:/semaphoreci-demos/semaphore-demo-monorepo</id>
-    <link href="https://github.com/semaphoreci-demos/semaphore-demo-monorepo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

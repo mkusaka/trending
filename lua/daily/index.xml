@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-13T01:38:47Z</updated>
+  <updated>2022-11-14T01:35:10Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheHunterManX/GBA-PK-multiplayer</title>
-    <updated>2022-11-13T01:38:47Z</updated>
-    <id>tag:github.com,2022-11-13:/TheHunterManX/GBA-PK-multiplayer</id>
-    <link href="https://github.com/TheHunterManX/GBA-PK-multiplayer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GBA-PK-multiplayer&lt;/h1&gt; &#xA;&lt;p&gt;This is a free mod that will in the future support 4 players and allow interactions between all of the 3rd generation pokemon games. Alpha 1 currently allows 2 players to see each other in the game of Firered or Leafgreen. Updates and more information can be found on youtube, patreon or pokecommunity.&lt;/p&gt; &#xA;&lt;p&gt;Patreon: &lt;a href=&#34;https://www.patreon.com/user?u=81688818&#34;&gt;https://www.patreon.com/user?u=81688818&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Youtube: &lt;a href=&#34;https://www.youtube.com/channel/UCdXg0-BF9FblZ2GTi3u4orQ&#34;&gt;https://www.youtube.com/channel/UCdXg0-BF9FblZ2GTi3u4orQ&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Pokecommunity: Soon&lt;/p&gt;</summary>
-  </entry>
 </feed>
