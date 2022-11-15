@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:34:41Z</updated>
+  <updated>2022-11-15T01:35:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MasonProtter/Bumper.jl</title>
-    <updated>2022-11-14T01:34:41Z</updated>
-    <id>tag:github.com,2022-11-14:/MasonProtter/Bumper.jl</id>
-    <link href="https://github.com/MasonProtter/Bumper.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bring Your Own Stack&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>c42f/SQLREPL.jl</title>
-    <updated>2022-11-14T01:34:41Z</updated>
-    <id>tag:github.com,2022-11-14:/c42f/SQLREPL.jl</id>
-    <link href="https://github.com/c42f/SQLREPL.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia REPL mode for SQL&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaIO/JLD2.jl</title>
-    <updated>2022-11-14T01:34:41Z</updated>
-    <id>tag:github.com,2022-11-14:/JuliaIO/JLD2.jl</id>
-    <link href="https://github.com/JuliaIO/JLD2.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HDF5-compatible file format in pure Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ITensor/ITensors.jl</title>
+    <updated>2022-11-15T01:35:08Z</updated>
+    <id>tag:github.com,2022-11-15:/ITensor/ITensors.jl</id>
+    <link href="https://github.com/ITensor/ITensors.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia library for efficient tensor computations and tensor network calculations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

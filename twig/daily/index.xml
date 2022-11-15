@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:38:30Z</updated>
+  <updated>2022-11-15T01:39:00Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>forumone/gesso-uswds</title>
-    <updated>2022-11-14T01:38:30Z</updated>
-    <id>tag:github.com,2022-11-14:/forumone/gesso-uswds</id>
-    <link href="https://github.com/forumone/gesso-uswds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gesso Drupal theme which pulls in USWDS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

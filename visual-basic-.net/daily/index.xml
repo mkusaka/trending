@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:38:58Z</updated>
+  <updated>2022-11-15T01:39:25Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OfficialMoonlit/GPS-XOR</title>
+    <updated>2022-11-15T01:39:25Z</updated>
+    <id>tag:github.com,2022-11-15:/OfficialMoonlit/GPS-XOR</id>
+    <link href="https://github.com/OfficialMoonlit/GPS-XOR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple NMEA sentence checksum generator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Destiny1984/XCI-Cutter</title>
+    <updated>2022-11-15T01:39:25Z</updated>
+    <id>tag:github.com,2022-11-15:/Destiny1984/XCI-Cutter</id>
+    <link href="https://github.com/Destiny1984/XCI-Cutter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool to remove unused space from XCI-Dumps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

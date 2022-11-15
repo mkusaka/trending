@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:38:04Z</updated>
+  <updated>2022-11-15T01:38:29Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>0xRajkumar/DefiVuln</title>
+    <updated>2022-11-15T01:38:29Z</updated>
+    <id>tag:github.com,2022-11-15:/0xRajkumar/DefiVuln</id>
+    <link href="https://github.com/0xRajkumar/DefiVuln" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adding Defi Vulnerabilities.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Vectorized/closedsea</title>
+    <updated>2022-11-15T01:38:29Z</updated>
+    <id>tag:github.com,2022-11-15:/Vectorized/closedsea</id>
+    <link href="https://github.com/Vectorized/closedsea" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Optimized and flexible version of OpenSea&#39;s operator filterer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-11-stakehouse</title>
+    <updated>2022-11-15T01:38:29Z</updated>
+    <id>tag:github.com,2022-11-15:/code-423n4/2022-11-stakehouse</id>
+    <link href="https://github.com/code-423n4/2022-11-stakehouse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

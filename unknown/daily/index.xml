@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:30:33Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-11-15T01:30:24Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>github/hubot-sans</title>
-    <updated>2022-11-14T01:30:33Z</updated>
-    <id>tag:github.com,2022-11-14:/github/hubot-sans</id>
-    <link href="https://github.com/github/hubot-sans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hubot Sans, a variable font from GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dotnet/dotnet</title>
+    <updated>2022-11-15T01:30:24Z</updated>
+    <id>tag:github.com,2022-11-15:/dotnet/dotnet</id>
+    <link href="https://github.com/dotnet/dotnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Home of .NET&#39;s Virtual Monolithic Repository. Includes all the code needed to build the .NET SDK from source.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dariubs/GoBooks</title>
-    <updated>2022-11-14T01:30:33Z</updated>
-    <id>tag:github.com,2022-11-14:/dariubs/GoBooks</id>
-    <link href="https://github.com/dariubs/GoBooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of Golang books&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sehno/Bug-bounty</title>
+    <updated>2022-11-15T01:30:24Z</updated>
+    <id>tag:github.com,2022-11-15:/sehno/Bug-bounty</id>
+    <link href="https://github.com/sehno/Bug-bounty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ressources for bug bounty hunting&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>octocat/Hello-World</title>
-    <updated>2022-11-14T01:30:33Z</updated>
-    <id>tag:github.com,2022-11-14:/octocat/Hello-World</id>
-    <link href="https://github.com/octocat/Hello-World" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My first repository on GitHub!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Fechin/reference</title>
+    <updated>2022-11-15T01:30:24Z</updated>
+    <id>tag:github.com,2022-11-15:/Fechin/reference</id>
+    <link href="https://github.com/Fechin/reference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Share quick reference cheat sheet for developers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

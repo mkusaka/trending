@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:35:36Z</updated>
+  <updated>2022-11-15T01:36:07Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cachix/devenv</title>
-    <updated>2022-11-14T01:35:36Z</updated>
-    <id>tag:github.com,2022-11-14:/cachix/devenv</id>
-    <link href="https://github.com/cachix/devenv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast, Declarative, Reproducible, and Composable Developer Environments&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>input-output-hk/dapps-certification</title>
+    <updated>2022-11-15T01:36:07Z</updated>
+    <id>tag:github.com,2022-11-15:/input-output-hk/dapps-certification</id>
+    <link href="https://github.com/input-output-hk/dapps-certification" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Certification as a service for the Cardano dApps platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>etu/nixconfig</title>
+    <updated>2022-11-15T01:36:07Z</updated>
+    <id>tag:github.com,2022-11-15:/etu/nixconfig</id>
+    <link href="https://github.com/etu/nixconfig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My NixOS config&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

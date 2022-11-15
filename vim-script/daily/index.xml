@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:38:57Z</updated>
+  <updated>2022-11-15T01:39:24Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leafgarland/typescript-vim</title>
-    <updated>2022-11-14T01:38:57Z</updated>
-    <id>tag:github.com,2022-11-14:/leafgarland/typescript-vim</id>
-    <link href="https://github.com/leafgarland/typescript-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Typescript syntax files for Vim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>editor-bootstrap/vim-bootstrap-updater</title>
-    <updated>2022-11-14T01:38:57Z</updated>
-    <id>tag:github.com,2022-11-14:/editor-bootstrap/vim-bootstrap-updater</id>
-    <link href="https://github.com/editor-bootstrap/vim-bootstrap-updater" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim-bootstrap plugin to upgrade&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-ruby/vim-ruby</title>
+    <updated>2022-11-15T01:39:24Z</updated>
+    <id>tag:github.com,2022-11-15:/vim-ruby/vim-ruby</id>
+    <link href="https://github.com/vim-ruby/vim-ruby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim/Ruby Configuration Files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

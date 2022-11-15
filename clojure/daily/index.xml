@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:31:36Z</updated>
+  <updated>2022-11-15T01:31:31Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gstamp/classifier</title>
-    <updated>2022-11-14T01:31:36Z</updated>
-    <id>tag:github.com,2022-11-14:/gstamp/classifier</id>
-    <link href="https://github.com/gstamp/classifier" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple classifier I wrote for AI-Class&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>amperity/ken</title>
-    <updated>2022-11-14T01:31:36Z</updated>
-    <id>tag:github.com,2022-11-14:/amperity/ken</id>
-    <link href="https://github.com/amperity/ken" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Observability library to instrument Clojure code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yogthos/mastodon-bot</title>
-    <updated>2022-11-14T01:31:36Z</updated>
-    <id>tag:github.com,2022-11-14:/yogthos/mastodon-bot</id>
-    <link href="https://github.com/yogthos/mastodon-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a bot for mirroring Twitter/Tumblr accounts and RSS feeds on Mastodon&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fluree/db</title>
+    <updated>2022-11-15T01:31:31Z</updated>
+    <id>tag:github.com,2022-11-15:/fluree/db</id>
+    <link href="https://github.com/fluree/db" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fluree database / query server source&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

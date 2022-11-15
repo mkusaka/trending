@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:35:22Z</updated>
+  <updated>2022-11-15T01:35:52Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MeteoSwiss-APN/mch-python-blueprint</title>
-    <updated>2022-11-14T01:35:22Z</updated>
-    <id>tag:github.com,2022-11-14:/MeteoSwiss-APN/mch-python-blueprint</id>
-    <link href="https://github.com/MeteoSwiss-APN/mch-python-blueprint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cookiecutter template for a Python package.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tetratelabs/istio-api</title>
-    <updated>2022-11-14T01:35:22Z</updated>
-    <id>tag:github.com,2022-11-14:/tetratelabs/istio-api</id>
-    <link href="https://github.com/tetratelabs/istio-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>localstack/localstack-pro-samples</title>
-    <updated>2022-11-14T01:35:22Z</updated>
-    <id>tag:github.com,2022-11-14:/localstack/localstack-pro-samples</id>
-    <link href="https://github.com/localstack/localstack-pro-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample projects to demonstrate advanced LocalStack features&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

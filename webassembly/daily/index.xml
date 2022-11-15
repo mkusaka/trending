@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:39:01Z</updated>
+  <updated>2022-11-15T01:39:29Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WebAssembly/root-scanning</title>
-    <updated>2022-11-14T01:39:01Z</updated>
-    <id>tag:github.com,2022-11-14:/WebAssembly/root-scanning</id>
-    <link href="https://github.com/WebAssembly/root-scanning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spec proposal for scanning/marking of linear memory GC roots&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

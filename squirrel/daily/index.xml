@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:38:05Z</updated>
+  <updated>2022-11-15T01:38:31Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>crazyslavmodder/CSGO-MW2019-Weapons</title>
-    <updated>2022-11-14T01:38:05Z</updated>
-    <id>tag:github.com,2022-11-14:/crazyslavmodder/CSGO-MW2019-Weapons</id>
-    <link href="https://github.com/crazyslavmodder/CSGO-MW2019-Weapons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A full-fledged weapons pack from Call of Duty: Modern Warfare 2019 ported to Counter-Strike: Global Offensive. All weapons are presented in their base configurations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

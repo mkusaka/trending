@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-14T01:30:52Z</updated>
+  <updated>2022-11-15T01:30:47Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LubosKuzma/ITSC204FinalProject</title>
+    <updated>2022-11-15T01:30:47Z</updated>
+    <id>tag:github.com,2022-11-15:/LubosKuzma/ITSC204FinalProject</id>
+    <link href="https://github.com/LubosKuzma/ITSC204FinalProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nanochess/book-Atari</title>
+    <updated>2022-11-15T01:30:47Z</updated>
+    <id>tag:github.com,2022-11-15:/nanochess/book-Atari</id>
+    <link href="https://github.com/nanochess/book-Atari" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Examples from my book Programming Games for Atari 2600&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
