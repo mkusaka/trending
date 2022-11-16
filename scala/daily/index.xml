@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:37:55Z</updated>
+  <updated>2022-11-16T01:38:37Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>scalapb/zio-grpc</title>
-    <updated>2022-11-15T01:37:55Z</updated>
-    <id>tag:github.com,2022-11-15:/scalapb/zio-grpc</id>
-    <link href="https://github.com/scalapb/zio-grpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ScalaPB meets ZIO: write purely functional gRPC services and clients using ZIO&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/scalapb/zio-grpc/master/website/static/img/zio-grpc-hero.png&#34; alt=&#34;ZIO gRPC Logo&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://oss.sonatype.org/content/repositories/snapshots/com/thesamet/scalapb/zio-grpc/zio-grpc-core_2.13/&#34; title=&#34;Sonatype Snapshots&#34;&gt;&lt;img src=&#34;https://img.shields.io/nexus/s/https/oss.sonatype.org/com.thesamet.scalapb.zio-grpc/zio-grpc-core_2.13.svg?sanitize=true&#34; alt=&#34;Snapshot Artifacts&#34; title=&#34;Sonatype Snapshots&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Welcome to ZIO-gRPC&lt;/h1&gt; &#xA;&lt;p&gt;This library enables you to write purely functional &lt;a href=&#34;https://grpc.io/&#34;&gt;gRPC&lt;/a&gt; services using &lt;a href=&#34;https://zio.dev&#34;&gt;ZIO&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://scalapb.github.io/zio-grpc&#34;&gt;ZIO gRPC homepage&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Highlights&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Supports all types of RPCs (unary, client streaming, server streaming, bidirectional).&lt;/li&gt; &#xA; &lt;li&gt;Uses ZIO&#39;s &lt;code&gt;Stream&lt;/code&gt; to let you easily implement streaming requests.&lt;/li&gt; &#xA; &lt;li&gt;Cancellable RPCs: client-side ZIO interruptions are propagated to the server to abort the request and save resources.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

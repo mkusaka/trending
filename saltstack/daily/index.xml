@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SaltStack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:37:52Z</updated>
+  <updated>2022-11-16T01:38:34Z</updated>
   <subtitle>Daily Trending of SaltStack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>scality/metalk8s</title>
+    <updated>2022-11-16T01:38:34Z</updated>
+    <id>tag:github.com,2022-11-16:/scality/metalk8s</id>
+    <link href="https://github.com/scality/metalk8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated Kubernetes distribution with a focus on long-term on-prem deployments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

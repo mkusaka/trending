@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:30:51Z</updated>
+  <updated>2022-11-16T01:31:36Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>S-Rushidhar-1-1999/ngrok-rdp</title>
+    <updated>2022-11-16T01:31:36Z</updated>
+    <id>tag:github.com,2022-11-16:/S-Rushidhar-1-1999/ngrok-rdp</id>
+    <link href="https://github.com/S-Rushidhar-1-1999/ngrok-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>QuocAnVN1310/NgrokRDP2022</title>
+    <updated>2022-11-16T01:31:36Z</updated>
+    <id>tag:github.com,2022-11-16:/QuocAnVN1310/NgrokRDP2022</id>
+    <link href="https://github.com/QuocAnVN1310/NgrokRDP2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ITSN0B1T4/rdp</title>
+    <updated>2022-11-16T01:31:36Z</updated>
+    <id>tag:github.com,2022-11-16:/ITSN0B1T4/rdp</id>
+    <link href="https://github.com/ITSN0B1T4/rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;1 hour rdp make use ngrok and github.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:36:07Z</updated>
+  <updated>2022-11-16T01:36:22Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>input-output-hk/dapps-certification</title>
-    <updated>2022-11-15T01:36:07Z</updated>
-    <id>tag:github.com,2022-11-15:/input-output-hk/dapps-certification</id>
-    <link href="https://github.com/input-output-hk/dapps-certification" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Certification as a service for the Cardano dApps platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>etu/nixconfig</title>
-    <updated>2022-11-15T01:36:07Z</updated>
-    <id>tag:github.com,2022-11-15:/etu/nixconfig</id>
-    <link href="https://github.com/etu/nixconfig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My NixOS config&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>goodbyekansas/nedryland</title>
+    <updated>2022-11-16T01:36:22Z</updated>
+    <id>tag:github.com,2022-11-16:/goodbyekansas/nedryland</id>
+    <link href="https://github.com/goodbyekansas/nedryland" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nedryland is a collection of utilities and a build system for declaring, building and deploying microservice solutions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

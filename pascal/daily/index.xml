@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:36:25Z</updated>
+  <updated>2022-11-16T01:36:45Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MHumm/delphi-code-coverage-wizard-plus</title>
-    <updated>2022-11-15T01:36:25Z</updated>
-    <id>tag:github.com,2022-11-15:/MHumm/delphi-code-coverage-wizard-plus</id>
-    <link href="https://github.com/MHumm/delphi-code-coverage-wizard-plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wizard for generating and running Delphi code coverage reports&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

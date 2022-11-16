@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:35:08Z</updated>
+  <updated>2022-11-16T01:35:23Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ITensor/ITensors.jl</title>
-    <updated>2022-11-15T01:35:08Z</updated>
-    <id>tag:github.com,2022-11-15:/ITensor/ITensors.jl</id>
-    <link href="https://github.com/ITensor/ITensors.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia library for efficient tensor computations and tensor network calculations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

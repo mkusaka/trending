@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:39:20Z</updated>
+  <updated>2022-11-16T01:40:24Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>songshangru/BIT-CS-Learning</title>
+    <updated>2022-11-16T01:40:24Z</updated>
+    <id>tag:github.com,2022-11-16:/songshangru/BIT-CS-Learning</id>
+    <link href="https://github.com/songshangru/BIT-CS-Learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;保存一下我自己整理的北理工计科的学习资料，欢迎分享资源&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kobe972/ustc_course_plus</title>
+    <updated>2022-11-16T01:40:24Z</updated>
+    <id>tag:github.com,2022-11-16:/Kobe972/ustc_course_plus</id>
+    <link href="https://github.com/Kobe972/ustc_course_plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;可作为ustc课程资源的补充，包括一些秘密的真题和ppt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

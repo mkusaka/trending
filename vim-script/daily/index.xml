@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:39:24Z</updated>
+  <updated>2022-11-16T01:40:27Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vim-ruby/vim-ruby</title>
-    <updated>2022-11-15T01:39:24Z</updated>
-    <id>tag:github.com,2022-11-15:/vim-ruby/vim-ruby</id>
-    <link href="https://github.com/vim-ruby/vim-ruby" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim/Ruby Configuration Files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>juraseg/vim-setup</title>
+    <updated>2022-11-16T01:40:27Z</updated>
+    <id>tag:github.com,2022-11-16:/juraseg/vim-setup</id>
+    <link href="https://github.com/juraseg/vim-setup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shuw/home</title>
+    <updated>2022-11-16T01:40:27Z</updated>
+    <id>tag:github.com,2022-11-16:/shuw/home</id>
+    <link href="https://github.com/shuw/home" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;shared configuration in my home directory&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

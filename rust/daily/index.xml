@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-15T01:37:43Z</updated>
+  <updated>2022-11-16T01:38:18Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Andy-Python-Programmer/aero</title>
+    <updated>2022-11-16T01:38:18Z</updated>
+    <id>tag:github.com,2022-11-16:/Andy-Python-Programmer/aero</id>
+    <link href="https://github.com/Andy-Python-Programmer/aero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aero is a new modern, experimental, unix-like operating system following the monolithic kernel design. Supporting modern PC features such as long mode, 5-level paging, and SMP (multicore), to name a few.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
