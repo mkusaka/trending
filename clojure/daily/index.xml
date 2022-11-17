@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:32:14Z</updated>
+  <updated>2022-11-17T01:32:39Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>obmarg/nona</title>
+    <updated>2022-11-17T01:32:39Z</updated>
+    <id>tag:github.com,2022-11-17:/obmarg/nona</id>
+    <link href="https://github.com/obmarg/nona" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A toy static site generator. Mostly written to play about with Clojure. Currently unfinished&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bob-cd/bob</title>
+    <updated>2022-11-17T01:32:39Z</updated>
+    <id>tag:github.com,2022-11-17:/bob-cd/bob</id>
+    <link href="https://github.com/bob-cd/bob" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is what CI/CD should&#39;ve been.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

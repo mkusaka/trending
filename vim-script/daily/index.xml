@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:40:27Z</updated>
+  <updated>2022-11-17T01:40:29Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>juraseg/vim-setup</title>
-    <updated>2022-11-16T01:40:27Z</updated>
-    <id>tag:github.com,2022-11-16:/juraseg/vim-setup</id>
-    <link href="https://github.com/juraseg/vim-setup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fennellstyle/dotvim</title>
+    <updated>2022-11-17T01:40:29Z</updated>
+    <id>tag:github.com,2022-11-17:/fennellstyle/dotvim</id>
+    <link href="https://github.com/fennellstyle/dotvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my vim settings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shuw/home</title>
-    <updated>2022-11-16T01:40:27Z</updated>
-    <id>tag:github.com,2022-11-16:/shuw/home</id>
-    <link href="https://github.com/shuw/home" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;shared configuration in my home directory&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crazygit/vimconf</title>
+    <updated>2022-11-17T01:40:29Z</updated>
+    <id>tag:github.com,2022-11-17:/crazygit/vimconf</id>
+    <link href="https://github.com/crazygit/vimconf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自己整理的一些vim配置&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vim-scripts/toggle_maximize.vim</title>
+    <updated>2022-11-17T01:40:29Z</updated>
+    <id>tag:github.com,2022-11-17:/vim-scripts/toggle_maximize.vim</id>
+    <link href="https://github.com/vim-scripts/toggle_maximize.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Keybinds to temporarily maximize the current window, squashing the rest.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

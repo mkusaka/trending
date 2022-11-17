@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:39:25Z</updated>
+  <updated>2022-11-17T01:39:43Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>anastasiuspernat/UnderPillow</title>
-    <updated>2022-11-16T01:39:25Z</updated>
-    <id>tag:github.com,2022-11-16:/anastasiuspernat/UnderPillow</id>
-    <link href="https://github.com/anastasiuspernat/UnderPillow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A macOS Finder right-click menu extension that displays diffusion metadata&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/anastasiuspernat/DiffusionInfo/raw/main/UnderPillow/Assets.xcassets/AppIcon.appiconset/icon_256x256.png?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;UnderPillow&lt;/h1&gt; &#xA;&lt;p&gt;A macOS Finder right-click menu extension that displays diffusion metadata (usually created by Python&#39;s Pillow)&lt;/p&gt; &#xA;&lt;h1&gt;Features&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Right-click on a .png (or any other image) displays metadata info in macOS Finder&lt;/li&gt; &#xA; &lt;li&gt;Displays &lt;strong&gt;prompt, CFG scale, resolution&lt;/strong&gt; etc. added by common AI Art generators&lt;/li&gt; &#xA; &lt;li&gt;Supports information from &lt;strong&gt;Webui from AUTOMATIC1111, InvokeUI&lt;/strong&gt; etc&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/anastasiuspernat/UnderPillow/raw/main/Screenshot.jpg?raw=true&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Needs Python &amp;amp; Pillow installed on your macOS (will remove this dependancy)&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Download&lt;/strong&gt; from releases&lt;/li&gt; &#xA; &lt;li&gt;Move from &lt;strong&gt;Downloads to Applications&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;Run app and &lt;strong&gt;choose folders&lt;/strong&gt; you keep your images in&lt;/li&gt; &#xA; &lt;li&gt;Go to  System Preferences -&amp;gt; Extensions -&amp;gt; Finder Extensions and enable &lt;strong&gt;UnderPillow Finder&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

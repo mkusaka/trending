@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:40:41Z</updated>
+  <updated>2022-11-17T01:40:44Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tristanisham/zvm</title>
-    <updated>2022-11-16T01:40:41Z</updated>
-    <id>tag:github.com,2022-11-16:/tristanisham/zvm</id>
-    <link href="https://github.com/tristanisham/zvm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zvm (Zig Version Manager) lets you easily install/upgrade between different versions of Zig.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

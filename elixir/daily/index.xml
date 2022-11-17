@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:33:15Z</updated>
+  <updated>2022-11-17T01:33:28Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>trento-project/wanda</title>
-    <updated>2022-11-16T01:33:15Z</updated>
-    <id>tag:github.com,2022-11-16:/trento-project/wanda</id>
-    <link href="https://github.com/trento-project/wanda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wanda is a full rewrite of the Trento Runner&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dashbitco/broadway_sqs</title>
-    <updated>2022-11-16T01:33:15Z</updated>
-    <id>tag:github.com,2022-11-16:/dashbitco/broadway_sqs</id>
-    <link href="https://github.com/dashbitco/broadway_sqs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Broadway producer for Amazon SQS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SavoyaEngineering/retro</title>
+    <updated>2022-11-17T01:33:28Z</updated>
+    <id>tag:github.com,2022-11-17:/SavoyaEngineering/retro</id>
+    <link href="https://github.com/SavoyaEngineering/retro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A retro tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:32:25Z</updated>
+  <updated>2022-11-17T01:32:49Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>codeminton/purple-login-page</title>
-    <updated>2022-11-16T01:32:25Z</updated>
-    <id>tag:github.com,2022-11-16:/codeminton/purple-login-page</id>
-    <link href="https://github.com/codeminton/purple-login-page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;YouTube Video&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Login Page Design (HTML &amp;amp; CSS)&lt;/h1&gt; &#xA;&lt;h6&gt;This login form is a mobile-friendly login form. You can even create a registration form and password reset form using this form. This form design will add elegance to your website :)&lt;/h6&gt; &#xA;&lt;p&gt;Preview image&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://gcdnb.pbrd.co/images/Jg8KnAx0IMif.png?o=1&#34; alt=&#34;Login Page Design (HTML &amp;amp; CSS)&#34; title=&#34;Login Page Design (HTML &amp;amp; CSS)&#34;&gt;&lt;/p&gt;</summary>
+    <title>BuckyMaler/global</title>
+    <updated>2022-11-17T01:32:49Z</updated>
+    <id>tag:github.com,2022-11-17:/BuckyMaler/global</id>
+    <link href="https://github.com/BuckyMaler/global" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTML5 website template&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;http://buckymaler.com/global&#34;&gt;Global: HTML5 website template&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/&#34;&gt;Featured on Freebiesbug&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.&lt;/p&gt; &#xA;&lt;p&gt;The original PSD is included and was provided by &lt;a href=&#34;https://www.behance.net/SergeyMelnik&#34;&gt;Sergey Melnik&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This project was developed with HTML5, Sass, jQuery, and Hammer.js.&lt;/p&gt; &#xA;&lt;p&gt;Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://buckymaler.com/global&#34;&gt;LIVE PREVIEW&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Misc:&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Follow Bucky: &lt;a href=&#34;https://twitter.com/BuckyMaler&#34;&gt;Twitter&lt;/a&gt;, &lt;a href=&#34;https://github.com/BuckyMaler&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Follow Sergey: &lt;a href=&#34;https://dribbble.com/sergeymelnik&#34;&gt;Dribbble&lt;/a&gt;, &lt;a href=&#34;https://www.behance.net/SergeyMelnik&#34;&gt;Bēhance&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
   <entry>
-    <title>evildmp/diataxis-documentation-framework</title>
-    <updated>2022-11-16T01:32:25Z</updated>
-    <id>tag:github.com,2022-11-16:/evildmp/diataxis-documentation-framework</id>
-    <link href="https://github.com/evildmp/diataxis-documentation-framework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#34;The Grand Unified Theory of Documentation&#34; (David Laing) - a popular and transformative documentation authoring framework&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The documentation system&lt;/h1&gt; &#xA;&lt;p&gt;A comprehensive and practical system that can help maintainers of product documentation.&lt;/p&gt; &#xA;&lt;p&gt;Published at &lt;a href=&#34;https://diataxis.fr&#34;&gt;https://diataxis.fr&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Author: Daniele Procida&lt;/p&gt; &#xA;&lt;p&gt;License: &lt;code&gt;CC-BY-SA 4.0 &amp;lt;https://creativecommons.org/licenses/by-sa/4.0/&amp;gt;&lt;/code&gt;_&lt;/p&gt;</summary>
+    <title>ricpelo/tienda2223</title>
+    <updated>2022-11-17T01:32:49Z</updated>
+    <id>tag:github.com,2022-11-17:/ricpelo/tienda2223</id>
+    <link href="https://github.com/ricpelo/tienda2223" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hogeschoolnovi/frontend-react-fruit-perfection</title>
+    <updated>2022-11-17T01:32:49Z</updated>
+    <id>tag:github.com,2022-11-17:/hogeschoolnovi/frontend-react-fruit-perfection</id>
+    <link href="https://github.com/hogeschoolnovi/frontend-react-fruit-perfection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EdHub material&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fruit Perfection Tutorial&lt;/h1&gt; &#xA;&lt;p&gt;Deze tutorial is ontwikkelt om je stapsgewijs wegwijs te maken in React, naar aanleiding van de content uit de cursus &lt;strong&gt;React&lt;/strong&gt; op EdHub.&lt;/p&gt; &#xA;&lt;p&gt;Het project is opgezet met &lt;a href=&#34;https://github.com/facebook/create-react-app&#34;&gt;Create React App&lt;/a&gt; v18.2.&lt;/p&gt; &#xA;&lt;h2&gt;Eindresultaat&lt;/h2&gt; &#xA;&lt;p&gt;Wanneer je de tutorial afgerond hebt, ziet de webpagina er zo uit:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hogeschoolnovi/frontend-react-fruit-perfection/master/src/assets/screenshot-eindresultaat.png&#34; alt=&#34;Screenshot eindresultaat&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;De applicatie starten&lt;/h2&gt; &#xA;&lt;p&gt;Als je het project gecloned hebt naar jouw locale machine, installeer je eerst de node_modules door het volgende commando in de terminal te runnen:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;npm install&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Wanneer dit klaar is, kun je de applicatie starten met behulp van:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;npm start&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;of gebruik de WebStorm knop (npm start). Open &lt;a href=&#34;http://localhost:3000&#34;&gt;http://localhost:3000&lt;/a&gt; om de pagina in de browser te bekijken. Begin met het maken van wijzigingen in &lt;code&gt;src/App.js&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Tussenstappen bekijken&lt;/h2&gt; &#xA;&lt;p&gt;De tutorial werkt in stapjes. Na elke stap kun je de bijbehorende branch bekijken om te zien hoe de applicatie er op dat moment uit zou moeten zien:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/raw/stap-1/src/App.js&#34;&gt;Actie 1&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/tree/stap-2/src/App.js&#34;&gt;Actie 2&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/tree/stap-3/src/App.js&#34;&gt;Actie 3&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/tree/stap-4/src/App.js&#34;&gt;Actie 4&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/raw/stap-5/src/App.js&#34;&gt;Eindresultaat App.js&lt;/a&gt; en &lt;a href=&#34;https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/raw/stap-5/src/components/Product.js&#34;&gt;Eindresultaat Product.js&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;hoi&lt;/p&gt;</summary>
   </entry>
 </feed>

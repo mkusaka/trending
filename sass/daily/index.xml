@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Sass Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:38:34Z</updated>
+  <updated>2022-11-17T01:38:59Z</updated>
   <subtitle>Daily Trending of Sass in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RatanShreshtha/DeepThought</title>
-    <updated>2022-11-16T01:38:34Z</updated>
-    <id>tag:github.com,2022-11-16:/RatanShreshtha/DeepThought</id>
-    <link href="https://github.com/RatanShreshtha/DeepThought" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple blog theme focused on writing powered by Bulma and Zola.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

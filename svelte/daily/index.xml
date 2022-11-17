@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:39:20Z</updated>
+  <updated>2022-11-17T01:39:38Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Andrea055/nodeMyAdmin</title>
-    <updated>2022-11-16T01:39:20Z</updated>
-    <id>tag:github.com,2022-11-16:/Andrea055/nodeMyAdmin</id>
-    <link href="https://github.com/Andrea055/nodeMyAdmin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An attempt to port phpMyAdmin to Node.js with the help of Sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vnphanquang/svelte-put</title>
-    <updated>2022-11-16T01:39:20Z</updated>
-    <id>tag:github.com,2022-11-16:/vnphanquang/svelte-put</id>
-    <link href="https://github.com/vnphanquang/svelte-put" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful svelte stuff to put in your projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>soul-wish/soul-wish.github.com</title>
-    <updated>2022-11-16T01:39:20Z</updated>
-    <id>tag:github.com,2022-11-16:/soul-wish/soul-wish.github.com</id>
-    <link href="https://github.com/soul-wish/soul-wish.github.com" rel="alternate"></link>
+    <title>CodingGarden/weather-overlay</title>
+    <updated>2022-11-17T01:39:38Z</updated>
+    <id>tag:github.com,2022-11-17:/CodingGarden/weather-overlay</id>
+    <link href="https://github.com/CodingGarden/weather-overlay" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>appwrite/console</title>
+    <updated>2022-11-17T01:39:38Z</updated>
+    <id>tag:github.com,2022-11-17:/appwrite/console</id>
+    <link href="https://github.com/appwrite/console" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Console that makes Appwrite tick from the browser 🖥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

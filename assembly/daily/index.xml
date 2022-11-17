@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:31:31Z</updated>
+  <updated>2022-11-17T01:31:35Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>snu-csl/ca-pa3</title>
-    <updated>2022-11-16T01:31:31Z</updated>
-    <id>tag:github.com,2022-11-16:/snu-csl/ca-pa3</id>
-    <link href="https://github.com/snu-csl/ca-pa3" rel="alternate"></link>
+    <title>eigenco/frankenpi</title>
+    <updated>2022-11-17T01:31:35Z</updated>
+    <id>tag:github.com,2022-11-17:/eigenco/frankenpi</id>
+    <link href="https://github.com/eigenco/frankenpi" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ytmytm/geos-atari</title>
+    <updated>2022-11-17T01:31:35Z</updated>
+    <id>tag:github.com,2022-11-17:/ytmytm/geos-atari</id>
+    <link href="https://github.com/ytmytm/geos-atari" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GEOS 2.0 ported from C64/128 to 8-bit Atari&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thenikso/bootes</title>
+    <updated>2022-11-17T01:31:35Z</updated>
+    <id>tag:github.com,2022-11-17:/thenikso/bootes</id>
+    <link href="https://github.com/thenikso/bootes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experimental 16bit operating system written in assembly.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

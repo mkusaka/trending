@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:35:23Z</updated>
+  <updated>2022-11-17T01:35:51Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cvxgrp/WaveOperators.jl</title>
+    <updated>2022-11-17T01:35:51Z</updated>
+    <id>tag:github.com,2022-11-17:/cvxgrp/WaveOperators.jl</id>
+    <link href="https://github.com/cvxgrp/WaveOperators.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Building matrices in physics is hard; that&#39;s why this package exists.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

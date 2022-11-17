@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:37:37Z</updated>
+  <updated>2022-11-17T01:38:08Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zylon-internet/puppet-expiringexport</title>
-    <updated>2022-11-16T01:37:37Z</updated>
-    <id>tag:github.com,2022-11-16:/zylon-internet/puppet-expiringexport</id>
-    <link href="https://github.com/zylon-internet/puppet-expiringexport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;puppet-expiringexport is an defined resource type that wraps existing resources in an expiring container&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zylon-internet/puppet-varnish</title>
-    <updated>2022-11-16T01:37:37Z</updated>
-    <id>tag:github.com,2022-11-16:/zylon-internet/puppet-varnish</id>
-    <link href="https://github.com/zylon-internet/puppet-varnish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A puppet module for varnish. According to Example42 NextGen spec.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>erwbgy/puppet-pamldap</title>
-    <updated>2022-11-16T01:37:37Z</updated>
-    <id>tag:github.com,2022-11-16:/erwbgy/puppet-pamldap</id>
-    <link href="https://github.com/erwbgy/puppet-pamldap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use LDAP for user authentication, authorisation and related name resolution&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jbcpollak/jpollak-tomcat</title>
+    <updated>2022-11-17T01:38:08Z</updated>
+    <id>tag:github.com,2022-11-17:/jbcpollak/jpollak-tomcat</id>
+    <link href="https://github.com/jbcpollak/jpollak-tomcat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Puppet Module for Tomcat&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

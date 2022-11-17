@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-16T01:36:22Z</updated>
+  <updated>2022-11-17T01:36:56Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>goodbyekansas/nedryland</title>
-    <updated>2022-11-16T01:36:22Z</updated>
-    <id>tag:github.com,2022-11-16:/goodbyekansas/nedryland</id>
-    <link href="https://github.com/goodbyekansas/nedryland" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nedryland is a collection of utilities and a build system for declaring, building and deploying microservice solutions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>denog/routing-guide</title>
+    <updated>2022-11-17T01:36:56Z</updated>
+    <id>tag:github.com,2022-11-17:/denog/routing-guide</id>
+    <link href="https://github.com/denog/routing-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
