@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:37:52Z</updated>
+  <updated>2022-11-18T01:36:18Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/New-KrbtgtKeys.ps1</title>
+    <updated>2022-11-18T01:36:18Z</updated>
+    <id>tag:github.com,2022-11-18:/microsoft/New-KrbtgtKeys.ps1</id>
+    <link href="https://github.com/microsoft/New-KrbtgtKeys.ps1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This script will enable you to reset the krbtgt account password and related keys while minimizing the likelihood of Kerberos authentication issues being caused by the operation.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Contributing&lt;/h1&gt; &#xA;&lt;p&gt;This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit &lt;a href=&#34;https://cla.opensource.microsoft.com&#34;&gt;https://cla.opensource.microsoft.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.&lt;/p&gt; &#xA;&lt;p&gt;This project has adopted the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/&#34;&gt;Microsoft Open Source Code of Conduct&lt;/a&gt;. For more information see the &lt;a href=&#34;https://opensource.microsoft.com/codeofconduct/faq/&#34;&gt;Code of Conduct FAQ&lt;/a&gt; or contact &lt;a href=&#34;mailto:opencode@microsoft.com&#34;&gt;opencode@microsoft.com&lt;/a&gt; with any additional questions or comments.&lt;/p&gt;</summary>
+  </entry>
 </feed>

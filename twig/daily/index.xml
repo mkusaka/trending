@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:40:10Z</updated>
+  <updated>2022-11-18T01:38:58Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Edelweiss/hgv</title>
+    <updated>2022-11-18T01:38:58Z</updated>
+    <id>tag:github.com,2022-11-18:/Edelweiss/hgv</id>
+    <link href="https://github.com/Edelweiss/hgv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Heidelberger Gesamtverzeichnis der griechischen Papyrusurkunden Ägyptens&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

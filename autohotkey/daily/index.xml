@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:31:35Z</updated>
+  <updated>2022-11-18T01:30:49Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Niten001/Core-Keeper-Auto-Fish</title>
-    <updated>2022-11-17T01:31:35Z</updated>
-    <id>tag:github.com,2022-11-17:/Niten001/Core-Keeper-Auto-Fish</id>
-    <link href="https://github.com/Niten001/Core-Keeper-Auto-Fish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for the source code and Core Keeper Auto Fish application which automatically fishes for you in the game Core Keeper.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

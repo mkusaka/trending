@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:33:26Z</updated>
+  <updated>2022-11-18T01:32:24Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fazt/books-express</title>
+    <updated>2022-11-18T01:32:24Z</updated>
+    <id>tag:github.com,2022-11-18:/fazt/books-express</id>
+    <link href="https://github.com/fazt/books-express" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A guestBook built on Node.js and Express.js and Bootstrap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codegym-vn/express-product-list</title>
+    <updated>2022-11-18T01:32:24Z</updated>
+    <id>tag:github.com,2022-11-18:/codegym-vn/express-product-list</id>
+    <link href="https://github.com/codegym-vn/express-product-list" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codegym-vn/express_book_manager</title>
+    <updated>2022-11-18T01:32:24Z</updated>
+    <id>tag:github.com,2022-11-18:/codegym-vn/express_book_manager</id>
+    <link href="https://github.com/codegym-vn/express_book_manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

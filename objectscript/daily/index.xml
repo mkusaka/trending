@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ObjectScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:37:12Z</updated>
+  <updated>2022-11-18T01:35:37Z</updated>
   <subtitle>Daily Trending of ObjectScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jrpereirajr/pregnancy-symp-tracker-fhir-app</title>
+    <updated>2022-11-18T01:35:37Z</updated>
+    <id>tag:github.com,2022-11-18:/jrpereirajr/pregnancy-symp-tracker-fhir-app</id>
+    <link href="https://github.com/jrpereirajr/pregnancy-symp-tracker-fhir-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example of how to FHIR for help pregnants to track their symptoms and share with health caregivers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

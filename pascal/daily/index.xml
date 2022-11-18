@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:37:18Z</updated>
+  <updated>2022-11-18T01:35:44Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EtheaDev/StyledComponents</title>
+    <updated>2022-11-18T01:35:44Z</updated>
+    <id>tag:github.com,2022-11-18:/EtheaDev/StyledComponents</id>
+    <link href="https://github.com/EtheaDev/StyledComponents" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi VCL Button with Custom Graphic Styles (eg.Bootstrap, Angular) and advanced, full-customizable TaskDialog, also with animations!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

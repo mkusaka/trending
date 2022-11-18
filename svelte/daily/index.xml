@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:39:38Z</updated>
+  <updated>2022-11-18T01:38:09Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CodingGarden/weather-overlay</title>
-    <updated>2022-11-17T01:39:38Z</updated>
-    <id>tag:github.com,2022-11-17:/CodingGarden/weather-overlay</id>
-    <link href="https://github.com/CodingGarden/weather-overlay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>appwrite/console</title>
-    <updated>2022-11-17T01:39:38Z</updated>
-    <id>tag:github.com,2022-11-17:/appwrite/console</id>
-    <link href="https://github.com/appwrite/console" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Console that makes Appwrite tick from the browser 🖥&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

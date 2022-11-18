@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:30:42Z</updated>
+  <updated>2022-11-18T01:30:30Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>enaqx/awesome-pentest</title>
-    <updated>2022-11-17T01:30:42Z</updated>
-    <id>tag:github.com,2022-11-17:/enaqx/awesome-pentest</id>
-    <link href="https://github.com/enaqx/awesome-pentest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of awesome penetration testing resources, tools and other shiny things&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cheatsnake/backend-cheats</title>
+    <updated>2022-11-18T01:30:30Z</updated>
+    <id>tag:github.com,2022-11-18:/cheatsnake/backend-cheats</id>
+    <link href="https://github.com/cheatsnake/backend-cheats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔰 Шпаргалка по бэкенду с картинками и не только&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ninakali/chip_scavenger</title>
-    <updated>2022-11-17T01:30:42Z</updated>
-    <id>tag:github.com,2022-11-17:/ninakali/chip_scavenger</id>
-    <link href="https://github.com/ninakali/chip_scavenger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>greko6/xfb2xfb</title>
+    <updated>2022-11-18T01:30:30Z</updated>
+    <id>tag:github.com,2022-11-18:/greko6/xfb2xfb</id>
+    <link href="https://github.com/greko6/xfb2xfb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;by ex-Facebookers, for ex-Facebookers - a lookup table of similar tech &amp; services&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Alikhll/golang-developer-roadmap</title>
-    <updated>2022-11-17T01:30:42Z</updated>
-    <id>tag:github.com,2022-11-17:/Alikhll/golang-developer-roadmap</id>
-    <link href="https://github.com/Alikhll/golang-developer-roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Roadmap to becoming a Go developer in 2020&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eladrich/latent-nerf</title>
+    <updated>2022-11-18T01:30:30Z</updated>
+    <id>tag:github.com,2022-11-18:/eladrich/latent-nerf</id>
+    <link href="https://github.com/eladrich/latent-nerf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Implementation for &#34;Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:38:42Z</updated>
+  <updated>2022-11-18T01:37:02Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>matiasinsaurralde/facebook-tunnel</title>
-    <updated>2022-11-17T01:38:42Z</updated>
-    <id>tag:github.com,2022-11-17:/matiasinsaurralde/facebook-tunnel</id>
-    <link href="https://github.com/matiasinsaurralde/facebook-tunnel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tunneling Internet traffic over Facebook chat.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>yonghun8343/Node_study</title>
-    <updated>2022-11-17T01:38:42Z</updated>
-    <id>tag:github.com,2022-11-17:/yonghun8343/Node_study</id>
-    <link href="https://github.com/yonghun8343/Node_study" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Node_study&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

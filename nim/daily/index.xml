@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:36:55Z</updated>
+  <updated>2022-11-18T01:35:20Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>treeform/jsony</title>
+    <updated>2022-11-18T01:35:20Z</updated>
+    <id>tag:github.com,2022-11-18:/treeform/jsony</id>
+    <link href="https://github.com/treeform/jsony" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A loose, direct to object json parser with hooks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

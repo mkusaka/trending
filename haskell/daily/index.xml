@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:34:27Z</updated>
+  <updated>2022-11-18T01:33:23Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BartMassey/stratify</title>
+    <updated>2022-11-18T01:33:23Z</updated>
+    <id>tag:github.com,2022-11-18:/BartMassey/stratify</id>
+    <link href="https://github.com/BartMassey/stratify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haskell intercalate inverse with QuickCheck tests&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;stratify&lt;/h1&gt; &#xA;&lt;p&gt;Copyright © 2008 Bart Massey&lt;/p&gt; &#xA;&lt;p&gt;The horribly-named Haskell library &lt;code&gt;intercalate&lt;/code&gt; function needs an inverse. My &lt;code&gt;stratify&lt;/code&gt; function is an attempt to provide that inverse. A couple of simple QuickCheck2 tests are included.&lt;/p&gt; &#xA;&lt;p&gt;This work is made available under the &#34;3-clause BSD License&#34;. Please see the file &lt;code&gt;COPYING&lt;/code&gt; in the distribution for license terms.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>seth-brown/describe</title>
+    <updated>2022-11-18T01:33:23Z</updated>
+    <id>tag:github.com,2022-11-18:/seth-brown/describe</id>
+    <link href="https://github.com/seth-brown/describe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;describe: A Descriptive Statistics Utility&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;code&gt;describe&lt;/code&gt;: an exploratory data analysis tool&lt;/h1&gt; &#xA;&lt;h3&gt;Description:&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt;describe&lt;/code&gt; is a simple command line utility written in Haskell for calculating common descriptive statistics on numerical data.&lt;/p&gt; &#xA;&lt;h3&gt;Installation:&lt;/h3&gt; &#xA;&lt;p&gt;To install &lt;code&gt;describe&lt;/code&gt;, follow these steps:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Download the haskell platform.&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt; &lt;p&gt;On a Mac:&lt;br&gt; &lt;code&gt;$ brew install haskell-platform&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA;   &lt;li&gt; &lt;p&gt;On Linux (Ubuntu):&lt;br&gt; &lt;code&gt;$ sudo apt-get install haskell-platform&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;After successful installation, run the following commands to install the approporiate dependencies:&lt;/p&gt; &lt;p&gt;&lt;code&gt;$ cabal update&lt;/code&gt;&lt;br&gt; &lt;code&gt;$ cabal install cabal-install&lt;/code&gt;&lt;br&gt; &lt;code&gt;$ cabal install statistics&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Next, compile &lt;code&gt;describe&lt;/code&gt;:&lt;/p&gt; &lt;p&gt;&lt;code&gt;$ ghc -O2 describe.hs&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Place describe in your path:&lt;/p&gt; &lt;p&gt;`$ mv describe ~/bin/&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Test that describe is working:&lt;/p&gt; &lt;p&gt;&lt;code&gt;$ echo &#34;1\n2\n3\n4&#34; | ./describe&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Usage:&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt;describe&lt;/code&gt; accepts numerical data in column form, i.e. delimited by newline characters.&lt;/p&gt; &#xA;&lt;p&gt;As an example, consider the following data file with two columns of comma seperated values:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;1e-10,3&#xA;1e-10,6&#xA;2.2345,2&#xA;3.4569,1&#xA;1e3,5&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To analyze the first column of data:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;$ cut -f1 -d&#34;,&#34; | describe | column -t&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;This will print the following summary to the screen:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Length    :  5&#xA;Min       :  1.0e-10&#xA;Max       :  1000.0&#xA;Range     :  1000.0000&#xA;Q1        :  0.0000&#xA;Q2        :  2.2345&#xA;Q3        :  335.6379&#xA;IQR       :  335.6379&#xA;Trimean   :  85.0267&#xA;Midhinge  :  167.8190&#xA;Mean      :  201.1383&#xA;Mode      :  1.0e-10&#xA;Kurtosis  :  0.2499&#xA;Skewness  :  1.5000&#xA;Entropy   :  1.9219&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Further information on how to work with rows and multiple columns can be found &lt;a href=&#34;http://www.drbunsen.org/explorations-in-unix/#describe&#34;&gt;in this blog post&lt;/a&gt;:&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>iori-yja/statetree</title>
+    <updated>2022-11-18T01:33:23Z</updated>
+    <id>tag:github.com,2022-11-18:/iori-yja/statetree</id>
+    <link href="https://github.com/iori-yja/statetree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

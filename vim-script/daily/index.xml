@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:40:29Z</updated>
+  <updated>2022-11-18T01:39:24Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fennellstyle/dotvim</title>
-    <updated>2022-11-17T01:40:29Z</updated>
-    <id>tag:github.com,2022-11-17:/fennellstyle/dotvim</id>
-    <link href="https://github.com/fennellstyle/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my vim settings&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crazygit/vimconf</title>
-    <updated>2022-11-17T01:40:29Z</updated>
-    <id>tag:github.com,2022-11-17:/crazygit/vimconf</id>
-    <link href="https://github.com/crazygit/vimconf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;自己整理的一些vim配置&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim-scripts/toggle_maximize.vim</title>
-    <updated>2022-11-17T01:40:29Z</updated>
-    <id>tag:github.com,2022-11-17:/vim-scripts/toggle_maximize.vim</id>
-    <link href="https://github.com/vim-scripts/toggle_maximize.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keybinds to temporarily maximize the current window, squashing the rest.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wooparadog/vimrc</title>
+    <updated>2022-11-18T01:39:24Z</updated>
+    <id>tag:github.com,2022-11-18:/wooparadog/vimrc</id>
+    <link href="https://github.com/wooparadog/vimrc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

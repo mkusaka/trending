@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:34:22Z</updated>
+  <updated>2022-11-18T01:33:18Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>krsmes/httptest</title>
-    <updated>2022-11-17T01:34:22Z</updated>
-    <id>tag:github.com,2022-11-17:/krsmes/httptest</id>
-    <link href="https://github.com/krsmes/httptest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Groovy script for writing simple tests for http headers/requests/responses/cookies/etc&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

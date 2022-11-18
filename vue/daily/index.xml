@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-17T01:40:33Z</updated>
+  <updated>2022-11-18T01:39:29Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rogden/tailwind-config-viewer</title>
-    <updated>2022-11-17T01:40:33Z</updated>
-    <id>tag:github.com,2022-11-17:/rogden/tailwind-config-viewer</id>
-    <link href="https://github.com/rogden/tailwind-config-viewer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A local UI tool for visualizing your Tailwind CSS configuration file.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>patriciads17/vue-firebase</title>
-    <updated>2022-11-17T01:40:33Z</updated>
-    <id>tag:github.com,2022-11-17:/patriciads17/vue-firebase</id>
-    <link href="https://github.com/patriciads17/vue-firebase" rel="alternate"></link>
+    <title>kmarques/esgi-vue</title>
+    <updated>2022-11-18T01:39:29Z</updated>
+    <id>tag:github.com,2022-11-18:/kmarques/esgi-vue</id>
+    <link href="https://github.com/kmarques/esgi-vue" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jareddantis/gwa-calc</title>
-    <updated>2022-11-17T01:40:33Z</updated>
-    <id>tag:github.com,2022-11-17:/jareddantis/gwa-calc</id>
-    <link href="https://github.com/jareddantis/gwa-calc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧮 Quick general weighted average calculator for PSHS &amp; college students&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
