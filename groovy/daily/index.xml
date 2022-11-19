@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-18T01:33:18Z</updated>
+  <updated>2022-11-19T01:34:00Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ghotel/fimp</title>
+    <updated>2022-11-19T01:34:00Z</updated>
+    <id>tag:github.com,2022-11-19:/ghotel/fimp</id>
+    <link href="https://github.com/ghotel/fimp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ifin24 import tool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>epi2me-labs/wf-basecalling</title>
+    <updated>2022-11-19T01:34:00Z</updated>
+    <id>tag:github.com,2022-11-19:/epi2me-labs/wf-basecalling</id>
+    <link href="https://github.com/epi2me-labs/wf-basecalling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

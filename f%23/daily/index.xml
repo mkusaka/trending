@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-18T01:32:36Z</updated>
+  <updated>2022-11-19T01:33:22Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fsharp-mobile/Fabulous.Avalonia</title>
-    <updated>2022-11-18T01:32:36Z</updated>
-    <id>tag:github.com,2022-11-18:/fsharp-mobile/Fabulous.Avalonia</id>
-    <link href="https://github.com/fsharp-mobile/Fabulous.Avalonia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proof of Concept - Making an F# MVU framework for AvaloniaUI with Fabulous&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fabulous.Avalonia&lt;/h1&gt; &#xA;&lt;p&gt;Proof of Concept - Making an F# MVU framework for AvaloniaUI with Fabulous&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/fsharp-mobile/Fabulous.Avalonia/main/docs/sample.png&#34;&gt;</summary>
-  </entry>
 </feed>

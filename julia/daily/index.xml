@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-18T01:34:22Z</updated>
+  <updated>2022-11-19T01:35:05Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maleadt/pthreads.jl</title>
-    <updated>2022-11-18T01:34:22Z</updated>
-    <id>tag:github.com,2022-11-18:/maleadt/pthreads.jl</id>
-    <link href="https://github.com/maleadt/pthreads.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;POSIX Threads support in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>awslabs/Braket.jl</title>
-    <updated>2022-11-18T01:34:22Z</updated>
-    <id>tag:github.com,2022-11-18:/awslabs/Braket.jl</id>
-    <link href="https://github.com/awslabs/Braket.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental Julia implementation of the Amazon Braket SDK&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KronosTheLate/EasyFFTs.jl</title>
+    <updated>2022-11-19T01:35:05Z</updated>
+    <id>tag:github.com,2022-11-19:/KronosTheLate/EasyFFTs.jl</id>
+    <link href="https://github.com/KronosTheLate/EasyFFTs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated layer on top of FFTW.jl to provide simpler FFTs for everyone.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

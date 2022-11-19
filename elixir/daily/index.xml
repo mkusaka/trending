@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-18T01:32:28Z</updated>
+  <updated>2022-11-19T01:33:09Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zacksiri/eventful</title>
-    <updated>2022-11-18T01:32:28Z</updated>
-    <id>tag:github.com,2022-11-18:/zacksiri/eventful</id>
-    <link href="https://github.com/zacksiri/eventful" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎟 Powerful event tracking library for Ecto&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>joken-elixir/joken</title>
-    <updated>2022-11-18T01:32:28Z</updated>
-    <id>tag:github.com,2022-11-18:/joken-elixir/joken</id>
-    <link href="https://github.com/joken-elixir/joken" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir JWT library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>simplebet/opentelemetry_commanded</title>
-    <updated>2022-11-18T01:32:28Z</updated>
-    <id>tag:github.com,2022-11-18:/simplebet/opentelemetry_commanded</id>
-    <link href="https://github.com/simplebet/opentelemetry_commanded" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Trace Commanded CQRS operations with OpenTelemetry&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

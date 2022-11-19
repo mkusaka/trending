@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub NCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-18T01:35:17Z</updated>
+  <updated>2022-11-19T01:35:51Z</updated>
   <subtitle>Daily Trending of NCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ufs-community/ufs-srweather-app</title>
-    <updated>2022-11-18T01:35:17Z</updated>
-    <id>tag:github.com,2022-11-18:/ufs-community/ufs-srweather-app</id>
-    <link href="https://github.com/ufs-community/ufs-srweather-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UFS Short-Range Weather Application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

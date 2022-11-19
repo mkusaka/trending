@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-18T01:30:54Z</updated>
+  <updated>2022-11-19T01:31:36Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/msdocs-django-postgresql-sample-app</title>
-    <updated>2022-11-18T01:30:54Z</updated>
-    <id>tag:github.com,2022-11-18:/Azure-Samples/msdocs-django-postgresql-sample-app</id>
-    <link href="https://github.com/Azure-Samples/msdocs-django-postgresql-sample-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sample Django app using PostgreSQL for the Azure App Service Web App + Database tutorial&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>madebygps/serverless-resume-api</title>
-    <updated>2022-11-18T01:30:54Z</updated>
-    <id>tag:github.com,2022-11-18:/madebygps/serverless-resume-api</id>
-    <link href="https://github.com/madebygps/serverless-resume-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Your resume api in Azure serverless&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

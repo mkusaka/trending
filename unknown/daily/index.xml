@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-18T01:30:30Z</updated>
+  <updated>2022-11-19T01:30:56Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cheatsnake/backend-cheats</title>
-    <updated>2022-11-18T01:30:30Z</updated>
-    <id>tag:github.com,2022-11-18:/cheatsnake/backend-cheats</id>
-    <link href="https://github.com/cheatsnake/backend-cheats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔰 Шпаргалка по бэкенду с картинками и не только&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>techiescamp/kubernetes-learning-path</title>
+    <updated>2022-11-19T01:30:56Z</updated>
+    <id>tag:github.com,2022-11-19:/techiescamp/kubernetes-learning-path</id>
+    <link href="https://github.com/techiescamp/kubernetes-learning-path" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>greko6/xfb2xfb</title>
-    <updated>2022-11-18T01:30:30Z</updated>
-    <id>tag:github.com,2022-11-18:/greko6/xfb2xfb</id>
-    <link href="https://github.com/greko6/xfb2xfb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;by ex-Facebookers, for ex-Facebookers - a lookup table of similar tech &amp; services&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kuchin/awesome-cto</title>
+    <updated>2022-11-19T01:30:56Z</updated>
+    <id>tag:github.com,2022-11-19:/kuchin/awesome-cto</id>
+    <link href="https://github.com/kuchin/awesome-cto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eladrich/latent-nerf</title>
-    <updated>2022-11-18T01:30:30Z</updated>
-    <id>tag:github.com,2022-11-18:/eladrich/latent-nerf</id>
-    <link href="https://github.com/eladrich/latent-nerf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Implementation for &#34;Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iranxray/hope</title>
+    <updated>2022-11-19T01:30:56Z</updated>
+    <id>tag:github.com,2022-11-19:/iranxray/hope</id>
+    <link href="https://github.com/iranxray/hope" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
