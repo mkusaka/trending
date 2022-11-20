@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:47:46Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>josh-collinsworth/sveltekit-blog-starter</title>
+    <updated>2022-11-20T01:47:46Z</updated>
+    <id>tag:github.com,2022-11-20:/josh-collinsworth/sveltekit-blog-starter</id>
+    <link href="https://github.com/josh-collinsworth/sveltekit-blog-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mail3protocol/mail3-me-button</title>
+    <updated>2022-11-20T01:47:46Z</updated>
+    <id>tag:github.com,2022-11-20:/mail3protocol/mail3-me-button</id>
+    <link href="https://github.com/mail3protocol/mail3-me-button" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cmudig/AutoProfiler</title>
+    <updated>2022-11-20T01:47:46Z</updated>
+    <id>tag:github.com,2022-11-20:/cmudig/AutoProfiler</id>
+    <link href="https://github.com/cmudig/AutoProfiler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically profile dataframes in the Jupyter sidebar&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

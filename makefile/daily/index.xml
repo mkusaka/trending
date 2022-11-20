@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:35:41Z</updated>
+  <updated>2022-11-20T01:35:01Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gakonst/solidity-book</title>
-    <updated>2022-11-19T01:35:41Z</updated>
-    <id>tag:github.com,2022-11-19:/gakonst/solidity-book</id>
-    <link href="https://github.com/gakonst/solidity-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Senior Solidity Engineer&#39;s Book is a resource meant to transform you into a Senior Solidity Engineer.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>drmingdrmer/consensus-essence</title>
-    <updated>2022-11-19T01:35:41Z</updated>
-    <id>tag:github.com,2022-11-19:/drmingdrmer/consensus-essence</id>
-    <link href="https://github.com/drmingdrmer/consensus-essence" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;distributed consensus protocol&#39;s bugs, flaws, deceptive traps, improvements&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>13rac1/twemoji-color-font</title>
-    <updated>2022-11-19T01:35:41Z</updated>
-    <id>tag:github.com,2022-11-19:/13rac1/twemoji-color-font</id>
-    <link href="https://github.com/13rac1/twemoji-color-font" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Twitter Unicode emoji color OpenType-SVG font for Linux/MacOS/Windows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Viridesc3nt/assignment-3--fundamentals-of-computing-1--cs-114--fall-2022</title>
+    <updated>2022-11-20T01:35:01Z</updated>
+    <id>tag:github.com,2022-11-20:/Viridesc3nt/assignment-3--fundamentals-of-computing-1--cs-114--fall-2022</id>
+    <link href="https://github.com/Viridesc3nt/assignment-3--fundamentals-of-computing-1--cs-114--fall-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

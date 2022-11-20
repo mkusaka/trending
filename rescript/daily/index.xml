@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:37:26Z</updated>
+  <updated>2022-11-20T01:37:01Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>reason-seoul/rescript-7guis</title>
-    <updated>2022-11-19T01:37:26Z</updated>
-    <id>tag:github.com,2022-11-19:/reason-seoul/rescript-7guis</id>
-    <link href="https://github.com/reason-seoul/rescript-7guis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The 7GUIs implemented in ReScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

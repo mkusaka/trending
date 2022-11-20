@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub jq Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:35:02Z</updated>
+  <updated>2022-11-20T01:34:16Z</updated>
   <subtitle>Daily Trending of jq in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SAP-samples/btp-service-metadata</title>
-    <updated>2022-11-19T01:35:02Z</updated>
-    <id>tag:github.com,2022-11-19:/SAP-samples/btp-service-metadata</id>
-    <link href="https://github.com/SAP-samples/btp-service-metadata" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Service metadata of services from the SAP Business Technology Platform.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

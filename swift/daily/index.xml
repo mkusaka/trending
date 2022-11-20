@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:38:29Z</updated>
+  <updated>2022-11-20T01:38:19Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FuzzyIdeas/Clop</title>
-    <updated>2022-11-19T01:38:29Z</updated>
-    <id>tag:github.com,2022-11-19:/FuzzyIdeas/Clop</id>
-    <link href="https://github.com/FuzzyIdeas/Clop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clipboard optimizer for macOS&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://lowtechguys.com/clop&#34;&gt;&lt;img width=&#34;128&#34; height=&#34;128&#34; src=&#34;https://files.lowtechguys.com/clop_512.png&#34; style=&#34;filter: drop-shadow(0px 2px 4px rgba(80, 50, 6, 0.2));&#34;&gt;&lt;/a&gt; &lt;/p&gt;&#xA;&lt;h1 align=&#34;center&#34;&gt;&lt;code style=&#34;text-shadow: 0px 3px 10px rgba(8, 0, 6, 0.35); font-size: 3rem; font-family: ui-monospace, Menlo, monospace; font-weight: 800; background: transparent; color: #4d3e56; padding: 0.2rem 0.2rem; border-radius: 6px&#34;&gt;Clop&lt;/code&gt;&lt;/h1&gt; &#xA;&lt;h4 align=&#34;center&#34; style=&#34;padding: 0; margin: 0; font-family: ui-monospace, monospace;&#34;&gt;Clipboard optimizer for macOS&lt;/h4&gt; &#xA;&lt;h6 align=&#34;center&#34; style=&#34;padding: 0; margin: 0; font-family: ui-monospace, monospace; font-weight: 400;&#34;&gt;Copy large, paste small, send fast&lt;/h6&gt; &#xA;&lt;p&gt;&lt;/p&gt;</summary>
+    <title>Lakr233/SafariYYDS</title>
+    <updated>2022-11-20T01:38:19Z</updated>
+    <id>tag:github.com,2022-11-20:/Lakr233/SafariYYDS</id>
+    <link href="https://github.com/Lakr233/SafariYYDS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;.DS_Store&lt;/h1&gt; &#xA;&lt;p&gt;你的电脑就是你的垃圾桶，&lt;del&gt;你所热爱的&lt;/del&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Lakr233/SafariYYDS/main/Screenshot%202022-11-17%20at%2018.06.28.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

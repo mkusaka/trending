@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:31:28Z</updated>
+  <updated>2022-11-20T01:30:44Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PlatziLabs/fake-api-docs</title>
+    <updated>2022-11-20T01:30:44Z</updated>
+    <id>tag:github.com,2022-11-20:/PlatziLabs/fake-api-docs</id>
+    <link href="https://github.com/PlatziLabs/fake-api-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docs: Fake store rest API for your e-commerce or shopping website prototype.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>withastro/blog-tutorial-demo</title>
+    <updated>2022-11-20T01:30:44Z</updated>
+    <id>tag:github.com,2022-11-20:/withastro/blog-tutorial-demo</id>
+    <link href="https://github.com/withastro/blog-tutorial-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>brainrepo/gitbar-2023</title>
+    <updated>2022-11-20T01:30:44Z</updated>
+    <id>tag:github.com,2022-11-20:/brainrepo/gitbar-2023</id>
+    <link href="https://github.com/brainrepo/gitbar-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New release of gitbar website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

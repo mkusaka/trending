@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:39:56Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>brainrepo/gitbar-2023</title>
+    <updated>2022-11-20T01:39:56Z</updated>
+    <id>tag:github.com,2022-11-20:/brainrepo/gitbar-2023</id>
+    <link href="https://github.com/brainrepo/gitbar-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New release of gitbar website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

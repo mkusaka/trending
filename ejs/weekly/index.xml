@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:41:49Z</updated>
+  <subtitle>Weekly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Fechin/reference</title>
+    <updated>2022-11-20T01:41:49Z</updated>
+    <id>tag:github.com,2022-11-20:/Fechin/reference</id>
+    <link href="https://github.com/Fechin/reference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭕ Share quick reference cheat sheet for developers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zonemeen/netease-recent-profile</title>
+    <updated>2022-11-20T01:41:49Z</updated>
+    <id>tag:github.com,2022-11-20:/zonemeen/netease-recent-profile</id>
+    <link href="https://github.com/zonemeen/netease-recent-profile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎧 将你的网易云音乐听歌记录生成一张可配置svg卡片&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

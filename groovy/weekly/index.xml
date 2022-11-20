@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:42:52Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>edx/jenkins-configuration</title>
+    <updated>2022-11-20T01:42:52Z</updated>
+    <id>tag:github.com,2022-11-20:/edx/jenkins-configuration</id>
+    <link href="https://github.com/edx/jenkins-configuration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of utilities for configuring a Jenkins instance and its plugins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>swapnakshetty/SocialIssues</title>
+    <updated>2022-11-20T01:42:52Z</updated>
+    <id>tag:github.com,2022-11-20:/swapnakshetty/SocialIssues</id>
+    <link href="https://github.com/swapnakshetty/SocialIssues" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jameselsey/restful-mongo</title>
+    <updated>2022-11-20T01:42:52Z</updated>
+    <id>tag:github.com,2022-11-20:/jameselsey/restful-mongo</id>
+    <link href="https://github.com/jameselsey/restful-mongo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example Java web app with RESTful services provided by jersey and spring, along with mongoDB datastore&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

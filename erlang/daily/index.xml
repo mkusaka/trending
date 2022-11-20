@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:33:22Z</updated>
+  <updated>2022-11-20T01:32:38Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>maxlapshin/record2ei</title>
+    <updated>2022-11-20T01:32:38Z</updated>
+    <id>tag:github.com,2022-11-20:/maxlapshin/record2ei</id>
+    <link href="https://github.com/maxlapshin/record2ei" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generates erl_interface code to decode erlang record based on their spec&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:34:02Z</updated>
+  <updated>2022-11-20T01:33:16Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bootcamp-webmad-1022/week5_day3</title>
-    <updated>2022-11-19T01:34:02Z</updated>
-    <id>tag:github.com,2022-11-19:/bootcamp-webmad-1022/week5_day3</id>
-    <link href="https://github.com/bootcamp-webmad-1022/week5_day3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AJAX, Axios&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

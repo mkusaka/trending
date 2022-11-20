@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:37:45Z</updated>
+  <updated>2022-11-20T01:37:22Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tummychow/git-absorb</title>
-    <updated>2022-11-19T01:37:45Z</updated>
-    <id>tag:github.com,2022-11-19:/tummychow/git-absorb</id>
-    <link href="https://github.com/tummychow/git-absorb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;git commit --fixup, but automatic&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gchandra10/rust_fixme</title>
-    <updated>2022-11-19T01:37:45Z</updated>
-    <id>tag:github.com,2022-11-19:/gchandra10/rust_fixme</id>
-    <link href="https://github.com/gchandra10/rust_fixme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fix the simple rust script as shown in README.md&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>andrewmilson/ministark</title>
-    <updated>2022-11-19T01:37:45Z</updated>
-    <id>tag:github.com,2022-11-19:/andrewmilson/ministark</id>
-    <link href="https://github.com/andrewmilson/ministark" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏃‍♂️💨 GPU accelerated STARK prover built on @arkworks-rs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yoshuawuyts/futures-concurrency</title>
+    <updated>2022-11-20T01:37:22Z</updated>
+    <id>tag:github.com,2022-11-20:/yoshuawuyts/futures-concurrency</id>
+    <link href="https://github.com/yoshuawuyts/futures-concurrency" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Structured concurrency operations for async Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

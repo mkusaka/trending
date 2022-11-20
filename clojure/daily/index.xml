@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:32:18Z</updated>
+  <updated>2022-11-20T01:31:31Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>antonlogvinenko/history-tracker-analytics</title>
-    <updated>2022-11-19T01:32:18Z</updated>
-    <id>tag:github.com,2022-11-19:/antonlogvinenko/history-tracker-analytics</id>
-    <link href="https://github.com/antonlogvinenko/history-tracker-analytics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>greglook/clj-hiera</title>
+    <updated>2022-11-20T01:31:31Z</updated>
+    <id>tag:github.com,2022-11-20:/greglook/clj-hiera</id>
+    <link href="https://github.com/greglook/clj-hiera" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate Clojure namespace hierarchy graphs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jpmonettas/hansel</title>
-    <updated>2022-11-19T01:32:18Z</updated>
-    <id>tag:github.com,2022-11-19:/jpmonettas/hansel</id>
-    <link href="https://github.com/jpmonettas/hansel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Instrument Clojure[Script] forms to trace it&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lantiga/hirop-compojure</title>
+    <updated>2022-11-20T01:31:31Z</updated>
+    <id>tag:github.com,2022-11-20:/lantiga/hirop-compojure</id>
+    <link href="https://github.com/lantiga/hirop-compojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compojure frontend for hirop&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pcsanwald/kaggle-titanic</title>
+    <updated>2022-11-20T01:31:31Z</updated>
+    <id>tag:github.com,2022-11-20:/pcsanwald/kaggle-titanic</id>
+    <link href="https://github.com/pcsanwald/kaggle-titanic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clojure implementation of Kaggle.com&#39;s titanic project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

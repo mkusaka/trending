@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:30:56Z</updated>
+  <updated>2022-11-20T01:30:28Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>techiescamp/kubernetes-learning-path</title>
-    <updated>2022-11-19T01:30:56Z</updated>
-    <id>tag:github.com,2022-11-19:/techiescamp/kubernetes-learning-path</id>
-    <link href="https://github.com/techiescamp/kubernetes-learning-path" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jellydn/typescript-tips</title>
+    <updated>2022-11-20T01:30:28Z</updated>
+    <id>tag:github.com,2022-11-20:/jellydn/typescript-tips</id>
+    <link href="https://github.com/jellydn/typescript-tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome 🔥 TypeScript Tips 🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kuchin/awesome-cto</title>
-    <updated>2022-11-19T01:30:56Z</updated>
-    <id>tag:github.com,2022-11-19:/kuchin/awesome-cto</id>
-    <link href="https://github.com/kuchin/awesome-cto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cryptoc0ding/pancakeswap-sniper-bot</title>
+    <updated>2022-11-20T01:30:28Z</updated>
+    <id>tag:github.com,2022-11-20:/cryptoc0ding/pancakeswap-sniper-bot</id>
+    <link href="https://github.com/cryptoc0ding/pancakeswap-sniper-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more. I also trying to upload new versions of this program every week, to make fewer bugs &amp; etc. You can enjoy this by clicking star.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iranxray/hope</title>
-    <updated>2022-11-19T01:30:56Z</updated>
-    <id>tag:github.com,2022-11-19:/iranxray/hope</id>
-    <link href="https://github.com/iranxray/hope" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zhiwehu/Python-programming-exercises</title>
+    <updated>2022-11-20T01:30:28Z</updated>
+    <id>tag:github.com,2022-11-20:/zhiwehu/Python-programming-exercises</id>
+    <link href="https://github.com/zhiwehu/Python-programming-exercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;100+ Python challenging programming exercises&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

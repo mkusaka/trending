@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:39:09Z</updated>
+  <updated>2022-11-20T01:39:10Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mattn/vim-yoshi</title>
-    <updated>2022-11-19T01:39:09Z</updated>
-    <id>tag:github.com,2022-11-19:/mattn/vim-yoshi</id>
-    <link href="https://github.com/mattn/vim-yoshi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mzlogin/vim-markdown-toc</title>
-    <updated>2022-11-19T01:39:09Z</updated>
-    <id>tag:github.com,2022-11-19:/mzlogin/vim-markdown-toc</id>
-    <link href="https://github.com/mzlogin/vim-markdown-toc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vim 7.4+ plugin to generate table of contents for Markdown files.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gillescochez/dev</title>
-    <updated>2022-11-19T01:39:09Z</updated>
-    <id>tag:github.com,2022-11-19:/gillescochez/dev</id>
-    <link href="https://github.com/gillescochez/dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sushengloong/dotfiles</title>
+    <updated>2022-11-20T01:39:10Z</updated>
+    <id>tag:github.com,2022-11-20:/sushengloong/dotfiles</id>
+    <link href="https://github.com/sushengloong/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;How sharp is your saw?&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

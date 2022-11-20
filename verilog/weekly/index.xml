@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:48:30Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>corundum/corundum</title>
+    <updated>2022-11-20T01:48:30Z</updated>
+    <id>tag:github.com,2022-11-20:/corundum/corundum</id>
+    <link href="https://github.com/corundum/corundum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source FPGA-based NIC and platform for in-network compute&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

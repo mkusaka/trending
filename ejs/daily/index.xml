@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:33:07Z</updated>
+  <updated>2022-11-20T01:32:20Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Fechin/reference</title>
-    <updated>2022-11-19T01:33:07Z</updated>
-    <id>tag:github.com,2022-11-19:/Fechin/reference</id>
-    <link href="https://github.com/Fechin/reference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⭕ Share quick reference cheat sheet for developers.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dahye213/DAJZIM</title>
-    <updated>2022-11-19T01:33:07Z</updated>
-    <id>tag:github.com,2022-11-19:/dahye213/DAJZIM</id>
-    <link href="https://github.com/dahye213/DAJZIM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>juananpe/express-mongo</title>
+    <updated>2022-11-20T01:32:20Z</updated>
+    <id>tag:github.com,2022-11-20:/juananpe/express-mongo</id>
+    <link href="https://github.com/juananpe/express-mongo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple app example showing how to combine mongoDB+nodeJS+express+ejs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

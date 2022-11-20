@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:48:36Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>linhaojun857/aurora</title>
+    <updated>2022-11-20T01:48:36Z</updated>
+    <id>tag:github.com,2022-11-20:/linhaojun857/aurora</id>
+    <link href="https://github.com/linhaojun857/aurora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于SpringBoot+Vue开发的个人博客系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>honghuangdc/soybean-admin</title>
+    <updated>2022-11-20T01:48:36Z</updated>
+    <id>tag:github.com,2022-11-20:/honghuangdc/soybean-admin</id>
+    <link href="https://github.com/honghuangdc/soybean-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vbenjs/vue-vben-admin-doc</title>
+    <updated>2022-11-20T01:48:36Z</updated>
+    <id>tag:github.com,2022-11-20:/vbenjs/vue-vben-admin-doc</id>
+    <link href="https://github.com/vbenjs/vue-vben-admin-doc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vue-vben-admin-doc&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

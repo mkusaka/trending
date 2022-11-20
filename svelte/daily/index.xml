@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:38:25Z</updated>
+  <updated>2022-11-20T01:38:14Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xijaja/love-you</title>
-    <updated>2022-11-19T01:38:25Z</updated>
-    <id>tag:github.com,2022-11-19:/xijaja/love-you</id>
-    <link href="https://github.com/xijaja/love-you" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;来自李峋的同款爱心代码&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>harshmangalam/sveltekit-video-meet</title>
-    <updated>2022-11-19T01:38:25Z</updated>
-    <id>tag:github.com,2022-11-19:/harshmangalam/sveltekit-video-meet</id>
-    <link href="https://github.com/harshmangalam/sveltekit-video-meet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A video calling web app build with sveltekit and socketio&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

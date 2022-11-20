@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:44:52Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>joskid/machine-learning-class</title>
+    <updated>2022-11-20T01:44:52Z</updated>
+    <id>tag:github.com,2022-11-20:/joskid/machine-learning-class</id>
+    <link href="https://github.com/joskid/machine-learning-class" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project contains my code for the programming exercises in the Stanford University Machine Learning class on Coursera.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

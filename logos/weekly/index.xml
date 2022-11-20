@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Logos Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:44:37Z</updated>
+  <subtitle>Weekly Trending of Logos in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jjolano/shadow</title>
+    <updated>2022-11-20T01:44:37Z</updated>
+    <id>tag:github.com,2022-11-20:/jjolano/shadow</id>
+    <link href="https://github.com/jjolano/shadow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A jailbreak detection bypass for modern iOS jailbreaks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

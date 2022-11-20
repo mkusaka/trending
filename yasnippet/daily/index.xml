@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YASnippet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:39:20Z</updated>
+  <updated>2022-11-20T01:39:24Z</updated>
   <subtitle>Daily Trending of YASnippet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>guilhermecomum/emacs.d</title>
+    <updated>2022-11-20T01:39:24Z</updated>
+    <id>tag:github.com,2022-11-20:/guilhermecomum/emacs.d</id>
+    <link href="https://github.com/guilhermecomum/emacs.d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My emacs configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

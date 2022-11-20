@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cython Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:41:18Z</updated>
+  <subtitle>Weekly Trending of Cython in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Farama-Foundation/Minari</title>
+    <updated>2022-11-20T01:41:18Z</updated>
+    <id>tag:github.com,2022-11-20:/Farama-Foundation/Minari</id>
+    <link href="https://github.com/Farama-Foundation/Minari" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gymnasium for offline reinforcement learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rushter/selectolax</title>
+    <updated>2022-11-20T01:41:18Z</updated>
+    <id>tag:github.com,2022-11-20:/rushter/selectolax</id>
+    <link href="https://github.com/rushter/selectolax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

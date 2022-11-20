@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-20T01:46:53Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Kindelia/HVM</title>
+    <updated>2022-11-20T01:46:53Z</updated>
+    <id>tag:github.com,2022-11-20:/Kindelia/HVM</id>
+    <link href="https://github.com/Kindelia/HVM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A massively parallel, optimal functional runtime in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AleoHQ/snarkOS</title>
+    <updated>2022-11-20T01:46:53Z</updated>
+    <id>tag:github.com,2022-11-20:/AleoHQ/snarkOS</id>
+    <link href="https://github.com/AleoHQ/snarkOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Decentralized Operating System for ZK Applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mozilla/sccache</title>
+    <updated>2022-11-20T01:46:53Z</updated>
+    <id>tag:github.com,2022-11-20:/mozilla/sccache</id>
+    <link href="https://github.com/mozilla/sccache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sccache is ccache with cloud storage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

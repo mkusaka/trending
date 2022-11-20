@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-19T01:36:54Z</updated>
+  <updated>2022-11-20T01:36:33Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bkuberek/puppet-uwsgi</title>
+    <updated>2022-11-20T01:36:33Z</updated>
+    <id>tag:github.com,2022-11-20:/bkuberek/puppet-uwsgi</id>
+    <link href="https://github.com/bkuberek/puppet-uwsgi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;uWSGI puppet module for Debian wheezy&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
