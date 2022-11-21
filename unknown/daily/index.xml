@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:30:28Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-11-21T01:32:58Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jellydn/typescript-tips</title>
-    <updated>2022-11-20T01:30:28Z</updated>
-    <id>tag:github.com,2022-11-20:/jellydn/typescript-tips</id>
-    <link href="https://github.com/jellydn/typescript-tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome 🔥 TypeScript Tips 🔥&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Purp1eW0lf/Blue-Team-Notes</title>
+    <updated>2022-11-21T01:32:58Z</updated>
+    <id>tag:github.com,2022-11-21:/Purp1eW0lf/Blue-Team-Notes</id>
+    <link href="https://github.com/Purp1eW0lf/Blue-Team-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;You didn&#39;t think I&#39;d go and leave the blue team out, right?&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cryptoc0ding/pancakeswap-sniper-bot</title>
-    <updated>2022-11-20T01:30:28Z</updated>
-    <id>tag:github.com,2022-11-20:/cryptoc0ding/pancakeswap-sniper-bot</id>
-    <link href="https://github.com/cryptoc0ding/pancakeswap-sniper-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pancakeswap Sniper Bot based on BSC. Autobuy, autosell, custom gas fee, coolest interface ever and more, more, more. I also trying to upload new versions of this program every week, to make fewer bugs &amp; etc. You can enjoy this by clicking star.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hachyderm/community</title>
+    <updated>2022-11-21T01:32:58Z</updated>
+    <id>tag:github.com,2022-11-21:/hachyderm/community</id>
+    <link href="https://github.com/hachyderm/community" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hachyderm Community Resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zhiwehu/Python-programming-exercises</title>
-    <updated>2022-11-20T01:30:28Z</updated>
-    <id>tag:github.com,2022-11-20:/zhiwehu/Python-programming-exercises</id>
-    <link href="https://github.com/zhiwehu/Python-programming-exercises" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;100+ Python challenging programming exercises&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Web-n-Composite/crypto-hacks-list</title>
+    <updated>2022-11-21T01:32:58Z</updated>
+    <id>tag:github.com,2022-11-21:/Web-n-Composite/crypto-hacks-list</id>
+    <link href="https://github.com/Web-n-Composite/crypto-hacks-list" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cryptocurrency hacks list&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

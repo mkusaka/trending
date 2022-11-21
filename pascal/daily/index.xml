@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:35:46Z</updated>
+  <updated>2022-11-21T01:38:45Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PascalVault/Lazarus_7zip</title>
-    <updated>2022-11-20T01:35:46Z</updated>
-    <id>tag:github.com,2022-11-20:/PascalVault/Lazarus_7zip</id>
-    <link href="https://github.com/PascalVault/Lazarus_7zip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;7-zip wrapper for Lazarus&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>academiadocodigo/SimpleORM</title>
+    <updated>2022-11-21T01:38:45Z</updated>
+    <id>tag:github.com,2022-11-21:/academiadocodigo/SimpleORM</id>
+    <link href="https://github.com/academiadocodigo/SimpleORM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ORM Simples para Aplicações Delphi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alepmedeiros/ac-pdv</title>
-    <updated>2022-11-20T01:35:46Z</updated>
-    <id>tag:github.com,2022-11-20:/alepmedeiros/ac-pdv</id>
-    <link href="https://github.com/alepmedeiros/ac-pdv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;O AC-PDV é um PDV criado durante lives ao vivo no canal da academia do código&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exercism/delphi</title>
+    <updated>2022-11-21T01:38:45Z</updated>
+    <id>tag:github.com,2022-11-21:/exercism/delphi</id>
+    <link href="https://github.com/exercism/delphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercism exercises in Delphi Pascal.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:30:38Z</updated>
+  <updated>2022-11-21T01:33:35Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BritCardSoc/QR-lifetime-2011-native</title>
-    <updated>2022-11-20T01:30:38Z</updated>
-    <id>tag:github.com,2022-11-20:/BritCardSoc/QR-lifetime-2011-native</id>
-    <link href="https://github.com/BritCardSoc/QR-lifetime-2011-native" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;as3 library adapter to QRISK®-lifetime-2011&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Moonshine-IDE/Moonshine-IDE</title>
-    <updated>2022-11-20T01:30:38Z</updated>
-    <id>tag:github.com,2022-11-20:/Moonshine-IDE/Moonshine-IDE</id>
-    <link href="https://github.com/Moonshine-IDE/Moonshine-IDE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Moonshine is a free and open source middleweight IDE built with ActionScript 3 for ActionScript 3, Apache Flex®, Apache Royale™, and Feathers development, with Cloud and Desktop support.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

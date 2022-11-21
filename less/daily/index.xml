@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:34:45Z</updated>
+  <updated>2022-11-21T01:37:54Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tuphan-dn/react-solana-template</title>
-    <updated>2022-11-20T01:34:45Z</updated>
-    <id>tag:github.com,2022-11-20:/tuphan-dn/react-solana-template</id>
-    <link href="https://github.com/tuphan-dn/react-solana-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;React + Solana = DApp&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

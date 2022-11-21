@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:37:22Z</updated>
+  <updated>2022-11-21T01:40:03Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yoshuawuyts/futures-concurrency</title>
-    <updated>2022-11-20T01:37:22Z</updated>
-    <id>tag:github.com,2022-11-20:/yoshuawuyts/futures-concurrency</id>
-    <link href="https://github.com/yoshuawuyts/futures-concurrency" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Structured concurrency operations for async Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

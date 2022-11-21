@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:35:05Z</updated>
+  <updated>2022-11-21T01:38:13Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chenfeiyi/PBACalib</title>
-    <updated>2022-11-20T01:35:05Z</updated>
-    <id>tag:github.com,2022-11-20:/chenfeiyi/PBACalib</id>
-    <link href="https://github.com/chenfeiyi/PBACalib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extrinsic calibration for livox-camera system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nanahou/Awesome-Speech-Enhancement</title>
-    <updated>2022-11-20T01:35:05Z</updated>
-    <id>tag:github.com,2022-11-20:/nanahou/Awesome-Speech-Enhancement</id>
-    <link href="https://github.com/nanahou/Awesome-Speech-Enhancement" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tutorial for Speech Enhancement researchers and practitioners. The purpose of this repo is to organize the world’s resources for speech enhancement and make them universally accessible and useful.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>joskid/machine-learning-class</title>
-    <updated>2022-11-20T01:35:05Z</updated>
-    <id>tag:github.com,2022-11-20:/joskid/machine-learning-class</id>
-    <link href="https://github.com/joskid/machine-learning-class" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project contains my code for the programming exercises in the Stanford University Machine Learning class on Coursera.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qsuProjects/padaco</title>
+    <updated>2022-11-21T01:38:13Z</updated>
+    <id>tag:github.com,2022-11-21:/qsuProjects/padaco</id>
+    <link href="https://github.com/qsuProjects/padaco" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

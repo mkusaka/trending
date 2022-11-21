@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:39:08Z</updated>
+  <updated>2022-11-21T01:41:23Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>borti4938/n64adv2_fw</title>
-    <updated>2022-11-20T01:39:08Z</updated>
-    <id>tag:github.com,2022-11-20:/borti4938/n64adv2_fw</id>
-    <link href="https://github.com/borti4938/n64adv2_fw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

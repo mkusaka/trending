@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:39:14Z</updated>
+  <updated>2022-11-21T01:41:28Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linhaojun857/aurora</title>
-    <updated>2022-11-20T01:39:14Z</updated>
-    <id>tag:github.com,2022-11-20:/linhaojun857/aurora</id>
-    <link href="https://github.com/linhaojun857/aurora" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于SpringBoot+Vue开发的个人博客系统&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nuxt-themes/docus</title>
-    <updated>2022-11-20T01:39:14Z</updated>
-    <id>tag:github.com,2022-11-20:/nuxt-themes/docus</id>
-    <link href="https://github.com/nuxt-themes/docus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Write beautiful documentations with Nuxt 3.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>halo-dev/console</title>
+    <updated>2022-11-21T01:41:28Z</updated>
+    <id>tag:github.com,2022-11-21:/halo-dev/console</id>
+    <link href="https://github.com/halo-dev/console" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web Console for Halo(Formerly halo-admin)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

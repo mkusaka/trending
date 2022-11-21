@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:38:16Z</updated>
+  <updated>2022-11-21T01:40:42Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hwayne/lets-prove-leftpad</title>
-    <updated>2022-11-20T01:38:16Z</updated>
-    <id>tag:github.com,2022-11-20:/hwayne/lets-prove-leftpad</id>
-    <link href="https://github.com/hwayne/lets-prove-leftpad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proving leftpad correct in a dozen different ways&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Xilinx/open-nic-shell</title>
+    <updated>2022-11-21T01:40:42Z</updated>
+    <id>tag:github.com,2022-11-21:/Xilinx/open-nic-shell</id>
+    <link href="https://github.com/Xilinx/open-nic-shell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AMD OpenNIC Shell includes the HDL source files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

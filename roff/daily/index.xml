@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:37:05Z</updated>
+  <updated>2022-11-21T01:39:49Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>exercism/8th</title>
+    <updated>2022-11-21T01:39:49Z</updated>
+    <id>tag:github.com,2022-11-21:/exercism/8th</id>
+    <link href="https://github.com/exercism/8th" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercism exercises in 8th.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

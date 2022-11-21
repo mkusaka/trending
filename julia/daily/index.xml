@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:34:20Z</updated>
+  <updated>2022-11-21T01:37:33Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CliMA/Thermodynamics.jl</title>
-    <updated>2022-11-20T01:34:20Z</updated>
-    <id>tag:github.com,2022-11-20:/CliMA/Thermodynamics.jl</id>
-    <link href="https://github.com/CliMA/Thermodynamics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package containing a library of moist thermodynamic relations&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaDynamics/Agents.jl</title>
-    <updated>2022-11-20T01:34:20Z</updated>
-    <id>tag:github.com,2022-11-20:/JuliaDynamics/Agents.jl</id>
-    <link href="https://github.com/JuliaDynamics/Agents.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Agent-based modeling framework in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vangberg/foreign-dispatch</title>
+    <updated>2022-11-21T01:37:33Z</updated>
+    <id>tag:github.com,2022-11-21:/vangberg/foreign-dispatch</id>
+    <link href="https://github.com/vangberg/foreign-dispatch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for writing in a foreign language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

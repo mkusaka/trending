@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:31:43Z</updated>
+  <updated>2022-11-21T01:34:42Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mr-majifu/Animated-Login-Form</title>
-    <updated>2022-11-20T01:31:43Z</updated>
-    <id>tag:github.com,2022-11-20:/Mr-majifu/Animated-Login-Form</id>
-    <link href="https://github.com/Mr-majifu/Animated-Login-Form" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Animated Login Form（动画登录表单）Html CSS JS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Animated Login Form(动画登录表单)&lt;/h1&gt;</summary>
+    <title>jaenfigueroa/JaenCraft</title>
+    <updated>2022-11-21T01:34:42Z</updated>
+    <id>tag:github.com,2022-11-21:/jaenfigueroa/JaenCraft</id>
+    <link href="https://github.com/jaenfigueroa/JaenCraft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minecraft Game made with pure css and javascript&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;JaenCraft&lt;/h1&gt; &#xA;&lt;p&gt;Minecraft Game made with pure css and javascript.&lt;/p&gt; &#xA;&lt;div align=&#34;left&#34;&gt; &#xA; &lt;!-- &lt;img src=&#34;https://img.shields.io/github/license/jaenfigueroa/JaenCraft?style&#34;&gt; --&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/stars/jaenfigueroa/JaenCraft?style&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/forks/jaenfigueroa/JaenCraft?style&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/issues-pr/jaenfigueroa/JaenCraft?style&#34;&gt; &#xA; &lt;img src=&#34;https://img.shields.io/github/issues/jaenfigueroa/JaenCraft?style&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;🔎 Preview&lt;/h2&gt; &#xA;&lt;div&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/jaenfigueroa/JaenCraft/main/assets/preview2.gif&#34; align=&#34;center&#34; style=&#34;width: 70%&#34;&gt; &#xA; &lt;br&gt; &#xA; &lt;br&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/jaenfigueroa/JaenCraft/main/assets/captura.jpg&#34; align=&#34;center&#34; style=&#34;width: 100%&#34;&gt; &#xA; &lt;br&gt; &#xA; &lt;br&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/jaenfigueroa/JaenCraft/main/assets/captura2.png&#34; align=&#34;center&#34; style=&#34;width: 100%&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;📌 Technologies&lt;/h2&gt; &#xA;&lt;p&gt;This project was created with:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/es/docs/Web/HTML&#34;&gt;HTML&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/es/docs/Web/CSS&#34;&gt;CSS&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/es/docs/Web/JavaScript&#34;&gt;JavaScript&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;🌍 Website&lt;/h2&gt; &#xA;&lt;p&gt;You can test and interact with the project at the following &lt;a href=&#34;https://jaenfigueroa.github.io/JaenCraft/&#34;&gt;link&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;!-- ## 💻 Contributions&#xA;&lt;img align=&#39;right&#39; src=&#34;https://octodex.github.com/images/forktocat.jpg&#34; width=&#34;340&#34;&gt;&#xA;&#xA;&#xA;Contributions are always **welcome**! Here is how:&#xA;- Fork the repository ([here is the guide](https://docs.github.com/es/get-started/quickstart/fork-a-repo))&#xA;- Clone to your machine &#xA;&#xA;  `git clone https://github.com/jaenfigueroa/JaenCraft.git`&#xA;  &#xA;- Create a new branch&#xA;&#xA;  `git checkout -b NEW_BRANCH_NAME`&#xA;&#xA;- Make your changes&#xA;- Create a pull requets --&gt;</summary>
   </entry>
 </feed>

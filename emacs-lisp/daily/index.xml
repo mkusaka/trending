@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:32:24Z</updated>
+  <updated>2022-11-21T01:35:20Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rougier/org-agenda-conflict</title>
-    <updated>2022-11-20T01:32:24Z</updated>
-    <id>tag:github.com,2022-11-20:/rougier/org-agenda-conflict</id>
-    <link href="https://github.com/rougier/org-agenda-conflict" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mark conflicting items in the org-agenda&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Introduction&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;del&gt;org-agenda-conflict&lt;/del&gt; allows to mark conflicting items in the org agenda. Conflicting items are items with an overlap between their start and end date. The marking assumed that items are sorted and only checks for conflicts between two consecutive lines. It can probably be extended to check for conflicts between all items but this would slow down marking.&lt;/p&gt; &#xA;&lt;p&gt;** Example Usage&lt;/p&gt; &#xA;&lt;p&gt;#+begin_src emacs-lisp&lt;/p&gt; &#xA;&lt;p&gt;(add-hook &#39;org-agenda-finalize-hook &#39;(lambda () (org-agenda-conflict-mark &#39;error)))&lt;/p&gt; &#xA;&lt;p&gt;#+end_src&lt;/p&gt;</summary>
-  </entry>
 </feed>

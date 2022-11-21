@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:31:31Z</updated>
+  <updated>2022-11-21T01:34:30Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>greglook/clj-hiera</title>
-    <updated>2022-11-20T01:31:31Z</updated>
-    <id>tag:github.com,2022-11-20:/greglook/clj-hiera</id>
-    <link href="https://github.com/greglook/clj-hiera" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generate Clojure namespace hierarchy graphs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quoll/asami</title>
+    <updated>2022-11-21T01:34:30Z</updated>
+    <id>tag:github.com,2022-11-21:/quoll/asami</id>
+    <link href="https://github.com/quoll/asami" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A flexible graph store, written in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lantiga/hirop-compojure</title>
-    <updated>2022-11-20T01:31:31Z</updated>
-    <id>tag:github.com,2022-11-20:/lantiga/hirop-compojure</id>
-    <link href="https://github.com/lantiga/hirop-compojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compojure frontend for hirop&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alanh1983/clojure</title>
+    <updated>2022-11-21T01:34:30Z</updated>
+    <id>tag:github.com,2022-11-21:/alanh1983/clojure</id>
+    <link href="https://github.com/alanh1983/clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pcsanwald/kaggle-titanic</title>
-    <updated>2022-11-20T01:31:31Z</updated>
-    <id>tag:github.com,2022-11-20:/pcsanwald/kaggle-titanic</id>
-    <link href="https://github.com/pcsanwald/kaggle-titanic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A clojure implementation of Kaggle.com&#39;s titanic project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cjohansen/m1p</title>
+    <updated>2022-11-21T01:34:30Z</updated>
+    <id>tag:github.com,2022-11-21:/cjohansen/m1p</id>
+    <link href="https://github.com/cjohansen/m1p" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Map interpolation and DIY i18n/theming toolkit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

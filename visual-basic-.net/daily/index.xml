@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:39:12Z</updated>
+  <updated>2022-11-21T01:41:25Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aramboyajyan/vbsvisitpage</title>
+    <updated>2022-11-21T01:41:25Z</updated>
+    <id>tag:github.com,2022-11-21:/aramboyajyan/vbsvisitpage</id>
+    <link href="https://github.com/aramboyajyan/vbsvisitpage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Visit a user defined page. Replacement for cron tasks on Windows servers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

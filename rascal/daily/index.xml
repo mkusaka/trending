@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-20T01:36:59Z</updated>
+  <updated>2022-11-21T01:39:43Z</updated>
   <subtitle>Daily Trending of Rascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cwi-swat/rascal-wax-on-wax-off</title>
-    <updated>2022-11-20T01:36:59Z</updated>
-    <id>tag:github.com,2022-11-20:/cwi-swat/rascal-wax-on-wax-off</id>
-    <link href="https://github.com/cwi-swat/rascal-wax-on-wax-off" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tutorial Rascal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
