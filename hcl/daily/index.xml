@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:36:40Z</updated>
+  <updated>2022-11-22T01:34:05Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>udacity/cd1898-Observing-Cloud-Resources</title>
-    <updated>2022-11-21T01:36:40Z</updated>
-    <id>tag:github.com,2022-11-21:/udacity/cd1898-Observing-Cloud-Resources</id>
-    <link href="https://github.com/udacity/cd1898-Observing-Cloud-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project for cd1898, Course 1 of nd087&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>raushan8586/raushan_simplilearn_repo</title>
+    <updated>2022-11-22T01:34:05Z</updated>
+    <id>tag:github.com,2022-11-22:/raushan8586/raushan_simplilearn_repo</id>
+    <link href="https://github.com/raushan8586/raushan_simplilearn_repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kura-labs-org/kuralabs_deployment_5</title>
-    <updated>2022-11-21T01:36:40Z</updated>
-    <id>tag:github.com,2022-11-21:/kura-labs-org/kuralabs_deployment_5</id>
-    <link href="https://github.com/kura-labs-org/kuralabs_deployment_5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deploying containerized application deployment 5&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/terraform-aws-nomad</title>
+    <updated>2022-11-22T01:34:05Z</updated>
+    <id>tag:github.com,2022-11-22:/hashicorp/terraform-aws-nomad</id>
+    <link href="https://github.com/hashicorp/terraform-aws-nomad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform Module for how to run Nomad on AWS using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>champ-oss/terraform-aws-keycloak</title>
-    <updated>2022-11-21T01:36:40Z</updated>
-    <id>tag:github.com,2022-11-21:/champ-oss/terraform-aws-keycloak</id>
-    <link href="https://github.com/champ-oss/terraform-aws-keycloak" rel="alternate"></link>
+    <title>champ-oss/terraform-aws-aurora</title>
+    <updated>2022-11-22T01:34:05Z</updated>
+    <id>tag:github.com,2022-11-22:/champ-oss/terraform-aws-aurora</id>
+    <link href="https://github.com/champ-oss/terraform-aws-aurora" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

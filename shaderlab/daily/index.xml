@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:40:14Z</updated>
+  <updated>2022-11-22T01:38:23Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KalydosENSIIE/Attack-Academy</title>
-    <updated>2022-11-21T01:40:14Z</updated>
-    <id>tag:github.com,2022-11-21:/KalydosENSIIE/Attack-Academy</id>
-    <link href="https://github.com/KalydosENSIIE/Attack-Academy" rel="alternate"></link>
+    <title>Skint-Eastwood/NapoleonicWarsHOI4DEV</title>
+    <updated>2022-11-22T01:38:23Z</updated>
+    <id>tag:github.com,2022-11-22:/Skint-Eastwood/NapoleonicWarsHOI4DEV</id>
+    <link href="https://github.com/Skint-Eastwood/NapoleonicWarsHOI4DEV" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hucKOder/dusters</title>
-    <updated>2022-11-21T01:40:14Z</updated>
-    <id>tag:github.com,2022-11-21:/hucKOder/dusters</id>
-    <link href="https://github.com/hucKOder/dusters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game Jam 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IronWarrior/UnityOutlineShader</title>
+    <updated>2022-11-22T01:38:23Z</updated>
+    <id>tag:github.com,2022-11-22:/IronWarrior/UnityOutlineShader</id>
+    <link href="https://github.com/IronWarrior/UnityOutlineShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

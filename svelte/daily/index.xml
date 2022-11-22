@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:40:41Z</updated>
+  <updated>2022-11-22T01:38:52Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kaizen-Labs-Inc/launcher</title>
-    <updated>2022-11-21T01:40:41Z</updated>
-    <id>tag:github.com,2022-11-21:/Kaizen-Labs-Inc/launcher</id>
-    <link href="https://github.com/Kaizen-Labs-Inc/launcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A home screen for your growing team. Powered by Sveltekit, Prisma, and Tailwind.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>etinaude/Portfolio</title>
-    <updated>2022-11-21T01:40:41Z</updated>
-    <id>tag:github.com,2022-11-21:/etinaude/Portfolio</id>
-    <link href="https://github.com/etinaude/Portfolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My portfolio website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Adimac93/hackyeah</title>
+    <updated>2022-11-22T01:38:52Z</updated>
+    <id>tag:github.com,2022-11-22:/Adimac93/hackyeah</id>
+    <link href="https://github.com/Adimac93/hackyeah" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;First hackhaton Hackyeah, took place in Tauron Arena Kraków&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

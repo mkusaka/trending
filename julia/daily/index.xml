@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:37:33Z</updated>
+  <updated>2022-11-22T01:35:12Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vangberg/foreign-dispatch</title>
-    <updated>2022-11-21T01:37:33Z</updated>
-    <id>tag:github.com,2022-11-21:/vangberg/foreign-dispatch</id>
-    <link href="https://github.com/vangberg/foreign-dispatch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools for writing in a foreign language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tfisher013/SuperStreetViewRouter.jl</title>
+    <updated>2022-11-22T01:35:12Z</updated>
+    <id>tag:github.com,2022-11-22:/tfisher013/SuperStreetViewRouter.jl</id>
+    <link href="https://github.com/tfisher013/SuperStreetViewRouter.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for solving Google&#39;s Street View Router HashCode 2014 Challenge&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FluxML/Fluxperimental.jl</title>
+    <updated>2022-11-22T01:35:12Z</updated>
+    <id>tag:github.com,2022-11-22:/FluxML/Fluxperimental.jl</id>
+    <link href="https://github.com/FluxML/Fluxperimental.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental features for Flux.jl&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

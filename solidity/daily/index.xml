@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:40:34Z</updated>
+  <updated>2022-11-22T01:38:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Zondax/fevm-solidity-mock-api</title>
-    <updated>2022-11-21T01:40:34Z</updated>
-    <id>tag:github.com,2022-11-21:/Zondax/fevm-solidity-mock-api</id>
-    <link href="https://github.com/Zondax/fevm-solidity-mock-api" rel="alternate"></link>
+    <title>JetJadeja/generalized-lending-protocol</title>
+    <updated>2022-11-22T01:38:44Z</updated>
+    <id>tag:github.com,2022-11-22:/JetJadeja/generalized-lending-protocol</id>
+    <link href="https://github.com/JetJadeja/generalized-lending-protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A modern, simple, optimized lending market written in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NilFoundation/evm-placeholder-verification</title>
+    <updated>2022-11-22T01:38:44Z</updated>
+    <id>tag:github.com,2022-11-22:/NilFoundation/evm-placeholder-verification</id>
+    <link href="https://github.com/NilFoundation/evm-placeholder-verification" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

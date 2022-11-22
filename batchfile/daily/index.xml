@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:33:50Z</updated>
+  <updated>2022-11-22T01:31:27Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OpmUbed/RDPfree</title>
+    <updated>2022-11-22T01:31:27Z</updated>
+    <id>tag:github.com,2022-11-22:/OpmUbed/RDPfree</id>
+    <link href="https://github.com/OpmUbed/RDPfree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>andikacombat/rdpfree</title>
+    <updated>2022-11-22T01:31:27Z</updated>
+    <id>tag:github.com,2022-11-22:/andikacombat/rdpfree</id>
+    <link href="https://github.com/andikacombat/rdpfree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ryanrudolfoba/SteamDeckPostInstallScript</title>
+    <updated>2022-11-22T01:31:27Z</updated>
+    <id>tag:github.com,2022-11-22:/ryanrudolfoba/SteamDeckPostInstallScript</id>
+    <link href="https://github.com/ryanrudolfoba/SteamDeckPostInstallScript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains the script, packages and configs I use to automate the WindowsOnDeck installation guide.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

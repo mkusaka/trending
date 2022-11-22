@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:41:28Z</updated>
+  <updated>2022-11-22T01:39:49Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>halo-dev/console</title>
-    <updated>2022-11-21T01:41:28Z</updated>
-    <id>tag:github.com,2022-11-21:/halo-dev/console</id>
-    <link href="https://github.com/halo-dev/console" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web Console for Halo(Formerly halo-admin)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RealCorebb/bbLaser</title>
+    <updated>2022-11-22T01:39:49Z</updated>
+    <id>tag:github.com,2022-11-22:/RealCorebb/bbLaser</id>
+    <link href="https://github.com/RealCorebb/bbLaser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maybe the best ESP32 RGB laser galvo projector.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ruanjiancheng/StudentManageSystem</title>
+    <updated>2022-11-22T01:39:49Z</updated>
+    <id>tag:github.com,2022-11-22:/ruanjiancheng/StudentManageSystem</id>
+    <link href="https://github.com/ruanjiancheng/StudentManageSystem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;学生管理系统（vue + springboot）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hai-27/vue-store</title>
+    <updated>2022-11-22T01:39:49Z</updated>
+    <id>tag:github.com,2022-11-22:/hai-27/vue-store</id>
+    <link href="https://github.com/hai-27/vue-store" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Vue+Vue-Router+Vuex+Element-ui+axios，参考小米商城，实现的电商项目。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

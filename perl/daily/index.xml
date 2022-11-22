@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:38:49Z</updated>
+  <updated>2022-11-22T01:36:45Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tnalpgge/rank-amateur-cowsay</title>
-    <updated>2022-11-21T01:38:49Z</updated>
-    <id>tag:github.com,2022-11-21:/tnalpgge/rank-amateur-cowsay</id>
-    <link href="https://github.com/tnalpgge/rank-amateur-cowsay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fork me if you want to maintain cowsay.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rank-amateur-cowsay&lt;/h1&gt; &#xA;&lt;p&gt;This is cowsay, imported directly from my ancient CVS repository, plus a few documentation tweaks to make it a bit more friendly to GitHub. Functionality remains unchanged from all pre-GitHub commits.&lt;/p&gt; &#xA;&lt;p&gt;Cowsay was a project for learning how to use Perl 5, as well as general amusement. If the code looks like it was written by an inexperienced programmer, that&#39;s because it was.&lt;/p&gt; &#xA;&lt;p&gt;If you are interested in the future of cowsay beyond what is here, then I encourage you to read CONTRIBUTING.md in this directory.&lt;/p&gt; &#xA;&lt;p&gt;I am no longer interested in maintaining cowsay; there are other demands on my time that take precedence.&lt;/p&gt; &#xA;&lt;p&gt;Enthusiasm for cowsay has gone far beyond what I expected, and if cowsay is to have a future, then the least I can do is not stand in the way of it.&lt;/p&gt; &#xA;&lt;p&gt;Enjoy cowsay for what it was meant to be: simple and silly.&lt;/p&gt;</summary>
-  </entry>
 </feed>

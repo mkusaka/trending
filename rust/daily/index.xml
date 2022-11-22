@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:40:03Z</updated>
+  <updated>2022-11-22T01:38:09Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ccgauche/ytermusic</title>
+    <updated>2022-11-22T01:38:09Z</updated>
+    <id>tag:github.com,2022-11-22:/ccgauche/ytermusic</id>
+    <link href="https://github.com/ccgauche/ytermusic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An in terminal youtube music client with focus on privacy, simplicity and performance&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>epi052/feroxbuster</title>
+    <updated>2022-11-22T01:38:09Z</updated>
+    <id>tag:github.com,2022-11-22:/epi052/feroxbuster</id>
+    <link href="https://github.com/epi052/feroxbuster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, simple, recursive content discovery tool written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

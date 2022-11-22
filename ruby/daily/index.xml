@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:39:52Z</updated>
+  <updated>2022-11-22T01:38:00Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>learn-co-curriculum/phase-4-rails-and-active-record-lab</title>
-    <updated>2022-11-21T01:39:52Z</updated>
-    <id>tag:github.com,2022-11-21:/learn-co-curriculum/phase-4-rails-and-active-record-lab</id>
-    <link href="https://github.com/learn-co-curriculum/phase-4-rails-and-active-record-lab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Rails and Active Record Lab&lt;/h1&gt; &#xA;&lt;h2&gt;Learning Goals&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Use Rails to generate a model&lt;/li&gt; &#xA; &lt;li&gt;Add methods to a model&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;Throughout this module, we&#39;ll be building an application for viewing student data. In this lesson, we&#39;ll start by creating a Student model.&lt;/p&gt; &#xA;&lt;p&gt;To get set up, run &lt;code&gt;bundle install&lt;/code&gt; to download all the necessary dependencies.&lt;/p&gt; &#xA;&lt;p&gt;Then, run &lt;code&gt;learn test&lt;/code&gt; to run the tests.&lt;/p&gt; &#xA;&lt;h2&gt;Instructions&lt;/h2&gt; &#xA;&lt;p&gt;Using &lt;code&gt;rails g model&lt;/code&gt;, create a new Student model with the following attributes:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;first_name&lt;/code&gt; (string)&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;last_name&lt;/code&gt; (string)&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;grade&lt;/code&gt; (integer)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;strong&gt;Don&#39;t forget to add the &lt;code&gt;--no-test-framework&lt;/code&gt; argument to your generate command!&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;Add an instance method &lt;code&gt;Student#to_s&lt;/code&gt; which will return the student&#39;s first name and last name concatenated with a space between. For example: calling &lt;code&gt;.to_s&lt;/code&gt; on a student with a &lt;code&gt;first_name&lt;/code&gt; of &#34;Dwayne&#34; and a &lt;code&gt;last_name&lt;/code&gt; of &#34;Johnson&#34; should return &#34;Dwayne Johnson&#34;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: remember to run &lt;code&gt;rails db:migrate&lt;/code&gt; after generating the migration file. You can also test your code by running &lt;code&gt;rails c&lt;/code&gt; and creating a Student instance.&lt;/p&gt;</summary>
+    <title>jdelprete/demo_app</title>
+    <updated>2022-11-22T01:38:00Z</updated>
+    <id>tag:github.com,2022-11-22:/jdelprete/demo_app</id>
+    <link href="https://github.com/jdelprete/demo_app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chapter 2 -- Demo App&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ruby on Rails Tutorial: second application&lt;/h1&gt; &#xA;&lt;p&gt;Built using scaffolding&lt;/p&gt;</summary>
   </entry>
 </feed>

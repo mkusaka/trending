@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-21T01:35:15Z</updated>
+  <updated>2022-11-22T01:32:59Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rancher/icons</title>
-    <updated>2022-11-21T01:35:15Z</updated>
-    <id>tag:github.com,2022-11-21:/rancher/icons</id>
-    <link href="https://github.com/rancher/icons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Icon font for Rancher UI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MiliMade/stop-smoking-app</title>
+    <updated>2022-11-22T01:32:59Z</updated>
+    <id>tag:github.com,2022-11-22:/MiliMade/stop-smoking-app</id>
+    <link href="https://github.com/MiliMade/stop-smoking-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An app to encourage users to quit smoking&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
