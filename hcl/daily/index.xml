@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:34:05Z</updated>
+  <updated>2022-11-23T01:35:01Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>raushan8586/raushan_simplilearn_repo</title>
-    <updated>2022-11-22T01:34:05Z</updated>
-    <id>tag:github.com,2022-11-22:/raushan8586/raushan_simplilearn_repo</id>
-    <link href="https://github.com/raushan8586/raushan_simplilearn_repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hashicorp/terraform-aws-nomad</title>
-    <updated>2022-11-22T01:34:05Z</updated>
-    <id>tag:github.com,2022-11-22:/hashicorp/terraform-aws-nomad</id>
-    <link href="https://github.com/hashicorp/terraform-aws-nomad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module for how to run Nomad on AWS using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>champ-oss/terraform-aws-aurora</title>
-    <updated>2022-11-22T01:34:05Z</updated>
-    <id>tag:github.com,2022-11-22:/champ-oss/terraform-aws-aurora</id>
-    <link href="https://github.com/champ-oss/terraform-aws-aurora" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

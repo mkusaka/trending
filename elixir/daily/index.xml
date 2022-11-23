@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:33:01Z</updated>
+  <updated>2022-11-23T01:34:06Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mhanberg/early_return</title>
+    <updated>2022-11-23T01:34:06Z</updated>
+    <id>tag:github.com,2022-11-23:/mhanberg/early_return</id>
+    <link href="https://github.com/mhanberg/early_return" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;early_return&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ResultadosDigitais/paddy-elixir</title>
+    <updated>2022-11-23T01:34:06Z</updated>
+    <id>tag:github.com,2022-11-23:/ResultadosDigitais/paddy-elixir</id>
+    <link href="https://github.com/ResultadosDigitais/paddy-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir wrapper around GCP Pub Sub&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>socrata/elixir-metrics</title>
+    <updated>2022-11-23T01:34:06Z</updated>
+    <id>tag:github.com,2022-11-23:/socrata/elixir-metrics</id>
+    <link href="https://github.com/socrata/elixir-metrics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;elixir module to send metrics to collectd&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

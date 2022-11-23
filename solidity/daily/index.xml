@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:38:44Z</updated>
+  <updated>2022-11-23T01:40:05Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JetJadeja/generalized-lending-protocol</title>
-    <updated>2022-11-22T01:38:44Z</updated>
-    <id>tag:github.com,2022-11-22:/JetJadeja/generalized-lending-protocol</id>
-    <link href="https://github.com/JetJadeja/generalized-lending-protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern, simple, optimized lending market written in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chainhop-dex/chainhop-contracts</title>
+    <updated>2022-11-23T01:40:05Z</updated>
+    <id>tag:github.com,2022-11-23:/chainhop-dex/chainhop-contracts</id>
+    <link href="https://github.com/chainhop-dex/chainhop-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contracts for the Chainhop Interchain DEX Aggregator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NilFoundation/evm-placeholder-verification</title>
-    <updated>2022-11-22T01:38:44Z</updated>
-    <id>tag:github.com,2022-11-22:/NilFoundation/evm-placeholder-verification</id>
-    <link href="https://github.com/NilFoundation/evm-placeholder-verification" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>web3-Nick/bot</title>
+    <updated>2022-11-23T01:40:05Z</updated>
+    <id>tag:github.com,2022-11-23:/web3-Nick/bot</id>
+    <link href="https://github.com/web3-Nick/bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个不断迭代更新的套利机器人的实现&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

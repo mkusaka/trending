@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:37:39Z</updated>
+  <updated>2022-11-23T01:38:59Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gexijin/openPay</title>
-    <updated>2022-11-22T01:37:39Z</updated>
-    <id>tag:github.com,2022-11-22:/gexijin/openPay</id>
-    <link href="https://github.com/gexijin/openPay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Open Payment South Dakota&lt;/h1&gt; &#xA;&lt;p&gt;Class project for SDSU STAT 442, FALL 2022.&lt;/p&gt; &#xA;&lt;p&gt;Deployed &lt;a href=&#34;https://sdsucamp.shinyapps.io/Jenna/&#34;&gt;https://sdsucamp.shinyapps.io/Jenna/&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>baldomarco/SVIT</title>
-    <updated>2022-11-22T01:37:39Z</updated>
-    <id>tag:github.com,2022-11-22:/baldomarco/SVIT</id>
-    <link href="https://github.com/baldomarco/SVIT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SVIT is an algorithm developed for the Satellite Vegetation Indices Trend analysis in the work Baldo et al., 2022. In this repository you can find the replicable R codes for the analysis and the validation statistical tests.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SVIT&lt;/h1&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Satellite Vegetation Indices Trend (SVIT) is an algorithm structure created by the Ph.D. candidate Baldo Marco, MSc to analyse the forest trends and changes in terms of vegetation cover and productivity. Thanks to the support of Piero Zannini, PhD, Kurian Ayushi, PhD, and Full Professor Duccio Rocchini, PhD, has been elaborated an R script to analyse the Dry Matter Productivity, Fraction of Absorbed Photosynthetically Active Radiation and Normalized Different Vegetation Index trends of a selected study area, in this case, over the Central Western Ghats India, a global biodiversity hotspot. We realized both a macroscale analysis and a fine scale analysis within the Kadamakal Reserve Forest and Pushpagiri Wildlife Sanctuary borders. To realise it, we used the theory of the multispectral bands&#39; reflectance and multiple time series analysis, using different levels of resolution and vegetation indices related to primary productivity, photosynthesis and healthy vegetation reflectance.&lt;/p&gt; &#xA;&lt;p&gt;Reference of the study: Baldo, M., Buldrini, F., Chiarucci, A., Rocchini, D., Zannini, P., Ayushi, K., Ayyappan, N., 2022. Remote sensing analysis on primary productivity and forest cover dynamics: a Western Ghats India case study. Ecological Informatics, 71, accepted.&lt;/p&gt; &#xA;&lt;p&gt;Dataset for reproducibility: &lt;a href=&#34;https://doi.org/10.5281/zenodo.6127501&#34;&gt;https://doi.org/10.5281/zenodo.6127501&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

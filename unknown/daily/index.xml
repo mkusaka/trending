@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:30:51Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-11-23T01:31:49Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LaravelDaily/laravel-tips</title>
-    <updated>2022-11-22T01:30:51Z</updated>
-    <id>tag:github.com,2022-11-22:/LaravelDaily/laravel-tips</id>
-    <link href="https://github.com/LaravelDaily/laravel-tips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome tips for Laravel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TonnyL/Awesome_APIs</title>
+    <updated>2022-11-23T01:31:49Z</updated>
+    <id>tag:github.com,2022-11-23:/TonnyL/Awesome_APIs</id>
+    <link href="https://github.com/TonnyL/Awesome_APIs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of APIs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>netbiosX/Checklists</title>
-    <updated>2022-11-22T01:30:51Z</updated>
-    <id>tag:github.com,2022-11-22:/netbiosX/Checklists</id>
-    <link href="https://github.com/netbiosX/Checklists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Red Teaming &amp; Pentesting checklists for various engagements&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alvarop/usb_c_cable_tester</title>
+    <updated>2022-11-23T01:31:49Z</updated>
+    <id>tag:github.com,2022-11-23:/alvarop/usb_c_cable_tester</id>
+    <link href="https://github.com/alvarop/usb_c_cable_tester" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AnkitCuriosity/Write-Ups</title>
+    <updated>2022-11-23T01:31:49Z</updated>
+    <id>tag:github.com,2022-11-23:/AnkitCuriosity/Write-Ups</id>
+    <link href="https://github.com/AnkitCuriosity/Write-Ups" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write-ups of my findings.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

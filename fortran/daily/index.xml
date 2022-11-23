@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:33:26Z</updated>
+  <updated>2022-11-23T01:34:23Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>StormSurgeLive/asgs</title>
+    <updated>2022-11-23T01:34:23Z</updated>
+    <id>tag:github.com,2022-11-23:/StormSurgeLive/asgs</id>
+    <link href="https://github.com/StormSurgeLive/asgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Automated Solution Generation System (ASGS) provides software infrastructure for automating coastal ocean modelling for real time decision support, and provides a variety of standalone command line tools for pre- and post-processing.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

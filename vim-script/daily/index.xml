@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:39:44Z</updated>
+  <updated>2022-11-23T01:41:02Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vim-jp/vimdoc-ja</title>
-    <updated>2022-11-22T01:39:44Z</updated>
-    <id>tag:github.com,2022-11-22:/vim-jp/vimdoc-ja</id>
-    <link href="https://github.com/vim-jp/vimdoc-ja" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A project which translate Vim documents into Japanese.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Oneplus/dotfiles</title>
+    <updated>2022-11-23T01:41:02Z</updated>
+    <id>tag:github.com,2022-11-23:/Oneplus/dotfiles</id>
+    <link href="https://github.com/Oneplus/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;config files for vim, git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gaffclant/dots</title>
+    <updated>2022-11-23T01:41:02Z</updated>
+    <id>tag:github.com,2022-11-23:/gaffclant/dots</id>
+    <link href="https://github.com/gaffclant/dots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My dotfiles, feel free to use&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Olivia5k/vim-supervisor</title>
+    <updated>2022-11-23T01:41:02Z</updated>
+    <id>tag:github.com,2022-11-23:/Olivia5k/vim-supervisor</id>
+    <link href="https://github.com/Olivia5k/vim-supervisor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;supervisor wrappers for vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

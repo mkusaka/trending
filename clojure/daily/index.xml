@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:32:12Z</updated>
+  <updated>2022-11-23T01:33:14Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seancorfield/next-jdbc</title>
-    <updated>2022-11-22T01:32:12Z</updated>
-    <id>tag:github.com,2022-11-22:/seancorfield/next-jdbc</id>
-    <link href="https://github.com/seancorfield/next-jdbc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern low-level Clojure wrapper for JDBC-based access to databases.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>green-labs/bootcamp-aoc</title>
+    <updated>2022-11-23T01:33:14Z</updated>
+    <id>tag:github.com,2022-11-23:/green-labs/bootcamp-aoc</id>
+    <link href="https://github.com/green-labs/bootcamp-aoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

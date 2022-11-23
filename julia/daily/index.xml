@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:35:12Z</updated>
+  <updated>2022-11-23T01:36:25Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tfisher013/SuperStreetViewRouter.jl</title>
-    <updated>2022-11-22T01:35:12Z</updated>
-    <id>tag:github.com,2022-11-22:/tfisher013/SuperStreetViewRouter.jl</id>
-    <link href="https://github.com/tfisher013/SuperStreetViewRouter.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia package for solving Google&#39;s Street View Router HashCode 2014 Challenge&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exanauts/ExaAdmm.jl</title>
+    <updated>2022-11-23T01:36:25Z</updated>
+    <id>tag:github.com,2022-11-23:/exanauts/ExaAdmm.jl</id>
+    <link href="https://github.com/exanauts/ExaAdmm.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia implementation of ADMM solver on multiple GPUs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FluxML/Fluxperimental.jl</title>
-    <updated>2022-11-22T01:35:12Z</updated>
-    <id>tag:github.com,2022-11-22:/FluxML/Fluxperimental.jl</id>
-    <link href="https://github.com/FluxML/Fluxperimental.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental features for Flux.jl&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/EnsembleKalmanProcesses.jl</title>
+    <updated>2022-11-23T01:36:25Z</updated>
+    <id>tag:github.com,2022-11-23:/CliMA/EnsembleKalmanProcesses.jl</id>
+    <link href="https://github.com/CliMA/EnsembleKalmanProcesses.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implements Optimization and approximate uncertainty quantification algorithms, Ensemble Kalman Inversion, and Ensemble Kalman Processes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

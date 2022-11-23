@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-22T01:39:39Z</updated>
+  <updated>2022-11-23T01:40:58Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Ruimusume/PMSV</title>
-    <updated>2022-11-22T01:39:39Z</updated>
-    <id>tag:github.com,2022-11-22:/Ruimusume/PMSV</id>
-    <link href="https://github.com/Ruimusume/PMSV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pokemon Scarlet &amp; Violet database/宝可梦 朱紫 数据 EN JP CN&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
