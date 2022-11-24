@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:34:04Z</updated>
+  <updated>2022-11-24T01:34:04Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lowlighter/metrics</title>
-    <updated>2022-11-23T01:34:04Z</updated>
-    <id>tag:github.com,2022-11-23:/lowlighter/metrics</id>
-    <link href="https://github.com/lowlighter/metrics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HattieTavares/mood-journal</title>
-    <updated>2022-11-23T01:34:04Z</updated>
-    <id>tag:github.com,2022-11-23:/HattieTavares/mood-journal</id>
-    <link href="https://github.com/HattieTavares/mood-journal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

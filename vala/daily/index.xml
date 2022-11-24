@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:40:57Z</updated>
+  <updated>2022-11-24T01:41:03Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GeopJr/Tooth</title>
-    <updated>2022-11-23T01:40:57Z</updated>
-    <id>tag:github.com,2022-11-23:/GeopJr/Tooth</id>
-    <link href="https://github.com/GeopJr/Tooth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GTK Mastodon Client - Fork of Tootle&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

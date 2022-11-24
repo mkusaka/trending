@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:33:16Z</updated>
+  <updated>2022-11-24T01:33:20Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ros-drivers/nmea_msgs</title>
-    <updated>2022-11-23T01:33:16Z</updated>
-    <id>tag:github.com,2022-11-23:/ros-drivers/nmea_msgs</id>
-    <link href="https://github.com/ros-drivers/nmea_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nmea_msgs is a ROS package containing messages related to the NMEA standard&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aws/thinkbox-cm-library</title>
+    <updated>2022-11-24T01:33:20Z</updated>
+    <id>tag:github.com,2022-11-24:/aws/thinkbox-cm-library</id>
+    <link href="https://github.com/aws/thinkbox-cm-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:39:29Z</updated>
+  <updated>2022-11-24T01:39:38Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ghik/zerowaste</title>
-    <updated>2022-11-23T01:39:29Z</updated>
-    <id>tag:github.com,2022-11-23:/ghik/zerowaste</id>
-    <link href="https://github.com/ghik/zerowaste" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scala compiler plugin to detect unused expressions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Zerowaste&lt;/h1&gt; &#xA;&lt;p&gt;Scala compiler plugin to detect unused expressions (non-&lt;code&gt;Unit&lt;/code&gt;).&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;In purely functional programming paradigm, all expressions are &lt;em&gt;pure&lt;/em&gt; - their evaluation does not cause side effects. Side effects are therefore expressed with an &lt;code&gt;IO&lt;/code&gt;-like type (e.g. Cats Effect &lt;code&gt;IO&lt;/code&gt;) and they only actually happen when the &lt;code&gt;IO&lt;/code&gt; is run - preferably with a single, &#34;impure&#34; invocation hidden somewhere in library code.&lt;/p&gt; &#xA;&lt;p&gt;Because of that, in pure FP it never makes sense to discard the result of an expression, e.g.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-scala&#34;&gt;val number = {&#xA;  discardedExpression // pointless!&#xA;  42&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This is a very easy mistake to make which may be the cause of very tricky bugs, e.g. when the discarded expression is an &lt;code&gt;IO&lt;/code&gt; that was supposed to do something important. The Scala compiler does not detect this mistake because Scala is not a purely functional language - it can rarely be sure that expressions are actually pure.&lt;/p&gt; &#xA;&lt;p&gt;This plugin fixes that by reporting a warning for all discarded expressions whose type is anything other than &lt;code&gt;Unit&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Enable the plugin in &lt;code&gt;build.sbt&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-scala&#34;&gt;libraryDependencies += compilerPlugin(&#34;com.github.ghik&#34; % &#34;zerowaste&#34; % &#34;&amp;lt;version&amp;gt;&#34; cross CrossVersion.full)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The plugin issues warnings, but it is often a good idea to turn them into compilation errors:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-scala&#34;&gt;scalacOptions += &#34;-Werror&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Note that such warnings, despite being converted to errors, can be still suppressed with the &lt;code&gt;@nowarn&lt;/code&gt; annotation:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-scala&#34;&gt;import scala.annotation.nowarn&#xA;&#xA;val number = {&#xA;  discardedExpression: @nowarn(&#34;msg=discarded expression&#34;)&#xA;  42&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Compatibility&lt;/h2&gt; &#xA;&lt;p&gt;Zerowaste is currently available for Scala 2.12.17+, 2.13.10+ and 3.2.1+&lt;/p&gt; &#xA;&lt;p&gt;Compiler plugins must be cross-built for every minor and patch version of Scala. If &lt;code&gt;zerowaste&lt;/code&gt; is not available for your Scala version, please file an issue or submit a PR that adds your desired Scala version to &lt;code&gt;crossScalaVersions&lt;/code&gt; in &lt;code&gt;build.sbt&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>msteindorfer/pdb.values.persistent.scala</title>
-    <updated>2022-11-23T01:39:29Z</updated>
-    <id>tag:github.com,2022-11-23:/msteindorfer/pdb.values.persistent.scala</id>
-    <link href="https://github.com/msteindorfer/pdb.values.persistent.scala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Straight forward (non-optimised) implementation of the PDB library, backed by Scala&#39;s immutable data structures.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

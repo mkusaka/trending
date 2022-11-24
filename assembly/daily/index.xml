@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:32:24Z</updated>
+  <updated>2022-11-24T01:32:33Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MaaSTaaR/539kernel</title>
-    <updated>2022-11-23T01:32:24Z</updated>
-    <id>tag:github.com,2022-11-23:/MaaSTaaR/539kernel</id>
-    <link href="https://github.com/MaaSTaaR/539kernel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;539kernel is a simple x86 32bit educational kernel which has been written especially for the book &#34;A Journey in Creating an Operating System Kernel&#34; which is available freely on &lt;https://539kernel.com&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>revmischa/learn-software-engineering</title>
-    <updated>2022-11-23T01:32:24Z</updated>
-    <id>tag:github.com,2022-11-23:/revmischa/learn-software-engineering</id>
-    <link href="https://github.com/revmischa/learn-software-engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of resources for people interested in learning more about programming&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>projectPiki/pikmin2</title>
-    <updated>2022-11-23T01:32:24Z</updated>
-    <id>tag:github.com,2022-11-23:/projectPiki/pikmin2</id>
-    <link href="https://github.com/projectPiki/pikmin2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A decompilation of Pikmin 2 (USA) brought to you by fans of the series.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ololduck/esipe-cours</title>
+    <updated>2022-11-24T01:32:33Z</updated>
+    <id>tag:github.com,2022-11-24:/ololduck/esipe-cours</id>
+    <link href="https://github.com/ololduck/esipe-cours" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Notes prises ou retranscrites depuis les cours de l&#39;ESIPE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

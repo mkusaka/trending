@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:36:25Z</updated>
+  <updated>2022-11-24T01:36:31Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>exanauts/ExaAdmm.jl</title>
-    <updated>2022-11-23T01:36:25Z</updated>
-    <id>tag:github.com,2022-11-23:/exanauts/ExaAdmm.jl</id>
-    <link href="https://github.com/exanauts/ExaAdmm.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia implementation of ADMM solver on multiple GPUs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CliMA/EnsembleKalmanProcesses.jl</title>
-    <updated>2022-11-23T01:36:25Z</updated>
-    <id>tag:github.com,2022-11-23:/CliMA/EnsembleKalmanProcesses.jl</id>
-    <link href="https://github.com/CliMA/EnsembleKalmanProcesses.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implements Optimization and approximate uncertainty quantification algorithms, Ensemble Kalman Inversion, and Ensemble Kalman Processes.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dionysos-dev/Dionysos.jl</title>
+    <updated>2022-11-24T01:36:31Z</updated>
+    <id>tag:github.com,2022-11-24:/dionysos-dev/Dionysos.jl</id>
+    <link href="https://github.com/dionysos-dev/Dionysos.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Sass Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:39:27Z</updated>
+  <updated>2022-11-24T01:39:36Z</updated>
   <subtitle>Daily Trending of Sass in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>envoy-mobile/envoy-mobile.github.io</title>
-    <updated>2022-11-23T01:39:27Z</updated>
-    <id>tag:github.com,2022-11-23:/envoy-mobile/envoy-mobile.github.io</id>
-    <link href="https://github.com/envoy-mobile/envoy-mobile.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Envoy Proxy website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

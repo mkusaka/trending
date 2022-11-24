@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:40:02Z</updated>
+  <updated>2022-11-24T01:40:12Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vikash-kumar01/mrdevops_nexus_helm_cicd_app</title>
-    <updated>2022-11-23T01:40:02Z</updated>
-    <id>tag:github.com,2022-11-23:/vikash-kumar01/mrdevops_nexus_helm_cicd_app</id>
-    <link href="https://github.com/vikash-kumar01/mrdevops_nexus_helm_cicd_app" rel="alternate"></link>
+    <title>infinispan/infinispan-helm-charts</title>
+    <updated>2022-11-24T01:40:12Z</updated>
+    <id>tag:github.com,2022-11-24:/infinispan/infinispan-helm-charts</id>
+    <link href="https://github.com/infinispan/infinispan-helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openshift-helm-charts/stage</title>
-    <updated>2022-11-23T01:40:02Z</updated>
-    <id>tag:github.com,2022-11-23:/openshift-helm-charts/stage</id>
-    <link href="https://github.com/openshift-helm-charts/stage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stage repo for OpenShift helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>giantswarm/external-dns-app</title>
+    <updated>2022-11-24T01:40:12Z</updated>
+    <id>tag:github.com,2022-11-24:/giantswarm/external-dns-app</id>
+    <link href="https://github.com/giantswarm/external-dns-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart for external-dns service running in workload clusters&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-23T01:39:26Z</updated>
+  <updated>2022-11-24T01:39:35Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kata-containers/kata-containers</title>
-    <updated>2022-11-23T01:39:26Z</updated>
-    <id>tag:github.com,2022-11-23:/kata-containers/kata-containers</id>
-    <link href="https://github.com/kata-containers/kata-containers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>erikgrinaker/toydb</title>
+    <updated>2022-11-24T01:39:35Z</updated>
+    <id>tag:github.com,2022-11-24:/erikgrinaker/toydb</id>
+    <link href="https://github.com/erikgrinaker/toydb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributed SQL database in Rust, written as a learning project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rustodon/rustodon</title>
-    <updated>2022-11-23T01:39:26Z</updated>
-    <id>tag:github.com,2022-11-23:/rustodon/rustodon</id>
-    <link href="https://github.com/rustodon/rustodon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Mastodon-compatible, ActivityPub-speaking server in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GyulyVGC/sniffnet</title>
+    <updated>2022-11-24T01:39:35Z</updated>
+    <id>tag:github.com,2022-11-24:/GyulyVGC/sniffnet</id>
+    <link href="https://github.com/GyulyVGC/sniffnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform application to monitor your network traffic with ease&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kudaes/Unwinder</title>
+    <updated>2022-11-24T01:39:35Z</updated>
+    <id>tag:github.com,2022-11-24:/Kudaes/Unwinder</id>
+    <link href="https://github.com/Kudaes/Unwinder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Another approach to thread stack spoofing.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
