@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-24T01:39:38Z</updated>
+  <updated>2022-11-25T01:36:42Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>guardian/grid</title>
+    <updated>2022-11-25T01:36:42Z</updated>
+    <id>tag:github.com,2022-11-25:/guardian/grid</id>
+    <link href="https://github.com/guardian/grid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Guardian’s image management system&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Grid&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/guardian/grid/raw/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/guardian/grid.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gitter.im/guardian/grid?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/Join%20Chat.svg?sanitize=true&#34; alt=&#34;Join the chat at https://gitter.im/guardian/grid&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Grid&lt;/strong&gt; is &lt;a href=&#34;https://www.theguardian.com/&#34;&gt;the Guardian&lt;/a&gt;’s &lt;strong&gt;image management system&lt;/strong&gt;, which provides a &lt;strong&gt;universal&lt;/strong&gt; and &lt;strong&gt;fast&lt;/strong&gt; experience accessing media that is &lt;strong&gt;organised&lt;/strong&gt; and using it in an &lt;strong&gt;affordable&lt;/strong&gt; way to produce &lt;strong&gt;high-quality&lt;/strong&gt; content.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://raw.githubusercontent.com/guardian/grid/main/docs/00-about/01-vision.md&#34;&gt;Vision&lt;/a&gt; document for more details on the core principles behind this project.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/guardian/grid/main/docs/00-about/images/screenshot-2015-07-03T11:34:43.jpg&#34; alt=&#34;Screenshot of Grid search&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Grid runs as a set of independent micro-services (&lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt; and &lt;a href=&#34;https://playframework.com/&#34;&gt;Play Framework&lt;/a&gt;) exposed as hypermedia APIs (&lt;a href=&#34;https://github.com/argo-rest/spec&#34;&gt;argo&lt;/a&gt;) and accessed using a rich Web user interface (&lt;a href=&#34;https://angularjs.org/&#34;&gt;AngularJS&lt;/a&gt;).&lt;/p&gt; &#xA;&lt;p&gt;Grid relies on &lt;a href=&#34;https://www.elastic.co/&#34;&gt;Elasticsearch&lt;/a&gt; for blazing-fast searching, and AWS services as additional storage and communication mechanisms.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://raw.githubusercontent.com/guardian/grid/main/docs&#34;&gt;docs&lt;/a&gt; for setup and running guides.&lt;/p&gt;</summary>
+  </entry>
 </feed>

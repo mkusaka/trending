@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-24T01:40:26Z</updated>
+  <updated>2022-11-25T01:37:27Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>caidukai/sms-interception</title>
+    <updated>2022-11-25T01:37:27Z</updated>
+    <id>tag:github.com,2022-11-25:/caidukai/sms-interception</id>
+    <link href="https://github.com/caidukai/sms-interception" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;拥有自己的短信拦截器&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;垃圾短信拦截器&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/caidukai/sms-interception/main/img/60x60bb.jpg&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://apps.apple.com/cn/app/%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E8%BF%87%E6%BB%A4%E5%99%A8/id1585173789&#34;&gt;下载链接&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;一个超简单的垃圾短信拦截器。让大家拥有自己的短信拦截器 使用coreml机器学习垃圾短信，让你免受骚扰。&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;直接下载xcode打开即可使用&lt;/li&gt; &#xA; &lt;li&gt;垃圾短信数据大家可以网上搜索哦，或者打开自己的手机下载QQ同步助手，将自己手机里的垃圾短信下载下来使用&lt;/li&gt; &#xA; &lt;li&gt;数据越多，机器学习越精准，拦截越好哦&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/caidukai/sms-interception/main/img/750x750bb.jpeg&#34; alt=&#34;screen&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

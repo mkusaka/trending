@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-24T01:39:35Z</updated>
+  <updated>2022-11-25T01:36:40Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>erikgrinaker/toydb</title>
-    <updated>2022-11-24T01:39:35Z</updated>
-    <id>tag:github.com,2022-11-24:/erikgrinaker/toydb</id>
-    <link href="https://github.com/erikgrinaker/toydb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Distributed SQL database in Rust, written as a learning project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>1Password/typeshare</title>
+    <updated>2022-11-25T01:36:40Z</updated>
+    <id>tag:github.com,2022-11-25:/1Password/typeshare</id>
+    <link href="https://github.com/1Password/typeshare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GyulyVGC/sniffnet</title>
-    <updated>2022-11-24T01:39:35Z</updated>
-    <id>tag:github.com,2022-11-24:/GyulyVGC/sniffnet</id>
-    <link href="https://github.com/GyulyVGC/sniffnet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform application to monitor your network traffic with ease&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>facebookexperimental/hermit</title>
+    <updated>2022-11-25T01:36:40Z</updated>
+    <id>tag:github.com,2022-11-25:/facebookexperimental/hermit</id>
+    <link href="https://github.com/facebookexperimental/hermit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hermit launches linux x86_64 programs in a special, hermetically isolated sandbox to control their execution. Hermit translates normal, nondeterministic behavior, into deterministic, repeatable behavior. This can be used for various applications, including replay-debugging, reproducible artifacts, chaos mode concurrency testing and bug analysis.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kudaes/Unwinder</title>
-    <updated>2022-11-24T01:39:35Z</updated>
-    <id>tag:github.com,2022-11-24:/Kudaes/Unwinder</id>
-    <link href="https://github.com/Kudaes/Unwinder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Another approach to thread stack spoofing.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>not-an-aardvark/lucky-commit</title>
+    <updated>2022-11-25T01:36:40Z</updated>
+    <id>tag:github.com,2022-11-25:/not-an-aardvark/lucky-commit</id>
+    <link href="https://github.com/not-an-aardvark/lucky-commit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Customize your git commit hashes!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

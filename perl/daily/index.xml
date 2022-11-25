@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-24T01:37:57Z</updated>
+  <updated>2022-11-25T01:35:15Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>molgenis/take-it-easyconfigs</title>
-    <updated>2022-11-24T01:37:57Z</updated>
-    <id>tag:github.com,2022-11-24:/molgenis/take-it-easyconfigs</id>
-    <link href="https://github.com/molgenis/take-it-easyconfigs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;take-it-easyconfigs&lt;/h1&gt;</summary>
-  </entry>
 </feed>

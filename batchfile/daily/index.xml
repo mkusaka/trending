@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-24T01:32:37Z</updated>
+  <updated>2022-11-25T01:30:15Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Akebi-Guide/Akebi-Guide.github.io</title>
-    <updated>2022-11-24T01:32:37Z</updated>
-    <id>tag:github.com,2022-11-24:/Akebi-Guide/Akebi-Guide.github.io</id>
-    <link href="https://github.com/Akebi-Guide/Akebi-Guide.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Akebi-Guide.github.io&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Data-Science1891/ngrok-rdp</title>
+    <updated>2022-11-25T01:30:15Z</updated>
+    <id>tag:github.com,2022-11-25:/Data-Science1891/ngrok-rdp</id>
+    <link href="https://github.com/Data-Science1891/ngrok-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>huyentranbg/ngrokL53doDlWFDgjhZZCu</title>
-    <updated>2022-11-24T01:32:37Z</updated>
-    <id>tag:github.com,2022-11-24:/huyentranbg/ngrokL53doDlWFDgjhZZCu</id>
-    <link href="https://github.com/huyentranbg/ngrokL53doDlWFDgjhZZCu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RDPngrokkk&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>KameKameHAa/FreeRdP</title>
-    <updated>2022-11-24T01:32:37Z</updated>
-    <id>tag:github.com,2022-11-24:/KameKameHAa/FreeRdP</id>
-    <link href="https://github.com/KameKameHAa/FreeRdP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vveg26/share</title>
+    <updated>2022-11-25T01:30:15Z</updated>
+    <id>tag:github.com,2022-11-25:/vveg26/share</id>
+    <link href="https://github.com/vveg26/share" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

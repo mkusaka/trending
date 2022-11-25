@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-24T01:31:51Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-11-25T01:29:42Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>osintbrazuca/osint-brazuca-regex</title>
-    <updated>2022-11-24T01:31:51Z</updated>
-    <id>tag:github.com,2022-11-24:/osintbrazuca/osint-brazuca-regex</id>
-    <link href="https://github.com/osintbrazuca/osint-brazuca-regex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositório criado com intuito de reunir expressões regulares dentro do contexto Brasil&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trungdq88/Awesome-Black-Friday-Cyber-Monday</title>
+    <updated>2022-11-25T01:29:42Z</updated>
+    <id>tag:github.com,2022-11-25:/trungdq88/Awesome-Black-Friday-Cyber-Monday</id>
+    <link href="https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tesseract-ocr/tessdata</title>
-    <updated>2022-11-24T01:31:51Z</updated>
-    <id>tag:github.com,2022-11-24:/tesseract-ocr/tessdata</id>
-    <link href="https://github.com/tesseract-ocr/tessdata" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Trained models with support for legacy and LSTM OCR engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HackingCost/AD_Pentest</title>
+    <updated>2022-11-25T01:29:42Z</updated>
+    <id>tag:github.com,2022-11-25:/HackingCost/AD_Pentest</id>
+    <link href="https://github.com/HackingCost/AD_Pentest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;红队|域渗透重要漏洞汇总(持续更新)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Ignitetechnologies/BurpSuite-For-Pentester</title>
-    <updated>2022-11-24T01:31:51Z</updated>
-    <id>tag:github.com,2022-11-24:/Ignitetechnologies/BurpSuite-For-Pentester</id>
-    <link href="https://github.com/Ignitetechnologies/BurpSuite-For-Pentester" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>free-educa/books</title>
+    <updated>2022-11-25T01:29:42Z</updated>
+    <id>tag:github.com,2022-11-25:/free-educa/books</id>
+    <link href="https://github.com/free-educa/books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;o armazém de livros&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
