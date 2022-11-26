@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ANTLR Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:30:06Z</updated>
+  <updated>2022-11-26T01:30:17Z</updated>
   <subtitle>Daily Trending of ANTLR in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>webgjc/sql-parser</title>
+    <updated>2022-11-26T01:30:17Z</updated>
+    <id>tag:github.com,2022-11-26:/webgjc/sql-parser</id>
+    <link href="https://github.com/webgjc/sql-parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于antlr4的sql解析，实现格式化，元数据，血源等自定义解析，包括hive&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

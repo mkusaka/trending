@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Futhark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:32:15Z</updated>
+  <updated>2022-11-26T01:32:12Z</updated>
   <subtitle>Daily Trending of Futhark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>diku-dk/dpp-e2022-pub</title>
-    <updated>2022-11-25T01:32:15Z</updated>
-    <id>tag:github.com,2022-11-25:/diku-dk/dpp-e2022-pub</id>
-    <link href="https://github.com/diku-dk/dpp-e2022-pub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data Parallel Programming, the 2022 edition&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

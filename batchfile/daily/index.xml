@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:30:15Z</updated>
+  <updated>2022-11-26T01:30:25Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Data-Science1891/ngrok-rdp</title>
-    <updated>2022-11-25T01:30:15Z</updated>
-    <id>tag:github.com,2022-11-25:/Data-Science1891/ngrok-rdp</id>
-    <link href="https://github.com/Data-Science1891/ngrok-rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vveg26/share</title>
-    <updated>2022-11-25T01:30:15Z</updated>
-    <id>tag:github.com,2022-11-25:/vveg26/share</id>
-    <link href="https://github.com/vveg26/share" rel="alternate"></link>
+    <title>montrd2022/ngrok-rdp-reupload</title>
+    <updated>2022-11-26T01:30:25Z</updated>
+    <id>tag:github.com,2022-11-26:/montrd2022/ngrok-rdp-reupload</id>
+    <link href="https://github.com/montrd2022/ngrok-rdp-reupload" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

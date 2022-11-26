@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:34:42Z</updated>
+  <updated>2022-11-26T01:35:09Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ajaypathak372/gitops-argocd</title>
+    <updated>2022-11-26T01:35:09Z</updated>
+    <id>tag:github.com,2022-11-26:/Ajaypathak372/gitops-argocd</id>
+    <link href="https://github.com/Ajaypathak372/gitops-argocd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creating GitOps (CI/CD) Workflow with GitHub Actions for Building and Pushing Docker Images and ArgoCD for deploying Helm Charts on Amazon Elastic Kubernetes Service (EKS) Cluster.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/cluster-azure</title>
+    <updated>2022-11-26T01:35:09Z</updated>
+    <id>tag:github.com,2022-11-26:/giantswarm/cluster-azure</id>
+    <link href="https://github.com/giantswarm/cluster-azure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

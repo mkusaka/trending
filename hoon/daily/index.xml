@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub hoon Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:32:52Z</updated>
+  <updated>2022-11-26T01:32:49Z</updated>
   <subtitle>Daily Trending of hoon in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sigilante/saloon</title>
-    <updated>2022-11-25T01:32:52Z</updated>
-    <id>tag:github.com,2022-11-25:/sigilante/saloon</id>
-    <link href="https://github.com/sigilante/saloon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scientific ALgorithms in hOON&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

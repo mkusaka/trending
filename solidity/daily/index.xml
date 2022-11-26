@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:37:14Z</updated>
+  <updated>2022-11-26T01:37:38Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>starkware-libs/starkex-contracts</title>
-    <updated>2022-11-25T01:37:14Z</updated>
-    <id>tag:github.com,2022-11-25:/starkware-libs/starkex-contracts</id>
-    <link href="https://github.com/starkware-libs/starkex-contracts" rel="alternate"></link>
+    <title>liangpeili/DApp-and-Smart-Contract-Practice</title>
+    <updated>2022-11-26T01:37:38Z</updated>
+    <id>tag:github.com,2022-11-26:/liangpeili/DApp-and-Smart-Contract-Practice</id>
+    <link href="https://github.com/liangpeili/DApp-and-Smart-Contract-Practice" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

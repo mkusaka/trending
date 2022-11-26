@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:31:06Z</updated>
+  <updated>2022-11-26T01:31:08Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>falsecz/squeek</title>
-    <updated>2022-11-25T01:31:06Z</updated>
-    <id>tag:github.com,2022-11-25:/falsecz/squeek</id>
-    <link href="https://github.com/falsecz/squeek" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Object notation to sql convertor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>myok12/coursera-preview-download</title>
+    <updated>2022-11-26T01:31:08Z</updated>
+    <id>tag:github.com,2022-11-26:/myok12/coursera-preview-download</id>
+    <link href="https://github.com/myok12/coursera-preview-download" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A node.js script for downloading preview videos from coursera.org&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maccman/components</title>
-    <updated>2022-11-25T01:31:06Z</updated>
-    <id>tag:github.com,2022-11-25:/maccman/components</id>
-    <link href="https://github.com/maccman/components" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rjungemann/statsd-jsonp</title>
+    <updated>2022-11-26T01:31:08Z</updated>
+    <id>tag:github.com,2022-11-26:/rjungemann/statsd-jsonp</id>
+    <link href="https://github.com/rjungemann/statsd-jsonp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allow for client-side reporting to statsd&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

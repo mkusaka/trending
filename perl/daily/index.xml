@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:35:15Z</updated>
+  <updated>2022-11-26T01:35:40Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>melo/thread--criticalsection</title>
+    <updated>2022-11-26T01:35:40Z</updated>
+    <id>tag:github.com,2022-11-26:/melo/thread--criticalsection</id>
+    <link href="https://github.com/melo/thread--criticalsection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Perl module to execute code inside a critical section&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>perlancar/perl-Log-Any-Adapter-Core-Patch-UseDataDumperPerltidy</title>
+    <updated>2022-11-26T01:35:40Z</updated>
+    <id>tag:github.com,2022-11-26:/perlancar/perl-Log-Any-Adapter-Core-Patch-UseDataDumperPerltidy</id>
+    <link href="https://github.com/perlancar/perl-Log-Any-Adapter-Core-Patch-UseDataDumperPerltidy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hmepas/method_signatures_simple_benchmarki</title>
+    <updated>2022-11-26T01:35:40Z</updated>
+    <id>tag:github.com,2022-11-26:/hmepas/method_signatures_simple_benchmarki</id>
+    <link href="https://github.com/hmepas/method_signatures_simple_benchmarki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quick test/benchmark for perl Method::Signatures::Simple package&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

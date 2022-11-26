@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gherkin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:32:19Z</updated>
+  <updated>2022-11-26T01:32:16Z</updated>
   <subtitle>Daily Trending of Gherkin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>codify-testing-01/test-case</title>
-    <updated>2022-11-25T01:32:19Z</updated>
-    <id>tag:github.com,2022-11-25:/codify-testing-01/test-case</id>
-    <link href="https://github.com/codify-testing-01/test-case" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Test cases repositories&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lvbag/BAG-API</title>
+    <updated>2022-11-26T01:32:16Z</updated>
+    <id>tag:github.com,2022-11-26:/lvbag/BAG-API</id>
+    <link href="https://github.com/lvbag/BAG-API" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Welkom op het platform waar de technische documentatie over de BAG API Individuele Bevragingen gepubliceerd wordt.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

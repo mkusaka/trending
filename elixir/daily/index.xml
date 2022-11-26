@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:31:56Z</updated>
+  <updated>2022-11-26T01:31:56Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>michalmuskala/plug_attack</title>
-    <updated>2022-11-25T01:31:56Z</updated>
-    <id>tag:github.com,2022-11-25:/michalmuskala/plug_attack</id>
-    <link href="https://github.com/michalmuskala/plug_attack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A plug building toolkit for blocking and throttling abusive requests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>keatz55/phoenix_ui</title>
+    <updated>2022-11-26T01:31:56Z</updated>
+    <id>tag:github.com,2022-11-26:/keatz55/phoenix_ui</id>
+    <link href="https://github.com/keatz55/phoenix_ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complimentary UI library for the Phoenix Framework and Phoenix LiveView.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cultureamp/microstatus</title>
-    <updated>2022-11-25T01:31:56Z</updated>
-    <id>tag:github.com,2022-11-25:/cultureamp/microstatus</id>
-    <link href="https://github.com/cultureamp/microstatus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shared Status module for all microservices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>membraneframework/membrane_raw_audio_format</title>
-    <updated>2022-11-25T01:31:56Z</updated>
-    <id>tag:github.com,2022-11-25:/membraneframework/membrane_raw_audio_format</id>
-    <link href="https://github.com/membraneframework/membrane_raw_audio_format" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Raw audio format definition for the Membrane Multimedia Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trento-project/web</title>
+    <updated>2022-11-26T01:31:56Z</updated>
+    <id>tag:github.com,2022-11-26:/trento-project/web</id>
+    <link href="https://github.com/trento-project/web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open cloud-native web console improving on the work day of SAP Applications administrators.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

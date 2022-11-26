@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:37:11Z</updated>
+  <updated>2022-11-26T01:37:36Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>timescale/helm-charts</title>
-    <updated>2022-11-25T01:37:11Z</updated>
-    <id>tag:github.com,2022-11-25:/timescale/helm-charts</id>
-    <link href="https://github.com/timescale/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configuration and Documentation to run TimescaleDB in your Kubernetes cluster&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ErikLundJensen/course-playground</title>
-    <updated>2022-11-25T01:37:11Z</updated>
-    <id>tag:github.com,2022-11-25:/ErikLundJensen/course-playground</id>
-    <link href="https://github.com/ErikLundJensen/course-playground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Playground for courses&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

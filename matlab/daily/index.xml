@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:34:35Z</updated>
+  <updated>2022-11-26T01:34:59Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>euroargodev/Coriolis-under-ice-positioning</title>
-    <updated>2022-11-25T01:34:35Z</updated>
-    <id>tag:github.com,2022-11-25:/euroargodev/Coriolis-under-ice-positioning</id>
-    <link href="https://github.com/euroargodev/Coriolis-under-ice-positioning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coriolis under-ice positioning algorithm&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

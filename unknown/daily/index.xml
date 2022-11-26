@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:29:42Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-11-26T01:29:59Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>trungdq88/Awesome-Black-Friday-Cyber-Monday</title>
-    <updated>2022-11-25T01:29:42Z</updated>
-    <id>tag:github.com,2022-11-25:/trungdq88/Awesome-Black-Friday-Cyber-Monday</id>
-    <link href="https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vitkarpov/coding-interviews-blog-archive</title>
+    <updated>2022-11-26T01:29:59Z</updated>
+    <id>tag:github.com,2022-11-26:/vitkarpov/coding-interviews-blog-archive</id>
+    <link href="https://github.com/vitkarpov/coding-interviews-blog-archive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vitkarpov.me blog archive&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HackingCost/AD_Pentest</title>
-    <updated>2022-11-25T01:29:42Z</updated>
-    <id>tag:github.com,2022-11-25:/HackingCost/AD_Pentest</id>
-    <link href="https://github.com/HackingCost/AD_Pentest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;红队|域渗透重要漏洞汇总(持续更新)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tiimgreen/github-cheat-sheet</title>
+    <updated>2022-11-26T01:29:59Z</updated>
+    <id>tag:github.com,2022-11-26:/tiimgreen/github-cheat-sheet</id>
+    <link href="https://github.com/tiimgreen/github-cheat-sheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of cool features of Git and GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>free-educa/books</title>
-    <updated>2022-11-25T01:29:42Z</updated>
-    <id>tag:github.com,2022-11-25:/free-educa/books</id>
-    <link href="https://github.com/free-educa/books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;o armazém de livros&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prakhar1989/awesome-courses</title>
+    <updated>2022-11-26T01:29:59Z</updated>
+    <id>tag:github.com,2022-11-26:/prakhar1989/awesome-courses</id>
+    <link href="https://github.com/prakhar1989/awesome-courses" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 List of awesome university courses for learning Computer Science!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

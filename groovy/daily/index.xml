@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-25T01:32:36Z</updated>
+  <updated>2022-11-26T01:32:35Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>haddajinada/IVVQ_SaveursDiciEtDailleurs</title>
-    <updated>2022-11-25T01:32:36Z</updated>
-    <id>tag:github.com,2022-11-25:/haddajinada/IVVQ_SaveursDiciEtDailleurs</id>
-    <link href="https://github.com/haddajinada/IVVQ_SaveursDiciEtDailleurs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cette application grails consiste à réaliser un site permettant aux passionnés de cuisine d’échanger des recettes et astuces culinaires provenant des quatre coins du globle.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
