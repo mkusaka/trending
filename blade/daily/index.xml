@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:30:28Z</updated>
+  <updated>2022-11-27T01:31:51Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JulianPrieber/littlelink-custom</title>
-    <updated>2022-11-26T01:30:28Z</updated>
-    <id>tag:github.com,2022-11-26:/JulianPrieber/littlelink-custom</id>
-    <link href="https://github.com/JulianPrieber/littlelink-custom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LittleLink Custom allows you to create a personal profile page. Many social media platforms only allow for one link. With this, you can have all the links you want clickable on one site. Set up your personal site on your own server in a few clicks.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:37:07Z</updated>
+  <updated>2022-11-27T01:39:48Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MirrorX-Desktop/MirrorX</title>
-    <updated>2022-11-26T01:37:07Z</updated>
-    <id>tag:github.com,2022-11-26:/MirrorX-Desktop/MirrorX</id>
-    <link href="https://github.com/MirrorX-Desktop/MirrorX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Secure, Fast and Light remote desktop &amp; file manager tool powered by Tauri and egui.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starkware-libs/cairo</title>
+    <updated>2022-11-27T01:39:48Z</updated>
+    <id>tag:github.com,2022-11-27:/starkware-libs/cairo</id>
+    <link href="https://github.com/starkware-libs/cairo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cairo is the first Turing-complete language for creating provable programs for general computation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mttaggart/OffensiveNotion</title>
-    <updated>2022-11-26T01:37:07Z</updated>
-    <id>tag:github.com,2022-11-26:/mttaggart/OffensiveNotion</id>
-    <link href="https://github.com/mttaggart/OffensiveNotion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notion as a platform for offensive operations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DioxusLabs/taffy</title>
+    <updated>2022-11-27T01:39:48Z</updated>
+    <id>tag:github.com,2022-11-27:/DioxusLabs/taffy</id>
+    <link href="https://github.com/DioxusLabs/taffy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A high performance Rust-powered layout library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

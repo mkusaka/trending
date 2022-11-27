@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:37:19Z</updated>
+  <updated>2022-11-27T01:39:59Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CodelyTV/cra-template-codely</title>
-    <updated>2022-11-26T01:37:19Z</updated>
-    <id>tag:github.com,2022-11-26:/CodelyTV/cra-template-codely</id>
-    <link href="https://github.com/CodelyTV/cra-template-codely" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;🌱⚛️&gt; Create React App Codely template&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tecg-dcc/js-tp-password</title>
-    <updated>2022-11-26T01:37:19Z</updated>
-    <id>tag:github.com,2022-11-26:/tecg-dcc/js-tp-password</id>
-    <link href="https://github.com/tecg-dcc/js-tp-password" rel="alternate"></link>
+    <title>koldovsky/starter</title>
+    <updated>2022-11-27T01:39:59Z</updated>
+    <id>tag:github.com,2022-11-27:/koldovsky/starter</id>
+    <link href="https://github.com/koldovsky/starter" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

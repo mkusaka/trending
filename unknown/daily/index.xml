@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:29:59Z</updated>
+  <updated>2022-11-27T01:30:53Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vitkarpov/coding-interviews-blog-archive</title>
-    <updated>2022-11-26T01:29:59Z</updated>
-    <id>tag:github.com,2022-11-26:/vitkarpov/coding-interviews-blog-archive</id>
-    <link href="https://github.com/vitkarpov/coding-interviews-blog-archive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vitkarpov.me blog archive&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seebye/ueberzug</title>
+    <updated>2022-11-27T01:30:53Z</updated>
+    <id>tag:github.com,2022-11-27:/seebye/ueberzug</id>
+    <link href="https://github.com/seebye/ueberzug" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tiimgreen/github-cheat-sheet</title>
-    <updated>2022-11-26T01:29:59Z</updated>
-    <id>tag:github.com,2022-11-26:/tiimgreen/github-cheat-sheet</id>
-    <link href="https://github.com/tiimgreen/github-cheat-sheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of cool features of Git and GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prakhar1989/awesome-courses</title>
-    <updated>2022-11-26T01:29:59Z</updated>
-    <id>tag:github.com,2022-11-26:/prakhar1989/awesome-courses</id>
-    <link href="https://github.com/prakhar1989/awesome-courses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 List of awesome university courses for learning Computer Science!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kamranahmedse/design-patterns-for-humans</title>
+    <updated>2022-11-27T01:30:53Z</updated>
+    <id>tag:github.com,2022-11-27:/kamranahmedse/design-patterns-for-humans</id>
+    <link href="https://github.com/kamranahmedse/design-patterns-for-humans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An ultra-simplified explanation to design patterns&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

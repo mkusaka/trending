@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-27T01:42:23Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>videolan/x265</title>
+    <updated>2022-11-27T01:42:23Z</updated>
+    <id>tag:github.com,2022-11-27:/videolan/x265</id>
+    <link href="https://github.com/videolan/x265" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://bitbucket.org/multicoreware/x265/ git mirror&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nofxx/mcu_scaffold</title>
+    <updated>2022-11-27T01:42:23Z</updated>
+    <id>tag:github.com,2022-11-27:/nofxx/mcu_scaffold</id>
+    <link href="https://github.com/nofxx/mcu_scaffold" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rake scaffolds for chipsets: ARM/AVR/ESP...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>intel/isa-l_crypto</title>
+    <updated>2022-11-27T01:42:23Z</updated>
+    <id>tag:github.com,2022-11-27:/intel/isa-l_crypto</id>
+    <link href="https://github.com/intel/isa-l_crypto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:30:25Z</updated>
+  <updated>2022-11-27T01:31:49Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>montrd2022/ngrok-rdp-reupload</title>
-    <updated>2022-11-26T01:30:25Z</updated>
-    <id>tag:github.com,2022-11-26:/montrd2022/ngrok-rdp-reupload</id>
-    <link href="https://github.com/montrd2022/ngrok-rdp-reupload" rel="alternate"></link>
+    <title>vaimpierritik/windows-RDP</title>
+    <updated>2022-11-27T01:31:49Z</updated>
+    <id>tag:github.com,2022-11-27:/vaimpierritik/windows-RDP</id>
+    <link href="https://github.com/vaimpierritik/windows-RDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>conda-forge/perl-math-random-mt-auto-feedstock</title>
+    <updated>2022-11-27T01:31:49Z</updated>
+    <id>tag:github.com,2022-11-27:/conda-forge/perl-math-random-mt-auto-feedstock</id>
+    <link href="https://github.com/conda-forge/perl-math-random-mt-auto-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for perl-math-random-mt-auto.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>conda-forge/perl-exception-class-feedstock</title>
+    <updated>2022-11-27T01:31:49Z</updated>
+    <id>tag:github.com,2022-11-27:/conda-forge/perl-exception-class-feedstock</id>
+    <link href="https://github.com/conda-forge/perl-exception-class-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for perl-exception-class.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:38:25Z</updated>
+  <updated>2022-11-27T01:41:31Z</updated>
   <subtitle>Daily Trending of VBA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>itm4n/VBA-RunPE</title>
-    <updated>2022-11-26T01:38:25Z</updated>
-    <id>tag:github.com,2022-11-26:/itm4n/VBA-RunPE</id>
-    <link href="https://github.com/itm4n/VBA-RunPE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A VBA implementation of the RunPE technique or how to bypass application whitelisting.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

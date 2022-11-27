@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-27T01:43:19Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EVerest/everest-cmake</title>
+    <updated>2022-11-27T01:43:19Z</updated>
+    <id>tag:github.com,2022-11-27:/EVerest/everest-cmake</id>
+    <link href="https://github.com/EVerest/everest-cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CMake utility scripts for everest&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethz-asl/benchmark_catkin</title>
+    <updated>2022-11-27T01:43:19Z</updated>
+    <id>tag:github.com,2022-11-27:/ethz-asl/benchmark_catkin</id>
+    <link href="https://github.com/ethz-asl/benchmark_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catkin wrapper for the Google benchmark library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethz-asl/maplab_msgs</title>
+    <updated>2022-11-27T01:43:19Z</updated>
+    <id>tag:github.com,2022-11-27:/ethz-asl/maplab_msgs</id>
+    <link href="https://github.com/ethz-asl/maplab_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom ROS messages for maplab&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

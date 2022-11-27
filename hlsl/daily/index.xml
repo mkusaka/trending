@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:32:43Z</updated>
+  <updated>2022-11-27T01:34:58Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>UnityTechnologies/URP-Defender-Character-Demo</title>
+    <updated>2022-11-27T01:34:58Z</updated>
+    <id>tag:github.com,2022-11-27:/UnityTechnologies/URP-Defender-Character-Demo</id>
+    <link href="https://github.com/UnityTechnologies/URP-Defender-Character-Demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TressFX Hair plugin (Beta), Character Package, and Hairstyles assets for Universal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

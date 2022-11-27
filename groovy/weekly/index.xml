@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-27T01:45:09Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kousen/holygrails</title>
+    <updated>2022-11-27T01:45:09Z</updated>
+    <id>tag:github.com,2022-11-27:/kousen/holygrails</id>
+    <link href="https://github.com/kousen/holygrails" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grails sample application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>saurabhksingh/DSLs</title>
+    <updated>2022-11-27T01:45:09Z</updated>
+    <id>tag:github.com,2022-11-27:/saurabhksingh/DSLs</id>
+    <link href="https://github.com/saurabhksingh/DSLs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NetherlandsMetabolomicsCentre/metabolomicsModule</title>
+    <updated>2022-11-27T01:45:09Z</updated>
+    <id>tag:github.com,2022-11-27:/NetherlandsMetabolomicsCentre/metabolomicsModule</id>
+    <link href="https://github.com/NetherlandsMetabolomicsCentre/metabolomicsModule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an automated mirror of PhenotypeFoundation/metabolomicsModule&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:31:36Z</updated>
+  <updated>2022-11-27T01:33:28Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lucasw/ros_from_src</title>
-    <updated>2022-11-26T01:31:36Z</updated>
-    <id>tag:github.com,2022-11-26:/lucasw/ros_from_src</id>
-    <link href="https://github.com/lucasw/ros_from_src" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build ros from source without using a PPA in a github action. Probably just copy what archlinux is doing.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ros_from_src&lt;/h1&gt; &#xA;&lt;p&gt;Build ros from source without using a PPA (or even the debian ros packages):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone git@github.com:lucasw/ros_from_src.git&#xA;mkdir build&#xA;cd build&#xA;ROSCONSOLE=https://github.com/ros/rosconsole ../ros_from_src/git_clone.sh&#xA;# (take look at this script before running as sudo)&#xA;sudo ../ros_from_src/dependencies.sh&#xA;../ros_from_src/build.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The above should be similar to what is in the github action: .github/workflows/ubuntu_20_04.yaml&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;export ROS_BUILD_DIR=$HOME/own/build/ros_from_src  # or whatever&#xA;export CMAKE_PREFIX_PATH=$CMAKE_PREFIX_PATH:$ROS_BUILD_DIR/ros/lib/cmake&#xA;# make this python3.8 if python --version shows that to be your version&#xA;export PYTHONPATH=$PYTHONPATH:$ROS_BUILD_DIR/ros/lib/python3.9/site-packages/&#xA;# source $ROS_BUILD_DIR/ros/setup.bash&#xA;source $ROS_BUILD_DIR/catkin_ws/devel/setup.bash&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To build with docker and another ubuntu version:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker build --build-arg IMAGE=ubuntu:21.10 --build-arg ROSCONSOLE=https://github.com/ros/rosconsole --build-arg PYTHON_MINOR_VERSION=9 . -t ros2110&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Build with default Ubuntu 22.04 version:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker build . -t ros2204&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>Jianyuann/docker-xray</title>
+    <updated>2022-11-27T01:33:28Z</updated>
+    <id>tag:github.com,2022-11-27:/Jianyuann/docker-xray</id>
+    <link href="https://github.com/Jianyuann/docker-xray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;span&gt;🐳&lt;/span&gt; Dockerfiles for &lt;a href=&#34;https://github.com/XTLS/Xray-core&#34;&gt;Xray&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;based on &lt;a href=&#34;https://github.com/teddysun/across/tree/master/docker/xray&#34;&gt;xray/docker&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;可以部署在mogenius.io上。经过一段时间的测试发现速度特别慢，不稳定，莫名其妙重启，重启后会生成新的UUID，鉴于此建议UUID写死。&lt;/p&gt; &#xA;&lt;p&gt;另外v2ray + vmess在mo1.mogenius.io上相对稳定很多，运行半个月并未发现有重启的问题。&lt;/p&gt; &#xA;&lt;p&gt;可根据以上两点做修改，提高可用性。&lt;/p&gt;</summary>
   </entry>
 </feed>

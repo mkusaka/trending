@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-27T01:48:07Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mirage/irmin</title>
+    <updated>2022-11-27T01:48:07Z</updated>
+    <id>tag:github.com,2022-11-27:/mirage/irmin</id>
+    <link href="https://github.com/mirage/irmin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Irmin is a distributed database that follows the same design principles as Git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

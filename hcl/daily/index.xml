@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:32:46Z</updated>
+  <updated>2022-11-27T01:35:00Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PearlThoughts-Platform/SnipeIT-IAC</title>
-    <updated>2022-11-26T01:32:46Z</updated>
-    <id>tag:github.com,2022-11-26:/PearlThoughts-Platform/SnipeIT-IAC</id>
-    <link href="https://github.com/PearlThoughts-Platform/SnipeIT-IAC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>100daysofdevops/100daysofdevops</title>
-    <updated>2022-11-26T01:32:46Z</updated>
-    <id>tag:github.com,2022-11-26:/100daysofdevops/100daysofdevops</id>
-    <link href="https://github.com/100daysofdevops/100daysofdevops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HXSecurity/TerraformGoat</title>
-    <updated>2022-11-26T01:32:46Z</updated>
-    <id>tag:github.com,2022-11-26:/HXSecurity/TerraformGoat</id>
-    <link href="https://github.com/HXSecurity/TerraformGoat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TerraformGoat is HXSecurity research lab&#39;s &#34;Vulnerable by Design&#34; multi cloud deployment tool.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sighupio/fury-kubernetes-dr</title>
+    <updated>2022-11-27T01:35:00Z</updated>
+    <id>tag:github.com,2022-11-27:/sighupio/fury-kubernetes-dr</id>
+    <link href="https://github.com/sighupio/fury-kubernetes-dr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kubernetes Fury Distribution Disaster Recovery Core Module: backups and disaster recovery for your Kubernetes Cluster&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

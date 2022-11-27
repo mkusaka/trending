@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-27T01:43:21Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>falsecz/squeek</title>
+    <updated>2022-11-27T01:43:21Z</updated>
+    <id>tag:github.com,2022-11-27:/falsecz/squeek</id>
+    <link href="https://github.com/falsecz/squeek" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Object notation to sql convertor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>whats-up/favreader</title>
+    <updated>2022-11-27T01:43:21Z</updated>
+    <id>tag:github.com,2022-11-27:/whats-up/favreader</id>
+    <link href="https://github.com/whats-up/favreader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;fav-reader&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mportiz08/psio</title>
+    <updated>2022-11-27T01:43:21Z</updated>
+    <id>tag:github.com,2022-11-27:/mportiz08/psio</id>
+    <link href="https://github.com/mportiz08/psio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a web based process monitor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

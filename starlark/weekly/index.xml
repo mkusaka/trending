@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-27T01:51:08Z</updated>
+  <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apache/skywalking-data-collect-protocol</title>
+    <updated>2022-11-27T01:51:08Z</updated>
+    <id>tag:github.com,2022-11-27:/apache/skywalking-data-collect-protocol</id>
+    <link href="https://github.com/apache/skywalking-data-collect-protocol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data Collect Protocols of Apache SkyWalking&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

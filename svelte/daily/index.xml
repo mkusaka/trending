@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:37:44Z</updated>
+  <updated>2022-11-27T01:40:27Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>skshahriarahmedraka/GameStation</title>
-    <updated>2022-11-26T01:37:44Z</updated>
-    <id>tag:github.com,2022-11-26:/skshahriarahmedraka/GameStation</id>
-    <link href="https://github.com/skshahriarahmedraka/GameStation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Epic Game Store clone build using Golang &amp; Sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stephane-vanraes/sveltekit-sanity-starter</title>
+    <updated>2022-11-27T01:40:27Z</updated>
+    <id>tag:github.com,2022-11-27:/stephane-vanraes/sveltekit-sanity-starter</id>
+    <link href="https://github.com/stephane-vanraes/sveltekit-sanity-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

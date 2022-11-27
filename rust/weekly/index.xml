@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-27T01:50:25Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>facebook/sapling</title>
+    <updated>2022-11-27T01:50:25Z</updated>
+    <id>tag:github.com,2022-11-27:/facebook/sapling</id>
+    <link href="https://github.com/facebook/sapling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Scalable, User-Friendly Source Control System.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GreptimeTeam/greptimedb</title>
+    <updated>2022-11-27T01:50:25Z</updated>
+    <id>tag:github.com,2022-11-27:/GreptimeTeam/greptimedb</id>
+    <link href="https://github.com/GreptimeTeam/greptimedb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GreptimeDB, an open-source, cloud-native, distributed time-series database.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gbj/leptos</title>
+    <updated>2022-11-27T01:50:25Z</updated>
+    <id>tag:github.com,2022-11-27:/gbj/leptos</id>
+    <link href="https://github.com/gbj/leptos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build fast web applications with Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

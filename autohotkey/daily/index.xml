@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:30:22Z</updated>
+  <updated>2022-11-27T01:31:45Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rcmdnk/vim_ahk</title>
+    <updated>2022-11-27T01:31:45Z</updated>
+    <id>tag:github.com,2022-11-27:/rcmdnk/vim_ahk</id>
+    <link href="https://github.com/rcmdnk/vim_ahk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Setting file to emulate vim with AutoHotkey&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-26T01:31:56Z</updated>
+  <updated>2022-11-27T01:33:41Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>keatz55/phoenix_ui</title>
-    <updated>2022-11-26T01:31:56Z</updated>
-    <id>tag:github.com,2022-11-26:/keatz55/phoenix_ui</id>
-    <link href="https://github.com/keatz55/phoenix_ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A complimentary UI library for the Phoenix Framework and Phoenix LiveView.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>trento-project/web</title>
-    <updated>2022-11-26T01:31:56Z</updated>
-    <id>tag:github.com,2022-11-26:/trento-project/web</id>
-    <link href="https://github.com/trento-project/web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open cloud-native web console improving on the work day of SAP Applications administrators.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pawurb/ecto_psql_extras</title>
+    <updated>2022-11-27T01:33:41Z</updated>
+    <id>tag:github.com,2022-11-27:/pawurb/ecto_psql_extras</id>
+    <link href="https://github.com/pawurb/ecto_psql_extras" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ecto PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

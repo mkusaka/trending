@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-11-27T01:49:07Z</updated>
+  <subtitle>Weekly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-foreign</title>
+    <updated>2022-11-27T01:49:07Z</updated>
+    <id>tag:github.com,2022-11-27:/purescript/purescript-foreign</id>
+    <link href="https://github.com/purescript/purescript-foreign" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for dealing with foreign data (JavaScript objects) in PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-const</title>
+    <updated>2022-11-27T01:49:07Z</updated>
+    <id>tag:github.com,2022-11-27:/purescript/purescript-const</id>
+    <link href="https://github.com/purescript/purescript-const" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Const data type and typeclass instances&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-identity</title>
+    <updated>2022-11-27T01:49:07Z</updated>
+    <id>tag:github.com,2022-11-27:/purescript/purescript-identity</id>
+    <link href="https://github.com/purescript/purescript-identity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Identity value&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
