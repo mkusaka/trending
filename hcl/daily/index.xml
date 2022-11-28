@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:35:00Z</updated>
+  <updated>2022-11-28T01:33:21Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sighupio/fury-kubernetes-dr</title>
-    <updated>2022-11-27T01:35:00Z</updated>
-    <id>tag:github.com,2022-11-27:/sighupio/fury-kubernetes-dr</id>
-    <link href="https://github.com/sighupio/fury-kubernetes-dr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes Fury Distribution Disaster Recovery Core Module: backups and disaster recovery for your Kubernetes Cluster&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>int128/terraform-aws-nat-instance</title>
+    <updated>2022-11-28T01:33:21Z</updated>
+    <id>tag:github.com,2022-11-28:/int128/terraform-aws-nat-instance</id>
+    <link href="https://github.com/int128/terraform-aws-nat-instance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision a NAT Instance using an Auto Scaling Group and Spot Instance from $1/month&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>anshulc55/terraform</title>
+    <updated>2022-11-28T01:33:21Z</updated>
+    <id>tag:github.com,2022-11-28:/anshulc55/terraform</id>
+    <link href="https://github.com/anshulc55/terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform code files and resources&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AviatrixSystems/ace-iac-day-zero</title>
+    <updated>2022-11-28T01:33:21Z</updated>
+    <id>tag:github.com,2022-11-28:/AviatrixSystems/ace-iac-day-zero</id>
+    <link href="https://github.com/AviatrixSystems/ace-iac-day-zero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

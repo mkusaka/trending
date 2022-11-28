@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:41:39Z</updated>
+  <updated>2022-11-28T01:39:09Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lyt-Top/vue-next-admin</title>
-    <updated>2022-11-27T01:41:39Z</updated>
-    <id>tag:github.com,2022-11-27:/lyt-Top/vue-next-admin</id>
-    <link href="https://github.com/lyt-Top/vue-next-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>biubiubiu01/vue3-bigData</title>
-    <updated>2022-11-27T01:41:39Z</updated>
-    <id>tag:github.com,2022-11-27:/biubiubiu01/vue3-bigData</id>
-    <link href="https://github.com/biubiubiu01/vue3-bigData" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个基于vue3.0的大数据分析系统，包含各种echarts和vue3.0新API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>btnguyen2k/govueadmin.g8</title>
-    <updated>2022-11-27T01:41:39Z</updated>
-    <id>tag:github.com,2022-11-27:/btnguyen2k/govueadmin.g8</id>
-    <link href="https://github.com/btnguyen2k/govueadmin.g8" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AdminCP Giter8 template for GoLang with VueJS-based frontend&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YangMr/edu-app</title>
+    <updated>2022-11-28T01:39:09Z</updated>
+    <id>tag:github.com,2022-11-28:/YangMr/edu-app</id>
+    <link href="https://github.com/YangMr/edu-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;积云在线教育APP&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

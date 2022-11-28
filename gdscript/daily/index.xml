@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:34:10Z</updated>
+  <updated>2022-11-28T01:32:33Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220-F22/Exercise-06d-3D-Particles-Animation</title>
-    <updated>2022-11-27T01:34:10Z</updated>
-    <id>tag:github.com,2022-11-27:/BL-MSCH-C220-F22/Exercise-06d-3D-Particles-Animation</id>
-    <link href="https://github.com/BL-MSCH-C220-F22/Exercise-06d-3D-Particles-Animation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MikeSchulze/gdUnit4</title>
+    <updated>2022-11-28T01:32:33Z</updated>
+    <id>tag:github.com,2022-11-28:/MikeSchulze/gdUnit4</id>
+    <link href="https://github.com/MikeSchulze/gdUnit4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot Unit Test Framework. Support for GDScript and C# unit testing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

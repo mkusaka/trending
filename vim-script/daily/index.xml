@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:41:35Z</updated>
+  <updated>2022-11-28T01:39:06Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>regnerjr/DotFiles</title>
-    <updated>2022-11-27T01:41:35Z</updated>
-    <id>tag:github.com,2022-11-27:/regnerjr/DotFiles</id>
-    <link href="https://github.com/regnerjr/DotFiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manages all my hidden files.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pangloss/vim-javascript</title>
+    <updated>2022-11-28T01:39:06Z</updated>
+    <id>tag:github.com,2022-11-28:/pangloss/vim-javascript</id>
+    <link href="https://github.com/pangloss/vim-javascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vastly improved Javascript indentation and syntax support in Vim.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vim-scripts/git-log</title>
-    <updated>2022-11-27T01:41:35Z</updated>
-    <id>tag:github.com,2022-11-27:/vim-scripts/git-log</id>
-    <link href="https://github.com/vim-scripts/git-log" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Git Log and History diff tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jalvesaq/R-Vim-runtime</title>
+    <updated>2022-11-28T01:39:06Z</updated>
+    <id>tag:github.com,2022-11-28:/jalvesaq/R-Vim-runtime</id>
+    <link href="https://github.com/jalvesaq/R-Vim-runtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim runtime scripts of file types that include R code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

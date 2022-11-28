@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:34:03Z</updated>
+  <updated>2022-11-28T01:32:25Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fsharp-mobile/Fabulous.Maui</title>
+    <updated>2022-11-28T01:32:25Z</updated>
+    <id>tag:github.com,2022-11-28:/fsharp-mobile/Fabulous.Maui</id>
+    <link href="https://github.com/fsharp-mobile/Fabulous.Maui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fabulous.Maui&lt;/h1&gt; &#xA;&lt;p&gt;Work in progress - Supporting Microsoft.Maui.Core with Fabulous&lt;/p&gt; &#xA;&lt;p&gt;The goal is to avoid depending on Microsoft.Maui.Controls (which is using MVVM-specific constructs) and directly plug into the new control interfaces to be closer to the core of Maui and potentially get better perf.&lt;/p&gt;</summary>
+  </entry>
 </feed>

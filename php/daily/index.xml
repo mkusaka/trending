@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:38:21Z</updated>
+  <updated>2022-11-28T01:36:18Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>symfony/http-kernel</title>
-    <updated>2022-11-27T01:38:21Z</updated>
-    <id>tag:github.com,2022-11-27:/symfony/http-kernel</id>
-    <link href="https://github.com/symfony/http-kernel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The HttpKernel component provides a structured process for converting a Request into a Response.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HttpKernel Component&lt;/h1&gt; &#xA;&lt;p&gt;The HttpKernel component provides a structured process for converting a Request into a Response by making use of the EventDispatcher component. It&#39;s flexible enough to create full-stack frameworks, micro-frameworks or advanced CMS systems like Drupal.&lt;/p&gt; &#xA;&lt;h2&gt;Resources&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://symfony.com/doc/current/components/http_kernel.html&#34;&gt;Documentation&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://symfony.com/doc/current/contributing/index.html&#34;&gt;Contributing&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/symfony/symfony/issues&#34;&gt;Report issues&lt;/a&gt; and &lt;a href=&#34;https://github.com/symfony/symfony/pulls&#34;&gt;send Pull Requests&lt;/a&gt; in the &lt;a href=&#34;https://github.com/symfony/symfony&#34;&gt;main Symfony repository&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:39:51Z</updated>
+  <updated>2022-11-28T01:37:29Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sbuslab/persistent-stash</title>
-    <updated>2022-11-27T01:39:51Z</updated>
-    <id>tag:github.com,2022-11-27:/sbuslab/persistent-stash</id>
-    <link href="https://github.com/sbuslab/persistent-stash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;persistent-stash&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/sbuslab/persistent-stash&#34;&gt;&lt;img src=&#34;https://travis-ci.org/sbuslab/persistent-stash.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

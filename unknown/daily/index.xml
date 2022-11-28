@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:30:53Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-11-28T01:29:57Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seebye/ueberzug</title>
-    <updated>2022-11-27T01:30:53Z</updated>
-    <id>tag:github.com,2022-11-27:/seebye/ueberzug</id>
-    <link href="https://github.com/seebye/ueberzug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>checkcheckzz/system-design-interview</title>
+    <updated>2022-11-28T01:29:57Z</updated>
+    <id>tag:github.com,2022-11-28:/checkcheckzz/system-design-interview</id>
+    <link href="https://github.com/checkcheckzz/system-design-interview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;System design interview for IT companies&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kamranahmedse/design-patterns-for-humans</title>
-    <updated>2022-11-27T01:30:53Z</updated>
-    <id>tag:github.com,2022-11-27:/kamranahmedse/design-patterns-for-humans</id>
-    <link href="https://github.com/kamranahmedse/design-patterns-for-humans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ultra-simplified explanation to design patterns&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xsyr0/Awesome-Cybersecurity-Handbooks</title>
+    <updated>2022-11-28T01:29:57Z</updated>
+    <id>tag:github.com,2022-11-28:/0xsyr0/Awesome-Cybersecurity-Handbooks</id>
+    <link href="https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Delcos/Hentai-Diffusion</title>
+    <updated>2022-11-28T01:29:57Z</updated>
+    <id>tag:github.com,2022-11-28:/Delcos/Hentai-Diffusion</id>
+    <link href="https://github.com/Delcos/Hentai-Diffusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official place for the best A.I.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

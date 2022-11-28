@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-27T01:37:29Z</updated>
+  <updated>2022-11-28T01:35:29Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>triggermesh/docs</title>
-    <updated>2022-11-27T01:37:29Z</updated>
-    <id>tag:github.com,2022-11-27:/triggermesh/docs</id>
-    <link href="https://github.com/triggermesh/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for https://github.com/triggermesh/triggermesh&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PiMaker/rvc</title>
-    <updated>2022-11-27T01:37:29Z</updated>
-    <id>tag:github.com,2022-11-27:/PiMaker/rvc</id>
-    <link href="https://github.com/PiMaker/rvc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A 32-bit RISC-V emulator in a shader (and C)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kkipngenokoech/curated-projects</title>
+    <updated>2022-11-28T01:35:29Z</updated>
+    <id>tag:github.com,2022-11-28:/kkipngenokoech/curated-projects</id>
+    <link href="https://github.com/kkipngenokoech/curated-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a collection of simple and advanced projects for various languages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
