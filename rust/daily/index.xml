@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-28T01:37:26Z</updated>
+  <updated>2022-11-29T01:36:04Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>quinn-rs/quinn</title>
+    <updated>2022-11-29T01:36:04Z</updated>
+    <id>tag:github.com,2022-11-29:/quinn-rs/quinn</id>
+    <link href="https://github.com/quinn-rs/quinn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Async-friendly QUIC implementation in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hachyserve/rustypub</title>
+    <updated>2022-11-29T01:36:04Z</updated>
+    <id>tag:github.com,2022-11-29:/hachyserve/rustypub</id>
+    <link href="https://github.com/hachyserve/rustypub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0xhiro/amongrust</title>
+    <updated>2022-11-29T01:36:04Z</updated>
+    <id>tag:github.com,2022-11-29:/0xhiro/amongrust</id>
+    <link href="https://github.com/0xhiro/amongrust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reveal the imposters hiding in your sus code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

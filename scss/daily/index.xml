@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-28T01:37:38Z</updated>
+  <updated>2022-11-29T01:36:13Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>benbrignell/principles.design</title>
+    <updated>2022-11-29T01:36:13Z</updated>
+    <id>tag:github.com,2022-11-29:/benbrignell/principles.design</id>
+    <link href="https://github.com/benbrignell/principles.design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An open source collection of design principles and methods.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

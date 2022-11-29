@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-28T01:31:19Z</updated>
+  <updated>2022-11-29T01:30:52Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>moelzanaty3/react-18-workshop</title>
+    <updated>2022-11-29T01:30:52Z</updated>
+    <id>tag:github.com,2022-11-29:/moelzanaty3/react-18-workshop</id>
+    <link href="https://github.com/moelzanaty3/react-18-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vinceliuice/Lavanda-gtk-theme</title>
+    <updated>2022-11-29T01:30:52Z</updated>
+    <id>tag:github.com,2022-11-29:/vinceliuice/Lavanda-gtk-theme</id>
+    <link href="https://github.com/vinceliuice/Lavanda-gtk-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lavanda gtk theme for linux desktops&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Lavanda gtk theme&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/vinceliuice/Lavanda-gtk-theme/main/screenshot.png?raw=true&#34; alt=&#34;Lavanda&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;GTK &lt;code&gt;&amp;gt;=3.20&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;code&gt;gnome-themes-extra&lt;/code&gt; (or &lt;code&gt;gnome-themes-standard&lt;/code&gt;)&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Murrine engine — The package name depends on the distro.&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;code&gt;gtk-engine-murrine&lt;/code&gt; on Arch Linux&lt;/li&gt; &#xA;   &lt;li&gt;&lt;code&gt;gtk-murrine-engine&lt;/code&gt; on Fedora&lt;/li&gt; &#xA;   &lt;li&gt;&lt;code&gt;gtk2-engine-murrine&lt;/code&gt; on openSUSE&lt;/li&gt; &#xA;   &lt;li&gt;&lt;code&gt;gtk2-engines-murrine&lt;/code&gt; on Debian, Ubuntu, etc.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;code&gt;sassc&lt;/code&gt; — build dependency&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;code&gt;Icon theme&lt;/code&gt; &lt;a href=&#34;https://github.com/vinceliuice/Colloid-icon-theme&#34;&gt;Colloid&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;code&gt;Wallpaper&lt;/code&gt; &lt;a href=&#34;https://raw.githubusercontent.com/vinceliuice/Lavanda-gtk-theme/main/src/other/wallpaper/&#34;&gt;Download here&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;h3&gt;Manual Installation&lt;/h3&gt; &#xA;&lt;p&gt;Run the following commands in the terminal:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;./install.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Tip: &lt;code&gt;./install.sh&lt;/code&gt; allows the following options:&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;pre&gt;&lt;code&gt;-d, --dest DIR          Specify destination directory (Default: ~/.themes)&#xA;-n, --name NAME         Specify theme name (Default: Lavanda)&#xA;-c, --color VARIANT...  Specify color variant(s) [standard|light|dark] (Default: All variants)&#xA;-s, --size VARIANT...   Specify size variant [standard|compact] (Default: standard variant)&#xA;&#xA;-l, --libadwaita        Link installed gtk-4.0 theme to config folder for all libadwaita app use this theme&#xA;&#xA;-r, --remove,&#xA;-u, --uninstall         Uninstall/Remove installed themes or links&#xA;&#xA;-h, --help              Show help&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;For more information, run: &lt;code&gt;./install.sh --help&lt;/code&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h3&gt;Flatpak Installation&lt;/h3&gt; &#xA;&lt;p&gt;Automatically install your host GTK+ theme as a Flatpak. Use this:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/refi64/pakitheme&#34;&gt;pakitheme&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

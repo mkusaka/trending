@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-28T01:38:12Z</updated>
+  <updated>2022-11-29T01:36:38Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sbsev/site</title>
-    <updated>2022-11-28T01:38:12Z</updated>
-    <id>tag:github.com,2022-11-28:/sbsev/site</id>
-    <link href="https://github.com/sbsev/site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Homepage of the German student-run non-profit initiative Studenten bilden Schüler e.V.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ekzhang/dispict</title>
-    <updated>2022-11-28T01:38:12Z</updated>
-    <id>tag:github.com,2022-11-28:/ekzhang/dispict</id>
-    <link href="https://github.com/ekzhang/dispict" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Design a growing artistic exhibit of your own making, with semantic search powered by OpenAI CLIP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>staab/coracle</title>
+    <updated>2022-11-29T01:36:38Z</updated>
+    <id>tag:github.com,2022-11-29:/staab/coracle</id>
+    <link href="https://github.com/staab/coracle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A nostr web client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-28T01:36:18Z</updated>
+  <updated>2022-11-29T01:35:01Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>symfony/process</title>
+    <updated>2022-11-29T01:35:01Z</updated>
+    <id>tag:github.com,2022-11-29:/symfony/process</id>
+    <link href="https://github.com/symfony/process" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Process component executes commands in sub-processes.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Process Component&lt;/h1&gt; &#xA;&lt;p&gt;The Process component executes commands in sub-processes.&lt;/p&gt; &#xA;&lt;h2&gt;Sponsor&lt;/h2&gt; &#xA;&lt;p&gt;The Process component for Symfony 6.1 is &lt;a href=&#34;https://symfony.com/backers&#34;&gt;backed&lt;/a&gt; by &lt;a href=&#34;https://sensiolabs.com&#34;&gt;SensioLabs&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;As the creator of Symfony, SensioLabs supports companies using Symfony, with an offering encompassing consultancy, expertise, services, training, and technical assistance to ensure the success of web application development projects.&lt;/p&gt; &#xA;&lt;p&gt;Help Symfony by &lt;a href=&#34;https://symfony.com/sponsor&#34;&gt;sponsoring&lt;/a&gt; its development!&lt;/p&gt; &#xA;&lt;h2&gt;Resources&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://symfony.com/doc/current/components/process.html&#34;&gt;Documentation&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://symfony.com/doc/current/contributing/index.html&#34;&gt;Contributing&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/symfony/symfony/issues&#34;&gt;Report issues&lt;/a&gt; and &lt;a href=&#34;https://github.com/symfony/symfony/pulls&#34;&gt;send Pull Requests&lt;/a&gt; in the &lt;a href=&#34;https://github.com/symfony/symfony&#34;&gt;main Symfony repository&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-28T01:31:58Z</updated>
+  <updated>2022-11-29T01:31:27Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>benvp/ex_cva</title>
-    <updated>2022-11-28T01:31:58Z</updated>
-    <id>tag:github.com,2022-11-28:/benvp/ex_cva</id>
-    <link href="https://github.com/benvp/ex_cva" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Class Variance Authority for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zvonimirr/tenantee</title>
+    <updated>2022-11-29T01:31:27Z</updated>
+    <id>tag:github.com,2022-11-29:/zvonimirr/tenantee</id>
+    <link href="https://github.com/zvonimirr/tenantee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tenantee is a free &amp; open-source tenant management platform for landlords.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

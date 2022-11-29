@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-28T01:29:57Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-11-29T01:29:38Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>checkcheckzz/system-design-interview</title>
-    <updated>2022-11-28T01:29:57Z</updated>
-    <id>tag:github.com,2022-11-28:/checkcheckzz/system-design-interview</id>
-    <link href="https://github.com/checkcheckzz/system-design-interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;System design interview for IT companies&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Abd-007/Switch-Emulators-Guide</title>
+    <updated>2022-11-29T01:29:38Z</updated>
+    <id>tag:github.com,2022-11-29:/Abd-007/Switch-Emulators-Guide</id>
+    <link href="https://github.com/Abd-007/Switch-Emulators-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay and r/NewYuzuPiracy.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0xsyr0/Awesome-Cybersecurity-Handbooks</title>
-    <updated>2022-11-28T01:29:57Z</updated>
-    <id>tag:github.com,2022-11-28:/0xsyr0/Awesome-Cybersecurity-Handbooks</id>
-    <link href="https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A huge chunk of my personal notes since I started playing CTFs and working as a Red Teamer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YaS5in3/Bug-Bounty-Wordlists</title>
+    <updated>2022-11-29T01:29:38Z</updated>
+    <id>tag:github.com,2022-11-29:/YaS5in3/Bug-Bounty-Wordlists</id>
+    <link href="https://github.com/YaS5in3/Bug-Bounty-Wordlists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Delcos/Hentai-Diffusion</title>
-    <updated>2022-11-28T01:29:57Z</updated>
-    <id>tag:github.com,2022-11-28:/Delcos/Hentai-Diffusion</id>
-    <link href="https://github.com/Delcos/Hentai-Diffusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official place for the best A.I.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lnishan/awesome-competitive-programming</title>
+    <updated>2022-11-29T01:29:38Z</updated>
+    <id>tag:github.com,2022-11-29:/lnishan/awesome-competitive-programming</id>
+    <link href="https://github.com/lnishan/awesome-competitive-programming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
