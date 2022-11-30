@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-29T01:30:06Z</updated>
+  <updated>2022-11-30T01:31:04Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>randomvariations/nabu.cpm</title>
-    <updated>2022-11-29T01:30:06Z</updated>
-    <id>tag:github.com,2022-11-29:/randomvariations/nabu.cpm</id>
-    <link href="https://github.com/randomvariations/nabu.cpm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CP/M for the NABU Personal Computer using a serial terminal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>edson-acordi/4bit-microcomputer</title>
-    <updated>2022-11-29T01:30:06Z</updated>
-    <id>tag:github.com,2022-11-29:/edson-acordi/4bit-microcomputer</id>
-    <link href="https://github.com/edson-acordi/4bit-microcomputer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MikroLeo project files (schematic, PCB, assembler, emulator/debugger, circuit simulation file, documentation, example of programs etc). MikroLeo is a 4-bit microcomputer developed mainly for educational purposes and distributed for free under open-source licenses.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Baron-von-Riedesel/Deb386</title>
+    <updated>2022-11-30T01:31:04Z</updated>
+    <id>tag:github.com,2022-11-30:/Baron-von-Riedesel/Deb386</id>
+    <link href="https://github.com/Baron-von-Riedesel/Deb386" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ring 0 debugger for HDPMI and Win3.1 VMM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

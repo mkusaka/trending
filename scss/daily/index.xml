@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-29T01:36:13Z</updated>
+  <updated>2022-11-30T01:39:09Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>benbrignell/principles.design</title>
-    <updated>2022-11-29T01:36:13Z</updated>
-    <id>tag:github.com,2022-11-29:/benbrignell/principles.design</id>
-    <link href="https://github.com/benbrignell/principles.design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open source collection of design principles and methods.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alcfdez/F5-PROYECT-WHEEL-OF</title>
+    <updated>2022-11-30T01:39:09Z</updated>
+    <id>tag:github.com,2022-11-30:/alcfdez/F5-PROYECT-WHEEL-OF</id>
+    <link href="https://github.com/alcfdez/F5-PROYECT-WHEEL-OF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RAMDOM TRAVEL-ruleta&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>madebygps/signalr-crypto-tickers</title>
+    <updated>2022-11-30T01:39:09Z</updated>
+    <id>tag:github.com,2022-11-30:/madebygps/signalr-crypto-tickers</id>
+    <link href="https://github.com/madebygps/signalr-crypto-tickers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A static website with serverless backend that display Crypto prices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-29T01:36:04Z</updated>
+  <updated>2022-11-30T01:38:55Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>quinn-rs/quinn</title>
-    <updated>2022-11-29T01:36:04Z</updated>
-    <id>tag:github.com,2022-11-29:/quinn-rs/quinn</id>
-    <link href="https://github.com/quinn-rs/quinn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Async-friendly QUIC implementation in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flxzt/rnote</title>
+    <updated>2022-11-30T01:38:55Z</updated>
+    <id>tag:github.com,2022-11-30:/flxzt/rnote</id>
+    <link href="https://github.com/flxzt/rnote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sketch and take handwritten notes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hachyserve/rustypub</title>
-    <updated>2022-11-29T01:36:04Z</updated>
-    <id>tag:github.com,2022-11-29:/hachyserve/rustypub</id>
-    <link href="https://github.com/hachyserve/rustypub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sirupsen/napkin-math</title>
+    <updated>2022-11-30T01:38:55Z</updated>
+    <id>tag:github.com,2022-11-30:/sirupsen/napkin-math</id>
+    <link href="https://github.com/sirupsen/napkin-math" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Techniques and numbers for estimating system&#39;s performance from first-principles&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0xhiro/amongrust</title>
-    <updated>2022-11-29T01:36:04Z</updated>
-    <id>tag:github.com,2022-11-29:/0xhiro/amongrust</id>
-    <link href="https://github.com/0xhiro/amongrust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reveal the imposters hiding in your sus code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pozm/bsod-rs</title>
+    <updated>2022-11-30T01:38:55Z</updated>
+    <id>tag:github.com,2022-11-30:/pozm/bsod-rs</id>
+    <link href="https://github.com/pozm/bsod-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The safest library on the block. Calling the bsod function will cause a blue screen of death.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

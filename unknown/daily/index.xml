@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-29T01:29:38Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-11-30T01:30:37Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Abd-007/Switch-Emulators-Guide</title>
-    <updated>2022-11-29T01:29:38Z</updated>
-    <id>tag:github.com,2022-11-29:/Abd-007/Switch-Emulators-Guide</id>
-    <link href="https://github.com/Abd-007/Switch-Emulators-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay and r/NewYuzuPiracy.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>YaS5in3/Bug-Bounty-Wordlists</title>
-    <updated>2022-11-29T01:29:38Z</updated>
-    <id>tag:github.com,2022-11-29:/YaS5in3/Bug-Bounty-Wordlists</id>
-    <link href="https://github.com/YaS5in3/Bug-Bounty-Wordlists" rel="alternate"></link>
+    <title>VoronDesign/Voron-Tap</title>
+    <updated>2022-11-30T01:30:37Z</updated>
+    <id>tag:github.com,2022-11-30:/VoronDesign/Voron-Tap</id>
+    <link href="https://github.com/VoronDesign/Voron-Tap" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lnishan/awesome-competitive-programming</title>
-    <updated>2022-11-29T01:29:38Z</updated>
-    <id>tag:github.com,2022-11-29:/lnishan/awesome-competitive-programming</id>
-    <link href="https://github.com/lnishan/awesome-competitive-programming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💎 A curated list of awesome Competitive Programming, Algorithm and Data Structure resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wso2/reference-architecture</title>
+    <updated>2022-11-30T01:30:37Z</updated>
+    <id>tag:github.com,2022-11-30:/wso2/reference-architecture</id>
+    <link href="https://github.com/wso2/reference-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ashemery/LinuxForensics</title>
+    <updated>2022-11-30T01:30:37Z</updated>
+    <id>tag:github.com,2022-11-30:/ashemery/LinuxForensics</id>
+    <link href="https://github.com/ashemery/LinuxForensics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Everything related to Linux Forensics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

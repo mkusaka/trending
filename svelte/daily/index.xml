@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-29T01:36:38Z</updated>
+  <updated>2022-11-30T01:39:45Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>staab/coracle</title>
-    <updated>2022-11-29T01:36:38Z</updated>
-    <id>tag:github.com,2022-11-29:/staab/coracle</id>
-    <link href="https://github.com/staab/coracle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A nostr web client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pocketbase/site</title>
+    <updated>2022-11-30T01:39:45Z</updated>
+    <id>tag:github.com,2022-11-30:/pocketbase/site</id>
+    <link href="https://github.com/pocketbase/site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PocketBase Site&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

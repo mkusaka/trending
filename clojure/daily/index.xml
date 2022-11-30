@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-29T01:30:41Z</updated>
+  <updated>2022-11-30T01:31:58Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mpenet/mina</title>
+    <updated>2022-11-30T01:31:58Z</updated>
+    <id>tag:github.com,2022-11-30:/mpenet/mina</id>
+    <link href="https://github.com/mpenet/mina" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helidon Nima ring adapter for clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>logseq/docs</title>
+    <updated>2022-11-30T01:31:58Z</updated>
+    <id>tag:github.com,2022-11-30:/logseq/docs</id>
+    <link href="https://github.com/logseq/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Logseq documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/status-lib-archived</title>
+    <updated>2022-11-30T01:31:58Z</updated>
+    <id>tag:github.com,2022-11-30:/status-im/status-lib-archived</id>
+    <link href="https://github.com/status-im/status-lib-archived" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

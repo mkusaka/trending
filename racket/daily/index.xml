@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-29T01:35:47Z</updated>
+  <updated>2022-11-30T01:38:16Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RHIT-CSSE/csse304</title>
+    <updated>2022-11-30T01:38:16Z</updated>
+    <id>tag:github.com,2022-11-30:/RHIT-CSSE/csse304</id>
+    <link href="https://github.com/RHIT-CSSE/csse304" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

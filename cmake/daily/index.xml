@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-29T01:30:44Z</updated>
+  <updated>2022-11-30T01:32:00Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>robotology/robots-configuration</title>
-    <updated>2022-11-29T01:30:44Z</updated>
-    <id>tag:github.com,2022-11-29:/robotology/robots-configuration</id>
-    <link href="https://github.com/robotology/robots-configuration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains robots configuration files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pabloariasal/modern-cmake-sample</title>
+    <updated>2022-11-30T01:32:00Z</updated>
+    <id>tag:github.com,2022-11-30:/pabloariasal/modern-cmake-sample</id>
+    <link href="https://github.com/pabloariasal/modern-cmake-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example library that shows best practices and proper usage of CMake by using targets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
