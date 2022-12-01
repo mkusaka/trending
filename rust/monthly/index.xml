@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T02:06:08Z</updated>
+  <subtitle>Monthly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rome/tools</title>
+    <updated>2022-12-01T02:06:08Z</updated>
+    <id>tag:github.com,2022-12-01:/rome/tools</id>
+    <link href="https://github.com/rome/tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unified developer tools for JavaScript, TypeScript, and the web&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AleoHQ/snarkOS</title>
+    <updated>2022-12-01T02:06:08Z</updated>
+    <id>tag:github.com,2022-12-01:/AleoHQ/snarkOS</id>
+    <link href="https://github.com/AleoHQ/snarkOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Decentralized Operating System for ZK Applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tokio-rs/axum</title>
+    <updated>2022-12-01T02:06:08Z</updated>
+    <id>tag:github.com,2022-12-01:/tokio-rs/axum</id>
+    <link href="https://github.com/tokio-rs/axum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ergonomic and modular web framework built with Tokio, Tower, and Hyper&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

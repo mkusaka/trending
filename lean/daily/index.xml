@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lean Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:35:39Z</updated>
+  <updated>2022-12-01T01:41:53Z</updated>
   <subtitle>Daily Trending of Lean in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>0art0/lean3-statement-translation-tool</title>
+    <updated>2022-12-01T01:41:53Z</updated>
+    <id>tag:github.com,2022-12-01:/0art0/lean3-statement-translation-tool</id>
+    <link href="https://github.com/0art0/lean3-statement-translation-tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool for automatic formalisation of natural language theorem statements to Lean3 code using OpenAI Codex.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ImperialCollegeLondon/tcc-lean-alg-geom-2022</title>
+    <updated>2022-12-01T01:41:53Z</updated>
+    <id>tag:github.com,2022-12-01:/ImperialCollegeLondon/tcc-lean-alg-geom-2022</id>
+    <link href="https://github.com/ImperialCollegeLondon/tcc-lean-alg-geom-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experiments in algebraic geometry as part of the EPSRC Taught Course Centre course on formalising number theory and geometry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

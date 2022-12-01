@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T02:03:38Z</updated>
+  <subtitle>Monthly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>itsnebulalol/ios15-tweaks</title>
+    <updated>2022-12-01T02:03:38Z</updated>
+    <id>tag:github.com,2022-12-01:/itsnebulalol/ios15-tweaks</id>
+    <link href="https://github.com/itsnebulalol/ios15-tweaks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of supported, partially supported, and unsupported *non-rootless* tweaks for iOS 15.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mdn/translated-content</title>
+    <updated>2022-12-01T02:03:38Z</updated>
+    <id>tag:github.com,2022-12-01:/mdn/translated-content</id>
+    <link href="https://github.com/mdn/translated-content" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The source repository of all translated content for MDN Web Docs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>upptime/upptime</title>
+    <updated>2022-12-01T02:03:38Z</updated>
+    <id>tag:github.com,2022-12-01:/upptime/upptime</id>
+    <link href="https://github.com/upptime/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⬆️ Free uptime monitor and status page powered by GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

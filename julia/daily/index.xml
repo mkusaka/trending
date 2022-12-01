@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:34:52Z</updated>
+  <updated>2022-12-01T01:41:29Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CliMA/SurfaceFluxes.jl</title>
-    <updated>2022-11-30T01:34:52Z</updated>
-    <id>tag:github.com,2022-11-30:/CliMA/SurfaceFluxes.jl</id>
-    <link href="https://github.com/CliMA/SurfaceFluxes.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package for computing surface fluxes between the atmosphere, ocean and land models.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>henry2004y/Vlasiator.jl</title>
-    <updated>2022-11-30T01:34:52Z</updated>
-    <id>tag:github.com,2022-11-30:/henry2004y/Vlasiator.jl</id>
-    <link href="https://github.com/henry2004y/Vlasiator.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data processor for Vlasiator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RainerHeintzmann/PointSpreadFunctions.jl</title>
-    <updated>2022-11-30T01:34:52Z</updated>
-    <id>tag:github.com,2022-11-30:/RainerHeintzmann/PointSpreadFunctions.jl</id>
-    <link href="https://github.com/RainerHeintzmann/PointSpreadFunctions.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Toolbox for calculating optical PSFs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

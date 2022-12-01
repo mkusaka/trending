@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:39:38Z</updated>
+  <updated>2022-12-01T01:44:59Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>saucepoint/elo-lib</title>
-    <updated>2022-11-30T01:39:38Z</updated>
-    <id>tag:github.com,2022-11-30:/saucepoint/elo-lib</id>
-    <link href="https://github.com/saucepoint/elo-lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ELO calculation as a solidity library (algorithm of 400 / chess ELO)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paulrberg/prb-math</title>
+    <updated>2022-12-01T01:44:59Z</updated>
+    <id>tag:github.com,2022-12-01:/paulrberg/prb-math</id>
+    <link href="https://github.com/paulrberg/prb-math" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity library for advanced fixed-point math&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kjr217/foundry-python-template</title>
-    <updated>2022-11-30T01:39:38Z</updated>
-    <id>tag:github.com,2022-11-30:/kjr217/foundry-python-template</id>
-    <link href="https://github.com/kjr217/foundry-python-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>marktoda/forge-gas-snapshot</title>
+    <updated>2022-12-01T01:44:59Z</updated>
+    <id>tag:github.com,2022-12-01:/marktoda/forge-gas-snapshot</id>
+    <link href="https://github.com/marktoda/forge-gas-snapshot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for checked-in, targeted gas snapshots with forge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EatTheBlocks/web3-101</title>
-    <updated>2022-11-30T01:39:38Z</updated>
-    <id>tag:github.com,2022-11-30:/EatTheBlocks/web3-101</id>
-    <link href="https://github.com/EatTheBlocks/web3-101" rel="alternate"></link>
+    <title>ctor-lab/ERC1155Delta</title>
+    <updated>2022-12-01T01:44:59Z</updated>
+    <id>tag:github.com,2022-12-01:/ctor-lab/ERC1155Delta</id>
+    <link href="https://github.com/ctor-lab/ERC1155Delta" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

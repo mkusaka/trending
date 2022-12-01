@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:35:59Z</updated>
+  <updated>2022-12-01T01:42:11Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>afang223/ee106a-final-project</title>
-    <updated>2022-11-30T01:35:59Z</updated>
-    <id>tag:github.com,2022-11-30:/afang223/ee106a-final-project</id>
-    <link href="https://github.com/afang223/ee106a-final-project" rel="alternate"></link>
+    <title>ahmadnassri/docker-vscode-server</title>
+    <updated>2022-12-01T01:42:11Z</updated>
+    <id>tag:github.com,2022-12-01:/ahmadnassri/docker-vscode-server</id>
+    <link href="https://github.com/ahmadnassri/docker-vscode-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Docker image for VS Code Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shopware/docs</title>
+    <updated>2022-12-01T01:42:11Z</updated>
+    <id>tag:github.com,2022-12-01:/shopware/docs</id>
+    <link href="https://github.com/shopware/docs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

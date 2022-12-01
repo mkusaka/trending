@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T01:59:12Z</updated>
+  <subtitle>Monthly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nubank/ordnungsamt</title>
+    <updated>2022-12-01T01:59:12Z</updated>
+    <id>tag:github.com,2022-12-01:/nubank/ordnungsamt</id>
+    <link href="https://github.com/nubank/ordnungsamt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;helping maintain order and consistency across code-bases&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/selvage</title>
+    <updated>2022-12-01T01:59:12Z</updated>
+    <id>tag:github.com,2022-12-01:/nubank/selvage</id>
+    <link href="https://github.com/nubank/selvage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testing at the edges with a world-transition style integration test framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/clj-github-mock</title>
+    <updated>2022-12-01T01:59:12Z</updated>
+    <id>tag:github.com,2022-12-01:/nubank/clj-github-mock</id>
+    <link href="https://github.com/nubank/clj-github-mock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An emulator of the github api implemented in clojure to test your github app&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T02:06:18Z</updated>
+  <subtitle>Monthly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gdamore/tree-sitter-d</title>
+    <updated>2022-12-01T02:06:18Z</updated>
+    <id>tag:github.com,2022-12-01:/gdamore/tree-sitter-d</id>
+    <link href="https://github.com/gdamore/tree-sitter-d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;D Grammar for Tree Sitter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ChrisTitusTech/Debian-titus</title>
+    <updated>2022-12-01T02:06:18Z</updated>
+    <id>tag:github.com,2022-12-01:/ChrisTitusTech/Debian-titus</id>
+    <link href="https://github.com/ChrisTitusTech/Debian-titus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Debian customizations from Chris Titus Tech&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

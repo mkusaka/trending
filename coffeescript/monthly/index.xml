@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T01:59:16Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adaltas/node-csv</title>
+    <updated>2022-12-01T01:59:16Z</updated>
+    <id>tag:github.com,2022-12-01:/adaltas/node-csv</id>
+    <link href="https://github.com/adaltas/node-csv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full featured CSV parser with simple api and tested against large datasets.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nicolaskruchten/pivottable</title>
+    <updated>2022-12-01T01:59:16Z</updated>
+    <id>tag:github.com,2022-12-01:/nicolaskruchten/pivottable</id>
+    <link href="https://github.com/nicolaskruchten/pivottable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag&#39;n&#39;drop.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fetch/countdown</title>
+    <updated>2022-12-01T01:59:16Z</updated>
+    <id>tag:github.com,2022-12-01:/fetch/countdown</id>
+    <link href="https://github.com/fetch/countdown" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Countdown is a JavaScript plugin to easily create counters.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:39:47Z</updated>
+  <updated>2022-12-01T01:45:08Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UBC-CPEN311-Classrooms/2022w1-lab4-update1</title>
-    <updated>2022-11-30T01:39:47Z</updated>
-    <id>tag:github.com,2022-11-30:/UBC-CPEN311-Classrooms/2022w1-lab4-update1</id>
-    <link href="https://github.com/UBC-CPEN311-Classrooms/2022w1-lab4-update1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

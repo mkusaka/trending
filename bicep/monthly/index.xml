@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T01:58:27Z</updated>
+  <subtitle>Monthly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/msdocs-django-postgresql-sample-app</title>
+    <updated>2022-12-01T01:58:27Z</updated>
+    <id>tag:github.com,2022-12-01:/Azure-Samples/msdocs-django-postgresql-sample-app</id>
+    <link href="https://github.com/Azure-Samples/msdocs-django-postgresql-sample-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sample Django app using PostgreSQL for the Azure App Service Web App + Database tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/aks-baseline-automation</title>
+    <updated>2022-12-01T01:58:27Z</updated>
+    <id>tag:github.com,2022-12-01:/Azure/aks-baseline-automation</id>
+    <link href="https://github.com/Azure/aks-baseline-automation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for the AKS Landing Zone Accelerator program&#39;s Automation reference implementation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

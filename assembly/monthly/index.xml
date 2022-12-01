@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T01:58:21Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mytechnotalent/Reverse-Engineering</title>
+    <updated>2022-12-01T01:58:21Z</updated>
+    <id>tag:github.com,2022-12-01:/mytechnotalent/Reverse-Engineering</id>
+    <link href="https://github.com/mytechnotalent/Reverse-Engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM &amp; 64-bit ARM architectures.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>corkami/pics</title>
+    <updated>2022-12-01T01:58:21Z</updated>
+    <id>tag:github.com,2022-12-01:/corkami/pics</id>
+    <link href="https://github.com/corkami/pics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Posters, drawings...&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dspinellis/unix-history-repo</title>
+    <updated>2022-12-01T01:58:21Z</updated>
+    <id>tag:github.com,2022-12-01:/dspinellis/unix-history-repo</id>
+    <link href="https://github.com/dspinellis/unix-history-repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Continuous Unix commit history from 1970 until today&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

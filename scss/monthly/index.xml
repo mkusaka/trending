@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T02:06:20Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tefkah/zotero-night</title>
+    <updated>2022-12-01T02:06:20Z</updated>
+    <id>tag:github.com,2022-12-01:/tefkah/zotero-night</id>
+    <link href="https://github.com/tefkah/zotero-night" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Night theme for Zotero UI and PDF&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>microsoft/TypeScript-Node-Starter</title>
+    <updated>2022-12-01T02:06:20Z</updated>
+    <id>tag:github.com,2022-12-01:/microsoft/TypeScript-Node-Starter</id>
+    <link href="https://github.com/microsoft/TypeScript-Node-Starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reference example for TypeScript and Node with a detailed README describing how to use the two together.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kitian616/jekyll-TeXt-theme</title>
+    <updated>2022-12-01T02:06:20Z</updated>
+    <id>tag:github.com,2022-12-01:/kitian616/jekyll-TeXt-theme</id>
+    <link href="https://github.com/kitian616/jekyll-TeXt-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

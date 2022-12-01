@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:39:36Z</updated>
+  <updated>2022-12-01T01:44:56Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KaiserXLabs/github-action-workflows</title>
-    <updated>2022-11-30T01:39:36Z</updated>
-    <id>tag:github.com,2022-11-30:/KaiserXLabs/github-action-workflows</id>
-    <link href="https://github.com/KaiserXLabs/github-action-workflows" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of reusable github action workflows for building and publishing K8s artifacts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>backstage/charts</title>
+    <updated>2022-12-01T01:44:56Z</updated>
+    <id>tag:github.com,2022-12-01:/backstage/charts</id>
+    <link href="https://github.com/backstage/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Backstage Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Novusvetus/Novusvetus</title>
-    <updated>2022-11-30T01:39:36Z</updated>
-    <id>tag:github.com,2022-11-30:/Novusvetus/Novusvetus</id>
-    <link href="https://github.com/Novusvetus/Novusvetus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is very special! 😉&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flanksource/incident-commander-chart</title>
+    <updated>2022-12-01T01:44:56Z</updated>
+    <id>tag:github.com,2022-12-01:/flanksource/incident-commander-chart</id>
+    <link href="https://github.com/flanksource/incident-commander-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NodeBB/nodebb-theme-persona</title>
+    <updated>2022-12-01T01:44:56Z</updated>
+    <id>tag:github.com,2022-12-01:/NodeBB/nodebb-theme-persona</id>
+    <link href="https://github.com/NodeBB/nodebb-theme-persona" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Persona - A modern and responsive NodeBB theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

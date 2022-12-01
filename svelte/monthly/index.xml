@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T02:06:52Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>marcusolsson/obsidian-projects</title>
+    <updated>2022-12-01T02:06:52Z</updated>
+    <id>tag:github.com,2022-12-01:/marcusolsson/obsidian-projects</id>
+    <link href="https://github.com/marcusolsson/obsidian-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project management for Obsidian&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>revanced/revanced-website</title>
+    <updated>2022-12-01T02:06:52Z</updated>
+    <id>tag:github.com,2022-12-01:/revanced/revanced-website</id>
+    <link href="https://github.com/revanced/revanced-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌐 Website for ReVanced&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iptv-org/iptv-org.github.io</title>
+    <updated>2022-12-01T02:06:52Z</updated>
+    <id>tag:github.com,2022-12-01:/iptv-org/iptv-org.github.io</id>
+    <link href="https://github.com/iptv-org/iptv-org.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

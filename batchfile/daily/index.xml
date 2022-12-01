@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:31:08Z</updated>
+  <updated>2022-12-01T01:37:08Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RizFurr/rdp</title>
-    <updated>2022-11-30T01:31:08Z</updated>
-    <id>tag:github.com,2022-11-30:/RizFurr/rdp</id>
-    <link href="https://github.com/RizFurr/rdp" rel="alternate"></link>
+    <title>fadlyas07/Free_Ngrok_RDP</title>
+    <updated>2022-12-01T01:37:08Z</updated>
+    <id>tag:github.com,2022-12-01:/fadlyas07/Free_Ngrok_RDP</id>
+    <link href="https://github.com/fadlyas07/Free_Ngrok_RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sometimes we use free ones not because we are poor, but we use our brain abilities more than other people.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DuckOS-GitHub/DuckOS</title>
+    <updated>2022-12-01T01:37:08Z</updated>
+    <id>tag:github.com,2022-12-01:/DuckOS-GitHub/DuckOS</id>
+    <link href="https://github.com/DuckOS-GitHub/DuckOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A open-sourced Windows operating system, which is a modification of the original windows 10, designed to improve performance and reduce latency.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Phongtran291/AdityaRDP</title>
+    <updated>2022-12-01T01:37:08Z</updated>
+    <id>tag:github.com,2022-12-01:/Phongtran291/AdityaRDP</id>
+    <link href="https://github.com/Phongtran291/AdityaRDP" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

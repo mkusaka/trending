@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T02:05:01Z</updated>
+  <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-free</title>
+    <updated>2022-12-01T02:05:01Z</updated>
+    <id>tag:github.com,2022-12-01:/purescript/purescript-free</id>
+    <link href="https://github.com/purescript/purescript-free" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free monads, Cofree comonads, Yoneda and Coyoneda functors, and the Trampoline monad.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-catenable-lists</title>
+    <updated>2022-12-01T02:05:01Z</updated>
+    <id>tag:github.com,2022-12-01:/purescript/purescript-catenable-lists</id>
+    <link href="https://github.com/purescript/purescript-catenable-lists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catenable lists&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-aff</title>
+    <updated>2022-12-01T02:05:01Z</updated>
+    <id>tag:github.com,2022-12-01:/purescript-contrib/purescript-aff</id>
+    <link href="https://github.com/purescript-contrib/purescript-aff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An asynchronous effect monad for PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:32:47Z</updated>
+  <updated>2022-12-01T01:39:11Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yqrashawn/fd-dired</title>
-    <updated>2022-11-30T01:32:47Z</updated>
-    <id>tag:github.com,2022-11-30:/yqrashawn/fd-dired</id>
-    <link href="https://github.com/yqrashawn/fd-dired" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;dired-mode interface for fd&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;fd-dired Provide a dired-mode interface for [[https://github.com/sharkdp/fd][fd]]&#39;s result. Same functionality as find-dired/find-grep-dired, using fd/rg instead. Depend on find-dired.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Check out [[https://www.masteringemacs.org/article/working-multiple-files-dired][this]] for functionality and use case of &lt;del&gt;find-dired&lt;/del&gt;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;FAQ&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;** macOS system command &#34;ls&#34; illegal option &#34;--quoting-style=literal&#34;&lt;/p&gt; &#xA;&lt;p&gt;The macOS system default &#39;&lt;del&gt;ls&lt;/del&gt;&#39; command does not support option =--quoting-style=literal=.&lt;/p&gt; &#xA;&lt;p&gt;Please install with: &lt;del&gt;brew install coreutils&lt;/del&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>emacs-straight/dired-git-info</title>
-    <updated>2022-11-30T01:32:47Z</updated>
-    <id>tag:github.com,2022-11-30:/emacs-straight/dired-git-info</id>
-    <link href="https://github.com/emacs-straight/dired-git-info" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of the dired-git-info package from GNU ELPA, current as of 2022-11-30&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+BEGIN_HTML &lt;a href=&#34;https://elpa.gnu.org/packages/dired-git-info.html&#34;&gt;&lt;img alt=&#34;GNU ELPA&#34; src=&#34;https://elpa.gnu.org/favicon.png&#34;&gt;&lt;/a&gt; #+END_HTML&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Description&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;This Emacs packages provides a minor mode which shows git information inside the dired buffer:&lt;/p&gt; &#xA;&lt;p&gt;[[./images/screenshot2.png]]&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Installation&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;** GNU ELPA&lt;/p&gt; &#xA;&lt;p&gt;This package is available on [[https://elpa.gnu.org][GNU ELPA]]. You can install it via =M-x package-install RET dired-git-info RET=&lt;/p&gt; &#xA;&lt;p&gt;** Manual&lt;/p&gt; &#xA;&lt;p&gt;For manual installation, clone the repository and call:&lt;/p&gt; &#xA;&lt;p&gt;#+BEGIN_SRC elisp (package-install-file &#34;/path/to/dired-git-info.el&#34;) #+END_SRC&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Config&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;** Bind the minor mode command in dired&lt;/p&gt; &#xA;&lt;p&gt;#+BEGIN_SRC elisp (with-eval-after-load &#39;dired (define-key dired-mode-map &#34;)&#34; &#39;dired-git-info-mode)) #+END_SRC&lt;/p&gt; &#xA;&lt;p&gt;** Don&#39;t hide normal Dired file info&lt;/p&gt; &#xA;&lt;p&gt;By default, toggling =dired-git-info-mode= also toggles the built-in =dired-hide-details-mode=, which hides file details such as ownership, permissions and size. This behaviour can be disabled by overriding =dgi-auto-hide-details-p=:&lt;/p&gt; &#xA;&lt;p&gt;#+BEGIN_SRC elisp (setq dgi-auto-hide-details-p nil) #+END_SRC&lt;/p&gt; &#xA;&lt;p&gt;** Enable automatically in every Dired buffer (if in Git repository)&lt;/p&gt; &#xA;&lt;p&gt;To enable =dired-git-info-mode= whenever you navigate to a Git repository, use the following: #+BEGIN_SRC elisp (add-hook &#39;dired-after-readin-hook &#39;dired-git-info-auto-enable) #+END_SRC&lt;/p&gt;</summary>
-  </entry>
 </feed>

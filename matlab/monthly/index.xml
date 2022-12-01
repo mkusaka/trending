@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T02:03:42Z</updated>
+  <subtitle>Monthly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gpleiss/chaos-project-3</title>
+    <updated>2022-12-01T02:03:42Z</updated>
+    <id>tag:github.com,2022-12-01:/gpleiss/chaos-project-3</id>
+    <link href="https://github.com/gpleiss/chaos-project-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simulation of the single-legged inverted pendulum (SLIP) limit-cycle walker (for Nonlinear Dynamics and Chaos - Olin College Fall 2012)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>petercorke/robotics-toolbox-matlab</title>
+    <updated>2022-12-01T02:03:42Z</updated>
+    <id>tag:github.com,2022-12-01:/petercorke/robotics-toolbox-matlab</id>
+    <link href="https://github.com/petercorke/robotics-toolbox-matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Robotics Toolbox for MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bwang0/598handwriting</title>
+    <updated>2022-12-01T02:03:42Z</updated>
+    <id>tag:github.com,2022-12-01:/bwang0/598handwriting</id>
+    <link href="https://github.com/bwang0/598handwriting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

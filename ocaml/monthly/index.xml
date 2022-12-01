@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T02:04:16Z</updated>
+  <subtitle>Monthly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MinaProtocol/mina</title>
+    <updated>2022-12-01T02:04:16Z</updated>
+    <id>tag:github.com,2022-12-01:/MinaProtocol/mina</id>
+    <link href="https://github.com/MinaProtocol/mina" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mina is a new cryptocurrency with a constant size blockchain, improving scaling while maintaining decentralization and security.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>returntocorp/ocaml-tree-sitter-core</title>
+    <updated>2022-12-01T02:04:16Z</updated>
+    <id>tag:github.com,2022-12-01:/returntocorp/ocaml-tree-sitter-core</id>
+    <link href="https://github.com/returntocorp/ocaml-tree-sitter-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCaml code generator and runtime library for handling typed tree-sitter CSTs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>returntocorp/pfff</title>
+    <updated>2022-12-01T02:04:16Z</updated>
+    <id>tag:github.com,2022-12-01:/returntocorp/pfff</id>
+    <link href="https://github.com/returntocorp/pfff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pfff is mainly an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

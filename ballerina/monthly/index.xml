@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Ballerina Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-01T01:58:23Z</updated>
+  <subtitle>Monthly Trending of Ballerina in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wso2/apk</title>
+    <updated>2022-12-01T01:58:23Z</updated>
+    <id>tag:github.com,2022-12-01:/wso2/apk</id>
+    <link href="https://github.com/wso2/apk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Repository for APK distribution&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ballerina-platform/module-ballerinax-postgresql</title>
+    <updated>2022-12-01T01:58:23Z</updated>
+    <id>tag:github.com,2022-12-01:/ballerina-platform/module-ballerinax-postgresql</id>
+    <link href="https://github.com/ballerina-platform/module-ballerinax-postgresql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ballerina PostgreSQL DB module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ballerina-platform/module-ballerinax-kafka</title>
+    <updated>2022-12-01T01:58:23Z</updated>
+    <id>tag:github.com,2022-12-01:/ballerina-platform/module-ballerinax-kafka</id>
+    <link href="https://github.com/ballerina-platform/module-ballerinax-kafka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ballerina Kafka Module.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

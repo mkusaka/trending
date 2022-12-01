@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:33:32Z</updated>
+  <updated>2022-12-01T01:40:08Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>deigote/GitHubIssueSubmitter</title>
-    <updated>2022-11-30T01:33:32Z</updated>
-    <id>tag:github.com,2022-11-30:/deigote/GitHubIssueSubmitter</id>
-    <link href="https://github.com/deigote/GitHubIssueSubmitter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Small client to submit bugs to GitHub using their REST API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

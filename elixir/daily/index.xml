@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:32:45Z</updated>
+  <updated>2022-12-01T01:39:07Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>coryodaniel/bonny</title>
+    <updated>2022-12-01T01:39:07Z</updated>
+    <id>tag:github.com,2022-12-01:/coryodaniel/bonny</id>
+    <link href="https://github.com/coryodaniel/bonny" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Elixir based Kubernetes Development Framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>akoutmos/nerves_weather_station</title>
+    <updated>2022-12-01T01:39:07Z</updated>
+    <id>tag:github.com,2022-12-01:/akoutmos/nerves_weather_station</id>
+    <link href="https://github.com/akoutmos/nerves_weather_station" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo contains the companion code for the PragProg Nerves book.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:30:37Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-12-01T01:36:36Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>VoronDesign/Voron-Tap</title>
-    <updated>2022-11-30T01:30:37Z</updated>
-    <id>tag:github.com,2022-11-30:/VoronDesign/Voron-Tap</id>
-    <link href="https://github.com/VoronDesign/Voron-Tap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rebeyond/Behinder</title>
+    <updated>2022-12-01T01:36:36Z</updated>
+    <id>tag:github.com,2022-12-01:/rebeyond/Behinder</id>
+    <link href="https://github.com/rebeyond/Behinder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;“冰蝎”动态二进制加密网站管理客户端&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wso2/reference-architecture</title>
-    <updated>2022-11-30T01:30:37Z</updated>
-    <id>tag:github.com,2022-11-30:/wso2/reference-architecture</id>
-    <link href="https://github.com/wso2/reference-architecture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cugu/awesome-forensics</title>
+    <updated>2022-12-01T01:36:36Z</updated>
+    <id>tag:github.com,2022-12-01:/cugu/awesome-forensics</id>
+    <link href="https://github.com/cugu/awesome-forensics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome forensic analysis tools and resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ashemery/LinuxForensics</title>
-    <updated>2022-11-30T01:30:37Z</updated>
-    <id>tag:github.com,2022-11-30:/ashemery/LinuxForensics</id>
-    <link href="https://github.com/ashemery/LinuxForensics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Everything related to Linux Forensics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Bogdanp/awesome-advent-of-code</title>
+    <updated>2022-12-01T01:36:36Z</updated>
+    <id>tag:github.com,2022-12-01:/Bogdanp/awesome-advent-of-code</id>
+    <link href="https://github.com/Bogdanp/awesome-advent-of-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of awesome resources related to the yearly Advent of Code challenge.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

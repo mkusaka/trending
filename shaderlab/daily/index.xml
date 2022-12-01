@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-11-30T01:39:10Z</updated>
+  <updated>2022-12-01T01:44:30Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ipud2/Unity-Basic-Shader</title>
-    <updated>2022-11-30T01:39:10Z</updated>
-    <id>tag:github.com,2022-11-30:/ipud2/Unity-Basic-Shader</id>
-    <link href="https://github.com/ipud2/Unity-Basic-Shader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unity Basic Shader&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tiagoair/rollaballpjd4m2022</title>
-    <updated>2022-11-30T01:39:10Z</updated>
-    <id>tag:github.com,2022-11-30:/tiagoair/rollaballpjd4m2022</id>
-    <link href="https://github.com/tiagoair/rollaballpjd4m2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
