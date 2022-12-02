@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:42:11Z</updated>
+  <updated>2022-12-02T01:36:29Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EpicGames/MetaHuman-DNA-Calibration</title>
+    <updated>2022-12-02T01:36:29Z</updated>
+    <id>tag:github.com,2022-12-02:/EpicGames/MetaHuman-DNA-Calibration</id>
+    <link href="https://github.com/EpicGames/MetaHuman-DNA-Calibration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WolframResearch/WolframLanguageForJupyter</title>
+    <updated>2022-12-02T01:36:29Z</updated>
+    <id>tag:github.com,2022-12-02:/WolframResearch/WolframLanguageForJupyter</id>
+    <link href="https://github.com/WolframResearch/WolframLanguageForJupyter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wolfram Language kernel for Jupyter notebooks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

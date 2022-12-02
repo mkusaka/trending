@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:44:59Z</updated>
+  <updated>2022-12-02T01:39:13Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>paulrberg/prb-math</title>
-    <updated>2022-12-01T01:44:59Z</updated>
-    <id>tag:github.com,2022-12-01:/paulrberg/prb-math</id>
-    <link href="https://github.com/paulrberg/prb-math" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity library for advanced fixed-point math&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>marktoda/forge-gas-snapshot</title>
-    <updated>2022-12-01T01:44:59Z</updated>
-    <id>tag:github.com,2022-12-01:/marktoda/forge-gas-snapshot</id>
-    <link href="https://github.com/marktoda/forge-gas-snapshot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library for checked-in, targeted gas snapshots with forge&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ctor-lab/ERC1155Delta</title>
-    <updated>2022-12-01T01:44:59Z</updated>
-    <id>tag:github.com,2022-12-01:/ctor-lab/ERC1155Delta</id>
-    <link href="https://github.com/ctor-lab/ERC1155Delta" rel="alternate"></link>
+    <title>code-423n4/2022-11-paraspace</title>
+    <updated>2022-12-02T01:39:13Z</updated>
+    <id>tag:github.com,2022-12-02:/code-423n4/2022-11-paraspace</id>
+    <link href="https://github.com/code-423n4/2022-11-paraspace" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:43:57Z</updated>
+  <updated>2022-12-02T01:38:20Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>openFyde/overlay-amd64-openfyde</title>
-    <updated>2022-12-01T01:43:57Z</updated>
-    <id>tag:github.com,2022-12-01:/openFyde/overlay-amd64-openfyde</id>
-    <link href="https://github.com/openFyde/overlay-amd64-openfyde" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;openFyde supported hardware &#34;x86 PC with Intel HD graphics&#34; build artefacts and pre-built image releases.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kaizenofficiall/ZenHub</title>
+    <updated>2022-12-02T01:38:20Z</updated>
+    <id>tag:github.com,2022-12-02:/Kaizenofficiall/ZenHub</id>
+    <link href="https://github.com/Kaizenofficiall/ZenHub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

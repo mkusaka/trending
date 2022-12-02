@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:44:30Z</updated>
+  <updated>2022-12-02T01:38:50Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>o1-labs/docs2</title>
-    <updated>2022-12-01T01:44:30Z</updated>
-    <id>tag:github.com,2022-12-01:/o1-labs/docs2</id>
-    <link href="https://github.com/o1-labs/docs2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docs website for the Mina Protocol.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darklow/django-suit</title>
+    <updated>2022-12-02T01:38:50Z</updated>
+    <id>tag:github.com,2022-12-02:/darklow/django-suit</id>
+    <link href="https://github.com/darklow/django-suit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern theme for Django admin interface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

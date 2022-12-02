@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:38:12Z</updated>
+  <updated>2022-12-02T01:32:54Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lambdaisland/deep-diff2</title>
-    <updated>2022-12-01T01:38:12Z</updated>
-    <id>tag:github.com,2022-12-01:/lambdaisland/deep-diff2</id>
-    <link href="https://github.com/lambdaisland/deep-diff2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deep diff Clojure data structures and pretty print the result&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ontodev/excel</title>
+    <updated>2022-12-02T01:32:54Z</updated>
+    <id>tag:github.com,2022-12-02:/ontodev/excel</id>
+    <link href="https://github.com/ontodev/excel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A thin Clojure wrapper around a small part of Apache POI for reading .xlsx files.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>chlorinejs/chlorine</title>
-    <updated>2022-12-01T01:38:12Z</updated>
-    <id>tag:github.com,2022-12-01:/chlorinejs/chlorine</id>
-    <link href="https://github.com/chlorinejs/chlorine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Main library for Chlorine compiler (a subset of Clojure to javascript)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>phronmophobic/membrane</title>
-    <updated>2022-12-01T01:38:12Z</updated>
-    <id>tag:github.com,2022-12-01:/phronmophobic/membrane</id>
-    <link href="https://github.com/phronmophobic/membrane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Simple UI Library That Runs Anywhere&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hsalokor/clojurescript-skeleton</title>
+    <updated>2022-12-02T01:32:54Z</updated>
+    <id>tag:github.com,2022-12-02:/hsalokor/clojurescript-skeleton</id>
+    <link href="https://github.com/hsalokor/clojurescript-skeleton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Skeleton project for Clojure and Clojurescript development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

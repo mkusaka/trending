@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:38:20Z</updated>
+  <updated>2022-12-02T01:33:00Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BrownCS1260/final-benchmarks</title>
-    <updated>2022-12-01T01:38:20Z</updated>
-    <id>tag:github.com,2022-12-01:/BrownCS1260/final-benchmarks</id>
-    <link href="https://github.com/BrownCS1260/final-benchmarks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Benchmarks for the CSCI 1260 final project&lt;/h2&gt; &#xA;&lt;p&gt;Open up a pull request on this repository to add a benchmark to the &lt;code&gt;benchmarks/&lt;/code&gt; directory.&lt;/p&gt; &#xA;&lt;h2&gt;Benchmarking the final homework&lt;/h2&gt; &#xA;&lt;p&gt;Here&#39;s how to get started running benchmarks for the final homework:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Clone this respository into your final homework repository:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;git clone git@github.com:BrownCS1260/final-benchmarks.git benchmarks&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;In the new benchmarks directory, make a &lt;code&gt;config.json&lt;/code&gt; file. This file should be a JSON-formatted dictionary where the keys are configurations and the values are lists of pass names. For example, it might look like:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-json&#34;&gt;{&#34;No optimizations&#34;: [],&#xA; &#34;Inlining&#34;: [&#34;uniquify-variables&#34;, &#34;inline&#34;],&#xA; &#34;Constant propagation and inlining&#34;: [&#34;uniquify-variables&#34;, &#34;inline&#34;, &#34;propagate-constants&#34;]}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;3&#34;&gt; &#xA; &lt;li&gt;Run the benchmark script. It will run each benchmark 10 times using each specified configuration and write the results to &lt;code&gt;results.csv&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;python3 bench.py&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Have fun!&lt;/p&gt;</summary>
-  </entry>
 </feed>

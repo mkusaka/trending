@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:38:48Z</updated>
+  <updated>2022-12-02T01:33:32Z</updated>
   <subtitle>Daily Trending of DM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MrSky12/Gainstation13BeestationEdition</title>
-    <updated>2022-12-01T01:38:48Z</updated>
-    <id>tag:github.com,2022-12-01:/MrSky12/Gainstation13BeestationEdition</id>
-    <link href="https://github.com/MrSky12/Gainstation13BeestationEdition" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The gainstation 13 server on a new codebase&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

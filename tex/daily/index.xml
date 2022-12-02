@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:45:37Z</updated>
+  <updated>2022-12-02T01:39:38Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alabid/scratch</title>
-    <updated>2022-12-01T01:45:37Z</updated>
-    <id>tag:github.com,2022-12-01:/alabid/scratch</id>
-    <link href="https://github.com/alabid/scratch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for Mini-Projects&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Scratch: A Repository for Mini-Projects&lt;/h1&gt; &#xA;&lt;h2&gt;JSON Collapser&lt;/h2&gt; &#xA;&lt;p&gt;Python and Javascript implemention of JSON Collapser algorithm.&lt;/p&gt; &#xA;&lt;p&gt;For more information, visit &lt;a href=&#34;http://alabidan.me/2012/07/21/json-pretty-print-and-json-multi-level-collapse-code-in-javascript-and-python/&#34;&gt;my website&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;at /scratch/jsoncollapser/&lt;/p&gt; &#xA;&lt;h2&gt;Linear Counting Probabilistic Algorithm Implementation&lt;/h2&gt; &#xA;&lt;p&gt;Python implementation of the Linear Counting algorithm.&lt;/p&gt; &#xA;&lt;p&gt;at /scratch/linearprob/&lt;/p&gt; &#xA;&lt;h2&gt;Basic Traditional Bloom Filter Implementation&lt;/h2&gt; &#xA;&lt;p&gt;A C++ implementation of a bloom filter&lt;/p&gt; &#xA;&lt;p&gt;at /scratch/bloomfilter/&lt;/p&gt; &#xA;&lt;p&gt;For a better, well-tested, scalable, counting bloom filter, check out &lt;a href=&#34;http://github.com/bitly/dablooms&#34;&gt;dablooms&lt;/a&gt; built by Justin Hines, a HackNY fellow (2012) during Summer 2012.&lt;/p&gt; &#xA;&lt;h2&gt;MIT Open Source License&lt;/h2&gt; &#xA;&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &#34;Software&#34;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt; &#xA;&lt;p&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;/p&gt; &#xA;&lt;p&gt;THE SOFTWARE IS PROVIDED &#34;AS IS&#34;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>GeophysicsLibrary/applied-geophysics</title>
-    <updated>2022-12-01T01:45:37Z</updated>
-    <id>tag:github.com,2022-12-01:/GeophysicsLibrary/applied-geophysics</id>
-    <link href="https://github.com/GeophysicsLibrary/applied-geophysics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>objectionary/eolang.sty</title>
-    <updated>2022-12-01T01:45:37Z</updated>
-    <id>tag:github.com,2022-12-01:/objectionary/eolang.sty</id>
-    <link href="https://github.com/objectionary/eolang.sty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LaTeX package for drawing 𝜑-calculus formulas and SODG graphs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/objectionary/eolang.sty/actions/workflows/l3build.yml&#34;&gt;&lt;img src=&#34;https://github.com/objectionary/eolang.sty/actions/workflows/l3build.yml/badge.svg?sanitize=true&#34; alt=&#34;l3build&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://ctan.org/pkg/eolang&#34;&gt;&lt;img src=&#34;https://img.shields.io/ctan/v/eolang&#34; alt=&#34;CTAN&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/objectionary/eolang.sty/raw/master/LICENSE.txt&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-MIT-green.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This LaTeX package helps you write 𝜑-calculus formulas and draw &lt;a href=&#34;https://github.com/objectionary/sodg&#34;&gt;SODG&lt;/a&gt; graphs for &lt;a href=&#34;https://www.eolang.org&#34;&gt;EO&lt;/a&gt; programming language.&lt;/p&gt; &#xA;&lt;p&gt;First, &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Installing_Extra_Packages&#34;&gt;install it&lt;/a&gt; from &lt;a href=&#34;https://ctan.org/pkg/eolang&#34;&gt;CTAN&lt;/a&gt; and then use in the preamble:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;\documentclass{article}&#xA;\usepackage{eolang}&#xA;\begin{document}&#xA;\begin{phiquation}&#xA;x -&amp;gt; [&#xA;  @ -&amp;gt; foo(5),&#xA;  y -&amp;gt; [ L&amp;gt; M_1 ]].&#xA;\end{phiquation}&#xA;\end{document}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Otherwise, you can download &lt;a href=&#34;https://raw.githubusercontent.com/objectionary/eolang.sty/gh-pages/eolang/eolang.sty&#34;&gt;&lt;code&gt;eolang.sty&lt;/code&gt;&lt;/a&gt; and add to your project.&lt;/p&gt; &#xA;&lt;p&gt;If you want to contribute yourself, make a fork, then create a branch, then run &lt;code&gt;l3build ctan&lt;/code&gt; in the root directory. It should compile everything without errors. If not, submit an issue and wait. Otherwise, make your changes and then run &lt;code&gt;l3build ctan&lt;/code&gt; again. If the build is still clean, submit a pull request.&lt;/p&gt;</summary>
+    <title>taichi-dev/cheatsheet</title>
+    <updated>2022-12-02T01:39:38Z</updated>
+    <id>tag:github.com,2022-12-02:/taichi-dev/cheatsheet</id>
+    <link href="https://github.com/taichi-dev/cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Taichi Language Cheatsheet&lt;/h1&gt; &#xA;&lt;h2&gt;Preview&lt;/h2&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/23307174/202497176-c105d3f4-fa48-4b36-9eab-a99b5617f1a4.png&#34; alt=&#34;cheatsheet&#34;&gt;&lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;How to build&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Go to the &lt;code&gt;fonts/&lt;/code&gt; folder, run&lt;/p&gt; &lt;pre&gt;&lt;code&gt;make&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;p&gt;to download the font files.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Use &lt;code&gt;xelatex&lt;/code&gt; to compile the tex source file:&lt;/p&gt; &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;xelatex cheatsheet.tex&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
   </entry>
 </feed>

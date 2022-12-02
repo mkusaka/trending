@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:36:52Z</updated>
+  <updated>2022-12-02T01:31:44Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>larryhou/multi-task-flow</title>
-    <updated>2022-12-01T01:36:52Z</updated>
-    <id>tag:github.com,2022-12-01:/larryhou/multi-task-flow</id>
-    <link href="https://github.com/larryhou/multi-task-flow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi Task Flow Framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

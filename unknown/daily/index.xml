@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:36:36Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-12-02T01:31:24Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rebeyond/Behinder</title>
-    <updated>2022-12-01T01:36:36Z</updated>
-    <id>tag:github.com,2022-12-01:/rebeyond/Behinder</id>
-    <link href="https://github.com/rebeyond/Behinder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;“冰蝎”动态二进制加密网站管理客户端&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>midudev/libros-programacion-gratis</title>
+    <updated>2022-12-02T01:31:24Z</updated>
+    <id>tag:github.com,2022-12-02:/midudev/libros-programacion-gratis</id>
+    <link href="https://github.com/midudev/libros-programacion-gratis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Lista de libros sobre programación en Español y gratis&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cugu/awesome-forensics</title>
-    <updated>2022-12-01T01:36:36Z</updated>
-    <id>tag:github.com,2022-12-01:/cugu/awesome-forensics</id>
-    <link href="https://github.com/cugu/awesome-forensics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome forensic analysis tools and resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EdOverflow/bugbounty-cheatsheet</title>
+    <updated>2022-12-02T01:31:24Z</updated>
+    <id>tag:github.com,2022-12-02:/EdOverflow/bugbounty-cheatsheet</id>
+    <link href="https://github.com/EdOverflow/bugbounty-cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of interesting payloads, tips and tricks for bug bounty hunters.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Bogdanp/awesome-advent-of-code</title>
-    <updated>2022-12-01T01:36:36Z</updated>
-    <id>tag:github.com,2022-12-01:/Bogdanp/awesome-advent-of-code</id>
-    <link href="https://github.com/Bogdanp/awesome-advent-of-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of awesome resources related to the yearly Advent of Code challenge.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>XJP-GIT/AntiZhaPian</title>
+    <updated>2022-12-02T01:31:24Z</updated>
+    <id>tag:github.com,2022-12-02:/XJP-GIT/AntiZhaPian</id>
+    <link href="https://github.com/XJP-GIT/AntiZhaPian" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;假的国家反诈中心&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

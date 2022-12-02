@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:40:24Z</updated>
+  <updated>2022-12-02T01:34:40Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>terraform-google-modules/terraform-google-pubsub</title>
-    <updated>2022-12-01T01:40:24Z</updated>
-    <id>tag:github.com,2022-12-01:/terraform-google-modules/terraform-google-pubsub</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-pubsub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This module makes it easy to create Google Cloud Pub/Sub topic and subscriptions associated with the topic.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pug Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:43:21Z</updated>
+  <updated>2022-12-02T01:37:42Z</updated>
   <subtitle>Daily Trending of Pug in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jonathan-mohabir2001/ModernWeb_Group01Code</title>
-    <updated>2022-12-01T01:43:21Z</updated>
-    <id>tag:github.com,2022-12-01:/jonathan-mohabir2001/ModernWeb_Group01Code</id>
-    <link href="https://github.com/jonathan-mohabir2001/ModernWeb_Group01Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fullstack application using Node.js, Express and MongoDB to create a blog posting app.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

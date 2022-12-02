@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Coq Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-01T01:38:21Z</updated>
+  <updated>2022-12-02T01:33:02Z</updated>
   <subtitle>Daily Trending of Coq in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>coq-community/coq-ext-lib</title>
-    <updated>2022-12-01T01:38:21Z</updated>
-    <id>tag:github.com,2022-12-01:/coq-community/coq-ext-lib</id>
-    <link href="https://github.com/coq-community/coq-ext-lib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library of Coq definitions, theorems, and tactics. [maintainers=@gmalecha,@liyishuai]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
