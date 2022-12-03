@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:38:50Z</updated>
+  <updated>2022-12-03T01:36:47Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>darklow/django-suit</title>
-    <updated>2022-12-02T01:38:50Z</updated>
-    <id>tag:github.com,2022-12-02:/darklow/django-suit</id>
-    <link href="https://github.com/darklow/django-suit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern theme for Django admin interface&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Basis-Theory/docs</title>
+    <updated>2022-12-03T01:36:47Z</updated>
+    <id>tag:github.com,2022-12-03:/Basis-Theory/docs</id>
+    <link href="https://github.com/Basis-Theory/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docs hosted at https://docs.basistheory.com/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

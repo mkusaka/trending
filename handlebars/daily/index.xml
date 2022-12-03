@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:34:28Z</updated>
+  <updated>2022-12-03T01:32:27Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rust-lang-cn/nomicon-zh-Hans</title>
-    <updated>2022-12-02T01:34:28Z</updated>
-    <id>tag:github.com,2022-12-02:/rust-lang-cn/nomicon-zh-Hans</id>
-    <link href="https://github.com/rust-lang-cn/nomicon-zh-Hans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust 死灵书简体中文翻译&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

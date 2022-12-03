@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:34:30Z</updated>
+  <updated>2022-12-03T01:32:29Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AoC-ESPOL/AoC-2022-Solutions</title>
+    <updated>2022-12-03T01:32:29Z</updated>
+    <id>tag:github.com,2022-12-03:/AoC-ESPOL/AoC-2022-Solutions</id>
+    <link href="https://github.com/AoC-ESPOL/AoC-2022-Solutions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Soluciones del Advent of Code 2022 por parte de la comunidad de ESPOL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Soluciones de ESPOL AoC&lt;/h1&gt; &#xA;&lt;p&gt;Bienvenidos al ESPOL AoC. ¡Esperamos disfruten este evento y se diviertan mucho!&lt;/p&gt; &#xA;&lt;h2&gt;Reglas&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Cada participante deberá crear una carpeta con su nombre. El formato es el siguiente ApellidoNombre&lt;/li&gt; &#xA; &lt;li&gt;Dentro de su carpeta cada solución deberá tener como nombre day_XX.[ext]&lt;/li&gt; &#xA; &lt;li&gt;No olvides divertirte!&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Happy coding!&lt;/p&gt;</summary>
+  </entry>
 </feed>

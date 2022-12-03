@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:31:57Z</updated>
+  <updated>2022-12-03T01:29:53Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sharoue/chinawareblock</title>
-    <updated>2022-12-02T01:31:57Z</updated>
-    <id>tag:github.com,2022-12-02:/sharoue/chinawareblock</id>
-    <link href="https://github.com/sharoue/chinawareblock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;国产流氓、娱乐软件和不受欢迎的软件屏蔽工具&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Fnoberz/COD-Spoofer</title>
-    <updated>2022-12-02T01:31:57Z</updated>
-    <id>tag:github.com,2022-12-02:/Fnoberz/COD-Spoofer</id>
-    <link href="https://github.com/Fnoberz/COD-Spoofer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔵 Spoofer HWID Banned and Shadow Bans, Call of Duty Warfare | Warzone&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

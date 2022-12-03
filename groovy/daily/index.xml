@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:34:26Z</updated>
+  <updated>2022-12-03T01:32:25Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spinnaker/igor</title>
-    <updated>2022-12-02T01:34:26Z</updated>
-    <id>tag:github.com,2022-12-02:/spinnaker/igor</id>
-    <link href="https://github.com/spinnaker/igor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integration with Jenkins and Git for Spinnaker&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jacobono/gradle-jaxb-plugin</title>
-    <updated>2022-12-02T01:34:26Z</updated>
-    <id>tag:github.com,2022-12-02:/jacobono/gradle-jaxb-plugin</id>
-    <link href="https://github.com/jacobono/gradle-jaxb-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin to ease projects that use xsds and the ant jaxb task&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AlbanAndrieu/jenkins-pipeline-scripts</title>
+    <updated>2022-12-03T01:32:25Z</updated>
+    <id>tag:github.com,2022-12-03:/AlbanAndrieu/jenkins-pipeline-scripts</id>
+    <link href="https://github.com/AlbanAndrieu/jenkins-pipeline-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts for Jenkins DSL pipeline&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

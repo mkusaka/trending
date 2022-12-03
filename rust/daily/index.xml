@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:38:37Z</updated>
+  <updated>2022-12-03T01:36:33Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zu1k/zlib-searcher</title>
-    <updated>2022-12-02T01:38:37Z</updated>
-    <id>tag:github.com,2022-12-02:/zu1k/zlib-searcher</id>
-    <link href="https://github.com/zu1k/zlib-searcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;search zlib/libgen index to get ipfs_cid. We don&#39;t save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>0xhiro/thebook</title>
-    <updated>2022-12-02T01:38:37Z</updated>
-    <id>tag:github.com,2022-12-02:/0xhiro/thebook</id>
-    <link href="https://github.com/0xhiro/thebook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Search and read &#39;The Rust Book&#39; from the terminal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eqlabs/pathfinder</title>
-    <updated>2022-12-02T01:38:37Z</updated>
-    <id>tag:github.com,2022-12-02:/eqlabs/pathfinder</id>
-    <link href="https://github.com/eqlabs/pathfinder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Starknet full node written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fspoettel/advent-of-code-rust</title>
+    <updated>2022-12-03T01:36:33Z</updated>
+    <id>tag:github.com,2022-12-03:/fspoettel/advent-of-code-rust</id>
+    <link href="https://github.com/fspoettel/advent-of-code-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎄Starter template for solving Advent of Code in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

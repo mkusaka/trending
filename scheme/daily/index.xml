@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:38:49Z</updated>
+  <updated>2022-12-03T01:36:45Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ChrisTitusTech/ubuntu-titus</title>
-    <updated>2022-12-02T01:38:49Z</updated>
-    <id>tag:github.com,2022-12-02:/ChrisTitusTech/ubuntu-titus</id>
-    <link href="https://github.com/ChrisTitusTech/ubuntu-titus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maitria/gambit-objc</title>
-    <updated>2022-12-02T01:38:49Z</updated>
-    <id>tag:github.com,2022-12-02:/maitria/gambit-objc</id>
-    <link href="https://github.com/maitria/gambit-objc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Objective-C bridge for Gambit Scheme&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liaoji1991/week5-training-work-SICP</title>
+    <updated>2022-12-03T01:36:45Z</updated>
+    <id>tag:github.com,2022-12-03:/liaoji1991/week5-training-work-SICP</id>
+    <link href="https://github.com/liaoji1991/week5-training-work-SICP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SICP work of liaoji&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

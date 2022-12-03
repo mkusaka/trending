@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:36:29Z</updated>
+  <updated>2022-12-03T01:34:38Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>troyastorino/62x-final-paper</title>
-    <updated>2022-12-02T01:36:29Z</updated>
-    <id>tag:github.com,2022-12-02:/troyastorino/62x-final-paper</id>
-    <link href="https://github.com/troyastorino/62x-final-paper" rel="alternate"></link>
+    <title>ClustProject/KWUFeatureExtraction</title>
+    <updated>2022-12-03T01:34:38Z</updated>
+    <id>tag:github.com,2022-12-03:/ClustProject/KWUFeatureExtraction</id>
+    <link href="https://github.com/ClustProject/KWUFeatureExtraction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multimodal biometric signal feature extraction&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ClustProject/KWUDataPreprocessing</title>
+    <updated>2022-12-03T01:34:38Z</updated>
+    <id>tag:github.com,2022-12-03:/ClustProject/KWUDataPreprocessing</id>
+    <link href="https://github.com/ClustProject/KWUDataPreprocessing" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>euroargodev/Coriolis-data-processing-chain-for-Argo-floats</title>
-    <updated>2022-12-02T01:36:29Z</updated>
-    <id>tag:github.com,2022-12-02:/euroargodev/Coriolis-data-processing-chain-for-Argo-floats</id>
-    <link href="https://github.com/euroargodev/Coriolis-data-processing-chain-for-Argo-floats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coriolis data processing chain for Argo floats&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brungio/bhack_td</title>
-    <updated>2022-12-02T01:36:29Z</updated>
-    <id>tag:github.com,2022-12-02:/brungio/bhack_td</id>
-    <link href="https://github.com/brungio/bhack_td" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>g-s-k/matlab-toml</title>
+    <updated>2022-12-03T01:34:38Z</updated>
+    <id>tag:github.com,2022-12-03:/g-s-k/matlab-toml</id>
+    <link href="https://github.com/g-s-k/matlab-toml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TOML implementation for MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

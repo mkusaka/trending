@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:31:24Z</updated>
+  <updated>2022-12-03T01:29:26Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>midudev/libros-programacion-gratis</title>
-    <updated>2022-12-02T01:31:24Z</updated>
-    <id>tag:github.com,2022-12-02:/midudev/libros-programacion-gratis</id>
-    <link href="https://github.com/midudev/libros-programacion-gratis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 Lista de libros sobre programación en Español y gratis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>waydabber/BetterDisplay</title>
+    <updated>2022-12-03T01:29:26Z</updated>
+    <id>tag:github.com,2022-12-03:/waydabber/BetterDisplay</id>
+    <link href="https://github.com/waydabber/BetterDisplay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EdOverflow/bugbounty-cheatsheet</title>
-    <updated>2022-12-02T01:31:24Z</updated>
-    <id>tag:github.com,2022-12-02:/EdOverflow/bugbounty-cheatsheet</id>
-    <link href="https://github.com/EdOverflow/bugbounty-cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of interesting payloads, tips and tricks for bug bounty hunters.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>markerikson/react-redux-links</title>
+    <updated>2022-12-03T01:29:26Z</updated>
+    <id>tag:github.com,2022-12-03:/markerikson/react-redux-links</id>
+    <link href="https://github.com/markerikson/react-redux-links" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated tutorial and resource links I&#39;ve collected on React, Redux, ES6, and more&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>XJP-GIT/AntiZhaPian</title>
-    <updated>2022-12-02T01:31:24Z</updated>
-    <id>tag:github.com,2022-12-02:/XJP-GIT/AntiZhaPian</id>
-    <link href="https://github.com/XJP-GIT/AntiZhaPian" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;假的国家反诈中心&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>score-spec/spec</title>
+    <updated>2022-12-03T01:29:26Z</updated>
+    <id>tag:github.com,2022-12-03:/score-spec/spec</id>
+    <link href="https://github.com/score-spec/spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The score specification file&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

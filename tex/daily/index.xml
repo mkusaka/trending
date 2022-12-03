@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:39:38Z</updated>
+  <updated>2022-12-03T01:37:49Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>taichi-dev/cheatsheet</title>
-    <updated>2022-12-02T01:39:38Z</updated>
-    <id>tag:github.com,2022-12-02:/taichi-dev/cheatsheet</id>
-    <link href="https://github.com/taichi-dev/cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Taichi Language Cheatsheet&lt;/h1&gt; &#xA;&lt;h2&gt;Preview&lt;/h2&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/23307174/202497176-c105d3f4-fa48-4b36-9eab-a99b5617f1a4.png&#34; alt=&#34;cheatsheet&#34;&gt;&lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;How to build&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Go to the &lt;code&gt;fonts/&lt;/code&gt; folder, run&lt;/p&gt; &lt;pre&gt;&lt;code&gt;make&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;p&gt;to download the font files.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Use &lt;code&gt;xelatex&lt;/code&gt; to compile the tex source file:&lt;/p&gt; &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;xelatex cheatsheet.tex&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+    <title>jbarcelo/QOS-lecture-notes</title>
+    <updated>2022-12-03T01:37:49Z</updated>
+    <id>tag:github.com,2022-12-03:/jbarcelo/QOS-lecture-notes</id>
+    <link href="https://github.com/jbarcelo/QOS-lecture-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QOS-lecture-notes&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A Course on QoS (QoS)&lt;/p&gt; &#xA;&lt;p&gt;I gonna use this to organize my thoughts about the course on QoS that I am teaching. I hope that it is also useful to others.&lt;/p&gt;</summary>
   </entry>
 </feed>

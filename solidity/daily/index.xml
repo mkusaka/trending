@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:39:13Z</updated>
+  <updated>2022-12-03T01:37:16Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2022-11-paraspace</title>
-    <updated>2022-12-02T01:39:13Z</updated>
-    <id>tag:github.com,2022-12-02:/code-423n4/2022-11-paraspace</id>
-    <link href="https://github.com/code-423n4/2022-11-paraspace" rel="alternate"></link>
+    <title>jtriley-eth/ez-sol</title>
+    <updated>2022-12-03T01:37:16Z</updated>
+    <id>tag:github.com,2022-12-03:/jtriley-eth/ez-sol</id>
+    <link href="https://github.com/jtriley-eth/ez-sol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Vectorized/preapprove</title>
+    <updated>2022-12-03T01:37:16Z</updated>
+    <id>tag:github.com,2022-12-03:/Vectorized/preapprove</id>
+    <link href="https://github.com/Vectorized/preapprove" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Philogy/yam-weth</title>
+    <updated>2022-12-03T01:37:16Z</updated>
+    <id>tag:github.com,2022-12-03:/Philogy/yam-weth</id>
+    <link href="https://github.com/Philogy/yam-weth" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

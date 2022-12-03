@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:31:52Z</updated>
+  <updated>2022-12-03T01:29:49Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vancegroup-mirrors/avr-libc</title>
-    <updated>2022-12-02T01:31:52Z</updated>
-    <id>tag:github.com,2022-12-02:/vancegroup-mirrors/avr-libc</id>
-    <link href="https://github.com/vancegroup-mirrors/avr-libc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automated svn2git mirror of avr-libc - link goes to upstream&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cryptwareapps/Malware-Database</title>
+    <updated>2022-12-03T01:29:49Z</updated>
+    <id>tag:github.com,2022-12-03:/cryptwareapps/Malware-Database</id>
+    <link href="https://github.com/cryptwareapps/Malware-Database" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A large repository of malware samples with 2500+ malware samples &amp; source codes for a variety of platforms by Cryptware Apps.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

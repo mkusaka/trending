@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:33:46Z</updated>
+  <updated>2022-12-03T01:31:30Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>akira/exq_ui</title>
-    <updated>2022-12-02T01:33:46Z</updated>
-    <id>tag:github.com,2022-12-02:/akira/exq_ui</id>
-    <link href="https://github.com/akira/exq_ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UI Dashboard for Exq, a job processing library for Elixir. Exq UI provides the UI dashboard to display stats on job processing.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mhanberg/advent-of-code-elixir-starter</title>
+    <updated>2022-12-03T01:31:30Z</updated>
+    <id>tag:github.com,2022-12-03:/mhanberg/advent-of-code-elixir-starter</id>
+    <link href="https://github.com/mhanberg/advent-of-code-elixir-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template project for Advent of Code in Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eyra/mono</title>
+    <updated>2022-12-03T01:31:30Z</updated>
+    <id>tag:github.com,2022-12-03:/eyra/mono</id>
+    <link href="https://github.com/eyra/mono" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ArthurClemens/primer_live</title>
+    <updated>2022-12-03T01:31:30Z</updated>
+    <id>tag:github.com,2022-12-03:/ArthurClemens/primer_live</id>
+    <link href="https://github.com/ArthurClemens/primer_live" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of GitHub&#39;s Primer Design System using Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

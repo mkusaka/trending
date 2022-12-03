@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:35:40Z</updated>
+  <updated>2022-12-03T01:33:52Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SpM-lab/SparseIR.jl</title>
-    <updated>2022-12-02T01:35:40Z</updated>
-    <id>tag:github.com,2022-12-02:/SpM-lab/SparseIR.jl</id>
-    <link href="https://github.com/SpM-lab/SparseIR.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;On-the-fly computation of IR basis functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>probcomp/GenGPT3.jl</title>
+    <updated>2022-12-03T01:33:52Z</updated>
+    <id>tag:github.com,2022-12-03:/probcomp/GenGPT3.jl</id>
+    <link href="https://github.com/probcomp/GenGPT3.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GPT-3 as a generative function in Gen.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>schmidtjonathan/PhDSE.jl</title>
+    <updated>2022-12-03T01:33:52Z</updated>
+    <id>tag:github.com,2022-12-03:/schmidtjonathan/PhDSE.jl</id>
+    <link href="https://github.com/schmidtjonathan/PhDSE.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Probabilistic high-Dimensional State Estimation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cvdlab/SolidGeometry</title>
+    <updated>2022-12-03T01:33:52Z</updated>
+    <id>tag:github.com,2022-12-03:/cvdlab/SolidGeometry</id>
+    <link href="https://github.com/cvdlab/SolidGeometry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repo for CSG (Constructive Solid Geometry) with LAR (LinearAlgebraicRepresentation)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:33:35Z</updated>
+  <updated>2022-12-03T01:31:17Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RekhuGopal/SharedDocs</title>
-    <updated>2022-12-02T01:33:35Z</updated>
-    <id>tag:github.com,2022-12-02:/RekhuGopal/SharedDocs</id>
-    <link href="https://github.com/RekhuGopal/SharedDocs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SharedDocs&lt;/h1&gt; &#xA;&lt;p&gt;This repo contains the documents related to &#34;CloudQucikPOCs&#34; video and viewers have asked for.&lt;/p&gt;</summary>
+    <title>TomyJan/hk4e-everything</title>
+    <updated>2022-12-03T01:31:17Z</updated>
+    <id>tag:github.com,2022-12-03:/TomyJan/hk4e-everything</id>
+    <link href="https://github.com/TomyJan/hk4e-everything" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;run &lt;code&gt;docker compose -f hk4e-everything.yaml build&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;run &lt;code&gt;docker compose -f hk4e-everything.yaml up -d mysql&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;change line:350 in file &lt;code&gt;config/sql/db_hk4e_deploy_config_os_beta01.sql&lt;/code&gt; to &lt;strong&gt;&lt;code&gt;YOUR SDK SERVER&lt;/code&gt;&lt;/strong&gt; which responses like &lt;code&gt;{&#34;data&#34;:{&#34;account_type&#34;:1,&#34;ip_info&#34;:{&#34;country_code&#34;:&#34;us&#34;}},&#34;message&#34;:&#34;OK&#34;,&#34;retcode&#34;:0}&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;create database using &lt;code&gt;config/sql/*.sql&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;put &lt;code&gt;srv-bins/3.2_beta&lt;/code&gt; into &lt;code&gt;bin/3.2_beta&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;put &lt;code&gt;welink-pkg/welink_3.2_qa&lt;/code&gt; into &lt;code&gt;data/welink_3.2_qa&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;run &lt;code&gt;docker compose -f hk4e-everything.yaml up -d&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;run &lt;code&gt;docker ps&lt;/code&gt; check contianer status is &lt;strong&gt;Up&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;mysql&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:3306&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;redis&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:6379&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;gateserver&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:18101&lt;/code&gt; and &lt;code&gt;0.0.0.0:18101/udp&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;dispatch&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:18401&lt;/code&gt; and &lt;code&gt;0.0.0.0:18421&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;muipserver&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:18541&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;oaserver&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:18601&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;wait about 10 mins, then enjoy the official server!&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;alternately, use the least setup &lt;code&gt;docker compose -f hk4e-least-setup.yaml up -d&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;mysql&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:3306&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;redis&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:6379&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;gateserver&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:18101&lt;/code&gt; and &lt;code&gt;0.0.0.0:18101/udp&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;the &lt;code&gt;muipserver&lt;/code&gt; will listen on &lt;code&gt;0.0.0.0:18541&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;this setup will significantly reduce the hardware requirements, but you will need an external dispatch server such as &lt;code&gt;grasscutter&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;//据说来自钟旭东&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ITZ-ZAID/mogenius</title>
+    <updated>2022-12-03T01:31:17Z</updated>
+    <id>tag:github.com,2022-12-03:/ITZ-ZAID/mogenius</id>
+    <link href="https://github.com/ITZ-ZAID/mogenius" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Script to host telegram bot on mogenius.com&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mogenius&lt;/h1&gt; &#xA;&lt;p&gt;An Script to host telegram bot on mogenius.com&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:40:23Z</updated>
+  <updated>2022-12-03T01:38:30Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linuxy/zoro</title>
-    <updated>2022-12-02T01:40:23Z</updated>
-    <id>tag:github.com,2022-12-02:/linuxy/zoro</id>
-    <link href="https://github.com/linuxy/zoro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coroutines for Zig&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SpexGuy/Zig-AoC-Template</title>
+    <updated>2022-12-03T01:38:30Z</updated>
+    <id>tag:github.com,2022-12-03:/SpexGuy/Zig-AoC-Template</id>
+    <link href="https://github.com/SpexGuy/Zig-AoC-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A template for Advent of Code participants using Zig&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

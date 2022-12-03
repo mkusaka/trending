@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:40:07Z</updated>
+  <updated>2022-12-03T01:38:14Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sunila/airblue_7dec12</title>
-    <updated>2022-12-02T01:40:07Z</updated>
-    <id>tag:github.com,2022-12-02:/sunila/airblue_7dec12</id>
-    <link href="https://github.com/sunila/airblue_7dec12" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;airblue: trying to simulate the noisy channel and am getting &#34;undefined symbol: gsl_rng_default&#34; error&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nandland/spi-slave</title>
+    <updated>2022-12-03T01:38:14Z</updated>
+    <id>tag:github.com,2022-12-03:/nandland/spi-slave</id>
+    <link href="https://github.com/nandland/spi-slave" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SPI Slave for FPGA in Verilog and VHDL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>henriquegreg/RISC-V-Implementation-Verilog</title>
+    <updated>2022-12-03T01:38:14Z</updated>
+    <id>tag:github.com,2022-12-03:/henriquegreg/RISC-V-Implementation-Verilog</id>
+    <link href="https://github.com/henriquegreg/RISC-V-Implementation-Verilog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositório do grupo 3 (Grupo Cessar) de PCS3115&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cornell-ece4750/ece4750-sec12-net</title>
+    <updated>2022-12-03T01:38:14Z</updated>
+    <id>tag:github.com,2022-12-03:/cornell-ece4750/ece4750-sec12-net</id>
+    <link href="https://github.com/cornell-ece4750/ece4750-sec12-net" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ECE 4750 Section 12: Networks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

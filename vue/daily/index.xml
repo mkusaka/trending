@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-02T01:40:13Z</updated>
+  <updated>2022-12-03T01:38:20Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>laravel-workflow/waterline</title>
-    <updated>2022-12-02T01:40:13Z</updated>
-    <id>tag:github.com,2022-12-02:/laravel-workflow/waterline</id>
-    <link href="https://github.com/laravel-workflow/waterline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An elegant UI for monitoring Laravel Workflows.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
