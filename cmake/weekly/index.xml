@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-04T01:41:00Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pal-robotics/hey5_description</title>
+    <updated>2022-12-04T01:41:00Z</updated>
+    <id>tag:github.com,2022-12-04:/pal-robotics/hey5_description</id>
+    <link href="https://github.com/pal-robotics/hey5_description" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>filipdutescu/modern-cpp-template</title>
+    <updated>2022-12-04T01:41:00Z</updated>
+    <id>tag:github.com,2022-12-04:/filipdutescu/modern-cpp-template</id>
+    <link href="https://github.com/filipdutescu/modern-cpp-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pingcap/tipb</title>
+    <updated>2022-12-04T01:41:00Z</updated>
+    <id>tag:github.com,2022-12-04:/pingcap/tipb</id>
+    <link href="https://github.com/pingcap/tipb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TiDB protobuf&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

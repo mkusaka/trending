@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-04T01:45:14Z</updated>
+  <subtitle>Weekly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dom96/jester</title>
+    <updated>2022-12-04T01:45:14Z</updated>
+    <id>tag:github.com,2022-12-04:/dom96/jester</id>
+    <link href="https://github.com/dom96/jester" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sinatra-like web framework for Nim.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>planety/prologue</title>
+    <updated>2022-12-04T01:45:14Z</updated>
+    <id>tag:github.com,2022-12-04:/planety/prologue</id>
+    <link href="https://github.com/planety/prologue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerful and flexible web framework written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

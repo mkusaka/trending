@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:36:45Z</updated>
+  <updated>2022-12-04T01:37:46Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>liaoji1991/week5-training-work-SICP</title>
-    <updated>2022-12-03T01:36:45Z</updated>
-    <id>tag:github.com,2022-12-03:/liaoji1991/week5-training-work-SICP</id>
-    <link href="https://github.com/liaoji1991/week5-training-work-SICP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SICP work of liaoji&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

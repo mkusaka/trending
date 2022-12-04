@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:37:21Z</updated>
+  <updated>2022-12-04T01:38:27Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>richshaw2015/dino-rss-electron</title>
-    <updated>2022-12-03T01:37:21Z</updated>
-    <id>tag:github.com,2022-12-03:/richshaw2015/dino-rss-electron</id>
-    <link href="https://github.com/richshaw2015/dino-rss-electron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple, efficient, open source RSS reader service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arlac77/svelte-log-view</title>
+    <updated>2022-12-04T01:38:27Z</updated>
+    <id>tag:github.com,2022-12-04:/arlac77/svelte-log-view</id>
+    <link href="https://github.com/arlac77/svelte-log-view" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;show log content&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

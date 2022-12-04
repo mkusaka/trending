@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:31:05Z</updated>
+  <updated>2022-12-04T01:31:55Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>naco-siren/mogicians-manual</title>
-    <updated>2022-12-03T01:31:05Z</updated>
-    <id>tag:github.com,2022-12-03:/naco-siren/mogicians-manual</id>
-    <link href="https://github.com/naco-siren/mogicians-manual" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter version【膜法指南】open source project&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;膜法指南&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/naco-siren/mogicians-manual/raw/master/banner.png&#34; alt=&#34;真正的粉丝&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;简介&lt;/h2&gt; &#xA;&lt;p&gt;科学膜蛤，学习一个，提高姿势水平；&lt;/p&gt; &#xA;&lt;p&gt;谈笑风生，一派胡言，祝你身体健康。&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;下载：&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.nacosiren.blog.mogiciansmanual&#34;&gt;Google Play&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h2&gt;功能&lt;/h2&gt; &#xA;&lt;p&gt;【说】：语录、采访、访问对话、诗词等作品。&lt;/p&gt; &#xA;&lt;p&gt;【学】：考据、同人、段子、知乎精选等知识。&lt;/p&gt; &#xA;&lt;p&gt;【逗】：高清、原生、颜艺、鬼畜、成语、恶搞、暴走漫画等表情，支持动图。&lt;/p&gt; &#xA;&lt;p&gt;【唱】：古典、流行、动画等音乐。&lt;/p&gt;</summary>
+    <title>dart-homework-2022B/basic_variables_types</title>
+    <updated>2022-12-04T01:31:55Z</updated>
+    <id>tag:github.com,2022-12-04:/dart-homework-2022B/basic_variables_types</id>
+    <link href="https://github.com/dart-homework-2022B/basic_variables_types" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Basic variable types&lt;/h2&gt;</summary>
   </entry>
 </feed>

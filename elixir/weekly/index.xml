@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-04T01:41:44Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>beam-community/stripe-elixir</title>
+    <updated>2022-12-04T01:41:44Z</updated>
+    <id>tag:github.com,2022-12-04:/beam-community/stripe-elixir</id>
+    <link href="https://github.com/beam-community/stripe-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir Library for Stripe&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CargoSense/briefly</title>
+    <updated>2022-12-04T01:41:44Z</updated>
+    <id>tag:github.com,2022-12-04:/CargoSense/briefly</id>
+    <link href="https://github.com/CargoSense/briefly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple, robust temporary file support for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mtrudel/thousand_island</title>
+    <updated>2022-12-04T01:41:44Z</updated>
+    <id>tag:github.com,2022-12-04:/mtrudel/thousand_island</id>
+    <link href="https://github.com/mtrudel/thousand_island" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Thousand Island is a pure Elixir socket server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

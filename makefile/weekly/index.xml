@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-04T01:44:56Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>okp4/networks</title>
+    <updated>2022-12-04T01:44:56Z</updated>
+    <id>tag:github.com,2022-12-04:/okp4/networks</id>
+    <link href="https://github.com/okp4/networks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌐 Genesis and node configuration elements for joining OKP4 networks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>commercetools/commercetools-postman-collection</title>
+    <updated>2022-12-04T01:44:56Z</updated>
+    <id>tag:github.com,2022-12-04:/commercetools/commercetools-postman-collection</id>
+    <link href="https://github.com/commercetools/commercetools-postman-collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of commercetools API examples setup on top of Postman&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rochacbruno/python-project-template</title>
+    <updated>2022-12-04T01:44:56Z</updated>
+    <id>tag:github.com,2022-12-04:/rochacbruno/python-project-template</id>
+    <link href="https://github.com/rochacbruno/python-project-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DO NOT FORK, CLICK ON &#34;Use this template&#34; - A github template to start a Python Project - this uses github actions to generate your project based on the template.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

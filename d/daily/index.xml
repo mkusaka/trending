@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:31:01Z</updated>
+  <updated>2022-12-04T01:31:52Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rorm-orm/dorm</title>
-    <updated>2022-12-03T01:31:01Z</updated>
-    <id>tag:github.com,2022-12-03:/rorm-orm/dorm</id>
-    <link href="https://github.com/rorm-orm/dorm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;D frontend for rorm&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

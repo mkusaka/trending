@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:30:47Z</updated>
+  <updated>2022-12-04T01:31:32Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nextjournal/advent-of-clerk</title>
-    <updated>2022-12-03T01:30:47Z</updated>
-    <id>tag:github.com,2022-12-03:/nextjournal/advent-of-clerk</id>
-    <link href="https://github.com/nextjournal/advent-of-clerk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template repo for folks wanting to do Advent of Code with Clerk.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unclebob/AdventOfCode2022</title>
+    <updated>2022-12-04T01:31:32Z</updated>
+    <id>tag:github.com,2022-12-04:/unclebob/AdventOfCode2022</id>
+    <link href="https://github.com/unclebob/AdventOfCode2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advent of Code 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>status-im/simple-dapp</title>
-    <updated>2022-12-03T01:30:47Z</updated>
-    <id>tag:github.com,2022-12-03:/status-im/simple-dapp</id>
-    <link href="https://github.com/status-im/simple-dapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;simpledapp.eth&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zk/nsfw</title>
+    <updated>2022-12-04T01:31:32Z</updated>
+    <id>tag:github.com,2022-12-04:/zk/nsfw</id>
+    <link href="https://github.com/zk/nsfw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nsfw&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>scrintal/heroicons-reagent</title>
-    <updated>2022-12-03T01:30:47Z</updated>
-    <id>tag:github.com,2022-12-03:/scrintal/heroicons-reagent</id>
-    <link href="https://github.com/scrintal/heroicons-reagent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library containing all the SVGs from heroicons converted into reagent components&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>borkdude/advent-of-babashka</title>
+    <updated>2022-12-04T01:31:32Z</updated>
+    <id>tag:github.com,2022-12-04:/borkdude/advent-of-babashka</id>
+    <link href="https://github.com/borkdude/advent-of-babashka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advent of Code using babashka and nbb&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

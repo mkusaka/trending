@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:35:45Z</updated>
+  <updated>2022-12-04T01:36:37Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>huseyinkozan/opengl-super-bible-qt-project</title>
+    <updated>2022-12-04T01:36:37Z</updated>
+    <id>tag:github.com,2022-12-04:/huseyinkozan/opengl-super-bible-qt-project</id>
+    <link href="https://github.com/huseyinkozan/opengl-super-bible-qt-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qt project files to build and run from Qt Creator (and qmake) for the examples of The OpenGL Super Bible book www.starstonesoftware.com/OpenGL/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

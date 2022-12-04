@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:30:44Z</updated>
+  <updated>2022-12-04T01:31:29Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>evilempire22/BegASPNET</title>
-    <updated>2022-12-03T01:30:44Z</updated>
-    <id>tag:github.com,2022-12-03:/evilempire22/BegASPNET</id>
-    <link href="https://github.com/evilempire22/BegASPNET" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Beginning ASP.NET 4 in C#&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>select-interactive/SI-Website</title>
-    <updated>2022-12-03T01:30:44Z</updated>
-    <id>tag:github.com,2022-12-03:/select-interactive/SI-Website</id>
-    <link href="https://github.com/select-interactive/SI-Website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Select Interactive Website&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

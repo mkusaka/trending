@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-04T01:47:00Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GyulyVGC/sniffnet</title>
+    <updated>2022-12-04T01:47:00Z</updated>
+    <id>tag:github.com,2022-12-04:/GyulyVGC/sniffnet</id>
+    <link href="https://github.com/GyulyVGC/sniffnet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform application to monitor your network traffic with ease&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Orange-OpenSource/hurl</title>
+    <updated>2022-12-04T01:47:00Z</updated>
+    <id>tag:github.com,2022-12-04:/Orange-OpenSource/hurl</id>
+    <link href="https://github.com/Orange-OpenSource/hurl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hurl, run and test HTTP requests with plain text.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ankitects/anki</title>
+    <updated>2022-12-04T01:47:00Z</updated>
+    <id>tag:github.com,2022-12-04:/ankitects/anki</id>
+    <link href="https://github.com/ankitects/anki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Anki for desktop computers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

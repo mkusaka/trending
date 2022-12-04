@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:36:47Z</updated>
+  <updated>2022-12-04T01:37:48Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Basis-Theory/docs</title>
-    <updated>2022-12-03T01:36:47Z</updated>
-    <id>tag:github.com,2022-12-03:/Basis-Theory/docs</id>
-    <link href="https://github.com/Basis-Theory/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docs hosted at https://docs.basistheory.com/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eddiesigner/liebling</title>
+    <updated>2022-12-04T01:37:48Z</updated>
+    <id>tag:github.com,2022-12-04:/eddiesigner/liebling</id>
+    <link href="https://github.com/eddiesigner/liebling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the releases page 👉🏼&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

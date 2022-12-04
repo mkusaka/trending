@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:32:29Z</updated>
+  <updated>2022-12-04T01:33:11Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AoC-ESPOL/AoC-2022-Solutions</title>
-    <updated>2022-12-03T01:32:29Z</updated>
-    <id>tag:github.com,2022-12-03:/AoC-ESPOL/AoC-2022-Solutions</id>
-    <link href="https://github.com/AoC-ESPOL/AoC-2022-Solutions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Soluciones del Advent of Code 2022 por parte de la comunidad de ESPOL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Soluciones de ESPOL AoC&lt;/h1&gt; &#xA;&lt;p&gt;Bienvenidos al ESPOL AoC. ¡Esperamos disfruten este evento y se diviertan mucho!&lt;/p&gt; &#xA;&lt;h2&gt;Reglas&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Cada participante deberá crear una carpeta con su nombre. El formato es el siguiente ApellidoNombre&lt;/li&gt; &#xA; &lt;li&gt;Dentro de su carpeta cada solución deberá tener como nombre day_XX.[ext]&lt;/li&gt; &#xA; &lt;li&gt;No olvides divertirte!&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Happy coding!&lt;/p&gt;</summary>
+    <title>incoherentsoftware/defect-process</title>
+    <updated>2022-12-04T01:33:11Z</updated>
+    <id>tag:github.com,2022-12-04:/incoherentsoftware/defect-process</id>
+    <link href="https://github.com/incoherentsoftware/defect-process" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Defect Process (2d hack n&#39; slash game) full source code&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/incoherentsoftware/defect-process/raw/main/docs/screenshot.jpg&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is the full source code for &lt;a href=&#34;https://store.steampowered.com/app/1136730/Defect_Process/&#34;&gt;&lt;strong&gt;Defect Process&lt;/strong&gt;&lt;/a&gt;, a 2d hack n&#39; slash game.&lt;/p&gt; &#xA;&lt;p&gt;A &lt;a href=&#34;https://incoherentsoftware.com/defect-process/docs/&#34;&gt;brief overview of the code&lt;/a&gt; is available. You&#39;ll need a copy of the game&#39;s data files from Steam to run, but not to build. Please note that for the external data files all rights are reserved, the license for this git repository only applies to the files already in it.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/incoherentsoftware/defect-process/raw/main/docs/windows-setup.md&#34;&gt;Windows Setup Instructions&lt;/a&gt; / &lt;a href=&#34;https://github.com/incoherentsoftware/defect-process/raw/main/docs/linux-setup.md&#34;&gt;Linux Setup Instructions&lt;/a&gt; / &lt;a href=&#34;https://github.com/incoherentsoftware/defect-process/raw/main/docs/mac-setup.md&#34;&gt;Mac Setup Instructions&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>lagodiuk/studying-haskell-sandbox</title>
+    <updated>2022-12-04T01:33:11Z</updated>
+    <id>tag:github.com,2022-12-04:/lagodiuk/studying-haskell-sandbox</id>
+    <link href="https://github.com/lagodiuk/studying-haskell-sandbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learning a Haskell for Great Good :)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;studying-haskell-sandbox&lt;/h1&gt; &#xA;&lt;p&gt;Learning a Haskell for Great Good :)&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbg/llvm</title>
+    <updated>2022-12-04T01:33:11Z</updated>
+    <id>tag:github.com,2022-12-04:/mbg/llvm</id>
+    <link href="https://github.com/mbg/llvm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;llvm&lt;/h1&gt;</summary>
   </entry>
 </feed>

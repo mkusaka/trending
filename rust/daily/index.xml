@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:36:33Z</updated>
+  <updated>2022-12-04T01:37:36Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fspoettel/advent-of-code-rust</title>
-    <updated>2022-12-03T01:36:33Z</updated>
-    <id>tag:github.com,2022-12-03:/fspoettel/advent-of-code-rust</id>
-    <link href="https://github.com/fspoettel/advent-of-code-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎄Starter template for solving Advent of Code in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>extism/extism</title>
+    <updated>2022-12-04T01:37:36Z</updated>
+    <id>tag:github.com,2022-12-04:/extism/extism</id>
+    <link href="https://github.com/extism/extism" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extend anything with WebAssembly.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HarukaMa/aleo-prover</title>
+    <updated>2022-12-04T01:37:36Z</updated>
+    <id>tag:github.com,2022-12-04:/HarukaMa/aleo-prover</id>
+    <link href="https://github.com/HarukaMa/aleo-prover" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Light standalone prover&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>facebookincubator/buck2</title>
+    <updated>2022-12-04T01:37:36Z</updated>
+    <id>tag:github.com,2022-12-04:/facebookincubator/buck2</id>
+    <link href="https://github.com/facebookincubator/buck2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build system, successor to Buck&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

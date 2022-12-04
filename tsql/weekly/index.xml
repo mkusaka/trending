@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-04T01:48:16Z</updated>
+  <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis</title>
+    <updated>2022-12-04T01:48:16Z</updated>
+    <id>tag:github.com,2022-12-04:/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis</id>
+    <link href="https://github.com/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for files related to YouTube series on creating a Data Analyst Portoflio from scratch with SQL &amp; Power BI.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>erikaduan/r_tips</title>
+    <updated>2022-12-04T01:48:16Z</updated>
+    <id>tag:github.com,2022-12-04:/erikaduan/r_tips</id>
+    <link href="https://github.com/erikaduan/r_tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository of R usage tips for data cleaning, data mining, data visualisation, statistical inference and machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

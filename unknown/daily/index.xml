@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-03T01:29:26Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-12-04T01:30:15Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>waydabber/BetterDisplay</title>
-    <updated>2022-12-03T01:29:26Z</updated>
-    <id>tag:github.com,2022-12-03:/waydabber/BetterDisplay</id>
-    <link href="https://github.com/waydabber/BetterDisplay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StarCrossPortal/scalpel</title>
+    <updated>2022-12-04T01:30:15Z</updated>
+    <id>tag:github.com,2022-12-04:/StarCrossPortal/scalpel</id>
+    <link href="https://github.com/StarCrossPortal/scalpel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。 原理：https://mp.weixin.qq.com/s/U_llBwC05vb84U9wb8NZog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>markerikson/react-redux-links</title>
-    <updated>2022-12-03T01:29:26Z</updated>
-    <id>tag:github.com,2022-12-03:/markerikson/react-redux-links</id>
-    <link href="https://github.com/markerikson/react-redux-links" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated tutorial and resource links I&#39;ve collected on React, Redux, ES6, and more&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>certsocietegenerale/IRM</title>
+    <updated>2022-12-04T01:30:15Z</updated>
+    <id>tag:github.com,2022-12-04:/certsocietegenerale/IRM</id>
+    <link href="https://github.com/certsocietegenerale/IRM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Incident Response Methodologies 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>score-spec/spec</title>
-    <updated>2022-12-03T01:29:26Z</updated>
-    <id>tag:github.com,2022-12-03:/score-spec/spec</id>
-    <link href="https://github.com/score-spec/spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The score specification file&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aptos-foundation/ecosystem-projects</title>
+    <updated>2022-12-04T01:30:15Z</updated>
+    <id>tag:github.com,2022-12-04:/aptos-foundation/ecosystem-projects</id>
+    <link href="https://github.com/aptos-foundation/ecosystem-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of live projects within the Aptos ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

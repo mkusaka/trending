@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-04T01:39:54Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>davidHuanghw/StrobeMediaPlayback</title>
+    <updated>2022-12-04T01:39:54Z</updated>
+    <id>tag:github.com,2022-12-04:/davidHuanghw/StrobeMediaPlayback</id>
+    <link href="https://github.com/davidHuanghw/StrobeMediaPlayback" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OSMF開源播放器框架&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BritCardSoc/QR-lifetime-2011-native</title>
+    <updated>2022-12-04T01:39:54Z</updated>
+    <id>tag:github.com,2022-12-04:/BritCardSoc/QR-lifetime-2011-native</id>
+    <link href="https://github.com/BritCardSoc/QR-lifetime-2011-native" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;as3 library adapter to QRISK®-lifetime-2011&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tusharv/imagination</title>
+    <updated>2022-12-04T01:39:54Z</updated>
+    <id>tag:github.com,2022-12-04:/tusharv/imagination</id>
+    <link href="https://github.com/tusharv/imagination" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Imagination&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
