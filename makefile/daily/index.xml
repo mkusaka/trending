@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:35:08Z</updated>
+  <updated>2022-12-05T01:36:10Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>canonical/prometheus-juju-exporter</title>
-    <updated>2022-12-04T01:35:08Z</updated>
-    <id>tag:github.com,2022-12-04:/canonical/prometheus-juju-exporter</id>
-    <link href="https://github.com/canonical/prometheus-juju-exporter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fermyon/advent-of-spin</title>
-    <updated>2022-12-04T01:35:08Z</updated>
-    <id>tag:github.com,2022-12-04:/fermyon/advent-of-spin</id>
-    <link href="https://github.com/fermyon/advent-of-spin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>serverlessworkflow/specification</title>
-    <updated>2022-12-04T01:35:08Z</updated>
-    <id>tag:github.com,2022-12-04:/serverlessworkflow/specification</id>
-    <link href="https://github.com/serverlessworkflow/specification" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Serverless Workflow Specification&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>localstack/localstack-demo</title>
+    <updated>2022-12-05T01:36:10Z</updated>
+    <id>tag:github.com,2022-12-05:/localstack/localstack-demo</id>
+    <link href="https://github.com/localstack/localstack-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple demo application deployed using LocalStack&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

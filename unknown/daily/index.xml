@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:30:15Z</updated>
+  <updated>2022-12-05T01:31:37Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>StarCrossPortal/scalpel</title>
-    <updated>2022-12-04T01:30:15Z</updated>
-    <id>tag:github.com,2022-12-04:/StarCrossPortal/scalpel</id>
-    <link href="https://github.com/StarCrossPortal/scalpel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;scalpel是一款命令行漏洞扫描工具，支持深度参数注入，拥有一个强大的数据解析和变异算法，可以将常见的数据格式（json, xml, form等）解析为树结构，然后根据poc中的规则，对树进行变异，包括对叶子节点和树结构 的变异。变异完成之后，将树结构还原为原始的数据格式。 原理：https://mp.weixin.qq.com/s/U_llBwC05vb84U9wb8NZog&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>krishnadey30/LeetCode-Questions-CompanyWise</title>
+    <updated>2022-12-05T01:31:37Z</updated>
+    <id>tag:github.com,2022-12-05:/krishnadey30/LeetCode-Questions-CompanyWise</id>
+    <link href="https://github.com/krishnadey30/LeetCode-Questions-CompanyWise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contains Company Wise Questions sorted based on Frequency and all time&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>certsocietegenerale/IRM</title>
-    <updated>2022-12-04T01:30:15Z</updated>
-    <id>tag:github.com,2022-12-04:/certsocietegenerale/IRM</id>
-    <link href="https://github.com/certsocietegenerale/IRM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Incident Response Methodologies 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Loyalsoldier/v2ray-rules-dat</title>
+    <updated>2022-12-05T01:31:37Z</updated>
+    <id>tag:github.com,2022-12-05:/Loyalsoldier/v2ray-rules-dat</id>
+    <link href="https://github.com/Loyalsoldier/v2ray-rules-dat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aptos-foundation/ecosystem-projects</title>
-    <updated>2022-12-04T01:30:15Z</updated>
-    <id>tag:github.com,2022-12-04:/aptos-foundation/ecosystem-projects</id>
-    <link href="https://github.com/aptos-foundation/ecosystem-projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of live projects within the Aptos ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itgoyo/TelegramGroup</title>
+    <updated>2022-12-05T01:31:37Z</updated>
+    <id>tag:github.com,2022-12-05:/itgoyo/TelegramGroup</id>
+    <link href="https://github.com/itgoyo/TelegramGroup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

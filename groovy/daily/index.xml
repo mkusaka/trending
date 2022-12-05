@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:33:07Z</updated>
+  <updated>2022-12-05T01:34:17Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>brentlaster/roar</title>
-    <updated>2022-12-04T01:33:07Z</updated>
-    <id>tag:github.com,2022-12-04:/brentlaster/roar</id>
-    <link href="https://github.com/brentlaster/roar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example Grails demo project for use in training&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>green-code-initiative/ecocode-mobile</title>
-    <updated>2022-12-04T01:33:07Z</updated>
-    <id>tag:github.com,2022-12-04:/green-code-initiative/ecocode-mobile</id>
-    <link href="https://github.com/green-code-initiative/ecocode-mobile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ecoCode for mobile apps 📱&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

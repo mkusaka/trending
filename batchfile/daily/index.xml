@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:30:47Z</updated>
+  <updated>2022-12-05T01:32:00Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ITSN0B1T4/RDP-1-HOUR</title>
+    <updated>2022-12-05T01:32:00Z</updated>
+    <id>tag:github.com,2022-12-05:/ITSN0B1T4/RDP-1-HOUR</id>
+    <link href="https://github.com/ITSN0B1T4/RDP-1-HOUR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free window server (rdp)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>toddliu1/kiwix-v1.0.7</title>
+    <updated>2022-12-05T01:32:00Z</updated>
+    <id>tag:github.com,2022-12-05:/toddliu1/kiwix-v1.0.7</id>
+    <link href="https://github.com/toddliu1/kiwix-v1.0.7" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

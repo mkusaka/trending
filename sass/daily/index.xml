@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Sass Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:37:37Z</updated>
+  <updated>2022-12-05T01:38:15Z</updated>
   <subtitle>Daily Trending of Sass in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>APOD-Taigi/apod-taigi.github.io</title>
-    <updated>2022-12-04T01:37:37Z</updated>
-    <id>tag:github.com,2022-12-04:/APOD-Taigi/apod-taigi.github.io</id>
-    <link href="https://github.com/APOD-Taigi/apod-taigi.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;探索宇宙！逐工會揀一幅無仝款 ê 影像抑是相片，𤆬你熟似咱這个迷人 ê 宇宙，閣有專業天文學者為你解說。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

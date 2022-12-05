@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:35:09Z</updated>
+  <updated>2022-12-05T01:36:13Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>StimuLOOP/SLEEP</title>
-    <updated>2022-12-04T01:35:09Z</updated>
-    <id>tag:github.com,2022-12-04:/StimuLOOP/SLEEP</id>
-    <link href="https://github.com/StimuLOOP/SLEEP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository aims to collect all the technical documentation regarding sleep. It features some general code for generic purposes (e.g. data preprocessing) and specific code related to projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:30:43Z</updated>
+  <updated>2022-12-05T01:31:55Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>doldecomp/melee</title>
+    <updated>2022-12-05T01:31:55Z</updated>
+    <id>tag:github.com,2022-12-05:/doldecomp/melee</id>
+    <link href="https://github.com/doldecomp/melee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xctom/Nand2Tetris</title>
+    <updated>2022-12-05T01:31:55Z</updated>
+    <id>tag:github.com,2022-12-05:/xctom/Nand2Tetris</id>
+    <link href="https://github.com/xctom/Nand2Tetris" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All projects for Nand2Teris&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>komrad36/FastArrayOps</title>
+    <updated>2022-12-05T01:31:55Z</updated>
+    <id>tag:github.com,2022-12-05:/komrad36/FastArrayOps</id>
+    <link href="https://github.com/komrad36/FastArrayOps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extremely fast x86 / AVX2 assembly implementations of common operations for linear arrays: checking whether array contains element, finding index of element, finding min/max element, finding index of min/max element.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

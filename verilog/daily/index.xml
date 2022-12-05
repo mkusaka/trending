@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:39:11Z</updated>
+  <updated>2022-12-05T01:39:37Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>google/globalfoundries-pdk-libs-gf180mcu_fd_sc_mcu7t5v0</title>
-    <updated>2022-12-04T01:39:11Z</updated>
-    <id>tag:github.com,2022-12-04:/google/globalfoundries-pdk-libs-gf180mcu_fd_sc_mcu7t5v0</id>
-    <link href="https://github.com/google/globalfoundries-pdk-libs-gf180mcu_fd_sc_mcu7t5v0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;7 track standard cells for GF180MCU provided by GlobalFoundries.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ultraembedded/openlogicbit</title>
+    <updated>2022-12-05T01:39:37Z</updated>
+    <id>tag:github.com,2022-12-05:/ultraembedded/openlogicbit</id>
+    <link href="https://github.com/ultraembedded/openlogicbit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open-source Logic Analyzer gateware for various FPGA dev boards/replacement gateware for commercially available logic analyzers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sbourdeauducq/serdes-tdc</title>
+    <updated>2022-12-05T01:39:37Z</updated>
+    <id>tag:github.com,2022-12-05:/sbourdeauducq/serdes-tdc</id>
+    <link href="https://github.com/sbourdeauducq/serdes-tdc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SERDES-based TDC core for Spartan-6&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>efabless/caravel-gf180mcu</title>
+    <updated>2022-12-05T01:39:37Z</updated>
+    <id>tag:github.com,2022-12-05:/efabless/caravel-gf180mcu</id>
+    <link href="https://github.com/efabless/caravel-gf180mcu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is the GF180MCU port of Caravel. For more information about Caravel, see the original repo at https://github.com/efabless/caravel.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

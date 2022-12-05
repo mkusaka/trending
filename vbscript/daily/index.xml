@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VBScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:39:09Z</updated>
+  <updated>2022-12-05T01:39:35Z</updated>
   <subtitle>Daily Trending of VBScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>abbodi1406/BatUtil</title>
+    <updated>2022-12-05T01:39:35Z</updated>
+    <id>tag:github.com,2022-12-05:/abbodi1406/BatUtil</id>
+    <link href="https://github.com/abbodi1406/BatUtil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of batch scripts utilities for Windows&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

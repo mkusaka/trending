@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:38:27Z</updated>
+  <updated>2022-12-05T01:39:02Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arlac77/svelte-log-view</title>
-    <updated>2022-12-04T01:38:27Z</updated>
-    <id>tag:github.com,2022-12-04:/arlac77/svelte-log-view</id>
-    <link href="https://github.com/arlac77/svelte-log-view" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;show log content&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bespinian/bespinian.io</title>
+    <updated>2022-12-05T01:39:02Z</updated>
+    <id>tag:github.com,2022-12-05:/bespinian/bespinian.io</id>
+    <link href="https://github.com/bespinian/bespinian.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The bespinian.io website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>konsumation/konsum-frontend-svelte</title>
+    <updated>2022-12-05T01:39:02Z</updated>
+    <id>tag:github.com,2022-12-05:/konsumation/konsum-frontend-svelte</id>
+    <link href="https://github.com/konsumation/konsum-frontend-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;svelte web frontend for konsum&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PeufOne/trocio</title>
+    <updated>2022-12-05T01:39:02Z</updated>
+    <id>tag:github.com,2022-12-05:/PeufOne/trocio</id>
+    <link href="https://github.com/PeufOne/trocio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

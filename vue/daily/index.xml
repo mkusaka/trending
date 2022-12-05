@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:39:17Z</updated>
+  <updated>2022-12-05T01:39:42Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shiotsukikaedesari/three-vis-display-editor</title>
+    <updated>2022-12-05T01:39:42Z</updated>
+    <id>tag:github.com,2022-12-05:/Shiotsukikaedesari/three-vis-display-editor</id>
+    <link href="https://github.com/Shiotsukikaedesari/three-vis-display-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;three vis editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zchengo/crm</title>
+    <updated>2022-12-05T01:39:42Z</updated>
+    <id>tag:github.com,2022-12-05:/zchengo/crm</id>
+    <link href="https://github.com/zchengo/crm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;客户关系管理系统，基于 Vue + Go 实现，主要功能有仪表盘、客户管理、合同管理、产品管理，订阅等功能。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Sonolus/sonolus-server-landing</title>
+    <updated>2022-12-05T01:39:42Z</updated>
+    <id>tag:github.com,2022-12-05:/Sonolus/sonolus-server-landing</id>
+    <link href="https://github.com/Sonolus/sonolus-server-landing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lean and beautiful landing page for Sonolus servers, with multiple languages, guide on how to use, and server content showcase&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

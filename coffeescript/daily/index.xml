@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:31:36Z</updated>
+  <updated>2022-12-05T01:32:39Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cjb/codex-blackboard</title>
-    <updated>2022-12-04T01:31:36Z</updated>
-    <id>tag:github.com,2022-12-04:/cjb/codex-blackboard</id>
-    <link href="https://github.com/cjb/codex-blackboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Meteor app for coordinating solving for our MIT Mystery Hunt team&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vicentereig/jquery.chained</title>
+    <updated>2022-12-05T01:32:39Z</updated>
+    <id>tag:github.com,2022-12-05:/vicentereig/jquery.chained</id>
+    <link href="https://github.com/vicentereig/jquery.chained" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dead Simple Chained Selects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deltaepsilon/bloggeroid</title>
+    <updated>2022-12-05T01:32:39Z</updated>
+    <id>tag:github.com,2022-12-05:/deltaepsilon/bloggeroid</id>
+    <link href="https://github.com/deltaepsilon/bloggeroid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Meteor is the new hotness. After the to-do app, it&#39;s time to make a blog.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

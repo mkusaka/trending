@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:30:44Z</updated>
+  <updated>2022-12-05T01:31:56Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>XgHao/WeChat-Contact</title>
+    <updated>2022-12-05T01:31:56Z</updated>
+    <id>tag:github.com,2022-12-05:/XgHao/WeChat-Contact</id>
+    <link href="https://github.com/XgHao/WeChat-Contact" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;微信联系人导出/微信好友导出。Export WeChat Contact&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

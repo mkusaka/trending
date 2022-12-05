@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:38:19Z</updated>
+  <updated>2022-12-05T01:38:55Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pooltogether/ERC5164</title>
-    <updated>2022-12-04T01:38:19Z</updated>
-    <id>tag:github.com,2022-12-04:/pooltogether/ERC5164</id>
-    <link href="https://github.com/pooltogether/ERC5164" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ubiquity/ubiquity-dollar</title>
-    <updated>2022-12-04T01:38:19Z</updated>
-    <id>tag:github.com,2022-12-04:/ubiquity/ubiquity-dollar</id>
-    <link href="https://github.com/ubiquity/ubiquity-dollar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ubiquity Algorithmic Dollar (uAD) smart contracts and user interface.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prettier-solidity/prettier-plugin-solidity</title>
+    <updated>2022-12-05T01:38:55Z</updated>
+    <id>tag:github.com,2022-12-05:/prettier-solidity/prettier-plugin-solidity</id>
+    <link href="https://github.com/prettier-solidity/prettier-plugin-solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Prettier plugin for automatically formatting your Solidity code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

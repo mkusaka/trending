@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:34:22Z</updated>
+  <updated>2022-12-05T01:35:33Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LiquidFun/adventofcode</title>
-    <updated>2022-12-04T01:34:22Z</updated>
-    <id>tag:github.com,2022-12-04:/LiquidFun/adventofcode</id>
-    <link href="https://github.com/LiquidFun/adventofcode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Advent of Code solutions and visualizations for the years 2021 and 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaDebug/CassetteOverlay.jl</title>
+    <updated>2022-12-05T01:35:33Z</updated>
+    <id>tag:github.com,2022-12-05:/JuliaDebug/CassetteOverlay.jl</id>
+    <link href="https://github.com/JuliaDebug/CassetteOverlay.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experimental simple method overlay mechanism for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>uniment/MethodChains.jl</title>
-    <updated>2022-12-04T01:34:22Z</updated>
-    <id>tag:github.com,2022-12-04:/uniment/MethodChains.jl</id>
-    <link href="https://github.com/uniment/MethodChains.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generalized method chaining syntax for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSmoothOptimizers/Percival.jl</title>
+    <updated>2022-12-05T01:35:33Z</updated>
+    <id>tag:github.com,2022-12-05:/JuliaSmoothOptimizers/Percival.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/Percival.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementation of a Augmented Lagrangian method&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>neherlab/pangraph</title>
-    <updated>2022-12-04T01:34:22Z</updated>
-    <id>tag:github.com,2022-12-04:/neherlab/pangraph</id>
-    <link href="https://github.com/neherlab/pangraph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bioinformatic toolkit to align genome assemblies into pangenome graphs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MineralsCloud/EasyJobs.jl</title>
+    <updated>2022-12-05T01:35:33Z</updated>
+    <id>tag:github.com,2022-12-05:/MineralsCloud/EasyJobs.jl</id>
+    <link href="https://github.com/MineralsCloud/EasyJobs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create any job from Julia functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

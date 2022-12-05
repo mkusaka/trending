@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:31:52Z</updated>
+  <updated>2022-12-05T01:32:53Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jgottula/asx</title>
+    <updated>2022-12-05T01:32:53Z</updated>
+    <id>tag:github.com,2022-12-05:/jgottula/asx</id>
+    <link href="https://github.com/jgottula/asx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;x86 assembler with the meager aspiration to be less horrible than the gnu assembler [on hold]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

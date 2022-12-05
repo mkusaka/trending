@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-04T01:31:32Z</updated>
+  <updated>2022-12-05T01:32:34Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>unclebob/AdventOfCode2022</title>
-    <updated>2022-12-04T01:31:32Z</updated>
-    <id>tag:github.com,2022-12-04:/unclebob/AdventOfCode2022</id>
-    <link href="https://github.com/unclebob/AdventOfCode2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advent of Code 2022&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quil/quil</title>
+    <updated>2022-12-05T01:32:34Z</updated>
+    <id>tag:github.com,2022-12-05:/quil/quil</id>
+    <link href="https://github.com/quil/quil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Main repo. Quil source code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zk/nsfw</title>
-    <updated>2022-12-04T01:31:32Z</updated>
-    <id>tag:github.com,2022-12-04:/zk/nsfw</id>
-    <link href="https://github.com/zk/nsfw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nsfw&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>borkdude/advent-of-babashka</title>
-    <updated>2022-12-04T01:31:32Z</updated>
-    <id>tag:github.com,2022-12-04:/borkdude/advent-of-babashka</id>
-    <link href="https://github.com/borkdude/advent-of-babashka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advent of Code using babashka and nbb&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BetterThanTomorrow/joyride</title>
+    <updated>2022-12-05T01:32:34Z</updated>
+    <id>tag:github.com,2022-12-05:/BetterThanTomorrow/joyride</id>
+    <link href="https://github.com/BetterThanTomorrow/joyride" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Making VS Code Hackable like Emacs since 2022&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
