@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:35:33Z</updated>
+  <updated>2022-12-06T01:35:05Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaDebug/CassetteOverlay.jl</title>
-    <updated>2022-12-05T01:35:33Z</updated>
-    <id>tag:github.com,2022-12-05:/JuliaDebug/CassetteOverlay.jl</id>
-    <link href="https://github.com/JuliaDebug/CassetteOverlay.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An experimental simple method overlay mechanism for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rikhuijzer/JuliaTutorialsTemplate</title>
+    <updated>2022-12-06T01:35:05Z</updated>
+    <id>tag:github.com,2022-12-06:/rikhuijzer/JuliaTutorialsTemplate</id>
+    <link href="https://github.com/rikhuijzer/JuliaTutorialsTemplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A template for building websites with Julia. Easily publish Pluto notebooks online.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaSmoothOptimizers/Percival.jl</title>
-    <updated>2022-12-05T01:35:33Z</updated>
-    <id>tag:github.com,2022-12-05:/JuliaSmoothOptimizers/Percival.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/Percival.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of a Augmented Lagrangian method&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Experica/NeuroAnalysis.jl</title>
+    <updated>2022-12-06T01:35:05Z</updated>
+    <id>tag:github.com,2022-12-06:/Experica/NeuroAnalysis.jl</id>
+    <link href="https://github.com/Experica/NeuroAnalysis.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neural Signal Analysis&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MineralsCloud/EasyJobs.jl</title>
-    <updated>2022-12-05T01:35:33Z</updated>
-    <id>tag:github.com,2022-12-05:/MineralsCloud/EasyJobs.jl</id>
-    <link href="https://github.com/MineralsCloud/EasyJobs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create any job from Julia functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MineralsCloud/QuantumESPRESSOCommands.jl</title>
+    <updated>2022-12-06T01:35:05Z</updated>
+    <id>tag:github.com,2022-12-06:/MineralsCloud/QuantumESPRESSOCommands.jl</id>
+    <link href="https://github.com/MineralsCloud/QuantumESPRESSOCommands.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia wrapper of Quantum ESPRESSO commands with configurations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

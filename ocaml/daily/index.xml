@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:36:38Z</updated>
+  <updated>2022-12-06T01:36:27Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DrearyLisper/aoc-2022</title>
-    <updated>2022-12-05T01:36:38Z</updated>
-    <id>tag:github.com,2022-12-05:/DrearyLisper/aoc-2022</id>
-    <link href="https://github.com/DrearyLisper/aoc-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solving Advent of Code 2022 in OCaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

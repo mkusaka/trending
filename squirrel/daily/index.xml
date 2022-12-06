@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:38:57Z</updated>
+  <updated>2022-12-06T01:38:59Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Joshua-Ashton/riscv-vscript</title>
-    <updated>2022-12-05T01:38:57Z</updated>
-    <id>tag:github.com,2022-12-05:/Joshua-Ashton/riscv-vscript</id>
-    <link href="https://github.com/Joshua-Ashton/riscv-vscript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A port of mini-rv32ima to VScript (Squirrel 3)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

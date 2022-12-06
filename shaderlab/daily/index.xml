@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:38:29Z</updated>
+  <updated>2022-12-06T01:38:25Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jasmineroberts/dalle-api-unity</title>
-    <updated>2022-12-05T01:38:29Z</updated>
-    <id>tag:github.com,2022-12-05:/jasmineroberts/dalle-api-unity</id>
-    <link href="https://github.com/jasmineroberts/dalle-api-unity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DALL·E API in the Unity Game Engine (2021.3.6f1)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:34:32Z</updated>
+  <updated>2022-12-06T01:33:44Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BeastlyGhost/FNF-Funkin-Feather</title>
-    <updated>2022-12-05T01:34:32Z</updated>
-    <id>tag:github.com,2022-12-05:/BeastlyGhost/FNF-Funkin-Feather</id>
-    <link href="https://github.com/BeastlyGhost/FNF-Funkin-Feather" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a work in progress rewrite of NinjaMuffin99&#39;s Friday Night Funkin&#39;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Funkin&#39;: Feather&lt;/h1&gt; &#xA;&lt;p&gt;A Work in Progress rewrite of &lt;a href=&#34;https://github.com/ninjamuffin99/Funkin&#34;&gt;Friday Night Funkin&#39;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Made for learning purposes and as a love letter for Friday Night Funkin&#39;s modding community. While still being very early in development, feedback and help with this project is appreciated.&lt;/p&gt; &#xA;&lt;p&gt;The base game won&#39;t be included with Funkin&#39;: Feather, as it&#39;s made specifically for mods and mods &lt;em&gt;only&lt;/em&gt;. However, it will be distributed separately, like a mod in it of itself.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Want to contact me?&lt;/h2&gt; &#xA;&lt;p&gt;You can do so on either &lt;a href=&#34;https://twitter.com/BeastlyGabi&#34;&gt;Twitter&lt;/a&gt; or &lt;a href=&#34;https://discord.com/users/597124141530742805&#34;&gt;Discord&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

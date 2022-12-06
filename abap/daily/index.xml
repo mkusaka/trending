@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ABAP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:31:45Z</updated>
+  <updated>2022-12-06T01:30:01Z</updated>
   <subtitle>Daily Trending of ABAP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>microsoft/abap2git</title>
-    <updated>2022-12-05T01:31:45Z</updated>
-    <id>tag:github.com,2022-12-05:/microsoft/abap2git</id>
-    <link href="https://github.com/microsoft/abap2git" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;One-way sync from SAP to Git repo for ABAP objects allowing multiple systems in branches and multiple packages in one branch&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

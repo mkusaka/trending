@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:33:35Z</updated>
+  <updated>2022-12-06T01:32:35Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>membraneframework/membrane_rtp_h264_plugin</title>
-    <updated>2022-12-05T01:33:35Z</updated>
-    <id>tag:github.com,2022-12-05:/membraneframework/membrane_rtp_h264_plugin</id>
-    <link href="https://github.com/membraneframework/membrane_rtp_h264_plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Membrane RTP payloader and depayloader for H264&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ExHammer/hammer</title>
+    <updated>2022-12-06T01:32:35Z</updated>
+    <id>tag:github.com,2022-12-06:/ExHammer/hammer</id>
+    <link href="https://github.com/ExHammer/hammer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir rate-limiter with pluggable backends&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bitcrowd/carbonite</title>
-    <updated>2022-12-05T01:33:35Z</updated>
-    <id>tag:github.com,2022-12-05:/bitcrowd/carbonite</id>
-    <link href="https://github.com/bitcrowd/carbonite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Audit trails for Elixir/PostgreSQL based on triggers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vigetlabs/advent-of-code</title>
+    <updated>2022-12-06T01:32:35Z</updated>
+    <id>tag:github.com,2022-12-06:/vigetlabs/advent-of-code</id>
+    <link href="https://github.com/vigetlabs/advent-of-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A place to share the dev team&#39;s advent of code 2021 work&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aeternity/ae_mdw</title>
+    <updated>2022-12-06T01:32:35Z</updated>
+    <id>tag:github.com,2022-12-06:/aeternity/ae_mdw</id>
+    <link href="https://github.com/aeternity/ae_mdw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aeternity Middleware in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

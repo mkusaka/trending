@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:38:15Z</updated>
+  <updated>2022-12-06T01:38:09Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linebender/xilem</title>
-    <updated>2022-12-05T01:38:15Z</updated>
-    <id>tag:github.com,2022-12-05:/linebender/xilem</id>
-    <link href="https://github.com/linebender/xilem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An experimental Rust native UI framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-tw/advent-of-code</title>
+    <updated>2022-12-06T01:38:09Z</updated>
+    <id>tag:github.com,2022-12-06:/rust-tw/advent-of-code</id>
+    <link href="https://github.com/rust-tw/advent-of-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tokio-rs/console</title>
-    <updated>2022-12-05T01:38:15Z</updated>
-    <id>tag:github.com,2022-12-05:/tokio-rs/console</id>
-    <link href="https://github.com/tokio-rs/console" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a debugger for async rust!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Manta-Network/manta-rs</title>
-    <updated>2022-12-05T01:38:15Z</updated>
-    <id>tag:github.com,2022-12-05:/Manta-Network/manta-rs</id>
-    <link href="https://github.com/Manta-Network/manta-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust Crates for the Manta Network Ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>betaveros/noulith</title>
+    <updated>2022-12-06T01:38:09Z</updated>
+    <id>tag:github.com,2022-12-06:/betaveros/noulith</id>
+    <link href="https://github.com/betaveros/noulith" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

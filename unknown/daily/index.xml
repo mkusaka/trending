@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-05T01:31:37Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-12-06T01:29:49Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krishnadey30/LeetCode-Questions-CompanyWise</title>
-    <updated>2022-12-05T01:31:37Z</updated>
-    <id>tag:github.com,2022-12-05:/krishnadey30/LeetCode-Questions-CompanyWise</id>
-    <link href="https://github.com/krishnadey30/LeetCode-Questions-CompanyWise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains Company Wise Questions sorted based on Frequency and all time&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>APTIRAN/CVE-2022-21661</title>
+    <updated>2022-12-06T01:29:49Z</updated>
+    <id>tag:github.com,2022-12-06:/APTIRAN/CVE-2022-21661</id>
+    <link href="https://github.com/APTIRAN/CVE-2022-21661" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The first poc video presenting the sql injection test from ( WordPress Core 5.8.2-&#39;WP_Query&#39; / CVE-2022-21661)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Loyalsoldier/v2ray-rules-dat</title>
-    <updated>2022-12-05T01:31:37Z</updated>
-    <id>tag:github.com,2022-12-05:/Loyalsoldier/v2ray-rules-dat</id>
-    <link href="https://github.com/Loyalsoldier/v2ray-rules-dat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sw-yx/ai-notes</title>
+    <updated>2022-12-06T01:29:49Z</updated>
+    <id>tag:github.com,2022-12-06:/sw-yx/ai-notes</id>
+    <link href="https://github.com/sw-yx/ai-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;notes for prompt engineering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>itgoyo/TelegramGroup</title>
-    <updated>2022-12-05T01:31:37Z</updated>
-    <id>tag:github.com,2022-12-05:/itgoyo/TelegramGroup</id>
-    <link href="https://github.com/itgoyo/TelegramGroup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;悄咪咪收集的1000+个Telegram群合集，如果有更多好玩的telegram群，欢迎在 issue 提出或者pull requests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ddgksf2013/M3U8LIST</title>
+    <updated>2022-12-06T01:29:49Z</updated>
+    <id>tag:github.com,2022-12-06:/ddgksf2013/M3U8LIST</id>
+    <link href="https://github.com/ddgksf2013/M3U8LIST" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
