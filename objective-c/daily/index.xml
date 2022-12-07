@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:36:20Z</updated>
+  <updated>2022-12-07T01:34:30Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rollout/rox-spm</title>
-    <updated>2022-12-06T01:36:20Z</updated>
-    <id>tag:github.com,2022-12-06:/rollout/rox-spm</id>
-    <link href="https://github.com/rollout/rox-spm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;swift ios sdk&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>palera1n/loader</title>
-    <updated>2022-12-06T01:36:20Z</updated>
-    <id>tag:github.com,2022-12-06:/palera1n/loader</id>
-    <link href="https://github.com/palera1n/loader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;palera1n loader&lt;/h1&gt; &#xA;&lt;p&gt;This is the loader application that gets installed to your device after jailbreaking which lets you bootstrap the device among other things.&lt;/p&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;You can edit the project in Xcode and then run &lt;code&gt;make&lt;/code&gt; to build the ipa file.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>qualtrics/qualtrics-digital-ios-sdk</title>
-    <updated>2022-12-06T01:36:20Z</updated>
-    <id>tag:github.com,2022-12-06:/qualtrics/qualtrics-digital-ios-sdk</id>
-    <link href="https://github.com/qualtrics/qualtrics-digital-ios-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;qualtrics-digital-ios-sdk&lt;/h1&gt; &#xA;&lt;p&gt;This package is Qualtrics&#39; Digital IOS SDK to be used by IOS application via Swift Package Manager. All the public APIs and supported scenarios are documented here: &lt;a href=&#34;https://api.qualtrics.com/sdks/ZG9jOjgwNTgzNjY-getting-started-with-the-mobile-app-sdk-on-i-os&#34;&gt;Getting started with IOS SDK&lt;/a&gt; The release notes for each version can be found here: &lt;a href=&#34;https://api.qualtrics.com/sdks/ZG9jOjgwNTgzNjc-i-os-mobile-app-sdk-releases&#34;&gt;Release Notes&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installing the package through Swift Package Manager&lt;/h2&gt; &#xA;&lt;p&gt;Add a dependency on qualtrics-digital-ios-sdk to your ios application through Xcode by navigating to File-&amp;gt;Swift Packages-&amp;gt;Add Package Dependency&lt;/p&gt; &#xA;&lt;p&gt;On the modal that appears, enter the package repository url: &lt;a href=&#34;https://github.com/qualtrics/qualtrics-digital-ios-sdk&#34;&gt;https://github.com/qualtrics/qualtrics-digital-ios-sdk&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/qualtrics/qualtrics-digital-ios-sdk/raw/main/ReadMeFiles/addPackage.png?raw=true&#34; alt=&#34;add package&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Complete the steps by selecting the latest version of the Qualtrics SDK and this should install the Qualtrics SDK as a dependency for the project.&lt;/p&gt;</summary>
-  </entry>
 </feed>

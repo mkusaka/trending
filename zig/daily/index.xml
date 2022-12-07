@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:40:28Z</updated>
+  <updated>2022-12-07T01:37:59Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mitchellh/zig-js</title>
-    <updated>2022-12-06T01:40:28Z</updated>
-    <id>tag:github.com,2022-12-06:/mitchellh/zig-js</id>
-    <link href="https://github.com/mitchellh/zig-js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Access the JS host environment from Zig compiled to WebAssembly.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>InKryption/rpmalloc-zig-port</title>
-    <updated>2022-12-06T01:40:28Z</updated>
-    <id>tag:github.com,2022-12-06:/InKryption/rpmalloc-zig-port</id>
-    <link href="https://github.com/InKryption/rpmalloc-zig-port" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kiedtl/roguelike</title>
-    <updated>2022-12-06T01:40:28Z</updated>
-    <id>tag:github.com,2022-12-06:/kiedtl/roguelike</id>
-    <link href="https://github.com/kiedtl/roguelike" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A roguelike focused on tactical positioning and stealth.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

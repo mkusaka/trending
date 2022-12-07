@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:30:11Z</updated>
+  <updated>2022-12-07T01:29:53Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yuv422/skifree_decomp</title>
-    <updated>2022-12-06T01:30:11Z</updated>
-    <id>tag:github.com,2022-12-06:/yuv422/skifree_decomp</id>
-    <link href="https://github.com/yuv422/skifree_decomp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SkiFree decompilation project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>EIE2-IAC-Labs/Project_Brief</title>
-    <updated>2022-12-06T01:30:11Z</updated>
-    <id>tag:github.com,2022-12-06:/EIE2-IAC-Labs/Project_Brief</id>
-    <link href="https://github.com/EIE2-IAC-Labs/Project_Brief" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cpvirtual/OR_CPV</title>
-    <updated>2022-12-06T01:30:11Z</updated>
-    <id>tag:github.com,2022-12-06:/cpvirtual/OR_CPV</id>
-    <link href="https://github.com/cpvirtual/OR_CPV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Portuguese content for Open Rails&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alblue/8086tiny</title>
+    <updated>2022-12-07T01:29:53Z</updated>
+    <id>tag:github.com,2022-12-07:/alblue/8086tiny</id>
+    <link href="https://github.com/alblue/8086tiny" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;8086tiny interpreter by Adrian Cable, taken from http://www.megalith.co.uk/8086tiny/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

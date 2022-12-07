@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:40:17Z</updated>
+  <updated>2022-12-07T01:37:47Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Advent-Of-Vue/xmas-countdown</title>
-    <updated>2022-12-06T01:40:17Z</updated>
-    <id>tag:github.com,2022-12-06:/Advent-Of-Vue/xmas-countdown</id>
-    <link href="https://github.com/Advent-Of-Vue/xmas-countdown" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cyclic-software/starter-vue</title>
-    <updated>2022-12-06T01:40:17Z</updated>
-    <id>tag:github.com,2022-12-06:/cyclic-software/starter-vue</id>
-    <link href="https://github.com/cyclic-software/starter-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GuMengYu/music-you</title>
-    <updated>2022-12-06T01:40:17Z</updated>
-    <id>tag:github.com,2022-12-06:/GuMengYu/music-you</id>
-    <link href="https://github.com/GuMengYu/music-you" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🪗 一个美观简约的Material Design 3 (Material You) 风格网易云音乐播放器pc客户端&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

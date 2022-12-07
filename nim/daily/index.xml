@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:36:12Z</updated>
+  <updated>2022-12-07T01:34:24Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>byt3bl33d3r/NimDllSideload</title>
-    <updated>2022-12-06T01:36:12Z</updated>
-    <id>tag:github.com,2022-12-06:/byt3bl33d3r/NimDllSideload</id>
-    <link href="https://github.com/byt3bl33d3r/NimDllSideload" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DLL sideloading/proxying with Nim!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/nim-nat-traversal</title>
-    <updated>2022-12-06T01:36:12Z</updated>
-    <id>tag:github.com,2022-12-06:/status-im/nim-nat-traversal</id>
-    <link href="https://github.com/status-im/nim-nat-traversal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim NAT traversal using wrappers for miniupnpc and libnatpmp&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/nim-faststreams</title>
-    <updated>2022-12-06T01:36:12Z</updated>
-    <id>tag:github.com,2022-12-06:/status-im/nim-faststreams</id>
-    <link href="https://github.com/status-im/nim-faststreams" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nearly zero-overhead input/output streams for Nim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>choltreppe/parlexgen</title>
+    <updated>2022-12-07T01:34:24Z</updated>
+    <id>tag:github.com,2022-12-07:/choltreppe/parlexgen</id>
+    <link href="https://github.com/choltreppe/parlexgen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A parser generator for nim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:36:50Z</updated>
+  <updated>2022-12-07T01:34:50Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thiagorondon/App-Emma-Voip</title>
+    <updated>2022-12-07T01:34:50Z</updated>
+    <id>tag:github.com,2022-12-07:/thiagorondon/App-Emma-Voip</id>
+    <link href="https://github.com/thiagorondon/App-Emma-Voip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simple telephone operator for make calls for you.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Emma VoIP&lt;/h1&gt; &#xA;&lt;p&gt;Simple dispatcher and callphone for a proxy sip to send a audio file.&lt;/p&gt; &#xA;&lt;h2&gt;Motivation&lt;/h2&gt; &#xA;&lt;p&gt;I don&#39;t find any opensource solution to do that in a simple way.&lt;/p&gt; &#xA;&lt;h2&gt;Synopsis&lt;/h2&gt; &#xA;&lt;p&gt;$ emma --help&lt;/p&gt; &#xA;&lt;p&gt;usage: emma [-?] [long options...] -? --usage --help Prints this usage information. --leg Use given local ip[:port] for outgoing leg --concurrency How many simultaneous calls do you want to do ? --username Username for authorization --to to sip address --registrar Register at given address --password Password for authorization --filename Send content of file, can be given multiple times --from from sip address --timeout timeout and cancel invite after N seconds, default is 30 --debug Enable debugging --persists N times that we can persist a success call by number --proxy Use outgoing proxy, register there unless registrar given&lt;/p&gt; &#xA;&lt;h2&gt;Cmd&lt;/h2&gt; &#xA;&lt;p&gt;$ emma --filename record.data --to sip:&lt;a href=&#34;mailto:12320493@domain.com&#34;&gt;12320493@domain.com&lt;/a&gt; --from sip:&lt;a href=&#34;mailto:thiago@gw.domain.com&#34;&gt;thiago@gw.domain.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Convert a OGG file to &#34;data&#34;.&lt;/h2&gt; &#xA;&lt;p&gt;sox -r 44100 -c 2 record.ogg -r 8000 -c 1 -t raw -U record.raw&lt;/p&gt; &#xA;&lt;h2&gt;Name&lt;/h2&gt; &#xA;&lt;p&gt;App-Emma-Voip is from Emma Mills Nutt became the world&#39;s first female telephone operator on 1 September 1878 when she started working for the Edwin Holmes Telephone Dispatch (or the Boston Telephone Dispatch company) in Boston, Massachusetts.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>spazm/p5-facebook-graph-cmdline</title>
+    <updated>2022-12-07T01:34:50Z</updated>
+    <id>tag:github.com,2022-12-07:/spazm/p5-facebook-graph-cmdline</id>
+    <link href="https://github.com/spazm/p5-facebook-graph-cmdline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provides role for embedding HTTP::Daemon to simplify Facebook::Graph oauth for command line applications.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NAME&lt;/h1&gt; &#xA;&lt;p&gt;Facebook::Graph::Cmdline - Extends Facebook::Graph with embedded HTTP for Oauth and token saving&lt;/p&gt; &#xA;&lt;h1&gt;VERSION&lt;/h1&gt; &#xA;&lt;p&gt;version 0.123490&lt;/p&gt; &#xA;&lt;h1&gt;AUTHOR&lt;/h1&gt; &#xA;&lt;p&gt;Andrew Grangaard &lt;a href=&#34;mailto:spazm@cpan.org&#34;&gt;spazm@cpan.org&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;COPYRIGHT AND LICENSE&lt;/h1&gt; &#xA;&lt;p&gt;This software is copyright (c) 2012 by Andrew Grangaard.&lt;/p&gt; &#xA;&lt;p&gt;This is free software; you can redistribute it and/or modify it under the same terms as the Perl 5 programming language system itself.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>jeppeter/astylepl</title>
+    <updated>2022-12-07T01:34:50Z</updated>
+    <id>tag:github.com,2022-12-07:/jeppeter/astylepl</id>
+    <link href="https://github.com/jeppeter/astylepl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

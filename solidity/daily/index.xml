@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:38:58Z</updated>
+  <updated>2022-12-07T01:36:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jutivia/methcreate</title>
-    <updated>2022-12-06T01:38:58Z</updated>
-    <id>tag:github.com,2022-12-06:/jutivia/methcreate</id>
-    <link href="https://github.com/jutivia/methcreate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>refcell/femplate</title>
-    <updated>2022-12-06T01:38:58Z</updated>
-    <id>tag:github.com,2022-12-06:/refcell/femplate</id>
-    <link href="https://github.com/refcell/femplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Robust, Feature-Rich Solidity Template Repository for Foundry Projects with Scripting, Testing, and Utility Bash Scripts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

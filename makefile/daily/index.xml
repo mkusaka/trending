@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:35:51Z</updated>
+  <updated>2022-12-07T01:34:10Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RolandRoman/Team-Final-Project-Collagen-</title>
-    <updated>2022-12-06T01:35:51Z</updated>
-    <id>tag:github.com,2022-12-06:/RolandRoman/Team-Final-Project-Collagen-</id>
-    <link href="https://github.com/RolandRoman/Team-Final-Project-Collagen-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mr-m96/MTKPreloaderParser</title>
+    <updated>2022-12-07T01:34:10Z</updated>
+    <id>tag:github.com,2022-12-07:/mr-m96/MTKPreloaderParser</id>
+    <link href="https://github.com/mr-m96/MTKPreloaderParser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MTK Preloader Parser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>proxmox/gfs2-utils</title>
+    <updated>2022-12-07T01:34:10Z</updated>
+    <id>tag:github.com,2022-12-07:/proxmox/gfs2-utils</id>
+    <link href="https://github.com/proxmox/gfs2-utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GFS2 utils&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

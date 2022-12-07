@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:35:05Z</updated>
+  <updated>2022-12-07T01:33:21Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rikhuijzer/JuliaTutorialsTemplate</title>
-    <updated>2022-12-06T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-06:/rikhuijzer/JuliaTutorialsTemplate</id>
-    <link href="https://github.com/rikhuijzer/JuliaTutorialsTemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template for building websites with Julia. Easily publish Pluto notebooks online.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>carlobaldassi/TextWrap.jl</title>
+    <updated>2022-12-07T01:33:21Z</updated>
+    <id>tag:github.com,2022-12-07:/carlobaldassi/TextWrap.jl</id>
+    <link href="https://github.com/carlobaldassi/TextWrap.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for wrapping text into paragraphs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Experica/NeuroAnalysis.jl</title>
-    <updated>2022-12-06T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-06:/Experica/NeuroAnalysis.jl</id>
-    <link href="https://github.com/Experica/NeuroAnalysis.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neural Signal Analysis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SebRollen/AdventOfCode.jl</title>
+    <updated>2022-12-07T01:33:21Z</updated>
+    <id>tag:github.com,2022-12-07:/SebRollen/AdventOfCode.jl</id>
+    <link href="https://github.com/SebRollen/AdventOfCode.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helper library for working with Advent of Code in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MineralsCloud/QuantumESPRESSOCommands.jl</title>
-    <updated>2022-12-06T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-06:/MineralsCloud/QuantumESPRESSOCommands.jl</id>
-    <link href="https://github.com/MineralsCloud/QuantumESPRESSOCommands.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia wrapper of Quantum ESPRESSO commands with configurations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ntumitolab/mitodyn-ode</title>
+    <updated>2022-12-07T01:33:21Z</updated>
+    <id>tag:github.com,2022-12-07:/ntumitolab/mitodyn-ode</id>
+    <link href="https://github.com/ntumitolab/mitodyn-ode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for mitochondrial dynamics ODE manuscript. Issues: https://github.com/sosiristseng/progress/issues?q=is%3Aopen+label%3A%22MitoDyn+and+Glucose+model%22+sort%3Aupdated-desc&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:32:32Z</updated>
+  <updated>2022-12-07T01:31:30Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>meklitAlemu/ENSE374_Troi</title>
-    <updated>2022-12-06T01:32:32Z</updated>
-    <id>tag:github.com,2022-12-06:/meklitAlemu/ENSE374_Troi</id>
-    <link href="https://github.com/meklitAlemu/ENSE374_Troi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project development for a running shoe recommendation application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lework/reference</title>
+    <updated>2022-12-07T01:31:30Z</updated>
+    <id>tag:github.com,2022-12-07:/lework/reference</id>
+    <link href="https://github.com/lework/reference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;专为运维人员而分享的速查表(备忘单)，目的是为了方便运维小伙伴在日常工作中查阅。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

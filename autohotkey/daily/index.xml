@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:30:12Z</updated>
+  <updated>2022-12-07T01:29:54Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JiaPai12138/Crossfirer</title>
-    <updated>2022-12-06T01:30:12Z</updated>
-    <id>tag:github.com,2022-12-06:/JiaPai12138/Crossfirer</id>
-    <link href="https://github.com/JiaPai12138/Crossfirer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CF 火线娱乐辅助&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

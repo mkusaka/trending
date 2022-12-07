@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-06T01:38:24Z</updated>
+  <updated>2022-12-07T01:36:24Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IRCC-ca/ds-sdc</title>
-    <updated>2022-12-06T01:38:24Z</updated>
-    <id>tag:github.com,2022-12-06:/IRCC-ca/ds-sdc</id>
-    <link href="https://github.com/IRCC-ca/ds-sdc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Gaohaoyang/gaohaoyang.github.io</title>
+    <updated>2022-12-07T01:36:24Z</updated>
+    <id>tag:github.com,2022-12-07:/Gaohaoyang/gaohaoyang.github.io</id>
+    <link href="https://github.com/Gaohaoyang/gaohaoyang.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;blog &amp; blog theme🤘&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
