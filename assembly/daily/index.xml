@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:29:53Z</updated>
+  <updated>2022-12-08T01:34:04Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alblue/8086tiny</title>
-    <updated>2022-12-07T01:29:53Z</updated>
-    <id>tag:github.com,2022-12-07:/alblue/8086tiny</id>
-    <link href="https://github.com/alblue/8086tiny" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;8086tiny interpreter by Adrian Cable, taken from http://www.megalith.co.uk/8086tiny/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tomvita/MyNXCheats</title>
+    <updated>2022-12-08T01:34:04Z</updated>
+    <id>tag:github.com,2022-12-08:/tomvita/MyNXCheats</id>
+    <link href="https://github.com/tomvita/MyNXCheats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cheat codes for switch that I made&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

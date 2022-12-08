@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:29:30Z</updated>
+  <updated>2022-12-08T01:33:32Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xiaolincoder/CS-Base</title>
-    <updated>2022-12-07T01:29:30Z</updated>
-    <id>tag:github.com,2022-12-07:/xiaolincoder/CS-Base</id>
-    <link href="https://github.com/xiaolincoder/CS-Base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>android/architecture-templates</title>
+    <updated>2022-12-08T01:33:32Z</updated>
+    <id>tag:github.com,2022-12-08:/android/architecture-templates</id>
+    <link href="https://github.com/android/architecture-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>anitsh/til</title>
-    <updated>2022-12-07T01:29:30Z</updated>
-    <id>tag:github.com,2022-12-07:/anitsh/til</id>
-    <link href="https://github.com/anitsh/til" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Today I Learn (til) - Github `Issues` used as daily learning management system for taking notes and storing resource links.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>f/awesome-chatgpt-prompts</title>
+    <updated>2022-12-08T01:33:32Z</updated>
+    <id>tag:github.com,2022-12-08:/f/awesome-chatgpt-prompts</id>
+    <link href="https://github.com/f/awesome-chatgpt-prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Lucaslhm/Flipper-IRDB</title>
-    <updated>2022-12-07T01:29:30Z</updated>
-    <id>tag:github.com,2022-12-07:/Lucaslhm/Flipper-IRDB</id>
-    <link href="https://github.com/Lucaslhm/Flipper-IRDB" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collective of different IRs for the Flipper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mscststs/gua-area</title>
+    <updated>2022-12-08T01:33:32Z</updated>
+    <id>tag:github.com,2022-12-08:/mscststs/gua-area</id>
+    <link href="https://github.com/mscststs/gua-area" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;famous PDF&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

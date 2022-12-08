@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:33:19Z</updated>
+  <updated>2022-12-08T01:38:08Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tarantool/grafana-dashboard</title>
+    <updated>2022-12-08T01:38:08Z</updated>
+    <id>tag:github.com,2022-12-08:/tarantool/grafana-dashboard</id>
+    <link href="https://github.com/tarantool/grafana-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dashboard for Tarantool application and database server monitoring with Grafana&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:37:54Z</updated>
+  <updated>2022-12-08T01:43:02Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>coderfe/www</title>
-    <updated>2022-12-07T01:37:54Z</updated>
-    <id>tag:github.com,2022-12-07:/coderfe/www</id>
-    <link href="https://github.com/coderfe/www" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal blog build with astro&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CSpace | Blog&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;🚀Built with &lt;a href=&#34;https://astro.build/&#34;&gt;astro&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;🧞 Commands&lt;/h2&gt; &#xA;&lt;p&gt;All commands are run from the root of the project, from a terminal:&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th align=&#34;left&#34;&gt;Command&lt;/th&gt; &#xA;   &lt;th align=&#34;left&#34;&gt;Action&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;&lt;code&gt;npm install&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;Installs dependencies&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;&lt;code&gt;npm run dev&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;Starts local dev server at &lt;code&gt;localhost:3000&lt;/code&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;&lt;code&gt;npm run build&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;Build your production site to &lt;code&gt;./dist/&lt;/code&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;&lt;code&gt;npm run preview&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;Preview your build locally, before deploying&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;&lt;code&gt;npm run astro ...&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;Run CLI commands like &lt;code&gt;astro add&lt;/code&gt;, &lt;code&gt;astro preview&lt;/code&gt;&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;&lt;code&gt;npm run astro --help&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td align=&#34;left&#34;&gt;Get help using the Astro CLI&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt;</summary>
-  </entry>
 </feed>

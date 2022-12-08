@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:34:39Z</updated>
+  <updated>2022-12-08T01:39:24Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>patricoferris/try-eio</title>
-    <updated>2022-12-07T01:34:39Z</updated>
-    <id>tag:github.com,2022-12-07:/patricoferris/try-eio</id>
-    <link href="https://github.com/patricoferris/try-eio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Try OCaml Effects and Eio in your browser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>patricoferris/meio</title>
+    <updated>2022-12-08T01:39:24Z</updated>
+    <id>tag:github.com,2022-12-08:/patricoferris/meio</id>
+    <link href="https://github.com/patricoferris/meio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Watch running Eio programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>avsm/eeww</title>
+    <updated>2022-12-08T01:39:24Z</updated>
+    <id>tag:github.com,2022-12-08:/avsm/eeww</id>
+    <link href="https://github.com/avsm/eeww" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental effects-based wonderful webserver&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bcc32/advent-of-code</title>
+    <updated>2022-12-08T01:39:24Z</updated>
+    <id>tag:github.com,2022-12-08:/bcc32/advent-of-code</id>
+    <link href="https://github.com/bcc32/advent-of-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My solutions to Advent of Code problems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

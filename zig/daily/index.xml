@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:37:59Z</updated>
+  <updated>2022-12-08T01:43:05Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nikneym/ws</title>
+    <updated>2022-12-08T01:43:05Z</updated>
+    <id>tag:github.com,2022-12-08:/nikneym/ws</id>
+    <link href="https://github.com/nikneym/ws" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WebSocket library for Zig ⚡&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>getty-zig/json</title>
+    <updated>2022-12-08T01:43:05Z</updated>
+    <id>tag:github.com,2022-12-08:/getty-zig/json</id>
+    <link href="https://github.com/getty-zig/json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A serialization library for JSON&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

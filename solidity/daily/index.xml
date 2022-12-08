@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:36:49Z</updated>
+  <updated>2022-12-08T01:41:45Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>massun-onibakuchi/grim-reaper</title>
+    <updated>2022-12-08T01:41:45Z</updated>
+    <id>tag:github.com,2022-12-08:/massun-onibakuchi/grim-reaper</id>
+    <link href="https://github.com/massun-onibakuchi/grim-reaper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EVM-based on-chain liquidation bot built with Huff language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

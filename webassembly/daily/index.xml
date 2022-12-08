@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:37:48Z</updated>
+  <updated>2022-12-08T01:42:56Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chai2010/awesome-wasm-zh</title>
-    <updated>2022-12-07T01:37:48Z</updated>
-    <id>tag:github.com,2022-12-07:/chai2010/awesome-wasm-zh</id>
-    <link href="https://github.com/chai2010/awesome-wasm-zh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WebAssembly(wasm)资源精选&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OCamlPro/owi</title>
+    <updated>2022-12-08T01:42:56Z</updated>
+    <id>tag:github.com,2022-12-08:/OCamlPro/owi</id>
+    <link href="https://github.com/OCamlPro/owi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCaml WebAssembly Interpreter&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:33:21Z</updated>
+  <updated>2022-12-08T01:38:10Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>carlobaldassi/TextWrap.jl</title>
-    <updated>2022-12-07T01:33:21Z</updated>
-    <id>tag:github.com,2022-12-07:/carlobaldassi/TextWrap.jl</id>
-    <link href="https://github.com/carlobaldassi/TextWrap.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia package for wrapping text into paragraphs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timholy/JuliaCon2022_Precompilation</title>
+    <updated>2022-12-08T01:38:10Z</updated>
+    <id>tag:github.com,2022-12-08:/timholy/JuliaCon2022_Precompilation</id>
+    <link href="https://github.com/timholy/JuliaCon2022_Precompilation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Presentation for JuliaCon 2022 on precompilation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SebRollen/AdventOfCode.jl</title>
-    <updated>2022-12-07T01:33:21Z</updated>
-    <id>tag:github.com,2022-12-07:/SebRollen/AdventOfCode.jl</id>
-    <link href="https://github.com/SebRollen/AdventOfCode.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helper library for working with Advent of Code in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ntumitolab/mitodyn-ode</title>
-    <updated>2022-12-07T01:33:21Z</updated>
-    <id>tag:github.com,2022-12-07:/ntumitolab/mitodyn-ode</id>
-    <link href="https://github.com/ntumitolab/mitodyn-ode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for mitochondrial dynamics ODE manuscript. Issues: https://github.com/sosiristseng/progress/issues?q=is%3Aopen+label%3A%22MitoDyn+and+Glucose+model%22+sort%3Aupdated-desc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>euroargodev/ArgoData.jl</title>
+    <updated>2022-12-08T01:38:10Z</updated>
+    <id>tag:github.com,2022-12-08:/euroargodev/ArgoData.jl</id>
+    <link href="https://github.com/euroargodev/ArgoData.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Argo data processing and analysis&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

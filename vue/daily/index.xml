@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:37:47Z</updated>
+  <updated>2022-12-08T01:42:55Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lutzenfried/OffensiveCloud</title>
+    <updated>2022-12-08T01:42:55Z</updated>
+    <id>tag:github.com,2022-12-08:/lutzenfried/OffensiveCloud</id>
+    <link href="https://github.com/lutzenfried/OffensiveCloud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Offensive security and Penetration Testing TTP for Cloud based environment (AWS / Azure / GCP)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sunzongzheng/music</title>
+    <updated>2022-12-08T01:42:55Z</updated>
+    <id>tag:github.com,2022-12-08:/sunzongzheng/music</id>
+    <link href="https://github.com/sunzongzheng/music" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;electron跨平台音乐播放器；可搜网易云、QQ音乐、虾米音乐；支持QQ、微博、Github登录，云歌单; 支持一键导入音乐平台歌单&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

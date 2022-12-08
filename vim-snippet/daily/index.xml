@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Snippet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-07T01:37:45Z</updated>
+  <updated>2022-12-08T01:42:52Z</updated>
   <subtitle>Daily Trending of Vim Snippet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>EQEmu/spire-quest-snippets</title>
-    <updated>2022-12-07T01:37:45Z</updated>
-    <id>tag:github.com,2022-12-07:/EQEmu/spire-quest-snippets</id>
-    <link href="https://github.com/EQEmu/spire-quest-snippets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;For use in VSCode extension https://marketplace.visualstudio.com/items?itemName=Akkadius.eqemu-spire-quest-api&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adityastomar67/NvStar</title>
-    <updated>2022-12-07T01:37:45Z</updated>
-    <id>tag:github.com,2022-12-07:/adityastomar67/NvStar</id>
-    <link href="https://github.com/adityastomar67/NvStar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
