@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:36:16Z</updated>
+  <updated>2022-12-09T01:33:19Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kafka4beam/kafka_protocol</title>
-    <updated>2022-12-08T01:36:16Z</updated>
-    <id>tag:github.com,2022-12-08:/kafka4beam/kafka_protocol</id>
-    <link href="https://github.com/kafka4beam/kafka_protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kafka protocol erlang library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

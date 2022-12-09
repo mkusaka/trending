@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:38:50Z</updated>
+  <updated>2022-12-09T01:35:44Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>berty/uptime</title>
+    <updated>2022-12-09T01:35:44Z</updated>
+    <id>tag:github.com,2022-12-09:/berty/uptime</id>
+    <link href="https://github.com/berty/uptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Berty Technologies, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

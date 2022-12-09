@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:42:46Z</updated>
+  <updated>2022-12-09T01:40:17Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Vysp3r/ProtonPlus</title>
-    <updated>2022-12-08T01:42:46Z</updated>
-    <id>tag:github.com,2022-12-08:/Vysp3r/ProtonPlus</id>
-    <link href="https://github.com/Vysp3r/ProtonPlus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Wine and Proton-based compatiblity tools manager for GNOME&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ballerina Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:34:05Z</updated>
+  <updated>2022-12-09T01:31:16Z</updated>
   <subtitle>Daily Trending of Ballerina in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ballerina-platform/module-ballerinax-azure.eventhub</title>
+    <updated>2022-12-09T01:31:16Z</updated>
+    <id>tag:github.com,2022-12-09:/ballerina-platform/module-ballerinax-azure.eventhub</id>
+    <link href="https://github.com/ballerina-platform/module-ballerinax-azure.eventhub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Eventhub connector&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

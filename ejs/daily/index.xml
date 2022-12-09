@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:35:58Z</updated>
+  <updated>2022-12-09T01:33:07Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Kritika30032002/Top_Secrets</title>
-    <updated>2022-12-08T01:35:58Z</updated>
-    <id>tag:github.com,2022-12-08:/Kritika30032002/Top_Secrets</id>
-    <link href="https://github.com/Kritika30032002/Top_Secrets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a website that allows user to add their secrets anonymously to the website. Thus makes its interesting. One can add their secrets that they don&#39;t want to share with anyone.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

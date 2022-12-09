@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:34:56Z</updated>
+  <updated>2022-12-09T01:32:07Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jasonz88/coldfusion</title>
-    <updated>2022-12-08T01:34:56Z</updated>
-    <id>tag:github.com,2022-12-08:/jasonz88/coldfusion</id>
-    <link href="https://github.com/jasonz88/coldfusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;coldfusion&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:41:55Z</updated>
+  <updated>2022-12-09T01:39:30Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>I-Doctor/gnn-acceleration-framework-with-FPGA</title>
+    <updated>2022-12-09T01:39:30Z</updated>
+    <id>tag:github.com,2022-12-09:/I-Doctor/gnn-acceleration-framework-with-FPGA</id>
+    <link href="https://github.com/I-Doctor/gnn-acceleration-framework-with-FPGA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;including compiler to encode DGL GNN model to instructions, runtime software to transfer data and control the accelerator, and hardware verilog code that can be implemented on FPGA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

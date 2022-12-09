@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:34:51Z</updated>
+  <updated>2022-12-09T01:32:04Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cleancoders/c3kit-bucket</title>
-    <updated>2022-12-08T01:34:51Z</updated>
-    <id>tag:github.com,2022-12-08:/cleancoders/c3kit-bucket</id>
-    <link href="https://github.com/cleancoders/c3kit-bucket" rel="alternate"></link>
+    <title>phillord/tawny-owl</title>
+    <updated>2022-12-09T01:32:04Z</updated>
+    <id>tag:github.com,2022-12-09:/phillord/tawny-owl</id>
+    <link href="https://github.com/phillord/tawny-owl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build OWL Ontologies in a Programmatic Environment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>braveclojure/babooka</title>
+    <updated>2022-12-09T01:32:04Z</updated>
+    <id>tag:github.com,2022-12-09:/braveclojure/babooka</id>
+    <link href="https://github.com/braveclojure/babooka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tonvanbart/clojure-fotofeed-servlet</title>
+    <updated>2022-12-09T01:32:04Z</updated>
+    <id>tag:github.com,2022-12-09:/tonvanbart/clojure-fotofeed-servlet</id>
+    <link href="https://github.com/tonvanbart/clojure-fotofeed-servlet" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

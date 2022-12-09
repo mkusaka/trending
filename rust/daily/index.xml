@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:41:02Z</updated>
+  <updated>2022-12-09T01:38:25Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sonnylazuardi/chatgpt-desktop</title>
-    <updated>2022-12-08T01:41:02Z</updated>
-    <id>tag:github.com,2022-12-08:/sonnylazuardi/chatgpt-desktop</id>
-    <link href="https://github.com/sonnylazuardi/chatgpt-desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenAI ChatGPT desktop app for Mac, Windows, &amp; Linux menubar using Tauri &amp; Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bluecatengineering/dora</title>
+    <updated>2022-12-09T01:38:25Z</updated>
+    <id>tag:github.com,2022-12-09:/bluecatengineering/dora</id>
+    <link href="https://github.com/bluecatengineering/dora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Rust DHCP server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>simonw/advent-of-code-2022-in-rust</title>
-    <updated>2022-12-08T01:41:02Z</updated>
-    <id>tag:github.com,2022-12-08:/simonw/advent-of-code-2022-in-rust</id>
-    <link href="https://github.com/simonw/advent-of-code-2022-in-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Copilot-assisted Advent of Code 2022 to learn Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>containers/youki</title>
-    <updated>2022-12-08T01:41:02Z</updated>
-    <id>tag:github.com,2022-12-08:/containers/youki</id>
-    <link href="https://github.com/containers/youki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A container runtime written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chiselstrike/chiselstrike</title>
+    <updated>2022-12-09T01:38:25Z</updated>
+    <id>tag:github.com,2022-12-09:/chiselstrike/chiselstrike</id>
+    <link href="https://github.com/chiselstrike/chiselstrike" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient JavaScript/TypeScript business logic layer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

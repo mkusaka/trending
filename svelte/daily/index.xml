@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:41:53Z</updated>
+  <updated>2022-12-09T01:39:28Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>theradixproject/radixproject.org</title>
-    <updated>2022-12-08T01:41:53Z</updated>
-    <id>tag:github.com,2022-12-08:/theradixproject/radixproject.org</id>
-    <link href="https://github.com/theradixproject/radixproject.org" rel="alternate"></link>
+    <title>Project-Sloth/ps-multijob</title>
+    <updated>2022-12-09T01:39:28Z</updated>
+    <id>tag:github.com,2022-12-09:/Project-Sloth/ps-multijob</id>
+    <link href="https://github.com/Project-Sloth/ps-multijob" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A script designed with a sleek and modern design for being able to display your current jobs as well as switching between them.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tolam-Earth/marketplace-ui</title>
+    <updated>2022-12-09T01:39:28Z</updated>
+    <id>tag:github.com,2022-12-09:/Tolam-Earth/marketplace-ui</id>
+    <link href="https://github.com/Tolam-Earth/marketplace-ui" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

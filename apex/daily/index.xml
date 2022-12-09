@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:33:57Z</updated>
+  <updated>2022-12-09T01:31:10Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>navikt/crm-platform-integration</title>
+    <updated>2022-12-09T01:31:10Z</updated>
+    <id>tag:github.com,2022-12-09:/navikt/crm-platform-integration</id>
+    <link href="https://github.com/navikt/crm-platform-integration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kafka integration layer for Salesforce&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

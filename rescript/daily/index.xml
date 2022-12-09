@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:40:38Z</updated>
+  <updated>2022-12-09T01:37:52Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mobily/stacks</title>
-    <updated>2022-12-08T01:40:38Z</updated>
-    <id>tag:github.com,2022-12-08:/mobily/stacks</id>
-    <link href="https://github.com/mobily/stacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ A set of useful components to help you build and maintain React Native (Web too) layouts with ease.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

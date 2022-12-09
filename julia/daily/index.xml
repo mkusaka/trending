@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:38:10Z</updated>
+  <updated>2022-12-09T01:35:05Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>timholy/JuliaCon2022_Precompilation</title>
-    <updated>2022-12-08T01:38:10Z</updated>
-    <id>tag:github.com,2022-12-08:/timholy/JuliaCon2022_Precompilation</id>
-    <link href="https://github.com/timholy/JuliaCon2022_Precompilation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Presentation for JuliaCon 2022 on precompilation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>euroargodev/ArgoData.jl</title>
-    <updated>2022-12-08T01:38:10Z</updated>
-    <id>tag:github.com,2022-12-08:/euroargodev/ArgoData.jl</id>
-    <link href="https://github.com/euroargodev/ArgoData.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Argo data processing and analysis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenMendel/PGENFiles.jl</title>
+    <updated>2022-12-09T01:35:05Z</updated>
+    <id>tag:github.com,2022-12-09:/OpenMendel/PGENFiles.jl</id>
+    <link href="https://github.com/OpenMendel/PGENFiles.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

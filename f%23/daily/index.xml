@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:36:16Z</updated>
+  <updated>2022-12-09T01:33:19Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ijrussell/AdventOfCode2022</title>
+    <updated>2022-12-09T01:33:19Z</updated>
+    <id>tag:github.com,2022-12-09:/ijrussell/AdventOfCode2022</id>
+    <link href="https://github.com/ijrussell/AdventOfCode2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AdventOfCode2022&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://adventofcode.com/&#34;&gt;https://adventofcode.com/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;All code will be in F#&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:36:28Z</updated>
+  <updated>2022-12-09T01:33:33Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>simondevyoutube/Shaders_Clouds1</title>
+    <updated>2022-12-09T01:33:33Z</updated>
+    <id>tag:github.com,2022-12-09:/simondevyoutube/Shaders_Clouds1</id>
+    <link href="https://github.com/simondevyoutube/Shaders_Clouds1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

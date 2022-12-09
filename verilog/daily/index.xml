@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:42:49Z</updated>
+  <updated>2022-12-09T01:40:20Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Prananya123/RTL-Coding</title>
-    <updated>2022-12-08T01:42:49Z</updated>
-    <id>tag:github.com,2022-12-08:/Prananya123/RTL-Coding</id>
-    <link href="https://github.com/Prananya123/RTL-Coding" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Mazamars312/Analogue-Amiga</title>
-    <updated>2022-12-08T01:42:49Z</updated>
-    <id>tag:github.com,2022-12-08:/Mazamars312/Analogue-Amiga</id>
-    <link href="https://github.com/Mazamars312/Analogue-Amiga" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Analogue-Amiga&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TinyTapeout/tinytapeout-02</title>
+    <updated>2022-12-09T01:40:20Z</updated>
+    <id>tag:github.com,2022-12-09:/TinyTapeout/tinytapeout-02</id>
+    <link href="https://github.com/TinyTapeout/tinytapeout-02" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TinyTapeout-02 submission repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

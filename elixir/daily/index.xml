@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-08T01:36:01Z</updated>
+  <updated>2022-12-09T01:33:09Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>visable-dev/data_for_seo</title>
-    <updated>2022-12-08T01:36:01Z</updated>
-    <id>tag:github.com,2022-12-08:/visable-dev/data_for_seo</id>
-    <link href="https://github.com/visable-dev/data_for_seo" rel="alternate"></link>
+    <title>chrismccord/single_file_phoenix_fly</title>
+    <updated>2022-12-09T01:33:09Z</updated>
+    <id>tag:github.com,2022-12-09:/chrismccord/single_file_phoenix_fly</id>
+    <link href="https://github.com/chrismccord/single_file_phoenix_fly" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cruessler/exrss</title>
-    <updated>2022-12-08T01:36:01Z</updated>
-    <id>tag:github.com,2022-12-08:/cruessler/exrss</id>
-    <link href="https://github.com/cruessler/exrss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web-based RSS feed reader&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prosapient/ecto_squash</title>
+    <updated>2022-12-09T01:33:09Z</updated>
+    <id>tag:github.com,2022-12-09:/prosapient/ecto_squash</id>
+    <link href="https://github.com/prosapient/ecto_squash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
