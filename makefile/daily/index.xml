@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:35:46Z</updated>
+  <updated>2022-12-10T01:34:02Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gocn/styleguide</title>
-    <updated>2022-12-09T01:35:46Z</updated>
-    <id>tag:github.com,2022-12-09:/gocn/styleguide</id>
-    <link href="https://github.com/gocn/styleguide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;翻译 https://google.github.io/styleguide/go/index&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/http-echo</title>
+    <updated>2022-12-10T01:34:02Z</updated>
+    <id>tag:github.com,2022-12-10:/hashicorp/http-echo</id>
+    <link href="https://github.com/hashicorp/http-echo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiny go web server that echos what you start it with!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

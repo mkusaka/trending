@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:37:24Z</updated>
+  <updated>2022-12-10T01:35:33Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>octoenergy/puppet-octo_nginx</title>
-    <updated>2022-12-09T01:37:24Z</updated>
-    <id>tag:github.com,2022-12-09:/octoenergy/puppet-octo_nginx</id>
-    <link href="https://github.com/octoenergy/puppet-octo_nginx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nginx puppet module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:35:47Z</updated>
+  <updated>2022-12-10T01:34:03Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ryz-codes/pfft-induct-m</title>
-    <updated>2022-12-09T01:35:47Z</updated>
-    <id>tag:github.com,2022-12-09:/ryz-codes/pfft-induct-m</id>
-    <link href="https://github.com/ryz-codes/pfft-induct-m" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inductance calculations using matlab and pFFT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mathilda11/Speech-processing</title>
+    <updated>2022-12-10T01:34:03Z</updated>
+    <id>tag:github.com,2022-12-10:/Mathilda11/Speech-processing</id>
+    <link href="https://github.com/Mathilda11/Speech-processing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;howling suppression, 啸叫抑制, 声反馈抑制&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AudioGroupCologne/SUpDEq</title>
+    <updated>2022-12-10T01:34:03Z</updated>
+    <id>tag:github.com,2022-12-10:/AudioGroupCologne/SUpDEq</id>
+    <link href="https://github.com/AudioGroupCologne/SUpDEq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SUpDEq - Spatial Upsampling by Directional Equalization&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

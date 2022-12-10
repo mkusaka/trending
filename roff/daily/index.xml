@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:37:55Z</updated>
+  <updated>2022-12-10T01:36:29Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ZCW-Java8-1/Grep.Data.CatchEmAll2</title>
-    <updated>2022-12-09T01:37:55Z</updated>
-    <id>tag:github.com,2022-12-09:/ZCW-Java8-1/Grep.Data.CatchEmAll2</id>
-    <link href="https://github.com/ZCW-Java8-1/Grep.Data.CatchEmAll2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

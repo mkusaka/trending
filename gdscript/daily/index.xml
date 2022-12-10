@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:33:29Z</updated>
+  <updated>2022-12-10T01:31:49Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arcaneenergy/godot-multimesh-scatter</title>
-    <updated>2022-12-09T01:33:29Z</updated>
-    <id>tag:github.com,2022-12-09:/arcaneenergy/godot-multimesh-scatter</id>
-    <link href="https://github.com/arcaneenergy/godot-multimesh-scatter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple tool to randomly place meshes.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>expressobits/character-controller</title>
-    <updated>2022-12-09T01:33:29Z</updated>
-    <id>tag:github.com,2022-12-09:/expressobits/character-controller</id>
-    <link href="https://github.com/expressobits/character-controller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modular Character Controller for Godot 4. Includes FPS version with headbob and camera movement. (Walk, Crouch, Sprint, Swim and Fly Mode).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nwallenfang/solar-gardener</title>
+    <updated>2022-12-10T01:31:49Z</updated>
+    <id>tag:github.com,2022-12-10:/nwallenfang/solar-gardener</id>
+    <link href="https://github.com/nwallenfang/solar-gardener" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Entry to Game Off 2022 Jam.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

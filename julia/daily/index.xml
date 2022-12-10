@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:35:05Z</updated>
+  <updated>2022-12-10T01:33:21Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OpenMendel/PGENFiles.jl</title>
-    <updated>2022-12-09T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-09:/OpenMendel/PGENFiles.jl</id>
-    <link href="https://github.com/OpenMendel/PGENFiles.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atoptima/Coluna.jl</title>
+    <updated>2022-12-10T01:33:21Z</updated>
+    <id>tag:github.com,2022-12-10:/atoptima/Coluna.jl</id>
+    <link href="https://github.com/atoptima/Coluna.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Branch-and-Price-and-Cut in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenMendel/OrdinalMultinomialModels.jl</title>
+    <updated>2022-12-10T01:33:21Z</updated>
+    <id>tag:github.com,2022-12-10:/OpenMendel/OrdinalMultinomialModels.jl</id>
+    <link href="https://github.com/OpenMendel/OrdinalMultinomialModels.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ordered multinomial models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

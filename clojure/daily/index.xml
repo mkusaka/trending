@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:32:04Z</updated>
+  <updated>2022-12-10T01:30:24Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phillord/tawny-owl</title>
-    <updated>2022-12-09T01:32:04Z</updated>
-    <id>tag:github.com,2022-12-09:/phillord/tawny-owl</id>
-    <link href="https://github.com/phillord/tawny-owl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build OWL Ontologies in a Programmatic Environment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thiagotnunes/books</title>
+    <updated>2022-12-10T01:30:24Z</updated>
+    <id>tag:github.com,2022-12-10:/thiagotnunes/books</id>
+    <link href="https://github.com/thiagotnunes/books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Several exercises, notes and so on from the books I read&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>braveclojure/babooka</title>
-    <updated>2022-12-09T01:32:04Z</updated>
-    <id>tag:github.com,2022-12-09:/braveclojure/babooka</id>
-    <link href="https://github.com/braveclojure/babooka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure-emacs/haystack</title>
+    <updated>2022-12-10T01:30:24Z</updated>
+    <id>tag:github.com,2022-12-10:/clojure-emacs/haystack</id>
+    <link href="https://github.com/clojure-emacs/haystack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Let&#39;s make the most of Clojure&#39;s infamous stacktraces!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tonvanbart/clojure-fotofeed-servlet</title>
-    <updated>2022-12-09T01:32:04Z</updated>
-    <id>tag:github.com,2022-12-09:/tonvanbart/clojure-fotofeed-servlet</id>
-    <link href="https://github.com/tonvanbart/clojure-fotofeed-servlet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pilosus/pip-license-checker</title>
+    <updated>2022-12-10T01:30:24Z</updated>
+    <id>tag:github.com,2022-12-10:/pilosus/pip-license-checker</id>
+    <link href="https://github.com/pilosus/pip-license-checker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Check license types for third-party dependencies: permissive, copyleft, proprietory, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

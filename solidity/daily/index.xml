@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:39:20Z</updated>
+  <updated>2022-12-10T01:37:46Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2022-12-escher</title>
-    <updated>2022-12-09T01:39:20Z</updated>
-    <id>tag:github.com,2022-12-09:/code-423n4/2022-12-escher</id>
-    <link href="https://github.com/code-423n4/2022-12-escher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>harendra-shakya/uniswap-unwrapped</title>
+    <updated>2022-12-10T01:37:46Z</updated>
+    <id>tag:github.com,2022-12-10:/harendra-shakya/uniswap-unwrapped</id>
+    <link href="https://github.com/harendra-shakya/uniswap-unwrapped" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uniswap explained line by line&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Shardeum/shardeum-missons</title>
-    <updated>2022-12-09T01:39:20Z</updated>
-    <id>tag:github.com,2022-12-09:/Shardeum/shardeum-missons</id>
-    <link href="https://github.com/Shardeum/shardeum-missons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethereum-optimism/optimism-tutorial</title>
+    <updated>2022-12-10T01:37:46Z</updated>
+    <id>tag:github.com,2022-12-10:/ethereum-optimism/optimism-tutorial</id>
+    <link href="https://github.com/ethereum-optimism/optimism-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build your first app on Optimism!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Tolam-Earth/integration-smart-contracts</title>
-    <updated>2022-12-09T01:39:20Z</updated>
-    <id>tag:github.com,2022-12-09:/Tolam-Earth/integration-smart-contracts</id>
-    <link href="https://github.com/Tolam-Earth/integration-smart-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aave/flashloan-box</title>
+    <updated>2022-12-10T01:37:46Z</updated>
+    <id>tag:github.com,2022-12-10:/aave/flashloan-box</id>
+    <link href="https://github.com/aave/flashloan-box" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A box containing all you need to get started with developing Aave v1 flash loans&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

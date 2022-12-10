@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-09T01:36:00Z</updated>
+  <updated>2022-12-10T01:34:17Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>status-im/nim-unittest2</title>
+    <updated>2022-12-10T01:34:17Z</updated>
+    <id>tag:github.com,2022-12-10:/status-im/nim-unittest2</id>
+    <link href="https://github.com/status-im/nim-unittest2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fork of the &#34;unittest&#34; Nim module focusing on parallel test execution, test-level scoping and strict exception handling.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nim-leopard</title>
+    <updated>2022-12-10T01:34:17Z</updated>
+    <id>tag:github.com,2022-12-10:/status-im/nim-leopard</id>
+    <link href="https://github.com/status-im/nim-leopard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nim wrapper for Leopard-RS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nim-presto</title>
+    <updated>2022-12-10T01:34:17Z</updated>
+    <id>tag:github.com,2022-12-10:/status-im/nim-presto</id>
+    <link href="https://github.com/status-im/nim-presto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;REST API framework for Nim language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
