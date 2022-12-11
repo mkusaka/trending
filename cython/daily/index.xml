@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cython Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:30:43Z</updated>
+  <updated>2022-12-11T01:32:01Z</updated>
   <subtitle>Daily Trending of Cython in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>althonos/pyhmmer</title>
-    <updated>2022-12-10T01:30:43Z</updated>
-    <id>tag:github.com,2022-12-10:/althonos/pyhmmer</id>
-    <link href="https://github.com/althonos/pyhmmer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cython bindings and Python interface to HMMER3.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

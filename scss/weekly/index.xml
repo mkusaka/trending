@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:46:42Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mmistakes/jekyll-theme-basically-basic</title>
+    <updated>2022-12-11T01:46:42Z</updated>
+    <id>tag:github.com,2022-12-11:/mmistakes/jekyll-theme-basically-basic</id>
+    <link href="https://github.com/mmistakes/jekyll-theme-basically-basic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your new Jekyll default theme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>next-step/infra-subway-monitoring</title>
+    <updated>2022-12-11T01:46:42Z</updated>
+    <id>tag:github.com,2022-12-11:/next-step/infra-subway-monitoring</id>
+    <link href="https://github.com/next-step/infra-subway-monitoring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sivan/heti</title>
+    <updated>2022-12-11T01:46:42Z</updated>
+    <id>tag:github.com,2022-12-11:/sivan/heti</id>
+    <link href="https://github.com/sivan/heti" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

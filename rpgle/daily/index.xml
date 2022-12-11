@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub RPGLE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:36:30Z</updated>
+  <updated>2022-12-11T01:37:36Z</updated>
   <subtitle>Daily Trending of RPGLE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>smeup/jariko</title>
-    <updated>2022-12-10T01:36:30Z</updated>
-    <id>tag:github.com,2022-12-10:/smeup/jariko</id>
-    <link href="https://github.com/smeup/jariko" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a JAva virtual machine Rpg Interpreter written in KOtlin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

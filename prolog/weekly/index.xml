@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Prolog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:45:20Z</updated>
+  <subtitle>Weekly Trending of Prolog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>huseyinkozan/opengl-super-bible-qt-project</title>
+    <updated>2022-12-11T01:45:20Z</updated>
+    <id>tag:github.com,2022-12-11:/huseyinkozan/opengl-super-bible-qt-project</id>
+    <link href="https://github.com/huseyinkozan/opengl-super-bible-qt-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qt project files to build and run from Qt Creator (and qmake) for the examples of The OpenGL Super Bible book www.starstonesoftware.com/OpenGL/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lildigiman/Advisor</title>
+    <updated>2022-12-11T01:45:20Z</updated>
+    <id>tag:github.com,2022-12-11:/lildigiman/Advisor</id>
+    <link href="https://github.com/lildigiman/Advisor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highly impractical College Student Class Enrollment and Advisor System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

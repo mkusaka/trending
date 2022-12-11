@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smalltalk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:47:07Z</updated>
+  <subtitle>Weekly Trending of Smalltalk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>feenkcom/gt4petitparser2</title>
+    <updated>2022-12-11T01:47:07Z</updated>
+    <id>tag:github.com,2022-12-11:/feenkcom/gt4petitparser2</id>
+    <link href="https://github.com/feenkcom/gt4petitparser2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Glamorous Toolkit for PetitParser2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gtoolkit-chrome</title>
+    <updated>2022-12-11T01:47:07Z</updated>
+    <id>tag:github.com,2022-12-11:/feenkcom/gtoolkit-chrome</id>
+    <link href="https://github.com/feenkcom/gtoolkit-chrome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gtoolkit specific functionality for Chrome Dev Tools access&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

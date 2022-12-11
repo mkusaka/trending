@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:40:05Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vancegroup-mirrors/avr-libc</title>
+    <updated>2022-12-11T01:40:05Z</updated>
+    <id>tag:github.com,2022-12-11:/vancegroup-mirrors/avr-libc</id>
+    <link href="https://github.com/vancegroup-mirrors/avr-libc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automated svn2git mirror of avr-libc - link goes to upstream&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:37:07Z</updated>
+  <updated>2022-12-11T01:38:07Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AIOTIEU/testbeds</title>
-    <updated>2022-12-10T01:37:07Z</updated>
-    <id>tag:github.com,2022-12-10:/AIOTIEU/testbeds</id>
-    <link href="https://github.com/AIOTIEU/testbeds" rel="alternate"></link>
+    <title>tecg-dcc/js-tp-interrogation-devine-nombre</title>
+    <updated>2022-12-11T01:38:07Z</updated>
+    <id>tag:github.com,2022-12-11:/tecg-dcc/js-tp-interrogation-devine-nombre</id>
+    <link href="https://github.com/tecg-dcc/js-tp-interrogation-devine-nombre" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>BookStackApp/website</title>
-    <updated>2022-12-10T01:37:07Z</updated>
-    <id>tag:github.com,2022-12-10:/BookStackApp/website</id>
-    <link href="https://github.com/BookStackApp/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The code for the main site, Includes BookStack docs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jessepollak/card</title>
-    <updated>2022-12-10T01:37:07Z</updated>
-    <id>tag:github.com,2022-12-10:/jessepollak/card</id>
-    <link href="https://github.com/jessepollak/card" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💳 make your credit card form better in one line of code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/iceberg-docs</title>
+    <updated>2022-12-11T01:38:07Z</updated>
+    <id>tag:github.com,2022-12-11:/apache/iceberg-docs</id>
+    <link href="https://github.com/apache/iceberg-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache Iceberg Documentation Site&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

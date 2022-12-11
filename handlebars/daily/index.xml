@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:32:08Z</updated>
+  <updated>2022-12-11T01:33:22Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Reviewable/Reviewable</title>
-    <updated>2022-12-10T01:32:08Z</updated>
-    <id>tag:github.com,2022-12-10:/Reviewable/Reviewable</id>
-    <link href="https://github.com/Reviewable/Reviewable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Support for Reviewable&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IABTechLab/uid2-tcportal</title>
+    <updated>2022-12-11T01:33:22Z</updated>
+    <id>tag:github.com,2022-12-11:/IABTechLab/uid2-tcportal</id>
+    <link href="https://github.com/IABTechLab/uid2-tcportal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

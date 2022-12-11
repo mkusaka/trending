@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MLIR Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:44:15Z</updated>
+  <subtitle>Weekly Trending of MLIR in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hanchenye/scalehls</title>
+    <updated>2022-12-11T01:44:15Z</updated>
+    <id>tag:github.com,2022-12-11:/hanchenye/scalehls</id>
+    <link href="https://github.com/hanchenye/scalehls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A scalable High-Level Synthesis framework on MLIR&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

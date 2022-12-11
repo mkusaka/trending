@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:30:24Z</updated>
+  <updated>2022-12-11T01:31:42Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thiagotnunes/books</title>
-    <updated>2022-12-10T01:30:24Z</updated>
-    <id>tag:github.com,2022-12-10:/thiagotnunes/books</id>
-    <link href="https://github.com/thiagotnunes/books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Several exercises, notes and so on from the books I read&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>metosin/tilakone</title>
+    <updated>2022-12-11T01:31:42Z</updated>
+    <id>tag:github.com,2022-12-11:/metosin/tilakone</id>
+    <link href="https://github.com/metosin/tilakone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimalistic finite state machine (FSM) in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clojure-emacs/haystack</title>
-    <updated>2022-12-10T01:30:24Z</updated>
-    <id>tag:github.com,2022-12-10:/clojure-emacs/haystack</id>
-    <link href="https://github.com/clojure-emacs/haystack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Let&#39;s make the most of Clojure&#39;s infamous stacktraces!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tzach/first-hiccup</title>
+    <updated>2022-12-11T01:31:42Z</updated>
+    <id>tag:github.com,2022-12-11:/tzach/first-hiccup</id>
+    <link href="https://github.com/tzach/first-hiccup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a trivial clojure web app, base on compojure, hiccup and postgresql&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pilosus/pip-license-checker</title>
-    <updated>2022-12-10T01:30:24Z</updated>
-    <id>tag:github.com,2022-12-10:/pilosus/pip-license-checker</id>
-    <link href="https://github.com/pilosus/pip-license-checker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Check license types for third-party dependencies: permissive, copyleft, proprietory, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nbk-ysc/clojure-boost</title>
+    <updated>2022-12-11T01:31:42Z</updated>
+    <id>tag:github.com,2022-12-11:/nbk-ysc/clojure-boost</id>
+    <link href="https://github.com/nbk-ysc/clojure-boost" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

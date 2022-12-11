@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:29:36Z</updated>
+  <updated>2022-12-11T01:30:47Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JustinHuPrime/AoC</title>
-    <updated>2022-12-10T01:29:36Z</updated>
-    <id>tag:github.com,2022-12-10:/JustinHuPrime/AoC</id>
-    <link href="https://github.com/JustinHuPrime/AoC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advents of Code in NASM x86_64 assembly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>davidebreso/ctmouse</title>
+    <updated>2022-12-11T01:30:47Z</updated>
+    <id>tag:github.com,2022-12-11:/davidebreso/ctmouse</id>
+    <link href="https://github.com/davidebreso/ctmouse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CuteMouse is a small open source DOS mouse driver&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

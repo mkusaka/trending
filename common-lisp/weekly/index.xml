@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:40:55Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>helaveesa/lisptests</title>
+    <updated>2022-12-11T01:40:55Z</updated>
+    <id>tag:github.com,2022-12-11:/helaveesa/lisptests</id>
+    <link href="https://github.com/helaveesa/lisptests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;my tests on Common Lisp praktika&lt;/p&gt; &#xA;&lt;p&gt;начало 4 dec 2012 03:35&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>kowaraj/CommonLisp</title>
+    <updated>2022-12-11T01:40:55Z</updated>
+    <id>tag:github.com,2022-12-11:/kowaraj/CommonLisp</id>
+    <link href="https://github.com/kowaraj/CommonLisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

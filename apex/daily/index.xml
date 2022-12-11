@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:29:32Z</updated>
+  <updated>2022-12-11T01:30:41Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>navikt/crm-sto</title>
-    <updated>2022-12-10T01:29:32Z</updated>
-    <id>tag:github.com,2022-12-10:/navikt/crm-sto</id>
-    <link href="https://github.com/navikt/crm-sto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo containing Skriv til oss&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>navikt/crm-arbeidsgiver-kurs</title>
-    <updated>2022-12-10T01:29:32Z</updated>
-    <id>tag:github.com,2022-12-10:/navikt/crm-arbeidsgiver-kurs</id>
-    <link href="https://github.com/navikt/crm-arbeidsgiver-kurs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repo for Salesforce communities used in PO Arbeidsgiver&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>navikt/crm-arbeidsforhold</title>
-    <updated>2022-12-10T01:29:32Z</updated>
-    <id>tag:github.com,2022-12-10:/navikt/crm-arbeidsforhold</id>
-    <link href="https://github.com/navikt/crm-arbeidsforhold" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Salesforce-pakke brukt til Aa-registeret.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

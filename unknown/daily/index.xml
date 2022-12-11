@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:29:09Z</updated>
+  <updated>2022-12-11T01:30:24Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rmcelreath/stat_rethinking_2023</title>
-    <updated>2022-12-10T01:29:09Z</updated>
-    <id>tag:github.com,2022-12-10:/rmcelreath/stat_rethinking_2023</id>
-    <link href="https://github.com/rmcelreath/stat_rethinking_2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Statistical Rethinking Course for Jan-Mar 2023&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wuchangming/chat-gpt-ask-question-engineer-handbook</title>
+    <updated>2022-12-11T01:30:24Z</updated>
+    <id>tag:github.com,2022-12-11:/wuchangming/chat-gpt-ask-question-engineer-handbook</id>
+    <link href="https://github.com/wuchangming/chat-gpt-ask-question-engineer-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖️ChatGPT 提问工程师开发指南&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>makoto56/penetration-suite-toolkit</title>
-    <updated>2022-12-10T01:29:09Z</updated>
-    <id>tag:github.com,2022-12-10:/makoto56/penetration-suite-toolkit</id>
-    <link href="https://github.com/makoto56/penetration-suite-toolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;本项目制作的初衷是帮助渗透新手快速搭建工作环境，工欲善其事，必先利其器。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LukeYui/EldenRingSeamlessCoopRelease</title>
+    <updated>2022-12-11T01:30:24Z</updated>
+    <id>tag:github.com,2022-12-11:/LukeYui/EldenRingSeamlessCoopRelease</id>
+    <link href="https://github.com/LukeYui/EldenRingSeamlessCoopRelease" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ImpishCheats/Impishware</title>
-    <updated>2022-12-10T01:29:09Z</updated>
-    <id>tag:github.com,2022-12-10:/ImpishCheats/Impishware</id>
-    <link href="https://github.com/ImpishCheats/Impishware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Highly advanced external ARK evolved cheat. Self code by Impish.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>madd86/awesome-system-design</title>
+    <updated>2022-12-11T01:30:24Z</updated>
+    <id>tag:github.com,2022-12-11:/madd86/awesome-system-design</id>
+    <link href="https://github.com/madd86/awesome-system-design" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome System Design (A.K.A. Distributed Systems) resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

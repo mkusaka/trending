@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown Languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:39:40Z</updated>
+  <subtitle>Weekly Trending of Unknown Languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>certsocietegenerale/IRM</title>
+    <updated>2022-12-11T01:39:40Z</updated>
+    <id>tag:github.com,2022-12-11:/certsocietegenerale/IRM</id>
+    <link href="https://github.com/certsocietegenerale/IRM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Incident Response Methodologies 2022&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tv-player/TvBox</title>
+    <updated>2022-12-11T01:39:40Z</updated>
+    <id>tag:github.com,2022-12-11:/tv-player/TvBox</id>
+    <link href="https://github.com/tv-player/TvBox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TvBox 配置、maoTv配置&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sottlmarek/DevSecOps</title>
+    <updated>2022-12-11T01:39:40Z</updated>
+    <id>tag:github.com,2022-12-11:/sottlmarek/DevSecOps</id>
+    <link href="https://github.com/sottlmarek/DevSecOps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ultimate DevSecOps library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

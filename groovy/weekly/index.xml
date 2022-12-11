@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:42:13Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devbyaccident/demo-shared-pipeline</title>
+    <updated>2022-12-11T01:42:13Z</updated>
+    <id>tag:github.com,2022-12-11:/devbyaccident/demo-shared-pipeline</id>
+    <link href="https://github.com/devbyaccident/demo-shared-pipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>brentlaster/roar</title>
+    <updated>2022-12-11T01:42:13Z</updated>
+    <id>tag:github.com,2022-12-11:/brentlaster/roar</id>
+    <link href="https://github.com/brentlaster/roar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example Grails demo project for use in training&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jenkinsci/pipeline-model-definition-plugin</title>
+    <updated>2022-12-11T01:42:13Z</updated>
+    <id>tag:github.com,2022-12-11:/jenkinsci/pipeline-model-definition-plugin</id>
+    <link href="https://github.com/jenkinsci/pipeline-model-definition-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

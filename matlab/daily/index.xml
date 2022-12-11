@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:34:03Z</updated>
+  <updated>2022-12-11T01:35:20Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mathilda11/Speech-processing</title>
-    <updated>2022-12-10T01:34:03Z</updated>
-    <id>tag:github.com,2022-12-10:/Mathilda11/Speech-processing</id>
-    <link href="https://github.com/Mathilda11/Speech-processing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;howling suppression, 啸叫抑制, 声反馈抑制&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AudioGroupCologne/SUpDEq</title>
-    <updated>2022-12-10T01:34:03Z</updated>
-    <id>tag:github.com,2022-12-10:/AudioGroupCologne/SUpDEq</id>
-    <link href="https://github.com/AudioGroupCologne/SUpDEq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SUpDEq - Spatial Upsampling by Directional Equalization&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>i2Nav-WHU/Wheel-SLAM</title>
+    <updated>2022-12-11T01:35:20Z</updated>
+    <id>tag:github.com,2022-12-11:/i2Nav-WHU/Wheel-SLAM</id>
+    <link href="https://github.com/i2Nav-WHU/Wheel-SLAM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

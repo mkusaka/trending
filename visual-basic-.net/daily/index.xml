@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:38:53Z</updated>
+  <updated>2022-12-11T01:39:21Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>itsjohncs/cloak</title>
-    <updated>2022-12-10T01:38:53Z</updated>
-    <id>tag:github.com,2022-12-10:/itsjohncs/cloak</id>
-    <link href="https://github.com/itsjohncs/cloak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A very old project of mine to keep your windows hidden.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

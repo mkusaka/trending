@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:36:55Z</updated>
+  <updated>2022-12-11T01:37:58Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>scalacenter/scala-advent-of-code</title>
+    <updated>2022-12-11T01:37:58Z</updated>
+    <id>tag:github.com,2022-12-11:/scalacenter/scala-advent-of-code</id>
+    <link href="https://github.com/scalacenter/scala-advent-of-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scala Center&#39;s solution of Advent of Code&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Scala Advent of Code 2022&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;See earlier editions:&lt;/p&gt; &#xA; &lt;ul&gt; &#xA;  &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/scalacenter/scala-advent-of-code/main/2021/README.md&#34;&gt;2021&lt;/a&gt;&lt;/li&gt; &#xA; &lt;/ul&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Website&lt;/h2&gt; &#xA;&lt;p&gt;The &lt;a href=&#34;https://scalacenter.github.io/scala-advent-of-code/&#34;&gt;Scala Advent of Code&lt;/a&gt; website contains:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;some explanation of our solutions&lt;/li&gt; &#xA; &lt;li&gt;more solutions from the community&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;p&gt;We use Visual Studio Code with Metals to write Scala code, and scala-cli to compile and run it.&lt;/p&gt; &#xA;&lt;p&gt;You can follow these &lt;a href=&#34;https://scalacenter.github.io/scala-advent-of-code/setup&#34;&gt;steps&lt;/a&gt; to set up your environement.&lt;/p&gt; &#xA;&lt;h3&gt;How to open in Visual Studio Code&lt;/h3&gt; &#xA;&lt;p&gt;After you clone the repository, open a terminal and run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cd scala-advent-of-code&#xA;$ scala-cli setup-ide 2022&#xA;$ code 2022&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;code&gt;code 2022&lt;/code&gt; will open Visual Studio Code and start Metals. If not you may have to go to the Metals pane and click the button labelled &#34;Start Metals&#34;.&lt;/p&gt; &#xA;&lt;p&gt;When you navigate to a file, e.g. &lt;code&gt;2022/src/day01.scala&lt;/code&gt; metals should index the project, and then display code lenses above each of the main methods &lt;code&gt;part1&lt;/code&gt; and &lt;code&gt;part2&lt;/code&gt;, as shown in this image: &lt;img src=&#34;https://raw.githubusercontent.com/scalacenter/scala-advent-of-code/main/img/code-lenses.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;You can click &lt;code&gt;run&lt;/code&gt; to see the results of the program run in VS Code. Or &lt;code&gt;debug&lt;/code&gt;, which will let you pause on breakpoints, and execute expressions in the debug console.&lt;/p&gt; &#xA;&lt;h3&gt;How to run a solution&lt;/h3&gt; &#xA;&lt;p&gt;In a terminal you can run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ scala-cli 2022 -M day01.part01&#xA;Compiling project (Scala 3.2.0, JVM)&#xA;Compiled project (Scala 3.2.0, JVM)&#xA;The solution is 64929&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Or, to run another solution:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ scala-cli 2022 -M &amp;lt;dayX&amp;gt;.&amp;lt;partX&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;By default the solution programs run on our input files which are stored in the &lt;code&gt;2022/input&lt;/code&gt; folder. To get your solutions you can change the content of those files in the &lt;code&gt;2022/input&lt;/code&gt; folder.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>akshaal/akmacros-json</title>
+    <updated>2022-12-11T01:37:58Z</updated>
+    <id>tag:github.com,2022-12-11:/akshaal/akmacros-json</id>
+    <link href="https://github.com/akshaal/akmacros-json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Macros support for JSON (de)serialization in scala&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-11T01:39:56Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>conmame/nicoCanvas</title>
+    <updated>2022-12-11T01:39:56Z</updated>
+    <id>tag:github.com,2022-12-11:/conmame/nicoCanvas</id>
+    <link href="https://github.com/conmame/nicoCanvas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Like a NicoNico Douga comment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cepa-usp/AI-0089</title>
+    <updated>2022-12-11T01:39:56Z</updated>
+    <id>tag:github.com,2022-12-11:/cepa-usp/AI-0089</id>
+    <link href="https://github.com/cepa-usp/AI-0089" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Energia potencial gravitacional&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:37:53Z</updated>
+  <updated>2022-12-11T01:38:39Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WangXuan95/FPGA-MPEG2-encoder</title>
-    <updated>2022-12-10T01:37:53Z</updated>
-    <id>tag:github.com,2022-12-10:/WangXuan95/FPGA-MPEG2-encoder</id>
-    <link href="https://github.com/WangXuan95/FPGA-MPEG2-encoder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FPGA-based high performance MPEG2 encoder for video compression. 基于 FPGA 的高性能 MPEG2 视频编码器，可实现视频压缩。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

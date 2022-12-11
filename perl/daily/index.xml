@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:35:05Z</updated>
+  <updated>2022-12-11T01:36:12Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>EGI-Federation/glue-service-provider</title>
-    <updated>2022-12-10T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-10:/EGI-Federation/glue-service-provider</id>
-    <link href="https://github.com/EGI-Federation/glue-service-provider" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>EGI-Federation/glite-info-provider-service</title>
-    <updated>2022-12-10T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-10:/EGI-Federation/glite-info-provider-service</id>
-    <link href="https://github.com/EGI-Federation/glite-info-provider-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;glite-info-provider-service&lt;/h1&gt; &#xA;&lt;p&gt;Documentation is available in the &lt;code&gt;doc&lt;/code&gt; directory.&lt;/p&gt; &#xA;&lt;h2&gt;Installing from source&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Building packages&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;It is possible to easily build pacakges for Ubuntu and CentOS using the provided &lt;code&gt;Makefile-build-docker&lt;/code&gt; makefile leveraging the use of docker containers.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;# Building an Ubuntu Xenial deb&#xA;make -f Makefile-build-docker deb&#xA;# Building a CentOS 7 RPM&#xA;make -f Makefile-build-docker rpm&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
-  <entry>
-    <title>cdsimon/WSP-Simon-Constance-master</title>
-    <updated>2022-12-10T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-10:/cdsimon/WSP-Simon-Constance-master</id>
-    <link href="https://github.com/cdsimon/WSP-Simon-Constance-master" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WSP Portal Setup&lt;/p&gt;&lt;hr&gt;&lt;h4&gt;&lt;/h4&gt; &#xA;&lt;p&gt;Welcome to WSP-Online! Use this folder structure as a recommendation of how to organize your files.&lt;/p&gt; &#xA;&lt;p&gt;You can delete me after reading this.&lt;/p&gt; &#xA;&lt;h4&gt;&lt;/h4&gt;</summary>
+    <title>rin3/W6EL_Ext</title>
+    <updated>2022-12-11T01:36:12Z</updated>
+    <id>tag:github.com,2022-12-11:/rin3/W6EL_Ext</id>
+    <link href="https://github.com/rin3/W6EL_Ext" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extension to W6ELProp for tabulating predictions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Extraction and Report script for W6EL Prop&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Preparation for specific contest dates&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;World opening times table for each band, SP and LP&lt;/p&gt; &lt;p&gt;&lt;strong&gt;for W6EL Prop v2.70 ONLY!!&lt;/strong&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Author: rin fukuda, &lt;a href=&#34;mailto:jg1vgx@jarl.com&#34;&gt;jg1vgx@jarl.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;p&gt;You need Perl package to run this script. If you are on Windows, use ActivePerl (&lt;a href=&#34;http://www.activestates.com/&#34;&gt;http://www.activestates.com/&lt;/a&gt;) or Windows Services for Unix (&lt;a href=&#34;http://www.microsoft.com/japan/windows/sfu/&#34;&gt;http://www.microsoft.com/japan/windows/sfu/&lt;/a&gt;), which also includes Perl.&lt;/p&gt; &#xA;&lt;h2&gt;W6EL Prop Settings&lt;/h2&gt; &#xA;&lt;p&gt;This software &lt;strong&gt;ONLY WORKS for W6EL Prop, version 2.70&lt;/strong&gt;.&lt;/p&gt; &#xA;&lt;p&gt;In W6EL Prop, Options:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;[Default Teminal] = (any)&lt;/li&gt; &#xA; &lt;li&gt;[Frequencies and Constants] = Five-band prediction, 80-10m is assumed. Use factory setting of 3.6, 7.1, 14.1, 21.2 and 28.3. You cannot add or remove any bands. Signal constants are changeable.&lt;/li&gt; &#xA; &lt;li&gt;[Prediction Parameters], [User Preferences] = (any)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;How to Use&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Once you have entered the above settings, in W6EL Prop, go to menu &#34;Prediction&#34;-&#34;Batch&#34;. Fill in destination locators, date, solar index etc. Set the Path as &#39;B&#39;oth. You can enter any numbers of lines here.&lt;/li&gt; &#xA; &lt;li&gt;Press &#39;Print Predictions&#39;, but when the print dialogue appears, don&#39;t press &#39;OK&#39; to print yet. IMPORTANT: Check &#34;Output to File(L)&#34; box here, then press OK. Once finished, batch prediction output files (.wpf) will be created. You can quit W6EL Prop then.&lt;/li&gt; &#xA; &lt;li&gt;Run the W6EL_Ext Perl script. In Windows, use command window, eg: use &#39;Run&#39; from the Start menu. Then run &#39;cmd&#39;. Change directory to where this script and the above .wpf is located. (It would be easier if you save .wpf in the same directory as the script itself.) When you run the script, it asks you the name of .wpf file. Enter it, and that&#39;s all! The output of this script, handy perdiction table will be produced in the same directory with the extention .txt.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Sample input batch files (.wbt) are included for world-wide prediction from JA, for each SSN, 50, 100, 150 and 200.&lt;/p&gt; &#xA;&lt;h2&gt;How to Read the Table&lt;/h2&gt; &#xA;&lt;p&gt;The table follows in order of 80, 40, 20, 15 and 10m. For each band, SP is followed by LP predictions. The symbols in the table means the following possibility of openings:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;h1&gt;100-75%&lt;/h1&gt; &lt;/li&gt; &#xA; &lt;li&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;75-50%&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;50-25%&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&#34;Space&#34; means 25% or less possibility of openings.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;IMPORTANT: Remember that, ONLY the possibility of openings but not signal levels are illustrated.&lt;/p&gt; &#xA;&lt;h2&gt;Version History&lt;/h2&gt; &#xA;&lt;p&gt;v0.02 (28 Oct 2004)&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;First Release&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

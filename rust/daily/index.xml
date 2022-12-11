@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-10T01:36:50Z</updated>
+  <updated>2022-12-11T01:37:55Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>paradigmxyz/reth</title>
-    <updated>2022-12-10T01:36:50Z</updated>
-    <id>tag:github.com,2022-12-10:/paradigmxyz/reth</id>
-    <link href="https://github.com/paradigmxyz/reth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MordechaiHadad/bob</title>
-    <updated>2022-12-10T01:36:50Z</updated>
-    <id>tag:github.com,2022-12-10:/MordechaiHadad/bob</id>
-    <link href="https://github.com/MordechaiHadad/bob" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A version manager for neovim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>huggingface/safetensors</title>
-    <updated>2022-12-10T01:36:50Z</updated>
-    <id>tag:github.com,2022-12-10:/huggingface/safetensors</id>
-    <link href="https://github.com/huggingface/safetensors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple, safe way to store and distribute tensors&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lencx/ChatGPT</title>
+    <updated>2022-12-11T01:37:55Z</updated>
+    <id>tag:github.com,2022-12-11:/lencx/ChatGPT</id>
+    <link href="https://github.com/lencx/ChatGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 ChatGPT Desktop Application (Mac, Windows and Linux)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
