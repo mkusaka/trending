@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:34:38Z</updated>
+  <updated>2022-12-12T01:33:42Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DanielVandH/FiniteVolumeMethod.jl</title>
-    <updated>2022-12-11T01:34:38Z</updated>
-    <id>tag:github.com,2022-12-11:/DanielVandH/FiniteVolumeMethod.jl</id>
-    <link href="https://github.com/DanielVandH/FiniteVolumeMethod.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solver for two-dimensional conservation equations using the finite volume method.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaSmoothOptimizers/PDENLPModels.jl</title>
-    <updated>2022-12-11T01:34:38Z</updated>
-    <id>tag:github.com,2022-12-11:/JuliaSmoothOptimizers/PDENLPModels.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/PDENLPModels.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A NLPModel API for optimization problems with PDE-constraints&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>beacon-biosignals/OndaEDF.jl</title>
-    <updated>2022-12-11T01:34:38Z</updated>
-    <id>tag:github.com,2022-12-11:/beacon-biosignals/OndaEDF.jl</id>
-    <link href="https://github.com/beacon-biosignals/OndaEDF.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;utilities for importing/exporting EDF Files to/from Onda datasets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thofma/Tally.jl</title>
+    <updated>2022-12-12T01:33:42Z</updated>
+    <id>tag:github.com,2022-12-12:/thofma/Tally.jl</id>
+    <link href="https://github.com/thofma/Tally.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

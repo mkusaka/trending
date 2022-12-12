@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:33:38Z</updated>
+  <updated>2022-12-12T01:32:48Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sarik89/AUGUST-GCP_TEAM3</title>
+    <updated>2022-12-12T01:32:48Z</updated>
+    <id>tag:github.com,2022-12-12:/Sarik89/AUGUST-GCP_TEAM3</id>
+    <link href="https://github.com/Sarik89/AUGUST-GCP_TEAM3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is our team project where we have deployed wordpress website through gcp cloud&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hashicorp/setup-packer</title>
+    <updated>2022-12-12T01:32:48Z</updated>
+    <id>tag:github.com,2022-12-12:/hashicorp/setup-packer</id>
+    <link href="https://github.com/hashicorp/setup-packer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run HashiCorp Packer as part of your GitHub Actions Workflow&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-dynamic-subnets</title>
+    <updated>2022-12-12T01:32:48Z</updated>
+    <id>tag:github.com,2022-12-12:/cloudposse/terraform-aws-dynamic-subnets</id>
+    <link href="https://github.com/cloudposse/terraform-aws-dynamic-subnets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for public and private subnets provisioning in existing VPC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:35:20Z</updated>
+  <updated>2022-12-12T01:34:25Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>i2Nav-WHU/Wheel-SLAM</title>
-    <updated>2022-12-11T01:35:20Z</updated>
-    <id>tag:github.com,2022-12-11:/i2Nav-WHU/Wheel-SLAM</id>
-    <link href="https://github.com/i2Nav-WHU/Wheel-SLAM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simultaneous Localization and Terrain Mapping Using One Wheel-mounted IMU&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

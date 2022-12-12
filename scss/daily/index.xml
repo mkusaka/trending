@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:38:07Z</updated>
+  <updated>2022-12-12T01:36:22Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tecg-dcc/js-tp-interrogation-devine-nombre</title>
-    <updated>2022-12-11T01:38:07Z</updated>
-    <id>tag:github.com,2022-12-11:/tecg-dcc/js-tp-interrogation-devine-nombre</id>
-    <link href="https://github.com/tecg-dcc/js-tp-interrogation-devine-nombre" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apache/iceberg-docs</title>
-    <updated>2022-12-11T01:38:07Z</updated>
-    <id>tag:github.com,2022-12-11:/apache/iceberg-docs</id>
-    <link href="https://github.com/apache/iceberg-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache Iceberg Documentation Site&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arcticicestudio/nord</title>
+    <updated>2022-12-12T01:36:22Z</updated>
+    <id>tag:github.com,2022-12-12:/arcticicestudio/nord</id>
+    <link href="https://github.com/arcticicestudio/nord" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An arctic, north-bluish color palette.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

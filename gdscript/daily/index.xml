@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:32:59Z</updated>
+  <updated>2022-12-12T01:32:19Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BL-MSCH-C220-F22/Godot-3D-Template</title>
+    <updated>2022-12-12T01:32:19Z</updated>
+    <id>tag:github.com,2022-12-12:/BL-MSCH-C220-F22/Godot-3D-Template</id>
+    <link href="https://github.com/BL-MSCH-C220-F22/Godot-3D-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starting place for Godot 3D projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kenny-Haworth/Harvest-Moon-2.0</title>
+    <updated>2022-12-12T01:32:19Z</updated>
+    <id>tag:github.com,2022-12-12:/Kenny-Haworth/Harvest-Moon-2.0</id>
+    <link href="https://github.com/Kenny-Haworth/Harvest-Moon-2.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a harvest moon game created in Godot. The core aspects of this game are farming, shopping, time, and exploration.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>benc-uk/super-dungeon-delve</title>
+    <updated>2022-12-12T01:32:19Z</updated>
+    <id>tag:github.com,2022-12-12:/benc-uk/super-dungeon-delve</id>
+    <link href="https://github.com/benc-uk/super-dungeon-delve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2D retro style dungeon game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

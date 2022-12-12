@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:30:45Z</updated>
+  <updated>2022-12-12T01:30:24Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yoanbernabeu/LinkTreeFreeClone</title>
+    <updated>2022-12-12T01:30:24Z</updated>
+    <id>tag:github.com,2022-12-12:/yoanbernabeu/LinkTreeFreeClone</id>
+    <link href="https://github.com/yoanbernabeu/LinkTreeFreeClone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

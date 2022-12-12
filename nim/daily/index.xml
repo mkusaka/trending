@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:35:38Z</updated>
+  <updated>2022-12-12T01:34:35Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>status-im/nim-metrics</title>
-    <updated>2022-12-11T01:35:38Z</updated>
-    <id>tag:github.com,2022-12-11:/status-im/nim-metrics</id>
-    <link href="https://github.com/status-im/nim-metrics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim metrics client library supporting the Prometheus monitoring toolkit, StatsD and Carbon&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/nim-nitro</title>
-    <updated>2022-12-11T01:35:38Z</updated>
-    <id>tag:github.com,2022-12-11:/status-im/nim-nitro</id>
-    <link href="https://github.com/status-im/nim-nitro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nitro state channels in Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>status-im/nim-http-utils</title>
-    <updated>2022-12-11T01:35:38Z</updated>
-    <id>tag:github.com,2022-12-11:/status-im/nim-http-utils</id>
-    <link href="https://github.com/status-im/nim-http-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim language HTTP helper procedures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:30:24Z</updated>
+  <updated>2022-12-12T01:29:58Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wuchangming/chat-gpt-ask-question-engineer-handbook</title>
-    <updated>2022-12-11T01:30:24Z</updated>
-    <id>tag:github.com,2022-12-11:/wuchangming/chat-gpt-ask-question-engineer-handbook</id>
-    <link href="https://github.com/wuchangming/chat-gpt-ask-question-engineer-handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤖️ChatGPT 提问工程师开发指南&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kamigami55/awesome-chatgpt</title>
+    <updated>2022-12-12T01:29:58Z</updated>
+    <id>tag:github.com,2022-12-12:/Kamigami55/awesome-chatgpt</id>
+    <link href="https://github.com/Kamigami55/awesome-chatgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LukeYui/EldenRingSeamlessCoopRelease</title>
-    <updated>2022-12-11T01:30:24Z</updated>
-    <id>tag:github.com,2022-12-11:/LukeYui/EldenRingSeamlessCoopRelease</id>
-    <link href="https://github.com/LukeYui/EldenRingSeamlessCoopRelease" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mojang/bedrock-samples</title>
+    <updated>2022-12-12T01:29:58Z</updated>
+    <id>tag:github.com,2022-12-12:/Mojang/bedrock-samples</id>
+    <link href="https://github.com/Mojang/bedrock-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Samples and assets for building Minecraft: Bedrock Edition add-ons&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>madd86/awesome-system-design</title>
-    <updated>2022-12-11T01:30:24Z</updated>
-    <id>tag:github.com,2022-12-11:/madd86/awesome-system-design</id>
-    <link href="https://github.com/madd86/awesome-system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome System Design (A.K.A. Distributed Systems) resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Sam5440/Genshin_Impact_Teleport</title>
+    <updated>2022-12-12T01:29:58Z</updated>
+    <id>tag:github.com,2022-12-12:/Sam5440/Genshin_Impact_Teleport</id>
+    <link href="https://github.com/Sam5440/Genshin_Impact_Teleport" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Points of GI which is to generate 3D map&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

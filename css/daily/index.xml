@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:31:54Z</updated>
+  <updated>2022-12-12T01:31:16Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ohnogaurav/HtmlProject</title>
-    <updated>2022-12-11T01:31:54Z</updated>
-    <id>tag:github.com,2022-12-11:/ohnogaurav/HtmlProject</id>
-    <link href="https://github.com/ohnogaurav/HtmlProject" rel="alternate"></link>
+    <title>jadijadi/linuxandlife</title>
+    <updated>2022-12-12T01:31:16Z</updated>
+    <id>tag:github.com,2022-12-12:/jadijadi/linuxandlife</id>
+    <link href="https://github.com/jadijadi/linuxandlife" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;کتاب راهنمای لینوکس و زندگی&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;http://www.linuxbook.ir&#34;&gt;کتابی برای کشف دنیای پشت لینوکس و درک بهتر از زندگی&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;To-Do:&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Export to ePub&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Export to PDF&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Redesign &lt;em&gt;thx for support&lt;/em&gt; page&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Move support info (like: bank account, PayPal email and Zarrin Card) to config and show them if something exists.&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Beautify the NEXT and PREVIOUS chapter&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Usage:&lt;/h1&gt; &#xA;&lt;p&gt;Each article should have this header:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;---&#xA;layout: article&#xA;chapter: &#34;the name of current chapter&#34;&#xA;order: &#34;article number in book index&#34;&#xA;title: &#34;the name of article&#34;&#xA;---&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Here&#39;s an example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;---&#xA;layout: article&#xA;chapter: اصول و مقدمات&#xA;order: 1&#xA;title: فلسفه آزادی نرم‌افزار&#xA;---&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mdboniamin/Outlaws_Assignment_3.2</title>
+    <updated>2022-12-12T01:31:16Z</updated>
+    <id>tag:github.com,2022-12-12:/Mdboniamin/Outlaws_Assignment_3.2</id>
+    <link href="https://github.com/Mdboniamin/Outlaws_Assignment_3.2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Nishantkumar1905/CAR-BOOKING-WEBSITE-</title>
-    <updated>2022-12-11T01:31:54Z</updated>
-    <id>tag:github.com,2022-12-11:/Nishantkumar1905/CAR-BOOKING-WEBSITE-</id>
-    <link href="https://github.com/Nishantkumar1905/CAR-BOOKING-WEBSITE-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;with the help of HTML, CSS , JAVASCRIPT&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CAR-BOOKING-WEBSITE-&lt;/h1&gt; &#xA;&lt;p&gt;with the help of HTML, CSS , JAVASCRIPT&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>betawins/sabear_simplecutomerapp</title>
-    <updated>2022-12-11T01:31:54Z</updated>
-    <id>tag:github.com,2022-12-11:/betawins/sabear_simplecutomerapp</id>
-    <link href="https://github.com/betawins/sabear_simplecutomerapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;How to execute this pipeline&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Sonarscanner&lt;/li&gt; &#xA; &lt;li&gt;Sonarqube server&lt;/li&gt; &#xA; &lt;li&gt;jenkins server&lt;/li&gt; &#xA; &lt;li&gt;nexus server&lt;/li&gt; &#xA; &lt;li&gt;change the credetilas of nexus server as per our requirement&lt;/li&gt; &#xA; &lt;li&gt;create a new repo in nexus with version policy as &#34;snapshot&#34;&lt;/li&gt; &#xA; &lt;li&gt;modiy the pipeline as per our sonarscanner name and sonarqube server name&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
   </entry>
 </feed>

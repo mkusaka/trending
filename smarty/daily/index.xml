@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:38:28Z</updated>
+  <updated>2022-12-12T01:36:45Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chartmuseum/charts</title>
-    <updated>2022-12-11T01:38:28Z</updated>
-    <id>tag:github.com,2022-12-11:/chartmuseum/charts</id>
-    <link href="https://github.com/chartmuseum/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChartMuseum Project Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>manojthemiracle/SpringBootHelloWorld</title>
-    <updated>2022-12-11T01:38:28Z</updated>
-    <id>tag:github.com,2022-12-11:/manojthemiracle/SpringBootHelloWorld</id>
-    <link href="https://github.com/manojthemiracle/SpringBootHelloWorld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>angelnu/helm-charts</title>
+    <updated>2022-12-12T01:36:45Z</updated>
+    <id>tag:github.com,2022-12-12:/angelnu/helm-charts</id>
+    <link href="https://github.com/angelnu/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

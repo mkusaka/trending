@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:33:03Z</updated>
+  <updated>2022-12-12T01:32:23Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>edisonlee55/sbox-MToon</title>
-    <updated>2022-12-11T01:33:03Z</updated>
-    <id>tag:github.com,2022-12-11:/edisonlee55/sbox-MToon</id>
-    <link href="https://github.com/edisonlee55/sbox-MToon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Toon Shader with Global Illumination. Ported to s&amp;box (Source 2).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

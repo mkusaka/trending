@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub APL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:30:42Z</updated>
+  <updated>2022-12-12T01:30:21Z</updated>
   <subtitle>Daily Trending of APL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jayfoad/aoc2022apl</title>
-    <updated>2022-12-11T01:30:42Z</updated>
-    <id>tag:github.com,2022-12-11:/jayfoad/aoc2022apl</id>
-    <link href="https://github.com/jayfoad/aoc2022apl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advent of Code 2022 solutions in Dyalog APL&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

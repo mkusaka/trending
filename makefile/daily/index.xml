@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-11T01:35:19Z</updated>
+  <updated>2022-12-12T01:34:22Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wolfSSL/documentation</title>
-    <updated>2022-12-11T01:35:19Z</updated>
-    <id>tag:github.com,2022-12-11:/wolfSSL/documentation</id>
-    <link href="https://github.com/wolfSSL/documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;wolfSSL product manuals and documentation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alin23/m1-panic</title>
+    <updated>2022-12-12T01:34:22Z</updated>
+    <id>tag:github.com,2022-12-12:/alin23/m1-panic</id>
+    <link href="https://github.com/alin23/m1-panic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimum requirements for triggering an M1 CPU panic&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>quicklyon/zentao-docker</title>
-    <updated>2022-12-11T01:35:19Z</updated>
-    <id>tag:github.com,2022-12-11:/quicklyon/zentao-docker</id>
-    <link href="https://github.com/quicklyon/zentao-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Quickon Docker Image for ZenTao（禅道容器镜像）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gardener/machine-spec</title>
+    <updated>2022-12-12T01:34:22Z</updated>
+    <id>tag:github.com,2022-12-12:/gardener/machine-spec</id>
+    <link href="https://github.com/gardener/machine-spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Defines gRPC machine-interface for machine-controller-manager&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
