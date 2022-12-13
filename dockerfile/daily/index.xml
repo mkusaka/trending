@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-12T01:31:35Z</updated>
+  <updated>2022-12-13T01:32:09Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>beeyev/phpmyadmin-docker-lightweight</title>
-    <updated>2022-12-12T01:31:35Z</updated>
-    <id>tag:github.com,2022-12-12:/beeyev/phpmyadmin-docker-lightweight</id>
-    <link href="https://github.com/beeyev/phpmyadmin-docker-lightweight" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ready to use lightweight phpMyAdmin version based on the official docker image. [PHP-FPM, Alpine, Caddy]&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;phpMyAdmin Docker Lightweight&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Super lightweight and fully function phpMyAdmin Docker image, it includes webserver and everything needed to work out of the box.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;https://github.com/beeyev/phpmyadmin-docker-lightweight/&#34;&gt;&lt;img src=&#34;https://github.com/beeyev/phpmyadmin-docker-lightweight/raw/master/docs/phpmyadmin-docker-lightweight-withbg.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This project is built on top of the official phpMyAdmin fpm-alpine image, it includes Caddy webserver and extra dark themes.&lt;br&gt; The image is automatically updated, so the latests phpMyAdmin version is always supported.&lt;/p&gt; &#xA;&lt;details&gt; &#xA; &lt;summary&gt;Extra themes included into the image ▼&lt;/summary&gt; &#xA; &lt;p&gt;&lt;code&gt;blueberry&lt;/code&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://github.com/beeyev/phpmyadmin-docker-lightweight/raw/master/docs/theme-blueberry.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;code&gt;BooDark&lt;/code&gt;&lt;/p&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://github.com/beeyev/phpmyadmin-docker-lightweight/raw/master/docs/theme-BooDark.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;/details&gt; &#xA;&lt;h2&gt;Docker repository&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://hub.docker.com/r/beeyev/phpmyadmin-lightweight&#34;&gt;Docker Hub&lt;/a&gt;&lt;br&gt; &lt;code&gt;docker pull beeyev/phpmyadmin-lightweight:latest&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/beeyev/phpmyadmin-docker-lightweight/pkgs/container/phpmyadmin-docker-lightweight&#34;&gt;GitHub Packages&lt;/a&gt;&lt;br&gt; &lt;code&gt;docker pull ghcr.io/beeyev/phpmyadmin-docker-lightweight:latest&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;How to use&lt;/h2&gt; &#xA;&lt;p&gt;Example: &lt;a href=&#34;https://github.com/beeyev/phpmyadmin-docker-lightweight/raw/master/docker-compose.yml&#34;&gt;&lt;code&gt;docker-compose.yml&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Custom Configuration &amp;amp; environment variables&lt;/h3&gt; &#xA;&lt;p&gt;Follow the &lt;a href=&#34;https://github.com/phpmyadmin/docker#adding-custom-configuration&#34;&gt;official phpmyadmin documentation&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;The MIT License (MIT). Please see &lt;a href=&#34;https://github.com/beeyev/phpmyadmin-docker-lightweight/raw/master/LICENSE&#34;&gt;License File&lt;/a&gt; for more information.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;If you like this project, please consider giving me a ⭐&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>abdulshajahan/docker</title>
-    <updated>2022-12-12T01:31:35Z</updated>
-    <id>tag:github.com,2022-12-12:/abdulshajahan/docker</id>
-    <link href="https://github.com/abdulshajahan/docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docker lab guide created for ref.&lt;/h1&gt; &#xA;&lt;h1&gt;nov22&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>gardener/docs-toolbelt</title>
-    <updated>2022-12-12T01:31:35Z</updated>
-    <id>tag:github.com,2022-12-12:/gardener/docs-toolbelt</id>
-    <link href="https://github.com/gardener/docs-toolbelt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful tools for managing Gardener documentation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docs-toolbelt&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://reuse.software/&#34;&gt;&lt;img src=&#34;https://reuse.software/badge/reuse-compliant.svg?sanitize=true&#34; alt=&#34;reuse compliant&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Useful tools for managing Gardener documentation.&lt;/p&gt; &#xA;&lt;p&gt;Details TBD&lt;/p&gt;</summary>
+    <title>suaicloud/docker-app</title>
+    <updated>2022-12-13T01:32:09Z</updated>
+    <id>tag:github.com,2022-12-13:/suaicloud/docker-app</id>
+    <link href="https://github.com/suaicloud/docker-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Docker-app&lt;/h1&gt; &#xA;&lt;p&gt;Данный репозиторий служит для сдачи Лабораторной работы №3 по курсу &#34;Облачные технологии&#34;&lt;/p&gt; &#xA;&lt;h2&gt;Сдача лабораторной работы&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Сделайте форк данного репозитория&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Склонируйте форкнутый репозиторий&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Разместите разработанный Dockerfile в репо по пути &lt;code&gt;src/Dockerfile&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Разместите файлы приложения в репо по пути &lt;code&gt;src/app/&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Зафиксируйте изменения&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Опубликуйте изменения на Github&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Оформите pull-request в данный репозиторий&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Обратите внимание, что Dockerfile должен будет успешно пройти сборку в GitHub CI пайплайне. Этого можно добиться, если все необходимые данные для сборки будут размещены в репозитории.&lt;/p&gt; &#xA;&lt;h3&gt;pull-request должен содержать информацию о студенте&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;в название pull-request&#39;a вписать номер группы и ФИО в формате &lt;code&gt;[номергруппы] - [ФИО]&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

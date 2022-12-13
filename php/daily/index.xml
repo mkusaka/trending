@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-12T01:35:05Z</updated>
+  <updated>2022-12-13T01:35:41Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sebastianbergmann/php-file-iterator</title>
+    <updated>2022-12-13T01:35:41Z</updated>
+    <id>tag:github.com,2022-12-13:/sebastianbergmann/php-file-iterator</id>
+    <link href="https://github.com/sebastianbergmann/php-file-iterator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/sebastianbergmann/php-file-iterator&#34;&gt;&lt;img src=&#34;https://travis-ci.org/sebastianbergmann/php-file-iterator.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;php-file-iterator&lt;/h1&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;You can add this library as a local, per-project dependency to your project using &lt;a href=&#34;https://getcomposer.org/&#34;&gt;Composer&lt;/a&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;composer require phpunit/php-file-iterator&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If you only need this library during development, for instance to run your project&#39;s test suite, then you should add it as a development-time dependency:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;composer require --dev phpunit/php-file-iterator&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

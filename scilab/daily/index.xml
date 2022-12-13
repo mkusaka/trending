@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scilab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-12T01:36:19Z</updated>
+  <updated>2022-12-13T01:37:07Z</updated>
   <subtitle>Daily Trending of Scilab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mikeizbicki/datasets</title>
-    <updated>2022-12-12T01:36:19Z</updated>
-    <id>tag:github.com,2022-12-12:/mikeizbicki/datasets</id>
-    <link href="https://github.com/mikeizbicki/datasets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of publicly available datasets&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

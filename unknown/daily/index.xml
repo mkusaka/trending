@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-12T01:29:58Z</updated>
+  <updated>2022-12-13T01:30:40Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kamigami55/awesome-chatgpt</title>
-    <updated>2022-12-12T01:29:58Z</updated>
-    <id>tag:github.com,2022-12-12:/Kamigami55/awesome-chatgpt</id>
-    <link href="https://github.com/Kamigami55/awesome-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of ChatGPT related resource, tools, prompts, apps / ChatGPT 相關優質資源、工具、應用的精選清單。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>calistus-igwilo/nitda-blockchain-scholarship</title>
+    <updated>2022-12-13T01:30:40Z</updated>
+    <id>tag:github.com,2022-12-13:/calistus-igwilo/nitda-blockchain-scholarship</id>
+    <link href="https://github.com/calistus-igwilo/nitda-blockchain-scholarship" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course materials for the NITDA Blockchain Scholarship&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Mojang/bedrock-samples</title>
-    <updated>2022-12-12T01:29:58Z</updated>
-    <id>tag:github.com,2022-12-12:/Mojang/bedrock-samples</id>
-    <link href="https://github.com/Mojang/bedrock-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Samples and assets for building Minecraft: Bedrock Edition add-ons&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yuriisanin/CVE-2022-45025</title>
+    <updated>2022-12-13T01:30:40Z</updated>
+    <id>tag:github.com,2022-12-13:/yuriisanin/CVE-2022-45025</id>
+    <link href="https://github.com/yuriisanin/CVE-2022-45025" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Sam5440/Genshin_Impact_Teleport</title>
-    <updated>2022-12-12T01:29:58Z</updated>
-    <id>tag:github.com,2022-12-12:/Sam5440/Genshin_Impact_Teleport</id>
-    <link href="https://github.com/Sam5440/Genshin_Impact_Teleport" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Points of GI which is to generate 3D map&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>llSourcell/LearnML</title>
+    <updated>2022-12-13T01:30:40Z</updated>
+    <id>tag:github.com,2022-12-13:/llSourcell/LearnML</id>
+    <link href="https://github.com/llSourcell/LearnML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the Study Guide for Learn Machine Learning in 3 Months (PyTorch Curriculum) by Siraj Raval on Youtube&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

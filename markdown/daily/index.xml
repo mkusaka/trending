@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-12T01:34:24Z</updated>
+  <updated>2022-12-13T01:35:05Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pageon/uptime</title>
-    <updated>2022-12-12T01:34:24Z</updated>
-    <id>tag:github.com,2022-12-12:/pageon/uptime</id>
-    <link href="https://github.com/pageon/uptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;uptime monitor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DFE-Digital/schools-commerical-team-upptime</title>
-    <updated>2022-12-12T01:34:24Z</updated>
-    <id>tag:github.com,2022-12-12:/DFE-Digital/schools-commerical-team-upptime</id>
-    <link href="https://github.com/DFE-Digital/schools-commerical-team-upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Infrastructure monitoring using upptime service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>diveliastudio/upptime</title>
+    <updated>2022-12-13T01:35:05Z</updated>
+    <id>tag:github.com,2022-12-13:/diveliastudio/upptime</id>
+    <link href="https://github.com/diveliastudio/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for diveliastudio, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-12T01:34:55Z</updated>
+  <updated>2022-12-13T01:35:32Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HashLoad/CQLBr</title>
+    <updated>2022-12-13T01:35:32Z</updated>
+    <id>tag:github.com,2022-12-13:/HashLoad/CQLBr</id>
+    <link href="https://github.com/HashLoad/CQLBr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CQLBr Framework for Delphi/Lazarus (Isaque Pinheiro)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

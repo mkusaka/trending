@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-12T01:36:47Z</updated>
+  <updated>2022-12-13T01:37:36Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>thomas-waite/erc4337-wallet</title>
-    <updated>2022-12-12T01:36:47Z</updated>
-    <id>tag:github.com,2022-12-12:/thomas-waite/erc4337-wallet</id>
-    <link href="https://github.com/thomas-waite/erc4337-wallet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart wallet implementation, using ERC-4337&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

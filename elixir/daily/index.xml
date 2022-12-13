@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-12T01:31:50Z</updated>
+  <updated>2022-12-13T01:32:38Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DogParkLabs/advent-of-code</title>
-    <updated>2022-12-12T01:31:50Z</updated>
-    <id>tag:github.com,2022-12-12:/DogParkLabs/advent-of-code</id>
-    <link href="https://github.com/DogParkLabs/advent-of-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chrismccord/single_file_phx_bumblebee_ml</title>
-    <updated>2022-12-12T01:31:50Z</updated>
-    <id>tag:github.com,2022-12-12:/chrismccord/single_file_phx_bumblebee_ml</id>
-    <link href="https://github.com/chrismccord/single_file_phx_bumblebee_ml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jswny/edgybot</title>
-    <updated>2022-12-12T01:31:50Z</updated>
-    <id>tag:github.com,2022-12-12:/jswny/edgybot</id>
-    <link href="https://github.com/jswny/edgybot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Edgy Discord bot.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
