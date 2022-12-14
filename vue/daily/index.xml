@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:38:39Z</updated>
+  <updated>2022-12-14T01:41:03Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>niefy/wx-manage</title>
-    <updated>2022-12-13T01:38:39Z</updated>
-    <id>tag:github.com,2022-12-13:/niefy/wx-manage</id>
-    <link href="https://github.com/niefy/wx-manage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>YangMr/9YueOnlineEdu</title>
-    <updated>2022-12-13T01:38:39Z</updated>
-    <id>tag:github.com,2022-12-13:/YangMr/9YueOnlineEdu</id>
-    <link href="https://github.com/YangMr/9YueOnlineEdu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;9月在线教育APP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flavorly/vanilla-components</title>
-    <updated>2022-12-13T01:38:39Z</updated>
-    <id>tag:github.com,2022-12-13:/flavorly/vanilla-components</id>
-    <link href="https://github.com/flavorly/vanilla-components" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight, flexible &amp; customizable UI library for Vue 3, styled with Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZQCard/kratos-base-project</title>
+    <updated>2022-12-14T01:41:03Z</updated>
+    <id>tag:github.com,2022-12-14:/ZQCard/kratos-base-project</id>
+    <link href="https://github.com/ZQCard/kratos-base-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于go-kratos框架，基础开发服务&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

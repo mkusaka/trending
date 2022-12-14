@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:36:47Z</updated>
+  <updated>2022-12-14T01:38:56Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>turingschool/m0_be_hashes</title>
-    <updated>2022-12-13T01:36:47Z</updated>
-    <id>tag:github.com,2022-12-13:/turingschool/m0_be_hashes</id>
-    <link href="https://github.com/turingschool/m0_be_hashes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Hashes CFU&lt;/h1&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fork this repository&lt;/li&gt; &#xA; &lt;li&gt;Clone your copy of it to your local machine&lt;/li&gt; &#xA; &lt;li&gt;Open in Atom&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Directions&lt;/h2&gt; &#xA;&lt;p&gt;Read the directions and complete all activities in each file, in this order:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;syntax_cleanup.rb&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;hashes_1.rb&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;hashes_2.rb&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;self_eval.md&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Based on what you know about Git workflow, make commits as you see fit.&lt;/p&gt; &#xA;&lt;h2&gt;Submission&lt;/h2&gt; &#xA;&lt;p&gt;After you&#39;ve commited and pushed your work back up to your copy of this repo, provide the repo link in the submission form.&lt;/p&gt;</summary>
-  </entry>
 </feed>

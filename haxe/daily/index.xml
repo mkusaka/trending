@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:33:30Z</updated>
+  <updated>2022-12-14T01:34:42Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>YoshiCrafter29/CodenameEngine</title>
-    <updated>2022-12-13T01:33:30Z</updated>
-    <id>tag:github.com,2022-12-13:/YoshiCrafter29/CodenameEngine</id>
-    <link href="https://github.com/YoshiCrafter29/CodenameEngine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Friday Night Funkin&#39; - Codename Engine (WIP)&lt;/h1&gt; &#xA;&lt;h2&gt;PLEASE NOTE - THIS IS STILL IN AN ALPHA STATE&lt;/h2&gt; &#xA;&lt;p&gt;Early alpha of Codename Engine, known issues:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Some options are missing&lt;/li&gt; &#xA; &lt;li&gt;Week 5 has no monster animation&lt;/li&gt; &#xA; &lt;li&gt;Week 6 still have no dialogue&lt;/li&gt; &#xA; &lt;li&gt;Week 7 have no running tankman&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Build instructions are below. Press TAB on the main menu to switch mods.&lt;/p&gt; &#xA;&lt;p&gt;Also, &lt;code&gt;lime test windows&lt;/code&gt; uses the source assets folder instead of the export one.&lt;/p&gt; &#xA;&lt;h2&gt;CREDITS&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Credits to &lt;a href=&#34;https://twitter.com/Ne_Eo_Twitch&#34;&gt;Ne_Eo&lt;/a&gt; and the &lt;a href=&#34;https://github.com/lunarcleint/3D-HaxeFlixel&#34;&gt;3D-HaxeFlixel&lt;/a&gt; repository for Away3D Flixel support&lt;/li&gt; &#xA; &lt;li&gt;Credits to Smokey555 for the fancy Animate Atlas code (might be replaced soon)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;HOW TO BUILD&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install the required libraries as told in the original Funkin&#39; repo (with latest Haxe!)&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;update.bat&lt;/code&gt; to install all required additional libraries (flixel fork, hscript fork...)&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;lime test windows&lt;/code&gt; to compile the game (may take a long time)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

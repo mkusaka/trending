@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:35:16Z</updated>
+  <updated>2022-12-14T01:37:09Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>brentp/mosdepth</title>
+    <updated>2022-12-14T01:37:09Z</updated>
+    <id>tag:github.com,2022-12-14:/brentp/mosdepth</id>
+    <link href="https://github.com/brentp/mosdepth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

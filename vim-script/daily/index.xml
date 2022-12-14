@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:38:35Z</updated>
+  <updated>2022-12-14T01:40:57Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tani/vim-jetpack</title>
-    <updated>2022-12-13T01:38:35Z</updated>
-    <id>tag:github.com,2022-12-13:/tani/vim-jetpack</id>
-    <link href="https://github.com/tani/vim-jetpack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The lightning-fast plugin manager, alternative to vim-plug&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

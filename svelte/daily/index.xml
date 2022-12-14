@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:37:42Z</updated>
+  <updated>2022-12-14T01:40:01Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CaptainCodeman/svelte-form-helper</title>
-    <updated>2022-12-13T01:37:42Z</updated>
-    <id>tag:github.com,2022-12-13:/CaptainCodeman/svelte-form-helper</id>
-    <link href="https://github.com/CaptainCodeman/svelte-form-helper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight helpers for form validation with Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>simeydotme/svelte-range-slider-pips</title>
+    <updated>2022-12-14T01:40:01Z</updated>
+    <id>tag:github.com,2022-12-14:/simeydotme/svelte-range-slider-pips</id>
+    <link href="https://github.com/simeydotme/svelte-range-slider-pips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-Thumb, Accessible, Beautiful Range Slider with Pips&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

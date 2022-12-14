@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:37:09Z</updated>
+  <updated>2022-12-14T01:39:27Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>creativetimofficial/vue-material-dashboard-2</title>
-    <updated>2022-12-13T01:37:09Z</updated>
-    <id>tag:github.com,2022-12-13:/creativetimofficial/vue-material-dashboard-2</id>
-    <link href="https://github.com/creativetimofficial/vue-material-dashboard-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue Material Dashboard 2 - Free and OpenSource VueJS 3 &amp; Bootstrap 5 Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wowchemy/starter-hugo-portfolio-theme</title>
-    <updated>2022-12-13T01:37:09Z</updated>
-    <id>tag:github.com,2022-12-13:/wowchemy/starter-hugo-portfolio-theme</id>
-    <link href="https://github.com/wowchemy/starter-hugo-portfolio-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily create your own portfolio website with Hugo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

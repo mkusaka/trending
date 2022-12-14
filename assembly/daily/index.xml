@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:30:58Z</updated>
+  <updated>2022-12-14T01:31:14Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Spark-Rom/bionic</title>
-    <updated>2022-12-13T01:30:58Z</updated>
-    <id>tag:github.com,2022-12-13:/Spark-Rom/bionic</id>
-    <link href="https://github.com/Spark-Rom/bionic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>markmoxon/teletext-elite</title>
-    <updated>2022-12-13T01:30:58Z</updated>
-    <id>tag:github.com,2022-12-13:/markmoxon/teletext-elite</id>
-    <link href="https://github.com/markmoxon/teletext-elite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BBC Micro Elite… in teletext&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iden3/circom_runtime</title>
+    <updated>2022-12-14T01:31:14Z</updated>
+    <id>tag:github.com,2022-12-14:/iden3/circom_runtime</id>
+    <link href="https://github.com/iden3/circom_runtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;circom runtime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

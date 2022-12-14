@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:35:03Z</updated>
+  <updated>2022-12-14T01:36:53Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Spark-Rom/device_qcom_sepolicy-legacy-um</title>
-    <updated>2022-12-13T01:35:03Z</updated>
-    <id>tag:github.com,2022-12-13:/Spark-Rom/device_qcom_sepolicy-legacy-um</id>
-    <link href="https://github.com/Spark-Rom/device_qcom_sepolicy-legacy-um" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Spark-Rom/external_Apps</title>
-    <updated>2022-12-13T01:35:03Z</updated>
-    <id>tag:github.com,2022-12-13:/Spark-Rom/external_Apps</id>
-    <link href="https://github.com/Spark-Rom/external_Apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Spark-Rom/device_spark_sepolicy</title>
-    <updated>2022-12-13T01:35:03Z</updated>
-    <id>tag:github.com,2022-12-13:/Spark-Rom/device_spark_sepolicy</id>
-    <link href="https://github.com/Spark-Rom/device_spark_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:32:09Z</updated>
+  <updated>2022-12-14T01:33:08Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>suaicloud/docker-app</title>
-    <updated>2022-12-13T01:32:09Z</updated>
-    <id>tag:github.com,2022-12-13:/suaicloud/docker-app</id>
-    <link href="https://github.com/suaicloud/docker-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Docker-app&lt;/h1&gt; &#xA;&lt;p&gt;Данный репозиторий служит для сдачи Лабораторной работы №3 по курсу &#34;Облачные технологии&#34;&lt;/p&gt; &#xA;&lt;h2&gt;Сдача лабораторной работы&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Сделайте форк данного репозитория&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Склонируйте форкнутый репозиторий&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Разместите разработанный Dockerfile в репо по пути &lt;code&gt;src/Dockerfile&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Разместите файлы приложения в репо по пути &lt;code&gt;src/app/&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Зафиксируйте изменения&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Опубликуйте изменения на Github&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Оформите pull-request в данный репозиторий&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Обратите внимание, что Dockerfile должен будет успешно пройти сборку в GitHub CI пайплайне. Этого можно добиться, если все необходимые данные для сборки будут размещены в репозитории.&lt;/p&gt; &#xA;&lt;h3&gt;pull-request должен содержать информацию о студенте&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;в название pull-request&#39;a вписать номер группы и ФИО в формате &lt;code&gt;[номергруппы] - [ФИО]&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

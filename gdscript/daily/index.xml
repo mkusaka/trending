@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:33:01Z</updated>
+  <updated>2022-12-14T01:33:58Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>d-bucur/godot-vision-cone</title>
-    <updated>2022-12-13T01:33:01Z</updated>
-    <id>tag:github.com,2022-12-13:/d-bucur/godot-vision-cone</id>
-    <link href="https://github.com/d-bucur/godot-vision-cone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vision cone addon for Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PfandBoss/SemesterGameJam2022</title>
-    <updated>2022-12-13T01:33:01Z</updated>
-    <id>tag:github.com,2022-12-13:/PfandBoss/SemesterGameJam2022</id>
-    <link href="https://github.com/PfandBoss/SemesterGameJam2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for Winter Semester Game Jam 2022&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

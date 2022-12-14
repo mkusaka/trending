@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-13T01:32:38Z</updated>
+  <updated>2022-12-14T01:33:20Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>karolsluszniak/ex_check</title>
+    <updated>2022-12-14T01:33:20Z</updated>
+    <id>tag:github.com,2022-12-14:/karolsluszniak/ex_check</id>
+    <link href="https://github.com/karolsluszniak/ex_check" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;One task to efficiently run all code analysis &amp; testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beam-community/stripity-stripe</title>
+    <updated>2022-12-14T01:33:20Z</updated>
+    <id>tag:github.com,2022-12-14:/beam-community/stripity-stripe</id>
+    <link href="https://github.com/beam-community/stripity-stripe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir Library for Stripe&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
