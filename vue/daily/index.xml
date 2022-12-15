@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-14T01:41:03Z</updated>
+  <updated>2022-12-15T01:38:13Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZQCard/kratos-base-project</title>
-    <updated>2022-12-14T01:41:03Z</updated>
-    <id>tag:github.com,2022-12-14:/ZQCard/kratos-base-project</id>
-    <link href="https://github.com/ZQCard/kratos-base-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于go-kratos框架，基础开发服务&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xaksis/vue-good-table</title>
+    <updated>2022-12-15T01:38:13Z</updated>
+    <id>tag:github.com,2022-12-15:/xaksis/vue-good-table</id>
+    <link href="https://github.com/xaksis/vue-good-table" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An easy to use powerful data table for vuejs with advanced customizations including sorting, column filtering, pagination, grouping etc&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ironhack-labs/lab-vue-tweets</title>
+    <updated>2022-12-15T01:38:13Z</updated>
+    <id>tag:github.com,2022-12-15:/ironhack-labs/lab-vue-tweets</id>
+    <link href="https://github.com/ironhack-labs/lab-vue-tweets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

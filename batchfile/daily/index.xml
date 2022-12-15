@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-14T01:31:19Z</updated>
+  <updated>2022-12-15T01:30:21Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FuyukoUxU/windows-rdp-vps</title>
-    <updated>2022-12-14T01:31:19Z</updated>
-    <id>tag:github.com,2022-12-14:/FuyukoUxU/windows-rdp-vps</id>
-    <link href="https://github.com/FuyukoUxU/windows-rdp-vps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DrB0rk/Flipper-Zero-Boards</title>
+    <updated>2022-12-15T01:30:21Z</updated>
+    <id>tag:github.com,2022-12-15:/DrB0rk/Flipper-Zero-Boards</id>
+    <link href="https://github.com/DrB0rk/Flipper-Zero-Boards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a collection of boards ive designed for the Flipper zero. more are on their way!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>midossaz/NgrokRDP</title>
-    <updated>2022-12-14T01:31:19Z</updated>
-    <id>tag:github.com,2022-12-14:/midossaz/NgrokRDP</id>
-    <link href="https://github.com/midossaz/NgrokRDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>serpotapov/stable-diffusion-portable</title>
-    <updated>2022-12-14T01:31:19Z</updated>
-    <id>tag:github.com,2022-12-14:/serpotapov/stable-diffusion-portable</id>
-    <link href="https://github.com/serpotapov/stable-diffusion-portable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stable Diffusion Portable&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JasonMa0012/MooaToon</title>
+    <updated>2022-12-15T01:30:21Z</updated>
+    <id>tag:github.com,2022-12-15:/JasonMa0012/MooaToon</id>
+    <link href="https://github.com/JasonMa0012/MooaToon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toon Rendering with Unreal Engine full lighting features support.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

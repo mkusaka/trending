@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-14T01:30:45Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-12-15T01:29:44Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mmira2/https-github.com-calistus-igwilo-nitda-blockchain-scholarship</title>
-    <updated>2022-12-14T01:30:45Z</updated>
-    <id>tag:github.com,2022-12-14:/Mmira2/https-github.com-calistus-igwilo-nitda-blockchain-scholarship</id>
-    <link href="https://github.com/Mmira2/https-github.com-calistus-igwilo-nitda-blockchain-scholarship" rel="alternate"></link>
+    <title>OfficeDev/Microsoft-Teams-Samples</title>
+    <updated>2022-12-15T01:29:44Z</updated>
+    <id>tag:github.com,2022-12-15:/OfficeDev/Microsoft-Teams-Samples</id>
+    <link href="https://github.com/OfficeDev/Microsoft-Teams-Samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VSFe/Tech-Interview</title>
+    <updated>2022-12-15T01:29:44Z</updated>
+    <id>tag:github.com,2022-12-15:/VSFe/Tech-Interview</id>
+    <link href="https://github.com/VSFe/Tech-Interview" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>russellventura/HomeAssistant</title>
-    <updated>2022-12-14T01:30:45Z</updated>
-    <id>tag:github.com,2022-12-14:/russellventura/HomeAssistant</id>
-    <link href="https://github.com/russellventura/HomeAssistant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Home Assistant Dashboard Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PlexPt/awesome-chatgpt-prompts-zh</title>
+    <updated>2022-12-15T01:29:44Z</updated>
+    <id>tag:github.com,2022-12-15:/PlexPt/awesome-chatgpt-prompts-zh</id>
+    <link href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT 中文调教指南。怎么让它听你的话。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

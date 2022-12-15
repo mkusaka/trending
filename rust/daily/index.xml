@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-14T01:39:13Z</updated>
+  <updated>2022-12-15T01:36:38Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>praetorian-inc/noseyparker</title>
-    <updated>2022-12-14T01:39:13Z</updated>
-    <id>tag:github.com,2022-12-14:/praetorian-inc/noseyparker</id>
-    <link href="https://github.com/praetorian-inc/noseyparker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>svenstaro/miniserve</title>
+    <updated>2022-12-15T01:36:38Z</updated>
+    <id>tag:github.com,2022-12-15:/svenstaro/miniserve</id>
+    <link href="https://github.com/svenstaro/miniserve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌟 For when you really just want to serve some files over HTTP right now!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>StarArawn/bevy_ecs_tilemap</title>
-    <updated>2022-12-14T01:39:13Z</updated>
-    <id>tag:github.com,2022-12-14:/StarArawn/bevy_ecs_tilemap</id>
-    <link href="https://github.com/StarArawn/bevy_ecs_tilemap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tilemap rendering crate for bevy which is more ECS friendly.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prisma/prisma-engines</title>
+    <updated>2022-12-15T01:36:38Z</updated>
+    <id>tag:github.com,2022-12-15:/prisma/prisma-engines</id>
+    <link href="https://github.com/prisma/prisma-engines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚂 Engine components of Prisma ORM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LyonSyonII/lyon-deck-toolbox</title>
-    <updated>2022-12-14T01:39:13Z</updated>
-    <id>tag:github.com,2022-12-14:/LyonSyonII/lyon-deck-toolbox</id>
-    <link href="https://github.com/LyonSyonII/lyon-deck-toolbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lyon&#39;s Deck Toolbox, an installer for a collection of tools and utilities to enhance the experience with the Steam Deck.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RedisJSON/RedisJSON</title>
+    <updated>2022-12-15T01:36:38Z</updated>
+    <id>tag:github.com,2022-12-15:/RedisJSON/RedisJSON</id>
+    <link href="https://github.com/RedisJSON/RedisJSON" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RedisJSON - a JSON data type for Redis&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

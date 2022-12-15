@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-14T01:40:01Z</updated>
+  <updated>2022-12-15T01:37:20Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>simeydotme/svelte-range-slider-pips</title>
-    <updated>2022-12-14T01:40:01Z</updated>
-    <id>tag:github.com,2022-12-14:/simeydotme/svelte-range-slider-pips</id>
-    <link href="https://github.com/simeydotme/svelte-range-slider-pips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-Thumb, Accessible, Beautiful Range Slider with Pips&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uikit/uikit-site</title>
+    <updated>2022-12-15T01:37:20Z</updated>
+    <id>tag:github.com,2022-12-15:/uikit/uikit-site</id>
+    <link href="https://github.com/uikit/uikit-site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌎 Website and Documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MetehanBatal/blogs-fetch</title>
+    <updated>2022-12-15T01:37:20Z</updated>
+    <id>tag:github.com,2022-12-15:/MetehanBatal/blogs-fetch</id>
+    <link href="https://github.com/MetehanBatal/blogs-fetch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

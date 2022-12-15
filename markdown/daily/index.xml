@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-14T01:36:51Z</updated>
+  <updated>2022-12-15T01:34:39Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Inbox-Design/bridge-status</title>
+    <updated>2022-12-15T01:34:39Z</updated>
+    <id>tag:github.com,2022-12-15:/Inbox-Design/bridge-status</id>
+    <link href="https://github.com/Inbox-Design/bridge-status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Inbox-Design, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sena-design-studio/uptime</title>
+    <updated>2022-12-15T01:34:39Z</updated>
+    <id>tag:github.com,2022-12-15:/sena-design-studio/uptime</id>
+    <link href="https://github.com/sena-design-studio/uptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uptime Check&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Fonant/upptime</title>
+    <updated>2022-12-15T01:34:39Z</updated>
+    <id>tag:github.com,2022-12-15:/Fonant/upptime</id>
+    <link href="https://github.com/Fonant/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uptime monitoring for Fonant internet services.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

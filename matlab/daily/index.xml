@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-14T01:36:56Z</updated>
+  <updated>2022-12-15T01:34:40Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>balicea/collective-properties-cellular-identity</title>
-    <updated>2022-12-14T01:36:56Z</updated>
-    <id>tag:github.com,2022-12-14:/balicea/collective-properties-cellular-identity</id>
-    <link href="https://github.com/balicea/collective-properties-cellular-identity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MATLAB code from &#34;Collective Properties of Cellular Identity&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>martin-ueding/format-value-error</title>
+    <updated>2022-12-15T01:34:40Z</updated>
+    <id>tag:github.com,2022-12-15:/martin-ueding/format-value-error</id>
+    <link href="https://github.com/martin-ueding/format-value-error" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
