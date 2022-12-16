@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:37:14Z</updated>
+  <updated>2022-12-16T01:36:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>coinspect/learn-evm-attacks</title>
-    <updated>2022-12-15T01:37:14Z</updated>
-    <id>tag:github.com,2022-12-15:/coinspect/learn-evm-attacks</id>
-    <link href="https://github.com/coinspect/learn-evm-attacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn &amp; Contribute on previously exploited vulnerabilities across several EVM projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2022-12-forgeries</title>
+    <updated>2022-12-16T01:36:35Z</updated>
+    <id>tag:github.com,2022-12-16:/code-423n4/2022-12-forgeries</id>
+    <link href="https://github.com/code-423n4/2022-12-forgeries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2022-12-caviar</title>
-    <updated>2022-12-15T01:37:14Z</updated>
-    <id>tag:github.com,2022-12-15:/code-423n4/2022-12-caviar</id>
-    <link href="https://github.com/code-423n4/2022-12-caviar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>udacity/FlightSurety</title>
+    <updated>2022-12-16T01:36:35Z</updated>
+    <id>tag:github.com,2022-12-16:/udacity/FlightSurety</id>
+    <link href="https://github.com/udacity/FlightSurety" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Udacity Blockchain Nanodegree Course 6 &#34;Flight Surety&#34; Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:36:38Z</updated>
+  <updated>2022-12-16T01:36:00Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>svenstaro/miniserve</title>
-    <updated>2022-12-15T01:36:38Z</updated>
-    <id>tag:github.com,2022-12-15:/svenstaro/miniserve</id>
-    <link href="https://github.com/svenstaro/miniserve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌟 For when you really just want to serve some files over HTTP right now!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>prisma/prisma-engines</title>
-    <updated>2022-12-15T01:36:38Z</updated>
-    <id>tag:github.com,2022-12-15:/prisma/prisma-engines</id>
-    <link href="https://github.com/prisma/prisma-engines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚂 Engine components of Prisma ORM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RedisJSON/RedisJSON</title>
-    <updated>2022-12-15T01:36:38Z</updated>
-    <id>tag:github.com,2022-12-15:/RedisJSON/RedisJSON</id>
-    <link href="https://github.com/RedisJSON/RedisJSON" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RedisJSON - a JSON data type for Redis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rapiz1/rathole</title>
+    <updated>2022-12-16T01:36:00Z</updated>
+    <id>tag:github.com,2022-12-16:/rapiz1/rathole</id>
+    <link href="https://github.com/rapiz1/rathole" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

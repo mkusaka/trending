@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:37:12Z</updated>
+  <updated>2022-12-16T01:36:31Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>manojthemiracle/poc</title>
-    <updated>2022-12-15T01:37:12Z</updated>
-    <id>tag:github.com,2022-12-15:/manojthemiracle/poc</id>
-    <link href="https://github.com/manojthemiracle/poc" rel="alternate"></link>
+    <title>teutonet/teutonet-helm-charts</title>
+    <updated>2022-12-16T01:36:31Z</updated>
+    <id>tag:github.com,2022-12-16:/teutonet/teutonet-helm-charts</id>
+    <link href="https://github.com/teutonet/teutonet-helm-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cloudnative-pg/charts</title>
-    <updated>2022-12-15T01:37:12Z</updated>
-    <id>tag:github.com,2022-12-15:/cloudnative-pg/charts</id>
-    <link href="https://github.com/cloudnative-pg/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CloudNativePG Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

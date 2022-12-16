@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:29:44Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-12-16T01:29:20Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OfficeDev/Microsoft-Teams-Samples</title>
-    <updated>2022-12-15T01:29:44Z</updated>
-    <id>tag:github.com,2022-12-15:/OfficeDev/Microsoft-Teams-Samples</id>
-    <link href="https://github.com/OfficeDev/Microsoft-Teams-Samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jacksight/xina520_official_jailbreak</title>
+    <updated>2022-12-16T01:29:20Z</updated>
+    <id>tag:github.com,2022-12-16:/jacksight/xina520_official_jailbreak</id>
+    <link href="https://github.com/jacksight/xina520_official_jailbreak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the official download website for xina520&#39;s jailbreak (temporary)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>VSFe/Tech-Interview</title>
-    <updated>2022-12-15T01:29:44Z</updated>
-    <id>tag:github.com,2022-12-15:/VSFe/Tech-Interview</id>
-    <link href="https://github.com/VSFe/Tech-Interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Samsar4/Ethical-Hacking-Labs</title>
+    <updated>2022-12-16T01:29:20Z</updated>
+    <id>tag:github.com,2022-12-16:/Samsar4/Ethical-Hacking-Labs</id>
+    <link href="https://github.com/Samsar4/Ethical-Hacking-Labs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Practical Ethical Hacking Labs 🗡🛡&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PlexPt/awesome-chatgpt-prompts-zh</title>
-    <updated>2022-12-15T01:29:44Z</updated>
-    <id>tag:github.com,2022-12-15:/PlexPt/awesome-chatgpt-prompts-zh</id>
-    <link href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT 中文调教指南。怎么让它听你的话。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript</title>
+    <updated>2022-12-16T01:29:20Z</updated>
+    <id>tag:github.com,2022-12-16:/Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript</id>
+    <link href="https://github.com/Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;In this repository I have provided all the cheatsheets which I have shared on my Twitter account. So if you find these cheatsheets useful you can download and share them with other people.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

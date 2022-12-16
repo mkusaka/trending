@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:32:21Z</updated>
+  <updated>2022-12-16T01:31:36Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>acbbullock/IO-Fortran-Library</title>
-    <updated>2022-12-15T01:32:21Z</updated>
-    <id>tag:github.com,2022-12-15:/acbbullock/IO-Fortran-Library</id>
-    <link href="https://github.com/acbbullock/IO-Fortran-Library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A portable, standard IO library for Modern Fortran&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

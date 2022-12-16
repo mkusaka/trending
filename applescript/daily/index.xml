@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:30:14Z</updated>
+  <updated>2022-12-16T01:29:41Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>morgant/wopr</title>
-    <updated>2022-12-15T01:30:14Z</updated>
-    <id>tag:github.com,2022-12-15:/morgant/wopr</id>
-    <link href="https://github.com/morgant/wopr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WOrkspace PReparation scripts.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WOPR: WOrkspace PReparation scripts&lt;/h1&gt; &#xA;&lt;p&gt;by Morgan Aldridge &lt;a href=&#34;mailto:morgant@makkintosshu.com&#34;&gt;morgant@makkintosshu.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;OVERVIEW&lt;/h2&gt; &#xA;&lt;p&gt;A couple of preparation scripts (primarily AppleScript, but taking advantage of a few of my other tools as well) I use to automatically set up my apps &amp;amp; workspaces under Mac OS X. It&#39;s a personal productivity thing and very specific to my setup, but maybe it&#39;ll be useful to others purely as inspiration.&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;Yes, it&#39;s a rip-off of &#39;W.O.P.R.&#39; from the War Games movie.&lt;/em&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

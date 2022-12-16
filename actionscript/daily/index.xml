@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:30:10Z</updated>
+  <updated>2022-12-16T01:29:38Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>umbrahan/CustomPlayer</title>
-    <updated>2022-12-15T01:30:10Z</updated>
-    <id>tag:github.com,2022-12-15:/umbrahan/CustomPlayer</id>
-    <link href="https://github.com/umbrahan/CustomPlayer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;fromflow&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

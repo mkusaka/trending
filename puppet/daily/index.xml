@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:35:46Z</updated>
+  <updated>2022-12-16T01:35:12Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PerilousApricot/ttu-mediawiki-puppet</title>
-    <updated>2022-12-15T01:35:46Z</updated>
-    <id>tag:github.com,2022-12-15:/PerilousApricot/ttu-mediawiki-puppet</id>
-    <link href="https://github.com/PerilousApricot/ttu-mediawiki-puppet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Playing with puppet, rolling servers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

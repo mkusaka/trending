@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:31:25Z</updated>
+  <updated>2022-12-16T01:30:40Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>VITA-Group/NeuralLift-360</title>
-    <updated>2022-12-15T01:31:25Z</updated>
-    <id>tag:github.com,2022-12-15:/VITA-Group/NeuralLift-360</id>
-    <link href="https://github.com/VITA-Group/NeuralLift-360" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#34;NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views&#34;, Dejia Xu, Yifan Jiang, Peihao Wang, Zhiwen Fan, Yi Wang, Zhangyang Wang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

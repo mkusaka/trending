@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:35:06Z</updated>
+  <updated>2022-12-16T01:34:23Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>o1-labs/snarky</title>
-    <updated>2022-12-15T01:35:06Z</updated>
-    <id>tag:github.com,2022-12-15:/o1-labs/snarky</id>
-    <link href="https://github.com/o1-labs/snarky" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OCaml DSL for verifiable computation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>skolemlabs/ppx_expjs</title>
-    <updated>2022-12-15T01:35:06Z</updated>
-    <id>tag:github.com,2022-12-15:/skolemlabs/ppx_expjs</id>
-    <link href="https://github.com/skolemlabs/ppx_expjs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A PPX for exporting OCaml values to Javascript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocaml-multicore/lockfree</title>
-    <updated>2022-12-15T01:35:06Z</updated>
-    <id>tag:github.com,2022-12-15:/ocaml-multicore/lockfree</id>
-    <link href="https://github.com/ocaml-multicore/lockfree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lock-free data structures for multicore OCaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

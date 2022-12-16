@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:34:02Z</updated>
+  <updated>2022-12-16T01:33:15Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/SciMLWorkshop.jl</title>
-    <updated>2022-12-15T01:34:02Z</updated>
-    <id>tag:github.com,2022-12-15:/SciML/SciMLWorkshop.jl</id>
-    <link href="https://github.com/SciML/SciMLWorkshop.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Workshop materials for training in scientific computing and scientific machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSmoothOptimizers/PartitionedVectors.jl</title>
+    <updated>2022-12-16T01:33:15Z</updated>
+    <id>tag:github.com,2022-12-16:/JuliaSmoothOptimizers/PartitionedVectors.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/PartitionedVectors.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sunoru/Webviews.jl</title>
-    <updated>2022-12-15T01:34:02Z</updated>
-    <id>tag:github.com,2022-12-15:/sunoru/Webviews.jl</id>
-    <link href="https://github.com/sunoru/Webviews.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌐 Julia implementation of webview, a tiny library for creating web-based desktop GUIs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaSmoothOptimizers/PartiallySeparableNLPModels.jl</title>
+    <updated>2022-12-16T01:33:15Z</updated>
+    <id>tag:github.com,2022-12-16:/JuliaSmoothOptimizers/PartiallySeparableNLPModels.jl</id>
+    <link href="https://github.com/JuliaSmoothOptimizers/PartiallySeparableNLPModels.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A three-way bridge between ExpressionTreeForge.jl, PartitionedStructures.jl and PartiallySeparableSolvers.jl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>halleysfifthinc/Peaks.jl</title>
+    <updated>2022-12-16T01:33:15Z</updated>
+    <id>tag:github.com,2022-12-16:/halleysfifthinc/Peaks.jl</id>
+    <link href="https://github.com/halleysfifthinc/Peaks.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Find peaks (local extrema) of signals&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

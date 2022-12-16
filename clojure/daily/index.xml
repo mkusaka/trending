@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-15T01:31:12Z</updated>
+  <updated>2022-12-16T01:30:26Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jennifersmith/overtone-seq</title>
-    <updated>2022-12-15T01:31:12Z</updated>
-    <id>tag:github.com,2022-12-15:/jennifersmith/overtone-seq</id>
-    <link href="https://github.com/jennifersmith/overtone-seq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Baroquey-sequency thing for overtone . definitely WIP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>quoll/raphael</title>
+    <updated>2022-12-16T01:30:26Z</updated>
+    <id>tag:github.com,2022-12-16:/quoll/raphael</id>
+    <link href="https://github.com/quoll/raphael" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parser in a half shell&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ohpauleez/pdxfunc_talk_dec2012</title>
+    <updated>2022-12-16T01:30:26Z</updated>
+    <id>tag:github.com,2022-12-16:/ohpauleez/pdxfunc_talk_dec2012</id>
+    <link href="https://github.com/ohpauleez/pdxfunc_talk_dec2012" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A short talk on Clojure data structures and Reducers - pdxfunc dec 2012&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
