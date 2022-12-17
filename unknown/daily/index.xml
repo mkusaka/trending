@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-16T01:29:20Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-12-17T01:29:41Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jacksight/xina520_official_jailbreak</title>
-    <updated>2022-12-16T01:29:20Z</updated>
-    <id>tag:github.com,2022-12-16:/jacksight/xina520_official_jailbreak</id>
-    <link href="https://github.com/jacksight/xina520_official_jailbreak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the official download website for xina520&#39;s jailbreak (temporary)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ossu/bioinformatics</title>
+    <updated>2022-12-17T01:29:41Z</updated>
+    <id>tag:github.com,2022-12-17:/ossu/bioinformatics</id>
+    <link href="https://github.com/ossu/bioinformatics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔬 Path to a free self-taught education in Bioinformatics!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Samsar4/Ethical-Hacking-Labs</title>
-    <updated>2022-12-16T01:29:20Z</updated>
-    <id>tag:github.com,2022-12-16:/Samsar4/Ethical-Hacking-Labs</id>
-    <link href="https://github.com/Samsar4/Ethical-Hacking-Labs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Practical Ethical Hacking Labs 🗡🛡&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nostr-protocol/nostr</title>
+    <updated>2022-12-17T01:29:41Z</updated>
+    <id>tag:github.com,2022-12-17:/nostr-protocol/nostr</id>
+    <link href="https://github.com/nostr-protocol/nostr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a truly censorship-resistant alternative to Twitter that has a chance of working&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript</title>
-    <updated>2022-12-16T01:29:20Z</updated>
-    <id>tag:github.com,2022-12-16:/Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript</id>
-    <link href="https://github.com/Pradeep-Pandey13/CheatSheets-HTML-CSS-JavaScript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In this repository I have provided all the cheatsheets which I have shared on my Twitter account. So if you find these cheatsheets useful you can download and share them with other people.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dair-ai/ml-visuals</title>
+    <updated>2022-12-17T01:29:41Z</updated>
+    <id>tag:github.com,2022-12-17:/dair-ai/ml-visuals</id>
+    <link href="https://github.com/dair-ai/ml-visuals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

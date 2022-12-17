@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-16T01:37:27Z</updated>
+  <updated>2022-12-17T01:41:32Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JhumanJ/OpnForm</title>
+    <updated>2022-12-17T01:41:32Z</updated>
+    <id>tag:github.com,2022-12-17:/JhumanJ/OpnForm</id>
+    <link href="https://github.com/JhumanJ/OpnForm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple and open-source form builder&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xy-sea/web-see-demo</title>
+    <updated>2022-12-17T01:41:32Z</updated>
+    <id>tag:github.com,2022-12-17:/xy-sea/web-see-demo</id>
+    <link href="https://github.com/xy-sea/web-see-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;web-see监控后台demo，主要用来演示错误还原功能，方式包括：定位源码、播放录屏、记录用户行为&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Stapxs/Stapxs-QQ-Lite-2.0</title>
+    <updated>2022-12-17T01:41:32Z</updated>
+    <id>tag:github.com,2022-12-17:/Stapxs/Stapxs-QQ-Lite-2.0</id>
+    <link href="https://github.com/Stapxs/Stapxs-QQ-Lite-2.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个兼容 oicq-http 的非官方网页版 QQ 客户端，使用 Vue 重制的全新版本。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

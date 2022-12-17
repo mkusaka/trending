@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-16T01:36:03Z</updated>
+  <updated>2022-12-17T01:38:58Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rmendis/popidol-lift</title>
+    <updated>2022-12-17T01:38:58Z</updated>
+    <id>tag:github.com,2022-12-17:/rmendis/popidol-lift</id>
+    <link href="https://github.com/rmendis/popidol-lift" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lift version of the PopIdol app&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a Lift version of the PopIdol app from Chapter 17 of &#34;WebObjects Developer&#39;s Guide&#34; by Ravi Mendis. i.e me :) NOTE: one difference is the use of embedded SVG in HTML5 which can be handled by most modern browsers.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Launch &lt;a href=&#34;http://code.google.com/p/simple-build-tool&#34;&gt;SBT&lt;/a&gt;.&lt;/p&gt; &lt;pre&gt;&lt;code&gt; ./sbt&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Run Jetty&lt;/p&gt; &lt;pre&gt;&lt;code&gt; container:start&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Go to &lt;a href=&#34;http://localhost:8080/&#34;&gt;http://localhost:8080/&lt;/a&gt;.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

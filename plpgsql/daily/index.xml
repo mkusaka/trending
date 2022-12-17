@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-16T01:34:52Z</updated>
+  <updated>2022-12-17T01:37:29Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ONSdigital/ssdc-rm-ddl</title>
-    <updated>2022-12-16T01:34:52Z</updated>
-    <id>tag:github.com,2022-12-16:/ONSdigital/ssdc-rm-ddl</id>
-    <link href="https://github.com/ONSdigital/ssdc-rm-ddl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chimpler/postgres-aws-s3</title>
-    <updated>2022-12-16T01:34:52Z</updated>
-    <id>tag:github.com,2022-12-16:/chimpler/postgres-aws-s3</id>
-    <link href="https://github.com/chimpler/postgres-aws-s3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;aws_s3 postgres extension to import/export data from/to s3 (compatible with aws_s3 extension on AWS RDS)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

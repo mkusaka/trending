@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-16T01:37:00Z</updated>
+  <updated>2022-12-17T01:40:46Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hurryman2212/usernet_ivshmem</title>
-    <updated>2022-12-16T01:37:00Z</updated>
-    <id>tag:github.com,2022-12-16:/hurryman2212/usernet_ivshmem</id>
-    <link href="https://github.com/hurryman2212/usernet_ivshmem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IVSHMEM driver for USERNET&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;usernet_ivshmem&lt;/h1&gt; &#xA;&lt;p&gt;IVSHMEM driver for USERNET&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jfcrenshaw/pzflow-paper</title>
-    <updated>2022-12-16T01:37:00Z</updated>
-    <id>tag:github.com,2022-12-16:/jfcrenshaw/pzflow-paper</id>
-    <link href="https://github.com/jfcrenshaw/pzflow-paper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Journal article for PZFlow&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;a href=&#34;https://github.com/jfcrenshaw/pzflow-paper/actions/workflows/build.yml&#34;&gt; &lt;img src=&#34;https://github.com/jfcrenshaw/pzflow-paper/actions/workflows/build.yml/badge.svg?sanitize=true&#34; alt=&#34;Article status&#34;&gt; &lt;/a&gt; &#xA; &lt;a href=&#34;https://github.com/jfcrenshaw/pzflow-paper/raw/main-pdf/arxiv.tar.gz&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/article-tarball-blue.svg?style=flat&#34; alt=&#34;Article tarball&#34;&gt; &lt;/a&gt; &#xA; &lt;a href=&#34;https://github.com/jfcrenshaw/pzflow-paper/raw/main-pdf/ms.pdf&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/article-pdf-blue.svg?style=flat&#34; alt=&#34;Read the article&#34;&gt; &lt;/a&gt; &#xA;&lt;/div&gt; &#xA;&lt;p&gt;Journal article for &lt;a href=&#34;https://jfcrenshaw.github.io/pzflow/&#34;&gt;PZFlow&lt;/a&gt; created using the &lt;a href=&#34;https://github.com/showyourwork/showyourwork&#34;&gt;showyourwork&lt;/a&gt; workflow.&lt;/p&gt; &#xA;&lt;p&gt;To build the article:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;install &lt;a href=&#34;https://github.com/showyourwork/showyourwork&#34;&gt;showyourwork&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;run &lt;code&gt;showyourwork&lt;/code&gt; from the base of the repo.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

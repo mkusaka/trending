@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-16T01:31:58Z</updated>
+  <updated>2022-12-17T01:33:06Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>doktorkelly/de.rio.grails03</title>
-    <updated>2022-12-16T01:31:58Z</updated>
-    <id>tag:github.com,2022-12-16:/doktorkelly/de.rio.grails03</id>
-    <link href="https://github.com/doktorkelly/de.rio.grails03" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;grails course application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dewarim/cinnamon2-humulus</title>
+    <updated>2022-12-17T01:33:06Z</updated>
+    <id>tag:github.com,2022-12-17:/dewarim/cinnamon2-humulus</id>
+    <link href="https://github.com/dewarim/cinnamon2-humulus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Humulus is an essential Grails plugin for Dandelion, the Cinnamon2 administration tool.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bluegroundltd/transactional-outbox</title>
-    <updated>2022-12-16T01:31:58Z</updated>
-    <id>tag:github.com,2022-12-16:/bluegroundltd/transactional-outbox</id>
-    <link href="https://github.com/bluegroundltd/transactional-outbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Outbox pattern library implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AlbanAndrieu/nabla-servers-bower-sample</title>
+    <updated>2022-12-17T01:33:06Z</updated>
+    <id>tag:github.com,2022-12-17:/AlbanAndrieu/nabla-servers-bower-sample</id>
+    <link href="https://github.com/AlbanAndrieu/nabla-servers-bower-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sample project using bower components and angular&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

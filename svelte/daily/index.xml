@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-16T01:36:42Z</updated>
+  <updated>2022-12-17T01:39:59Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rilldata/rill-developer</title>
-    <updated>2022-12-16T01:36:42Z</updated>
-    <id>tag:github.com,2022-12-16:/rilldata/rill-developer</id>
-    <link href="https://github.com/rilldata/rill-developer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a tool that makes it effortless to transform and explore your datasets with SQL, powered by DuckDB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bits-by-brandon/whisper-ui</title>
-    <updated>2022-12-16T01:36:42Z</updated>
-    <id>tag:github.com,2022-12-16:/bits-by-brandon/whisper-ui</id>
-    <link href="https://github.com/bits-by-brandon/whisper-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GUI interface for Open AI Whisper based on Tauri and Sveltekit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nextauthjs/sveltekit-auth-example</title>
+    <updated>2022-12-17T01:39:59Z</updated>
+    <id>tag:github.com,2022-12-17:/nextauthjs/sveltekit-auth-example</id>
+    <link href="https://github.com/nextauthjs/sveltekit-auth-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example showing how to use Auth.js with SvelteKit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

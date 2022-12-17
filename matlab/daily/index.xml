@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-16T01:33:54Z</updated>
+  <updated>2022-12-17T01:35:57Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>emthm/CHOICE</title>
-    <updated>2022-12-16T01:33:54Z</updated>
-    <id>tag:github.com,2022-12-16:/emthm/CHOICE</id>
-    <link href="https://github.com/emthm/CHOICE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An aircraft noise prediction framework based on empirical and semi-empirical methods found in public literature. The code is able to predict the noise at the source (aircraft) and at the certification points on the ground (so far for 2D propagation only).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
