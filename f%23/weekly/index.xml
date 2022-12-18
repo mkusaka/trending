@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F# Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-18T01:44:23Z</updated>
+  <subtitle>Weekly Trending of F# in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dungpa/algorithms1</title>
+    <updated>2022-12-18T01:44:23Z</updated>
+    <id>tag:github.com,2022-12-18:/dungpa/algorithms1</id>
+    <link href="https://github.com/dungpa/algorithms1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coursera&#39;s Algorithms Design and Analysis I: slides and F# source code&lt;/p&gt;&lt;hr&gt;&lt;p&gt;The slides and assignments for Algorithms Design and Analysis I on Coursera.&lt;/p&gt; &#xA;&lt;p&gt;Each assignment consists of the main algorithm, test scripts and test cases written in FSUnit and xUnit. A few input files are dropped because their sizes are too big.&lt;/p&gt;</summary>
+  </entry>
+</feed>

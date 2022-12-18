@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:41:26Z</updated>
+  <updated>2022-12-18T01:40:52Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sharovatov/teamlead</title>
-    <updated>2022-12-17T01:41:26Z</updated>
-    <id>tag:github.com,2022-12-17:/sharovatov/teamlead</id>
-    <link href="https://github.com/sharovatov/teamlead" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pragmatic humanist&#39;s thoughts on sociotechnical systems.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Jintian/vim-logfile</title>
-    <updated>2022-12-17T01:41:26Z</updated>
-    <id>tag:github.com,2022-12-17:/Jintian/vim-logfile</id>
-    <link href="https://github.com/Jintian/vim-logfile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Syntax highlighting support for logfile created by log4j.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

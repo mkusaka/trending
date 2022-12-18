@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:38:55Z</updated>
+  <updated>2022-12-18T01:38:15Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>m1guelpf/plz-cli</title>
-    <updated>2022-12-17T01:38:55Z</updated>
-    <id>tag:github.com,2022-12-17:/m1guelpf/plz-cli</id>
-    <link href="https://github.com/m1guelpf/plz-cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Copilot for your terminal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jpochyla/psst</title>
+    <updated>2022-12-18T01:38:15Z</updated>
+    <id>tag:github.com,2022-12-18:/jpochyla/psst</id>
+    <link href="https://github.com/jpochyla/psst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast and multi-platform Spotify client with native GUI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>blu-dev/arena-latency-slider</title>
-    <updated>2022-12-17T01:38:55Z</updated>
-    <id>tag:github.com,2022-12-17:/blu-dev/arena-latency-slider</id>
-    <link href="https://github.com/blu-dev/arena-latency-slider" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>google/evcxr</title>
-    <updated>2022-12-17T01:38:55Z</updated>
-    <id>tag:github.com,2022-12-17:/google/evcxr</id>
-    <link href="https://github.com/google/evcxr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>supabase/wrappers</title>
+    <updated>2022-12-18T01:38:15Z</updated>
+    <id>tag:github.com,2022-12-18:/supabase/wrappers</id>
+    <link href="https://github.com/supabase/wrappers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Postgres Foreign Data Wrapper development framework in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

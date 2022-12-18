@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-18T01:48:33Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>warewolf/netwitness</title>
+    <updated>2022-12-18T01:48:33Z</updated>
+    <id>tag:github.com,2022-12-18:/warewolf/netwitness</id>
+    <link href="https://github.com/warewolf/netwitness" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>htgt/LIMS2-Scripts</title>
+    <updated>2022-12-18T01:48:33Z</updated>
+    <id>tag:github.com,2022-12-18:/htgt/LIMS2-Scripts</id>
+    <link href="https://github.com/htgt/LIMS2-Scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Put your lims2 scripts in here&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>exoscale/megaraid-collectd</title>
+    <updated>2022-12-18T01:48:33Z</updated>
+    <id>tag:github.com,2022-12-18:/exoscale/megaraid-collectd</id>
+    <link href="https://github.com/exoscale/megaraid-collectd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;collectd exec module to watch over megaraid status&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;megaraid-collectd&lt;/h1&gt; &#xA;&lt;p&gt;Braindead script to watch megaraid status. This script makes three assumptions:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;the megaclisas-status command is available&lt;/li&gt; &#xA; &lt;li&gt;the sudo command is available&lt;/li&gt; &#xA; &lt;li&gt;the user under which you will run it has sudo access to megaclisas-status&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Slap this in your collectd config:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Loadplugin exec&#xA;&#xA;&amp;lt;Plugin exec&amp;gt;&#xA;  Exec &#34;user:group&#34; &#34;/path/to/megaraid-collectd.pl&#34;&#xA;&amp;lt;/Plugin&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+</feed>

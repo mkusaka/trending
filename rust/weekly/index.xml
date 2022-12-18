@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-18T01:49:56Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sonnylazuardi/chatgpt-desktop</title>
+    <updated>2022-12-18T01:49:56Z</updated>
+    <id>tag:github.com,2022-12-18:/sonnylazuardi/chatgpt-desktop</id>
+    <link href="https://github.com/sonnylazuardi/chatgpt-desktop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenAI ChatGPT desktop app for Mac, Windows, &amp; Linux menubar using Tauri &amp; Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>paradigmxyz/reth</title>
+    <updated>2022-12-18T01:49:56Z</updated>
+    <id>tag:github.com,2022-12-18:/paradigmxyz/reth</id>
+    <link href="https://github.com/paradigmxyz/reth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rust-lang/cargo</title>
+    <updated>2022-12-18T01:49:56Z</updated>
+    <id>tag:github.com,2022-12-18:/rust-lang/cargo</id>
+    <link href="https://github.com/rust-lang/cargo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rust package manager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:33:24Z</updated>
+  <updated>2022-12-18T01:33:09Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudposse/terraform-aws-lambda-function</title>
-    <updated>2022-12-17T01:33:24Z</updated>
-    <id>tag:github.com,2022-12-17:/cloudposse/terraform-aws-lambda-function</id>
-    <link href="https://github.com/cloudposse/terraform-aws-lambda-function" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A module for launching Lambda Fuctions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>azeezsalu/terraform-project-reference</title>
-    <updated>2022-12-17T01:33:24Z</updated>
-    <id>tag:github.com,2022-12-17:/azeezsalu/terraform-project-reference</id>
-    <link href="https://github.com/azeezsalu/terraform-project-reference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ajitinamdar-tech/three-tier-arch-aws-terraform</title>
+    <updated>2022-12-18T01:33:09Z</updated>
+    <id>tag:github.com,2022-12-18:/ajitinamdar-tech/three-tier-arch-aws-terraform</id>
+    <link href="https://github.com/ajitinamdar-tech/three-tier-arch-aws-terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provision three tier architecture on AWS using Terraform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

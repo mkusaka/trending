@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:40:46Z</updated>
+  <updated>2022-12-18T01:40:14Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>err53/oscs</title>
+    <updated>2022-12-18T01:40:14Z</updated>
+    <id>tag:github.com,2022-12-18:/err53/oscs</id>
+    <link href="https://github.com/err53/oscs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Cheat Sheets for some of McMaster CS&#39;s courses&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Open Source Cheat Sheets&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://err53.github.io/oscs/&#34;&gt;Check out the online preview here!&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Become a contributor&lt;/h2&gt; &#xA;&lt;p&gt;Either open a pull request with the changes you want, open an issue asking to become a contributor, or drop a message in the OSCS thread in the Mac CS 2025 Discord.&lt;/p&gt; &#xA;&lt;h2&gt;Local Setup (Recommended)&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Install VS Code&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.latex-project.org/get/&#34;&gt;Install LaTeX Locally&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop&#34;&gt;Install LaTeX Workshop&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Overleaf Setup&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Become a contributor (see above)&lt;/li&gt; &#xA; &lt;li&gt;Create a new project in Overleaf, and pick &#34;Import from GitHub&#34;&lt;/li&gt; &#xA; &lt;li&gt;When you want to push/pull changes, use the Overleaf menu and select GitHub, under Sync. &lt;br&gt; (I have no idea how well Overleaf handles merge conflicts, which is why I recommend using the local setup above.)&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;DISCLAIMER: ONLY USE THIS AS A REFERENCE FOR YOUR ACTUAL CHEAT SHEETS. CHECK WITH YOUR PROF IF YOU ARE ALLOWED TO USE OTHER PEOPLE&#39;S CHEAT SHEET. I AM NOT RESPONSIBLE IF YOU GET HIT WITH AD.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>paulgp/beamer-tips</title>
+    <updated>2022-12-18T01:40:14Z</updated>
+    <id>tag:github.com,2022-12-18:/paulgp/beamer-tips</id>
+    <link href="https://github.com/paulgp/beamer-tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LIKS/course_work_template_vu_mif_se</title>
+    <updated>2022-12-18T01:40:14Z</updated>
+    <id>tag:github.com,2022-12-18:/LIKS/course_work_template_vu_mif_se</id>
+    <link href="https://github.com/LIKS/course_work_template_vu_mif_se" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VU MIF SE course work LaTeX template.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:31:14Z</updated>
+  <updated>2022-12-18T01:30:59Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nextjournal/clerk-cljs-demo</title>
-    <updated>2022-12-17T01:31:14Z</updated>
-    <id>tag:github.com,2022-12-17:/nextjournal/clerk-cljs-demo</id>
-    <link href="https://github.com/nextjournal/clerk-cljs-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A demo Project showing a custom CLJS build for CLerk&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kennytilton/flutter-mx</title>
-    <updated>2022-12-17T01:31:14Z</updated>
-    <id>tag:github.com,2022-12-17:/kennytilton/flutter-mx</id>
-    <link href="https://github.com/kennytilton/flutter-mx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter + ClojureDart, with Matrix Inside(tm)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:35:37Z</updated>
+  <updated>2022-12-18T01:34:53Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PoomSmart/YTUnShorts</title>
+    <updated>2022-12-18T01:34:53Z</updated>
+    <id>tag:github.com,2022-12-18:/PoomSmart/YTUnShorts</id>
+    <link href="https://github.com/PoomSmart/YTUnShorts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Remove Shorts from YouTube app&#39;s feed.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

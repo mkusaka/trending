@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-18T01:43:09Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MindTwister/radial.coffee</title>
+    <updated>2022-12-18T01:43:09Z</updated>
+    <id>tag:github.com,2022-12-18:/MindTwister/radial.coffee</id>
+    <link href="https://github.com/MindTwister/radial.coffee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A radial menu written in coffeescript using Raphael.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>basecamp/local_time</title>
+    <updated>2022-12-18T01:43:09Z</updated>
+    <id>tag:github.com,2022-12-18:/basecamp/local_time</id>
+    <link href="https://github.com/basecamp/local_time" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rails engine for cache-friendly, client-side local time&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alanzoppa/gburg</title>
+    <updated>2022-12-18T01:43:09Z</updated>
+    <id>tag:github.com,2022-12-18:/alanzoppa/gburg</id>
+    <link href="https://github.com/alanzoppa/gburg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple recursive line cutter for a coding workshop with Robert Martin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

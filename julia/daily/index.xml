@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:35:05Z</updated>
+  <updated>2022-12-18T01:34:10Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JuliaIO/MAT.jl</title>
-    <updated>2022-12-17T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-17:/JuliaIO/MAT.jl</id>
-    <link href="https://github.com/JuliaIO/MAT.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia module for reading MATLAB files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Ferrite-FEM/FerriteViz.jl</title>
-    <updated>2022-12-17T01:35:05Z</updated>
-    <id>tag:github.com,2022-12-17:/Ferrite-FEM/FerriteViz.jl</id>
-    <link href="https://github.com/Ferrite-FEM/FerriteViz.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plot your Ferrite.jl data&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

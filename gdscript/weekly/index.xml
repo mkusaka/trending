@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-18T01:44:33Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ark2000/PankuConsole</title>
+    <updated>2022-12-18T01:44:33Z</updated>
+    <id>tag:github.com,2022-12-18:/Ark2000/PankuConsole</id>
+    <link href="https://github.com/Ark2000/PankuConsole" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot 4 Plugin. Provide a runtime REPL console so your can run any script expression in your game!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

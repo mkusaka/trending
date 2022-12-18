@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-18T01:50:52Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rilldata/rill-developer</title>
+    <updated>2022-12-18T01:50:52Z</updated>
+    <id>tag:github.com,2022-12-18:/rilldata/rill-developer</id>
+    <link href="https://github.com/rilldata/rill-developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a tool that makes it effortless to transform and explore your datasets with SQL, powered by DuckDB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Project-Sloth/ps-multijob</title>
+    <updated>2022-12-18T01:50:52Z</updated>
+    <id>tag:github.com,2022-12-18:/Project-Sloth/ps-multijob</id>
+    <link href="https://github.com/Project-Sloth/ps-multijob" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A script designed with a sleek and modern design for being able to display your current jobs as well as switching between them.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kbrgl/svelte-french-toast</title>
+    <updated>2022-12-18T01:50:52Z</updated>
+    <id>tag:github.com,2022-12-18:/kbrgl/svelte-french-toast</id>
+    <link href="https://github.com/kbrgl/svelte-french-toast" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍞🥂 Buttery smooth toast notifications for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

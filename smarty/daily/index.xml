@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:39:45Z</updated>
+  <updated>2022-12-18T01:39:13Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hashicorp/waypoint-helm</title>
-    <updated>2022-12-17T01:39:45Z</updated>
-    <id>tag:github.com,2022-12-17:/hashicorp/waypoint-helm</id>
-    <link href="https://github.com/hashicorp/waypoint-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart to install Waypoint and other associated components.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tchapgouv/tchap-helm-charts</title>
-    <updated>2022-12-17T01:39:45Z</updated>
-    <id>tag:github.com,2022-12-17:/tchapgouv/tchap-helm-charts</id>
-    <link href="https://github.com/tchapgouv/tchap-helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts and k8s manifests for tchap&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

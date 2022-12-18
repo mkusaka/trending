@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:36:13Z</updated>
+  <updated>2022-12-18T01:35:31Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>winterqt/darwin-build-box</title>
-    <updated>2022-12-17T01:36:13Z</updated>
-    <id>tag:github.com,2022-12-17:/winterqt/darwin-build-box</id>
-    <link href="https://github.com/winterqt/darwin-build-box" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Darwin build box for Nix community members&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kadena-io/kpkgs</title>
+    <updated>2022-12-18T01:35:31Z</updated>
+    <id>tag:github.com,2022-12-18:/kadena-io/kpkgs</id>
+    <link href="https://github.com/kadena-io/kpkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

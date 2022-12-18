@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:40:41Z</updated>
+  <updated>2022-12-18T01:40:10Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>texmacs/texmacs</title>
+    <updated>2022-12-18T01:40:10Z</updated>
+    <id>tag:github.com,2022-12-18:/texmacs/texmacs</id>
+    <link href="https://github.com/texmacs/texmacs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source Code of GNU TeXmacs, Developers Guide ==&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

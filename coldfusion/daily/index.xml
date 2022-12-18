@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:31:18Z</updated>
+  <updated>2022-12-18T01:31:03Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>michaelsharman/Version-Info</title>
-    <updated>2022-12-17T01:31:18Z</updated>
-    <id>tag:github.com,2022-12-17:/michaelsharman/Version-Info</id>
-    <link href="https://github.com/michaelsharman/Version-Info" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ColdFusion CFC used to create an HTML comment to display in the source code of a website, indicating what build/version the site is currently running.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

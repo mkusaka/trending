@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-18T01:43:03Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eamonnsullivan/backup-scripts</title>
+    <updated>2022-12-18T01:43:03Z</updated>
+    <id>tag:github.com,2022-12-18:/eamonnsullivan/backup-scripts</id>
+    <link href="https://github.com/eamonnsullivan/backup-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The various scripts I use to back up my home computers using ssh and rsync&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>technomancy/leiningen</title>
+    <updated>2022-12-18T01:43:03Z</updated>
+    <id>tag:github.com,2022-12-18:/technomancy/leiningen</id>
+    <link href="https://github.com/technomancy/leiningen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Moved to Codeberg; this is a convenience mirror&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

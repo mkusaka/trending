@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:39:59Z</updated>
+  <updated>2022-12-18T01:39:30Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nextauthjs/sveltekit-auth-example</title>
-    <updated>2022-12-17T01:39:59Z</updated>
-    <id>tag:github.com,2022-12-17:/nextauthjs/sveltekit-auth-example</id>
-    <link href="https://github.com/nextauthjs/sveltekit-auth-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example showing how to use Auth.js with SvelteKit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iondodon/manter</title>
+    <updated>2022-12-18T01:39:30Z</updated>
+    <id>tag:github.com,2022-12-18:/iondodon/manter</id>
+    <link href="https://github.com/iondodon/manter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform Integrated Terminal Environment - more than a simple terminal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nstuyvesant/sveltekit-auth-example</title>
+    <updated>2022-12-18T01:39:30Z</updated>
+    <id>tag:github.com,2022-12-18:/nstuyvesant/sveltekit-auth-example</id>
+    <link href="https://github.com/nstuyvesant/sveltekit-auth-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SvelteKit Authentication Example&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

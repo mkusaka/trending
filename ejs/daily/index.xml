@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:32:04Z</updated>
+  <updated>2022-12-18T01:31:58Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>caliphdev/tikly</title>
-    <updated>2022-12-17T01:32:04Z</updated>
-    <id>tag:github.com,2022-12-17:/caliphdev/tikly</id>
-    <link href="https://github.com/caliphdev/tikly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple tiktok downloader with nodejs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nyctonio/helpamission</title>
+    <updated>2022-12-18T01:31:58Z</updated>
+    <id>tag:github.com,2022-12-18:/nyctonio/helpamission</id>
+    <link href="https://github.com/nyctonio/helpamission" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A website for an NGO&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zuri-training/Penguin_by_teamPenguin</title>
+    <updated>2022-12-18T01:31:58Z</updated>
+    <id>tag:github.com,2022-12-18:/zuri-training/Penguin_by_teamPenguin</id>
+    <link href="https://github.com/zuri-training/Penguin_by_teamPenguin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

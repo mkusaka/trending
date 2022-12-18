@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:40:55Z</updated>
+  <updated>2022-12-18T01:40:27Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MicrosoftLearning/dp-300-database-administrator.ko-kr</title>
-    <updated>2022-12-17T01:40:55Z</updated>
-    <id>tag:github.com,2022-12-17:/MicrosoftLearning/dp-300-database-administrator.ko-kr</id>
-    <link href="https://github.com/MicrosoftLearning/dp-300-database-administrator.ko-kr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adimcohen/Advant_of_Code_2022_Single_Statement_SQL</title>
+    <updated>2022-12-18T01:40:27Z</updated>
+    <id>tag:github.com,2022-12-18:/adimcohen/Advant_of_Code_2022_Single_Statement_SQL</id>
+    <link href="https://github.com/adimcohen/Advant_of_Code_2022_Single_Statement_SQL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A misspelled repo revolving around attempting to solve the Advent of Code 2022 puzzles with single-statement t-sql&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

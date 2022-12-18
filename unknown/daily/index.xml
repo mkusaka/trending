@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:29:41Z</updated>
+  <updated>2022-12-18T01:29:37Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ossu/bioinformatics</title>
-    <updated>2022-12-17T01:29:41Z</updated>
-    <id>tag:github.com,2022-12-17:/ossu/bioinformatics</id>
-    <link href="https://github.com/ossu/bioinformatics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔬 Path to a free self-taught education in Bioinformatics!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chinesehuazhou/python-whydo</title>
+    <updated>2022-12-18T01:29:37Z</updated>
+    <id>tag:github.com,2022-12-18:/chinesehuazhou/python-whydo</id>
+    <link href="https://github.com/chinesehuazhou/python-whydo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explore Python&#39;s charms by asking WHY questions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nostr-protocol/nostr</title>
-    <updated>2022-12-17T01:29:41Z</updated>
-    <id>tag:github.com,2022-12-17:/nostr-protocol/nostr</id>
-    <link href="https://github.com/nostr-protocol/nostr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a truly censorship-resistant alternative to Twitter that has a chance of working&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>planet-cx330/v2board-Data</title>
+    <updated>2022-12-18T01:29:37Z</updated>
+    <id>tag:github.com,2022-12-18:/planet-cx330/v2board-Data</id>
+    <link href="https://github.com/planet-cx330/v2board-Data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dair-ai/ml-visuals</title>
-    <updated>2022-12-17T01:29:41Z</updated>
-    <id>tag:github.com,2022-12-17:/dair-ai/ml-visuals</id>
-    <link href="https://github.com/dair-ai/ml-visuals" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/jp-techdocs</title>
+    <updated>2022-12-18T01:29:37Z</updated>
+    <id>tag:github.com,2022-12-18:/Azure/jp-techdocs</id>
+    <link href="https://github.com/Azure/jp-techdocs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository for providing Japanese technical documents by volunteer employees belonging to technical divisions in Microsoft Japan.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

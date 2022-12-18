@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub FreeMarker Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:32:37Z</updated>
+  <updated>2022-12-18T01:32:26Z</updated>
   <subtitle>Daily Trending of FreeMarker in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nkelemen18/koreui</title>
-    <updated>2022-12-17T01:32:37Z</updated>
-    <id>tag:github.com,2022-12-17:/nkelemen18/koreui</id>
-    <link href="https://github.com/nkelemen18/koreui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CoreUI based Keycloak login theme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

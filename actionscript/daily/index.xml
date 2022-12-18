@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-17T01:30:02Z</updated>
+  <updated>2022-12-18T01:29:49Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>summerflower/Weather-Widget</title>
-    <updated>2022-12-17T01:30:02Z</updated>
-    <id>tag:github.com,2022-12-17:/summerflower/Weather-Widget</id>
-    <link href="https://github.com/summerflower/Weather-Widget" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple flash weather widget using Yahoo&#39;s weather API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

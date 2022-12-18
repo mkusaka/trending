@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-18T01:50:13Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>concord-consortium/plant-growth</title>
+    <updated>2022-12-18T01:50:13Z</updated>
+    <id>tag:github.com,2022-12-18:/concord-consortium/plant-growth</id>
+    <link href="https://github.com/concord-consortium/plant-growth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>okta/okta-developer-docs</title>
+    <updated>2022-12-18T01:50:13Z</updated>
+    <id>tag:github.com,2022-12-18:/okta/okta-developer-docs</id>
+    <link href="https://github.com/okta/okta-developer-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;okta-developer-docs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>emilbaehr/automatic-app-landing-page</title>
+    <updated>2022-12-18T01:50:13Z</updated>
+    <id>tag:github.com,2022-12-18:/emilbaehr/automatic-app-landing-page</id>
+    <link href="https://github.com/emilbaehr/automatic-app-landing-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Jekyll theme for automatically generating and deploying landing page sites for mobile apps.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
