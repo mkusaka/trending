@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:29:37Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-12-19T01:29:30Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chinesehuazhou/python-whydo</title>
-    <updated>2022-12-18T01:29:37Z</updated>
-    <id>tag:github.com,2022-12-18:/chinesehuazhou/python-whydo</id>
-    <link href="https://github.com/chinesehuazhou/python-whydo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explore Python&#39;s charms by asking WHY questions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jassics/security-study-plan</title>
+    <updated>2022-12-19T01:29:30Z</updated>
+    <id>tag:github.com,2022-12-19:/jassics/security-study-plan</id>
+    <link href="https://github.com/jassics/security-study-plan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>planet-cx330/v2board-Data</title>
-    <updated>2022-12-18T01:29:37Z</updated>
-    <id>tag:github.com,2022-12-18:/planet-cx330/v2board-Data</id>
-    <link href="https://github.com/planet-cx330/v2board-Data" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nostr-protocol/nips</title>
+    <updated>2022-12-19T01:29:30Z</updated>
+    <id>tag:github.com,2022-12-19:/nostr-protocol/nips</id>
+    <link href="https://github.com/nostr-protocol/nips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nostr Implementation Possibilities&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Azure/jp-techdocs</title>
-    <updated>2022-12-18T01:29:37Z</updated>
-    <id>tag:github.com,2022-12-18:/Azure/jp-techdocs</id>
-    <link href="https://github.com/Azure/jp-techdocs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for providing Japanese technical documents by volunteer employees belonging to technical divisions in Microsoft Japan.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rafamadriz/friendly-snippets</title>
+    <updated>2022-12-19T01:29:30Z</updated>
+    <id>tag:github.com,2022-12-19:/rafamadriz/friendly-snippets</id>
+    <link href="https://github.com/rafamadriz/friendly-snippets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Set of preconfigured snippets for different languages.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

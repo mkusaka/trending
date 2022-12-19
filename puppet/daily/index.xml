@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:36:56Z</updated>
+  <updated>2022-12-19T01:36:27Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>theferrer/vagrant-lamp</title>
-    <updated>2022-12-18T01:36:56Z</updated>
-    <id>tag:github.com,2022-12-18:/theferrer/vagrant-lamp</id>
-    <link href="https://github.com/theferrer/vagrant-lamp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Vagrant lamp config (with Puppet)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

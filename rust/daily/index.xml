@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:38:15Z</updated>
+  <updated>2022-12-19T01:37:12Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jpochyla/psst</title>
-    <updated>2022-12-18T01:38:15Z</updated>
-    <id>tag:github.com,2022-12-18:/jpochyla/psst</id>
-    <link href="https://github.com/jpochyla/psst" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast and multi-platform Spotify client with native GUI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>google/forma</title>
+    <updated>2022-12-19T01:37:12Z</updated>
+    <id>tag:github.com,2022-12-19:/google/forma</id>
+    <link href="https://github.com/google/forma" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An efficient vector-graphics renderer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>supabase/wrappers</title>
-    <updated>2022-12-18T01:38:15Z</updated>
-    <id>tag:github.com,2022-12-18:/supabase/wrappers</id>
-    <link href="https://github.com/supabase/wrappers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Postgres Foreign Data Wrapper development framework in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>linebender/vello</title>
+    <updated>2022-12-19T01:37:12Z</updated>
+    <id>tag:github.com,2022-12-19:/linebender/vello</id>
+    <link href="https://github.com/linebender/vello" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experimental GPU compute-centric 2D renderer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

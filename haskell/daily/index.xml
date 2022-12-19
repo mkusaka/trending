@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:32:56Z</updated>
+  <updated>2022-12-19T01:33:07Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ginaesps/comeTogether</title>
-    <updated>2022-12-18T01:32:56Z</updated>
-    <id>tag:github.com,2022-12-18:/ginaesps/comeTogether</id>
-    <link href="https://github.com/ginaesps/comeTogether" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google Code Jam for the following problems with Haskell, Ruby, TypeScript and Groovy programming languages: Moons and umbrellas; Reversort Engineering; Median Sort; Parenting Partnering Returns&lt;/p&gt;&lt;hr&gt;&lt;p&gt;codejam challenges&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>kadena-io/signing-api</title>
-    <updated>2022-12-18T01:32:56Z</updated>
-    <id>tag:github.com,2022-12-18:/kadena-io/signing-api</id>
-    <link href="https://github.com/kadena-io/signing-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kadena wallet signing API definition and reference docs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Kadena Wallet Signing API&lt;/h1&gt; &#xA;&lt;p&gt;This package contains the specification of the Kadena Wallet Signing API. This API facilitates communication between dapps and wallets. This frees dapp developers from the complexity of managing private keys, allowing them to focus on the functionality and business logic of the application.`&lt;/p&gt; &#xA;&lt;p&gt;Whenever the dapp needs to send a signed transaction, all you have to do is make an AJAX request to this API on localhost port 9467 and the user&#39;s wallet app will handle all the details of transaction signing for you.&lt;/p&gt; &#xA;&lt;h2&gt;Who should use this API?&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Dapp authors - Anyone writing dapps on the Kadena blockchain will want to use this API to make sure their Dapp works with &lt;a href=&#34;https://github.com/kadena-io/chainweaver&#34;&gt;Chainweaver&lt;/a&gt;, the Kadena desktop wallet. The easiest way to do that is to use &lt;a href=&#34;https://github.com/kadena-io/pact-lang-api&#34;&gt;pact-lang-api&lt;/a&gt;, a JavaScript library that handles all the details of the signing API for you.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Wallet authors - Anyone writing a wallet for the Kadena blockchain will want to make their wallet expose this API so they can work seamlessly with the Kadena dapp ecosystem.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;API Documentation&lt;/h2&gt; &#xA;&lt;p&gt;The &lt;a href=&#34;https://raw.githubusercontent.com/kadena-io/signing-api/master/swagger.json&#34;&gt;swagger.json&lt;/a&gt; file contains the generated swagger representation of the API. You can use tools like &lt;a href=&#34;https://github.com/swagger-api/swagger-codegen&#34;&gt;swagger-codegen&lt;/a&gt; to generate client or server code in a large number of different languages.&lt;/p&gt; &#xA;&lt;p&gt;If you would like to get familiar with the API, you can browse the online docs here:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://kadena-io.github.io/signing-api/&#34;&gt;https://kadena-io.github.io/signing-api/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>kadena-io/chainweb-api</title>
-    <updated>2022-12-18T01:32:56Z</updated>
-    <id>tag:github.com,2022-12-18:/kadena-io/chainweb-api</id>
-    <link href="https://github.com/kadena-io/chainweb-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common types for communicating with a Chainweb Node.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;chainweb-api&lt;/h1&gt;</summary>
+    <title>haskell/ghcup-hs</title>
+    <updated>2022-12-19T01:33:07Z</updated>
+    <id>tag:github.com,2022-12-19:/haskell/ghcup-hs</id>
+    <link href="https://github.com/haskell/ghcup-hs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;The GHCup Haskell installer&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://kiwiirc.com/nextclient/irc.libera.chat/?nick=Guest%7C?#haskell,#haskell-ghcup&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/chat-on%20libera%20IRC-brightgreen.svg?sanitize=true&#34; alt=&#34;Join the chat at Libera.chat&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://app.element.io/#/room/#haskell-tooling:matrix.org&#34;&gt;&lt;img src=&#34;https://img.shields.io/matrix/haskell-tooling:matrix.org?label=chat%20on%20matrix.org&#34; alt=&#34;Join the chat at Matrix.org&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://discord.gg/pKYf3zDQU7&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/280033776820813825?label=chat%20on%20discord&#34; alt=&#34;Join the chat at Discord&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gitter.im/haskell/ghcup?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/haskell/ghcup.svg?sanitize=true&#34; alt=&#34;Join the chat at https://gitter.im/haskell/ghcup&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://opencollective.com/ghcup#category-CONTRIBUTE&#34;&gt;&lt;img src=&#34;https://opencollective.com/webpack/donate/button@2x.png?color=blue&#34; alt=&#34;Donate&#34; width=&#34;150&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;GHCup is the main installer for the general purpose language &lt;a href=&#34;https://www.haskell.org/&#34;&gt;Haskell&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://www.haskell.org/ghcup/&#34;&gt;documentation&lt;/a&gt; for installation instructions.&lt;/p&gt; &#xA;&lt;p&gt;If you&#39;re looking for the metadata YAML files, see here: &lt;a href=&#34;https://github.com/haskell/ghcup-metadata&#34;&gt;https://github.com/haskell/ghcup-metadata&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

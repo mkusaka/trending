@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lua Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-19T01:35:02Z</updated>
+  <subtitle>Daily Trending of Lua in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ThePrimeagen/init.lua</title>
+    <updated>2022-12-19T01:35:02Z</updated>
+    <id>tag:github.com,2022-12-19:/ThePrimeagen/init.lua</id>
+    <link href="https://github.com/ThePrimeagen/init.lua" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;ThePrimeagen&#39;s init.lua&lt;/h3&gt; &#xA;&lt;p&gt;Prerequisite: install &lt;a href=&#34;https://github.com/BurntSushi/ripgrep&#34;&gt;ripgrep&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=w7i4amO_zaE&#34;&gt;The full video of me setting up this repo&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For anyone that is interested in my vimrc, i will have a commit log below documenting each one of my commits (easy to C-f the change you want to know about though i would just suggest &lt;code&gt;git log -S&lt;/code&gt;).&lt;/p&gt; &#xA;&lt;h3&gt;Change Log&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ThePrimeagen/init.lua/commit/33eee9ad0c035a92137d99dae06a2396be4c892e&#34;&gt;33eee9ad&lt;/a&gt; initial commits&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ThePrimeagen/init.lua/commit/cb210006356b4b613b71c345cb2b02eefa961fc0&#34;&gt;cb210006&lt;/a&gt; netrw, autogroups for yank highlighting, and auto remove whitespace&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ThePrimeagen/init.lua/commit/c8c0bf4aeacd0bd77136d9c5ee490680515a106b&#34;&gt;c8c0bf4a&lt;/a&gt; zenmode. i really like this plugin&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ThePrimeagen/init.lua/commit/81c770d2d2e32e59916b39c7f5babbc8560f7a82&#34;&gt;81c770d2&lt;/a&gt; copilot testing&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ThePrimeagen/init.lua/commit/4a96e6457b0a0241ca7361ce62177aa6b9a33a38&#34;&gt;4a96e645&lt;/a&gt; fugitive mappings for push and pull&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ThePrimeagen/init.lua/commit/a3bad06a4681c322538d609aa1c0bd18880f77c6&#34;&gt;a3bad06a&lt;/a&gt; disabled eslint. driving me crazy&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+</feed>

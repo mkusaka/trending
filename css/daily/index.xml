@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:31:13Z</updated>
+  <updated>2022-12-19T01:31:23Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lugh-tuatha/yes-or-yes</title>
-    <updated>2022-12-18T01:31:13Z</updated>
-    <id>tag:github.com,2022-12-18:/lugh-tuatha/yes-or-yes</id>
-    <link href="https://github.com/lugh-tuatha/yes-or-yes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;a href=&#34;https://lugh-tuatha.github.io/hands-for-filipinos/&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/lugh-tuatha/yes-or-yes/main/img/readme-2.png&#34; alt=&#34;Logo&#34; height=&#34;80&#34;&gt; &lt;/a&gt; &#xA; &lt;p align=&#34;center&#34;&gt; Anti Rejection for ur crush (ew yuck) &lt;br&gt; &lt;a href=&#34;https://lugh-tuatha.github.io/yes-or-yes/&#34;&gt;View Demo&lt;/a&gt; · &lt;a href=&#34;https://github.com/lugh-tuatha/yes-or-yes/issues&#34;&gt;Report Bug&lt;/a&gt; · &lt;a href=&#34;https://github.com/lugh-tuatha/yes-or-yes/issues&#34;&gt;Request Feature&lt;/a&gt; &lt;/p&gt; &#xA;&lt;/div&gt;</summary>
-  </entry>
-  <entry>
-    <title>DarkFalc0n/calcu.te</title>
-    <updated>2022-12-18T01:31:13Z</updated>
-    <id>tag:github.com,2022-12-18:/DarkFalc0n/calcu.te</id>
-    <link href="https://github.com/DarkFalc0n/calcu.te" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;calcu.te&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/STAR%20THIS-REPOSITORY-cyan?style=for-the-badge&amp;amp;logo=github&#34; alt=&#34;starreq&#34;&gt; &amp;nbsp; &lt;img src=&#34;https://img.shields.io/github/issues-closed/darkfalc0n/calcu.te?color=green&amp;amp;style=for-the-badge&#34; alt=&#34;issuesclosed&#34;&gt; &amp;nbsp; &lt;img src=&#34;https://img.shields.io/github/issues-pr-closed/darkfalc0n/calcu.te?color=khaki&amp;amp;style=for-the-badge&#34; alt=&#34;prclosed&#34;&gt; &lt;br&gt;&lt;br&gt; &lt;img src=&#34;https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&amp;amp;logo=HTML5&amp;amp;logoColor=white&#34; alt=&#34;HTML&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&amp;amp;logo=CSS3&amp;amp;logoColor=white&#34; alt=&#34;CSS&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&amp;amp;logo=JavaScript&amp;amp;logoColor=black&#34; alt=&#34;js&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/Open%20Source%20Initiative-3DA639.svg?style=for-the-badge&amp;amp;logo=Open-Source-Initiative&amp;amp;logoColor=white&#34; alt=&#34;OS&#34;&gt;&lt;/p&gt; &#xA;&lt;h4&gt;Visit the site here &lt;a href=&#34;https://darkfalc0n.github.io/calcu.te/&#34;&gt;https://darkfalc0n.github.io/calcu.te&lt;/a&gt;.&lt;/h4&gt; &#xA;&lt;h2&gt;This repository is participating in &lt;a href=&#34;https://kwoc.kossiitkgp.org/&#34;&gt;KWoC&lt;/a&gt; 🖥️&lt;/h2&gt; &#xA;&lt;p&gt;&lt;b&gt;calcu.te&lt;/b&gt; is an open-source utility website that is a one-stop solution for all types of calculators (and converters) you might need.&lt;/p&gt; &#xA;&lt;h4&gt;In case you are considering contributing to &lt;b&gt;calcu.te&lt;/b&gt;, please go through the &lt;a href=&#34;https://github.com/DarkFalc0n/calcu.te/raw/main/CONTRIBUTING.md/&#34;&gt;contribution guidelines&lt;/a&gt; first.&lt;/h4&gt;</summary>
+    <title>sbaliyun/chatgpt-html</title>
+    <updated>2022-12-19T01:31:23Z</updated>
+    <id>tag:github.com,2022-12-19:/sbaliyun/chatgpt-html</id>
+    <link href="https://github.com/sbaliyun/chatgpt-html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chatgpt html online&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Chat-GPT&lt;/h1&gt; &#xA;&lt;p&gt;Ai-Chat&lt;/p&gt; &#xA;&lt;p&gt;online: &lt;a href=&#34;https://chatgpt.sbaliyun.com/&#34;&gt;https://chatgpt.sbaliyun.com/&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

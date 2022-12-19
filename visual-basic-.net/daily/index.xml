@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:40:54Z</updated>
+  <updated>2022-12-19T01:38:42Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>April15Hater/bdtBusinessDayTools</title>
-    <updated>2022-12-18T01:40:54Z</updated>
-    <id>tag:github.com,2022-12-18:/April15Hater/bdtBusinessDayTools</id>
-    <link href="https://github.com/April15Hater/bdtBusinessDayTools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools for working with business days&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pc-coholic/jackbuzz</title>
+    <updated>2022-12-19T01:38:42Z</updated>
+    <id>tag:github.com,2022-12-19:/pc-coholic/jackbuzz</id>
+    <link href="https://github.com/pc-coholic/jackbuzz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connect your existing Playstation3 Buzzers from the game &#34;Buzz&#34; to your computer and use them for the &#34;You don&#39;t know Jack&#34; game-series.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

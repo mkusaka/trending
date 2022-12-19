@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:35:13Z</updated>
+  <updated>2022-12-19T01:35:20Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DinkDonk/kitty-icon</title>
-    <updated>2022-12-18T01:35:13Z</updated>
-    <id>tag:github.com,2022-12-18:/DinkDonk/kitty-icon</id>
-    <link href="https://github.com/DinkDonk/kitty-icon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An alternative MacOS application icon for the wonderful Kitty terminal emulator.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mengelbart/rtp-over-quic-draft</title>
-    <updated>2022-12-18T01:35:13Z</updated>
-    <id>tag:github.com,2022-12-18:/mengelbart/rtp-over-quic-draft</id>
-    <link href="https://github.com/mengelbart/rtp-over-quic-draft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>projectceladon/device-androidia</title>
-    <updated>2022-12-18T01:35:13Z</updated>
-    <id>tag:github.com,2022-12-18:/projectceladon/device-androidia</id>
-    <link href="https://github.com/projectceladon/device-androidia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

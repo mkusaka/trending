@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:35:31Z</updated>
+  <updated>2022-12-19T01:35:35Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kadena-io/kpkgs</title>
-    <updated>2022-12-18T01:35:31Z</updated>
-    <id>tag:github.com,2022-12-18:/kadena-io/kpkgs</id>
-    <link href="https://github.com/kadena-io/kpkgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shyim/nixcfg</title>
+    <updated>2022-12-19T01:35:35Z</updated>
+    <id>tag:github.com,2022-12-19:/shyim/nixcfg</id>
+    <link href="https://github.com/shyim/nixcfg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Nix config for my Macbook and Server&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>input-output-hk/stackage.nix</title>
+    <updated>2022-12-19T01:35:35Z</updated>
+    <id>tag:github.com,2022-12-19:/input-output-hk/stackage.nix</id>
+    <link href="https://github.com/input-output-hk/stackage.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically generated Nix expressions of Stackage snapshots&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

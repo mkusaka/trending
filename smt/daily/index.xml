@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SMT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:39:09Z</updated>
+  <updated>2022-12-19T01:37:48Z</updated>
   <subtitle>Daily Trending of SMT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ezyang/SMT-LIB-benchmarks-pytorch-shapes</title>
-    <updated>2022-12-18T01:39:09Z</updated>
-    <id>tag:github.com,2022-12-18:/ezyang/SMT-LIB-benchmarks-pytorch-shapes</id>
-    <link href="https://github.com/ezyang/SMT-LIB-benchmarks-pytorch-shapes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SMT-LIB benchmarks for shape computations from deep learning models in PyTorch&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

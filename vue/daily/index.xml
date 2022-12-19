@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:41:00Z</updated>
+  <updated>2022-12-19T01:38:45Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LinusBorg/portal-vue</title>
+    <updated>2022-12-19T01:38:45Z</updated>
+    <id>tag:github.com,2022-12-19:/LinusBorg/portal-vue</id>
+    <link href="https://github.com/LinusBorg/portal-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>trobonox/kanri</title>
+    <updated>2022-12-19T01:38:45Z</updated>
+    <id>tag:github.com,2022-12-19:/trobonox/kanri</id>
+    <link href="https://github.com/trobonox/kanri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Cross-platform, offline-first Kanban board desktop application with a focus on simplicity and user experience. Made with Tauri and Nuxt.js v3, official successor to Kanban Electron.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

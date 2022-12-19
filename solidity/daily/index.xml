@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-18T01:39:18Z</updated>
+  <updated>2022-12-19T01:37:54Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>w1nt3r-eth/liquid-delegator</title>
-    <updated>2022-12-18T01:39:18Z</updated>
-    <id>tag:github.com,2022-12-18:/w1nt3r-eth/liquid-delegator</id>
-    <link href="https://github.com/w1nt3r-eth/liquid-delegator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐊&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xhank/dark-seas</title>
+    <updated>2022-12-19T01:37:54Z</updated>
+    <id>tag:github.com,2022-12-19:/0xhank/dark-seas</id>
+    <link href="https://github.com/0xhank/dark-seas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
