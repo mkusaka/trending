@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-19T01:37:12Z</updated>
+  <updated>2022-12-20T01:37:37Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>google/forma</title>
-    <updated>2022-12-19T01:37:12Z</updated>
-    <id>tag:github.com,2022-12-19:/google/forma</id>
-    <link href="https://github.com/google/forma" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An efficient vector-graphics renderer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>linebender/vello</title>
-    <updated>2022-12-19T01:37:12Z</updated>
-    <id>tag:github.com,2022-12-19:/linebender/vello</id>
-    <link href="https://github.com/linebender/vello" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An experimental GPU compute-centric 2D renderer.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andrewbaxter/genemichaels</title>
+    <updated>2022-12-20T01:37:37Z</updated>
+    <id>tag:github.com,2022-12-20:/andrewbaxter/genemichaels</id>
+    <link href="https://github.com/andrewbaxter/genemichaels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Even formats macros&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

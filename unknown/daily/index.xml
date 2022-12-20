@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-19T01:29:30Z</updated>
+  <updated>2022-12-20T01:30:37Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jassics/security-study-plan</title>
-    <updated>2022-12-19T01:29:30Z</updated>
-    <id>tag:github.com,2022-12-19:/jassics/security-study-plan</id>
-    <link href="https://github.com/jassics/security-study-plan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bigemon/ChatGPT-ToolBox</title>
+    <updated>2022-12-20T01:30:37Z</updated>
+    <id>tag:github.com,2022-12-20:/bigemon/ChatGPT-ToolBox</id>
+    <link href="https://github.com/bigemon/ChatGPT-ToolBox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;由ChatGPT负责编写的ChatGPT工具箱。当前版本提供以下功能： 1.关闭数据监管 2.存档管理器 3.会话存档导入导出&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nostr-protocol/nips</title>
-    <updated>2022-12-19T01:29:30Z</updated>
-    <id>tag:github.com,2022-12-19:/nostr-protocol/nips</id>
-    <link href="https://github.com/nostr-protocol/nips" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nostr Implementation Possibilities&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dair-ai/Prompt-Engineering-Guide</title>
+    <updated>2022-12-20T01:30:37Z</updated>
+    <id>tag:github.com,2022-12-20:/dair-ai/Prompt-Engineering-Guide</id>
+    <link href="https://github.com/dair-ai/Prompt-Engineering-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guide and resources for prompt engineering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rafamadriz/friendly-snippets</title>
-    <updated>2022-12-19T01:29:30Z</updated>
-    <id>tag:github.com,2022-12-19:/rafamadriz/friendly-snippets</id>
-    <link href="https://github.com/rafamadriz/friendly-snippets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Set of preconfigured snippets for different languages.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dastergon/awesome-sre</title>
+    <updated>2022-12-20T01:30:37Z</updated>
+    <id>tag:github.com,2022-12-20:/dastergon/awesome-sre</id>
+    <link href="https://github.com/dastergon/awesome-sre" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Site Reliability and Production Engineering resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

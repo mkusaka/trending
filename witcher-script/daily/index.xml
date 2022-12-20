@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Witcher Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-19T01:38:48Z</updated>
+  <updated>2022-12-20T01:39:23Z</updated>
   <subtitle>Daily Trending of Witcher Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yanos224/W3-autoloot-nextgen</title>
+    <updated>2022-12-20T01:39:23Z</updated>
+    <id>tag:github.com,2022-12-20:/yanos224/W3-autoloot-nextgen</id>
+    <link href="https://github.com/yanos224/W3-autoloot-nextgen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nextgen fix for AutoLoot Configurable All-in-One&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

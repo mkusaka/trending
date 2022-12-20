@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-19T01:31:31Z</updated>
+  <updated>2022-12-20T01:32:05Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Cjkkkk/CUDA_gemm</title>
-    <updated>2022-12-19T01:31:31Z</updated>
-    <id>tag:github.com,2022-12-19:/Cjkkkk/CUDA_gemm</id>
-    <link href="https://github.com/Cjkkkk/CUDA_gemm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple high performance CUDA GEMM implementation.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FLAMEGPU/FLAMEGPU2</title>
-    <updated>2022-12-19T01:31:31Z</updated>
-    <id>tag:github.com,2022-12-19:/FLAMEGPU/FLAMEGPU2</id>
-    <link href="https://github.com/FLAMEGPU/FLAMEGPU2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FLAME GPU 2 is a GPU accelerated agent based modelling framework for CUDA C++ and Python&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
