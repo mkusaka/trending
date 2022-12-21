@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:31:04Z</updated>
+  <updated>2022-12-21T01:30:00Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UnclePunch/Training-Mode</title>
-    <updated>2022-12-20T01:31:04Z</updated>
-    <id>tag:github.com,2022-12-20:/UnclePunch/Training-Mode</id>
-    <link href="https://github.com/UnclePunch/Training-Mode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modpack for Super Smash Bros, Melee for practicing tech.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jonstoecker/assembly</title>
+    <updated>2022-12-21T01:30:00Z</updated>
+    <id>tag:github.com,2022-12-21:/jonstoecker/assembly</id>
+    <link href="https://github.com/jonstoecker/assembly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a simple firmware package for a MIPS-powered TV remote&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>imihajlow/ccpu</title>
+    <updated>2022-12-21T01:30:00Z</updated>
+    <id>tag:github.com,2022-12-21:/imihajlow/ccpu</id>
+    <link href="https://github.com/imihajlow/ccpu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 8-bit computer made of 74xx series logic gates and memory ICs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>UoI-CSE-MYY505/lab06_starter</title>
+    <updated>2022-12-21T01:30:00Z</updated>
+    <id>tag:github.com,2022-12-21:/UoI-CSE-MYY505/lab06_starter</id>
+    <link href="https://github.com/UoI-CSE-MYY505/lab06_starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

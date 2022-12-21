@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:31:53Z</updated>
+  <updated>2022-12-21T01:31:10Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pietrotull/award-service</title>
-    <updated>2022-12-20T01:31:53Z</updated>
-    <id>tag:github.com,2022-12-20:/pietrotull/award-service</id>
-    <link href="https://github.com/pietrotull/award-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Developer exercise&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>netconstructor/node-echonest</title>
+    <updated>2022-12-21T01:31:10Z</updated>
+    <id>tag:github.com,2022-12-21:/netconstructor/node-echonest</id>
+    <link href="https://github.com/netconstructor/node-echonest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;node.js client for the echonest api&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MindTwister/radial.coffee</title>
+    <updated>2022-12-21T01:31:10Z</updated>
+    <id>tag:github.com,2022-12-21:/MindTwister/radial.coffee</id>
+    <link href="https://github.com/MindTwister/radial.coffee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A radial menu written in coffeescript using Raphael.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

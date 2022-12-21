@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:39:20Z</updated>
+  <updated>2022-12-21T01:39:56Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dskvr/nostr-watch</title>
-    <updated>2022-12-20T01:39:20Z</updated>
-    <id>tag:github.com,2022-12-20:/dskvr/nostr-watch</id>
-    <link href="https://github.com/dskvr/nostr-watch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;nostr registry software web-client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>creativetimofficial/vue-black-dashboard</title>
+    <updated>2022-12-21T01:39:56Z</updated>
+    <id>tag:github.com,2022-12-21:/creativetimofficial/vue-black-dashboard</id>
+    <link href="https://github.com/creativetimofficial/vue-black-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue Black Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fiatjaf/branle</title>
-    <updated>2022-12-20T01:39:20Z</updated>
-    <id>tag:github.com,2022-12-20:/fiatjaf/branle</id>
-    <link href="https://github.com/fiatjaf/branle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Twitter-like Nostr client made with Quasar&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ndabAP/vue-command</title>
-    <updated>2022-12-20T01:39:20Z</updated>
-    <id>tag:github.com,2022-12-20:/ndabAP/vue-command</id>
-    <link href="https://github.com/ndabAP/vue-command" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fully working, most feature-rich Vue.js terminal emulator. Now with Vue.js 3 support!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ssshooter/PSN-node-displayer</title>
+    <updated>2022-12-21T01:39:56Z</updated>
+    <id>tag:github.com,2022-12-21:/ssshooter/PSN-node-displayer</id>
+    <link href="https://github.com/ssshooter/PSN-node-displayer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Come on! Show your PSN trophy!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

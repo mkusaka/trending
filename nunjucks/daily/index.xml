@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nunjucks Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:35:51Z</updated>
+  <updated>2022-12-21T01:35:50Z</updated>
   <subtitle>Daily Trending of Nunjucks in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nhsbsa/nhsbsa-digital-playbook</title>
-    <updated>2022-12-20T01:35:51Z</updated>
-    <id>tag:github.com,2022-12-20:/nhsbsa/nhsbsa-digital-playbook</id>
-    <link href="https://github.com/nhsbsa/nhsbsa-digital-playbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Defines how the NHS Business Services Authority provides digital services&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alphagov/di-ipv-cri-cic-front</title>
+    <updated>2022-12-21T01:35:50Z</updated>
+    <id>tag:github.com,2022-12-21:/alphagov/di-ipv-cri-cic-front</id>
+    <link href="https://github.com/alphagov/di-ipv-cri-cic-front" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

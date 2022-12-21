@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:30:37Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-12-21T01:29:20Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bigemon/ChatGPT-ToolBox</title>
-    <updated>2022-12-20T01:30:37Z</updated>
-    <id>tag:github.com,2022-12-20:/bigemon/ChatGPT-ToolBox</id>
-    <link href="https://github.com/bigemon/ChatGPT-ToolBox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;由ChatGPT负责编写的ChatGPT工具箱。当前版本提供以下功能： 1.关闭数据监管 2.存档管理器 3.会话存档导入导出&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>visenger/awesome-mlops</title>
+    <updated>2022-12-21T01:29:20Z</updated>
+    <id>tag:github.com,2022-12-21:/visenger/awesome-mlops</id>
+    <link href="https://github.com/visenger/awesome-mlops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of references for MLOps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dair-ai/Prompt-Engineering-Guide</title>
-    <updated>2022-12-20T01:30:37Z</updated>
-    <id>tag:github.com,2022-12-20:/dair-ai/Prompt-Engineering-Guide</id>
-    <link href="https://github.com/dair-ai/Prompt-Engineering-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Guide and resources for prompt engineering&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aleixmorgadas/awesome-engineering-strategy</title>
+    <updated>2022-12-21T01:29:20Z</updated>
+    <id>tag:github.com,2022-12-21:/aleixmorgadas/awesome-engineering-strategy</id>
+    <link href="https://github.com/aleixmorgadas/awesome-engineering-strategy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 How to design and execute engineering strategies for tech leadership.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dastergon/awesome-sre</title>
-    <updated>2022-12-20T01:30:37Z</updated>
-    <id>tag:github.com,2022-12-20:/dastergon/awesome-sre</id>
-    <link href="https://github.com/dastergon/awesome-sre" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of Site Reliability and Production Engineering resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AndratVA/Mario-Kart-64-HD</title>
+    <updated>2022-12-21T01:29:20Z</updated>
+    <id>tag:github.com,2022-12-21:/AndratVA/Mario-Kart-64-HD</id>
+    <link href="https://github.com/AndratVA/Mario-Kart-64-HD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MK64HD :)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

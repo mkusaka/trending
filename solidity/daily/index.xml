@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:38:12Z</updated>
+  <updated>2022-12-21T01:38:51Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>with-backed/papr</title>
-    <updated>2022-12-20T01:38:12Z</updated>
-    <id>tag:github.com,2022-12-20:/with-backed/papr</id>
-    <link href="https://github.com/with-backed/papr" rel="alternate"></link>
+    <title>0xKitsune/uniswap_v3_math</title>
+    <updated>2022-12-21T01:38:51Z</updated>
+    <id>tag:github.com,2022-12-21:/0xKitsune/uniswap_v3_math</id>
+    <link href="https://github.com/0xKitsune/uniswap_v3_math" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hyperledger-labs/yui-ibc-solidity</title>
-    <updated>2022-12-20T01:38:12Z</updated>
-    <id>tag:github.com,2022-12-20:/hyperledger-labs/yui-ibc-solidity</id>
-    <link href="https://github.com/hyperledger-labs/yui-ibc-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IBC in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pcaversaccio/create2deployer</title>
+    <updated>2022-12-21T01:38:51Z</updated>
+    <id>tag:github.com,2022-12-21:/pcaversaccio/create2deployer</id>
+    <link href="https://github.com/pcaversaccio/create2deployer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YAcademy-Residents/Solidity-Proxy-Playground</title>
+    <updated>2022-12-21T01:38:51Z</updated>
+    <id>tag:github.com,2022-12-21:/YAcademy-Residents/Solidity-Proxy-Playground</id>
+    <link href="https://github.com/YAcademy-Residents/Solidity-Proxy-Playground" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The good, the bad, and the ugly of proxy implementations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

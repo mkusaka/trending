@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-20T01:37:37Z</updated>
+  <updated>2022-12-21T01:38:10Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andrewbaxter/genemichaels</title>
-    <updated>2022-12-20T01:37:37Z</updated>
-    <id>tag:github.com,2022-12-20:/andrewbaxter/genemichaels</id>
-    <link href="https://github.com/andrewbaxter/genemichaels" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Even formats macros&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>embassy-rs/embassy</title>
+    <updated>2022-12-21T01:38:10Z</updated>
+    <id>tag:github.com,2022-12-21:/embassy-rs/embassy</id>
+    <link href="https://github.com/embassy-rs/embassy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern embedded framework, using Rust and async.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>scsibug/nostr-rs-relay</title>
+    <updated>2022-12-21T01:38:10Z</updated>
+    <id>tag:github.com,2022-12-21:/scsibug/nostr-rs-relay</id>
+    <link href="https://github.com/scsibug/nostr-rs-relay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of https://sr.ht/~gheartsfield/nostr-rs-relay/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>salvo-rs/salvo</title>
+    <updated>2022-12-21T01:38:10Z</updated>
+    <id>tag:github.com,2022-12-21:/salvo-rs/salvo</id>
+    <link href="https://github.com/salvo-rs/salvo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Salvo is a powerful and simplest web server framework in Rust world&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
