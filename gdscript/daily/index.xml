@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:32:44Z</updated>
+  <updated>2022-12-22T01:32:56Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>securas/Grotto_Escape_2D_Platformer</title>
+    <updated>2022-12-22T01:32:56Z</updated>
+    <id>tag:github.com,2022-12-22:/securas/Grotto_Escape_2D_Platformer</id>
+    <link href="https://github.com/securas/Grotto_Escape_2D_Platformer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

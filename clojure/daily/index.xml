@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:31:05Z</updated>
+  <updated>2022-12-22T01:31:23Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OttoAllmendinger/term-paper-stm</title>
+    <updated>2022-12-22T01:31:23Z</updated>
+    <id>tag:github.com,2022-12-22:/OttoAllmendinger/term-paper-stm</id>
+    <link href="https://github.com/OttoAllmendinger/term-paper-stm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Term Paper: Clojure STM (Hochschule Karlsruhe 2012)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

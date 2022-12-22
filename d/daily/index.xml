@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:31:27Z</updated>
+  <updated>2022-12-22T01:31:46Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BindBC/bindbc-bgfx</title>
-    <updated>2022-12-21T01:31:27Z</updated>
-    <id>tag:github.com,2022-12-21:/BindBC/bindbc-bgfx</id>
-    <link href="https://github.com/BindBC/bindbc-bgfx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Static &amp; dynamic D bindings to the bgfx library, compatible with BetterC, @nogc and nothrow.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

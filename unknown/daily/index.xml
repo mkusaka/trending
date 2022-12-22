@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:29:20Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-12-22T01:30:12Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>visenger/awesome-mlops</title>
-    <updated>2022-12-21T01:29:20Z</updated>
-    <id>tag:github.com,2022-12-21:/visenger/awesome-mlops</id>
-    <link href="https://github.com/visenger/awesome-mlops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of references for MLOps&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LafiAlmutairi/Pentest-Handbook</title>
+    <updated>2022-12-22T01:30:12Z</updated>
+    <id>tag:github.com,2022-12-22:/LafiAlmutairi/Pentest-Handbook</id>
+    <link href="https://github.com/LafiAlmutairi/Pentest-Handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This a notes/handbook i made and gathered from a great resources on the internet. It consist of a very detailed cheat sheets and useful commands that every pentester use on a daily basis.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aleixmorgadas/awesome-engineering-strategy</title>
-    <updated>2022-12-21T01:29:20Z</updated>
-    <id>tag:github.com,2022-12-21:/aleixmorgadas/awesome-engineering-strategy</id>
-    <link href="https://github.com/aleixmorgadas/awesome-engineering-strategy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎉 How to design and execute engineering strategies for tech leadership.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arthurspk/guiadecybersecurity</title>
+    <updated>2022-12-22T01:30:12Z</updated>
+    <id>tag:github.com,2022-12-22:/arthurspk/guiadecybersecurity</id>
+    <link href="https://github.com/arthurspk/guiadecybersecurity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificações e demais outras coisas.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AndratVA/Mario-Kart-64-HD</title>
-    <updated>2022-12-21T01:29:20Z</updated>
-    <id>tag:github.com,2022-12-21:/AndratVA/Mario-Kart-64-HD</id>
-    <link href="https://github.com/AndratVA/Mario-Kart-64-HD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MK64HD :)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seongkyu-lim/TechBlogs</title>
+    <updated>2022-12-22T01:30:12Z</updated>
+    <id>tag:github.com,2022-12-22:/seongkyu-lim/TechBlogs</id>
+    <link href="https://github.com/seongkyu-lim/TechBlogs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👔💼 국내외 기업 기술 개발 블로그들&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

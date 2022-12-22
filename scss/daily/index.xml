@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:38:23Z</updated>
+  <updated>2022-12-22T01:37:28Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>discourse/discourse-categories-navbar</title>
-    <updated>2022-12-21T01:38:23Z</updated>
-    <id>tag:github.com,2022-12-21:/discourse/discourse-categories-navbar</id>
-    <link href="https://github.com/discourse/discourse-categories-navbar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shows a horizontally scrolling nav of categories in your Discourse site header&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hbctraining/scRNA-seq</title>
-    <updated>2022-12-21T01:38:23Z</updated>
-    <id>tag:github.com,2022-12-21:/hbctraining/scRNA-seq</id>
-    <link href="https://github.com/hbctraining/scRNA-seq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JeremyFagis/dropify</title>
+    <updated>2022-12-22T01:37:28Z</updated>
+    <id>tag:github.com,2022-12-22:/JeremyFagis/dropify</id>
+    <link href="https://github.com/JeremyFagis/dropify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Override your input files with style — Demo here : http://jeremyfagis.github.io/dropify&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

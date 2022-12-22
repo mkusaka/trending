@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:39:56Z</updated>
+  <updated>2022-12-22T01:38:46Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/vue-black-dashboard</title>
-    <updated>2022-12-21T01:39:56Z</updated>
-    <id>tag:github.com,2022-12-21:/creativetimofficial/vue-black-dashboard</id>
-    <link href="https://github.com/creativetimofficial/vue-black-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue Black Dashboard&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liuyulet/lana-web</title>
+    <updated>2022-12-22T01:38:46Z</updated>
+    <id>tag:github.com,2022-12-22:/liuyulet/lana-web</id>
+    <link href="https://github.com/liuyulet/lana-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ssshooter/PSN-node-displayer</title>
-    <updated>2022-12-21T01:39:56Z</updated>
-    <id>tag:github.com,2022-12-21:/ssshooter/PSN-node-displayer</id>
-    <link href="https://github.com/ssshooter/PSN-node-displayer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Come on! Show your PSN trophy!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scottyzen/woonuxt</title>
+    <updated>2022-12-22T01:38:46Z</updated>
+    <id>tag:github.com,2022-12-22:/scottyzen/woonuxt</id>
+    <link href="https://github.com/scottyzen/woonuxt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Static e-commerce powered by WooCommerce &amp; Nuxt&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openhab/openhab-webui</title>
+    <updated>2022-12-22T01:38:46Z</updated>
+    <id>tag:github.com,2022-12-22:/openhab/openhab-webui</id>
+    <link href="https://github.com/openhab/openhab-webui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web UIs of openHAB&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:31:31Z</updated>
+  <updated>2022-12-22T01:31:50Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cfug/diox</title>
-    <updated>2022-12-21T01:31:31Z</updated>
-    <id>tag:github.com,2022-12-21:/cfug/diox</id>
-    <link href="https://github.com/cfug/diox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A powerful HTTP client for Dart/Flutter, which supports global configuration, interceptors, FormData, request cancellation, file uploading/downloading, timeout, and custom adapters etc.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;diox&lt;/h1&gt; &#xA;&lt;p&gt;Language: English | &lt;a href=&#34;https://raw.githubusercontent.com/cfug/diox/main/README-ZH.md&#34;&gt;简体中文&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is the base repo of the &lt;strong&gt;diox&lt;/strong&gt; project. Please move specific paths for projects instructions.&lt;/p&gt; &#xA;&lt;p&gt;To use below packages as a corresponding package to &lt;code&gt;dio&lt;/code&gt;, use &lt;code&gt;dependency_overrides&lt;/code&gt; in your &lt;code&gt;pubspec.yaml&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-yaml&#34;&gt;dependency_overrides:&#xA;  dio:&#xA;    git:&#xA;      url: https://github.com/cfug/diox&#xA;      path: dio/&#xA;      ref: dio&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;diox (dio)&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;diox: &lt;a href=&#34;https://raw.githubusercontent.com/cfug/diox/main/dio&#34;&gt;link&lt;/a&gt; &lt;a href=&#34;https://pub.dev/packages/diox&#34;&gt;&lt;img src=&#34;https://img.shields.io/pub/v/diox.svg?label=dev&amp;amp;include_prereleases&#34; alt=&#34;Pub&#34;&gt;&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Plugins&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;cookie_manager: &lt;a href=&#34;https://raw.githubusercontent.com/cfug/diox/main/plugins/cookie_manager&#34;&gt;link&lt;/a&gt; &lt;a href=&#34;https://pub.dev/packages/diox_cookie_manager&#34;&gt;&lt;img src=&#34;https://img.shields.io/pub/v/diox_cookie_manager.svg?label=dev&amp;amp;include_prereleases&#34; alt=&#34;Pub&#34;&gt;&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;http2_adapter: &lt;a href=&#34;https://raw.githubusercontent.com/cfug/diox/main/plugins/http2_adapter&#34;&gt;link&lt;/a&gt; &lt;a href=&#34;https://pub.dev/packages/diox_http2_adapter&#34;&gt;&lt;img src=&#34;https://img.shields.io/pub/v/diox_http2_adapter.svg?label=dev&amp;amp;include_prereleases&#34; alt=&#34;Pub&#34;&gt;&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Examples&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;example: &lt;a href=&#34;https://raw.githubusercontent.com/cfug/diox/main/example&#34;&gt;link&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;example_flutter_app: &lt;a href=&#34;https://raw.githubusercontent.com/cfug/diox/main/example_flutter_app&#34;&gt;link&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Copyright &amp;amp; License&lt;/h2&gt; &#xA;&lt;p&gt;The project is originally authored by &lt;a href=&#34;https://github.com/wendux&#34;&gt;@wendux&lt;/a&gt; with the organization &lt;a href=&#34;https://github.com/flutterchina&#34;&gt;@flutterchina&lt;/a&gt;, hard-forked at 2022 and maintained by &lt;a href=&#34;https://github.com/cfug&#34;&gt;@cfug&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The project consents &lt;a href=&#34;https://raw.githubusercontent.com/cfug/diox/main/LICENSE&#34;&gt;the MIT license&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>gurkanfikretgunak/wtech-flutter-bootcamp</title>
+    <updated>2022-12-22T01:31:50Z</updated>
+    <id>tag:github.com,2022-12-22:/gurkanfikretgunak/wtech-flutter-bootcamp</id>
+    <link href="https://github.com/gurkanfikretgunak/wtech-flutter-bootcamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;It is an 8-Week bootcamp playground repo made with WTECH participants. You Can check per participant journey! Have Fun.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:32:09Z</updated>
+  <updated>2022-12-22T01:32:29Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hexschool/vue3-starter-files</title>
-    <updated>2022-12-21T01:32:09Z</updated>
-    <id>tag:github.com,2022-12-21:/hexschool/vue3-starter-files</id>
-    <link href="https://github.com/hexschool/vue3-starter-files" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pudongping/pudongping.github.io</title>
+    <updated>2022-12-22T01:32:29Z</updated>
+    <id>tag:github.com,2022-12-22:/pudongping/pudongping.github.io</id>
+    <link href="https://github.com/pudongping/pudongping.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😘 my blog project —— SELECT * FROM LEARNS WHERE LIVE IS NOT NULL 🤞&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

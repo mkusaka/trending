@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-21T01:33:01Z</updated>
+  <updated>2022-12-22T01:33:14Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bbk-pij-2012-68/My-first-git-repository</title>
-    <updated>2022-12-21T01:33:01Z</updated>
-    <id>tag:github.com,2022-12-21:/bbk-pij-2012-68/My-first-git-repository</id>
-    <link href="https://github.com/bbk-pij-2012-68/My-first-git-repository" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My first git repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kiegroup/kie-ci</title>
+    <updated>2022-12-22T01:33:14Z</updated>
+    <id>tag:github.com,2022-12-22:/kiegroup/kie-ci</id>
+    <link href="https://github.com/kiegroup/kie-ci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Various scripts for use with our Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>joelamalio/carrinho-groovy</title>
-    <updated>2022-12-21T01:33:01Z</updated>
-    <id>tag:github.com,2022-12-21:/joelamalio/carrinho-groovy</id>
-    <link href="https://github.com/joelamalio/carrinho-groovy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Carrinho de compras - Implementação feita em groovy para o trabalho da disciplina Programação Orientada a Objetos da pós-gradução.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kcrane3576/microservice-pipelines</title>
+    <updated>2022-12-22T01:33:14Z</updated>
+    <id>tag:github.com,2022-12-22:/kcrane3576/microservice-pipelines</id>
+    <link href="https://github.com/kcrane3576/microservice-pipelines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Jenkins Shared Library used for seeding jobs and sharing configuration across jobs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
