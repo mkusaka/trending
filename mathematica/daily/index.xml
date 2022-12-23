@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:35:09Z</updated>
+  <updated>2022-12-23T01:33:58Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>opencodeiiita/ZoombieMania-</title>
+    <updated>2022-12-23T01:33:58Z</updated>
+    <id>tag:github.com,2022-12-23:/opencodeiiita/ZoombieMania-</id>
+    <link href="https://github.com/opencodeiiita/ZoombieMania-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 3d zombie survival shooter game made with Unity Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

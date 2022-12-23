@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:35:22Z</updated>
+  <updated>2022-12-23T01:34:10Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tiiuae/build-configurations</title>
-    <updated>2022-12-22T01:35:22Z</updated>
-    <id>tag:github.com,2022-12-22:/tiiuae/build-configurations</id>
-    <link href="https://github.com/tiiuae/build-configurations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

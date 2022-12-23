@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:34:25Z</updated>
+  <updated>2022-12-23T01:33:16Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>simon-lc/Silico.jl</title>
+    <updated>2022-12-23T01:33:16Z</updated>
+    <id>tag:github.com,2022-12-23:/simon-lc/Silico.jl</id>
+    <link href="https://github.com/simon-lc/Silico.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight and hackable version of the Dojo physics engine.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaDiff/TaylorDiff.jl</title>
+    <updated>2022-12-23T01:33:16Z</updated>
+    <id>tag:github.com,2022-12-23:/JuliaDiff/TaylorDiff.jl</id>
+    <link href="https://github.com/JuliaDiff/TaylorDiff.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Taylor-mode automatic differentiation for high order derivatives&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eth-vaw-glaciology/course-101-0250-00</title>
+    <updated>2022-12-23T01:33:16Z</updated>
+    <id>tag:github.com,2022-12-23:/eth-vaw-glaciology/course-101-0250-00</id>
+    <link href="https://github.com/eth-vaw-glaciology/course-101-0250-00" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ETH course - Solving PDEs in parallel on GPUs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

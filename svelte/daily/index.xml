@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:37:59Z</updated>
+  <updated>2022-12-23T01:36:47Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fireship-io/pocketchat-tutorial</title>
-    <updated>2022-12-22T01:37:59Z</updated>
-    <id>tag:github.com,2022-12-22:/fireship-io/pocketchat-tutorial</id>
-    <link href="https://github.com/fireship-io/pocketchat-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A basic realtime chat app with Pocketbase and Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>spences10/sveltekit-embed</title>
-    <updated>2022-12-22T01:37:59Z</updated>
-    <id>tag:github.com,2022-12-22:/spences10/sveltekit-embed</id>
-    <link href="https://github.com/spences10/sveltekit-embed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteKit embed components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

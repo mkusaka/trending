@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:38:56Z</updated>
+  <updated>2022-12-23T01:37:48Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hryx/llvm-bitcode</title>
-    <updated>2022-12-22T01:38:56Z</updated>
-    <id>tag:github.com,2022-12-22:/hryx/llvm-bitcode</id>
-    <link href="https://github.com/hryx/llvm-bitcode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental LLVM bitcode reader/writer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LordMZTE/boxflow</title>
-    <updated>2022-12-22T01:38:56Z</updated>
-    <id>tag:github.com,2022-12-22:/LordMZTE/boxflow</id>
-    <link href="https://github.com/LordMZTE/boxflow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mirror of https://mzte.de/git/LordMZTE/boxflow&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rdunnington/bytebox</title>
-    <updated>2022-12-22T01:38:56Z</updated>
-    <id>tag:github.com,2022-12-22:/rdunnington/bytebox</id>
-    <link href="https://github.com/rdunnington/bytebox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standalone WebAssembly VM.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>marler8997/html-css-renderer</title>
+    <updated>2022-12-23T01:37:48Z</updated>
+    <id>tag:github.com,2022-12-23:/marler8997/html-css-renderer</id>
+    <link href="https://github.com/marler8997/html-css-renderer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An HTML/CSS Renderer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

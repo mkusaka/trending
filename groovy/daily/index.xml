@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:33:14Z</updated>
+  <updated>2022-12-23T01:32:14Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kiegroup/kie-ci</title>
-    <updated>2022-12-22T01:33:14Z</updated>
-    <id>tag:github.com,2022-12-22:/kiegroup/kie-ci</id>
-    <link href="https://github.com/kiegroup/kie-ci" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Various scripts for use with our Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kcrane3576/microservice-pipelines</title>
-    <updated>2022-12-22T01:33:14Z</updated>
-    <id>tag:github.com,2022-12-22:/kcrane3576/microservice-pipelines</id>
-    <link href="https://github.com/kcrane3576/microservice-pipelines" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a Jenkins Shared Library used for seeding jobs and sharing configuration across jobs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>edx/jenkins-configuration</title>
+    <updated>2022-12-23T01:32:14Z</updated>
+    <id>tag:github.com,2022-12-23:/edx/jenkins-configuration</id>
+    <link href="https://github.com/edx/jenkins-configuration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of utilities for configuring a Jenkins instance and its plugins&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

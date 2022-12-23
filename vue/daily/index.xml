@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:38:46Z</updated>
+  <updated>2022-12-23T01:37:39Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>liuyulet/lana-web</title>
-    <updated>2022-12-22T01:38:46Z</updated>
-    <id>tag:github.com,2022-12-22:/liuyulet/lana-web</id>
-    <link href="https://github.com/liuyulet/lana-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SonicCloudOrg/sonic-client-web</title>
+    <updated>2022-12-23T01:37:39Z</updated>
+    <id>tag:github.com,2022-12-23:/SonicCloudOrg/sonic-client-web</id>
+    <link href="https://github.com/SonicCloudOrg/sonic-client-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉Front end of Sonic cloud real machine platform. Sonic云真机平台前端。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>scottyzen/woonuxt</title>
-    <updated>2022-12-22T01:38:46Z</updated>
-    <id>tag:github.com,2022-12-22:/scottyzen/woonuxt</id>
-    <link href="https://github.com/scottyzen/woonuxt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Static e-commerce powered by WooCommerce &amp; Nuxt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Sank6/YouTube-Wrapped</title>
+    <updated>2022-12-23T01:37:39Z</updated>
+    <id>tag:github.com,2022-12-23:/Sank6/YouTube-Wrapped</id>
+    <link href="https://github.com/Sank6/YouTube-Wrapped" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spotify Wrapped but for YouTube (Because Rewind sucked).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openhab/openhab-webui</title>
-    <updated>2022-12-22T01:38:46Z</updated>
-    <id>tag:github.com,2022-12-22:/openhab/openhab-webui</id>
-    <link href="https://github.com/openhab/openhab-webui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web UIs of openHAB&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nuxt/nuxt.new</title>
+    <updated>2022-12-23T01:37:39Z</updated>
+    <id>tag:github.com,2022-12-23:/nuxt/nuxt.new</id>
+    <link href="https://github.com/nuxt/nuxt.new" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create a new Nuxt project from your address bar.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

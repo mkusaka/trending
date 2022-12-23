@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:32:34Z</updated>
+  <updated>2022-12-23T01:31:33Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sabof/org-bullets</title>
-    <updated>2022-12-22T01:32:34Z</updated>
-    <id>tag:github.com,2022-12-22:/sabof/org-bullets</id>
-    <link href="https://github.com/sabof/org-bullets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;utf-8 bullets for org-mode&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;org-bullets mode&lt;/h2&gt; Show org-mode bullets as UTF-8 characters. &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/sabof/org-bullets/raw/master/screenshot.png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h4&gt;Installation&lt;/h4&gt; Copy the file somewhere in your load-path, then add to your .emacs: &#xA;&lt;pre&gt;&lt;code&gt;(require &#39;org-bullets)&#xA;(add-hook &#39;org-mode-hook (lambda () (org-bullets-mode 1)))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;select, do [M-x eval-region]. The *s will be replaced with utf-8 bullets next time you open an org file&lt;/p&gt;</summary>
+    <title>amesk/scripts</title>
+    <updated>2022-12-23T01:31:33Z</updated>
+    <id>tag:github.com,2022-12-23:/amesk/scripts</id>
+    <link href="https://github.com/amesk/scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jonathanchu/emacs-powerline</title>
+    <updated>2022-12-23T01:31:33Z</updated>
+    <id>tag:github.com,2022-12-23:/jonathanchu/emacs-powerline</id>
+    <link href="https://github.com/jonathanchu/emacs-powerline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerline for Emacs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;=============== Emacs Powerline&lt;/h1&gt; &#xA;&lt;p&gt;This is a fork of powerline.el from &lt;code&gt;http://www.emacswiki.org/emacs/powerline.el &amp;lt;http://www.emacswiki.org/emacs/powerline.el&amp;gt;&lt;/code&gt;&lt;em&gt;, which is ultimately inspired by &lt;code&gt;vim-powerline &amp;lt;https://github.com/Lokaltog/vim-powerline&amp;gt;&lt;/code&gt;&lt;/em&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;There are a number of ways to do this correctly. If you&#39;re comfortable with doing it your own way, please skip this section. If not, this is the recommended and tested way that I got it working.&lt;/p&gt; &#xA;&lt;p&gt;::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cd ~/.emacs.d/vendor&#xA;$ git clone git://github.com/jonathanchu/emacs-powerline.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;In your Emacs config:&lt;/p&gt; &#xA;&lt;p&gt;::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(add-to-list &#39;load-path &#34;~/.emacs.d/vendor/emacs-powerline&#34;)&#xA;(require &#39;powerline)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;em&gt;Note: Depending on what distribution of Emacs you&#39;re using, you might have to do:&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(require &#39;cl)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Customization&lt;/h2&gt; &#xA;&lt;p&gt;You can choose between different arrow shapes:&lt;/p&gt; &#xA;&lt;p&gt;::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(setq powerline-arrow-shape &#39;arrow)   ;; the default&#xA;(setq powerline-arrow-shape &#39;curve)   ;; give your mode-line curves&#xA;(setq powerline-arrow-shape &#39;arrow14) ;; best for small fonts&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can change the mode-line color using the standard method:&lt;/p&gt; &#xA;&lt;p&gt;::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(custom-set-faces&#xA; &#39;(mode-line ((t (:foreground &#34;#030303&#34; :background &#34;#bdbdbd&#34; :box nil))))&#xA; &#39;(mode-line-inactive ((t (:foreground &#34;#f9f9f9&#34; :background &#34;#666666&#34; :box nil)))))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Additionally, you can modify directly in &lt;code&gt;powerline.el&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;p&gt;::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(setq powerline-color1 &#34;grey22&#34;)&#xA;(setq powerline-color2 &#34;grey40&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Change the :foreground, :background, powerline-color1, powerline-color2 to whatever you wish.&lt;/p&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;p&gt;.. image:: &lt;a href=&#34;http://i.imgur.com/CECRc.png&#34;&gt;http://i.imgur.com/CECRc.png&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Comments/Feedback&lt;/h2&gt; &#xA;&lt;p&gt;Suggestions for any modifications, please feel free to fork and contribute!&lt;/p&gt; &#xA;&lt;p&gt;Please file bugs at &lt;code&gt;https://github.com/jonathanchu/emacs-powerline/issues &amp;lt;https://github.com/jonathanchu/emacs-powerline/issues&amp;gt;&lt;/code&gt;_.&lt;/p&gt;</summary>
   </entry>
 </feed>

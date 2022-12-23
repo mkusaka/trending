@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:37:29Z</updated>
+  <updated>2022-12-23T01:36:07Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WindowProgrammingFinalProject/FinalProject</title>
-    <updated>2022-12-22T01:37:29Z</updated>
-    <id>tag:github.com,2022-12-22:/WindowProgrammingFinalProject/FinalProject</id>
-    <link href="https://github.com/WindowProgrammingFinalProject/FinalProject" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IronWarrior/ToonWaterShader</title>
+    <updated>2022-12-23T01:36:07Z</updated>
+    <id>tag:github.com,2022-12-23:/IronWarrior/ToonWaterShader</id>
+    <link href="https://github.com/IronWarrior/ToonWaterShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for Toon Water Shader tutorial for Unity. Renders and animates toon-style waves from a noise texture and generates shoreline foam based off the depth buffer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

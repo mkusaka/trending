@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:37:52Z</updated>
+  <updated>2022-12-23T01:36:40Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xYao/contract-factory</title>
-    <updated>2022-12-22T01:37:52Z</updated>
-    <id>tag:github.com,2022-12-22:/0xYao/contract-factory</id>
-    <link href="https://github.com/0xYao/contract-factory" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Foundry template to deploy a cross-chain CREATE2 contract factory&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eth-infinitism/account-abstraction</title>
+    <updated>2022-12-23T01:36:40Z</updated>
+    <id>tag:github.com,2022-12-23:/eth-infinitism/account-abstraction</id>
+    <link href="https://github.com/eth-infinitism/account-abstraction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>morpho-dao/morpho-v1</title>
-    <updated>2022-12-22T01:37:52Z</updated>
-    <id>tag:github.com,2022-12-22:/morpho-dao/morpho-v1</id>
-    <link href="https://github.com/morpho-dao/morpho-v1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core contracts of Morpho&#39;s protocol V1.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>go-outside-labs/blockchain-hacking</title>
+    <updated>2022-12-23T01:36:40Z</updated>
+    <id>tag:github.com,2022-12-23:/go-outside-labs/blockchain-hacking</id>
+    <link href="https://github.com/go-outside-labs/blockchain-hacking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍕⛓ 𝘀𝗮𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗼𝗳 $ 𝗳𝗼𝗿 𝗳𝘂𝗻 𝗼𝗿 $&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>opencodeiiita/Learning-Smart-Contracts</title>
+    <updated>2022-12-23T01:36:40Z</updated>
+    <id>tag:github.com,2022-12-23:/opencodeiiita/Learning-Smart-Contracts</id>
+    <link href="https://github.com/opencodeiiita/Learning-Smart-Contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repo being maintained during OpenCode&#39;22 as an archive of smart contracts written primarily in Solidity.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-22T01:30:37Z</updated>
+  <updated>2022-12-23T01:30:03Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BzzzThe18th/UnstrippedLibInstaller2019.3.15</title>
-    <updated>2022-12-22T01:30:37Z</updated>
-    <id>tag:github.com,2022-12-22:/BzzzThe18th/UnstrippedLibInstaller2019.3.15</id>
-    <link href="https://github.com/BzzzThe18th/UnstrippedLibInstaller2019.3.15" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WangXuan95/Xilinx-FPGA-PCIe-XDMA-Tutorial</title>
+    <updated>2022-12-23T01:30:03Z</updated>
+    <id>tag:github.com,2022-12-23:/WangXuan95/Xilinx-FPGA-PCIe-XDMA-Tutorial</id>
+    <link href="https://github.com/WangXuan95/Xilinx-FPGA-PCIe-XDMA-Tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Xilinx FPGA PCIe 保姆级教程 ——基于 PCIe XDMA IP核&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xMaMed/w10-rdp</title>
-    <updated>2022-12-22T01:30:37Z</updated>
-    <id>tag:github.com,2022-12-22:/xMaMed/w10-rdp</id>
-    <link href="https://github.com/xMaMed/w10-rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>denis-g/windows10-latency-optimization</title>
+    <updated>2022-12-23T01:30:03Z</updated>
+    <id>tag:github.com,2022-12-23:/denis-g/windows10-latency-optimization</id>
+    <link href="https://github.com/denis-g/windows10-latency-optimization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Windows 10 Latency Optimization – гайд про оптимизацию Windows и уменьшение задержек (latency, input-lag, throttling и stuttering), а так же про повышение FPS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
