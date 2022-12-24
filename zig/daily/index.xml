@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:37:48Z</updated>
+  <updated>2022-12-24T01:37:12Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>marler8997/html-css-renderer</title>
-    <updated>2022-12-23T01:37:48Z</updated>
-    <id>tag:github.com,2022-12-23:/marler8997/html-css-renderer</id>
-    <link href="https://github.com/marler8997/html-css-renderer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An HTML/CSS Renderer.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:34:44Z</updated>
+  <updated>2022-12-24T01:34:05Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yogs22/laravel9-crud-cache</title>
+    <updated>2022-12-24T01:34:05Z</updated>
+    <id>tag:github.com,2022-12-24:/yogs22/laravel9-crud-cache</id>
+    <link href="https://github.com/yogs22/laravel9-crud-cache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel 9 CRUD using Redis Cache&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Laravel 9 CRUD x CACHE&lt;/h1&gt; &#xA;&lt;p&gt;I create CRUD Article feature who have Admin Panel &amp;amp; API, also using redis cache to load data for better performance.&lt;/p&gt; &#xA;&lt;h2&gt;Requirement&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;PHP &amp;gt;= 8.1&lt;/li&gt; &#xA; &lt;li&gt;Node &amp;gt;= 16&lt;/li&gt; &#xA; &lt;li&gt;Composer&lt;/li&gt; &#xA; &lt;li&gt;NPM / Yarn&lt;/li&gt; &#xA; &lt;li&gt;Redis&lt;/li&gt; &#xA; &lt;li&gt;Apache / Nginx&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# install composer dependencies&#xA;$ composer install&#xA;&#xA;# install node_modules dependencies&#xA;$ npm install # Or yarn install&#xA;&#xA;# compile assets&#xA;$ npm run build&#xA;&#xA;# run migration&#xA;$ php artisan migrate&#xA;&#xA;# run seeder&#xA;$ php artisan db:seed&#xA;&#xA;# run manually&#xA;$ php artisan serve&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Login Credential&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;Username: admin@admin.com&#xA;Password: password&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Dotenv Configuration&lt;/h2&gt; &#xA;&lt;h3&gt;Database Configuration&lt;/h3&gt; &#xA;&lt;p&gt;Please make a fresh database and edit this configuration in .env file. Make sure the database credential is correct&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;DB_DATABASE&lt;/li&gt; &#xA; &lt;li&gt;DB_USERNAME&lt;/li&gt; &#xA; &lt;li&gt;DB_PASSWORD&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Redis Configuration&lt;/h3&gt; &#xA;&lt;p&gt;Run redis during this application running. Don&#39;t forget to set this configuration based on your redis configuration&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;REDIS_CLIENT&lt;/li&gt; &#xA; &lt;li&gt;REDIS_HOST&lt;/li&gt; &#xA; &lt;li&gt;REDIS_PASSWORD&lt;/li&gt; &#xA; &lt;li&gt;REDIS_PORT&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

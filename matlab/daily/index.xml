@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:33:58Z</updated>
+  <updated>2022-12-24T01:33:27Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jesusfv/financial-frictions</title>
-    <updated>2022-12-23T01:33:58Z</updated>
-    <id>tag:github.com,2022-12-23:/jesusfv/financial-frictions</id>
-    <link href="https://github.com/jesusfv/financial-frictions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interactive guide to Fernández-Villaverde, Hurtado, and Nuño (2019): &#34;Financial Frictions and the Wealth Distribution&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

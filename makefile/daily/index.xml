@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:33:55Z</updated>
+  <updated>2022-12-24T01:33:26Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bouffalolab/bl_iot_sdk_tiny</title>
-    <updated>2022-12-23T01:33:55Z</updated>
-    <id>tag:github.com,2022-12-23:/bouffalolab/bl_iot_sdk_tiny</id>
-    <link href="https://github.com/bouffalolab/bl_iot_sdk_tiny" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IoT SDK only for Matter (no toolchain, Matter-specific, non-universal SDK)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>puncsky/system-design-and-architecture</title>
+    <updated>2022-12-24T01:33:26Z</updated>
+    <id>tag:github.com,2022-12-24:/puncsky/system-design-and-architecture</id>
+    <link href="https://github.com/puncsky/system-design-and-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn how to design large-scale systems. Prep for the system design interview.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>singer-io/getting-started</title>
-    <updated>2022-12-23T01:33:55Z</updated>
-    <id>tag:github.com,2022-12-23:/singer-io/getting-started</id>
-    <link href="https://github.com/singer-io/getting-started" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is a getting started guide to Singer.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>beeware/Python-Apple-support</title>
-    <updated>2022-12-23T01:33:55Z</updated>
-    <id>tag:github.com,2022-12-23:/beeware/Python-Apple-support</id>
-    <link href="https://github.com/beeware/Python-Apple-support" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flashbots/geth-sgx-gramine</title>
+    <updated>2022-12-24T01:33:26Z</updated>
+    <id>tag:github.com,2022-12-24:/flashbots/geth-sgx-gramine</id>
+    <link href="https://github.com/flashbots/geth-sgx-gramine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Geth-in-SGX provides an example of running go-ethereum in SGX&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

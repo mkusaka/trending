@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:34:28Z</updated>
+  <updated>2022-12-24T01:34:01Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DarkCoderSc/DLest</title>
-    <updated>2022-12-23T01:34:28Z</updated>
-    <id>tag:github.com,2022-12-23:/DarkCoderSc/DLest</id>
-    <link href="https://github.com/DarkCoderSc/DLest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>UltraStar-Deluxe/USDX</title>
+    <updated>2022-12-24T01:34:01Z</updated>
+    <id>tag:github.com,2022-12-24:/UltraStar-Deluxe/USDX</id>
+    <link href="https://github.com/UltraStar-Deluxe/USDX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

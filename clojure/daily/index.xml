@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:30:49Z</updated>
+  <updated>2022-12-24T01:30:12Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kbosompem/bb-excel</title>
-    <updated>2022-12-23T01:30:49Z</updated>
-    <id>tag:github.com,2022-12-23:/kbosompem/bb-excel</id>
-    <link href="https://github.com/kbosompem/bb-excel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Read Excel Files in babashka scripts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>factorhouse/slipway</title>
+    <updated>2022-12-24T01:30:12Z</updated>
+    <id>tag:github.com,2022-12-24:/factorhouse/slipway</id>
+    <link href="https://github.com/factorhouse/slipway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure Companion to Jetty&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bsless/keys</title>
-    <updated>2022-12-23T01:30:49Z</updated>
-    <id>tag:github.com,2022-12-23:/bsless/keys</id>
-    <link href="https://github.com/bsless/keys" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Select and rename keys as fast as possible in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>opqdonut/hash-f</title>
+    <updated>2022-12-24T01:30:12Z</updated>
+    <id>tag:github.com,2022-12-24:/opqdonut/hash-f</id>
+    <link href="https://github.com/opqdonut/hash-f" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;#f&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

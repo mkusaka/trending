@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:34:32Z</updated>
+  <updated>2022-12-24T01:34:09Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OwenRackham/UniprotMODELLER</title>
+    <updated>2022-12-24T01:34:09Z</updated>
+    <id>tag:github.com,2022-12-24:/OwenRackham/UniprotMODELLER</id>
+    <link href="https://github.com/OwenRackham/UniprotMODELLER" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;create models for uniprot sequences from SUPERFAMILY allignments&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jeremiahshirk/update_adium_eids</title>
+    <updated>2022-12-24T01:34:09Z</updated>
+    <id>tag:github.com,2022-12-24:/jeremiahshirk/update_adium_eids</id>
+    <link href="https://github.com/jeremiahshirk/update_adium_eids" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Update ksu.edu names in Adium&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>theos/dm.pl</title>
+    <updated>2022-12-24T01:34:09Z</updated>
+    <id>tag:github.com,2022-12-24:/theos/dm.pl</id>
+    <link href="https://github.com/theos/dm.pl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;not dpkg-deb, nor a plane, nor a bird.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dm.pl&lt;/h1&gt; &#xA;&lt;p&gt;A basic Perl program that makes Debian software packages (.deb files) without needing dpkg installed. It works as a drop-in replacement for &lt;code&gt;dpkg-deb -b&lt;/code&gt;, with compatible flags.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;dm.pl is included with and used by Theos, so if you’re using an up-to-date version of Theos you already have access to it! If you believe that you&#39;re using a legacy version of Theos, see &lt;a href=&#34;https://theos.dev/docs/upgrading-from-legacy-theos&#34;&gt;here&lt;/a&gt; for how to update.&lt;/p&gt; &#xA;&lt;p&gt;Otherwise, you can either install with npm:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm install -g @theosdev/dm.pl&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;…or clone a copy of this repo:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/theos/dm.pl.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;…and immediately start using it.&lt;/p&gt; &#xA;&lt;p&gt;This will work on any system with Perl and xz-utils installed. (If you’re not sure, they almost certainly are already installed by your OS.)&lt;/p&gt; &#xA;&lt;h2&gt;Synopsis&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;dm.pl [options] &amp;lt;directory&amp;gt; &amp;lt;package&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Options&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;-b&lt;/code&gt;&lt;/strong&gt;: This option exists solely for compatibility with dpkg-deb.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;-Z&amp;lt;compression&amp;gt;&lt;/code&gt;&lt;/strong&gt;: Specify the package compression type. Valid values are gzip (default), bzip2, lzma, xz and cat (no compression).&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;-z&amp;lt;compress-level&amp;gt;&lt;/code&gt;&lt;/strong&gt;: Specify the package compression level. Valid values are between 0 and 9. Default is 9 for bzip2, 6 for others, and 0 is equivalent to cat. Refer to &lt;strong&gt;gzip(1)&lt;/strong&gt;, &lt;strong&gt;bzip2(1)&lt;/strong&gt;, &lt;strong&gt;xz(1)&lt;/strong&gt; for explanations of what effect each compression level has.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;--help&lt;/code&gt;, &lt;code&gt;-?&lt;/code&gt;&lt;/strong&gt;: Print a brief help message and exit.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;--man&lt;/code&gt;&lt;/strong&gt;: Print a manual page and exit.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Licensed under the MIT License. Refer to &lt;a href=&#34;https://raw.githubusercontent.com/theos/dm.pl/master/LICENSE.md&#34;&gt;LICENSE.md&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

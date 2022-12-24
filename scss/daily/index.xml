@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:36:05Z</updated>
+  <updated>2022-12-24T01:35:38Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>acmerindex/acmer-info</title>
-    <updated>2022-12-23T01:36:05Z</updated>
-    <id>tag:github.com,2022-12-23:/acmerindex/acmer-info</id>
-    <link href="https://github.com/acmerindex/acmer-info" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The index for acmer group. Licensed under CC BY-NC-SA 4.0&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>julkwel/bonane</title>
+    <updated>2022-12-24T01:35:38Z</updated>
+    <id>tag:github.com,2022-12-24:/julkwel/bonane</id>
+    <link href="https://github.com/julkwel/bonane" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Happy New Year Messages.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>snipcart/stackbit-theme-planty</title>
-    <updated>2022-12-23T01:36:05Z</updated>
-    <id>tag:github.com,2022-12-23:/snipcart/stackbit-theme-planty</id>
-    <link href="https://github.com/snipcart/stackbit-theme-planty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Planty is an e-commerce ready theme for Stackbit, powered by Snipcart.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CloudCannon/vonge-jekyll-bookshop-template</title>
+    <updated>2022-12-24T01:35:38Z</updated>
+    <id>tag:github.com,2022-12-24:/CloudCannon/vonge-jekyll-bookshop-template</id>
+    <link href="https://github.com/CloudCannon/vonge-jekyll-bookshop-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📝 Personal blog template for Jekyll&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

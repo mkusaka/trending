@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:31:30Z</updated>
+  <updated>2022-12-24T01:30:57Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hernanat/open_ai_ex</title>
-    <updated>2022-12-23T01:31:30Z</updated>
-    <id>tag:github.com,2022-12-23:/hernanat/open_ai_ex</id>
-    <link href="https://github.com/hernanat/open_ai_ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir OpenAI API Wrapper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kry10-NZ/kos_mix</title>
+    <updated>2022-12-24T01:30:57Z</updated>
+    <id>tag:github.com,2022-12-24:/Kry10-NZ/kos_mix</id>
+    <link href="https://github.com/Kry10-NZ/kos_mix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools to build and manage KOS development and build using mix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mercadona/postoffice</title>
+    <updated>2022-12-24T01:30:57Z</updated>
+    <id>tag:github.com,2022-12-24:/mercadona/postoffice</id>
+    <link href="https://github.com/mercadona/postoffice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dispatching service implemented in Elixir. Communicate services or sent api calls to yourself to process anything later&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>workos/workos-elixir</title>
+    <updated>2022-12-24T01:30:57Z</updated>
+    <id>tag:github.com,2022-12-24:/workos/workos-elixir</id>
+    <link href="https://github.com/workos/workos-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Experimental] Official Elixir SDK for interacting with the WorkOS API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

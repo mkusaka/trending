@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:29:59Z</updated>
+  <updated>2022-12-24T01:29:17Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sonocotta/mouse-whisperer</title>
-    <updated>2022-12-23T01:29:59Z</updated>
-    <id>tag:github.com,2022-12-23:/sonocotta/mouse-whisperer</id>
-    <link href="https://github.com/sonocotta/mouse-whisperer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ATTINY85 based device that will draw perfect circles while you&#39;re away&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DenisGrachev/Ringo-8</title>
-    <updated>2022-12-23T01:29:59Z</updated>
-    <id>tag:github.com,2022-12-23:/DenisGrachev/Ringo-8</id>
-    <link href="https://github.com/DenisGrachev/Ringo-8" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;64x48 Gfx Lib For ZX Spectrum 128KB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DavidSM64/Diddy-Kong-Racing</title>
-    <updated>2022-12-23T01:29:59Z</updated>
-    <id>tag:github.com,2022-12-23:/DavidSM64/Diddy-Kong-Racing</id>
-    <link href="https://github.com/DavidSM64/Diddy-Kong-Racing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>simoesusp/Processador-ICMC</title>
+    <updated>2022-12-24T01:29:17Z</updated>
+    <id>tag:github.com,2022-12-24:/simoesusp/Processador-ICMC</id>
+    <link href="https://github.com/simoesusp/Processador-ICMC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Development of a complete environment to teach and learn computer architecture, VHDL processor design and Assembly language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

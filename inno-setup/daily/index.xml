@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inno Setup Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-23T01:32:48Z</updated>
+  <updated>2022-12-24T01:32:16Z</updated>
   <subtitle>Daily Trending of Inno Setup in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DomGries/InnoDependencyInstaller</title>
+    <updated>2022-12-24T01:32:16Z</updated>
+    <id>tag:github.com,2022-12-24:/DomGries/InnoDependencyInstaller</id>
+    <link href="https://github.com/DomGries/InnoDependencyInstaller" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Download and install any dependency such as .NET, Visual C++ or SQL Server during your application&#39;s installation!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
