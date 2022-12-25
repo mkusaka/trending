@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:36:12Z</updated>
+  <updated>2022-12-25T01:37:04Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mattilsynet/designsystem</title>
-    <updated>2022-12-24T01:36:12Z</updated>
-    <id>tag:github.com,2022-12-24:/Mattilsynet/designsystem</id>
-    <link href="https://github.com/Mattilsynet/designsystem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The designsystem for Mattilsynet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nectres/animos</title>
+    <updated>2022-12-25T01:37:04Z</updated>
+    <id>tag:github.com,2022-12-25:/Nectres/animos</id>
+    <link href="https://github.com/Nectres/animos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Animos - Clean and minimal Anime-streaming desktop application without any ads.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>akiarostami/sveltekit-tailwind-blog-starter</title>
-    <updated>2022-12-24T01:36:12Z</updated>
-    <id>tag:github.com,2022-12-24:/akiarostami/sveltekit-tailwind-blog-starter</id>
-    <link href="https://github.com/akiarostami/sveltekit-tailwind-blog-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An easily configurable and customizable blog starter for SvelteKit + Tailwind CSS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joshnuss/svelte-stripe</title>
+    <updated>2022-12-25T01:37:04Z</updated>
+    <id>tag:github.com,2022-12-25:/joshnuss/svelte-stripe</id>
+    <link href="https://github.com/joshnuss/svelte-stripe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Everything you need to add Stripe Elements to your Svelte project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

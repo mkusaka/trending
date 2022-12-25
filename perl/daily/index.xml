@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:34:09Z</updated>
+  <updated>2022-12-25T01:34:46Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OwenRackham/UniprotMODELLER</title>
-    <updated>2022-12-24T01:34:09Z</updated>
-    <id>tag:github.com,2022-12-24:/OwenRackham/UniprotMODELLER</id>
-    <link href="https://github.com/OwenRackham/UniprotMODELLER" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;create models for uniprot sequences from SUPERFAMILY allignments&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>supernovus/blacknoise</title>
+    <updated>2022-12-25T01:34:46Z</updated>
+    <id>tag:github.com,2022-12-25:/supernovus/blacknoise</id>
+    <link href="https://github.com/supernovus/blacknoise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GreyNoise, minus TAL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BlackNoise » GreyeNoise, without the TAL.&lt;/h1&gt; &#xA;&lt;p&gt;== What is it? ==&lt;/p&gt; &#xA;&lt;p&gt;An implementation of the WhiteNoise static website generation system, but in Perl 5 instead of Perl 6.&lt;/p&gt; &#xA;&lt;p&gt;The first Perl 5 implementation was called GreyNoise, and like the original WhiteNoise, it used TAL for templates. However, Template::TAL was manging the Unicode characters in templates, so I&#39;ve ditched its ass.&lt;/p&gt; &#xA;&lt;p&gt;See GreyNoise&#39;s repo for the history behind this.&lt;/p&gt; &#xA;&lt;p&gt;== What is DateTime::Parse::Perl6? ==&lt;/p&gt; &#xA;&lt;p&gt;It&#39;s exactly what it sounds like, it&#39;s a parser for DateTime objects, that parses Perl 6 DateTime strings (which is an ISO8601 style string) and also formats them as Perl 6 would.&lt;/p&gt; &#xA;&lt;p&gt;It&#39;s derived from the DateTime::Format::RFC3339 library, but modified to work with Perl 6 strings specifically.&lt;/p&gt; &#xA;&lt;p&gt;Eventually, it&#39;ll probably make its way into its own repository, and onto CPAN.&lt;/p&gt; &#xA;&lt;p&gt;== What other dependencies are there? ==&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Perl 5.10 or higher.&lt;/li&gt; &#xA; &lt;li&gt;File::Find::Rule&lt;/li&gt; &#xA; &lt;li&gt;Slurp&lt;/li&gt; &#xA; &lt;li&gt;DateTime&lt;/li&gt; &#xA; &lt;li&gt;JSON == 2.0 or higher (JSON::XS is also highly recommended.)&lt;/li&gt; &#xA; &lt;li&gt;XML::LibXML&lt;/li&gt; &#xA; &lt;li&gt;UNIVERSAL::require&lt;/li&gt; &#xA; &lt;li&gt;version&lt;/li&gt; &#xA; &lt;li&gt;Test::XML&lt;/li&gt; &#xA; &lt;li&gt;DateTime::Format::Perl6 Used to be bundled, now it&#39;s in its own repository. See &lt;a href=&#34;https://github.com/supernovus/datetime-format-perl6&#34;&gt;https://github.com/supernovus/datetime-format-perl6&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;== What&#39;s next? ==&lt;/p&gt; &#xA;&lt;p&gt;Nothing. This is meant as a stop-gap solution to power my website. It&#39;s not fully featured, and never will be.&lt;/p&gt; &#xA;&lt;p&gt;Eventually I hope Perl 6 gets to the point where I can resurrect WhiteNoise, and maybe merge it into ww6. Of course, that&#39;s just a dream.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>jeremiahshirk/update_adium_eids</title>
-    <updated>2022-12-24T01:34:09Z</updated>
-    <id>tag:github.com,2022-12-24:/jeremiahshirk/update_adium_eids</id>
-    <link href="https://github.com/jeremiahshirk/update_adium_eids" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Update ksu.edu names in Adium&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>theos/dm.pl</title>
-    <updated>2022-12-24T01:34:09Z</updated>
-    <id>tag:github.com,2022-12-24:/theos/dm.pl</id>
-    <link href="https://github.com/theos/dm.pl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;not dpkg-deb, nor a plane, nor a bird.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dm.pl&lt;/h1&gt; &#xA;&lt;p&gt;A basic Perl program that makes Debian software packages (.deb files) without needing dpkg installed. It works as a drop-in replacement for &lt;code&gt;dpkg-deb -b&lt;/code&gt;, with compatible flags.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;dm.pl is included with and used by Theos, so if you’re using an up-to-date version of Theos you already have access to it! If you believe that you&#39;re using a legacy version of Theos, see &lt;a href=&#34;https://theos.dev/docs/upgrading-from-legacy-theos&#34;&gt;here&lt;/a&gt; for how to update.&lt;/p&gt; &#xA;&lt;p&gt;Otherwise, you can either install with npm:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;npm install -g @theosdev/dm.pl&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;…or clone a copy of this repo:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/theos/dm.pl.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;…and immediately start using it.&lt;/p&gt; &#xA;&lt;p&gt;This will work on any system with Perl and xz-utils installed. (If you’re not sure, they almost certainly are already installed by your OS.)&lt;/p&gt; &#xA;&lt;h2&gt;Synopsis&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;dm.pl [options] &amp;lt;directory&amp;gt; &amp;lt;package&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Options&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;-b&lt;/code&gt;&lt;/strong&gt;: This option exists solely for compatibility with dpkg-deb.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;-Z&amp;lt;compression&amp;gt;&lt;/code&gt;&lt;/strong&gt;: Specify the package compression type. Valid values are gzip (default), bzip2, lzma, xz and cat (no compression).&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;-z&amp;lt;compress-level&amp;gt;&lt;/code&gt;&lt;/strong&gt;: Specify the package compression level. Valid values are between 0 and 9. Default is 9 for bzip2, 6 for others, and 0 is equivalent to cat. Refer to &lt;strong&gt;gzip(1)&lt;/strong&gt;, &lt;strong&gt;bzip2(1)&lt;/strong&gt;, &lt;strong&gt;xz(1)&lt;/strong&gt; for explanations of what effect each compression level has.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;--help&lt;/code&gt;, &lt;code&gt;-?&lt;/code&gt;&lt;/strong&gt;: Print a brief help message and exit.&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;&lt;code&gt;--man&lt;/code&gt;&lt;/strong&gt;: Print a manual page and exit.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Licensed under the MIT License. Refer to &lt;a href=&#34;https://raw.githubusercontent.com/theos/dm.pl/master/LICENSE.md&#34;&gt;LICENSE.md&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>cucumber/gherkin-perl</title>
+    <updated>2022-12-25T01:34:46Z</updated>
+    <id>tag:github.com,2022-12-25:/cucumber/gherkin-perl</id>
+    <link href="https://github.com/cucumber/gherkin-perl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[READ-ONLY] Gherkin for Perl - subtree of monorepo https://github.com/cucumber/cucumber -- moved to https://github.com/cucumber/gherkin&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Gherkin for Perl&lt;/h1&gt; &#xA;&lt;p&gt;Gherkin parser/compiler for Perl. Please see &lt;a href=&#34;https://github.com/cucumber/gherkin&#34;&gt;Gherkin&lt;/a&gt; for details.&lt;/p&gt; &#xA;&lt;h2&gt;Developers&lt;/h2&gt; &#xA;&lt;p&gt;Some files are generated from the &lt;code&gt;gherkin-perl.razor&lt;/code&gt; file. Please run the following command to generate the perl files.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;project_root&amp;gt;/perl&#xA;make&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:34:01Z</updated>
+  <updated>2022-12-25T01:34:42Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UltraStar-Deluxe/USDX</title>
-    <updated>2022-12-24T01:34:01Z</updated>
-    <id>tag:github.com,2022-12-24:/UltraStar-Deluxe/USDX</id>
-    <link href="https://github.com/UltraStar-Deluxe/USDX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rotators/Fo1in2</title>
+    <updated>2022-12-25T01:34:42Z</updated>
+    <id>tag:github.com,2022-12-25:/rotators/Fo1in2</id>
+    <link href="https://github.com/rotators/Fo1in2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fallout 1 to 2 engine conversion&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>turborium/TurboRaylib</title>
+    <updated>2022-12-25T01:34:42Z</updated>
+    <id>tag:github.com,2022-12-25:/turborium/TurboRaylib</id>
+    <link href="https://github.com/turborium/TurboRaylib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TurboRaylib is a cool and clean Raylib bindings for Object Pascal (Delphi and FreePascal)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HashLoad/horse-compression</title>
+    <updated>2022-12-25T01:34:42Z</updated>
+    <id>tag:github.com,2022-12-25:/HashLoad/horse-compression</id>
+    <link href="https://github.com/HashLoad/horse-compression" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Middleware for Compression in HORSE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

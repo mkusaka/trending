@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Yacc Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:37:08Z</updated>
+  <updated>2022-12-25T01:38:06Z</updated>
   <subtitle>Daily Trending of Yacc in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ruby/racc</title>
-    <updated>2022-12-24T01:37:08Z</updated>
-    <id>tag:github.com,2022-12-24:/ruby/racc</id>
-    <link href="https://github.com/ruby/racc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Racc is an LALR(1) parser generator. It is written in Ruby itself, and generates ruby programs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

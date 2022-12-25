@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-25T01:38:17Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nostr-protocol/nostr</title>
+    <updated>2022-12-25T01:38:17Z</updated>
+    <id>tag:github.com,2022-12-25:/nostr-protocol/nostr</id>
+    <link href="https://github.com/nostr-protocol/nostr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a truly censorship-resistant alternative to Twitter that has a chance of working&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YanG-1989/m3u</title>
+    <updated>2022-12-25T01:38:17Z</updated>
+    <id>tag:github.com,2022-12-25:/YanG-1989/m3u</id>
+    <link href="https://github.com/YanG-1989/m3u" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chinesehuazhou/python-whydo</title>
+    <updated>2022-12-25T01:38:17Z</updated>
+    <id>tag:github.com,2022-12-25:/chinesehuazhou/python-whydo</id>
+    <link href="https://github.com/chinesehuazhou/python-whydo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explore Python&#39;s charms by asking WHY questions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

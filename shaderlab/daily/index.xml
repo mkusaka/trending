@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:35:39Z</updated>
+  <updated>2022-12-25T01:36:32Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>XRGames/xr-challenge</title>
-    <updated>2022-12-24T01:35:39Z</updated>
-    <id>tag:github.com,2022-12-24:/XRGames/xr-challenge</id>
-    <link href="https://github.com/XRGames/xr-challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XR Games Developer Challenge&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Varneon/VUdon-Udonity</title>
+    <updated>2022-12-25T01:36:32Z</updated>
+    <id>tag:github.com,2022-12-25:/Varneon/VUdon-Udonity</id>
+    <link href="https://github.com/Varneon/VUdon-Udonity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Runtime Unity Editor made with Udon for editing VRChat worlds in game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

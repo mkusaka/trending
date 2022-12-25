@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:33:40Z</updated>
+  <updated>2022-12-25T01:34:22Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>liquidev/pan</title>
-    <updated>2022-12-24T01:33:40Z</updated>
-    <id>tag:github.com,2022-12-24:/liquidev/pan</id>
-    <link href="https://github.com/liquidev/pan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;puny animator – create motion graphics using Lua&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>waku-org/nwaku</title>
-    <updated>2022-12-24T01:33:40Z</updated>
-    <id>tag:github.com,2022-12-24:/waku-org/nwaku</id>
-    <link href="https://github.com/waku-org/nwaku" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Waku node and protocol.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>inv2004/ttop</title>
-    <updated>2022-12-24T01:33:40Z</updated>
-    <id>tag:github.com,2022-12-24:/inv2004/ttop</id>
-    <link href="https://github.com/inv2004/ttop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ttop - System monitoring service tool with tui and historical data&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jmgomez/NimTemplate</title>
+    <updated>2022-12-25T01:34:22Z</updated>
+    <id>tag:github.com,2022-12-25:/jmgomez/NimTemplate</id>
+    <link href="https://github.com/jmgomez/NimTemplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

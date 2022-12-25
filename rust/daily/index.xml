@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:35:28Z</updated>
+  <updated>2022-12-25T01:36:19Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>google/comprehensive-rust</title>
-    <updated>2022-12-24T01:35:28Z</updated>
-    <id>tag:github.com,2022-12-24:/google/comprehensive-rust</id>
-    <link href="https://github.com/google/comprehensive-rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Gankra/cargo-mommy</title>
-    <updated>2022-12-24T01:35:28Z</updated>
-    <id>tag:github.com,2022-12-24:/Gankra/cargo-mommy</id>
-    <link href="https://github.com/Gankra/cargo-mommy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mommy&#39;s here to support you when running cargo~&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Kindelia/Kind</title>
-    <updated>2022-12-24T01:35:28Z</updated>
-    <id>tag:github.com,2022-12-24:/Kindelia/Kind</id>
-    <link href="https://github.com/Kindelia/Kind" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A next-gen functional language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

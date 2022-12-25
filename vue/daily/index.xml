@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:37:01Z</updated>
+  <updated>2022-12-25T01:38:00Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>weilanwl/coloruicss</title>
+    <updated>2022-12-25T01:38:00Z</updated>
+    <id>tag:github.com,2022-12-25:/weilanwl/coloruicss</id>
+    <link href="https://github.com/weilanwl/coloruicss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;鲜亮的高饱和色彩，专注视觉的小程序组件库&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

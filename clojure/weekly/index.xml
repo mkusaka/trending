@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-25T01:39:14Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zk/nsfw</title>
+    <updated>2022-12-25T01:39:14Z</updated>
+    <id>tag:github.com,2022-12-25:/zk/nsfw</id>
+    <link href="https://github.com/zk/nsfw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nsfw&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tonvanbart/clojure-fotofeed-servlet</title>
+    <updated>2022-12-25T01:39:14Z</updated>
+    <id>tag:github.com,2022-12-25:/tonvanbart/clojure-fotofeed-servlet</id>
+    <link href="https://github.com/tonvanbart/clojure-fotofeed-servlet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

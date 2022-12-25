@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:36:04Z</updated>
+  <updated>2022-12-25T01:36:58Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emo-eth/create2-helpers</title>
+    <updated>2022-12-25T01:36:58Z</updated>
+    <id>tag:github.com,2022-12-25:/emo-eth/create2-helpers</id>
+    <link href="https://github.com/emo-eth/create2-helpers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helpers for deploying smart contracts to multiple chains with CREATE2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>evmcheb/solarray</title>
+    <updated>2022-12-25T01:36:58Z</updated>
+    <id>tag:github.com,2022-12-25:/evmcheb/solarray</id>
+    <link href="https://github.com/evmcheb/solarray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A blazing-fast helper library for convenient Solidity dynamic arrays&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

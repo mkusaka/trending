@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:28:51Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-12-25T01:29:17Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TapXWorld/Math</title>
-    <updated>2022-12-24T01:28:51Z</updated>
-    <id>tag:github.com,2022-12-24:/TapXWorld/Math</id>
-    <link href="https://github.com/TapXWorld/Math" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;人教版小学到大学数学&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jitpack/jitpack.io</title>
+    <updated>2022-12-25T01:29:17Z</updated>
+    <id>tag:github.com,2022-12-25:/jitpack/jitpack.io</id>
+    <link href="https://github.com/jitpack/jitpack.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation and issues of https://jitpack.io&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>payloadbox/xss-payload-list</title>
-    <updated>2022-12-24T01:28:51Z</updated>
-    <id>tag:github.com,2022-12-24:/payloadbox/xss-payload-list</id>
-    <link href="https://github.com/payloadbox/xss-payload-list" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎯 Cross Site Scripting ( XSS ) Vulnerability Payload List&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kejar31/VoronMods</title>
+    <updated>2022-12-25T01:29:17Z</updated>
+    <id>tag:github.com,2022-12-25:/kejar31/VoronMods</id>
+    <link href="https://github.com/kejar31/VoronMods" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mods I have created for my Voron printer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sdras/awesome-actions</title>
-    <updated>2022-12-24T01:28:51Z</updated>
-    <id>tag:github.com,2022-12-24:/sdras/awesome-actions</id>
-    <link href="https://github.com/sdras/awesome-actions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome actions to use on GitHub&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Semporia/TikTok-Unlock</title>
+    <updated>2022-12-25T01:29:17Z</updated>
+    <id>tag:github.com,2022-12-25:/Semporia/TikTok-Unlock</id>
+    <link href="https://github.com/Semporia/TikTok-Unlock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V27.4.0）、TikTok TestFlight 27.5.1，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

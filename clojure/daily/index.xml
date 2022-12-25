@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:30:12Z</updated>
+  <updated>2022-12-25T01:30:21Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>factorhouse/slipway</title>
-    <updated>2022-12-24T01:30:12Z</updated>
-    <id>tag:github.com,2022-12-24:/factorhouse/slipway</id>
-    <link href="https://github.com/factorhouse/slipway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure Companion to Jetty&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lilactown/7-humble-guis</title>
+    <updated>2022-12-25T01:30:21Z</updated>
+    <id>tag:github.com,2022-12-25:/lilactown/7-humble-guis</id>
+    <link href="https://github.com/lilactown/7-humble-guis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of 7 GUIs using HumbleUI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>opqdonut/hash-f</title>
-    <updated>2022-12-24T01:30:12Z</updated>
-    <id>tag:github.com,2022-12-24:/opqdonut/hash-f</id>
-    <link href="https://github.com/opqdonut/hash-f" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;#f&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cljdoc/cljdoc-analyzer</title>
+    <updated>2022-12-25T01:30:21Z</updated>
+    <id>tag:github.com,2022-12-25:/cljdoc/cljdoc-analyzer</id>
+    <link href="https://github.com/cljdoc/cljdoc-analyzer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get resolved metadata from Clojure and ClojureScript projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

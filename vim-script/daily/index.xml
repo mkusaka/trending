@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:36:57Z</updated>
+  <updated>2022-12-25T01:37:57Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BurntSushi/dotfiles</title>
+    <updated>2022-12-25T01:37:57Z</updated>
+    <id>tag:github.com,2022-12-25:/BurntSushi/dotfiles</id>
+    <link href="https://github.com/BurntSushi/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My configuration files and personal collection of scripts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vmware-archive/salt-vim</title>
+    <updated>2022-12-25T01:37:57Z</updated>
+    <id>tag:github.com,2022-12-25:/vmware-archive/salt-vim</id>
+    <link href="https://github.com/vmware-archive/salt-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim files for editing Salt files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

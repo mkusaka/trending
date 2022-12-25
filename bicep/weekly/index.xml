@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-25T01:38:39Z</updated>
+  <subtitle>Weekly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MicrosoftLearning/AZ500-AzureSecurityTechnologies</title>
+    <updated>2022-12-25T01:38:39Z</updated>
+    <id>tag:github.com,2022-12-25:/MicrosoftLearning/AZ500-AzureSecurityTechnologies</id>
+    <link href="https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Microsoft Azure Security Technologies&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

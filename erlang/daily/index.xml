@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:31:15Z</updated>
+  <updated>2022-12-25T01:31:32Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mattdsteele/erlang-book-club</title>
-    <updated>2022-12-24T01:31:15Z</updated>
-    <id>tag:github.com,2022-12-24:/mattdsteele/erlang-book-club</id>
-    <link href="https://github.com/mattdsteele/erlang-book-club" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code and examples from Erlang Book Club&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lambdaclass/beam_prometheus_exporter</title>
+    <updated>2022-12-25T01:31:32Z</updated>
+    <id>tag:github.com,2022-12-25:/lambdaclass/beam_prometheus_exporter</id>
+    <link href="https://github.com/lambdaclass/beam_prometheus_exporter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add this to your release to get standard erlang metrics in prometheus/grafana&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SiftLogic/erlcsv</title>
-    <updated>2022-12-24T01:31:15Z</updated>
-    <id>tag:github.com,2022-12-24:/SiftLogic/erlcsv</id>
-    <link href="https://github.com/SiftLogic/erlcsv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang CSV Parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lambdaclass/webrtc-server</title>
+    <updated>2022-12-25T01:31:32Z</updated>
+    <id>tag:github.com,2022-12-25:/lambdaclass/webrtc-server</id>
+    <link href="https://github.com/lambdaclass/webrtc-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Signaling and ICE servers for WebRTC in Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lambdaclass/holiday_pinger</title>
+    <updated>2022-12-25T01:31:32Z</updated>
+    <id>tag:github.com,2022-12-25:/lambdaclass/holiday_pinger</id>
+    <link href="https://github.com/lambdaclass/holiday_pinger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang + ClojureScript app to send holiday reminders&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

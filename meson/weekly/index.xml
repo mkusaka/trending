@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Meson Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-25T01:42:29Z</updated>
+  <subtitle>Weekly Trending of Meson in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hyprwm/hyprland-protocols</title>
+    <updated>2022-12-25T01:42:29Z</updated>
+    <id>tag:github.com,2022-12-25:/hyprwm/hyprland-protocols</id>
+    <link href="https://github.com/hyprwm/hyprland-protocols" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wayland protocol extensions for Hyprland&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

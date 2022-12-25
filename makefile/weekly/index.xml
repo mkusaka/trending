@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-25T01:42:27Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aws-samples/eks-blueprints-workloads</title>
+    <updated>2022-12-25T01:42:27Z</updated>
+    <id>tag:github.com,2022-12-25:/aws-samples/eks-blueprints-workloads</id>
+    <link href="https://github.com/aws-samples/eks-blueprints-workloads" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>starfive-tech/buildroot</title>
+    <updated>2022-12-25T01:42:27Z</updated>
+    <id>tag:github.com,2022-12-25:/starfive-tech/buildroot</id>
+    <link href="https://github.com/starfive-tech/buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GaryOderNichts/UFDiine</title>
+    <updated>2022-12-25T01:42:27Z</updated>
+    <id>tag:github.com,2022-12-25:/GaryOderNichts/UFDiine</id>
+    <link href="https://github.com/GaryOderNichts/UFDiine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wii U Update Folder Deleter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

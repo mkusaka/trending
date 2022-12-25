@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-25T01:40:01Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>benvp/ex_cva</title>
+    <updated>2022-12-25T01:40:01Z</updated>
+    <id>tag:github.com,2022-12-25:/benvp/ex_cva</id>
+    <link href="https://github.com/benvp/ex_cva" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Class Variance Authority for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mbta/alerts_viewer</title>
+    <updated>2022-12-25T01:40:01Z</updated>
+    <id>tag:github.com,2022-12-25:/mbta/alerts_viewer</id>
+    <link href="https://github.com/mbta/alerts_viewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beam-community/stripity-stripe</title>
+    <updated>2022-12-25T01:40:01Z</updated>
+    <id>tag:github.com,2022-12-25:/beam-community/stripity-stripe</id>
+    <link href="https://github.com/beam-community/stripity-stripe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir Library for Stripe&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

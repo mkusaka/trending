@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-24T01:33:26Z</updated>
+  <updated>2022-12-25T01:34:09Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>puncsky/system-design-and-architecture</title>
-    <updated>2022-12-24T01:33:26Z</updated>
-    <id>tag:github.com,2022-12-24:/puncsky/system-design-and-architecture</id>
-    <link href="https://github.com/puncsky/system-design-and-architecture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn how to design large-scale systems. Prep for the system design interview.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aio-libs/aiohttp-demos</title>
+    <updated>2022-12-25T01:34:09Z</updated>
+    <id>tag:github.com,2022-12-25:/aio-libs/aiohttp-demos</id>
+    <link href="https://github.com/aio-libs/aiohttp-demos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demos for aiohttp project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>flashbots/geth-sgx-gramine</title>
-    <updated>2022-12-24T01:33:26Z</updated>
-    <id>tag:github.com,2022-12-24:/flashbots/geth-sgx-gramine</id>
-    <link href="https://github.com/flashbots/geth-sgx-gramine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Geth-in-SGX provides an example of running go-ethereum in SGX&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GaryOderNichts/UStealthPlugin</title>
+    <updated>2022-12-25T01:34:09Z</updated>
+    <id>tag:github.com,2022-12-25:/GaryOderNichts/UStealthPlugin</id>
+    <link href="https://github.com/GaryOderNichts/UStealthPlugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stops the Wii U menu from complaining about &#34;PC formatted&#34; drives&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

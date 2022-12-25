@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2022-12-25T01:44:47Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>coinspect/learn-evm-attacks</title>
+    <updated>2022-12-25T01:44:47Z</updated>
+    <id>tag:github.com,2022-12-25:/coinspect/learn-evm-attacks</id>
+    <link href="https://github.com/coinspect/learn-evm-attacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn &amp; Contribute on previously exploited vulnerabilities across several EVM projects.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-12-caviar</title>
+    <updated>2022-12-25T01:44:47Z</updated>
+    <id>tag:github.com,2022-12-25:/code-423n4/2022-12-caviar</id>
+    <link href="https://github.com/code-423n4/2022-12-caviar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2022-12-gogopool</title>
+    <updated>2022-12-25T01:44:47Z</updated>
+    <id>tag:github.com,2022-12-25:/code-423n4/2022-12-gogopool</id>
+    <link href="https://github.com/code-423n4/2022-12-gogopool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
