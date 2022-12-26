@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:32:24Z</updated>
+  <updated>2022-12-26T01:32:18Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nnkeng/group5</title>
-    <updated>2022-12-25T01:32:24Z</updated>
-    <id>tag:github.com,2022-12-25:/nnkeng/group5</id>
-    <link href="https://github.com/nnkeng/group5" rel="alternate"></link>
+    <title>cloudxeus/terraform-azure</title>
+    <updated>2022-12-26T01:32:18Z</updated>
+    <id>tag:github.com,2022-12-26:/cloudxeus/terraform-azure</id>
+    <link href="https://github.com/cloudxeus/terraform-azure" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sighupio/fury-eks-installer</title>
-    <updated>2022-12-25T01:32:24Z</updated>
-    <id>tag:github.com,2022-12-25:/sighupio/fury-eks-installer</id>
-    <link href="https://github.com/sighupio/fury-eks-installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fury Kubernetes Installer - EKS (AWS Kubernetes Managed Service)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/terraform-google-nomad</title>
+    <updated>2022-12-26T01:32:18Z</updated>
+    <id>tag:github.com,2022-12-26:/hashicorp/terraform-google-nomad</id>
+    <link href="https://github.com/hashicorp/terraform-google-nomad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform Module for how to run Nomad on Google Cloud using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Zantorym/ACS-Final-Project</title>
+    <updated>2022-12-26T01:32:18Z</updated>
+    <id>tag:github.com,2022-12-26:/Zantorym/ACS-Final-Project</id>
+    <link href="https://github.com/Zantorym/ACS-Final-Project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ACS730 NAA final project, fall &#39;22, group 13&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

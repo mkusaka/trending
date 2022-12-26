@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:36:05Z</updated>
+  <updated>2022-12-26T01:36:05Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>n00bzorz/Daily-and-weekly-notes</title>
+    <updated>2022-12-26T01:36:05Z</updated>
+    <id>tag:github.com,2022-12-26:/n00bzorz/Daily-and-weekly-notes</id>
+    <link href="https://github.com/n00bzorz/Daily-and-weekly-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my templater code for my daily and weekly notes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

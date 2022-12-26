@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:34:07Z</updated>
+  <updated>2022-12-26T01:33:55Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pharmaverse/upptime</title>
+    <updated>2022-12-26T01:33:55Z</updated>
+    <id>tag:github.com,2022-12-26:/pharmaverse/upptime</id>
+    <link href="https://github.com/pharmaverse/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monitor pharmaverse.org uptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WhatTheHost-Dev/Status</title>
+    <updated>2022-12-26T01:33:55Z</updated>
+    <id>tag:github.com,2022-12-26:/WhatTheHost-Dev/Status</id>
+    <link href="https://github.com/WhatTheHost-Dev/Status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Upptime, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svengau/upptime</title>
+    <updated>2022-12-26T01:33:55Z</updated>
+    <id>tag:github.com,2022-12-26:/svengau/upptime</id>
+    <link href="https://github.com/svengau/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Upptime instance to monitor my services&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

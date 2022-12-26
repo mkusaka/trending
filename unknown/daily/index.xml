@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:29:17Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-12-26T01:29:06Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jitpack/jitpack.io</title>
-    <updated>2022-12-25T01:29:17Z</updated>
-    <id>tag:github.com,2022-12-25:/jitpack/jitpack.io</id>
-    <link href="https://github.com/jitpack/jitpack.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation and issues of https://jitpack.io&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>louisfb01/best_AI_papers_2022</title>
+    <updated>2022-12-26T01:29:06Z</updated>
+    <id>tag:github.com,2022-12-26:/louisfb01/best_AI_papers_2022</id>
+    <link href="https://github.com/louisfb01/best_AI_papers_2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kejar31/VoronMods</title>
-    <updated>2022-12-25T01:29:17Z</updated>
-    <id>tag:github.com,2022-12-25:/kejar31/VoronMods</id>
-    <link href="https://github.com/kejar31/VoronMods" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mods I have created for my Voron printer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gaganode/gaga_android_sdk</title>
+    <updated>2022-12-26T01:29:06Z</updated>
+    <id>tag:github.com,2022-12-26:/gaganode/gaga_android_sdk</id>
+    <link href="https://github.com/gaganode/gaga_android_sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gaga_android_sdk&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Semporia/TikTok-Unlock</title>
-    <updated>2022-12-25T01:29:17Z</updated>
-    <id>tag:github.com,2022-12-25:/Semporia/TikTok-Unlock</id>
-    <link href="https://github.com/Semporia/TikTok-Unlock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;TikTok免拔卡解锁最新支持 iPhone （iOS 16.2） 、TikTok（V27.4.0）、TikTok TestFlight 27.5.1，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LuNiZz/siber-guvenlik-sss</title>
+    <updated>2022-12-26T01:29:06Z</updated>
+    <id>tag:github.com,2022-12-26:/LuNiZz/siber-guvenlik-sss</id>
+    <link href="https://github.com/LuNiZz/siber-guvenlik-sss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SSS sorulari burada...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

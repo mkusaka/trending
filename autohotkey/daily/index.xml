@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:29:37Z</updated>
+  <updated>2022-12-26T01:29:34Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>htadashi/GPT3-AHK</title>
-    <updated>2022-12-25T01:29:37Z</updated>
-    <id>tag:github.com,2022-12-25:/htadashi/GPT3-AHK</id>
-    <link href="https://github.com/htadashi/GPT3-AHK" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An AutoHotKey script that enables you to use GPT3 in any input field on your computer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Saberawr/bss</title>
+    <updated>2022-12-26T01:29:34Z</updated>
+    <id>tag:github.com,2022-12-26:/Saberawr/bss</id>
+    <link href="https://github.com/Saberawr/bss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bee Swarm Simulator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

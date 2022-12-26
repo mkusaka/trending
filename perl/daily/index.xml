@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:34:46Z</updated>
+  <updated>2022-12-26T01:34:41Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>supernovus/blacknoise</title>
-    <updated>2022-12-25T01:34:46Z</updated>
-    <id>tag:github.com,2022-12-25:/supernovus/blacknoise</id>
-    <link href="https://github.com/supernovus/blacknoise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GreyNoise, minus TAL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BlackNoise » GreyeNoise, without the TAL.&lt;/h1&gt; &#xA;&lt;p&gt;== What is it? ==&lt;/p&gt; &#xA;&lt;p&gt;An implementation of the WhiteNoise static website generation system, but in Perl 5 instead of Perl 6.&lt;/p&gt; &#xA;&lt;p&gt;The first Perl 5 implementation was called GreyNoise, and like the original WhiteNoise, it used TAL for templates. However, Template::TAL was manging the Unicode characters in templates, so I&#39;ve ditched its ass.&lt;/p&gt; &#xA;&lt;p&gt;See GreyNoise&#39;s repo for the history behind this.&lt;/p&gt; &#xA;&lt;p&gt;== What is DateTime::Parse::Perl6? ==&lt;/p&gt; &#xA;&lt;p&gt;It&#39;s exactly what it sounds like, it&#39;s a parser for DateTime objects, that parses Perl 6 DateTime strings (which is an ISO8601 style string) and also formats them as Perl 6 would.&lt;/p&gt; &#xA;&lt;p&gt;It&#39;s derived from the DateTime::Format::RFC3339 library, but modified to work with Perl 6 strings specifically.&lt;/p&gt; &#xA;&lt;p&gt;Eventually, it&#39;ll probably make its way into its own repository, and onto CPAN.&lt;/p&gt; &#xA;&lt;p&gt;== What other dependencies are there? ==&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Perl 5.10 or higher.&lt;/li&gt; &#xA; &lt;li&gt;File::Find::Rule&lt;/li&gt; &#xA; &lt;li&gt;Slurp&lt;/li&gt; &#xA; &lt;li&gt;DateTime&lt;/li&gt; &#xA; &lt;li&gt;JSON == 2.0 or higher (JSON::XS is also highly recommended.)&lt;/li&gt; &#xA; &lt;li&gt;XML::LibXML&lt;/li&gt; &#xA; &lt;li&gt;UNIVERSAL::require&lt;/li&gt; &#xA; &lt;li&gt;version&lt;/li&gt; &#xA; &lt;li&gt;Test::XML&lt;/li&gt; &#xA; &lt;li&gt;DateTime::Format::Perl6 Used to be bundled, now it&#39;s in its own repository. See &lt;a href=&#34;https://github.com/supernovus/datetime-format-perl6&#34;&gt;https://github.com/supernovus/datetime-format-perl6&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;== What&#39;s next? ==&lt;/p&gt; &#xA;&lt;p&gt;Nothing. This is meant as a stop-gap solution to power my website. It&#39;s not fully featured, and never will be.&lt;/p&gt; &#xA;&lt;p&gt;Eventually I hope Perl 6 gets to the point where I can resurrect WhiteNoise, and maybe merge it into ww6. Of course, that&#39;s just a dream.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>cucumber/gherkin-perl</title>
-    <updated>2022-12-25T01:34:46Z</updated>
-    <id>tag:github.com,2022-12-25:/cucumber/gherkin-perl</id>
-    <link href="https://github.com/cucumber/gherkin-perl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[READ-ONLY] Gherkin for Perl - subtree of monorepo https://github.com/cucumber/cucumber -- moved to https://github.com/cucumber/gherkin&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Gherkin for Perl&lt;/h1&gt; &#xA;&lt;p&gt;Gherkin parser/compiler for Perl. Please see &lt;a href=&#34;https://github.com/cucumber/gherkin&#34;&gt;Gherkin&lt;/a&gt; for details.&lt;/p&gt; &#xA;&lt;h2&gt;Developers&lt;/h2&gt; &#xA;&lt;p&gt;Some files are generated from the &lt;code&gt;gherkin-perl.razor&lt;/code&gt; file. Please run the following command to generate the perl files.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;project_root&amp;gt;/perl&#xA;make&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>theos/nic</title>
+    <updated>2022-12-26T01:34:41Z</updated>
+    <id>tag:github.com,2022-12-26:/theos/nic</id>
+    <link href="https://github.com/theos/nic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generates Theos projects based on a template.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;New Instance Creator&lt;/h1&gt; &#xA;&lt;p&gt;The New Instance Creator (you can call him Nicolas!) is a tool used alongside the &lt;a href=&#34;https://theos.dev/docs/&#34;&gt;Theos&lt;/a&gt; build system to generate the boilerplate for a project or subproject. It can ask questions to help you fill in certain details such as the project name. NIC templates are tar archives with a certain structure that NIC can understand. NIC was once integrated in the same Git repo as Theos, but now has been decoupled from Theos to its own repo.&lt;/p&gt; &#xA;&lt;p&gt;Documentation is available on the &lt;a href=&#34;https://theos.dev/docs/nic&#34;&gt;NIC page&lt;/a&gt; of &lt;a href=&#34;https://theos.dev/docs/&#34;&gt;theos.dev&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Licensed under the GNU General Public License, version 3.0, with an exception that projects created using NIC are not required to use the same license. Refer to &lt;a href=&#34;https://raw.githubusercontent.com/theos/nic/master/LICENSE.md&#34;&gt;LICENSE.md&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

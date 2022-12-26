@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:30:24Z</updated>
+  <updated>2022-12-26T01:30:23Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>d1rtym0nk3y/cyril</title>
-    <updated>2022-12-25T01:30:24Z</updated>
-    <id>tag:github.com,2022-12-25:/d1rtym0nk3y/cyril</id>
-    <link href="https://github.com/d1rtym0nk3y/cyril" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;extension of Sean Corfield&#39;s excellent FW/1&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

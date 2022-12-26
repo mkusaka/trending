@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:37:52Z</updated>
+  <updated>2022-12-26T01:37:37Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>leolost2605/Gradebook</title>
-    <updated>2022-12-25T01:37:52Z</updated>
-    <id>tag:github.com,2022-12-25:/leolost2605/Gradebook</id>
-    <link href="https://github.com/leolost2605/Gradebook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grades tracker for pupils and students.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:36:19Z</updated>
+  <updated>2022-12-26T01:36:15Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mitsuhiko/teetty</title>
+    <updated>2022-12-26T01:36:15Z</updated>
+    <id>tag:github.com,2022-12-26:/mitsuhiko/teetty</id>
+    <link href="https://github.com/mitsuhiko/teetty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bit like tee, a bit like script, but all with a fake tty. Lets you remote control and watch a process&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svix/svix-webhooks</title>
+    <updated>2022-12-26T01:36:15Z</updated>
+    <id>tag:github.com,2022-12-26:/svix/svix-webhooks</id>
+    <link href="https://github.com/svix/svix-webhooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The enterprise-ready webhooks service 🦀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

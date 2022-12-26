@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:34:09Z</updated>
+  <updated>2022-12-26T01:33:53Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aio-libs/aiohttp-demos</title>
-    <updated>2022-12-25T01:34:09Z</updated>
-    <id>tag:github.com,2022-12-25:/aio-libs/aiohttp-demos</id>
-    <link href="https://github.com/aio-libs/aiohttp-demos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demos for aiohttp project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GaryOderNichts/UStealthPlugin</title>
-    <updated>2022-12-25T01:34:09Z</updated>
-    <id>tag:github.com,2022-12-25:/GaryOderNichts/UStealthPlugin</id>
-    <link href="https://github.com/GaryOderNichts/UStealthPlugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stops the Wii U menu from complaining about &#34;PC formatted&#34; drives&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>starfive-tech/VisionFive2</title>
+    <updated>2022-12-26T01:33:53Z</updated>
+    <id>tag:github.com,2022-12-26:/starfive-tech/VisionFive2</id>
+    <link href="https://github.com/starfive-tech/VisionFive2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

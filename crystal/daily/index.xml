@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Crystal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:30:28Z</updated>
+  <updated>2022-12-26T01:30:27Z</updated>
   <subtitle>Daily Trending of Crystal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>spider-gazelle/ffmpeg</title>
-    <updated>2022-12-25T01:30:28Z</updated>
-    <id>tag:github.com,2022-12-25:/spider-gazelle/ffmpeg</id>
-    <link href="https://github.com/spider-gazelle/ffmpeg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ffmpeg crystal bindings&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

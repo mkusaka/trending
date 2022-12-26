@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:31:15Z</updated>
+  <updated>2022-12-26T01:31:13Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kototama/kindle-mode</title>
-    <updated>2022-12-25T01:31:15Z</updated>
-    <id>tag:github.com,2022-12-25:/kototama/kindle-mode</id>
-    <link href="https://github.com/kototama/kindle-mode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs minor mode for the Kindle &#39;My Clippings.txt&#39; file&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Kindle Mode&lt;/h1&gt; &#xA;&lt;p&gt;Minor-mode to extract the content of &#39;My Clippings.txt&#39; into several files (one per ebook).&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>emacsmirror/llama</title>
-    <updated>2022-12-25T01:31:15Z</updated>
-    <id>tag:github.com,2022-12-25:/emacsmirror/llama</id>
-    <link href="https://github.com/emacsmirror/llama" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compact syntax for short lambda&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This package implements the macro &lt;code&gt;##&lt;/code&gt;, which provides compact syntax for short &lt;code&gt;lambda&lt;/code&gt;&#39;s, without actually being new syntax, which would be difficult to get into Emacs.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;code&gt;##&lt;/code&gt; macro, whose signature is &lt;code&gt;(## FN &amp;amp;rest args)&lt;/code&gt;, expands to a &lt;code&gt;lambda&lt;/code&gt; expressions that wraps around its arguments.&lt;/p&gt; &#xA;&lt;p&gt;This &lt;code&gt;lambda&lt;/code&gt; expression calls the function &lt;code&gt;FN&lt;/code&gt; with arguments ARGS and returns its value. Its own arguments are derived from symbols found in &lt;code&gt;ARGS&lt;/code&gt;. Each symbol from &lt;code&gt;%1&lt;/code&gt; through &lt;code&gt;%9&lt;/code&gt; that appears in &lt;code&gt;ARGS&lt;/code&gt; is treated as a positional argument. Missing arguments are named &lt;code&gt;_%N&lt;/code&gt;, which keeps the byte-compiler quiet. &lt;code&gt;%&lt;/code&gt; is a shorthand for &lt;code&gt;%1&lt;/code&gt;; only one of these can appear in ARGS. &lt;code&gt;%*&lt;/code&gt; represents extra &lt;code&gt;&amp;amp;rest&lt;/code&gt; arguments.&lt;/p&gt; &#xA;&lt;p&gt;Instead of:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(lambda (a _ c &amp;amp;rest d)&#xA;  (foo a (bar c) d))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;you can use this macro and write:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(##foo % (bar %3) %*)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;which expands to:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(lambda (% _%2 %3 &amp;amp;rest %*)&#xA;  (foo % (bar %3) %*))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The name &lt;code&gt;##&lt;/code&gt; was choosen because that allows (optionally) omitting the whitespace between it and the following symbol. It also looks a bit like &lt;code&gt;#&#39;foo&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

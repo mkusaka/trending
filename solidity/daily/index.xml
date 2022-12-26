@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:36:58Z</updated>
+  <updated>2022-12-26T01:36:45Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emo-eth/create2-helpers</title>
-    <updated>2022-12-25T01:36:58Z</updated>
-    <id>tag:github.com,2022-12-25:/emo-eth/create2-helpers</id>
-    <link href="https://github.com/emo-eth/create2-helpers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helpers for deploying smart contracts to multiple chains with CREATE2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ChainShot/Local-Hardhat-Games</title>
+    <updated>2022-12-26T01:36:45Z</updated>
+    <id>tag:github.com,2022-12-26:/ChainShot/Local-Hardhat-Games</id>
+    <link href="https://github.com/ChainShot/Local-Hardhat-Games" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>evmcheb/solarray</title>
-    <updated>2022-12-25T01:36:58Z</updated>
-    <id>tag:github.com,2022-12-25:/evmcheb/solarray</id>
-    <link href="https://github.com/evmcheb/solarray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A blazing-fast helper library for convenient Solidity dynamic arrays&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emo-eth/upgradeable-storage-checks</title>
+    <updated>2022-12-26T01:36:45Z</updated>
+    <id>tag:github.com,2022-12-26:/emo-eth/upgradeable-storage-checks</id>
+    <link href="https://github.com/emo-eth/upgradeable-storage-checks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example setup of Forge tests and CI to do basic checks for storage collisions when iterating on upgradeable contract implementations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spalladino/zkp-tests</title>
+    <updated>2022-12-26T01:36:45Z</updated>
+    <id>tag:github.com,2022-12-26:/spalladino/zkp-tests</id>
+    <link href="https://github.com/spalladino/zkp-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing with zero-knowledge proof languages&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

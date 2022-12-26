@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:36:32Z</updated>
+  <updated>2022-12-26T01:36:27Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Varneon/VUdon-Udonity</title>
-    <updated>2022-12-25T01:36:32Z</updated>
-    <id>tag:github.com,2022-12-25:/Varneon/VUdon-Udonity</id>
-    <link href="https://github.com/Varneon/VUdon-Udonity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Runtime Unity Editor made with Udon for editing VRChat worlds in game&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>opencodeiiita/ZoombieMania-</title>
+    <updated>2022-12-26T01:36:27Z</updated>
+    <id>tag:github.com,2022-12-26:/opencodeiiita/ZoombieMania-</id>
+    <link href="https://github.com/opencodeiiita/ZoombieMania-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 3d zombie survival shooter game made with Unity Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NSmocker/ITStep_Platformer</title>
+    <updated>2022-12-26T01:36:27Z</updated>
+    <id>tag:github.com,2022-12-26:/NSmocker/ITStep_Platformer</id>
+    <link href="https://github.com/NSmocker/ITStep_Platformer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

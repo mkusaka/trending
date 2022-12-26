@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-25T01:31:40Z</updated>
+  <updated>2022-12-26T01:31:44Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cloudofoz/godot-curvemesh</title>
-    <updated>2022-12-25T01:31:40Z</updated>
-    <id>tag:github.com,2022-12-25:/cloudofoz/godot-curvemesh</id>
-    <link href="https://github.com/cloudofoz/godot-curvemesh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Addon to generate customizable cylindrical meshes from 3D curves&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
