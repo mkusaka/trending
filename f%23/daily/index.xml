@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:31:35Z</updated>
+  <updated>2022-12-27T01:31:54Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elmish/react</title>
+    <updated>2022-12-27T01:31:54Z</updated>
+    <id>tag:github.com,2022-12-27:/elmish/react</id>
+    <link href="https://github.com/elmish/react" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elmish React extensions for writing SPA and Native apps&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Elmish-React: React extensions for &lt;a href=&#34;https://github.com/elmish/elmish&#34;&gt;elmish&lt;/a&gt; applications.&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ci.appveyor.com/project/et1975/react/branch/v4.x&#34;&gt;&lt;img src=&#34;https://ci.appveyor.com/api/projects/status/vg3200aksdbvx5me/branch/v4.x?svg=true&#34; alt=&#34;Windows Build&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://badge.fury.io/nu/Fable.Elmish.React&#34;&gt;&lt;img src=&#34;https://badge.fury.io/nu/Fable.Elmish.React.svg?sanitize=true&#34; alt=&#34;NuGet version&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;React and ReactNative support for Elmish apps.&lt;/p&gt; &#xA;&lt;p&gt;For more information see &lt;a href=&#34;https://elmish.github.io/react&#34;&gt;the docs&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;The easiest way to start with Elmish and React is to use the &lt;a href=&#34;https://github.com/elmish/templates&#34;&gt;template&lt;/a&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;dotnet new -i &#34;Fable.Template.Elmish.React::*&#34;&#xA;dotnet new fable-elmish-react -n MyProject&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Alternatively, you can just add it to an existing project via paket:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;paket add nuget Fable.Elmish.React&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;As with any JS dependency, if you are authoring an application (as opposed to a library), you&#39;ll also need to install React (separately, via &lt;code&gt;npm&lt;/code&gt; or &lt;code&gt;yarn&lt;/code&gt;):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;yarn add react react-dom&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

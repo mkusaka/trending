@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:31:10Z</updated>
+  <updated>2022-12-27T01:31:36Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BeaconCMS/beacon_demo</title>
-    <updated>2022-12-26T01:31:10Z</updated>
-    <id>tag:github.com,2022-12-26:/BeaconCMS/beacon_demo</id>
-    <link href="https://github.com/BeaconCMS/beacon_demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample application running Beacon, a open-source content management system (CMS) built with Phoenix LiveView.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kipcole9/text</title>
+    <updated>2022-12-27T01:31:36Z</updated>
+    <id>tag:github.com,2022-12-27:/kipcole9/text</id>
+    <link href="https://github.com/kipcole9/text" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Text detection and processing for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>crypto-org-chain/cronos-blockscout</title>
-    <updated>2022-12-26T01:31:10Z</updated>
-    <id>tag:github.com,2022-12-26:/crypto-org-chain/cronos-blockscout</id>
-    <link href="https://github.com/crypto-org-chain/cronos-blockscout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bratsche/twix</title>
+    <updated>2022-12-27T01:31:36Z</updated>
+    <id>tag:github.com,2022-12-27:/bratsche/twix</id>
+    <link href="https://github.com/bratsche/twix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tailwind class merging in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

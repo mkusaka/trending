@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:32:18Z</updated>
+  <updated>2022-12-27T01:32:36Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudxeus/terraform-azure</title>
-    <updated>2022-12-26T01:32:18Z</updated>
-    <id>tag:github.com,2022-12-26:/cloudxeus/terraform-azure</id>
-    <link href="https://github.com/cloudxeus/terraform-azure" rel="alternate"></link>
+    <title>CiscoDevNet/terraform-sdwan</title>
+    <updated>2022-12-27T01:32:36Z</updated>
+    <id>tag:github.com,2022-12-27:/CiscoDevNet/terraform-sdwan</id>
+    <link href="https://github.com/CiscoDevNet/terraform-sdwan" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hashicorp/terraform-google-nomad</title>
-    <updated>2022-12-26T01:32:18Z</updated>
-    <id>tag:github.com,2022-12-26:/hashicorp/terraform-google-nomad</id>
-    <link href="https://github.com/hashicorp/terraform-google-nomad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform Module for how to run Nomad on Google Cloud using Terraform and Packer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zantorym/ACS-Final-Project</title>
-    <updated>2022-12-26T01:32:18Z</updated>
-    <id>tag:github.com,2022-12-26:/Zantorym/ACS-Final-Project</id>
-    <link href="https://github.com/Zantorym/ACS-Final-Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ACS730 NAA final project, fall &#39;22, group 13&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>asecurityguru/terraform-ec2-jenkins-aws-k8s-infra-creation</title>
+    <updated>2022-12-27T01:32:36Z</updated>
+    <id>tag:github.com,2022-12-27:/asecurityguru/terraform-ec2-jenkins-aws-k8s-infra-creation</id>
+    <link href="https://github.com/asecurityguru/terraform-ec2-jenkins-aws-k8s-infra-creation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

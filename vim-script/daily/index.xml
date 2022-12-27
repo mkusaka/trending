@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:37:42Z</updated>
+  <updated>2022-12-27T01:38:05Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>direnv/direnv.vim</title>
-    <updated>2022-12-26T01:37:42Z</updated>
-    <id>tag:github.com,2022-12-26:/direnv/direnv.vim</id>
-    <link href="https://github.com/direnv/direnv.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim plugin for direnv support&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mattn/vim-chatgpt</title>
+    <updated>2022-12-27T01:38:05Z</updated>
+    <id>tag:github.com,2022-12-27:/mattn/vim-chatgpt</id>
+    <link href="https://github.com/mattn/vim-chatgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>glts/vim-textobj-comment</title>
-    <updated>2022-12-26T01:37:42Z</updated>
-    <id>tag:github.com,2022-12-26:/glts/vim-textobj-comment</id>
-    <link href="https://github.com/glts/vim-textobj-comment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim text objects for comments&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kamykn/spelunker.vim</title>
+    <updated>2022-12-27T01:38:05Z</updated>
+    <id>tag:github.com,2022-12-27:/kamykn/spelunker.vim</id>
+    <link href="https://github.com/kamykn/spelunker.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Improved vim spelling plugin (with camel case support)!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:34:07Z</updated>
+  <updated>2022-12-27T01:34:49Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>c-blake/cligen</title>
-    <updated>2022-12-26T01:34:07Z</updated>
-    <id>tag:github.com,2022-12-26:/c-blake/cligen</id>
-    <link href="https://github.com/c-blake/cligen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ee7/binary-size</title>
-    <updated>2022-12-26T01:34:07Z</updated>
-    <id>tag:github.com,2022-12-26:/ee7/binary-size</id>
-    <link href="https://github.com/ee7/binary-size" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nim binary size&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paranim/parazoa</title>
+    <updated>2022-12-27T01:34:49Z</updated>
+    <id>tag:github.com,2022-12-27:/paranim/parazoa</id>
+    <link href="https://github.com/paranim/parazoa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Immutable data for Nim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

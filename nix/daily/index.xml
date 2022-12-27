@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:34:09Z</updated>
+  <updated>2022-12-27T01:34:52Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Mic92/dotfiles</title>
+    <updated>2022-12-27T01:34:52Z</updated>
+    <id>tag:github.com,2022-12-27:/Mic92/dotfiles</id>
+    <link href="https://github.com/Mic92/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My NixOS dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>divnix/flops</title>
+    <updated>2022-12-27T01:34:52Z</updated>
+    <id>tag:github.com,2022-12-27:/divnix/flops</id>
+    <link href="https://github.com/divnix/flops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flake Pops&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

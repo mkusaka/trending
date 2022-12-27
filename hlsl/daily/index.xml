@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:32:15Z</updated>
+  <updated>2022-12-27T01:32:34Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ozlael/PlannarShadowForUnity</title>
+    <updated>2022-12-27T01:32:34Z</updated>
+    <id>tag:github.com,2022-12-27:/ozlael/PlannarShadowForUnity</id>
+    <link href="https://github.com/ozlael/PlannarShadowForUnity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Planar Shadow is very cheap and useful for mobile games.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

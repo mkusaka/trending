@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:37:45Z</updated>
+  <updated>2022-12-27T01:38:08Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lost-ark-dev/loa-details</title>
-    <updated>2022-12-26T01:37:45Z</updated>
-    <id>tag:github.com,2022-12-26:/lost-ark-dev/loa-details</id>
-    <link href="https://github.com/lost-ark-dev/loa-details" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LOA Details allows you to track real-time stats of the game Lost Ark and view and parse its logged data.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>one-among-us/tg-blog</title>
+    <updated>2022-12-27T01:38:08Z</updated>
+    <id>tag:github.com,2022-12-27:/one-among-us/tg-blog</id>
+    <link href="https://github.com/one-among-us/tg-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Display telegram channel like a blog&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dargmuesli/creal</title>
-    <updated>2022-12-26T01:37:45Z</updated>
-    <id>tag:github.com,2022-12-26:/dargmuesli/creal</id>
-    <link href="https://github.com/dargmuesli/creal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cReal&#39;s website.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hrynko/vue-pdf-embed</title>
+    <updated>2022-12-27T01:38:08Z</updated>
+    <id>tag:github.com,2022-12-27:/hrynko/vue-pdf-embed</id>
+    <link href="https://github.com/hrynko/vue-pdf-embed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PDF embed component for Vue 2 and Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sapic/sapic</title>
-    <updated>2022-12-26T01:37:45Z</updated>
-    <id>tag:github.com,2022-12-26:/sapic/sapic</id>
-    <link href="https://github.com/sapic/sapic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A useful tool to crop your Steam profile background for showcases.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elirehema/vsoap</title>
+    <updated>2022-12-27T01:38:08Z</updated>
+    <id>tag:github.com,2022-12-27:/elirehema/vsoap</id>
+    <link href="https://github.com/elirehema/vsoap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:36:52Z</updated>
+  <updated>2022-12-27T01:37:20Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huntabyte/showcase</title>
-    <updated>2022-12-26T01:36:52Z</updated>
-    <id>tag:github.com,2022-12-26:/huntabyte/showcase</id>
-    <link href="https://github.com/huntabyte/showcase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full stack application built with SvelteKit &amp; PocketBase.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>beyonk-adventures/svelte-mapbox</title>
-    <updated>2022-12-26T01:36:52Z</updated>
-    <id>tag:github.com,2022-12-26:/beyonk-adventures/svelte-mapbox</id>
-    <link href="https://github.com/beyonk-adventures/svelte-mapbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MapBox Map and Autocomplete components for Svelte (or Vanilla JS)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Alia5/lovelace-expander-card</title>
+    <updated>2022-12-27T01:37:20Z</updated>
+    <id>tag:github.com,2022-12-27:/Alia5/lovelace-expander-card</id>
+    <link href="https://github.com/Alia5/lovelace-expander-card" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Expander card for HomeAssistant&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

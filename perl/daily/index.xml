@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:34:41Z</updated>
+  <updated>2022-12-27T01:35:23Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>theos/nic</title>
-    <updated>2022-12-26T01:34:41Z</updated>
-    <id>tag:github.com,2022-12-26:/theos/nic</id>
-    <link href="https://github.com/theos/nic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generates Theos projects based on a template.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;New Instance Creator&lt;/h1&gt; &#xA;&lt;p&gt;The New Instance Creator (you can call him Nicolas!) is a tool used alongside the &lt;a href=&#34;https://theos.dev/docs/&#34;&gt;Theos&lt;/a&gt; build system to generate the boilerplate for a project or subproject. It can ask questions to help you fill in certain details such as the project name. NIC templates are tar archives with a certain structure that NIC can understand. NIC was once integrated in the same Git repo as Theos, but now has been decoupled from Theos to its own repo.&lt;/p&gt; &#xA;&lt;p&gt;Documentation is available on the &lt;a href=&#34;https://theos.dev/docs/nic&#34;&gt;NIC page&lt;/a&gt; of &lt;a href=&#34;https://theos.dev/docs/&#34;&gt;theos.dev&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Licensed under the GNU General Public License, version 3.0, with an exception that projects created using NIC are not required to use the same license. Refer to &lt;a href=&#34;https://raw.githubusercontent.com/theos/nic/master/LICENSE.md&#34;&gt;LICENSE.md&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

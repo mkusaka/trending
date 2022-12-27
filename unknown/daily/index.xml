@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-26T01:29:06Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-12-27T01:29:24Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>louisfb01/best_AI_papers_2022</title>
-    <updated>2022-12-26T01:29:06Z</updated>
-    <id>tag:github.com,2022-12-26:/louisfb01/best_AI_papers_2022</id>
-    <link href="https://github.com/louisfb01/best_AI_papers_2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Anugrahsr/Awesome-web3-Security</title>
+    <updated>2022-12-27T01:29:24Z</updated>
+    <id>tag:github.com,2022-12-27:/Anugrahsr/Awesome-web3-Security</id>
+    <link href="https://github.com/Anugrahsr/Awesome-web3-Security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of web3Security materials and resources For Pentesters and Bug Hunters.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gaganode/gaga_android_sdk</title>
-    <updated>2022-12-26T01:29:06Z</updated>
-    <id>tag:github.com,2022-12-26:/gaganode/gaga_android_sdk</id>
-    <link href="https://github.com/gaganode/gaga_android_sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;gaga_android_sdk&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shuaibiyy/awesome-terraform</title>
+    <updated>2022-12-27T01:29:24Z</updated>
+    <id>tag:github.com,2022-12-27:/shuaibiyy/awesome-terraform</id>
+    <link href="https://github.com/shuaibiyy/awesome-terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of resources on HashiCorp&#39;s Terraform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LuNiZz/siber-guvenlik-sss</title>
-    <updated>2022-12-26T01:29:06Z</updated>
-    <id>tag:github.com,2022-12-26:/LuNiZz/siber-guvenlik-sss</id>
-    <link href="https://github.com/LuNiZz/siber-guvenlik-sss" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SSS sorulari burada...&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>afshinea/stanford-cs-229-machine-learning</title>
+    <updated>2022-12-27T01:29:24Z</updated>
+    <id>tag:github.com,2022-12-27:/afshinea/stanford-cs-229-machine-learning</id>
+    <link href="https://github.com/afshinea/stanford-cs-229-machine-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VIP cheatsheets for Stanford&#39;s CS 229 Machine Learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
