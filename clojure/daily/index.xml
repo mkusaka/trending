@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-27T01:30:35Z</updated>
+  <updated>2022-12-28T01:32:14Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clojure/math.numeric-tower</title>
-    <updated>2022-12-27T01:30:35Z</updated>
-    <id>tag:github.com,2022-12-27:/clojure/math.numeric-tower</id>
-    <link href="https://github.com/clojure/math.numeric-tower" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nukep/doom-calculator</title>
+    <updated>2022-12-28T01:32:14Z</updated>
+    <id>tag:github.com,2022-12-28:/nukep/doom-calculator</id>
+    <link href="https://github.com/nukep/doom-calculator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An adding machine implemented in Doom&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

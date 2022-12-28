@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-27T01:35:16Z</updated>
+  <updated>2022-12-28T01:37:00Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Peihao2021/O-NKU</title>
-    <updated>2022-12-27T01:35:16Z</updated>
-    <id>tag:github.com,2022-12-27:/Peihao2021/O-NKU</id>
-    <link href="https://github.com/Peihao2021/O-NKU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Welcome to O-NKU!&lt;/h1&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Peihao2021/O-NKU/master/www.onku.ink&#34;&gt;www.onku.ink&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h3&gt;GOAL:&lt;/h3&gt; &#xA;&lt;p&gt;I am a TA of the Calculus 1 in 2022 fall, and I found a lot of students, especially the freshmen, are confused about how to learn in the university. Some of them don&#39;t know what to do and some of them are hesitated when facing various textbooks and exercises.&lt;br&gt; As a result, I esablished this website to upload some interesting problems of basic subjects in college education which includes&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Mathematics&lt;/li&gt; &#xA; &lt;li&gt;Computer Science&lt;/li&gt; &#xA; &lt;li&gt;English&lt;/li&gt; &#xA; &lt;li&gt;Physics and Chemistry&lt;/li&gt; &#xA; &lt;li&gt;Finance and Economics&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h4&gt;I hope you can lay a solid foundation in these critical courses by doing some high-quality exercises. &lt;a href=&#34;https://raw.githubusercontent.com/Peihao2021/O-NKU/master/www.onku.ink&#34;&gt;The website&lt;/a&gt; is still developing and will upload more awesome exercises in the upcoming future.&lt;/h4&gt; &#xA;&lt;h4&gt;Enjoy yourself !&lt;/h4&gt;</summary>
-  </entry>
 </feed>

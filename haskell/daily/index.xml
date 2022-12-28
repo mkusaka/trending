@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-27T01:32:25Z</updated>
+  <updated>2022-12-28T01:33:55Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mrphlip/aoc</title>
-    <updated>2022-12-27T01:32:25Z</updated>
-    <id>tag:github.com,2022-12-27:/mrphlip/aoc</id>
-    <link href="https://github.com/mrphlip/aoc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advent of Code&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Advent of Code&lt;/h1&gt; &#xA;&lt;p&gt;A repository for my solutions to &lt;a href=&#34;https://adventofcode.com/&#34;&gt;Advent of Code&lt;/a&gt;. See the subdirectories for:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/mrphlip/aoc/master/2019&#34;&gt;2019&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/mrphlip/aoc/master/2020&#34;&gt;2020&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/mrphlip/aoc/master/2021&#34;&gt;2021&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/mrphlip/aoc/master/2022&#34;&gt;2022&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

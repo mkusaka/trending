@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-27T01:38:08Z</updated>
+  <updated>2022-12-28T01:40:06Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>one-among-us/tg-blog</title>
-    <updated>2022-12-27T01:38:08Z</updated>
-    <id>tag:github.com,2022-12-27:/one-among-us/tg-blog</id>
-    <link href="https://github.com/one-among-us/tg-blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Display telegram channel like a blog&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hrynko/vue-pdf-embed</title>
-    <updated>2022-12-27T01:38:08Z</updated>
-    <id>tag:github.com,2022-12-27:/hrynko/vue-pdf-embed</id>
-    <link href="https://github.com/hrynko/vue-pdf-embed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PDF embed component for Vue 2 and Vue 3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elirehema/vsoap</title>
-    <updated>2022-12-27T01:38:08Z</updated>
-    <id>tag:github.com,2022-12-27:/elirehema/vsoap</id>
-    <link href="https://github.com/elirehema/vsoap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jd-solanki/anu</title>
+    <updated>2022-12-28T01:40:06Z</updated>
+    <id>tag:github.com,2022-12-28:/jd-solanki/anu</id>
+    <link href="https://github.com/jd-solanki/anu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Anu - DX focused utility based vue component library built on top of UnoCSS &amp; VueUse ⚡️🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

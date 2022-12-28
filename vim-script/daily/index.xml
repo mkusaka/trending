@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-27T01:38:05Z</updated>
+  <updated>2022-12-28T01:40:03Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mattn/vim-chatgpt</title>
-    <updated>2022-12-27T01:38:05Z</updated>
-    <id>tag:github.com,2022-12-27:/mattn/vim-chatgpt</id>
-    <link href="https://github.com/mattn/vim-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dhruvasagar/vim-zoom</title>
+    <updated>2022-12-28T01:40:03Z</updated>
+    <id>tag:github.com,2022-12-28:/dhruvasagar/vim-zoom</id>
+    <link href="https://github.com/dhruvasagar/vim-zoom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toggle zoom in / out individual windows (splits)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kamykn/spelunker.vim</title>
-    <updated>2022-12-27T01:38:05Z</updated>
-    <id>tag:github.com,2022-12-27:/kamykn/spelunker.vim</id>
-    <link href="https://github.com/kamykn/spelunker.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Improved vim spelling plugin (with camel case support)!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AndrewRadev/id3.vim</title>
+    <updated>2022-12-28T01:40:03Z</updated>
+    <id>tag:github.com,2022-12-28:/AndrewRadev/id3.vim</id>
+    <link href="https://github.com/AndrewRadev/id3.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#34;Edit&#34; mp3 files with Vim, or rather, their ID3 tags&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lifepillar/vim-solarized8</title>
+    <updated>2022-12-28T01:40:03Z</updated>
+    <id>tag:github.com,2022-12-28:/lifepillar/vim-solarized8</id>
+    <link href="https://github.com/lifepillar/vim-solarized8" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Optimized Solarized colorschemes. Best served with true-color terminals!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

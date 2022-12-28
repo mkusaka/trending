@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-27T01:34:36Z</updated>
+  <updated>2022-12-28T01:36:18Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>verygenericname/TrollLock</title>
+    <updated>2022-12-28T01:36:18Z</updated>
+    <id>tag:github.com,2022-12-28:/verygenericname/TrollLock</id>
+    <link href="https://github.com/verygenericname/TrollLock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Change the faceID glyph into a TrollFace&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TrustTheVote-Project/VTP-RCV-demo</title>
+    <updated>2022-12-28T01:36:18Z</updated>
+    <id>tag:github.com,2022-12-28:/TrustTheVote-Project/VTP-RCV-demo</id>
+    <link href="https://github.com/TrustTheVote-Project/VTP-RCV-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for a possible first live demo spring 2023&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>X-CBG/xk8s</title>
+    <updated>2022-12-28T01:36:18Z</updated>
+    <id>tag:github.com,2022-12-28:/X-CBG/xk8s</id>
+    <link href="https://github.com/X-CBG/xk8s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
