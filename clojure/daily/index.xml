@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-28T01:32:14Z</updated>
+  <updated>2022-12-29T01:30:28Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nukep/doom-calculator</title>
-    <updated>2022-12-28T01:32:14Z</updated>
-    <id>tag:github.com,2022-12-28:/nukep/doom-calculator</id>
-    <link href="https://github.com/nukep/doom-calculator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An adding machine implemented in Doom&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imteekay/functional-programming-learning-path</title>
+    <updated>2022-12-29T01:30:28Z</updated>
+    <id>tag:github.com,2022-12-29:/imteekay/functional-programming-learning-path</id>
+    <link href="https://github.com/imteekay/functional-programming-learning-path" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Learning Path for Functional Programming&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Raynes/laser</title>
+    <updated>2022-12-29T01:30:28Z</updated>
+    <id>tag:github.com,2022-12-29:/Raynes/laser</id>
+    <link href="https://github.com/Raynes/laser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTML transformation/templating for people who do that sort of thing and stuff&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vvvvalvalval/scope-capture</title>
+    <updated>2022-12-29T01:30:28Z</updated>
+    <id>tag:github.com,2022-12-29:/vvvvalvalval/scope-capture</id>
+    <link href="https://github.com/vvvvalvalval/scope-capture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project your Clojure(Script) REPL into the same context as your code when it ran&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

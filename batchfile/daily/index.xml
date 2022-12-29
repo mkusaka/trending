@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-28T01:31:38Z</updated>
+  <updated>2022-12-29T01:29:41Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Deffnohy/Free-RDP-</title>
+    <updated>2022-12-29T01:29:41Z</updated>
+    <id>tag:github.com,2022-12-29:/Deffnohy/Free-RDP-</id>
+    <link href="https://github.com/Deffnohy/Free-RDP-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RDP Gratis lagi cuy&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>miyouzi/bilibili_organizer</title>
+    <updated>2022-12-29T01:29:41Z</updated>
+    <id>tag:github.com,2022-12-29:/miyouzi/bilibili_organizer</id>
+    <link href="https://github.com/miyouzi/bilibili_organizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一键将B站客户端缓存整理成适合在Win下观看&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>greencodedev/RDPserver</title>
+    <updated>2022-12-29T01:29:41Z</updated>
+    <id>tag:github.com,2022-12-29:/greencodedev/RDPserver</id>
+    <link href="https://github.com/greencodedev/RDPserver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

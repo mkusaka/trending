@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-28T01:38:27Z</updated>
+  <updated>2022-12-29T01:36:19Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>orhun/git-cliff</title>
-    <updated>2022-12-28T01:38:27Z</updated>
-    <id>tag:github.com,2022-12-28:/orhun/git-cliff</id>
-    <link href="https://github.com/orhun/git-cliff" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nate-sys/muc</title>
+    <updated>2022-12-29T01:36:19Z</updated>
+    <id>tag:github.com,2022-12-29:/nate-sys/muc</id>
+    <link href="https://github.com/nate-sys/muc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Visualize your most used commands&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rajarshimaitra/rust-nostr</title>
-    <updated>2022-12-28T01:38:27Z</updated>
-    <id>tag:github.com,2022-12-28:/rajarshimaitra/rust-nostr</id>
-    <link href="https://github.com/rajarshimaitra/rust-nostr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Stage 2 building block to reach the dream of DSNs with Bitcoin DeFi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DioxusLabs/example-projects</title>
+    <updated>2022-12-29T01:36:19Z</updated>
+    <id>tag:github.com,2022-12-29:/DioxusLabs/example-projects</id>
+    <link href="https://github.com/DioxusLabs/example-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Featured Dioxus projects on how to build clean user interfaces in Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

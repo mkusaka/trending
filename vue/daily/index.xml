@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-28T01:40:06Z</updated>
+  <updated>2022-12-29T01:38:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jd-solanki/anu</title>
-    <updated>2022-12-28T01:40:06Z</updated>
-    <id>tag:github.com,2022-12-28:/jd-solanki/anu</id>
-    <link href="https://github.com/jd-solanki/anu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Anu - DX focused utility based vue component library built on top of UnoCSS &amp; VueUse ⚡️🔥&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bborn/howdoi.ai</title>
+    <updated>2022-12-29T01:38:04Z</updated>
+    <id>tag:github.com,2022-12-29:/bborn/howdoi.ai</id>
+    <link href="https://github.com/bborn/howdoi.ai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;howdoi.ai&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gwen001/offsectools_www</title>
+    <updated>2022-12-29T01:38:04Z</updated>
+    <id>tag:github.com,2022-12-29:/gwen001/offsectools_www</id>
+    <link href="https://github.com/gwen001/offsectools_www" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vast collection of security tools.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

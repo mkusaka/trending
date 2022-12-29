@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-28T01:38:39Z</updated>
+  <updated>2022-12-29T01:36:32Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>2factorauth/frontend</title>
-    <updated>2022-12-28T01:38:39Z</updated>
-    <id>tag:github.com,2022-12-28:/2factorauth/frontend</id>
-    <link href="https://github.com/2factorauth/frontend" rel="alternate"></link>
+    <title>tcrs-ws/tcrs-ws.github.io</title>
+    <updated>2022-12-29T01:36:32Z</updated>
+    <id>tag:github.com,2022-12-29:/tcrs-ws/tcrs-ws.github.io</id>
+    <link href="https://github.com/tcrs-ws/tcrs-ws.github.io" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DACSS/601_Winter_2022-2023</title>
-    <updated>2022-12-28T01:38:39Z</updated>
-    <id>tag:github.com,2022-12-28:/DACSS/601_Winter_2022-2023</id>
-    <link href="https://github.com/DACSS/601_Winter_2022-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Winter 2022-2023 blog&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wong2/chat-gpt-google-extension</title>
-    <updated>2022-12-28T01:38:39Z</updated>
-    <id>tag:github.com,2022-12-28:/wong2/chat-gpt-google-extension</id>
-    <link href="https://github.com/wong2/chat-gpt-google-extension" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A browser extension to display ChatGPT response alongside search engine results&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

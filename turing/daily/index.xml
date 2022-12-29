@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Turing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-28T01:39:44Z</updated>
+  <updated>2022-12-29T01:37:44Z</updated>
   <subtitle>Daily Trending of Turing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hawk86104/vue3-ts-cesium-map-show</title>
+    <updated>2022-12-29T01:37:44Z</updated>
+    <id>tag:github.com,2022-12-29:/hawk86104/vue3-ts-cesium-map-show</id>
+    <link href="https://github.com/hawk86104/vue3-ts-cesium-map-show" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥前端 vue3.0 + typescript 三维可视化 数字城市 数字孪生 选用 cesium开源GIS库 加入 主流地图 WebGL效果 完全开源 配合后台 实现可视化编辑保存&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

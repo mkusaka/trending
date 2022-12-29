@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-28T01:31:03Z</updated>
+  <updated>2022-12-29T01:29:08Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sadanandpai/frontend-learning-kit</title>
-    <updated>2022-12-28T01:31:03Z</updated>
-    <id>tag:github.com,2022-12-28:/sadanandpai/frontend-learning-kit</id>
-    <link href="https://github.com/sadanandpai/frontend-learning-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Frontend tech guide and curated collection of frontend materials&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mouredev/retos-programacion-2023</title>
+    <updated>2022-12-29T01:29:08Z</updated>
+    <id>tag:github.com,2022-12-29:/mouredev/retos-programacion-2023</id>
+    <link href="https://github.com/mouredev/retos-programacion-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>youssefHosni/Data-Science-Interview-Questions-Answers</title>
-    <updated>2022-12-28T01:31:03Z</updated>
-    <id>tag:github.com,2022-12-28:/youssefHosni/Data-Science-Interview-Questions-Answers</id>
-    <link href="https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>riramar/Web-Attack-Cheat-Sheet</title>
+    <updated>2022-12-29T01:29:08Z</updated>
+    <id>tag:github.com,2022-12-29:/riramar/Web-Attack-Cheat-Sheet</id>
+    <link href="https://github.com/riramar/Web-Attack-Cheat-Sheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web Attack Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>atakankizilyuce/makine-ogrenmesi-turkce</title>
-    <updated>2022-12-28T01:31:03Z</updated>
-    <id>tag:github.com,2022-12-28:/atakankizilyuce/makine-ogrenmesi-turkce</id>
-    <link href="https://github.com/atakankizilyuce/makine-ogrenmesi-turkce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Makine öğrenmesi ve Derin öğrenme hakkında bulduğum Türkçe kaynaklar.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imran-parray/Mind-Maps</title>
+    <updated>2022-12-29T01:29:08Z</updated>
+    <id>tag:github.com,2022-12-29:/imran-parray/Mind-Maps</id>
+    <link href="https://github.com/imran-parray/Mind-Maps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mind-Maps of Several Things&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
