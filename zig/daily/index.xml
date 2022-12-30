@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-29T01:38:14Z</updated>
+  <updated>2022-12-30T01:42:36Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fubark/cyber</title>
-    <updated>2022-12-29T01:38:14Z</updated>
-    <id>tag:github.com,2022-12-29:/fubark/cyber</id>
-    <link href="https://github.com/fubark/cyber" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast and concurrent scripting.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>katafrakt/zig-ruby</title>
-    <updated>2022-12-29T01:38:14Z</updated>
-    <id>tag:github.com,2022-12-29:/katafrakt/zig-ruby</id>
-    <link href="https://github.com/katafrakt/zig-ruby" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

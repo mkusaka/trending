@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-29T01:36:32Z</updated>
+  <updated>2022-12-30T01:40:32Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tcrs-ws/tcrs-ws.github.io</title>
-    <updated>2022-12-29T01:36:32Z</updated>
-    <id>tag:github.com,2022-12-29:/tcrs-ws/tcrs-ws.github.io</id>
-    <link href="https://github.com/tcrs-ws/tcrs-ws.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cobiwave/simplefolio</title>
+    <updated>2022-12-30T01:40:32Z</updated>
+    <id>tag:github.com,2022-12-30:/cobiwave/simplefolio</id>
+    <link href="https://github.com/cobiwave/simplefolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡️ A minimal portfolio template for Developers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

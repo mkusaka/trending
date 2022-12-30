@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-29T01:37:03Z</updated>
+  <updated>2022-12-30T01:41:00Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Decurity/semgrep-smart-contracts</title>
-    <updated>2022-12-29T01:37:03Z</updated>
-    <id>tag:github.com,2022-12-29:/Decurity/semgrep-smart-contracts</id>
-    <link href="https://github.com/Decurity/semgrep-smart-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Semgrep rules for smart contracts based on DeFi exploits&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GitverseEth/gitverse</title>
+    <updated>2022-12-30T01:41:00Z</updated>
+    <id>tag:github.com,2022-12-30:/GitverseEth/gitverse</id>
+    <link href="https://github.com/GitverseEth/gitverse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>orochi-network/orochimaru</title>
-    <updated>2022-12-29T01:37:03Z</updated>
-    <id>tag:github.com,2022-12-29:/orochi-network/orochimaru</id>
-    <link href="https://github.com/orochi-network/orochimaru" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Orochi Network Full-node Client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dappuniversity/blockchain_game</title>
+    <updated>2022-12-30T01:41:00Z</updated>
+    <id>tag:github.com,2022-12-30:/dappuniversity/blockchain_game</id>
+    <link href="https://github.com/dappuniversity/blockchain_game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

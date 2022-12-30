@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-29T01:29:08Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2022-12-30T01:31:06Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mouredev/retos-programacion-2023</title>
-    <updated>2022-12-29T01:29:08Z</updated>
-    <id>tag:github.com,2022-12-29:/mouredev/retos-programacion-2023</id>
-    <link href="https://github.com/mouredev/retos-programacion-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gabiduarte/awesome-techleads</title>
+    <updated>2022-12-30T01:31:06Z</updated>
+    <id>tag:github.com,2022-12-30:/gabiduarte/awesome-techleads</id>
+    <link href="https://github.com/gabiduarte/awesome-techleads" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>riramar/Web-Attack-Cheat-Sheet</title>
-    <updated>2022-12-29T01:29:08Z</updated>
-    <id>tag:github.com,2022-12-29:/riramar/Web-Attack-Cheat-Sheet</id>
-    <link href="https://github.com/riramar/Web-Attack-Cheat-Sheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web Attack Cheat Sheet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/RoadDetections</title>
+    <updated>2022-12-30T01:31:06Z</updated>
+    <id>tag:github.com,2022-12-30:/microsoft/RoadDetections</id>
+    <link href="https://github.com/microsoft/RoadDetections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Road detections from Microsoft Maps aerial imagery&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>imran-parray/Mind-Maps</title>
-    <updated>2022-12-29T01:29:08Z</updated>
-    <id>tag:github.com,2022-12-29:/imran-parray/Mind-Maps</id>
-    <link href="https://github.com/imran-parray/Mind-Maps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mind-Maps of Several Things&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>matter-labs/awesome-zero-knowledge-proofs</title>
+    <updated>2022-12-30T01:31:06Z</updated>
+    <id>tag:github.com,2022-12-30:/matter-labs/awesome-zero-knowledge-proofs</id>
+    <link href="https://github.com/matter-labs/awesome-zero-knowledge-proofs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

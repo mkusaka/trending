@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-29T01:37:59Z</updated>
+  <updated>2022-12-30T01:42:19Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>steveicarus/ivtest</title>
-    <updated>2022-12-29T01:37:59Z</updated>
-    <id>tag:github.com,2022-12-29:/steveicarus/ivtest</id>
-    <link href="https://github.com/steveicarus/ivtest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Regression test suite for Icarus Verilog. (OBSOLETE)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crboth/LDPC_Decoder</title>
-    <updated>2022-12-29T01:37:59Z</updated>
-    <id>tag:github.com,2022-12-29:/crboth/LDPC_Decoder</id>
-    <link href="https://github.com/crboth/LDPC_Decoder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low Density Parity Check Decoder&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rvem/itmo-comp-arch-2022</title>
-    <updated>2022-12-29T01:37:59Z</updated>
-    <id>tag:github.com,2022-12-29:/rvem/itmo-comp-arch-2022</id>
-    <link href="https://github.com/rvem/itmo-comp-arch-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
