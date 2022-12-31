@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:31:06Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2022-12-31T01:29:23Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gabiduarte/awesome-techleads</title>
-    <updated>2022-12-30T01:31:06Z</updated>
-    <id>tag:github.com,2022-12-30:/gabiduarte/awesome-techleads</id>
-    <link href="https://github.com/gabiduarte/awesome-techleads" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pi-apps/pi-platform-docs</title>
+    <updated>2022-12-31T01:29:23Z</updated>
+    <id>tag:github.com,2022-12-31:/pi-apps/pi-platform-docs</id>
+    <link href="https://github.com/pi-apps/pi-platform-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/RoadDetections</title>
-    <updated>2022-12-30T01:31:06Z</updated>
-    <id>tag:github.com,2022-12-30:/microsoft/RoadDetections</id>
-    <link href="https://github.com/microsoft/RoadDetections" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Road detections from Microsoft Maps aerial imagery&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>webuild-community/advent-of-frontend</title>
+    <updated>2022-12-31T01:29:23Z</updated>
+    <id>tag:github.com,2022-12-31:/webuild-community/advent-of-frontend</id>
+    <link href="https://github.com/webuild-community/advent-of-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yearly knowledge sharing event about frontend development, organized by the WeBuild Community.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matter-labs/awesome-zero-knowledge-proofs</title>
-    <updated>2022-12-30T01:31:06Z</updated>
-    <id>tag:github.com,2022-12-30:/matter-labs/awesome-zero-knowledge-proofs</id>
-    <link href="https://github.com/matter-labs/awesome-zero-knowledge-proofs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jakejarvis/awesome-shodan-queries</title>
+    <updated>2022-12-31T01:29:23Z</updated>
+    <id>tag:github.com,2022-12-31:/jakejarvis/awesome-shodan-queries</id>
+    <link href="https://github.com/jakejarvis/awesome-shodan-queries" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

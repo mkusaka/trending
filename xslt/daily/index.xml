@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:42:31Z</updated>
+  <updated>2022-12-31T01:38:44Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>irandom/docs</title>
-    <updated>2022-12-30T01:42:31Z</updated>
-    <id>tag:github.com,2022-12-30:/irandom/docs</id>
-    <link href="https://github.com/irandom/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Стиль библиографии для Word по ГОСТ Р ИСО 7.0.5 2008&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docs&lt;/h1&gt; &#xA;&lt;p&gt;Здесь можно найти реализацию стиля библиографии по ГОСТ Р ИСО 7.0.5 2008 для Microsoft Word 2010/2013/2016.&lt;/p&gt; &#xA;&lt;p&gt;Инструкции по установке и способы исправления частых ошибок у пользователей — в посте &lt;a href=&#34;http://det-random.livejournal.com/28819.html&#34;&gt;http://det-random.livejournal.com/28819.html&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Я не принимаю исправления и пожелания по модификации стиля, потому что проверка корректности кода отнимает в каждом случае несколько часов моего времени, и я больше не могу этим заниматься из-за других занятий в моей жизни. Когда-то я был первым, кто сделал стиль библиографии по ГОСТу в России, и надеюсь, что на более новые стандарты найдется собственный доброволец.&lt;/p&gt;</summary>
+    <title>pkainulainen/maven-examples</title>
+    <updated>2022-12-31T01:38:44Z</updated>
+    <id>tag:github.com,2022-12-31:/pkainulainen/maven-examples</id>
+    <link href="https://github.com/pkainulainen/maven-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;maven-examples&lt;/h1&gt;</summary>
   </entry>
 </feed>

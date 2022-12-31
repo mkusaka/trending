@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:41:57Z</updated>
+  <updated>2022-12-31T01:38:21Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AhmadSabbirChowdhury/Microsoft-AdventureWorks-Database-Analysis-Visualization-with-PowerBI</title>
-    <updated>2022-12-30T01:41:57Z</updated>
-    <id>tag:github.com,2022-12-30:/AhmadSabbirChowdhury/Microsoft-AdventureWorks-Database-Analysis-Visualization-with-PowerBI</id>
-    <link href="https://github.com/AhmadSabbirChowdhury/Microsoft-AdventureWorks-Database-Analysis-Visualization-with-PowerBI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I chose &#39;AdventureWorksLT2019.bak&#39; and &#39;AdventureWorksLT2017.bak&#39; data for analysis &amp; visualization. The query editing was done in &#39;Microsoft SQL Server Management Studio&#39; and the visualization part was using &#39;Microsoft Power BI&#39;. Also for analysis, I used MS Excel and PowerBI&#39;s query tool.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

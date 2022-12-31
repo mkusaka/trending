@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:41:00Z</updated>
+  <updated>2022-12-31T01:37:38Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GitverseEth/gitverse</title>
-    <updated>2022-12-30T01:41:00Z</updated>
-    <id>tag:github.com,2022-12-30:/GitverseEth/gitverse</id>
-    <link href="https://github.com/GitverseEth/gitverse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dappuniversity/blockchain_game</title>
-    <updated>2022-12-30T01:41:00Z</updated>
-    <id>tag:github.com,2022-12-30:/dappuniversity/blockchain_game</id>
-    <link href="https://github.com/dappuniversity/blockchain_game" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timeless-fi/uniswap-poor-oracle</title>
+    <updated>2022-12-31T01:37:38Z</updated>
+    <id>tag:github.com,2022-12-31:/timeless-fi/uniswap-poor-oracle</id>
+    <link href="https://github.com/timeless-fi/uniswap-poor-oracle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flashloan-proof Uniswap v3 price-out-of-range oracle for querying if a position is out of range onchain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

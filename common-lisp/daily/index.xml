@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:32:57Z</updated>
+  <updated>2022-12-31T01:30:45Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>borodust/alien-works-delivery</title>
+    <updated>2022-12-31T01:30:45Z</updated>
+    <id>tag:github.com,2022-12-31:/borodust/alien-works-delivery</id>
+    <link href="https://github.com/borodust/alien-works-delivery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Application delivery for Common Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;alien-works-delivery&lt;/h1&gt; &#xA;&lt;p&gt;WIP system for delivering Common Lisp applications as executable bundles. For now it only supports &lt;code&gt;AppImage&lt;/code&gt; format for Linux and &lt;code&gt;MSIX&lt;/code&gt; for Windows, but &lt;code&gt;.APK&lt;/code&gt; for Android and later MacOSX and iOS bundle formats are planned too.&lt;/p&gt; &#xA;&lt;p&gt;Delivery process is split into two stages:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;This system generates source bundle with required lisp sources to build an application&lt;/li&gt; &#xA; &lt;li&gt;User invokes a simple command (e.g. &lt;code&gt;ccl --eval &#39;(load &#34;/path/to/source-bundle.lisp&#34; :external-format :latin-1)&#39;&lt;/code&gt;) to build this source bundle into an actual executable bundle&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;Second step can possibly be performed anywhere appropriate architecture, required build tools and lisp implementation are available.&lt;/p&gt; &#xA;&lt;h2&gt;Signing&lt;/h2&gt; &#xA;&lt;h4&gt;MSIX&lt;/h4&gt; &#xA;&lt;p&gt;Generating new self-signed certificate and installing it as a root cert:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-powershell&#34;&gt;$cert = New-SelfSignedCertificate -DnsName &#34;&amp;lt;this-domain&amp;gt;.org&#34;, &#34;&amp;lt;that-domain&amp;gt;.io&#34; -Type CodeSigning -Subject &#34;CN=&amp;lt;Company-Name&amp;gt;&#34; -CertStoreLocation &#34;cert:\LocalMachine\My&#34;&#xA;&#xA;Move-Item (Join-Path &#34;cert:\LocalMachine\My&#34; $cert.Thumbprint) -Destination &#34;cert:\LocalMachine\Root&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Signing MSIX bundle with the cert generated via above method:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-powershell&#34;&gt;SignTool sign /v /fd sha256 /sm /s Root /n &amp;lt;Company-Name&amp;gt; C:\path-to\app.msix&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

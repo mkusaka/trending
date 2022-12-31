@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:34:33Z</updated>
+  <updated>2022-12-31T01:32:12Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sourceryinstitute/OpenCoarrays</title>
+    <updated>2022-12-31T01:32:12Z</updated>
+    <id>tag:github.com,2022-12-31:/sourceryinstitute/OpenCoarrays</id>
+    <link href="https://github.com/sourceryinstitute/OpenCoarrays" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A parallel application binary interface for Fortran 2018 compilers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

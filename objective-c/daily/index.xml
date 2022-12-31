@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:38:02Z</updated>
+  <updated>2022-12-31T01:35:20Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>google/google-toolbox-for-mac</title>
-    <updated>2022-12-30T01:38:02Z</updated>
-    <id>tag:github.com,2022-12-30:/google/google-toolbox-for-mac</id>
-    <link href="https://github.com/google/google-toolbox-for-mac" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google Toolbox for Mac&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Google Toolbox for Mac&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;Project site&lt;/strong&gt; &lt;a href=&#34;https://github.com/google/google-toolbox-for-mac&#34;&gt;https://github.com/google/google-toolbox-for-mac&lt;/a&gt;&lt;br&gt; &lt;strong&gt;Discussion group&lt;/strong&gt; &lt;a href=&#34;http://groups.google.com/group/google-toolbox-for-mac&#34;&gt;http://groups.google.com/group/google-toolbox-for-mac&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A collection of source from different Google projects that may be of use to developers working other iOS or macOS projects.&lt;/p&gt; &#xA;&lt;p&gt;If you find a problem/bug or want a new feature to be included in the Google Toolbox for Mac, please join the &lt;a href=&#34;http://groups.google.com/group/google-toolbox-for-mac&#34;&gt;discussion group&lt;/a&gt; or submit an &lt;a href=&#34;https://github.com/google/google-toolbox-for-mac/issues&#34;&gt;issue&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;To get started&lt;/strong&gt; please read &lt;a href=&#34;https://raw.githubusercontent.com/google/google-toolbox-for-mac/main/USING.md&#34;&gt;USING.md&lt;/a&gt; for detailed information.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>hyperverge/capture-ios-sdk</title>
-    <updated>2022-12-30T01:38:02Z</updated>
-    <id>tag:github.com,2022-12-30:/hyperverge/capture-ios-sdk</id>
-    <link href="https://github.com/hyperverge/capture-ios-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iOS Framework for capturing documents and faces at a resolution appropriate for our proprietary Deep Learning OCR and Face Recognition Engines.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HyperSnapSDK - iOS&lt;/h1&gt; &#xA;&lt;p&gt;This documentation has been moved to a new location. Please contact HyperVerge for more information.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Psiphon-Labs/psiphon-tunnel-core-iOS-library</title>
-    <updated>2022-12-30T01:38:02Z</updated>
-    <id>tag:github.com,2022-12-30:/Psiphon-Labs/psiphon-tunnel-core-iOS-library</id>
-    <link href="https://github.com/Psiphon-Labs/psiphon-tunnel-core-iOS-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;psiphon-tunnel-core-iOS-library&lt;/h1&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:37:56Z</updated>
+  <updated>2022-12-31T01:35:16Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>numtide/srvos</title>
+    <updated>2022-12-31T01:35:16Z</updated>
+    <id>tag:github.com,2022-12-31:/numtide/srvos</id>
+    <link href="https://github.com/numtide/srvos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Server-optimized nixos configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sagittaros/ruby-nix</title>
+    <updated>2022-12-31T01:35:16Z</updated>
+    <id>tag:github.com,2022-12-31:/sagittaros/ruby-nix</id>
+    <link href="https://github.com/sagittaros/ruby-nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generates reproducible ruby/bundler app environment with Nix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

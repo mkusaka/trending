@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:31:41Z</updated>
+  <updated>2022-12-31T01:29:44Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>historicalsource/mk2</title>
-    <updated>2022-12-30T01:31:41Z</updated>
-    <id>tag:github.com,2022-12-30:/historicalsource/mk2</id>
-    <link href="https://github.com/historicalsource/mk2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fighting competition game&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pkmncoraldev/polishedcoral</title>
-    <updated>2022-12-30T01:31:41Z</updated>
-    <id>tag:github.com,2022-12-30:/pkmncoraldev/polishedcoral</id>
-    <link href="https://github.com/pkmncoraldev/polishedcoral" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pokemon Coral Version - Ported to PolishedCrystal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>retroforensics/SinclairQL</title>
+    <updated>2022-12-31T01:29:44Z</updated>
+    <id>tag:github.com,2022-12-31:/retroforensics/SinclairQL</id>
+    <link href="https://github.com/retroforensics/SinclairQL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Análisis retroforense del Sinclair QL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

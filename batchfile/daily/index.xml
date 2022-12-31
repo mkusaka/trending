@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:31:45Z</updated>
+  <updated>2022-12-31T01:29:48Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Deffnohy/Free-RDP</title>
-    <updated>2022-12-30T01:31:45Z</updated>
-    <id>tag:github.com,2022-12-30:/Deffnohy/Free-RDP</id>
-    <link href="https://github.com/Deffnohy/Free-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rdp gratis 6 jam cuy&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hassamahned/6-hour-rdp</title>
+    <updated>2022-12-31T01:29:48Z</updated>
+    <id>tag:github.com,2022-12-31:/Hassamahned/6-hour-rdp</id>
+    <link href="https://github.com/Hassamahned/6-hour-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

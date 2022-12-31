@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:42:22Z</updated>
+  <updated>2022-12-31T01:38:36Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>scrooloose/vimfiles</title>
-    <updated>2022-12-30T01:42:22Z</updated>
-    <id>tag:github.com,2022-12-30:/scrooloose/vimfiles</id>
-    <link href="https://github.com/scrooloose/vimfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The ~/.vim directory that we share at work&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rhysd/accelerated-jk</title>
+    <updated>2022-12-31T01:38:36Z</updated>
+    <id>tag:github.com,2022-12-31:/rhysd/accelerated-jk</id>
+    <link href="https://github.com/rhysd/accelerated-jk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vim plugin to accelerate up-down moving!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>or1gb1u3/dotfiles</title>
-    <updated>2022-12-30T01:42:22Z</updated>
-    <id>tag:github.com,2022-12-30:/or1gb1u3/dotfiles</id>
-    <link href="https://github.com/or1gb1u3/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Redoing the dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>goerz/jupytext.vim</title>
-    <updated>2022-12-30T01:42:22Z</updated>
-    <id>tag:github.com,2022-12-30:/goerz/jupytext.vim</id>
-    <link href="https://github.com/goerz/jupytext.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin for editing Jupyter ipynb files via jupytext&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>preservim/vim-pencil</title>
+    <updated>2022-12-31T01:38:36Z</updated>
+    <id>tag:github.com,2022-12-31:/preservim/vim-pencil</id>
+    <link href="https://github.com/preservim/vim-pencil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rethinking Vim as a tool for writing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

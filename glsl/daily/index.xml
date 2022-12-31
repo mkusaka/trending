@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:34:39Z</updated>
+  <updated>2022-12-31T01:32:18Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>chaolmu/gazebo_models_worlds_collection</title>
-    <updated>2022-12-30T01:34:39Z</updated>
-    <id>tag:github.com,2022-12-30:/chaolmu/gazebo_models_worlds_collection</id>
-    <link href="https://github.com/chaolmu/gazebo_models_worlds_collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;collection of gazebo models and worlds&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PoeticRainbow/golden-days</title>
-    <updated>2022-12-30T01:34:39Z</updated>
-    <id>tag:github.com,2022-12-30:/PoeticRainbow/golden-days</id>
-    <link href="https://github.com/PoeticRainbow/golden-days" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Golden Days is a Minecraft resource pack meant to bring back old textures, lighting, names, and sounds from older versions of Minecraft.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:40:32Z</updated>
+  <updated>2022-12-31T01:37:17Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cobiwave/simplefolio</title>
-    <updated>2022-12-30T01:40:32Z</updated>
-    <id>tag:github.com,2022-12-30:/cobiwave/simplefolio</id>
-    <link href="https://github.com/cobiwave/simplefolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡️ A minimal portfolio template for Developers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bennettfeely/ztext</title>
+    <updated>2022-12-31T01:37:17Z</updated>
+    <id>tag:github.com,2022-12-31:/bennettfeely/ztext</id>
+    <link href="https://github.com/bennettfeely/ztext" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easy to implement, 3D typography for the web. Works with every font.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nl-design-system/denhaag</title>
+    <updated>2022-12-31T01:37:17Z</updated>
+    <id>tag:github.com,2022-12-31:/nl-design-system/denhaag</id>
+    <link href="https://github.com/nl-design-system/denhaag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Work in Progress: Den Haag Design System based on the NL Design System architecture&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:39:57Z</updated>
+  <updated>2022-12-31T01:36:49Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YtzBeno/elliptic-curve-noir</title>
-    <updated>2022-12-30T01:39:57Z</updated>
-    <id>tag:github.com,2022-12-30:/YtzBeno/elliptic-curve-noir</id>
-    <link href="https://github.com/YtzBeno/elliptic-curve-noir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elliptic Curve arithmetic operations written in Noir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lxhao61/integrated-examples</title>
+    <updated>2022-12-31T01:36:49Z</updated>
+    <id>tag:github.com,2022-12-31:/lxhao61/integrated-examples</id>
+    <link href="https://github.com/lxhao61/integrated-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;以Xray或V2Ray（v4版）、Trojan-Go或Trojan、NaiveProxy、Hysteria等打造科学上网的优化配置及最优组合示例，且提供集成常用插件的Caddy（Caddy2）程序，分享给大家食用及自己备份。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

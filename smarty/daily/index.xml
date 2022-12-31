@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:40:58Z</updated>
+  <updated>2022-12-31T01:37:34Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>leveryd-asm/asm</title>
-    <updated>2022-12-30T01:40:58Z</updated>
-    <id>tag:github.com,2022-12-30:/leveryd-asm/asm</id>
-    <link href="https://github.com/leveryd-asm/asm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;scanner platform based on kubernetes and workflow&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chatwoot/charts</title>
-    <updated>2022-12-30T01:40:58Z</updated>
-    <id>tag:github.com,2022-12-30:/chatwoot/charts</id>
-    <link href="https://github.com/chatwoot/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts for Chatwoot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

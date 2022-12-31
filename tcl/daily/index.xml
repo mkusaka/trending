@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-30T01:41:44Z</updated>
+  <updated>2022-12-31T01:38:08Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot</title>
-    <updated>2022-12-30T01:41:44Z</updated>
-    <id>tag:github.com,2022-12-30:/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot</id>
-    <link href="https://github.com/DeFiMasterd/PancakeX-ASTRA-V2-BSC-Sniping-Bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;New version of the oh so popular PancakeX sniping bot. As requested by the community and backers now with a GUI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>homematic-community/hm_pdetect</title>
+    <updated>2022-12-31T01:38:08Z</updated>
+    <id>tag:github.com,2022-12-31:/homematic-community/hm_pdetect</id>
+    <link href="https://github.com/homematic-community/hm_pdetect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📱 A HomeMatic CCU-Addon to regularly query AVM FRITZ!-devices for registered WiFi/LAN devices and deduce general user presence from this information&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
