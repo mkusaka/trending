@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:35:14Z</updated>
+  <updated>2023-01-01T01:36:14Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PhilippMDoerner/mockingbird</title>
-    <updated>2022-12-31T01:35:14Z</updated>
-    <id>tag:github.com,2022-12-31:/PhilippMDoerner/mockingbird</id>
-    <link href="https://github.com/PhilippMDoerner/mockingbird" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package to mock procedures and functions without turning it all into OOP.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>guzba/bossy</title>
+    <updated>2023-01-01T01:36:14Z</updated>
+    <id>tag:github.com,2023-01-01:/guzba/bossy</id>
+    <link href="https://github.com/guzba/bossy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simpler way to work with command line arguments.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

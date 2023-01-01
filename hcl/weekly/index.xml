@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:42:57Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ElliotG/coder-oss-tf</title>
+    <updated>2023-01-01T01:42:57Z</updated>
+    <id>tag:github.com,2023-01-01:/ElliotG/coder-oss-tf</id>
+    <link href="https://github.com/ElliotG/coder-oss-tf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository that deploys Coder OSS entirely from TF&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>utrains/utrains_terraform_three_tiers</title>
+    <updated>2023-01-01T01:42:57Z</updated>
+    <id>tag:github.com,2023-01-01:/utrains/utrains_terraform_three_tiers</id>
+    <link href="https://github.com/utrains/utrains_terraform_three_tiers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/terraform-azurerm-naming</title>
+    <updated>2023-01-01T01:42:57Z</updated>
+    <id>tag:github.com,2023-01-01:/Azure/terraform-azurerm-naming</id>
+    <link href="https://github.com/Azure/terraform-azurerm-naming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

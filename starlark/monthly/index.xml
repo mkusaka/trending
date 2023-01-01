@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:56:55Z</updated>
+  <subtitle>Monthly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bazelbuild/rules_rust</title>
+    <updated>2023-01-01T01:56:55Z</updated>
+    <id>tag:github.com,2023-01-01:/bazelbuild/rules_rust</id>
+    <link href="https://github.com/bazelbuild/rules_rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>atlassian/bazel-tools</title>
+    <updated>2023-01-01T01:56:55Z</updated>
+    <id>tag:github.com,2023-01-01:/atlassian/bazel-tools</id>
+    <link href="https://github.com/atlassian/bazel-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reusable bits for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazelbuild/rules_appengine</title>
+    <updated>2023-01-01T01:56:55Z</updated>
+    <id>tag:github.com,2023-01-01:/bazelbuild/rules_appengine</id>
+    <link href="https://github.com/bazelbuild/rules_appengine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AppEngine rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:45:12Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>puncsky/system-design-and-architecture</title>
+    <updated>2023-01-01T01:45:12Z</updated>
+    <id>tag:github.com,2023-01-01:/puncsky/system-design-and-architecture</id>
+    <link href="https://github.com/puncsky/system-design-and-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn how to design large-scale systems. Prep for the system design interview.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>starfive-tech/VisionFive2</title>
+    <updated>2023-01-01T01:45:12Z</updated>
+    <id>tag:github.com,2023-01-01:/starfive-tech/VisionFive2</id>
+    <link href="https://github.com/starfive-tech/VisionFive2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LineageOS/android_build</title>
+    <updated>2023-01-01T01:45:12Z</updated>
+    <id>tag:github.com,2023-01-01:/LineageOS/android_build</id>
+    <link href="https://github.com/LineageOS/android_build" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

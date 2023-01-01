@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:53:29Z</updated>
+  <subtitle>Monthly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SciML/DifferentialEquations.jl</title>
+    <updated>2023-01-01T01:53:29Z</updated>
+    <id>tag:github.com,2023-01-01:/SciML/DifferentialEquations.jl</id>
+    <link href="https://github.com/SciML/DifferentialEquations.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-language suite for high-performance solvers of differential equations and scientific machine learning (SciML) components. Ordinary differential equations (ODEs), stochastic differential equations (SDEs), delay differential equations (DDEs), differential-algebraic equations (DAEs), and more in Julia.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TuringLang/Turing.jl</title>
+    <updated>2023-01-01T01:53:29Z</updated>
+    <id>tag:github.com,2023-01-01:/TuringLang/Turing.jl</id>
+    <link href="https://github.com/TuringLang/Turing.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bayesian inference with probabilistic programming.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:57:59Z</updated>
+  <subtitle>Monthly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>viandwi24/nuxt3-awesome-starter</title>
+    <updated>2023-01-01T01:57:59Z</updated>
+    <id>tag:github.com,2023-01-01:/viandwi24/nuxt3-awesome-starter</id>
+    <link href="https://github.com/viandwi24/nuxt3-awesome-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Nuxt 3 template and boilerplate with a lot of useful features. Nuxt 3 + Tailwindcss v3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>honghuangdc/soybean-admin</title>
+    <updated>2023-01-01T01:57:59Z</updated>
+    <id>tag:github.com,2023-01-01:/honghuangdc/soybean-admin</id>
+    <link href="https://github.com/honghuangdc/soybean-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JakHuang/form-generator</title>
+    <updated>2023-01-01T01:57:59Z</updated>
+    <id>tag:github.com,2023-01-01:/JakHuang/form-generator</id>
+    <link href="https://github.com/JakHuang/form-generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨Element UI表单设计及代码生成器&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

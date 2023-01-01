@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ABAP Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:49:39Z</updated>
+  <subtitle>Monthly Trending of ABAP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SAP-samples/abap-cheat-sheets</title>
+    <updated>2023-01-01T01:49:39Z</updated>
+    <id>tag:github.com,2023-01-01:/SAP-samples/abap-cheat-sheets</id>
+    <link href="https://github.com/SAP-samples/abap-cheat-sheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explore ABAP syntax in a nutshell supported by executable demo examples.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

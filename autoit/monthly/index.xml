@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub AutoIt Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:49:50Z</updated>
+  <subtitle>Monthly Trending of AutoIt in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SegoCode/AutoWall</title>
+    <updated>2023-01-01T01:49:50Z</updated>
+    <id>tag:github.com,2023-01-01:/SegoCode/AutoWall</id>
+    <link href="https://github.com/SegoCode/AutoWall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌌 Live wallpapers on Windows 7/8/10/11 using open-source wallpaper engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

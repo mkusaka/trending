@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:35:38Z</updated>
+  <updated>2023-01-01T01:36:45Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>doctrine/DoctrineBundle</title>
-    <updated>2022-12-31T01:35:38Z</updated>
-    <id>tag:github.com,2022-12-31:/doctrine/DoctrineBundle</id>
-    <link href="https://github.com/doctrine/DoctrineBundle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Symfony Bundle for Doctrine ORM and DBAL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Doctrine Bundle&lt;/h1&gt; &#xA;&lt;p&gt;Doctrine DBAL &amp;amp; ORM Bundle for the Symfony Framework.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/doctrine/DoctrineBundle/actions/workflows/continuous-integration.yml&#34;&gt;&lt;img src=&#34;https://github.com/doctrine/DoctrineBundle/actions/workflows/continuous-integration.yml/badge.svg?sanitize=true&#34; alt=&#34;Continuous Integration&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://codecov.io/gh/doctrine/DoctrineBundle&#34;&gt;&lt;img src=&#34;https://codecov.io/gh/doctrine/DoctrineBundle/branch/master/graph/badge.svg?token=qtm3EQ3WgV&#34; alt=&#34;codecov&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;What is Doctrine?&lt;/h2&gt; &#xA;&lt;p&gt;The Doctrine Project is the home of a selected set of PHP libraries primarily focused on providing persistence services and related functionality. Its prize projects are a Object Relational Mapper and the Database Abstraction Layer it is built on top of. You can read more about the projects below or view a list of all projects.&lt;/p&gt; &#xA;&lt;p&gt;Object relational mapper (ORM) for PHP that sits on top of a powerful database abstraction layer (DBAL). One of its key features is the option to write database queries in a proprietary object oriented SQL dialect called Doctrine Query Language (DQL), inspired by Hibernates HQL. This provides developers with a powerful alternative to SQL that maintains flexibility without requiring unnecessary code duplication.&lt;/p&gt; &#xA;&lt;p&gt;DBAL is a powerful database abstraction layer with many features for database schema introspection, schema management and PDO abstraction.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;The documentation is rendered on &lt;a href=&#34;https://symfony.com/doc/current/reference/configuration/doctrine.html&#34;&gt;the symfony.com website&lt;/a&gt;. The source of the documentation is available in the Resources/docs folder.&lt;/p&gt;</summary>
-  </entry>
 </feed>

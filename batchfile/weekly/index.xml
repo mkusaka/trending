@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:40:31Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DrB0rk/Flipper-Zero-Boards</title>
+    <updated>2023-01-01T01:40:31Z</updated>
+    <id>tag:github.com,2023-01-01:/DrB0rk/Flipper-Zero-Boards</id>
+    <link href="https://github.com/DrB0rk/Flipper-Zero-Boards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a collection of boards ive designed for the Flipper zero. more are on their way!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>David0l1/Free-RDP</title>
+    <updated>2023-01-01T01:40:31Z</updated>
+    <id>tag:github.com,2023-01-01:/David0l1/Free-RDP</id>
+    <link href="https://github.com/David0l1/Free-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🙏🏻&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jtmaveryk/ngrok</title>
+    <updated>2023-01-01T01:40:31Z</updated>
+    <id>tag:github.com,2023-01-01:/jtmaveryk/ngrok</id>
+    <link href="https://github.com/jtmaveryk/ngrok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;rdp workflow for a temporary/disposable sandbox environment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

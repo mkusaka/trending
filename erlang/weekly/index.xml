@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:42:23Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lambdaclass/beam_prometheus_exporter</title>
+    <updated>2023-01-01T01:42:23Z</updated>
+    <id>tag:github.com,2023-01-01:/lambdaclass/beam_prometheus_exporter</id>
+    <link href="https://github.com/lambdaclass/beam_prometheus_exporter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add this to your release to get standard erlang metrics in prometheus/grafana&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lambdaclass/find_peers</title>
+    <updated>2023-01-01T01:42:23Z</updated>
+    <id>tag:github.com,2023-01-01:/lambdaclass/find_peers</id>
+    <link href="https://github.com/lambdaclass/find_peers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Find other erlang peers in the same subnet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lambdaclass/holiday_pinger</title>
+    <updated>2023-01-01T01:42:23Z</updated>
+    <id>tag:github.com,2023-01-01:/lambdaclass/holiday_pinger</id>
+    <link href="https://github.com/lambdaclass/holiday_pinger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang + ClojureScript app to send holiday reminders&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

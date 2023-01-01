@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:37:44Z</updated>
+  <updated>2023-01-01T01:38:55Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ParthJadhav/Verve</title>
-    <updated>2022-12-31T01:37:44Z</updated>
-    <id>tag:github.com,2022-12-31:/ParthJadhav/Verve</id>
-    <link href="https://github.com/ParthJadhav/Verve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>katochojiro/svelte-google-map-api</title>
-    <updated>2022-12-31T01:37:44Z</updated>
-    <id>tag:github.com,2022-12-31:/katochojiro/svelte-google-map-api</id>
-    <link href="https://github.com/katochojiro/svelte-google-map-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a project for svelte and google maps place api.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Reecepbcups/ibc-anywhere-webapp</title>
+    <updated>2023-01-01T01:38:55Z</updated>
+    <id>tag:github.com,2023-01-01:/Reecepbcups/ibc-anywhere-webapp</id>
+    <link href="https://github.com/Reecepbcups/ibc-anywhere-webapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Transfer tokens from any network, to any other network which is open for token transfers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

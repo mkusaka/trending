@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:38:36Z</updated>
+  <updated>2023-01-01T01:39:46Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rhysd/accelerated-jk</title>
-    <updated>2022-12-31T01:38:36Z</updated>
-    <id>tag:github.com,2022-12-31:/rhysd/accelerated-jk</id>
-    <link href="https://github.com/rhysd/accelerated-jk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vim plugin to accelerate up-down moving!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>preservim/vim-textobj-sentence</title>
+    <updated>2023-01-01T01:39:46Z</updated>
+    <id>tag:github.com,2023-01-01:/preservim/vim-textobj-sentence</id>
+    <link href="https://github.com/preservim/vim-textobj-sentence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Improving on Vim&#39;s native sentence text object and motion&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>preservim/vim-pencil</title>
-    <updated>2022-12-31T01:38:36Z</updated>
-    <id>tag:github.com,2022-12-31:/preservim/vim-pencil</id>
-    <link href="https://github.com/preservim/vim-pencil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rethinking Vim as a tool for writing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>preservim/vim-litecorrect</title>
+    <updated>2023-01-01T01:39:46Z</updated>
+    <id>tag:github.com,2023-01-01:/preservim/vim-litecorrect</id>
+    <link href="https://github.com/preservim/vim-litecorrect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight auto-correction for Vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

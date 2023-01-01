@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:29:23Z</updated>
+  <updated>2023-01-01T01:30:41Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pi-apps/pi-platform-docs</title>
-    <updated>2022-12-31T01:29:23Z</updated>
-    <id>tag:github.com,2022-12-31:/pi-apps/pi-platform-docs</id>
-    <link href="https://github.com/pi-apps/pi-platform-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>youshandefeiyang/IPTV</title>
+    <updated>2023-01-01T01:30:41Z</updated>
+    <id>tag:github.com,2023-01-01:/youshandefeiyang/IPTV</id>
+    <link href="https://github.com/youshandefeiyang/IPTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>webuild-community/advent-of-frontend</title>
-    <updated>2022-12-31T01:29:23Z</updated>
-    <id>tag:github.com,2022-12-31:/webuild-community/advent-of-frontend</id>
-    <link href="https://github.com/webuild-community/advent-of-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yearly knowledge sharing event about frontend development, organized by the WeBuild Community.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devsecops/awesome-devsecops</title>
+    <updated>2023-01-01T01:30:41Z</updated>
+    <id>tag:github.com,2023-01-01:/devsecops/awesome-devsecops</id>
+    <link href="https://github.com/devsecops/awesome-devsecops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An authoritative list of awesome devsecops tools with the help from community experiments and contributions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jakejarvis/awesome-shodan-queries</title>
-    <updated>2022-12-31T01:29:23Z</updated>
-    <id>tag:github.com,2022-12-31:/jakejarvis/awesome-shodan-queries</id>
-    <link href="https://github.com/jakejarvis/awesome-shodan-queries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔍 A collection of interesting, funny, and depressing search queries to plug into shodan.io 👩‍💻&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>A-poc/RedTeam-Tools</title>
+    <updated>2023-01-01T01:30:41Z</updated>
+    <id>tag:github.com,2023-01-01:/A-poc/RedTeam-Tools</id>
+    <link href="https://github.com/A-poc/RedTeam-Tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools and Techniques for Red Team / Penetration Testing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

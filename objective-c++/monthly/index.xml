@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C++ Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:54:34Z</updated>
+  <subtitle>Monthly Trending of Objective-C++ in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pocketsvg/PocketSVG</title>
+    <updated>2023-01-01T01:54:34Z</updated>
+    <id>tag:github.com,2023-01-01:/pocketsvg/PocketSVG</id>
+    <link href="https://github.com/pocketsvg/PocketSVG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

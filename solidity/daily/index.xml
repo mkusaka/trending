@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:37:38Z</updated>
+  <updated>2023-01-01T01:38:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>timeless-fi/uniswap-poor-oracle</title>
-    <updated>2022-12-31T01:37:38Z</updated>
-    <id>tag:github.com,2022-12-31:/timeless-fi/uniswap-poor-oracle</id>
-    <link href="https://github.com/timeless-fi/uniswap-poor-oracle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flashloan-proof Uniswap v3 price-out-of-range oracle for querying if a position is out of range onchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RevoluzionEcosystem/Revoluzion-Audits</title>
+    <updated>2023-01-01T01:38:49Z</updated>
+    <id>tag:github.com,2023-01-01:/RevoluzionEcosystem/Revoluzion-Audits</id>
+    <link href="https://github.com/RevoluzionEcosystem/Revoluzion-Audits" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Audits PDF reports&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nathanhleung/fallback</title>
+    <updated>2023-01-01T01:38:49Z</updated>
+    <id>tag:github.com,2023-01-01:/nathanhleung/fallback</id>
+    <link href="https://github.com/nathanhleung/fallback" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💸 Write web apps in Solidity — a Solidity web framework / a proof-of-concept implementation of HTTP over Ethereum.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>footprintanalytics/moonmen</title>
+    <updated>2023-01-01T01:38:49Z</updated>
+    <id>tag:github.com,2023-01-01:/footprintanalytics/moonmen</id>
+    <link href="https://github.com/footprintanalytics/moonmen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is Footprint Analytics Moon Men NFT contract 😋&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

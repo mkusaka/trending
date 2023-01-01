@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:47:40Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>google/comprehensive-rust</title>
+    <updated>2023-01-01T01:47:40Z</updated>
+    <id>tag:github.com,2023-01-01:/google/comprehensive-rust</id>
+    <link href="https://github.com/google/comprehensive-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EmbarkStudios/rust-gpu</title>
+    <updated>2023-01-01T01:47:40Z</updated>
+    <id>tag:github.com,2023-01-01:/EmbarkStudios/rust-gpu</id>
+    <link href="https://github.com/EmbarkStudios/rust-gpu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rust-lang/book</title>
+    <updated>2023-01-01T01:47:40Z</updated>
+    <id>tag:github.com,2023-01-01:/rust-lang/book</id>
+    <link href="https://github.com/rust-lang/book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Rust Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

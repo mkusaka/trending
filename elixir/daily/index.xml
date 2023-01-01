@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:31:45Z</updated>
+  <updated>2023-01-01T01:33:05Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>E-xyza/ex_term</title>
-    <updated>2022-12-31T01:31:45Z</updated>
-    <id>tag:github.com,2022-12-31:/E-xyza/ex_term</id>
-    <link href="https://github.com/E-xyza/ex_term" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Phoenix LiveView Terminal LiveComponent&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>WTTJ/chargebeex</title>
-    <updated>2022-12-31T01:31:45Z</updated>
-    <id>tag:github.com,2022-12-31:/WTTJ/chargebeex</id>
-    <link href="https://github.com/WTTJ/chargebeex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir library to interact with Chargebee&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nimblehq/elixir-templates</title>
-    <updated>2022-12-31T01:31:45Z</updated>
-    <id>tag:github.com,2022-12-31:/nimblehq/elixir-templates</id>
-    <link href="https://github.com/nimblehq/elixir-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Our optimized Elixir templates used in our projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

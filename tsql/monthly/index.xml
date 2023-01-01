@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:57:36Z</updated>
+  <subtitle>Monthly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MicrosoftLearning/dp-300-database-administrator</title>
+    <updated>2023-01-01T01:57:36Z</updated>
+    <id>tag:github.com,2023-01-01:/MicrosoftLearning/dp-300-database-administrator</id>
+    <link href="https://github.com/MicrosoftLearning/dp-300-database-administrator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for lab exercises and instructions for Microsoft DP-300 learning content&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>erikaduan/r_tips</title>
+    <updated>2023-01-01T01:57:36Z</updated>
+    <id>tag:github.com,2023-01-01:/erikaduan/r_tips</id>
+    <link href="https://github.com/erikaduan/r_tips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository of R usage tips for data cleaning, data mining, data visualisation, statistical inference and machine learning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

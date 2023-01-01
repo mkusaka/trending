@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:37:02Z</updated>
+  <updated>2023-01-01T01:38:04Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>second-state/microservice-rust-mysql</title>
-    <updated>2022-12-31T01:37:02Z</updated>
-    <id>tag:github.com,2022-12-31:/second-state/microservice-rust-mysql</id>
-    <link href="https://github.com/second-state/microservice-rust-mysql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template project for building a database-driven microservice in Rust and run it in the WasmEdge sandbox.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>m-ou-se/rust-atomics-and-locks</title>
+    <updated>2023-01-01T01:38:04Z</updated>
+    <id>tag:github.com,2023-01-01:/m-ou-se/rust-atomics-and-locks</id>
+    <link href="https://github.com/m-ou-se/rust-atomics-and-locks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code examples, data structures, and links from my book, Rust Atomics and Locks.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ThePrimeagen/vim-royale</title>
-    <updated>2022-12-31T01:37:02Z</updated>
-    <id>tag:github.com,2022-12-31:/ThePrimeagen/vim-royale</id>
-    <link href="https://github.com/ThePrimeagen/vim-royale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Because Nano sucks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PRQL/prql</title>
+    <updated>2023-01-01T01:38:04Z</updated>
+    <id>tag:github.com,2023-01-01:/PRQL/prql</id>
+    <link href="https://github.com/PRQL/prql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>watchexec/cargo-watch</title>
+    <updated>2023-01-01T01:38:04Z</updated>
+    <id>tag:github.com,2023-01-01:/watchexec/cargo-watch</id>
+    <link href="https://github.com/watchexec/cargo-watch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Watches over your Cargo project&#39;s source.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Bicep Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:49:54Z</updated>
+  <subtitle>Monthly Trending of Bicep in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>madebygps/serverless-resume-api</title>
+    <updated>2023-01-01T01:49:54Z</updated>
+    <id>tag:github.com,2023-01-01:/madebygps/serverless-resume-api</id>
+    <link href="https://github.com/madebygps/serverless-resume-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your resume api in Azure serverless&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions</title>
+    <updated>2023-01-01T01:49:54Z</updated>
+    <id>tag:github.com,2023-01-01:/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions</id>
+    <link href="https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MicrosoftLearning/AZ500-AzureSecurityTechnologies</title>
+    <updated>2023-01-01T01:49:54Z</updated>
+    <id>tag:github.com,2023-01-01:/MicrosoftLearning/AZ500-AzureSecurityTechnologies</id>
+    <link href="https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Microsoft Azure Security Technologies&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

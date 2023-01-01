@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:40:03Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TapXWorld/Math</title>
+    <updated>2023-01-01T01:40:03Z</updated>
+    <id>tag:github.com,2023-01-01:/TapXWorld/Math</id>
+    <link href="https://github.com/TapXWorld/Math" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;人教版小学到大学数学&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PlexPt/awesome-chatgpt-prompts-zh</title>
+    <updated>2023-01-01T01:40:03Z</updated>
+    <id>tag:github.com,2023-01-01:/PlexPt/awesome-chatgpt-prompts-zh</id>
+    <link href="https://github.com/PlexPt/awesome-chatgpt-prompts-zh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT 中文调教指南。怎么让它听你的话。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0xmaximus/Galaxy-Bugbounty-Checklist</title>
+    <updated>2023-01-01T01:40:03Z</updated>
+    <id>tag:github.com,2023-01-01:/0xmaximus/Galaxy-Bugbounty-Checklist</id>
+    <link href="https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tips and Tutorials for Bug Bounty and also Penetration Tests.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

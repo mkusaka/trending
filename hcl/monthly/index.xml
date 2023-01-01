@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:52:20Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-ecs</title>
+    <updated>2023-01-01T01:52:20Z</updated>
+    <id>tag:github.com,2023-01-01:/terraform-aws-modules/terraform-aws-ecs</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates AWS ECS resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>onedr0p/home-ops</title>
+    <updated>2023-01-01T01:52:20Z</updated>
+    <id>tag:github.com,2023-01-01:/onedr0p/home-ops</id>
+    <link href="https://github.com/onedr0p/home-ops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ChristianLempa/videos</title>
+    <updated>2023-01-01T01:52:20Z</updated>
+    <id>tag:github.com,2023-01-01:/ChristianLempa/videos</id>
+    <link href="https://github.com/ChristianLempa/videos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is my video documentation. Here you&#39;ll find code-snippets, technical documentation, templates, command reference, and whatever is needed for all my YouTube Videos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

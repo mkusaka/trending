@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:29:42Z</updated>
+  <updated>2023-01-01T01:31:12Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>KumailP/kumails-blog</title>
-    <updated>2022-12-31T01:29:42Z</updated>
-    <id>tag:github.com,2022-12-31:/KumailP/kumails-blog</id>
-    <link href="https://github.com/KumailP/kumails-blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flexdinesh/blogster</title>
-    <updated>2022-12-31T01:29:42Z</updated>
-    <id>tag:github.com,2022-12-31:/flexdinesh/blogster</id>
-    <link href="https://github.com/flexdinesh/blogster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of beautiful, accessible and performant Astro blog templates.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:41:19Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ethz-asl/suitesparse</title>
+    <updated>2023-01-01T01:41:19Z</updated>
+    <id>tag:github.com,2023-01-01:/ethz-asl/suitesparse</id>
+    <link href="https://github.com/ethz-asl/suitesparse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catkin wrapper package for Dr. Tim Davis Suitesparse 4.2.1 (with PIC) http://faculty.cse.tamu.edu/davis/suitesparse.html&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethz-asl/ceres_catkin</title>
+    <updated>2023-01-01T01:41:19Z</updated>
+    <id>tag:github.com,2023-01-01:/ethz-asl/ceres_catkin</id>
+    <link href="https://github.com/ethz-asl/ceres_catkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains ros-catkin files and a download/make script to checkout and build ceres.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ros/urdf_tutorial</title>
+    <updated>2023-01-01T01:41:19Z</updated>
+    <id>tag:github.com,2023-01-01:/ros/urdf_tutorial</id>
+    <link href="https://github.com/ros/urdf_tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:36:11Z</updated>
+  <updated>2023-01-01T01:37:04Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FigBug/scheme</title>
-    <updated>2022-12-31T01:36:11Z</updated>
-    <id>tag:github.com,2022-12-31:/FigBug/scheme</id>
-    <link href="https://github.com/FigBug/scheme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Very limited scheme interpreter&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Thinklab-SJTU/EDA-AI</title>
-    <updated>2022-12-31T01:36:11Z</updated>
-    <id>tag:github.com,2022-12-31:/Thinklab-SJTU/EDA-AI</id>
-    <link href="https://github.com/Thinklab-SJTU/EDA-AI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of NeurIPS 2021 paper &#34;On Joint Learning for Solving Placement and Routing in Chip Design&#34; &amp; NeurIPS 2022 paper &#34;The Policy-gradient Placement and Generative Routing Neural Networks for Chip Design&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>m-danya/prolog-testing-system</title>
+    <updated>2023-01-01T01:37:04Z</updated>
+    <id>tag:github.com,2023-01-01:/m-danya/prolog-testing-system</id>
+    <link href="https://github.com/m-danya/prolog-testing-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testing system for Prolog programs. Useful for exam preparation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

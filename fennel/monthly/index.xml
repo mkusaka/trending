@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fennel Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-01T01:51:37Z</updated>
+  <subtitle>Monthly Trending of Fennel in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nyoom-engineering/oxocarbon.nvim</title>
+    <updated>2023-01-01T01:51:37Z</updated>
+    <id>tag:github.com,2023-01-01:/nyoom-engineering/oxocarbon.nvim</id>
+    <link href="https://github.com/nyoom-engineering/oxocarbon.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dark and light Neovim theme written in fennel, inspired by IBM Carbon.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nyoom-engineering/nyoom.nvim</title>
+    <updated>2023-01-01T01:51:37Z</updated>
+    <id>tag:github.com,2023-01-01:/nyoom-engineering/nyoom.nvim</id>
+    <link href="https://github.com/nyoom-engineering/nyoom.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

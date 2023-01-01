@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2022-12-31T01:32:38Z</updated>
+  <updated>2023-01-01T01:33:57Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>grails/grails-doc</title>
+    <updated>2023-01-01T01:33:57Z</updated>
+    <id>tag:github.com,2023-01-01:/grails/grails-doc</id>
+    <link href="https://github.com/grails/grails-doc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation Project For The Grails Web Application Framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>artisantek/jenkins-sharedlibrary</title>
+    <updated>2023-01-01T01:33:57Z</updated>
+    <id>tag:github.com,2023-01-01:/artisantek/jenkins-sharedlibrary</id>
+    <link href="https://github.com/artisantek/jenkins-sharedlibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
