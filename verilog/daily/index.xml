@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:39:44Z</updated>
+  <updated>2023-01-02T01:41:25Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MiSTer-devel/Arcade-SlapFight_MiSTer</title>
-    <updated>2023-01-01T01:39:44Z</updated>
-    <id>tag:github.com,2023-01-01:/MiSTer-devel/Arcade-SlapFight_MiSTer</id>
-    <link href="https://github.com/MiSTer-devel/Arcade-SlapFight_MiSTer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slap Fight MiSTer FPGA Core&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>epsilon537/boxlambda</title>
+    <updated>2023-01-02T01:41:25Z</updated>
+    <id>tag:github.com,2023-01-02:/epsilon537/boxlambda</id>
+    <link href="https://github.com/epsilon537/boxlambda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FPGA based microcomputer sandbox for software and RTL experimentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pthalin/video_lag_tester</title>
+    <updated>2023-01-02T01:41:25Z</updated>
+    <id>tag:github.com,2023-01-02:/pthalin/video_lag_tester</id>
+    <link href="https://github.com/pthalin/video_lag_tester" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A low cost HDMI video lag tester.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

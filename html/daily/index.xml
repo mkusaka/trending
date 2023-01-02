@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:34:15Z</updated>
+  <updated>2023-01-02T01:35:10Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kevquirk/simple.css</title>
-    <updated>2023-01-01T01:34:15Z</updated>
-    <id>tag:github.com,2023-01-01:/kevquirk/simple.css</id>
-    <link href="https://github.com/kevquirk/simple.css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple.css is a classless CSS template that allows you to make a good looking website really quickly.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple.css {}&lt;/h1&gt; &#xA;&lt;p&gt;Simple.css is a classless CSS template that allows you to make a good looking website really quickly.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Find out more at &lt;a href=&#34;https://simplecss.org&#34;&gt;https://simplecss.org&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/kevquirk/simple.css/main/screenshot.png&#34; alt=&#34;Screenshot of Simple.css&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Supported Browsers&lt;/h2&gt; &#xA;&lt;p&gt;Any evergreen browser &amp;gt; IE11 (why is IE still a thing?)&lt;/p&gt;</summary>
+    <title>NianBroken/Firework_Simulator</title>
+    <updated>2023-01-02T01:35:10Z</updated>
+    <id>tag:github.com,2023-01-02:/NianBroken/Firework_Simulator</id>
+    <link href="https://github.com/NianBroken/Firework_Simulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;烟花模拟器，一个模拟放烟花的网页，基于XgpNwb的二次修改，我仅作翻译处理以及其他优化&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;烟花模拟器&lt;/h1&gt; &#xA;&lt;p&gt;注意：此源码是基于 &lt;a href=&#34;https://codepen.io/MillerTime/pen/XgpNwb&#34;&gt;XgpNwb&lt;/a&gt; 的二次修改&lt;/p&gt; &#xA;&lt;p&gt;我仅作翻译处理以及其他优化&lt;/p&gt; &#xA;&lt;p&gt;Demo 1：&lt;a href=&#34;https://nianbroken.github.io/Firework_Simulator/&#34;&gt;https://nianbroken.github.io/Firework_Simulator/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Demo 2：&lt;a href=&#34;https://fireworks.nianbroken.top/&#34;&gt;https://fireworks.nianbroken.top/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;展示图&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/NianBroken/Firework_Simulator/Image_Preview.png&#34; alt=&#34;静态图&#34;&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;若有翻译错译或其他问题，请在&lt;code&gt;Issues&lt;/code&gt;提交。&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>calistus-igwilo/nitda-blockchain-scholarship</title>
+    <updated>2023-01-02T01:35:10Z</updated>
+    <id>tag:github.com,2023-01-02:/calistus-igwilo/nitda-blockchain-scholarship</id>
+    <link href="https://github.com/calistus-igwilo/nitda-blockchain-scholarship" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course materials for the NITDA Blockchain Scholarship&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nitda-blockchain-scholarship&lt;/h1&gt; &#xA;&lt;p&gt;Course materials for the NITDA Blockchain Scholarship&lt;/p&gt;</summary>
   </entry>
 </feed>

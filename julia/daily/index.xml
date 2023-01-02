@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:35:23Z</updated>
+  <updated>2023-01-02T01:36:11Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tfiers/PkgGraphs.jl</title>
-    <updated>2023-01-01T01:35:23Z</updated>
-    <id>tag:github.com,2023-01-01:/tfiers/PkgGraphs.jl</id>
-    <link href="https://github.com/tfiers/PkgGraphs.jl" rel="alternate"></link>
+    <title>jkrumbiegel/ReadableRegex.jl</title>
+    <updated>2023-01-02T01:36:11Z</updated>
+    <id>tag:github.com,2023-01-02:/jkrumbiegel/ReadableRegex.jl</id>
+    <link href="https://github.com/jkrumbiegel/ReadableRegex.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;regexes for people who don&#39;t really want to learn or read regexes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tfiers/PkgGraph.jl</title>
+    <updated>2023-01-02T01:36:11Z</updated>
+    <id>tag:github.com,2023-01-02:/tfiers/PkgGraph.jl</id>
+    <link href="https://github.com/tfiers/PkgGraph.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Visualize the dependency graph of a Julia package&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fverdugo/PartitionedArrays.jl</title>
+    <updated>2023-01-02T01:36:11Z</updated>
+    <id>tag:github.com,2023-01-02:/fverdugo/PartitionedArrays.jl</id>
+    <link href="https://github.com/fverdugo/PartitionedArrays.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vectors and sparse matrices partitioned into pieces for parallel distributed-memory computations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

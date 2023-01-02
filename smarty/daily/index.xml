@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:38:47Z</updated>
+  <updated>2023-01-02T01:40:20Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wso2/kubernetes-apim</title>
-    <updated>2023-01-01T01:38:47Z</updated>
-    <id>tag:github.com,2023-01-01:/wso2/kubernetes-apim</id>
-    <link href="https://github.com/wso2/kubernetes-apim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes and Helm resources for WSO2 API Manager&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

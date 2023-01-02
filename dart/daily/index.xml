@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:32:34Z</updated>
+  <updated>2023-01-02T01:32:03Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rupomsoft/Flutter-Batch</title>
+    <updated>2023-01-02T01:32:03Z</updated>
+    <id>tag:github.com,2023-01-02:/rupomsoft/Flutter-Batch</id>
+    <link href="https://github.com/rupomsoft/Flutter-Batch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lucavenir/go_router_riverpod</title>
+    <updated>2023-01-02T01:32:03Z</updated>
+    <id>tag:github.com,2023-01-02:/lucavenir/go_router_riverpod</id>
+    <link href="https://github.com/lucavenir/go_router_riverpod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example on how to use Riverpod + GoRouter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Go Router + Riverpod Examples&lt;/h1&gt; &#xA;&lt;p&gt;This repo contains a plethora of examples on how to integrate &lt;a href=&#34;https://github.com/flutter/packages/tree/main/packages/go_router&#34;&gt;GoRouter&lt;/a&gt; and &lt;a href=&#34;https://github.com/rrousselGit/river_pod&#34;&gt;Riverpod&lt;/a&gt; altogether.&lt;/p&gt; &#xA;&lt;p&gt;These examples are community driven and strive to represent the &#34;best&#34; solution we&#39;ve found. Every example in here is a simple mock of a login.&lt;/p&gt; &#xA;&lt;h2&gt;Special Thanks&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;BIG THANKS&lt;/strong&gt; to...&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;@[anyone] who has ever contributed in here&lt;/li&gt; &#xA; &lt;li&gt;@[the whole riverpod discord community] for the discussions we&#39;ve enjoyed around this problem&lt;/li&gt; &#xA; &lt;li&gt;@rrousselGit for creating this &lt;em&gt;great&lt;/em&gt; ecosystem!&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Which example should I read or use?&lt;/h2&gt; &#xA;&lt;p&gt;I do realize there are &lt;em&gt;a lot&lt;/em&gt; of examples on this repo.&lt;/p&gt; &#xA;&lt;p&gt;After putting a lot of thought, here&#39;s a quick guide to help you choose.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Check the &lt;code&gt;complete_example&lt;/code&gt; folder for a full example containing the latest versions of riverpod and go router.&lt;/li&gt; &#xA; &lt;li&gt;Check the &lt;code&gt;code_gen&lt;/code&gt; for the same example as &lt;code&gt;complete_example&lt;/code&gt;, but with the usage of &lt;code&gt;riverpod_annotation&lt;/code&gt;, &lt;code&gt;freezed&lt;/code&gt; and &lt;code&gt;go_router_builder&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Check the &lt;code&gt;firebase_example&lt;/code&gt; for a basic firebase integration with the two libraries.&lt;/li&gt; &#xA; &lt;li&gt;Check the &lt;code&gt;legacy&lt;/code&gt; folder for older, and possibly simpler examples. These examples are &#34;old&#34;, but could still be useful. Some are to be discarded entirely, though (WIP).&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Something feels off....&lt;/h2&gt; &#xA;&lt;p&gt;Please consider starring this mini-repo if you found it useful.&lt;/p&gt; &#xA;&lt;p&gt;If you didn&#39;t, or if you want to contribute in any way, a discussion about improving this example can be found &lt;a href=&#34;https://github.com/rrousselGit/riverpod/discussions/1357&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

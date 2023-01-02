@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub FreeBasic Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:33:36Z</updated>
+  <updated>2023-01-02T01:33:24Z</updated>
   <subtitle>Daily Trending of FreeBasic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>freebasic/fbc</title>
-    <updated>2023-01-01T01:33:36Z</updated>
-    <id>tag:github.com,2023-01-01:/freebasic/fbc</id>
-    <link href="https://github.com/freebasic/fbc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FreeBASIC is a completely free, open-source, multi-platform BASIC compiler, with syntax similar to MS-QuickBASIC, that adds new features such as pointers, object orientation, unsigned data types, inline assembly, and many others.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

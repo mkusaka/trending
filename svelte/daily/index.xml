@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:38:55Z</updated>
+  <updated>2023-01-02T01:40:31Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Reecepbcups/ibc-anywhere-webapp</title>
-    <updated>2023-01-01T01:38:55Z</updated>
-    <id>tag:github.com,2023-01-01:/Reecepbcups/ibc-anywhere-webapp</id>
-    <link href="https://github.com/Reecepbcups/ibc-anywhere-webapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Transfer tokens from any network, to any other network which is open for token transfers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fouita/tailwind-editor</title>
+    <updated>2023-01-02T01:40:31Z</updated>
+    <id>tag:github.com,2023-01-02:/fouita/tailwind-editor</id>
+    <link href="https://github.com/fouita/tailwind-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;notion like tailwindcss editor built with svelte&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mvasigh/sveltekit-mdsvex-blog</title>
+    <updated>2023-01-02T01:40:31Z</updated>
+    <id>tag:github.com,2023-01-02:/mvasigh/sveltekit-mdsvex-blog</id>
+    <link href="https://github.com/mvasigh/sveltekit-mdsvex-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalistic blog template built with SvelteKit and MDsveX&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>johannchopin/gitmoji-browser-extension</title>
+    <updated>2023-01-02T01:40:31Z</updated>
+    <id>tag:github.com,2023-01-02:/johannchopin/gitmoji-browser-extension</id>
+    <link href="https://github.com/johannchopin/gitmoji-browser-extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Gitmoji browser extension to easily search and copy gitmojis 😜&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

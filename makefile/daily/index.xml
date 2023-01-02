@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:36:01Z</updated>
+  <updated>2023-01-02T01:36:56Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>libretro-thumbnails/libretro-thumbnails</title>
-    <updated>2023-01-01T01:36:01Z</updated>
-    <id>tag:github.com,2023-01-01:/libretro-thumbnails/libretro-thumbnails</id>
-    <link href="https://github.com/libretro-thumbnails/libretro-thumbnails" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Thumbnails for RetroArch&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>plus3it/terraform-aws-org-new-account-delete-default-vpcs</title>
+    <updated>2023-01-02T01:36:56Z</updated>
+    <id>tag:github.com,2023-01-02:/plus3it/terraform-aws-org-new-account-delete-default-vpcs</id>
+    <link href="https://github.com/plus3it/terraform-aws-org-new-account-delete-default-vpcs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for a lambda function that deletes default VPCs in all regions when an account is added to an AWS Organization&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TheStrechh/android_vendor_xiaomi_surya</title>
-    <updated>2023-01-01T01:36:01Z</updated>
-    <id>tag:github.com,2023-01-01:/TheStrechh/android_vendor_xiaomi_surya</id>
-    <link href="https://github.com/TheStrechh/android_vendor_xiaomi_surya" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vendor blobs tree configuration for Poco X3 NFC&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pjgowtham/proprietary_vendor_oplus</title>
+    <updated>2023-01-02T01:36:56Z</updated>
+    <id>tag:github.com,2023-01-02:/pjgowtham/proprietary_vendor_oplus</id>
+    <link href="https://github.com/pjgowtham/proprietary_vendor_oplus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

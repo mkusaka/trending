@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:36:54Z</updated>
+  <updated>2023-01-02T01:38:04Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>subzerocloud/postgrest-starter-kit</title>
-    <updated>2023-01-01T01:36:54Z</updated>
-    <id>tag:github.com,2023-01-01:/subzerocloud/postgrest-starter-kit</id>
-    <link href="https://github.com/subzerocloud/postgrest-starter-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starter Kit and tooling for authoring REST API backends with PostgREST&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

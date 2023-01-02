@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:30:41Z</updated>
+  <updated>2023-01-02T01:29:48Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>youshandefeiyang/IPTV</title>
-    <updated>2023-01-01T01:30:41Z</updated>
-    <id>tag:github.com,2023-01-01:/youshandefeiyang/IPTV</id>
-    <link href="https://github.com/youshandefeiyang/IPTV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;肥羊的4K/8K超高清IPTV直播源&amp;&amp;直播代码仓库&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SurviveSJTU/SurviveSJTUManual</title>
+    <updated>2023-01-02T01:29:48Z</updated>
+    <id>tag:github.com,2023-01-02:/SurviveSJTU/SurviveSJTUManual</id>
+    <link href="https://github.com/SurviveSJTU/SurviveSJTUManual" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devsecops/awesome-devsecops</title>
-    <updated>2023-01-01T01:30:41Z</updated>
-    <id>tag:github.com,2023-01-01:/devsecops/awesome-devsecops</id>
-    <link href="https://github.com/devsecops/awesome-devsecops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An authoritative list of awesome devsecops tools with the help from community experiments and contributions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hq450/fancyss_history_package</title>
+    <updated>2023-01-02T01:29:48Z</updated>
+    <id>tag:github.com,2023-01-02:/hq450/fancyss_history_package</id>
+    <link href="https://github.com/hq450/fancyss_history_package" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;科学上网插件的离线安装包储存在这里&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>A-poc/RedTeam-Tools</title>
-    <updated>2023-01-01T01:30:41Z</updated>
-    <id>tag:github.com,2023-01-01:/A-poc/RedTeam-Tools</id>
-    <link href="https://github.com/A-poc/RedTeam-Tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools and Techniques for Red Team / Penetration Testing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ulid/spec</title>
+    <updated>2023-01-02T01:29:48Z</updated>
+    <id>tag:github.com,2023-01-02:/ulid/spec</id>
+    <link href="https://github.com/ulid/spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The canonical spec for ulid&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

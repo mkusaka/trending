@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:31:12Z</updated>
+  <updated>2023-01-02T01:30:44Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nas5w/interview-guide</title>
+    <updated>2023-01-02T01:30:44Z</updated>
+    <id>tag:github.com,2023-01-02:/nas5w/interview-guide</id>
+    <link href="https://github.com/nas5w/interview-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated, actionable guide for software engineering interviews.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

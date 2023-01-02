@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:33:41Z</updated>
+  <updated>2023-01-02T01:33:32Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>this-is-bennyk/Funkin-VR</title>
-    <updated>2023-01-01T01:33:41Z</updated>
-    <id>tag:github.com,2023-01-01:/this-is-bennyk/Funkin-VR</id>
-    <link href="https://github.com/this-is-bennyk/Funkin-VR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(Abandonware) Fanmade VR port of Friday Night Funkin&#39;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anatolbogun/godot-smoother-node</title>
+    <updated>2023-01-02T01:33:32Z</updated>
+    <id>tag:github.com,2023-01-02:/anatolbogun/godot-smoother-node</id>
+    <link href="https://github.com/anatolbogun/godot-smoother-node" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot node type that smoothes scene nodes&#39; movements by interpolating between _physics_process steps.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lihop/godot-xterm</title>
+    <updated>2023-01-02T01:33:32Z</updated>
+    <id>tag:github.com,2023-01-02:/lihop/godot-xterm</id>
+    <link href="https://github.com/lihop/godot-xterm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terminal emulator for the Godot game engine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

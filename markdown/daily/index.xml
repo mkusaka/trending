@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:36:02Z</updated>
+  <updated>2023-01-02T01:36:59Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seanpm2001/Why-you-should-avoid-Google-News</title>
-    <updated>2023-01-01T01:36:02Z</updated>
-    <id>tag:github.com,2023-01-01:/seanpm2001/Why-you-should-avoid-Google-News</id>
-    <link href="https://github.com/seanpm2001/Why-you-should-avoid-Google-News" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📃️ An article on the problems with the Google News service, and why you should avoid it.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seanpm2001/Why-you-should-stop-using-Google-Images</title>
+    <updated>2023-01-02T01:36:59Z</updated>
+    <id>tag:github.com,2023-01-02:/seanpm2001/Why-you-should-stop-using-Google-Images</id>
+    <link href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Images" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📃️ An article on the problems with the Google Images service, and why you should avoid it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>seanpm2001/Problems-with-the-Google-Knowledge-Graph</title>
-    <updated>2023-01-01T01:36:02Z</updated>
-    <id>tag:github.com,2023-01-01:/seanpm2001/Problems-with-the-Google-Knowledge-Graph</id>
-    <link href="https://github.com/seanpm2001/Problems-with-the-Google-Knowledge-Graph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📃️ An article on the problems with the Google Knowledge Graph, and why you should avoid the Google Search engine.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seanpm2001/Why-you-should-stop-using-Google-Shopping</title>
+    <updated>2023-01-02T01:36:59Z</updated>
+    <id>tag:github.com,2023-01-02:/seanpm2001/Why-you-should-stop-using-Google-Shopping</id>
+    <link href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Shopping" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📃️ An article on the problems with the Google Shopping service, and why you should avoid it.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:32:21Z</updated>
+  <updated>2023-01-02T01:31:49Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ignitetch/whatsapp-phishing</title>
-    <updated>2023-01-01T01:32:21Z</updated>
-    <id>tag:github.com,2023-01-01:/Ignitetch/whatsapp-phishing</id>
-    <link href="https://github.com/Ignitetch/whatsapp-phishing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;the best tool for whatsapp-phishing with otp provider ..&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OTP Bypass Instructions&lt;/h1&gt; &#xA;&lt;p&gt;When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.&lt;/p&gt; &#xA;&lt;h1&gt;whatsapp-phishing&lt;/h1&gt; &#xA;&lt;p&gt;the best tool for whatsapp-phishing with otp Bypass .. &lt;img src=&#34;https://user-images.githubusercontent.com/55870659/75668326-29af2900-5c47-11ea-976c-b6263fc96f03.png&#34; alt=&#34;hi&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/55870659/76102702-6019da80-5f9e-11ea-9504-14b5de03786b.png&#34; alt=&#34;wh&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Requirements&lt;/h1&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;ngrok setup&lt;/li&gt; &#xA; &lt;li&gt;Root - Must&lt;/li&gt; &#xA; &lt;li&gt;Apache Server&lt;/li&gt; &#xA; &lt;li&gt;Internet&lt;/li&gt; &#xA; &lt;li&gt;add repo on kali&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;How to Intsall &amp;amp; Use&lt;/h1&gt; &#xA;&lt;p&gt;root ---must !&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;git clone &lt;a href=&#34;https://github.com/Ignitetch/whatsapp-phishing.git&#34;&gt;https://github.com/Ignitetch/whatsapp-phishing.git&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;cd whatsapp-phishing&lt;/li&gt; &#xA; &lt;li&gt;chmod 777 Whatsapp.sh&lt;/li&gt; &#xA; &lt;li&gt;./Whatsapp.sh&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;Contact For Contribute&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;mailto:sg5479845@gmail.co&#34;&gt;sg5479845@gmail.co&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>mwidera/iac-labs</title>
+    <updated>2023-01-02T01:31:49Z</updated>
+    <id>tag:github.com,2023-01-02:/mwidera/iac-labs</id>
+    <link href="https://github.com/mwidera/iac-labs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Infrastructure as Code exercises&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lbc-team/deep_ethereum</title>
-    <updated>2023-01-01T01:32:21Z</updated>
-    <id>tag:github.com,2023-01-01:/lbc-team/deep_ethereum</id>
-    <link href="https://github.com/lbc-team/deep_ethereum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;电子书：以太坊技术与实现&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;以太坊设计与实现&lt;/h1&gt; &#xA;&lt;p&gt;这是一本持续写作中的电子书，欢迎关注。&lt;/p&gt; &#xA;&lt;p&gt;本电子书是对以太坊区块链的实现原理和程序实现进行详解，力图展示区块链2.0先锋以太坊智能合约编程平台设计思想与代码实现。&lt;/p&gt; &#xA;&lt;p&gt;电子书的目录为本书内容结构，如果可以点击查阅，说明我已写完这一小节。&lt;/p&gt; &#xA;&lt;h2&gt;写作说明&lt;/h2&gt; &#xA;&lt;p&gt;内容当前由&lt;a href=&#34;https://upchain.ke.qq.com/?tuin=bd898bbf&#34;&gt;登链学院&lt;/a&gt;成员&lt;a href=&#34;https://yushuangqi.com&#34;&gt;虞双齐&lt;/a&gt;写作， 首发于&lt;a href=&#34;https://learnblockchain.cn/&#34;&gt;深入浅出区块链&lt;/a&gt;博客下电子书栏目&lt;a href=&#34;https://learnblockchain.cn/books/geth/&#34;&gt;《以太坊设计与实现》&lt;/a&gt;。&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;登链是商业性、培训机构。 深入浅出区块链,是一个社区下公益的技术布道平台。&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;离线阅读&lt;/h2&gt; &#xA;&lt;p&gt;如果你想在你个人电脑上离线阅读，那么你只需要拷贝项目到本地，并使用 hugo 软件运行即可。&lt;/p&gt; &#xA;&lt;p&gt;首先，需要&lt;a href=&#34;https://gohugo.io/getting-started/installing&#34;&gt;安装 Hugo 软件&lt;/a&gt;，再拷贝项目到本地：&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;git clone https://github.com/lbc-team/deep_ethereum.git&#xA;cd deep_ethereum&#xA;git submodule update --init&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;此时，便可以使用 hugo 来本地运行：&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;cd deep_ethereum&#xA;hugo serve&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;如何贡献&lt;/h2&gt; &#xA;&lt;p&gt;哪怕你仅仅是修改一个错别字，也是非常欢迎的。不在于参与多少，而在于愿意一起改进这本电子书。&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;你可以在浏览文章时，直接点击文章右上角的【我要编辑】按钮，直接在线编辑。&lt;/li&gt; &#xA; &lt;li&gt;也可以拷贝项目到本地，在本地编辑后，PR到项目 master 分支。&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;社区&lt;/h1&gt; &#xA;&lt;p&gt;目前在登链学院组织的微信群交流，扫描加微信进以太坊技术交流群。&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.learnblockchain.cn/qrcode/xiaona_qrcode2.jpeg&#34; alt=&#34;以太坊技术交流微信群&#34;&gt;&lt;/p&gt;</summary>
+    <title>aneagoie/keiko-corp</title>
+    <updated>2023-01-02T01:31:49Z</updated>
+    <id>tag:github.com,2023-01-02:/aneagoie/keiko-corp</id>
+    <link href="https://github.com/aneagoie/keiko-corp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The greatest startup ever created&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;keiko-corp&lt;/h1&gt; &#xA;&lt;p&gt;The greatest company ever created by Bruno&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;visist &lt;a href=&#34;https://zerotomastery.io/&#34;&gt;https://zerotomastery.io/&lt;/a&gt; for more&lt;/em&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-01T01:38:04Z</updated>
+  <updated>2023-01-02T01:39:38Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>m-ou-se/rust-atomics-and-locks</title>
-    <updated>2023-01-01T01:38:04Z</updated>
-    <id>tag:github.com,2023-01-01:/m-ou-se/rust-atomics-and-locks</id>
-    <link href="https://github.com/m-ou-se/rust-atomics-and-locks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code examples, data structures, and links from my book, Rust Atomics and Locks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>libreddit/libreddit</title>
+    <updated>2023-01-02T01:39:38Z</updated>
+    <id>tag:github.com,2023-01-02:/libreddit/libreddit</id>
+    <link href="https://github.com/libreddit/libreddit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Private front-end for Reddit&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PRQL/prql</title>
-    <updated>2023-01-01T01:38:04Z</updated>
-    <id>tag:github.com,2023-01-01:/PRQL/prql</id>
-    <link href="https://github.com/PRQL/prql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-bakery/nom</title>
+    <updated>2023-01-02T01:39:38Z</updated>
+    <id>tag:github.com,2023-01-02:/rust-bakery/nom</id>
+    <link href="https://github.com/rust-bakery/nom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust parser combinator framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>watchexec/cargo-watch</title>
-    <updated>2023-01-01T01:38:04Z</updated>
-    <id>tag:github.com,2023-01-01:/watchexec/cargo-watch</id>
-    <link href="https://github.com/watchexec/cargo-watch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Watches over your Cargo project&#39;s source.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LukeMathWalker/pavex</title>
+    <updated>2023-01-02T01:39:38Z</updated>
+    <id>tag:github.com,2023-01-02:/LukeMathWalker/pavex</id>
+    <link href="https://github.com/LukeMathWalker/pavex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A source code generator for building APIs and web applications with Rust.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
