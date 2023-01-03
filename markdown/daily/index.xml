@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-02T01:36:59Z</updated>
+  <updated>2023-01-03T01:36:12Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>seanpm2001/Why-you-should-stop-using-Google-Images</title>
-    <updated>2023-01-02T01:36:59Z</updated>
-    <id>tag:github.com,2023-01-02:/seanpm2001/Why-you-should-stop-using-Google-Images</id>
-    <link href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Images" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📃️ An article on the problems with the Google Images service, and why you should avoid it.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seanpm2001/Why-you-should-stop-using-Google-Shopping</title>
-    <updated>2023-01-02T01:36:59Z</updated>
-    <id>tag:github.com,2023-01-02:/seanpm2001/Why-you-should-stop-using-Google-Shopping</id>
-    <link href="https://github.com/seanpm2001/Why-you-should-stop-using-Google-Shopping" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📃️ An article on the problems with the Google Shopping service, and why you should avoid it.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

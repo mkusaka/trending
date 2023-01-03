@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-02T01:37:16Z</updated>
+  <updated>2023-01-03T01:36:31Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gvolpe/nmd</title>
-    <updated>2023-01-02T01:37:16Z</updated>
-    <id>tag:github.com,2023-01-02:/gvolpe/nmd</id>
-    <link href="https://github.com/gvolpe/nmd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NixOS Module Documentation generator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DevInsideYou/scala-seed</title>
+    <updated>2023-01-03T01:36:31Z</updated>
+    <id>tag:github.com,2023-01-03:/DevInsideYou/scala-seed</id>
+    <link href="https://github.com/DevInsideYou/scala-seed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Nix flake for getting started with Scala.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

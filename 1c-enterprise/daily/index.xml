@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub 1C Enterprise Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-02T01:29:41Z</updated>
+  <updated>2023-01-03T01:29:55Z</updated>
   <subtitle>Daily Trending of 1C Enterprise in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SeiOkami/ManagerOpenForms</title>
-    <updated>2023-01-02T01:29:41Z</updated>
-    <id>tag:github.com,2023-01-02:/SeiOkami/ManagerOpenForms</id>
-    <link href="https://github.com/SeiOkami/ManagerOpenForms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Менеджер открытых форм 1С&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

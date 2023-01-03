@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-02T01:41:46Z</updated>
+  <updated>2023-01-03T01:40:51Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>theseyan/bunview</title>
-    <updated>2023-01-02T01:41:46Z</updated>
-    <id>tag:github.com,2023-01-02:/theseyan/bunview</id>
-    <link href="https://github.com/theseyan/bunview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Feature-complete webview library for Bun&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>devins2518/zig-dis-aarch64</title>
-    <updated>2023-01-02T01:41:46Z</updated>
-    <id>tag:github.com,2023-01-02:/devins2518/zig-dis-aarch64</id>
-    <link href="https://github.com/devins2518/zig-dis-aarch64" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>travisstaloch/simdjzon</title>
-    <updated>2023-01-02T01:41:46Z</updated>
-    <id>tag:github.com,2023-01-02:/travisstaloch/simdjzon</id>
-    <link href="https://github.com/travisstaloch/simdjzon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;simdjson port to zig&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

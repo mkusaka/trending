@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-02T01:29:48Z</updated>
+  <updated>2023-01-03T01:30:00Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SurviveSJTU/SurviveSJTUManual</title>
-    <updated>2023-01-02T01:29:48Z</updated>
-    <id>tag:github.com,2023-01-02:/SurviveSJTU/SurviveSJTUManual</id>
-    <link href="https://github.com/SurviveSJTU/SurviveSJTUManual" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>priyankavergadia/GCPSketchnote</title>
+    <updated>2023-01-03T01:30:00Z</updated>
+    <id>tag:github.com,2023-01-03:/priyankavergadia/GCPSketchnote</id>
+    <link href="https://github.com/priyankavergadia/GCPSketchnote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hq450/fancyss_history_package</title>
-    <updated>2023-01-02T01:29:48Z</updated>
-    <id>tag:github.com,2023-01-02:/hq450/fancyss_history_package</id>
-    <link href="https://github.com/hq450/fancyss_history_package" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;科学上网插件的离线安装包储存在这里&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>youssefHosni/Data-Science-Educational-Resoruces</title>
+    <updated>2023-01-03T01:30:00Z</updated>
+    <id>tag:github.com,2023-01-03:/youssefHosni/Data-Science-Educational-Resoruces</id>
+    <link href="https://github.com/youssefHosni/Data-Science-Educational-Resoruces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ulid/spec</title>
-    <updated>2023-01-02T01:29:48Z</updated>
-    <id>tag:github.com,2023-01-02:/ulid/spec</id>
-    <link href="https://github.com/ulid/spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The canonical spec for ulid&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xiaye13579/BBLL</title>
+    <updated>2023-01-03T01:30:00Z</updated>
+    <id>tag:github.com,2023-01-03:/xiaye13579/BBLL</id>
+    <link href="https://github.com/xiaye13579/BBLL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

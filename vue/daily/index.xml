@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-02T01:41:32Z</updated>
+  <updated>2023-01-03T01:40:39Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>i7eo/google-translate-select</title>
-    <updated>2023-01-02T01:41:32Z</updated>
-    <id>tag:github.com,2023-01-02:/i7eo/google-translate-select</id>
-    <link href="https://github.com/i7eo/google-translate-select" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 A modern, high-performance monorepo project designed with Google Translate JS SDK. Vue and react are supported!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mark-when/markwhen</title>
-    <updated>2023-01-02T01:41:32Z</updated>
-    <id>tag:github.com,2023-01-02:/mark-when/markwhen</id>
-    <link href="https://github.com/mark-when/markwhen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ShiranAbir/chaty</title>
+    <updated>2023-01-03T01:40:39Z</updated>
+    <id>tag:github.com,2023-01-03:/ShiranAbir/chaty</id>
+    <link href="https://github.com/ShiranAbir/chaty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
