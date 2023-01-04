@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:30:00Z</updated>
+  <updated>2023-01-04T01:29:14Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>priyankavergadia/GCPSketchnote</title>
-    <updated>2023-01-03T01:30:00Z</updated>
-    <id>tag:github.com,2023-01-03:/priyankavergadia/GCPSketchnote</id>
-    <link href="https://github.com/priyankavergadia/GCPSketchnote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LondheShubham153/90DaysOfDevOps</title>
+    <updated>2023-01-04T01:29:14Z</updated>
+    <id>tag:github.com,2023-01-04:/LondheShubham153/90DaysOfDevOps</id>
+    <link href="https://github.com/LondheShubham153/90DaysOfDevOps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is a Challenge for the DevOps Community to get stronger in DevOps. This challenge starts on the 1st January 2023 and in the next 90 Days we promise ourselves to become better at DevOps. The reason for making this Public is so that others can learn from the community and help each other grow.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>youssefHosni/Data-Science-Educational-Resoruces</title>
-    <updated>2023-01-03T01:30:00Z</updated>
-    <id>tag:github.com,2023-01-03:/youssefHosni/Data-Science-Educational-Resoruces</id>
-    <link href="https://github.com/youssefHosni/Data-Science-Educational-Resoruces" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joshnh/Git-Commands</title>
+    <updated>2023-01-04T01:29:14Z</updated>
+    <id>tag:github.com,2023-01-04:/joshnh/Git-Commands</id>
+    <link href="https://github.com/joshnh/Git-Commands" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of commonly used Git commands&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xiaye13579/BBLL</title>
-    <updated>2023-01-03T01:30:00Z</updated>
-    <id>tag:github.com,2023-01-03:/xiaye13579/BBLL</id>
-    <link href="https://github.com/xiaye13579/BBLL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/advisory-database</title>
+    <updated>2023-01-04T01:29:14Z</updated>
+    <id>tag:github.com,2023-01-04:/github/advisory-database</id>
+    <link href="https://github.com/github/advisory-database" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

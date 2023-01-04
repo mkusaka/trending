@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:35:31Z</updated>
+  <updated>2023-01-04T01:33:46Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>launchcode01dl/mathematics-for-machine-learning-coursera</title>
-    <updated>2023-01-03T01:35:31Z</updated>
-    <id>tag:github.com,2023-01-03:/launchcode01dl/mathematics-for-machine-learning-coursera</id>
-    <link href="https://github.com/launchcode01dl/mathematics-for-machine-learning-coursera" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;quizzes/assignments for mathematics for machine learning specialization on coursera&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mathematics-for-machine-learning-cousera&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains all the quizzes/assignments for the specialization &#34;Mathematics for Machine learning&#34; by Imperial College of London on Coursera.&lt;br&gt;&lt;/p&gt; &#xA;&lt;h4&gt;Proof of my certification can be seen &lt;a href=&#34;https://www.coursera.org/account/accomplishments/specialization/XSG9YARUPCAT&#34;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;/h4&gt; &#xA;&lt;h4&gt;Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is strongly advised that no one should just copy the solutions(voilation of Coursera Honor Code) presented here.&lt;/h4&gt; &#xA;&lt;h2&gt;Updates&lt;/h2&gt; &#xA;&lt;h3&gt;Course-1: Linear Algebra - completed&lt;br&gt;&lt;/h3&gt; &#xA;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week1 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week2 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week3 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week4 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week5 - completed&lt;br&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Course-2: Multivariate Calculus - completed&lt;br&gt;&lt;/h3&gt; &#xA;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week1 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week2 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week3 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week4 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week5 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week6 - completed&lt;br&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Course-3: PCA - completed&lt;br&gt;&lt;/h3&gt; &#xA;&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week1 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week2 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week3 - completed&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Week4 - completed&lt;br&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

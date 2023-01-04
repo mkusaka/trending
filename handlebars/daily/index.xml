@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:33:45Z</updated>
+  <updated>2023-01-04T01:32:23Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>carbon-design-system/carbon-for-ibm-dotcom-web-components-template</title>
-    <updated>2023-01-03T01:33:45Z</updated>
-    <id>tag:github.com,2023-01-03:/carbon-design-system/carbon-for-ibm-dotcom-web-components-template</id>
-    <link href="https://github.com/carbon-design-system/carbon-for-ibm-dotcom-web-components-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is an HTML Template utilizing Carbon for IBM.com Web Components. It contains a basic WebPack setup using Handlebars for page management, which includes the dds-dotcom-shell, along with other various patterns and components available in Carbon for IBM.com.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

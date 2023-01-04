@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:31:29Z</updated>
+  <updated>2023-01-04T01:30:22Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lilactown/flex</title>
-    <updated>2023-01-03T01:31:29Z</updated>
-    <id>tag:github.com,2023-01-03:/lilactown/flex</id>
-    <link href="https://github.com/lilactown/flex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;flex is a library for building reactive computation graphs in Clojure(Script)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>babashka/http-client</title>
-    <updated>2023-01-03T01:31:29Z</updated>
-    <id>tag:github.com,2023-01-03:/babashka/http-client</id>
-    <link href="https://github.com/babashka/http-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTTP client for Clojure and Babashka built on java.net.http&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

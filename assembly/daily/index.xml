@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:30:41Z</updated>
+  <updated>2023-01-04T01:29:41Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PiaCarrot/pokeorange</title>
-    <updated>2023-01-03T01:30:41Z</updated>
-    <id>tag:github.com,2023-01-03:/PiaCarrot/pokeorange</id>
-    <link href="https://github.com/PiaCarrot/pokeorange" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ROM Hack of Crystal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PlummersSoftwareLLC/HelloAssembly</title>
+    <updated>2023-01-04T01:29:41Z</updated>
+    <id>tag:github.com,2023-01-04:/PlummersSoftwareLLC/HelloAssembly</id>
+    <link href="https://github.com/PlummersSoftwareLLC/HelloAssembly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The smallest possible complete Windows application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eievui5/vuiiger-engine</title>
+    <updated>2023-01-04T01:29:41Z</updated>
+    <id>tag:github.com,2023-01-04:/eievui5/vuiiger-engine</id>
+    <link href="https://github.com/eievui5/vuiiger-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Game Boy &#34;Mystery Dungeon&#34; engine written in SM83 assembly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Spnl48/JMP-CALL-POP</title>
+    <updated>2023-01-04T01:29:41Z</updated>
+    <id>tag:github.com,2023-01-04:/Spnl48/JMP-CALL-POP</id>
+    <link href="https://github.com/Spnl48/JMP-CALL-POP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Config files for my GitHub profile.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

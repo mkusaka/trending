@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:36:12Z</updated>
+  <updated>2023-01-04T01:34:22Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>saveweb/review-2022</title>
+    <updated>2023-01-04T01:34:22Z</updated>
+    <id>tag:github.com,2023-01-04:/saveweb/review-2022</id>
+    <link href="https://github.com/saveweb/review-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;饿您饿饿年，你吃年终总结了馍？&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seanpm2001/DeGoogle-your-life-Graveyard-catalogue</title>
+    <updated>2023-01-04T01:34:22Z</updated>
+    <id>tag:github.com,2023-01-04:/seanpm2001/DeGoogle-your-life-Graveyard-catalogue</id>
+    <link href="https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📑️🚫️📃️ A catalog of articles on past Google products and their associated DeGoogle articles. Part of the seanpm2001 DeGoogle your Life project. Also an alternative to the killedbygoogle site.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seanpm2001/DeGoogle-your-life-Current-Catalogue</title>
+    <updated>2023-01-04T01:34:22Z</updated>
+    <id>tag:github.com,2023-01-04:/seanpm2001/DeGoogle-your-life-Current-Catalogue</id>
+    <link href="https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📑️🚫️📃️ A catalog of articles on current Google products and their associated DeGoogle articles. Part of the seanpm2001 DeGoogle your Life project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:32:10Z</updated>
+  <updated>2023-01-04T01:31:02Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Mrzyang/doprax_trojan</title>
-    <updated>2023-01-03T01:32:10Z</updated>
-    <id>tag:github.com,2023-01-03:/Mrzyang/doprax_trojan</id>
-    <link href="https://github.com/Mrzyang/doprax_trojan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;build trojan server on dorpax docker container&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;trojan on Doprax&lt;/h1&gt; &#xA;&lt;p&gt;you should use the client supporting trojan, like v2rayNG、Matsuri on Android, shadowsocket on ios, v2rayN on windows and so on. Clash is advised because v2rayNG and Matsuri can not often be connected when visiting youtube and some other websites.&lt;/p&gt; &#xA;&lt;p&gt;the trojan configuration on Matsuri is like the following image：&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Mrzyang/doprax_trojan/raw/master/Matsuri_configuration.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;then you can get the trojan link by Matsuri and import to clash.&lt;/p&gt;</summary>
-  </entry>
 </feed>

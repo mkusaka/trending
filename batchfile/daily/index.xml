@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:30:48Z</updated>
+  <updated>2023-01-04T01:29:45Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Aingkong/ZorinRDP</title>
+    <updated>2023-01-04T01:29:45Z</updated>
+    <id>tag:github.com,2023-01-04:/Aingkong/ZorinRDP</id>
+    <link href="https://github.com/Aingkong/ZorinRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Virtual Remote Server (RDP) for Development &amp; Learning 🎓&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aadupoom1/RDP-GITHUB</title>
+    <updated>2023-01-04T01:29:45Z</updated>
+    <id>tag:github.com,2023-01-04:/aadupoom1/RDP-GITHUB</id>
+    <link href="https://github.com/aadupoom1/RDP-GITHUB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MichaelBrowns92/RDP_Windows2019</title>
+    <updated>2023-01-04T01:29:45Z</updated>
+    <id>tag:github.com,2023-01-04:/MichaelBrowns92/RDP_Windows2019</id>
+    <link href="https://github.com/MichaelBrowns92/RDP_Windows2019" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

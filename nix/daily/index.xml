@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:36:31Z</updated>
+  <updated>2023-01-04T01:34:36Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DevInsideYou/scala-seed</title>
-    <updated>2023-01-03T01:36:31Z</updated>
-    <id>tag:github.com,2023-01-03:/DevInsideYou/scala-seed</id>
-    <link href="https://github.com/DevInsideYou/scala-seed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Nix flake for getting started with Scala.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>srid/nixos-config</title>
+    <updated>2023-01-04T01:34:36Z</updated>
+    <id>tag:github.com,2023-01-04:/srid/nixos-config</id>
+    <link href="https://github.com/srid/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KISS NixOS configuration based on Flakes &amp; flake-parts (supports macOS too)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

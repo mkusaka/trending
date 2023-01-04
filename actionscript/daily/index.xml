@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:30:30Z</updated>
+  <updated>2023-01-04T01:29:32Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nospoone/LD25</title>
+    <updated>2023-01-04T01:29:32Z</updated>
+    <id>tag:github.com,2023-01-04:/nospoone/LD25</id>
+    <link href="https://github.com/nospoone/LD25" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ludum Dare 25 Game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

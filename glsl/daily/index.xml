@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:33:27Z</updated>
+  <updated>2023-01-04T01:32:04Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>euler0/sublime-glsl</title>
-    <updated>2023-01-03T01:33:27Z</updated>
-    <id>tag:github.com,2023-01-03:/euler0/sublime-glsl</id>
-    <link href="https://github.com/euler0/sublime-glsl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GLSL Syntax Highlighting for Sublime Text 2, 3, and 4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>McbeEringi/esbe-2g</title>
-    <updated>2023-01-03T01:33:27Z</updated>
-    <id>tag:github.com,2023-01-03:/McbeEringi/esbe-2g</id>
-    <link href="https://github.com/McbeEringi/esbe-2g" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A shader for Minecraft Bedrock&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

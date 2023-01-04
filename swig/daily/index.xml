@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SWIG Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:39:36Z</updated>
+  <updated>2023-01-04T01:37:19Z</updated>
   <subtitle>Daily Trending of SWIG in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MilovanTomasevic/Design-Patterns</title>
-    <updated>2023-01-03T01:39:36Z</updated>
-    <id>tag:github.com,2023-01-03:/MilovanTomasevic/Design-Patterns</id>
-    <link href="https://github.com/MilovanTomasevic/Design-Patterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code examples of Design Patterns in various languages: C#, C++, Go, Java, JavaScript, Python, and Swift.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:36:28Z</updated>
+  <updated>2023-01-04T01:34:34Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jerous86/nimqt</title>
-    <updated>2023-01-03T01:36:28Z</updated>
-    <id>tag:github.com,2023-01-03:/jerous86/nimqt</id>
-    <link href="https://github.com/jerous86/nimqt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Qt bindings for nim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oakes/zachlisp.nim</title>
+    <updated>2023-01-04T01:34:34Z</updated>
+    <id>tag:github.com,2023-01-04:/oakes/zachlisp.nim</id>
+    <link href="https://github.com/oakes/zachlisp.nim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

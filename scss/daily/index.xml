@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:39:01Z</updated>
+  <updated>2023-01-04T01:36:39Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vblanco20-1/vulkan-guide</title>
-    <updated>2023-01-03T01:39:01Z</updated>
-    <id>tag:github.com,2023-01-03:/vblanco20-1/vulkan-guide</id>
-    <link href="https://github.com/vblanco20-1/vulkan-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Introductory guide to vulkan.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>statichunt/geeky-hugo</title>
-    <updated>2023-01-03T01:39:01Z</updated>
-    <id>tag:github.com,2023-01-03:/statichunt/geeky-hugo</id>
-    <link href="https://github.com/statichunt/geeky-hugo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Geeky is a Personal Hugo blog theme focused on high speed. Geeky is fully responsive, Superfast, and powered by Bootstrap v5.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jitinnair1/gradfolio</title>
-    <updated>2023-01-03T01:39:01Z</updated>
-    <id>tag:github.com,2023-01-03:/jitinnair1/gradfolio</id>
-    <link href="https://github.com/jitinnair1/gradfolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

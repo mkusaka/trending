@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:40:45Z</updated>
+  <updated>2023-01-04T01:38:13Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SofianeHamlaoui/Pentest-Notes</title>
+    <updated>2023-01-04T01:38:13Z</updated>
+    <id>tag:github.com,2023-01-04:/SofianeHamlaoui/Pentest-Notes</id>
+    <link href="https://github.com/SofianeHamlaoui/Pentest-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of Pentest Notes and Cheatsheets from a lot of repos (SofianeHamlaoui,dostoevsky,mantvydasb,adon90,BriskSec)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Pentest-Notes&lt;/h1&gt; &#xA;&lt;p&gt;Collection of Pentest Notes and Cheatsheets from a lot of repos :&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt; SofianeHamlaoui, dostoevsky, mantvydasb, adon90, BriskSec&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/SofianeHamlaoui/Pentest-Notes/master/Security_cheatsheets/README.md&#34;&gt;Security Cheatsheets by BriskSec&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/SofianeHamlaoui/Pentest-Notes/master/dostoevsky-pentest-notes/README.md&#34;&gt;Dostoevskylabs&#39;s PenTest Notes&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/SofianeHamlaoui/Pentest-Notes/master/pentest_compilation/README.md&#34;&gt;Pentest Compilation&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/SofianeHamlaoui/Pentest-Notes/master/offensive-security&#34;&gt;OffSec notes&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

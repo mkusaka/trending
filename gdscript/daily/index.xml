@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-03T01:33:21Z</updated>
+  <updated>2023-01-04T01:31:59Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Giwayume/godot-svg</title>
-    <updated>2023-01-03T01:33:21Z</updated>
-    <id>tag:github.com,2023-01-03:/Giwayume/godot-svg</id>
-    <link href="https://github.com/Giwayume/godot-svg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SVG Rendering Plugin for Godot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VectorWorkshopBaoErJie/CargoDocTranslate</title>
+    <updated>2023-01-04T01:31:59Z</updated>
+    <id>tag:github.com,2023-01-04:/VectorWorkshopBaoErJie/CargoDocTranslate</id>
+    <link href="https://github.com/VectorWorkshopBaoErJie/CargoDocTranslate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust语言Cargo文档动态更新翻译&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
