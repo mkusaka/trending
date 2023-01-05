@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-04T01:38:04Z</updated>
+  <updated>2023-01-05T01:37:29Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Konfekt/FastFold</title>
-    <updated>2023-01-04T01:38:04Z</updated>
-    <id>tag:github.com,2023-01-04:/Konfekt/FastFold</id>
-    <link href="https://github.com/Konfekt/FastFold" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Speed up Vim by updating folds only when called-for.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sjl/gundo.vim</title>
+    <updated>2023-01-05T01:37:29Z</updated>
+    <id>tag:github.com,2023-01-05:/sjl/gundo.vim</id>
+    <link href="https://github.com/sjl/gundo.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A git mirror of gundo.vim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>farmergreg/vim-lastplace</title>
-    <updated>2023-01-04T01:38:04Z</updated>
-    <id>tag:github.com,2023-01-04:/farmergreg/vim-lastplace</id>
-    <link href="https://github.com/farmergreg/vim-lastplace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Intelligently reopen files at your last edit position in Vim.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chrisbra/DistractFree</title>
+    <updated>2023-01-05T01:37:29Z</updated>
+    <id>tag:github.com,2023-01-05:/chrisbra/DistractFree</id>
+    <link href="https://github.com/chrisbra/DistractFree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DistractFree&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

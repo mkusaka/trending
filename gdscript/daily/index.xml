@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-04T01:31:59Z</updated>
+  <updated>2023-01-05T01:31:40Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>VectorWorkshopBaoErJie/CargoDocTranslate</title>
-    <updated>2023-01-04T01:31:59Z</updated>
-    <id>tag:github.com,2023-01-04:/VectorWorkshopBaoErJie/CargoDocTranslate</id>
-    <link href="https://github.com/VectorWorkshopBaoErJie/CargoDocTranslate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust语言Cargo文档动态更新翻译&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nonagaga/Watery-Grave-3D</title>
+    <updated>2023-01-05T01:31:40Z</updated>
+    <id>tag:github.com,2023-01-05:/nonagaga/Watery-Grave-3D</id>
+    <link href="https://github.com/nonagaga/Watery-Grave-3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot Project between 4 idiots&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-04T01:37:10Z</updated>
+  <updated>2023-01-05T01:36:36Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JaiTrieTree/Kubernetes-2022</title>
-    <updated>2023-01-04T01:37:10Z</updated>
-    <id>tag:github.com,2023-01-04:/JaiTrieTree/Kubernetes-2022</id>
-    <link href="https://github.com/JaiTrieTree/Kubernetes-2022" rel="alternate"></link>
+    <title>rhte2023-argo-rollouts/dstrategies-app-deployment</title>
+    <updated>2023-01-05T01:36:36Z</updated>
+    <id>tag:github.com,2023-01-05:/rhte2023-argo-rollouts/dstrategies-app-deployment</id>
+    <link href="https://github.com/rhte2023-argo-rollouts/dstrategies-app-deployment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains the required objects to deploy dstrategies application in a GitOps way&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tricorder-observability/helm-charts</title>
+    <updated>2023-01-05T01:36:36Z</updated>
+    <id>tag:github.com,2023-01-05:/tricorder-observability/helm-charts</id>
+    <link href="https://github.com/tricorder-observability/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Charts for tricorder observability.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>giantswarm/cluster-azure</title>
+    <updated>2023-01-05T01:36:36Z</updated>
+    <id>tag:github.com,2023-01-05:/giantswarm/cluster-azure</id>
+    <link href="https://github.com/giantswarm/cluster-azure" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

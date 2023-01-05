@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-04T01:32:34Z</updated>
+  <updated>2023-01-05T01:32:15Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>traveloka/terraform-aws-alb-single-listener</title>
-    <updated>2023-01-04T01:32:34Z</updated>
-    <id>tag:github.com,2023-01-04:/traveloka/terraform-aws-alb-single-listener</id>
-    <link href="https://github.com/traveloka/terraform-aws-alb-single-listener" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A terraform module which provisions an AWS Application LB with a single listener&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>traveloka/terraform-aws-autoscaling</title>
-    <updated>2023-01-04T01:32:34Z</updated>
-    <id>tag:github.com,2023-01-04:/traveloka/terraform-aws-autoscaling</id>
-    <link href="https://github.com/traveloka/terraform-aws-autoscaling" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A terraform module which provisions an auto scaling group along with its launch template&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>traveloka/terraform-aws-resource-naming</title>
-    <updated>2023-01-04T01:32:34Z</updated>
-    <id>tag:github.com,2023-01-04:/traveloka/terraform-aws-resource-naming</id>
-    <link href="https://github.com/traveloka/terraform-aws-resource-naming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to generate resource name with random_id added as suffix.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-04T01:31:48Z</updated>
+  <updated>2023-01-05T01:31:32Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TIHan/Oly</title>
-    <updated>2023-01-04T01:31:48Z</updated>
-    <id>tag:github.com,2023-01-04:/TIHan/Oly</id>
-    <link href="https://github.com/TIHan/Oly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Oly Language Compiler and Runtime&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;img src=&#34;https://raw.githubusercontent.com/TIHan/Oly/main/vscode/icons/oly-dark.png&#34; alt=&#34;oly-logo&#34; width=&#34;200&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Oly Language Compiler and Runtime&lt;/p&gt; &#xA;&lt;p&gt;A side project to understand programming languages and compilers in all stages.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Note: At the moment, documentation is in progress on building the project and language specification. It will come eventually.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;Requirements:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;.NET 7 - &lt;a href=&#34;https://dotnet.microsoft.com/en-us/download/dotnet/7.0&#34;&gt;Download&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;This will build everything except for the VSCode extension.&lt;/p&gt; &#xA;&lt;p&gt;In the command-line at the root of the repository, run command:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;code&gt;dotnet build&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;You can also open &lt;code&gt;Oly.sln&lt;/code&gt; in Visual Studio and build it there.&lt;/p&gt; &#xA;&lt;h2&gt;Running Tests&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;Note: Some tests are expected to fail.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;In the command-line at the root of the repository, run command:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;code&gt;dotnet test&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;You can also run the tests in Visual Studio&#39;s Test Explorer.&lt;/p&gt; &#xA;&lt;h2&gt;Building VSCode Extension&lt;/h2&gt; &#xA;&lt;p&gt;Requirements:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;VSCode 1.64.0 or newer&lt;/li&gt; &#xA; &lt;li&gt;Node.js and NPM&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;In the command-line at the &lt;code&gt;vscode&lt;/code&gt; folder, run commands:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm install&#xA;npm run compile&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Running VSCode Extension&lt;/h2&gt; &#xA;&lt;p&gt;After building it once:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Make sure &lt;code&gt;src/LanguageServer/Oly.LanguageServer/Oly.LanguageServer.fsproj&lt;/code&gt; has been built.&lt;/li&gt; &#xA; &lt;li&gt;Open up the &lt;code&gt;vscode&lt;/code&gt; directory in VSCode.&lt;/li&gt; &#xA; &lt;li&gt;Navigate to &lt;code&gt;src/extension.ts&lt;/code&gt; and open it.&lt;/li&gt; &#xA; &lt;li&gt;Press F5.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

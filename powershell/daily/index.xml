@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-04T01:35:24Z</updated>
+  <updated>2023-01-05T01:35:01Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Z3BRO/FzDumps</title>
-    <updated>2023-01-04T01:35:24Z</updated>
-    <id>tag:github.com,2023-01-04:/Z3BRO/FzDumps</id>
-    <link href="https://github.com/Z3BRO/FzDumps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I compiled all the dumps from https://github.com/djsime1/awesome-flipperzero and https://github.com/UberGuidoZ/Flipper into 2 organised folders.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ChrisTitusTech/block-razer</title>
-    <updated>2023-01-04T01:35:24Z</updated>
-    <id>tag:github.com,2023-01-04:/ChrisTitusTech/block-razer</id>
-    <link href="https://github.com/ChrisTitusTech/block-razer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This script blocks ALL razer software installs. Their hardware is OK, but I HATE their software.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Block ALL Razer Software Installs&lt;/h1&gt; &#xA;&lt;p&gt;This script is made due to the frustration of the bloatware that gets install for all razer devices. The hardware works fine without any software and just installing the BASE synapse software it runs almost 500 MB installer that has 3 services and 15 RUNNING PROCESSES!&lt;/p&gt; &#xA;&lt;p&gt;Run as Administrator in PowerShell&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;irm https://raw.githubusercontent.com/ChrisTitusTech/block-razer/main/block.ps1 | iex&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

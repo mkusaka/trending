@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-04T01:29:14Z</updated>
+  <updated>2023-01-05T01:29:24Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LondheShubham153/90DaysOfDevOps</title>
-    <updated>2023-01-04T01:29:14Z</updated>
-    <id>tag:github.com,2023-01-04:/LondheShubham153/90DaysOfDevOps</id>
-    <link href="https://github.com/LondheShubham153/90DaysOfDevOps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is a Challenge for the DevOps Community to get stronger in DevOps. This challenge starts on the 1st January 2023 and in the next 90 Days we promise ourselves to become better at DevOps. The reason for making this Public is so that others can learn from the community and help each other grow.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jahidulislamzim/JavaScriptCodingChallenges</title>
+    <updated>2023-01-05T01:29:24Z</updated>
+    <id>tag:github.com,2023-01-05:/jahidulislamzim/JavaScriptCodingChallenges</id>
+    <link href="https://github.com/jahidulislamzim/JavaScriptCodingChallenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello JavaScript code newbie! In this repository I&#39;m proposing you a series of coding challenges that will help you practice the basic language constructs and algorithms.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>joshnh/Git-Commands</title>
-    <updated>2023-01-04T01:29:14Z</updated>
-    <id>tag:github.com,2023-01-04:/joshnh/Git-Commands</id>
-    <link href="https://github.com/joshnh/Git-Commands" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of commonly used Git commands&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>polarisobfuscation/polaris-crypter-fud-bypassing-windows-defender-with-startup</title>
+    <updated>2023-01-05T01:29:24Z</updated>
+    <id>tag:github.com,2023-01-05:/polarisobfuscation/polaris-crypter-fud-bypassing-windows-defender-with-startup</id>
+    <link href="https://github.com/polarisobfuscation/polaris-crypter-fud-bypassing-windows-defender-with-startup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;polaris crypter fud bypassing windows defender with startup&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>github/advisory-database</title>
-    <updated>2023-01-04T01:29:14Z</updated>
-    <id>tag:github.com,2023-01-04:/github/advisory-database</id>
-    <link href="https://github.com/github/advisory-database" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AammarTufail/python_ka_chilla2023</title>
+    <updated>2023-01-05T01:29:24Z</updated>
+    <id>tag:github.com,2023-01-05:/AammarTufail/python_ka_chilla2023</id>
+    <link href="https://github.com/AammarTufail/python_ka_chilla2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains whole material of 40 days course on Python for Data Science in Urdu/Hindi 2023 Details are here: Registration details of our course is given here: https://www.facebook.com/groups/codanics/permalink/1837695129921140/. More details on the course can be found in this google form: https://forms.gle/kDyUnD1nrN2LF6qy8&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

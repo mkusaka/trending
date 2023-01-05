@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-04T01:36:29Z</updated>
+  <updated>2023-01-05T01:35:56Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rockthejvm/scala-2-beginners</title>
-    <updated>2023-01-04T01:36:29Z</updated>
-    <id>tag:github.com,2023-01-04:/rockthejvm/scala-2-beginners</id>
-    <link href="https://github.com/rockthejvm/scala-2-beginners" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official repository for the Rock the JVM Scala 2 for beginners course&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;The official repository for the Scala 2 for beginners course&lt;/h2&gt; &#xA;&lt;p&gt;Powered by &lt;a href=&#34;https://raw.githubusercontent.com/rockthejvm/scala-2-beginners/master/rockthejvm.com&#34;&gt;Rock the JVM!&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This repository contains the code we wrote during &lt;a href=&#34;https://rockthejvm.com/course/scala-old&#34;&gt;Rock the JVM&#39;s Scala beginners course&lt;/a&gt;. Unless explicitly mentioned, the code in this repository is exactly what was caught on camera.&lt;/p&gt; &#xA;&lt;p&gt;How to install:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;either clone the repo or download as zip&lt;/li&gt; &#xA; &lt;li&gt;open with IntelliJ as it&#39;s a simple IDEA project&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If you have changes to suggest to this repo, either&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;submit a GitHub issue&lt;/li&gt; &#xA; &lt;li&gt;tell me in the course Q/A forum&lt;/li&gt; &#xA; &lt;li&gt;submit a pull request!&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>jasongilanfarr/scala-persistent-collections</title>
+    <updated>2023-01-05T01:35:56Z</updated>
+    <id>tag:github.com,2023-01-05:/jasongilanfarr/scala-persistent-collections</id>
+    <link href="https://github.com/jasongilanfarr/scala-persistent-collections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Persistent collection library for scala (COW B+Tree for example)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
