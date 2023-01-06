@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:36:07Z</updated>
+  <updated>2023-01-06T01:36:41Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kahzn/dev-com-5</title>
-    <updated>2023-01-05T01:36:07Z</updated>
-    <id>tag:github.com,2023-01-05:/Kahzn/dev-com-5</id>
-    <link href="https://github.com/Kahzn/dev-com-5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dies ist das Git-Repo zu unserem Gamejam &#34;Dev-Com-5&#34;.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AnCG7/URPShaderCodeSample</title>
+    <updated>2023-01-06T01:36:41Z</updated>
+    <id>tag:github.com,2023-01-06:/AnCG7/URPShaderCodeSample</id>
+    <link href="https://github.com/AnCG7/URPShaderCodeSample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unity URP Shader 代码示例&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

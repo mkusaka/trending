@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:34:11Z</updated>
+  <updated>2023-01-06T01:34:28Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bertof/nix-rice</title>
+    <updated>2023-01-06T01:34:28Z</updated>
+    <id>tag:github.com,2023-01-06:/bertof/nix-rice</id>
+    <link href="https://github.com/bertof/nix-rice" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library to functionally define your configuration and theme (rice) with Nix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mic92/nixos-shell</title>
+    <updated>2023-01-06T01:34:28Z</updated>
+    <id>tag:github.com,2023-01-06:/Mic92/nixos-shell</id>
+    <link href="https://github.com/Mic92/nixos-shell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spawns lightweight nixos vms in a shell&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

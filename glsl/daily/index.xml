@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:31:43Z</updated>
+  <updated>2023-01-06T01:32:06Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bradleyq/mc_vanilla_shaders</title>
-    <updated>2023-01-05T01:31:43Z</updated>
-    <id>tag:github.com,2023-01-05:/bradleyq/mc_vanilla_shaders</id>
-    <link href="https://github.com/bradleyq/mc_vanilla_shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MC vanilla fabulous shaders&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>McTsts/mc-core-shaders</title>
-    <updated>2023-01-05T01:31:43Z</updated>
-    <id>tag:github.com,2023-01-05:/McTsts/mc-core-shaders</id>
-    <link href="https://github.com/McTsts/mc-core-shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of some shader utilities/projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WoMspace/Epoch-Shader</title>
+    <updated>2023-01-06T01:32:06Z</updated>
+    <id>tag:github.com,2023-01-06:/WoMspace/Epoch-Shader</id>
+    <link href="https://github.com/WoMspace/Epoch-Shader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;noun: epoch; a particular period of time in history or a person&#39;s life.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

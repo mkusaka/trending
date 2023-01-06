@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:37:05Z</updated>
+  <updated>2023-01-06T01:37:34Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Ruzim/NSFC-application-template-latex</title>
-    <updated>2023-01-05T01:37:05Z</updated>
-    <id>tag:github.com,2023-01-05:/Ruzim/NSFC-application-template-latex</id>
-    <link href="https://github.com/Ruzim/NSFC-application-template-latex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;国家自然科学基金申请书正文（面上项目）模板（非官方）&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NSFC application template latex (unofficial)&lt;/h1&gt; &#xA;&lt;p&gt;国家自然科学基金申请书正文（面上项目）模板 （非官方）&lt;/p&gt; &#xA;&lt;p&gt;由个人根据官方MsWord模版制作。本模版的作者尽力使本模版和官方模版生成的PDF文件视觉效果大致一样，然而，并不保证本模版有用，也不对使用本模版造成的任何直接或间接后果负责。 不得将本模版用于商用或获取经济利益。本模版可以自由修改以满足用户自己的需要。但是如果要传播本模版，则只能传播未经修改的版本。使用本模版意味着同意上述声明。&lt;/p&gt; &#xA;&lt;p&gt;如有问题，请发送邮件到 &lt;a href=&#34;mailto:ryanzz@foxmail.com&#34;&gt;ryanzz@foxmail.com&lt;/a&gt; 中了基金的也欢迎反馈。&lt;/p&gt; &#xA;&lt;p&gt;2023.1.3：突然多了很多下载，看来又到了写基金申请书的季节了~~注意：申请书模板每年可能会略有微小的文字上的改动。因此强烈建议提交之前找官网上下载的MSword模板自己对照一下，尤其注意蓝字部分是否完全一样。等2023年的面上项目开放申请之后我会根据最新的官方MSword模板更新最新的tex文件（其实完全可以自己修改，并没有多少技术含量）。&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>upsaratus/MathFormulas</title>
-    <updated>2023-01-05T01:37:05Z</updated>
-    <id>tag:github.com,2023-01-05:/upsaratus/MathFormulas</id>
-    <link href="https://github.com/upsaratus/MathFormulas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of Mathematical Formulas for students and engineers&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MathFormulas&lt;/h1&gt; &#xA;&lt;p&gt;Collection of Mathematical Formulas for students and engineers&lt;/p&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;this collection of formulas is for students and engineers as well. Being engineer I am since years looking for well organized book and did not found one. The reasons are many. Frustrated I decided to write one by myself.&lt;/p&gt; &#xA;&lt;p&gt;actually I have to save somehow all my already falling apart very old books in various languages and my countless notes on paper what turn rapidly into yellow and will disintegrate soon.&lt;/p&gt;</summary>
-  </entry>
 </feed>

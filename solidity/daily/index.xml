@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:36:39Z</updated>
+  <updated>2023-01-06T01:37:05Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DessertHeart/Dive-Into-Blockchain</title>
-    <updated>2023-01-05T01:36:39Z</updated>
-    <id>tag:github.com,2023-01-05:/DessertHeart/Dive-Into-Blockchain</id>
-    <link href="https://github.com/DessertHeart/Dive-Into-Blockchain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;旨在交流学习区块链技术，记录智能合约开发应用与相关安全练习的仓库🚀&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rkalis/ethroulette</title>
-    <updated>2023-01-05T01:36:39Z</updated>
-    <id>tag:github.com,2023-01-05:/rkalis/ethroulette</id>
-    <link href="https://github.com/rkalis/ethroulette" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎰 Decentralised autonomous casino on the Ethereum blockchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AstariaXYZ/astaria-core</title>
+    <updated>2023-01-06T01:37:05Z</updated>
+    <id>tag:github.com,2023-01-06:/AstariaXYZ/astaria-core</id>
+    <link href="https://github.com/AstariaXYZ/astaria-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NFT Collateralized Lending Market levearing our novel 3AM Model.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

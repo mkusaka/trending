@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:31:03Z</updated>
+  <updated>2023-01-06T01:31:32Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bitrise-io/website-docker-base-env</title>
+    <updated>2023-01-06T01:31:32Z</updated>
+    <id>tag:github.com,2023-01-06:/bitrise-io/website-docker-base-env</id>
+    <link href="https://github.com/bitrise-io/website-docker-base-env" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base docker env for bitrise.io website&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;website-docker-base-env&lt;/h1&gt; &#xA;&lt;p&gt;Base docker env for bitrise.io website&lt;/p&gt; &#xA;&lt;h2&gt;Test the image&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;bitrise run rebuild&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Deploy the image&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;bitrise run deploy&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This will add two tags to the image:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;latest&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;DOCKER_IMAGE_DEPLOY_TAG&lt;/code&gt;, which can be provided, or if it&#39;s not provided it will be generated, based on the current date &amp;amp; time&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

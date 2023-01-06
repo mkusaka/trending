@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:31:13Z</updated>
+  <updated>2023-01-06T01:31:43Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mgwidmann/scrivener_html</title>
-    <updated>2023-01-05T01:31:13Z</updated>
-    <id>tag:github.com,2023-01-05:/mgwidmann/scrivener_html</id>
-    <link href="https://github.com/mgwidmann/scrivener_html" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTML view helpers for Scrivener&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RiverFinancial/nostrex</title>
+    <updated>2023-01-06T01:31:43Z</updated>
+    <id>tag:github.com,2023-01-06:/RiverFinancial/nostrex</id>
+    <link href="https://github.com/RiverFinancial/nostrex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nostr relay written in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jjh42/mock</title>
+    <updated>2023-01-06T01:31:43Z</updated>
+    <id>tag:github.com,2023-01-06:/jjh42/mock</id>
+    <link href="https://github.com/jjh42/mock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mocking library for Elixir language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

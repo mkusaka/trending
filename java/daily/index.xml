@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:32:36Z</updated>
+  <updated>2023-01-06T01:33:00Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ali-bouali/spring-boot-3-jwt-security</title>
+    <updated>2023-01-06T01:33:00Z</updated>
+    <id>tag:github.com,2023-01-06:/ali-bouali/spring-boot-3-jwt-security</id>
+    <link href="https://github.com/ali-bouali/spring-boot-3-jwt-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Spring Boot 3.0 Security with JWT Implementation&lt;/h1&gt; &#xA;&lt;p&gt;This project demonstrates the implementation of security using Spring Boot 3.0 and JSON Web Tokens (JWT). It includes the following features:&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;User registration and login with JWT authentication&lt;/li&gt; &#xA; &lt;li&gt;Password encryption using BCrypt&lt;/li&gt; &#xA; &lt;li&gt;Role-based authorization with Spring Security&lt;/li&gt; &#xA; &lt;li&gt;Customized access denied handling&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Technologies&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Spring Boot 3.0&lt;/li&gt; &#xA; &lt;li&gt;Spring Security&lt;/li&gt; &#xA; &lt;li&gt;JSON Web Tokens (JWT)&lt;/li&gt; &#xA; &lt;li&gt;BCrypt&lt;/li&gt; &#xA; &lt;li&gt;Maven&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;To get started with this project, you will need to have the following installed on your local machine:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;JDK 8+&lt;/li&gt; &#xA; &lt;li&gt;Maven 3+&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;To build and run the project, follow these steps:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Clone the repository: &lt;code&gt;git clone https://github.com/ali-bouali/spring-boot-3-jwt-security.git&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Navigate to the project directory: cd spring-boot-security-jwt&lt;/li&gt; &#xA; &lt;li&gt;Build the project: mvn clean install&lt;/li&gt; &#xA; &lt;li&gt;Run the project: mvn spring-boot:run&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;-&amp;gt; The application will be available at &lt;a href=&#34;http://localhost:8080&#34;&gt;http://localhost:8080&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

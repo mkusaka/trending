@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-05T01:30:46Z</updated>
+  <updated>2023-01-06T01:31:14Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BBuf/how-to-optim-algorithm-in-cuda</title>
+    <updated>2023-01-06T01:31:14Z</updated>
+    <id>tag:github.com,2023-01-06:/BBuf/how-to-optim-algorithm-in-cuda</id>
+    <link href="https://github.com/BBuf/how-to-optim-algorithm-in-cuda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cuda Learn Samples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
