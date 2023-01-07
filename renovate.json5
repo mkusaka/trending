@@ -1,0 +1,9 @@
+{
+  extends: [
+    "config:base",
+    ":automergeAll"
+  ],
+  lockFileMaintenance: {
+    enabled: true,
+  }
+}
