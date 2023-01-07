@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-06T01:37:16Z</updated>
+  <updated>2023-01-07T01:46:40Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leminlimez/DockHider</title>
+    <updated>2023-01-07T01:46:40Z</updated>
+    <id>tag:github.com,2023-01-07:/leminlimez/DockHider</id>
+    <link href="https://github.com/leminlimez/DockHider" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iOS 14.0-16.1.2 Dock and Home Bar Hider&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DockHider&lt;/h1&gt; &#xA;&lt;p&gt;A Jailed application to hide the dock and home bar on iOS 14.0-16.1.2 using &lt;a href=&#34;https://support.apple.com/en-us/HT213530&#34;&gt;CVE-2022-46689&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;An option for reverting has been included for if you are on iOS 14.&lt;/p&gt; &#xA;&lt;p&gt;IPA available in the &lt;a href=&#34;https://github.com/leminlimez/DockHider/releases&#34;&gt;Releases&lt;/a&gt; section.&lt;/p&gt; &#xA;&lt;p&gt;This is my first solo app made with Xcode! If you are making modifications to the code, it is slightly messy in places.&lt;/p&gt; &#xA;&lt;p&gt;Features:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Hide dock&lt;/li&gt; &#xA; &lt;li&gt;Hide home bar&lt;/li&gt; &#xA; &lt;li&gt;Hide folder backgrounds&lt;/li&gt; &#xA; &lt;li&gt;Disable folder background blur&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/n7mzG1Y.png&#34; alt=&#34;Screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installing&lt;/h2&gt; &#xA;&lt;p&gt;You can install through AltStore or TrollStore (if your device supports it)&lt;/p&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;p&gt;Just build like a normal xCode project. There are no extra entitlements needed. You can also build the IPA file with &lt;code&gt;build.command&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://twitter.com/mineekdev&#34;&gt;mineek&lt;/a&gt; and &lt;a href=&#34;https://github.com/mineek/SantanderMacDirtyCow&#34;&gt;SantanderMacDirtyCow&lt;/a&gt; for providing me with an initial code basis.&lt;/li&gt; &#xA; &lt;li&gt;SerenaKit for SantanderWrappers dependencies&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.reddit.com/user/dayanch96/&#34;&gt;dayanch96&lt;/a&gt; for app icon&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ginsudev/WDBFontOverwrite&#34;&gt;FontOverwrite&lt;/a&gt; for exploit code.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>straight-tamago/DockTransparent</title>
+    <updated>2023-01-07T01:46:40Z</updated>
+    <id>tag:github.com,2023-01-07:/straight-tamago/DockTransparent</id>
+    <link href="https://github.com/straight-tamago/DockTransparent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVE-2022-46689&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DockTransparent&lt;/h1&gt; &#xA;&lt;p&gt;iOS 14 - 16.1.2&lt;/p&gt; &#xA;&lt;p&gt;Reboot your device to revert the changes. (iOS14❌)&lt;/p&gt; &#xA;&lt;h1&gt;Install&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;TrollStore&lt;/li&gt; &#xA; &lt;li&gt;AltStore&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Credits&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://github.com/zhuowei&#34;&gt;https://github.com/zhuowei&lt;/a&gt; (MacDirtyCow exploit)&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://twitter.com/straight_tamago&#34;&gt;https://twitter.com/straight_tamago&lt;/a&gt; (DockTransparent)&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

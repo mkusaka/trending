@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-06T01:32:32Z</updated>
+  <updated>2023-01-07T01:36:11Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HaxeFlixel/flixel-addons</title>
-    <updated>2023-01-06T01:32:32Z</updated>
-    <id>tag:github.com,2023-01-06:/HaxeFlixel/flixel-addons</id>
-    <link href="https://github.com/HaxeFlixel/flixel-addons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Additional classes for HaxeFlixel&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.github.com/HaxeFlixel/haxeflixel.com/master/src/files/images/flixel-logos/flixel-addons.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/HaxeFlixel/flixel&#34;&gt;flixel&lt;/a&gt; | &lt;a href=&#34;https://github.com/HaxeFlixel/flixel-addons&#34;&gt;addons&lt;/a&gt; | &lt;a href=&#34;https://github.com/HaxeFlixel/flixel-ui&#34;&gt;ui&lt;/a&gt; | &lt;a href=&#34;https://github.com/HaxeFlixel/flixel-demos&#34;&gt;demos&lt;/a&gt; | &lt;a href=&#34;https://github.com/HaxeFlixel/flixel-tools&#34;&gt;tools&lt;/a&gt; | &lt;a href=&#34;https://github.com/HaxeFlixel/flixel-templates&#34;&gt;templates&lt;/a&gt; | &lt;a href=&#34;https://github.com/HaxeFlixel/flixel-docs&#34;&gt;docs&lt;/a&gt; | &lt;a href=&#34;https://github.com/HaxeFlixel/haxeflixel.com&#34;&gt;haxeflixel.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/HaxeFlixel/flixel-addons/actions?query=workflow%3ACI&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/workflow/status/HaxeFlixel/flixel-addons/CI.svg?logo=github&#34; alt=&#34;CI&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://lib.haxe.org/p/flixel-addons&#34;&gt;&lt;img src=&#34;https://badgen.net/haxelib/v/flixel-addons&#34; alt=&#34;Haxelib Version&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://lib.haxe.org/p/flixel-addons&#34;&gt;&lt;img src=&#34;https://badgen.net/haxelib/d/flixel-addons?color=blue&#34; alt=&#34;Haxelib Downloads&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://raw.githubusercontent.com/HaxeFlixel/flixel-addons/dev/LICENSE.md&#34;&gt;&lt;img src=&#34;https://badgen.net/haxelib/license/flixel-addons&#34; alt=&#34;Haxelib License&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;About&lt;/h2&gt; &#xA;&lt;p&gt;A set of useful, but optional classes for &lt;a href=&#34;https://github.com/HaxeFlixel/flixel&#34;&gt;HaxeFlixel&lt;/a&gt; created by the community. Includes some classes from the &lt;a href=&#34;https://github.com/photonstorm/Flixel-Power-Tools&#34;&gt;Flixel Power Tools&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;For Developers&lt;/h2&gt; &#xA;&lt;p&gt;If you are wanting to contribute code, please review the follwing documentation:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://haxeflixel.com/documentation/code-contributions&#34;&gt;Code Contributions&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://haxeflixel.com/documentation/code-style&#34;&gt;Code Style&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://haxeflixel.com/documentation/install-development-flixel/&#34;&gt;Install development flixel&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If you have a question or have not contributed on github before, there are friendly people in the community that help out in the &lt;a href=&#34;http://haxeflixel.com/documentation/community/&#34;&gt;forums&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;For using git with github we recommended using a GUI application to manage your changes, for example &lt;a href=&#34;http://www.sourcetreeapp.com/&#34;&gt;SourceTree&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clowfoe/IMPOSTOR-UPDATE</title>
-    <updated>2023-01-06T01:32:32Z</updated>
-    <id>tag:github.com,2023-01-06:/Clowfoe/IMPOSTOR-UPDATE</id>
-    <link href="https://github.com/Clowfoe/IMPOSTOR-UPDATE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;vs imptotor&lt;/p&gt; &#xA;&lt;p&gt;thgank shadowmario for psych engine and cubii for forever engine dig in&lt;/p&gt;</summary>
-  </entry>
 </feed>

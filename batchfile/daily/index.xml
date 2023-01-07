@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-06T01:30:17Z</updated>
+  <updated>2023-01-07T01:30:40Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mdecycu/studlist</title>
-    <updated>2023-01-06T01:30:17Z</updated>
-    <id>tag:github.com,2023-01-06:/mdecycu/studlist</id>
-    <link href="https://github.com/mdecycu/studlist" rel="alternate"></link>
+    <title>AhmetShowTR/gettovds-test</title>
+    <updated>2023-01-07T01:30:40Z</updated>
+    <id>tag:github.com,2023-01-07:/AhmetShowTR/gettovds-test</id>
+    <link href="https://github.com/AhmetShowTR/gettovds-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shadowninja024/ngrock-rdp</title>
+    <updated>2023-01-07T01:30:40Z</updated>
+    <id>tag:github.com,2023-01-07:/shadowninja024/ngrock-rdp</id>
+    <link href="https://github.com/shadowninja024/ngrock-rdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

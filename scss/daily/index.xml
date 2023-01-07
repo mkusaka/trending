@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-06T01:36:40Z</updated>
+  <updated>2023-01-07T01:45:19Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ebelinski/apilevels</title>
-    <updated>2023-01-06T01:36:40Z</updated>
-    <id>tag:github.com,2023-01-06:/ebelinski/apilevels</id>
-    <link href="https://github.com/ebelinski/apilevels" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A microsite overview of all Android 🤖 versions and their corresponding API/SDK levels, version codes, codenames, and market shares.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

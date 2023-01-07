@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-06T01:30:57Z</updated>
+  <updated>2023-01-07T01:31:56Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yogthos/compojure-template</title>
-    <updated>2023-01-06T01:30:57Z</updated>
-    <id>tag:github.com,2023-01-06:/yogthos/compojure-template</id>
-    <link href="https://github.com/yogthos/compojure-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Leiningen template for batteries included projects using Compojure.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>donut-party/system</title>
-    <updated>2023-01-06T01:30:57Z</updated>
-    <id>tag:github.com,2023-01-06:/donut-party/system</id>
-    <link href="https://github.com/donut-party/system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a dependency injection library for Clojure and ClojureScript 🍩&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gigasquid/vsa-clj</title>
-    <updated>2023-01-06T01:30:57Z</updated>
-    <id>tag:github.com,2023-01-06:/gigasquid/vsa-clj</id>
-    <link href="https://github.com/gigasquid/vsa-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VSA Computing Experiments in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ulsa/permute</title>
+    <updated>2023-01-07T01:31:56Z</updated>
+    <id>tag:github.com,2023-01-07:/ulsa/permute</id>
+    <link href="https://github.com/ulsa/permute" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a library, written in ClojureScript, that provides a JavaScript function permute.core.sel_index(s, i) for calculating the i:th element of the 1-n selections of a given string s, where n is the length of s.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

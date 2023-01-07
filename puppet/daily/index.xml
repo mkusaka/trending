@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-06T01:35:25Z</updated>
+  <updated>2023-01-07T01:43:26Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ehazlett/puppet-module-appserver</title>
+    <updated>2023-01-07T01:43:26Z</updated>
+    <id>tag:github.com,2023-01-07:/ehazlett/puppet-module-appserver</id>
+    <link href="https://github.com/ehazlett/puppet-module-appserver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to support various application frameworks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

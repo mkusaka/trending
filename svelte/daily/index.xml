@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-06T01:37:11Z</updated>
+  <updated>2023-01-07T01:46:30Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>geoffrich/advent-of-sveltekit-2022</title>
-    <updated>2023-01-06T01:37:11Z</updated>
-    <id>tag:github.com,2023-01-06:/geoffrich/advent-of-sveltekit-2022</id>
-    <link href="https://github.com/geoffrich/advent-of-sveltekit-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Advent of Vue challenges, but in SvelteKit.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-nomie/nomie6-oss</title>
+    <updated>2023-01-07T01:46:30Z</updated>
+    <id>tag:github.com,2023-01-07:/open-nomie/nomie6-oss</id>
+    <link href="https://github.com/open-nomie/nomie6-oss" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opensource version of Nomie 6&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fairDataSociety/fairos-TODO-app-example</title>
+    <updated>2023-01-07T01:46:30Z</updated>
+    <id>tag:github.com,2023-01-07:/fairDataSociety/fairos-TODO-app-example</id>
+    <link href="https://github.com/fairDataSociety/fairos-TODO-app-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web Todos application built using fairos REST API and FDP Play.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

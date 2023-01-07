@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-06T01:36:25Z</updated>
+  <updated>2023-01-07T01:44:58Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>reacherhq/check-if-email-exists</title>
-    <updated>2023-01-06T01:36:25Z</updated>
-    <id>tag:github.com,2023-01-06:/reacherhq/check-if-email-exists</id>
-    <link href="https://github.com/reacherhq/check-if-email-exists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fltk-rs/fltk-rs</title>
+    <updated>2023-01-07T01:44:58Z</updated>
+    <id>tag:github.com,2023-01-07:/fltk-rs/fltk-rs</id>
+    <link href="https://github.com/fltk-rs/fltk-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust bindings for the FLTK GUI library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
