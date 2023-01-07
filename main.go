@@ -3,7 +3,6 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"path"
 	"time"
@@ -40,7 +39,7 @@ const baseUrl = "https://mshibanami.github.io/GitHubTrendingRSS"
 const datumFileName = "datum.json"
 
 func run() error {
-	datum, err := ioutil.ReadFile(datumFileName)
+	datum, err := os.ReadFile(datumFileName)
 	if err != nil {
 		return errors.WithStack(err)
 	}
@@ -135,7 +134,7 @@ func run() error {
 
 			file := path.Join(und.Directory, "index.xml")
 			fmt.Printf("write file %s start...\n", file)
-			err = ioutil.WriteFile(file, []byte(f), os.ModePerm)
+			err = os.WriteFile(file, []byte(f), os.ModePerm)
 
 			if err != nil {
 				return errors.WithStack(err)
@@ -149,7 +148,7 @@ func run() error {
 		return errors.WithStack(err)
 	}
 
-	err = ioutil.WriteFile(datumFileName, marshal, os.ModePerm)
+	err = os.WriteFile(datumFileName, marshal, os.ModePerm)
 	if err != nil {
 		return errors.WithStack(err)
 	}
