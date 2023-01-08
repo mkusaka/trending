@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:30:40Z</updated>
+  <updated>2023-01-08T01:31:12Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AhmetShowTR/gettovds-test</title>
-    <updated>2023-01-07T01:30:40Z</updated>
-    <id>tag:github.com,2023-01-07:/AhmetShowTR/gettovds-test</id>
-    <link href="https://github.com/AhmetShowTR/gettovds-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ForbiddenProgrammer/conti-pentester-guide-leak</title>
+    <updated>2023-01-08T01:31:12Z</updated>
+    <id>tag:github.com,2023-01-08:/ForbiddenProgrammer/conti-pentester-guide-leak</id>
+    <link href="https://github.com/ForbiddenProgrammer/conti-pentester-guide-leak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leaked pentesting manuals given to Conti ransomware crooks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shadowninja024/ngrock-rdp</title>
-    <updated>2023-01-07T01:30:40Z</updated>
-    <id>tag:github.com,2023-01-07:/shadowninja024/ngrock-rdp</id>
-    <link href="https://github.com/shadowninja024/ngrock-rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>obrobrio2000/Samsung-Quick-Share-4-All</title>
+    <updated>2023-01-08T01:31:12Z</updated>
+    <id>tag:github.com,2023-01-08:/obrobrio2000/Samsung-Quick-Share-4-All</id>
+    <link href="https://github.com/obrobrio2000/Samsung-Quick-Share-4-All" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This tiny script makes Samsung Quick Share work on non-Samsung Windows PCs by spoofing a registry key that the program checks when opening.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

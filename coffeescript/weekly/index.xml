@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T01:52:05Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Psiphon-Inc/psiphon-website</title>
+    <updated>2023-01-08T01:52:05Z</updated>
+    <id>tag:github.com,2023-01-08:/Psiphon-Inc/psiphon-website</id>
+    <link href="https://github.com/Psiphon-Inc/psiphon-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source of the psiphon3.com, etc., download and info sites&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>semperos/rimorso</title>
+    <updated>2023-01-08T01:52:05Z</updated>
+    <id>tag:github.com,2023-01-08:/semperos/rimorso</id>
+    <link href="https://github.com/semperos/rimorso" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Runtime type contracts for JavaScript, fork of Ristretto&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

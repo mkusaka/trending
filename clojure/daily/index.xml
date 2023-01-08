@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:31:56Z</updated>
+  <updated>2023-01-08T01:32:28Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ulsa/permute</title>
-    <updated>2023-01-07T01:31:56Z</updated>
-    <id>tag:github.com,2023-01-07:/ulsa/permute</id>
-    <link href="https://github.com/ulsa/permute" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a library, written in ClojureScript, that provides a JavaScript function permute.core.sel_index(s, i) for calculating the i:th element of the 1-n selections of a given string s, where n is the length of s.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flodiebold/crawl-clj</title>
+    <updated>2023-01-08T01:32:28Z</updated>
+    <id>tag:github.com,2023-01-08:/flodiebold/crawl-clj</id>
+    <link href="https://github.com/flodiebold/crawl-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connect to DCSS with clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matthewdowney/rich-comment-tests</title>
+    <updated>2023-01-08T01:32:28Z</updated>
+    <id>tag:github.com,2023-01-08:/matthewdowney/rich-comment-tests</id>
+    <link href="https://github.com/matthewdowney/rich-comment-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RCT turns rich comment forms into tests.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>farrellm/connect-6</title>
+    <updated>2023-01-08T01:32:28Z</updated>
+    <id>tag:github.com,2023-01-08:/farrellm/connect-6</id>
+    <link href="https://github.com/farrellm/connect-6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connect-6 in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

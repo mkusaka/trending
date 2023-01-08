@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:33:22Z</updated>
+  <updated>2023-01-08T01:33:52Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gauravrhcss/Devops-Ready</title>
-    <updated>2023-01-07T01:33:22Z</updated>
-    <id>tag:github.com,2023-01-07:/gauravrhcss/Devops-Ready</id>
-    <link href="https://github.com/gauravrhcss/Devops-Ready" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FInal Projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>raja-jamwal/ecr-web-image</title>
-    <updated>2023-01-07T01:33:22Z</updated>
-    <id>tag:github.com,2023-01-07:/raja-jamwal/ecr-web-image</id>
-    <link href="https://github.com/raja-jamwal/ecr-web-image" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Push Dockerimage to AWS ECR&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Create docker repository on ECR, lets say. &lt;code&gt;ecr-web-image&lt;/code&gt; on &lt;a href=&#34;https://console.aws.amazon.com/ecr/repositories?region=us-east-1&#34;&gt;https://console.aws.amazon.com/ecr/repositories?region=us-east-1&lt;/a&gt;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Add secrets in your repository.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;AWS_ACCESS_KEY_ID: &amp;lt;AWS_ACCESS_KEY_ID&amp;gt;&#xA;AWS_SECRET_ACCESS_KEY: &amp;lt;AWS_SECRET_ACCESS_KEY&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Specify ECR_REPOSITORY_NAME in &lt;code&gt;.github/workflows/docker-image.yml&lt;/code&gt;. In this case, &lt;code&gt;ecr-web-image&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;- name: Build, tag, and push image to Amazon ECR&#xA;    env:&#xA;        ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}&#xA;        ECR_REPOSITORY: ecr-web-image&#xA;        IMAGE_TAG: ${{ github.sha }}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;For every commit to master, a new docker image tagged with git sha of commit will be pushed to ECR.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Sage Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:44:54Z</updated>
+  <updated>2023-01-08T01:44:47Z</updated>
   <subtitle>Daily Trending of Sage in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lducas/SchnorrGate</title>
-    <updated>2023-01-07T01:44:54Z</updated>
-    <id>tag:github.com,2023-01-07:/lducas/SchnorrGate</id>
-    <link href="https://github.com/lducas/SchnorrGate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testing Schnorr&#39;s factorization claim in Sage&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

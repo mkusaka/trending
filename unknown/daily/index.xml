@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:29:37Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-01-08T01:30:02Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mouredev/hello-git</title>
-    <updated>2023-01-07T01:29:37Z</updated>
-    <id>tag:github.com,2023-01-07:/mouredev/hello-git</id>
-    <link href="https://github.com/mouredev/hello-git" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getActivity/AndroidIndex</title>
+    <updated>2023-01-08T01:30:02Z</updated>
+    <id>tag:github.com,2023-01-08:/getActivity/AndroidIndex</id>
+    <link href="https://github.com/getActivity/AndroidIndex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Android 资源大汇总&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shadcn/ui</title>
-    <updated>2023-01-07T01:29:37Z</updated>
-    <id>tag:github.com,2023-01-07:/shadcn/ui</id>
-    <link href="https://github.com/shadcn/ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FunnyWolf/Viper</title>
+    <updated>2023-01-08T01:30:02Z</updated>
+    <id>tag:github.com,2023-01-08:/FunnyWolf/Viper</id>
+    <link href="https://github.com/FunnyWolf/Viper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Redteam operation platform with webui 图形化红队行动辅助平台&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>distributethe6ix/70DaysOfServiceMesh</title>
-    <updated>2023-01-07T01:29:37Z</updated>
-    <id>tag:github.com,2023-01-07:/distributethe6ix/70DaysOfServiceMesh</id>
-    <link href="https://github.com/distributethe6ix/70DaysOfServiceMesh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inspired by Michael Cades&#39; #90DaysOfDevOps and his ask for me to participate in his 2023 iteration to discuss 7 Days of Service Mesh, I decided to create a #70DaysOfServiceMesh.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pluja/awesome-privacy</title>
+    <updated>2023-01-08T01:30:02Z</updated>
+    <id>tag:github.com,2023-01-08:/pluja/awesome-privacy</id>
+    <link href="https://github.com/pluja/awesome-privacy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

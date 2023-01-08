@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:32:03Z</updated>
+  <updated>2023-01-08T01:32:34Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>biojppm/cmake</title>
-    <updated>2023-01-07T01:32:03Z</updated>
-    <id>tag:github.com,2023-01-07:/biojppm/cmake</id>
-    <link href="https://github.com/biojppm/cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful cmake scripts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FMI-SU-Data-Structures-2022-2023/graph-theory-marjidamus</title>
-    <updated>2023-01-07T01:32:03Z</updated>
-    <id>tag:github.com,2023-01-07:/FMI-SU-Data-Structures-2022-2023/graph-theory-marjidamus</id>
-    <link href="https://github.com/FMI-SU-Data-Structures-2022-2023/graph-theory-marjidamus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;graph-theory-marjidamus created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FMI-SU-Data-Structures-2022-2023/graph-theory-DanielY19</title>
-    <updated>2023-01-07T01:32:03Z</updated>
-    <id>tag:github.com,2023-01-07:/FMI-SU-Data-Structures-2022-2023/graph-theory-DanielY19</id>
-    <link href="https://github.com/FMI-SU-Data-Structures-2022-2023/graph-theory-DanielY19" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;graph-theory-DanielY19 created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

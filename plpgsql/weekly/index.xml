@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T02:03:29Z</updated>
+  <subtitle>Weekly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>starkfell/100DaysOfIaC</title>
+    <updated>2023-01-08T02:03:29Z</updated>
+    <id>tag:github.com,2023-01-08:/starkfell/100DaysOfIaC</id>
+    <link href="https://github.com/starkfell/100DaysOfIaC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;100 Days of IaC in Azure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

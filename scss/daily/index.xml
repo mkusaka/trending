@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:45:19Z</updated>
+  <updated>2023-01-08T01:45:10Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudnativeto/cloudnative.to</title>
+    <updated>2023-01-08T01:45:10Z</updated>
+    <id>tag:github.com,2023-01-08:/cloudnativeto/cloudnative.to</id>
+    <link href="https://github.com/cloudnativeto/cloudnative.to" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code of cloudnative.to&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sblisesivdin/biscuit</title>
+    <updated>2023-01-08T01:45:10Z</updated>
+    <id>tag:github.com,2023-01-08:/sblisesivdin/biscuit</id>
+    <link href="https://github.com/sblisesivdin/biscuit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Single-page responsive Jekyll theme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

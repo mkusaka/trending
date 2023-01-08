@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F* Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T01:54:22Z</updated>
+  <subtitle>Weekly Trending of F* in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IEAWindTask37/IEA-22-280-RWT</title>
+    <updated>2023-01-08T01:54:22Z</updated>
+    <id>tag:github.com,2023-01-08:/IEAWindTask37/IEA-22-280-RWT</id>
+    <link href="https://github.com/IEAWindTask37/IEA-22-280-RWT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for 22MW offshore reference wind turbine developed by the IEA Wind Task 37&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

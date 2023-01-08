@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:41:08Z</updated>
+  <updated>2023-01-08T01:41:25Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mineek/dirtycowapp</title>
-    <updated>2023-01-07T01:41:08Z</updated>
-    <id>tag:github.com,2023-01-07:/mineek/dirtycowapp</id>
-    <link href="https://github.com/mineek/dirtycowapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DirtyCowApp&lt;/h1&gt; &#xA;&lt;p&gt;This is a all-in-one app for tweaks for iOS 16.1.2 and lower. It uses the MacDirtyCow exploit to overwrite files on the filesystem.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/haxi0&#34;&gt;haxi0&lt;/a&gt; for help with some tweaks ( No folder blur )&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/verygenericname&#34;&gt;verygenericname&lt;/a&gt; for help with some tweaks ( Hide the dock )&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

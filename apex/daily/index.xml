@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:30:11Z</updated>
+  <updated>2023-01-08T01:30:46Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GoogleCloudPlatform/salesforce-cloud-functions-crm-tutorial</title>
-    <updated>2023-01-07T01:30:11Z</updated>
-    <id>tag:github.com,2023-01-07:/GoogleCloudPlatform/salesforce-cloud-functions-crm-tutorial</id>
-    <link href="https://github.com/GoogleCloudPlatform/salesforce-cloud-functions-crm-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

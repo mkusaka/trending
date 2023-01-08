@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T01:51:53Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>metametaclass/etl-proxy</title>
+    <updated>2023-01-08T01:51:53Z</updated>
+    <id>tag:github.com,2023-01-08:/metametaclass/etl-proxy</id>
+    <link href="https://github.com/metametaclass/etl-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extract Transform Load database engine.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>footprintanalytics/footbase</title>
+    <updated>2023-01-08T01:51:53Z</updated>
+    <id>tag:github.com,2023-01-08:/footprintanalytics/footbase</id>
+    <link href="https://github.com/footprintanalytics/footbase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is Footprint Analytics built on Metabase v0.45.0 😋&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

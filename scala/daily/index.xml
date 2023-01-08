@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:45:04Z</updated>
+  <updated>2023-01-08T01:44:57Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ediweissmann/metrics-statsmix</title>
-    <updated>2023-01-07T01:45:04Z</updated>
-    <id>tag:github.com,2023-01-07:/ediweissmann/metrics-statsmix</id>
-    <link href="https://github.com/ediweissmann/metrics-statsmix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Codahale metrics reporter that sends metrics to statsmix.com&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;metrics-statsmix &lt;a href=&#34;http://travis-ci.org/ediweissmann/metrics-statsmix&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/ediweissmann/metrics-statsmix.png?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/codahale/metrics&#34;&gt;Codahale metrics&lt;/a&gt; reporter that sends metrics to &lt;a href=&#34;http://statsmix.com&#34;&gt;statsmix.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Can be scheduled to report every hour.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;StatsMixReporter.enable(1, TimeUnit.HOURS, &#34;your api key here&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Build and install&lt;/h2&gt; &#xA;&lt;p&gt;Maven release version dependency is not published to Maven Central yet. If you wish to have it there, just raise an issue. To use the latest snapshot version, use the following repository and dependency:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;repository&amp;gt;&#xA;&#x9;&amp;lt;id&amp;gt;oss-sonatype-snapshots&amp;lt;/id&amp;gt;&#xA;    &amp;lt;name&amp;gt;OSS Sonatype snapshots&amp;lt;/name&amp;gt;&#xA;    &amp;lt;url&amp;gt;http://oss.sonatype.org/content/repositories/snapshots/&amp;lt;/url&amp;gt;&#xA;    &amp;lt;snapshots&amp;gt;&#xA;    &#x9;&amp;lt;enabled&amp;gt;true&amp;lt;/enabled&amp;gt;&#xA;    &amp;lt;/snapshots&amp;gt;&#xA;&amp;lt;/repository&amp;gt;&#x9;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;dependency&amp;gt;&#xA;&#x9;&amp;lt;groupId&amp;gt;com.ediweissmann.metrics&amp;lt;/groupId&amp;gt;&#xA;    &amp;lt;artifactId&amp;gt;metrics-statsmix&amp;lt;/artifactId&amp;gt;&#xA;    &amp;lt;version&amp;gt;0.0.1-SNAPSHOT&amp;lt;/version&amp;gt;&#xA;&amp;lt;/dependency&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

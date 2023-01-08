@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T02:01:41Z</updated>
+  <subtitle>Weekly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>inv2004/ttop</title>
+    <updated>2023-01-08T02:01:41Z</updated>
+    <id>tag:github.com,2023-01-08:/inv2004/ttop</id>
+    <link href="https://github.com/inv2004/ttop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;System monitoring tool with TUI and historical data service&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>status-im/nim-json-rpc</title>
+    <updated>2023-01-08T02:01:41Z</updated>
+    <id>tag:github.com,2023-01-08:/status-im/nim-json-rpc</id>
+    <link href="https://github.com/status-im/nim-json-rpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nim library for implementing JSON-RPC clients and servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nim-lang/nimble</title>
+    <updated>2023-01-08T02:01:41Z</updated>
+    <id>tag:github.com,2023-01-08:/nim-lang/nimble</id>
+    <link href="https://github.com/nim-lang/nimble" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package manager for the Nim programming language.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

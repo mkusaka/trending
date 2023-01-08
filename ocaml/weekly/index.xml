@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T02:02:24Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vbmithr/breakbot</title>
+    <updated>2023-01-08T02:02:24Z</updated>
+    <id>tag:github.com,2023-01-08:/vbmithr/breakbot</id>
+    <link href="https://github.com/vbmithr/breakbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCaml bot for arbitraging Bitcoin exchanges&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

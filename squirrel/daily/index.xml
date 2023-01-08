@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-07T01:46:14Z</updated>
+  <updated>2023-01-08T01:46:01Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>twilio/programmable-asset-tracker</title>
-    <updated>2023-01-07T01:46:14Z</updated>
-    <id>tag:github.com,2023-01-07:/twilio/programmable-asset-tracker</id>
-    <link href="https://github.com/twilio/programmable-asset-tracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programmable Asset Tracker Application Code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

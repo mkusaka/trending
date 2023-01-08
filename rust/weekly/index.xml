@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T02:05:44Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aurae-runtime/aurae</title>
+    <updated>2023-01-08T02:05:44Z</updated>
+    <id>tag:github.com,2023-01-08:/aurae-runtime/aurae</id>
+    <link href="https://github.com/aurae-runtime/aurae" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributed systems runtime daemon written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tokio-rs/axum</title>
+    <updated>2023-01-08T02:05:44Z</updated>
+    <id>tag:github.com,2023-01-08:/tokio-rs/axum</id>
+    <link href="https://github.com/tokio-rs/axum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ergonomic and modular web framework built with Tokio, Tower, and Hyper&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>launchbadge/sqlx</title>
+    <updated>2023-01-08T02:05:44Z</updated>
+    <id>tag:github.com,2023-01-08:/launchbadge/sqlx</id>
+    <link href="https://github.com/launchbadge/sqlx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T02:08:43Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wangyuan389/mall-cook</title>
+    <updated>2023-01-08T02:08:43Z</updated>
+    <id>tag:github.com,2023-01-08:/wangyuan389/mall-cook</id>
+    <link href="https://github.com/wangyuan389/mall-cook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;商城低代码平台，可视化搭建H5、小程序多端商城&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>un-pany/v3-admin-vite</title>
+    <updated>2023-01-08T02:08:43Z</updated>
+    <id>tag:github.com,2023-01-08:/un-pany/v3-admin-vite</id>
+    <link href="https://github.com/un-pany/v3-admin-vite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tehcneko/nekogram-files</title>
+    <updated>2023-01-08T02:08:43Z</updated>
+    <id>tag:github.com,2023-01-08:/tehcneko/nekogram-files</id>
+    <link href="https://github.com/tehcneko/nekogram-files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Websites for Nekogram.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

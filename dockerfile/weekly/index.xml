@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T01:53:15Z</updated>
+  <subtitle>Weekly Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hiifeng/V2ray-for-Doprax</title>
+    <updated>2023-01-08T01:53:15Z</updated>
+    <id>tag:github.com,2023-01-08:/hiifeng/V2ray-for-Doprax</id>
+    <link href="https://github.com/hiifeng/V2ray-for-Doprax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;V2ray for Doprax&lt;/h1&gt; &#xA;&lt;p&gt;Create By ifeng&lt;br&gt; Web Site: &lt;a href=&#34;https://www.hicairo.com&#34;&gt;https://www.hicairo.com&lt;/a&gt; &lt;br&gt; Telegram: &lt;a href=&#34;https://t.me/HiaiFeng&#34;&gt;https://t.me/HiaiFeng&lt;/a&gt; &lt;br&gt;&lt;/p&gt; &#xA;&lt;h1&gt;简介：&lt;/h1&gt; &#xA;&lt;p&gt;本项目用于在 Doprax.com 免费服务上部署 V2ray ，采用的方案为 Nginx + WebSocket + VMess/VLess + TLS。速度与 Replit 相比较慢，但是官方宣传不限流量，服务启动后永不停机。&lt;/p&gt; &#xA;&lt;h1&gt;注意事项：&lt;/h1&gt; &#xA;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&#xA;&lt;li&gt;&lt;b&gt;请勿滥用，账号封禁风险自负。&lt;/b&gt;&lt;/li&gt;&#xA;&lt;p&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;&#xA;&lt;li&gt;&lt;b&gt;部署完成如发现不能上网，请检查域名是否被墙，可使用 Cloudflare CDN 解决。&lt;/b&gt;&lt;/li&gt;&#xA;&lt;p&gt;&lt;/p&gt; &#xA;&lt;h1&gt;部署：&lt;/h1&gt; &#xA;&lt;p&gt;1、登录自己的 GitHub 账号后 Fork 该项目。&lt;/p&gt; &#xA;&lt;p&gt;2、注册 &lt;a href=&#34;https://www.doprax.com/signup/&#34;&gt;Doprax.com&lt;/a&gt; 账号登录后 Import 该项目。&lt;/p&gt; &#xA;&lt;p&gt;详细使用方案请参考：https://www.hicairo.com/post/55.html&lt;/p&gt; &#xA;&lt;h1&gt;使用方法：&lt;/h1&gt; &#xA;&lt;p&gt;1、服务器端配置&lt;/p&gt; &#xA;&lt;p&gt;请使用 &lt;a href=&#34;https://www.v2fly.org/awesome/tools.html&#34;&gt;第三方工具&lt;/a&gt; 生成一个新的 UUID 。在 Doprax.com 登录后依次点击左侧菜单中的 Main ,窗口右侧的 Edit source code ，选择 Dockerfile 文件，编辑 UUID 及伪装地址信息保存后重启服务。&lt;/p&gt; &#xA;&lt;img src=&#34;https://hicairo.com/zb_users/upload/2022/12/202212291672276227538571.webp&#34;&gt; &#xA;&lt;pre class=&#34;notranslate&#34;&gt;&lt;code&gt;# 用新生成的 UUID 替换 de04add9-5c68-8bab-950c-08cd5320df18&#xA;ENV UUID de04add9-5c68-8bab-950c-08cd5320df18&#xA;# VMESS_WSPATH / VLESS_WSPATH 两个常量分别定义了 Vmess/VLess 的伪装路径，&#xA;# 请分别修改内容中的vmess或vless。注意：伪装路径以 / 符号开始,为避免不必要的麻烦，请不要使用特殊符号.&#xA;ENV VMESS_WSPATH /vmess&#xA;ENV VLESS_WSPATH /vless&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;2、客户端配置&lt;/p&gt; &#xA;&lt;p&gt;节点客户端配置需要手动进行，下面以 V2rayN 为例。 &lt;/p&gt;&#xA;&lt;p&gt;下图为 VMess 配置示意图，请修改标示内容，其他设置于图片中显示一致。&lt;/p&gt; &#xA;&lt;img src=&#34;https://www.hicairo.com/zb_users/upload/2022/12/202212291672276258394161.webp&#34;&gt; &#xA;&lt;p&gt;下图为 VMess 配置示意图，请修改标示内容，其他设置于图片中显示一致。&lt;/p&gt; &#xA;&lt;img src=&#34;https://www.hicairo.com/zb_users/upload/2022/12/202212291672276274474231.webp&#34;&gt; &#xA;&lt;h1&gt;反馈与交流：&lt;/h1&gt; &#xA;&lt;p&gt;在使用过程中，如果遇到问题，请使用Telegram与我联系。（ &lt;a href=&#34;https://t.me/HiaiFeng&#34;&gt;https://t.me/HiaiFeng&lt;/a&gt; ）&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>darinpope/jenkins-example-docker</title>
+    <updated>2023-01-08T01:53:15Z</updated>
+    <id>tag:github.com,2023-01-08:/darinpope/jenkins-example-docker</id>
+    <link href="https://github.com/darinpope/jenkins-example-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;jenkins-example-docker&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mrzyang/doprax_trojan</title>
+    <updated>2023-01-08T01:53:15Z</updated>
+    <id>tag:github.com,2023-01-08:/Mrzyang/doprax_trojan</id>
+    <link href="https://github.com/Mrzyang/doprax_trojan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;build trojan server on dorpax docker container&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;trojan on Doprax&lt;/h1&gt; &#xA;&lt;p&gt;you should use the client supporting trojan, like v2rayNG、Matsuri on Android, shadowsocket on ios, v2rayN on windows and so on. Clash is advised because v2rayNG and Matsuri can not often be connected when visiting youtube and some other websites.&lt;/p&gt; &#xA;&lt;p&gt;the trojan configuration on Matsuri is like the following image：&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Mrzyang/doprax_trojan/raw/master/Matsuri_configuration.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;then you can get the trojan link by Matsuri and import to clash.&lt;/p&gt;</summary>
+  </entry>
+</feed>

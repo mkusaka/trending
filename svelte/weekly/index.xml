@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-08T02:07:15Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ParthJadhav/Verve</title>
+    <updated>2023-01-08T02:07:15Z</updated>
+    <id>tag:github.com,2023-01-08:/ParthJadhav/Verve</id>
+    <link href="https://github.com/ParthJadhav/Verve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verve is a lightweight and blazingly fast launcher for accessing and opening applications, files and documents. ⚡&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iondodon/manter</title>
+    <updated>2023-01-08T02:07:15Z</updated>
+    <id>tag:github.com,2023-01-08:/iondodon/manter</id>
+    <link href="https://github.com/iondodon/manter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform Integrated Terminal Environment - more than a simple terminal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>codediodeio/sveltefire</title>
+    <updated>2023-01-08T02:07:15Z</updated>
+    <id>tag:github.com,2023-01-08:/codediodeio/sveltefire</id>
+    <link href="https://github.com/codediodeio/sveltefire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cybernetically enhanced Firebase apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
