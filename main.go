@@ -39,17 +39,25 @@ const baseUrl = "https://mshibanami.github.io/GitHubTrendingRSS"
 const datumFileName = "datum.json"
 
 func run() error {
-	datum, err := os.ReadFile(datumFileName)
+	datumFile, err := os.Open(datumFileName)
 	if err != nil {
 		return errors.WithStack(err)
 	}
 
 	var r []Recent
 
-	err = json.Unmarshal(datum, &r)
+	decoder := json.NewDecoder(datumFile)
 
-	if err != nil {
+	if err := decoder.Decode(&r); err != nil {
 		return errors.WithStack(err)
+	}
+
+	for i, recent := range r {
+		if i > 10 {
+			break
+		}
+
+		fmt.Println(recent)
 	}
 
 	periodTypes := []string{"daily"}
@@ -143,13 +151,12 @@ func run() error {
 		}
 	}
 
-	marshal, err := json.MarshalIndent(r, "", "  ")
-	if err != nil {
-		return errors.WithStack(err)
-	}
+	// open file with write permission
+	datumFile, err = os.Create(datumFileName)
+	encoder := json.NewEncoder(datumFile)
+	encoder.SetIndent("", "  ")
 
-	err = os.WriteFile(datumFileName, marshal, os.ModePerm)
-	if err != nil {
+	if err := encoder.Encode(r); err != nil {
 		return errors.WithStack(err)
 	}
 
