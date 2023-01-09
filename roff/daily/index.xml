@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:44:33Z</updated>
+  <updated>2023-01-09T01:43:26Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>teamdigitale/licenses</title>
-    <updated>2023-01-08T01:44:33Z</updated>
-    <id>tag:github.com,2023-01-08:/teamdigitale/licenses</id>
-    <link href="https://github.com/teamdigitale/licenses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Licenses approved by Team Digitale, ready to use in your repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nandaBlankon/latihan</title>
+    <updated>2023-01-09T01:43:26Z</updated>
+    <id>tag:github.com,2023-01-09:/nandaBlankon/latihan</id>
+    <link href="https://github.com/nandaBlankon/latihan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ini adalah folder latihan github&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:48:04Z</updated>
+  <updated>2023-01-09T01:46:53Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>microsoft/AzureTipsAndTricks</title>
+    <updated>2023-01-09T01:46:53Z</updated>
+    <id>tag:github.com,2023-01-09:/microsoft/AzureTipsAndTricks</id>
+    <link href="https://github.com/microsoft/AzureTipsAndTricks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nuxt-themes/alpine</title>
+    <updated>2023-01-09T01:46:53Z</updated>
+    <id>tag:github.com,2023-01-09:/nuxt-themes/alpine</id>
+    <link href="https://github.com/nuxt-themes/alpine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The minimalist blog theme, powered by Nuxt &amp; Markdown.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>guMcrey/web-authn-completed-app</title>
+    <updated>2023-01-09T01:46:53Z</updated>
+    <id>tag:github.com,2023-01-09:/guMcrey/web-authn-completed-app</id>
+    <link href="https://github.com/guMcrey/web-authn-completed-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A app allows websites to authenticate users using built-in authenticators such as Apple TouchID and Windows Hello or mobile device biometric sensor; 一个允许网站使用内置的认证器（如 Apple TouchID 和 Windows Hello 或移动设备的生物识别传感器）对用户进行身份认证的完整应用&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

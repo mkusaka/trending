@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:40:49Z</updated>
+  <updated>2023-01-09T01:39:51Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DaoCloud/dce-charts-repackage</title>
-    <updated>2023-01-08T01:40:49Z</updated>
-    <id>tag:github.com,2023-01-08:/DaoCloud/dce-charts-repackage</id>
-    <link href="https://github.com/DaoCloud/dce-charts-repackage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;helm repo add daocloud https://daocloud.github.io/dce-charts-repackage/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>formancehq/stack</title>
-    <updated>2023-01-08T01:40:49Z</updated>
-    <id>tag:github.com,2023-01-08:/formancehq/stack</id>
-    <link href="https://github.com/formancehq/stack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modular developer platform to build and operate complex money flows of any size and shape&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

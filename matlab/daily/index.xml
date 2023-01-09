@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:40:12Z</updated>
+  <updated>2023-01-09T01:39:17Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>everpeace/ml-class-assignments</title>
-    <updated>2023-01-08T01:40:12Z</updated>
-    <id>tag:github.com,2023-01-08:/everpeace/ml-class-assignments</id>
-    <link href="https://github.com/everpeace/ml-class-assignments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Programming Exercises on http://ml-class.org&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mathworks/for-each</title>
-    <updated>2023-01-08T01:40:12Z</updated>
-    <id>tag:github.com,2023-01-08:/mathworks/for-each</id>
-    <link href="https://github.com/mathworks/for-each" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools for simplifying for-loops. Customizable loop iteration.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

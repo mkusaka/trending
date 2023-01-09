@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:34:19Z</updated>
+  <updated>2023-01-09T01:33:49Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tessi/wasmex</title>
-    <updated>2023-01-08T01:34:19Z</updated>
-    <id>tag:github.com,2023-01-08:/tessi/wasmex</id>
-    <link href="https://github.com/tessi/wasmex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Execute WebAssembly / WASM from Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>etalab/transport-site</title>
-    <updated>2023-01-08T01:34:19Z</updated>
-    <id>tag:github.com,2023-01-08:/etalab/transport-site</id>
-    <link href="https://github.com/etalab/transport-site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rendre disponible, valoriser et améliorer les données transports&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>whatyouhide/protohackers_in_elixir</title>
-    <updated>2023-01-08T01:34:19Z</updated>
-    <id>tag:github.com,2023-01-08:/whatyouhide/protohackers_in_elixir</id>
-    <link href="https://github.com/whatyouhide/protohackers_in_elixir" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for a video series I&#39;m making on solving protohackers.com challenges in Elixir. 📺&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

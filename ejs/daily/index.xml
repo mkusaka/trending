@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:34:15Z</updated>
+  <updated>2023-01-09T01:33:46Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Qwaekactyl/Qwaekactyl</title>
-    <updated>2023-01-08T01:34:15Z</updated>
-    <id>tag:github.com,2023-01-08:/Qwaekactyl/Qwaekactyl</id>
-    <link href="https://github.com/Qwaekactyl/Qwaekactyl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Best Control Panel For Splitting Resources On Pterodactyl Panel&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ytmous/ytmous</title>
+    <updated>2023-01-09T01:33:46Z</updated>
+    <id>tag:github.com,2023-01-09:/ytmous/ytmous</id>
+    <link href="https://github.com/ytmous/ytmous" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A anonymous Youtube that does not spy on you&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

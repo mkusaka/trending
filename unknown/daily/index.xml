@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:30:02Z</updated>
+  <updated>2023-01-09T01:29:25Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>getActivity/AndroidIndex</title>
-    <updated>2023-01-08T01:30:02Z</updated>
-    <id>tag:github.com,2023-01-08:/getActivity/AndroidIndex</id>
-    <link href="https://github.com/getActivity/AndroidIndex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android 资源大汇总&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ProgrammingHero1/new-year-new-me</title>
+    <updated>2023-01-09T01:29:25Z</updated>
+    <id>tag:github.com,2023-01-09:/ProgrammingHero1/new-year-new-me</id>
+    <link href="https://github.com/ProgrammingHero1/new-year-new-me" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FunnyWolf/Viper</title>
-    <updated>2023-01-08T01:30:02Z</updated>
-    <id>tag:github.com,2023-01-08:/FunnyWolf/Viper</id>
-    <link href="https://github.com/FunnyWolf/Viper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Redteam operation platform with webui 图形化红队行动辅助平台&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>komeilmehranfar/visa-sponsers-companies-for-iranians</title>
+    <updated>2023-01-09T01:29:25Z</updated>
+    <id>tag:github.com,2023-01-09:/komeilmehranfar/visa-sponsers-companies-for-iranians</id>
+    <link href="https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pluja/awesome-privacy</title>
-    <updated>2023-01-08T01:30:02Z</updated>
-    <id>tag:github.com,2023-01-08:/pluja/awesome-privacy</id>
-    <link href="https://github.com/pluja/awesome-privacy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>1c7/chinese-independent-developer</title>
+    <updated>2023-01-09T01:29:25Z</updated>
+    <id>tag:github.com,2023-01-09:/1c7/chinese-independent-developer</id>
+    <link href="https://github.com/1c7/chinese-independent-developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:45:54Z</updated>
+  <updated>2023-01-09T01:44:48Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-01-astaria</title>
-    <updated>2023-01-08T01:45:54Z</updated>
-    <id>tag:github.com,2023-01-08:/code-423n4/2023-01-astaria</id>
-    <link href="https://github.com/code-423n4/2023-01-astaria" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jeiwan/zuniswapv2</title>
+    <updated>2023-01-09T01:44:48Z</updated>
+    <id>tag:github.com,2023-01-09:/Jeiwan/zuniswapv2</id>
+    <link href="https://github.com/Jeiwan/zuniswapv2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;UniswapV2 clone made in educational purposes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>N0xMare/foundry-invariants</title>
-    <updated>2023-01-08T01:45:54Z</updated>
-    <id>tag:github.com,2023-01-08:/N0xMare/foundry-invariants</id>
-    <link href="https://github.com/N0xMare/foundry-invariants" rel="alternate"></link>
+    <title>LlamaPay/llamapay-v2</title>
+    <updated>2023-01-09T01:44:48Z</updated>
+    <id>tag:github.com,2023-01-09:/LlamaPay/llamapay-v2</id>
+    <link href="https://github.com/LlamaPay/llamapay-v2" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

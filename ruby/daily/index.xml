@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:44:39Z</updated>
+  <updated>2023-01-09T01:43:32Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jeibbor/myapp</title>
+    <updated>2023-01-09T01:43:32Z</updated>
+    <id>tag:github.com,2023-01-09:/jeibbor/myapp</id>
+    <link href="https://github.com/jeibbor/myapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My first Rails app&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ruby on Rails Tutorial: first application&lt;/h1&gt; &#xA;&lt;p&gt;This is the first application for &lt;a href=&#34;http://railstutorial.org/&#34;&gt;&lt;em&gt;Ruby on Rails Tutorial: Learn Rails by Example&lt;/em&gt;&lt;/a&gt; by &lt;a href=&#34;http://michaelhartl.com/&#34;&gt;Michael Hartl&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>philwillchen/sample_app</title>
+    <updated>2023-01-09T01:43:32Z</updated>
+    <id>tag:github.com,2023-01-09:/philwillchen/sample_app</id>
+    <link href="https://github.com/philwillchen/sample_app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ruby on Rails Tutorial: sample application&lt;/h1&gt; &#xA;&lt;p&gt;This is the sample application for &lt;a href=&#34;http://railstutorial.org/&#34;&gt;&lt;em&gt;Ruby on Rails Tutorial: Learn Rails by Example&lt;/em&gt;&lt;/a&gt; by &lt;a href=&#34;http://michaelhartl.com/&#34;&gt;Michael Hartl&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>daveverwer/iOSDevDirectory</title>
+    <updated>2023-01-09T01:43:32Z</updated>
+    <id>tag:github.com,2023-01-09:/daveverwer/iOSDevDirectory</id>
+    <link href="https://github.com/daveverwer/iOSDevDirectory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The iOS Dev Directory&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/daveverwer/iOSDevDirectory&#34;&gt;&lt;img src=&#34;https://travis-ci.org/daveverwer/iOSDevDirectory.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;iOS Dev Directory&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the source JSON data for the iOS Dev Directory which is located at &lt;a href=&#34;https://iosdevdirectory.com&#34;&gt;https://iosdevdirectory.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing your site&lt;/h2&gt; &#xA;&lt;p&gt;If your site covers iOS development and you&#39;d like to add it to the directory, or if you&#39;d like to add someone else&#39;s relevant site, you&#39;re more than welcome to! There are full guidelines on what is relevant and instructions over at the &lt;a href=&#34;https://iosdevdirectory.com/contributing/&#34;&gt;Contributing to the iOS Dev Directory&lt;/a&gt; page.&lt;/p&gt; &#xA;&lt;h2&gt;What is the iOS Dev Directory?&lt;/h2&gt; &#xA;&lt;p&gt;It&#39;s just a site that lists all of the blogs that cover the wonderful iOS development community. It was built, and is maintained by &lt;a href=&#34;https://twitter.com/daveverwer&#34;&gt;Dave Verwer&lt;/a&gt; who is also the author of &lt;a href=&#34;https://iosdevweekly.com&#34;&gt;iOS Dev Weekly&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

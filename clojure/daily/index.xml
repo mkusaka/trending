@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:32:28Z</updated>
+  <updated>2023-01-09T01:32:08Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>flodiebold/crawl-clj</title>
-    <updated>2023-01-08T01:32:28Z</updated>
-    <id>tag:github.com,2023-01-08:/flodiebold/crawl-clj</id>
-    <link href="https://github.com/flodiebold/crawl-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Connect to DCSS with clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>juxt-site/site</title>
+    <updated>2023-01-09T01:32:08Z</updated>
+    <id>tag:github.com,2023-01-09:/juxt-site/site</id>
+    <link href="https://github.com/juxt-site/site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A better backend, as a service&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matthewdowney/rich-comment-tests</title>
-    <updated>2023-01-08T01:32:28Z</updated>
-    <id>tag:github.com,2023-01-08:/matthewdowney/rich-comment-tests</id>
-    <link href="https://github.com/matthewdowney/rich-comment-tests" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RCT turns rich comment forms into tests.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>farrellm/connect-6</title>
-    <updated>2023-01-08T01:32:28Z</updated>
-    <id>tag:github.com,2023-01-08:/farrellm/connect-6</id>
-    <link href="https://github.com/farrellm/connect-6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Connect-6 in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>unclebob/wator</title>
+    <updated>2023-01-09T01:32:08Z</updated>
+    <id>tag:github.com,2023-01-09:/unclebob/wator</id>
+    <link href="https://github.com/unclebob/wator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

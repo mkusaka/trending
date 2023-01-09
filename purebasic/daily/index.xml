@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureBasic Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-08T01:43:15Z</updated>
+  <updated>2023-01-09T01:42:05Z</updated>
   <subtitle>Daily Trending of PureBasic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MrV2K/WHDLoad-Download-Tool</title>
+    <updated>2023-01-09T01:42:05Z</updated>
+    <id>tag:github.com,2023-01-09:/MrV2K/WHDLoad-Download-Tool</id>
+    <link href="https://github.com/MrV2K/WHDLoad-Download-Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool to help manage and download Retroplay&#39;s WHDLoad archives.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
