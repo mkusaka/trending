@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-09T01:44:48Z</updated>
+  <updated>2023-01-10T01:47:22Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Jeiwan/zuniswapv2</title>
-    <updated>2023-01-09T01:44:48Z</updated>
-    <id>tag:github.com,2023-01-09:/Jeiwan/zuniswapv2</id>
-    <link href="https://github.com/Jeiwan/zuniswapv2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;UniswapV2 clone made in educational purposes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iden3/contracts</title>
+    <updated>2023-01-10T01:47:22Z</updated>
+    <id>tag:github.com,2023-01-10:/iden3/contracts</id>
+    <link href="https://github.com/iden3/contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IDEN3 smartcontracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LlamaPay/llamapay-v2</title>
-    <updated>2023-01-09T01:44:48Z</updated>
-    <id>tag:github.com,2023-01-09:/LlamaPay/llamapay-v2</id>
-    <link href="https://github.com/LlamaPay/llamapay-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paulrberg/prb-contracts</title>
+    <updated>2023-01-10T01:47:22Z</updated>
+    <id>tag:github.com,2023-01-10:/paulrberg/prb-contracts</id>
+    <link href="https://github.com/paulrberg/prb-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Off-the-shelf Solidity smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

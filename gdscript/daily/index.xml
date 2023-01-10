@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-09T01:34:48Z</updated>
+  <updated>2023-01-10T01:36:21Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Lila-Kuhlt/ldjam-das-spiel</title>
-    <updated>2023-01-09T01:34:48Z</updated>
-    <id>tag:github.com,2023-01-09:/Lila-Kuhlt/ldjam-das-spiel</id>
-    <link href="https://github.com/Lila-Kuhlt/ldjam-das-spiel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lila-Pause GameJam event on Ludum Dare 52&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bitbrain/godot-gamejam</title>
+    <updated>2023-01-10T01:36:21Z</updated>
+    <id>tag:github.com,2023-01-10:/bitbrain/godot-gamejam</id>
+    <link href="https://github.com/bitbrain/godot-gamejam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 Godot Engine 4.0 template to better get started for gamejams with your 2D or 3D game!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Pyxus/fray</title>
-    <updated>2023-01-09T01:34:48Z</updated>
-    <id>tag:github.com,2023-01-09:/Pyxus/fray</id>
-    <link href="https://github.com/Pyxus/fray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fray – Godot Combat Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jitspoe/godot_bsp_importer</title>
+    <updated>2023-01-10T01:36:21Z</updated>
+    <id>tag:github.com,2023-01-10:/jitspoe/godot_bsp_importer</id>
+    <link href="https://github.com/jitspoe/godot_bsp_importer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An importer addon to import Quake BSP files.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GarbajYT/godot_updated_fps_controller</title>
+    <updated>2023-01-10T01:36:21Z</updated>
+    <id>tag:github.com,2023-01-10:/GarbajYT/godot_updated_fps_controller</id>
+    <link href="https://github.com/GarbajYT/godot_updated_fps_controller" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An updated basic fps controller for Godot 3.3 and 4.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

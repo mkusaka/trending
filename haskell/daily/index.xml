@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-09T01:35:42Z</updated>
+  <updated>2023-01-10T01:37:29Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>isovector/ldtk-types</title>
-    <updated>2023-01-09T01:35:42Z</updated>
-    <id>tag:github.com,2023-01-09:/isovector/ldtk-types</id>
-    <link href="https://github.com/isovector/ldtk-types" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Types for ldtk&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ldtk-types&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://hackage.haskell.org/package/ldtk-types&#34;&gt;Hackage&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;Types and Aeson instances for parsing &lt;a href=&#34;https://ldtk.io/json&#34;&gt;LDtk&lt;/a&gt; files. Parse a file as &lt;code&gt;LDtk.Types.LDtkRoot&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

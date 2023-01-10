@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-09T01:40:37Z</updated>
+  <updated>2023-01-10T01:42:44Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LPCIC/coq-elpi</title>
-    <updated>2023-01-09T01:40:37Z</updated>
-    <id>tag:github.com,2023-01-09:/LPCIC/coq-elpi</id>
-    <link href="https://github.com/LPCIC/coq-elpi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coq plugin embedding elpi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Psi-Prod/Mehari</title>
+    <updated>2023-01-10T01:42:44Z</updated>
+    <id>tag:github.com,2023-01-10:/Psi-Prod/Mehari</id>
+    <link href="https://github.com/Psi-Prod/Mehari" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform library for building Gemini servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>luno-lang/luno</title>
+    <updated>2023-01-10T01:42:44Z</updated>
+    <id>tag:github.com,2023-01-10:/luno-lang/luno</id>
+    <link href="https://github.com/luno-lang/luno" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small toy language with syntax heavily inspired by Lua that transpiles to JS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

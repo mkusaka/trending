@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-09T01:43:44Z</updated>
+  <updated>2023-01-10T01:46:05Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>libsql/sqld</title>
+    <updated>2023-01-10T01:46:05Z</updated>
+    <id>tag:github.com,2023-01-10:/libsql/sqld</id>
+    <link href="https://github.com/libsql/sqld" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sqld is a server mode for libSQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lnx-search/datacake</title>
+    <updated>2023-01-10T01:46:05Z</updated>
+    <id>tag:github.com,2023-01-10:/lnx-search/datacake</id>
+    <link href="https://github.com/lnx-search/datacake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tooling for creating your own distributed systems.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
