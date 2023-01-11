@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-10T01:33:33Z</updated>
+  <updated>2023-01-11T01:33:26Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>d4gg4d/it-factors</title>
+    <updated>2023-01-11T01:33:26Z</updated>
+    <id>tag:github.com,2023-01-11:/d4gg4d/it-factors</id>
+    <link href="https://github.com/d4gg4d/it-factors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sandbox for languages for different simple and not so simple problems&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Purpose of this repo&lt;/h2&gt; &#xA;&lt;p&gt;Place to store little experimental implementations with different languages new/old to me.&lt;/p&gt; &#xA;&lt;h3&gt;License&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt; DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE&#xA;                Version 2, December 2004&#xA;    &#xA; Copyright (C) 2004 Sam Hocevar &amp;lt;sam@hocevar.net&amp;gt;&#xA;  &#xA; Everyone is permitted to copy and distribute verbatim or modified&#xA; copies of this license document, and changing it is allowed as long&#xA; as the name is changed.&#xA;  &#xA;         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE&#xA;    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION&#xA;   &#xA;  0. You just DO WHAT THE FUCK YOU WANT TO.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

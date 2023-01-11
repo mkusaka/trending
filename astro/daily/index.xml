@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-10T01:31:40Z</updated>
+  <updated>2023-01-11T01:31:09Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>midudev/kings-league-project</title>
-    <updated>2023-01-10T01:31:40Z</updated>
-    <id>tag:github.com,2023-01-10:/midudev/kings-league-project</id>
-    <link href="https://github.com/midudev/kings-league-project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;API y website de la Kings League Infojobs por temas didácticos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DarthGigi/rayfield-docs</title>
+    <updated>2023-01-11T01:31:09Z</updated>
+    <id>tag:github.com,2023-01-11:/DarthGigi/rayfield-docs</id>
+    <link href="https://github.com/DarthGigi/rayfield-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-10T01:30:31Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-01-11T01:29:40Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pi-apps/PiOS</title>
-    <updated>2023-01-10T01:30:31Z</updated>
-    <id>tag:github.com,2023-01-10:/pi-apps/PiOS</id>
-    <link href="https://github.com/pi-apps/PiOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuanCrg90/Clean-Code-Notes</title>
+    <updated>2023-01-11T01:29:40Z</updated>
+    <id>tag:github.com,2023-01-11:/JuanCrg90/Clean-Code-Notes</id>
+    <link href="https://github.com/JuanCrg90/Clean-Code-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My notes of Clean Code book&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>krishnaik06/6-Months-Data-Science-Roadmap-</title>
-    <updated>2023-01-10T01:30:31Z</updated>
-    <id>tag:github.com,2023-01-10:/krishnaik06/6-Months-Data-Science-Roadmap-</id>
-    <link href="https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VoronDesign/Voron-0</title>
+    <updated>2023-01-11T01:29:40Z</updated>
+    <id>tag:github.com,2023-01-11:/VoronDesign/Voron-0</id>
+    <link href="https://github.com/VoronDesign/Voron-0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Voron 0 CoreXY 3D Printer design&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ACM-Alexandria-SC/Internships</title>
-    <updated>2023-01-10T01:30:31Z</updated>
-    <id>tag:github.com,2023-01-10:/ACM-Alexandria-SC/Internships</id>
-    <link href="https://github.com/ACM-Alexandria-SC/Internships" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SHARENERGY-OFICIAL/desafio-sharenergy-2023-01</title>
+    <updated>2023-01-11T01:29:40Z</updated>
+    <id>tag:github.com,2023-01-11:/SHARENERGY-OFICIAL/desafio-sharenergy-2023-01</id>
+    <link href="https://github.com/SHARENERGY-OFICIAL/desafio-sharenergy-2023-01" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositório destinado aos interessados em participar do processo seletivo da SHARENERGY 2023/01. As vagas são voltadas para desenvolvimento de aplicações Web e Mobile.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

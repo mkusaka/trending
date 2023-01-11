@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-10T01:37:47Z</updated>
+  <updated>2023-01-11T01:37:22Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Sirox228/Impostor-V4-Fanmade</title>
-    <updated>2023-01-10T01:37:47Z</updated>
-    <id>tag:github.com,2023-01-10:/Sirox228/Impostor-V4-Fanmade</id>
-    <link href="https://github.com/Sirox228/Impostor-V4-Fanmade" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Impostor v4 Fanmade Source Code&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.discordapp.com/attachments/715161423650619453/957082843958345728/Logo.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

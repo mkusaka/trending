@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub G-code Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-10T01:36:11Z</updated>
+  <updated>2023-01-11T01:35:59Z</updated>
   <subtitle>Daily Trending of G-code in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gregsaun/bear_extruder_and_x_axis</title>
-    <updated>2023-01-10T01:36:11Z</updated>
-    <id>tag:github.com,2023-01-10:/gregsaun/bear_extruder_and_x_axis</id>
-    <link href="https://github.com/gregsaun/bear_extruder_and_x_axis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An improved extruder and X axis for Prusa i3 printers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-10T01:49:04Z</updated>
+  <updated>2023-01-11T01:49:24Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chrisbra/Colorizer</title>
-    <updated>2023-01-10T01:49:04Z</updated>
-    <id>tag:github.com,2023-01-10:/chrisbra/Colorizer</id>
-    <link href="https://github.com/chrisbra/Colorizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;color hex codes and color names&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jmarrec/cookiecutter-cpp-cmake-conan</title>
+    <updated>2023-01-11T01:49:24Z</updated>
+    <id>tag:github.com,2023-01-11:/jmarrec/cookiecutter-cpp-cmake-conan</id>
+    <link href="https://github.com/jmarrec/cookiecutter-cpp-cmake-conan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cookiecutter C++ with modern CMake and conan template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

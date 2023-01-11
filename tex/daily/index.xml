@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-10T01:48:10Z</updated>
+  <updated>2023-01-11T01:48:25Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bfranke1973/IRR-Template</title>
+    <updated>2023-01-11T01:48:25Z</updated>
+    <id>tag:github.com,2023-01-11:/bfranke1973/IRR-Template</id>
+    <link href="https://github.com/bfranke1973/IRR-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for the Informatics Research Review&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IRR-Template&lt;/h1&gt; &#xA;&lt;p&gt;Template for the Informatics Research Review&lt;/p&gt; &#xA;&lt;p&gt;LaTeX template files for use in the Informatics Research Review. To use this template in Overleaf clone this project in your own Github account, then create a new project (Use &#34;Import from GitHub&#34;). Alternatively, clone this repository to your local machine, create a new Overleaf project and then upload the files in your newly created project.&lt;/p&gt; &#xA;&lt;p&gt;Edit the &#34;main.tex&#34; file:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Provide your name &amp;amp; matriculation number, field of the literature review, and tutor name in the relevant fields&lt;/li&gt; &#xA; &lt;li&gt;Provide your abstract in the relevant section&lt;/li&gt; &#xA; &lt;li&gt;Read the descriptions, delete the sample text and write your review&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Adding bibliography entries:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Add bibtex entry to the main.bib file&lt;/li&gt; &#xA; &lt;li&gt;Add a \cite{XYZ} command to your main.tex file&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

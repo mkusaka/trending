@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-10T01:35:27Z</updated>
+  <updated>2023-01-11T01:35:17Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Fanael/parent-mode</title>
-    <updated>2023-01-10T01:35:27Z</updated>
-    <id>tag:github.com,2023-01-10:/Fanael/parent-mode</id>
-    <link href="https://github.com/Fanael/parent-mode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get major mode&#39;s parent modes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruediger/systemtap-mode</title>
+    <updated>2023-01-11T01:35:17Z</updated>
+    <id>tag:github.com,2023-01-11:/ruediger/systemtap-mode</id>
+    <link href="https://github.com/ruediger/systemtap-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emacs mode for SystemTap&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;-&lt;em&gt;- mode:org; mode:auto-fill; fill-column:80; coding:utf-8; -&lt;/em&gt;-&lt;/h1&gt; &#xA;&lt;p&gt;#+TITLE: systemtap-mode --- A mode for SystemTap&lt;/p&gt; &#xA;&lt;p&gt;systemtap-mode is a mode for [[http://sourceware.org/systemtap/][SystemTap]]. It allows writing and executing SystemStap scripts.&lt;/p&gt; &#xA;&lt;p&gt;It is forked from Tomoki Sekiyama&#39;s initial [[http://coderepos.org/share/browser/lang/elisp/systemtap-mode/systemtap-mode.el?format=txt][systemtap-mode]] implementation. The implementation is based on =cc-mode=.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Installation Systemtap-mode can be installed via [[https://github.com/dimitri/el-get][el-get]] or =package.el= using [[http://marmalade-repo.org/packages/systemtap-mode][Marmalade]] (releases) or [[https://melpa.org/][MELPA]] (snapshots).&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;You can install it manually by copying the file =systemtap-mode.el= to a directory in your =load-path=. You can use =update-file-autoloads= to create the proper autoloads from the file or simply add&lt;/p&gt; &#xA;&lt;p&gt;#+BEGIN_SRC emacs-lisp (add-to-list &#39;auto-mode-alist &#39;(&#34;\.stp\&#39;&#34; . systemtap-mode)) (autoload &#39;systemtap-mode &#34;systemtap-mode.el&#34;) #+END_SRC&lt;/p&gt; &#xA;&lt;p&gt;to your =init.el=.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Usage After installation the mode should be automatically started for files with =.stp= suffix. You can run the script with =C-c e= and interrupt it with =C-c c=.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;To Do ** TODO Indent embedded-C =%{ ... %}= correctly ** TODO Support documentation/autocomplete (=stap -L=)&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>nullishamy/nix-config</title>
+    <updated>2023-01-11T01:35:17Z</updated>
+    <id>tag:github.com,2023-01-11:/nullishamy/nix-config</id>
+    <link href="https://github.com/nullishamy/nix-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My NixOS config&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NixOS Config&lt;/h1&gt; &#xA;&lt;p&gt;This is my NixOS config, including my home-manager config.&lt;/p&gt; &#xA;&lt;p&gt;To start, run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;git clone https://github.com/nullishamy/nix-config/ ~/nixos &amp;amp;&amp;amp; sudo nixos-rebuild switch --flake ~/nixos/#nixon&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Wallpapers come from the &lt;a href=&#34;https://discord.gg/catppuccin&#34;&gt;Catppuccin Discord&lt;/a&gt;!&lt;/p&gt;</summary>
   </entry>
 </feed>
