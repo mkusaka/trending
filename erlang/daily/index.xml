@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-11T01:35:34Z</updated>
+  <updated>2023-01-12T01:35:14Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>acrmp/mdpkg</title>
-    <updated>2023-01-11T01:35:34Z</updated>
-    <id>tag:github.com,2023-01-11:/acrmp/mdpkg</id>
-    <link href="https://github.com/acrmp/mdpkg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Normalises package metadata&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>clr/riak_kv_redis_backend</title>
-    <updated>2023-01-11T01:35:34Z</updated>
-    <id>tag:github.com,2023-01-11:/clr/riak_kv_redis_backend</id>
-    <link href="https://github.com/clr/riak_kv_redis_backend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NIF wrapper to the Hiredis C client for Redis&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

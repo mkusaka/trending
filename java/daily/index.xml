@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-11T01:38:25Z</updated>
+  <updated>2023-01-12T01:37:57Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ponfee/commons-core</title>
-    <updated>2023-01-11T01:38:25Z</updated>
-    <id>tag:github.com,2023-01-11:/ponfee/commons-core</id>
-    <link href="https://github.com/ponfee/commons-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A commons java tool lib&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;http://www.ponfee.cn&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/blog-@Ponfee-informational.svg?logo=Pelican&#34; alt=&#34;Blog&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.apache.org/licenses/LICENSE-2.0.html&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/license-Apache--2.0-green.svg?sanitize=true&#34; alt=&#34;License&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.oracle.com/java/technologies/downloads/#java8&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/jdk-8+-green.svg?sanitize=true&#34; alt=&#34;JDK&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/ponfee/commons-core/actions&#34;&gt;&lt;img src=&#34;https://github.com/ponfee/commons-core/workflows/build-with-maven/badge.svg?sanitize=true&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://mvnrepository.com/artifact/cn.ponfee/commons-core&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/maven--central-1.2-orange.svg?style=plastic&amp;amp;logo=apachemaven&#34; alt=&#34;Maven Central&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;A commons java tool lib&lt;/h1&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://mvnrepository.com/artifact/cn.ponfee/commons-core&#34;&gt;Download From Maven Central&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;dependency&amp;gt;&#xA;  &amp;lt;groupId&amp;gt;cn.ponfee&amp;lt;/groupId&amp;gt;&#xA;  &amp;lt;artifactId&amp;gt;commons-core&amp;lt;/artifactId&amp;gt;&#xA;  &amp;lt;version&amp;gt;1.2&amp;lt;/version&amp;gt;&#xA;&amp;lt;/dependency&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Build From Source&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;./mvnw clean package -DskipTests -Dcheckstyle.skip -U&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

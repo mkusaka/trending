@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-11T01:31:15Z</updated>
+  <updated>2023-01-12T01:30:34Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mmikeww/AHK-v2-script-converter</title>
-    <updated>2023-01-11T01:31:15Z</updated>
-    <id>tag:github.com,2023-01-11:/mmikeww/AHK-v2-script-converter</id>
-    <link href="https://github.com/mmikeww/AHK-v2-script-converter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AHK v1 -&gt; v2 script converter WORK IN PROGRESS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fincs/AFC</title>
+    <updated>2023-01-12T01:30:34Z</updated>
+    <id>tag:github.com,2023-01-12:/fincs/AFC</id>
+    <link href="https://github.com/fincs/AFC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AutoHotkey Foundation Classes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

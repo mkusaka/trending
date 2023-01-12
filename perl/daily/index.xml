@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-11T01:42:58Z</updated>
+  <updated>2023-01-12T01:42:25Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rsu-client/rsu-client-addons</title>
-    <updated>2023-01-11T01:42:58Z</updated>
-    <id>tag:github.com,2023-01-11:/rsu-client/rsu-client-addons</id>
-    <link href="https://github.com/rsu-client/rsu-client-addons" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains the addons for the rsu-client&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RuneScape Unix/Linux Client Addons&lt;/h1&gt; &#xA;&lt;p&gt;This git repository contains the files for different addons for the &lt;a href=&#34;https://github.com/HikariKnight/rsu-client&#34;&gt;RSU-Client&lt;/a&gt; You could consider this as the Main repository containing addons that are trusted and maintained by the same people that maintains the &lt;a href=&#34;https://github.com/HikariKnight/rsu-client&#34;&gt;RSU-Client&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Each branch in this repository belongs to an addon.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;RuneScape is a registred trademark of Jagex Inc.&lt;/strong&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

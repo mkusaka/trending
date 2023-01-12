@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-11T01:40:42Z</updated>
+  <updated>2023-01-12T01:40:11Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>teslamotors/buildroot</title>
-    <updated>2023-01-11T01:40:42Z</updated>
-    <id>tag:github.com,2023-01-11:/teslamotors/buildroot</id>
-    <link href="https://github.com/teslamotors/buildroot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tesla&#39;s buildroot repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>owlman/markdown_guide</title>
+    <updated>2023-01-12T01:40:11Z</updated>
+    <id>tag:github.com,2023-01-12:/owlman/markdown_guide</id>
+    <link href="https://github.com/owlman/markdown_guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;这是一本简单介绍使用markdown写作的小书。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Parrot-Developers/alchemy</title>
+    <updated>2023-01-12T01:40:11Z</updated>
+    <id>tag:github.com,2023-01-12:/Parrot-Developers/alchemy</id>
+    <link href="https://github.com/Parrot-Developers/alchemy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build System&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>istio/client-go</title>
+    <updated>2023-01-12T01:40:11Z</updated>
+    <id>tag:github.com,2023-01-12:/istio/client-go</id>
+    <link href="https://github.com/istio/client-go" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Go client libraries for the Istio API.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

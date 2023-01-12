@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-11T01:45:58Z</updated>
+  <updated>2023-01-12T01:44:56Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GuillaumeGomez/sysinfo</title>
-    <updated>2023-01-11T01:45:58Z</updated>
-    <id>tag:github.com,2023-01-11:/GuillaumeGomez/sysinfo</id>
-    <link href="https://github.com/GuillaumeGomez/sysinfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform library to fetch system information&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HydroniumLabs/h3o</title>
+    <updated>2023-01-12T01:44:56Z</updated>
+    <id>tag:github.com,2023-01-12:/HydroniumLabs/h3o</id>
+    <link href="https://github.com/HydroniumLabs/h3o" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust implementation of the H3 geospatial indexing system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0xlane/ppspoofing</title>
+    <updated>2023-01-12T01:44:56Z</updated>
+    <id>tag:github.com,2023-01-12:/0xlane/ppspoofing</id>
+    <link href="https://github.com/0xlane/ppspoofing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rust编写的父进程PID欺骗技术测试工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

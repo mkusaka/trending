@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-11T01:43:58Z</updated>
+  <updated>2023-01-12T01:43:14Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>voxpupuli/puppet-logstash</title>
+    <updated>2023-01-12T01:43:14Z</updated>
+    <id>tag:github.com,2023-01-12:/voxpupuli/puppet-logstash</id>
+    <link href="https://github.com/voxpupuli/puppet-logstash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module to manage Logstash&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Psycojoker/slides-zabbix-urlab</title>
+    <updated>2023-01-12T01:43:14Z</updated>
+    <id>tag:github.com,2023-01-12:/Psycojoker/slides-zabbix-urlab</id>
+    <link href="https://github.com/Psycojoker/slides-zabbix-urlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mes slides of the presentation of zabbix at a smartmonday of UrLab&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sirech/puppet</title>
+    <updated>2023-01-12T01:43:14Z</updated>
+    <id>tag:github.com,2023-01-12:/sirech/puppet</id>
+    <link href="https://github.com/sirech/puppet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet Configuration files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

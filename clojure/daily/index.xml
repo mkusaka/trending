@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-11T01:33:08Z</updated>
+  <updated>2023-01-12T01:32:32Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>deg/Marvin</title>
-    <updated>2023-01-11T01:33:08Z</updated>
-    <id>tag:github.com,2023-01-11:/deg/Marvin</id>
-    <link href="https://github.com/deg/Marvin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mind-reading number guesser. A toy program to amaze my kids and learn more about using seesaw in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xYUANTI/DarkTools</title>
+    <updated>2023-01-12T01:32:32Z</updated>
+    <id>tag:github.com,2023-01-12:/0xYUANTI/DarkTools</id>
+    <link href="https://github.com/0xYUANTI/DarkTools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dark Souls character planner.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
