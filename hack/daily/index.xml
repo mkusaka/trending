@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-12T01:36:40Z</updated>
+  <updated>2023-01-13T01:37:03Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Desarrollo-cit/pruebaGit</title>
-    <updated>2023-01-12T01:36:40Z</updated>
-    <id>tag:github.com,2023-01-12:/Desarrollo-cit/pruebaGit</id>
-    <link href="https://github.com/Desarrollo-cit/pruebaGit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>D4RK-R4BB1T/DarkWeb_ChatGPT_PoC</title>
+    <updated>2023-01-13T01:37:03Z</updated>
+    <id>tag:github.com,2023-01-13:/D4RK-R4BB1T/DarkWeb_ChatGPT_PoC</id>
+    <link href="https://github.com/D4RK-R4BB1T/DarkWeb_ChatGPT_PoC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A copy of&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

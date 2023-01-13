@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-12T01:48:02Z</updated>
+  <updated>2023-01-13T01:48:39Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RikkaApps/websites</title>
-    <updated>2023-01-12T01:48:02Z</updated>
-    <id>tag:github.com,2023-01-12:/RikkaApps/websites</id>
-    <link href="https://github.com/RikkaApps/websites" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Websites for Rikka apps.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>utimur/Vue3-crash-course</title>
-    <updated>2023-01-12T01:48:02Z</updated>
-    <id>tag:github.com,2023-01-12:/utimur/Vue3-crash-course</id>
-    <link href="https://github.com/utimur/Vue3-crash-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

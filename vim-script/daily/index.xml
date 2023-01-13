@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-12T01:47:51Z</updated>
+  <updated>2023-01-13T01:48:28Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nus-cs2030/2223-s2</title>
-    <updated>2023-01-12T01:47:51Z</updated>
-    <id>tag:github.com,2023-01-12:/nus-cs2030/2223-s2</id>
-    <link href="https://github.com/nus-cs2030/2223-s2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CS2030 AY 22/23 Sem 2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DanilaMihailov/beacon.nvim</title>
+    <updated>2023-01-13T01:48:28Z</updated>
+    <id>tag:github.com,2023-01-13:/DanilaMihailov/beacon.nvim</id>
+    <link href="https://github.com/DanilaMihailov/beacon.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

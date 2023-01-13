@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-12T01:34:49Z</updated>
+  <updated>2023-01-13T01:35:23Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phoenix-diff/phoenix-diff</title>
-    <updated>2023-01-12T01:34:49Z</updated>
-    <id>tag:github.com,2023-01-12:/phoenix-diff/phoenix-diff</id>
-    <link href="https://github.com/phoenix-diff/phoenix-diff" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;See the changes needed when upgrading an Elixir Phoenix application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nccgroup/sobelow</title>
-    <updated>2023-01-12T01:34:49Z</updated>
-    <id>tag:github.com,2023-01-12:/nccgroup/sobelow</id>
-    <link href="https://github.com/nccgroup/sobelow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Security-focused static analysis for the Phoenix Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>snyk/snyk-hex-plugin</title>
+    <updated>2023-01-13T01:35:23Z</updated>
+    <id>tag:github.com,2023-01-13:/snyk/snyk-hex-plugin</id>
+    <link href="https://github.com/snyk/snyk-hex-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

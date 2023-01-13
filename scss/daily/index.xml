@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-12T01:45:14Z</updated>
+  <updated>2023-01-13T01:45:48Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Qiantigers/qq_fanghong</title>
-    <updated>2023-01-12T01:45:14Z</updated>
-    <id>tag:github.com,2023-01-12:/Qiantigers/qq_fanghong</id>
-    <link href="https://github.com/Qiantigers/qq_fanghong" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;通过github.io域名实现QQ、微信防红接口&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>codeAdrian/clay.css</title>
-    <updated>2023-01-12T01:45:14Z</updated>
-    <id>tag:github.com,2023-01-12:/codeAdrian/clay.css</id>
-    <link href="https://github.com/codeAdrian/clay.css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily add claymorphic styles to any HTML element with this micro class and SASS mixin.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Atamyrat2005/Cargo</title>
+    <updated>2023-01-13T01:45:48Z</updated>
+    <id>tag:github.com,2023-01-13:/Atamyrat2005/Cargo</id>
+    <link href="https://github.com/Atamyrat2005/Cargo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cargo is a professional, fully customizable site building service for putting work on the web.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-12T01:40:16Z</updated>
+  <updated>2023-01-13T01:40:39Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ULAFF/ALAFF</title>
-    <updated>2023-01-12T01:40:16Z</updated>
-    <id>tag:github.com,2023-01-12:/ULAFF/ALAFF</id>
-    <link href="https://github.com/ULAFF/ALAFF" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advanced Linear Algebra: Foundations to Frontiers (ALAFF) assignments repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>strow/rtp_prod</title>
+    <updated>2023-01-13T01:40:39Z</updated>
+    <id>tag:github.com,2023-01-13:/strow/rtp_prod</id>
+    <link href="https://github.com/strow/rtp_prod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ASL Matlab RTP Generation System&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-12T01:38:57Z</updated>
+  <updated>2023-01-13T01:39:12Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>geoffroyleconte/git-prise-en-main</title>
-    <updated>2023-01-12T01:38:57Z</updated>
-    <id>tag:github.com,2023-01-12:/geoffroyleconte/git-prise-en-main</id>
-    <link href="https://github.com/geoffroyleconte/git-prise-en-main" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FluxML/Zygote.jl</title>
-    <updated>2023-01-12T01:38:57Z</updated>
-    <id>tag:github.com,2023-01-12:/FluxML/Zygote.jl</id>
-    <link href="https://github.com/FluxML/Zygote.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;21st century AD&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AhmedSalih3d/SPHExample</title>
-    <updated>2023-01-12T01:38:57Z</updated>
-    <id>tag:github.com,2023-01-12:/AhmedSalih3d/SPHExample</id>
-    <link href="https://github.com/AhmedSalih3d/SPHExample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple SPH dam-break simulation in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaStats/MixedModels.jl</title>
+    <updated>2023-01-13T01:39:12Z</updated>
+    <id>tag:github.com,2023-01-13:/JuliaStats/MixedModels.jl</id>
+    <link href="https://github.com/JuliaStats/MixedModels.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for fitting (statistical) mixed-effects models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
