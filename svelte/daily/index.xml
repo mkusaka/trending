@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-13T01:46:54Z</updated>
+  <updated>2023-01-14T01:45:34Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Specy/asm-editor</title>
-    <updated>2023-01-13T01:46:54Z</updated>
-    <id>tag:github.com,2023-01-13:/Specy/asm-editor</id>
-    <link href="https://github.com/Specy/asm-editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A modern webapp to write, run and learn M68K assembly code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>paoloricciuti/svelte-action-balancer</title>
+    <updated>2023-01-14T01:45:34Z</updated>
+    <id>tag:github.com,2023-01-14:/paoloricciuti/svelte-action-balancer</id>
+    <link href="https://github.com/paoloricciuti/svelte-action-balancer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A svelte action to balance the text inside the an html node. Heavily inspired by react-wrap-balancer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jacany/nosbin</title>
+    <updated>2023-01-14T01:45:34Z</updated>
+    <id>tag:github.com,2023-01-14:/jacany/nosbin</id>
+    <link href="https://github.com/jacany/nosbin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nostr pastebin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>williamviktorsson/maja_one_2023_webdev</title>
+    <updated>2023-01-14T01:45:34Z</updated>
+    <id>tag:github.com,2023-01-14:/williamviktorsson/maja_one_2023_webdev</id>
+    <link href="https://github.com/williamviktorsson/maja_one_2023_webdev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-13T01:40:39Z</updated>
+  <updated>2023-01-14T01:39:36Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>strow/rtp_prod</title>
-    <updated>2023-01-13T01:40:39Z</updated>
-    <id>tag:github.com,2023-01-13:/strow/rtp_prod</id>
-    <link href="https://github.com/strow/rtp_prod" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ASL Matlab RTP Generation System&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SYSU-HI-LAB/Introduction_to_multi_agent_control</title>
+    <updated>2023-01-14T01:39:36Z</updated>
+    <id>tag:github.com,2023-01-14:/SYSU-HI-LAB/Introduction_to_multi_agent_control</id>
+    <link href="https://github.com/SYSU-HI-LAB/Introduction_to_multi_agent_control" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

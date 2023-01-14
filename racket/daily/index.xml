@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-13T01:44:34Z</updated>
+  <updated>2023-01-14T01:43:15Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>soegaard/flappy-bird</title>
-    <updated>2023-01-13T01:44:34Z</updated>
-    <id>tag:github.com,2023-01-13:/soegaard/flappy-bird</id>
-    <link href="https://github.com/soegaard/flappy-bird" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A clone of the game Flappy Bird.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

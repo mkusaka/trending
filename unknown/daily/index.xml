@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-13T01:30:59Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-01-14T01:29:45Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Bssn520/AnimationAutoUpdate</title>
-    <updated>2023-01-13T01:30:59Z</updated>
-    <id>tag:github.com,2023-01-13:/Bssn520/AnimationAutoUpdate</id>
-    <link href="https://github.com/Bssn520/AnimationAutoUpdate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤪动漫、电视剧的自动更新及在线观看。🫡&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>krishnaik06/Data-Analyst-Roadmap</title>
+    <updated>2023-01-14T01:29:45Z</updated>
+    <id>tag:github.com,2023-01-14:/krishnaik06/Data-Analyst-Roadmap</id>
+    <link href="https://github.com/krishnaik06/Data-Analyst-Roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dair-ai/ML-Papers-of-the-Week</title>
-    <updated>2023-01-13T01:30:59Z</updated>
-    <id>tag:github.com,2023-01-13:/dair-ai/ML-Papers-of-the-Week</id>
-    <link href="https://github.com/dair-ai/ML-Papers-of-the-Week" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥Highlighting the top ML papers every week.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>holbertonschool/Jobs</title>
+    <updated>2023-01-14T01:29:45Z</updated>
+    <id>tag:github.com,2023-01-14:/holbertonschool/Jobs</id>
+    <link href="https://github.com/holbertonschool/Jobs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ALX Tech team - job board&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>InterviewReady/joy-of-system-design</title>
-    <updated>2023-01-13T01:30:59Z</updated>
-    <id>tag:github.com,2023-01-13:/InterviewReady/joy-of-system-design</id>
-    <link href="https://github.com/InterviewReady/joy-of-system-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An online game to kindle the spark of system design in you.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anoma/namada-testnets</title>
+    <updated>2023-01-14T01:29:45Z</updated>
+    <id>tag:github.com,2023-01-14:/anoma/namada-testnets</id>
+    <link href="https://github.com/anoma/namada-testnets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testnet configurations and coordination for the Namada network.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

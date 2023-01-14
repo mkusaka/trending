@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-13T01:46:44Z</updated>
+  <updated>2023-01-14T01:45:25Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>secretflow/interconnection</title>
-    <updated>2023-01-13T01:46:44Z</updated>
-    <id>tag:github.com,2023-01-13:/secretflow/interconnection</id>
-    <link href="https://github.com/secretflow/interconnection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;White Box Interconnection Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>google/bazel-common</title>
+    <updated>2023-01-14T01:45:25Z</updated>
+    <id>tag:github.com,2023-01-14:/google/bazel-common</id>
+    <link href="https://github.com/google/bazel-common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common functionality for Google&#39;s open-source libraries that are built with bazel.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
