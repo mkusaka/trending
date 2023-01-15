@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T01:52:10Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>farrellm/connect-6</title>
+    <updated>2023-01-15T01:52:10Z</updated>
+    <id>tag:github.com,2023-01-15:/farrellm/connect-6</id>
+    <link href="https://github.com/farrellm/connect-6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connect-6 in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>flodiebold/crawl-clj</title>
+    <updated>2023-01-15T01:52:10Z</updated>
+    <id>tag:github.com,2023-01-15:/flodiebold/crawl-clj</id>
+    <link href="https://github.com/flodiebold/crawl-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Connect to DCSS with clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

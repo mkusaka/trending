@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-14T01:40:56Z</updated>
+  <updated>2023-01-15T01:41:24Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KaroshiBee/weevil</title>
-    <updated>2023-01-14T01:40:56Z</updated>
-    <id>tag:github.com,2023-01-14:/KaroshiBee/weevil</id>
-    <link href="https://github.com/KaroshiBee/weevil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A debugger for Michelson&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Gopiandcode/petrol</title>
+    <updated>2023-01-15T01:41:24Z</updated>
+    <id>tag:github.com,2023-01-15:/Gopiandcode/petrol</id>
+    <link href="https://github.com/Gopiandcode/petrol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Petrol&#39;s an OCaml SQL API made to go FAST.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jrh13/hol-light</title>
+    <updated>2023-01-15T01:41:24Z</updated>
+    <id>tag:github.com,2023-01-15:/jrh13/hol-light</id>
+    <link href="https://github.com/jrh13/hol-light" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The HOL Light theorem prover&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>geoffder/dometyl-keyboard</title>
+    <updated>2023-01-15T01:41:24Z</updated>
+    <id>tag:github.com,2023-01-15:/geoffder/dometyl-keyboard</id>
+    <link href="https://github.com/geoffder/dometyl-keyboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A parametric generator for designing split, concave, ergonomic keyboards written in ocaml.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

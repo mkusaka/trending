@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Objective-C Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T02:01:32Z</updated>
+  <subtitle>Weekly Trending of Objective-C in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>google/google-toolbox-for-mac</title>
+    <updated>2023-01-15T02:01:32Z</updated>
+    <id>tag:github.com,2023-01-15:/google/google-toolbox-for-mac</id>
+    <link href="https://github.com/google/google-toolbox-for-mac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google Toolbox for Mac&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Google Toolbox for Mac&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;Project site&lt;/strong&gt; &lt;a href=&#34;https://github.com/google/google-toolbox-for-mac&#34;&gt;https://github.com/google/google-toolbox-for-mac&lt;/a&gt;&lt;br&gt; &lt;strong&gt;Discussion group&lt;/strong&gt; &lt;a href=&#34;http://groups.google.com/group/google-toolbox-for-mac&#34;&gt;http://groups.google.com/group/google-toolbox-for-mac&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A collection of source from different Google projects that may be of use to developers working other iOS or macOS projects.&lt;/p&gt; &#xA;&lt;p&gt;If you find a problem/bug or want a new feature to be included in the Google Toolbox for Mac, please join the &lt;a href=&#34;http://groups.google.com/group/google-toolbox-for-mac&#34;&gt;discussion group&lt;/a&gt; or submit an &lt;a href=&#34;https://github.com/google/google-toolbox-for-mac/issues&#34;&gt;issue&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;To get started&lt;/strong&gt; please read &lt;a href=&#34;https://raw.githubusercontent.com/google/google-toolbox-for-mac/main/USING.md&#34;&gt;USING.md&lt;/a&gt; for detailed information.&lt;/p&gt;</summary>
+  </entry>
+</feed>

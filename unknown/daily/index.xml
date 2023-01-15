@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-14T01:29:45Z</updated>
+  <updated>2023-01-15T01:29:36Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krishnaik06/Data-Analyst-Roadmap</title>
-    <updated>2023-01-14T01:29:45Z</updated>
-    <id>tag:github.com,2023-01-14:/krishnaik06/Data-Analyst-Roadmap</id>
-    <link href="https://github.com/krishnaik06/Data-Analyst-Roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hello-SimpleAI/chatgpt-comparison-detection</title>
+    <updated>2023-01-15T01:29:36Z</updated>
+    <id>tag:github.com,2023-01-15:/Hello-SimpleAI/chatgpt-comparison-detection</id>
+    <link href="https://github.com/Hello-SimpleAI/chatgpt-comparison-detection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT Comparison Corpus (C3), Detectors, and more! 🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>holbertonschool/Jobs</title>
-    <updated>2023-01-14T01:29:45Z</updated>
-    <id>tag:github.com,2023-01-14:/holbertonschool/Jobs</id>
-    <link href="https://github.com/holbertonschool/Jobs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ALX Tech team - job board&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xuncv/WechatVideoSniffer</title>
+    <updated>2023-01-15T01:29:36Z</updated>
+    <id>tag:github.com,2023-01-15:/xuncv/WechatVideoSniffer</id>
+    <link href="https://github.com/xuncv/WechatVideoSniffer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;微信视频号PC版、微信看一看、微信公众号视频地址嗅探器&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>anoma/namada-testnets</title>
-    <updated>2023-01-14T01:29:45Z</updated>
-    <id>tag:github.com,2023-01-14:/anoma/namada-testnets</id>
-    <link href="https://github.com/anoma/namada-testnets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testnet configurations and coordination for the Namada network.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sushiwushi/bug-bounty-dorks</title>
+    <updated>2023-01-15T01:29:36Z</updated>
+    <id>tag:github.com,2023-01-15:/sushiwushi/bug-bounty-dorks</id>
+    <link href="https://github.com/sushiwushi/bug-bounty-dorks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Google Dorks for sites that have responsible disclosure program / bug bounty program&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

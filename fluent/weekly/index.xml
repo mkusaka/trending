@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fluent Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T01:54:37Z</updated>
+  <subtitle>Weekly Trending of Fluent in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ankitects/anki-core-i18n</title>
+    <updated>2023-01-15T01:54:37Z</updated>
+    <id>tag:github.com,2023-01-15:/ankitects/anki-core-i18n</id>
+    <link href="https://github.com/ankitects/anki-core-i18n" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fluent translation files for Anki&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ankitects/anki-desktop-ftl</title>
+    <updated>2023-01-15T01:54:37Z</updated>
+    <id>tag:github.com,2023-01-15:/ankitects/anki-desktop-ftl</id>
+    <link href="https://github.com/ankitects/anki-desktop-ftl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fluent translation files for Anki&#39;s Qt GUI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

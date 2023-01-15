@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T02:08:02Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elk-zone/elk</title>
+    <updated>2023-01-15T02:08:02Z</updated>
+    <id>tag:github.com,2023-01-15:/elk-zone/elk</id>
+    <link href="https://github.com/elk-zone/elk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A nimble Mastodon web client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>i7eo/google-translate-select</title>
+    <updated>2023-01-15T02:08:02Z</updated>
+    <id>tag:github.com,2023-01-15:/i7eo/google-translate-select</id>
+    <link href="https://github.com/i7eo/google-translate-select" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 A modern, high-performance monorepo project designed with Google Translate JS SDK. Vue and react are supported!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kailong321200875/vue-element-plus-admin</title>
+    <updated>2023-01-15T02:08:02Z</updated>
+    <id>tag:github.com,2023-01-15:/kailong321200875/vue-element-plus-admin</id>
+    <link href="https://github.com/kailong321200875/vue-element-plus-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of background integration scheme based on vue3, element-plus, typescript4 and vite4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

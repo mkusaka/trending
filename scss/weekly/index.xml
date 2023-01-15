@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T02:05:09Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wong2/chat-gpt-google-extension</title>
+    <updated>2023-01-15T02:05:09Z</updated>
+    <id>tag:github.com,2023-01-15:/wong2/chat-gpt-google-extension</id>
+    <link href="https://github.com/wong2/chat-gpt-google-extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A browser extension to display ChatGPT response alongside search engine results&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>acm-cfw/acm-cfw.github.io</title>
+    <updated>2023-01-15T02:05:09Z</updated>
+    <id>tag:github.com,2023-01-15:/acm-cfw/acm-cfw.github.io</id>
+    <link href="https://github.com/acm-cfw/acm-cfw.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ACM custom firmware documentation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>andrewbanchich/forty-jekyll-theme</title>
+    <updated>2023-01-15T02:05:09Z</updated>
+    <id>tag:github.com,2023-01-15:/andrewbanchich/forty-jekyll-theme</id>
+    <link href="https://github.com/andrewbanchich/forty-jekyll-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Jekyll version of the &#34;Forty&#34; theme by HTML5 UP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

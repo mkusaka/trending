@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-14T01:44:25Z</updated>
+  <updated>2023-01-15T01:45:14Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ctrlaltlinux/tutorials</title>
-    <updated>2023-01-14T01:44:25Z</updated>
-    <id>tag:github.com,2023-01-14:/ctrlaltlinux/tutorials</id>
-    <link href="https://github.com/ctrlaltlinux/tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The puppet manifest and kickstart files for ctrlaltlinux.com&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FinBoWa/Silverplate</title>
-    <updated>2023-01-14T01:44:25Z</updated>
-    <id>tag:github.com,2023-01-14:/FinBoWa/Silverplate</id>
-    <link href="https://github.com/FinBoWa/Silverplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A boilerplate theme for SilverStripe using Foundation 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ythuang-sandbox/salt</title>
+    <updated>2023-01-15T01:45:14Z</updated>
+    <id>tag:github.com,2023-01-15:/ythuang-sandbox/salt</id>
+    <link href="https://github.com/ythuang-sandbox/salt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Saltstack deployment and states&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T02:07:52Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tpope/vim-pathogen</title>
+    <updated>2023-01-15T02:07:52Z</updated>
+    <id>tag:github.com,2023-01-15:/tpope/vim-pathogen</id>
+    <link href="https://github.com/tpope/vim-pathogen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pathogen.vim: manage your runtimepath&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wellle/targets.vim</title>
+    <updated>2023-01-15T02:07:52Z</updated>
+    <id>tag:github.com,2023-01-15:/wellle/targets.vim</id>
+    <link href="https://github.com/wellle/targets.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin that provides additional text objects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>haya14busa/incsearch.vim</title>
+    <updated>2023-01-15T02:07:52Z</updated>
+    <id>tag:github.com,2023-01-15:/haya14busa/incsearch.vim</id>
+    <link href="https://github.com/haya14busa/incsearch.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔦 Improved incremental searching for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

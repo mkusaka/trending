@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T01:50:23Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PlummersSoftwareLLC/HelloAssembly</title>
+    <updated>2023-01-15T01:50:23Z</updated>
+    <id>tag:github.com,2023-01-15:/PlummersSoftwareLLC/HelloAssembly</id>
+    <link href="https://github.com/PlummersSoftwareLLC/HelloAssembly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The smallest possible complete Windows application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nornagon/jonesforth</title>
+    <updated>2023-01-15T01:50:23Z</updated>
+    <id>tag:github.com,2023-01-15:/nornagon/jonesforth</id>
+    <link href="https://github.com/nornagon/jonesforth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of JONESFORTH&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

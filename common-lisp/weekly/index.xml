@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T01:52:27Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shirakumo/trial</title>
+    <updated>2023-01-15T01:52:27Z</updated>
+    <id>tag:github.com,2023-01-15:/Shirakumo/trial</id>
+    <link href="https://github.com/Shirakumo/trial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fully-fledged Common Lisp game engine&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Shirakumo/trial/master/logo.svg?sanitize=true&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;About Trial&lt;/h2&gt; &#xA;&lt;p&gt;Trial is a game engine written in Common Lisp. Unlike many other engines, it is meant to be more of a loose connection of components that can be fit together as required by any particular game.&lt;/p&gt; &#xA;&lt;p&gt;The project is still in its very early stages and may change heavily as new constraints become clear. As such there is no guarantee for API stability at this point and no documentation is available. However, you may use projects such as &lt;a href=&#34;https://github.com/shinmera/vpetjam&#34;&gt;Vegetable Mash&lt;/a&gt; as a reference on how to start using it.&lt;/p&gt; &#xA;&lt;p&gt;Come talk to us at the shirakumo channel, reachable through &lt;a href=&#34;https://chat.tymoon.eu/?channel=shirakumo&#34;&gt;lichat&lt;/a&gt; or IRC on Libera.&lt;/p&gt; &#xA;&lt;h2&gt;Projects Using Trial&lt;/h2&gt; &#xA;&lt;p&gt;Here are a few games that are using Trial as their engine. Kandria and Eternia: Pet Whisperer are commercial games available on Steam.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://kandria.com&#34;&gt;&lt;img src=&#34;https://kandria.com/media/small%20capsule.png&#34; alt=&#34;logo&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://kandria.com&#34;&gt;Kandria&lt;/a&gt; On &lt;a href=&#34;https://store.steampowered.com/app/1261430/Kandria/&#34;&gt;Steam&lt;/a&gt;!&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://kandria.com/eternia&#34;&gt;&lt;img src=&#34;https://kandria.com/eternia/media/small%20capsule.png&#34; alt=&#34;logo&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://kandria.com/eternia&#34;&gt;Eternia Pet Whisperer&lt;/a&gt; On &lt;a href=&#34;https://store.steampowered.com/app/1605720/Eternia_Pet_Whisperer/&#34;&gt;Steam&lt;/a&gt;!&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://shinmera.itch.io/vegetablemash&#34;&gt;Vegetable Mash&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://shinmera.itch.io/rush&#34;&gt;Rush&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://shinmera.itch.io/outsider&#34;&gt;Outsider&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>valeryz/cl-zmq</title>
+    <updated>2023-01-15T01:52:27Z</updated>
+    <id>tag:github.com,2023-01-15:/valeryz/cl-zmq</id>
+    <link href="https://github.com/valeryz/cl-zmq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clone of repo.or.cz to fix the EINTR issue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

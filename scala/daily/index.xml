@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-14T01:44:14Z</updated>
+  <updated>2023-01-15T01:45:05Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dalehamill/Rowbit</title>
+    <updated>2023-01-15T01:45:05Z</updated>
+    <id>tag:github.com,2023-01-15:/dalehamill/Rowbit</id>
+    <link href="https://github.com/dalehamill/Rowbit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scala Practice in the form of a game&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Rowbit&lt;/h1&gt; &#xA;&lt;p&gt;Scala Practice in the form of a game&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>rchillyard/CSYE7200</title>
+    <updated>2023-01-15T01:45:05Z</updated>
+    <id>tag:github.com,2023-01-15:/rchillyard/CSYE7200</id>
+    <link href="https://github.com/rchillyard/CSYE7200" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This new version of CSYE7200 is to replace the old version.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CSYE7200&lt;/h1&gt; &#xA;&lt;p&gt;Public repository without solutions for CSYE7200&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-14T01:33:02Z</updated>
+  <updated>2023-01-15T01:32:48Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>juliocodes-sm/Reels</title>
-    <updated>2023-01-14T01:33:02Z</updated>
-    <id>tag:github.com,2023-01-14:/juliocodes-sm/Reels</id>
-    <link href="https://github.com/juliocodes-sm/Reels" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Instructions&lt;/h2&gt; &#xA;&lt;p&gt;It is very important that you read the post&#39;s caption on the respective platform. The caption provides information that will help you navigate the repo to help you find the snippet that you are looking for.&lt;/p&gt; &#xA;&lt;p&gt;The general caption format is as follows&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;✨ CSS buttons 01&lt;/p&gt; &#xA; &lt;p&gt;The completed code can be found on GitHub within the &#39;Reels/Buttons/01&#39; repo.&lt;/p&gt; &#xA; &lt;p&gt;If you found this content useful, please tap the ♥️ icon and give me a follow. I would greatly appreciate it. Also, if you have any feedback, questions or concerns, let me know in the comments section 💬. Thanks ☺️&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;In the given caption example, the path specified means navigate to the &lt;code&gt;Reels&lt;/code&gt; repo, then the &lt;code&gt;Buttons&lt;/code&gt; folder, and finally the &lt;code&gt;01&lt;/code&gt; folder. This is where the code for that particular reel will be. In order to avoid further confusion, the &lt;code&gt;numbered&lt;/code&gt; folder will include a thumbnail of the project as well.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;I&#39;m too lazy to include one of those fancy licenses; just know that you can use these code snippets as you see fit.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>lighthouse-labs/album-search</title>
-    <updated>2023-01-14T01:33:02Z</updated>
-    <id>tag:github.com,2023-01-14:/lighthouse-labs/album-search</id>
-    <link href="https://github.com/lighthouse-labs/album-search" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Example of a single project using two different libraries.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>nus-cs3281/2023</title>
-    <updated>2023-01-14T01:33:02Z</updated>
-    <id>tag:github.com,2023-01-14:/nus-cs3281/2023</id>
-    <link href="https://github.com/nus-cs3281/2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CS3281&amp;amp;2 student data website&lt;/h1&gt;</summary>
+    <title>MeewPunk/Alert-Memory-CPU</title>
+    <updated>2023-01-15T01:32:48Z</updated>
+    <id>tag:github.com,2023-01-15:/MeewPunk/Alert-Memory-CPU</id>
+    <link href="https://github.com/MeewPunk/Alert-Memory-CPU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Alert Memory CPU&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

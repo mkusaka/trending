@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T02:07:49Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>T-head-Semi/wujian100_open</title>
+    <updated>2023-01-15T02:07:49Z</updated>
+    <id>tag:github.com,2023-01-15:/T-head-Semi/wujian100_open</id>
+    <link href="https://github.com/T-head-Semi/wujian100_open" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IC design and development should be faster，simpler and more reliable&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

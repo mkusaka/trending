@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T02:08:46Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>katafrakt/zig-ruby</title>
+    <updated>2023-01-15T02:08:46Z</updated>
+    <id>tag:github.com,2023-01-15:/katafrakt/zig-ruby</id>
+    <link href="https://github.com/katafrakt/zig-ruby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ziglibs/tres</title>
+    <updated>2023-01-15T02:08:46Z</updated>
+    <id>tag:github.com,2023-01-15:/ziglibs/tres</id>
+    <link href="https://github.com/ziglibs/tres" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ValueTree-based JSON parser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hexops/mach-examples</title>
+    <updated>2023-01-15T02:08:46Z</updated>
+    <id>tag:github.com,2023-01-15:/hexops/mach-examples</id>
+    <link href="https://github.com/hexops/mach-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mach core &amp; engine examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-14T01:44:28Z</updated>
+  <updated>2023-01-15T01:45:17Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oleeskild/digitalgarden</title>
-    <updated>2023-01-14T01:44:28Z</updated>
-    <id>tag:github.com,2023-01-14:/oleeskild/digitalgarden</id>
-    <link href="https://github.com/oleeskild/digitalgarden" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>natashadm24/siegacafe</title>
+    <updated>2023-01-15T01:45:17Z</updated>
+    <id>tag:github.com,2023-01-15:/natashadm24/siegacafe</id>
+    <link href="https://github.com/natashadm24/siegacafe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;website siega cafe&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iuricode/portfolio</title>
-    <updated>2023-01-14T01:44:28Z</updated>
-    <id>tag:github.com,2023-01-14:/iuricode/portfolio</id>
-    <link href="https://github.com/iuricode/portfolio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💻 Portfólio - Iuri Silva&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vantagedesign/ace-documentation</title>
+    <updated>2023-01-15T01:45:17Z</updated>
+    <id>tag:github.com,2023-01-15:/vantagedesign/ace-documentation</id>
+    <link href="https://github.com/vantagedesign/ace-documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free documentation theme for Hugo, powered by Bootstrap 4. Repsonsive, search, code highlighting and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>patternfly/patternfly</title>
+    <updated>2023-01-15T01:45:17Z</updated>
+    <id>tag:github.com,2023-01-15:/patternfly/patternfly</id>
+    <link href="https://github.com/patternfly/patternfly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

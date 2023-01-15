@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Cairo Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-15T01:51:49Z</updated>
+  <subtitle>Weekly Trending of Cairo in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>starknet-edu/basecamp</title>
+    <updated>2023-01-15T01:51:49Z</updated>
+    <id>tag:github.com,2023-01-15:/starknet-edu/basecamp</id>
+    <link href="https://github.com/starknet-edu/basecamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;So you&#39;ve landed in a strange finite field. Only thing to do now is setup basecamp.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
