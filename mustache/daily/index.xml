@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:40:36Z</updated>
+  <updated>2023-01-16T01:40:28Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cray-HPE/prometheus-operator</title>
-    <updated>2023-01-15T01:40:36Z</updated>
-    <id>tag:github.com,2023-01-15:/Cray-HPE/prometheus-operator</id>
-    <link href="https://github.com/Cray-HPE/prometheus-operator" rel="alternate"></link>
+    <title>2022-Summer-Team-Project/SQL-Learning-Web-Application</title>
+    <updated>2023-01-16T01:40:28Z</updated>
+    <id>tag:github.com,2023-01-16:/2022-Summer-Team-Project/SQL-Learning-Web-Application</id>
+    <link href="https://github.com/2022-Summer-Team-Project/SQL-Learning-Web-Application" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

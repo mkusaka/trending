@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:34:25Z</updated>
+  <updated>2023-01-16T01:34:27Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>membraneframework/membrane_audio_filler_plugin</title>
+    <updated>2023-01-16T01:34:27Z</updated>
+    <id>tag:github.com,2023-01-16:/membraneframework/membrane_audio_filler_plugin</id>
+    <link href="https://github.com/membraneframework/membrane_audio_filler_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phoenixframework/phoenix_ecto</title>
+    <updated>2023-01-16T01:34:27Z</updated>
+    <id>tag:github.com,2023-01-16:/phoenixframework/phoenix_ecto</id>
+    <link href="https://github.com/phoenixframework/phoenix_ecto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Phoenix and Ecto integration with support for concurrent acceptance testing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

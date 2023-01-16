@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:40:00Z</updated>
+  <updated>2023-01-16T01:39:53Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mahdeslami11/JD-NMF-</title>
-    <updated>2023-01-15T01:40:00Z</updated>
-    <id>tag:github.com,2023-01-15:/mahdeslami11/JD-NMF-</id>
-    <link href="https://github.com/mahdeslami11/JD-NMF-" rel="alternate"></link>
+    <title>matlab-deep-learning/fourier-neural-operator</title>
+    <updated>2023-01-16T01:39:53Z</updated>
+    <id>tag:github.com,2023-01-16:/matlab-deep-learning/fourier-neural-operator</id>
+    <link href="https://github.com/matlab-deep-learning/fourier-neural-operator" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mahdeslami11/Narges-rezaeei</title>
-    <updated>2023-01-15T01:40:00Z</updated>
-    <id>tag:github.com,2023-01-15:/mahdeslami11/Narges-rezaeei</id>
-    <link href="https://github.com/mahdeslami11/Narges-rezaeei" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Reflectivity-Algorithms-Toolbox/RAT</title>
-    <updated>2023-01-15T01:40:00Z</updated>
-    <id>tag:github.com,2023-01-15:/Reflectivity-Algorithms-Toolbox/RAT</id>
-    <link href="https://github.com/Reflectivity-Algorithms-Toolbox/RAT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reflectivity Algorithms Toolbox&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

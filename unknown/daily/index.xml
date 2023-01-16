@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:29:36Z</updated>
+  <updated>2023-01-16T01:29:44Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Hello-SimpleAI/chatgpt-comparison-detection</title>
-    <updated>2023-01-15T01:29:36Z</updated>
-    <id>tag:github.com,2023-01-15:/Hello-SimpleAI/chatgpt-comparison-detection</id>
-    <link href="https://github.com/Hello-SimpleAI/chatgpt-comparison-detection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT Comparison Corpus (C3), Detectors, and more! 🔥&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ai-collection/ai-collection</title>
+    <updated>2023-01-16T01:29:44Z</updated>
+    <id>tag:github.com,2023-01-16:/ai-collection/ai-collection</id>
+    <link href="https://github.com/ai-collection/ai-collection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of generative AI applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xuncv/WechatVideoSniffer</title>
-    <updated>2023-01-15T01:29:36Z</updated>
-    <id>tag:github.com,2023-01-15:/xuncv/WechatVideoSniffer</id>
-    <link href="https://github.com/xuncv/WechatVideoSniffer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;微信视频号PC版、微信看一看、微信公众号视频地址嗅探器&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethereum/kzg-ceremony</title>
+    <updated>2023-01-16T01:29:44Z</updated>
+    <id>tag:github.com,2023-01-16:/ethereum/kzg-ceremony</id>
+    <link href="https://github.com/ethereum/kzg-ceremony" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources and documentation related to the planned Ethereum KZG Ceremony.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sushiwushi/bug-bounty-dorks</title>
-    <updated>2023-01-15T01:29:36Z</updated>
-    <id>tag:github.com,2023-01-15:/sushiwushi/bug-bounty-dorks</id>
-    <link href="https://github.com/sushiwushi/bug-bounty-dorks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of Google Dorks for sites that have responsible disclosure program / bug bounty program&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>csquires/6.S091-causality</title>
+    <updated>2023-01-16T01:29:44Z</updated>
+    <id>tag:github.com,2023-01-16:/csquires/6.S091-causality</id>
+    <link href="https://github.com/csquires/6.S091-causality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

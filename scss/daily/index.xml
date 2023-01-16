@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:45:17Z</updated>
+  <updated>2023-01-16T01:44:38Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>natashadm24/siegacafe</title>
-    <updated>2023-01-15T01:45:17Z</updated>
-    <id>tag:github.com,2023-01-15:/natashadm24/siegacafe</id>
-    <link href="https://github.com/natashadm24/siegacafe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;website siega cafe&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alvaromontoro/almond.css</title>
+    <updated>2023-01-16T01:44:38Z</updated>
+    <id>tag:github.com,2023-01-16:/alvaromontoro/almond.css</id>
+    <link href="https://github.com/alvaromontoro/almond.css" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of CSS styles to make simple websites look nicer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>vantagedesign/ace-documentation</title>
-    <updated>2023-01-15T01:45:17Z</updated>
-    <id>tag:github.com,2023-01-15:/vantagedesign/ace-documentation</id>
-    <link href="https://github.com/vantagedesign/ace-documentation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A free documentation theme for Hugo, powered by Bootstrap 4. Repsonsive, search, code highlighting and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>patternfly/patternfly</title>
-    <updated>2023-01-15T01:45:17Z</updated>
-    <id>tag:github.com,2023-01-15:/patternfly/patternfly</id>
-    <link href="https://github.com/patternfly/patternfly" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rajatmala/Letusgopal</title>
+    <updated>2023-01-16T01:44:38Z</updated>
+    <id>tag:github.com,2023-01-16:/rajatmala/Letusgopal</id>
+    <link href="https://github.com/rajatmala/Letusgopal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

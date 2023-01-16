@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:47:08Z</updated>
+  <updated>2023-01-16T01:46:28Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AllisonOge/electromagnetism-and-antenna-theory-v2-1</title>
-    <updated>2023-01-15T01:47:08Z</updated>
-    <id>tag:github.com,2023-01-15:/AllisonOge/electromagnetism-and-antenna-theory-v2-1</id>
-    <link href="https://github.com/AllisonOge/electromagnetism-and-antenna-theory-v2-1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A book on transmission line and the wave equations for undergrad courses at the university of benin&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Electromagnetism and antenna theory v2&lt;/h1&gt; &#xA;&lt;p&gt;A book for undergrads at the department of electrical and electronic engineering, University of Benin for the course code EEE 473. The book is written in latex and the setup guide is treated &lt;a href=&#34;https://github.com/AllisonOge/electromagnetism-and-antenna-theory-v2/raw/master/README.md&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>huxuan/resumecls</title>
-    <updated>2023-01-15T01:47:08Z</updated>
-    <id>tag:github.com,2023-01-15:/huxuan/resumecls</id>
-    <link href="https://github.com/huxuan/resumecls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A LaTeX document class to typeset a resume or cv both in English and Chinese with more ease and flexibility.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;resumecls&lt;/h1&gt; &#xA;&lt;p&gt;A LaTeX document class to typeset a resume or cv both in English and Chinese with more ease and flexibility.&lt;/p&gt; &#xA;&lt;h2&gt;Online Preview &amp;amp; Edit (with Overleaf Template)&lt;/h2&gt; &#xA;&lt;p&gt;An overleaf template is available &lt;a href=&#34;https://www.overleaf.com/latex/templates/resumecls-example/xncvhkjgyjvf&#34;&gt;here&lt;/a&gt; for preview.&lt;/p&gt; &#xA;&lt;p&gt;You can also edit it directly on the overleaf.&lt;/p&gt; &#xA;&lt;h2&gt;Installation (for Offline Usage)&lt;/h2&gt; &#xA;&lt;p&gt;Since &lt;a href=&#34;http://www.ctan.org/pkg/resumecls&#34;&gt;&lt;code&gt;resumecls&lt;/code&gt;&lt;/a&gt; is included in the CTAN. You can install it by any package managers.&lt;/p&gt; &#xA;&lt;p&gt;Take &lt;code&gt;tlgmr&lt;/code&gt; as example,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;tlmgr install resumecls&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage / Examples&lt;/h2&gt; &#xA;&lt;p&gt;please refer to &lt;a href=&#34;https://github.com/huxuan/resumecls-example&#34;&gt;&lt;code&gt;resumecls-example&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Offline Compile&lt;/h2&gt; &#xA;&lt;p&gt;To get the document class file and document manually, you can compile via Makefile or LaTeX commands.&lt;/p&gt; &#xA;&lt;h3&gt;Makefile&lt;/h3&gt; &#xA;&lt;h4&gt;Get resumecls.cls&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;make cls&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Get resumecls.pdf&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;make doc&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Clean intermediate generated files&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;make clean&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Clean for distribution&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;make distclean&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;LaTeX&lt;/h3&gt; &#xA;&lt;h4&gt;Get resumecls.cls&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;latex resumecls.ins&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Get resumecls.pdf&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;xelatex resumecls.dtx&#xA;makeindex -s gind.ist -o resumecls.ind resumecls.idx&#xA;makeindex -s gglo.ist -o resumecls.gls resumecls.glo&#xA;xelatex resumecls.dtx&#xA;xelatex resumecls.dtx&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

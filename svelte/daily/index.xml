@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:46:32Z</updated>
+  <updated>2023-01-16T01:45:55Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QAInsights/UpTime</title>
-    <updated>2023-01-15T01:46:32Z</updated>
-    <id>tag:github.com,2023-01-15:/QAInsights/UpTime</id>
-    <link href="https://github.com/QAInsights/UpTime" rel="alternate"></link>
+    <title>Vincentvibe3/BrebeufHx-6.0</title>
+    <updated>2023-01-16T01:45:55Z</updated>
+    <id>tag:github.com,2023-01-16:/Vincentvibe3/BrebeufHx-6.0</id>
+    <link href="https://github.com/Vincentvibe3/BrebeufHx-6.0" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

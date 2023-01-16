@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:35:20Z</updated>
+  <updated>2023-01-16T01:35:20Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>blakeccross/Pokemon-Firered-Remake</title>
-    <updated>2023-01-15T01:35:20Z</updated>
-    <id>tag:github.com,2023-01-15:/blakeccross/Pokemon-Firered-Remake</id>
-    <link href="https://github.com/blakeccross/Pokemon-Firered-Remake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sesopenko/gatt</title>
-    <updated>2023-01-15T01:35:20Z</updated>
-    <id>tag:github.com,2023-01-15:/sesopenko/gatt</id>
-    <link href="https://github.com/sesopenko/gatt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot Autotile Texture Templater&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lila-Kuhlt/That-time-I-got-reincarnated-as-a-barn</title>
+    <updated>2023-01-16T01:35:20Z</updated>
+    <id>tag:github.com,2023-01-16:/Lila-Kuhlt/That-time-I-got-reincarnated-as-a-barn</id>
+    <link href="https://github.com/Lila-Kuhlt/That-time-I-got-reincarnated-as-a-barn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tower defense game submitted on Ludum Dare 52&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

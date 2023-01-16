@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:36:36Z</updated>
+  <updated>2023-01-16T01:36:30Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hmcts/azure-platform-terraform</title>
+    <updated>2023-01-16T01:36:30Z</updated>
+    <id>tag:github.com,2023-01-16:/hmcts/azure-platform-terraform</id>
+    <link href="https://github.com/hmcts/azure-platform-terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All things terraform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jayachandrareddym/terraform</title>
+    <updated>2023-01-16T01:36:30Z</updated>
+    <id>tag:github.com,2023-01-16:/jayachandrareddym/terraform</id>
+    <link href="https://github.com/jayachandrareddym/terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-waf</title>
+    <updated>2023-01-16T01:36:30Z</updated>
+    <id>tag:github.com,2023-01-16:/cloudposse/terraform-aws-waf</id>
+    <link href="https://github.com/cloudposse/terraform-aws-waf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:32:13Z</updated>
+  <updated>2023-01-16T01:32:36Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hypirion/fairbrook</title>
-    <updated>2023-01-15T01:32:13Z</updated>
-    <id>tag:github.com,2023-01-15:/hypirion/fairbrook</id>
-    <link href="https://github.com/hypirion/fairbrook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fine-grained map manipulation for the masses.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>circleci/circleci.test</title>
+    <updated>2023-01-16T01:32:36Z</updated>
+    <id>tag:github.com,2023-01-16:/circleci/circleci.test</id>
+    <link href="https://github.com/circleci/circleci.test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enhanced Clojure test runner for tests written with clojure.test&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

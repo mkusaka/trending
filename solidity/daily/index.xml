@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:46:03Z</updated>
+  <updated>2023-01-16T01:45:32Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>paradigmxyz/zk-eth-rng</title>
-    <updated>2023-01-15T01:46:03Z</updated>
-    <id>tag:github.com,2023-01-15:/paradigmxyz/zk-eth-rng</id>
-    <link href="https://github.com/paradigmxyz/zk-eth-rng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Secure randomness for Ethereum&#39;s execution layer via SNARKs and RANDAO.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PaulRBerg/prb-test</title>
-    <updated>2023-01-15T01:46:03Z</updated>
-    <id>tag:github.com,2023-01-15:/PaulRBerg/prb-test</id>
-    <link href="https://github.com/PaulRBerg/prb-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern collection of testing assertions and logging utilities for Solidity&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brockelmore/memmove</title>
-    <updated>2023-01-15T01:46:03Z</updated>
-    <id>tag:github.com,2023-01-15:/brockelmore/memmove</id>
-    <link href="https://github.com/brockelmore/memmove" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A data structures library that does memory management for you&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PaulRBerg/prb-contracts</title>
+    <updated>2023-01-16T01:45:32Z</updated>
+    <id>tag:github.com,2023-01-16:/PaulRBerg/prb-contracts</id>
+    <link href="https://github.com/PaulRBerg/prb-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Off-the-shelf Solidity smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

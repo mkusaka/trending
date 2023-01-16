@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-15T01:33:18Z</updated>
+  <updated>2023-01-16T01:33:35Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>liplum/EscapeWild.Flutter</title>
+    <updated>2023-01-16T01:33:35Z</updated>
+    <id>tag:github.com,2023-01-16:/liplum/EscapeWild.Flutter</id>
+    <link href="https://github.com/liplum/EscapeWild.Flutter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A text-based game powered by Flutter.&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;h1&gt;Escape Wild&lt;/h1&gt; &#xA; &lt;p&gt;&lt;a href=&#34;https://discord.gg/PDwyxM3waw&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/937228972041842718?color=454fc1&amp;amp;label=Discord&amp;amp;logo=Discord&amp;amp;style=for-the-badge&amp;amp;logoColor=white&amp;amp;labelColor=5865F2&#34; alt=&#34;Button Discord&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/liplum/EscapeWild.Flutter/releases/latest&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/downloads/liplum/EscapeWild.Flutter/total?color=023a46&amp;amp;label=Download&amp;amp;logo=docusign&amp;amp;logoColor=white&amp;amp;style=for-the-badge&amp;amp;labelColor=034e5e&#34; alt=&#34;Buttons Download&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA; &lt;h4&gt;&lt;em&gt;A multi-platform text-based game powered by Flutter&lt;/em&gt;&lt;/h4&gt; &#xA; &lt;h3&gt;&lt;a href=&#34;https://liplum.github.io/EscapeWild.Flutter&#34;&gt;Play This Online&lt;/a&gt;&lt;/h3&gt; &#xA; &lt;h2&gt;Contributing&lt;/h2&gt; &#xA; &lt;p&gt;Welcome to contribute codes, ideas and localization.&lt;/p&gt; &#xA; &lt;p&gt;Please get started with &lt;a href=&#34;https://raw.githubusercontent.com/liplum/EscapeWild.Flutter/master/CONTRIBUTING.md&#34;&gt;the Contributing Guide&lt;/a&gt;.&lt;/p&gt; &#xA; &lt;h3&gt;See Also&lt;/h3&gt; &#xA; &lt;p&gt;The deprecated &lt;a href=&#34;https://github.com/liplum/EscapeWild.Forms&#34;&gt;EscapeWild.Forms&lt;/a&gt; is written in C# with Xamarin.Forms.&lt;/p&gt; &#xA; &lt;h2&gt;Licence&lt;/h2&gt; &#xA; &lt;p&gt;EscapeWild.Flutter is open source under GUN v3.0 license.&lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;!----&gt; &#xA;&lt;!--[ Buttons ]---------------------------------&gt;</summary>
+  </entry>
 </feed>
