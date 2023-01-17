@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub V Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:47:03Z</updated>
+  <updated>2023-01-17T01:50:02Z</updated>
   <subtitle>Daily Trending of V in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>l1mey112/jitcalc</title>
+    <updated>2023-01-17T01:50:02Z</updated>
+    <id>tag:github.com,2023-01-17:/l1mey112/jitcalc</id>
+    <link href="https://github.com/l1mey112/jitcalc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;jitcalc is a calculator written in the V programming language that evaluates expressions by creating x86_64 programs at runtime.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

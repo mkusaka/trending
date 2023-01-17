@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:43:59Z</updated>
+  <updated>2023-01-17T01:46:44Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>outfoxx/PotentCodables</title>
-    <updated>2023-01-16T01:43:59Z</updated>
-    <id>tag:github.com,2023-01-16:/outfoxx/PotentCodables</id>
-    <link href="https://github.com/outfoxx/PotentCodables" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧪 PotentCodables - A potent set of implementations and extensions to the Swift Codable system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

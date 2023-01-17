@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:38:30Z</updated>
+  <updated>2023-01-17T01:40:04Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MakieOrg/Tyler.jl</title>
-    <updated>2023-01-16T01:38:30Z</updated>
-    <id>tag:github.com,2023-01-16:/MakieOrg/Tyler.jl</id>
-    <link href="https://github.com/MakieOrg/Tyler.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Makie packages to plot maptiles from various map providers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:47:25Z</updated>
+  <updated>2023-01-17T01:50:25Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seedhodler/seedhodler-legacy</title>
-    <updated>2023-01-16T01:47:25Z</updated>
-    <id>tag:github.com,2023-01-16:/seedhodler/seedhodler-legacy</id>
-    <link href="https://github.com/seedhodler/seedhodler-legacy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shamir Secret Sharing built for BIP39 / SLIP39 and other crypto seeds&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>misskey-dev/misskey-hub</title>
+    <updated>2023-01-17T01:50:25Z</updated>
+    <id>tag:github.com,2023-01-17:/misskey-dev/misskey-hub</id>
+    <link href="https://github.com/misskey-dev/misskey-hub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Website for Misskey&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ideasbucketlabs/tansen</title>
-    <updated>2023-01-16T01:47:25Z</updated>
-    <id>tag:github.com,2023-01-16:/ideasbucketlabs/tansen</id>
-    <link href="https://github.com/ideasbucketlabs/tansen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easy way to inspect, analyze and visualize Kafka Cluster, Topics and Schema&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tencent/tdesign-vue-starter</title>
+    <updated>2023-01-17T01:50:25Z</updated>
+    <id>tag:github.com,2023-01-17:/Tencent/tdesign-vue-starter</id>
+    <link href="https://github.com/Tencent/tdesign-vue-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter-kit for TDesign Vue UI components.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AEGEE/frontend</title>
+    <updated>2023-01-17T01:50:25Z</updated>
+    <id>tag:github.com,2023-01-17:/AEGEE/frontend</id>
+    <link href="https://github.com/AEGEE/frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue.js frontend for MyAEGEE based on vue-bulma&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

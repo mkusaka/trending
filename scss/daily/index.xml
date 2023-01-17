@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:44:38Z</updated>
+  <updated>2023-01-17T01:47:23Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alvaromontoro/almond.css</title>
-    <updated>2023-01-16T01:44:38Z</updated>
-    <id>tag:github.com,2023-01-16:/alvaromontoro/almond.css</id>
-    <link href="https://github.com/alvaromontoro/almond.css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of CSS styles to make simple websites look nicer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ViktorSvertoka/ice-cream</title>
+    <updated>2023-01-17T01:47:23Z</updated>
+    <id>tag:github.com,2023-01-17:/ViktorSvertoka/ice-cream</id>
+    <link href="https://github.com/ViktorSvertoka/ice-cream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;team project website ice cream&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rajatmala/Letusgopal</title>
-    <updated>2023-01-16T01:44:38Z</updated>
-    <id>tag:github.com,2023-01-16:/rajatmala/Letusgopal</id>
-    <link href="https://github.com/rajatmala/Letusgopal" rel="alternate"></link>
+    <title>neptune-mutual-blue/neptunemutual.com</title>
+    <updated>2023-01-17T01:47:23Z</updated>
+    <id>tag:github.com,2023-01-17:/neptune-mutual-blue/neptunemutual.com</id>
+    <link href="https://github.com/neptune-mutual-blue/neptunemutual.com" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shuosc/fly</title>
+    <updated>2023-01-17T01:47:23Z</updated>
+    <id>tag:github.com,2023-01-17:/shuosc/fly</id>
+    <link href="https://github.com/shuosc/fly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;上海大学溯源手册（SHUFly）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

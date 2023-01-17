@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:39:48Z</updated>
+  <updated>2023-01-17T01:41:46Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>immersive-translate/next-immersive-translate</title>
-    <updated>2023-01-16T01:39:48Z</updated>
-    <id>tag:github.com,2023-01-16:/immersive-translate/next-immersive-translate</id>
-    <link href="https://github.com/immersive-translate/next-immersive-translate" rel="alternate"></link>
+    <title>immersive-translate/immersive-translate</title>
+    <updated>2023-01-17T01:41:46Z</updated>
+    <id>tag:github.com,2023-01-17:/immersive-translate/immersive-translate</id>
+    <link href="https://github.com/immersive-translate/immersive-translate" rel="alternate"></link>
     <summary type="html">&lt;p&gt;Next immersive translator, only for release new version&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VictorNorman/cs112-proj0-assignment</title>
+    <updated>2023-01-17T01:41:46Z</updated>
+    <id>tag:github.com,2023-01-17:/VictorNorman/cs112-proj0-assignment</id>
+    <link href="https://github.com/VictorNorman/cs112-proj0-assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

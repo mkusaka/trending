@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:40:28Z</updated>
+  <updated>2023-01-17T01:42:33Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>2022-Summer-Team-Project/SQL-Learning-Web-Application</title>
-    <updated>2023-01-16T01:40:28Z</updated>
-    <id>tag:github.com,2023-01-16:/2022-Summer-Team-Project/SQL-Learning-Web-Application</id>
-    <link href="https://github.com/2022-Summer-Team-Project/SQL-Learning-Web-Application" rel="alternate"></link>
+    <title>vfarcic/cncf-demo</title>
+    <updated>2023-01-17T01:42:33Z</updated>
+    <id>tag:github.com,2023-01-17:/vfarcic/cncf-demo</id>
+    <link href="https://github.com/vfarcic/cncf-demo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oll-test-repos/sanipueblo-law-static-assets</title>
+    <updated>2023-01-17T01:42:33Z</updated>
+    <id>tag:github.com,2023-01-17:/oll-test-repos/sanipueblo-law-static-assets</id>
+    <link href="https://github.com/oll-test-repos/sanipueblo-law-static-assets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;contains partners static assets (css, js, ...)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

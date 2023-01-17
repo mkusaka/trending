@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:34:49Z</updated>
+  <updated>2023-01-17T01:36:05Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RonaldSchlenker/Vide</title>
-    <updated>2023-01-16T01:34:49Z</updated>
-    <id>tag:github.com,2023-01-16:/RonaldSchlenker/Vide</id>
-    <link href="https://github.com/RonaldSchlenker/Vide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reactive front-end framework for F# without dependencies.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Vide&lt;/h1&gt; &#xA;&lt;p&gt;Vide is a declarative view library written in F#. It implements a core that can be used in various application frameworks. It&#39;s the monorepo for Fable and other technologies / stacks.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Vide is in an early prototype state, and it may be that many things you read here will already be obsolete!&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;See: [./Vide.Fable/README.md]&lt;/p&gt;</summary>
-  </entry>
 </feed>

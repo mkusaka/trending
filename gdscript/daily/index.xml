@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:35:20Z</updated>
+  <updated>2023-01-17T01:36:38Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Lila-Kuhlt/That-time-I-got-reincarnated-as-a-barn</title>
-    <updated>2023-01-16T01:35:20Z</updated>
-    <id>tag:github.com,2023-01-16:/Lila-Kuhlt/That-time-I-got-reincarnated-as-a-barn</id>
-    <link href="https://github.com/Lila-Kuhlt/That-time-I-got-reincarnated-as-a-barn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tower defense game submitted on Ludum Dare 52&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>basils-garden/sound-space-plus</title>
+    <updated>2023-01-17T01:36:38Z</updated>
+    <id>tag:github.com,2023-01-17:/basils-garden/sound-space-plus</id>
+    <link href="https://github.com/basils-garden/sound-space-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rhythm game where you move the mouse to hit notes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:31:13Z</updated>
+  <updated>2023-01-17T01:32:25Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>microsoft/unreal-cloud-ddc-on-azure</title>
-    <updated>2023-01-16T01:31:13Z</updated>
-    <id>tag:github.com,2023-01-16:/microsoft/unreal-cloud-ddc-on-azure</id>
-    <link href="https://github.com/microsoft/unreal-cloud-ddc-on-azure" rel="alternate"></link>
+    <title>03-Cyber/azure-security-survival-kit</title>
+    <updated>2023-01-17T01:32:25Z</updated>
+    <id>tag:github.com,2023-01-17:/03-Cyber/azure-security-survival-kit</id>
+    <link href="https://github.com/03-Cyber/azure-security-survival-kit" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-16T01:44:15Z</updated>
+  <updated>2023-01-17T01:47:01Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>juspay/hyperswitch</title>
-    <updated>2023-01-16T01:44:15Z</updated>
-    <id>tag:github.com,2023-01-16:/juspay/hyperswitch</id>
-    <link href="https://github.com/juspay/hyperswitch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Open Source Financial Switch to make Payments fast, reliable and affordable&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rustwasm/wasm-pack</title>
-    <updated>2023-01-16T01:44:15Z</updated>
-    <id>tag:github.com,2023-01-16:/rustwasm/wasm-pack</id>
-    <link href="https://github.com/rustwasm/wasm-pack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📦✨ your favorite rust -&gt; wasm workflow tool!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
