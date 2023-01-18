@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:33:46Z</updated>
+  <updated>2023-01-18T01:32:21Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leonoel/missionary</title>
-    <updated>2023-01-17T01:33:46Z</updated>
-    <id>tag:github.com,2023-01-17:/leonoel/missionary</id>
-    <link href="https://github.com/leonoel/missionary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A functional effect and streaming system for Clojure/Script&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>primeteach/specomatic</title>
-    <updated>2023-01-17T01:33:46Z</updated>
-    <id>tag:github.com,2023-01-17:/primeteach/specomatic</id>
-    <link href="https://github.com/primeteach/specomatic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure(script) library to define entities and their relationships via clojure.spec, and to ask questions about them.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>exoscale/seql</title>
+    <updated>2023-01-18T01:32:21Z</updated>
+    <id>tag:github.com,2023-01-18:/exoscale/seql</id>
+    <link href="https://github.com/exoscale/seql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplfied EDN Query Language for SQL&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

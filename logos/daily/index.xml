@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:41:17Z</updated>
+  <updated>2023-01-18T01:39:20Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TherionRO/YouTubeiVanced</title>
+    <updated>2023-01-18T01:39:20Z</updated>
+    <id>tag:github.com,2023-01-18:/TherionRO/YouTubeiVanced</id>
+    <link href="https://github.com/TherionRO/YouTubeiVanced" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking,dislikes,skip sponsors (iSponsorBlock) and many more customizations and features!The app is also 100% free.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

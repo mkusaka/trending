@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:35:42Z</updated>
+  <updated>2023-01-18T01:34:30Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eigr/spawn</title>
-    <updated>2023-01-17T01:35:42Z</updated>
-    <id>tag:github.com,2023-01-17:/eigr/spawn</id>
-    <link href="https://github.com/eigr/spawn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spawn, the Actor Mesh&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elixir-gettext/gettext</title>
-    <updated>2023-01-17T01:35:42Z</updated>
-    <id>tag:github.com,2023-01-17:/elixir-gettext/gettext</id>
-    <link href="https://github.com/elixir-gettext/gettext" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Internationalization and localization support for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>funlessdev/funless</title>
-    <updated>2023-01-17T01:35:42Z</updated>
-    <id>tag:github.com,2023-01-17:/funlessdev/funless</id>
-    <link href="https://github.com/funlessdev/funless" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The main repo of the FunLess Platform. It consists of the core and worker components of the platform.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

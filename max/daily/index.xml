@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Max Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:41:56Z</updated>
+  <updated>2023-01-18T01:39:53Z</updated>
   <subtitle>Daily Trending of Max in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ppooll-dev/ppooll</title>
+    <updated>2023-01-18T01:39:53Z</updated>
+    <id>tag:github.com,2023-01-18:/ppooll-dev/ppooll</id>
+    <link href="https://github.com/ppooll-dev/ppooll" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ppooll (formerly lloopp) is an audio &amp; video performance environment written in max/MSP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

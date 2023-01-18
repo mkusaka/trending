@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:50:25Z</updated>
+  <updated>2023-01-18T01:48:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>misskey-dev/misskey-hub</title>
-    <updated>2023-01-17T01:50:25Z</updated>
-    <id>tag:github.com,2023-01-17:/misskey-dev/misskey-hub</id>
-    <link href="https://github.com/misskey-dev/misskey-hub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website for Misskey&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hellodigua/vue-danmaku</title>
+    <updated>2023-01-18T01:48:04Z</updated>
+    <id>tag:github.com,2023-01-18:/hellodigua/vue-danmaku</id>
+    <link href="https://github.com/hellodigua/vue-danmaku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Vue.js的弹幕交互组件 | A danmaku component for Vue&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Tencent/tdesign-vue-starter</title>
-    <updated>2023-01-17T01:50:25Z</updated>
-    <id>tag:github.com,2023-01-17:/Tencent/tdesign-vue-starter</id>
-    <link href="https://github.com/Tencent/tdesign-vue-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A starter-kit for TDesign Vue UI components.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AEGEE/frontend</title>
-    <updated>2023-01-17T01:50:25Z</updated>
-    <id>tag:github.com,2023-01-17:/AEGEE/frontend</id>
-    <link href="https://github.com/AEGEE/frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue.js frontend for MyAEGEE based on vue-bulma&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ETCGrantsDAO/etc-grants-dao-website</title>
+    <updated>2023-01-18T01:48:04Z</updated>
+    <id>tag:github.com,2023-01-18:/ETCGrantsDAO/etc-grants-dao-website</id>
+    <link href="https://github.com/ETCGrantsDAO/etc-grants-dao-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Website for the ETC Grants DAO&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

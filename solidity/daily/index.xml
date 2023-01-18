@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:48:15Z</updated>
+  <updated>2023-01-18T01:45:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>exp-table/pigeon</title>
-    <updated>2023-01-17T01:48:15Z</updated>
-    <id>tag:github.com,2023-01-17:/exp-table/pigeon</id>
-    <link href="https://github.com/exp-table/pigeon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulate cross-chain protocols txs, easily.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lucas-manuel/invariant-example</title>
-    <updated>2023-01-17T01:48:15Z</updated>
-    <id>tag:github.com,2023-01-17:/lucas-manuel/invariant-example</id>
-    <link href="https://github.com/lucas-manuel/invariant-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>filecoin-project/fevm-hardhat-kit</title>
-    <updated>2023-01-17T01:48:15Z</updated>
-    <id>tag:github.com,2023-01-17:/filecoin-project/fevm-hardhat-kit</id>
-    <link href="https://github.com/filecoin-project/fevm-hardhat-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A starter hardhat project for developing, deploying, and testing Solidity smart contracts on the FEVM (Ethereum Virtual Machine on Filecoin)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

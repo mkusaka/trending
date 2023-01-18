@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:30:56Z</updated>
+  <updated>2023-01-18T01:29:30Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>helium/denylist</title>
-    <updated>2023-01-17T01:30:56Z</updated>
-    <id>tag:github.com,2023-01-17:/helium/denylist</id>
-    <link href="https://github.com/helium/denylist" rel="alternate"></link>
+    <title>annfelix/DEVOPS-WORLD</title>
+    <updated>2023-01-18T01:29:30Z</updated>
+    <id>tag:github.com,2023-01-18:/annfelix/DEVOPS-WORLD</id>
+    <link href="https://github.com/annfelix/DEVOPS-WORLD" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dair-ai/ML-Papers-Explained</title>
-    <updated>2023-01-17T01:30:56Z</updated>
-    <id>tag:github.com,2023-01-17:/dair-ai/ML-Papers-Explained</id>
-    <link href="https://github.com/dair-ai/ML-Papers-Explained" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explanation to key concepts in ML&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NightmareStresser/DDOS-API</title>
+    <updated>2023-01-18T01:29:30Z</updated>
+    <id>tag:github.com,2023-01-18:/NightmareStresser/DDOS-API</id>
+    <link href="https://github.com/NightmareStresser/DDOS-API" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Working DDOS API For IP Booter / Stresser 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PrathamKumar14/ChatGPT-Prompts</title>
-    <updated>2023-01-17T01:30:56Z</updated>
-    <id>tag:github.com,2023-01-17:/PrathamKumar14/ChatGPT-Prompts</id>
-    <link href="https://github.com/PrathamKumar14/ChatGPT-Prompts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI is taking over slowly. Here are some use ChatGPT/API prompts that help you unlock 100% of your productivity.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TryGOTry/CobaltStrike_Cat_4.5</title>
+    <updated>2023-01-18T01:29:30Z</updated>
+    <id>tag:github.com,2023-01-18:/TryGOTry/CobaltStrike_Cat_4.5</id>
+    <link href="https://github.com/TryGOTry/CobaltStrike_Cat_4.5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;猫猫Cs:基于Cobalt Strike[4.5]二开 (原dogcs二开移植)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

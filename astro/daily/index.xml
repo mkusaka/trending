@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:32:00Z</updated>
+  <updated>2023-01-18T01:30:24Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jonasmerlin/astro-seo</title>
+    <updated>2023-01-18T01:30:24Z</updated>
+    <id>tag:github.com,2023-01-18:/jonasmerlin/astro-seo</id>
+    <link href="https://github.com/jonasmerlin/astro-seo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Makes it easy to add information that is relevant for SEO to your Astro app.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

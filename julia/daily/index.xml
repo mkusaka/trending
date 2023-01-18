@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:40:04Z</updated>
+  <updated>2023-01-18T01:38:25Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Julia-Tempering/Pigeons.jl</title>
+    <updated>2023-01-18T01:38:25Z</updated>
+    <id>tag:github.com,2023-01-18:/Julia-Tempering/Pigeons.jl</id>
+    <link href="https://github.com/Julia-Tempering/Pigeons.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributed and parallel sampling from intractable distributions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

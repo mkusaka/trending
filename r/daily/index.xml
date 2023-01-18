@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-17T01:45:53Z</updated>
+  <updated>2023-01-18T01:43:34Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mschroed/oncosurf</title>
-    <updated>2023-01-17T01:45:53Z</updated>
-    <id>tag:github.com,2023-01-17:/mschroed/oncosurf</id>
-    <link href="https://github.com/mschroed/oncosurf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;meta-analysis of gene expression and survival data&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StatisticsSU/SDA1</title>
+    <updated>2023-01-18T01:43:34Z</updated>
+    <id>tag:github.com,2023-01-18:/StatisticsSU/SDA1</id>
+    <link href="https://github.com/StatisticsSU/SDA1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo för kursen Statistik och dataanalys I&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Statistik och dataanalys I vid Stockholms universitet&lt;/h2&gt; &#xA;&lt;p&gt;Se &lt;a href=&#34;https://statisticssu.github.io/SDA1/&#34;&gt;kurshemsida&lt;/a&gt; för allt material organiserat i en webbsida.&lt;/p&gt;</summary>
   </entry>
 </feed>
