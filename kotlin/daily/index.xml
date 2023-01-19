@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:38:50Z</updated>
+  <updated>2023-01-19T01:38:50Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Dr-TSNG/TwiFucker</title>
+    <updated>2023-01-19T01:38:50Z</updated>
+    <id>tag:github.com,2023-01-19:/Dr-TSNG/TwiFucker</id>
+    <link href="https://github.com/Dr-TSNG/TwiFucker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yet Another Adkiller for Twitter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TwiFucker&lt;/h1&gt; &#xA;&lt;h2&gt;Yet Another Adkiller for Twitter&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://t.me/TwiFucker&#34;&gt;https://t.me/TwiFucker&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is an Xposed module. Support only API 93+.&lt;/p&gt; &#xA;&lt;p&gt;You can find Beta version / Rootless integration (automatically embed latest Twitter with &lt;a href=&#34;https://github.com/LSPosed/LSPatch&#34;&gt;LSPatch&lt;/a&gt;) at our Telegram channel.&lt;/p&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Dr-TSNG/TwiFucker/master/FEATURES.md&#34;&gt;Features&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;Settings and privacy&lt;/code&gt; &amp;gt; &lt;code&gt;Additional resources&lt;/code&gt; &amp;gt; Tap version&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>horizontalsystems/unstoppable-wallet-android</title>
+    <updated>2023-01-19T01:38:50Z</updated>
+    <id>tag:github.com,2023-01-19:/horizontalsystems/unstoppable-wallet-android</id>
+    <link href="https://github.com/horizontalsystems/unstoppable-wallet-android" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. Non-custodial crypto and NFT storage, onchain decentralized exchange, institutional grade analytics for cryptcurrency and NFT markets, extensive privacy controls and human oriented design. Implemented on Kotlin.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Unstoppable Wallet&lt;/h1&gt; &#xA;&lt;p&gt;We dream of a world… A world where private property is untouchable and market access is unconditional.&lt;/p&gt; &#xA;&lt;p&gt;That obsession led us to engineer a crypto wallet that is equally open to all, lives online forever and unconditionally protects your assets.&lt;/p&gt; &#xA;&lt;p&gt;Unstoppable is a powerful non-custodial multi-wallet for Bitcoin, Ethereum, Binance Smart Chain, Avalanche, Solana and other blockchains. It provides non-custodial crypto and NFT storage, on-chain decentralized swaps, institutional grade analytics for cryptcurrency and NFT markets, extensive privacy controls and human oriented design.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;It is built with care and adheres to best programming practices and implementation standards in cryptocurrency world. Fully implemented on Kotlin.&lt;/li&gt; &#xA; &lt;li&gt;It is fully peer-to-peer and works without any centrally managed servers. It can&#39;t be stopped, blocked or taken down.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Such approach enables the wallet to operate anywhere and remain censorship-resistant. Only the user is in control of the money.&lt;/p&gt; &#xA;&lt;p&gt;More at &lt;a href=&#34;https://unstoppable.money&#34;&gt;https://unstoppable.money&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Download&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://f-droid.org/packages/io.horizontalsystems.bankwallet/&#34;&gt;&lt;img src=&#34;https://fdroid.gitlab.io/artwork/badge/get-it-on.png&#34; alt=&#34;Get it on F-Droid&#34; height=&#34;80&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet&#34;&gt;&lt;img src=&#34;https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png&#34; alt=&#34;Get it on Google Play&#34; height=&#34;80&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Source Code&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/horizontalsystems/unstoppable-wallet-android&#34;&gt;https://github.com/horizontalsystems/unstoppable-wallet-android&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This wallet is open source and available under the terms of the MIT Lincense.&lt;/p&gt;</summary>
+  </entry>
 </feed>

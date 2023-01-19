@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:29:57Z</updated>
+  <updated>2023-01-19T01:30:55Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pixeljam/DinoRunDX</title>
-    <updated>2023-01-18T01:29:57Z</updated>
-    <id>tag:github.com,2023-01-18:/pixeljam/DinoRunDX</id>
-    <link href="https://github.com/pixeljam/DinoRunDX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lnewby/digital-adobe-flash-prototype</title>
+    <updated>2023-01-19T01:30:55Z</updated>
+    <id>tag:github.com,2023-01-19:/lnewby/digital-adobe-flash-prototype</id>
+    <link href="https://github.com/lnewby/digital-adobe-flash-prototype" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SpeedyGram – Digital Prototype (Flash) – This prototype is the design of SpeedyGram, the fastest, free, way to grasp grammar. The objective is to produce a fairly high fidelity informational and interactive coded prototype of a children&#39;s game for labeling the parts of speech in sentences. Ultimately we want to incorporated appropriate programmi…&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

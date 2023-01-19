@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:41:52Z</updated>
+  <updated>2023-01-19T01:41:46Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>i-MSCP/phpmyadmin</title>
-    <updated>2023-01-18T01:41:52Z</updated>
-    <id>tag:github.com,2023-01-18:/i-MSCP/phpmyadmin</id>
-    <link href="https://github.com/i-MSCP/phpmyadmin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;i-MSCP PhpMyAdmin package (addon)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PhpMyAdmin for i-MSCP internet Multi Server Control Panel&lt;/h1&gt; &#xA;&lt;p&gt;This package provide the PhpMyAdmin SQL administration tool for i-MSCP.&lt;/p&gt;</summary>
+    <title>ogom/perl-tari</title>
+    <updated>2023-01-19T01:41:46Z</updated>
+    <id>tag:github.com,2023-01-19:/ogom/perl-tari</id>
+    <link href="https://github.com/ogom/perl-tari" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;archived from the file list of include.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;tari&lt;/h1&gt; &#xA;&lt;p&gt;tari is archived from the file list of include.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ git clone https://github.com/ogom/perl-tari.git&#xA;$ cd perl-tari&#xA;$ chmod +x ./bin/tari.pl&#xA;$ sudo ln ./bin/tari.pl /usr/bin/tari&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;h3&gt;Execute archive&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cat list.txt &#xA;/tmp/001.txt&#xA;/tmp/002.txt&#xA;/tmp/003.txt&#xA;$ tari list.txt&#xA;$ tar tf list.tar &#xA;./tmp/001.txt&#xA;./tmp/002.txt&#xA;./tmp/003.txt&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Change to directory&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ tari list.txt -c /&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Debug output JSON&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ tari list.txt -d&#xA;[&#xA;  {&#xA;    &#34;path&#34;: &#34;/tmp/001.txt&#34;,&#xA;    &#34;type&#34;: &#34;file&#34;,&#xA;    &#34;user&#34;: &#34;ogom&#34;,&#xA;    &#34;group&#34;: &#34;staff&#34;,&#xA;    &#34;mode&#34;: &#34;0644&#34;,&#xA;    &#34;size&#34;: 3,&#xA;    &#34;time&#34;: &#34;2012-12-12 12:12:12&#34;,&#xA;    &#34;md5&#34;: &#34;dc5c7986daef50c1e02ab09b442ee34f&#34;&#xA;  },&#xA;]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Licence&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;MIT&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>infoxchange/A-Fun-Problem</title>
+    <updated>2023-01-19T01:41:46Z</updated>
+    <id>tag:github.com,2023-01-19:/infoxchange/A-Fun-Problem</id>
+    <link href="https://github.com/infoxchange/A-Fun-Problem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Position Application Puzzle&lt;/p&gt;&lt;hr&gt;&lt;p&gt;INSTRUCTIONS:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Clone this repo (don&#39;t fork it!)&lt;/li&gt; &#xA; &lt;li&gt;Figure out what to do and do it, adding more if you like&lt;/li&gt; &#xA; &lt;li&gt;tarball it and send along with your job application&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:41:16Z</updated>
+  <updated>2023-01-19T01:41:12Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ocaml-gospel/gospel</title>
-    <updated>2023-01-18T01:41:16Z</updated>
-    <id>tag:github.com,2023-01-18:/ocaml-gospel/gospel</id>
-    <link href="https://github.com/ocaml-gospel/gospel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool-agnostic formal specification language for OCaml.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mdales/littlejane</title>
+    <updated>2023-01-19T01:41:12Z</updated>
+    <id>tag:github.com,2023-01-19:/mdales/littlejane</id>
+    <link href="https://github.com/mdales/littlejane" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool for running scripts concurrently on sherwood.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

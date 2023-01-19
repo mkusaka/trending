@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:34:39Z</updated>
+  <updated>2023-01-19T01:35:05Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>haritkapadia/ts-movement</title>
+    <updated>2023-01-19T01:35:05Z</updated>
+    <id>tag:github.com,2023-01-19:/haritkapadia/ts-movement</id>
+    <link href="https://github.com/haritkapadia/ts-movement" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emacs 29+ minor mode for syntax tree navigation using Tree Sitter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ts-movement-mode&lt;/h1&gt; &#xA;&lt;p&gt;This Emacs mode lets you traverse the Tree Sitter syntax tree.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/haritkapadia/ts-movement/main/demo.gif&#34; alt=&#34;demo.gif&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This package uses the built-in &lt;code&gt;treesit&lt;/code&gt; package available starting from Emacs 29.&lt;/p&gt; &#xA;&lt;p&gt;This package supports &lt;a href=&#34;https://github.com/magnars/multiple-cursors.el&#34;&gt;multiple-cursors&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;This package is not on any ELPA yet. You must use this repository as a package. You can use the following steps.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Create a directory &lt;code&gt;~/.emacs.d/site-lisp&lt;/code&gt; if it does not already exist.&lt;/li&gt; &#xA; &lt;li&gt;Clone the repository in this directory.&lt;/li&gt; &#xA; &lt;li&gt;Add the following to your configuration file.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lisp&#34;&gt;(use-package ts-movement&#xA;  :load-path &#34;site-lisp/ts-movement&#34;&#xA;  :hook&#xA;  (bash-ts-mode-hook . ts-movement-mode)&#xA;  (c++-ts-mode-hook . ts-movement-mode)&#xA;  (c-ts-mode-hook . ts-movement-mode)&#xA;  (cmake-ts-mode-hook . ts-movement-mode)&#xA;  (csharp-ts-mode-hook . ts-movement-mode)&#xA;  (css-ts-mode-hook . ts-movement-mode)&#xA;  (dockerfile-ts-mode-hook . ts-movement-mode)&#xA;  (go-mod-ts-mode-hook . ts-movement-mode)&#xA;  (go-ts-mode-hook . ts-movement-mode)&#xA;  (java-ts-mode-hook . ts-movement-mode)&#xA;  (js-ts-mode-hook . ts-movement-mode)&#xA;  (json-ts-mode-hook . ts-movement-mode)&#xA;  (python-ts-mode-hook . ts-movement-mode)&#xA;  (ruby-ts-mode-hook . ts-movement-mode)&#xA;  (rust-ts-mode-hook . ts-movement-mode)&#xA;  (toml-ts-mode-hook . ts-movement-mode)&#xA;  (tsx-ts-mode-hook . ts-movement-mode)&#xA;  (typescript-ts-mode-hook . ts-movement-mode)&#xA;  (yaml-ts-mode-hook . ts-movement-mode))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;By default, the package uses the &lt;code&gt;C-c .&lt;/code&gt; binding. If you have &lt;a href=&#34;https://github.com/abo-abo/hydra&#34;&gt;hydra&lt;/a&gt; installed, &lt;code&gt;C-c .&lt;/code&gt; will be bound to &lt;code&gt;tsm/hydra/body&lt;/code&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

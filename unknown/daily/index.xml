@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:29:30Z</updated>
+  <updated>2023-01-19T01:30:36Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>annfelix/DEVOPS-WORLD</title>
-    <updated>2023-01-18T01:29:30Z</updated>
-    <id>tag:github.com,2023-01-18:/annfelix/DEVOPS-WORLD</id>
-    <link href="https://github.com/annfelix/DEVOPS-WORLD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Pawdroid/Free-servers</title>
+    <updated>2023-01-19T01:30:36Z</updated>
+    <id>tag:github.com,2023-01-19:/Pawdroid/Free-servers</id>
+    <link href="https://github.com/Pawdroid/Free-servers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NightmareStresser/DDOS-API</title>
-    <updated>2023-01-18T01:29:30Z</updated>
-    <id>tag:github.com,2023-01-18:/NightmareStresser/DDOS-API</id>
-    <link href="https://github.com/NightmareStresser/DDOS-API" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Working DDOS API For IP Booter / Stresser 2023&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TryGOTry/CobaltStrike_Cat_4.5</title>
-    <updated>2023-01-18T01:29:30Z</updated>
-    <id>tag:github.com,2023-01-18:/TryGOTry/CobaltStrike_Cat_4.5</id>
-    <link href="https://github.com/TryGOTry/CobaltStrike_Cat_4.5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;猫猫Cs:基于Cobalt Strike[4.5]二开 (原dogcs二开移植)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>porqueeuprogramo/pep-it-portugal-companies</title>
+    <updated>2023-01-19T01:30:36Z</updated>
+    <id>tag:github.com,2023-01-19:/porqueeuprogramo/pep-it-portugal-companies</id>
+    <link href="https://github.com/porqueeuprogramo/pep-it-portugal-companies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IT Companies Portugal&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

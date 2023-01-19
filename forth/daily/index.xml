@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Forth Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:35:11Z</updated>
+  <updated>2023-01-19T01:35:31Z</updated>
   <subtitle>Daily Trending of Forth in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ISU-MolPhyl/EEOB563-Spring2023</title>
-    <updated>2023-01-18T01:35:11Z</updated>
-    <id>tag:github.com,2023-01-18:/ISU-MolPhyl/EEOB563-Spring2023</id>
-    <link href="https://github.com/ISU-MolPhyl/EEOB563-Spring2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>urlysses/1991</title>
-    <updated>2023-01-18T01:35:11Z</updated>
-    <id>tag:github.com,2023-01-18:/urlysses/1991</id>
-    <link href="https://github.com/urlysses/1991" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A server-side web framework written in Forth.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

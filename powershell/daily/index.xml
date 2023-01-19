@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:42:31Z</updated>
+  <updated>2023-01-19T01:42:29Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheAlienDrew/OS-Scripts</title>
-    <updated>2023-01-18T01:42:31Z</updated>
-    <id>tag:github.com,2023-01-18:/TheAlienDrew/OS-Scripts</id>
-    <link href="https://github.com/TheAlienDrew/OS-Scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is where I&#39;ll put my custom scripts/functions that might be useful in future projects of mine.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OS Scripts&lt;/h1&gt; &#xA;&lt;p&gt;This is where I&#39;ll put my custom scripts/functions that might be useful in future projects of mine.&lt;/p&gt; &#xA;&lt;p&gt;Scripts/Apps that can be used on each OS:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Windows: .PS1 (Always), .BAT/.CMD (Always), .SH (Sometimes: Usually for WSL&#39;s Bash/POSIX)&lt;/li&gt; &#xA; &lt;li&gt;Linux: .SH (Always: Usually Bash, otherwise POSIX), .PS1 (Sometimes: if powershell-core is installed)&lt;/li&gt; &#xA; &lt;li&gt;Mac: .SCPT (Always: Usually AppleScript 2.0+), .SH (Always: Usually Zsh, otherwise Bash/POSIX), .APP (Sometimes; Usually script files bound together by Automator)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Scripts that are specific to platform lie within their platform folder, while scripts that can be used on more than one system are put in the cross-platform folder.&lt;/p&gt;</summary>
-  </entry>
 </feed>

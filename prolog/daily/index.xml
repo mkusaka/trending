@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:42:40Z</updated>
+  <updated>2023-01-19T01:42:33Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>benjamincburns/fan_controller</title>
+    <updated>2023-01-19T01:42:33Z</updated>
+    <id>tag:github.com,2023-01-19:/benjamincburns/fan_controller</id>
+    <link href="https://github.com/benjamincburns/fan_controller" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Arduino-compatible fan controller for a friend&#39;s media center cabinet&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

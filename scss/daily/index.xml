@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:44:58Z</updated>
+  <updated>2023-01-19T01:44:29Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dricazenck/dricazenck.github.io</title>
-    <updated>2023-01-18T01:44:58Z</updated>
-    <id>tag:github.com,2023-01-18:/dricazenck/dricazenck.github.io</id>
-    <link href="https://github.com/dricazenck/dricazenck.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Draculabo/boom</title>
+    <updated>2023-01-19T01:44:29Z</updated>
+    <id>tag:github.com,2023-01-19:/Draculabo/boom</id>
+    <link href="https://github.com/Draculabo/boom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vue3组件库&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

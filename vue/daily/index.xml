@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:48:04Z</updated>
+  <updated>2023-01-19T01:47:17Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hellodigua/vue-danmaku</title>
-    <updated>2023-01-18T01:48:04Z</updated>
-    <id>tag:github.com,2023-01-18:/hellodigua/vue-danmaku</id>
-    <link href="https://github.com/hellodigua/vue-danmaku" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Vue.js的弹幕交互组件 | A danmaku component for Vue&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fengT-T/996_list</title>
+    <updated>2023-01-19T01:47:17Z</updated>
+    <id>tag:github.com,2023-01-19:/fengT-T/996_list</id>
+    <link href="https://github.com/fengT-T/996_list" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;996 公司展示、讨论&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ETCGrantsDAO/etc-grants-dao-website</title>
-    <updated>2023-01-18T01:48:04Z</updated>
-    <id>tag:github.com,2023-01-18:/ETCGrantsDAO/etc-grants-dao-website</id>
-    <link href="https://github.com/ETCGrantsDAO/etc-grants-dao-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website for the ETC Grants DAO&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nluedtke/linux_kernel_cves</title>
+    <updated>2023-01-19T01:47:17Z</updated>
+    <id>tag:github.com,2023-01-19:/nluedtke/linux_kernel_cves</id>
+    <link href="https://github.com/nluedtke/linux_kernel_cves" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tracking CVEs for the linux Kernel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

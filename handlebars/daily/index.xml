@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:36:17Z</updated>
+  <updated>2023-01-19T01:36:39Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>geneasy/links</title>
+    <updated>2023-01-19T01:36:39Z</updated>
+    <id>tag:github.com,2023-01-19:/geneasy/links</id>
+    <link href="https://github.com/geneasy/links" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;友情链接模板 - 这是一个通用的友情链接模板，任何类型的网站都可以拿去使用。此友情链接页面是使用 GenEasy 文档生成工具 + WebStack 模板创建的静态页面，托管在 GitHub Pages 服务器上面。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

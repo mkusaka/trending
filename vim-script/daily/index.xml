@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-18T01:47:54Z</updated>
+  <updated>2023-01-19T01:47:07Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alan-turing-institute/Python-quality-tools</title>
+    <updated>2023-01-19T01:47:07Z</updated>
+    <id>tag:github.com,2023-01-19:/alan-turing-institute/Python-quality-tools</id>
+    <link href="https://github.com/alan-turing-institute/Python-quality-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demonstrating tools to improve Python code quality and how they integrate into text editors&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpope/vim-cucumber</title>
+    <updated>2023-01-19T01:47:07Z</updated>
+    <id>tag:github.com,2023-01-19:/tpope/vim-cucumber</id>
+    <link href="https://github.com/tpope/vim-cucumber" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim Cucumber runtime files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
