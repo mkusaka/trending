@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:31:24Z</updated>
+  <updated>2023-01-20T01:30:20Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>EdisonBedoya98/dotlabs-medellin-hackathon-landing</title>
-    <updated>2023-01-19T01:31:24Z</updated>
-    <id>tag:github.com,2023-01-19:/EdisonBedoya98/dotlabs-medellin-hackathon-landing</id>
-    <link href="https://github.com/EdisonBedoya98/dotlabs-medellin-hackathon-landing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is for versionate of the landing project necessary for DotLabs hackathon. It is gonna be one of the biggest hackathon so far in Latam. We are using Astro to generate the static site&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

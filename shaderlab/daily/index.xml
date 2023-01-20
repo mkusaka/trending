@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:44:32Z</updated>
+  <updated>2023-01-20T01:43:05Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TaillepierreN/Health-Bar</title>
-    <updated>2023-01-19T01:44:32Z</updated>
-    <id>tag:github.com,2023-01-19:/TaillepierreN/Health-Bar</id>
-    <link href="https://github.com/TaillepierreN/Health-Bar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercice Health bar&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Sorumi/UnityFurShader</title>
+    <updated>2023-01-20T01:43:05Z</updated>
+    <id>tag:github.com,2023-01-20:/Sorumi/UnityFurShader</id>
+    <link href="https://github.com/Sorumi/UnityFurShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐈 Fur shader for Unity.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bzgeb/Unity_URPSobelFilterOutlineFeature</title>
+    <updated>2023-01-20T01:43:05Z</updated>
+    <id>tag:github.com,2023-01-20:/bzgeb/Unity_URPSobelFilterOutlineFeature</id>
+    <link href="https://github.com/bzgeb/Unity_URPSobelFilterOutlineFeature" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A URP Renderer feature for drawing object outlines using a Sobel Filter. Supports Alpha sampling.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:32:55Z</updated>
+  <updated>2023-01-20T01:31:40Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dojoengine/dojo-beta</title>
-    <updated>2023-01-19T01:32:55Z</updated>
-    <id>tag:github.com,2023-01-19:/dojoengine/dojo-beta</id>
-    <link href="https://github.com/dojoengine/dojo-beta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Onchain Game Engine implemented in Cairo 1.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

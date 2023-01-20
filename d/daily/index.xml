@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:33:59Z</updated>
+  <updated>2023-01-20T01:32:39Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>John-Colvin/lockfree</title>
-    <updated>2023-01-19T01:33:59Z</updated>
-    <id>tag:github.com,2023-01-19:/John-Colvin/lockfree</id>
-    <link href="https://github.com/John-Colvin/lockfree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library of lock-free (and possibly wait-free) data structures and algorithms for D.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

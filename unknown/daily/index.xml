@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:30:36Z</updated>
+  <updated>2023-01-20T01:29:34Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Pawdroid/Free-servers</title>
-    <updated>2023-01-19T01:30:36Z</updated>
-    <id>tag:github.com,2023-01-19:/Pawdroid/Free-servers</id>
-    <link href="https://github.com/Pawdroid/Free-servers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clue-ai/ChatYuan</title>
+    <updated>2023-01-20T01:29:34Z</updated>
+    <id>tag:github.com,2023-01-20:/clue-ai/ChatYuan</id>
+    <link href="https://github.com/clue-ai/ChatYuan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatYuan:元语功能型对话大模型（开源版）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>porqueeuprogramo/pep-it-portugal-companies</title>
-    <updated>2023-01-19T01:30:36Z</updated>
-    <id>tag:github.com,2023-01-19:/porqueeuprogramo/pep-it-portugal-companies</id>
-    <link href="https://github.com/porqueeuprogramo/pep-it-portugal-companies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IT Companies Portugal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bsovs/Fall2023-Internships</title>
+    <updated>2023-01-20T01:29:34Z</updated>
+    <id>tag:github.com,2023-01-20:/bsovs/Fall2023-Internships</id>
+    <link href="https://github.com/bsovs/Fall2023-Internships" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of Fall 2023 tech internships!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>christianversloot/machine-learning-articles</title>
+    <updated>2023-01-20T01:29:34Z</updated>
+    <id>tag:github.com,2023-01-20:/christianversloot/machine-learning-articles</id>
+    <link href="https://github.com/christianversloot/machine-learning-articles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

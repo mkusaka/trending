@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:44:08Z</updated>
+  <updated>2023-01-20T01:42:42Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tokuhirom/akaza</title>
-    <updated>2023-01-19T01:44:08Z</updated>
-    <id>tag:github.com,2023-01-19:/tokuhirom/akaza</id>
-    <link href="https://github.com/tokuhirom/akaza" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yet another Japanese IME for IBus/Linux&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>electric-capital/crypto-ecosystems</title>
+    <updated>2023-01-20T01:42:42Z</updated>
+    <id>tag:github.com,2023-01-20:/electric-capital/crypto-ecosystems</id>
+    <link href="https://github.com/electric-capital/crypto-ecosystems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devongovett/glob-match</title>
-    <updated>2023-01-19T01:44:08Z</updated>
-    <id>tag:github.com,2023-01-19:/devongovett/glob-match</id>
-    <link href="https://github.com/devongovett/glob-match" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An extremely fast glob matching library in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tomhrr/cosh</title>
-    <updated>2023-01-19T01:44:08Z</updated>
-    <id>tag:github.com,2023-01-19:/tomhrr/cosh</id>
-    <link href="https://github.com/tomhrr/cosh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Concatenative command-line shell&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>awslabs/aws-lambda-rust-runtime</title>
+    <updated>2023-01-20T01:42:42Z</updated>
+    <id>tag:github.com,2023-01-20:/awslabs/aws-lambda-rust-runtime</id>
+    <link href="https://github.com/awslabs/aws-lambda-rust-runtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Rust runtime for AWS Lambda&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:44:29Z</updated>
+  <updated>2023-01-20T01:43:01Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Draculabo/boom</title>
-    <updated>2023-01-19T01:44:29Z</updated>
-    <id>tag:github.com,2023-01-19:/Draculabo/boom</id>
-    <link href="https://github.com/Draculabo/boom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vue3组件库&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mdbootstrap/knowledge-base</title>
+    <updated>2023-01-20T01:43:01Z</updated>
+    <id>tag:github.com,2023-01-20:/mdbootstrap/knowledge-base</id>
+    <link href="https://github.com/mdbootstrap/knowledge-base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A common repository for all resources, tutorials, and useful materials. Find more free web development learning resources via the link below&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Game Maker Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:35:40Z</updated>
+  <updated>2023-01-20T01:34:27Z</updated>
   <subtitle>Daily Trending of Game Maker Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>marciniuk/undertale</title>
-    <updated>2023-01-19T01:35:40Z</updated>
-    <id>tag:github.com,2023-01-19:/marciniuk/undertale</id>
-    <link href="https://github.com/marciniuk/undertale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Undertale src code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:31:46Z</updated>
+  <updated>2023-01-20T01:30:40Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/containerapps-dapralbums</title>
-    <updated>2023-01-19T01:31:46Z</updated>
-    <id>tag:github.com,2023-01-19:/Azure-Samples/containerapps-dapralbums</id>
-    <link href="https://github.com/Azure-Samples/containerapps-dapralbums" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Container Apps Dapr-enabled sample&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

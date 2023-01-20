@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-19T01:45:13Z</updated>
+  <updated>2023-01-20T01:43:40Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mazedesignhq/maze-gtm-template</title>
-    <updated>2023-01-19T01:45:13Z</updated>
-    <id>tag:github.com,2023-01-19:/mazedesignhq/maze-gtm-template</id>
-    <link href="https://github.com/mazedesignhq/maze-gtm-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;maze GTM template&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>companyinfo/helm-charts</title>
+    <updated>2023-01-20T01:43:40Z</updated>
+    <id>tag:github.com,2023-01-20:/companyinfo/helm-charts</id>
+    <link href="https://github.com/companyinfo/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Company.info Helm charts repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Razikus/its-friday-k8s-admission-controller</title>
-    <updated>2023-01-19T01:45:13Z</updated>
-    <id>tag:github.com,2023-01-19:/Razikus/its-friday-k8s-admission-controller</id>
-    <link href="https://github.com/Razikus/its-friday-k8s-admission-controller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stop deployments in friday. DEFINITELY&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/skywalking-kubernetes</title>
+    <updated>2023-01-20T01:43:40Z</updated>
+    <id>tag:github.com,2023-01-20:/apache/skywalking-kubernetes</id>
+    <link href="https://github.com/apache/skywalking-kubernetes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache SkyWalking Kubernetes Deployment Helm Chart&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
