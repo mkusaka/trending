@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:40:28Z</updated>
+  <updated>2023-01-21T01:41:35Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sparkm4n/PhP-Validator</title>
+    <updated>2023-01-21T01:41:35Z</updated>
+    <id>tag:github.com,2023-01-21:/Sparkm4n/PhP-Validator</id>
+    <link href="https://github.com/Sparkm4n/PhP-Validator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a intelligent and handy php validator as a single function&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

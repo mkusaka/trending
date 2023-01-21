@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:29:34Z</updated>
+  <updated>2023-01-21T01:30:37Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clue-ai/ChatYuan</title>
-    <updated>2023-01-20T01:29:34Z</updated>
-    <id>tag:github.com,2023-01-20:/clue-ai/ChatYuan</id>
-    <link href="https://github.com/clue-ai/ChatYuan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatYuan:元语功能型对话大模型（开源版）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>badtuxx/CertifiedContainersExpert</title>
+    <updated>2023-01-21T01:30:37Z</updated>
+    <id>tag:github.com,2023-01-21:/badtuxx/CertifiedContainersExpert</id>
+    <link href="https://github.com/badtuxx/CertifiedContainersExpert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bsovs/Fall2023-Internships</title>
-    <updated>2023-01-20T01:29:34Z</updated>
-    <id>tag:github.com,2023-01-20:/bsovs/Fall2023-Internships</id>
-    <link href="https://github.com/bsovs/Fall2023-Internships" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of Fall 2023 tech internships!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AssemblyAI-Examples/ML-Study-Guide</title>
+    <updated>2023-01-21T01:30:37Z</updated>
+    <id>tag:github.com,2023-01-21:/AssemblyAI-Examples/ML-Study-Guide</id>
+    <link href="https://github.com/AssemblyAI-Examples/ML-Study-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal Machine Learning Study Plan&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>christianversloot/machine-learning-articles</title>
-    <updated>2023-01-20T01:29:34Z</updated>
-    <id>tag:github.com,2023-01-20:/christianversloot/machine-learning-articles</id>
-    <link href="https://github.com/christianversloot/machine-learning-articles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧠💬 Articles I wrote about machine learning, archived from MachineCurve.com.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yutaka-Sawada/MultiPar</title>
+    <updated>2023-01-21T01:30:37Z</updated>
+    <id>tag:github.com,2023-01-21:/Yutaka-Sawada/MultiPar</id>
+    <link href="https://github.com/Yutaka-Sawada/MultiPar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parchive tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

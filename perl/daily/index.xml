@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:40:14Z</updated>
+  <updated>2023-01-21T01:41:42Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>king2k/FFmpeg-for-iOS</title>
-    <updated>2023-01-20T01:40:14Z</updated>
-    <id>tag:github.com,2023-01-20:/king2k/FFmpeg-for-iOS</id>
-    <link href="https://github.com/king2k/FFmpeg-for-iOS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;build script for FFmpeg,support simulator\armv7\armv7s\arm64&lt;/p&gt;&lt;hr&gt;&lt;p&gt;you can modify the script to enable the encoder \decoder\muxer\demuxer as you need&lt;/p&gt; &#xA;&lt;p&gt;now use ffmpeg 2.1.4&lt;/p&gt; &#xA;&lt;p&gt;support ios7 arm64&lt;/p&gt; &#xA;&lt;p&gt;oops,you should download gas-preprocessor from &lt;a href=&#34;https://github.com/mansr/gas-preprocessor&#34;&gt;https://github.com/mansr/gas-preprocessor&lt;/a&gt;, and copy it to your /usr/sbin&lt;/p&gt;</summary>
-  </entry>
 </feed>

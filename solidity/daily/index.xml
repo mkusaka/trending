@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:43:46Z</updated>
+  <updated>2023-01-21T01:45:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>delegatecash/delegation-registry</title>
-    <updated>2023-01-20T01:43:46Z</updated>
-    <id>tag:github.com,2023-01-20:/delegatecash/delegation-registry</id>
-    <link href="https://github.com/delegatecash/delegation-registry" rel="alternate"></link>
+    <title>PatrickAlphaC/hardhat-defi-fcc</title>
+    <updated>2023-01-21T01:45:08Z</updated>
+    <id>tag:github.com,2023-01-21:/PatrickAlphaC/hardhat-defi-fcc</id>
+    <link href="https://github.com/PatrickAlphaC/hardhat-defi-fcc" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

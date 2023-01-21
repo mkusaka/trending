@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:43:05Z</updated>
+  <updated>2023-01-21T01:44:32Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Sorumi/UnityFurShader</title>
-    <updated>2023-01-20T01:43:05Z</updated>
-    <id>tag:github.com,2023-01-20:/Sorumi/UnityFurShader</id>
-    <link href="https://github.com/Sorumi/UnityFurShader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐈 Fur shader for Unity.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Apress/building-quality-shaders-unity</title>
+    <updated>2023-01-21T01:44:32Z</updated>
+    <id>tag:github.com,2023-01-21:/Apress/building-quality-shaders-unity</id>
+    <link href="https://github.com/Apress/building-quality-shaders-unity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source Code for &#39;Building Quality Shaders for Unity&#39; by Daniel Ilett&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bzgeb/Unity_URPSobelFilterOutlineFeature</title>
-    <updated>2023-01-20T01:43:05Z</updated>
-    <id>tag:github.com,2023-01-20:/bzgeb/Unity_URPSobelFilterOutlineFeature</id>
-    <link href="https://github.com/bzgeb/Unity_URPSobelFilterOutlineFeature" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A URP Renderer feature for drawing object outlines using a Sobel Filter. Supports Alpha sampling.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BIIG-UC3M/HoloLens2and3DSlicer-PedicleScrewPlacementPlanning</title>
+    <updated>2023-01-21T01:44:32Z</updated>
+    <id>tag:github.com,2023-01-21:/BIIG-UC3M/HoloLens2and3DSlicer-PedicleScrewPlacementPlanning</id>
+    <link href="https://github.com/BIIG-UC3M/HoloLens2and3DSlicer-PedicleScrewPlacementPlanning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitHub repository for the IJCARS paper: &#34;Real-Time open-source integration between Microsoft HoloLens 2 and 3D Slicer&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

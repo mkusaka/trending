@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:45:21Z</updated>
+  <updated>2023-01-21T01:46:49Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>weirongxu/plantuml-previewer.vim</title>
-    <updated>2023-01-20T01:45:21Z</updated>
-    <id>tag:github.com,2023-01-20:/weirongxu/plantuml-previewer.vim</id>
-    <link href="https://github.com/weirongxu/plantuml-previewer.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim / Neovim plugin for preview PlantUML&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Exafunction/codeium.vim</title>
+    <updated>2023-01-21T01:46:49Z</updated>
+    <id>tag:github.com,2023-01-21:/Exafunction/codeium.vim</id>
+    <link href="https://github.com/Exafunction/codeium.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free, ultrafast Copilot alternative for Vim and Neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

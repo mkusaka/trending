@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:45:30Z</updated>
+  <updated>2023-01-21T01:46:58Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>isekaidev/stable.art</title>
-    <updated>2023-01-20T01:45:30Z</updated>
-    <id>tag:github.com,2023-01-20:/isekaidev/stable.art</id>
-    <link href="https://github.com/isekaidev/stable.art" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zhudotexe/zhu.codes</title>
+    <updated>2023-01-21T01:46:58Z</updated>
+    <id>tag:github.com,2023-01-21:/zhudotexe/zhu.codes</id>
+    <link href="https://github.com/zhudotexe/zhu.codes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;personal site frontend v2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CorentinTh/it-tools</title>
-    <updated>2023-01-20T01:45:30Z</updated>
-    <id>tag:github.com,2023-01-20:/CorentinTh/it-tools</id>
-    <link href="https://github.com/CorentinTh/it-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of handy online tools for developers, with great UX.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TaylonChan/Curzr</title>
+    <updated>2023-01-21T01:46:58Z</updated>
+    <id>tag:github.com,2023-01-21:/TaylonChan/Curzr</id>
+    <link href="https://github.com/TaylonChan/Curzr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curzr is a website which provides tools and resources that help you to create a fascinating, interesting, and animated cursor by just a ‘copy and paste’.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tlbootcamp/tlroadmap</title>
-    <updated>2023-01-20T01:45:30Z</updated>
-    <id>tag:github.com,2023-01-20:/tlbootcamp/tlroadmap</id>
-    <link href="https://github.com/tlbootcamp/tlroadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>baiy/Ctool</title>
+    <updated>2023-01-21T01:46:58Z</updated>
+    <id>tag:github.com,2023-01-21:/baiy/Ctool</id>
+    <link href="https://github.com/baiy/Ctool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;程序开发常用工具 chrome / edge / firefox / utools / windows / linux / mac&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:44:07Z</updated>
+  <updated>2023-01-21T01:45:29Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Xidrovo/calculadoraESPOL</title>
-    <updated>2023-01-20T01:44:07Z</updated>
-    <id>tag:github.com,2023-01-20:/Xidrovo/calculadoraESPOL</id>
-    <link href="https://github.com/Xidrovo/calculadoraESPOL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Calculadora de promedios de la espol&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>romaindurand/piquetdestream</title>
-    <updated>2023-01-20T01:44:07Z</updated>
-    <id>tag:github.com,2023-01-20:/romaindurand/piquetdestream</id>
-    <link href="https://github.com/romaindurand/piquetdestream" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Mood-al/svelte-tabs-scrollable</title>
-    <updated>2023-01-20T01:44:07Z</updated>
-    <id>tag:github.com,2023-01-20:/Mood-al/svelte-tabs-scrollable</id>
-    <link href="https://github.com/Mood-al/svelte-tabs-scrollable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a svelte scrollable tabs component with many additional features&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

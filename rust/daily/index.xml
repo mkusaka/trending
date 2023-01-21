@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:42:42Z</updated>
+  <updated>2023-01-21T01:44:08Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>electric-capital/crypto-ecosystems</title>
-    <updated>2023-01-20T01:42:42Z</updated>
-    <id>tag:github.com,2023-01-20:/electric-capital/crypto-ecosystems</id>
-    <link href="https://github.com/electric-capital/crypto-ecosystems" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rust-lang/libc</title>
+    <updated>2023-01-21T01:44:08Z</updated>
+    <id>tag:github.com,2023-01-21:/rust-lang/libc</id>
+    <link href="https://github.com/rust-lang/libc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Raw bindings to platform APIs for Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>awslabs/aws-lambda-rust-runtime</title>
-    <updated>2023-01-20T01:42:42Z</updated>
-    <id>tag:github.com,2023-01-20:/awslabs/aws-lambda-rust-runtime</id>
-    <link href="https://github.com/awslabs/aws-lambda-rust-runtime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Rust runtime for AWS Lambda&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>H-M-H/Weylus</title>
+    <updated>2023-01-21T01:44:08Z</updated>
+    <id>tag:github.com,2023-01-21:/H-M-H/Weylus</id>
+    <link href="https://github.com/H-M-H/Weylus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use your tablet as graphic tablet/touch screen on your computer.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:31:50Z</updated>
+  <updated>2023-01-21T01:32:42Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheAwesomeProgrammer/Christmas-game</title>
-    <updated>2023-01-20T01:31:50Z</updated>
-    <id>tag:github.com,2023-01-20:/TheAwesomeProgrammer/Christmas-game</id>
-    <link href="https://github.com/TheAwesomeProgrammer/Christmas-game" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The game I have made in christmas as a little project!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

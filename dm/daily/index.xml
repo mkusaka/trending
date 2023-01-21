@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-20T01:33:05Z</updated>
+  <updated>2023-01-21T01:33:59Z</updated>
   <subtitle>Daily Trending of DM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Void-Crew/Voidcrew-LRP</title>
-    <updated>2023-01-20T01:33:05Z</updated>
-    <id>tag:github.com,2023-01-20:/Void-Crew/Voidcrew-LRP</id>
-    <link href="https://github.com/Void-Crew/Voidcrew-LRP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An LRP fork of Shiptest&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
