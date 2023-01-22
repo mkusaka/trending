@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["gh-pages", "npm:4.0.0"]
+            ["gh-pages", "npm:5.0.0"]
           ],
           "linkType": "SOFT",
         }]
@@ -62,11 +62,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["async", [
-        ["npm:2.6.4", {
-          "packageLocation": "./.yarn/cache/async-npm-2.6.4-3155e80151-7a39971067.zip/node_modules/async/",
+        ["npm:3.2.4", {
+          "packageLocation": "./.yarn/cache/async-npm-3.2.4-aba13508f9-0b6cc55052.zip/node_modules/async/",
           "packageDependencies": [
-            ["async", "npm:2.6.4"],
-            ["lodash", "npm:4.17.21"]
+            ["async", "npm:3.2.4"]
           ],
           "linkType": "HARD",
         }]
@@ -119,10 +118,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["email-addresses", [
-        ["npm:3.1.0", {
-          "packageLocation": "./.yarn/cache/email-addresses-npm-3.1.0-332eec577b-657c0cd22f.zip/node_modules/email-addresses/",
+        ["npm:5.0.0", {
+          "packageLocation": "./.yarn/cache/email-addresses-npm-5.0.0-218d2e9289-085228db22.zip/node_modules/email-addresses/",
           "packageDependencies": [
-            ["email-addresses", "npm:3.1.0"]
+            ["email-addresses", "npm:5.0.0"]
           ],
           "linkType": "HARD",
         }]
@@ -202,13 +201,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["gh-pages", [
-        ["npm:4.0.0", {
-          "packageLocation": "./.yarn/cache/gh-pages-npm-4.0.0-1490bfc5d9-d935a9338c.zip/node_modules/gh-pages/",
+        ["npm:5.0.0", {
+          "packageLocation": "./.yarn/cache/gh-pages-npm-5.0.0-85e52a94f0-4789d61a3f.zip/node_modules/gh-pages/",
           "packageDependencies": [
-            ["gh-pages", "npm:4.0.0"],
-            ["async", "npm:2.6.4"],
+            ["gh-pages", "npm:5.0.0"],
+            ["async", "npm:3.2.4"],
             ["commander", "npm:2.20.3"],
-            ["email-addresses", "npm:3.1.0"],
+            ["email-addresses", "npm:5.0.0"],
             ["filenamify", "npm:4.3.0"],
             ["find-cache-dir", "npm:3.3.2"],
             ["fs-extra", "npm:8.1.0"],
@@ -291,15 +290,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["locate-path", "npm:5.0.0"],
             ["p-locate", "npm:4.1.0"]
-          ],
-          "linkType": "HARD",
-        }]
-      ]],
-      ["lodash", [
-        ["npm:4.17.21", {
-          "packageLocation": "./.yarn/cache/lodash-npm-4.17.21-6382451519-4983720b9a.zip/node_modules/lodash/",
-          "packageDependencies": [
-            ["lodash", "npm:4.17.21"]
           ],
           "linkType": "HARD",
         }]
@@ -452,7 +442,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["trending", "workspace:."],
-            ["gh-pages", "npm:4.0.0"]
+            ["gh-pages", "npm:5.0.0"]
           ],
           "linkType": "SOFT",
         }]

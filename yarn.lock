@@ -21,12 +21,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"async@npm:^2.6.1":
-  version: 2.6.4
-  resolution: "async@npm:2.6.4"
-  dependencies:
-    lodash: ^4.17.14
-  checksum: 7a39971067d7efe0de56f84f24046c19269053fc4e0a410d338a5232c7fff685ca633667585b205f86c0efde575e036a8de12189e4855c1e2bb2a9faab25b066
+"async@npm:^3.2.4":
+  version: 3.2.4
+  resolution: "async@npm:3.2.4"
+  checksum: 0b6cc550522408998c6b5d998aff60048c43faa139f403232435c984d65a1c7cf135be45692820c90f8c2aec662b768ab8897c71983726302033a3e9e57eb023
   languageName: node
   linkType: hard
 
@@ -68,10 +66,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"email-addresses@npm:^3.0.1":
-  version: 3.1.0
-  resolution: "email-addresses@npm:3.1.0"
-  checksum: 657c0cd22f37c459769cca3ea76f4e8048b1d2af774d7ebdcb7039f88b407a22f8db23293a56144239a2fb1fd97ee2b22ef3191afce8b9ce8ae76e23121f4be7
+"email-addresses@npm:^5.0.0":
+  version: 5.0.0
+  resolution: "email-addresses@npm:5.0.0"
+  checksum: 085228db2292a6e0ccff5eaa6404fa9490c43694c63b6fcac1635b8d4580e131847cb10d369396c94a6e53b61074d6e75090ec3a57c28ee5cd7ec1049a841905
   languageName: node
   linkType: hard
 
@@ -139,13 +137,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gh-pages@npm:4.0.0":
-  version: 4.0.0
-  resolution: "gh-pages@npm:4.0.0"
+"gh-pages@npm:5.0.0":
+  version: 5.0.0
+  resolution: "gh-pages@npm:5.0.0"
   dependencies:
-    async: ^2.6.1
+    async: ^3.2.4
     commander: ^2.18.0
-    email-addresses: ^3.0.1
+    email-addresses: ^5.0.0
     filenamify: ^4.3.0
     find-cache-dir: ^3.3.1
     fs-extra: ^8.1.0
@@ -153,7 +151,7 @@ __metadata:
   bin:
     gh-pages: bin/gh-pages.js
     gh-pages-clean: bin/gh-pages-clean.js
-  checksum: d935a9338c91d867a5e5cef211880366a3515af6a9df3389c6134769b480d26c06d2ea0a9d44088df11d30fdcdb47ca27393c5513ced7358a3e3565855177fb1
+  checksum: 4789d61a3f0720c2a64f65e1b64d70299a575d1b2d7c75ee77424a53768c6bb03322e6832abf261b3330dff0e7af11339616b4ee0b35dbe9155c419f07a7e891
   languageName: node
   linkType: hard
 
@@ -226,13 +224,6 @@ __metadata:
   dependencies:
     p-locate: ^4.1.0
   checksum: c58f49d45c8672d0a290dea0ce41fcb27205b3f2d61452ba335ef3b42ad36c10c31b1f061b46d96dd4b81e9a00e8a2897bc124d75623b80a9f6d36b1e754a6b5
-  languageName: node
-  linkType: hard
-
-"lodash@npm:^4.17.14":
-  version: 4.17.21
-  resolution: "lodash@npm:4.17.21"
-  checksum: 4983720b9abca930a4a46f18db163d7dad8dd00dbed6db0cc7b499b33b717cce69f80928b27bbb1ff2cbd3b19d251ee90669a8b5ea466072ca81c2ebe91e7468
   languageName: node
   linkType: hard
 
@@ -363,7 +354,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "trending@workspace:."
   dependencies:
-    gh-pages: 4.0.0
+    gh-pages: 5.0.0
   languageName: unknown
   linkType: soft
 
