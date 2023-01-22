@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-21T01:30:37Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-01-22T01:29:28Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>badtuxx/CertifiedContainersExpert</title>
-    <updated>2023-01-21T01:30:37Z</updated>
-    <id>tag:github.com,2023-01-21:/badtuxx/CertifiedContainersExpert</id>
-    <link href="https://github.com/badtuxx/CertifiedContainersExpert" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>google-research/tuning_playbook</title>
+    <updated>2023-01-22T01:29:28Z</updated>
+    <id>tag:github.com,2023-01-22:/google-research/tuning_playbook</id>
+    <link href="https://github.com/google-research/tuning_playbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A playbook for systematically maximizing the performance of deep learning models.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AssemblyAI-Examples/ML-Study-Guide</title>
-    <updated>2023-01-21T01:30:37Z</updated>
-    <id>tag:github.com,2023-01-21:/AssemblyAI-Examples/ML-Study-Guide</id>
-    <link href="https://github.com/AssemblyAI-Examples/ML-Study-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal Machine Learning Study Plan&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Blackymas/NSPanel_HA_Blueprint</title>
+    <updated>2023-01-22T01:29:28Z</updated>
+    <id>tag:github.com,2023-01-22:/Blackymas/NSPanel_HA_Blueprint</id>
+    <link href="https://github.com/Blackymas/NSPanel_HA_Blueprint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Yutaka-Sawada/MultiPar</title>
-    <updated>2023-01-21T01:30:37Z</updated>
-    <id>tag:github.com,2023-01-21:/Yutaka-Sawada/MultiPar</id>
-    <link href="https://github.com/Yutaka-Sawada/MultiPar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parchive tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Bert-JanP/Hunting-Queries-Detection-Rules</title>
+    <updated>2023-01-22T01:29:28Z</updated>
+    <id>tag:github.com,2023-01-22:/Bert-JanP/Hunting-Queries-Detection-Rules</id>
+    <link href="https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules &amp; Hunting Rules.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

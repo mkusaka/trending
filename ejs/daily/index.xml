@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-21T01:34:43Z</updated>
+  <updated>2023-01-22T01:33:38Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Comision18/kitchening</title>
-    <updated>2023-01-21T01:34:43Z</updated>
-    <id>tag:github.com,2023-01-21:/Comision18/kitchening</id>
-    <link href="https://github.com/Comision18/kitchening" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ByConity/byconity.github.io</title>
+    <updated>2023-01-22T01:33:38Z</updated>
+    <id>tag:github.com,2023-01-22:/ByConity/byconity.github.io</id>
+    <link href="https://github.com/ByConity/byconity.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ByConity is a distributed cloud-native SQL data warehouse engine, that excels in interactive queries and Ad-Hoc queries, featu ring support for querying multiple tables, cluster expansion without sensation, and unified aggregation of offline batch data and real-time data streams.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

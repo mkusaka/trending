@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-21T01:40:36Z</updated>
+  <updated>2023-01-22T01:40:19Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alamgu/alamgu-example</title>
+    <updated>2023-01-22T01:40:19Z</updated>
+    <id>tag:github.com,2023-01-22:/alamgu/alamgu-example</id>
+    <link href="https://github.com/alamgu/alamgu-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RVU-BTECH-CSE-2022/c-activity-sets-nikitas1410</title>
+    <updated>2023-01-22T01:40:19Z</updated>
+    <id>tag:github.com,2023-01-22:/RVU-BTECH-CSE-2022/c-activity-sets-nikitas1410</id>
+    <link href="https://github.com/RVU-BTECH-CSE-2022/c-activity-sets-nikitas1410" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;c-activity-sets-nikitas1410 created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

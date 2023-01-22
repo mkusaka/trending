@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T02:04:42Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>derekwyatt/vim-scala</title>
+    <updated>2023-01-22T02:04:42Z</updated>
+    <id>tag:github.com,2023-01-22:/derekwyatt/vim-scala</id>
+    <link href="https://github.com/derekwyatt/vim-scala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My work on integration of Scala into Vim - not a ton here, but useful for me.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vim-scripts/indentpython.vim</title>
+    <updated>2023-01-22T02:04:42Z</updated>
+    <id>tag:github.com,2023-01-22:/vim-scripts/indentpython.vim</id>
+    <link href="https://github.com/vim-scripts/indentpython.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An alternative indentation script for python&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rbong/vim-flog</title>
+    <updated>2023-01-22T02:04:42Z</updated>
+    <id>tag:github.com,2023-01-22:/rbong/vim-flog</id>
+    <link href="https://github.com/rbong/vim-flog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight and powerful git branch viewer for vim.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

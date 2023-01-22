@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T01:57:28Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Alfresco/alfresco-process-application-deployment</title>
+    <updated>2023-01-22T01:57:28Z</updated>
+    <id>tag:github.com,2023-01-22:/Alfresco/alfresco-process-application-deployment</id>
+    <link href="https://github.com/Alfresco/alfresco-process-application-deployment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart to deploy a single AAE application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ad-si/awesome-music-production</title>
+    <updated>2023-01-22T01:57:28Z</updated>
+    <id>tag:github.com,2023-01-22:/ad-si/awesome-music-production</id>
+    <link href="https://github.com/ad-si/awesome-music-production" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of software, services and resources to create and distribute music.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>temporalio/api</title>
+    <updated>2023-01-22T01:57:28Z</updated>
+    <id>tag:github.com,2023-01-22:/temporalio/api</id>
+    <link href="https://github.com/temporalio/api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Temporal gRPC API and proto files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T01:50:22Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>circleci/compojure-appengine-sample</title>
+    <updated>2023-01-22T01:50:22Z</updated>
+    <id>tag:github.com,2023-01-22:/circleci/compojure-appengine-sample</id>
+    <link href="https://github.com/circleci/compojure-appengine-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample Compojure app with deployment to Google App Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>circleci/rollcage</title>
+    <updated>2023-01-22T01:50:22Z</updated>
+    <id>tag:github.com,2023-01-22:/circleci/rollcage</id>
+    <link href="https://github.com/circleci/rollcage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure client for Rollbar&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>circleci/mongofinil</title>
+    <updated>2023-01-22T01:50:22Z</updated>
+    <id>tag:github.com,2023-01-22:/circleci/mongofinil</id>
+    <link href="https://github.com/circleci/mongofinil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Mongoid-like model library for Clojure and MongoDB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

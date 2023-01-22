@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ActionScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T01:48:14Z</updated>
+  <subtitle>Weekly Trending of ActionScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kukulski/WacomFeelANE</title>
+    <updated>2023-01-22T01:48:14Z</updated>
+    <id>tag:github.com,2023-01-22:/kukulski/WacomFeelANE</id>
+    <link href="https://github.com/kukulski/WacomFeelANE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AIR native extension to support Cintiq Touch on OSX&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eiszfuchs/mini.arrowmania</title>
+    <updated>2023-01-22T01:48:14Z</updated>
+    <id>tag:github.com,2023-01-22:/eiszfuchs/mini.arrowmania</id>
+    <link href="https://github.com/eiszfuchs/mini.arrowmania" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Facelift of an old Flash game (around 2006)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>simonratner/miniswf</title>
+    <updated>2023-01-22T01:48:14Z</updated>
+    <id>tag:github.com,2023-01-22:/simonratner/miniswf</id>
+    <link href="https://github.com/simonratner/miniswf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal swf&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

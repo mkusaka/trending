@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T01:49:06Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rezaharisfardana/rdp-free</title>
+    <updated>2023-01-22T01:49:06Z</updated>
+    <id>tag:github.com,2023-01-22:/rezaharisfardana/rdp-free</id>
+    <link href="https://github.com/rezaharisfardana/rdp-free" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Hassamahned/6-hour-rdp</title>
+    <updated>2023-01-22T01:49:06Z</updated>
+    <id>tag:github.com,2023-01-22:/Hassamahned/6-hour-rdp</id>
+    <link href="https://github.com/Hassamahned/6-hour-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Usercodersystem/Ngrokrdp</title>
+    <updated>2023-01-22T01:49:06Z</updated>
+    <id>tag:github.com,2023-01-22:/Usercodersystem/Ngrokrdp</id>
+    <link href="https://github.com/Usercodersystem/Ngrokrdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-21T01:33:04Z</updated>
+  <updated>2023-01-22T01:32:03Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>archimag/archimag.lisper.ru</title>
-    <updated>2023-01-21T01:33:04Z</updated>
-    <id>tag:github.com,2023-01-21:/archimag/archimag.lisper.ru</id>
-    <link href="https://github.com/archimag/archimag.lisper.ru" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;archimag.lisper.ru&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>maglob/verse</title>
+    <updated>2023-01-22T01:32:03Z</updated>
+    <id>tag:github.com,2023-01-22:/maglob/verse</id>
+    <link href="https://github.com/maglob/verse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple 2D physics engine wrapped in a game (work in progress)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Verse&lt;/h1&gt; &#xA;&lt;p&gt;Simple 2D physics engine wrapped in a game (work in progress). Written in Common Lisp. OpenGL graphics.&lt;/p&gt; &#xA;&lt;p&gt;Set up&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Get SBCL: &lt;a href=&#34;http://sbcl.org&#34;&gt;http://sbcl.org&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Get Quicklisp: &lt;a href=&#34;http://www.quicklisp.org/beta/&#34;&gt;http://www.quicklisp.org/beta/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Get GLFW (libglfw): &lt;a href=&#34;http://www.glfw.org&#34;&gt;http://www.glfw.org&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Run&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./run.sh&#xA;&#xA;or&#xA;&#xA;sbcl --load client.lisp --eval &#34;(verse::game)&#34; --quit&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Keys&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;A - Turn left&#xA;D - Turh right&#xA;Right shift - Thrust&#xA;P - Pause&#xA;F1 - reset&#xA;F2 - toggle fullscreen&#xA;1 and 2 - forward / rewind states while in pause&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

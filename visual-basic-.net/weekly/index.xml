@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Visual Basic .NET Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T02:04:46Z</updated>
+  <subtitle>Weekly Trending of Visual Basic .NET in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>brook-AS-computing/interesting-scripts</title>
+    <updated>2023-01-22T02:04:46Z</updated>
+    <id>tag:github.com,2023-01-22:/brook-AS-computing/interesting-scripts</id>
+    <link href="https://github.com/brook-AS-computing/interesting-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a collection of scripts that people can use and add to their projects for bonus marks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

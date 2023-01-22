@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Hack Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T01:53:54Z</updated>
+  <subtitle>Weekly Trending of Hack in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>matzes-hardware/miniand-mini-xplus</title>
+    <updated>2023-01-22T01:53:54Z</updated>
+    <id>tag:github.com,2023-01-22:/matzes-hardware/miniand-mini-xplus</id>
+    <link href="https://github.com/matzes-hardware/miniand-mini-xplus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My workspace for the creation of a Miniand Mini Xplus (TV-Box H24) system with a focus on video streaming and playback&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

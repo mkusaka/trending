@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T02:02:52Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>filecoin-project/fevm-hardhat-kit</title>
+    <updated>2023-01-22T02:02:52Z</updated>
+    <id>tag:github.com,2023-01-22:/filecoin-project/fevm-hardhat-kit</id>
+    <link href="https://github.com/filecoin-project/fevm-hardhat-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter hardhat project for developing, deploying, and testing Solidity smart contracts on the FEVM (Ethereum Virtual Machine on Filecoin)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>paradigmxyz/zk-eth-rng</title>
+    <updated>2023-01-22T02:02:52Z</updated>
+    <id>tag:github.com,2023-01-22:/paradigmxyz/zk-eth-rng</id>
+    <link href="https://github.com/paradigmxyz/zk-eth-rng" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Secure randomness for Ethereum&#39;s execution layer via SNARKs and RANDAO.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Certora/Tutorials</title>
+    <updated>2023-01-22T02:02:52Z</updated>
+    <id>tag:github.com,2023-01-22:/Certora/Tutorials</id>
+    <link href="https://github.com/Certora/Tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Practical tutorials of Certora Prover&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

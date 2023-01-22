@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-21T01:41:27Z</updated>
+  <updated>2023-01-22T01:41:20Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HemulGM/ChatGPT</title>
+    <updated>2023-01-22T01:41:20Z</updated>
+    <id>tag:github.com,2023-01-22:/HemulGM/ChatGPT</id>
+    <link href="https://github.com/HemulGM/ChatGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi Chat GPT&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ccrause/pid_pas</title>
+    <updated>2023-01-22T01:41:20Z</updated>
+    <id>tag:github.com,2023-01-22:/ccrause/pid_pas</id>
+    <link href="https://github.com/ccrause/pid_pas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PID controller model written in Pascal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

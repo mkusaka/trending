@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-21T01:44:08Z</updated>
+  <updated>2023-01-22T01:44:05Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rust-lang/libc</title>
-    <updated>2023-01-21T01:44:08Z</updated>
-    <id>tag:github.com,2023-01-21:/rust-lang/libc</id>
-    <link href="https://github.com/rust-lang/libc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Raw bindings to platform APIs for Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>H-M-H/Weylus</title>
-    <updated>2023-01-21T01:44:08Z</updated>
-    <id>tag:github.com,2023-01-21:/H-M-H/Weylus</id>
-    <link href="https://github.com/H-M-H/Weylus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use your tablet as graphic tablet/touch screen on your computer.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

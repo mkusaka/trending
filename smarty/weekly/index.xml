@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-22T02:02:46Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rancher/prometheus-federator</title>
+    <updated>2023-01-22T02:02:46Z</updated>
+    <id>tag:github.com,2023-01-22:/rancher/prometheus-federator</id>
+    <link href="https://github.com/rancher/prometheus-federator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>it-at-m/ad2image-helm-chart</title>
+    <updated>2023-01-22T02:02:46Z</updated>
+    <id>tag:github.com,2023-01-22:/it-at-m/ad2image-helm-chart</id>
+    <link href="https://github.com/it-at-m/ad2image-helm-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart for ad2image&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
