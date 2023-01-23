@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:44:30Z</updated>
+  <updated>2023-01-23T01:46:23Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vngupro/Unity_CI</title>
+    <updated>2023-01-23T01:46:23Z</updated>
+    <id>tag:github.com,2023-01-23:/vngupro/Unity_CI</id>
+    <link href="https://github.com/vngupro/Unity_CI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DapperDino/Netcode-for-GameObjects-Template</title>
+    <updated>2023-01-23T01:46:23Z</updated>
+    <id>tag:github.com,2023-01-23:/DapperDino/Netcode-for-GameObjects-Template</id>
+    <link href="https://github.com/DapperDino/Netcode-for-GameObjects-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project to use as a base when creating tutorials using Unity&#39;s Netcode for GameObjects framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

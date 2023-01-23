@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:31:54Z</updated>
+  <updated>2023-01-23T01:34:31Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Laefy/CPP_Exercises</title>
-    <updated>2023-01-22T01:31:54Z</updated>
-    <id>tag:github.com,2023-01-22:/Laefy/CPP_Exercises</id>
-    <link href="https://github.com/Laefy/CPP_Exercises" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++ exercises repository for Computer Sciences students of Gustave Eiffel University.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>frcteam195/led_control_2023_node</title>
+    <updated>2023-01-23T01:34:31Z</updated>
+    <id>tag:github.com,2023-01-23:/frcteam195/led_control_2023_node</id>
+    <link href="https://github.com/frcteam195/led_control_2023_node" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>frcteam195/logger_node</title>
-    <updated>2023-01-22T01:31:54Z</updated>
-    <id>tag:github.com,2023-01-22:/frcteam195/logger_node</id>
-    <link href="https://github.com/frcteam195/logger_node" rel="alternate"></link>
+    <title>frcteam195/health_monitor_2023_node</title>
+    <updated>2023-01-23T01:34:31Z</updated>
+    <id>tag:github.com,2023-01-23:/frcteam195/health_monitor_2023_node</id>
+    <link href="https://github.com/frcteam195/health_monitor_2023_node" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:46:50Z</updated>
+  <updated>2023-01-23T01:48:39Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lifepillar/pgsql.vim</title>
+    <updated>2023-01-23T01:48:39Z</updated>
+    <id>tag:github.com,2023-01-23:/lifepillar/pgsql.vim</id>
+    <link href="https://github.com/lifepillar/pgsql.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The best PostgreSQL plugin for Vim!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shougo/unite.vim</title>
+    <updated>2023-01-23T01:48:39Z</updated>
+    <id>tag:github.com,2023-01-23:/Shougo/unite.vim</id>
+    <link href="https://github.com/Shougo/unite.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🐉 Unite and create user interfaces&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

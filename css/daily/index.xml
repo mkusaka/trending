@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:32:17Z</updated>
+  <updated>2023-01-23T01:34:55Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bcgov/pipeline-templates</title>
-    <updated>2023-01-22T01:32:17Z</updated>
-    <id>tag:github.com,2023-01-22:/bcgov/pipeline-templates</id>
-    <link href="https://github.com/bcgov/pipeline-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A catalog of templates for installing and managing different CI/CD technologies.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BCGov Pipeline Templates&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/bcgov/pipeline-templates/actions/workflows/pre-commit-check.yaml&#34;&gt;&lt;img src=&#34;https://github.com/bcgov/pipeline-templates/actions/workflows/pre-commit-check.yaml/badge.svg?sanitize=true&#34; alt=&#34;pre-commit&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/bcgov/pipeline-templates/actions/workflows/testing.yaml&#34;&gt;&lt;img src=&#34;https://github.com/bcgov/pipeline-templates/actions/workflows/testing.yaml/badge.svg?branch=main&#34; alt=&#34;testing&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://sonarcloud.io/dashboard?id=bcgov-pipeline-templates&#34;&gt;&lt;img src=&#34;https://sonarcloud.io/api/project_badges/measure?project=bcgov-pipeline-templates&amp;amp;metric=alert_status&#34; alt=&#34;Sonarcloud Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://sonarcloud.io/dashboard?id=bcgov-pipeline-templates&#34;&gt;&lt;img src=&#34;https://sonarcloud.io/api/project_badges/measure?project=bcgov-pipeline-templates&amp;amp;metric=security_rating&#34; alt=&#34;Sonarcloud Status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://raw.githubusercontent.com/bcgov/pipeline-templates/main/Redirect-URL&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Lifecycle-Experimental-339999&#34; alt=&#34;Lifecycle:Experimental&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This repo contains a catalog of pipeline templates to kickstart development among teams.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/bcgov/pipeline-templates/tree/main/tekton&#34;&gt;Tekton Templates&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/bcgov/pipeline-templates/main/docs/github.md&#34;&gt;GitHub Templates&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/bcgov/security-pipeline-templates/raw/zap-scan/README.md&#34;&gt;ZAP Scanning Report&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>alanopaixao/word_cup_cards</title>
-    <updated>2023-01-22T01:32:17Z</updated>
-    <id>tag:github.com,2023-01-22:/alanopaixao/word_cup_cards</id>
-    <link href="https://github.com/alanopaixao/word_cup_cards" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Word cup cards&lt;/h1&gt; &#xA;&lt;p&gt;Projeto para os alunos da Turma FS-11 realizar testes de código e Git.&lt;/p&gt; &#xA;&lt;p&gt;&lt;span&gt;🌟&lt;/span&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Ihtram-Magno/ihtram-magno.github.io</title>
-    <updated>2023-01-22T01:32:17Z</updated>
-    <id>tag:github.com,2023-01-22:/Ihtram-Magno/ihtram-magno.github.io</id>
-    <link href="https://github.com/Ihtram-Magno/ihtram-magno.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Encriptador de texto parte del Challenge Alura ONE Oracle Next Education&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ihtram-magno.github.io&lt;/h1&gt; &#xA;&lt;p&gt;Encriptador de texto parte del Challenge Alura ONE Oracle Next Education/ challengeonecodificador4 &lt;img src=&#34;https://raw.githubusercontent.com/Ihtram-Magno/ihtram-magno.github.io/main/imagen-general-v2.png&#34; alt=&#34;imagen-general-v2&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

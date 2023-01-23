@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ZenScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:47:45Z</updated>
+  <updated>2023-01-23T01:49:32Z</updated>
   <subtitle>Daily Trending of ZenScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Minecraft-Eternal/MC-Eternal-1.12</title>
+    <updated>2023-01-23T01:49:32Z</updated>
+    <id>tag:github.com,2023-01-23:/Minecraft-Eternal/MC-Eternal-1.12</id>
+    <link href="https://github.com/Minecraft-Eternal/MC-Eternal-1.12" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tons of thrilling™ Adventures, Magic, Science, Quests, Combat, Bosses, Automation, Exploration, and Rats who shoot cheese from cannons??&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

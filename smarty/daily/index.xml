@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:45:03Z</updated>
+  <updated>2023-01-23T01:46:51Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>camptocamp/helm-georchestra</title>
-    <updated>2023-01-22T01:45:03Z</updated>
-    <id>tag:github.com,2023-01-22:/camptocamp/helm-georchestra</id>
-    <link href="https://github.com/camptocamp/helm-georchestra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;geOrchestra helm chart&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devrev/k8s-info-collector-charts</title>
+    <updated>2023-01-23T01:46:51Z</updated>
+    <id>tag:github.com,2023-01-23:/devrev/k8s-info-collector-charts</id>
+    <link href="https://github.com/devrev/k8s-info-collector-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart for enabling cron pod on the kubernetes cluster to upload cluster data to DevRev cloud.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kubescape/helm-charts</title>
-    <updated>2023-01-22T01:45:03Z</updated>
-    <id>tag:github.com,2023-01-22:/kubescape/helm-charts</id>
-    <link href="https://github.com/kubescape/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codeQuake/StartPage_v3</title>
+    <updated>2023-01-23T01:46:51Z</updated>
+    <id>tag:github.com,2023-01-23:/codeQuake/StartPage_v3</id>
+    <link href="https://github.com/codeQuake/StartPage_v3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Version 3 der Startseite (komplette Neuentwicklung)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

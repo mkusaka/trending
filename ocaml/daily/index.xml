@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:40:51Z</updated>
+  <updated>2023-01-23T01:42:49Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Armael/pixels</title>
-    <updated>2023-01-22T01:40:51Z</updated>
-    <id>tag:github.com,2023-01-22:/Armael/pixels</id>
-    <link href="https://github.com/Armael/pixels" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a shared pixel display controllable via UDP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocurrent/solver-service</title>
-    <updated>2023-01-22T01:40:51Z</updated>
-    <id>tag:github.com,2023-01-22:/ocurrent/solver-service</id>
-    <link href="https://github.com/ocurrent/solver-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An OCurrent service for solving opam dependencies&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>polytypic/idle-domains</title>
+    <updated>2023-01-23T01:42:49Z</updated>
+    <id>tag:github.com,2023-01-23:/polytypic/idle-domains</id>
+    <link href="https://github.com/polytypic/idle-domains" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Co-operative allocation of domains for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:29:28Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-01-23T01:32:02Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>google-research/tuning_playbook</title>
-    <updated>2023-01-22T01:29:28Z</updated>
-    <id>tag:github.com,2023-01-22:/google-research/tuning_playbook</id>
-    <link href="https://github.com/google-research/tuning_playbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A playbook for systematically maximizing the performance of deep learning models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VzBoT3D/Vz-Printhead-Printed</title>
+    <updated>2023-01-23T01:32:02Z</updated>
+    <id>tag:github.com,2023-01-23:/VzBoT3D/Vz-Printhead-Printed</id>
+    <link href="https://github.com/VzBoT3D/Vz-Printhead-Printed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Printed version of the Vz-Printhead&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Blackymas/NSPanel_HA_Blueprint</title>
-    <updated>2023-01-22T01:29:28Z</updated>
-    <id>tag:github.com,2023-01-22:/Blackymas/NSPanel_HA_Blueprint</id>
-    <link href="https://github.com/Blackymas/NSPanel_HA_Blueprint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>google/season-of-docs</title>
+    <updated>2023-01-23T01:32:02Z</updated>
+    <id>tag:github.com,2023-01-23:/google/season-of-docs</id>
+    <link href="https://github.com/google/season-of-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Supporting materials for Google&#39;s Season of Docs program&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Bert-JanP/Hunting-Queries-Detection-Rules</title>
-    <updated>2023-01-22T01:29:28Z</updated>
-    <id>tag:github.com,2023-01-22:/Bert-JanP/Hunting-Queries-Detection-Rules</id>
-    <link href="https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Defender For Endpoint and Azure Sentinel Hunting and Detection Queries in KQL. Out of the box KQL queries for: Advanced Hunting, Custom Detection, Analytics Rules &amp; Hunting Rules.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WeMakeDevs/events</title>
+    <updated>2023-01-23T01:32:02Z</updated>
+    <id>tag:github.com,2023-01-23:/WeMakeDevs/events</id>
+    <link href="https://github.com/WeMakeDevs/events" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

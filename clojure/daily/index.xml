@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:31:48Z</updated>
+  <updated>2023-01-23T01:34:26Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>circleci/analytics-clj</title>
-    <updated>2023-01-22T01:31:48Z</updated>
-    <id>tag:github.com,2023-01-22:/circleci/analytics-clj</id>
-    <link href="https://github.com/circleci/analytics-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Idiomatic Clojure wrapper for the Segment.io 2.x Java client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adam-james-v/solenoid</title>
+    <updated>2023-01-23T01:34:26Z</updated>
+    <id>tag:github.com,2023-01-23:/adam-james-v/solenoid</id>
+    <link href="https://github.com/adam-james-v/solenoid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small clojure tool for making little control UIs while using the repl!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>circleci/fs</title>
-    <updated>2023-01-22T01:31:48Z</updated>
-    <id>tag:github.com,2023-01-22:/circleci/fs</id>
-    <link href="https://github.com/circleci/fs" rel="alternate"></link>
+    <title>bertrandk/ring-json</title>
+    <updated>2023-01-23T01:34:26Z</updated>
+    <id>tag:github.com,2023-01-23:/bertrandk/ring-json</id>
+    <link href="https://github.com/bertrandk/ring-json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Middleware that augments Ring requests and responses with JSON support.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ryukzak/course-bot</title>
+    <updated>2023-01-23T01:34:26Z</updated>
+    <id>tag:github.com,2023-01-23:/ryukzak/course-bot</id>
+    <link href="https://github.com/ryukzak/course-bot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>circleci/stefon</title>
-    <updated>2023-01-22T01:31:48Z</updated>
-    <id>tag:github.com,2023-01-22:/circleci/stefon</id>
-    <link href="https://github.com/circleci/stefon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An asset pipeline for clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

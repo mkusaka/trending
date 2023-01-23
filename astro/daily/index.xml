@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:30:14Z</updated>
+  <updated>2023-01-23T01:32:54Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rishi-raj-jain/itsmy.fyi</title>
+    <updated>2023-01-23T01:32:54Z</updated>
+    <id>tag:github.com,2023-01-23:/rishi-raj-jain/itsmy.fyi</id>
+    <link href="https://github.com/rishi-raj-jain/itsmy.fyi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Take control of your online presence with itsmy.fyi - the true open-source alternative to Linktree.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>midudev/manitas.dev</title>
+    <updated>2023-01-23T01:32:54Z</updated>
+    <id>tag:github.com,2023-01-23:/midudev/manitas.dev</id>
+    <link href="https://github.com/midudev/manitas.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

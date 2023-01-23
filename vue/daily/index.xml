@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:47:00Z</updated>
+  <updated>2023-01-23T01:48:49Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TUISTERa/Geoguess</title>
-    <updated>2023-01-22T01:47:00Z</updated>
-    <id>tag:github.com,2023-01-22:/TUISTERa/Geoguess</id>
-    <link href="https://github.com/TUISTERa/Geoguess" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>accentor/web</title>
+    <updated>2023-01-23T01:48:49Z</updated>
+    <id>tag:github.com,2023-01-23:/accentor/web</id>
+    <link href="https://github.com/accentor/web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web frontend for the Accentor music server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:38:08Z</updated>
+  <updated>2023-01-23T01:40:31Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>truefedex/tv-bro</title>
+    <updated>2023-01-23T01:40:31Z</updated>
+    <id>tag:github.com,2023-01-23:/truefedex/tv-bro</id>
+    <link href="https://github.com/truefedex/tv-bro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple web browser for android optimized to use with TV remote&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TV Bro&lt;/h1&gt; &#xA;&lt;p&gt;Simple web browser optimized to use with TV remote&lt;/p&gt; &#xA;&lt;p&gt;Features:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;working with TV remote&lt;/li&gt; &#xA; &lt;li&gt;tabs and bookmarks support&lt;/li&gt; &#xA; &lt;li&gt;voice search support&lt;/li&gt; &#xA; &lt;li&gt;switch user agent support&lt;/li&gt; &#xA; &lt;li&gt;use Android builtin web rendering engine (WebKit/Blink based)&lt;/li&gt; &#xA; &lt;li&gt;built-in download manager&lt;/li&gt; &#xA; &lt;li&gt;browsing history&lt;/li&gt; &#xA; &lt;li&gt;shortcuts&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Discussion pages:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://forum.xda-developers.com/android/apps-games/tv-bro-browser-android-based-tvs-t3545295&#34;&gt;https://forum.xda-developers.com/android/apps-games/tv-bro-browser-android-based-tvs-t3545295&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

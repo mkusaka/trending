@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:45:31Z</updated>
+  <updated>2023-01-23T01:47:19Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Gugahnstn/Consultcep</title>
-    <updated>2023-01-22T01:45:31Z</updated>
-    <id>tag:github.com,2023-01-22:/Gugahnstn/Consultcep</id>
-    <link href="https://github.com/Gugahnstn/Consultcep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📦 Projeto com um intuito de aprendizado em relação ao consumo de APIs para busca de informações através dos códigos postais.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

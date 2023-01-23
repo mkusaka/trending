@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:45:08Z</updated>
+  <updated>2023-01-23T01:46:57Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-01-timeswap</title>
-    <updated>2023-01-22T01:45:08Z</updated>
-    <id>tag:github.com,2023-01-22:/code-423n4/2023-01-timeswap</id>
-    <link href="https://github.com/code-423n4/2023-01-timeswap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/pool-v2</title>
-    <updated>2023-01-22T01:45:08Z</updated>
-    <id>tag:github.com,2023-01-22:/maple-labs/pool-v2</id>
-    <link href="https://github.com/maple-labs/pool-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/liquidations</title>
-    <updated>2023-01-22T01:45:08Z</updated>
-    <id>tag:github.com,2023-01-22:/maple-labs/liquidations</id>
-    <link href="https://github.com/maple-labs/liquidations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flash loan liqudation module&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LayerZero-Labs/LayerZero</title>
+    <updated>2023-01-23T01:46:57Z</updated>
+    <id>tag:github.com,2023-01-23:/LayerZero-Labs/LayerZero</id>
+    <link href="https://github.com/LayerZero-Labs/LayerZero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Omnichain Interoperability Protocol&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

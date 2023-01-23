@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-22T01:37:43Z</updated>
+  <updated>2023-01-23T01:40:09Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaComputing/OpenAPI.jl</title>
-    <updated>2023-01-22T01:37:43Z</updated>
-    <id>tag:github.com,2023-01-22:/JuliaComputing/OpenAPI.jl</id>
-    <link href="https://github.com/JuliaComputing/OpenAPI.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenAPI helper and code generator for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kdpsingh/TidyTable.jl</title>
+    <updated>2023-01-23T01:40:09Z</updated>
+    <id>tag:github.com,2023-01-23:/kdpsingh/TidyTable.jl</id>
+    <link href="https://github.com/kdpsingh/TidyTable.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package that wraps the R tidytable package (tidyverse syntax with the speed of data.table)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PainterQubits/Unitful.jl</title>
-    <updated>2023-01-22T01:37:43Z</updated>
-    <id>tag:github.com,2023-01-22:/PainterQubits/Unitful.jl</id>
-    <link href="https://github.com/PainterQubits/Unitful.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Physical quantities with arbitrary units&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KristofferC/TimerOutputs.jl</title>
+    <updated>2023-01-23T01:40:09Z</updated>
+    <id>tag:github.com,2023-01-23:/KristofferC/TimerOutputs.jl</id>
+    <link href="https://github.com/KristofferC/TimerOutputs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Formatted output of timed sections in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
