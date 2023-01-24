@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:46:19Z</updated>
+  <updated>2023-01-24T01:44:56Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jimmyomont/map-sphinx-v2.0</title>
+    <updated>2023-01-24T01:44:56Z</updated>
+    <id>tag:github.com,2023-01-24:/jimmyomont/map-sphinx-v2.0</id>
+    <link href="https://github.com/jimmyomont/map-sphinx-v2.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>netlify-templates/one-click-hugo-cms</title>
+    <updated>2023-01-24T01:44:56Z</updated>
+    <id>tag:github.com,2023-01-24:/netlify-templates/one-click-hugo-cms</id>
+    <link href="https://github.com/netlify-templates/one-click-hugo-cms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hugo template with Netlify CMS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CapnKitten/BetterDiscord</title>
+    <updated>2023-01-24T01:44:56Z</updated>
+    <id>tag:github.com,2023-01-24:/CapnKitten/BetterDiscord</id>
+    <link href="https://github.com/CapnKitten/BetterDiscord" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

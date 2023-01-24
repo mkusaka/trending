@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LLVM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:40:56Z</updated>
+  <updated>2023-01-24T01:39:49Z</updated>
   <subtitle>Daily Trending of LLVM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>google/clspv</title>
-    <updated>2023-01-23T01:40:56Z</updated>
-    <id>tag:github.com,2023-01-23:/google/clspv</id>
-    <link href="https://github.com/google/clspv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clspv is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

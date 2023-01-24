@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:43:16Z</updated>
+  <updated>2023-01-24T01:42:03Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HemulGM/DelphiOpenAIPlayground</title>
-    <updated>2023-01-23T01:43:16Z</updated>
-    <id>tag:github.com,2023-01-23:/HemulGM/DelphiOpenAIPlayground</id>
-    <link href="https://github.com/HemulGM/DelphiOpenAIPlayground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Delphi Open AI Playground&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GLScene/SamplesD</title>
-    <updated>2023-01-23T01:43:16Z</updated>
-    <id>tag:github.com,2023-01-23:/GLScene/SamplesD</id>
-    <link href="https://github.com/GLScene/SamplesD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The source code samples based on GLScene for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinyBigGAMES/GamePascal</title>
+    <updated>2023-01-24T01:42:03Z</updated>
+    <id>tag:github.com,2023-01-24:/tinyBigGAMES/GamePascal</id>
+    <link href="https://github.com/tinyBigGAMES/GamePascal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GamePascal Toolkit - Make 2D Games in Pascal&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

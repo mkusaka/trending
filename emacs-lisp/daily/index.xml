@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:36:29Z</updated>
+  <updated>2023-01-24T01:35:34Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>beguene/emacs-gpt</title>
-    <updated>2023-01-23T01:36:29Z</updated>
-    <id>tag:github.com,2023-01-23:/beguene/emacs-gpt</id>
-    <link href="https://github.com/beguene/emacs-gpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;emacs-gpt&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>Artawower/file-info.el</title>
-    <updated>2023-01-23T01:36:29Z</updated>
-    <id>tag:github.com,2023-01-23:/Artawower/file-info.el</id>
-    <link href="https://github.com/Artawower/file-info.el" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All necessary information about current file in hydra + posframe&lt;/p&gt;&lt;hr&gt;&lt;p&gt;:PROPERTIES: :ID: file-info :END:&lt;/p&gt; &#xA;&lt;p&gt;#+TITLE: file-info.el #+html: &lt;span class=&#34;badge-buymeacoffee&#34;&gt; #+html: &lt;a href=&#34;https://www.paypal.me/darkawower&#34; title=&#34;Paypal&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/paypal-donate-blue.svg?sanitize=true&#34; alt=&#34;Buy Me A Coffee donate button&#34;&gt;&lt;/a&gt; #+html: &lt;/span&gt; #+html: &lt;span class=&#34;badge-patreon&#34;&gt; #+html: &lt;a href=&#34;https://patreon.com/artawower&#34; target=&#34;_blank&#34; title=&#34;Donate to this project using Patreon&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/patreon-donate-orange.svg?sanitize=true&#34; alt=&#34;Patreon donate button&#34;&gt;&lt;/a&gt; #+html: &lt;/span&gt; #+html: &lt;a href=&#34;https://wakatime.com/badge/github/Artawower/file-info.el&#34;&gt;&lt;img src=&#34;https://wakatime.com/badge/github/Artawower/file-info.el.svg?sanitize=true&#34; alt=&#34;wakatime&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;#+DESCRIPTION: Quick access to most common file information properties #+ID: file-info&lt;/p&gt; &#xA;&lt;p&gt;Package for quick view and copy all necessary information about current opened file.&lt;/p&gt; &#xA;&lt;p&gt;This package could works with optional dependencies as projectile/project.el and all-the-icons.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Preview [[./images/sample.png]]&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Install&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;*** Requirements #+BEGIN_SRC emacs-lisp :results silent (use-package hydra) (use-package browse-at-remote) #+END_SRC&lt;/p&gt; &#xA;&lt;p&gt;*** Straight #+BEGIN_SRC emacs-lisp (use-package file-info :straight (:host github :repo &#34;artawower/file-info.el&#34;) :bind ((&#34;C-c d&#34; . &#39;file-info-show)) :config (setq hydra-hint-display-type &#39;posframe) (setq hydra-posframe-show-params `(:poshandler posframe-poshandler-frame-center :internal-border-width 2 :internal-border-color &#34;#61AFEF&#34; :left-fringe 16 :right-fringe 16))) #+END_SRC&lt;/p&gt;</summary>
-  </entry>
 </feed>

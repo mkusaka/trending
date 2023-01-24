@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:38:03Z</updated>
+  <updated>2023-01-24T01:37:09Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iburzynski/HaskellHangman</title>
-    <updated>2023-01-23T01:38:03Z</updated>
-    <id>tag:github.com,2023-01-23:/iburzynski/HaskellHangman</id>
-    <link href="https://github.com/iburzynski/HaskellHangman" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Hangman project for Part II of EMURGO Academy&#39;s Haskell course&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;EMURGO Academy Haskell Course: Part II&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains a preconfigured Haskell development environment, allowing you to start coding in Haskell with zero installation using &lt;a href=&#34;https://www.gitpod.io/&#34;&gt;Gitpod&lt;/a&gt; and a browser-based version of VS Code.&lt;/p&gt; &#xA;&lt;p&gt;The environment contains a guided Hangman project, designed as a companion to the second part of EMURGO Academy&#39;s Haskell course.&lt;/p&gt; &#xA;&lt;h2&gt;Create Your Environment&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Fork this repository&lt;/li&gt; &#xA; &lt;li&gt;Copy the link to your new repository and prefix it with &#34;&lt;a href=&#34;https://gitpod.io/#&#34;&gt;https://gitpod.io/#&lt;/a&gt;&#34; in your browser&lt;/li&gt; &#xA; &lt;li&gt;Click &lt;code&gt;Continue with GitHub&lt;/code&gt; and &lt;code&gt;Authorize gitpod-io&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Wait for the environment to build. This can take a while the first time.&lt;/li&gt; &#xA; &lt;li&gt;Select &#34;VS Code Browser&#34; as your editor.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Build Your Project&lt;/h2&gt; &#xA;&lt;p&gt;As you attend the live sessions, complete each of the assignments in the &lt;code&gt;/assignments&lt;/code&gt; directory, making changes to the associated &lt;code&gt;.hs&lt;/code&gt; files in the &lt;code&gt;/solutions&lt;/code&gt; directory.&lt;/p&gt; &#xA;&lt;p&gt;As you complete the assignments, stage, commit and push your changes to Github using the &lt;code&gt;Source Control&lt;/code&gt; tab in the left panel.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jaeheon/tiddle</title>
-    <updated>2023-01-23T01:38:03Z</updated>
-    <id>tag:github.com,2023-01-23:/jaeheon/tiddle</id>
-    <link href="https://github.com/jaeheon/tiddle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tiddle: A Trace Description Language for Generating Concurrent Benchmarks to Test Dynamic Analyses&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Copyright (c) 2012, Caitlin Sadowski (University of California, Santa Cruz) and Jaeheon Yi (University of California, Santa Cruz). All Rights Reserved.&lt;/p&gt; &#xA;&lt;p&gt;Instructions.&lt;/p&gt; &#xA;&lt;p&gt;On the command line: $ alex Lexer.x $ happy Parser.y $ runhaskell Main.hs ---------please enter classname: Example ---------enter contents (followed by ctrl-d): rd 1 x wr 2 x&lt;/p&gt; &#xA;&lt;p&gt;Explanation. A file, named &#34;Example.java&#34;, will be generated in the same directory. The input trace is repeated verbatim at the top of the file. In the input trace listed above, thread 1 reads shared variable x, then thread 2 writes to x. Your analysis tool should ignore the CyclicBarrier cb and cc in order to not capture the happens-before effects of this artificially introduced synchronization.&lt;/p&gt; &#xA;&lt;p&gt;The java program&#39;s package name is hard-coded in Main.hs.&lt;/p&gt; &#xA;&lt;p&gt;Alex and happy need to be run just once after you make changes to Lexer.x and Parser.y.&lt;/p&gt; &#xA;&lt;p&gt;References. Tiddle: A Trace Description Language for Generating Concurrent Benchmarks to Test Dynamic Analyses. Caitlin Sadowski, Jaeheon Yi. Workshop on Dynamic Analysis (WODA) 2009.&lt;/p&gt;</summary>
+    <title>nfrisby/gadtda</title>
+    <updated>2023-01-24T01:37:09Z</updated>
+    <id>tag:github.com,2023-01-24:/nfrisby/gadtda</id>
+    <link href="https://github.com/nfrisby/gadtda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Extending the SYB:Data class to directly support static selectivity via GADTs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;run &lt;code&gt;make&lt;/code&gt; to build three variants of Increase and dump the core.&lt;/p&gt; &#xA;&lt;p&gt;The code depends on three CPP flags.&lt;/p&gt; &#xA;&lt;p&gt;no flags -- this most straightforward code incurs mutually recursive dictinaries, which prevent inlining.&lt;/p&gt; &#xA;&lt;p&gt;FAST -- avoids the problematic mutual recursion at the cost of a simple additional instance.&lt;/p&gt; &#xA;&lt;p&gt;FORCE-SC -- if FAST is on, this forces SpecConstr. For our little example at least, seems to merely elimate some casts.&lt;/p&gt; &#xA;&lt;h2&gt;Current Task&lt;/h2&gt; &#xA;&lt;p&gt;Even with -DFORCE-SC, the core dumped by -DFAST -ddump-simpl still seems to scream for SpecConstr. I&#39;m now trying to make that optimization happen at the right time.&lt;/p&gt;</summary>
   </entry>
 </feed>

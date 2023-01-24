@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:32:02Z</updated>
+  <updated>2023-01-24T01:31:28Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>VzBoT3D/Vz-Printhead-Printed</title>
-    <updated>2023-01-23T01:32:02Z</updated>
-    <id>tag:github.com,2023-01-23:/VzBoT3D/Vz-Printhead-Printed</id>
-    <link href="https://github.com/VzBoT3D/Vz-Printhead-Printed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Printed version of the Vz-Printhead&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dair-ai/AI-Product-Index</title>
+    <updated>2023-01-24T01:31:28Z</updated>
+    <id>tag:github.com,2023-01-24:/dair-ai/AI-Product-Index</id>
+    <link href="https://github.com/dair-ai/AI-Product-Index" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated index to track AI-powered products.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>google/season-of-docs</title>
-    <updated>2023-01-23T01:32:02Z</updated>
-    <id>tag:github.com,2023-01-23:/google/season-of-docs</id>
-    <link href="https://github.com/google/season-of-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Supporting materials for Google&#39;s Season of Docs program&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Scyne/stadiaRawBtFw</title>
+    <updated>2023-01-24T01:31:28Z</updated>
+    <id>tag:github.com,2023-01-24:/Scyne/stadiaRawBtFw</id>
+    <link href="https://github.com/Scyne/stadiaRawBtFw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A dump of the Raw Stadia controller BT Firmware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WeMakeDevs/events</title>
-    <updated>2023-01-23T01:32:02Z</updated>
-    <id>tag:github.com,2023-01-23:/WeMakeDevs/events</id>
-    <link href="https://github.com/WeMakeDevs/events" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jaegeral/companies-hiring-security-remote</title>
+    <updated>2023-01-24T01:31:28Z</updated>
+    <id>tag:github.com,2023-01-24:/jaegeral/companies-hiring-security-remote</id>
+    <link href="https://github.com/jaegeral/companies-hiring-security-remote" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo is meant to be a list of companies that hire security people full remote.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

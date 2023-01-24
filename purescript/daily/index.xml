@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:44:20Z</updated>
+  <updated>2023-01-24T01:43:09Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>purescript-contrib/purescript-options</title>
-    <updated>2023-01-23T01:44:20Z</updated>
-    <id>tag:github.com,2023-01-23:/purescript-contrib/purescript-options</id>
-    <link href="https://github.com/purescript-contrib/purescript-options" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Types and functions for dealing with JavaScript options objects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>katsujukou/purescript-halogen-helix</title>
+    <updated>2023-01-24T01:43:09Z</updated>
+    <id>tag:github.com,2023-01-24:/katsujukou/purescript-halogen-helix</id>
+    <link href="https://github.com/katsujukou/purescript-halogen-helix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight global state management for PureScript Halogen using halogen-hooks.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

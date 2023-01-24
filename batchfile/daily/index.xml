@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:33:12Z</updated>
+  <updated>2023-01-24T01:32:30Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>baokhanhvps/khanhvps</title>
-    <updated>2023-01-23T01:33:12Z</updated>
-    <id>tag:github.com,2023-01-23:/baokhanhvps/khanhvps</id>
-    <link href="https://github.com/baokhanhvps/khanhvps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VPS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adhib19/rdp-ngrok</title>
+    <updated>2023-01-24T01:32:30Z</updated>
+    <id>tag:github.com,2023-01-24:/adhib19/rdp-ngrok</id>
+    <link href="https://github.com/adhib19/rdp-ngrok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bittier/rdp-gratis</title>
+    <updated>2023-01-24T01:32:30Z</updated>
+    <id>tag:github.com,2023-01-24:/bittier/rdp-gratis</id>
+    <link href="https://github.com/bittier/rdp-gratis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

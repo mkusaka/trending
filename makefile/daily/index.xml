@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:41:28Z</updated>
+  <updated>2023-01-24T01:40:17Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GEOS-ESM/ESMA-Baselibs</title>
-    <updated>2023-01-23T01:41:28Z</updated>
-    <id>tag:github.com,2023-01-23:/GEOS-ESM/ESMA-Baselibs</id>
-    <link href="https://github.com/GEOS-ESM/ESMA-Baselibs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base Libraries for the GEOS ESM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wenyi0421/turing-pi</title>
-    <updated>2023-01-23T01:41:28Z</updated>
-    <id>tag:github.com,2023-01-23:/wenyi0421/turing-pi</id>
-    <link href="https://github.com/wenyi0421/turing-pi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zkan/getting-started-with-analytics-engineering</title>
+    <updated>2023-01-24T01:40:17Z</updated>
+    <id>tag:github.com,2023-01-24:/zkan/getting-started-with-analytics-engineering</id>
+    <link href="https://github.com/zkan/getting-started-with-analytics-engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Getting Started with Analytics Engineering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

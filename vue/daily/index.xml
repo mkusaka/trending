@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:48:49Z</updated>
+  <updated>2023-01-24T01:47:25Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>accentor/web</title>
-    <updated>2023-01-23T01:48:49Z</updated>
-    <id>tag:github.com,2023-01-23:/accentor/web</id>
-    <link href="https://github.com/accentor/web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web frontend for the Accentor music server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xbug/Hawkeye</title>
+    <updated>2023-01-24T01:47:25Z</updated>
+    <id>tag:github.com,2023-01-24:/0xbug/Hawkeye</id>
+    <link href="https://github.com/0xbug/Hawkeye" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitHub 泄露监控系统(GitHub Sensitive Information Leakage Monitor Spider)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KaiBelmo/kai-belmo</title>
+    <updated>2023-01-24T01:47:25Z</updated>
+    <id>tag:github.com,2023-01-24:/KaiBelmo/kai-belmo</id>
+    <link href="https://github.com/KaiBelmo/kai-belmo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my personal website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wobsoriano/vue-wrap-balancer</title>
+    <updated>2023-01-24T01:47:25Z</updated>
+    <id>tag:github.com,2023-01-24:/wobsoriano/vue-wrap-balancer</id>
+    <link href="https://github.com/wobsoriano/vue-wrap-balancer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple Vue Component That Makes Titles More Readable.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

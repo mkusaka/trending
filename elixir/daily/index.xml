@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:36:24Z</updated>
+  <updated>2023-01-24T01:35:28Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DockYard-Academy/curriculum</title>
-    <updated>2023-01-23T01:36:24Z</updated>
-    <id>tag:github.com,2023-01-23:/DockYard-Academy/curriculum</id>
-    <link href="https://github.com/DockYard-Academy/curriculum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maxmarcon/live_select</title>
-    <updated>2023-01-23T01:36:24Z</updated>
-    <id>tag:github.com,2023-01-23:/maxmarcon/live_select</id>
-    <link href="https://github.com/maxmarcon/live_select" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dynamic selection field for LiveView&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jellyfish-dev/membrane_rtc_engine</title>
-    <updated>2023-01-23T01:36:24Z</updated>
-    <id>tag:github.com,2023-01-23:/jellyfish-dev/membrane_rtc_engine</id>
-    <link href="https://github.com/jellyfish-dev/membrane_rtc_engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Customizable Real-time Communication Engine/SFU library focused on WebRTC.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>100phlecs/tailwind_formatter</title>
+    <updated>2023-01-24T01:35:28Z</updated>
+    <id>tag:github.com,2023-01-24:/100phlecs/tailwind_formatter</id>
+    <link href="https://github.com/100phlecs/tailwind_formatter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sorts tailwind classes within elixir projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

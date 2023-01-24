@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-23T01:46:57Z</updated>
+  <updated>2023-01-24T01:45:37Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LayerZero-Labs/LayerZero</title>
-    <updated>2023-01-23T01:46:57Z</updated>
-    <id>tag:github.com,2023-01-23:/LayerZero-Labs/LayerZero</id>
-    <link href="https://github.com/LayerZero-Labs/LayerZero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Omnichain Interoperability Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Coinsult/solidity</title>
+    <updated>2023-01-24T01:45:37Z</updated>
+    <id>tag:github.com,2023-01-24:/Coinsult/solidity</id>
+    <link href="https://github.com/Coinsult/solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart contract audits are necessary for ensuring that smart contracts are free of any security issues.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
