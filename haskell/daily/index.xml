@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:37:09Z</updated>
+  <updated>2023-01-25T01:36:33Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nfrisby/gadtda</title>
-    <updated>2023-01-24T01:37:09Z</updated>
-    <id>tag:github.com,2023-01-24:/nfrisby/gadtda</id>
-    <link href="https://github.com/nfrisby/gadtda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Extending the SYB:Data class to directly support static selectivity via GADTs&lt;/p&gt;&lt;hr&gt;&lt;p&gt;run &lt;code&gt;make&lt;/code&gt; to build three variants of Increase and dump the core.&lt;/p&gt; &#xA;&lt;p&gt;The code depends on three CPP flags.&lt;/p&gt; &#xA;&lt;p&gt;no flags -- this most straightforward code incurs mutually recursive dictinaries, which prevent inlining.&lt;/p&gt; &#xA;&lt;p&gt;FAST -- avoids the problematic mutual recursion at the cost of a simple additional instance.&lt;/p&gt; &#xA;&lt;p&gt;FORCE-SC -- if FAST is on, this forces SpecConstr. For our little example at least, seems to merely elimate some casts.&lt;/p&gt; &#xA;&lt;h2&gt;Current Task&lt;/h2&gt; &#xA;&lt;p&gt;Even with -DFORCE-SC, the core dumped by -DFAST -ddump-simpl still seems to scream for SpecConstr. I&#39;m now trying to make that optimization happen at the right time.&lt;/p&gt;</summary>
-  </entry>
 </feed>

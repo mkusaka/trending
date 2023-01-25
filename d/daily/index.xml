@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:34:21Z</updated>
+  <updated>2023-01-25T01:33:16Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ttimofeyka/Rave</title>
+    <updated>2023-01-25T01:33:16Z</updated>
+    <id>tag:github.com,2023-01-25:/Ttimofeyka/Rave</id>
+    <link href="https://github.com/Ttimofeyka/Rave" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compiled and statically typed programming language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

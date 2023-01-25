@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:33:36Z</updated>
+  <updated>2023-01-25T01:32:25Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lispyclouds/bblgum</title>
-    <updated>2023-01-24T01:33:36Z</updated>
-    <id>tag:github.com,2023-01-24:/lispyclouds/bblgum</id>
-    <link href="https://github.com/lispyclouds/bblgum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An extremely tiny and simple wrapper around charmbracelet/gum&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ghoseb/img-palette</title>
+    <updated>2023-01-25T01:32:25Z</updated>
+    <id>tag:github.com,2023-01-25:/ghoseb/img-palette</id>
+    <link href="https://github.com/ghoseb/img-palette" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple demo of extracting dominant colors from an image using K-means clustering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>metabase/hawk</title>
-    <updated>2023-01-24T01:33:36Z</updated>
-    <id>tag:github.com,2023-01-24:/metabase/hawk</id>
-    <link href="https://github.com/metabase/hawk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;It watches your code like a hawk! You like tests, right? Then run them with our state-of-the-art Clojure test runner.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codereport/plr</title>
+    <updated>2023-01-25T01:32:25Z</updated>
+    <id>tag:github.com,2023-01-25:/codereport/plr</id>
+    <link href="https://github.com/codereport/plr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GitHub repo backing Programming Language Ranking website ⬇️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pixelated-noise/bb-dialog</title>
-    <updated>2023-01-24T01:33:36Z</updated>
-    <id>tag:github.com,2023-01-24:/pixelated-noise/bb-dialog</id>
-    <link href="https://github.com/pixelated-noise/bb-dialog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ClickHouse/metabase-clickhouse-driver</title>
+    <updated>2023-01-25T01:32:25Z</updated>
+    <id>tag:github.com,2023-01-25:/ClickHouse/metabase-clickhouse-driver</id>
+    <link href="https://github.com/ClickHouse/metabase-clickhouse-driver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ClickHouse database driver for the Metabase business intelligence front-end&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

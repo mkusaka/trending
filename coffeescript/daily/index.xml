@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:33:46Z</updated>
+  <updated>2023-01-25T01:32:37Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>darvin/quake-live-api-node</title>
-    <updated>2023-01-24T01:33:46Z</updated>
-    <id>tag:github.com,2023-01-24:/darvin/quake-live-api-node</id>
-    <link href="https://github.com/darvin/quake-live-api-node" rel="alternate"></link>
+    <title>kaosat-dev/Backbone.dropbox</title>
+    <updated>2023-01-25T01:32:37Z</updated>
+    <id>tag:github.com,2023-01-25:/kaosat-dev/Backbone.dropbox</id>
+    <link href="https://github.com/kaosat-dev/Backbone.dropbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dropbox storage (sync) for Backbonejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jfstgermain/s3-formidably-streamed-uploads</title>
+    <updated>2023-01-25T01:32:37Z</updated>
+    <id>tag:github.com,2023-01-25:/jfstgermain/s3-formidably-streamed-uploads</id>
+    <link href="https://github.com/jfstgermain/s3-formidably-streamed-uploads" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

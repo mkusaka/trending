@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:33:42Z</updated>
+  <updated>2023-01-25T01:32:35Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seanpm2001/SNU_2D_ProgrammingTools_IDE_ColdFusion</title>
+    <updated>2023-01-25T01:32:35Z</updated>
+    <id>tag:github.com,2023-01-25:/seanpm2001/SNU_2D_ProgrammingTools_IDE_ColdFusion</id>
+    <link href="https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ColdFusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⌨️ The ColdFusion Programming language IDE submodule for SNU Programming Tools (2D Mode)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pixl8/Preside-CMS</title>
+    <updated>2023-01-25T01:32:35Z</updated>
+    <id>tag:github.com,2023-01-25:/pixl8/Preside-CMS</id>
+    <link href="https://github.com/pixl8/Preside-CMS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Preside Platform is an open source application development platform for the Lucee language that provides content management, rapid admin application development, rules engine, email templating, and much much more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

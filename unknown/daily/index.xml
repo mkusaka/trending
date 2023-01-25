@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:31:28Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-01-25T01:29:34Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dair-ai/AI-Product-Index</title>
-    <updated>2023-01-24T01:31:28Z</updated>
-    <id>tag:github.com,2023-01-24:/dair-ai/AI-Product-Index</id>
-    <link href="https://github.com/dair-ai/AI-Product-Index" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated index to track AI-powered products.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>merveenoyan/my_notes</title>
+    <updated>2023-01-25T01:29:34Z</updated>
+    <id>tag:github.com,2023-01-25:/merveenoyan/my_notes</id>
+    <link href="https://github.com/merveenoyan/my_notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My small cheatsheets for data science, ML, computer science and more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Scyne/stadiaRawBtFw</title>
-    <updated>2023-01-24T01:31:28Z</updated>
-    <id>tag:github.com,2023-01-24:/Scyne/stadiaRawBtFw</id>
-    <link href="https://github.com/Scyne/stadiaRawBtFw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dump of the Raw Stadia controller BT Firmware&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pythontoday/junior_python_developer_roadmap</title>
+    <updated>2023-01-25T01:29:34Z</updated>
+    <id>tag:github.com,2023-01-25:/pythontoday/junior_python_developer_roadmap</id>
+    <link href="https://github.com/pythontoday/junior_python_developer_roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jaegeral/companies-hiring-security-remote</title>
-    <updated>2023-01-24T01:31:28Z</updated>
-    <id>tag:github.com,2023-01-24:/jaegeral/companies-hiring-security-remote</id>
-    <link href="https://github.com/jaegeral/companies-hiring-security-remote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo is meant to be a list of companies that hire security people full remote.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>londonappbrewery/Flutter-Course-Resources</title>
+    <updated>2023-01-25T01:29:34Z</updated>
+    <id>tag:github.com,2023-01-25:/londonappbrewery/Flutter-Course-Resources</id>
+    <link href="https://github.com/londonappbrewery/Flutter-Course-Resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn to Code While Building Apps - The Complete Flutter Development Bootcamp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

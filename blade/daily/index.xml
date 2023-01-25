@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:32:37Z</updated>
+  <updated>2023-01-25T01:31:13Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ManiruzzamanAkash/LaraCMS</title>
-    <updated>2023-01-24T01:32:37Z</updated>
-    <id>tag:github.com,2023-01-24:/ManiruzzamanAkash/LaraCMS</id>
-    <link href="https://github.com/ManiruzzamanAkash/LaraCMS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Great Web Application CMS &amp; a Starter Kit for Big Project Built with Laravel Framework 9.x &amp; React JS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>raselupm/desh-curiar</title>
+    <updated>2023-01-25T01:31:13Z</updated>
+    <id>tag:github.com,2023-01-25:/raselupm/desh-curiar</id>
+    <link href="https://github.com/raselupm/desh-curiar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

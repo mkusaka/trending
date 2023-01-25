@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:41:10Z</updated>
+  <updated>2023-01-25T01:41:28Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>crashappsec/con4m</title>
-    <updated>2023-01-24T01:41:10Z</updated>
-    <id>tag:github.com,2023-01-24:/crashappsec/con4m</id>
-    <link href="https://github.com/crashappsec/con4m" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configuration Language for Mortals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crashappsec/nimutils</title>
+    <updated>2023-01-25T01:41:28Z</updated>
+    <id>tag:github.com,2023-01-25:/crashappsec/nimutils</id>
+    <link href="https://github.com/crashappsec/nimutils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;General purpose utility code for any nim projects&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

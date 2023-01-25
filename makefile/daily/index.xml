@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:40:17Z</updated>
+  <updated>2023-01-25T01:40:28Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zkan/getting-started-with-analytics-engineering</title>
-    <updated>2023-01-24T01:40:17Z</updated>
-    <id>tag:github.com,2023-01-24:/zkan/getting-started-with-analytics-engineering</id>
-    <link href="https://github.com/zkan/getting-started-with-analytics-engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Getting Started with Analytics Engineering&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>M0r13n/mikrotik_monitoring</title>
+    <updated>2023-01-25T01:40:28Z</updated>
+    <id>tag:github.com,2023-01-25:/M0r13n/mikrotik_monitoring</id>
+    <link href="https://github.com/M0r13n/mikrotik_monitoring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monitor your Mikrotik router with Prometheus and Grafana&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gardener-community/dev-box-gcp</title>
+    <updated>2023-01-25T01:40:28Z</updated>
+    <id>tag:github.com,2023-01-25:/gardener-community/dev-box-gcp</id>
+    <link href="https://github.com/gardener-community/dev-box-gcp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Development Box on Google Cloud for Gardener Development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

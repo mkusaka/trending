@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-24T01:37:29Z</updated>
+  <updated>2023-01-25T01:36:56Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>openvpi/vocoders</title>
-    <updated>2023-01-24T01:37:29Z</updated>
-    <id>tag:github.com,2023-01-24:/openvpi/vocoders</id>
-    <link href="https://github.com/openvpi/vocoders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DiffSinger community vocoders release page&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>monkxy/blooket-hacks</title>
+    <updated>2023-01-25T01:36:56Z</updated>
+    <id>tag:github.com,2023-01-25:/monkxy/blooket-hacks</id>
+    <link href="https://github.com/monkxy/blooket-hacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;One of the best Blooket hacks constantly being updated!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Support Discord: &lt;a href=&#34;https://discord.gg/aeDraxAUpB&#34;&gt;https://discord.gg/aeDraxAUpB&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;Blooket Hacks&lt;/h1&gt; &#xA;&lt;p&gt;This repo contains hacks for the popular game &lt;a href=&#34;https://blooket.com/&#34;&gt;Blooket&lt;/a&gt;!&lt;/p&gt; &#xA;&lt;h2&gt;Acknowledgements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;I am NOT responsible for any actions taken on your account for using this hack.&lt;/li&gt; &#xA; &lt;li&gt;Always use this with care, know there is a chance of getting banned.&lt;/li&gt; &#xA; &lt;li&gt;Follow the &lt;a href=&#34;https://github.com/Jude-Gideon/Blooket/raw/main/LICENSE&#34;&gt;license&lt;/a&gt; when forking this repo.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Support&lt;/h2&gt; &#xA;&lt;p&gt;For support, create an &lt;a href=&#34;https://github.com/Jude-Gideon/Blooket/issues/new&#34;&gt;issue&lt;/a&gt; or join our &lt;a href=&#34;https://discord.gg/aeDraxAUpB&#34;&gt;Discord&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;These should always be working, let me know of any issues.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://user-images.githubusercontent.com/113489420/213098794-5cc5c89b-a4a2-4715-a93a-c04a52f786d6.mp4&#34;&gt;https://user-images.githubusercontent.com/113489420/213098794-5cc5c89b-a4a2-4715-a93a-c04a52f786d6.mp4&lt;/a&gt;&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Go to Blooket&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Push CTRL + SHIFT + J&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Paste the code.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Authors&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.github.com/monkxy&#34;&gt;@monkxy&lt;/a&gt; (Jude)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>yangqihang0117/yangqihang0117.github.io</title>
+    <updated>2023-01-25T01:36:56Z</updated>
+    <id>tag:github.com,2023-01-25:/yangqihang0117/yangqihang0117.github.io</id>
+    <link href="https://github.com/yangqihang0117/yangqihang0117.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal blog site based on Hugo &amp; Anatole&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Yxx&#39;s Blog&lt;/h1&gt; &#xA;&lt;p&gt;Personal blog site based on Hugo &amp;amp; Anatole&lt;/p&gt;</summary>
   </entry>
 </feed>
