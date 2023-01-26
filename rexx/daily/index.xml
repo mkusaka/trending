@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub REXX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:45:05Z</updated>
+  <updated>2023-01-26T01:47:44Z</updated>
   <subtitle>Daily Trending of REXX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RexxLA/rexx-repository</title>
+    <updated>2023-01-26T01:47:44Z</updated>
+    <id>tag:github.com,2023-01-26:/RexxLA/rexx-repository</id>
+    <link href="https://github.com/RexxLA/rexx-repository" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source and Library repository for all things Rexx&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

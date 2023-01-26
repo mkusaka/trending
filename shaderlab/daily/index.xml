@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:46:11Z</updated>
+  <updated>2023-01-26T01:48:58Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AkaiShiki/SimpleGame</title>
+    <updated>2023-01-26T01:48:58Z</updated>
+    <id>tag:github.com,2023-01-26:/AkaiShiki/SimpleGame</id>
+    <link href="https://github.com/AkaiShiki/SimpleGame" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplon DEV XR Exercice&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

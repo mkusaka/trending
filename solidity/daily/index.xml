@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:47:08Z</updated>
+  <updated>2023-01-26T01:49:45Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Jeiwan/uniswapv3-unrefunded-eth-poc</title>
-    <updated>2023-01-25T01:47:08Z</updated>
-    <id>tag:github.com,2023-01-25:/Jeiwan/uniswapv3-unrefunded-eth-poc</id>
-    <link href="https://github.com/Jeiwan/uniswapv3-unrefunded-eth-poc" rel="alternate"></link>
+    <title>lucas-manuel/invariant-examples</title>
+    <updated>2023-01-26T01:49:45Z</updated>
+    <id>tag:github.com,2023-01-26:/lucas-manuel/invariant-examples</id>
+    <link href="https://github.com/lucas-manuel/invariant-examples" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Zondax/filecoin-solidity</title>
-    <updated>2023-01-25T01:47:08Z</updated>
-    <id>tag:github.com,2023-01-25:/Zondax/filecoin-solidity</id>
-    <link href="https://github.com/Zondax/filecoin-solidity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Filecoin Solidity API Library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Racks-Labs/ERC721-Linkable</title>
+    <updated>2023-01-26T01:49:45Z</updated>
+    <id>tag:github.com,2023-01-26:/Racks-Labs/ERC721-Linkable</id>
+    <link href="https://github.com/Racks-Labs/ERC721-Linkable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The goal of ERC 721L is to make it easier to manage multiple NFTs and to simplify the transfer of ownership of all of them to a new owner.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>circlefin/evm-cctp-contracts</title>
-    <updated>2023-01-25T01:47:08Z</updated>
-    <id>tag:github.com,2023-01-25:/circlefin/evm-cctp-contracts</id>
-    <link href="https://github.com/circlefin/evm-cctp-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official repository for all EVM-compatible smart contracts used by the Cross-Chain Transfer Protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clabby/echidna-vs-forge</title>
+    <updated>2023-01-26T01:49:45Z</updated>
+    <id>tag:github.com,2023-01-26:/clabby/echidna-vs-forge</id>
+    <link href="https://github.com/clabby/echidna-vs-forge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Testing echidna vs. forge fuzzing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

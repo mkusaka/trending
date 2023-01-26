@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:34:18Z</updated>
+  <updated>2023-01-26T01:35:47Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NorthDevelopment/NorthClient</title>
+    <updated>2023-01-26T01:35:47Z</updated>
+    <id>tag:github.com,2023-01-26:/NorthDevelopment/NorthClient</id>
+    <link href="https://github.com/NorthDevelopment/NorthClient" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NorthClient© is a free, open-source Client server management panel built with js, css, Bootstrap and HTML. Designed with &lt;3, NorthClient is a Client Area for the Pterodactyl game Panel.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

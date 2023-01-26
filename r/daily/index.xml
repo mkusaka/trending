@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:44:38Z</updated>
+  <updated>2023-01-26T01:47:11Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RforOperations2023/Class-1</title>
-    <updated>2023-01-25T01:44:38Z</updated>
-    <id>tag:github.com,2023-01-25:/RforOperations2023/Class-1</id>
-    <link href="https://github.com/RforOperations2023/Class-1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Course Overview &amp; Introduction to GitHub &amp; Shiny&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>diegovalle/comipems</title>
+    <updated>2023-01-26T01:47:11Z</updated>
+    <id>tag:github.com,2023-01-26:/diegovalle/comipems</id>
+    <link href="https://github.com/diegovalle/comipems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;COMIPEMS Analysis&lt;/h1&gt; &#xA;&lt;p&gt;In Mexico City all ninth graders who want to enroll in a public high school (grades 10 trough 12 in Mexico) must take an exam called COMIPEMS&lt;/p&gt; &#xA;&lt;p&gt;Be sure to check the &#39;meta&#39; directory if you want the original Gacetas de Resultados&lt;/p&gt;</summary>
   </entry>
 </feed>

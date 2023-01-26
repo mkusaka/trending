@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:29:34Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-01-26T01:30:18Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>merveenoyan/my_notes</title>
-    <updated>2023-01-25T01:29:34Z</updated>
-    <id>tag:github.com,2023-01-25:/merveenoyan/my_notes</id>
-    <link href="https://github.com/merveenoyan/my_notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My small cheatsheets for data science, ML, computer science and more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bregman-arie/sre-checklist</title>
+    <updated>2023-01-26T01:30:18Z</updated>
+    <id>tag:github.com,2023-01-26:/bregman-arie/sre-checklist</id>
+    <link href="https://github.com/bregman-arie/sre-checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A checklist of anyone practicing Site Reliability Engineering&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pythontoday/junior_python_developer_roadmap</title>
-    <updated>2023-01-25T01:29:34Z</updated>
-    <id>tag:github.com,2023-01-25:/pythontoday/junior_python_developer_roadmap</id>
-    <link href="https://github.com/pythontoday/junior_python_developer_roadmap" rel="alternate"></link>
+    <title>ProgrammingHero1/legal-solution-resources</title>
+    <updated>2023-01-26T01:30:18Z</updated>
+    <id>tag:github.com,2023-01-26:/ProgrammingHero1/legal-solution-resources</id>
+    <link href="https://github.com/ProgrammingHero1/legal-solution-resources" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>londonappbrewery/Flutter-Course-Resources</title>
-    <updated>2023-01-25T01:29:34Z</updated>
-    <id>tag:github.com,2023-01-25:/londonappbrewery/Flutter-Course-Resources</id>
-    <link href="https://github.com/londonappbrewery/Flutter-Course-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn to Code While Building Apps - The Complete Flutter Development Bootcamp&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ignitetechnologies/Mindmap</title>
+    <updated>2023-01-26T01:30:18Z</updated>
+    <id>tag:github.com,2023-01-26:/Ignitetechnologies/Mindmap</id>
+    <link href="https://github.com/Ignitetechnologies/Mindmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

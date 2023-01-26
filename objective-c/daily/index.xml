@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:41:50Z</updated>
+  <updated>2023-01-26T01:43:59Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>seifeet/LocationAdjuster</title>
-    <updated>2023-01-25T01:41:50Z</updated>
-    <id>tag:github.com,2023-01-25:/seifeet/LocationAdjuster</id>
-    <link href="https://github.com/seifeet/LocationAdjuster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LocationAdjuster&lt;/h1&gt; &#xA;&lt;p&gt;The project has a controller that contains three tabs.&lt;/p&gt; &#xA;&lt;p&gt;The first tab demonstrates how to adjust pin by moving the map behind the pin.&lt;/p&gt; &#xA;&lt;p&gt;The second tab demonstrates how to use MKAnnotation protocol.&lt;/p&gt; &#xA;&lt;p&gt;The third tab demonstrates how to use MapOverlay with an image.&lt;/p&gt; &#xA;&lt;p&gt;================&lt;/p&gt; &#xA;&lt;p&gt;To debug in a simulator (iOS 5 and later):&lt;/p&gt; &#xA;&lt;p&gt;Under the simulator Debug menu, choose the last entry &#34;Location&#34; and select a location.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>socure-inc/socure-docv-sdk-ios</title>
-    <updated>2023-01-25T01:41:50Z</updated>
-    <id>tag:github.com,2023-01-25:/socure-inc/socure-docv-sdk-ios</id>
-    <link href="https://github.com/socure-inc/socure-docv-sdk-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iOS library for the Socure&#39;s Document Verification Product - DocV&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Predictive DocV iOS SDK v3&lt;/h1&gt; &#xA;&lt;p&gt;The Predictive Document Verification (DocV) iOS SDK v3 provides a framework to add image capture and upload services to your mobile application.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Note: All SDK v3 integrations must be updated to version 3.1.0 or later to meet compliance requirements. Document verification services will be disabled for older SDK versions soon.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Minimum requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Xcode version 13+&lt;/li&gt; &#xA; &lt;li&gt;Support for iOS 13 and later&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;You can install the DocV iOS SDK into your project using either CocoaPods or Swift Package Manager. Depending on the dependency manager you want to use, follow the steps in one of the installation sections below.&lt;/p&gt; &#xA;&lt;h3&gt;CocoaPods&lt;/h3&gt; &#xA;&lt;p&gt;To install the DocV iOS SDK using CocoaPods, add the following to your Podfile:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;pod &#39;SocureDocV&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Install the Pod from the terminal:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;pod install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: You must close the project and open the &lt;code&gt;xcworkspace&lt;/code&gt; file after you install the pod for it to properly reflect in your project.&lt;/p&gt; &#xA;&lt;h3&gt;Swift Package Manager&lt;/h3&gt; &#xA;&lt;p&gt;To install the DocV iOS SDK using Swift Package Manager, add the following package repository URL:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;https://github.com/socure-inc/socure-docv-sdk-ios&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Configuration and integration&lt;/h2&gt; &#xA;&lt;p&gt;For instructions on how to configure the SDK, see the &lt;a href=&#34;https://developer.socure.com/docs/sdks/docv/ios-sdk/ios-sdk-v3/&#34;&gt;iOS SDK documentation&lt;/a&gt; on DevHub.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:49:12Z</updated>
+  <updated>2023-01-26T01:52:18Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ba-archive/blue-archive-story-viewer</title>
-    <updated>2023-01-25T01:49:12Z</updated>
-    <id>tag:github.com,2023-01-25:/ba-archive/blue-archive-story-viewer</id>
-    <link href="https://github.com/ba-archive/blue-archive-story-viewer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DeterminateSystems/zero-to-nix</title>
+    <updated>2023-01-26T01:52:18Z</updated>
+    <id>tag:github.com,2023-01-26:/DeterminateSystems/zero-to-nix</id>
+    <link href="https://github.com/DeterminateSystems/zero-to-nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yrestom/POS-Awesome</title>
-    <updated>2023-01-25T01:49:12Z</updated>
-    <id>tag:github.com,2023-01-25:/yrestom/POS-Awesome</id>
-    <link href="https://github.com/yrestom/POS-Awesome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;POS Awesome is an open-source Point of Sale for Erpnext using Vue.js and Vuetify&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Gomah/bluise</title>
+    <updated>2023-01-26T01:52:18Z</updated>
+    <id>tag:github.com,2023-01-26:/Gomah/bluise</id>
+    <link href="https://github.com/Gomah/bluise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍄 Bluise - A Nuxt.js &amp; Netlify CMS boilerplate.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kong/kongponents</title>
-    <updated>2023-01-25T01:49:12Z</updated>
-    <id>tag:github.com,2023-01-25:/Kong/kongponents</id>
-    <link href="https://github.com/Kong/kongponents" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦍 🖖🏻 Kong Vue Component Library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>matter-labs/zksync-wallet-vue</title>
+    <updated>2023-01-26T01:52:18Z</updated>
+    <id>tag:github.com,2023-01-26:/matter-labs/zksync-wallet-vue</id>
+    <link href="https://github.com/matter-labs/zksync-wallet-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zkSync web wallet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

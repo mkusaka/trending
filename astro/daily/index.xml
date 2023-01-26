@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:30:45Z</updated>
+  <updated>2023-01-26T01:31:35Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>otoyo/astro-notion-blog</title>
-    <updated>2023-01-25T01:30:45Z</updated>
-    <id>tag:github.com,2023-01-25:/otoyo/astro-notion-blog</id>
-    <link href="https://github.com/otoyo/astro-notion-blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Let&#39;s start your own Notion Blog with Astro.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>markteekman/accessible-astro-starter</title>
+    <updated>2023-01-26T01:31:35Z</updated>
+    <id>tag:github.com,2023-01-26:/markteekman/accessible-astro-starter</id>
+    <link href="https://github.com/markteekman/accessible-astro-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Accessible Starter Theme for Astro including accessibility features such as landmarks, better focus-outline and skip-links navigation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

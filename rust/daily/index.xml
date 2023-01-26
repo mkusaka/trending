@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:45:45Z</updated>
+  <updated>2023-01-26T01:48:33Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>njsmith/posy</title>
-    <updated>2023-01-25T01:45:45Z</updated>
-    <id>tag:github.com,2023-01-25:/njsmith/posy</id>
-    <link href="https://github.com/njsmith/posy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>carzum/termviz</title>
-    <updated>2023-01-25T01:45:45Z</updated>
-    <id>tag:github.com,2023-01-25:/carzum/termviz</id>
-    <link href="https://github.com/carzum/termviz" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ROS visualisation on the terminal&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zurawiki/gptcommit</title>
-    <updated>2023-01-25T01:45:45Z</updated>
-    <id>tag:github.com,2023-01-25:/zurawiki/gptcommit</id>
-    <link href="https://github.com/zurawiki/gptcommit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A git prepare-commit-msg hook for authoring commit messages with GPT-3.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imsnif/bandwhich</title>
+    <updated>2023-01-26T01:48:33Z</updated>
+    <id>tag:github.com,2023-01-26:/imsnif/bandwhich</id>
+    <link href="https://github.com/imsnif/bandwhich" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terminal bandwidth utilization tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

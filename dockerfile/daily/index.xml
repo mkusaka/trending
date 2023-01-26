@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-25T01:33:46Z</updated>
+  <updated>2023-01-26T01:35:21Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dr007bot/Allin1mltb</title>
-    <updated>2023-01-25T01:33:46Z</updated>
-    <id>tag:github.com,2023-01-25:/dr007bot/Allin1mltb</id>
-    <link href="https://github.com/dr007bot/Allin1mltb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Anasty, WZML, RecloneMltb ကြိုက်ရာ repo run ဖို့လုပ်ထားပါတယ်။ upstream vars မှာသာ ကိုယ်သုံးချင်တဲ့ repo ဖြည့်ပြီး သူ့သက်ဆိုင်ရာ config.env ဖြည့်မှ error မတက်မှာပါ။ just for educational purpose only.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;အသုံးပြုပုံ(CONFIG_FILE_URLထုတ်ပုံ)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dr007bot/Allin1mltb/raw/manual/Manual/config.md&#34;&gt;Click here&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Render တွင် deploy ပုံ&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dr007bot/Allin1mltb/raw/manual/Manual/render.md&#34;&gt;Deploy On Render&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Github Action ဖြင့်သုံးပုံ&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dr007bot/Allin1mltb/raw/manual/Manual/GithubAction.md&#34;&gt;Run With Action😬Ban Risk&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Koyeb တွင် သုံးလိုလျှင်&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dr007bot/Allin1mltb/raw/manual/Manual/koyeb.md&#34;&gt;Deploy on koyeb&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Anasty, Wzml တို့တွင် /bsetting ချိန်နည်း&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dr007bot/Allin1mltb/raw/manual/Manual/bsetting.md&#34;&gt;/bsetting&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
