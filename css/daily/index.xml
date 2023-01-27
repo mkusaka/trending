@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-26T01:34:17Z</updated>
+  <updated>2023-01-27T01:32:30Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wesbos/What-The-Flexbox</title>
-    <updated>2023-01-26T01:34:17Z</updated>
-    <id>tag:github.com,2023-01-26:/wesbos/What-The-Flexbox</id>
-    <link href="https://github.com/wesbos/What-The-Flexbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercises for the What The Flexbox video series - available at Flexbox.io&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;What The Flexbox?!&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://flexbox.io/images/WTF/share.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Exercises for the &#34;What The Flexbox?!&#34; video course. Videos available at &lt;a href=&#34;http://flexbox.io&#34;&gt;http://flexbox.io&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Community What The Flexbox Content&lt;/h2&gt; &#xA;&lt;p&gt;Feel free to submit a PR adding a link to your own recaps, guides or reviews!&lt;/p&gt; &#xA;&lt;p&gt;My &lt;a href=&#34;https://herminiotorres.github.io/whattheflexbox&#34;&gt;gh-page&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/herminiotorres&#34;&gt;@herminiotorres&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>majahristova/Vs-slutproject</title>
+    <updated>2023-01-27T01:32:30Z</updated>
+    <id>tag:github.com,2023-01-27:/majahristova/Vs-slutproject</id>
+    <link href="https://github.com/majahristova/Vs-slutproject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jessopf/SmartyTemplates</title>
-    <updated>2023-01-26T01:34:17Z</updated>
-    <id>tag:github.com,2023-01-26:/jessopf/SmartyTemplates</id>
-    <link href="https://github.com/jessopf/SmartyTemplates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rikky0611/teach-PUI-2023S</title>
+    <updated>2023-01-27T01:32:30Z</updated>
+    <id>tag:github.com,2023-01-27:/rikky0611/teach-PUI-2023S</id>
+    <link href="https://github.com/rikky0611/teach-PUI-2023S" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Programming Usable Interfaces&lt;/h1&gt; &#xA;&lt;p&gt;👋 Welcome to PUI! Here is some essential information.&lt;/p&gt; &#xA;&lt;h2&gt;Setup tutorials&lt;/h2&gt; &#xA;&lt;p&gt;First, set up your system such that you can run examples and solve homework assignments efficiently. We have created step-by-step tutorials for you.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/rikky0611/teach-PUI-2023S/main/setup-tutorials/GithubSetup.md&#34;&gt;Github setup tutorial&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Development Environment setup: &lt;a href=&#34;https://raw.githubusercontent.com/rikky0611/teach-PUI-2023S/main/setup-tutorials/DeveloperEnvironment--Mac.md&#34;&gt;For Mac Users&lt;/a&gt; and &lt;a href=&#34;https://raw.githubusercontent.com/rikky0611/teach-PUI-2023S/main/setup-tutorials/DeveloperEnvironment--Win.md&#34;&gt;for Windows users&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Homework assignments setup and deployment&lt;/h2&gt; &#xA;&lt;p&gt;When you&#39;re done setting up your GitHub account and development environment, use this tutorial to set up a repository for all your homework assignments:&lt;/p&gt; &#xA;&lt;ol start=&#34;3&#34;&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/rikky0611/teach-PUI-2023S/main/setup-tutorials/HWDeployment.md&#34;&gt;Homework deployment on GitHub&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;When you&#39;re done, your homework repository will look like &lt;a href=&#34;https://github.com/rikky0611/teach-PUI-2023S-example&#34;&gt;&lt;strong&gt;this example repo&lt;/strong&gt;&lt;/a&gt;. You&#39;ll be able to add your code to your own repository and have it be visible in your own GitHub Pages site.&lt;/p&gt; &#xA;&lt;p&gt;You can find all in-class example in this repository.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/rikky0611/teach-PUI-2023S/main/in-lecture-examples/&#34;&gt;All lecture examples&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/rikky0611/teach-PUI-2023S/main/in-lab-examples/&#34;&gt;All lab examples&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>MultiverseLearningProducts/greeno-flowers</title>
+    <updated>2023-01-27T01:32:30Z</updated>
+    <id>tag:github.com,2023-01-27:/MultiverseLearningProducts/greeno-flowers</id>
+    <link href="https://github.com/MultiverseLearningProducts/greeno-flowers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Node/Express Web Application serving up a static html landing page&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Greeno Flowers&lt;/h1&gt; &#xA;&lt;p&gt;An Node/Express Web Application serving up a static html landing page&lt;/p&gt;</summary>
   </entry>
 </feed>

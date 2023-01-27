@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-26T01:30:18Z</updated>
+  <updated>2023-01-27T01:29:37Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bregman-arie/sre-checklist</title>
-    <updated>2023-01-26T01:30:18Z</updated>
-    <id>tag:github.com,2023-01-26:/bregman-arie/sre-checklist</id>
-    <link href="https://github.com/bregman-arie/sre-checklist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A checklist of anyone practicing Site Reliability Engineering&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hagezi/dns-blocklists</title>
+    <updated>2023-01-27T01:29:37Z</updated>
+    <id>tag:github.com,2023-01-27:/hagezi/dns-blocklists</id>
+    <link href="https://github.com/hagezi/dns-blocklists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DNS-Blocklists: For a better internet - keep the internet clean!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ProgrammingHero1/legal-solution-resources</title>
-    <updated>2023-01-26T01:30:18Z</updated>
-    <id>tag:github.com,2023-01-26:/ProgrammingHero1/legal-solution-resources</id>
-    <link href="https://github.com/ProgrammingHero1/legal-solution-resources" rel="alternate"></link>
+    <title>alanleedev/KoreaSecurityApps</title>
+    <updated>2023-01-27T01:29:37Z</updated>
+    <id>tag:github.com,2023-01-27:/alanleedev/KoreaSecurityApps</id>
+    <link href="https://github.com/alanleedev/KoreaSecurityApps" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Ignitetechnologies/Mindmap</title>
-    <updated>2023-01-26T01:30:18Z</updated>
-    <id>tag:github.com,2023-01-26:/Ignitetechnologies/Mindmap</id>
-    <link href="https://github.com/Ignitetechnologies/Mindmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>academind/react-native-practical-guide-code</title>
+    <updated>2023-01-27T01:29:37Z</updated>
+    <id>tag:github.com,2023-01-27:/academind/react-native-practical-guide-code</id>
+    <link href="https://github.com/academind/react-native-practical-guide-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course code &amp; attachments for our &#34;React Native - The Practical Guide&#34; (https://acad.link/react-native) course.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

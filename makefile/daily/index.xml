@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-26T01:42:25Z</updated>
+  <updated>2023-01-27T01:39:44Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Wishmasterflo/device_oneplus_opkona</title>
-    <updated>2023-01-26T01:42:25Z</updated>
-    <id>tag:github.com,2023-01-26:/Wishmasterflo/device_oneplus_opkona</id>
-    <link href="https://github.com/Wishmasterflo/device_oneplus_opkona" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Orangefox Recovery&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>remerge/ansible-role-scaleft</title>
-    <updated>2023-01-26T01:42:25Z</updated>
-    <id>tag:github.com,2023-01-26:/remerge/ansible-role-scaleft</id>
-    <link href="https://github.com/remerge/ansible-role-scaleft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Install ScaleFT repository and packages with Ansible.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

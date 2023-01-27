@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-26T01:31:31Z</updated>
+  <updated>2023-01-27T01:30:17Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bitsmuggler/arc42-c4-software-architecture-documentation-example</title>
-    <updated>2023-01-26T01:31:31Z</updated>
-    <id>tag:github.com,2023-01-26:/bitsmuggler/arc42-c4-software-architecture-documentation-example</id>
-    <link href="https://github.com/bitsmuggler/arc42-c4-software-architecture-documentation-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This example shows how you can use arc42 in combination with the C4 model and the Documentation as Code technique.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

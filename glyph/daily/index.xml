@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Glyph Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-26T01:37:24Z</updated>
+  <updated>2023-01-27T01:35:05Z</updated>
   <subtitle>Daily Trending of Glyph in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pointwise/ArrayCopyRotate</title>
-    <updated>2023-01-26T01:37:24Z</updated>
-    <id>tag:github.com,2023-01-26:/pointwise/ArrayCopyRotate</id>
-    <link href="https://github.com/pointwise/ArrayCopyRotate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Copy, rotate, and paste entities a prescribed number of times.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

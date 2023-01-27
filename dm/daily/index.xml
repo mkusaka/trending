@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-26T01:35:13Z</updated>
+  <updated>2023-01-27T01:33:15Z</updated>
   <subtitle>Daily Trending of DM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Bubberstation/Bubberstation</title>
-    <updated>2023-01-26T01:35:13Z</updated>
-    <id>tag:github.com,2023-01-26:/Bubberstation/Bubberstation</id>
-    <link href="https://github.com/Bubberstation/Bubberstation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

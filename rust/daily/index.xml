@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-26T01:48:33Z</updated>
+  <updated>2023-01-27T01:44:41Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>imsnif/bandwhich</title>
-    <updated>2023-01-26T01:48:33Z</updated>
-    <id>tag:github.com,2023-01-26:/imsnif/bandwhich</id>
-    <link href="https://github.com/imsnif/bandwhich" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terminal bandwidth utilization tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pdeljanov/Symphonia</title>
+    <updated>2023-01-27T01:44:41Z</updated>
+    <id>tag:github.com,2023-01-27:/pdeljanov/Symphonia</id>
+    <link href="https://github.com/pdeljanov/Symphonia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Rust multimedia format demuxing, tag reading, and audio decoding library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kenbyte/rbloom</title>
+    <updated>2023-01-27T01:44:41Z</updated>
+    <id>tag:github.com,2023-01-27:/kenbyte/rbloom</id>
+    <link href="https://github.com/kenbyte/rbloom" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast, simple and lightweight Bloom filter library for Python, fully implemented in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>conundrumer/audioscope</title>
+    <updated>2023-01-27T01:44:41Z</updated>
+    <id>tag:github.com,2023-01-27:/conundrumer/audioscope</id>
+    <link href="https://github.com/conundrumer/audioscope" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;audio visualizers true to the sound&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

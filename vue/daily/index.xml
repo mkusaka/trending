@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-26T01:52:18Z</updated>
+  <updated>2023-01-27T01:47:53Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DeterminateSystems/zero-to-nix</title>
-    <updated>2023-01-26T01:52:18Z</updated>
-    <id>tag:github.com,2023-01-26:/DeterminateSystems/zero-to-nix</id>
-    <link href="https://github.com/DeterminateSystems/zero-to-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>evolutio/github_vuewer</title>
+    <updated>2023-01-27T01:47:53Z</updated>
+    <id>tag:github.com,2023-01-27:/evolutio/github_vuewer</id>
+    <link href="https://github.com/evolutio/github_vuewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mini app pra ensinar vue.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Gomah/bluise</title>
-    <updated>2023-01-26T01:52:18Z</updated>
-    <id>tag:github.com,2023-01-26:/Gomah/bluise</id>
-    <link href="https://github.com/Gomah/bluise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍄 Bluise - A Nuxt.js &amp; Netlify CMS boilerplate.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WeakAuras/WeakAuras-Companion</title>
+    <updated>2023-01-27T01:47:53Z</updated>
+    <id>tag:github.com,2023-01-27:/WeakAuras/WeakAuras-Companion</id>
+    <link href="https://github.com/WeakAuras/WeakAuras-Companion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform application built to provide the missing link between Wago.io and World of Warcraft&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matter-labs/zksync-wallet-vue</title>
-    <updated>2023-01-26T01:52:18Z</updated>
-    <id>tag:github.com,2023-01-26:/matter-labs/zksync-wallet-vue</id>
-    <link href="https://github.com/matter-labs/zksync-wallet-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;zkSync web wallet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GeoGuess/GeoGuess</title>
+    <updated>2023-01-27T01:47:53Z</updated>
+    <id>tag:github.com,2023-01-27:/GeoGuess/GeoGuess</id>
+    <link href="https://github.com/GeoGuess/GeoGuess" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
