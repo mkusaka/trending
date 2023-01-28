@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:32:00Z</updated>
+  <updated>2023-01-28T01:32:02Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aminosbh/flying-plane-sdl-animation</title>
-    <updated>2023-01-27T01:32:00Z</updated>
-    <id>tag:github.com,2023-01-27:/aminosbh/flying-plane-sdl-animation</id>
-    <link href="https://github.com/aminosbh/flying-plane-sdl-animation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project is written in C and uses CMake as a build system. It shows how we can make a basic animation using SDL2 : Flying plane. Mirror of https://gitlab.com/aminosbh/flying-plane-sdl-animation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aminosbh/basic-c-sdl-project-tunisia-flag</title>
-    <updated>2023-01-27T01:32:00Z</updated>
-    <id>tag:github.com,2023-01-27:/aminosbh/basic-c-sdl-project-tunisia-flag</id>
-    <link href="https://github.com/aminosbh/basic-c-sdl-project-tunisia-flag" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic C SDL2 project with CMake. It draws the flag of Tunisia using basic graphics primitives. Mirror of https://gitlab.com/aminosbh/basic-c-sdl-project-tunisia-flag&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aminosbh/sdl2-image-sample</title>
-    <updated>2023-01-27T01:32:00Z</updated>
-    <id>tag:github.com,2023-01-27:/aminosbh/sdl2-image-sample</id>
-    <link href="https://github.com/aminosbh/sdl2-image-sample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic sample that demonstrates the usage of SDL2 and SDL2_image libraries with CMake. Mirror of https://gitlab.com/aminosbh/sdl2-image-sample&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

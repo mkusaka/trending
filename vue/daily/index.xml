@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:47:53Z</updated>
+  <updated>2023-01-28T01:48:22Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>evolutio/github_vuewer</title>
-    <updated>2023-01-27T01:47:53Z</updated>
-    <id>tag:github.com,2023-01-27:/evolutio/github_vuewer</id>
-    <link href="https://github.com/evolutio/github_vuewer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mini app pra ensinar vue.js&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>willmarple/vue3-pinia</title>
+    <updated>2023-01-28T01:48:22Z</updated>
+    <id>tag:github.com,2023-01-28:/willmarple/vue3-pinia</id>
+    <link href="https://github.com/willmarple/vue3-pinia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WeakAuras/WeakAuras-Companion</title>
-    <updated>2023-01-27T01:47:53Z</updated>
-    <id>tag:github.com,2023-01-27:/WeakAuras/WeakAuras-Companion</id>
-    <link href="https://github.com/WeakAuras/WeakAuras-Companion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross-platform application built to provide the missing link between Wago.io and World of Warcraft&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>4xmen/Anubias-Desktop</title>
+    <updated>2023-01-28T01:48:22Z</updated>
+    <id>tag:github.com,2023-01-28:/4xmen/Anubias-Desktop</id>
+    <link href="https://github.com/4xmen/Anubias-Desktop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GeoGuess/GeoGuess</title>
-    <updated>2023-01-27T01:47:53Z</updated>
-    <id>tag:github.com,2023-01-27:/GeoGuess/GeoGuess</id>
-    <link href="https://github.com/GeoGuess/GeoGuess" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Craft-honey-team/Craft-honey</title>
+    <updated>2023-01-28T01:48:22Z</updated>
+    <id>tag:github.com,2023-01-28:/Craft-honey-team/Craft-honey</id>
+    <link href="https://github.com/Craft-honey-team/Craft-honey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

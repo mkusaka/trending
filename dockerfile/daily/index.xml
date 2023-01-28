@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:33:21Z</updated>
+  <updated>2023-01-28T01:33:23Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cv-library/docker-mountebank</title>
+    <updated>2023-01-28T01:33:23Z</updated>
+    <id>tag:github.com,2023-01-28:/cv-library/docker-mountebank</id>
+    <link href="https://github.com/cv-library/docker-mountebank" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mountebank docker image&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docker-mountebank&lt;/h1&gt; &#xA;&lt;p&gt;Mountebank docker image&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>cv-library/docker-geckodriver</title>
+    <updated>2023-01-28T01:33:23Z</updated>
+    <id>tag:github.com,2023-01-28:/cv-library/docker-geckodriver</id>
+    <link href="https://github.com/cv-library/docker-geckodriver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;geckodriver inside docker, with Firefox from Debian sid&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;geckodriver under docker&lt;/h1&gt; &#xA;&lt;p&gt;This repository can build a docker image containing geckodriver and Firefox. It also contains a docker-compose file to orchestrate running them against Xvfb, with x11vnc.&lt;/p&gt; &#xA;&lt;p&gt;Run &lt;code&gt;docker-compose up&lt;/code&gt;, and geckodriver will listen on port 4444. x11vnc will listen on port 5900.&lt;/p&gt; &#xA;&lt;h2&gt;Versions&lt;/h2&gt; &#xA;&lt;p&gt;Currently geckodriver 0.28 is installed along with the latest Firefox package from Debian sid.&lt;/p&gt; &#xA;&lt;h2&gt;Customising Firefox profile&lt;/h2&gt; &#xA;&lt;p&gt;To add extra certificates, preferences etc., see the geckodriver documentation for how to set the Firefox profile via WebDriver capabilities: &lt;a href=&#34;https://github.com/mozilla/geckodriver#capabilities-examples&#34;&gt;https://github.com/mozilla/geckodriver#capabilities-examples&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

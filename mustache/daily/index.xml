@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:40:31Z</updated>
+  <updated>2023-01-28T01:40:32Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PacktPublishing/The-Kubernetes-Bible</title>
-    <updated>2023-01-27T01:40:31Z</updated>
-    <id>tag:github.com,2023-01-27:/PacktPublishing/The-Kubernetes-Bible</id>
-    <link href="https://github.com/PacktPublishing/The-Kubernetes-Bible" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Kubernetes Bible, published by Packt&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

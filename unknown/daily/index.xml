@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:29:37Z</updated>
+  <updated>2023-01-28T01:29:27Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hagezi/dns-blocklists</title>
-    <updated>2023-01-27T01:29:37Z</updated>
-    <id>tag:github.com,2023-01-27:/hagezi/dns-blocklists</id>
-    <link href="https://github.com/hagezi/dns-blocklists" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DNS-Blocklists: For a better internet - keep the internet clean!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dypsilon/frontend-dev-bookmarks</title>
+    <updated>2023-01-28T01:29:27Z</updated>
+    <id>tag:github.com,2023-01-28:/dypsilon/frontend-dev-bookmarks</id>
+    <link href="https://github.com/dypsilon/frontend-dev-bookmarks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manually curated collection of resources for frontend web developers.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alanleedev/KoreaSecurityApps</title>
-    <updated>2023-01-27T01:29:37Z</updated>
-    <id>tag:github.com,2023-01-27:/alanleedev/KoreaSecurityApps</id>
-    <link href="https://github.com/alanleedev/KoreaSecurityApps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alt3kx/CVE-2023-24055_PoC</title>
+    <updated>2023-01-28T01:29:27Z</updated>
+    <id>tag:github.com,2023-01-28:/alt3kx/CVE-2023-24055_PoC</id>
+    <link href="https://github.com/alt3kx/CVE-2023-24055_PoC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVE-2023-24055 PoC (KeePass 2.5x)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>academind/react-native-practical-guide-code</title>
-    <updated>2023-01-27T01:29:37Z</updated>
-    <id>tag:github.com,2023-01-27:/academind/react-native-practical-guide-code</id>
-    <link href="https://github.com/academind/react-native-practical-guide-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Course code &amp; attachments for our &#34;React Native - The Practical Guide&#34; (https://acad.link/react-native) course.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kmcquade/awesome-azure-security</title>
+    <updated>2023-01-28T01:29:27Z</updated>
+    <id>tag:github.com,2023-01-28:/kmcquade/awesome-azure-security</id>
+    <link href="https://github.com/kmcquade/awesome-azure-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

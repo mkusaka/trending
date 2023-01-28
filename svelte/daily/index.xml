@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:46:17Z</updated>
+  <updated>2023-01-28T01:46:33Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>KTibow/m3-svelte</title>
-    <updated>2023-01-27T01:46:17Z</updated>
-    <id>tag:github.com,2023-01-27:/KTibow/m3-svelte</id>
-    <link href="https://github.com/KTibow/m3-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An attempt to make Material 3 in Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

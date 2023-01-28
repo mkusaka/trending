@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:31:54Z</updated>
+  <updated>2023-01-28T01:31:55Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>borkdude/carve</title>
-    <updated>2023-01-27T01:31:54Z</updated>
-    <id>tag:github.com,2023-01-27:/borkdude/carve</id>
-    <link href="https://github.com/borkdude/carve" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Remove unused Clojure vars&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jsl/sudoku</title>
+    <updated>2023-01-28T01:31:55Z</updated>
+    <id>tag:github.com,2023-01-28:/jsl/sudoku</id>
+    <link href="https://github.com/jsl/sudoku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple sudoku solver&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wilkerlucio/pathom3</title>
+    <updated>2023-01-28T01:31:55Z</updated>
+    <id>tag:github.com,2023-01-28:/wilkerlucio/pathom3</id>
+    <link href="https://github.com/wilkerlucio/pathom3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library for navigating data.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

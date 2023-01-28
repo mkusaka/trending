@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:34:45Z</updated>
+  <updated>2023-01-28T01:34:55Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rakugoteam/Rakugo</title>
-    <updated>2023-01-27T01:34:45Z</updated>
-    <id>tag:github.com,2023-01-27:/rakugoteam/Rakugo</id>
-    <link href="https://github.com/rakugoteam/Rakugo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inspired by Ren&#39;Py, Rakugo is a project aiming to provide a way to make narrative-based games on Godot easily. Simplify your project, if it is a visual novel, point and click, RPG, interactive text game or many other styles and blends of styles.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>marc-jones/game-off-2022</title>
-    <updated>2023-01-27T01:34:45Z</updated>
-    <id>tag:github.com,2023-01-27:/marc-jones/game-off-2022</id>
-    <link href="https://github.com/marc-jones/game-off-2022" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

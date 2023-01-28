@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-27T01:44:47Z</updated>
+  <updated>2023-01-28T01:44:58Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leisuremeta/leisuremeta-chain</title>
+    <updated>2023-01-28T01:44:58Z</updated>
+    <id>tag:github.com,2023-01-28:/leisuremeta/leisuremeta-chain</id>
+    <link href="https://github.com/leisuremeta/leisuremeta-chain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LeisureMeta&lt;/h1&gt; &#xA;&lt;h2&gt;LM Scan&lt;/h2&gt; &#xA;&lt;h3&gt;Dev Mode&lt;/h3&gt; &#xA;&lt;h4&gt;Run Backend&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt ~lmscanBackend/reStart&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Run ScalaJS&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt ~lmscanFrontend/fastLinkJS&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Run Frontend&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd modules/lmscan-frontend&#xA;yarn start&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Build Mode&lt;/h3&gt; &#xA;&lt;h4&gt;Assembly Backend&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt lmscanBackend/assembly&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Build ScalaJS&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;sbt lmscanFrontend/fullLinkJS&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Build Frontend&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd modules/lmscan-frontend&#xA;yarn build&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>
