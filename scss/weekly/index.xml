@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T02:06:05Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ClearVision/ClearVision-v6</title>
+    <updated>2023-01-29T02:06:05Z</updated>
+    <id>tag:github.com,2023-01-29:/ClearVision/ClearVision-v6</id>
+    <link href="https://github.com/ClearVision/ClearVision-v6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highly customizable theme for BetterDiscord.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/paper-kit-react</title>
+    <updated>2023-01-29T02:06:05Z</updated>
+    <id>tag:github.com,2023-01-29:/creativetimofficial/paper-kit-react</id>
+    <link href="https://github.com/creativetimofficial/paper-kit-react" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;React version of Paper Kit 2 by Creative Tim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DiscordStyles/SoftX</title>
+    <updated>2023-01-29T02:06:05Z</updated>
+    <id>tag:github.com,2023-01-29:/DiscordStyles/SoftX</id>
+    <link href="https://github.com/DiscordStyles/SoftX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A soft and comfy feel for Discord.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

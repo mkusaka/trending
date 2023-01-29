@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T01:53:26Z</updated>
+  <subtitle>Weekly Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LandmakTechnology/Dockerfiles</title>
+    <updated>2023-01-29T01:53:26Z</updated>
+    <id>tag:github.com,2023-01-29:/LandmakTechnology/Dockerfiles</id>
+    <link href="https://github.com/LandmakTechnology/Dockerfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Dockerfiles&lt;/h1&gt; &#xA;&lt;p&gt;docker build -f DockerfileName -t imageName&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Hacking-the-Cloud/hackingthe.cloud</title>
+    <updated>2023-01-29T01:53:26Z</updated>
+    <id>tag:github.com,2023-01-29:/Hacking-the-Cloud/hackingthe.cloud</id>
+    <link href="https://github.com/Hacking-the-Cloud/hackingthe.cloud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An encyclopedia for offensive and defensive security knowledge in cloud native technologies.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hackingthe.cloud &lt;img src=&#34;https://github.com/Hacking-the-Cloud/hackingthe.cloud/workflows/Deploy/badge.svg?sanitize=true&#34; alt=&#34;Deploy&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure. The goal is to share this knowledge with the security community to better defend cloud environments.&lt;/p&gt; &#xA;&lt;p&gt;All content on this site is created by volunteers. If you&#39;d like to be one of them, you can contribute your knowledge by submitting a &lt;a href=&#34;https://github.com/Hacking-the-Cloud/hackingthe.cloud/pulls&#34;&gt;Pull Request&lt;/a&gt;. We are open to content from any major cloud provider and will also accept cloud-related technologies as well (Docker, Terraform, K8s, etc.). Additionally you are encouraged to update/modify/improve existing pages as well.&lt;/p&gt; &#xA;&lt;p&gt;Topics can include offensive techniques, tools, general knowledge related to cloud security, etc. &lt;strong&gt;Defensive knowledge is also welcome!&lt;/strong&gt; At the end of the day the primary goal is to make the cloud safer, and defenders are welcome to submit content all the same.&lt;/p&gt; &#xA;&lt;p&gt;Don&#39;t worry about submitting content in the wrong format or what section it should be a part of, we can always make improvements later :) When writing content: do try to credit the researcher who discovered it and link to their site/talk.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Please review the &lt;a href=&#34;https://raw.githubusercontent.com/Hacking-the-Cloud/hackingthe.cloud/main/CONTRIBUTING.md&#34;&gt;contributing guidelines&lt;/a&gt; to see how you can add to the site!&lt;/p&gt; &#xA;&lt;h2&gt;Roadmap&lt;/h2&gt; &#xA;&lt;p&gt;Currently the site has some material on AWS, and very little for Azure or GCP. If you have experience in any of those areas you are welcome to submit content. Even something as small as fixing grammar mistakes or adding a screenshot is appreciated!&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>moriuoo/yonggekkk-doprax-xray</title>
+    <updated>2023-01-29T01:53:26Z</updated>
+    <id>tag:github.com,2023-01-29:/moriuoo/yonggekkk-doprax-xray</id>
+    <link href="https://github.com/moriuoo/yonggekkk-doprax-xray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;23.1.12突发更新：由于突然使用人数爆涨，伪装页面出现Bad Gateway或者404页面。。。节点可能不通。。。建议避开目前的高峰期！！&lt;/h2&gt; &#xA;&lt;h4&gt;唯一注意的是一定要随便改个项目名称&lt;/h4&gt; &#xA;&lt;h4&gt;注意此节点仅做备用节点用，主力还是算了吧。。。&lt;/h4&gt; &#xA;&lt;p&gt;点击fork、点击绿色的use this template（Create a new repository）、自己下载上传、甚至可以不通过github，每个文件直接上传到doprax上。。。。都可以&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ygkkk.blogspot.com/2023/01/doprax-xray-v2ray-cdn.html&#34;&gt;相关文字视频教程请点击&lt;/a&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gitlab.com/rwkgyg/doprax-xray&#34;&gt;本项目备份地址&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h4&gt;鸣谢表：&lt;/h4&gt; &#xA;&lt;p&gt;静态伪装站取自&lt;a href=&#34;https://github.com/mack-a/v2ray-agent&#34;&gt;mack-a&lt;/a&gt;，参考项目&lt;a href=&#34;https://github.com/hiifeng/V2ray-for-Doprax&#34;&gt;hiifeng&lt;/a&gt;、&lt;a href=&#34;https://github.com/fscarmen2/V2-for-Doprax&#34;&gt;fscarmen&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

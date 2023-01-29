@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-28T01:33:23Z</updated>
+  <updated>2023-01-29T01:34:07Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cv-library/docker-mountebank</title>
-    <updated>2023-01-28T01:33:23Z</updated>
-    <id>tag:github.com,2023-01-28:/cv-library/docker-mountebank</id>
-    <link href="https://github.com/cv-library/docker-mountebank" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mountebank docker image&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;docker-mountebank&lt;/h1&gt; &#xA;&lt;p&gt;Mountebank docker image&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>cv-library/docker-geckodriver</title>
-    <updated>2023-01-28T01:33:23Z</updated>
-    <id>tag:github.com,2023-01-28:/cv-library/docker-geckodriver</id>
-    <link href="https://github.com/cv-library/docker-geckodriver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;geckodriver inside docker, with Firefox from Debian sid&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;geckodriver under docker&lt;/h1&gt; &#xA;&lt;p&gt;This repository can build a docker image containing geckodriver and Firefox. It also contains a docker-compose file to orchestrate running them against Xvfb, with x11vnc.&lt;/p&gt; &#xA;&lt;p&gt;Run &lt;code&gt;docker-compose up&lt;/code&gt;, and geckodriver will listen on port 4444. x11vnc will listen on port 5900.&lt;/p&gt; &#xA;&lt;h2&gt;Versions&lt;/h2&gt; &#xA;&lt;p&gt;Currently geckodriver 0.28 is installed along with the latest Firefox package from Debian sid.&lt;/p&gt; &#xA;&lt;h2&gt;Customising Firefox profile&lt;/h2&gt; &#xA;&lt;p&gt;To add extra certificates, preferences etc., see the geckodriver documentation for how to set the Firefox profile via WebDriver capabilities: &lt;a href=&#34;https://github.com/mozilla/geckodriver#capabilities-examples&#34;&gt;https://github.com/mozilla/geckodriver#capabilities-examples&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>duckietown/template-ros</title>
+    <updated>2023-01-29T01:34:07Z</updated>
+    <id>tag:github.com,2023-01-29:/duckietown/template-ros</id>
+    <link href="https://github.com/duckietown/template-ros" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template repository for ROS code&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Template: template-ros&lt;/h1&gt; &#xA;&lt;p&gt;This template provides a boilerplate repository for developing ROS-based software in Duckietown.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; If you want to develop software that does not use ROS, check out &lt;a href=&#34;https://github.com/duckietown/template-basic&#34;&gt;this template&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;How to use it&lt;/h2&gt; &#xA;&lt;h3&gt;1. Fork this repository&lt;/h3&gt; &#xA;&lt;p&gt;Use the fork button in the top-right corner of the github page to fork this template repository.&lt;/p&gt; &#xA;&lt;h3&gt;2. Create a new repository&lt;/h3&gt; &#xA;&lt;p&gt;Create a new repository on github.com while specifying the newly forked template repository as a template for your new repository.&lt;/p&gt; &#xA;&lt;h3&gt;3. Define dependencies&lt;/h3&gt; &#xA;&lt;p&gt;List the dependencies in the files &lt;code&gt;dependencies-apt.txt&lt;/code&gt; and &lt;code&gt;dependencies-py3.txt&lt;/code&gt; (apt packages and pip packages respectively).&lt;/p&gt; &#xA;&lt;h3&gt;4. Place your code&lt;/h3&gt; &#xA;&lt;p&gt;Place your code in the directory &lt;code&gt;/packages/&lt;/code&gt; of your new repository.&lt;/p&gt; &#xA;&lt;h3&gt;5. Setup launchers&lt;/h3&gt; &#xA;&lt;p&gt;The directory &lt;code&gt;/launchers&lt;/code&gt; can contain as many launchers (launching scripts) as you want. A default launcher called &lt;code&gt;default.sh&lt;/code&gt; must always be present.&lt;/p&gt; &#xA;&lt;p&gt;If you create an executable script (i.e., a file with a valid shebang statement) a launcher will be created for it. For example, the script file &lt;code&gt;/launchers/my-launcher.sh&lt;/code&gt; will be available inside the Docker image as the binary &lt;code&gt;dt-launcher-my-launcher&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;When launching a new container, you can simply provide &lt;code&gt;dt-launcher-my-launcher&lt;/code&gt; as command.&lt;/p&gt;</summary>
   </entry>
 </feed>

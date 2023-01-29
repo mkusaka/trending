@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Awk Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T01:50:43Z</updated>
+  <subtitle>Weekly Trending of Awk in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheMozg/awk-raycaster</title>
+    <updated>2023-01-29T01:50:43Z</updated>
+    <id>tag:github.com,2023-01-29:/TheMozg/awk-raycaster</id>
+    <link href="https://github.com/TheMozg/awk-raycaster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pseudo-3D shooter written completely in gawk using raycasting technique&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

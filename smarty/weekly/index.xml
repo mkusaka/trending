@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T02:06:51Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rhte2023-argo-rollouts/dstrategies-app-deployment</title>
+    <updated>2023-01-29T02:06:51Z</updated>
+    <id>tag:github.com,2023-01-29:/rhte2023-argo-rollouts/dstrategies-app-deployment</id>
+    <link href="https://github.com/rhte2023-argo-rollouts/dstrategies-app-deployment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains the required objects to deploy dstrategies application in a GitOps way&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>snyk/snyk-broker-helm</title>
+    <updated>2023-01-29T02:06:51Z</updated>
+    <id>tag:github.com,2023-01-29:/snyk/snyk-broker-helm</id>
+    <link href="https://github.com/snyk/snyk-broker-helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>equinixmetal-helm/krakend</title>
+    <updated>2023-01-29T02:06:51Z</updated>
+    <id>tag:github.com,2023-01-29:/equinixmetal-helm/krakend</id>
+    <link href="https://github.com/equinixmetal-helm/krakend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A helm chart to deploy krakend using the assumptions from the infratographer project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

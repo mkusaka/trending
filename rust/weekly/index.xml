@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rust Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T02:05:43Z</updated>
+  <subtitle>Weekly Trending of Rust in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>H-M-H/Weylus</title>
+    <updated>2023-01-29T02:05:43Z</updated>
+    <id>tag:github.com,2023-01-29:/H-M-H/Weylus</id>
+    <link href="https://github.com/H-M-H/Weylus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use your tablet as graphic tablet/touch screen on your computer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>libsql/sqld</title>
+    <updated>2023-01-29T02:05:43Z</updated>
+    <id>tag:github.com,2023-01-29:/libsql/sqld</id>
+    <link href="https://github.com/libsql/sqld" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sqld is a server mode for libSQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>juspay/hyperswitch</title>
+    <updated>2023-01-29T02:05:43Z</updated>
+    <id>tag:github.com,2023-01-29:/juspay/hyperswitch</id>
+    <link href="https://github.com/juspay/hyperswitch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Open Source Financial Switch to make Payments fast, reliable and affordable&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

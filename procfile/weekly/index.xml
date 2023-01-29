@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Procfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T02:03:55Z</updated>
+  <subtitle>Weekly Trending of Procfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ITZ-ZAID/Scalingo</title>
+    <updated>2023-01-29T02:03:55Z</updated>
+    <id>tag:github.com,2023-01-29:/ITZ-ZAID/Scalingo</id>
+    <link href="https://github.com/ITZ-ZAID/Scalingo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Script to host on scalingo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thejmthon/scalingo</title>
+    <updated>2023-01-29T02:03:55Z</updated>
+    <id>tag:github.com,2023-01-29:/thejmthon/scalingo</id>
+    <link href="https://github.com/thejmthon/scalingo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploy jmthon userbot on Scalingo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

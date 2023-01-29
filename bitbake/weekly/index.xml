@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BitBake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T01:50:59Z</updated>
+  <subtitle>Weekly Trending of BitBake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BadgerTechnologies/meta-intel</title>
+    <updated>2023-01-29T01:50:59Z</updated>
+    <id>tag:github.com,2023-01-29:/BadgerTechnologies/meta-intel</id>
+    <link href="https://github.com/BadgerTechnologies/meta-intel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;meta-intel cloned from https://git.yoctoproject.org/meta-intel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

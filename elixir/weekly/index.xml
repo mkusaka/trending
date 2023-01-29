@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T01:54:08Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elixir-ecto/postgrex</title>
+    <updated>2023-01-29T01:54:08Z</updated>
+    <id>tag:github.com,2023-01-29:/elixir-ecto/postgrex</id>
+    <link href="https://github.com/elixir-ecto/postgrex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PostgreSQL driver for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pentacent/keila</title>
+    <updated>2023-01-29T01:54:08Z</updated>
+    <id>tag:github.com,2023-01-29:/pentacent/keila</id>
+    <link href="https://github.com/pentacent/keila" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Newsletter Tool.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

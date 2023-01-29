@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T02:04:17Z</updated>
+  <subtitle>Weekly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-functors</title>
+    <updated>2023-01-29T02:04:17Z</updated>
+    <id>tag:github.com,2023-01-29:/purescript/purescript-functors</id>
+    <link href="https://github.com/purescript/purescript-functors" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functor products, coproducts, and composition&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-tuples</title>
+    <updated>2023-01-29T02:04:17Z</updated>
+    <id>tag:github.com,2023-01-29:/purescript/purescript-tuples</id>
+    <link href="https://github.com/purescript/purescript-tuples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tuple data type and utility functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

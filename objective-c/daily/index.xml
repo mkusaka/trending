@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-28T01:41:12Z</updated>
+  <updated>2023-01-29T01:42:19Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>phycctv/Projet-im</title>
-    <updated>2023-01-28T01:41:12Z</updated>
-    <id>tag:github.com,2023-01-28:/phycctv/Projet-im</id>
-    <link href="https://github.com/phycctv/Projet-im" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk</title>
-    <updated>2023-01-28T01:41:12Z</updated>
-    <id>tag:github.com,2023-01-28:/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk</id>
-    <link href="https://github.com/GoogleCloudPlatform/recaptcha-enterprise-mobile-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;recaptcha-enterprise&lt;/h1&gt; &#xA;&lt;p&gt;Please see the &lt;a href=&#34;https://cloud.google.com/recaptcha-enterprise/docs/instrument-ios-apps&#34;&gt;instructions&lt;/a&gt; to integrate reCAPTCHA Enterprise with your iOS application.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-28T01:40:55Z</updated>
+  <updated>2023-01-29T01:42:04Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>badele/nix-homelab</title>
-    <updated>2023-01-28T01:40:55Z</updated>
-    <id>tag:github.com,2023-01-28:/badele/nix-homelab</id>
-    <link href="https://github.com/badele/nix-homelab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NixOS homelab&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>timbertson/runix</title>
-    <updated>2023-01-28T01:40:55Z</updated>
-    <id>tag:github.com,2023-01-28:/timbertson/runix</id>
-    <link href="https://github.com/timbertson/runix" rel="alternate"></link>
+    <title>obsidiansystems/ledger-app-sui</title>
+    <updated>2023-01-29T01:42:04Z</updated>
+    <id>tag:github.com,2023-01-29:/obsidiansystems/ledger-app-sui</id>
+    <link href="https://github.com/obsidiansystems/ledger-app-sui" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

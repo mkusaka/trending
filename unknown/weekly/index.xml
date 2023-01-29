@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T01:49:43Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>google-research/tuning_playbook</title>
+    <updated>2023-01-29T01:49:43Z</updated>
+    <id>tag:github.com,2023-01-29:/google-research/tuning_playbook</id>
+    <link href="https://github.com/google-research/tuning_playbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A playbook for systematically maximizing the performance of deep learning models.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>annfelix/DEVOPS-WORLD</title>
+    <updated>2023-01-29T01:49:43Z</updated>
+    <id>tag:github.com,2023-01-29:/annfelix/DEVOPS-WORLD</id>
+    <link href="https://github.com/annfelix/DEVOPS-WORLD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alanleedev/KoreaSecurityApps</title>
+    <updated>2023-01-29T01:49:43Z</updated>
+    <id>tag:github.com,2023-01-29:/alanleedev/KoreaSecurityApps</id>
+    <link href="https://github.com/alanleedev/KoreaSecurityApps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

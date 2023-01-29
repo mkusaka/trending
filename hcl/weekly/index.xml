@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T01:56:25Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudposse/terraform-aws-s3-bucket</title>
+    <updated>2023-01-29T01:56:25Z</updated>
+    <id>tag:github.com,2023-01-29:/cloudposse/terraform-aws-s3-bucket</id>
+    <link href="https://github.com/cloudposse/terraform-aws-s3-bucket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

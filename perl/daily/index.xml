@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-28T01:41:59Z</updated>
+  <updated>2023-01-29T01:43:10Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cv-library/Plack-Middleware-Apache2CGIFix</title>
-    <updated>2023-01-28T01:41:59Z</updated>
-    <id>tag:github.com,2023-01-28:/cv-library/Plack-Middleware-Apache2CGIFix</id>
-    <link href="https://github.com/cv-library/Plack-Middleware-Apache2CGIFix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hacks for Plack and CGI under Apache2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cv-library/UUID4-Tiny</title>
-    <updated>2023-01-28T01:41:59Z</updated>
-    <id>tag:github.com,2023-01-28:/cv-library/UUID4-Tiny</id>
-    <link href="https://github.com/cv-library/UUID4-Tiny" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NAME&lt;/h1&gt; &#xA;&lt;p&gt;UUID4::Tiny - Cryptographically secure v4 UUIDs for Linux x64&lt;/p&gt; &#xA;&lt;h1&gt;VERSION&lt;/h1&gt; &#xA;&lt;p&gt;version 0.002&lt;/p&gt; &#xA;&lt;h1&gt;SYNOPSIS&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;use UUID4::Tiny qw/&#xA;   create_uuid&#xA;   create_uuid_string&#xA;   is_uuid_string&#xA;   is_uuid4_string&#xA;   string_to_uuid&#xA;   uuid_to_string&#xA;   /;&#xA;&#xA;my $uuid        = create_uuid;&#xA;my $uuid_string = create_uuid_string;&#xA;&#xA;$uuid        = string_to_uuid $uuid_string;&#xA;$uuid_string = uuid_to_string $uuid;&#xA;&#xA;if ( is_uuid4_string $uuid_string ) { ... }&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;DESCRIPTION&lt;/h1&gt; &#xA;&lt;p&gt;Uses the Linux getrandom() system call to generate a version 4 UUID.&lt;/p&gt; &#xA;&lt;p&gt;Requires Linux kernel 3.17 or newer for getrandom().&lt;/p&gt; &#xA;&lt;h1&gt;FUNCTIONS&lt;/h1&gt; &#xA;&lt;h2&gt;create_uuid&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;my $uuid = create_uuid;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Gets a series of 16 random bytes via the getrandom() system call and sets the UUID4 version and variant on those bytes. Dies with a message containing the errno if the call to getrandom() fails.&lt;/p&gt; &#xA;&lt;h2&gt;uuid_to_string&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;my $uuid_string = uuid_to_string( create_uuid );&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Converts a 16 byte UUID to a canonical 8-4-4-4-12 format UUID string.&lt;/p&gt; &#xA;&lt;h2&gt;create_uuid_string&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;my $uuid_string = create_uuid_string;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Shortcut for uuid_to_string called on create_uuid.&lt;/p&gt; &#xA;&lt;h2&gt;string_to_uuid&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;my $uuid = string_to_uuid( $uuid_string );&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Converts a canonical 8-4-4-4-12 format UUID string to a 16 byte UUID.&lt;/p&gt; &#xA;&lt;h2&gt;is_uuid_string&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;if ( is_uuid_string( $input ) ) { ... }&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Checks if the input matches the canonical 8-4-4-4-12 format.&lt;/p&gt; &#xA;&lt;h2&gt;is_uuid4_string&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;if ( is_uuid4_string( $input ) ) { ... }&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Similar to is_uuid_string, additionaly checking that the variant and version are correct for UUID v4.&lt;/p&gt; &#xA;&lt;h1&gt;SEE ALSO&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://metacpan.org/pod/UUID::URandom&#34;&gt;UUID::URandom&lt;/a&gt; - A portable UUID v4 generator using &lt;a href=&#34;https://metacpan.org/pod/Crypt::URandom&#34;&gt;Crypt::URandom&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://metacpan.org/pod/UUID::Tiny&#34;&gt;UUID::Tiny&lt;/a&gt; - Creates version 1, 3, 4 and 5 UUIDs (not cryptographically strong due to rand() usage).&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;AUTHOR&lt;/h1&gt; &#xA;&lt;p&gt;CV-Library &lt;a href=&#34;mailto:cvlibrary@cpan.org&#34;&gt;cvlibrary@cpan.org&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;COPYRIGHT AND LICENSE&lt;/h1&gt; &#xA;&lt;p&gt;This software is copyright (c) 2019 by CV-Library.&lt;/p&gt; &#xA;&lt;p&gt;This is free software; you can redistribute it and/or modify it under the same terms as the Perl 5 programming language system itself.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>cv-library/docker-perl</title>
-    <updated>2023-01-28T01:41:59Z</updated>
-    <id>tag:github.com,2023-01-28:/cv-library/docker-perl</id>
-    <link href="https://github.com/cv-library/docker-perl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://quay.io/repository/cvlibrary/perl&#34;&gt;&lt;img src=&#34;https://quay.io/repository/cvlibrary/perl/status&#34; alt=&#34;Docker Repository on Quay.io&#34; title=&#34;Docker Repository on Quay.io&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>ytnobody/App-Shiroh</title>
+    <updated>2023-01-29T01:43:10Z</updated>
+    <id>tag:github.com,2023-01-29:/ytnobody/App-Shiroh</id>
+    <link href="https://github.com/ytnobody/App-Shiroh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CLI posting tool for twitter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NAME&lt;/h1&gt; &#xA;&lt;p&gt;App::Shiroh - CLI posting tool for twitter&lt;/p&gt; &#xA;&lt;h1&gt;SYNOPSIS&lt;/h1&gt; &#xA;&lt;p&gt;In your shell,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ shiroh &#39;俺がメッセージだ&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;or&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ echo &#39;俺こそ真のメッセージだ&#39; | shiroh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;DESCRIPTION&lt;/h1&gt; &#xA;&lt;p&gt;App::Shiroh is a CLI posting tool for twitter&lt;/p&gt; &#xA;&lt;h1&gt;CONFIG&lt;/h1&gt; &#xA;&lt;p&gt;config-file is ~/.shiroh&lt;/p&gt; &#xA;&lt;p&gt;This is an example.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;{&#xA;   consumar_key        =&amp;gt; &#39;YOUR CONSUMER KEY&#39;,&#xA;   consumer_secret     =&amp;gt; &#39;YOUR CONSUMER SECRET&#39;,&#xA;   access_token        =&amp;gt; &#39;YOUR ACCESS TOKEN&#39;,&#xA;   access_token_secret =&amp;gt; &#39;YOUR ACCESS TOKEN SECRET&#39;,&#xA;   message_to          =&amp;gt; &#39;some_nickname&#39;, ### optional. If defined, send messsage as direct-message to specified account.&#xA;};&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;AUTHOR&lt;/h1&gt; &#xA;&lt;p&gt;ytnobody &lt;a href=&#34;mailto:ytnobody@gmail.com&#34;&gt;ytnobody@gmail.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;SEE ALSO&lt;/h1&gt; &#xA;&lt;p&gt;Net::Twitter::Lite&lt;/p&gt; &#xA;&lt;h1&gt;LICENSE&lt;/h1&gt; &#xA;&lt;p&gt;This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself.&lt;/p&gt;</summary>
   </entry>
 </feed>

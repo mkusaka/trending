@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-28T01:48:22Z</updated>
+  <updated>2023-01-29T01:48:50Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>willmarple/vue3-pinia</title>
-    <updated>2023-01-28T01:48:22Z</updated>
-    <id>tag:github.com,2023-01-28:/willmarple/vue3-pinia</id>
-    <link href="https://github.com/willmarple/vue3-pinia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>one-click-studio/gabin</title>
+    <updated>2023-01-29T01:48:50Z</updated>
+    <id>tag:github.com,2023-01-29:/one-click-studio/gabin</id>
+    <link href="https://github.com/one-click-studio/gabin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automate camera switching with OBS, Bitfocus Companion and any audio api.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>4xmen/Anubias-Desktop</title>
-    <updated>2023-01-28T01:48:22Z</updated>
-    <id>tag:github.com,2023-01-28:/4xmen/Anubias-Desktop</id>
-    <link href="https://github.com/4xmen/Anubias-Desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Craft-honey-team/Craft-honey</title>
-    <updated>2023-01-28T01:48:22Z</updated>
-    <id>tag:github.com,2023-01-28:/Craft-honey-team/Craft-honey</id>
-    <link href="https://github.com/Craft-honey-team/Craft-honey" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>janvorisek/drie</title>
+    <updated>2023-01-29T01:48:50Z</updated>
+    <id>tag:github.com,2023-01-29:/janvorisek/drie</id>
+    <link href="https://github.com/janvorisek/drie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Drie is a Vue 3 component library for THREE.js made with TypeScript and Composition API.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

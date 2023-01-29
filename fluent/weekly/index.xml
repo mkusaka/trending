@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fluent Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T01:54:45Z</updated>
+  <subtitle>Weekly Trending of Fluent in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mozilla/fxa-content-server-l10n</title>
+    <updated>2023-01-29T01:54:45Z</updated>
+    <id>tag:github.com,2023-01-29:/mozilla/fxa-content-server-l10n</id>
+    <link href="https://github.com/mozilla/fxa-content-server-l10n" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;translated strings for Firefox accounts website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

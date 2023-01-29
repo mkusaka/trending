@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-01-29T01:52:20Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>goodeggs/teacup</title>
+    <updated>2023-01-29T01:52:20Z</updated>
+    <id>tag:github.com,2023-01-29:/goodeggs/teacup</id>
+    <link href="https://github.com/goodeggs/teacup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Teacup is templates in CoffeeScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>darvin/quake-live-api-node</title>
+    <updated>2023-01-29T01:52:20Z</updated>
+    <id>tag:github.com,2023-01-29:/darvin/quake-live-api-node</id>
+    <link href="https://github.com/darvin/quake-live-api-node" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chrome/mirage</title>
+    <updated>2023-01-29T01:52:20Z</updated>
+    <id>tag:github.com,2023-01-29:/chrome/mirage</id>
+    <link href="https://github.com/chrome/mirage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WIP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
