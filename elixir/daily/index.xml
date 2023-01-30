@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:34:54Z</updated>
+  <updated>2023-01-30T01:33:20Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dwyl/mvp</title>
-    <updated>2023-01-29T01:34:54Z</updated>
-    <id>tag:github.com,2023-01-29:/dwyl/mvp</id>
-    <link href="https://github.com/dwyl/mvp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📲 simplest version of the @dwyl app&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>akoutmos/ecto_dbg</title>
-    <updated>2023-01-29T01:34:54Z</updated>
-    <id>tag:github.com,2023-01-29:/akoutmos/ecto_dbg</id>
-    <link href="https://github.com/akoutmos/ecto_dbg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A utility to format and output Ecto queries&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Logflare/logflare</title>
+    <updated>2023-01-30T01:33:20Z</updated>
+    <id>tag:github.com,2023-01-30:/Logflare/logflare</id>
+    <link href="https://github.com/Logflare/logflare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

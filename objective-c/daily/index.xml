@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:42:19Z</updated>
+  <updated>2023-01-30T01:40:59Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>haxi0/KillMyOTA</title>
+    <updated>2023-01-30T01:40:59Z</updated>
+    <id>tag:github.com,2023-01-30:/haxi0/KillMyOTA</id>
+    <link href="https://github.com/haxi0/KillMyOTA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OTA Killer for iOS 15.0 - 16.1.2&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://raw.githubusercontent.com/haxi0/KillMyOTA/master/KillMyOTA-modified.png&#34; alt=&#34;Logo&#34; width=&#34;70&#34; height=&#34;70&#34;&gt; &#xA;&lt;h1&gt;KillMyOTA&lt;/h1&gt; &#xA;&lt;p&gt;OTA Killer for iOS 15.0 - 16.1.2&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>jmoreno/El-Gordo</title>
+    <updated>2023-01-30T01:40:59Z</updated>
+    <id>tag:github.com,2023-01-30:/jmoreno/El-Gordo</id>
+    <link href="https://github.com/jmoreno/El-Gordo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aplicación para comprobar los resultados del sorteo de la Loteria de Navidad&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>saurabhsindhu/HumSomething-Pro--3</title>
+    <updated>2023-01-30T01:40:59Z</updated>
+    <id>tag:github.com,2023-01-30:/saurabhsindhu/HumSomething-Pro--3</id>
+    <link href="https://github.com/saurabhsindhu/HumSomething-Pro--3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

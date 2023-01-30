@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Agda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:30:35Z</updated>
+  <updated>2023-01-30T01:29:30Z</updated>
   <subtitle>Daily Trending of Agda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jespercockx/agda-core</title>
+    <updated>2023-01-30T01:29:30Z</updated>
+    <id>tag:github.com,2023-01-30:/jespercockx/agda-core</id>
+    <link href="https://github.com/jespercockx/agda-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EVERYTHING HERE IS SUBJECT TO BE MODIFIED AT ANY TIME&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

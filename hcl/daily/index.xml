@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:37:20Z</updated>
+  <updated>2023-01-30T01:35:49Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>digitalinnovationone/terraform-gcp</title>
+    <updated>2023-01-30T01:35:49Z</updated>
+    <id>tag:github.com,2023-01-30:/digitalinnovationone/terraform-gcp</id>
+    <link href="https://github.com/digitalinnovationone/terraform-gcp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exemplos praticas na aulas de Devops GCP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/terraform-azurerm-subnets</title>
+    <updated>2023-01-30T01:35:49Z</updated>
+    <id>tag:github.com,2023-01-30:/Azure/terraform-azurerm-subnets</id>
+    <link href="https://github.com/Azure/terraform-azurerm-subnets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to create/provision Azure Virtual Network and Subnets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>willfarrell/terraform-defaults-module</title>
+    <updated>2023-01-30T01:35:49Z</updated>
+    <id>tag:github.com,2023-01-30:/willfarrell/terraform-defaults-module</id>
+    <link href="https://github.com/willfarrell/terraform-defaults-module" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sanitize and group common vars&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

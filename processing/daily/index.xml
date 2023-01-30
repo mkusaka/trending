@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:43:59Z</updated>
+  <updated>2023-01-30T01:42:39Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>phillipdavidstearns/processing</title>
-    <updated>2023-01-29T01:43:59Z</updated>
-    <id>tag:github.com,2023-01-29:/phillipdavidstearns/processing</id>
-    <link href="https://github.com/phillipdavidstearns/processing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Year of the Glitch&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>owenmcateer/FlipDots</title>
+    <updated>2023-01-30T01:42:39Z</updated>
+    <id>tag:github.com,2023-01-30:/owenmcateer/FlipDots</id>
+    <link href="https://github.com/owenmcateer/FlipDots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Processing sketch for draw/animate and control FlipDot displays&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>APCSLowell/PalindromeChecker</title>
+    <updated>2023-01-30T01:42:39Z</updated>
+    <id>tag:github.com,2023-01-30:/APCSLowell/PalindromeChecker</id>
+    <link href="https://github.com/APCSLowell/PalindromeChecker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

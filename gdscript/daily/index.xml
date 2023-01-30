@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:35:57Z</updated>
+  <updated>2023-01-30T01:34:22Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jarneson/godot-ply</title>
-    <updated>2023-01-29T01:35:57Z</updated>
-    <id>tag:github.com,2023-01-29:/jarneson/godot-ply</id>
-    <link href="https://github.com/jarneson/godot-ply" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot plugin for in-editor box modeling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-02b-Bullets-and-Asteroids</title>
+    <updated>2023-01-30T01:34:22Z</updated>
+    <id>tag:github.com,2023-01-30:/BL-MSCH-C220/Exercise-02b-Bullets-and-Asteroids</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-02b-Bullets-and-Asteroids" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:46:51Z</updated>
+  <updated>2023-01-30T01:45:58Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>intartnft/scripty.sol</title>
-    <updated>2023-01-29T01:46:51Z</updated>
-    <id>tag:github.com,2023-01-29:/intartnft/scripty.sol</id>
-    <link href="https://github.com/intartnft/scripty.sol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A gas-efficient HTML builder that can combine multiple JS and a data storage solution that allows on-chain composable generative art.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arcadia-finance/arcadia-vaults</title>
+    <updated>2023-01-30T01:45:58Z</updated>
+    <id>tag:github.com,2023-01-30:/arcadia-finance/arcadia-vaults</id>
+    <link href="https://github.com/arcadia-finance/arcadia-vaults" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A new DeFi primitive, Arcadia Vaults, enabling the on-chain pricing of any combination of different types of assets in one single base currency. Arcadia Vaults are non-custodial and allow its owner to actively manage the collateral contained within the Vault.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SoftDAO/contracts</title>
-    <updated>2023-01-29T01:46:51Z</updated>
-    <id>tag:github.com,2023-01-29:/SoftDAO/contracts</id>
-    <link href="https://github.com/SoftDAO/contracts" rel="alternate"></link>
+    <title>eluv-io/contracts</title>
+    <updated>2023-01-30T01:45:58Z</updated>
+    <id>tag:github.com,2023-01-30:/eluv-io/contracts</id>
+    <link href="https://github.com/eluv-io/contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eluvio Content Management Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2023-01-numoen</title>
+    <updated>2023-01-30T01:45:58Z</updated>
+    <id>tag:github.com,2023-01-30:/code-423n4/2023-01-numoen</id>
+    <link href="https://github.com/code-423n4/2023-01-numoen" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OlympusDAO/olympus-v3</title>
-    <updated>2023-01-29T01:46:51Z</updated>
-    <id>tag:github.com,2023-01-29:/OlympusDAO/olympus-v3</id>
-    <link href="https://github.com/OlympusDAO/olympus-v3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Olympus V3 smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

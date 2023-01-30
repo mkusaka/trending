@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:40:51Z</updated>
+  <updated>2023-01-30T01:39:30Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>camio/modules-example</title>
-    <updated>2023-01-29T01:40:51Z</updated>
-    <id>tag:github.com,2023-01-29:/camio/modules-example</id>
-    <link href="https://github.com/camio/modules-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is a very simple C++ modules example.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>openshift/backplane-api</title>
+    <updated>2023-01-30T01:39:30Z</updated>
+    <id>tag:github.com,2023-01-30:/openshift/backplane-api</id>
+    <link href="https://github.com/openshift/backplane-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Backplane is a management service which consolidates all access to OSD and ROSA clusters and cloud provider resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>artis3n/ansible-role-tailscale</title>
-    <updated>2023-01-29T01:40:51Z</updated>
-    <id>tag:github.com,2023-01-29:/artis3n/ansible-role-tailscale</id>
-    <link href="https://github.com/artis3n/ansible-role-tailscale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ansible role to install and configure a Tailscale node.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openshift/backplane-cli</title>
-    <updated>2023-01-29T01:40:51Z</updated>
-    <id>tag:github.com,2023-01-29:/openshift/backplane-cli</id>
-    <link href="https://github.com/openshift/backplane-cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;backplane-cli is a CLI tool to interact with backplane-api.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Arrow-air/svc-devops-test</title>
+    <updated>2023-01-30T01:39:30Z</updated>
+    <id>tag:github.com,2023-01-30:/Arrow-air/svc-devops-test</id>
+    <link href="https://github.com/Arrow-air/svc-devops-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Arrow Service - Repository used by devops to test workflows before rolling out to all other svc repositories&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

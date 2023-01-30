@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:31:18Z</updated>
+  <updated>2023-01-30T01:30:17Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>microsoft/Power-Platform-App-Dev-in-a-Day-KR</title>
-    <updated>2023-01-29T01:31:18Z</updated>
-    <id>tag:github.com,2023-01-29:/microsoft/Power-Platform-App-Dev-in-a-Day-KR</id>
-    <link href="https://github.com/microsoft/Power-Platform-App-Dev-in-a-Day-KR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Power Platform Hands-on-Lab sessions repository in Korean&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

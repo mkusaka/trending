@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:47:47Z</updated>
+  <updated>2023-01-30T01:46:55Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ignaciomsarmiento/PS_Repo</title>
+    <updated>2023-01-30T01:46:55Z</updated>
+    <id>tag:github.com,2023-01-30:/ignaciomsarmiento/PS_Repo</id>
+    <link href="https://github.com/ignaciomsarmiento/PS_Repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Problem Set Template Repository for Big Data and Machine Learning for Applied Economics&lt;/h1&gt; &#xA;&lt;p&gt;This is the template repository for the problem sets.&lt;/p&gt; &#xA;&lt;p&gt;The repo should contain at least four folders:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;document&lt;/code&gt;: contains your final document in &lt;code&gt;pdf&lt;/code&gt; format. Ideally, the document should pull figures and tables directly from the &lt;code&gt;views&lt;/code&gt; folder. I&#39;ve included a latex template I created for the Thesis Seminar.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;scripts&lt;/code&gt;: contains all your scripts&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;stores&lt;/code&gt;: contains all the data sets used. If files are &#34;too big&#34; for GitHub, include a document describing where people can access the data.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;views&lt;/code&gt;: contains all figures and tables&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Some general reminders:&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;It is essential how you write up the document. Be sure to be organized and consistent in explaining your equations and findings. Make sure that there are no compilation errors.&lt;/li&gt; &#xA; &lt;li&gt;Write understandable code, separating and commenting on each section. Coding, like in writing, style is critical for readability. If the code is well written, it should be self-contained. There is no need to write everything you did. I encourage you to follow the &lt;a href=&#34;https://style.tidyverse.org/&#34;&gt;tidyverse style guide&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

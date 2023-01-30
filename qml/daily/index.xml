@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:44:38Z</updated>
+  <updated>2023-01-30T01:43:25Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xerolinux/xero_iso</title>
-    <updated>2023-01-29T01:44:38Z</updated>
-    <id>tag:github.com,2023-01-29:/xerolinux/xero_iso</id>
-    <link href="https://github.com/xerolinux/xero_iso" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Official XeroLinux ISO Build Environment&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

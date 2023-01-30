@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:47:18Z</updated>
+  <updated>2023-01-30T01:46:29Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pulp-platform/hwpe-ctrl</title>
+    <updated>2023-01-30T01:46:29Z</updated>
+    <id>tag:github.com,2023-01-30:/pulp-platform/hwpe-ctrl</id>
+    <link href="https://github.com/pulp-platform/hwpe-ctrl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IPs for control-plane integration of Hardware Processing Engines (HWPEs) within a PULP system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

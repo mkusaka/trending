@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:46:05Z</updated>
+  <updated>2023-01-30T01:45:08Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devopsodia/Realtime-project-sourcecode</title>
-    <updated>2023-01-29T01:46:05Z</updated>
-    <id>tag:github.com,2023-01-29:/devopsodia/Realtime-project-sourcecode</id>
-    <link href="https://github.com/devopsodia/Realtime-project-sourcecode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wong2/chatgpt-google-extension</title>
+    <updated>2023-01-30T01:45:08Z</updated>
+    <id>tag:github.com,2023-01-30:/wong2/chatgpt-google-extension</id>
+    <link href="https://github.com/wong2/chatgpt-google-extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A browser extension that enhance search engines with ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

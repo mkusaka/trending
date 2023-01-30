@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:32:42Z</updated>
+  <updated>2023-01-30T01:31:35Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mentat-collective/emmy</title>
-    <updated>2023-01-29T01:32:42Z</updated>
-    <id>tag:github.com,2023-01-29:/mentat-collective/emmy</id>
-    <link href="https://github.com/mentat-collective/emmy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Emmy Computer Algebra System.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>milgra/cljs-brawl</title>
-    <updated>2023-01-29T01:32:42Z</updated>
-    <id>tag:github.com,2023-01-29:/milgra/cljs-brawl</id>
-    <link href="https://github.com/milgra/cljs-brawl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mass Brawl Simulator for ClojureScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CPUG/swarm-coding-cpug-20120912</title>
+    <updated>2023-01-30T01:31:35Z</updated>
+    <id>tag:github.com,2023-01-30:/CPUG/swarm-coding-cpug-20120912</id>
+    <link href="https://github.com/CPUG/swarm-coding-cpug-20120912" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

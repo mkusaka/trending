@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:43:47Z</updated>
+  <updated>2023-01-30T01:42:30Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andrew-s-taylor/public</title>
-    <updated>2023-01-29T01:43:47Z</updated>
-    <id>tag:github.com,2023-01-29:/andrew-s-taylor/public</id>
-    <link href="https://github.com/andrew-s-taylor/public" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public Scripts and Apps&lt;/p&gt;&lt;hr&gt;&lt;p&gt;A selection of applications, powershell scripts and batch scripts for device management including WVD and App-V&lt;/p&gt;</summary>
+    <title>wirda58/shakrdp</title>
+    <updated>2023-01-30T01:42:30Z</updated>
+    <id>tag:github.com,2023-01-30:/wirda58/shakrdp</id>
+    <link href="https://github.com/wirda58/shakrdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;idk&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WINRDP&lt;/h1&gt; &#xA;&lt;p&gt;How to use&lt;/p&gt; &#xA;&lt;p&gt;Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.&lt;/p&gt; &#xA;&lt;p&gt;Input the following code in the fields.&lt;/p&gt; &#xA;&lt;p&gt;Get the Windows (Powershell) command from here:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://remotedesktop.google.com/headless&#34;&gt;https://remotedesktop.google.com/headless&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Enter you Six digit Pin code to Login&lt;/p&gt; &#xA;&lt;p&gt;(Any Six digit Pin)&lt;/p&gt; &#xA;&lt;p&gt;Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.&lt;/p&gt;</summary>
   </entry>
 </feed>

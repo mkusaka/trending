@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-29T01:48:50Z</updated>
+  <updated>2023-01-30T01:48:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>one-click-studio/gabin</title>
-    <updated>2023-01-29T01:48:50Z</updated>
-    <id>tag:github.com,2023-01-29:/one-click-studio/gabin</id>
-    <link href="https://github.com/one-click-studio/gabin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automate camera switching with OBS, Bitfocus Companion and any audio api.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>janvorisek/drie</title>
-    <updated>2023-01-29T01:48:50Z</updated>
-    <id>tag:github.com,2023-01-29:/janvorisek/drie</id>
-    <link href="https://github.com/janvorisek/drie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Drie is a Vue 3 component library for THREE.js made with TypeScript and Composition API.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RacyMind/kalkulator-dla-przedsiebiorcy-vue</title>
+    <updated>2023-01-30T01:48:04Z</updated>
+    <id>tag:github.com,2023-01-30:/RacyMind/kalkulator-dla-przedsiebiorcy-vue</id>
+    <link href="https://github.com/RacyMind/kalkulator-dla-przedsiebiorcy-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kalkulator finansowy jest podręcznym, bezpłatnym programem, dzięki któremu w łatwy sposób wyliczysz wszystkie składowe wynagrodzenia przy różnych formach zatrudnienia. Kalkulator zawiera zestawienia przydatne dla przedsiębiorcy, jak i dla pracownika.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
