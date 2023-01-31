@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-30T01:31:41Z</updated>
+  <updated>2023-01-31T01:34:06Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>machineware-gmbh/cmake</title>
-    <updated>2023-01-30T01:31:41Z</updated>
-    <id>tag:github.com,2023-01-30:/machineware-gmbh/cmake</id>
-    <link href="https://github.com/machineware-gmbh/cmake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CMake utilities for MachineWare projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>UE4SS-RE/Constructs</title>
-    <updated>2023-01-30T01:31:41Z</updated>
-    <id>tag:github.com,2023-01-30:/UE4SS-RE/Constructs</id>
-    <link href="https://github.com/UE4SS-RE/Constructs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

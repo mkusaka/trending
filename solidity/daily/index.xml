@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-30T01:45:58Z</updated>
+  <updated>2023-01-31T01:49:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>arcadia-finance/arcadia-vaults</title>
-    <updated>2023-01-30T01:45:58Z</updated>
-    <id>tag:github.com,2023-01-30:/arcadia-finance/arcadia-vaults</id>
-    <link href="https://github.com/arcadia-finance/arcadia-vaults" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A new DeFi primitive, Arcadia Vaults, enabling the on-chain pricing of any combination of different types of assets in one single base currency. Arcadia Vaults are non-custodial and allow its owner to actively manage the collateral contained within the Vault.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eluv-io/contracts</title>
-    <updated>2023-01-30T01:45:58Z</updated>
-    <id>tag:github.com,2023-01-30:/eluv-io/contracts</id>
-    <link href="https://github.com/eluv-io/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Eluvio Content Management Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-423n4/2023-01-numoen</title>
-    <updated>2023-01-30T01:45:58Z</updated>
-    <id>tag:github.com,2023-01-30:/code-423n4/2023-01-numoen</id>
-    <link href="https://github.com/code-423n4/2023-01-numoen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

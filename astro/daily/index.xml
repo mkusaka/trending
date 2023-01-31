@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-30T01:29:55Z</updated>
+  <updated>2023-01-31T01:31:36Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>midudev/midufest</title>
-    <updated>2023-01-30T01:29:55Z</updated>
-    <id>tag:github.com,2023-01-30:/midudev/midufest</id>
-    <link href="https://github.com/midudev/midufest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;¡El evento de programación del año!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>withastro/houston.astro.build</title>
-    <updated>2023-01-30T01:29:55Z</updated>
-    <id>tag:github.com,2023-01-30:/withastro/houston.astro.build</id>
-    <link href="https://github.com/withastro/houston.astro.build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental AI assistant trained on the Astro docs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thomasKn/astro-shopify</title>
-    <updated>2023-01-30T01:29:55Z</updated>
-    <id>tag:github.com,2023-01-30:/thomasKn/astro-shopify</id>
-    <link href="https://github.com/thomasKn/astro-shopify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight and powerful ecommerce starter theme to build headless Shopify storefronts with Astro.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jordienr/astro-design-system</title>
+    <updated>2023-01-31T01:31:36Z</updated>
+    <id>tag:github.com,2023-01-31:/jordienr/astro-design-system</id>
+    <link href="https://github.com/jordienr/astro-design-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a theme/starter project for design systems built in Astro. You can install and import your own component library and document all your design decisions and components.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Racket Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-30T01:43:52Z</updated>
+  <updated>2023-01-31T01:47:01Z</updated>
   <subtitle>Daily Trending of Racket in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>plum-umd/433-www</title>
-    <updated>2023-01-30T01:43:52Z</updated>
-    <id>tag:github.com,2023-01-30:/plum-umd/433-www</id>
-    <link href="https://github.com/plum-umd/433-www" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The website for CMSC433&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

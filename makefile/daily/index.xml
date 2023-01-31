@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-30T01:39:30Z</updated>
+  <updated>2023-01-31T01:42:40Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>openshift/backplane-api</title>
-    <updated>2023-01-30T01:39:30Z</updated>
-    <id>tag:github.com,2023-01-30:/openshift/backplane-api</id>
-    <link href="https://github.com/openshift/backplane-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Backplane is a management service which consolidates all access to OSD and ROSA clusters and cloud provider resources.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Arrow-air/svc-devops-test</title>
-    <updated>2023-01-30T01:39:30Z</updated>
-    <id>tag:github.com,2023-01-30:/Arrow-air/svc-devops-test</id>
-    <link href="https://github.com/Arrow-air/svc-devops-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Arrow Service - Repository used by devops to test workflows before rolling out to all other svc repositories&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kika/fixedsys</title>
+    <updated>2023-01-31T01:42:40Z</updated>
+    <id>tag:github.com,2023-01-31:/kika/fixedsys</id>
+    <link href="https://github.com/kika/fixedsys" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fixedsys Excelsior font with programming ligatures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

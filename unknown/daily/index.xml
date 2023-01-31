@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-30T01:28:58Z</updated>
+  <updated>2023-01-31T01:30:23Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cyril0563/lanjing_live</title>
-    <updated>2023-01-30T01:28:58Z</updated>
-    <id>tag:github.com,2023-01-30:/Cyril0563/lanjing_live</id>
-    <link href="https://github.com/Cyril0563/lanjing_live" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</title>
+    <updated>2023-01-31T01:30:23Z</updated>
+    <id>tag:github.com,2023-01-31:/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</id>
+    <link href="https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>erdilS/Port-Windows-11-Xiaomi-Pad-5</title>
-    <updated>2023-01-30T01:28:58Z</updated>
-    <id>tag:github.com,2023-01-30:/erdilS/Port-Windows-11-Xiaomi-Pad-5</id>
-    <link href="https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Based on POCO X3 Pro tutorial.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sger/RustBooks</title>
+    <updated>2023-01-31T01:30:23Z</updated>
+    <id>tag:github.com,2023-01-31:/sger/RustBooks</id>
+    <link href="https://github.com/sger/RustBooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Rust books&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stevana/armstrong-distributed-systems</title>
-    <updated>2023-01-30T01:28:58Z</updated>
-    <id>tag:github.com,2023-01-30:/stevana/armstrong-distributed-systems</id>
-    <link href="https://github.com/stevana/armstrong-distributed-systems" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>febobo/web-interview</title>
+    <updated>2023-01-31T01:30:23Z</updated>
+    <id>tag:github.com,2023-01-31:/febobo/web-interview</id>
+    <link href="https://github.com/febobo/web-interview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

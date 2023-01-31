@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-30T01:41:38Z</updated>
+  <updated>2023-01-31T01:44:51Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>displus/UlichatOpenAI</title>
-    <updated>2023-01-30T01:41:38Z</updated>
-    <id>tag:github.com,2023-01-30:/displus/UlichatOpenAI</id>
-    <link href="https://github.com/displus/UlichatOpenAI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Version 1.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SeanSolberg/DynamicDataObjects</title>
-    <updated>2023-01-30T01:41:38Z</updated>
-    <id>tag:github.com,2023-01-30:/SeanSolberg/DynamicDataObjects</id>
-    <link href="https://github.com/SeanSolberg/DynamicDataObjects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This Delphi code library lets you model structured data and serialze to/from : CBOR, JSON, MessagePack, ION, UBJSON, BSON, Smile, DataObj, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>asiekierka/almost-of-zzt</title>
+    <updated>2023-01-31T01:44:51Z</updated>
+    <id>tag:github.com,2023-01-31:/asiekierka/almost-of-zzt</id>
+    <link href="https://github.com/asiekierka/almost-of-zzt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(Almost) development backup of ZZT&#39;s original source code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
