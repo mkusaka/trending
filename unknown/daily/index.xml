@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:30:23Z</updated>
+  <updated>2023-02-01T01:29:42Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</title>
-    <updated>2023-01-31T01:30:23Z</updated>
-    <id>tag:github.com,2023-01-31:/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</id>
-    <link href="https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>archinetai/audio-ai-timeline</title>
+    <updated>2023-02-01T01:29:42Z</updated>
+    <id>tag:github.com,2023-02-01:/archinetai/audio-ai-timeline</id>
+    <link href="https://github.com/archinetai/audio-ai-timeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A timeline of the latest AI models for audio generation, starting in 2023!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sger/RustBooks</title>
-    <updated>2023-01-31T01:30:23Z</updated>
-    <id>tag:github.com,2023-01-31:/sger/RustBooks</id>
-    <link href="https://github.com/sger/RustBooks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of Rust books&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blend-os/blendOS</title>
+    <updated>2023-02-01T01:29:42Z</updated>
+    <id>tag:github.com,2023-02-01:/blend-os/blendOS</id>
+    <link href="https://github.com/blend-os/blendOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A seamless blend of all Linux distributions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>febobo/web-interview</title>
-    <updated>2023-01-31T01:30:23Z</updated>
-    <id>tag:github.com,2023-01-31:/febobo/web-interview</id>
-    <link href="https://github.com/febobo/web-interview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trimstray/test-your-sysadmin-skills</title>
+    <updated>2023-02-01T01:29:42Z</updated>
+    <id>tag:github.com,2023-02-01:/trimstray/test-your-sysadmin-skills</id>
+    <link href="https://github.com/trimstray/test-your-sysadmin-skills" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

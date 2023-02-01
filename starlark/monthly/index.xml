@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-01T02:23:47Z</updated>
+  <subtitle>Monthly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tidbyt/community</title>
+    <updated>2023-02-01T02:23:47Z</updated>
+    <id>tag:github.com,2023-02-01:/tidbyt/community</id>
+    <link href="https://github.com/tidbyt/community" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A publishing platform for apps developed by the Tidbyt community 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aspect-build/bazel-examples</title>
+    <updated>2023-02-01T02:23:47Z</updated>
+    <id>tag:github.com,2023-02-01:/aspect-build/bazel-examples</id>
+    <link href="https://github.com/aspect-build/bazel-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel examples&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazelbuild/rules_scala</title>
+    <updated>2023-02-01T02:23:47Z</updated>
+    <id>tag:github.com,2023-02-01:/bazelbuild/rules_scala</id>
+    <link href="https://github.com/bazelbuild/rules_scala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scala rules for Bazel&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

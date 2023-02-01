@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:36:07Z</updated>
+  <updated>2023-02-01T01:34:20Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emacs-compat/compat</title>
-    <updated>2023-01-31T01:36:07Z</updated>
-    <id>tag:github.com,2023-01-31:/emacs-compat/compat</id>
-    <link href="https://github.com/emacs-compat/compat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;COMPATibility Library for Emacs Lisp&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;COMPATibility Library for Emacs&lt;/h1&gt; &#xA;&lt;p&gt;This is the source of compat.el, the forwards-compatibility library for (GNU) Emacs Lisp, versions 24.4 and newer. The intended audience are package developers that are interested in using newer developments, without having to break compatibility.&lt;/p&gt; &#xA;&lt;p&gt;For information on how to use Compat, please consult the &lt;a href=&#34;https://elpa.gnu.org/packages/doc/compat.html&#34;&gt;manual&lt;/a&gt;. The latest state of development can be found in the &lt;a href=&#34;https://elpa.gnu.org/devel/doc/compat.html&#34;&gt;snapshot version&lt;/a&gt; of the manual.&lt;/p&gt; &#xA;&lt;h2&gt;Source code&lt;/h2&gt; &#xA;&lt;p&gt;Compat is developed on &lt;a href=&#34;https://github.com/emacs-compat/compat&#34;&gt;GitHub&lt;/a&gt;. The code is mirrored to the &lt;a href=&#34;https://git.savannah.gnu.org/cgit/emacs/elpa.git/tree/?h=externals/compat&#34;&gt;GNU ELPA repository&lt;/a&gt;, which is the canonical repository for the &lt;a href=&#34;http://elpa.gnu.org/packages/compat.html&#34;&gt;GNU ELPA package builds&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Bug and patches&lt;/h2&gt; &#xA;&lt;p&gt;Patches, bug reports and comments can be sent via &lt;a href=&#34;https://github.com/emacs-compat/compat&#34;&gt;GitHub&lt;/a&gt;. These may include issues in the compatibility code, missing definitions or performance issues. We also provide a &lt;a href=&#34;https://lists.sr.ht/~pkal/compat-devel&#34;&gt;development mailing list&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contribute&lt;/h2&gt; &#xA;&lt;p&gt;As compat.el is distributed as part of &lt;a href=&#34;http://elpa.gnu.org/packages/compat.html&#34;&gt;GNU ELPA&lt;/a&gt;, and therefore requires a &lt;a href=&#34;https://www.gnu.org/software/emacs/manual/html_node/emacs/Copyright-Assignment.html&#34;&gt;copyright assignment&lt;/a&gt; to the &lt;a href=&#34;https://www.fsf.org/&#34;&gt;FSF&lt;/a&gt;, for all non-trivial code contributions.&lt;/p&gt; &#xA;&lt;h2&gt;Distribution&lt;/h2&gt; &#xA;&lt;p&gt;compat.el and all other source files in this directory are distributed under the &lt;a href=&#34;https://www.gnu.org/licenses/gpl-3.0.en.html&#34;&gt;GNU Public License 3&lt;/a&gt; like Emacs itself. The manual is distributed under the &lt;a href=&#34;https://www.gnu.org/licenses/fdl-1.3.html&#34;&gt;GNU Free Documentation License 1.3&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>scjung/popup-plus</title>
+    <updated>2023-02-01T01:34:20Z</updated>
+    <id>tag:github.com,2023-02-01:/scjung/popup-plus</id>
+    <link href="https://github.com/scjung/popup-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enhancement of &#39;popup.el&#39;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kode9/conf</title>
+    <updated>2023-02-01T01:34:20Z</updated>
+    <id>tag:github.com,2023-02-01:/kode9/conf</id>
+    <link href="https://github.com/kode9/conf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuration files : Emacs, Git, Urxvt and more. Zenburn color theme&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;conf&lt;/h1&gt; &#xA;&lt;p&gt;Configuration files : Emacs, Git, Urxvt and more. Zenburn color theme&lt;/p&gt;</summary>
   </entry>
 </feed>

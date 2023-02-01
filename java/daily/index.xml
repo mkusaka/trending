@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:39:36Z</updated>
+  <updated>2023-02-01T01:37:21Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Trainguy9512/trainguys-animation-overhaul</title>
-    <updated>2023-01-31T01:39:36Z</updated>
-    <id>tag:github.com,2023-01-31:/Trainguy9512/trainguys-animation-overhaul</id>
-    <link href="https://github.com/Trainguy9512/trainguys-animation-overhaul" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Trainguy&#39;s Animation Overhaul&lt;/h1&gt; &#xA;&lt;p&gt;Repository for a 1.19.3+ Minecraft mod centered around improving the game&#39;s character animations in addition to a realtime animation system.&lt;/p&gt; &#xA;&lt;h2&gt;Additional Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Marvin Schürz (&lt;a href=&#34;https://twitter.com/minetoblend&#34;&gt;https://twitter.com/minetoblend&lt;/a&gt;) &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Timeline and lerp system&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;FAQ&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;What versions of the game will this mod support?&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;For right now, the mod is being worked on in 1.19.3. Once I figure out better methods of version control for handling multiple versions, I would like to make the mod available on 1.18.2+. Depends on whether or not I run into 1.19+ specific entity model changes which may set 1.19 as the floor version.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Will the mod come to forge?&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Yes, for the time being the mod is being developed on Fabric but the mod will eventually be moved back to an architectury project. Using a blank Fabric template for the time being while I get back into the swing of modding&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;What will the mod require as a dependency?&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Right now, just Fabric API. Once Pollen is updated to 1.19, the project will be reformatted to an architectury project which will add Pollen as a dependency, for things like registries and custom block renderers.&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
-  </entry>
 </feed>

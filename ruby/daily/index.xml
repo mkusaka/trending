@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:47:43Z</updated>
+  <updated>2023-02-01T01:44:53Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>appdev-projects/refactoring-fortune-teller</title>
-    <updated>2023-01-31T01:47:43Z</updated>
-    <id>tag:github.com,2023-01-31:/appdev-projects/refactoring-fortune-teller</id>
-    <link href="https://github.com/appdev-projects/refactoring-fortune-teller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Refactoring Fortune Teller with Dynamic Routes&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://chapters.firstdraft.com/chapters/841&#34;&gt;This Chapter contains detailed notes&lt;/a&gt; for this project.&lt;/p&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Start the web server by running &lt;code&gt;bin/server&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Navigate to your live application preview.&lt;/li&gt; &#xA; &lt;li&gt;As you work, remember to navigate to &lt;code&gt;/git&lt;/code&gt; and &lt;strong&gt;commit often as you work.&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;rails grade&lt;/code&gt; to ensure everything still works.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

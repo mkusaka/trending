@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:38:04Z</updated>
+  <updated>2023-02-01T01:36:13Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TurtlePU/haskell-2023</title>
+    <updated>2023-02-01T01:36:13Z</updated>
+    <id>tag:github.com,2023-02-01:/TurtlePU/haskell-2023</id>
+    <link href="https://github.com/TurtlePU/haskell-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Материалы курса ФКН по Промышленному программированию на Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Haskell 2023&lt;/h1&gt; &#xA;&lt;p&gt;Материалы курса по Промышленному программированию на Haskell в ПМИ ФКН ВШЭ: код с лекций и семинаров, условия домашних заданий.&lt;/p&gt; &#xA;&lt;p&gt;Каждое домашнее задание лежит в своей папке, название которой начинается на &lt;code&gt;hw-&lt;/code&gt;. За каждое домашнее задание можно заработать до 12 баллов, подробности по каждому домашнему заданию написаны в соответствующем README.&lt;/p&gt; &#xA;&lt;h2&gt;Как сдавать домашние задания&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Сделайте приватный форк данного репозитория&lt;/li&gt; &#xA; &lt;li&gt;Добавьте меня в Ваш форк коллаборатором&lt;/li&gt; &#xA; &lt;li&gt;Каждое домашнее задание решайте в отдельной ветке&lt;/li&gt; &#xA; &lt;li&gt;Для сдачи задания создайте пулл реквест из ветки с решениями в main ветку Вашего форка и назначьте меня ревьюером&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

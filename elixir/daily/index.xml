@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:35:58Z</updated>
+  <updated>2023-02-01T01:34:14Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>saleyn/phx-multi-select</title>
+    <updated>2023-02-01T01:34:14Z</updated>
+    <id>tag:github.com,2023-02-01:/saleyn/phx-multi-select</id>
+    <link href="https://github.com/saleyn/phx-multi-select" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Phoenix LiveView MultiSelect Component&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

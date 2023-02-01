@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-01T02:23:29Z</updated>
+  <subtitle>Monthly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mongodb/helm-charts</title>
+    <updated>2023-02-01T02:23:29Z</updated>
+    <id>tag:github.com,2023-02-01:/mongodb/helm-charts</id>
+    <link href="https://github.com/mongodb/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>camptocamp/helm-sftp</title>
+    <updated>2023-02-01T02:23:29Z</updated>
+    <id>tag:github.com,2023-02-01:/camptocamp/helm-sftp</id>
+    <link href="https://github.com/camptocamp/helm-sftp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AdminTurnedDevOps/PearsonCourses</title>
+    <updated>2023-02-01T02:23:29Z</updated>
+    <id>tag:github.com,2023-02-01:/AdminTurnedDevOps/PearsonCourses</id>
+    <link href="https://github.com/AdminTurnedDevOps/PearsonCourses" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

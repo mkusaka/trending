@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-01T02:25:20Z</updated>
+  <subtitle>Monthly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IObundle/iob-axi</title>
+    <updated>2023-02-01T02:25:20Z</updated>
+    <id>tag:github.com,2023-02-01:/IObundle/iob-axi</id>
+    <link href="https://github.com/IObundle/iob-axi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alexforencich/verilog-axi</title>
+    <updated>2023-02-01T02:25:20Z</updated>
+    <id>tag:github.com,2023-02-01:/alexforencich/verilog-axi</id>
+    <link href="https://github.com/alexforencich/verilog-axi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog AXI components for FPGA implementation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>circuitvalley/USB_C_Industrial_Camera_FPGA_USB3</title>
+    <updated>2023-02-01T02:25:20Z</updated>
+    <id>tag:github.com,2023-02-01:/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3</id>
+    <link href="https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source and Documentation files for USB C Industrial Camera Project, This repo contains PCB boards, FPGA , Camera and USB along with FPGA Firmware and USB Controller Firmware source.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

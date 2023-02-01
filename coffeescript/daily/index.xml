@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:34:11Z</updated>
+  <updated>2023-02-01T01:32:31Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alecgorge/cilantro</title>
+    <updated>2023-02-01T01:32:31Z</updated>
+    <id>tag:github.com,2023-02-01:/alecgorge/cilantro</id>
+    <link href="https://github.com/alecgorge/cilantro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple CI machine built in Node. Super lightweight.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>netoneko/raanana</title>
+    <updated>2023-02-01T01:32:31Z</updated>
+    <id>tag:github.com,2023-02-01:/netoneko/raanana</id>
+    <link href="https://github.com/netoneko/raanana" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experiments with Meteor JS framework (meteor.com)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

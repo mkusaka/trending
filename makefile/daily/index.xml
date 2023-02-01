@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:42:40Z</updated>
+  <updated>2023-02-01T01:40:18Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kika/fixedsys</title>
-    <updated>2023-01-31T01:42:40Z</updated>
-    <id>tag:github.com,2023-01-31:/kika/fixedsys</id>
-    <link href="https://github.com/kika/fixedsys" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fixedsys Excelsior font with programming ligatures&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cncf/people</title>
+    <updated>2023-02-01T01:40:18Z</updated>
+    <id>tag:github.com,2023-02-01:/cncf/people</id>
+    <link href="https://github.com/cncf/people" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stores the data that will populate the various people listings on cncf.io&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

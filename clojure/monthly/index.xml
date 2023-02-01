@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-01T02:10:20Z</updated>
+  <subtitle>Monthly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tonvanbart/clojure-fotofeed-servlet</title>
+    <updated>2023-02-01T02:10:20Z</updated>
+    <id>tag:github.com,2023-02-01:/tonvanbart/clojure-fotofeed-servlet</id>
+    <link href="https://github.com/tonvanbart/clojure-fotofeed-servlet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/clojure-on-app-service</title>
+    <updated>2023-02-01T02:10:20Z</updated>
+    <id>tag:github.com,2023-02-01:/Azure-Samples/clojure-on-app-service</id>
+    <link href="https://github.com/Azure-Samples/clojure-on-app-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure web application and instructions for deploying it to Azure App Service&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/robocode-clojure</title>
+    <updated>2023-02-01T02:10:20Z</updated>
+    <id>tag:github.com,2023-02-01:/nubank/robocode-clojure</id>
+    <link href="https://github.com/nubank/robocode-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template project for building a Robocode Robot in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

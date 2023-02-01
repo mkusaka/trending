@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:32:04Z</updated>
+  <updated>2023-02-01T01:30:45Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MR-RIKI/AzureWin10</title>
-    <updated>2023-01-31T01:32:04Z</updated>
-    <id>tag:github.com,2023-01-31:/MR-RIKI/AzureWin10</id>
-    <link href="https://github.com/MR-RIKI/AzureWin10" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free 6 Hours RDP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RavensVenix/Free-RDPV4</title>
-    <updated>2023-01-31T01:32:04Z</updated>
-    <id>tag:github.com,2023-01-31:/RavensVenix/Free-RDPV4</id>
-    <link href="https://github.com/RavensVenix/Free-RDPV4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free-RDP Version 4.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Ahmadali322/FREE-RDP</title>
-    <updated>2023-01-31T01:32:04Z</updated>
-    <id>tag:github.com,2023-01-31:/Ahmadali322/FREE-RDP</id>
-    <link href="https://github.com/Ahmadali322/FREE-RDP" rel="alternate"></link>
+    <title>TheWorldOfPC/Windows11-Debloat-Privacy-Guide</title>
+    <updated>2023-02-01T01:30:45Z</updated>
+    <id>tag:github.com,2023-02-01:/TheWorldOfPC/Windows11-Debloat-Privacy-Guide</id>
+    <link href="https://github.com/TheWorldOfPC/Windows11-Debloat-Privacy-Guide" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gavinsdemise/rdp</title>
+    <updated>2023-02-01T01:30:45Z</updated>
+    <id>tag:github.com,2023-02-01:/gavinsdemise/rdp</id>
+    <link href="https://github.com/gavinsdemise/rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Ricofzm/rdp1hour</title>
+    <updated>2023-02-01T01:30:45Z</updated>
+    <id>tag:github.com,2023-02-01:/Ricofzm/rdp1hour</id>
+    <link href="https://github.com/Ricofzm/rdp1hour" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ujicoba saja&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

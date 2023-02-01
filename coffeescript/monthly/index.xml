@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-01T02:10:32Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mrcrypster/github-stars-stats</title>
+    <updated>2023-02-01T02:10:32Z</updated>
+    <id>tag:github.com,2023-02-01:/mrcrypster/github-stars-stats</id>
+    <link href="https://github.com/mrcrypster/github-stars-stats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Github repositories stars and forks stats archive with historical data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>joelongstreet/Gyro-Socket</title>
+    <updated>2023-02-01T02:10:32Z</updated>
+    <id>tag:github.com,2023-02-01:/joelongstreet/Gyro-Socket</id>
+    <link href="https://github.com/joelongstreet/Gyro-Socket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample Code for a Blog Post&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mikesmullin/stylus-lemonade</title>
+    <updated>2023-02-01T02:10:32Z</updated>
+    <id>tag:github.com,2023-02-01:/mikesmullin/stylus-lemonade</id>
+    <link href="https://github.com/mikesmullin/stylus-lemonade" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically Generate CSS Sprites from Images with Stylus&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

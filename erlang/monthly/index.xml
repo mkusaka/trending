@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-01T02:12:38Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ninenines/cowlib</title>
+    <updated>2023-02-01T02:12:38Z</updated>
+    <id>tag:github.com,2023-02-01:/ninenines/cowlib</id>
+    <link href="https://github.com/ninenines/cowlib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Support library for manipulating Web protocols.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>deadtrickster/rebar3_elvis_plugin</title>
+    <updated>2023-02-01T02:12:38Z</updated>
+    <id>tag:github.com,2023-02-01:/deadtrickster/rebar3_elvis_plugin</id>
+    <link href="https://github.com/deadtrickster/rebar3_elvis_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Elvis as rebar3 plugin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dmitryme/erlang_localtime</title>
+    <updated>2023-02-01T02:12:38Z</updated>
+    <id>tag:github.com,2023-02-01:/dmitryme/erlang_localtime</id>
+    <link href="https://github.com/dmitryme/erlang_localtime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang library for conversion from one local time to another&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

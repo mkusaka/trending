@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:46:48Z</updated>
+  <updated>2023-02-01T01:44:04Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>carvalho/stats-ml-practicum</title>
-    <updated>2023-01-31T01:46:48Z</updated>
-    <id>tag:github.com,2023-01-31:/carvalho/stats-ml-practicum</id>
-    <link href="https://github.com/carvalho/stats-ml-practicum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>genomicsclass/dagdata</title>
+    <updated>2023-02-01T01:44:04Z</updated>
+    <id>tag:github.com,2023-02-01:/genomicsclass/dagdata</id>
+    <link href="https://github.com/genomicsclass/dagdata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data for the HarvardX courses: PH525x&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Data package for the PH525x series&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Instructors: try to avoid adding objects larger than 5 Mb. Large data objects can go in their own package (own repo).&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;.RData&lt;/code&gt; or &lt;code&gt;.rda&lt;/code&gt; files go in &lt;code&gt;data/&lt;/code&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Other files, &lt;code&gt;csv&lt;/code&gt;, etc., go in &lt;code&gt;inst/extdata/&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
   <entry>
-    <title>phenoscape/ubeRsim</title>
-    <updated>2023-01-31T01:46:48Z</updated>
-    <id>tag:github.com,2023-01-31:/phenoscape/ubeRsim</id>
-    <link href="https://github.com/phenoscape/ubeRsim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;R package for computing semantic similarity metrics using online or offline Ubergraph&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>geoffjentry/twitteR</title>
+    <updated>2023-02-01T01:44:04Z</updated>
+    <id>tag:github.com,2023-02-01:/geoffjentry/twitteR</id>
+    <link href="https://github.com/geoffjentry/twitteR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;R based twitter client&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;DEPRECATION&lt;/h2&gt; &#xA;&lt;p&gt;This is the start of a relatively leisurely deprecation period for &lt;code&gt;twitteR&lt;/code&gt;, in favor of using &lt;a href=&#34;https://github.com/mkearney/rtweet&#34;&gt;&lt;code&gt;rtweet&lt;/code&gt;&lt;/a&gt;. Please start looking to switch over to that package. If you have any questions contact myself or @mkearney&lt;/p&gt; &#xA;&lt;h2&gt;twitteR&lt;/h2&gt; &#xA;&lt;p&gt;twitteR is an R package which provides access to the Twitter API. Most functionality of the API is supported, with a bias towards API calls that are more useful in data analysis as opposed to daily interaction.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Please read the &lt;a href=&#34;http://geoffjentry.hexdump.org/twitteR.pdf&#34;&gt;user vignette&lt;/a&gt;, which admittedly can get a bit out of date&lt;/li&gt; &#xA; &lt;li&gt;Create a Twitter application at &lt;a href=&#34;http://dev.twitter.com&#34;&gt;http://dev.twitter.com&lt;/a&gt;. Make sure to give the app read, write and direct message authority.&lt;/li&gt; &#xA; &lt;li&gt;Take note of the following values from the Twitter app page: &#34;API key&#34;, &#34;API secret&#34;, &#34;Access token&#34;, and &#34;Access token secret&#34;.&lt;/li&gt; &#xA; &lt;li&gt;You can use the CRAN version (stable) via the standard &lt;code&gt;install.packages(&#34;twitteR&#34;)&lt;/code&gt; or use the github version. To do the latter: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;code&gt;install.packages(c(&#34;devtools&#34;, &#34;rjson&#34;, &#34;bit64&#34;, &#34;httr&#34;))&lt;/code&gt;&lt;/li&gt; &#xA;   &lt;li&gt;Make sure to restart your R session at this point&lt;/li&gt; &#xA;   &lt;li&gt;&lt;code&gt;library(devtools)&lt;/code&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;code&gt;install_github(&#34;geoffjentry/twitteR&#34;)&lt;/code&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;At this point you should have &lt;code&gt;twitteR&lt;/code&gt; installed and can proceed: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;code&gt;library(twitteR)&lt;/code&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;code&gt;setup_twitter_oauth(&#34;API key&#34;, &#34;API secret&#34;)&lt;/code&gt; &#xA;    &lt;ul&gt; &#xA;     &lt;li&gt;The &lt;code&gt;API key&lt;/code&gt; and &lt;code&gt;API secret&lt;/code&gt; are from the Twitter app page above. This will lead you through &lt;code&gt;httr&lt;/code&gt;&#39;s OAuth authentication process. I recommend you look at the man page for &lt;code&gt;Token&lt;/code&gt; in &lt;code&gt;httr&lt;/code&gt; for an explanation of how it handles caching.&lt;/li&gt; &#xA;    &lt;/ul&gt; &lt;/li&gt; &#xA;   &lt;li&gt;You should be ready to go!&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;If you have any questions or issues, check out the &lt;a href=&#34;http://lists.hexdump.org/listinfo.cgi/twitter-users-hexdump.org&#34;&gt;mailing list&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>sig-gis/TerraBio</title>
+    <updated>2023-02-01T01:44:04Z</updated>
+    <id>tag:github.com,2023-02-01:/sig-gis/TerraBio</id>
+    <link href="https://github.com/sig-gis/TerraBio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts for TerraBio project&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TerraBio&lt;/h1&gt; &#xA;&lt;p&gt;Scripts for TerraBio project&lt;/p&gt;</summary>
   </entry>
 </feed>

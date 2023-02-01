@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-01-31T01:47:57Z</updated>
+  <updated>2023-02-01T01:45:12Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>casey/ord</title>
-    <updated>2023-01-31T01:47:57Z</updated>
-    <id>tag:github.com,2023-01-31:/casey/ord</id>
-    <link href="https://github.com/casey/ord" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👁‍🗨 Rare and exotic sats&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jdxcode/rtx</title>
+    <updated>2023-02-01T01:45:12Z</updated>
+    <id>tag:github.com,2023-02-01:/jdxcode/rtx</id>
+    <link href="https://github.com/jdxcode/rtx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Runtime Executor (asdf rust clone)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rustixir/darkbird</title>
+    <updated>2023-02-01T01:45:12Z</updated>
+    <id>tag:github.com,2023-02-01:/Rustixir/darkbird</id>
+    <link href="https://github.com/Rustixir/darkbird" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High concurrency, Real time, In-memory storage inspired by erlang mnesia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

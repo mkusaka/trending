@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F# Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-01T02:12:38Z</updated>
+  <subtitle>Monthly Trending of F# in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jackfoxy/RandomBitsSolution</title>
+    <updated>2023-02-01T02:12:38Z</updated>
+    <id>tag:github.com,2023-02-01:/jackfoxy/RandomBitsSolution</id>
+    <link href="https://github.com/jackfoxy/RandomBitsSolution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Engineering excercise in random bits from ANU&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IMPORTANT:&lt;/h1&gt; &#xA;&lt;p&gt;This project deprecated. Use &lt;a href=&#34;https://github.com/jackfoxy/RandomBits&#34;&gt;RandomBits&lt;/a&gt; instead.&lt;/p&gt; &#xA;&lt;h1&gt;RandomBits&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;RandomBits&lt;/strong&gt; is a F# library consuming the &lt;a href=&#34;http://qrng.anu.edu.au/index.php&#34;&gt;ANU Quantum Random Numbers Server&lt;/a&gt; API, providing the following end-products:&lt;/p&gt; &#xA;&lt;p&gt;Signed and unsigned 8, 16, 32, and 64 bit random numbers.&lt;/p&gt; &#xA;&lt;p&gt;Random numbers constrained within a range.&lt;/p&gt; &#xA;&lt;p&gt;Sequences of random numbers.&lt;/p&gt; &#xA;&lt;p&gt;Sequences of random numbers constrained within a range.&lt;/p&gt; &#xA;&lt;p&gt;Sequences of random numbers constrained within a range and each member of the sequence is unique.&lt;/p&gt; &#xA;&lt;h2&gt;Purpose of RandomBits&lt;/h2&gt; &#xA;&lt;p&gt;Appropriate pseudo-random number generators are perfectly adequate for almost any random number generation use, and significantly faster than using &lt;strong&gt;RandomBits&lt;/strong&gt;, especially becausej of network latency. &lt;strong&gt;RandomBits&lt;/strong&gt; is primarily a demonstration project.&lt;/p&gt;</summary>
+  </entry>
+</feed>

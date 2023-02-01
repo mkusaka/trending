@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-01T02:23:34Z</updated>
+  <subtitle>Monthly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dragonfly-xyz/useful-solidity-patterns</title>
+    <updated>2023-02-01T02:23:34Z</updated>
+    <id>tag:github.com,2023-02-01:/dragonfly-xyz/useful-solidity-patterns</id>
+    <link href="https://github.com/dragonfly-xyz/useful-solidity-patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>filecoin-project/fevm-hardhat-kit</title>
+    <updated>2023-02-01T02:23:34Z</updated>
+    <id>tag:github.com,2023-02-01:/filecoin-project/fevm-hardhat-kit</id>
+    <link href="https://github.com/filecoin-project/fevm-hardhat-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starter hardhat project for developing, deploying, and testing Solidity smart contracts on the FEVM (Ethereum Virtual Machine on Filecoin)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dapphub/ds-test</title>
+    <updated>2023-02-01T02:23:34Z</updated>
+    <id>tag:github.com,2023-02-01:/dapphub/ds-test</id>
+    <link href="https://github.com/dapphub/ds-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Assertions, equality checks and other test helpers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
