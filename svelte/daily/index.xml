@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:46:53Z</updated>
+  <updated>2023-02-02T01:47:48Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CarlosZBent/Directorio_trabajos_tech</title>
+    <updated>2023-02-02T01:47:48Z</updated>
+    <id>tag:github.com,2023-02-02:/CarlosZBent/Directorio_trabajos_tech</id>
+    <link href="https://github.com/CarlosZBent/Directorio_trabajos_tech" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Directorio de plataformas de trabajo en la industria tecnológica&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kintone-workshops/intro-to-svelte</title>
+    <updated>2023-02-02T01:47:48Z</updated>
+    <id>tag:github.com,2023-02-02:/kintone-workshops/intro-to-svelte</id>
+    <link href="https://github.com/kintone-workshops/intro-to-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An introduction to using a Kintone database with the Svelte Javascript Framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

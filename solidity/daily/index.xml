@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:46:28Z</updated>
+  <updated>2023-02-02T01:47:24Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>minaminao/tornado-cats</title>
-    <updated>2023-02-01T01:46:28Z</updated>
-    <id>tag:github.com,2023-02-01:/minaminao/tornado-cats</id>
-    <link href="https://github.com/minaminao/tornado-cats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A book for learning zero-knowledge applications and decentralized mixing through the creation of a simple mixer protocol based on Tornado Cash&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oguimbal/HyVM</title>
+    <updated>2023-02-02T01:47:24Z</updated>
+    <id>tag:github.com,2023-02-02:/oguimbal/HyVM</id>
+    <link href="https://github.com/oguimbal/HyVM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run arbitrary code on the EVM, by nested.fi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>geometryresearch/semacaulk</title>
-    <updated>2023-02-01T01:46:28Z</updated>
-    <id>tag:github.com,2023-02-01:/geometryresearch/semacaulk</id>
-    <link href="https://github.com/geometryresearch/semacaulk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gas-efficient and blazing fast proving for private signaling&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>abhi3700/evm_contracts_auction</title>
+    <updated>2023-02-02T01:47:24Z</updated>
+    <id>tag:github.com,2023-02-02:/abhi3700/evm_contracts_auction</id>
+    <link href="https://github.com/abhi3700/evm_contracts_auction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Auction contract for asset - ERC20, ERC721, ERC1155&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>berachain/berachain-local</title>
-    <updated>2023-02-01T01:46:28Z</updated>
-    <id>tag:github.com,2023-02-01:/berachain/berachain-local</id>
-    <link href="https://github.com/berachain/berachain-local" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A complete Berachain development network containerized with Docker.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clabby/sparse-arr-lib</title>
+    <updated>2023-02-02T01:47:24Z</updated>
+    <id>tag:github.com,2023-02-02:/clabby/sparse-arr-lib</id>
+    <link href="https://github.com/clabby/sparse-arr-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library to assist with handling sparse arrays in storage.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

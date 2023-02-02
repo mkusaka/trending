@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:30:18Z</updated>
+  <updated>2023-02-02T01:30:23Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CristianoFIlho/SuperBadge-LWC</title>
-    <updated>2023-02-01T01:30:18Z</updated>
-    <id>tag:github.com,2023-02-01:/CristianoFIlho/SuperBadge-LWC</id>
-    <link href="https://github.com/CristianoFIlho/SuperBadge-LWC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SuperBadge-LWC&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

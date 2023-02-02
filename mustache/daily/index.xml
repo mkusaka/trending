@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:41:01Z</updated>
+  <updated>2023-02-02T01:41:56Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>puppetlabs/vmpooler-deployment</title>
-    <updated>2023-02-01T01:41:01Z</updated>
-    <id>tag:github.com,2023-02-01:/puppetlabs/vmpooler-deployment</id>
-    <link href="https://github.com/puppetlabs/vmpooler-deployment" rel="alternate"></link>
+    <title>rancher/partner-charts</title>
+    <updated>2023-02-02T01:41:56Z</updated>
+    <id>tag:github.com,2023-02-02:/rancher/partner-charts</id>
+    <link href="https://github.com/rancher/partner-charts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

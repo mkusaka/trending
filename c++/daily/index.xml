@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:31:13Z</updated>
+  <updated>2023-02-02T01:31:27Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cxasm/cc-compare</title>
+    <updated>2023-02-02T01:31:27Z</updated>
+    <id>tag:github.com,2023-02-02:/cxasm/cc-compare</id>
+    <link href="https://github.com/cxasm/cc-compare" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款可替换beycond compare, 免费使用的代码同步对比工具，来自中国。&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cc compare&lt;/h1&gt; &#xA;&lt;p&gt;一个可以免费使用的代码同步对比工具，来自中国。&lt;/p&gt; &#xA;&lt;p&gt;如果你是一个程序员，经常需要对比代码，但是又受不了beyond compare的过期和收费。&lt;/p&gt; &#xA;&lt;p&gt;那就来试下这款免费的代码对比软件吧。支持 windows / uos / ubuntu / mac os&lt;/p&gt; &#xA;&lt;p&gt;最新版下载地址： &lt;a href=&#34;https://github.com/cxasm/cc-compare/releases/tag/v1.14&#34;&gt;https://github.com/cxasm/cc-compare/releases/tag/v1.14&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/42246867/189620006-aa817dda-07ee-467c-a9da-cb8528e43e19.png&#34; alt=&#34;截屏2022-09-12 17 23 22&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/42246867/189620025-d2be69aa-4d89-4de5-a83e-b73f09ae4868.png&#34; alt=&#34;截屏2022-09-12 17 24 49&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/42246867/189620035-59a5cf26-f025-4df6-b1d0-0c07bf1e1dcd.png&#34; alt=&#34;截屏2022-09-12 17 22 30&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

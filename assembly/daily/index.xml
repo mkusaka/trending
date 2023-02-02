@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:30:32Z</updated>
+  <updated>2023-02-02T01:30:36Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sifferman/labs-with-cva6</title>
-    <updated>2023-02-01T01:30:32Z</updated>
-    <id>tag:github.com,2023-02-01:/sifferman/labs-with-cva6</id>
-    <link href="https://github.com/sifferman/labs-with-cva6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Architecture Labs with CVA6&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pichenettes/cvpal</title>
+    <updated>2023-02-02T01:30:36Z</updated>
+    <id>tag:github.com,2023-02-02:/pichenettes/cvpal</id>
+    <link href="https://github.com/pichenettes/cvpal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cheap and cheerful 2-channel USB to CV/Gate interface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

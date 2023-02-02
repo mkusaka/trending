@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:38:51Z</updated>
+  <updated>2023-02-02T01:39:32Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaSparse/SparseArrays.jl</title>
-    <updated>2023-02-01T01:38:51Z</updated>
-    <id>tag:github.com,2023-02-01:/JuliaSparse/SparseArrays.jl</id>
-    <link href="https://github.com/JuliaSparse/SparseArrays.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SparseArrays.jl is a Julia stdlib&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaAI/LearnAPI.jl</title>
+    <updated>2023-02-02T01:39:32Z</updated>
+    <id>tag:github.com,2023-02-02:/JuliaAI/LearnAPI.jl</id>
+    <link href="https://github.com/JuliaAI/LearnAPI.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia interface for training and applying models in machine learning and statistics&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>control-toolbox/OptimalControl.jl</title>
+    <updated>2023-02-02T01:39:32Z</updated>
+    <id>tag:github.com,2023-02-02:/control-toolbox/OptimalControl.jl</id>
+    <link href="https://github.com/control-toolbox/OptimalControl.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solvers of optimal control problems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaGeometry/Delaunator.jl</title>
+    <updated>2023-02-02T01:39:32Z</updated>
+    <id>tag:github.com,2023-02-02:/JuliaGeometry/Delaunator.jl</id>
+    <link href="https://github.com/JuliaGeometry/Delaunator.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delaunator in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

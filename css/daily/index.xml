@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:32:52Z</updated>
+  <updated>2023-02-02T01:32:57Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rknightuk/mac-30-font-svg</title>
-    <updated>2023-02-01T01:32:52Z</updated>
-    <id>tag:github.com,2023-02-01:/rknightuk/mac-30-font-svg</id>
-    <link href="https://github.com/rknightuk/mac-30-font-svg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mac 30th Anniversary Icon SVGs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Mac 30th Anniversary Icons&lt;/h1&gt; &#xA;&lt;p&gt;SVGs of the icon font Apple made for the &lt;a href=&#34;https://9to5mac.com/2014/01/24/celebrate-30-years-of-mac-with-apples-hidden-icon-font/&#34;&gt;30th anniversary of the Mac&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://rknightuk.github.io/mac-30-font-svg&#34;&gt;https://rknightuk.github.io/mac-30-font-svg&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>OpenClassrooms-Student-Center/7697016-Front-End.1</title>
+    <updated>2023-02-02T01:32:57Z</updated>
+    <id>tag:github.com,2023-02-02:/OpenClassrooms-Student-Center/7697016-Front-End.1</id>
+    <link href="https://github.com/OpenClassrooms-Student-Center/7697016-Front-End.1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;7697016-Front-End.1&lt;/h1&gt; &#xA;&lt;p&gt;Code base du fil rouge pour le cours OpenClassrooms &lt;a href=&#34;https://openclassrooms.com/fr/courses/7697016-creez-des-pages-web-dynamiques-avec-javascript&#34;&gt;Créez des pages web dynamiques avec JavaScript&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Après avoir cloné le repo vous avez plusieurs options pour lancer le projet.&lt;/p&gt; &#xA;&lt;p&gt;Si vous utiliser VSCode ou un autre éditeur de code avec une extersion de serveur web comme live server, vous pouvez lancer direcement votre site avec l&#39;extension que vous utilisez habituellement.&lt;/p&gt; &#xA;&lt;p&gt;Dans le cas contraire vous pouvez installer les dépendances de ce projet avec &lt;code&gt;npm install&lt;/code&gt; puis lancer le projet via la commande &lt;code&gt;npm start&lt;/code&gt;. Vous verrez dans le termninal le lien vers le site (par defaut &lt;a href=&#34;http://127.0.0.1:8080&#34;&gt;http://127.0.0.1:8080&lt;/a&gt; )&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>michalosman/etch-a-sketch</title>
-    <updated>2023-02-01T01:32:52Z</updated>
-    <id>tag:github.com,2023-02-01:/michalosman/etch-a-sketch</id>
-    <link href="https://github.com/michalosman/etch-a-sketch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Etch a sketch game created with HTML, CSS and JS.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Etch a Sketch&lt;/h1&gt; &#xA;&lt;p&gt;Etch a sketch game created with HTML, CSS and JS.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://michalosman.github.io/etch-a-sketch/&#34;&gt;Live Demo&lt;/a&gt; &lt;span&gt;👈&lt;/span&gt;&lt;/p&gt;</summary>
+    <title>sandhikagalih/PHP-Dasar</title>
+    <updated>2023-02-02T01:32:57Z</updated>
+    <id>tag:github.com,2023-02-02:/sandhikagalih/PHP-Dasar</id>
+    <link href="https://github.com/sandhikagalih/PHP-Dasar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Materi PHP Dasar untuk Kuliah Pemrograman Web - Teknik Informatika UNPAS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Materi PHP Dasar WebProgrammingUNPAS 2015&lt;/h1&gt; &#xA;&lt;h2&gt;Disampaikan oleh @sandhikagalih&lt;/h2&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;http://sandhikagalih.net&#34;&gt;http://sandhikagalih.net&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;http://youtube.com/webprogrammingunpas&#34;&gt;http://youtube.com/webprogrammingunpas&lt;/a&gt;&lt;/h3&gt;</summary>
   </entry>
   <entry>
-    <title>funwebdev-3rd-ed/projects-start</title>
-    <updated>2023-02-01T01:32:52Z</updated>
-    <id>tag:github.com,2023-02-01:/funwebdev-3rd-ed/projects-start</id>
-    <link href="https://github.com/funwebdev-3rd-ed/projects-start" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starting files for End-of-Chapter Projects for Third Edition&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fundamentals of Web Development, Third Edition&lt;/h1&gt; &#xA;&lt;h3&gt;End-of-Chapter Projects Start Files&lt;/h3&gt; &#xA;&lt;p&gt;Backup repo for the start versions of the end-of-chapter projects&lt;/p&gt;</summary>
+    <title>gustavoguanabara/php-moderno</title>
+    <updated>2023-02-02T01:32:57Z</updated>
+    <id>tag:github.com,2023-02-02:/gustavoguanabara/php-moderno</id>
+    <link href="https://github.com/gustavoguanabara/php-moderno" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositório para o Curso de PHP moderno, disponível no Curso em Vídeo&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;php-moderno&lt;/h1&gt; &#xA;&lt;p&gt;Repositório para o Curso de PHP moderno, disponível no Curso em Vídeo&lt;/p&gt;</summary>
   </entry>
 </feed>

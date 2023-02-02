@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DenizenScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-01T01:33:29Z</updated>
+  <updated>2023-02-02T01:33:36Z</updated>
   <subtitle>Daily Trending of DenizenScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>acikek/chaozen</title>
-    <updated>2023-02-01T01:33:29Z</updated>
-    <id>tag:github.com,2023-02-01:/acikek/chaozen</id>
-    <link href="https://github.com/acikek/chaozen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Minecraft server aiming to empower chaotic creativity among a group of friends.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
