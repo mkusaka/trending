@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:32:23Z</updated>
+  <updated>2023-02-03T01:32:17Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>samply/blaze</title>
-    <updated>2023-02-02T01:32:23Z</updated>
-    <id>tag:github.com,2023-02-02:/samply/blaze</id>
-    <link href="https://github.com/samply/blaze" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A FHIR® Server with internal, fast CQL Evaluation Engine&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stathissideris/defalt</title>
-    <updated>2023-02-02T01:32:23Z</updated>
-    <id>tag:github.com,2023-02-02:/stathissideris/defalt</id>
-    <link href="https://github.com/stathissideris/defalt" rel="alternate"></link>
+    <title>jassinm/clojuremahout</title>
+    <updated>2023-02-03T01:32:17Z</updated>
+    <id>tag:github.com,2023-02-03:/jassinm/clojuremahout</id>
+    <link href="https://github.com/jassinm/clojuremahout" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

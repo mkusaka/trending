@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:46:34Z</updated>
+  <updated>2023-02-03T01:46:12Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/astro-ecommerce</title>
-    <updated>2023-02-02T01:46:34Z</updated>
-    <id>tag:github.com,2023-02-02:/creativetimofficial/astro-ecommerce</id>
-    <link href="https://github.com/creativetimofficial/astro-ecommerce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Astro Ecommerce - Ready to use components&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>trufflesecurity/xsshunter</title>
-    <updated>2023-02-02T01:46:34Z</updated>
-    <id>tag:github.com,2023-02-02:/trufflesecurity/xsshunter</id>
-    <link href="https://github.com/trufflesecurity/xsshunter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ObsidianTTRPGProject/ObsidianTTRPGShare</title>
-    <updated>2023-02-02T01:46:34Z</updated>
-    <id>tag:github.com,2023-02-02:/ObsidianTTRPGProject/ObsidianTTRPGShare</id>
-    <link href="https://github.com/ObsidianTTRPGProject/ObsidianTTRPGShare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a repository for sharing TTRPG elements that may be useful for Obsidian.md TTRPG Users.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alpercun/fancy-macbook-app</title>
+    <updated>2023-02-03T01:46:12Z</updated>
+    <id>tag:github.com,2023-02-03:/alpercun/fancy-macbook-app</id>
+    <link href="https://github.com/alpercun/fancy-macbook-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fancy Macbook App allows you to specifically select the applications included in the brew and gives the ready terminal command to install on your mac through these selected applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

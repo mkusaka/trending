@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:46:12Z</updated>
+  <updated>2023-02-03T01:45:49Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>andygrove/ray-sql</title>
-    <updated>2023-02-02T01:46:12Z</updated>
-    <id>tag:github.com,2023-02-02:/andygrove/ray-sql</id>
-    <link href="https://github.com/andygrove/ray-sql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Distributed SQL Query Engine in Python using Ray&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>toeverything/OctoBase</title>
-    <updated>2023-02-02T01:46:12Z</updated>
-    <id>tag:github.com,2023-02-02:/toeverything/OctoBase</id>
-    <link href="https://github.com/toeverything/OctoBase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>toml-rs/toml</title>
-    <updated>2023-02-02T01:46:12Z</updated>
-    <id>tag:github.com,2023-02-02:/toml-rs/toml</id>
-    <link href="https://github.com/toml-rs/toml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust TOML Parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nazariglez/notan</title>
+    <updated>2023-02-03T01:45:49Z</updated>
+    <id>tag:github.com,2023-02-03:/Nazariglez/notan</id>
+    <link href="https://github.com/Nazariglez/notan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-platform multimedia layer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:41:14Z</updated>
+  <updated>2023-02-03T01:40:53Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>spm/spm</title>
-    <updated>2023-02-02T01:41:14Z</updated>
-    <id>tag:github.com,2023-02-02:/spm/spm</id>
-    <link href="https://github.com/spm/spm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Statistical Parametric Mapping&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Chuanyok/Variable-Sampling-Region-RRT</title>
+    <updated>2023-02-03T01:40:53Z</updated>
+    <id>tag:github.com,2023-02-03:/Chuanyok/Variable-Sampling-Region-RRT</id>
+    <link href="https://github.com/Chuanyok/Variable-Sampling-Region-RRT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RRT based path planning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cpp-lln-lab/bidspm</title>
+    <updated>2023-02-03T01:40:53Z</updated>
+    <id>tag:github.com,2023-02-03:/cpp-lln-lab/bidspm</id>
+    <link href="https://github.com/cpp-lln-lab/bidspm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;an SPM centric BIDS app&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

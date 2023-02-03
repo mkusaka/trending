@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:50:02Z</updated>
+  <updated>2023-02-03T01:49:31Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BucknellDSC/heresies</title>
+    <updated>2023-02-03T01:49:31Z</updated>
+    <id>tag:github.com,2023-02-03:/BucknellDSC/heresies</id>
+    <link href="https://github.com/BucknellDSC/heresies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;heresies&lt;/h1&gt; &#xA;&lt;p&gt;Repository for the Bucknell Heresies project&lt;/p&gt; &#xA;&lt;h2&gt;Encoding process:&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Export TEI file from Transkribus &#xA;  &lt;ol&gt; &#xA;   &lt;li&gt;Put XML and PDF files in folder within issue(no) and author folder - check existing file nomenclature&lt;/li&gt; &#xA;  &lt;/ol&gt; &lt;/li&gt; &#xA; &lt;li&gt;Run transformation scenario (XSLTs\XML2TEI.xsl), &#xA;  &lt;ol&gt; &#xA;   &lt;li&gt;Make sure that the transformation scenario has an appended file name to distinguish it from TK output file&lt;/li&gt; &#xA;  &lt;/ol&gt; &lt;/li&gt; &#xA; &lt;li&gt;Proof against text PDF to make sure that all paragraphs and notes are in the right place &#xA;  &lt;ol&gt; &#xA;   &lt;li&gt;Ignore column and page breaks - follow paragraph structure only&lt;/li&gt; &#xA;   &lt;li&gt;put endnotes at point in text (where note number is placed) rather than at end of document&lt;/li&gt; &#xA;   &lt;li&gt;Use &lt;code&gt;&amp;lt;back&amp;gt;&lt;/code&gt;(after the close &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; to provide the author biography)&lt;/li&gt; &#xA;   &lt;li&gt;Give essay title and author name in header in &lt;code&gt;&amp;lt;titleStmt&amp;gt;&lt;/code&gt; and issue title in &lt;code&gt;&amp;lt;sourceDesc&amp;gt;&lt;/code&gt;&lt;/li&gt; &#xA;   &lt;li&gt;Use this structure to capture the title and author name within the body of the text: &#xA;    &lt;ol&gt; &#xA;     &lt;li&gt;&lt;code&gt;&amp;lt;head&amp;gt;&amp;lt;title&amp;gt;TITLE&amp;lt;/title&amp;gt;&amp;lt;/head&amp;gt;&amp;lt;byline&amp;gt;&amp;lt;persName&amp;gt;AUTHORNAME&amp;lt;/persName&amp;gt;&amp;lt;/byline&amp;gt;&lt;/code&gt;&lt;/li&gt; &#xA;    &lt;/ol&gt; &lt;/li&gt; &#xA;  &lt;/ol&gt; &lt;/li&gt; &#xA; &lt;li&gt;Save as [author_last_name.xml] and move to texts directory within issue. These new files are ready for semantic encoding.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

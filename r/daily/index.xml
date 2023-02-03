@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:45:02Z</updated>
+  <updated>2023-02-03T01:44:45Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JaneSullivan-NOAA/shortspine_thornyhead_2023</title>
-    <updated>2023-02-02T01:45:02Z</updated>
-    <id>tag:github.com,2023-02-02:/JaneSullivan-NOAA/shortspine_thornyhead_2023</id>
-    <link href="https://github.com/JaneSullivan-NOAA/shortspine_thornyhead_2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2023 West Coast stock assessment for shortspine thornyhead&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Heads up! Josh is going to try out a different file organization on a separate branch, so we might want to hold off before we develop too much within this repo.&lt;/p&gt;</summary>
+    <title>info201b-2023wi/lab3-dataframes</title>
+    <updated>2023-02-03T01:44:45Z</updated>
+    <id>tag:github.com,2023-02-03:/info201b-2023wi/lab3-dataframes</id>
+    <link href="https://github.com/info201b-2023wi/lab3-dataframes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The lab covers the very basics of data frames&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lab 3&lt;/h1&gt; &#xA;&lt;p&gt;This lab covers basic data frames and data-frame related methods.&lt;/p&gt; &#xA;&lt;p&gt;It is targeting some of the tricks in PS3&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>psu-stat380/weekly-summary-template</title>
-    <updated>2023-02-02T01:45:02Z</updated>
-    <id>tag:github.com,2023-02-02:/psu-stat380/weekly-summary-template</id>
-    <link href="https://github.com/psu-stat380/weekly-summary-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>robjhyndman/fpp3_slides</title>
-    <updated>2023-02-02T01:45:02Z</updated>
-    <id>tag:github.com,2023-02-02:/robjhyndman/fpp3_slides</id>
-    <link href="https://github.com/robjhyndman/fpp3_slides" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slides to accompany Forecasting: Principles and Practice, 3rd edition&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;fpp3 Slides&lt;/h1&gt; &#xA;&lt;p&gt;Slides to accompany &#34;Forecasting: Principles and Practice&#34;, 3rd edition.&lt;/p&gt;</summary>
+    <title>yumouqiu/DS202-classexample1</title>
+    <updated>2023-02-03T01:44:45Z</updated>
+    <id>tag:github.com,2023-02-03:/yumouqiu/DS202-classexample1</id>
+    <link href="https://github.com/yumouqiu/DS202-classexample1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DS202-classexample1&lt;/h1&gt; &#xA;&lt;p&gt;edit&lt;/p&gt; &#xA;&lt;p&gt;This is an example to use pull and push functions of Github.&lt;/p&gt; &#xA;&lt;p&gt;Push changes from yqiu1 account.&lt;/p&gt; &#xA;&lt;p&gt;Push changes made in Rstudio locally on Mac latop.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:36:26Z</updated>
+  <updated>2023-02-03T01:36:05Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bsletten/netkernel-gradle-plugin</title>
+    <updated>2023-02-03T01:36:05Z</updated>
+    <id>tag:github.com,2023-02-03:/bsletten/netkernel-gradle-plugin</id>
+    <link href="https://github.com/bsletten/netkernel-gradle-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A unified Gradle Plugin for the NetKernel community&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hoto/jenkinsfile-examples</title>
+    <updated>2023-02-03T01:36:05Z</updated>
+    <id>tag:github.com,2023-02-03:/hoto/jenkinsfile-examples</id>
+    <link href="https://github.com/hoto/jenkinsfile-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Executable examples of Jenkinsfiles.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

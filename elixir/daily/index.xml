@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:34:23Z</updated>
+  <updated>2023-02-03T01:34:15Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mcrumm/phx-form</title>
-    <updated>2023-02-02T01:34:23Z</updated>
-    <id>tag:github.com,2023-02-02:/mcrumm/phx-form</id>
-    <link href="https://github.com/mcrumm/phx-form" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Form playground&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>parallax-labs-team/optimus</title>
-    <updated>2023-02-02T01:34:23Z</updated>
-    <id>tag:github.com,2023-02-02:/parallax-labs-team/optimus</id>
-    <link href="https://github.com/parallax-labs-team/optimus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prime Trust Client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BlakeWilliams/Elixir-Slack</title>
+    <updated>2023-02-03T01:34:15Z</updated>
+    <id>tag:github.com,2023-02-03:/BlakeWilliams/Elixir-Slack</id>
+    <link href="https://github.com/BlakeWilliams/Elixir-Slack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slack real time messaging and web API client in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

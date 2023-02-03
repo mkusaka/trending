@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:35:11Z</updated>
+  <updated>2023-02-03T01:34:56Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cp2k/dbcsr</title>
-    <updated>2023-02-02T01:35:11Z</updated>
-    <id>tag:github.com,2023-02-02:/cp2k/dbcsr</id>
-    <link href="https://github.com/cp2k/dbcsr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DBCSR: Distributed Block Compressed Sparse Row matrix library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

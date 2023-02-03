@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:35:35Z</updated>
+  <updated>2023-02-03T01:35:10Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RushMaverick/ggj23</title>
-    <updated>2023-02-02T01:35:35Z</updated>
-    <id>tag:github.com,2023-02-02:/RushMaverick/ggj23</id>
-    <link href="https://github.com/RushMaverick/ggj23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The project we made for Global Game Jam -23.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devloglogan/MultiplayerFPSTutorial</title>
+    <updated>2023-02-03T01:35:10Z</updated>
+    <id>tag:github.com,2023-02-03:/devloglogan/MultiplayerFPSTutorial</id>
+    <link href="https://github.com/devloglogan/MultiplayerFPSTutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Simple Godot 4 Online Multiplayer FPS Prototype&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GodotVR/godot-xr-template</title>
+    <updated>2023-02-03T01:35:10Z</updated>
+    <id>tag:github.com,2023-02-03:/GodotVR/godot-xr-template</id>
+    <link href="https://github.com/GodotVR/godot-xr-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot XR Template project containing needed plugins, XR Tools and a very simple demo game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

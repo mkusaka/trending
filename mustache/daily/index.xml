@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:41:56Z</updated>
+  <updated>2023-02-03T01:41:33Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rancher/partner-charts</title>
-    <updated>2023-02-02T01:41:56Z</updated>
-    <id>tag:github.com,2023-02-02:/rancher/partner-charts</id>
-    <link href="https://github.com/rancher/partner-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fluent/helm-charts</title>
+    <updated>2023-02-03T01:41:33Z</updated>
+    <id>tag:github.com,2023-02-03:/fluent/helm-charts</id>
+    <link href="https://github.com/fluent/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm Charts for Fluentd and Fluent Bit&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BigKAA/youtube</title>
+    <updated>2023-02-03T01:41:33Z</updated>
+    <id>tag:github.com,2023-02-03:/BigKAA/youtube</id>
+    <link href="https://github.com/BigKAA/youtube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Files for youtube&#39;s videos&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

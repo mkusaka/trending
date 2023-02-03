@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:41:09Z</updated>
+  <updated>2023-02-03T01:40:48Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>formatc1702/bluetooth-minidisc</title>
-    <updated>2023-02-02T01:41:09Z</updated>
-    <id>tag:github.com,2023-02-02:/formatc1702/bluetooth-minidisc</id>
-    <link href="https://github.com/formatc1702/bluetooth-minidisc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bringing a Minidisc player from 2001 into 2021 by adding Bluetooth connectivity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Dreadnought-Robotics/calypso-simulator</title>
+    <updated>2023-02-03T01:40:48Z</updated>
+    <id>tag:github.com,2023-02-03:/Dreadnought-Robotics/calypso-simulator</id>
+    <link href="https://github.com/Dreadnought-Robotics/calypso-simulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>awesome-selfhosted/awesome-selfhosted</title>
-    <updated>2023-02-02T01:41:09Z</updated>
-    <id>tag:github.com,2023-02-02:/awesome-selfhosted/awesome-selfhosted</id>
-    <link href="https://github.com/awesome-selfhosted/awesome-selfhosted" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of Free Software network services and web applications which can be hosted on your own servers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ably/geoip</title>
-    <updated>2023-02-02T01:41:09Z</updated>
-    <id>tag:github.com,2023-02-02:/ably/geoip</id>
-    <link href="https://github.com/ably/geoip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a copy of the maxmind geoip database for use by our router ci&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CeresDB/docs</title>
+    <updated>2023-02-03T01:40:48Z</updated>
+    <id>tag:github.com,2023-02-03:/CeresDB/docs</id>
+    <link href="https://github.com/CeresDB/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CeresDB Documents&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

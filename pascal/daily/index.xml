@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:43:11Z</updated>
+  <updated>2023-02-03T01:42:56Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tinyBigGAMES/SDL3</title>
-    <updated>2023-02-02T01:43:11Z</updated>
-    <id>tag:github.com,2023-02-02:/tinyBigGAMES/SDL3</id>
-    <link href="https://github.com/tinyBigGAMES/SDL3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple DirectMedia Library 3 for Pascal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jonentropy/zipit_hud</title>
+    <updated>2023-02-03T01:42:56Z</updated>
+    <id>tag:github.com,2023-02-03:/jonentropy/zipit_hud</id>
+    <link href="https://github.com/jonentropy/zipit_hud" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A now-playing screen for hgd, intended to run on the Zipit Z2.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-02T01:40:16Z</updated>
+  <updated>2023-02-03T01:39:53Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jesseweed/seti-ui</title>
+    <updated>2023-02-03T01:39:53Z</updated>
+    <id>tag:github.com,2023-02-03:/jesseweed/seti-ui</id>
+    <link href="https://github.com/jesseweed/seti-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A subtle dark colored UI theme for Atom.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>exoplatform/digital-workplace</title>
+    <updated>2023-02-03T01:39:53Z</updated>
+    <id>tag:github.com,2023-02-03:/exoplatform/digital-workplace</id>
+    <link href="https://github.com/exoplatform/digital-workplace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Digital workplace site&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
