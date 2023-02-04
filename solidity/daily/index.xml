@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-03T01:46:58Z</updated>
+  <updated>2023-02-04T01:46:12Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-01-popcorn</title>
-    <updated>2023-02-03T01:46:58Z</updated>
-    <id>tag:github.com,2023-02-03:/code-423n4/2023-01-popcorn</id>
-    <link href="https://github.com/code-423n4/2023-01-popcorn" rel="alternate"></link>
+    <title>Certora/2023-01-blockswap-fv</title>
+    <updated>2023-02-04T01:46:12Z</updated>
+    <id>tag:github.com,2023-02-04:/Certora/2023-01-blockswap-fv</id>
+    <link href="https://github.com/Certora/2023-01-blockswap-fv" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2023-01-canto-identity</title>
-    <updated>2023-02-03T01:46:58Z</updated>
-    <id>tag:github.com,2023-02-03:/code-423n4/2023-01-canto-identity</id>
-    <link href="https://github.com/code-423n4/2023-01-canto-identity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>411112/self-education</title>
+    <updated>2023-02-04T01:46:12Z</updated>
+    <id>tag:github.com,2023-02-04:/411112/self-education</id>
+    <link href="https://github.com/411112/self-education" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a repo to learn code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>worldcoin/optimism-state-bridge</title>
-    <updated>2023-02-03T01:46:58Z</updated>
-    <id>tag:github.com,2023-02-03:/worldcoin/optimism-state-bridge</id>
-    <link href="https://github.com/worldcoin/optimism-state-bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;State bridge between Ethereum mainnet and the Optimism rollup for the Worldcoin Semaphore contract&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Exzo-Network/ERC-20-token-smart-contract</title>
+    <updated>2023-02-04T01:46:12Z</updated>
+    <id>tag:github.com,2023-02-04:/Exzo-Network/ERC-20-token-smart-contract</id>
+    <link href="https://github.com/Exzo-Network/ERC-20-token-smart-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An ERC-20 standard for smart contract design of tokenization for a digital asset.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

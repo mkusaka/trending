@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-03T01:30:35Z</updated>
+  <updated>2023-02-04T01:29:57Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mozilla/ecosystem-platform</title>
-    <updated>2023-02-03T01:30:35Z</updated>
-    <id>tag:github.com,2023-02-03:/mozilla/ecosystem-platform</id>
-    <link href="https://github.com/mozilla/ecosystem-platform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation Hub for Firefox Accounts, Sync Client Integrations and More&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

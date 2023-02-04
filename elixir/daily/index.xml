@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-03T01:34:15Z</updated>
+  <updated>2023-02-04T01:34:04Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BlakeWilliams/Elixir-Slack</title>
-    <updated>2023-02-03T01:34:15Z</updated>
-    <id>tag:github.com,2023-02-03:/BlakeWilliams/Elixir-Slack</id>
-    <link href="https://github.com/BlakeWilliams/Elixir-Slack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Slack real time messaging and web API client in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>healthstarconnectsllc/elixir-microsoft-graph</title>
+    <updated>2023-02-04T01:34:04Z</updated>
+    <id>tag:github.com,2023-02-04:/healthstarconnectsllc/elixir-microsoft-graph</id>
+    <link href="https://github.com/healthstarconnectsllc/elixir-microsoft-graph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir interface for Microsoft Graph API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

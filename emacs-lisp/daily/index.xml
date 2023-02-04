@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-03T01:34:21Z</updated>
+  <updated>2023-02-04T01:34:11Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>barrybridgens/.emacs.d</title>
-    <updated>2023-02-03T01:34:21Z</updated>
-    <id>tag:github.com,2023-02-03:/barrybridgens/.emacs.d</id>
-    <link href="https://github.com/barrybridgens/.emacs.d" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My emacs setup&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;.emacs.d&lt;/h1&gt; &#xA;&lt;p&gt;My emacs setup&lt;/p&gt;</summary>
+    <title>cyraxjoe/emaki</title>
+    <updated>2023-02-04T01:34:11Z</updated>
+    <id>tag:github.com,2023-02-04:/cyraxjoe/emaki</id>
+    <link href="https://github.com/cyraxjoe/emaki" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emacs mode to directly edit the maki blog.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;em&gt;emaki&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;Emacs mode to edit the maki blog.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ibnHatab/env-at-picon</title>
+    <updated>2023-02-04T01:34:11Z</updated>
+    <id>tag:github.com,2023-02-04:/ibnHatab/env-at-picon</id>
+    <link href="https://github.com/ibnHatab/env-at-picon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Development environment on Linux&lt;/p&gt;&lt;hr&gt;&lt;ol start=&#34;0&#34;&gt; &#xA; &lt;li&gt; &lt;p&gt;Requirements: ipython bash-completion&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Link or copy following files to the $HOME bin/ - some common scripts apps/ - toolchain and emacs configs .bash_profile - toolchain defs .bashrc .bash_aliases .emacs - emacs config .erlang - erlang config .inputrc - ? .vimrc - vim config for trace reading :ic and :mounse&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;You can adapt this command to do the job for you: for i in &lt;code&gt;find env/ -maxdepth 1 | sed -e &#39;1d&#39; | grep -v .git&lt;/code&gt;; do ln -sf $i; done&lt;/p&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;Get Erlang test tools&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;mkdir libs; cd libs git clone gitolite@caprica:femto/femto_test git config --global http.proxy $http_proxy rebar get-deps rebar compile&lt;/p&gt; &#xA;&lt;p&gt;cd deps; git clone &lt;a href=&#34;https://github.com/stesla/distel.git&#34;&gt;https://github.com/stesla/distel.git&lt;/a&gt; cd distel; mkdir ebin; make erl&lt;/p&gt; &#xA;&lt;p&gt;edit .erlabg&lt;/p&gt;</summary>
   </entry>
 </feed>

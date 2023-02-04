@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-03T01:47:22Z</updated>
+  <updated>2023-02-04T01:46:36Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sebastianjnuwu/LinksApp</title>
-    <updated>2023-02-03T01:47:22Z</updated>
-    <id>tag:github.com,2023-02-03:/sebastianjnuwu/LinksApp</id>
-    <link href="https://github.com/sebastianjnuwu/LinksApp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌠 LinksApp is a social-linking and social networking platform that operates on a freemium model.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PlanetUI/flare</title>
-    <updated>2023-02-03T01:47:22Z</updated>
-    <id>tag:github.com,2023-02-03:/PlanetUI/flare</id>
-    <link href="https://github.com/PlanetUI/flare" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enterprise Resource Planning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>samyabrata-maji/serious-portfolio</title>
+    <updated>2023-02-04T01:46:36Z</updated>
+    <id>tag:github.com,2023-02-04:/samyabrata-maji/serious-portfolio</id>
+    <link href="https://github.com/samyabrata-maji/serious-portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Portfolio for 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

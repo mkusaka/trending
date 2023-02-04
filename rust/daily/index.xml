@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-03T01:45:49Z</updated>
+  <updated>2023-02-04T01:44:57Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nazariglez/notan</title>
-    <updated>2023-02-03T01:45:49Z</updated>
-    <id>tag:github.com,2023-02-03:/Nazariglez/notan</id>
-    <link href="https://github.com/Nazariglez/notan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform multimedia layer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>denoland/deno_lint</title>
+    <updated>2023-02-04T01:44:57Z</updated>
+    <id>tag:github.com,2023-02-04:/denoland/deno_lint</id>
+    <link href="https://github.com/denoland/deno_lint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blazing fast linter for JavaScript and TypeScript written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fiberplane/autometrics-rs</title>
+    <updated>2023-02-04T01:44:57Z</updated>
+    <id>tag:github.com,2023-02-04:/fiberplane/autometrics-rs</id>
+    <link href="https://github.com/fiberplane/autometrics-rs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

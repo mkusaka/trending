@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-03T01:35:10Z</updated>
+  <updated>2023-02-04T01:35:04Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devloglogan/MultiplayerFPSTutorial</title>
-    <updated>2023-02-03T01:35:10Z</updated>
-    <id>tag:github.com,2023-02-03:/devloglogan/MultiplayerFPSTutorial</id>
-    <link href="https://github.com/devloglogan/MultiplayerFPSTutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Simple Godot 4 Online Multiplayer FPS Prototype&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-02c-Explosions-and-Enemy</title>
+    <updated>2023-02-04T01:35:04Z</updated>
+    <id>tag:github.com,2023-02-04:/BL-MSCH-C220/Exercise-02c-Explosions-and-Enemy</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-02c-Explosions-and-Enemy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GodotVR/godot-xr-template</title>
-    <updated>2023-02-03T01:35:10Z</updated>
-    <id>tag:github.com,2023-02-03:/GodotVR/godot-xr-template</id>
-    <link href="https://github.com/GodotVR/godot-xr-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot XR Template project containing needed plugins, XR Tools and a very simple demo game&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AdrienQuillet/godot-yet-another-behavior-tree</title>
+    <updated>2023-02-04T01:35:04Z</updated>
+    <id>tag:github.com,2023-02-04:/AdrienQuillet/godot-yet-another-behavior-tree</id>
+    <link href="https://github.com/AdrienQuillet/godot-yet-another-behavior-tree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Behavior Tree implementation for Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Gouellie/Roots</title>
+    <updated>2023-02-04T01:35:04Z</updated>
+    <id>tag:github.com,2023-02-04:/Gouellie/Roots</id>
+    <link href="https://github.com/Gouellie/Roots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Entry for Singapore lobal game jam 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

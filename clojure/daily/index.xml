@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-03T01:32:17Z</updated>
+  <updated>2023-02-04T01:32:07Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jassinm/clojuremahout</title>
-    <updated>2023-02-03T01:32:17Z</updated>
-    <id>tag:github.com,2023-02-03:/jassinm/clojuremahout</id>
-    <link href="https://github.com/jassinm/clojuremahout" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kushidesign/kushi</title>
+    <updated>2023-02-04T01:32:07Z</updated>
+    <id>tag:github.com,2023-02-04:/kushidesign/kushi</id>
+    <link href="https://github.com/kushidesign/kushi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Styling in ClojureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>peterwang/clj-app-notes</title>
+    <updated>2023-02-04T01:32:07Z</updated>
+    <id>tag:github.com,2023-02-04:/peterwang/clj-app-notes</id>
+    <link href="https://github.com/peterwang/clj-app-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A demo clojure project on Heroku.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
