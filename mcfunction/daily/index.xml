@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-04T01:39:48Z</updated>
+  <updated>2023-02-05T08:23:31Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Moon-404/GunBattleRoyale</title>
+    <updated>2023-02-05T08:23:31Z</updated>
+    <id>tag:github.com,2023-02-05:/Moon-404/GunBattleRoyale</id>
+    <link href="https://github.com/Moon-404/GunBattleRoyale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Minecraft Gun Battle Royale Mod&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

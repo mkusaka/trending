@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scala Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-05T08:47:53Z</updated>
+  <subtitle>Weekly Trending of Scala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ucb-bar/constellation</title>
+    <updated>2023-02-05T08:47:53Z</updated>
+    <id>tag:github.com,2023-02-05:/ucb-bar/constellation</id>
+    <link href="https://github.com/ucb-bar/constellation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Chisel RTL generator for network-on-chip interconnects&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Constellation NoC Generator&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;Documentation&lt;/strong&gt;: &lt;a href=&#34;http://constellation.readthedocs.io&#34;&gt;constellation.readthedocs.io&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Constellation is a Chisel NoC RTL generator framework designed to provide the core interconnect fabric for heterogeneous many-core, many-accelerator SoCs.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Constellation generates &lt;strong&gt;packet-switched wormhole-routed networks with virtual networks and credit-based flow control&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;Constellation supports &lt;strong&gt;arbitrary directed graph network topologies&lt;/strong&gt;, including &lt;strong&gt;irregular&lt;/strong&gt; and &lt;strong&gt;hierarchical&lt;/strong&gt; network topologies&lt;/li&gt; &#xA; &lt;li&gt;Constellation includes a &lt;strong&gt;routing algorithm verifier and routing-table compiler&lt;/strong&gt;, which can verify and generate deadlock-free routing tables for arbitrary topologies&lt;/li&gt; &#xA; &lt;li&gt;Constellation is a &lt;strong&gt;protocol-independent transport layer&lt;/strong&gt;, yet is capable of compliant deadlock-free transport of protocols like &lt;strong&gt;AXI-4&lt;/strong&gt; and &lt;strong&gt;TileLink&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;Constellation supports drop-in &lt;strong&gt;integration in Chipyard/Rocketchip SoCs&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;Constellation is &lt;strong&gt;rigorously tested&lt;/strong&gt;, with almost 100 different tests across as many network configurations&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ucb-bar/constellation/master/docs/source/diagrams/bigsoc.svg?raw=true&#34; alt=&#34;Constellation SoC&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Acknowledgements&lt;/h2&gt; &#xA;&lt;p&gt;Research was partially funded by SLICE Lab industrial sponsors and affiliates Amazon, Apple, Google, Intel, Qualcomm, and Western Digital. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>buster84/playTutorialWithCucumber</title>
+    <updated>2023-02-05T08:47:53Z</updated>
+    <id>tag:github.com,2023-02-05:/buster84/playTutorialWithCucumber</id>
+    <link href="https://github.com/buster84/playTutorialWithCucumber" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I wrote play tutorial with cucumber.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;This is just play tutorial with cucumber.&lt;/h1&gt; &#xA;&lt;p&gt;You wanna see more detail, you should go to &lt;a href=&#34;http://buster84.wordpress.com/play2-scala-cucumber/&#34;&gt;my blog&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>nullobject/medusa</title>
+    <updated>2023-02-05T08:47:53Z</updated>
+    <id>tag:github.com,2023-02-05:/nullobject/medusa</id>
+    <link href="https://github.com/nullobject/medusa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

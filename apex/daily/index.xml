@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-04T01:29:51Z</updated>
+  <updated>2023-02-05T08:13:36Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vitapramdevputra/Dev13Batch</title>
-    <updated>2023-02-04T01:29:51Z</updated>
-    <id>tag:github.com,2023-02-04:/vitapramdevputra/Dev13Batch</id>
-    <link href="https://github.com/vitapramdevputra/Dev13Batch" rel="alternate"></link>
+    <title>vitapramdevputra/Batch14Dev</title>
+    <updated>2023-02-05T08:13:36Z</updated>
+    <id>tag:github.com,2023-02-05:/vitapramdevputra/Batch14Dev</id>
+    <link href="https://github.com/vitapramdevputra/Batch14Dev" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

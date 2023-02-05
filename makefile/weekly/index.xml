@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-05T08:43:00Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>immersive-translate/immersive-translate</title>
+    <updated>2023-02-05T08:43:00Z</updated>
+    <id>tag:github.com,2023-02-05:/immersive-translate/immersive-translate</id>
+    <link href="https://github.com/immersive-translate/immersive-translate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>awesome-selfhosted/awesome-selfhosted</title>
+    <updated>2023-02-05T08:43:00Z</updated>
+    <id>tag:github.com,2023-02-05:/awesome-selfhosted/awesome-selfhosted</id>
+    <link href="https://github.com/awesome-selfhosted/awesome-selfhosted" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of Free Software network services and web applications which can be hosted on your own servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zkan/getting-started-with-analytics-engineering</title>
+    <updated>2023-02-05T08:43:00Z</updated>
+    <id>tag:github.com,2023-02-05:/zkan/getting-started-with-analytics-engineering</id>
+    <link href="https://github.com/zkan/getting-started-with-analytics-engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Getting Started with Analytics Engineering&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

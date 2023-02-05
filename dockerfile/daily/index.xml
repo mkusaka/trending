@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-04T01:33:37Z</updated>
+  <updated>2023-02-05T08:16:51Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>velor2012/lookbusy-docker</title>
+    <updated>2023-02-05T08:16:51Z</updated>
+    <id>tag:github.com,2023-02-05:/velor2012/lookbusy-docker</id>
+    <link href="https://github.com/velor2012/lookbusy-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;lookbusy-docker&lt;/h1&gt; &#xA;&lt;p&gt;用于使你的服务器看起来很忙碌，简单易用！懒得看部署方法可以直接跳到最后用懒人方法 原项目为 &lt;a href=&#34;https://github.com/flow2000/lookbusy&#34;&gt;https://github.com/flow2000/lookbusy&lt;/a&gt; 本项目将其封装为docker进行部署，应要求，也提供二进制程序直接运行的方法&lt;/p&gt; &#xA;&lt;h2&gt;使用方法&lt;/h2&gt; &#xA;&lt;h3&gt;构建镜像&lt;/h3&gt; &#xA;&lt;p&gt;克隆本仓库后&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;docker build . t lookbusy&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;修改运行参数&lt;/h3&gt; &#xA;&lt;p&gt;修改 start.sh中的各项参数，参考如下&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;lookbusy -c 50 # 占用所有 CPU 核心各 50%&#xA;lookbusy -c 50 -n 2 # 占用两个 CPU 核心各 50%&#xA;lookbusy -c 50-80 -r curve # 占用所有 CPU 核心在 50%-80% 左右浮动&#xA;lookbusy -c 0 -m 128MB -M 1000 # 每 1000 毫秒，循环释放并分配 128MB 内存&#xA;lookbusy -c 0 -d 1GB -b 1MB -D 10 # 每 10 毫秒，循环进行 1MB 磁盘写入，临时文件不超过 1GB&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;此处参考博客 &lt;a href=&#34;https://51.ruyo.net/18289.html&#34;&gt;https://51.ruyo.net/18289.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;运行&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;docker run -d --name lookbusy --restart=always -v /PATH/TO/start.sh:/app/start.sh lookbusy&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;其中 &lt;strong&gt;/PATH/TO/start.sh&lt;/strong&gt; 指到达克隆下来的lookbusy仓库的start.sh脚本的绝对路径&lt;/p&gt; &#xA;&lt;h2&gt;懒人方法&lt;/h2&gt; &#xA;&lt;h3&gt;二进制文件启动&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;wget https://raw.githubusercontent.com/velor2012/lookbusy-docker/main/lookbusy${-arm} -O lookbusy &amp;amp;&amp;amp; chmod +x lookbusy&#xA;./lookbusy -c 50-60 -r curve -n 2 # 运行参数请根据实际情况修改&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;如果是arm架构，需要在lookbusy后加上-arm&lt;/p&gt; &#xA;&lt;h3&gt;docker启动&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;wget https://raw.githubusercontent.com/velor2012/lookbusy-docker/main/start.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;修改start.sh配置后&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker run -d --name lookbusy --restart=always -v /PATH/TO/start.sh:/app/start.sh velor2012/lookbusy${-arm}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;如果是arm架构，需要在lookbusy后加上-arm，即镜像名为velor2012/lookbusy-arm&lt;/p&gt;</summary>
+  </entry>
 </feed>

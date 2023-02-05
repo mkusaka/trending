@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-04T01:30:19Z</updated>
+  <updated>2023-02-05T08:14:07Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MR-RIKI/RDP-Server2</title>
-    <updated>2023-02-04T01:30:19Z</updated>
-    <id>tag:github.com,2023-02-04:/MR-RIKI/RDP-Server2</id>
-    <link href="https://github.com/MR-RIKI/RDP-Server2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lxgw/LxgwWenKai-Lite</title>
+    <updated>2023-02-05T08:14:07Z</updated>
+    <id>tag:github.com,2023-02-05:/lxgw/LxgwWenKai-Lite</id>
+    <link href="https://github.com/lxgw/LxgwWenKai-Lite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The lite edition of LXGW WenKai.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nivanchenko/vanessa-add-beginner-guide</title>
+    <updated>2023-02-05T08:14:07Z</updated>
+    <id>tag:github.com,2023-02-05:/Nivanchenko/vanessa-add-beginner-guide</id>
+    <link href="https://github.com/Nivanchenko/vanessa-add-beginner-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Небольшая статья для быстрого старта в тестирование в мире 1С&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-05T08:41:39Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>julia-vscode/JuliaWorkspaces.jl</title>
+    <updated>2023-02-05T08:41:39Z</updated>
+    <id>tag:github.com,2023-02-05:/julia-vscode/JuliaWorkspaces.jl</id>
+    <link href="https://github.com/julia-vscode/JuliaWorkspaces.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Underlying engine for LanguageServer.jl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SciML/EasyModelAnalysis.jl</title>
+    <updated>2023-02-05T08:41:39Z</updated>
+    <id>tag:github.com,2023-02-05:/SciML/EasyModelAnalysis.jl</id>
+    <link href="https://github.com/SciML/EasyModelAnalysis.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High level functions for analyzing the output of simulations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-05T08:36:21Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ejdyksen/solr-proxy</title>
+    <updated>2023-02-05T08:36:21Z</updated>
+    <id>tag:github.com,2023-02-05:/ejdyksen/solr-proxy</id>
+    <link href="https://github.com/ejdyksen/solr-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hackathon-stuff/getcha-sum-mobile</title>
+    <updated>2023-02-05T08:36:21Z</updated>
+    <id>tag:github.com,2023-02-05:/hackathon-stuff/getcha-sum-mobile</id>
+    <link href="https://github.com/hackathon-stuff/getcha-sum-mobile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kaosat-dev/Backbone.dropbox</title>
+    <updated>2023-02-05T08:36:21Z</updated>
+    <id>tag:github.com,2023-02-05:/kaosat-dev/Backbone.dropbox</id>
+    <link href="https://github.com/kaosat-dev/Backbone.dropbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dropbox storage (sync) for Backbonejs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

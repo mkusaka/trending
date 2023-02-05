@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-04T01:32:07Z</updated>
+  <updated>2023-02-05T08:15:28Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kushidesign/kushi</title>
-    <updated>2023-02-04T01:32:07Z</updated>
-    <id>tag:github.com,2023-02-04:/kushidesign/kushi</id>
-    <link href="https://github.com/kushidesign/kushi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Styling in ClojureScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zalky/runway</title>
+    <updated>2023-02-05T08:15:28Z</updated>
+    <id>tag:github.com,2023-02-05:/zalky/runway</id>
+    <link href="https://github.com/zalky/runway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coding on the fly, from take-off to landing, with a tool.deps reloadable build library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>peterwang/clj-app-notes</title>
-    <updated>2023-02-04T01:32:07Z</updated>
-    <id>tag:github.com,2023-02-04:/peterwang/clj-app-notes</id>
-    <link href="https://github.com/peterwang/clj-app-notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A demo clojure project on Heroku.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rm-hull/turmites</title>
+    <updated>2023-02-05T08:15:28Z</updated>
+    <id>tag:github.com,2023-02-05:/rm-hull/turmites</id>
+    <link href="https://github.com/rm-hull/turmites" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A turmite is a Turing machine which has an orientation as well as a current state and a &#34;tape&#34; that consists of an infinite two-dimensional grid of cells. ClojureScript / HTML5 Canvas / Heroku.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
