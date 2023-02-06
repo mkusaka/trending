@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:25:31Z</updated>
+  <updated>2023-02-06T01:40:42Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AliDehbansiahkarbon/ChatGPTWizard</title>
-    <updated>2023-02-05T08:25:31Z</updated>
-    <id>tag:github.com,2023-02-05:/AliDehbansiahkarbon/ChatGPTWizard</id>
-    <link href="https://github.com/AliDehbansiahkarbon/ChatGPTWizard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An OpenAI (ChatGPT) plug-in for Embarcadero RAD Studio IDE.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

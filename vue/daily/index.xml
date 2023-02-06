@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:32:33Z</updated>
+  <updated>2023-02-06T01:46:27Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>1024-lab/smart-admin</title>
-    <updated>2023-02-05T08:32:33Z</updated>
-    <id>tag:github.com,2023-02-05:/1024-lab/smart-admin</id>
-    <link href="https://github.com/1024-lab/smart-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;低代码中后台解决方案SmartAdmin，使用SpringBoot2 和 Vue3 Setup语法糖、 Composition Api (同时支持JavaScript和TypeScript双版本) ， 我们开源一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱代码，更热爱生活。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wangzmgit/leaf</title>
+    <updated>2023-02-06T01:46:27Z</updated>
+    <id>tag:github.com,2023-02-06:/wangzmgit/leaf</id>
+    <link href="https://github.com/wangzmgit/leaf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iykeevans/altschool-class-of-vue</title>
+    <updated>2023-02-06T01:46:27Z</updated>
+    <id>tag:github.com,2023-02-06:/iykeevans/altschool-class-of-vue</id>
+    <link href="https://github.com/iykeevans/altschool-class-of-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

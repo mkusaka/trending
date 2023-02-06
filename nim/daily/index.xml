@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:24:23Z</updated>
+  <updated>2023-02-06T01:39:46Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>simonkrauter/NiGui</title>
-    <updated>2023-02-05T08:24:23Z</updated>
-    <id>tag:github.com,2023-02-05:/simonkrauter/NiGui</id>
-    <link href="https://github.com/simonkrauter/NiGui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform desktop GUI toolkit written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PhilippMDoerner/nimword</title>
+    <updated>2023-02-06T01:39:46Z</updated>
+    <id>tag:github.com,2023-02-06:/PhilippMDoerner/nimword</id>
+    <link href="https://github.com/PhilippMDoerner/nimword" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple library with a simple interface to do password hashing with different algorithms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:30:38Z</updated>
+  <updated>2023-02-06T01:44:59Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seriousm4x/UpSnap</title>
-    <updated>2023-02-05T08:30:38Z</updated>
-    <id>tag:github.com,2023-02-05:/seriousm4x/UpSnap</id>
-    <link href="https://github.com/seriousm4x/UpSnap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple wake on lan app written with SvelteKit, Go, PocketBase and nmap&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zeno-ml/zeno</title>
-    <updated>2023-02-05T08:30:38Z</updated>
-    <id>tag:github.com,2023-02-05:/zeno-ml/zeno</id>
-    <link href="https://github.com/zeno-ml/zeno" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interactive framework for machine learning evaluation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>blinry/json-explorer</title>
-    <updated>2023-02-05T08:30:38Z</updated>
-    <id>tag:github.com,2023-02-05:/blinry/json-explorer</id>
-    <link href="https://github.com/blinry/json-explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tiny browser for JSON APIs, especially ActivityPub&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SveltePress/sveltepress</title>
+    <updated>2023-02-06T01:44:59Z</updated>
+    <id>tag:github.com,2023-02-06:/SveltePress/sveltepress</id>
+    <link href="https://github.com/SveltePress/sveltepress" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A content centered site build tool, build on top of Sveltekit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

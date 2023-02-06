@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:33:23Z</updated>
+  <updated>2023-02-06T01:47:09Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Not-Nik/raylib-zig</title>
+    <updated>2023-02-06T01:47:09Z</updated>
+    <id>tag:github.com,2023-02-06:/Not-Nik/raylib-zig</id>
+    <link href="https://github.com/Not-Nik/raylib-zig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manually tweaked, auto generated raylib bindings for zig. https://github.com/raysan5/raylib&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ziglang/sublime-zig-language</title>
+    <updated>2023-02-06T01:47:09Z</updated>
+    <id>tag:github.com,2023-02-06:/ziglang/sublime-zig-language</id>
+    <link href="https://github.com/ziglang/sublime-zig-language" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig language support for Sublime Text&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cztomsik/graffiti</title>
+    <updated>2023-02-06T01:47:09Z</updated>
+    <id>tag:github.com,2023-02-06:/cztomsik/graffiti</id>
+    <link href="https://github.com/cztomsik/graffiti" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HTML/CSS engine for node.js and deno.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

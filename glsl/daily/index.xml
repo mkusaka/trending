@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:18:52Z</updated>
+  <updated>2023-02-06T01:34:43Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hl7au/draft-diagnostic-orders</title>
-    <updated>2023-02-05T08:18:52Z</updated>
-    <id>tag:github.com,2023-02-05:/hl7au/draft-diagnostic-orders</id>
-    <link href="https://github.com/hl7au/draft-diagnostic-orders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A proof of concept Diagnostic Orders implementation guide.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

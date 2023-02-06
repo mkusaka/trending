@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:26:30Z</updated>
+  <updated>2023-02-06T01:41:22Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AsFLY-902/RDP_AZURE</title>
-    <updated>2023-02-05T08:26:30Z</updated>
-    <id>tag:github.com,2023-02-05:/AsFLY-902/RDP_AZURE</id>
-    <link href="https://github.com/AsFLY-902/RDP_AZURE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free RDP by Azure is brought to you by AsFLY.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hotvulcan/Thanos.sh</title>
-    <updated>2023-02-05T08:26:30Z</updated>
-    <id>tag:github.com,2023-02-05:/hotvulcan/Thanos.sh</id>
-    <link href="https://github.com/hotvulcan/Thanos.sh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;if you are Thanos(root), this command could delete half your files randomly&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Thanos.sh&lt;/h1&gt; &#xA;&lt;p&gt;This command could &lt;del&gt;delete&lt;/del&gt; list half your files randomly.&lt;/p&gt; &#xA;&lt;p&gt;don&#39;t use it at home and other places. this is a real gun, use it wisely...&lt;/p&gt; &#xA;&lt;p&gt;feel free to post your story on &lt;code&gt;Story.md&lt;/code&gt;, waiting.&lt;/p&gt; &#xA;&lt;h1&gt;灭霸脚本&lt;/h1&gt; &#xA;&lt;p&gt;这个命令会随机“删掉”您一半的文件。。&lt;/p&gt; &#xA;&lt;p&gt;请不要在家里或其他地方使用。这是真家伙，要小心…&lt;/p&gt; &#xA;&lt;p&gt;你可以在&lt;code&gt;Story.md&lt;/code&gt;文件里发布你的故事，期待中…&lt;/p&gt; &#xA;&lt;h2&gt;特别说明&lt;/h2&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;ol&gt; &#xA;  &lt;li&gt;支持mac系统，但是需要使用到&lt;code&gt;gshuf&lt;/code&gt;命令，需要通过&lt;code&gt;brew&lt;/code&gt;安装,安装命令如下：&lt;/li&gt; &#xA; &lt;/ol&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;    #安装brew&#xA;    /usr/bin/ruby -e &#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&#34;&#xA;    #安装gshuf&#xA;    brew install coreutils&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;ol start=&#34;2&#34;&gt; &#xA;  &lt;li&gt;此脚本只显示删除文件的数量。并且。。。总之小心点。。。&lt;/li&gt; &#xA; &lt;/ol&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Invoke-Thanos.ps1&lt;/h2&gt; &#xA;&lt;p&gt;Invokes Thanos to remove each object with probability 1/2. It works with files, registry, environment variables, functions, variables, aliases and certificates.&lt;/p&gt; &#xA;&lt;p&gt;For help, use &lt;code&gt;Get-Help .\Invoke-Thanos.ps1&lt;/code&gt;. Be sure to not actually invoke it!&lt;/p&gt;</summary>
+    <title>MysticFoxDE/WINDOWS-OPTIMIZATIONS</title>
+    <updated>2023-02-06T01:41:22Z</updated>
+    <id>tag:github.com,2023-02-06:/MysticFoxDE/WINDOWS-OPTIMIZATIONS</id>
+    <link href="https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SKRIPTS FOR WINDOWS DESUBOPTIMIZATION&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

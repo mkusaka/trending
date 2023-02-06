@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:18:35Z</updated>
+  <updated>2023-02-06T01:34:27Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>popcar2/GodotTilemapBaker</title>
-    <updated>2023-02-05T08:18:35Z</updated>
-    <id>tag:github.com,2023-02-05:/popcar2/GodotTilemapBaker</id>
-    <link href="https://github.com/popcar2/GodotTilemapBaker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Godot tool to pre-bake collisions on square Tilemaps!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-02d-Menu-and-HUD</title>
+    <updated>2023-02-06T01:34:27Z</updated>
+    <id>tag:github.com,2023-02-06:/BL-MSCH-C220/Exercise-02d-Menu-and-HUD</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-02d-Menu-and-HUD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>clayjohn/GGJ-2023</title>
+    <updated>2023-02-06T01:34:27Z</updated>
+    <id>tag:github.com,2023-02-06:/clayjohn/GGJ-2023</id>
+    <link href="https://github.com/clayjohn/GGJ-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Global Game Jam 2023 project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bunfan/beat-banger-modding-tool</title>
+    <updated>2023-02-06T01:34:27Z</updated>
+    <id>tag:github.com,2023-02-06:/bunfan/beat-banger-modding-tool</id>
+    <link href="https://github.com/bunfan/beat-banger-modding-tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A charting software for Beat Banger&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

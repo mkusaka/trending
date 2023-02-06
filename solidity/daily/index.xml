@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-05T08:30:14Z</updated>
+  <updated>2023-02-06T01:44:38Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>foolstack-omg/solidity-contracts</title>
+    <updated>2023-02-06T01:44:38Z</updated>
+    <id>tag:github.com,2023-02-06:/foolstack-omg/solidity-contracts</id>
+    <link href="https://github.com/foolstack-omg/solidity-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;合约分享&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>brockelmore/how_to_foundry_2.0</title>
+    <updated>2023-02-06T01:44:38Z</updated>
+    <id>tag:github.com,2023-02-06:/brockelmore/how_to_foundry_2.0</id>
+    <link href="https://github.com/brockelmore/how_to_foundry_2.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kartikver15gr8/WEB3-For-All</title>
+    <updated>2023-02-06T01:44:38Z</updated>
+    <id>tag:github.com,2023-02-06:/kartikver15gr8/WEB3-For-All</id>
+    <link href="https://github.com/kartikver15gr8/WEB3-For-All" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Blockchain and deep dive into web3 space.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
