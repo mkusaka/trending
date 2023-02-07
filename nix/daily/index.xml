@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:39:52Z</updated>
+  <updated>2023-02-07T01:42:20Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>imincik/geonix</title>
-    <updated>2023-02-06T01:39:52Z</updated>
-    <id>tag:github.com,2023-02-06:/imincik/geonix</id>
-    <link href="https://github.com/imincik/geonix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cross-platform geospatial packages distribution and working environment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nickel-lang/nickel-nix</title>
+    <updated>2023-02-07T01:42:20Z</updated>
+    <id>tag:github.com,2023-02-07:/nickel-lang/nickel-nix</id>
+    <link href="https://github.com/nickel-lang/nickel-nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experimental Nix toolkit to use nickel as a language for writing nix packages, shells and more.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spacekookie/nixlings</title>
+    <updated>2023-02-07T01:42:20Z</updated>
+    <id>tag:github.com,2023-02-07:/spacekookie/nixlings</id>
+    <link href="https://github.com/spacekookie/nixlings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;❄️ Small exercises to get you used to reading and writing Nix code!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

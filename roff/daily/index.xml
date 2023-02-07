@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:42:50Z</updated>
+  <updated>2023-02-07T01:45:35Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BUAA-BDA/OpenHuFu</title>
-    <updated>2023-02-06T01:42:50Z</updated>
-    <id>tag:github.com,2023-02-06:/BUAA-BDA/OpenHuFu</id>
-    <link href="https://github.com/BUAA-BDA/OpenHuFu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenHuFu is an open-sourced data federation system to support collaborative queries over multi databases with security guarantee.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

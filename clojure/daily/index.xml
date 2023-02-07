@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:31:33Z</updated>
+  <updated>2023-02-07T01:34:01Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>msolli/proletarian</title>
-    <updated>2023-02-06T01:31:33Z</updated>
-    <id>tag:github.com,2023-02-06:/msolli/proletarian</id>
-    <link href="https://github.com/msolli/proletarian" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A durable job queuing and worker system for Clojure backed by PostgreSQL.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>robertluo/fun-map</title>
+    <updated>2023-02-07T01:34:01Z</updated>
+    <id>tag:github.com,2023-02-07:/robertluo/fun-map</id>
+    <link href="https://github.com/robertluo/fun-map" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a map blurs the line between identity, state and function&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>steos/euler-clj</title>
+    <updated>2023-02-07T01:34:01Z</updated>
+    <id>tag:github.com,2023-02-07:/steos/euler-clj</id>
+    <link href="https://github.com/steos/euler-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ProjectEuler.net exercises in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

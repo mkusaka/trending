@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:33:56Z</updated>
+  <updated>2023-02-07T01:36:24Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>erlware/relx</title>
-    <updated>2023-02-06T01:33:56Z</updated>
-    <id>tag:github.com,2023-02-06:/erlware/relx</id>
-    <link href="https://github.com/erlware/relx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sane, simple release creation for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

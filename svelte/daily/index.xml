@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:44:59Z</updated>
+  <updated>2023-02-07T01:50:32Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SveltePress/sveltepress</title>
-    <updated>2023-02-06T01:44:59Z</updated>
-    <id>tag:github.com,2023-02-06:/SveltePress/sveltepress</id>
-    <link href="https://github.com/SveltePress/sveltepress" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A content centered site build tool, build on top of Sveltekit.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>carstenlebek/svelte-email</title>
+    <updated>2023-02-07T01:50:32Z</updated>
+    <id>tag:github.com,2023-02-07:/carstenlebek/svelte-email</id>
+    <link href="https://github.com/carstenlebek/svelte-email" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write and send emails with Svelte ✉️🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maiertech/maier.tech</title>
+    <updated>2023-02-07T01:50:32Z</updated>
+    <id>tag:github.com,2023-02-07:/maiertech/maier.tech</id>
+    <link href="https://github.com/maiertech/maier.tech" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal website written with SvelteKit.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Bastian/dapper-ui</title>
+    <updated>2023-02-07T01:50:32Z</updated>
+    <id>tag:github.com,2023-02-07:/Bastian/dapper-ui</id>
+    <link href="https://github.com/Bastian/dapper-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sleek and modern UI component library for Svelte. Work in Progress!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

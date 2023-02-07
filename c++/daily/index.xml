@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:31:04Z</updated>
+  <updated>2023-02-07T01:33:27Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chenshuo/muduo</title>
-    <updated>2023-02-06T01:31:04Z</updated>
-    <id>tag:github.com,2023-02-06:/chenshuo/muduo</id>
-    <link href="https://github.com/chenshuo/muduo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Event-driven network library for multi-threaded Linux server in C++11&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Muduo is a multithreaded C++ network library based on the reactor pattern.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://github.com/chenshuo/muduo&#34;&gt;http://github.com/chenshuo/muduo&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Copyright (c) 2010, Shuo Chen. All rights reserved.&lt;/p&gt; &#xA;&lt;p&gt;Use of this source code is governed by a BSD-style license that can be found in the License file.&lt;/p&gt; &#xA;&lt;p&gt;Requires: Linux kernel version &amp;gt;= 2.6.28. GCC &amp;gt;= 4.7 or Clang &amp;gt;= 3.5 Boost (for boost::any only.)&lt;/p&gt; &#xA;&lt;p&gt;Tested on: Debian 7 and above Unbuntu 14.04 and above CentOS 7 and above&lt;/p&gt; &#xA;&lt;p&gt;Install required packages:&lt;/p&gt; &#xA;&lt;h1&gt;Debian, Ubuntu, etc.&lt;/h1&gt; &#xA;&lt;p&gt;$ sudo apt install g++ cmake make libboost-dev&lt;/p&gt; &#xA;&lt;h1&gt;CentOS&lt;/h1&gt; &#xA;&lt;p&gt;$ sudo yum install gcc-c++ cmake make boost-devel&lt;/p&gt; &#xA;&lt;p&gt;See .travis.yml for additional packages for building more examples.&lt;/p&gt; &#xA;&lt;p&gt;To build, run: ./build.sh&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/chenshuo/muduo-tutorial&#34;&gt;https://github.com/chenshuo/muduo-tutorial&lt;/a&gt; for how to use muduo in your project.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;| / | | | | \ / |_ _ &lt;em&gt;&lt;em&gt;| |&lt;/em&gt; _ ___ | |/| | | | |/ &lt;em&gt;` | | | |/ _ &lt;br&gt; | | | | |&lt;/em&gt;| | (&lt;em&gt;| | |&lt;/em&gt;| | (&lt;em&gt;) | |&lt;/em&gt;| |&lt;em&gt;|_&lt;/em&gt;,&lt;em&gt;|_&lt;/em&gt;,&lt;em&gt;|_&lt;/em&gt;,_|_&lt;/em&gt;_/&lt;/p&gt;</summary>
+    <title>BhavyaBhalla-27/DSA-Supreme-</title>
+    <updated>2023-02-07T01:33:27Z</updated>
+    <id>tag:github.com,2023-02-07:/BhavyaBhalla-27/DSA-Supreme-</id>
+    <link href="https://github.com/BhavyaBhalla-27/DSA-Supreme-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Here I will be uploading all the codes and homework solutions that I will be solving in my DSA Journey.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DSA-Supreme&lt;/h1&gt; &#xA;&lt;p&gt;Here I will be uploading all the codes and homework solutions that I will be solving in my DSA Supreme Journey by Love Babbar Bhaiya.&lt;/p&gt;</summary>
   </entry>
 </feed>

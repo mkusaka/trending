@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:33:35Z</updated>
+  <updated>2023-02-07T01:36:10Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emacs-straight/svg-lib</title>
+    <updated>2023-02-07T01:36:10Z</updated>
+    <id>tag:github.com,2023-02-07:/emacs-straight/svg-lib</id>
+    <link href="https://github.com/emacs-straight/svg-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror of the svg-lib package from GNU ELPA, current as of 2023-02-03&lt;/p&gt;&lt;hr&gt;&lt;p&gt;*** SVG Library&lt;/p&gt; &#xA;&lt;p&gt;A small Emacs library to create and display various SVG objects, namely tags, progress bars, progress pies and icons. Each object is guaranteed to fit nicely in a text buffer ensuring width is an integer multiple of character width.&lt;/p&gt; &#xA;&lt;p&gt;*** Installation&lt;/p&gt; &#xA;&lt;p&gt;#+begin_src elisp M-x package-install RET svg-lib RET #+end_src&lt;/p&gt; &#xA;&lt;p&gt;*** Usage example&lt;/p&gt; &#xA;&lt;p&gt;[[file:screenshot.png]]&lt;/p&gt; &#xA;&lt;p&gt;[[file:screenshot-2.png]]&lt;/p&gt;</summary>
+  </entry>
 </feed>

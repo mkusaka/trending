@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:35:29Z</updated>
+  <updated>2023-02-07T01:37:48Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>input-output-hk/marlowe-explorer</title>
-    <updated>2023-02-06T01:35:29Z</updated>
-    <id>tag:github.com,2023-02-06:/input-output-hk/marlowe-explorer</id>
-    <link href="https://github.com/input-output-hk/marlowe-explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A web tool to view on-chain Marlowe contracts in terms of the Marlowe language&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;marlowe-explorer&lt;/h1&gt; &#xA;&lt;p&gt;A web tool to view on-chain Marlowe contracts in terms of the Marlowe language&lt;/p&gt;</summary>
-  </entry>
 </feed>

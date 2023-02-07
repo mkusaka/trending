@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-06T01:33:29Z</updated>
+  <updated>2023-02-07T01:36:04Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pow-auth/assent</title>
-    <updated>2023-02-06T01:33:29Z</updated>
-    <id>tag:github.com,2023-02-06:/pow-auth/assent</id>
-    <link href="https://github.com/pow-auth/assent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-provider framework in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zachdaniel/twitter</title>
-    <updated>2023-02-06T01:33:29Z</updated>
-    <id>tag:github.com,2023-02-06:/zachdaniel/twitter</id>
-    <link href="https://github.com/zachdaniel/twitter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny example app used to show some features of Ash in a LiveView Mastery youtube video&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
