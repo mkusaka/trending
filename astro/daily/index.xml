@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-07T01:32:07Z</updated>
+  <updated>2023-02-08T01:30:40Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>palera1n/website</title>
-    <updated>2023-02-07T01:32:07Z</updated>
-    <id>tag:github.com,2023-02-07:/palera1n/website</id>
-    <link href="https://github.com/palera1n/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;palera1n website rewritten in Astro&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pro-tailwind/course-multi-theme-strategy</title>
-    <updated>2023-02-07T01:32:07Z</updated>
-    <id>tag:github.com,2023-02-07:/pro-tailwind/course-multi-theme-strategy</id>
-    <link href="https://github.com/pro-tailwind/course-multi-theme-strategy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

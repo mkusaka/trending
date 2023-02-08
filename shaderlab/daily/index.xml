@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-07T01:46:52Z</updated>
+  <updated>2023-02-08T01:45:32Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nematoads/Frogz</title>
-    <updated>2023-02-07T01:46:52Z</updated>
-    <id>tag:github.com,2023-02-07:/Nematoads/Frogz</id>
-    <link href="https://github.com/Nematoads/Frogz" rel="alternate"></link>
+    <title>Strublar/GlobalGameJam2023</title>
+    <updated>2023-02-08T01:45:32Z</updated>
+    <id>tag:github.com,2023-02-08:/Strublar/GlobalGameJam2023</id>
+    <link href="https://github.com/Strublar/GlobalGameJam2023" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Chromega/ggj2023</title>
-    <updated>2023-02-07T01:46:52Z</updated>
-    <id>tag:github.com,2023-02-07:/Chromega/ggj2023</id>
-    <link href="https://github.com/Chromega/ggj2023" rel="alternate"></link>
+    <title>PatrickDolanJ/GGJ-2023-Sheep-Edition</title>
+    <updated>2023-02-08T01:45:32Z</updated>
+    <id>tag:github.com,2023-02-08:/PatrickDolanJ/GGJ-2023-Sheep-Edition</id>
+    <link href="https://github.com/PatrickDolanJ/GGJ-2023-Sheep-Edition" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hashbert/Frollicle</title>
-    <updated>2023-02-07T01:46:52Z</updated>
-    <id>tag:github.com,2023-02-07:/hashbert/Frollicle</id>
-    <link href="https://github.com/hashbert/Frollicle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a race to give the customer what they desire: a full head of hair.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

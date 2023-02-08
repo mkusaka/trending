@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-07T01:50:32Z</updated>
+  <updated>2023-02-08T01:46:34Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>carstenlebek/svelte-email</title>
-    <updated>2023-02-07T01:50:32Z</updated>
-    <id>tag:github.com,2023-02-07:/carstenlebek/svelte-email</id>
-    <link href="https://github.com/carstenlebek/svelte-email" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Write and send emails with Svelte ✉️🚀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mark3labs/louper-v2</title>
+    <updated>2023-02-08T01:46:34Z</updated>
+    <id>tag:github.com,2023-02-08:/mark3labs/louper-v2</id>
+    <link href="https://github.com/mark3labs/louper-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Louper V2&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maiertech/maier.tech</title>
-    <updated>2023-02-07T01:50:32Z</updated>
-    <id>tag:github.com,2023-02-07:/maiertech/maier.tech</id>
-    <link href="https://github.com/maiertech/maier.tech" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal website written with SvelteKit.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Bastian/dapper-ui</title>
-    <updated>2023-02-07T01:50:32Z</updated>
-    <id>tag:github.com,2023-02-07:/Bastian/dapper-ui</id>
-    <link href="https://github.com/Bastian/dapper-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A sleek and modern UI component library for Svelte. Work in Progress!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>radicle-dev/radicle-interface</title>
+    <updated>2023-02-08T01:46:34Z</updated>
+    <id>tag:github.com,2023-02-08:/radicle-dev/radicle-interface</id>
+    <link href="https://github.com/radicle-dev/radicle-interface" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Radicle web interface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-07T01:34:07Z</updated>
+  <updated>2023-02-08T01:32:31Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>revanced/aapt2</title>
+    <updated>2023-02-08T01:32:31Z</updated>
+    <id>tag:github.com,2023-02-08:/revanced/aapt2</id>
+    <link href="https://github.com/revanced/aapt2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aapt2 package build workflow&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>prashantpateldixoninfo/GTest_Github_Example</title>
+    <updated>2023-02-08T01:32:31Z</updated>
+    <id>tag:github.com,2023-02-08:/prashantpateldixoninfo/GTest_Github_Example</id>
+    <link href="https://github.com/prashantpateldixoninfo/GTest_Github_Example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use gtest with github actions. Quickly example how to add a workflow / action to github that executes your gtest tests.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

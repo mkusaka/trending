@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-07T01:46:46Z</updated>
+  <updated>2023-02-08T01:45:28Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GuidoPenta/galactic-CV-guide</title>
+    <updated>2023-02-08T01:45:28Z</updated>
+    <id>tag:github.com,2023-02-08:/GuidoPenta/galactic-CV-guide</id>
+    <link href="https://github.com/GuidoPenta/galactic-CV-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tips &amp; Tricks to write a great CV&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>acamposlucas/montseny-react</title>
+    <updated>2023-02-08T01:45:28Z</updated>
+    <id>tag:github.com,2023-02-08:/acamposlucas/montseny-react</id>
+    <link href="https://github.com/acamposlucas/montseny-react" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HandsomeLeft/Veaser</title>
+    <updated>2023-02-08T01:45:28Z</updated>
+    <id>tag:github.com,2023-02-08:/HandsomeLeft/Veaser</id>
+    <link href="https://github.com/HandsomeLeft/Veaser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Veaser, 对前端初学者友好的Vue2.x组件库/Veaser,a Vue2.x components library for beginners&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

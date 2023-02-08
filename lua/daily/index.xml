@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-07T01:40:59Z</updated>
+  <updated>2023-02-08T01:40:04Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>femga/rdr3_discoveries</title>
-    <updated>2023-02-07T01:40:59Z</updated>
-    <id>tag:github.com,2023-02-07:/femga/rdr3_discoveries</id>
-    <link href="https://github.com/femga/rdr3_discoveries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some interesting things from Red Dead Redemption 2.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rdr3_discoveries.&lt;/h1&gt; &#xA;&lt;p&gt;Some interesting things from Red Dead Redemption 2 (RDR2) with Moonshine, Naturalist and Bounty Hunters DLCs.&lt;/p&gt;</summary>
+    <title>Ethanoj1/Eclipse</title>
+    <updated>2023-02-08T01:40:04Z</updated>
+    <id>tag:github.com,2023-02-08:/Ethanoj1/Eclipse</id>
+    <link href="https://github.com/Ethanoj1/Eclipse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eclipse Hub and all related scripts&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Eclipse Hub&lt;/h1&gt; &#xA;&lt;p&gt;Hello! This is the official repository for Eclipse Hub. The official website is &lt;a href=&#34;https://eclipsehub.xyz&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Loadstring&lt;/h2&gt; &#xA;&lt;p&gt;The current loadstring is:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;getgenv().mainKey = &#34;nil&#34;&#xA;&#xA;local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,&#34;https\58//api.eclipsehub.xyz/auth&#34;;c(a and b,&#34;Executor not Supported&#34;)a(b({Url=e..&#34;\?\107e\121\61&#34;..d(mainKey),Headers={[&#34;User-Agent&#34;]=&#34;Eclipse&#34;}}).Body)()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Compatibility&lt;/h2&gt; &#xA;&lt;p&gt;Eclipse is compatible with the following:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Synapse X (Chat included)&lt;/li&gt; &#xA; &lt;li&gt;Scriptware Windows (Chat included)&lt;/li&gt; &#xA; &lt;li&gt;Krnl (Chat included)&lt;/li&gt; &#xA; &lt;li&gt;Fluxus (?) (Chat included)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;More Info&lt;/h2&gt; &#xA;&lt;p&gt;Visit the website (linked at top) for more information about me, Eclipse Hub&#39;s features, Eclipse Premium prices, and more!&lt;/p&gt;</summary>
   </entry>
 </feed>

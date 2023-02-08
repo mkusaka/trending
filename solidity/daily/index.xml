@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-07T01:50:09Z</updated>
+  <updated>2023-02-08T01:46:12Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZeframLou/universal-bridge</title>
-    <updated>2023-02-07T01:50:09Z</updated>
-    <id>tag:github.com,2023-02-07:/ZeframLou/universal-bridge</id>
-    <link href="https://github.com/ZeframLou/universal-bridge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unified interface for sending messages from Ethereum to other chains and rollups.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PaulRBerg/foundry-template</title>
-    <updated>2023-02-07T01:50:09Z</updated>
-    <id>tag:github.com,2023-02-07:/PaulRBerg/foundry-template</id>
-    <link href="https://github.com/PaulRBerg/foundry-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Foundry-based template for developing Solidity smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>with-backed/NFTEDA</title>
+    <updated>2023-02-08T01:46:12Z</updated>
+    <id>tag:github.com,2023-02-08:/with-backed/NFTEDA</id>
+    <link href="https://github.com/with-backed/NFTEDA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A contract for selling NFTs in an exponential price decay auction&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
