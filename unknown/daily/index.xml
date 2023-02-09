@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-08T01:29:45Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-02-09T01:29:19Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>eliaszon/Programmers-Overseas-Job-Interview-Handbook</title>
-    <updated>2023-02-08T01:29:45Z</updated>
-    <id>tag:github.com,2023-02-08:/eliaszon/Programmers-Overseas-Job-Interview-Handbook</id>
-    <link href="https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏂🏻 程序员海外工作/英文面试手册&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>acikkaynak/deprem-yardim-projesi</title>
+    <updated>2023-02-09T01:29:19Z</updated>
+    <id>tag:github.com,2023-02-09:/acikkaynak/deprem-yardim-projesi</id>
+    <link href="https://github.com/acikkaynak/deprem-yardim-projesi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CMEPW/BypassAV</title>
-    <updated>2023-02-08T01:29:45Z</updated>
-    <id>tag:github.com,2023-02-08:/CMEPW/BypassAV</id>
-    <link href="https://github.com/CMEPW/BypassAV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This map lists the essential techniques to bypass anti-virus and EDR&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kimcrowing/IPTV</title>
+    <updated>2023-02-09T01:29:19Z</updated>
+    <id>tag:github.com,2023-02-09:/kimcrowing/IPTV</id>
+    <link href="https://github.com/kimcrowing/IPTV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IPTV直播源&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zbefine/iptv</title>
-    <updated>2023-02-08T01:29:45Z</updated>
-    <id>tag:github.com,2023-02-08:/zbefine/iptv</id>
-    <link href="https://github.com/zbefine/iptv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IPTV 频道 影视 电视 直播 源&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jonathan-bower/DataScienceResources</title>
+    <updated>2023-02-09T01:29:19Z</updated>
+    <id>tag:github.com,2023-02-09:/jonathan-bower/DataScienceResources</id>
+    <link href="https://github.com/jonathan-bower/DataScienceResources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Data Science Resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

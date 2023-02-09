@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-08T01:41:27Z</updated>
+  <updated>2023-02-09T01:40:50Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rxyhn/yuki</title>
-    <updated>2023-02-08T01:41:27Z</updated>
-    <id>tag:github.com,2023-02-08:/rxyhn/yuki</id>
-    <link href="https://github.com/rxyhn/yuki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;雪 - Yuki | Snowflake ❄️&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cleverca22/not-os</title>
+    <updated>2023-02-09T01:40:50Z</updated>
+    <id>tag:github.com,2023-02-09:/cleverca22/not-os</id>
+    <link href="https://github.com/cleverca22/not-os" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/NixNG</title>
+    <updated>2023-02-09T01:40:50Z</updated>
+    <id>tag:github.com,2023-02-09:/nix-community/NixNG</id>
+    <link href="https://github.com/nix-community/NixNG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A linux distribution based on Nix [maintainer=@MagicRB]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

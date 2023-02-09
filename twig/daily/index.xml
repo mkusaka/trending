@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-08T01:47:31Z</updated>
+  <updated>2023-02-09T01:47:08Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wingsuit-designsystem/wingsuit</title>
-    <updated>2023-02-08T01:47:31Z</updated>
-    <id>tag:github.com,2023-02-08:/wingsuit-designsystem/wingsuit</id>
-    <link href="https://github.com/wingsuit-designsystem/wingsuit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Twig for Storybook&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nystudio107/spin-up-craft</title>
+    <updated>2023-02-09T01:47:08Z</updated>
+    <id>tag:github.com,2023-02-09:/nystudio107/spin-up-craft</id>
+    <link href="https://github.com/nystudio107/spin-up-craft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spin up a working Craft CMS instance quickly &amp; easily with Docker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

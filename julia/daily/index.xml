@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-08T01:38:58Z</updated>
+  <updated>2023-02-09T01:38:23Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaGaussianProcesses/AugmentedGPLikelihoods.jl</title>
-    <updated>2023-02-08T01:38:58Z</updated>
-    <id>tag:github.com,2023-02-08:/JuliaGaussianProcesses/AugmentedGPLikelihoods.jl</id>
-    <link href="https://github.com/JuliaGaussianProcesses/AugmentedGPLikelihoods.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Provide all functions needed to work with augmented likelihoods (conditionally conjugate with Gaussians)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timholy/Revise.jl</title>
+    <updated>2023-02-09T01:38:23Z</updated>
+    <id>tag:github.com,2023-02-09:/timholy/Revise.jl</id>
+    <link href="https://github.com/timholy/Revise.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Automatically update function definitions in a running Julia session&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xKDR/CRRao.jl</title>
+    <updated>2023-02-09T01:38:23Z</updated>
+    <id>tag:github.com,2023-02-09:/xKDR/CRRao.jl</id>
+    <link href="https://github.com/xKDR/CRRao.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

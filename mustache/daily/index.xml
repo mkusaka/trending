@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-08T01:41:06Z</updated>
+  <updated>2023-02-09T01:40:29Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>XeroAPI/Xero-OpenAPI</title>
+    <updated>2023-02-09T01:40:29Z</updated>
+    <id>tag:github.com,2023-02-09:/XeroAPI/Xero-OpenAPI</id>
+    <link href="https://github.com/XeroAPI/Xero-OpenAPI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An OpenAPI description of the Xero API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

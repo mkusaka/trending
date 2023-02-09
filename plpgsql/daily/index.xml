@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-08T01:42:56Z</updated>
+  <updated>2023-02-09T01:42:28Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>get-select/dbt-snowflake-monitoring</title>
-    <updated>2023-02-08T01:42:56Z</updated>
-    <id>tag:github.com,2023-02-08:/get-select/dbt-snowflake-monitoring</id>
-    <link href="https://github.com/get-select/dbt-snowflake-monitoring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A dbt package from SELECT to help you monitor Snowflake performance and costs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>go-jet/jet-test-data</title>
-    <updated>2023-02-08T01:42:56Z</updated>
-    <id>tag:github.com,2023-02-08:/go-jet/jet-test-data</id>
-    <link href="https://github.com/go-jet/jet-test-data" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MetricsDAO/terra_dbt</title>
-    <updated>2023-02-08T01:42:56Z</updated>
-    <id>tag:github.com,2023-02-08:/MetricsDAO/terra_dbt</id>
-    <link href="https://github.com/MetricsDAO/terra_dbt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data models for the Terra blockchain, sourced and built by the MetricsDAO community.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

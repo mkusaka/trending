@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-08T01:40:24Z</updated>
+  <updated>2023-02-09T01:39:47Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>in-toto/attestation</title>
-    <updated>2023-02-08T01:40:24Z</updated>
-    <id>tag:github.com,2023-02-08:/in-toto/attestation</id>
-    <link href="https://github.com/in-toto/attestation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ITE-6 Attestation Definitions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

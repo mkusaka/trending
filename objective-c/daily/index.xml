@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-08T01:41:41Z</updated>
+  <updated>2023-02-09T01:41:06Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>straight-tamago/RespringCC</title>
+    <updated>2023-02-09T01:41:06Z</updated>
+    <id>tag:github.com,2023-02-09:/straight-tamago/RespringCC</id>
+    <link href="https://github.com/straight-tamago/RespringCC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RespringCC&lt;/h1&gt; &#xA;&lt;p&gt;iOS 14.0-15.7.1 &amp;amp; 16.0-16.1.2&lt;/p&gt; &#xA;&lt;p&gt;Respring button in control center🥺&lt;/p&gt; &#xA;&lt;p&gt;Change magnifier to respring&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>BomberFish/Whitelist</title>
+    <updated>2023-02-09T01:41:06Z</updated>
+    <id>tag:github.com,2023-02-09:/BomberFish/Whitelist</id>
+    <link href="https://github.com/BomberFish/Whitelist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jailed iOS app to un-blacklist all enterprise-signed apps&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/icon.png&#34; alt=&#34;Whitelist Icon&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Whitelist&lt;/h1&gt; &#xA;&lt;h4&gt;Jailed iOS app to un-blacklist all enterprise-signed apps&lt;/h4&gt; &#xA;&lt;h2&gt;Compatibility&lt;/h2&gt; &#xA;&lt;p&gt;iOS and iPadOS &lt;strong&gt;15.0-16.1.2&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;Anything above this is &lt;em&gt;&lt;strong&gt;not&lt;/strong&gt;&lt;/em&gt; supported, don&#39;t bother me about it.&lt;/p&gt; &#xA;&lt;h2&gt;What is it?&lt;/h2&gt; &#xA;&lt;p&gt;Have you ever seen this annoying prompt?&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/blacklist.png&#34; alt=&#34;Whitelist Icon&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Well this app removes this!&lt;/p&gt; &#xA;&lt;p&gt;No really, it&#39;s that simple.&lt;/p&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/screen1.png&#34; alt=&#34;Home screen&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/screen2.png&#34; alt=&#34;Files screen&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>
