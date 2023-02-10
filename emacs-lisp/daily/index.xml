@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:34:25Z</updated>
+  <updated>2023-02-10T01:35:16Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ericdallo/jet.el</title>
-    <updated>2023-02-09T01:34:25Z</updated>
-    <id>tag:github.com,2023-02-09:/ericdallo/jet.el</id>
-    <link href="https://github.com/ericdallo/jet.el" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emacs integration for the jet Clojure tool&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://melpa.org/#/jet&#34;&gt;&lt;img src=&#34;https://melpa.org/packages/jet-badge.svg?sanitize=true&#34; alt=&#34;MELPA&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;jet.el&lt;/h1&gt; &#xA;&lt;p&gt;&lt;em&gt;Run &lt;a href=&#34;https://github.com/borkdude/jet&#34;&gt;jet&lt;/a&gt; Clojure tool from Emacs using a &lt;strong&gt;smooth interface&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/ericdallo/jet.el/master/img/jet.gif&#34;&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;You can install from MELPA with package.el:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;M-x package-install jet&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;The main command is &lt;code&gt;M-x jet&lt;/code&gt; which presents a magit-like interface where you can customize the args and choose lots of options like:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Run jet and print to messages buffer (&lt;code&gt;jet-print&lt;/code&gt;)&lt;/li&gt; &#xA; &lt;li&gt;Run jet and paste to current cursor (&lt;code&gt;jet-paste-cursor&lt;/code&gt;)&lt;/li&gt; &#xA; &lt;li&gt;Run jet and paste to another buffer (&lt;code&gt;jet-paste-buffer&lt;/code&gt;)&lt;/li&gt; &#xA; &lt;li&gt;Run jet and copy to clipboard (&lt;code&gt;jet-to-clipboard&lt;/code&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Check the gif for an example.&lt;/p&gt; &#xA;&lt;p&gt;Besides the main command it&#39;s possible to run each action directly as command, like &lt;code&gt;jet-paste-cursor&lt;/code&gt; which will call jet directly passing the the region and checking the variable &lt;code&gt;jet-default-args&lt;/code&gt;, useful for creating bindings for most used commands.&lt;/p&gt; &#xA;&lt;h2&gt;Keybinding&lt;/h2&gt; &#xA;&lt;p&gt;It&#39;s possible to keybind a specific function passing pre-defined args, example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-elisp&#34;&gt;(defun jet-json-to-clipboard ()&#xA;  (interactive)&#xA;  (jet-to-clipboard (jet--thing-at-point) &#39;(&#34;--from=json&#34; &#34;--to=edn&#34;)))&#xA;  &#xA;(global-set-key (kbd &#34;C-c j j e&#34;) &#39;copy-json-as-edn)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>chetanvaity/envo</title>
+    <updated>2023-02-10T01:35:16Z</updated>
+    <id>tag:github.com,2023-02-10:/chetanvaity/envo</id>
+    <link href="https://github.com/chetanvaity/envo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Environment files - emacs, tmux etc&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;envo&lt;/h1&gt; &#xA;&lt;p&gt;Environment files&lt;/p&gt; &#xA;&lt;h1&gt;Mac setup&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;3 finger swipe up and add more &#34;Spaces&#34;&lt;/li&gt; &#xA; &lt;li&gt;System Preferences -&amp;gt; Keyboard shortcuts -&amp;gt; Mission Control section -&amp;gt; Add shortcuts for switching to all spaces&lt;/li&gt; &#xA; &lt;li&gt;Install iterm2&lt;/li&gt; &#xA; &lt;li&gt;Install brew&lt;/li&gt; &#xA; &lt;li&gt;git For different SSH keys for githib, gitlab, etc, in ~/.ssh/config, add: &lt;pre&gt;&lt;code&gt;Host github.com&#xA;HostName github.com&#xA;IdentityFile ~/.ssh/id_rsa_github&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Useful one-liners&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;ffmpeg -i MVI_6451.MOV -s 640x360 Rewa_dance_photosong.mp4&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>fand/.emacs.d</title>
+    <updated>2023-02-10T01:35:16Z</updated>
+    <id>tag:github.com,2023-02-10:/fand/.emacs.d</id>
+    <link href="https://github.com/fand/.emacs.d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;practicing git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>redraiment/eml</title>
+    <updated>2023-02-10T01:35:16Z</updated>
+    <id>tag:github.com,2023-02-10:/redraiment/eml</id>
+    <link href="https://github.com/redraiment/eml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emacs-lisp Markup Language -- convert S-expression to XML&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;eml&lt;/h1&gt; &#xA;&lt;p&gt;Emacs-lisp Markup Language.&lt;/p&gt; &#xA;&lt;p&gt;To convert S-expression to XML. It can embed Emacs-lisp as script-let like JSP, PHP etc.&lt;/p&gt; &#xA;&lt;p&gt;For instance:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-Lisp&#34;&gt;(eml&#xA; &#39;(html&#xA;   (head&#xA;    (title &#34;Hello EML&#34;)&#xA;    (meta (http-equiv . Content-Type)&#xA;          (content . &#34;text/html; charset=UTF-8&#34;)))&#xA;   (body&#xA;    (h1 &#34;Hello EML&#34;)&#xA;    (p &#34;Hello Joe!&#34;)&#xA;    (ul&#xA;     &amp;lt;%&#xA;     (dotimes (i 10)&#xA;       (princ (eml &#39;(li &amp;lt;%= i %&amp;gt;))))&#xA;     %&amp;gt;))))&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;It would output below (without indent):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-HTML&#34;&gt;&amp;lt;html&amp;gt;&#xA;  &amp;lt;head&amp;gt;&#xA;    &amp;lt;title&amp;gt;Hello EML&amp;lt;/title&amp;gt;&#xA;    &amp;lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=UTF-8&#34; /&amp;gt;&#xA;  &amp;lt;/head&amp;gt;&#xA;  &amp;lt;body&amp;gt;&#xA;    &amp;lt;h1&amp;gt;Hello EML&amp;lt;/h1&amp;gt;&#xA;    &amp;lt;p&amp;gt;Hello Joe!&amp;lt;/p&amp;gt;&#xA;    &amp;lt;ul&amp;gt;&#xA;      &amp;lt;li&amp;gt;0&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;1&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;2&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;3&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;4&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;5&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;6&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;7&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;8&amp;lt;/li&amp;gt;&#xA;      &amp;lt;li&amp;gt;9&amp;lt;/li&amp;gt;&#xA;    &amp;lt;/ul&amp;gt;&#xA;  &amp;lt;/body&amp;gt;&#xA;&amp;lt;/html&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:45:44Z</updated>
+  <updated>2023-02-10T01:47:31Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>onebeyond/helm-charts</title>
-    <updated>2023-02-09T01:45:44Z</updated>
-    <id>tag:github.com,2023-02-09:/onebeyond/helm-charts</id>
-    <link href="https://github.com/onebeyond/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>giantswarm/k8s-initiator-app</title>
-    <updated>2023-02-09T01:45:44Z</updated>
-    <id>tag:github.com,2023-02-09:/giantswarm/k8s-initiator-app</id>
-    <link href="https://github.com/giantswarm/k8s-initiator-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool to maintain a desired state through kubernetes upgrades&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

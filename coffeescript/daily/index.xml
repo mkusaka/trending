@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:32:19Z</updated>
+  <updated>2023-02-10T01:33:31Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>utkarshkukreti/flashback</title>
+    <updated>2023-02-10T01:33:31Z</updated>
+    <id>tag:github.com,2023-02-10:/utkarshkukreti/flashback</id>
+    <link href="https://github.com/utkarshkukreti/flashback" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ggobi/splotch</title>
+    <updated>2023-02-10T01:33:31Z</updated>
+    <id>tag:github.com,2023-02-10:/ggobi/splotch</id>
+    <link href="https://github.com/ggobi/splotch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Abstraction for drawing statistical graphics in the web browser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

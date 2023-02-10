@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:30:26Z</updated>
+  <updated>2023-02-10T01:31:49Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HdzProject/Vps-Trial</title>
-    <updated>2023-02-09T01:30:26Z</updated>
-    <id>tag:github.com,2023-02-09:/HdzProject/Vps-Trial</id>
-    <link href="https://github.com/HdzProject/Vps-Trial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free Vps/Rdp Trial 30 Minute - 1 Hour&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>themartiantourist/Wildcards-for-SD</title>
+    <updated>2023-02-10T01:31:49Z</updated>
+    <id>tag:github.com,2023-02-10:/themartiantourist/Wildcards-for-SD</id>
+    <link href="https://github.com/themartiantourist/Wildcards-for-SD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A wildcard database for Stable Diffusion&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x</title>
-    <updated>2023-02-09T01:30:26Z</updated>
-    <id>tag:github.com,2023-02-09:/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x</id>
-    <link href="https://github.com/PSGitHubUser1/Windows-11-Cursor-Concept-Pro-v2.x" rel="alternate"></link>
+    <title>oussama2587/ngork-rdp</title>
+    <updated>2023-02-10T01:31:49Z</updated>
+    <id>tag:github.com,2023-02-10:/oussama2587/ngork-rdp</id>
+    <link href="https://github.com/oussama2587/ngork-rdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

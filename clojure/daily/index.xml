@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:32:08Z</updated>
+  <updated>2023-02-10T01:33:18Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zalky/axle</title>
-    <updated>2023-02-09T01:32:08Z</updated>
-    <id>tag:github.com,2023-02-09:/zalky/axle</id>
-    <link href="https://github.com/zalky/axle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An efficient cross-platform DirectoryWatcher based service for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zalky/reflet</title>
+    <updated>2023-02-10T01:33:18Z</updated>
+    <id>tag:github.com,2023-02-10:/zalky/reflet</id>
+    <link href="https://github.com/zalky/reflet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for building Re-frame + React based web apps with graph and non-graph data models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>emil10001/clojar-search</title>
-    <updated>2023-02-09T01:32:08Z</updated>
-    <id>tag:github.com,2023-02-09:/emil10001/clojar-search</id>
-    <link href="https://github.com/emil10001/clojar-search" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A clojar search tool written in Clojure using lein&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rish987/trackswitch-manuform</title>
+    <updated>2023-02-10T01:33:18Z</updated>
+    <id>tag:github.com,2023-02-10:/rish987/trackswitch-manuform</id>
+    <link href="https://github.com/rish987/trackswitch-manuform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Hyper-Ergonomic Dactyl Manuform with a Clickable Trackball&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:45:01Z</updated>
+  <updated>2023-02-10T01:46:54Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>usnistgov/hugo-uswds</title>
-    <updated>2023-02-09T01:45:01Z</updated>
-    <id>tag:github.com,2023-02-09:/usnistgov/hugo-uswds</id>
-    <link href="https://github.com/usnistgov/hugo-uswds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of the The United States Web Design System (USWDS) 2.0 using the Hugo open-source static site generator&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lessonly/lessonly.github.io</title>
+    <updated>2023-02-10T01:46:54Z</updated>
+    <id>tag:github.com,2023-02-10:/lessonly/lessonly.github.io</id>
+    <link href="https://github.com/lessonly/lessonly.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Our coding style guides and more!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mate-academy/react_todo-app-add-and-delete</title>
+    <updated>2023-02-10T01:46:54Z</updated>
+    <id>tag:github.com,2023-02-10:/mate-academy/react_todo-app-add-and-delete</id>
+    <link href="https://github.com/mate-academy/react_todo-app-add-and-delete" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

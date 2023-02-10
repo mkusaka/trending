@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:46:18Z</updated>
+  <updated>2023-02-10T01:48:06Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fpgasystems/Coyote</title>
-    <updated>2023-02-09T01:46:18Z</updated>
-    <id>tag:github.com,2023-02-09:/fpgasystems/Coyote</id>
-    <link href="https://github.com/fpgasystems/Coyote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Framework providing operating system abstractions and a range of shared networking (RDMA, TCP/IP) and memory services to common modern heterogeneous platforms.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:35:55Z</updated>
+  <updated>2023-02-10T01:36:54Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rpeleias-v1/groovypublisher</title>
-    <updated>2023-02-09T01:35:55Z</updated>
-    <id>tag:github.com,2023-02-09:/rpeleias-v1/groovypublisher</id>
-    <link href="https://github.com/rpeleias-v1/groovypublisher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:44:48Z</updated>
+  <updated>2023-02-10T01:46:37Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lovescala/Lift-Comet-Example</title>
-    <updated>2023-02-09T01:44:48Z</updated>
-    <id>tag:github.com,2023-02-09:/lovescala/Lift-Comet-Example</id>
-    <link href="https://github.com/lovescala/Lift-Comet-Example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A working example of the comet code from The Definitive Guide to Lift book&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Comet-Enabled Lift Example&lt;/h2&gt; &#xA;&lt;p&gt;The code found in the firstPress copy of &lt;a href=&#34;http://www.apress.com/book/view/1430224215&#34;&gt;The Definitive Guide to Lift&lt;/a&gt; is not perfect. This project contains a working copy of the more advanced Comet-Enabled Application code.&lt;/p&gt; &#xA;&lt;p&gt;Read more at &lt;a href=&#34;http://technovangelism.com/blog/2009/06/14/a-comet-enabled-lift-application/&#34;&gt;http://technovangelism.com/blog/2009/06/14/a-comet-enabled-lift-application/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Try it out&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone git://github.com/erikperson/Lift-Comet-Example.git&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
-  <entry>
-    <title>davidillsley/mongomacros</title>
-    <updated>2023-02-09T01:44:48Z</updated>
-    <id>tag:github.com,2023-02-09:/davidillsley/mongomacros</id>
-    <link href="https://github.com/davidillsley/mongomacros" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Experimentation with scala macros and mongo&lt;/p&gt; &#xA;&lt;p&gt;The Macros are in macros/ and the code which uses them in core/ as macros and their users have to be in separate compilation units&lt;/p&gt;</summary>
+    <title>avast/slog4s</title>
+    <updated>2023-02-10T01:46:37Z</updated>
+    <id>tag:github.com,2023-02-10:/avast/slog4s</id>
+    <link href="https://github.com/avast/slog4s" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Structured and contextual logging for Scala&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;slog4s&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/avast/slog4s/workflows/Build/badge.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt; &lt;a href=&#34;https://search.maven.org/search?q=g:com.avast%20slog4s&#34;&gt;&lt;img src=&#34;https://img.shields.io/maven-central/v/com.avast/slog4s-api_2.13&#34; alt=&#34;Maven Central&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://scala-steward.org&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Scala_Steward-helping-blue.svg?style=flat&amp;amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAAAVFBMVEUAAACHjojlOy5NWlrKzcYRKjGFjIbp293YycuLa3pYY2LSqql4f3pCUFTgSjNodYRmcXUsPD/NTTbjRS+2jomhgnzNc223cGvZS0HaSD0XLjbaSjElhIr+AAAAAXRSTlMAQObYZgAAAHlJREFUCNdNyosOwyAIhWHAQS1Vt7a77/3fcxxdmv0xwmckutAR1nkm4ggbyEcg/wWmlGLDAA3oL50xi6fk5ffZ3E2E3QfZDCcCN2YtbEWZt+Drc6u6rlqv7Uk0LdKqqr5rk2UCRXOk0vmQKGfc94nOJyQjouF9H/wCc9gECEYfONoAAAAASUVORK5CYII=&#34; alt=&#34;Scala Steward badge&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A scala library for structured and contextual logging. Its goal is to produce log message that are content rich and as helpful as possible, while providing API that is simple to use and that respects separation of concerns principle. It&#39;s also designed to be used in asynchronous environment. Sounds interesting? Check our &lt;a href=&#34;https://avast.github.io/slog4s/&#34;&gt;getting started&lt;/a&gt; guide!&lt;/p&gt; &#xA;&lt;h2&gt;Issues&lt;/h2&gt; &#xA;&lt;p&gt;Please report issues to &lt;a href=&#34;https://github.com/avast/slog4s/issues&#34;&gt;GitHub&lt;/a&gt;. Pull requests are always welcome.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/avast/slog4s/master/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;slog4s is licensed under &lt;a href=&#34;https://raw.githubusercontent.com/avast/slog4s/master/LICENSE&#34;&gt;MIT License&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

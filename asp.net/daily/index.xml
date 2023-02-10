@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASP.NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-09T01:30:05Z</updated>
+  <updated>2023-02-10T01:31:30Z</updated>
   <subtitle>Daily Trending of ASP.NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gydoma/arcade</title>
-    <updated>2023-02-09T01:30:05Z</updated>
-    <id>tag:github.com,2023-02-09:/gydoma/arcade</id>
-    <link href="https://github.com/gydoma/arcade" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ez az oldal a Verebély László Technikumának a 2022/23. évi 11. szoftverfejlesztő és tesztelő évfolyamának I. sávú csoportjának a második projektmunkája&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
