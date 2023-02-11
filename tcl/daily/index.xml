@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-10T01:48:37Z</updated>
+  <updated>2023-02-11T01:47:21Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>schoeberl/chisel-lab</title>
+    <updated>2023-02-11T01:47:21Z</updated>
+    <id>tag:github.com,2023-02-11:/schoeberl/chisel-lab</id>
+    <link href="https://github.com/schoeberl/chisel-lab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lab exercises for Chisel in the digital electronics 2 course at DTU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-10T01:40:51Z</updated>
+  <updated>2023-02-11T01:39:57Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xiyaowong/nvim-transparent</title>
-    <updated>2023-02-10T01:40:51Z</updated>
-    <id>tag:github.com,2023-02-10:/xiyaowong/nvim-transparent</id>
-    <link href="https://github.com/xiyaowong/nvim-transparent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Remove all background colors to make nvim transparent&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nvim-transparent&lt;/h1&gt; &#xA;&lt;p&gt;Remove all background colors to make nvim transparent.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/47070852/124546661-9353ce80-de5d-11eb-81ba-f8282e034d9f.gif&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Example config&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require(&#34;transparent&#34;).setup({&#xA;  enable = true, -- boolean: enable transparent&#xA;  extra_groups = { -- table/string: additional groups that should be cleared&#xA;    -- In particular, when you set it to &#39;all&#39;, that means all available groups&#xA;&#xA;    -- example of akinsho/nvim-bufferline.lua&#xA;    &#34;BufferLineTabClose&#34;,&#xA;    &#34;BufferlineBufferSelected&#34;,&#xA;    &#34;BufferLineFill&#34;,&#xA;    &#34;BufferLineBackground&#34;,&#xA;    &#34;BufferLineSeparator&#34;,&#xA;    &#34;BufferLineIndicatorSelected&#34;,&#xA;  },&#xA;  exclude = {}, -- table: groups you don&#39;t want to clear&#xA;})&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can also set the &lt;code&gt;groups&lt;/code&gt; option to override the default groups.&lt;/p&gt; &#xA;&lt;p&gt;The default groups: &lt;code&gt;Normal&lt;/code&gt; &lt;code&gt;NormalNC&lt;/code&gt; &lt;code&gt;Comment&lt;/code&gt; &lt;code&gt;Constant&lt;/code&gt; &lt;code&gt;Special&lt;/code&gt; &lt;code&gt;Identifier&lt;/code&gt; &lt;code&gt;Statement&lt;/code&gt; &lt;code&gt;PreProc&lt;/code&gt; &lt;code&gt;Type&lt;/code&gt; &lt;code&gt;Underlined&lt;/code&gt; &lt;code&gt;Todo&lt;/code&gt; &lt;code&gt;String&lt;/code&gt; &lt;code&gt;Function&lt;/code&gt; &lt;code&gt;Conditional&lt;/code&gt; &lt;code&gt;Repeat&lt;/code&gt; &lt;code&gt;Operator&lt;/code&gt; &lt;code&gt;Structure&lt;/code&gt; &lt;code&gt;LineNr&lt;/code&gt; &lt;code&gt;NonText&lt;/code&gt; &lt;code&gt;SignColumn&lt;/code&gt; &lt;code&gt;CursorLineNr&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;The global variable &lt;code&gt;g:transparent_enabled&lt;/code&gt; has greater priority to option &lt;code&gt;enable&lt;/code&gt;. Some plugins or themes support setting transparency, and you can use this variable as a flag. eg: &lt;code&gt;vim.g.tokyonight_transparent = vim.g.transparent_enabled&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Disable by default&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-vim&#34;&gt;let g:transparent_enabled = v:false&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Commands&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;:TransparentEnable&#xA;:TransparentDisable&#xA;:TransparentToggle&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Aknowledgement&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Kjwon15/vim-transparent&#34;&gt;vim-transparent&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>BillsTheGod/V3RMILLION_PROJECTS</title>
-    <updated>2023-02-10T01:40:51Z</updated>
-    <id>tag:github.com,2023-02-10:/BillsTheGod/V3RMILLION_PROJECTS</id>
-    <link href="https://github.com/BillsTheGod/V3RMILLION_PROJECTS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts that I have released in v3rmillion&lt;/p&gt;&lt;hr&gt;&lt;p&gt;all scripts here was made by me 😎&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>williamboman/warden.nvim</title>
-    <updated>2023-02-10T01:40:51Z</updated>
-    <id>tag:github.com,2023-02-10:/williamboman/warden.nvim</id>
-    <link href="https://github.com/williamboman/warden.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enhanced diagnostics UI for Neovim. 🚧 Highly WIP. Publicly available to make it easier for me to clone.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;warden.nvim&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Enhanced diagnostics UI for Neovim. 🚧 Highly WIP. Publicly available to make it easier for me to clone. Aims to gracefully support multiple diagnostics sources (e.g. multiple LSP servers).&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/6705160/217061421-b4e0a03b-88af-47b0-a84f-91c91c51cc21.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;vim.diagnostic.config {&#xA;    warden = {&#xA;        line_highlight = true,&#xA;    },&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;TODO&lt;/h2&gt; &#xA;&lt;h3&gt;Right-aligned messages&lt;/h3&gt; &#xA;&lt;p&gt;As opposed to the builtin &lt;code&gt;virtual_text&lt;/code&gt; handler, this will also merge diagnostics from multiple sources and display the most severe one (the &lt;code&gt;virtual_text&lt;/code&gt; handler only displays whichever diagnostic was received last). This will also include an indicator symbol showing how many more diagnostics (and their severity) that have been truncated on a given line.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/6705160/217064093-d5b86125-8941-4453-8f9a-a2bc5283483a.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</summary>
+    <title>ticzz/Aimware-v5-luas</title>
+    <updated>2023-02-11T01:39:57Z</updated>
+    <id>tag:github.com,2023-02-11:/ticzz/Aimware-v5-luas</id>
+    <link href="https://github.com/ticzz/Aimware-v5-luas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LuaScripts for Aimware´s CSGO v5. Most of them wasn´t coded by me, i finally just fixed some of them or changed stuff to fit my needs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

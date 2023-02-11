@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-10T01:31:49Z</updated>
+  <updated>2023-02-11T01:30:16Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>themartiantourist/Wildcards-for-SD</title>
-    <updated>2023-02-10T01:31:49Z</updated>
-    <id>tag:github.com,2023-02-10:/themartiantourist/Wildcards-for-SD</id>
-    <link href="https://github.com/themartiantourist/Wildcards-for-SD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A wildcard database for Stable Diffusion&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>amd64fox/Uninstall-Spotify</title>
+    <updated>2023-02-11T01:30:16Z</updated>
+    <id>tag:github.com,2023-02-11:/amd64fox/Uninstall-Spotify</id>
+    <link href="https://github.com/amd64fox/Uninstall-Spotify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uninstall Spotify for Windows&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>oussama2587/ngork-rdp</title>
-    <updated>2023-02-10T01:31:49Z</updated>
-    <id>tag:github.com,2023-02-10:/oussama2587/ngork-rdp</id>
-    <link href="https://github.com/oussama2587/ngork-rdp" rel="alternate"></link>
+    <title>hypervoidteam/rdp-1</title>
+    <updated>2023-02-11T01:30:16Z</updated>
+    <id>tag:github.com,2023-02-11:/hypervoidteam/rdp-1</id>
+    <link href="https://github.com/hypervoidteam/rdp-1" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

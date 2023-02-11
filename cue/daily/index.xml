@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CUE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-10T01:33:59Z</updated>
+  <updated>2023-02-11T01:33:18Z</updated>
   <subtitle>Daily Trending of CUE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>monogon-dev/NetMeta</title>
-    <updated>2023-02-10T01:33:59Z</updated>
-    <id>tag:github.com,2023-02-10:/monogon-dev/NetMeta</id>
-    <link href="https://github.com/monogon-dev/NetMeta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NetMeta is a scalable network observability toolkit optimized for performance.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cue-lang/cuelang.org</title>
-    <updated>2023-02-10T01:33:59Z</updated>
-    <id>tag:github.com,2023-02-10:/cue-lang/cuelang.org</id>
-    <link href="https://github.com/cue-lang/cuelang.org" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source for the https://cuelang.org site. Raise issues at https://github.com/cue-lang/cue/issues&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

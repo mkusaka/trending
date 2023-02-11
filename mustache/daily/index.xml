@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-10T01:42:01Z</updated>
+  <updated>2023-02-11T01:41:05Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ergon/airlock-helm-charts</title>
-    <updated>2023-02-10T01:42:01Z</updated>
-    <id>tag:github.com,2023-02-10:/ergon/airlock-helm-charts</id>
-    <link href="https://github.com/ergon/airlock-helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integrate Airlock Microgateway in a Kubernetes or OpenShift environment with Helm charts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kube-logging/helm-charts</title>
+    <updated>2023-02-11T01:41:05Z</updated>
+    <id>tag:github.com,2023-02-11:/kube-logging/helm-charts</id>
+    <link href="https://github.com/kube-logging/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kube logging Helm chart repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

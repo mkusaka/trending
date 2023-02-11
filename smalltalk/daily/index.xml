@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-10T01:47:25Z</updated>
+  <updated>2023-02-11T01:46:22Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>feenkcom/gt4phlow-rs</title>
-    <updated>2023-02-10T01:47:25Z</updated>
-    <id>tag:github.com,2023-02-10:/feenkcom/gt4phlow-rs</id>
-    <link href="https://github.com/feenkcom/gt4phlow-rs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Integration of phlow-rs with Glamorous Toolkit and ability to render views in GT Inspector&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

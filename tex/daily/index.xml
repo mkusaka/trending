@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-10T01:48:44Z</updated>
+  <updated>2023-02-11T01:47:28Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JmlrOrg/jmlr-style-file</title>
-    <updated>2023-02-10T01:48:44Z</updated>
-    <id>tag:github.com,2023-02-10:/JmlrOrg/jmlr-style-file</id>
-    <link href="https://github.com/JmlrOrg/jmlr-style-file" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LaTeX style file for the Journal of Machine Learning Research&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;JMLR style file&lt;/h1&gt; &#xA;&lt;p&gt;LaTeX style file for the Journal of Machine Learning Research&lt;/p&gt;</summary>
+    <title>kenfehling/latex-cheatsheet</title>
+    <updated>2023-02-11T01:47:28Z</updated>
+    <id>tag:github.com,2023-02-11:/kenfehling/latex-cheatsheet</id>
+    <link href="https://github.com/kenfehling/latex-cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for a compact LaTeX Cheatsheet I made some years ago.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Template for a very compact LaTeX Cheatsheet&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.stack.imgur.com/jEcrv.png&#34; alt=&#34;page 1&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.stack.imgur.com/jq4dI.png&#34; alt=&#34;page 2&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

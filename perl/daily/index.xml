@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-10T01:43:29Z</updated>
+  <updated>2023-02-11T01:42:40Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SP23CSCI1423/ParentRepo</title>
-    <updated>2023-02-10T01:43:29Z</updated>
-    <id>tag:github.com,2023-02-10:/SP23CSCI1423/ParentRepo</id>
-    <link href="https://github.com/SP23CSCI1423/ParentRepo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ParentRepo&lt;/h1&gt; &#xA;&lt;h3&gt;Welcome to CSCI1423, Intro to Programming!&lt;/h3&gt; &#xA;&lt;p&gt;This is our parent repository. This repository will contain lecture notes and homework assignments that we upload. You are free to clone this repository onto your personal devices for your convenience. However, you do not have permissions on this repository so you will not be allowed to push or edit anything.&lt;/p&gt; &#xA;&lt;p&gt;When you create your personal repositories, you must model it after this repository. It should include the following folders:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Homework&lt;/li&gt; &#xA; &lt;li&gt;Labs&lt;/li&gt; &#xA; &lt;li&gt;Tests&lt;/li&gt; &#xA; &lt;li&gt;Notes&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;We hope you have a great semester!&lt;/h3&gt;</summary>
+    <title>gcrumb/goofalicious</title>
+    <updated>2023-02-11T01:42:40Z</updated>
+    <id>tag:github.com,2023-02-11:/gcrumb/goofalicious</id>
+    <link href="https://github.com/gcrumb/goofalicious" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;goofalicious&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;goofalicious&lt;/h1&gt; &#xA;&lt;p&gt;goofalicious&lt;/p&gt;</summary>
   </entry>
 </feed>
