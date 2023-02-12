@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:36:41Z</updated>
+  <updated>2023-02-12T01:37:05Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hkssprangers/hkssprangers</title>
-    <updated>2023-02-11T01:36:41Z</updated>
-    <id>tag:github.com,2023-02-11:/hkssprangers/hkssprangers</id>
-    <link href="https://github.com/hkssprangers/hkssprangers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RobertBorghese/Haxe-to-GCFreeCPP</title>
+    <updated>2023-02-12T01:37:05Z</updated>
+    <id>tag:github.com,2023-02-12:/RobertBorghese/Haxe-to-GCFreeCPP</id>
+    <link href="https://github.com/RobertBorghese/Haxe-to-GCFreeCPP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An alternative C++ target for Haxe that generates dependent-less, GC-less C++17 code.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Haxe-to-GCFreeCPP&lt;/h1&gt; &#xA;&lt;p&gt;An alternative C++ target for Haxe that generates dependent-less, GC-less C++17 code.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:33:59Z</updated>
+  <updated>2023-02-12T01:34:18Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ChicoState/cpp-container</title>
-    <updated>2023-02-11T01:33:59Z</updated>
-    <id>tag:github.com,2023-02-11:/ChicoState/cpp-container</id>
-    <link href="https://github.com/ChicoState/cpp-container" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cpp-container&lt;/h1&gt; &#xA;&lt;p&gt;This is a basic Docker container for a C++ program&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;Build the image from &lt;code&gt;Dockerfile&lt;/code&gt; with the command:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker build -t cpp-container .&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Once built, run the image:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker run -it cpp-container&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;...or run it interactively in a shell:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker run -it cpp-container sh&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;...or run it with a bind mount to the current source code:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker run --mount type=bind,source=&#34;$(pwd)&#34;,target=/usr/src -it cpp-container&lt;/code&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>devfile-samples/devfile-sample-java-springboot-basic</title>
-    <updated>2023-02-11T01:33:59Z</updated>
-    <id>tag:github.com,2023-02-11:/devfile-samples/devfile-sample-java-springboot-basic</id>
-    <link href="https://github.com/devfile-samples/devfile-sample-java-springboot-basic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A basic sample application using Java Spring Boot with devfile&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;devfile-sample-java-springboot-basic&lt;/h1&gt; &#xA;&lt;p&gt;A basic sample application using Java Spring Boot with devfile&lt;/p&gt;</summary>
+    <title>Senzing/senzingapi-tools</title>
+    <updated>2023-02-12T01:34:18Z</updated>
+    <id>tag:github.com,2023-02-12:/Senzing/senzingapi-tools</id>
+    <link href="https://github.com/Senzing/senzingapi-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base image using senzingapi-tools DEB file&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;senzingapi-tools&lt;/h1&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;The &lt;code&gt;senzing/senzingapi-tools&lt;/code&gt; docker image is pre-installed with the Senzingapi library and python tools to help simplify creating applications that use the Senzingapi library.&lt;/p&gt; &#xA;&lt;h2&gt;Use&lt;/h2&gt; &#xA;&lt;p&gt;In a Dockerfile, the docker image created by this repo can be used in a Docker file by setting it as the base image.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-Dockerfile&#34;&gt;FROM senzing/senzingapi-tools&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;View &lt;a href=&#34;https://senzing.com/end-user-license-agreement/&#34;&gt;license information&lt;/a&gt; for the software container in this Docker image. Note that this license does not permit further distribution.&lt;/p&gt; &#xA;&lt;p&gt;This Docker image may also contain software from the &lt;a href=&#34;https://github.com/Senzing/&#34;&gt;Senzing GitHub community&lt;/a&gt; under the &lt;a href=&#34;https://www.apache.org/licenses/LICENSE-2.0&#34;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Further, as with all Docker images, this likely also contains other software which may be under other licenses (such as Bash, etc. from the base distribution, along with any direct or indirect dependencies of the primary software being contained).&lt;/p&gt; &#xA;&lt;p&gt;As for any pre-built image usage, it is the image user&#39;s responsibility to ensure that any use of this image complies with any relevant licenses for all software contained within.&lt;/p&gt;</summary>
   </entry>
 </feed>

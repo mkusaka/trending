@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T01:58:33Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaDiff/Diffractor.jl</title>
+    <updated>2023-02-12T01:58:33Z</updated>
+    <id>tag:github.com,2023-02-12:/JuliaDiff/Diffractor.jl</id>
+    <link href="https://github.com/JuliaDiff/Diffractor.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Next-generation AD&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DARPA-ASKEM/sim-service</title>
+    <updated>2023-02-12T01:58:33Z</updated>
+    <id>tag:github.com,2023-02-12:/DARPA-ASKEM/sim-service</id>
+    <link href="https://github.com/DARPA-ASKEM/sim-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:43:18Z</updated>
+  <updated>2023-02-12T01:43:27Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GrimOutlaw/ChatGPT-Bypass</title>
+    <updated>2023-02-12T01:43:27Z</updated>
+    <id>tag:github.com,2023-02-12:/GrimOutlaw/ChatGPT-Bypass</id>
+    <link href="https://github.com/GrimOutlaw/ChatGPT-Bypass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple scripts that allows you to bypass content filtering in ChatGPT through the API&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ChatGPT-Bypass&lt;/h1&gt; &#xA;&lt;p&gt;Simple Scripts that allows you to bypass content filtering. This calls the OpenAI autocompletion API for DaVinci-003. Click bait-y for CHATGPT, but we won&#39;t get into CHATGPT vs DaVinci here.&lt;/p&gt; &#xA;&lt;p&gt;&lt;b&gt; Youtube Video &lt;/b&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.youtube.com/watch?v=4caOdVqs0tU&#34; title=&#34;Secret Bypass for ChatGPT Filters&#34;&gt;&lt;img src=&#34;http://img.youtube.com/vi/4caOdVqs0tU/0.jpg&#34; alt=&#34;IMAGE ALT TEXT&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;!-- Requirements --&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;p&gt;&lt;b&gt;Export API Key &lt;/b&gt;&lt;/p&gt; &#xA;&lt;p&gt;Head over to &#39;beta.openai.com&#39; to retrieve your personal API key and set it the variable CHATGPT_TOKEN...or hard code the key. idc&lt;/p&gt; &#xA;&lt;p&gt;Windows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$env:CHATGPT_TOKEN=&#39;&amp;lt;api key&amp;gt;&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Nix/MAC:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;export CHATGPT_TOKEN=&amp;lt;api key&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;b&gt;Install jq &lt;/b&gt;&lt;/p&gt; &#xA;&lt;p&gt;Mac:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;brew install jq&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Debian:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;apt install jq&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

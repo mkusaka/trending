@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:32:49Z</updated>
+  <updated>2023-02-12T01:33:01Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wlaurance/Criminology</title>
-    <updated>2023-02-11T01:32:49Z</updated>
-    <id>tag:github.com,2023-02-11:/wlaurance/Criminology</id>
-    <link href="https://github.com/wlaurance/Criminology" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo to house my criminology notes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bejoo/winninjs</title>
-    <updated>2023-02-11T01:32:49Z</updated>
-    <id>tag:github.com,2023-02-11:/bejoo/winninjs</id>
-    <link href="https://github.com/bejoo/winninjs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a small coffeescript js library that helps us decide on important questions who is winning.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>justjake/mousetile-gnome</title>
-    <updated>2023-02-11T01:32:49Z</updated>
-    <id>tag:github.com,2023-02-11:/justjake/mousetile-gnome</id>
-    <link href="https://github.com/justjake/mousetile-gnome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiling window manager for Gnome 3 Shell, for people who use the mouse&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>btbinhtran/towerjs-tutorial</title>
+    <updated>2023-02-12T01:33:01Z</updated>
+    <id>tag:github.com,2023-02-12:/btbinhtran/towerjs-tutorial</id>
+    <link href="https://github.com/btbinhtran/towerjs-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The absolute guide to the Node.js Web Framework Tower.js from absolute beginner to pro.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

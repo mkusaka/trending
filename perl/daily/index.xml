@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:42:40Z</updated>
+  <updated>2023-02-12T01:42:53Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gcrumb/goofalicious</title>
-    <updated>2023-02-11T01:42:40Z</updated>
-    <id>tag:github.com,2023-02-11:/gcrumb/goofalicious</id>
-    <link href="https://github.com/gcrumb/goofalicious" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;goofalicious&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;goofalicious&lt;/h1&gt; &#xA;&lt;p&gt;goofalicious&lt;/p&gt;</summary>
+    <title>foswiki/NTLMEmailAuthContrib</title>
+    <updated>2023-02-12T01:42:53Z</updated>
+    <id>tag:github.com,2023-02-12:/foswiki/NTLMEmailAuthContrib</id>
+    <link href="https://github.com/foswiki/NTLMEmailAuthContrib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foswiki module NTLMEmailAuthContrib&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

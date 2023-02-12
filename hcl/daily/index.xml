@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:36:40Z</updated>
+  <updated>2023-02-12T01:37:05Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aws-samples/eks-workshop-v2</title>
-    <updated>2023-02-11T01:36:40Z</updated>
-    <id>tag:github.com,2023-02-11:/aws-samples/eks-workshop-v2</id>
-    <link href="https://github.com/aws-samples/eks-workshop-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hands-on labs for Amazon EKS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mrsimonemms/gitpod-self-hosted</title>
-    <updated>2023-02-11T01:36:40Z</updated>
-    <id>tag:github.com,2023-02-11:/mrsimonemms/gitpod-self-hosted</id>
-    <link href="https://github.com/mrsimonemms/gitpod-self-hosted" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources for managing your own Gitpod installation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RodrigoSantanaFerreira/bootcamp-de-01</title>
+    <updated>2023-02-12T01:37:05Z</updated>
+    <id>tag:github.com,2023-02-12:/RodrigoSantanaFerreira/bootcamp-de-01</id>
+    <link href="https://github.com/RodrigoSantanaFerreira/bootcamp-de-01" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositório no Bootcamp de Engenharia de Dados da Stack Academy.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

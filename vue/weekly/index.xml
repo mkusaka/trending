@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T02:07:45Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>newbee-ltd/vue3-admin</title>
+    <updated>2023-02-12T02:07:45Z</updated>
+    <id>tag:github.com,2023-02-12:/newbee-ltd/vue3-admin</id>
+    <link href="https://github.com/newbee-ltd/vue3-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 🎉 Vue 3 + Vite 2 + Vue-Router 4 + Element-Plus + Echarts 5 + Axios 开发的后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KKKyrie/giftie</title>
+    <updated>2023-02-12T02:07:45Z</updated>
+    <id>tag:github.com,2023-02-12:/KKKyrie/giftie</id>
+    <link href="https://github.com/KKKyrie/giftie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个用来搞定「送礼问题」的「纯前端」解决方案&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smali Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T02:05:39Z</updated>
+  <subtitle>Weekly Trending of Smali in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>souying/APP</title>
+    <updated>2023-02-12T02:05:39Z</updated>
+    <id>tag:github.com,2023-02-12:/souying/APP</id>
+    <link href="https://github.com/souying/APP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;H5一键打包安卓和IOSroWIN桌面程序（云打包）麻烦点点star&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

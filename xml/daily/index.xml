@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:48:53Z</updated>
+  <updated>2023-02-12T01:49:03Z</updated>
   <subtitle>Daily Trending of XML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ellinikonblue/blosxom-plugin</title>
-    <updated>2023-02-11T01:48:53Z</updated>
-    <id>tag:github.com,2023-02-11:/ellinikonblue/blosxom-plugin</id>
-    <link href="https://github.com/ellinikonblue/blosxom-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugins Repositories for blosxom&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ellinikonblue.com/Ellinikonblue.net で使用している Blosxom 向けプラグイン&lt;/h1&gt; &#xA;&lt;h2&gt;bracket_fep&lt;/h2&gt; &#xA;&lt;p&gt;　ブラケットで囲った文字列を決まった文字列に変換するための汎用プラグイン。別途、要専用プラグイン&lt;/p&gt; &#xA;&lt;h2&gt;bfep/&lt;/h2&gt; &#xA;&lt;p&gt;　bracket_fep 専用プラグイン群&lt;/p&gt; &#xA;&lt;h2&gt;foreshortened&lt;/h2&gt; &#xA;&lt;p&gt;　日本語向けに改変した foreshortened プラグイン&lt;/p&gt; &#xA;&lt;h2&gt;gsitemap&lt;/h2&gt; &#xA;&lt;p&gt;　サイトマップを生成するためのプラグイン。（要 entries_kache/entries_index プラグイン）&lt;/p&gt; &#xA;&lt;h2&gt;jasin&lt;/h2&gt; &#xA;&lt;p&gt;　日本向けにローカライズした改良版 asin プラグイン&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T01:55:54Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>spockz/adaptive</title>
+    <updated>2023-02-12T01:55:54Z</updated>
+    <id>tag:github.com,2023-02-12:/spockz/adaptive</id>
+    <link href="https://github.com/spockz/adaptive" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Adaptive version 0.22 2008-07-14&lt;/h1&gt; &#xA;&lt;p&gt;This is a minor update to Adaptive version 0.21 to make it work with recent versions of GHC and Hugs. Adaptive is now cabalized, and any problems with the packaging is my fault, not Magnus.&lt;/p&gt; &#xA;&lt;p&gt;Peter A. Jonsson, &lt;a href=&#34;mailto:pj@csee.ltu.se&#34;&gt;pj@csee.ltu.se&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Adaptive version 0.21 2005-07-09&lt;/h1&gt; &#xA;&lt;p&gt;This is a Haskell (plus some extensions) implementation of a library for incremental computing. It closely follows the implementation in the nice POPL 2002 paper &#34;Adaptive Functional Programming&#34;, by Umut Acar, Guy Blelloch and Bob Harper. As of writing, their paper can be found at&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;  http://ttic.uchicago.edu/~umut/papers/popl02.html&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;However, this Haskell library provides a monadic interface, which doesn&#39;t need the &#34;write&#34; operation or the &#34;destination&#34; type. In addition, the monadic types enforce correct usage, which means that a modifiable variable must be defined before it can be used. This is achieved within Haskell&#39;s type system plus some popular extensions (multi-parameter classes and functional dependencies).&lt;/p&gt; &#xA;&lt;p&gt;The library is parameterised over any monad that has references (such as IO and ST). This means that it should be possible to put it on top of e.g. many GUI monads too.&lt;/p&gt; &#xA;&lt;p&gt;There is a small demo program of a classical incremental computation problem: a spreadsheet. Try it by typing&lt;/p&gt; &#xA;&lt;p&gt;runhugs -98 spreadsheet.hs&lt;/p&gt; &#xA;&lt;p&gt;and type, say&lt;/p&gt; &#xA;&lt;p&gt;c0 &#xA; &lt;return&gt;&#xA;   Cell c1 &#xA;  &lt;return&gt;&#xA;    c1 &#xA;   &lt;return&gt;&#xA;     Const 42 &#xA;    &lt;return&gt;&#xA;     .&#xA;    &lt;/return&gt;&#xA;   &lt;/return&gt;&#xA;  &lt;/return&gt;&#xA; &lt;/return&gt;&lt;/p&gt; &#xA;&lt;p&gt;This has been tested with the Hugs September 2006 version.&lt;/p&gt; &#xA;&lt;p&gt;Feedback is welcome!&lt;/p&gt; &#xA;&lt;p&gt;Magnus Carlsson, &lt;a href=&#34;mailto:magnus@galois.com&#34;&gt;magnus@galois.com&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

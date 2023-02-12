@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T01:54:13Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>membraneframework/membrane_core</title>
+    <updated>2023-02-12T01:54:13Z</updated>
+    <id>tag:github.com,2023-02-12:/membraneframework/membrane_core</id>
+    <link href="https://github.com/membraneframework/membrane_core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The core of the Membrane Framework, advanced multimedia processing framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>joshnuss/xml_builder</title>
+    <updated>2023-02-12T01:54:13Z</updated>
+    <id>tag:github.com,2023-02-12:/joshnuss/xml_builder</id>
+    <link href="https://github.com/joshnuss/xml_builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir library for generating XML&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>electric-sql/electric</title>
+    <updated>2023-02-12T01:54:13Z</updated>
+    <id>tag:github.com,2023-02-12:/electric-sql/electric</id>
+    <link href="https://github.com/electric-sql/electric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ElectricSQL local-first SQL platform.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:29:53Z</updated>
+  <updated>2023-02-12T01:30:15Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alldritt/AppleScriptLibraries</title>
-    <updated>2023-02-11T01:29:53Z</updated>
-    <id>tag:github.com,2023-02-11:/alldritt/AppleScriptLibraries</id>
-    <link href="https://github.com/alldritt/AppleScriptLibraries" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of AppleScript libraries.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AppleScript Libraries&lt;/h1&gt; &#xA;&lt;p&gt;Here is a collection of AppleScript libraries which I use regularly which others may find useful. This code also forms the basis for a series of blog posts on &lt;a href=&#34;http://markalldritt.com&#34;&gt;markalldritt.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Libraries&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/alldritt/AppleScriptLibraries/master/MarksLib.md&#34;&gt;MarksLib&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/alldritt/AppleScriptLibraries/master/MastodonLib.md&#34;&gt;MastodonLib&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/alldritt/AppleScriptLibraries/master/MarkdownLib.md&#34;&gt;MarkdownLib&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/alldritt/AppleScriptLibraries/master/DiscourseLib.md&#34;&gt;DiscourseLib&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;The Future&lt;/h2&gt; &#xA;&lt;p&gt;I hope to add additional libraries to this repository as time goes on. If you want to improve on my work, Pull Requests are always welcome. Please direct questions to the &lt;a href=&#34;http://forum.latenightsw.com&#34;&gt;Late Night Software Support Forum&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

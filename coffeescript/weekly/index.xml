@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T01:52:19Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jakobmattsson/locke-store-mem</title>
+    <updated>2023-02-12T01:52:19Z</updated>
+    <id>tag:github.com,2023-02-12:/jakobmattsson/locke-store-mem</id>
+    <link href="https://github.com/jakobmattsson/locke-store-mem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An in-memory implementation of a locke storage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>myok12/coursera-preview-download</title>
+    <updated>2023-02-12T01:52:19Z</updated>
+    <id>tag:github.com,2023-02-12:/myok12/coursera-preview-download</id>
+    <link href="https://github.com/myok12/coursera-preview-download" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A node.js script for downloading preview videos from coursera.org&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>torvalamo/justdata</title>
+    <updated>2023-02-12T01:52:19Z</updated>
+    <id>tag:github.com,2023-02-12:/torvalamo/justdata</id>
+    <link href="https://github.com/torvalamo/justdata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A parser for an ultra simplistic data tree, perfect for config files, etc. It&#39;s not optimized yet, but it does what it&#39;s supposed to.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

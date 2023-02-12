@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T02:05:09Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>trufflesecurity/xsshunter</title>
+    <updated>2023-02-12T02:05:09Z</updated>
+    <id>tag:github.com,2023-02-12:/trufflesecurity/xsshunter</id>
+    <link href="https://github.com/trufflesecurity/xsshunter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ps-resources/es-offerings-site-feed</title>
+    <updated>2023-02-12T02:05:09Z</updated>
+    <id>tag:github.com,2023-02-12:/ps-resources/es-offerings-site-feed</id>
+    <link href="https://github.com/ps-resources/es-offerings-site-feed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Placeholder repo for json files to get the list of available offerings which are officially launched&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adeo/lmru--tech</title>
+    <updated>2023-02-12T02:05:09Z</updated>
+    <id>tag:github.com,2023-02-12:/adeo/lmru--tech</id>
+    <link href="https://github.com/adeo/lmru--tech" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leroy Merlin Tech&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

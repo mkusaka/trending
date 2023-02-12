@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:48:19Z</updated>
+  <updated>2023-02-12T01:48:30Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>woodchuck/dotvim</title>
-    <updated>2023-02-11T01:48:19Z</updated>
-    <id>tag:github.com,2023-02-11:/woodchuck/dotvim</id>
-    <link href="https://github.com/woodchuck/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lymslive/vimllearn</title>
+    <updated>2023-02-12T01:48:30Z</updated>
+    <id>tag:github.com,2023-02-12:/lymslive/vimllearn</id>
+    <link href="https://github.com/lymslive/vimllearn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A book for VimL Script language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Glench/Vim-Jinja2-Syntax</title>
-    <updated>2023-02-11T01:48:19Z</updated>
-    <id>tag:github.com,2023-02-11:/Glench/Vim-Jinja2-Syntax</id>
-    <link href="https://github.com/Glench/Vim-Jinja2-Syntax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An up-to-date jinja2 syntax file.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/Align</title>
+    <updated>2023-02-12T01:48:30Z</updated>
+    <id>tag:github.com,2023-02-12:/vim-scripts/Align</id>
+    <link href="https://github.com/vim-scripts/Align" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Help folks to align text, eqns, declarations, tables, etc&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

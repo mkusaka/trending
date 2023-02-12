@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:40:23Z</updated>
+  <updated>2023-02-12T01:40:29Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>privacycg/meetings</title>
-    <updated>2023-02-11T01:40:23Z</updated>
-    <id>tag:github.com,2023-02-11:/privacycg/meetings</id>
-    <link href="https://github.com/privacycg/meetings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Agenda and minutes of meetings of the Privacy Community Group&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

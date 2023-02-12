@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T02:00:02Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bids-standard/bids-examples</title>
+    <updated>2023-02-12T02:00:02Z</updated>
+    <id>tag:github.com,2023-02-12:/bids-standard/bids-examples</id>
+    <link href="https://github.com/bids-standard/bids-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of BIDS compatible datasets with empty raw data files that can be used for writing lightweight software tests.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>devbp/machinelearning</title>
+    <updated>2023-02-12T02:00:02Z</updated>
+    <id>tag:github.com,2023-02-12:/devbp/machinelearning</id>
+    <link href="https://github.com/devbp/machinelearning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

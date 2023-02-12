@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T01:54:31Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>msgpack/msgpack-erlang</title>
+    <updated>2023-02-12T01:54:31Z</updated>
+    <id>tag:github.com,2023-02-12:/msgpack/msgpack-erlang</id>
+    <link href="https://github.com/msgpack/msgpack-erlang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MessagePack (de)serializer implementation for Erlang / msgpack.org[Erlang]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Handlebars Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T01:55:50Z</updated>
+  <subtitle>Weekly Trending of Handlebars in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>godofredoninja/simply</title>
+    <updated>2023-02-12T01:55:50Z</updated>
+    <id>tag:github.com,2023-02-12:/godofredoninja/simply</id>
+    <link href="https://github.com/godofredoninja/simply" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Theme for Ghost inspired on Medium&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

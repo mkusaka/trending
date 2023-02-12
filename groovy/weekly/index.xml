@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-12T01:55:44Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Netflix/glisten</title>
+    <updated>2023-02-12T01:55:44Z</updated>
+    <id>tag:github.com,2023-02-12:/Netflix/glisten</id>
+    <link href="https://github.com/Netflix/glisten" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ease of use Groovy library for building JVM applications with Amazon Simple Workflow (SWF)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>palantir/gradle-configuration-resolver-plugin</title>
+    <updated>2023-02-12T01:55:44Z</updated>
+    <id>tag:github.com,2023-02-12:/palantir/gradle-configuration-resolver-plugin</id>
+    <link href="https://github.com/palantir/gradle-configuration-resolver-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Netflix/mantis-gradle-plugin</title>
+    <updated>2023-02-12T01:55:44Z</updated>
+    <id>tag:github.com,2023-02-12:/Netflix/mantis-gradle-plugin</id>
+    <link href="https://github.com/Netflix/mantis-gradle-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin for producing a deployable Mantis Job artifact from a JVM-based project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

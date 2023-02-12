@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:48:29Z</updated>
+  <updated>2023-02-12T01:48:40Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pure-admin/vue-pure-admin</title>
-    <updated>2023-02-11T01:48:29Z</updated>
-    <id>tag:github.com,2023-02-11:/pure-admin/vue-pure-admin</id>
-    <link href="https://github.com/pure-admin/vue-pure-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nuxt/devtools</title>
+    <updated>2023-02-12T01:48:40Z</updated>
+    <id>tag:github.com,2023-02-12:/nuxt/devtools</id>
+    <link href="https://github.com/nuxt/devtools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unleash Nuxt Developer Experience&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Exrick/xmall-front</title>
-    <updated>2023-02-11T01:48:29Z</updated>
-    <id>tag:github.com,2023-02-11:/Exrick/xmall-front</id>
-    <link href="https://github.com/Exrick/xmall-front" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Vue开发的XMall商城前台页面 PC端&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Kaidesuyo/Hydrogen-Music</title>
+    <updated>2023-02-12T01:48:40Z</updated>
+    <id>tag:github.com,2023-02-12:/Kaidesuyo/Hydrogen-Music</id>
+    <link href="https://github.com/Kaidesuyo/Hydrogen-Music" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;仿明日方舟工业风音乐播放器，支持添加曲绘&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

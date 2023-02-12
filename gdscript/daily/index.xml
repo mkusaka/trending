@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-11T01:35:27Z</updated>
+  <updated>2023-02-12T01:35:53Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-03a-Colors-and-Particles</title>
-    <updated>2023-02-11T01:35:27Z</updated>
-    <id>tag:github.com,2023-02-11:/BL-MSCH-C220/Exercise-03a-Colors-and-Particles</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-03a-Colors-and-Particles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>heroiclabs/nakama-godot</title>
+    <updated>2023-02-12T01:35:53Z</updated>
+    <id>tag:github.com,2023-02-12:/heroiclabs/nakama-godot</id>
+    <link href="https://github.com/heroiclabs/nakama-godot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot client for Nakama server written in GDScript.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
