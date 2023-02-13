@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:40:35Z</updated>
+  <updated>2023-02-13T01:41:56Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>griswaldbrooks/TrinitySimulator</title>
-    <updated>2023-02-12T01:40:35Z</updated>
-    <id>tag:github.com,2023-02-12:/griswaldbrooks/TrinitySimulator</id>
-    <link href="https://github.com/griswaldbrooks/TrinitySimulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aldebaro/dsp-telecom-book-code</title>
-    <updated>2023-02-12T01:40:35Z</updated>
-    <id>tag:github.com,2023-02-12:/aldebaro/dsp-telecom-book-code</id>
-    <link href="https://github.com/aldebaro/dsp-telecom-book-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code for Aldebaro&#39;s book on DSP and digital communications&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras</title>
+    <updated>2023-02-13T01:41:56Z</updated>
+    <id>tag:github.com,2023-02-13:/matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras</id>
+    <link href="https://github.com/matlab-deep-learning/CSINet-Channel-Compression-in-MATLAB-Using-Keras" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This example shows how to co-execute MATLAB and Python to simulate the effect of channel estimate compression on precoding in a MIMO OFDM channel.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

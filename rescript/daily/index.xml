@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ReScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:44:44Z</updated>
+  <updated>2023-02-13T01:46:32Z</updated>
   <subtitle>Daily Trending of ReScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rescript-association/rescript-core</title>
-    <updated>2023-02-12T01:44:44Z</updated>
-    <id>tag:github.com,2023-02-12:/rescript-association/rescript-core</id>
-    <link href="https://github.com/rescript-association/rescript-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A drop-in standard library for ReScript. Intended to be familiar for JavaScript developers, easy to use, and be rich enough (without being bloated) so that you don&#39;t need to reach for anything else for typical ReScript development.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

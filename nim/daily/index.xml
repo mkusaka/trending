@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:41:32Z</updated>
+  <updated>2023-02-13T01:42:54Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>status-im/nim-toml-serialization</title>
-    <updated>2023-02-12T01:41:32Z</updated>
-    <id>tag:github.com,2023-02-12:/status-im/nim-toml-serialization</id>
-    <link href="https://github.com/status-im/nim-toml-serialization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flexible TOML serialization [not] relying on run-time type information.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bervProject/nim-lang-example</title>
+    <updated>2023-02-13T01:42:54Z</updated>
+    <id>tag:github.com,2023-02-13:/bervProject/nim-lang-example</id>
+    <link href="https://github.com/bervProject/nim-lang-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NIM Language Example&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

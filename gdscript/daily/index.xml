@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:35:53Z</updated>
+  <updated>2023-02-13T01:36:42Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>heroiclabs/nakama-godot</title>
-    <updated>2023-02-12T01:35:53Z</updated>
-    <id>tag:github.com,2023-02-12:/heroiclabs/nakama-godot</id>
-    <link href="https://github.com/heroiclabs/nakama-godot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Godot client for Nakama server written in GDScript.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gdquest-demos/godot-4.0-new-features</title>
+    <updated>2023-02-13T01:36:42Z</updated>
+    <id>tag:github.com,2023-02-13:/gdquest-demos/godot-4.0-new-features</id>
+    <link href="https://github.com/gdquest-demos/godot-4.0-new-features" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free and open-source Godot 4.0 demo scenes to see the new features in action&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

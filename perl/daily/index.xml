@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:42:53Z</updated>
+  <updated>2023-02-13T01:44:26Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>foswiki/NTLMEmailAuthContrib</title>
-    <updated>2023-02-12T01:42:53Z</updated>
-    <id>tag:github.com,2023-02-12:/foswiki/NTLMEmailAuthContrib</id>
-    <link href="https://github.com/foswiki/NTLMEmailAuthContrib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Foswiki module NTLMEmailAuthContrib&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prakashk/Perl6-Cookbook</title>
+    <updated>2023-02-13T01:44:26Z</updated>
+    <id>tag:github.com,2023-02-13:/prakashk/Perl6-Cookbook</id>
+    <link href="https://github.com/prakashk/Perl6-Cookbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Release history of Perl6-Cookbook&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

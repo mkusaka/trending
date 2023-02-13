@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:38:52Z</updated>
+  <updated>2023-02-13T01:40:16Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaNeuralGraphics/Nerf.jl</title>
-    <updated>2023-02-12T01:38:52Z</updated>
-    <id>tag:github.com,2023-02-12:/JuliaNeuralGraphics/Nerf.jl</id>
-    <link href="https://github.com/JuliaNeuralGraphics/Nerf.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sethaxen/StanLogDensityProblems.jl</title>
+    <updated>2023-02-13T01:40:16Z</updated>
+    <id>tag:github.com,2023-02-13:/sethaxen/StanLogDensityProblems.jl</id>
+    <link href="https://github.com/sethaxen/StanLogDensityProblems.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LogDensityProblems implementation for Stan models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>haydenfree/VIP_Project</title>
-    <updated>2023-02-12T01:38:52Z</updated>
-    <id>tag:github.com,2023-02-12:/haydenfree/VIP_Project</id>
-    <link href="https://github.com/haydenfree/VIP_Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example for everyone to learn Git&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaGPU/KernelAbstractions.jl</title>
+    <updated>2023-02-13T01:40:16Z</updated>
+    <id>tag:github.com,2023-02-13:/JuliaGPU/KernelAbstractions.jl</id>
+    <link href="https://github.com/JuliaGPU/KernelAbstractions.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Heterogeneous programming in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

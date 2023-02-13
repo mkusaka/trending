@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:33:01Z</updated>
+  <updated>2023-02-13T01:33:20Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>btbinhtran/towerjs-tutorial</title>
-    <updated>2023-02-12T01:33:01Z</updated>
-    <id>tag:github.com,2023-02-12:/btbinhtran/towerjs-tutorial</id>
-    <link href="https://github.com/btbinhtran/towerjs-tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The absolute guide to the Node.js Web Framework Tower.js from absolute beginner to pro.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>captain-enjoyable/spreader</title>
+    <updated>2023-02-13T01:33:20Z</updated>
+    <id>tag:github.com,2023-02-13:/captain-enjoyable/spreader</id>
+    <link href="https://github.com/captain-enjoyable/spreader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

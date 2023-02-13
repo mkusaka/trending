@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:46:00Z</updated>
+  <updated>2023-02-13T01:47:44Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GuidoPenta/galactic-linkedin-profile-guide</title>
-    <updated>2023-02-12T01:46:00Z</updated>
-    <id>tag:github.com,2023-02-12:/GuidoPenta/galactic-linkedin-profile-guide</id>
-    <link href="https://github.com/GuidoPenta/galactic-linkedin-profile-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tips &amp; Trick for a great Linkedin profile&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>posit-conf-2023/workshops</title>
-    <updated>2023-02-12T01:46:00Z</updated>
-    <id>tag:github.com,2023-02-12:/posit-conf-2023/workshops</id>
-    <link href="https://github.com/posit-conf-2023/workshops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DACSS/601_Spring_2023</title>
-    <updated>2023-02-12T01:46:00Z</updated>
-    <id>tag:github.com,2023-02-12:/DACSS/601_Spring_2023</id>
-    <link href="https://github.com/DACSS/601_Spring_2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>johnbedeir/Devops-Tools-Documentation</title>
+    <updated>2023-02-13T01:47:44Z</updated>
+    <id>tag:github.com,2023-02-13:/johnbedeir/Devops-Tools-Documentation</id>
+    <link href="https://github.com/johnbedeir/Devops-Tools-Documentation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Repository contains DevOps Projects and Tools Documentation step by step practice&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

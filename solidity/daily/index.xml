@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:46:41Z</updated>
+  <updated>2023-02-13T01:48:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>interfinetwork/project-delivery-data</title>
-    <updated>2023-02-12T01:46:41Z</updated>
-    <id>tag:github.com,2023-02-12:/interfinetwork/project-delivery-data</id>
-    <link href="https://github.com/interfinetwork/project-delivery-data" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;InterFi provides blockchain security and assessment services. In this repository, we&#39;ll upload audited smart contracts, and projects. To request a smart contract audit, contact https://t.me/interfiaudits or hello@interfi.network&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

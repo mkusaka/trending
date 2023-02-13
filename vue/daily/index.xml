@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:48:40Z</updated>
+  <updated>2023-02-13T01:51:01Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nuxt/devtools</title>
-    <updated>2023-02-12T01:48:40Z</updated>
-    <id>tag:github.com,2023-02-12:/nuxt/devtools</id>
-    <link href="https://github.com/nuxt/devtools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unleash Nuxt Developer Experience&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>super6wenzi/chatGPT-wx</title>
+    <updated>2023-02-13T01:51:01Z</updated>
+    <id>tag:github.com,2023-02-13:/super6wenzi/chatGPT-wx</id>
+    <link href="https://github.com/super6wenzi/chatGPT-wx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chatGPT微信小程序&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kaidesuyo/Hydrogen-Music</title>
-    <updated>2023-02-12T01:48:40Z</updated>
-    <id>tag:github.com,2023-02-12:/Kaidesuyo/Hydrogen-Music</id>
-    <link href="https://github.com/Kaidesuyo/Hydrogen-Music" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;仿明日方舟工业风音乐播放器，支持添加曲绘&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Chanzhaoyu/chatgpt-web</title>
+    <updated>2023-02-13T01:51:01Z</updated>
+    <id>tag:github.com,2023-02-13:/Chanzhaoyu/chatgpt-web</id>
+    <link href="https://github.com/Chanzhaoyu/chatgpt-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChartGPT demo page built with express and vue3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mxismean/chatgpt-app</title>
+    <updated>2023-02-13T01:51:01Z</updated>
+    <id>tag:github.com,2023-02-13:/mxismean/chatgpt-app</id>
+    <link href="https://github.com/mxismean/chatgpt-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tauri 项目：ChatGPT App&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

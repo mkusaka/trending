@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-12T01:38:55Z</updated>
+  <updated>2023-02-13T01:40:20Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nolanaatama/sd-1click-colab</title>
-    <updated>2023-02-12T01:38:55Z</updated>
-    <id>tag:github.com,2023-02-12:/nolanaatama/sd-1click-colab</id>
-    <link href="https://github.com/nolanaatama/sd-1click-colab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sd-1click-colab&lt;/h1&gt;</summary>
+    <title>TommyZihao/MMSegmentation_Tutorials</title>
+    <updated>2023-02-13T01:40:20Z</updated>
+    <id>tag:github.com,2023-02-13:/TommyZihao/MMSegmentation_Tutorials</id>
+    <link href="https://github.com/TommyZihao/MMSegmentation_Tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jupyter notebook tutorials for MMSegmentation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MMSegmentation教程&lt;/h1&gt; &#xA;&lt;p&gt;OpenMMLab主页：&lt;a href=&#34;https://openmmlab.com/&#34;&gt;https://openmmlab.com/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;MMSegmentation主页：&lt;a href=&#34;https://github.com/open-mmlab/mmsegmentation&#34;&gt;https://github.com/open-mmlab/mmsegmentation&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;视频讲解：同济子豪兄 &lt;a href=&#34;https://space.bilibili.com/1900783&#34;&gt;https://space.bilibili.com/1900783&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;代码测试&lt;a href=&#34;https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1&#34;&gt;云GPU环境&lt;/a&gt;：GPU RTX 3060、CUDA v11.2&lt;/p&gt;</summary>
   </entry>
 </feed>
