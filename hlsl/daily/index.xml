@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:38:01Z</updated>
+  <updated>2023-02-14T01:39:35Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FransBouma/OtisFX</title>
-    <updated>2023-02-13T01:38:01Z</updated>
-    <id>tag:github.com,2023-02-13:/FransBouma/OtisFX</id>
-    <link href="https://github.com/FransBouma/OtisFX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small set of effects for Reshade&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>luluco250/FXShaders</title>
-    <updated>2023-02-13T01:38:01Z</updated>
-    <id>tag:github.com,2023-02-13:/luluco250/FXShaders</id>
-    <link href="https://github.com/luluco250/FXShaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of shaders written in FX (similar to CG) for ReShade.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

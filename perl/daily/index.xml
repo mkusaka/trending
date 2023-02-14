@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:44:26Z</updated>
+  <updated>2023-02-14T01:44:49Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>prakashk/Perl6-Cookbook</title>
-    <updated>2023-02-13T01:44:26Z</updated>
-    <id>tag:github.com,2023-02-13:/prakashk/Perl6-Cookbook</id>
-    <link href="https://github.com/prakashk/Perl6-Cookbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Release history of Perl6-Cookbook&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>borgified/spotify_puzzles</title>
+    <updated>2023-02-14T01:44:49Z</updated>
+    <id>tag:github.com,2023-02-14:/borgified/spotify_puzzles</id>
+    <link href="https://github.com/borgified/spotify_puzzles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>manakai/harusame</title>
+    <updated>2023-02-14T01:44:49Z</updated>
+    <id>tag:github.com,2023-02-14:/manakai/harusame</id>
+    <link href="https://github.com/manakai/harusame" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Harusame - Multilingual Web site management&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Xilinx/meta-security</title>
+    <updated>2023-02-14T01:44:49Z</updated>
+    <id>tag:github.com,2023-02-14:/Xilinx/meta-security</id>
+    <link href="https://github.com/Xilinx/meta-security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Meta-security&lt;/h1&gt; &#xA;&lt;p&gt;This layer provides security tools, hardening tools for Linux kernels and libraries for implementing security mechanisms.&lt;/p&gt; &#xA;&lt;h1&gt;Dependencies&lt;/h1&gt; &#xA;&lt;p&gt;This layer depends on:&lt;/p&gt; &#xA;&lt;p&gt;URI: git://git.openembedded.org/openembedded-core branch: master revision: HEAD prio: default&lt;/p&gt; &#xA;&lt;p&gt;URI: git://git.openembedded.org/meta-openembedded/meta-oe branch: master revision: HEAD prio: default&lt;/p&gt; &#xA;&lt;p&gt;URI: git://git.openembedded.org/meta-openembedded/meta-perl branch: master revision: HEAD prio: default&lt;/p&gt; &#xA;&lt;p&gt;URI: git://git.openembedded.org/meta-openembedded/meta-networking branch: master revision: HEAD prio: default&lt;/p&gt; &#xA;&lt;h1&gt;Adding the security layer to your build&lt;/h1&gt; &#xA;&lt;p&gt;In order to use this layer, you need to make the build system aware of it.&lt;/p&gt; &#xA;&lt;p&gt;Assuming the security layer exists at the top-level of your yocto build tree, you can add it to the build system by adding the location of the security layer to bblayers.conf, along with any other layers needed. e.g.:&lt;/p&gt; &#xA;&lt;p&gt;BBLAYERS ?= &#34; &lt;br&gt; /path/to/oe-core/meta &lt;br&gt; /path/to/meta-openembedded/meta-oe &lt;br&gt; /path/to/meta-openembedded/meta-perl &lt;br&gt; /path/to/meta-openembedded/meta-python &lt;br&gt; /path/to/meta-openembedded/meta-networking &lt;br&gt; /path/to/layer/meta-security \&lt;/p&gt; &#xA;&lt;h2&gt;Maintenance&lt;/h2&gt; &#xA;&lt;p&gt;Send pull requests, patches, comments or questions to &lt;a href=&#34;mailto:yocto@lists.yoctoproject.org&#34;&gt;yocto@lists.yoctoproject.org&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;When sending single patches, please using something like: &#39;git send-email -1 --to &lt;a href=&#34;mailto:yocto@lists.yoctoproject.org&#34;&gt;yocto@lists.yoctoproject.org&lt;/a&gt; --subject-prefix=meta-security][zeus][PATCH&#39;&lt;/p&gt; &#xA;&lt;p&gt;These values can be set as defaults for this repository:&lt;/p&gt; &#xA;&lt;p&gt;$ git config sendemail.to &lt;a href=&#34;mailto:yocto@lists.yoctoproject.org&#34;&gt;yocto@lists.yoctoproject.org&lt;/a&gt; $ git config format.subjectPrefix meta-security][zeus][PATCH&lt;/p&gt; &#xA;&lt;p&gt;Now you can just do &#39;git send-email origin/master&#39; to send all local patches.&lt;/p&gt; &#xA;&lt;p&gt;Maintainers: Armin Kuster &lt;a href=&#34;mailto:akuster808@gmail.com&#34;&gt;akuster808@gmail.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;All metadata is MIT licensed unless otherwise stated. Source code included in tree for individual recipes is under the LICENSE stated in each recipe (.bb file) unless otherwise stated.&lt;/p&gt;</summary>
   </entry>
 </feed>

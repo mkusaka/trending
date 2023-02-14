@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:32:50Z</updated>
+  <updated>2023-02-14T01:34:48Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sayajin-labs/kakarot-ssj</title>
-    <updated>2023-02-13T01:32:50Z</updated>
-    <id>tag:github.com,2023-02-13:/sayajin-labs/kakarot-ssj</id>
-    <link href="https://github.com/sayajin-labs/kakarot-ssj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kakarot ZK-EVM in Cairo 1.0 🐺 ⚡&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>franalgaba/shefcraft</title>
-    <updated>2023-02-13T01:32:50Z</updated>
-    <id>tag:github.com,2023-02-13:/franalgaba/shefcraft</id>
-    <link href="https://github.com/franalgaba/shefcraft" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart Contract Deployment system for Cairo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

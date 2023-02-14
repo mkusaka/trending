@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:41:51Z</updated>
+  <updated>2023-02-14T01:42:35Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>digitalservicebund/uptime-monitor</title>
-    <updated>2023-02-13T01:41:51Z</updated>
-    <id>tag:github.com,2023-02-13:/digitalservicebund/uptime-monitor</id>
-    <link href="https://github.com/digitalservicebund/uptime-monitor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for DigitalService4Germany, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NDLANO/oppetid</title>
-    <updated>2023-02-13T01:41:51Z</updated>
-    <id>tag:github.com,2023-02-13:/NDLANO/oppetid</id>
-    <link href="https://github.com/NDLANO/oppetid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for NDLA.no, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

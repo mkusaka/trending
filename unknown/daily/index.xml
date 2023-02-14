@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:30:08Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-02-14T01:32:22Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gayolGate/gayolGate</title>
-    <updated>2023-02-13T01:30:08Z</updated>
-    <id>tag:github.com,2023-02-13:/gayolGate/gayolGate</id>
-    <link href="https://github.com/gayolGate/gayolGate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Information about my GitHub profile&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yonggekkk/replit-xray</title>
+    <updated>2023-02-14T01:32:22Z</updated>
+    <id>tag:github.com,2023-02-14:/yonggekkk/replit-xray</id>
+    <link href="https://github.com/yonggekkk/replit-xray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Replit容器部署xray核心代理，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks五种代理协议&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Bkebi-Group/Bkebi-GC-Release</title>
-    <updated>2023-02-13T01:30:08Z</updated>
-    <id>tag:github.com,2023-02-13:/Bkebi-Group/Bkebi-GC-Release</id>
-    <link href="https://github.com/Bkebi-Group/Bkebi-GC-Release" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Download Bkebi-GC Here&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dsasmblr/game-hacking</title>
+    <updated>2023-02-14T01:32:22Z</updated>
+    <id>tag:github.com,2023-02-14:/dsasmblr/game-hacking</id>
+    <link href="https://github.com/dsasmblr/game-hacking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tutorials, tools, and more as related to reverse engineering video games.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dn0m1n8tor/AndroidPentest101</title>
-    <updated>2023-02-13T01:30:08Z</updated>
-    <id>tag:github.com,2023-02-13:/dn0m1n8tor/AndroidPentest101</id>
-    <link href="https://github.com/dn0m1n8tor/AndroidPentest101" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Bambu-Research-Group/RFID-Tag-Guide</title>
+    <updated>2023-02-14T01:32:22Z</updated>
+    <id>tag:github.com,2023-02-14:/Bambu-Research-Group/RFID-Tag-Guide</id>
+    <link href="https://github.com/Bambu-Research-Group/RFID-Tag-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Instructions on how to read out the bambulab nfc tags&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

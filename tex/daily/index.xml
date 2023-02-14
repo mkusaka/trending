@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:49:37Z</updated>
+  <updated>2023-02-14T01:49:34Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ajillepalli/HandsOnCyberTutorials</title>
-    <updated>2023-02-13T01:49:37Z</updated>
-    <id>tag:github.com,2023-02-13:/ajillepalli/HandsOnCyberTutorials</id>
-    <link href="https://github.com/ajillepalli/HandsOnCyberTutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#HandsOnCybersecurityTutorials In this repository you will find the complete LaTeX source for hands-on cybersecurity tutorials. Funded by the U.S. National Science Foundation (NSF) and the State of Idaho IGEM program.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Tutorials List:&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Encryption With OpenSSL&lt;/li&gt; &#xA; &lt;li&gt;The Art of Secure Web Browsing&lt;/li&gt; &#xA; &lt;li&gt;Static Testing: Static Analysis and Code Reviews&lt;/li&gt; &#xA; &lt;li&gt;Group Policy with Active Directory (2 Parts)&lt;/li&gt; &#xA; &lt;li&gt;Network Firewalls (2 Parts)&lt;/li&gt; &#xA; &lt;li&gt;Social Engineering&lt;/li&gt; &#xA; &lt;li&gt;Network Scanning with Nmap and Netcat&lt;/li&gt; &#xA; &lt;li&gt;Password Security (2 Parts)&lt;/li&gt; &#xA; &lt;li&gt;Penetration Testing&lt;/li&gt; &#xA; &lt;li&gt;Silver and Golden Tickets&lt;/li&gt; &#xA; &lt;li&gt;Social Engineering&lt;/li&gt; &#xA; &lt;li&gt;Firewall Management&lt;/li&gt; &#xA; &lt;li&gt;Virtual Networks&lt;/li&gt; &#xA; &lt;li&gt;Vulnerability Scanning&lt;/li&gt; &#xA; &lt;li&gt;Web Application Security&lt;/li&gt; &#xA; &lt;li&gt;WireShark Fundamentals&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>consensus-shipyard/ipc-design</title>
-    <updated>2023-02-13T01:49:37Z</updated>
-    <id>tag:github.com,2023-02-13:/consensus-shipyard/ipc-design</id>
-    <link href="https://github.com/consensus-shipyard/ipc-design" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Design document for IPC&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ipc-design&lt;/h1&gt; &#xA;&lt;p&gt;Design document for IPC&lt;/p&gt;</summary>
-  </entry>
 </feed>

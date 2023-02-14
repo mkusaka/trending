@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:38:08Z</updated>
+  <updated>2023-02-14T01:39:39Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>acikkaynak/deprem-yardim-cloud-infra</title>
-    <updated>2023-02-13T01:38:08Z</updated>
-    <id>tag:github.com,2023-02-13:/acikkaynak/deprem-yardim-cloud-infra</id>
-    <link href="https://github.com/acikkaynak/deprem-yardim-cloud-infra" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chef/bento</title>
+    <updated>2023-02-14T01:39:39Z</updated>
+    <id>tag:github.com,2023-02-14:/chef/bento</id>
+    <link href="https://github.com/chef/bento" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Packer templates for building minimal Vagrant baseboxes for multiple platforms&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spotinst/terraform-spotinst-ocean-controller</title>
-    <updated>2023-02-13T01:38:08Z</updated>
-    <id>tag:github.com,2023-02-13:/spotinst/terraform-spotinst-ocean-controller</id>
-    <link href="https://github.com/spotinst/terraform-spotinst-ocean-controller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Terraform module to install Ocean Controller.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cvamsikrishna11/devops-fully-automated-infra</title>
+    <updated>2023-02-14T01:39:39Z</updated>
+    <id>tag:github.com,2023-02-14:/cvamsikrishna11/devops-fully-automated-infra</id>
+    <link href="https://github.com/cvamsikrishna11/devops-fully-automated-infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fully automated and secured Terraform infra pipeline&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LondheShubham153/terraform-practice</title>
-    <updated>2023-02-13T01:38:08Z</updated>
-    <id>tag:github.com,2023-02-13:/LondheShubham153/terraform-practice</id>
-    <link href="https://github.com/LondheShubham153/terraform-practice" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;some practice terraform scripts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-backup</title>
+    <updated>2023-02-14T01:39:39Z</updated>
+    <id>tag:github.com,2023-02-14:/cloudposse/terraform-aws-backup</id>
+    <link href="https://github.com/cloudposse/terraform-aws-backup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision AWS Backup, a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services such as EBS volumes, RDS databases, DynamoDB tables, EFS file systems, and AWS Storage Gateway volumes.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

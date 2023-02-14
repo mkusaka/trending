@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:38:17Z</updated>
+  <updated>2023-02-14T01:39:46Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ozansarier/enkazdinlemeuygulamasi</title>
+    <updated>2023-02-14T01:39:46Z</updated>
+    <id>tag:github.com,2023-02-14:/ozansarier/enkazdinlemeuygulamasi</id>
+    <link href="https://github.com/ozansarier/enkazdinlemeuygulamasi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enkaz Dinleme Uygulaması&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Enkaz Dinleme Uygulaması&lt;/h1&gt; &#xA;&lt;p&gt;Enkaz Dinleme Uygulaması profesyonel dinleme ekipmanlarına erişim olmayan deprem enkazlarında, enkaz altından gelen seslerin daha rahat duyulmasını sağlamayı amaçlayan bir uygulamadır.&lt;/p&gt; &#xA;&lt;p&gt;Yayınlanmış versiyon:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://web.itu.edu.tr/sariero/dinleme.html&#34;&gt; Enkaz Dinleme Uygulaması v.03 &lt;/a&gt;&lt;a&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;a&gt; &lt;h1&gt;Kullanım Detayları&lt;/h1&gt; &lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ozansarier/enkazdinlemeuygulamasi/main/path/to/EDU_What.png&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/ozansarier/enkazdinlemeuygulamasi/main/path/to/EDU_How.png&#34;&gt;&lt;/p&gt; &lt;h1&gt;Dizayn Hedefleri:&lt;/h1&gt; &#xA; &lt;ul&gt; &#xA;  &lt;li&gt;Aktif internet bağlantısı gerektirmemesi&lt;/li&gt; &#xA;  &lt;li&gt;Tarayıcı üzerinden çalışması&lt;/li&gt; &#xA;  &lt;li&gt;Basit arayüze sahip olması&lt;/li&gt; &#xA;  &lt;li&gt;Tracking ve reklam içermemesi&lt;/li&gt; &#xA;  &lt;li&gt;İzinsiz data toplamaması&lt;/li&gt; &#xA;  &lt;li&gt;Tek bir HTML dosyası altında toplamak (Mecburi değil)&lt;/li&gt; &#xA; &lt;/ul&gt; &lt;h1&gt;Mevcut Kabiliyetler:&lt;/h1&gt; &#xA; &lt;ul&gt; &#xA;  &lt;li&gt;Ses kaydetme&lt;/li&gt; &#xA;  &lt;li&gt;Kaydedilen seslerin yükseltilerek geri çalınması&lt;/li&gt; &#xA;  &lt;li&gt;HP ve LP filtreler ile çeşitli spektralara odaklanabilmek&lt;/li&gt; &#xA; &lt;/ul&gt; &lt;h1&gt;Geliştiriciler için yol haritası&lt;/h1&gt; &#xA; &lt;ul&gt; &#xA;  &lt;li&gt; &lt;p&gt;Arayüz iyileştirmeleri - kısmi yapıldı -&lt;/p&gt; &lt;/li&gt; &#xA;  &lt;li&gt; &lt;p&gt;Bazı cihazlarda yaşanan gating sorununun çözülmesi&lt;/p&gt; &lt;/li&gt; &#xA;  &lt;li&gt; &lt;p&gt;Daha kaliteli kayıt için iOS uyumluluğunu bozmadan WAV formatında kayıt yapılması&lt;/p&gt; &lt;/li&gt; &#xA;  &lt;li&gt; &lt;p&gt;Daha detaylı kullanım kılavuzu, mevcut kılavuzun arayüze entegre edilmesi&lt;/p&gt; &lt;/li&gt; &#xA;  &lt;li&gt; &lt;p&gt;Kaydedilen ses için waveform ve spectrogram görüntüleme&lt;/p&gt; &lt;/li&gt; &#xA;  &lt;li&gt; &lt;p&gt;Hiç internet erişimi olmayan bölgeler için yüklenebilir bir uygulama&lt;/p&gt; &lt;/li&gt; &#xA; &lt;/ul&gt; &lt;/a&gt;</summary>
+  </entry>
 </feed>

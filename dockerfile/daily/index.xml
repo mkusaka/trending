@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-13T01:34:48Z</updated>
+  <updated>2023-02-14T01:36:27Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>angelnu/containers</title>
-    <updated>2023-02-13T01:34:48Z</updated>
-    <id>tag:github.com,2023-02-13:/angelnu/containers</id>
-    <link href="https://github.com/angelnu/containers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes tailored container images for various applications&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;container-images&lt;/h1&gt; &#xA;&lt;p&gt;Welcome to my container images.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;p&gt;Thanks a lot to &lt;a href=&#34;https://github.com/onedr0p/containers&#34;&gt;https://github.com/onedr0p/containers&lt;/a&gt; for a lot of the groundwork!&lt;/p&gt;</summary>
-  </entry>
 </feed>
