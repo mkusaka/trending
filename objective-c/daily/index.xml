@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-14T01:43:54Z</updated>
+  <updated>2023-02-15T01:41:55Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>haxi0/TrollBoard</title>
-    <updated>2023-02-14T01:43:54Z</updated>
-    <id>tag:github.com,2023-02-14:/haxi0/TrollBoard</id>
-    <link href="https://github.com/haxi0/TrollBoard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Icon changer for iOS 15.0 - 16.1.2&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://raw.githubusercontent.com/haxi0/TrollBoard/main/TrollBoard-modified.png&#34; alt=&#34;Logo&#34; width=&#34;70&#34; height=&#34;70&#34;&gt; &#xA;&lt;h1&gt;TrollBoard&lt;/h1&gt; &#xA;&lt;p&gt;Icon changer for iOS 15.0 - 16.1.2. Sorry for the confusing name. &lt;strong&gt;IT DOESN&#39;T HAVE REVERTABLE ICONS!!!&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;h1&gt;How to use&lt;/h1&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Launch the app so TrollBoard can make the folder for you.&lt;/li&gt; &#xA; &lt;li&gt;Get an icon you want to change your app to, drop it to /var/mobile/TrollBoard via Santander or Filza.&lt;/li&gt; &#xA; &lt;li&gt;Make sure your icon is named after your app&#39;s bundle id! For example com.apple.calculator.png&lt;/li&gt; &#xA; &lt;li&gt;Go to TrollBoard and refresh the list of .pngs. You can see your image appeared there. Click apply and see how it goes!&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

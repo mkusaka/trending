@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-14T01:46:17Z</updated>
+  <updated>2023-02-15T01:44:49Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Pakillo/ANECAtools</title>
+    <updated>2023-02-15T01:44:49Z</updated>
+    <id>tag:github.com,2023-02-15:/Pakillo/ANECAtools</id>
+    <link href="https://github.com/Pakillo/ANECAtools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Paquete de R con herramientas para facilitar el proceso de acreditación en la ANECA&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ANECAtools&lt;/h1&gt; &#xA;&lt;!-- badges: start --&gt; &#xA;&lt;!-- badges: end --&gt; &#xA;&lt;p&gt;ANECAtools es un paquete de R con herramientas para facilitar el proceso de solicitud de acreditación de profesorado ante la ANECA, automatizando tareas en lo posible.&lt;/p&gt; &#xA;&lt;p&gt;Entre otras funciones, ANECAtools facilita y agiliza la introducción de los datos de publicaciones a partir de un archivo BibTeX.&lt;/p&gt; &#xA;&lt;p&gt;También incluye funciones para extraer automáticamente la página inicial y final de muchos archivos PDF a la vez, así como agruparlos en un único archivo listo para subir a la plataforma.&lt;/p&gt; &#xA;&lt;h2&gt;Instalación&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;# install.packages(&#34;remotes&#34;)  # instala el paquete remotes si no lo tienes instalado&#xA;remotes::install_github(&#34;Pakillo/ANECAtools&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Ejemplos de uso&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;library(ANECAtools)&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Introducir publicaciones&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt;introducir_publicaciones(&#34;mis_papers.bib&#34;)&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Pakillo/ANECAtools/master/man/figures/ANECAtools.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Extraer páginas de archivos pdf&lt;/h3&gt; &#xA;&lt;p&gt;Extraer página inicial y final de un archivo PDF:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;pdf_extraer_pags(&#34;articulo.pdf&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Extraer página inicial y final de muchos PDF a la vez:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;archivos &amp;lt;- list.files(&#34;carpeta_pdfs&#34;, full.names = TRUE)&#xA;lapply(archivos, pdf_extraer_pags)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Combinar pdfs en un único archivo&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;pdfs &amp;lt;- list.files(&#34;PDF_SUBSET&#34;, full.names = TRUE)&#xA;pdf_combinar(pdfs)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

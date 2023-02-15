@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-14T01:49:13Z</updated>
+  <updated>2023-02-15T01:48:24Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NYU-Processor-Design/onboarding-lab-4</title>
+    <updated>2023-02-15T01:48:24Z</updated>
+    <id>tag:github.com,2023-02-15:/NYU-Processor-Design/onboarding-lab-4</id>
+    <link href="https://github.com/NYU-Processor-Design/onboarding-lab-4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Onboarding Lab for Week 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WangXuan95/FPGA-FOC</title>
+    <updated>2023-02-15T01:48:24Z</updated>
+    <id>tag:github.com,2023-02-15:/WangXuan95/FPGA-FOC</id>
+    <link href="https://github.com/WangXuan95/FPGA-FOC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. 基于FPGA的FOC控制器，用于驱动BLDC/PMSM电机。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

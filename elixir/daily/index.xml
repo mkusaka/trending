@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-14T01:37:14Z</updated>
+  <updated>2023-02-15T01:33:52Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>emadalam/mahaul</title>
+    <updated>2023-02-15T01:33:52Z</updated>
+    <id>tag:github.com,2023-02-15:/emadalam/mahaul</id>
+    <link href="https://github.com/emadalam/mahaul" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Supercharge your environment variables in Elixir. Parse and validate with compile time access guarantees, defaults, fallbacks and app pre-boot validations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dashbitco/mox</title>
+    <updated>2023-02-15T01:33:52Z</updated>
+    <id>tag:github.com,2023-02-15:/dashbitco/mox</id>
+    <link href="https://github.com/dashbitco/mox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mocks and explicit contracts in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>membraneframework/membrane_mp4_plugin</title>
+    <updated>2023-02-15T01:33:52Z</updated>
+    <id>tag:github.com,2023-02-15:/membraneframework/membrane_mp4_plugin</id>
+    <link href="https://github.com/membraneframework/membrane_mp4_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilities for MP4 container parsing and serialization and elements for muxing the stream to CMAF&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

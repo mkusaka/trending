@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Witcher Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-14T01:50:55Z</updated>
+  <updated>2023-02-15T01:50:16Z</updated>
   <subtitle>Daily Trending of Witcher Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ElementaryLewis/Witcher-3-Next-Gen-Changelog</title>
-    <updated>2023-02-14T01:50:55Z</updated>
-    <id>tag:github.com,2023-02-14:/ElementaryLewis/Witcher-3-Next-Gen-Changelog</id>
-    <link href="https://github.com/ElementaryLewis/Witcher-3-Next-Gen-Changelog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Changelog of the Witcher 3 Next -Gen patch&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

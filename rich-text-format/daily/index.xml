@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-14T01:46:53Z</updated>
+  <updated>2023-02-15T01:45:23Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adelguen/L2IRS1</title>
+    <updated>2023-02-15T01:45:23Z</updated>
+    <id>tag:github.com,2023-02-15:/adelguen/L2IRS1</id>
+    <link href="https://github.com/adelguen/L2IRS1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository dedicated to L2IRS1 ISI students&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cmcntsh/stats2021_exer_JamoviDataManip</title>
+    <updated>2023-02-15T01:45:23Z</updated>
+    <id>tag:github.com,2023-02-15:/cmcntsh/stats2021_exer_JamoviDataManip</id>
+    <link href="https://github.com/cmcntsh/stats2021_exer_JamoviDataManip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
