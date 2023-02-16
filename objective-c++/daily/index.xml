@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:41:48Z</updated>
+  <updated>2023-02-16T01:41:27Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eni9889/TagLib-ObjC</title>
-    <updated>2023-02-15T01:41:48Z</updated>
-    <id>tag:github.com,2023-02-15:/eni9889/TagLib-ObjC</id>
-    <link href="https://github.com/eni9889/TagLib-ObjC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Objective-C wrapper around TagLib (at least, that&#39;s the goal).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

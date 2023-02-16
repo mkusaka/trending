@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:42:50Z</updated>
+  <updated>2023-02-16T01:42:35Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hepcat72/SNPSTI</title>
-    <updated>2023-02-15T01:42:50Z</updated>
-    <id>tag:github.com,2023-02-15:/hepcat72/SNPSTI</id>
-    <link href="https://github.com/hepcat72/SNPSTI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SNP Phylogeny Mapping tool&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This suite of scripts is designed to take a phylogenetic tree and a table of SNPs and assign SNP solutions to each branch of the tree, the SNP combinations which resolve the genomes at the leaves of the subtree from the rest of the tree.&lt;/p&gt; &#xA;&lt;p&gt;Required modules:&lt;/p&gt; &#xA;&lt;p&gt;tree.pm (available through github at hepcat72/tree.git)&lt;/p&gt; &#xA;&lt;p&gt;The main script is SNPSTI.pl. It outputs coded solutions to the nodes of the tree. Those solutions can be converted to a human-readable format using SNPSTI2humanreadable.pl. You can generate an input SNP table by running find_snps.pl. If you run SNPSTI.pl in verbose mode, capturing greedy solutions, you can generate a summary of the greedily constructed sets (i.e. imperfect solutions) using SNPSTI-greedysummaries.pl.&lt;/p&gt;</summary>
-  </entry>
 </feed>

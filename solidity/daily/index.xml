@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:47:52Z</updated>
+  <updated>2023-02-16T01:47:00Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chaseSpace/learn_blockchain</title>
-    <updated>2023-02-15T01:47:52Z</updated>
-    <id>tag:github.com,2023-02-15:/chaseSpace/learn_blockchain</id>
-    <link href="https://github.com/chaseSpace/learn_blockchain" rel="alternate"></link>
+    <title>0xPolygon/account-binary-search-tree</title>
+    <updated>2023-02-16T01:47:00Z</updated>
+    <id>tag:github.com,2023-02-16:/0xPolygon/account-binary-search-tree</id>
+    <link href="https://github.com/0xPolygon/account-binary-search-tree" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>smartcontractkit/chainlink-mix</title>
-    <updated>2023-02-15T01:47:52Z</updated>
-    <id>tag:github.com,2023-02-15:/smartcontractkit/chainlink-mix</id>
-    <link href="https://github.com/smartcontractkit/chainlink-mix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Working with smart contracts with eth-brownie, python, and Chainlink.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hananbeer/stdity</title>
+    <updated>2023-02-16T01:47:00Z</updated>
+    <id>tag:github.com,2023-02-16:/hananbeer/stdity</id>
+    <link href="https://github.com/hananbeer/stdity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;solidity stdlib&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0xPolygonID/contracts</title>
-    <updated>2023-02-15T01:47:52Z</updated>
-    <id>tag:github.com,2023-02-15:/0xPolygonID/contracts</id>
-    <link href="https://github.com/0xPolygonID/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts for zero-knowledge proofs verification on-chain with PolygonID&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xxxeyJ/Awesome-Blockchain-Security</title>
+    <updated>2023-02-16T01:47:00Z</updated>
+    <id>tag:github.com,2023-02-16:/xxxeyJ/Awesome-Blockchain-Security</id>
+    <link href="https://github.com/xxxeyJ/Awesome-Blockchain-Security" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of awesome resources, tools, and other shiny things for blockchain security researcher.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:49:59Z</updated>
+  <updated>2023-02-16T01:49:18Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mic1on/chatGPT-web</title>
+    <updated>2023-02-16T01:49:18Z</updated>
+    <id>tag:github.com,2023-02-16:/mic1on/chatGPT-web</id>
+    <link href="https://github.com/mic1on/chatGPT-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chatGPT私有化部署&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>laorange/paper-assistant</title>
+    <updated>2023-02-16T01:49:18Z</updated>
+    <id>tag:github.com,2023-02-16:/laorange/paper-assistant</id>
+    <link href="https://github.com/laorange/paper-assistant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;论文工具：文本复制工具 + 英语语法检测&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

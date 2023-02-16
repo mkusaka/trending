@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:36:12Z</updated>
+  <updated>2023-02-16T01:36:22Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>edgelaboratories/terraform-auto-scaling-group</title>
-    <updated>2023-02-15T01:36:12Z</updated>
-    <id>tag:github.com,2023-02-15:/edgelaboratories/terraform-auto-scaling-group</id>
-    <link href="https://github.com/edgelaboratories/terraform-auto-scaling-group" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to manage AWS Auto Scaling Group&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>techiescamp/devops-projects</title>
+    <updated>2023-02-16T01:36:22Z</updated>
+    <id>tag:github.com,2023-02-16:/techiescamp/devops-projects</id>
+    <link href="https://github.com/techiescamp/devops-projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

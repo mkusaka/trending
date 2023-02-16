@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:36:12Z</updated>
+  <updated>2023-02-16T01:36:22Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SamBumgardner/CSC-303-Git-Playground</title>
+    <updated>2023-02-16T01:36:22Z</updated>
+    <id>tag:github.com,2023-02-16:/SamBumgardner/CSC-303-Git-Playground</id>
+    <link href="https://github.com/SamBumgardner/CSC-303-Git-Playground" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repository where students in MSU&#39;s CSC 303 can play around with Git in a safe repository.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CSC-303-Git-Playground&lt;/h1&gt; &#xA;&lt;h3&gt;Back to main Class GitHub page &lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34;&gt;here&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p&gt;This is a repository where students in MSU&#39;s CSC 303 can play around with Git in a safe repository.&lt;/p&gt; &#xA;&lt;p&gt;Miranda McCoy just wanted to say hello :D&lt;/p&gt; &#xA;&lt;p&gt;Connor also changed it. Go away or you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float two you&#39;ll float too you&#39;ll float too you&#39;ll float too float too, you will you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you&#39;ll float too you will float too you&#39;ll float too you&#39;ll float too you&#39;ll float too hell hell, you&#39;ll float!&lt;/p&gt;</summary>
+  </entry>
 </feed>

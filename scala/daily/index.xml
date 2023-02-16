@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:46:38Z</updated>
+  <updated>2023-02-16T01:46:02Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>connollyst/little</title>
+    <updated>2023-02-16T01:46:02Z</updated>
+    <id>tag:github.com,2023-02-16:/connollyst/little</id>
+    <link href="https://github.com/connollyst/little" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://travis-ci.org/connollyst/little.svg?branch=master&#34; alt=&#34;Travis CI Project Build Status&#34; title=&#34;Build Status&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Short Term To Do&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;add primitives to toolkit&lt;/li&gt; &#xA; &lt;li&gt;compile programs to expressions&lt;/li&gt; &#xA; &lt;li&gt;add button to run game (?)&lt;/li&gt; &#xA; &lt;li&gt;add support for other events&lt;/li&gt; &#xA; &lt;li&gt;add support for multiple guys&lt;/li&gt; &#xA; &lt;li&gt;add support for obstacles&lt;/li&gt; &#xA; &lt;li&gt;add speech bubbles&lt;/li&gt; &#xA; &lt;li&gt;add food&lt;/li&gt; &#xA; &lt;li&gt;save and load programs&lt;/li&gt; &#xA; &lt;li&gt;add better IDE controls&lt;/li&gt; &#xA; &lt;li&gt;add better memory handling (types, limit, visualization, etc.)&lt;/li&gt; &#xA; &lt;li&gt;code should be time controlled (eg: one Expression per frame)&lt;/li&gt; &#xA; &lt;li&gt;add camera scrolling, tracking, etc.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Version 1 (done)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;OnSpawn - Move forward&lt;/li&gt; &#xA; &lt;li&gt;OnContact - Turn Randomly&lt;/li&gt; &#xA; &lt;li&gt;OnCloseToFood - Go Toward Food&lt;/li&gt; &#xA; &lt;li&gt;OnGotFood - Stop&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Version 2 (done)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Backed by GUI&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Version 3 (done)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Other objects.. can bounce off anything&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Version 4 (done)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Remove Walls.&lt;/li&gt; &#xA; &lt;li&gt;Scrolling - limited distance from dude&lt;/li&gt; &#xA; &lt;li&gt;Large World - not procedural ATM&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Notes:&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;game always running&lt;/li&gt; &#xA; &lt;li&gt;push changes to game on &#39;Run&#39;&lt;/li&gt; &#xA; &lt;li&gt;game follows guy&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

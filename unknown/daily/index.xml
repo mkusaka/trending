@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:29:35Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-02-16T01:29:57Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Vita3K/Vita3K-Android</title>
-    <updated>2023-02-15T01:29:35Z</updated>
-    <id>tag:github.com,2023-02-15:/Vita3K/Vita3K-Android</id>
-    <link href="https://github.com/Vita3K/Vita3K-Android" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Public releases and CI for the Vita3K Android app&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Daiyimo/Access-chatGPT-in-Siri</title>
+    <updated>2023-02-16T01:29:57Z</updated>
+    <id>tag:github.com,2023-02-16:/Daiyimo/Access-chatGPT-in-Siri</id>
+    <link href="https://github.com/Daiyimo/Access-chatGPT-in-Siri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KreakEmp/InterviewPrep</title>
-    <updated>2023-02-15T01:29:35Z</updated>
-    <id>tag:github.com,2023-02-15:/KreakEmp/InterviewPrep</id>
-    <link href="https://github.com/KreakEmp/InterviewPrep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources for interview preparations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>3lf/design-patterns-for-humans</title>
+    <updated>2023-02-16T01:29:57Z</updated>
+    <id>tag:github.com,2023-02-16:/3lf/design-patterns-for-humans</id>
+    <link href="https://github.com/3lf/design-patterns-for-humans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;آموزش دیزاین پترن به زبون آدمیزاد - Teaching design patterns in Persian&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>brightmart/nlp_chinese_corpus</title>
-    <updated>2023-02-15T01:29:35Z</updated>
-    <id>tag:github.com,2023-02-15:/brightmart/nlp_chinese_corpus</id>
-    <link href="https://github.com/brightmart/nlp_chinese_corpus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lyudaio/cheatsheets</title>
+    <updated>2023-02-16T01:29:57Z</updated>
+    <id>tag:github.com,2023-02-16:/lyudaio/cheatsheets</id>
+    <link href="https://github.com/lyudaio/cheatsheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of cheatsheets for various topics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

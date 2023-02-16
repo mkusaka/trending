@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:46:53Z</updated>
+  <updated>2023-02-16T01:46:17Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GuerillaHQ/vanillalist</title>
-    <updated>2023-02-15T01:46:53Z</updated>
-    <id>tag:github.com,2023-02-15:/GuerillaHQ/vanillalist</id>
-    <link href="https://github.com/GuerillaHQ/vanillalist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Handpicked Vanilla JavaScript Plugins Repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AgePartnership/oleg-brand-kit</title>
-    <updated>2023-02-15T01:46:53Z</updated>
-    <id>tag:github.com,2023-02-15:/AgePartnership/oleg-brand-kit</id>
-    <link href="https://github.com/AgePartnership/oleg-brand-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A place to store global brand information for use across various digital properties (Sass colour variables, typography etc)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mate-academy/react_todo-app-with-api</title>
+    <updated>2023-02-16T01:46:17Z</updated>
+    <id>tag:github.com,2023-02-16:/mate-academy/react_todo-app-with-api</id>
+    <link href="https://github.com/mate-academy/react_todo-app-with-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

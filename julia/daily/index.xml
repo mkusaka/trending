@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-15T01:38:38Z</updated>
+  <updated>2023-02-16T01:38:32Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jump-dev/MultiObjectiveAlgorithms.jl</title>
-    <updated>2023-02-15T01:38:38Z</updated>
-    <id>tag:github.com,2023-02-15:/jump-dev/MultiObjectiveAlgorithms.jl</id>
-    <link href="https://github.com/jump-dev/MultiObjectiveAlgorithms.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MineralsCloud/LinearElasticity.jl</title>
-    <updated>2023-02-15T01:38:38Z</updated>
-    <id>tag:github.com,2023-02-15:/MineralsCloud/LinearElasticity.jl</id>
-    <link href="https://github.com/MineralsCloud/LinearElasticity.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Calculate linear elasticity for some crystals&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/PDESystemLibrary.jl</title>
-    <updated>2023-02-15T01:38:38Z</updated>
-    <id>tag:github.com,2023-02-15:/SciML/PDESystemLibrary.jl</id>
-    <link href="https://github.com/SciML/PDESystemLibrary.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library of systems of partial differential equations, as defined with ModelingToolkit.jl in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>timholy/SymbolicLP.jl</title>
+    <updated>2023-02-16T01:38:32Z</updated>
+    <id>tag:github.com,2023-02-16:/timholy/SymbolicLP.jl</id>
+    <link href="https://github.com/timholy/SymbolicLP.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Symbolic linear programming and linear constraints&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
