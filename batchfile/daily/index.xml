@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:30:57Z</updated>
+  <updated>2023-02-17T01:31:01Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>naman2710/MyFirstProject</title>
+    <updated>2023-02-17T01:31:01Z</updated>
+    <id>tag:github.com,2023-02-17:/naman2710/MyFirstProject</id>
+    <link href="https://github.com/naman2710/MyFirstProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jobporta1/windowsRdp</title>
+    <updated>2023-02-17T01:31:01Z</updated>
+    <id>tag:github.com,2023-02-17:/jobporta1/windowsRdp</id>
+    <link href="https://github.com/jobporta1/windowsRdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:42:35Z</updated>
+  <updated>2023-02-17T01:43:45Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tnez/medaparse</title>
+    <updated>2023-02-17T01:43:45Z</updated>
+    <id>tag:github.com,2023-02-17:/tnez/medaparse</id>
+    <link href="https://github.com/tnez/medaparse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utility to extract data from generated MED-PC® data files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

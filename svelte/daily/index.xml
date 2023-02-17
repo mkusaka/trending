@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:47:25Z</updated>
+  <updated>2023-02-17T01:48:21Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>byrd-polar/fluid-earth</title>
+    <updated>2023-02-17T01:48:21Z</updated>
+    <id>tag:github.com,2023-02-17:/byrd-polar/fluid-earth</id>
+    <link href="https://github.com/byrd-polar/fluid-earth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fluid Earth is a WebGL-powered visualization of Earth&#39;s atmosphere and oceans&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>refact0r/alpine</title>
+    <updated>2023-02-17T01:48:21Z</updated>
+    <id>tag:github.com,2023-02-17:/refact0r/alpine</id>
+    <link href="https://github.com/refact0r/alpine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clean browser startpage with weather and stock market widgets.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:32:19Z</updated>
+  <updated>2023-02-17T01:32:39Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyperfiddle/electric</title>
-    <updated>2023-02-16T01:32:19Z</updated>
-    <id>tag:github.com,2023-02-16:/hyperfiddle/electric</id>
-    <link href="https://github.com/hyperfiddle/electric" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a reactive signals DSL for fullstack web UI, with compiler-managed network sync&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hyperfiddle/electric-starter-app</title>
-    <updated>2023-02-16T01:32:19Z</updated>
-    <id>tag:github.com,2023-02-16:/hyperfiddle/electric-starter-app</id>
-    <link href="https://github.com/hyperfiddle/electric-starter-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>damienjegou/renkobricks</title>
-    <updated>2023-02-16T01:32:19Z</updated>
-    <id>tag:github.com,2023-02-16:/damienjegou/renkobricks</id>
-    <link href="https://github.com/damienjegou/renkobricks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Renko bricks generator for use with Egide&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wkok/openai-clojure</title>
+    <updated>2023-02-17T01:32:39Z</updated>
+    <id>tag:github.com,2023-02-17:/wkok/openai-clojure</id>
+    <link href="https://github.com/wkok/openai-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure functions to drive the OpenAI API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

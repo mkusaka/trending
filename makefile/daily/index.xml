@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:40:05Z</updated>
+  <updated>2023-02-17T01:41:34Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ministryofjustice/template-documentation-site</title>
-    <updated>2023-02-16T01:40:05Z</updated>
-    <id>tag:github.com,2023-02-16:/ministryofjustice/template-documentation-site</id>
-    <link href="https://github.com/ministryofjustice/template-documentation-site" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template repo. for a gov.uk tech-docs-template documentation site published via github pages&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eu-digital-identity-wallet/architecture-and-reference-framework</title>
+    <updated>2023-02-17T01:41:34Z</updated>
+    <id>tag:github.com,2023-02-17:/eu-digital-identity-wallet/architecture-and-reference-framework</id>
+    <link href="https://github.com/eu-digital-identity-wallet/architecture-and-reference-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudogu/kubectl-ces-plugin</title>
+    <updated>2023-02-17T01:41:34Z</updated>
+    <id>tag:github.com,2023-02-17:/cloudogu/kubectl-ces-plugin</id>
+    <link href="https://github.com/cloudogu/kubectl-ces-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nurdsoft/terraform</title>
+    <updated>2023-02-17T01:41:34Z</updated>
+    <id>tag:github.com,2023-02-17:/nurdsoft/terraform</id>
+    <link href="https://github.com/nurdsoft/terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

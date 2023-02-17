@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:34:15Z</updated>
+  <updated>2023-02-17T01:34:29Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>evadne/shun</title>
-    <updated>2023-02-16T01:34:15Z</updated>
-    <id>tag:github.com,2023-02-16:/evadne/shun</id>
-    <link href="https://github.com/evadne/shun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easy &amp; flexible traffic filtering with Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LivewareProblems/Orion</title>
-    <updated>2023-02-16T01:34:15Z</updated>
-    <id>tag:github.com,2023-02-16:/LivewareProblems/Orion</id>
-    <link href="https://github.com/LivewareProblems/Orion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Distributed Dynamic Profiling for the BEAM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phenixdigital/phoenix_storybook</title>
+    <updated>2023-02-17T01:34:29Z</updated>
+    <id>tag:github.com,2023-02-17:/phenixdigital/phoenix_storybook</id>
+    <link href="https://github.com/phenixdigital/phoenix_storybook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A pluggable storybook for your LiveView components.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

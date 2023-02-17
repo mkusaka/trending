@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:46:17Z</updated>
+  <updated>2023-02-17T01:47:19Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mate-academy/react_todo-app-with-api</title>
-    <updated>2023-02-16T01:46:17Z</updated>
-    <id>tag:github.com,2023-02-16:/mate-academy/react_todo-app-with-api</id>
-    <link href="https://github.com/mate-academy/react_todo-app-with-api" rel="alternate"></link>
+    <title>DACSS/Social_Networks_Spring_2023</title>
+    <updated>2023-02-17T01:47:19Z</updated>
+    <id>tag:github.com,2023-02-17:/DACSS/Social_Networks_Spring_2023</id>
+    <link href="https://github.com/DACSS/Social_Networks_Spring_2023" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:49:08Z</updated>
+  <updated>2023-02-17T01:50:02Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>moutard/configs</title>
+    <updated>2023-02-17T01:50:02Z</updated>
+    <id>tag:github.com,2023-02-17:/moutard/configs</id>
+    <link href="https://github.com/moutard/configs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Used to save my personnal configs and profiles like my vimrc or my awesome wm rc.lua&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elentok/plaintasks.vim</title>
+    <updated>2023-02-17T01:50:02Z</updated>
+    <id>tag:github.com,2023-02-17:/elentok/plaintasks.vim</id>
+    <link href="https://github.com/elentok/plaintasks.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of Sublime&#39;s PlainTasks plugin for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sdemers/home_config</title>
+    <updated>2023-02-17T01:50:02Z</updated>
+    <id>tag:github.com,2023-02-17:/sdemers/home_config</id>
+    <link href="https://github.com/sdemers/home_config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuration and scripts for Unix shell&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

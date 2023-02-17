@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:48:57Z</updated>
+  <updated>2023-02-17T01:49:48Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Diego-Ivan/pdf-metadata-editor</title>
+    <updated>2023-02-17T01:49:48Z</updated>
+    <id>tag:github.com,2023-02-17:/Diego-Ivan/pdf-metadata-editor</id>
+    <link href="https://github.com/Diego-Ivan/pdf-metadata-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A PDF metadata editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

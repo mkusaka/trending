@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:31:57Z</updated>
+  <updated>2023-02-17T01:32:21Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shramee/starklings-cairo1</title>
-    <updated>2023-02-16T01:31:57Z</updated>
-    <id>tag:github.com,2023-02-16:/shramee/starklings-cairo1</id>
-    <link href="https://github.com/shramee/starklings-cairo1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An interactive tutorial to get you up and running with Cairo v1 and Starknet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

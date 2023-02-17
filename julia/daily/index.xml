@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:38:32Z</updated>
+  <updated>2023-02-17T01:40:00Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>timholy/SymbolicLP.jl</title>
-    <updated>2023-02-16T01:38:32Z</updated>
-    <id>tag:github.com,2023-02-16:/timholy/SymbolicLP.jl</id>
-    <link href="https://github.com/timholy/SymbolicLP.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Symbolic linear programming and linear constraints&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

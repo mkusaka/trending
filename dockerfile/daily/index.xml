@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-16T01:33:41Z</updated>
+  <updated>2023-02-17T01:33:59Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ectagithub/Jenkins_lab</title>
+    <updated>2023-02-17T01:33:59Z</updated>
+    <id>tag:github.com,2023-02-17:/ectagithub/Jenkins_lab</id>
+    <link href="https://github.com/ectagithub/Jenkins_lab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nateraw/spaces-docker-templates</title>
+    <updated>2023-02-17T01:33:59Z</updated>
+    <id>tag:github.com,2023-02-17:/nateraw/spaces-docker-templates</id>
+    <link href="https://github.com/nateraw/spaces-docker-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀🤗 A collection of templates for Hugging Face Spaces&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;h1&gt; Spaces Templates &lt;/h1&gt; &#xA; &lt;a src=&#34;https://img.shields.io/github/stars/nateraw/spaces-docker-templates?style=social&#34; href=&#34;https://github.com/nateraw/spaces-docker-templates&#34; target=&#34;_blank&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/stars/nateraw/spaces-docker-templates?style=social&#34; alt=&#34;GitHub Stars&#34;&gt; &lt;/a&gt; &#xA; &lt;a src=&#34;https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue&#34; href=&#34;https://hf.co/spaces/DockerTemplates/docker-templates&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue&#34; alt=&#34;Open in Spaces&#34;&gt; &lt;/a&gt; &#xA; &lt;br&gt; &#xA; &lt;br&gt; &#xA; &lt;h4&gt;🚀 A collection of templates for &lt;a href=&#34;https://huggingface.co/spaces&#34;&gt;Hugging Face Spaces&lt;/a&gt;&lt;/h4&gt; &#xA; &lt;br&gt; The templates in this repo are designed to help you get started with Docker Spaces. Duplicate them to get started with your own project. 🤗 &#xA;&lt;/div&gt;</summary>
+  </entry>
 </feed>
