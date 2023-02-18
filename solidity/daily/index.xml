@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-17T01:47:58Z</updated>
+  <updated>2023-02-18T01:44:50Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Vectorized/multicaller</title>
-    <updated>2023-02-17T01:47:58Z</updated>
-    <id>tag:github.com,2023-02-17:/Vectorized/multicaller</id>
-    <link href="https://github.com/Vectorized/multicaller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Efficient multicaller contract&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mektigboy/huffing-ethernaut</title>
-    <updated>2023-02-17T01:47:58Z</updated>
-    <id>tag:github.com,2023-02-17:/mektigboy/huffing-ethernaut</id>
-    <link href="https://github.com/mektigboy/huffing-ethernaut" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ethernaut, but in Huff&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smartcontractkit/functions-hardhat-starter-kit</title>
+    <updated>2023-02-18T01:44:50Z</updated>
+    <id>tag:github.com,2023-02-18:/smartcontractkit/functions-hardhat-starter-kit</id>
+    <link href="https://github.com/smartcontractkit/functions-hardhat-starter-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

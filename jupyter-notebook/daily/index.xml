@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-17T01:40:04Z</updated>
+  <updated>2023-02-18T01:37:48Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>google/automl</title>
-    <updated>2023-02-17T01:40:04Z</updated>
-    <id>tag:github.com,2023-02-17:/google/automl</id>
-    <link href="https://github.com/google/automl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google Brain AutoML&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Brain AutoML&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains a list of AutoML related models and libraries.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>yuanzhoulvpi2017/zero_nlp</title>
-    <updated>2023-02-17T01:40:04Z</updated>
-    <id>tag:github.com,2023-02-17:/yuanzhoulvpi2017/zero_nlp</id>
-    <link href="https://github.com/yuanzhoulvpi2017/zero_nlp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;中文nlp应用(数据、模型、训练、推理)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;zero to nlp&lt;/h1&gt; &#xA;&lt;h2&gt;特点&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;注重中文的nlp建设&lt;/li&gt; &#xA; &lt;li&gt;基于transformers库&lt;/li&gt; &#xA; &lt;li&gt;每一个项目，都具有数据、模型训练、部署等模块&lt;/li&gt; &#xA; &lt;li&gt;提供公开的数据&lt;/li&gt; &#xA; &lt;li&gt;开箱即用，保证代码都是可跑通，替换数据即可训练出自己的模型&lt;/li&gt; &#xA; &lt;li&gt;transformers库的源码级介绍&lt;/li&gt; &#xA; &lt;li&gt;基于pytorch，不用tensorflow&lt;/li&gt; &#xA; &lt;li&gt;模型方面，只介绍大模型，不再介绍传统文本模型&lt;/li&gt; &#xA; &lt;li&gt;每一个项目，都会给出相关的坑和注意事项&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;目录&lt;/h2&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;中文名称&lt;/th&gt; &#xA;   &lt;th&gt;文件夹名称&lt;/th&gt; &#xA;   &lt;th&gt;数据&lt;/th&gt; &#xA;   &lt;th&gt;数据清洗&lt;/th&gt; &#xA;   &lt;th&gt;大模型&lt;/th&gt; &#xA;   &lt;th&gt;模型部署&lt;/th&gt; &#xA;   &lt;th&gt;图解&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;中文文本分类&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/chinese_classifier&#34;&gt;chinese_classifier&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;   &lt;td&gt;☑️&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;中文gpt2&lt;/td&gt; &#xA;   &lt;td&gt;&lt;a href=&#34;https://github.com/yuanzhoulvpi2017/zero_nlp/tree/main/chinese_gpt2&#34;&gt;chinese_gpt2&lt;/a&gt;&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;   &lt;td&gt;☑️&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h2&gt;数据流程图解&lt;/h2&gt; &#xA;&lt;p&gt;我一直觉得，数据流程通过图解的形式表达出来，其实是最清楚的，因此我都会尽可能的把每一个任务的都图解出来。&lt;/p&gt; &#xA;&lt;h3&gt;文本分类数据图解&lt;/h3&gt; &#xA;&lt;img src=&#34;https://github.com/yuanzhoulvpi2017/zero_nlp/raw/main/images/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB.003.png&#34;&gt; &#xA;&lt;h3&gt;中文gpt2&lt;/h3&gt; &#xA;&lt;img src=&#34;https://github.com/yuanzhoulvpi2017/zero_nlp/raw/main/images/chinesegpt2_bot.png&#34;&gt;</summary>
-  </entry>
 </feed>

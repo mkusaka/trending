@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-17T01:32:39Z</updated>
+  <updated>2023-02-18T01:31:56Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wkok/openai-clojure</title>
-    <updated>2023-02-17T01:32:39Z</updated>
-    <id>tag:github.com,2023-02-17:/wkok/openai-clojure</id>
-    <link href="https://github.com/wkok/openai-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure functions to drive the OpenAI API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bradlucas/quote-downloader</title>
+    <updated>2023-02-18T01:31:56Z</updated>
+    <id>tag:github.com,2023-02-18:/bradlucas/quote-downloader</id>
+    <link href="https://github.com/bradlucas/quote-downloader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yahoo quote downloader in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
