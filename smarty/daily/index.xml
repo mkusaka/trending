@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-18T01:44:45Z</updated>
+  <updated>2023-02-19T01:44:20Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>camptocamp/charts-gs</title>
+    <updated>2023-02-19T01:44:20Z</updated>
+    <id>tag:github.com,2023-02-19:/camptocamp/charts-gs</id>
+    <link href="https://github.com/camptocamp/charts-gs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for the geoSpatial department&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

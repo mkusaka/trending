@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-18T01:35:13Z</updated>
+  <updated>2023-02-19T01:35:49Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tjtolon/tokiobot</title>
-    <updated>2023-02-18T01:35:13Z</updated>
-    <id>tag:github.com,2023-02-18:/tjtolon/tokiobot</id>
-    <link href="https://github.com/tjtolon/tokiobot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IRC bot that tells the weather of Tokyo in Finnish&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Tokiobot speaks Finnish.&lt;/p&gt; &#xA;&lt;p&gt;I created this for two reasons:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;I wanted to learn Haskell&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;I needed a easy way to get weather information while using IRC as I hate the Japanese weather website.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
-  <entry>
-    <title>oscar2d2/learnyouaahaskellex</title>
-    <updated>2023-02-18T01:35:13Z</updated>
-    <id>tag:github.com,2023-02-18:/oscar2d2/learnyouaahaskellex</id>
-    <link href="https://github.com/oscar2d2/learnyouaahaskellex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nurpax/snap-login-form-example</title>
-    <updated>2023-02-18T01:35:13Z</updated>
-    <id>tag:github.com,2023-02-18:/nurpax/snap-login-form-example</id>
-    <link href="https://github.com/nurpax/snap-login-form-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple login form example with snap-auth&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NOTE&lt;/h1&gt; &#xA;&lt;p&gt;This is project is here just for history. The bulk of this code got merged folded into Snap&#39;s default project template. So use &#34;snap init&#34; to get the code and work from there.&lt;/p&gt; &#xA;&lt;p&gt;...&lt;/p&gt; &#xA;&lt;h1&gt;snap-login-form-example&lt;/h1&gt; &#xA;&lt;p&gt;Simple login form example with Snap&#39;s Auth snaplet.&lt;/p&gt; &#xA;&lt;p&gt;This sample is meant to be minimally dependent on other libraries in order to better demonstrate basic Snap features.&lt;/p&gt; &#xA;&lt;h2&gt;Instructions&lt;/h2&gt; &#xA;&lt;p&gt;Build as usual with cabal (I&#39;ve tested with cabal-dev).&lt;/p&gt; &#xA;&lt;p&gt;Run it.&lt;/p&gt; &#xA;&lt;p&gt;Navigate to &lt;a href=&#34;http://localhost:8080&#34;&gt;http://localhost:8080&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;You&#39;re prompted with a login form. By default your app doesn&#39;t have any registered users. Click on the &#34;Create a new user&#34; link to create a new user. Use the form to create a new user. After user creation, login with the login information you used for creating the new user. Upon successful login, you&#39;re taken to the index page of your site.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-19T02:00:59Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DACSS/601_Spring_2023</title>
+    <updated>2023-02-19T02:00:59Z</updated>
+    <id>tag:github.com,2023-02-19:/DACSS/601_Spring_2023</id>
+    <link href="https://github.com/DACSS/601_Spring_2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mate-academy/Museum_2</title>
+    <updated>2023-02-19T02:00:59Z</updated>
+    <id>tag:github.com,2023-02-19:/mate-academy/Museum_2</id>
+    <link href="https://github.com/mate-academy/Museum_2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wowchemy/starter-hugo-portfolio-theme</title>
+    <updated>2023-02-19T02:00:59Z</updated>
+    <id>tag:github.com,2023-02-19:/wowchemy/starter-hugo-portfolio-theme</id>
+    <link href="https://github.com/wowchemy/starter-hugo-portfolio-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily create your own portfolio website with Hugo.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

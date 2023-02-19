@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-18T01:44:09Z</updated>
+  <updated>2023-02-19T01:43:48Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>solstice23/material-you-theme-netease</title>
-    <updated>2023-02-18T01:44:09Z</updated>
-    <id>tag:github.com,2023-02-18:/solstice23/material-you-theme-netease</id>
-    <link href="https://github.com/solstice23/material-you-theme-netease" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BetterNCM 主题&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EmersonHisa/components</title>
+    <updated>2023-02-19T01:43:48Z</updated>
+    <id>tag:github.com,2023-02-19:/EmersonHisa/components</id>
+    <link href="https://github.com/EmersonHisa/components" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some fancy HCJ(html,css,javascript) components for web development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-18T01:30:38Z</updated>
+  <updated>2023-02-19T01:31:09Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>brokyz/Win10_LTSC_2021_FixPacks</title>
-    <updated>2023-02-18T01:30:38Z</updated>
-    <id>tag:github.com,2023-02-18:/brokyz/Win10_LTSC_2021_FixPacks</id>
-    <link href="https://github.com/brokyz/Win10_LTSC_2021_FixPacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一键修复win10 ltsc 2021官方镜像的CPU占用问题，输入法显示问题，激活系统并添加微软应用商店。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chamod12/RDP-Downloads</title>
+    <updated>2023-02-19T01:31:09Z</updated>
+    <id>tag:github.com,2023-02-19:/chamod12/RDP-Downloads</id>
+    <link href="https://github.com/chamod12/RDP-Downloads" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RDP Download Links&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

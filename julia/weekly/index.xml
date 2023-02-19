@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-19T01:54:37Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>kdpsingh/Tidier.jl</title>
+    <updated>2023-02-19T01:54:37Z</updated>
+    <id>tag:github.com,2023-02-19:/kdpsingh/Tidier.jl</id>
+    <link href="https://github.com/kdpsingh/Tidier.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;100% Julia implementation of the R tidyverse mini-language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaNeuralGraphics/Nerf.jl</title>
+    <updated>2023-02-19T01:54:37Z</updated>
+    <id>tag:github.com,2023-02-19:/JuliaNeuralGraphics/Nerf.jl</id>
+    <link href="https://github.com/JuliaNeuralGraphics/Nerf.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaLang/www.julialang.org</title>
+    <updated>2023-02-19T01:54:37Z</updated>
+    <id>tag:github.com,2023-02-19:/JuliaLang/www.julialang.org</id>
+    <link href="https://github.com/JuliaLang/www.julialang.org" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia Project website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

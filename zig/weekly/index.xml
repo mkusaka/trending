@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-19T02:04:31Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BanchouBoo/lucky</title>
+    <updated>2023-02-19T02:04:31Z</updated>
+    <id>tag:github.com,2023-02-19:/BanchouBoo/lucky</id>
+    <link href="https://github.com/BanchouBoo/lucky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lua-configured input daemon for X&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

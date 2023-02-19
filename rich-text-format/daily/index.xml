@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-18T01:43:07Z</updated>
+  <updated>2023-02-19T01:42:44Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>j00sean/CVE-2022-44666</title>
+    <updated>2023-02-19T01:42:44Z</updated>
+    <id>tag:github.com,2023-02-19:/j00sean/CVE-2022-44666</id>
+    <link href="https://github.com/j00sean/CVE-2022-44666" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

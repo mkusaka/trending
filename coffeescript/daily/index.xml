@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-18T01:32:06Z</updated>
+  <updated>2023-02-19T01:32:39Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>node-xbmc/node-xbmc</title>
-    <updated>2023-02-18T01:32:06Z</updated>
-    <id>tag:github.com,2023-02-18:/node-xbmc/node-xbmc</id>
-    <link href="https://github.com/node-xbmc/node-xbmc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📹 XBMC/Kodi api nodejs library (javascript, coffee)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sandy98/quotes.meteor.com</title>
+    <updated>2023-02-19T01:32:39Z</updated>
+    <id>tag:github.com,2023-02-19:/sandy98/quotes.meteor.com</id>
+    <link href="https://github.com/sandy98/quotes.meteor.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yet another minimalistic C.R.U.D. example using meteor.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bloodhound/champ</title>
-    <updated>2023-02-18T01:32:06Z</updated>
-    <id>tag:github.com,2023-02-18:/bloodhound/champ</id>
-    <link href="https://github.com/bloodhound/champ" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bloodhound&#39;s happy helper. A HipChat bot powered by hubot.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rafidude/basetemp</title>
-    <updated>2023-02-18T01:32:06Z</updated>
-    <id>tag:github.com,2023-02-18:/rafidude/basetemp</id>
-    <link href="https://github.com/rafidude/basetemp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base template with minimum needed to start a node project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mirkokiefer/express-layout</title>
+    <updated>2023-02-19T01:32:39Z</updated>
+    <id>tag:github.com,2023-02-19:/mirkokiefer/express-layout</id>
+    <link href="https://github.com/mirkokiefer/express-layout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

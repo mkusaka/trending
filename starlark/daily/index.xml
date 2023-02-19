@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-18T01:45:03Z</updated>
+  <updated>2023-02-19T01:44:38Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>thii/rules_swiftlint</title>
-    <updated>2023-02-18T01:45:03Z</updated>
-    <id>tag:github.com,2023-02-18:/thii/rules_swiftlint</id>
-    <link href="https://github.com/thii/rules_swiftlint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run SwiftLint in your Bazel build efficiently.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
