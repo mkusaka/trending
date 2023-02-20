@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:30:02Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-02-20T01:29:47Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NAStool/nas-tools</title>
-    <updated>2023-02-19T01:30:02Z</updated>
-    <id>tag:github.com,2023-02-19:/NAStool/nas-tools</id>
-    <link href="https://github.com/NAStool/nas-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NAS媒体库管理工具&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ctjhoa/rust-learning</title>
+    <updated>2023-02-20T01:29:47Z</updated>
+    <id>tag:github.com,2023-02-20:/ctjhoa/rust-learning</id>
+    <link href="https://github.com/ctjhoa/rust-learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A bunch of links to blog posts, articles, videos, etc for learning Rust&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rockerBOO/awesome-neovim</title>
-    <updated>2023-02-19T01:30:02Z</updated>
-    <id>tag:github.com,2023-02-19:/rockerBOO/awesome-neovim</id>
-    <link href="https://github.com/rockerBOO/awesome-neovim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collections of awesome neovim plugins.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>howl-anderson/unlocking-the-power-of-llms</title>
+    <updated>2023-02-20T01:29:47Z</updated>
+    <id>tag:github.com,2023-02-20:/howl-anderson/unlocking-the-power-of-llms</id>
+    <link href="https://github.com/howl-anderson/unlocking-the-power-of-llms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>utsanjan/PD-Runner</title>
-    <updated>2023-02-19T01:30:02Z</updated>
-    <id>tag:github.com,2023-02-19:/utsanjan/PD-Runner</id>
-    <link href="https://github.com/utsanjan/PD-Runner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PD Runner is an unlimited trial launcher to run Parallels Desktop on your macOS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>owasp-change/owasp-change.github.io</title>
+    <updated>2023-02-20T01:29:47Z</updated>
+    <id>tag:github.com,2023-02-20:/owasp-change/owasp-change.github.io</id>
+    <link href="https://github.com/owasp-change/owasp-change.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Open Letter to the OWASP Board&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

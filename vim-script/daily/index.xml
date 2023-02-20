@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:46:12Z</updated>
+  <updated>2023-02-20T01:48:49Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gummesson/vimfiles</title>
-    <updated>2023-02-19T01:46:12Z</updated>
-    <id>tag:github.com,2023-02-19:/gummesson/vimfiles</id>
-    <link href="https://github.com/gummesson/vimfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My (g)Vim files.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>will133/vim-dirdiff</title>
-    <updated>2023-02-19T01:46:12Z</updated>
-    <id>tag:github.com,2023-02-19:/will133/vim-dirdiff</id>
-    <link href="https://github.com/will133/vim-dirdiff" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vim plugin to diff two directories&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim-scripts/jshint.vim</title>
-    <updated>2023-02-19T01:46:12Z</updated>
-    <id>tag:github.com,2023-02-19:/vim-scripts/jshint.vim</id>
-    <link href="https://github.com/vim-scripts/jshint.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A plugin that integrates JSHint with Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nielsmadan/color-me-vim</title>
+    <updated>2023-02-20T01:48:49Z</updated>
+    <id>tag:github.com,2023-02-20:/nielsmadan/color-me-vim</id>
+    <link href="https://github.com/nielsmadan/color-me-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

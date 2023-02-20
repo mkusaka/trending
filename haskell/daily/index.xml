@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:35:49Z</updated>
+  <updated>2023-02-20T01:37:03Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tweag/cooked-smart-contracts</title>
+    <updated>2023-02-20T01:37:03Z</updated>
+    <id>tag:github.com,2023-02-20:/tweag/cooked-smart-contracts</id>
+    <link href="https://github.com/tweag/cooked-smart-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart contracts for the Cardano blockchain written with Cooked-validators&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://github.com/tweag/cooked-smart-contracts&#34;&gt;Cooked smart contracts&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;Copyright Tweag I/O 2023&lt;/p&gt; &#xA;&lt;p&gt;If you want to write and test smart contracts for the &lt;a href=&#34;https://cardano.org&#34;&gt;Cardano&lt;/a&gt; blockchain using &lt;a href=&#34;https://github.com/tweag/plutus-libs&#34;&gt;Cooked-validators&lt;/a&gt;, you can look at the contracts here.&lt;/p&gt; &#xA;&lt;p&gt;You are free to copy, modify and distribute &lt;code&gt;Cooked smart contracts&lt;/code&gt; with attribution under the terms of the MIT license. See the &lt;a href=&#34;https://raw.githubusercontent.com/tweag/cooked-smart-contracts/main/LICENSE&#34;&gt;license&lt;/a&gt; file for details.&lt;/p&gt; &#xA;&lt;h2&gt;Getting started&lt;/h2&gt; &#xA;&lt;p&gt;The examples are packaged using &lt;a href=&#34;https://nixos.org&#34;&gt;Nix&lt;/a&gt; flakes. Therefore, if you have the Nix package manager, you can run the tests for the crowdfunding contract with&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-command&#34;&gt;$ cd crowdfunding&#xA;$ nix develop .#crowdfunding&#xA;$ cabal test all&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Contribute&lt;/h2&gt; &#xA;&lt;p&gt;You can report bug and ask questions on the &lt;a href=&#34;https://github.com/tweag/cooked-smart-contracts/issues&#34;&gt;issue tracker&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

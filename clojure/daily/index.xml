@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:32:29Z</updated>
+  <updated>2023-02-20T01:32:20Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>redplanetlabs/specter</title>
-    <updated>2023-02-19T01:32:29Z</updated>
-    <id>tag:github.com,2023-02-19:/redplanetlabs/specter</id>
-    <link href="https://github.com/redplanetlabs/specter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure(Script)&#39;s missing piece&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bouzuya/clj-backlog-commenter</title>
+    <updated>2023-02-20T01:32:20Z</updated>
+    <id>tag:github.com,2023-02-20:/bouzuya/clj-backlog-commenter</id>
+    <link href="https://github.com/bouzuya/clj-backlog-commenter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Backlog Commenter is command-line utility to add a comment to Backlog.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gfredericks/misquote</title>
-    <updated>2023-02-19T01:32:29Z</updated>
-    <id>tag:github.com,2023-02-19:/gfredericks/misquote</id>
-    <link href="https://github.com/gfredericks/misquote" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple unquoting in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PEZ/clojure-get-started-mini</title>
+    <updated>2023-02-20T01:32:20Z</updated>
+    <id>tag:github.com,2023-02-20:/PEZ/clojure-get-started-mini</id>
+    <link href="https://github.com/PEZ/clojure-get-started-mini" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure Get Started mini project template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

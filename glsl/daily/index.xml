@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:35:09Z</updated>
+  <updated>2023-02-20T01:36:18Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>neozhaoliang/Hyperbolic-Honeycombs</title>
-    <updated>2023-02-19T01:35:09Z</updated>
-    <id>tag:github.com,2023-02-19:/neozhaoliang/Hyperbolic-Honeycombs</id>
-    <link href="https://github.com/neozhaoliang/Hyperbolic-Honeycombs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Visualize 3d/4d hyperbolic honeycombs and sphere packings.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>toji/rosetta</title>
-    <updated>2023-02-19T01:35:09Z</updated>
-    <id>tag:github.com,2023-02-19:/toji/rosetta</id>
-    <link href="https://github.com/toji/rosetta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Comparisons of shaders across multiple APIs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

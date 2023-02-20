@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:39:42Z</updated>
+  <updated>2023-02-20T01:42:08Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mode80/nimzbot</title>
+    <updated>2023-02-20T01:42:08Z</updated>
+    <id>tag:github.com,2023-02-20:/mode80/nimzbot</id>
+    <link href="https://github.com/mode80/nimzbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a yahtzee bot written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

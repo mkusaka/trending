@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:46:21Z</updated>
+  <updated>2023-02-20T01:48:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lkw199711/smanga</title>
+    <updated>2023-02-20T01:48:59Z</updated>
+    <id>tag:github.com,2023-02-20:/lkw199711/smanga</id>
+    <link href="https://github.com/lkw199711/smanga" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple manga browser 一款docker直装的漫画浏览器&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wzc520pyfm/clover-admin-vue</title>
+    <updated>2023-02-20T01:48:59Z</updated>
+    <id>tag:github.com,2023-02-20:/wzc520pyfm/clover-admin-vue</id>
+    <link href="https://github.com/wzc520pyfm/clover-admin-vue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A admin template, use the latest technology, based on Vue3,Vite3,Typescript,Pinia,Unocss,Element-plus,pnpm [一个基于Vue3，Vite3，Typescript，Pinia，Unocss，Element-plus，pnpm，使用最新技术栈的的中后台模板]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dqzboy/DKube</title>
+    <updated>2023-02-20T01:48:59Z</updated>
+    <id>tag:github.com,2023-02-20:/dqzboy/DKube</id>
+    <link href="https://github.com/dqzboy/DKube" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a K8s cluster management platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

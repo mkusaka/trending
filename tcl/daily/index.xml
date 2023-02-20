@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:45:15Z</updated>
+  <updated>2023-02-20T01:47:45Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alinxalinx/AXU2CG-E_AXU3EG_AXU4EV-E_AXU5EV-E</title>
-    <updated>2023-02-19T01:45:15Z</updated>
-    <id>tag:github.com,2023-02-19:/alinxalinx/AXU2CG-E_AXU3EG_AXU4EV-E_AXU5EV-E</id>
-    <link href="https://github.com/alinxalinx/AXU2CG-E_AXU3EG_AXU4EV-E_AXU5EV-E" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

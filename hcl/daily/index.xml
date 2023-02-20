@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:36:02Z</updated>
+  <updated>2023-02-20T01:37:37Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>snyk-japan/snyk-iac-workshop</title>
-    <updated>2023-02-19T01:36:02Z</updated>
-    <id>tag:github.com,2023-02-19:/snyk-japan/snyk-iac-workshop</id>
-    <link href="https://github.com/snyk-japan/snyk-iac-workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trussworks/terraform-aws-ses-domain</title>
+    <updated>2023-02-20T01:37:37Z</updated>
+    <id>tag:github.com,2023-02-20:/trussworks/terraform-aws-ses-domain</id>
+    <link href="https://github.com/trussworks/terraform-aws-ses-domain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configures a domain hosted on Route53 to work with AWS Simple Email Service (SES).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LinkedInLearning/advanced-terraform-3099246</title>
+    <updated>2023-02-20T01:37:37Z</updated>
+    <id>tag:github.com,2023-02-20:/LinkedInLearning/advanced-terraform-3099246</id>
+    <link href="https://github.com/LinkedInLearning/advanced-terraform-3099246" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repo for the LinkedIn Learning course Advanced Terraform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

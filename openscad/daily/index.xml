@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenSCAD Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:40:21Z</updated>
+  <updated>2023-02-20T01:42:54Z</updated>
   <subtitle>Daily Trending of OpenSCAD in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Jana-Marie/OtterCam-s3</title>
+    <updated>2023-02-20T01:42:54Z</updated>
+    <id>tag:github.com,2023-02-20:/Jana-Marie/OtterCam-s3</id>
+    <link href="https://github.com/Jana-Marie/OtterCam-s3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source 1080p60Hz USB &amp; IP camera based on Sochip s3 and OS05A10/OS05A20 (general MIPI CSI IP camera interface).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

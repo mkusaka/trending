@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-19T01:44:47Z</updated>
+  <updated>2023-02-20T01:47:19Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AgnosticUI/agnosticui</title>
-    <updated>2023-02-19T01:44:47Z</updated>
-    <id>tag:github.com,2023-02-19:/AgnosticUI/agnosticui</id>
-    <link href="https://github.com/AgnosticUI/agnosticui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meower-media-co/Meower-Svelte</title>
+    <updated>2023-02-20T01:47:19Z</updated>
+    <id>tag:github.com,2023-02-20:/meower-media-co/Meower-Svelte</id>
+    <link href="https://github.com/meower-media-co/Meower-Svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Meower client written in Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
