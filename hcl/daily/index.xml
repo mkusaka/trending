@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-20T01:37:37Z</updated>
+  <updated>2023-02-21T01:37:35Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>trussworks/terraform-aws-ses-domain</title>
-    <updated>2023-02-20T01:37:37Z</updated>
-    <id>tag:github.com,2023-02-20:/trussworks/terraform-aws-ses-domain</id>
-    <link href="https://github.com/trussworks/terraform-aws-ses-domain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configures a domain hosted on Route53 to work with AWS Simple Email Service (SES).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vikas99341/Terraform-codes</title>
+    <updated>2023-02-21T01:37:35Z</updated>
+    <id>tag:github.com,2023-02-21:/vikas99341/Terraform-codes</id>
+    <link href="https://github.com/vikas99341/Terraform-codes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LinkedInLearning/advanced-terraform-3099246</title>
-    <updated>2023-02-20T01:37:37Z</updated>
-    <id>tag:github.com,2023-02-20:/LinkedInLearning/advanced-terraform-3099246</id>
-    <link href="https://github.com/LinkedInLearning/advanced-terraform-3099246" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a repo for the LinkedIn Learning course Advanced Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Anil2027/terraform</title>
+    <updated>2023-02-21T01:37:35Z</updated>
+    <id>tag:github.com,2023-02-21:/Anil2027/terraform</id>
+    <link href="https://github.com/Anil2027/terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/terraform-azurerm-virtual-machine</title>
+    <updated>2023-02-21T01:37:35Z</updated>
+    <id>tag:github.com,2023-02-21:/Azure/terraform-azurerm-virtual-machine</id>
+    <link href="https://github.com/Azure/terraform-azurerm-virtual-machine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Azure RM Virtual Machine Module&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

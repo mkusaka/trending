@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-20T01:29:47Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-02-21T01:29:59Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ctjhoa/rust-learning</title>
-    <updated>2023-02-20T01:29:47Z</updated>
-    <id>tag:github.com,2023-02-20:/ctjhoa/rust-learning</id>
-    <link href="https://github.com/ctjhoa/rust-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bunch of links to blog posts, articles, videos, etc for learning Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>olexale/flutter_roadmap</title>
+    <updated>2023-02-21T01:29:59Z</updated>
+    <id>tag:github.com,2023-02-21:/olexale/flutter_roadmap</id>
+    <link href="https://github.com/olexale/flutter_roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highly Subjective Roadmap to Flutter Development&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>howl-anderson/unlocking-the-power-of-llms</title>
-    <updated>2023-02-20T01:29:47Z</updated>
-    <id>tag:github.com,2023-02-20:/howl-anderson/unlocking-the-power-of-llms</id>
-    <link href="https://github.com/howl-anderson/unlocking-the-power-of-llms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ordinals-wallet/ordinals-collections</title>
+    <updated>2023-02-21T01:29:59Z</updated>
+    <id>tag:github.com,2023-02-21:/ordinals-wallet/ordinals-collections</id>
+    <link href="https://github.com/ordinals-wallet/ordinals-collections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A place for creators &amp; builders to organize ordinal collections!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>owasp-change/owasp-change.github.io</title>
-    <updated>2023-02-20T01:29:47Z</updated>
-    <id>tag:github.com,2023-02-20:/owasp-change/owasp-change.github.io</id>
-    <link href="https://github.com/owasp-change/owasp-change.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Open Letter to the OWASP Board&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gpakosz/.tmux</title>
+    <updated>2023-02-21T01:29:59Z</updated>
+    <id>tag:github.com,2023-02-21:/gpakosz/.tmux</id>
+    <link href="https://github.com/gpakosz/.tmux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🇫🇷 Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with ❤️&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-20T01:33:13Z</updated>
+  <updated>2023-02-21T01:33:26Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>matter-labs/era-bellman-cuda</title>
-    <updated>2023-02-20T01:33:13Z</updated>
-    <id>tag:github.com,2023-02-20:/matter-labs/era-bellman-cuda</id>
-    <link href="https://github.com/matter-labs/era-bellman-cuda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library implementing GPU-accelerated cryptographic functionality for the zkSync prover&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>IlyaGrebnov/libcubwt</title>
+    <updated>2023-02-21T01:33:26Z</updated>
+    <id>tag:github.com,2023-02-21:/IlyaGrebnov/libcubwt</id>
+    <link href="https://github.com/IlyaGrebnov/libcubwt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;libcubwt is a library for GPU accelerated suffix array and burrows wheeler transform construction.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

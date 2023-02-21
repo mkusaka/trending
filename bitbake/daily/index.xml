@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-20T01:31:11Z</updated>
+  <updated>2023-02-21T01:31:26Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/meta-raspberrypi-adu</title>
+    <updated>2023-02-21T01:31:26Z</updated>
+    <id>tag:github.com,2023-02-21:/Azure/meta-raspberrypi-adu</id>
+    <link href="https://github.com/Azure/meta-raspberrypi-adu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/meta-iot-hub-device-update-delta</title>
+    <updated>2023-02-21T01:31:26Z</updated>
+    <id>tag:github.com,2023-02-21:/Azure/meta-iot-hub-device-update-delta</id>
+    <link href="https://github.com/Azure/meta-iot-hub-device-update-delta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure/meta-azure-device-update</title>
+    <updated>2023-02-21T01:31:26Z</updated>
+    <id>tag:github.com,2023-02-21:/Azure/meta-azure-device-update</id>
+    <link href="https://github.com/Azure/meta-azure-device-update" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Proof-Of-Concept meta layer for Device Update for IotHub&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
