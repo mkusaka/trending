@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Janet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-21T01:38:32Z</updated>
+  <updated>2023-02-22T01:38:18Z</updated>
   <subtitle>Daily Trending of Janet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CFiggers/joule-editor</title>
-    <updated>2023-02-21T01:38:32Z</updated>
-    <id>tag:github.com,2023-02-21:/CFiggers/joule-editor</id>
-    <link href="https://github.com/CFiggers/joule-editor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple terminal-based text editor written in Janet. [WIP]&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

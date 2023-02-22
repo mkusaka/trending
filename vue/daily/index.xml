@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-21T01:50:07Z</updated>
+  <updated>2023-02-22T01:48:19Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yudaocode/yudao-ui-admin-vue3</title>
-    <updated>2023-02-21T01:50:07Z</updated>
-    <id>tag:github.com,2023-02-21:/yudaocode/yudao-ui-admin-vue3</id>
-    <link href="https://github.com/yudaocode/yudao-ui-admin-vue3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Akegarasu/stable-diffusion-inspector</title>
-    <updated>2023-02-21T01:50:07Z</updated>
-    <id>tag:github.com,2023-02-21:/Akegarasu/stable-diffusion-inspector</id>
-    <link href="https://github.com/Akegarasu/stable-diffusion-inspector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;read pnginfo in stable diffusion generated images / inspect models&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jbrooksuk/artisan.page</title>
-    <updated>2023-02-21T01:50:07Z</updated>
-    <id>tag:github.com,2023-02-21:/jbrooksuk/artisan.page</id>
-    <link href="https://github.com/jbrooksuk/artisan.page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bookmarkable, searchable cheatsheet for all of Laravel&#39;s default Artisan commands.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

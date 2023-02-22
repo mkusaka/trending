@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-21T01:37:17Z</updated>
+  <updated>2023-02-22T01:37:09Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>faylang/fay-uri</title>
+    <updated>2023-02-22T01:37:09Z</updated>
+    <id>tag:github.com,2023-02-22:/faylang/fay-uri</id>
+    <link href="https://github.com/faylang/fay-uri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Persistent FFI bindings for using jsUri in Fay&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;fay-uri&lt;/h1&gt; &#xA;&lt;p&gt;This is a thin persistent FFI layer for using &lt;a href=&#34;https://github.com/derek-watson/jsUri&#34;&gt;jsUri&lt;/a&gt; with &lt;a href=&#34;http://www.fay-lang.org&#34;&gt;Fay&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;See the source code for comments on the implementation, names are kept similar to what jsUri uses. Hopefully it&#39;s easy to understand even if you haven&#39;t used jsUri before. The argument order is changed to be more haskelly, such as always putting the Uri as the last argument and not combining setting and removal functions. Any other changes are documented in the source.&lt;/p&gt; &#xA;&lt;p&gt;Since jsUri is a small library fay-uri also serves as a good example on how to write FFI bindings in Fay.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;To use this with fay, cabal install the package which will put the source files in fay ~/.cabal/share/fay-uri-0.1.0.0/src. You can then compile with fay using&lt;/p&gt; &#xA;&lt;p&gt;in fay &amp;gt;= 0.12:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;fay --package fay-uri MyFile.hs&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;in fay &amp;lt; 0.12:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;fay --include ~/.cabal/share/fay-uri-0.1.0.0/src MyFile.hs&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Example&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;import Language.Fay.Prelude&#xA;import Language.Fay.Uri&#xA;&#xA;main :: Fay ()&#xA;main = putStrLn . toString . removePath . withProtocol &#34;https&#34; . newUri =&amp;lt;&amp;lt; currentUri&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

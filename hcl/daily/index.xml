@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-21T01:37:35Z</updated>
+  <updated>2023-02-22T01:37:26Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vikas99341/Terraform-codes</title>
-    <updated>2023-02-21T01:37:35Z</updated>
-    <id>tag:github.com,2023-02-21:/vikas99341/Terraform-codes</id>
-    <link href="https://github.com/vikas99341/Terraform-codes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Anil2027/terraform</title>
-    <updated>2023-02-21T01:37:35Z</updated>
-    <id>tag:github.com,2023-02-21:/Anil2027/terraform</id>
-    <link href="https://github.com/Anil2027/terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/terraform-azurerm-virtual-machine</title>
-    <updated>2023-02-21T01:37:35Z</updated>
-    <id>tag:github.com,2023-02-21:/Azure/terraform-azurerm-virtual-machine</id>
-    <link href="https://github.com/Azure/terraform-azurerm-virtual-machine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform Azure RM Virtual Machine Module&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stacksimplify/terraform-on-azure-with-azure-devops</title>
+    <updated>2023-02-22T01:37:26Z</updated>
+    <id>tag:github.com,2023-02-22:/stacksimplify/terraform-on-azure-with-azure-devops</id>
+    <link href="https://github.com/stacksimplify/terraform-on-azure-with-azure-devops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform on Azure with Azure IaC DevOps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

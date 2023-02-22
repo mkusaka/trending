@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-21T01:48:32Z</updated>
+  <updated>2023-02-22T01:46:50Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Lakr233/MoneyProgress</title>
+    <updated>2023-02-22T01:46:50Z</updated>
+    <id>tag:github.com,2023-02-22:/Lakr233/MoneyProgress</id>
+    <link href="https://github.com/Lakr233/MoneyProgress" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;借一个上班的进度条。&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;钱条&lt;/h1&gt; &#xA;&lt;p&gt;借一个上班的进度条，开始搬砖吧。&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://apps.apple.com/app/%E9%92%B1%E6%9D%A1-%E4%B8%8A%E7%8F%AD%E7%9A%84%E8%BF%9B%E5%BA%A6%E6%9D%A1/id1614349717&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Lakr233/MoneyProgress/main/Resources/AppStore/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg?sanitize=true&#34; alt=&#34;Download From App Store&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Lakr233/MoneyProgress/main/Resources/ClientPreview.png&#34; alt=&#34;Preview&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/Lakr233/MoneyProgress/main/Resources/MenuBarPreview.png&#34; alt=&#34;Preview&#34;&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Copyright © 2022 Lakr Aream. All Rights Reserved.&lt;/p&gt;</summary>
+  </entry>
 </feed>

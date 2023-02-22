@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JSON Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-21T01:39:32Z</updated>
+  <updated>2023-02-22T01:38:55Z</updated>
   <subtitle>Daily Trending of JSON in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Blockception/Minecraft-bedrock-json-schemas</title>
-    <updated>2023-02-21T01:39:32Z</updated>
-    <id>tag:github.com,2023-02-21:/Blockception/Minecraft-bedrock-json-schemas</id>
-    <link href="https://github.com/Blockception/Minecraft-bedrock-json-schemas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The JSON validation schema files for Minecraft bedrock&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>barrettotte/vscode-ibmi-languages</title>
-    <updated>2023-02-21T01:39:32Z</updated>
-    <id>tag:github.com,2023-02-21:/barrettotte/vscode-ibmi-languages</id>
-    <link href="https://github.com/barrettotte/vscode-ibmi-languages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Syntax highlighting for IBM i languages such as RPG, CL, DDS, MI, and RPGLE fixed/free.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
