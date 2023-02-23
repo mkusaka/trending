@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-22T01:31:31Z</updated>
+  <updated>2023-02-23T01:30:35Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>windowsdock/windowsdock.app</title>
+    <updated>2023-02-23T01:30:35Z</updated>
+    <id>tag:github.com,2023-02-23:/windowsdock/windowsdock.app</id>
+    <link href="https://github.com/windowsdock/windowsdock.app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>souqrs/souq.dev</title>
+    <updated>2023-02-23T01:30:35Z</updated>
+    <id>tag:github.com,2023-02-23:/souqrs/souq.dev</id>
+    <link href="https://github.com/souqrs/souq.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sileajs/silea.dev</title>
+    <updated>2023-02-23T01:30:35Z</updated>
+    <id>tag:github.com,2023-02-23:/sileajs/silea.dev</id>
+    <link href="https://github.com/sileajs/silea.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

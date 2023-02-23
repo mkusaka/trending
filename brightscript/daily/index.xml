@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Brightscript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-22T01:32:12Z</updated>
+  <updated>2023-02-23T01:31:17Z</updated>
   <subtitle>Daily Trending of Brightscript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>brightsign/ez-asset-pool-brs-generator</title>
-    <updated>2023-02-22T01:32:12Z</updated>
-    <id>tag:github.com,2023-02-22:/brightsign/ez-asset-pool-brs-generator</id>
-    <link href="https://github.com/brightsign/ez-asset-pool-brs-generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brightsign/BrightAuthor-Parser-Scripts</title>
-    <updated>2023-02-22T01:32:12Z</updated>
-    <id>tag:github.com,2023-02-22:/brightsign/BrightAuthor-Parser-Scripts</id>
-    <link href="https://github.com/brightsign/BrightAuthor-Parser-Scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parser scripts are attached to Live Data Feeds and can be used to manipulate data in Live Data Feed (.xml) files. In some cases, parser scripts provide the same general functionality as BrightAuthor plugins.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brightsign/BrightAuthor-Plugins</title>
-    <updated>2023-02-22T01:32:12Z</updated>
-    <id>tag:github.com,2023-02-22:/brightsign/BrightAuthor-Plugins</id>
-    <link href="https://github.com/brightsign/BrightAuthor-Plugins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for custom BrightScript plugins that extend the functionality of BrightAuthor. To retrieve a plugin from GitHub, right-click the Raw link on the plugin page heading and click Save Link As....&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-22T01:46:14Z</updated>
+  <updated>2023-02-23T01:47:48Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Aselya2507/team4-project</title>
+    <updated>2023-02-23T01:47:48Z</updated>
+    <id>tag:github.com,2023-02-23:/Aselya2507/team4-project</id>
+    <link href="https://github.com/Aselya2507/team4-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;team 4 project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hashicorp/example-nomad-pack-registry</title>
+    <updated>2023-02-23T01:47:48Z</updated>
+    <id>tag:github.com,2023-02-23:/hashicorp/example-nomad-pack-registry</id>
+    <link href="https://github.com/hashicorp/example-nomad-pack-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An example registry for Nomad Pack. Clone this repository to get started with custom packs.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-22T01:30:18Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-02-23T01:29:24Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>theepiccode/Awesome-CyberSec-Resources</title>
-    <updated>2023-02-22T01:30:18Z</updated>
-    <id>tag:github.com,2023-02-22:/theepiccode/Awesome-CyberSec-Resources</id>
-    <link href="https://github.com/theepiccode/Awesome-CyberSec-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome collection of curated Cyber Security resources(Books, Tutorials, Blogs, Podcasts, ...)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>txsun1997/MOSS</title>
+    <updated>2023-02-23T01:29:24Z</updated>
+    <id>tag:github.com,2023-02-23:/txsun1997/MOSS</id>
+    <link href="https://github.com/txsun1997/MOSS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MOSS is a conversational language model like ChatGPT.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Hannibal046/Awesome-LLM</title>
-    <updated>2023-02-22T01:30:18Z</updated>
-    <id>tag:github.com,2023-02-22:/Hannibal046/Awesome-LLM</id>
-    <link href="https://github.com/Hannibal046/Awesome-LLM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome-LLM: a curated list of Large Language Model&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eon01/awesome-chatgpt</title>
-    <updated>2023-02-22T01:30:18Z</updated>
-    <id>tag:github.com,2023-02-22:/eon01/awesome-chatgpt</id>
-    <link href="https://github.com/eon01/awesome-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>osammy820/Software_Engineering_Level_300</title>
+    <updated>2023-02-23T01:29:24Z</updated>
+    <id>tag:github.com,2023-02-23:/osammy820/Software_Engineering_Level_300</id>
+    <link href="https://github.com/osammy820/Software_Engineering_Level_300" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

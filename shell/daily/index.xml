@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-22T01:45:36Z</updated>
+  <updated>2023-02-23T01:47:17Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>QikaiXu/GLaDOS-checkin</title>
-    <updated>2023-02-22T01:45:36Z</updated>
-    <id>tag:github.com,2023-02-22:/QikaiXu/GLaDOS-checkin</id>
-    <link href="https://github.com/QikaiXu/GLaDOS-checkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GLaDOS-checkin，通过 github action 进行自动签到，每天延时一天，签到一定次数后奖励会变少。&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GLaDOS-checkin&lt;/h1&gt; &#xA;&lt;p&gt;一点小羊毛。&lt;strong&gt;好哥哥们顺手点个 star 吧。&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;通过 github action 来实现自动签到，每天签到可以延时一天。&lt;/p&gt; &#xA;&lt;p&gt;但是当签到一定次数后，将会返回 &lt;code&gt;Checkin! Get 0 day(Your lucky chance is 33%), try next time.&lt;/code&gt;，大概意思就是 1/3 的几率获得 1 天的奖励。&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/glados-network/GLaDOS&#34;&gt;GLaDOS 官方 github&lt;/a&gt;，&lt;a href=&#34;https://glados.rocks/&#34;&gt;GLaDOS 官网&lt;/a&gt;。&lt;/p&gt; &#xA;&lt;p&gt;如果还没有注册的话，可以去&lt;a href=&#34;https://glados.rocks/register&#34;&gt;这里&lt;/a&gt;注册，然后填写邀请码：&lt;code&gt;0HCLD-0XA70-YBI10-Z6836&lt;/code&gt;。双方都可以获得奖励天数哦。&lt;/p&gt; &#xA;&lt;h2&gt;步骤&lt;/h2&gt; &#xA;&lt;h3&gt;1 fork 这个仓库&lt;/h3&gt; &#xA;&lt;p&gt;点击右上角的 fork。&lt;/p&gt; &#xA;&lt;h3&gt;2 获取 cookie&lt;/h3&gt; &#xA;&lt;p&gt;在 &lt;a href=&#34;https://glados.rocks/console/checkin&#34;&gt;GLaDOS&lt;/a&gt; 的网页上按 F12，进行请求，查看请求的 cookie。&lt;/p&gt; &#xA;&lt;h3&gt;3 设置 cookie&lt;/h3&gt; &#xA;&lt;p&gt;在 fork 后&lt;strong&gt;自己的&lt;/strong&gt;仓库中依次点击 &lt;code&gt;Settings&lt;/code&gt; - &lt;code&gt;Secrets&lt;/code&gt; - &lt;code&gt;New repository secret&lt;/code&gt;，如下图所示：&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/QikaiXu/GLaDOS-checkin/main/README.assets/image-20210111220035535.png&#34; alt=&#34;image-20210111220035535&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;然后添加一个名为 &lt;code&gt;COOKIE&lt;/code&gt; 的变量，内容为获取到的 cookie。&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;COOKIE&lt;/code&gt; 示例：&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;__cfduid=d526a2a21******c5521611332007; _ga=GA1.2.101***3158.1611332010; _gid=GA1.2.11***23.1611332010; koa:sess=eyJ1c2VyS******fZXhwaXJlIjoxNjM3MjU0NjEzMTEyLCJfbWF4QWd****yMDAwMDAwMH0=; koa:sess.sig=m6KAoBnv1s***DldbtvNw1v8; _gat_gtag_UA_10***600_2=1&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;4 运行&lt;/h3&gt; &#xA;&lt;p&gt;随便发起一个 push 请求，可以修改一下 &lt;code&gt;README.md&lt;/code&gt;，或者自己给自己点个 star，就可以开始。之后就会每隔 6 小时进行一次签到（因为有时候签到会失败，好像是服务器不太好，就设置一下每小时签到一次保证成功吧）。&lt;/p&gt; &#xA;&lt;p&gt;注意，在官方文档中有这么一段：&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;To prevent unnecessary workflow runs, scheduled workflows may be disabled automatically. When a public repository is forked, scheduled workflows are disabled by default. In a public repository, scheduled workflows are automatically disabled when no repository activity has occurred in 60 days.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;也就是说，&lt;strong&gt;定时执行的任务需要每隔 60 天激活一次&lt;/strong&gt;。&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ixinzhi/xuanxue2x</title>
-    <updated>2023-02-22T01:45:36Z</updated>
-    <id>tag:github.com,2023-02-22:/ixinzhi/xuanxue2x</id>
-    <link href="https://github.com/ixinzhi/xuanxue2x" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚 玄学资料库（11~20）&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;span&gt;📚&lt;/span&gt; 玄学资料库（11~20）&lt;/h1&gt;</summary>
-  </entry>
 </feed>

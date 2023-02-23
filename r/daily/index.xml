@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-22T01:43:55Z</updated>
+  <updated>2023-02-23T01:45:20Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sjb4243/SRP</title>
+    <updated>2023-02-23T01:45:20Z</updated>
+    <id>tag:github.com,2023-02-23:/Sjb4243/SRP</id>
+    <link href="https://github.com/Sjb4243/SRP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SRP main repo&lt;/h1&gt; &#xA;&lt;p&gt;Contributors:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://contrib.rocks/image?repo=Sjb4243/SRP&#34; alt=&#34;GitHub Contributors Image&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

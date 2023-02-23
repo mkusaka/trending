@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-22T01:35:11Z</updated>
+  <updated>2023-02-23T01:34:37Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Allyedge/allydb</title>
+    <updated>2023-02-23T01:34:37Z</updated>
+    <id>tag:github.com,2023-02-23:/Allyedge/allydb</id>
+    <link href="https://github.com/Allyedge/allydb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An in-memory database similar to Redis, built using Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zachallaun/mneme</title>
+    <updated>2023-02-23T01:34:37Z</updated>
+    <id>tag:github.com,2023-02-23:/zachallaun/mneme</id>
+    <link href="https://github.com/zachallaun/mneme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Snapshot testing for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jellyfish-dev/membrane_webrtc_plugin</title>
+    <updated>2023-02-23T01:34:37Z</updated>
+    <id>tag:github.com,2023-02-23:/jellyfish-dev/membrane_webrtc_plugin</id>
+    <link href="https://github.com/jellyfish-dev/membrane_webrtc_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
