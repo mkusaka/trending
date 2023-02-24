@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-23T01:49:44Z</updated>
+  <updated>2023-02-24T01:47:15Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chrisbra/Recover.vim</title>
-    <updated>2023-02-23T01:49:44Z</updated>
-    <id>tag:github.com,2023-02-23:/chrisbra/Recover.vim</id>
-    <link href="https://github.com/chrisbra/Recover.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Plugin to show a diff, whenever recovering a buffer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FrenzyExists/aquarium-vim</title>
-    <updated>2023-02-23T01:49:44Z</updated>
-    <id>tag:github.com,2023-02-23:/FrenzyExists/aquarium-vim</id>
-    <link href="https://github.com/FrenzyExists/aquarium-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌊 Aquarium, a simple vibrant dark theme for vim 🗒&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>maxzernov/.vim_workspace</title>
+    <updated>2023-02-24T01:47:15Z</updated>
+    <id>tag:github.com,2023-02-24:/maxzernov/.vim_workspace</id>
+    <link href="https://github.com/maxzernov/.vim_workspace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains my .vimrc file for clonning on diffrent computers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

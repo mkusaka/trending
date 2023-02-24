@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-23T01:32:47Z</updated>
+  <updated>2023-02-24T01:32:34Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>scryptmouse/weekly-schedule</title>
-    <updated>2023-02-23T01:32:47Z</updated>
-    <id>tag:github.com,2023-02-23:/scryptmouse/weekly-schedule</id>
-    <link href="https://github.com/scryptmouse/weekly-schedule" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple weekly schedule library for JS.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>classdojo/bindable-schema</title>
+    <updated>2023-02-24T01:32:34Z</updated>
+    <id>tag:github.com,2023-02-24:/classdojo/bindable-schema</id>
+    <link href="https://github.com/classdojo/bindable-schema" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;schema for bindable objects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>classdojo/mannequin.js</title>
+    <updated>2023-02-24T01:32:34Z</updated>
+    <id>tag:github.com,2023-02-24:/classdojo/mannequin.js</id>
+    <link href="https://github.com/classdojo/mannequin.js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;model / schema library for javascript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jacobbubu/zmq_reqres</title>
+    <updated>2023-02-24T01:32:34Z</updated>
+    <id>tag:github.com,2023-02-24:/jacobbubu/zmq_reqres</id>
+    <link href="https://github.com/jacobbubu/zmq_reqres" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CoffeeScript implementation of zmq request/response model&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-23T01:30:39Z</updated>
+  <updated>2023-02-24T01:30:41Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rohit89/base_os</title>
-    <updated>2023-02-23T01:30:39Z</updated>
-    <id>tag:github.com,2023-02-23:/rohit89/base_os</id>
-    <link href="https://github.com/rohit89/base_os" rel="alternate"></link>
+    <title>itkimura/Corewar</title>
+    <updated>2023-02-24T01:30:41Z</updated>
+    <id>tag:github.com,2023-02-24:/itkimura/Corewar</id>
+    <link href="https://github.com/itkimura/Corewar" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lupyuen/pinephone-emulator</title>
-    <updated>2023-02-23T01:30:39Z</updated>
-    <id>tag:github.com,2023-02-23:/lupyuen/pinephone-emulator</id>
-    <link href="https://github.com/lupyuen/pinephone-emulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Emulate PinePhone with Unicorn Emulator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-23T01:37:21Z</updated>
+  <updated>2023-02-24T01:36:35Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pigworker/LEOG</title>
-    <updated>2023-02-23T01:37:21Z</updated>
-    <id>tag:github.com,2023-02-23:/pigworker/LEOG</id>
-    <link href="https://github.com/pigworker/LEOG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;being an implementation of the calculus of constructions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LEOG&lt;/h1&gt; &#xA;&lt;p&gt;being an implementation of the calculus of constructions&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>mbrock/yggdrasil</title>
-    <updated>2023-02-23T01:37:21Z</updated>
-    <id>tag:github.com,2023-02-23:/mbrock/yggdrasil</id>
-    <link href="https://github.com/mbrock/yggdrasil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Real-time nested chat&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>imeckler/CalParse</title>
-    <updated>2023-02-23T01:37:21Z</updated>
-    <id>tag:github.com,2023-02-23:/imeckler/CalParse</id>
-    <link href="https://github.com/imeckler/CalParse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;English language parsing for describing calendar events&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hallliu/sliding-puzzle</title>
+    <updated>2023-02-24T01:36:35Z</updated>
+    <id>tag:github.com,2023-02-24:/hallliu/sliding-puzzle</id>
+    <link href="https://github.com/hallliu/sliding-puzzle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;15 piece sliding puzzle solver in Haskell. Somewhat arcane due to the fact that it&#39;s written in Haskell.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sliding-puzzle&lt;/h1&gt; &#xA;&lt;p&gt;15 piece sliding puzzle solver in Haskell. Somewhat arcane due to the fact that it&#39;s written in Haskell.&lt;/p&gt;</summary>
   </entry>
 </feed>

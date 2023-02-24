@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-23T01:29:24Z</updated>
+  <updated>2023-02-24T01:29:45Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>txsun1997/MOSS</title>
-    <updated>2023-02-23T01:29:24Z</updated>
-    <id>tag:github.com,2023-02-23:/txsun1997/MOSS</id>
-    <link href="https://github.com/txsun1997/MOSS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MOSS is a conversational language model like ChatGPT.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>krol3/container-security-checklist</title>
+    <updated>2023-02-24T01:29:45Z</updated>
+    <id>tag:github.com,2023-02-24:/krol3/container-security-checklist</id>
+    <link href="https://github.com/krol3/container-security-checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Checklist for container security - devsecops practices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>osammy820/Software_Engineering_Level_300</title>
-    <updated>2023-02-23T01:29:24Z</updated>
-    <id>tag:github.com,2023-02-23:/osammy820/Software_Engineering_Level_300</id>
-    <link href="https://github.com/osammy820/Software_Engineering_Level_300" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>krizzsk/HackersCave4StaticAndroidSec</title>
+    <updated>2023-02-24T01:29:45Z</updated>
+    <id>tag:github.com,2023-02-24:/krizzsk/HackersCave4StaticAndroidSec</id>
+    <link href="https://github.com/krizzsk/HackersCave4StaticAndroidSec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HackerNews/API</title>
+    <updated>2023-02-24T01:29:45Z</updated>
+    <id>tag:github.com,2023-02-24:/HackerNews/API</id>
+    <link href="https://github.com/HackerNews/API" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation and Samples for the Official HN API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

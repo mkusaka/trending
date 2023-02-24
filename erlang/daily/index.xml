@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-23T01:35:11Z</updated>
+  <updated>2023-02-24T01:35:05Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jcomellas/getopt</title>
-    <updated>2023-02-23T01:35:11Z</updated>
-    <id>tag:github.com,2023-02-23:/jcomellas/getopt</id>
-    <link href="https://github.com/jcomellas/getopt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Erlang module to parse command line arguments using the GNU getopt syntax&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stritzinger/opcua</title>
+    <updated>2023-02-24T01:35:05Z</updated>
+    <id>tag:github.com,2023-02-24:/stritzinger/opcua</id>
+    <link href="https://github.com/stritzinger/opcua" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Native Erlang implementation of OPCUA&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
