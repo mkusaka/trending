@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:34:36Z</updated>
+  <updated>2023-02-25T01:36:03Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>neodgm/neodgm-pro</title>
-    <updated>2023-02-24T01:34:36Z</updated>
-    <id>tag:github.com,2023-02-24:/neodgm/neodgm-pro</id>
-    <link href="https://github.com/neodgm/neodgm-pro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proportional Korean TrueType font based on NeoDunggeunmo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danschultzer/test_server</title>
+    <updated>2023-02-25T01:36:03Z</updated>
+    <id>tag:github.com,2023-02-25:/danschultzer/test_server</id>
+    <link href="https://github.com/danschultzer/test_server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;No fuzz ExUnit test server to mock third party services&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

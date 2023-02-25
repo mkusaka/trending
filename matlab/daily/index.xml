@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:40:02Z</updated>
+  <updated>2023-02-25T01:41:11Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>labsyspharm/lymphonet_2023</title>
-    <updated>2023-02-24T01:40:02Z</updated>
-    <id>tag:github.com,2023-02-24:/labsyspharm/lymphonet_2023</id>
-    <link href="https://github.com/labsyspharm/lymphonet_2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lymphocyte networks are dynamic cellular communities in the immunoregulatory landscape of lung adenocarcinoma&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>KevinCalderon/DistribuidosPrueba</title>
-    <updated>2023-02-24T01:40:02Z</updated>
-    <id>tag:github.com,2023-02-24:/KevinCalderon/DistribuidosPrueba</id>
-    <link href="https://github.com/KevinCalderon/DistribuidosPrueba" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>captbaritone/webamp</title>
+    <updated>2023-02-25T01:41:11Z</updated>
+    <id>tag:github.com,2023-02-25:/captbaritone/webamp</id>
+    <link href="https://github.com/captbaritone/webamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Winamp 2 reimplemented for the browser&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

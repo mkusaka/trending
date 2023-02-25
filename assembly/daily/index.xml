@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:30:41Z</updated>
+  <updated>2023-02-25T01:32:43Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>itkimura/Corewar</title>
-    <updated>2023-02-24T01:30:41Z</updated>
-    <id>tag:github.com,2023-02-24:/itkimura/Corewar</id>
-    <link href="https://github.com/itkimura/Corewar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MichalStrehovsky/sizegame</title>
+    <updated>2023-02-25T01:32:43Z</updated>
+    <id>tag:github.com,2023-02-25:/MichalStrehovsky/sizegame</id>
+    <link href="https://github.com/MichalStrehovsky/sizegame" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Compare binary sizes of canonical Hello World in different languages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Z80-Retro/2063-Z80-cpm</title>
+    <updated>2023-02-25T01:32:43Z</updated>
+    <id>tag:github.com,2023-02-25:/Z80-Retro/2063-Z80-cpm</id>
+    <link href="https://github.com/Z80-Retro/2063-Z80-cpm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A flash boot-loader and cp/m 2.2 BIOS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

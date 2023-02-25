@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:34:44Z</updated>
+  <updated>2023-02-25T01:36:08Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>davexunit/.emacs.d</title>
+    <updated>2023-02-25T01:36:08Z</updated>
+    <id>tag:github.com,2023-02-25:/davexunit/.emacs.d</id>
+    <link href="https://github.com/davexunit/.emacs.d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My emacs configuration&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Dave&#39;s Emacs Configuration&lt;/p&gt; &lt;p&gt;This repository contains all of my customizations that I have been assimilating so that I can easily keep my home desktop, laptop, work desktop, etc. Emacs environments the same.&lt;/p&gt; &lt;p&gt;Take a look around and you might find some things that you want to copy. :)&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

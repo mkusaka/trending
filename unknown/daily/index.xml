@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:29:45Z</updated>
+  <updated>2023-02-25T01:31:43Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krol3/container-security-checklist</title>
-    <updated>2023-02-24T01:29:45Z</updated>
-    <id>tag:github.com,2023-02-24:/krol3/container-security-checklist</id>
-    <link href="https://github.com/krol3/container-security-checklist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Checklist for container security - devsecops practices&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ann-afame/DEVOPS-WORLD</title>
+    <updated>2023-02-25T01:31:43Z</updated>
+    <id>tag:github.com,2023-02-25:/ann-afame/DEVOPS-WORLD</id>
+    <link href="https://github.com/ann-afame/DEVOPS-WORLD" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>krizzsk/HackersCave4StaticAndroidSec</title>
-    <updated>2023-02-24T01:29:45Z</updated>
-    <id>tag:github.com,2023-02-24:/krizzsk/HackersCave4StaticAndroidSec</id>
-    <link href="https://github.com/krizzsk/HackersCave4StaticAndroidSec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A comprehensive resource for Android static analysis and vulnerability assessment. Tutorials, tools, and resources for identifying and mitigating security vulnerabilities in Android applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KKGo1999/Stable-diffusion-person</title>
+    <updated>2023-02-25T01:31:43Z</updated>
+    <id>tag:github.com,2023-02-25:/KKGo1999/Stable-diffusion-person</id>
+    <link href="https://github.com/KKGo1999/Stable-diffusion-person" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;由基于Stable-diffusion的Chilloutmix模型生成高清真实的人像&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HackerNews/API</title>
-    <updated>2023-02-24T01:29:45Z</updated>
-    <id>tag:github.com,2023-02-24:/HackerNews/API</id>
-    <link href="https://github.com/HackerNews/API" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation and Samples for the Official HN API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>safak/youtube23</title>
+    <updated>2023-02-25T01:31:43Z</updated>
+    <id>tag:github.com,2023-02-25:/safak/youtube23</id>
+    <link href="https://github.com/safak/youtube23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lama Dev Season 3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

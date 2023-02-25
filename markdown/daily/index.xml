@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:39:54Z</updated>
+  <updated>2023-02-25T01:41:06Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seanpm2001/Anime_Studio_Docs</title>
+    <updated>2023-02-25T01:41:06Z</updated>
+    <id>tag:github.com,2023-02-25:/seanpm2001/Anime_Studio_Docs</id>
+    <link href="https://github.com/seanpm2001/Anime_Studio_Docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👁️‍🗨️️🏯️📖️ The documentation source repository for Anime Studio&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Clifftech123/JavaScript-for-beginners</title>
+    <updated>2023-02-25T01:41:06Z</updated>
+    <id>tag:github.com,2023-02-25:/Clifftech123/JavaScript-for-beginners</id>
+    <link href="https://github.com/Clifftech123/JavaScript-for-beginners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository covers a range of JavaScript concepts, starting from the basics and progressing to more advanced topics. It offers guidance and advice to help you improve your understanding and skills in working with JavaScript.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

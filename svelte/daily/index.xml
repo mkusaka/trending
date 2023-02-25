@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:45:50Z</updated>
+  <updated>2023-02-25T01:47:43Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>midudev/remove-bg-cloudinary-hackathon</title>
-    <updated>2023-02-24T01:45:50Z</updated>
-    <id>tag:github.com,2023-02-24:/midudev/remove-bg-cloudinary-hackathon</id>
-    <link href="https://github.com/midudev/remove-bg-cloudinary-hackathon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elimina el fondo de una imagen con Cloudinary&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>keerthivasansa/animos</title>
+    <updated>2023-02-25T01:47:43Z</updated>
+    <id>tag:github.com,2023-02-25:/keerthivasansa/animos</id>
+    <link href="https://github.com/keerthivasansa/animos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Animos - Clean and minimal Anime-streaming desktop application without any ads.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xmlking/svelte-starter-kit</title>
+    <updated>2023-02-25T01:47:43Z</updated>
+    <id>tag:github.com,2023-02-25:/xmlking/svelte-starter-kit</id>
+    <link href="https://github.com/xmlking/svelte-starter-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SvelteKit Starter Template&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

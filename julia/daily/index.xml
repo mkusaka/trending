@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:38:33Z</updated>
+  <updated>2023-02-25T01:39:47Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chengchingwen/Transformers.jl</title>
-    <updated>2023-02-24T01:38:33Z</updated>
-    <id>tag:github.com,2023-02-24:/chengchingwen/Transformers.jl</id>
-    <link href="https://github.com/chengchingwen/Transformers.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia Implementation of Transformer models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaObjects/ConstructionBase.jl</title>
+    <updated>2023-02-25T01:39:47Z</updated>
+    <id>tag:github.com,2023-02-25:/JuliaObjects/ConstructionBase.jl</id>
+    <link href="https://github.com/JuliaObjects/ConstructionBase.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Primitives for construction of objects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GiovineItalia/Gadfly.jl</title>
+    <updated>2023-02-25T01:39:47Z</updated>
+    <id>tag:github.com,2023-02-25:/GiovineItalia/Gadfly.jl</id>
+    <link href="https://github.com/GiovineItalia/Gadfly.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Crafty statistical graphics for Julia.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

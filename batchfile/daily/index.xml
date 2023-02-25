@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-24T01:30:55Z</updated>
+  <updated>2023-02-25T01:32:56Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Sofiabogqan2007/rdp-free</title>
-    <updated>2023-02-24T01:30:55Z</updated>
-    <id>tag:github.com,2023-02-24:/Sofiabogqan2007/rdp-free</id>
-    <link href="https://github.com/Sofiabogqan2007/rdp-free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Kusagiri0/RDPAZURE</title>
-    <updated>2023-02-24T01:30:55Z</updated>
-    <id>tag:github.com,2023-02-24:/Kusagiri0/RDPAZURE</id>
-    <link href="https://github.com/Kusagiri0/RDPAZURE" rel="alternate"></link>
+    <title>vbssubscribeit/windowscrd</title>
+    <updated>2023-02-25T01:32:56Z</updated>
+    <id>tag:github.com,2023-02-25:/vbssubscribeit/windowscrd</id>
+    <link href="https://github.com/vbssubscribeit/windowscrd" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
