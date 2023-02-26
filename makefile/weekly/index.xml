@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T01:58:40Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ninenines/erlang.mk</title>
+    <updated>2023-02-26T01:58:40Z</updated>
+    <id>tag:github.com,2023-02-26:/ninenines/erlang.mk</id>
+    <link href="https://github.com/ninenines/erlang.mk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A build tool for Erlang that just works.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Helsinki-NLP/Tatoeba-Challenge</title>
+    <updated>2023-02-26T01:58:40Z</updated>
+    <id>tag:github.com,2023-02-26:/Helsinki-NLP/Tatoeba-Challenge</id>
+    <link href="https://github.com/Helsinki-NLP/Tatoeba-Challenge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Netflix/titus-api-definitions</title>
+    <updated>2023-02-26T01:58:40Z</updated>
+    <id>tag:github.com,2023-02-26:/Netflix/titus-api-definitions</id>
+    <link href="https://github.com/Netflix/titus-api-definitions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

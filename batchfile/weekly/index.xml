@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T01:50:45Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bmrf/tron</title>
+    <updated>2023-02-26T01:50:45Z</updated>
+    <id>tag:github.com,2023-02-26:/bmrf/tron</id>
+    <link href="https://github.com/bmrf/tron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tron&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jbara2002/windows-defender-remover</title>
+    <updated>2023-02-26T01:50:45Z</updated>
+    <id>tag:github.com,2023-02-26:/jbara2002/windows-defender-remover</id>
+    <link href="https://github.com/jbara2002/windows-defender-remover" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RanzzID/RDP-FREE-</title>
+    <updated>2023-02-26T01:50:45Z</updated>
+    <id>tag:github.com,2023-02-26:/RanzzID/RDP-FREE-</id>
+    <link href="https://github.com/RanzzID/RDP-FREE-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

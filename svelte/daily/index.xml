@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-25T01:47:43Z</updated>
+  <updated>2023-02-26T01:46:35Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>keerthivasansa/animos</title>
-    <updated>2023-02-25T01:47:43Z</updated>
-    <id>tag:github.com,2023-02-25:/keerthivasansa/animos</id>
-    <link href="https://github.com/keerthivasansa/animos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Animos - Clean and minimal Anime-streaming desktop application without any ads.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dimfeld/svelte-maplibre</title>
+    <updated>2023-02-26T01:46:35Z</updated>
+    <id>tag:github.com,2023-02-26:/dimfeld/svelte-maplibre</id>
+    <link href="https://github.com/dimfeld/svelte-maplibre" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte bindings for the MapLibre mapping library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xmlking/svelte-starter-kit</title>
-    <updated>2023-02-25T01:47:43Z</updated>
-    <id>tag:github.com,2023-02-25:/xmlking/svelte-starter-kit</id>
-    <link href="https://github.com/xmlking/svelte-starter-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SvelteKit Starter Template&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ProjectSegfault/website</title>
+    <updated>2023-02-26T01:46:35Z</updated>
+    <id>tag:github.com,2023-02-26:/ProjectSegfault/website</id>
+    <link href="https://github.com/ProjectSegfault/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project Segfault&#39;s homepage, made with SvelteKit and ❤️.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

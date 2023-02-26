@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-25T01:45:34Z</updated>
+  <updated>2023-02-26T01:44:27Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pacs-course/pacs-examples</title>
-    <updated>2023-02-25T01:45:34Z</updated>
-    <id>tag:github.com,2023-02-25:/pacs-course/pacs-examples</id>
-    <link href="https://github.com/pacs-course/pacs-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The examples for the course on advanced programming for scientific computing (aka PACS), Politecnico di Milano&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>patrickloiseau/ensae-prog23</title>
+    <updated>2023-02-26T01:44:27Z</updated>
+    <id>tag:github.com,2023-02-26:/patrickloiseau/ensae-prog23</id>
+    <link href="https://github.com/patrickloiseau/ensae-prog23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public repository with students resources for the ENSAE 1A programming project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

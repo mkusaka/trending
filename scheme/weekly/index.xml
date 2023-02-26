@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scheme Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T02:03:45Z</updated>
+  <subtitle>Weekly Trending of Scheme in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>keiji0/gauche-rdf</title>
+    <updated>2023-02-26T02:03:45Z</updated>
+    <id>tag:github.com,2023-02-26:/keiji0/gauche-rdf</id>
+    <link href="https://github.com/keiji0/gauche-rdf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GuacheのRDFライブラリ&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

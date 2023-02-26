@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ZenScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-25T01:50:20Z</updated>
+  <updated>2023-02-26T01:49:08Z</updated>
   <subtitle>Daily Trending of ZenScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mothmoss/GREGGENUITY</title>
-    <updated>2023-02-25T01:50:20Z</updated>
-    <id>tag:github.com,2023-02-25:/mothmoss/GREGGENUITY</id>
-    <link href="https://github.com/mothmoss/GREGGENUITY" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GTCEU based modpack for 1.12.2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

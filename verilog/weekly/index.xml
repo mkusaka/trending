@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T02:06:34Z</updated>
+  <subtitle>Weekly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>trailofbits/verilog_tools</title>
+    <updated>2023-02-26T02:06:34Z</updated>
+    <id>tag:github.com,2023-02-26:/trailofbits/verilog_tools</id>
+    <link href="https://github.com/trailofbits/verilog_tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;verilog circuit utilities.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

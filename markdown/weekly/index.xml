@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T01:58:37Z</updated>
+  <subtitle>Weekly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Your-First-Open-Source-Project/start-here</title>
+    <updated>2023-02-26T01:58:37Z</updated>
+    <id>tag:github.com,2023-02-26:/Your-First-Open-Source-Project/start-here</id>
+    <link href="https://github.com/Your-First-Open-Source-Project/start-here" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New to Open Source Projects? Contribute to your very first open source project in this beginner-friendly code repository 👨‍💻!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

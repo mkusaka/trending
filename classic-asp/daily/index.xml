@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-25T01:34:09Z</updated>
+  <updated>2023-02-26T01:32:23Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Zenith-One/snippets</title>
-    <updated>2023-02-25T01:34:09Z</updated>
-    <id>tag:github.com,2023-02-25:/Zenith-One/snippets</id>
-    <link href="https://github.com/Zenith-One/snippets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ASP, PHP, and JS snippts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

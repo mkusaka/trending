@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-25T01:43:21Z</updated>
+  <updated>2023-02-26T01:42:13Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bdalton2/Tools</title>
-    <updated>2023-02-25T01:43:21Z</updated>
-    <id>tag:github.com,2023-02-25:/bdalton2/Tools</id>
-    <link href="https://github.com/bdalton2/Tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for tools&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tools&lt;/h1&gt; &#xA;&lt;p&gt;A repository for tools&lt;/p&gt; &#xA;&lt;p&gt;This is a merged branch.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>coolsubbu/imagecluster</title>
-    <updated>2023-02-25T01:43:21Z</updated>
-    <id>tag:github.com,2023-02-25:/coolsubbu/imagecluster</id>
-    <link href="https://github.com/coolsubbu/imagecluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clustering images using a iterative union - find Algorithm&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pawelkrol/Archive-ByteBoozer</title>
+    <updated>2023-02-26T01:42:13Z</updated>
+    <id>tag:github.com,2023-02-26:/pawelkrol/Archive-ByteBoozer</id>
+    <link href="https://github.com/pawelkrol/Archive-ByteBoozer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Perl interface to David Malmborg&#39;s &#34;ByteBoozer&#34;, a data cruncher for Commodore files written in C.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Archive-ByteBoozer&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://metacpan.org/pod/Archive::ByteBoozer&#34;&gt;&lt;img src=&#34;https://badge.fury.io/pl/Archive-ByteBoozer.png&#34; alt=&#34;CPAN version&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Archive::ByteBoozer package provides a Perl interface to David Malmborg&#39;s &#34;ByteBoozer&#34;, a data cruncher for Commodore files written in C. The following operations are supported: reading data from any given IO:: interface, packing data using the compression algorithm implemented via &#34;ByteBoozer&#34;, and writing data into any given IO:: interface.&lt;/p&gt; &#xA;&lt;h2&gt;VERSION&lt;/h2&gt; &#xA;&lt;p&gt;Version 0.10 (2018-11-26)&lt;/p&gt; &#xA;&lt;h2&gt;INSTALLATION&lt;/h2&gt; &#xA;&lt;p&gt;To install this module type the following:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perl Makefile.PL&#xA;make&#xA;make test&#xA;make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;DOCUMENTATION&lt;/h2&gt; &#xA;&lt;p&gt;A comprehensive module documentation is available on &lt;a href=&#34;https://metacpan.org/pod/Archive::ByteBoozer&#34;&gt;CPAN&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;COPYRIGHT AND LICENCE&lt;/h2&gt; &#xA;&lt;p&gt;ByteBoozer cruncher/decruncher:&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2004-2006, 2008-2009, 2012 David Malmborg.&lt;/p&gt; &#xA;&lt;p&gt;Archive::ByteBoozer Perl interface:&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2012-2013, 2016, 2018 by Pawel Krol.&lt;/p&gt; &#xA;&lt;p&gt;This library is free open source software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.8.6 or, at your option, any later version of Perl 5 you may have available.&lt;/p&gt; &#xA;&lt;p&gt;PLEASE NOTE THAT IT COMES WITHOUT A WARRANTY OF ANY KIND!&lt;/p&gt;</summary>
   </entry>
 </feed>

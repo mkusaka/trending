@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T02:06:47Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Chanzhaoyu/chatgpt-web</title>
+    <updated>2023-02-26T02:06:47Z</updated>
+    <id>tag:github.com,2023-02-26:/Chanzhaoyu/chatgpt-web</id>
+    <link href="https://github.com/Chanzhaoyu/chatgpt-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;用 express 和 vue3 搭建的同时支持 `openAI Key` 和 `网页 accessToken` 的 ChatGPT 演示网页&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pure-admin/vue-pure-admin</title>
+    <updated>2023-02-26T02:06:47Z</updated>
+    <id>tag:github.com,2023-02-26:/pure-admin/vue-pure-admin</id>
+    <link href="https://github.com/pure-admin/vue-pure-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nihaojob/vue-fabric-editor</title>
+    <updated>2023-02-26T02:06:47Z</updated>
+    <id>tag:github.com,2023-02-26:/nihaojob/vue-fabric-editor</id>
+    <link href="https://github.com/nihaojob/vue-fabric-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于fabric.js和Vue的图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

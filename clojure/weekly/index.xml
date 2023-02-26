@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T01:52:01Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hyperfiddle/electric</title>
+    <updated>2023-02-26T01:52:01Z</updated>
+    <id>tag:github.com,2023-02-26:/hyperfiddle/electric</id>
+    <link href="https://github.com/hyperfiddle/electric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a reactive signals DSL for fullstack web UI, with compiler-managed network sync&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lambdaisland/kaocha</title>
+    <updated>2023-02-26T01:52:01Z</updated>
+    <id>tag:github.com,2023-02-26:/lambdaisland/kaocha</id>
+    <link href="https://github.com/lambdaisland/kaocha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full featured next gen Clojure test runner&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Netflix/mantis-mql</title>
+    <updated>2023-02-26T01:52:01Z</updated>
+    <id>tag:github.com,2023-02-26:/Netflix/mantis-mql</id>
+    <link href="https://github.com/Netflix/mantis-mql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

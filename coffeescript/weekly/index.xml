@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T01:52:12Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>brooklynDev/litmus-hubot</title>
+    <updated>2023-02-26T01:52:12Z</updated>
+    <id>tag:github.com,2023-02-26:/brooklynDev/litmus-hubot</id>
+    <link href="https://github.com/brooklynDev/litmus-hubot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>janisroze/JRTT-ProjectRepository</title>
+    <updated>2023-02-26T01:52:12Z</updated>
+    <id>tag:github.com,2023-02-26:/janisroze/JRTT-ProjectRepository</id>
+    <link href="https://github.com/janisroze/JRTT-ProjectRepository" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jānis Roze and Toms Tumšais repository for projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tzedakah/formal</title>
+    <updated>2023-02-26T01:52:12Z</updated>
+    <id>tag:github.com,2023-02-26:/tzedakah/formal</id>
+    <link href="https://github.com/tzedakah/formal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Object validation in Javascript.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-25T01:32:56Z</updated>
+  <updated>2023-02-26T01:30:59Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vbssubscribeit/windowscrd</title>
-    <updated>2023-02-25T01:32:56Z</updated>
-    <id>tag:github.com,2023-02-25:/vbssubscribeit/windowscrd</id>
-    <link href="https://github.com/vbssubscribeit/windowscrd" rel="alternate"></link>
+    <title>nexB/aboutcode</title>
+    <updated>2023-02-26T01:30:59Z</updated>
+    <id>tag:github.com,2023-02-26:/nexB/aboutcode</id>
+    <link href="https://github.com/nexB/aboutcode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AboutCode project: tools and data to uncover things about code: the provenance, origin, license, and more (packages, security, quality, etc.) of FOSS code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yatbot12/ngrok-rdp</title>
+    <updated>2023-02-26T01:30:59Z</updated>
+    <id>tag:github.com,2023-02-26:/yatbot12/ngrok-rdp</id>
+    <link href="https://github.com/yatbot12/ngrok-rdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-25T01:49:20Z</updated>
+  <updated>2023-02-26T01:48:09Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>codementum/dotfiles</title>
-    <updated>2023-02-25T01:49:20Z</updated>
-    <id>tag:github.com,2023-02-25:/codementum/dotfiles</id>
-    <link href="https://github.com/codementum/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dotfiles and plugins for vim, zsh, and tmux.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>turbo-src/demo</title>
-    <updated>2023-02-25T01:49:20Z</updated>
-    <id>tag:github.com,2023-02-25:/turbo-src/demo</id>
-    <link href="https://github.com/turbo-src/demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim-scripts/vundle</title>
-    <updated>2023-02-25T01:49:20Z</updated>
-    <id>tag:github.com,2023-02-25:/vim-scripts/vundle</id>
-    <link href="https://github.com/vim-scripts/vundle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vundle the Vim package manager&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-02-26T01:55:55Z</updated>
+  <subtitle>Weekly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hashicorp/hashicat-aws</title>
+    <updated>2023-02-26T01:55:55Z</updated>
+    <id>tag:github.com,2023-02-26:/hashicorp/hashicat-aws</id>
+    <link href="https://github.com/hashicorp/hashicat-aws" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hashicorp/tfc-workshops-sentinel</title>
+    <updated>2023-02-26T01:55:55Z</updated>
+    <id>tag:github.com,2023-02-26:/hashicorp/tfc-workshops-sentinel</id>
+    <link href="https://github.com/hashicorp/tfc-workshops-sentinel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sentinel policies for use in pre-sales workshops: https://hashicorp.github.io/workshops&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-elasticsearch</title>
+    <updated>2023-02-26T01:55:55Z</updated>
+    <id>tag:github.com,2023-02-26:/cloudposse/terraform-aws-elasticsearch</id>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticsearch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision an Elasticsearch cluster with built-in integrations with Kibana and Logstash.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

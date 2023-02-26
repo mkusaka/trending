@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-25T01:35:07Z</updated>
+  <updated>2023-02-26T01:33:27Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>IZriouil/coffee_app</title>
-    <updated>2023-02-25T01:35:07Z</updated>
-    <id>tag:github.com,2023-02-25:/IZriouil/coffee_app</id>
-    <link href="https://github.com/IZriouil/coffee_app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Coffee App Challenge: Design Challenge Animation&lt;/h1&gt; &#xA;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;This is a Flutter project that showcases a Coffee app concept animation, which was created as part of a design challenge. The goal of this project is to demonstrate the creative process of designing and animating an app concept.&lt;/p&gt; &#xA;&lt;h2&gt;Demo&lt;/h2&gt; &#xA;&lt;p&gt;Here&#39;s a demo of the coffee app concept animation:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;On iOS: &lt;img src=&#34;https://raw.githubusercontent.com/IZriouil/coffee_app/master/demo.gif&#34; alt=&#34;Coffee Animation Design Challenge&#34;&gt;&lt;/li&gt; &#xA; &lt;li&gt;On Windows: &lt;img src=&#34;https://raw.githubusercontent.com/IZriouil/coffee_app/master/windows_demo.gif&#34; alt=&#34;Coffee Animation Design Challenge&#34;&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Requirements / Dependencies&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Flutter SDK (Tested on 3.7.1)&lt;/li&gt; &#xA; &lt;li&gt;Google google_fonts&lt;/li&gt; &#xA; &lt;li&gt;flutter_feather_icons&lt;/li&gt; &#xA; &lt;li&gt;get_it&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Clone the repository&lt;/li&gt; &#xA; &lt;li&gt;Navigate to the project directory&lt;/li&gt; &#xA; &lt;li&gt;Run the following command in the terminal:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;flutter run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Feel free to contribute by creating a pull request. Your contributions are always welcome!&lt;/p&gt; &#xA;&lt;h2&gt;References&lt;/h2&gt; &#xA;&lt;p&gt;This project was inspired by a coffee app concept animation created by &lt;a href=&#34;https://dribbble.com/shots/14166097-Coffee-App&#34;&gt;Jacob Janura - Coffee App / Animation&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This project is intended for educational purposes only and may not be used for commercial purposes. See the &lt;a href=&#34;https://raw.githubusercontent.com/IZriouil/coffee_app/master/LICENSE.md&#34;&gt;LICENSE.md&lt;/a&gt; file for details.&lt;/p&gt;</summary>
-  </entry>
 </feed>
