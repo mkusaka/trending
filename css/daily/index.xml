@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-26T01:33:03Z</updated>
+  <updated>2023-02-27T01:32:54Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>naumen-student/naumen.scala.course.2023.spring</title>
-    <updated>2023-02-26T01:33:03Z</updated>
-    <id>tag:github.com,2023-02-26:/naumen-student/naumen.scala.course.2023.spring</id>
-    <link href="https://github.com/naumen-student/naumen.scala.course.2023.spring" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Naumen Scala Весна 2023&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;naumen.scala.course.2023.spring&lt;/h1&gt; &#xA;&lt;h3&gt;Лекции&lt;/h3&gt; &#xA;&lt;p&gt;Располагаются в директории &lt;code&gt;/lectures/&lt;/code&gt; виде html презентации (для оффлайн доступа необходимо скачать всю папку и открывать в браузере конкретную лекцию)&lt;/p&gt; &#xA;&lt;h3&gt;Домашние задания&lt;/h3&gt; &#xA;&lt;p&gt;Распологаются в директории &lt;code&gt;/homeworks/&lt;/code&gt; и будут выкладываться по мере продвижения по курсу.&lt;/p&gt; &#xA;&lt;h4&gt;Предоставление результатов&lt;/h4&gt; &#xA;&lt;p&gt;Результаты предоставлять посредством fork текущего репозитория на github, созданием новой ветки homework_${number}, коммитом всех результатов (подробности описаны в самих заданиях) и пушем в эту ветку в рамках своего fork и созданием pull request в основной репозиторий в ветку master.&lt;/p&gt; &#xA;&lt;p&gt;После первоначально форка репозитория необходимо обновлять свой форк с основного репозитория&lt;/p&gt; &#xA;&lt;p&gt;Название pull request должно соответсвовать следующему шаблону - &#34;homework_${number} - ${lastName} ${firstName}&#34; Т.е. для ДЗ №1 и студента &#34;Соколов Артём&#34; было бы следующее - &#34;homework_1 - Соколов Артём&#34; Это важно, пулреквесты с названием не по шаблону не будут проверяться.&lt;/p&gt;</summary>
-  </entry>
 </feed>

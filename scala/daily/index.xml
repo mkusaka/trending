@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-26T01:45:11Z</updated>
+  <updated>2023-02-27T01:44:18Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>morazow/TurkmenBot</title>
-    <updated>2023-02-26T01:45:11Z</updated>
-    <id>tag:github.com,2023-02-26:/morazow/TurkmenBot</id>
-    <link href="https://github.com/morazow/TurkmenBot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A twitter bot for the türkmen tweets.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Türkmen Twitter Bot&lt;/h1&gt; &#xA;&lt;p&gt;This is a experimental Scala project. A twitter bot answering some commands such as greetings, proses and proverbs in Turkmen language.&lt;/p&gt; &#xA;&lt;p&gt;Currently it responds only two commands,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-scala&#34;&gt;@turkmenBot ! Salam&#xA;or&#xA;@turkmenBot ! Nakyl&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Please do not forget the &#39;!&#39; between mention and command.&lt;/p&gt; &#xA;&lt;h2&gt;TODO&lt;/h2&gt; &#xA;&lt;p&gt;I am very open to interesting suggestions, please do suggest! And if you are a developer wanting to improve the code, please submit a PR.&lt;/p&gt; &#xA;&lt;p&gt;Current suggestions,&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Retweets some hashtags (#TürkmençeÝaz, #Düşüňýäňmi, wş), easier to implement.&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Spell check turkmen words. Interesting but harder.&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; ...&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&#39;nakyllar.txt&#39; is taken from Alashov, &lt;a href=&#34;https://github.com/morazow/cdn&#34;&gt;TmQuotes&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Some Scala code is inspired from &lt;a href=&#34;https://github.com/jasonbaldridge/twitter4j-tutorial&#34;&gt;twitter4j-tutorial&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;LICENSE&lt;/h2&gt; &#xA;&lt;p&gt;Under Apache License, please see LICENSE.md.&lt;/p&gt;</summary>
+    <title>Netflix/edda</title>
+    <updated>2023-02-27T01:44:18Z</updated>
+    <id>tag:github.com,2023-02-27:/Netflix/edda</id>
+    <link href="https://github.com/Netflix/edda" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS API Read Cache&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://travis-ci.com/Netflix/edda/builds&#34;&gt;&lt;img src=&#34;https://travis-ci.com/Netflix/edda.svg?sanitize=true&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;DESCRIPTION&lt;/h2&gt; &#xA;&lt;p&gt;Edda is a Service to track changes in your cloud deployments.&lt;/p&gt; &#xA;&lt;h2&gt;DETAILS&lt;/h2&gt; &#xA;&lt;p&gt;Please see the &lt;a href=&#34;https://github.com/Netflix/edda/wiki&#34;&gt;wiki&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;SUPPORT&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://groups.google.com/group/edda-users&#34;&gt;Edda Google group&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;LICENSE&lt;/h2&gt; &#xA;&lt;p&gt;Copyright 2012-2016 Netflix, Inc.&lt;/p&gt; &#xA;&lt;p&gt;Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0&lt;/a&gt; Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.&lt;/p&gt;</summary>
   </entry>
 </feed>

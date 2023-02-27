@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-26T01:33:20Z</updated>
+  <updated>2023-02-27T01:33:14Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zyedidia/multiplix</title>
-    <updated>2023-02-26T01:33:20Z</updated>
-    <id>tag:github.com,2023-02-26:/zyedidia/multiplix</id>
-    <link href="https://github.com/zyedidia/multiplix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;In-progress operating system for RISC-V and AArch64 SBCs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

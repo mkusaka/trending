@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-26T01:39:43Z</updated>
+  <updated>2023-02-27T01:39:41Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>achrafelkhnissi/alx-checker</title>
-    <updated>2023-02-26T01:39:43Z</updated>
-    <id>tag:github.com,2023-02-26:/achrafelkhnissi/alx-checker</id>
-    <link href="https://github.com/achrafelkhnissi/alx-checker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of checkers for all alx-low_level_programming projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Helsinki-NLP/Tatoeba-Challenge</title>
+    <updated>2023-02-27T01:39:41Z</updated>
+    <id>tag:github.com,2023-02-27:/Helsinki-NLP/Tatoeba-Challenge</id>
+    <link href="https://github.com/Helsinki-NLP/Tatoeba-Challenge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

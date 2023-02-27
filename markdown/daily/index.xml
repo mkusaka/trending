@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-26T01:39:46Z</updated>
+  <updated>2023-02-27T01:39:38Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MerginMaps/status</title>
-    <updated>2023-02-26T01:39:46Z</updated>
-    <id>tag:github.com,2023-02-26:/MerginMaps/status</id>
-    <link href="https://github.com/MerginMaps/status" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Uptime monitor and status page by Upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

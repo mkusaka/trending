@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-26T01:46:35Z</updated>
+  <updated>2023-02-27T01:45:31Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dimfeld/svelte-maplibre</title>
-    <updated>2023-02-26T01:46:35Z</updated>
-    <id>tag:github.com,2023-02-26:/dimfeld/svelte-maplibre</id>
-    <link href="https://github.com/dimfeld/svelte-maplibre" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte bindings for the MapLibre mapping library&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ProjectSegfault/website</title>
-    <updated>2023-02-26T01:46:35Z</updated>
-    <id>tag:github.com,2023-02-26:/ProjectSegfault/website</id>
-    <link href="https://github.com/ProjectSegfault/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project Segfault&#39;s homepage, made with SvelteKit and ❤️.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AlexWarnes/svelte-sequence</title>
+    <updated>2023-02-27T01:45:31Z</updated>
+    <id>tag:github.com,2023-02-27:/AlexWarnes/svelte-sequence</id>
+    <link href="https://github.com/AlexWarnes/svelte-sequence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Custom stores to compose tweened motion sequences over multiple steps.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
