@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-27T01:45:39Z</updated>
+  <updated>2023-02-28T01:47:10Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BomberFish/Whitelist</title>
-    <updated>2023-02-27T01:45:39Z</updated>
-    <id>tag:github.com,2023-02-27:/BomberFish/Whitelist</id>
-    <link href="https://github.com/BomberFish/Whitelist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jailed iOS app to un-blacklist all enterprise-signed apps&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/icon.png&#34; alt=&#34;Whitelist Icon&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Whitelist&lt;/h1&gt; &#xA;&lt;h4&gt;Jailed iOS app to un-blacklist all enterprise-signed apps&lt;/h4&gt; &#xA;&lt;h2&gt;Compatibility&lt;/h2&gt; &#xA;&lt;p&gt;iOS and iPadOS &lt;strong&gt;15.0-16.1.2&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;Anything above this is &lt;em&gt;&lt;strong&gt;not&lt;/strong&gt;&lt;/em&gt; supported, don&#39;t bother me about it.&lt;/p&gt; &#xA;&lt;h2&gt;What is it?&lt;/h2&gt; &#xA;&lt;p&gt;Have you ever seen this annoying prompt?&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/blacklist.png&#34; alt=&#34;Whitelist Icon&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Well this app removes this!&lt;/p&gt; &#xA;&lt;p&gt;No really, it&#39;s that simple.&lt;/p&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/screen1.png&#34; alt=&#34;Home screen&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/screen2.png&#34; alt=&#34;Files screen&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Pavo-IM/OC-Gen-X</title>
-    <updated>2023-02-27T01:45:39Z</updated>
-    <id>tag:github.com,2023-02-27:/Pavo-IM/OC-Gen-X</id>
-    <link href="https://github.com/Pavo-IM/OC-Gen-X" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenCore Config Generator&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Opencore Gen-X&lt;/h1&gt; &#xA;&lt;h2&gt;Desktop Opencore EFI and config.plist generation utility&lt;/h2&gt; &#xA;&lt;p&gt;OC Gen-X is a utility application to create a pre-defined config.plist and a EFI Folder to the users Desktop. Based on the system type selected by the user.&lt;/p&gt; &#xA;&lt;p&gt;The config.plist generated is based off the architectures in the Dortania guide. i.e: Haswell, Skylake, Coffeelake etc..&lt;/p&gt; &#xA;&lt;h3&gt;Important Information (Please read below)&lt;/h3&gt; &#xA;&lt;p&gt;This app is only for desktop hackintosh machines, it does not have any pre-defined settings for laptop hackintosh machines.&lt;/p&gt; &#xA;&lt;h3&gt;Credits&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;App is made and designed and copyrighted by &lt;em&gt;Pavo-IM&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;Acidanthera Development Team&lt;/em&gt; for Opencore (This app is not endorsed or promoted by Acidanthera)&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;Dortania Team&lt;/em&gt; for the Opencore Guide.&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;Hackintosh x86 discord community&lt;/em&gt; for intial testing and logo&#39;s&lt;/li&gt; &#xA; &lt;li&gt;Minor contributions from &lt;em&gt;@StephenHeaps&lt;/em&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

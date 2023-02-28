@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-27T01:47:30Z</updated>
+  <updated>2023-02-28T01:49:10Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sjones4/confluence-to-github</title>
-    <updated>2023-02-27T01:47:30Z</updated>
-    <id>tag:github.com,2023-02-27:/sjones4/confluence-to-github</id>
-    <link href="https://github.com/sjones4/confluence-to-github" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convert a confluence space export in XML format to github markdown pages&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Confluence space to github markdown pages&lt;/h1&gt; &#xA;&lt;p&gt;Convert a confluence space export in XML format to github markdown pages&lt;/p&gt; &#xA;&lt;h2&gt;Installation Requirements&lt;/h2&gt; &#xA;&lt;p&gt;Requires &lt;a href=&#34;https://gitlab.gnome.org/GNOME/libxslt/-/wikis/home&#34;&gt;xsltproc&lt;/a&gt; to be installed, e.g. on Debian, Ubuntu or derivatives call with root permissions:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;apt install xsltproc&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;To export a space from confluence&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;In confluence, navigate to Space Tools / Content Tools / Export and choose XML format&lt;/li&gt; &#xA; &lt;li&gt;Download the export zip and unzip&lt;/li&gt; &#xA; &lt;li&gt;Run generate.sh script&lt;/li&gt; &#xA; &lt;li&gt;Review generated content under out/wiki&lt;/li&gt; &#xA; &lt;li&gt;Copy content from out/wiki to your cloned github wiki and add/push&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Example of export / import commands&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# git clone git@github.com:sjones4/confluence-to-github.git&#xA;# cd confluence-to-github&#xA;# unzip ~/Downloads/Confluence-export.zip&#xA;# ./generate.sh&#xA;# rm out/wiki/Services-Team-Space.md  # optionally delete space home page&#xA;# cp -pvr out/wiki/* ~/Work/eucalyptus.wiki/&#xA;# cd ~/Work/eucalyptus.wiki/&#xA;# git add *&#xA;# git commmit -m &#34;Confluence services team space import&#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-27T01:31:03Z</updated>
+  <updated>2023-02-28T01:30:53Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AKXVAU/rdp</title>
-    <updated>2023-02-27T01:31:03Z</updated>
-    <id>tag:github.com,2023-02-27:/AKXVAU/rdp</id>
-    <link href="https://github.com/AKXVAU/rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;1 hour rdp make use ngrok and github.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ntdevlabs/tiny11builder</title>
+    <updated>2023-02-28T01:30:53Z</updated>
+    <id>tag:github.com,2023-02-28:/ntdevlabs/tiny11builder</id>
+    <link href="https://github.com/ntdevlabs/tiny11builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts to build a trimmed-down Windows 11 image.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Faridanur11/ZorinRDP</title>
+    <updated>2023-02-28T01:30:53Z</updated>
+    <id>tag:github.com,2023-02-28:/Faridanur11/ZorinRDP</id>
+    <link href="https://github.com/Faridanur11/ZorinRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free Virtual Remote Server (RDP) for Development &amp; Learning 🎓&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lxgw/LxgwMarkerGothic</title>
+    <updated>2023-02-28T01:30:53Z</updated>
+    <id>tag:github.com,2023-02-28:/lxgw/LxgwMarkerGothic</id>
+    <link href="https://github.com/lxgw/LxgwMarkerGothic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Simplified Chinese font derived from Tanugo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

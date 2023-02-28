@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-27T01:36:44Z</updated>
+  <updated>2023-02-28T01:37:05Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shubhamm45/DevOps-Project</title>
-    <updated>2023-02-27T01:36:44Z</updated>
-    <id>tag:github.com,2023-02-27:/shubhamm45/DevOps-Project</id>
-    <link href="https://github.com/shubhamm45/DevOps-Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stacksimplify/terraform-sentinel-policies-azure</title>
+    <updated>2023-02-28T01:37:05Z</updated>
+    <id>tag:github.com,2023-02-28:/stacksimplify/terraform-sentinel-policies-azure</id>
+    <link href="https://github.com/stacksimplify/terraform-sentinel-policies-azure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Cloud and Sentinel Policies Demo on Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>snyk/terraform-goof</title>
-    <updated>2023-02-27T01:36:44Z</updated>
-    <id>tag:github.com,2023-02-27:/snyk/terraform-goof</id>
-    <link href="https://github.com/snyk/terraform-goof" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A demo repo showcasing Snyk&#39;s IAC offering for terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stacksimplify/terraform-azurerm-staticwebsiteprivate</title>
+    <updated>2023-02-28T01:37:05Z</updated>
+    <id>tag:github.com,2023-02-28:/stacksimplify/terraform-azurerm-staticwebsiteprivate</id>
+    <link href="https://github.com/stacksimplify/terraform-azurerm-staticwebsiteprivate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Modules to be shared in Private Registry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stacksimplify/terraform-azurerm-staticwebsitepublic</title>
+    <updated>2023-02-28T01:37:05Z</updated>
+    <id>tag:github.com,2023-02-28:/stacksimplify/terraform-azurerm-staticwebsitepublic</id>
+    <link href="https://github.com/stacksimplify/terraform-azurerm-staticwebsitepublic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Modules to be shared in Terraform Public Registry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

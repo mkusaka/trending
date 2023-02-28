@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-27T01:45:31Z</updated>
+  <updated>2023-02-28T01:47:00Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AlexWarnes/svelte-sequence</title>
-    <updated>2023-02-27T01:45:31Z</updated>
-    <id>tag:github.com,2023-02-27:/AlexWarnes/svelte-sequence</id>
-    <link href="https://github.com/AlexWarnes/svelte-sequence" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Custom stores to compose tweened motion sequences over multiple steps.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Lissy93/devolio</title>
+    <updated>2023-02-28T01:47:00Z</updated>
+    <id>tag:github.com,2023-02-28:/Lissy93/devolio</id>
+    <link href="https://github.com/Lissy93/devolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ A developer portfolio site for the rest of us! Aggregates all your projects, blog posts, and stats in one place&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>d1onys1us/dapp-slaps</title>
+    <updated>2023-02-28T01:47:00Z</updated>
+    <id>tag:github.com,2023-02-28:/d1onys1us/dapp-slaps</id>
+    <link href="https://github.com/d1onys1us/dapp-slaps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;this dapp slaps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WardPearce/paaster</title>
+    <updated>2023-02-28T01:47:00Z</updated>
+    <id>tag:github.com,2023-02-28:/WardPearce/paaster</id>
+    <link href="https://github.com/WardPearce/paaster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

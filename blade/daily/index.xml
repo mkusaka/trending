@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-27T01:31:11Z</updated>
+  <updated>2023-02-28T01:31:00Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>genio0162/laundry-project</title>
+    <updated>2023-02-28T01:31:00Z</updated>
+    <id>tag:github.com,2023-02-28:/genio0162/laundry-project</id>
+    <link href="https://github.com/genio0162/laundry-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo ini merupakan Source Code Project Sistem Informasi dan Kelola Data Laundry&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
