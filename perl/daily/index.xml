@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-28T01:42:44Z</updated>
+  <updated>2023-03-01T01:42:34Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aki017/ProjectEuler</title>
+    <updated>2023-03-01T01:42:34Z</updated>
+    <id>tag:github.com,2023-03-01:/aki017/ProjectEuler</id>
+    <link href="https://github.com/aki017/ProjectEuler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;http://projecteuler.net/&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#Project Euler ###&lt;a href=&#34;http://projecteuler.net/&#34;&gt;http://projecteuler.net/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;http://projecteuler.net/profile/aki017.png&#34; alt=&#34;profile&#34; title=&#34;profile&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>aspiers/SUSE-dist</title>
+    <updated>2023-03-01T01:42:34Z</updated>
+    <id>tag:github.com,2023-03-01:/aspiers/SUSE-dist</id>
+    <link href="https://github.com/aspiers/SUSE-dist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SUSE-specific utilities and miscellany&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Adam&#39;s SUSE-specific configuration files and utilities&lt;/h1&gt; &#xA;&lt;p&gt;This is my collection of miscellaneous configuration files, utilities etc. which are specific to SUSE-based distributions.&lt;/p&gt; &#xA;&lt;h2&gt;Contents&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;http://en.opensuse.org/openSUSE:OSC_plugins&#34;&gt;plugins&lt;/a&gt; for &lt;a href=&#34;http://en.opensuse.org/openSUSE:OSC&#34;&gt;&lt;code&gt;osc&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://github.com/aspiers/SUSE-dist/raw/master/.osc-plugins/osc-classify-link.py&#34;&gt;&lt;code&gt;osc-classify-link.py&lt;/code&gt;&lt;/a&gt; - distinguish between projects which have been branched / linkpac&#39;d / copypac&#39;d / aggregatepac&#39;d.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;files to make it easier to inspect files gathered into a &lt;a href=&#34;http://www.novell.com/communities/node/2332/supportconfig-linux&#34;&gt;supportconfig&lt;/a&gt; tarball were previously here, but can now be found at &lt;a href=&#34;https://github.com/SUSE/supportconfig-utils&#34;&gt;https://github.com/SUSE/supportconfig-utils&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/aspiers/SUSE-dist/master/bin/rypper&#34;&gt;&lt;code&gt;rypper&lt;/code&gt;&lt;/a&gt; - a tool for performing batch operations on &lt;code&gt;zypper&lt;/code&gt; repositories&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;other stuff I haven&#39;t listed yet :)&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;&lt;a name=&#34;install&#34;&gt;INSTALLATION&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;This repository is designed to be &lt;a href=&#34;http://www.gnu.org/software/stow/&#34;&gt;stowed&lt;/a&gt; directly into your home directory:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;mkdir ~/stow&#xA;cd ~/stow&#xA;git clone git://github.com/aspiers/SUSE-dist.git&#xA;stow -d . -t ~ SUSE-dist&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;However if you only want to cherry-pick bits and pieces then you can easily just copy or symlink them in manually.&lt;/p&gt; &#xA;&lt;h2&gt;LICENSE&lt;/h2&gt; &#xA;&lt;p&gt;The software in this repository is free software: except where noted otherwise, you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&lt;/p&gt; &#xA;&lt;p&gt;This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.&lt;/p&gt; &#xA;&lt;p&gt;You should have received a copy of the GNU General Public License along with this program. If not, see &lt;a href=&#34;http://www.gnu.org/licenses/&#34;&gt;http://www.gnu.org/licenses/&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

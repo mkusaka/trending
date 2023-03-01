@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-28T01:36:36Z</updated>
+  <updated>2023-03-01T01:36:55Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Octopus773/Whanos</title>
-    <updated>2023-02-28T01:36:36Z</updated>
-    <id>tag:github.com,2023-02-28:/Octopus773/Whanos</id>
-    <link href="https://github.com/Octopus773/Whanos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dockerize and deploy your applications automatically on GCloud&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SaschaJanssen/GrailsSocialConnect</title>
+    <updated>2023-03-01T01:36:55Z</updated>
+    <id>tag:github.com,2023-03-01:/SaschaJanssen/GrailsSocialConnect</id>
+    <link href="https://github.com/SaschaJanssen/GrailsSocialConnect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GrailsSocialConnect&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>transition-technologies/validate</title>
+    <updated>2023-03-01T01:36:55Z</updated>
+    <id>tag:github.com,2023-03-01:/transition-technologies/validate</id>
+    <link href="https://github.com/transition-technologies/validate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playframework 1.2 module to handle annotation based validation everywhere&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chenakam/scalroid</title>
+    <updated>2023-03-01T01:36:55Z</updated>
+    <id>tag:github.com,2023-03-01:/chenakam/scalroid</id>
+    <link href="https://github.com/chenakam/scalroid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A scala-kotlin-java joint compilation plugin built on Gradle, for native Android.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

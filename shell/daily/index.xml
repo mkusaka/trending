@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-28T01:46:02Z</updated>
+  <updated>2023-03-01T01:45:41Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ChimeraOS/chimeraos</title>
-    <updated>2023-02-28T01:46:02Z</updated>
-    <id>tag:github.com,2023-02-28:/ChimeraOS/chimeraos</id>
-    <link href="https://github.com/ChimeraOS/chimeraos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Steam Big Picture based couch gaming OS&lt;/p&gt;&lt;hr&gt;&lt;p&gt;DO NOT DOWNLOAD DIRECTLY FROM THE RELEASES PAGE. THIS IS NOT INSTALLATION MEDIA. FOLLOW THE LINK BELOW FOR DOWNLOAD AND INSTALLATION INSTRUCTIONS.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://chimeraos.org&#34;&gt;ChimeraOS website&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>vtempest/developer-setup-2023</title>
-    <updated>2023-02-28T01:46:02Z</updated>
-    <id>tag:github.com,2023-02-28:/vtempest/developer-setup-2023</id>
-    <link href="https://github.com/vtempest/developer-setup-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Developer Server Shell Setup 2023&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Developer Server Shell Setup 2023&lt;/h2&gt; &#xA;&lt;p&gt;Setup fish, git, node, vim, ssh, docker, sudo&lt;/p&gt; &#xA;&lt;h3&gt;Fish Shell Greeting Example&lt;/h3&gt; &#xA;&lt;p&gt;👤admin@ubuntu-jammy-1 🌎35.224.78.10 💻Ubuntu 22.04.1 LTS 📁46% 📈Intel(R) Xeon(R) CPU @ 2.20GHz 🔝2% sshd&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/pMGAyFs.gif&#34; alt=&#34;Demo&#34;&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Shortcuts&lt;/h3&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Command&lt;/th&gt; &#xA;   &lt;th&gt;Description&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;setup_sudo&lt;/td&gt; &#xA;   &lt;td&gt;use sudo without password&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;setup_ssh&lt;/td&gt; &#xA;   &lt;td&gt;enable pubkey/pw login&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;setup_docker&lt;/td&gt; &#xA;   &lt;td&gt;sets up docker-compose script&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;setup_git&lt;/td&gt; &#xA;   &lt;td&gt;setup commits and ssh key to github.com&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;gg&lt;/td&gt; &#xA;   &lt;td&gt;force commit git repo&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;sync_with_remote_folder&lt;/td&gt; &#xA;   &lt;td&gt;sync local with remote using [command] &lt;a href=&#34;mailto:user@host.com&#34;&gt;user@host.com&lt;/a&gt;:~/folder&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;i&lt;/td&gt; &#xA;   &lt;td&gt;apt install, type word then TAB to search in all available&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;un&lt;/td&gt; &#xA;   &lt;td&gt;apt uninstall&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;list_installed&lt;/td&gt; &#xA;   &lt;td&gt;list installed packages&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;diskspace&lt;/td&gt; &#xA;   &lt;td&gt;disk % filled&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;process_find&lt;/td&gt; &#xA;   &lt;td&gt;find process name containing [search]&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;process_kill&lt;/td&gt; &#xA;   &lt;td&gt;kill process [number]&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;port_find&lt;/td&gt; &#xA;   &lt;td&gt;list process running on port [number]&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;port_kill&lt;/td&gt; &#xA;   &lt;td&gt;kill process running on port [number]&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt;</summary>
-  </entry>
 </feed>

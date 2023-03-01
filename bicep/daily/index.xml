@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-28T01:30:56Z</updated>
+  <updated>2023-03-01T01:31:17Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>azure-adventure-day/aad-fundamentals-team</title>
+    <updated>2023-03-01T01:31:17Z</updated>
+    <id>tag:github.com,2023-03-01:/azure-adventure-day/aad-fundamentals-team</id>
+    <link href="https://github.com/azure-adventure-day/aad-fundamentals-team" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

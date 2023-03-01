@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-28T01:48:38Z</updated>
+  <updated>2023-03-01T01:48:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ayin86/digitcube</title>
-    <updated>2023-02-28T01:48:38Z</updated>
-    <id>tag:github.com,2023-02-28:/ayin86/digitcube</id>
-    <link href="https://github.com/ayin86/digitcube" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Digitcube is a simple and easy-to-use visual large-screen front-end framework, developed based on vue2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>EDDI-RobotAcademy/KHGPM-Frontend</title>
+    <updated>2023-03-01T01:48:15Z</updated>
+    <id>tag:github.com,2023-03-01:/EDDI-RobotAcademy/KHGPM-Frontend</id>
+    <link href="https://github.com/EDDI-RobotAcademy/KHGPM-Frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KH Gangnam PM Frontend&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lengyibai/wzry</title>
-    <updated>2023-02-28T01:48:38Z</updated>
-    <id>tag:github.com,2023-02-28:/lengyibai/wzry</id>
-    <link href="https://github.com/lengyibai/wzry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌈基于 Vue3+Typescript+Vite4+Pinia2 的王者荣耀图鉴 🚀（失业在家，更新中⏳）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mnt-ltd/moredoc</title>
+    <updated>2023-03-01T01:48:15Z</updated>
+    <id>tag:github.com,2023-03-01:/mnt-ltd/moredoc</id>
+    <link href="https://github.com/mnt-ltd/moredoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;moredoc，魔豆文库，基于golang开发的类似百度文库的开源文库系统，dochub文库的重构版本。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

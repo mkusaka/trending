@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-01T02:18:37Z</updated>
+  <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sharkdp/insect</title>
+    <updated>2023-03-01T02:18:37Z</updated>
+    <id>tag:github.com,2023-03-01:/sharkdp/insect</id>
+    <link href="https://github.com/sharkdp/insect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High precision scientific calculator with support for physical units&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-lists</title>
+    <updated>2023-03-01T02:18:37Z</updated>
+    <id>tag:github.com,2023-03-01:/purescript/purescript-lists</id>
+    <link href="https://github.com/purescript/purescript-lists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Linked Lists&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-numbers</title>
+    <updated>2023-03-01T02:18:37Z</updated>
+    <id>tag:github.com,2023-03-01:/purescript/purescript-numbers</id>
+    <link href="https://github.com/purescript/purescript-numbers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Functions for working with PureScripts &#39;Number&#39; type&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

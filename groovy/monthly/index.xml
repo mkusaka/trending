@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-01T02:11:54Z</updated>
+  <subtitle>Monthly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thezaphod/ggallery</title>
+    <updated>2023-03-01T02:11:54Z</updated>
+    <id>tag:github.com,2023-03-01:/thezaphod/ggallery</id>
+    <link href="https://github.com/thezaphod/ggallery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GGallery is a simple gallery application written in grails to demonstate how to use AWS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alvareztech/InventariosInformatica</title>
+    <updated>2023-03-01T02:11:54Z</updated>
+    <id>tag:github.com,2023-03-01:/alvareztech/InventariosInformatica</id>
+    <link href="https://github.com/alvareztech/InventariosInformatica" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sistema web para la gestión de inventarios de activos fijos de informática.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>palantir/gradle-docker</title>
+    <updated>2023-03-01T02:11:54Z</updated>
+    <id>tag:github.com,2023-03-01:/palantir/gradle-docker</id>
+    <link href="https://github.com/palantir/gradle-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Gradle plugin for orchestrating docker builds and pushes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

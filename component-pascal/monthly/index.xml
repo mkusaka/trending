@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Component Pascal Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-01T02:09:03Z</updated>
+  <subtitle>Monthly Trending of Component Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Alexeyslav/RGBU_light</title>
+    <updated>2023-03-01T02:09:03Z</updated>
+    <id>tag:github.com,2023-03-01:/Alexeyslav/RGBU_light</id>
+    <link href="https://github.com/Alexeyslav/RGBU_light" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;4 channel R-G-B-U light effect modules with control from PC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jcmoraisjr/press-abs</title>
+    <updated>2023-03-01T02:09:03Z</updated>
+    <id>tag:github.com,2023-03-01:/jcmoraisjr/press-abs</id>
+    <link href="https://github.com/jcmoraisjr/press-abs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Abstract classes for PressObjects SDK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

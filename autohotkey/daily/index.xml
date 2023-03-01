@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-28T01:30:43Z</updated>
+  <updated>2023-03-01T01:31:02Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mgsweet/Apex-NoRecoil-2021</title>
+    <updated>2023-03-01T01:31:02Z</updated>
+    <id>tag:github.com,2023-03-01:/mgsweet/Apex-NoRecoil-2021</id>
+    <link href="https://github.com/mgsweet/Apex-NoRecoil-2021" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts to reduce recoil for Apex Legends. (auto weapon detection, support multiple resolutions)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

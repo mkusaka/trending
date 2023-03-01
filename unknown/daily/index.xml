@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-02-28T01:29:40Z</updated>
+  <updated>2023-03-01T01:30:01Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>damo-vilab/composer</title>
-    <updated>2023-02-28T01:29:40Z</updated>
-    <id>tag:github.com,2023-02-28:/damo-vilab/composer</id>
-    <link href="https://github.com/damo-vilab/composer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official implementation of &#34;Composer: Creative and Controllable Image Synthesis with Composable Conditions&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VinsonLaro/stable-diffusion-webui-chinese</title>
+    <updated>2023-03-01T01:30:01Z</updated>
+    <id>tag:github.com,2023-03-01:/VinsonLaro/stable-diffusion-webui-chinese</id>
+    <link href="https://github.com/VinsonLaro/stable-diffusion-webui-chinese" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;stable-diffusion-webui 的汉化版本&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abacaj/awesome-transformers</title>
-    <updated>2023-02-28T01:29:40Z</updated>
-    <id>tag:github.com,2023-02-28:/abacaj/awesome-transformers</id>
-    <link href="https://github.com/abacaj/awesome-transformers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome transformer models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NVlabs/VoxFormer</title>
+    <updated>2023-03-01T01:30:01Z</updated>
+    <id>tag:github.com,2023-03-01:/NVlabs/VoxFormer</id>
+    <link href="https://github.com/NVlabs/VoxFormer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[CVPR 2023] A Cutting-edge Baseline for 3D Semantic Occupancy Prediction&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Coding-With-The-Force/Salesforce-CTA-Study-Guide</title>
-    <updated>2023-02-28T01:29:40Z</updated>
-    <id>tag:github.com,2023-02-28:/Coding-With-The-Force/Salesforce-CTA-Study-Guide</id>
-    <link href="https://github.com/Coding-With-The-Force/Salesforce-CTA-Study-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This has my notes for studying for the Salesforce CTA Exam&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rizemon/exploit-writing-for-oswe</title>
+    <updated>2023-03-01T01:30:01Z</updated>
+    <id>tag:github.com,2023-03-01:/rizemon/exploit-writing-for-oswe</id>
+    <link href="https://github.com/rizemon/exploit-writing-for-oswe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tips on how to write exploit scripts (faster!)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
