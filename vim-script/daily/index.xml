@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-01T01:48:06Z</updated>
+  <updated>2023-03-02T01:46:35Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abeleinin/papyrus</title>
-    <updated>2023-03-01T01:48:06Z</updated>
-    <id>tag:github.com,2023-03-01:/abeleinin/papyrus</id>
-    <link href="https://github.com/abeleinin/papyrus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📜 Papyrus: Pandoc integration for automatic Markdown file conversion in Vim!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Makazone/my_vim_set</title>
+    <updated>2023-03-02T01:46:35Z</updated>
+    <id>tag:github.com,2023-03-02:/Makazone/my_vim_set</id>
+    <link href="https://github.com/Makazone/my_vim_set" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>catppuccin/vim</title>
-    <updated>2023-03-01T01:48:06Z</updated>
-    <id>tag:github.com,2023-03-01:/catppuccin/vim</id>
-    <link href="https://github.com/catppuccin/vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧋 Soothing pastel theme for Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flyfeifan/Vundle</title>
+    <updated>2023-03-02T01:46:35Z</updated>
+    <id>tag:github.com,2023-03-02:/flyfeifan/Vundle</id>
+    <link href="https://github.com/flyfeifan/Vundle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://github.com/VundleVim/Vundle.vim.git&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>slariviere/dotfiles</title>
-    <updated>2023-03-01T01:48:06Z</updated>
-    <id>tag:github.com,2023-03-01:/slariviere/dotfiles</id>
-    <link href="https://github.com/slariviere/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A set of vim, zsh, git, and tmux configuration files.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itchyny/vim-cursorword</title>
+    <updated>2023-03-02T01:46:35Z</updated>
+    <id>tag:github.com,2023-03-02:/itchyny/vim-cursorword</id>
+    <link href="https://github.com/itchyny/vim-cursorword" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Underlines the word under the cursor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

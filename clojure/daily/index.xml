@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-01T01:33:10Z</updated>
+  <updated>2023-03-02T01:32:31Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>roman01la/minimax</title>
-    <updated>2023-03-01T01:33:10Z</updated>
-    <id>tag:github.com,2023-03-01:/roman01la/minimax</id>
-    <link href="https://github.com/roman01la/minimax" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimalist 3D game engine in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bouzuya/clj-github-counter</title>
-    <updated>2023-03-01T01:33:10Z</updated>
-    <id>tag:github.com,2023-03-01:/bouzuya/clj-github-counter</id>
-    <link href="https://github.com/bouzuya/clj-github-counter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitHub Counter is command-line utility to count your github account metrics.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jfinken/clong</title>
+    <updated>2023-03-02T01:32:31Z</updated>
+    <id>tag:github.com,2023-03-02:/jfinken/clong</id>
+    <link href="https://github.com/jfinken/clong" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-01T01:33:18Z</updated>
+  <updated>2023-03-02T01:32:37Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>starokurov/otus-cpp</title>
-    <updated>2023-03-01T01:33:18Z</updated>
-    <id>tag:github.com,2023-03-01:/starokurov/otus-cpp</id>
-    <link href="https://github.com/starokurov/otus-cpp" rel="alternate"></link>
+    <title>ManchesterRoboticsLtd/TE3001B_Robotics_Foundation</title>
+    <updated>2023-03-02T01:32:37Z</updated>
+    <id>tag:github.com,2023-03-02:/ManchesterRoboticsLtd/TE3001B_Robotics_Foundation</id>
+    <link href="https://github.com/ManchesterRoboticsLtd/TE3001B_Robotics_Foundation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TE3001B Repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eve-autonomy/v2i_interface_msgs</title>
+    <updated>2023-03-02T01:32:37Z</updated>
+    <id>tag:github.com,2023-03-02:/eve-autonomy/v2i_interface_msgs</id>
+    <link href="https://github.com/eve-autonomy/v2i_interface_msgs" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-01T01:45:31Z</updated>
+  <updated>2023-03-02T01:44:01Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AndreeaC24/IceCream</title>
-    <updated>2023-03-01T01:45:31Z</updated>
-    <id>tag:github.com,2023-03-01:/AndreeaC24/IceCream</id>
-    <link href="https://github.com/AndreeaC24/IceCream" rel="alternate"></link>
+    <title>dxp10/mysite</title>
+    <updated>2023-03-02T01:44:01Z</updated>
+    <id>tag:github.com,2023-03-02:/dxp10/mysite</id>
+    <link href="https://github.com/dxp10/mysite" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ovh/design-system</title>
+    <updated>2023-03-02T01:44:01Z</updated>
+    <id>tag:github.com,2023-03-02:/ovh/design-system</id>
+    <link href="https://github.com/ovh/design-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of assets, guidelines and UI components for building consistent user experiences across OVHcloud products.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

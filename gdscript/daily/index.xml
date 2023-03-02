@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-01T01:36:07Z</updated>
+  <updated>2023-03-02T01:35:02Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-04b-Levels</title>
-    <updated>2023-03-01T01:36:07Z</updated>
-    <id>tag:github.com,2023-03-01:/BL-MSCH-C220/Exercise-04b-Levels</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-04b-Levels" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BL-MSCH-C220/Exercise-04b-State-Machine</title>
-    <updated>2023-03-01T01:36:07Z</updated>
-    <id>tag:github.com,2023-03-01:/BL-MSCH-C220/Exercise-04b-State-Machine</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-04b-State-Machine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yanorax/Godot-VertexAnimation-Demo</title>
+    <updated>2023-03-02T01:35:02Z</updated>
+    <id>tag:github.com,2023-03-02:/yanorax/Godot-VertexAnimation-Demo</id>
+    <link href="https://github.com/yanorax/Godot-VertexAnimation-Demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vertex Animation Demo Project for Godot Engine v3.3+&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

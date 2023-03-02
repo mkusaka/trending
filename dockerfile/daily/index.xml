@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-01T01:34:46Z</updated>
+  <updated>2023-03-02T01:33:45Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>karaage0703/FlexGen-docker</title>
+    <updated>2023-03-02T01:33:45Z</updated>
+    <id>tag:github.com,2023-03-02:/karaage0703/FlexGen-docker</id>
+    <link href="https://github.com/karaage0703/FlexGen-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FlexGen with docker&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FlexGen-docker&lt;/h1&gt; &#xA;&lt;p&gt;FlexGen with docker&lt;/p&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;p&gt;Install Docker.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ git clone https://github.com/karaage0703/FlexGen-docker&#xA;$ cd FlexGen-docker&#xA;$ docker build -t ubuntu:FlexGen .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Execute following command in FlexGen-docker directory.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;$ docker run -it -v $(pwd):/root --gpus all ubuntu:FlexGen&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;In container, execute following commands.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;root@hostname:/# cd FlexGen&#xA;root@hostname:/FlexGen# python3 apps/chatbot.py --model facebook/opt-6.7b --compress-weight&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Reference&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://agirobots.com/flexgen/&#34;&gt;https://agirobots.com/flexgen/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>comp423-23s/rd05-sqlalchemy</title>
+    <updated>2023-03-02T01:33:45Z</updated>
+    <id>tag:github.com,2023-03-02:/comp423-23s/rd05-sqlalchemy</id>
+    <link href="https://github.com/comp423-23s/rd05-sqlalchemy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;SqlAlchemy Tutorial&lt;/h1&gt; &#xA;&lt;p&gt;This DevContainer is setup for experimentation with SqlAlchemy and to follow its Unified Tutorial:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://docs.sqlalchemy.org/en/20/tutorial/index.html&#34;&gt;https://docs.sqlalchemy.org/en/20/tutorial/index.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Python 3.11 and SqlAlchemy 2.0 are pre-installed once this DevContainer is built.&lt;/p&gt;</summary>
+  </entry>
 </feed>

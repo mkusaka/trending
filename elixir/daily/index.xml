@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-01T01:35:19Z</updated>
+  <updated>2023-03-02T01:34:13Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nickjj/docker-phoenix-example</title>
-    <updated>2023-03-01T01:35:19Z</updated>
-    <id>tag:github.com,2023-03-01:/nickjj/docker-phoenix-example</id>
-    <link href="https://github.com/nickjj/docker-phoenix-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A production ready example Phoenix app that&#39;s using Docker and Docker Compose.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>frankdugan3/phlegethon</title>
+    <updated>2023-03-02T01:34:13Z</updated>
+    <id>tag:github.com,2023-03-02:/frankdugan3/phlegethon</id>
+    <link href="https://github.com/frankdugan3/phlegethon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Ash user interface extension with smart Phoenix components.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>avenueplace/sns</title>
-    <updated>2023-03-01T01:35:19Z</updated>
-    <id>tag:github.com,2023-03-01:/avenueplace/sns</id>
-    <link href="https://github.com/avenueplace/sns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plug-based wrapper around SNS pub/sub subscriptions used internally at Avenue.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>woutdp/live_svelte</title>
+    <updated>2023-03-02T01:34:13Z</updated>
+    <id>tag:github.com,2023-03-02:/woutdp/live_svelte</id>
+    <link href="https://github.com/woutdp/live_svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Render Svelte directly into Phoenix LiveView with E2E reactivity.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

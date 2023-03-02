@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-01T01:30:01Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-03-02T01:30:10Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>VinsonLaro/stable-diffusion-webui-chinese</title>
-    <updated>2023-03-01T01:30:01Z</updated>
-    <id>tag:github.com,2023-03-01:/VinsonLaro/stable-diffusion-webui-chinese</id>
-    <link href="https://github.com/VinsonLaro/stable-diffusion-webui-chinese" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;stable-diffusion-webui 的汉化版本&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MoyGcc/vid2avatar</title>
+    <updated>2023-03-02T01:30:10Z</updated>
+    <id>tag:github.com,2023-03-02:/MoyGcc/vid2avatar</id>
+    <link href="https://github.com/MoyGcc/vid2avatar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition (CVPR2023)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NVlabs/VoxFormer</title>
-    <updated>2023-03-01T01:30:01Z</updated>
-    <id>tag:github.com,2023-03-01:/NVlabs/VoxFormer</id>
-    <link href="https://github.com/NVlabs/VoxFormer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[CVPR 2023] A Cutting-edge Baseline for 3D Semantic Occupancy Prediction&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rizemon/exploit-writing-for-oswe</title>
-    <updated>2023-03-01T01:30:01Z</updated>
-    <id>tag:github.com,2023-03-01:/rizemon/exploit-writing-for-oswe</id>
-    <link href="https://github.com/rizemon/exploit-writing-for-oswe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tips on how to write exploit scripts (faster!)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>7-sevens/Developer-Books</title>
+    <updated>2023-03-02T01:30:10Z</updated>
+    <id>tag:github.com,2023-03-02:/7-sevens/Developer-Books</id>
+    <link href="https://github.com/7-sevens/Developer-Books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;编程开发相关书籍整理分享，持续更新...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
