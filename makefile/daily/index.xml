@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-02T01:39:03Z</updated>
+  <updated>2023-03-03T02:25:45Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>haiiiiiyun/awesome-selfhosted-cn</title>
+    <updated>2023-03-03T02:25:45Z</updated>
+    <id>tag:github.com,2023-03-03:/haiiiiiyun/awesome-selfhosted-cn</id>
+    <link href="https://github.com/haiiiiiyun/awesome-selfhosted-cn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;可以在本地搭建的网络服务和 Web 应用列表。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stanford-cs45/win23-a6</title>
+    <updated>2023-03-03T02:25:45Z</updated>
+    <id>tag:github.com,2023-03-03:/stanford-cs45/win23-a6</id>
+    <link href="https://github.com/stanford-cs45/win23-a6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-02T01:30:10Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-03-03T02:15:49Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MoyGcc/vid2avatar</title>
-    <updated>2023-03-02T01:30:10Z</updated>
-    <id>tag:github.com,2023-03-02:/MoyGcc/vid2avatar</id>
-    <link href="https://github.com/MoyGcc/vid2avatar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition (CVPR2023)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>amusi/CVPR2023-Papers-with-Code</title>
+    <updated>2023-03-03T02:15:49Z</updated>
+    <id>tag:github.com,2023-03-03:/amusi/CVPR2023-Papers-with-Code</id>
+    <link href="https://github.com/amusi/CVPR2023-Papers-with-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVPR 2023 论文和开源项目合集&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>7-sevens/Developer-Books</title>
-    <updated>2023-03-02T01:30:10Z</updated>
-    <id>tag:github.com,2023-03-02:/7-sevens/Developer-Books</id>
-    <link href="https://github.com/7-sevens/Developer-Books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;编程开发相关书籍整理分享，持续更新...&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ddotta/awesome-polars</title>
+    <updated>2023-03-03T02:15:49Z</updated>
+    <id>tag:github.com,2023-03-03:/ddotta/awesome-polars</id>
+    <link href="https://github.com/ddotta/awesome-polars" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Polars talks, tools, examples &amp; articles. Contributions welcome !&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>extreme-assistant/CVPR2023-Paper-Code-Interpretation</title>
+    <updated>2023-03-03T02:15:49Z</updated>
+    <id>tag:github.com,2023-03-03:/extreme-assistant/CVPR2023-Paper-Code-Interpretation</id>
+    <link href="https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

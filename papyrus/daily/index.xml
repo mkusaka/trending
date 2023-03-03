@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Papyrus Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-02T01:40:51Z</updated>
+  <updated>2023-03-03T02:27:40Z</updated>
   <subtitle>Daily Trending of Papyrus in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SkyrimLL/SkLLmods</title>
-    <updated>2023-03-02T01:40:51Z</updated>
-    <id>tag:github.com,2023-03-02:/SkyrimLL/SkLLmods</id>
-    <link href="https://github.com/SkyrimLL/SkLLmods" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[Obsolete] Legacy repo for Personal compilation of Skyrim mods created for LL.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SkyrimLL/Skyrim</title>
+    <updated>2023-03-03T02:27:40Z</updated>
+    <id>tag:github.com,2023-03-03:/SkyrimLL/Skyrim</id>
+    <link href="https://github.com/SkyrimLL/Skyrim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mods for Skyrim (both Legendary and Special/Anniversary editions)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

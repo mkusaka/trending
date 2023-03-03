@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-02T01:46:45Z</updated>
+  <updated>2023-03-03T02:33:44Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nichealpham/minishop-composer</title>
+    <updated>2023-03-03T02:33:44Z</updated>
+    <id>tag:github.com,2023-03-03:/nichealpham/minishop-composer</id>
+    <link href="https://github.com/nichealpham/minishop-composer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker composer to run an open version of Minishop&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

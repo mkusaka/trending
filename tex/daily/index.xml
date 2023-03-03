@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-02T01:45:44Z</updated>
+  <updated>2023-03-03T02:32:44Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rjkyng/agao23_script</title>
-    <updated>2023-03-02T01:45:44Z</updated>
-    <id>tag:github.com,2023-03-02:/rjkyng/agao23_script</id>
-    <link href="https://github.com/rjkyng/agao23_script" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notes for the course https://kyng.inf.ethz.ch/courses/AGAO23/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;agao23_script&lt;/h1&gt; &#xA;&lt;p&gt;Notes for the course &lt;a href=&#34;https://kyng.inf.ethz.ch/courses/AGAO23/&#34;&gt;https://kyng.inf.ethz.ch/courses/AGAO23/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

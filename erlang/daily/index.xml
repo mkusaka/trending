@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-02T01:34:33Z</updated>
+  <updated>2023-03-03T02:21:02Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tsloughter/rebar3_erlydtl_plugin</title>
-    <updated>2023-03-02T01:34:33Z</updated>
-    <id>tag:github.com,2023-03-02:/tsloughter/rebar3_erlydtl_plugin</id>
-    <link href="https://github.com/tsloughter/rebar3_erlydtl_plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rebar3 Erlydtl Plugin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>flodihn/NextGen</title>
+    <updated>2023-03-03T02:21:02Z</updated>
+    <id>tag:github.com,2023-03-03:/flodihn/NextGen</id>
+    <link href="https://github.com/flodihn/NextGen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NextGen&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

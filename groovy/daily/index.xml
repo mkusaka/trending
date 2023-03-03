@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-02T01:35:43Z</updated>
+  <updated>2023-03-03T02:22:28Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wcm-io-devops/jenkins-pipeline-library</title>
-    <updated>2023-03-02T01:35:43Z</updated>
-    <id>tag:github.com,2023-03-02:/wcm-io-devops/jenkins-pipeline-library</id>
-    <link href="https://github.com/wcm-io-devops/jenkins-pipeline-library" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;wcm.io Jenkins Pipeline Library for CI/CD&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MinecraftForge/GroovyDSLImprover</title>
+    <updated>2023-03-03T02:22:28Z</updated>
+    <id>tag:github.com,2023-03-03:/MinecraftForge/GroovyDSLImprover</id>
+    <link href="https://github.com/MinecraftForge/GroovyDSLImprover" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>onBass-naga/sampleHeroku</title>
+    <updated>2023-03-03T02:22:28Z</updated>
+    <id>tag:github.com,2023-03-03:/onBass-naga/sampleHeroku</id>
+    <link href="https://github.com/onBass-naga/sampleHeroku" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

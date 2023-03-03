@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-02T01:47:28Z</updated>
+  <updated>2023-03-03T02:34:26Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>davidgm94/rise</title>
-    <updated>2023-03-02T01:47:28Z</updated>
-    <id>tag:github.com,2023-03-02:/davidgm94/rise</id>
-    <link href="https://github.com/davidgm94/rise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A better operating system&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
