@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:28:20Z</updated>
+  <updated>2023-03-04T01:42:25Z</updated>
   <subtitle>Daily Trending of PLSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>utPLSQL/utPLSQL</title>
-    <updated>2023-03-03T02:28:20Z</updated>
-    <id>tag:github.com,2023-03-03:/utPLSQL/utPLSQL</id>
-    <link href="https://github.com/utPLSQL/utPLSQL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Testing Framework for PL/SQL&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

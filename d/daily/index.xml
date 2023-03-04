@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:19:33Z</updated>
+  <updated>2023-03-04T01:32:35Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>glebsts/androged</title>
-    <updated>2023-03-03T02:19:33Z</updated>
-    <id>tag:github.com,2023-03-03:/glebsts/androged</id>
-    <link href="https://github.com/glebsts/androged" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Android port of Generalized Edit Distance web application&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

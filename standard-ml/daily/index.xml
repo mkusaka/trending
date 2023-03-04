@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Standard ML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:31:52Z</updated>
+  <updated>2023-03-04T01:46:12Z</updated>
   <subtitle>Daily Trending of Standard ML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>diku-dk/mlkit-pldi23-parreg</title>
+    <updated>2023-03-04T01:46:12Z</updated>
+    <id>tag:github.com,2023-03-04:/diku-dk/mlkit-pldi23-parreg</id>
+    <link href="https://github.com/diku-dk/mlkit-pldi23-parreg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Artifact for PLDI 23 paper&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

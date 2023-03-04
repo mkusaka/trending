@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:33:33Z</updated>
+  <updated>2023-03-04T01:48:02Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wgallios/Vundle.vim</title>
+    <updated>2023-03-04T01:48:02Z</updated>
+    <id>tag:github.com,2023-03-04:/wgallios/Vundle.vim</id>
+    <link href="https://github.com/wgallios/Vundle.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shawnewallace/VimSettings</title>
+    <updated>2023-03-04T01:48:02Z</updated>
+    <id>tag:github.com,2023-03-04:/shawnewallace/VimSettings</id>
+    <link href="https://github.com/shawnewallace/VimSettings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These are my personal vim settings and add-ins.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

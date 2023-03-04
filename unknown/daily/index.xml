@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:15:49Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-03-04T01:29:27Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>amusi/CVPR2023-Papers-with-Code</title>
-    <updated>2023-03-03T02:15:49Z</updated>
-    <id>tag:github.com,2023-03-03:/amusi/CVPR2023-Papers-with-Code</id>
-    <link href="https://github.com/amusi/CVPR2023-Papers-with-Code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CVPR 2023 论文和开源项目合集&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nbats/FMHY</title>
+    <updated>2023-03-04T01:29:27Z</updated>
+    <id>tag:github.com,2023-03-04:/nbats/FMHY</id>
+    <link href="https://github.com/nbats/FMHY" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;/r/FREEMEDIAHECKYEAH&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ddotta/awesome-polars</title>
-    <updated>2023-03-03T02:15:49Z</updated>
-    <id>tag:github.com,2023-03-03:/ddotta/awesome-polars</id>
-    <link href="https://github.com/ddotta/awesome-polars" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of Polars talks, tools, examples &amp; articles. Contributions welcome !&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devsyedmohsin/css-tips-tricks</title>
+    <updated>2023-03-04T01:29:27Z</updated>
+    <id>tag:github.com,2023-03-04:/devsyedmohsin/css-tips-tricks</id>
+    <link href="https://github.com/devsyedmohsin/css-tips-tricks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A handmade collection of pro css tips tricks. Give it a star if you find it useful 🌟&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>extreme-assistant/CVPR2023-Paper-Code-Interpretation</title>
-    <updated>2023-03-03T02:15:49Z</updated>
-    <id>tag:github.com,2023-03-03:/extreme-assistant/CVPR2023-Paper-Code-Interpretation</id>
-    <link href="https://github.com/extreme-assistant/CVPR2023-Paper-Code-Interpretation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cvpr2022/cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AobingJava/JavaFamily</title>
+    <updated>2023-03-04T01:29:27Z</updated>
+    <id>tag:github.com,2023-03-04:/AobingJava/JavaFamily</id>
+    <link href="https://github.com/AobingJava/JavaFamily" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

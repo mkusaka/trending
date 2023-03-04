@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:26:30Z</updated>
+  <updated>2023-03-04T01:40:26Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Obmondo/k8id</title>
-    <updated>2023-03-03T02:26:30Z</updated>
-    <id>tag:github.com,2023-03-03:/Obmondo/k8id</id>
-    <link href="https://github.com/Obmondo/k8id" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;K8id - Kubernetes Aid - a FOSS management suite for Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

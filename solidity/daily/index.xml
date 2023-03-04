@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:31:42Z</updated>
+  <updated>2023-03-04T01:46:00Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AmadiMichael/UniswapV2-Huff</title>
-    <updated>2023-03-03T02:31:42Z</updated>
-    <id>tag:github.com,2023-03-03:/AmadiMichael/UniswapV2-Huff</id>
-    <link href="https://github.com/AmadiMichael/UniswapV2-Huff" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Uniswap V2 contracts rewritten in low-level Huff language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>eugenioclrc/huffswap</title>
-    <updated>2023-03-03T02:31:42Z</updated>
-    <id>tag:github.com,2023-03-03:/eugenioclrc/huffswap</id>
-    <link href="https://github.com/eugenioclrc/huffswap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The world most gas efficient AMM implementation written in Huff based on Uniswap V1 implementation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>obatirou/HuffFaucet</title>
-    <updated>2023-03-03T02:31:42Z</updated>
-    <id>tag:github.com,2023-03-03:/obatirou/HuffFaucet</id>
-    <link href="https://github.com/obatirou/HuffFaucet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jcr-security/solidity-security-teaching-resources</title>
+    <updated>2023-03-04T01:46:00Z</updated>
+    <id>tag:github.com,2023-03-04:/jcr-security/solidity-security-teaching-resources</id>
+    <link href="https://github.com/jcr-security/solidity-security-teaching-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Teaching material about common vulnerabilities of Solidity smart contracts that I use during my lectures&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

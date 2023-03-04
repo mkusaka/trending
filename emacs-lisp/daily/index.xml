@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:20:38Z</updated>
+  <updated>2023-03-04T01:33:48Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tarsius/minions</title>
-    <updated>2023-03-03T02:20:38Z</updated>
-    <id>tag:github.com,2023-03-03:/tarsius/minions</id>
-    <link href="https://github.com/tarsius/minions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minor-mode menu for the mode line&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;A minor-mode menu for the mode line&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;This package implements a nested menu that gives access to all minor modes. It can be used to toggle local and global minor modes, to access mode-specific menus, and to display information about modes.&lt;/p&gt; &#xA;&lt;p&gt;This menu is intended as a replacement for the incomplete, yet quite space consuming, list of enabled minor modes that is displayed in the mode line by default. To use the menu like this, enable Minions mode.&lt;/p&gt; &#xA;&lt;p&gt;Alternatively the menu can be bound globally, for example:&lt;/p&gt; &#xA;&lt;p&gt;#+begin_src emacs-lisp (global-set-key [S-down-mouse-3] &#39;minions-minor-modes-menu) #+end_src&lt;/p&gt; &#xA;&lt;p&gt;[[http://readme.emacsair.me/minions.png]]&lt;/p&gt; &#xA;&lt;p&gt;Compatibility information can be found [[https://github.com/tarsius/minions/wiki][here]].&lt;/p&gt; &#xA;&lt;p&gt;#+html: &lt;br&gt;&lt;br&gt; #+html: &lt;a href=&#34;https://github.com/tarsius/minions/actions/workflows/compile.yml&#34;&gt;&lt;img alt=&#34;Compile&#34; src=&#34;https://github.com/tarsius/minions/actions/workflows/compile.yml/badge.svg?sanitize=true&#34;&gt;&lt;/a&gt; #+html: &lt;a href=&#34;https://stable.melpa.org/#/minions&#34;&gt;&lt;img alt=&#34;MELPA Stable&#34; src=&#34;https://stable.melpa.org/packages/minions-badge.svg?sanitize=true&#34;&gt;&lt;/a&gt; #+html: &lt;a href=&#34;https://melpa.org/#/minions&#34;&gt;&lt;img alt=&#34;MELPA&#34; src=&#34;https://melpa.org/packages/minions-badge.svg?sanitize=true&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>ningzhou/Emacs</title>
-    <updated>2023-03-03T02:20:38Z</updated>
-    <id>tag:github.com,2023-03-03:/ningzhou/Emacs</id>
-    <link href="https://github.com/ningzhou/Emacs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Emacs Configuration&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This repository keeps my emacs configuration&lt;/p&gt; &#xA;&lt;p&gt;Created: Thu 03 Jan 2013 08:21:27 PM EST&lt;/p&gt; &#xA;&lt;h1&gt;Install&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-Shell&#34;&gt;cd ~&#xA;git clone https://github.com/ningzhou/Emacs.git .emacs.d&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

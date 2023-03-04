@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:32:44Z</updated>
+  <updated>2023-03-04T01:47:02Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jovyntls/cheatsheets</title>
+    <updated>2023-03-04T01:47:02Z</updated>
+    <id>tag:github.com,2023-03-04:/jovyntls/cheatsheets</id>
+    <link href="https://github.com/jovyntls/cheatsheets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NUS CS, math &amp; statistics cheatsheets&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NUS Cheatsheets&lt;/h1&gt; &#xA;&lt;p&gt;A compilation of my notes and exam cheatsheets for NUS courses (math/computing/statistics)&lt;/p&gt; &#xA;&lt;p&gt;If you find any typos please let me know! Thank you :)&lt;/p&gt; &#xA;&lt;h2&gt;Contents&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;strong&gt;AY20/21 S1&lt;/strong&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;CS1231S&lt;/li&gt; &#xA;   &lt;li&gt;MA1521&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;strong&gt;AY20/21 S2&lt;/strong&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;CS2030S&lt;/li&gt; &#xA;   &lt;li&gt;CS2040S&lt;/li&gt; &#xA;   &lt;li&gt;MA1101R -&amp;gt; renamed &lt;strong&gt;MA2001&lt;/strong&gt; as of AY21/22&lt;/li&gt; &#xA;   &lt;li&gt;MA1102R -&amp;gt; renamed &lt;strong&gt;MA2002&lt;/strong&gt; as of AY21/22&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;strong&gt;AY21/22 S1&lt;/strong&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;CS2100&lt;/li&gt; &#xA;   &lt;li&gt;CS2102&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;strong&gt;AY21/22 S2&lt;/strong&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;CS3230&lt;/li&gt; &#xA;   &lt;li&gt;ST2131/MA2216&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; &lt;strong&gt;AY22/23 S2&lt;/strong&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;CS3223&lt;/li&gt; &#xA;   &lt;li&gt;CS3236&lt;/li&gt; &#xA;   &lt;li&gt;CS4231&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Useful resources&lt;/h2&gt; &#xA;&lt;p&gt;(aka tabs to keep open for open-internet exams)&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.wolframalpha.com/&#34;&gt;Wolfram Alpha&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.geogebra.org/calculator&#34;&gt;Geogebra&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.desmos.com/calculator&#34;&gt;Desmos&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://matlab.mathworks.com/&#34;&gt;Matlab Online&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:25:45Z</updated>
+  <updated>2023-03-04T01:39:39Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>haiiiiiyun/awesome-selfhosted-cn</title>
-    <updated>2023-03-03T02:25:45Z</updated>
-    <id>tag:github.com,2023-03-03:/haiiiiiyun/awesome-selfhosted-cn</id>
-    <link href="https://github.com/haiiiiiyun/awesome-selfhosted-cn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;可以在本地搭建的网络服务和 Web 应用列表。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uber-go/guide</title>
+    <updated>2023-03-04T01:39:39Z</updated>
+    <id>tag:github.com,2023-03-04:/uber-go/guide</id>
+    <link href="https://github.com/uber-go/guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Uber Go Style Guide.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>stanford-cs45/win23-a6</title>
-    <updated>2023-03-03T02:25:45Z</updated>
-    <id>tag:github.com,2023-03-03:/stanford-cs45/win23-a6</id>
-    <link href="https://github.com/stanford-cs45/win23-a6" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hmcts/chart-job</title>
+    <updated>2023-03-04T01:39:39Z</updated>
+    <id>tag:github.com,2023-03-04:/hmcts/chart-job</id>
+    <link href="https://github.com/hmcts/chart-job" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart repository for Kubernetes Jobs and Cron Jobs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hmcts/chart-java</title>
+    <updated>2023-03-04T01:39:39Z</updated>
+    <id>tag:github.com,2023-03-04:/hmcts/chart-java</id>
+    <link href="https://github.com/hmcts/chart-java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart for Java microservices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

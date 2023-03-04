@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-03T02:21:02Z</updated>
+  <updated>2023-03-04T01:34:09Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ShyAlex/scheme-ish</title>
-    <updated>2023-03-03T02:21:02Z</updated>
-    <id>tag:github.com,2023-03-03:/ShyAlex/scheme-ish</id>
-    <link href="https://github.com/ShyAlex/scheme-ish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An effort at an interpreter for a Scheme-like language featuring a graphical display of the evaluation process.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ShyAlex.Scheme&lt;/h1&gt; &#xA;&lt;p&gt;ShyAlex.Scheme is an interpreter for a Scheme-like language, which features a graphical display of the evaluation process.&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;I &lt;em&gt;really&lt;/em&gt; have no idea what I&#39;m doing. This is just me having a bash at something I found interesting.&lt;/p&gt; &#xA;&lt;h2&gt;About&lt;/h2&gt; &#xA;&lt;p&gt;The project&#39;s written in a mixture of F# and C#. Opening the solution properly requires a full version of Visual Studio 2010, although opening it in the free editions (Visual C# Express and the VS 2010 shell + F#) will allow you to work with the projects which use the appropriate language.&lt;/p&gt; &#xA;&lt;p&gt;Building simply requires the .NET 4.0 SDK - the script Build/Build.bat can be run at the command line in the Build directory to build everything. Similarly you can run the NUnit tests with the Test.bat script.&lt;/p&gt; &#xA;&lt;p&gt;ShyAlex.Scheme.Console is a CLI for the interpreter. The CLI will print out intermediate steps in the evaluation process and the contents of the environment.&lt;/p&gt; &#xA;&lt;p&gt;ShyAlex.Scheme.Debugger is a GUI for the interpreter, which features a graphical display of the evaluation process.&lt;/p&gt; &#xA;&lt;p&gt;See ShyAlex.Scheme.Samples for programs which will work with the interpreter (they&#39;re used for the tests and in the GUI app).&lt;/p&gt;</summary>
-  </entry>
 </feed>
