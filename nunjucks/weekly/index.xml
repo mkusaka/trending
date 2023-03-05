@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nunjucks Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-05T01:56:31Z</updated>
+  <subtitle>Weekly Trending of Nunjucks in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>duffn/dumb-password-rules</title>
+    <updated>2023-03-05T01:56:31Z</updated>
+    <id>tag:github.com,2023-03-05:/duffn/dumb-password-rules</id>
+    <link href="https://github.com/duffn/dumb-password-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A compilation of sites with dumb password rules.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ericwbailey/a11y-webring.club</title>
+    <updated>2023-03-05T01:56:31Z</updated>
+    <id>tag:github.com,2023-03-05:/ericwbailey/a11y-webring.club</id>
+    <link href="https://github.com/ericwbailey/a11y-webring.club" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌐 A webring for digital accessibility practitioners.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-05T01:47:32Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>otoyo/astro-notion-blog</title>
+    <updated>2023-03-05T01:47:32Z</updated>
+    <id>tag:github.com,2023-03-05:/otoyo/astro-notion-blog</id>
+    <link href="https://github.com/otoyo/astro-notion-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Let&#39;s start your own Notion Blog with Astro.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

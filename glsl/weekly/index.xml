@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GLSL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-05T01:51:56Z</updated>
+  <subtitle>Weekly Trending of GLSL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gematik/api-app-transport-framework</title>
+    <updated>2023-03-05T01:51:56Z</updated>
+    <id>tag:github.com,2023-03-05:/gematik/api-app-transport-framework</id>
+    <link href="https://github.com/gematik/api-app-transport-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;api-app-transport-framework is a FHIR framework for applications that transfer data via KIM or TIM, making it easier for primary systems to integrate new TI applications.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-04T01:29:27Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-03-05T01:30:03Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nbats/FMHY</title>
-    <updated>2023-03-04T01:29:27Z</updated>
-    <id>tag:github.com,2023-03-04:/nbats/FMHY</id>
-    <link href="https://github.com/nbats/FMHY" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;/r/FREEMEDIAHECKYEAH&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/AKS</title>
+    <updated>2023-03-05T01:30:03Z</updated>
+    <id>tag:github.com,2023-03-05:/Azure/AKS</id>
+    <link href="https://github.com/Azure/AKS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Azure Kubernetes Service&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devsyedmohsin/css-tips-tricks</title>
-    <updated>2023-03-04T01:29:27Z</updated>
-    <id>tag:github.com,2023-03-04:/devsyedmohsin/css-tips-tricks</id>
-    <link href="https://github.com/devsyedmohsin/css-tips-tricks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A handmade collection of pro css tips tricks. Give it a star if you find it useful 🌟&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>infosecn1nja/Red-Teaming-Toolkit</title>
+    <updated>2023-03-05T01:30:03Z</updated>
+    <id>tag:github.com,2023-03-05:/infosecn1nja/Red-Teaming-Toolkit</id>
+    <link href="https://github.com/infosecn1nja/Red-Teaming-Toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AobingJava/JavaFamily</title>
-    <updated>2023-03-04T01:29:27Z</updated>
-    <id>tag:github.com,2023-03-04:/AobingJava/JavaFamily</id>
-    <link href="https://github.com/AobingJava/JavaFamily" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet</title>
+    <updated>2023-03-05T01:30:03Z</updated>
+    <id>tag:github.com,2023-03-05:/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet</id>
+    <link href="https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

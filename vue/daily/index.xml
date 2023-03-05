@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-04T01:48:13Z</updated>
+  <updated>2023-03-05T01:45:54Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>likaia/chat-system</title>
-    <updated>2023-03-04T01:48:13Z</updated>
-    <id>tag:github.com,2023-03-04:/likaia/chat-system</id>
-    <link href="https://github.com/likaia/chat-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;本项目是一个在线聊天系统，最大程度的还原了Mac客户端QQ。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>waylaidwanderer/chatgpt-web-client</title>
-    <updated>2023-03-04T01:48:13Z</updated>
-    <id>tag:github.com,2023-03-04:/waylaidwanderer/chatgpt-web-client</id>
-    <link href="https://github.com/waylaidwanderer/chatgpt-web-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a web client for my node-chatgpt-api project&#39;s API server, built using Nuxt 3. Also usable with other compatible API server implementations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

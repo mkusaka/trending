@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub COBOL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-04T01:31:49Z</updated>
+  <updated>2023-03-05T01:32:19Z</updated>
   <subtitle>Daily Trending of COBOL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>azac/cobol-on-wheelchair</title>
-    <updated>2023-03-04T01:31:49Z</updated>
-    <id>tag:github.com,2023-03-04:/azac/cobol-on-wheelchair</id>
-    <link href="https://github.com/azac/cobol-on-wheelchair" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Micro web-framework for COBOL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ThePrimeagen/CHADstack</title>
+    <updated>2023-03-05T01:32:19Z</updated>
+    <id>tag:github.com,2023-03-05:/ThePrimeagen/CHADstack</id>
+    <link href="https://github.com/ThePrimeagen/CHADstack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-05T01:51:15Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>erlware/relx</title>
+    <updated>2023-03-05T01:51:15Z</updated>
+    <id>tag:github.com,2023-03-05:/erlware/relx</id>
+    <link href="https://github.com/erlware/relx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sane, simple release creation for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nomasystems/nqueue</title>
+    <updated>2023-03-05T01:51:15Z</updated>
+    <id>tag:github.com,2023-03-05:/nomasystems/nqueue</id>
+    <link href="https://github.com/nomasystems/nqueue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang library to spawn/manage queues based on ETS public tables.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nomasystems/nthrottle</title>
+    <updated>2023-03-05T01:51:15Z</updated>
+    <id>tag:github.com,2023-03-05:/nomasystems/nthrottle</id>
+    <link href="https://github.com/nomasystems/nthrottle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An ETS-based throttling application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

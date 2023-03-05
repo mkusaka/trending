@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-05T01:46:44Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iggredible/Learn-Vim</title>
+    <updated>2023-03-05T01:46:44Z</updated>
+    <id>tag:github.com,2023-03-05:/iggredible/Learn-Vim</id>
+    <link href="https://github.com/iggredible/Learn-Vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learning Vim and Vimscript doesn&#39;t have to be hard. This is the guide that you&#39;re looking for 📖&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lukasz-madon/awesome-remote-job</title>
+    <updated>2023-03-05T01:46:44Z</updated>
+    <id>tag:github.com,2023-03-05:/lukasz-madon/awesome-remote-job</id>
+    <link href="https://github.com/lukasz-madon/awesome-remote-job" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>safak/youtube23</title>
+    <updated>2023-03-05T01:46:44Z</updated>
+    <id>tag:github.com,2023-03-05:/safak/youtube23</id>
+    <link href="https://github.com/safak/youtube23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lama Dev Season 3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

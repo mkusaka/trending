@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-04T01:46:00Z</updated>
+  <updated>2023-03-05T01:43:56Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jcr-security/solidity-security-teaching-resources</title>
-    <updated>2023-03-04T01:46:00Z</updated>
-    <id>tag:github.com,2023-03-04:/jcr-security/solidity-security-teaching-resources</id>
-    <link href="https://github.com/jcr-security/solidity-security-teaching-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Teaching material about common vulnerabilities of Solidity smart contracts that I use during my lectures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

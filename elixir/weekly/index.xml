@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-05T01:50:40Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elixir-tesla/tesla</title>
+    <updated>2023-03-05T01:50:40Z</updated>
+    <id>tag:github.com,2023-03-05:/elixir-tesla/tesla</id>
+    <link href="https://github.com/elixir-tesla/tesla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The flexible HTTP client library for Elixir, with support for middleware and multiple adapters.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>carsdotcom/req_fuse</title>
+    <updated>2023-03-05T01:50:40Z</updated>
+    <id>tag:github.com,2023-03-05:/carsdotcom/req_fuse</id>
+    <link href="https://github.com/carsdotcom/req_fuse" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ReqFuse is a Req plugin for the fuse circuit-breaker library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

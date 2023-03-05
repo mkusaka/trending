@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub V Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-04T01:47:50Z</updated>
+  <updated>2023-03-05T01:45:34Z</updated>
   <subtitle>Daily Trending of V in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elliotchance/vsql</title>
+    <updated>2023-03-05T01:45:34Z</updated>
+    <id>tag:github.com,2023-03-05:/elliotchance/vsql</id>
+    <link href="https://github.com/elliotchance/vsql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✌️ Single-file or PostgreSQL-server compatible transactional SQL database written in pure V.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

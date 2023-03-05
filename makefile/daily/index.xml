@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-04T01:39:39Z</updated>
+  <updated>2023-03-05T01:38:33Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>uber-go/guide</title>
-    <updated>2023-03-04T01:39:39Z</updated>
-    <id>tag:github.com,2023-03-04:/uber-go/guide</id>
-    <link href="https://github.com/uber-go/guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Uber Go Style Guide.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hmcts/chart-job</title>
-    <updated>2023-03-04T01:39:39Z</updated>
-    <id>tag:github.com,2023-03-04:/hmcts/chart-job</id>
-    <link href="https://github.com/hmcts/chart-job" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart repository for Kubernetes Jobs and Cron Jobs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hmcts/chart-java</title>
-    <updated>2023-03-04T01:39:39Z</updated>
-    <id>tag:github.com,2023-03-04:/hmcts/chart-java</id>
-    <link href="https://github.com/hmcts/chart-java" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart for Java microservices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

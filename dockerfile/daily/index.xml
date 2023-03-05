@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-04T01:33:08Z</updated>
+  <updated>2023-03-05T01:33:30Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>P2Enjoy/kohya_ss-docker</title>
-    <updated>2023-03-04T01:33:08Z</updated>
-    <id>tag:github.com,2023-03-04:/P2Enjoy/kohya_ss-docker</id>
-    <link href="https://github.com/P2Enjoy/kohya_ss-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the tandem repository to exploit on linux the kohya_ss training webui converted to Linux. It uses the fork in the following link&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;kohya_ss-docker&lt;/h1&gt; &#xA;&lt;p&gt;This is the tandem repository to exploit on linux the kohya_ss training webui converted to Linux.&lt;/p&gt; &#xA;&lt;p&gt;Read the data sections for &lt;a href=&#34;https://raw.githubusercontent.com/P2Enjoy/kohya_ss-docker/main/kohya_ss/data&#34;&gt;wheels&lt;/a&gt; and &lt;a href=&#34;https://raw.githubusercontent.com/P2Enjoy/kohya_ss-docker/main/kohya_ss/data/libs&#34;&gt;packages&lt;/a&gt; prior to compiling the image or IT WILL FAIL.&lt;/p&gt; &#xA;&lt;h2&gt;Nvidia Docker Extensions&lt;/h2&gt; &#xA;&lt;p&gt;You will need the docker nvidia extensions, please refer to the installations details here: &lt;a href=&#34;https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#setting-up-nvidia-container-toolkit&#34;&gt;https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#setting-up-nvidia-container-toolkit&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;TK and Xorgs&lt;/h2&gt; &#xA;&lt;p&gt;Remember to allow docker hosts to clients to your X server.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;# Unsecure way to do (I take no responsability if you do this way) !! &#xA;# You should add the exact host but I leave that to you.&#xA;xhost +&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Once you have compiled (or downloaded) the wheels and the debian packages, you can pretty just run it via the &lt;code&gt;docker compose --profile kohya up --build&lt;/code&gt; and wait for the build to finish.&lt;br&gt; A message should notify the build is complete and you can access the gui via the link on the console.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;kohya-docker-kohya-1  | Running on local URL:  http://127.0.0.1:7680&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Happy training on Linux!!!&lt;/p&gt;</summary>
+    <title>hmcts/azure-devops-agent</title>
+    <updated>2023-03-05T01:33:30Z</updated>
+    <id>tag:github.com,2023-03-05:/hmcts/azure-devops-agent</id>
+    <link href="https://github.com/hmcts/azure-devops-agent" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;azure-devops-agent&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Docker image for running self-hosted ADO agents.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>compilenix/build-freerdp</title>
+    <updated>2023-03-05T01:33:30Z</updated>
+    <id>tag:github.com,2023-03-05:/compilenix/build-freerdp</id>
+    <link href="https://github.com/compilenix/build-freerdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Build FreeRDP&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;git clone https://git.compilenix.org/CompileNix/build-freerdp.git&#xA;cd build-freerdp&#xA;docker build -t build-freerdp:fedora-33 .&#xA;docker run --rm -it -v $(pwd)/dist:/dist build-freerdp:fedora-33&#xA;ls -la &#34;dist/*.zip&#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>Go-Autonomous/postgres_pg_cron</title>
+    <updated>2023-03-05T01:33:30Z</updated>
+    <id>tag:github.com,2023-03-05:/Go-Autonomous/postgres_pg_cron</id>
+    <link href="https://github.com/Go-Autonomous/postgres_pg_cron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Containerized Postgres 14 with pg_cron extension&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Containerized PostgreSQL 14 with pg_cron&lt;/h1&gt; &#xA;&lt;p&gt;Containerized PostgreSQL 14 with pg_cron extension pre-installed.&lt;/p&gt; &#xA;&lt;h2&gt;Build&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ podman build . -t db&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Run&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ podman run --network host  -e POSTGRES_PASSWORD=postgres db&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Activate &lt;code&gt;pg_cron&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;Connect to the database and run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;# CREATE EXTENSION pg_cron;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>
