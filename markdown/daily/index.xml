@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-05T01:38:30Z</updated>
+  <updated>2023-03-06T01:40:23Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>endeavour-predict/endeavour-predict-upptime</title>
-    <updated>2023-03-05T01:38:30Z</updated>
-    <id>tag:github.com,2023-03-05:/endeavour-predict/endeavour-predict-upptime</id>
-    <link href="https://github.com/endeavour-predict/endeavour-predict-upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Service status pages for Endeavour Predict, powered by Upptime and GitHub Actions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-05T01:35:48Z</updated>
+  <updated>2023-03-06T01:37:22Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>champ-oss/terraform-aws-vpn-tunnel</title>
+    <updated>2023-03-06T01:37:22Z</updated>
+    <id>tag:github.com,2023-03-06:/champ-oss/terraform-aws-vpn-tunnel</id>
+    <link href="https://github.com/champ-oss/terraform-aws-vpn-tunnel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SumoLogic/terraform-sumologic-sumo-logic-monitor</title>
+    <updated>2023-03-06T01:37:22Z</updated>
+    <id>tag:github.com,2023-03-06:/SumoLogic/terraform-sumologic-sumo-logic-monitor</id>
+    <link href="https://github.com/SumoLogic/terraform-sumologic-sumo-logic-monitor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package to setup SumoLogic Alert Monitors via Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-alb-ingress</title>
+    <updated>2023-03-06T01:37:22Z</updated>
+    <id>tag:github.com,2023-03-06:/cloudposse/terraform-aws-alb-ingress</id>
+    <link href="https://github.com/cloudposse/terraform-aws-alb-ingress" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision an HTTP style ingress rule based on hostname and path for an ALB using target groups&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-05T01:41:48Z</updated>
+  <updated>2023-03-06T01:44:08Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arcus/NALMS_Not_Another_LMS</title>
-    <updated>2023-03-05T01:41:48Z</updated>
-    <id>tag:github.com,2023-03-05:/arcus/NALMS_Not_Another_LMS</id>
-    <link href="https://github.com/arcus/NALMS_Not_Another_LMS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NALMS (Not Another LMS)&lt;/h1&gt; &#xA;&lt;p&gt;NALMS is the REDCap project intended to deliver the DART learning pathways to learners.&lt;/p&gt; &#xA;&lt;p&gt;The purpose of this repository is to create the files needed for that project, inlcuding:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;zip files of REDCap Forms&lt;/li&gt; &#xA; &lt;li&gt;ASI (Automated Survey Invitations)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Ultimately a user should be able to create a pathway using section headings and module names, and then generate all files needed to create that pathway on REDCap.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>gsee/FinancialInstrument</title>
-    <updated>2023-03-05T01:41:48Z</updated>
-    <id>tag:github.com,2023-03-05:/gsee/FinancialInstrument</id>
-    <link href="https://github.com/gsee/FinancialInstrument" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mirror of FinancialInstrument on R-Forge; an infrastructure for managing metadata of financial instruments&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;This repository has moved to &lt;a href=&#34;https://github.com/braverock/FinancialInstrument&#34;&gt;/braverock/FinancialInstrument&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;Please go there for the latest version.&lt;/p&gt;</summary>
+    <title>LCR-BCCRC/DLBCL-tumor-evolution</title>
+    <updated>2023-03-06T01:44:08Z</updated>
+    <id>tag:github.com,2023-03-06:/LCR-BCCRC/DLBCL-tumor-evolution</id>
+    <link href="https://github.com/LCR-BCCRC/DLBCL-tumor-evolution" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for the statistical analysis of DLBCL tumor evolution data.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DLBCL Tumor Evolution&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains all code used in the statistical analysis of sequencing data from serial biopsies of patients with relapsed/refractory diffuse large B-cell lymphoma. All R packages used in the analysis can be installed reproducibly with &lt;code&gt;renv&lt;/code&gt;, using any R version 4.1.*.&lt;/p&gt; &#xA;&lt;h2&gt;Sequencing data analysis&lt;/h2&gt; &#xA;&lt;p&gt;Sequencing files were processed outside of this repository using modules from &lt;a href=&#34;https://github.com/LCR-BCCRC/lcr-modules&#34;&gt;LCR-Modules&lt;/a&gt; as follows:&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Sequencing Type&lt;/th&gt; &#xA;   &lt;th&gt;Output&lt;/th&gt; &#xA;   &lt;th&gt;Module(s)&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome, exome, LySeqST&lt;/td&gt; &#xA;   &lt;td&gt;Somatic variant calls&lt;/td&gt; &#xA;   &lt;td&gt;slms_3-1.0, vcf2maf-1.3&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome&lt;/td&gt; &#xA;   &lt;td&gt;Somatic structural variants&lt;/td&gt; &#xA;   &lt;td&gt;svar_master-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome&lt;/td&gt; &#xA;   &lt;td&gt;Copy number&lt;/td&gt; &#xA;   &lt;td&gt;battenberg-1.1&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;exome&lt;/td&gt; &#xA;   &lt;td&gt;Copy number&lt;/td&gt; &#xA;   &lt;td&gt;strelka-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome&lt;/td&gt; &#xA;   &lt;td&gt;Subclonal structure and phylogeny&lt;/td&gt; &#xA;   &lt;td&gt;pyclone-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome, exome, LySeqST&lt;/td&gt; &#xA;   &lt;td&gt;Quality control (coverage metrics)&lt;/td&gt; &#xA;   &lt;td&gt;qc-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome, exome, LySeqST&lt;/td&gt; &#xA;   &lt;td&gt;LymphGen classifications&lt;/td&gt; &#xA;   &lt;td&gt;lymphgen-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;RNAseq&lt;/td&gt; &#xA;   &lt;td&gt;Immunoglobulin rearrangements&lt;/td&gt; &#xA;   &lt;td&gt;bam2fastq-1.2, mixcr-1.2&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt;</summary>
   </entry>
 </feed>

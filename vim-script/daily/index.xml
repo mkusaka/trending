@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-05T01:45:43Z</updated>
+  <updated>2023-03-06T01:48:21Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>allgood38/vim-vhdl</title>
-    <updated>2023-03-05T01:45:43Z</updated>
-    <id>tag:github.com,2023-03-05:/allgood38/vim-vhdl</id>
-    <link href="https://github.com/allgood38/vim-vhdl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>guns/vim-clojure-static</title>
-    <updated>2023-03-05T01:45:43Z</updated>
-    <id>tag:github.com,2023-03-05:/guns/vim-clojure-static</id>
-    <link href="https://github.com/guns/vim-clojure-static" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Meikel Brandmeyer&#39;s excellent Clojure runtime files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tpope/vim-classpath</title>
+    <updated>2023-03-06T01:48:21Z</updated>
+    <id>tag:github.com,2023-03-06:/tpope/vim-classpath</id>
+    <link href="https://github.com/tpope/vim-classpath" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;classpath.vim: Set &#39;path&#39; from the Java class path&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-05T01:45:54Z</updated>
+  <updated>2023-03-06T01:48:31Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ischenliang/quickly-picture-bed</title>
+    <updated>2023-03-06T01:48:31Z</updated>
+    <id>tag:github.com,2023-03-06:/ischenliang/quickly-picture-bed</id>
+    <link href="https://github.com/ischenliang/quickly-picture-bed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;轻快图床：使用koa + vue3.x + typescript全家桶实现的在线图床系统，支持在线存储桶插件开发，目前支持腾讯云COS、又拍云Upyun、阿里云OSS、github图床、gitee图床、本地存储桶、七牛云 KODO等在线图床存储桶。市面上最火的图床系统是picgo，但由于picgo是桌面应用程序，换了新电脑需要重新下载安装配置，十分麻烦，为了解决该问题，故诞生了这款系统。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WongSaang/chatgpt-ui</title>
+    <updated>2023-03-06T01:48:31Z</updated>
+    <id>tag:github.com,2023-03-06:/WongSaang/chatgpt-ui</id>
+    <link href="https://github.com/WongSaang/chatgpt-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web client for ChatGPT. Provides Docker images and also supports quick deployment to servers using shell scripts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

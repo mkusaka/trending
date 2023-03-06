@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-05T01:41:06Z</updated>
+  <updated>2023-03-06T01:43:24Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gxtto23/gxtto23-1</title>
-    <updated>2023-03-05T01:41:06Z</updated>
-    <id>tag:github.com,2023-03-05:/gxtto23/gxtto23-1</id>
-    <link href="https://github.com/gxtto23/gxtto23-1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;gettoVDS&lt;/h1&gt; &#xA;&lt;p&gt;21.02.2023 Kontrol Edilmiştir &lt;a href=&#34;https://discord.gg/gettodigital&#34;&gt;https://discord.gg/gettodigital&lt;/a&gt; - &lt;a href=&#34;https://youtube.com/gettovds&#34;&gt;https://youtube.com/gettovds&lt;/a&gt; - &lt;a href=&#34;https://youtube.com/@gettoreal&#34;&gt;https://youtube.com/@gettoreal&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Harchanel15/RDP-CONNECT-IN-REMOTE-DESKTOP-CHROME</title>
-    <updated>2023-03-05T01:41:06Z</updated>
-    <id>tag:github.com,2023-03-05:/Harchanel15/RDP-CONNECT-IN-REMOTE-DESKTOP-CHROME</id>
-    <link href="https://github.com/Harchanel15/RDP-CONNECT-IN-REMOTE-DESKTOP-CHROME" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;JANGAN LUPA KLIK LINK DIBAWAH INI⚠️⬇️&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://youtube.com/channel/UCqK3KOcJI1dmbyuiTIzlKIA?sub_confirmation=1&#34;&gt;https://youtube.com/channel/UCqK3KOcJI1dmbyuiTIzlKIA?sub_confirmation=1&lt;/a&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;RDP Windows Gratis 6 Jam&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Buat RDP Windows 10 Ram 7GB 2 Core Cpu Dengan Github:&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Kunjungi &lt;a href=&#34;https://remotedesktop.google.com/u/4/headless&#34;&gt;https://remotedesktop.google.com/u/4/headless&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Tekan Mulai&amp;gt;Berikutnya&amp;gt;Izinkan&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Di sebelah kanan Tulisan Windows (PowerShell) Ada Ikon Salin,Klik Aja&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Kembali Ke github&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Pergi Ke Action &amp;lt;Klik Select workflow&amp;lt; Pilih Har Pito,Pencet Run workflow&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Paste Cmd Dari Remote desktop Chrome nya&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Masukin Pin Minimal 6 digit, Lalu Tekan Run workflow&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Refresh Web/halaman dan masuk ke Har Pito&amp;gt; klik build&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;em&gt;Tunggu 1-5 menit&lt;/em&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Kunjungi Link Ini &lt;a href=&#34;https://remotedesktop.google.com/u/4/access&#34;&gt;https://remotedesktop.google.com/u/4/access&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Klik Logo Berbentuk Komputer&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Masukin Pin Yg sudah kalian buat tadi&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Tekan Ikon Panah ➜ Berwarna Biru&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Dan Rdp Pun Siap Digunakan&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>fajar4561/Windows-RDP</title>
+    <updated>2023-03-06T01:43:24Z</updated>
+    <id>tag:github.com,2023-03-06:/fajar4561/Windows-RDP</id>
+    <link href="https://github.com/fajar4561/Windows-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Windows-RDP 6 hours&lt;/h1&gt;</summary>
   </entry>
 </feed>

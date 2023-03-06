@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-05T01:43:14Z</updated>
+  <updated>2023-03-06T01:45:36Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pesoto/pesoto.github.io</title>
-    <updated>2023-03-05T01:43:14Z</updated>
-    <id>tag:github.com,2023-03-05:/pesoto/pesoto.github.io</id>
-    <link href="https://github.com/pesoto/pesoto.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>black7375/Firefox-UI-Fix</title>
-    <updated>2023-03-05T01:43:14Z</updated>
-    <id>tag:github.com,2023-03-05:/black7375/Firefox-UI-Fix</id>
-    <link href="https://github.com/black7375/Firefox-UI-Fix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦊 I respect proton UI and aim to improve it.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-05T01:30:03Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-03-06T01:30:14Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure/AKS</title>
-    <updated>2023-03-05T01:30:03Z</updated>
-    <id>tag:github.com,2023-03-05:/Azure/AKS</id>
-    <link href="https://github.com/Azure/AKS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Azure Kubernetes Service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yu-takagi/StableDiffusionReconstruction</title>
+    <updated>2023-03-06T01:30:14Z</updated>
+    <id>tag:github.com,2023-03-06:/yu-takagi/StableDiffusionReconstruction</id>
+    <link href="https://github.com/yu-takagi/StableDiffusionReconstruction" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Takagi and Nishimoto, CVPR 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>infosecn1nja/Red-Teaming-Toolkit</title>
-    <updated>2023-03-05T01:30:03Z</updated>
-    <id>tag:github.com,2023-03-05:/infosecn1nja/Red-Teaming-Toolkit</id>
-    <link href="https://github.com/infosecn1nja/Red-Teaming-Toolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Renumics/awesome-open-data-centric-ai</title>
+    <updated>2023-03-06T01:30:14Z</updated>
+    <id>tag:github.com,2023-03-06:/Renumics/awesome-open-data-centric-ai</id>
+    <link href="https://github.com/Renumics/awesome-open-data-centric-ai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of open source tooling for data-centric AI on unstructured data.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet</title>
-    <updated>2023-03-05T01:30:03Z</updated>
-    <id>tag:github.com,2023-03-05:/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet</id>
-    <link href="https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>runningcheese/Awesome-ChatGPT</title>
+    <updated>2023-03-06T01:30:14Z</updated>
+    <id>tag:github.com,2023-03-06:/runningcheese/Awesome-ChatGPT</id>
+    <link href="https://github.com/runningcheese/Awesome-ChatGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;奶酪清单：&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
