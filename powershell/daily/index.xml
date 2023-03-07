@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:43:24Z</updated>
+  <updated>2023-03-07T01:43:54Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fajar4561/Windows-RDP</title>
-    <updated>2023-03-06T01:43:24Z</updated>
-    <id>tag:github.com,2023-03-06:/fajar4561/Windows-RDP</id>
-    <link href="https://github.com/fajar4561/Windows-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Windows-RDP 6 hours&lt;/h1&gt;</summary>
+    <title>AngryGroceries/Apex_Superglide_Practice_Tool</title>
+    <updated>2023-03-07T01:43:54Z</updated>
+    <id>tag:github.com,2023-03-07:/AngryGroceries/Apex_Superglide_Practice_Tool</id>
+    <link href="https://github.com/AngryGroceries/Apex_Superglide_Practice_Tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Apex_Superglide_Practice_Tool&lt;/h1&gt; &#xA;&lt;p&gt;Authors&lt;/p&gt; &#xA;&lt;p&gt;JayTheYggdrasil @ &lt;a href=&#34;https://github.com/JayTheYggdrasil&#34;&gt;https://github.com/JayTheYggdrasil&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;AngryGroceries @ &lt;a href=&#34;https://github.com/AngryGroceries&#34;&gt;https://github.com/AngryGroceries&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;How to use:&lt;/p&gt; &#xA;&lt;p&gt;Click on the link for the Superglide Practice Tool either above or here: &lt;a href=&#34;https://github.com/AngryGroceries/Apex_Superglide_Practice_Tool/raw/main/Practice%20Tool.ps1&#34;&gt;https://github.com/AngryGroceries/Apex_Superglide_Practice_Tool/blob/main/Practice%20Tool.ps1&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Windows operating systems will already have &#34;Windows Powershell&#34; installed.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Type &#34;Windows Powershell&#34; into the Windows Start Menu&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Copy-paste the Superglide Practice Tool script directly from Github into the Powershell window.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Press &#39;Enter&#39; to start the script.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Pressing &#34;Ctrl-C&#34; within the Powershell window will terminate the script when you are finished, or just exit out of the Powershell window.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Devilcheck/RDPNEW</title>
+    <updated>2023-03-07T01:43:54Z</updated>
+    <id>tag:github.com,2023-03-07:/Devilcheck/RDPNEW</id>
+    <link href="https://github.com/Devilcheck/RDPNEW" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DEVIL HACKS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WINRDP&lt;/h1&gt; &#xA;&lt;p&gt;WELLCOME TO DEVIL HACKS How to use&lt;/p&gt; &#xA;&lt;p&gt;Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.&lt;/p&gt; &#xA;&lt;p&gt;Input the following code in the fields.&lt;/p&gt; &#xA;&lt;p&gt;Get the Windows (Powershell) command from here:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://file.technicalatg.com/K5dr&#34;&gt;https://file.technicalatg.com/K5dr&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Enter you Six digit Pin code to Login&lt;/p&gt; &#xA;&lt;p&gt;(Any Six digit Pin)&lt;/p&gt; &#xA;&lt;p&gt;Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.&lt;/p&gt;</summary>
   </entry>
 </feed>

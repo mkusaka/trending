@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AppleScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:30:49Z</updated>
+  <updated>2023-03-07T01:31:10Z</updated>
   <subtitle>Daily Trending of AppleScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ripperhe/bob-popclip</title>
+    <updated>2023-03-07T01:31:10Z</updated>
+    <id>tag:github.com,2023-03-07:/ripperhe/bob-popclip</id>
+    <link href="https://github.com/ripperhe/bob-popclip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;用于快捷调用 Bob 的 PopClip 插件&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PopClip Extension For Bob&lt;/h1&gt; &#xA;&lt;p&gt;如果你是 &lt;a href=&#34;https://bobtranslate.com&#34;&gt;Bob&lt;/a&gt; 的用户，并且期望划词之后鼠标附近出现一个小图标，点击之后即可翻译选中的文本，则你的电脑上需要安装 &lt;a href=&#34;https://pilotmoon.com/popclip&#34;&gt;PopClip&lt;/a&gt;，并且给 PopClip 安装调用 Bob 的插件。&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://cdn.ripperhe.com/oss/master/2022/0508/translate_popclip.gif&#34; alt=&#34;bob-popclip&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;详情请查看 &lt;a href=&#34;https://bobtranslate.com/guide/integration/popclip.html&#34;&gt;这篇文章&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:46:19Z</updated>
+  <updated>2023-03-07T01:47:14Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>waterfall-mkt/curta</title>
-    <updated>2023-03-06T01:46:19Z</updated>
-    <id>tag:github.com,2023-03-06:/waterfall-mkt/curta</id>
-    <link href="https://github.com/waterfall-mkt/curta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A CTF protocol, where players create and solve EVM puzzles to earn NFTs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nomoixyz/vulcan</title>
-    <updated>2023-03-06T01:46:19Z</updated>
-    <id>tag:github.com,2023-03-06:/nomoixyz/vulcan</id>
-    <link href="https://github.com/nomoixyz/vulcan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WIP Development framework for Foundry projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ensdomains/buffer</title>
+    <updated>2023-03-07T01:47:14Z</updated>
+    <id>tag:github.com,2023-03-07:/ensdomains/buffer</id>
+    <link href="https://github.com/ensdomains/buffer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library for working with mutable byte buffers in Solidity.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

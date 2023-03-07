@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:40:26Z</updated>
+  <updated>2023-03-07T01:41:08Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ColumbiaOSS/example-project-python</title>
-    <updated>2023-03-06T01:40:26Z</updated>
-    <id>tag:github.com,2023-03-06:/ColumbiaOSS/example-project-python</id>
-    <link href="https://github.com/ColumbiaOSS/example-project-python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example python project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AOSPA/android_vendor_aospa</title>
-    <updated>2023-03-06T01:40:26Z</updated>
-    <id>tag:github.com,2023-03-06:/AOSPA/android_vendor_aospa</id>
-    <link href="https://github.com/AOSPA/android_vendor_aospa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pwned4ever/Th0r_Freya</title>
-    <updated>2023-03-06T01:40:26Z</updated>
-    <id>tag:github.com,2023-03-06:/pwned4ever/Th0r_Freya</id>
-    <link href="https://github.com/pwned4ever/Th0r_Freya" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fully open sourced iOS 11.x.x -12.x.x Jailbreak, unlike any others&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ictsc/ictsc2022-slide</title>
+    <updated>2023-03-07T01:41:08Z</updated>
+    <id>tag:github.com,2023-03-07:/ictsc/ictsc2022-slide</id>
+    <link href="https://github.com/ictsc/ictsc2022-slide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ICTSC2022 開会式・閉会式スライド&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:33:10Z</updated>
+  <updated>2023-03-07T01:33:07Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mikesmullin/coffee-shop-docs</title>
-    <updated>2023-03-06T01:33:10Z</updated>
-    <id>tag:github.com,2023-03-06:/mikesmullin/coffee-shop-docs</id>
-    <link href="https://github.com/mikesmullin/coffee-shop-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation of the CoffeeShop Web Framework for Node.js&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

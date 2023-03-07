@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:39:13Z</updated>
+  <updated>2023-03-07T01:39:28Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cjdoris/PreferencesTools.jl</title>
-    <updated>2023-03-06T01:39:13Z</updated>
-    <id>tag:github.com,2023-03-06:/cjdoris/PreferencesTools.jl</id>
-    <link href="https://github.com/cjdoris/PreferencesTools.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia preferences for humans&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mrufsvold/Waluigi.jl</title>
+    <updated>2023-03-07T01:39:28Z</updated>
+    <id>tag:github.com,2023-03-07:/mrufsvold/Waluigi.jl</id>
+    <link href="https://github.com/mrufsvold/Waluigi.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gridap/GridapDistributed.jl</title>
+    <updated>2023-03-07T01:39:28Z</updated>
+    <id>tag:github.com,2023-03-07:/gridap/GridapDistributed.jl</id>
+    <link href="https://github.com/gridap/GridapDistributed.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parallel distributed-memory version of Gridap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hellemo/ShortCodes.jl</title>
+    <updated>2023-03-07T01:39:28Z</updated>
+    <id>tag:github.com,2023-03-07:/hellemo/ShortCodes.jl</id>
+    <link href="https://github.com/hellemo/ShortCodes.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Short codes to embed content in Pluto notebooks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

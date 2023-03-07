@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:44:08Z</updated>
+  <updated>2023-03-07T01:44:58Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LCR-BCCRC/DLBCL-tumor-evolution</title>
-    <updated>2023-03-06T01:44:08Z</updated>
-    <id>tag:github.com,2023-03-06:/LCR-BCCRC/DLBCL-tumor-evolution</id>
-    <link href="https://github.com/LCR-BCCRC/DLBCL-tumor-evolution" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for the statistical analysis of DLBCL tumor evolution data.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DLBCL Tumor Evolution&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains all code used in the statistical analysis of sequencing data from serial biopsies of patients with relapsed/refractory diffuse large B-cell lymphoma. All R packages used in the analysis can be installed reproducibly with &lt;code&gt;renv&lt;/code&gt;, using any R version 4.1.*.&lt;/p&gt; &#xA;&lt;h2&gt;Sequencing data analysis&lt;/h2&gt; &#xA;&lt;p&gt;Sequencing files were processed outside of this repository using modules from &lt;a href=&#34;https://github.com/LCR-BCCRC/lcr-modules&#34;&gt;LCR-Modules&lt;/a&gt; as follows:&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Sequencing Type&lt;/th&gt; &#xA;   &lt;th&gt;Output&lt;/th&gt; &#xA;   &lt;th&gt;Module(s)&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome, exome, LySeqST&lt;/td&gt; &#xA;   &lt;td&gt;Somatic variant calls&lt;/td&gt; &#xA;   &lt;td&gt;slms_3-1.0, vcf2maf-1.3&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome&lt;/td&gt; &#xA;   &lt;td&gt;Somatic structural variants&lt;/td&gt; &#xA;   &lt;td&gt;svar_master-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome&lt;/td&gt; &#xA;   &lt;td&gt;Copy number&lt;/td&gt; &#xA;   &lt;td&gt;battenberg-1.1&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;exome&lt;/td&gt; &#xA;   &lt;td&gt;Copy number&lt;/td&gt; &#xA;   &lt;td&gt;strelka-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome&lt;/td&gt; &#xA;   &lt;td&gt;Subclonal structure and phylogeny&lt;/td&gt; &#xA;   &lt;td&gt;pyclone-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome, exome, LySeqST&lt;/td&gt; &#xA;   &lt;td&gt;Quality control (coverage metrics)&lt;/td&gt; &#xA;   &lt;td&gt;qc-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;genome, exome, LySeqST&lt;/td&gt; &#xA;   &lt;td&gt;LymphGen classifications&lt;/td&gt; &#xA;   &lt;td&gt;lymphgen-1.0&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;RNAseq&lt;/td&gt; &#xA;   &lt;td&gt;Immunoglobulin rearrangements&lt;/td&gt; &#xA;   &lt;td&gt;bam2fastq-1.2, mixcr-1.2&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt;</summary>
+    <title>thomas-neitmann/formats</title>
+    <updated>2023-03-07T01:44:58Z</updated>
+    <id>tag:github.com,2023-03-07:/thomas-neitmann/formats</id>
+    <link href="https://github.com/thomas-neitmann/formats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

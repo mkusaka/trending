@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:41:58Z</updated>
+  <updated>2023-03-07T01:42:38Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mjp217/2022_cc_supos</title>
-    <updated>2023-03-06T01:41:58Z</updated>
-    <id>tag:github.com,2023-03-06:/mjp217/2022_cc_supos</id>
-    <link href="https://github.com/mjp217/2022_cc_supos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Used for 2022 Compiler Construction Supervisions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cs51/lab9_soln</title>
-    <updated>2023-03-06T01:41:58Z</updated>
-    <id>tag:github.com,2023-03-06:/cs51/lab9_soln</id>
-    <link href="https://github.com/cs51/lab9_soln" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Harvard CS51 2023, Lab 9 Solution&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

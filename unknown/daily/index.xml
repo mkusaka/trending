@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-06T01:30:14Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-03-07T01:30:18Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yu-takagi/StableDiffusionReconstruction</title>
-    <updated>2023-03-06T01:30:14Z</updated>
-    <id>tag:github.com,2023-03-06:/yu-takagi/StableDiffusionReconstruction</id>
-    <link href="https://github.com/yu-takagi/StableDiffusionReconstruction" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Takagi and Nishimoto, CVPR 2023&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>reorx/awesome-chatgpt-api</title>
+    <updated>2023-03-07T01:30:18Z</updated>
+    <id>tag:github.com,2023-03-07:/reorx/awesome-chatgpt-api</id>
+    <link href="https://github.com/reorx/awesome-chatgpt-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Renumics/awesome-open-data-centric-ai</title>
-    <updated>2023-03-06T01:30:14Z</updated>
-    <id>tag:github.com,2023-03-06:/Renumics/awesome-open-data-centric-ai</id>
-    <link href="https://github.com/Renumics/awesome-open-data-centric-ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of open source tooling for data-centric AI on unstructured data.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yue-Yang/ChatGPT-Siri</title>
+    <updated>2023-03-07T01:30:18Z</updated>
+    <id>tag:github.com,2023-03-07:/Yue-Yang/ChatGPT-Siri</id>
+    <link href="https://github.com/Yue-Yang/ChatGPT-Siri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key &amp; save chat records. 由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>runningcheese/Awesome-ChatGPT</title>
-    <updated>2023-03-06T01:30:14Z</updated>
-    <id>tag:github.com,2023-03-06:/runningcheese/Awesome-ChatGPT</id>
-    <link href="https://github.com/runningcheese/Awesome-ChatGPT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;奶酪清单：&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xk1h0/ChatGPT_DAN</title>
+    <updated>2023-03-07T01:30:18Z</updated>
+    <id>tag:github.com,2023-03-07:/0xk1h0/ChatGPT_DAN</id>
+    <link href="https://github.com/0xk1h0/ChatGPT_DAN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT DAN, Jailbreaks prompt&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
