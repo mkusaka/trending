@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:48:03Z</updated>
+  <updated>2023-03-08T01:47:48Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>courses-at-nju-by-hfwei/compilers-problem-set</title>
-    <updated>2023-03-07T01:48:03Z</updated>
-    <id>tag:github.com,2023-03-07:/courses-at-nju-by-hfwei/compilers-problem-set</id>
-    <link href="https://github.com/courses-at-nju-by-hfwei/compilers-problem-set" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Problem Set for Course Compilers@software.nju.edu&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;compilers-problem-set&lt;/h1&gt; &#xA;&lt;p&gt;Problem Set for Course &lt;a href=&#34;https://github.com/orgs/courses-at-nju-by-hfwei/teams/compilers-course-at-nju-software/repositories&#34;&gt;Compilers@software.nju.edu&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;作业&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/courses-at-nju-by-hfwei/compilers-problem-set/master/2023/&#34;&gt;2023&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/courses-at-nju-by-hfwei/compilers-problem-set/master/2022/&#34;&gt;2022&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/courses-at-nju-by-hfwei/compilers-problem-set/master/2021/&#34;&gt;2021&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/courses-at-nju-by-hfwei/compilers-problem-set/master/2020/&#34;&gt;2020&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;如何写作业&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;习题使用 LaTeX &lt;code&gt;tufte-handout&lt;/code&gt; 模板, 所以也推荐大家使用 LaTeX 写作业。 仅需要修改 &lt;code&gt;hw0.tex&lt;/code&gt;, 并使用 &lt;code&gt;xelatex&lt;/code&gt; 编译。 LaTeX 使用方法见 &lt;code&gt;tools/&lt;/code&gt; 文件夹。大家可以尝试 &lt;a href=&#34;https://www.overleaf.com/&#34;&gt;https://www.overleaf.com/&lt;/a&gt; 在线 LaTeX 编辑器。&lt;/li&gt; &#xA; &lt;li&gt;如果不喜欢 LaTeX, 也可以用其它工具。比如 &lt;code&gt;word&lt;/code&gt;, &lt;code&gt;.md&lt;/code&gt; (&lt;a href=&#34;https://stackedit.io/&#34;&gt;https://stackedit.io/&lt;/a&gt;) 等。&lt;/li&gt; &#xA; &lt;li&gt;也可以使用传统的手工艺: 手写、拍照。&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;如何提交作业&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;请通过教学立方提交作业&lt;/li&gt; &#xA; &lt;li&gt;不论大家使用什么工具, 最终需要提交一份单独的 &lt;code&gt;.pdf&lt;/code&gt; 文件&lt;/li&gt; &#xA; &lt;li&gt;文件名命名: 作业编号-学号-姓名.pdf&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>mattecapu/categorical-systems-theory</title>
-    <updated>2023-03-07T01:48:03Z</updated>
-    <id>tag:github.com,2023-03-07:/mattecapu/categorical-systems-theory</id>
-    <link href="https://github.com/mattecapu/categorical-systems-theory" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Notes on categorical systems theory&lt;/h1&gt; &#xA;&lt;p&gt;Categorical systems theory (CST) is a doubly-categorical framework for approaching and developing structural theories of systems and behaviour of any kind. These notes are meant to be (1) a basic reference for CST and (2) a source of examples and working developments. They&#39;re under active development, so quite far from camera-ready, and possibly never complete.&lt;/p&gt; &#xA;&lt;p&gt;Compiled PDF &lt;a href=&#34;https://raw.githubusercontent.com/mattecapu/categorical-systems-theory/master/main.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

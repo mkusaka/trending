@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:42:38Z</updated>
+  <updated>2023-03-08T01:42:23Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bktari/ift3000-h23</title>
+    <updated>2023-03-08T01:42:23Z</updated>
+    <id>tag:github.com,2023-03-08:/bktari/ift3000-h23</id>
+    <link href="https://github.com/bktari/ift3000-h23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>janestreet/vcaml</title>
+    <updated>2023-03-08T01:42:23Z</updated>
+    <id>tag:github.com,2023-03-08:/janestreet/vcaml</id>
+    <link href="https://github.com/janestreet/vcaml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCaml bindings for the Neovim API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:32:55Z</updated>
+  <updated>2023-03-08T01:32:52Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>strojure/parsesso</title>
-    <updated>2023-03-07T01:32:55Z</updated>
-    <id>tag:github.com,2023-03-07:/strojure/parsesso</id>
-    <link href="https://github.com/strojure/parsesso" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parser combinators for Clojure(Script).&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fulcrologic/statecharts</title>
+    <updated>2023-03-08T01:32:52Z</updated>
+    <id>tag:github.com,2023-03-08:/fulcrologic/statecharts</id>
+    <link href="https://github.com/fulcrologic/statecharts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Statechart library for CLJ(S)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>babashka/json</title>
+    <updated>2023-03-08T01:32:52Z</updated>
+    <id>tag:github.com,2023-03-08:/babashka/json</id>
+    <link href="https://github.com/babashka/json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON abstraction library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

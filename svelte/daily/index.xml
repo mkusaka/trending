@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:47:36Z</updated>
+  <updated>2023-03-08T01:47:10Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>juliooa/thechatbot</title>
-    <updated>2023-03-07T01:47:36Z</updated>
-    <id>tag:github.com,2023-03-07:/juliooa/thechatbot</id>
-    <link href="https://github.com/juliooa/thechatbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sveltekit ChatGPT like chat bot using Open AI API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>itvisioncoid/web</title>
+    <updated>2023-03-08T01:47:10Z</updated>
+    <id>tag:github.com,2023-03-08:/itvisioncoid/web</id>
+    <link href="https://github.com/itvisioncoid/web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CV. ITVISION website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ankurrsinghal/svelte-autoresize-textarea</title>
-    <updated>2023-03-07T01:47:36Z</updated>
-    <id>tag:github.com,2023-03-07:/ankurrsinghal/svelte-autoresize-textarea</id>
-    <link href="https://github.com/ankurrsinghal/svelte-autoresize-textarea" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Autoresize Textarea for Svelte apps using proxy element.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clouditor/clouditor-ui</title>
+    <updated>2023-03-08T01:47:10Z</updated>
+    <id>tag:github.com,2023-03-08:/clouditor/clouditor-ui</id>
+    <link href="https://github.com/clouditor/clouditor-ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clouditor UI Next&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

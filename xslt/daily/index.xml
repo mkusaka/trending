@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:49:33Z</updated>
+  <updated>2023-03-08T01:49:26Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>unidal/maven-plugins</title>
+    <updated>2023-03-08T01:49:26Z</updated>
+    <id>tag:github.com,2023-03-08:/unidal/maven-plugins</id>
+    <link href="https://github.com/unidal/maven-plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maven Plugins&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;maven-plugins &lt;a href=&#34;https://travis-ci.org/unidal/maven-plugins&#34;&gt;&lt;img src=&#34;https://travis-ci.org/unidal/maven-plugins.png?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;codegen-maven-plugin&lt;/li&gt; &#xA; &lt;li&gt;plexus-maven-plugin&lt;/li&gt; &#xA; &lt;li&gt;wizard-maven-plugin&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

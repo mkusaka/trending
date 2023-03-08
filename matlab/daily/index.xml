@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:41:13Z</updated>
+  <updated>2023-03-08T01:41:00Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NadicaSm/syEGG</title>
-    <updated>2023-03-07T01:41:13Z</updated>
-    <id>tag:github.com,2023-03-07:/NadicaSm/syEGG</id>
-    <link href="https://github.com/NadicaSm/syEGG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains GNU Octave code for the preprint paper titled &#34;Data-driven Method for Generating Synthetic Electrogastrogram Time Series&#34; Authored by Nadica Miljković, Nikola Milenić, Nenad B. Popović, and Jaka Sodnik&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

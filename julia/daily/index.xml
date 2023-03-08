@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:39:28Z</updated>
+  <updated>2023-03-08T01:39:32Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mrufsvold/Waluigi.jl</title>
-    <updated>2023-03-07T01:39:28Z</updated>
-    <id>tag:github.com,2023-03-07:/mrufsvold/Waluigi.jl</id>
-    <link href="https://github.com/mrufsvold/Waluigi.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaGraphs/MultilayerGraphs.jl</title>
+    <updated>2023-03-08T01:39:32Z</updated>
+    <id>tag:github.com,2023-03-08:/JuliaGraphs/MultilayerGraphs.jl</id>
+    <link href="https://github.com/JuliaGraphs/MultilayerGraphs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gridap/GridapDistributed.jl</title>
-    <updated>2023-03-07T01:39:28Z</updated>
-    <id>tag:github.com,2023-03-07:/gridap/GridapDistributed.jl</id>
-    <link href="https://github.com/gridap/GridapDistributed.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parallel distributed-memory version of Gridap&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xKDR/Survey.jl</title>
+    <updated>2023-03-08T01:39:32Z</updated>
+    <id>tag:github.com,2023-03-08:/xKDR/Survey.jl</id>
+    <link href="https://github.com/xKDR/Survey.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Analysis of complex surveys&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hellemo/ShortCodes.jl</title>
-    <updated>2023-03-07T01:39:28Z</updated>
-    <id>tag:github.com,2023-03-07:/hellemo/ShortCodes.jl</id>
-    <link href="https://github.com/hellemo/ShortCodes.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Short codes to embed content in Pluto notebooks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaTopOpt/TopOpt.jl</title>
+    <updated>2023-03-08T01:39:32Z</updated>
+    <id>tag:github.com,2023-03-08:/JuliaTopOpt/TopOpt.jl</id>
+    <link href="https://github.com/JuliaTopOpt/TopOpt.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A beautifully Julian topology optimization package.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

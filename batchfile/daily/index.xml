@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:31:41Z</updated>
+  <updated>2023-03-08T01:31:26Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Alex313031/Thorium-Win</title>
-    <updated>2023-03-07T01:31:41Z</updated>
-    <id>tag:github.com,2023-03-07:/Alex313031/Thorium-Win</id>
-    <link href="https://github.com/Alex313031/Thorium-Win" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chromium fork for Windows named after radioactive element No. 90; Windows builds of https://github.com/Alex313031/Thorium&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>M1k3G0/Win10_LTSC_VP9_Installer</title>
-    <updated>2023-03-07T01:31:41Z</updated>
-    <id>tag:github.com,2023-03-07:/M1k3G0/Win10_LTSC_VP9_Installer</id>
-    <link href="https://github.com/M1k3G0/Win10_LTSC_VP9_Installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LTSC 1809 (x64 and x86) without Windows Store!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>moiify/AutoGreen</title>
+    <updated>2023-03-08T01:31:26Z</updated>
+    <id>tag:github.com,2023-03-08:/moiify/AutoGreen</id>
+    <link href="https://github.com/moiify/AutoGreen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Everyday you will make a green point in your github repository！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

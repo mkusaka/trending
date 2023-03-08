@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:30:18Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-03-08T01:30:08Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>reorx/awesome-chatgpt-api</title>
-    <updated>2023-03-07T01:30:18Z</updated>
-    <id>tag:github.com,2023-03-07:/reorx/awesome-chatgpt-api</id>
-    <link href="https://github.com/reorx/awesome-chatgpt-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blueStragglr/wanted-pre-onboarding-3-FE-quest</title>
+    <updated>2023-03-08T01:30:08Z</updated>
+    <id>tag:github.com,2023-03-08:/blueStragglr/wanted-pre-onboarding-3-FE-quest</id>
+    <link href="https://github.com/blueStragglr/wanted-pre-onboarding-3-FE-quest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3월 원티드 프리온보딩 프론트엔드 과정 사전과제&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Yue-Yang/ChatGPT-Siri</title>
-    <updated>2023-03-07T01:30:18Z</updated>
-    <id>tag:github.com,2023-03-07:/Yue-Yang/ChatGPT-Siri</id>
-    <link href="https://github.com/Yue-Yang/ChatGPT-Siri" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key &amp; save chat records. 由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BaoBaoDualang/Run_EU</title>
+    <updated>2023-03-08T01:30:08Z</updated>
+    <id>tag:github.com,2023-03-08:/BaoBaoDualang/Run_EU</id>
+    <link href="https://github.com/BaoBaoDualang/Run_EU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;润欧小指北&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0xk1h0/ChatGPT_DAN</title>
-    <updated>2023-03-07T01:30:18Z</updated>
-    <id>tag:github.com,2023-03-07:/0xk1h0/ChatGPT_DAN</id>
-    <link href="https://github.com/0xk1h0/ChatGPT_DAN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT DAN, Jailbreaks prompt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pengbaolin/LLM-Augmenter</title>
+    <updated>2023-03-08T01:30:08Z</updated>
+    <id>tag:github.com,2023-03-08:/pengbaolin/LLM-Augmenter</id>
+    <link href="https://github.com/pengbaolin/LLM-Augmenter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

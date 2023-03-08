@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:46:27Z</updated>
+  <updated>2023-03-08T01:46:01Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>netlify-templates/jekyll-base</title>
-    <updated>2023-03-07T01:46:27Z</updated>
-    <id>tag:github.com,2023-03-07:/netlify-templates/jekyll-base</id>
-    <link href="https://github.com/netlify-templates/jekyll-base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fresh Jekyll install from running &#34;jekyll new ...&#34;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>runtimeverification/k-web-theme</title>
-    <updated>2023-03-07T01:46:27Z</updated>
-    <id>tag:github.com,2023-03-07:/runtimeverification/k-web-theme</id>
-    <link href="https://github.com/runtimeverification/k-web-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jiitopticachapter/JSCOP-5.0</title>
+    <updated>2023-03-08T01:46:01Z</updated>
+    <id>tag:github.com,2023-03-08:/jiitopticachapter/JSCOP-5.0</id>
+    <link href="https://github.com/jiitopticachapter/JSCOP-5.0" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSCOP is a flagship event of JIIT OPTICA&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

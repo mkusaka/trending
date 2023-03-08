@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-07T01:33:02Z</updated>
+  <updated>2023-03-08T01:33:00Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UNN-IASR/mod-lab01-fa-cpp</title>
-    <updated>2023-03-07T01:33:02Z</updated>
-    <id>tag:github.com,2023-03-07:/UNN-IASR/mod-lab01-fa-cpp</id>
-    <link href="https://github.com/UNN-IASR/mod-lab01-fa-cpp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fvicini/PCS2023_Exercises</title>
+    <updated>2023-03-08T01:33:00Z</updated>
+    <id>tag:github.com,2023-03-08:/fvicini/PCS2023_Exercises</id>
+    <link href="https://github.com/fvicini/PCS2023_Exercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PCS 2023 - Exercises&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>UNN-IASR/mod-lab00-training</title>
-    <updated>2023-03-07T01:33:02Z</updated>
-    <id>tag:github.com,2023-03-07:/UNN-IASR/mod-lab00-training</id>
-    <link href="https://github.com/UNN-IASR/mod-lab00-training" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ganleiboy/CMakeTutorial</title>
+    <updated>2023-03-08T01:33:00Z</updated>
+    <id>tag:github.com,2023-03-08:/ganleiboy/CMakeTutorial</id>
+    <link href="https://github.com/ganleiboy/CMakeTutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;总结常用的CMakeLists模板，便于后续使用。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ros-industrial/abb_robot_driver_interfaces</title>
+    <updated>2023-03-08T01:33:00Z</updated>
+    <id>tag:github.com,2023-03-08:/ros-industrial/abb_robot_driver_interfaces</id>
+    <link href="https://github.com/ros-industrial/abb_robot_driver_interfaces" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS message and service definitions for a ROS driver for ABB robots&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
