@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Standard ML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:46:58Z</updated>
+  <updated>2023-03-09T01:44:31Z</updated>
   <subtitle>Daily Trending of Standard ML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oracc/oracc</title>
+    <updated>2023-03-09T01:44:31Z</updated>
+    <id>tag:github.com,2023-03-09:/oracc/oracc</id>
+    <link href="https://github.com/oracc/oracc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All the sources and documentation for Oracc&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

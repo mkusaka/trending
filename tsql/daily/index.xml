@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:48:04Z</updated>
+  <updated>2023-03-09T01:45:39Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mspnp/azure-data-factory-sqldw-elt-pipeline</title>
-    <updated>2023-03-08T01:48:04Z</updated>
-    <id>tag:github.com,2023-03-08:/mspnp/azure-data-factory-sqldw-elt-pipeline</id>
-    <link href="https://github.com/mspnp/azure-data-factory-sqldw-elt-pipeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ZSwensrude/CMPT391-Part2</title>
-    <updated>2023-03-08T01:48:04Z</updated>
-    <id>tag:github.com,2023-03-08:/ZSwensrude/CMPT391-Part2</id>
-    <link href="https://github.com/ZSwensrude/CMPT391-Part2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bmeviauac01/softwarelab1</title>
+    <updated>2023-03-09T01:45:39Z</updated>
+    <id>tag:github.com,2023-03-09:/bmeviauac01/softwarelab1</id>
+    <link href="https://github.com/bmeviauac01/softwarelab1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BME Szoftverfejlesztés laboratórium 1 feladatok, Software Development Laboratory 1 exercises&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:46:01Z</updated>
+  <updated>2023-03-09T01:43:30Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jiitopticachapter/JSCOP-5.0</title>
-    <updated>2023-03-08T01:46:01Z</updated>
-    <id>tag:github.com,2023-03-08:/jiitopticachapter/JSCOP-5.0</id>
-    <link href="https://github.com/jiitopticachapter/JSCOP-5.0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSCOP is a flagship event of JIIT OPTICA&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MLH-Fellowship/prep-portfolio-23.MAR.PREP.1</title>
+    <updated>2023-03-09T01:43:30Z</updated>
+    <id>tag:github.com,2023-03-09:/MLH-Fellowship/prep-portfolio-23.MAR.PREP.1</id>
+    <link href="https://github.com/MLH-Fellowship/prep-portfolio-23.MAR.PREP.1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MLH Prep Portfolio for Pod 23.MAR.PREP.1&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Akohjesse/apple_series-eight_homepod</title>
+    <updated>2023-03-09T01:43:30Z</updated>
+    <id>tag:github.com,2023-03-09:/Akohjesse/apple_series-eight_homepod</id>
+    <link href="https://github.com/Akohjesse/apple_series-eight_homepod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A mashup of Apple&#39;s watch8 and Homepod product page with custom scroll animations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

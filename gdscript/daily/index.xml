@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:36:21Z</updated>
+  <updated>2023-03-09T01:34:32Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CBerry22/Active-Ragdoll---Physics-Animations-in-Godot-4.0</title>
-    <updated>2023-03-08T01:36:21Z</updated>
-    <id>tag:github.com,2023-03-08:/CBerry22/Active-Ragdoll---Physics-Animations-in-Godot-4.0</id>
-    <link href="https://github.com/CBerry22/Active-Ragdoll---Physics-Animations-in-Godot-4.0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brettchalupa/godot_skeleton</title>
-    <updated>2023-03-08T01:36:21Z</updated>
-    <id>tag:github.com,2023-03-08:/brettchalupa/godot_skeleton</id>
-    <link href="https://github.com/brettchalupa/godot_skeleton" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flexible template repository for common game needs in Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lawnjelly/smoothing-addon</title>
-    <updated>2023-03-08T01:36:21Z</updated>
-    <id>tag:github.com,2023-03-08:/lawnjelly/smoothing-addon</id>
-    <link href="https://github.com/lawnjelly/smoothing-addon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fixed timestep interpolation gdscript addon for Godot Engine (version 3.2 or later)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

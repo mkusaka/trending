@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:49:39Z</updated>
+  <updated>2023-03-09T01:47:03Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ziglibs/zorm</title>
-    <updated>2023-03-08T01:49:39Z</updated>
-    <id>tag:github.com,2023-03-08:/ziglibs/zorm</id>
-    <link href="https://github.com/ziglibs/zorm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lightweight and efficient object-relational mapping&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adamserafini/zaml</title>
-    <updated>2023-03-08T01:49:39Z</updated>
-    <id>tag:github.com,2023-03-08:/adamserafini/zaml</id>
-    <link href="https://github.com/adamserafini/zaml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Fast YAML 1.2 parsing library for Python 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ashpil/moonshine</title>
+    <updated>2023-03-09T01:47:03Z</updated>
+    <id>tag:github.com,2023-03-09:/ashpil/moonshine</id>
+    <link href="https://github.com/ashpil/moonshine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A general purpose ray traced renderer built with Zig + Vulkan&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

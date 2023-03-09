@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:34:32Z</updated>
+  <updated>2023-03-09T01:33:14Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>XdityaHalder/Kaali-Linux</title>
-    <updated>2023-03-08T01:34:32Z</updated>
-    <id>tag:github.com,2023-03-08:/XdityaHalder/Kaali-Linux</id>
-    <link href="https://github.com/XdityaHalder/Kaali-Linux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;https://t.me/iamkaal&#34;&gt;&lt;img src=&#34;https://te.legra.ph/file/4f657f875c92a8a13124b.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;🥀 &lt;a href=&#34;https://t.me/kaali_linux&#34;&gt;𝐊𝐚𝐚𝐥𝐢 𝐋𝐢𝐧𝐮𝐱&lt;/a&gt; : 🍁 𝐓𝐡𝐞 𝐍𝐞𝐰 𝐒𝐞𝐫𝐯𝐞𝐫 📡 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐀𝐧𝐝 💞 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐁𝐲 » &lt;a href=&#34;https://t.me/iamkaal&#34;&gt;𝐊𝐚𝐚𝐋&lt;/a&gt; ✨&lt;/p&gt; &#xA;&lt;h3&gt;𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 𝐂𝐨𝐧𝐟𝐢𝐠 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞 ...&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt; NGROK_TOKEN&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h4&gt;🌷𝐍𝐨𝐭𝐞: 𝐂𝐨𝐩𝐲 𝐖𝐢𝐭𝐡 𝐏𝐫𝐨𝐩𝐞𝐫 𝐂𝐫𝐞𝐝𝐢𝐭🔥...&lt;/h4&gt;</summary>
+    <title>cyverse-education/intro2docker</title>
+    <updated>2023-03-09T01:33:14Z</updated>
+    <id>tag:github.com,2023-03-09:/cyverse-education/intro2docker</id>
+    <link href="https://github.com/cyverse-education/intro2docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic Docker exercises with CodeSpaces&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;intro2docker&lt;/h1&gt; &#xA;&lt;p&gt;Basic Docker exercises with CodeSpaces&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>sifis-home/wp5-cicd-example</title>
+    <updated>2023-03-09T01:33:14Z</updated>
+    <id>tag:github.com,2023-03-09:/sifis-home/wp5-cicd-example</id>
+    <link href="https://github.com/sifis-home/wp5-cicd-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an example repository to demonstrate the CI/CD pipeline in WP5&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;wp5-cicd-example&lt;/h1&gt; &#xA;&lt;p&gt;This is an example repository to demonstrate the CI/CD pipeline in WP5&lt;/p&gt;</summary>
   </entry>
 </feed>

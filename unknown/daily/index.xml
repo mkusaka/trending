@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:30:08Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-03-09T01:29:41Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>blueStragglr/wanted-pre-onboarding-3-FE-quest</title>
-    <updated>2023-03-08T01:30:08Z</updated>
-    <id>tag:github.com,2023-03-08:/blueStragglr/wanted-pre-onboarding-3-FE-quest</id>
-    <link href="https://github.com/blueStragglr/wanted-pre-onboarding-3-FE-quest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;3월 원티드 프리온보딩 프론트엔드 과정 사전과제&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BaoBaoDualang/Run_EU</title>
-    <updated>2023-03-08T01:30:08Z</updated>
-    <id>tag:github.com,2023-03-08:/BaoBaoDualang/Run_EU</id>
-    <link href="https://github.com/BaoBaoDualang/Run_EU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;润欧小指北&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pengbaolin/LLM-Augmenter</title>
-    <updated>2023-03-08T01:30:08Z</updated>
-    <id>tag:github.com,2023-03-08:/pengbaolin/LLM-Augmenter</id>
-    <link href="https://github.com/pengbaolin/LLM-Augmenter" rel="alternate"></link>
+    <title>WordAsImage/Word-As-Image</title>
+    <updated>2023-03-09T01:29:41Z</updated>
+    <id>tag:github.com,2023-03-09:/WordAsImage/Word-As-Image</id>
+    <link href="https://github.com/WordAsImage/Word-As-Image" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>autonomousvision/stylegan-t</title>
+    <updated>2023-03-09T01:29:41Z</updated>
+    <id>tag:github.com,2023-03-09:/autonomousvision/stylegan-t</id>
+    <link href="https://github.com/autonomousvision/stylegan-t" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[ARXIV&#39;23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cmuratori/misc</title>
+    <updated>2023-03-09T01:29:41Z</updated>
+    <id>tag:github.com,2023-03-09:/cmuratori/misc</id>
+    <link href="https://github.com/cmuratori/misc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clippings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

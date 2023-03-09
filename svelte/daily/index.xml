@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:47:10Z</updated>
+  <updated>2023-03-09T01:44:43Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>itvisioncoid/web</title>
-    <updated>2023-03-08T01:47:10Z</updated>
-    <id>tag:github.com,2023-03-08:/itvisioncoid/web</id>
-    <link href="https://github.com/itvisioncoid/web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CV. ITVISION website&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ankurrsinghal/svelte-legos</title>
+    <updated>2023-03-09T01:44:43Z</updated>
+    <id>tag:github.com,2023-03-09:/ankurrsinghal/svelte-legos</id>
+    <link href="https://github.com/ankurrsinghal/svelte-legos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WIP 🚜 A framework for Svelte Utilities (25/200).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>clouditor/clouditor-ui</title>
-    <updated>2023-03-08T01:47:10Z</updated>
-    <id>tag:github.com,2023-03-08:/clouditor/clouditor-ui</id>
-    <link href="https://github.com/clouditor/clouditor-ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clouditor UI Next&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>slatinsky/DiscordChatExporter-frontend</title>
+    <updated>2023-03-09T01:44:43Z</updated>
+    <id>tag:github.com,2023-03-09:/slatinsky/DiscordChatExporter-frontend</id>
+    <link href="https://github.com/slatinsky/DiscordChatExporter-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>svelte-society/summit-spring-23</title>
+    <updated>2023-03-09T01:44:43Z</updated>
+    <id>tag:github.com,2023-03-09:/svelte-society/summit-spring-23</id>
+    <link href="https://github.com/svelte-society/summit-spring-23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The website for Svelte Summit Spring 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-08T01:32:52Z</updated>
+  <updated>2023-03-09T01:31:56Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fulcrologic/statecharts</title>
-    <updated>2023-03-08T01:32:52Z</updated>
-    <id>tag:github.com,2023-03-08:/fulcrologic/statecharts</id>
-    <link href="https://github.com/fulcrologic/statecharts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Statechart library for CLJ(S)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>banderso/discern</title>
+    <updated>2023-03-09T01:31:56Z</updated>
+    <id>tag:github.com,2023-03-09:/banderso/discern</id>
+    <link href="https://github.com/banderso/discern" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some string algorithm playing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>babashka/json</title>
-    <updated>2023-03-08T01:32:52Z</updated>
-    <id>tag:github.com,2023-03-08:/babashka/json</id>
-    <link href="https://github.com/babashka/json" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JSON abstraction library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ardumont/cs2013</title>
+    <updated>2023-03-09T01:31:56Z</updated>
+    <id>tag:github.com,2023-03-09:/ardumont/cs2013</id>
+    <link href="https://github.com/ardumont/cs2013" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;code story 2013 - http://code-story.net/2013/01/04/concours-2013.html&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
