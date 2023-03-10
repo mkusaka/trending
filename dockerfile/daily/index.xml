@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:33:14Z</updated>
+  <updated>2023-03-10T01:35:17Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cyverse-education/intro2docker</title>
-    <updated>2023-03-09T01:33:14Z</updated>
-    <id>tag:github.com,2023-03-09:/cyverse-education/intro2docker</id>
-    <link href="https://github.com/cyverse-education/intro2docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Basic Docker exercises with CodeSpaces&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;intro2docker&lt;/h1&gt; &#xA;&lt;p&gt;Basic Docker exercises with CodeSpaces&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>sifis-home/wp5-cicd-example</title>
-    <updated>2023-03-09T01:33:14Z</updated>
-    <id>tag:github.com,2023-03-09:/sifis-home/wp5-cicd-example</id>
-    <link href="https://github.com/sifis-home/wp5-cicd-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is an example repository to demonstrate the CI/CD pipeline in WP5&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;wp5-cicd-example&lt;/h1&gt; &#xA;&lt;p&gt;This is an example repository to demonstrate the CI/CD pipeline in WP5&lt;/p&gt;</summary>
-  </entry>
 </feed>

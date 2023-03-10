@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:46:51Z</updated>
+  <updated>2023-03-10T01:49:12Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Skouat/mod_paypal_donation</title>
-    <updated>2023-03-09T01:46:51Z</updated>
-    <id>tag:github.com,2023-03-09:/Skouat/mod_paypal_donation</id>
-    <link href="https://github.com/Skouat/mod_paypal_donation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;###PayPal Donation MOD for phpBB&lt;/p&gt; &#xA;&lt;p&gt;This MOD add a PayPal Donation page on your site.&lt;/p&gt; &#xA;&lt;p&gt;####&lt;em&gt;Features :&lt;/em&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Safely test this MOD with PayPal Sandbox&lt;/li&gt; &#xA; &lt;li&gt;Displaying Statistics donation on the Donation page and on the bottom of the forum index page : &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Progress bar&lt;/li&gt; &#xA;   &lt;li&gt;Donation received&lt;/li&gt; &#xA;   &lt;li&gt;Donation used&lt;/li&gt; &#xA;   &lt;li&gt;Goal to reach&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Advanced currencies management : &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Add/remove/enable/disable&lt;/li&gt; &#xA;   &lt;li&gt;Backup currency&lt;/li&gt; &#xA;   &lt;li&gt;I hope no, but if you remove or disable all currencies, a language key is defined to provide a backup currency. If the language key does not exist, U.S. Dollar will be defined as the default currency.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Customize the main donation page, success page and cancel page. &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;You can use BBcode.&lt;/li&gt; &#xA;   &lt;li&gt;Multi-language customization available through the ACP&lt;/li&gt; &#xA;   &lt;li&gt;You can use predefined variables.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Automatic redirection to the forum after a successfull/cancelled donation.&lt;/li&gt; &#xA; &lt;li&gt;Define and suggest a default donation value, or use a drop-down list.&lt;/li&gt; &#xA; &lt;li&gt;Admin and user permissions can be set through ACP &amp;gt;&amp;gt; Permissions.&lt;/li&gt; &#xA; &lt;li&gt;All options are manageable from ACP.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;####&lt;em&gt;Styles :&lt;/em&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Prosilver&lt;/li&gt; &#xA; &lt;li&gt;Subsilver2&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.phpbb.com/customise/db/mod/paypal_donation_mod/support/&#34; title=&#34;MOD support&#34;&gt;MOD Support&lt;/a&gt; on phpBB.com&lt;/p&gt;</summary>
-  </entry>
 </feed>

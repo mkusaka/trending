@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:30:50Z</updated>
+  <updated>2023-03-10T01:32:35Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/PetSpotR</title>
+    <updated>2023-03-10T01:32:35Z</updated>
+    <id>tag:github.com,2023-03-10:/Azure-Samples/PetSpotR</id>
+    <link href="https://github.com/Azure-Samples/PetSpotR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demo application that showcases a modern, cloud-native application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

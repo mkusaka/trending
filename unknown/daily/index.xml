@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:29:41Z</updated>
+  <updated>2023-03-10T01:31:07Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WordAsImage/Word-As-Image</title>
-    <updated>2023-03-09T01:29:41Z</updated>
-    <id>tag:github.com,2023-03-09:/WordAsImage/Word-As-Image</id>
-    <link href="https://github.com/WordAsImage/Word-As-Image" rel="alternate"></link>
+    <title>easychen/openai-gpt-dev-notes-for-cn-developer</title>
+    <updated>2023-03-10T01:31:07Z</updated>
+    <id>tag:github.com,2023-03-10:/easychen/openai-gpt-dev-notes-for-cn-developer</id>
+    <link href="https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;如何快速开发一个OpenAI/GPT应用：国内开发者笔记&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xx025/carrot</title>
+    <updated>2023-03-10T01:31:07Z</updated>
+    <id>tag:github.com,2023-03-10:/xx025/carrot</id>
+    <link href="https://github.com/xx025/carrot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;这儿收集一些免费的ChatGPT镜像站点 当前：39个站点&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>orwagodfather/x</title>
+    <updated>2023-03-10T01:31:07Z</updated>
+    <id>tag:github.com,2023-03-10:/orwagodfather/x</id>
+    <link href="https://github.com/orwagodfather/x" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>autonomousvision/stylegan-t</title>
-    <updated>2023-03-09T01:29:41Z</updated>
-    <id>tag:github.com,2023-03-09:/autonomousvision/stylegan-t</id>
-    <link href="https://github.com/autonomousvision/stylegan-t" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[ARXIV&#39;23] StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cmuratori/misc</title>
-    <updated>2023-03-09T01:29:41Z</updated>
-    <id>tag:github.com,2023-03-09:/cmuratori/misc</id>
-    <link href="https://github.com/cmuratori/misc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clippings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

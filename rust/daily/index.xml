@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:43:03Z</updated>
+  <updated>2023-03-10T01:45:40Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>letsgetrusty/rsty-stack-example</title>
+    <updated>2023-03-10T01:45:40Z</updated>
+    <id>tag:github.com,2023-03-10:/letsgetrusty/rsty-stack-example</id>
+    <link href="https://github.com/letsgetrusty/rsty-stack-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RSTY Stack Example App&lt;/h1&gt; &#xA;&lt;p&gt;Corresponding video: &lt;a href=&#34;https://youtu.be/luOgEhLE2sg&#34;&gt;https://youtu.be/luOgEhLE2sg&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

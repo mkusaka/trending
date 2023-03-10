@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:44:34Z</updated>
+  <updated>2023-03-10T01:46:58Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>facebookincubator/buck2-prelude</title>
+    <updated>2023-03-10T01:46:58Z</updated>
+    <id>tag:github.com,2023-03-10:/facebookincubator/buck2-prelude</id>
+    <link href="https://github.com/facebookincubator/buck2-prelude" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prelude for the Buck2 project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazelbuild/platforms</title>
+    <updated>2023-03-10T01:46:58Z</updated>
+    <id>tag:github.com,2023-03-10:/bazelbuild/platforms</id>
+    <link href="https://github.com/bazelbuild/platforms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Constraint values for specifying platforms and toolchains&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazel-contrib/bazel-catalog</title>
+    <updated>2023-03-10T01:46:58Z</updated>
+    <id>tag:github.com,2023-03-10:/bazel-contrib/bazel-catalog</id>
+    <link href="https://github.com/bazel-contrib/bazel-catalog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Catalog of Bazel rules. http://awesomebazel.com meets https://bazel.build/rules plus live stats.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

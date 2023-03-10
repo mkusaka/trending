@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:33:44Z</updated>
+  <updated>2023-03-10T01:35:53Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mhanberg/lazyasdf</title>
-    <updated>2023-03-09T01:33:44Z</updated>
-    <id>tag:github.com,2023-03-09:/mhanberg/lazyasdf</id>
-    <link href="https://github.com/mhanberg/lazyasdf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental TUI for asdf: a project to learn the art of the TUI.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>moomerman/libcluster_tailscale</title>
-    <updated>2023-03-09T01:33:44Z</updated>
-    <id>tag:github.com,2023-03-09:/moomerman/libcluster_tailscale</id>
-    <link href="https://github.com/moomerman/libcluster_tailscale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A libcluster strategy for discovering and connecting Elixir nodes over Tailscale&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>operately/operately</title>
-    <updated>2023-03-09T01:33:44Z</updated>
-    <id>tag:github.com,2023-03-09:/operately/operately</id>
-    <link href="https://github.com/operately/operately" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open-source startup operating system. Coming in 2023.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

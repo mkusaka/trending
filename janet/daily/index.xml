@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Janet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:36:09Z</updated>
+  <updated>2023-03-10T01:38:33Z</updated>
   <subtitle>Daily Trending of Janet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ianthehenry/cmd</title>
-    <updated>2023-03-09T01:36:09Z</updated>
-    <id>tag:github.com,2023-03-09:/ianthehenry/cmd</id>
-    <link href="https://github.com/ianthehenry/cmd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;command-line argument parser for Janet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

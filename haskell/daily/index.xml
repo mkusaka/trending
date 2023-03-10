@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-09T01:35:19Z</updated>
+  <updated>2023-03-10T01:37:46Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AAsteria/Lumi</title>
-    <updated>2023-03-09T01:35:19Z</updated>
-    <id>tag:github.com,2023-03-09:/AAsteria/Lumi</id>
-    <link href="https://github.com/AAsteria/Lumi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Lumi Programming Language&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lumi&lt;/h1&gt; &#xA;&lt;p&gt;The Lumi Programming Language &lt;br&gt;&lt;/p&gt; &#xA;&lt;p&gt;A functional programming language based on λ-calculus for scientific research. &lt;br&gt; We hope this language to become an efficient and friendly tool to light the way for researchers.&lt;/p&gt; &#xA;&lt;h2&gt;Feature (Updating...)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Minimal core with packages and macro supplement&lt;/li&gt; &#xA; &lt;li&gt;Global variables or static variables within functions&lt;/li&gt; &#xA; &lt;li&gt;Y combinator implementation of recursion&lt;/li&gt; &#xA; &lt;li&gt;Type tagging (local variables in functions not required, optional)&lt;/li&gt; &#xA; &lt;li&gt;Memory management system or register allocation algorithm&lt;/li&gt; &#xA; &lt;li&gt;Eager evaluation, considering providing lazy evaluation type&lt;/li&gt; &#xA; &lt;li&gt;Pointer (necessary or not?)&lt;/li&gt; &#xA; &lt;li&gt;Call-CC and use of Call-CC for loop control and exception handling (wise or not? better alternative?)&lt;/li&gt; &#xA; &lt;li&gt;REPL &amp;amp; unit testing&lt;/li&gt; &#xA; &lt;li&gt;Friendly indentation system &lt;br&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Welcome to use Issues as a forum to discuss and request features!&lt;/p&gt; &#xA;&lt;h2&gt;Lumi Kits&lt;/h2&gt; &#xA;&lt;p&gt;Lumi interpreter, compiler, and REPL (Read–Eval–Print Loop).&lt;/p&gt; &#xA;&lt;h4&gt;Running Lumi Program&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;lumi &amp;lt;source_file.lumi&amp;gt; [command line arguments]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Compiling Lumi Program&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;lumi -c &amp;lt;source_file.lumi&amp;gt; &amp;lt;output_file.lumo&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Interactive REPL&lt;/h4&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;lumi&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>luqui/Djest</title>
+    <updated>2023-03-10T01:37:46Z</updated>
+    <id>tag:github.com,2023-03-10:/luqui/Djest</id>
+    <link href="https://github.com/luqui/Djest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A programming language that deduces code from tests&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Djest was born as an entry into the Jan 2013 PLT Games competition, &lt;a href=&#34;http://www.pltgames.com/competition/2013/1&#34;&gt;Testing The Waters&lt;/a&gt; (but I didn&#39;t finish in time to enter). It improves Haskell&#39;s support for automated testing, by making it so you don&#39;t have to write the code you are testing at all!&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;succ :: Int -&amp;gt; Int&#xA;succ 0 == 1&#xA;succ 1 == 2&#xA;succ 10 == 11&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This is enough to have Djest deduce that &lt;code&gt;succ x = x + 1&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Djest uses a &lt;a href=&#34;http://lambda-the-ultimate.org/node/1178&#34;&gt;Djinn&lt;/a&gt;-like satisfier which searches for functions of a given type. The generated functions are then tested with the test suite until one that passes all the tests is found, at which point that function is taken as its definition. If it uses the wrong function, then clearly your test suite was not comprehensive!&lt;/p&gt; &#xA;&lt;p&gt;Generated functions are tested in roughly increasing order of complexity, so simpler functions are used in preference to more complex ones. This is what allows Djest to find &lt;code&gt;succ x = x + 1&lt;/code&gt; instead of&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;succ x = case x of&#xA;             0 -&amp;gt; 1&#xA;             1 -&amp;gt; 2&#xA;             10 -&amp;gt; 11&#xA;             _ -&amp;gt; 0&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;which is most likely not the function the programmer had in mind.&lt;/p&gt; &#xA;&lt;p&gt;Djest is powerful enough to deduce the predecessor function on Church numerals, which Alonzo Church himself could not find (albeit without a computer). It handles rank &lt;em&gt;n&lt;/em&gt; polymorphism and only finds total functions (I believe it will eventually find every non-recursive function, but I am not sure).&lt;/p&gt; &#xA;&lt;p&gt;Check out the examples/ directory.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>ryachza/HDBC-Oracle</title>
-    <updated>2023-03-09T01:35:19Z</updated>
-    <id>tag:github.com,2023-03-09:/ryachza/HDBC-Oracle</id>
-    <link href="https://github.com/ryachza/HDBC-Oracle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HDBC-Oracle&lt;/h1&gt;</summary>
+    <title>psii/hmtpfs</title>
+    <updated>2023-03-10T01:37:46Z</updated>
+    <id>tag:github.com,2023-03-10:/psii/hmtpfs</id>
+    <link href="https://github.com/psii/hmtpfs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MTP Filesystem based on FUSE and libmtp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
