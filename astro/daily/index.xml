@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:32:10Z</updated>
+  <updated>2023-03-11T01:30:15Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>foobaragency/bench-movie-app-monorepo</title>
-    <updated>2023-03-10T01:32:10Z</updated>
-    <id>tag:github.com,2023-03-10:/foobaragency/bench-movie-app-monorepo</id>
-    <link href="https://github.com/foobaragency/bench-movie-app-monorepo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a movie app monorepo repository. Here we will implement the movie app using different frontend frameworks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tadaspetra/hungrimind</title>
+    <updated>2023-03-11T01:30:15Z</updated>
+    <id>tag:github.com,2023-03-11:/tadaspetra/hungrimind</id>
+    <link href="https://github.com/tadaspetra/hungrimind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learning hub for curious minds&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:37:57Z</updated>
+  <updated>2023-03-11T01:36:54Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>saharan/works</title>
-    <updated>2023-03-10T01:37:57Z</updated>
-    <id>tag:github.com,2023-03-10:/saharan/works</id>
-    <link href="https://github.com/saharan/works" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The code of several works on oimo.io/works&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;The code of several works on &lt;a href=&#34;https://oimo.io/works&#34;&gt;oimo.io/works&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h2&gt;When you try to compile&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Use the latest &lt;a href=&#34;https://haxe.org/&#34;&gt;Haxe&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Copy personal libs from &lt;a href=&#34;https://github.com/saharan/haxelibs/&#34;&gt;here&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;I often add breaking changes to the personal libs and projects, do not always expect successful compilations!&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Bubbles&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://oimo.io/works/bubbles&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/saharan/works/main/imgs/bubbles.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;br&gt; Code: &lt;a href=&#34;https://raw.githubusercontent.com/saharan/works/main/bubbles&#34;&gt;&lt;code&gt;/bubbles&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Jelly&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://oimo.io/works/jelly&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/saharan/works/main/imgs/jelly.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;br&gt; Code: &lt;a href=&#34;https://raw.githubusercontent.com/saharan/works/main/jelly&#34;&gt;&lt;code&gt;/jelly&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Clock&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://oimo.io/works/clock&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/saharan/works/main/imgs/clock.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;br&gt; Code: &lt;a href=&#34;https://raw.githubusercontent.com/saharan/works/main/clock&#34;&gt;&lt;code&gt;/clock&lt;/code&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Water&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://oimo.io/works/water&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/saharan/works/main/imgs/water.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;br&gt; Code: &lt;a href=&#34;https://raw.githubusercontent.com/saharan/works/main/water&#34;&gt;&lt;code&gt;/water&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

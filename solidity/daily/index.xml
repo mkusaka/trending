@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:46:45Z</updated>
+  <updated>2023-03-11T01:46:34Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bEsPoKeN-tOkEns/token-tester</title>
-    <updated>2023-03-10T01:46:45Z</updated>
-    <id>tag:github.com,2023-03-10:/bEsPoKeN-tOkEns/token-tester</id>
-    <link href="https://github.com/bEsPoKeN-tOkEns/token-tester" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use cursed ERC20s in foundry unit tests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-03-neotokyo</title>
+    <updated>2023-03-11T01:46:34Z</updated>
+    <id>tag:github.com,2023-03-11:/code-423n4/2023-03-neotokyo</id>
+    <link href="https://github.com/code-423n4/2023-03-neotokyo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>exp-table/hyena</title>
-    <updated>2023-03-10T01:46:45Z</updated>
-    <id>tag:github.com,2023-03-10:/exp-table/hyena</id>
-    <link href="https://github.com/exp-table/hyena" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pack data tightly together and save space.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zobront/halmos-solady</title>
+    <updated>2023-03-11T01:46:34Z</updated>
+    <id>tag:github.com,2023-03-11:/zobront/halmos-solady</id>
+    <link href="https://github.com/zobront/halmos-solady" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Formally verifying consistency between Solmate and Solady using Halmos&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aitimate/local-uniswap-v2</title>
+    <updated>2023-03-11T01:46:34Z</updated>
+    <id>tag:github.com,2023-03-11:/aitimate/local-uniswap-v2</id>
+    <link href="https://github.com/aitimate/local-uniswap-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

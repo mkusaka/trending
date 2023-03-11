@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:48:33Z</updated>
+  <updated>2023-03-11T01:48:46Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>madox2/vim-ai</title>
-    <updated>2023-03-10T01:48:33Z</updated>
-    <id>tag:github.com,2023-03-10:/madox2/vim-ai</id>
-    <link href="https://github.com/madox2/vim-ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ryotakato/unite-mongodb</title>
+    <updated>2023-03-11T01:48:46Z</updated>
+    <id>tag:github.com,2023-03-11:/ryotakato/unite-mongodb</id>
+    <link href="https://github.com/ryotakato/unite-mongodb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim plugin. unite source for using MongoDB.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>preservim/vim-indent-guides</title>
-    <updated>2023-03-10T01:48:33Z</updated>
-    <id>tag:github.com,2023-03-10:/preservim/vim-indent-guides</id>
-    <link href="https://github.com/preservim/vim-indent-guides" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Vim plugin for visually displaying indent levels in code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sbgoodm/dotfiles</title>
+    <updated>2023-03-11T01:48:46Z</updated>
+    <id>tag:github.com,2023-03-11:/sbgoodm/dotfiles</id>
+    <link href="https://github.com/sbgoodm/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dotfiles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mdodsworth/.vim</title>
+    <updated>2023-03-11T01:48:46Z</updated>
+    <id>tag:github.com,2023-03-11:/mdodsworth/.vim</id>
+    <link href="https://github.com/mdodsworth/.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Making it more frustrating to use vim on other people&#39;s machines&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

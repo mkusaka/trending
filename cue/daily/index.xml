@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CUE Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:34:31Z</updated>
+  <updated>2023-03-11T01:32:46Z</updated>
   <subtitle>Daily Trending of CUE in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>weavegitops/application-promotion-podinfo</title>
-    <updated>2023-03-10T01:34:31Z</updated>
-    <id>tag:github.com,2023-03-10:/weavegitops/application-promotion-podinfo</id>
-    <link href="https://github.com/weavegitops/application-promotion-podinfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is used by demo environments as an application promotion demo through multiple destination clusters that represent environments&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

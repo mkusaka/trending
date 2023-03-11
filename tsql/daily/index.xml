@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:47:58Z</updated>
+  <updated>2023-03-11T01:48:09Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yunhasnawa/Toko-Barokah-Sample-DW</title>
-    <updated>2023-03-10T01:47:58Z</updated>
-    <id>tag:github.com,2023-03-10:/yunhasnawa/Toko-Barokah-Sample-DW</id>
-    <link href="https://github.com/yunhasnawa/Toko-Barokah-Sample-DW" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A couple of database example with simple columns structure intended for learning ETL in Data Warehouse.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

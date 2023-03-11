@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nu Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:42:03Z</updated>
+  <updated>2023-03-11T01:41:31Z</updated>
   <subtitle>Daily Trending of Nu in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nushell/nushell.github.io</title>
+    <updated>2023-03-11T01:41:31Z</updated>
+    <id>tag:github.com,2023-03-11:/nushell/nushell.github.io</id>
+    <link href="https://github.com/nushell/nushell.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nushell&#39;s main website, blog, book, and more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

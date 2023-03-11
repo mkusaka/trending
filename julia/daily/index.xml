@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:39:36Z</updated>
+  <updated>2023-03-11T01:38:56Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/SBMLToolkit.jl</title>
-    <updated>2023-03-10T01:39:36Z</updated>
-    <id>tag:github.com,2023-03-10:/SciML/SBMLToolkit.jl</id>
-    <link href="https://github.com/SciML/SBMLToolkit.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SBML differential equation and chemical reaction model (Gillespie simulations) for Julia&#39;s SciML ModelingToolkit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ThatcherC/ReplGPT.jl</title>
+    <updated>2023-03-11T01:38:56Z</updated>
+    <id>tag:github.com,2023-03-11:/ThatcherC/ReplGPT.jl</id>
+    <link href="https://github.com/ThatcherC/ReplGPT.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A ChatGPT mode for the Julia REPL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iliailmer/ParameterEstimation.jl</title>
+    <updated>2023-03-11T01:38:56Z</updated>
+    <id>tag:github.com,2023-03-11:/iliailmer/ParameterEstimation.jl</id>
+    <link href="https://github.com/iliailmer/ParameterEstimation.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ParameterEstimation.jl is a Julia package for estimating parameters and initial conditions of ODE models given measurement data.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:41:02Z</updated>
+  <updated>2023-03-11T01:40:23Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IIC2133-PUC/2023-1</title>
-    <updated>2023-03-10T01:41:02Z</updated>
-    <id>tag:github.com,2023-03-10:/IIC2133-PUC/2023-1</id>
-    <link href="https://github.com/IIC2133-PUC/2023-1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashgreen/cypher-chialisp</title>
+    <updated>2023-03-11T01:40:23Z</updated>
+    <id>tag:github.com,2023-03-11:/hashgreen/cypher-chialisp</id>
+    <link href="https://github.com/hashgreen/cypher-chialisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A chialisp library to develop smart coins on the Chia Blockchain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

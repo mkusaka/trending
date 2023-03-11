@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:43:09Z</updated>
+  <updated>2023-03-11T01:42:34Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kseverin/PopulationVirus_simulation</title>
-    <updated>2023-03-10T01:43:09Z</updated>
-    <id>tag:github.com,2023-03-10:/kseverin/PopulationVirus_simulation</id>
-    <link href="https://github.com/kseverin/PopulationVirus_simulation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Perl program which simulates the outbreak of a virus based on a transmission rate&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>peczenyj/Fix-DateTime</title>
-    <updated>2023-03-10T01:43:09Z</updated>
-    <id>tag:github.com,2023-03-10:/peczenyj/Fix-DateTime</id>
-    <link href="https://github.com/peczenyj/Fix-DateTime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Small monkey patch in DateTime class (perl)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fix-DateTime version 0.02&lt;/h1&gt; &#xA;&lt;p&gt;Module to apply monkey patch in DateTime class&lt;/p&gt; &#xA;&lt;p&gt;DEMO&lt;/p&gt; &#xA;&lt;p&gt;$ cd ./examples ; demo.pl # if installed&lt;br&gt; or $ perl -I lib examples/demo.pl&lt;/p&gt; &#xA;&lt;p&gt;DOCUMENTATION&lt;/p&gt; &#xA;&lt;p&gt;See POD in Fix::DateTime&lt;/p&gt; &#xA;&lt;p&gt;$ perldoc Fix::DateTime # if installed or $ perldoc lib/Fix/DateTime.pm&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION&lt;/p&gt; &#xA;&lt;p&gt;To install this module type the following:&lt;/p&gt; &#xA;&lt;p&gt;perl Makefile.PL make make test make install&lt;/p&gt; &#xA;&lt;p&gt;DEPENDENCIES&lt;/p&gt; &#xA;&lt;p&gt;This module requires these other modules and libraries:&lt;/p&gt; &#xA;&lt;p&gt;DateTime (tested with 0.78) List::Util (tested with 1.23 - just &#39;first&#39; is needed)&lt;/p&gt; &#xA;&lt;p&gt;COPYRIGHT AND LICENCE&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2013 by Tiago Peczenyj&lt;/p&gt; &#xA;&lt;p&gt;This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.10.0 or, at your option, any later version of Perl 5 you may have available.&lt;/p&gt;</summary>
-  </entry>
 </feed>

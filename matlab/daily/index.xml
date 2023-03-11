@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:41:06Z</updated>
+  <updated>2023-03-11T01:40:28Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lhhGit/Curvature-Scale-Space-for-Sketch-Recognition</title>
-    <updated>2023-03-10T01:41:06Z</updated>
-    <id>tag:github.com,2023-03-10:/lhhGit/Curvature-Scale-Space-for-Sketch-Recognition</id>
-    <link href="https://github.com/lhhGit/Curvature-Scale-Space-for-Sketch-Recognition" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CSS implementation for sketch recognition&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

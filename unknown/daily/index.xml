@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-10T01:31:07Z</updated>
+  <updated>2023-03-11T01:29:14Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>easychen/openai-gpt-dev-notes-for-cn-developer</title>
-    <updated>2023-03-10T01:31:07Z</updated>
-    <id>tag:github.com,2023-03-10:/easychen/openai-gpt-dev-notes-for-cn-developer</id>
-    <link href="https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;如何快速开发一个OpenAI/GPT应用：国内开发者笔记&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>davinci1010/pinduoduo_backdoor</title>
+    <updated>2023-03-11T01:29:14Z</updated>
+    <id>tag:github.com,2023-03-11:/davinci1010/pinduoduo_backdoor</id>
+    <link href="https://github.com/davinci1010/pinduoduo_backdoor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;拼多多apk内嵌提权代码，及动态下发dex分析&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xx025/carrot</title>
-    <updated>2023-03-10T01:31:07Z</updated>
-    <id>tag:github.com,2023-03-10:/xx025/carrot</id>
-    <link href="https://github.com/xx025/carrot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;这儿收集一些免费的ChatGPT镜像站点 当前：39个站点&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ayadim/Nuclei-bug-hunter</title>
+    <updated>2023-03-11T01:29:14Z</updated>
+    <id>tag:github.com,2023-03-11:/ayadim/Nuclei-bug-hunter</id>
+    <link href="https://github.com/ayadim/Nuclei-bug-hunter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;i will upload more templates here to share with the comunity.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>orwagodfather/x</title>
-    <updated>2023-03-10T01:31:07Z</updated>
-    <id>tag:github.com,2023-03-10:/orwagodfather/x</id>
-    <link href="https://github.com/orwagodfather/x" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>csyxwei/ELITE</title>
+    <updated>2023-03-11T01:29:14Z</updated>
+    <id>tag:github.com,2023-03-11:/csyxwei/ELITE</id>
+    <link href="https://github.com/csyxwei/ELITE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Implementation of &#34;ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
