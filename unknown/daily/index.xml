@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-11T01:29:14Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-03-12T01:29:40Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>davinci1010/pinduoduo_backdoor</title>
-    <updated>2023-03-11T01:29:14Z</updated>
-    <id>tag:github.com,2023-03-11:/davinci1010/pinduoduo_backdoor</id>
-    <link href="https://github.com/davinci1010/pinduoduo_backdoor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;拼多多apk内嵌提权代码，及动态下发dex分析&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chika0801/Xray-examples</title>
+    <updated>2023-03-12T01:29:40Z</updated>
+    <id>tag:github.com,2023-03-12:/chika0801/Xray-examples</id>
+    <link href="https://github.com/chika0801/Xray-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀Xray 配置文件模板⭐&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ayadim/Nuclei-bug-hunter</title>
-    <updated>2023-03-11T01:29:14Z</updated>
-    <id>tag:github.com,2023-03-11:/ayadim/Nuclei-bug-hunter</id>
-    <link href="https://github.com/ayadim/Nuclei-bug-hunter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;i will upload more templates here to share with the comunity.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getaurora/download</title>
+    <updated>2023-03-12T01:29:40Z</updated>
+    <id>tag:github.com,2023-03-12:/getaurora/download</id>
+    <link href="https://github.com/getaurora/download" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>csyxwei/ELITE</title>
-    <updated>2023-03-11T01:29:14Z</updated>
-    <id>tag:github.com,2023-03-11:/csyxwei/ELITE</id>
-    <link href="https://github.com/csyxwei/ELITE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Implementation of &#34;ELITE: Encoding Visual Concepts into Textual Embeddings for Customized Text-to-Image Generation&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DavidProbinsky/RedTeam-Physical-Tools</title>
+    <updated>2023-03-12T01:29:40Z</updated>
+    <id>tag:github.com,2023-03-12:/DavidProbinsky/RedTeam-Physical-Tools</id>
+    <link href="https://github.com/DavidProbinsky/RedTeam-Physical-Tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Red Team Toolkit - A curated list of tools that are commonly used in the field for Physical Security, Red Teaming, and Tactical Covert Entry.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

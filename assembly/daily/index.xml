@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-11T01:30:18Z</updated>
+  <updated>2023-03-12T01:30:28Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zajo/appler</title>
-    <updated>2023-03-11T01:30:18Z</updated>
-    <id>tag:github.com,2023-03-11:/zajo/appler</id>
-    <link href="https://github.com/zajo/appler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apple ][ emulator for MS-DOS, written in 8086 assembly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition</title>
+    <updated>2023-03-12T01:30:28Z</updated>
+    <id>tag:github.com,2023-03-12:/PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition</id>
+    <link href="https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern Computer Architecture and Organization – Second Edition, Published by Packt&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Krymancer/AssemblyServer</title>
-    <updated>2023-03-11T01:30:18Z</updated>
-    <id>tag:github.com,2023-03-11:/Krymancer/AssemblyServer</id>
-    <link href="https://github.com/Krymancer/AssemblyServer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple HTTP server writed in x86 assembly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>idaholab/malamute</title>
+    <updated>2023-03-12T01:30:28Z</updated>
+    <id>tag:github.com,2023-03-12:/idaholab/malamute</id>
+    <link href="https://github.com/idaholab/malamute" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced manufacturing modeling and simulation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

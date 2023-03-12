@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:56:22Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dustinlyons/nixos-config</title>
+    <updated>2023-03-12T01:56:22Z</updated>
+    <id>tag:github.com,2023-03-12:/dustinlyons/nixos-config</id>
+    <link href="https://github.com/dustinlyons/nixos-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flake-based Nix / NixOS configuration for MacOS, x86, and VMs ✨&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-11T01:48:43Z</updated>
+  <updated>2023-03-12T01:45:43Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>efabless/openlane2</title>
+    <updated>2023-03-12T01:45:43Z</updated>
+    <id>tag:github.com,2023-03-12:/efabless/openlane2</id>
+    <link href="https://github.com/efabless/openlane2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The next generation of OpenLane, rewritten from scratch with a modular architecture&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ZipCPU/eth10g</title>
+    <updated>2023-03-12T01:45:43Z</updated>
+    <id>tag:github.com,2023-03-12:/ZipCPU/eth10g</id>
+    <link href="https://github.com/ZipCPU/eth10g" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;10Gb Ethernet Switch&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

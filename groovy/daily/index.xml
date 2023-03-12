@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-11T01:36:25Z</updated>
+  <updated>2023-03-12T01:35:17Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>krishnamurthypradeep/devops-infra-groovy-app</title>
-    <updated>2023-03-11T01:36:25Z</updated>
-    <id>tag:github.com,2023-03-11:/krishnamurthypradeep/devops-infra-groovy-app</id>
-    <link href="https://github.com/krishnamurthypradeep/devops-infra-groovy-app" rel="alternate"></link>
+    <title>xfli333/Reading-Server</title>
+    <updated>2023-03-12T01:35:17Z</updated>
+    <id>tag:github.com,2023-03-12:/xfli333/Reading-Server</id>
+    <link href="https://github.com/xfli333/Reading-Server" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ddaugher/fluen_t</title>
+    <updated>2023-03-12T01:35:17Z</updated>
+    <id>tag:github.com,2023-03-12:/ddaugher/fluen_t</id>
+    <link href="https://github.com/ddaugher/fluen_t" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;fluent time and money plugin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

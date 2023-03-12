@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:46:46Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mli/paper-reading</title>
+    <updated>2023-03-12T01:46:46Z</updated>
+    <id>tag:github.com,2023-03-12:/mli/paper-reading</id>
+    <link href="https://github.com/mli/paper-reading" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;深度学习经典、新论文逐段精读&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</title>
+    <updated>2023-03-12T01:46:46Z</updated>
+    <id>tag:github.com,2023-03-12:/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide</id>
+    <link href="https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Blackymas/NSPanel_HA_Blueprint</title>
+    <updated>2023-03-12T01:46:46Z</updated>
+    <id>tag:github.com,2023-03-12:/Blackymas/NSPanel_HA_Blueprint</id>
+    <link href="https://github.com/Blackymas/NSPanel_HA_Blueprint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

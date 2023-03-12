@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ASL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:47:26Z</updated>
+  <subtitle>Weekly Trending of ASL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>smart-pucrs/MAIDS-bed-allocation</title>
+    <updated>2023-03-12T01:47:26Z</updated>
+    <id>tag:github.com,2023-03-12:/smart-pucrs/MAIDS-bed-allocation</id>
+    <link href="https://github.com/smart-pucrs/MAIDS-bed-allocation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Multi-Agent Intentional Dialogue System for hospital bed allocation domain&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

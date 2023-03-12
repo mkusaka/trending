@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-11T01:30:32Z</updated>
+  <updated>2023-03-12T01:30:41Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pankoza-pl/malwaredatabase</title>
+    <updated>2023-03-12T01:30:41Z</updated>
+    <id>tag:github.com,2023-03-12:/pankoza-pl/malwaredatabase</id>
+    <link href="https://github.com/pankoza-pl/malwaredatabase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo contains live malware samples. Be careful with them or you can lose all your data!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vokins/yhosts</title>
+    <updated>2023-03-12T01:30:41Z</updated>
+    <id>tag:github.com,2023-03-12:/vokins/yhosts</id>
+    <link href="https://github.com/vokins/yhosts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AD hosts爱好群，群号:201973909；无限期暂停更新。劝君更尽一杯酒，西出阳关无故人。莫愁前路无知己，天下谁人不识君。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shani5maurya/RipperRDP</title>
+    <updated>2023-03-12T01:30:41Z</updated>
+    <id>tag:github.com,2023-03-12:/shani5maurya/RipperRDP</id>
+    <link href="https://github.com/shani5maurya/RipperRDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

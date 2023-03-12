@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:52:30Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aartamonau/kbt</title>
+    <updated>2023-03-12T01:52:30Z</updated>
+    <id>tag:github.com,2023-03-12:/aartamonau/kbt</id>
+    <link href="https://github.com/aartamonau/kbt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple kernel backtrace decoder&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;kbt&lt;/h1&gt; &#xA;&lt;p&gt;Stupid kernel backtrace decoder. Uses /proc/kallsyms to resolve symbol names. First word (delimited by spaces) of every line is assumed to be an address to resolve. If something goes wrong, input line is echoed untouched to the stdout.&lt;/p&gt; &#xA;&lt;h1&gt;usage&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cat backtrace&#xA;0xffffffff814919e0 : 0xffffffff814919e0&#xA;0xffffffff811252f7 : 0xffffffff811252f7&#xA;0xffffffff810b0040 : 0xffffffff810b0040&#xA;0xffffffff81178570 : 0xffffffff81178570&#xA;0xffffffff810af84f : 0xffffffff810af84f&#xA;0xffffffff81491ea9 : 0xffffffff81491ea9&#xA;0xffffffff810af949 : 0xffffffff810af949&#xA;0xffffffff810b048a : 0xffffffff810b048a&#xA;0xffffffff81260e5a : 0xffffffff81260e5a&#xA;0xffffffffa14b2d6b : 0xffffffffa14b2d6b [stap_25786]&#xA;0xffffffff81260e5a : 0xffffffff81260e5a&#xA;0xffffffff810b21cd : 0xffffffff810b21cd&#xA;0xffffffff81496454 : 0xffffffff81496454&#xA;0xffffffffa14b16f3 : 0xffffffffa14b16f3 [stap_25786]&#xA;0xffffffff81119dad : 0xffffffff81119dad&#xA;0xffffffff810232be : 0xffffffff810232be&#xA;0xffffffff810b2c6d : 0xffffffff810b2c6d&#xA;0xffffffff810230b1 : 0xffffffff810230b1&#xA;0xffffffff8149a47f : 0xffffffff8149a47f&#xA;&#xA;$ kbt &amp;lt; backtrace&#xA;0xffffffff814919e0 : __schedule&#xA;0xffffffff811252f7 : __alloc_pages_nodemask&#xA;0xffffffff810b0040 : get_futex_key&#xA;0xffffffff81178570 : __mem_cgroup_try_charge&#xA;0xffffffff810af84f : get_futex_value_locked&#xA;0xffffffff81491ea9 : schedule&#xA;0xffffffff810af949 : futex_wait_queue_me&#xA;0xffffffff810b048a : futex_wait&#xA;0xffffffff81260e5a : strlcpy&#xA;0xffffffffa14b2d6b : function_gettimeofday_us&#xA;0xffffffff81260e5a : strlcpy&#xA;0xffffffff810b21cd : do_futex&#xA;0xffffffff81496454 : do_page_fault&#xA;0xffffffffa14b16f3 : enter_inode_uprobe&#xA;0xffffffff81119dad : uprobe_notify_resume&#xA;0xffffffff810232be : syscall_trace_leave&#xA;0xffffffff810b2c6d : sys_futex&#xA;0xffffffff810230b1 : syscall_trace_enter&#xA;0xffffffff8149a47f : tracesys&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>dewaka/haskell-99problems</title>
+    <updated>2023-03-12T01:52:30Z</updated>
+    <id>tag:github.com,2023-03-12:/dewaka/haskell-99problems</id>
+    <link href="https://github.com/dewaka/haskell-99problems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solving Haskell 99 problems.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Public repository to practice Haskell 99 problems.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.haskell.org/haskellwiki/99_Haskell_exercises&#34;&gt;http://www.haskell.org/haskellwiki/99_Haskell_exercises&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>reiddraper/haskell-logic</title>
+    <updated>2023-03-12T01:52:30Z</updated>
+    <id>tag:github.com,2023-03-12:/reiddraper/haskell-logic</id>
+    <link href="https://github.com/reiddraper/haskell-logic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fun with propositional logic in Haskell&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

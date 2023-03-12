@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:55:26Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nestlabs/nlunit-test</title>
+    <updated>2023-03-12T01:55:26Z</updated>
+    <id>tag:github.com,2023-03-12:/nestlabs/nlunit-test</id>
+    <link href="https://github.com/nestlabs/nlunit-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nest Labs Unit Test (nlunit-test) is a simple, portable unit test suite framework, capable of running on just about any system, no matter how constrained and depends only on the C Standard Library.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>haiiiiiyun/awesome-selfhosted-cn</title>
+    <updated>2023-03-12T01:55:26Z</updated>
+    <id>tag:github.com,2023-03-12:/haiiiiiyun/awesome-selfhosted-cn</id>
+    <link href="https://github.com/haiiiiiyun/awesome-selfhosted-cn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;可以在本地搭建的网络服务和 Web 应用列表。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-11T01:34:13Z</updated>
+  <updated>2023-03-12T01:33:47Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nullify-Platform/SCA-Test</title>
-    <updated>2023-03-11T01:34:13Z</updated>
-    <id>tag:github.com,2023-03-11:/Nullify-Platform/SCA-Test</id>
-    <link href="https://github.com/Nullify-Platform/SCA-Test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Test Repo for SCA vulnerabilities&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dashbitco/nimble_options</title>
+    <updated>2023-03-12T01:33:47Z</updated>
+    <id>tag:github.com,2023-03-12:/dashbitco/nimble_options</id>
+    <link href="https://github.com/dashbitco/nimble_options" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiny library for validating and documenting high-level options. 💽&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:49:08Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HashNuke/pixelart-editor</title>
+    <updated>2023-03-12T01:49:08Z</updated>
+    <id>tag:github.com,2023-03-12:/HashNuke/pixelart-editor</id>
+    <link href="https://github.com/HashNuke/pixelart-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a pixel art editor using HTML DIVs for my HackerSchool application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mikesmullin/coffee-shop-docs</title>
+    <updated>2023-03-12T01:49:08Z</updated>
+    <id>tag:github.com,2023-03-12:/mikesmullin/coffee-shop-docs</id>
+    <link href="https://github.com/mikesmullin/coffee-shop-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation of the CoffeeShop Web Framework for Node.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>khall/fire_engineer_coffeescript</title>
+    <updated>2023-03-12T01:49:08Z</updated>
+    <id>tag:github.com,2023-03-12:/khall/fire_engineer_coffeescript</id>
+    <link href="https://github.com/khall/fire_engineer_coffeescript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A game that teaches you to use a fire engine pump&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

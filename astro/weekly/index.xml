@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Astro Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:47:30Z</updated>
+  <subtitle>Weekly Trending of Astro in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>markteekman/accessible-astro-starter</title>
+    <updated>2023-03-12T01:47:30Z</updated>
+    <id>tag:github.com,2023-03-12:/markteekman/accessible-astro-starter</id>
+    <link href="https://github.com/markteekman/accessible-astro-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Accessible Starter Theme for Astro including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>santoshyadavdev/angular-snippets</title>
+    <updated>2023-03-12T01:47:30Z</updated>
+    <id>tag:github.com,2023-03-12:/santoshyadavdev/angular-snippets</id>
+    <link href="https://github.com/santoshyadavdev/angular-snippets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A place for sharing Angular Snippets&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>appwrite/demos-for-astro</title>
+    <updated>2023-03-12T01:47:30Z</updated>
+    <id>tag:github.com,2023-03-12:/appwrite/demos-for-astro</id>
+    <link href="https://github.com/appwrite/demos-for-astro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-11T01:31:26Z</updated>
+  <updated>2023-03-12T01:31:24Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OP-TEE/optee_os</title>
-    <updated>2023-03-11T01:31:26Z</updated>
-    <id>tag:github.com,2023-03-11:/OP-TEE/optee_os</id>
-    <link href="https://github.com/OP-TEE/optee_os" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Trusted side of the TEE&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OP-TEE Trusted OS&lt;/h1&gt; &#xA;&lt;p&gt;This git contains source code for the secure side implementation of OP-TEE project.&lt;/p&gt; &#xA;&lt;p&gt;All official OP-TEE documentation has moved to &lt;a href=&#34;http://optee.readthedocs.io&#34;&gt;http://optee.readthedocs.io&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;// OP-TEE core maintainers&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>chompie1337/Windows_LPE_AFD_CVE-2023-21768</title>
-    <updated>2023-03-11T01:31:26Z</updated>
-    <id>tag:github.com,2023-03-11:/chompie1337/Windows_LPE_AFD_CVE-2023-21768</id>
-    <link href="https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LPE exploit for CVE-2023-21768&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2023-21768 Local Privilege Escalation POC&lt;/h1&gt; &#xA;&lt;p&gt;authors: &lt;a href=&#34;https://twitter.com/chompie1337&#34;&gt;chompie&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/FuzzySec&#34;&gt;b33f&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For demonstration purposes only. Complete exploit works on vulnerable Windows 11 22H2 systems. Write primitive works on all vulnerable systems.&lt;/p&gt; &#xA;&lt;p&gt;Usage:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Windows_AFD_LPE_CVE-2023-21768.exe &amp;lt;pid&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;where &lt;code&gt;&amp;lt;pid&amp;gt;&lt;/code&gt; is the process ID (in decimal) of the process to elevate.&lt;/p&gt; &#xA;&lt;p&gt;Should result in the target process being elevated to SYSTEM&lt;/p&gt; &#xA;&lt;p&gt;The I/O Ring LPE primitive code is based on the I/ORing R/W &lt;a href=&#34;https://github.com/yardenshafir/IoRingReadWritePrimitive&#34;&gt;PoC&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/yarden_shafir&#34;&gt;Yarden Shafir&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Blog post soon, will update repo when it&#39;s released.&lt;/p&gt;</summary>
-  </entry>
 </feed>

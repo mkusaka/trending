@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:48:57Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bob0the0mighty/koza-gp</title>
+    <updated>2023-03-12T01:48:57Z</updated>
+    <id>tag:github.com,2023-03-12:/bob0the0mighty/koza-gp</id>
+    <link href="https://github.com/bob0the0mighty/koza-gp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>daaku/dak</title>
+    <updated>2023-03-12T01:48:57Z</updated>
+    <id>tag:github.com,2023-03-12:/daaku/dak</id>
+    <link href="https://github.com/daaku/dak" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dak is a Lisp like language that transpiles to JavaScript.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>borkdude/deflet</title>
+    <updated>2023-03-12T01:48:57Z</updated>
+    <id>tag:github.com,2023-03-12:/borkdude/deflet</id>
+    <link href="https://github.com/borkdude/deflet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make let-expressions REPL-friendly!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

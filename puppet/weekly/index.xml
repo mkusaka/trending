@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-12T01:58:13Z</updated>
+  <subtitle>Weekly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SilexConsulting/puppetlabs-openldap</title>
+    <updated>2023-03-12T01:58:13Z</updated>
+    <id>tag:github.com,2023-03-12:/SilexConsulting/puppetlabs-openldap</id>
+    <link href="https://github.com/SilexConsulting/puppetlabs-openldap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Puppet module for managing openldap clients and servers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rhoml/puppet-osxbundle</title>
+    <updated>2023-03-12T01:58:13Z</updated>
+    <id>tag:github.com,2023-03-12:/rhoml/puppet-osxbundle</id>
+    <link href="https://github.com/rhoml/puppet-osxbundle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mac osX Mountain Lion Xcode setup&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
