@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:37:03Z</updated>
+  <updated>2023-03-13T01:37:00Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JuliaInterop/ObjectiveC.jl</title>
-    <updated>2023-03-12T01:37:03Z</updated>
-    <id>tag:github.com,2023-03-12:/JuliaInterop/ObjectiveC.jl</id>
-    <link href="https://github.com/JuliaInterop/ObjectiveC.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Objective-C embedded in Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaDebug/JuliaInterpreter.jl</title>
-    <updated>2023-03-12T01:37:03Z</updated>
-    <id>tag:github.com,2023-03-12:/JuliaDebug/JuliaInterpreter.jl</id>
-    <link href="https://github.com/JuliaDebug/JuliaInterpreter.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Interpreter for Julia code&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

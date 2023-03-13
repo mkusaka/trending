@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:32:24Z</updated>
+  <updated>2023-03-13T01:31:56Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>brainrake/legato</title>
-    <updated>2023-03-12T01:32:24Z</updated>
-    <id>tag:github.com,2023-03-12:/brainrake/legato</id>
-    <link href="https://github.com/brainrake/legato" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OSC, MIDI, and more&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>waymondo/backbone.foramina</title>
-    <updated>2023-03-12T01:32:24Z</updated>
-    <id>tag:github.com,2023-03-12:/waymondo/backbone.foramina</id>
-    <link href="https://github.com/waymondo/backbone.foramina" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a small collection of Backbone extensions&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

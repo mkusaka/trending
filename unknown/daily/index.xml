@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:29:40Z</updated>
+  <updated>2023-03-13T01:29:26Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chika0801/Xray-examples</title>
-    <updated>2023-03-12T01:29:40Z</updated>
-    <id>tag:github.com,2023-03-12:/chika0801/Xray-examples</id>
-    <link href="https://github.com/chika0801/Xray-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀Xray 配置文件模板⭐&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DrDiman/CSS-Bayan-task</title>
+    <updated>2023-03-13T01:29:26Z</updated>
+    <id>tag:github.com,2023-03-13:/DrDiman/CSS-Bayan-task</id>
+    <link href="https://github.com/DrDiman/CSS-Bayan-task" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>getaurora/download</title>
-    <updated>2023-03-12T01:29:40Z</updated>
-    <id>tag:github.com,2023-03-12:/getaurora/download</id>
-    <link href="https://github.com/getaurora/download" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thoughtspile/awesome-tiny-js</title>
+    <updated>2023-03-13T01:29:26Z</updated>
+    <id>tag:github.com,2023-03-13:/thoughtspile/awesome-tiny-js</id>
+    <link href="https://github.com/thoughtspile/awesome-tiny-js" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of tiny JS libraries to put your bundle on a diet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DavidProbinsky/RedTeam-Physical-Tools</title>
-    <updated>2023-03-12T01:29:40Z</updated>
-    <id>tag:github.com,2023-03-12:/DavidProbinsky/RedTeam-Physical-Tools</id>
-    <link href="https://github.com/DavidProbinsky/RedTeam-Physical-Tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Red Team Toolkit - A curated list of tools that are commonly used in the field for Physical Security, Red Teaming, and Tactical Covert Entry.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Skype-line/X-Avatar</title>
+    <updated>2023-03-13T01:29:26Z</updated>
+    <id>tag:github.com,2023-03-13:/Skype-line/X-Avatar</id>
+    <link href="https://github.com/Skype-line/X-Avatar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;X-Avatar: Expressive Human Avatars (CVPR2023)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

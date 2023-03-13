@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:42:24Z</updated>
+  <updated>2023-03-13T01:42:14Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wix/homebrew-brew</title>
+    <updated>2023-03-13T01:42:14Z</updated>
+    <id>tag:github.com,2023-03-13:/wix/homebrew-brew</id>
+    <link href="https://github.com/wix/homebrew-brew" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Homebrew tap for formulae for software developed by Wix&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Wix Homebrew Tap&lt;/h1&gt; &#xA;&lt;p&gt;This is a &lt;a href=&#34;http://brew.sh/&#34;&gt;Homebrew&lt;/a&gt; tap for formulae for software developed by Wix.&lt;/p&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;p&gt;Using these formulae requires Homebrew, which in turn requires Xcode. If you have not yet installed Homebrew, a quick summary is at the end of this document.&lt;/p&gt; &#xA;&lt;p&gt;Once homebrew is installed, simply run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;brew tap wix/brew&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Use&lt;/h2&gt; &#xA;&lt;p&gt;To install software, just use &lt;code&gt;brew install&lt;/code&gt; with the name of the formula. You may wish to run &lt;code&gt;brew update&lt;/code&gt; before hand to get the latest version of the formulae. For example, to install the latest version of the Apple simulator utilities:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;brew tap wix/brew&#xA;brew update&#xA;brew install wix/applesimutils&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To upgrade software:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;brew update&#xA;# update just applesimutils&#xA;brew upgrade applesimutils&#xA;# or,&#xA;# upgrade all software installed with Homebrew&#xA;brew upgrade&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Troubleshooting&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;In case an installation fails, make sure to update your command line tools in the System Update system prefernce pane of your Mac&lt;/li&gt; &#xA; &lt;li&gt;If Homebrew complains about a conflict in the &lt;code&gt;wix/brew&lt;/code&gt; tap, run &lt;code&gt;brew untap wix/brew &amp;amp;&amp;amp; brew tap wix/brew&lt;/code&gt; and try installing again&lt;/li&gt; &#xA; &lt;li&gt;If installation still fails, &lt;strong&gt;run &lt;code&gt;brew doctor&lt;/code&gt; and fix all issues &amp;amp; warnings&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Please file bug reports and/or enhancement requests as GitHub issues of the individual projects, not this repository.&lt;/p&gt; &#xA;&lt;h2&gt;References&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;brew help&lt;/code&gt;, &lt;code&gt;man brew&lt;/code&gt;, or the Homebrew &lt;a href=&#34;https://github.com/Homebrew/brew/raw/master/docs/README.md&#34;&gt;documentation&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>mergestat/homebrew-mergestat</title>
+    <updated>2023-03-13T01:42:14Z</updated>
+    <id>tag:github.com,2023-03-13:/mergestat/homebrew-mergestat</id>
+    <link href="https://github.com/mergestat/homebrew-mergestat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Brew Formula for the MergeStat CLI&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;homebrew-mergestat&lt;/h2&gt; &#xA;&lt;p&gt;Homebrew formula for &lt;a href=&#34;https://github.com/mergestat/mergestat-lite&#34;&gt;&lt;code&gt;mergestat/mergestat-lite&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;brew tap mergestat/mergestat&#xA;brew install mergestat&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>dkkoma/har_to_csv</title>
+    <updated>2023-03-13T01:42:14Z</updated>
+    <id>tag:github.com,2023-03-13:/dkkoma/har_to_csv</id>
+    <link href="https://github.com/dkkoma/har_to_csv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;harを適当にTSVに変換する&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;har_to_csv&lt;/h1&gt; &#xA;&lt;p&gt;harを適当にTSVに変換する&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;ruby har_to_csv.rb sample.har &amp;gt; sample.csv&lt;/code&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

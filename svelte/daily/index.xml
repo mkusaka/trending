@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:44:17Z</updated>
+  <updated>2023-03-13T01:44:06Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Rich-Harris/svelte-split-pane</title>
-    <updated>2023-03-12T01:44:17Z</updated>
-    <id>tag:github.com,2023-03-12:/Rich-Harris/svelte-split-pane</id>
-    <link href="https://github.com/Rich-Harris/svelte-split-pane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A &lt;SplitPane&gt; component&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joysofcode/enterprise-stack</title>
+    <updated>2023-03-13T01:44:06Z</updated>
+    <id>tag:github.com,2023-03-13:/joysofcode/enterprise-stack</id>
+    <link href="https://github.com/joysofcode/enterprise-stack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 The SvelteKit enterprise stack&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

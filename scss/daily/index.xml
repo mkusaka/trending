@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:43:13Z</updated>
+  <updated>2023-03-13T01:42:57Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>primefaces/primevue-sass-theme</title>
-    <updated>2023-03-12T01:43:13Z</updated>
-    <id>tag:github.com,2023-03-12:/primefaces/primevue-sass-theme</id>
-    <link href="https://github.com/primefaces/primevue-sass-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PrimeVue Theming with SASS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ansible/slides</title>
+    <updated>2023-03-13T01:42:57Z</updated>
+    <id>tag:github.com,2023-03-13:/ansible/slides</id>
+    <link href="https://github.com/ansible/slides" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hugo-sid/hugo-blog-awesome</title>
+    <updated>2023-03-13T01:42:57Z</updated>
+    <id>tag:github.com,2023-03-13:/hugo-sid/hugo-blog-awesome</id>
+    <link href="https://github.com/hugo-sid/hugo-blog-awesome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast, minimal blog with dark mode support.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mallexibra/mallexibra-website</title>
+    <updated>2023-03-13T01:42:57Z</updated>
+    <id>tag:github.com,2023-03-13:/mallexibra/mallexibra-website</id>
+    <link href="https://github.com/mallexibra/mallexibra-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

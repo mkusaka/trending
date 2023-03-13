@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:43:56Z</updated>
+  <updated>2023-03-13T01:43:44Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>showtime-xyz/SS2ERC721</title>
-    <updated>2023-03-12T01:43:56Z</updated>
-    <id>tag:github.com,2023-03-12:/showtime-xyz/SS2ERC721</id>
-    <link href="https://github.com/showtime-xyz/SS2ERC721" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmadiMichael/Huff-Console</title>
+    <updated>2023-03-13T01:43:44Z</updated>
+    <id>tag:github.com,2023-03-13:/AmadiMichael/Huff-Console</id>
+    <link href="https://github.com/AmadiMichael/Huff-Console" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Console.log utility for debugging huff contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>code-423n4/2023-03-zksync</title>
-    <updated>2023-03-12T01:43:56Z</updated>
-    <id>tag:github.com,2023-03-12:/code-423n4/2023-03-zksync</id>
-    <link href="https://github.com/code-423n4/2023-03-zksync" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>whonion/EtherSmartWallet</title>
-    <updated>2023-03-12T01:43:56Z</updated>
-    <id>tag:github.com,2023-03-12:/whonion/EtherSmartWallet</id>
-    <link href="https://github.com/whonion/EtherSmartWallet" rel="alternate"></link>
+    <title>RareSkills/Solidity-Exercises</title>
+    <updated>2023-03-13T01:43:44Z</updated>
+    <id>tag:github.com,2023-03-13:/RareSkills/Solidity-Exercises</id>
+    <link href="https://github.com/RareSkills/Solidity-Exercises" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

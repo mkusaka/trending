@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:32:21Z</updated>
+  <updated>2023-03-13T01:31:53Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>commadelimited/jQuery-Mobile-Icon-Pack-Builder</title>
+    <updated>2023-03-13T01:31:53Z</updated>
+    <id>tag:github.com,2023-03-13:/commadelimited/jQuery-Mobile-Icon-Pack-Builder</id>
+    <link href="https://github.com/commadelimited/jQuery-Mobile-Icon-Pack-Builder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Builder for jQuery Mobile Icon Pack allows you to build a custom set of icons perfectly suited for your jQuery Mobile project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:38:24Z</updated>
+  <updated>2023-03-13T01:38:19Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LunarEclipseStudios/From-The-Fog</title>
-    <updated>2023-03-12T01:38:24Z</updated>
-    <id>tag:github.com,2023-03-12:/LunarEclipseStudios/From-The-Fog</id>
-    <link href="https://github.com/LunarEclipseStudios/From-The-Fog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

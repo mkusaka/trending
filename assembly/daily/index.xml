@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-12T01:30:28Z</updated>
+  <updated>2023-03-13T01:30:21Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition</title>
-    <updated>2023-03-12T01:30:28Z</updated>
-    <id>tag:github.com,2023-03-12:/PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition</id>
-    <link href="https://github.com/PacktPublishing/Modern-Computer-Architecture-and-Organization-Second-Edition" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Modern Computer Architecture and Organization – Second Edition, Published by Packt&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>idaholab/malamute</title>
-    <updated>2023-03-12T01:30:28Z</updated>
-    <id>tag:github.com,2023-03-12:/idaholab/malamute</id>
-    <link href="https://github.com/idaholab/malamute" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advanced manufacturing modeling and simulation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Vasitito/Tutorial</title>
+    <updated>2023-03-13T01:30:21Z</updated>
+    <id>tag:github.com,2023-03-13:/Vasitito/Tutorial</id>
+    <link href="https://github.com/Vasitito/Tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tutorial for RISCV C and C++ compiler&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
