@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:35:17Z</updated>
+  <updated>2023-03-14T01:35:05Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>davelego/pile-qui-deborde</title>
+    <updated>2023-03-14T01:35:05Z</updated>
+    <id>tag:github.com,2023-03-14:/davelego/pile-qui-deborde</id>
+    <link href="https://github.com/davelego/pile-qui-deborde" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coder un stackoverflow-like Utiliser le framework Grails Présence d&#39;un frontend JavaScript? avec des templates HTML(5 de préférence) Partie ADMIN gérée par le backend Données de l&#39;application stockées par RDBMS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

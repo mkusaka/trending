@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:32:59Z</updated>
+  <updated>2023-03-14T01:32:21Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SENAI-SD/prova-java-remoto-banco</title>
+    <updated>2023-03-14T01:32:21Z</updated>
+    <id>tag:github.com,2023-03-14:/SENAI-SD/prova-java-remoto-banco</id>
+    <link href="https://github.com/SENAI-SD/prova-java-remoto-banco" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Prova Java IST - Banco&lt;/h1&gt; &#xA;&lt;p&gt;Na pasta raiz desse projeto, onde encontra-se o arquivo &lt;em&gt;docker-compose.yaml&lt;/em&gt;, o banco de dados deve ser iniciado via docker, utilizando o cmd/terminal, com o comando:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker-compose up -d&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Verificar possíveis conflitos de porta, caso já haja alguma instancia usando a porta 5432 do &lt;em&gt;localhost&lt;/em&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Para parar o servidor, utilizar o comando:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker-compose down&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Dados de conexão&lt;/h2&gt; &#xA;&lt;p&gt;A imagem docker contem à seguinte configuração:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;host&lt;/strong&gt;: localhost (ou 127.0.0.1)&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;port&lt;/strong&gt;: 5432&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;database&lt;/strong&gt;: ist&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;user&lt;/strong&gt;: ist&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;pass&lt;/strong&gt;: ist&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h4&gt;String de conexão jdbc:&lt;/h4&gt; &#xA;&lt;p&gt;jdbc:postgresql://localhost:5432/ist&lt;/p&gt; &#xA;&lt;h2&gt;Docker&lt;/h2&gt; &#xA;&lt;p&gt;Note que para a iniciação do banco de dados, o &lt;em&gt;Docker&lt;/em&gt; deve estar instalado no computador.&lt;/p&gt; &#xA;&lt;p&gt;Verificar as instruções de instalação no próprio site do &lt;em&gt;Docker&lt;/em&gt; em &lt;a href=&#34;https://docs.docker.com/get-docker/&#34;&gt;https://docs.docker.com/get-docker/&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

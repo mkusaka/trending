@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:31:46Z</updated>
+  <updated>2023-03-14T01:31:00Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>metabase/snowplow-eastwood-issue</title>
-    <updated>2023-03-13T01:31:46Z</updated>
-    <id>tag:github.com,2023-03-13:/metabase/snowplow-eastwood-issue</id>
-    <link href="https://github.com/metabase/snowplow-eastwood-issue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:32:25Z</updated>
+  <updated>2023-03-14T01:31:44Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Berkeley-CS267/hw2-3</title>
-    <updated>2023-03-13T01:32:25Z</updated>
-    <id>tag:github.com,2023-03-13:/Berkeley-CS267/hw2-3</id>
-    <link href="https://github.com/Berkeley-CS267/hw2-3" rel="alternate"></link>
+    <title>jaentrouble/elphago_open</title>
+    <updated>2023-03-14T01:31:44Z</updated>
+    <id>tag:github.com,2023-03-14:/jaentrouble/elphago_open</id>
+    <link href="https://github.com/jaentrouble/elphago_open" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

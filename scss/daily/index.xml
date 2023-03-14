@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:42:57Z</updated>
+  <updated>2023-03-14T01:43:22Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ansible/slides</title>
-    <updated>2023-03-13T01:42:57Z</updated>
-    <id>tag:github.com,2023-03-13:/ansible/slides</id>
-    <link href="https://github.com/ansible/slides" rel="alternate"></link>
+    <title>HardstyIe/Projet-groupe-Ducman</title>
+    <updated>2023-03-14T01:43:22Z</updated>
+    <id>tag:github.com,2023-03-14:/HardstyIe/Projet-groupe-Ducman</id>
+    <link href="https://github.com/HardstyIe/Projet-groupe-Ducman" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hugo-sid/hugo-blog-awesome</title>
-    <updated>2023-03-13T01:42:57Z</updated>
-    <id>tag:github.com,2023-03-13:/hugo-sid/hugo-blog-awesome</id>
-    <link href="https://github.com/hugo-sid/hugo-blog-awesome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast, minimal blog with dark mode support.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StefMa/hugo-fresh</title>
+    <updated>2023-03-14T01:43:22Z</updated>
+    <id>tag:github.com,2023-03-14:/StefMa/hugo-fresh</id>
+    <link href="https://github.com/StefMa/hugo-fresh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hugo Fresh Theme&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mallexibra/mallexibra-website</title>
-    <updated>2023-03-13T01:42:57Z</updated>
-    <id>tag:github.com,2023-03-13:/mallexibra/mallexibra-website</id>
-    <link href="https://github.com/mallexibra/mallexibra-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>craftcms/europa-museum</title>
+    <updated>2023-03-14T01:43:22Z</updated>
+    <id>tag:github.com,2023-03-14:/craftcms/europa-museum</id>
+    <link href="https://github.com/craftcms/europa-museum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Craft CMS demo site.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

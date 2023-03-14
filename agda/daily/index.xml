@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Agda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:29:56Z</updated>
+  <updated>2023-03-14T01:28:43Z</updated>
   <subtitle>Daily Trending of Agda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iwilare/categorical-automata</title>
-    <updated>2023-03-13T01:29:56Z</updated>
-    <id>tag:github.com,2023-03-13:/iwilare/categorical-automata</id>
-    <link href="https://github.com/iwilare/categorical-automata" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bicategories of automata, completeness of F-automata in monoidal categories&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

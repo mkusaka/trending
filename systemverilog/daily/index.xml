@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:44:09Z</updated>
+  <updated>2023-03-14T01:44:26Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>recogni/svlib</title>
-    <updated>2023-03-13T01:44:09Z</updated>
-    <id>tag:github.com,2023-03-13:/recogni/svlib</id>
-    <link href="https://github.com/recogni/svlib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;svlib from http://www.verilab.com/resources/svlib/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ic-lab-duth/CompArchCourseDUTH</title>
+    <updated>2023-03-14T01:44:26Z</updated>
+    <id>tag:github.com,2023-03-14:/ic-lab-duth/CompArchCourseDUTH</id>
+    <link href="https://github.com/ic-lab-duth/CompArchCourseDUTH" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material related to the Computer Architecture course at ECE, DUTH&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

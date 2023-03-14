@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:45:29Z</updated>
+  <updated>2023-03-14T01:45:53Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>danalites/autool</title>
-    <updated>2023-03-13T01:45:29Z</updated>
-    <id>tag:github.com,2023-03-13:/danalites/autool</id>
-    <link href="https://github.com/danalites/autool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A scripting language for workflow automation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>waylaidwanderer/PandoraAI</title>
+    <updated>2023-03-14T01:45:53Z</updated>
+    <id>tag:github.com,2023-03-14:/waylaidwanderer/PandoraAI</id>
+    <link href="https://github.com/waylaidwanderer/PandoraAI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nextcloud/profiler</title>
-    <updated>2023-03-13T01:45:29Z</updated>
-    <id>tag:github.com,2023-03-13:/nextcloud/profiler</id>
-    <link href="https://github.com/nextcloud/profiler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A built-in profiler UI for Nextcloud&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MoNaiZi/Note</title>
+    <updated>2023-03-14T01:45:53Z</updated>
+    <id>tag:github.com,2023-03-14:/MoNaiZi/Note</id>
+    <link href="https://github.com/MoNaiZi/Note" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款用vue3+electron19开发的记事本和大纲，思维导图功能(仿幕布)，拥有开机自启，悬浮窗，优雅的窗口过渡&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

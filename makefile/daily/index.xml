@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:38:12Z</updated>
+  <updated>2023-03-14T01:38:35Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>boldlink/terraform-aws-secretsmanager</title>
-    <updated>2023-03-13T01:38:12Z</updated>
-    <id>tag:github.com,2023-03-13:/boldlink/terraform-aws-secretsmanager</id>
-    <link href="https://github.com/boldlink/terraform-aws-secretsmanager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform registry repository for Secrets Manager module&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>POOUJA/practicas_material_alumnos</title>
+    <updated>2023-03-14T01:38:35Z</updated>
+    <id>tag:github.com,2023-03-14:/POOUJA/practicas_material_alumnos</id>
+    <link href="https://github.com/POOUJA/practicas_material_alumnos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositorio para el material de prácticas&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

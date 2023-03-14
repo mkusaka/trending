@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:29:26Z</updated>
+  <updated>2023-03-14T01:28:13Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DrDiman/CSS-Bayan-task</title>
-    <updated>2023-03-13T01:29:26Z</updated>
-    <id>tag:github.com,2023-03-13:/DrDiman/CSS-Bayan-task</id>
-    <link href="https://github.com/DrDiman/CSS-Bayan-task" rel="alternate"></link>
+    <title>dkhamsing/open-source-ios-apps</title>
+    <updated>2023-03-14T01:28:13Z</updated>
+    <id>tag:github.com,2023-03-14:/dkhamsing/open-source-ios-apps</id>
+    <link href="https://github.com/dkhamsing/open-source-ios-apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📱 Collaborative List of Open-Source iOS Apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>appwrite/octernships</title>
+    <updated>2023-03-14T01:28:13Z</updated>
+    <id>tag:github.com,2023-03-14:/appwrite/octernships</id>
+    <link href="https://github.com/appwrite/octernships" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thoughtspile/awesome-tiny-js</title>
-    <updated>2023-03-13T01:29:26Z</updated>
-    <id>tag:github.com,2023-03-13:/thoughtspile/awesome-tiny-js</id>
-    <link href="https://github.com/thoughtspile/awesome-tiny-js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of tiny JS libraries to put your bundle on a diet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Skype-line/X-Avatar</title>
-    <updated>2023-03-13T01:29:26Z</updated>
-    <id>tag:github.com,2023-03-13:/Skype-line/X-Avatar</id>
-    <link href="https://github.com/Skype-line/X-Avatar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;X-Avatar: Expressive Human Avatars (CVPR2023)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pvqogw/TVBoxOSC</title>
+    <updated>2023-03-14T01:28:13Z</updated>
+    <id>tag:github.com,2023-03-14:/pvqogw/TVBoxOSC</id>
+    <link href="https://github.com/pvqogw/TVBoxOSC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

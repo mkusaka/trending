@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-13T01:30:18Z</updated>
+  <updated>2023-03-14T01:29:08Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>storyblok/storyblok-astro</title>
+    <updated>2023-03-14T01:29:08Z</updated>
+    <id>tag:github.com,2023-03-14:/storyblok/storyblok-astro</id>
+    <link href="https://github.com/storyblok/storyblok-astro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SiriusDevelopmentGroup/rayfield-docs</title>
+    <updated>2023-03-14T01:29:08Z</updated>
+    <id>tag:github.com,2023-03-14:/SiriusDevelopmentGroup/rayfield-docs</id>
+    <link href="https://github.com/SiriusDevelopmentGroup/rayfield-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
