@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-14T01:33:06Z</updated>
+  <updated>2023-03-15T01:34:32Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>firtysh/real-time-file-share</title>
-    <updated>2023-03-14T01:33:06Z</updated>
-    <id>tag:github.com,2023-03-14:/firtysh/real-time-file-share</id>
-    <link href="https://github.com/firtysh/real-time-file-share" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Real Time File Share is a web application for sharing files in real time.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

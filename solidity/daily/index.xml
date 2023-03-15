@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-14T01:43:59Z</updated>
+  <updated>2023-03-15T01:45:54Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bnb-chain/zkbnb-contract</title>
+    <updated>2023-03-15T01:45:54Z</updated>
+    <id>tag:github.com,2023-03-15:/bnb-chain/zkbnb-contract</id>
+    <link href="https://github.com/bnb-chain/zkbnb-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>clabby/substratum</title>
+    <updated>2023-03-15T01:45:54Z</updated>
+    <id>tag:github.com,2023-03-15:/clabby/substratum</id>
+    <link href="https://github.com/clabby/substratum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated, spec-compliant, optimized version of Optimism&#39;s contracts-bedrock package.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

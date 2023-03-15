@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-14T01:39:36Z</updated>
+  <updated>2023-03-15T01:40:39Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tweag/jupyenv</title>
-    <updated>2023-03-14T01:39:36Z</updated>
-    <id>tag:github.com,2023-03-14:/tweag/jupyenv</id>
-    <link href="https://github.com/tweag/jupyenv" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Declarative and reproducible Jupyter environments - powered by Nix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joshuachp/dockrs</title>
+    <updated>2023-03-15T01:40:39Z</updated>
+    <id>tag:github.com,2023-03-15:/joshuachp/dockrs</id>
+    <link href="https://github.com/joshuachp/dockrs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

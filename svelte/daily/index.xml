@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-14T01:44:21Z</updated>
+  <updated>2023-03-15T01:46:15Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TGlide/codeverter</title>
+    <updated>2023-03-15T01:46:15Z</updated>
+    <id>tag:github.com,2023-03-15:/TGlide/codeverter</id>
+    <link href="https://github.com/TGlide/codeverter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Convert code to your programming language of choice&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Gibbu/svoast</title>
+    <updated>2023-03-15T01:46:15Z</updated>
+    <id>tag:github.com,2023-03-15:/Gibbu/svoast</id>
+    <link href="https://github.com/Gibbu/svoast" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple toast component for Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

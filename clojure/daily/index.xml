@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-14T01:31:00Z</updated>
+  <updated>2023-03-15T01:32:54Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rianadon/dactyl-configurator</title>
+    <updated>2023-03-15T01:32:54Z</updated>
+    <id>tag:github.com,2023-03-15:/rianadon/dactyl-configurator</id>
+    <link href="https://github.com/rianadon/dactyl-configurator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate Dactyl Keyboard Designs from your browser.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>oliyh/martian</title>
+    <updated>2023-03-15T01:32:54Z</updated>
+    <id>tag:github.com,2023-03-15:/oliyh/martian</id>
+    <link href="https://github.com/oliyh/martian" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The HTTP abstraction library for Clojure/script, supporting OpenAPI, Swagger, Schema, re-frame and more&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phronmophobic/clj-graphviz</title>
+    <updated>2023-03-15T01:32:54Z</updated>
+    <id>tag:github.com,2023-03-15:/phronmophobic/clj-graphviz</id>
+    <link href="https://github.com/phronmophobic/clj-graphviz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clojure wrapper for the libgraphviz c libraries.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

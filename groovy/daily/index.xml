@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-14T01:35:05Z</updated>
+  <updated>2023-03-15T01:36:07Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>davelego/pile-qui-deborde</title>
-    <updated>2023-03-14T01:35:05Z</updated>
-    <id>tag:github.com,2023-03-14:/davelego/pile-qui-deborde</id>
-    <link href="https://github.com/davelego/pile-qui-deborde" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coder un stackoverflow-like Utiliser le framework Grails Présence d&#39;un frontend JavaScript? avec des templates HTML(5 de préférence) Partie ADMIN gérée par le backend Données de l&#39;application stockées par RDBMS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nf-core/phyloplace</title>
+    <updated>2023-03-15T01:36:07Z</updated>
+    <id>tag:github.com,2023-03-15:/nf-core/phyloplace</id>
+    <link href="https://github.com/nf-core/phyloplace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nf-core/phyloplace is a bioinformatics best-practice analysis pipeline that performs phylogenetic placement with EPA-NG.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Arcadia-Science/seqqc</title>
+    <updated>2023-03-15T01:36:07Z</updated>
+    <id>tag:github.com,2023-03-15:/Arcadia-Science/seqqc</id>
+    <link href="https://github.com/Arcadia-Science/seqqc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Nextflow pipeline to identify quality control issues with new sequencing data.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

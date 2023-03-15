@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-14T01:28:13Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-03-15T01:30:28Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dkhamsing/open-source-ios-apps</title>
-    <updated>2023-03-14T01:28:13Z</updated>
-    <id>tag:github.com,2023-03-14:/dkhamsing/open-source-ios-apps</id>
-    <link href="https://github.com/dkhamsing/open-source-ios-apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📱 Collaborative List of Open-Source iOS Apps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>appwrite/octernships</title>
-    <updated>2023-03-14T01:28:13Z</updated>
-    <id>tag:github.com,2023-03-14:/appwrite/octernships</id>
-    <link href="https://github.com/appwrite/octernships" rel="alternate"></link>
+    <title>zodiacon/rust-course</title>
+    <updated>2023-03-15T01:30:28Z</updated>
+    <id>tag:github.com,2023-03-15:/zodiacon/rust-course</id>
+    <link href="https://github.com/zodiacon/rust-course" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pvqogw/TVBoxOSC</title>
-    <updated>2023-03-14T01:28:13Z</updated>
-    <id>tag:github.com,2023-03-14:/pvqogw/TVBoxOSC</id>
-    <link href="https://github.com/pvqogw/TVBoxOSC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-sauced-craftwork/browser-extension</title>
+    <updated>2023-03-15T01:30:28Z</updated>
+    <id>tag:github.com,2023-03-15:/open-sauced-craftwork/browser-extension</id>
+    <link href="https://github.com/open-sauced-craftwork/browser-extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the template repo for the OpenSauced browser extension assignment.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AI-hubs/ChatGPT_Prompt</title>
+    <updated>2023-03-15T01:30:28Z</updated>
+    <id>tag:github.com,2023-03-15:/AI-hubs/ChatGPT_Prompt</id>
+    <link href="https://github.com/AI-hubs/ChatGPT_Prompt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT中文调教高级版指南，部分Prompt付费购买，分享给大家&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

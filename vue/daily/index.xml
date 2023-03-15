@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-14T01:45:53Z</updated>
+  <updated>2023-03-15T01:47:58Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>waylaidwanderer/PandoraAI</title>
-    <updated>2023-03-14T01:45:53Z</updated>
-    <id>tag:github.com,2023-03-14:/waylaidwanderer/PandoraAI</id>
-    <link href="https://github.com/waylaidwanderer/PandoraAI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PandoraAI is a web chat client powered by node-chatgpt-api, allowing users to easily chat with multiple AI systems while also offering support for custom presets. With its seamless and convenient design, PandoraAI provides an engaging conversational AI experience.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>202252197/ChatGPT_JCM</title>
+    <updated>2023-03-15T01:47:58Z</updated>
+    <id>tag:github.com,2023-03-15:/202252197/ChatGPT_JCM</id>
+    <link href="https://github.com/202252197/ChatGPT_JCM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GPT多模型聊天项目，后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MoNaiZi/Note</title>
-    <updated>2023-03-14T01:45:53Z</updated>
-    <id>tag:github.com,2023-03-14:/MoNaiZi/Note</id>
-    <link href="https://github.com/MoNaiZi/Note" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款用vue3+electron19开发的记事本和大纲，思维导图功能(仿幕布)，拥有开机自启，悬浮窗，优雅的窗口过渡&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zuoFeng59556/chatGPT</title>
+    <updated>2023-03-15T01:47:58Z</updated>
+    <id>tag:github.com,2023-03-15:/zuoFeng59556/chatGPT</id>
+    <link href="https://github.com/zuoFeng59556/chatGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 laf 开发的 chatGPT 免费 免登录 免翻墙 点击开聊&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
