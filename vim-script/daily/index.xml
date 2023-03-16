@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:47:48Z</updated>
+  <updated>2023-03-16T01:45:35Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pekepeke/vim-csvutil</title>
-    <updated>2023-03-15T01:47:48Z</updated>
-    <id>tag:github.com,2023-03-15:/pekepeke/vim-csvutil</id>
-    <link href="https://github.com/pekepeke/vim-csvutil" rel="alternate"></link>
+    <title>jameslyden/vim-arduino</title>
+    <updated>2023-03-16T01:45:35Z</updated>
+    <id>tag:github.com,2023-03-16:/jameslyden/vim-arduino</id>
+    <link href="https://github.com/jameslyden/vim-arduino" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration and scripts to integrate development of Arduino programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uditsaxena/Dotfiles</title>
+    <updated>2023-03-16T01:45:35Z</updated>
+    <id>tag:github.com,2023-03-16:/uditsaxena/Dotfiles</id>
+    <link href="https://github.com/uditsaxena/Dotfiles" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>patrickjonesdotca/myvimrc</title>
-    <updated>2023-03-15T01:47:48Z</updated>
-    <id>tag:github.com,2023-03-15:/patrickjonesdotca/myvimrc</id>
-    <link href="https://github.com/patrickjonesdotca/myvimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>swaroopch/vim-markdown-preview</title>
+    <updated>2023-03-16T01:45:35Z</updated>
+    <id>tag:github.com,2023-03-16:/swaroopch/vim-markdown-preview</id>
+    <link href="https://github.com/swaroopch/vim-markdown-preview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Select Markdown text, render to HTML and preview in browser&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

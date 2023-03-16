@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:42:40Z</updated>
+  <updated>2023-03-16T01:41:03Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zipkid/puppet3-hiera_data_in_module</title>
+    <updated>2023-03-16T01:41:03Z</updated>
+    <id>tag:github.com,2023-03-16:/zipkid/puppet3-hiera_data_in_module</id>
+    <link href="https://github.com/zipkid/puppet3-hiera_data_in_module" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;puppet3 hiera data in module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jan-molak/puppet-tomcat</title>
+    <updated>2023-03-16T01:41:03Z</updated>
+    <id>tag:github.com,2023-03-16:/jan-molak/puppet-tomcat</id>
+    <link href="https://github.com/jan-molak/puppet-tomcat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

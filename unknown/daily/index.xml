@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:30:28Z</updated>
+  <updated>2023-03-16T01:29:15Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zodiacon/rust-course</title>
-    <updated>2023-03-15T01:30:28Z</updated>
-    <id>tag:github.com,2023-03-15:/zodiacon/rust-course</id>
-    <link href="https://github.com/zodiacon/rust-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kettanaito/naming-cheatsheet</title>
+    <updated>2023-03-16T01:29:15Z</updated>
+    <id>tag:github.com,2023-03-16:/kettanaito/naming-cheatsheet</id>
+    <link href="https://github.com/kettanaito/naming-cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>open-sauced-craftwork/browser-extension</title>
-    <updated>2023-03-15T01:30:28Z</updated>
-    <id>tag:github.com,2023-03-15:/open-sauced-craftwork/browser-extension</id>
-    <link href="https://github.com/open-sauced-craftwork/browser-extension" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the template repo for the OpenSauced browser extension assignment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liusongxiang/Large-Audio-Models</title>
+    <updated>2023-03-16T01:29:15Z</updated>
+    <id>tag:github.com,2023-03-16:/liusongxiang/Large-Audio-Models</id>
+    <link href="https://github.com/liusongxiang/Large-Audio-Models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Keep track of big models in audio domain, including speech, singing, music etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AI-hubs/ChatGPT_Prompt</title>
-    <updated>2023-03-15T01:30:28Z</updated>
-    <id>tag:github.com,2023-03-15:/AI-hubs/ChatGPT_Prompt</id>
-    <link href="https://github.com/AI-hubs/ChatGPT_Prompt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT中文调教高级版指南，部分Prompt付费购买，分享给大家&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TracyWang95/legal-prompts-for-gpt</title>
+    <updated>2023-03-16T01:29:15Z</updated>
+    <id>tag:github.com,2023-03-16:/TracyWang95/legal-prompts-for-gpt</id>
+    <link href="https://github.com/TracyWang95/legal-prompts-for-gpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opensource legal prompts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

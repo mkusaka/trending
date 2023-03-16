@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:36:30Z</updated>
+  <updated>2023-03-16T01:35:07Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure/terraform-azurerm-network-security-group</title>
-    <updated>2023-03-15T01:36:30Z</updated>
-    <id>tag:github.com,2023-03-15:/Azure/terraform-azurerm-network-security-group</id>
-    <link href="https://github.com/Azure/terraform-azurerm-network-security-group" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to create a network security group and assign it to the specified subnet&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>drata/terraform-aws-drata-autopilot-role</title>
+    <updated>2023-03-16T01:35:07Z</updated>
+    <id>tag:github.com,2023-03-16:/drata/terraform-aws-drata-autopilot-role</id>
+    <link href="https://github.com/drata/terraform-aws-drata-autopilot-role" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to create the Drata Autopilot Role in AWS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thomast1906/terraform-on-azure</title>
+    <updated>2023-03-16T01:35:07Z</updated>
+    <id>tag:github.com,2023-03-16:/thomast1906/terraform-on-azure</id>
+    <link href="https://github.com/thomast1906/terraform-on-azure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repo self-lead to give you an understanding on deploying Terraform on Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

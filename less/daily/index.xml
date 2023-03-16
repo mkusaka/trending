@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:38:55Z</updated>
+  <updated>2023-03-16T01:37:16Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Tomotoes/hexo-theme-tomotoes</title>
+    <updated>2023-03-16T01:37:16Z</updated>
+    <id>tag:github.com,2023-03-16:/Tomotoes/hexo-theme-tomotoes</id>
+    <link href="https://github.com/Tomotoes/hexo-theme-tomotoes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍅 A fresh and refined Hexo theme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>learnenough/le_js_full</title>
+    <updated>2023-03-16T01:37:16Z</updated>
+    <id>tag:github.com,2023-03-16:/learnenough/le_js_full</id>
+    <link href="https://github.com/learnenough/le_js_full" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Learn Enough JavaScript to Be Dangerous gallery app&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

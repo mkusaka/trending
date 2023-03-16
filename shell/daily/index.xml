@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:45:07Z</updated>
+  <updated>2023-03-16T01:43:13Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iamj0ker/bypass-403</title>
-    <updated>2023-03-15T01:45:07Z</updated>
-    <id>tag:github.com,2023-03-15:/iamj0ker/bypass-403</id>
-    <link href="https://github.com/iamj0ker/bypass-403" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple script just made for self use for bypassing 403&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bypass-403&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;A simple script just made for self use for bypassing 403&lt;/li&gt; &#xA; &lt;li&gt;It can also be used to compare responses on verious conditions as shown in the below snap &lt;img src=&#34;https://raw.githubusercontent.com/iamj0ker/bypass-403/main/responses.jpg&#34; alt=&#34;&#34;&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;./bypass-403.sh https://example.com admin&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;./bypass-403.sh website-here path-here&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Features&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Use 24 known Bypasses for 403 with the help of curl&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;git clone https://github.com/iamj0ker/bypass-403&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;cd bypass-403&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;chmod +x bypass-403.sh&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;sudo apt install figlet&lt;/code&gt; - If you are unable to see the logo as in the screenshot&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Contributers&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/remonsec&#34;&gt;remonsec&lt;/a&gt;, &lt;a href=&#34;https://github.com/manpreet406&#34;&gt;manpreet&lt;/a&gt; &lt;a href=&#34;https://github.com/MayankPandey01&#34;&gt;MayankPandey01&lt;/a&gt; &lt;a href=&#34;https://github.com/saadibabar&#34;&gt;saadibabar&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>jenkins-docs/simple-java-maven-app</title>
+    <updated>2023-03-16T01:43:13Z</updated>
+    <id>tag:github.com,2023-03-16:/jenkins-docs/simple-java-maven-app</id>
+    <link href="https://github.com/jenkins-docs/simple-java-maven-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;simple-java-maven-app&lt;/h1&gt; &#xA;&lt;p&gt;This repository is for the &lt;a href=&#34;https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/&#34;&gt;Build a Java app with Maven&lt;/a&gt; tutorial in the &lt;a href=&#34;https://jenkins.io/doc/&#34;&gt;Jenkins User Documentation&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The repository contains a simple Java application which outputs the string &#34;Hello world!&#34; and is accompanied by a couple of unit tests to check that the main application works as expected. The results of these tests are saved to a JUnit XML report.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;code&gt;jenkins&lt;/code&gt; directory contains an example of the &lt;code&gt;Jenkinsfile&lt;/code&gt; (i.e. Pipeline) you&#39;ll be creating yourself during the tutorial and the &lt;code&gt;jenkins/scripts&lt;/code&gt; subdirectory contains a shell script with commands that are executed when Jenkins processes the &#34;Deliver&#34; stage of your Pipeline.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>rodrigocesarmelo/devopstools</title>
+    <updated>2023-03-16T01:43:13Z</updated>
+    <id>tag:github.com,2023-03-16:/rodrigocesarmelo/devopstools</id>
+    <link href="https://github.com/rodrigocesarmelo/devopstools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Install DevOps Tools - Shell Script&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;devopstools&lt;/h1&gt; &#xA;&lt;p&gt;Install DevOps Tools - Shell Script&lt;/p&gt;</summary>
   </entry>
 </feed>

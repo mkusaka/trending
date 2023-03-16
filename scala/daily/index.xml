@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:44:43Z</updated>
+  <updated>2023-03-16T01:42:48Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>scala/toolkit</title>
+    <updated>2023-03-16T01:42:48Z</updated>
+    <id>tag:github.com,2023-03-16:/scala/toolkit</id>
+    <link href="https://github.com/scala/toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Scala Toolkit&lt;/h1&gt; &#xA;&lt;p&gt;The batteries-included Scala. Read about Scala Toolkit in &lt;a href=&#34;https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/&#34;&gt;Scala Toolkit makes Scala powerful straight out of the box&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

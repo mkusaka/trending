@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-15T01:31:13Z</updated>
+  <updated>2023-03-16T01:29:57Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AzureKeys/BW3G</title>
-    <updated>2023-03-15T01:31:13Z</updated>
-    <id>tag:github.com,2023-03-15:/AzureKeys/BW3G</id>
-    <link href="https://github.com/AzureKeys/BW3G" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Black and White 3: Genesis&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TunSafe/TunSafe</title>
+    <updated>2023-03-16T01:29:57Z</updated>
+    <id>tag:github.com,2023-03-16:/TunSafe/TunSafe</id>
+    <link href="https://github.com/TunSafe/TunSafe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code of the TunSafe client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
