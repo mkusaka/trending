@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-16T01:33:17Z</updated>
+  <updated>2023-03-17T01:33:32Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ihumanable/patch</title>
-    <updated>2023-03-16T01:33:17Z</updated>
-    <id>tag:github.com,2023-03-16:/ihumanable/patch</id>
-    <link href="https://github.com/ihumanable/patch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ergonomic Mocking for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>elixir-haystack/haystack</title>
-    <updated>2023-03-16T01:33:17Z</updated>
-    <id>tag:github.com,2023-03-16:/elixir-haystack/haystack</id>
-    <link href="https://github.com/elixir-haystack/haystack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>choosy-tech/ex_assignment</title>
+    <updated>2023-03-17T01:33:32Z</updated>
+    <id>tag:github.com,2023-03-17:/choosy-tech/ex_assignment</id>
+    <link href="https://github.com/choosy-tech/ex_assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A small Elixir/Phoenix assignment for our hiring process&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

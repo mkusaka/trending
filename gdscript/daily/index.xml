@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-16T01:34:05Z</updated>
+  <updated>2023-03-17T01:34:25Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MenacingMecha/godot-psx-style-demo</title>
-    <updated>2023-03-16T01:34:05Z</updated>
-    <id>tag:github.com,2023-03-16:/MenacingMecha/godot-psx-style-demo</id>
-    <link href="https://github.com/MenacingMecha/godot-psx-style-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo project featuring a collection of PS1 style shaders and materials for Godot engine.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>perfoon/Abandoned-Spaceship-Godot-Demo</title>
+    <updated>2023-03-17T01:34:25Z</updated>
+    <id>tag:github.com,2023-03-17:/perfoon/Abandoned-Spaceship-Godot-Demo</id>
+    <link href="https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Godot 4 demo scene of abandoned spaceship in overgrown hangar.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

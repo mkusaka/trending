@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-16T01:43:49Z</updated>
+  <updated>2023-03-17T01:44:33Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wso2/kubernetes-mi</title>
-    <updated>2023-03-16T01:43:49Z</updated>
-    <id>tag:github.com,2023-03-16:/wso2/kubernetes-mi</id>
-    <link href="https://github.com/wso2/kubernetes-mi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project contains the Helm resources required to deploy WSO2 Micro Integrator in a Kubernetes environment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JungSangup/mspt3</title>
+    <updated>2023-03-17T01:44:33Z</updated>
+    <id>tag:github.com,2023-03-17:/JungSangup/mspt3</id>
+    <link href="https://github.com/JungSangup/mspt3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

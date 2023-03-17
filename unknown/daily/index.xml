@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-16T01:29:15Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-03-17T01:29:13Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kettanaito/naming-cheatsheet</title>
-    <updated>2023-03-16T01:29:15Z</updated>
-    <id>tag:github.com,2023-03-16:/kettanaito/naming-cheatsheet</id>
-    <link href="https://github.com/kettanaito/naming-cheatsheet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/github-ospo</title>
+    <updated>2023-03-17T01:29:13Z</updated>
+    <id>tag:github.com,2023-03-17:/github/github-ospo</id>
+    <link href="https://github.com/github/github-ospo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helping open source program offices get started&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>liusongxiang/Large-Audio-Models</title>
-    <updated>2023-03-16T01:29:15Z</updated>
-    <id>tag:github.com,2023-03-16:/liusongxiang/Large-Audio-Models</id>
-    <link href="https://github.com/liusongxiang/Large-Audio-Models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keep track of big models in audio domain, including speech, singing, music etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenMindClub/awesome-chatgpt</title>
+    <updated>2023-03-17T01:29:13Z</updated>
+    <id>tag:github.com,2023-03-17:/OpenMindClub/awesome-chatgpt</id>
+    <link href="https://github.com/OpenMindClub/awesome-chatgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡ Everything about ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TracyWang95/legal-prompts-for-gpt</title>
-    <updated>2023-03-16T01:29:15Z</updated>
-    <id>tag:github.com,2023-03-16:/TracyWang95/legal-prompts-for-gpt</id>
-    <link href="https://github.com/TracyWang95/legal-prompts-for-gpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An opensource legal prompts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coderdost/full-stack-dev-2023</title>
+    <updated>2023-03-17T01:29:13Z</updated>
+    <id>tag:github.com,2023-03-17:/coderdost/full-stack-dev-2023</id>
+    <link href="https://github.com/coderdost/full-stack-dev-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full Stack Developer Course 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

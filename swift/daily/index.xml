@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-16T01:44:23Z</updated>
+  <updated>2023-03-17T01:45:13Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Saik0s/Whisperboard</title>
-    <updated>2023-03-16T01:44:23Z</updated>
-    <id>tag:github.com,2023-03-16:/Saik0s/Whisperboard</id>
-    <link href="https://github.com/Saik0s/Whisperboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iOS app to record and transcribe speech to text with the help of the OpenAI Whisper model&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;a href=&#34;https://github.com/Saik0s/Whisperboard&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/Saik0s/Whisperboard/main/App/Resources/Assets.xcassets/AppIcon.appiconset/ios-marketing.png&#34; width=&#34;80&#34;&gt; &lt;/a&gt; &#xA; &lt;h3 align=&#34;center&#34;&gt;Whisperboard&lt;/h3&gt; &#xA; &lt;p align=&#34;center&#34;&gt; An iOS app for recording and transcribing audio on the go, based on OpenAI&#39;s Whisper model. &lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;hr&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/Saik0s/Whisperboard/main/.github/screenshot1.jpg&#34; width=&#34;200&#34;&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/Saik0s/Whisperboard/main/.github/screenshot2.jpg&#34; width=&#34;200&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;p&gt; &lt;img src=&#34;https://img.shields.io/badge/License-GPL3-blue.svg?sanitize=true&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/Platforms-iOS-3876D3.svg?sanitize=true&#34;&gt; &lt;a href=&#34;https://twitter.com/sa1k0s&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/Contact-@sa1k0s-purple.svg?style=flat&#34; alt=&#34;Twitter: @sa1k0s&#34;&gt; &lt;/a&gt; &lt;/p&gt; &#xA;&lt;h2 align=&#34;center&#34;&gt;🚧 Work in progress 🚧&lt;/h2&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Easy-to-use voice recording and playback&lt;/li&gt; &#xA; &lt;li&gt;Transcription of recorded audio using Whisper from OpenAI&lt;/li&gt; &#xA; &lt;li&gt;Custom keyboard with a button to quickly access the app&lt;/li&gt; &#xA; &lt;li&gt;Ability to save and share your recordings&lt;/li&gt; &#xA; &lt;li&gt;Ability to select microphone for recording&lt;/li&gt; &#xA; &lt;li&gt;Experimental improver of transcription using GPT3 from OpenAI&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Future Plans&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Split recorded audio into chunks separated by silence for on the fly transcription&lt;/li&gt; &#xA; &lt;li&gt;History of transcriptions&lt;/li&gt; &#xA; &lt;li&gt;Organize recordings in folders&lt;/li&gt; &#xA; &lt;li&gt;Watch app&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Clone this repository&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;make&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Open the project in Xcode&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This project is licensed under the GPL-3.0 license.&lt;/p&gt; &#xA;&lt;h2&gt;Links&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ggerganov/whisper.cpp&#34;&gt;whisper.cpp&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/openai/whisper&#34;&gt;OpenAI Whisper&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>BomberFish/ControlConfig</title>
+    <updated>2023-03-17T01:45:13Z</updated>
+    <id>tag:github.com,2023-03-17:/BomberFish/ControlConfig</id>
+    <link href="https://github.com/BomberFish/ControlConfig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tool to change functionality of Control Center tiles. WIP.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ControlConfig&lt;/h1&gt; &#xA;&lt;p&gt;Tool to change functionality of Control Center tiles. WIP.&lt;/p&gt;</summary>
   </entry>
 </feed>
