@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-17T01:37:09Z</updated>
+  <updated>2023-03-18T01:36:53Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>m3g/JuliaNotes.jl</title>
-    <updated>2023-03-17T01:37:09Z</updated>
-    <id>tag:github.com,2023-03-17:/m3g/JuliaNotes.jl</id>
-    <link href="https://github.com/m3g/JuliaNotes.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of examples and explanations about Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaComputing/IRViz.jl</title>
+    <updated>2023-03-18T01:36:53Z</updated>
+    <id>tag:github.com,2023-03-18:/JuliaComputing/IRViz.jl</id>
+    <link href="https://github.com/JuliaComputing/IRViz.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for visualizing Julia IR&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bauglir/Kroki.jl</title>
-    <updated>2023-03-17T01:37:09Z</updated>
-    <id>tag:github.com,2023-03-17:/bauglir/Kroki.jl</id>
-    <link href="https://github.com/bauglir/Kroki.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Supports creating a variety of diagrams through the https://kroki.io service.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaGeodynamics/GeoParams.jl</title>
+    <updated>2023-03-18T01:36:53Z</updated>
+    <id>tag:github.com,2023-03-18:/JuliaGeodynamics/GeoParams.jl</id>
+    <link href="https://github.com/JuliaGeodynamics/GeoParams.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Define material parameters, perform non-dimensionalization and provide computational routines for material parameters in geodynamic simulations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

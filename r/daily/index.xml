@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-17T01:42:17Z</updated>
+  <updated>2023-03-18T01:41:39Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>datatrail-jhu/BaltimoreTrails</title>
-    <updated>2023-03-17T01:42:17Z</updated>
-    <id>tag:github.com,2023-03-17:/datatrail-jhu/BaltimoreTrails</id>
-    <link href="https://github.com/datatrail-jhu/BaltimoreTrails" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Preliminary first package for DataTrails Baltimore Data Integration&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BaltimoreTrails&lt;/h1&gt; &#xA;&lt;p&gt;Package and Dashboard for Baltimore Data Integration, Manipulation, Visualization, and interactive access.&lt;/p&gt;</summary>
+    <title>InseeFrLab/formation-bonnes-pratiques-git-R</title>
+    <updated>2023-03-18T01:41:39Z</updated>
+    <id>tag:github.com,2023-03-18:/InseeFrLab/formation-bonnes-pratiques-git-R</id>
+    <link href="https://github.com/InseeFrLab/formation-bonnes-pratiques-git-R" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bonnes pratiques pour les projets statistiques avec Git et R&lt;/h1&gt; &#xA;&lt;p&gt;Ce dépôt contient les supports de la formation &#34;Bonnes pratiques pour les projets statistiques avec Git et R&#34; donnée à l&#39;Insee et dans le SSP. Les supports de formation sont déployés sur un &lt;a href=&#34;https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/&#34;&gt;site dédié&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>cran/graphclust</title>
+    <updated>2023-03-18T01:41:39Z</updated>
+    <id>tag:github.com,2023-03-18:/cran/graphclust</id>
+    <link href="https://github.com/cran/graphclust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;❗ This is a read-only mirror of the CRAN R package repository. graphclust — Hierarchical Graph Clustering for a Collection of Networks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

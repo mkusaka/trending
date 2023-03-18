@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-17T01:40:51Z</updated>
+  <updated>2023-03-18T01:40:14Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>obra/Youtube2Webpage</title>
-    <updated>2023-03-17T01:40:51Z</updated>
-    <id>tag:github.com,2023-03-17:/obra/Youtube2Webpage</id>
-    <link href="https://github.com/obra/Youtube2Webpage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;I learn much better from text than from videos&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Youtube-to-Webpage&lt;/h1&gt; &#xA;&lt;h2&gt;Using&lt;/h2&gt; &#xA;&lt;p&gt;Usage:&lt;/p&gt; &#xA;&lt;p&gt;./yt-to-webpage.pl project-name &lt;a href=&#34;https://www.youtube.com/watch?v=jNQXAC9IVRw&#34;&gt;https://www.youtube.com/watch?v=jNQXAC9IVRw&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Example&lt;/h2&gt; &#xA;&lt;p&gt;You can see an example at &lt;a href=&#34;https://obra.github.io/Youtube2Webpage/example/&#34;&gt;https://obra.github.io/Youtube2Webpage/example/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>charlieclarke/adventure</title>
-    <updated>2023-03-17T01:40:51Z</updated>
-    <id>tag:github.com,2023-03-17:/charlieclarke/adventure</id>
-    <link href="https://github.com/charlieclarke/adventure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>makamaka/plack-middleware-acme-werewolf</title>
+    <updated>2023-03-18T01:40:14Z</updated>
+    <id>tag:github.com,2023-03-18:/makamaka/plack-middleware-acme-werewolf</id>
+    <link href="https://github.com/makamaka/plack-middleware-acme-werewolf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;NAME Acme::Plack::Middleware::Acme::Werewolf - Plack middleware of Acme::Apache::Werewolf&lt;/p&gt; &#xA;&lt;p&gt;SYNOPSIS my $app = sub { ... }; builder { enable &#34;Acme::Werewolf&#34;, moonlength =&amp;gt; 4; $app; };&lt;/p&gt; &#xA;&lt;p&gt;DESCRIPTION Plack middleware implementation of Acme::Apache::Werewolf which keeps werewolves out of your web site during the full moon.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;See to Plack::Middleware::Acme::Werewolf.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;AUTHOR Makamaka Hannyaharamitu, &amp;lt;makamaka[at]cpan.org&amp;gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;The author of Acme::Apache::Werewolf is Rich Bowen.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;COPYRIGHT AND LICENSE Copyright 2012 by Makamaka Hannyaharamitu&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;This library is free software; you can redistribute it and/or modify it&#xA;under the same terms as Perl itself.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

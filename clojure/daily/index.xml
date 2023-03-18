@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-17T01:31:40Z</updated>
+  <updated>2023-03-18T01:31:28Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bpsm/kata</title>
+    <updated>2023-03-18T01:31:28Z</updated>
+    <id>tag:github.com,2023-03-18:/bpsm/kata</id>
+    <link href="https://github.com/bpsm/kata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;code katas in clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>buserbrasil/databricks-sql-driver</title>
+    <updated>2023-03-18T01:31:28Z</updated>
+    <id>tag:github.com,2023-03-18:/buserbrasil/databricks-sql-driver</id>
+    <link href="https://github.com/buserbrasil/databricks-sql-driver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;metabase databricks driver&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

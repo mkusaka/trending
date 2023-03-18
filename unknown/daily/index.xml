@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-17T01:29:13Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-03-18T01:29:17Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>github/github-ospo</title>
-    <updated>2023-03-17T01:29:13Z</updated>
-    <id>tag:github.com,2023-03-17:/github/github-ospo</id>
-    <link href="https://github.com/github/github-ospo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helping open source program offices get started&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>milanm/Cloud-Product-Mapping</title>
+    <updated>2023-03-18T01:29:17Z</updated>
+    <id>tag:github.com,2023-03-18:/milanm/Cloud-Product-Mapping</id>
+    <link href="https://github.com/milanm/Cloud-Product-Mapping" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All major services between AWS, Azure, and GCP are mapped with links pointing to product home pages.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OpenMindClub/awesome-chatgpt</title>
-    <updated>2023-03-17T01:29:13Z</updated>
-    <id>tag:github.com,2023-03-17:/OpenMindClub/awesome-chatgpt</id>
-    <link href="https://github.com/OpenMindClub/awesome-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡ Everything about ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>notable/notable</title>
+    <updated>2023-03-18T01:29:17Z</updated>
+    <id>tag:github.com,2023-03-18:/notable/notable</id>
+    <link href="https://github.com/notable/notable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Markdown-based note-taking app that doesn&#39;t suck.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coderdost/full-stack-dev-2023</title>
-    <updated>2023-03-17T01:29:13Z</updated>
-    <id>tag:github.com,2023-03-17:/coderdost/full-stack-dev-2023</id>
-    <link href="https://github.com/coderdost/full-stack-dev-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full Stack Developer Course 2023&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>projectdiscovery/fuzzing-templates</title>
+    <updated>2023-03-18T01:29:17Z</updated>
+    <id>tag:github.com,2023-03-18:/projectdiscovery/fuzzing-templates</id>
+    <link href="https://github.com/projectdiscovery/fuzzing-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community curated list of nuclei templates for finding unknown security vulnerabilities.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

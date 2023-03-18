@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-17T01:43:39Z</updated>
+  <updated>2023-03-18T01:42:44Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tg-trainer/ScalaSparkTrainingAssigmnet2k23MarBatch</title>
-    <updated>2023-03-17T01:43:39Z</updated>
-    <id>tag:github.com,2023-03-17:/tg-trainer/ScalaSparkTrainingAssigmnet2k23MarBatch</id>
-    <link href="https://github.com/tg-trainer/ScalaSparkTrainingAssigmnet2k23MarBatch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Scala Assignment Questions&lt;/h1&gt; &#xA;&lt;h2&gt;Question 1 | Friday Mar 10th&lt;/h2&gt; &#xA;&lt;p&gt;The ruler of the Seven Kingdoms has just received a message from a mysterious ally, informing them that one of their enemies has hidden a powerful artifact in a chest with a number that is a perfect square. However, the enemy has hidden the chest in a secret location and guarded it with a large number of soldiers. Write a program that takes an array of integers as input and returns the count of perfect squares in the array. This will help the ruler of the Seven Kingdoms determine how many chests they need to search in order to find the artifact. For example, if the input array is [1, 4, 7, 9, 16, 25, 36, 49], the program should return 7, because there are seven perfect squares in the array (1, 4, 9, 16, 25, 36, 49). The ruler of the Seven Kingdoms can then focus their search on the chests with numbers that are perfect squares, increasing the chances of finding the artifact and gaining an advantage over their enemy.&lt;/p&gt; &#xA;&lt;h2&gt;Question 2 | Tuesday Mar 14 | Deadline :- Mar 15, 5:00 PM&lt;/h2&gt; &#xA;&lt;p&gt;Write a tail recursive function &#39;factorial&#39; that takes an integer &#39;n&#39; as input and returns &#39;res&#39; as factorial of n. For e.g. 5! = 120.&lt;/p&gt; &#xA;&lt;h2&gt;Question 3 | Tuesday Mar 14 | Deadline :- Mar 15, 5:00 PM&lt;/h2&gt; &#xA;&lt;p&gt;Write a tail recursive function &#39;fibonacci&#39; that takes an integer &#39;n&#39; as input and returns the nth number in the Fibonacci sequence. for e.g 10 will give 34 output. Please make sure your implementation must use tail recursion to compute. Function should not exceed the maximum call stack depth, even for the large values of &#39;n&#39;&lt;/p&gt;</summary>
-  </entry>
 </feed>

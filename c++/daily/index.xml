@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-17T01:30:52Z</updated>
+  <updated>2023-03-18T01:30:50Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>abcz316/linuxKernelRoot</title>
-    <updated>2023-03-17T01:30:52Z</updated>
-    <id>tag:github.com,2023-03-17:/abcz316/linuxKernelRoot</id>
-    <link href="https://github.com/abcz316/linuxKernelRoot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;新一代root，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Linux ARM64 内核级完美隐藏ROOT演示&lt;/h1&gt; &#xA;&lt;p&gt;新一代root，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。&lt;/p&gt; &#xA;&lt;h3&gt;本工具功能列表：&lt;/h3&gt; &#xA;&lt;h3&gt;1.显示自身权限信息&lt;/h3&gt; &#xA;&lt;h3&gt;2.获取ROOT权限&lt;/h3&gt; &#xA;&lt;h3&gt;3.执行ROOT命令&lt;/h3&gt; &#xA;&lt;h3&gt;4.执行内核命令&lt;/h3&gt; &#xA;&lt;h3&gt;5.暂停全局SELinux&lt;/h3&gt; &#xA;&lt;h3&gt;6.恢复全局SELinux&lt;/h3&gt; &#xA;&lt;h3&gt;7.提升ADB为ROOT权限&lt;/h3&gt; &#xA;&lt;h3&gt;8.安装部署su&lt;/h3&gt; &#xA;&lt;h3&gt;9.注入su到指定进程&lt;/h3&gt; &#xA;&lt;h3&gt;10.完全卸载清理su&lt;/h3&gt; &#xA;&lt;p&gt;此作品尚未对外正式发布，目前开发进度：100%，待我挑个良辰吉日再对外发布。&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/0.png&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/1.png&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/2.png&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/3.png&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/4.png&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/5.png&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/6.png&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/7.png&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://github.com/abcz316/linuxKernelRoot/raw/master/ScreenCap/8.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</summary>
+    <title>dreamworksanimation/moonray</title>
+    <updated>2023-03-18T01:30:50Z</updated>
+    <id>tag:github.com,2023-03-18:/dreamworksanimation/moonray</id>
+    <link href="https://github.com/dreamworksanimation/moonray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;moonray&lt;/h1&gt; &#xA;&lt;p&gt;This repository implements the MoonRay render engine and the moonray command-line renderer. The code is comprised of roughly 20 libraries. moonray also contains a set of basic scene object (shader) plugins.&lt;/p&gt; &#xA;&lt;p&gt;This repository is part of the larger MoonRay/Arras codebase. It is included as a submodule in the top-level OpenMoonRay repository located here: &lt;a href=&#34;https://github.com/dreamworksanimation/openmoonray&#34;&gt;OpenMoonRay&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>NVIDIA/Fuser</title>
-    <updated>2023-03-17T01:30:52Z</updated>
-    <id>tag:github.com,2023-03-17:/NVIDIA/Fuser</id>
-    <link href="https://github.com/NVIDIA/Fuser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Fusion Code Generator for NVIDIA GPUs (commonly known as &#34;nvFuser&#34;)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anysphere/gpt-4-for-code</title>
+    <updated>2023-03-18T01:30:50Z</updated>
+    <id>tag:github.com,2023-03-18:/anysphere/gpt-4-for-code</id>
+    <link href="https://github.com/anysphere/gpt-4-for-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some examples of GPT-4 for code!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;gpt-4-for-code&lt;/h1&gt; &#xA;&lt;p&gt;We&#39;ve been using GPT-4 for a few months internally, and we thought we&#39;d highlight a few examples that have been both particularly impressive and really useful to us. Each folder here contains one example of using GPT-4 for code.&lt;/p&gt; &#xA;&lt;p&gt;Read more here: &lt;a href=&#34;https://twitter.com/sualehasif996/status/1635755267739598848&#34;&gt;https://twitter.com/sualehasif996/status/1635755267739598848&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Contributions&lt;/h3&gt; &#xA;&lt;p&gt;Please submit pull requests with more examples!&lt;/p&gt; &#xA;&lt;h3&gt;Control: the AI code editor&lt;/h3&gt; &#xA;&lt;p&gt;We&#39;re building &lt;a href=&#34;https://control.dev/&#34;&gt;Control&lt;/a&gt;, an AI code editor.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Interested in redefining the future of coding?&lt;/strong&gt; If you&#39;re an amazing design engineer or awesome systems engineer, or just super interested in the problem of AI for code, please reach out to us at &lt;a href=&#34;mailto:arvid@anysphere.co&#34;&gt;arvid@anysphere.co&lt;/a&gt; and &lt;a href=&#34;mailto:sualeh@anysphere.co&#34;&gt;sualeh@anysphere.co&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Want to pilot Control at your company?&lt;/strong&gt; We&#39;re piloting with a few medium-sized companies (100s of engineers). Our editor is a drop-in replacement for VS Code (works with all of your extensions), and pairs the power of GPT-4 with context about your closed-source codebase. Reach out to us at &lt;a href=&#34;mailto:arvid@anysphere.co&#34;&gt;arvid@anysphere.co&lt;/a&gt; and &lt;a href=&#34;mailto:sualeh@anysphere.co&#34;&gt;sualeh@anysphere.co&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

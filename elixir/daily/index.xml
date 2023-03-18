@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-17T01:33:32Z</updated>
+  <updated>2023-03-18T01:33:10Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>choosy-tech/ex_assignment</title>
-    <updated>2023-03-17T01:33:32Z</updated>
-    <id>tag:github.com,2023-03-17:/choosy-tech/ex_assignment</id>
-    <link href="https://github.com/choosy-tech/ex_assignment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small Elixir/Phoenix assignment for our hiring process&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>allegro/map-with-indifferent-access</title>
+    <updated>2023-03-18T01:33:10Z</updated>
+    <id>tag:github.com,2023-03-18:/allegro/map-with-indifferent-access</id>
+    <link href="https://github.com/allegro/map-with-indifferent-access" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
