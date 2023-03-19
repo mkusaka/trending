@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:34:45Z</updated>
+  <updated>2023-03-19T01:37:25Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>launchdarkly/hello-haskell-server</title>
+    <updated>2023-03-19T01:37:25Z</updated>
+    <id>tag:github.com,2023-03-19:/launchdarkly/hello-haskell-server</id>
+    <link href="https://github.com/launchdarkly/hello-haskell-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello LaunchDarkly for Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LaunchDarkly sample Haskell application&lt;/h1&gt; &#xA;&lt;p&gt;We&#39;ve built a simple console application that demonstrates how LaunchDarkly&#39;s SDK works.&lt;/p&gt; &#xA;&lt;p&gt;Below, you&#39;ll find the build procedure. For more comprehensive instructions, you can visit your &lt;a href=&#34;https://app.launchdarkly.com/quickstart#/&#34;&gt;Quickstart page&lt;/a&gt; or the &lt;a href=&#34;https://docs.launchdarkly.com/sdk/server-side/haskell&#34;&gt;Haskell reference guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Build instructions&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Edit Main.hs and set the value of sdkKey to your LaunchDarkly SDK key. If there is an existing boolean feature flag in your LaunchDarkly project that you want to evaluate, set featureFlagKey to the flag key.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;sdkKey :: Text&#xA;sdkKey = &#34;1234567890abcdef&#34;&#xA;&#xA;featureFlagKey :: Text&#xA;featureFlagKey = &#34;my-flag&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;On the command line, run &lt;code&gt;stack run&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;You should receive the message &#34;Feature flag &#39;&#xA; &lt;flag key&gt;&#xA;  &#39; is &amp;lt;true/false&amp;gt; for this user&#34;.&#xA; &lt;/flag&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

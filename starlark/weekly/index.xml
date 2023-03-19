@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Starlark Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T02:06:33Z</updated>
+  <subtitle>Weekly Trending of Starlark in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bufbuild/rules_buf</title>
+    <updated>2023-03-19T02:06:33Z</updated>
+    <id>tag:github.com,2023-03-19:/bufbuild/rules_buf</id>
+    <link href="https://github.com/bufbuild/rules_buf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules for Buf.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uber/bazel-zig-cc</title>
+    <updated>2023-03-19T02:06:33Z</updated>
+    <id>tag:github.com,2023-03-19:/uber/bazel-zig-cc</id>
+    <link href="https://github.com/uber/bazel-zig-cc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel C/C++ toolchain for cross-compiling C/C++ programs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T02:06:19Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>d-xo/weird-erc20</title>
+    <updated>2023-03-19T02:06:19Z</updated>
+    <id>tag:github.com,2023-03-19:/d-xo/weird-erc20</id>
+    <link href="https://github.com/d-xo/weird-erc20" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;weird erc20 tokens&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2023-03-zksync</title>
+    <updated>2023-03-19T02:06:19Z</updated>
+    <id>tag:github.com,2023-03-19:/code-423n4/2023-03-zksync</id>
+    <link href="https://github.com/code-423n4/2023-03-zksync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bEsPoKeN-tOkEns/token-tester</title>
+    <updated>2023-03-19T02:06:19Z</updated>
+    <id>tag:github.com,2023-03-19:/bEsPoKeN-tOkEns/token-tester</id>
+    <link href="https://github.com/bEsPoKeN-tOkEns/token-tester" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use cursed ERC20s in foundry unit tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

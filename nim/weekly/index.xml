@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nim Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T02:01:13Z</updated>
+  <subtitle>Weekly Trending of Nim in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheAlgorithms/Nim</title>
+    <updated>2023-03-19T02:01:13Z</updated>
+    <id>tag:github.com,2023-03-19:/TheAlgorithms/Nim</id>
+    <link href="https://github.com/TheAlgorithms/Nim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All Algorithms implemented in Nim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jmgomez/NimForUE</title>
+    <updated>2023-03-19T02:01:13Z</updated>
+    <id>tag:github.com,2023-03-19:/jmgomez/NimForUE</id>
+    <link href="https://github.com/jmgomez/NimForUE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nim plugin for UE5 with native performance, hot reloading and full interop that sits between C++ and Blueprints. This allows you to do common UE workflows like for example to extend any UE class in Nim and extending it again in Blueprint if you wish so without restarting the editor. The final aim is to be able to do in Nim what you can do in C++&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ethereum/c-kzg-4844</title>
+    <updated>2023-03-19T02:01:13Z</updated>
+    <id>tag:github.com,2023-03-19:/ethereum/c-kzg-4844</id>
+    <link href="https://github.com/ethereum/c-kzg-4844" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Minimal 4844 version of c-kzg&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

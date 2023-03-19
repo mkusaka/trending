@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Liquid Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T01:59:40Z</updated>
+  <subtitle>Weekly Trending of Liquid in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TrellisCommerce/shopify-tailwind-starter-base</title>
+    <updated>2023-03-19T01:59:40Z</updated>
+    <id>tag:github.com,2023-03-19:/TrellisCommerce/shopify-tailwind-starter-base</id>
+    <link href="https://github.com/TrellisCommerce/shopify-tailwind-starter-base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shopify Dawn theme with TailWindCSS &amp; Prettier integrations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

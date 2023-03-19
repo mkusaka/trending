@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:39:26Z</updated>
+  <updated>2023-03-19T01:42:46Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devrieda/tweet_date_format</title>
+    <updated>2023-03-19T01:42:46Z</updated>
+    <id>tag:github.com,2023-03-19:/devrieda/tweet_date_format</id>
+    <link href="https://github.com/devrieda/tweet_date_format" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for formatting dates in Objective-C and Ruby to conform to the Twitter &#34;Developer Display Requirements&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tweet Date Format&lt;/h1&gt; &#xA;&lt;p&gt;Twitter&#39;s &lt;a href=&#34;https://dev.twitter.com/terms/display-requirements&#34;&gt;Developer Display Requirements&lt;/a&gt; dictate the required format that tweets are displayed in 3rd party apps and websites.&lt;/p&gt; &#xA;&lt;p&gt;One part of this requirement is to format the &lt;em&gt;Tweet Timestamp&lt;/em&gt; consistent with their guidelines. The code here includes an Objective-C category for NSDate and a Rails helper method for doing the formatting.&lt;/p&gt; &#xA;&lt;p&gt;The output for the tweet dates will be something like:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ruby&#34;&gt;# less than a minute&#xA;&#34;16s&#34;&#xA;&#xA;# less than an hour&#xA;&#34;10m&#34;&#xA;&#xA;# less than 24 hours&#xA;&#34;13h&#34;&#xA;&#xA;# for older than 24 hours&#xA;&#34;9 May&#34;&#xA;&#xA;# for older than a year&#xA;&#34;5 Dec 12&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Examples&lt;/h2&gt; &#xA;&lt;p&gt;Objective-C category usage:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-objective-c&#34;&gt;[[NSDate date] tweetDistanceOfTime:tweetedAt];&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Ruby helper method:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ruby&#34;&gt;&amp;lt;%= tweet_distance_of_time(tweeted_at) %&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Javascript function:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$&amp;gt; npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-javascript&#34;&gt;tweetDate = require(&#34;./tweet_date&#34;);&#xA;var formatted = tweetDate.tweetDistanceOfTime(&#34;2013-05-06 12:30:00&#34;);&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;LICENSE&lt;/h2&gt; &#xA;&lt;p&gt;Copyright (c) 2013 Derek DeVries&lt;/p&gt; &#xA;&lt;p&gt;Released under the &lt;a href=&#34;http://www.opensource.org/licenses/MIT&#34;&gt;MIT License&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

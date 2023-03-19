@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:31:38Z</updated>
+  <updated>2023-03-19T01:33:05Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>baffles/acc-js</title>
-    <updated>2023-03-18T01:31:38Z</updated>
-    <id>tag:github.com,2023-03-18:/baffles/acc-js</id>
-    <link href="https://github.com/baffles/acc-js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My own custom javascript extensions for the allegro.cc forums.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TylerLH/backbone.jacklinks</title>
-    <updated>2023-03-18T01:31:38Z</updated>
-    <id>tag:github.com,2023-03-18:/TylerLH/backbone.jacklinks</id>
-    <link href="https://github.com/TylerLH/backbone.jacklinks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A link hijacker &amp; route helper for Backbone apps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chaijs/chai-things</title>
-    <updated>2023-03-18T01:31:38Z</updated>
-    <id>tag:github.com,2023-03-18:/chaijs/chai-things</id>
-    <link href="https://github.com/chaijs/chai-things" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chai support for assertions on array elements&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:34:38Z</updated>
+  <updated>2023-03-19T01:37:13Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AllenWrong/nand2tetris</title>
+    <updated>2023-03-19T01:37:13Z</updated>
+    <id>tag:github.com,2023-03-19:/AllenWrong/nand2tetris</id>
+    <link href="https://github.com/AllenWrong/nand2tetris" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;计算机系统要素，从零开始构建现代计算机&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:41:39Z</updated>
+  <updated>2023-03-19T01:45:14Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>InseeFrLab/formation-bonnes-pratiques-git-R</title>
-    <updated>2023-03-18T01:41:39Z</updated>
-    <id>tag:github.com,2023-03-18:/InseeFrLab/formation-bonnes-pratiques-git-R</id>
-    <link href="https://github.com/InseeFrLab/formation-bonnes-pratiques-git-R" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bonnes pratiques pour les projets statistiques avec Git et R&lt;/h1&gt; &#xA;&lt;p&gt;Ce dépôt contient les supports de la formation &#34;Bonnes pratiques pour les projets statistiques avec Git et R&#34; donnée à l&#39;Insee et dans le SSP. Les supports de formation sont déployés sur un &lt;a href=&#34;https://inseefrlab.github.io/formation-bonnes-pratiques-git-R/&#34;&gt;site dédié&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>cran/graphclust</title>
-    <updated>2023-03-18T01:41:39Z</updated>
-    <id>tag:github.com,2023-03-18:/cran/graphclust</id>
-    <link href="https://github.com/cran/graphclust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;❗ This is a read-only mirror of the CRAN R package repository. graphclust — Hierarchical Graph Clustering for a Collection of Networks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>launchdarkly/hello-r</title>
+    <updated>2023-03-19T01:45:14Z</updated>
+    <id>tag:github.com,2023-03-19:/launchdarkly/hello-r</id>
+    <link href="https://github.com/launchdarkly/hello-r" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello LaunchDarkly for R&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LaunchDarkly sample R server-side application&lt;/h1&gt; &#xA;&lt;p&gt;We&#39;ve built a console application that demonstrates how LaunchDarkly&#39;s SDK works. Below, you&#39;ll find the basic build procedure. While LaunchDarkly does not have a dedicated R SDK, you can use the Python SDK. Use this as a starting point for integrating the &lt;code&gt;python-server-sdk&lt;/code&gt; with your R application. To learn more, read the &lt;a href=&#34;https://docs.launchdarkly.com/sdk/server-side/python&#34;&gt;Python SDK reference guide&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Dependencies&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Install the reticulate package: &lt;code&gt;R -e &#34;install.packages(&#39;reticulate&#39;)&#34;&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Install the LaunchDarkly Python SDK: &lt;code&gt;pip3 install launchdarkly-server-sdk&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Build instructions&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Edit &lt;code&gt;hello.r&lt;/code&gt; and set the value of &lt;code&gt;SDK_KEY&lt;/code&gt; to your LaunchDarkly SDK key. If there is an existing boolean feature flag in your LaunchDarkly project that you want to evaluate, set &lt;code&gt;FEATURE_FLAG_KEY&lt;/code&gt; to the flag key.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;SDK_KEY=&#34;sdk-1234567890abcdef&#34;&#xA;FEATURE_FLAG_KEY=&#34;my-boolean-flag&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;On the command line, run &lt;code&gt;Rscript hello.r&lt;/code&gt;.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;You should receive the message &#34;Feature flag &#39;&#xA; &lt;flag key&gt;&#xA;  &#39; is &amp;lt;true/false&amp;gt; for this user&#34;.&#xA; &lt;/flag&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

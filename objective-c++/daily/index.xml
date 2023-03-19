@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:39:23Z</updated>
+  <updated>2023-03-19T01:42:43Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Tencent/OOMDetector</title>
-    <updated>2023-03-18T01:39:23Z</updated>
-    <id>tag:github.com,2023-03-18:/Tencent/OOMDetector</id>
-    <link href="https://github.com/Tencent/OOMDetector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

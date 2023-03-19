@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MLIR Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T02:00:36Z</updated>
+  <subtitle>Weekly Trending of MLIR in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Xilinx/mlir-aie</title>
+    <updated>2023-03-19T02:00:36Z</updated>
+    <id>tag:github.com,2023-03-19:/Xilinx/mlir-aie</id>
+    <link href="https://github.com/Xilinx/mlir-aie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An MLIR-based toolchain for Xilinx Versal AIEngine-based devices.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

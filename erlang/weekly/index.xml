@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T01:55:45Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SemanticSugar/dinerl</title>
+    <updated>2023-03-19T01:55:45Z</updated>
+    <id>tag:github.com,2023-03-19:/SemanticSugar/dinerl</id>
+    <link href="https://github.com/SemanticSugar/dinerl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang AWS DynamoDB client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>abevoelker/erlang_programming_exercises</title>
+    <updated>2023-03-19T01:55:45Z</updated>
+    <id>tag:github.com,2023-03-19:/abevoelker/erlang_programming_exercises</id>
+    <link href="https://github.com/abevoelker/erlang_programming_exercises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise solutions to the &#34;Erlang Programming&#34; O&#39;Reilly book&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

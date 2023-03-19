@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:30:50Z</updated>
+  <updated>2023-03-19T01:31:47Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dreamworksanimation/moonray</title>
-    <updated>2023-03-18T01:30:50Z</updated>
-    <id>tag:github.com,2023-03-18:/dreamworksanimation/moonray</id>
-    <link href="https://github.com/dreamworksanimation/moonray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;moonray&lt;/h1&gt; &#xA;&lt;p&gt;This repository implements the MoonRay render engine and the moonray command-line renderer. The code is comprised of roughly 20 libraries. moonray also contains a set of basic scene object (shader) plugins.&lt;/p&gt; &#xA;&lt;p&gt;This repository is part of the larger MoonRay/Arras codebase. It is included as a submodule in the top-level OpenMoonRay repository located here: &lt;a href=&#34;https://github.com/dreamworksanimation/openmoonray&#34;&gt;OpenMoonRay&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>anysphere/gpt-4-for-code</title>
-    <updated>2023-03-18T01:30:50Z</updated>
-    <id>tag:github.com,2023-03-18:/anysphere/gpt-4-for-code</id>
-    <link href="https://github.com/anysphere/gpt-4-for-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some examples of GPT-4 for code!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;gpt-4-for-code&lt;/h1&gt; &#xA;&lt;p&gt;We&#39;ve been using GPT-4 for a few months internally, and we thought we&#39;d highlight a few examples that have been both particularly impressive and really useful to us. Each folder here contains one example of using GPT-4 for code.&lt;/p&gt; &#xA;&lt;p&gt;Read more here: &lt;a href=&#34;https://twitter.com/sualehasif996/status/1635755267739598848&#34;&gt;https://twitter.com/sualehasif996/status/1635755267739598848&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Contributions&lt;/h3&gt; &#xA;&lt;p&gt;Please submit pull requests with more examples!&lt;/p&gt; &#xA;&lt;h3&gt;Control: the AI code editor&lt;/h3&gt; &#xA;&lt;p&gt;We&#39;re building &lt;a href=&#34;https://control.dev/&#34;&gt;Control&lt;/a&gt;, an AI code editor.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Interested in redefining the future of coding?&lt;/strong&gt; If you&#39;re an amazing design engineer or awesome systems engineer, or just super interested in the problem of AI for code, please reach out to us at &lt;a href=&#34;mailto:arvid@anysphere.co&#34;&gt;arvid@anysphere.co&lt;/a&gt; and &lt;a href=&#34;mailto:sualeh@anysphere.co&#34;&gt;sualeh@anysphere.co&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Want to pilot Control at your company?&lt;/strong&gt; We&#39;re piloting with a few medium-sized companies (100s of engineers). Our editor is a drop-in replacement for VS Code (works with all of your extensions), and pairs the power of GPT-4 with context about your closed-source codebase. Reach out to us at &lt;a href=&#34;mailto:arvid@anysphere.co&#34;&gt;arvid@anysphere.co&lt;/a&gt; and &lt;a href=&#34;mailto:sualeh@anysphere.co&#34;&gt;sualeh@anysphere.co&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

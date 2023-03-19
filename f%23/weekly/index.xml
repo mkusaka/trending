@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F# Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T01:55:45Z</updated>
+  <subtitle>Weekly Trending of F# in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eulerfx/JsonNet.FSharp</title>
+    <updated>2023-03-19T01:55:45Z</updated>
+    <id>tag:github.com,2023-03-19:/eulerfx/JsonNet.FSharp</id>
+    <link href="https://github.com/eulerfx/JsonNet.FSharp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Json.NET type converters for F# option, list and tuple types.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;JsonNet.FSharp&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://gorodinski.com/blog/2013/01/05/json-dot-net-type-converters-for-f-option-list-tuple/&#34;&gt;Json.NET Type Converters for the F# Option, List and Tuple Types&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

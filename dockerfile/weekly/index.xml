@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dockerfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T01:54:40Z</updated>
+  <subtitle>Weekly Trending of Dockerfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shantanumajan6/velocity-compose</title>
+    <updated>2023-03-19T01:54:40Z</updated>
+    <id>tag:github.com,2023-03-19:/Shantanumajan6/velocity-compose</id>
+    <link href="https://github.com/Shantanumajan6/velocity-compose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bobby-didcoding/drf_course</title>
+    <updated>2023-03-19T01:54:40Z</updated>
+    <id>tag:github.com,2023-03-19:/bobby-didcoding/drf_course</id>
+    <link href="https://github.com/bobby-didcoding/drf_course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Django Rest Framework Course&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Django Rest Framework (DRF) Course&lt;/h1&gt; &#xA;&lt;p&gt;Welcome to this full Django Rest Framework (DRF)course. This course is perfect if you are looking to learn DRF and build your own API application.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Prerequisites&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Python=&amp;gt;3.10&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Considerations&lt;/h2&gt; &#xA;&lt;p&gt;I have added optional docker containers to simplify the build. If you want to use the docker build you should install Docker and Docker Compose on your local machine.&lt;/p&gt; &#xA;&lt;p&gt;We will be calling our API throughout the next 8 modules. I have written the requests in (Curl)[https://curl.se/] and (Httpie)[https://httpie.io/].&lt;/p&gt; &#xA;&lt;p&gt;(Httpie)[https://httpie.io/] provides a clean terminal output which is handy for this type of project. You will need to install it locally if you want to use the commands.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Note: (Httpie)[https://httpie.io/] is pre-installed in the docker container.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;hr&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Getting started&lt;/h2&gt; &#xA;&lt;p&gt;First you will need to clone down the first module.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Create a new directory on your local machine. I have called mine drf_course. This is your &#39;root directory&#39;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Open a terminal and cd into the root directory.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;You can now clone the first module. You can do this a few different ways. I use SSH...&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;#option 1 - SSH&#xA;git clone --branch module_1 git@github.com:bobby-didcoding/drf_course.git .&#xA;&#xA;#option 2 - Github CLI&#xA;gh repo clone bobby-didcoding/drf_course .&#xA;git checkout module_1&#xA;&#xA;#option 3 - HTTPS&#xA;git clone --branch module_1 https://github.com/bobby-didcoding/drf_course.git .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;hr&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Following along&lt;/h2&gt; &#xA;&lt;p&gt;Each module has a walk through video. All videos can be found in my (Django Rest Framework Course)[https://www.youtube.com/playlist?list=PL5VlxT4gkOFAD2wpucxHY3X2sCzhha5Kz] playlist.&lt;/p&gt; &#xA;&lt;p&gt;Please open /steps/module_1 to begin.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>itzYoungHazn/railway-ssh</title>
+    <updated>2023-03-19T01:54:40Z</updated>
+    <id>tag:github.com,2023-03-19:/itzYoungHazn/railway-ssh</id>
+    <link href="https://github.com/itzYoungHazn/railway-ssh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;read readme.md please&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;railway-ssh&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Script Created By @Hazn 😎&lt;/li&gt; &#xA; &lt;li&gt;This Script Will Make You Container Can Access With Ngrok ⚙️&lt;/li&gt; &#xA; &lt;li&gt;Fork Me &amp;amp; Stars 🤩&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Note:&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Read this Before Deploy : &lt;a href=&#34;https://railway.app/legal/fair-use&#34;&gt;Term Of Service Railway&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Deploy Now!&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://railway.app/new/template/O1H6fD?referralCode=49-ICI&#34;&gt;&lt;img src=&#34;https://railway.app/button.svg?sanitize=true&#34; alt=&#34;Deploy on Railway&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Update 🔥&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Add Stupid Wiki &lt;a href=&#34;https://github.com/itzYoungHazn/railway-ssh/wiki&#34;&gt;Here&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;I Will Add More Later ((&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Found Bug 🐛?&lt;/h2&gt; &#xA;&lt;p&gt;Dm Me! &lt;a href=&#34;https://raw.githubusercontent.com/itzYoungHazn/railway-ssh/main/t.me/@ItzMehHaznLol&#34;&gt;Contact&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Have A Good Day 🌟&lt;/p&gt;</summary>
+  </entry>
+</feed>

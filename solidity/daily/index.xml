@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:43:43Z</updated>
+  <updated>2023-03-19T01:47:28Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>immunefi-team/forge-poc-templates</title>
-    <updated>2023-03-18T01:43:43Z</updated>
-    <id>tag:github.com,2023-03-18:/immunefi-team/forge-poc-templates</id>
-    <link href="https://github.com/immunefi-team/forge-poc-templates" rel="alternate"></link>
+    <title>Zellic/poc-hacks</title>
+    <updated>2023-03-19T01:47:28Z</updated>
+    <id>tag:github.com,2023-03-19:/Zellic/poc-hacks</id>
+    <link href="https://github.com/Zellic/poc-hacks" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>succinctlabs/telepathy-contracts</title>
-    <updated>2023-03-18T01:43:43Z</updated>
-    <id>tag:github.com,2023-03-18:/succinctlabs/telepathy-contracts</id>
-    <link href="https://github.com/succinctlabs/telepathy-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart contracts for the Telepathy protocol&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xilibi2003/training_camp_2</title>
+    <updated>2023-03-19T01:47:28Z</updated>
+    <id>tag:github.com,2023-03-19:/xilibi2003/training_camp_2</id>
+    <link href="https://github.com/xilibi2003/training_camp_2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;区块链技术集训营 第 2 期&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

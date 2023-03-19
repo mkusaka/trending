@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:41:03Z</updated>
+  <updated>2023-03-19T01:44:26Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>APCSLowell/BinarySearch</title>
+    <updated>2023-03-19T01:44:26Z</updated>
+    <id>tag:github.com,2023-03-19:/APCSLowell/BinarySearch</id>
+    <link href="https://github.com/APCSLowell/BinarySearch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

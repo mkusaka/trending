@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:33:10Z</updated>
+  <updated>2023-03-19T01:34:58Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>allegro/map-with-indifferent-access</title>
-    <updated>2023-03-18T01:33:10Z</updated>
-    <id>tag:github.com,2023-03-18:/allegro/map-with-indifferent-access</id>
-    <link href="https://github.com/allegro/map-with-indifferent-access" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>allegro/ecto-cursor-based-stream</title>
+    <updated>2023-03-19T01:34:58Z</updated>
+    <id>tag:github.com,2023-03-19:/allegro/ecto-cursor-based-stream</id>
+    <link href="https://github.com/allegro/ecto-cursor-based-stream" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir library that allows for cursor-based streaming of Ecto records, that does not require database transaction.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nickgnd/programming-machine-learning-livebooks</title>
+    <updated>2023-03-19T01:34:58Z</updated>
+    <id>tag:github.com,2023-03-19:/nickgnd/programming-machine-learning-livebooks</id>
+    <link href="https://github.com/nickgnd/programming-machine-learning-livebooks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Programming Machine Learning - Elixir Livebooks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

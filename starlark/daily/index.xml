@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:43:55Z</updated>
+  <updated>2023-03-19T01:47:42Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>krpc/krpc2</title>
+    <updated>2023-03-19T01:47:42Z</updated>
+    <id>tag:github.com,2023-03-19:/krpc/krpc2</id>
+    <link href="https://github.com/krpc/krpc2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Remote Procedure Calls for Kerbal Space Program 2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bazel-contrib/rules_oci</title>
+    <updated>2023-03-19T01:47:42Z</updated>
+    <id>tag:github.com,2023-03-19:/bazel-contrib/rules_oci</id>
+    <link href="https://github.com/bazel-contrib/rules_oci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bazel rules for building OCI containers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RobotLocomotion/drake-blender</title>
+    <updated>2023-03-19T01:47:42Z</updated>
+    <id>tag:github.com,2023-03-19:/RobotLocomotion/drake-blender</id>
+    <link href="https://github.com/RobotLocomotion/drake-blender" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Drake glTF Render Client-Server API using Blender&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

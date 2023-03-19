@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-18T01:29:17Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-03-19T01:30:00Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>milanm/Cloud-Product-Mapping</title>
-    <updated>2023-03-18T01:29:17Z</updated>
-    <id>tag:github.com,2023-03-18:/milanm/Cloud-Product-Mapping</id>
-    <link href="https://github.com/milanm/Cloud-Product-Mapping" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All major services between AWS, Azure, and GCP are mapped with links pointing to product home pages.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jtmuller5/The-HustleGPT-Challenge</title>
+    <updated>2023-03-19T01:30:00Z</updated>
+    <id>tag:github.com,2023-03-19:/jtmuller5/The-HustleGPT-Challenge</id>
+    <link href="https://github.com/jtmuller5/The-HustleGPT-Challenge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Building Startups with an AI Co-Founder&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>notable/notable</title>
-    <updated>2023-03-18T01:29:17Z</updated>
-    <id>tag:github.com,2023-03-18:/notable/notable</id>
-    <link href="https://github.com/notable/notable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Markdown-based note-taking app that doesn&#39;t suck.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/copilot-docs</title>
+    <updated>2023-03-19T01:30:00Z</updated>
+    <id>tag:github.com,2023-03-19:/github/copilot-docs</id>
+    <link href="https://github.com/github/copilot-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Documentation for GitHub Copilot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>projectdiscovery/fuzzing-templates</title>
-    <updated>2023-03-18T01:29:17Z</updated>
-    <id>tag:github.com,2023-03-18:/projectdiscovery/fuzzing-templates</id>
-    <link href="https://github.com/projectdiscovery/fuzzing-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community curated list of nuclei templates for finding unknown security vulnerabilities.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>opendilab/awesome-RLHF</title>
+    <updated>2023-03-19T01:30:00Z</updated>
+    <id>tag:github.com,2023-03-19:/opendilab/awesome-RLHF</id>
+    <link href="https://github.com/opendilab/awesome-RLHF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of reinforcement learning with human feedback resources (continually updated)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

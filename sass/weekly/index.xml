@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Sass Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T02:05:13Z</updated>
+  <subtitle>Weekly Trending of Sass in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>th-koeln/mi-bachelor-screendesign-projekte</title>
+    <updated>2023-03-19T02:05:13Z</updated>
+    <id>tag:github.com,2023-03-19:/th-koeln/mi-bachelor-screendesign-projekte</id>
+    <link href="https://github.com/th-koeln/mi-bachelor-screendesign-projekte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Studentische Projekte aus dem Modul Screendesign des Medieninformatik Bachelors. Dank an @finnge für das Repo :)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fslaborg/fslab-styles</title>
+    <updated>2023-03-19T02:05:13Z</updated>
+    <id>tag:github.com,2023-03-19:/fslaborg/fslab-styles</id>
+    <link href="https://github.com/fslaborg/fslab-styles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;npm package for FsLab web styles&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

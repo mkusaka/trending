@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-19T02:00:12Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IIC2133-PUC/2023-1</title>
+    <updated>2023-03-19T02:00:12Z</updated>
+    <id>tag:github.com,2023-03-19:/IIC2133-PUC/2023-1</id>
+    <link href="https://github.com/IIC2133-PUC/2023-1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AOSPA/android_vendor_aospa</title>
+    <updated>2023-03-19T02:00:12Z</updated>
+    <id>tag:github.com,2023-03-19:/AOSPA/android_vendor_aospa</id>
+    <link href="https://github.com/AOSPA/android_vendor_aospa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ministryofjustice/template-documentation-site</title>
+    <updated>2023-03-19T02:00:12Z</updated>
+    <id>tag:github.com,2023-03-19:/ministryofjustice/template-documentation-site</id>
+    <link href="https://github.com/ministryofjustice/template-documentation-site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template repo. for a gov.uk tech-docs-template documentation site published via github pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
