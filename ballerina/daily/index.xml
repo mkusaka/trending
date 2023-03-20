@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ballerina Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-19T01:31:08Z</updated>
+  <updated>2023-03-20T01:30:59Z</updated>
   <subtitle>Daily Trending of Ballerina in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ballerina-guides/ai-samples</title>
-    <updated>2023-03-19T01:31:08Z</updated>
-    <id>tag:github.com,2023-03-19:/ballerina-guides/ai-samples</id>
-    <link href="https://github.com/ballerina-guides/ai-samples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is repository contains a set of Ballerina AI samples, which showcases the various capabilities of Ballerina programming language in building cloud-native AI applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hevayo/ballerina-openai-client</title>
-    <updated>2023-03-19T01:31:08Z</updated>
-    <id>tag:github.com,2023-03-19:/hevayo/ballerina-openai-client</id>
-    <link href="https://github.com/hevayo/ballerina-openai-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

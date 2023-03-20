@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-19T01:41:13Z</updated>
+  <updated>2023-03-20T01:39:24Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>proxmox/ksm-control-daemon</title>
-    <updated>2023-03-19T01:41:13Z</updated>
-    <id>tag:github.com,2023-03-19:/proxmox/ksm-control-daemon</id>
-    <link href="https://github.com/proxmox/ksm-control-daemon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;KSM tuning daemon&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

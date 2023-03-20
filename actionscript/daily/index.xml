@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-19T01:30:30Z</updated>
+  <updated>2023-03-20T01:30:21Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>buenolucas/rodilho-machine</title>
-    <updated>2023-03-19T01:30:30Z</updated>
-    <id>tag:github.com,2023-03-19:/buenolucas/rodilho-machine</id>
-    <link href="https://github.com/buenolucas/rodilho-machine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Engine simples para um rodilho&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>boyander/slotmachine</title>
+    <updated>2023-03-20T01:30:21Z</updated>
+    <id>tag:github.com,2023-03-20:/boyander/slotmachine</id>
+    <link href="https://github.com/boyander/slotmachine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AS3 Slot Machine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

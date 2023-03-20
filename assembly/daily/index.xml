@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-19T01:31:01Z</updated>
+  <updated>2023-03-20T01:30:51Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>phoreverpheebs/gibberish</title>
+    <updated>2023-03-20T01:30:51Z</updated>
+    <id>tag:github.com,2023-03-20:/phoreverpheebs/gibberish</id>
+    <link href="https://github.com/phoreverpheebs/gibberish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hello, World! written in seemingly &#34;gibberish&#34; x86 assembly using obfuscation on the assembly and machine code -level&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

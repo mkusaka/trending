@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-19T01:32:55Z</updated>
+  <updated>2023-03-20T01:32:26Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>simonhicks/cleek</title>
-    <updated>2023-03-19T01:32:55Z</updated>
-    <id>tag:github.com,2023-03-19:/simonhicks/cleek</id>
-    <link href="https://github.com/simonhicks/cleek" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a DSL for doing concatenative programming in clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>drcode/nrepl-gpt</title>
+    <updated>2023-03-20T01:32:26Z</updated>
+    <id>tag:github.com,2023-03-20:/drcode/nrepl-gpt</id>
+    <link href="https://github.com/drcode/nrepl-gpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;allows you to query chatgpt from the clojure emacs repl&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>threatgrid/pldb</title>
-    <updated>2023-03-19T01:32:55Z</updated>
-    <id>tag:github.com,2023-03-19:/threatgrid/pldb</id>
-    <link href="https://github.com/threatgrid/pldb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;(DEPRECATED) persistent logic database for clojure core.logic&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>launchdarkly/hello-clojure</title>
-    <updated>2023-03-19T01:32:55Z</updated>
-    <id>tag:github.com,2023-03-19:/launchdarkly/hello-clojure</id>
-    <link href="https://github.com/launchdarkly/hello-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hello LaunchDarkly for Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hyperfiddle/electric-xtdb-starter</title>
+    <updated>2023-03-20T01:32:26Z</updated>
+    <id>tag:github.com,2023-03-20:/hyperfiddle/electric-xtdb-starter</id>
+    <link href="https://github.com/hyperfiddle/electric-xtdb-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

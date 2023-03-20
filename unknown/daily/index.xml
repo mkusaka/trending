@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-19T01:30:00Z</updated>
+  <updated>2023-03-20T01:29:45Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jtmuller5/The-HustleGPT-Challenge</title>
-    <updated>2023-03-19T01:30:00Z</updated>
-    <id>tag:github.com,2023-03-19:/jtmuller5/The-HustleGPT-Challenge</id>
-    <link href="https://github.com/jtmuller5/The-HustleGPT-Challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Building Startups with an AI Co-Founder&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getcursor/cursor</title>
+    <updated>2023-03-20T01:29:45Z</updated>
+    <id>tag:github.com,2023-03-20:/getcursor/cursor</id>
+    <link href="https://github.com/getcursor/cursor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An editor built for programming with AI 🤖&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>github/copilot-docs</title>
-    <updated>2023-03-19T01:30:00Z</updated>
-    <id>tag:github.com,2023-03-19:/github/copilot-docs</id>
-    <link href="https://github.com/github/copilot-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation for GitHub Copilot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TakSec/chatgpt-prompts-bug-bounty</title>
+    <updated>2023-03-20T01:29:45Z</updated>
+    <id>tag:github.com,2023-03-20:/TakSec/chatgpt-prompts-bug-bounty</id>
+    <link href="https://github.com/TakSec/chatgpt-prompts-bug-bounty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT Prompts for Bug Bounty &amp; Pentesting&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>opendilab/awesome-RLHF</title>
-    <updated>2023-03-19T01:30:00Z</updated>
-    <id>tag:github.com,2023-03-19:/opendilab/awesome-RLHF</id>
-    <link href="https://github.com/opendilab/awesome-RLHF" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of reinforcement learning with human feedback resources (continually updated)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jbrukh/gpt4-spanish</title>
+    <updated>2023-03-20T01:29:45Z</updated>
+    <id>tag:github.com,2023-03-20:/jbrukh/gpt4-spanish</id>
+    <link href="https://github.com/jbrukh/gpt4-spanish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A GPT-4 prompt that helps you learn Spanish.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
