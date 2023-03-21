@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:30:53Z</updated>
+  <updated>2023-03-21T01:31:56Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>themefisher/bigspring-light-astro</title>
-    <updated>2023-03-20T01:30:53Z</updated>
-    <id>tag:github.com,2023-03-20:/themefisher/bigspring-light-astro</id>
-    <link href="https://github.com/themefisher/bigspring-light-astro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bigspring is a highly customizable Astro theme designed specifically for SaaS &amp; marketing websites.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

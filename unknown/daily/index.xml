@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:29:45Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-03-21T01:31:06Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>getcursor/cursor</title>
-    <updated>2023-03-20T01:29:45Z</updated>
-    <id>tag:github.com,2023-03-20:/getcursor/cursor</id>
-    <link href="https://github.com/getcursor/cursor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An editor built for programming with AI 🤖&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nichtdax/awesome-totally-open-chatgpt</title>
+    <updated>2023-03-21T01:31:06Z</updated>
+    <id>tag:github.com,2023-03-21:/nichtdax/awesome-totally-open-chatgpt</id>
+    <link href="https://github.com/nichtdax/awesome-totally-open-chatgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of totally open alternatives to ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TakSec/chatgpt-prompts-bug-bounty</title>
-    <updated>2023-03-20T01:29:45Z</updated>
-    <id>tag:github.com,2023-03-20:/TakSec/chatgpt-prompts-bug-bounty</id>
-    <link href="https://github.com/TakSec/chatgpt-prompts-bug-bounty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT Prompts for Bug Bounty &amp; Pentesting&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GabryB03/ChatGPT-Jailbreaks</title>
+    <updated>2023-03-21T01:31:06Z</updated>
+    <id>tag:github.com,2023-03-21:/GabryB03/ChatGPT-Jailbreaks</id>
+    <link href="https://github.com/GabryB03/ChatGPT-Jailbreaks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jbrukh/gpt4-spanish</title>
-    <updated>2023-03-20T01:29:45Z</updated>
-    <id>tag:github.com,2023-03-20:/jbrukh/gpt4-spanish</id>
-    <link href="https://github.com/jbrukh/gpt4-spanish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GPT-4 prompt that helps you learn Spanish.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI</title>
+    <updated>2023-03-21T01:31:06Z</updated>
+    <id>tag:github.com,2023-03-21:/marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI</id>
+    <link href="https://github.com/marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official Website: https://frontrunningbot.io - The front running bot is most powerful front run bot on market you can bypass metamask front running protections and made profit as you wish if you like the bot you can buy premium versions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

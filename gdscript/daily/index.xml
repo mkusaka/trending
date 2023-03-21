@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:35:10Z</updated>
+  <updated>2023-03-21T01:36:17Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BrotatoMods/Brotato-Invasion-Mod</title>
+    <updated>2023-03-21T01:36:17Z</updated>
+    <id>tag:github.com,2023-03-21:/BrotatoMods/Brotato-Invasion-Mod</id>
+    <link href="https://github.com/BrotatoMods/Brotato-Invasion-Mod" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Darkly77] Huge mod with items and content from Space Gladiators 👽&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

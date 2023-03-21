@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:31:11Z</updated>
+  <updated>2023-03-21T01:32:16Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/todo-python-mongo-swa-func</title>
+    <updated>2023-03-21T01:32:16Z</updated>
+    <id>tag:github.com,2023-03-21:/Azure-Samples/todo-python-mongo-swa-func</id>
+    <link href="https://github.com/Azure-Samples/todo-python-mongo-swa-func" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A complete ToDo application that includes everything you need to build, deploy, and monitor an Azure solution. This application uses the Azure Developer CLI (azd) to get you up and running on Azure quickly using React.js for the Web application, Python for the API and Azure Cosmos DB API for MongoDB for storage.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

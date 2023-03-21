@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:40:19Z</updated>
+  <updated>2023-03-21T01:41:44Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TheAlgorithms/Nim</title>
-    <updated>2023-03-20T01:40:19Z</updated>
-    <id>tag:github.com,2023-03-20:/TheAlgorithms/Nim</id>
-    <link href="https://github.com/TheAlgorithms/Nim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All Algorithms implemented in Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zevv/memgraph</title>
-    <updated>2023-03-20T01:40:19Z</updated>
-    <id>tag:github.com,2023-03-20:/zevv/memgraph</id>
-    <link href="https://github.com/zevv/memgraph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

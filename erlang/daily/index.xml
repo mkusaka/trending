@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:34:41Z</updated>
+  <updated>2023-03-21T01:35:46Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>drfloob/epgpb</title>
-    <updated>2023-03-20T01:34:41Z</updated>
-    <id>tag:github.com,2023-03-20:/drfloob/epgpb</id>
-    <link href="https://github.com/drfloob/epgpb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;epgpb = poolboy + epgsql&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lasp-lang/partisan</title>
+    <updated>2023-03-21T01:35:46Z</updated>
+    <id>tag:github.com,2023-03-21:/lasp-lang/partisan</id>
+    <link href="https://github.com/lasp-lang/partisan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;High-performance, high-scalability distributed computing for the BEAM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

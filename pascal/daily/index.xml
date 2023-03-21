@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:41:16Z</updated>
+  <updated>2023-03-21T01:42:41Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tinyBigGAMES/raylib</title>
-    <updated>2023-03-20T01:41:16Z</updated>
-    <id>tag:github.com,2023-03-20:/tinyBigGAMES/raylib</id>
-    <link href="https://github.com/tinyBigGAMES/raylib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;raylib for Pascal (Win64)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>keymanapp/keyman</title>
-    <updated>2023-03-20T01:41:16Z</updated>
-    <id>tag:github.com,2023-03-20:/keymanapp/keyman</id>
-    <link href="https://github.com/keymanapp/keyman" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

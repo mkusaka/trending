@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:45:09Z</updated>
+  <updated>2023-03-21T01:46:18Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-03-canto-identity</title>
-    <updated>2023-03-20T01:45:09Z</updated>
-    <id>tag:github.com,2023-03-20:/code-423n4/2023-03-canto-identity</id>
-    <link href="https://github.com/code-423n4/2023-03-canto-identity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Anish-Agnihotri/Hyperbitcoinization</title>
+    <updated>2023-03-21T01:46:18Z</updated>
+    <id>tag:github.com,2023-03-21:/Anish-Agnihotri/Hyperbitcoinization</id>
+    <link href="https://github.com/Anish-Agnihotri/Hyperbitcoinization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;$1 Million USDC vs 1 Wrapped Bitcoin 90-day term bet, inspired by Balaji&#39;s tweet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WTFAcademy/WTF-gas-optimization</title>
-    <updated>2023-03-20T01:45:09Z</updated>
-    <id>tag:github.com,2023-03-20:/WTFAcademy/WTF-gas-optimization</id>
-    <link href="https://github.com/WTFAcademy/WTF-gas-optimization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solidity gas optimization techniques, using Foundry.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xfoobar/bitsignal</title>
+    <updated>2023-03-21T01:46:18Z</updated>
+    <id>tag:github.com,2023-03-21:/0xfoobar/bitsignal</id>
+    <link href="https://github.com/0xfoobar/bitsignal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:34:10Z</updated>
+  <updated>2023-03-21T01:35:16Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PinePlatforms/Palladium</title>
+    <updated>2023-03-21T01:35:16Z</updated>
+    <id>tag:github.com,2023-03-21:/PinePlatforms/Palladium</id>
+    <link href="https://github.com/PinePlatforms/Palladium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A powerful &amp; fast open-source Pterodactyl client area.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mondher0/Datum</title>
+    <updated>2023-03-21T01:35:16Z</updated>
+    <id>tag:github.com,2023-03-21:/mondher0/Datum</id>
+    <link href="https://github.com/mondher0/Datum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Datum is the first official fully Algerian Data Market, it is an online Data market that provides new startup’s with enough datasets about their field of interest and their data needs it our project for the hackathon.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

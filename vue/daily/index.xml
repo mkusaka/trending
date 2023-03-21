@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:47:02Z</updated>
+  <updated>2023-03-21T01:48:22Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>laravel/breeze</title>
-    <updated>2023-03-20T01:47:02Z</updated>
-    <id>tag:github.com,2023-03-20:/laravel/breeze</id>
-    <link href="https://github.com/laravel/breeze" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimal Laravel authentication scaffolding with Blade, Vue, or React + Tailwind.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vueschool/laravel-backends-for-vuejs-3</title>
+    <updated>2023-03-21T01:48:22Z</updated>
+    <id>tag:github.com,2023-03-21:/vueschool/laravel-backends-for-vuejs-3</id>
+    <link href="https://github.com/vueschool/laravel-backends-for-vuejs-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Front-end source code for the &#34;Laravel Backends for Vue.js 3&#34; course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

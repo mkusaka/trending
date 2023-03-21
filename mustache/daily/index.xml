@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-20T01:40:03Z</updated>
+  <updated>2023-03-21T01:41:28Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>digital-asset/daml-helm-charts</title>
-    <updated>2023-03-20T01:40:03Z</updated>
-    <id>tag:github.com,2023-03-20:/digital-asset/daml-helm-charts</id>
-    <link href="https://github.com/digital-asset/daml-helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Daml Enterprise deployment with high availability.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
