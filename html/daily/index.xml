@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-21T01:37:30Z</updated>
+  <updated>2023-03-22T01:34:57Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>abuseofnotation/category-theory-illustrated</title>
-    <updated>2023-03-21T01:37:30Z</updated>
-    <id>tag:github.com,2023-03-21:/abuseofnotation/category-theory-illustrated</id>
-    <link href="https://github.com/abuseofnotation/category-theory-illustrated" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A book about category theory&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Category Theory Illustrated&lt;/h1&gt; &#xA;&lt;p&gt;This is a book about Category Theory that I started writing. Read it at&lt;/p&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;http://boris-marinov.github.io/category-theory-illustrated/&#34;&gt;http://boris-marinov.github.io/category-theory-illustrated/&lt;/a&gt;&lt;/h1&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-21T01:32:11Z</updated>
+  <updated>2023-03-22T01:29:59Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sdfliutgoijfidsjtoijpoidjosighoiasdp9ue/ngrok-rdp</title>
-    <updated>2023-03-21T01:32:11Z</updated>
-    <id>tag:github.com,2023-03-21:/sdfliutgoijfidsjtoijpoidjosighoiasdp9ue/ngrok-rdp</id>
-    <link href="https://github.com/sdfliutgoijfidsjtoijpoidjosighoiasdp9ue/ngrok-rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

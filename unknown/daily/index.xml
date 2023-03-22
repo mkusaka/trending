@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-21T01:31:06Z</updated>
+  <updated>2023-03-22T01:28:57Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nichtdax/awesome-totally-open-chatgpt</title>
-    <updated>2023-03-21T01:31:06Z</updated>
-    <id>tag:github.com,2023-03-21:/nichtdax/awesome-totally-open-chatgpt</id>
-    <link href="https://github.com/nichtdax/awesome-totally-open-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of totally open alternatives to ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheExplainthis/AI-Products-All-In-One</title>
+    <updated>2023-03-22T01:28:57Z</updated>
+    <id>tag:github.com,2023-03-22:/TheExplainthis/AI-Products-All-In-One</id>
+    <link href="https://github.com/TheExplainthis/AI-Products-All-In-One" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;彙整了真正實用的 ChatGPT 與生成式 AI 工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>GabryB03/ChatGPT-Jailbreaks</title>
-    <updated>2023-03-21T01:31:06Z</updated>
-    <id>tag:github.com,2023-03-21:/GabryB03/ChatGPT-Jailbreaks</id>
-    <link href="https://github.com/GabryB03/ChatGPT-Jailbreaks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>marcianotech/prompts</title>
+    <updated>2023-03-22T01:28:57Z</updated>
+    <id>tag:github.com,2023-03-22:/marcianotech/prompts</id>
+    <link href="https://github.com/marcianotech/prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI</title>
-    <updated>2023-03-21T01:31:06Z</updated>
-    <id>tag:github.com,2023-03-21:/marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI</id>
-    <link href="https://github.com/marallen1/Front-Running-Bot-Automated-Front-Running-Sniper-Bot-with-GUI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Website: https://frontrunningbot.io - The front running bot is most powerful front run bot on market you can bypass metamask front running protections and made profit as you wish if you like the bot you can buy premium versions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ArbitrumFoundation/sybil-detection</title>
+    <updated>2023-03-22T01:28:57Z</updated>
+    <id>tag:github.com,2023-03-22:/ArbitrumFoundation/sybil-detection</id>
+    <link href="https://github.com/ArbitrumFoundation/sybil-detection" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

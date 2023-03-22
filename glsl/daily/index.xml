@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-21T01:36:33Z</updated>
+  <updated>2023-03-22T01:33:59Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vsg-dev/vsgExamples</title>
-    <updated>2023-03-21T01:36:33Z</updated>
-    <id>tag:github.com,2023-03-21:/vsg-dev/vsgExamples</id>
-    <link href="https://github.com/vsg-dev/vsgExamples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example programs that test and illustrate how to use the VSG and optional add-on libraries&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

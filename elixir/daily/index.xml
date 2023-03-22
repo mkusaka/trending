@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-21T01:35:19Z</updated>
+  <updated>2023-03-22T01:32:54Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>memoetapp/memoet</title>
-    <updated>2023-03-21T01:35:19Z</updated>
-    <id>tag:github.com,2023-03-21:/memoetapp/memoet</id>
-    <link href="https://github.com/memoetapp/memoet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A self-hosted spaced repetition software&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kommitters/stellar_base</title>
-    <updated>2023-03-21T01:35:19Z</updated>
-    <id>tag:github.com,2023-03-21:/kommitters/stellar_base</id>
-    <link href="https://github.com/kommitters/stellar_base" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low-level elixir library to read, write, hash, and sign XDR primitive constructs used in the Stellar network&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

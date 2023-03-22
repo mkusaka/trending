@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-21T01:39:54Z</updated>
+  <updated>2023-03-22T01:37:25Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lyr408/MobileCyberSecurity</title>
-    <updated>2023-03-21T01:39:54Z</updated>
-    <id>tag:github.com,2023-03-21:/lyr408/MobileCyberSecurity</id>
-    <link href="https://github.com/lyr408/MobileCyberSecurity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;# MobileCyberSecurity It is a development tutorial that provides security defenses for mobile applications&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MobileCyberSecurity&lt;/h1&gt; &#xA;&lt;p&gt;It is a development tutorial that provides security defenses for mobile applications&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>re-ovo/awara</title>
-    <updated>2023-03-21T01:39:54Z</updated>
-    <id>tag:github.com,2023-03-21:/re-ovo/awara</id>
-    <link href="https://github.com/re-ovo/awara" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iwara android app&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Awara&lt;/h1&gt; &#xA;&lt;p&gt;Next generation Android app for iwara.&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;🎨 Material You Design&lt;/li&gt; &#xA; &lt;li&gt;💻 Automatic screen adaptation&lt;/li&gt; &#xA; &lt;li&gt;🌏 Localized language support&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Screenshots&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;TODO&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Download&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;TODO&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;TODO&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;TODO&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>xxfast/NYTimes-KMP</title>
+    <updated>2023-03-22T01:37:25Z</updated>
+    <id>tag:github.com,2023-03-22:/xxfast/NYTimes-KMP</id>
+    <link href="https://github.com/xxfast/NYTimes-KMP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A KMP template of the New York Times App using Compose multiplatform&lt;/p&gt;&lt;hr&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/13775137/226222990-558b58ca-20c0-4a45-8285-bf037f79647f.png&#34; align=&#34;right&#34; width=&#34;200&#34; height=&#34;200&#34;&gt; &#xA;&lt;h1&gt;NYTimes-KMP&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/xxfast/NYTimes-KMP/actions/workflows/build.yml&#34;&gt;&lt;img src=&#34;https://github.com/xxfast/NYTimes-KMP/actions/workflows/build.yml/badge.svg?sanitize=true&#34; alt=&#34;Build&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://kotlinlang.org&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Kotlin-1.8.10-blue.svg?style=flat&amp;amp;logo=kotlin&#34; alt=&#34;Kotlin&#34;&gt;&lt;/a&gt; &lt;img src=&#34;http://img.shields.io/badge/platform-android-6EDB8D.svg?style=flat&#34; alt=&#34;badge-android&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/platform-desktop-4D76CD.svg?style=flat&#34; alt=&#34;badge-desktop&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/platform-ios-EAEAEA.svg?style=flat&#34; alt=&#34;badge-desktop&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;A KMP template of the New York Times App using Compose multiplatform&lt;/p&gt; &#xA;&lt;h2&gt;The stack&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;🌐 &lt;a href=&#34;https://github.com/ktorio/ktor&#34;&gt;Ktor&lt;/a&gt;; for networking&lt;/li&gt; &#xA; &lt;li&gt;📦 &lt;a href=&#34;https://github.com/Kotlin/kotlinx.serialization&#34;&gt;Kotlinx Serialization&lt;/a&gt;; for content negotiation&lt;/li&gt; &#xA; &lt;li&gt;🕰️ &lt;a href=&#34;https://github.com/Kotlin/kotlinx-datetime&#34;&gt;Kotlinx Datetime&lt;/a&gt;; for datetime&lt;/li&gt; &#xA; &lt;li&gt;🗃️ &lt;a href=&#34;https://github.com/xxfast/KStore&#34;&gt;KStore&lt;/a&gt;; for storage&lt;/li&gt; &#xA; &lt;li&gt;🚏 &lt;a href=&#34;https://github.com/arkivanov/Decompose&#34;&gt;Decompose&lt;/a&gt; + &lt;a href=&#34;https://github.com/xxfast/KRouter&#34;&gt;KRouter&lt;/a&gt;; for navigation&lt;/li&gt; &#xA; &lt;li&gt;🧪 &lt;a href=&#34;https://github.com/cashapp/molecule&#34;&gt;Molecule&lt;/a&gt;; for modeling state&lt;/li&gt; &#xA; &lt;li&gt;🏞️ &lt;a href=&#34;https://github.com/qdsfdhvh/compose-imageloader&#34;&gt;Compose-imageloader&lt;/a&gt;; for loading images&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Showcase&lt;/h2&gt; &#xA;&lt;h3&gt;Android&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://user-images.githubusercontent.com/13775137/226222818-b560acc0-53ba-4205-875f-39fdb4b2c370.mp4&#34;&gt;https://user-images.githubusercontent.com/13775137/226222818-b560acc0-53ba-4205-875f-39fdb4b2c370.mp4&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;iOS&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://user-images.githubusercontent.com/13775137/226222910-df74f449-ec01-4a72-88c4-d2ab0e98ff5b.mp4&#34;&gt;https://user-images.githubusercontent.com/13775137/226222910-df74f449-ec01-4a72-88c4-d2ab0e98ff5b.mp4&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Desktop&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://user-images.githubusercontent.com/13775137/226222948-861e5362-a5db-4ee1-8992-de758dcea7db.mp4&#34;&gt;https://user-images.githubusercontent.com/13775137/226222948-861e5362-a5db-4ee1-8992-de758dcea7db.mp4&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

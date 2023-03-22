@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-21T01:47:19Z</updated>
+  <updated>2023-03-22T01:44:35Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dw218192/CIS660_pdf2eval</title>
-    <updated>2023-03-21T01:47:19Z</updated>
-    <id>tag:github.com,2023-03-21:/dw218192/CIS660_pdf2eval</id>
-    <link href="https://github.com/dw218192/CIS660_pdf2eval" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a tool based on OpenAI&#39;s chatGPT and pyPDF to automatically generate CIS660 paper evaluation from a PDF file.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
