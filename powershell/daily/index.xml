@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:40:53Z</updated>
+  <updated>2023-03-23T01:41:57Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nyxgeek/imgdevil</title>
-    <updated>2023-03-22T01:40:53Z</updated>
-    <id>tag:github.com,2023-03-22:/nyxgeek/imgdevil</id>
-    <link href="https://github.com/nyxgeek/imgdevil" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;quick and dirty proof-of-concept to hide shells in images&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;imgdevil&lt;/h1&gt; &#xA;&lt;p&gt;quick and dirty proof-of-concept to hide shells in images&lt;/p&gt; &#xA;&lt;h2&gt;overview&lt;/h2&gt; &#xA;&lt;p&gt;&lt;em&gt;This code is rough. It is strictly to demonstrate.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;There are two files:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;imgdevil.ps1 -- contains both encoder and decoder&lt;/li&gt; &#xA; &lt;li&gt;imgdevil_decoder_only.p1 -- just the decoder&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;encoding&lt;/h3&gt; &#xA;&lt;p&gt;To encode an image, there are a few spots you will need to manually update in the script.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$originalimagepath = &#34;C:\Users\nyxgeek\Desktop\kilroy500.png&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$inputpowershellpath = &#34;C:\Users\nyxgeek\Desktop\bindshell_one-liner.ps1&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The rest of the paths are local, and will write out to the local directory.&lt;/p&gt; &#xA;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &#xA;&lt;h3&gt;decoding&lt;/h3&gt; &#xA;&lt;p&gt;To decode an image, only one line needs to be changed:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$webpath = &#34;https://pbs.twimg.com/media/DUUb7yQVQAEGZDp.png&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;by default, this points to an encoded bind shell on port 443.&lt;/p&gt; &#xA;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &#xA;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &#xA;&lt;p&gt;See the original blog post for more information:&lt;/p&gt;</summary>
-  </entry>
 </feed>

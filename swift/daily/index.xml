@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:44:18Z</updated>
+  <updated>2023-03-23T01:45:19Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>MustangYM/OSXChatGpt</title>
-    <updated>2023-03-22T01:44:18Z</updated>
-    <id>tag:github.com,2023-03-22:/MustangYM/OSXChatGpt</id>
-    <link href="https://github.com/MustangYM/OSXChatGpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easy to use OpenAI ChatGPT on your mac !&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://github.com/MustangYM/OSXChatGpt/raw/main/OSXChatGPT/picture/home-tuya.png&#34; width=&#34;1000px&#34;&gt; &lt;/p&gt; &#xA;&lt;h1&gt;OSXChatGpt&lt;/h1&gt; &#xA;&lt;p&gt;Easy to use OpenAI in your desktop, the whole application is implemented by SwiftUI.&lt;/p&gt; &#xA;&lt;h2&gt;Feature And Bugs&lt;/h2&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Feature/Bug&lt;/th&gt; &#xA;   &lt;th&gt;Status&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;del&gt;The paste board content is automatically sent&lt;/del&gt;&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;del&gt;Disable sending NULL content&lt;/del&gt;&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;del&gt;The input state of the GPT&lt;/del&gt;&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;del&gt;The sidebar cannot be displayed&lt;/del&gt;&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;del&gt;The GPT&#39;s answer cannot be pasted&lt;/del&gt;&lt;/td&gt; &#xA;   &lt;td&gt;✅&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://github.com/MustangYM/OSXChatGpt/raw/main/OSXChatGPT/picture/WechatIMG299.png&#34; width=&#34;300px&#34;&gt; &lt;/p&gt; &#xA;&lt;h2&gt;How to use&lt;/h2&gt; &#xA;&lt;p&gt;You need a working OpenAI API Key in order to use OSXChatGPT&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://github.com/MustangYM/OSXChatGpt/raw/main/OSXChatGPT/picture/WechatIMG300.png&#34; width=&#34;700px&#34;&gt; &lt;/p&gt; &#xA;&lt;h2&gt;Have fun&lt;/h2&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://github.com/MustangYM/OSXChatGpt/raw/main/OSXChatGPT/picture/WechatIMG301.png&#34; width=&#34;700px&#34;&gt; &lt;/p&gt; &#xA;&lt;h2&gt;Thanks&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Lakr233/Colorful&#34;&gt;Lakr233/Colorful&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

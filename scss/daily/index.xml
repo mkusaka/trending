@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:43:04Z</updated>
+  <updated>2023-03-23T01:44:09Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Saltssaumure/xp-discord-theme</title>
-    <updated>2023-03-22T01:43:04Z</updated>
-    <id>tag:github.com,2023-03-22:/Saltssaumure/xp-discord-theme</id>
-    <link href="https://github.com/Saltssaumure/xp-discord-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Windows XP style Discord theme.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DiscordStyles/FrostedGlass</title>
+    <updated>2023-03-23T01:44:09Z</updated>
+    <id>tag:github.com,2023-03-23:/DiscordStyles/FrostedGlass</id>
+    <link href="https://github.com/DiscordStyles/FrostedGlass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Display your picture of choice with adjustable blur and brightness.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NoroffFEU/css-frameworks-ca</title>
-    <updated>2023-03-22T01:43:04Z</updated>
-    <id>tag:github.com,2023-03-22:/NoroffFEU/css-frameworks-ca</id>
-    <link href="https://github.com/NoroffFEU/css-frameworks-ca" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template repository used for student CSS Frameworks CA submissions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DiscordStyles/RadialStatus</title>
+    <updated>2023-03-23T01:44:09Z</updated>
+    <id>tag:github.com,2023-03-23:/DiscordStyles/RadialStatus</id>
+    <link href="https://github.com/DiscordStyles/RadialStatus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Changes the status icons to wrap around the avatar.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DiscordStyles/Slate</title>
+    <updated>2023-03-23T01:44:09Z</updated>
+    <id>tag:github.com,2023-03-23:/DiscordStyles/Slate</id>
+    <link href="https://github.com/DiscordStyles/Slate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An optimized, consistent, and functional theme for @discord based on GitHub&#39;s design language.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

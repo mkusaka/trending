@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:43:49Z</updated>
+  <updated>2023-03-23T01:44:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pinkcat-jay/pinkcat</title>
-    <updated>2023-03-22T01:43:49Z</updated>
-    <id>tag:github.com,2023-03-22:/pinkcat-jay/pinkcat</id>
-    <link href="https://github.com/pinkcat-jay/pinkcat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mouseless-eth/rusty-sando</title>
+    <updated>2023-03-23T01:44:49Z</updated>
+    <id>tag:github.com,2023-03-23:/mouseless-eth/rusty-sando</id>
+    <link href="https://github.com/mouseless-eth/rusty-sando" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementation of a competitive v2/v3 multi-meat sandwich bot written using Rust and Huff.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>itsobvioustech/aa-passkeys-wallet</title>
-    <updated>2023-03-22T01:43:49Z</updated>
-    <id>tag:github.com,2023-03-22:/itsobvioustech/aa-passkeys-wallet</id>
-    <link href="https://github.com/itsobvioustech/aa-passkeys-wallet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>saucepoint/foundry-arbitrum</title>
+    <updated>2023-03-23T01:44:49Z</updated>
+    <id>tag:github.com,2023-03-23:/saucepoint/foundry-arbitrum</id>
+    <link href="https://github.com/saucepoint/foundry-arbitrum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cross-chain message testing for Arbitrum with Foundry&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

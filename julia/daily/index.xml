@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:36:56Z</updated>
+  <updated>2023-03-23T01:37:52Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ChifiSource/Olive.jl</title>
-    <updated>2023-03-22T01:36:56Z</updated>
-    <id>tag:github.com,2023-03-22:/ChifiSource/Olive.jl</id>
-    <link href="https://github.com/ChifiSource/Olive.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;pure julia notebooks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaDebug/Cthulhu.jl</title>
-    <updated>2023-03-22T01:36:56Z</updated>
-    <id>tag:github.com,2023-03-22:/JuliaDebug/Cthulhu.jl</id>
-    <link href="https://github.com/JuliaDebug/Cthulhu.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The slow descent into madness&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaReinforcementLearning/ReinforcementLearning.jl</title>
-    <updated>2023-03-22T01:36:56Z</updated>
-    <id>tag:github.com,2023-03-22:/JuliaReinforcementLearning/ReinforcementLearning.jl</id>
-    <link href="https://github.com/JuliaReinforcementLearning/ReinforcementLearning.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reinforcement learning package for Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

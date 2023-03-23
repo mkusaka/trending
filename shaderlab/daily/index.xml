@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:43:08Z</updated>
+  <updated>2023-03-23T01:44:13Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JoshuaLim007/Unity-ScreenSpaceReflections-URP</title>
-    <updated>2023-03-22T01:43:08Z</updated>
-    <id>tag:github.com,2023-03-22:/JoshuaLim007/Unity-ScreenSpaceReflections-URP</id>
-    <link href="https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SSR solution for Unity URP&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>XREAL-4th/DevQuest</title>
+    <updated>2023-03-23T01:44:13Z</updated>
+    <id>tag:github.com,2023-03-23:/XREAL-4th/DevQuest</id>
+    <link href="https://github.com/XREAL-4th/DevQuest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;4기 데브 주니어의 1차 과제 제출 리포 (3/20~4/13)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:28:57Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-03-23T01:29:26Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheExplainthis/AI-Products-All-In-One</title>
-    <updated>2023-03-22T01:28:57Z</updated>
-    <id>tag:github.com,2023-03-22:/TheExplainthis/AI-Products-All-In-One</id>
-    <link href="https://github.com/TheExplainthis/AI-Products-All-In-One" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;彙整了真正實用的 ChatGPT 與生成式 AI 工具&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sw-yx/spark-joy</title>
+    <updated>2023-03-23T01:29:26Z</updated>
+    <id>tag:github.com,2023-03-23:/sw-yx/spark-joy</id>
+    <link href="https://github.com/sw-yx/spark-joy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>marcianotech/prompts</title>
-    <updated>2023-03-22T01:28:57Z</updated>
-    <id>tag:github.com,2023-03-22:/marcianotech/prompts</id>
-    <link href="https://github.com/marcianotech/prompts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>forthespada/InterviewGuide</title>
+    <updated>2023-03-23T01:29:26Z</updated>
+    <id>tag:github.com,2023-03-23:/forthespada/InterviewGuide</id>
+    <link href="https://github.com/forthespada/InterviewGuide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥🔥「InterviewGuide」是阿秀从校园-&gt;职场多年计算机自学过程的记录以及学弟学妹们计算机校招&amp;秋招经验总结文章的汇总，包括但不限于C/C++ 、Golang、JavaScript、Vue、操作系统、数据结构、计算机网络、MySQL、Redis等学习总结，坚持学习，持续成长！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ArbitrumFoundation/sybil-detection</title>
-    <updated>2023-03-22T01:28:57Z</updated>
-    <id>tag:github.com,2023-03-22:/ArbitrumFoundation/sybil-detection</id>
-    <link href="https://github.com/ArbitrumFoundation/sybil-detection" rel="alternate"></link>
+    <title>npmaile/blog</title>
+    <updated>2023-03-23T01:29:26Z</updated>
+    <id>tag:github.com,2023-03-23:/npmaile/blog</id>
+    <link href="https://github.com/npmaile/blog" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

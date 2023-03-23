@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:45:38Z</updated>
+  <updated>2023-03-23T01:46:34Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ghdl/ghdl-yosys-plugin</title>
-    <updated>2023-03-22T01:45:38Z</updated>
-    <id>tag:github.com,2023-03-22:/ghdl/ghdl-yosys-plugin</id>
-    <link href="https://github.com/ghdl/ghdl-yosys-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VHDL synthesis (based on ghdl)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:39:28Z</updated>
+  <updated>2023-03-23T01:40:31Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>umwood89/4350-group-awesome-repo</title>
-    <updated>2023-03-22T01:39:28Z</updated>
-    <id>tag:github.com,2023-03-22:/umwood89/4350-group-awesome-repo</id>
-    <link href="https://github.com/umwood89/4350-group-awesome-repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>qishang/muisc</title>
-    <updated>2023-03-22T01:39:28Z</updated>
-    <id>tag:github.com,2023-03-22:/qishang/muisc</id>
-    <link href="https://github.com/qishang/muisc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Gainsight/px-ios</title>
-    <updated>2023-03-22T01:39:28Z</updated>
-    <id>tag:github.com,2023-03-22:/Gainsight/px-ios</id>
-    <link href="https://github.com/Gainsight/px-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://app.aptrinsic.com&#34;&gt;&lt;img src=&#34;https://app-dev.aptrinsic.com/home/gainsight-px-logo.svg?sanitize=true&#34; alt=&#34;N|Solid&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/version-1.9.0-blue.svg?sanitize=true&#34; alt=&#34;version&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/coverage-81%25-yellowgreen&#34; alt=&#34;coverage&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;h3&gt;Swift Package Manager&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt; dependencies: [&#xA;  .package(url: &#34;https://github.com/Gainsight/px-ios.git&#34;, from: &#34;1.9.0&#34;)&#xA; ]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;GainsighPX is available through CocoaPods.&lt;/p&gt; &#xA;&lt;h3&gt;CocoaPods&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;pod &#39;PXKit&#39;, :git =&amp;gt; &#39;git@github.com:Gainsight/px-ios.git&#39;, tag: &#39;1.9.0&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;or&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;pre&gt;&lt;code&gt;pod &#39;PXKit&#39;, :git =&amp;gt; &#39;git@github.com:Gainsight/px-ios.git&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Documentation&lt;/h1&gt; &#xA;&lt;p&gt;More detailed documentation is available at: &lt;a href=&#34;https://support.gainsight.com/PX/Mobile/Getting_Started/03Integrate_Gainsight_PX_with_iOS&#34;&gt;https://support.gainsight.com/PX/Mobile/Getting_Started/03Integrate_Gainsight_PX_with_iOS&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Editor Deeplinking&lt;/h2&gt; &#xA;&lt;p&gt;More detailed documentation is available at: &lt;a href=&#34;https://support.gainsight.com/PX/Mobile/01Getting_Started/Integrate_Gainsight_PX_Editor_with_your_Mobile_Platform&#34;&gt;https://support.gainsight.com/PX/Mobile/01Getting_Started/Integrate_Gainsight_PX_Editor_with_your_Mobile_Platform&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;MIT License&lt;/p&gt; &#xA;&lt;p&gt;Copyright (c) 2019 aptrinsic&lt;/p&gt; &#xA;&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &#34;Software&#34;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt; &#xA;&lt;p&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;/p&gt; &#xA;&lt;p&gt;THE SOFTWARE IS PROVIDED &#34;AS IS&#34;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;</summary>
-  </entry>
 </feed>

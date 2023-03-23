@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-22T01:42:06Z</updated>
+  <updated>2023-03-23T01:43:06Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ahti-mughal/BWT_DE_Repository</title>
+    <updated>2023-03-23T01:43:06Z</updated>
+    <id>tag:github.com,2023-03-23:/ahti-mughal/BWT_DE_Repository</id>
+    <link href="https://github.com/ahti-mughal/BWT_DE_Repository" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains all the progress of fellows.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wacedungeoner/wace</title>
+    <updated>2023-03-23T01:43:06Z</updated>
+    <id>tag:github.com,2023-03-23:/wacedungeoner/wace</id>
+    <link href="https://github.com/wacedungeoner/wace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Monorepo containing resources and associated Discord bot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
