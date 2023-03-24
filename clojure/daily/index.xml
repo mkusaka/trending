@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-23T01:31:47Z</updated>
+  <updated>2023-03-24T01:31:38Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mattdeboard/4clojure-scratch</title>
-    <updated>2023-03-23T01:31:47Z</updated>
-    <id>tag:github.com,2023-03-23:/mattdeboard/4clojure-scratch</id>
-    <link href="https://github.com/mattdeboard/4clojure-scratch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notes &amp; solutions for 4clojure problems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>borkdude/clj2el</title>
+    <updated>2023-03-24T01:31:38Z</updated>
+    <id>tag:github.com,2023-03-24:/borkdude/clj2el</id>
+    <link href="https://github.com/borkdude/clj2el" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Transpile Clojure to Emacs Lisp!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zalky/cues</title>
+    <updated>2023-03-24T01:31:38Z</updated>
+    <id>tag:github.com,2023-03-24:/zalky/cues</id>
+    <link href="https://github.com/zalky/cues" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Queues on cue: low-latency persistent blocking queues, processors, and graphs via ChronicleQueue&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>technomancy/javert</title>
+    <updated>2023-03-24T01:31:38Z</updated>
+    <id>tag:github.com,2023-03-24:/technomancy/javert</id>
+    <link href="https://github.com/technomancy/javert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;inspector&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

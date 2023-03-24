@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-23T01:39:22Z</updated>
+  <updated>2023-03-24T01:39:12Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>toshiakit/MatGPT</title>
-    <updated>2023-03-23T01:39:22Z</updated>
-    <id>tag:github.com,2023-03-23:/toshiakit/MatGPT</id>
-    <link href="https://github.com/toshiakit/MatGPT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MATLAB app and class to access ChatGPT API from OpenAI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>cornwe19/cse802</title>
-    <updated>2023-03-23T01:39:22Z</updated>
-    <id>tag:github.com,2023-03-23:/cornwe19/cse802</id>
-    <link href="https://github.com/cornwe19/cse802" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rheadmar/PatRec</title>
+    <updated>2023-03-24T01:39:12Z</updated>
+    <id>tag:github.com,2023-03-24:/rheadmar/PatRec</id>
+    <link href="https://github.com/rheadmar/PatRec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pattern Recognition Lab 1&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

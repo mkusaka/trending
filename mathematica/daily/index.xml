@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mathematica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-23T01:39:21Z</updated>
+  <updated>2023-03-24T01:39:13Z</updated>
   <subtitle>Daily Trending of Mathematica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ConnorGray/Chatbook</title>
-    <updated>2023-03-23T01:39:21Z</updated>
-    <id>tag:github.com,2023-03-23:/ConnorGray/Chatbook</id>
-    <link href="https://github.com/ConnorGray/Chatbook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT + Wolfram Notebooks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

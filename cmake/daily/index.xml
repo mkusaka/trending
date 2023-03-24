@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-23T01:31:53Z</updated>
+  <updated>2023-03-24T01:31:44Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>voltbro/ws_serv_a</title>
-    <updated>2023-03-23T01:31:53Z</updated>
-    <id>tag:github.com,2023-03-23:/voltbro/ws_serv_a</id>
-    <link href="https://github.com/voltbro/ws_serv_a" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>oroca/oroca-ros-pkg</title>
-    <updated>2023-03-23T01:31:53Z</updated>
-    <id>tag:github.com,2023-03-23:/oroca/oroca-ros-pkg</id>
-    <link href="https://github.com/oroca/oroca-ros-pkg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;oroca-ros-pkg is collection of OROCA&#39;s ROS(Robot Operating System) packages.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

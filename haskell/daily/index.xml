@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-23T01:35:47Z</updated>
+  <updated>2023-03-24T01:35:40Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lucioZuccolo/EstrD2023s1</title>
-    <updated>2023-03-23T01:35:47Z</updated>
-    <id>tag:github.com,2023-03-23:/lucioZuccolo/EstrD2023s1</id>
-    <link href="https://github.com/lucioZuccolo/EstrD2023s1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GaloisInc/delicious</title>
-    <updated>2023-03-23T01:35:47Z</updated>
-    <id>tag:github.com,2023-03-23:/GaloisInc/delicious</id>
-    <link href="https://github.com/GaloisInc/delicious" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Haskell library to interact with the &#39;delicious&#39; web-service.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MichaelXavier/kickass-torrents-dump-parser</title>
+    <updated>2023-03-24T01:35:40Z</updated>
+    <id>tag:github.com,2023-03-24:/MichaelXavier/kickass-torrents-dump-parser</id>
+    <link href="https://github.com/MichaelXavier/kickass-torrents-dump-parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parses kat.ph torrent dumps, see http://kat.ph/api/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;kickass-torrents-dump-parser&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/MichaelXavier/kickass-torrents-dump-parser&#34;&gt;&lt;img src=&#34;https://travis-ci.org/MichaelXavier/kickass-torrents-dump-parser.png&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Library to parse the torrent dump files provided by Kickass Torrents. See &lt;a href=&#34;http://kat.ph/api/&#34;&gt;http://kat.ph/api/&lt;/a&gt; for the files in question.&lt;/p&gt;</summary>
   </entry>
 </feed>

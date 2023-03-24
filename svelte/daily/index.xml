@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-23T01:45:15Z</updated>
+  <updated>2023-03-24T01:45:41Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CETEN-OpenBar/openbar-public-client</title>
-    <updated>2023-03-23T01:45:15Z</updated>
-    <id>tag:github.com,2023-03-23:/CETEN-OpenBar/openbar-public-client</id>
-    <link href="https://github.com/CETEN-OpenBar/openbar-public-client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Figma-Linux/figma-linux</title>
+    <updated>2023-03-24T01:45:41Z</updated>
+    <id>tag:github.com,2023-03-24:/Figma-Linux/figma-linux</id>
+    <link href="https://github.com/Figma-Linux/figma-linux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jacany/nblog</title>
-    <updated>2023-03-23T01:45:15Z</updated>
-    <id>tag:github.com,2023-03-23:/jacany/nblog</id>
-    <link href="https://github.com/jacany/nblog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;self-host nostr ghost blog&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NIAEFEUP/website-niaefeup-frontend</title>
+    <updated>2023-03-24T01:45:41Z</updated>
+    <id>tag:github.com,2023-03-24:/NIAEFEUP/website-niaefeup-frontend</id>
+    <link href="https://github.com/NIAEFEUP/website-niaefeup-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The frontend of the website for NIAEFEUP.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Lissy93/cheat-code</title>
+    <updated>2023-03-24T01:45:41Z</updated>
+    <id>tag:github.com,2023-03-24:/Lissy93/cheat-code</id>
+    <link href="https://github.com/Lissy93/cheat-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💫 An AI-powered coding assistant, built to try out the ChatGPT API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

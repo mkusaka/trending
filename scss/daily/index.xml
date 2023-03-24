@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-23T01:44:09Z</updated>
+  <updated>2023-03-24T01:44:28Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DiscordStyles/FrostedGlass</title>
-    <updated>2023-03-23T01:44:09Z</updated>
-    <id>tag:github.com,2023-03-23:/DiscordStyles/FrostedGlass</id>
-    <link href="https://github.com/DiscordStyles/FrostedGlass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Display your picture of choice with adjustable blur and brightness.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DiscordStyles/RadialStatus</title>
-    <updated>2023-03-23T01:44:09Z</updated>
-    <id>tag:github.com,2023-03-23:/DiscordStyles/RadialStatus</id>
-    <link href="https://github.com/DiscordStyles/RadialStatus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Changes the status icons to wrap around the avatar.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DiscordStyles/Slate</title>
-    <updated>2023-03-23T01:44:09Z</updated>
-    <id>tag:github.com,2023-03-23:/DiscordStyles/Slate</id>
-    <link href="https://github.com/DiscordStyles/Slate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An optimized, consistent, and functional theme for @discord based on GitHub&#39;s design language.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ansys/jekyll-theme-corp</title>
+    <updated>2023-03-24T01:44:28Z</updated>
+    <id>tag:github.com,2023-03-24:/ansys/jekyll-theme-corp</id>
+    <link href="https://github.com/ansys/jekyll-theme-corp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Corporate Jekyll theme!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

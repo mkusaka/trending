@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-23T01:42:05Z</updated>
+  <updated>2023-03-24T01:42:16Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ASTR2600s13/ASTR2600_class_materials</title>
+    <updated>2023-03-24T01:42:16Z</updated>
+    <id>tag:github.com,2023-03-24:/ASTR2600s13/ASTR2600_class_materials</id>
+    <link href="https://github.com/ASTR2600s13/ASTR2600_class_materials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Assignments, tutorials, and other materials to be handed out to the class via github&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
