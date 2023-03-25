@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-24T01:39:02Z</updated>
+  <updated>2023-03-25T01:38:24Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ucascnic/NCQA</title>
-    <updated>2023-03-24T01:39:02Z</updated>
-    <id>tag:github.com,2023-03-24:/ucascnic/NCQA</id>
-    <link href="https://github.com/ucascnic/NCQA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;computing the non-convex risk parity porfolio problems by the non-convex quadratic approxiamtion (NCQA), interior point method (IPM) and sequence quadratic program (SQP)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheEntityCircle/lfb-2nd-term</title>
+    <updated>2023-03-25T01:38:24Z</updated>
+    <id>tag:github.com,2023-03-25:/TheEntityCircle/lfb-2nd-term</id>
+    <link href="https://github.com/TheEntityCircle/lfb-2nd-term" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

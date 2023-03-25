@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-24T01:47:23Z</updated>
+  <updated>2023-03-25T01:46:14Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nordtheme/vim</title>
-    <updated>2023-03-24T01:47:23Z</updated>
-    <id>tag:github.com,2023-03-24:/nordtheme/vim</id>
-    <link href="https://github.com/nordtheme/vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An arctic, north-bluish clean and elegant Vim theme.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>leizzer/vim_conf</title>
+    <updated>2023-03-25T01:46:14Z</updated>
+    <id>tag:github.com,2023-03-25:/leizzer/vim_conf</id>
+    <link href="https://github.com/leizzer/vim_conf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My vim configuration for ruby&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DanGe42/dotfiles</title>
-    <updated>2023-03-24T01:47:23Z</updated>
-    <id>tag:github.com,2023-03-24:/DanGe42/dotfiles</id>
-    <link href="https://github.com/DanGe42/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Just a collection of configuration files that I use.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aupiff/.dotfiles</title>
-    <updated>2023-03-24T01:47:23Z</updated>
-    <id>tag:github.com,2023-03-24:/aupiff/.dotfiles</id>
-    <link href="https://github.com/aupiff/.dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ledger/vim-ledger</title>
+    <updated>2023-03-25T01:46:14Z</updated>
+    <id>tag:github.com,2023-03-25:/ledger/vim-ledger</id>
+    <link href="https://github.com/ledger/vim-ledger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim plugin for Ledger&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

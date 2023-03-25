@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-24T01:45:41Z</updated>
+  <updated>2023-03-25T01:44:52Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Figma-Linux/figma-linux</title>
-    <updated>2023-03-24T01:45:41Z</updated>
-    <id>tag:github.com,2023-03-24:/Figma-Linux/figma-linux</id>
-    <link href="https://github.com/Figma-Linux/figma-linux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kheeyaa/dev-jeans</title>
+    <updated>2023-03-25T01:44:52Z</updated>
+    <id>tag:github.com,2023-03-25:/kheeyaa/dev-jeans</id>
+    <link href="https://github.com/kheeyaa/dev-jeans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;만들어쓰는 개발진스!‪ （˶ᵔᵕᵔ˶)♡ᐝ&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NIAEFEUP/website-niaefeup-frontend</title>
-    <updated>2023-03-24T01:45:41Z</updated>
-    <id>tag:github.com,2023-03-24:/NIAEFEUP/website-niaefeup-frontend</id>
-    <link href="https://github.com/NIAEFEUP/website-niaefeup-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The frontend of the website for NIAEFEUP.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>roypriyanshu02/impressive-profile-readmes</title>
+    <updated>2023-03-25T01:44:52Z</updated>
+    <id>tag:github.com,2023-03-25:/roypriyanshu02/impressive-profile-readmes</id>
+    <link href="https://github.com/roypriyanshu02/impressive-profile-readmes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get inspired to make your GitHub Profile stand out! Check out our gallery of Impressive Profile READMEs and take your profile to the next level.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Lissy93/cheat-code</title>
-    <updated>2023-03-24T01:45:41Z</updated>
-    <id>tag:github.com,2023-03-24:/Lissy93/cheat-code</id>
-    <link href="https://github.com/Lissy93/cheat-code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💫 An AI-powered coding assistant, built to try out the ChatGPT API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stevekinney/integration-testing-playground</title>
+    <updated>2023-03-25T01:44:52Z</updated>
+    <id>tag:github.com,2023-03-25:/stevekinney/integration-testing-playground</id>
+    <link href="https://github.com/stevekinney/integration-testing-playground" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

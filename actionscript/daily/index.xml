@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-24T01:29:33Z</updated>
+  <updated>2023-03-25T01:29:27Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kirbyszeto/client</title>
-    <updated>2023-03-24T01:29:33Z</updated>
-    <id>tag:github.com,2023-03-24:/kirbyszeto/client</id>
-    <link href="https://github.com/kirbyszeto/client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;testing&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

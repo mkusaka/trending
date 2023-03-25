@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-24T01:30:16Z</updated>
+  <updated>2023-03-25T01:30:15Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>compscrow/bloxflip-predictor</title>
-    <updated>2023-03-24T01:30:16Z</updated>
-    <id>tag:github.com,2023-03-24:/compscrow/bloxflip-predictor</id>
-    <link href="https://github.com/compscrow/bloxflip-predictor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Working bloxflip predictor&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LemonIT66/idea_activate</title>
+    <updated>2023-03-25T01:30:15Z</updated>
+    <id>tag:github.com,2023-03-25:/LemonIT66/idea_activate</id>
+    <link href="https://github.com/LemonIT66/idea_activate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JetBrains全家桶激活 idea激活 Activator idea全家桶激活 JetBrains收费所有收费插件激活 idea收费所有收费插件激活 JetBrains 2017-2022所有版本激活 idea激活 phpstorm激活 pycharm激活 webstorm激活 AppCode激活 Goland激活 Rubymine激活 clion激活 datagrip激活 ride激活 IntelliJ IDEA PhpStorm AppCode DataGrip RubyMine WebStorm Rider CLion PyCharm GoLand DataSpell dotCover dotTrace dotMemory Symfony Support Wolfram La…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xdu-aero-association/SolidWorks_2020_Crack</title>
+    <updated>2023-03-25T01:30:15Z</updated>
+    <id>tag:github.com,2023-03-25:/xdu-aero-association/SolidWorks_2020_Crack</id>
+    <link href="https://github.com/xdu-aero-association/SolidWorks_2020_Crack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SOLIDWORKS 2020 破解注册补丁&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

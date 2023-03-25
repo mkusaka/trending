@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-24T01:46:04Z</updated>
+  <updated>2023-03-25T01:45:09Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UAH-IC-Design-Team/hw02</title>
-    <updated>2023-03-24T01:46:04Z</updated>
-    <id>tag:github.com,2023-03-24:/UAH-IC-Design-Team/hw02</id>
-    <link href="https://github.com/UAH-IC-Design-Team/hw02" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starting Template for hw02&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yapote/ARBITRUM-Grid-Trading-Bot-GMX</title>
+    <updated>2023-03-25T01:45:09Z</updated>
+    <id>tag:github.com,2023-03-25:/Yapote/ARBITRUM-Grid-Trading-Bot-GMX</id>
+    <link href="https://github.com/Yapote/ARBITRUM-Grid-Trading-Bot-GMX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Arbitrum and GMX powered leverage trading bot for real traders&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

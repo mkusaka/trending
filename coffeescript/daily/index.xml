@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-24T01:31:49Z</updated>
+  <updated>2023-03-25T01:31:38Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>superway117/StockServices-nodejs</title>
-    <updated>2023-03-24T01:31:49Z</updated>
-    <id>tag:github.com,2023-03-24:/superway117/StockServices-nodejs</id>
-    <link href="https://github.com/superway117/StockServices-nodejs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;stock services based on nonejs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cwacek/Oblique</title>
+    <updated>2023-03-25T01:31:38Z</updated>
+    <id>tag:github.com,2023-03-25:/cwacek/Oblique</id>
+    <link href="https://github.com/cwacek/Oblique" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of components I&#39;ve put together for working with AngularJS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>aardvarrk/o</title>
+    <updated>2023-03-25T01:31:38Z</updated>
+    <id>tag:github.com,2023-03-25:/aardvarrk/o</id>
+    <link href="https://github.com/aardvarrk/o" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ø, a functional programming library written in CoffeeScript.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

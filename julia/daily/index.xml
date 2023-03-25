@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-24T01:37:26Z</updated>
+  <updated>2023-03-25T01:37:04Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>amartyabose/QuantumDynamics.jl</title>
-    <updated>2023-03-24T01:37:26Z</updated>
-    <id>tag:github.com,2023-03-24:/amartyabose/QuantumDynamics.jl</id>
-    <link href="https://github.com/amartyabose/QuantumDynamics.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;quantum dynamics simulation environment&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>baggepinnen/static_kalman</title>
+    <updated>2023-03-25T01:37:04Z</updated>
+    <id>tag:github.com,2023-03-25:/baggepinnen/static_kalman</id>
+    <link href="https://github.com/baggepinnen/static_kalman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An experiment in static compilation of Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wildart/Evolutionary.jl</title>
+    <updated>2023-03-25T01:37:04Z</updated>
+    <id>tag:github.com,2023-03-25:/wildart/Evolutionary.jl</id>
+    <link href="https://github.com/wildart/Evolutionary.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Evolutionary &amp; genetic algorithms for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
