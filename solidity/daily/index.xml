@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:44:25Z</updated>
+  <updated>2023-03-26T01:45:21Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyperlane-xyz/hyperlane-deploy</title>
-    <updated>2023-03-25T01:44:25Z</updated>
-    <id>tag:github.com,2023-03-25:/hyperlane-xyz/hyperlane-deploy</id>
-    <link href="https://github.com/hyperlane-xyz/hyperlane-deploy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts for deploying Hyperlane contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zeroknots/boilerplate.sol</title>
+    <updated>2023-03-26T01:45:21Z</updated>
+    <id>tag:github.com,2023-03-26:/zeroknots/boilerplate.sol</id>
+    <link href="https://github.com/zeroknots/boilerplate.sol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:34:58Z</updated>
+  <updated>2023-03-26T01:36:37Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Checkmarx/ast-vscode-extension</title>
+    <updated>2023-03-26T01:36:37Z</updated>
+    <id>tag:github.com,2023-03-26:/Checkmarx/ast-vscode-extension</id>
+    <link href="https://github.com/Checkmarx/ast-vscode-extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Checkmarx One Visual Studio Code plugin (extension) enables you to import results from a Checkmarx One scan directly into your VS Code console. You can view the vulnerabilities that were identified in your source code and navigate directly to the vulnerable code in the editor.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

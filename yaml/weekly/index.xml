@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub YAML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T02:05:48Z</updated>
+  <subtitle>Weekly Trending of YAML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oamg/ansible-leapp</title>
+    <updated>2023-03-26T02:05:48Z</updated>
+    <id>tag:github.com,2023-03-26:/oamg/ansible-leapp</id>
+    <link href="https://github.com/oamg/ansible-leapp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of Ansible roles for automating RHEL in-place upgrades using Leapp.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

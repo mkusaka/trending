@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:40:57Z</updated>
+  <updated>2023-03-26T01:42:18Z</updated>
   <subtitle>Daily Trending of PLSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bgkatz/3phase_integrated</title>
+    <updated>2023-03-26T01:42:18Z</updated>
+    <id>tag:github.com,2023-03-26:/bgkatz/3phase_integrated</id>
+    <link href="https://github.com/bgkatz/3phase_integrated" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;3-phase motor controller with integrated position sensor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

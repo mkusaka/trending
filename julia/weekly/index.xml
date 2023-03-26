@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T01:56:09Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ThatcherC/ReplGPT.jl</title>
+    <updated>2023-03-26T01:56:09Z</updated>
+    <id>tag:github.com,2023-03-26:/ThatcherC/ReplGPT.jl</id>
+    <link href="https://github.com/ThatcherC/ReplGPT.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A ChatGPT mode for the Julia REPL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaComputing/OmniPackage.jl</title>
+    <updated>2023-03-26T01:56:09Z</updated>
+    <id>tag:github.com,2023-03-26:/JuliaComputing/OmniPackage.jl</id>
+    <link href="https://github.com/JuliaComputing/OmniPackage.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Big package depending on a lot of open source repos.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaComputing/IRViz.jl</title>
+    <updated>2023-03-26T01:56:09Z</updated>
+    <id>tag:github.com,2023-03-26:/JuliaComputing/IRViz.jl</id>
+    <link href="https://github.com/JuliaComputing/IRViz.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for visualizing Julia IR&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:38:07Z</updated>
+  <updated>2023-03-26T01:39:23Z</updated>
   <subtitle>Daily Trending of M in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>seanpm2001/MMMMMMMMMMMMMMMMMMMM</title>
-    <updated>2023-03-25T01:38:07Z</updated>
-    <id>tag:github.com,2023-03-25:/seanpm2001/MMMMMMMMMMMMMMMMMMMM</id>
-    <link href="https://github.com/seanpm2001/MMMMMMMMMMMMMMMMMMMM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🇲 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

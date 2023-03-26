@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T01:53:47Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gomorpheus/morpheus-digital-ocean-plugin</title>
+    <updated>2023-03-26T01:53:47Z</updated>
+    <id>tag:github.com,2023-03-26:/gomorpheus/morpheus-digital-ocean-plugin</id>
+    <link href="https://github.com/gomorpheus/morpheus-digital-ocean-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jenkinsci/job-dsl-plugin</title>
+    <updated>2023-03-26T01:53:47Z</updated>
+    <id>tag:github.com,2023-03-26:/jenkinsci/job-dsl-plugin</id>
+    <link href="https://github.com/jenkinsci/job-dsl-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Groovy DSL for Jenkins Jobs - Sweeeeet!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hmcts/cnp-jenkins-config</title>
+    <updated>2023-03-26T01:53:47Z</updated>
+    <id>tag:github.com,2023-03-26:/hmcts/cnp-jenkins-config</id>
+    <link href="https://github.com/hmcts/cnp-jenkins-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pipeline configuration for HMCTS Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

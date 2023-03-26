@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T02:05:12Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>202252197/ChatGPT_JCM</title>
+    <updated>2023-03-26T02:05:12Z</updated>
+    <id>tag:github.com,2023-03-26:/202252197/ChatGPT_JCM</id>
+    <link href="https://github.com/202252197/ChatGPT_JCM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，GPT4接口官方只是在申请阶段，暂时没有此功能，别的项目都是把GPT4写上去，其实没有什么作用，后期会一点一点的将OpenAI接口进行接入大家支持一下呗，微信群号在下方，右上角点个Star，我会一直更新下去。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KeJunMao/ai-anything</title>
+    <updated>2023-03-26T02:05:12Z</updated>
+    <id>tag:github.com,2023-03-26:/KeJunMao/ai-anything</id>
+    <link href="https://github.com/KeJunMao/ai-anything" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Anyone can create GPT tools 人人都能创建 GPT 工具&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>super6wenzi/chatGPT-wx</title>
+    <updated>2023-03-26T02:05:12Z</updated>
+    <id>tag:github.com,2023-03-26:/super6wenzi/chatGPT-wx</id>
+    <link href="https://github.com/super6wenzi/chatGPT-wx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenAI chatGPT 微信小程序 大型预训练语言模型 A weChat based on OpenAI API (gpt-3.5-turbo) GPT-4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

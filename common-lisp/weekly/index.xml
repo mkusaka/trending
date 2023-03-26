@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T01:50:46Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pnathan/tta-followon</title>
+    <updated>2023-03-26T01:50:46Z</updated>
+    <id>tag:github.com,2023-03-26:/pnathan/tta-followon</id>
+    <link href="https://github.com/pnathan/tta-followon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code, report, and some inputs for my Master&#39;s work.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is the continuation of research &lt;em&gt;launched&lt;/em&gt; in my Master&#39;s work at the University of Idaho during my time as a Master&#39;s student. I graduated in 2012, but intend to continue this research onward for a time, focusing on broader applications.&lt;/p&gt; &#xA;&lt;p&gt;The chief aim of this repository is to build on the Targeted Trace Algorithm code I put together. The interested party is encouraged to see the papers/report.pdf, my Master&#39;s report.&lt;/p&gt; &#xA;&lt;p&gt;This project is under Matt Might&#39;s CRAPL.&lt;/p&gt;</summary>
+  </entry>
+</feed>

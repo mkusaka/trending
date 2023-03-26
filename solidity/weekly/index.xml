@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T02:03:09Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>proofofsoulprotocol/soul-wallet-contract</title>
+    <updated>2023-03-26T02:03:09Z</updated>
+    <id>tag:github.com,2023-03-26:/proofofsoulprotocol/soul-wallet-contract</id>
+    <link href="https://github.com/proofofsoulprotocol/soul-wallet-contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;core contract of eip 4337 implementation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>immunefi-team/forge-poc-templates</title>
+    <updated>2023-03-26T02:03:09Z</updated>
+    <id>tag:github.com,2023-03-26:/immunefi-team/forge-poc-templates</id>
+    <link href="https://github.com/immunefi-team/forge-poc-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WTFAcademy/WTF-gas-optimization</title>
+    <updated>2023-03-26T02:03:09Z</updated>
+    <id>tag:github.com,2023-03-26:/WTFAcademy/WTF-gas-optimization</id>
+    <link href="https://github.com/WTFAcademy/WTF-gas-optimization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity gas optimization techniques, using Foundry.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

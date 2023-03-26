@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T01:58:24Z</updated>
+  <subtitle>Weekly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/radseq</title>
+    <updated>2023-03-26T01:58:24Z</updated>
+    <id>tag:github.com,2023-03-26:/nf-core/radseq</id>
+    <link href="https://github.com/nf-core/radseq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nextflow-io/training</title>
+    <updated>2023-03-26T01:58:24Z</updated>
+    <id>tag:github.com,2023-03-26:/nextflow-io/training</id>
+    <link href="https://github.com/nextflow-io/training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nextflow training material&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nf-core/airrflow</title>
+    <updated>2023-03-26T01:58:24Z</updated>
+    <id>tag:github.com,2023-03-26:/nf-core/airrflow</id>
+    <link href="https://github.com/nf-core/airrflow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

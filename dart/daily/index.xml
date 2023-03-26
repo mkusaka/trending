@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:32:20Z</updated>
+  <updated>2023-03-26T01:34:07Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>grpc/grpc-dart</title>
+    <updated>2023-03-26T01:34:07Z</updated>
+    <id>tag:github.com,2023-03-26:/grpc/grpc-dart</id>
+    <link href="https://github.com/grpc/grpc-dart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Dart language implementation of gRPC.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;The &lt;a href=&#34;https://www.dart.dev/&#34;&gt;Dart&lt;/a&gt; implementation of &lt;a href=&#34;https://grpc.io/&#34;&gt;gRPC&lt;/a&gt;: A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/grpc/grpc-dart/actions?query=workflow%3A%22Dart%22+branch%3Amaster&#34;&gt;&lt;img src=&#34;https://github.com/grpc/grpc-dart/workflows/Dart/badge.svg?sanitize=true&#34; alt=&#34;CI status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://pub.dev/packages/grpc&#34;&gt;&lt;img src=&#34;https://img.shields.io/pub/v/grpc.svg?sanitize=true&#34; alt=&#34;pub package&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Learn more&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://grpc.io/docs/languages/dart/quickstart&#34;&gt;Quick Start&lt;/a&gt; - get an app running in minutes&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/grpc/grpc-dart/master/example&#34;&gt;Examples&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://grpc.io/docs/languages/dart/api&#34;&gt;API reference&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For complete documentation, see &lt;a href=&#34;https://grpc.io/docs/languages/dart&#34;&gt;Dart gRPC&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Supported platforms&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://dart.dev/platforms&#34;&gt;Dart native&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://flutter.dev&#34;&gt;Flutter&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;a href=&#34;https://github.com/grpc/grpc-web&#34;&gt;grpc-web&lt;/a&gt; is supported by &lt;code&gt;package:grpc/grpc_web.dart&lt;/code&gt;. &lt;strong&gt;UDS-unix domain socket&lt;/strong&gt; is supported with sdk version &amp;gt;= 2.8.0.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;If you experience problems or have feature requests, &lt;a href=&#34;https://github.com/dart-lang/grpc-dart/issues/new&#34;&gt;open an issue&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Note that we have limited bandwidth to accept PRs, and that all PRs require signing the &lt;a href=&#34;https://lfcla.com&#34;&gt;EasyCLA&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

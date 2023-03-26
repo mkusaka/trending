@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:44:19Z</updated>
+  <updated>2023-03-26T01:45:16Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyperledger/bevel</title>
-    <updated>2023-03-25T01:44:19Z</updated>
-    <id>tag:github.com,2023-03-25:/hyperledger/bevel</id>
-    <link href="https://github.com/hyperledger/bevel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An automation framework for rapidly and consistently deploying production-ready DLT platforms&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>woodpecker-ci/helm</title>
+    <updated>2023-03-26T01:45:16Z</updated>
+    <id>tag:github.com,2023-03-26:/woodpecker-ci/helm</id>
+    <link href="https://github.com/woodpecker-ci/helm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>keptn/lifecycle-toolkit-charts</title>
-    <updated>2023-03-25T01:44:19Z</updated>
-    <id>tag:github.com,2023-03-25:/keptn/lifecycle-toolkit-charts</id>
-    <link href="https://github.com/keptn/lifecycle-toolkit-charts" rel="alternate"></link>
+    <title>availproject/avail</title>
+    <updated>2023-03-26T01:45:16Z</updated>
+    <id>tag:github.com,2023-03-26:/availproject/avail</id>
+    <link href="https://github.com/availproject/avail" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

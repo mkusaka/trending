@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T01:49:14Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sadula-Rushidhar/ngrok-rdp</title>
+    <updated>2023-03-26T01:49:14Z</updated>
+    <id>tag:github.com,2023-03-26:/Sadula-Rushidhar/ngrok-rdp</id>
+    <link href="https://github.com/Sadula-Rushidhar/ngrok-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jfadev/bottok</title>
+    <updated>2023-03-26T01:49:14Z</updated>
+    <id>tag:github.com,2023-03-26:/jfadev/bottok</id>
+    <link href="https://github.com/jfadev/bottok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bot Tok is an TikTok Up Bot (likes, followers, shares, favorites and views) based in node.js, puppeteer and zefoy.com.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Rafansdan/free-rdp</title>
+    <updated>2023-03-26T01:49:14Z</updated>
+    <id>tag:github.com,2023-03-26:/Rafansdan/free-rdp</id>
+    <link href="https://github.com/Rafansdan/free-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

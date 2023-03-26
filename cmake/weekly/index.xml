@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T01:50:37Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dreamworksanimation/openmoonray</title>
+    <updated>2023-03-26T01:50:37Z</updated>
+    <id>tag:github.com,2023-03-26:/dreamworksanimation/openmoonray</id>
+    <link href="https://github.com/dreamworksanimation/openmoonray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eve-autonomy/v2i_interface_msgs</title>
+    <updated>2023-03-26T01:50:37Z</updated>
+    <id>tag:github.com,2023-03-26:/eve-autonomy/v2i_interface_msgs</id>
+    <link href="https://github.com/eve-autonomy/v2i_interface_msgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>allnes/par_pro_2023_omp_tbb_std</title>
+    <updated>2023-03-26T01:50:37Z</updated>
+    <id>tag:github.com,2023-03-26:/allnes/par_pro_2023_omp_tbb_std</id>
+    <link href="https://github.com/allnes/par_pro_2023_omp_tbb_std" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

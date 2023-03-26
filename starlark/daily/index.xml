@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:44:37Z</updated>
+  <updated>2023-03-26T01:45:33Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bazelbuild/bazel-central-registry</title>
+    <updated>2023-03-26T01:45:33Z</updated>
+    <id>tag:github.com,2023-03-26:/bazelbuild/bazel-central-registry</id>
+    <link href="https://github.com/bazelbuild/bazel-central-registry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The central registry of Bazel modules for the Bzlmod external dependency system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

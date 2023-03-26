@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T01:57:27Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>markbates/errx</title>
+    <updated>2023-03-26T01:57:27Z</updated>
+    <id>tag:github.com,2023-03-26:/markbates/errx</id>
+    <link href="https://github.com/markbates/errx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marmotedu/miniblog</title>
+    <updated>2023-03-26T01:57:27Z</updated>
+    <id>tag:github.com,2023-03-26:/marmotedu/miniblog</id>
+    <link href="https://github.com/marmotedu/miniblog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;从设计、开发、测试到部署，带你从零实现高质量的 Go 应用&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

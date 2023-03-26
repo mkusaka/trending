@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:43:37Z</updated>
+  <updated>2023-03-26T01:44:39Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>iuliux/SemanticNetworks_AI-Lab</title>
-    <updated>2023-03-25T01:43:37Z</updated>
-    <id>tag:github.com,2023-03-25:/iuliux/SemanticNetworks_AI-Lab</id>
-    <link href="https://github.com/iuliux/SemanticNetworks_AI-Lab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Attribute inference in semantic network&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mytoh/silta</title>
+    <updated>2023-03-26T01:44:39Z</updated>
+    <id>tag:github.com,2023-03-26:/mytoh/silta</id>
+    <link href="https://github.com/mytoh/silta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;wrap up (scheme *) libraries for mosh&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tyage/algds</title>
+    <updated>2023-03-26T01:44:39Z</updated>
+    <id>tag:github.com,2023-03-26:/tyage/algds</id>
+    <link href="https://github.com/tyage/algds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;アルゴリズムとデータ構造入門のレポートや資料&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

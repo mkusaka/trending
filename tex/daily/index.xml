@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:45:18Z</updated>
+  <updated>2023-03-26T01:46:18Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MIDL-Conference/MIDLLatexTemplate</title>
-    <updated>2023-03-25T01:45:18Z</updated>
-    <id>tag:github.com,2023-03-25:/MIDL-Conference/MIDLLatexTemplate</id>
-    <link href="https://github.com/MIDL-Conference/MIDLLatexTemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Latex template for the MIDL Conference&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/MIDL-Conference/MIDLLatexTemplate/actions/workflows/build.yml/badge.svg?sanitize=true&#34; alt=&#34;Build LaTeX document&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Medical Imaging with Deep Learning (MIDL) Latex Template&lt;/h1&gt; &#xA;&lt;p&gt;Latex template for the &lt;a href=&#34;http://midl.io&#34;&gt;MIDL Conference&lt;/a&gt;. Simple use of the JMLR / PMLR style.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;Please refer to the main JMLR template documentation: &lt;a href=&#34;http://mirrors.ctan.org/macros/latex/contrib/jmlr/jmlr.pdf&#34;&gt;http://mirrors.ctan.org/macros/latex/contrib/jmlr/jmlr.pdf&lt;/a&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;midl-fullpaper.tex&lt;/code&gt; is intended for full paper submissions&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;midl-shortpaper.tex&lt;/code&gt; is intended for short paper submissions&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Licence&lt;/h1&gt; &#xA;&lt;p&gt;This material is subject to the LaTeX Project Public License. See &lt;a href=&#34;http://www.ctan.org/license/lppl1.3&#34;&gt;http://www.ctan.org/license/lppl1.3&lt;/a&gt; for the details of that license.&lt;/p&gt; &#xA;&lt;h1&gt;Related software&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ctan.org/tex-archive/macros/latex/contrib/jmlr&#34;&gt;https://ctan.org/tex-archive/macros/latex/contrib/jmlr&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://www.dickimaw-books.com/software/makejmlrbookgui/&#34;&gt;http://www.dickimaw-books.com/software/makejmlrbookgui/&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>liyuxuan3003/ProbabilityTheory</title>
+    <updated>2023-03-26T01:46:18Z</updated>
+    <id>tag:github.com,2023-03-26:/liyuxuan3003/ProbabilityTheory</id>
+    <link href="https://github.com/liyuxuan3003/ProbabilityTheory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ProbabilityTheory&lt;/h1&gt; &#xA;&lt;p&gt;这是《概率论与数理统计》课程的LaTeX笔记。&lt;/p&gt;</summary>
   </entry>
 </feed>

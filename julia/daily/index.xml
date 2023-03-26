@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:37:04Z</updated>
+  <updated>2023-03-26T01:38:28Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>baggepinnen/static_kalman</title>
-    <updated>2023-03-25T01:37:04Z</updated>
-    <id>tag:github.com,2023-03-25:/baggepinnen/static_kalman</id>
-    <link href="https://github.com/baggepinnen/static_kalman" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An experiment in static compilation of Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wildart/Evolutionary.jl</title>
-    <updated>2023-03-25T01:37:04Z</updated>
-    <id>tag:github.com,2023-03-25:/wildart/Evolutionary.jl</id>
-    <link href="https://github.com/wildart/Evolutionary.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Evolutionary &amp; genetic algorithms for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>smarras79/jexpresso</title>
+    <updated>2023-03-26T01:38:28Z</updated>
+    <id>tag:github.com,2023-03-26:/smarras79/jexpresso</id>
+    <link href="https://github.com/smarras79/jexpresso" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toy software for the numerical solution of 1D, 2D, and 3D PDEs using spectral and spectral element methods on CPUs and GPUs. DISCLAIMER: this is WIP and we have barely started implementing this code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

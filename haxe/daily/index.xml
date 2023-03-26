@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:35:23Z</updated>
+  <updated>2023-03-26T01:36:59Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>t3rmin4t0r/haXsh</title>
+    <updated>2023-03-26T01:36:59Z</updated>
+    <id>tag:github.com,2023-03-26:/t3rmin4t0r/haXsh</id>
+    <link href="https://github.com/t3rmin4t0r/haXsh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AS3 hash algorithms implemented using HaXe&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;haXsh.MD5&lt;/h1&gt; &#xA;&lt;p&gt;This was written as a drop-in replacement for the as3corelib MD5 function.&lt;/p&gt; &#xA;&lt;p&gt;More accurately, it was written to be as fast as possible without using any of the flash DomainMemory APIs.&lt;/p&gt; &#xA;&lt;table&gt; &#xA; &lt;tbody&gt;&#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;com.adobe.crypto.MD5&lt;/td&gt; &#xA;   &lt;td&gt;haXsh.MD5&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;134.71 ms&lt;/td&gt; &#xA;   &lt;td&gt;4.884 ms&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt;&#xA;&lt;/table&gt; &#xA;&lt;p&gt;This was over 1000 runs on a 100kb ByteArray.&lt;/p&gt; &#xA;&lt;p&gt;The code is inherited from [haxe.MD5][http://haxe.org/api/haxe/md5] which was adapted to work off ByteArrays. The inner loops have been optimized to about twice as fast as the original. Read COPYING file about the HaXe Copyright notices.&lt;/p&gt; &#xA;&lt;p&gt;The blooddy.by functions are faster, but they run into the alchemy licensing constraints (Adobe wants 9% revenue if you use 3D and DomainMemory together).&lt;/p&gt; &#xA;&lt;p&gt;But if you need Stage3D and a fast MD5, this is your best bet.&lt;/p&gt;</summary>
+  </entry>
 </feed>

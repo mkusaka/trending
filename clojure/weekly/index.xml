@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T01:50:32Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cjohansen/portfolio</title>
+    <updated>2023-03-26T01:50:32Z</updated>
+    <id>tag:github.com,2023-03-26:/cjohansen/portfolio</id>
+    <link href="https://github.com/cjohansen/portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>beulet/DrugsRUs</title>
+    <updated>2023-03-26T01:50:32Z</updated>
+    <id>tag:github.com,2023-03-26:/beulet/DrugsRUs</id>
+    <link href="https://github.com/beulet/DrugsRUs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A program that solves the 0 1 Knapsack problem in Clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>timmc/handy</title>
+    <updated>2023-03-26T01:50:32Z</updated>
+    <id>tag:github.com,2023-03-26:/timmc/handy</id>
+    <link href="https://github.com/timmc/handy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilities that came in handy in several projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T02:05:06Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nielsmadan/color-me-vim</title>
+    <updated>2023-03-26T02:05:06Z</updated>
+    <id>tag:github.com,2023-03-26:/nielsmadan/color-me-vim</id>
+    <link href="https://github.com/nielsmadan/color-me-vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LnL7/vim-nix</title>
+    <updated>2023-03-26T02:05:06Z</updated>
+    <id>tag:github.com,2023-03-26:/LnL7/vim-nix</id>
+    <link href="https://github.com/LnL7/vim-nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim configuration files for Nix http://nixos.org/nix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>madox2/vim-ai</title>
+    <updated>2023-03-26T02:05:06Z</updated>
+    <id>tag:github.com,2023-03-26:/madox2/vim-ai</id>
+    <link href="https://github.com/madox2/vim-ai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Complete text, generate code and chat with GPT in Vim/Neovim using OpenAI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

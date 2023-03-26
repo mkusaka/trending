@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-25T01:46:19Z</updated>
+  <updated>2023-03-26T01:47:17Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>opentiny/tiny-vue</title>
-    <updated>2023-03-25T01:46:19Z</updated>
-    <id>tag:github.com,2023-03-25:/opentiny/tiny-vue</id>
-    <link href="https://github.com/opentiny/tiny-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An enterprise-class UI component library, support both Vue.js 2 and Vue.js 3, as well as PC and mobile.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Leizhenpeng/ChatGPT-PerfectUI</title>
+    <updated>2023-03-26T01:47:17Z</updated>
+    <id>tag:github.com,2023-03-26:/Leizhenpeng/ChatGPT-PerfectUI</id>
+    <link href="https://github.com/Leizhenpeng/ChatGPT-PerfectUI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ 用Vue3 + Vite + Tailwindcss 复刻ChatGPT！体验一模一样的web-app！✨&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

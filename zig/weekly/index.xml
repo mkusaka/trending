@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-26T02:05:57Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>natecraddock/zf</title>
+    <updated>2023-03-26T02:05:57Z</updated>
+    <id>tag:github.com,2023-03-26:/natecraddock/zf</id>
+    <link href="https://github.com/natecraddock/zf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a commandline fuzzy finder designed for filtering filepaths&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marler8997/zigup</title>
+    <updated>2023-03-26T02:05:57Z</updated>
+    <id>tag:github.com,2023-03-26:/marler8997/zigup</id>
+    <link href="https://github.com/marler8997/zigup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Download and manage zig compilers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
