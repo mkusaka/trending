@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-26T01:34:30Z</updated>
+  <updated>2023-03-27T01:33:16Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dr007bot/MLTB</title>
+    <updated>2023-03-27T01:33:16Z</updated>
+    <id>tag:github.com,2023-03-27:/dr007bot/MLTB</id>
+    <link href="https://github.com/dr007bot/MLTB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Koyeb,Render,RailwayDeploy&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;ဒီrepo ကို forkပါ. Fork or Import this repo.&lt;/li&gt; &#xA; &lt;li&gt;Fill req vars at config.env တွင် မဖြစ်မနေဖြည့်ရမည့် vars များဖြည့်ပါ&lt;/li&gt; &#xA; &lt;li&gt;koyeb, render, railway တွင် Deploy ပါ။&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;RenderDeploy&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Render ဖွင့်ပြီး free signup လုပ်ပါ။&lt;/li&gt; &#xA; &lt;li&gt;dashboard.render.com ဖွင့်ပြီး new + ကို နှိပ် web service ကို ရွေးပါ&lt;/li&gt; &#xA; &lt;li&gt;Public Git repository နေရာတွင် သင့် repo or your fork repoထည့်ပါ။&lt;/li&gt; &#xA; &lt;li&gt;name နေရာ ကြိုက်ရာထားပါ&lt;/li&gt; &#xA; &lt;li&gt;advanced မှ docker &lt;em&gt;auto deploy&lt;/em&gt; ကို &lt;strong&gt;NO&lt;/strong&gt; ပြောင်းပါ&lt;/li&gt; &#xA; &lt;li&gt;ပြီးလျှင် အောက်ဆုံးနားက create web service အပြာရောင် ကို နှိပ်ပြီး ခဏေစာင့်ပါ&lt;/li&gt; &#xA; &lt;li&gt;terminal box တက်လာပြီး install ပါမည်။ Bot Start စာပေါ်လာလျှင် စသုံးလို့ရပါပြီ။&lt;/li&gt; &#xA; &lt;li&gt;Bot run လျှင် app url ကို cronjob တွင် connect ပါ&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Deploy on Koyeb&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;at koyeb deploy, choose docker image&lt;/li&gt; &#xA; &lt;li&gt;fill as name &lt;strong&gt;npt13/mltbr&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;tag &lt;strong&gt;16.3.23&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;add CONFIG_FILE_URL at Env Vars (must be set Base Url, Port)&lt;/li&gt; &#xA; &lt;li&gt;♦♦addition FILL Koyeb Exposing your Service port to 80&lt;/li&gt; &#xA; &lt;li&gt;and deploy&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

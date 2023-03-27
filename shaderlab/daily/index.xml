@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-26T01:44:46Z</updated>
+  <updated>2023-03-27T01:45:23Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>soupday/cc_unity_tools_URP</title>
-    <updated>2023-03-26T01:44:46Z</updated>
-    <id>tag:github.com,2023-03-26:/soupday/cc_unity_tools_URP</id>
-    <link href="https://github.com/soupday/cc_unity_tools_URP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Package for importing and auto setup of Character Creator (3 &amp; 4) and iClone (7 &amp; 8) character exports for Unity URP Pipeline.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

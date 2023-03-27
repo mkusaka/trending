@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Lua Daily Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-03-27T01:39:29Z</updated>
+  <subtitle>Daily Trending of Lua in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>renzuzu/renzu_motels</title>
+    <updated>2023-03-27T01:39:29Z</updated>
+    <id>tag:github.com,2023-03-27:/renzuzu/renzu_motels</id>
+    <link href="https://github.com/renzuzu/renzu_motels" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fivem - Motel Management. Hourly Rental System. Supports MLO and Shells. ESX/QBCORE&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;renzu_motels&lt;/h1&gt; &#xA;&lt;p&gt;Fivem - Motel Management. Hourly Rental System. Supports MLO and Shells. ESX/QBCORE&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/82306584/226111405-b162c926-6c00-4085-91ac-839f7ece117e.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Features&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Player Motel Business Management (change hour rates, hire employees, add / kick occupants)&lt;/li&gt; &#xA; &lt;li&gt;Hourly Rental System&lt;/li&gt; &#xA; &lt;li&gt;Configurable Maximum Occupants per room&lt;/li&gt; &#xA; &lt;li&gt;Configurable Sharable Room Stash (stealable) or Unique per Players&lt;/li&gt; &#xA; &lt;li&gt;Police can Break in using Gunshot in doors.&lt;/li&gt; &#xA; &lt;li&gt;Lockpickable Doors&lt;/li&gt; &#xA; &lt;li&gt;Supports MLO / Shells&lt;/li&gt; &#xA; &lt;li&gt;Supports Multiple Skin resource for Wardrobes.&lt;/li&gt; &#xA; &lt;li&gt;Support Targets or Zone Markers&lt;/li&gt; &#xA; &lt;li&gt;Support Metadata item Keys Sharing&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Dependency&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;ox_lib&lt;/li&gt; &#xA; &lt;li&gt;ESX / QBCORE&lt;/li&gt; &#xA; &lt;li&gt;ox_inventory / qb-inventory&lt;/li&gt; &#xA; &lt;li&gt;ox_target / qb-target (optional)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Item name&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;keys&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Todo&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;some features im looking to add later like Job Owneds&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+</feed>

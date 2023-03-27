@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-26T01:36:34Z</updated>
+  <updated>2023-03-27T01:36:04Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tarpers/grails-json-binding-issue</title>
-    <updated>2023-03-26T01:36:34Z</updated>
-    <id>tag:github.com,2023-03-26:/tarpers/grails-json-binding-issue</id>
-    <link href="https://github.com/tarpers/grails-json-binding-issue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Grails project to highlight an issue with binding associations using JSON when one of the domain objects is a sub-class.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dbsystel/jl23-rp2040</title>
-    <updated>2023-03-26T01:36:34Z</updated>
-    <id>tag:github.com,2023-03-26:/dbsystel/jl23-rp2040</id>
-    <link href="https://github.com/dbsystel/jl23-rp2040" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JavaLand2023: Hacking the RP2040&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Teqqles/CareerJinn</title>
-    <updated>2023-03-26T01:36:34Z</updated>
-    <id>tag:github.com,2023-03-26:/Teqqles/CareerJinn</id>
-    <link href="https://github.com/Teqqles/CareerJinn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;College Project for a Job Board implemented on Google App Engine in Groovy&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

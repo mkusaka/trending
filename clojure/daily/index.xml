@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-26T01:33:16Z</updated>
+  <updated>2023-03-27T01:31:46Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jrheard/finance</title>
-    <updated>2023-03-26T01:33:16Z</updated>
-    <id>tag:github.com,2023-03-26:/jrheard/finance</id>
-    <link href="https://github.com/jrheard/finance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a money program&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>osbert/persona-kit</title>
+    <updated>2023-03-27T01:31:46Z</updated>
+    <id>tag:github.com,2023-03-27:/osbert/persona-kit</id>
+    <link href="https://github.com/osbert/persona-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure micro-library to aid Mozilla Persona user authentication implementation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

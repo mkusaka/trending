@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-26T01:30:46Z</updated>
+  <updated>2023-03-27T01:29:09Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>authorTom/ultimate-XR-dev-guide</title>
-    <updated>2023-03-26T01:30:46Z</updated>
-    <id>tag:github.com,2023-03-26:/authorTom/ultimate-XR-dev-guide</id>
-    <link href="https://github.com/authorTom/ultimate-XR-dev-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A development resource list for all things XR&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Picsart-AI-Research/Text2Video-Zero</title>
+    <updated>2023-03-27T01:29:09Z</updated>
+    <id>tag:github.com,2023-03-27:/Picsart-AI-Research/Text2Video-Zero</id>
+    <link href="https://github.com/Picsart-AI-Research/Text2Video-Zero" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Text-to-Image Diffusion Models are Zero-Shot Video Generators&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sui-foundation/sui-demo-day-hk</title>
-    <updated>2023-03-26T01:30:46Z</updated>
-    <id>tag:github.com,2023-03-26:/sui-foundation/sui-demo-day-hk</id>
-    <link href="https://github.com/sui-foundation/sui-demo-day-hk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alisolanki/Welcome-to-Open-Source</title>
+    <updated>2023-03-27T01:29:09Z</updated>
+    <id>tag:github.com,2023-03-27:/alisolanki/Welcome-to-Open-Source</id>
+    <link href="https://github.com/alisolanki/Welcome-to-Open-Source" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make your first PR request! And enter the world of Open Source Contributions 🍉&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thecodeholic/php-developer-roadmap</title>
-    <updated>2023-03-26T01:30:46Z</updated>
-    <id>tag:github.com,2023-03-26:/thecodeholic/php-developer-roadmap</id>
-    <link href="https://github.com/thecodeholic/php-developer-roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is PHP Developer Roadmap&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Johnshall/Shadowrocket-ADBlock-Rules-Forever</title>
+    <updated>2023-03-27T01:29:09Z</updated>
+    <id>tag:github.com,2023-03-27:/Johnshall/Shadowrocket-ADBlock-Rules-Forever</id>
+    <link href="https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

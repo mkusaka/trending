@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-26T01:39:51Z</updated>
+  <updated>2023-03-27T01:39:58Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MinhHangwpi/Project4_Matlab_ML</title>
+    <updated>2023-03-27T01:39:58Z</updated>
+    <id>tag:github.com,2023-03-27:/MinhHangwpi/Project4_Matlab_ML</id>
+    <link href="https://github.com/MinhHangwpi/Project4_Matlab_ML" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;For class CS528&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gnu-octave/pkg-control</title>
+    <updated>2023-03-27T01:39:58Z</updated>
+    <id>tag:github.com,2023-03-27:/gnu-octave/pkg-control</id>
+    <link href="https://github.com/gnu-octave/pkg-control" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Computer-Aided Control System Design (CACSD) Tools for GNU Octave&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-26T01:32:37Z</updated>
+  <updated>2023-03-27T01:31:10Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>neverlosecc/source2sdk</title>
+    <updated>2023-03-27T01:31:10Z</updated>
+    <id>tag:github.com,2023-03-27:/neverlosecc/source2sdk</id>
+    <link href="https://github.com/neverlosecc/source2sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generated SDK for source2 engine games&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Source2SDK&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains the generated Source 2 SDKs for various games. Each game has its own branch, with the SDK dump specific to that game.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Available Branches&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;csgo&lt;/code&gt; - Counter-Strike: Global Offensive (Counter-Strike 2)&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;dota&lt;/code&gt; - Dota 2&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;hlvr&lt;/code&gt; - Half-Life: Alyx&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;artifact-classic&lt;/code&gt; - Artifact&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;artifact-foundry&lt;/code&gt; - Artifact Foundry&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;sbox&lt;/code&gt; - S&amp;amp;Box&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;underlods&lt;/code&gt; - Dota Underlords&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;To access the SDK for a specific game, switch to the corresponding branch:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git checkout &amp;lt;branch_name&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Replace &amp;lt;branch_name&amp;gt; with the desired game branch (e.g., csgo, dota, etc.).&lt;/p&gt; &#xA;&lt;h2&gt;Generation &amp;amp; Contributions&lt;/h2&gt; &#xA;&lt;p&gt;The SDK dumps in this repository were generated using the - &lt;strong&gt;&lt;a href=&#34;https://github.com/neverlosecc/source2gen&#34;&gt;NEVERLOSE Source2Gen&lt;/a&gt;&lt;/strong&gt; tool.&lt;/p&gt; &#xA;&lt;p&gt;If you want to contribute or make changes to the generated SDKs, please submit a pull request on the Source2Gen repository. Any changes made to the SDKs in this repository should originate from the Source2Gen project.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h3&gt;License&lt;/h3&gt; &#xA;&lt;p&gt;Please refer to the original projects and libraries used in the Source2Gen repository for license information.&lt;/p&gt;</summary>
+  </entry>
 </feed>
