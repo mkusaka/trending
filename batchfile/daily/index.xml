@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-27T01:30:22Z</updated>
+  <updated>2023-03-28T01:32:29Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>masdaruddin29/rdptest</title>
+    <updated>2023-03-28T01:32:29Z</updated>
+    <id>tag:github.com,2023-03-28:/masdaruddin29/rdptest</id>
+    <link href="https://github.com/masdaruddin29/rdptest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free RDP Test | Private Work&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>01101010110/MODWIN</title>
+    <updated>2023-03-28T01:32:29Z</updated>
+    <id>tag:github.com,2023-03-28:/01101010110/MODWIN</id>
+    <link href="https://github.com/01101010110/MODWIN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Tool To Make a Tiny or &#34;Lite&#34; Windows ISO. Allows you to Inspect and Modify Windows Images as well&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MOHAMEDGHORAB100/NEW-RDP-2020</title>
+    <updated>2023-03-28T01:32:29Z</updated>
+    <id>tag:github.com,2023-03-28:/MOHAMEDGHORAB100/NEW-RDP-2020</id>
+    <link href="https://github.com/MOHAMEDGHORAB100/NEW-RDP-2020" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

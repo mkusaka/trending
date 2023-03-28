@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-27T01:36:30Z</updated>
+  <updated>2023-03-28T01:37:48Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ferlab-Ste-Justine/terraform-etcd-envoy-transport-configuration</title>
-    <updated>2023-03-27T01:36:30Z</updated>
-    <id>tag:github.com,2023-03-27:/Ferlab-Ste-Justine/terraform-etcd-envoy-transport-configuration</id>
-    <link href="https://github.com/Ferlab-Ste-Justine/terraform-etcd-envoy-transport-configuration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to generate an envoy transport load balancer configuration and store it in an etcd key value&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scalablescripts/node-terraform</title>
+    <updated>2023-03-28T01:37:48Z</updated>
+    <id>tag:github.com,2023-03-28:/scalablescripts/node-terraform</id>
+    <link href="https://github.com/scalablescripts/node-terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Ferlab-Ste-Justine/terraform-libvirt-transport-load-balancer</title>
-    <updated>2023-03-27T01:36:30Z</updated>
-    <id>tag:github.com,2023-03-27:/Ferlab-Ste-Justine/terraform-libvirt-transport-load-balancer</id>
-    <link href="https://github.com/Ferlab-Ste-Justine/terraform-libvirt-transport-load-balancer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dynamically adjustable load balancer with optional ssh tunnel support&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>h3mmy/bloopySphere</title>
+    <updated>2023-03-28T01:37:48Z</updated>
+    <id>tag:github.com,2023-03-28:/h3mmy/bloopySphere</id>
+    <link href="https://github.com/h3mmy/bloopySphere" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My home cluster.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

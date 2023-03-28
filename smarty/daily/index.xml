@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-27T01:45:59Z</updated>
+  <updated>2023-03-28T01:46:14Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vexxhost/atmosphere</title>
-    <updated>2023-03-27T01:45:59Z</updated>
-    <id>tag:github.com,2023-03-27:/vexxhost/atmosphere</id>
-    <link href="https://github.com/vexxhost/atmosphere" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple &amp; easy private cloud platform featuring VMs, Kubernetes &amp; bare-metal&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RasaHQ/helm-charts</title>
+    <updated>2023-03-28T01:46:14Z</updated>
+    <id>tag:github.com,2023-03-28:/RasaHQ/helm-charts</id>
+    <link href="https://github.com/RasaHQ/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for Rasa products&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>guerzon/vaultwarden</title>
-    <updated>2023-03-27T01:45:59Z</updated>
-    <id>tag:github.com,2023-03-27:/guerzon/vaultwarden</id>
-    <link href="https://github.com/guerzon/vaultwarden" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm chart for Vaultwarden, a Bitwarden-compatible server written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>redkubes/otomi-charts</title>
+    <updated>2023-03-28T01:46:14Z</updated>
+    <id>tag:github.com,2023-03-28:/redkubes/otomi-charts</id>
+    <link href="https://github.com/redkubes/otomi-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart templates for Otomi workloads&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>calyptia/charts</title>
+    <updated>2023-03-28T01:46:14Z</updated>
+    <id>tag:github.com,2023-03-28:/calyptia/charts</id>
+    <link href="https://github.com/calyptia/charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Calyptia Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

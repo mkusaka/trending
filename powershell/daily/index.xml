@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-27T01:42:49Z</updated>
+  <updated>2023-03-28T01:43:20Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>p1s1lver/FiddlerEverywhereMockScripts</title>
-    <updated>2023-03-27T01:42:49Z</updated>
-    <id>tag:github.com,2023-03-27:/p1s1lver/FiddlerEverywhereMockScripts</id>
-    <link href="https://github.com/p1s1lver/FiddlerEverywhereMockScripts" rel="alternate"></link>
+    <title>darkparky/Windows-CRD</title>
+    <updated>2023-03-28T01:43:20Z</updated>
+    <id>tag:github.com,2023-03-28:/darkparky/Windows-CRD</id>
+    <link href="https://github.com/darkparky/Windows-CRD" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bobby-tablez/IP-Obfuscator</title>
-    <updated>2023-03-27T01:42:49Z</updated>
-    <id>tag:github.com,2023-03-27:/bobby-tablez/IP-Obfuscator</id>
-    <link href="https://github.com/bobby-tablez/IP-Obfuscator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hide an IP address in scripts by hex/decimal conversions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IP-Obfuscator&lt;/h1&gt; &#xA;&lt;p&gt;Hide an IP address in scripts by using hex/decimal mixed notation conversions. Works in Linux and Windows, or even browsers.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt; &lt;code&gt;0x8e.16433102&lt;/code&gt; becomes &lt;code&gt;142.250.191.206&lt;/code&gt; (Google)&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/bobby-tablez/IP-Obfuscator/raw/main/ip_obfuscator_example.png?raw=true&#34; alt=&#34;example image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Use at your own risk! For educational purposes only.&lt;/p&gt;</summary>
   </entry>
 </feed>

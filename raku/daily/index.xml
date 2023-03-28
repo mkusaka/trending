@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Raku Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-27T01:43:49Z</updated>
+  <updated>2023-03-28T01:44:14Z</updated>
   <subtitle>Daily Trending of Raku in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Official0mega/termux</title>
-    <updated>2023-03-27T01:43:49Z</updated>
-    <id>tag:github.com,2023-03-27:/Official0mega/termux</id>
-    <link href="https://github.com/Official0mega/termux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Termux Integrated&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-27T01:29:09Z</updated>
+  <updated>2023-03-28T01:31:22Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Picsart-AI-Research/Text2Video-Zero</title>
-    <updated>2023-03-27T01:29:09Z</updated>
-    <id>tag:github.com,2023-03-27:/Picsart-AI-Research/Text2Video-Zero</id>
-    <link href="https://github.com/Picsart-AI-Research/Text2Video-Zero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Text-to-Image Diffusion Models are Zero-Shot Video Generators&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yonggekkk/warp-yg</title>
+    <updated>2023-03-28T01:31:22Z</updated>
+    <id>tag:github.com,2023-03-28:/yonggekkk/warp-yg</id>
+    <link href="https://github.com/yonggekkk/warp-yg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;warp多功能一键脚本CFwarp，支持endpoint对端自选IP功能，查看ChatGPT与Netflix的解锁情况&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alisolanki/Welcome-to-Open-Source</title>
-    <updated>2023-03-27T01:29:09Z</updated>
-    <id>tag:github.com,2023-03-27:/alisolanki/Welcome-to-Open-Source</id>
-    <link href="https://github.com/alisolanki/Welcome-to-Open-Source" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Make your first PR request! And enter the world of Open Source Contributions 🍉&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skyzh/typst-cv-template</title>
+    <updated>2023-03-28T01:31:22Z</updated>
+    <id>tag:github.com,2023-03-28:/skyzh/typst-cv-template</id>
+    <link href="https://github.com/skyzh/typst-cv-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Chi CV Template (For Typst)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Johnshall/Shadowrocket-ADBlock-Rules-Forever</title>
-    <updated>2023-03-27T01:29:09Z</updated>
-    <id>tag:github.com,2023-03-27:/Johnshall/Shadowrocket-ADBlock-Rules-Forever</id>
-    <link href="https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hollance/neural-engine</title>
+    <updated>2023-03-28T01:31:22Z</updated>
+    <id>tag:github.com,2023-03-28:/hollance/neural-engine</id>
+    <link href="https://github.com/hollance/neural-engine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Everything we actually know about the Apple Neural Engine (ANE)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

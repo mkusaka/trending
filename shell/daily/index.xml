@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-27T01:45:30Z</updated>
+  <updated>2023-03-28T01:45:47Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sajjaddg/xray-reality</title>
-    <updated>2023-03-27T01:45:30Z</updated>
-    <id>tag:github.com,2023-03-27:/sajjaddg/xray-reality</id>
-    <link href="https://github.com/sajjaddg/xray-reality" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;one-click installation for Xray Reality&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;xray-reality&lt;/h1&gt; &#xA;&lt;p&gt;This is a Bash script that installs Xray Beta and downloads the configuration for the repository created by &lt;a href=&#34;https://twitter.com/Teegrce&#34;&gt;Teegrce&lt;/a&gt; for Iran inside this repository with your own key and places it only with one command :)&lt;/p&gt; &#xA;&lt;h2&gt;Installation Guide&lt;/h2&gt; &#xA;&lt;p&gt;I just need you to run this command&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;# bash -c &#34;$(curl -L https://raw.githubusercontent.com/sajjaddg/xray-reality/master/install.sh)&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and it will do the rest for you.&lt;/p&gt; &#xA;&lt;h2&gt;Note&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;I have only tested it on Ubuntu 22 and wrote it for that system. Although I have the time and willingness to write it for other systems, I don&#39;t think I will need to do so unless I am forced to.&lt;/li&gt; &#xA; &lt;li&gt;I used ChatGPT to translate my words. Please pardon any mistakes in the translation.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;ToDo&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Add menu&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; test it on other OS and modify the script for them&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

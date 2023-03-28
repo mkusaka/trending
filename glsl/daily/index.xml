@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-27T01:35:29Z</updated>
+  <updated>2023-03-28T01:36:55Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Warcraft-GoA-Development-Team/Warcraft-Guardians-of-Azeroth-2</title>
-    <updated>2023-03-27T01:35:29Z</updated>
-    <id>tag:github.com,2023-03-27:/Warcraft-GoA-Development-Team/Warcraft-Guardians-of-Azeroth-2</id>
-    <link href="https://github.com/Warcraft-GoA-Development-Team/Warcraft-Guardians-of-Azeroth-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&#34;Guardians of Azeroth&#34; is a mod for Crusader Kings 3 with a worldwide development team, based on the Warcraft universe by Blizzard Entertainment. In this mod, our team is working to recreate the world of Azeroth in all of its glory, particularly focusing on the story of the classic Warcraft strategy games and World of Warcraft Classic.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wwwtyro/glsl-atmosphere</title>
-    <updated>2023-03-27T01:35:29Z</updated>
-    <id>tag:github.com,2023-03-27:/wwwtyro/glsl-atmosphere</id>
-    <link href="https://github.com/wwwtyro/glsl-atmosphere" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Renders sky colors with Rayleigh and Mie scattering.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
