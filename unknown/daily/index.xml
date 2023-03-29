@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-28T01:31:22Z</updated>
+  <updated>2023-03-29T01:30:33Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yonggekkk/warp-yg</title>
-    <updated>2023-03-28T01:31:22Z</updated>
-    <id>tag:github.com,2023-03-28:/yonggekkk/warp-yg</id>
-    <link href="https://github.com/yonggekkk/warp-yg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;warp多功能一键脚本CFwarp，支持endpoint对端自选IP功能，查看ChatGPT与Netflix的解锁情况&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cyb3rxp/awesome-soc</title>
+    <updated>2023-03-29T01:30:33Z</updated>
+    <id>tag:github.com,2023-03-29:/cyb3rxp/awesome-soc</id>
+    <link href="https://github.com/cyb3rxp/awesome-soc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of sources of documentation, as well as field best practices, to build/run a SOC&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>skyzh/typst-cv-template</title>
-    <updated>2023-03-28T01:31:22Z</updated>
-    <id>tag:github.com,2023-03-28:/skyzh/typst-cv-template</id>
-    <link href="https://github.com/skyzh/typst-cv-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chi CV Template (For Typst)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>carteakey/server-compose</title>
+    <updated>2023-03-29T01:30:33Z</updated>
+    <id>tag:github.com,2023-03-29:/carteakey/server-compose</id>
+    <link href="https://github.com/carteakey/server-compose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of sample docker compose files for self-hosted applications.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hollance/neural-engine</title>
-    <updated>2023-03-28T01:31:22Z</updated>
-    <id>tag:github.com,2023-03-28:/hollance/neural-engine</id>
-    <link href="https://github.com/hollance/neural-engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Everything we actually know about the Apple Neural Engine (ANE)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>github/dmca</title>
+    <updated>2023-03-29T01:30:33Z</updated>
+    <id>tag:github.com,2023-03-29:/github/dmca</id>
+    <link href="https://github.com/github/dmca" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

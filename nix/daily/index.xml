@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-28T01:41:38Z</updated>
+  <updated>2023-03-29T01:41:55Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alpmestan/ghc.nix</title>
-    <updated>2023-03-28T01:41:38Z</updated>
-    <id>tag:github.com,2023-03-28:/alpmestan/ghc.nix</id>
-    <link href="https://github.com/alpmestan/ghc.nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix (shell) expression for working on GHC&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MatthewCroughan/nixcfg</title>
-    <updated>2023-03-28T01:41:38Z</updated>
-    <id>tag:github.com,2023-03-28:/MatthewCroughan/nixcfg</id>
-    <link href="https://github.com/MatthewCroughan/nixcfg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My nix configuration(s), using flakes. It&#39;s my laptop, it&#39;s my servers, it&#39;s my everything, in code.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>azuwis/pianotrans</title>
-    <updated>2023-03-28T01:41:38Z</updated>
-    <id>tag:github.com,2023-03-28:/azuwis/pianotrans</id>
-    <link href="https://github.com/azuwis/pianotrans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple GUI for ByteDance&#39;s Piano Transcription with Pedals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>astro/skyflake</title>
+    <updated>2023-03-29T01:41:55Z</updated>
+    <id>tag:github.com,2023-03-29:/astro/skyflake</id>
+    <link href="https://github.com/astro/skyflake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS Hyperconverged Infrastructure on Nomad/NixOS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

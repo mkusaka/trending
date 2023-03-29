@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-28T01:40:37Z</updated>
+  <updated>2023-03-29T01:40:45Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>threefoldtech/info_grid</title>
-    <updated>2023-03-28T01:40:37Z</updated>
-    <id>tag:github.com,2023-03-28:/threefoldtech/info_grid</id>
-    <link href="https://github.com/threefoldtech/info_grid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>akhtyamovpavel/BuildExamples-TP</title>
-    <updated>2023-03-28T01:40:37Z</updated>
-    <id>tag:github.com,2023-03-28:/akhtyamovpavel/BuildExamples-TP</id>
-    <link href="https://github.com/akhtyamovpavel/BuildExamples-TP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Examples of bash, make, cmake building&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bakueikozo/buildroot_am3352_aki</title>
-    <updated>2023-03-28T01:40:37Z</updated>
-    <id>tag:github.com,2023-03-28:/bakueikozo/buildroot_am3352_aki</id>
-    <link href="https://github.com/bakueikozo/buildroot_am3352_aki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
