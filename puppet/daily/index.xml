@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:44:12Z</updated>
+  <updated>2023-03-30T01:43:21Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DavidS/dasz-configuration</title>
+    <updated>2023-03-30T01:43:21Z</updated>
+    <id>tag:github.com,2023-03-30:/DavidS/dasz-configuration</id>
+    <link href="https://github.com/DavidS/dasz-configuration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuration for my company&#39;s infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

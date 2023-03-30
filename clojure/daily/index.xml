@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:33:20Z</updated>
+  <updated>2023-03-30T01:32:37Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yogthos/maestro</title>
-    <updated>2023-03-29T01:33:20Z</updated>
-    <id>tag:github.com,2023-03-29:/yogthos/maestro</id>
-    <link href="https://github.com/yogthos/maestro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>webwendy/boss-clj</title>
+    <updated>2023-03-30T01:32:37Z</updated>
+    <id>tag:github.com,2023-03-30:/webwendy/boss-clj</id>
+    <link href="https://github.com/webwendy/boss-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure implementation of the Balance Optimization Subset Selection method.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudaloe/ringer</title>
-    <updated>2023-03-29T01:33:20Z</updated>
-    <id>tag:github.com,2023-03-29:/cloudaloe/ringer</id>
-    <link href="https://github.com/cloudaloe/ringer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>port19x/redqu</title>
-    <updated>2023-03-29T01:33:20Z</updated>
-    <id>tag:github.com,2023-03-29:/port19x/redqu</id>
-    <link href="https://github.com/port19x/redqu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A media centric reddit client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ForNeVeR/zurg</title>
+    <updated>2023-03-30T01:32:37Z</updated>
+    <id>tag:github.com,2023-03-30:/ForNeVeR/zurg</id>
+    <link href="https://github.com/ForNeVeR/zurg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repeating famous logic programming task with clojure.core.logic. Wee.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

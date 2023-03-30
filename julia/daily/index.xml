@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:39:26Z</updated>
+  <updated>2023-03-30T01:38:34Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aviks/Whisper.jl</title>
-    <updated>2023-03-29T01:39:26Z</updated>
-    <id>tag:github.com,2023-03-29:/aviks/Whisper.jl</id>
-    <link href="https://github.com/aviks/Whisper.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of OpenAI Whisper model based on whisper.cpp&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CliMA/ClimaShallowWater.jl</title>
+    <updated>2023-03-30T01:38:34Z</updated>
+    <id>tag:github.com,2023-03-30:/CliMA/ClimaShallowWater.jl</id>
+    <link href="https://github.com/CliMA/ClimaShallowWater.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SciML/PDEBase.jl</title>
-    <updated>2023-03-29T01:39:26Z</updated>
-    <id>tag:github.com,2023-03-29:/SciML/PDEBase.jl</id>
-    <link href="https://github.com/SciML/PDEBase.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common types and interface for discretizers of ModelingToolkit PDESystems.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DARPA-ASKEM/simulation-scheduler</title>
+    <updated>2023-03-30T01:38:34Z</updated>
+    <id>tag:github.com,2023-03-30:/DARPA-ASKEM/simulation-scheduler</id>
+    <link href="https://github.com/DARPA-ASKEM/simulation-scheduler" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scheduler provides an interface and job scheduler for EasyModelAnalysis.jl.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Klafyvel/norganic</title>
-    <updated>2023-03-29T01:39:26Z</updated>
-    <id>tag:github.com,2023-03-29:/Klafyvel/norganic</id>
-    <link href="https://github.com/Klafyvel/norganic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The solvent-free Norg compiler.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaArrays/ArrayInterface.jl</title>
+    <updated>2023-03-30T01:38:34Z</updated>
+    <id>tag:github.com,2023-03-30:/JuliaArrays/ArrayInterface.jl</id>
+    <link href="https://github.com/JuliaArrays/ArrayInterface.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

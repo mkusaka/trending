@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:35:37Z</updated>
+  <updated>2023-03-30T01:34:56Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thatpythonguy/mod_mobile</title>
-    <updated>2023-03-29T01:35:37Z</updated>
-    <id>tag:github.com,2023-03-29:/thatpythonguy/mod_mobile</id>
-    <link href="https://github.com/thatpythonguy/mod_mobile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zotonic module that adds mobile (and other alternative devices) template support&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emqx/rocketmq-client-erl</title>
+    <updated>2023-03-30T01:34:56Z</updated>
+    <id>tag:github.com,2023-03-30:/emqx/rocketmq-client-erl</id>
+    <link href="https://github.com/emqx/rocketmq-client-erl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Erlang client library for Apache RocketMQ&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

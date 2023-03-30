@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:43:19Z</updated>
+  <updated>2023-03-30T01:42:34Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ozeppi/PersistentPixivBookmark</title>
+    <updated>2023-03-30T01:42:34Z</updated>
+    <id>tag:github.com,2023-03-30:/ozeppi/PersistentPixivBookmark</id>
+    <link href="https://github.com/ozeppi/PersistentPixivBookmark" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project actualize persistent bookmark of pixiv.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GrantStreetGroup/p5-healthcheck-parallel</title>
+    <updated>2023-03-30T01:42:34Z</updated>
+    <id>tag:github.com,2023-03-30:/GrantStreetGroup/p5-healthcheck-parallel</id>
+    <link href="https://github.com/GrantStreetGroup/p5-healthcheck-parallel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A HealthCheck that uses parallelization running checks&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NAME&lt;/h1&gt; &#xA;&lt;p&gt;HealthCheck::Parallel - A HealthCheck that uses parallelization for running checks&lt;/p&gt; &#xA;&lt;h1&gt;VERSION&lt;/h1&gt; &#xA;&lt;p&gt;version v0.0.1&lt;/p&gt; &#xA;&lt;h1&gt;SYNOPSIS&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;use HealthCheck::Parallel;&#xA;&#xA;my $hc = HealthCheck::Parallel-&amp;gt;new(&#xA;    max_procs  =&amp;gt; 4,      # default&#xA;    tempdir    =&amp;gt; &#39;/tmp&#39;, # override Parallel::ForkManager default&#xA;    child_init =&amp;gt; sub { warn &#34;Will run at start of child process check&#34; },&#xA;    checks     =&amp;gt; [&#xA;        sub { sleep 5; return { id =&amp;gt; &#39;slow1&#39;, status =&amp;gt; &#39;OK&#39; } },&#xA;        sub { sleep 5; return { id =&amp;gt; &#39;slow2&#39;, status =&amp;gt; &#39;OK&#39; } },&#xA;    ],&#xA;);&#xA;&#xA;# Takes 5 seconds to run both checks instead of 10.&#xA;my $res = $hc-&amp;gt;check;&#xA;&#xA;# These checks will not use parallelization.&#xA;$res = $hc-&amp;gt;check( max_procs =&amp;gt; 0 );&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;DESCRIPTION&lt;/h1&gt; &#xA;&lt;p&gt;This library inherits &lt;a href=&#34;https://metacpan.org/pod/HealthCheck&#34;&gt;HealthCheck&lt;/a&gt; so that the provided checks are run in parallel.&lt;/p&gt; &#xA;&lt;h1&gt;METHODS&lt;/h1&gt; &#xA;&lt;h2&gt;new&lt;/h2&gt; &#xA;&lt;p&gt;Overrides the &lt;a href=&#34;https://metacpan.org/pod/HealthCheck#new&#34;&gt;&#34;new&#34; in HealthCheck&lt;/a&gt; constructor to additionally allow a &lt;a href=&#34;https://raw.githubusercontent.com/GrantStreetGroup/p5-healthcheck-parallel/master/#max_procs&#34;&gt;&#34;max_procs&#34;&lt;/a&gt; argument for the maximum number of checks/processes to run in parallel.&lt;/p&gt; &#xA;&lt;h1&gt;ATTRIBUTES&lt;/h1&gt; &#xA;&lt;h2&gt;max_procs&lt;/h2&gt; &#xA;&lt;p&gt;A positive integer specifying the maximum number of processes that should be run in parallel when executing the checks. No parallelization will be used unless given a value that is greater than 1. Defaults to 4.&lt;/p&gt; &#xA;&lt;h2&gt;child_init&lt;/h2&gt; &#xA;&lt;p&gt;An optional coderef which will be run when the child process of a check is created. A possible important use case is making sure child processes don&#39;t try to make use of STDOUT if these checks are running under FastCGI envrionment:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;my $hc = HealthCheck::Parallel-&amp;gt;new(&#xA;    child_init =&amp;gt; sub {&#xA;        untie *STDOUT;&#xA;        { no warnings; *FCGI::DESTROY = sub {}; }&#xA;    },&#xA;);&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;tempdir&lt;/h2&gt; &#xA;&lt;p&gt;Sets the &lt;code&gt;tempdir&lt;/code&gt; value to use in &lt;a href=&#34;https://metacpan.org/pod/Parallel%3A%3AForkManager&#34;&gt;Parallel::ForkManager&lt;/a&gt; for IPC.&lt;/p&gt; &#xA;&lt;h1&gt;DEPENDENCIES&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Perl 5.10 or higher.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://metacpan.org/pod/HealthCheck&#34;&gt;HealthCheck&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://metacpan.org/pod/Parallel%3A%3AForkManager&#34;&gt;Parallel::ForkManager&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;SEE ALSO&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://metacpan.org/pod/HealthCheck%3A%3ADiagnostic&#34;&gt;HealthCheck::Diagnostic&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;The GSG &lt;a href=&#34;https://grantstreetgroup.github.io/HealthCheck.html&#34;&gt;Health Check Standard&lt;/a&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;AUTHOR&lt;/h1&gt; &#xA;&lt;p&gt;Grant Street Group &lt;a href=&#34;mailto:developers@grantstreet.com&#34;&gt;developers@grantstreet.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;COPYRIGHT AND LICENSE&lt;/h1&gt; &#xA;&lt;p&gt;This software is Copyright (c) 2023 by Grant Street Group.&lt;/p&gt; &#xA;&lt;p&gt;This is free software, licensed under:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;The Artistic License 2.0 (GPL Compatible)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>claydiffrient/todo-parser</title>
+    <updated>2023-03-30T01:42:34Z</updated>
+    <id>tag:github.com,2023-03-30:/claydiffrient/todo-parser</id>
+    <link href="https://github.com/claydiffrient/todo-parser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Used to parse //TODO: from source files.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;todo-parser&lt;/h1&gt; &#xA;&lt;p&gt;Used to parse //TODO: from source files.&lt;/p&gt;</summary>
+  </entry>
 </feed>

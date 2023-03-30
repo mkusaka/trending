@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:46:07Z</updated>
+  <updated>2023-03-30T01:45:11Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>thenewcircle/scala-bootcamp-20130114</title>
-    <updated>2023-03-29T01:46:07Z</updated>
-    <id>tag:github.com,2023-03-29:/thenewcircle/scala-bootcamp-20130114</id>
-    <link href="https://github.com/thenewcircle/scala-bootcamp-20130114" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;scala-bootcamp-20130114&lt;/h1&gt;</summary>
-  </entry>
 </feed>

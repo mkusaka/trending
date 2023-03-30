@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:33:11Z</updated>
+  <updated>2023-03-30T01:32:31Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lpradel/Schatzsuche</title>
+    <updated>2023-03-30T01:32:31Z</updated>
+    <id>tag:github.com,2023-03-30:/lpradel/Schatzsuche</id>
+    <link href="https://github.com/lpradel/Schatzsuche" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple 3D treasure hunt game developed with Unity3D as a university assignment.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

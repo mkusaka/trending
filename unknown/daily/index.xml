@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:30:33Z</updated>
+  <updated>2023-03-30T01:29:53Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cyb3rxp/awesome-soc</title>
-    <updated>2023-03-29T01:30:33Z</updated>
-    <id>tag:github.com,2023-03-29:/cyb3rxp/awesome-soc</id>
-    <link href="https://github.com/cyb3rxp/awesome-soc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of sources of documentation, as well as field best practices, to build/run a SOC&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xiaoming2028/FreePAC</title>
+    <updated>2023-03-30T01:29:53Z</updated>
+    <id>tag:github.com,2023-03-30:/xiaoming2028/FreePAC</id>
+    <link href="https://github.com/xiaoming2028/FreePAC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;科学上网/翻墙梯子/自由上网/SS/SSR/V2Ray/Brook 搭建教程 免费机场、VPN工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>carteakey/server-compose</title>
-    <updated>2023-03-29T01:30:33Z</updated>
-    <id>tag:github.com,2023-03-29:/carteakey/server-compose</id>
-    <link href="https://github.com/carteakey/server-compose" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of sample docker compose files for self-hosted applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>davincifans101/pinduoduo_backdoor_detailed_report</title>
+    <updated>2023-03-30T01:29:53Z</updated>
+    <id>tag:github.com,2023-03-30:/davincifans101/pinduoduo_backdoor_detailed_report</id>
+    <link href="https://github.com/davincifans101/pinduoduo_backdoor_detailed_report" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maybe the most detailed analysis of pdd backdoors&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>github/dmca</title>
-    <updated>2023-03-29T01:30:33Z</updated>
-    <id>tag:github.com,2023-03-29:/github/dmca</id>
-    <link href="https://github.com/github/dmca" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yzfly/awesome-chatgpt-zh</title>
+    <updated>2023-03-30T01:29:53Z</updated>
+    <id>tag:github.com,2023-03-30:/yzfly/awesome-chatgpt-zh</id>
+    <link href="https://github.com/yzfly/awesome-chatgpt-zh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

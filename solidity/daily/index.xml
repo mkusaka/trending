@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:47:18Z</updated>
+  <updated>2023-03-30T01:46:09Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Project-DARC/DARC</title>
+    <updated>2023-03-30T01:46:09Z</updated>
+    <id>tag:github.com,2023-03-30:/Project-DARC/DARC</id>
+    <link href="https://github.com/Project-DARC/DARC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Decentralized Autonomous Regulated Company (DARC) is a virtual machine company that runs on any EVM-compatible blockchain. It features a built-in multi-token and plugin system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mztacat/Deploy-a-Simple-Contract-on-EVM</title>
+    <updated>2023-03-30T01:46:09Z</updated>
+    <id>tag:github.com,2023-03-30:/mztacat/Deploy-a-Simple-Contract-on-EVM</id>
+    <link href="https://github.com/mztacat/Deploy-a-Simple-Contract-on-EVM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Deploy a simple contract on EVM&#39;s L1 &amp; L2 using Remix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jcsec-security/solidity-security-teaching-resources</title>
+    <updated>2023-03-30T01:46:09Z</updated>
+    <id>tag:github.com,2023-03-30:/jcsec-security/solidity-security-teaching-resources</id>
+    <link href="https://github.com/jcsec-security/solidity-security-teaching-resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Teaching material about common vulnerabilities of Solidity smart contracts that I use during my lectures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

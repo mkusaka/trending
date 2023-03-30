@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:43:57Z</updated>
+  <updated>2023-03-30T01:43:05Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>knight0x07/PoC-Malware-TTPs</title>
-    <updated>2023-03-29T01:43:57Z</updated>
-    <id>tag:github.com,2023-03-29:/knight0x07/PoC-Malware-TTPs</id>
-    <link href="https://github.com/knight0x07/PoC-Malware-TTPs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PoC-Malware-TTPs&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PoC-Malware-TTPs&lt;/h1&gt; &#xA;&lt;p&gt;Proof of Concept Code Repository for Malware TTPs&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-29T01:49:28Z</updated>
+  <updated>2023-03-30T01:48:06Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>windsorchan/.vim</title>
-    <updated>2023-03-29T01:49:28Z</updated>
-    <id>tag:github.com,2023-03-29:/windsorchan/.vim</id>
-    <link href="https://github.com/windsorchan/.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vim-scripts/adt.vim</title>
+    <updated>2023-03-30T01:48:06Z</updated>
+    <id>tag:github.com,2023-03-30:/vim-scripts/adt.vim</id>
+    <link href="https://github.com/vim-scripts/adt.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;android development utility in VIM&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marcosdsanchez/.vim</title>
+    <updated>2023-03-30T01:48:06Z</updated>
+    <id>tag:github.com,2023-03-30:/marcosdsanchez/.vim</id>
+    <link href="https://github.com/marcosdsanchez/.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;marcosdsanchez&#39;s vim config&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
