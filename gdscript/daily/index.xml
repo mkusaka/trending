@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-30T01:35:35Z</updated>
+  <updated>2023-03-31T01:34:23Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/2D-Platformer-Character</title>
-    <updated>2023-03-30T01:35:35Z</updated>
-    <id>tag:github.com,2023-03-30:/BL-MSCH-C220/2D-Platformer-Character</id>
-    <link href="https://github.com/BL-MSCH-C220/2D-Platformer-Character" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A player character for use in the 2D platformer project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-05c-Materials</title>
+    <updated>2023-03-31T01:34:23Z</updated>
+    <id>tag:github.com,2023-03-31:/BL-MSCH-C220/Exercise-05c-Materials</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-05c-Materials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

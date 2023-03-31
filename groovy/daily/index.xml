@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-30T01:36:26Z</updated>
+  <updated>2023-03-31T01:35:10Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>palantir/gradle-launch-config-plugin</title>
+    <updated>2023-03-31T01:35:10Z</updated>
+    <id>tag:github.com,2023-03-31:/palantir/gradle-launch-config-plugin</id>
+    <link href="https://github.com/palantir/gradle-launch-config-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

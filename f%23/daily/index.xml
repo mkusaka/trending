@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-30T01:35:01Z</updated>
+  <updated>2023-03-31T01:33:51Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fsprojects/fantomas-tools</title>
-    <updated>2023-03-30T01:35:01Z</updated>
-    <id>tag:github.com,2023-03-30:/fsprojects/fantomas-tools</id>
-    <link href="https://github.com/fsprojects/fantomas-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of tools used when developing for Fantomas&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fantomas tools&lt;/h1&gt; &#xA;&lt;p&gt;Collection of tools used when developing for Fantomas&lt;/p&gt; &#xA;&lt;h2&gt;Prerequisites&lt;/h2&gt; &#xA;&lt;p&gt;To run this tool locally you need:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://nodejs.org/en/download/&#34;&gt;Node.js 14.x&lt;/a&gt; or higher&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://dotnet.microsoft.com/en-us/download/dotnet/6.0&#34;&gt;.NET 6.x SDK&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Running locally&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Pull in the source dependencies:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;dotnet fsi build.fsx -p Fantomas-Git&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Run the Watch pipeline:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;dotnet fsi build.fsx -p Watch&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Open &lt;a href=&#34;http://localhost:9060&#34;&gt;http://localhost:9060&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Running in Gitpod&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Open the repository via &lt;a href=&#34;https://gitpod.io/#https://github.com/fsprojects/fantomas-tools&#34;&gt;https://gitpod.io/#https://github.com/fsprojects/fantomas-tools&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Run&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;dotnet fsi build.fsx -p Fantomas-Git&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;dotnet fsi build.fsx -p Watch&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Open browser for port &lt;code&gt;9060&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-30T01:30:58Z</updated>
+  <updated>2023-03-31T01:30:04Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bayzid23564/RDPByBayzidGaming</title>
-    <updated>2023-03-30T01:30:58Z</updated>
-    <id>tag:github.com,2023-03-30:/bayzid23564/RDPByBayzidGaming</id>
-    <link href="https://github.com/bayzid23564/RDPByBayzidGaming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Zuntan03/CharFramework</title>
+    <updated>2023-03-31T01:30:04Z</updated>
+    <id>tag:github.com,2023-03-31:/Zuntan03/CharFramework</id>
+    <link href="https://github.com/Zuntan03/CharFramework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI画像生成でキャラクターの扱いをしくみ化してフレームワークにしてみる&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>buingochieu-b/Windows2019RDP-US</title>
-    <updated>2023-03-30T01:30:58Z</updated>
-    <id>tag:github.com,2023-03-30:/buingochieu-b/Windows2019RDP-US</id>
-    <link href="https://github.com/buingochieu-b/Windows2019RDP-US" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wctsai20002/navicat-refresh</title>
+    <updated>2023-03-31T01:30:04Z</updated>
+    <id>tag:github.com,2023-03-31:/wctsai20002/navicat-refresh</id>
+    <link href="https://github.com/wctsai20002/navicat-refresh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reset Navicat Premium 15 &amp; 16 trial&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

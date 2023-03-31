@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-30T01:37:49Z</updated>
+  <updated>2023-03-31T01:36:29Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Kamilahsantos/Java-week-LinuxTips</title>
+    <updated>2023-03-31T01:36:29Z</updated>
+    <id>tag:github.com,2023-03-31:/Kamilahsantos/Java-week-LinuxTips</id>
+    <link href="https://github.com/Kamilahsantos/Java-week-LinuxTips" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositório com o conteúdo da Java Week da LinuxTips&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;🔖 Sobre&lt;/h2&gt; &#xA;&lt;p&gt;Repositório com todos os conteúdos ministrados na Java Week da LinuxTips.&lt;/p&gt; &#xA;&lt;h2&gt;💻 Conteúdo programático&lt;/h2&gt; &#xA;&lt;p&gt;📢 27/03: Bate-papo sobre carreira, mercado de trabalho e possibilidades de usar a stack Java e Spring&lt;/p&gt; &#xA;&lt;p&gt;📢 28/03: Aprenda os conceitos da programação orientada a objetos na prática&lt;/p&gt; &#xA;&lt;p&gt;📢 29/03: Criando sua primeira API com Spring do zero - parte 1&lt;/p&gt; &#xA;&lt;p&gt;📢 30/03: Criando sua primeira API com Spring do zero - parte 2&lt;/p&gt; &#xA;&lt;p&gt;📢 31/03: Microsserviços: conceitos, boas práticas e padrões&lt;/p&gt; &#xA;&lt;p&gt;⚙ Onde assistir:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.twitch.tv/linuxtips&#34;&gt;LinuxTips&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

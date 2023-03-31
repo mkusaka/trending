@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-30T01:48:47Z</updated>
+  <updated>2023-03-31T01:48:04Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LegoStormtroopr/sqbl-schema</title>
-    <updated>2023-03-30T01:48:47Z</updated>
-    <id>tag:github.com,2023-03-30:/LegoStormtroopr/sqbl-schema</id>
-    <link href="https://github.com/LegoStormtroopr/sqbl-schema" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sqbl-schema&lt;/h1&gt; &#xA;&lt;p&gt;SQBL - The Simple ( or Structured ) Questionnaire Building Language &lt;a href=&#34;http://www.sqbl.org&#34;&gt;www.sqbl.org&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;The SQBL Schema is free software distributed within the public domain. You are free to download, remix, change and modify these schemas to your hearts content.&lt;/p&gt; &#xA;&lt;p&gt;SQBL - The Simple (or Structured) Questionnaire Building Language (pronounced Squabble) is a lightweight XML format for the description of questionnaires, surveys and similar related data collection methods. SQBL is designed to capture all of the logical and conceptual information around when one person asks another information to gather data.&lt;/p&gt; &#xA;&lt;p&gt;Directory structure:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;\ schemas  -- The SQBL schema files and associated XML files&#xA;\ tests    -- Example SQBL documents valid against the current schema&#xA;\ util     -- Various utility files&#xA;   \ DDI   -- XSLTs for the DDI XML format&#xA;      \ Tests  -- Test files for checking the DDI XSLTs&#xA;         \ xxx.input.ddi.xml -- All test input files end with .input.ddi.xml&#xA;         \ xxx.output.sqbl   -- All test output files end with .output.sqbl&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

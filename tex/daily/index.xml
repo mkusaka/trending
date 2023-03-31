@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-30T01:47:10Z</updated>
+  <updated>2023-03-31T01:46:16Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jonschz/tikz-nfold</title>
-    <updated>2023-03-30T01:47:10Z</updated>
-    <id>tag:github.com,2023-03-30:/jonschz/tikz-nfold</id>
-    <link href="https://github.com/jonschz/tikz-nfold" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Triple, quadruple, and n-fold paths and arrows with TikZ&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;tikz-nfold – higher order paths in TikZ&lt;/h1&gt; &#xA;&lt;p&gt;This library adds higher-order paths to &lt;a href=&#34;https://ctan.org/pkg/pgf&#34;&gt;TikZ&lt;/a&gt; and also fixes some graphical issues with TikZ&#39; &lt;code&gt;double&lt;/code&gt; paths, used e.g. in wide arrows. It is also compatible with &lt;a href=&#34;https://ctan.org/pkg/tikz-cd&#34;&gt;tikz-cd&lt;/a&gt;, adding support for triple and higher arrows. See the &lt;a href=&#34;https://raw.githubusercontent.com/jonschz/tikz-nfold/main/tikz-nfold-doc.pdf&#34;&gt;documentation&lt;/a&gt; for full details.&lt;/p&gt; &#xA;&lt;p&gt;This package is available on &lt;a href=&#34;https://ctan.org/pkg/tikz-nfold&#34;&gt;CTAN&lt;/a&gt;. Availability on MiKTeX and TeX Live is in the works.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;All files except &lt;code&gt;tikz-nfold-doc.tex&lt;/code&gt; and &lt;code&gt;tikz-nfold-doc.pdf&lt;/code&gt; should be installed in the &lt;code&gt;tex&lt;/code&gt; folder.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This work may be distributed and/or modified under the conditions of the LaTeX Project Public License, either version 1.3c of this license or (at your option) any later version.&lt;/p&gt; &#xA;&lt;h2&gt;Impressions&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/jonschz/tikz-nfold/main/images/screenshot_join.png&#34; alt=&#34;joins&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/jonschz/tikz-nfold/main/images/screenshot_tikzcd.png&#34; alt=&#34;tikz-cd&#34;&gt;&lt;/p&gt;</summary>
+    <title>typst/templates</title>
+    <updated>2023-03-31T01:46:16Z</updated>
+    <id>tag:github.com,2023-03-31:/typst/templates</id>
+    <link href="https://github.com/typst/templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The templates that ship with the Typst web app.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Typst Templates&lt;/h1&gt; &#xA;&lt;p&gt;Here, you can find the five templates that currently ship with the Typst web app.&lt;/p&gt; &#xA;&lt;p&gt;This is only a temporary home for them until we have built a proper package manager for Typst.&lt;/p&gt; &#xA;&lt;p&gt;For community creations, also see: &lt;a href=&#34;https://github.com/qjcg/awesome-typst&#34;&gt;https://github.com/qjcg/awesome-typst&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

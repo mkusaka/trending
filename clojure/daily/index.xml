@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-30T01:32:37Z</updated>
+  <updated>2023-03-31T01:31:21Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>webwendy/boss-clj</title>
-    <updated>2023-03-30T01:32:37Z</updated>
-    <id>tag:github.com,2023-03-30:/webwendy/boss-clj</id>
-    <link href="https://github.com/webwendy/boss-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure implementation of the Balance Optimization Subset Selection method.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cnuernber/streams</title>
+    <updated>2023-03-31T01:31:21Z</updated>
+    <id>tag:github.com,2023-03-31:/cnuernber/streams</id>
+    <link href="https://github.com/cnuernber/streams" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple monte carlo simulation system based on lazy non-caching streams.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ForNeVeR/zurg</title>
-    <updated>2023-03-30T01:32:37Z</updated>
-    <id>tag:github.com,2023-03-30:/ForNeVeR/zurg</id>
-    <link href="https://github.com/ForNeVeR/zurg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repeating famous logic programming task with clojure.core.logic. Wee.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hden/run-env</title>
+    <updated>2023-03-31T01:31:21Z</updated>
+    <id>tag:github.com,2023-03-31:/hden/run-env</id>
+    <link href="https://github.com/hden/run-env" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage multiple deployment profiles for Google Cloud Run&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>flybot-sg/lasagna-pull</title>
+    <updated>2023-03-31T01:31:21Z</updated>
+    <id>tag:github.com,2023-03-31:/flybot-sg/lasagna-pull</id>
+    <link href="https://github.com/flybot-sg/lasagna-pull" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Precisely select from deep data structure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
