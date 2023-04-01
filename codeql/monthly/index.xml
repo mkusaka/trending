@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CodeQL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-01T02:09:37Z</updated>
+  <subtitle>Monthly Trending of CodeQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>webraybtl/CodeQLpy</title>
+    <updated>2023-04-01T02:09:37Z</updated>
+    <id>tag:github.com,2023-04-01:/webraybtl/CodeQLpy</id>
+    <link href="https://github.com/webraybtl/CodeQLpy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CodeQLpy是一款基于CodeQL实现的半自动化代码审计工具，目前仅支持java语言。实现从源码反编译，数据库生成，脆弱性发现的全过程，可以辅助代码审计人员快速定位源码可能存在的漏洞。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

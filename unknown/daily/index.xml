@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-31T01:28:57Z</updated>
+  <updated>2023-04-01T01:29:02Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arialdomartini/Back-End-Developer-Interview-Questions</title>
-    <updated>2023-03-31T01:28:57Z</updated>
-    <id>tag:github.com,2023-03-31:/arialdomartini/Back-End-Developer-Interview-Questions</id>
-    <link href="https://github.com/arialdomartini/Back-End-Developer-Interview-Questions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>osanseviero/ml_timeline</title>
+    <updated>2023-04-01T01:29:02Z</updated>
+    <id>tag:github.com,2023-04-01:/osanseviero/ml_timeline</id>
+    <link href="https://github.com/osanseviero/ml_timeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alura-cursos/imersao-java-2</title>
-    <updated>2023-03-31T01:28:57Z</updated>
-    <id>tag:github.com,2023-03-31:/alura-cursos/imersao-java-2</id>
-    <link href="https://github.com/alura-cursos/imersao-java-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Imersão Java&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>XueFuzhao/InstructionWild</title>
+    <updated>2023-04-01T01:29:02Z</updated>
+    <id>tag:github.com,2023-04-01:/XueFuzhao/InstructionWild</id>
+    <link href="https://github.com/XueFuzhao/InstructionWild" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>recorder1013/pinduoduo_backdoor_recorder</title>
-    <updated>2023-03-31T01:28:57Z</updated>
-    <id>tag:github.com,2023-03-31:/recorder1013/pinduoduo_backdoor_recorder</id>
-    <link href="https://github.com/recorder1013/pinduoduo_backdoor_recorder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;拼多多利用漏洞攻击用户手机材料汇总&amp;存证&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jivoi/awesome-osint</title>
+    <updated>2023-04-01T01:29:02Z</updated>
+    <id>tag:github.com,2023-04-01:/jivoi/awesome-osint</id>
+    <link href="https://github.com/jivoi/awesome-osint" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😱 A curated list of amazingly awesome OSINT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

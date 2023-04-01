@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-01T02:24:25Z</updated>
+  <subtitle>Monthly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rick2047/OOCA</title>
+    <updated>2023-04-01T02:24:25Z</updated>
+    <id>tag:github.com,2023-04-01:/rick2047/OOCA</id>
+    <link href="https://github.com/rick2047/OOCA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Object Oriented Computer Architecture. Verilog code and test benches&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alexforencich/verilog-ethernet</title>
+    <updated>2023-04-01T02:24:25Z</updated>
+    <id>tag:github.com,2023-04-01:/alexforencich/verilog-ethernet</id>
+    <link href="https://github.com/alexforencich/verilog-ethernet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog Ethernet components for FPGA implementation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>riscv-mcu/e203_hbirdv2</title>
+    <updated>2023-04-01T02:24:25Z</updated>
+    <id>tag:github.com,2023-04-01:/riscv-mcu/e203_hbirdv2</id>
+    <link href="https://github.com/riscv-mcu/e203_hbirdv2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Ultra-Low Power RISC-V Core&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

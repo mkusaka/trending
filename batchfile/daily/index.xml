@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-31T01:30:04Z</updated>
+  <updated>2023-04-01T01:30:10Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Zuntan03/CharFramework</title>
-    <updated>2023-03-31T01:30:04Z</updated>
-    <id>tag:github.com,2023-03-31:/Zuntan03/CharFramework</id>
-    <link href="https://github.com/Zuntan03/CharFramework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI画像生成でキャラクターの扱いをしくみ化してフレームワークにしてみる&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oobabooga/one-click-installers</title>
+    <updated>2023-04-01T01:30:10Z</updated>
+    <id>tag:github.com,2023-04-01:/oobabooga/one-click-installers</id>
+    <link href="https://github.com/oobabooga/one-click-installers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplified installers for oobabooga/text-generation-webui.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wctsai20002/navicat-refresh</title>
-    <updated>2023-03-31T01:30:04Z</updated>
-    <id>tag:github.com,2023-03-31:/wctsai20002/navicat-refresh</id>
-    <link href="https://github.com/wctsai20002/navicat-refresh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reset Navicat Premium 15 &amp; 16 trial&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Divinemonk/msoffice365</title>
+    <updated>2023-04-01T01:30:10Z</updated>
+    <id>tag:github.com,2023-04-01:/Divinemonk/msoffice365</id>
+    <link href="https://github.com/Divinemonk/msoffice365" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&#39; Microsoft Office 365 &#39; Activator Script | Free lifetime ms office activation script | 100% working&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

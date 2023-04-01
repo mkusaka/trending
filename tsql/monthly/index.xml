@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-01T02:23:57Z</updated>
+  <subtitle>Monthly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/azure-openai-workshop</title>
+    <updated>2023-04-01T02:23:57Z</updated>
+    <id>tag:github.com,2023-04-01:/Azure/azure-openai-workshop</id>
+    <link href="https://github.com/Azure/azure-openai-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a code repository initially for Azure OpenAI In a Day workshop. We wanted to share this code with everyone in order to build better AI solutions using Azure OpenAI services. This repository is maintained by community volunteers. If you would like to contribute, please feel free to create a pull request. Thank you all for your contribution.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

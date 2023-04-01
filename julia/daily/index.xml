@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-31T01:37:22Z</updated>
+  <updated>2023-04-01T01:37:33Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>myreen/tda283</title>
-    <updated>2023-03-31T01:37:22Z</updated>
-    <id>tag:github.com,2023-03-31:/myreen/tda283</id>
-    <link href="https://github.com/myreen/tda283" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material for TDA283 / DIT300 Compiler Construction&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaMLTools/EuclidGraphs.jl</title>
-    <updated>2023-03-31T01:37:22Z</updated>
-    <id>tag:github.com,2023-03-31:/JuliaMLTools/EuclidGraphs.jl</id>
-    <link href="https://github.com/JuliaMLTools/EuclidGraphs.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple, lightweight, beautiful graph rendering in VSCode and SVG.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SciML/RuntimeGeneratedFunctions.jl</title>
-    <updated>2023-03-31T01:37:22Z</updated>
-    <id>tag:github.com,2023-03-31:/SciML/RuntimeGeneratedFunctions.jl</id>
-    <link href="https://github.com/SciML/RuntimeGeneratedFunctions.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Functions generated at runtime without world-age issues or overhead&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

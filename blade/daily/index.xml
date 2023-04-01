@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-31T01:30:12Z</updated>
+  <updated>2023-04-01T01:30:19Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>crmepicentro/evaluacion_crm</title>
-    <updated>2023-03-31T01:30:12Z</updated>
-    <id>tag:github.com,2023-03-31:/crmepicentro/evaluacion_crm</id>
-    <link href="https://github.com/crmepicentro/evaluacion_crm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lee-to/moonshine</title>
+    <updated>2023-04-01T01:30:19Z</updated>
+    <id>tag:github.com,2023-04-01:/lee-to/moonshine</id>
+    <link href="https://github.com/lee-to/moonshine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple and beautiful administration panel for Laravel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

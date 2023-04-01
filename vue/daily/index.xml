@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-31T01:47:24Z</updated>
+  <updated>2023-04-01T01:47:32Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ApeWhoLovesCode/LegendTD</title>
-    <updated>2023-03-31T01:47:24Z</updated>
-    <id>tag:github.com,2023-03-31:/ApeWhoLovesCode/LegendTD</id>
-    <link href="https://github.com/ApeWhoLovesCode/LegendTD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xiaoluoboding/vue-sonner</title>
-    <updated>2023-03-31T01:47:24Z</updated>
-    <id>tag:github.com,2023-03-31:/xiaoluoboding/vue-sonner</id>
-    <link href="https://github.com/xiaoluoboding/vue-sonner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔔 An opinionated toast component for Vue.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AstraSurge/gpteams</title>
+    <updated>2023-04-01T01:47:32Z</updated>
+    <id>tag:github.com,2023-04-01:/AstraSurge/gpteams</id>
+    <link href="https://github.com/AstraSurge/gpteams" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GPTeams is a third-party client tailored for ChatGPT, based on the OpenAI API, designed to provide users with team collaboration features not covered by the official OPEN AI ChatGPT website.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

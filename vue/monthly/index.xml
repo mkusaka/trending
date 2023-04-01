@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-01T02:24:37Z</updated>
+  <subtitle>Monthly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Chanzhaoyu/chatgpt-web</title>
+    <updated>2023-04-01T02:24:37Z</updated>
+    <id>tag:github.com,2023-04-01:/Chanzhaoyu/chatgpt-web</id>
+    <link href="https://github.com/Chanzhaoyu/chatgpt-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;用 Express 和 Vue3 搭建的 ChatGPT 演示网页&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yangzongzhuan/RuoYi-Vue3</title>
+    <updated>2023-04-01T02:24:37Z</updated>
+    <id>tag:github.com,2023-04-01:/yangzongzhuan/RuoYi-Vue3</id>
+    <link href="https://github.com/yangzongzhuan/RuoYi-Vue3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 &amp; Vite、Element Plus 的前后端分离权限管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>un-pany/v3-admin-vite</title>
+    <updated>2023-04-01T02:24:37Z</updated>
+    <id>tag:github.com,2023-04-01:/un-pany/v3-admin-vite</id>
+    <link href="https://github.com/un-pany/v3-admin-vite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-01T02:09:39Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>palantir/gulp-count</title>
+    <updated>2023-04-01T02:09:39Z</updated>
+    <id>tag:github.com,2023-04-01:/palantir/gulp-count</id>
+    <link href="https://github.com/palantir/gulp-count" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Counts files in vinyl streams.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HashNuke/pixelart-editor</title>
+    <updated>2023-04-01T02:09:39Z</updated>
+    <id>tag:github.com,2023-04-01:/HashNuke/pixelart-editor</id>
+    <link href="https://github.com/HashNuke/pixelart-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a pixel art editor using HTML DIVs for my HackerSchool application&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Shopify/twine</title>
+    <updated>2023-04-01T02:09:39Z</updated>
+    <id>tag:github.com,2023-04-01:/Shopify/twine</id>
+    <link href="https://github.com/Shopify/twine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Twine is a minimalistic two-way binding system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

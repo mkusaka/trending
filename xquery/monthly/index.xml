@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub XQuery Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-01T02:25:06Z</updated>
+  <subtitle>Monthly Trending of XQuery in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adamretter/expath-package-archetype</title>
+    <updated>2023-04-01T02:25:06Z</updated>
+    <id>tag:github.com,2023-04-01:/adamretter/expath-package-archetype</id>
+    <link href="https://github.com/adamretter/expath-package-archetype" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Maven Archetype for EXPath Packages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

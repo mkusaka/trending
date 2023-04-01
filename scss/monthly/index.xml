@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-01T02:21:55Z</updated>
+  <subtitle>Monthly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>creativetimofficial/material-dashboard</title>
+    <updated>2023-04-01T02:21:55Z</updated>
+    <id>tag:github.com,2023-04-01:/creativetimofficial/material-dashboard</id>
+    <link href="https://github.com/creativetimofficial/material-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material Dashboard - Open Source Bootstrap 5 Material Design Admin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zerostaticthemes/hugo-hero-theme</title>
+    <updated>2023-04-01T02:21:55Z</updated>
+    <id>tag:github.com,2023-04-01:/zerostaticthemes/hugo-hero-theme</id>
+    <link href="https://github.com/zerostaticthemes/hugo-hero-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A multi-page Hugo theme with fullscreen hero images and fullwidth sections.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ClearVision/ClearVision-v6</title>
+    <updated>2023-04-01T02:21:55Z</updated>
+    <id>tag:github.com,2023-04-01:/ClearVision/ClearVision-v6</id>
+    <link href="https://github.com/ClearVision/ClearVision-v6" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highly customizable theme for BetterDiscord.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenQASM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-31T01:40:49Z</updated>
+  <updated>2023-04-01T01:40:40Z</updated>
   <subtitle>Daily Trending of OpenQASM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Qiskit/qiskit-metapackage</title>
+    <updated>2023-04-01T01:40:40Z</updated>
+    <id>tag:github.com,2023-04-01:/Qiskit/qiskit-metapackage</id>
+    <link href="https://github.com/Qiskit/qiskit-metapackage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

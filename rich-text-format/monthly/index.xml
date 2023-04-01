@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Rich Text Format Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-01T02:21:00Z</updated>
+  <subtitle>Monthly Trending of Rich Text Format in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ckeditor/ckeditor5</title>
+    <updated>2023-04-01T02:21:00Z</updated>
+    <id>tag:github.com,2023-04-01:/ckeditor/ckeditor5</id>
+    <link href="https://github.com/ckeditor/ckeditor5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

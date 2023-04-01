@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-03-31T01:45:13Z</updated>
+  <updated>2023-04-01T01:45:24Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Virtuswap/v1-core</title>
+    <updated>2023-04-01T01:45:24Z</updated>
+    <id>tag:github.com,2023-04-01:/Virtuswap/v1-core</id>
+    <link href="https://github.com/Virtuswap/v1-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solidity smart contracts implementation of Virtuswap protocol&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SusanoO-O/BattleHeroContract-NFT-Game-</title>
+    <updated>2023-04-01T01:45:24Z</updated>
+    <id>tag:github.com,2023-04-01:/SusanoO-O/BattleHeroContract-NFT-Game-</id>
+    <link href="https://github.com/SusanoO-O/BattleHeroContract-NFT-Game-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0xPolygonID/tutorial-examples</title>
+    <updated>2023-04-01T01:45:24Z</updated>
+    <id>tag:github.com,2023-04-01:/0xPolygonID/tutorial-examples</id>
+    <link href="https://github.com/0xPolygonID/tutorial-examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
