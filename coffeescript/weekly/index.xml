@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-02T01:51:39Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>geelen/melbjs-demo</title>
+    <updated>2023-04-02T01:51:39Z</updated>
+    <id>tag:github.com,2023-04-02:/geelen/melbjs-demo</id>
+    <link href="https://github.com/geelen/melbjs-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A demo of AngularJS I presented at MelbJS on Jan 8, 2013&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>justspamjustin/grunt-bookmarklet-thingy</title>
+    <updated>2023-04-02T01:51:39Z</updated>
+    <id>tag:github.com,2023-04-02:/justspamjustin/grunt-bookmarklet-thingy</id>
+    <link href="https://github.com/justspamjustin/grunt-bookmarklet-thingy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Add creation of bookmarklets to your grunt build.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

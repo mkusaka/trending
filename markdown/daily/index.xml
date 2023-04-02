@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:38:55Z</updated>
+  <updated>2023-04-02T01:39:27Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Anmol-Baranwal/Awesome-Illustrations-4Projects</title>
+    <updated>2023-04-02T01:39:27Z</updated>
+    <id>tag:github.com,2023-04-02:/Anmol-Baranwal/Awesome-Illustrations-4Projects</id>
+    <link href="https://github.com/Anmol-Baranwal/Awesome-Illustrations-4Projects" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 An awesome list of illustrations to improve your projects, posts &amp; portfolios. Fork &amp; add your own.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>XCPCIO/xcpcio.uptime</title>
+    <updated>2023-04-02T01:39:27Z</updated>
+    <id>tag:github.com,2023-04-02:/XCPCIO/xcpcio.uptime</id>
+    <link href="https://github.com/XCPCIO/xcpcio.uptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for XCPCIO, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BuyWithCrypto/status</title>
+    <updated>2023-04-02T01:39:27Z</updated>
+    <id>tag:github.com,2023-04-02:/BuyWithCrypto/status</id>
+    <link href="https://github.com/BuyWithCrypto/status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uptime of BuyWithCrypto services&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

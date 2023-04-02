@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:31:15Z</updated>
+  <updated>2023-04-02T01:31:48Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wenzhenxiang/starkhitchhiker</title>
+    <updated>2023-04-02T01:31:48Z</updated>
+    <id>tag:github.com,2023-04-02:/wenzhenxiang/starkhitchhiker</id>
+    <link href="https://github.com/wenzhenxiang/starkhitchhiker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collecting the best learning materials for Stark, StarkNet, and Cairo to provide convenience for Chinese users so that they can participate better in the construction of Stark.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-02T01:49:43Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudwego/dynamicgo</title>
+    <updated>2023-04-02T01:49:43Z</updated>
+    <id>tag:github.com,2023-04-02:/cloudwego/dynamicgo</id>
+    <link href="https://github.com/cloudwego/dynamicgo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dynamically and efficiently operate data for Go&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dpt/The-Great-Escape</title>
+    <updated>2023-04-02T01:49:43Z</updated>
+    <id>tag:github.com,2023-04-02:/dpt/The-Great-Escape</id>
+    <link href="https://github.com/dpt/The-Great-Escape" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Classic ZX Spectrum game &#34;The Great Escape&#34; reverse engineered&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>idaholab/malamute</title>
+    <updated>2023-04-02T01:49:43Z</updated>
+    <id>tag:github.com,2023-04-02:/idaholab/malamute</id>
+    <link href="https://github.com/idaholab/malamute" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced manufacturing modeling and simulation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

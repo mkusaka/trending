@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:44:39Z</updated>
+  <updated>2023-04-02T01:44:54Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>devYuMinKim/devYuMinKim.github.io</title>
-    <updated>2023-04-01T01:44:39Z</updated>
-    <id>tag:github.com,2023-04-01:/devYuMinKim/devYuMinKim.github.io</id>
-    <link href="https://github.com/devYuMinKim/devYuMinKim.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;僕の日常、物語が込められた場所&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ebelinski/iosref</title>
-    <updated>2023-04-01T01:44:39Z</updated>
-    <id>tag:github.com,2023-04-01:/ebelinski/iosref</id>
-    <link href="https://github.com/ebelinski/iosref" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A one-stop quick reference spot for iOS developers. 🔎&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>creativetimofficial/vue-white-dashboard</title>
-    <updated>2023-04-01T01:44:39Z</updated>
-    <id>tag:github.com,2023-04-01:/creativetimofficial/vue-white-dashboard</id>
-    <link href="https://github.com/creativetimofficial/vue-white-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue White Dashboard by Creative Tim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>catppuccin/gitea</title>
+    <updated>2023-04-02T01:44:54Z</updated>
+    <id>tag:github.com,2023-04-02:/catppuccin/gitea</id>
+    <link href="https://github.com/catppuccin/gitea" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍵 Soothing pastel theme for Gitea&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-02T01:59:07Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Nusantara-ROM/android_system_sepolicy</title>
+    <updated>2023-04-02T01:59:07Z</updated>
+    <id>tag:github.com,2023-04-02:/Nusantara-ROM/android_system_sepolicy</id>
+    <link href="https://github.com/Nusantara-ROM/android_system_sepolicy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nusantara-ROM/android_device_qcom_sepolicy_vndr</title>
+    <updated>2023-04-02T01:59:07Z</updated>
+    <id>tag:github.com,2023-04-02:/Nusantara-ROM/android_device_qcom_sepolicy_vndr</id>
+    <link href="https://github.com/Nusantara-ROM/android_device_qcom_sepolicy_vndr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Nusantara-ROM/android_device_qcom_sepolicy-legacy-um</title>
+    <updated>2023-04-02T01:59:07Z</updated>
+    <id>tag:github.com,2023-04-02:/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um</id>
+    <link href="https://github.com/Nusantara-ROM/android_device_qcom_sepolicy-legacy-um" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

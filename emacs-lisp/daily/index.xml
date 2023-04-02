@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:33:27Z</updated>
+  <updated>2023-04-02T01:34:19Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dminaev/dot.emacs</title>
-    <updated>2023-04-01T01:33:27Z</updated>
-    <id>tag:github.com,2023-04-01:/dminaev/dot.emacs</id>
-    <link href="https://github.com/dminaev/dot.emacs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jack-oquin/dotfiles</title>
+    <updated>2023-04-02T01:34:19Z</updated>
+    <id>tag:github.com,2023-04-02:/jack-oquin/dotfiles</id>
+    <link href="https://github.com/jack-oquin/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;some login initialization files&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dotfiles&lt;/h1&gt; &#xA;&lt;p&gt;Some home directory configuration files.&lt;/p&gt; &#xA;&lt;h1&gt;Usage:&lt;/h1&gt; &#xA;&lt;p&gt;To get these files and link them into the home directory:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd&#xA;git clone https://github.com/jack-oquin/dotfiles.git .dotfiles&#xA;.dotfiles/bin/link-home&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

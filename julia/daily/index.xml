@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:37:33Z</updated>
+  <updated>2023-04-02T01:38:01Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaQuant/MarketTechnicals.jl</title>
+    <updated>2023-04-02T01:38:01Z</updated>
+    <id>tag:github.com,2023-04-02:/JuliaQuant/MarketTechnicals.jl</id>
+    <link href="https://github.com/JuliaQuant/MarketTechnicals.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Technical analysis of financial time series in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YichengDWu/FlashAttention.jl</title>
+    <updated>2023-04-02T01:38:01Z</updated>
+    <id>tag:github.com,2023-04-02:/YichengDWu/FlashAttention.jl</id>
+    <link href="https://github.com/YichengDWu/FlashAttention.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia implementation of the Flash Attention algorithm&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bradcarman/ModelingToolkitDesigner.jl</title>
+    <updated>2023-04-02T01:38:01Z</updated>
+    <id>tag:github.com,2023-04-02:/bradcarman/ModelingToolkitDesigner.jl</id>
+    <link href="https://github.com/bradcarman/ModelingToolkitDesigner.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A helper tool for visualizing and editing a ModelingToolkit.jl system connections&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

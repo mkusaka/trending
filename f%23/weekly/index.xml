@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F# Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-02T01:54:06Z</updated>
+  <subtitle>Weekly Trending of F# in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>brianberns/RedditChatBot</title>
+    <updated>2023-04-02T01:54:06Z</updated>
+    <id>tag:github.com,2023-04-02:/brianberns/RedditChatBot</id>
+    <link href="https://github.com/brianberns/RedditChatBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A framework for chat bots that connect Reddit to ChatGPT.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Currently running on Reddit as &lt;a href=&#34;https://www.reddit.com/user/friendly-chat-bot/&#34;&gt;/u/friendly-chat-bot&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-02T02:06:28Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>moeakwak/chatgpt-web-share</title>
+    <updated>2023-04-02T02:06:28Z</updated>
+    <id>tag:github.com,2023-04-02:/moeakwak/chatgpt-web-share</id>
+    <link href="https://github.com/moeakwak/chatgpt-web-share" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web application that allows multiple users to share one ChatGPT account at the same time, developed using unofficial ChatGPT API &amp; fastapi &amp; vue3. Supports GPT-4! 共享 ChatGPT 账号给多用户同时使用，可用于朋友之间共享或合租 ChatGPT 账号。使用 FastAPI + Vue3 开发。支持 ChatGPT Plus / 使用 GPT-4 / 用户请求限制等功能。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zuoFeng59556/chatGPT</title>
+    <updated>2023-04-02T02:06:28Z</updated>
+    <id>tag:github.com,2023-04-02:/zuoFeng59556/chatGPT</id>
+    <link href="https://github.com/zuoFeng59556/chatGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 laf 开发的 chatGPT 免费 免登录 免翻墙 点击开聊&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>isekaidev/stable.art</title>
+    <updated>2023-04-02T02:06:28Z</updated>
+    <id>tag:github.com,2023-04-02:/isekaidev/stable.art</id>
+    <link href="https://github.com/isekaidev/stable.art" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

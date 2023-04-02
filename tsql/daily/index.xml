@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:46:48Z</updated>
+  <updated>2023-04-02T01:46:56Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>atlas-bi/atlas-bi-library-etl</title>
-    <updated>2023-04-01T01:46:48Z</updated>
-    <id>tag:github.com,2023-04-01:/atlas-bi/atlas-bi-library-etl</id>
-    <link href="https://github.com/atlas-bi/atlas-bi-library-etl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚙️ Atlas ETL | The unified report library ETL.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

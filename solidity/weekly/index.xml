@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-02T02:04:42Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>AztecProtocol/aztec3-l1-contracts</title>
+    <updated>2023-04-02T02:04:42Z</updated>
+    <id>tag:github.com,2023-04-02:/AztecProtocol/aztec3-l1-contracts</id>
+    <link href="https://github.com/AztecProtocol/aztec3-l1-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;L1 contracts for Aztec3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>0xPolygon/core-contracts</title>
+    <updated>2023-04-02T02:04:42Z</updated>
+    <id>tag:github.com,2023-04-02:/0xPolygon/core-contracts</id>
+    <link href="https://github.com/0xPolygon/core-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ExtropyIO/ExpertSolidityBootcamp</title>
+    <updated>2023-04-02T02:04:42Z</updated>
+    <id>tag:github.com,2023-04-02:/ExtropyIO/ExpertSolidityBootcamp</id>
+    <link href="https://github.com/ExtropyIO/ExpertSolidityBootcamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-02T01:49:58Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ahmadali322/FREE-RDP</title>
+    <updated>2023-04-02T01:49:58Z</updated>
+    <id>tag:github.com,2023-04-02:/Ahmadali322/FREE-RDP</id>
+    <link href="https://github.com/Ahmadali322/FREE-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>techienikhil/Office-2019-Activator</title>
+    <updated>2023-04-02T01:49:58Z</updated>
+    <id>tag:github.com,2023-04-02:/techienikhil/Office-2019-Activator</id>
+    <link href="https://github.com/techienikhil/Office-2019-Activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>serpotapov/Kohya_ss-GUI-LoRA-Portable</title>
+    <updated>2023-04-02T01:49:58Z</updated>
+    <id>tag:github.com,2023-04-02:/serpotapov/Kohya_ss-GUI-LoRA-Portable</id>
+    <link href="https://github.com/serpotapov/Kohya_ss-GUI-LoRA-Portable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kohya_ss GUI (LoRA) Portable&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

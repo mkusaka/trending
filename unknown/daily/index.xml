@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:29:02Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-04-02T01:29:44Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>osanseviero/ml_timeline</title>
-    <updated>2023-04-01T01:29:02Z</updated>
-    <id>tag:github.com,2023-04-01:/osanseviero/ml_timeline</id>
-    <link href="https://github.com/osanseviero/ml_timeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>travistangvh/ChatGPT-Data-Science-Prompts</title>
+    <updated>2023-04-02T01:29:44Z</updated>
+    <id>tag:github.com,2023-04-02:/travistangvh/ChatGPT-Data-Science-Prompts</id>
+    <link href="https://github.com/travistangvh/ChatGPT-Data-Science-Prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository of 60 useful data science prompts for ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>XueFuzhao/InstructionWild</title>
-    <updated>2023-04-01T01:29:02Z</updated>
-    <id>tag:github.com,2023-04-01:/XueFuzhao/InstructionWild</id>
-    <link href="https://github.com/XueFuzhao/InstructionWild" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Gorilla-Lab-SCUT/Fantasia3D</title>
+    <updated>2023-04-02T01:29:44Z</updated>
+    <id>tag:github.com,2023-04-02:/Gorilla-Lab-SCUT/Fantasia3D</id>
+    <link href="https://github.com/Gorilla-Lab-SCUT/Fantasia3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;official repository for &#34;Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jivoi/awesome-osint</title>
-    <updated>2023-04-01T01:29:02Z</updated>
-    <id>tag:github.com,2023-04-01:/jivoi/awesome-osint</id>
-    <link href="https://github.com/jivoi/awesome-osint" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;😱 A curated list of amazingly awesome OSINT&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Dujltqzv/Some-Many-Books</title>
+    <updated>2023-04-02T01:29:44Z</updated>
+    <id>tag:github.com,2023-04-02:/Dujltqzv/Some-Many-Books</id>
+    <link href="https://github.com/Dujltqzv/Some-Many-Books" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;个人收藏书籍列表　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　 　 　 　…&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

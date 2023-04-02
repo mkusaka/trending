@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:38:50Z</updated>
+  <updated>2023-04-02T01:39:21Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>joho/7XX-rfc</title>
+    <updated>2023-04-02T01:39:21Z</updated>
+    <id>tag:github.com,2023-04-02:/joho/7XX-rfc</id>
+    <link href="https://github.com/joho/7XX-rfc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An RFC for a new series of HTTP status codes covering developer fouls.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

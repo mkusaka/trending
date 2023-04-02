@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:40:29Z</updated>
+  <updated>2023-04-02T01:41:03Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wasp-platform/encoding</title>
+    <updated>2023-04-02T01:41:03Z</updated>
+    <id>tag:github.com,2023-04-02:/wasp-platform/encoding</id>
+    <link href="https://github.com/wasp-platform/encoding" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCaml Z3 symbolic value encoding library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

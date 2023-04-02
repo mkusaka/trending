@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:45:51Z</updated>
+  <updated>2023-04-02T01:46:09Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nasa-jpl/svelte-stellar</title>
-    <updated>2023-04-01T01:45:51Z</updated>
-    <id>tag:github.com,2023-04-01:/nasa-jpl/svelte-stellar</id>
-    <link href="https://github.com/nasa-jpl/svelte-stellar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Svelte implementation of the Stellar design system for spacecraft operations tools.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primocms/primo-server</title>
+    <updated>2023-04-02T01:46:09Z</updated>
+    <id>tag:github.com,2023-04-02:/primocms/primo-server</id>
+    <link href="https://github.com/primocms/primo-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run primo on your own server to use it from anywhere &amp; invite collaborators&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TGlide/radix-svelte</title>
-    <updated>2023-04-01T01:45:51Z</updated>
-    <id>tag:github.com,2023-04-01:/TGlide/radix-svelte</id>
-    <link href="https://github.com/TGlide/radix-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stordahl/svelte-right-click</title>
-    <updated>2023-04-01T01:45:51Z</updated>
-    <id>tag:github.com,2023-04-01:/stordahl/svelte-right-click</id>
-    <link href="https://github.com/stordahl/svelte-right-click" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Custom Context Menu for your Svelte Application&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arlac77/hook-ci-frontend-svelte</title>
+    <updated>2023-04-02T01:46:09Z</updated>
+    <id>tag:github.com,2023-04-02:/arlac77/hook-ci-frontend-svelte</id>
+    <link href="https://github.com/arlac77/hook-ci-frontend-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;svelte frontend for hook-ci&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

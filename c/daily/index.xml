@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-01T01:30:46Z</updated>
+  <updated>2023-04-02T01:31:19Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cmuratori/misc</title>
+    <updated>2023-04-02T01:31:19Z</updated>
+    <id>tag:github.com,2023-04-02:/cmuratori/misc</id>
+    <link href="https://github.com/cmuratori/misc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clippings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>holbertonschool/make_magic_happen</title>
+    <updated>2023-04-02T01:31:19Z</updated>
+    <id>tag:github.com,2023-04-02:/holbertonschool/make_magic_happen</id>
+    <link href="https://github.com/holbertonschool/make_magic_happen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make Magic Happen&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;make_magic_happen&lt;/h1&gt; &#xA;&lt;p&gt;Make Magic Happen&lt;/p&gt;</summary>
+  </entry>
 </feed>

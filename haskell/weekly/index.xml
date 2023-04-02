@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-02T01:55:36Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ocharles/libsystemd-journal</title>
+    <updated>2023-04-02T01:55:36Z</updated>
+    <id>tag:github.com,2023-04-02:/ocharles/libsystemd-journal</id>
+    <link href="https://github.com/ocharles/libsystemd-journal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haskell bindings to libsystemd-journal&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nicuveo/Slides_GameOfLife</title>
+    <updated>2023-04-02T01:55:36Z</updated>
+    <id>tag:github.com,2023-04-02:/nicuveo/Slides_GameOfLife</id>
+    <link href="https://github.com/nicuveo/Slides_GameOfLife" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slides of &#34;Game of Life: an Introduction to Haskell&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Slides: Game of Life&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;\title{Game of Life: an introduction to Haskell}&lt;br&gt; \author{Antoine Leblanc \\ \small{&lt;a href=&#34;mailto:antoine.jp.leblanc@gmail.com&#34;&gt;antoine.jp.leblanc@gmail.com&lt;/a&gt;}}&lt;br&gt; \institute{\footnotesize{\emph{Haskell Paris}}}&lt;br&gt; \date{January, 2013}&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
+  </entry>
+  <entry>
+    <title>sirech/xmonad</title>
+    <updated>2023-04-02T01:55:36Z</updated>
+    <id>tag:github.com,2023-04-02:/sirech/xmonad</id>
+    <link href="https://github.com/sirech/xmonad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configuration files for the XMonad tiling window manager&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;XMonad Configuration&lt;/h1&gt; &#xA;&lt;p&gt;This is intended as a configuration for &lt;em&gt;XMonad&lt;/em&gt; for a development machine. It is intended to support Eclipse, Emacs and a Terminal running tmux, as well as mail. Some keys are remapped to use the windows key when possible.&lt;/p&gt; &#xA;&lt;h2&gt;XMonad&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://xmonad.org&#34;&gt;XMonad&lt;/a&gt; is a window tiling manager. This means that windows are automatically resized and moved for you.&lt;/p&gt; &#xA;&lt;h2&gt;Installing XMonad&lt;/h2&gt; &#xA;&lt;p&gt;Assuming the path to this repository is &lt;em&gt;MONAD&lt;/em&gt;:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Grab &lt;em&gt;xmonad&lt;/em&gt;: &lt;code&gt;sudo apt-get install xmonad&lt;/code&gt;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Link the config: &lt;code&gt;mkdir ~/.xmonad &amp;amp;&amp;amp; ln -s MONAD/xmonad.hs ~/.xmonad&lt;/code&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;GNOME and XMonad&lt;/h3&gt; &#xA;&lt;p&gt;XMonad can be used to replace the default window manager in GNOME (metacity). The steps are different depending on the Ubuntu distribution. Check the subfolders for instructions.&lt;/p&gt; &#xA;&lt;h2&gt;Troubleshooting&lt;/h2&gt; &#xA;&lt;p&gt;If &lt;em&gt;xmonad&lt;/em&gt; won&#39;t start, try removing the &lt;code&gt;file ~/.xmonad/xmonad-x86_64-linux&lt;/code&gt;, which will be recreated.&lt;/p&gt; &#xA;&lt;h3&gt;Getting the information of a window&lt;/h3&gt; &#xA;&lt;p&gt;Use the &lt;code&gt;xprop&lt;/code&gt; tool to find the class name, window name or other properties.&lt;/p&gt; &#xA;&lt;h3&gt;Monitors in wrong order&lt;/h3&gt; &#xA;&lt;p&gt;It can happen that the monitors get listed in the incorrect order, and thus the mod-{w,e} keys will not work properly. &lt;a href=&#34;http://blog.ezyang.com/2011/06/multi-monitor-xmobar-placement-on-nome&#34;&gt;This will help&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
