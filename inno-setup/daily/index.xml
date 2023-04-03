@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inno Setup Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:37:01Z</updated>
+  <updated>2023-04-03T01:35:58Z</updated>
   <subtitle>Daily Trending of Inno Setup in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>D4koon/WhatsappTray</title>
-    <updated>2023-04-02T01:37:01Z</updated>
-    <id>tag:github.com,2023-04-02:/D4koon/WhatsappTray</id>
-    <link href="https://github.com/D4koon/WhatsappTray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Minimize Whatsapp Desktop-Client to Tray&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

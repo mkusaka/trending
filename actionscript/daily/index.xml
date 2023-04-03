@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:30:04Z</updated>
+  <updated>2023-04-03T01:29:05Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NMMainville/InventoryManagement</title>
-    <updated>2023-04-02T01:30:04Z</updated>
-    <id>tag:github.com,2023-04-02:/NMMainville/InventoryManagement</id>
-    <link href="https://github.com/NMMainville/InventoryManagement" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An idea for managing a player&#39;s inventory in certain games&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

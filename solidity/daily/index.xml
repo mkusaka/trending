@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:45:41Z</updated>
+  <updated>2023-04-03T01:43:31Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>skip-mev/skipper</title>
-    <updated>2023-04-02T01:45:41Z</updated>
-    <id>tag:github.com,2023-04-02:/skip-mev/skipper</id>
-    <link href="https://github.com/skip-mev/skipper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Example MEV searching bot for the Cosmos ecosystem, using Skip.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>router-resources/Workshop-ERC20</title>
+    <updated>2023-04-03T01:43:31Z</updated>
+    <id>tag:github.com,2023-04-03:/router-resources/Workshop-ERC20</id>
+    <link href="https://github.com/router-resources/Workshop-ERC20" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kkoshiya/scale</title>
+    <updated>2023-04-03T01:43:31Z</updated>
+    <id>tag:github.com,2023-04-03:/kkoshiya/scale</id>
+    <link href="https://github.com/kkoshiya/scale" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:47:43Z</updated>
+  <updated>2023-04-03T01:45:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Synaptrix/ChatGPT-Desktop</title>
+    <updated>2023-04-03T01:45:15Z</updated>
+    <id>tag:github.com,2023-04-03:/Synaptrix/ChatGPT-Desktop</id>
+    <link href="https://github.com/Synaptrix/ChatGPT-Desktop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hooray/fantastic-admin</title>
+    <updated>2023-04-03T01:45:15Z</updated>
+    <id>tag:github.com,2023-04-03:/hooray/fantastic-admin</id>
+    <link href="https://github.com/hooray/fantastic-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭐⭐⭐⭐⭐一款开箱即用的 Vue 中后台管理系统框架，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SevenTV/Extension</title>
+    <updated>2023-04-03T01:45:15Z</updated>
+    <id>tag:github.com,2023-04-03:/SevenTV/Extension</id>
+    <link href="https://github.com/SevenTV/Extension" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Web Extension for 7TV, bringing new features, emotes, vanity and performance to Twitch &amp; YouTube&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

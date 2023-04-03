@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:40:28Z</updated>
+  <updated>2023-04-03T01:39:05Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LongerHV/nixos-configuration</title>
-    <updated>2023-04-02T01:40:28Z</updated>
-    <id>tag:github.com,2023-04-02:/LongerHV/nixos-configuration</id>
-    <link href="https://github.com/LongerHV/nixos-configuration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danielfullmer/robotnix</title>
+    <updated>2023-04-03T01:39:05Z</updated>
+    <id>tag:github.com,2023-04-03:/danielfullmer/robotnix</id>
+    <link href="https://github.com/danielfullmer/robotnix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Build Android (AOSP) using Nix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cpcloud/flake-update-action</title>
+    <updated>2023-04-03T01:39:05Z</updated>
+    <id>tag:github.com,2023-04-03:/cpcloud/flake-update-action</id>
+    <link href="https://github.com/cpcloud/flake-update-action" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A GitHub action to automatically update nix flake dependencies&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mcwitt/nix-config</title>
+    <updated>2023-04-03T01:39:05Z</updated>
+    <id>tag:github.com,2023-04-03:/mcwitt/nix-config</id>
+    <link href="https://github.com/mcwitt/nix-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My NixOS configuration and nixpkgs overlays&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

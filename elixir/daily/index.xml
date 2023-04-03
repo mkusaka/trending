@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:34:12Z</updated>
+  <updated>2023-04-03T01:32:59Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>adobe/elixir-styler</title>
-    <updated>2023-04-02T01:34:12Z</updated>
-    <id>tag:github.com,2023-04-02:/adobe/elixir-styler</id>
-    <link href="https://github.com/adobe/elixir-styler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lexical-lsp/lexical</title>
+    <updated>2023-04-03T01:32:59Z</updated>
+    <id>tag:github.com,2023-04-03:/lexical-lsp/lexical</id>
+    <link href="https://github.com/lexical-lsp/lexical" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lexical is a next-generation elixir language server&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

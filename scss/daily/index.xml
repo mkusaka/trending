@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:44:54Z</updated>
+  <updated>2023-04-03T01:42:48Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>catppuccin/gitea</title>
-    <updated>2023-04-02T01:44:54Z</updated>
-    <id>tag:github.com,2023-04-02:/catppuccin/gitea</id>
-    <link href="https://github.com/catppuccin/gitea" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍵 Soothing pastel theme for Gitea&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Spiderpig86/Cirrus</title>
+    <updated>2023-04-03T01:42:48Z</updated>
+    <id>tag:github.com,2023-04-03:/Spiderpig86/Cirrus</id>
+    <link href="https://github.com/Spiderpig86/Cirrus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;☁️ The SCSS framework for the modern web.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

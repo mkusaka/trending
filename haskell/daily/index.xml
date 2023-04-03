@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:36:09Z</updated>
+  <updated>2023-04-03T01:35:01Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jenaiz/RWH-Book</title>
-    <updated>2023-04-02T01:36:09Z</updated>
-    <id>tag:github.com,2023-04-02:/jenaiz/RWH-Book</id>
-    <link href="https://github.com/jenaiz/RWH-Book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Samples, notes and more of the book: Real World Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RWH-Book&lt;/h1&gt; &#xA;&lt;p&gt;This repository are notes taken while I am reading [&#34;Real World Haskell&#34;][1] a book wrote by Bryan O&#39;Sullivan, Don Stewart, and John Goerzen.&lt;/p&gt; &#xA;&lt;p&gt;These notes are only for my own, I don&#39;t know if someone is going to find them interesting. My objective is to organize in a way that I could find things like in a cheapsheet. In some way this is an experiment.&lt;/p&gt; &#xA;&lt;h2&gt;Notes&lt;/h2&gt; &#xA;&lt;p&gt;-- ghci -&amp;gt; haskell interactive console&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-hashkell&#34;&gt;:set prompt &#34;alba&amp;gt; &#34; &#x9;-- change the prompt&#xA;(+) 2 3 &#x9;-- add the two numbers&#xA;[1,2,3] ++ [4,5] &#x9;-- add the two lists&#xA;2 /= 3 &#x9;&#x9;-- True&#xA;-- exponential&#xA;2 ^ 3&#xA;-- exponential &#xA;2 ** 2.3&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;-- lost notes before (from page 12) --&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Copyright... [1]: &lt;a href=&#34;http://book.realworldhaskell.org/&#34;&gt;http://book.realworldhaskell.org/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

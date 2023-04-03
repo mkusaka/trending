@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-02T01:34:09Z</updated>
+  <updated>2023-04-03T01:32:56Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mrat-fr/Fin</title>
-    <updated>2023-04-02T01:34:09Z</updated>
-    <id>tag:github.com,2023-04-02:/Mrat-fr/Fin</id>
-    <link href="https://github.com/Mrat-fr/Fin" rel="alternate"></link>
+    <title>seir-flex/unit-2-lecture-full-build</title>
+    <updated>2023-04-03T01:32:56Z</updated>
+    <id>tag:github.com,2023-04-03:/seir-flex/unit-2-lecture-full-build</id>
+    <link href="https://github.com/seir-flex/unit-2-lecture-full-build" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Safe-RL-Team/viper-verifiable-reinforcement-learning</title>
-    <updated>2023-04-02T01:34:09Z</updated>
-    <id>tag:github.com,2023-04-02:/Safe-RL-Team/viper-verifiable-reinforcement-learning</id>
-    <link href="https://github.com/Safe-RL-Team/viper-verifiable-reinforcement-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The blog post accompanying the implementation of the paper &#34;Viper: Verifiable Reinforcement Learning via Policy Extraction&#34; by Bastani et al.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>desphixs/Node.Js-Authentication-System</title>
+    <updated>2023-04-03T01:32:56Z</updated>
+    <id>tag:github.com,2023-04-03:/desphixs/Node.Js-Authentication-System</id>
+    <link href="https://github.com/desphixs/Node.Js-Authentication-System" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
