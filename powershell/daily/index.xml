@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-03T01:40:44Z</updated>
+  <updated>2023-04-04T01:41:10Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fakhrane/windrdpfakhrane</title>
-    <updated>2023-04-03T01:40:44Z</updated>
-    <id>tag:github.com,2023-04-03:/fakhrane/windrdpfakhrane</id>
-    <link href="https://github.com/fakhrane/windrdpfakhrane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Comment utiliser Forkez simplement ce référentiel, accédez à l&#39;onglet Actions, sélectionnez le flux de travail Windows-CRD. Ensuite, sélectionnez Exécuter le flux de travail, remplissez les données suivantes dans le code CRD et votre épingle dans les champs. Après cela, appuyez sur Démarrer. Saisissez le code suivant dans les champs. Obtenez la …&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;windrdpfakhrane&lt;/h1&gt; &#xA;&lt;p&gt;Comment utiliser Forkez simplement ce référentiel, accédez à l&#39;onglet Actions, sélectionnez le flux de travail Windows-CRD. Ensuite, sélectionnez Exécuter le flux de travail, remplissez les données suivantes dans le code CRD et votre épingle dans les champs. Après cela, appuyez sur Démarrer. Saisissez le code suivant dans les champs. Obtenez la commande Windows (Powershell) à partir d&#39;ici: &lt;a href=&#34;https://remotedesktop.google.com/headless&#34;&gt;https://remotedesktop.google.com/headless&lt;/a&gt; Entrez votre code PIN à six chiffres pour vous connecter (Toute broche à six chiffres) C&#39;est tout ... Après 2-3 minutes d&#39;initialisation, vérifiez votre application CRD ou votre compte.&lt;/p&gt;</summary>
-  </entry>
 </feed>

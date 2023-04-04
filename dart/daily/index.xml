@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-03T01:31:53Z</updated>
+  <updated>2023-04-04T01:32:19Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dudecoderr/Electronics_E-Commerce_App_in_flutter</title>
-    <updated>2023-04-03T01:31:53Z</updated>
-    <id>tag:github.com,2023-04-03:/dudecoderr/Electronics_E-Commerce_App_in_flutter</id>
-    <link href="https://github.com/dudecoderr/Electronics_E-Commerce_App_in_flutter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;electronics_e_commerce_app&lt;/h1&gt; &#xA;&lt;p&gt;A new Flutter project.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;This project is a starting point for a Flutter application.&lt;/p&gt; &#xA;&lt;p&gt;A few resources to get you started if this is your first Flutter project:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.flutter.dev/get-started/codelab&#34;&gt;Lab: Write your first Flutter app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.flutter.dev/cookbook&#34;&gt;Cookbook: Useful Flutter samples&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For help getting started with Flutter development, view the &lt;a href=&#34;https://docs.flutter.dev/&#34;&gt;online documentation&lt;/a&gt;, which offers tutorials, samples, guidance on mobile development, and a full API reference.&lt;/p&gt; &#xA;&lt;h2&gt;Details&lt;/h2&gt; &#xA;&lt;p&gt;Flutter SDK [3.7.0]&lt;/p&gt; &#xA;&lt;p&gt;Git Branch [master]&lt;/p&gt; &#xA;&lt;p&gt;git link [https://github.com/dudecoderr/Electronics_E-Commerce_App_in_flutter.git ]&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://github.com/dudecoderr/Electronics_E-Commerce_App_in_flutter/raw/master/assets/images/Readme.jpg&#34; width=&#34;600px&#34;&gt; &lt;/p&gt;</summary>
-  </entry>
 </feed>

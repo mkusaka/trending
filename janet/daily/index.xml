@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Janet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-03T01:36:04Z</updated>
+  <updated>2023-04-04T01:36:22Z</updated>
   <subtitle>Daily Trending of Janet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ianthehenry/privy</title>
+    <updated>2023-04-04T01:36:22Z</updated>
+    <id>tag:github.com,2023-04-04:/ianthehenry/privy</id>
+    <link href="https://github.com/ianthehenry/privy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;inline output for the ivy array language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

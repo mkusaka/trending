@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-03T01:28:51Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-04-04T01:29:07Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hourbooster/Pancakeswap-sniper-bot</title>
-    <updated>2023-04-03T01:28:51Z</updated>
-    <id>tag:github.com,2023-04-03:/hourbooster/Pancakeswap-sniper-bot</id>
-    <link href="https://github.com/hourbooster/Pancakeswap-sniper-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pancakeswap Sniper bot written in python 3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chsiang426/ML-2021-notes</title>
+    <updated>2023-04-04T01:29:07Z</updated>
+    <id>tag:github.com,2023-04-04:/chsiang426/ML-2021-notes</id>
+    <link href="https://github.com/chsiang426/ML-2021-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;李宏毅老師 2021 年機器學習課程筆記&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MirageC79/Interfaces-for-WobbleX-integration</title>
-    <updated>2023-04-03T01:28:51Z</updated>
-    <id>tag:github.com,2023-04-03:/MirageC79/Interfaces-for-WobbleX-integration</id>
-    <link href="https://github.com/MirageC79/Interfaces-for-WobbleX-integration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CADs and STLs that can be adapted to various 3D printers in order to benefit from the best Z wobble management system.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>K-Render/best-chinese-prompt</title>
+    <updated>2023-04-04T01:29:07Z</updated>
+    <id>tag:github.com,2023-04-04:/K-Render/best-chinese-prompt</id>
+    <link href="https://github.com/K-Render/best-chinese-prompt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI中文提示词秘籍ChatGPT中文提示词秘籍（Prompt圣经）K-Render整理&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jesselau76/GPT-Prompts</title>
-    <updated>2023-04-03T01:28:51Z</updated>
-    <id>tag:github.com,2023-04-03:/jesselau76/GPT-Prompts</id>
-    <link href="https://github.com/jesselau76/GPT-Prompts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful GPT Prompts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique</title>
+    <updated>2023-04-04T01:29:07Z</updated>
+    <id>tag:github.com,2023-04-04:/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique</id>
+    <link href="https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT提问技巧&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

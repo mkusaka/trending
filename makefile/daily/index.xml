@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-03T01:38:05Z</updated>
+  <updated>2023-04-04T01:38:25Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sirpdboy/luci-app-ddns-go</title>
-    <updated>2023-04-03T01:38:05Z</updated>
-    <id>tag:github.com,2023-04-03:/sirpdboy/luci-app-ddns-go</id>
-    <link href="https://github.com/sirpdboy/luci-app-ddns-go" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;luci-app-ddns-go 自动获得你的公网 IPv4 或 IPv6 地址，并解析到对应的域名服务。支持的域名服务商 Alidns(阿里云) Dnspod(腾讯云) Cloudflare 华为云 Callback 百度云 porkbun GoDaddy&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-03T01:33:53Z</updated>
+  <updated>2023-04-04T01:34:09Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BL-MSCH-C220/Exercise-05d-Networked-Game</title>
-    <updated>2023-04-03T01:33:53Z</updated>
-    <id>tag:github.com,2023-04-03:/BL-MSCH-C220/Exercise-05d-Networked-Game</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-05d-Networked-Game" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qrrk/Catapult</title>
+    <updated>2023-04-04T01:34:09Z</updated>
+    <id>tag:github.com,2023-04-04:/qrrk/Catapult</id>
+    <link href="https://github.com/qrrk/Catapult" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross-platform launcher for Cataclysm: DDA and BN&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>KoBeWi/Godot-Universal-Mod-Manager</title>
+    <updated>2023-04-04T01:34:09Z</updated>
+    <id>tag:github.com,2023-04-04:/KoBeWi/Godot-Universal-Mod-Manager</id>
+    <link href="https://github.com/KoBeWi/Godot-Universal-Mod-Manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Framework for creating and managing mods for any Godot game.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>minosvasilias/godot-copilot</title>
+    <updated>2023-04-04T01:34:09Z</updated>
+    <id>tag:github.com,2023-04-04:/minosvasilias/godot-copilot</id>
+    <link href="https://github.com/minosvasilias/godot-copilot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI-assisted development for the Godot engine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

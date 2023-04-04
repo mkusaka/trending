@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-03T01:35:15Z</updated>
+  <updated>2023-04-04T01:35:32Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kenken64/NUSISS-DevOpsEng</title>
-    <updated>2023-04-03T01:35:15Z</updated>
-    <id>tag:github.com,2023-04-03:/kenken64/NUSISS-DevOpsEng</id>
-    <link href="https://github.com/kenken64/NUSISS-DevOpsEng" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NUS ISS DevOps Engineering - Git, Docker, Docker Compose, Puppet , AWS Code Pipeline/CodeStar, Docker , Kubernetes, Terraform, Ansible&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CloudSkills/Terraform-Projects</title>
-    <updated>2023-04-03T01:35:15Z</updated>
-    <id>tag:github.com,2023-04-03:/CloudSkills/Terraform-Projects</id>
-    <link href="https://github.com/CloudSkills/Terraform-Projects" rel="alternate"></link>
+    <title>vikash-kumar01/mrdevops_java_app</title>
+    <updated>2023-04-04T01:35:32Z</updated>
+    <id>tag:github.com,2023-04-04:/vikash-kumar01/mrdevops_java_app</id>
+    <link href="https://github.com/vikash-kumar01/mrdevops_java_app" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>USSBA/terraform-aws-easy-fargate-service</title>
-    <updated>2023-04-03T01:35:15Z</updated>
-    <id>tag:github.com,2023-04-03:/USSBA/terraform-aws-easy-fargate-service</id>
-    <link href="https://github.com/USSBA/terraform-aws-easy-fargate-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A terraform module to easily stand up a fargate service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>agileguru/gke_ssl_Iac_kcert</title>
+    <updated>2023-04-04T01:35:32Z</updated>
+    <id>tag:github.com,2023-04-04:/agileguru/gke_ssl_Iac_kcert</id>
+    <link href="https://github.com/agileguru/gke_ssl_Iac_kcert" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

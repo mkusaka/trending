@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-03T01:43:55Z</updated>
+  <updated>2023-04-04T01:44:54Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>appwrite/techscrunch</title>
-    <updated>2023-04-03T01:43:55Z</updated>
-    <id>tag:github.com,2023-04-03:/appwrite/techscrunch</id>
-    <link href="https://github.com/appwrite/techscrunch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Very relAIble open source alternative for TechCrunch&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-goal/launcher</title>
+    <updated>2023-04-04T01:44:54Z</updated>
+    <id>tag:github.com,2023-04-04:/open-goal/launcher</id>
+    <link href="https://github.com/open-goal/launcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A launcher for the OpenGOAL Project to simplify usage and installation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Rar9/SimpleCMS</title>
-    <updated>2023-04-03T01:43:55Z</updated>
-    <id>tag:github.com,2023-04-03:/Rar9/SimpleCMS</id>
-    <link href="https://github.com/Rar9/SimpleCMS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>biliup/biliup-app</title>
+    <updated>2023-04-04T01:44:54Z</updated>
+    <id>tag:github.com,2023-04-04:/biliup/biliup-app</id>
+    <link href="https://github.com/biliup/biliup-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;b站全平台投稿客户端，支持多p投稿，稿件编辑&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ankurrsinghal/svelte-icons-kit</title>
-    <updated>2023-04-03T01:43:55Z</updated>
-    <id>tag:github.com,2023-04-03:/ankurrsinghal/svelte-icons-kit</id>
-    <link href="https://github.com/ankurrsinghal/svelte-icons-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of collection of icons for Svelte apps. Copy or download 3500+ icons in Svelte or svg formats.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Leagueify/leagueify</title>
+    <updated>2023-04-04T01:44:54Z</updated>
+    <id>tag:github.com,2023-04-04:/Leagueify/leagueify</id>
+    <link href="https://github.com/Leagueify/leagueify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leagueify is an open source sporting league platform designed to efficiently host a variety of sporting leagues.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
