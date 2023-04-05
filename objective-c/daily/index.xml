@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-04T01:39:49Z</updated>
+  <updated>2023-04-05T01:34:30Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sureJiang/MSNotificationProtector</title>
-    <updated>2023-04-04T01:39:49Z</updated>
-    <id>tag:github.com,2023-04-04:/sureJiang/MSNotificationProtector</id>
-    <link href="https://github.com/sureJiang/MSNotificationProtector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;No intrusive automatic removal of notifications added below iOS9&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MSNotificationProtector&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.apple.com/nl/ios/&#34;&gt;&lt;img src=&#34;http://img.shields.io/cocoapods/p/YYKit.svg?style=flat&#34; alt=&#34;platform&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/JZJJZJ/MSNotificationProtector/raw/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/mashape/apistatus.svg?style=flat&#34; alt=&#34;GitHub license&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/JZJJZJ/MSNotificationProtector.git&#34;&gt;&lt;img src=&#34;https://img.shields.io/cocoapods/v/AFNetworking.svg?sanitize=true&#34; alt=&#34;CocoaPods&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/JZJJZJ/MSNotificationProtector.git&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/stars/badges/shields.svg?style=social&amp;amp;logo=github&amp;amp;label=Stars&#34; alt=&#34;GitHub stars&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;No intrusive automatic removal of notifications added below iOS9&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sureJiang/MSNotificationProtector/master/NSNotificationCenterApple.png&#34; alt=&#34;&#34;&gt; &lt;a href=&#34;https://developer.apple.com/library/archive/releasenotes/Foundation/RN-FoundationOlderNotes/index.html#10_11NotificationCenter&#34;&gt;https://developer.apple.com/library/archive/releasenotes/Foundation/RN-FoundationOlderNotes/index.html#10_11NotificationCenter&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;h3&gt;Cocoapods(Recommended)&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Add &lt;code&gt;pod &#39;MSNotificationProtector&#39;&lt;/code&gt; to your Podfile.&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;pod install&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Manual&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Add all files under &lt;code&gt;MSNotificationProtector&lt;/code&gt; to your project&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;iOS 2.0 and greater&lt;/li&gt; &#xA; &lt;li&gt;ARC/MRC&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;How To Use&lt;/h2&gt; &#xA;&lt;p&gt;Automatically effective, no additional operations are required after the project is introduced&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;MSCrashProtector is available under the MIT license. See the LICENSE file for more info.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>sureJiang/MSSCrollGuideView</title>
-    <updated>2023-04-04T01:39:49Z</updated>
-    <id>tag:github.com,2023-04-04:/sureJiang/MSSCrollGuideView</id>
-    <link href="https://github.com/sureJiang/MSSCrollGuideView" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keyframeanimation user guided animation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MSSCrollGuideView&lt;/h1&gt; &#xA;&lt;p&gt;Keyframeanimation user guided animation&lt;br&gt; &lt;img src=&#34;https://raw.githubusercontent.com/sureJiang/MSSCrollGuideView/master/MSSCrollGuideView2.gif&#34; alt=&#34;image&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/sureJiang/MSSCrollGuideView/master/MSSCrollGuideView.gif&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>sureJiang/MSRocketGiftAnimation</title>
-    <updated>2023-04-04T01:39:49Z</updated>
-    <id>tag:github.com,2023-04-04:/sureJiang/MSRocketGiftAnimation</id>
-    <link href="https://github.com/sureJiang/MSRocketGiftAnimation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Live Room rocket gift animation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MSRocketGiftAnimation&lt;/h1&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-04T01:31:33Z</updated>
+  <updated>2023-04-05T01:26:15Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eglinuxer/study_cmake</title>
+    <updated>2023-04-05T01:26:15Z</updated>
+    <id>tag:github.com,2023-04-05:/eglinuxer/study_cmake</id>
+    <link href="https://github.com/eglinuxer/study_cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eglinux&#39;s CMake course notes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>G-Levine/rhea_description</title>
+    <updated>2023-04-05T01:26:15Z</updated>
+    <id>tag:github.com,2023-04-05:/G-Levine/rhea_description</id>
+    <link href="https://github.com/G-Levine/rhea_description" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;URDF model for the Rhea wheeled biped&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>franneck94/UdemyCmake</title>
+    <updated>2023-04-05T01:26:15Z</updated>
+    <id>tag:github.com,2023-04-05:/franneck94/UdemyCmake</id>
+    <link href="https://github.com/franneck94/UdemyCmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

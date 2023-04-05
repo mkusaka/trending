@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-04T01:43:42Z</updated>
+  <updated>2023-04-05T01:38:26Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Made-For-Gamers/game-jam-webgl-template</title>
-    <updated>2023-04-04T01:43:42Z</updated>
-    <id>tag:github.com,2023-04-04:/Made-For-Gamers/game-jam-webgl-template</id>
-    <link href="https://github.com/Made-For-Gamers/game-jam-webgl-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web3 integrations for game jams (WebGL)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Ezharjan/AdvancedShaders</title>
+    <updated>2023-04-05T01:38:26Z</updated>
+    <id>tag:github.com,2023-04-05:/Ezharjan/AdvancedShaders</id>
+    <link href="https://github.com/Ezharjan/AdvancedShaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stores here is all sorts of shaders usable for Unity in multiple ways.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

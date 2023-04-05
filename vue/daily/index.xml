@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-04T01:46:31Z</updated>
+  <updated>2023-04-05T01:41:07Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vvvviolet/Virtual-Simulation-Experiment</title>
-    <updated>2023-04-04T01:46:31Z</updated>
-    <id>tag:github.com,2023-04-04:/vvvviolet/Virtual-Simulation-Experiment</id>
-    <link href="https://github.com/vvvviolet/Virtual-Simulation-Experiment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;软件工程管理与经济 2023&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hncboy/chatgpt-web-admin</title>
+    <updated>2023-04-05T01:41:07Z</updated>
+    <id>tag:github.com,2023-04-05:/hncboy/chatgpt-web-admin</id>
+    <link href="https://github.com/hncboy/chatgpt-web-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;chatgpt-web 管理后台&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

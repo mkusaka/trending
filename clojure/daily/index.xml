@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-04T01:31:27Z</updated>
+  <updated>2023-04-05T01:26:08Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>samrat/ecstatic</title>
-    <updated>2023-04-04T01:31:27Z</updated>
-    <id>tag:github.com,2023-04-04:/samrat/ecstatic</id>
-    <link href="https://github.com/samrat/ecstatic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ecstatic creates static web pages and blog posts from Hiccup templates and Markdown.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dolaameng/learn-clojure</title>
-    <updated>2023-04-04T01:31:27Z</updated>
-    <id>tag:github.com,2023-04-04:/dolaameng/learn-clojure</id>
-    <link href="https://github.com/dolaameng/learn-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lumberdev/tesserae</title>
+    <updated>2023-04-05T01:26:08Z</updated>
+    <id>tag:github.com,2023-04-05:/lumberdev/tesserae</id>
+    <link href="https://github.com/lumberdev/tesserae" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure spreadsheet and more!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

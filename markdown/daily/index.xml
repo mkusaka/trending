@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-04T01:38:31Z</updated>
+  <updated>2023-04-05T01:33:15Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ChrisCarini/upptime</title>
-    <updated>2023-04-04T01:38:31Z</updated>
-    <id>tag:github.com,2023-04-04:/ChrisCarini/upptime</id>
-    <link href="https://github.com/ChrisCarini/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for ChrisCarini, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ivy-digital/gsm-upptime</title>
-    <updated>2023-04-04T01:38:31Z</updated>
-    <id>tag:github.com,2023-04-04:/ivy-digital/gsm-upptime</id>
-    <link href="https://github.com/ivy-digital/gsm-upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for smart-assitant&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>moul/uptime</title>
-    <updated>2023-04-04T01:38:31Z</updated>
-    <id>tag:github.com,2023-04-04:/moul/uptime</id>
-    <link href="https://github.com/moul/uptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Manfred Touron, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

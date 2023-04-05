@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-04T01:46:19Z</updated>
+  <updated>2023-04-05T01:40:55Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>secworks/aes</title>
+    <updated>2023-04-05T01:40:55Z</updated>
+    <id>tag:github.com,2023-04-05:/secworks/aes</id>
+    <link href="https://github.com/secworks/aes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Verilog implementation of the symmetric block cipher AES (Advanced Encryption Standard) as specified in NIST FIPS 197. This implementation supports 128 and 256 bit keys.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

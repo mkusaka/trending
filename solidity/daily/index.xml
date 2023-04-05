@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-04T01:44:26Z</updated>
+  <updated>2023-04-05T01:39:06Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Diamundlabs/ERC-20_Exercise</title>
-    <updated>2023-04-04T01:44:26Z</updated>
-    <id>tag:github.com,2023-04-04:/Diamundlabs/ERC-20_Exercise</id>
-    <link href="https://github.com/Diamundlabs/ERC-20_Exercise" rel="alternate"></link>
+    <title>xla-rsc/contracts-valve</title>
+    <updated>2023-04-05T01:39:06Z</updated>
+    <id>tag:github.com,2023-04-05:/xla-rsc/contracts-valve</id>
+    <link href="https://github.com/xla-rsc/contracts-valve" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>numencyber/NumenCTF_2023</title>
-    <updated>2023-04-04T01:44:26Z</updated>
-    <id>tag:github.com,2023-04-04:/numencyber/NumenCTF_2023</id>
-    <link href="https://github.com/numencyber/NumenCTF_2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Numen Cyber Smart Contract CTF&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nomoixyz/vulcan-template</title>
-    <updated>2023-04-04T01:44:26Z</updated>
-    <id>tag:github.com,2023-04-04:/nomoixyz/vulcan-template</id>
-    <link href="https://github.com/nomoixyz/vulcan-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template for projects writting smart contracts that use vulcan for testing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
