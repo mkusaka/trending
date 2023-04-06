@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-05T01:39:06Z</updated>
+  <updated>2023-04-06T01:47:46Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xla-rsc/contracts-valve</title>
-    <updated>2023-04-05T01:39:06Z</updated>
-    <id>tag:github.com,2023-04-05:/xla-rsc/contracts-valve</id>
-    <link href="https://github.com/xla-rsc/contracts-valve" rel="alternate"></link>
+    <title>emilianobonassi/zkSafe</title>
+    <updated>2023-04-06T01:47:46Z</updated>
+    <id>tag:github.com,2023-04-06:/emilianobonassi/zkSafe</id>
+    <link href="https://github.com/emilianobonassi/zkSafe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Operate your Gnosis Safe with web2 accounts using Sismo zkConnect SSO&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shakty/public-blockchains-assignments</title>
+    <updated>2023-04-06T01:47:46Z</updated>
+    <id>tag:github.com,2023-04-06:/shakty/public-blockchains-assignments</id>
+    <link href="https://github.com/shakty/public-blockchains-assignments" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maple-labs/non-transparent-proxy</title>
+    <updated>2023-04-06T01:47:46Z</updated>
+    <id>tag:github.com,2023-04-06:/maple-labs/non-transparent-proxy</id>
+    <link href="https://github.com/maple-labs/non-transparent-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Non-transparent proxy for non-factory based upgradeable contracts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

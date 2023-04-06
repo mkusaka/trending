@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-05T01:38:23Z</updated>
+  <updated>2023-04-06T01:46:57Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BlueWings2017/BlueWings2017.github.io</title>
-    <updated>2023-04-05T01:38:23Z</updated>
-    <id>tag:github.com,2023-04-05:/BlueWings2017/BlueWings2017.github.io</id>
-    <link href="https://github.com/BlueWings2017/BlueWings2017.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;기술블로그&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BPP-Education-Group/design-system</title>
-    <updated>2023-04-05T01:38:23Z</updated>
-    <id>tag:github.com,2023-04-05:/BPP-Education-Group/design-system</id>
-    <link href="https://github.com/BPP-Education-Group/design-system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BitcoinDesign/Guide</title>
-    <updated>2023-04-05T01:38:23Z</updated>
-    <id>tag:github.com,2023-04-05:/BitcoinDesign/Guide</id>
-    <link href="https://github.com/BitcoinDesign/Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A free, open-source community resource for designers, developers and others working on non-custodial bitcoin products.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

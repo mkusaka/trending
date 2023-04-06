@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-05T01:35:18Z</updated>
+  <updated>2023-04-06T01:43:33Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hubgit/citation-parser</title>
-    <updated>2023-04-05T01:35:18Z</updated>
-    <id>tag:github.com,2023-04-05:/hubgit/citation-parser</id>
-    <link href="https://github.com/hubgit/citation-parser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parse citations from free text&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Tekki/mojolicious_pdf-reportwriter_example</title>
+    <updated>2023-04-06T01:43:33Z</updated>
+    <id>tag:github.com,2023-04-06:/Tekki/mojolicious_pdf-reportwriter_example</id>
+    <link href="https://github.com/Tekki/mojolicious_pdf-reportwriter_example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;=head1 NAME&lt;/p&gt; &#xA;&lt;p&gt;Mojolicious - PDF::ReportWriter - Example&lt;/p&gt; &#xA;&lt;p&gt;=head1 DESCRIPTION&lt;/p&gt; &#xA;&lt;p&gt;This example shows how to create PDF files with L&amp;lt;Mojolicious|&lt;a href=&#34;http://mojolicio.us%3E&#34;&gt;http://mojolicio.us&amp;gt;&lt;/a&gt; and L&lt;a href=&#34;PDF::ReportWriter&#34;&gt;PDF::ReportWriter&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Start the script with&lt;/p&gt; &#xA;&lt;p&gt;morbo script/mojo_rwr&lt;/p&gt; &#xA;&lt;p&gt;Navigate to L&lt;a href=&#34;http://localhost:3000/&#34;&gt;http://localhost:3000/&lt;/a&gt; and click on the download link.&lt;/p&gt; &#xA;&lt;p&gt;=head1 REQUIREMENTS&lt;/p&gt; &#xA;&lt;p&gt;=over 2&lt;/p&gt; &#xA;&lt;p&gt;=item Mojolicious&lt;/p&gt; &#xA;&lt;p&gt;Install as root with:&lt;/p&gt; &#xA;&lt;p&gt;curl get.mojolicio.us | sh&lt;/p&gt; &#xA;&lt;p&gt;=item PDF::ReportWriter&lt;/p&gt; &#xA;&lt;p&gt;Install from CPAN.&lt;/p&gt; &#xA;&lt;p&gt;=back&lt;/p&gt; &#xA;&lt;p&gt;=head1 COPYRIGHT &amp;amp; LICENSE&lt;/p&gt; &#xA;&lt;p&gt;Copyright 2012 by Tekki.&lt;/p&gt; &#xA;&lt;p&gt;This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.&lt;/p&gt; &#xA;&lt;p&gt;=cut&lt;/p&gt;</summary>
   </entry>
 </feed>

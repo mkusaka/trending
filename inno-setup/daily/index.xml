@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inno Setup Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-05T01:30:37Z</updated>
+  <updated>2023-04-06T01:38:19Z</updated>
   <subtitle>Daily Trending of Inno Setup in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Logitech/slimserver-platforms</title>
+    <updated>2023-04-06T01:38:19Z</updated>
+    <id>tag:github.com,2023-04-06:/Logitech/slimserver-platforms</id>
+    <link href="https://github.com/Logitech/slimserver-platforms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Platform-specific build tools for slimserver&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
