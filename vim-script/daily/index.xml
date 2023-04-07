@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-06T01:50:08Z</updated>
+  <updated>2023-04-07T01:46:28Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>arcbbb/vimrc_arcb</title>
-    <updated>2023-04-06T01:50:08Z</updated>
-    <id>tag:github.com,2023-04-06:/arcbbb/vimrc_arcb</id>
-    <link href="https://github.com/arcbbb/vimrc_arcb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>K-4U/Configs</title>
-    <updated>2023-04-06T01:50:08Z</updated>
-    <id>tag:github.com,2023-04-06:/K-4U/Configs</id>
-    <link href="https://github.com/K-4U/Configs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cocomode18/self_settings</title>
+    <updated>2023-04-07T01:46:28Z</updated>
+    <id>tag:github.com,2023-04-07:/cocomode18/self_settings</id>
+    <link href="https://github.com/cocomode18/self_settings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;personal settings for server applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

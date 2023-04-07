@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-06T01:41:17Z</updated>
+  <updated>2023-04-07T01:38:03Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JesseLu/lumos</title>
-    <updated>2023-04-06T01:41:17Z</updated>
-    <id>tag:github.com,2023-04-06:/JesseLu/lumos</id>
-    <link href="https://github.com/JesseLu/lumos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;optimized nanophotonic structures&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StuartJO/BrainSurfaceAnimation</title>
+    <updated>2023-04-07T01:38:03Z</updated>
+    <id>tag:github.com,2023-04-07:/StuartJO/BrainSurfaceAnimation</id>
+    <link href="https://github.com/StuartJO/BrainSurfaceAnimation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

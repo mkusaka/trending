@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-06T01:47:46Z</updated>
+  <updated>2023-04-07T01:44:11Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emilianobonassi/zkSafe</title>
-    <updated>2023-04-06T01:47:46Z</updated>
-    <id>tag:github.com,2023-04-06:/emilianobonassi/zkSafe</id>
-    <link href="https://github.com/emilianobonassi/zkSafe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Operate your Gnosis Safe with web2 accounts using Sismo zkConnect SSO&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RareSkills/huff-puzzles</title>
+    <updated>2023-04-07T01:44:11Z</updated>
+    <id>tag:github.com,2023-04-07:/RareSkills/huff-puzzles</id>
+    <link href="https://github.com/RareSkills/huff-puzzles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These exercises were created for our Advanced Solidity Bootcamp and open sourced.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shakty/public-blockchains-assignments</title>
-    <updated>2023-04-06T01:47:46Z</updated>
-    <id>tag:github.com,2023-04-06:/shakty/public-blockchains-assignments</id>
-    <link href="https://github.com/shakty/public-blockchains-assignments" rel="alternate"></link>
+    <title>Philogy/forge-safe-log</title>
+    <updated>2023-04-07T01:44:11Z</updated>
+    <id>tag:github.com,2023-04-07:/Philogy/forge-safe-log</id>
+    <link href="https://github.com/Philogy/forge-safe-log" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>maple-labs/non-transparent-proxy</title>
-    <updated>2023-04-06T01:47:46Z</updated>
-    <id>tag:github.com,2023-04-06:/maple-labs/non-transparent-proxy</id>
-    <link href="https://github.com/maple-labs/non-transparent-proxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Non-transparent proxy for non-factory based upgradeable contracts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WTFAcademy/WTF-CTF</title>
+    <updated>2023-04-07T01:44:11Z</updated>
+    <id>tag:github.com,2023-04-07:/WTFAcademy/WTF-CTF</id>
+    <link href="https://github.com/WTFAcademy/WTF-CTF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CTF（Capture The Flag，夺旗赛）是一种网络安全竞赛，源于黑客和网络安全社区。CTF比赛通常由一系列安全挑战组成，参赛者需要发挥他们的技术、创造力和解决问题的能力，以找出并利用各种网络安全漏洞来完成任务。比赛的目的是让参赛者在模拟的真实场景中学习和练习网络安全技能。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

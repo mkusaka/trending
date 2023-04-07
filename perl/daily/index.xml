@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-06T01:43:33Z</updated>
+  <updated>2023-04-07T01:40:07Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Tekki/mojolicious_pdf-reportwriter_example</title>
-    <updated>2023-04-06T01:43:33Z</updated>
-    <id>tag:github.com,2023-04-06:/Tekki/mojolicious_pdf-reportwriter_example</id>
-    <link href="https://github.com/Tekki/mojolicious_pdf-reportwriter_example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;=head1 NAME&lt;/p&gt; &#xA;&lt;p&gt;Mojolicious - PDF::ReportWriter - Example&lt;/p&gt; &#xA;&lt;p&gt;=head1 DESCRIPTION&lt;/p&gt; &#xA;&lt;p&gt;This example shows how to create PDF files with L&amp;lt;Mojolicious|&lt;a href=&#34;http://mojolicio.us%3E&#34;&gt;http://mojolicio.us&amp;gt;&lt;/a&gt; and L&lt;a href=&#34;PDF::ReportWriter&#34;&gt;PDF::ReportWriter&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Start the script with&lt;/p&gt; &#xA;&lt;p&gt;morbo script/mojo_rwr&lt;/p&gt; &#xA;&lt;p&gt;Navigate to L&lt;a href=&#34;http://localhost:3000/&#34;&gt;http://localhost:3000/&lt;/a&gt; and click on the download link.&lt;/p&gt; &#xA;&lt;p&gt;=head1 REQUIREMENTS&lt;/p&gt; &#xA;&lt;p&gt;=over 2&lt;/p&gt; &#xA;&lt;p&gt;=item Mojolicious&lt;/p&gt; &#xA;&lt;p&gt;Install as root with:&lt;/p&gt; &#xA;&lt;p&gt;curl get.mojolicio.us | sh&lt;/p&gt; &#xA;&lt;p&gt;=item PDF::ReportWriter&lt;/p&gt; &#xA;&lt;p&gt;Install from CPAN.&lt;/p&gt; &#xA;&lt;p&gt;=back&lt;/p&gt; &#xA;&lt;p&gt;=head1 COPYRIGHT &amp;amp; LICENSE&lt;/p&gt; &#xA;&lt;p&gt;Copyright 2012 by Tekki.&lt;/p&gt; &#xA;&lt;p&gt;This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.&lt;/p&gt; &#xA;&lt;p&gt;=cut&lt;/p&gt;</summary>
+    <title>yoshinorim/mha4mysql-manager</title>
+    <updated>2023-04-07T01:40:07Z</updated>
+    <id>tag:github.com,2023-04-07:/yoshinorim/mha4mysql-manager</id>
+    <link href="https://github.com/yoshinorim/mha4mysql-manager" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Development tree of Master High Availability Manager and tools for MySQL (MHA), Manager part&lt;/p&gt;&lt;hr&gt;&lt;p&gt;mha4mysql-manager - Master High Availability Manager and tools for MySQL (MHA) for automating master failover and fast master switch. This package contains manager scripts. See &lt;a href=&#34;https://github.com/yoshinorim/mha4mysql-manager/wiki&#34;&gt;https://github.com/yoshinorim/mha4mysql-manager/wiki&lt;/a&gt; for details.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>mantovani/Parser-Oracle-CTL-Cobol</title>
+    <updated>2023-04-07T01:40:07Z</updated>
+    <id>tag:github.com,2023-04-07:/mantovani/Parser-Oracle-CTL-Cobol</id>
+    <link href="https://github.com/mantovani/Parser-Oracle-CTL-Cobol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parser-Oracle-CTL-Cobol&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Parser-Oracle-CTL-Cobol&lt;/p&gt; &#xA;&lt;p&gt;The README is used to introduce the module and provide instructions on how to install the module, any machine dependencies it may have (for example C compilers and installed libraries) and any other information that should be provided before the module is installed.&lt;/p&gt; &#xA;&lt;p&gt;A README file is required for CPAN modules since CPAN extracts the README file from a module distribution so that people browsing the archive can use it to get an idea of the module&#39;s uses. It is usually a good idea to provide version information here so that people can decide whether fixes for the module are worth downloading.&lt;/p&gt; &#xA;&lt;p&gt;INSTALLATION&lt;/p&gt; &#xA;&lt;p&gt;To install this module, run the following commands:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perl Makefile.PL&#xA;make&#xA;make test&#xA;make install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;SUPPORT AND DOCUMENTATION&lt;/p&gt; &#xA;&lt;p&gt;After installing, you can find documentation for this module with the perldoc command.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perldoc Parser::Oracle::CTL::Cobol&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can also look for information at:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;RT, CPAN&#39;s request tracker (report bugs here)&#xA;    http://rt.cpan.org/NoAuth/Bugs.html?Dist=Parser-Oracle-CTL-Cobol&#xA;&#xA;AnnoCPAN, Annotated CPAN documentation&#xA;    http://annocpan.org/dist/Parser-Oracle-CTL-Cobol&#xA;&#xA;CPAN Ratings&#xA;    http://cpanratings.perl.org/d/Parser-Oracle-CTL-Cobol&#xA;&#xA;Search CPAN&#xA;    http://search.cpan.org/dist/Parser-Oracle-CTL-Cobol/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;LICENSE AND COPYRIGHT&lt;/p&gt; &#xA;&lt;p&gt;Copyright (C) 2012 Daniel de Oliveira Mantovani&lt;/p&gt; &#xA;&lt;p&gt;This program is free software; you can redistribute it and/or modify it under the terms of either: the GNU General Public License as published by the Free Software Foundation; or the Artistic License.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;http://dev.perl.org/licenses/&#34;&gt;http://dev.perl.org/licenses/&lt;/a&gt; for more information.&lt;/p&gt;</summary>
   </entry>
 </feed>

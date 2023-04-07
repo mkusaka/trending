@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-06T01:50:14Z</updated>
+  <updated>2023-04-07T01:46:34Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lxfater/LLMR-NLUP</title>
-    <updated>2023-04-06T01:50:14Z</updated>
-    <id>tag:github.com,2023-04-06:/lxfater/LLMR-NLUP</id>
-    <link href="https://github.com/lxfater/LLMR-NLUP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A quick demo of Natural-Language-UI-Programming, implemented purely on the front end and powered by GPT-3.5&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lianginx/chatgpt-vue</title>
-    <updated>2023-04-06T01:50:14Z</updated>
-    <id>tag:github.com,2023-04-06:/lianginx/chatgpt-vue</id>
-    <link href="https://github.com/lianginx/chatgpt-vue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;使用 Vue3 + Typescript + Tailwind CSS 框架，调用 OpenAI 的 gpt-3.5-turbo 模型 API 实现的简单聊天对话，支持连续对话。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>imsyy/home</title>
-    <updated>2023-04-06T01:50:14Z</updated>
-    <id>tag:github.com,2023-04-06:/imsyy/home</id>
-    <link href="https://github.com/imsyy/home" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;个人主页，我的个人主页，个人主页源码，主页模板，homepage&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fayazara/onelink</title>
+    <updated>2023-04-07T01:46:34Z</updated>
+    <id>tag:github.com,2023-04-07:/fayazara/onelink</id>
+    <link href="https://github.com/fayazara/onelink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

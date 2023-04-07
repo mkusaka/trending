@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-06T01:39:35Z</updated>
+  <updated>2023-04-07T01:36:35Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gafter/AutoHashEqualsCached.jl</title>
-    <updated>2023-04-06T01:39:35Z</updated>
-    <id>tag:github.com,2023-04-06:/gafter/AutoHashEqualsCached.jl</id>
-    <link href="https://github.com/gafter/AutoHashEqualsCached.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia macros to automatically define hash and == for struct types.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gafter/Rematch2.jl</title>
+    <updated>2023-04-07T01:36:35Z</updated>
+    <id>tag:github.com,2023-04-07:/gafter/Rematch2.jl</id>
+    <link href="https://github.com/gafter/Rematch2.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reimplementation of pattern-matching for Julia, generating very efficient code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaVTK/WriteVTK.jl</title>
+    <updated>2023-04-07T01:36:35Z</updated>
+    <id>tag:github.com,2023-04-07:/JuliaVTK/WriteVTK.jl</id>
+    <link href="https://github.com/JuliaVTK/WriteVTK.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for writing VTK XML files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaVTK/ReadVTK.jl</title>
+    <updated>2023-04-07T01:36:35Z</updated>
+    <id>tag:github.com,2023-04-07:/JuliaVTK/ReadVTK.jl</id>
+    <link href="https://github.com/JuliaVTK/ReadVTK.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia package for reading VTK XML files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-06T01:36:02Z</updated>
+  <updated>2023-04-07T01:33:33Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Stevepetoskey/TinyPixelPlanetsPublic</title>
-    <updated>2023-04-06T01:36:02Z</updated>
-    <id>tag:github.com,2023-04-06:/Stevepetoskey/TinyPixelPlanetsPublic</id>
-    <link href="https://github.com/Stevepetoskey/TinyPixelPlanetsPublic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A 2D space exploration sandbox made in Godot 3.5&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudofoz/godot-deformablemesh</title>
+    <updated>2023-04-07T01:33:33Z</updated>
+    <id>tag:github.com,2023-04-07:/cloudofoz/godot-deformablemesh</id>
+    <link href="https://github.com/cloudofoz/godot-deformablemesh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Addon to deform 3D meshes using customizable deformers at run-time.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CBerry22/Reactive-Smoke-in-Godot-4</title>
+    <updated>2023-04-07T01:33:33Z</updated>
+    <id>tag:github.com,2023-04-07:/CBerry22/Reactive-Smoke-in-Godot-4</id>
+    <link href="https://github.com/CBerry22/Reactive-Smoke-in-Godot-4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>krazyjakee/nodot</title>
+    <updated>2023-04-07T01:33:33Z</updated>
+    <id>tag:github.com,2023-04-07:/krazyjakee/nodot</id>
+    <link href="https://github.com/krazyjakee/nodot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A video game node library for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
