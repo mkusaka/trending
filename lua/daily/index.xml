@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:37:37Z</updated>
+  <updated>2023-04-08T01:37:34Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bfeber/HLA-NoVR</title>
-    <updated>2023-04-07T01:37:37Z</updated>
-    <id>tag:github.com,2023-04-07:/bfeber/HLA-NoVR</id>
-    <link href="https://github.com/bfeber/HLA-NoVR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NO VR Script for Half-Life: Alyx&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;HLA-NoVR&lt;/h1&gt; &#xA;&lt;p&gt;NoVR Script for Half-Life: Alyx&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Copy the &lt;code&gt;game&lt;/code&gt; folder into your main Half-Life: Alyx installation folder (e.g. &lt;code&gt;C:\Program Files (x86)\Steam\steamapps\common\Half-Life Alyx&lt;/code&gt;).&lt;/p&gt; &#xA;&lt;h2&gt;Playing&lt;/h2&gt; &#xA;&lt;p&gt;Start the game with the launch options &lt;code&gt;-novr -vsync&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Controls&lt;/h2&gt; &#xA;&lt;h3&gt;Keyboard and Mouse&lt;/h3&gt; &#xA;&lt;p&gt;Left Click: Select in Main Menu/Throw Held Object/Primary Attack&lt;/p&gt; &#xA;&lt;p&gt;W, A, S, D: Move&lt;/p&gt; &#xA;&lt;p&gt;Space: Jump&lt;/p&gt; &#xA;&lt;p&gt;Ctrl: Crouch&lt;/p&gt; &#xA;&lt;p&gt;Shift: Sprint&lt;/p&gt; &#xA;&lt;p&gt;E: Interact/Pick Up Object&lt;/p&gt; &#xA;&lt;p&gt;F: Flashlight (if you have it)&lt;/p&gt; &#xA;&lt;p&gt;H: Cover your mouth&lt;/p&gt; &#xA;&lt;p&gt;F5: Quick Save&lt;/p&gt; &#xA;&lt;p&gt;F9: Quick Load&lt;/p&gt; &#xA;&lt;p&gt;M: Main Menu&lt;/p&gt; &#xA;&lt;p&gt;P: Pause&lt;/p&gt; &#xA;&lt;p&gt;V: Noclip (if you get stuck)&lt;/p&gt; &#xA;&lt;h2&gt;Official Discord Server&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://discord.gg/AyfBeuZXsR&#34;&gt;https://discord.gg/AyfBeuZXsR&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>anthdm/.nvim</title>
+    <updated>2023-04-08T01:37:34Z</updated>
+    <id>tag:github.com,2023-04-08:/anthdm/.nvim</id>
+    <link href="https://github.com/anthdm/.nvim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Neovim configuration in one single file&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GG&#39;s nvim configuration&lt;/h1&gt; &#xA;&lt;p&gt;Simple, yet effective &amp;lt;3&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>9re/cocos2d-x-test</title>
+    <updated>2023-04-08T01:37:34Z</updated>
+    <id>tag:github.com,2023-04-08:/9re/cocos2d-x-test</id>
+    <link href="https://github.com/9re/cocos2d-x-test" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:27:57Z</updated>
+  <updated>2023-04-08T01:28:38Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>easychen/chatchan-dist</title>
-    <updated>2023-04-07T01:27:57Z</updated>
-    <id>tag:github.com,2023-04-07:/easychen/chatchan-dist</id>
-    <link href="https://github.com/easychen/chatchan-dist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Chat酱独立部署版&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RenwaX23/XSS-Payloads</title>
+    <updated>2023-04-08T01:28:38Z</updated>
+    <id>tag:github.com,2023-04-08:/RenwaX23/XSS-Payloads</id>
+    <link href="https://github.com/RenwaX23/XSS-Payloads" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of XSS Vectors/Payloads&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA</title>
-    <updated>2023-04-07T01:27:57Z</updated>
-    <id>tag:github.com,2023-04-07:/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA</id>
-    <link href="https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Useful notes for the KCNA - Kubernetes and Cloud Native Associate&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mayuelala/FollowYourPose</title>
+    <updated>2023-04-08T01:28:38Z</updated>
+    <id>tag:github.com,2023-04-08:/mayuelala/FollowYourPose</id>
+    <link href="https://github.com/mayuelala/FollowYourPose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pytorch Implementation for &#34;Follow-Your-Pose : Pose-Guided Text-to-Video Generation using Pose-Free Videos&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RUCAIBox/LLMSurvey</title>
-    <updated>2023-04-07T01:27:57Z</updated>
-    <id>tag:github.com,2023-04-07:/RUCAIBox/LLMSurvey</id>
-    <link href="https://github.com/RUCAIBox/LLMSurvey" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of papers and resources related to Large Language Models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ddgksf2013/ddgksf2013</title>
+    <updated>2023-04-08T01:28:38Z</updated>
+    <id>tag:github.com,2023-04-08:/ddgksf2013/ddgksf2013</id>
+    <link href="https://github.com/ddgksf2013/ddgksf2013" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

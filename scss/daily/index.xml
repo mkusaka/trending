@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:43:27Z</updated>
+  <updated>2023-04-08T01:42:57Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ellegantcss/ellegant</title>
-    <updated>2023-04-07T01:43:27Z</updated>
-    <id>tag:github.com,2023-04-07:/ellegantcss/ellegant</id>
-    <link href="https://github.com/ellegantcss/ellegant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ellegant is a CSS framework that aims to provide user interaction with very little or no Javascript at all. With inputs and labels, Ellegant targets elements providing a fast and clean user experience even on low-end mobile devices.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

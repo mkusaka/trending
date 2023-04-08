@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:44:11Z</updated>
+  <updated>2023-04-08T01:43:37Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RareSkills/huff-puzzles</title>
-    <updated>2023-04-07T01:44:11Z</updated>
-    <id>tag:github.com,2023-04-07:/RareSkills/huff-puzzles</id>
-    <link href="https://github.com/RareSkills/huff-puzzles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;These exercises were created for our Advanced Solidity Bootcamp and open sourced.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Philogy/forge-safe-log</title>
-    <updated>2023-04-07T01:44:11Z</updated>
-    <id>tag:github.com,2023-04-07:/Philogy/forge-safe-log</id>
-    <link href="https://github.com/Philogy/forge-safe-log" rel="alternate"></link>
+    <title>code-423n4/2023-04-rubicon</title>
+    <updated>2023-04-08T01:43:37Z</updated>
+    <id>tag:github.com,2023-04-08:/code-423n4/2023-04-rubicon</id>
+    <link href="https://github.com/code-423n4/2023-04-rubicon" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WTFAcademy/WTF-CTF</title>
-    <updated>2023-04-07T01:44:11Z</updated>
-    <id>tag:github.com,2023-04-07:/WTFAcademy/WTF-CTF</id>
-    <link href="https://github.com/WTFAcademy/WTF-CTF" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CTF（Capture The Flag，夺旗赛）是一种网络安全竞赛，源于黑客和网络安全社区。CTF比赛通常由一系列安全挑战组成，参赛者需要发挥他们的技术、创造力和解决问题的能力，以找出并利用各种网络安全漏洞来完成任务。比赛的目的是让参赛者在模拟的真实场景中学习和练习网络安全技能。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dialecticch/medici-contracts-demo</title>
+    <updated>2023-04-08T01:43:37Z</updated>
+    <id>tag:github.com,2023-04-08:/dialecticch/medici-contracts-demo</id>
+    <link href="https://github.com/dialecticch/medici-contracts-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>refcell/op-challenger</title>
+    <updated>2023-04-08T01:43:37Z</updated>
+    <id>tag:github.com,2023-04-08:/refcell/op-challenger</id>
+    <link href="https://github.com/refcell/op-challenger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A multi-mode op-stack challenge agent for dispute games written in golang.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

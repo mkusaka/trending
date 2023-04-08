@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Coq Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:30:42Z</updated>
+  <updated>2023-04-08T01:31:25Z</updated>
   <subtitle>Daily Trending of Coq in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>formal-land/coq-of-rust</title>
+    <updated>2023-04-08T01:31:25Z</updated>
+    <id>tag:github.com,2023-04-08:/formal-land/coq-of-rust</id>
+    <link href="https://github.com/formal-land/coq-of-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Formal verification for Rust 🦀 by translation to Coq 🐓&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Game Maker Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:33:22Z</updated>
+  <updated>2023-04-08T01:33:57Z</updated>
   <subtitle>Daily Trending of Game Maker Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FoxyOfJungle/TurboGML</title>
-    <updated>2023-04-07T01:33:22Z</updated>
-    <id>tag:github.com,2023-04-07:/FoxyOfJungle/TurboGML</id>
-    <link href="https://github.com/FoxyOfJungle/TurboGML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The most large collection of useful general GML functions (AI, Linear Algebra - Vectors, Arrays, Structs, Strings, File Search, Conversions etc)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

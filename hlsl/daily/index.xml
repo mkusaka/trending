@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:34:44Z</updated>
+  <updated>2023-04-08T01:35:09Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>frostbone25/Unity-Capsule-Shadows</title>
-    <updated>2023-04-07T01:34:44Z</updated>
-    <id>tag:github.com,2023-04-07:/frostbone25/Unity-Capsule-Shadows</id>
-    <link href="https://github.com/frostbone25/Unity-Capsule-Shadows" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A work in progress solution for capsule shadows in Unity.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

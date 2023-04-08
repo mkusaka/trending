@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:43:29Z</updated>
+  <updated>2023-04-08T01:43:00Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tahmidul612/COMP4478_Project_2</title>
-    <updated>2023-04-07T01:43:29Z</updated>
-    <id>tag:github.com,2023-04-07:/tahmidul612/COMP4478_Project_2</id>
-    <link href="https://github.com/tahmidul612/COMP4478_Project_2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;COMP4478 WDE Project 2 by Group 2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>settintotrieste/Victoria-3-Cold-War-Era-Mod-CWE</title>
+    <updated>2023-04-08T01:43:00Z</updated>
+    <id>tag:github.com,2023-04-08:/settintotrieste/Victoria-3-Cold-War-Era-Mod-CWE</id>
+    <link href="https://github.com/settintotrieste/Victoria-3-Cold-War-Era-Mod-CWE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CWE brings Victoria 3 into the Cold War era and beyond. I hope to make this the ultimate Cold War mod for the game. Join the discussion on discord.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:43:24Z</updated>
+  <updated>2023-04-08T01:42:52Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vickychijwani/sicp-solutions</title>
-    <updated>2023-04-07T01:43:24Z</updated>
-    <id>tag:github.com,2023-04-07:/vickychijwani/sicp-solutions</id>
-    <link href="https://github.com/vickychijwani/sicp-solutions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My solutions to exercises from the Structure and Interpretation of Computer Programs, 2nd Edition.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

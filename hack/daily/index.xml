@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:34:27Z</updated>
+  <updated>2023-04-08T01:34:51Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eddb2-0/EDDB-2.0-frontend</title>
-    <updated>2023-04-07T01:34:27Z</updated>
-    <id>tag:github.com,2023-04-07:/eddb2-0/EDDB-2.0-frontend</id>
-    <link href="https://github.com/eddb2-0/EDDB-2.0-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;EDDB 2.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

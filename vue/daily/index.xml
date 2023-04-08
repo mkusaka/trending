@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:46:34Z</updated>
+  <updated>2023-04-08T01:46:06Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fayazara/onelink</title>
-    <updated>2023-04-07T01:46:34Z</updated>
-    <id>tag:github.com,2023-04-07:/fayazara/onelink</id>
-    <link href="https://github.com/fayazara/onelink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MQEnergy/chatcat</title>
+    <updated>2023-04-08T01:46:06Z</updated>
+    <id>tag:github.com,2023-04-08:/MQEnergy/chatcat</id>
+    <link href="https://github.com/MQEnergy/chatcat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatCat ChatGPT Client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

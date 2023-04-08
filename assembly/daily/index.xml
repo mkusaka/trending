@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-07T01:28:59Z</updated>
+  <updated>2023-04-08T01:29:25Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vproc/vicuna</title>
-    <updated>2023-04-07T01:28:59Z</updated>
-    <id>tag:github.com,2023-04-07:/vproc/vicuna</id>
-    <link href="https://github.com/vproc/vicuna" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RISC-V Zve32x Vector Coprocessor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SU-ECEGR-2220-Spring-2023/ECEGR2220</title>
-    <updated>2023-04-07T01:28:59Z</updated>
-    <id>tag:github.com,2023-04-07:/SU-ECEGR-2220-Spring-2023/ECEGR2220</id>
-    <link href="https://github.com/SU-ECEGR-2220-Spring-2023/ECEGR2220" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Microprocessor Design&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
