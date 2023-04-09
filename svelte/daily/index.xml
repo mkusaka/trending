@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-08T01:44:06Z</updated>
+  <updated>2023-04-09T01:45:02Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>michael/editable-website</title>
-    <updated>2023-04-08T01:44:06Z</updated>
-    <id>tag:github.com,2023-04-08:/michael/editable-website</id>
-    <link href="https://github.com/michael/editable-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A SvelteKit template for building CMS-free editable websites&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

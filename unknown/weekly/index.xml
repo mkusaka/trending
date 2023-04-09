@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown Languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:47:41Z</updated>
+  <subtitle>Weekly Trending of Unknown Languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yzfly/awesome-chatgpt-zh</title>
+    <updated>2023-04-09T01:47:41Z</updated>
+    <id>tag:github.com,2023-04-09:/yzfly/awesome-chatgpt-zh</id>
+    <link href="https://github.com/yzfly/awesome-chatgpt-zh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sw-yx/ai-notes</title>
+    <updated>2023-04-09T01:47:41Z</updated>
+    <id>tag:github.com,2023-04-09:/sw-yx/ai-notes</id>
+    <link href="https://github.com/sw-yx/ai-notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under the /Resources folder.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>florinpop17/app-ideas</title>
+    <updated>2023-04-09T01:47:41Z</updated>
+    <id>tag:github.com,2023-04-09:/florinpop17/app-ideas</id>
+    <link href="https://github.com/florinpop17/app-ideas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Collection of application ideas which can be used to improve your coding skills.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

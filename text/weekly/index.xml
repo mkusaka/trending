@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Text Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T02:03:46Z</updated>
+  <subtitle>Weekly Trending of Text in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DSPBluePrints/DysonSphereBluePrints</title>
+    <updated>2023-04-09T02:03:46Z</updated>
+    <id>tag:github.com,2023-04-09:/DSPBluePrints/DysonSphereBluePrints</id>
+    <link href="https://github.com/DSPBluePrints/DysonSphereBluePrints" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;游戏戴森球计划的**戴森球**蓝图仓库&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hagezi/dns-blocklists</title>
+    <updated>2023-04-09T02:03:46Z</updated>
+    <id>tag:github.com,2023-04-09:/hagezi/dns-blocklists</id>
+    <link href="https://github.com/hagezi/dns-blocklists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DNS-Blocklists: For a better internet - keep the internet clean!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

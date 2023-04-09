@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-08T01:34:56Z</updated>
+  <updated>2023-04-09T01:35:34Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rust-unofficial/patterns</title>
+    <updated>2023-04-09T01:35:34Z</updated>
+    <id>tag:github.com,2023-04-09:/rust-unofficial/patterns</id>
+    <link href="https://github.com/rust-unofficial/patterns" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A catalogue of Rust design patterns, anti-patterns and idioms&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DannyDainton/newman-reporter-htmlextra</title>
+    <updated>2023-04-09T01:35:34Z</updated>
+    <id>tag:github.com,2023-04-09:/DannyDainton/newman-reporter-htmlextra</id>
+    <link href="https://github.com/DannyDainton/newman-reporter-htmlextra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A HTML reporter for Postman&#39;s Command Line Runner, Newman. Includes Non Aggregated Runs broken down by Iterations, Skipped Tests, Console Logs and the handlebars helpers module for better custom templates.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

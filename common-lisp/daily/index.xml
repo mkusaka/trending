@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-08T01:31:21Z</updated>
+  <updated>2023-04-09T01:31:55Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>heliaxdev/Org-Generation</title>
-    <updated>2023-04-08T01:31:21Z</updated>
-    <id>tag:github.com,2023-04-08:/heliaxdev/Org-Generation</id>
-    <link href="https://github.com/heliaxdev/Org-Generation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Org documentation for code bases&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Org-Generation This project gives an informal way of documenting a code-base with [[https://orgmode.org/][Org]].&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Currently this project is in alpha, and many important features are being setup. Read [[https://github.com/cryptiumlabs/Org-Generation/issues][The issues for some features that are currently missing]]&lt;/p&gt; &#xA;&lt;p&gt;Some examples of this tool in action can be see in [[https://github.com/cryptiumlabs/Org-Generation/blob/master/doc/org-generation.org][this repos doc folder]] also with [[https://github.com/cryptiumlabs/juvix/blob/develop/doc/Code/Juvix.org][Juvix&#39;s code documentation folder]]. ** Currently Supported Language&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Lisp &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;With ASDF files only!&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;Haskell &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Does not currently support ={- -}= semantics, first line must be a =-- |= ** Installation *** Roswell&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt;=ros install metastatedev/org-generation=&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Currently the ros file does not correctly launch the program, but it will install the library properly. *** Quicklisp Another way of installing this project is by loading the asd file in this repo, and having [[https://www.quicklisp.org/beta/][Quicklisp]] installed ** Running An example usage is the following #+BEGIN_SRC bash org-generation src/ &#34;test.org&#34; ! or ./roswell/org-generation.ros src/ &#34;test.org&#34;&lt;/p&gt; &#xA;&lt;p&gt;#+END_SRC&lt;/p&gt;</summary>
-  </entry>
 </feed>

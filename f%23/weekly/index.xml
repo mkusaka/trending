@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub F# Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:52:22Z</updated>
+  <subtitle>Weekly Trending of F# in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>namigop/OneBella</title>
+    <updated>2023-04-09T01:52:22Z</updated>
+    <id>tag:github.com,2023-04-09:/namigop/OneBella</id>
+    <link href="https://github.com/namigop/OneBella" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A cross platform GUI tool for LiteDB v5+&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OneBella&lt;/h1&gt; &#xA;&lt;p&gt;A modern cross-platform (Windows, MacOS and Linux) GUI tool for viewing and editing LiteDB 5+ databases&lt;/p&gt; &#xA;&lt;h2&gt;Quickstart Guide&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Select a database file. Click Connect&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/namigop/OneBella/master/docs/OneBella_Connect_to_database.png&#34; height=&#34;400&#34; width=&#34;500&#34;&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;Click the run button (top menu) or Press F5 to run the SQL query&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/namigop/OneBella/master/docs/OneBella_QueryResult_as_treegrid.png&#34; alt=&#34;Main Window&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;To open a new tab : &lt;code&gt;Right click table&lt;/code&gt; --&amp;gt; &lt;code&gt;open new tab&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;To toggle db connection : &lt;code&gt;Right click the DB&lt;/code&gt; --&amp;gt; select &lt;code&gt;connect&lt;/code&gt; or &lt;code&gt;disconnect&lt;/code&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

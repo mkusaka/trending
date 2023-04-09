@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Component Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:50:21Z</updated>
+  <subtitle>Weekly Trending of Component Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>x1nixmzeng/gzreplayex</title>
+    <updated>2023-04-09T01:50:21Z</updated>
+    <id>tag:github.com,2023-04-09:/x1nixmzeng/gzreplayex</id>
+    <link href="https://github.com/x1nixmzeng/gzreplayex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RoboticsBrno/Fusion360-SVG-postprocessor</title>
+    <updated>2023-04-09T01:50:21Z</updated>
+    <id>tag:github.com,2023-04-09:/RoboticsBrno/Fusion360-SVG-postprocessor</id>
+    <link href="https://github.com/RoboticsBrno/Fusion360-SVG-postprocessor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚙️ Project page for SVG postprocessor for Fusion 360 CAM that generates SVG files for laser cutting. Postprocessor supports laser-width compensation and cutting and engraving modes by using different laser tools.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

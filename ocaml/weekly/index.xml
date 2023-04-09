@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:58:32Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ocaml/ocaml-lsp</title>
+    <updated>2023-04-09T01:58:32Z</updated>
+    <id>tag:github.com,2023-04-09:/ocaml/ocaml-lsp</id>
+    <link href="https://github.com/ocaml/ocaml-lsp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCaml Language Server Protocol implementation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gloaec/othello</title>
+    <updated>2023-04-09T01:58:32Z</updated>
+    <id>tag:github.com,2023-04-09:/gloaec/othello</id>
+    <link href="https://github.com/gloaec/othello" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Othello application using Minimax Alpha Beta algorithm to compute the moves of the artificial intelligence.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

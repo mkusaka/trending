@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elm Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:52:04Z</updated>
+  <subtitle>Weekly Trending of Elm in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>skopjehacklab/kalkulator.ot.mk</title>
+    <updated>2023-04-09T01:52:04Z</updated>
+    <id>tag:github.com,2023-04-09:/skopjehacklab/kalkulator.ot.mk</id>
+    <link href="https://github.com/skopjehacklab/kalkulator.ot.mk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Калкулатор за пресметка на придонеси и нето &lt;-&gt; бруто плата&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

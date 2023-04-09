@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-08T01:36:35Z</updated>
+  <updated>2023-04-09T01:37:18Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SpeedyWeather/SpeedyWeather.jl</title>
-    <updated>2023-04-08T01:36:35Z</updated>
-    <id>tag:github.com,2023-04-08:/SpeedyWeather/SpeedyWeather.jl</id>
-    <link href="https://github.com/SpeedyWeather/SpeedyWeather.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The little sister of a big weather forecast model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MilesCranmer/AirspeedVelocity.jl</title>
+    <updated>2023-04-09T01:37:18Z</updated>
+    <id>tag:github.com,2023-04-09:/MilesCranmer/AirspeedVelocity.jl</id>
+    <link href="https://github.com/MilesCranmer/AirspeedVelocity.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Easily benchmark a Julia package over its commit history&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Nemocas/AbstractAlgebra.jl</title>
-    <updated>2023-04-08T01:36:35Z</updated>
-    <id>tag:github.com,2023-04-08:/Nemocas/AbstractAlgebra.jl</id>
-    <link href="https://github.com/Nemocas/AbstractAlgebra.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generic abstract algebra functionality in pure Julia (no C dependencies)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NREL-SIIP/PowerSystems.jl</title>
-    <updated>2023-04-08T01:36:35Z</updated>
-    <id>tag:github.com,2023-04-08:/NREL-SIIP/PowerSystems.jl</id>
-    <link href="https://github.com/NREL-SIIP/PowerSystems.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data structures in Julia to enable power systems analysis. Part of the Scalable Integrated Infrastructure Planning Initiative at the National Renewable Energy Lab.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NVE/JulES</title>
+    <updated>2023-04-09T01:37:18Z</updated>
+    <id>tag:github.com,2023-04-09:/NVE/JulES</id>
+    <link href="https://github.com/NVE/JulES" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JULia Energy market Simulation model for long term planning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

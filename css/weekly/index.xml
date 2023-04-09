@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:50:32Z</updated>
+  <subtitle>Weekly Trending of CSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ART3MISTICAL/dotfiles</title>
+    <updated>2023-04-09T01:50:32Z</updated>
+    <id>tag:github.com,2023-04-09:/ART3MISTICAL/dotfiles</id>
+    <link href="https://github.com/ART3MISTICAL/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My dotfiles&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Dotfiles&lt;/h1&gt; &#xA;&lt;h1&gt;Old rices are on releases page&lt;/h1&gt; &#xA;&lt;h1&gt;Preview:&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/68769374/222545699-f826acc0-abe1-431e-806b-89e9bb3720da.png&#34; alt=&#34;gnome-rice&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Extensions:&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://extensions.gnome.org/extension/5338/aylurs-widgets/&#34;&gt; Aylurs-widgets &lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://extensions.gnome.org/extension/4451/logo-menu/&#34;&gt; Logo Menu &lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://extensions.gnome.org/extension/5237/rounded-window-corners/&#34;&gt; Rounded Window Corners &lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://extensions.gnome.org/extension/1460/vitals/&#34;&gt; Vitals &lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://github.com/pop-os/shell&#34;&gt; Pop Shell &lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://extensions.gnome.org/extension/5090/space-bar/&#34;&gt; Space Bar &lt;/a&gt; &lt;br&gt; &lt;a href=&#34;https://extensions.gnome.org/extension/4356/top-bar-organizer/&#34;&gt; Top Bar Organizer &lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Music player: &lt;a href=&#34;https://flathub.org/apps/details/io.bassi.Amberol&#34;&gt; Amberol &lt;/a&gt;&lt;/h2&gt;</summary>
+  </entry>
+  <entry>
+    <title>jjlabrador/ETSII-git</title>
+    <updated>2023-04-09T01:50:32Z</updated>
+    <id>tag:github.com,2023-04-09:/jjlabrador/ETSII-git</id>
+    <link href="https://github.com/jjlabrador/ETSII-git" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Repositorio con prácticas de la ETSII&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>emetdas/Youtube-code</title>
+    <updated>2023-04-09T01:50:32Z</updated>
+    <id>tag:github.com,2023-04-09:/emetdas/Youtube-code</id>
+    <link href="https://github.com/emetdas/Youtube-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;web design master project for beginner to advanced&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;All Youtube videos I make 👇&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/c/cods-yt&#34;&gt;⏯ Youtube channel&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/groups/3072356883017916/&#34;&gt;👉 Join For Facebook &lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

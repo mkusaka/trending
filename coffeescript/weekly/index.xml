@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:50:14Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lakenen/coffeemation</title>
+    <updated>2023-04-09T01:50:14Z</updated>
+    <id>tag:github.com,2023-04-09:/lakenen/coffeemation</id>
+    <link href="https://github.com/lakenen/coffeemation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CoffeeScript port of Animation.js&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mrdavidlaing/hubot-email-notify</title>
+    <updated>2023-04-09T01:50:14Z</updated>
+    <id>tag:github.com,2023-04-09:/mrdavidlaing/hubot-email-notify</id>
+    <link href="https://github.com/mrdavidlaing/hubot-email-notify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dmotz/oriDomi</title>
+    <updated>2023-04-09T01:50:14Z</updated>
+    <id>tag:github.com,2023-04-09:/dmotz/oriDomi</id>
+    <link href="https://github.com/dmotz/oriDomi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📃 Fold up DOM elements like paper&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

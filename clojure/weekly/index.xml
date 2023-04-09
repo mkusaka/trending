@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:50:03Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jrheard/finance</title>
+    <updated>2023-04-09T01:50:03Z</updated>
+    <id>tag:github.com,2023-04-09:/jrheard/finance</id>
+    <link href="https://github.com/jrheard/finance" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a money program&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dolaameng/learn-clojure</title>
+    <updated>2023-04-09T01:50:03Z</updated>
+    <id>tag:github.com,2023-04-09:/dolaameng/learn-clojure</id>
+    <link href="https://github.com/dolaameng/learn-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>edbond/hotscrap</title>
+    <updated>2023-04-09T01:50:03Z</updated>
+    <id>tag:github.com,2023-04-09:/edbond/hotscrap</id>
+    <link href="https://github.com/edbond/hotscrap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

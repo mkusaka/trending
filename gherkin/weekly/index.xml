@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Gherkin Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:53:07Z</updated>
+  <subtitle>Weekly Trending of Gherkin in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vividus-framework/vividus-sample-tests</title>
+    <updated>2023-04-09T01:53:07Z</updated>
+    <id>tag:github.com,2023-04-09:/vividus-framework/vividus-sample-tests</id>
+    <link href="https://github.com/vividus-framework/vividus-sample-tests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample tests demoing VIVIDUS capabilities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

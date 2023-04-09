@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-08T01:38:45Z</updated>
+  <updated>2023-04-09T01:39:36Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>epi2me-labs/wf-human-variation</title>
-    <updated>2023-04-08T01:38:45Z</updated>
-    <id>tag:github.com,2023-04-08:/epi2me-labs/wf-human-variation</id>
-    <link href="https://github.com/epi2me-labs/wf-human-variation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nextflow-io/rnaseq-nf</title>
+    <updated>2023-04-09T01:39:36Z</updated>
+    <id>tag:github.com,2023-04-09:/nextflow-io/rnaseq-nf</id>
+    <link href="https://github.com/nextflow-io/rnaseq-nf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A proof of concept of RNAseq pipeline&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

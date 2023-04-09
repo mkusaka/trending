@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-09T01:50:09Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oroca/oroca-ros-pkg</title>
+    <updated>2023-04-09T01:50:09Z</updated>
+    <id>tag:github.com,2023-04-09:/oroca/oroca-ros-pkg</id>
+    <link href="https://github.com/oroca/oroca-ros-pkg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;oroca-ros-pkg is collection of OROCA&#39;s ROS(Robot Operating System) packages.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eglinuxer/study_cmake</title>
+    <updated>2023-04-09T01:50:09Z</updated>
+    <id>tag:github.com,2023-04-09:/eglinuxer/study_cmake</id>
+    <link href="https://github.com/eglinuxer/study_cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Eglinux&#39;s CMake course notes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>voltbro/ws_serv_a</title>
+    <updated>2023-04-09T01:50:09Z</updated>
+    <id>tag:github.com,2023-04-09:/voltbro/ws_serv_a</id>
+    <link href="https://github.com/voltbro/ws_serv_a" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-08T01:46:54Z</updated>
+  <updated>2023-04-09T01:47:30Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hqnna/mocha</title>
-    <updated>2023-04-08T01:46:54Z</updated>
-    <id>tag:github.com,2023-04-08:/hqnna/mocha</id>
-    <link href="https://github.com/hqnna/mocha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An elegant configuration language for both humans and machines.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>l1na-forever/pam_sauron</title>
-    <updated>2023-04-08T01:46:54Z</updated>
-    <id>tag:github.com,2023-04-08:/l1na-forever/pam_sauron</id>
-    <link href="https://github.com/l1na-forever/pam_sauron" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FaceID for Linux 🌋🔒🪞 PAM module for Intel RealSense devices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
