@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-09T01:38:41Z</updated>
+  <updated>2023-04-10T01:40:26Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyperbox/hyperbox</title>
-    <updated>2023-04-09T01:38:41Z</updated>
-    <id>tag:github.com,2023-04-09:/hyperbox/hyperbox</id>
-    <link href="https://github.com/hyperbox/hyperbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Virtual Infrastructure Manager for VirtualBox&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GokuMK/TSRE5</title>
+    <updated>2023-04-10T01:40:26Z</updated>
+    <id>tag:github.com,2023-04-10:/GokuMK/TSRE5</id>
+    <link href="https://github.com/GokuMK/TSRE5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Train Sim game engine and MSTS / OR editors and tools.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fxlin/p3-tee</title>
+    <updated>2023-04-10T01:40:26Z</updated>
+    <id>tag:github.com,2023-04-10:/fxlin/p3-tee</id>
+    <link href="https://github.com/fxlin/p3-tee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wilaw/MoQ</title>
+    <updated>2023-04-10T01:40:26Z</updated>
+    <id>tag:github.com,2023-04-10:/wilaw/MoQ</id>
+    <link href="https://github.com/wilaw/MoQ" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Drafts intended for IETF MoQ WG&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

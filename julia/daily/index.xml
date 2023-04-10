@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-09T01:37:18Z</updated>
+  <updated>2023-04-10T01:38:57Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>MilesCranmer/AirspeedVelocity.jl</title>
-    <updated>2023-04-09T01:37:18Z</updated>
-    <id>tag:github.com,2023-04-09:/MilesCranmer/AirspeedVelocity.jl</id>
-    <link href="https://github.com/MilesCranmer/AirspeedVelocity.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily benchmark a Julia package over its commit history&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>byuflowlab/FLOWUnsteady</title>
+    <updated>2023-04-10T01:38:57Z</updated>
+    <id>tag:github.com,2023-04-10:/byuflowlab/FLOWUnsteady</id>
+    <link href="https://github.com/byuflowlab/FLOWUnsteady" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NVE/JulES</title>
-    <updated>2023-04-09T01:37:18Z</updated>
-    <id>tag:github.com,2023-04-09:/NVE/JulES</id>
-    <link href="https://github.com/NVE/JulES" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JULia Energy market Simulation model for long term planning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mimiframework/Mimi.jl</title>
+    <updated>2023-04-10T01:38:57Z</updated>
+    <id>tag:github.com,2023-04-10:/mimiframework/Mimi.jl</id>
+    <link href="https://github.com/mimiframework/Mimi.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Integrated Assessment Modeling Framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-09T01:44:36Z</updated>
+  <updated>2023-04-10T01:46:17Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Layr-Labs/eigenlayer-contracts</title>
-    <updated>2023-04-09T01:44:36Z</updated>
-    <id>tag:github.com,2023-04-09:/Layr-Labs/eigenlayer-contracts</id>
-    <link href="https://github.com/Layr-Labs/eigenlayer-contracts" rel="alternate"></link>
+    <title>code-423n4/2023-04-caviar</title>
+    <updated>2023-04-10T01:46:17Z</updated>
+    <id>tag:github.com,2023-04-10:/code-423n4/2023-04-caviar</id>
+    <link href="https://github.com/code-423n4/2023-04-caviar" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Web3-Club/Web3-Interactive-Learning</title>
-    <updated>2023-04-09T01:44:36Z</updated>
-    <id>tag:github.com,2023-04-09:/Web3-Club/Web3-Interactive-Learning</id>
-    <link href="https://github.com/Web3-Club/Web3-Interactive-Learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Ethereum 的Web3 互动聊天型 学习平台 助力每个Web3小白成为Web3 Hacker｜EthBeijing 2023 活动作品&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>azvast/evm-arbitrage-bot</title>
+    <updated>2023-04-10T01:46:17Z</updated>
+    <id>tag:github.com,2023-04-10:/azvast/evm-arbitrage-bot</id>
+    <link href="https://github.com/azvast/evm-arbitrage-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A flashbot to arbitrage between AMMs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>manifoldxyz/royalty-registry-solidity</title>
+    <updated>2023-04-10T01:46:17Z</updated>
+    <id>tag:github.com,2023-04-10:/manifoldxyz/royalty-registry-solidity</id>
+    <link href="https://github.com/manifoldxyz/royalty-registry-solidity" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

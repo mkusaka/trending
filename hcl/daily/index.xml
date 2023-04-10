@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-09T01:35:49Z</updated>
+  <updated>2023-04-10T01:37:12Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ygminds73/terraform-vpc</title>
-    <updated>2023-04-09T01:35:49Z</updated>
-    <id>tag:github.com,2023-04-09:/ygminds73/terraform-vpc</id>
-    <link href="https://github.com/ygminds73/terraform-vpc" rel="alternate"></link>
+    <title>kserge2001/ec2-vpc-sg-jenkins</title>
+    <updated>2023-04-10T01:37:12Z</updated>
+    <id>tag:github.com,2023-04-10:/kserge2001/ec2-vpc-sg-jenkins</id>
+    <link href="https://github.com/kserge2001/ec2-vpc-sg-jenkins" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kledsonhugo/app-static-site-ec2</title>
-    <updated>2023-04-09T01:35:49Z</updated>
-    <id>tag:github.com,2023-04-09:/kledsonhugo/app-static-site-ec2</id>
-    <link href="https://github.com/kledsonhugo/app-static-site-ec2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Lab de uso do AWS EC2&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ygminds73/terraform_rds</title>
+    <updated>2023-04-10T01:37:12Z</updated>
+    <id>tag:github.com,2023-04-10:/ygminds73/terraform_rds</id>
+    <link href="https://github.com/ygminds73/terraform_rds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gruntwork-io/terraform-kubernetes-namespace</title>
-    <updated>2023-04-09T01:35:49Z</updated>
-    <id>tag:github.com,2023-04-09:/gruntwork-io/terraform-kubernetes-namespace</id>
-    <link href="https://github.com/gruntwork-io/terraform-kubernetes-namespace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo contains a Module for managing Kubernetes Namespaces with Terraform.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kubernetes/k8s.io</title>
+    <updated>2023-04-10T01:37:12Z</updated>
+    <id>tag:github.com,2023-04-10:/kubernetes/k8s.io</id>
+    <link href="https://github.com/kubernetes/k8s.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

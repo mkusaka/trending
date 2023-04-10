@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-09T01:34:35Z</updated>
+  <updated>2023-04-10T01:34:38Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nasa/NASTRAN-95</title>
-    <updated>2023-04-09T01:34:35Z</updated>
-    <id>tag:github.com,2023-04-09:/nasa/NASTRAN-95</id>
-    <link href="https://github.com/nasa/NASTRAN-95" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

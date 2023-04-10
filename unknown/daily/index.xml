@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-09T01:29:13Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-04-10T01:28:53Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NVlabs/genvs</title>
-    <updated>2023-04-09T01:29:13Z</updated>
-    <id>tag:github.com,2023-04-09:/NVlabs/genvs</id>
-    <link href="https://github.com/NVlabs/genvs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dtlnor/stable-diffusion-webui-localization-zh_CN</title>
+    <updated>2023-04-10T01:28:53Z</updated>
+    <id>tag:github.com,2023-04-10:/dtlnor/stable-diffusion-webui-localization-zh_CN</id>
+    <link href="https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplified Chinese translation extension for AUTOMATIC1111&#39;s stable diffusion webui&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daochenzha/data-centric-AI</title>
-    <updated>2023-04-09T01:29:13Z</updated>
-    <id>tag:github.com,2023-04-09:/daochenzha/data-centric-AI</id>
-    <link href="https://github.com/daochenzha/data-centric-AI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated, but incomplete, list of data-centric AI resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>codediodeio/rektor-db</title>
+    <updated>2023-04-10T01:28:53Z</updated>
+    <id>tag:github.com,2023-04-10:/codediodeio/rektor-db</id>
+    <link href="https://github.com/codediodeio/rektor-db" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rektor Vector Database&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LabCIF-Tutorials/Tutorial-AndroidNetworkInterception</title>
-    <updated>2023-04-09T01:29:13Z</updated>
-    <id>tag:github.com,2023-04-09:/LabCIF-Tutorials/Tutorial-AndroidNetworkInterception</id>
-    <link href="https://github.com/LabCIF-Tutorials/Tutorial-AndroidNetworkInterception" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;How to intercept network trafic on Android&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yonggekkk/Replit-Xray</title>
+    <updated>2023-04-10T01:28:53Z</updated>
+    <id>tag:github.com,2023-04-10:/yonggekkk/Replit-Xray</id>
+    <link href="https://github.com/yonggekkk/Replit-Xray" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

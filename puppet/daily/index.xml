@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-09T01:41:52Z</updated>
+  <updated>2023-04-10T01:43:30Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cnacorrea/cnacorrea-vsftpd</title>
-    <updated>2023-04-09T01:41:52Z</updated>
-    <id>tag:github.com,2023-04-09:/cnacorrea/cnacorrea-vsftpd</id>
-    <link href="https://github.com/cnacorrea/cnacorrea-vsftpd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;cnacorrea-vsftpd&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

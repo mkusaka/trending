@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-09T01:44:00Z</updated>
+  <updated>2023-04-10T01:45:35Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Cold-War-Project/CWP-Main</title>
+    <updated>2023-04-10T01:45:35Z</updated>
+    <id>tag:github.com,2023-04-10:/Cold-War-Project/CWP-Main</id>
+    <link href="https://github.com/Cold-War-Project/CWP-Main" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MagicStones23/Unity-Shader-Tutorial-Interactable-Energy-Shield</title>
+    <updated>2023-04-10T01:45:35Z</updated>
+    <id>tag:github.com,2023-04-10:/MagicStones23/Unity-Shader-Tutorial-Interactable-Energy-Shield</id>
+    <link href="https://github.com/MagicStones23/Unity-Shader-Tutorial-Interactable-Energy-Shield" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
