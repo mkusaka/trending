@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:28:53Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-04-11T01:28:51Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dtlnor/stable-diffusion-webui-localization-zh_CN</title>
-    <updated>2023-04-10T01:28:53Z</updated>
-    <id>tag:github.com,2023-04-10:/dtlnor/stable-diffusion-webui-localization-zh_CN</id>
-    <link href="https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simplified Chinese translation extension for AUTOMATIC1111&#39;s stable diffusion webui&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coderit666/GoGuide</title>
+    <updated>2023-04-11T01:28:51Z</updated>
+    <id>tag:github.com,2023-04-11:/coderit666/GoGuide</id>
+    <link href="https://github.com/coderit666/GoGuide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>codediodeio/rektor-db</title>
-    <updated>2023-04-10T01:28:53Z</updated>
-    <id>tag:github.com,2023-04-10:/codediodeio/rektor-db</id>
-    <link href="https://github.com/codediodeio/rektor-db" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rektor Vector Database&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>taishi-i/awesome-ChatGPT-repositories</title>
+    <updated>2023-04-11T01:28:51Z</updated>
+    <id>tag:github.com,2023-04-11:/taishi-i/awesome-ChatGPT-repositories</id>
+    <link href="https://github.com/taishi-i/awesome-ChatGPT-repositories" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of resources dedicated to open source GitHub repositories related to ChatGPT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yonggekkk/Replit-Xray</title>
-    <updated>2023-04-10T01:28:53Z</updated>
-    <id>tag:github.com,2023-04-10:/yonggekkk/Replit-Xray</id>
-    <link href="https://github.com/yonggekkk/Replit-Xray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Replit容器部署xray代理，支持自定义伪装网页，一键五协议共存，支持搭建vless、vmess、trojan、shadowsocks、socks&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>underlines/awesome-marketing-datascience</title>
+    <updated>2023-04-11T01:28:51Z</updated>
+    <id>tag:github.com,2023-04-11:/underlines/awesome-marketing-datascience</id>
+    <link href="https://github.com/underlines/awesome-marketing-datascience" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of useful Datascience things across the web&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

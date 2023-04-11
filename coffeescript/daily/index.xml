@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:31:30Z</updated>
+  <updated>2023-04-11T01:31:37Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cabin/jquery-tapclick</title>
-    <updated>2023-04-10T01:31:30Z</updated>
-    <id>tag:github.com,2023-04-10:/cabin/jquery-tapclick</id>
-    <link href="https://github.com/cabin/jquery-tapclick" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;jQuery plugin implementing faster clicks on mobile&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atom/language-javascript</title>
+    <updated>2023-04-11T01:31:37Z</updated>
+    <id>tag:github.com,2023-04-11:/atom/language-javascript</id>
+    <link href="https://github.com/atom/language-javascript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JavaScript language package for Atom&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

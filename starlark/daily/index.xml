@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:46:30Z</updated>
+  <updated>2023-04-11T01:44:39Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apache/rocketmq-apis</title>
-    <updated>2023-04-10T01:46:30Z</updated>
-    <id>tag:github.com,2023-04-10:/apache/rocketmq-apis</id>
-    <link href="https://github.com/apache/rocketmq-apis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RocketMQ APIs - Protobuf definition for Apache RocketMQ&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

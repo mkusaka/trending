@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:42:02Z</updated>
+  <updated>2023-04-11T01:40:21Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jfeser/bitarray</title>
-    <updated>2023-04-10T01:42:02Z</updated>
-    <id>tag:github.com,2023-04-10:/jfeser/bitarray</id>
-    <link href="https://github.com/jfeser/bitarray" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast vectorized bitarrays for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>a-blender/cmsc330</title>
-    <updated>2023-04-10T01:42:02Z</updated>
-    <id>tag:github.com,2023-04-10:/a-blender/cmsc330</id>
-    <link href="https://github.com/a-blender/cmsc330" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Organization of Programming Languages | University of Maryland | Fall 2016&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>smimram/strid</title>
-    <updated>2023-04-10T01:42:02Z</updated>
-    <id>tag:github.com,2023-04-10:/smimram/strid</id>
-    <link href="https://github.com/smimram/strid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A string diagram generator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

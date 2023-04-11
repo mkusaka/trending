@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:45:18Z</updated>
+  <updated>2023-04-11T01:43:17Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>yauhen25/git-rep</title>
-    <updated>2023-04-10T01:45:18Z</updated>
-    <id>tag:github.com,2023-04-10:/yauhen25/git-rep</id>
-    <link href="https://github.com/yauhen25/git-rep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Launch &lt;a href=&#34;http://code.google.com/p/simple-build-tool&#34;&gt;SBT&lt;/a&gt;.&lt;/p&gt; &lt;pre&gt;&lt;code&gt; ./sbt&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Run Jetty&lt;/p&gt; &lt;pre&gt;&lt;code&gt; container:start&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
 </feed>

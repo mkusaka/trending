@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:35:10Z</updated>
+  <updated>2023-04-11T01:34:46Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Null-MC/Shrimple</title>
+    <updated>2023-04-11T01:34:46Z</updated>
+    <id>tag:github.com,2023-04-11:/Null-MC/Shrimple</id>
+    <link href="https://github.com/Null-MC/Shrimple" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Minecraft Java shader that attempts to maintain the vanilla aesthetic while adding optional shadows &amp; colored lighting.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Roaa94/flutter-world-of-shaders</title>
+    <updated>2023-04-11T01:34:46Z</updated>
+    <id>tag:github.com,2023-04-11:/Roaa94/flutter-world-of-shaders</id>
+    <link href="https://github.com/Roaa94/flutter-world-of-shaders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shader examples with Flutter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:44:58Z</updated>
+  <updated>2023-04-11T01:43:06Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jonhoo/rustengan</title>
+    <updated>2023-04-11T01:43:06Z</updated>
+    <id>tag:github.com,2023-04-11:/jonhoo/rustengan</id>
+    <link href="https://github.com/jonhoo/rustengan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://fly.io/dist-sys/ in Rust&lt;/p&gt;&lt;hr&gt;&lt;p&gt;The &lt;a href=&#34;https://fly.io/dist-sys/&#34;&gt;fly.io distributed systems challenges&lt;/a&gt; solved in Rust.&lt;/p&gt; &#xA;&lt;p&gt;Live-streamed in &lt;a href=&#34;https://youtu.be/gboGyccRVXI&#34;&gt;https://youtu.be/gboGyccRVXI&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Licensed under either of&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Apache License, Version 2.0 (&lt;a href=&#34;https://raw.githubusercontent.com/jonhoo/rustengan/main/LICENSE-APACHE&#34;&gt;LICENSE-APACHE&lt;/a&gt; or &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0&lt;/a&gt;)&lt;/li&gt; &#xA; &lt;li&gt;MIT license (&lt;a href=&#34;https://raw.githubusercontent.com/jonhoo/rustengan/main/LICENSE-MIT&#34;&gt;LICENSE-MIT&lt;/a&gt; or &lt;a href=&#34;http://opensource.org/licenses/MIT&#34;&gt;http://opensource.org/licenses/MIT&lt;/a&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;at your option.&lt;/p&gt; &#xA;&lt;h2&gt;Contribution&lt;/h2&gt; &#xA;&lt;p&gt;Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.&lt;/p&gt;</summary>
+  </entry>
 </feed>

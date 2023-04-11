@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:32:45Z</updated>
+  <updated>2023-04-11T01:32:44Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kamilk128/evento-restapi-docker</title>
-    <updated>2023-04-10T01:32:45Z</updated>
-    <id>tag:github.com,2023-04-10:/kamilk128/evento-restapi-docker</id>
-    <link href="https://github.com/kamilk128/evento-restapi-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;evento-restapi-docker&lt;/h1&gt;</summary>
+    <title>roopendra/devops</title>
+    <updated>2023-04-11T01:32:44Z</updated>
+    <id>tag:github.com,2023-04-11:/roopendra/devops</id>
+    <link href="https://github.com/roopendra/devops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DEVOPS Tutorial Series&lt;/h1&gt; &#xA;&lt;h2&gt;Docker&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/roopendra/devops/tree/master/docker&#34;&gt;https://github.com/roopendra/devops/tree/master/docker&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Kubernetes :&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/roopendra/devops/tree/master/kubernetes&#34;&gt;https://github.com/roopendra/devops/tree/master/kubernetes&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

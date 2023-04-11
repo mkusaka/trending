@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-10T01:39:01Z</updated>
+  <updated>2023-04-11T01:37:43Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ataozarslan/IBB_Yapay_Zeka_Kampi</title>
-    <updated>2023-04-10T01:39:01Z</updated>
-    <id>tag:github.com,2023-04-10:/ataozarslan/IBB_Yapay_Zeka_Kampi</id>
-    <link href="https://github.com/ataozarslan/IBB_Yapay_Zeka_Kampi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;İBB Yapay Zeka Kampı eğitiminde kullanılan ders materyallerini bu adreste bulabilirsiniz.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IBB_Yapay_Zeka_Kampi&lt;/h1&gt;</summary>
+    <title>jpmorganchase/python-training</title>
+    <updated>2023-04-11T01:37:43Z</updated>
+    <id>tag:github.com,2023-04-11:/jpmorganchase/python-training</id>
+    <link href="https://github.com/jpmorganchase/python-training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Python training for business analysts and traders&lt;/p&gt;&lt;hr&gt;&lt;img width=&#34;50%&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/J_P_Morgan_Logo_2008_1.svg/1280px-J_P_Morgan_Logo_2008_1.svg.png&#34;&gt; &#xA;&lt;h1&gt;Python Training&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;This Python training is for JPMorgan business analysts and traders, as well as select clients.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/github/license/jpmorganchase/python-training?style=flat-square&#34; alt=&#34;GitHub&#34;&gt; &lt;a href=&#34;mailto:open_source@jpmorgan.com&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square&#34; alt=&#34;Contact&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Overview&lt;/h2&gt; &#xA;&lt;p&gt;This course is designed to be an introduction to numerical computing and data visualization in Python. It is not designed to be a complete course in Computer Science or programming, but rather a motivational demonstration of how relatively complex topics can be accessible even to those without formal progamming backgrounds.&lt;/p&gt; &#xA;&lt;p&gt;This training is designed to be conducted in-person, led by J.P. Morgan technologists and traders. For interested institutional clients, please reach out &lt;a href=&#34;mailto:open_source@jpmorgan.com&#34;&gt;via email&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://mybinder.org/v2/gh/jpmorganchase/python-training/main?urlpath=lab&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Launch-Cloud%20Instance-brightgreen?style=for-the-badge&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Platform Attribution&lt;/h2&gt; &#xA;&lt;p&gt;This repository relies on the &lt;a href=&#34;https://mybinder.readthedocs.io/en/latest/about.html&#34;&gt;Binder&lt;/a&gt; project, which is generously supported by &lt;a href=&#34;https://cloud.google.com/&#34;&gt;Google Cloud Platform&lt;/a&gt;, &lt;a href=&#34;https://www.ovh.com/world/&#34;&gt;OVH&lt;/a&gt;, &lt;a href=&#34;https://notebooks.gesis.org&#34;&gt;GESIS Notebooks&lt;/a&gt; and the &lt;a href=&#34;https://www.turing.ac.uk&#34;&gt;Turing Institute&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Data Attribution&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Financial data provided by &lt;a href=&#34;https://iexcloud.io&#34;&gt;IEX Cloud&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Airport and route data provided by &lt;a href=&#34;https://openflights.org/data.html#license&#34;&gt;OpenFlights.org&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;This software is licensed under the Apache 2 license. See the &lt;a href=&#34;https://raw.githubusercontent.com/jpmorganchase/python-training/main/LICENSE&#34;&gt;LICENSE&lt;/a&gt; file for details.&lt;/p&gt;</summary>
   </entry>
 </feed>
