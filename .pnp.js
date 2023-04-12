@@ -184,7 +184,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/fs-extra-npm-8.1.0-197473387f-056a96d4f5.zip/node_modules/fs-extra/",
           "packageDependencies": [
             ["fs-extra", "npm:8.1.0"],
-            ["graceful-fs", "npm:4.2.10"],
+            ["graceful-fs", "npm:4.2.11"],
             ["jsonfile", "npm:4.0.0"],
             ["universalify", "npm:0.1.2"]
           ],
@@ -246,10 +246,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["graceful-fs", [
-        ["npm:4.2.10", {
-          "packageLocation": "./.yarn/cache/graceful-fs-npm-4.2.10-79c70989ca-f86679a8a5.zip/node_modules/graceful-fs/",
+        ["npm:4.2.11", {
+          "packageLocation": "./.yarn/cache/graceful-fs-npm-4.2.11-24bb648a68-99533f7c73.zip/node_modules/graceful-fs/",
           "packageDependencies": [
-            ["graceful-fs", "npm:4.2.10"]
+            ["graceful-fs", "npm:4.2.11"]
           ],
           "linkType": "HARD",
         }]
@@ -279,7 +279,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/jsonfile-npm-4.0.0-10ce3aea15-a40b7b64da.zip/node_modules/jsonfile/",
           "packageDependencies": [
             ["jsonfile", "npm:4.0.0"],
-            ["graceful-fs", "npm:4.2.10"]
+            ["graceful-fs", "npm:4.2.11"]
           ],
           "linkType": "HARD",
         }]
