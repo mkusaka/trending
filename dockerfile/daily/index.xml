@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-11T01:32:44Z</updated>
+  <updated>2023-04-12T02:23:13Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>roopendra/devops</title>
-    <updated>2023-04-11T01:32:44Z</updated>
-    <id>tag:github.com,2023-04-11:/roopendra/devops</id>
-    <link href="https://github.com/roopendra/devops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DEVOPS Tutorial Series&lt;/h1&gt; &#xA;&lt;h2&gt;Docker&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/roopendra/devops/tree/master/docker&#34;&gt;https://github.com/roopendra/devops/tree/master/docker&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Kubernetes :&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/roopendra/devops/tree/master/kubernetes&#34;&gt;https://github.com/roopendra/devops/tree/master/kubernetes&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>mycloudazure/test_jenkins</title>
+    <updated>2023-04-12T02:23:13Z</updated>
+    <id>tag:github.com,2023-04-12:/mycloudazure/test_jenkins</id>
+    <link href="https://github.com/mycloudazure/test_jenkins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ShadowObj/v2plusRender</title>
+    <updated>2023-04-12T02:23:13Z</updated>
+    <id>tag:github.com,2023-04-12:/ShadowObj/v2plusRender</id>
+    <link href="https://github.com/ShadowObj/v2plusRender" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;run v2ray on Render&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

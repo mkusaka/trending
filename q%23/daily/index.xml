@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Q# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-11T01:42:06Z</updated>
+  <updated>2023-04-12T02:32:57Z</updated>
   <subtitle>Daily Trending of Q# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DevDayBe/edition-2023</title>
+    <updated>2023-04-12T02:32:57Z</updated>
+    <id>tag:github.com,2023-04-12:/DevDayBe/edition-2023</id>
+    <link href="https://github.com/DevDayBe/edition-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Go to the Flow, this repository contains all ressources provided by speakers during the Edition 2023&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

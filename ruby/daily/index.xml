@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-11T01:42:52Z</updated>
+  <updated>2023-04-12T02:33:48Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>docker-hy/material-applications</title>
-    <updated>2023-04-11T01:42:52Z</updated>
-    <id>tag:github.com,2023-04-11:/docker-hy/material-applications</id>
-    <link href="https://github.com/docker-hy/material-applications" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Docker material applications&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;material-applications&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains example applications for the course DevOps with Docker.&lt;/p&gt;</summary>
-  </entry>
 </feed>

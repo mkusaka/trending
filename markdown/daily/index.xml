@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-11T01:38:57Z</updated>
+  <updated>2023-04-12T02:29:11Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Anmol-Baranwal/Cool-GIFs-For-GitHub</title>
+    <updated>2023-04-12T02:29:11Z</updated>
+    <id>tag:github.com,2023-04-12:/Anmol-Baranwal/Cool-GIFs-For-GitHub</id>
+    <link href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤝 Awesome List of GIFs &amp; avatars to use in GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-11T01:36:16Z</updated>
+  <updated>2023-04-12T02:26:02Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudposse/terraform-aws-ses</title>
-    <updated>2023-04-11T01:36:16Z</updated>
-    <id>tag:github.com,2023-04-11:/cloudposse/terraform-aws-ses</id>
-    <link href="https://github.com/cloudposse/terraform-aws-ses" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision Simple Email Service on AWS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>georgeonalo/terraform-modules</title>
+    <updated>2023-04-12T02:26:02Z</updated>
+    <id>tag:github.com,2023-04-12:/georgeonalo/terraform-modules</id>
+    <link href="https://github.com/georgeonalo/terraform-modules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the repository for storing terraform modules&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devopshobbies/terraform-templates</title>
-    <updated>2023-04-11T01:36:16Z</updated>
-    <id>tag:github.com,2023-04-11:/devopshobbies/terraform-templates</id>
-    <link href="https://github.com/devopshobbies/terraform-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The complete Terraform tutorial, reference, awesome examples with no Public cloud provider&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cattle-ops/terraform-aws-gitlab-runner</title>
+    <updated>2023-04-12T02:26:02Z</updated>
+    <id>tag:github.com,2023-04-12:/cattle-ops/terraform-aws-gitlab-runner</id>
+    <link href="https://github.com/cattle-ops/terraform-aws-gitlab-runner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for AWS GitLab runners on ec2 (spot) instances&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sai95573/murali-terraform</title>
+    <updated>2023-04-12T02:26:02Z</updated>
+    <id>tag:github.com,2023-04-12:/sai95573/murali-terraform</id>
+    <link href="https://github.com/sai95573/murali-terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
