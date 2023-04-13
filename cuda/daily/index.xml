@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:22:30Z</updated>
+  <updated>2023-04-13T01:32:10Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mawerty/Is-Prime</title>
-    <updated>2023-04-12T02:22:30Z</updated>
-    <id>tag:github.com,2023-04-12:/mawerty/Is-Prime</id>
-    <link href="https://github.com/mawerty/Is-Prime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;O(1) Algorithm to check if number is prime that works in 95%+ cases.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes</title>
+    <updated>2023-04-13T01:32:10Z</updated>
+    <id>tag:github.com,2023-04-13:/Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes</id>
+    <link href="https://github.com/Eddie-Wang1120/Professional-CUDA-C-Programming-Code-and-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CUDA C 编程权威指南代码实现 包含了书上第二章到第八章的大部分代码实现和作者笔记，全由作者本人手动实现，难免有错误的地方，请大家谨慎参考，非常欢迎对错误的指正。 如果有帮助的话请Star一下，对作者帮助很大，谢谢！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

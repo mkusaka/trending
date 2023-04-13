@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:21:46Z</updated>
+  <updated>2023-04-13T01:31:28Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alexdforeman/project-euler-clj</title>
-    <updated>2023-04-12T02:21:46Z</updated>
-    <id>tag:github.com,2023-04-12:/alexdforeman/project-euler-clj</id>
-    <link href="https://github.com/alexdforeman/project-euler-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My attempts at http://projecteuler.net/progress=Cl1maX&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kumarshantanu/ide-files</title>
+    <updated>2023-04-13T01:31:28Z</updated>
+    <id>tag:github.com,2023-04-13:/kumarshantanu/ide-files</id>
+    <link href="https://github.com/kumarshantanu/ide-files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DEPCRATED. Leiningen template to generate IDE files for existing projects. Superseded by the lein-idefiles plugin.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>avelino/logseq-languagetool</title>
+    <updated>2023-04-13T01:31:28Z</updated>
+    <id>tag:github.com,2023-04-13:/avelino/logseq-languagetool</id>
+    <link href="https://github.com/avelino/logseq-languagetool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a plugin for Logseq to check grammar and spelling using LanguageeTool&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cgag/aleph-testing</title>
+    <updated>2023-04-13T01:31:28Z</updated>
+    <id>tag:github.com,2023-04-13:/cgag/aleph-testing</id>
+    <link href="https://github.com/cgag/aleph-testing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing around with Aleph&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

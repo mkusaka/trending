@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:25:40Z</updated>
+  <updated>2023-04-13T01:35:11Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vikash-kumar01/jenkins-shared-library</title>
-    <updated>2023-04-12T02:25:40Z</updated>
-    <id>tag:github.com,2023-04-12:/vikash-kumar01/jenkins-shared-library</id>
-    <link href="https://github.com/vikash-kumar01/jenkins-shared-library" rel="alternate"></link>
+    <title>SymmetricDevs/Supersymmetry</title>
+    <updated>2023-04-13T01:35:11Z</updated>
+    <id>tag:github.com,2023-04-13:/SymmetricDevs/Supersymmetry</id>
+    <link href="https://github.com/SymmetricDevs/Supersymmetry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for the Supersymmetry Minecraft Modpack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Netflix/mantis-gradle-plugin</title>
+    <updated>2023-04-13T01:35:11Z</updated>
+    <id>tag:github.com,2023-04-13:/Netflix/mantis-gradle-plugin</id>
+    <link href="https://github.com/Netflix/mantis-gradle-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gradle plugin for producing a deployable Mantis Job artifact from a JVM-based project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tim-sim/groovy_tools</title>
+    <updated>2023-04-13T01:35:11Z</updated>
+    <id>tag:github.com,2023-04-13:/tim-sim/groovy_tools</id>
+    <link href="https://github.com/tim-sim/groovy_tools" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

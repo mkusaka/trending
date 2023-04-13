@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:27:36Z</updated>
+  <updated>2023-04-13T01:37:26Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nikopj/FlashAttention.jl</title>
-    <updated>2023-04-12T02:27:36Z</updated>
-    <id>tag:github.com,2023-04-12:/nikopj/FlashAttention.jl</id>
-    <link href="https://github.com/nikopj/FlashAttention.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia implementation of flash-attention operation for neural networks.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaData/DataFramesMeta.jl</title>
+    <updated>2023-04-13T01:37:26Z</updated>
+    <id>tag:github.com,2023-04-13:/JuliaData/DataFramesMeta.jl</id>
+    <link href="https://github.com/JuliaData/DataFramesMeta.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Metaprogramming tools for DataFrames&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:34:36Z</updated>
+  <updated>2023-04-13T01:43:59Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dandi/dandi.github.io</title>
-    <updated>2023-04-12T02:34:36Z</updated>
-    <id>tag:github.com,2023-04-12:/dandi/dandi.github.io</id>
-    <link href="https://github.com/dandi/dandi.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website code for DANDI Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vinceliuice/Lavanda-gtk-theme</title>
+    <updated>2023-04-13T01:43:59Z</updated>
+    <id>tag:github.com,2023-04-13:/vinceliuice/Lavanda-gtk-theme</id>
+    <link href="https://github.com/vinceliuice/Lavanda-gtk-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lavanda gtk theme for linux desktops&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CloudCannon/sendit-astro-template</title>
+    <updated>2023-04-13T01:43:59Z</updated>
+    <id>tag:github.com,2023-04-13:/CloudCannon/sendit-astro-template</id>
+    <link href="https://github.com/CloudCannon/sendit-astro-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sendit template on Astro&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

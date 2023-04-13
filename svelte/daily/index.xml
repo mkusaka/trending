@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:35:59Z</updated>
+  <updated>2023-04-13T01:45:12Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hyunbinseo/jamoya.one</title>
-    <updated>2023-04-12T02:35:59Z</updated>
-    <id>tag:github.com,2023-04-12:/hyunbinseo/jamoya.one</id>
-    <link href="https://github.com/hyunbinseo/jamoya.one" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;자소가 분리된 한글 파일명을 고치는 도구&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>austinjstromme/CoffeeTeam</title>
-    <updated>2023-04-12T02:35:59Z</updated>
-    <id>tag:github.com,2023-04-12:/austinjstromme/CoffeeTeam</id>
-    <link href="https://github.com/austinjstromme/CoffeeTeam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CoffeTeam&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SvelteLab/SvelteLab</title>
+    <updated>2023-04-13T01:45:12Z</updated>
+    <id>tag:github.com,2023-04-13:/SvelteLab/SvelteLab</id>
+    <link href="https://github.com/SvelteLab/SvelteLab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;supercharged REPL for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

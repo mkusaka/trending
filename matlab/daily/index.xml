@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:29:16Z</updated>
+  <updated>2023-04-13T01:38:53Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IMFS-MMB/mmb-rep</title>
-    <updated>2023-04-12T02:29:16Z</updated>
-    <id>tag:github.com,2023-04-12:/IMFS-MMB/mmb-rep</id>
-    <link href="https://github.com/IMFS-MMB/mmb-rep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Macroeconomic modelling database (MMB) replication files archive&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mbewu/DTC-OSTI-Disease-GroupC2</title>
+    <updated>2023-04-13T01:38:53Z</updated>
+    <id>tag:github.com,2023-04-13:/Mbewu/DTC-OSTI-Disease-GroupC2</id>
+    <link href="https://github.com/Mbewu/DTC-OSTI-Disease-GroupC2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for handin of OSTI project Phase 2. Group members: James Mbewu, Robert Ross, Jackie And, Jonathan Brooks-Bartlett and Alexander Erlich&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:31:14Z</updated>
+  <updated>2023-04-13T01:40:44Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Noso-Project/consominer2</title>
-    <updated>2023-04-12T02:31:14Z</updated>
-    <id>tag:github.com,2023-04-12:/Noso-Project/consominer2</id>
-    <link href="https://github.com/Noso-Project/consominer2" rel="alternate"></link>
+    <title>Noso-Project/nosoearn</title>
+    <updated>2023-04-13T01:40:44Z</updated>
+    <id>tag:github.com,2023-04-13:/Noso-Project/nosoearn</id>
+    <link href="https://github.com/Noso-Project/nosoearn" rel="alternate"></link>
     <summary type="html">&lt;p&gt;consominer upgraded to work with PoPW&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Noso-Project/NosoLite</title>
+    <updated>2023-04-13T01:40:44Z</updated>
+    <id>tag:github.com,2023-04-13:/Noso-Project/NosoLite</id>
+    <link href="https://github.com/Noso-Project/NosoLite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Noso project cryptocurrency light wallet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

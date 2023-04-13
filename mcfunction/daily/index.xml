@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub mcfunction Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:29:19Z</updated>
+  <updated>2023-04-13T01:38:56Z</updated>
   <subtitle>Daily Trending of mcfunction in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ctm-community/mapwreck-6-datapacks</title>
+    <updated>2023-04-13T01:38:56Z</updated>
+    <id>tag:github.com,2023-04-13:/ctm-community/mapwreck-6-datapacks</id>
+    <link href="https://github.com/ctm-community/mapwreck-6-datapacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Datapacks for Mapwreck 6&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

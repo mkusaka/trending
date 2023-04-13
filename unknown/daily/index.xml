@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-12T02:18:52Z</updated>
+  <updated>2023-04-13T01:29:02Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>youssefHosni/Data-Science-Interview-Preperation-Resources</title>
-    <updated>2023-04-12T02:18:52Z</updated>
-    <id>tag:github.com,2023-04-12:/youssefHosni/Data-Science-Interview-Preperation-Resources</id>
-    <link href="https://github.com/youssefHosni/Data-Science-Interview-Preperation-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resoruce to help you to prepare for your comming data science interviews&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chenking2020/FindTheChatGPTer</title>
+    <updated>2023-04-13T01:29:02Z</updated>
+    <id>tag:github.com,2023-04-13:/chenking2020/FindTheChatGPTer</id>
+    <link href="https://github.com/chenking2020/FindTheChatGPTer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;汇总那些ChatGPT的平替们&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TommyZihao/zihao_course</title>
-    <updated>2023-04-12T02:18:52Z</updated>
-    <id>tag:github.com,2023-04-12:/TommyZihao/zihao_course</id>
-    <link href="https://github.com/TommyZihao/zihao_course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;同济子豪兄的公开课&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pashov/audits</title>
-    <updated>2023-04-12T02:18:52Z</updated>
-    <id>tag:github.com,2023-04-12:/pashov/audits</id>
-    <link href="https://github.com/pashov/audits" rel="alternate"></link>
+    <title>cosmos/chain-registry</title>
+    <updated>2023-04-13T01:29:02Z</updated>
+    <id>tag:github.com,2023-04-13:/cosmos/chain-registry</id>
+    <link href="https://github.com/cosmos/chain-registry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>liusongxiang/diffsvc</title>
+    <updated>2023-04-13T01:29:02Z</updated>
+    <id>tag:github.com,2023-04-13:/liusongxiang/diffsvc</id>
+    <link href="https://github.com/liusongxiang/diffsvc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DiffSVC demo page&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
