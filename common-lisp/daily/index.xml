@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-13T01:31:43Z</updated>
+  <updated>2023-04-14T01:31:35Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ryszard/submarine</title>
-    <updated>2023-04-13T01:31:43Z</updated>
-    <id>tag:github.com,2023-04-13:/ryszard/submarine</id>
-    <link href="https://github.com/ryszard/submarine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Submarine&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is Submarine, and ORM for Common Lisp and Postgresql. It&#39;s not maintained anymore, I put it on GitHub for archiving reasons.&lt;/p&gt; &#xA;&lt;p&gt;See Submarine&#39;s website: &lt;a href=&#34;http://common-lisp.net/project/submarine/&#34;&gt;http://common-lisp.net/project/submarine/&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

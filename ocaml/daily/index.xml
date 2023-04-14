@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-13T01:40:16Z</updated>
+  <updated>2023-04-14T01:41:14Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chshersh/zbg</title>
+    <updated>2023-04-14T01:41:14Z</updated>
+    <id>tag:github.com,2023-04-14:/chshersh/zbg</id>
+    <link href="https://github.com/chshersh/zbg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ Zero bullshit git&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fredfeng/CS160</title>
+    <updated>2023-04-14T01:41:14Z</updated>
+    <id>tag:github.com,2023-04-14:/fredfeng/CS160</id>
+    <link href="https://github.com/fredfeng/CS160" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dbuenzli/cmarkit</title>
+    <updated>2023-04-14T01:41:14Z</updated>
+    <id>tag:github.com,2023-04-14:/dbuenzli/cmarkit</id>
+    <link href="https://github.com/dbuenzli/cmarkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CommonMark parser and renderer for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

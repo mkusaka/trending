@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-13T01:29:46Z</updated>
+  <updated>2023-04-14T01:29:45Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>keigomichi/magic-spreadsheets</title>
-    <updated>2023-04-13T01:29:46Z</updated>
-    <id>tag:github.com,2023-04-13:/keigomichi/magic-spreadsheets</id>
-    <link href="https://github.com/keigomichi/magic-spreadsheets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ITエンジニアインターン情報が集まる魔法のスプレッドシート&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Team-Kujira/developer</title>
-    <updated>2023-04-13T01:29:46Z</updated>
-    <id>tag:github.com,2023-04-13:/Team-Kujira/developer</id>
-    <link href="https://github.com/Team-Kujira/developer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source code and content for the Kujira developer documentation site.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

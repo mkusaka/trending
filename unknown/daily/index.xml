@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-13T01:29:02Z</updated>
+  <updated>2023-04-14T01:28:59Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chenking2020/FindTheChatGPTer</title>
-    <updated>2023-04-13T01:29:02Z</updated>
-    <id>tag:github.com,2023-04-13:/chenking2020/FindTheChatGPTer</id>
-    <link href="https://github.com/chenking2020/FindTheChatGPTer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;汇总那些ChatGPT的平替们&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imaurer/awesome-decentralized-llm</title>
+    <updated>2023-04-14T01:28:59Z</updated>
+    <id>tag:github.com,2023-04-14:/imaurer/awesome-decentralized-llm</id>
+    <link href="https://github.com/imaurer/awesome-decentralized-llm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of LLM resources that can be used to build products you can &#34;own&#34; or to perform reproducible research.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cosmos/chain-registry</title>
-    <updated>2023-04-13T01:29:02Z</updated>
-    <id>tag:github.com,2023-04-13:/cosmos/chain-registry</id>
-    <link href="https://github.com/cosmos/chain-registry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>VainF/Awesome-Anything</title>
+    <updated>2023-04-14T01:28:59Z</updated>
+    <id>tag:github.com,2023-04-14:/VainF/Awesome-Anything</id>
+    <link href="https://github.com/VainF/Awesome-Anything" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>liusongxiang/diffsvc</title>
-    <updated>2023-04-13T01:29:02Z</updated>
-    <id>tag:github.com,2023-04-13:/liusongxiang/diffsvc</id>
-    <link href="https://github.com/liusongxiang/diffsvc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DiffSVC demo page&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>education/PR-TalentLandMX</title>
+    <updated>2023-04-14T01:28:59Z</updated>
+    <id>tag:github.com,2023-04-14:/education/PR-TalentLandMX</id>
+    <link href="https://github.com/education/PR-TalentLandMX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Participa para ganar swag especial dentro de Talend Land 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

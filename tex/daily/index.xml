@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-13T01:45:45Z</updated>
+  <updated>2023-04-14T01:47:20Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>proback/BeyondMLR</title>
-    <updated>2023-04-13T01:45:45Z</updated>
-    <id>tag:github.com,2023-04-13:/proback/BeyondMLR</id>
-    <link href="https://github.com/proback/BeyondMLR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for January 2021 version of Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R. The rendered version can be found at: https://bookdown.org/roback/bookdown-BeyondMLR/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BeyondMLR&lt;/h1&gt; &#xA;&lt;p&gt;Repo for January 2021 version of Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R. The rendered version can be found at: &lt;a href=&#34;https://bookdown.org/roback/bookdown-BeyondMLR/&#34;&gt;https://bookdown.org/roback/bookdown-BeyondMLR/&lt;/a&gt;, and hard copies can be purchased through &lt;a href=&#34;https://www.routledge.com/Beyond-Multiple-Linear-Regression-Applied-Generalized-Linear-Models-And/Roback-Legler/p/book/9781439885383&#34;&gt;CRC Press&lt;/a&gt; or on &lt;a href=&#34;https://www.amazon.com/Generalized-Correlated-Methods-Chapman-Statistical/dp/1439885389&#34;&gt;Amazon&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/proback/BeyondMLR/master/data/book_cover.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;© 2021 by Taylor &amp;amp; Francis Group, LLC. Except as permitted under U.S. copyright law, no part of this book may be reprinted, reproduced, transmitted, or utilized in any form by an electronic, mechanical, or other means, now known or hereafter invented, including photocopying, microfilming, and recording, or in any information storage or retrieval system, without written permission from the publishers.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34;&gt;&lt;/a&gt;&lt;br&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>skeydan/Deep-Learning-and-Scientific-Computing-with-R-torch</title>
-    <updated>2023-04-13T01:45:45Z</updated>
-    <id>tag:github.com,2023-04-13:/skeydan/Deep-Learning-and-Scientific-Computing-with-R-torch</id>
-    <link href="https://github.com/skeydan/Deep-Learning-and-Scientific-Computing-with-R-torch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Deep Learning and Scientific Computing with R torch&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This is the repository for the book &lt;a href=&#34;https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/&#34;&gt;Deep Learning and Scientific Computing with R torch&lt;/a&gt;, written by &lt;a href=&#34;https://divergences.xyz/&#34;&gt;Sigrid Keydana&lt;/a&gt; and published by &lt;a href=&#34;https://doi.org/10.1201/9781003275923&#34;&gt;CRC Press&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Please note that this work is written under a Contributor Code of Conduct, and the online version is licensed under a &lt;a href=&#34;https://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License&lt;/a&gt;. By participating in this project (for example, by submitting an issue with suggestions or edits) you agree to abide by its terms.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>searhein/trilinos-paper</title>
-    <updated>2023-04-13T01:45:45Z</updated>
-    <id>tag:github.com,2023-04-13:/searhein/trilinos-paper</id>
-    <link href="https://github.com/searhein/trilinos-paper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;trilinos-paper&lt;/h1&gt; &#xA;&lt;p&gt;This repository is to coordinate the writing of the Trilinos paper.&lt;/p&gt;</summary>
+    <title>htw-pv3/literature</title>
+    <updated>2023-04-14T01:47:20Z</updated>
+    <id>tag:github.com,2023-04-14:/htw-pv3/literature</id>
+    <link href="https://github.com/htw-pv3/literature" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bibfiles and literature&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;literature&lt;/h1&gt; &#xA;&lt;h2&gt;Repo Description&lt;/h2&gt; &#xA;&lt;p&gt;This Repository contains literature about the &#34;PV3 - Solaranlagen und -kraftwerke&#34; lecture at HTW-Berlin. It contains cheat-sheets for the different software tools which are used during the course.&lt;/p&gt; &#xA;&lt;p&gt;During the course the students will write a joint protocol in which information about the weekly lectures is documented. These documents can be found within the folder minutes.&lt;/p&gt; &#xA;&lt;h2&gt;Additional Information&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/ether/etherpad-lite/wiki/Sites-that-run-Etherpad-Lite&#34;&gt;List of alternative Etherpads&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Bibfiles and literature&lt;/p&gt; &#xA;&lt;p&gt;already at place:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Software (Bibtex-Eintrag &#34;shared_literature.bib&#34;)&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;git - tutorials and commands&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Python&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;PV for engineers&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;software&lt;/strong&gt;: contains Metadata for the software we work with&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;git:&lt;/strong&gt; is a version control software that allows a collaboration of different persons on a project at the same time&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Python:&lt;/strong&gt; Python is an open source programming language that is easy to learn and suitable for numerous purposes&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;strong&gt;Pv for engineers:&lt;/strong&gt; information about pv-systems that empower us to set it up!&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>
