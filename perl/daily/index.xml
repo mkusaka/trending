@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-14T01:41:54Z</updated>
+  <updated>2023-04-15T02:55:04Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SvenDowideit/foswiki-plack-hack</title>
+    <updated>2023-04-15T02:55:04Z</updated>
+    <id>tag:github.com,2023-04-15:/SvenDowideit/foswiki-plack-hack</id>
+    <link href="https://github.com/SvenDowideit/foswiki-plack-hack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;hacking foswiki 1.1.7 to run using plack the simple CGIWrapper way&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>supplantr/busking</title>
+    <updated>2023-04-15T02:55:04Z</updated>
+    <id>tag:github.com,2023-04-15:/supplantr/busking</id>
+    <link href="https://github.com/supplantr/busking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple, regex-based xdg-open replacement.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;busking&lt;/h1&gt; &#xA;&lt;h2&gt;dependencies&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;perl&lt;/li&gt; &#xA; &lt;li&gt;File::MimeInfo (&lt;a href=&#34;http://search.cpan.org/dist/File-MimeInfo/&#34;&gt;perl module&lt;/a&gt;)&lt;/li&gt; &#xA; &lt;li&gt;procps{,-ng}&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;command-line usage&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;usage: xdg-open [file|protocol]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;configuration&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;$HOME/.config/busking/config&lt;/code&gt; takes precedence over &lt;code&gt;/etc/xdg/busking/config&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;See included &lt;code&gt;config&lt;/code&gt; for an example.&lt;/p&gt; &#xA;&lt;h3&gt;config options&lt;/h3&gt; &#xA;&lt;p&gt;The argument given to &lt;code&gt;xdg-open&lt;/code&gt; is appended to &lt;code&gt;cmd&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;@regex = cmd&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;is matched against the argument given to &lt;code&gt;xdg-open&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;regex = cmd&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;is matched against the mimetype of the argument. Use &lt;code&gt;mimetype -b file&lt;/code&gt; (provided by File::MimeInfo) to determine mimetype.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cmd?:terminal&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;signifies that &lt;code&gt;cmd&lt;/code&gt; should be executed in either the current terminal or in a new &lt;code&gt;terminal&lt;/code&gt; (i.e., &lt;code&gt;terminal -e cmd&lt;/code&gt;).&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cmd::terminal&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;signifies that &lt;code&gt;cmd&lt;/code&gt; should always be executed in a new &lt;code&gt;terminal&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;#comment&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;is a comment. Inline comments are not valid.&lt;/p&gt;</summary>
+  </entry>
 </feed>

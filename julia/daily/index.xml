@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-14T01:37:45Z</updated>
+  <updated>2023-04-15T02:49:47Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>beacon-biosignals/Legolas.jl</title>
-    <updated>2023-04-14T01:37:45Z</updated>
-    <id>tag:github.com,2023-04-14:/beacon-biosignals/Legolas.jl</id>
-    <link href="https://github.com/beacon-biosignals/Legolas.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tables.jl-friendly mechanisms for constructing, reading, writing, and validating Arrow tables against extensible, versioned, user-specified schemas.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>LuxDL/Lux.jl</title>
-    <updated>2023-04-14T01:37:45Z</updated>
-    <id>tag:github.com,2023-04-14:/LuxDL/Lux.jl</id>
-    <link href="https://github.com/LuxDL/Lux.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explicitly Parameterized Neural Networks in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SimonDanisch/MakieSAM.jl</title>
+    <updated>2023-04-15T02:49:47Z</updated>
+    <id>tag:github.com,2023-04-15:/SimonDanisch/MakieSAM.jl</id>
+    <link href="https://github.com/SimonDanisch/MakieSAM.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Segment anything with Makie &amp; SAM (https://github.com/facebookresearch/segment-anything)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

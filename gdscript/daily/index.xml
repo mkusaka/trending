@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-14T01:34:36Z</updated>
+  <updated>2023-04-15T02:46:31Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uzkbwza/BurstParticles2D</title>
-    <updated>2023-04-14T01:34:36Z</updated>
-    <id>tag:github.com,2023-04-14:/uzkbwza/BurstParticles2D</id>
-    <link href="https://github.com/uzkbwza/BurstParticles2D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cool one-shot particle system for Godot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-06c-Dialogue</title>
+    <updated>2023-04-15T02:46:31Z</updated>
+    <id>tag:github.com,2023-04-15:/BL-MSCH-C220/Exercise-06c-Dialogue</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-06c-Dialogue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>derkork/godot-statecharts</title>
+    <updated>2023-04-15T02:46:31Z</updated>
+    <id>tag:github.com,2023-04-15:/derkork/godot-statecharts</id>
+    <link href="https://github.com/derkork/godot-statecharts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A state charts extension for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-14T01:40:35Z</updated>
+  <updated>2023-04-15T02:53:42Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>notohh/snowflake</title>
-    <updated>2023-04-14T01:40:35Z</updated>
-    <id>tag:github.com,2023-04-14:/notohh/snowflake</id>
-    <link href="https://github.com/notohh/snowflake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NixOS Config(s)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>caarlos0/nur</title>
-    <updated>2023-04-14T01:40:35Z</updated>
-    <id>tag:github.com,2023-04-14:/caarlos0/nur</id>
-    <link href="https://github.com/caarlos0/nur" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Nix User Repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

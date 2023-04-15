@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-14T01:44:22Z</updated>
+  <updated>2023-04-15T02:57:35Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ZCW-Cohort-94/Grep.Data.CatchEmAll2</title>
-    <updated>2023-04-14T01:44:22Z</updated>
-    <id>tag:github.com,2023-04-14:/ZCW-Cohort-94/Grep.Data.CatchEmAll2</id>
-    <link href="https://github.com/ZCW-Cohort-94/Grep.Data.CatchEmAll2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HPQC-LABS/AI_ENERGIES</title>
-    <updated>2023-04-14T01:44:22Z</updated>
-    <id>tag:github.com,2023-04-14:/HPQC-LABS/AI_ENERGIES</id>
-    <link href="https://github.com/HPQC-LABS/AI_ENERGIES" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ab Initio Energies&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uberduck-ai/uberduck-ml-dev</title>
+    <updated>2023-04-15T02:57:35Z</updated>
+    <id>tag:github.com,2023-04-15:/uberduck-ai/uberduck-ml-dev</id>
+    <link href="https://github.com/uberduck-ai/uberduck-ml-dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ML models for Uberduck&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

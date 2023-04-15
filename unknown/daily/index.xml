@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-14T01:28:59Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-04-15T02:40:28Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>imaurer/awesome-decentralized-llm</title>
-    <updated>2023-04-14T01:28:59Z</updated>
-    <id>tag:github.com,2023-04-14:/imaurer/awesome-decentralized-llm</id>
-    <link href="https://github.com/imaurer/awesome-decentralized-llm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of LLM resources that can be used to build products you can &#34;own&#34; or to perform reproducible research.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NVIDIAGameWorks/rtx-remix</title>
+    <updated>2023-04-15T02:40:28Z</updated>
+    <id>tag:github.com,2023-04-15:/NVIDIAGameWorks/rtx-remix</id>
+    <link href="https://github.com/NVIDIAGameWorks/rtx-remix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Combined repo for the RTX-Remix runtime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>VainF/Awesome-Anything</title>
-    <updated>2023-04-14T01:28:59Z</updated>
-    <id>tag:github.com,2023-04-14:/VainF/Awesome-Anything</id>
-    <link href="https://github.com/VainF/Awesome-Anything" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI methods for Anything: AnyObject, AnyGeneration, AnyModel, AnyTask&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kyrolabs/awesome-langchain</title>
+    <updated>2023-04-15T02:40:28Z</updated>
+    <id>tag:github.com,2023-04-15:/kyrolabs/awesome-langchain</id>
+    <link href="https://github.com/kyrolabs/awesome-langchain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;😎 Awesome list of tools and project around the awesome LangChain framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>education/PR-TalentLandMX</title>
-    <updated>2023-04-14T01:28:59Z</updated>
-    <id>tag:github.com,2023-04-14:/education/PR-TalentLandMX</id>
-    <link href="https://github.com/education/PR-TalentLandMX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Participa para ganar swag especial dentro de Talend Land 2023&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SiaExplains/visa-sponsorship-companies</title>
+    <updated>2023-04-15T02:40:28Z</updated>
+    <id>tag:github.com,2023-04-15:/SiaExplains/visa-sponsorship-companies</id>
+    <link href="https://github.com/SiaExplains/visa-sponsorship-companies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The aim of this repo is making an updated list of all companies around the world that offer visa sponsorship perk.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

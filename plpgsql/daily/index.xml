@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-14T01:42:29Z</updated>
+  <updated>2023-04-15T02:55:35Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FlipsideCrypto/terra-models</title>
-    <updated>2023-04-14T01:42:29Z</updated>
-    <id>tag:github.com,2023-04-14:/FlipsideCrypto/terra-models</id>
-    <link href="https://github.com/FlipsideCrypto/terra-models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data models for the Terra blockchain, originally sourced and built by the MetricsDAO community.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-14T01:45:21Z</updated>
+  <updated>2023-04-15T02:58:33Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vladpovelitsa/obvi-link</title>
-    <updated>2023-04-14T01:45:21Z</updated>
-    <id>tag:github.com,2023-04-14:/vladpovelitsa/obvi-link</id>
-    <link href="https://github.com/vladpovelitsa/obvi-link" rel="alternate"></link>
+    <title>phemex-docs/phemex-docs.github.io</title>
+    <updated>2023-04-15T02:58:33Z</updated>
+    <id>tag:github.com,2023-04-15:/phemex-docs/phemex-docs.github.io</id>
+    <link href="https://github.com/phemex-docs/phemex-docs.github.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SJTU-ViSYS/M2DGR</title>
+    <updated>2023-04-15T02:58:33Z</updated>
+    <id>tag:github.com,2023-04-15:/SJTU-ViSYS/M2DGR</id>
+    <link href="https://github.com/SJTU-ViSYS/M2DGR" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;M2DGR： a Multi-modal and Multi-scenario Dataset for Ground Robots&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>undefined-academy/semana-4</title>
+    <updated>2023-04-15T02:58:33Z</updated>
+    <id>tag:github.com,2023-04-15:/undefined-academy/semana-4</id>
+    <link href="https://github.com/undefined-academy/semana-4" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
