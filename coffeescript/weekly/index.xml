@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-16T01:52:23Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jpillora/jquery.rest</title>
+    <updated>2023-04-16T01:52:23Z</updated>
+    <id>tag:github.com,2023-04-16:/jpillora/jquery.rest</id>
+    <link href="https://github.com/jpillora/jquery.rest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A jQuery plugin for easy consumption of RESTful APIs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cabin/jquery-tapclick</title>
+    <updated>2023-04-16T01:52:23Z</updated>
+    <id>tag:github.com,2023-04-16:/cabin/jquery-tapclick</id>
+    <link href="https://github.com/cabin/jquery-tapclick" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;jQuery plugin implementing faster clicks on mobile&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>proximitybbdo/leroy</title>
+    <updated>2023-04-16T01:52:23Z</updated>
+    <id>tag:github.com,2023-04-16:/proximitybbdo/leroy</id>
+    <link href="https://github.com/proximitybbdo/leroy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Leroy Prox - Hubot for Hipchat&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-15T02:52:37Z</updated>
+  <updated>2023-04-16T01:40:33Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stn1slv/awesome-integration</title>
-    <updated>2023-04-15T02:52:37Z</updated>
-    <id>tag:github.com,2023-04-15:/stn1slv/awesome-integration</id>
-    <link href="https://github.com/stn1slv/awesome-integration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome system integration software and resources.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seanpm2001/Seanpm2001-Google</title>
+    <updated>2023-04-16T01:40:33Z</updated>
+    <id>tag:github.com,2023-04-16:/seanpm2001/Seanpm2001-Google</id>
+    <link href="https://github.com/seanpm2001/Seanpm2001-Google" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2️⃣️0️⃣️0️⃣️1️⃣️🅶 An information page on Google and anti-Google projects by @seanpm2001 and how they co-exist&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

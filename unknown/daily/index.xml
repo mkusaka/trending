@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-15T02:40:28Z</updated>
+  <updated>2023-04-16T01:29:29Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NVIDIAGameWorks/rtx-remix</title>
-    <updated>2023-04-15T02:40:28Z</updated>
-    <id>tag:github.com,2023-04-15:/NVIDIAGameWorks/rtx-remix</id>
-    <link href="https://github.com/NVIDIAGameWorks/rtx-remix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Combined repo for the RTX-Remix runtime&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>adri567/autogpt</title>
+    <updated>2023-04-16T01:29:29Z</updated>
+    <id>tag:github.com,2023-04-16:/adri567/autogpt</id>
+    <link href="https://github.com/adri567/autogpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Xcode Source Editor Extension with OpenAI&#39;s API&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kyrolabs/awesome-langchain</title>
-    <updated>2023-04-15T02:40:28Z</updated>
-    <id>tag:github.com,2023-04-15:/kyrolabs/awesome-langchain</id>
-    <link href="https://github.com/kyrolabs/awesome-langchain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;😎 Awesome list of tools and project around the awesome LangChain framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kkrypt0nn/wordlists</title>
+    <updated>2023-04-16T01:29:29Z</updated>
+    <id>tag:github.com,2023-04-16:/kkrypt0nn/wordlists</id>
+    <link href="https://github.com/kkrypt0nn/wordlists" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📜 A collection of wordlists for many different usages.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SiaExplains/visa-sponsorship-companies</title>
-    <updated>2023-04-15T02:40:28Z</updated>
-    <id>tag:github.com,2023-04-15:/SiaExplains/visa-sponsorship-companies</id>
-    <link href="https://github.com/SiaExplains/visa-sponsorship-companies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The aim of this repo is making an updated list of all companies around the world that offer visa sponsorship perk.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OffcierCia/non-typical-OSINT-guide</title>
+    <updated>2023-04-16T01:29:29Z</updated>
+    <id>tag:github.com,2023-04-16:/OffcierCia/non-typical-OSINT-guide</id>
+    <link href="https://github.com/OffcierCia/non-typical-OSINT-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The most unusual OSINT guide you&#39;ve ever seen. The repository is intended for bored professionals only. PRs are welcome!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-16T01:50:52Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oobabooga/one-click-installers</title>
+    <updated>2023-04-16T01:50:52Z</updated>
+    <id>tag:github.com,2023-04-16:/oobabooga/one-click-installers</id>
+    <link href="https://github.com/oobabooga/one-click-installers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simplified installers for oobabooga/text-generation-webui.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>meetrevision/playbook</title>
+    <updated>2023-04-16T01:50:52Z</updated>
+    <id>tag:github.com,2023-04-16:/meetrevision/playbook</id>
+    <link href="https://github.com/meetrevision/playbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pankoza-pl/malwaredatabase</title>
+    <updated>2023-04-16T01:50:52Z</updated>
+    <id>tag:github.com,2023-04-16:/pankoza-pl/malwaredatabase</id>
+    <link href="https://github.com/pankoza-pl/malwaredatabase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo contains live malware samples. Be careful with them or you can lose all your data! For educational purposes only! This repo is a old mess i know&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

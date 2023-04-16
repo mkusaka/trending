@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ShaderLab Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-16T02:04:47Z</updated>
+  <subtitle>Weekly Trending of ShaderLab in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>poiyomi/PoiyomiToonShader</title>
+    <updated>2023-04-16T02:04:47Z</updated>
+    <id>tag:github.com,2023-04-16:/poiyomi/PoiyomiToonShader</id>
+    <link href="https://github.com/poiyomi/PoiyomiToonShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A feature rich toon shader for unity and VR Chat&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JoshuaLim007/Unity-ScreenSpaceReflections-URP</title>
+    <updated>2023-04-16T02:04:47Z</updated>
+    <id>tag:github.com,2023-04-16:/JoshuaLim007/Unity-ScreenSpaceReflections-URP</id>
+    <link href="https://github.com/JoshuaLim007/Unity-ScreenSpaceReflections-URP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SSR solution for Unity URP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

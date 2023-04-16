@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-15T03:01:12Z</updated>
+  <updated>2023-04-16T01:48:28Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GSI-CS-CO/bel_projects</title>
-    <updated>2023-04-15T03:01:12Z</updated>
-    <id>tag:github.com,2023-04-15:/GSI-CS-CO/bel_projects</id>
-    <link href="https://github.com/GSI-CS-CO/bel_projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GSI Timing Gateware and Tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>viccuad/fpga-thingies</title>
+    <updated>2023-04-16T01:48:28Z</updated>
+    <id>tag:github.com,2023-04-16:/viccuad/fpga-thingies</id>
+    <link href="https://github.com/viccuad/fpga-thingies" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Designs specified with vhdl for implementing on a spartan3. Handmade rt diagrams included&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-15T03:01:22Z</updated>
+  <updated>2023-04-16T01:48:38Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Manawyrm/WoodShots</title>
-    <updated>2023-04-15T03:01:22Z</updated>
-    <id>tag:github.com,2023-04-15:/Manawyrm/WoodShots</id>
-    <link href="https://github.com/Manawyrm/WoodShots" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;snapshot and picture uploading tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

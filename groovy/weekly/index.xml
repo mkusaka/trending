@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-16T01:56:18Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>griffon-legacy/griffon-fest-plugin</title>
+    <updated>2023-04-16T01:56:18Z</updated>
+    <id>tag:github.com,2023-04-16:/griffon-legacy/griffon-fest-plugin</id>
+    <link href="https://github.com/griffon-legacy/griffon-fest-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run UI tests with FEST&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vikash-kumar01/jenkins_shared_lib</title>
+    <updated>2023-04-16T01:56:18Z</updated>
+    <id>tag:github.com,2023-04-16:/vikash-kumar01/jenkins_shared_lib</id>
+    <link href="https://github.com/vikash-kumar01/jenkins_shared_lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

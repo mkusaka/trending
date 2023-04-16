@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-15T02:58:30Z</updated>
+  <updated>2023-04-16T01:45:48Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alexdforeman/the-little-schemer</title>
-    <updated>2023-04-15T02:58:30Z</updated>
-    <id>tag:github.com,2023-04-15:/alexdforeman/the-little-schemer</id>
-    <link href="https://github.com/alexdforeman/the-little-schemer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source Code for Daniel P Friedman&#39;s Awesome Book &#39;The Little Schemer&#39;. Go purchase it! :)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

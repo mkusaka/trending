@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-15T02:42:56Z</updated>
+  <updated>2023-04-16T01:32:23Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vitaut/modules</title>
-    <updated>2023-04-15T02:42:56Z</updated>
-    <id>tag:github.com,2023-04-15:/vitaut/modules</id>
-    <link href="https://github.com/vitaut/modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple C++20 module support for CMake&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>KiCad/kicad-symbols</title>
-    <updated>2023-04-15T02:42:56Z</updated>
-    <id>tag:github.com,2023-04-15:/KiCad/kicad-symbols</id>
-    <link href="https://github.com/KiCad/kicad-symbols" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official KiCad schematic symbol libraries for Kicad 5&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

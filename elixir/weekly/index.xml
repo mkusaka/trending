@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-16T01:54:21Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>blackmassgroup/vx_underground</title>
+    <updated>2023-04-16T01:54:21Z</updated>
+    <id>tag:github.com,2023-04-16:/blackmassgroup/vx_underground</id>
+    <link href="https://github.com/blackmassgroup/vx_underground" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A scalable web app features LiveView authentication, user roles and permission system, and secure S3/Wasabi uploads. It calculates file hashes with Erlang crypto library and uses Oban for all most API requests for automated retries. It includes a custom Logger backend to log to Discord, has CI/CD setup and is deployed on Fly.io.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

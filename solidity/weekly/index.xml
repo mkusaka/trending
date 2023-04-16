@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-16T02:05:37Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Layr-Labs/eigenlayer-contracts</title>
+    <updated>2023-04-16T02:05:37Z</updated>
+    <id>tag:github.com,2023-04-16:/Layr-Labs/eigenlayer-contracts</id>
+    <link href="https://github.com/Layr-Labs/eigenlayer-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RareSkills/huff-puzzles</title>
+    <updated>2023-04-16T02:05:37Z</updated>
+    <id>tag:github.com,2023-04-16:/RareSkills/huff-puzzles</id>
+    <link href="https://github.com/RareSkills/huff-puzzles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These exercises were created for our Advanced Solidity Bootcamp and open sourced.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Perelyn-sama/yul_by_example</title>
+    <updated>2023-04-16T02:05:37Z</updated>
+    <id>tag:github.com,2023-04-16:/Perelyn-sama/yul_by_example</id>
+    <link href="https://github.com/Perelyn-sama/yul_by_example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code examples in Yul&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

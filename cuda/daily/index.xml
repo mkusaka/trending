@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-15T02:43:44Z</updated>
+  <updated>2023-04-16T01:33:08Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ugovaretto-accel/cuda-training</title>
-    <updated>2023-04-15T02:43:44Z</updated>
-    <id>tag:github.com,2023-04-15:/ugovaretto-accel/cuda-training</id>
-    <link href="https://github.com/ugovaretto-accel/cuda-training" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CUDA training material&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

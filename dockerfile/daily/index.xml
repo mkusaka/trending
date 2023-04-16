@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-15T02:44:35Z</updated>
+  <updated>2023-04-16T01:33:54Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ssplabs/alphamed-docs</title>
-    <updated>2023-04-15T02:44:35Z</updated>
-    <id>tag:github.com,2023-04-15:/ssplabs/alphamed-docs</id>
-    <link href="https://github.com/ssplabs/alphamed-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;alphamed-docs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JohnHammond/misfortune-ctf-challenge</title>
-    <updated>2023-04-15T02:44:35Z</updated>
-    <id>tag:github.com,2023-04-15:/JohnHammond/misfortune-ctf-challenge</id>
-    <link href="https://github.com/JohnHammond/misfortune-ctf-challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small binary exploitation challenge to demonstrate a typical return2libc attack&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;misfortune&lt;/h1&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;John Hammond | Wednesday, April 12, 2023&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;code&gt;misfortune&lt;/code&gt; - a small binary exploitation challenge to demonstrate a classic return2libc attack.&lt;/p&gt; &#xA;&lt;p&gt;You can build the docker image and pull down the binaries with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./setup.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This will ask for &lt;code&gt;sudo&lt;/code&gt; permissions just to give your current user permissions to work easily work with the binary and libc file pulled out of the Docker container.&lt;/p&gt;</summary>
+    <title>TunMax/v2ray_for_doprax</title>
+    <updated>2023-04-16T01:33:54Z</updated>
+    <id>tag:github.com,2023-04-16:/TunMax/v2ray_for_doprax</id>
+    <link href="https://github.com/TunMax/v2ray_for_doprax" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;在doprax搭建v2ray节点配置&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;v2ray_for_doprax&lt;/h1&gt; &#xA;&lt;p&gt;自用在doprax搭建v2ray节点配置，Caddy+V2ray实现。&lt;/p&gt; &#xA;&lt;p&gt;类似配置教程，参见：&lt;a href=&#34;https://youtu.be/p76SC2GBT0s&#34;&gt;https://youtu.be/p76SC2GBT0s&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>
