@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:47:26Z</updated>
+  <updated>2023-04-17T01:46:35Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pulp-platform/mailbox_unit</title>
-    <updated>2023-04-16T01:47:26Z</updated>
-    <id>tag:github.com,2023-04-16:/pulp-platform/mailbox_unit</id>
-    <link href="https://github.com/pulp-platform/mailbox_unit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple parametrizable doorbell based mailbox&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

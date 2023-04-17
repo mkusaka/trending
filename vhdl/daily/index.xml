@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:48:28Z</updated>
+  <updated>2023-04-17T01:47:31Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>viccuad/fpga-thingies</title>
-    <updated>2023-04-16T01:48:28Z</updated>
-    <id>tag:github.com,2023-04-16:/viccuad/fpga-thingies</id>
-    <link href="https://github.com/viccuad/fpga-thingies" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Designs specified with vhdl for implementing on a spartan3. Handmade rt diagrams included&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MiSTer-devel/Arcade-IremM92_MiSTer</title>
+    <updated>2023-04-17T01:47:31Z</updated>
+    <id>tag:github.com,2023-04-17:/MiSTer-devel/Arcade-IremM92_MiSTer</id>
+    <link href="https://github.com/MiSTer-devel/Arcade-IremM92_MiSTer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

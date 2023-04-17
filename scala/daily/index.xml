@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:45:37Z</updated>
+  <updated>2023-04-17T01:44:47Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>azeem/spray-cookiebaker</title>
-    <updated>2023-04-16T01:45:37Z</updated>
-    <id>tag:github.com,2023-04-16:/azeem/spray-cookiebaker</id>
-    <link href="https://github.com/azeem/spray-cookiebaker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cookie based session in spray. Based on Play2.0 CookieBaker code.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Spray Cookie Baker&lt;/h2&gt; &#xA;&lt;p&gt;Cookie based session in spray. Based on Play2.0 CookieBaker code.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>yanns/play2-wiki-growth-sse</title>
-    <updated>2023-04-16T01:45:37Z</updated>
-    <id>tag:github.com,2023-04-16:/yanns/play2-wiki-growth-sse</id>
-    <link href="https://github.com/yanns/play2-wiki-growth-sse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;play2-wiki-growth-sse&lt;/h1&gt; &#xA;&lt;p&gt;This is a play2 application that demonstrates streaming and Server Send Events (SSE).&lt;/p&gt; &#xA;&lt;p&gt;The source is a file containing coordinates of wikipedia articles, produced by &lt;a href=&#34;http://www.triposo.com/labs/wikigrowth&#34;&gt;Triposo&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This file is parsed line by line, using &lt;a href=&#34;http://www.playframework.org/documentation/2.0.2/Enumerators&#34;&gt;Enumerators&lt;/a&gt; and &lt;a href=&#34;http://www.playframework.org/documentation/2.0.2/Enumeratees&#34;&gt;Enumeratees&lt;/a&gt;. Each time a coordinate is found, it is send on the fly to the browser as Server Send Events.&lt;/p&gt; &#xA;&lt;p&gt;The browser displays this coordinate on a map, showing how wikipedia has spread over the world.&lt;/p&gt; &#xA;&lt;p&gt;The demo can be view &lt;a href=&#34;http://wiki-growth.herokuapp.com/&#34;&gt;online on Heroku&lt;/a&gt;. The code is explained on a &lt;a href=&#34;http://yanns.github.io/blog/2012/08/12/handling-data-streams-with-play2-and-server-send-events/&#34;&gt;blog post&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;How to run&lt;/h2&gt; &#xA;&lt;p&gt;Be sure you have &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;&lt;code&gt;sbt&lt;/code&gt; installed&lt;/a&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sbt run&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

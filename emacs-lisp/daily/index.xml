@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:34:38Z</updated>
+  <updated>2023-04-17T01:33:38Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mohkale/consult-eglot</title>
+    <updated>2023-04-17T01:33:38Z</updated>
+    <id>tag:github.com,2023-04-17:/mohkale/consult-eglot</id>
+    <link href="https://github.com/mohkale/consult-eglot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jump to workspace symbols with eglot and consult&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+TITLE: consult-eglot #+AUTHOR: Mohsin Kaleem&lt;/p&gt; &#xA;&lt;p&gt;#+html: &lt;/p&gt;&#xA;&lt;p align=&#34;right&#34;&gt;&lt;a href=&#34;https://melpa.org/#/consult-eglot&#34;&gt;&lt;img align=&#34;center&#34; alt=&#34;MELPA&#34; src=&#34;https://melpa.org/packages/consult-eglot-badge.svg?sanitize=true&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/p&gt; &#xA;&lt;p&gt; &lt;/p&gt; &#xA;&lt;p&gt;A [[https://github.com/minad/consult][consult]]ing-read interface for [[https://github.com/joaotavora/eglot][eglot]].&lt;/p&gt; &#xA;&lt;p&gt;This package acts as a parallel of [[https://github.com/gagbo/consult-lsp][consult-lsp]] for eglot and provides a front-end interface for the &lt;del&gt;workspace/symbols&lt;/del&gt; LSP procedure call.&lt;/p&gt; &#xA;&lt;p&gt;#+CAPTION: Obligatory screenshot of consult-eglot in action. [[https://user-images.githubusercontent.com/23294780/131529081-7b6ad89a-98c8-40f2-9ef8-184856f8e9ef.png]]&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Table of Contents :TOC:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;[[#installation][Installation]] &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;[[#manually][Manually]]&lt;/li&gt; &#xA;   &lt;li&gt;[[#from-melpa][From MELPA]]&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Installation ** Manually &#xA;  &lt;ol&gt; &#xA;   &lt;li&gt;Clone the repo.&lt;/li&gt; &#xA;   &lt;li&gt;Add the repo path to your emacs &lt;del&gt;load-path&lt;/del&gt;.&lt;/li&gt; &#xA;   &lt;li&gt;Load it when needed.&lt;/li&gt; &#xA;  &lt;/ol&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;** From MELPA This package is on [[https://github.com/melpa/melpa][MELPA]]. You can add this to your &lt;del&gt;package-archives&lt;/del&gt; variable and then install through &lt;del&gt;M-x package-install&lt;/del&gt;.&lt;/p&gt; &#xA;&lt;p&gt;#+begin_src emacs-lisp (push &#39;(&#34;melpa&#34; . &#34;&lt;a href=&#34;https://melpa.org/packages/&#34;&gt;https://melpa.org/packages/&lt;/a&gt;&#34;) package-archives) (package-refresh-contents) (package-install &#39;consult-eglot) #+end_src&lt;/p&gt;</summary>
+  </entry>
 </feed>

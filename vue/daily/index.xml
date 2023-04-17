@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:48:43Z</updated>
+  <updated>2023-04-17T01:47:46Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dulaiduwang003/chatGPT-WechatApp</title>
-    <updated>2023-04-16T01:48:43Z</updated>
-    <id>tag:github.com,2023-04-16:/dulaiduwang003/chatGPT-WechatApp</id>
-    <link href="https://github.com/dulaiduwang003/chatGPT-WechatApp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WeChatApp GPT-4 GT-3.5 NewBing SD&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mjjh1717/chatgpt-shuowen</title>
-    <updated>2023-04-16T01:48:43Z</updated>
-    <id>tag:github.com,2023-04-16:/mjjh1717/chatgpt-shuowen</id>
-    <link href="https://github.com/mjjh1717/chatgpt-shuowen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT 用户端-说文&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NCZkevin/chatglm-web</title>
-    <updated>2023-04-16T01:48:43Z</updated>
-    <id>tag:github.com,2023-04-16:/NCZkevin/chatglm-web</id>
-    <link href="https://github.com/NCZkevin/chatglm-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;用 FastAPI 和 Vue3 搭建的 ChatGLM 网页 (前端样式仿照chatgpt-web, 支持chatglm流式输出、前端调整参数、上下文选择、保存图片、知识库问答等功能)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

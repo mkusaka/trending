@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:47:07Z</updated>
+  <updated>2023-04-17T01:46:20Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>efstajas/svelte-stepper</title>
-    <updated>2023-04-16T01:47:07Z</updated>
-    <id>tag:github.com,2023-04-16:/efstajas/svelte-stepper</id>
-    <link href="https://github.com/efstajas/svelte-stepper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚶 A simple library for building delightfully animated stepped flows with Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rich-Harris/ematchi</title>
+    <updated>2023-04-17T01:46:20Z</updated>
+    <id>tag:github.com,2023-04-17:/Rich-Harris/ematchi</id>
+    <link href="https://github.com/Rich-Harris/ematchi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Rich-Harris/svelteflix</title>
-    <updated>2023-04-16T01:47:07Z</updated>
-    <id>tag:github.com,2023-04-16:/Rich-Harris/svelteflix</id>
-    <link href="https://github.com/Rich-Harris/svelteflix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bertybot/svelte-worldwide</title>
+    <updated>2023-04-17T01:46:20Z</updated>
+    <id>tag:github.com,2023-04-17:/bertybot/svelte-worldwide</id>
+    <link href="https://github.com/bertybot/svelte-worldwide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Svelte World! a reusable Globe component written in Svelte!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

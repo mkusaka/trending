@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:46:25Z</updated>
+  <updated>2023-04-17T01:45:39Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>uca-argentina/2023-pura-magia</title>
-    <updated>2023-04-16T01:46:25Z</updated>
-    <id>tag:github.com,2023-04-16:/uca-argentina/2023-pura-magia</id>
-    <link href="https://github.com/uca-argentina/2023-pura-magia" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uca-argentina/2023-dupla-galactica</title>
-    <updated>2023-04-16T01:46:25Z</updated>
-    <id>tag:github.com,2023-04-16:/uca-argentina/2023-dupla-galactica</id>
-    <link href="https://github.com/uca-argentina/2023-dupla-galactica" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uca-argentina/2023-messi-depaul</title>
-    <updated>2023-04-16T01:46:25Z</updated>
-    <id>tag:github.com,2023-04-16:/uca-argentina/2023-messi-depaul</id>
-    <link href="https://github.com/uca-argentina/2023-messi-depaul" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

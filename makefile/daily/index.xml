@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:40:27Z</updated>
+  <updated>2023-04-17T01:39:25Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Lienol/openwrt-packages</title>
-    <updated>2023-04-16T01:40:27Z</updated>
-    <id>tag:github.com,2023-04-16:/Lienol/openwrt-packages</id>
-    <link href="https://github.com/Lienol/openwrt-packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>milk-v/cvitek-buildroot-2021.05</title>
-    <updated>2023-04-16T01:40:27Z</updated>
-    <id>tag:github.com,2023-04-16:/milk-v/cvitek-buildroot-2021.05</id>
-    <link href="https://github.com/milk-v/cvitek-buildroot-2021.05" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>riscv/riscv-zacas</title>
-    <updated>2023-04-16T01:40:27Z</updated>
-    <id>tag:github.com,2023-04-16:/riscv/riscv-zacas</id>
-    <link href="https://github.com/riscv/riscv-zacas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;riscv-zacas created from docs-spec-template template&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>foostan/kbd</title>
+    <updated>2023-04-17T01:39:25Z</updated>
+    <id>tag:github.com,2023-04-17:/foostan/kbd</id>
+    <link href="https://github.com/foostan/kbd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;for building keyboard libraries&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

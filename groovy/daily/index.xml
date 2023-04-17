@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-16T01:36:28Z</updated>
+  <updated>2023-04-17T01:35:31Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kimble/grails-health-control</title>
-    <updated>2023-04-16T01:36:28Z</updated>
-    <id>tag:github.com,2023-04-16:/kimble/grails-health-control</id>
-    <link href="https://github.com/kimble/grails-health-control" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Health control artefacts for Grails. Implement simple checks to verify the sanity of databases, remote services and other fragile things. The results will show up on a simple dashboard.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
