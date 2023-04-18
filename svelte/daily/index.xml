@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-17T01:46:20Z</updated>
+  <updated>2023-04-18T01:46:55Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Rich-Harris/ematchi</title>
-    <updated>2023-04-17T01:46:20Z</updated>
-    <id>tag:github.com,2023-04-17:/Rich-Harris/ematchi</id>
-    <link href="https://github.com/Rich-Harris/ematchi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bertybot/svelte-worldwide</title>
-    <updated>2023-04-17T01:46:20Z</updated>
-    <id>tag:github.com,2023-04-17:/bertybot/svelte-worldwide</id>
-    <link href="https://github.com/bertybot/svelte-worldwide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Svelte World! a reusable Globe component written in Svelte!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>erhathaway/bots-against-alignment</title>
+    <updated>2023-04-18T01:46:55Z</updated>
+    <id>tag:github.com,2023-04-18:/erhathaway/bots-against-alignment</id>
+    <link href="https://github.com/erhathaway/bots-against-alignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bots Against Alignment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

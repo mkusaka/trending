@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-17T01:37:52Z</updated>
+  <updated>2023-04-18T01:39:19Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>odsl-team/julia-ml-from-scratch</title>
-    <updated>2023-04-17T01:37:52Z</updated>
-    <id>tag:github.com,2023-04-17:/odsl-team/julia-ml-from-scratch</id>
-    <link href="https://github.com/odsl-team/julia-ml-from-scratch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine learning from scratch in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaMath/Polynomials.jl</title>
+    <updated>2023-04-18T01:39:19Z</updated>
+    <id>tag:github.com,2023-04-18:/JuliaMath/Polynomials.jl</id>
+    <link href="https://github.com/JuliaMath/Polynomials.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Polynomial manipulations in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sisl/AA222Project1</title>
+    <updated>2023-04-18T01:39:19Z</updated>
+    <id>tag:github.com,2023-04-18:/sisl/AA222Project1</id>
+    <link href="https://github.com/sisl/AA222Project1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starter code for Project 1 of Stanford AA222/CS361 (Engineering Design Optimization)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

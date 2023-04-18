@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-17T01:32:15Z</updated>
+  <updated>2023-04-18T01:33:13Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Marda33/SkeuoCord</title>
+    <updated>2023-04-18T01:33:13Z</updated>
+    <id>tag:github.com,2023-04-18:/Marda33/SkeuoCord</id>
+    <link href="https://github.com/Marda33/SkeuoCord" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A skeuomorphic overhaul for Discord.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Marda33/SkeuoCord/master/updates/Logo.png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;&lt;/h1&gt; &#xA;&lt;p&gt;SkeuoCord gives Discord a skeuomorphic overhaul. Almost every part of its interface, from channels to the Server Boost page, is themed for a complete look. Both dark and light themes &lt;em&gt;(including the Dark Sidebar option for the light theme)&lt;/em&gt; are supported.&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;To customize user avatar border radiuses, change the related variables in the theme import file. You can set all to 999px for circle avatars.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;SkeuoCord now supports setting an image as the app background. Edit the theme import file to add the link to the image you want to use.&lt;/em&gt; &lt;em&gt;(You will have to download the theme import again to use this feature if you downloaded the theme before this update.)&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Marda33/SkeuoCord/master/Preview%20(Dark%20Theme).png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/Marda33/SkeuoCord/master/Preview%20(Light%20Theme).png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;SkeuoCord requires English (US/UK) to be the selected language for button icon theming, due to the way they&#39;re specified in Discord.&lt;/em&gt; &lt;em&gt;If your client is set to another language, the color of the regular icons will be changed and dropshadow filters will be applied to them instead.&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;If you don&#39;t want to use SkeuoCord&#39;s brand color replacement, use SkeuoCord_NoBrandReplace.theme.css from SkeuoCord&#39;s GitHub repo.&lt;/em&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

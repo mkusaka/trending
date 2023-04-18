@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-17T01:32:26Z</updated>
+  <updated>2023-04-18T01:33:24Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NVIDIA/AMGX</title>
+    <updated>2023-04-18T01:33:24Z</updated>
+    <id>tag:github.com,2023-04-18:/NVIDIA/AMGX</id>
+    <link href="https://github.com/NVIDIA/AMGX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributed multigrid linear solver library on GPU&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

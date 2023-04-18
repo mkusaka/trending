@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-17T01:46:32Z</updated>
+  <updated>2023-04-18T01:47:07Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Yapote/ARBITRUM-SNIPING-BOT-ARBX</title>
-    <updated>2023-04-17T01:46:32Z</updated>
-    <id>tag:github.com,2023-04-17:/Yapote/ARBITRUM-SNIPING-BOT-ARBX</id>
-    <link href="https://github.com/Yapote/ARBITRUM-SNIPING-BOT-ARBX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Arbitrum Sniping Bot where currently I let it work with sushiswap but you can change DEX in inputs to Camelot and it works too!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

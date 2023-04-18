@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-17T01:42:06Z</updated>
+  <updated>2023-04-18T01:42:56Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lunarphp/livewire-starter-kit</title>
+    <updated>2023-04-18T01:42:56Z</updated>
+    <id>tag:github.com,2023-04-18:/lunarphp/livewire-starter-kit</id>
+    <link href="https://github.com/lunarphp/livewire-starter-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demonstration store for Lunar&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;https://lunarphp.io/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/lunarphp/art/main/lunar-logo.svg?sanitize=true&#34; width=&#34;200&#34; alt=&#34;Lunar&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Demo Store&lt;/h1&gt; &#xA;&lt;p&gt;This repository is provided as a reference to learn how to use Lunar Laravel E-Commerce package. This example is a classic e-commerce store.&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;&lt;strong&gt;Warning&lt;/strong&gt; This application is purely an example of how you can implement Lunar headless e-commerce for Laravel. It is not production ready or complete.&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;h1&gt;Requirements&lt;/h1&gt; &#xA;&lt;p&gt;This demo store uses MySQL as the Scout driver. This is not the recommended approach for a production environment, but it works well for development.&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;h2&gt;Clone the repo&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone --depth=1 https://github.com/lunarphp/demo-store.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This will create a shallow clone of the repo, from there you would just need to remove the &lt;code&gt;.git&lt;/code&gt; folder and reinitialise it to make it your own.&lt;/p&gt; &#xA;&lt;p&gt;Then install composer dependencies&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;composer install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Configure the Laravel app&lt;/h2&gt; &#xA;&lt;p&gt;Copy the &lt;code&gt;.env.example&lt;/code&gt; file to &lt;code&gt;.env&lt;/code&gt; and make sure the details match to your install.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;cp .env.example .env&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;All the relevant configuration files should be present in the repo.&lt;/p&gt; &#xA;&lt;h2&gt;Migrate and seed.&lt;/h2&gt; &#xA;&lt;p&gt;Install Lunar&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;php artisan lunar:install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Seed the demo data.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;php artisan db:seed&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Link the storage directory&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;php artisan storage:link&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;This demo store uses Livewire to handle all routing and Laravel components where they make sense.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>laramentor/laramentor</title>
+    <updated>2023-04-18T01:42:56Z</updated>
+    <id>tag:github.com,2023-04-18:/laramentor/laramentor</id>
+    <link href="https://github.com/laramentor/laramentor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel Mentorship Platform&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Laravel Mentorship Program&lt;/h2&gt;</summary>
+  </entry>
 </feed>

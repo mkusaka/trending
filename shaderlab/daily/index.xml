@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-17T01:45:03Z</updated>
+  <updated>2023-04-18T01:45:45Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>poiyomi/PoiyomiToonShader</title>
-    <updated>2023-04-17T01:45:03Z</updated>
-    <id>tag:github.com,2023-04-17:/poiyomi/PoiyomiToonShader</id>
-    <link href="https://github.com/poiyomi/PoiyomiToonShader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A feature rich toon shader for unity and VR Chat&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-17T01:34:38Z</updated>
+  <updated>2023-04-18T01:36:14Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NEW-CYLANDIA/little-warioware</title>
-    <updated>2023-04-17T01:34:38Z</updated>
-    <id>tag:github.com,2023-04-17:/NEW-CYLANDIA/little-warioware</id>
-    <link href="https://github.com/NEW-CYLANDIA/little-warioware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collectively developed take on Nintendo&#39;s WarioWare series, made in Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BL-MSCH-C220/Exercise-06d-Unit-Testing</title>
+    <updated>2023-04-18T01:36:14Z</updated>
+    <id>tag:github.com,2023-04-18:/BL-MSCH-C220/Exercise-06d-Unit-Testing</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-06d-Unit-Testing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
