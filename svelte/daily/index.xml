@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-18T01:46:55Z</updated>
+  <updated>2023-04-19T01:46:41Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>erhathaway/bots-against-alignment</title>
-    <updated>2023-04-18T01:46:55Z</updated>
-    <id>tag:github.com,2023-04-18:/erhathaway/bots-against-alignment</id>
-    <link href="https://github.com/erhathaway/bots-against-alignment" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bots Against Alignment&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

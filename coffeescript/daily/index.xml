@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-18T01:32:43Z</updated>
+  <updated>2023-04-19T01:32:17Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hnguyen14/lamtho</title>
-    <updated>2023-04-18T01:32:43Z</updated>
-    <id>tag:github.com,2023-04-18:/hnguyen14/lamtho</id>
-    <link href="https://github.com/hnguyen14/lamtho" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gcao/tennis</title>
+    <updated>2023-04-19T01:32:17Z</updated>
+    <id>tag:github.com,2023-04-19:/gcao/tennis</id>
+    <link href="https://github.com/gcao/tennis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guoliang&#39;s Tennis page&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chmanie/node-couch</title>
+    <updated>2023-04-19T01:32:17Z</updated>
+    <id>tag:github.com,2023-04-19:/chmanie/node-couch</id>
+    <link href="https://github.com/chmanie/node-couch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;object-oriented approach to a minimalized couchDB client for node.js. requires node-request module.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

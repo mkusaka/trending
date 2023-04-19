@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-18T01:49:06Z</updated>
+  <updated>2023-04-19T01:49:08Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>uo-hrsys/org.uottawa.html5</title>
+    <updated>2023-04-19T01:49:08Z</updated>
+    <id>tag:github.com,2023-04-19:/uo-hrsys/org.uottawa.html5</id>
+    <link href="https://github.com/uo-hrsys/org.uottawa.html5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contains DITA-OT plugins used at HR&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;org.uottawa.html5&lt;/h1&gt; &#xA;&lt;p&gt;This plugin extends the DITA for Publishers HTML5 plugin and generates pages with the University of Ottawa templates.&lt;/p&gt; &#xA;&lt;p&gt;The plugin will only works on University of Ottawa servers.&lt;/p&gt; &#xA;&lt;p&gt;The code is provided &#39;as an example&#39; for developers who wants to use the html5 plugin of the DITA for Publishers project.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Install the following project on your computer.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;DITA-OT &lt;a href=&#34;http://dita-ot.sourceforge.net/&#34;&gt;http://dita-ot.sourceforge.net/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;DITA for publishers set of plugins and vocabulary extentions &lt;a href=&#34;http://dita4publishers.sourceforge.net/&#34;&gt;http://dita4publishers.sourceforge.net/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;As all the code of the DITA-OT and the DITA for Publishers projects are published under Apache Licence version 2.0, we use the same license for the project.&lt;/p&gt;</summary>
+  </entry>
 </feed>

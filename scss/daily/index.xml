@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-18T01:45:41Z</updated>
+  <updated>2023-04-19T01:45:30Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/vue-material-dashboard-laravel-bs4</title>
-    <updated>2023-04-18T01:45:41Z</updated>
-    <id>tag:github.com,2023-04-18:/creativetimofficial/vue-material-dashboard-laravel-bs4</id>
-    <link href="https://github.com/creativetimofficial/vue-material-dashboard-laravel-bs4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue SPA Material template connected to working Laravel REST API with the help of json:api standard&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oluwadareseyi/stripe-sessions-rebuild</title>
+    <updated>2023-04-19T01:45:30Z</updated>
+    <id>tag:github.com,2023-04-19:/oluwadareseyi/stripe-sessions-rebuild</id>
+    <link href="https://github.com/oluwadareseyi/stripe-sessions-rebuild" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Baltimore-County-Government/dotgov-components</title>
+    <updated>2023-04-19T01:45:30Z</updated>
+    <id>tag:github.com,2023-04-19:/Baltimore-County-Government/dotgov-components</id>
+    <link href="https://github.com/Baltimore-County-Government/dotgov-components" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;UI design system for Baltimore County&#39;s primary website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Saltssaumure/w9x-discord-theme</title>
+    <updated>2023-04-19T01:45:30Z</updated>
+    <id>tag:github.com,2023-04-19:/Saltssaumure/w9x-discord-theme</id>
+    <link href="https://github.com/Saltssaumure/w9x-discord-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Windows 95 style Discord theme.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-18T01:46:25Z</updated>
+  <updated>2023-04-19T01:46:15Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rocket-pool/rocketpool</title>
-    <updated>2023-04-18T01:46:25Z</updated>
-    <id>tag:github.com,2023-04-18:/rocket-pool/rocketpool</id>
-    <link href="https://github.com/rocket-pool/rocketpool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Decentralised Ethereum Liquid Staking Protocol.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SoraSuegami/voice_recovery_circuit</title>
+    <updated>2023-04-19T01:46:15Z</updated>
+    <id>tag:github.com,2023-04-19:/SoraSuegami/voice_recovery_circuit</id>
+    <link href="https://github.com/SoraSuegami/voice_recovery_circuit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A circuit to verify the voice recovery process.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SunWeb3Sec/DeFiLabs</title>
-    <updated>2023-04-18T01:46:25Z</updated>
-    <id>tag:github.com,2023-04-18:/SunWeb3Sec/DeFiLabs</id>
-    <link href="https://github.com/SunWeb3Sec/DeFiLabs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;On-chain test DeFi using Foundry&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>uni-due-syssec/efcf-framework</title>
+    <updated>2023-04-19T01:46:15Z</updated>
+    <id>tag:github.com,2023-04-19:/uni-due-syssec/efcf-framework</id>
+    <link href="https://github.com/uni-due-syssec/efcf-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EF/CF - Extremely Fast smart Contract Fuzzing&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wealth-wales/wealth</title>
-    <updated>2023-04-18T01:46:25Z</updated>
-    <id>tag:github.com,2023-04-18:/wealth-wales/wealth</id>
-    <link href="https://github.com/wealth-wales/wealth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>karmacoma-eth/SS2ERC721-starter-kit</title>
+    <updated>2023-04-19T01:46:15Z</updated>
+    <id>tag:github.com,2023-04-19:/karmacoma-eth/SS2ERC721-starter-kit</id>
+    <link href="https://github.com/karmacoma-eth/SS2ERC721-starter-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quickly get started with a simple SS2ERC721 for cheap airdrops&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

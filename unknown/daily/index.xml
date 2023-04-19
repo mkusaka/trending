@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-18T01:29:31Z</updated>
+  <updated>2023-04-19T01:29:30Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ikaijua/Awesome-AITools</title>
-    <updated>2023-04-18T01:29:31Z</updated>
-    <id>tag:github.com,2023-04-18:/ikaijua/Awesome-AITools</id>
-    <link href="https://github.com/ikaijua/Awesome-AITools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of AI-related utilities. Welcome to submit issues and pull requests /收藏AI相关的实用工具，欢迎提交issues 或者pull requests&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hax/heshijun_v_360</title>
+    <updated>2023-04-19T01:29:30Z</updated>
+    <id>tag:github.com,2023-04-19:/hax/heshijun_v_360</id>
+    <link href="https://github.com/hax/heshijun_v_360" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;贺师俊与360的劳动争议诉讼&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>redcanaryco/mac-monitor</title>
-    <updated>2023-04-18T01:29:31Z</updated>
-    <id>tag:github.com,2023-04-18:/redcanaryco/mac-monitor</id>
-    <link href="https://github.com/redcanaryco/mac-monitor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displaying them graphically, with an expansive feature set designed to reduce noise.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>busenurcetin/ingilizce-turkce-Yazilim-Terimleri</title>
+    <updated>2023-04-19T01:29:30Z</updated>
+    <id>tag:github.com,2023-04-19:/busenurcetin/ingilizce-turkce-Yazilim-Terimleri</id>
+    <link href="https://github.com/busenurcetin/ingilizce-turkce-Yazilim-Terimleri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yazılıma Yeni Başlayan Ya Da Bir Süredir Sektörün İçinde Olup Hala Yazılım Terimlerine Hakim Olmadığını Düşünen Arkadaşlara Yardımcı Olması, Faydalı Bir Kaynak Olması Dileğiyle. Yeni Kelimeler ve Tercümeleri Eklenmeye Devam Edecek. Kaynak Genişletilecektir.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kyleisah/Klipper-Adaptive-Meshing-Purging</title>
-    <updated>2023-04-18T01:29:31Z</updated>
-    <id>tag:github.com,2023-04-18:/kyleisah/Klipper-Adaptive-Meshing-Purging</id>
-    <link href="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A unique leveling solution for Klipper-enabled 3D printers!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>satellite-image-deep-learning/techniques</title>
+    <updated>2023-04-19T01:29:30Z</updated>
+    <id>tag:github.com,2023-04-19:/satellite-image-deep-learning/techniques</id>
+    <link href="https://github.com/satellite-image-deep-learning/techniques" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Techniques for deep learning with satellite &amp; aerial imagery&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-18T01:48:30Z</updated>
+  <updated>2023-04-19T01:48:33Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rvaidun/befake</title>
-    <updated>2023-04-18T01:48:30Z</updated>
-    <id>tag:github.com,2023-04-18:/rvaidun/befake</id>
-    <link href="https://github.com/rvaidun/befake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;view bereals without posting your own :)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zurdi15/romm</title>
-    <updated>2023-04-18T01:48:30Z</updated>
-    <id>tag:github.com,2023-04-18:/zurdi15/romm</id>
-    <link href="https://github.com/zurdi15/romm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RomM (Rom Manager) is a web based retro roms manager integrated with IGDB.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

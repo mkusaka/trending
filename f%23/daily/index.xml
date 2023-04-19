@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-18T01:35:39Z</updated>
+  <updated>2023-04-19T01:35:05Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SecurityAndStuff/DynamicFinder</title>
-    <updated>2023-04-18T01:35:39Z</updated>
-    <id>tag:github.com,2023-04-18:/SecurityAndStuff/DynamicFinder</id>
-    <link href="https://github.com/SecurityAndStuff/DynamicFinder" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A DLL sideloading utility.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;DynamicFinder&lt;/h1&gt; &#xA;&lt;p&gt;A DLL sideloading utility.&lt;/p&gt; &#xA;&lt;p&gt;DynamicFinder will search every running process for DLL sideloading opportunities.&lt;/p&gt; &#xA;&lt;p&gt;Dynamic Finder will create proxy DLLs for any potencial targets.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Usage: DynamicFinder [User|Group]&#xA;PS C:\DynamicFinder&amp;gt; dotnet run Users&#xA;[*] Running...&#xA;[*] There are 2 directories from running applications we can write to.&#xA;[+] There are 5 DLLs we can use for C:\Program Files (x86)\Steam\steam.exe&#xA;        - COMCTL32.dll&#xA;        - VERSION.dll&#xA;        - CRYPT32.dll&#xA;        - WSOCK32.dll&#xA;        - bcrypt.dll&#xA;[+] There are 3 DLLs we can use for C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe&#xA;        - WINMM.dll&#xA;        - dbghelp.dll&#xA;        - bcrypt.dll&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code&gt;[*] Created proxy for UIAutomationCore.c&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-cpp&#34;&gt;// UIAutomationCore.c&#xA;#include &amp;lt;Windows.h&amp;gt;&#xA;&#xA;&#xA;BOOL APIENTRY DllMain( HMODULE hModule,&#xA;                       DWORD  ul_reason_for_call,&#xA;                       LPVOID lpReserved&#xA;                     )&#xA;{&#xA;    switch (ul_reason_for_call)&#xA;    {&#xA;    case DLL_PROCESS_ATTACH:&#xA;    case DLL_THREAD_ATTACH:&#xA;    case DLL_THREAD_DETACH:&#xA;    case DLL_PROCESS_DETACH:&#xA;        break;&#xA;    }&#xA;    return TRUE;&#xA;}&#xA;&#xA;#pragma comment(linker,&#34;/export:DllGetActivationFactory=C:\\Windows\\System32\\UIAutomationCore.DLL.DllGetActivationFactory,@1&#34;)&#xA;#pragma comment(linker,&#34;/export:DllCanUnloadNow=C:\\Windows\\System32\\UIAutomationCore.DLL.DllCanUnloadNow,@2&#34;)&#xA;#pragma comment(linker,&#34;/export:DllGetClassObject=C:\\Windows\\System32\\UIAutomationCore.DLL.DllGetClassObject,@3&#34;)&#xA;// ...&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This is a rewrite of a tool I&#39;d previously written.&lt;/p&gt;</summary>
-  </entry>
 </feed>
