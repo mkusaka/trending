@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-19T01:40:21Z</updated>
+  <updated>2023-04-20T01:37:36Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>seanpm2001/Seanpm2001-Applications</title>
-    <updated>2023-04-19T01:40:21Z</updated>
-    <id>tag:github.com,2023-04-19:/seanpm2001/Seanpm2001-Applications</id>
-    <link href="https://github.com/seanpm2001/Seanpm2001-Applications" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2️⃣️0️⃣️0️⃣️1️⃣️💾️ Information on software applications/apps built by @seanpm2001 and his community.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seanpm2001/SeanPatrickMyrick</title>
-    <updated>2023-04-19T01:40:21Z</updated>
-    <id>tag:github.com,2023-04-19:/seanpm2001/SeanPatrickMyrick</id>
-    <link href="https://github.com/seanpm2001/SeanPatrickMyrick" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📃️2️⃣️0️⃣️0️⃣️1️⃣️ The Outside profile for @seanpm2001&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seanpm2001/Seanpm2001-KolibriGames</title>
-    <updated>2023-04-19T01:40:21Z</updated>
-    <id>tag:github.com,2023-04-19:/seanpm2001/Seanpm2001-KolibriGames</id>
-    <link href="https://github.com/seanpm2001/Seanpm2001-KolibriGames" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2️⃣️0️⃣️0️⃣️1️⃣️🕹️ An information page on Kolibri Games related projects by @seanpm2001&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

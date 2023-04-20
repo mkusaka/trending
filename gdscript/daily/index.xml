@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-19T01:35:39Z</updated>
+  <updated>2023-04-20T01:33:39Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ramokz/phantom-camera</title>
-    <updated>2023-04-19T01:35:39Z</updated>
-    <id>tag:github.com,2023-04-19:/ramokz/phantom-camera</id>
-    <link href="https://github.com/ramokz/phantom-camera" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👻🎥 Control the movement and dynamically tween 2D &amp; 3D cameras positions. Built for Godot 4. Inspired by Cinemachine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Novakasa/brickrail</title>
-    <updated>2023-04-19T01:35:39Z</updated>
-    <id>tag:github.com,2023-04-19:/Novakasa/brickrail</id>
-    <link href="https://github.com/Novakasa/brickrail" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LEGO Train automation software for PoweredUp&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BL-MSCH-C220/Exercise-06d-3D-Particles-Animation</title>
-    <updated>2023-04-19T01:35:39Z</updated>
-    <id>tag:github.com,2023-04-19:/BL-MSCH-C220/Exercise-06d-3D-Particles-Animation</id>
-    <link href="https://github.com/BL-MSCH-C220/Exercise-06d-3D-Particles-Animation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

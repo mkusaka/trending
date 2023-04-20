@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-19T01:32:05Z</updated>
+  <updated>2023-04-20T01:31:14Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rymndhng/release-on-push-action</title>
-    <updated>2023-04-19T01:32:05Z</updated>
-    <id>tag:github.com,2023-04-19:/rymndhng/release-on-push-action</id>
-    <link href="https://github.com/rymndhng/release-on-push-action" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Github Action to create a git tag + release when pushed to master&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>logicblocks/kafka.connect.event-feed</title>
-    <updated>2023-04-19T01:32:05Z</updated>
-    <id>tag:github.com,2023-04-19:/logicblocks/kafka.connect.event-feed</id>
-    <link href="https://github.com/logicblocks/kafka.connect.event-feed" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Kafka Connect connector to read a HAL based event feed resource.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nextjournal/dejavu</title>
+    <updated>2023-04-20T01:31:14Z</updated>
+    <id>tag:github.com,2023-04-20:/nextjournal/dejavu</id>
+    <link href="https://github.com/nextjournal/dejavu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

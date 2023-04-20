@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-19T01:43:58Z</updated>
+  <updated>2023-04-20T01:41:04Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>johnmyleswhite/ML_for_Hackers</title>
-    <updated>2023-04-19T01:43:58Z</updated>
-    <id>tag:github.com,2023-04-19:/johnmyleswhite/ML_for_Hackers</id>
-    <link href="https://github.com/johnmyleswhite/ML_for_Hackers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code accompanying the book &#34;Machine Learning for Hackers&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Code for Machine Learning for Hackers&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains all of the code examples for &lt;a href=&#34;http://shop.oreilly.com/product/0636920018483.do&#34;&gt;Machine Learning for Hackers&lt;/a&gt; (2012). The code may not appear exactly as it does in the text, as additional comments and modifications may have been added since publication.&lt;/p&gt; &#xA;&lt;h2&gt;Getting started&lt;/h2&gt; &#xA;&lt;p&gt;The code in this book relies on several R libraries. Two libraries, &lt;code&gt;RCurl&lt;/code&gt; and &lt;code&gt;XML&lt;/code&gt; require additional software to be installed:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/johnmyleswhite/ML_for_Hackers/master/curl&#34;&gt;http://curl.haxx.se/&lt;/a&gt; (for &lt;code&gt;RCurl&lt;/code&gt;)&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/johnmyleswhite/ML_for_Hackers/master/libxml2-dev&#34;&gt;http://xmlsoft.org/&lt;/a&gt; (for &lt;code&gt;XML&lt;/code&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;To make sure you have all of the requite libraries run the &lt;code&gt;package_installer.R&lt;/code&gt; script. In your R console type the following:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&amp;gt; source(&#34;package_installer.R&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;When running the installer inside R you will be asked where to save the library files. If you&#39;d like to install the libraries globally, you can run script at the command-line with admin privileges:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ sudo RScript package_installer.R&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Authors&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Drew Conway, Department of Politics, New York University &lt;a href=&#34;http://drewconway.com/&#34;&gt;http://drewconway.com/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;John Myles White, Data Science, Facebook &lt;a href=&#34;http://www.johnmyleswhite.com/&#34;&gt;http://www.johnmyleswhite.com/&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;All source code is copyright (c) 2012, under the Simplified BSD License.&lt;br&gt; For more information on FreeBSD see: &lt;a href=&#34;http://www.opensource.org/licenses/bsd-license.php&#34;&gt;http://www.opensource.org/licenses/bsd-license.php&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;All images and materials produced by this code are licensed under the Creative Commons Attribution-Share Alike 3.0 United States License: &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/us/&#34;&gt;http://creativecommons.org/licenses/by-sa/3.0/us/&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>oxford-pharmacoepi/LongCovidStudyathon</title>
+    <updated>2023-04-20T01:41:04Z</updated>
+    <id>tag:github.com,2023-04-20:/oxford-pharmacoepi/LongCovidStudyathon</id>
+    <link href="https://github.com/oxford-pharmacoepi/LongCovidStudyathon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;LongCovidStudyathon&lt;/h1&gt; &#xA;&lt;p&gt;Welcome to the Longcovid studyathon :)&lt;/p&gt; &#xA;&lt;p&gt;We have a folder for each one of the workpackages&lt;/p&gt;</summary>
   </entry>
 </feed>

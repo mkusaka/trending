@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-19T01:29:30Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-04-20T01:29:03Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hax/heshijun_v_360</title>
-    <updated>2023-04-19T01:29:30Z</updated>
-    <id>tag:github.com,2023-04-19:/hax/heshijun_v_360</id>
-    <link href="https://github.com/hax/heshijun_v_360" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;贺师俊与360的劳动争议诉讼&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Anything-of-anything/Anything-3D</title>
+    <updated>2023-04-20T01:29:03Z</updated>
+    <id>tag:github.com,2023-04-20:/Anything-of-anything/Anything-3D</id>
+    <link href="https://github.com/Anything-of-anything/Anything-3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Segment-Anything + 3D. Let&#39;s lift anything to 3D.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>busenurcetin/ingilizce-turkce-Yazilim-Terimleri</title>
-    <updated>2023-04-19T01:29:30Z</updated>
-    <id>tag:github.com,2023-04-19:/busenurcetin/ingilizce-turkce-Yazilim-Terimleri</id>
-    <link href="https://github.com/busenurcetin/ingilizce-turkce-Yazilim-Terimleri" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yazılıma Yeni Başlayan Ya Da Bir Süredir Sektörün İçinde Olup Hala Yazılım Terimlerine Hakim Olmadığını Düşünen Arkadaşlara Yardımcı Olması, Faydalı Bir Kaynak Olması Dileğiyle. Yeni Kelimeler ve Tercümeleri Eklenmeye Devam Edecek. Kaynak Genişletilecektir.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liaokongVFX/LangChain-Chinese-Getting-Started-Guide</title>
+    <updated>2023-04-20T01:29:03Z</updated>
+    <id>tag:github.com,2023-04-20:/liaokongVFX/LangChain-Chinese-Getting-Started-Guide</id>
+    <link href="https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LangChain 的中文入门教程&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>satellite-image-deep-learning/techniques</title>
-    <updated>2023-04-19T01:29:30Z</updated>
-    <id>tag:github.com,2023-04-19:/satellite-image-deep-learning/techniques</id>
-    <link href="https://github.com/satellite-image-deep-learning/techniques" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Techniques for deep learning with satellite &amp; aerial imagery&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ProbiusOfficial/CTF-QuickStart</title>
+    <updated>2023-04-20T01:29:03Z</updated>
+    <id>tag:github.com,2023-04-20:/ProbiusOfficial/CTF-QuickStart</id>
+    <link href="https://github.com/ProbiusOfficial/CTF-QuickStart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;针对0基础新手编写的CTF快速入门手册&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
