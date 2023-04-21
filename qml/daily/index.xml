@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-20T01:41:00Z</updated>
+  <updated>2023-04-21T01:44:43Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bouteillerAlan/blurredwallpaper</title>
-    <updated>2023-04-20T01:41:00Z</updated>
-    <id>tag:github.com,2023-04-20:/bouteillerAlan/blurredwallpaper</id>
-    <link href="https://github.com/bouteillerAlan/blurredwallpaper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;kde plasma wallpaper plugin that blur the wallpaper when a window is active&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

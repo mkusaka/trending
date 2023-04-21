@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-20T01:29:59Z</updated>
+  <updated>2023-04-21T01:31:00Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DigitalSQR/resource-visualization</title>
-    <updated>2023-04-20T01:29:59Z</updated>
-    <id>tag:github.com,2023-04-20:/DigitalSQR/resource-visualization</id>
-    <link href="https://github.com/DigitalSQR/resource-visualization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tudat-team/sofa-cmake-feedstock</title>
+    <updated>2023-04-21T01:31:00Z</updated>
+    <id>tag:github.com,2023-04-21:/tudat-team/sofa-cmake-feedstock</id>
+    <link href="https://github.com/tudat-team/sofa-cmake-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for sofa-cmake.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kool20200/Bianki</title>
-    <updated>2023-04-20T01:29:59Z</updated>
-    <id>tag:github.com,2023-04-20:/kool20200/Bianki</id>
-    <link href="https://github.com/kool20200/Bianki" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RDP-Windows&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tudat-team/tudat-resources-feedstock</title>
+    <updated>2023-04-21T01:31:00Z</updated>
+    <id>tag:github.com,2023-04-21:/tudat-team/tudat-resources-feedstock</id>
+    <link href="https://github.com/tudat-team/tudat-resources-feedstock" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A conda-smithy repository for tudat-resources.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ghikk/windows-10-rdp</title>
-    <updated>2023-04-20T01:29:59Z</updated>
-    <id>tag:github.com,2023-04-20:/ghikk/windows-10-rdp</id>
-    <link href="https://github.com/ghikk/windows-10-rdp" rel="alternate"></link>
+    <title>tranminhduc2703/ngrok-rdp</title>
+    <updated>2023-04-21T01:31:00Z</updated>
+    <id>tag:github.com,2023-04-21:/tranminhduc2703/ngrok-rdp</id>
+    <link href="https://github.com/tranminhduc2703/ngrok-rdp" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

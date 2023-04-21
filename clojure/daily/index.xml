@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-20T01:31:14Z</updated>
+  <updated>2023-04-21T01:32:28Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nextjournal/dejavu</title>
-    <updated>2023-04-20T01:31:14Z</updated>
-    <id>tag:github.com,2023-04-20:/nextjournal/dejavu</id>
-    <link href="https://github.com/nextjournal/dejavu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>danielzurawski/lispish</title>
+    <updated>2023-04-21T01:32:28Z</updated>
+    <id>tag:github.com,2023-04-21:/danielzurawski/lispish</id>
+    <link href="https://github.com/danielzurawski/lispish" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Toy recursive descent Clojure to JavaScript translator for my dissertation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

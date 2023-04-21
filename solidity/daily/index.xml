@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-20T01:43:01Z</updated>
+  <updated>2023-04-21T01:47:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jtriley-eth/multi-token</title>
-    <updated>2023-04-20T01:43:01Z</updated>
-    <id>tag:github.com,2023-04-20:/jtriley-eth/multi-token</id>
-    <link href="https://github.com/jtriley-eth/multi-token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RareSkills/solidity-riddles</title>
+    <updated>2023-04-21T01:47:08Z</updated>
+    <id>tag:github.com,2023-04-21:/RareSkills/solidity-riddles</id>
+    <link href="https://github.com/RareSkills/solidity-riddles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of Solidity security exercises and puzzles to test your knowledge of Solidity&#39;s more esoteric features.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PatrickAlphaC/foundry-smart-contract-lottery-f23</title>
-    <updated>2023-04-20T01:43:01Z</updated>
-    <id>tag:github.com,2023-04-20:/PatrickAlphaC/foundry-smart-contract-lottery-f23</id>
-    <link href="https://github.com/PatrickAlphaC/foundry-smart-contract-lottery-f23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Elpacos/quickfork</title>
+    <updated>2023-04-21T01:47:08Z</updated>
+    <id>tag:github.com,2023-04-21:/Elpacos/quickfork</id>
+    <link href="https://github.com/Elpacos/quickfork" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Foundry template to run Proof of Concept (PoC) fork tests on any EVM compatible chain.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

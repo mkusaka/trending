@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-20T01:39:22Z</updated>
+  <updated>2023-04-21T01:42:54Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>FMXExpress/Stable-Diffusion-Desktop-Client</title>
-    <updated>2023-04-20T01:39:22Z</updated>
-    <id>tag:github.com,2023-04-20:/FMXExpress/Stable-Diffusion-Desktop-Client</id>
-    <link href="https://github.com/FMXExpress/Stable-Diffusion-Desktop-Client" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stable Diffusion Desktop client for Windows, macOS, and Linux built in Embarcadero Delphi.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-20T01:31:22Z</updated>
+  <updated>2023-04-21T01:32:37Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ColdBox/Building-Human-Friendly-Scheduled-Tasks</title>
+    <updated>2023-04-21T01:32:37Z</updated>
+    <id>tag:github.com,2023-04-21:/ColdBox/Building-Human-Friendly-Scheduled-Tasks</id>
+    <link href="https://github.com/ColdBox/Building-Human-Friendly-Scheduled-Tasks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A hands-on workshop for building human-friendly scheduled tasks with ColdBox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

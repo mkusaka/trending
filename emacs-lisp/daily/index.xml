@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-20T01:32:55Z</updated>
+  <updated>2023-04-21T01:34:44Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kozo2/emacs-bundle</title>
-    <updated>2023-04-20T01:32:55Z</updated>
-    <id>tag:github.com,2023-04-20:/kozo2/emacs-bundle</id>
-    <link href="https://github.com/kozo2/emacs-bundle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;emacs version of vundle.vim&lt;/p&gt;&lt;hr&gt;&lt;p&gt;bundle.el automates the installation of Emacs Lisp files from git repository. bundle.el downloads elisp and adds the path to load-path.&lt;/p&gt; &#xA;&lt;p&gt;Installation:&lt;/p&gt; &#xA;&lt;p&gt;(0) bundle.el uses git, please install git first. (1) bundle.el depends on kiwanami&#39;s emacs-deferred, please install emacs-deferred (2) clone emacs-bundle repository somewhere &#34;git clone git://github.com/kozo2/emacs-bundle&#34; (3) load bundle.el in emacs-bundle repository (load &#34;~/emacs-bundle/bundle.el&#34;)&lt;/p&gt; &#xA;&lt;p&gt;Usage:&lt;/p&gt; &#xA;&lt;p&gt;(1) M-x bundle-install-git (2) input elisp git repository url like: git://github.com/m2ym/auto-complete (3) load installed elisp by bundle.el M-x load-library auto-complete or append following lines to ~/.emacs.d/init.el ;; ~/.emacs.d/init.el (require &#39;auto-complete)&lt;/p&gt;</summary>
+    <title>li-vu/emacs</title>
+    <updated>2023-04-21T01:34:44Z</updated>
+    <id>tag:github.com,2023-04-21:/li-vu/emacs</id>
+    <link href="https://github.com/li-vu/emacs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;emacs&lt;/h1&gt; &#xA;&lt;p&gt;Miscellaneous stuff about Emacs.&lt;/p&gt;</summary>
   </entry>
 </feed>
