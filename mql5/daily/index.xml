@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MQL5 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:41:19Z</updated>
+  <updated>2023-04-22T01:38:50Z</updated>
   <subtitle>Daily Trending of MQL5 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>khramkov/MQL5-JSON-API</title>
+    <updated>2023-04-22T01:38:50Z</updated>
+    <id>tag:github.com,2023-04-22:/khramkov/MQL5-JSON-API</id>
+    <link href="https://github.com/khramkov/MQL5-JSON-API" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Metaquotes MQL5 - JSON - API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EA31337/EA31337-classes</title>
+    <updated>2023-04-22T01:38:50Z</updated>
+    <id>tag:github.com,2023-04-22:/EA31337/EA31337-classes</id>
+    <link href="https://github.com/EA31337/EA31337-classes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📦📈 EA31337 framework (MQL library for writing trading Expert Advisors, indicators and scripts)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

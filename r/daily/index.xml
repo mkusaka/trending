@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:44:47Z</updated>
+  <updated>2023-04-22T01:42:06Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>trestletech/ArrestAnalysis</title>
-    <updated>2023-04-21T01:44:47Z</updated>
-    <id>tag:github.com,2023-04-21:/trestletech/ArrestAnalysis</id>
-    <link href="https://github.com/trestletech/ArrestAnalysis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Analysis of Arrest Records&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Arrest Analysis&lt;/h1&gt; &#xA;&lt;p&gt;You should knit the documents in the following order:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(knitr)&#xA;knit(&#34;dataCollection.Rmd&#34;)&#xA;knit(&#34;arrestAnalysis.Rmd&#34;)&#xA;knit(&#34;weather.Rmd&#34;)&#xA;knit(&#34;drugArrests.Rmd&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The compiled HTML files are all checked in to the directory if you&#39;d prefer to view the results without running the commands yourself.&lt;/p&gt; &#xA;&lt;h2&gt;RMarkdown Analysis&lt;/h2&gt; &#xA;&lt;p&gt;The following Rmd files are included in the repo.&lt;/p&gt; &#xA;&lt;h3&gt;Data Collection&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://rawgithub.com/trestletech/ArrestAnalysis/master/dataCollection.html&#34;&gt;Preview&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Collects the arrest data from the &lt;a href=&#34;http://www.lakesheriff.com/resources/arrests.htm&#34;&gt;Lake County site&lt;/a&gt;, scraping the HTML.&lt;/p&gt; &#xA;&lt;h3&gt;Arrest Analysis&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://rawgithub.com/trestletech/ArrestAnalysis/master/arrestAnalysis.html&#34;&gt;Preview&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;A quick analysis of the arrest records compared to the demographics of the county.&lt;/p&gt; &#xA;&lt;h3&gt;Weather&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://rawgithub.com/trestletech/ArrestAnalysis/master/weather.html&#34;&gt;Preview&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Download the weather for that area using the &lt;a href=&#34;http://www.wunderground.com/weather/api/&#34;&gt;Weather Underground API&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Drug Arrests&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://rawgithub.com/trestletech/ArrestAnalysis/master/drugArrests.html&#34;&gt;Preview&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Compare the drug arrest records to the weather in that area.&lt;/p&gt; &#xA;&lt;h2&gt;Shiny Application&lt;/h2&gt; &#xA;&lt;p&gt;There&#39;s also a small interactive Shiny application included in the top-level directory. The hosted version is available &lt;a href=&#34;https://trestletech.shinyapps.io/arrest-weather&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>hanyoupan/rat-manuscript</title>
+    <updated>2023-04-22T01:42:06Z</updated>
+    <id>tag:github.com,2023-04-22:/hanyoupan/rat-manuscript</id>
+    <link href="https://github.com/hanyoupan/rat-manuscript" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Codes for the rat manuscript mRatBN7.2&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Codes for the rat manuscript mRatBN7.2&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2023.04.13.536694v1&#34;&gt;https://www.biorxiv.org/content/10.1101/2023.04.13.536694v1&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

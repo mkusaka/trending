@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:40:37Z</updated>
+  <updated>2023-04-22T01:38:11Z</updated>
   <subtitle>Daily Trending of M4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kronosnet/knet-ci-test</title>
-    <updated>2023-04-21T01:40:37Z</updated>
-    <id>tag:github.com,2023-04-21:/kronosnet/knet-ci-test</id>
-    <link href="https://github.com/kronosnet/knet-ci-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project to test ci.kronosnet.org pipelines development&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tprk77/lua-autoconf</title>
+    <updated>2023-04-22T01:38:11Z</updated>
+    <id>tag:github.com,2023-04-22:/tprk77/lua-autoconf</id>
+    <link href="https://github.com/tprk77/lua-autoconf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;M4 macros for Lua&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

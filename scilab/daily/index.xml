@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scilab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:46:18Z</updated>
+  <updated>2023-04-22T01:43:27Z</updated>
   <subtitle>Daily Trending of Scilab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>simorxb/Wheeled-robot-control</title>
-    <updated>2023-04-21T01:46:18Z</updated>
-    <id>tag:github.com,2023-04-21:/simorxb/Wheeled-robot-control</id>
-    <link href="https://github.com/simorxb/Wheeled-robot-control" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A model in Xcos of a two wheeled mobile robot and its control system, to control yaw and speed.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

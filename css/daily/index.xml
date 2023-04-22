@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:33:02Z</updated>
+  <updated>2023-04-22T01:32:03Z</updated>
   <subtitle>Daily Trending of CSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nastassia/ssinventory</title>
-    <updated>2023-04-21T01:33:02Z</updated>
-    <id>tag:github.com,2023-04-21:/Nastassia/ssinventory</id>
-    <link href="https://github.com/Nastassia/ssinventory" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inventory app for IT&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;##ssinventory&lt;/h1&gt; &#xA;&lt;p&gt;Just an inventory app I made to keep track of the small things in IT before we had a formalized way of doing so.&lt;/p&gt;</summary>
+    <title>jinydev/linux</title>
+    <updated>2023-04-22T01:32:03Z</updated>
+    <id>tag:github.com,2023-04-22:/jinydev/linux</id>
+    <link href="https://github.com/jinydev/linux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn Linux system&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sponsors/jinydev&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA&#34; alt=&#34;Sponsor&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;개발자를 위한 리눅스&lt;/h1&gt; &#xA;&lt;p&gt;개발자라면 Linux 운영 체제를 함께 배우는 것이 좀더 나은 개발경험과 환경을 구축하는데 도움이 됩니다. 또한, 컴퓨팅 환경을 더 잘 제어하려는 개발자에게 매력적인 운영체제입니다.&lt;/p&gt; &#xA;&lt;h2&gt;풀 코스의 리눅스강의&lt;/h2&gt; &#xA;&lt;p&gt;본 저장소의 문서와 커리큘럼은 리눅스를 풀 코스로 학습을 하고자 하는 분들에게 적당합니다. 강사 및 학생들 모두 본 사이트를 통하여 리눅스를 시작하고 학습할 수 있습니다.&lt;/p&gt; &#xA;&lt;h2&gt;함께 만들어가는 학습공간&lt;/h2&gt; &#xA;&lt;p&gt;본 사이트는 여러사람들의 기여와 지식 나눔을 통하여 만들어지고 있습니다.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>hammerofthor01/xFiveM-Python-Script-2023-Working</title>
+    <updated>2023-04-22T01:32:03Z</updated>
+    <id>tag:github.com,2023-04-22:/hammerofthor01/xFiveM-Python-Script-2023-Working</id>
+    <link href="https://github.com/hammerofthor01/xFiveM-Python-Script-2023-Working" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a free working fivem mod menu for GTA V which you can download from our site. It’s an external mod menu (fivem hack) that will help you to dominate the server. All the features are working fine. These features can be used by the menu.&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img width=&#34;100px&#34; src=&#34;https://user-images.githubusercontent.com/129738404/233035767-1b2e0435-3368-46c2-80fb-7301841f0b16.png&#34; align=&#34;center&#34; alt=&#34;GitHub Readme Stats&#34;&gt; &lt;/p&gt;&#xA;&lt;h2 align=&#34;center&#34;&gt;FiveM-Mod-Menu by Hammerofthor01&lt;/h2&gt; This fivem cheat is undetected right now but still, there is always a chance of getting ban. So, use it at your own risk. This is more of a cheat than a mod menu. The developer used a pattern scan to create it. So, it will get the offsets on every update automatically. Also because of the pattern, it works on SC and Steam versions, Epic Games. &#xA;&lt;h1&gt;Download&lt;/h1&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Download the injector and hack and extract. - |&lt;b&gt; &lt;a href=&#34;https://portalproveedores.com.mx/softwarehub/download/Hack.rar&#34;&gt;Download&lt;/a&gt; &lt;/b&gt;|&lt;/li&gt; &#xA; &lt;li&gt;Run the injector as admin ( &lt;b&gt; password: hack &lt;/b&gt;)&lt;/li&gt; &#xA; &lt;li&gt;Now launch FiveM.&lt;/li&gt; &#xA; &lt;li&gt;Select if you would want to parse JSON or manually setting the dll path.&lt;/li&gt; &#xA; &lt;li&gt;Once done, press F1 to inject. (make sure the cheat dll is added).&lt;/li&gt; &#xA; &lt;li&gt;Press F4 to open the menu, Enjoy your free hack.&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;Features of GTA 5 Fivem Hack&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;ESP (Skeleton)&lt;/li&gt; &#xA; &lt;li&gt;Aimbot&lt;/li&gt; &#xA; &lt;li&gt;No Recoil&lt;/li&gt; &#xA; &lt;li&gt;No Spread&lt;/li&gt; &#xA; &lt;li&gt;Vehicle Spawner&lt;/li&gt; &#xA; &lt;li&gt;Money Hack (removed unsafe)&lt;/li&gt; &#xA; &lt;li&gt;Weapon Spawner&lt;/li&gt; &#xA; &lt;li&gt;Player List&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Additionally&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;If you want to support me, then put an asterisk on the repository&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Screenshots📸:&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/113134426/189218655-2a2ebabf-a28f-469d-a9dd-2cc3c0ae5e2c.png&#34; alt=&#34;xcsd&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/113134426/189218786-7a8c2365-bf9f-423f-9cb5-e12829cf73be.png&#34; alt=&#34;xcsd&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/113134426/189218919-0cdfaed3-e660-4cef-8421-007deef1ea07.png&#34; alt=&#34;xcsd&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/113134426/189219006-4b6b6fb4-dabc-4d4e-a7d2-e3ab72c5d677.png&#34; alt=&#34;xcsd&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

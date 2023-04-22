@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:31:52Z</updated>
+  <updated>2023-04-22T01:30:33Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SebLague/Ant-Simulation</title>
+    <updated>2023-04-22T01:30:33Z</updated>
+    <id>tag:github.com,2023-04-22:/SebLague/Ant-Simulation</id>
+    <link href="https://github.com/SebLague/Ant-Simulation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;https://youtu.be/X-iSQQgOd1A&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ant-Simulation&lt;/h1&gt; &#xA;&lt;p&gt;A simple ant simulation: the ants try to find food (green) and bring it back to their home. They find good paths using trails of pheremones (blue and red), which indicate &#39;leaving home&#39; and &#39;returning from food&#39;.&lt;br&gt; You can left-click drag to draw in new parts of the map and watch the ants try to adapt (hold shift to erase walls instead). The ants&#39; behaviour can also be tweaked on the Settings object.&lt;br&gt; The project should be opened in the Unity editor (2021.3).&lt;/p&gt; &#xA;&lt;p&gt;You can watch a video about this project (and some other things) &lt;a href=&#34;https://youtu.be/X-iSQQgOd1A&#34;&gt;here&lt;/a&gt;.&lt;br&gt; It was inspired by &lt;a href=&#34;https://youtu.be/81GQNPJip2Y&#34;&gt;this video&lt;/a&gt; by Pezza, who has a much cooler project to experiment with &lt;a href=&#34;https://github.com/johnBuffer/AntSimulator&#34;&gt;over here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/SebLague/Images/raw/master/Ant%20Sim.png&#34; alt=&#34;Ants&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>sorabug/ChangeTimestamp</title>
+    <updated>2023-04-22T01:30:33Z</updated>
+    <id>tag:github.com,2023-04-22:/sorabug/ChangeTimestamp</id>
+    <link href="https://github.com/sorabug/ChangeTimestamp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一键修改exe、dll的编译时间、创建时间、修改时间和访问时间&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ChangeTimestamp&lt;/h1&gt; &#xA;&lt;p&gt;一键修改exe、dll的编译时间、创建时间、修改时间和访问时间&lt;/p&gt; &#xA;&lt;p&gt;某杀软会对时间较新且未扫描过的文件设置很高的可疑分数，通常大家只会改创建时间和修改时间，而virustotal还会识别&lt;strong&gt;编译时间&lt;/strong&gt;，使用本脚本可一键修改&lt;strong&gt;exe&lt;/strong&gt;、&lt;strong&gt;dll&lt;/strong&gt;的&lt;strong&gt;编译时间&lt;/strong&gt;、&lt;strong&gt;创建时间&lt;/strong&gt;、&lt;strong&gt;修改时间&lt;/strong&gt;和&lt;strong&gt;访问时间&lt;/strong&gt;。&lt;/p&gt; &#xA;&lt;p&gt;灵感来自此项目&lt;a href=&#34;https://github.com/qigpig/changeTime&#34;&gt;https://github.com/qigpig/changeTime&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Deployment&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Build：vs2019&lt;/li&gt; &#xA; &lt;li&gt;Runtime：NET Framework 4.0&lt;/li&gt; &#xA; &lt;li&gt;可选择对应系统NET Framework环境编译&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Usage&lt;/h3&gt; &#xA;&lt;p&gt;ChangeTimestamp filepath timestamp &lt;img src=&#34;https://github.com/sorabug/ChangeTimestamp/raw/main/test.png&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

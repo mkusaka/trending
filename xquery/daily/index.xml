@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XQuery Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:49:47Z</updated>
+  <updated>2023-04-22T01:46:50Z</updated>
   <subtitle>Daily Trending of XQuery in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eeditiones/tei-publisher-app</title>
-    <updated>2023-04-21T01:49:47Z</updated>
-    <id>tag:github.com,2023-04-21:/eeditiones/tei-publisher-app</id>
-    <link href="https://github.com/eeditiones/tei-publisher-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The main TEI Publisher app&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

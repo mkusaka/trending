@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:31:05Z</updated>
+  <updated>2023-04-22T01:30:10Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>noQ-sweden/noq</title>
-    <updated>2023-04-21T01:31:05Z</updated>
-    <id>tag:github.com,2023-04-21:/noQ-sweden/noq</id>
-    <link href="https://github.com/noQ-sweden/noq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;noQ webservice&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure/aca-dotnet-workshop</title>
-    <updated>2023-04-21T01:31:05Z</updated>
-    <id>tag:github.com,2023-04-21:/Azure/aca-dotnet-workshop</id>
-    <link href="https://github.com/Azure/aca-dotnet-workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Dotnet Azure Container Apps workshop showcasing how to accelerate developers&#39; ability to develop and ship distributed applications.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

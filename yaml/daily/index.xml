@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:49:56Z</updated>
+  <updated>2023-04-22T01:46:59Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ansible-lockdown/Windows-2019-CIS</title>
-    <updated>2023-04-21T01:49:56Z</updated>
-    <id>tag:github.com,2023-04-21:/ansible-lockdown/Windows-2019-CIS</id>
-    <link href="https://github.com/ansible-lockdown/Windows-2019-CIS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CIS Baseline Ansible Role for Windows 2019&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:34:37Z</updated>
+  <updated>2023-04-22T01:33:20Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>elixir-tools/credo-language-server</title>
-    <updated>2023-04-21T01:34:37Z</updated>
-    <id>tag:github.com,2023-04-21:/elixir-tools/credo-language-server</id>
-    <link href="https://github.com/elixir-tools/credo-language-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LSP implementation for Credo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jellyfish-dev/jellyfish</title>
-    <updated>2023-04-21T01:34:37Z</updated>
-    <id>tag:github.com,2023-04-21:/jellyfish-dev/jellyfish</id>
-    <link href="https://github.com/jellyfish-dev/jellyfish" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;General purpose media server. Supports WebRTC, HLS, RTSP.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

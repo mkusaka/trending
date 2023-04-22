@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:47:08Z</updated>
+  <updated>2023-04-22T01:44:16Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RareSkills/solidity-riddles</title>
-    <updated>2023-04-21T01:47:08Z</updated>
-    <id>tag:github.com,2023-04-21:/RareSkills/solidity-riddles</id>
-    <link href="https://github.com/RareSkills/solidity-riddles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of Solidity security exercises and puzzles to test your knowledge of Solidity&#39;s more esoteric features.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ConsenSys/daedaluzz</title>
+    <updated>2023-04-22T01:44:16Z</updated>
+    <id>tag:github.com,2023-04-22:/ConsenSys/daedaluzz</id>
+    <link href="https://github.com/ConsenSys/daedaluzz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Benchmark Generator for Smart-Contract Fuzzers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Elpacos/quickfork</title>
-    <updated>2023-04-21T01:47:08Z</updated>
-    <id>tag:github.com,2023-04-21:/Elpacos/quickfork</id>
-    <link href="https://github.com/Elpacos/quickfork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Foundry template to run Proof of Concept (PoC) fork tests on any EVM compatible chain.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BuildBearLabs/Tutorials</title>
+    <updated>2023-04-22T01:44:16Z</updated>
+    <id>tag:github.com,2023-04-22:/BuildBearLabs/Tutorials</id>
+    <link href="https://github.com/BuildBearLabs/Tutorials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curated smart contract development and deployment tutorials, covering basics to advanced techniques for both beginners and experienced developers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dotshm/Solidity-Intern-Tasks</title>
+    <updated>2023-04-22T01:44:16Z</updated>
+    <id>tag:github.com,2023-04-22:/dotshm/Solidity-Intern-Tasks</id>
+    <link href="https://github.com/dotshm/Solidity-Intern-Tasks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

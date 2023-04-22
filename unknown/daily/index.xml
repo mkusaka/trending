@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:29:50Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-04-22T01:29:01Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hossein-mohseni/CF-Web</title>
-    <updated>2023-04-21T01:29:50Z</updated>
-    <id>tag:github.com,2023-04-21:/hossein-mohseni/CF-Web</id>
-    <link href="https://github.com/hossein-mohseni/CF-Web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌥 Simple Cloud Flare Websites + IPv4/IPv6 Extractor tool 🌍&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>showlab/Awesome-Video-Diffusion</title>
+    <updated>2023-04-22T01:29:01Z</updated>
+    <id>tag:github.com,2023-04-22:/showlab/Awesome-Video-Diffusion</id>
+    <link href="https://github.com/showlab/Awesome-Video-Diffusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>allenai/mmc4</title>
-    <updated>2023-04-21T01:29:50Z</updated>
-    <id>tag:github.com,2023-04-21:/allenai/mmc4</id>
-    <link href="https://github.com/allenai/mmc4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mckaywrigley/prompts</title>
+    <updated>2023-04-22T01:29:01Z</updated>
+    <id>tag:github.com,2023-04-22:/mckaywrigley/prompts</id>
+    <link href="https://github.com/mckaywrigley/prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My favorite AI prompts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Orange-Cyberdefense/ocd-mindmaps</title>
-    <updated>2023-04-21T01:29:50Z</updated>
-    <id>tag:github.com,2023-04-21:/Orange-Cyberdefense/ocd-mindmaps</id>
-    <link href="https://github.com/Orange-Cyberdefense/ocd-mindmaps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Orange Cyberdefense mindmaps&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emuPlace/emuThreeDS</title>
+    <updated>2023-04-22T01:29:01Z</updated>
+    <id>tag:github.com,2023-04-22:/emuPlace/emuThreeDS</id>
+    <link href="https://github.com/emuPlace/emuThreeDS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;World&#39;s first Nintendo 3DS emulator for Apple devices based on Citra.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

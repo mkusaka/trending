@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AngelScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:30:22Z</updated>
+  <updated>2023-04-22T01:29:33Z</updated>
   <subtitle>Daily Trending of AngelScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chen310/SeamPotPlayer</title>
+    <updated>2023-04-22T01:29:33Z</updated>
+    <id>tag:github.com,2023-04-22:/chen310/SeamPotPlayer</id>
+    <link href="https://github.com/chen310/SeamPotPlayer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;使用 Seam 在 PotPlayer 中播放直播&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

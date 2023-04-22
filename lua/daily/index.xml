@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-21T01:40:24Z</updated>
+  <updated>2023-04-22T01:38:02Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>axkirillov/hbac.nvim</title>
-    <updated>2023-04-21T01:40:24Z</updated>
-    <id>tag:github.com,2023-04-21:/axkirillov/hbac.nvim</id>
-    <link href="https://github.com/axkirillov/hbac.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Heuristic buffer auto-close&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hbac.nvim&lt;/h1&gt; &#xA;&lt;p&gt;Heuristic buffer auto-close&lt;/p&gt; &#xA;&lt;h1&gt;overview&lt;/h1&gt; &#xA;&lt;p&gt;Automagically close the unedited buffers in your bufferlist when it becomes too long. The &#34;edited&#34; buffers remain untouched. For a buffer to be considered edited it is enough to enter insert mode once or modify it in any way.&lt;/p&gt; &#xA;&lt;h1&gt;description&lt;/h1&gt; &#xA;&lt;p&gt;You like using the buffer list, but you hate it when it has too many buffers, because you loose the overview for what files you are &lt;em&gt;actually&lt;/em&gt; working on. Indeed, a lot of the times, when browsing code you want to look at some files, that you are not actively working on, like checking the definitions or going down the callstack when debugging. These files then pollute the bufferlist and make it harder to find ones you actually care about. Reddit user &lt;strong&gt;xmsxms&lt;/strong&gt; &lt;a href=&#34;https://www.reddit.com/r/neovim/comments/12c4ad8/closing_unused_buffers/?utm_source=share&amp;amp;utm_medium=web2x&amp;amp;context=3&#34;&gt;posted&lt;/a&gt; a script that marks all once edited files in a session as important and provides a keybinding to close all the rest. In fact, I used some of his code in this plugin, and you can achieve the same effect as his script using hbac. The main feature of this plugin, however, is the automatic closing of buffers. If the number of buffers reaches a threschold (default is 10), the oldest unedited buffer will be closed once you open a new one.&lt;/p&gt; &#xA;&lt;h1&gt;installation&lt;/h1&gt; &#xA;&lt;p&gt;with packer&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;use &#39;axkirillov/hbac.nvim&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;with lazy&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;{&#xA;  &#39;axkirillov/hbac.nvim&#39;,&#xA;  config = function ()&#xA;    require(&#34;hbac&#34;).setup()&#xA;  end&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;configuration&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require(&#34;hbac&#34;).setup({&#xA;  autoclose = true, -- set autoclose to false if you want to close manually&#xA;  threshold = 10 -- hbac will start closing unedited buffers once that number is reached&#xA;})&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;usage&lt;/h1&gt; &#xA;&lt;p&gt;Let hbac do its magick 😊&lt;/p&gt; &#xA;&lt;p&gt;or&lt;/p&gt; &#xA;&lt;p&gt;use &lt;code&gt;require(&#34;hbac&#34;).close_unused()&lt;/code&gt; to close all unedited buffers&lt;/p&gt;</summary>
+    <title>alpha2phi/modern-neovim</title>
+    <updated>2023-04-22T01:38:02Z</updated>
+    <id>tag:github.com,2023-04-22:/alpha2phi/modern-neovim</id>
+    <link href="https://github.com/alpha2phi/modern-neovim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Crafting a modernized development environment with Neovim.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Modern Neovim&lt;/h1&gt; &#xA;&lt;p&gt;Crafting a modernized development environment with Neovim.&lt;/p&gt; &#xA;&lt;p&gt;Check out the &lt;a href=&#34;https://alpha2phi.medium.com/&#34;&gt;Medium articles&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>nvim-neotest/neotest-plenary</title>
-    <updated>2023-04-21T01:40:24Z</updated>
-    <id>tag:github.com,2023-04-21:/nvim-neotest/neotest-plenary</id>
-    <link href="https://github.com/nvim-neotest/neotest-plenary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;neotest-plenary&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/rcarriga/neotest&#34;&gt;Neotest&lt;/a&gt; adapter for &lt;a href=&#34;https://github.com/nvim-lua/plenary.nvim&#34;&gt;plenary.nvim&lt;/a&gt; busted tests.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/24252670/158066001-713829a6-c515-4dbe-84eb-3a486a3142d5.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is WIP as use cases are discovered. Currently any &lt;code&gt;minimal_init.lua/vim&lt;/code&gt; will be used when running tests. If you have extra requirements for running tests, please raise an issue to discuss incorporating it into this adapter.&lt;/p&gt; &#xA;&lt;p&gt;Requires &lt;a href=&#34;https://github.com/nvim-treesitter/nvim-treesitter&#34;&gt;nvim-treesitter&lt;/a&gt; and the parser for lua.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require(&#34;neotest&#34;).setup({&#xA;  adapters = {&#xA;    require(&#34;neotest-plenary&#34;),&#xA;  },&#xA;})&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Minimal &lt;code&gt;init.lua&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;By default, &lt;code&gt;neotest-plenary&lt;/code&gt; will glob for:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;*/testrc*&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;*/minimal_init*&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;test*/init.vim&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Or, you can specify the exact file to use via:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require(&#34;neotest&#34;).setup({&#xA;  adapters = {&#xA;    require(&#34;neotest-plenary&#34;).setup({&#xA;      min_init = &#34;./path/to/test_init.lua&#34;,&#xA;    }),&#xA;  },&#xA;})&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>eggtoopain/Neovim-Configuration-Tutorial</title>
+    <updated>2023-04-22T01:38:02Z</updated>
+    <id>tag:github.com,2023-04-22:/eggtoopain/Neovim-Configuration-Tutorial</id>
+    <link href="https://github.com/eggtoopain/Neovim-Configuration-Tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;从零配置Neovim - B站：技术蛋老师&lt;/h1&gt;</summary>
   </entry>
 </feed>
