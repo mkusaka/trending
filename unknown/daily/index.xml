@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:29:01Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-04-23T01:29:32Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>showlab/Awesome-Video-Diffusion</title>
-    <updated>2023-04-22T01:29:01Z</updated>
-    <id>tag:github.com,2023-04-22:/showlab/Awesome-Video-Diffusion</id>
-    <link href="https://github.com/showlab/Awesome-Video-Diffusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tkmru/awesome-edr-bypass</title>
+    <updated>2023-04-23T01:29:32Z</updated>
+    <id>tag:github.com,2023-04-23:/tkmru/awesome-edr-bypass</id>
+    <link href="https://github.com/tkmru/awesome-edr-bypass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome EDR Bypass Resources For Ethical Hacking&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mckaywrigley/prompts</title>
-    <updated>2023-04-22T01:29:01Z</updated>
-    <id>tag:github.com,2023-04-22:/mckaywrigley/prompts</id>
-    <link href="https://github.com/mckaywrigley/prompts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My favorite AI prompts.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cinit/QAuxiliary</title>
+    <updated>2023-04-23T01:29:32Z</updated>
+    <id>tag:github.com,2023-04-23:/cinit/QAuxiliary</id>
+    <link href="https://github.com/cinit/QAuxiliary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QNotified phoenix - To make OICQ great again&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>emuPlace/emuThreeDS</title>
-    <updated>2023-04-22T01:29:01Z</updated>
-    <id>tag:github.com,2023-04-22:/emuPlace/emuThreeDS</id>
-    <link href="https://github.com/emuPlace/emuThreeDS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;World&#39;s first Nintendo 3DS emulator for Apple devices based on Citra.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yaodongC/awesome-instruction-dataset</title>
+    <updated>2023-04-23T01:29:32Z</updated>
+    <id>tag:github.com,2023-04-23:/yaodongC/awesome-instruction-dataset</id>
+    <link href="https://github.com/yaodongC/awesome-instruction-dataset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

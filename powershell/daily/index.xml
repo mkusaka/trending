@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:41:08Z</updated>
+  <updated>2023-04-23T01:42:29Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Vichingo455/GitHub-RDP-NGROK</title>
+    <updated>2023-04-23T01:42:29Z</updated>
+    <id>tag:github.com,2023-04-23:/Vichingo455/GitHub-RDP-NGROK</id>
+    <link href="https://github.com/Vichingo455/GitHub-RDP-NGROK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free VPS for everybody!! Method by Vichingo455&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GitHub RDP with NGROK&lt;/h1&gt; &#xA;&lt;p&gt;Free VPS for everybody!! Method by Vichingo455&lt;/p&gt; &#xA;&lt;h2&gt;How to use?&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Create an ngrok account&lt;/li&gt; &#xA; &lt;li&gt;Fork this repository&lt;/li&gt; &#xA; &lt;li&gt;Edit the enable-rdp.ps1 file adding your ngrok token&lt;/li&gt; &#xA; &lt;li&gt;Start the Windows RDP or the Windows RDP (Windows Server 2019) workflow (depend what version you want, if Server 2022 or Server 2019)&lt;/li&gt; &#xA; &lt;li&gt;Check the ngrok address the vm got and the port in your ngrok dashboard&lt;/li&gt; &#xA; &lt;li&gt;Open Remote Desktop Connection and paste it (remove tcp://)&lt;/li&gt; &#xA; &lt;li&gt;Type as username: runneradmin and as password: Password@001&lt;/li&gt; &#xA; &lt;li&gt;Wow server!!!&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Screenshots (if you don&#39;t believe that this method really works)&lt;/h3&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/59311016/232539982-2b7d1df9-cb3d-4d6b-aadb-342ef7a3c2c5.png&#34; alt=&#34;RDP_Server2019&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

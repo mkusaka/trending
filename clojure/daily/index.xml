@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:31:31Z</updated>
+  <updated>2023-04-23T01:32:13Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kumarshantanu/clj-dbcp</title>
-    <updated>2023-04-22T01:31:31Z</updated>
-    <id>tag:github.com,2023-04-22:/kumarshantanu/clj-dbcp</id>
-    <link href="https://github.com/kumarshantanu/clj-dbcp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure wrapper for Apache DBCP to create JDBC connections pools&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>soyPabloG/sugbi</title>
-    <updated>2023-04-22T01:31:31Z</updated>
-    <id>tag:github.com,2023-04-22:/soyPabloG/sugbi</id>
-    <link href="https://github.com/soyPabloG/sugbi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Library Management System for the Software Engineering course.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

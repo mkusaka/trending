@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:33:28Z</updated>
+  <updated>2023-04-23T01:34:24Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ScriptDevil/dotfiles</title>
-    <updated>2023-04-22T01:33:28Z</updated>
-    <id>tag:github.com,2023-04-22:/ScriptDevil/dotfiles</id>
-    <link href="https://github.com/ScriptDevil/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;*outdated* my dotfiles - emacs, herbstluftwm and zsh&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

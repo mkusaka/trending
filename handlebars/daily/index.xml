@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:35:02Z</updated>
+  <updated>2023-04-23T01:36:02Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>geneasy/nav</title>
-    <updated>2023-04-22T01:35:02Z</updated>
-    <id>tag:github.com,2023-04-22:/geneasy/nav</id>
-    <link href="https://github.com/geneasy/nav" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;网址导航模板 - 这是一个通用的网址导航模板，任何类型的网站都可以拿去使用。此网址导航页面是使用 GenEasy 文档生成工具 + WebStack 模板创建的静态页面，托管在 GitHub Pages 服务器上面。例子: https://zh.pipecraft.net/&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stjudecloud/theme</title>
-    <updated>2023-04-22T01:35:02Z</updated>
-    <id>tag:github.com,2023-04-22:/stjudecloud/theme</id>
-    <link href="https://github.com/stjudecloud/theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Component library and CSS themes for applications on the St. Jude Cloud project.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

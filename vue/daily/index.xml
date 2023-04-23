@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:46:20Z</updated>
+  <updated>2023-04-23T01:47:47Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yangjiakai/lux-admin-vuetify3</title>
-    <updated>2023-04-22T01:46:20Z</updated>
-    <id>tag:github.com,2023-04-22:/yangjiakai/lux-admin-vuetify3</id>
-    <link href="https://github.com/yangjiakai/lux-admin-vuetify3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create the best admin based on Vuemo3, Vite3, TypeScript, Vuetify3, Firebase etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MaaAssistantArknights/MaaX</title>
+    <updated>2023-04-23T01:47:47Z</updated>
+    <id>tag:github.com,2023-04-23:/MaaAssistantArknights/MaaX</id>
+    <link href="https://github.com/MaaAssistantArknights/MaaX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MAA GUI with Electron &amp; Vue3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lpdswing/GPTFusion</title>
+    <updated>2023-04-23T01:47:47Z</updated>
+    <id>tag:github.com,2023-04-23:/lpdswing/GPTFusion</id>
+    <link href="https://github.com/lpdswing/GPTFusion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GPT聚合版是一个聚合了多个GPT聊天机器人的跨平台聊天工具, 支持多个免费GPT镜像, 支持自定义导入镜像, 支持POE,文心一言等多个平台.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

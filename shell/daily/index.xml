@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:43:41Z</updated>
+  <updated>2023-04-23T01:44:56Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>thegreatestgiant/novnc</title>
+    <updated>2023-04-23T01:44:56Z</updated>
+    <id>tag:github.com,2023-04-23:/thegreatestgiant/novnc</id>
+    <link href="https://github.com/thegreatestgiant/novnc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;novnc&lt;/h1&gt; &#xA;&lt;h3&gt;How To Get&lt;/h3&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Login to your GitHub account.&lt;/li&gt; &#xA; &lt;li&gt;Click on code at the top and select the codespaces tab.&lt;/li&gt; &#xA; &lt;li&gt;Create a new codespace.&lt;/li&gt; &#xA; &lt;li&gt;You should be in the terminal, switch to the ports tab.&lt;/li&gt; &#xA; &lt;li&gt;When the ports appear, click on the globe icon by the bottom 6080 port.&lt;/li&gt; &#xA; &lt;li&gt;The password is&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;vscode&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;7&#34;&gt; &#xA; &lt;li&gt;Enjoy&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;em href=&#34;https://github.com/jonico/visualize-actions-matrix-builds-on-k8s&#34;&gt;Made by jonico&lt;/em&gt; &#xA;&lt;/div&gt;</summary>
+  </entry>
 </feed>

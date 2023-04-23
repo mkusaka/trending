@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nextflow Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-23T01:58:35Z</updated>
+  <subtitle>Weekly Trending of Nextflow in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nf-core/mag</title>
+    <updated>2023-04-23T01:58:35Z</updated>
+    <id>tag:github.com,2023-04-23:/nf-core/mag</id>
+    <link href="https://github.com/nf-core/mag" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Assembly and binning of metagenomes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

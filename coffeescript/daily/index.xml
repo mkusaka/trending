@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:31:43Z</updated>
+  <updated>2023-04-23T01:32:24Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Nayjest/mixin</title>
-    <updated>2023-04-22T01:31:43Z</updated>
-    <id>tag:github.com,2023-04-22:/Nayjest/mixin</id>
-    <link href="https://github.com/Nayjest/mixin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Javascript / coffeescript mixin function&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kalse/zoomify-layer</title>
-    <updated>2023-04-22T01:31:43Z</updated>
-    <id>tag:github.com,2023-04-22:/kalse/zoomify-layer</id>
-    <link href="https://github.com/kalse/zoomify-layer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Zoomify layer for the Leaflet javascript library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alexbartlow/coffeescript_knockout_computed</title>
+    <updated>2023-04-23T01:32:24Z</updated>
+    <id>tag:github.com,2023-04-23:/alexbartlow/coffeescript_knockout_computed</id>
+    <link href="https://github.com/alexbartlow/coffeescript_knockout_computed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allow Knockout computed attributes with Coffeescript classes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

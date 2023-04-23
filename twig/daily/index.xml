@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Twig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:45:32Z</updated>
+  <updated>2023-04-23T01:46:49Z</updated>
   <subtitle>Daily Trending of Twig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fourkitchens/sousdemo</title>
-    <updated>2023-04-22T01:45:32Z</updated>
-    <id>tag:github.com,2023-04-22:/fourkitchens/sousdemo</id>
-    <link href="https://github.com/fourkitchens/sousdemo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small emulsify theme for Sous builder and demo content&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>fourkitchens/quiltme</title>
-    <updated>2023-04-22T01:45:32Z</updated>
-    <id>tag:github.com,2023-04-22:/fourkitchens/quiltme</id>
-    <link href="https://github.com/fourkitchens/quiltme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QuiltMe project for DrupalCon Demo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

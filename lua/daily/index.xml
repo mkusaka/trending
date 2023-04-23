@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:38:02Z</updated>
+  <updated>2023-04-23T01:39:27Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alpha2phi/modern-neovim</title>
-    <updated>2023-04-22T01:38:02Z</updated>
-    <id>tag:github.com,2023-04-22:/alpha2phi/modern-neovim</id>
-    <link href="https://github.com/alpha2phi/modern-neovim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Crafting a modernized development environment with Neovim.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Modern Neovim&lt;/h1&gt; &#xA;&lt;p&gt;Crafting a modernized development environment with Neovim.&lt;/p&gt; &#xA;&lt;p&gt;Check out the &lt;a href=&#34;https://alpha2phi.medium.com/&#34;&gt;Medium articles&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>eggtoopain/Neovim-Configuration-Tutorial</title>
-    <updated>2023-04-22T01:38:02Z</updated>
-    <id>tag:github.com,2023-04-22:/eggtoopain/Neovim-Configuration-Tutorial</id>
-    <link href="https://github.com/eggtoopain/Neovim-Configuration-Tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;从零配置Neovim - B站：技术蛋老师&lt;/h1&gt;</summary>
-  </entry>
 </feed>

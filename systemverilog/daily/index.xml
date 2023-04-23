@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:45:05Z</updated>
+  <updated>2023-04-23T01:46:21Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pulp-platform/pulp_cluster</title>
+    <updated>2023-04-23T01:46:21Z</updated>
+    <id>tag:github.com,2023-04-23:/pulp-platform/pulp_cluster</id>
+    <link href="https://github.com/pulp-platform/pulp_cluster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The multi-core cluster of a PULP system.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

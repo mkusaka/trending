@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:39:13Z</updated>
+  <updated>2023-04-23T01:40:39Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HapticX/happyx</title>
-    <updated>2023-04-22T01:39:13Z</updated>
-    <id>tag:github.com,2023-04-22:/HapticX/happyx</id>
-    <link href="https://github.com/HapticX/happyx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Asynchronous web-framework written in Nim with ♥&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

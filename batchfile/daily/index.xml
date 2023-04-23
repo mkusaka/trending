@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:30:06Z</updated>
+  <updated>2023-04-23T01:30:38Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AlekssNemo9999/FreeVPS</title>
-    <updated>2023-04-22T01:30:06Z</updated>
-    <id>tag:github.com,2023-04-22:/AlekssNemo9999/FreeVPS</id>
-    <link href="https://github.com/AlekssNemo9999/FreeVPS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:29:51Z</updated>
+  <updated>2023-04-23T01:30:22Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Contenda-Team/share-pear</title>
+    <updated>2023-04-23T01:30:22Z</updated>
+    <id>tag:github.com,2023-04-23:/Contenda-Team/share-pear</id>
+    <link href="https://github.com/Contenda-Team/share-pear" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;sharing is pearing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grenadierjs/grenadier.dev</title>
+    <updated>2023-04-23T01:30:22Z</updated>
+    <id>tag:github.com,2023-04-23:/grenadierjs/grenadier.dev</id>
+    <link href="https://github.com/grenadierjs/grenadier.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>crepesjs/crepes.dev</title>
+    <updated>2023-04-23T01:30:22Z</updated>
+    <id>tag:github.com,2023-04-23:/crepesjs/crepes.dev</id>
+    <link href="https://github.com/crepesjs/crepes.dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

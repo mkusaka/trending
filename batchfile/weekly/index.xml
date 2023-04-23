@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-23T01:49:47Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>0xAKXVAU/aws-rdp</title>
+    <updated>2023-04-23T01:49:47Z</updated>
+    <id>tag:github.com,2023-04-23:/0xAKXVAU/aws-rdp</id>
+    <link href="https://github.com/0xAKXVAU/aws-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free aws rdp.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MichaelBrowns92/RDP_Windows2019</title>
+    <updated>2023-04-23T01:49:47Z</updated>
+    <id>tag:github.com,2023-04-23:/MichaelBrowns92/RDP_Windows2019</id>
+    <link href="https://github.com/MichaelBrowns92/RDP_Windows2019" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>compscrow/image-logger</title>
+    <updated>2023-04-23T01:49:47Z</updated>
+    <id>tag:github.com,2023-04-23:/compscrow/image-logger</id>
+    <link href="https://github.com/compscrow/image-logger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highend ROBLOX grabber which has comped over 20m roblox value before&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:34:55Z</updated>
+  <updated>2023-04-23T01:35:54Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>etendosoftware/com.etendoerp.gradleplugin</title>
-    <updated>2023-04-22T01:34:55Z</updated>
-    <id>tag:github.com,2023-04-22:/etendosoftware/com.etendoerp.gradleplugin</id>
-    <link href="https://github.com/etendosoftware/com.etendoerp.gradleplugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>csierra/shrinkwrap-groovy</title>
-    <updated>2023-04-22T01:34:55Z</updated>
-    <id>tag:github.com,2023-04-22:/csierra/shrinkwrap-groovy</id>
-    <link href="https://github.com/csierra/shrinkwrap-groovy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Little helper for ShrinkWrap using Groovy&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>micronaut-projects/micronaut-servlet</title>
+    <updated>2023-04-23T01:35:54Z</updated>
+    <id>tag:github.com,2023-04-23:/micronaut-projects/micronaut-servlet</id>
+    <link href="https://github.com/micronaut-projects/micronaut-servlet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Servlet support in Micronaut&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

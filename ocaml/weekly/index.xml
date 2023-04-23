@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-23T01:59:13Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fredfeng/CS160</title>
+    <updated>2023-04-23T01:59:13Z</updated>
+    <id>tag:github.com,2023-04-23:/fredfeng/CS160</id>
+    <link href="https://github.com/fredfeng/CS160" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hacspec/hacspec-v2</title>
+    <updated>2023-04-23T01:59:13Z</updated>
+    <id>tag:github.com,2023-04-23:/hacspec/hacspec-v2</id>
+    <link href="https://github.com/hacspec/hacspec-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kupl-courses/COSE312-2023spring</title>
+    <updated>2023-04-23T01:59:13Z</updated>
+    <id>tag:github.com,2023-04-23:/kupl-courses/COSE312-2023spring</id>
+    <link href="https://github.com/kupl-courses/COSE312-2023spring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;COSE 312 Compilers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

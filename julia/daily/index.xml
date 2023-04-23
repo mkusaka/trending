@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-22T01:36:52Z</updated>
+  <updated>2023-04-23T01:38:26Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaCI/PkgTemplates.jl</title>
-    <updated>2023-04-22T01:36:52Z</updated>
-    <id>tag:github.com,2023-04-22:/JuliaCI/PkgTemplates.jl</id>
-    <link href="https://github.com/JuliaCI/PkgTemplates.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create new Julia packages, the easy way&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaLang/PrecompileTools.jl</title>
-    <updated>2023-04-22T01:36:52Z</updated>
-    <id>tag:github.com,2023-04-22:/JuliaLang/PrecompileTools.jl</id>
-    <link href="https://github.com/JuliaLang/PrecompileTools.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reduce time-to-first-execution of Julia code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>open-AIMS/ADRIA.jl</title>
+    <updated>2023-04-23T01:38:26Z</updated>
+    <id>tag:github.com,2023-04-23:/open-AIMS/ADRIA.jl</id>
+    <link href="https://github.com/open-AIMS/ADRIA.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ADRIA: Adaptive Dynamic Reef Intervention Algorithms. A multi-criteria decision support platform for informing reef restoration and adaptation interventions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
