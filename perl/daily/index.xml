@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:41:44Z</updated>
+  <updated>2023-04-24T01:40:51Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PorridgePi/repo</title>
+    <updated>2023-04-24T01:40:51Z</updated>
+    <id>tag:github.com,2023-04-24:/PorridgePi/repo</id>
+    <link href="https://github.com/PorridgePi/repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PorridgePi&#39;s Personal Jailbreak Repository&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PorridgePi&#39;s Personal Jailbreak Repository&lt;/h1&gt; &#xA;&lt;p&gt;Add &lt;a href=&#34;https://raw.githubusercontent.com/PorridgePi/repo/main/porridgepi.github.io/repo&#34;&gt;porridgepi.github.io/repo&lt;/a&gt; to your package manager:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;cydia://url/https://cydia.saurik.com/api/share#?source=https://porridgepi.github.io/repo&#34;&gt;Add to Cydia&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;zbra://sources/add/https://porridgepi.github.io/repo&#34;&gt;Add to Zebra&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;sileo://source/https://porridgepi.github.io/repo&#34;&gt;Add to Sileo&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Includes&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/qnblackcat/uYouPlus&#34;&gt;uYouPlus&lt;/a&gt;, created with &lt;a href=&#34;https://github.com/permasigner/permasigner&#34;&gt;permasigner&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

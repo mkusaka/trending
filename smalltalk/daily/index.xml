@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:45:17Z</updated>
+  <updated>2023-04-24T01:44:27Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seandenigris/My-People</title>
+    <updated>2023-04-24T01:44:27Z</updated>
+    <id>tag:github.com,2023-04-24:/seandenigris/My-People</id>
+    <link href="https://github.com/seandenigris/My-People" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Address Book service, minus the usual application stovepipe, running on GT (Smalltalk)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>feenkcom/gt4ops</title>
+    <updated>2023-04-24T01:44:27Z</updated>
+    <id>tag:github.com,2023-04-24:/feenkcom/gt4ops</id>
+    <link href="https://github.com/feenkcom/gt4ops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

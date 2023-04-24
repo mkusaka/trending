@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:34:18Z</updated>
+  <updated>2023-04-24T01:33:43Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mhanberg/schematic</title>
-    <updated>2023-04-23T01:34:18Z</updated>
-    <id>tag:github.com,2023-04-23:/mhanberg/schematic</id>
-    <link href="https://github.com/mhanberg/schematic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📐 schematic&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>restlessronin/openai_ex</title>
-    <updated>2023-04-23T01:34:18Z</updated>
-    <id>tag:github.com,2023-04-23:/restlessronin/openai_ex</id>
-    <link href="https://github.com/restlessronin/openai_ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Community maintained OpenAI API Elixir client for Livebook&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>plausible/chto</title>
-    <updated>2023-04-23T01:34:18Z</updated>
-    <id>tag:github.com,2023-04-23:/plausible/chto</id>
-    <link href="https://github.com/plausible/chto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Artur-Sulej/excellent_migrations</title>
+    <updated>2023-04-24T01:33:43Z</updated>
+    <id>tag:github.com,2023-04-24:/Artur-Sulej/excellent_migrations</id>
+    <link href="https://github.com/Artur-Sulej/excellent_migrations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Elixir tool for checking safety of database migrations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:42:15Z</updated>
+  <updated>2023-04-24T01:41:18Z</updated>
   <subtitle>Daily Trending of PLSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SeokJune/KickKick</title>
-    <updated>2023-04-23T01:42:15Z</updated>
-    <id>tag:github.com,2023-04-23:/SeokJune/KickKick</id>
-    <link href="https://github.com/SeokJune/KickKick" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[KH 정교 교육원 - Semi PROJECT] KickKick&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

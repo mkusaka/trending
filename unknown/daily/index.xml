@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:29:32Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-04-24T01:29:08Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tkmru/awesome-edr-bypass</title>
-    <updated>2023-04-23T01:29:32Z</updated>
-    <id>tag:github.com,2023-04-23:/tkmru/awesome-edr-bypass</id>
-    <link href="https://github.com/tkmru/awesome-edr-bypass" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome EDR Bypass Resources For Ethical Hacking&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OffcierCia/Crypto-OpSec-SelfGuard-RoadMap</title>
+    <updated>2023-04-24T01:29:08Z</updated>
+    <id>tag:github.com,2023-04-24:/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap</id>
+    <link href="https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Here we collect and discuss the best DeFi, Blockchain and crypto-related OpSec researches and data terminals - contributions are welcome.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cinit/QAuxiliary</title>
-    <updated>2023-04-23T01:29:32Z</updated>
-    <id>tag:github.com,2023-04-23:/cinit/QAuxiliary</id>
-    <link href="https://github.com/cinit/QAuxiliary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QNotified phoenix - To make OICQ great again&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>trekhleb/state-of-the-art-shitcode</title>
+    <updated>2023-04-24T01:29:08Z</updated>
+    <id>tag:github.com,2023-04-24:/trekhleb/state-of-the-art-shitcode</id>
+    <link href="https://github.com/trekhleb/state-of-the-art-shitcode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yaodongC/awesome-instruction-dataset</title>
-    <updated>2023-04-23T01:29:32Z</updated>
-    <id>tag:github.com,2023-04-23:/yaodongC/awesome-instruction-dataset</id>
-    <link href="https://github.com/yaodongC/awesome-instruction-dataset" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of open-source dataset to train instruction-following LLMs (ChatGPT,LLaMA,Alpaca)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aiboboxx/clashfree</title>
+    <updated>2023-04-24T01:29:08Z</updated>
+    <id>tag:github.com,2023-04-24:/aiboboxx/clashfree</id>
+    <link href="https://github.com/aiboboxx/clashfree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;clash免费节点、clash科学上网、clash翻墙、clash订阅链接、clash教程&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

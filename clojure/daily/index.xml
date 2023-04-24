@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:32:13Z</updated>
+  <updated>2023-04-24T01:31:28Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cjohansen/phosphor-clj</title>
+    <updated>2023-04-24T01:31:28Z</updated>
+    <id>tag:github.com,2023-04-24:/cjohansen/phosphor-clj</id>
+    <link href="https://github.com/cjohansen/phosphor-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Phosphor Icons as hiccup for Clojure and ClojureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iterate/olorm</title>
+    <updated>2023-04-24T01:31:28Z</updated>
+    <id>tag:github.com,2023-04-24:/iterate/olorm</id>
+    <link href="https://github.com/iterate/olorm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yapsterapp/promisespromises</title>
+    <updated>2023-04-24T01:31:28Z</updated>
+    <id>tag:github.com,2023-04-24:/yapsterapp/promisespromises</id>
+    <link href="https://github.com/yapsterapp/promisespromises" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure+Script asynchronous streams API - with error-propagation and transparent chunking&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:35:58Z</updated>
+  <updated>2023-04-24T01:35:23Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Sambuk18/hola-mundo</title>
-    <updated>2023-04-23T01:35:58Z</updated>
-    <id>tag:github.com,2023-04-23:/Sambuk18/hola-mundo</id>
-    <link href="https://github.com/Sambuk18/hola-mundo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositorio inicial de hola mundo en html par la clase de Practicas Profesionalizantes I&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hashicorp/learn-terraform-digitalocean-droplet</title>
+    <updated>2023-04-24T01:35:23Z</updated>
+    <id>tag:github.com,2023-04-24:/hashicorp/learn-terraform-digitalocean-droplet</id>
+    <link href="https://github.com/hashicorp/learn-terraform-digitalocean-droplet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

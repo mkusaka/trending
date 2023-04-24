@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:45:29Z</updated>
+  <updated>2023-04-24T01:44:42Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alcueca/ERC3156</title>
-    <updated>2023-04-23T01:45:29Z</updated>
-    <id>tag:github.com,2023-04-23:/alcueca/ERC3156</id>
-    <link href="https://github.com/alcueca/ERC3156" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference implementations for ERC20 Flash Loans and Flash Mints&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alanyang888/road-to-web3-week3</title>
+    <updated>2023-04-24T01:44:42Z</updated>
+    <id>tag:github.com,2023-04-24:/alanyang888/road-to-web3-week3</id>
+    <link href="https://github.com/alanyang888/road-to-web3-week3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PaulRBerg/prb-proxy</title>
+    <updated>2023-04-24T01:44:42Z</updated>
+    <id>tag:github.com,2023-04-24:/PaulRBerg/prb-proxy</id>
+    <link href="https://github.com/PaulRBerg/prb-proxy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proxy contract to compose transactions on behalf of the owner&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

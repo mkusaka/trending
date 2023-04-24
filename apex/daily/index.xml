@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:30:10Z</updated>
+  <updated>2023-04-24T01:29:40Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>callawaycloud/llm-apex-agents</title>
-    <updated>2023-04-23T01:30:10Z</updated>
-    <id>tag:github.com,2023-04-23:/callawaycloud/llm-apex-agents</id>
-    <link href="https://github.com/callawaycloud/llm-apex-agents" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Run Large Language Model &#34;Agents&#34; in Salesforce apex&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

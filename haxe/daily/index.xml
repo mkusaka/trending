@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:36:17Z</updated>
+  <updated>2023-04-24T01:35:42Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>RobertBorghese/reflaxe.CSharp</title>
-    <updated>2023-04-23T01:36:17Z</updated>
-    <id>tag:github.com,2023-04-23:/RobertBorghese/reflaxe.CSharp</id>
-    <link href="https://github.com/RobertBorghese/reflaxe.CSharp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A remake of the Haxe/C# target written entirely within Haxe using Reflaxe.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Reflaxe/C# (Haxe -&amp;gt; C# Compiler)&lt;/h1&gt; &#xA;&lt;p&gt;A remake of the Haxe/C# target written entirely within Haxe using Reflaxe.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;This project is currently in development.&lt;/li&gt; &#xA; &lt;li&gt;Requires Haxe v5 or later (nightly).&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &#xA;&lt;h1&gt;Nightly Installation&lt;/h1&gt; &#xA;&lt;p&gt;If this project isn&#39;t on haxelib yet, or you&#39;d like to use the development version, use &lt;code&gt;haxelib git&lt;/code&gt; on the nightly branch.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;haxelib git csharp https://github.com/RobertBorghese/reflaxe.CSharp nightly&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Here&#39;s a simple &lt;code&gt;.hxml&lt;/code&gt; template to get you started!&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-hxml&#34;&gt;-cp src&#xA;-main Main&#xA;&#xA;-lib csharp&#xA;--custom-target csharp=out&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-23T01:38:26Z</updated>
+  <updated>2023-04-24T01:37:17Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>open-AIMS/ADRIA.jl</title>
-    <updated>2023-04-23T01:38:26Z</updated>
-    <id>tag:github.com,2023-04-23:/open-AIMS/ADRIA.jl</id>
-    <link href="https://github.com/open-AIMS/ADRIA.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ADRIA: Adaptive Dynamic Reef Intervention Algorithms. A multi-criteria decision support platform for informing reef restoration and adaptation interventions.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaMusic/PianoFingering.jl</title>
+    <updated>2023-04-24T01:37:17Z</updated>
+    <id>tag:github.com,2023-04-24:/JuliaMusic/PianoFingering.jl</id>
+    <link href="https://github.com/JuliaMusic/PianoFingering.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advanced automatic fingering generator for piano scores, determining optimal fingering using Model-Based Reinforcement Learning, written in the Julia language.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaDocs/DocumenterMermaid.jl</title>
+    <updated>2023-04-24T01:37:17Z</updated>
+    <id>tag:github.com,2023-04-24:/JuliaDocs/DocumenterMermaid.jl</id>
+    <link href="https://github.com/JuliaDocs/DocumenterMermaid.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mermaid.js diagram intergration for Documenter.jl&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
