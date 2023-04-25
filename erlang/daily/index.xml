@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-24T01:34:05Z</updated>
+  <updated>2023-04-25T01:34:20Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leondavi/NErlNet</title>
-    <updated>2023-04-24T01:34:05Z</updated>
-    <id>tag:github.com,2023-04-24:/leondavi/NErlNet</id>
-    <link href="https://github.com/leondavi/NErlNet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nerlnet is a distributed machine learning platform for experiments and IoT deployment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emqx/ecql</title>
+    <updated>2023-04-25T01:34:20Z</updated>
+    <id>tag:github.com,2023-04-25:/emqx/ecql</id>
+    <link href="https://github.com/emqx/ecql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang Cassandra CQL Driver&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

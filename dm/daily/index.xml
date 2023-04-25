@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-24T01:32:47Z</updated>
+  <updated>2023-04-25T01:33:27Z</updated>
   <subtitle>Daily Trending of DM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ss220club/Paradise</title>
-    <updated>2023-04-24T01:32:47Z</updated>
-    <id>tag:github.com,2023-04-24:/ss220club/Paradise</id>
-    <link href="https://github.com/ss220club/Paradise" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Paradise билд SS220&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

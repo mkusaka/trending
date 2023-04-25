@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-24T01:38:42Z</updated>
+  <updated>2023-04-25T01:39:00Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>IntelLabs/kAFL</title>
-    <updated>2023-04-24T01:38:42Z</updated>
-    <id>tag:github.com,2023-04-24:/IntelLabs/kAFL</id>
-    <link href="https://github.com/IntelLabs/kAFL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fuzzer for full VM kernel/driver targets&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bgeesaman/malicious-compliance</title>
-    <updated>2023-04-24T01:38:42Z</updated>
-    <id>tag:github.com,2023-04-24:/bgeesaman/malicious-compliance</id>
-    <link href="https://github.com/bgeesaman/malicious-compliance" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>localheinz/localheinz</title>
+    <updated>2023-04-25T01:39:00Z</updated>
+    <id>tag:github.com,2023-04-25:/localheinz/localheinz</id>
+    <link href="https://github.com/localheinz/localheinz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👋 Provides a README.md for @localheinz.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

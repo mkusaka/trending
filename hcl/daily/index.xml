@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-24T01:35:42Z</updated>
+  <updated>2023-04-25T01:35:55Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ergho/homelab-ops</title>
-    <updated>2023-04-24T01:35:42Z</updated>
-    <id>tag:github.com,2023-04-24:/ergho/homelab-ops</id>
-    <link href="https://github.com/ergho/homelab-ops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>roopendra/devops</title>
+    <updated>2023-04-25T01:35:55Z</updated>
+    <id>tag:github.com,2023-04-25:/roopendra/devops</id>
+    <link href="https://github.com/roopendra/devops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DevOps Tutorial for Beginners. Simplified steps for setting up various DevOps tools and exercises&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>snoopy82481/home_cluster</title>
-    <updated>2023-04-24T01:35:42Z</updated>
-    <id>tag:github.com,2023-04-24:/snoopy82481/home_cluster</id>
-    <link href="https://github.com/snoopy82481/home_cluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My home server cluster, managed by flux and defined as code here&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hmcts/aks-sds-deploy</title>
+    <updated>2023-04-25T01:35:55Z</updated>
+    <id>tag:github.com,2023-04-25:/hmcts/aks-sds-deploy</id>
+    <link href="https://github.com/hmcts/aks-sds-deploy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

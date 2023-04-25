@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-24T01:33:43Z</updated>
+  <updated>2023-04-25T01:34:01Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Artur-Sulej/excellent_migrations</title>
-    <updated>2023-04-24T01:33:43Z</updated>
-    <id>tag:github.com,2023-04-24:/Artur-Sulej/excellent_migrations</id>
-    <link href="https://github.com/Artur-Sulej/excellent_migrations" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Elixir tool for checking safety of database migrations.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>evadne/emporium</title>
+    <updated>2023-04-25T01:34:01Z</updated>
+    <id>tag:github.com,2023-04-25:/evadne/emporium</id>
+    <link href="https://github.com/evadne/emporium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>plausible/ch</title>
+    <updated>2023-04-25T01:34:01Z</updated>
+    <id>tag:github.com,2023-04-25:/plausible/ch</id>
+    <link href="https://github.com/plausible/ch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
