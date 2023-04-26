@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-25T01:33:07Z</updated>
+  <updated>2023-04-26T01:32:15Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>singularity-s0/MOSS_frontend</title>
+    <updated>2023-04-26T01:32:15Z</updated>
+    <id>tag:github.com,2023-04-26:/singularity-s0/MOSS_frontend</id>
+    <link href="https://github.com/singularity-s0/MOSS_frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Frontend for the MOSS chatbot.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;MOSS_Frontend&lt;/h1&gt; &#xA;&lt;p&gt;Frontend for the MOSS chatbot&lt;/p&gt; &#xA;&lt;h2&gt;Deployment Guide&lt;/h2&gt; &#xA;&lt;h3&gt;With Docker&lt;/h3&gt; &#xA;&lt;p&gt;A Dockerfile exists at the root directory and can be used to build a docker image, with &lt;code&gt;nginx&lt;/code&gt; being the web server.&lt;/p&gt; &#xA;&lt;p&gt;Nginx configuration file &lt;code&gt;nginx.conf&lt;/code&gt; is also located at the root directory. If you need to override the default configuration, you can modify this file.&lt;/p&gt; &#xA;&lt;h3&gt;Without Docker&lt;/h3&gt; &#xA;&lt;p&gt;If you want to use Canvaskit, you might want to optimize the web application for China&#39;s network environment.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Refer to &lt;a href=&#34;https://github.com/flutter/flutter/issues/70101&#34;&gt;this&lt;/a&gt; issue to bring canvaskit and fonts offline (or move them to CDN).&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;We recommend using &lt;code&gt;html&lt;/code&gt; as the web renderer.&lt;/p&gt; &#xA;&lt;p&gt;Build with &lt;code&gt;flutter build web --release --web-renderer &amp;lt;canvaskit|html|auto&amp;gt;&lt;/code&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

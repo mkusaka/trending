@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-25T01:37:29Z</updated>
+  <updated>2023-04-26T01:37:02Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vtjnash/mysteryhunt_random_walk_solver</title>
-    <updated>2023-04-25T01:37:29Z</updated>
-    <id>tag:github.com,2023-04-25:/vtjnash/mysteryhunt_random_walk_solver</id>
-    <link href="https://github.com/vtjnash/mysteryhunt_random_walk_solver" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Random Walk Solver for MIT Mystery Hunt 2013&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anyonlabs/Snowflake.jl</title>
+    <updated>2023-04-26T01:37:02Z</updated>
+    <id>tag:github.com,2023-04-26:/anyonlabs/Snowflake.jl</id>
+    <link href="https://github.com/anyonlabs/Snowflake.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Snowflake is an open source Julia-based software library for implementing quantum circuits, and then running them on quantum computers and quantum simulators. The project is sponsored by Anyon Systems, Inc. See https://anyonlabs.github.io/Snowflake.jl/dev for the latest documentation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaMolSim/Molly.jl</title>
+    <updated>2023-04-26T01:37:02Z</updated>
+    <id>tag:github.com,2023-04-26:/JuliaMolSim/Molly.jl</id>
+    <link href="https://github.com/JuliaMolSim/Molly.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Molecular simulation in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

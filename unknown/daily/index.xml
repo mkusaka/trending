@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-25T01:30:07Z</updated>
+  <updated>2023-04-26T01:29:05Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>formulahendry/awesome-gpt</title>
-    <updated>2023-04-25T01:30:07Z</updated>
-    <id>tag:github.com,2023-04-25:/formulahendry/awesome-gpt</id>
-    <link href="https://github.com/formulahendry/awesome-gpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>balloonwj/CppGuide</title>
+    <updated>2023-04-26T01:29:05Z</updated>
+    <id>tag:github.com,2023-04-26:/balloonwj/CppGuide</id>
+    <link href="https://github.com/balloonwj/CppGuide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C/C++学习，后端开发进阶指南。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SamurAIGPT/Camel-AutoGPT</title>
-    <updated>2023-04-25T01:30:07Z</updated>
-    <id>tag:github.com,2023-04-25:/SamurAIGPT/Camel-AutoGPT</id>
-    <link href="https://github.com/SamurAIGPT/Camel-AutoGPT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI &amp; AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities in #ConversationalAI, 🎮 gaming, 📚 education, and more! 🔥&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>52CV/CVPR-2023-Papers</title>
+    <updated>2023-04-26T01:29:05Z</updated>
+    <id>tag:github.com,2023-04-26:/52CV/CVPR-2023-Papers</id>
+    <link href="https://github.com/52CV/CVPR-2023-Papers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>arch3rPro/Pentest-Windows</title>
-    <updated>2023-04-25T01:30:07Z</updated>
-    <id>tag:github.com,2023-04-25:/arch3rPro/Pentest-Windows</id>
-    <link href="https://github.com/arch3rPro/Pentest-Windows" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows11 Penetration Suite Toolkit&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hari-prasaanth/Web-App-Pentest-Checklist</title>
+    <updated>2023-04-26T01:29:05Z</updated>
+    <id>tag:github.com,2023-04-26:/Hari-prasaanth/Web-App-Pentest-Checklist</id>
+    <link href="https://github.com/Hari-prasaanth/Web-App-Pentest-Checklist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A OWASP Based Checklist With 500+ Test Cases&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-25T01:43:40Z</updated>
+  <updated>2023-04-26T01:43:36Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ecal-mid/holo-23</title>
-    <updated>2023-04-25T01:43:40Z</updated>
-    <id>tag:github.com,2023-04-25:/ecal-mid/holo-23</id>
-    <link href="https://github.com/ecal-mid/holo-23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lwwhb/MathematicalVisualizationArt</title>
+    <updated>2023-04-26T01:43:36Z</updated>
+    <id>tag:github.com,2023-04-26:/lwwhb/MathematicalVisualizationArt</id>
+    <link href="https://github.com/lwwhb/MathematicalVisualizationArt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MathematicalVisualizationArt 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

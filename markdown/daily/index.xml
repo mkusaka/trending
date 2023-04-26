@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-25T01:39:05Z</updated>
+  <updated>2023-04-26T01:38:25Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>santomaharaj/upp</title>
+    <updated>2023-04-26T01:38:25Z</updated>
+    <id>tag:github.com,2023-04-26:/santomaharaj/upp</id>
+    <link href="https://github.com/santomaharaj/upp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for santomaharaj, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pmmmwh/upptime</title>
+    <updated>2023-04-26T01:38:25Z</updated>
+    <id>tag:github.com,2023-04-26:/pmmmwh/upptime</id>
+    <link href="https://github.com/pmmmwh/upptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Michael Mok, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

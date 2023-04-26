@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-25T01:39:00Z</updated>
+  <updated>2023-04-26T01:38:19Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>localheinz/localheinz</title>
-    <updated>2023-04-25T01:39:00Z</updated>
-    <id>tag:github.com,2023-04-25:/localheinz/localheinz</id>
-    <link href="https://github.com/localheinz/localheinz" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👋 Provides a README.md for @localheinz.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MetinSeylan/homelab</title>
+    <updated>2023-04-26T01:38:19Z</updated>
+    <id>tag:github.com,2023-04-26:/MetinSeylan/homelab</id>
+    <link href="https://github.com/MetinSeylan/homelab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bare-metal homelab k8s automation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
