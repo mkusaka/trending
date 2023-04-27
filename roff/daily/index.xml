@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:42:38Z</updated>
+  <updated>2023-04-27T01:44:54Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ssymmetry/BBT-FinCUGE-Applications</title>
-    <updated>2023-04-26T01:42:38Z</updated>
-    <id>tag:github.com,2023-04-26:/ssymmetry/BBT-FinCUGE-Applications</id>
-    <link href="https://github.com/ssymmetry/BBT-FinCUGE-Applications" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

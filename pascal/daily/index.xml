@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:40:24Z</updated>
+  <updated>2023-04-27T01:42:26Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>HashLoad/DBEBr</title>
+    <updated>2023-04-27T01:42:26Z</updated>
+    <id>tag:github.com,2023-04-27:/HashLoad/DBEBr</id>
+    <link href="https://github.com/HashLoad/DBEBr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DBEBr Framework for Delphi/Lazarus (Isaque Pinheiro)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

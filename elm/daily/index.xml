@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:33:16Z</updated>
+  <updated>2023-04-27T01:34:24Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sparksp/sling-mountain</title>
-    <updated>2023-04-26T01:33:16Z</updated>
-    <id>tag:github.com,2023-04-26:/sparksp/sling-mountain</id>
-    <link href="https://github.com/sparksp/sling-mountain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scenarios for practising climbing rope work at home on #SlingMountain&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

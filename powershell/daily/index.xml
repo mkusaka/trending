@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:41:11Z</updated>
+  <updated>2023-04-27T01:43:19Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Kiko-RWan/Free-Rdp</title>
-    <updated>2023-04-26T01:41:11Z</updated>
-    <id>tag:github.com,2023-04-26:/Kiko-RWan/Free-Rdp</id>
-    <link href="https://github.com/Kiko-RWan/Free-Rdp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;连接一台位于美国的免费主机&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WINRDP&lt;/h1&gt; &#xA;&lt;p&gt;How to use&lt;/p&gt; &#xA;&lt;p&gt;Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.&lt;/p&gt; &#xA;&lt;p&gt;Input the following code in the fields.&lt;/p&gt; &#xA;&lt;p&gt;Get the Windows (Powershell) command from here:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://remotedesktop.google.com/headless&#34;&gt;https://remotedesktop.google.com/headless&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Enter you Six digit Pin code to Login&lt;/p&gt; &#xA;&lt;p&gt;(Any Six digit Pin)&lt;/p&gt; &#xA;&lt;p&gt;Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:39:25Z</updated>
+  <updated>2023-04-27T01:41:23Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xc-jp/lint.nix</title>
+    <updated>2023-04-27T01:41:23Z</updated>
+    <id>tag:github.com,2023-04-27:/xc-jp/lint.nix</id>
+    <link href="https://github.com/xc-jp/lint.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;simple linting/formatting framework using Nix&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nix-community/ethereum.nix</title>
+    <updated>2023-04-27T01:41:23Z</updated>
+    <id>tag:github.com,2023-04-27:/nix-community/ethereum.nix</id>
+    <link href="https://github.com/nix-community/ethereum.nix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix packages and NixOS modules for the Ethereum ecosystem. [maintainers=@aldoborrero,@brianmcgee,@selfuryon]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

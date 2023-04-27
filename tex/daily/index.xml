@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:45:13Z</updated>
+  <updated>2023-04-27T01:47:47Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MathSocIT/latexcomm</title>
+    <updated>2023-04-27T01:47:47Z</updated>
+    <id>tag:github.com,2023-04-27:/MathSocIT/latexcomm</id>
+    <link href="https://github.com/MathSocIT/latexcomm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NUS Mathematics Society&#39;s LaTeX committee official repository&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;latexcomm&lt;/h1&gt; &#xA;&lt;p&gt;NUS Mathematics Society&#39;s LaTeX committee official repository.&lt;/p&gt; &#xA;&lt;p&gt;We are in the progress of migrating all existing past year papers&#39; solutions from the website to this repository. Therefore, some solutions may not be available for the being. The migration will be complete as soon as possible. We apologize for the inconvenience and appreciate your patience.&lt;/p&gt; &#xA;&lt;p&gt;Should you find any mistakes or have any feedback about the solutions, please email us at: &lt;a href=&#34;mailto:latexify@nusmathsoc.org&#34;&gt;latexify@nusmathsoc.org&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

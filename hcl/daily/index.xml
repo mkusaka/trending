@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:35:27Z</updated>
+  <updated>2023-04-27T01:36:48Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sudomateo/terraform-training</title>
-    <updated>2023-04-26T01:35:27Z</updated>
-    <id>tag:github.com,2023-04-26:/sudomateo/terraform-training</id>
-    <link href="https://github.com/sudomateo/terraform-training" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform training material.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

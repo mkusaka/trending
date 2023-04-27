@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:33:13Z</updated>
+  <updated>2023-04-27T01:34:21Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>plausible/ecto_ch</title>
-    <updated>2023-04-26T01:33:13Z</updated>
-    <id>tag:github.com,2023-04-26:/plausible/ecto_ch</id>
-    <link href="https://github.com/plausible/ecto_ch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ClickHouse adapter for Ecto&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>absinthe-graphql/dataloader</title>
+    <updated>2023-04-27T01:34:21Z</updated>
+    <id>tag:github.com,2023-04-27:/absinthe-graphql/dataloader</id>
+    <link href="https://github.com/absinthe-graphql/dataloader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DataLoader for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>spandex-project/spandex_datadog</title>
+    <updated>2023-04-27T01:34:21Z</updated>
+    <id>tag:github.com,2023-04-27:/spandex-project/spandex_datadog</id>
+    <link href="https://github.com/spandex-project/spandex_datadog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A datadog adapter for the `spandex` library.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

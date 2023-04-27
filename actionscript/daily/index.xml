@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-26T01:29:21Z</updated>
+  <updated>2023-04-27T01:30:06Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>realXtend/lehto</title>
-    <updated>2023-04-26T01:29:21Z</updated>
-    <id>tag:github.com,2023-04-26:/realXtend/lehto</id>
-    <link href="https://github.com/realXtend/lehto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;XMPP backed virtual worlds / networked game platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DmitriyYukhanov/XFLTool</title>
-    <updated>2023-04-26T01:29:21Z</updated>
-    <id>tag:github.com,2023-04-26:/DmitriyYukhanov/XFLTool</id>
-    <link href="https://github.com/DmitriyYukhanov/XFLTool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tool designed to help with optimization, cleaning and overall maintenance of the Adobe Flash Professional projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Wikiemol/Lollipop</title>
+    <updated>2023-04-27T01:30:06Z</updated>
+    <id>tag:github.com,2023-04-27:/Wikiemol/Lollipop</id>
+    <link href="https://github.com/Wikiemol/Lollipop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple drawing app I made in actionscript. One of the first projects I ever completed.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
