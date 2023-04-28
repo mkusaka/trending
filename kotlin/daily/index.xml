@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-27T01:39:30Z</updated>
+  <updated>2023-04-28T01:39:18Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>chethaase/ShapesDemo</title>
-    <updated>2023-04-27T01:39:30Z</updated>
-    <id>tag:github.com,2023-04-27:/chethaase/ShapesDemo</id>
-    <link href="https://github.com/chethaase/ShapesDemo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo apps showing how to use the AndroidX :graphics:graphics-shapes: library&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ShapesDemo&lt;/h1&gt; &#xA;&lt;p&gt;Demo apps showing how to use the AndroidX :graphics:graphics-shapes: library&lt;/p&gt; &#xA;&lt;p&gt;The View version, ShapesActivity, shows basic shape creation and morphing.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/chethaase/ShapesDemo/main/docs/images/ViewShapes.png&#34; alt=&#34;Screenshot of the View version of the app, showing some of the shapes enabled by the library&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;The Compose version of the app, ShapesAndMorphsActivity is more full-featured. It includes a shape editor:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/chethaase/ShapesDemo/main/docs/images/ComposeShapeEditor.png&#34; alt=&#34;Screenshot of the Compose version of the app, showing the shape editor&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;some other shape varieties:&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/chethaase/ShapesDemo/main/docs/images/ComposeShapes.png&#34; alt=&#34;Screenshot of the Compose version of the app, showing some of the shapes enabled by the library&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;and more options for viewing and scrubbing through a morph animation.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/chethaase/ShapesDemo/main/docs/images/MorphScrub.png&#34; alt=&#34;Screenshot of morph scrubbing between two of the shapes, using the slider&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

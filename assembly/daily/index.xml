@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-27T01:30:36Z</updated>
+  <updated>2023-04-28T01:29:52Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gusmanb/ZXBasicStudio</title>
-    <updated>2023-04-27T01:30:36Z</updated>
-    <id>tag:github.com,2023-04-27:/gusmanb/ZXBasicStudio</id>
-    <link href="https://github.com/gusmanb/ZXBasicStudio" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>brainsmoke/nyanmbr</title>
-    <updated>2023-04-27T01:30:36Z</updated>
-    <id>tag:github.com,2023-04-27:/brainsmoke/nyanmbr</id>
-    <link href="https://github.com/brainsmoke/nyanmbr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nyancat in the MBR&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

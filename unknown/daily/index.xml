@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-27T01:29:36Z</updated>
+  <updated>2023-04-28T01:28:59Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bethylamine/twitter-archives</title>
-    <updated>2023-04-27T01:29:36Z</updated>
-    <id>tag:github.com,2023-04-27:/bethylamine/twitter-archives</id>
-    <link href="https://github.com/bethylamine/twitter-archives" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of archived stuff from Twitter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kodekloudhub/linux-basics-course</title>
+    <updated>2023-04-28T01:28:59Z</updated>
+    <id>tag:github.com,2023-04-28:/kodekloudhub/linux-basics-course</id>
+    <link href="https://github.com/kodekloudhub/linux-basics-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bluesky-social/atproto-ecosystem</title>
-    <updated>2023-04-27T01:29:36Z</updated>
-    <id>tag:github.com,2023-04-27:/bluesky-social/atproto-ecosystem</id>
-    <link href="https://github.com/bluesky-social/atproto-ecosystem" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;list of projects and implementations in the AT protocol ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jumpat/SegmentAnythingin3D</title>
+    <updated>2023-04-28T01:28:59Z</updated>
+    <id>tag:github.com,2023-04-28:/Jumpat/SegmentAnythingin3D</id>
+    <link href="https://github.com/Jumpat/SegmentAnythingin3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Segment Anything in 3D with NeRFs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ARKInvest/ARK-Invest-Tesla-Valuation-Model</title>
-    <updated>2023-04-27T01:29:36Z</updated>
-    <id>tag:github.com,2023-04-27:/ARKInvest/ARK-Invest-Tesla-Valuation-Model</id>
-    <link href="https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An excerpt from our financial valuation model of Tesla&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>97-things/97-things-every-programmer-should-know</title>
+    <updated>2023-04-28T01:28:59Z</updated>
+    <id>tag:github.com,2023-04-28:/97-things/97-things-every-programmer-should-know</id>
+    <link href="https://github.com/97-things/97-things-every-programmer-should-know" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pearls of wisdom for programmers collected from leading practitioners.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

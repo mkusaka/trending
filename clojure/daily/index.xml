@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-27T01:32:15Z</updated>
+  <updated>2023-04-28T01:31:37Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cjbarre/multi-gpt</title>
-    <updated>2023-04-27T01:32:15Z</updated>
-    <id>tag:github.com,2023-04-27:/cjbarre/multi-gpt</id>
-    <link href="https://github.com/cjbarre/multi-gpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure interface into the GPT API with advanced tools like conversational memory, task management, and more&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pitch-io/cljest</title>
+    <updated>2023-04-28T01:31:37Z</updated>
+    <id>tag:github.com,2023-04-28:/pitch-io/cljest</id>
+    <link href="https://github.com/pitch-io/cljest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A preset for Jest which allows for running CLJS tests in Jest&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>loganlinn/dojo-anthem</title>
+    <updated>2023-04-28T01:31:37Z</updated>
+    <id>tag:github.com,2023-04-28:/loganlinn/dojo-anthem</id>
+    <link href="https://github.com/loganlinn/dojo-anthem" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Group 5&#39;s code from the January 2013 San Francisco Clojure Dojo - to play the National Anthem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

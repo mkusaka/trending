@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-27T01:36:07Z</updated>
+  <updated>2023-04-28T01:36:02Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>frodcode/cms.plugin.article</title>
+    <updated>2023-04-28T01:36:02Z</updated>
+    <id>tag:github.com,2023-04-28:/frodcode/cms.plugin.article</id>
+    <link href="https://github.com/frodcode/cms.plugin.article" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Article&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>quarkiverse/quarkus-groovy</title>
+    <updated>2023-04-28T01:36:02Z</updated>
+    <id>tag:github.com,2023-04-28:/quarkiverse/quarkus-groovy</id>
+    <link href="https://github.com/quarkiverse/quarkus-groovy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Groovy support in Quarkus&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

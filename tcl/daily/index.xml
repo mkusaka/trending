@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-27T01:47:38Z</updated>
+  <updated>2023-04-28T01:49:09Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>arranh/lobster</title>
+    <updated>2023-04-28T01:49:09Z</updated>
+    <id>tag:github.com,2023-04-28:/arranh/lobster</id>
+    <link href="https://github.com/arranh/lobster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Expect library for talking to remote embedded devices.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

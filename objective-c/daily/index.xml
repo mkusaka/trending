@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-27T01:41:43Z</updated>
+  <updated>2023-04-28T01:42:10Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NielsenDigitalSDK/nielsenappsdk-ios-dynamic-spm-global</title>
+    <updated>2023-04-28T01:42:10Z</updated>
+    <id>tag:github.com,2023-04-28:/NielsenDigitalSDK/nielsenappsdk-ios-dynamic-spm-global</id>
+    <link href="https://github.com/NielsenDigitalSDK/nielsenappsdk-ios-dynamic-spm-global" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nielsen app sdk repository to distribute dynamic XCFramework release packages via SPM dependency manager for global market, supporting iOS, tvOS and MacOS Catalyst targets.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nielsenappsdk-ios-dynamic-spm-global&lt;/h1&gt; &#xA;&lt;p&gt;Nielsen app sdk repository to distribute dynamic XCFramework release packages via SPM dependency manager for Global market, supporting iOS, tvOS and MacOS Catalyst targets.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Nielsen AppSDK dynamic XCFramework via SPM dependency manager can be installed by following the steps mentioned &lt;a href=&#34;https://engineeringportal.nielsen.com/docs/Digital_Measurement_iOS_Swift_Package_Manager_Guide&#34;&gt;here&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Implementation&lt;/h2&gt; &#xA;&lt;p&gt;Nielsen AppSDK supports various digital measurement products. You can access the implementation guides for these products as below&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://engineeringportal.nielsen.com/docs/DTVR_iOS_SDK&#34;&gt;Digital TV Ratings (DTVR) iOS Implementation Guide&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://engineeringportal.nielsen.com/docs/DCR_Video_iOS_SDK&#34;&gt;Digital Content Ratings (DCR) Video iOS Implementation Guide&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://engineeringportal.nielsen.com/docs/DCR_Static_iOS_SDK&#34;&gt;Digital Content Ratings (DCR) Static iOS Implementation Guide&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Please read the license agreement presented &lt;a href=&#34;https://engineeringportal.nielsen.com/docs/Special:ClickThrough&#34;&gt;here&lt;/a&gt;, which must be accepted in order to download the Nielsen SDKs. For more information, reach out to your Nielsen Technical Account Manager(TAM).&lt;/p&gt;</summary>
+  </entry>
 </feed>
