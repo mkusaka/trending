@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:33:50Z</updated>
+  <updated>2023-04-29T01:33:23Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ex-phone-number/ex_phone_number</title>
-    <updated>2023-04-28T01:33:50Z</updated>
-    <id>tag:github.com,2023-04-28:/ex-phone-number/ex_phone_number</id>
-    <link href="https://github.com/ex-phone-number/ex_phone_number" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir port of libphonenumber&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:40:27Z</updated>
+  <updated>2023-04-29T01:38:17Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>badboy/makerust</title>
-    <updated>2023-04-28T01:40:27Z</updated>
-    <id>tag:github.com,2023-04-28:/badboy/makerust</id>
-    <link href="https://github.com/badboy/makerust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rust, but in a Makefile.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getsentry/breakpad-tools</title>
+    <updated>2023-04-29T01:38:17Z</updated>
+    <id>tag:github.com,2023-04-29:/getsentry/breakpad-tools</id>
+    <link href="https://github.com/getsentry/breakpad-tools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prebuilt tools and examples to work with Breakpad&#39;s minidumps&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

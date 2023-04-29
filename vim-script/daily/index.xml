@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:50:22Z</updated>
+  <updated>2023-04-29T01:45:45Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nyngwang/nvimgelion</title>
-    <updated>2023-04-28T01:50:22Z</updated>
-    <id>tag:github.com,2023-04-28:/nyngwang/nvimgelion</id>
-    <link href="https://github.com/nyngwang/nvimgelion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Evangelion but for Vimmers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aert/vim-powerline</title>
+    <updated>2023-04-29T01:45:45Z</updated>
+    <id>tag:github.com,2023-04-29:/aert/vim-powerline</id>
+    <link href="https://github.com/aert/vim-powerline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fork of the old vim-powerline by Lokaltog (non python version)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

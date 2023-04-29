@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:47:55Z</updated>
+  <updated>2023-04-29T01:43:48Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>flanksource/mission-control-chart</title>
-    <updated>2023-04-28T01:47:55Z</updated>
-    <id>tag:github.com,2023-04-28:/flanksource/mission-control-chart</id>
-    <link href="https://github.com/flanksource/mission-control-chart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>openyurtio/openyurt-helm</title>
-    <updated>2023-04-28T01:47:55Z</updated>
-    <id>tag:github.com,2023-04-28:/openyurtio/openyurt-helm</id>
-    <link href="https://github.com/openyurtio/openyurt-helm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenYurt components helm charts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

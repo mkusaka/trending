@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:28:59Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-04-29T01:29:07Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kodekloudhub/linux-basics-course</title>
-    <updated>2023-04-28T01:28:59Z</updated>
-    <id>tag:github.com,2023-04-28:/kodekloudhub/linux-basics-course</id>
-    <link href="https://github.com/kodekloudhub/linux-basics-course" rel="alternate"></link>
+    <title>stassius/StableHoudini</title>
+    <updated>2023-04-29T01:29:07Z</updated>
+    <id>tag:github.com,2023-04-29:/stassius/StableHoudini</id>
+    <link href="https://github.com/stassius/StableHoudini" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stable Diffusion Houdini Toolset&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dreamsofcode-io/tmux</title>
+    <updated>2023-04-29T01:29:07Z</updated>
+    <id>tag:github.com,2023-04-29:/dreamsofcode-io/tmux</id>
+    <link href="https://github.com/dreamsofcode-io/tmux" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Jumpat/SegmentAnythingin3D</title>
-    <updated>2023-04-28T01:28:59Z</updated>
-    <id>tag:github.com,2023-04-28:/Jumpat/SegmentAnythingin3D</id>
-    <link href="https://github.com/Jumpat/SegmentAnythingin3D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Segment Anything in 3D with NeRFs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>97-things/97-things-every-programmer-should-know</title>
-    <updated>2023-04-28T01:28:59Z</updated>
-    <id>tag:github.com,2023-04-28:/97-things/97-things-every-programmer-should-know</id>
-    <link href="https://github.com/97-things/97-things-every-programmer-should-know" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pearls of wisdom for programmers collected from leading practitioners.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mbzuai-nlp/LaMini-LM</title>
+    <updated>2023-04-29T01:29:07Z</updated>
+    <id>tag:github.com,2023-04-29:/mbzuai-nlp/LaMini-LM</id>
+    <link href="https://github.com/mbzuai-nlp/LaMini-LM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

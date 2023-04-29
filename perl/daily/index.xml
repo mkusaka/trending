@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:43:13Z</updated>
+  <updated>2023-04-29T01:40:22Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ShashankGupta10/Unix-Sem-4</title>
-    <updated>2023-04-28T01:43:13Z</updated>
-    <id>tag:github.com,2023-04-28:/ShashankGupta10/Unix-Sem-4</id>
-    <link href="https://github.com/ShashankGupta10/Unix-Sem-4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Unix-Sem-4&lt;/h1&gt; &#xA;&lt;p&gt;All the assignments for the Semester 4 Unix Lab.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:50:30Z</updated>
+  <updated>2023-04-29T01:45:51Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UniiemStudio/CTFever</title>
-    <updated>2023-04-28T01:50:30Z</updated>
-    <id>tag:github.com,2023-04-28:/UniiemStudio/CTFever</id>
-    <link href="https://github.com/UniiemStudio/CTFever" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fantastic toolkit for CTFers and everyone 🧰&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Thysrael/Ficus</title>
+    <updated>2023-04-29T01:45:51Z</updated>
+    <id>tag:github.com,2023-04-29:/Thysrael/Ficus</id>
+    <link href="https://github.com/Thysrael/Ficus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ficus is a software for editing and managing markdown documents, developed by the gg=G team.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>galaxy-s10/billd-live</title>
-    <updated>2023-04-28T01:50:30Z</updated>
-    <id>tag:github.com,2023-04-28:/galaxy-s10/billd-live</id>
-    <link href="https://github.com/galaxy-s10/billd-live" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;迷你直播平台&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imsyy/SPlayer</title>
+    <updated>2023-04-29T01:45:51Z</updated>
+    <id>tag:github.com,2023-04-29:/imsyy/SPlayer</id>
+    <link href="https://github.com/imsyy/SPlayer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐频谱，音乐云盘及歌单管理，对移动端进行了适配&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

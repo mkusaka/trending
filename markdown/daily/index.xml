@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:40:33Z</updated>
+  <updated>2023-04-29T01:38:22Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adrianlf/UptimeCalt</title>
+    <updated>2023-04-29T01:38:22Z</updated>
+    <id>tag:github.com,2023-04-29:/adrianlf/UptimeCalt</id>
+    <link href="https://github.com/adrianlf/UptimeCalt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Upptime, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PeterDaveHello/ipinfo.tw-uptime</title>
+    <updated>2023-04-29T01:38:22Z</updated>
+    <id>tag:github.com,2023-04-29:/PeterDaveHello/ipinfo.tw-uptime</id>
+    <link href="https://github.com/PeterDaveHello/ipinfo.tw-uptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Uptime of ipinfo.tw&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

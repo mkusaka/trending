@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LabVIEW Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:39:30Z</updated>
+  <updated>2023-04-29T01:37:36Z</updated>
   <subtitle>Daily Trending of LabVIEW in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ni/niveristand-custom-device-build-tools</title>
-    <updated>2023-04-28T01:39:30Z</updated>
-    <id>tag:github.com,2023-04-28:/ni/niveristand-custom-device-build-tools</id>
-    <link href="https://github.com/ni/niveristand-custom-device-build-tools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tools for automating builds of NI VeriStand custom devices.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ni/grpc-labview</title>
+    <updated>2023-04-29T01:37:36Z</updated>
+    <id>tag:github.com,2023-04-29:/ni/grpc-labview</id>
+    <link href="https://github.com/ni/grpc-labview" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gRPC client and server support for LabVIEW&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

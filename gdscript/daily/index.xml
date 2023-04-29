@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:35:05Z</updated>
+  <updated>2023-04-29T01:34:15Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>godotengine/godot-docs-project-starters</title>
+    <updated>2023-04-29T01:34:15Z</updated>
+    <id>tag:github.com,2023-04-29:/godotengine/godot-docs-project-starters</id>
+    <link href="https://github.com/godotengine/godot-docs-project-starters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of project templates and assets used by tutorials in the official Godot documentation. https://github.com/godotengine/godot-docs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Dark-Peace/BulletUpHell</title>
+    <updated>2023-04-29T01:34:15Z</updated>
+    <id>tag:github.com,2023-04-29:/Dark-Peace/BulletUpHell</id>
+    <link href="https://github.com/Dark-Peace/BulletUpHell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All in one Godot Plugin to make Bullethell games (Godot 3 &amp; 4)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LaoDie1/godot-float-script-editor</title>
+    <updated>2023-04-29T01:34:15Z</updated>
+    <id>tag:github.com,2023-04-29:/LaoDie1/godot-float-script-editor</id>
+    <link href="https://github.com/LaoDie1/godot-float-script-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The script editor window floats. 脚本编辑器窗口浮动&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

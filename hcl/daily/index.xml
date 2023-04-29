@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:36:34Z</updated>
+  <updated>2023-04-29T01:35:20Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>omerbsezer/Fast-Terraform</title>
-    <updated>2023-04-28T01:36:34Z</updated>
-    <id>tag:github.com,2023-04-28:/omerbsezer/Fast-Terraform</id>
-    <link href="https://github.com/omerbsezer/Fast-Terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repo covers Terraform (Infrastructure as Code) with LABs using AWS: Resources, Data Sources, Variables, Meta Arguments, Provisioners, Dynamic Blocks, Modules, Workspaces, Provisioning AWS Resources (EC2, EBS, EFS, VPC, IAM Policies, Roles, ECS, ECR, Fargate, EKS, Lambda, API-Gateway, ELB, S3, CloudFront, ASG, CodePipeline, etc. )&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>papicella/snyk-iac-workshop</title>
+    <updated>2023-04-29T01:35:20Z</updated>
+    <id>tag:github.com,2023-04-29:/papicella/snyk-iac-workshop</id>
+    <link href="https://github.com/papicella/snyk-iac-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

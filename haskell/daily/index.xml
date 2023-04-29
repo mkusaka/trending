@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-28T01:36:18Z</updated>
+  <updated>2023-04-29T01:35:08Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>NicolasT/Bacon-n-Fay</title>
-    <updated>2023-04-28T01:36:18Z</updated>
-    <id>tag:github.com,2023-04-28:/NicolasT/Bacon-n-Fay</id>
-    <link href="https://github.com/NicolasT/Bacon-n-Fay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demonstration of combining Fay and Bacon.js&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Bacon&#39;n&#39;Fay&lt;/h1&gt; &#xA;&lt;p&gt;This is a demonstration of combining Fay_, a Haskell_-to-Javascript compiler, and Bacon.js_, an FRP library.&lt;/p&gt; &#xA;&lt;p&gt;To run the demo, first install Fay on your system, then run&lt;/p&gt; &#xA;&lt;p&gt;::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ fay BaconAndFay.hs&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This should generate &lt;code&gt;BaconAndFay.js&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Now open demo.html_ in your browser and move your mouse.&lt;/p&gt; &#xA;&lt;p&gt;.. _Fay: &lt;a href=&#34;http://fay-lang.org&#34;&gt;http://fay-lang.org&lt;/a&gt; .. _Haskell: &lt;a href=&#34;http://www.haskell.org&#34;&gt;http://www.haskell.org&lt;/a&gt; .. _Bacon.js: &lt;a href=&#34;https://github.com/raimohanska/bacon.js&#34;&gt;https://github.com/raimohanska/bacon.js&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;.. _demo.html: demo.html&lt;/p&gt;</summary>
-  </entry>
 </feed>
