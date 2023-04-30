@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-30T02:10:00Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jianyuh/vimbackup</title>
+    <updated>2023-04-30T02:10:00Z</updated>
+    <id>tag:github.com,2023-04-30:/jianyuh/vimbackup</id>
+    <link href="https://github.com/jianyuh/vimbackup" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;vim plugin backup&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mikanmarusan/dotfiles</title>
+    <updated>2023-04-30T02:10:00Z</updated>
+    <id>tag:github.com,2023-04-30:/mikanmarusan/dotfiles</id>
+    <link href="https://github.com/mikanmarusan/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;dotfiles in local environment&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ap/vim-css-color</title>
+    <updated>2023-04-30T02:10:00Z</updated>
+    <id>tag:github.com,2023-04-30:/ap/vim-css-color</id>
+    <link href="https://github.com/ap/vim-css-color" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Preview colours in source code while editing&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

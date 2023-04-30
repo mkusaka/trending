@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-30T01:52:48Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>palantir/gulp-count</title>
+    <updated>2023-04-30T01:52:48Z</updated>
+    <id>tag:github.com,2023-04-30:/palantir/gulp-count</id>
+    <link href="https://github.com/palantir/gulp-count" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Counts files in vinyl streams.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ratbeard/bingbot</title>
+    <updated>2023-04-30T01:52:48Z</updated>
+    <id>tag:github.com,2023-04-30:/ratbeard/bingbot</id>
+    <link href="https://github.com/ratbeard/bingbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;irc bot that JUST WORKS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phenomnomnominal/workerbench.coffee</title>
+    <updated>2023-04-30T01:52:48Z</updated>
+    <id>tag:github.com,2023-04-30:/phenomnomnominal/workerbench.coffee</id>
+    <link href="https://github.com/phenomnomnominal/workerbench.coffee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool to run a quick benchmark test to choose a good number of WebWorkers to make!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

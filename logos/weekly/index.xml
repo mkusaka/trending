@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Logos Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-30T02:00:20Z</updated>
+  <subtitle>Weekly Trending of Logos in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LNSSPsd/PodsGrant</title>
+    <updated>2023-04-30T02:00:20Z</updated>
+    <id>tag:github.com,2023-04-30:/LNSSPsd/PodsGrant</id>
+    <link href="https://github.com/LNSSPsd/PodsGrant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Treat AirPods Pro 2 as AirPods Pro to get it working better on older operating systems (for a few iOS versions only)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>enmity-mod/loader-ios</title>
+    <updated>2023-04-30T02:00:20Z</updated>
+    <id>tag:github.com,2023-04-30:/enmity-mod/loader-ios</id>
+    <link href="https://github.com/enmity-mod/loader-ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

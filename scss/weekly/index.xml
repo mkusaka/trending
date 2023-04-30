@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-30T02:06:31Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Priler/jarvis</title>
+    <updated>2023-04-30T02:06:31Z</updated>
+    <id>tag:github.com,2023-04-30:/Priler/jarvis</id>
+    <link href="https://github.com/Priler/jarvis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>roxsross/The-DevOps-Journey-101</title>
+    <updated>2023-04-30T02:06:31Z</updated>
+    <id>tag:github.com,2023-04-30:/roxsross/The-DevOps-Journey-101</id>
+    <link href="https://github.com/roxsross/The-DevOps-Journey-101" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;III Edición DevOps 2023&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>duckduckgo/duckduckgo-help-pages</title>
+    <updated>2023-04-30T02:06:31Z</updated>
+    <id>tag:github.com,2023-04-30:/duckduckgo/duckduckgo-help-pages</id>
+    <link href="https://github.com/duckduckgo/duckduckgo-help-pages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DuckDuckGo Help Pages&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

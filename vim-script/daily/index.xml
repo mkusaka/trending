@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-29T01:45:45Z</updated>
+  <updated>2023-04-30T01:48:45Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>aert/vim-powerline</title>
-    <updated>2023-04-29T01:45:45Z</updated>
-    <id>tag:github.com,2023-04-29:/aert/vim-powerline</id>
-    <link href="https://github.com/aert/vim-powerline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fork of the old vim-powerline by Lokaltog (non python version)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

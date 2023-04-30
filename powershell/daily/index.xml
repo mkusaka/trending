@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-29T01:41:03Z</updated>
+  <updated>2023-04-30T01:42:59Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CyberSecurityUP/RedTeam-Scripts</title>
+    <updated>2023-04-30T01:42:59Z</updated>
+    <id>tag:github.com,2023-04-30:/CyberSecurityUP/RedTeam-Scripts</id>
+    <link href="https://github.com/CyberSecurityUP/RedTeam-Scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RedTeam-Scripts&lt;/h1&gt; &#xA;&lt;p&gt;General scripts to make it easier&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Enumeration&lt;/li&gt; &#xA; &lt;li&gt;Exploration&lt;/li&gt; &#xA; &lt;li&gt;Escalation of privileges&lt;/li&gt; &#xA; &lt;li&gt;Lateral movement&lt;/li&gt; &#xA; &lt;li&gt;Persistence&lt;/li&gt; &#xA; &lt;li&gt;Pivoting&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>bseltz-cohesity/scripts</title>
+    <updated>2023-04-30T01:42:59Z</updated>
+    <id>tag:github.com,2023-04-30:/bseltz-cohesity/scripts</id>
+    <link href="https://github.com/bseltz-cohesity/scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cohesity REST API examples in PowerShell and Python&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Cohesity REST API Examples&lt;/h1&gt; &#xA;&lt;p&gt;Warning: this code is provided on a best effort basis and is not in any way officially supported or sanctioned by Cohesity. The code is intentionally kept simple to retain value as example code. The code in this repository is provided as-is and the author accepts no liability for damages resulting from its use.&lt;/p&gt;</summary>
+  </entry>
 </feed>

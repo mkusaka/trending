@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-29T01:35:20Z</updated>
+  <updated>2023-04-30T01:36:06Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>papicella/snyk-iac-workshop</title>
-    <updated>2023-04-29T01:35:20Z</updated>
-    <id>tag:github.com,2023-04-29:/papicella/snyk-iac-workshop</id>
-    <link href="https://github.com/papicella/snyk-iac-workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>techworldwithsiva/terraform</title>
+    <updated>2023-04-30T01:36:06Z</updated>
+    <id>tag:github.com,2023-04-30:/techworldwithsiva/terraform</id>
+    <link href="https://github.com/techworldwithsiva/terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is to learn terraform from basics to advanced&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cn-terraform/terraform-aws-ecs-fargate-service</title>
+    <updated>2023-04-30T01:36:06Z</updated>
+    <id>tag:github.com,2023-04-30:/cn-terraform/terraform-aws-ecs-fargate-service</id>
+    <link href="https://github.com/cn-terraform/terraform-aws-ecs-fargate-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS ECS Fargate Service Terraform Module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cn-terraform/terraform-aws-ecs-alb</title>
+    <updated>2023-04-30T01:36:06Z</updated>
+    <id>tag:github.com,2023-04-30:/cn-terraform/terraform-aws-ecs-alb</id>
+    <link href="https://github.com/cn-terraform/terraform-aws-ecs-alb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AWS ALB Terraform Module for ECS&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

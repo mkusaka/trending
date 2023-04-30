@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-30T02:07:21Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LM-Firefly/Rules</title>
+    <updated>2023-04-30T02:07:21Z</updated>
+    <id>tag:github.com,2023-04-30:/LM-Firefly/Rules</id>
+    <link href="https://github.com/LM-Firefly/Rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自用Clash 策略组及规则 及Subconverter 相关资源备份&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ROKT/google_tag_template</title>
+    <updated>2023-04-30T02:07:21Z</updated>
+    <id>tag:github.com,2023-04-30:/ROKT/google_tag_template</id>
+    <link href="https://github.com/ROKT/google_tag_template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository to contain Rokt&#39;s Google Tag Template Integration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

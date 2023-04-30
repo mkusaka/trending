@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-30T02:00:48Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wenyi0421/turing-pi</title>
+    <updated>2023-04-30T02:00:48Z</updated>
+    <id>tag:github.com,2023-04-30:/wenyi0421/turing-pi</id>
+    <link href="https://github.com/wenyi0421/turing-pi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Turing-pi BMC firmware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tree-sitter/tree-sitter-json</title>
+    <updated>2023-04-30T02:00:48Z</updated>
+    <id>tag:github.com,2023-04-30:/tree-sitter/tree-sitter-json</id>
+    <link href="https://github.com/tree-sitter/tree-sitter-json" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON grammar for tree-sitter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>open-telemetry/opentelemetry-configuration</title>
+    <updated>2023-04-30T02:00:48Z</updated>
+    <id>tag:github.com,2023-04-30:/open-telemetry/opentelemetry-configuration</id>
+    <link href="https://github.com/open-telemetry/opentelemetry-configuration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON Schema definitions for OpenTelemetry file configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-29T01:39:16Z</updated>
+  <updated>2023-04-30T01:40:47Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>juspay/nix-dev-home</title>
+    <updated>2023-04-30T01:40:47Z</updated>
+    <id>tag:github.com,2023-04-30:/juspay/nix-dev-home</id>
+    <link href="https://github.com/juspay/nix-dev-home" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A `home-manager` template providing useful tools &amp; settings for Nix-based development&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gelos-icmc/infra</title>
+    <updated>2023-04-30T01:40:47Z</updated>
+    <id>tag:github.com,2023-04-30:/gelos-icmc/infra</id>
+    <link href="https://github.com/gelos-icmc/infra" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Infraestrutura dos serviços e site do GELOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

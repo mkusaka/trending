@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-04-30T02:10:07Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mjjh1717/chatgpt-shuowen</title>
+    <updated>2023-04-30T02:10:07Z</updated>
+    <id>tag:github.com,2023-04-30:/mjjh1717/chatgpt-shuowen</id>
+    <link href="https://github.com/mjjh1717/chatgpt-shuowen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT 用户端-说文&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yangjiakai/lux-admin-vuetify3</title>
+    <updated>2023-04-30T02:10:07Z</updated>
+    <id>tag:github.com,2023-04-30:/yangjiakai/lux-admin-vuetify3</id>
+    <link href="https://github.com/yangjiakai/lux-admin-vuetify3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create the best admin based on Vue3.2, Vite4.1, TypeScript, Vuetify3, Chat GPT,Firebase etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>doocs/md</title>
+    <updated>2023-04-30T02:10:07Z</updated>
+    <id>tag:github.com,2023-04-30:/doocs/md</id>
+    <link href="https://github.com/doocs/md" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

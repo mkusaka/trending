@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DIGITAL Command Language Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-29T01:32:41Z</updated>
+  <updated>2023-04-30T01:32:41Z</updated>
   <subtitle>Daily Trending of DIGITAL Command Language in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>divestedcg/dnsrm</title>
-    <updated>2023-04-29T01:32:41Z</updated>
-    <id>tag:github.com,2023-04-29:/divestedcg/dnsrm</id>
-    <link href="https://github.com/divestedcg/dnsrm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of domains you probably don&#39;t want blocked&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
