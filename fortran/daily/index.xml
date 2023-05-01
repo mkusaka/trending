@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:34:34Z</updated>
+  <updated>2023-05-01T01:37:48Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ROCm-Developer-Tools/aomp</title>
-    <updated>2023-04-30T01:34:34Z</updated>
-    <id>tag:github.com,2023-04-30:/ROCm-Developer-Tools/aomp</id>
-    <link href="https://github.com/ROCm-Developer-Tools/aomp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AOMP is an open source Clang/LLVM based compiler with added support for the OpenMP® API on Radeon™ GPUs. Use this repository for releases, issues, documentation, packaging, and examples,.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

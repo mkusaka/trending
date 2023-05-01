@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:47:32Z</updated>
+  <updated>2023-05-01T01:48:42Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>agg23/fpga-tamagotchi</title>
+    <updated>2023-05-01T01:48:42Z</updated>
+    <id>tag:github.com,2023-05-01:/agg23/fpga-tamagotchi</id>
+    <link href="https://github.com/agg23/fpga-tamagotchi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tamagotchi P1 for Analogue Pocket and MiSTer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>chipsalliance/Cores-VeeR-EL2</title>
+    <updated>2023-05-01T01:48:42Z</updated>
+    <id>tag:github.com,2023-05-01:/chipsalliance/Cores-VeeR-EL2</id>
+    <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;VeeR EL2 Core&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

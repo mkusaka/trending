@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VBA Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-01T02:27:28Z</updated>
+  <subtitle>Monthly Trending of VBA in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA</title>
+    <updated>2023-05-01T02:27:28Z</updated>
+    <id>tag:github.com,2023-05-01:/Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA</id>
+    <link href="https://github.com/Sven-Bo/Integrate-ChatGPT-in-Excel-using-VBA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Revolutionize your spreadsheet game with OpenAI&#39;s ChatGPT in Microsoft Excel using my custom VBA code. Automate tedious tasks and add a new level of intelligence to your data analysis. The code is available in the GitHub repository for you to use and integrate into your own spreadsheets.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

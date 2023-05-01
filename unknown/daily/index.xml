@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:28:57Z</updated>
+  <updated>2023-05-01T01:31:36Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Mooler0410/LLMsPracticalGuide</title>
-    <updated>2023-04-30T01:28:57Z</updated>
-    <id>tag:github.com,2023-04-30:/Mooler0410/LLMsPracticalGuide</id>
-    <link href="https://github.com/Mooler0410/LLMsPracticalGuide" rel="alternate"></link>
+    <title>cqcore/Telegram-OSINT</title>
+    <updated>2023-05-01T01:31:36Z</updated>
+    <id>tag:github.com,2023-05-01:/cqcore/Telegram-OSINT</id>
+    <link href="https://github.com/cqcore/Telegram-OSINT" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nhivp/Awesome-Embedded</title>
-    <updated>2023-04-30T01:28:57Z</updated>
-    <id>tag:github.com,2023-04-30:/nhivp/Awesome-Embedded</id>
-    <link href="https://github.com/nhivp/Awesome-Embedded" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome embedded programming.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emmabostian/developer-portfolios</title>
+    <updated>2023-05-01T01:31:36Z</updated>
+    <id>tag:github.com,2023-05-01:/emmabostian/developer-portfolios</id>
+    <link href="https://github.com/emmabostian/developer-portfolios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of developer portfolios for your inspiration&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alldatacenter/alldata</title>
-    <updated>2023-04-30T01:28:57Z</updated>
-    <id>tag:github.com,2023-04-30:/alldatacenter/alldata</id>
-    <link href="https://github.com/alldatacenter/alldata" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥🔥 AllData通过汇聚大数据与AI领域生态组件，提供细分领域AllData数字化解决方案：大数据平台[数据中台]集成、大数据平台[数据中台]湖仓分析、大数据平台[数据中台]开发治理、大数据平台[数据中台]集群运维。联系作者: https://docs.qq.com/doc/DVFZ1RFhGYkJRSGxN&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>integralfx/MemTestHelper</title>
+    <updated>2023-05-01T01:31:36Z</updated>
+    <id>tag:github.com,2023-05-01:/integralfx/MemTestHelper</id>
+    <link href="https://github.com/integralfx/MemTestHelper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C# WPF to automate HCI MemTest&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

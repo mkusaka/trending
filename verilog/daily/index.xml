@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:48:38Z</updated>
+  <updated>2023-05-01T01:49:41Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ultraembedded/core_ddr3_controller</title>
-    <updated>2023-04-30T01:48:38Z</updated>
-    <id>tag:github.com,2023-04-30:/ultraembedded/core_ddr3_controller</id>
-    <link href="https://github.com/ultraembedded/core_ddr3_controller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A DDR3 memory controller in Verilog for various FPGAs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>furrtek/Arcade-TMNT_MiSTer</title>
-    <updated>2023-04-30T01:48:38Z</updated>
-    <id>tag:github.com,2023-04-30:/furrtek/Arcade-TMNT_MiSTer</id>
-    <link href="https://github.com/furrtek/Arcade-TMNT_MiSTer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Konami&#39;s Teenage Mutant Ninja Turtles for the MiSTer FPGA platform&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

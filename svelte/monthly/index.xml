@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-01T02:26:12Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Niek/chatgpt-web</title>
+    <updated>2023-05-01T02:26:12Z</updated>
+    <id>tag:github.com,2023-05-01:/Niek/chatgpt-web</id>
+    <link href="https://github.com/Niek/chatgpt-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT web interface using the OpenAI API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>evidence-dev/evidence</title>
+    <updated>2023-05-01T02:26:12Z</updated>
+    <id>tag:github.com,2023-05-01:/evidence-dev/evidence</id>
+    <link href="https://github.com/evidence-dev/evidence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Business intelligence as code: build polished data products with SQL and markdown&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ShipBit/slickgpt</title>
+    <updated>2023-05-01T02:26:12Z</updated>
+    <id>tag:github.com,2023-05-01:/ShipBit/slickgpt</id>
+    <link href="https://github.com/ShipBit/slickgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SlickGPT is a light-weight &#34;use-your-own-API-key&#34; web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

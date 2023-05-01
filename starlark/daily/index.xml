@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:46:50Z</updated>
+  <updated>2023-05-01T01:48:01Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bazel-contrib/bazel_features</title>
-    <updated>2023-04-30T01:46:50Z</updated>
-    <id>tag:github.com,2023-04-30:/bazel-contrib/bazel_features</id>
-    <link href="https://github.com/bazel-contrib/bazel_features" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Support Bazel &#34;feature detection&#34; from starlark&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>BlueRiverTechnology/tf_sample</title>
+    <updated>2023-05-01T01:48:01Z</updated>
+    <id>tag:github.com,2023-05-01:/BlueRiverTechnology/tf_sample</id>
+    <link href="https://github.com/BlueRiverTechnology/tf_sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opinionated way to integrate terraform into bazel lifecycle&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kurtosis-tech/rabbitmq-package</title>
+    <updated>2023-05-01T01:48:01Z</updated>
+    <id>tag:github.com,2023-05-01:/kurtosis-tech/rabbitmq-package</id>
+    <link href="https://github.com/kurtosis-tech/rabbitmq-package" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kurtosis-tech/etcd-package</title>
+    <updated>2023-05-01T01:48:01Z</updated>
+    <id>tag:github.com,2023-05-01:/kurtosis-tech/etcd-package</id>
+    <link href="https://github.com/kurtosis-tech/etcd-package" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

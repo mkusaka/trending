@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:48:51Z</updated>
+  <updated>2023-05-01T01:49:53Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kuingsmile/word-GPT-Plus</title>
-    <updated>2023-04-30T01:48:51Z</updated>
-    <id>tag:github.com,2023-04-30:/Kuingsmile/word-GPT-Plus</id>
-    <link href="https://github.com/Kuingsmile/word-GPT-Plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vueschool/vue-forge-episode-3</title>
+    <updated>2023-05-01T01:49:53Z</updated>
+    <id>tag:github.com,2023-05-01:/vueschool/vue-forge-episode-3</id>
+    <link href="https://github.com/vueschool/vue-forge-episode-3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official project repo for Vue.js Forge Episode 3 (2023)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>AlanLee1996/wenda-webui</title>
-    <updated>2023-04-30T01:48:51Z</updated>
-    <id>tag:github.com,2023-04-30:/AlanLee1996/wenda-webui</id>
-    <link href="https://github.com/AlanLee1996/wenda-webui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;专为 l15y/wenda 闻达平台设计的webui&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>969025903/ChopperBot</title>
+    <updated>2023-05-01T01:49:53Z</updated>
+    <id>tag:github.com,2023-05-01:/969025903/ChopperBot</id>
+    <link href="https://github.com/969025903/ChopperBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一款全自动的主播切片机器人,支持模块热度分析, 主播热度分析,智能爬取,弹幕视频爬取,弹幕分析, 自动切片,切片分类,自动标题,自动封面,账号打造,账号管理, 多平台上传等功能&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Sdantevie/test-project</title>
-    <updated>2023-04-30T01:48:51Z</updated>
-    <id>tag:github.com,2023-04-30:/Sdantevie/test-project</id>
-    <link href="https://github.com/Sdantevie/test-project" rel="alternate"></link>
+    <title>zyronon/v2ex-script</title>
+    <updated>2023-05-01T01:49:53Z</updated>
+    <id>tag:github.com,2023-05-01:/zyronon/v2ex-script</id>
+    <link href="https://github.com/zyronon/v2ex-script" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

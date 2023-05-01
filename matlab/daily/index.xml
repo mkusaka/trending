@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:39:49Z</updated>
+  <updated>2023-05-01T01:42:19Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DengYaosheng/Riemannian-manifold-swarm</title>
-    <updated>2023-04-30T01:39:49Z</updated>
-    <id>tag:github.com,2023-04-30:/DengYaosheng/Riemannian-manifold-swarm</id>
-    <link href="https://github.com/DengYaosheng/Riemannian-manifold-swarm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;kinds of swarm on manifold play codes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TakaHoribe/trajectory_tracking_simulation</title>
+    <updated>2023-05-01T01:42:19Z</updated>
+    <id>tag:github.com,2023-05-01:/TakaHoribe/trajectory_tracking_simulation</id>
+    <link href="https://github.com/TakaHoribe/trajectory_tracking_simulation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

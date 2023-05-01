@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-01T02:27:42Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sainnhe/gruvbox-material</title>
+    <updated>2023-05-01T02:27:42Z</updated>
+    <id>tag:github.com,2023-05-01:/sainnhe/gruvbox-material</id>
+    <link href="https://github.com/sainnhe/gruvbox-material" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Gruvbox with Material Palette&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Exafunction/codeium.vim</title>
+    <updated>2023-05-01T02:27:42Z</updated>
+    <id>tag:github.com,2023-05-01:/Exafunction/codeium.vim</id>
+    <link href="https://github.com/Exafunction/codeium.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free, ultrafast Copilot alternative for Vim and Neovim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dstein64/vim-startuptime</title>
+    <updated>2023-05-01T02:27:42Z</updated>
+    <id>tag:github.com,2023-05-01:/dstein64/vim-startuptime</id>
+    <link href="https://github.com/dstein64/vim-startuptime" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⏲️ A plugin for profiling Vim and Neovim startup time.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

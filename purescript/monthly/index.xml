@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-01T02:23:07Z</updated>
+  <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-functions</title>
+    <updated>2023-05-01T02:23:07Z</updated>
+    <id>tag:github.com,2023-05-01:/purescript/purescript-functions</id>
+    <link href="https://github.com/purescript/purescript-functions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Function combinators and types for multi-argument functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-gen</title>
+    <updated>2023-05-01T02:23:07Z</updated>
+    <id>tag:github.com,2023-05-01:/purescript/purescript-gen</id>
+    <link href="https://github.com/purescript/purescript-gen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A type class for random generator implementations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-st</title>
+    <updated>2023-05-01T02:23:07Z</updated>
+    <id>tag:github.com,2023-05-01:/purescript/purescript-st</id>
+    <link href="https://github.com/purescript/purescript-st" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ST effect, for safe local mutation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

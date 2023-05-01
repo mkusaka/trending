@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:46:29Z</updated>
+  <updated>2023-05-01T01:47:41Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>morremeyer/charts</title>
-    <updated>2023-04-30T01:46:29Z</updated>
-    <id>tag:github.com,2023-04-30:/morremeyer/charts</id>
-    <link href="https://github.com/morremeyer/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All helm charts that I use throughout my infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>flanksource/mission-control-tenant</title>
-    <updated>2023-04-30T01:46:29Z</updated>
-    <id>tag:github.com,2023-04-30:/flanksource/mission-control-tenant</id>
-    <link href="https://github.com/flanksource/mission-control-tenant" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jeroen94704/klepcbgen</title>
+    <updated>2023-05-01T01:47:41Z</updated>
+    <id>tag:github.com,2023-05-01:/jeroen94704/klepcbgen</id>
+    <link href="https://github.com/jeroen94704/klepcbgen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generates a KiCAD schematic and PCB layout using a Keyboard Layout Editor json file as input&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

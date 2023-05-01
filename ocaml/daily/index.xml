@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:41:23Z</updated>
+  <updated>2023-05-01T01:43:37Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>art-w/deque</title>
-    <updated>2023-04-30T01:41:23Z</updated>
-    <id>tag:github.com,2023-04-30:/art-w/deque</id>
-    <link href="https://github.com/art-w/deque" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Purely Functional, Real-Time Deques with Catenation (Kaplan &amp; Tarjan)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ocaml-multicore/domain-local-await</title>
-    <updated>2023-04-30T01:41:23Z</updated>
-    <id>tag:github.com,2023-04-30:/ocaml-multicore/domain-local-await</id>
-    <link href="https://github.com/ocaml-multicore/domain-local-await" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A scheduler independent blocking mechanism&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>F-Loyer/7guis-ocaml-lablgtk3</title>
+    <updated>2023-05-01T01:43:37Z</updated>
+    <id>tag:github.com,2023-05-01:/F-Loyer/7guis-ocaml-lablgtk3</id>
+    <link href="https://github.com/F-Loyer/7guis-ocaml-lablgtk3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;7GUIs implemented in OCaml with LablGtk3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

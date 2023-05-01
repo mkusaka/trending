@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:45:44Z</updated>
+  <updated>2023-05-01T01:47:04Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DiogoPCS/ProjetoAngular</title>
-    <updated>2023-04-30T01:45:44Z</updated>
-    <id>tag:github.com,2023-04-30:/DiogoPCS/ProjetoAngular</id>
-    <link href="https://github.com/DiogoPCS/ProjetoAngular" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projeto Angular + Ionic para ser usado com Codespace&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-04-30T01:48:48Z</updated>
+  <updated>2023-05-01T01:49:49Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>isay-sosa/MunicipiosColima</title>
+    <updated>2023-05-01T01:49:49Z</updated>
+    <id>tag:github.com,2023-05-01:/isay-sosa/MunicipiosColima</id>
+    <link href="https://github.com/isay-sosa/MunicipiosColima" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Este programa, desarrollado en VB, permite poner en practica el algoritmo de dijkstra y kruskal, los cuales son en base a nodos y grafos. Con esta aplicación se puede obtener la ruta más corta de un municipio a otro del estado de Colima, tomando en cuenta la distancia o tiempo que se toma de llegar de un municipio a otro.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

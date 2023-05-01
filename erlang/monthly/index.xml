@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-01T02:14:54Z</updated>
+  <subtitle>Monthly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>andelf/baiduhi</title>
+    <updated>2023-05-01T02:14:54Z</updated>
+    <id>tag:github.com,2023-05-01:/andelf/baiduhi</id>
+    <link href="https://github.com/andelf/baiduhi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;baiduhi client, erlang version&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>josefs/Gradualizer</title>
+    <updated>2023-05-01T02:14:54Z</updated>
+    <id>tag:github.com,2023-05-01:/josefs/Gradualizer</id>
+    <link href="https://github.com/josefs/Gradualizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Gradual type system for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>WhatsApp/erlfmt</title>
+    <updated>2023-05-01T02:14:54Z</updated>
+    <id>tag:github.com,2023-05-01:/WhatsApp/erlfmt</id>
+    <link href="https://github.com/WhatsApp/erlfmt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An automated code formatter for Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

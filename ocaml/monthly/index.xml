@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-01T02:21:14Z</updated>
+  <subtitle>Monthly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>deedy/Custom-Scheme-Interpreter</title>
+    <updated>2023-05-01T02:21:14Z</updated>
+    <id>tag:github.com,2023-05-01:/deedy/Custom-Scheme-Interpreter</id>
+    <link href="https://github.com/deedy/Custom-Scheme-Interpreter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A custom Scheme Interpreter designed in OCaml.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>returntocorp/TIP-ocaml</title>
+    <updated>2023-05-01T02:21:14Z</updated>
+    <id>tag:github.com,2023-05-01:/returntocorp/TIP-ocaml</id>
+    <link href="https://github.com/returntocorp/TIP-ocaml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tiny Imperative Language, implemenented in OCaml, see https://cs.au.dk/~amoeller/spa/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
