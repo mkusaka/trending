@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:43:10Z</updated>
+  <updated>2023-05-02T01:41:36Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rvolosatovs/nixify</title>
-    <updated>2023-05-01T01:43:10Z</updated>
-    <id>tag:github.com,2023-05-01:/rvolosatovs/nixify</id>
-    <link href="https://github.com/rvolosatovs/nixify" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple, yet extensible nix flake bootstrapping library for real-world projects&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ibizaman/selfhostblocks</title>
-    <updated>2023-05-01T01:43:10Z</updated>
-    <id>tag:github.com,2023-05-01:/ibizaman/selfhostblocks</id>
-    <link href="https://github.com/ibizaman/selfhostblocks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Building blocks for self-hosting with best practices&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>srid/devour-flake</title>
+    <updated>2023-05-02T01:41:36Z</updated>
+    <id>tag:github.com,2023-05-02:/srid/devour-flake</id>
+    <link href="https://github.com/srid/devour-flake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Devour all outputs in a Nix flake.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

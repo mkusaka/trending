@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:39:07Z</updated>
+  <updated>2023-05-02T01:37:27Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>utrains/utrains_terraform_pathway</title>
-    <updated>2023-05-01T01:39:07Z</updated>
-    <id>tag:github.com,2023-05-01:/utrains/utrains_terraform_pathway</id>
-    <link href="https://github.com/utrains/utrains_terraform_pathway" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;this repository is for all terraform code that allow us provisioning many cloud provider services&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ladykdevops/3tier_arch_tf</title>
+    <updated>2023-05-02T01:37:27Z</updated>
+    <id>tag:github.com,2023-05-02:/ladykdevops/3tier_arch_tf</id>
+    <link href="https://github.com/ladykdevops/3tier_arch_tf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kledsonhugo/app-notifier</title>
-    <updated>2023-05-01T01:39:07Z</updated>
-    <id>tag:github.com,2023-05-01:/kledsonhugo/app-notifier</id>
-    <link href="https://github.com/kledsonhugo/app-notifier" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nsbno/terraform-aws-relational-database</title>
+    <updated>2023-05-02T01:37:27Z</updated>
+    <id>tag:github.com,2023-05-02:/nsbno/terraform-aws-relational-database</id>
+    <link href="https://github.com/nsbno/terraform-aws-relational-database" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Setup a relational database using AWS Aurora&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:33:19Z</updated>
+  <updated>2023-05-02T01:31:21Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure-Samples/aca-azure-policy</title>
-    <updated>2023-05-01T01:33:19Z</updated>
-    <id>tag:github.com,2023-05-01:/Azure-Samples/aca-azure-policy</id>
-    <link href="https://github.com/Azure-Samples/aca-azure-policy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains custom Azure Policies for Azure Container Apps.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure-Samples/fastapi-on-azure-functions</title>
+    <updated>2023-05-02T01:31:21Z</updated>
+    <id>tag:github.com,2023-05-02:/Azure-Samples/fastapi-on-azure-functions</id>
+    <link href="https://github.com/Azure-Samples/fastapi-on-azure-functions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A sample to run a FastAPI app on Azure Functions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

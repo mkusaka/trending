@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:47:41Z</updated>
+  <updated>2023-05-02T01:46:18Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jeroen94704/klepcbgen</title>
-    <updated>2023-05-01T01:47:41Z</updated>
-    <id>tag:github.com,2023-05-01:/jeroen94704/klepcbgen</id>
-    <link href="https://github.com/jeroen94704/klepcbgen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generates a KiCAD schematic and PCB layout using a Keyboard Layout Editor json file as input&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Oksydan/falcon</title>
+    <updated>2023-05-02T01:46:18Z</updated>
+    <id>tag:github.com,2023-05-02:/Oksydan/falcon</id>
+    <link href="https://github.com/Oksydan/falcon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Prestashop starter theme that provides great development experience.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

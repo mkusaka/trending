@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:33:45Z</updated>
+  <updated>2023-05-02T01:32:06Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fifty-six/Scarab</title>
-    <updated>2023-05-01T01:33:45Z</updated>
-    <id>tag:github.com,2023-05-01:/fifty-six/Scarab</id>
-    <link href="https://github.com/fifty-six/Scarab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An installer for Hollow Knight mods written in Avalonia.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Scarab&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/fifty-six/Scarab/actions/workflows/dotnet.yml/badge.svg?sanitize=true&#34; alt=&#34;build&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/downloads/fifty-six/Scarab/total&#34; alt=&#34;GitHub all releases&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;This is a mod manager for Hollow Knight aimed at making the process of installing mods easier for users.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/kJH4xGt.png&#34; alt=&#34;screenshot&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Get the latest release &lt;a href=&#34;https://github.com/fifty-six/Scarab/releases/latest&#34;&gt;here&lt;/a&gt;.&lt;/li&gt; &#xA; &lt;li&gt;Unzip and run it.&lt;/li&gt; &#xA; &lt;li&gt;Mods appear in the top left corner of the game title screen after installation.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

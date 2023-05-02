@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:48:45Z</updated>
+  <updated>2023-05-02T01:47:10Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Lemmdefi/BSC-Token-Trading-Bot-AES</title>
-    <updated>2023-05-01T01:48:45Z</updated>
-    <id>tag:github.com,2023-05-01:/Lemmdefi/BSC-Token-Trading-Bot-AES</id>
-    <link href="https://github.com/Lemmdefi/BSC-Token-Trading-Bot-AES" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BSC Token Trading Bot for people that want to buy and sell automatically at a certain price&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Lemmdefi/ARBITRUM-Token-Trading-Bot-ZEUS</title>
-    <updated>2023-05-01T01:48:45Z</updated>
-    <id>tag:github.com,2023-05-01:/Lemmdefi/ARBITRUM-Token-Trading-Bot-ZEUS</id>
-    <link href="https://github.com/Lemmdefi/ARBITRUM-Token-Trading-Bot-ZEUS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Arbitrum trading bot that allows users to buy an sell automatically on a certain price&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Elettrotecnica/OpenAcs-Event-Handler</title>
-    <updated>2023-05-01T01:48:45Z</updated>
-    <id>tag:github.com,2023-05-01:/Elettrotecnica/OpenAcs-Event-Handler</id>
-    <link href="https://github.com/Elettrotecnica/OpenAcs-Event-Handler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenAcs package to allow the creation of event listening webpages.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

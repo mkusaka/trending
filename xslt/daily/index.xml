@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:50:27Z</updated>
+  <updated>2023-05-02T01:48:49Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>soker90/cooking-blog</title>
+    <updated>2023-05-02T01:48:49Z</updated>
+    <id>tag:github.com,2023-05-02:/soker90/cooking-blog</id>
+    <link href="https://github.com/soker90/cooking-blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blog de recetas de cocina&lt;/p&gt;&lt;hr&gt;&lt;h1 id=&#34;title&#34; align=&#34;center&#34;&gt;Cocinando con Edu&lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://socialify.git.ci/soker90/cooking-blog/image?description=1&amp;amp;font=Inter&amp;amp;language=1&amp;amp;logo=https%3A%2F%2Frecetas.eduardoparra.es%2Fassets%2Flogo.svg&amp;amp;owner=1&amp;amp;pattern=Solid&amp;amp;theme=Light&#34; alt=&#34;project-image&#34;&gt;&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://img.shields.io/github/license/soker90/cooking-blog&#34; alt=&#34;shields&#34;&gt; &lt;a href=&#34;https://app.netlify.com/sites/gentle-sawine-990f2d/deploys&#34; target=&#34;_blank&#34; title=&#34;Die Homepage&#34; rel=&#34;nofollow&#34;&gt; &lt;img src=&#34;https://api.netlify.com/api/v1/badges/62b0f7f9-0ddf-4880-9f40-a945d40bfb18/deploy-status&#34; alt=&#34;shields&#34;&gt; &lt;/a&gt; &lt;/p&gt; &#xA;&lt;h2&gt;💻 Construido con&lt;/h2&gt; &#xA;&lt;p&gt;Tecnologías usadas:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;astro&lt;/li&gt; &#xA; &lt;li&gt;svelte&lt;/li&gt; &#xA; &lt;li&gt;tailwind&lt;/li&gt; &#xA; &lt;li&gt;javascript&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;🛡️ Licencia:&lt;/h2&gt; &#xA;&lt;p&gt;Este proyecto est MIT&lt;/p&gt;</summary>
+  </entry>
 </feed>

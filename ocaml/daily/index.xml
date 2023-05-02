@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:43:37Z</updated>
+  <updated>2023-05-02T01:42:05Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>F-Loyer/7guis-ocaml-lablgtk3</title>
-    <updated>2023-05-01T01:43:37Z</updated>
-    <id>tag:github.com,2023-05-01:/F-Loyer/7guis-ocaml-lablgtk3</id>
-    <link href="https://github.com/F-Loyer/7guis-ocaml-lablgtk3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;7GUIs implemented in OCaml with LablGtk3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lthms/spatial-shell</title>
+    <updated>2023-05-02T01:42:05Z</updated>
+    <id>tag:github.com,2023-05-02:/lthms/spatial-shell</id>
+    <link href="https://github.com/lthms/spatial-shell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementing a spatial model inspired by Material Shell and Paper WM, for Sway.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

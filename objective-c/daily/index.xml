@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:43:28Z</updated>
+  <updated>2023-05-02T01:41:55Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>foreverlikeyou9999/DailyPapr</title>
-    <updated>2023-05-01T01:43:28Z</updated>
-    <id>tag:github.com,2023-05-01:/foreverlikeyou9999/DailyPapr</id>
-    <link href="https://github.com/foreverlikeyou9999/DailyPapr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DailyPapr is a free Mac Menubar Application that browses beautiful pictures on the web and set up them as wallpaper.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This repository has moved to &lt;a href=&#34;http://github.com/diogosantos/WallpaperMenu&#34;&gt;http://github.com/diogosantos/WallpaperMenu&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;-diogosantos&lt;/p&gt;</summary>
-  </entry>
 </feed>

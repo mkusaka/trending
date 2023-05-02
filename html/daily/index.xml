@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:39:14Z</updated>
+  <updated>2023-05-02T01:37:35Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>google/coding-competitions-archive</title>
-    <updated>2023-05-01T01:39:14Z</updated>
-    <id>tag:github.com,2023-05-01:/google/coding-competitions-archive</id>
-    <link href="https://github.com/google/coding-competitions-archive" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Google Coding Competitions problem archive&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;coding-competitions-archive&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains an archive of competition problems for Coding Competitions, Google-organized programming competitions. Problem data for problems used in the following contests is updated:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Code Jam&lt;/li&gt; &#xA; &lt;li&gt;Code Jam to I/O for Women&lt;/li&gt; &#xA; &lt;li&gt;Hash Code&lt;/li&gt; &#xA; &lt;li&gt;Kick Start&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The statement and analysis HTML files may have CSS or JS dependencies that are not provided here. Some of the custom judging code may also have library dependencies that are not provided, so they may not work as is. All problem-specific logic is there, however, so it should be useful if you intend to reproduce the behavior.&lt;/p&gt; &#xA;&lt;p&gt;There is no plan to add data for problems for other contests (like Distributed Code Jam) at this time.&lt;/p&gt;</summary>
+    <title>Azure-Samples/msdocs-python-flask-webapp-quickstart</title>
+    <updated>2023-05-02T01:37:35Z</updated>
+    <id>tag:github.com,2023-05-02:/Azure-Samples/msdocs-python-flask-webapp-quickstart</id>
+    <link href="https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contains the sample application for the App Service Quickstart in Python using Flask.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Deploy a Python (Flask) web app to Azure App Service - Sample Application&lt;/h1&gt; &#xA;&lt;p&gt;This is the sample Flask application for the Azure Quickstart &lt;a href=&#34;https://docs.microsoft.com/en-us/azure/app-service/quickstart-python&#34;&gt;Deploy a Python (Django or Flask) web app to Azure App Service&lt;/a&gt;. For instructions on how to create the Azure resources and deploy the application to Azure, refer to the Quickstart article.&lt;/p&gt; &#xA;&lt;p&gt;Sample applications are available for the other frameworks here:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Django &lt;a href=&#34;https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart&#34;&gt;https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;FastAPI &lt;a href=&#34;https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart&#34;&gt;https://github.com/Azure-Samples/msdocs-python-fastapi-webapp-quickstart&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;If you need an Azure account, you can &lt;a href=&#34;https://azure.microsoft.com/en-us/free/&#34;&gt;create one for free&lt;/a&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>

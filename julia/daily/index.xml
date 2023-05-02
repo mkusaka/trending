@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:40:52Z</updated>
+  <updated>2023-05-02T01:39:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maartenvd/MPSKit.jl</title>
-    <updated>2023-05-01T01:40:52Z</updated>
-    <id>tag:github.com,2023-05-01:/maartenvd/MPSKit.jl</id>
-    <link href="https://github.com/maartenvd/MPSKit.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Contains code for tackling 1 dimensional (quantum) problems using tensor network algorithms.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>j-fu/VoronoiFVM.jl</title>
+    <updated>2023-05-02T01:39:08Z</updated>
+    <id>tag:github.com,2023-05-02:/j-fu/VoronoiFVM.jl</id>
+    <link href="https://github.com/j-fu/VoronoiFVM.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Solution of nonlinear multiphysics partial differential equation systems using the Voronoi finite volume method&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaSIMD/LLVMLoopInfo.jl</title>
-    <updated>2023-05-01T01:40:52Z</updated>
-    <id>tag:github.com,2023-05-01:/JuliaSIMD/LLVMLoopInfo.jl</id>
-    <link href="https://github.com/JuliaSIMD/LLVMLoopInfo.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pass loop info to LLVM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>udohjeremiah/ProjectEuler.jl</title>
+    <updated>2023-05-02T01:39:08Z</updated>
+    <id>tag:github.com,2023-05-02:/udohjeremiah/ProjectEuler.jl</id>
+    <link href="https://github.com/udohjeremiah/ProjectEuler.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ProjectEuler.jl is a package that allows offline access to challenging mathematical problems from Project Euler through Julia&#39;s REPL. It is a valuable resource for those looking to improve their Julia programming skills while solving interesting mathematical problems.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

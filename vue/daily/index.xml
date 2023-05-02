@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:49:53Z</updated>
+  <updated>2023-05-02T01:48:15Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vueschool/vue-forge-episode-3</title>
-    <updated>2023-05-01T01:49:53Z</updated>
-    <id>tag:github.com,2023-05-01:/vueschool/vue-forge-episode-3</id>
-    <link href="https://github.com/vueschool/vue-forge-episode-3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The official project repo for Vue.js Forge Episode 3 (2023)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Exifly/ApiVault</title>
+    <updated>2023-05-02T01:48:15Z</updated>
+    <id>tag:github.com,2023-05-02:/Exifly/ApiVault</id>
+    <link href="https://github.com/Exifly/ApiVault" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Your Gateway To A World Of Public APIs.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>969025903/ChopperBot</title>
-    <updated>2023-05-01T01:49:53Z</updated>
-    <id>tag:github.com,2023-05-01:/969025903/ChopperBot</id>
-    <link href="https://github.com/969025903/ChopperBot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一款全自动的主播切片机器人,支持模块热度分析, 主播热度分析,智能爬取,弹幕视频爬取,弹幕分析, 自动切片,切片分类,自动标题,自动封面,账号打造,账号管理, 多平台上传等功能&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheSpaghettiDetective/obico-server</title>
+    <updated>2023-05-02T01:48:15Z</updated>
+    <id>tag:github.com,2023-05-02:/TheSpaghettiDetective/obico-server</id>
+    <link href="https://github.com/TheSpaghettiDetective/obico-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zyronon/v2ex-script</title>
-    <updated>2023-05-01T01:49:53Z</updated>
-    <id>tag:github.com,2023-05-01:/zyronon/v2ex-script</id>
-    <link href="https://github.com/zyronon/v2ex-script" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>a616567126/GPT-WEB-CLIENT</title>
+    <updated>2023-05-02T01:48:15Z</updated>
+    <id>tag:github.com,2023-05-02:/a616567126/GPT-WEB-CLIENT</id>
+    <link href="https://github.com/a616567126/GPT-WEB-CLIENT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于VUE2.0 聊天机器人！支持ChatGPT、文心一言、Bing、sd画图，微信支付，支付宝支付，易支付，公众号引流，邮件注册，阿里云短信注册，后端代码地址：https://github.com/a616567126/GPT-WEB-JAVA🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

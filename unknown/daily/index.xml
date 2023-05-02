@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:31:36Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-05-02T01:29:19Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cqcore/Telegram-OSINT</title>
-    <updated>2023-05-01T01:31:36Z</updated>
-    <id>tag:github.com,2023-05-01:/cqcore/Telegram-OSINT</id>
-    <link href="https://github.com/cqcore/Telegram-OSINT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NoorQureshi/kali-linux-cheatsheet</title>
+    <updated>2023-05-02T01:29:19Z</updated>
+    <id>tag:github.com,2023-05-02:/NoorQureshi/kali-linux-cheatsheet</id>
+    <link href="https://github.com/NoorQureshi/kali-linux-cheatsheet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kali Linux Cheat Sheet for Penetration Testers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>emmabostian/developer-portfolios</title>
-    <updated>2023-05-01T01:31:36Z</updated>
-    <id>tag:github.com,2023-05-01:/emmabostian/developer-portfolios</id>
-    <link href="https://github.com/emmabostian/developer-portfolios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of developer portfolios for your inspiration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>integralfx/MemTestHelper</title>
-    <updated>2023-05-01T01:31:36Z</updated>
-    <id>tag:github.com,2023-05-01:/integralfx/MemTestHelper</id>
-    <link href="https://github.com/integralfx/MemTestHelper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C# WPF to automate HCI MemTest&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheSpeedX/PROXY-List</title>
+    <updated>2023-05-02T01:29:19Z</updated>
+    <id>tag:github.com,2023-05-02:/TheSpeedX/PROXY-List</id>
+    <link href="https://github.com/TheSpeedX/PROXY-List" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Get PROXY List that gets updated everyday&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

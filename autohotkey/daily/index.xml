@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:32:59Z</updated>
+  <updated>2023-05-02T01:31:03Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Vasasago/commands-for-jarvis</title>
-    <updated>2023-05-01T01:32:59Z</updated>
-    <id>tag:github.com,2023-05-01:/Vasasago/commands-for-jarvis</id>
-    <link href="https://github.com/Vasasago/commands-for-jarvis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Кастомные команды для голосового ассистента Jarvis by Priler&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

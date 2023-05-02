@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:48:15Z</updated>
+  <updated>2023-05-02T01:46:49Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Priler/jarvis</title>
-    <updated>2023-05-01T01:48:15Z</updated>
-    <id>tag:github.com,2023-05-01:/Priler/jarvis</id>
-    <link href="https://github.com/Priler/jarvis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dufu1991/stdf</title>
-    <updated>2023-05-01T01:48:15Z</updated>
-    <id>tag:github.com,2023-05-01:/dufu1991/stdf</id>
-    <link href="https://github.com/dufu1991/stdf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mobile Web component library based on Svelte and Tailwind&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>amethystnetwork-dev/Amethyst</title>
+    <updated>2023-05-02T01:46:49Z</updated>
+    <id>tag:github.com,2023-05-02:/amethystnetwork-dev/Amethyst</id>
+    <link href="https://github.com/amethystnetwork-dev/Amethyst" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Amethyst rewrite&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

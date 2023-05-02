@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-01T01:41:43Z</updated>
+  <updated>2023-05-02T01:40:02Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>enmity-mod/loader-ios</title>
-    <updated>2023-05-01T01:41:43Z</updated>
-    <id>tag:github.com,2023-05-01:/enmity-mod/loader-ios</id>
-    <link href="https://github.com/enmity-mod/loader-ios" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Theos jailbreak tweak to handle filesystem changes, addon management and bundle loading for Enmity.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
