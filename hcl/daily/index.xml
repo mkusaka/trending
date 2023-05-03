@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:37:27Z</updated>
+  <updated>2023-05-03T01:36:15Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ladykdevops/3tier_arch_tf</title>
-    <updated>2023-05-02T01:37:27Z</updated>
-    <id>tag:github.com,2023-05-02:/ladykdevops/3tier_arch_tf</id>
-    <link href="https://github.com/ladykdevops/3tier_arch_tf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nsbno/terraform-aws-relational-database</title>
-    <updated>2023-05-02T01:37:27Z</updated>
-    <id>tag:github.com,2023-05-02:/nsbno/terraform-aws-relational-database</id>
-    <link href="https://github.com/nsbno/terraform-aws-relational-database" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Setup a relational database using AWS Aurora&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>edgelaboratories/terraform-vault-kv-secrets</title>
+    <updated>2023-05-03T01:36:15Z</updated>
+    <id>tag:github.com,2023-05-03:/edgelaboratories/terraform-vault-kv-secrets</id>
+    <link href="https://github.com/edgelaboratories/terraform-vault-kv-secrets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform module to store secrets in a Vault KV secrets engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

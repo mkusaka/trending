@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:39:08Z</updated>
+  <updated>2023-05-03T01:38:20Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>j-fu/VoronoiFVM.jl</title>
-    <updated>2023-05-02T01:39:08Z</updated>
-    <id>tag:github.com,2023-05-02:/j-fu/VoronoiFVM.jl</id>
-    <link href="https://github.com/j-fu/VoronoiFVM.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solution of nonlinear multiphysics partial differential equation systems using the Voronoi finite volume method&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>udohjeremiah/ProjectEuler.jl</title>
-    <updated>2023-05-02T01:39:08Z</updated>
-    <id>tag:github.com,2023-05-02:/udohjeremiah/ProjectEuler.jl</id>
-    <link href="https://github.com/udohjeremiah/ProjectEuler.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ProjectEuler.jl is a package that allows offline access to challenging mathematical problems from Project Euler through Julia&#39;s REPL. It is a valuable resource for those looking to improve their Julia programming skills while solving interesting mathematical problems.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NREL-Sienna/PowerNetworkMatrices.jl</title>
+    <updated>2023-05-03T01:38:20Z</updated>
+    <id>tag:github.com,2023-05-03:/NREL-Sienna/PowerNetworkMatrices.jl</id>
+    <link href="https://github.com/NREL-Sienna/PowerNetworkMatrices.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Methods to generate matrix representations of power systems matrices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

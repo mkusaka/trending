@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:40:31Z</updated>
+  <updated>2023-05-03T01:39:42Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>khrigo/wordpress-docker</title>
-    <updated>2023-05-02T01:40:31Z</updated>
-    <id>tag:github.com,2023-05-02:/khrigo/wordpress-docker</id>
-    <link href="https://github.com/khrigo/wordpress-docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Wordpress Docker Easiest Way&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>grafana/alpine-docker-image</title>
-    <updated>2023-05-02T01:40:31Z</updated>
-    <id>tag:github.com,2023-05-02:/grafana/alpine-docker-image</id>
-    <link href="https://github.com/grafana/alpine-docker-image" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Alpine Linux Docker image&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>meganukebmp/Switch_90DNS_tester</title>
+    <updated>2023-05-03T01:39:42Z</updated>
+    <id>tag:github.com,2023-05-03:/meganukebmp/Switch_90DNS_tester</id>
+    <link href="https://github.com/meganukebmp/Switch_90DNS_tester" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple homebrew application to test 90DNS or Atmosphere DNS MITM on the switch (https://gitlab.com/a/90dns)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

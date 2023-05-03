@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:46:49Z</updated>
+  <updated>2023-05-03T01:46:38Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>amethystnetwork-dev/Amethyst</title>
-    <updated>2023-05-02T01:46:49Z</updated>
-    <id>tag:github.com,2023-05-02:/amethystnetwork-dev/Amethyst</id>
-    <link href="https://github.com/amethystnetwork-dev/Amethyst" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Amethyst rewrite&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primocms/primo</title>
+    <updated>2023-05-03T01:46:38Z</updated>
+    <id>tag:github.com,2023-05-03:/primocms/primo</id>
+    <link href="https://github.com/primocms/primo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Primo is a next-gen monolithic CMS that makes it a blast to build pages, update content, and edit code a block at a time.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

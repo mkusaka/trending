@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:46:54Z</updated>
+  <updated>2023-05-03T01:46:43Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vapor/console-kit</title>
-    <updated>2023-05-02T01:46:54Z</updated>
-    <id>tag:github.com,2023-05-02:/vapor/console-kit</id>
-    <link href="https://github.com/vapor/console-kit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💻 APIs for creating interactive CLI tools.&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/1342803/75630703-0d65aa80-5bbb-11ea-8f0d-fd2a3e9f0fcb.png&#34; height=&#34;64&#34; alt=&#34;ConsoleKit&#34;&gt; &lt;br&gt; &lt;br&gt; &lt;a href=&#34;https://docs.vapor.codes/4.0/&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/read_the-docs-2196f3.svg?sanitize=true&#34; alt=&#34;Docs&#34;&gt; &lt;/a&gt; &lt;a href=&#34;http://vapor.team&#34;&gt; &lt;img src=&#34;https://img.shields.io/discord/431917998102675485.svg?sanitize=true&#34; alt=&#34;Team Chat&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://raw.githubusercontent.com/vapor/console-kit/main/LICENSE&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/license-MIT-brightgreen.svg?sanitize=true&#34; alt=&#34;MIT License&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://github.com/vapor/console-kit/actions&#34;&gt; &lt;img src=&#34;https://github.com/vapor/console-kit/workflows/test/badge.svg?sanitize=true&#34; alt=&#34;Continuous Integration&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://swift.org&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/swift-5.2-brightgreen.svg?sanitize=true&#34; alt=&#34;Swift 5.2&#34;&gt; &lt;/a&gt; &lt;/p&gt;</summary>
-  </entry>
 </feed>

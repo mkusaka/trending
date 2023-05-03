@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:48:15Z</updated>
+  <updated>2023-05-03T01:48:22Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Exifly/ApiVault</title>
-    <updated>2023-05-02T01:48:15Z</updated>
-    <id>tag:github.com,2023-05-02:/Exifly/ApiVault</id>
-    <link href="https://github.com/Exifly/ApiVault" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Your Gateway To A World Of Public APIs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nextcloud/nextcloud-vue-collections</title>
+    <updated>2023-05-03T01:48:22Z</updated>
+    <id>tag:github.com,2023-05-03:/nextcloud/nextcloud-vue-collections</id>
+    <link href="https://github.com/nextcloud/nextcloud-vue-collections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue component for Nextcloud collections&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TheSpaghettiDetective/obico-server</title>
-    <updated>2023-05-02T01:48:15Z</updated>
-    <id>tag:github.com,2023-05-02:/TheSpaghettiDetective/obico-server</id>
-    <link href="https://github.com/TheSpaghettiDetective/obico-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mate-academy/py-cinema-full-stack</title>
+    <updated>2023-05-03T01:48:22Z</updated>
+    <id>tag:github.com,2023-05-03:/mate-academy/py-cinema-full-stack</id>
+    <link href="https://github.com/mate-academy/py-cinema-full-stack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>a616567126/GPT-WEB-CLIENT</title>
-    <updated>2023-05-02T01:48:15Z</updated>
-    <id>tag:github.com,2023-05-02:/a616567126/GPT-WEB-CLIENT</id>
-    <link href="https://github.com/a616567126/GPT-WEB-CLIENT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于VUE2.0 聊天机器人！支持ChatGPT、文心一言、Bing、sd画图，微信支付，支付宝支付，易支付，公众号引流，邮件注册，阿里云短信注册，后端代码地址：https://github.com/a616567126/GPT-WEB-JAVA🔥&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>szczynk/blog</title>
+    <updated>2023-05-03T01:48:22Z</updated>
+    <id>tag:github.com,2023-05-03:/szczynk/blog</id>
+    <link href="https://github.com/szczynk/blog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My personal blog about anything that i need to talk.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:42:32Z</updated>
+  <updated>2023-05-03T01:41:54Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dss-extensions/dss_capi</title>
-    <updated>2023-05-02T01:42:32Z</updated>
-    <id>tag:github.com,2023-05-02:/dss-extensions/dss_capi</id>
-    <link href="https://github.com/dss-extensions/dss_capi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A multi-platform, customized C-API library for an alternative implementation of OpenDSS (EPRI Distribution System Simulator) aiming for full COM compatibility. Unofficial/unsupported by EPRI, but extensively tested.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinyBigGAMES/AskChatGPT</title>
+    <updated>2023-05-03T01:41:54Z</updated>
+    <id>tag:github.com,2023-05-03:/tinyBigGAMES/AskChatGPT</id>
+    <link href="https://github.com/tinyBigGAMES/AskChatGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Access ChatGPT API from Delphi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

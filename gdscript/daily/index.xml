@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:36:10Z</updated>
+  <updated>2023-05-03T01:34:42Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OctoD/godot-gameplay-systems</title>
-    <updated>2023-05-02T01:36:10Z</updated>
-    <id>tag:github.com,2023-05-02:/OctoD/godot-gameplay-systems</id>
-    <link href="https://github.com/OctoD/godot-gameplay-systems" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚔️ A plugin for Godot to create your gameplay systems easily in a Godot way.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Slabity/LudumDare53</title>
+    <updated>2023-05-03T01:34:42Z</updated>
+    <id>tag:github.com,2023-05-03:/Slabity/LudumDare53</id>
+    <link href="https://github.com/Slabity/LudumDare53" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo for Ludum Dare 53 challenge&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Lila-Kuhlt/Close-Encounters-of-the-Jeff-Kind</title>
-    <updated>2023-05-02T01:36:10Z</updated>
-    <id>tag:github.com,2023-05-02:/Lila-Kuhlt/Close-Encounters-of-the-Jeff-Kind</id>
-    <link href="https://github.com/Lila-Kuhlt/Close-Encounters-of-the-Jeff-Kind" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A game submitted on Ludum Dare 53&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>teddybear082/godot-gordon-freeman</title>
+    <updated>2023-05-03T01:34:42Z</updated>
+    <id>tag:github.com,2023-05-03:/teddybear082/godot-gordon-freeman</id>
+    <link href="https://github.com/teddybear082/godot-gordon-freeman" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot 4 Artificial Intelligence (AI) NPC example project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tameno-01/GodotWigglyAppendage2D</title>
+    <updated>2023-05-03T01:34:42Z</updated>
+    <id>tag:github.com,2023-05-03:/Tameno-01/GodotWigglyAppendage2D</id>
+    <link href="https://github.com/Tameno-01/GodotWigglyAppendage2D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A node for adding long dynamic parts (e.g. tails)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

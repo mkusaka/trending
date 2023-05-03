@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:45:43Z</updated>
+  <updated>2023-05-03T01:45:14Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>stuhlmueller/sine</title>
+    <updated>2023-05-03T01:45:14Z</updated>
+    <id>tag:github.com,2023-05-03:/stuhlmueller/sine</id>
+    <link href="https://github.com/stuhlmueller/sine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental Church implementation that cleanly separates inference and evaluation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-02T01:40:42Z</updated>
+  <updated>2023-05-03T01:39:51Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tousifulhaque/face_detection_adaboost</title>
-    <updated>2023-05-02T01:40:42Z</updated>
-    <id>tag:github.com,2023-05-02:/tousifulhaque/face_detection_adaboost</id>
-    <link href="https://github.com/tousifulhaque/face_detection_adaboost" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a project for my Computer Vision class. In this project I will be implementing a face detection method using leveraging techniques like adaboost, bootstraping and intregal image.The code is written in MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MaCFP/matl-db</title>
-    <updated>2023-05-02T01:40:42Z</updated>
-    <id>tag:github.com,2023-05-02:/MaCFP/matl-db</id>
-    <link href="https://github.com/MaCFP/matl-db" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Condensed Phase Material Database&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
