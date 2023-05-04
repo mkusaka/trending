@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:46:38Z</updated>
+  <updated>2023-05-04T01:46:47Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>primocms/primo</title>
-    <updated>2023-05-03T01:46:38Z</updated>
-    <id>tag:github.com,2023-05-03:/primocms/primo</id>
-    <link href="https://github.com/primocms/primo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Primo is a next-gen monolithic CMS that makes it a blast to build pages, update content, and edit code a block at a time.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jscraftcamp/website</title>
+    <updated>2023-05-04T01:46:47Z</updated>
+    <id>tag:github.com,2023-05-04:/jscraftcamp/website</id>
+    <link href="https://github.com/jscraftcamp/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Website of the JSCraftCamp in Munich&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>erskingardner/nostr-how</title>
+    <updated>2023-05-04T01:46:47Z</updated>
+    <id>tag:github.com,2023-05-04:/erskingardner/nostr-how</id>
+    <link href="https://github.com/erskingardner/nostr-how" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>alsterverse/docs</title>
+    <updated>2023-05-04T01:46:47Z</updated>
+    <id>tag:github.com,2023-05-04:/alsterverse/docs</id>
+    <link href="https://github.com/alsterverse/docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

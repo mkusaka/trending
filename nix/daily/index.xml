@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:40:51Z</updated>
+  <updated>2023-05-04T01:40:46Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dbeley/nixos-config</title>
-    <updated>2023-05-03T01:40:51Z</updated>
-    <id>tag:github.com,2023-05-03:/dbeley/nixos-config</id>
-    <link href="https://github.com/dbeley/nixos-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My NixOS config files.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ninegua/ic-nix</title>
-    <updated>2023-05-03T01:40:51Z</updated>
-    <id>tag:github.com,2023-05-03:/ninegua/ic-nix</id>
-    <link href="https://github.com/ninegua/ic-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Build Internet Computer projects with Nix&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>PetarKirov/dotfiles</title>
-    <updated>2023-05-03T01:40:51Z</updated>
-    <id>tag:github.com,2023-05-03:/PetarKirov/dotfiles</id>
-    <link href="https://github.com/PetarKirov/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal system and $HOME configuration managed by Nix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mhwombat/nix-for-numbskulls</title>
+    <updated>2023-05-04T01:40:46Z</updated>
+    <id>tag:github.com,2023-05-04:/mhwombat/nix-for-numbskulls</id>
+    <link href="https://github.com/mhwombat/nix-for-numbskulls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tutorials and the like.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

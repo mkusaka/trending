@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:30:17Z</updated>
+  <updated>2023-05-04T01:30:25Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PHP-Dominicana/reverse-job-board-for-php</title>
-    <updated>2023-05-03T01:30:17Z</updated>
-    <id>tag:github.com,2023-05-03:/PHP-Dominicana/reverse-job-board-for-php</id>
-    <link href="https://github.com/PHP-Dominicana/reverse-job-board-for-php" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a reverse job board for PHP developers. Instead of companies posting jobs, developers describe their ideal job and companies reach out to them.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>laravel-frontend-presets/tall</title>
+    <updated>2023-05-04T01:30:25Z</updated>
+    <id>tag:github.com,2023-05-04:/laravel-frontend-presets/tall</id>
+    <link href="https://github.com/laravel-frontend-presets/tall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A TALL (Tailwind CSS, Alpine.js, Laravel and Livewire) Preset for Laravel&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

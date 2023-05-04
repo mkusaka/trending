@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub WebAssembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:48:30Z</updated>
+  <updated>2023-05-04T01:48:31Z</updated>
   <subtitle>Daily Trending of WebAssembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jonahsnider/murmurhash-wasm</title>
+    <updated>2023-05-04T01:48:31Z</updated>
+    <id>tag:github.com,2023-05-04:/jonahsnider/murmurhash-wasm</id>
+    <link href="https://github.com/jonahsnider/murmurhash-wasm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MurmurHash in WASM for Node.js and the browser&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

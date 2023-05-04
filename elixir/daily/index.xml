@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:33:44Z</updated>
+  <updated>2023-05-04T01:33:43Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sneako/finch</title>
-    <updated>2023-05-03T01:33:44Z</updated>
-    <id>tag:github.com,2023-05-03:/sneako/finch</id>
-    <link href="https://github.com/sneako/finch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir HTTP client, focused on performance&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>martide/literature</title>
-    <updated>2023-05-03T01:33:44Z</updated>
-    <id>tag:github.com,2023-05-03:/martide/literature</id>
-    <link href="https://github.com/martide/literature" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>choice-form/ut_tesla</title>
-    <updated>2023-05-03T01:33:44Z</updated>
-    <id>tag:github.com,2023-05-03:/choice-form/ut_tesla</id>
-    <link href="https://github.com/choice-form/ut_tesla" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HTTP 库 Tesla 的中间件&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

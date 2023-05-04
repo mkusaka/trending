@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:45:24Z</updated>
+  <updated>2023-05-04T01:45:31Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UnityTechnologies/ShaderGraph_ExampleLibrary</title>
-    <updated>2023-05-03T01:45:24Z</updated>
-    <id>tag:github.com,2023-05-03:/UnityTechnologies/ShaderGraph_ExampleLibrary</id>
-    <link href="https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library of Shaders created using Unity&#39;s Shader Graph.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>SFW-FreeDevelopment/LudumDare53</title>
-    <updated>2023-05-03T01:45:24Z</updated>
-    <id>tag:github.com,2023-05-03:/SFW-FreeDevelopment/LudumDare53</id>
-    <link href="https://github.com/SFW-FreeDevelopment/LudumDare53" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Game jam project for Ludum Dare 53.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

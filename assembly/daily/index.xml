@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:29:58Z</updated>
+  <updated>2023-05-04T01:30:03Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MedhajSarang/COA-SEM-4-2022</title>
+    <updated>2023-05-04T01:30:03Z</updated>
+    <id>tag:github.com,2023-05-04:/MedhajSarang/COA-SEM-4-2022</id>
+    <link href="https://github.com/MedhajSarang/COA-SEM-4-2022" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;You can find all the required codes and software required for COA SEM 4 2022-23 practical&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zsaeed2/ECE120</title>
+    <updated>2023-05-04T01:30:03Z</updated>
+    <id>tag:github.com,2023-05-04:/zsaeed2/ECE120</id>
+    <link href="https://github.com/zsaeed2/ECE120" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Labs from ECE 120&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

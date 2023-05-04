@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:48:22Z</updated>
+  <updated>2023-05-04T01:48:23Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nextcloud/nextcloud-vue-collections</title>
-    <updated>2023-05-03T01:48:22Z</updated>
-    <id>tag:github.com,2023-05-03:/nextcloud/nextcloud-vue-collections</id>
-    <link href="https://github.com/nextcloud/nextcloud-vue-collections" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue component for Nextcloud collections&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mate-academy/py-cinema-full-stack</title>
-    <updated>2023-05-03T01:48:22Z</updated>
-    <id>tag:github.com,2023-05-03:/mate-academy/py-cinema-full-stack</id>
-    <link href="https://github.com/mate-academy/py-cinema-full-stack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>szczynk/blog</title>
-    <updated>2023-05-03T01:48:22Z</updated>
-    <id>tag:github.com,2023-05-03:/szczynk/blog</id>
-    <link href="https://github.com/szczynk/blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal blog about anything that i need to talk.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>themsaid/wink</title>
+    <updated>2023-05-04T01:48:23Z</updated>
+    <id>tag:github.com,2023-05-04:/themsaid/wink</id>
+    <link href="https://github.com/themsaid/wink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Laravel-based publishing platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

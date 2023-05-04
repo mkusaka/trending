@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gleam Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-03T01:34:56Z</updated>
+  <updated>2023-05-04T01:34:58Z</updated>
   <subtitle>Daily Trending of Gleam in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gleam-lang/packages</title>
-    <updated>2023-05-03T01:34:56Z</updated>
-    <id>tag:github.com,2023-05-03:/gleam-lang/packages</id>
-    <link href="https://github.com/gleam-lang/packages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📦 Search for Gleam packages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
