@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-04T01:46:47Z</updated>
+  <updated>2023-05-05T01:46:31Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jscraftcamp/website</title>
-    <updated>2023-05-04T01:46:47Z</updated>
-    <id>tag:github.com,2023-05-04:/jscraftcamp/website</id>
-    <link href="https://github.com/jscraftcamp/website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Website of the JSCraftCamp in Munich&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>erskingardner/nostr-how</title>
-    <updated>2023-05-04T01:46:47Z</updated>
-    <id>tag:github.com,2023-05-04:/erskingardner/nostr-how</id>
-    <link href="https://github.com/erskingardner/nostr-how" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alsterverse/docs</title>
-    <updated>2023-05-04T01:46:47Z</updated>
-    <id>tag:github.com,2023-05-04:/alsterverse/docs</id>
-    <link href="https://github.com/alsterverse/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

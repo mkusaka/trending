@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-04T01:29:01Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-05-05T01:28:07Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pamoroso/free-python-books</title>
-    <updated>2023-05-04T01:29:01Z</updated>
-    <id>tag:github.com,2023-05-04:/pamoroso/free-python-books</id>
-    <link href="https://github.com/pamoroso/free-python-books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Python books free to read online or download&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>darkquasar/AIMOD2</title>
+    <updated>2023-05-05T01:28:07Z</updated>
+    <id>tag:github.com,2023-05-05:/darkquasar/AIMOD2</id>
+    <link href="https://github.com/darkquasar/AIMOD2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adversarial Interception Mission Oriented Discovery and Disruption Framework, or AIMOD2, is a structured threat hunting approach to proactively identify, engage and prevent cyber threats denying or mitigating potential damage to the organization.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>daveshap/AI_Tools_and_Papers</title>
-    <updated>2023-05-04T01:29:01Z</updated>
-    <id>tag:github.com,2023-05-04:/daveshap/AI_Tools_and_Papers</id>
-    <link href="https://github.com/daveshap/AI_Tools_and_Papers" rel="alternate"></link>
+    <title>Alita-ai/AlitaAI</title>
+    <updated>2023-05-05T01:28:07Z</updated>
+    <id>tag:github.com,2023-05-05:/Alita-ai/AlitaAI</id>
+    <link href="https://github.com/Alita-ai/AlitaAI" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jconorgrogan/JamesGPT</title>
-    <updated>2023-05-04T01:29:01Z</updated>
-    <id>tag:github.com,2023-05-04:/jconorgrogan/JamesGPT</id>
-    <link href="https://github.com/jconorgrogan/JamesGPT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jailbreak for ChatGPT: Predict the future, opine on politics and controversial topics, and assess what is true. May help us understand more about LLM Bias&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>youshandefeiyang/live-Url</title>
+    <updated>2023-05-05T01:28:07Z</updated>
+    <id>tag:github.com,2023-05-05:/youshandefeiyang/live-Url</id>
+    <link href="https://github.com/youshandefeiyang/live-Url" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;live-url&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

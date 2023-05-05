@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-04T01:34:43Z</updated>
+  <updated>2023-05-05T01:34:37Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>amckendry2/sokoban-cargo</title>
-    <updated>2023-05-04T01:34:43Z</updated>
-    <id>tag:github.com,2023-05-04:/amckendry2/sokoban-cargo</id>
-    <link href="https://github.com/amckendry2/sokoban-cargo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ldjam 53&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>joshnajera/godot-vim</title>
-    <updated>2023-05-04T01:34:43Z</updated>
-    <id>tag:github.com,2023-05-04:/joshnajera/godot-vim</id>
-    <link href="https://github.com/joshnajera/godot-vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VIM bindings for godot 4&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>abrasivetroop/adaptive-audio-player</title>
-    <updated>2023-05-04T01:34:43Z</updated>
-    <id>tag:github.com,2023-05-04:/abrasivetroop/adaptive-audio-player</id>
-    <link href="https://github.com/abrasivetroop/adaptive-audio-player" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adaptive 3D Spatial Audio for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>krmeet/sound-space-plus</title>
+    <updated>2023-05-05T01:34:37Z</updated>
+    <id>tag:github.com,2023-05-05:/krmeet/sound-space-plus</id>
+    <link href="https://github.com/krmeet/sound-space-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Rhythm-based aim game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-04T01:48:16Z</updated>
+  <updated>2023-05-05T01:47:55Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hesselink/dotfiles</title>
-    <updated>2023-05-04T01:48:16Z</updated>
-    <id>tag:github.com,2023-05-04:/hesselink/dotfiles</id>
-    <link href="https://github.com/hesselink/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My various settings files&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tobyS/toby.vim</title>
-    <updated>2023-05-04T01:48:16Z</updated>
-    <id>tag:github.com,2023-05-04:/tobyS/toby.vim</id>
-    <link href="https://github.com/tobyS/toby.vim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My personal VIM setup&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vext01/theunixzoo-vim-colorscheme</title>
-    <updated>2023-05-04T01:48:16Z</updated>
-    <id>tag:github.com,2023-05-04:/vext01/theunixzoo-vim-colorscheme</id>
-    <link href="https://github.com/vext01/theunixzoo-vim-colorscheme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Edd Barrett&#39;s Autumn Dusk Vim Color Scheme&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
