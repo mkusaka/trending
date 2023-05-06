@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-05T01:43:02Z</updated>
+  <updated>2023-05-06T01:41:52Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jongisli/numbersets</title>
+    <updated>2023-05-06T01:41:52Z</updated>
+    <id>tag:github.com,2023-05-06:/jongisli/numbersets</id>
+    <link href="https://github.com/jongisli/numbersets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Number sets in prolog&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

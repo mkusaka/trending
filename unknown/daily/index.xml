@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-05T01:28:07Z</updated>
+  <updated>2023-05-06T01:27:46Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>darkquasar/AIMOD2</title>
-    <updated>2023-05-05T01:28:07Z</updated>
-    <id>tag:github.com,2023-05-05:/darkquasar/AIMOD2</id>
-    <link href="https://github.com/darkquasar/AIMOD2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Adversarial Interception Mission Oriented Discovery and Disruption Framework, or AIMOD2, is a structured threat hunting approach to proactively identify, engage and prevent cyber threats denying or mitigating potential damage to the organization.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>modularml/mojo</title>
+    <updated>2023-05-06T01:27:46Z</updated>
+    <id>tag:github.com,2023-05-06:/modularml/mojo</id>
+    <link href="https://github.com/modularml/mojo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Mojo Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Alita-ai/AlitaAI</title>
-    <updated>2023-05-05T01:28:07Z</updated>
-    <id>tag:github.com,2023-05-05:/Alita-ai/AlitaAI</id>
-    <link href="https://github.com/Alita-ai/AlitaAI" rel="alternate"></link>
+    <title>openlm-research/open_llama</title>
+    <updated>2023-05-06T01:27:46Z</updated>
+    <id>tag:github.com,2023-05-06:/openlm-research/open_llama</id>
+    <link href="https://github.com/openlm-research/open_llama" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>youshandefeiyang/live-Url</title>
-    <updated>2023-05-05T01:28:07Z</updated>
-    <id>tag:github.com,2023-05-05:/youshandefeiyang/live-Url</id>
-    <link href="https://github.com/youshandefeiyang/live-Url" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;live-url&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sindresorhus/awesome-chatgpt</title>
+    <updated>2023-05-06T01:27:46Z</updated>
+    <id>tag:github.com,2023-05-06:/sindresorhus/awesome-chatgpt</id>
+    <link href="https://github.com/sindresorhus/awesome-chatgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

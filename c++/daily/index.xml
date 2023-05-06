@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-05T01:30:05Z</updated>
+  <updated>2023-05-06T01:29:33Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Z4ee/StarRail-S-GC</title>
+    <updated>2023-05-06T01:29:33Z</updated>
+    <id>tag:github.com,2023-05-06:/Z4ee/StarRail-S-GC</id>
+    <link href="https://github.com/Z4ee/StarRail-S-GC" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Simple cheat for Honkai Star Rail&lt;/h1&gt; &#xA;&lt;p&gt;This repository provides code for a simple cheat for the game Honkai Star Rail. For informational purposes only. Use at your own risk.&lt;/p&gt; &#xA;&lt;h1&gt;Instruction:&lt;/h1&gt; &#xA;&lt;p&gt;What you need to compile:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;minhook&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;After compilation, you will receive a dll that you need to inject into the game immediately after opening&lt;/p&gt; &#xA;&lt;p&gt;You can use Extreme Injector (auto inject) to inject the dll into the game at startup&lt;/p&gt; &#xA;&lt;p&gt;Now you can use speedhack&lt;/p&gt; &#xA;&lt;h1&gt;Functional:&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;speedhack (hotkey: F1) (TOGGLE) (works everywhere)&lt;/li&gt; &#xA; &lt;li&gt;peeking (hotkey: F2) (TOGGLE)&lt;/li&gt; &#xA; &lt;li&gt;fps unlock (hotkey: F3) (TOGGLE)&lt;/li&gt; &#xA; &lt;li&gt;auto battle unlock (hotkey: F4) (TOGGLE) (in some fights it is forbidden to use auto-battle this feature unlocks this)&lt;/li&gt; &#xA; &lt;li&gt;auto dialogue (hotkey: CAPSLOCK) (HOLD)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/113752393/235335594-638626bf-b598-4c60-ab05-852968dfe0a3.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;if it does not work for the Chinese version of the game, then create github issue&lt;/p&gt; &#xA;&lt;h1&gt;cheat engine:&lt;/h1&gt; &#xA;&lt;p&gt;BATTLE SPEED:&lt;/p&gt; &#xA;&lt;p&gt;address: [[&#34;GameAssembly.dll&#34; + 0x8CAA6A0]+ 0xC0] + 0x1DC&lt;/p&gt; &#xA;&lt;p&gt;type: float&lt;/p&gt; &#xA;&lt;p&gt;GLOBAL SPEED: (thx @Gktwo)&lt;/p&gt; &#xA;&lt;p&gt;address: [unityplayer.dll + 0x1D21D78] + 0xFC&lt;/p&gt; &#xA;&lt;p&gt;type: float&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-05T01:42:52Z</updated>
+  <updated>2023-05-06T01:41:47Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>invictus-ir/Microsoft-Extractor-Suite</title>
+    <updated>2023-05-06T01:41:47Z</updated>
+    <id>tag:github.com,2023-05-06:/invictus-ir/Microsoft-Extractor-Suite</id>
+    <link href="https://github.com/invictus-ir/Microsoft-Extractor-Suite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A PowerShell module for acquisition of data from Microsoft 365 and Azure for Incident Response and Cyber Security purposes.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/invictus-ir/Microsoft-Extractor-Suite/raw/main/docs/source/Images/Invictus-Incident-Response.jpg?raw=true&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Getting started with the Microsoft-Extractor-Suite&lt;/h1&gt; &#xA;&lt;p&gt;To get started with the Microsoft-Extractor-Suite, check out the &lt;a href=&#34;https://microsoft-365-extractor-suite.readthedocs.io/en/latest/&#34;&gt;Microsoft-Extractor-Suite docs.&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;About Microsoft-Extractor-Suite&lt;/h2&gt; &#xA;&lt;p&gt;Microsoft-Extractor-Suite is a fully-featured, actively-maintained, Powershell tool designed to streamline the process of collecting all necessary data and information from various sources within Microsoft.&lt;/p&gt; &#xA;&lt;p&gt;The following Microsoft data sources are supported:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Unified Audit Log&lt;/li&gt; &#xA; &lt;li&gt;Admin Audit Log&lt;/li&gt; &#xA; &lt;li&gt;Mailbox Audit Log&lt;/li&gt; &#xA; &lt;li&gt;Mailbox Rules&lt;/li&gt; &#xA; &lt;li&gt;Transport Rules&lt;/li&gt; &#xA; &lt;li&gt;Message Trace Logs&lt;/li&gt; &#xA; &lt;li&gt;Azure AD Sign-In Logs&lt;/li&gt; &#xA; &lt;li&gt;Azure AD Audit Logs&lt;/li&gt; &#xA; &lt;li&gt;Registered OAuth applications in Azure AD&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Microsoft-Extractor-Suite was created by Joey Rentenaar and Korstiaan Stam and is maintained by the &lt;a href=&#34;https://www.invictus-ir.com/&#34;&gt;Invcitus IR&lt;/a&gt; team.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;To get started with the Microsoft-Extractor-Suite tool, make sure the requirements are met. If you do not have the Connect-ExchangeOnline or/and Connect-AzureAD installed check &lt;a href=&#34;https://microsoft-365-extractor-suite.readthedocs.io/en/latest/installation/Installation.html&#34;&gt;the installation guide.&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The first step is to import the Microsoft-Extractor-Suite:&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Import-Module .\Microsoft-Extractor-Suite.psd1&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;You must sign-in to Microsoft 365 or Azure depending on your use case before running the functions. To sign in, use the cmdlets:&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Connect-M365&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Connect-Azure&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mohan741/RDPNEW</title>
+    <updated>2023-05-06T01:41:47Z</updated>
+    <id>tag:github.com,2023-05-06:/Mohan741/RDPNEW</id>
+    <link href="https://github.com/Mohan741/RDPNEW" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mohan&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WINRDP&lt;/h1&gt; &#xA;&lt;p&gt;WELLCOME TO DEVIL HACKS How to use&lt;/p&gt; &#xA;&lt;p&gt;Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.&lt;/p&gt; &#xA;&lt;p&gt;Input the following code in the fields.&lt;/p&gt; &#xA;&lt;p&gt;Get the Windows (Powershell) command from here:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://file.technicalatg.com/K5dr&#34;&gt;https://file.technicalatg.com/K5dr&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Enter you Six digit Pin code to Login&lt;/p&gt; &#xA;&lt;p&gt;(Any Six digit Pin)&lt;/p&gt; &#xA;&lt;p&gt;Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.&lt;/p&gt;</summary>
+  </entry>
 </feed>

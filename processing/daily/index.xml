@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-05T01:42:46Z</updated>
+  <updated>2023-05-06T01:41:42Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>okdalto/VisualizeMNIST</title>
+    <updated>2023-05-06T01:41:42Z</updated>
+    <id>tag:github.com,2023-05-06:/okdalto/VisualizeMNIST</id>
+    <link href="https://github.com/okdalto/VisualizeMNIST" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project is real-time visualization of a network recognizing digits from user&#39;s input.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>UoB-COMSM0110/2023-group-18</title>
+    <updated>2023-05-06T01:41:42Z</updated>
+    <id>tag:github.com,2023-05-06:/UoB-COMSM0110/2023-group-18</id>
+    <link href="https://github.com/UoB-COMSM0110/2023-group-18" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

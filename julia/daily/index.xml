@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-05T01:37:59Z</updated>
+  <updated>2023-05-06T01:36:54Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rafaqz/SegmentAnything.jl</title>
+    <updated>2023-05-06T01:36:54Z</updated>
+    <id>tag:github.com,2023-05-06:/rafaqz/SegmentAnything.jl</id>
+    <link href="https://github.com/rafaqz/SegmentAnything.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;segment-anything wrapped for Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>YichengDWu/MoYe.jl</title>
+    <updated>2023-05-06T01:36:54Z</updated>
+    <id>tag:github.com,2023-05-06:/YichengDWu/MoYe.jl</id>
+    <link href="https://github.com/YichengDWu/MoYe.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Layout Algebra on GPU in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaReach/ClosedLoopReachability.jl</title>
+    <updated>2023-05-06T01:36:54Z</updated>
+    <id>tag:github.com,2023-05-06:/JuliaReach/ClosedLoopReachability.jl</id>
+    <link href="https://github.com/JuliaReach/ClosedLoopReachability.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reachability analysis for closed-loop control systems&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
