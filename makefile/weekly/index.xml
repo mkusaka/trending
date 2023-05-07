@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Makefile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-07T01:59:38Z</updated>
+  <subtitle>Weekly Trending of Makefile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DHDAXCW/OpenWRT_x86_x64</title>
+    <updated>2023-05-07T01:59:38Z</updated>
+    <id>tag:github.com,2023-05-07:/DHDAXCW/OpenWRT_x86_x64</id>
+    <link href="https://github.com/DHDAXCW/OpenWRT_x86_x64" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 Lean&amp;Lienol 源码的 x86 的 OpenWrt 固件。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>immortalwrt/packages</title>
+    <updated>2023-05-07T01:59:38Z</updated>
+    <id>tag:github.com,2023-05-07:/immortalwrt/packages</id>
+    <link href="https://github.com/immortalwrt/packages" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Community maintained packages for ImmortalWrt.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

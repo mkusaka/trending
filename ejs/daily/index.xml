@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-06T01:32:41Z</updated>
+  <updated>2023-05-07T01:35:03Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>farid-ramy/DSK-JF</title>
-    <updated>2023-05-06T01:32:41Z</updated>
-    <id>tag:github.com,2023-05-06:/farid-ramy/DSK-JF</id>
-    <link href="https://github.com/farid-ramy/DSK-JF" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DeliveryGo/DeliveryGo</title>
-    <updated>2023-05-06T01:32:41Z</updated>
-    <id>tag:github.com,2023-05-06:/DeliveryGo/DeliveryGo</id>
-    <link href="https://github.com/DeliveryGo/DeliveryGo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Th30neAnd0nly/Psi</title>
-    <updated>2023-05-06T01:32:41Z</updated>
-    <id>tag:github.com,2023-05-06:/Th30neAnd0nly/Psi</id>
-    <link href="https://github.com/Th30neAnd0nly/Psi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hack Camera and Location through link.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub D Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-07T01:53:17Z</updated>
+  <subtitle>Weekly Trending of D in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ylegall/Dmise</title>
+    <updated>2023-05-07T01:53:17Z</updated>
+    <id>tag:github.com,2023-05-07:/ylegall/Dmise</id>
+    <link href="https://github.com/ylegall/Dmise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2D game using Derelict3 (D SDL2 bindings)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

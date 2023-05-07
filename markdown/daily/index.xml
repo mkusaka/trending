@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-06T01:38:32Z</updated>
+  <updated>2023-05-07T01:40:51Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hoochanlon/NeiJuan</title>
-    <updated>2023-05-06T01:38:32Z</updated>
-    <id>tag:github.com,2023-05-06:/hoochanlon/NeiJuan</id>
-    <link href="https://github.com/hoochanlon/NeiJuan" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💾 内卷！ChatGPT、Google产品等各类镜像与SS/V2/Clash/QuanX网络链，行业研究报告的知识储备库&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pythoniaweb/statusboom</title>
-    <updated>2023-05-06T01:38:32Z</updated>
-    <id>tag:github.com,2023-05-06:/pythoniaweb/statusboom</id>
-    <link href="https://github.com/pythoniaweb/statusboom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for plurryt, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

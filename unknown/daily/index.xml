@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-06T01:27:46Z</updated>
+  <updated>2023-05-07T01:29:16Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>modularml/mojo</title>
-    <updated>2023-05-06T01:27:46Z</updated>
-    <id>tag:github.com,2023-05-06:/modularml/mojo</id>
-    <link href="https://github.com/modularml/mojo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Mojo Programming Language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JushBJJ/Mr.-Ranedeer-AI-Tutor</title>
+    <updated>2023-05-07T01:29:16Z</updated>
+    <id>tag:github.com,2023-05-07:/JushBJJ/Mr.-Ranedeer-AI-Tutor</id>
+    <link href="https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>openlm-research/open_llama</title>
-    <updated>2023-05-06T01:27:46Z</updated>
-    <id>tag:github.com,2023-05-06:/openlm-research/open_llama</id>
-    <link href="https://github.com/openlm-research/open_llama" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bad1dea/NXCheats</title>
+    <updated>2023-05-07T01:29:16Z</updated>
+    <id>tag:github.com,2023-05-07:/bad1dea/NXCheats</id>
+    <link href="https://github.com/bad1dea/NXCheats" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for cheats I&#39;ve made or worked on for the switch.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sindresorhus/awesome-chatgpt</title>
-    <updated>2023-05-06T01:27:46Z</updated>
-    <id>tag:github.com,2023-05-06:/sindresorhus/awesome-chatgpt</id>
-    <link href="https://github.com/sindresorhus/awesome-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>melodysdreamj/WizardVicunaLM</title>
+    <updated>2023-05-07T01:29:16Z</updated>
+    <id>tag:github.com,2023-05-07:/melodysdreamj/WizardVicunaLM</id>
+    <link href="https://github.com/melodysdreamj/WizardVicunaLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LLM that combines the principles of wizardLM and vicunaLM&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

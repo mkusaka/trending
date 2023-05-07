@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-07T01:58:19Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CliMA/diffusion-bridge-downscaling</title>
+    <updated>2023-05-07T01:58:19Z</updated>
+    <id>tag:github.com,2023-05-07:/CliMA/diffusion-bridge-downscaling</id>
+    <link href="https://github.com/CliMA/diffusion-bridge-downscaling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code to recreate results from &#34;Unpaired Downscaling of Fluid Flows with Diffusion Bridges&#34;, Bischoff &amp; Deck (2023).&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>add-my-pet/DEBtool_J.jl</title>
+    <updated>2023-05-07T01:58:19Z</updated>
+    <id>tag:github.com,2023-05-07:/add-my-pet/DEBtool_J.jl</id>
+    <link href="https://github.com/add-my-pet/DEBtool_J.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beta version of DEBtool_M coded in Julia language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

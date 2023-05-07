@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-07T02:07:36Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Kuingsmile/word-GPT-Plus</title>
+    <updated>2023-05-07T02:07:36Z</updated>
+    <id>tag:github.com,2023-05-07:/Kuingsmile/word-GPT-Plus</id>
+    <link href="https://github.com/Kuingsmile/word-GPT-Plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Thecosy/IceCMS</title>
+    <updated>2023-05-07T02:07:36Z</updated>
+    <id>tag:github.com,2023-05-07:/Thecosy/IceCMS</id>
+    <link href="https://github.com/Thecosy/IceCMS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ccfddl/ccf-deadlines</title>
+    <updated>2023-05-07T02:07:36Z</updated>
+    <id>tag:github.com,2023-05-07:/ccfddl/ccf-deadlines</id>
+    <link href="https://github.com/ccfddl/ccf-deadlines" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

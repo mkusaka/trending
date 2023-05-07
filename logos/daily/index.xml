@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-06T01:37:58Z</updated>
+  <updated>2023-05-07T01:40:21Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pottedmeat7/darkBeat</title>
-    <updated>2023-05-06T01:37:58Z</updated>
-    <id>tag:github.com,2023-05-06:/pottedmeat7/darkBeat</id>
-    <link href="https://github.com/pottedmeat7/darkBeat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;gamemadeforglobalgamejam&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

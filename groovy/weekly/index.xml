@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-07T01:56:09Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SymmetricDevs/Supersymmetry</title>
+    <updated>2023-05-07T01:56:09Z</updated>
+    <id>tag:github.com,2023-05-07:/SymmetricDevs/Supersymmetry</id>
+    <link href="https://github.com/SymmetricDevs/Supersymmetry" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for the Supersymmetry Minecraft Modpack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>avantic/CodeGenerator</title>
+    <updated>2023-05-07T01:56:09Z</updated>
+    <id>tag:github.com,2023-05-07:/avantic/CodeGenerator</id>
+    <link href="https://github.com/avantic/CodeGenerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proyecto para la generación automática de código en aplicaciones Spring MVC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>heikkiv/thomas</title>
+    <updated>2023-05-07T01:56:09Z</updated>
+    <id>tag:github.com,2023-05-07:/heikkiv/thomas</id>
+    <link href="https://github.com/heikkiv/thomas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bayesian document classifier written in Groovy&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

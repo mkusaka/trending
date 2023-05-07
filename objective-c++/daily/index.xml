@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-06T01:39:55Z</updated>
+  <updated>2023-05-07T01:42:11Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>readyplayerme/rpm-unity-sdk-webview</title>
-    <updated>2023-05-06T01:39:55Z</updated>
-    <id>tag:github.com,2023-05-06:/readyplayerme/rpm-unity-sdk-webview</id>
-    <link href="https://github.com/readyplayerme/rpm-unity-sdk-webview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WebView helps you display an in-engine browser that helps you load RPM website where you can create avatars and receive avatar URL at the end of the process.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eldade/GPUZipCracker</title>
+    <updated>2023-05-07T01:42:11Z</updated>
+    <id>tag:github.com,2023-05-07:/eldade/GPUZipCracker</id>
+    <link href="https://github.com/eldade/GPUZipCracker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A macOS GPU-accelerated encrypted ZIP archive cracking tool.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-07T01:55:12Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BL-MSCH-C220/Exercise-05c-Materials</title>
+    <updated>2023-05-07T01:55:12Z</updated>
+    <id>tag:github.com,2023-05-07:/BL-MSCH-C220/Exercise-05c-Materials</id>
+    <link href="https://github.com/BL-MSCH-C220/Exercise-05c-Materials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercise for MSCH-C220&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>notapixelstudio/superstarfighter</title>
+    <updated>2023-05-07T01:55:12Z</updated>
+    <id>tag:github.com,2023-05-07:/notapixelstudio/superstarfighter</id>
+    <link href="https://github.com/notapixelstudio/superstarfighter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A fast-paced local party game with starships that battle in a 2d top-down arena&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>BL-MSCH-C220/Godot-3D-Template</title>
+    <updated>2023-05-07T01:55:12Z</updated>
+    <id>tag:github.com,2023-05-07:/BL-MSCH-C220/Godot-3D-Template</id>
+    <link href="https://github.com/BL-MSCH-C220/Godot-3D-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A starting place for 3D games in Godot&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

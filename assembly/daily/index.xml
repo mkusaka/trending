@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-06T01:28:37Z</updated>
+  <updated>2023-05-07T01:30:01Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thetuh/anticheat-poc</title>
-    <updated>2023-05-06T01:28:37Z</updated>
-    <id>tag:github.com,2023-05-06:/thetuh/anticheat-poc</id>
-    <link href="https://github.com/thetuh/anticheat-poc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Proof of concept user mode anti-cheat&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>callofduty4x/CoD4x_Client_new</title>
+    <updated>2023-05-07T01:30:01Z</updated>
+    <id>tag:github.com,2023-05-07:/callofduty4x/CoD4x_Client_new</id>
+    <link href="https://github.com/callofduty4x/CoD4x_Client_new" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lifenoodles/nes-pong</title>
+    <updated>2023-05-07T01:30:01Z</updated>
+    <id>tag:github.com,2023-05-07:/lifenoodles/nes-pong</id>
+    <link href="https://github.com/lifenoodles/nes-pong" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pong clone for the NES written in 6502 assembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

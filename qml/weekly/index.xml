@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub QML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-07T02:03:13Z</updated>
+  <subtitle>Weekly Trending of QML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SolDoesTech/HyprV3</title>
+    <updated>2023-05-07T02:03:13Z</updated>
+    <id>tag:github.com,2023-05-07:/SolDoesTech/HyprV3</id>
+    <link href="https://github.com/SolDoesTech/HyprV3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;V3 of Hyprland install script for arch&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

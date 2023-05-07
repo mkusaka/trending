@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-07T01:52:24Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cloudaloe/ringer</title>
+    <updated>2023-05-07T01:52:24Z</updated>
+    <id>tag:github.com,2023-05-07:/cloudaloe/ringer</id>
+    <link href="https://github.com/cloudaloe/ringer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>danburkert/codeqhub</title>
+    <updated>2023-05-07T01:52:24Z</updated>
+    <id>tag:github.com,2023-05-07:/danburkert/codeqhub</id>
+    <link href="https://github.com/danburkert/codeqhub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cgag/aleph-testing</title>
+    <updated>2023-05-07T01:52:24Z</updated>
+    <id>tag:github.com,2023-05-07:/cgag/aleph-testing</id>
+    <link href="https://github.com/cgag/aleph-testing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playing around with Aleph&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

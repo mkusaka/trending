@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-06T01:33:33Z</updated>
+  <updated>2023-05-07T01:35:59Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jacobwilliams/json-fortran</title>
-    <updated>2023-05-06T01:33:33Z</updated>
-    <id>tag:github.com,2023-05-06:/jacobwilliams/json-fortran</id>
-    <link href="https://github.com/jacobwilliams/json-fortran" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Modern Fortran JSON API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QuantumPackage/qp2</title>
+    <updated>2023-05-07T01:35:59Z</updated>
+    <id>tag:github.com,2023-05-07:/QuantumPackage/qp2</id>
+    <link href="https://github.com/QuantumPackage/qp2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quantum Package : a programming environment for wave function methods&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
