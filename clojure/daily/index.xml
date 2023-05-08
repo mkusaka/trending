@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:32:08Z</updated>
+  <updated>2023-05-08T01:31:44Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cnuernber/charred</title>
+    <updated>2023-05-08T01:31:44Z</updated>
+    <id>tag:github.com,2023-05-08:/cnuernber/charred</id>
+    <link href="https://github.com/cnuernber/charred" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;zero dependency efficient read/write of json and csv data.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>threatgrid/ctia</title>
+    <updated>2023-05-08T01:31:44Z</updated>
+    <id>tag:github.com,2023-05-08:/threatgrid/ctia</id>
+    <link href="https://github.com/threatgrid/ctia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cisco Threat Intelligence API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>avelino/bots.clj.social</title>
+    <updated>2023-05-08T01:31:44Z</updated>
+    <id>tag:github.com,2023-05-08:/avelino/bots.clj.social</id>
+    <link href="https://github.com/avelino/bots.clj.social" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Feed process and public on mastodon (fediverse clj.social)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

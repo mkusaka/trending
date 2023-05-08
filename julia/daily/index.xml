@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:39:23Z</updated>
+  <updated>2023-05-08T01:39:18Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GenieFramework/CodeAI.jl</title>
-    <updated>2023-05-07T01:39:23Z</updated>
-    <id>tag:github.com,2023-05-07:/GenieFramework/CodeAI.jl</id>
-    <link href="https://github.com/GenieFramework/CodeAI.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI code generator based on OpenAI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tshort/WebAssemblyInterfaces.jl</title>
+    <updated>2023-05-08T01:39:18Z</updated>
+    <id>tag:github.com,2023-05-08:/tshort/WebAssemblyInterfaces.jl</id>
+    <link href="https://github.com/tshort/WebAssemblyInterfaces.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Setup code to interface between JavaScript and Julia compiled to WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaCI/Coverage.jl</title>
-    <updated>2023-05-07T01:39:23Z</updated>
-    <id>tag:github.com,2023-05-07:/JuliaCI/Coverage.jl</id>
-    <link href="https://github.com/JuliaCI/Coverage.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Take Julia code coverage and memory allocation results, do useful things with them&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tkf/Kaleido.jl</title>
+    <updated>2023-05-08T01:39:18Z</updated>
+    <id>tag:github.com,2023-05-08:/tkf/Kaleido.jl</id>
+    <link href="https://github.com/tkf/Kaleido.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Some useful lenses&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

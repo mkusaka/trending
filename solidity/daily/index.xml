@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:47:03Z</updated>
+  <updated>2023-05-08T01:48:32Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-05-ajna</title>
-    <updated>2023-05-07T01:47:03Z</updated>
-    <id>tag:github.com,2023-05-07:/code-423n4/2023-05-ajna</id>
-    <link href="https://github.com/code-423n4/2023-05-ajna" rel="alternate"></link>
+    <title>holomev/MevBot</title>
+    <updated>2023-05-08T01:48:32Z</updated>
+    <id>tag:github.com,2023-05-08:/holomev/MevBot</id>
+    <link href="https://github.com/holomev/MevBot" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sandwicheth/mev-bot-solidity</title>
-    <updated>2023-05-07T01:47:03Z</updated>
-    <id>tag:github.com,2023-05-07:/sandwicheth/mev-bot-solidity</id>
-    <link href="https://github.com/sandwicheth/mev-bot-solidity" rel="alternate"></link>
+    <title>ExtropyIO/GasOptimisationFoundry</title>
+    <updated>2023-05-08T01:48:32Z</updated>
+    <id>tag:github.com,2023-05-08:/ExtropyIO/GasOptimisationFoundry</id>
+    <link href="https://github.com/ExtropyIO/GasOptimisationFoundry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

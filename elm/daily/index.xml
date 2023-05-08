@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:35:10Z</updated>
+  <updated>2023-05-08T01:34:05Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terrybrash/grifter</title>
+    <updated>2023-05-08T01:34:05Z</updated>
+    <id>tag:github.com,2023-05-08:/terrybrash/grifter</id>
+    <link href="https://github.com/terrybrash/grifter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Access your video game library from anywhere&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

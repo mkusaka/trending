@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:46:21Z</updated>
+  <updated>2023-05-08T01:47:27Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Saltssaumure/pios-discord-theme</title>
-    <updated>2023-05-07T01:46:21Z</updated>
-    <id>tag:github.com,2023-05-07:/Saltssaumure/pios-discord-theme</id>
-    <link href="https://github.com/Saltssaumure/pios-discord-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A SUPERHOT piOS inspired Discord theme.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aguirre-valeria/educando-ecommerce</title>
-    <updated>2023-05-07T01:46:21Z</updated>
-    <id>tag:github.com,2023-05-07:/aguirre-valeria/educando-ecommerce</id>
-    <link href="https://github.com/aguirre-valeria/educando-ecommerce" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Gentleman-Programming/gentleman-programming-web</title>
+    <updated>2023-05-08T01:47:27Z</updated>
+    <id>tag:github.com,2023-05-08:/Gentleman-Programming/gentleman-programming-web</id>
+    <link href="https://github.com/Gentleman-Programming/gentleman-programming-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sitio web de la comunidad de Gentleman Programming&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:46:24Z</updated>
+  <updated>2023-05-08T01:47:31Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Dandarawy/Unity3DCrossSectionShader</title>
+    <updated>2023-05-08T01:47:31Z</updated>
+    <id>tag:github.com,2023-05-08:/Dandarawy/Unity3DCrossSectionShader</id>
+    <link href="https://github.com/Dandarawy/Unity3DCrossSectionShader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CG shader for unity3D to create a cross section through meshes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>P2-SafeSpace/Jam-Coders</title>
+    <updated>2023-05-08T01:47:31Z</updated>
+    <id>tag:github.com,2023-05-08:/P2-SafeSpace/Jam-Coders</id>
+    <link href="https://github.com/P2-SafeSpace/Jam-Coders" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

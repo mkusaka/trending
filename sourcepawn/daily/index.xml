@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SourcePawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:47:00Z</updated>
+  <updated>2023-05-08T01:48:26Z</updated>
   <subtitle>Daily Trending of SourcePawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SirPlease/L4D2-Competitive-Rework</title>
-    <updated>2023-05-07T01:47:00Z</updated>
-    <id>tag:github.com,2023-05-07:/SirPlease/L4D2-Competitive-Rework</id>
-    <link href="https://github.com/SirPlease/L4D2-Competitive-Rework" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Just refreshing and optimizing the core files a bit, eh?&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

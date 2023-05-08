@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:41:53Z</updated>
+  <updated>2023-05-08T01:42:31Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>thexyno/nixos-config</title>
-    <updated>2023-05-07T01:41:53Z</updated>
-    <id>tag:github.com,2023-05-07:/thexyno/nixos-config</id>
-    <link href="https://github.com/thexyno/nixos-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my nixos/nix-darwin configurations&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apibara/dna</title>
+    <updated>2023-05-08T01:42:31Z</updated>
+    <id>tag:github.com,2023-05-08:/apibara/dna</id>
+    <link href="https://github.com/apibara/dna" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source platform to stream and transform on-chain data.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

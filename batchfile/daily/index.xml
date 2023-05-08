@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:30:15Z</updated>
+  <updated>2023-05-08T01:30:22Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OpenBuddy/OpenBuddy</title>
-    <updated>2023-05-07T01:30:15Z</updated>
-    <id>tag:github.com,2023-05-07:/OpenBuddy/OpenBuddy</id>
-    <link href="https://github.com/OpenBuddy/OpenBuddy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open Multilingual Chatbot for Everyone&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Illusionghost/aws-rdp</title>
+    <updated>2023-05-08T01:30:22Z</updated>
+    <id>tag:github.com,2023-05-08:/Illusionghost/aws-rdp</id>
+    <link href="https://github.com/Illusionghost/aws-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free aws rdp.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

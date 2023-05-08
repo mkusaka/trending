@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LLVM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:40:19Z</updated>
+  <updated>2023-05-08T01:40:33Z</updated>
   <subtitle>Daily Trending of LLVM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Veridise/Vanguard</title>
-    <updated>2023-05-07T01:40:19Z</updated>
-    <id>tag:github.com,2023-05-07:/Veridise/Vanguard</id>
-    <link href="https://github.com/Veridise/Vanguard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Houses LLVM static analyzer and detectors for smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

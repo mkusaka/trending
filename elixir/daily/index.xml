@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:35:07Z</updated>
+  <updated>2023-05-08T01:34:04Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jsonmaur/phoenix-pages</title>
-    <updated>2023-05-07T01:35:07Z</updated>
-    <id>tag:github.com,2023-05-07:/jsonmaur/phoenix-pages</id>
-    <link href="https://github.com/jsonmaur/phoenix-pages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blogs, docs, and static pages in Phoenix&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>alanvardy/exzeitable</title>
-    <updated>2023-05-07T01:35:07Z</updated>
-    <id>tag:github.com,2023-05-07:/alanvardy/exzeitable</id>
-    <link href="https://github.com/alanvardy/exzeitable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Dynamically updating, searchable, sortable datatables with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>extism/game_box</title>
-    <updated>2023-05-07T01:35:07Z</updated>
-    <id>tag:github.com,2023-05-07:/extism/game_box</id>
-    <link href="https://github.com/extism/game_box" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Work in progress extism demo&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ash-project/ash_json_api</title>
+    <updated>2023-05-08T01:34:04Z</updated>
+    <id>tag:github.com,2023-05-08:/ash-project/ash_json_api</id>
+    <link href="https://github.com/ash-project/ash_json_api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A JSON:API extension for the Ash Framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

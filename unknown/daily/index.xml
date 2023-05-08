@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-07T01:29:16Z</updated>
+  <updated>2023-05-08T01:29:18Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JushBJJ/Mr.-Ranedeer-AI-Tutor</title>
-    <updated>2023-05-07T01:29:16Z</updated>
-    <id>tag:github.com,2023-05-07:/JushBJJ/Mr.-Ranedeer-AI-Tutor</id>
-    <link href="https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>binarly-io/SupplyChainAttacks</title>
+    <updated>2023-05-08T01:29:18Z</updated>
+    <id>tag:github.com,2023-05-08:/binarly-io/SupplyChainAttacks</id>
+    <link href="https://github.com/binarly-io/SupplyChainAttacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bad1dea/NXCheats</title>
-    <updated>2023-05-07T01:29:16Z</updated>
-    <id>tag:github.com,2023-05-07:/bad1dea/NXCheats</id>
-    <link href="https://github.com/bad1dea/NXCheats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for cheats I&#39;ve made or worked on for the switch.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>eugeneyan/open-llms</title>
+    <updated>2023-05-08T01:29:18Z</updated>
+    <id>tag:github.com,2023-05-08:/eugeneyan/open-llms</id>
+    <link href="https://github.com/eugeneyan/open-llms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 A list of open LLMs available for commercial use.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>melodysdreamj/WizardVicunaLM</title>
-    <updated>2023-05-07T01:29:16Z</updated>
-    <id>tag:github.com,2023-05-07:/melodysdreamj/WizardVicunaLM</id>
-    <link href="https://github.com/melodysdreamj/WizardVicunaLM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LLM that combines the principles of wizardLM and vicunaLM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>knownsec/404StarLink</title>
+    <updated>2023-05-08T01:29:18Z</updated>
+    <id>tag:github.com,2023-05-08:/knownsec/404StarLink</id>
+    <link href="https://github.com/knownsec/404StarLink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
