@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:30:03Z</updated>
+  <updated>2023-05-09T01:29:47Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ekarmore/ekar.site</title>
+    <updated>2023-05-09T01:29:47Z</updated>
+    <id>tag:github.com,2023-05-09:/Ekarmore/ekar.site</id>
+    <link href="https://github.com/Ekarmore/ekar.site" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My Personal Website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tcet-opensource/tcet-linux-website</title>
+    <updated>2023-05-09T01:29:47Z</updated>
+    <id>tag:github.com,2023-05-09:/tcet-opensource/tcet-linux-website</id>
+    <link href="https://github.com/tcet-opensource/tcet-linux-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Website of TCET Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:29:18Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-05-09T01:29:08Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>binarly-io/SupplyChainAttacks</title>
-    <updated>2023-05-08T01:29:18Z</updated>
-    <id>tag:github.com,2023-05-08:/binarly-io/SupplyChainAttacks</id>
-    <link href="https://github.com/binarly-io/SupplyChainAttacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dezem/SAK</title>
+    <updated>2023-05-09T01:29:08Z</updated>
+    <id>tag:github.com,2023-05-09:/dezem/SAK</id>
+    <link href="https://github.com/dezem/SAK" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Switch Army Knife (SAK)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>eugeneyan/open-llms</title>
-    <updated>2023-05-08T01:29:18Z</updated>
-    <id>tag:github.com,2023-05-08:/eugeneyan/open-llms</id>
-    <link href="https://github.com/eugeneyan/open-llms" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🤖 A list of open LLMs available for commercial use.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>datastacktv/data-engineer-roadmap</title>
+    <updated>2023-05-09T01:29:08Z</updated>
+    <id>tag:github.com,2023-05-09:/datastacktv/data-engineer-roadmap</id>
+    <link href="https://github.com/datastacktv/data-engineer-roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Roadmap to becoming a data engineer in 2021&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>knownsec/404StarLink</title>
-    <updated>2023-05-08T01:29:18Z</updated>
-    <id>tag:github.com,2023-05-08:/knownsec/404StarLink</id>
-    <link href="https://github.com/knownsec/404StarLink" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cncf/mentoring</title>
+    <updated>2023-05-09T01:29:08Z</updated>
+    <id>tag:github.com,2023-05-09:/cncf/mentoring</id>
+    <link href="https://github.com/cncf/mentoring" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

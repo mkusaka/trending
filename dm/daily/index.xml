@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub DM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:33:24Z</updated>
+  <updated>2023-05-09T01:35:29Z</updated>
   <subtitle>Daily Trending of DM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>effigy-se/effigy-se</title>
-    <updated>2023-05-08T01:33:24Z</updated>
-    <id>tag:github.com,2023-05-08:/effigy-se/effigy-se</id>
-    <link href="https://github.com/effigy-se/effigy-se" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Foundation-19/Hail-Mary</title>
-    <updated>2023-05-08T01:33:24Z</updated>
-    <id>tag:github.com,2023-05-08:/Foundation-19/Hail-Mary</id>
-    <link href="https://github.com/Foundation-19/Hail-Mary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for Project &#34;Hail Mary&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ss220club/Skyrat-tg</title>
+    <updated>2023-05-09T01:35:29Z</updated>
+    <id>tag:github.com,2023-05-09:/ss220club/Skyrat-tg</id>
+    <link href="https://github.com/ss220club/Skyrat-tg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A skyrat downstream of /tg/station SS13.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

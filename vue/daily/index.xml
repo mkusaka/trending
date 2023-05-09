@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:51:08Z</updated>
+  <updated>2023-05-09T01:50:02Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>P1kaj1uu/VIP-Video-Parsing</title>
+    <updated>2023-05-09T01:50:02Z</updated>
+    <id>tag:github.com,2023-05-09:/P1kaj1uu/VIP-Video-Parsing</id>
+    <link href="https://github.com/P1kaj1uu/VIP-Video-Parsing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;本项目已接入ChatGPT服务(无需再代理和APIKey)，同时支持腾讯视频、爱奇艺、优酷、芒果TV、哔哩哔哩、网易云音乐等平台会员视频破解可在线解析和论文降重（目前适用于PC端，移动端适配还正在做）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Groundhog-Chen/vue-material-admin</title>
+    <updated>2023-05-09T01:50:02Z</updated>
+    <id>tag:github.com,2023-05-09:/Groundhog-Chen/vue-material-admin</id>
+    <link href="https://github.com/Groundhog-Chen/vue-material-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 Vue3 Vuetify 免费开源的中后台模版&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FISHers6/QuickAI</title>
+    <updated>2023-05-09T01:50:02Z</updated>
+    <id>tag:github.com,2023-05-09:/FISHers6/QuickAI</id>
+    <link href="https://github.com/FISHers6/QuickAI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QuickAI是一款基于OpenAI开发的电脑版ChatGPT PC跨平台应用程序，它可以提供划词提问、快捷搜索、对话模式和快捷指令等多种功能。旨在为用户提供更便捷、更智能的PC桌面版AI使用体验。在使用时无需下载额外软件，适用于各种场景，如代码自动编辑、文件自动输入、提问、聊天软件自动回复等。QuickAI is a ChatGPT PC Program, support Windows, MacOS, Linux&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

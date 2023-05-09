@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:36:15Z</updated>
+  <updated>2023-05-09T01:38:37Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>manikcloud/DevOps-Tutorial</title>
-    <updated>2023-05-08T01:36:15Z</updated>
-    <id>tag:github.com,2023-05-08:/manikcloud/DevOps-Tutorial</id>
-    <link href="https://github.com/manikcloud/DevOps-Tutorial" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DevOps-Tutorial&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gardener/kubify-openstack-template</title>
+    <updated>2023-05-09T01:38:37Z</updated>
+    <id>tag:github.com,2023-05-09:/gardener/kubify-openstack-template</id>
+    <link href="https://github.com/gardener/kubify-openstack-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for Openstack Kubernetes Cluster Setup using Kubify&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Azure/terraform-azure-mdc-defender-plans-azure</title>
-    <updated>2023-05-08T01:36:15Z</updated>
-    <id>tag:github.com,2023-05-08:/Azure/terraform-azure-mdc-defender-plans-azure</id>
-    <link href="https://github.com/Azure/terraform-azure-mdc-defender-plans-azure" rel="alternate"></link>
+    <title>Azure-Terraform/terraform-helm-linkerd</title>
+    <updated>2023-05-09T01:38:37Z</updated>
+    <id>tag:github.com,2023-05-09:/Azure-Terraform/terraform-helm-linkerd</id>
+    <link href="https://github.com/Azure-Terraform/terraform-helm-linkerd" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

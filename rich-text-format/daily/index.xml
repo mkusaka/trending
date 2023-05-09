@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:46:29Z</updated>
+  <updated>2023-05-09T01:46:06Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iaasacademy/aws-how-to-guide</title>
+    <updated>2023-05-09T01:46:06Z</updated>
+    <id>tag:github.com,2023-05-09:/iaasacademy/aws-how-to-guide</id>
+    <link href="https://github.com/iaasacademy/aws-how-to-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A series of labs to showcase various technologies and their technical configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:34:04Z</updated>
+  <updated>2023-05-09T01:36:31Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ash-project/ash_json_api</title>
-    <updated>2023-05-08T01:34:04Z</updated>
-    <id>tag:github.com,2023-05-08:/ash-project/ash_json_api</id>
-    <link href="https://github.com/ash-project/ash_json_api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A JSON:API extension for the Ash Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akoutmos/deno_ex</title>
+    <updated>2023-05-09T01:36:31Z</updated>
+    <id>tag:github.com,2023-05-09:/akoutmos/deno_ex</id>
+    <link href="https://github.com/akoutmos/deno_ex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Elixir library allows you to run JS/TS code via Deno in a Port&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

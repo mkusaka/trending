@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:47:27Z</updated>
+  <updated>2023-05-09T01:47:06Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Gentleman-Programming/gentleman-programming-web</title>
-    <updated>2023-05-08T01:47:27Z</updated>
-    <id>tag:github.com,2023-05-08:/Gentleman-Programming/gentleman-programming-web</id>
-    <link href="https://github.com/Gentleman-Programming/gentleman-programming-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sitio web de la comunidad de Gentleman Programming&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jmlemetayer/abba</title>
+    <updated>2023-05-09T01:47:06Z</updated>
+    <id>tag:github.com,2023-05-09:/jmlemetayer/abba</id>
+    <link href="https://github.com/jmlemetayer/abba" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache Bootstrap &amp; Bootswatch Autoindex&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

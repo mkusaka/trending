@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:31:51Z</updated>
+  <updated>2023-05-09T01:32:15Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UNN-IASR/mod-lab08-shop</title>
-    <updated>2023-05-08T01:31:51Z</updated>
-    <id>tag:github.com,2023-05-08:/UNN-IASR/mod-lab08-shop</id>
-    <link href="https://github.com/UNN-IASR/mod-lab08-shop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

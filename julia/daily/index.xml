@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-08T01:39:18Z</updated>
+  <updated>2023-05-09T01:40:41Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tshort/WebAssemblyInterfaces.jl</title>
-    <updated>2023-05-08T01:39:18Z</updated>
-    <id>tag:github.com,2023-05-08:/tshort/WebAssemblyInterfaces.jl</id>
-    <link href="https://github.com/tshort/WebAssemblyInterfaces.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Setup code to interface between JavaScript and Julia compiled to WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TidierOrg/TidierPlots.jl</title>
+    <updated>2023-05-09T01:40:41Z</updated>
+    <id>tag:github.com,2023-05-09:/TidierOrg/TidierPlots.jl</id>
+    <link href="https://github.com/TidierOrg/TidierPlots.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;100% Julia implementation of the ggplot2 R package&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tkf/Kaleido.jl</title>
-    <updated>2023-05-08T01:39:18Z</updated>
-    <id>tag:github.com,2023-05-08:/tkf/Kaleido.jl</id>
-    <link href="https://github.com/tkf/Kaleido.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Some useful lenses&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>m3g/ComplexMixtures.jl</title>
+    <updated>2023-05-09T01:40:41Z</updated>
+    <id>tag:github.com,2023-05-09:/m3g/ComplexMixtures.jl</id>
+    <link href="https://github.com/m3g/ComplexMixtures.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Package to perform minimum-distance distribution analyses of complex solute-solvent interactions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
