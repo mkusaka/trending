@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:47:50Z</updated>
+  <updated>2023-05-10T01:43:46Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apache/incubator-devlake-helm-chart</title>
-    <updated>2023-05-09T01:47:50Z</updated>
-    <id>tag:github.com,2023-05-09:/apache/incubator-devlake-helm-chart</id>
-    <link href="https://github.com/apache/incubator-devlake-helm-chart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache DevLake Helm Chart&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ThoughtWorks-DPS/lab-platform-servicemesh</title>
-    <updated>2023-05-09T01:47:50Z</updated>
-    <id>tag:github.com,2023-05-09:/ThoughtWorks-DPS/lab-platform-servicemesh</id>
-    <link href="https://github.com/ThoughtWorks-DPS/lab-platform-servicemesh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

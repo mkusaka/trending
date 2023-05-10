@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:35:17Z</updated>
+  <updated>2023-05-10T01:31:54Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Dinesh-Sowndar/flutter_responsive_dashboard_admin_panel_ui</title>
-    <updated>2023-05-09T01:35:17Z</updated>
-    <id>tag:github.com,2023-05-09:/Dinesh-Sowndar/flutter_responsive_dashboard_admin_panel_ui</id>
-    <link href="https://github.com/Dinesh-Sowndar/flutter_responsive_dashboard_admin_panel_ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flutter responsive dashboard UI&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>wgh136/PicaComic</title>
-    <updated>2023-05-09T01:35:17Z</updated>
-    <id>tag:github.com,2023-05-09:/wgh136/PicaComic</id>
-    <link href="https://github.com/wgh136/PicaComic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;使用Flutter构建的漫画APP, 支持查看picacg, e-hentai,禁漫天堂&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>picnic-app-cool/picnic-app</title>
-    <updated>2023-05-09T01:35:17Z</updated>
-    <id>tag:github.com,2023-05-09:/picnic-app-cool/picnic-app</id>
-    <link href="https://github.com/picnic-app-cool/picnic-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

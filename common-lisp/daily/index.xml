@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:32:25Z</updated>
+  <updated>2023-05-10T01:31:18Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Gleefre/simple-repl-app</title>
+    <updated>2023-05-10T01:31:18Z</updated>
+    <id>tag:github.com,2023-05-10:/Gleefre/simple-repl-app</id>
+    <link href="https://github.com/Gleefre/simple-repl-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;It is a simple app that launches Simple REPL (common lisp).&lt;/p&gt;&lt;hr&gt;&lt;p&gt;#+title: Simple REPL App #+author: Gleefre #+email: &lt;a href=&#34;mailto:varedif.a.s@gmail.com&#34;&gt;varedif.a.s@gmail.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;#+language: en #+options: toc:nil&lt;/p&gt; &#xA;&lt;p&gt;It is a simple app that starts [[https://github.com/Gleefre/simple-repl][Simple REPL]] on click. &lt;del&gt;and-jni&lt;/del&gt;, &lt;del&gt;cl-android&lt;/del&gt; and &lt;del&gt;android-log&lt;/del&gt; are preloaded, as well as &lt;del&gt;alexandria&lt;/del&gt;, &lt;del&gt;serapeum&lt;/del&gt;, &lt;del&gt;cffi&lt;/del&gt;, &lt;del&gt;usocket&lt;/del&gt; and &lt;del&gt;bordeaux-threads&lt;/del&gt;.&lt;/p&gt; &#xA;&lt;p&gt;A prebuilt apk is available. To build the app yourself just call &lt;del&gt;./build-scripts/make-all.sh&lt;/del&gt;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Connect to the running app instance App launches Simple REPL server on port &lt;del&gt;4017&lt;/del&gt; on &lt;del&gt;localhost&lt;/del&gt; interface.&lt;/p&gt; &lt;p&gt;After connecting to the device with &lt;del&gt;adb&lt;/del&gt; you need to setup port forwarding: #+BEGIN_SRC bash adb forward tcp:4017 tcp:4017 #+END_SRC&lt;/p&gt; &lt;p&gt;And then you can simply connect from any lisp on your computer: #+BEGIN_SRC lisp (ql:quickload :simple-repl/client) (simple-repl/server:run 4017) #+END_SRC&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Bugs &amp;amp; Contributions Feel free to report bugs or make suggestions by filing an issue on github.&lt;/p&gt; &lt;p&gt;Feel free to submit pull requests on github as well.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;License Copyright 2023 Gleefre&lt;/p&gt; &lt;p&gt;Licensed under the Apache License, Version 2.0 (the &#34;License&#34;); you may not use this file except in compliance with the License. You may obtain a copy of the License at&lt;/p&gt; &lt;pre&gt;&lt;code&gt;http://www.apache.org/licenses/LICENSE-2.0&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &#34;AS IS&#34; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

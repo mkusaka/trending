@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:42:17Z</updated>
+  <updated>2023-05-10T01:38:14Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rainzee/RiotSkin4CN-Status</title>
-    <updated>2023-05-09T01:42:17Z</updated>
-    <id>tag:github.com,2023-05-09:/rainzee/RiotSkin4CN-Status</id>
-    <link href="https://github.com/rainzee/RiotSkin4CN-Status" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for rainzee wang, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>schaetzlein/upptime</title>
-    <updated>2023-05-09T01:42:17Z</updated>
-    <id>tag:github.com,2023-05-09:/schaetzlein/upptime</id>
-    <link href="https://github.com/schaetzlein/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for schaetzlein, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>stormkit-io/stormkit-status</title>
-    <updated>2023-05-09T01:42:17Z</updated>
-    <id>tag:github.com,2023-05-09:/stormkit-io/stormkit-status</id>
-    <link href="https://github.com/stormkit-io/stormkit-status" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Status page&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MicrosoftDocs/azure-docs</title>
+    <updated>2023-05-10T01:38:14Z</updated>
+    <id>tag:github.com,2023-05-10:/MicrosoftDocs/azure-docs</id>
+    <link href="https://github.com/MicrosoftDocs/azure-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source documentation of Microsoft Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

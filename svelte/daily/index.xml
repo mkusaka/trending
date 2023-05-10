@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:48:29Z</updated>
+  <updated>2023-05-10T01:44:15Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Rich-Harris/sveltesnaps</title>
-    <updated>2023-05-09T01:48:29Z</updated>
-    <id>tag:github.com,2023-05-09:/Rich-Harris/sveltesnaps</id>
-    <link href="https://github.com/Rich-Harris/sveltesnaps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ebrehault/talk2svelte</title>
-    <updated>2023-05-09T01:48:29Z</updated>
-    <id>tag:github.com,2023-05-09:/ebrehault/talk2svelte</id>
-    <link href="https://github.com/ebrehault/talk2svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ClimateTown/knowledge-hub</title>
-    <updated>2023-05-09T01:48:29Z</updated>
-    <id>tag:github.com,2023-05-09:/ClimateTown/knowledge-hub</id>
-    <link href="https://github.com/ClimateTown/knowledge-hub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Climate Town Knowledge Hub: A static site to host resources currated by the ClimateTown community&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

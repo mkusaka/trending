@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:40:41Z</updated>
+  <updated>2023-05-10T01:36:48Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TidierOrg/TidierPlots.jl</title>
-    <updated>2023-05-09T01:40:41Z</updated>
-    <id>tag:github.com,2023-05-09:/TidierOrg/TidierPlots.jl</id>
-    <link href="https://github.com/TidierOrg/TidierPlots.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;100% Julia implementation of the ggplot2 R package&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>m3g/ComplexMixtures.jl</title>
-    <updated>2023-05-09T01:40:41Z</updated>
-    <id>tag:github.com,2023-05-09:/m3g/ComplexMixtures.jl</id>
-    <link href="https://github.com/m3g/ComplexMixtures.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Package to perform minimum-distance distribution analyses of complex solute-solvent interactions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>willow-ahrens/Finch.jl</title>
+    <updated>2023-05-10T01:36:48Z</updated>
+    <id>tag:github.com,2023-05-10:/willow-ahrens/Finch.jl</id>
+    <link href="https://github.com/willow-ahrens/Finch.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Write Loops Dense! Run Loops Sparse!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

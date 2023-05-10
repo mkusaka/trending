@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:38:37Z</updated>
+  <updated>2023-05-10T01:34:55Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gardener/kubify-openstack-template</title>
-    <updated>2023-05-09T01:38:37Z</updated>
-    <id>tag:github.com,2023-05-09:/gardener/kubify-openstack-template</id>
-    <link href="https://github.com/gardener/kubify-openstack-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template for Openstack Kubernetes Cluster Setup using Kubify&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure-Terraform/terraform-helm-linkerd</title>
-    <updated>2023-05-09T01:38:37Z</updated>
-    <id>tag:github.com,2023-05-09:/Azure-Terraform/terraform-helm-linkerd</id>
-    <link href="https://github.com/Azure-Terraform/terraform-helm-linkerd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clouddrove/terraform-aws-vpc</title>
+    <updated>2023-05-10T01:34:55Z</updated>
+    <id>tag:github.com,2023-05-10:/clouddrove/terraform-aws-vpc</id>
+    <link href="https://github.com/clouddrove/terraform-aws-vpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to create VPC resource on AWS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

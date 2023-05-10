@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:30:13Z</updated>
+  <updated>2023-05-10T01:29:59Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ekramasif/Inventory_Management_System</title>
-    <updated>2023-05-09T01:30:13Z</updated>
-    <id>tag:github.com,2023-05-09:/ekramasif/Inventory_Management_System</id>
-    <link href="https://github.com/ekramasif/Inventory_Management_System" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inventory Management System&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>joselfonseca/laravel-api</title>
+    <updated>2023-05-10T01:29:59Z</updated>
+    <id>tag:github.com,2023-05-10:/joselfonseca/laravel-api</id>
+    <link href="https://github.com/joselfonseca/laravel-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel API starter Kit will provide you with the tools for making API&#39;s that everyone will love&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>laravelcm/laravel.cm</title>
+    <updated>2023-05-10T01:29:59Z</updated>
+    <id>tag:github.com,2023-05-10:/laravelcm/laravel.cm</id>
+    <link href="https://github.com/laravelcm/laravel.cm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel Cameroon Portail&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

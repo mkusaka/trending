@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-09T01:43:15Z</updated>
+  <updated>2023-05-10T01:39:08Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>budimanjojo/home-cluster</title>
-    <updated>2023-05-09T01:43:15Z</updated>
-    <id>tag:github.com,2023-05-09:/budimanjojo/home-cluster</id>
-    <link href="https://github.com/budimanjojo/home-cluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My home Kubernetes cluster managed with flux GitOps tool.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dadada/nix-config</title>
-    <updated>2023-05-09T01:43:15Z</updated>
-    <id>tag:github.com,2023-05-09:/dadada/nix-config</id>
-    <link href="https://github.com/dadada/nix-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Configuration for my infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>input-output-hk/auth-keys-hub</title>
+    <updated>2023-05-10T01:39:08Z</updated>
+    <id>tag:github.com,2023-05-10:/input-output-hk/auth-keys-hub</id>
+    <link href="https://github.com/input-output-hk/auth-keys-hub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SSH AuthorizedKeysCommand for GitHub users&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
