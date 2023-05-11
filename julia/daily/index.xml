@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:36:48Z</updated>
+  <updated>2023-05-11T01:37:03Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>willow-ahrens/Finch.jl</title>
-    <updated>2023-05-10T01:36:48Z</updated>
-    <id>tag:github.com,2023-05-10:/willow-ahrens/Finch.jl</id>
-    <link href="https://github.com/willow-ahrens/Finch.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Write Loops Dense! Run Loops Sparse!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaComputing/DynamicScope.jl</title>
+    <updated>2023-05-11T01:37:03Z</updated>
+    <id>tag:github.com,2023-05-11:/JuliaComputing/DynamicScope.jl</id>
+    <link href="https://github.com/JuliaComputing/DynamicScope.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dynamically scoped functions in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ACEsuit/ObjectPools.jl</title>
+    <updated>2023-05-11T01:37:03Z</updated>
+    <id>tag:github.com,2023-05-11:/ACEsuit/ObjectPools.jl</id>
+    <link href="https://github.com/ACEsuit/ObjectPools.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;thread-safe and flexible temporary arrays and object cache for semi-manual memory management&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

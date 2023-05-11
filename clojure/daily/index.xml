@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:31:04Z</updated>
+  <updated>2023-05-11T01:31:26Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zachallaun/secd</title>
-    <updated>2023-05-10T01:31:04Z</updated>
-    <id>tag:github.com,2023-05-10:/zachallaun/secd</id>
-    <link href="https://github.com/zachallaun/secd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple implementation of the SECD abstract machine (https://en.wikipedia.org/wiki/SECD_machine)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ericdallo/datomic-sample</title>
+    <updated>2023-05-11T01:31:26Z</updated>
+    <id>tag:github.com,2023-05-11:/ericdallo/datomic-sample</id>
+    <link href="https://github.com/ericdallo/datomic-sample" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple project using Datomic peer library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alandipert/cljs-priority-map</title>
-    <updated>2023-05-10T01:31:04Z</updated>
-    <id>tag:github.com,2023-05-10:/alandipert/cljs-priority-map</id>
-    <link href="https://github.com/alandipert/cljs-priority-map" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PersistentPriorityMap for ClojureScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NikolaySuslov/krestianstvo-electric</title>
+    <updated>2023-05-11T01:31:26Z</updated>
+    <id>tag:github.com,2023-05-11:/NikolaySuslov/krestianstvo-electric</id>
+    <link href="https://github.com/NikolaySuslov/krestianstvo-electric" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Krestianstvo | Electric - Clojure. Implementing a scalable Croquet VM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

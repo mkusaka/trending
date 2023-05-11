@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:29:49Z</updated>
+  <updated>2023-05-11T01:30:03Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DefaltBit/windowsactivator</title>
-    <updated>2023-05-10T01:29:49Z</updated>
-    <id>tag:github.com,2023-05-10:/DefaltBit/windowsactivator</id>
-    <link href="https://github.com/DefaltBit/windowsactivator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;scriptforactivating&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DigitalSQR/MERindicators</title>
+    <updated>2023-05-11T01:30:03Z</updated>
+    <id>tag:github.com,2023-05-11:/DigitalSQR/MERindicators</id>
+    <link href="https://github.com/DigitalSQR/MERindicators" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sreekanthnkartha/Office-crack-code</title>
+    <updated>2023-05-11T01:30:03Z</updated>
+    <id>tag:github.com,2023-05-11:/sreekanthnkartha/Office-crack-code</id>
+    <link href="https://github.com/sreekanthnkartha/Office-crack-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:44:34Z</updated>
+  <updated>2023-05-11T01:44:46Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rsd-devel/rsd</title>
-    <updated>2023-05-10T01:44:34Z</updated>
-    <id>tag:github.com,2023-05-10:/rsd-devel/rsd</id>
-    <link href="https://github.com/rsd-devel/rsd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RSD: RISC-V Out-of-Order Superscalar Processor&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

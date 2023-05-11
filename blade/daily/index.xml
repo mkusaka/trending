@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:29:59Z</updated>
+  <updated>2023-05-11T01:30:10Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>joselfonseca/laravel-api</title>
-    <updated>2023-05-10T01:29:59Z</updated>
-    <id>tag:github.com,2023-05-10:/joselfonseca/laravel-api</id>
-    <link href="https://github.com/joselfonseca/laravel-api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Laravel API starter Kit will provide you with the tools for making API&#39;s that everyone will love&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>laravelcm/laravel.cm</title>
-    <updated>2023-05-10T01:29:59Z</updated>
-    <id>tag:github.com,2023-05-10:/laravelcm/laravel.cm</id>
-    <link href="https://github.com/laravelcm/laravel.cm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Laravel Cameroon Portail&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

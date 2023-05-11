@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:28:47Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-05-11T01:29:06Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Anof-cyber/Application-Security</title>
-    <updated>2023-05-10T01:28:47Z</updated>
-    <id>tag:github.com,2023-05-10:/Anof-cyber/Application-Security</id>
-    <link href="https://github.com/Anof-cyber/Application-Security" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources for Application Security including Web, API, Android, iOS and Thick Client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hkirat/project-ideas</title>
+    <updated>2023-05-11T01:29:06Z</updated>
+    <id>tag:github.com,2023-05-11:/hkirat/project-ideas</id>
+    <link href="https://github.com/hkirat/project-ideas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Projects to get you started on full stack&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iknowjason/Awesome-CloudSec-Labs</title>
-    <updated>2023-05-10T01:28:47Z</updated>
-    <id>tag:github.com,2023-05-10:/iknowjason/Awesome-CloudSec-Labs</id>
-    <link href="https://github.com/iknowjason/Awesome-CloudSec-Labs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mushan0x0/AI0x0.com</title>
+    <updated>2023-05-11T01:29:06Z</updated>
+    <id>tag:github.com,2023-05-11:/mushan0x0/AI0x0.com</id>
+    <link href="https://github.com/mushan0x0/AI0x0.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Syslifters/OSCP-Reporting</title>
-    <updated>2023-05-10T01:28:47Z</updated>
-    <id>tag:github.com,2023-05-10:/Syslifters/OSCP-Reporting</id>
-    <link href="https://github.com/Syslifters/OSCP-Reporting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP Exam and Lab Reporting / Note-Taking Tool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>3nock/SpiderSuite</title>
+    <updated>2023-05-11T01:29:06Z</updated>
+    <id>tag:github.com,2023-05-11:/3nock/SpiderSuite</id>
+    <link href="https://github.com/3nock/SpiderSuite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Advance web spider/crawler for cyber security professionals&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:39:08Z</updated>
+  <updated>2023-05-11T01:39:17Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>input-output-hk/auth-keys-hub</title>
-    <updated>2023-05-10T01:39:08Z</updated>
-    <id>tag:github.com,2023-05-10:/input-output-hk/auth-keys-hub</id>
-    <link href="https://github.com/input-output-hk/auth-keys-hub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SSH AuthorizedKeysCommand for GitHub users&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mccurdyc/gitrs</title>
+    <updated>2023-05-11T01:39:17Z</updated>
+    <id>tag:github.com,2023-05-11:/mccurdyc/gitrs</id>
+    <link href="https://github.com/mccurdyc/gitrs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🗂️ A simple, opinionated, tool, written in Rust, for declaratively managing Git repos on your machine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

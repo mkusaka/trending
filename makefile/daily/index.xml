@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:38:08Z</updated>
+  <updated>2023-05-11T01:38:19Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common</title>
+    <updated>2023-05-11T01:38:19Z</updated>
+    <id>tag:github.com,2023-05-11:/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common</id>
+    <link href="https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_sm6150-common" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:34:05Z</updated>
+  <updated>2023-05-11T01:34:26Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>deweizhu/bookget</title>
+    <updated>2023-05-11T01:34:26Z</updated>
+    <id>tag:github.com,2023-05-11:/deweizhu/bookget</id>
+    <link href="https://github.com/deweizhu/bookget" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bookget 数字古籍图书下载工具&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bookget&lt;/h1&gt; &#xA;&lt;p&gt;bookget 数字图书馆下载工具，目前支持约50+个数字图书馆。&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;[必读]使用手册wiki &lt;a href=&#34;https://github.com/deweizhu/bookget/wiki&#34;&gt;https://github.com/deweizhu/bookget/wiki&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;此项目代码仅供学习研究使用，欢迎有能力的朋友git clone 代码二次开发维护您自己的版本。&lt;/li&gt; &#xA; &lt;li&gt;请诸位养成保持下载最新代码的习惯，此项目随时可能中止并关闭。&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h1&gt;&lt;/h1&gt; &#xA;&lt;p&gt;特别推荐： &lt;a href=&#34;https://new.shuge.org/&#34;&gt;书格&lt;/a&gt; 有品格的数字古籍图书馆&lt;br&gt; &lt;img src=&#34;https://new.shuge.org/wp-content/themes/artview/images/layout/logo.png&#34; alt=&#34;书格&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:43:08Z</updated>
+  <updated>2023-05-11T01:43:25Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DeutschBall/NovelNook</title>
-    <updated>2023-05-10T01:43:08Z</updated>
-    <id>tag:github.com,2023-05-10:/DeutschBall/NovelNook</id>
-    <link href="https://github.com/DeutschBall/NovelNook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rahulsahay19/eShopping</title>
+    <updated>2023-05-11T01:43:25Z</updated>
+    <id>tag:github.com,2023-05-11:/rahulsahay19/eShopping</id>
+    <link href="https://github.com/rahulsahay19/eShopping" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clean Architecture Microservices example of .Net Core&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pixel-perfect-agency/next-foundation</title>
-    <updated>2023-05-10T01:43:08Z</updated>
-    <id>tag:github.com,2023-05-10:/pixel-perfect-agency/next-foundation</id>
-    <link href="https://github.com/pixel-perfect-agency/next-foundation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A very solid foundation for scalable Next.js projects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MrLootman/React_Workshop_RickAndMorty</title>
+    <updated>2023-05-11T01:43:25Z</updated>
+    <id>tag:github.com,2023-05-11:/MrLootman/React_Workshop_RickAndMorty</id>
+    <link href="https://github.com/MrLootman/React_Workshop_RickAndMorty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo pour travailler sur les fondamentaux en React.js, full front-end.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>grantmcdermott/quarto-revealjs-clean</title>
+    <updated>2023-05-11T01:43:25Z</updated>
+    <id>tag:github.com,2023-05-11:/grantmcdermott/quarto-revealjs-clean</id>
+    <link href="https://github.com/grantmcdermott/quarto-revealjs-clean" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal and elegant presentation theme for Quarto Reveal.js&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

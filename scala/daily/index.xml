@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-10T01:42:56Z</updated>
+  <updated>2023-05-11T01:43:12Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>igor-petruk/tiramisu-old</title>
-    <updated>2023-05-10T01:42:56Z</updated>
-    <id>tag:github.com,2023-05-10:/igor-petruk/tiramisu-old</id>
-    <link href="https://github.com/igor-petruk/tiramisu-old" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>adelaalfar/playTestingBug</title>
-    <updated>2023-05-10T01:42:56Z</updated>
-    <id>tag:github.com,2023-05-10:/adelaalfar/playTestingBug</id>
-    <link href="https://github.com/adelaalfar/playTestingBug" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;This is your new Play 2.0 application&lt;/h1&gt; &#xA;&lt;p&gt;This file will be packaged with your application, when using &lt;code&gt;play dist&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>
