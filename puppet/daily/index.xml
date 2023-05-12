@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-11T01:41:28Z</updated>
+  <updated>2023-05-12T01:42:06Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mrrcollins/GozBrowserBox</title>
-    <updated>2023-05-11T01:41:28Z</updated>
-    <id>tag:github.com,2023-05-11:/mrrcollins/GozBrowserBox</id>
-    <link href="https://github.com/mrrcollins/GozBrowserBox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Easily set up a browser only Linux box&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

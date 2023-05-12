@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-11T01:30:07Z</updated>
+  <updated>2023-05-12T01:29:47Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/gh-codespaces-copilot-in-a-day-ko</title>
-    <updated>2023-05-11T01:30:07Z</updated>
-    <id>tag:github.com,2023-05-11:/Azure-Samples/gh-codespaces-copilot-in-a-day-ko</id>
-    <link href="https://github.com/Azure-Samples/gh-codespaces-copilot-in-a-day-ko" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GitHub Codespaces &amp; Copilot 핸즈온 워크샵 리포지토리입니다&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure-Samples/azure-search-deployment-template</title>
-    <updated>2023-05-11T01:30:07Z</updated>
-    <id>tag:github.com,2023-05-11:/Azure-Samples/azure-search-deployment-template</id>
-    <link href="https://github.com/Azure-Samples/azure-search-deployment-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Create a search service with an index using a bicep template.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

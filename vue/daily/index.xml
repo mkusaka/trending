@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-11T01:45:59Z</updated>
+  <updated>2023-05-12T01:47:52Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>webfansplz/vite-plugin-vue-devtools</title>
-    <updated>2023-05-11T01:45:59Z</updated>
-    <id>tag:github.com,2023-05-11:/webfansplz/vite-plugin-vue-devtools</id>
-    <link href="https://github.com/webfansplz/vite-plugin-vue-devtools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vite + Vue DevTools = DX 🔥&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>benc-uk/kubeview</title>
-    <updated>2023-05-11T01:45:59Z</updated>
-    <id>tag:github.com,2023-05-11:/benc-uk/kubeview</id>
-    <link href="https://github.com/benc-uk/kubeview" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kubernetes cluster visualiser and graphical explorer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GeekLee2012/Less-Player-Desktop</title>
-    <updated>2023-05-11T01:45:59Z</updated>
-    <id>tag:github.com,2023-05-11:/GeekLee2012/Less-Player-Desktop</id>
-    <link href="https://github.com/GeekLee2012/Less-Player-Desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Less Player, 一款基于Electron + Vue3开发的播放器 ! Less is More ~ All for One, One for All !&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

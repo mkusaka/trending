@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-11T01:32:18Z</updated>
+  <updated>2023-05-12T01:32:15Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>martindobrev/bubolechka2</title>
-    <updated>2023-05-11T01:32:18Z</updated>
-    <id>tag:github.com,2023-05-11:/martindobrev/bubolechka2</id>
-    <link href="https://github.com/martindobrev/bubolechka2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Rebuilding the original Bubolechka app as a tutorial for school students&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bubolechka2&lt;/h1&gt; &#xA;&lt;p&gt;This is a tutorial project for flutter development&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started with Flutter&lt;/h2&gt; &#xA;&lt;p&gt;This project is a starting point for a Flutter application.&lt;/p&gt; &#xA;&lt;p&gt;A few resources to get you started if this is your first Flutter project:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.flutter.dev/get-started/codelab&#34;&gt;Lab: Write your first Flutter app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.flutter.dev/cookbook&#34;&gt;Cookbook: Useful Flutter samples&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For help getting started with Flutter development, view the &lt;a href=&#34;https://docs.flutter.dev/&#34;&gt;online documentation&lt;/a&gt;, which offers tutorials, samples, guidance on mobile development, and a full API reference.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>spartanathlete/modern_shop_cart</title>
-    <updated>2023-05-11T01:32:18Z</updated>
-    <id>tag:github.com,2023-05-11:/spartanathlete/modern_shop_cart</id>
-    <link href="https://github.com/spartanathlete/modern_shop_cart" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Project Management&lt;/h1&gt; &#xA;&lt;h2&gt;&lt;a href=&#34;https://youtu.be/YgLRFITrqT8&#34;&gt;Watch it on YouTube&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;h3&gt;Dashboard Screen&lt;/h3&gt; &#xA;&lt;p&gt;This dashboard page is designed for the project management. This design contains task managers, recent messages, progress reports, profile member, premium card, etc.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/89120990/139877331-ca4fe70d-0b61-4755-9039-1f5435cd9365.png&#34; alt=&#34;thumbnail_wall&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/89120990/139874972-6828722c-92e2-47d3-bf35-1588f41f4637.gif&#34; alt=&#34;bg_mob2&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/89120990/139875104-347e5955-a555-452a-adab-25e159df221e.gif&#34; alt=&#34;bg_tab&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/89120990/139876701-d746483a-a494-48a3-9a79-6d58536209b3.gif&#34; alt=&#34;bg_desk(2)&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Dependencies:&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pub.dev/packages/eva_icons_flutter&#34;&gt;eva_icons_flutter&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pub.dev/packages/percent_indicator&#34;&gt;percent_indicator&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pub.dev/packages/get&#34;&gt;get&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pub.dev/packages/flutter_svg&#34;&gt;flutter_svg&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://pub.dev/packages/flutter_staggered_grid_view&#34;&gt;flutter_staggered_grid_view&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-11T01:37:34Z</updated>
+  <updated>2023-05-12T01:37:53Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dicodingacademy/a352-android-intermediate-labs</title>
-    <updated>2023-05-11T01:37:34Z</updated>
-    <id>tag:github.com,2023-05-11:/dicodingacademy/a352-android-intermediate-labs</id>
-    <link href="https://github.com/dicodingacademy/a352-android-intermediate-labs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;a352-android-intermediate-labs&lt;/h1&gt;</summary>
-  </entry>
 </feed>

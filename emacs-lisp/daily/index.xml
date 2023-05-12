@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-11T01:33:23Z</updated>
+  <updated>2023-05-12T01:33:30Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kwappa/emacs-config</title>
-    <updated>2023-05-11T01:33:23Z</updated>
-    <id>tag:github.com,2023-05-11:/kwappa/emacs-config</id>
-    <link href="https://github.com/kwappa/emacs-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;emacs-config&lt;/h1&gt; &#xA;&lt;p&gt;Emacs configurations with package management using el-get.&lt;/p&gt; &#xA;&lt;p&gt;This repository was creted in reference to &lt;a href=&#34;https://github.com/typester/emacs-config&#34;&gt;typester/emacs-config&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;install and start up&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;% git clone git://github.com/kwappa/emacs-config.git&#xA;&#xA;# in terminal&#xA;% emacs -q -l emacs-config/init.el&#xA;&#xA;# Cocoa Emacs&#xA;% /Applications/Emacs.app/Contents/MacOS/Emacs -q -l emacs-config/init.el&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Links&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;http://unknownplace.org/memo/2013/01/21/1/&#34;&gt;Emacsの設定を見直し、 el-get の distributed セットアップに統一 - unknownplace.org&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/typester/emacs-config&#34;&gt;typester/emacs-config · GitHub&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dimitri/el-get&#34;&gt;dimitri/el-get · GitHub&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-11T01:40:12Z</updated>
+  <updated>2023-05-12T01:40:45Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>exilon/QuickLogger</title>
-    <updated>2023-05-11T01:40:12Z</updated>
-    <id>tag:github.com,2023-05-11:/exilon/QuickLogger</id>
-    <link href="https://github.com/exilon/QuickLogger" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Powerful and flexible library for logging on files, console, memory, email, rest, eventlog, syslog, slack, telegram, redis, logstash, elasticsearch, influxdb, graylog, Sentry, Twilio, ide debug messages and throw events for Delphi/Firemonkey/freepascal/.NET (Windows/Linux/OSX/IOS/Android).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

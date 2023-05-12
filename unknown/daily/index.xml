@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-11T01:29:06Z</updated>
+  <updated>2023-05-12T01:28:44Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hkirat/project-ideas</title>
-    <updated>2023-05-11T01:29:06Z</updated>
-    <id>tag:github.com,2023-05-11:/hkirat/project-ideas</id>
-    <link href="https://github.com/hkirat/project-ideas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projects to get you started on full stack&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mushan0x0/AI0x0.com</title>
-    <updated>2023-05-11T01:29:06Z</updated>
-    <id>tag:github.com,2023-05-11:/mushan0x0/AI0x0.com</id>
-    <link href="https://github.com/mushan0x0/AI0x0.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>3nock/SpiderSuite</title>
-    <updated>2023-05-11T01:29:06Z</updated>
-    <id>tag:github.com,2023-05-11:/3nock/SpiderSuite</id>
-    <link href="https://github.com/3nock/SpiderSuite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Advance web spider/crawler for cyber security professionals&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alexeymezenin/laravel-best-practices</title>
+    <updated>2023-05-12T01:28:44Z</updated>
+    <id>tag:github.com,2023-05-12:/alexeymezenin/laravel-best-practices</id>
+    <link href="https://github.com/alexeymezenin/laravel-best-practices" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Laravel best practices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
