@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-12T01:28:44Z</updated>
+  <updated>2023-05-13T01:28:33Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alexeymezenin/laravel-best-practices</title>
-    <updated>2023-05-12T01:28:44Z</updated>
-    <id>tag:github.com,2023-05-12:/alexeymezenin/laravel-best-practices</id>
-    <link href="https://github.com/alexeymezenin/laravel-best-practices" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Laravel best practices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
