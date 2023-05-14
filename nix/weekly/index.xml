@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-14T02:00:35Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Misterio77/nix-config</title>
+    <updated>2023-05-14T02:00:35Z</updated>
+    <id>tag:github.com,2023-05-14:/Misterio77/nix-config</id>
+    <link href="https://github.com/Misterio77/nix-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal nixos and home-manager configurations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

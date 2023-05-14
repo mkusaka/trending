@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-14T01:52:38Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>berdichev/utils</title>
+    <updated>2023-05-14T01:52:38Z</updated>
+    <id>tag:github.com,2023-05-14:/berdichev/utils</id>
+    <link href="https://github.com/berdichev/utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tiny set of CoffeeScript utilities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>stuartlynn/LeapWWT</title>
+    <updated>2023-05-14T01:52:38Z</updated>
+    <id>tag:github.com,2023-05-14:/stuartlynn/LeapWWT</id>
+    <link href="https://github.com/stuartlynn/LeapWWT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

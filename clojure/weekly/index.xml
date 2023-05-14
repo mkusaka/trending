@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-14T01:52:26Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ninjudd/phonograph</title>
+    <updated>2023-05-14T01:52:26Z</updated>
+    <id>tag:github.com,2023-05-14:/ninjudd/phonograph</id>
+    <link href="https://github.com/ninjudd/phonograph" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A round-robin database, based on graphite&#39;s whisper.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

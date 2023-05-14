@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-14T02:06:48Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aqn/dotfiles</title>
+    <updated>2023-05-14T02:06:48Z</updated>
+    <id>tag:github.com,2023-05-14:/aqn/dotfiles</id>
+    <link href="https://github.com/aqn/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vim-scripts/cudajinja.vim</title>
+    <updated>2023-05-14T02:06:48Z</updated>
+    <id>tag:github.com,2023-05-14:/vim-scripts/cudajinja.vim</id>
+    <link href="https://github.com/vim-scripts/cudajinja.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jinja templating syntax for CUDA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wsdjeg/vim-fetch</title>
+    <updated>2023-05-14T02:06:48Z</updated>
+    <id>tag:github.com,2023-05-14:/wsdjeg/vim-fetch</id>
+    <link href="https://github.com/wsdjeg/vim-fetch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make Vim handle line and column numbers in file names with a minimum of fuss&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

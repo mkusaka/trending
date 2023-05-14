@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-14T01:59:41Z</updated>
+  <subtitle>Weekly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MicrosoftDocs/azure-docs</title>
+    <updated>2023-05-14T01:59:41Z</updated>
+    <id>tag:github.com,2023-05-14:/MicrosoftDocs/azure-docs</id>
+    <link href="https://github.com/MicrosoftDocs/azure-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source documentation of Microsoft Azure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
