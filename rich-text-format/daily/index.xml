@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-14T01:44:38Z</updated>
+  <updated>2023-05-15T01:41:54Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>godly-devotion/charge-limiter</title>
+    <updated>2023-05-15T01:41:54Z</updated>
+    <id>tag:github.com,2023-05-15:/godly-devotion/charge-limiter</id>
+    <link href="https://github.com/godly-devotion/charge-limiter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;macOS app to set battery charge limit for Intel MacBooks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tsi-unito/guida_degli_studenti_di</title>
+    <updated>2023-05-15T01:41:54Z</updated>
+    <id>tag:github.com,2023-05-15:/tsi-unito/guida_degli_studenti_di</id>
+    <link href="https://github.com/tsi-unito/guida_degli_studenti_di" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Punto di aggregazione per materiale (esami, appunti, suggerimenti, ecc.) utile agli studenti per la vita universitaria.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

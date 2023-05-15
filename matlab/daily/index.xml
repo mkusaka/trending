@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-14T01:40:00Z</updated>
+  <updated>2023-05-15T01:38:00Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zhoubolei/CohFilter</title>
+    <updated>2023-05-15T01:38:00Z</updated>
+    <id>tag:github.com,2023-05-15:/zhoubolei/CohFilter</id>
+    <link href="https://github.com/zhoubolei/CohFilter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mathworks/examples-for-building-classic-neural-networks</title>
+    <updated>2023-05-15T01:38:00Z</updated>
+    <id>tag:github.com,2023-05-15:/mathworks/examples-for-building-classic-neural-networks</id>
+    <link href="https://github.com/mathworks/examples-for-building-classic-neural-networks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mathworks/Expo-2023-Whats-New-for-Managing-Testing-and-Building-your-MATLAB-Code</title>
+    <updated>2023-05-15T01:38:00Z</updated>
+    <id>tag:github.com,2023-05-15:/mathworks/Expo-2023-Whats-New-for-Managing-Testing-and-Building-your-MATLAB-Code</id>
+    <link href="https://github.com/mathworks/Expo-2023-Whats-New-for-Managing-Testing-and-Building-your-MATLAB-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository hosts the MATLAB Expo 2023 &#34;What&#39;s New for Managing, Testing, and Building your MATLAB Code&#34; workshop.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

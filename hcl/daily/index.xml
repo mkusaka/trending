@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-14T01:36:16Z</updated>
+  <updated>2023-05-15T01:34:53Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/azure-spring-apps-landing-zone-accelerator</title>
+    <updated>2023-05-15T01:34:53Z</updated>
+    <id>tag:github.com,2023-05-15:/Azure/azure-spring-apps-landing-zone-accelerator</id>
+    <link href="https://github.com/Azure/azure-spring-apps-landing-zone-accelerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Azure Spring Apps landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accelerate deployment of Azure Spring Apps at scale.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Aj7Ay/youtube_notes</title>
+    <updated>2023-05-15T01:34:53Z</updated>
+    <id>tag:github.com,2023-05-15:/Aj7Ay/youtube_notes</id>
+    <link href="https://github.com/Aj7Ay/youtube_notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>naveen-uppala/AWS-Devops</title>
+    <updated>2023-05-15T01:34:53Z</updated>
+    <id>tag:github.com,2023-05-15:/naveen-uppala/AWS-Devops</id>
+    <link href="https://github.com/naveen-uppala/AWS-Devops" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

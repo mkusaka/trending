@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-14T01:48:35Z</updated>
+  <updated>2023-05-15T01:44:59Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>KASIRGA-KIZIL/tekno-kizil</title>
+    <updated>2023-05-15T01:44:59Z</updated>
+    <id>tag:github.com,2023-05-15:/KASIRGA-KIZIL/tekno-kizil</id>
+    <link href="https://github.com/KASIRGA-KIZIL/tekno-kizil" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KASIRGA - KIZIL Takımı Teknofest 2023 Çip Tasarımı - KIZIL İşlemci Projesi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

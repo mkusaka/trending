@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-14T01:41:58Z</updated>
+  <updated>2023-05-15T01:39:43Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Embarcadero/BoldForDelphi</title>
+    <updated>2023-05-15T01:39:43Z</updated>
+    <id>tag:github.com,2023-05-15:/Embarcadero/BoldForDelphi</id>
+    <link href="https://github.com/Embarcadero/BoldForDelphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bold for Delphi is a Model Driver Architecture (and ORM library) for Embarcadero Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FMXExpress/Text2Video-Desktop-Client</title>
+    <updated>2023-05-15T01:39:43Z</updated>
+    <id>tag:github.com,2023-05-15:/FMXExpress/Text2Video-Desktop-Client</id>
+    <link href="https://github.com/FMXExpress/Text2Video-Desktop-Client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Generate videos from text using various Stable Diffusion Models via Text2Video-Zero.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Embarcadero/Lightweight-Python-Wrappers</title>
+    <updated>2023-05-15T01:39:43Z</updated>
+    <id>tag:github.com,2023-05-15:/Embarcadero/Lightweight-Python-Wrappers</id>
+    <link href="https://github.com/Embarcadero/Lightweight-Python-Wrappers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lightweight Wrappers based on Python4Delphi to make it easy to import Python modules into Delphi components.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

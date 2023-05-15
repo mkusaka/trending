@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-14T01:29:41Z</updated>
+  <updated>2023-05-15T01:29:01Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gitkarma/quantum_computing_course2023</title>
+    <updated>2023-05-15T01:29:01Z</updated>
+    <id>tag:github.com,2023-05-15:/gitkarma/quantum_computing_course2023</id>
+    <link href="https://github.com/gitkarma/quantum_computing_course2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course Material for the online short course on Quantum Computing Using QSim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>THZoria/NX_Firmware</title>
+    <updated>2023-05-15T01:29:01Z</updated>
+    <id>tag:github.com,2023-05-15:/THZoria/NX_Firmware</id>
+    <link href="https://github.com/THZoria/NX_Firmware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Firmware for the Nintendo Switch&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>brexhq/prompt-engineering</title>
+    <updated>2023-05-15T01:29:01Z</updated>
+    <id>tag:github.com,2023-05-15:/brexhq/prompt-engineering</id>
+    <link href="https://github.com/brexhq/prompt-engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tips and tricks for working with Large Language Models like OpenAI&#39;s GPT-4.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
