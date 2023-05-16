@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:45:10Z</updated>
+  <updated>2023-05-16T01:44:53Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Physton/sd-webui-prompt-all-in-one</title>
-    <updated>2023-05-15T01:45:10Z</updated>
-    <id>tag:github.com,2023-05-15:/Physton/sd-webui-prompt-all-in-one</id>
-    <link href="https://github.com/Physton/sd-webui-prompt-all-in-one" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides automatic translation, history record, and bookmarking functions. 这是一个基于 sd-webui 的扩展，旨在提高提示词/反向提示词输入框的使用体验。它拥有更直观、强大的输入界面功能，它提供了自动翻译、历史记录和收藏等功能。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zmh-program/web-chatgpt-qq-bot</title>
+    <updated>2023-05-16T01:44:53Z</updated>
+    <id>tag:github.com,2023-05-16:/zmh-program/web-chatgpt-qq-bot</id>
+    <link href="https://github.com/zmh-program/web-chatgpt-qq-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🍉 web 图形化界面一键配置 ChatGPT Mirai QQ Bot 聊天机器人, 实现控制台, 文件上传, 检测Docker容器状态等功能&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>4xmen/anubias</title>
-    <updated>2023-05-15T01:45:10Z</updated>
-    <id>tag:github.com,2023-05-15:/4xmen/anubias</id>
-    <link href="https://github.com/4xmen/anubias" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Develope mobile apps so easy and native with GUI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>anvaka/map-of-github</title>
+    <updated>2023-05-16T01:44:53Z</updated>
+    <id>tag:github.com,2023-05-16:/anvaka/map-of-github</id>
+    <link href="https://github.com/anvaka/map-of-github" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Inspirational Mapping&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Poordeveloper/chatgpt-app</title>
-    <updated>2023-05-15T01:45:10Z</updated>
-    <id>tag:github.com,2023-05-15:/Poordeveloper/chatgpt-app</id>
-    <link href="https://github.com/Poordeveloper/chatgpt-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cross-platform ChatGPT App and more&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinygeeker/ai-prompt-generator</title>
+    <updated>2023-05-16T01:44:53Z</updated>
+    <id>tag:github.com,2023-05-16:/tinygeeker/ai-prompt-generator</id>
+    <link href="https://github.com/tinygeeker/ai-prompt-generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌈 AI绘画标签生成器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

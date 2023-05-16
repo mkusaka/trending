@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:30:08Z</updated>
+  <updated>2023-05-16T01:30:08Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gh-productivity-workshops/PetSpotR</title>
-    <updated>2023-05-15T01:30:08Z</updated>
-    <id>tag:github.com,2023-05-15:/gh-productivity-workshops/PetSpotR</id>
-    <link href="https://github.com/gh-productivity-workshops/PetSpotR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo application that showcases a modern, cloud-native application with Codespaces and Copilot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure-Samples/azd-starter-bicep</title>
+    <updated>2023-05-16T01:30:08Z</updated>
+    <id>tag:github.com,2023-05-16:/Azure-Samples/azd-starter-bicep</id>
+    <link href="https://github.com/Azure-Samples/azd-starter-bicep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Starter template with Bicep as infrastructure provider for Azure Developer CLI (azd).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

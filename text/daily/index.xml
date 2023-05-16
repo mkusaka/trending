@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Text Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:44:25Z</updated>
+  <updated>2023-05-16T01:44:04Z</updated>
   <subtitle>Daily Trending of Text in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>giellalt/lang-smn</title>
-    <updated>2023-05-15T01:44:25Z</updated>
-    <id>tag:github.com,2023-05-15:/giellalt/lang-smn</id>
-    <link href="https://github.com/giellalt/lang-smn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Inari Sami language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smalltalk Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:43:12Z</updated>
+  <updated>2023-05-16T01:42:58Z</updated>
   <subtitle>Daily Trending of Smalltalk in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>seandenigris/Resources-Live</title>
-    <updated>2023-05-15T01:43:12Z</updated>
-    <id>tag:github.com,2023-05-15:/seandenigris/Resources-Live</id>
-    <link href="https://github.com/seandenigris/Resources-Live" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

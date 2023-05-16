@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SystemVerilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:44:10Z</updated>
+  <updated>2023-05-16T01:43:49Z</updated>
   <subtitle>Daily Trending of SystemVerilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pulp-platform/icache-intc</title>
-    <updated>2023-05-15T01:44:10Z</updated>
-    <id>tag:github.com,2023-05-15:/pulp-platform/icache-intc</id>
-    <link href="https://github.com/pulp-platform/icache-intc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skudlur/diablo</title>
+    <updated>2023-05-16T01:43:49Z</updated>
+    <id>tag:github.com,2023-05-16:/skudlur/diablo</id>
+    <link href="https://github.com/skudlur/diablo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;diablo is an Out-Of-Order 64-bit RISC-V processor.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JSON Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:36:24Z</updated>
+  <updated>2023-05-16T01:36:11Z</updated>
   <subtitle>Daily Trending of JSON in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jjeaby/mew</title>
-    <updated>2023-05-15T01:36:24Z</updated>
-    <id>tag:github.com,2023-05-15:/jjeaby/mew</id>
-    <link href="https://github.com/jjeaby/mew" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for jjeaby, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hnq90/huynq.net-status</title>
+    <updated>2023-05-16T01:36:11Z</updated>
+    <id>tag:github.com,2023-05-16:/hnq90/huynq.net-status</id>
+    <link href="https://github.com/hnq90/huynq.net-status" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for hnq90, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

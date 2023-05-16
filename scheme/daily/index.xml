@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:42:37Z</updated>
+  <updated>2023-05-16T01:42:18Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mhayashi1120/Gauche-gis-hubeny</title>
-    <updated>2023-05-15T01:42:37Z</updated>
-    <id>tag:github.com,2023-05-15:/mhayashi1120/Gauche-gis-hubeny</id>
-    <link href="https://github.com/mhayashi1120/Gauche-gis-hubeny" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Calculate distance between 2 latitude/longitude&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

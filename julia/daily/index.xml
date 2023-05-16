@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:36:33Z</updated>
+  <updated>2023-05-16T01:36:22Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>samuelsonric/AlgebraicInference.jl</title>
-    <updated>2023-05-15T01:36:33Z</updated>
-    <id>tag:github.com,2023-05-15:/samuelsonric/AlgebraicInference.jl</id>
-    <link href="https://github.com/samuelsonric/AlgebraicInference.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compositional Bayesian inference.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>QuantEcon/book-dp1</title>
+    <updated>2023-05-16T01:36:22Z</updated>
+    <id>tag:github.com,2023-05-16:/QuantEcon/book-dp1</id>
+    <link href="https://github.com/QuantEcon/book-dp1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dynamic Programming Volume 1&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>MakieOrg/MakieDraw.jl</title>
-    <updated>2023-05-15T01:36:33Z</updated>
-    <id>tag:github.com,2023-05-15:/MakieOrg/MakieDraw.jl</id>
-    <link href="https://github.com/MakieOrg/MakieDraw.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaGPU/AMDGPU.jl</title>
+    <updated>2023-05-16T01:36:22Z</updated>
+    <id>tag:github.com,2023-05-16:/JuliaGPU/AMDGPU.jl</id>
+    <link href="https://github.com/JuliaGPU/AMDGPU.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AMD GPU (ROCm) programming in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PrimalHQ/primal-caching-service</title>
-    <updated>2023-05-15T01:36:33Z</updated>
-    <id>tag:github.com,2023-05-15:/PrimalHQ/primal-caching-service</id>
-    <link href="https://github.com/PrimalHQ/primal-caching-service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Primal’s caching service for Nostr connects to the specified set of relays, collects all events in real time, stores them locally, and makes them available to nostr clients through a web socket-based API.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sisl/ModelBasedValidationInference</title>
+    <updated>2023-05-16T01:36:22Z</updated>
+    <id>tag:github.com,2023-05-16:/sisl/ModelBasedValidationInference</id>
+    <link href="https://github.com/sisl/ModelBasedValidationInference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for &#34;Model-Based Validation as Probabilistic Inference&#34; presented at L4DC 2023&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

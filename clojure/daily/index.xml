@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:31:12Z</updated>
+  <updated>2023-05-16T01:31:10Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>moyet/fizzbuzz-as-a-service</title>
+    <updated>2023-05-16T01:31:10Z</updated>
+    <id>tag:github.com,2023-05-16:/moyet/fizzbuzz-as-a-service</id>
+    <link href="https://github.com/moyet/fizzbuzz-as-a-service" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creating a REST-api for returning fizzbuzz results.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>EwenG/cle-usb-cljs</title>
+    <updated>2023-05-16T01:31:10Z</updated>
+    <id>tag:github.com,2023-05-16:/EwenG/cle-usb-cljs</id>
+    <link href="https://github.com/EwenG/cle-usb-cljs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yogthos/resume</title>
+    <updated>2023-05-16T01:31:10Z</updated>
+    <id>tag:github.com,2023-05-16:/yogthos/resume</id>
+    <link href="https://github.com/yogthos/resume" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

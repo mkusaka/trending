@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-15T01:40:23Z</updated>
+  <updated>2023-05-16T01:40:15Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LocalizeLimbusCompany/LLC_Dante_Notes_Font</title>
-    <updated>2023-05-15T01:40:23Z</updated>
-    <id>tag:github.com,2023-05-15:/LocalizeLimbusCompany/LLC_Dante_Notes_Font</id>
-    <link href="https://github.com/LocalizeLimbusCompany/LLC_Dante_Notes_Font" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;但丁笔记特殊字体&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://raw.githubusercontent.com/LocalizeLimbusCompany/releases&#34;&gt;LLC_Dante_Notes_Font&lt;img src=&#34;https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_Dante_Notes_Font.svg?label=%E6%9C%80%E6%96%B0%E7%89%88&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;但丁笔记特殊字体&lt;/p&gt;</summary>
-  </entry>
 </feed>
