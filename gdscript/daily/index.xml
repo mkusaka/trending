@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:33:51Z</updated>
+  <updated>2023-05-17T01:35:21Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>guillefix/zuland</title>
-    <updated>2023-05-16T01:33:51Z</updated>
-    <id>tag:github.com,2023-05-16:/guillefix/zuland</id>
-    <link href="https://github.com/guillefix/zuland" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI-Human Network States&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>imjp94/gd-blender-3d-shortcuts</title>
-    <updated>2023-05-16T01:33:51Z</updated>
-    <id>tag:github.com,2023-05-16:/imjp94/gd-blender-3d-shortcuts</id>
-    <link href="https://github.com/imjp94/gd-blender-3d-shortcuts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blender 3D Shortcuts in Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jose-lico/GodotRenderDocLauncher</title>
-    <updated>2023-05-16T01:33:51Z</updated>
-    <id>tag:github.com,2023-05-16:/jose-lico/GodotRenderDocLauncher</id>
-    <link href="https://github.com/jose-lico/GodotRenderDocLauncher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plugin tool to easily launch RenderDoc from within Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

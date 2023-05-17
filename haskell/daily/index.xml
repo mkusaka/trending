@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:34:39Z</updated>
+  <updated>2023-05-17T01:36:17Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ProgAv-UNRC/Pract8Logica</title>
-    <updated>2023-05-16T01:34:39Z</updated>
-    <id>tag:github.com,2023-05-16:/ProgAv-UNRC/Pract8Logica</id>
-    <link href="https://github.com/ProgAv-UNRC/Pract8Logica" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Pract8Logica&lt;/h1&gt; &#xA;&lt;p&gt;Se deben respetar cada uno de los perfiles propuesto.&lt;/p&gt;</summary>
+    <title>shadwstalkr/GrahamScanDemo</title>
+    <updated>2023-05-17T01:36:17Z</updated>
+    <id>tag:github.com,2023-05-17:/shadwstalkr/GrahamScanDemo</id>
+    <link href="https://github.com/shadwstalkr/GrahamScanDemo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Introduction&lt;/h2&gt; &#xA;&lt;p&gt;This is an implementation of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Graham_scan&#34;&gt;Graham scan&lt;/a&gt; algorithm for finding a convex hull in Haskell. &lt;a href=&#34;http://www.tapdancinggoats.com/graham-scan-in-haskell.htm&#34;&gt;This article&lt;/a&gt; follows how I developed it, missteps and all.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>robinp/robinp-xmonad</title>
+    <updated>2023-05-17T01:36:17Z</updated>
+    <id>tag:github.com,2023-05-17:/robinp/robinp-xmonad</id>
+    <link href="https://github.com/robinp/robinp-xmonad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My XMonad configuration&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;robinp-xmonad&lt;/h1&gt; &#xA;&lt;p&gt;My XMonad configuration&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>dborza/haskell-musings</title>
+    <updated>2023-05-17T01:36:17Z</updated>
+    <id>tag:github.com,2023-05-17:/dborza/haskell-musings</id>
+    <link href="https://github.com/dborza/haskell-musings" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Taking haskell for a test drive&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;haskell-musings&lt;/h1&gt; &#xA;&lt;p&gt;Taking haskell for a test drive&lt;/p&gt; &#xA;&lt;p&gt;This is a project that aims to test the basic building blocks of functional programming and of the haskell programming language.&lt;/p&gt; &#xA;&lt;p&gt;It is supposed to have some algorithm implementations and who knows, maybe a simple web app.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:30:03Z</updated>
+  <updated>2023-05-17T01:30:52Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JDHatten/Switch-Save-Game-Transfer</title>
-    <updated>2023-05-16T01:30:03Z</updated>
-    <id>tag:github.com,2023-05-16:/JDHatten/Switch-Save-Game-Transfer</id>
-    <link href="https://github.com/JDHatten/Switch-Save-Game-Transfer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This script will allow you to easily transfer your game save files between Ryujinx and Yuzu Switch emulators.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AnshumanPM/ngrok-rdp</title>
+    <updated>2023-05-17T01:30:52Z</updated>
+    <id>tag:github.com,2023-05-17:/AnshumanPM/ngrok-rdp</id>
+    <link href="https://github.com/AnshumanPM/ngrok-rdp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

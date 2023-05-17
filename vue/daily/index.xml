@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:44:53Z</updated>
+  <updated>2023-05-17T01:48:00Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zmh-program/web-chatgpt-qq-bot</title>
-    <updated>2023-05-16T01:44:53Z</updated>
-    <id>tag:github.com,2023-05-16:/zmh-program/web-chatgpt-qq-bot</id>
-    <link href="https://github.com/zmh-program/web-chatgpt-qq-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🍉 web 图形化界面一键配置 ChatGPT Mirai QQ Bot 聊天机器人, 实现控制台, 文件上传, 检测Docker容器状态等功能&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>anvaka/map-of-github</title>
-    <updated>2023-05-16T01:44:53Z</updated>
-    <id>tag:github.com,2023-05-16:/anvaka/map-of-github</id>
-    <link href="https://github.com/anvaka/map-of-github" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Inspirational Mapping&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>tinygeeker/ai-prompt-generator</title>
-    <updated>2023-05-16T01:44:53Z</updated>
-    <id>tag:github.com,2023-05-16:/tinygeeker/ai-prompt-generator</id>
-    <link href="https://github.com/tinygeeker/ai-prompt-generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌈 AI绘画标签生成器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yangjian102621/chatgpt-plus</title>
+    <updated>2023-05-17T01:48:00Z</updated>
+    <id>tag:github.com,2023-05-17:/yangjian102621/chatgpt-plus</id>
+    <link href="https://github.com/yangjian102621/chatgpt-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于 OpenAI API 实现的 ChatGPT Web 应用，包括通用版和角色版。自带管理后台，采用 Go + Vue3 + element-plus 实现。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

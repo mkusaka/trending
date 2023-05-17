@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:30:11Z</updated>
+  <updated>2023-05-17T01:31:02Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>themeselection/sneat-bootstrap-html-laravel-admin-template-free</title>
-    <updated>2023-05-16T01:30:11Z</updated>
-    <id>tag:github.com,2023-05-16:/themeselection/sneat-bootstrap-html-laravel-admin-template-free</id>
-    <link href="https://github.com/themeselection/sneat-bootstrap-html-laravel-admin-template-free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Most Powerful &amp; Comprehensive Free Bootstrap 5 HTML Laravel Admin Dashboard Template built for developers!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Juan-Papi/web-juanpapi</title>
+    <updated>2023-05-17T01:31:02Z</updated>
+    <id>tag:github.com,2023-05-17:/Juan-Papi/web-juanpapi</id>
+    <link href="https://github.com/Juan-Papi/web-juanpapi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;juanpapi&#39;s website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

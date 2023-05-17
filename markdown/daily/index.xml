@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:37:43Z</updated>
+  <updated>2023-05-17T01:39:33Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seanpm2001/Stats</title>
-    <updated>2023-05-16T01:37:43Z</updated>
-    <id>tag:github.com,2023-05-16:/seanpm2001/Stats</id>
-    <link href="https://github.com/seanpm2001/Stats" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;↪️📈️📊️📉️↩️ A redirect to s:Statistics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>akkijp/upptime</title>
-    <updated>2023-05-16T01:37:43Z</updated>
-    <id>tag:github.com,2023-05-16:/akkijp/upptime</id>
-    <link href="https://github.com/akkijp/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Kosuke Akizuki, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>robingenz/upptime</title>
-    <updated>2023-05-16T01:37:43Z</updated>
-    <id>tag:github.com,2023-05-16:/robingenz/upptime</id>
-    <link href="https://github.com/robingenz/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Robin Genz, powered by @upptime.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nuke86/ransomPing</title>
+    <updated>2023-05-17T01:39:33Z</updated>
+    <id>tag:github.com,2023-05-17:/nuke86/ransomPing</id>
+    <link href="https://github.com/nuke86/ransomPing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data repository of PingPA in DRM - Dashboard Ransomware Monitor&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:44:43Z</updated>
+  <updated>2023-05-17T01:47:46Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Misaka-N/TJCS-SingleCircleCPU31</title>
-    <updated>2023-05-16T01:44:43Z</updated>
-    <id>tag:github.com,2023-05-16:/Misaka-N/TJCS-SingleCircleCPU31</id>
-    <link href="https://github.com/Misaka-N/TJCS-SingleCircleCPU31" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;同济大学2021级计算机科学与技术系 计算机组成与原理实验 单周期31条指令CPU&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>f-of-e/gb3-resources</title>
-    <updated>2023-05-16T01:44:43Z</updated>
-    <id>tag:github.com,2023-05-16:/f-of-e/gb3-resources</id>
-    <link href="https://github.com/f-of-e/gb3-resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inno Setup Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:35:32Z</updated>
+  <updated>2023-05-17T01:37:08Z</updated>
   <subtitle>Daily Trending of Inno Setup in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>node-red/windows-installer</title>
-    <updated>2023-05-16T01:35:32Z</updated>
-    <id>tag:github.com,2023-05-16:/node-red/windows-installer</id>
-    <link href="https://github.com/node-red/windows-installer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

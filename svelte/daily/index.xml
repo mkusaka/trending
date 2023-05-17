@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:43:32Z</updated>
+  <updated>2023-05-17T01:46:19Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Vontigo/Vontigo</title>
-    <updated>2023-05-16T01:43:32Z</updated>
-    <id>tag:github.com,2023-05-16:/Vontigo/Vontigo</id>
-    <link href="https://github.com/Vontigo/Vontigo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🚀 Vontigo is an open-source CMS built with SvelteKit, featuring 🤖 AI-powered (ChatGPT) content generation. With fast page loads and seamless routing, Vontigo offers a user-friendly interface with customizable themes and templates.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmaJC/hurdle-frontend</title>
+    <updated>2023-05-17T01:46:19Z</updated>
+    <id>tag:github.com,2023-05-17:/AmaJC/hurdle-frontend</id>
+    <link href="https://github.com/AmaJC/hurdle-frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hurdle - a Wordle recreation for Cal State Fullerton&#39;s CPSC 121L Course&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

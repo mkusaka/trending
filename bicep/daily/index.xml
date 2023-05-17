@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:30:08Z</updated>
+  <updated>2023-05-17T01:30:57Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/azd-starter-bicep</title>
-    <updated>2023-05-16T01:30:08Z</updated>
-    <id>tag:github.com,2023-05-16:/Azure-Samples/azd-starter-bicep</id>
-    <link href="https://github.com/Azure-Samples/azd-starter-bicep" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starter template with Bicep as infrastructure provider for Azure Developer CLI (azd).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

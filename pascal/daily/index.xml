@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-16T01:39:30Z</updated>
+  <updated>2023-05-17T01:41:35Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HashLoad/ECLBr</title>
-    <updated>2023-05-16T01:39:30Z</updated>
-    <id>tag:github.com,2023-05-16:/HashLoad/ECLBr</id>
-    <link href="https://github.com/HashLoad/ECLBr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ECLBr - Essential Core Library para quem utiliza Delphi&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FMXExpress/AI-Code-Translator</title>
+    <updated>2023-05-17T01:41:35Z</updated>
+    <id>tag:github.com,2023-05-17:/FMXExpress/AI-Code-Translator</id>
+    <link href="https://github.com/FMXExpress/AI-Code-Translator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Translate source code from languages like C++, Python, and C# to Delphi using ChatGPT.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>shusaura85/TDataFile</title>
-    <updated>2023-05-16T01:39:30Z</updated>
-    <id>tag:github.com,2023-05-16:/shusaura85/TDataFile</id>
-    <link href="https://github.com/shusaura85/TDataFile" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Binary data storage for Delphi similar to TIniFile&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rafael-figueiredo-alves/DotEnv4Delphi</title>
+    <updated>2023-05-17T01:41:35Z</updated>
+    <id>tag:github.com,2023-05-17:/rafael-figueiredo-alves/DotEnv4Delphi</id>
+    <link href="https://github.com/rafael-figueiredo-alves/DotEnv4Delphi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A library to use .env files in Delphi. Also to be able to use Environment variables in a simpler way&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
