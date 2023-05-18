@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-17T01:45:05Z</updated>
+  <updated>2023-05-18T01:45:02Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>primefaces/primereact-sass-theme</title>
-    <updated>2023-05-17T01:45:05Z</updated>
-    <id>tag:github.com,2023-05-17:/primefaces/primereact-sass-theme</id>
-    <link href="https://github.com/primefaces/primereact-sass-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PrimeReact Theming with SASS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

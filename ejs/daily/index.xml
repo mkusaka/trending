@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-17T01:34:21Z</updated>
+  <updated>2023-05-18T01:34:20Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>cassiowt/nodepipeline-devops</title>
-    <updated>2023-05-17T01:34:21Z</updated>
-    <id>tag:github.com,2023-05-17:/cassiowt/nodepipeline-devops</id>
-    <link href="https://github.com/cassiowt/nodepipeline-devops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

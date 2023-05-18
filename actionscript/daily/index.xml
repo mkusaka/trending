@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-17T01:30:08Z</updated>
+  <updated>2023-05-18T01:30:10Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ricardosdl/darkmatters</title>
-    <updated>2023-05-17T01:30:08Z</updated>
-    <id>tag:github.com,2023-05-17:/ricardosdl/darkmatters</id>
-    <link href="https://github.com/ricardosdl/darkmatters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small and simple flash game. Created using Actions Script 3 and Flixel library.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jfy19771224/swallow</title>
+    <updated>2023-05-18T01:30:10Z</updated>
+    <id>tag:github.com,2023-05-18:/jfy19771224/swallow</id>
+    <link href="https://github.com/jfy19771224/swallow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;starling滤镜扩展&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

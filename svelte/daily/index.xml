@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-17T01:46:19Z</updated>
+  <updated>2023-05-18T01:46:19Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AmaJC/hurdle-frontend</title>
-    <updated>2023-05-17T01:46:19Z</updated>
-    <id>tag:github.com,2023-05-17:/AmaJC/hurdle-frontend</id>
-    <link href="https://github.com/AmaJC/hurdle-frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hurdle - a Wordle recreation for Cal State Fullerton&#39;s CPSC 121L Course&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>delay/sveltekit-auth-starter</title>
+    <updated>2023-05-18T01:46:19Z</updated>
+    <id>tag:github.com,2023-05-18:/delay/sveltekit-auth-starter</id>
+    <link href="https://github.com/delay/sveltekit-auth-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a sveltekit auth starter project. It is an open source auth starter project utilizing Lucia for authentication, Skeleton for ui elements, Prisma for database connectivity and type safety and Sveltekit for the javascript framework. I also used Zod and Superforms to handle form validation and management.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Raulj123/First-Contribution-</title>
+    <updated>2023-05-18T01:46:19Z</updated>
+    <id>tag:github.com,2023-05-18:/Raulj123/First-Contribution-</id>
+    <link href="https://github.com/Raulj123/First-Contribution-" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>acteng/atip</title>
+    <updated>2023-05-18T01:46:19Z</updated>
+    <id>tag:github.com,2023-05-18:/acteng/atip</id>
+    <link href="https://github.com/acteng/atip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Active Travel Intervention Platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
