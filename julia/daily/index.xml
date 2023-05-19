@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:38:14Z</updated>
+  <updated>2023-05-19T01:38:45Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cjdoris/PackageExtensionTools.jl</title>
-    <updated>2023-05-18T01:38:14Z</updated>
-    <id>tag:github.com,2023-05-18:/cjdoris/PackageExtensionTools.jl</id>
-    <link href="https://github.com/cjdoris/PackageExtensionTools.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Makes Julia&#39;s package extensions backwards compatible&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaSmoothOptimizers/OptimizationProblems.jl</title>
-    <updated>2023-05-18T01:38:14Z</updated>
-    <id>tag:github.com,2023-05-18:/JuliaSmoothOptimizers/OptimizationProblems.jl</id>
-    <link href="https://github.com/JuliaSmoothOptimizers/OptimizationProblems.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Optimization Problems for Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sosiristseng/template-juliabook-literate-cirrus</title>
-    <updated>2023-05-18T01:38:14Z</updated>
-    <id>tag:github.com,2023-05-18:/sosiristseng/template-juliabook-literate-cirrus</id>
-    <link href="https://github.com/sosiristseng/template-juliabook-literate-cirrus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Publish Julia notebooks with Literate.jl, Jupyter book, and Cirrus CI&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mitmath/computational-thinking</title>
+    <updated>2023-05-19T01:38:45Z</updated>
+    <id>tag:github.com,2023-05-19:/mitmath/computational-thinking</id>
+    <link href="https://github.com/mitmath/computational-thinking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

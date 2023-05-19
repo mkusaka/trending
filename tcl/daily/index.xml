@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:46:43Z</updated>
+  <updated>2023-05-19T01:46:47Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Yapote/ETHEREUM-SNIPING-BOT-ETHX</title>
+    <updated>2023-05-19T01:46:47Z</updated>
+    <id>tag:github.com,2023-05-19:/Yapote/ETHEREUM-SNIPING-BOT-ETHX</id>
+    <link href="https://github.com/Yapote/ETHEREUM-SNIPING-BOT-ETHX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ethereum sniping bot for the real deal snipers that snipe OG shit like Illuvium, AAVE token launches and shit Metaverse projects that always dump&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

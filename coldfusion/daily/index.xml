@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:32:38Z</updated>
+  <updated>2023-05-19T01:32:56Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>coldbox-modules/cbopenai</title>
-    <updated>2023-05-18T01:32:38Z</updated>
-    <id>tag:github.com,2023-05-18:/coldbox-modules/cbopenai</id>
-    <link href="https://github.com/coldbox-modules/cbopenai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CBOPENAI is a ColdBox module that provides a simple API to access OpenAI&#39;s variety of AI services.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

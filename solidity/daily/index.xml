@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:45:50Z</updated>
+  <updated>2023-05-19T01:46:02Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maple-labs/loan</title>
-    <updated>2023-05-18T01:45:50Z</updated>
-    <id>tag:github.com,2023-05-18:/maple-labs/loan</id>
-    <link href="https://github.com/maple-labs/loan" rel="alternate"></link>
+    <title>raft-fi/contracts</title>
+    <updated>2023-05-19T01:46:02Z</updated>
+    <id>tag:github.com,2023-05-19:/raft-fi/contracts</id>
+    <link href="https://github.com/raft-fi/contracts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>erc6551/reference</title>
-    <updated>2023-05-18T01:45:50Z</updated>
-    <id>tag:github.com,2023-05-18:/erc6551/reference</id>
-    <link href="https://github.com/erc6551/reference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ERC-6551 reference implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>syncswap/core-contracts</title>
+    <updated>2023-05-19T01:46:02Z</updated>
+    <id>tag:github.com,2023-05-19:/syncswap/core-contracts</id>
+    <link href="https://github.com/syncswap/core-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>botmev/MevBot</title>
+    <updated>2023-05-19T01:46:02Z</updated>
+    <id>tag:github.com,2023-05-19:/botmev/MevBot</id>
+    <link href="https://github.com/botmev/MevBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

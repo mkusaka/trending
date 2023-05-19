@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Turing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:47:07Z</updated>
+  <updated>2023-05-19T01:47:09Z</updated>
   <subtitle>Daily Trending of Turing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tu-lang/tu</title>
-    <updated>2023-05-18T01:47:07Z</updated>
-    <id>tag:github.com,2023-05-18:/tu-lang/tu</id>
-    <link href="https://github.com/tu-lang/tu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;tu-lang(凸)是一种编程语言，旨在创造一种非常简单高效的语言(防秃)。已实现自举&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

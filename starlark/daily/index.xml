@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:46:04Z</updated>
+  <updated>2023-05-19T01:46:15Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kczulko/rules_elm</title>
-    <updated>2023-05-18T01:46:04Z</updated>
-    <id>tag:github.com,2023-05-18:/kczulko/rules_elm</id>
-    <link href="https://github.com/kczulko/rules_elm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bazel rules for building web applications written in Elm&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

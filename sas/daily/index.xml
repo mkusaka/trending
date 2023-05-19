@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SAS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:44:40Z</updated>
+  <updated>2023-05-19T01:45:03Z</updated>
   <subtitle>Daily Trending of SAS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IBM/fdr-generator</title>
+    <updated>2023-05-19T01:45:03Z</updated>
+    <id>tag:github.com,2023-05-19:/IBM/fdr-generator</id>
+    <link href="https://github.com/IBM/fdr-generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Classical planning task generator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

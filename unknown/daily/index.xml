@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:29:27Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-05-19T01:30:18Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HolographicWings/TOTK-Mods-collection</title>
-    <updated>2023-05-18T01:29:27Z</updated>
-    <id>tag:github.com,2023-05-18:/HolographicWings/TOTK-Mods-collection</id>
-    <link href="https://github.com/HolographicWings/TOTK-Mods-collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mod repo for TOTK on Yuzu emulator.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>megaease/Remembering-Haoel</title>
+    <updated>2023-05-19T01:30:18Z</updated>
+    <id>tag:github.com,2023-05-19:/megaease/Remembering-Haoel</id>
+    <link href="https://github.com/megaease/Remembering-Haoel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;记录您对左耳朵耗子（陈皓）的点滴回忆&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>erdengk/excellent-wheel</title>
-    <updated>2023-05-18T01:29:27Z</updated>
-    <id>tag:github.com,2023-05-18:/erdengk/excellent-wheel</id>
-    <link href="https://github.com/erdengk/excellent-wheel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;收集轮子类项目&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/azure-powershell</title>
+    <updated>2023-05-19T01:30:18Z</updated>
+    <id>tag:github.com,2023-05-19:/Azure/azure-powershell</id>
+    <link href="https://github.com/Azure/azure-powershell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Microsoft Azure PowerShell&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>snowcra5h/windows-api-function-cheatsheets</title>
-    <updated>2023-05-18T01:29:27Z</updated>
-    <id>tag:github.com,2023-05-18:/snowcra5h/windows-api-function-cheatsheets</id>
-    <link href="https://github.com/snowcra5h/windows-api-function-cheatsheets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A reference of Windows API function calls, including functions for file operations, process management, memory management, thread management, dynamic-link library (DLL) management, synchronization, interprocess communication, Unicode string manipulation, error handling, Winsock networking operations, and registry operations.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jrin771/Everything-LLMs-And-Robotics</title>
+    <updated>2023-05-19T01:30:18Z</updated>
+    <id>tag:github.com,2023-05-19:/jrin771/Everything-LLMs-And-Robotics</id>
+    <link href="https://github.com/jrin771/Everything-LLMs-And-Robotics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The world&#39;s largest GitHub Repository for LLMs + Robotics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

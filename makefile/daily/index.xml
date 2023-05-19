@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:39:32Z</updated>
+  <updated>2023-05-19T01:40:00Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>EKGF/data-product</title>
+    <updated>2023-05-19T01:40:00Z</updated>
+    <id>tag:github.com,2023-05-19:/EKGF/data-product</id>
+    <link href="https://github.com/EKGF/data-product" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Artifacts of the EKGF Data Product Workgroup&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elisasre/networkpolicy-controller</title>
+    <updated>2023-05-19T01:40:00Z</updated>
+    <id>tag:github.com,2023-05-19:/elisasre/networkpolicy-controller</id>
+    <link href="https://github.com/elisasre/networkpolicy-controller" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Component blocks pod access to common metadata IP address in different cloud providers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

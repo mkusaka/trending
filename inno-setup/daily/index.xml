@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Inno Setup Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-18T01:37:12Z</updated>
+  <updated>2023-05-19T01:37:23Z</updated>
   <subtitle>Daily Trending of Inno Setup in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>LINBIT/cloud-init-for-windows</title>
+    <updated>2023-05-19T01:37:23Z</updated>
+    <id>tag:github.com,2023-05-19:/LINBIT/cloud-init-for-windows</id>
+    <link href="https://github.com/LINBIT/cloud-init-for-windows" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimal version of cloud-init for windows&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>LinkScapeOfficial/LinkDown</title>
+    <updated>2023-05-19T01:37:23Z</updated>
+    <id>tag:github.com,2023-05-19:/LinkScapeOfficial/LinkDown</id>
+    <link href="https://github.com/LinkScapeOfficial/LinkDown" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple link, a easier life.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
