@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:35:27Z</updated>
+  <updated>2023-05-20T01:35:10Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>libprima/prima</title>
-    <updated>2023-05-19T01:35:27Z</updated>
-    <id>tag:github.com,2023-05-19:/libprima/prima</id>
-    <link href="https://github.com/libprima/prima" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PRIMA is a package for solving general nonlinear optimization problems without using derivatives. It provides the reference implementation of Powell&#39;s derivative-free optimization methods, i.e., COBYLA, UOBYQA, NEWUOA, BOBYQA, and LINCOA. PRIMA means Reference Implementation for Powell&#39;s methods with Modernization and Amelioration, &#34;P&#34; for Powell.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:36:22Z</updated>
+  <updated>2023-05-20T01:36:07Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rbolkey/gradle-scrooge-plugin</title>
-    <updated>2023-05-19T01:36:22Z</updated>
-    <id>tag:github.com,2023-05-19:/rbolkey/gradle-scrooge-plugin</id>
-    <link href="https://github.com/rbolkey/gradle-scrooge-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gradle plugin for Scrooge&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>akshu20791/sharedlibs</title>
-    <updated>2023-05-19T01:36:22Z</updated>
-    <id>tag:github.com,2023-05-19:/akshu20791/sharedlibs</id>
-    <link href="https://github.com/akshu20791/sharedlibs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;understanding the concept of shared libraries in jenkins&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

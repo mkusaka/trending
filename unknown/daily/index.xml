@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:30:18Z</updated>
+  <updated>2023-05-20T01:29:43Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>megaease/Remembering-Haoel</title>
-    <updated>2023-05-19T01:30:18Z</updated>
-    <id>tag:github.com,2023-05-19:/megaease/Remembering-Haoel</id>
-    <link href="https://github.com/megaease/Remembering-Haoel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;记录您对左耳朵耗子（陈皓）的点滴回忆&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ray-project/llm-numbers</title>
+    <updated>2023-05-20T01:29:43Z</updated>
+    <id>tag:github.com,2023-05-20:/ray-project/llm-numbers</id>
+    <link href="https://github.com/ray-project/llm-numbers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Numbers every LLM developer should know&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Azure/azure-powershell</title>
-    <updated>2023-05-19T01:30:18Z</updated>
-    <id>tag:github.com,2023-05-19:/Azure/azure-powershell</id>
-    <link href="https://github.com/Azure/azure-powershell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Microsoft Azure PowerShell&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>streaak/keyhacks</title>
+    <updated>2023-05-20T01:29:43Z</updated>
+    <id>tag:github.com,2023-05-20:/streaak/keyhacks</id>
+    <link href="https://github.com/streaak/keyhacks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they&#39;re valid.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jrin771/Everything-LLMs-And-Robotics</title>
-    <updated>2023-05-19T01:30:18Z</updated>
-    <id>tag:github.com,2023-05-19:/jrin771/Everything-LLMs-And-Robotics</id>
-    <link href="https://github.com/jrin771/Everything-LLMs-And-Robotics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The world&#39;s largest GitHub Repository for LLMs + Robotics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fgr178707/aliyunpan-automation</title>
+    <updated>2023-05-20T01:29:43Z</updated>
+    <id>tag:github.com,2023-05-20:/fgr178707/aliyunpan-automation</id>
+    <link href="https://github.com/fgr178707/aliyunpan-automation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;阿里云盘自动签到脚本 每天凌晨1:30自动签到&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

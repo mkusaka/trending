@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:34:52Z</updated>
+  <updated>2023-05-20T01:34:28Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mobu-of-the-world/emobu</title>
-    <updated>2023-05-19T01:34:52Z</updated>
-    <id>tag:github.com,2023-05-19:/mobu-of-the-world/emobu</id>
-    <link href="https://github.com/mobu-of-the-world/emobu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;👥 ⏲️ 🚗 - Mob programming timer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jerith666/elbum</title>
-    <updated>2023-05-19T01:34:52Z</updated>
-    <id>tag:github.com,2023-05-19:/jerith666/elbum</id>
-    <link href="https://github.com/jerith666/elbum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Web photo album generator in Elm and Haskell&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

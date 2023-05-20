@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:40:56Z</updated>
+  <updated>2023-05-20T01:40:14Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gongyh/nf-core-scgs</title>
+    <updated>2023-05-20T01:40:14Z</updated>
+    <id>tag:github.com,2023-05-20:/gongyh/nf-core-scgs</id>
+    <link href="https://github.com/gongyh/nf-core-scgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Single Cell Genome Sequencing data analysis pipeline&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

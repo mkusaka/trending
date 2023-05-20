@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:45:18Z</updated>
+  <updated>2023-05-20T01:44:47Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>creativetimofficial/vue-soft-ui-dashboard-laravel</title>
-    <updated>2023-05-19T01:45:18Z</updated>
-    <id>tag:github.com,2023-05-19:/creativetimofficial/vue-soft-ui-dashboard-laravel</id>
-    <link href="https://github.com/creativetimofficial/vue-soft-ui-dashboard-laravel" rel="alternate"></link>
+    <title>Alireza-Mooradi/Learno</title>
+    <updated>2023-05-20T01:44:47Z</updated>
+    <id>tag:github.com,2023-05-20:/Alireza-Mooradi/Learno</id>
+    <link href="https://github.com/Alireza-Mooradi/Learno" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wangjia184/diffusion_model</title>
-    <updated>2023-05-19T01:45:18Z</updated>
-    <id>tag:github.com,2023-05-19:/wangjia184/diffusion_model</id>
-    <link href="https://github.com/wangjia184/diffusion_model" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An online playground of diffusion model&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>primate-inc/test-task</title>
+    <updated>2023-05-20T01:44:47Z</updated>
+    <id>tag:github.com,2023-05-20:/primate-inc/test-task</id>
+    <link href="https://github.com/primate-inc/test-task" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sweetalert2/sweetalert2-themes</title>
+    <updated>2023-05-20T01:44:47Z</updated>
+    <id>tag:github.com,2023-05-20:/sweetalert2/sweetalert2-themes</id>
+    <link href="https://github.com/sweetalert2/sweetalert2-themes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Themes for SweetAlert2: Dark, Minimal, Borderless, Bootstrap, Material UI, WordPress Admin, Bulma, ...&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

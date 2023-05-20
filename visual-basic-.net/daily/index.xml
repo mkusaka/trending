@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:47:48Z</updated>
+  <updated>2023-05-20T01:47:21Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Manawyrm/dhltrack_vb</title>
+    <updated>2023-05-20T01:47:21Z</updated>
+    <id>tag:github.com,2023-05-20:/Manawyrm/dhltrack_vb</id>
+    <link href="https://github.com/Manawyrm/dhltrack_vb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;copy of dhltrack_cs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

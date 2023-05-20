@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:47:50Z</updated>
+  <updated>2023-05-20T01:47:24Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nuxtlabs/ui</title>
-    <updated>2023-05-19T01:47:50Z</updated>
-    <id>tag:github.com,2023-05-19:/nuxtlabs/ui</id>
-    <link href="https://github.com/nuxtlabs/ui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fully styled and customizable components for Nuxt.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>WanyueKJ/takeaway-uniapp</title>
-    <updated>2023-05-19T01:47:50Z</updated>
-    <id>tag:github.com,2023-05-19:/WanyueKJ/takeaway-uniapp</id>
-    <link href="https://github.com/WanyueKJ/takeaway-uniapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;万岳同城外卖(takeaway) 系统开源版，前端uniapp+后台php搭建，系统包含商家端、配送端、用户端以及总管理后台、城市配送后台&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

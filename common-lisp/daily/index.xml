@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:33:00Z</updated>
+  <updated>2023-05-20T01:32:28Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>seckcoder/lisp-exercise</title>
+    <updated>2023-05-20T01:32:28Z</updated>
+    <id>tag:github.com,2023-05-20:/seckcoder/lisp-exercise</id>
+    <link href="https://github.com/seckcoder/lisp-exercise" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lisp exercise&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

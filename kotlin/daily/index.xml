@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-19T01:39:12Z</updated>
+  <updated>2023-05-20T01:38:27Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>saket/telephoto</title>
-    <updated>2023-05-19T01:39:12Z</updated>
-    <id>tag:github.com,2023-05-19:/saket/telephoto</id>
-    <link href="https://github.com/saket/telephoto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Building blocks for designing media experiences in Compose UI&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/saket/telephoto/trunk/docs/assets/readme_logo_light.png#gh-light-mode-only&#34; alt=&#34;logo&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/saket/telephoto/trunk/docs/assets/readme_logo_dark.png#gh-dark-mode-only&#34; alt=&#34;logo&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/saket/telephoto/assets/2387680/77d559f4-04cd-459b-be90-fb272e7a1ee0&#34;&gt;https://github.com/saket/telephoto/assets/2387680/77d559f4-04cd-459b-be90-fb272e7a1ee0&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Designing a cohesive media experience for Android can be a lot of work. Telephoto aims to make that easier by offering some building blocks for Compose UI.&lt;/p&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;https://saket.github.io/telephoto/zoomableimage/&#34;&gt;Zoomable Image&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p&gt;&lt;em&gt;Drop-in&lt;/em&gt; replacement for &lt;code&gt;Image()&lt;/code&gt; composables featuring support for pan &amp;amp; zoom gestures and automatic sub‑sampling of large images that&#39;d otherwise not fit into memory.&lt;/p&gt; &#xA;&lt;h3&gt;&lt;a href=&#34;https://saket.github.io/telephoto/zoomable/&#34;&gt;Modifier.zoomable()&lt;/a&gt;&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt;ZoomableImage&lt;/code&gt;&#39;s gesture detector, packaged as a standalone &lt;code&gt;Modifier&lt;/code&gt; that can be used with non-image composables.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://saket.github.io/telephoto&#34;&gt;project website&lt;/a&gt; for full documentation.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;Copyright 2023 Saket Narayan.&#xA;&#xA;Licensed under the Apache License, Version 2.0 (the &#34;License&#34;);&#xA;you may not use this file except in compliance with the License.&#xA;You may obtain a copy of the License at&#xA;&#xA;   http://www.apache.org/licenses/LICENSE-2.0&#xA;&#xA;Unless required by applicable law or agreed to in writing, software&#xA;distributed under the License is distributed on an &#34;AS IS&#34; BASIS,&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xA;See the License for the specific language governing permissions and&#xA;limitations under the License.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>
