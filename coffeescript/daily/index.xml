@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-20T01:32:24Z</updated>
+  <updated>2023-05-21T01:31:36Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SimbCo/brunch-with-marionette</title>
+    <updated>2023-05-21T01:31:36Z</updated>
+    <id>tag:github.com,2023-05-21:/SimbCo/brunch-with-marionette</id>
+    <link href="https://github.com/SimbCo/brunch-with-marionette" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple skeleton for brunch.io utilizing MarionetteJS, Handlebars, Stylus and Backbone&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-20T01:29:43Z</updated>
+  <updated>2023-05-21T01:29:14Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ray-project/llm-numbers</title>
-    <updated>2023-05-20T01:29:43Z</updated>
-    <id>tag:github.com,2023-05-20:/ray-project/llm-numbers</id>
-    <link href="https://github.com/ray-project/llm-numbers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Numbers every LLM developer should know&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wervlad/wervlad</title>
+    <updated>2023-05-21T01:29:14Z</updated>
+    <id>tag:github.com,2023-05-21:/wervlad/wervlad</id>
+    <link href="https://github.com/wervlad/wervlad" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>streaak/keyhacks</title>
-    <updated>2023-05-20T01:29:43Z</updated>
-    <id>tag:github.com,2023-05-20:/streaak/keyhacks</id>
-    <link href="https://github.com/streaak/keyhacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they&#39;re valid.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sqfmi/beepberry-hardware</title>
+    <updated>2023-05-21T01:29:14Z</updated>
+    <id>tag:github.com,2023-05-21:/sqfmi/beepberry-hardware</id>
+    <link href="https://github.com/sqfmi/beepberry-hardware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beepberry Hardware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>fgr178707/aliyunpan-automation</title>
-    <updated>2023-05-20T01:29:43Z</updated>
-    <id>tag:github.com,2023-05-20:/fgr178707/aliyunpan-automation</id>
-    <link href="https://github.com/fgr178707/aliyunpan-automation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;阿里云盘自动签到脚本 每天凌晨1:30自动签到&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>deepanshu1422/List-Of-Open-Source-Internships-Programs</title>
+    <updated>2023-05-21T01:29:14Z</updated>
+    <id>tag:github.com,2023-05-21:/deepanshu1422/List-Of-Open-Source-Internships-Programs</id>
+    <link href="https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of all the open-source internships/Programs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

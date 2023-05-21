@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-20T01:45:29Z</updated>
+  <updated>2023-05-21T01:44:30Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jtriley-eth/ether-deck</title>
-    <updated>2023-05-20T01:45:29Z</updated>
-    <id>tag:github.com,2023-05-20:/jtriley-eth/ether-deck</id>
-    <link href="https://github.com/jtriley-eth/ether-deck" rel="alternate"></link>
+    <title>code-423n4/2023-05-juicebox</title>
+    <updated>2023-05-21T01:44:30Z</updated>
+    <id>tag:github.com,2023-05-21:/code-423n4/2023-05-juicebox</id>
+    <link href="https://github.com/code-423n4/2023-05-juicebox" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Supercycled/flashloans-toolbox</title>
-    <updated>2023-05-20T01:45:29Z</updated>
-    <id>tag:github.com,2023-05-20:/Supercycled/flashloans-toolbox</id>
-    <link href="https://github.com/Supercycled/flashloans-toolbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Suite of convenients smart contracts to exectute flashloans on UniV2, UniV3, AAVEV2 and AAVEV3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wormhole-foundation/xdapp-book</title>
+    <updated>2023-05-21T01:44:30Z</updated>
+    <id>tag:github.com,2023-05-21:/wormhole-foundation/xdapp-book</id>
+    <link href="https://github.com/wormhole-foundation/xdapp-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;How to get started building cross chain applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>matter-labs/custom-aa-tutorial</title>
+    <updated>2023-05-21T01:44:30Z</updated>
+    <id>tag:github.com,2023-05-21:/matter-labs/custom-aa-tutorial</id>
+    <link href="https://github.com/matter-labs/custom-aa-tutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A full example for the tutorial on custom AA&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

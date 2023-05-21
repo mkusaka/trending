@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Open Policy Agent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-20T01:40:52Z</updated>
+  <updated>2023-05-21T01:40:07Z</updated>
   <subtitle>Daily Trending of Open Policy Agent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>permitio/generated-policy-example</title>
-    <updated>2023-05-20T01:40:52Z</updated>
-    <id>tag:github.com,2023-05-20:/permitio/generated-policy-example</id>
-    <link href="https://github.com/permitio/generated-policy-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

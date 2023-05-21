@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-21T02:05:05Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>webfansplz/vite-plugin-vue-devtools</title>
+    <updated>2023-05-21T02:05:05Z</updated>
+    <id>tag:github.com,2023-05-21:/webfansplz/vite-plugin-vue-devtools</id>
+    <link href="https://github.com/webfansplz/vite-plugin-vue-devtools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vite + Vue DevTools = DX 🔥&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AlanLee1996/wenda-webui</title>
+    <updated>2023-05-21T02:05:05Z</updated>
+    <id>tag:github.com,2023-05-21:/AlanLee1996/wenda-webui</id>
+    <link href="https://github.com/AlanLee1996/wenda-webui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;专为 l15y/wenda 闻达平台设计的webui&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>imClumsyPanda/langchain-ChatGLM</title>
+    <updated>2023-05-21T02:05:05Z</updated>
+    <id>tag:github.com,2023-05-21:/imClumsyPanda/langchain-ChatGLM</id>
+    <link href="https://github.com/imClumsyPanda/langchain-ChatGLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

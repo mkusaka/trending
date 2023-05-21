@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Motoko Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-21T01:57:54Z</updated>
+  <subtitle>Weekly Trending of Motoko in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ORIGYN-SA/CanDB</title>
+    <updated>2023-05-21T01:57:54Z</updated>
+    <id>tag:github.com,2023-05-21:/ORIGYN-SA/CanDB</id>
+    <link href="https://github.com/ORIGYN-SA/CanDB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CanDB - CanDB is a flexible, performant, and horizontally scalable non-relational multi-canister data storage framework built for the Internet Computer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-21T01:56:06Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaStats/Distance.jl</title>
+    <updated>2023-05-21T01:56:06Z</updated>
+    <id>tag:github.com,2023-05-21:/JuliaStats/Distance.jl</id>
+    <link href="https://github.com/JuliaStats/Distance.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia module for Distance evaluation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenModelica/OMRuntimeExternalC.jl</title>
+    <updated>2023-05-21T01:56:06Z</updated>
+    <id>tag:github.com,2023-05-21:/OpenModelica/OMRuntimeExternalC.jl</id>
+    <link href="https://github.com/OpenModelica/OMRuntimeExternalC.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia library wrapper for MSL external C code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sisl/ModelBasedValidationInference</title>
+    <updated>2023-05-21T01:56:06Z</updated>
+    <id>tag:github.com,2023-05-21:/sisl/ModelBasedValidationInference</id>
+    <link href="https://github.com/sisl/ModelBasedValidationInference" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for &#34;Model-Based Validation as Probabilistic Inference&#34; presented at L4DC 2023&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

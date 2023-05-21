@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-20T01:30:40Z</updated>
+  <updated>2023-05-21T01:29:57Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>midudev/la-velada-landing</title>
-    <updated>2023-05-20T01:30:40Z</updated>
-    <id>tag:github.com,2023-05-20:/midudev/la-velada-landing</id>
-    <link href="https://github.com/midudev/la-velada-landing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;La velada del año Landing para fines educativos&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arkemishub/arke-website</title>
+    <updated>2023-05-21T01:29:57Z</updated>
+    <id>tag:github.com,2023-05-21:/arkemishub/arke-website</id>
+    <link href="https://github.com/arkemishub/arke-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Arke Website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

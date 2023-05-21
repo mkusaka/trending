@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-20T01:39:18Z</updated>
+  <updated>2023-05-21T01:38:35Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>QubesOS/qubes-doc</title>
-    <updated>2023-05-20T01:39:18Z</updated>
-    <id>tag:github.com,2023-05-20:/QubesOS/qubes-doc</id>
-    <link href="https://github.com/QubesOS/qubes-doc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Qubes documentation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rocksclusters/service-pack</title>
+    <updated>2023-05-21T01:38:35Z</updated>
+    <id>tag:github.com,2023-05-21:/rocksclusters/service-pack</id>
+    <link href="https://github.com/rocksclusters/service-pack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This code is used to generate a service pack for Rocks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xiaomi-sm6150/proprietary_vendor_xiaomi_davinci</title>
+    <updated>2023-05-21T01:38:35Z</updated>
+    <id>tag:github.com,2023-05-21:/xiaomi-sm6150/proprietary_vendor_xiaomi_davinci</id>
+    <link href="https://github.com/xiaomi-sm6150/proprietary_vendor_xiaomi_davinci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

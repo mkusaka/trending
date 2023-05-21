@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Janet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-20T01:37:05Z</updated>
+  <updated>2023-05-21T01:36:17Z</updated>
   <subtitle>Daily Trending of Janet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>janet-lang/spork</title>
-    <updated>2023-05-20T01:37:05Z</updated>
-    <id>tag:github.com,2023-05-20:/janet-lang/spork</id>
-    <link href="https://github.com/janet-lang/spork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Various Janet utility modules - the official &#34;Contrib&#34; library.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

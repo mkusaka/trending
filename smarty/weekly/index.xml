@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-21T02:02:58Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>k8snetworkplumbingwg/helm-charts</title>
+    <updated>2023-05-21T02:02:58Z</updated>
+    <id>tag:github.com,2023-05-21:/k8snetworkplumbingwg/helm-charts</id>
+    <link href="https://github.com/k8snetworkplumbingwg/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm charts for deployment of NPWG implementations and ancillary tools&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Icinga/helm-charts</title>
+    <updated>2023-05-21T02:02:58Z</updated>
+    <id>tag:github.com,2023-05-21:/Icinga/helm-charts</id>
+    <link href="https://github.com/Icinga/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Icinga2 related Helm charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>QingCloudAppcenter/Rabbitmq-operator-chart</title>
+    <updated>2023-05-21T02:02:58Z</updated>
+    <id>tag:github.com,2023-05-21:/QingCloudAppcenter/Rabbitmq-operator-chart</id>
+    <link href="https://github.com/QingCloudAppcenter/Rabbitmq-operator-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

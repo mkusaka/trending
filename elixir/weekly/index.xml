@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Elixir Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-21T01:51:53Z</updated>
+  <subtitle>Weekly Trending of Elixir in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>elixir-ecto/ecto_sql</title>
+    <updated>2023-05-21T01:51:53Z</updated>
+    <id>tag:github.com,2023-05-21:/elixir-ecto/ecto_sql</id>
+    <link href="https://github.com/elixir-ecto/ecto_sql" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQL-based adapters for Ecto and database migrations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>elixir-gettext/gettext</title>
+    <updated>2023-05-21T01:51:53Z</updated>
+    <id>tag:github.com,2023-05-21:/elixir-gettext/gettext</id>
+    <link href="https://github.com/elixir-gettext/gettext" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Internationalization and localization support for Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

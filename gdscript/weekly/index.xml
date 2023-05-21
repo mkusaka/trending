@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub GDScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-21T01:52:43Z</updated>
+  <subtitle>Weekly Trending of GDScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>expressobits/inventory-system</title>
+    <updated>2023-05-21T01:52:43Z</updated>
+    <id>tag:github.com,2023-05-21:/expressobits/inventory-system</id>
+    <link href="https://github.com/expressobits/inventory-system" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modular inventory system for godot 4 with nodes, compatible with multiplayer, separate logic from the UI, Using items as separate resources.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blackears/cyclopsLevelBuilder</title>
+    <updated>2023-05-21T01:52:43Z</updated>
+    <id>tag:github.com,2023-05-21:/blackears/cyclopsLevelBuilder</id>
+    <link href="https://github.com/blackears/cyclopsLevelBuilder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Godot plugin to let you block in levels inside the Godot editor.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>derkork/godot-statecharts</title>
+    <updated>2023-05-21T01:52:43Z</updated>
+    <id>tag:github.com,2023-05-21:/derkork/godot-statecharts</id>
+    <link href="https://github.com/derkork/godot-statecharts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A state charts extension for Godot 4&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
