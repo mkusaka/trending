@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-21T01:46:09Z</updated>
+  <updated>2023-05-22T01:46:05Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>va7deo/MegaSys1_A</title>
-    <updated>2023-05-21T01:46:09Z</updated>
-    <id>tag:github.com,2023-05-21:/va7deo/MegaSys1_A</id>
-    <link href="https://github.com/va7deo/MegaSys1_A" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jaleco Mega System 1 Rev A&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs</title>
+    <updated>2023-05-22T01:46:05Z</updated>
+    <id>tag:github.com,2023-05-22:/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs</id>
+    <link href="https://github.com/cepdnaclk/e17-4yp-Neuromorphic-NoC-Architecture-for-SNNs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This project aims to develop a novel neuromorphic NoC architecture based on RISC-V ISA to support spiking neural network applications, and test it on FPGA.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jjejdhhd/License-Plate-Recognition-FPGA</title>
+    <updated>2023-05-22T01:46:05Z</updated>
+    <id>tag:github.com,2023-05-22:/jjejdhhd/License-Plate-Recognition-FPGA</id>
+    <link href="https://github.com/jjejdhhd/License-Plate-Recognition-FPGA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于FPGA进行车牌识别&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

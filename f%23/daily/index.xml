@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-21T01:33:33Z</updated>
+  <updated>2023-05-22T01:34:26Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ionide/ionide-fsgrammar</title>
+    <updated>2023-05-22T01:34:26Z</updated>
+    <id>tag:github.com,2023-05-22:/ionide/ionide-fsgrammar</id>
+    <link href="https://github.com/ionide/ionide-fsgrammar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shared Textmate Regex Style F# Language Grammar&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ionide-FsGrammar&lt;/h1&gt; &#xA;&lt;p&gt;A Colllection of Textmate Syntax Definiton JSON files for&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;F# : &lt;code&gt;.fs&lt;/code&gt;,&lt;code&gt;.fsx&lt;/code&gt;,&lt;code&gt;.fsi&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;FsLex : &lt;code&gt;.fsl&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;FsYacc : &lt;code&gt;.fsy&lt;/code&gt; &lt;em&gt;(not implemented)&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;Paket Dependencies : &lt;code&gt;paket.dependecies&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Paket Lock : &lt;code&gt;paket.lock&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Used by the Ionide-FSharp Extensions for &lt;a href=&#34;https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp&#34;&gt;VSCode&lt;/a&gt; and &lt;a href=&#34;https://atom.io/packages/ionide-fsharp&#34;&gt;Atom&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://ionide.io/&#34;&gt;Part of the Ionide Package Suite&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;http://i.imgur.com/QKTVUzR.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/ionide/ionide-fsgrammar/master/CONTRIBUTING.md&#34;&gt;Interested in contributing? Check out CONTRIBUTING.md&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-21T01:43:38Z</updated>
+  <updated>2023-05-22T01:43:37Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zio/zio-quickstarts</title>
-    <updated>2023-05-21T01:43:38Z</updated>
-    <id>tag:github.com,2023-05-21:/zio/zio-quickstarts</id>
-    <link href="https://github.com/zio/zio-quickstarts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimal quickstart ZIO application for writing a RESTful Web Service&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ZIO Quickstarts&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains a collection of quickstarts for ZIO. Each quickstart is a self-contained project that demonstrates a particular aspect of ZIO. The quickstarts are designed to be easy to run and explore.&lt;/p&gt; &#xA;&lt;p&gt;To learn about each quickstart, we have a dedicated article about it at the ZIO documentation website. You can find the list of quickstart articles &lt;a href=&#34;https://zio.dev/guides/#quickstart-guides&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Running Quickstarts&lt;/h2&gt; &#xA;&lt;p&gt;First, open the console and clone the project using &lt;code&gt;git&lt;/code&gt; (or you can simply download the project) and then to the directory of the quickstart you want to run, e.g. &lt;code&gt;zio-quickstart-restful-webservice&lt;/code&gt;:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-scala&#34;&gt;git clone git@github.com:zio/zio-quickstart-restful-webservice.git &#xA;cd zio-quickstart-restful-webservice&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Once you are inside the project directory, run the application:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-scala&#34;&gt;sbt run&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

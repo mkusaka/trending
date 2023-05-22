@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-21T01:39:34Z</updated>
+  <updated>2023-05-22T01:39:48Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jetpack-io/nixtest</title>
-    <updated>2023-05-21T01:39:34Z</updated>
-    <id>tag:github.com,2023-05-21:/jetpack-io/nixtest</id>
-    <link href="https://github.com/jetpack-io/nixtest" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tiny unit testing framework written in pure Nix&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>viperML/dotfiles</title>
+    <updated>2023-05-22T01:39:48Z</updated>
+    <id>tag:github.com,2023-05-22:/viperML/dotfiles</id>
+    <link href="https://github.com/viperML/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Personal configuration files for my PC&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>polygon/gpt4all-nix</title>
-    <updated>2023-05-21T01:39:34Z</updated>
-    <id>tag:github.com,2023-05-21:/polygon/gpt4all-nix</id>
-    <link href="https://github.com/polygon/gpt4all-nix" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nix flake for gpt4all&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>input-output-hk/ci-world</title>
+    <updated>2023-05-22T01:39:48Z</updated>
+    <id>tag:github.com,2023-05-22:/input-output-hk/ci-world</id>
+    <link href="https://github.com/input-output-hk/ci-world" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>justinwoo/nix-shorts</title>
+    <updated>2023-05-22T01:39:48Z</updated>
+    <id>tag:github.com,2023-05-22:/justinwoo/nix-shorts</id>
+    <link href="https://github.com/justinwoo/nix-shorts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of short notes about Nix, down to what is immediately needed for users.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

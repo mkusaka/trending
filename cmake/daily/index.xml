@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-21T01:31:32Z</updated>
+  <updated>2023-05-22T01:32:03Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CogniPilot/synapse_protobuf</title>
+    <updated>2023-05-22T01:32:03Z</updated>
+    <id>tag:github.com,2023-05-22:/CogniPilot/synapse_protobuf</id>
+    <link href="https://github.com/CogniPilot/synapse_protobuf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Synapse Protobuf Definitions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cginternals/cmake-init</title>
+    <updated>2023-05-22T01:32:03Z</updated>
+    <id>tag:github.com,2023-05-22:/cginternals/cmake-init</id>
+    <link href="https://github.com/cginternals/cmake-init" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for reliable, cross-platform C++ project setup using cmake.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

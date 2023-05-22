@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-21T01:31:26Z</updated>
+  <updated>2023-05-22T01:31:57Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>htihospitality/re-dash</title>
-    <updated>2023-05-21T01:31:26Z</updated>
-    <id>tag:github.com,2023-05-21:/htihospitality/re-dash</id>
-    <link href="https://github.com/htihospitality/re-dash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A ClojureDart (re)framework for building user interfaces, leveraging Flutter&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cerner/clara-rules</title>
+    <updated>2023-05-22T01:31:57Z</updated>
+    <id>tag:github.com,2023-05-22:/cerner/clara-rules</id>
+    <link href="https://github.com/cerner/clara-rules" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Forward-chaining rules in Clojure(Script)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bjartwolf/droneOnCatnip</title>
-    <updated>2023-05-21T01:31:26Z</updated>
-    <id>tag:github.com,2023-05-21:/bjartwolf/droneOnCatnip</id>
-    <link href="https://github.com/bjartwolf/droneOnCatnip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flying the ar-drone from catnip.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mentat-collective/road-to-reality</title>
+    <updated>2023-05-22T01:31:57Z</updated>
+    <id>tag:github.com,2023-05-22:/mentat-collective/road-to-reality</id>
+    <link href="https://github.com/mentat-collective/road-to-reality" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Road to Reality essay and newsletter source. A journey through computational physics, from eval/apply to the Einstein field equations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

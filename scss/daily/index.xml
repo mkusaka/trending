@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-21T01:43:51Z</updated>
+  <updated>2023-05-22T01:43:51Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>guacsec/guac-docs</title>
-    <updated>2023-05-21T01:43:51Z</updated>
-    <id>tag:github.com,2023-05-21:/guacsec/guac-docs</id>
-    <link href="https://github.com/guacsec/guac-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Eight-P/BD.8P</title>
-    <updated>2023-05-21T01:43:51Z</updated>
-    <id>tag:github.com,2023-05-21:/Eight-P/BD.8P</id>
-    <link href="https://github.com/Eight-P/BD.8P" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stuff for BetterDiscord&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/nuttx-website</title>
+    <updated>2023-05-22T01:43:51Z</updated>
+    <id>tag:github.com,2023-05-22:/apache/nuttx-website</id>
+    <link href="https://github.com/apache/nuttx-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache NuttX Website&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
