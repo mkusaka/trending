@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clarion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:31:47Z</updated>
+  <updated>2023-05-23T01:33:14Z</updated>
   <subtitle>Daily Trending of Clarion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fushnisoft/SublimeClarion</title>
-    <updated>2023-05-22T01:31:47Z</updated>
-    <id>tag:github.com,2023-05-22:/fushnisoft/SublimeClarion</id>
-    <link href="https://github.com/fushnisoft/SublimeClarion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SublimeText package for Clarion&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

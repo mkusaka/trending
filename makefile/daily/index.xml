@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:38:48Z</updated>
+  <updated>2023-05-23T01:39:52Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Kenvyra/android_device_lineage_sepolicy</title>
-    <updated>2023-05-22T01:38:48Z</updated>
-    <id>tag:github.com,2023-05-22:/Kenvyra/android_device_lineage_sepolicy</id>
-    <link href="https://github.com/Kenvyra/android_device_lineage_sepolicy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Kenvyra/android_external_GmsCompatConfig</title>
-    <updated>2023-05-22T01:38:48Z</updated>
-    <id>tag:github.com,2023-05-22:/Kenvyra/android_external_GmsCompatConfig</id>
-    <link href="https://github.com/Kenvyra/android_external_GmsCompatConfig" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>admirableadmin/pong</title>
+    <updated>2023-05-23T01:39:52Z</updated>
+    <id>tag:github.com,2023-05-23:/admirableadmin/pong</id>
+    <link href="https://github.com/admirableadmin/pong" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Qt Pong Game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

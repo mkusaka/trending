@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MLIR Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:39:12Z</updated>
+  <updated>2023-05-23T01:40:13Z</updated>
   <subtitle>Daily Trending of MLIR in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jpienaar/mlir-grammar</title>
-    <updated>2023-05-22T01:39:12Z</updated>
-    <id>tag:github.com,2023-05-22:/jpienaar/mlir-grammar</id>
-    <link href="https://github.com/jpienaar/mlir-grammar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Copy of the grammar file from MLIR repo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

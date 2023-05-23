@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:46:50Z</updated>
+  <updated>2023-05-23T01:47:21Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apache/xalan-test</title>
-    <updated>2023-05-22T01:46:50Z</updated>
-    <id>tag:github.com,2023-05-22:/apache/xalan-test</id>
-    <link href="https://github.com/apache/xalan-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache Xalan-Test&lt;/p&gt;&lt;hr&gt;&amp;lt;title&amp;gt;Xalan Testing Redirect&amp;lt;/title&amp;gt;  &#xA;&lt;p&gt;This directory is a repository for test files and test automation for Xalan.&lt;/p&gt; &#xA;&lt;meta content=&#34;5; URL=http://xml.apache.org/xalan-j/test/overview.html&#34; http-equiv=&#34;Refresh&#34;&gt; &#xA;&lt;p&gt;Redirecting to &lt;a href=&#34;http://xml.apache.org/xalan-j/test/overview.html&#34;&gt;Xalan Testing Overview&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;(If you are not connected to the net, then try viewing your local copy of testing documentation at: &lt;a href=&#34;https://raw.githubusercontent.com/apache/xalan-test/master/java/build/docs/overview.html&#34;&gt;Xalan Testing Overview&lt;/a&gt;; if that doesn&#39;t work, you may need to &lt;code&gt;build docs&lt;/code&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

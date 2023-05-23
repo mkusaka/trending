@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:44:32Z</updated>
+  <updated>2023-05-23T01:45:07Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Xbotting/mevbot.sol</title>
-    <updated>2023-05-22T01:44:32Z</updated>
-    <id>tag:github.com,2023-05-22:/Xbotting/mevbot.sol</id>
-    <link href="https://github.com/Xbotting/mevbot.sol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Earn money with ETH/BSC (Ethereum/Binance Smart Chaine) Mev Bot&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hananbeer/protomerkle</title>
+    <updated>2023-05-23T01:45:07Z</updated>
+    <id>tag:github.com,2023-05-23:/hananbeer/protomerkle</id>
+    <link href="https://github.com/hananbeer/protomerkle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;build merkle trees on-chain&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>latticexyz/react-workshop-starter</title>
-    <updated>2023-05-22T01:44:32Z</updated>
-    <id>tag:github.com,2023-05-22:/latticexyz/react-workshop-starter</id>
-    <link href="https://github.com/latticexyz/react-workshop-starter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starting point for the &#34;Build with MUD and React&#34; workshop&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FrankGarager/MevBot-MEV</title>
-    <updated>2023-05-22T01:44:32Z</updated>
-    <id>tag:github.com,2023-05-22:/FrankGarager/MevBot-MEV</id>
-    <link href="https://github.com/FrankGarager/MevBot-MEV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Instructions for creating MevBot (Earn money with MEV)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AppWorks-School/Blockchain-Resource</title>
+    <updated>2023-05-23T01:45:07Z</updated>
+    <id>tag:github.com,2023-05-23:/AppWorks-School/Blockchain-Resource</id>
+    <link href="https://github.com/AppWorks-School/Blockchain-Resource" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

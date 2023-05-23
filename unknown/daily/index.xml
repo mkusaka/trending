@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:29:41Z</updated>
+  <updated>2023-05-23T01:30:59Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>XingangPan/DragGAN</title>
-    <updated>2023-05-22T01:29:41Z</updated>
-    <id>tag:github.com,2023-05-22:/XingangPan/DragGAN</id>
-    <link href="https://github.com/XingangPan/DragGAN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for DragGAN (SIGGRAPH 2023)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0nutation/SpeechGPT</title>
+    <updated>2023-05-23T01:30:59Z</updated>
+    <id>tag:github.com,2023-05-23:/0nutation/SpeechGPT</id>
+    <link href="https://github.com/0nutation/SpeechGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>FUE5BASE/FUE5</title>
-    <updated>2023-05-22T01:29:41Z</updated>
-    <id>tag:github.com,2023-05-22:/FUE5BASE/FUE5</id>
-    <link href="https://github.com/FUE5BASE/FUE5" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FUE5 is a fan-made project with the goal to see what would Factorio look like and behave in 3D. This project has no affiliation with the official Factorio game.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>akshitagupta15june/Face-X</title>
+    <updated>2023-05-23T01:30:59Z</updated>
+    <id>tag:github.com,2023-05-23:/akshitagupta15june/Face-X</id>
+    <link href="https://github.com/akshitagupta15june/Face-X" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demonstration of different algorithms and operations on faces. Star the repo⭐&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alikarakoc/YazilimMulakatSorulari</title>
-    <updated>2023-05-22T01:29:41Z</updated>
-    <id>tag:github.com,2023-05-22:/alikarakoc/YazilimMulakatSorulari</id>
-    <link href="https://github.com/alikarakoc/YazilimMulakatSorulari" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Jr., Mid., Sn. Pozisyonlarında karşılaşabileceğiniz mülakat soruları ve cevapları.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE</title>
+    <updated>2023-05-23T01:30:59Z</updated>
+    <id>tag:github.com,2023-05-23:/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE</id>
+    <link href="https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;These REPO contains all ALX resources, with Additional Material i found useful during my course of Study in ALX&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

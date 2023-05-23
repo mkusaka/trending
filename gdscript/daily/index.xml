@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:34:54Z</updated>
+  <updated>2023-05-23T01:36:04Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>godot-extended-libraries/godot-debug-menu</title>
-    <updated>2023-05-22T01:34:54Z</updated>
-    <id>tag:github.com,2023-05-22:/godot-extended-libraries/godot-debug-menu</id>
-    <link href="https://github.com/godot-extended-libraries/godot-debug-menu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Display in-game FPS/performance/hardware metrics in a Godot 4.x project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ramaureirac/godot-tactical-rpg</title>
+    <updated>2023-05-23T01:36:04Z</updated>
+    <id>tag:github.com,2023-05-23:/ramaureirac/godot-tactical-rpg</id>
+    <link href="https://github.com/ramaureirac/godot-tactical-rpg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tactical role-playing game demo for the Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>OpenVicProject/OpenVic</title>
+    <updated>2023-05-23T01:36:04Z</updated>
+    <id>tag:github.com,2023-05-23:/OpenVicProject/OpenVic</id>
+    <link href="https://github.com/OpenVicProject/OpenVic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Main Repo for the OpenVic Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>godot-extended-libraries/godot-debug-menu-demo</title>
+    <updated>2023-05-23T01:36:04Z</updated>
+    <id>tag:github.com,2023-05-23:/godot-extended-libraries/godot-debug-menu-demo</id>
+    <link href="https://github.com/godot-extended-libraries/godot-debug-menu-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Demo for the in-game FPS/performance/hardware metrics add-on for Godot 4.x&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

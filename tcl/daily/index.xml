@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:45:14Z</updated>
+  <updated>2023-05-23T01:45:45Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Xilinx/Vivado-Design-Tutorials</title>
-    <updated>2023-05-22T01:45:14Z</updated>
-    <id>tag:github.com,2023-05-22:/Xilinx/Vivado-Design-Tutorials</id>
-    <link href="https://github.com/Xilinx/Vivado-Design-Tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

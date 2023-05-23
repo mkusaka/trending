@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:44:26Z</updated>
+  <updated>2023-05-23T01:45:01Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>epam/edp-ddm-geo-server</title>
-    <updated>2023-05-22T01:44:26Z</updated>
-    <id>tag:github.com,2023-05-22:/epam/edp-ddm-geo-server</id>
-    <link href="https://github.com/epam/edp-ddm-geo-server" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hemanthkatkozu/kubernetes-test</title>
-    <updated>2023-05-22T01:44:26Z</updated>
-    <id>tag:github.com,2023-05-22:/hemanthkatkozu/kubernetes-test</id>
-    <link href="https://github.com/hemanthkatkozu/kubernetes-test" rel="alternate"></link>
+    <title>dmcavinue/k8s</title>
+    <updated>2023-05-23T01:45:01Z</updated>
+    <id>tag:github.com,2023-05-23:/dmcavinue/k8s</id>
+    <link href="https://github.com/dmcavinue/k8s" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

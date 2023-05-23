@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:46:17Z</updated>
+  <updated>2023-05-23T01:46:49Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LiuXIn011/rightHouse</title>
-    <updated>2023-05-22T01:46:17Z</updated>
-    <id>tag:github.com,2023-05-22:/LiuXIn011/rightHouse</id>
-    <link href="https://github.com/LiuXIn011/rightHouse" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;right-house房适，一个开源的房屋租赁管理系统，改变传统租房平台中间商的思路，带来P2P租房新模式，租客和房东直接对接。前期提供房东房源发布和租客求租等功能。建立租赁关系后，提供租客交租和房屋报修等功能，房东管理租客信息，维修房屋等功能。终止租赁关系后，租客对房东进行评价评分，提供给后来租客做参考。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>antdv-pro/antdv-pro</title>
+    <updated>2023-05-23T01:46:49Z</updated>
+    <id>tag:github.com,2023-05-23:/antdv-pro/antdv-pro</id>
+    <link href="https://github.com/antdv-pro/antdv-pro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An antdv-based middle and background management system&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>changetondns/changetondns.fr</title>
+    <updated>2023-05-23T01:46:49Z</updated>
+    <id>tag:github.com,2023-05-23:/changetondns/changetondns.fr</id>
+    <link href="https://github.com/changetondns/changetondns.fr" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Répertoire officiel de changetondns.fr&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yuanyuekeji/stable-diffusion-mobileui</title>
+    <updated>2023-05-23T01:46:49Z</updated>
+    <id>tag:github.com,2023-05-23:/yuanyuekeji/stable-diffusion-mobileui</id>
+    <link href="https://github.com/yuanyuekeji/stable-diffusion-mobileui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于一键包搭建的stable-diffusion，推出适配移动端的界面UI，可以生成H5和微信小程序。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-22T01:34:22Z</updated>
+  <updated>2023-05-23T01:35:32Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>apache/couchdb-meck</title>
-    <updated>2023-05-22T01:34:22Z</updated>
-    <id>tag:github.com,2023-05-22:/apache/couchdb-meck</id>
-    <link href="https://github.com/apache/couchdb-meck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of Apache CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>apache/couchdb-bear</title>
-    <updated>2023-05-22T01:34:22Z</updated>
-    <id>tag:github.com,2023-05-22:/apache/couchdb-bear</id>
-    <link href="https://github.com/apache/couchdb-bear" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mirror of Apache CouchDB&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
