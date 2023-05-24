@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-23T01:30:59Z</updated>
+  <updated>2023-05-24T01:29:51Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0nutation/SpeechGPT</title>
-    <updated>2023-05-23T01:30:59Z</updated>
-    <id>tag:github.com,2023-05-23:/0nutation/SpeechGPT</id>
-    <link href="https://github.com/0nutation/SpeechGPT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>themoonbaba/private_templates</title>
+    <updated>2023-05-24T01:29:51Z</updated>
+    <id>tag:github.com,2023-05-24:/themoonbaba/private_templates</id>
+    <link href="https://github.com/themoonbaba/private_templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Private Nuclei Templates&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>akshitagupta15june/Face-X</title>
-    <updated>2023-05-23T01:30:59Z</updated>
-    <id>tag:github.com,2023-05-23:/akshitagupta15june/Face-X</id>
-    <link href="https://github.com/akshitagupta15june/Face-X" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demonstration of different algorithms and operations on faces. Star the repo⭐&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE</title>
-    <updated>2023-05-23T01:30:59Z</updated>
-    <id>tag:github.com,2023-05-23:/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE</id>
-    <link href="https://github.com/Innocentsax/ALX-RESOURCES_FROM_BEGINNER_TO_ADVANCE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;These REPO contains all ALX resources, with Additional Material i found useful during my course of Study in ALX&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hollobit/GenAI_LLM_timeline</title>
+    <updated>2023-05-24T01:29:51Z</updated>
+    <id>tag:github.com,2023-05-24:/hollobit/GenAI_LLM_timeline</id>
+    <link href="https://github.com/hollobit/GenAI_LLM_timeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT, GenerativeAI and LLMs Timeline&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

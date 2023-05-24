@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-23T01:32:08Z</updated>
+  <updated>2023-05-24T01:31:16Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Zuntan03/SdWebUiTutorial</title>
+    <updated>2023-05-24T01:31:16Z</updated>
+    <id>tag:github.com,2023-05-24:/Zuntan03/SdWebUiTutorial</id>
+    <link href="https://github.com/Zuntan03/SdWebUiTutorial" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;画像生成 AI ツールの Stable Diffusion web UI を、簡単に使えるようにする環境とチュートリアルです。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>focus-editor/focus</title>
+    <updated>2023-05-24T01:31:16Z</updated>
+    <id>tag:github.com,2023-05-24:/focus-editor/focus</id>
+    <link href="https://github.com/focus-editor/focus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple and fast text editor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Vichingo455/Microsoft-KMS-Activation-Scripts</title>
+    <updated>2023-05-24T01:31:16Z</updated>
+    <id>tag:github.com,2023-05-24:/Vichingo455/Microsoft-KMS-Activation-Scripts</id>
+    <link href="https://github.com/Vichingo455/Microsoft-KMS-Activation-Scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;KMS Activation scripts for all Microsoft products (Credits to MSGuides.com)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

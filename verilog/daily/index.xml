@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-23T01:46:38Z</updated>
+  <updated>2023-05-24T01:49:46Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>imocanu/riscv-ml</title>
-    <updated>2023-05-23T01:46:38Z</updated>
-    <id>tag:github.com,2023-05-23:/imocanu/riscv-ml</id>
-    <link href="https://github.com/imocanu/riscv-ml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learning project using RISC-V and NVDLA on Linux&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lawrie/fpga_pio</title>
+    <updated>2023-05-24T01:49:46Z</updated>
+    <id>tag:github.com,2023-05-24:/lawrie/fpga_pio</id>
+    <link href="https://github.com/lawrie/fpga_pio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An attempt to recreate the RP2040 PIO in an FPGA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Obs01ete/tof-driver</title>
+    <updated>2023-05-24T01:49:46Z</updated>
+    <id>tag:github.com,2023-05-24:/Obs01ete/tof-driver</id>
+    <link href="https://github.com/Obs01ete/tof-driver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Small FPGA project to connect a TOF camera to Blackfin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

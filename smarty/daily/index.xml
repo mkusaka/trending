@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-23T01:45:01Z</updated>
+  <updated>2023-05-24T01:47:48Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dmcavinue/k8s</title>
-    <updated>2023-05-23T01:45:01Z</updated>
-    <id>tag:github.com,2023-05-23:/dmcavinue/k8s</id>
-    <link href="https://github.com/dmcavinue/k8s" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gaje85/kubernetes</title>
+    <updated>2023-05-24T01:47:48Z</updated>
+    <id>tag:github.com,2023-05-24:/gaje85/kubernetes</id>
+    <link href="https://github.com/gaje85/kubernetes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo has course materials&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FRINXio/helm-charts</title>
+    <updated>2023-05-24T01:47:48Z</updated>
+    <id>tag:github.com,2023-05-24:/FRINXio/helm-charts</id>
+    <link href="https://github.com/FRINXio/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FRINX Kubernetes Helm Charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

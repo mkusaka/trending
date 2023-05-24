@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-23T01:35:10Z</updated>
+  <updated>2023-05-24T01:35:14Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ausimian/castle</title>
-    <updated>2023-05-23T01:35:10Z</updated>
-    <id>tag:github.com,2023-05-23:/ausimian/castle</id>
-    <link href="https://github.com/ausimian/castle" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>interfacerproject/zenflows</title>
+    <updated>2023-05-24T01:35:14Z</updated>
+    <id>tag:github.com,2023-05-24:/interfacerproject/zenflows</id>
+    <link href="https://github.com/interfacerproject/zenflows" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resource-Event-Agent Graph Database governed by Valueflows vocabulary logics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
