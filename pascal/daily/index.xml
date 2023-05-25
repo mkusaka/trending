@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:43:32Z</updated>
+  <updated>2023-05-25T01:40:52Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adaloveless/commonx</title>
+    <updated>2023-05-25T01:40:52Z</updated>
+    <id>tag:github.com,2023-05-25:/adaloveless/commonx</id>
+    <link href="https://github.com/adaloveless/commonx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi/Object Pascal Classes and Tools for just about everything and everyone.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

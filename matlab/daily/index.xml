@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:41:24Z</updated>
+  <updated>2023-05-25T01:38:50Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clorton/idm-symposium-2023</title>
-    <updated>2023-05-24T01:41:24Z</updated>
-    <id>tag:github.com,2023-05-24:/clorton/idm-symposium-2023</id>
-    <link href="https://github.com/clorton/idm-symposium-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample code for the IDM Spring 2023 disease modeling symposium.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>surban/ruslan-ais</title>
+    <updated>2023-05-25T01:38:50Z</updated>
+    <id>tag:github.com,2023-05-25:/surban/ruslan-ais</id>
+    <link href="https://github.com/surban/ruslan-ais" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ai-winter/matlab_motion_planning</title>
-    <updated>2023-05-24T01:41:24Z</updated>
-    <id>tag:github.com,2023-05-24:/ai-winter/matlab_motion_planning</id>
-    <link href="https://github.com/ai-winter/matlab_motion_planning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Motion planning of Autonomous Mobile Robot(AMR) based on matlab, including A*, JPS, D*, D* Lite, RRT, RRT*, ACO, DWA etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WEC-Sim/WEC-Sim</title>
+    <updated>2023-05-25T01:38:50Z</updated>
+    <id>tag:github.com,2023-05-25:/WEC-Sim/WEC-Sim</id>
+    <link href="https://github.com/WEC-Sim/WEC-Sim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wave Energy Converter Simulator (WEC-Sim), an open-source code for simulating wave energy converters.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dapperfu/matlab_filelist</title>
-    <updated>2023-05-24T01:41:24Z</updated>
-    <id>tag:github.com,2023-05-24:/dapperfu/matlab_filelist</id>
-    <link href="https://github.com/dapperfu/matlab_filelist" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;http://www.mathworks.com/matlabcentral/fileexchange/22829-file-list/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Evenstar/parasimplex</title>
+    <updated>2023-05-25T01:38:50Z</updated>
+    <id>tag:github.com,2023-05-25:/Evenstar/parasimplex</id>
+    <link href="https://github.com/Evenstar/parasimplex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

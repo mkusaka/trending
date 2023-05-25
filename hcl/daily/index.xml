@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:37:55Z</updated>
+  <updated>2023-05-25T01:35:46Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-google-modules/terraform-google-utils</title>
-    <updated>2023-05-24T01:37:55Z</updated>
-    <id>tag:github.com,2023-05-24:/terraform-google-modules/terraform-google-utils</id>
-    <link href="https://github.com/terraform-google-modules/terraform-google-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gets the short names for a given Google Cloud region&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>n-029894/terraform-user-management</title>
+    <updated>2023-05-25T01:35:46Z</updated>
+    <id>tag:github.com,2023-05-25:/n-029894/terraform-user-management</id>
+    <link href="https://github.com/n-029894/terraform-user-management" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proof of concept showing a unified terraform environment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>quantum-sec/package-log-analytics</title>
-    <updated>2023-05-24T01:37:55Z</updated>
-    <id>tag:github.com,2023-05-24:/quantum-sec/package-log-analytics</id>
-    <link href="https://github.com/quantum-sec/package-log-analytics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform modules for deploying and managing Azure Log Analytics infrastructure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DataDog/tfc-workshop</title>
+    <updated>2023-05-25T01:35:46Z</updated>
+    <id>tag:github.com,2023-05-25:/DataDog/tfc-workshop</id>
+    <link href="https://github.com/DataDog/tfc-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

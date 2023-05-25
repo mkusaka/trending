@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:49:38Z</updated>
+  <updated>2023-05-25T01:46:34Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>diorahman/jalak-template</title>
-    <updated>2023-05-24T01:49:38Z</updated>
-    <id>tag:github.com,2023-05-24:/diorahman/jalak-template</id>
-    <link href="https://github.com/diorahman/jalak-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;jalak template, javascriptcore-webkit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

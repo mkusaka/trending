@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:43:41Z</updated>
+  <updated>2023-05-25T01:41:10Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jmaslak/trans-travel</title>
-    <updated>2023-05-24T01:43:41Z</updated>
-    <id>tag:github.com,2023-05-24:/jmaslak/trans-travel</id>
-    <link href="https://github.com/jmaslak/trans-travel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Information about Trans Travel Broken Down by Jurisdiction&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;QUICK START - HOW TO SEE THE TRAVEL INFO&lt;/h1&gt; &#xA;&lt;p&gt;Scroll down on this page to &#34;Directory of Jurisdictions&#34; (right now it&#39;s only USA, but in the future it&#39;ll have other countries) and click on the country you are interested in.&lt;/p&gt; &#xA;&lt;h1&gt;DISCLAIMER&lt;/h1&gt; &#xA;&lt;p&gt;This is not legal advice, and is not put together by a lawyer. This information is not guaranteed to be up-to-date or accurate. You should consult with an attorney with any questions.&lt;/p&gt; &#xA;&lt;h1&gt;Introduction&lt;/h1&gt; &#xA;&lt;p&gt;This project seeks to provide &#34;travel advice&#34; based on laws and practical safety within various jurisdictions. It is not geared towards people living in a state (laws, for instance, about medical insurance won&#39;t generally be mentioned, as most people traveling will have out-of-jurisdiction medical insurance. Likewise, laws about school athletics will not be mentioned as these generally don&#39;t impact travelers. However, information that might impact travelers in different situation will be mentioned. For instance, someone assigned to a business project for several months in a state may need to utilize medical care. Others may travel with children and be concerned about how this could be seen as child abuse or cause child custody issues.&lt;/p&gt; &#xA;&lt;h1&gt;Directory of Jurisdictions&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/jmaslak/trans-travel/main/us&#34;&gt;USA&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;A Note on Intersectional Oppression&lt;/h1&gt; &#xA;&lt;p&gt;This directory is focused on laws and safety concerns that generally impact trans people. However, not all trans people have the same safety concerns, which is why I&#39;ve refrained from saying a state might be &#34;safe&#34; or &#34;dangerous&#34; directly, or giving scores/grades/etc. For instance, a wealthy trans person may be able to more safely visit a specific jurisdiction than someone without class privilege. Likewise, a person with white privilege might be safe in a place where a person who does not have that privilege might not. The intent is to not erase these legitimate intersectional concerns, but to be a starting point for your research.&lt;/p&gt; &#xA;&lt;h1&gt;About &#34;Bad Countries&#34; and &#34;Bad States&#34;&lt;/h1&gt; &#xA;&lt;p&gt;Trans people have always existed, and still do exist across all cultures. A jurisdiction may be unsafe or have bad laws, but there will still be trans people within that jurisdiction, and it&#39;s important to consider them before fully writing off a state or country as not worth a fight. In addition, there are accepting, open-minded allies in every jurisdiction as well.&lt;/p&gt; &#xA;&lt;p&gt;In addition, in both good and bad jurisdictions, there will be good and bad treatment of trans people. The summaries in this project attempt to summarize the situation for people, but they are just summaries. Any one individual&#39;s situation may be different than what others face, both good and bad.&lt;/p&gt; &#xA;&lt;h1&gt;Errors / Omissions&lt;/h1&gt; &#xA;&lt;p&gt;This project welcomes contributions via pull requests or email to &lt;a href=&#34;mailto:jmaslak@antelope.net&#34;&gt;jmaslak@antelope.net&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Particularly interesting is general information from people that know the location, beyond just what the laws say. If you know a city has a great neighborhood for trans people, or that there is a disparity between how one area of the country or state treats people and another, this is extremely valuable information!&lt;/p&gt; &#xA;&lt;p&gt;This project also welcomes contributions of new jurisdictions! To add a new jurisdiction, please utilize the template in template.md if you can.&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;This is licensed Creative Commons Zero (CC0) 1.0.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>binary-com/perl-Rose-DB-Object</title>
-    <updated>2023-05-24T01:43:41Z</updated>
-    <id>tag:github.com,2023-05-24:/binary-com/perl-Rose-DB-Object</id>
-    <link href="https://github.com/binary-com/perl-Rose-DB-Object" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This package is download from cpan.org Rose::DB::Object version 0.798. Fixed 2 test failures.&lt;/p&gt;</summary>
+    <title>team-at-cpan/Database-Async</title>
+    <updated>2023-05-25T01:41:10Z</updated>
+    <id>tag:github.com,2023-05-25:/team-at-cpan/Database-Async</id>
+    <link href="https://github.com/team-at-cpan/Database-Async" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IO::Async support for database interaction&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

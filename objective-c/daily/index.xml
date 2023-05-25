@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:42:46Z</updated>
+  <updated>2023-05-25T01:40:08Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>khanhduytran0/CAPerfHUD</title>
-    <updated>2023-05-24T01:42:46Z</updated>
-    <id>tag:github.com,2023-05-24:/khanhduytran0/CAPerfHUD</id>
-    <link href="https://github.com/khanhduytran0/CAPerfHUD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enable system-wide performance HUD for iOS 13+&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CAPerfHUD&lt;/h1&gt; &#xA;&lt;p&gt;Enable system-wide performance HUD for iOS 13+. Requires jailbreak or TrollStore.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/khanhduytran0/CAPerfHUD/assets/40482367/de6ce69b-2636-46bc-9072-ad2687c4b1a3&#34; alt=&#34;C4EBC522-2C77-4D92-81D0-F5B38C1DF0D0&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Notes&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;iOS 12 (and below?) support is possible, but I couldn&#39;t find any similar entitlement, since &lt;code&gt;com.apple.QuartzCore.debug&lt;/code&gt; was not there.&lt;/li&gt; &#xA; &lt;li&gt;Some measurements may not work (frequencies, power consumption, display EDR).&lt;/li&gt; &#xA; &lt;li&gt;Change lasts until backboardd restarts (respring)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Source code structure&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;CAPerfHUDApp&lt;/code&gt;: Application for AppSync/TrollStore.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;CAPerfHUDModule&lt;/code&gt;: CCSupport module for jailbroken devices.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;CAPerfHUDModule/CADebugHelper&lt;/code&gt;: helper executable to get/set debug values because SpringBoard isn&#39;t entitled to do so.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;export THEOS=/path/to/theos&#xA;&#xA;# Build ipa for AppSync/TrollStore&#xA;make -C CAPerfHUDApp package PACKAGE_FORMAT=ipa&#xA;&#xA;# Before building for the opposite deb package scheme, make sure to add &#34;clean&#34; before &#34;package&#34;&#xA;&#xA;# Build rootful deb for CCSupport&#xA;make -C CAPerfHUDModule package&#xA;&#xA;# Build rootless deb for CCSupport&#xA;make -C CAPerfHUDModule package THEOS_PACKAGE_SCHEME=rootless&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/khanhduytran0/CAPerfHUD/raw/main/LICENSE&#34;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

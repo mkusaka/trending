@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:49:13Z</updated>
+  <updated>2023-05-25T01:46:09Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Ysurac/FlightAirMap</title>
-    <updated>2023-05-24T01:49:13Z</updated>
-    <id>tag:github.com,2023-05-24:/Ysurac/FlightAirMap</id>
-    <link href="https://github.com/Ysurac/FlightAirMap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source project displaying live aircrafts, ships or trackers on 2D/3D map. Browse through the data based on a particular aircraft, airline, airport, tracker or vessel to search through the database or see extensive statistics. Can use ADS-B in SBS1 format (dump1090, Radarcape,...), VRS, VA (VATSIM, IVAO whazzup.txt, phpvms,...), ACARS (acars…&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

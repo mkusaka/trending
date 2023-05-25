@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:49:59Z</updated>
+  <updated>2023-05-25T01:46:54Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>victoryhb/streamlit-option-menu</title>
-    <updated>2023-05-24T01:49:59Z</updated>
-    <id>tag:github.com,2023-05-24:/victoryhb/streamlit-option-menu</id>
-    <link href="https://github.com/victoryhb/streamlit-option-menu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;streamlit-option-menu is a simple Streamlit component that allows users to select a single item from a list of options in a menu.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Evansy/MallChatWeb</title>
-    <updated>2023-05-24T01:49:59Z</updated>
-    <id>tag:github.com,2023-05-24:/Evansy/MallChatWeb</id>
-    <link href="https://github.com/Evansy/MallChatWeb" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;mallchat的前端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AndersonBY/vector-vein</title>
+    <updated>2023-05-25T01:46:54Z</updated>
+    <id>tag:github.com,2023-05-25:/AndersonBY/vector-vein</id>
+    <link href="https://github.com/AndersonBY/vector-vein" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;No-code AI workflow&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

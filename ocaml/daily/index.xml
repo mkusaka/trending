@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:43:01Z</updated>
+  <updated>2023-05-25T01:40:24Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>art-w/prettree</title>
+    <updated>2023-05-25T01:40:24Z</updated>
+    <id>tag:github.com,2023-05-25:/art-w/prettree</id>
+    <link href="https://github.com/art-w/prettree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pretty tree layout with an applicative functor&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dbuenzli/typegist</title>
+    <updated>2023-05-25T01:40:24Z</updated>
+    <id>tag:github.com,2023-05-25:/dbuenzli/typegist</id>
+    <link href="https://github.com/dbuenzli/typegist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Reflect the essence of OCaml types as values&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

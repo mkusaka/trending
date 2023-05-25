@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:36:21Z</updated>
+  <updated>2023-05-25T01:34:35Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GuyUnger/godot-photos-demo</title>
-    <updated>2023-05-24T01:36:21Z</updated>
-    <id>tag:github.com,2023-05-24:/GuyUnger/godot-photos-demo</id>
-    <link href="https://github.com/GuyUnger/godot-photos-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RPicster/godot4-demo-desert-light</title>
+    <updated>2023-05-25T01:34:35Z</updated>
+    <id>tag:github.com,2023-05-25:/RPicster/godot4-demo-desert-light</id>
+    <link href="https://github.com/RPicster/godot4-demo-desert-light" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A graphics demo for Godot 4 - Focus is Volumetric Fog and Indirect Illumination&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>folt-a/godot-idea-board</title>
+    <updated>2023-05-25T01:34:35Z</updated>
+    <id>tag:github.com,2023-05-25:/folt-a/godot-idea-board</id>
+    <link href="https://github.com/folt-a/godot-idea-board" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Design all Godot editor items. Godot4 addon.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

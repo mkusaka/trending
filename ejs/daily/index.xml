@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-24T01:35:10Z</updated>
+  <updated>2023-05-25T01:33:34Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>subhashis2204/project-annapurna</title>
-    <updated>2023-05-24T01:35:10Z</updated>
-    <id>tag:github.com,2023-05-24:/subhashis2204/project-annapurna</id>
-    <link href="https://github.com/subhashis2204/project-annapurna" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is the project annapurna repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kdt-team-ez/medimate_client</title>
+    <updated>2023-05-25T01:33:34Z</updated>
+    <id>tag:github.com,2023-05-25:/kdt-team-ez/medimate_client</id>
+    <link href="https://github.com/kdt-team-ez/medimate_client" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
