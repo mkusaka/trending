@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-25T01:30:12Z</updated>
+  <updated>2023-05-26T01:30:43Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>itz-star-boi/rdp-ngrok</title>
-    <updated>2023-05-25T01:30:12Z</updated>
-    <id>tag:github.com,2023-05-25:/itz-star-boi/rdp-ngrok</id>
-    <link href="https://github.com/itz-star-boi/rdp-ngrok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A script that give you free rdp&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hatuyen1122/WindowsVPS2021</title>
+    <updated>2023-05-26T01:30:43Z</updated>
+    <id>tag:github.com,2023-05-26:/hatuyen1122/WindowsVPS2021</id>
+    <link href="https://github.com/hatuyen1122/WindowsVPS2021" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>VuDuyOla/VPS-RDP</title>
+    <updated>2023-05-26T01:30:43Z</updated>
+    <id>tag:github.com,2023-05-26:/VuDuyOla/VPS-RDP</id>
+    <link href="https://github.com/VuDuyOla/VPS-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

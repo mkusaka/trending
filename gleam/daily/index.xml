@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Gleam Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-25T01:34:49Z</updated>
+  <updated>2023-05-26T01:35:00Z</updated>
   <subtitle>Daily Trending of Gleam in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CrowdHailer/eyg-lang</title>
+    <updated>2023-05-26T01:35:00Z</updated>
+    <id>tag:github.com,2023-05-26:/CrowdHailer/eyg-lang</id>
+    <link href="https://github.com/CrowdHailer/eyg-lang" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Getting more from data&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

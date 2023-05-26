@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-25T01:44:13Z</updated>
+  <updated>2023-05-26T01:43:49Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fabriziospadaro/SpriteSheetRenderer</title>
-    <updated>2023-05-25T01:44:13Z</updated>
-    <id>tag:github.com,2023-05-25:/fabriziospadaro/SpriteSheetRenderer</id>
-    <link href="https://github.com/fabriziospadaro/SpriteSheetRenderer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spritesheet renderer is a powerful Unity ECS API to render massive numbers of sprites using the new dots stack, taking full advantage of Jobs, DynamicBuffers and ComputeBuffer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-25T01:29:56Z</updated>
+  <updated>2023-05-26T01:30:28Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ZeroOctave/resource-gallery</title>
-    <updated>2023-05-25T01:29:56Z</updated>
-    <id>tag:github.com,2023-05-25:/ZeroOctave/resource-gallery</id>
-    <link href="https://github.com/ZeroOctave/resource-gallery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources related to software development&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zeon-studio/astroplate</title>
-    <updated>2023-05-25T01:29:56Z</updated>
-    <id>tag:github.com,2023-05-25:/zeon-studio/astroplate</id>
-    <link href="https://github.com/zeon-studio/astroplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Astro + Tailwind CSS + TypeScript Starter and Boilerplate&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

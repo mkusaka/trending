@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-25T01:31:41Z</updated>
+  <updated>2023-05-26T01:31:56Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yapsterapp/a-frame</title>
+    <updated>2023-05-26T01:31:56Z</updated>
+    <id>tag:github.com,2023-05-26:/yapsterapp/a-frame</id>
+    <link href="https://github.com/yapsterapp/a-frame" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;an async Clojure+Script port of the non-view parts of re-frame&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AppsFlyer/aerospike-clj</title>
+    <updated>2023-05-26T01:31:56Z</updated>
+    <id>tag:github.com,2023-05-26:/AppsFlyer/aerospike-clj</id>
+    <link href="https://github.com/AppsFlyer/aerospike-clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure client for the Aerospike database.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

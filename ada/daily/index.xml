@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ada Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-25T01:29:27Z</updated>
+  <updated>2023-05-26T01:29:59Z</updated>
   <subtitle>Daily Trending of Ada in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>AdaCore/training_labs_standalone</title>
-    <updated>2023-05-25T01:29:27Z</updated>
-    <id>tag:github.com,2023-05-25:/AdaCore/training_labs_standalone</id>
-    <link href="https://github.com/AdaCore/training_labs_standalone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AdaCore/training_labs_solar_system</title>
-    <updated>2023-05-25T01:29:27Z</updated>
-    <id>tag:github.com,2023-05-25:/AdaCore/training_labs_solar_system</id>
-    <link href="https://github.com/AdaCore/training_labs_solar_system" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

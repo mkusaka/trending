@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-25T01:37:23Z</updated>
+  <updated>2023-05-26T01:37:18Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaReach/ARCH2023_AFF_RE</title>
-    <updated>2023-05-25T01:37:23Z</updated>
-    <id>tag:github.com,2023-05-25:/JuliaReach/ARCH2023_AFF_RE</id>
-    <link href="https://github.com/JuliaReach/ARCH2023_AFF_RE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repeatability package for ARCH-COMP 2023 AFF&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaReach/ARCH2023_NLN_RE</title>
-    <updated>2023-05-25T01:37:23Z</updated>
-    <id>tag:github.com,2023-05-25:/JuliaReach/ARCH2023_NLN_RE</id>
-    <link href="https://github.com/JuliaReach/ARCH2023_NLN_RE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repeatability package for ARCH-COMP 2023 NLN&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaReach/ARCH2023_AINNCS_RE</title>
-    <updated>2023-05-25T01:37:23Z</updated>
-    <id>tag:github.com,2023-05-25:/JuliaReach/ARCH2023_AINNCS_RE</id>
-    <link href="https://github.com/JuliaReach/ARCH2023_AINNCS_RE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repeatability package for ARCH-COMP 2023 AINNCS&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mfherbst/julia-for-materials</title>
+    <updated>2023-05-26T01:37:18Z</updated>
+    <id>tag:github.com,2023-05-26:/mfherbst/julia-for-materials</id>
+    <link href="https://github.com/mfherbst/julia-for-materials" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Material of the seminar &#34;Julia for Materials Modelling&#34;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

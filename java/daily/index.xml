@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-25T01:36:33Z</updated>
+  <updated>2023-05-26T01:36:39Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SimonHalvdansson/Harmonic-HN</title>
+    <updated>2023-05-26T01:36:39Z</updated>
+    <id>tag:github.com,2023-05-26:/SimonHalvdansson/Harmonic-HN</id>
+    <link href="https://github.com/SimonHalvdansson/Harmonic-HN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An Android client for Hacker News&lt;/p&gt;&lt;hr&gt;&lt;a href=&#34;https://github.com/SimonHalvdansson/Harmonic-HN#readme&#34;&gt; &lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://raw.githubusercontent.com/SimonHalvdansson/Harmonic-HN/main/harmonic-25-percent.png&#34; alt=&#34;Harmonic for Hacker News&#34;&gt; &lt;/p&gt; &lt;h1&gt;Harmonic for Hacker News&lt;/h1&gt; &lt;p&gt;Harmonic for Hacker News is an Android Hacker News client which is meant to be modern, fast and well thought out. You can find it on Google Play for download.&lt;/p&gt; &lt;p&gt;This has been my personal side project since 2020 and since starting my PhD in 2021 the time I have to dedicate to Harmonic has decreased. My personal philosophy on side projects is that the most important thing is building something that is actually shipped. Since much of my knowledge on building Android apps is ~10 years old, Harmonic does not use Kotlin or the latest Android API&#39;s and is probably not the easiest app to dig into the source code of. However, it is shipped, and it works fairly well in my opinion at least. :)&lt;/p&gt; &lt;p&gt;The purpose of open-sourcing Harmonic is thus mainly to enable interested users to submit pull requests fixing issues or adding features. I would like to still be able to find my way around the app&#39;s code so I am not looking for a full Kotlin rewrite but if you want to make the app work better with foldables, fix a typo or add support for Android 13&#39;s themed icons all that would be much appreciated. I&#39;ll still commit things myself when I have time.&lt;/p&gt; &lt;/a&gt;&#xA;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.simon.harmonichackernews&#34;&gt; &lt;img src=&#34;https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png&#34; alt=&#34;Get it on Google Play&#34; height=&#34;80&#34;&gt; &lt;/a&gt;</summary>
+  </entry>
 </feed>
