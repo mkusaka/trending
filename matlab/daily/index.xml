@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:38:55Z</updated>
+  <updated>2023-05-27T01:38:20Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AIHub-1/AIHub-Brain</title>
-    <updated>2023-05-26T01:38:55Z</updated>
-    <id>tag:github.com,2023-05-26:/AIHub-1/AIHub-Brain</id>
-    <link href="https://github.com/AIHub-1/AIHub-Brain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI Innovation Hub BCI Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yuan7Wang/heavyHaulTrainSimulator</title>
+    <updated>2023-05-27T01:38:20Z</updated>
+    <id>tag:github.com,2023-05-27:/Yuan7Wang/heavyHaulTrainSimulator</id>
+    <link href="https://github.com/Yuan7Wang/heavyHaulTrainSimulator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simulator for heavy haul train dynamics and control&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

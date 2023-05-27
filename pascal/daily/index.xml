@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:40:43Z</updated>
+  <updated>2023-05-27T01:40:08Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OleksiyPenkov/MyHomeLib</title>
-    <updated>2023-05-26T01:40:43Z</updated>
-    <id>tag:github.com,2023-05-26:/OleksiyPenkov/MyHomeLib</id>
-    <link href="https://github.com/OleksiyPenkov/MyHomeLib" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MyHomeLib – комп&#39;ютерна програма для керування домашньою бібліотекою електронних книг. MyHomeLib може використовуватися не тільки для каталогізації колекції файлів з електронними книгами, але і як клієнт для роботи з бібліотекою Лібрусек та іншими бібліотеками на движку Лібрусек (Флібуста та іншими подібними).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

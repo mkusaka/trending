@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YARA Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:47:14Z</updated>
+  <updated>2023-05-27T01:46:20Z</updated>
   <subtitle>Daily Trending of YARA in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>WKL-Sec/Malleable-CS-Profiles</title>
+    <updated>2023-05-27T01:46:20Z</updated>
+    <id>tag:github.com,2023-05-27:/WKL-Sec/Malleable-CS-Profiles</id>
+    <link href="https://github.com/WKL-Sec/Malleable-CS-Profiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of python tools to help create an OPSEC-safe Cobalt Strike profile.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

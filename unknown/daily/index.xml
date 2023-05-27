@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:29:46Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-05-27T01:29:01Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>YBYBZhang/ControlVideo</title>
-    <updated>2023-05-26T01:29:46Z</updated>
-    <id>tag:github.com,2023-05-26:/YBYBZhang/ControlVideo</id>
-    <link href="https://github.com/YBYBZhang/ControlVideo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official pytorch implementation of &#34;ControlVideo: Training-free Controllable Text-to-Video Generation&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>btw-so/open-source-alternatives</title>
+    <updated>2023-05-27T01:29:01Z</updated>
+    <id>tag:github.com,2023-05-27:/btw-so/open-source-alternatives</id>
+    <link href="https://github.com/btw-so/open-source-alternatives" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of open-source alternatives to everyday SaaS products.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kunal-kushwaha/DevOps-Bootcamp</title>
-    <updated>2023-05-26T01:29:46Z</updated>
-    <id>tag:github.com,2023-05-26:/kunal-kushwaha/DevOps-Bootcamp</id>
-    <link href="https://github.com/kunal-kushwaha/DevOps-Bootcamp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of Community Classroom.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/win32-app-isolation</title>
+    <updated>2023-05-27T01:29:01Z</updated>
+    <id>tag:github.com,2023-05-27:/microsoft/win32-app-isolation</id>
+    <link href="https://github.com/microsoft/win32-app-isolation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jqin4749/MindVideo</title>
-    <updated>2023-05-26T01:29:46Z</updated>
-    <id>tag:github.com,2023-05-26:/jqin4749/MindVideo</id>
-    <link href="https://github.com/jqin4749/MindVideo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code Base for MinD-Video&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zakirullin/cognitive-load</title>
+    <updated>2023-05-27T01:29:01Z</updated>
+    <id>tag:github.com,2023-05-27:/zakirullin/cognitive-load</id>
+    <link href="https://github.com/zakirullin/cognitive-load" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧠 Cognitive Load Developer&#39;s Handbook&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

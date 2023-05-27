@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:43:31Z</updated>
+  <updated>2023-05-27T01:42:48Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>typelevel/skunk</title>
+    <updated>2023-05-27T01:42:48Z</updated>
+    <id>tag:github.com,2023-05-27:/typelevel/skunk</id>
+    <link href="https://github.com/typelevel/skunk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A data access library for Scala + Postgres.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Skunk&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://discord.gg/CSh8u9yPMe&#34;&gt;&lt;img src=&#34;https://img.shields.io/discord/632277896739946517.svg?label=&amp;amp;logo=discord&amp;amp;logoColor=ffffff&amp;amp;color=404244&amp;amp;labelColor=6A7EC2&#34; alt=&#34;Discord&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://gitter.im/skunk-pg/Lobby?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/skunk-pg/Lobby.svg?sanitize=true&#34; alt=&#34;Join the chat at https://gitter.im/skunk-pg/Lobby&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://codecov.io/gh/tpolecat/skunk&#34;&gt;&lt;img src=&#34;https://codecov.io/gh/tpolecat/skunk/branch/master/graph/badge.svg?sanitize=true&#34; alt=&#34;codecov&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://maven-badges.herokuapp.com/maven-central/org.tpolecat/skunk-core_2.13&#34;&gt;&lt;img src=&#34;https://img.shields.io/maven-central/v/org.tpolecat/skunk-core_2.13.svg?sanitize=true&#34; alt=&#34;Maven Central&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://javadoc.io/doc/org.tpolecat/skunk-core_2.13&#34;&gt;&lt;img src=&#34;https://javadoc.io/badge/org.tpolecat/skunk-core_2.13.svg?sanitize=true&#34; alt=&#34;Javadocs&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Skunk is a data access library for Scala + Postgres.&lt;/p&gt; &#xA;&lt;p&gt;Please proceed to the &lt;a href=&#34;https://typelevel.org/skunk/&#34;&gt;microsite&lt;/a&gt; for more information.&lt;/p&gt; &#xA;&lt;p&gt;Please drop a &lt;span&gt;⭐&lt;/span&gt; if this project interests you. I need encouragement.&lt;/p&gt; &#xA;&lt;p&gt;To contribute, see the &lt;a href=&#34;https://raw.githubusercontent.com/typelevel/skunk/main/CONTRIBUTING.md&#34;&gt;contributing guide&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

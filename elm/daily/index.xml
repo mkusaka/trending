@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:33:44Z</updated>
+  <updated>2023-05-27T01:33:35Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gip-inclusion/carnet-de-bord</title>
-    <updated>2023-05-26T01:33:44Z</updated>
-    <id>tag:github.com,2023-05-26:/gip-inclusion/carnet-de-bord</id>
-    <link href="https://github.com/gip-inclusion/carnet-de-bord" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Service public numérique 🇫🇷 qui a pour objectif de faciliter la coordination des échanges entre acteurs et de simplifier la lecture des parcours d’insertion.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

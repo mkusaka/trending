@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:37:18Z</updated>
+  <updated>2023-05-27T01:36:57Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mfherbst/julia-for-materials</title>
-    <updated>2023-05-26T01:37:18Z</updated>
-    <id>tag:github.com,2023-05-26:/mfherbst/julia-for-materials</id>
-    <link href="https://github.com/mfherbst/julia-for-materials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Material of the seminar &#34;Julia for Materials Modelling&#34;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaMath/AppleAccelerate.jl</title>
+    <updated>2023-05-27T01:36:57Z</updated>
+    <id>tag:github.com,2023-05-27:/JuliaMath/AppleAccelerate.jl</id>
+    <link href="https://github.com/JuliaMath/AppleAccelerate.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia interface to the macOS Accelerate framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

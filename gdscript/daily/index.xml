@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:34:46Z</updated>
+  <updated>2023-05-27T01:34:24Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>barcoderdev/unitypackage_godot</title>
-    <updated>2023-05-26T01:34:46Z</updated>
-    <id>tag:github.com,2023-05-26:/barcoderdev/unitypackage_godot</id>
-    <link href="https://github.com/barcoderdev/unitypackage_godot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Import assets from UnityPackage files into Godot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>uheartbeast/Heart-Platformer-Godot-4</title>
-    <updated>2023-05-26T01:34:46Z</updated>
-    <id>tag:github.com,2023-05-26:/uheartbeast/Heart-Platformer-Godot-4</id>
-    <link href="https://github.com/uheartbeast/Heart-Platformer-Godot-4" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

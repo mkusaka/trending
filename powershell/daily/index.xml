@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-26T01:41:38Z</updated>
+  <updated>2023-05-27T01:40:56Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>appveyor/ci</title>
+    <updated>2023-05-27T01:40:56Z</updated>
+    <id>tag:github.com,2023-05-27:/appveyor/ci</id>
+    <link href="https://github.com/appveyor/ci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AppVeyor community support repository&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;AppVeyor community support repository&lt;/h1&gt; &#xA;&lt;p&gt;The purpose of this repository is communicating issues/milestones to AppVeyor customers.&lt;/p&gt; &#xA;&lt;p&gt;Issues being resolved in future releases are listed in &lt;a href=&#34;https://github.com/appveyor/ci/milestones&#34;&gt;Milestones&lt;/a&gt;. Issues resolved in previous releases are listed on &lt;a href=&#34;https://www.appveyor.com/updates/&#34;&gt;AppVeyor Platform Updates&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>
