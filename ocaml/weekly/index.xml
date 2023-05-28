@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-28T02:05:34Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mirzashah/MPFL</title>
+    <updated>2023-05-28T02:05:34Z</updated>
+    <id>tag:github.com,2023-05-28:/mirzashah/MPFL</id>
+    <link href="https://github.com/mirzashah/MPFL" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modular Planning Framework and Language (MPFL) is a programming language, compiler, and software framework to help robotic software developers build sophisticated deliberative planning capabilities in a piecemeal, modular, and reusable manner for their robot.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

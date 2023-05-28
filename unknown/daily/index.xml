@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-27T01:29:01Z</updated>
+  <updated>2023-05-28T01:31:57Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>btw-so/open-source-alternatives</title>
-    <updated>2023-05-27T01:29:01Z</updated>
-    <id>tag:github.com,2023-05-27:/btw-so/open-source-alternatives</id>
-    <link href="https://github.com/btw-so/open-source-alternatives" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of open-source alternatives to everyday SaaS products.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zhoubolei/bolei_awesome_posters</title>
+    <updated>2023-05-28T01:31:57Z</updated>
+    <id>tag:github.com,2023-05-28:/zhoubolei/bolei_awesome_posters</id>
+    <link href="https://github.com/zhoubolei/bolei_awesome_posters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>microsoft/win32-app-isolation</title>
-    <updated>2023-05-27T01:29:01Z</updated>
-    <id>tag:github.com,2023-05-27:/microsoft/win32-app-isolation</id>
-    <link href="https://github.com/microsoft/win32-app-isolation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nucliweb/webperf-snippets</title>
+    <updated>2023-05-28T01:31:57Z</updated>
+    <id>tag:github.com,2023-05-28:/nucliweb/webperf-snippets</id>
+    <link href="https://github.com/nucliweb/webperf-snippets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚡️ 💾 Web Performance Snippets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zakirullin/cognitive-load</title>
-    <updated>2023-05-27T01:29:01Z</updated>
-    <id>tag:github.com,2023-05-27:/zakirullin/cognitive-load</id>
-    <link href="https://github.com/zakirullin/cognitive-load" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧠 Cognitive Load Developer&#39;s Handbook&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sivaprasadreddy/tomato-architecture</title>
+    <updated>2023-05-28T01:31:57Z</updated>
+    <id>tag:github.com,2023-05-28:/sivaprasadreddy/tomato-architecture</id>
+    <link href="https://github.com/sivaprasadreddy/tomato-architecture" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tomato Architecture - A common sense driven approach to software architecture&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

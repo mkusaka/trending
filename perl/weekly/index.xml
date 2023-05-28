@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-28T02:06:21Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jomagam/amazonadvertising</title>
+    <updated>2023-05-28T02:06:21Z</updated>
+    <id>tag:github.com,2023-05-28:/jomagam/amazonadvertising</id>
+    <link href="https://github.com/jomagam/amazonadvertising" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Amazon Advertising Code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shmuelfomberg/site-lang-collab</title>
+    <updated>2023-05-28T02:06:21Z</updated>
+    <id>tag:github.com,2023-05-28:/shmuelfomberg/site-lang-collab</id>
+    <link href="https://github.com/shmuelfomberg/site-lang-collab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collaborating on Language translations for Movable Type plugins&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Language Translation Collaboration for MT Plugins&lt;/h1&gt; &#xA;&lt;h2&gt;Goal&lt;/h2&gt; &#xA;&lt;p&gt;Make website which enable people to contribute to translations of Movable Type Plugins&lt;/p&gt; &#xA;&lt;p&gt;The website should enable an author to put his plugin on the site for contributions, accept contributions individualy, trust/ban contributors, and commit accepted changes to the resp.&lt;/p&gt; &#xA;&lt;p&gt;If the original author have not put the plugin on the site, the user should fork it and later submit a pull-request. (should we offer to do it using the site interface?)&lt;/p&gt; &#xA;&lt;p&gt;A project is url+branch. we should let the author also to refresh the site data from the resp. (should we do it automatically?)&lt;/p&gt; &#xA;&lt;h2&gt;Local Login&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://localhost/~sfomberg/cgi-bin/lang_colleb/app.pl/app/home&#34;&gt;http://localhost/~sfomberg/cgi-bin/lang_colleb/app.pl/app/home&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Status&lt;/h2&gt; &#xA;&lt;p&gt;The login-using-github part is done.&lt;/p&gt; &#xA;&lt;h2&gt;Next&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Let you add a project to the site&lt;/li&gt; &#xA; &lt;li&gt;list your projects&lt;/li&gt; &#xA; &lt;li&gt;start contributing to a project&lt;/li&gt; &#xA; &lt;li&gt;list projects that you contributed to&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Artistic 2&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;Shmuel Fomberg, 2013&lt;/p&gt;</summary>
+  </entry>
+</feed>

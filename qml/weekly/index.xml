@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub QML Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-28T02:07:44Z</updated>
+  <subtitle>Weekly Trending of QML in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SolDoesTech/HyprV4</title>
+    <updated>2023-05-28T02:07:44Z</updated>
+    <id>tag:github.com,2023-05-28:/SolDoesTech/HyprV4</id>
+    <link href="https://github.com/SolDoesTech/HyprV4" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>amd/RyzenAI-cloud-to-client-demo</title>
+    <updated>2023-05-28T02:07:44Z</updated>
+    <id>tag:github.com,2023-05-28:/amd/RyzenAI-cloud-to-client-demo</id>
+    <link href="https://github.com/amd/RyzenAI-cloud-to-client-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jasp-stats/jaspTestModule</title>
+    <updated>2023-05-28T02:07:44Z</updated>
+    <id>tag:github.com,2023-05-28:/jasp-stats/jaspTestModule</id>
+    <link href="https://github.com/jasp-stats/jaspTestModule" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A module to test stuff with&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

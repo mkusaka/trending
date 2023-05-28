@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-27T01:43:41Z</updated>
+  <updated>2023-05-28T01:49:40Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>a16z/cicada</title>
-    <updated>2023-05-27T01:43:41Z</updated>
-    <id>tag:github.com,2023-05-27:/a16z/cicada</id>
-    <link href="https://github.com/a16z/cicada" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A protocol for private on-chain voting, implemented in Solidity.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheGreatAxios/skaleswap</title>
+    <updated>2023-05-28T01:49:40Z</updated>
+    <id>tag:github.com,2023-05-28:/TheGreatAxios/skaleswap</id>
+    <link href="https://github.com/TheGreatAxios/skaleswap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multichain Swapping for the SKALE Network&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>seal-inc/seal-Token-Example-Contract-alpha-1</title>
-    <updated>2023-05-27T01:43:41Z</updated>
-    <id>tag:github.com,2023-05-27:/seal-inc/seal-Token-Example-Contract-alpha-1</id>
-    <link href="https://github.com/seal-inc/seal-Token-Example-Contract-alpha-1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OffchainLabs/nitro-contracts</title>
-    <updated>2023-05-27T01:43:41Z</updated>
-    <id>tag:github.com,2023-05-27:/OffchainLabs/nitro-contracts</id>
-    <link href="https://github.com/OffchainLabs/nitro-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The core Arbitrum Nitro contracts deployed to the base chain to host the rollup&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TaylorWebbMEV/MEV-Flashbot</title>
+    <updated>2023-05-28T01:49:40Z</updated>
+    <id>tag:github.com,2023-05-28:/TaylorWebbMEV/MEV-Flashbot</id>
+    <link href="https://github.com/TaylorWebbMEV/MEV-Flashbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ETH MEV-Bot for sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that allows deployers of contract to take profits from tokens.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

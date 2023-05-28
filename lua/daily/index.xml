@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-27T01:37:59Z</updated>
+  <updated>2023-05-28T01:42:58Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>loctvl842/nvim</title>
-    <updated>2023-05-27T01:37:59Z</updated>
-    <id>tag:github.com,2023-05-27:/loctvl842/nvim</id>
-    <link href="https://github.com/loctvl842/nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;neovim config using lazy&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Neovim config&lt;/h2&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/80513079/216895409-4d7b246c-d7da-4f9e-8680-8f6b60ffa201.png&#34; alt=&#34;nvim-1&#34;&gt;&lt;/p&gt;</summary>
+    <title>rcarriga/cmp-dap</title>
+    <updated>2023-05-28T01:42:58Z</updated>
+    <id>tag:github.com,2023-05-28:/rcarriga/cmp-dap</id>
+    <link href="https://github.com/rcarriga/cmp-dap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nvim-cmp source for nvim-dap REPL and nvim-dap-ui buffers&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cmp-dap&lt;/h1&gt; &#xA;&lt;p&gt;nvim-cmp source for nvim-dap REPL and nvim-dap-ui buffers&lt;/p&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;p&gt;You must be using an adapter that supports completion requests. The following should print &lt;code&gt;true&lt;/code&gt; when you are in an active debug session&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;:lua= require(&#34;dap&#34;).session().capabilities.supportsCompletionsRequest&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require(&#34;cmp&#34;).setup({&#xA;  enabled = function()&#xA;    return vim.api.nvim_buf_get_option(0, &#34;buftype&#34;) ~= &#34;prompt&#34;&#xA;        or require(&#34;cmp_dap&#34;).is_dap_buffer()&#xA;  end&#xA;})&#xA;&#xA;require(&#34;cmp&#34;).setup.filetype({ &#34;dap-repl&#34;, &#34;dapui_watches&#34;, &#34;dapui_hover&#34; }, {&#xA;  sources = {&#xA;    { name = &#34;dap&#34; },&#xA;  },&#xA;})&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
   <entry>
-    <title>ItzKustomBruh/Tsunami-CCheat</title>
-    <updated>2023-05-27T01:37:59Z</updated>
-    <id>tag:github.com,2023-05-27:/ItzKustomBruh/Tsunami-CCheat</id>
-    <link href="https://github.com/ItzKustomBruh/Tsunami-CCheat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✔️ Tsunami Cheats&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;a href=&#34;https://qaafdesign.com.sa/wp-content/cheats/&#34;&gt;TsunamiCCheat&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/vinipinheirooo/TsunamiCCheat/assets/115541994/6bc3c9a9-e87f-4e51-8216-9035806e6719&#34; alt=&#34;изображение&#34;&gt;&lt;/p&gt;</summary>
+    <title>alesan99/mari0_ae</title>
+    <updated>2023-05-28T01:42:58Z</updated>
+    <id>tag:github.com,2023-05-28:/alesan99/mari0_ae</id>
+    <link href="https://github.com/alesan99/mari0_ae" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mari0: Alesan99&#39;s Entities&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/U5xzR1h.png&#34;&gt;&lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt;This is the repository for my mod Mari0: Alesan99&#39;s Entities&lt;/p&gt; &#xA;&lt;h2&gt;👷 Contributions&lt;/h2&gt; &#xA;&lt;p&gt;Bug fixes and quality of life improvements are welcome! This includes stuff like custom enemy properties and new animations.&lt;/p&gt; &#xA;&lt;p&gt;Avoid major additions that will potentially cause bugs or complicate the game/code (Stuff like powerups). I appreciate the help, but the goal is to continue the mod while I am busy. Major changes will only increase my workload and make the mod even buggier.&lt;/p&gt; &#xA;&lt;h2&gt;📥 Downloads&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://forum.stabyourself.net/viewtopic.php?f=13&amp;amp;t=3636&#34;&gt;&lt;strong&gt;Downloads are available here.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Development builds are available &lt;a href=&#34;https://github.com/alesan99/mari0_ae/actions&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;💡 About&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;Alesan99&#39;s Entities&lt;/strong&gt; adds many entities to &lt;a href=&#34;https://stabyourself.net/mari0&#34;&gt;Mari0&lt;/a&gt;! From Enemies to power ups you&#39;ll never run out of entities to make levels now!&lt;/p&gt; &#xA;&lt;p&gt;It even has bonus features like online multiplayer, custom characters, custom enemies/powerups, animated tiles, infinite levels and music, vertical scrolling, tile properties, and more!&lt;/p&gt; &#xA;&lt;br&gt; &#xA;&lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/th4xsMi.png&#34;&gt;&lt;/p&gt; &#xA;&lt;br&gt; &#xA;&lt;details&gt; &#xA; &lt;summary&gt;🖼️ Show more screenshots&lt;/summary&gt; &#xA; &lt;blockquote&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/fS2o7pc.png&#34;&gt;&lt;/p&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/67uPzZZ.png&#34;&gt;&lt;/p&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/VhvWBcj.png&#34;&gt;&lt;/p&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/tdDfhkR.png&#34;&gt;&lt;/p&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/CPQN00C.png&#34;&gt;&lt;/p&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/04htj0O.png&#34;&gt;&lt;/p&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/cnW3Vob.png&#34;&gt;&lt;/p&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/016vjP0.png&#34;&gt;&lt;/p&gt; &#xA;  &lt;p align=&#34;center&#34;&gt;&lt;img src=&#34;https://i.imgur.com/E8mXQFj.png&#34;&gt;&lt;/p&gt; &#xA; &lt;/blockquote&gt; &#xA;&lt;/details&gt; &#xA;&lt;h2&gt;💌 Credits and more Information&lt;/h2&gt; &#xA;&lt;p&gt;Please see: &lt;a href=&#34;https://forum.stabyourself.net/viewtopic.php?f=13&amp;amp;t=3636&#34;&gt;https://forum.stabyourself.net/viewtopic.php?f=13&amp;amp;t=3636&lt;/a&gt; Or the top of main.lua&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;thanks to &lt;a href=&#34;https://github.com/NNBnh&#34;&gt;&lt;strong&gt;NNB&lt;/strong&gt;&lt;/a&gt; for this GitHub README page&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>hrsh7th/cmp-omni</title>
+    <updated>2023-05-28T01:42:58Z</updated>
+    <id>tag:github.com,2023-05-28:/hrsh7th/cmp-omni</id>
+    <link href="https://github.com/hrsh7th/cmp-omni" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nvim-cmp source for omnifunc&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cmp-omni&lt;/h1&gt; &#xA;&lt;p&gt;nvim-cmp source for omnifunc.&lt;/p&gt; &#xA;&lt;h1&gt;Setup&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require&#39;cmp&#39;.setup {&#xA;  sources = {&#xA;    {&#xA;      name = &#39;omni&#39;,&#xA;      option = {&#xA;        disable_omnifuncs = { &#39;v:lua.vim.lsp.omnifunc&#39; }&#xA;      }&#xA;    }&#xA;  }&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Option&lt;/h1&gt; &#xA;&lt;h3&gt;disable_omnifuncs: string[]&lt;/h3&gt; &#xA;&lt;p&gt;default: &lt;code&gt;{ &#39;v:lua.vim.lsp.omnifunc&#39; }&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;The list of omnifunc names that should be disabled.&lt;/p&gt; &#xA;&lt;h1&gt;Warning&lt;/h1&gt; &#xA;&lt;p&gt;If omnifunc is slow, your neovim will be slow down too.&lt;/p&gt;</summary>
   </entry>
 </feed>

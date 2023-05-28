@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-27T01:38:16Z</updated>
+  <updated>2023-05-28T01:43:22Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tjsky/upptime</title>
-    <updated>2023-05-27T01:38:16Z</updated>
-    <id>tag:github.com,2023-05-27:/tjsky/upptime</id>
-    <link href="https://github.com/tjsky/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for 去年夏天, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>raphamorim/awesome-canvas</title>
+    <updated>2023-05-28T01:43:22Z</updated>
+    <id>tag:github.com,2023-05-28:/raphamorim/awesome-canvas</id>
+    <link href="https://github.com/raphamorim/awesome-canvas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of awesome HTML5 Canvas with examples, related articles and posts.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

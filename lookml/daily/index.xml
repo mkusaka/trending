@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LookML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-27T01:37:53Z</updated>
+  <updated>2023-05-28T01:42:51Z</updated>
   <subtitle>Daily Trending of LookML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>looker-open-source/block-keboola-support-config</title>
-    <updated>2023-05-27T01:37:53Z</updated>
-    <id>tag:github.com,2023-05-27:/looker-open-source/block-keboola-support-config</id>
-    <link href="https://github.com/looker-open-source/block-keboola-support-config" rel="alternate"></link>
+    <title>looker-open-source/shopify_stitch_block</title>
+    <updated>2023-05-28T01:42:51Z</updated>
+    <id>tag:github.com,2023-05-28:/looker-open-source/shopify_stitch_block</id>
+    <link href="https://github.com/looker-open-source/shopify_stitch_block" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>looker-open-source/census_bureau_acs_bq</title>
-    <updated>2023-05-27T01:37:53Z</updated>
-    <id>tag:github.com,2023-05-27:/looker-open-source/census_bureau_acs_bq</id>
-    <link href="https://github.com/looker-open-source/census_bureau_acs_bq" rel="alternate"></link>
+    <title>looker-open-source/aws_cloudtrail_block</title>
+    <updated>2023-05-28T01:42:51Z</updated>
+    <id>tag:github.com,2023-05-28:/looker-open-source/aws_cloudtrail_block</id>
+    <link href="https://github.com/looker-open-source/aws_cloudtrail_block" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>looker-open-source/heap</title>
-    <updated>2023-05-27T01:37:53Z</updated>
-    <id>tag:github.com,2023-05-27:/looker-open-source/heap</id>
-    <link href="https://github.com/looker-open-source/heap" rel="alternate"></link>
+    <title>looker-open-source/block-stitch-zendesk-analytics</title>
+    <updated>2023-05-28T01:42:51Z</updated>
+    <id>tag:github.com,2023-05-28:/looker-open-source/block-stitch-zendesk-analytics</id>
+    <link href="https://github.com/looker-open-source/block-stitch-zendesk-analytics" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

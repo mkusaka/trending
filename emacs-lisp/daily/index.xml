@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-27T01:33:39Z</updated>
+  <updated>2023-05-28T01:37:09Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rspeele/cubescript-mode</title>
+    <updated>2023-05-28T01:37:09Z</updated>
+    <id>tag:github.com,2023-05-28:/rspeele/cubescript-mode</id>
+    <link href="https://github.com/rspeele/cubescript-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Emacs major mode for editing CubeScript (see http://sauerbraten.org/docs/config.html#cubescript)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cubescript-mode&lt;/h1&gt; &#xA;&lt;p&gt;Emacs major mode for editing CubeScript (see &lt;a href=&#34;http://sauerbraten.org/docs/config.html#cubescript&#34;&gt;http://sauerbraten.org/docs/config.html#cubescript&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;p&gt;To use, place both cubescript-mode.el and cubescript-mode-load.el in your load-path, and add (require &#39;cubescript-mode-load) to your .emacs.&lt;/p&gt;</summary>
+  </entry>
 </feed>

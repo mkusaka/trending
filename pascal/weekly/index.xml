@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pascal Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-05-28T02:06:04Z</updated>
+  <subtitle>Weekly Trending of Pascal in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FMXExpress/AI-Code-Translator</title>
+    <updated>2023-05-28T02:06:04Z</updated>
+    <id>tag:github.com,2023-05-28:/FMXExpress/AI-Code-Translator</id>
+    <link href="https://github.com/FMXExpress/AI-Code-Translator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Translate source code from languages like C++, Python, and C# to Delphi using ChatGPT.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yegork78/JVEsuite</title>
+    <updated>2023-05-28T02:06:04Z</updated>
+    <id>tag:github.com,2023-05-28:/yegork78/JVEsuite</id>
+    <link href="https://github.com/yegork78/JVEsuite" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JVE Delphi Components Suite — https://www.jvesoft.com/wp/&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
