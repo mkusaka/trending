@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:48:52Z</updated>
+  <updated>2023-05-29T01:44:18Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>alaricsp/chicken-scheme</title>
-    <updated>2023-05-28T01:48:52Z</updated>
-    <id>tag:github.com,2023-05-28:/alaricsp/chicken-scheme</id>
-    <link href="https://github.com/alaricsp/chicken-scheme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CHICKEN is a compiler for the Scheme programming language. CHICKEN produces portable, efficient C, supports almost all of the current Scheme language standard, R5RS and includes many enhancements and extensions. CHICKEN runs on MacOS X, Windows, and many Unix flavours.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

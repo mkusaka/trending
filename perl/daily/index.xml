@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:45:41Z</updated>
+  <updated>2023-05-29T01:41:20Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sida/dcircuit</title>
-    <updated>2023-05-28T01:45:41Z</updated>
-    <id>tag:github.com,2023-05-28:/sida/dcircuit</id>
-    <link href="https://github.com/sida/dcircuit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;デジタル回路シミュレータ（のようなもの）&lt;/p&gt; &#xA;&lt;p&gt;・ファイル 　Logic.pm　論理回路の定義&lt;br&gt; 　Circuit.pm　回路の定義の取り込みとシミュレート&lt;br&gt; 　sample1.pl　簡単なデモサンプル&lt;br&gt; 　sample-rs-flipflop.pl　RSフリップフロップのデモ&lt;/p&gt; &#xA;&lt;p&gt;・用意してある回路 　AND,OR,NOT&lt;br&gt; 　オシレーター&lt;/p&gt; &#xA;&lt;p&gt;・使い方 　*回路定義 　例)&lt;br&gt; 　``` 　my %circuit = ( &#39;osc1&#39;=&amp;gt;{logic=&amp;gt;&#39;Osc&#39; ,value=&amp;gt;[0,1,0,1]}, &#39;osc2&#39;=&amp;gt;{logic=&amp;gt;&#39;Osc&#39; ,value=&amp;gt;[0,0,1,1]}, &#39;and&#39;=&amp;gt;{logic=&amp;gt;&#39;And&#39; ,input=&amp;gt;[&#39;osc1&#39;,&#39;osc2&#39;]}, &#39;or&#39;=&amp;gt;{logic=&amp;gt;&#39;Or&#39; ,input=&amp;gt;[&#39;osc1&#39;,&#39;osc2&#39;]}, &#39;not&#39;=&amp;gt;{logic=&amp;gt;&#39;Not&#39; ,input=&amp;gt;[&#39;and&#39;]}, );&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;　　\&#39;osc1&#39;=&amp;gt;{....} : キーが論理回路に任意につける名前になる  &#xA;　　logic=&amp;gt;&#39;Osc&#39; : 論理回路はオシレーターを使う(他にはAnd,Or,Not,Nand がある)  &#xA;　　value=&amp;gt;[0,1,0,1] : オシレーターの場合に指定できる。オシレータが出力する波形の1周期のパターン  &#xA;　　input=&amp;gt;[&#39;osc1&#39;,&#39;osc2&#39;] : 入力の指定、osc1とosc2の出力を入力としている  &#xA;&#xA;　*回路のシミュレート&#xA;　Circuit::eval_circuit($circuit,$wavecnt,$loopnum,&#39;logicname&#39;,&#39;logicname&#39;,...);  &#xA;　引数:  &#xA;　　$circuit 回路の定義  &#xA;　　$wavecnt 1周期の間隔(オシレータに指定した波形の長さ)  &#xA;　　$loopnum 繰り替え回数(オシレータの出力を何回繰り返すか)  &#xA;　　&#39;logicname&#39;,&#39;logicname&#39;... 結果を表示したい論理回路の名前  &#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:48:39Z</updated>
+  <updated>2023-05-29T01:44:05Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PrestaShop/docs</title>
-    <updated>2023-05-28T01:48:39Z</updated>
-    <id>tag:github.com,2023-05-28:/PrestaShop/docs</id>
-    <link href="https://github.com/PrestaShop/docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PrestaShop technical documentation&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PrestaShop Technical Documentation&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/PrestaShop/docs/actions/workflows/build.yml&#34;&gt;&lt;img src=&#34;https://github.com/PrestaShop/docs/actions/workflows/build.yml/badge.svg?sanitize=true&#34; alt=&#34;Build&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/PrestaShop/docs/actions/workflows/update-site.yml&#34;&gt;&lt;img src=&#34;https://github.com/PrestaShop/docs/actions/workflows/update-site.yml/badge.svg?sanitize=true&#34; alt=&#34;DevDocs Site update&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This documentation is available at &lt;a href=&#34;https://devdocs.prestashop-project.org/&#34;&gt;https://devdocs.prestashop-project.org/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Contributions are more than welcome! &lt;a href=&#34;https://devdocs.prestashop-project.org/8/contribute/documentation/how/&#34;&gt;Find out how&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Rendering the site locally&lt;/h2&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://github.com/PrestaShop/devdocs-site/&#34;&gt;https://github.com/PrestaShop/devdocs-site/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Deployment&lt;/h2&gt; &#xA;&lt;p&gt;The deployment pipeline is documented on the &lt;a href=&#34;https://github.com/PrestaShop/devdocs-site&#34;&gt;sources repository for DevDocs&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Content from this documentation is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

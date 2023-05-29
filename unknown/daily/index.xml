@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:31:57Z</updated>
+  <updated>2023-05-29T01:29:13Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zhoubolei/bolei_awesome_posters</title>
-    <updated>2023-05-28T01:31:57Z</updated>
-    <id>tag:github.com,2023-05-28:/zhoubolei/bolei_awesome_posters</id>
-    <link href="https://github.com/zhoubolei/bolei_awesome_posters" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Clooos/Home-Assistant-Mobile-First</title>
+    <updated>2023-05-29T01:29:13Z</updated>
+    <id>tag:github.com,2023-05-29:/Clooos/Home-Assistant-Mobile-First</id>
+    <link href="https://github.com/Clooos/Home-Assistant-Mobile-First" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nucliweb/webperf-snippets</title>
-    <updated>2023-05-28T01:31:57Z</updated>
-    <id>tag:github.com,2023-05-28:/nucliweb/webperf-snippets</id>
-    <link href="https://github.com/nucliweb/webperf-snippets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⚡️ 💾 Web Performance Snippets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>XTsat/rapid-upload-userscript-doc</title>
+    <updated>2023-05-29T01:29:13Z</updated>
+    <id>tag:github.com,2023-05-29:/XTsat/rapid-upload-userscript-doc</id>
+    <link href="https://github.com/XTsat/rapid-upload-userscript-doc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;秒传链接提取脚本 - 文档&amp;教程&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sivaprasadreddy/tomato-architecture</title>
-    <updated>2023-05-28T01:31:57Z</updated>
-    <id>tag:github.com,2023-05-28:/sivaprasadreddy/tomato-architecture</id>
-    <link href="https://github.com/sivaprasadreddy/tomato-architecture" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tomato Architecture - A common sense driven approach to software architecture&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Korepi/Korepi</title>
+    <updated>2023-05-29T01:29:13Z</updated>
+    <id>tag:github.com,2023-05-29:/Korepi/Korepi</id>
+    <link href="https://github.com/Korepi/Korepi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Korek Api&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

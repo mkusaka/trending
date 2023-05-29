@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:49:40Z</updated>
+  <updated>2023-05-29T01:45:18Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheGreatAxios/skaleswap</title>
-    <updated>2023-05-28T01:49:40Z</updated>
-    <id>tag:github.com,2023-05-28:/TheGreatAxios/skaleswap</id>
-    <link href="https://github.com/TheGreatAxios/skaleswap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multichain Swapping for the SKALE Network&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-05-chainlink</title>
+    <updated>2023-05-29T01:45:18Z</updated>
+    <id>tag:github.com,2023-05-29:/code-423n4/2023-05-chainlink</id>
+    <link href="https://github.com/code-423n4/2023-05-chainlink" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TaylorWebbMEV/MEV-Flashbot</title>
-    <updated>2023-05-28T01:49:40Z</updated>
-    <id>tag:github.com,2023-05-28:/TaylorWebbMEV/MEV-Flashbot</id>
-    <link href="https://github.com/TaylorWebbMEV/MEV-Flashbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ETH MEV-Bot for sandwich attacks on Uniswap. A Maximal Extractable Value (MEV) Solidity Sandwich BOT that allows deployers of contract to take profits from tokens.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mevbotsethandbsc/mev-bot</title>
+    <updated>2023-05-29T01:45:18Z</updated>
+    <id>tag:github.com,2023-05-29:/mevbotsethandbsc/mev-bot</id>
+    <link href="https://github.com/mevbotsethandbsc/mev-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MEV (Miner Extractable Value) Mev bot is a 💎potential source of income💎 derived from transactions found in the mempool (the pool of unconfirmed transactions): Flashloan,Arbitrage&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>techaddict0x/coinflipgamebsc</title>
+    <updated>2023-05-29T01:45:18Z</updated>
+    <id>tag:github.com,2023-05-29:/techaddict0x/coinflipgamebsc</id>
+    <link href="https://github.com/techaddict0x/coinflipgamebsc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coin Flip game full source&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

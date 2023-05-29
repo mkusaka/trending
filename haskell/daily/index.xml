@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:39:09Z</updated>
+  <updated>2023-05-29T01:35:39Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>input-output-hk/cardano-cli</title>
-    <updated>2023-05-28T01:39:09Z</updated>
-    <id>tag:github.com,2023-05-28:/input-output-hk/cardano-cli</id>
-    <link href="https://github.com/input-output-hk/cardano-cli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Overview of the &lt;code&gt;cardano-cli&lt;/code&gt; repository&lt;/h2&gt;</summary>
-  </entry>
-  <entry>
-    <title>mvv/data-checked</title>
-    <updated>2023-05-28T01:39:09Z</updated>
-    <id>tag:github.com,2023-05-28:/mvv/data-checked</id>
-    <link href="https://github.com/mvv/data-checked" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Type-indexed runtime-checked properties for Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Data-Checked&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mvv/data-checked/actions/workflows/ci.yml&#34;&gt;&lt;img src=&#34;https://github.com/mvv/data-checked/actions/workflows/ci.yml/badge.svg?sanitize=true&#34; alt=&#34;Build&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://hackage.haskell.org/package/data-checked&#34;&gt;&lt;img src=&#34;https://img.shields.io/hackage/v/data-checked.svg?sanitize=true&#34; alt=&#34;Hackage&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;This package provides a (phantom) type-indexed newtype evidence-wrapper for values that are checked to satisfy the property associated with the type.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;The usual:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cabal install&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>tuttlem/TicTacToe</title>
+    <updated>2023-05-29T01:35:39Z</updated>
+    <id>tag:github.com,2023-05-29:/tuttlem/TicTacToe</id>
+    <link href="https://github.com/tuttlem/TicTacToe" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A TicTacToe implementation in Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;TicTacToe&lt;/h1&gt; &#xA;&lt;p&gt;A random-computer vs. random-computer TicTacToe implementation in Haskell.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:45:57Z</updated>
+  <updated>2023-05-29T01:41:32Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ytree001/ipinfo</title>
-    <updated>2023-05-28T01:45:57Z</updated>
-    <id>tag:github.com,2023-05-28:/ytree001/ipinfo</id>
-    <link href="https://github.com/ytree001/ipinfo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;php版获取本机IP信息 powerd by Cloudflare&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kodingworks/donazy</title>
+    <updated>2023-05-29T01:41:32Z</updated>
+    <id>tag:github.com,2023-05-29:/kodingworks/donazy</id>
+    <link href="https://github.com/kodingworks/donazy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Donation / Fundraising Platform | Aplikasi Manajemen Donasi Open Source&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Donazy - Open Source Donation / Fundraising Platform (EN)&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/AmdaaRaijen/berbagi/assets/95063290/da114ba4-ef1d-408f-8f21-c831d68cfb78&#34; alt=&#34;Dashboard image&#34;&gt; &lt;img src=&#34;https://github.com/AmdaaRaijen/berbagi/assets/95063290/2633495c-2469-43a0-990a-812dbdf81ab1&#34; alt=&#34;Donation Page Image&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Features&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Create campaign&lt;/li&gt; &#xA; &lt;li&gt;Campaign Target&lt;/li&gt; &#xA; &lt;li&gt;Unique Digit&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Demo&lt;/h2&gt; &#xA;&lt;p&gt;You could try the demo at&lt;br&gt; &lt;a href=&#34;https://demo.donazy.org&#34;&gt;https://demo.donazy.org&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:superadmin@example.com&#34;&gt;superadmin@example.com&lt;/a&gt;&lt;br&gt; Password: secret&lt;/p&gt; &#xA;&lt;h2&gt;Tech Stack&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Laravel 9 - PHP Framework for building the admin dashboard and mobile api.&lt;/li&gt; &#xA; &lt;li&gt;Blade - The simple, yet powerful templating engine that is included with Laravel&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;If you want to know how to install this app, please refer to this &lt;a href=&#34;https://raw.githubusercontent.com/kodingworks/donazy/v1/installation.md&#34;&gt;Installation Guide&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;API Documentation&lt;/h2&gt; &#xA;&lt;p&gt;Check our API documentation &lt;a href=&#34;https://documenter.getpostman.com/view/20104631/2s93m4WMfM&#34;&gt;https://documenter.getpostman.com/view/20104631/2s93m4WMfM&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Community &amp;amp; Group Discussion&lt;/h2&gt; &#xA;&lt;p&gt;You could join us at Telegram Group &lt;a href=&#34;https://t.me/+YJBH4-sZatBiOWE1&#34;&gt;https://t.me/+YJBH4-sZatBiOWE1&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;We are very glad if you want to contribute and join our community. Please take note when you make a pull request. You must be very clear when making a commit message. When you contribute code, the best thing to do is imitate the existing pattern donazy code.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Donazy is released under the &lt;a href=&#34;https://raw.githubusercontent.com/kodingworks/donazy/v1/LICENSE&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt; &#xA;&lt;p&gt;================================================================&lt;/p&gt; &#xA;&lt;h1&gt;Donazy - Aplikasi Manajemen Donasi Open Source (ID)&lt;/h1&gt; &#xA;&lt;h2&gt;Fitur&lt;/h2&gt; &#xA;&lt;h2&gt;Demo&lt;/h2&gt; &#xA;&lt;h2&gt;Tech Stack&lt;/h2&gt; &#xA;&lt;h2&gt;Dokumentasi&lt;/h2&gt; &#xA;&lt;h2&gt;Dokumentasi API&lt;/h2&gt; &#xA;&lt;h2&gt;Komunitas dan Grup Diskusi&lt;/h2&gt; &#xA;&lt;h2&gt;Kontribusi&lt;/h2&gt; &#xA;&lt;h2&gt;Lisensi&lt;/h2&gt; &#xA;&lt;p&gt;Donazy dirilis dengan lisensi &lt;a href=&#34;https://raw.githubusercontent.com/kodingworks/donazy/v1/LICENSE&#34;&gt;MIT&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

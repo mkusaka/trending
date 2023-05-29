@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:39:25Z</updated>
+  <updated>2023-05-29T01:35:53Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>terraform-aws-modules/terraform-aws-managed-service-grafana</title>
-    <updated>2023-05-28T01:39:25Z</updated>
-    <id>tag:github.com,2023-05-28:/terraform-aws-modules/terraform-aws-managed-service-grafana</id>
-    <link href="https://github.com/terraform-aws-modules/terraform-aws-managed-service-grafana" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module which creates AWS Managed Service for Grafana (AMG) resources 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seytech-devops/jenkins</title>
+    <updated>2023-05-29T01:35:53Z</updated>
+    <id>tag:github.com,2023-05-29:/seytech-devops/jenkins</id>
+    <link href="https://github.com/seytech-devops/jenkins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-aws-kms-key</title>
-    <updated>2023-05-28T01:39:25Z</updated>
-    <id>tag:github.com,2023-05-28:/cloudposse/terraform-aws-kms-key</id>
-    <link href="https://github.com/cloudposse/terraform-aws-kms-key" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision a KMS key with alias&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>islamsamipkr/Lecture_3_terraform_loop</title>
+    <updated>2023-05-29T01:35:53Z</updated>
+    <id>tag:github.com,2023-05-29:/islamsamipkr/Lecture_3_terraform_loop</id>
+    <link href="https://github.com/islamsamipkr/Lecture_3_terraform_loop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cloudposse/terraform-aws-named-subnets</title>
+    <updated>2023-05-29T01:35:53Z</updated>
+    <id>tag:github.com,2023-05-29:/cloudposse/terraform-aws-named-subnets</id>
+    <link href="https://github.com/cloudposse/terraform-aws-named-subnets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for named subnets provisioning.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

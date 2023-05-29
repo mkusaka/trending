@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:43:16Z</updated>
+  <updated>2023-05-29T01:39:07Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cybozu-go/zombie-detector</title>
-    <updated>2023-05-28T01:43:16Z</updated>
-    <id>tag:github.com,2023-05-28:/cybozu-go/zombie-detector</id>
-    <link href="https://github.com/cybozu-go/zombie-detector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ahuang-cs/CISC179</title>
+    <updated>2023-05-29T01:39:07Z</updated>
+    <id>tag:github.com,2023-05-29:/ahuang-cs/CISC179</id>
+    <link href="https://github.com/ahuang-cs/CISC179" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CISC 179 Python Programming Labs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aosp-mirror/platform_build</title>
-    <updated>2023-05-28T01:43:16Z</updated>
-    <id>tag:github.com,2023-05-28:/aosp-mirror/platform_build</id>
-    <link href="https://github.com/aosp-mirror/platform_build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>go-skynet/go-bert.cpp</title>
+    <updated>2023-05-29T01:39:07Z</updated>
+    <id>tag:github.com,2023-05-29:/go-skynet/go-bert.cpp</id>
+    <link href="https://github.com/go-skynet/go-bert.cpp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bindings for bert.cpp&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sbwml/r4s_build_script</title>
+    <updated>2023-05-29T01:39:07Z</updated>
+    <id>tag:github.com,2023-05-29:/sbwml/r4s_build_script</id>
+    <link href="https://github.com/sbwml/r4s_build_script" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;个人自用 OpenWrt 构建脚本&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

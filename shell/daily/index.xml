@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-28T01:49:06Z</updated>
+  <updated>2023-05-29T01:44:32Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>AuxXxilium/arc</title>
-    <updated>2023-05-28T01:49:06Z</updated>
-    <id>tag:github.com,2023-05-28:/AuxXxilium/arc</id>
-    <link href="https://github.com/AuxXxilium/arc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Arc is a customized Redpill Loader for DSM 7.x (Xpenology) with enhanced Hardwaresupport, Addons and semi-automated Installation (automated SataPortMap and Diskconfig). User interaction is required and more customization options are builtin.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ARC Redpill Loader for DSM 7.x&lt;/h1&gt; &#xA;&lt;h3&gt;Bugreport&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Before you report an issue or bug please read the &lt;a href=&#34;https://github.com/AuxXxilium/AuxXxilium/wiki&#34;&gt;Wiki&lt;/a&gt; and make sure your setting are correct.&lt;/li&gt; &#xA; &lt;li&gt;If you have to report an issue or bug: &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;Hardware you use (Networkchip, Sata/HBA/Raid Controller)&lt;/li&gt; &#xA;   &lt;li&gt;Screenshot the Systeminfo (Arc - Sysinfo) !!! &amp;lt;- IMPORTANT&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Links&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/AuxXxilium&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/AuxXxilium/AuxXxilium/wiki&#34;&gt;Wiki and Informations&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/AuxXxilium/arc/releases/latest&#34;&gt;Download&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Thanks&lt;/h3&gt; &#xA;&lt;p&gt;All code was based on the work of TTG, pocopico, jumkey, fbelavenuto and others involved in continuing TTG&#39;s original redpill-load project.&lt;/p&gt;</summary>
+    <title>Magisk-Modules-Repo/busybox-ndk</title>
+    <updated>2023-05-29T01:44:32Z</updated>
+    <id>tag:github.com,2023-05-29:/Magisk-Modules-Repo/busybox-ndk</id>
+    <link href="https://github.com/Magisk-Modules-Repo/busybox-ndk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;busybox-ndk&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Busybox for Android NDK&lt;/h2&gt; &#xA;&lt;h3&gt;osm0sis @ xda-developers&lt;/h3&gt; &#xA;&lt;p&gt;&lt;em&gt;Static busybox binary for all Android architectures built with the NDK&lt;/em&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Links&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/Magisk-Modules-Repo/Busybox-Installer&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://bit.do/osm0&#34;&gt;Support&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/sponsors/osm0sis&#34;&gt;Sponsor&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.paypal.me/osm0sis&#34;&gt;Donate&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Description&lt;/h3&gt; &#xA;&lt;p&gt;A byproduct of building my own busybox for my &lt;a href=&#34;https://bit.do/AIK_&#34;&gt;AIK-mobile&lt;/a&gt; package, I figured I might as well offer them separately since there weren&#39;t any providers making Android x64 builds.&lt;/p&gt; &#xA;&lt;p&gt;Detects device (ARM/64, x86/_64, MIPS/64) to install the busybox binary, cleans up symlinks from any previous install and generates new ones. Detects and supports SuperSU/Magisk systemless installs.&lt;/p&gt; &#xA;&lt;p&gt;My build configs/patches are available here: &lt;a href=&#34;https://github.com/osm0sis/android-busybox-ndk&#34;&gt;android-busybox-ndk&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Please read the &lt;a href=&#34;https://bit.do/BBNDK&#34;&gt;release post&lt;/a&gt; for more info about applet inclusion, zip renaming options and special features.&lt;/p&gt;</summary>
   </entry>
 </feed>
