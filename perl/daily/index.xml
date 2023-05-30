@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:41:20Z</updated>
+  <updated>2023-05-30T01:42:45Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>animesh/scripts</title>
+    <updated>2023-05-30T01:42:45Z</updated>
+    <id>tag:github.com,2023-05-30:/animesh/scripts</id>
+    <link href="https://github.com/animesh/scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Miscellaneous scripts moved from https://code.google.com/p/misccb/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;git reset HEAD~&lt;/h1&gt; &#xA;&lt;p&gt;#&lt;a href=&#34;https://github.com/animesh/scripts/raw/master/Dockerfile&#34;&gt;dockerImage&lt;/a&gt;:&lt;/p&gt; &#xA;&lt;h1&gt;docker.io/animesh1977/scripts&lt;/h1&gt; &#xA;&lt;p&gt;#ignore MS/DOS endings (on windows machines):&lt;/p&gt; &#xA;&lt;h1&gt;git config --global core.autocrlf true&lt;/h1&gt; &#xA;&lt;p&gt;#&lt;a href=&#34;https://youtu.be/f-Br8cud2eI?t=1918&#34;&gt;aliases&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;rebase&lt;/h1&gt; &#xA;&lt;h1&gt;beflog&lt;/h1&gt; &#xA;&lt;h1&gt;stash&lt;/h1&gt; &#xA;&lt;h1&gt;log --graph&lt;/h1&gt; &#xA;&lt;h1&gt;bisect&lt;/h1&gt; &#xA;&lt;h1&gt;merge&lt;/h1&gt; &#xA;&lt;h1&gt;push --force-with-lease&lt;/h1&gt; &#xA;&lt;p&gt;#config setup&lt;/p&gt; &#xA;&lt;h1&gt;git clone &lt;a href=&#34;http://github.com/animesh/scripts&#34;&gt;http://github.com/animesh/scripts&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;cd scripts&lt;/h1&gt; &#xA;&lt;h1&gt;ln -s $PWD/config.bash $HOME/.bashrc&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;!&lt;em&gt;.&lt;/em&gt; *.pdf *.asv *.csv *.txt *.history *swp *gz *tsv&lt;/p&gt;</summary>
+  </entry>
 </feed>

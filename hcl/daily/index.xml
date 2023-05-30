@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:35:53Z</updated>
+  <updated>2023-05-30T01:36:35Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>seytech-devops/jenkins</title>
-    <updated>2023-05-29T01:35:53Z</updated>
-    <id>tag:github.com,2023-05-29:/seytech-devops/jenkins</id>
-    <link href="https://github.com/seytech-devops/jenkins" rel="alternate"></link>
+    <title>anselmenumbisia/k8s-jjtech</title>
+    <updated>2023-05-30T01:36:35Z</updated>
+    <id>tag:github.com,2023-05-30:/anselmenumbisia/k8s-jjtech</id>
+    <link href="https://github.com/anselmenumbisia/k8s-jjtech" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>islamsamipkr/Lecture_3_terraform_loop</title>
-    <updated>2023-05-29T01:35:53Z</updated>
-    <id>tag:github.com,2023-05-29:/islamsamipkr/Lecture_3_terraform_loop</id>
-    <link href="https://github.com/islamsamipkr/Lecture_3_terraform_loop" rel="alternate"></link>
+    <title>hmcts/aks-cft-deploy</title>
+    <updated>2023-05-30T01:36:35Z</updated>
+    <id>tag:github.com,2023-05-30:/hmcts/aks-cft-deploy</id>
+    <link href="https://github.com/hmcts/aks-cft-deploy" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cloudposse/terraform-aws-named-subnets</title>
-    <updated>2023-05-29T01:35:53Z</updated>
-    <id>tag:github.com,2023-05-29:/cloudposse/terraform-aws-named-subnets</id>
-    <link href="https://github.com/cloudposse/terraform-aws-named-subnets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module for named subnets provisioning.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yeshwanthlm/Terraform-Jenkins</title>
+    <updated>2023-05-30T01:36:35Z</updated>
+    <id>tag:github.com,2023-05-30:/yeshwanthlm/Terraform-Jenkins</id>
+    <link href="https://github.com/yeshwanthlm/Terraform-Jenkins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform-Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

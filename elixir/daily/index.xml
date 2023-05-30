@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:33:44Z</updated>
+  <updated>2023-05-30T01:34:10Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elixir-nx/nx_signal</title>
-    <updated>2023-05-29T01:33:44Z</updated>
-    <id>tag:github.com,2023-05-29:/elixir-nx/nx_signal</id>
-    <link href="https://github.com/elixir-nx/nx_signal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DSP with Elixir Nx&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ozziexsh/bling</title>
+    <updated>2023-05-30T01:34:10Z</updated>
+    <id>tag:github.com,2023-05-30:/ozziexsh/bling</id>
+    <link href="https://github.com/ozziexsh/bling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💰 Add recurring subscriptions to phoenix applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Kraigie/nostrum</title>
-    <updated>2023-05-29T01:33:44Z</updated>
-    <id>tag:github.com,2023-05-29:/Kraigie/nostrum</id>
-    <link href="https://github.com/Kraigie/nostrum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir Discord Library&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>relaypro-open/ortex</title>
+    <updated>2023-05-30T01:34:10Z</updated>
+    <id>tag:github.com,2023-05-30:/relaypro-open/ortex</id>
+    <link href="https://github.com/relaypro-open/ortex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ONNX Runtime bindings for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>team-telnyx/pogo</title>
+    <updated>2023-05-30T01:34:10Z</updated>
+    <id>tag:github.com,2023-05-30:/team-telnyx/pogo</id>
+    <link href="https://github.com/team-telnyx/pogo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Distributed supervisor for clustered Elixir applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:41:12Z</updated>
+  <updated>2023-05-30T01:42:36Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>amurorey/ICCard</title>
-    <updated>2023-05-29T01:41:12Z</updated>
-    <id>tag:github.com,2023-05-29:/amurorey/ICCard</id>
-    <link href="https://github.com/amurorey/ICCard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2017-7-24&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>CarlosHe/duck</title>
-    <updated>2023-05-29T01:41:12Z</updated>
-    <id>tag:github.com,2023-05-29:/CarlosHe/duck</id>
-    <link href="https://github.com/CarlosHe/duck" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Duck is a migration framework for database versioning&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HashLoad/horse-cors</title>
-    <updated>2023-05-29T01:41:12Z</updated>
-    <id>tag:github.com,2023-05-29:/HashLoad/horse-cors</id>
-    <link href="https://github.com/HashLoad/horse-cors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>andremussche/scalemm</title>
+    <updated>2023-05-30T01:42:36Z</updated>
+    <id>tag:github.com,2023-05-30:/andremussche/scalemm</id>
+    <link href="https://github.com/andremussche/scalemm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast scaling memory manager for Delphi&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:39:07Z</updated>
+  <updated>2023-05-30T01:40:22Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ahuang-cs/CISC179</title>
-    <updated>2023-05-29T01:39:07Z</updated>
-    <id>tag:github.com,2023-05-29:/ahuang-cs/CISC179</id>
-    <link href="https://github.com/ahuang-cs/CISC179" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CISC 179 Python Programming Labs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>analogdevicesinc/buildroot</title>
+    <updated>2023-05-30T01:40:22Z</updated>
+    <id>tag:github.com,2023-05-30:/analogdevicesinc/buildroot</id>
+    <link href="https://github.com/analogdevicesinc/buildroot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation. Forked from https://git.busybox.net/buildroot/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>go-skynet/go-bert.cpp</title>
-    <updated>2023-05-29T01:39:07Z</updated>
-    <id>tag:github.com,2023-05-29:/go-skynet/go-bert.cpp</id>
-    <link href="https://github.com/go-skynet/go-bert.cpp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;bindings for bert.cpp&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>apache/yunikorn-scheduler-interface</title>
+    <updated>2023-05-30T01:40:22Z</updated>
+    <id>tag:github.com,2023-05-30:/apache/yunikorn-scheduler-interface</id>
+    <link href="https://github.com/apache/yunikorn-scheduler-interface" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Apache YuniKorn Scheduler Interface&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sbwml/r4s_build_script</title>
-    <updated>2023-05-29T01:39:07Z</updated>
-    <id>tag:github.com,2023-05-29:/sbwml/r4s_build_script</id>
-    <link href="https://github.com/sbwml/r4s_build_script" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;个人自用 OpenWrt 构建脚本&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DHDAXCW/NanoPi-R4S-R4SE</title>
+    <updated>2023-05-30T01:40:22Z</updated>
+    <id>tag:github.com,2023-05-30:/DHDAXCW/NanoPi-R4S-R4SE</id>
+    <link href="https://github.com/DHDAXCW/NanoPi-R4S-R4SE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于lede-rockchip 源码建构 NanoPi R4S R4SE 的 OpenWrt 固件。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

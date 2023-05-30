@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:34:44Z</updated>
+  <updated>2023-05-30T01:35:08Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SebLague/Godot-Marching-Cubes</title>
-    <updated>2023-05-29T01:34:44Z</updated>
-    <id>tag:github.com,2023-05-29:/SebLague/Godot-Marching-Cubes</id>
-    <link href="https://github.com/SebLague/Godot-Marching-Cubes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seshoumara/Godot-HexGrid2D</title>
-    <updated>2023-05-29T01:34:44Z</updated>
-    <id>tag:github.com,2023-05-29:/seshoumara/Godot-HexGrid2D</id>
-    <link href="https://github.com/seshoumara/Godot-HexGrid2D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HexGrid2D built from Hex2D, RectGrid2D, plus Grid and Voronoi generator applications using Godot 3.5. Demo project.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>krzmig/godot-simple-sky-project</title>
+    <updated>2023-05-30T01:35:08Z</updated>
+    <id>tag:github.com,2023-05-30:/krzmig/godot-simple-sky-project</id>
+    <link href="https://github.com/krzmig/godot-simple-sky-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Godot 4 project with day-night and season systems, a procedurally moving sun and moon, and a stylized sky shader.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

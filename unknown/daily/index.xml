@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:29:13Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-05-30T01:29:27Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Clooos/Home-Assistant-Mobile-First</title>
-    <updated>2023-05-29T01:29:13Z</updated>
-    <id>tag:github.com,2023-05-29:/Clooos/Home-Assistant-Mobile-First</id>
-    <link href="https://github.com/Clooos/Home-Assistant-Mobile-First" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes</title>
+    <updated>2023-05-30T01:29:27Z</updated>
+    <id>tag:github.com,2023-05-30:/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes</id>
+    <link href="https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>XTsat/rapid-upload-userscript-doc</title>
-    <updated>2023-05-29T01:29:13Z</updated>
-    <id>tag:github.com,2023-05-29:/XTsat/rapid-upload-userscript-doc</id>
-    <link href="https://github.com/XTsat/rapid-upload-userscript-doc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;秒传链接提取脚本 - 文档&amp;教程&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thu-ml/prolificdreamer</title>
+    <updated>2023-05-30T01:29:27Z</updated>
+    <id>tag:github.com,2023-05-30:/thu-ml/prolificdreamer</id>
+    <link href="https://github.com/thu-ml/prolificdreamer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Korepi/Korepi</title>
-    <updated>2023-05-29T01:29:13Z</updated>
-    <id>tag:github.com,2023-05-29:/Korepi/Korepi</id>
-    <link href="https://github.com/Korepi/Korepi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Korek Api&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CorrieOnly/google-dorks</title>
+    <updated>2023-05-30T01:29:27Z</updated>
+    <id>tag:github.com,2023-05-30:/CorrieOnly/google-dorks</id>
+    <link href="https://github.com/CorrieOnly/google-dorks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

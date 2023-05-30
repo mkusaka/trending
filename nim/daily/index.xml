@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:40:13Z</updated>
+  <updated>2023-05-30T01:41:28Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xTrayambak/ferus</title>
-    <updated>2023-05-29T01:40:13Z</updated>
-    <id>tag:github.com,2023-05-29:/xTrayambak/ferus</id>
-    <link href="https://github.com/xTrayambak/ferus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A toy web engine written in Nim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>radkesvat/FakeTlsTunnel</title>
-    <updated>2023-05-29T01:40:13Z</updated>
-    <id>tag:github.com,2023-05-29:/radkesvat/FakeTlsTunnel</id>
-    <link href="https://github.com/radkesvat/FakeTlsTunnel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tunneling tool for custom tls handshake and more!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

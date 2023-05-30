@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-29T01:45:18Z</updated>
+  <updated>2023-05-30T01:46:54Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-05-chainlink</title>
-    <updated>2023-05-29T01:45:18Z</updated>
-    <id>tag:github.com,2023-05-29:/code-423n4/2023-05-chainlink</id>
-    <link href="https://github.com/code-423n4/2023-05-chainlink" rel="alternate"></link>
+    <title>merklejerk/zipped-contracts</title>
+    <updated>2023-05-30T01:46:54Z</updated>
+    <id>tag:github.com,2023-05-30:/merklejerk/zipped-contracts</id>
+    <link href="https://github.com/merklejerk/zipped-contracts" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mevbotsethandbsc/mev-bot</title>
-    <updated>2023-05-29T01:45:18Z</updated>
-    <id>tag:github.com,2023-05-29:/mevbotsethandbsc/mev-bot</id>
-    <link href="https://github.com/mevbotsethandbsc/mev-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MEV (Miner Extractable Value) Mev bot is a 💎potential source of income💎 derived from transactions found in the mempool (the pool of unconfirmed transactions): Flashloan,Arbitrage&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>techaddict0x/coinflipgamebsc</title>
-    <updated>2023-05-29T01:45:18Z</updated>
-    <id>tag:github.com,2023-05-29:/techaddict0x/coinflipgamebsc</id>
-    <link href="https://github.com/techaddict0x/coinflipgamebsc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Coin Flip game full source&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
