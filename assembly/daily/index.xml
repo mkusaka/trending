@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-30T01:30:10Z</updated>
+  <updated>2023-05-31T01:31:22Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cesarblum/sectorforth</title>
-    <updated>2023-05-30T01:30:10Z</updated>
-    <id>tag:github.com,2023-05-30:/cesarblum/sectorforth</id>
-    <link href="https://github.com/cesarblum/sectorforth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;sectorforth is a 16-bit x86 Forth that fits in a 512-byte boot sector.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>atesgoral/hrm-solutions</title>
+    <updated>2023-05-31T01:31:22Z</updated>
+    <id>tag:github.com,2023-05-31:/atesgoral/hrm-solutions</id>
+    <link href="https://github.com/atesgoral/hrm-solutions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Human Resource Machine solutions and size/speed hacks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>team-s2/summer_course_2023</title>
+    <updated>2023-05-31T01:31:22Z</updated>
+    <id>tag:github.com,2023-05-31:/team-s2/summer_course_2023</id>
+    <link href="https://github.com/team-s2/summer_course_2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AAA - 2023 短学期安全攻防实践开源仓库&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

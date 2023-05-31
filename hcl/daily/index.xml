@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-30T01:36:35Z</updated>
+  <updated>2023-05-31T01:37:09Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anselmenumbisia/k8s-jjtech</title>
-    <updated>2023-05-30T01:36:35Z</updated>
-    <id>tag:github.com,2023-05-30:/anselmenumbisia/k8s-jjtech</id>
-    <link href="https://github.com/anselmenumbisia/k8s-jjtech" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-mq-broker</title>
+    <updated>2023-05-31T01:37:09Z</updated>
+    <id>tag:github.com,2023-05-31:/cloudposse/terraform-aws-mq-broker</id>
+    <link href="https://github.com/cloudposse/terraform-aws-mq-broker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for provisioning an AmazonMQ broker&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hmcts/aks-cft-deploy</title>
-    <updated>2023-05-30T01:36:35Z</updated>
-    <id>tag:github.com,2023-05-30:/hmcts/aks-cft-deploy</id>
-    <link href="https://github.com/hmcts/aks-cft-deploy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clouddrove/terraform-aws-cross-account-role</title>
+    <updated>2023-05-31T01:37:09Z</updated>
+    <id>tag:github.com,2023-05-31:/clouddrove/terraform-aws-cross-account-role</id>
+    <link href="https://github.com/clouddrove/terraform-aws-cross-account-role" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This terraform module is used to create an IAM Role to access another AWS account inventory.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yeshwanthlm/Terraform-Jenkins</title>
-    <updated>2023-05-30T01:36:35Z</updated>
-    <id>tag:github.com,2023-05-30:/yeshwanthlm/Terraform-Jenkins</id>
-    <link href="https://github.com/yeshwanthlm/Terraform-Jenkins" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform-Jenkins&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>terraform-ibm-modules/terraform-ibm-vpe-module</title>
+    <updated>2023-05-31T01:37:09Z</updated>
+    <id>tag:github.com,2023-05-31:/terraform-ibm-modules/terraform-ibm-vpe-module</id>
+    <link href="https://github.com/terraform-ibm-modules/terraform-ibm-vpe-module" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Create Virtual Private Endpoint Gateways across VPC subnets.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

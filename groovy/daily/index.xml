@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-30T01:36:06Z</updated>
+  <updated>2023-05-31T01:36:47Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>abhinavsohani/grails-likeable</title>
+    <updated>2023-05-31T01:36:47Z</updated>
+    <id>tag:github.com,2023-05-31:/abhinavsohani/grails-likeable</id>
+    <link href="https://github.com/abhinavsohani/grails-likeable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;add functionality to like domain classes in grails app&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

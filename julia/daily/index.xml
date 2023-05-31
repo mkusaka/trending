@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-30T01:38:50Z</updated>
+  <updated>2023-05-31T01:39:56Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>OceanBioME/OceanBioME.jl</title>
-    <updated>2023-05-30T01:38:50Z</updated>
-    <id>tag:github.com,2023-05-30:/OceanBioME/OceanBioME.jl</id>
-    <link href="https://github.com/OceanBioME/OceanBioME.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌊 🦠 🌿 A fast and flexible modelling environment written in Julia for modelling the coupled interactions between ocean biogeochemistry, carbonate chemistry, and physics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

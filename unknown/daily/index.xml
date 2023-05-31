@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-30T01:29:27Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-05-31T01:30:38Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes</title>
-    <updated>2023-05-30T01:29:27Z</updated>
-    <id>tag:github.com,2023-05-30:/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes</id>
-    <link href="https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ilmoi/teachyourselfCS-RU</title>
+    <updated>2023-05-31T01:30:38Z</updated>
+    <id>tag:github.com,2023-05-31:/ilmoi/teachyourselfCS-RU</id>
+    <link href="https://github.com/ilmoi/teachyourselfCS-RU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Russian translation of https://teachyourselfcs.com/&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thu-ml/prolificdreamer</title>
-    <updated>2023-05-30T01:29:27Z</updated>
-    <id>tag:github.com,2023-05-30:/thu-ml/prolificdreamer</id>
-    <link href="https://github.com/thu-ml/prolificdreamer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenGVLab/GITM</title>
+    <updated>2023-05-31T01:30:38Z</updated>
+    <id>tag:github.com,2023-05-31:/OpenGVLab/GITM</id>
+    <link href="https://github.com/OpenGVLab/GITM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CorrieOnly/google-dorks</title>
-    <updated>2023-05-30T01:29:27Z</updated>
-    <id>tag:github.com,2023-05-30:/CorrieOnly/google-dorks</id>
-    <link href="https://github.com/CorrieOnly/google-dorks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Allar/ue5-style-guide</title>
+    <updated>2023-05-31T01:30:38Z</updated>
+    <id>tag:github.com,2023-05-31:/Allar/ue5-style-guide</id>
+    <link href="https://github.com/Allar/ue5-style-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An attempt to make Unreal Engine 4 projects more consistent&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

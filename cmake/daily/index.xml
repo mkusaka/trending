@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-30T01:32:06Z</updated>
+  <updated>2023-05-31T01:32:53Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BelledonneCommunications/linphone-sdk</title>
+    <updated>2023-05-31T01:32:53Z</updated>
+    <id>tag:github.com,2023-05-31:/BelledonneCommunications/linphone-sdk</id>
+    <link href="https://github.com/BelledonneCommunications/linphone-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mirror for linphone-sdk (https://gitlab.linphone.org/BC/public/linphone-sdk.git)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RoboSense-LiDAR/rslidar_msg</title>
+    <updated>2023-05-31T01:32:53Z</updated>
+    <id>tag:github.com,2023-05-31:/RoboSense-LiDAR/rslidar_msg</id>
+    <link href="https://github.com/RoboSense-LiDAR/rslidar_msg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ROS2 LiDAR Packet Message&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>UwUClub/Zappy</title>
+    <updated>2023-05-31T01:32:53Z</updated>
+    <id>tag:github.com,2023-05-31:/UwUClub/Zappy</id>
+    <link href="https://github.com/UwUClub/Zappy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

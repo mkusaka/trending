@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-30T01:42:45Z</updated>
+  <updated>2023-05-31T01:44:17Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>animesh/scripts</title>
-    <updated>2023-05-30T01:42:45Z</updated>
-    <id>tag:github.com,2023-05-30:/animesh/scripts</id>
-    <link href="https://github.com/animesh/scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Miscellaneous scripts moved from https://code.google.com/p/misccb/&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;git reset HEAD~&lt;/h1&gt; &#xA;&lt;p&gt;#&lt;a href=&#34;https://github.com/animesh/scripts/raw/master/Dockerfile&#34;&gt;dockerImage&lt;/a&gt;:&lt;/p&gt; &#xA;&lt;h1&gt;docker.io/animesh1977/scripts&lt;/h1&gt; &#xA;&lt;p&gt;#ignore MS/DOS endings (on windows machines):&lt;/p&gt; &#xA;&lt;h1&gt;git config --global core.autocrlf true&lt;/h1&gt; &#xA;&lt;p&gt;#&lt;a href=&#34;https://youtu.be/f-Br8cud2eI?t=1918&#34;&gt;aliases&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;rebase&lt;/h1&gt; &#xA;&lt;h1&gt;beflog&lt;/h1&gt; &#xA;&lt;h1&gt;stash&lt;/h1&gt; &#xA;&lt;h1&gt;log --graph&lt;/h1&gt; &#xA;&lt;h1&gt;bisect&lt;/h1&gt; &#xA;&lt;h1&gt;merge&lt;/h1&gt; &#xA;&lt;h1&gt;push --force-with-lease&lt;/h1&gt; &#xA;&lt;p&gt;#config setup&lt;/p&gt; &#xA;&lt;h1&gt;git clone &lt;a href=&#34;http://github.com/animesh/scripts&#34;&gt;http://github.com/animesh/scripts&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;h1&gt;cd scripts&lt;/h1&gt; &#xA;&lt;h1&gt;ln -s $PWD/config.bash $HOME/.bashrc&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;!&lt;em&gt;.&lt;/em&gt; *.pdf *.asv *.csv *.txt *.history *swp *gz *tsv&lt;/p&gt;</summary>
+    <title>utcompling/OpenNLP-Models</title>
+    <updated>2023-05-31T01:44:17Z</updated>
+    <id>tag:github.com,2023-05-31:/utcompling/OpenNLP-Models</id>
+    <link href="https://github.com/utcompling/OpenNLP-Models" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A project for code to create models from existing corpora and distribute models.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This project will collect code and documentation for creating models for natural language processing with the Apache OpenNLP Toolkit. The OpenNLP project website is here:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://incubator.apache.org/opennlp/&#34;&gt;http://incubator.apache.org/opennlp/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;The primary reason for this project is that it is not possible to distribute models based on restricted data through the Apache sites, and many of the corpora that are available for training models must be obtained through some licensing agreement. The other purpose is to make it clear what contexts (e.g. academic, industry, etc) a given model may be used in to ensure that the wishes of copyright holders for a given corpus are respected.&lt;/p&gt; &#xA;&lt;p&gt;Ultimately, this project should replace the old model download site from Sourceforge, especially in ensuring that models are compatible with newer versions of the OpenNLP code.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://opennlp.sourceforge.net/models-1.5/&#34;&gt;http://opennlp.sourceforge.net/models-1.5/&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

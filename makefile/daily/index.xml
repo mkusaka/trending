@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-30T01:40:22Z</updated>
+  <updated>2023-05-31T01:41:42Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>analogdevicesinc/buildroot</title>
-    <updated>2023-05-30T01:40:22Z</updated>
-    <id>tag:github.com,2023-05-30:/analogdevicesinc/buildroot</id>
-    <link href="https://github.com/analogdevicesinc/buildroot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Buildroot is a simple, efficient and easy-to-use tool to generate embedded Linux systems through cross-compilation. Forked from https://git.busybox.net/buildroot/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>armbian/firmware</title>
+    <updated>2023-05-31T01:41:42Z</updated>
+    <id>tag:github.com,2023-05-31:/armbian/firmware</id>
+    <link href="https://github.com/armbian/firmware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Armbian Linux firmware&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>apache/yunikorn-scheduler-interface</title>
-    <updated>2023-05-30T01:40:22Z</updated>
-    <id>tag:github.com,2023-05-30:/apache/yunikorn-scheduler-interface</id>
-    <link href="https://github.com/apache/yunikorn-scheduler-interface" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Apache YuniKorn Scheduler Interface&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DHDAXCW/NanoPi-R4S-R4SE</title>
-    <updated>2023-05-30T01:40:22Z</updated>
-    <id>tag:github.com,2023-05-30:/DHDAXCW/NanoPi-R4S-R4SE</id>
-    <link href="https://github.com/DHDAXCW/NanoPi-R4S-R4SE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于lede-rockchip 源码建构 NanoPi R4S R4SE 的 OpenWrt 固件。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aosp-playground/proprietary_vendor_xiaomi_sweet</title>
+    <updated>2023-05-31T01:41:42Z</updated>
+    <id>tag:github.com,2023-05-31:/aosp-playground/proprietary_vendor_xiaomi_sweet</id>
+    <link href="https://github.com/aosp-playground/proprietary_vendor_xiaomi_sweet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
