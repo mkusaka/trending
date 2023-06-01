@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:41:42Z</updated>
+  <updated>2023-06-01T01:41:08Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>armbian/firmware</title>
-    <updated>2023-05-31T01:41:42Z</updated>
-    <id>tag:github.com,2023-05-31:/armbian/firmware</id>
-    <link href="https://github.com/armbian/firmware" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Armbian Linux firmware&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xType/0xProto</title>
+    <updated>2023-06-01T01:41:08Z</updated>
+    <id>tag:github.com,2023-06-01:/0xType/0xProto</id>
+    <link href="https://github.com/0xType/0xProto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Free and Open-source font for programming.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aosp-playground/proprietary_vendor_xiaomi_sweet</title>
-    <updated>2023-05-31T01:41:42Z</updated>
-    <id>tag:github.com,2023-05-31:/aosp-playground/proprietary_vendor_xiaomi_sweet</id>
-    <link href="https://github.com/aosp-playground/proprietary_vendor_xiaomi_sweet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DLR-TS/apt_cacher_ng_docker</title>
+    <updated>2023-06-01T01:41:08Z</updated>
+    <id>tag:github.com,2023-06-01:/DLR-TS/apt_cacher_ng_docker</id>
+    <link href="https://github.com/DLR-TS/apt_cacher_ng_docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A docker wrapper around apt-cacher-ng, provides a service, docker compose file and example consumers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:41:14Z</updated>
+  <updated>2023-06-01T01:40:44Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>therealFoxster/DontEatMyContent</title>
-    <updated>2023-05-31T01:41:14Z</updated>
-    <id>tag:github.com,2023-05-31:/therealFoxster/DontEatMyContent</id>
-    <link href="https://github.com/therealFoxster/DontEatMyContent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

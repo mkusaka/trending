@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Puppet Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:20:38Z</updated>
+  <subtitle>Monthly Trending of Puppet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>chriseckhardt/puppet-scripts</title>
+    <updated>2023-06-01T02:20:38Z</updated>
+    <id>tag:github.com,2023-06-01:/chriseckhardt/puppet-scripts</id>
+    <link href="https://github.com/chriseckhardt/puppet-scripts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;collection of stand-alone ad-hoc puppet scripts not built as autoload modules&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fup/puppet-znc</title>
+    <updated>2023-06-01T02:20:38Z</updated>
+    <id>tag:github.com,2023-06-01:/fup/puppet-znc</id>
+    <link href="https://github.com/fup/puppet-znc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:49:05Z</updated>
+  <updated>2023-06-01T01:47:48Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>carloocchiena/the_statistics_handbook</title>
+    <updated>2023-06-01T01:47:48Z</updated>
+    <id>tag:github.com,2023-06-01:/carloocchiena/the_statistics_handbook</id>
+    <link href="https://github.com/carloocchiena/the_statistics_handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the statistics handbook open source repository&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The Statistics Handbook&lt;/h1&gt; &#xA;&lt;p&gt;&lt;em&gt;The statistics handbook open source repository&lt;/em&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Contents of this repo&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;LICENSE: the license definition for this package.&lt;/li&gt; &#xA; &lt;li&gt;README.md: the readme file.&lt;/li&gt; &#xA; &lt;li&gt;The Statistics Handbook: the compiled version of the handbook.&lt;/li&gt; &#xA; &lt;li&gt;Statistical Workbook.xlsx: the .xlsx file with exercises and demonstrations.&lt;/li&gt; &#xA; &lt;li&gt;datachart_template.ai: the .ai file with the charts and image source file.&lt;/li&gt; &#xA; &lt;li&gt;main.tex: is the latex source code of the handbook.&lt;/li&gt; &#xA; &lt;li&gt;z-table.xlsx: the z-table generated with an Excel formula.&lt;/li&gt; &#xA; &lt;li&gt;z_score_table_t_score_analysis.ipynb: interactive Jupyter Notebook to explore t-score and z-score testing.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Scope of this handbook&lt;/h2&gt; &#xA;&lt;p&gt;&lt;em&gt;&#34;Statistical analysis is the best way to predict events we do not know using information we do know.&#34;&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;We are used to talking generally about mathematical skills, thinking perhaps of derivatives, integrals, theorems, and graphs of functions.&lt;/p&gt; &#xA;&lt;p&gt;Often we do that in an abstract way, as if they were certainly logical elements, but with just specific applications. Instead, we forget that not only are mathematical elements present in every single action, but that quantitative sciences are components of everyday life.&lt;/p&gt; &#xA;&lt;p&gt;Specifically, I believe that statistics is among all the mathematical sciences the most fascinating because of the vastness and incredible opportunities for its application.&lt;/p&gt; &#xA;&lt;p&gt;Every decision we make can be traced back to statistical phenomena, either innate (such as fear of the dark, because in the dark increases the likelihood of dangerous animals) or conscious (today I think it&#39;s likely to rain, so I&#39;ll take my umbrella).&lt;/p&gt; &#xA;&lt;p&gt;On the other hand, approaching even basic statistical calculations (e.g., the infamous probability of winning the lottery) requires nontrivial skills in order to apply concepts and formulas that are not always complex but certainly have dissimilar results if used thoughtlessly. I claim for certain that worse than the lack of mathematical thinking is the misuse of mathematical thinking. This paper of mine is also in fact intended to combat my limitations through study and applications.&lt;/p&gt; &#xA;&lt;p&gt;In this handbook, I wanted to create a path from the basics, including terminology (often one of the main obstacles for the laymen approaching the subject), to formulations of hypotheses, validations, and verification of formulas.&lt;/p&gt; &#xA;&lt;p&gt;The path was constructed by consulting a large number of sources, cited in the appendix, and during long months of study and in-depth proof of the results and evidence, precisely because first and foremost I wanted to verify my own expertise, even before, of course, I could write about it.&lt;/p&gt; &#xA;&lt;p&gt;Before releasing this publication, which is distributed under a Creative Common and Free Culture license, I asked for a check from eminent acquaintances with important academic and working backgrounds. I would like to endlessly thank all of them (their names can be found in the appropriate section). Nevertheless, I am staying receptive to additions, insights and corrections, taking full responsibility for any shortcomings and errors, certainly reported in good faith.&lt;/p&gt; &#xA;&lt;p&gt;Happy reading!&lt;/p&gt; &#xA;&lt;p&gt;Carlo, 21st of February 2023.&lt;/p&gt; &#xA;&lt;h2&gt;Featured&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://news.ycombinator.com/item?id=36111993&#34;&gt;Positively voted on HackerNews&lt;/a&gt; (108 upvotes, 21 comments)&lt;/li&gt; &#xA; &lt;li&gt;Cited in the popular Newsletter &#34;La Cultura del Dato&#34; by Stefano Gatti (&lt;a href=&#34;https://stefanogatti.substack.com/p/laculturadeldato-053-a48&#34;&gt;episode #54&lt;/a&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>duckyb/four-souls-rules-booklet</title>
+    <updated>2023-06-01T01:47:48Z</updated>
+    <id>tag:github.com,2023-06-01:/duckyb/four-souls-rules-booklet</id>
+    <link href="https://github.com/duckyb/four-souls-rules-booklet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Printable Booklet of the Four Souls online extended rulebook&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lsst/LDM-227</title>
+    <updated>2023-06-01T01:47:48Z</updated>
+    <id>tag:github.com,2023-06-01:/lsst/LDM-227</id>
+    <link href="https://github.com/lsst/LDM-227" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LDM-227: Report on Late Winter2013 Production: Image Differencing&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;W13report&lt;/h1&gt; &#xA;&lt;p&gt;W13report&lt;/p&gt;</summary>
+  </entry>
 </feed>

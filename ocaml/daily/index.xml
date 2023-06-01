@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:43:25Z</updated>
+  <updated>2023-06-01T01:42:43Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ml-in-barcelona/server-reason-react</title>
-    <updated>2023-05-31T01:43:25Z</updated>
-    <id>tag:github.com,2023-05-31:/ml-in-barcelona/server-reason-react</id>
-    <link href="https://github.com/ml-in-barcelona/server-reason-react" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Server rendering Reason React components natively&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jianingy/iprange</title>
+    <updated>2023-06-01T01:42:43Z</updated>
+    <id>tag:github.com,2023-06-01:/jianingy/iprange</id>
+    <link href="https://github.com/jianingy/iprange" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;tools for expanding / compressing ip addresses. no problem with large subnet!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

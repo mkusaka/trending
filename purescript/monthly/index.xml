@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:20:48Z</updated>
+  <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-contravariant</title>
+    <updated>2023-06-01T02:20:48Z</updated>
+    <id>tag:github.com,2023-06-01:/purescript/purescript-contravariant</id>
+    <link href="https://github.com/purescript/purescript-contravariant" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Contravariant functors&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-contrib/purescript-now</title>
+    <updated>2023-06-01T02:20:48Z</updated>
+    <id>tag:github.com,2023-06-01:/purescript-contrib/purescript-now</id>
+    <link href="https://github.com/purescript-contrib/purescript-now" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Effect type and functions for accessing the current machine&#39;s date and time.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-enums</title>
+    <updated>2023-06-01T02:20:48Z</updated>
+    <id>tag:github.com,2023-06-01:/purescript/purescript-enums</id>
+    <link href="https://github.com/purescript/purescript-enums" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Operations for sequentially ordered types&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LookML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:41:20Z</updated>
+  <updated>2023-06-01T01:40:46Z</updated>
   <subtitle>Daily Trending of LookML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>looker-open-source/block-stitch-facebook-ads-old</title>
-    <updated>2023-05-31T01:41:20Z</updated>
-    <id>tag:github.com,2023-05-31:/looker-open-source/block-stitch-facebook-ads-old</id>
-    <link href="https://github.com/looker-open-source/block-stitch-facebook-ads-old" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>looker-open-source/block-segment-ads-config</title>
-    <updated>2023-05-31T01:41:20Z</updated>
-    <id>tag:github.com,2023-05-31:/looker-open-source/block-segment-ads-config</id>
-    <link href="https://github.com/looker-open-source/block-segment-ads-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>looker-open-source/block-keboola-finance_essentials</title>
-    <updated>2023-05-31T01:41:20Z</updated>
-    <id>tag:github.com,2023-05-31:/looker-open-source/block-keboola-finance_essentials</id>
-    <link href="https://github.com/looker-open-source/block-keboola-finance_essentials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

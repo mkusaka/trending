@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:30:38Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-06-01T01:31:12Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ilmoi/teachyourselfCS-RU</title>
-    <updated>2023-05-31T01:30:38Z</updated>
-    <id>tag:github.com,2023-05-31:/ilmoi/teachyourselfCS-RU</id>
-    <link href="https://github.com/ilmoi/teachyourselfCS-RU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Russian translation of https://teachyourselfcs.com/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alura-challenges/challenge-one-encriptador-latam</title>
+    <updated>2023-06-01T01:31:12Z</updated>
+    <id>tag:github.com,2023-06-01:/alura-challenges/challenge-one-encriptador-latam</id>
+    <link href="https://github.com/alura-challenges/challenge-one-encriptador-latam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repositorio para la vitrina de proyectos para el Challenge del Programa Oracle ONE&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OpenGVLab/GITM</title>
-    <updated>2023-05-31T01:30:38Z</updated>
-    <id>tag:github.com,2023-05-31:/OpenGVLab/GITM</id>
-    <link href="https://github.com/OpenGVLab/GITM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Allar/ue5-style-guide</title>
-    <updated>2023-05-31T01:30:38Z</updated>
-    <id>tag:github.com,2023-05-31:/Allar/ue5-style-guide</id>
-    <link href="https://github.com/Allar/ue5-style-guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An attempt to make Unreal Engine 4 projects more consistent&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yzfly/wonderful-prompts</title>
+    <updated>2023-06-01T01:31:12Z</updated>
+    <id>tag:github.com,2023-06-01:/yzfly/wonderful-prompts</id>
+    <link href="https://github.com/yzfly/wonderful-prompts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

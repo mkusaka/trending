@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:10:23Z</updated>
+  <subtitle>Monthly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nubank/clj-github</title>
+    <updated>2023-06-01T02:10:23Z</updated>
+    <id>tag:github.com,2023-06-01:/nubank/clj-github</id>
+    <link href="https://github.com/nubank/clj-github" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure library for interacting with the github developer API&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/new-grad-template</title>
+    <updated>2023-06-01T02:10:23Z</updated>
+    <id>tag:github.com,2023-06-01:/nubank/new-grad-template</id>
+    <link href="https://github.com/nubank/new-grad-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nubank/state-flow</title>
+    <updated>2023-06-01T02:10:23Z</updated>
+    <id>tag:github.com,2023-06-01:/nubank/state-flow</id>
+    <link href="https://github.com/nubank/state-flow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Integration testing framework using a state monad in the backend for building and composing flows&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

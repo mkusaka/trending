@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:10:33Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>berdichev/utils</title>
+    <updated>2023-06-01T02:10:33Z</updated>
+    <id>tag:github.com,2023-06-01:/berdichev/utils</id>
+    <link href="https://github.com/berdichev/utils" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tiny set of CoffeeScript utilities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>unpoly/unpoly</title>
+    <updated>2023-06-01T02:10:33Z</updated>
+    <id>tag:github.com,2023-06-01:/unpoly/unpoly</id>
+    <link href="https://github.com/unpoly/unpoly" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unobtrusive Javascript Framework for server-side applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ccd0/4chan-x</title>
+    <updated>2023-06-01T02:10:33Z</updated>
+    <id>tag:github.com,2023-06-01:/ccd0/4chan-x</id>
+    <link href="https://github.com/ccd0/4chan-x" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds various features to anonymous imageboards.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

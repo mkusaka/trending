@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:48:10Z</updated>
+  <updated>2023-06-01T01:46:59Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>morpho-labs/smart-contract-challenges</title>
+    <updated>2023-06-01T01:46:59Z</updated>
+    <id>tag:github.com,2023-06-01:/morpho-labs/smart-contract-challenges</id>
+    <link href="https://github.com/morpho-labs/smart-contract-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Challenges to test your smart contract skills.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Matchbox-DAO/0xTitans-Public</title>
+    <updated>2023-06-01T01:46:59Z</updated>
+    <id>tag:github.com,2023-06-01:/Matchbox-DAO/0xTitans-Public</id>
+    <link href="https://github.com/Matchbox-DAO/0xTitans-Public" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official repo for 0xTitans Season 2&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

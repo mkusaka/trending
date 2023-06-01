@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:31:24Z</updated>
+  <updated>2023-06-01T01:31:58Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Vencord/Website</title>
-    <updated>2023-05-31T01:31:24Z</updated>
-    <id>tag:github.com,2023-05-31:/Vencord/Website</id>
-    <link href="https://github.com/Vencord/Website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>argyleink/morphull</title>
+    <updated>2023-06-01T01:31:58Z</updated>
+    <id>tag:github.com,2023-06-01:/argyleink/morphull</id>
+    <link href="https://github.com/argyleink/morphull" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Astro starter powered by MPA view transitions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

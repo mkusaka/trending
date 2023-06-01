@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:50:13Z</updated>
+  <updated>2023-06-01T01:48:47Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fantastic-admin/basic</title>
+    <updated>2023-06-01T01:48:47Z</updated>
+    <id>tag:github.com,2023-06-01:/fantastic-admin/basic</id>
+    <link href="https://github.com/fantastic-admin/basic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⭐⭐⭐⭐⭐一款开箱即用的 Vue 中后台管理系统框架，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:08:58Z</updated>
+  <subtitle>Monthly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>BLAKE3-team/BLAKE3</title>
+    <updated>2023-06-01T02:08:58Z</updated>
+    <id>tag:github.com,2023-06-01:/BLAKE3-team/BLAKE3</id>
+    <link href="https://github.com/BLAKE3-team/BLAKE3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;the official Rust and C implementations of the BLAKE3 cryptographic hash function&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>f1zm0/acheron</title>
+    <updated>2023-06-01T02:08:58Z</updated>
+    <id>tag:github.com,2023-06-01:/f1zm0/acheron</id>
+    <link href="https://github.com/f1zm0/acheron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;indirect syscalls for AV/EDR evasion in Go assembly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bitdump/BLHeli</title>
+    <updated>2023-06-01T02:08:58Z</updated>
+    <id>tag:github.com,2023-06-01:/bitdump/BLHeli</id>
+    <link href="https://github.com/bitdump/BLHeli" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BLHeli for brushless ESC firmware&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

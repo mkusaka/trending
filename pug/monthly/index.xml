@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Pug Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:20:41Z</updated>
+  <subtitle>Monthly Trending of Pug in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ccwe/frekwencja</title>
+    <updated>2023-06-01T02:20:41Z</updated>
+    <id>tag:github.com,2023-06-01:/ccwe/frekwencja</id>
+    <link href="https://github.com/ccwe/frekwencja" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unofficial attendance and GPA calculator for Librus Synergia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>anzhiyu-c/hexo-theme-anzhiyu</title>
+    <updated>2023-06-01T02:20:41Z</updated>
+    <id>tag:github.com,2023-06-01:/anzhiyu-c/hexo-theme-anzhiyu</id>
+    <link href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;这是一个简洁美丽的hexo主题。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:09:11Z</updated>
+  <subtitle>Monthly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>awesome-windows11/windows11</title>
+    <updated>2023-06-01T02:09:11Z</updated>
+    <id>tag:github.com,2023-06-01:/awesome-windows11/windows11</id>
+    <link href="https://github.com/awesome-windows11/windows11" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🌎 Windows 11 Settings, Tweaks, Scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>R2Northstar/Northstar</title>
+    <updated>2023-06-01T02:09:11Z</updated>
+    <id>tag:github.com,2023-06-01:/R2Northstar/Northstar</id>
+    <link href="https://github.com/R2Northstar/Northstar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo for packaged Northstar releases&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>techienikhil/Office-2019-Activator</title>
+    <updated>2023-06-01T02:09:11Z</updated>
+    <id>tag:github.com,2023-06-01:/techienikhil/Office-2019-Activator</id>
+    <link href="https://github.com/techienikhil/Office-2019-Activator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

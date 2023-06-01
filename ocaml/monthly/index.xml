@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:19:03Z</updated>
+  <subtitle>Monthly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tweag/topiary</title>
+    <updated>2023-06-01T02:19:03Z</updated>
+    <id>tag:github.com,2023-06-01:/tweag/topiary</id>
+    <link href="https://github.com/tweag/topiary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>smimram/strid</title>
+    <updated>2023-06-01T02:19:03Z</updated>
+    <id>tag:github.com,2023-06-01:/smimram/strid</id>
+    <link href="https://github.com/smimram/strid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A string diagram generator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:14:31Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>terraform-google-modules/terraform-google-project-factory</title>
+    <updated>2023-06-01T02:14:31Z</updated>
+    <id>tag:github.com,2023-06-01:/terraform-google-modules/terraform-google-project-factory</id>
+    <link href="https://github.com/terraform-google-modules/terraform-google-project-factory" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>btkrausen/hashicorp</title>
+    <updated>2023-06-01T02:14:31Z</updated>
+    <id>tag:github.com,2023-06-01:/btkrausen/hashicorp</id>
+    <link href="https://github.com/btkrausen/hashicorp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Random code for HashiCorp related projects, training, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-rds</title>
+    <updated>2023-06-01T02:14:31Z</updated>
+    <id>tag:github.com,2023-06-01:/terraform-aws-modules/terraform-aws-rds</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates RDS resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

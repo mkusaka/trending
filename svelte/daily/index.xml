@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-05-31T01:48:36Z</updated>
+  <updated>2023-06-01T01:47:27Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sohamjaiswal/cardboard</title>
-    <updated>2023-05-31T01:48:36Z</updated>
-    <id>tag:github.com,2023-05-31:/sohamjaiswal/cardboard</id>
-    <link href="https://github.com/sohamjaiswal/cardboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Guilded Authentication Dashboard + API&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheoIsDumb/TheoOS</title>
+    <updated>2023-06-01T01:47:27Z</updated>
+    <id>tag:github.com,2023-06-01:/TheoIsDumb/TheoOS</id>
+    <link href="https://github.com/TheoIsDumb/TheoOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An OS-like thingy created using SvelteKit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

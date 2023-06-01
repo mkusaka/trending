@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Verilog Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-01T02:25:04Z</updated>
+  <subtitle>Monthly Trending of Verilog in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>benipoo/yosys-docker</title>
+    <updated>2023-06-01T02:25:04Z</updated>
+    <id>tag:github.com,2023-06-01:/benipoo/yosys-docker</id>
+    <link href="https://github.com/benipoo/yosys-docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Working with yosys, but without the headache. Generates minimized NAND schematics from your directory of Verilog files.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>corundum/corundum</title>
+    <updated>2023-06-01T02:25:04Z</updated>
+    <id>tag:github.com,2023-06-01:/corundum/corundum</id>
+    <link href="https://github.com/corundum/corundum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source FPGA-based NIC and platform for in-network compute&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nvdla/hw</title>
+    <updated>2023-06-01T02:25:04Z</updated>
+    <id>tag:github.com,2023-06-01:/nvdla/hw</id>
+    <link href="https://github.com/nvdla/hw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RTL, Cmodel, and testbench for NVDLA&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
