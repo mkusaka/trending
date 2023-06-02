@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:37:10Z</updated>
+  <updated>2023-06-02T01:35:59Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>uheartbeast/jitter-free-pixelart-scaling</title>
+    <updated>2023-06-02T01:35:59Z</updated>
+    <id>tag:github.com,2023-06-02:/uheartbeast/jitter-free-pixelart-scaling</id>
+    <link href="https://github.com/uheartbeast/jitter-free-pixelart-scaling" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jitter-free Pixel Art Scaling in Godot Engine&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Jack-Bagel/Minecraft-Lora-Training</title>
+    <updated>2023-06-02T01:35:59Z</updated>
+    <id>tag:github.com,2023-06-02:/Jack-Bagel/Minecraft-Lora-Training</id>
+    <link href="https://github.com/Jack-Bagel/Minecraft-Lora-Training" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Folder used to train a LoRa model using the Kohya trainer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

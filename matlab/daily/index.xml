@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:41:18Z</updated>
+  <updated>2023-06-02T01:40:12Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>birdsgo/Data</title>
+    <updated>2023-06-02T01:40:12Z</updated>
+    <id>tag:github.com,2023-06-02:/birdsgo/Data</id>
+    <link href="https://github.com/birdsgo/Data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ggrecow/SQAT</title>
+    <updated>2023-06-02T01:40:12Z</updated>
+    <id>tag:github.com,2023-06-02:/ggrecow/SQAT</id>
+    <link href="https://github.com/ggrecow/SQAT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SQAT is an open-source repository of MATLAB codes containing the implementation of key metrics for quantitative sound quality analysis.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>petercorke/RVC3-MATLAB</title>
+    <updated>2023-06-02T01:40:12Z</updated>
+    <id>tag:github.com,2023-06-02:/petercorke/RVC3-MATLAB</id>
+    <link href="https://github.com/petercorke/RVC3-MATLAB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;New toolbox, data and examples for Robotics, Vision &amp; Control: 3rd edition in MATLAB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

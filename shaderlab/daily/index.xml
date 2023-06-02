@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:46:24Z</updated>
+  <updated>2023-06-02T01:45:16Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>siararisa-iac/GAMPROG2-Q1-Template</title>
-    <updated>2023-06-01T01:46:24Z</updated>
-    <id>tag:github.com,2023-06-01:/siararisa-iac/GAMPROG2-Q1-Template</id>
-    <link href="https://github.com/siararisa-iac/GAMPROG2-Q1-Template" rel="alternate"></link>
+    <title>5-potato/Virtual-Fitting-Unity</title>
+    <updated>2023-06-02T01:45:16Z</updated>
+    <id>tag:github.com,2023-06-02:/5-potato/Virtual-Fitting-Unity</id>
+    <link href="https://github.com/5-potato/Virtual-Fitting-Unity" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

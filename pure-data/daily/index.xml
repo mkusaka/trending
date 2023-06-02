@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pure Data Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:44:15Z</updated>
+  <updated>2023-06-02T01:42:59Z</updated>
   <subtitle>Daily Trending of Pure Data in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>strangewarp/VidyaMutate</title>
-    <updated>2023-06-01T01:44:15Z</updated>
-    <id>tag:github.com,2023-06-01:/strangewarp/VidyaMutate</id>
-    <link href="https://github.com/strangewarp/VidyaMutate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple script for databending groups of sequentially numbered JPEG files. (Note: this is an old abandoned project)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:38:01Z</updated>
+  <updated>2023-06-02T01:36:49Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iamteles/tails.exe-final</title>
-    <updated>2023-06-01T01:38:01Z</updated>
-    <id>tag:github.com,2023-06-01:/iamteles/tails.exe-final</id>
-    <link href="https://github.com/iamteles/tails.exe-final" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Friday Night Funkin&#39; - VS Tails.exe&lt;/h1&gt; &#xA;&lt;p&gt;Epic mod about a fox who got killed and WWF tryna save their life. We using &lt;a href=&#34;https://github.com/ShadowMario/FNF-PsychEngine&#34;&gt;Psych Engine&lt;/a&gt;, all guidelines to build this are there.&lt;/p&gt; &#xA;&lt;h2&gt;Other:&lt;/h2&gt; &#xA;&lt;p&gt;Yo idk what to type here.&lt;/p&gt;</summary>
-  </entry>
 </feed>

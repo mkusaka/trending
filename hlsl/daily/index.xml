@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:37:56Z</updated>
+  <updated>2023-06-02T01:36:46Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Hammster/windows-terminal-shaders</title>
-    <updated>2023-06-01T01:37:56Z</updated>
-    <id>tag:github.com,2023-06-01:/Hammster/windows-terminal-shaders</id>
-    <link href="https://github.com/Hammster/windows-terminal-shaders" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small collection of terminal shaders&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

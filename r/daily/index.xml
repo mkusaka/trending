@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:44:41Z</updated>
+  <updated>2023-06-02T01:43:45Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rundel/timezone</title>
-    <updated>2023-06-01T01:44:41Z</updated>
-    <id>tag:github.com,2023-06-01:/rundel/timezone</id>
-    <link href="https://github.com/rundel/timezone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A small R package for finding timezone names from geographic coordinates&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;timezone&lt;/h1&gt; &#xA;&lt;p&gt;This is a small R package that implements the function find_tz, which can be used to find the TZ timezone name that corresponds to the given geographic coordinates.&lt;/p&gt; &#xA;&lt;p&gt;The package uses Eric Muller&#39;s shapefile of the TZ timezones of (available at &lt;a href=&#34;http://efele.net/maps/tz/world/&#34;&gt;http://efele.net/maps/tz/world/&lt;/a&gt;) to determine the appropriate timezone name. The package additionally implements functionality that uses the Google Maps API to find the timezone name (Note that this API limits you to a maximum of 2500 requests per day).&lt;/p&gt; &#xA;&lt;h2&gt;Examples&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(timezone)&#xA;&#xA;# Los Angeles - 34.0522° N, 118.2428° W&#xA;find_tz(-118.2428,34.0522)&#xA;find_tz(-118.2428,34.0522, use_google=TRUE)&#xA;&#xA;# Edinburgh - 55.9500° N, 3.2200° W&#xA;find_tz(cbind(-3.2200, 55.9500))&#xA;&#xA;# Istanbul - 41.0128° N, 28.9744° E&#xA;find_tz(SpatialPoints(cbind(28.9744,41.0128)))&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

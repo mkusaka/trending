@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:48:35Z</updated>
+  <updated>2023-06-02T01:47:49Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>WangXuan95/FPGA-Gzip-compressor</title>
-    <updated>2023-06-01T01:48:35Z</updated>
-    <id>tag:github.com,2023-06-01:/WangXuan95/FPGA-Gzip-compressor</id>
-    <link href="https://github.com/WangXuan95/FPGA-Gzip-compressor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FPGA-based GZIP (deflate) compressor. Input raw data and output standard GZIP format (as known as .gz file format). 基于 FPGA 的流式 GZIP 压缩器。输入原始数据，输出标准的 GZIP 格式，即常见的 .gz / .tar.gz 文件的格式。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

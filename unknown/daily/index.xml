@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:31:12Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-06-02T01:30:38Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alura-challenges/challenge-one-encriptador-latam</title>
-    <updated>2023-06-01T01:31:12Z</updated>
-    <id>tag:github.com,2023-06-01:/alura-challenges/challenge-one-encriptador-latam</id>
-    <link href="https://github.com/alura-challenges/challenge-one-encriptador-latam" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repositorio para la vitrina de proyectos para el Challenge del Programa Oracle ONE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Illumine-Labs/GreatMaster</title>
+    <updated>2023-06-02T01:30:38Z</updated>
+    <id>tag:github.com,2023-06-02:/Illumine-Labs/GreatMaster</id>
+    <link href="https://github.com/Illumine-Labs/GreatMaster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Master, help us to awaken and enlighten. 大师，我悟了。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>yzfly/wonderful-prompts</title>
-    <updated>2023-06-01T01:31:12Z</updated>
-    <id>tag:github.com,2023-06-01:/yzfly/wonderful-prompts</id>
-    <link href="https://github.com/yzfly/wonderful-prompts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥中文 prompt 精选🔥，ChatGPT 使用指南，提升 ChatGPT 可玩性和可用性！🚀&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PerimeterX/go-project-structure</title>
+    <updated>2023-06-02T01:30:38Z</updated>
+    <id>tag:github.com,2023-06-02:/PerimeterX/go-project-structure</id>
+    <link href="https://github.com/PerimeterX/go-project-structure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TeoMeWhy/teomerefs</title>
+    <updated>2023-06-02T01:30:38Z</updated>
+    <id>tag:github.com,2023-06-02:/TeoMeWhy/teomerefs</id>
+    <link href="https://github.com/TeoMeWhy/teomerefs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Guia de referências técnicas para carreira em dados&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

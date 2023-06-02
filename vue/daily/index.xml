@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:48:47Z</updated>
+  <updated>2023-06-02T01:48:01Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fantastic-admin/basic</title>
-    <updated>2023-06-01T01:48:47Z</updated>
-    <id>tag:github.com,2023-06-01:/fantastic-admin/basic</id>
-    <link href="https://github.com/fantastic-admin/basic" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;⭐⭐⭐⭐⭐一款开箱即用的 Vue 中后台管理系统框架，兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kochrt/qr-designer</title>
+    <updated>2023-06-02T01:48:01Z</updated>
+    <id>tag:github.com,2023-06-02:/kochrt/qr-designer</id>
+    <link href="https://github.com/kochrt/qr-designer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;QR designer web app with a novel method of designing qr codes that does not take advantage of error correction&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>youlaitech/vue3-element-admin</title>
+    <updated>2023-06-02T01:48:01Z</updated>
+    <id>tag:github.com,2023-06-02:/youlaitech/vue3-element-admin</id>
+    <link href="https://github.com/youlaitech/vue3-element-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥vue-element-admin 的 vue3 版本， 基于 Vue3 + Vite + TypeScript + Element-Plus + Pinia 等技术栈构建的后台管理系统前端模板（配套后端源码）。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

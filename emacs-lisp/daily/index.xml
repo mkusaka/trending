@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:36:04Z</updated>
+  <updated>2023-06-02T01:34:59Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ag91/org-blk-uri</title>
-    <updated>2023-06-01T01:36:04Z</updated>
-    <id>tag:github.com,2023-06-01:/ag91/org-blk-uri</id>
-    <link href="https://github.com/ag91/org-blk-uri" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utility to inject Org Mode source blocks from a URI at point&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Org Blk URI :PROPERTIES: :CREATED: [2023-05-24 Wed 16:39] :ID: 2a41eeb6-774b-4d1e-a652-81bbf2e46be4 :END:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;This module provides a way to extract file or web content into a Org Mode source block.&lt;/p&gt; &#xA;&lt;p&gt;[[file:example.gif]]&lt;/p&gt; &#xA;&lt;p&gt;An example of use is when you want to archive the version of a web page for your own record (e.g., a job ad you applied for and that gets taken down from the Internet).&lt;/p&gt; &#xA;&lt;p&gt;** Dependencies :PROPERTIES: :CREATED: [2023-05-24 Wed 16:42] :ID: 427688bd-338c-48a0-975a-d23acb464c7b :END:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;[[https://github.com/alphapapa/org-web-tools][org-web-tools]]&lt;/li&gt; &#xA; &lt;li&gt;[[https://github.com/magnars/dash.el][dash.el]]&lt;/li&gt; &#xA; &lt;li&gt;[[https://github.com/magnars/s.el][s.el]]&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;** Thanks :PROPERTIES: :CREATED: [2023-05-24 Wed 16:43] :ID: 9a3cc013-fcfb-4960-b84b-034373248faa :END:&lt;/p&gt; &#xA;&lt;p&gt;Thanks to Sławomir who asked me to publish this during one of our [[https://github.com/ag91/emacs-buddy][EmacsBuddy]] interactions: it would have probably staid in my private configuration otherwise.&lt;/p&gt;</summary>
-  </entry>
 </feed>

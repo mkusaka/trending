@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:42:29Z</updated>
+  <updated>2023-06-02T01:41:21Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zendesk/chat_sdk_ios</title>
+    <updated>2023-06-02T01:41:21Z</updated>
+    <id>tag:github.com,2023-06-02:/zendesk/chat_sdk_ios</id>
+    <link href="https://github.com/zendesk/chat_sdk_ios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zendesk Chat SDK&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;span&gt;⚠&lt;/span&gt; &lt;em&gt;Use of this software is subject to important terms and conditions as set forth in the License file&lt;/em&gt; &lt;span&gt;⚠&lt;/span&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Zendesk Chat SDK for iOS&lt;/h1&gt; &#xA;&lt;p&gt;Zendesk Chat SDK is a quick, convenient way to get live chat into your mobile apps. With just a few lines of code, you can provide your end users with an easy way to get in touch from any mobile app.&lt;/p&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;You can find our documentation on &lt;a href=&#34;https://developer.zendesk.com/embeddables&#34;&gt;https://developer.zendesk.com/embeddables&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Feature requests and issues&lt;/h2&gt; &#xA;&lt;p&gt;All feature requests and issues are welcomed. Please see our &lt;a href=&#34;https://raw.githubusercontent.com/zendesk/chat_sdk_ios/master/CONTRIBUTING.md&#34;&gt;contributing guidelines&lt;/a&gt; to find out how to contact us.&lt;/p&gt; &#xA;&lt;h2&gt;Copyright and license&lt;/h2&gt; &#xA;&lt;p&gt;Copyright 2020 Zendesk&lt;/p&gt; &#xA;&lt;p&gt;By downloading or using the Zendesk Chat SDK, You agree to the Zendesk Master Subscription Agreement &lt;a href=&#34;https://www.zendesk.com/company/customers-partners/#master-subscription-agreement&#34;&gt;https://www.zendesk.com/company/customers-partners/#master-subscription-agreement&lt;/a&gt; and Application Developer and API License Agreement &lt;a href=&#34;https://www.zendesk.com/company/customers-partners/#application-developer-api-license-agreement&#34;&gt;https://www.zendesk.com/company/customers-partners/#application-developer-api-license-agreement&lt;/a&gt; and acknowledge that such terms govern Your use of and access to the Chat SDK.&lt;/p&gt; &#xA;&lt;p&gt;If You make any Contributions (defined below) to the Zendesk Chat SDK, You hereby grant Zendesk a royalty-free, worldwide, transferable, sub-licensable, irrevocable and perpetual license to incorporate into the Service or the Zendesk API or otherwise use and commercially exploit any Contributions. “Contribution” shall mean any work of authorship, including any modifications or additions to the Mobile SDK or derivative works thereof, that is submitted to Zendesk by You.&lt;/p&gt;</summary>
+  </entry>
 </feed>

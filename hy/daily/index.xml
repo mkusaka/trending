@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-01T01:38:49Z</updated>
+  <updated>2023-06-02T01:37:21Z</updated>
   <subtitle>Daily Trending of Hy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>atisharma/llama_farm</title>
-    <updated>2023-06-01T01:38:49Z</updated>
-    <id>tag:github.com,2023-06-01:/atisharma/llama_farm</id>
-    <link href="https://github.com/atisharma/llama_farm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use local llama LLM or openai to chat, query over your documents, youtube and so on. Uses langchain and faiss.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
