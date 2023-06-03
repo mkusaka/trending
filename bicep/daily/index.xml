@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:31:47Z</updated>
+  <updated>2023-06-03T01:32:27Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure-Samples/app-service-and-sql-database-3-tier-with-private-networking-and-auth</title>
-    <updated>2023-06-02T01:31:47Z</updated>
-    <id>tag:github.com,2023-06-02:/Azure-Samples/app-service-and-sql-database-3-tier-with-private-networking-and-auth</id>
-    <link href="https://github.com/Azure-Samples/app-service-and-sql-database-3-tier-with-private-networking-and-auth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository is an example of deploying a 3 tier ASP.NET Core application to Azure App Service and SQL Database using Bicep and Azure DevOps Pipelines. It implements private networking with private end points and authentication on all tiers with Azure Active Directory.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

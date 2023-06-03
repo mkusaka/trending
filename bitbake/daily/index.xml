@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub BitBake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:31:53Z</updated>
+  <updated>2023-06-03T01:32:35Z</updated>
   <subtitle>Daily Trending of BitBake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>meta-java/meta-java</title>
+    <updated>2023-06-03T01:32:35Z</updated>
+    <id>tag:github.com,2023-06-03:/meta-java/meta-java</id>
+    <link href="https://github.com/meta-java/meta-java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenEmbedded/YoctoProject layer for Java support&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

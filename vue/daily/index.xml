@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:48:01Z</updated>
+  <updated>2023-06-03T01:51:29Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>kochrt/qr-designer</title>
-    <updated>2023-06-02T01:48:01Z</updated>
-    <id>tag:github.com,2023-06-02:/kochrt/qr-designer</id>
-    <link href="https://github.com/kochrt/qr-designer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;QR designer web app with a novel method of designing qr codes that does not take advantage of error correction&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>youlaitech/vue3-element-admin</title>
-    <updated>2023-06-02T01:48:01Z</updated>
-    <id>tag:github.com,2023-06-02:/youlaitech/vue3-element-admin</id>
-    <link href="https://github.com/youlaitech/vue3-element-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🔥vue-element-admin 的 vue3 版本， 基于 Vue3 + Vite + TypeScript + Element-Plus + Pinia 等技术栈构建的后台管理系统前端模板（配套后端源码）。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rehanvdm/serverless-website-analytics</title>
+    <updated>2023-06-03T01:51:29Z</updated>
+    <id>tag:github.com,2023-06-03:/rehanvdm/serverless-website-analytics</id>
+    <link href="https://github.com/rehanvdm/serverless-website-analytics" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A CDK construct that consists of a serverless backend, frontend and client side code to track website analytics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

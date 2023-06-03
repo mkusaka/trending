@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:46:06Z</updated>
+  <updated>2023-06-03T01:49:08Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RareSkills/capture-the-ether-foundry</title>
-    <updated>2023-06-02T01:46:06Z</updated>
-    <id>tag:github.com,2023-06-02:/RareSkills/capture-the-ether-foundry</id>
-    <link href="https://github.com/RareSkills/capture-the-ether-foundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A recreation of capturetheether.com using Solidity 0.8.0 and the foundry environment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tokenbound/contracts</title>
+    <updated>2023-06-03T01:49:08Z</updated>
+    <id>tag:github.com,2023-06-03:/tokenbound/contracts</id>
+    <link href="https://github.com/tokenbound/contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opinionated ERC-6551 account implementation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>xtekkyx/Mevbot</title>
-    <updated>2023-06-02T01:46:06Z</updated>
-    <id>tag:github.com,2023-06-02:/xtekkyx/Mevbot</id>
-    <link href="https://github.com/xtekkyx/Mevbot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mev (Earn money with Mev bot AI technology gpt-4)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WANG-ZIHENG/Blockchain</title>
+    <updated>2023-06-03T01:49:08Z</updated>
+    <id>tag:github.com,2023-06-03:/WANG-ZIHENG/Blockchain</id>
+    <link href="https://github.com/WANG-ZIHENG/Blockchain" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>patrickd-/solidity-fuzzing-boilerplate</title>
-    <updated>2023-06-02T01:46:06Z</updated>
-    <id>tag:github.com,2023-06-02:/patrickd-/solidity-fuzzing-boilerplate</id>
-    <link href="https://github.com/patrickd-/solidity-fuzzing-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template repository intended to ease fuzzing components of Solidity projects, especially libraries.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>morpho-org/morpho-aave-v3</title>
+    <updated>2023-06-03T01:49:08Z</updated>
+    <id>tag:github.com,2023-06-03:/morpho-org/morpho-aave-v3</id>
+    <link href="https://github.com/morpho-org/morpho-aave-v3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core contracts of Morpho&#39;s protocol V1 on Aave V3&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

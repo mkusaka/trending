@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:42:00Z</updated>
+  <updated>2023-06-03T01:44:34Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bgrabitmap/bgracontrols</title>
+    <updated>2023-06-03T01:44:34Z</updated>
+    <id>tag:github.com,2023-06-03:/bgrabitmap/bgracontrols</id>
+    <link href="https://github.com/bgrabitmap/bgracontrols" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🆗 BGRA Controls is a set of graphical UI elements that you can use with Lazarus LCL applications.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

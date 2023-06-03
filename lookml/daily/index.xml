@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LookML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:39:42Z</updated>
+  <updated>2023-06-03T01:41:49Z</updated>
   <subtitle>Daily Trending of LookML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>looker-open-source/datablocks-acs</title>
-    <updated>2023-06-02T01:39:42Z</updated>
-    <id>tag:github.com,2023-06-02:/looker-open-source/datablocks-acs</id>
-    <link href="https://github.com/looker-open-source/datablocks-acs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>looker-open-source/quantum_metric_product_analytics_block</title>
-    <updated>2023-06-02T01:39:42Z</updated>
-    <id>tag:github.com,2023-06-02:/looker-open-source/quantum_metric_product_analytics_block</id>
-    <link href="https://github.com/looker-open-source/quantum_metric_product_analytics_block" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>looker-open-source/block-multicloud-billing-bq-export</title>
-    <updated>2023-06-02T01:39:42Z</updated>
-    <id>tag:github.com,2023-06-02:/looker-open-source/block-multicloud-billing-bq-export</id>
-    <link href="https://github.com/looker-open-source/block-multicloud-billing-bq-export" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

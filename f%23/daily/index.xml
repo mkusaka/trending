@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:35:13Z</updated>
+  <updated>2023-06-03T01:36:48Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PawelStadnicki/Florence</title>
-    <updated>2023-06-02T01:35:13Z</updated>
-    <id>tag:github.com,2023-06-02:/PawelStadnicki/Florence</id>
-    <link href="https://github.com/PawelStadnicki/Florence" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple DSL for instant municipal analysis&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://fsharptours.blob.core.windows.net/florence/skyline.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Florence valuates and visualizes city places with just a single F# function:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;&#39;place -&amp;gt; float&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This function is all you need to write to address a particular municipal, social or business, challenge.&lt;/p&gt; &#xA;&lt;p&gt;You do a geospatial analysis without even knowing you do geospatial analysis by using words like Lifespace, Friends, Places, etc.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/PawelStadnicki/Florence/assets/56049414/b6f5fc1e-dd06-4399-831d-7e354058c600&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;About Florence&lt;/h1&gt; &#xA;&lt;p&gt;Data-driven cities need data-driven community leaders. Florence makes programming and data analysis more approachable for citizens who intend to become champions of change in their beloved cities or neighborhoods.&lt;/p&gt; &#xA;&lt;h3&gt;TODO&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Use View Engine (Feliz.Engine?) instead of raw string for displaying HTML&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Clean up formatters &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Remove keyboard UI support (was only needed as a workaround for broken forms in notebooks)&lt;/li&gt; &#xA;   &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Both Mapbox and FSQ takes to many parameters&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

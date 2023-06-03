@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:47:55Z</updated>
+  <updated>2023-06-03T01:51:22Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>worblehat/dotfiles</title>
+    <updated>2023-06-03T01:51:22Z</updated>
+    <id>tag:github.com,2023-06-03:/worblehat/dotfiles</id>
+    <link href="https://github.com/worblehat/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Config files from my home directory.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>treelite/tabbar</title>
+    <updated>2023-06-03T01:51:22Z</updated>
+    <id>tag:github.com,2023-06-03:/treelite/tabbar</id>
+    <link href="https://github.com/treelite/tabbar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;tabbar plugin for vim&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

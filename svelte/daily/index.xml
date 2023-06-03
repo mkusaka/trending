@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:46:31Z</updated>
+  <updated>2023-06-03T01:49:39Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>huntabyte/shadcn-svelte</title>
-    <updated>2023-06-02T01:46:31Z</updated>
-    <id>tag:github.com,2023-06-02:/huntabyte/shadcn-svelte</id>
-    <link href="https://github.com/huntabyte/shadcn-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;shadcn/ui, but for Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>colinlienard/gitlight</title>
-    <updated>2023-06-02T01:46:31Z</updated>
-    <id>tag:github.com,2023-06-02:/colinlienard/gitlight</id>
-    <link href="https://github.com/colinlienard/gitlight" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🌟 GitHub &amp; GitLab notifications on your desktop&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sillsdev/appbuilder-pwa</title>
-    <updated>2023-06-02T01:46:31Z</updated>
-    <id>tag:github.com,2023-06-02:/sillsdev/appbuilder-pwa</id>
-    <link href="https://github.com/sillsdev/appbuilder-pwa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

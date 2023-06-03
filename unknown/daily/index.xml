@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:30:38Z</updated>
+  <updated>2023-06-03T01:30:50Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Illumine-Labs/GreatMaster</title>
-    <updated>2023-06-02T01:30:38Z</updated>
-    <id>tag:github.com,2023-06-02:/Illumine-Labs/GreatMaster</id>
-    <link href="https://github.com/Illumine-Labs/GreatMaster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Master, help us to awaken and enlighten. 大师，我悟了。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>2004content/rarbg</title>
+    <updated>2023-06-03T01:30:50Z</updated>
+    <id>tag:github.com,2023-06-03:/2004content/rarbg</id>
+    <link href="https://github.com/2004content/rarbg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Backup of magnets from RARBG&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>PerimeterX/go-project-structure</title>
-    <updated>2023-06-02T01:30:38Z</updated>
-    <id>tag:github.com,2023-06-02:/PerimeterX/go-project-structure</id>
-    <link href="https://github.com/PerimeterX/go-project-structure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JDDKCN/KCN-GenshinServer</title>
+    <updated>2023-06-03T01:30:50Z</updated>
+    <id>tag:github.com,2023-06-03:/JDDKCN/KCN-GenshinServer</id>
+    <link href="https://github.com/JDDKCN/KCN-GenshinServer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于GC制作的原神一键GUI多功能服务端。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TeoMeWhy/teomerefs</title>
-    <updated>2023-06-02T01:30:38Z</updated>
-    <id>tag:github.com,2023-06-02:/TeoMeWhy/teomerefs</id>
-    <link href="https://github.com/TeoMeWhy/teomerefs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Guia de referências técnicas para carreira em dados&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>icoz69/StyleAvatar3D</title>
+    <updated>2023-06-03T01:30:50Z</updated>
+    <id>tag:github.com,2023-06-03:/icoz69/StyleAvatar3D</id>
+    <link href="https://github.com/icoz69/StyleAvatar3D" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repo for StyleAvatar3D&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

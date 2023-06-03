@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-02T01:31:22Z</updated>
+  <updated>2023-06-03T01:31:54Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>banhbaoxamlan/X230-Hackintosh</title>
-    <updated>2023-06-02T01:31:22Z</updated>
-    <id>tag:github.com,2023-06-02:/banhbaoxamlan/X230-Hackintosh</id>
-    <link href="https://github.com/banhbaoxamlan/X230-Hackintosh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;READMEs, OpenCore configurations, patches, and notes for the Thinkpad X230 Hackintosh&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
