@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jsonnet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T02:01:36Z</updated>
+  <subtitle>Weekly Trending of Jsonnet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GenBench/genbench_cbt</title>
+    <updated>2023-06-04T02:01:36Z</updated>
+    <id>tag:github.com,2023-06-04:/GenBench/genbench_cbt</id>
+    <link href="https://github.com/GenBench/genbench_cbt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The official Genbench Collaborative Benchmarking Task repository.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

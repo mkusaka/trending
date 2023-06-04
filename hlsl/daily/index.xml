@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:38:41Z</updated>
+  <updated>2023-06-04T01:38:32Z</updated>
   <subtitle>Daily Trending of HLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PavelDoGreat/Super-Blur</title>
-    <updated>2023-06-03T01:38:41Z</updated>
-    <id>tag:github.com,2023-06-03:/PavelDoGreat/Super-Blur</id>
-    <link href="https://github.com/PavelDoGreat/Super-Blur" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Screen and UI gaussian blur for Unity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jcant0n/ShaderLibrary</title>
+    <updated>2023-06-04T01:38:32Z</updated>
+    <id>tag:github.com,2023-06-04:/jcant0n/ShaderLibrary</id>
+    <link href="https://github.com/jcant0n/ShaderLibrary" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a collection of shaders written in HLSL using Evergine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

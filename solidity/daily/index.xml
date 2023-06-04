@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:49:08Z</updated>
+  <updated>2023-06-04T01:49:13Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tokenbound/contracts</title>
-    <updated>2023-06-03T01:49:08Z</updated>
-    <id>tag:github.com,2023-06-03:/tokenbound/contracts</id>
-    <link href="https://github.com/tokenbound/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Opinionated ERC-6551 account implementation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>succinctlabs/mudvrf</title>
+    <updated>2023-06-04T01:49:13Z</updated>
+    <id>tag:github.com,2023-06-04:/succinctlabs/mudvrf</id>
+    <link href="https://github.com/succinctlabs/mudvrf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A secure, fast, and easy-to-use random number generator for on-chain games built using MUD.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>WANG-ZIHENG/Blockchain</title>
-    <updated>2023-06-03T01:49:08Z</updated>
-    <id>tag:github.com,2023-06-03:/WANG-ZIHENG/Blockchain</id>
-    <link href="https://github.com/WANG-ZIHENG/Blockchain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>morpho-org/morpho-aave-v3</title>
-    <updated>2023-06-03T01:49:08Z</updated>
-    <id>tag:github.com,2023-06-03:/morpho-org/morpho-aave-v3</id>
-    <link href="https://github.com/morpho-org/morpho-aave-v3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core contracts of Morpho&#39;s protocol V1 on Aave V3&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethereum-optimism/contracts</title>
+    <updated>2023-06-04T01:49:13Z</updated>
+    <id>tag:github.com,2023-06-04:/ethereum-optimism/contracts</id>
+    <link href="https://github.com/ethereum-optimism/contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Optimism] Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

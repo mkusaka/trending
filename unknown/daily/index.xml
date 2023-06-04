@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:30:50Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-06-04T01:31:37Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>2004content/rarbg</title>
-    <updated>2023-06-03T01:30:50Z</updated>
-    <id>tag:github.com,2023-06-03:/2004content/rarbg</id>
-    <link href="https://github.com/2004content/rarbg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Backup of magnets from RARBG&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hazemadelkhalel/Competitive-Programming-Library</title>
+    <updated>2023-06-04T01:31:37Z</updated>
+    <id>tag:github.com,2023-06-04:/hazemadelkhalel/Competitive-Programming-Library</id>
+    <link href="https://github.com/hazemadelkhalel/Competitive-Programming-Library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JDDKCN/KCN-GenshinServer</title>
-    <updated>2023-06-03T01:30:50Z</updated>
-    <id>tag:github.com,2023-06-03:/JDDKCN/KCN-GenshinServer</id>
-    <link href="https://github.com/JDDKCN/KCN-GenshinServer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于GC制作的原神一键GUI多功能服务端。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>coderQuad/New-Grad-Positions</title>
+    <updated>2023-06-04T01:31:37Z</updated>
+    <id>tag:github.com,2023-06-04:/coderQuad/New-Grad-Positions</id>
+    <link href="https://github.com/coderQuad/New-Grad-Positions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of New Grad full time roles in SWE, Quant, and PM.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>icoz69/StyleAvatar3D</title>
-    <updated>2023-06-03T01:30:50Z</updated>
-    <id>tag:github.com,2023-06-03:/icoz69/StyleAvatar3D</id>
-    <link href="https://github.com/icoz69/StyleAvatar3D" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official repo for StyleAvatar3D&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kadenzipfel/smart-contract-vulnerabilities</title>
+    <updated>2023-06-04T01:31:37Z</updated>
+    <id>tag:github.com,2023-06-04:/kadenzipfel/smart-contract-vulnerabilities</id>
+    <link href="https://github.com/kadenzipfel/smart-contract-vulnerabilities" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of smart contract vulnerabilities along with prevention methods.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

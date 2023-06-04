@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:42:24Z</updated>
+  <updated>2023-06-04T01:42:46Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fkrafi/MachineLearningTools</title>
-    <updated>2023-06-03T01:42:24Z</updated>
-    <id>tag:github.com,2023-06-03:/fkrafi/MachineLearningTools</id>
-    <link href="https://github.com/fkrafi/MachineLearningTools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Machine Learnging Tools&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brussell123/LabelMe3dToolbox</title>
+    <updated>2023-06-04T01:42:46Z</updated>
+    <id>tag:github.com,2023-06-04:/brussell123/LabelMe3dToolbox</id>
+    <link href="https://github.com/brussell123/LabelMe3dToolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LabelMe3D Matlab toolbox&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mathworks/arithmetic</title>
+    <updated>2023-06-04T01:42:46Z</updated>
+    <id>tag:github.com,2023-06-04:/mathworks/arithmetic</id>
+    <link href="https://github.com/mathworks/arithmetic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an example MATLAB(R) toolbox created to showcase how toolboxes are constructed and laid out, as described in the MATLAB Toolbox Best Practices&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

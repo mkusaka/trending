@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jsonnet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:40:43Z</updated>
+  <updated>2023-06-04T01:40:32Z</updated>
   <subtitle>Daily Trending of Jsonnet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>parca-dev/jsonnet-libs</title>
+    <updated>2023-06-04T01:40:32Z</updated>
+    <id>tag:github.com,2023-06-04:/parca-dev/jsonnet-libs</id>
+    <link href="https://github.com/parca-dev/jsonnet-libs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental Jsonnet libraries for Parca&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

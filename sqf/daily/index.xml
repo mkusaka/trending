@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SQF Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:49:12Z</updated>
+  <updated>2023-06-04T01:49:15Z</updated>
   <subtitle>Daily Trending of SQF in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SceptreOfficial/Simplex-Tools-Extensions</title>
-    <updated>2023-06-03T01:49:12Z</updated>
-    <id>tag:github.com,2023-06-03:/SceptreOfficial/Simplex-Tools-Extensions</id>
-    <link href="https://github.com/SceptreOfficial/Simplex-Tools-Extensions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

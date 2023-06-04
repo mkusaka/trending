@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:51:29Z</updated>
+  <updated>2023-06-04T01:51:19Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rehanvdm/serverless-website-analytics</title>
-    <updated>2023-06-03T01:51:29Z</updated>
-    <id>tag:github.com,2023-06-03:/rehanvdm/serverless-website-analytics</id>
-    <link href="https://github.com/rehanvdm/serverless-website-analytics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A CDK construct that consists of a serverless backend, frontend and client side code to track website analytics&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>toeverything/affine.pro</title>
+    <updated>2023-06-04T01:51:19Z</updated>
+    <id>tag:github.com,2023-06-04:/toeverything/affine.pro</id>
+    <link href="https://github.com/toeverything/affine.pro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AFFiNE official website, source for affine.pro&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

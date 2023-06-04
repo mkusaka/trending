@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T01:58:49Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>burtbeckwith/grails-ruby</title>
+    <updated>2023-06-04T01:58:49Z</updated>
+    <id>tag:github.com,2023-06-04:/burtbeckwith/grails-ruby</id>
+    <link href="https://github.com/burtbeckwith/grails-ruby" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plugin for using Ruby code in Grails via JRuby.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PhenotypeFoundation/dbxpBase</title>
+    <updated>2023-06-04T01:58:49Z</updated>
+    <id>tag:github.com,2023-06-04:/PhenotypeFoundation/dbxpBase</id>
+    <link href="https://github.com/PhenotypeFoundation/dbxpBase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Base domain model for dbXP / study capture framework&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nextflow-io/nf-parquet</title>
+    <updated>2023-06-04T01:58:49Z</updated>
+    <id>tag:github.com,2023-06-04:/nextflow-io/nf-parquet</id>
+    <link href="https://github.com/nextflow-io/nf-parquet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plugin implementing the support for Apache Parquet files (experimental)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

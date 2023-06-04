@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Roff Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:47:13Z</updated>
+  <updated>2023-06-04T01:47:23Z</updated>
   <subtitle>Daily Trending of Roff in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>brianfgonzalez/Scripts</title>
-    <updated>2023-06-03T01:47:13Z</updated>
-    <id>tag:github.com,2023-06-03:/brianfgonzalez/Scripts</id>
-    <link href="https://github.com/brianfgonzalez/Scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scripts and Stuff&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

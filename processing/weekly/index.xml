@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Processing Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T02:06:02Z</updated>
+  <subtitle>Weekly Trending of Processing in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Bleuje/processing-animations-code</title>
+    <updated>2023-06-04T02:06:02Z</updated>
+    <id>tag:github.com,2023-06-04:/Bleuje/processing-animations-code</id>
+    <link href="https://github.com/Bleuje/processing-animations-code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A set of Processing animations, which have improved and commented code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jaycody/EnhancedVisualizationTherapy</title>
+    <updated>2023-06-04T02:06:02Z</updated>
+    <id>tag:github.com,2023-06-04:/jaycody/EnhancedVisualizationTherapy</id>
+    <link href="https://github.com/jaycody/EnhancedVisualizationTherapy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;archive of my master&#39;s thesis project from ITP - NYU :: Spring 2012&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

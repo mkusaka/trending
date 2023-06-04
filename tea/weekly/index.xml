@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Tea Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T02:10:07Z</updated>
+  <subtitle>Weekly Trending of Tea in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aliyun/alibabacloud-sdk</title>
+    <updated>2023-06-04T02:10:07Z</updated>
+    <id>tag:github.com,2023-06-04:/aliyun/alibabacloud-sdk</id>
+    <link href="https://github.com/aliyun/alibabacloud-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

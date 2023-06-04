@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T02:09:44Z</updated>
+  <subtitle>Weekly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Rich-Harris/sveltesnaps</title>
+    <updated>2023-06-04T02:09:44Z</updated>
+    <id>tag:github.com,2023-06-04:/Rich-Harris/sveltesnaps</id>
+    <link href="https://github.com/Rich-Harris/sveltesnaps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Tropix126/fluent-svelte</title>
+    <updated>2023-06-04T02:09:44Z</updated>
+    <id>tag:github.com,2023-06-04:/Tropix126/fluent-svelte</id>
+    <link href="https://github.com/Tropix126/fluent-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A faithful implementation of Microsoft&#39;s Fluent Design System in Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sveltia/sveltia-cms</title>
+    <updated>2023-06-04T02:09:44Z</updated>
+    <id>tag:github.com,2023-06-04:/sveltia/sveltia-cms</id>
+    <link href="https://github.com/sveltia/sveltia-cms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Git-based lightweight headless CMS. A modern, open source alternative to Netlify CMS &amp; Decap CMS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

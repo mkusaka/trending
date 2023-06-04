@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T01:55:05Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>monstersintokyo/redirect</title>
+    <updated>2023-06-04T01:55:05Z</updated>
+    <id>tag:github.com,2023-06-04:/monstersintokyo/redirect</id>
+    <link href="https://github.com/monstersintokyo/redirect" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>worldline/swagger-jack</title>
+    <updated>2023-06-04T01:55:05Z</updated>
+    <id>tag:github.com,2023-06-04:/worldline/swagger-jack</id>
+    <link href="https://github.com/worldline/swagger-jack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Express middleware to automatically create route and validate inputs from a swagger descriptor (for NodeJS)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phstc/diary-api</title>
+    <updated>2023-06-04T01:55:05Z</updated>
+    <id>tag:github.com,2023-06-04:/phstc/diary-api</id>
+    <link href="https://github.com/phstc/diary-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

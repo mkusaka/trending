@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub EJS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T01:56:57Z</updated>
+  <subtitle>Weekly Trending of EJS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>subhashis2204/project-annapurna</title>
+    <updated>2023-06-04T01:56:57Z</updated>
+    <id>tag:github.com,2023-06-04:/subhashis2204/project-annapurna</id>
+    <link href="https://github.com/subhashis2204/project-annapurna" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the project annapurna repository&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SurajPratap10/Imagine_AI</title>
+    <updated>2023-06-04T01:56:57Z</updated>
+    <id>tag:github.com,2023-06-04:/SurajPratap10/Imagine_AI</id>
+    <link href="https://github.com/SurajPratap10/Imagine_AI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The IMAGINE - AI, which is built using the OpenAI API library DALL-E 2, aims to solve the problem of limited creativity and imagination. This is a fully mobile responsive image generator built with Node.js and Express that uses OpenAI&#39;s Dall-E models to generate images.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

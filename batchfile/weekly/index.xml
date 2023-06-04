@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T01:53:26Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>GManOfficial/FREE-NGROk-RDP</title>
+    <updated>2023-06-04T01:53:26Z</updated>
+    <id>tag:github.com,2023-06-04:/GManOfficial/FREE-NGROk-RDP</id>
+    <link href="https://github.com/GManOfficial/FREE-NGROk-RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;It&#39;s My Own Free Ngrok RDPs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mahamud1gt/RDP</title>
+    <updated>2023-06-04T01:53:26Z</updated>
+    <id>tag:github.com,2023-06-04:/mahamud1gt/RDP</id>
+    <link href="https://github.com/mahamud1gt/RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A script that gives you free RDP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

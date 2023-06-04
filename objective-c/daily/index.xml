@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:43:46Z</updated>
+  <updated>2023-06-04T01:44:08Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>friedrice123/ACA_TheFlutterEffect_2023</title>
+    <updated>2023-06-04T01:44:08Z</updated>
+    <id>tag:github.com,2023-06-04:/friedrice123/ACA_TheFlutterEffect_2023</id>
+    <link href="https://github.com/friedrice123/ACA_TheFlutterEffect_2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ACA_TheFlutterEffect_2023&lt;/h1&gt; &#xA;&lt;p&gt;Here are the details of your first assignment-&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Fork this github repo.&lt;/li&gt; &#xA; &lt;li&gt;Pull that forked github repo to your working directory which you will initialise on your own computer and clone it inside that directory.&lt;/li&gt; &#xA; &lt;li&gt;Make a folder of your name.&lt;/li&gt; &#xA; &lt;li&gt;In that folder, make a folder named Assignment_1_yourname and copy all the contents of your Flutter Project over there.&lt;/li&gt; &#xA; &lt;li&gt;Push whatever you have done into your forked branch.&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
 </feed>

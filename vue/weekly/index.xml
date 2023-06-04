@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T02:11:12Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Hiram-Wong/ZyPlayer</title>
+    <updated>2023-06-04T02:11:12Z</updated>
+    <id>tag:github.com,2023-06-04:/Hiram-Wong/ZyPlayer</id>
+    <link href="https://github.com/Hiram-Wong/ZyPlayer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;跨平台桌面端视频资源播放器,免费高颜值.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>macrozheng/mall-app-web</title>
+    <updated>2023-06-04T02:11:12Z</updated>
+    <id>tag:github.com,2023-06-04:/macrozheng/mall-app-web</id>
+    <link href="https://github.com/macrozheng/mall-app-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;mall-app-web是一个电商系统的移动端项目，基于uni-app实现。主要包括首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等功能。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>youlaitech/vue3-element-admin</title>
+    <updated>2023-06-04T02:11:12Z</updated>
+    <id>tag:github.com,2023-06-04:/youlaitech/vue3-element-admin</id>
+    <link href="https://github.com/youlaitech/vue3-element-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥vue-element-admin 的 vue3 版本， 基于 Vue3 + Vite + TypeScript + Element-Plus + Pinia 等技术栈构建的后台管理系统前端模板（配套后端源码）。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

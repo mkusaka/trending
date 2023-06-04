@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stata Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:49:25Z</updated>
+  <updated>2023-06-04T01:49:32Z</updated>
   <subtitle>Daily Trending of Stata in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>PovertyAction/high-frequency-checks</title>
+    <updated>2023-06-04T01:49:32Z</updated>
+    <id>tag:github.com,2023-06-04:/PovertyAction/high-frequency-checks</id>
+    <link href="https://github.com/PovertyAction/high-frequency-checks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Stata template for running high frequency checks of incoming research data at Innovations for Poverty Action&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

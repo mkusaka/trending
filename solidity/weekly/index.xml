@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-04T02:09:17Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>a16z/cicada</title>
+    <updated>2023-06-04T02:09:17Z</updated>
+    <id>tag:github.com,2023-06-04:/a16z/cicada</id>
+    <link href="https://github.com/a16z/cicada" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A protocol for private on-chain voting, implemented in Solidity.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Taraxa-project/contracts-testing</title>
+    <updated>2023-06-04T02:09:17Z</updated>
+    <id>tag:github.com,2023-06-04:/Taraxa-project/contracts-testing</id>
+    <link href="https://github.com/Taraxa-project/contracts-testing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collector repo for all Taraxa smart contracts for foundry tests&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>morpho-labs/safer</title>
+    <updated>2023-06-04T02:09:17Z</updated>
+    <id>tag:github.com,2023-06-04:/morpho-labs/safer</id>
+    <link href="https://github.com/morpho-labs/safer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Allows to easily create tx to be signed through CLI and submitted on a Safe&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LookML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-03T01:41:49Z</updated>
+  <updated>2023-06-04T01:42:07Z</updated>
   <subtitle>Daily Trending of LookML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>looker-open-source/demo_segment</title>
+    <updated>2023-06-04T01:42:07Z</updated>
+    <id>tag:github.com,2023-06-04:/looker-open-source/demo_segment</id>
+    <link href="https://github.com/looker-open-source/demo_segment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>looker-open-source/block_keboola_project_management_essentials_config</title>
+    <updated>2023-06-04T01:42:07Z</updated>
+    <id>tag:github.com,2023-06-04:/looker-open-source/block_keboola_project_management_essentials_config</id>
+    <link href="https://github.com/looker-open-source/block_keboola_project_management_essentials_config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>looker-open-source/amplitude_demo</title>
+    <updated>2023-06-04T01:42:07Z</updated>
+    <id>tag:github.com,2023-06-04:/looker-open-source/amplitude_demo</id>
+    <link href="https://github.com/looker-open-source/amplitude_demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
