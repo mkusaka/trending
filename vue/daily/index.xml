@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:51:19Z</updated>
+  <updated>2023-06-05T01:50:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>toeverything/affine.pro</title>
-    <updated>2023-06-04T01:51:19Z</updated>
-    <id>tag:github.com,2023-06-04:/toeverything/affine.pro</id>
-    <link href="https://github.com/toeverything/affine.pro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AFFiNE official website, source for affine.pro&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>htphongx4/vue3-ts-vite-boilerplate</title>
+    <updated>2023-06-05T01:50:04Z</updated>
+    <id>tag:github.com,2023-06-05:/htphongx4/vue3-ts-vite-boilerplate</id>
+    <link href="https://github.com/htphongx4/vue3-ts-vite-boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Boilerplate and Starter for Vue 3x, Vite, Tailwind CSS, Vue Query and TypeScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>buqiyuan/vite-vue3-admin</title>
+    <updated>2023-06-05T01:50:04Z</updated>
+    <id>tag:github.com,2023-06-05:/buqiyuan/vite-vue3-admin</id>
+    <link href="https://github.com/buqiyuan/vite-vue3-admin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>doleakash1/dolevip</title>
+    <updated>2023-06-05T01:50:04Z</updated>
+    <id>tag:github.com,2023-06-05:/doleakash1/dolevip</id>
+    <link href="https://github.com/doleakash1/dolevip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

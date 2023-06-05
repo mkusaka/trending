@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:50:11Z</updated>
+  <updated>2023-06-05T01:48:57Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>babayoshihiko/logisticreg</title>
-    <updated>2023-06-04T01:50:11Z</updated>
-    <id>tag:github.com,2023-06-04:/babayoshihiko/logisticreg</id>
-    <link href="https://github.com/babayoshihiko/logisticreg" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;How to read and conduct research using logistic regression&lt;/p&gt;&lt;hr&gt;&lt;p&gt;こちらは、「Saturday Morning: R によるロジスティック回帰」です。&lt;/p&gt; &#xA;&lt;h1&gt;共同著者へ&lt;/h1&gt; &#xA;&lt;p&gt;主に作業するファイルは、&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;_bookdown.yml 本を構成している Rmd ファイルを指定&lt;/li&gt; &#xA; &lt;li&gt;.Rmd 各章のファイル&lt;/li&gt; &#xA; &lt;li&gt;book.bib 引用文献&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;R についての注記&lt;/h2&gt; &#xA;&lt;p&gt;作業を始める前に、RStudio の Git タブから PULL をしてください。&lt;/p&gt; &#xA;&lt;p&gt;作業が終わったら、Build から Build Book してください。gitbook 形式と epub_book 形式をビルドしてください。その後、Git タブから Commit し、PUSH してください。&lt;/p&gt; &#xA;&lt;p&gt;pdf_book_ja 形式は、LaTeX をインストールする必要がありますが、ハードディスクをかなり使います。インストールには数時間かかります。&lt;/p&gt; &#xA;&lt;p&gt;索引は、以下のように書きます。\index を使い、波括弧の中に、読みをひらがなで書き、アットマーク記号後に索引したい単語を書きます。&lt;/p&gt; &#xA;&lt;p&gt;本章では、あらたにロジスティック回帰 (logistic regression)\index{ろじすてぃっくかいき@ロジスティック回帰}&lt;/p&gt;</summary>
+    <title>r-devel/outreachy</title>
+    <updated>2023-06-05T01:48:57Z</updated>
+    <id>tag:github.com,2023-06-05:/r-devel/outreachy</id>
+    <link href="https://github.com/r-devel/outreachy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Manage the R Project participation in Outreachy&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Outreachy&lt;/h1&gt; &#xA;&lt;p&gt;A repository to define tasks related to Outreachy projects.&lt;/p&gt;</summary>
   </entry>
 </feed>

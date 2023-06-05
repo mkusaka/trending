@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:32:56Z</updated>
+  <updated>2023-06-05T01:31:58Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/AKS-Landing-Zone-Accelerator</title>
+    <updated>2023-06-05T01:31:58Z</updated>
+    <id>tag:github.com,2023-06-05:/Azure/AKS-Landing-Zone-Accelerator</id>
+    <link href="https://github.com/Azure/AKS-Landing-Zone-Accelerator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official repository for the AKS Landing Zone Accelerator program&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/aks-openai</title>
+    <updated>2023-06-05T01:31:58Z</updated>
+    <id>tag:github.com,2023-06-05:/Azure-Samples/aks-openai</id>
+    <link href="https://github.com/Azure-Samples/aks-openai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service and how to deploy a Python chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Azure-Samples/function-javascript-ai-openai-chatgpt</title>
+    <updated>2023-06-05T01:31:58Z</updated>
+    <id>tag:github.com,2023-06-05:/Azure-Samples/function-javascript-ai-openai-chatgpt</id>
+    <link href="https://github.com/Azure-Samples/function-javascript-ai-openai-chatgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;To gain access, please finish setting up this repository now at: https://repos.opensource.microsoft.com/Azure-Samples/wizard?existingreponame=function-javascript-ai-openai-chatgpt&amp;existingrepoid=646766530&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

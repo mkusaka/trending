@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:50:32Z</updated>
+  <updated>2023-06-05T01:49:14Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>openimis/openimis-be_py</title>
-    <updated>2023-06-04T01:50:32Z</updated>
-    <id>tag:github.com,2023-06-04:/openimis/openimis-be_py</id>
-    <link href="https://github.com/openimis/openimis-be_py" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The openIMIS Backend assembly reference&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

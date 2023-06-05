@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:32:33Z</updated>
+  <updated>2023-06-05T01:31:35Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ExtremeXT/Lenovo_Legion_5_Hackintosh</title>
+    <updated>2023-06-05T01:31:35Z</updated>
+    <id>tag:github.com,2023-06-05:/ExtremeXT/Lenovo_Legion_5_Hackintosh</id>
+    <link href="https://github.com/ExtremeXT/Lenovo_Legion_5_Hackintosh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EFI folder for installing macOS on the Lenovo Legion 5 laptop.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

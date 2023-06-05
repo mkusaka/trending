@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:42:33Z</updated>
+  <updated>2023-06-05T01:41:20Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Hjdskes/powersave</title>
-    <updated>2023-06-04T01:42:33Z</updated>
-    <id>tag:github.com,2023-06-04:/Hjdskes/powersave</id>
-    <link href="https://github.com/Hjdskes/powersave" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Linux power save settings, compatible with systemd&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Plutonium141/XiaoMi-R4A-Gigabit-Actions-OpenWrt</title>
+    <updated>2023-06-05T01:41:20Z</updated>
+    <id>tag:github.com,2023-06-05:/Plutonium141/XiaoMi-R4A-Gigabit-Actions-OpenWrt</id>
+    <link href="https://github.com/Plutonium141/XiaoMi-R4A-Gigabit-Actions-OpenWrt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;小米路由器R4A千兆版云编译openwrt，解决通过breed控制台刷入后无限重启问题&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

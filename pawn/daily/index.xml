@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:44:48Z</updated>
+  <updated>2023-06-05T01:43:31Z</updated>
   <subtitle>Daily Trending of Pawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>c-smile/sciter-js-sdk</title>
-    <updated>2023-06-04T01:44:48Z</updated>
-    <id>tag:github.com,2023-06-04:/c-smile/sciter-js-sdk</id>
-    <link href="https://github.com/c-smile/sciter-js-sdk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sciter.JS - Sciter but with QuickJS on board instead of my TIScript&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:31:37Z</updated>
+  <updated>2023-06-05T01:30:35Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hazemadelkhalel/Competitive-Programming-Library</title>
-    <updated>2023-06-04T01:31:37Z</updated>
-    <id>tag:github.com,2023-06-04:/hazemadelkhalel/Competitive-Programming-Library</id>
-    <link href="https://github.com/hazemadelkhalel/Competitive-Programming-Library" rel="alternate"></link>
+    <title>reactwg/server-components</title>
+    <updated>2023-06-05T01:30:35Z</updated>
+    <id>tag:github.com,2023-06-05:/reactwg/server-components</id>
+    <link href="https://github.com/reactwg/server-components" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coderQuad/New-Grad-Positions</title>
-    <updated>2023-06-04T01:31:37Z</updated>
-    <id>tag:github.com,2023-06-04:/coderQuad/New-Grad-Positions</id>
-    <link href="https://github.com/coderQuad/New-Grad-Positions" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of New Grad full time roles in SWE, Quant, and PM.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AlanChen4/Summer-2024-SWE-Internships</title>
+    <updated>2023-06-05T01:30:35Z</updated>
+    <id>tag:github.com,2023-06-05:/AlanChen4/Summer-2024-SWE-Internships</id>
+    <link href="https://github.com/AlanChen4/Summer-2024-SWE-Internships" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Summer 2024 software engineering internships updated automatically everyday&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kadenzipfel/smart-contract-vulnerabilities</title>
-    <updated>2023-06-04T01:31:37Z</updated>
-    <id>tag:github.com,2023-06-04:/kadenzipfel/smart-contract-vulnerabilities</id>
-    <link href="https://github.com/kadenzipfel/smart-contract-vulnerabilities" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of smart contract vulnerabilities along with prevention methods.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LNP-BP/layer1</title>
+    <updated>2023-06-05T01:30:35Z</updated>
+    <id>tag:github.com,2023-06-05:/LNP-BP/layer1</id>
+    <link href="https://github.com/LNP-BP/layer1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Paper on new bitcoin layer 1 design&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:49:13Z</updated>
+  <updated>2023-06-05T01:48:06Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>succinctlabs/mudvrf</title>
-    <updated>2023-06-04T01:49:13Z</updated>
-    <id>tag:github.com,2023-06-04:/succinctlabs/mudvrf</id>
-    <link href="https://github.com/succinctlabs/mudvrf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A secure, fast, and easy-to-use random number generator for on-chain games built using MUD.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-06-stader</title>
+    <updated>2023-06-05T01:48:06Z</updated>
+    <id>tag:github.com,2023-06-05:/code-423n4/2023-06-stader</id>
+    <link href="https://github.com/code-423n4/2023-06-stader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ethereum-optimism/contracts</title>
-    <updated>2023-06-04T01:49:13Z</updated>
-    <id>tag:github.com,2023-06-04:/ethereum-optimism/contracts</id>
-    <link href="https://github.com/ethereum-optimism/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[Optimism] Smart Contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xLanterns/OA</title>
+    <updated>2023-06-05T01:48:06Z</updated>
+    <id>tag:github.com,2023-06-05:/0xLanterns/OA</id>
+    <link href="https://github.com/0xLanterns/OA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sharpen your smart contract auditing skills with this Training Ground - a platform to practice identifying vulnerabilities discovered in audit contests and crafting high-quality proof of concepts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>traderjoe-xyz/floor-token</title>
+    <updated>2023-06-05T01:48:06Z</updated>
+    <id>tag:github.com,2023-06-05:/traderjoe-xyz/floor-token</id>
+    <link href="https://github.com/traderjoe-xyz/floor-token" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

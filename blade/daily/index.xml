@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:33:01Z</updated>
+  <updated>2023-06-05T01:32:02Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>themesberg/volt-laravel-dashboard</title>
-    <updated>2023-06-04T01:33:01Z</updated>
-    <id>tag:github.com,2023-06-04:/themesberg/volt-laravel-dashboard</id>
-    <link href="https://github.com/themesberg/volt-laravel-dashboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Free and open-source Laravel admin dashboard interface built with Livewire &amp; Alpine.js based on Bootstrap 5&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

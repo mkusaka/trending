@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-04T01:43:40Z</updated>
+  <updated>2023-06-05T01:42:24Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Arcadia-Science/metagenomics</title>
-    <updated>2023-06-04T01:43:40Z</updated>
-    <id>tag:github.com,2023-06-04:/Arcadia-Science/metagenomics</id>
-    <link href="https://github.com/Arcadia-Science/metagenomics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Nextflow workflow for QC, evaluation, and profiling of metagenomic samples using short- and long-read technologies&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
