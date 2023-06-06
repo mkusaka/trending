@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-05T01:50:04Z</updated>
+  <updated>2023-06-06T01:51:50Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>htphongx4/vue3-ts-vite-boilerplate</title>
-    <updated>2023-06-05T01:50:04Z</updated>
-    <id>tag:github.com,2023-06-05:/htphongx4/vue3-ts-vite-boilerplate</id>
-    <link href="https://github.com/htphongx4/vue3-ts-vite-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Boilerplate and Starter for Vue 3x, Vite, Tailwind CSS, Vue Query and TypeScript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LemonQu-GIT/ChatGLM-6B-Engineering</title>
+    <updated>2023-06-06T01:51:50Z</updated>
+    <id>tag:github.com,2023-06-06:/LemonQu-GIT/ChatGLM-6B-Engineering</id>
+    <link href="https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGLM-6B Prompt Engineering Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>buqiyuan/vite-vue3-admin</title>
-    <updated>2023-06-05T01:50:04Z</updated>
-    <id>tag:github.com,2023-06-05:/buqiyuan/vite-vue3-admin</id>
-    <link href="https://github.com/buqiyuan/vite-vue3-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>heyu3913/el-cascader-onlylast-mutiple</title>
+    <updated>2023-06-06T01:51:50Z</updated>
+    <id>tag:github.com,2023-06-06:/heyu3913/el-cascader-onlylast-mutiple</id>
+    <link href="https://github.com/heyu3913/el-cascader-onlylast-mutiple" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于el-cascader实现的最后一级多选&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>doleakash1/dolevip</title>
-    <updated>2023-06-05T01:50:04Z</updated>
-    <id>tag:github.com,2023-06-05:/doleakash1/dolevip</id>
-    <link href="https://github.com/doleakash1/dolevip" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Rr210/blazeB2</title>
+    <updated>2023-06-06T01:51:50Z</updated>
+    <id>tag:github.com,2023-06-06:/Rr210/blazeB2</id>
+    <link href="https://github.com/Rr210/blazeB2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📷基于 backBlazeb2 API &amp; ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

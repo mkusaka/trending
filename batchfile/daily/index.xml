@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-05T01:31:55Z</updated>
+  <updated>2023-06-06T01:31:07Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Ec-25/FixIt</title>
-    <updated>2023-06-05T01:31:55Z</updated>
-    <id>tag:github.com,2023-06-05:/Ec-25/FixIt</id>
-    <link href="https://github.com/Ec-25/FixIt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple Script capable of optimizing and repairing almost any error that may occur on your Windows computer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>celguar/spp-classics-cmangos</title>
+    <updated>2023-06-06T01:31:07Z</updated>
+    <id>tag:github.com,2023-06-06:/celguar/spp-classics-cmangos</id>
+    <link href="https://github.com/celguar/spp-classics-cmangos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SPP Classics repack with ike3 playerbots. Based on cmangos. Supports 1.12, 2.4.3, 3.3.5. Check &#34;Releases&#34; for installer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

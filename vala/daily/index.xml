@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-05T01:49:45Z</updated>
+  <updated>2023-06-06T01:51:33Z</updated>
   <subtitle>Daily Trending of Vala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alainm23/planify</title>
+    <updated>2023-06-06T01:51:33Z</updated>
+    <id>tag:github.com,2023-06-06:/alainm23/planify</id>
+    <link href="https://github.com/alainm23/planify" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Task manager with Todoist support designed for GNU/Linux 🚀&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

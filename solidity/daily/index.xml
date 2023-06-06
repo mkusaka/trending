@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-05T01:48:06Z</updated>
+  <updated>2023-06-06T01:49:51Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-06-stader</title>
-    <updated>2023-06-05T01:48:06Z</updated>
-    <id>tag:github.com,2023-06-05:/code-423n4/2023-06-stader</id>
-    <link href="https://github.com/code-423n4/2023-06-stader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jaredfromsubwayeth-Mev/Bot</title>
+    <updated>2023-06-06T01:49:51Z</updated>
+    <id>tag:github.com,2023-06-06:/Jaredfromsubwayeth-Mev/Bot</id>
+    <link href="https://github.com/Jaredfromsubwayeth-Mev/Bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 ETH MEV-BOT for 🥪 sandwich attack on Uniswap 🦄: A Maximal Extractable Value (MEV) Solidity Sandwich BOT 🤑 that allows deployers of contract 📄 to take profits 💰 from tokens 🪙. A 🤖 MEV bot is an arbitrage 🔀 tool that sniffs 🔍 the Mempool 🌐 for pending transactions ⏳ on decentralized exchanges like Uniswap 🦄.Make money with MevBot .&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0xLanterns/OA</title>
-    <updated>2023-06-05T01:48:06Z</updated>
-    <id>tag:github.com,2023-06-05:/0xLanterns/OA</id>
-    <link href="https://github.com/0xLanterns/OA" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sharpen your smart contract auditing skills with this Training Ground - a platform to practice identifying vulnerabilities discovered in audit contests and crafting high-quality proof of concepts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>traderjoe-xyz/floor-token</title>
-    <updated>2023-06-05T01:48:06Z</updated>
-    <id>tag:github.com,2023-06-05:/traderjoe-xyz/floor-token</id>
-    <link href="https://github.com/traderjoe-xyz/floor-token" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sandwich-mev-bot/eth-mevbot</title>
+    <updated>2023-06-06T01:49:51Z</updated>
+    <id>tag:github.com,2023-06-06:/sandwich-mev-bot/eth-mevbot</id>
+    <link href="https://github.com/sandwich-mev-bot/eth-mevbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 ETH MEV-BOT for 🥪 sandwich attack on Uniswap 🦄: A Maximal Extractable Value (MEV) Solidity Sandwich BOT 🤑 that allows deployers of contract 📄 to take profits 💰 from tokens 🪙. A 🤖 MEV bot is an arbitrage 🔀 tool that sniffs 🔍 the Mempool 🌐 for pending transactions ⏳ on decentralized exchanges like Uniswap 🦄. Make money with MevBot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

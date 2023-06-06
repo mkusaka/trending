@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-05T01:41:32Z</updated>
+  <updated>2023-06-06T01:42:41Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>buzsakilab/buzcode</title>
-    <updated>2023-06-05T01:41:32Z</updated>
-    <id>tag:github.com,2023-06-05:/buzsakilab/buzcode</id>
-    <link href="https://github.com/buzsakilab/buzcode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Code for internal lab sharing - polishing has started but is by no means complete&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Julie-Fabre/bombcell</title>
-    <updated>2023-06-05T01:41:32Z</updated>
-    <id>tag:github.com,2023-06-05:/Julie-Fabre/bombcell</id>
-    <link href="https://github.com/Julie-Fabre/bombcell" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automated manual curation and cell classification of spike-sorted electrophysiology data. Fine-tuned for kilosorted neuropixels data.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PonceLab/grad_RF_estim_matlab</title>
+    <updated>2023-06-06T01:42:41Z</updated>
+    <id>tag:github.com,2023-06-06:/PonceLab/grad_RF_estim_matlab</id>
+    <link href="https://github.com/PonceLab/grad_RF_estim_matlab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gradient based RF estimation for CNN units in matlab DL framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

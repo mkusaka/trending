@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-05T01:37:41Z</updated>
+  <updated>2023-06-06T01:38:59Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cloudposse/terraform-aws-cloudformation-stack</title>
-    <updated>2023-06-05T01:37:41Z</updated>
-    <id>tag:github.com,2023-06-05:/cloudposse/terraform-aws-cloudformation-stack</id>
-    <link href="https://github.com/cloudposse/terraform-aws-cloudformation-stack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to provision CloudFormation Stack&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>newrelic/coreint-automation</title>
+    <updated>2023-06-06T01:38:59Z</updated>
+    <id>tag:github.com,2023-06-06:/newrelic/coreint-automation</id>
+    <link href="https://github.com/newrelic/coreint-automation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repo will holds automation used our integrations like reusable workflows and the automations that are already in this repo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>den-vasyliev/tf-google-gke-cluster</title>
-    <updated>2023-06-05T01:37:41Z</updated>
-    <id>tag:github.com,2023-06-05:/den-vasyliev/tf-google-gke-cluster</id>
-    <link href="https://github.com/den-vasyliev/tf-google-gke-cluster" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module to create GKE cluster with custom node pool&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform-azurerm-alz-management</title>
+    <updated>2023-06-06T01:38:59Z</updated>
+    <id>tag:github.com,2023-06-06:/Azure/terraform-azurerm-alz-management</id>
+    <link href="https://github.com/Azure/terraform-azurerm-alz-management" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>LondheShubham153/terraform-advanced</title>
-    <updated>2023-06-05T01:37:41Z</updated>
-    <id>tag:github.com,2023-06-05:/LondheShubham153/terraform-advanced</id>
-    <link href="https://github.com/LondheShubham153/terraform-advanced" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repo for terraform-advanced topics like State Locking , modules, etc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>udacity/cd0345-design-for-performance-and-scalability</title>
+    <updated>2023-06-06T01:38:59Z</updated>
+    <id>tag:github.com,2023-06-06:/udacity/cd0345-design-for-performance-and-scalability</id>
+    <link href="https://github.com/udacity/cd0345-design-for-performance-and-scalability" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Design for Performance and Scalability Project&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

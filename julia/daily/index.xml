@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-05T01:39:44Z</updated>
+  <updated>2023-06-06T01:41:01Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TuringLang/NormalizingFlows.jl</title>
-    <updated>2023-06-05T01:39:44Z</updated>
-    <id>tag:github.com,2023-06-05:/TuringLang/NormalizingFlows.jl</id>
-    <link href="https://github.com/TuringLang/NormalizingFlows.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaComputing/XML.jl</title>
-    <updated>2023-06-05T01:39:44Z</updated>
-    <id>tag:github.com,2023-06-05:/JuliaComputing/XML.jl</id>
-    <link href="https://github.com/JuliaComputing/XML.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Read and write XML in pure Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
