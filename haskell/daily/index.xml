@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-06T01:38:44Z</updated>
+  <updated>2023-06-07T01:37:32Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rnons/HadouRex</title>
-    <updated>2023-06-06T01:38:44Z</updated>
-    <id>tag:github.com,2023-06-06:/rnons/HadouRex</id>
-    <link href="https://github.com/rnons/HadouRex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;douban.fm CLI client in Haskell. You might be interested in https://github.com/rnons/lord&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;库&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;doubanfm.hs&lt;/strong&gt;是doubanfm api的haskell封装。目前还不具备登录功能。&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd doubanfm.hs&#xA;cabal install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;播放器&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;HadouRex&lt;/strong&gt;是doubanfm的CLI客户端，后端调用&lt;a href=&#34;http://www.mpg123.de/&#34;&gt;mpg123&lt;/a&gt;进行播放。因此，除了cabal install还需要另外安装mpg123。&lt;/p&gt; &#xA;&lt;p&gt;HadouRex的代码参考了&lt;a href=&#34;http://hackage.haskell.org/package/hmp3&#34;&gt;hmp3&lt;/a&gt;和&lt;a href=&#34;https://github.com/sunng87/exaile-doubanfm-plugin&#34;&gt;exaile-doubanfm-plugin&lt;/a&gt;。&lt;/p&gt; &#xA;&lt;h3&gt;安装&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd HadouRex&#xA;cabal install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;名为 &lt;strong&gt;dourex&lt;/strong&gt; 的可执行文件会被安装到 &lt;em&gt;.~/.cabal/bin&lt;/em&gt; 。&lt;/p&gt; &#xA;&lt;h3&gt;选项&lt;/h3&gt; &#xA;&lt;pre&gt;&#xA;dourex&#xA;dourex listen [cid/artist]&#xA;dourex search keywords&#xA;dourex hot&#xA;dourex trending&#xA;dourex mark cid&#xA;dourex unmark cid&#xA;dourex marks&#xA;&lt;/pre&gt; &#xA;&lt;p&gt;dourex的选项模仿了包管理器。用&lt;code&gt;dourex hot&lt;/code&gt;和&lt;code&gt;dourex trending&lt;/code&gt;查看热门和上升最快的兆赫。用&lt;code&gt;dourex search&lt;/code&gt;搜索兆赫。&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;: dourex listen 后面接的参数，既可以是电台id，也可以是歌手/乐队名。如&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;dourex listen 1002316&#xA;dourex listen &#34;sigur ros&#34;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;dourex播放时，可以按&lt;code&gt;h&lt;/code&gt;键查看快捷键。&lt;/p&gt; &#xA;&lt;h2&gt;几个可以改进的地方&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;增加登录功能，可以参考&lt;a href=&#34;https://github.com/hzqtc/fmd&#34;&gt;fmd&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;作为一种练习，用&lt;a href=&#34;http://hackage.haskell.org/package/aeson&#34;&gt;aeson&lt;/a&gt;代替&lt;a href=&#34;http://hackage.haskell.org/package/json&#34;&gt;json&lt;/a&gt;库进行JSON的解析。aeson的口碑似乎比较好&lt;/li&gt; &#xA; &lt;li&gt;作为一种练习，用&lt;a href=&#34;https://raw.githubusercontent.com/rnons/HadouRex/master/hackage.haskell.org/package/http-conduit&#34;&gt;http-conduit&lt;/a&gt;代替&lt;a href=&#34;http://hackage.haskell.org/package/HTTP&#34;&gt;HTTP&lt;/a&gt;进行http请求&lt;/li&gt; &#xA; &lt;li&gt;用[mpd]代替mpg123进行音乐播放&lt;/li&gt; &#xA; &lt;li&gt;用&lt;code&gt;putMVar&lt;/code&gt;和&lt;code&gt;getMVar&lt;/code&gt;机制，代替&lt;code&gt;mpg123wait&lt;/code&gt;函数，可以参考&lt;a href=&#34;https://github.com/rnons/jinkell&#34;&gt;jinkell&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;增加歌词，可以考虑&lt;a href=&#34;https://github.com/solos/geci.me-api&#34;&gt;geci.me&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;用&lt;a href=&#34;http://hackage.haskell.org/package/optparse-applicative&#34;&gt;optparse-applicative&lt;/a&gt;进行选项(listen，hot等)的解析。&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;p&gt;这几个方面我或多或少知道怎么去实现，不过暂时没有时间去做。&lt;/p&gt; &#xA;&lt;p&gt;有兴趣的同学可以进行尝试，重要的是有兴趣，不会的地方可以找我探讨(irc #haskell-cn)。&lt;/p&gt; &#xA;&lt;p&gt;或者如果你想到其它可以改进的地方，也欢迎告诉我。&lt;/p&gt; &#xA;&lt;hr&gt;</summary>
+    <title>julianaleon8/pokemon</title>
+    <updated>2023-06-07T01:37:32Z</updated>
+    <id>tag:github.com,2023-06-07:/julianaleon8/pokemon</id>
+    <link href="https://github.com/julianaleon8/pokemon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;proyecto1haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;pokemon&lt;/h1&gt; &#xA;&lt;p&gt;proyecto1haskell&lt;/p&gt;</summary>
   </entry>
 </feed>

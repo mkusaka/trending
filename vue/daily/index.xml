@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-06T01:51:50Z</updated>
+  <updated>2023-06-07T01:51:06Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>LemonQu-GIT/ChatGLM-6B-Engineering</title>
-    <updated>2023-06-06T01:51:50Z</updated>
-    <id>tag:github.com,2023-06-06:/LemonQu-GIT/ChatGLM-6B-Engineering</id>
-    <link href="https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGLM-6B Prompt Engineering Project&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>heyu3913/el-cascader-onlylast-mutiple</title>
-    <updated>2023-06-06T01:51:50Z</updated>
-    <id>tag:github.com,2023-06-06:/heyu3913/el-cascader-onlylast-mutiple</id>
-    <link href="https://github.com/heyu3913/el-cascader-onlylast-mutiple" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于el-cascader实现的最后一级多选&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Rr210/blazeB2</title>
-    <updated>2023-06-06T01:51:50Z</updated>
-    <id>tag:github.com,2023-06-06:/Rr210/blazeB2</id>
-    <link href="https://github.com/Rr210/blazeB2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📷基于 backBlazeb2 API &amp; ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jackchen0120/vueDataV</title>
+    <updated>2023-06-07T01:51:06Z</updated>
+    <id>tag:github.com,2023-06-07:/jackchen0120/vueDataV</id>
+    <link href="https://github.com/jackchen0120/vueDataV" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

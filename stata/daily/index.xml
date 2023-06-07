@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stata Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-06T01:50:08Z</updated>
+  <updated>2023-06-07T01:49:23Z</updated>
   <subtitle>Daily Trending of Stata in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>worldbank/distribution_sensitive_index</title>
-    <updated>2023-06-06T01:50:08Z</updated>
-    <id>tag:github.com,2023-06-06:/worldbank/distribution_sensitive_index</id>
-    <link href="https://github.com/worldbank/distribution_sensitive_index" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A New Distribution Sensitive Index for Measuring Welfare, Poverty, and Inequality&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

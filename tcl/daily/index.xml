@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-06T01:50:39Z</updated>
+  <updated>2023-06-07T01:49:53Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DefMet/Arbitrum-sniping-bot-arbx</title>
-    <updated>2023-06-06T01:50:39Z</updated>
-    <id>tag:github.com,2023-06-06:/DefMet/Arbitrum-sniping-bot-arbx</id>
-    <link href="https://github.com/DefMet/Arbitrum-sniping-bot-arbx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a fork of the sniping bot from defix&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rdbende/Forest-ttk-theme</title>
-    <updated>2023-06-06T01:50:39Z</updated>
-    <id>tag:github.com,2023-06-06:/rdbende/Forest-ttk-theme</id>
-    <link href="https://github.com/rdbende/Forest-ttk-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A beautiful modern theme for ttk, inspired by MS Excel&#39;s look 🌲🌳&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>doodeth/BSC-Sniping-Bot-Opensource</title>
-    <updated>2023-06-06T01:50:39Z</updated>
-    <id>tag:github.com,2023-06-06:/doodeth/BSC-Sniping-Bot-Opensource</id>
-    <link href="https://github.com/doodeth/BSC-Sniping-Bot-Opensource" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Binance Smart Chain Sniping Bot that I made when studying blockchain mev bots&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

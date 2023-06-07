@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-06T01:36:03Z</updated>
+  <updated>2023-06-07T01:35:21Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rum-and-code/elixir-pdf-generator</title>
+    <updated>2023-06-07T01:35:21Z</updated>
+    <id>tag:github.com,2023-06-07:/rum-and-code/elixir-pdf-generator</id>
+    <link href="https://github.com/rum-and-code/elixir-pdf-generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mirego/elixir-boilerplate</title>
+    <updated>2023-06-07T01:35:21Z</updated>
+    <id>tag:github.com,2023-06-07:/mirego/elixir-boilerplate</id>
+    <link href="https://github.com/mirego/elixir-boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚗ The stable base upon which we build our Elixir projects at Mirego.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PSPDFKit-labs/bypass</title>
+    <updated>2023-06-07T01:35:21Z</updated>
+    <id>tag:github.com,2023-06-07:/PSPDFKit-labs/bypass</id>
+    <link href="https://github.com/PSPDFKit-labs/bypass" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bypass provides a quick way to create a custom plug that can be put in place instead of an actual HTTP server to return prebaked responses to client requests.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

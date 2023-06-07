@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-06T01:46:40Z</updated>
+  <updated>2023-06-07T01:45:40Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mtenorth/knowrob_human</title>
+    <updated>2023-06-07T01:45:40Z</updated>
+    <id>tag:github.com,2023-06-07:/mtenorth/knowrob_human</id>
+    <link href="https://github.com/mtenorth/knowrob_human" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for the knowledge-based analysis of human activities&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

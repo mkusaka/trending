@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-06T01:32:18Z</updated>
+  <updated>2023-06-07T01:32:30Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>spirit-stone-world/token-core</title>
-    <updated>2023-06-06T01:32:18Z</updated>
-    <id>tag:github.com,2023-06-06:/spirit-stone-world/token-core</id>
-    <link href="https://github.com/spirit-stone-world/token-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A ERC-20 token written in cairo-1.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

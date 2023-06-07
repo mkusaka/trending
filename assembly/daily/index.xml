@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-06T01:30:48Z</updated>
+  <updated>2023-06-07T01:30:56Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>cernekee/linux-firmware</title>
+    <updated>2023-06-07T01:30:56Z</updated>
+    <id>tag:github.com,2023-06-07:/cernekee/linux-firmware</id>
+    <link href="https://github.com/cernekee/linux-firmware" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(forked from git://git.kernel.org/pub/scm/linux/kernel/git/dwmw2/linux-firmware.git)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jefftranter/6502</title>
+    <updated>2023-06-07T01:30:56Z</updated>
+    <id>tag:github.com,2023-06-07:/jefftranter/6502</id>
+    <link href="https://github.com/jefftranter/6502" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for the 6502 microprocessor, mostly for the Replica 1 computer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
