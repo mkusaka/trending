@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-07T01:51:06Z</updated>
+  <updated>2023-06-08T01:51:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jackchen0120/vueDataV</title>
-    <updated>2023-06-07T01:51:06Z</updated>
-    <id>tag:github.com,2023-06-07:/jackchen0120/vueDataV</id>
-    <link href="https://github.com/jackchen0120/vueDataV" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于Vue + Echarts 构建的数据可视化平台，酷炫大屏展示模板和组件库，持续更新各行各业实用模板和炫酷小组件。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-07T01:31:12Z</updated>
+  <updated>2023-06-08T01:31:24Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chanshiyucx/blog</title>
-    <updated>2023-06-07T01:31:12Z</updated>
-    <id>tag:github.com,2023-06-07:/chanshiyucx/blog</id>
-    <link href="https://github.com/chanshiyucx/blog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://chanshiyu.com&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>githubprojects41/Ngrok-Windows-RDP</title>
-    <updated>2023-06-07T01:31:12Z</updated>
-    <id>tag:github.com,2023-06-07:/githubprojects41/Ngrok-Windows-RDP</id>
-    <link href="https://github.com/githubprojects41/Ngrok-Windows-RDP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>FanderWasTaken/wine-dependency-hell-solver</title>
+    <updated>2023-06-08T01:31:24Z</updated>
+    <id>tag:github.com,2023-06-08:/FanderWasTaken/wine-dependency-hell-solver</id>
+    <link href="https://github.com/FanderWasTaken/wine-dependency-hell-solver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of scripts to solve most issues while running games and applications under Wine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

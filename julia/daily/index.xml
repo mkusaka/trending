@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-07T01:40:23Z</updated>
+  <updated>2023-06-08T01:39:51Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bat/BATTestCases.jl</title>
-    <updated>2023-06-07T01:40:23Z</updated>
-    <id>tag:github.com,2023-06-07:/bat/BATTestCases.jl</id>
-    <link href="https://github.com/bat/BATTestCases.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Test cases for BAT.jl and for Bayesian Julia software in general&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brianguenter/FastDifferentiation.jl</title>
+    <updated>2023-06-08T01:39:51Z</updated>
+    <id>tag:github.com,2023-06-08:/brianguenter/FastDifferentiation.jl</id>
+    <link href="https://github.com/brianguenter/FastDifferentiation.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fast derivative evaluation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Keno/InterfaceSpecs.jl</title>
+    <updated>2023-06-08T01:39:51Z</updated>
+    <id>tag:github.com,2023-06-08:/Keno/InterfaceSpecs.jl</id>
+    <link href="https://github.com/Keno/InterfaceSpecs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playground for formal specifications of interfaces in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-07T01:32:52Z</updated>
+  <updated>2023-06-08T01:33:12Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>huahaiy/Gibberish-detector</title>
-    <updated>2023-06-07T01:32:52Z</updated>
-    <id>tag:github.com,2023-06-07:/huahaiy/Gibberish-detector</id>
-    <link href="https://github.com/huahaiy/Gibberish-detector" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Detects whether or not a string is gibberish&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>richguy/euler-in-clojure</title>
+    <updated>2023-06-08T01:33:12Z</updated>
+    <id>tag:github.com,2023-06-08:/richguy/euler-in-clojure</id>
+    <link href="https://github.com/richguy/euler-in-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository of source files for projecteuler.net worked in (novice) Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>qmx/casciidoc</title>
+    <updated>2023-06-08T01:33:12Z</updated>
+    <id>tag:github.com,2023-06-08:/qmx/casciidoc</id>
+    <link href="https://github.com/qmx/casciidoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eskilandreen/game-of-life</title>
+    <updated>2023-06-08T01:33:12Z</updated>
+    <id>tag:github.com,2023-06-08:/eskilandreen/game-of-life</id>
+    <link href="https://github.com/eskilandreen/game-of-life" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
