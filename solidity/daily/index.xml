@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-08T01:48:31Z</updated>
+  <updated>2023-06-09T01:48:36Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>norswap/0xFable</title>
-    <updated>2023-06-08T01:48:31Z</updated>
-    <id>tag:github.com,2023-06-08:/norswap/0xFable</id>
-    <link href="https://github.com/norswap/0xFable" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jackygu2006/ferc20_contracts</title>
+    <updated>2023-06-09T01:48:36Z</updated>
+    <id>tag:github.com,2023-06-09:/jackygu2006/ferc20_contracts</id>
+    <link href="https://github.com/jackygu2006/ferc20_contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;contracts for fair erc20&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>seal-inc/seal-Token-Foundry-Example-Contract-alpha-3</title>
-    <updated>2023-06-08T01:48:31Z</updated>
-    <id>tag:github.com,2023-06-08:/seal-inc/seal-Token-Foundry-Example-Contract-alpha-3</id>
-    <link href="https://github.com/seal-inc/seal-Token-Foundry-Example-Contract-alpha-3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>code-423n4/2023-06-llama</title>
-    <updated>2023-06-08T01:48:31Z</updated>
-    <id>tag:github.com,2023-06-08:/code-423n4/2023-06-llama</id>
-    <link href="https://github.com/code-423n4/2023-06-llama" rel="alternate"></link>
+    <title>liangpeili/defi-course</title>
+    <updated>2023-06-09T01:48:36Z</updated>
+    <id>tag:github.com,2023-06-09:/liangpeili/defi-course</id>
+    <link href="https://github.com/liangpeili/defi-course" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-08T01:44:28Z</updated>
+  <updated>2023-06-09T01:45:16Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dalibo/hackingpg</title>
+    <updated>2023-06-09T01:45:16Z</updated>
+    <id>tag:github.com,2023-06-09:/dalibo/hackingpg</id>
+    <link href="https://github.com/dalibo/hackingpg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dépôt relatif aux journées de hacking sur PostgreSQL&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>battcn/wemirr-platform</title>
+    <updated>2023-06-09T01:45:16Z</updated>
+    <id>tag:github.com,2023-06-09:/battcn/wemirr-platform</id>
+    <link href="https://github.com/battcn/wemirr-platform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;最优秀、最简单、最漂亮的开源SAAS、多租户、SpringCloud、Mysql、Mybatis-Plus、Spring Cloud Alibaba 、Oauth2.0 、有BUG第一时间修复&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

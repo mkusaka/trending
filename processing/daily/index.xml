@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-08T01:44:40Z</updated>
+  <updated>2023-06-09T01:45:25Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>santifiorino/dino-reinforcement-learning</title>
-    <updated>2023-06-08T01:44:40Z</updated>
-    <id>tag:github.com,2023-06-08:/santifiorino/dino-reinforcement-learning</id>
-    <link href="https://github.com/santifiorino/dino-reinforcement-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Evolutionary Reinforcement Learning for Dino Game: Train an AI agent to master Google Chrome&#39;s Dino Game using a genetic algorithm and reinforcement learning.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Stuycs-K/final-project-3-jiangm-leel</title>
+    <updated>2023-06-09T01:45:25Z</updated>
+    <id>tag:github.com,2023-06-09:/Stuycs-K/final-project-3-jiangm-leel</id>
+    <link href="https://github.com/Stuycs-K/final-project-3-jiangm-leel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;final-project-3-jiangm-leel created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

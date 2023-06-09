@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-08T01:30:06Z</updated>
+  <updated>2023-06-09T01:30:57Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SysCV/sam-hq</title>
-    <updated>2023-06-08T01:30:06Z</updated>
-    <id>tag:github.com,2023-06-08:/SysCV/sam-hq</id>
-    <link href="https://github.com/SysCV/sam-hq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Segment Anything in High Quality&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>InternLM/InternLM-techreport</title>
+    <updated>2023-06-09T01:30:57Z</updated>
+    <id>tag:github.com,2023-06-09:/InternLM/InternLM-techreport</id>
+    <link href="https://github.com/InternLM/InternLM-techreport" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Furkan-Gulsen/turkce-go-egitimi</title>
-    <updated>2023-06-08T01:30:06Z</updated>
-    <id>tag:github.com,2023-06-08:/Furkan-Gulsen/turkce-go-egitimi</id>
-    <link href="https://github.com/Furkan-Gulsen/turkce-go-egitimi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bu repo, Go dilini hızlı bir şekilde öğrenmek isteyenler için hazırlanmış bir eğitim serisidir. Toplamda 40 konuyu, örnekler üzerinden anlatarak dilin temel yapılarını kapsar.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>snwfdhmp/awesome-gpt-prompt-engineering</title>
-    <updated>2023-06-08T01:30:06Z</updated>
-    <id>tag:github.com,2023-06-08:/snwfdhmp/awesome-gpt-prompt-engineering</id>
-    <link href="https://github.com/snwfdhmp/awesome-gpt-prompt-engineering" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of awesome resources, tools, and other shiny things for GPT prompt engineering.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Code4GovTech/C4GT</title>
+    <updated>2023-06-09T01:30:57Z</updated>
+    <id>tag:github.com,2023-06-09:/Code4GovTech/C4GT</id>
+    <link href="https://github.com/Code4GovTech/C4GT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-08T01:34:36Z</updated>
+  <updated>2023-06-09T01:36:21Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>posse-ap/template-ph3-website</title>
-    <updated>2023-06-08T01:34:36Z</updated>
-    <id>tag:github.com,2023-06-08:/posse-ap/template-ph3-website</id>
-    <link href="https://github.com/posse-ap/template-ph3-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AbraaoAlves/nodejs_postgress</title>
-    <updated>2023-06-08T01:34:36Z</updated>
-    <id>tag:github.com,2023-06-08:/AbraaoAlves/nodejs_postgress</id>
-    <link href="https://github.com/AbraaoAlves/nodejs_postgress" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;nodejs_postgress&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>willowtreeapps/jdk8-minimal-node</title>
-    <updated>2023-06-08T01:34:36Z</updated>
-    <id>tag:github.com,2023-06-08:/willowtreeapps/jdk8-minimal-node</id>
-    <link href="https://github.com/willowtreeapps/jdk8-minimal-node" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight docker image which contains JDK8 and NodeJS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;jdk8-minimal-node&lt;/h1&gt; &#xA;&lt;p&gt;Available on Docker Hub as the willowtreeapps/jdk8-minimal-node image. This docker image can be used to run JDK8 based builds that also require NodeJS.&lt;/p&gt;</summary>
+    <title>sampathshivakumar/Python-Source-Code</title>
+    <updated>2023-06-09T01:36:21Z</updated>
+    <id>tag:github.com,2023-06-09:/sampathshivakumar/Python-Source-Code</id>
+    <link href="https://github.com/sampathshivakumar/Python-Source-Code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;This is a Source Code-Repository and part of GitOps Project.&lt;/h1&gt; &#xA;&lt;p&gt;&lt;strong&gt;This Repo consist of:&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;strong&gt;app.py a simple python code to import flack&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;requirements.txt having version of flash to download&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Dockerfile to dockerize a python flask app&lt;/strong&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;strong&gt;Jenkinsfile to build and push image to dockerhub&lt;/strong&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

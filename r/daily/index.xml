@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-08T01:45:44Z</updated>
+  <updated>2023-06-09T01:46:18Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jrnold/flatter</title>
+    <updated>2023-06-09T01:46:18Z</updated>
+    <id>tag:github.com,2023-06-09:/jrnold/flatter</id>
+    <link href="https://github.com/jrnold/flatter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple flattened (sparse) arrays in R&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;flatter&lt;/h1&gt; &#xA;&lt;p&gt;Simple &lt;strong&gt;R&lt;/strong&gt; class to represent arrays as a vector of data and a matrix of indices. Designed for data manipulation, not for high performance computing on sparse arrays.&lt;/p&gt;</summary>
+  </entry>
 </feed>

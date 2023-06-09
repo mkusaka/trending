@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-08T01:41:17Z</updated>
+  <updated>2023-06-09T01:42:32Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>marcopeg/hasura-2023</title>
-    <updated>2023-06-08T01:41:17Z</updated>
-    <id>tag:github.com,2023-06-08:/marcopeg/hasura-2023</id>
-    <link href="https://github.com/marcopeg/hasura-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crifan/android_app_security_crack</title>
-    <updated>2023-06-08T01:41:17Z</updated>
-    <id>tag:github.com,2023-06-08:/crifan/android_app_security_crack</id>
-    <link href="https://github.com/crifan/android_app_security_crack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;安卓应用的安全和破解&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>katef/kmkf</title>
-    <updated>2023-06-08T01:41:17Z</updated>
-    <id>tag:github.com,2023-06-08:/katef/kmkf</id>
-    <link href="https://github.com/katef/kmkf" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;General purpose BSD Makefiles&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

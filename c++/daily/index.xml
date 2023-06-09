@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-08T01:32:18Z</updated>
+  <updated>2023-06-09T01:33:41Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ZeroMemoryEx/Terminator</title>
-    <updated>2023-06-08T01:32:18Z</updated>
-    <id>tag:github.com,2023-06-08:/ZeroMemoryEx/Terminator</id>
-    <link href="https://github.com/ZeroMemoryEx/Terminator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://www.buymeacoffee.com/ZeroMemoryEx&#34; target=&#34;_blank&#34;&gt; &lt;img src=&#34;https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png&#34; alt=&#34;Buy Me A Coffee&#34;&gt; &lt;/a&gt; &lt;/p&gt; &#xA;&lt;h1&gt;Terminator&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Reproducing Spyboy technique, which involves terminating all EDR/XDR/AVs processes by abusing the zam64.sys driver&lt;/li&gt; &#xA; &lt;li&gt;Spyboy was selling the Terminator software at a price of $3,000 &lt;a href=&#34;https://www.bleepingcomputer.com/news/security/terminator-antivirus-killer-is-a-vulnerable-windows-driver-in-disguise/&#34;&gt;for more detail&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;the sample is sourced from &lt;a href=&#34;https://www.loldrivers.io/drivers/49920621-75d5-40fc-98b0-44f8fa486dcc/&#34;&gt;loldrivers&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;usage&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;the compiled version can be found &lt;a href=&#34;https://github.com/ZeroMemoryEx/Terminator/releases&#34;&gt;HERE&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Place the driver &lt;code&gt;Terminator.sys&lt;/code&gt; in the same path as the executable&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;run the program as an administrator&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;keep the program running to prevent the service from restarting the anti-malwares&lt;/p&gt; &lt;p&gt;&lt;img src=&#34;https://github.com/ZeroMemoryEx/Terminator/assets/60795188/81160d04-95e2-48e8-9f2f-177a2757762e&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;technical details&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;The driver contains some protectiion mechanism that only allow trusted Process IDs to send IOCTLs, Without adding your process ID to the trusted list, you will receive an &#39;Access Denied&#39; message every time. However, this can be easily bypassed by sending an IOCTL with our PID to be added to the trusted list, which will then permit us to control numerous critical IOCTLs&lt;/p&gt; &lt;p&gt;&lt;img src=&#34;https://github.com/ZeroMemoryEx/Terminator/assets/60795188/e26238c8-fcf8-40ec-9ed8-8e8de9436093&#34; alt=&#34;image&#34;&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>
