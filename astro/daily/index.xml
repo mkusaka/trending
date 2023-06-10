@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-09T01:32:03Z</updated>
+  <updated>2023-06-10T01:30:40Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Code-the-Dream-School/school-pages</title>
-    <updated>2023-06-09T01:32:03Z</updated>
-    <id>tag:github.com,2023-06-09:/Code-the-Dream-School/school-pages</id>
-    <link href="https://github.com/Code-the-Dream-School/school-pages" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;static content for CTD students&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-09T01:37:22Z</updated>
+  <updated>2023-06-10T01:34:54Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ValtteriL/OnionFermenter</title>
-    <updated>2023-06-09T01:37:22Z</updated>
-    <id>tag:github.com,2023-06-09:/ValtteriL/OnionFermenter</id>
-    <link href="https://github.com/ValtteriL/OnionFermenter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool for creating bitcoin stealing phishing clones of onion services on large scale&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

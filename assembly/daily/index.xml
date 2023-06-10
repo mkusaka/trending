@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-09T01:32:00Z</updated>
+  <updated>2023-06-10T01:30:44Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>peltho/Systeme</title>
-    <updated>2023-06-09T01:32:00Z</updated>
-    <id>tag:github.com,2023-06-09:/peltho/Systeme</id>
-    <link href="https://github.com/peltho/Systeme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Projet de Système 2012&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nanochess/bootOS</title>
+    <updated>2023-06-10T01:30:44Z</updated>
+    <id>tag:github.com,2023-06-10:/nanochess/bootOS</id>
+    <link href="https://github.com/nanochess/bootOS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;bootOS is a monolithic operating system in 512 bytes of x86 machine code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>EgeBalci/syscall_api</title>
-    <updated>2023-06-09T01:32:00Z</updated>
-    <id>tag:github.com,2023-06-09:/EgeBalci/syscall_api</id>
-    <link href="https://github.com/EgeBalci/syscall_api" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zisisvakras/mips-tool-pack</title>
-    <updated>2023-06-09T01:32:00Z</updated>
-    <id>tag:github.com,2023-06-09:/zisisvakras/mips-tool-pack</id>
-    <link href="https://github.com/zisisvakras/mips-tool-pack" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of useful mips templates&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cirosantilli/x86-assembly-cheat</title>
+    <updated>2023-06-10T01:30:44Z</updated>
+    <id>tag:github.com,2023-06-10:/cirosantilli/x86-assembly-cheat</id>
+    <link href="https://github.com/cirosantilli/x86-assembly-cheat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MOVED TO: https://cirosantilli.com/linux-kernel-module-cheat/userland-assembly with code at https://github.com/cirosantilli/linux-kernel-module-cheat/tree/master/userland/arch/x86_64 SEE README. x86 IA-32 and x86-64 userland minimal examples tutorial. Hundreds of runnable asserts. Nice GDB setup. IO done with libc, so OS portable in theory. NASM…&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

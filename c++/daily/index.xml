@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-09T01:33:41Z</updated>
+  <updated>2023-06-10T01:31:30Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mysql/mysql-server</title>
+    <updated>2023-06-10T01:31:30Z</updated>
+    <id>tag:github.com,2023-06-10:/mysql/mysql-server</id>
+    <link href="https://github.com/mysql/mysql-server" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MySQL Server, the world&#39;s most popular open source database, and MySQL Cluster, a real-time, open source transactional database.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Copyright (c) 2000, 2023, Oracle and/or its affiliates.&lt;/p&gt; &#xA;&lt;p&gt;This is a release of MySQL, an SQL database server.&lt;/p&gt; &#xA;&lt;p&gt;License information can be found in the LICENSE file.&lt;/p&gt; &#xA;&lt;p&gt;In test packages where this file is renamed README-test, the license file is renamed LICENSE-test.&lt;/p&gt; &#xA;&lt;p&gt;This distribution may include materials developed by third parties. For license and attribution notices for these materials, please refer to the LICENSE file.&lt;/p&gt; &#xA;&lt;p&gt;For further information on MySQL or additional documentation, visit &lt;a href=&#34;http://dev.mysql.com/doc/&#34;&gt;http://dev.mysql.com/doc/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For additional downloads and the source of MySQL, visit &lt;a href=&#34;http://dev.mysql.com/downloads/&#34;&gt;http://dev.mysql.com/downloads/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;MySQL is brought to you by the MySQL team at Oracle.&lt;/p&gt;</summary>
+  </entry>
 </feed>

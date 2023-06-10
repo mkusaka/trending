@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Stata Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-09T01:48:52Z</updated>
+  <updated>2023-06-10T01:48:48Z</updated>
   <subtitle>Daily Trending of Stata in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>IanHo2019/DID_Handbook</title>
+    <updated>2023-06-10T01:48:48Z</updated>
+    <id>tag:github.com,2023-06-10:/IanHo2019/DID_Handbook</id>
+    <link href="https://github.com/IanHo2019/DID_Handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository summarizes the traditional and recently proposed estimators for the difference-in-differences specifications.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
