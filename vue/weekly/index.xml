@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-11T02:04:24Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Cc-Edit/CcClip</title>
+    <updated>2023-06-11T02:04:24Z</updated>
+    <id>tag:github.com,2023-06-11:/Cc-Edit/CcClip</id>
+    <link href="https://github.com/Cc-Edit/CcClip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yuanyuekeji/stable-diffusion-mobileui</title>
+    <updated>2023-06-11T02:04:24Z</updated>
+    <id>tag:github.com,2023-06-11:/yuanyuekeji/stable-diffusion-mobileui</id>
+    <link href="https://github.com/yuanyuekeji/stable-diffusion-mobileui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于一键包搭建的stable-diffusion，推出适配移动端的界面UI，可以生成H5和微信小程序。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Wscats/vue-cli</title>
+    <updated>2023-06-11T02:04:24Z</updated>
+    <id>tag:github.com,2023-06-11:/Wscats/vue-cli</id>
+    <link href="https://github.com/Wscats/vue-cli" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📃基于 Vue3.0 Composition Api 快速构建实战项目&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

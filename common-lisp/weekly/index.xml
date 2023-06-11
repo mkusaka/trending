@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-11T01:50:28Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mason-stewart/land_of_lisp</title>
+    <updated>2023-06-11T01:50:28Z</updated>
+    <id>tag:github.com,2023-06-11:/mason-stewart/land_of_lisp</id>
+    <link href="https://github.com/mason-stewart/land_of_lisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercises from the hilarious Land of Lisp book&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;land_of_lisp&lt;/h1&gt; &#xA;&lt;p&gt;Exercises from the hilarious Land of Lisp book&lt;/p&gt;</summary>
+  </entry>
+</feed>

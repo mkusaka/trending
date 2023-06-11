@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-10T01:36:51Z</updated>
+  <updated>2023-06-11T01:36:48Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alunduil/blog.alunduil.com</title>
-    <updated>2023-06-10T01:36:51Z</updated>
-    <id>tag:github.com,2023-06-10:/alunduil/blog.alunduil.com</id>
-    <link href="https://github.com/alunduil/blog.alunduil.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Personal Blog&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Description&lt;/h1&gt; &#xA;&lt;p&gt;Personal Blog&lt;/p&gt; &#xA;&lt;p&gt;Static website (blog) generated with &lt;a href=&#34;https://jaspervdj.be/hakyll/&#34;&gt;hakyll&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Getting Started&lt;/h1&gt; &#xA;&lt;p&gt;The blog is available at &lt;a href=&#34;http://blog.alunduil.com&#34;&gt;http://blog.alunduil.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Reporting Issues&lt;/h1&gt; &#xA;&lt;p&gt;Any issues discovered should be recorded on &lt;a href=&#34;https://github.com/alunduil/remotefs/issues&#34;&gt;github&lt;/a&gt;. If you believe you&#39;ve found an improvement or typo; please, ensure that it is reported.&lt;/p&gt; &#xA;&lt;p&gt;If you would like to contribute a fix or new content; please, submit a pull request. This project follows &lt;a href=&#34;http://nvie.com/posts/a-successful-git-branching-model/&#34;&gt;git flow&lt;/a&gt; and utilizes &lt;a href=&#34;https://travis-ci.org/alunduil/blog.alunduil.com&#34;&gt;travis&lt;/a&gt; to automatically check pull requests before a manual review.&lt;/p&gt; &#xA;&lt;h1&gt;Contributors&lt;/h1&gt; &#xA;&lt;p&gt;The &lt;code&gt;copyright&lt;/code&gt; directory contains a list of contributors with their respective copyrights and other information. If you submit a pull request and would like attribution; please, add yourself to the &lt;code&gt;copyright&lt;/code&gt; directory.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>yuga/readpfad</title>
-    <updated>2023-06-10T01:36:51Z</updated>
-    <id>tag:github.com,2023-06-10:/yuga/readpfad</id>
-    <link href="https://github.com/yuga/readpfad" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Reader&#39;s note of Pearls of Functional Algorithm Design&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/yuga/readpfad/raw/master/01_the_small_free_number/README.lhs&#34;&gt;#1 The smallest free number&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/yuga/readpfad/raw/master/02_a_surpassing_problem/README.lhs&#34;&gt;#2 A surpassing problem&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>NicolasT/generic-storage</title>
+    <updated>2023-06-11T01:36:48Z</updated>
+    <id>tag:github.com,2023-06-11:/NicolasT/generic-storage</id>
+    <link href="https://github.com/NicolasT/generic-storage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of &#34;Generic Storage in Haskell&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;generic-storage&lt;/h1&gt; &#xA;&lt;p&gt;An implementation of &#34;&lt;code&gt;Generic Storage in Haskell&lt;/code&gt;_&#34;.&lt;/p&gt; &#xA;&lt;p&gt;To run the demo::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ runhaskell -isrc demo.hs&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Or, when using cabal-dev::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cabal-dev install-deps&#xA;$ runhaskell -package-conf=cabal-dev/packages-7.4.1.conf -isrc demo.hs&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The output (at the time of writing) should be something like&lt;/p&gt; &#xA;&lt;p&gt;::&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;Rendering tree&#xA;(&#34;in&#34;,Leaf)&#xA;(&#34;in&#34;,Leaf)&#xA;(&#34;in&#34;,Leaf)&#xA;(&#34;in&#34;,Leaf)&#xA;(&#34;in&#34;,Branch &#34;c&#34; 3 () ())&#xA;(&#34;in&#34;,Branch &#34;b&#34; 2 () ())&#xA;(&#34;in&#34;,Branch &#34;a&#34; 1 () ())&#xA;Looking up a node&#xA;(&#34;out&#34;,Branch &#34;a&#34; 1 () ())&#xA;(&#34;out&#34;,Leaf)&#xA;(&#34;out&#34;,Branch &#34;b&#34; 2 () ())&#xA;(&#34;out&#34;,Leaf)&#xA;(&#34;out&#34;,Branch &#34;c&#34; 3 () ())&#xA;(&#34;out&#34;,Leaf)&#xA;(&#34;out&#34;,Leaf)&#xA;Result: Just 1&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;.. _Generic Storage in Haskell: &lt;a href=&#34;http://www.andres-loeh.de/GenericStorage/wgp10-genstorage.pdf&#34;&gt;http://www.andres-loeh.de/GenericStorage/wgp10-genstorage.pdf&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-11T02:02:29Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>0xLanterns/OA</title>
+    <updated>2023-06-11T02:02:29Z</updated>
+    <id>tag:github.com,2023-06-11:/0xLanterns/OA</id>
+    <link href="https://github.com/0xLanterns/OA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sharpen your smart contract auditing skills with this Training Ground - a platform to practice identifying vulnerabilities discovered in audit contests and crafting high-quality proof of concepts.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2023-05-maia</title>
+    <updated>2023-06-11T02:02:29Z</updated>
+    <id>tag:github.com,2023-06-11:/code-423n4/2023-05-maia</id>
+    <link href="https://github.com/code-423n4/2023-05-maia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>succinctlabs/mudvrf</title>
+    <updated>2023-06-11T02:02:29Z</updated>
+    <id>tag:github.com,2023-06-11:/succinctlabs/mudvrf</id>
+    <link href="https://github.com/succinctlabs/mudvrf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A secure, fast, and easy-to-use random number generator for on-chain games built using MUD.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

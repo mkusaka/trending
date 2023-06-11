@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Macaulay2 Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-11T01:56:56Z</updated>
+  <subtitle>Weekly Trending of Macaulay2 in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Macaulay2/Workshop-2023-Minneapolis</title>
+    <updated>2023-06-11T01:56:56Z</updated>
+    <id>tag:github.com,2023-06-11:/Macaulay2/Workshop-2023-Minneapolis</id>
+    <link href="https://github.com/Macaulay2/Workshop-2023-Minneapolis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collaboration area for the Macaulay2 workshop in Minneapolis, 2023&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

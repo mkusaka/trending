@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-11T01:55:41Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Keno/InterfaceSpecs.jl</title>
+    <updated>2023-06-11T01:55:41Z</updated>
+    <id>tag:github.com,2023-06-11:/Keno/InterfaceSpecs.jl</id>
+    <link href="https://github.com/Keno/InterfaceSpecs.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Playground for formal specifications of interfaces in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TuringLang/NormalizingFlows.jl</title>
+    <updated>2023-06-11T01:55:41Z</updated>
+    <id>tag:github.com,2023-06-11:/TuringLang/NormalizingFlows.jl</id>
+    <link href="https://github.com/TuringLang/NormalizingFlows.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

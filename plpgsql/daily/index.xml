@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-10T01:44:04Z</updated>
+  <updated>2023-06-11T01:42:08Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>smith1984/sde_test_db</title>
+    <updated>2023-06-11T01:42:08Z</updated>
+    <id>tag:github.com,2023-06-11:/smith1984/sde_test_db</id>
+    <link href="https://github.com/smith1984/sde_test_db" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Репозиторий для проверки практического задания учеников Школы Инженерии Данных&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

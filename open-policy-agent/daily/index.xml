@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Open Policy Agent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-10T01:42:45Z</updated>
+  <updated>2023-06-11T01:41:08Z</updated>
   <subtitle>Daily Trending of Open Policy Agent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>carbonetes/brainiac</title>
-    <updated>2023-06-10T01:42:45Z</updated>
-    <id>tag:github.com,2023-06-10:/carbonetes/brainiac</id>
-    <link href="https://github.com/carbonetes/brainiac" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BrainIAC uses static code analysis to analyze IAC code to detect security issues before deployment. This tool can scan for issues like security policy misconfigurations, insecure cloud-based services, and compliance issues.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

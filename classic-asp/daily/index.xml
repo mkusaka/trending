@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-10T01:32:18Z</updated>
+  <updated>2023-06-11T01:33:22Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>20twoes/classic-asp-mustache</title>
+    <updated>2023-06-11T01:33:22Z</updated>
+    <id>tag:github.com,2023-06-11:/20twoes/classic-asp-mustache</id>
+    <link href="https://github.com/20twoes/classic-asp-mustache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

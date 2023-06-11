@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ECL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-11T01:52:06Z</updated>
+  <subtitle>Weekly Trending of ECL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hpcc-systems/TextSearch</title>
+    <updated>2023-06-11T01:52:06Z</updated>
+    <id>tag:github.com,2023-06-11:/hpcc-systems/TextSearch</id>
+    <link href="https://github.com/hpcc-systems/TextSearch" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TextSearch ECL code&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-11T02:03:43Z</updated>
+  <subtitle>Weekly Trending of TSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure-Samples/azure-sql-db-openai</title>
+    <updated>2023-06-11T02:03:43Z</updated>
+    <id>tag:github.com,2023-06-11:/Azure-Samples/azure-sql-db-openai</id>
+    <link href="https://github.com/Azure-Samples/azure-sql-db-openai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Samples on how to use Azure SQL database with Azure OpenAI&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

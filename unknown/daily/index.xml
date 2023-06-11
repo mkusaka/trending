@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-10T01:29:43Z</updated>
+  <updated>2023-06-11T01:31:03Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BradyFU/Awesome-Multimodal-Large-Language-Models</title>
-    <updated>2023-06-10T01:29:43Z</updated>
-    <id>tag:github.com,2023-06-10:/BradyFU/Awesome-Multimodal-Large-Language-Models</id>
-    <link href="https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Latest Papers and Datasets on Multimodal Large Language Models&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jenndryden/Canadian-Tech-Internships-Summer-2024</title>
+    <updated>2023-06-11T01:31:03Z</updated>
+    <id>tag:github.com,2023-06-11:/jenndryden/Canadian-Tech-Internships-Summer-2024</id>
+    <link href="https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2024&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Cyfrin/foundry-full-course-f23</title>
-    <updated>2023-06-10T01:29:43Z</updated>
-    <id>tag:github.com,2023-06-10:/Cyfrin/foundry-full-course-f23</id>
-    <link href="https://github.com/Cyfrin/foundry-full-course-f23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Visualize-ML/Book2_Beauty-of-Data-Visualization</title>
+    <updated>2023-06-11T01:31:03Z</updated>
+    <id>tag:github.com,2023-06-11:/Visualize-ML/Book2_Beauty-of-Data-Visualization</id>
+    <link href="https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Book_2_《可视之美》 | 鸢尾花书：从加减乘除到机器学习；本册草稿正在改版，预计6月初开始上传新版&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>UncensoredHiddenWiki/onion-links</title>
-    <updated>2023-06-10T01:29:43Z</updated>
-    <id>tag:github.com,2023-06-10:/UncensoredHiddenWiki/onion-links</id>
-    <link href="https://github.com/UncensoredHiddenWiki/onion-links" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Hidden Wiki&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devcontainers/spec</title>
+    <updated>2023-06-11T01:31:03Z</updated>
+    <id>tag:github.com,2023-06-11:/devcontainers/spec</id>
+    <link href="https://github.com/devcontainers/spec" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Development Containers: Use a container as a full-featured development environment.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

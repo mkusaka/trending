@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-10T01:47:36Z</updated>
+  <updated>2023-06-11T01:44:37Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>alexander-ye/jekyll-devblog-starter</title>
+    <updated>2023-06-11T01:44:37Z</updated>
+    <id>tag:github.com,2023-06-11:/alexander-ye/jekyll-devblog-starter</id>
+    <link href="https://github.com/alexander-ye/jekyll-devblog-starter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Template for student Jekyll devblog.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

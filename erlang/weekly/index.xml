@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-11T01:52:34Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>nomasystems/ncalendar</title>
+    <updated>2023-06-11T01:52:34Z</updated>
+    <id>tag:github.com,2023-06-11:/nomasystems/ncalendar</id>
+    <link href="https://github.com/nomasystems/ncalendar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An OTP library for the manipulation of a binary representation of dates and times&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nomasystems/njson</title>
+    <updated>2023-06-11T01:52:34Z</updated>
+    <id>tag:github.com,2023-06-11:/nomasystems/njson</id>
+    <link href="https://github.com/nomasystems/njson" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OTP library to pragmatically and efficiently encode and decode JSON to Erlang maps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

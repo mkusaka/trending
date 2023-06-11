@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-10T01:32:39Z</updated>
+  <updated>2023-06-11T01:33:36Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>3100/hubot-asakusa</title>
-    <updated>2023-06-10T01:32:39Z</updated>
-    <id>tag:github.com,2023-06-10:/3100/hubot-asakusa</id>
-    <link href="https://github.com/3100/hubot-asakusa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;an AsakusaSatellite adapter for Hubot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>simonoff/bootstrap-dropdown-input</title>
-    <updated>2023-06-10T01:32:39Z</updated>
-    <id>tag:github.com,2023-06-10:/simonoff/bootstrap-dropdown-input</id>
-    <link href="https://github.com/simonoff/bootstrap-dropdown-input" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Twitter bootstrap plugin for dropdown input fields&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ciddan/PlayNgSeed</title>
+    <updated>2023-06-11T01:33:36Z</updated>
+    <id>tag:github.com,2023-06-11:/ciddan/PlayNgSeed</id>
+    <link href="https://github.com/ciddan/PlayNgSeed" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Seed project for AngularJS apps using Play! Framework for the backend. Flexes gruntjs for a smoother dev experience.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
