@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:36:40Z</updated>
+  <updated>2023-06-12T01:36:51Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PAWAN-PAREEK-1/digitalcard-site-main</title>
-    <updated>2023-06-11T01:36:40Z</updated>
-    <id>tag:github.com,2023-06-11:/PAWAN-PAREEK-1/digitalcard-site-main</id>
-    <link href="https://github.com/PAWAN-PAREEK-1/digitalcard-site-main" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:47:09Z</updated>
+  <updated>2023-06-12T01:50:48Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>newlxj/sdweb-multi-user-website</title>
-    <updated>2023-06-11T01:47:09Z</updated>
-    <id>tag:github.com,2023-06-11:/newlxj/sdweb-multi-user-website</id>
-    <link href="https://github.com/newlxj/sdweb-multi-user-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;stable diffusion Multi User Website，sd多用户站点，提供基于SD生成图、自动tag推荐及图床功能&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>setube/jntm</title>
+    <updated>2023-06-12T01:50:48Z</updated>
+    <id>tag:github.com,2023-06-12:/setube/jntm</id>
+    <link href="https://github.com/setube/jntm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一个小众的度盘秒传分享平台&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

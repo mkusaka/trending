@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ren&#39;Py Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:43:37Z</updated>
+  <updated>2023-06-12T01:46:39Z</updated>
   <subtitle>Daily Trending of Ren&#39;Py in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>COPtimer/Outland-Wanderer-Simplified-Chinese</title>
-    <updated>2023-06-11T01:43:37Z</updated>
-    <id>tag:github.com,2023-06-11:/COPtimer/Outland-Wanderer-Simplified-Chinese</id>
-    <link href="https://github.com/COPtimer/Outland-Wanderer-Simplified-Chinese" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;异乡漫游客（Outland Wanderer）官方简体中文翻译&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>brend32/Anton_Pelmeni</title>
+    <updated>2023-06-12T01:46:39Z</updated>
+    <id>tag:github.com,2023-06-12:/brend32/Anton_Pelmeni</id>
+    <link href="https://github.com/brend32/Anton_Pelmeni" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Мод для Tiny Bunny&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

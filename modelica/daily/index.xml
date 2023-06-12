@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Modelica Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:39:59Z</updated>
+  <updated>2023-06-12T01:42:12Z</updated>
   <subtitle>Daily Trending of Modelica in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ALSETLab/Modelica-Drone-3D-FMI</title>
-    <updated>2023-06-11T01:39:59Z</updated>
-    <id>tag:github.com,2023-06-11:/ALSETLab/Modelica-Drone-3D-FMI</id>
-    <link href="https://github.com/ALSETLab/Modelica-Drone-3D-FMI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Multi-domain drone modeling in Modelica with 3D visualization and FMU export configuration&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

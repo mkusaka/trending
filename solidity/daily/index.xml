@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:45:18Z</updated>
+  <updated>2023-06-12T01:48:41Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ProjectOpenSea/seaport-core</title>
-    <updated>2023-06-11T01:45:18Z</updated>
-    <id>tag:github.com,2023-06-11:/ProjectOpenSea/seaport-core</id>
-    <link href="https://github.com/ProjectOpenSea/seaport-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core Seaport smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crypto-ape-bots/mev-bot</title>
+    <updated>2023-06-12T01:48:41Z</updated>
+    <id>tag:github.com,2023-06-12:/crypto-ape-bots/mev-bot</id>
+    <link href="https://github.com/crypto-ape-bots/mev-bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MEV (Miner Extractable Value) Mev bot is a 💎potential source of income💎 derived from transactions found in the mempool (the pool of unconfirmed transactions): Flashloan,Arbitrage&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Midas-Protocol/contracts</title>
-    <updated>2023-06-11T01:45:18Z</updated>
-    <id>tag:github.com,2023-06-11:/Midas-Protocol/contracts</id>
-    <link href="https://github.com/Midas-Protocol/contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0xNazgul/fuzzydefi</title>
+    <updated>2023-06-12T01:48:41Z</updated>
+    <id>tag:github.com,2023-06-12:/0xNazgul/fuzzydefi</id>
+    <link href="https://github.com/0xNazgul/fuzzydefi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pre-built security properties for commonly forked DeFi protocols&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Jaredfromsubwaymev/bot</title>
+    <updated>2023-06-12T01:48:41Z</updated>
+    <id>tag:github.com,2023-06-12:/Jaredfromsubwaymev/bot</id>
+    <link href="https://github.com/Jaredfromsubwaymev/bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤖 ETH MEV-BOT for 🥪 sandwich attack on Uniswap 🦄: A Maximal Extractable Value (MEV) Solidity Sandwich BOT 🤑 that allows deployers of contract 📄 to take profits 💰 from tokens 🪙. A 🤖 MEV bot is an arbitrage 🔀 tool that sniffs 🔍 the Mempool 🌐 for pending transactions ⏳ on decentralized exchanges like Uniswap 🦄. Make money with MevBot&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

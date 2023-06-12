@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:36:58Z</updated>
+  <updated>2023-06-12T01:37:19Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tungbq/aws-lab-with-terraform</title>
+    <updated>2023-06-12T01:37:19Z</updated>
+    <id>tag:github.com,2023-06-12:/tungbq/aws-lab-with-terraform</id>
+    <link href="https://github.com/tungbq/aws-lab-with-terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Collection of terraform code for practical AWS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Arvindssurendra/Devops-interview-QA</title>
+    <updated>2023-06-12T01:37:19Z</updated>
+    <id>tag:github.com,2023-06-12:/Arvindssurendra/Devops-interview-QA</id>
+    <link href="https://github.com/Arvindssurendra/Devops-interview-QA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ravdy/devops-project-workshop</title>
+    <updated>2023-06-12T01:37:19Z</updated>
+    <id>tag:github.com,2023-06-12:/ravdy/devops-project-workshop</id>
+    <link href="https://github.com/ravdy/devops-project-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

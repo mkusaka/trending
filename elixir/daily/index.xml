@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:35:10Z</updated>
+  <updated>2023-06-12T01:34:58Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rum-and-code/elixir-utils</title>
-    <updated>2023-06-11T01:35:10Z</updated>
-    <id>tag:github.com,2023-06-11:/rum-and-code/elixir-utils</id>
-    <link href="https://github.com/rum-and-code/elixir-utils" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A bunch of utility modules to accompany elixir-blueprint&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>elixir-tools/gen_lsp</title>
+    <updated>2023-06-12T01:34:58Z</updated>
+    <id>tag:github.com,2023-06-12:/elixir-tools/gen_lsp</id>
+    <link href="https://github.com/elixir-tools/gen_lsp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A behaviour for creating language servers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>adoptoposs/adoptoposs</title>
+    <updated>2023-06-12T01:34:58Z</updated>
+    <id>tag:github.com,2023-06-12:/adoptoposs/adoptoposs</id>
+    <link href="https://github.com/adoptoposs/adoptoposs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Finding co-maintainers for your open source software project.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>membraneframework/membrane_video_compositor_plugin</title>
+    <updated>2023-06-12T01:34:58Z</updated>
+    <id>tag:github.com,2023-06-12:/membraneframework/membrane_video_compositor_plugin</id>
+    <link href="https://github.com/membraneframework/membrane_video_compositor_plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

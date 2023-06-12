@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Processing Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:42:18Z</updated>
+  <updated>2023-06-12T01:44:59Z</updated>
   <subtitle>Daily Trending of Processing in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ScottH/CATLC5940</title>
-    <updated>2023-06-11T01:42:18Z</updated>
-    <id>tag:github.com,2023-06-11:/ScottH/CATLC5940</id>
-    <link href="https://github.com/ScottH/CATLC5940" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cellular automata code for Arduino anc TLC5940 LED bar&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Stuycs-K/final-project-3-hoi-hossainr</title>
-    <updated>2023-06-11T01:42:18Z</updated>
-    <id>tag:github.com,2023-06-11:/Stuycs-K/final-project-3-hoi-hossainr</id>
-    <link href="https://github.com/Stuycs-K/final-project-3-hoi-hossainr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;final-project-3-hoi-hossainr created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

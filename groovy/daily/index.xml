@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:36:39Z</updated>
+  <updated>2023-06-12T01:36:47Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jenkinsci/ecu-test-execution-plugin</title>
+    <updated>2023-06-12T01:36:47Z</updated>
+    <id>tag:github.com,2023-06-12:/jenkinsci/ecu-test-execution-plugin</id>
+    <link href="https://github.com/jenkinsci/ecu-test-execution-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This plugin enables a platform-independent test execution. Due to the reduced complexity and communication via REST API, it provides an easy and reliable entry into continuous testing. It integrates ECU-TEST with Jenkins and allows report generation and its upload of automated test execution.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

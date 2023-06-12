@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:31:03Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-06-12T01:30:08Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jenndryden/Canadian-Tech-Internships-Summer-2024</title>
-    <updated>2023-06-11T01:31:03Z</updated>
-    <id>tag:github.com,2023-06-11:/jenndryden/Canadian-Tech-Internships-Summer-2024</id>
-    <link href="https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Crowdsourced list of Canadian tech companies that are hiring interns for Summer 2024&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cert-orangecyberdefense/ransomware_map</title>
+    <updated>2023-06-12T01:30:08Z</updated>
+    <id>tag:github.com,2023-06-12:/cert-orangecyberdefense/ransomware_map</id>
+    <link href="https://github.com/cert-orangecyberdefense/ransomware_map" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Map tracking ransomware, by OCD World Watch team&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Visualize-ML/Book2_Beauty-of-Data-Visualization</title>
-    <updated>2023-06-11T01:31:03Z</updated>
-    <id>tag:github.com,2023-06-11:/Visualize-ML/Book2_Beauty-of-Data-Visualization</id>
-    <link href="https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Book_2_《可视之美》 | 鸢尾花书：从加减乘除到机器学习；本册草稿正在改版，预计6月初开始上传新版&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dave1010/tree-of-thought-prompting</title>
+    <updated>2023-06-12T01:30:08Z</updated>
+    <id>tag:github.com,2023-06-12:/dave1010/tree-of-thought-prompting</id>
+    <link href="https://github.com/dave1010/tree-of-thought-prompting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Using Tree-of-Thought Prompting to boost ChatGPT&#39;s reasoning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devcontainers/spec</title>
-    <updated>2023-06-11T01:31:03Z</updated>
-    <id>tag:github.com,2023-06-11:/devcontainers/spec</id>
-    <link href="https://github.com/devcontainers/spec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Development Containers: Use a container as a full-featured development environment.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>L8X/Roblox-Client-Optimizer</title>
+    <updated>2023-06-12T01:30:08Z</updated>
+    <id>tag:github.com,2023-06-12:/L8X/Roblox-Client-Optimizer</id>
+    <link href="https://github.com/L8X/Roblox-Client-Optimizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RCO tweaks FFlags to optimize your Roblox client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

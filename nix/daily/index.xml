@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-11T01:40:36Z</updated>
+  <updated>2023-06-12T01:42:59Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>oddlama/agenix-rekey</title>
+    <updated>2023-06-12T01:42:59Z</updated>
+    <id>tag:github.com,2023-06-12:/oddlama/agenix-rekey</id>
+    <link href="https://github.com/oddlama/agenix-rekey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
