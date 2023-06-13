@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:40:05Z</updated>
+  <updated>2023-06-13T01:42:15Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>adrhill/julia-ml-course</title>
-    <updated>2023-06-12T01:40:05Z</updated>
-    <id>tag:github.com,2023-06-12:/adrhill/julia-ml-course</id>
-    <link href="https://github.com/adrhill/julia-ml-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Julia programming for Machine Learning course at TU Berlin&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>aclai-lab/SoleData.jl</title>
-    <updated>2023-06-12T01:40:05Z</updated>
-    <id>tag:github.com,2023-06-12:/aclai-lab/SoleData.jl</id>
-    <link href="https://github.com/aclai-lab/SoleData.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Manage unstructured and multimodal datasets!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>JuliaDynamics/ResumableFunctions.jl</title>
-    <updated>2023-06-12T01:40:05Z</updated>
-    <id>tag:github.com,2023-06-12:/JuliaDynamics/ResumableFunctions.jl</id>
-    <link href="https://github.com/JuliaDynamics/ResumableFunctions.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C# style generators a.k.a. semi-coroutines for Julia.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

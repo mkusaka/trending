@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:49:09Z</updated>
+  <updated>2023-06-13T01:50:28Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>beyonk-group/svelte-mapbox</title>
-    <updated>2023-06-12T01:49:09Z</updated>
-    <id>tag:github.com,2023-06-12:/beyonk-group/svelte-mapbox</id>
-    <link href="https://github.com/beyonk-group/svelte-mapbox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MapBox Map and Autocomplete components for Svelte (or Vanilla JS)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>juliooa/the_agents</title>
+    <updated>2023-06-13T01:50:28Z</updated>
+    <id>tag:github.com,2023-06-13:/juliooa/the_agents</id>
+    <link href="https://github.com/juliooa/the_agents" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yet another ChatGPT UI, but more fit and svelte. Sveltekit app to have multiple conversations with chatbots.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kyrregjerstad/portfolio</title>
+    <updated>2023-06-13T01:50:28Z</updated>
+    <id>tag:github.com,2023-06-13:/kyrregjerstad/portfolio</id>
+    <link href="https://github.com/kyrregjerstad/portfolio" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

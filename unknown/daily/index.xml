@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:30:08Z</updated>
+  <updated>2023-06-13T01:31:33Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cert-orangecyberdefense/ransomware_map</title>
-    <updated>2023-06-12T01:30:08Z</updated>
-    <id>tag:github.com,2023-06-12:/cert-orangecyberdefense/ransomware_map</id>
-    <link href="https://github.com/cert-orangecyberdefense/ransomware_map" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Map tracking ransomware, by OCD World Watch team&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>qianqianwang68/omnimotion</title>
+    <updated>2023-06-13T01:31:33Z</updated>
+    <id>tag:github.com,2023-06-13:/qianqianwang68/omnimotion</id>
+    <link href="https://github.com/qianqianwang68/omnimotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dave1010/tree-of-thought-prompting</title>
-    <updated>2023-06-12T01:30:08Z</updated>
-    <id>tag:github.com,2023-06-12:/dave1010/tree-of-thought-prompting</id>
-    <link href="https://github.com/dave1010/tree-of-thought-prompting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Using Tree-of-Thought Prompting to boost ChatGPT&#39;s reasoning&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Awesome-Windows/Awesome</title>
+    <updated>2023-06-13T01:31:33Z</updated>
+    <id>tag:github.com,2023-06-13:/Awesome-Windows/Awesome</id>
+    <link href="https://github.com/Awesome-Windows/Awesome" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;💻 🎉 An awesome &amp; curated list of best applications and tools for Windows.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>L8X/Roblox-Client-Optimizer</title>
-    <updated>2023-06-12T01:30:08Z</updated>
-    <id>tag:github.com,2023-06-12:/L8X/Roblox-Client-Optimizer</id>
-    <link href="https://github.com/L8X/Roblox-Client-Optimizer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RCO tweaks FFlags to optimize your Roblox client&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cuynu/ytvanced</title>
+    <updated>2023-06-13T01:31:33Z</updated>
+    <id>tag:github.com,2023-06-13:/cuynu/ytvanced</id>
+    <link href="https://github.com/cuynu/ytvanced" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;YouTube Vanced &amp; YouTube Music Vanced Unofficial project (non-profit)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

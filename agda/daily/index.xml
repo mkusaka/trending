@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Agda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:30:38Z</updated>
+  <updated>2023-06-13T01:32:22Z</updated>
   <subtitle>Daily Trending of Agda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UniMath/agda-unimath</title>
-    <updated>2023-06-12T01:30:38Z</updated>
-    <id>tag:github.com,2023-06-12:/UniMath/agda-unimath</id>
-    <link href="https://github.com/UniMath/agda-unimath" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Univalent mathematics in Agda&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

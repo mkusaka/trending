@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:50:42Z</updated>
+  <updated>2023-06-13T01:51:58Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>junegunn/vim-slash</title>
-    <updated>2023-06-12T01:50:42Z</updated>
-    <id>tag:github.com,2023-06-12:/junegunn/vim-slash</id>
-    <link href="https://github.com/junegunn/vim-slash" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enhancing in-buffer search experience&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

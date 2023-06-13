@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:50:48Z</updated>
+  <updated>2023-06-13T01:52:05Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>setube/jntm</title>
-    <updated>2023-06-12T01:50:48Z</updated>
-    <id>tag:github.com,2023-06-12:/setube/jntm</id>
-    <link href="https://github.com/setube/jntm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个小众的度盘秒传分享平台&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ufabc-next/ufabc-next-web</title>
+    <updated>2023-06-13T01:52:05Z</updated>
+    <id>tag:github.com,2023-06-13:/ufabc-next/ufabc-next-web</id>
+    <link href="https://github.com/ufabc-next/ufabc-next-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📈 Plataforma web para auxiliar na graduação dos alunos da UFABC com informações sobre a performance, processo de matrículas e os discentes da universidade&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

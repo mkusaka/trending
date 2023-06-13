@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:32:04Z</updated>
+  <updated>2023-06-13T01:34:09Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>overwolf/jar-infection-scanner</title>
-    <updated>2023-06-12T01:32:04Z</updated>
-    <id>tag:github.com,2023-06-12:/overwolf/jar-infection-scanner</id>
-    <link href="https://github.com/overwolf/jar-infection-scanner" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scan jar files for known infections&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;jar-infection-scanner&lt;/h1&gt; &#xA;&lt;p&gt;This tool relied on the amazing work of the author community who has investigated these malicious files and published their efforts on &lt;a href=&#34;https://hackmd.io/B46EYzKXSfWSF35DeCZz9A#Credits&#34;&gt;hackmd.io&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>andrewmd5/orion</title>
-    <updated>2023-06-12T01:32:04Z</updated>
-    <id>tag:github.com,2023-06-12:/andrewmd5/orion</id>
-    <link href="https://github.com/andrewmd5/orion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a command-line game launcher for the Game Porting Toolkit&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;orion&lt;/h1&gt; &#xA;&lt;p&gt;a simple command line tool to launch games through the &lt;a href=&#34;https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit&#34;&gt;Game Porting Toolkit&lt;/a&gt;&lt;/p&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;img src=&#34;https://raw.githubusercontent.com/andrewmd5/orion/main/demo.gif&#34; alt=&#34;REPL demo&#34;&gt; &#xA;&lt;/div&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install the Apple &lt;a href=&#34;https://www.applegamingwiki.com/wiki/Game_Porting_Toolkit&#34;&gt;Game Porting Toolkit&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Download the latest release from the &lt;a href=&#34;https://github.com/andrewmd5/orion/releases/&#34;&gt;releases page&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Unzip the release and move the &lt;code&gt;orion&lt;/code&gt; binary to &lt;code&gt;/usr/local/bin/&lt;/code&gt; (or run the install script)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Run &lt;code&gt;orion&lt;/code&gt; from your terminal.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Features&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Launch games from the command line&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Steam game detection&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Battle.net game detection&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Game Porting Toolkit detection&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>dariogriffo/ApiKeySample</title>
-    <updated>2023-06-12T01:32:04Z</updated>
-    <id>tag:github.com,2023-06-12:/dariogriffo/ApiKeySample</id>
-    <link href="https://github.com/dariogriffo/ApiKeySample" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An API Key api authentication/authorization example&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ApiKeySample&lt;/h1&gt; &#xA;&lt;p&gt;6 words cheatsheet:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;AUTHENTICATION (WHO) =&amp;gt; MIDDLEWARE&#xA;AUTHORIZATION (WHAT)=&amp;gt; FILTERS&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

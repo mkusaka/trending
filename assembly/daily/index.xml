@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:31:11Z</updated>
+  <updated>2023-06-13T01:32:59Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>maskrosen/combat-bees-benchmarks</title>
-    <updated>2023-06-12T01:31:11Z</updated>
-    <id>tag:github.com,2023-06-12:/maskrosen/combat-bees-benchmarks</id>
-    <link href="https://github.com/maskrosen/combat-bees-benchmarks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Benchmarks of different versions of a simple bee simulation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pcawte/AgDev</title>
-    <updated>2023-06-12T01:31:11Z</updated>
-    <id>tag:github.com,2023-06-12:/pcawte/AgDev</id>
-    <link href="https://github.com/pcawte/AgDev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Port to Agon Light of TI 84 plus CE Toolchain&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jking412/hdu-riscv32</title>
+    <updated>2023-06-13T01:32:59Z</updated>
+    <id>tag:github.com,2023-06-13:/jking412/hdu-riscv32</id>
+    <link href="https://github.com/jking412/hdu-riscv32" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;hdu杭电计算机组成原理riscv32实验代码&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

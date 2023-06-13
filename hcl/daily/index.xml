@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:37:19Z</updated>
+  <updated>2023-06-13T01:40:20Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tungbq/aws-lab-with-terraform</title>
-    <updated>2023-06-12T01:37:19Z</updated>
-    <id>tag:github.com,2023-06-12:/tungbq/aws-lab-with-terraform</id>
-    <link href="https://github.com/tungbq/aws-lab-with-terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of terraform code for practical AWS&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Arvindssurendra/Devops-interview-QA</title>
-    <updated>2023-06-12T01:37:19Z</updated>
-    <id>tag:github.com,2023-06-12:/Arvindssurendra/Devops-interview-QA</id>
-    <link href="https://github.com/Arvindssurendra/Devops-interview-QA" rel="alternate"></link>
+    <title>Azure/mlops-v2-gha-demo</title>
+    <updated>2023-06-13T01:40:20Z</updated>
+    <id>tag:github.com,2023-06-13:/Azure/mlops-v2-gha-demo</id>
+    <link href="https://github.com/Azure/mlops-v2-gha-demo" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ravdy/devops-project-workshop</title>
-    <updated>2023-06-12T01:37:19Z</updated>
-    <id>tag:github.com,2023-06-12:/ravdy/devops-project-workshop</id>
-    <link href="https://github.com/ravdy/devops-project-workshop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kzzzr/airbyte_lab</title>
+    <updated>2023-06-13T01:40:20Z</updated>
+    <id>tag:github.com,2023-06-13:/kzzzr/airbyte_lab</id>
+    <link href="https://github.com/kzzzr/airbyte_lab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Airbyte Data Pipelines Lab&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>entur/terraform-google-cloud-storage</title>
+    <updated>2023-06-13T01:40:20Z</updated>
+    <id>tag:github.com,2023-06-13:/entur/terraform-google-cloud-storage</id>
+    <link href="https://github.com/entur/terraform-google-cloud-storage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module for GCP Storage Buckets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

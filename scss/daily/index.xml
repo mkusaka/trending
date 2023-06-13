@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-12T01:47:44Z</updated>
+  <updated>2023-06-13T01:49:12Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>frjo/hugo-theme-zen</title>
-    <updated>2023-06-12T01:47:44Z</updated>
-    <id>tag:github.com,2023-06-12:/frjo/hugo-theme-zen</id>
-    <link href="https://github.com/frjo/hugo-theme-zen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast and clean Hugo base theme with css-grid and Hugo pipes support.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
