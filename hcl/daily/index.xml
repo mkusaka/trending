@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-13T01:40:20Z</updated>
+  <updated>2023-06-14T01:38:39Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure/mlops-v2-gha-demo</title>
-    <updated>2023-06-13T01:40:20Z</updated>
-    <id>tag:github.com,2023-06-13:/Azure/mlops-v2-gha-demo</id>
-    <link href="https://github.com/Azure/mlops-v2-gha-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kzzzr/airbyte_lab</title>
-    <updated>2023-06-13T01:40:20Z</updated>
-    <id>tag:github.com,2023-06-13:/kzzzr/airbyte_lab</id>
-    <link href="https://github.com/kzzzr/airbyte_lab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Airbyte Data Pipelines Lab&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>entur/terraform-google-cloud-storage</title>
-    <updated>2023-06-13T01:40:20Z</updated>
-    <id>tag:github.com,2023-06-13:/entur/terraform-google-cloud-storage</id>
-    <link href="https://github.com/entur/terraform-google-cloud-storage" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform module for GCP Storage Buckets&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aws-samples/eks-cluster-upgrades-workshop</title>
+    <updated>2023-06-14T01:38:39Z</updated>
+    <id>tag:github.com,2023-06-14:/aws-samples/eks-cluster-upgrades-workshop</id>
+    <link href="https://github.com/aws-samples/eks-cluster-upgrades-workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source repo of the eks-upgrades workshop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

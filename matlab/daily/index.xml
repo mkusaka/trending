@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-13T01:44:01Z</updated>
+  <updated>2023-06-14T01:42:59Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>csdms-contrib/slepian_alpha</title>
+    <updated>2023-06-14T01:42:59Z</updated>
+    <id>tag:github.com,2023-06-14:/csdms-contrib/slepian_alpha</id>
+    <link href="https://github.com/csdms-contrib/slepian_alpha" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scalar spherical-harmonic analysis and Slepian functions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

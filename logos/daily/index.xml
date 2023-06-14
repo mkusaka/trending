@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Logos Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-13T01:43:27Z</updated>
+  <updated>2023-06-14T01:42:23Z</updated>
   <subtitle>Daily Trending of Logos in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Avangelista/BeRealUnblur</title>
-    <updated>2023-06-13T01:43:27Z</updated>
-    <id>tag:github.com,2023-06-13:/Avangelista/BeRealUnblur</id>
-    <link href="https://github.com/Avangelista/BeRealUnblur" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Unblur your friends’ posts on BeReal, even when you have not yet posted.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NSExceptional/FLEXing</title>
-    <updated>2023-06-13T01:43:27Z</updated>
-    <id>tag:github.com,2023-06-13:/NSExceptional/FLEXing</id>
-    <link href="https://github.com/NSExceptional/FLEXing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple tweak to activate a FLEX explorer window&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

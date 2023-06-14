@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-13T01:31:33Z</updated>
+  <updated>2023-06-14T01:29:43Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>qianqianwang68/omnimotion</title>
-    <updated>2023-06-13T01:31:33Z</updated>
-    <id>tag:github.com,2023-06-13:/qianqianwang68/omnimotion</id>
-    <link href="https://github.com/qianqianwang68/omnimotion" rel="alternate"></link>
+    <title>gopherchina/conference</title>
+    <updated>2023-06-14T01:29:43Z</updated>
+    <id>tag:github.com,2023-06-14:/gopherchina/conference</id>
+    <link href="https://github.com/gopherchina/conference" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Awesome-Windows/Awesome</title>
-    <updated>2023-06-13T01:31:33Z</updated>
-    <id>tag:github.com,2023-06-13:/Awesome-Windows/Awesome</id>
-    <link href="https://github.com/Awesome-Windows/Awesome" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💻 🎉 An awesome &amp; curated list of best applications and tools for Windows.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>alan2207/awesome-codebases</title>
+    <updated>2023-06-14T01:29:43Z</updated>
+    <id>tag:github.com,2023-06-14:/alan2207/awesome-codebases</id>
+    <link href="https://github.com/alan2207/awesome-codebases" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of awesome open-source codebases worth exploring.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cuynu/ytvanced</title>
-    <updated>2023-06-13T01:31:33Z</updated>
-    <id>tag:github.com,2023-06-13:/cuynu/ytvanced</id>
-    <link href="https://github.com/cuynu/ytvanced" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;YouTube Vanced &amp; YouTube Music Vanced Unofficial project (non-profit)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>youssefHosni/Awesome-AI-Data-GitHub-Repos</title>
+    <updated>2023-06-14T01:29:43Z</updated>
+    <id>tag:github.com,2023-06-14:/youssefHosni/Awesome-AI-Data-GitHub-Repos</id>
+    <link href="https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of the most important Github repos for ML, AI &amp; Data science practitioners&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

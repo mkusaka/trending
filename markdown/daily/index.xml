@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-13T01:43:59Z</updated>
+  <updated>2023-06-14T01:42:53Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bomberosalas/status</title>
-    <updated>2023-06-13T01:43:59Z</updated>
-    <id>tag:github.com,2023-06-13:/bomberosalas/status</id>
-    <link href="https://github.com/bomberosalas/status" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Status of pages under my eyes&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>salgo60/DiggUptime</title>
-    <updated>2023-06-13T01:43:59Z</updated>
-    <id>tag:github.com,2023-06-13:/salgo60/DiggUptime</id>
-    <link href="https://github.com/salgo60/DiggUptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;See when we can access DIGG forum&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>drknzz/GitHub-Achievements</title>
+    <updated>2023-06-14T01:42:53Z</updated>
+    <id>tag:github.com,2023-06-14:/drknzz/GitHub-Achievements</id>
+    <link href="https://github.com/drknzz/GitHub-Achievements" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 A Complete List of GitHub Profile Badges and Achievements 🔥&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
