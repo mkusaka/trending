@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:31:25Z</updated>
+  <updated>2023-06-15T01:34:41Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>bradygaster/dotnet-redis-pubsub</title>
-    <updated>2023-06-14T01:31:25Z</updated>
-    <id>tag:github.com,2023-06-14:/bradygaster/dotnet-redis-pubsub</id>
-    <link href="https://github.com/bradygaster/dotnet-redis-pubsub" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple example of how to use Redis with .NET and Azure Container Apps.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure-Samples/aca-dev-service-postgres-azd</title>
-    <updated>2023-06-14T01:31:25Z</updated>
-    <id>tag:github.com,2023-06-14:/Azure-Samples/aca-dev-service-postgres-azd</id>
-    <link href="https://github.com/Azure-Samples/aca-dev-service-postgres-azd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Azure-Samples/aca-dev-service-kafka-azd</title>
-    <updated>2023-06-14T01:31:25Z</updated>
-    <id>tag:github.com,2023-06-14:/Azure-Samples/aca-dev-service-kafka-azd</id>
-    <link href="https://github.com/Azure-Samples/aca-dev-service-kafka-azd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

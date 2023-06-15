@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:29:43Z</updated>
+  <updated>2023-06-15T01:32:49Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gopherchina/conference</title>
-    <updated>2023-06-14T01:29:43Z</updated>
-    <id>tag:github.com,2023-06-14:/gopherchina/conference</id>
-    <link href="https://github.com/gopherchina/conference" rel="alternate"></link>
+    <title>KenneyNL/Adobe-Alternatives</title>
+    <updated>2023-06-15T01:32:49Z</updated>
+    <id>tag:github.com,2023-06-15:/KenneyNL/Adobe-Alternatives</id>
+    <link href="https://github.com/KenneyNL/Adobe-Alternatives" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A list of alternatives for Adobe software&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RishikeshOps/DevOps-Learning-Resources</title>
+    <updated>2023-06-15T01:32:49Z</updated>
+    <id>tag:github.com,2023-06-15:/RishikeshOps/DevOps-Learning-Resources</id>
+    <link href="https://github.com/RishikeshOps/DevOps-Learning-Resources" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>alan2207/awesome-codebases</title>
-    <updated>2023-06-14T01:29:43Z</updated>
-    <id>tag:github.com,2023-06-14:/alan2207/awesome-codebases</id>
-    <link href="https://github.com/alan2207/awesome-codebases" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of awesome open-source codebases worth exploring.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>youssefHosni/Awesome-AI-Data-GitHub-Repos</title>
-    <updated>2023-06-14T01:29:43Z</updated>
-    <id>tag:github.com,2023-06-14:/youssefHosni/Awesome-AI-Data-GitHub-Repos</id>
-    <link href="https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of the most important Github repos for ML, AI &amp; Data science practitioners&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>grealyve/MDISec-Web-Security-and-Hacking-Notes</title>
+    <updated>2023-06-15T01:32:49Z</updated>
+    <id>tag:github.com,2023-06-15:/grealyve/MDISec-Web-Security-and-Hacking-Notes</id>
+    <link href="https://github.com/grealyve/MDISec-Web-Security-and-Hacking-Notes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

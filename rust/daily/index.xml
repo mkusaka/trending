@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:47:53Z</updated>
+  <updated>2023-06-15T01:49:43Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>derivator/tafkars</title>
-    <updated>2023-06-14T01:47:53Z</updated>
-    <id>tag:github.com,2023-06-14:/derivator/tafkars</id>
-    <link href="https://github.com/derivator/tafkars" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Tafkars&lt;/h1&gt; &#xA;&lt;p&gt;Tafkars stands for &#34;The API formerly known as...&#34;, is written in Rust and is pronounced like &#34;tough cars&#34;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/derivator/tafkars/main/tafkars&#34;&gt;&lt;code&gt;tafkars&lt;/code&gt;&lt;/a&gt; contains API bindings for that one site that people used to love.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/derivator/tafkars/main/tafkars-lemmy&#34;&gt;&lt;code&gt;tafkars-lemmy&lt;/code&gt;&lt;/a&gt; is an API proxy that allows apps to talk to &lt;a href=&#34;https://github.com/LemmyNet/lemmy&#34;&gt;Lemmy&lt;/a&gt; through a familiar API from a kinder time.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Help wanted&lt;/h2&gt; &#xA;&lt;p&gt;There is still lots of work to be done, especially on &lt;a href=&#34;https://raw.githubusercontent.com/derivator/tafkars/main/tafkars-lemmy&#34;&gt;&lt;code&gt;tafkars-lemmy&lt;/code&gt;&lt;/a&gt;. Pull requests welcome!&lt;/p&gt;</summary>
-  </entry>
 </feed>

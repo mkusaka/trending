@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:51:20Z</updated>
+  <updated>2023-06-15T01:52:47Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>274056675/springboot-openai-chatgpt</title>
-    <updated>2023-06-14T01:51:20Z</updated>
-    <id>tag:github.com,2023-06-14:/274056675/springboot-openai-chatgpt</id>
-    <link href="https://github.com/274056675/springboot-openai-chatgpt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。未来会接入：文心一言、通义千问、MOSS等国产AI大模型，持续更新中，更多功能等着你来解锁&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vvandk/kinit</title>
+    <updated>2023-06-15T01:52:47Z</updated>
+    <id>tag:github.com,2023-06-15:/vvandk/kinit</id>
+    <link href="https://github.com/vvandk/kinit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Fastapi+Vue3快速开发平台。接口异步，前后端分离项目，包括PC端(vue3+typescript)，微信小程序端(uni-app)，数据库已接入Mysql8.0，Redis，Mongodb&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>liberu-ui/genealogy</title>
-    <updated>2023-06-14T01:51:20Z</updated>
-    <id>tag:github.com,2023-06-14:/liberu-ui/genealogy</id>
-    <link href="https://github.com/liberu-ui/genealogy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Nuxt 2 and Vue 2 client for genealogy project. Family tree and genealogy data processing website software client.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>microsoft/anyonecancode</title>
+    <updated>2023-06-15T01:52:47Z</updated>
+    <id>tag:github.com,2023-06-15:/microsoft/anyonecancode</id>
+    <link href="https://github.com/microsoft/anyonecancode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Workshop content for Anyone can Code! - Light your Fire for Coding workshop&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Go Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:37:42Z</updated>
+  <updated>2023-06-15T01:40:05Z</updated>
   <subtitle>Daily Trending of Go in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MatthewJamesBoyle/golang-interview-prep</title>
+    <updated>2023-06-15T01:40:05Z</updated>
+    <id>tag:github.com,2023-06-15:/MatthewJamesBoyle/golang-interview-prep</id>
+    <link href="https://github.com/MatthewJamesBoyle/golang-interview-prep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;golang interview prep&lt;/h1&gt; &#xA;&lt;h2&gt;Goal of this repo.&lt;/h2&gt; &#xA;&lt;p&gt;This repo contains Golang code that does not follow best practises, contains bugs and security issues. It is intended to be used as an interview exercise or a practise exercise for jr/mid-level Go engineers.&lt;/p&gt; &#xA;&lt;p&gt;This repo contains, technically, a functional golang application that receives a request to create a user and stores it into a postgres Database.&lt;/p&gt; &#xA;&lt;p&gt;As an exercise, you could try identifying and correcting some of the issues in this repo. This would work particularly well as a pair programming exercise.&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;You can get the database started by running &lt;code&gt;docker-compose up&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Once running the Go app, you can make a CURL request as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-curl&#34;&gt; curl -X POST -H &#34;Content-Type: application/json&#34; -d &#39;{&#34;username&#34;:&#34;john&#34;, &#34;password&#34;:&#34;secret&#34;}&#39; http://localhost:8080/user&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:30:57Z</updated>
+  <updated>2023-06-15T01:34:09Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mirleims/MATA49_T1_2023.1</title>
-    <updated>2023-06-14T01:30:57Z</updated>
-    <id>tag:github.com,2023-06-14:/mirleims/MATA49_T1_2023.1</id>
-    <link href="https://github.com/mirleims/MATA49_T1_2023.1" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kolibrios-nextgen/kolibrios-ng</title>
+    <updated>2023-06-15T01:34:09Z</updated>
+    <id>tag:github.com,2023-06-15:/kolibrios-nextgen/kolibrios-ng</id>
+    <link href="https://github.com/kolibrios-nextgen/kolibrios-ng" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An attempt to give the KolibriOS project a second wind.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>prasantadh/ctfs</title>
-    <updated>2023-06-14T01:30:57Z</updated>
-    <id>tag:github.com,2023-06-14:/prasantadh/ctfs</id>
-    <link href="https://github.com/prasantadh/ctfs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The write-ups for participated CTFs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mirleims/MATA49_T2_2023.1</title>
+    <updated>2023-06-15T01:34:09Z</updated>
+    <id>tag:github.com,2023-06-15:/mirleims/MATA49_T2_2023.1</id>
+    <link href="https://github.com/mirleims/MATA49_T2_2023.1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

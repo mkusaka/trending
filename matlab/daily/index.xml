@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:42:59Z</updated>
+  <updated>2023-06-15T01:45:07Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>csdms-contrib/slepian_alpha</title>
-    <updated>2023-06-14T01:42:59Z</updated>
-    <id>tag:github.com,2023-06-14:/csdms-contrib/slepian_alpha</id>
-    <link href="https://github.com/csdms-contrib/slepian_alpha" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Scalar spherical-harmonic analysis and Slepian functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cultpenguin/mGstat</title>
+    <updated>2023-06-15T01:45:07Z</updated>
+    <id>tag:github.com,2023-06-15:/cultpenguin/mGstat</id>
+    <link href="https://github.com/cultpenguin/mGstat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cvxr/TFOCS</title>
+    <updated>2023-06-15T01:45:07Z</updated>
+    <id>tag:github.com,2023-06-15:/cvxr/TFOCS</id>
+    <link href="https://github.com/cvxr/TFOCS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A MATLAB toolbox for building first-order solvers for convex models.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>liangzu/IRLS-CVPR2023</title>
+    <updated>2023-06-15T01:45:07Z</updated>
+    <id>tag:github.com,2023-06-15:/liangzu/IRLS-CVPR2023</id>
+    <link href="https://github.com/liangzu/IRLS-CVPR2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IRLS &amp; Graduated Non-Convexity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

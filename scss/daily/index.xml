@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:48:26Z</updated>
+  <updated>2023-06-15T01:50:10Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>iris-hep/iris-hep.github.io</title>
-    <updated>2023-06-14T01:48:26Z</updated>
-    <id>tag:github.com,2023-06-14:/iris-hep/iris-hep.github.io</id>
-    <link href="https://github.com/iris-hep/iris-hep.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Institute for Research and Innovation in Software for High Energy Physics&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

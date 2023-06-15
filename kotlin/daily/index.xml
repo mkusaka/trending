@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:41:52Z</updated>
+  <updated>2023-06-15T01:44:05Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>leavesCZY/compose_tetris</title>
-    <updated>2023-06-14T01:41:52Z</updated>
-    <id>tag:github.com,2023-06-14:/leavesCZY/compose_tetris</id>
-    <link href="https://github.com/leavesCZY/compose_tetris" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Not only Android, Compose Multiplatform Write an Android+Desktop Tetris&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;compose_tetris&lt;/h1&gt; &#xA;&lt;p&gt;不止 Android，Compose Multiplatform 实现 Android + Desktop 俄罗斯方块&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://juejin.cn/post/6974585048762679310&#34;&gt;学不动也要学，Jetpack Compose 玩一把俄罗斯方块&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://juejin.cn/post/7062533562460799013&#34;&gt;不止 Android，Compose Multiplatform 初探&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/36daca5583924d9c93b3f0e8e9c4d76e~tplv-k3u1fbpfcp-zoom-1.image&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

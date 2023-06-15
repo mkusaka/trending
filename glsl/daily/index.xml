@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:37:35Z</updated>
+  <updated>2023-06-15T01:39:57Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Forenard/VJ-at-lambda-2023-06-10</title>
-    <updated>2023-06-14T01:37:35Z</updated>
-    <id>tag:github.com,2023-06-14:/Forenard/VJ-at-lambda-2023-06-10</id>
-    <link href="https://github.com/Forenard/VJ-at-lambda-2023-06-10" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;https://twitter.com/ymgmcmc/status/1666401630651293696&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ryo-0723/Siv3D_WheelSimulator</title>
-    <updated>2023-06-14T01:37:35Z</updated>
-    <id>tag:github.com,2023-06-14:/ryo-0723/Siv3D_WheelSimulator</id>
-    <link href="https://github.com/ryo-0723/Siv3D_WheelSimulator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>colin3dmax/CocosCreator</title>
+    <updated>2023-06-15T01:39:57Z</updated>
+    <id>tag:github.com,2023-06-15:/colin3dmax/CocosCreator</id>
+    <link href="https://github.com/colin3dmax/CocosCreator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;EffectOnLine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

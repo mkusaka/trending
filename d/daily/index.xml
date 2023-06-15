@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:34:23Z</updated>
+  <updated>2023-06-15T01:37:33Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>euvm/avst_adder</title>
+    <updated>2023-06-15T01:37:33Z</updated>
+    <id>tag:github.com,2023-06-15:/euvm/avst_adder</id>
+    <link href="https://github.com/euvm/avst_adder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Example setup for UVM driven Icarus Verilog Simulation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>huseyin325325/ddbase</title>
+    <updated>2023-06-15T01:37:33Z</updated>
+    <id>tag:github.com,2023-06-15:/huseyin325325/ddbase</id>
+    <link href="https://github.com/huseyin325325/ddbase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Database Project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

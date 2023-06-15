@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-14T01:49:51Z</updated>
+  <updated>2023-06-15T01:51:21Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>etherCorps/sveltekit-og</title>
-    <updated>2023-06-14T01:49:51Z</updated>
-    <id>tag:github.com,2023-06-14:/etherCorps/sveltekit-og</id>
-    <link href="https://github.com/etherCorps/sveltekit-og" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Generate Open Graph Images dynamically from HTML/CSS without a browser in SvelteKit&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
