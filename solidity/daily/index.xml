@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-15T01:50:55Z</updated>
+  <updated>2023-06-16T01:49:40Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Uniswap/v4-core</title>
-    <updated>2023-06-15T01:50:55Z</updated>
-    <id>tag:github.com,2023-06-15:/Uniswap/v4-core</id>
-    <link href="https://github.com/Uniswap/v4-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Uniswap/v4-periphery</title>
+    <updated>2023-06-16T01:49:40Z</updated>
+    <id>tag:github.com,2023-06-16:/Uniswap/v4-periphery</id>
+    <link href="https://github.com/Uniswap/v4-periphery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>OffchainLabs/token-bridge-contracts</title>
-    <updated>2023-06-15T01:50:55Z</updated>
-    <id>tag:github.com,2023-06-15:/OffchainLabs/token-bridge-contracts</id>
-    <link href="https://github.com/OffchainLabs/token-bridge-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Arbitrum token bridge and peripheral contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CoderJavaPlus/DEX-Triangular-Arbitrage-Solidity-Smart-Contract</title>
+    <updated>2023-06-16T01:49:40Z</updated>
+    <id>tag:github.com,2023-06-16:/CoderJavaPlus/DEX-Triangular-Arbitrage-Solidity-Smart-Contract</id>
+    <link href="https://github.com/CoderJavaPlus/DEX-Triangular-Arbitrage-Solidity-Smart-Contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Step up your trading prowess with this groundbreaking solidity smart contract engineered for Triangular Arbitrage on DEX&#39;s. With open-source accessibility and profitable potential, it&#39;s time to embark on your journey to the next level. Start today!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ProjectOpenSea/seaport-types</title>
-    <updated>2023-06-15T01:50:55Z</updated>
-    <id>tag:github.com,2023-06-15:/ProjectOpenSea/seaport-types</id>
-    <link href="https://github.com/ProjectOpenSea/seaport-types" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Standalone structs and interfaces related to Seaport&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>redblood639/Treasury_Contract</title>
+    <updated>2023-06-16T01:49:40Z</updated>
+    <id>tag:github.com,2023-06-16:/redblood639/Treasury_Contract</id>
+    <link href="https://github.com/redblood639/Treasury_Contract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a smart contract for managing a treasury that deposits funds into Uniswap and Aave. The contract allows the owner to set ratios for distribution between Uniswap and Aave, deposit USDC, and withdraw USDT and DAI.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

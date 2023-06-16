@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-15T01:32:49Z</updated>
+  <updated>2023-06-16T01:29:40Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KenneyNL/Adobe-Alternatives</title>
-    <updated>2023-06-15T01:32:49Z</updated>
-    <id>tag:github.com,2023-06-15:/KenneyNL/Adobe-Alternatives</id>
-    <link href="https://github.com/KenneyNL/Adobe-Alternatives" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of alternatives for Adobe software&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>RishikeshOps/DevOps-Learning-Resources</title>
-    <updated>2023-06-15T01:32:49Z</updated>
-    <id>tag:github.com,2023-06-15:/RishikeshOps/DevOps-Learning-Resources</id>
-    <link href="https://github.com/RishikeshOps/DevOps-Learning-Resources" rel="alternate"></link>
+    <title>pennyliang/ciku</title>
+    <updated>2023-06-16T01:29:40Z</updated>
+    <id>tag:github.com,2023-06-16:/pennyliang/ciku</id>
+    <link href="https://github.com/pennyliang/ciku" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>grealyve/MDISec-Web-Security-and-Hacking-Notes</title>
-    <updated>2023-06-15T01:32:49Z</updated>
-    <id>tag:github.com,2023-06-15:/grealyve/MDISec-Web-Security-and-Hacking-Notes</id>
-    <link href="https://github.com/grealyve/MDISec-Web-Security-and-Hacking-Notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SeedV/generative-ai-roadmap</title>
+    <updated>2023-06-16T01:29:40Z</updated>
+    <id>tag:github.com,2023-06-16:/SeedV/generative-ai-roadmap</id>
+    <link href="https://github.com/SeedV/generative-ai-roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;生成式AI的应用路线图 The roadmap of generative AI: use cases and applications&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MicrosoftDocs/azure-docs</title>
+    <updated>2023-06-16T01:29:40Z</updated>
+    <id>tag:github.com,2023-06-16:/MicrosoftDocs/azure-docs</id>
+    <link href="https://github.com/MicrosoftDocs/azure-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open source documentation of Microsoft Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

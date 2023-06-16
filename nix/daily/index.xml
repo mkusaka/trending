@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-15T01:45:58Z</updated>
+  <updated>2023-06-16T01:43:13Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mrkkrp/emacs-package-flake</title>
-    <updated>2023-06-15T01:45:58Z</updated>
-    <id>tag:github.com,2023-06-15:/mrkkrp/emacs-package-flake</id>
-    <link href="https://github.com/mrkkrp/emacs-package-flake" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Nix library that facilitates definition of flakes for Emacs packages&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

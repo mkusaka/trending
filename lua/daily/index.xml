@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-15T01:44:43Z</updated>
+  <updated>2023-06-16T01:41:41Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tzachar/highlight-undo.nvim</title>
-    <updated>2023-06-15T01:44:43Z</updated>
-    <id>tag:github.com,2023-06-15:/tzachar/highlight-undo.nvim</id>
-    <link href="https://github.com/tzachar/highlight-undo.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Highlight changed text after Undo / Redo operations&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;highlight-undo.nvim&lt;/h1&gt; &#xA;&lt;p&gt;Highlight changed text after Undo / Redo operations. Purely lua / nvim api implementation, no external dependencies needed.&lt;/p&gt; &#xA;&lt;h1&gt;In Action&lt;/h1&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/tzachar/highlight-undo.nvim/assets/4946827/81b85a3b-b563-4e97-b4e1-7a48d0d2f912&#34; alt=&#34;recording&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;install&lt;/h1&gt; &#xA;&lt;p&gt;Using Lazy:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;  {&#xA;      &#39;tzachar/highlight-undo.nvim&#39;,&#xA;      config = function()&#xA;        require(&#39;highlight-undo&#39;).setup({&#xA;            ...&#xA;          })&#xA;      end&#xA;  },&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Setup&lt;/h1&gt; &#xA;&lt;p&gt;You can setup &lt;code&gt;highlight-undo&lt;/code&gt; as follows:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-lua&#34;&gt;require(&#39;highlight-undo&#39;).setup({&#xA;    hlgroup = &#39;HighlightUndo&#39;,&#xA;    duration = 300,&#xA;    keymaps = {&#xA;      {&#39;n&#39;, &#39;u&#39;, &#39;undo&#39;, {}},&#xA;      {&#39;n&#39;, &#39;&amp;lt;C-r&amp;gt;&#39;, &#39;redo&#39;, {}},&#xA;    }&#xA;})&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;keymaps&lt;/h2&gt; &#xA;&lt;p&gt;Specify which kemaps should trigger the begining and end of tracking changes (&lt;a href=&#34;https://raw.githubusercontent.com/tzachar/highlight-undo.nvim/main/#how-the-plugin-works&#34;&gt;see here&lt;/a&gt;). By default, the plugin starts tracking changes before an &lt;code&gt;undo&lt;/code&gt; or a &lt;code&gt;redo&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Keymaps are specified in the same format as &lt;code&gt;vim.keymap.set&lt;/code&gt; accepts: mode, lhs, rhs, opts. Maps are passed verbatim to &lt;code&gt;vim.keymap.set&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;&lt;code&gt;hlgroup&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;Specify the highlighting group to use.&lt;/p&gt; &#xA;&lt;p&gt;By default, &lt;code&gt;highlight-undo&lt;/code&gt; will use the &lt;code&gt;HighlightUndo&lt;/code&gt; highlight group, which it defines upon startup. If the group is already defined elsewhere in your config then it will not be overwritten. You can also use any other group you desire.&lt;/p&gt; &#xA;&lt;h2&gt;&lt;code&gt;duration&lt;/code&gt;&lt;/h2&gt; &#xA;&lt;p&gt;The duration (in milliseconds) highligh changes. Default is 300.&lt;/p&gt; &#xA;&lt;h1&gt;How the Plugin Works&lt;/h1&gt; &#xA;&lt;p&gt;&lt;code&gt;highlight-undo&lt;/code&gt; will remap the &lt;code&gt;u&lt;/code&gt; and &lt;code&gt;&amp;lt;C-r&amp;gt;&lt;/code&gt; keys (for undo and redo, be default) and hijack the calls. By utilizing nvim_buf_attach to get indications for changes in the buffer, the plugin can achieve very low overhead.&lt;/p&gt;</summary>
+    <title>jasonisop/lpc_game</title>
+    <updated>2023-06-16T01:41:41Z</updated>
+    <id>tag:github.com,2023-06-16:/jasonisop/lpc_game</id>
+    <link href="https://github.com/jasonisop/lpc_game" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LPC Game&lt;/p&gt;&lt;hr&gt;&lt;p&gt;For the game to run you need to have all ready installed love2d version .8 on your system. You can find source and binaries for love2d at &lt;a href=&#34;https://love2d.org/&#34;&gt;https://love2d.org/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://love2d.org/wiki/Getting_Started&#34;&gt;https://love2d.org/wiki/Getting_Started&lt;/a&gt; provides instructions on how to run or make an executable of the game.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/jasonisop/lpc_game/master/lpc_game_rpg1.png&#34; alt=&#34;Legends of Rathnor&#34; title=&#34;Legends of Rathnor&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Arrow keys and WASD will move the player pressing &#39;SPACE&#39; will attack pressing &#39;g&#39; will warp you back to starting location. Note: that this works incorrectly on the inside map. pressing &#39;c&#39; will open your character sheet and inventory you can close this by pressing &#39;c&#39; again or by clicking the &#34;x&#34; on the top of each window.&lt;/p&gt; &#xA;&lt;p&gt;pressing &#39;p&#39; will do the spell casting animation. Note: this will currently crash the game. there currently are no mouse events, but there will be once items, spell and skills are in place.&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>crazytuzi/LuaFramework</title>
-    <updated>2023-06-15T01:44:43Z</updated>
-    <id>tag:github.com,2023-06-15:/crazytuzi/LuaFramework</id>
-    <link href="https://github.com/crazytuzi/LuaFramework" rel="alternate"></link>
+    <title>cilq/dots</title>
+    <updated>2023-06-16T01:41:41Z</updated>
+    <id>tag:github.com,2023-06-16:/cilq/dots</id>
+    <link href="https://github.com/cilq/dots" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>crazypoultry/Wow1.12.1_Addons_Collection</title>
-    <updated>2023-06-15T01:44:43Z</updated>
-    <id>tag:github.com,2023-06-15:/crazypoultry/Wow1.12.1_Addons_Collection</id>
-    <link href="https://github.com/crazypoultry/Wow1.12.1_Addons_Collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;if you want this fork it, ill be deleting it soonish&lt;/p&gt;</summary>
   </entry>
 </feed>

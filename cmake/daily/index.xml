@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-15T01:36:39Z</updated>
+  <updated>2023-06-16T01:32:34Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>leggedrobotics/gtsam_catkin</title>
-    <updated>2023-06-15T01:36:39Z</updated>
-    <id>tag:github.com,2023-06-15:/leggedrobotics/gtsam_catkin</id>
-    <link href="https://github.com/leggedrobotics/gtsam_catkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Catkinized version of gtsam.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-iai/iai_robots</title>
+    <updated>2023-06-16T01:32:34Z</updated>
+    <id>tag:github.com,2023-06-16:/code-iai/iai_robots</id>
+    <link href="https://github.com/code-iai/iai_robots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo holding descriptions and launch-files for robots in the iai lab.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

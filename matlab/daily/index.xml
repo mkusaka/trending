@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-15T01:45:07Z</updated>
+  <updated>2023-06-16T01:42:10Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cultpenguin/mGstat</title>
-    <updated>2023-06-15T01:45:07Z</updated>
-    <id>tag:github.com,2023-06-15:/cultpenguin/mGstat</id>
-    <link href="https://github.com/cultpenguin/mGstat" rel="alternate"></link>
+    <title>cuihantao/PSAT</title>
+    <updated>2023-06-16T01:42:10Z</updated>
+    <id>tag:github.com,2023-06-16:/cuihantao/PSAT</id>
+    <link href="https://github.com/cuihantao/PSAT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Power System Analysis Toolbox by Federico Milano&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>csjunxu/BM3DTIP2007_JunXu_Modified</title>
+    <updated>2023-06-16T01:42:10Z</updated>
+    <id>tag:github.com,2023-06-16:/csjunxu/BM3DTIP2007_JunXu_Modified</id>
+    <link href="https://github.com/csjunxu/BM3DTIP2007_JunXu_Modified" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>cvxr/TFOCS</title>
-    <updated>2023-06-15T01:45:07Z</updated>
-    <id>tag:github.com,2023-06-15:/cvxr/TFOCS</id>
-    <link href="https://github.com/cvxr/TFOCS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A MATLAB toolbox for building first-order solvers for convex models.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>liangzu/IRLS-CVPR2023</title>
-    <updated>2023-06-15T01:45:07Z</updated>
-    <id>tag:github.com,2023-06-15:/liangzu/IRLS-CVPR2023</id>
-    <link href="https://github.com/liangzu/IRLS-CVPR2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IRLS &amp; Graduated Non-Convexity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cultpenguin/segymat</title>
+    <updated>2023-06-16T01:42:10Z</updated>
+    <id>tag:github.com,2023-06-16:/cultpenguin/segymat</id>
+    <link href="https://github.com/cultpenguin/segymat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Read and write SEGY formatted files using Matlab/Octave&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
