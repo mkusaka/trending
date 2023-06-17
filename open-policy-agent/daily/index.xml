@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Open Policy Agent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-16T01:43:57Z</updated>
+  <updated>2023-06-17T01:41:20Z</updated>
   <subtitle>Daily Trending of Open Policy Agent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aws-samples/aws-infra-policy-as-code-with-terraform</title>
+    <updated>2023-06-17T01:41:20Z</updated>
+    <id>tag:github.com,2023-06-17:/aws-samples/aws-infra-policy-as-code-with-terraform</id>
+    <link href="https://github.com/aws-samples/aws-infra-policy-as-code-with-terraform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implements OPA-based preventive security controls for AWS Infrastructure using Terraform Infrastructure as Code (IaC), that can establish a security baseline and safeguard resources before deployment into the AWS Accounts and reduce security risks.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

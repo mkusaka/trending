@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-16T01:45:16Z</updated>
+  <updated>2023-06-17T01:42:31Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jetpack-io/typeid-sql</title>
-    <updated>2023-06-16T01:45:16Z</updated>
-    <id>tag:github.com,2023-06-16:/jetpack-io/typeid-sql</id>
-    <link href="https://github.com/jetpack-io/typeid-sql" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SQL implementation TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

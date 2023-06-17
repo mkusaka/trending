@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-16T01:30:50Z</updated>
+  <updated>2023-06-17T01:30:28Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RavensVenix/Free-VirtualDesktop</title>
-    <updated>2023-06-16T01:30:50Z</updated>
-    <id>tag:github.com,2023-06-16:/RavensVenix/Free-VirtualDesktop</id>
-    <link href="https://github.com/RavensVenix/Free-VirtualDesktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stop Fork, Download and make your own repo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kkzzhizhou/scoop-apps</title>
-    <updated>2023-06-16T01:30:50Z</updated>
-    <id>tag:github.com,2023-06-16:/kkzzhizhou/scoop-apps</id>
-    <link href="https://github.com/kkzzhizhou/scoop-apps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;使用Github Action每天自动合并其他scoop仓库的更新，仓库地址：https://github.com/kkzzhizhou/scoop-apps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>STOCD/SETS_LOADER</title>
-    <updated>2023-06-16T01:30:50Z</updated>
-    <id>tag:github.com,2023-06-16:/STOCD/SETS_LOADER</id>
-    <link href="https://github.com/STOCD/SETS_LOADER" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of batch files used to install SETS and its dependencies and keep them up to date&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dartraiden/NVIDIA-patcher</title>
+    <updated>2023-06-17T01:30:28Z</updated>
+    <id>tag:github.com,2023-06-17:/dartraiden/NVIDIA-patcher</id>
+    <link href="https://github.com/dartraiden/NVIDIA-patcher" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adds 3D acceleration support for mining cards&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

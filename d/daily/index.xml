@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-16T01:33:23Z</updated>
+  <updated>2023-06-17T01:32:33Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>coverify/avst_adder_vl</title>
-    <updated>2023-06-16T01:33:23Z</updated>
-    <id>tag:github.com,2023-06-16:/coverify/avst_adder_vl</id>
-    <link href="https://github.com/coverify/avst_adder_vl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reference eUVM testbench for verilator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

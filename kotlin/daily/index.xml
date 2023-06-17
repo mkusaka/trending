@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-16T01:40:55Z</updated>
+  <updated>2023-06-17T01:38:25Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MohamedRejeb/Card-Game-Animation</title>
+    <updated>2023-06-17T01:38:25Z</updated>
+    <id>tag:github.com,2023-06-17:/MohamedRejeb/Card-Game-Animation</id>
+    <link href="https://github.com/MohamedRejeb/Card-Game-Animation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample card game app made using Jetpack Compose. Contains some complex animations.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://github.com/MohamedRejeb/Card-Game-Animation/assets/41842296/2a6848da-05e2-4208-83de-ccdd670574bc&#34; alt=&#34;slide&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Card Game Animation&lt;/h1&gt; &#xA;&lt;p&gt;Sample card game app made using Jetpack Compose. Contains some complex animations.&lt;/p&gt; &#xA;&lt;h2&gt;Animation Preview&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/MohamedRejeb/Card-Game-Animation/assets/41842296/c16fa8f1-69c8-4cdd-9305-edc466e45bdb&#34;&gt;https://github.com/MohamedRejeb/Card-Game-Animation/assets/41842296/c16fa8f1-69c8-4cdd-9305-edc466e45bdb&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Acknowledgements&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://developer.android.com/jetpack/compose/animation/introduction&#34;&gt;Animations in compose&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://developer.android.com/jetpack/compose/touch-input/pointer-input&#34;&gt;Pointer input in Compose&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Authors&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.github.com/MohamedRejeb&#34;&gt;@MohamedRejeb&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;🔗 Social Links&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.linkedin.com/in/MohamedRejeb/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;amp;logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;linkedin&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://www.twitter.com/MohamadRejeb/&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&amp;amp;logo=twitter&amp;amp;logoColor=white&#34; alt=&#34;twitter&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

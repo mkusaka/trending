@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-16T01:40:11Z</updated>
+  <updated>2023-06-17T01:37:46Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gaurav-arya/differentiable_mh</title>
+    <updated>2023-06-17T01:37:46Z</updated>
+    <id>tag:github.com,2023-06-17:/gaurav-arya/differentiable_mh</id>
+    <link href="https://github.com/gaurav-arya/differentiable_mh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code for paper https://arxiv.org/abs/2306.07961&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
