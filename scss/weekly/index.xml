@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-18T02:02:11Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mate-academy/layout_dia</title>
+    <updated>2023-06-18T02:02:11Z</updated>
+    <id>tag:github.com,2023-06-18:/mate-academy/layout_dia</id>
+    <link href="https://github.com/mate-academy/layout_dia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>patdryburgh/hitchens</title>
+    <updated>2023-06-18T02:02:11Z</updated>
+    <id>tag:github.com,2023-06-18:/patdryburgh/hitchens</id>
+    <link href="https://github.com/patdryburgh/hitchens" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An inarguably well-designed Jekyll theme.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>daviddarnes/alembic</title>
+    <updated>2023-06-18T02:02:11Z</updated>
+    <id>tag:github.com,2023-06-18:/daviddarnes/alembic</id>
+    <link href="https://github.com/daviddarnes/alembic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-17T01:41:55Z</updated>
+  <updated>2023-06-18T01:41:01Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hs-hq/Betty</title>
+    <updated>2023-06-18T01:41:01Z</updated>
+    <id>tag:github.com,2023-06-18:/hs-hq/Betty</id>
+    <link href="https://github.com/hs-hq/Betty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Holberton-style C code checker written in Perl&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Betty&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/holbertonschool/Betty&#34;&gt;&lt;img src=&#34;https://travis-ci.org/holbertonschool/Betty.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Installation&lt;/h3&gt; &#xA;&lt;p&gt;Run the script &lt;code&gt;install.sh&lt;/code&gt; with &lt;strong&gt;sudo privileges&lt;/strong&gt; to install &lt;code&gt;betty-style&lt;/code&gt; and &lt;code&gt;betty-doc&lt;/code&gt; on your computer, along with the following manuals:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;em&gt;betty(1)&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;betty-style(1)&lt;/em&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;em&gt;betty-doc(1)&lt;/em&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Documentation&lt;/h3&gt; &#xA;&lt;p&gt;Please visit the &lt;a href=&#34;https://github.com/holbertonschool/Betty/wiki&#34;&gt;Betty Wiki&lt;/a&gt; for the full specifications of Betty coding and documentation styles.&lt;/p&gt; &#xA;&lt;p&gt;You&#39;ll also find some references and some tools for common text editors such as Emacs and Atom.&lt;/p&gt; &#xA;&lt;h3&gt;Usage&lt;/h3&gt; &#xA;&lt;p&gt;Run the following command to check if your code/doc fits the Betty Style (mostly inspired from the Linux Kernel style):&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ShellSession&#34;&gt;betty-style file1 [file2 [file3 [...]]]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-ShellSession&#34;&gt;betty-doc file1 [file2 [file3 [...]]]&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

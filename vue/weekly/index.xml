@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-18T02:04:42Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>hncboy/chatgpt-jiezi</title>
+    <updated>2023-06-18T02:04:42Z</updated>
+    <id>tag:github.com,2023-06-18:/hncboy/chatgpt-jiezi</id>
+    <link href="https://github.com/hncboy/chatgpt-jiezi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ChatGPT 管理端-解字&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>shiyutim/tickets</title>
+    <updated>2023-06-18T02:04:42Z</updated>
+    <id>tag:github.com,2023-06-18:/shiyutim/tickets</id>
+    <link href="https://github.com/shiyutim/tickets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;大麦抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>huchenlei/sd-webui-openpose-editor</title>
+    <updated>2023-06-18T02:04:42Z</updated>
+    <id>tag:github.com,2023-06-18:/huchenlei/sd-webui-openpose-editor</id>
+    <link href="https://github.com/huchenlei/sd-webui-openpose-editor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Openpose editor for ControlNet.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

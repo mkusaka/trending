@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-17T01:48:43Z</updated>
+  <updated>2023-06-18T01:46:48Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dcloudio/uni-admin</title>
-    <updated>2023-06-17T01:48:43Z</updated>
-    <id>tag:github.com,2023-06-17:/dcloudio/uni-admin</id>
-    <link href="https://github.com/dcloudio/uni-admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于 uni-app，uniCloud 的 admin 管理项目模板&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Clov614/company-web</title>
-    <updated>2023-06-17T01:48:43Z</updated>
-    <id>tag:github.com,2023-06-17:/Clov614/company-web</id>
-    <link href="https://github.com/Clov614/company-web" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一个神秘的vue2项目&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

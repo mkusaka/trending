@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Markdown Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-18T01:57:12Z</updated>
+  <subtitle>Weekly Trending of Markdown in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>drknzz/GitHub-Achievements</title>
+    <updated>2023-06-18T01:57:12Z</updated>
+    <id>tag:github.com,2023-06-18:/drknzz/GitHub-Achievements</id>
+    <link href="https://github.com/drknzz/GitHub-Achievements" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔥 A Complete List of GitHub Profile Badges and Achievements 🔥&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Anmol-Baranwal/Cool-GIFs-For-GitHub</title>
+    <updated>2023-06-18T01:57:12Z</updated>
+    <id>tag:github.com,2023-06-18:/Anmol-Baranwal/Cool-GIFs-For-GitHub</id>
+    <link href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🤝 Awesome List of GIFs &amp; avatars to use in GitHub.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>targed/GPT-Plugins</title>
+    <updated>2023-06-18T01:57:12Z</updated>
+    <id>tag:github.com,2023-06-18:/targed/GPT-Plugins</id>
+    <link href="https://github.com/targed/GPT-Plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GPT-Plugins is a GitHub repository that serves as a comprehensive list of plugins, add-ons, and extensions for ChatGPT, as well as other language models that are compatible with the GPT architecture.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-17T01:31:45Z</updated>
+  <updated>2023-06-18T01:32:19Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>unclebob/FunctionalDesign</title>
-    <updated>2023-06-17T01:31:45Z</updated>
-    <id>tag:github.com,2023-06-17:/unclebob/FunctionalDesign</id>
-    <link href="https://github.com/unclebob/FunctionalDesign" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The source code for the examples in Functional Design&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pesterhazy/elucidate</title>
+    <updated>2023-06-18T01:32:19Z</updated>
+    <id>tag:github.com,2023-06-18:/pesterhazy/elucidate</id>
+    <link href="https://github.com/pesterhazy/elucidate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Explain clojure.test assertion failures&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>weavejester/cljfmt</title>
+    <updated>2023-06-18T01:32:19Z</updated>
+    <id>tag:github.com,2023-06-18:/weavejester/cljfmt</id>
+    <link href="https://github.com/weavejester/cljfmt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool for formatting Clojure code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

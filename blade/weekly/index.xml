@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Blade Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-18T01:48:48Z</updated>
+  <subtitle>Weekly Trending of Blade in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SajeebChakraborty/Restaurant_Ecommerce_System_Laravel</title>
+    <updated>2023-06-18T01:48:48Z</updated>
+    <id>tag:github.com,2023-06-18:/SajeebChakraborty/Restaurant_Ecommerce_System_Laravel</id>
+    <link href="https://github.com/SajeebChakraborty/Restaurant_Ecommerce_System_Laravel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A platform that is a collective term for software that helps to manage food business operations.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

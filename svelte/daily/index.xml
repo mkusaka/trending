@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-17T01:46:57Z</updated>
+  <updated>2023-06-18T01:45:08Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Yureien/YABin</title>
-    <updated>2023-06-17T01:46:57Z</updated>
-    <id>tag:github.com,2023-06-17:/Yureien/YABin</id>
-    <link href="https://github.com/Yureien/YABin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Yet another pastebin, simple but feature-rich&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jc9108/eternity</title>
-    <updated>2023-06-17T01:46:57Z</updated>
-    <id>tag:github.com,2023-06-17:/jc9108/eternity</id>
-    <link href="https://github.com/jc9108/eternity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;bypass Reddit&#39;s 1000-item listing limits by externally storing your Reddit items (saved, created, upvoted, downvoted, hidden) in your own database&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>UrbanInstitute/affordable-housing-shortage-and-zoning</title>
+    <updated>2023-06-18T01:45:08Z</updated>
+    <id>tag:github.com,2023-06-18:/UrbanInstitute/affordable-housing-shortage-and-zoning</id>
+    <link href="https://github.com/UrbanInstitute/affordable-housing-shortage-and-zoning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

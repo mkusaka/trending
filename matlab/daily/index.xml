@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-17T01:39:37Z</updated>
+  <updated>2023-06-18T01:39:05Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cultpenguin/sippi</title>
-    <updated>2023-06-17T01:39:37Z</updated>
-    <id>tag:github.com,2023-06-17:/cultpenguin/sippi</id>
-    <link href="https://github.com/cultpenguin/sippi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Matlab toolbox for sampling inverse problems with complex priors&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>csliangdu/FSASL</title>
-    <updated>2023-06-17T01:39:37Z</updated>
-    <id>tag:github.com,2023-06-17:/csliangdu/FSASL</id>
-    <link href="https://github.com/csliangdu/FSASL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An unsupervised feature selection algorithm with adaptive structure learning. This paper has been published as a research paper in KDD 2015.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>csdms-contrib/slepian_delta</title>
-    <updated>2023-06-17T01:39:37Z</updated>
-    <id>tag:github.com,2023-06-17:/csdms-contrib/slepian_delta</id>
-    <link href="https://github.com/csdms-contrib/slepian_delta" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spatiospectral localization of data from the GRACE mission using Slepian functions&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mathworks/Simple-Code-Analyzer-Configuration</title>
+    <updated>2023-06-18T01:39:05Z</updated>
+    <id>tag:github.com,2023-06-18:/mathworks/Simple-Code-Analyzer-Configuration</id>
+    <link href="https://github.com/mathworks/Simple-Code-Analyzer-Configuration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple Code Analyzer configuration file, with example code that illustrates the code issues the configuration will enable you to identify.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-17T01:45:10Z</updated>
+  <updated>2023-06-18T01:43:36Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>samwho/spacer</title>
-    <updated>2023-06-17T01:45:10Z</updated>
-    <id>tag:github.com,2023-06-17:/samwho/spacer</id>
-    <link href="https://github.com/samwho/spacer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CLI tool to insert spacers when command output stops&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;spacer&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/samwho/spacer/actions&#34;&gt;&lt;img src=&#34;https://github.com/samwho/spacer/workflows/Build/badge.svg?sanitize=true&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://crates.io/crates/spacer&#34;&gt;&lt;img src=&#34;https://img.shields.io/crates/v/spacer.svg?sanitize=true&#34; alt=&#34;Crates.io&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;spacer&lt;/code&gt; is a simple CLI tool to insert spacers when command output stops.&lt;/p&gt; &#xA;&lt;p&gt;If you&#39;re the type of person that habitually presses enter a few times in your log tail to know where the last request ended and the new one begins, this tool is for you!&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/samwho/spacer/main/images/spacer.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;With Homebrew:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;brew tap samwho/spacer&#xA;brew install spacer&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Direct from Cargo:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cargo install spacer&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;By default, &lt;code&gt;spacer&lt;/code&gt; outputs a spacer after 1 second with no output. You can change this with the &lt;code&gt;--after&lt;/code&gt; flag.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;tail -f some.log | spacer --after 5&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;code&gt;--after&lt;/code&gt; accepts a number of seconds, and allows floating point numbers for extra precision.&lt;/p&gt; &#xA;&lt;h2&gt;STDOUT and STDERR&lt;/h2&gt; &#xA;&lt;p&gt;Some commands output most of their information on STDERR, not STDOUT. &lt;code&gt;spacer&lt;/code&gt; only monitors STDOUT, so if you find a situation where &lt;code&gt;spacer&lt;/code&gt; doesn&#39;t seem to be working it could be that the program you&#39;re piping from is using STDERR.&lt;/p&gt; &#xA;&lt;p&gt;To &#34;fix&#34; that, redirect STDERR to STDOUT by using &lt;code&gt;2&amp;gt;&amp;amp;1&lt;/code&gt; in your command:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;my-command 2&amp;gt;&amp;amp;1 | spacer&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

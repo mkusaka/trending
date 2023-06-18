@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ABAP Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-18T01:47:52Z</updated>
+  <subtitle>Weekly Trending of ABAP in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>abap2UI5/abap2UI5</title>
+    <updated>2023-06-18T01:47:52Z</updated>
+    <id>tag:github.com,2023-06-18:/abap2UI5/abap2UI5</id>
+    <link href="https://github.com/abap2UI5/abap2UI5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Developing UI5 Apps in pure ABAP&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

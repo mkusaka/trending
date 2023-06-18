@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Brainfuck Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-18T01:48:57Z</updated>
+  <subtitle>Weekly Trending of Brainfuck in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>VU-Programming/copp-skeleton</title>
+    <updated>2023-06-18T01:48:57Z</updated>
+    <id>tag:github.com,2023-06-18:/VU-Programming/copp-skeleton</id>
+    <link href="https://github.com/VU-Programming/copp-skeleton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project Application Development skeleton for C&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

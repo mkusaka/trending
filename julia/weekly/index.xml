@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-18T01:55:47Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bat/BATTestCases.jl</title>
+    <updated>2023-06-18T01:55:47Z</updated>
+    <id>tag:github.com,2023-06-18:/bat/BATTestCases.jl</id>
+    <link href="https://github.com/bat/BATTestCases.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Test cases for BAT.jl and for Bayesian Julia software in general&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mitmath/computational-thinking</title>
+    <updated>2023-06-18T01:55:47Z</updated>
+    <id>tag:github.com,2023-06-18:/mitmath/computational-thinking</id>
+    <link href="https://github.com/mitmath/computational-thinking" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

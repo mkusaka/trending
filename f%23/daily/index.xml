@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-17T01:33:55Z</updated>
+  <updated>2023-06-18T01:34:32Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fsprojects/FSharp.Formatting</title>
+    <updated>2023-06-18T01:34:32Z</updated>
+    <id>tag:github.com,2023-06-18:/fsprojects/FSharp.Formatting</id>
+    <link href="https://github.com/fsprojects/FSharp.Formatting" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;F# tools for generating documentation (Markdown processor and F# code formatter)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;fsdocs and FSharp.Formatting &lt;img src=&#34;https://github.com/fsprojects/FSharp.Formatting/actions/workflows/push-main.yml/badge.svg?sanitize=true&#34; alt=&#34;Build and Test&#34;&gt;&lt;/h1&gt; &#xA;&lt;p&gt;The FSharp.Formatting package includes libraries and tools for processing F# script files, markdown and components for documentation generation. The primary tool is &#34;fsdocs&#34;.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://fsprojects.github.io/FSharp.Formatting/&#34;&gt;https://fsprojects.github.io/FSharp.Formatting/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Development&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;dotnet fsi build.fsx&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Once built, you can run the command-line tool to self-build the docs for this directory using&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;dotnet build&#xA;src\fsdocs-tool\bin\Debug\net6.0\fsdocs.exe watch&#xA;src\fsdocs-tool\bin\Debug\net6.0\fsdocs.exe build --clean&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Maintainer(s)&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/dsyme&#34;&gt;@dsyme&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/baronfel&#34;&gt;@baronfel&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/nhirschey&#34;&gt;@nhirschey&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/nojaf&#34;&gt;@nojaf&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>tpetricek/DeepDives</title>
+    <updated>2023-06-18T01:34:32Z</updated>
+    <id>tag:github.com,2023-06-18:/tpetricek/DeepDives</id>
+    <link href="https://github.com/tpetricek/DeepDives" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;F# DeepDives&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;F# Deep Dives source code&lt;/h1&gt;</summary>
+  </entry>
 </feed>

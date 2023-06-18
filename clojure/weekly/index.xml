@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-18T01:49:55Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>huahaiy/Gibberish-detector</title>
+    <updated>2023-06-18T01:49:55Z</updated>
+    <id>tag:github.com,2023-06-18:/huahaiy/Gibberish-detector</id>
+    <link href="https://github.com/huahaiy/Gibberish-detector" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Detects whether or not a string is gibberish&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>babashka/sci</title>
+    <updated>2023-06-18T01:49:55Z</updated>
+    <id>tag:github.com,2023-06-18:/babashka/sci</id>
+    <link href="https://github.com/babashka/sci" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>htihospitality/re-dash</title>
+    <updated>2023-06-18T01:49:55Z</updated>
+    <id>tag:github.com,2023-06-18:/htihospitality/re-dash</id>
+    <link href="https://github.com/htihospitality/re-dash" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A ClojureDart (re)framework for building user interfaces, leveraging Flutter&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
