@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:45:08Z</updated>
+  <updated>2023-06-19T01:49:13Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UrbanInstitute/affordable-housing-shortage-and-zoning</title>
-    <updated>2023-06-18T01:45:08Z</updated>
-    <id>tag:github.com,2023-06-18:/UrbanInstitute/affordable-housing-shortage-and-zoning</id>
-    <link href="https://github.com/UrbanInstitute/affordable-housing-shortage-and-zoning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>holochain-apps/emergence</title>
+    <updated>2023-06-19T01:49:13Z</updated>
+    <id>tag:github.com,2023-06-19:/holochain-apps/emergence</id>
+    <link href="https://github.com/holochain-apps/emergence" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Holochain hApp for distributed event coordination&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

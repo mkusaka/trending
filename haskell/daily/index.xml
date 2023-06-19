@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:35:48Z</updated>
+  <updated>2023-06-19T01:36:16Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>solomon-b/lambda-calculus-hs</title>
+    <updated>2023-06-19T01:36:16Z</updated>
+    <id>tag:github.com,2023-06-19:/solomon-b/lambda-calculus-hs</id>
+    <link href="https://github.com/solomon-b/lambda-calculus-hs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Single file Lambda Calculus implementations demonstrating various type system features and interpretation techniques&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lambda Calculus Examples&lt;/h1&gt; &#xA;&lt;p&gt;A series of Lambda Calculus implementations starting from Simply Typed evaluation, then work up through bidirectional typechecking, normalization by evaluation, elaboration and then various type system extensions.&lt;/p&gt; &#xA;&lt;p&gt;The goal is to provide best practices examples of all the features you might want to include in your custom language in one place.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; SimplyTypedEvaluation&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; BidirectionalTypechecking&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; NormalizationByEvaluation&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Elaboration&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; TypedHoles&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; SystemT&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Records&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Subtyping&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; Inductive Types (with eliminator based pattern matching)&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Row Polymorphism&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; System F&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; System Omega&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Linear Types&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Case-Trees&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Martin-Lof Type Theory (Pi and Sigma Types)&lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Equality&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

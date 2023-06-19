@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:46:42Z</updated>
+  <updated>2023-06-19T01:50:35Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jpereira/dotfiles</title>
-    <updated>2023-06-18T01:46:42Z</updated>
-    <id>tag:github.com,2023-06-18:/jpereira/dotfiles</id>
-    <link href="https://github.com/jpereira/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My such .dot settings base for my 🐧Linux and Mac stations!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:34:11Z</updated>
+  <updated>2023-06-19T01:33:50Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>elixir-tools/next-ls</title>
-    <updated>2023-06-18T01:34:11Z</updated>
-    <id>tag:github.com,2023-06-18:/elixir-tools/next-ls</id>
-    <link href="https://github.com/elixir-tools/next-ls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimental language server for Elixir. Soon for public usage.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>paraxialio/exploit_guard</title>
-    <updated>2023-06-18T01:34:11Z</updated>
-    <id>tag:github.com,2023-06-18:/paraxialio/exploit_guard</id>
-    <link href="https://github.com/paraxialio/exploit_guard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Runtime application self protection for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TheRealReal/conn_grpc</title>
-    <updated>2023-06-18T01:34:11Z</updated>
-    <id>tag:github.com,2023-06-18:/TheRealReal/conn_grpc</id>
-    <link href="https://github.com/TheRealReal/conn_grpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Persistent channels, and channel pools for gRPC Elixir.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:30:04Z</updated>
+  <updated>2023-06-19T01:29:36Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mhadidg/software-architecture-books</title>
-    <updated>2023-06-18T01:30:04Z</updated>
-    <id>tag:github.com,2023-06-18:/mhadidg/software-architecture-books</id>
-    <link href="https://github.com/mhadidg/software-architecture-books" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A comprehensive list of books on Software Architecture.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>RManLuo/Awesome-LLM-KG</title>
+    <updated>2023-06-19T01:29:36Z</updated>
+    <id>tag:github.com,2023-06-19:/RManLuo/Awesome-LLM-KG</id>
+    <link href="https://github.com/RManLuo/Awesome-LLM-KG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Awesome papers about unifying LLMs and KGs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>UltimateSec/ultimaste-nuclei-templates</title>
-    <updated>2023-06-18T01:30:04Z</updated>
-    <id>tag:github.com,2023-06-18:/UltimateSec/ultimaste-nuclei-templates</id>
-    <link href="https://github.com/UltimateSec/ultimaste-nuclei-templates" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;极致攻防实验室 nuclei 检测 POC&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aiboboxx/v2rayfree</title>
+    <updated>2023-06-19T01:29:36Z</updated>
+    <id>tag:github.com,2023-06-19:/aiboboxx/v2rayfree</id>
+    <link href="https://github.com/aiboboxx/v2rayfree" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;v2ray公益免费节点、最新2ray免费v节点订阅地址、v2ray免费节点每日更新、免费ss/v2ray/trojan节点、freefq&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>majinqiawa/xxn</title>
-    <updated>2023-06-18T01:30:04Z</updated>
-    <id>tag:github.com,2023-06-18:/majinqiawa/xxn</id>
-    <link href="https://github.com/majinqiawa/xxn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;存储中国大陆各类小仙女案件，欢迎补充（Store all kinds of fairy cases in mainland China, welcome to add）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>thecybertix/One-Liner-Collections</title>
+    <updated>2023-06-19T01:29:36Z</updated>
+    <id>tag:github.com,2023-06-19:/thecybertix/One-Liner-Collections</id>
+    <link href="https://github.com/thecybertix/One-Liner-Collections" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This Repositories contains list of One Liners with Descriptions and Installation requirements&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

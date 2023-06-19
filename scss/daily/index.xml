@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:44:04Z</updated>
+  <updated>2023-06-19T01:48:04Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zennomi/truyendex</title>
-    <updated>2023-06-18T01:44:04Z</updated>
-    <id>tag:github.com,2023-06-18:/zennomi/truyendex</id>
-    <link href="https://github.com/zennomi/truyendex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MangaDex + NetTruyen&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>deepthan/blog-angular</title>
-    <updated>2023-06-18T01:44:04Z</updated>
-    <id>tag:github.com,2023-06-18:/deepthan/blog-angular</id>
-    <link href="https://github.com/deepthan/blog-angular" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Angular 笔记&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>przemec/Novum</title>
-    <updated>2023-06-18T01:44:04Z</updated>
-    <id>tag:github.com,2023-06-18:/przemec/Novum</id>
-    <link href="https://github.com/przemec/Novum" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Red galaxy Discord theme enhanced with couple of addons and small features.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

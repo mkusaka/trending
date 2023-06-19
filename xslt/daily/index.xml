@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:47:21Z</updated>
+  <updated>2023-06-19T01:51:18Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ZUGFeRD/mustangproject</title>
+    <updated>2023-06-19T01:51:18Z</updated>
+    <id>tag:github.com,2023-06-19:/ZUGFeRD/mustangproject</id>
+    <link href="https://github.com/ZUGFeRD/mustangproject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Mustangproject&lt;/h1&gt; &#xA;&lt;p&gt;Source code repository for the &lt;a href=&#34;http://www.mustangproject.org/&#34;&gt;Mustang project&lt;/a&gt; open source java PDF invoice metadata library in ZUGFeRD format.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Subject to the Apache license &lt;a href=&#34;http://www.apache.org/licenses/LICENSE-2.0.html&#34;&gt;http://www.apache.org/licenses/LICENSE-2.0.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Running&lt;/h2&gt; &#xA;&lt;p&gt;This project requires Maven to run. Build project with &#34;mvn clean install&#34;. This will build the project, test it and install the artifacts to local cache. After that the mustang jar can be used.&lt;/p&gt; &#xA;&lt;p&gt;More information in &lt;a href=&#34;https://github.com/ZUGFeRD/mustangproject/raw/master/doc/ZugferdDev.en.pdf?raw=true&#34;&gt;the mustang documentation&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;If you setup a Maven project, you can grab the artifacts using&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-xml&#34;&gt;&amp;lt;dependency&amp;gt;&#xA;  &amp;lt;groupId&amp;gt;org.mustangproject&amp;lt;/groupId&amp;gt;&#xA;  &amp;lt;artifactId&amp;gt;library&amp;lt;/artifactId&amp;gt;&#xA; &amp;lt;version&amp;gt;2.6.1&amp;lt;/version&amp;gt;&#xA;&amp;lt;/dependency&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Contact&lt;/h2&gt; &#xA;&lt;p&gt;Developer: Jochen Stärk. For questions please contact Jochen at jstaerk [at] usegroup.de&lt;/p&gt;</summary>
+  </entry>
 </feed>

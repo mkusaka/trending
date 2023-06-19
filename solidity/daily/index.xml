@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:44:42Z</updated>
+  <updated>2023-06-19T01:48:46Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ind-igo/forge-safe</title>
-    <updated>2023-06-18T01:44:42Z</updated>
-    <id>tag:github.com,2023-06-18:/ind-igo/forge-safe</id>
-    <link href="https://github.com/ind-igo/forge-safe" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>enochmaroko1/Mev-Bot</title>
+    <updated>2023-06-19T01:48:46Z</updated>
+    <id>tag:github.com,2023-06-19:/enochmaroko1/Mev-Bot</id>
+    <link href="https://github.com/enochmaroko1/Mev-Bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MEV (MevBot) is a cryptocurrency bot that scans the mempool for profitable unconfirmed transactions and executes buy/sell operations accordingly.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ava-labs/wrapped-assets</title>
+    <updated>2023-06-19T01:48:46Z</updated>
+    <id>tag:github.com,2023-06-19:/ava-labs/wrapped-assets</id>
+    <link href="https://github.com/ava-labs/wrapped-assets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smart Contract for Wrapped AVAX&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub KiCad Schematic Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:38:01Z</updated>
+  <updated>2023-06-19T01:40:19Z</updated>
   <subtitle>Daily Trending of KiCad Schematic in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>rgalland/SNES_S-CPU_Schematics</title>
-    <updated>2023-06-18T01:38:01Z</updated>
-    <id>tag:github.com,2023-06-18:/rgalland/SNES_S-CPU_Schematics</id>
-    <link href="https://github.com/rgalland/SNES_S-CPU_Schematics" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse engineering of the SNES CPU from dies shots&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

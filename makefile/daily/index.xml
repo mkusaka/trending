@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-18T01:38:55Z</updated>
+  <updated>2023-06-19T01:41:48Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>danielpinto8zz6/c-cpp-project-generator</title>
-    <updated>2023-06-18T01:38:55Z</updated>
-    <id>tag:github.com,2023-06-18:/danielpinto8zz6/c-cpp-project-generator</id>
-    <link href="https://github.com/danielpinto8zz6/c-cpp-project-generator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📂 Create C/C++ projects on vscode&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
