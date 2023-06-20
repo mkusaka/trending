@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-19T01:36:56Z</updated>
+  <updated>2023-06-20T01:40:03Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>apna-college/Delta</title>
+    <updated>2023-06-20T01:40:03Z</updated>
+    <id>tag:github.com,2023-06-20:/apna-college/Delta</id>
+    <link href="https://github.com/apna-college/Delta" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Delta&lt;/h1&gt; &#xA;&lt;h2&gt;Please use this repo to download your in-class starter codes.&lt;/h2&gt;</summary>
+  </entry>
 </feed>

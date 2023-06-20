@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-19T01:32:33Z</updated>
+  <updated>2023-06-20T01:35:21Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ingonyama-zk/ingo-gpu-challenge</title>
+    <updated>2023-06-20T01:35:21Z</updated>
+    <id>tag:github.com,2023-06-20:/ingonyama-zk/ingo-gpu-challenge</id>
+    <link href="https://github.com/ingonyama-zk/ingo-gpu-challenge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

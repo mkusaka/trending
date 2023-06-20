@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-19T01:42:07Z</updated>
+  <updated>2023-06-20T01:43:42Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dbekaert/StaMPS</title>
-    <updated>2023-06-19T01:42:07Z</updated>
-    <id>tag:github.com,2023-06-19:/dbekaert/StaMPS</id>
-    <link href="https://github.com/dbekaert/StaMPS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stanford Method for Persistent Scatterers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>daniera3/matlab</title>
-    <updated>2023-06-19T01:42:07Z</updated>
-    <id>tag:github.com,2023-06-19:/daniera3/matlab</id>
-    <link href="https://github.com/daniera3/matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

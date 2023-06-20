@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-19T01:29:36Z</updated>
+  <updated>2023-06-20T01:29:50Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>RManLuo/Awesome-LLM-KG</title>
-    <updated>2023-06-19T01:29:36Z</updated>
-    <id>tag:github.com,2023-06-19:/RManLuo/Awesome-LLM-KG</id>
-    <link href="https://github.com/RManLuo/Awesome-LLM-KG" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome papers about unifying LLMs and KGs&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>garyvalue/chatgpt-business</title>
+    <updated>2023-06-20T01:29:50Z</updated>
+    <id>tag:github.com,2023-06-20:/garyvalue/chatgpt-business</id>
+    <link href="https://github.com/garyvalue/chatgpt-business" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;已汇总34个Chatgpt商业版及提供更多的变现方式&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>aiboboxx/v2rayfree</title>
-    <updated>2023-06-19T01:29:36Z</updated>
-    <id>tag:github.com,2023-06-19:/aiboboxx/v2rayfree</id>
-    <link href="https://github.com/aiboboxx/v2rayfree" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;v2ray公益免费节点、最新2ray免费v节点订阅地址、v2ray免费节点每日更新、免费ss/v2ray/trojan节点、freefq&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>google/dynibar</title>
+    <updated>2023-06-20T01:29:50Z</updated>
+    <id>tag:github.com,2023-06-20:/google/dynibar</id>
+    <link href="https://github.com/google/dynibar" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>thecybertix/One-Liner-Collections</title>
-    <updated>2023-06-19T01:29:36Z</updated>
-    <id>tag:github.com,2023-06-19:/thecybertix/One-Liner-Collections</id>
-    <link href="https://github.com/thecybertix/One-Liner-Collections" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This Repositories contains list of One Liners with Descriptions and Installation requirements&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>yeyintminthuhtut/Awesome-Red-Teaming</title>
+    <updated>2023-06-20T01:29:50Z</updated>
+    <id>tag:github.com,2023-06-20:/yeyintminthuhtut/Awesome-Red-Teaming</id>
+    <link href="https://github.com/yeyintminthuhtut/Awesome-Red-Teaming" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Awesome Red Teaming Resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

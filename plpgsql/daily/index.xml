@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-19T01:45:13Z</updated>
+  <updated>2023-06-20T01:46:33Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>supabase-community/supabase-graphql-example</title>
-    <updated>2023-06-19T01:45:13Z</updated>
-    <id>tag:github.com,2023-06-19:/supabase-community/supabase-graphql-example</id>
-    <link href="https://github.com/supabase-community/supabase-graphql-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A HackerNews-like clone built with Supabase and pg_graphql&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

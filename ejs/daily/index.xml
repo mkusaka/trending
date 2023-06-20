@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-19T01:33:47Z</updated>
+  <updated>2023-06-20T01:37:06Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sailscastshq/boring-stack</title>
+    <updated>2023-06-20T01:37:06Z</updated>
+    <id>tag:github.com,2023-06-20:/sailscastshq/boring-stack</id>
+    <link href="https://github.com/sailscastshq/boring-stack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Boring JavaScript Stack 🥱: Ship products reliably with battle-tested technologies across the stack, without the hassle of chasing shiny trends in JavaScript land.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

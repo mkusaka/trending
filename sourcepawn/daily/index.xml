@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SourcePawn Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-19T01:48:42Z</updated>
+  <updated>2023-06-20T01:50:18Z</updated>
   <subtitle>Daily Trending of SourcePawn in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>devilesk/rl4d2l-plugins</title>
+    <updated>2023-06-20T01:50:18Z</updated>
+    <id>tag:github.com,2023-06-20:/devilesk/rl4d2l-plugins</id>
+    <link href="https://github.com/devilesk/rl4d2l-plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RL4D2L sourcemod plugins&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
