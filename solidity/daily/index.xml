@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-20T01:50:21Z</updated>
+  <updated>2023-06-21T01:44:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Philogy/singleton-swapper</title>
-    <updated>2023-06-20T01:50:21Z</updated>
-    <id>tag:github.com,2023-06-20:/Philogy/singleton-swapper</id>
-    <link href="https://github.com/Philogy/singleton-swapper" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>khrigo/bep20-smartcontract</title>
+    <updated>2023-06-21T01:44:35Z</updated>
+    <id>tag:github.com,2023-06-21:/khrigo/bep20-smartcontract</id>
+    <link href="https://github.com/khrigo/bep20-smartcontract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple smart contract builded on BEP-20 network&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>devtooligan/HookMineAndSinker</title>
+    <updated>2023-06-21T01:44:35Z</updated>
+    <id>tag:github.com,2023-06-21:/devtooligan/HookMineAndSinker</id>
+    <link href="https://github.com/devtooligan/HookMineAndSinker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mine addresses for UniswapV4 Hooks&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

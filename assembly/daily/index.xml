@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-20T01:31:22Z</updated>
+  <updated>2023-06-21T01:30:15Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Dimsmary/OpenSTM</title>
-    <updated>2023-06-20T01:31:22Z</updated>
-    <id>tag:github.com,2023-06-20:/Dimsmary/OpenSTM</id>
-    <link href="https://github.com/Dimsmary/OpenSTM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Scanning Tunneling Microscope Project&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TopazTK/ReFined-Patches</title>
+    <updated>2023-06-21T01:30:15Z</updated>
+    <id>tag:github.com,2023-06-21:/TopazTK/ReFined-Patches</id>
+    <link href="https://github.com/TopazTK/ReFined-Patches" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of ROM Patches for the Re:Fined Project.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Fare9/Windows-Internals</title>
-    <updated>2023-06-20T01:31:22Z</updated>
-    <id>tag:github.com,2023-06-20:/Fare9/Windows-Internals</id>
-    <link href="https://github.com/Fare9/Windows-Internals" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My repository to upload drivers from different books and all the information related to windows internals.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>v420v/vas</title>
+    <updated>2023-06-21T01:30:15Z</updated>
+    <id>tag:github.com,2023-06-21:/v420v/vas</id>
+    <link href="https://github.com/v420v/vas" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Self-hosted x86-64 Assembler written in V&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>z88dk/z88dk</title>
+    <updated>2023-06-21T01:30:15Z</updated>
+    <id>tag:github.com,2023-06-21:/z88dk/z88dk</id>
+    <link href="https://github.com/z88dk/z88dk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

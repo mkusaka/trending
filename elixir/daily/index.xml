@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-20T01:37:09Z</updated>
+  <updated>2023-06-21T01:33:50Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>akash-akya/ex_cmd</title>
-    <updated>2023-06-20T01:37:09Z</updated>
-    <id>tag:github.com,2023-06-20:/akash-akya/ex_cmd</id>
-    <link href="https://github.com/akash-akya/ex_cmd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ExCmd is an Elixir library to run external programs and to communicate with back pressure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>daryllxd/lifelong-learning</title>
-    <updated>2023-06-20T01:37:09Z</updated>
-    <id>tag:github.com,2023-06-20:/daryllxd/lifelong-learning</id>
-    <link href="https://github.com/daryllxd/lifelong-learning" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

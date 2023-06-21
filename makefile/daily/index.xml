@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-20T01:43:30Z</updated>
+  <updated>2023-06-21T01:38:52Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>deadloko/imx6_devices</title>
-    <updated>2023-06-20T01:43:30Z</updated>
-    <id>tag:github.com,2023-06-20:/deadloko/imx6_devices</id>
-    <link href="https://github.com/deadloko/imx6_devices" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lh3/ref-gen</title>
+    <updated>2023-06-21T01:38:52Z</updated>
+    <id>tag:github.com,2023-06-21:/lh3/ref-gen</id>
+    <link href="https://github.com/lh3/ref-gen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Human reference genome analysis sets&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lineage-redwood/android_device_xiaomi_redwood</title>
-    <updated>2023-06-20T01:43:30Z</updated>
-    <id>tag:github.com,2023-06-20:/lineage-redwood/android_device_xiaomi_redwood</id>
-    <link href="https://github.com/lineage-redwood/android_device_xiaomi_redwood" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>lineage-redwood/android_vendor_xiaomi_sm7325-common</title>
-    <updated>2023-06-20T01:43:30Z</updated>
-    <id>tag:github.com,2023-06-20:/lineage-redwood/android_vendor_xiaomi_sm7325-common</id>
-    <link href="https://github.com/lineage-redwood/android_vendor_xiaomi_sm7325-common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pandodao/pando-protos</title>
+    <updated>2023-06-21T01:38:52Z</updated>
+    <id>tag:github.com,2023-06-21:/pandodao/pando-protos</id>
+    <link href="https://github.com/pandodao/pando-protos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protobuf definitions of Pando services.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

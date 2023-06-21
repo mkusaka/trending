@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-20T01:52:42Z</updated>
+  <updated>2023-06-21T01:46:32Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bellingcat/osm-search</title>
-    <updated>2023-06-20T01:52:42Z</updated>
-    <id>tag:github.com,2023-06-20:/bellingcat/osm-search</id>
-    <link href="https://github.com/bellingcat/osm-search" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A user friendly way to search OpenStreetMap data for features in proximity to each other.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dingyong0214/ThorUI-uniapp</title>
-    <updated>2023-06-20T01:52:42Z</updated>
-    <id>tag:github.com,2023-06-20:/dingyong0214/ThorUI-uniapp</id>
-    <link href="https://github.com/dingyong0214/ThorUI-uniapp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ThorUI组件库，轻量、简洁的移动端组件库。组件文档地址：https://thorui.cn/doc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>geeeeeeeek/python_video</title>
+    <updated>2023-06-21T01:46:32Z</updated>
+    <id>tag:github.com,2023-06-21:/geeeeeeeek/python_video</id>
+    <link href="https://github.com/geeeeeeeek/python_video" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于python的视频点播网站，视频点播系统。 python+django+vue搭建的视频点播平台&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

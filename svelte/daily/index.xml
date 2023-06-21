@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-20T01:50:50Z</updated>
+  <updated>2023-06-21T01:45:00Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ando818/lemmy-ui-svelte</title>
-    <updated>2023-06-20T01:50:50Z</updated>
-    <id>tag:github.com,2023-06-20:/ando818/lemmy-ui-svelte</id>
-    <link href="https://github.com/ando818/lemmy-ui-svelte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A UI for Lemmy written in Svelte&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

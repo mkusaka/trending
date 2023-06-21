@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PostScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-20T01:46:43Z</updated>
+  <updated>2023-06-21T01:41:34Z</updated>
   <subtitle>Daily Trending of PostScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>digwuren/pixitie</title>
-    <updated>2023-06-20T01:46:43Z</updated>
-    <id>tag:github.com,2023-06-20:/digwuren/pixitie</id>
-    <link href="https://github.com/digwuren/pixitie" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pixitie converts bitmap fonts into PostScript Type 3 fonts, applies dot matrix printer style font synthesis mechanisms if requested, and typesets text as a PostScript document using the resulting fonts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

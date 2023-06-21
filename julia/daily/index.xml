@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-20T01:42:01Z</updated>
+  <updated>2023-06-21T01:37:31Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JuliaCI/BenchmarkTools.jl</title>
-    <updated>2023-06-20T01:42:01Z</updated>
-    <id>tag:github.com,2023-06-20:/JuliaCI/BenchmarkTools.jl</id>
-    <link href="https://github.com/JuliaCI/BenchmarkTools.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A benchmarking framework for the Julia language&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TuringLang/SSMProblems.jl</title>
+    <updated>2023-06-21T01:37:31Z</updated>
+    <id>tag:github.com,2023-06-21:/TuringLang/SSMProblems.jl</id>
+    <link href="https://github.com/TuringLang/SSMProblems.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Abstractions for state-space models&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TNO/scaling-res-profiles</title>
-    <updated>2023-06-20T01:42:01Z</updated>
-    <id>tag:github.com,2023-06-20:/TNO/scaling-res-profiles</id>
-    <link href="https://github.com/TNO/scaling-res-profiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ODINN-SciML/ODINN.jl</title>
+    <updated>2023-06-21T01:37:31Z</updated>
+    <id>tag:github.com,2023-06-21:/ODINN-SciML/ODINN.jl</id>
+    <link href="https://github.com/ODINN-SciML/ODINN.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Global glacier model using Universal Differential Equations for climate-glacier interactions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
