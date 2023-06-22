@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AutoHotkey Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:30:19Z</updated>
+  <updated>2023-06-22T01:31:32Z</updated>
   <subtitle>Daily Trending of AutoHotkey in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>slawrence/config</title>
-    <updated>2023-06-21T01:30:19Z</updated>
-    <id>tag:github.com,2023-06-21:/slawrence/config</id>
-    <link href="https://github.com/slawrence/config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Miscellaneous config files&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>changyuheng/windows-photo-viewer-mouse-plug-in</title>
+    <updated>2023-06-22T01:31:32Z</updated>
+    <id>tag:github.com,2023-06-22:/changyuheng/windows-photo-viewer-mouse-plug-in</id>
+    <link href="https://github.com/changyuheng/windows-photo-viewer-mouse-plug-in" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

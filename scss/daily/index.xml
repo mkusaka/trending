@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:43:55Z</updated>
+  <updated>2023-06-22T01:48:25Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Nerin3/cyoa</title>
-    <updated>2023-06-21T01:43:55Z</updated>
-    <id>tag:github.com,2023-06-21:/Nerin3/cyoa</id>
-    <link href="https://github.com/Nerin3/cyoa" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repository for my CYOA App code, browse if you dare. You can use this code to create your own HTML cyoas if you want.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

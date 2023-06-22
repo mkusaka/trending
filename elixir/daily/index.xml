@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:33:50Z</updated>
+  <updated>2023-06-22T01:36:46Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>beyond-all-reason/teiserver</title>
+    <updated>2023-06-22T01:36:46Z</updated>
+    <id>tag:github.com,2023-06-22:/beyond-all-reason/teiserver</id>
+    <link href="https://github.com/beyond-all-reason/teiserver" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Middleware server for online gaming&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

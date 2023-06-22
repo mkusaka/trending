@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Eagle Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:33:33Z</updated>
+  <updated>2023-06-22T01:36:25Z</updated>
   <subtitle>Daily Trending of Eagle in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>esean/Logomatic_v2_Serial_SD_Datalogger</title>
+    <updated>2023-06-22T01:36:25Z</updated>
+    <id>tag:github.com,2023-06-22:/esean/Logomatic_v2_Serial_SD_Datalogger</id>
+    <link href="https://github.com/esean/Logomatic_v2_Serial_SD_Datalogger" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Logomatic v2 Serial SD Datalogger using LPC2148 (ARM7TDMI 32bit RISC)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

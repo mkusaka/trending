@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:41:41Z</updated>
+  <updated>2023-06-22T01:45:41Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aaronparker/apptracker</title>
-    <updated>2023-06-21T01:41:41Z</updated>
-    <id>tag:github.com,2023-06-21:/aaronparker/apptracker</id>
-    <link href="https://github.com/aaronparker/apptracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Uses Evergreen to query for application version updates and store the result in JSON&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;App Tracker&lt;/h1&gt; &#xA;&lt;p&gt;An application version tracker that uses &lt;a href=&#34;https://stealthpuppy.com/evergreen&#34;&gt;Evergreen&lt;/a&gt; to query for application version updates and store the result in JSON format.&lt;/p&gt; &#xA;&lt;p&gt;A workflow is run every 8-hours to retrieve available updates and commit changes to this repository.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/aaronparker/apptracker/actions/workflows/update-json.yml&#34;&gt;&lt;img src=&#34;https://github.com/aaronparker/apptracker/actions/workflows/update-json.yml/badge.svg?branch=main&amp;amp;event=schedule&#34; alt=&#34;update-json&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>psconfeu/2023</title>
+    <updated>2023-06-22T01:45:41Z</updated>
+    <id>tag:github.com,2023-06-22:/psconfeu/2023</id>
+    <link href="https://github.com/psconfeu/2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;PSConfEU 2023 files &amp; sessions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;2023&lt;/h1&gt; &#xA;&lt;p&gt;PSConfEU 2023 files &amp;amp; sessions&lt;/p&gt;</summary>
   </entry>
 </feed>

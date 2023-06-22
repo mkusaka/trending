@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:35:35Z</updated>
+  <updated>2023-06-22T01:39:01Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>adamwalker/fpga-kvs</title>
+    <updated>2023-06-22T01:39:01Z</updated>
+    <id>tag:github.com,2023-06-22:/adamwalker/fpga-kvs</id>
+    <link href="https://github.com/adamwalker/fpga-kvs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A networked FPGA key-value store written in Clash&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FPGA key-value store&lt;/h1&gt; &#xA;&lt;p&gt;An FPGA based networked key-value store. Responds to requests to lookup/insert/delete key-value pairs via a simple UDP based protocol.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://adamwalker.github.io/Building-FPGA-KVS/&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Implemented in &lt;a href=&#34;https://clash-lang.org/&#34;&gt;Clash&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Runs on the &lt;a href=&#34;https://store.digilentinc.com/arty-a7-artix-7-fpga-development-board-for-makers-and-hobbyists/&#34;&gt;Arty board&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Build&lt;/h2&gt; &#xA;&lt;p&gt;Make sure Vivado is in your path, then&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ ./build.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;p&gt;Program the image onto the FPGA using the Vivado hardware manager, then&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ sudo ./setup_net.sh &amp;lt;network interface connected to the fpga&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Test&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cd test&#xA;$ make&#xA;$ ./test&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>apolishch/HaskellFuckery</title>
+    <updated>2023-06-22T01:39:01Z</updated>
+    <id>tag:github.com,2023-06-22:/apolishch/HaskellFuckery</id>
+    <link href="https://github.com/apolishch/HaskellFuckery" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Euler problems in Haskell&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

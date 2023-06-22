@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:30:28Z</updated>
+  <updated>2023-06-22T01:31:49Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dspflash/mes_trace</title>
-    <updated>2023-06-21T01:30:28Z</updated>
-    <id>tag:github.com,2023-06-21:/dspflash/mes_trace</id>
-    <link href="https://github.com/dspflash/mes_trace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;条码/二维码/RFID 产品品质溯源系统, 采购收货、生产扫描、完工入库、报废、销售出货等全流程质量追溯，扫描输入近0输入，简单快捷，仅依赖于3UCS xPlus与Mysql，提供手机客户端、电脑客户端、网页访问，部署简单方便，个性化开发定制简单快捷。Mes Trace(barcode,rfid), depend on xPlus. User can Use Mobile Client、PC Client、Browser to Acess the sevice!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dubuqingfeng/ollydbg-script</title>
-    <updated>2023-06-21T01:30:28Z</updated>
-    <id>tag:github.com,2023-06-21:/dubuqingfeng/ollydbg-script</id>
-    <link href="https://github.com/dubuqingfeng/ollydbg-script" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;some ollydbg scripts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AveYo/ShowMMR</title>
-    <updated>2023-06-21T01:30:28Z</updated>
-    <id>tag:github.com,2023-06-21:/AveYo/ShowMMR</id>
-    <link href="https://github.com/AveYo/ShowMMR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a DOTA dashboard mod to bring back the mmr numbers now that rank changes are variable&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

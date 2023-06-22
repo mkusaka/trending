@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:44:30Z</updated>
+  <updated>2023-06-22T01:49:10Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ministryofjustice/laa-crime-hardship</title>
-    <updated>2023-06-21T01:44:30Z</updated>
-    <id>tag:github.com,2023-06-21:/ministryofjustice/laa-crime-hardship</id>
-    <link href="https://github.com/ministryofjustice/laa-crime-hardship" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>komodorio/helm-charts</title>
+    <updated>2023-06-22T01:49:10Z</updated>
+    <id>tag:github.com,2023-06-22:/komodorio/helm-charts</id>
+    <link href="https://github.com/komodorio/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Komodor.io public helm charts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ArunMagi/sample-html-docker-application</title>
-    <updated>2023-06-21T01:44:30Z</updated>
-    <id>tag:github.com,2023-06-21:/ArunMagi/sample-html-docker-application</id>
-    <link href="https://github.com/ArunMagi/sample-html-docker-application" rel="alternate"></link>
+    <title>ministryofjustice/mpc-prototype</title>
+    <updated>2023-06-22T01:49:10Z</updated>
+    <id>tag:github.com,2023-06-22:/ministryofjustice/mpc-prototype</id>
+    <link href="https://github.com/ministryofjustice/mpc-prototype" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

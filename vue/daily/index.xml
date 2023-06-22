@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-21T01:46:32Z</updated>
+  <updated>2023-06-22T01:51:46Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>geeeeeeeek/python_video</title>
-    <updated>2023-06-21T01:46:32Z</updated>
-    <id>tag:github.com,2023-06-21:/geeeeeeeek/python_video</id>
-    <link href="https://github.com/geeeeeeeek/python_video" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;基于python的视频点播网站，视频点播系统。 python+django+vue搭建的视频点播平台&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blacktunes/sr-message-maker</title>
+    <updated>2023-06-22T01:51:46Z</updated>
+    <id>tag:github.com,2023-06-22:/blacktunes/sr-message-maker</id>
+    <link href="https://github.com/blacktunes/sr-message-maker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;星穹铁道短信生成器&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>potato47/ccc-devtools</title>
+    <updated>2023-06-22T01:51:46Z</updated>
+    <id>tag:github.com,2023-06-22:/potato47/ccc-devtools</id>
+    <link href="https://github.com/potato47/ccc-devtools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cocos Creator 网页调试工具，运行时查看、修改节点树，实时更新节点属性，可视化显示缓存资源。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
