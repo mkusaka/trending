@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:34:28Z</updated>
+  <updated>2023-06-23T01:33:29Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>renatoathaydes/lisp-site-gen</title>
+    <updated>2023-06-23T01:33:29Z</updated>
+    <id>tag:github.com,2023-06-23:/renatoathaydes/lisp-site-gen</id>
+    <link href="https://github.com/renatoathaydes/lisp-site-gen" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common Lisp-based static website generator&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lisp Static Site Generator&lt;/h1&gt; &#xA;&lt;p&gt;This is a Common Lisp System, &lt;code&gt;lisp-site-gen&lt;/code&gt;, which provides two packages:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;md-parser&lt;/code&gt; - Markdown Parser&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;site-gen&lt;/code&gt; - Static Site Generator&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The &lt;code&gt;site-gen&lt;/code&gt; package can be used to generate a static website from markdown and HTML files.&lt;/p&gt; &#xA;&lt;p&gt;The &lt;code&gt;md-parser&lt;/code&gt; package is used by &lt;code&gt;site-gen&lt;/code&gt; to parse markdown, but can also be used separately.&lt;/p&gt;</summary>
+  </entry>
 </feed>

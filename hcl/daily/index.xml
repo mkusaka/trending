@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:39:00Z</updated>
+  <updated>2023-06-23T01:37:19Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GoogleCloudPlatform/hpc-toolkit</title>
-    <updated>2023-06-22T01:39:00Z</updated>
-    <id>tag:github.com,2023-06-22:/GoogleCloudPlatform/hpc-toolkit</id>
-    <link href="https://github.com/GoogleCloudPlatform/hpc-toolkit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cloud HPC Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy HPC environments on Google Cloud.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

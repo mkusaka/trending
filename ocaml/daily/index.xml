@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:44:17Z</updated>
+  <updated>2023-06-23T01:43:08Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dylibso/wasmstore</title>
-    <updated>2023-06-22T01:44:17Z</updated>
-    <id>tag:github.com,2023-06-22:/dylibso/wasmstore</id>
-    <link href="https://github.com/dylibso/wasmstore" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A content-addressable datastore for WebAssembly modules&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>c-cube/ocaml-containers</title>
+    <updated>2023-06-23T01:43:08Z</updated>
+    <id>tag:github.com,2023-06-23:/c-cube/ocaml-containers</id>
+    <link href="https://github.com/c-cube/ocaml-containers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lightweight, modular standard library extension, string library, and interfaces to various libraries (unix, threads, etc.) BSD license.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>tsoding/simple-ocaml-raylib-template</title>
-    <updated>2023-06-22T01:44:17Z</updated>
-    <id>tag:github.com,2023-06-22:/tsoding/simple-ocaml-raylib-template</id>
-    <link href="https://github.com/tsoding/simple-ocaml-raylib-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Intentionally Simple Raylib OCaml Template&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ocaml-community/utop</title>
+    <updated>2023-06-23T01:43:08Z</updated>
+    <id>tag:github.com,2023-06-23:/ocaml-community/utop</id>
+    <link href="https://github.com/ocaml-community/utop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Universal toplevel for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

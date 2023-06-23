@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:39:01Z</updated>
+  <updated>2023-06-23T01:37:25Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>adamwalker/fpga-kvs</title>
-    <updated>2023-06-22T01:39:01Z</updated>
-    <id>tag:github.com,2023-06-22:/adamwalker/fpga-kvs</id>
-    <link href="https://github.com/adamwalker/fpga-kvs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A networked FPGA key-value store written in Clash&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FPGA key-value store&lt;/h1&gt; &#xA;&lt;p&gt;An FPGA based networked key-value store. Responds to requests to lookup/insert/delete key-value pairs via a simple UDP based protocol.&lt;/p&gt; &#xA;&lt;p&gt;See the &lt;a href=&#34;https://adamwalker.github.io/Building-FPGA-KVS/&#34;&gt;blog post&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Implemented in &lt;a href=&#34;https://clash-lang.org/&#34;&gt;Clash&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;Runs on the &lt;a href=&#34;https://store.digilentinc.com/arty-a7-artix-7-fpga-development-board-for-makers-and-hobbyists/&#34;&gt;Arty board&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Build&lt;/h2&gt; &#xA;&lt;p&gt;Make sure Vivado is in your path, then&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ ./build.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Setup&lt;/h2&gt; &#xA;&lt;p&gt;Program the image onto the FPGA using the Vivado hardware manager, then&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ sudo ./setup_net.sh &amp;lt;network interface connected to the fpga&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Test&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ cd test&#xA;$ make&#xA;$ ./test&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>hirschenberger/ScratchFS</title>
+    <updated>2023-06-23T01:37:25Z</updated>
+    <id>tag:github.com,2023-06-23:/hirschenberger/ScratchFS</id>
+    <link href="https://github.com/hirschenberger/ScratchFS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Size limited temp filesystem based on fuse&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ScratchFS - Size limited filesystem&lt;/h1&gt; &#xA;&lt;p&gt;ScratchFS is a FUSE-based filesystem which provides a size-limited directory tree. When the filesystem is mounted, the user provides a maximum size the target directory and all it&#39;s subdirectories may get. All IO operations in the mountdirectory are tracked and the oldest files in the watchdirectory get deleted automatically.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;ScratchFs {-s|--size} SIZE WATCHDIR MOUNTDIR&#xA; -s SIZE  --size=SIZE  The maximum size in kilobytes (allowed extensions: MB, GB, TB)&#xA; -h       --help       Show help message&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://travis-ci.org/hirschenberger/ScratchFS&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/hirschenberger/ScratchFS.png&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;&lt;strong&gt;CAUTION&lt;/strong&gt;&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;Don&#39;t use ScratchFS with important files or mount important directories, you may loose your data.&lt;/strong&gt;&lt;/p&gt;</summary>
   </entry>
   <entry>
-    <title>apolishch/HaskellFuckery</title>
-    <updated>2023-06-22T01:39:01Z</updated>
-    <id>tag:github.com,2023-06-22:/apolishch/HaskellFuckery</id>
-    <link href="https://github.com/apolishch/HaskellFuckery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Euler problems in Haskell&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>YoshikuniJujo/cakyrespa</title>
+    <updated>2023-06-23T01:37:25Z</updated>
+    <id>tag:github.com,2023-06-23:/YoshikuniJujo/cakyrespa</id>
+    <link href="https://github.com/YoshikuniJujo/cakyrespa" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Run Turtle like LOGO with lojban&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pbrandwijk/chronorder</title>
+    <updated>2023-06-23T01:37:25Z</updated>
+    <id>tag:github.com,2023-06-23:/pbrandwijk/chronorder</id>
+    <link href="https://github.com/pbrandwijk/chronorder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A utility to rename files in chronological order&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Chronorder is a file renaming program.&lt;/p&gt; &#xA;&lt;p&gt;Its default behavior is to sort the files in the current directory in ascending chronological order (oldest first). Every file gets an index number prepended to it. This assures that the alphabetical order of the files matches the chronological order.&lt;/p&gt; &#xA;&lt;p&gt;A use case for the program is for example a directory containing pictures of some event taken by different cameras. The alphabetical order of the pictures can then be matched with the chronological order using this program.&lt;/p&gt; &#xA;&lt;p&gt;Keep in mind that this program alters the actual file names on disk. After confirming the safety question there is no automatic way to undo the changes, only manually.&lt;/p&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:40:54Z</updated>
+  <updated>2023-06-23T01:39:40Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PumasAI-Labs/NLME-Intermediate</title>
-    <updated>2023-06-22T01:40:54Z</updated>
-    <id>tag:github.com,2023-06-22:/PumasAI-Labs/NLME-Intermediate</id>
-    <link href="https://github.com/PumasAI-Labs/NLME-Intermediate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Template for Pumas NLME Covariates, Dose Control Parameters, and PKPD Indirect Response Models Workshop&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>nathanaelbosch/ProbNumDiffEq.jl</title>
-    <updated>2023-06-22T01:40:54Z</updated>
-    <id>tag:github.com,2023-06-22:/nathanaelbosch/ProbNumDiffEq.jl</id>
-    <link href="https://github.com/nathanaelbosch/ProbNumDiffEq.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaGraphs/GraphsBase.jl</title>
+    <updated>2023-06-23T01:39:40Z</updated>
+    <id>tag:github.com,2023-06-23:/JuliaGraphs/GraphsBase.jl</id>
+    <link href="https://github.com/JuliaGraphs/GraphsBase.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic interface and structures for the JuliaGraphs ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

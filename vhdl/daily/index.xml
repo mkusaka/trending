@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:51:33Z</updated>
+  <updated>2023-06-23T01:49:23Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ethanmys/Serial-and-Parallel-converter</title>
-    <updated>2023-06-22T01:51:33Z</updated>
-    <id>tag:github.com,2023-06-22:/ethanmys/Serial-and-Parallel-converter</id>
-    <link href="https://github.com/ethanmys/Serial-and-Parallel-converter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;-- Design Overview: Serial to parallel converter for 8 bit data and one bit parity -- Parity can either be odd or even -- Produces a &#39;valid&#39; signal as well as a bad_parity, when data is output&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>suisuisi/FPGATechnologyGroup</title>
-    <updated>2023-06-22T01:51:33Z</updated>
-    <id>tag:github.com,2023-06-22:/suisuisi/FPGATechnologyGroup</id>
-    <link href="https://github.com/suisuisi/FPGATechnologyGroup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;FPGA Technology Exchange Group相关文件管理&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ethanmys/Vending-machine</title>
+    <updated>2023-06-23T01:49:23Z</updated>
+    <id>tag:github.com,2023-06-23:/ethanmys/Vending-machine</id>
+    <link href="https://github.com/ethanmys/Vending-machine" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;State machine controls reset, accepting/counting inserted coins, evaluating -- selection cost, vending the product (light led) and resetting for another vend -- An independant process watches for slider switch transitions and tallys coins -- My seg muxer was reused to display on the seven-seg display and a function was -- included to convert he…&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

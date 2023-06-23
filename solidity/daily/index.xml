@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:49:26Z</updated>
+  <updated>2023-06-23T01:47:33Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jtriley-eth/uni-v4-core-flashloans</title>
-    <updated>2023-06-22T01:49:26Z</updated>
-    <id>tag:github.com,2023-06-22:/jtriley-eth/uni-v4-core-flashloans</id>
-    <link href="https://github.com/jtriley-eth/uni-v4-core-flashloans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple Uniswap V4 Flashloan Receiver&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sudoswap/lssvm2</title>
+    <updated>2023-06-23T01:47:33Z</updated>
+    <id>tag:github.com,2023-06-23:/sudoswap/lssvm2</id>
+    <link href="https://github.com/sudoswap/lssvm2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vfat0/badger-voting-share</title>
+    <updated>2023-06-23T01:47:33Z</updated>
+    <id>tag:github.com,2023-06-23:/vfat0/badger-voting-share</id>
+    <link href="https://github.com/vfat0/badger-voting-share" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Voting contract for Badger&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GalxeHQ/galxe-contracts</title>
+    <updated>2023-06-23T01:47:33Z</updated>
+    <id>tag:github.com,2023-06-23:/GalxeHQ/galxe-contracts</id>
+    <link href="https://github.com/GalxeHQ/galxe-contracts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Galxe smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

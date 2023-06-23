@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:51:40Z</updated>
+  <updated>2023-06-23T01:49:31Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>maxim28/first_repo</title>
-    <updated>2023-06-22T01:51:40Z</updated>
-    <id>tag:github.com,2023-06-22:/maxim28/first_repo</id>
-    <link href="https://github.com/maxim28/first_repo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my first git repo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:51:46Z</updated>
+  <updated>2023-06-23T01:49:37Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>blacktunes/sr-message-maker</title>
-    <updated>2023-06-22T01:51:46Z</updated>
-    <id>tag:github.com,2023-06-22:/blacktunes/sr-message-maker</id>
-    <link href="https://github.com/blacktunes/sr-message-maker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;星穹铁道短信生成器&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>getumbrel/umbrel</title>
+    <updated>2023-06-23T01:49:37Z</updated>
+    <id>tag:github.com,2023-06-23:/getumbrel/umbrel</id>
+    <link href="https://github.com/getumbrel/umbrel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>potato47/ccc-devtools</title>
-    <updated>2023-06-22T01:51:46Z</updated>
-    <id>tag:github.com,2023-06-22:/potato47/ccc-devtools</id>
-    <link href="https://github.com/potato47/ccc-devtools" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cocos Creator 网页调试工具，运行时查看、修改节点树，实时更新节点属性，可视化显示缓存资源。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dromara/go-view</title>
+    <updated>2023-06-23T01:49:37Z</updated>
+    <id>tag:github.com,2023-06-23:/dromara/go-view</id>
+    <link href="https://github.com/dromara/go-view" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;GoView 说明文档，GoView 是一个低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>uninbox/UnInbox</title>
+    <updated>2023-06-23T01:49:37Z</updated>
+    <id>tag:github.com,2023-06-23:/uninbox/UnInbox</id>
+    <link href="https://github.com/uninbox/UnInbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Email 💌 + Communication 💬 platform that lets you have conversations, without the cons 😎&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

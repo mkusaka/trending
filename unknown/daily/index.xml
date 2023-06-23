@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-22T01:30:12Z</updated>
+  <updated>2023-06-23T01:30:36Z</updated>
   <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HqWu-HITCS/Awesome-Chinese-LLM</title>
-    <updated>2023-06-22T01:30:12Z</updated>
-    <id>tag:github.com,2023-06-22:/HqWu-HITCS/Awesome-Chinese-LLM</id>
-    <link href="https://github.com/HqWu-HITCS/Awesome-Chinese-LLM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SpeechifyInc/Meta-voicebox</title>
+    <updated>2023-06-23T01:30:36Z</updated>
+    <id>tag:github.com,2023-06-23:/SpeechifyInc/Meta-voicebox</id>
+    <link href="https://github.com/SpeechifyInc/Meta-voicebox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iam-veeramalla/aws-devops-zero-to-hero</title>
-    <updated>2023-06-22T01:30:12Z</updated>
-    <id>tag:github.com,2023-06-22:/iam-veeramalla/aws-devops-zero-to-hero</id>
-    <link href="https://github.com/iam-veeramalla/aws-devops-zero-to-hero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dtinth/superwhite</title>
-    <updated>2023-06-22T01:30:12Z</updated>
-    <id>tag:github.com,2023-06-22:/dtinth/superwhite</id>
-    <link href="https://github.com/dtinth/superwhite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;display a very bright white color on HDR-enabled displays&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ProbiusOfficial/SecTool</title>
+    <updated>2023-06-23T01:30:36Z</updated>
+    <id>tag:github.com,2023-06-23:/ProbiusOfficial/SecTool</id>
+    <link href="https://github.com/ProbiusOfficial/SecTool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cybersecurity tool repository / Wiki 收录常用 / 前沿 的安全工具以及其文档，致力于减少工具收藏行为ww&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
