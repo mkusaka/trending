@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PHP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:44:03Z</updated>
+  <updated>2023-06-24T01:44:01Z</updated>
   <subtitle>Daily Trending of PHP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>roach-php/core</title>
-    <updated>2023-06-23T01:44:03Z</updated>
-    <id>tag:github.com,2023-06-23:/roach-php/core</id>
-    <link href="https://github.com/roach-php/core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The complete web scraping toolkit for PHP.&lt;/p&gt;&lt;hr&gt;&lt;h1 align=&#34;center&#34;&gt; 🐴 Roach &lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;a href=&#34;https://packagist.org/packages/roach-php/core&#34;&gt; &lt;img src=&#34;http://poser.pugx.org/roach-php/core/v&#34; alt=&#34;Latest Stable Version&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://packagist.org/packages/roach-php/core&#34;&gt; &lt;img src=&#34;http://poser.pugx.org/roach-php/core/downloads&#34; alt=&#34;Total Downloads&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://github.com/roach-php/core/actions/workflows/run-tests.yml&#34;&gt; &lt;img src=&#34;https://github.com/roach-php/core/actions/workflows/run-tests.yml/badge.svg?sanitize=true&#34; alt=&#34;&#34;&gt; &lt;/a&gt; &lt;/p&gt; &#xA;&lt;p align=&#34;center&#34;&gt;A complete web scraping toolkit for PHP&lt;/p&gt; &#xA;&lt;h2&gt;About&lt;/h2&gt; &#xA;&lt;p&gt;Roach is a complete web scraping toolkit for PHP. It is heavily inspired (read: a shameless clone) of the popular &lt;a href=&#34;https://docs.scrapy.org&#34;&gt;Scrapy&lt;/a&gt; package for Python.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Install the package via composer&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;composer require roach-php/core&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Documentation&lt;/h2&gt; &#xA;&lt;p&gt;The full documentation can be found &lt;a href=&#34;https://roach-php.dev&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contributing&lt;/h2&gt; &#xA;&lt;p&gt;Please read our &lt;a href=&#34;https://github.com/roach-php/core/raw/main/CONTRIBUTING.md&#34;&gt;Contribution Guide&lt;/a&gt; before opening issues or pull requests.&lt;/p&gt; &#xA;&lt;h2&gt;Credits&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/ksassnowski&#34;&gt;Kai Sassnowski&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/roach-php/core/contributors&#34;&gt;All contributors&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;MIT&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:31:24Z</updated>
+  <updated>2023-06-24T01:30:59Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>themefisher/bookworm-light-astro</title>
-    <updated>2023-06-23T01:31:24Z</updated>
-    <id>tag:github.com,2023-06-23:/themefisher/bookworm-light-astro</id>
-    <link href="https://github.com/themefisher/bookworm-light-astro" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bookworm Light is a feature-rich, minimal, highly customizable, easy-to-use Astro blog theme.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

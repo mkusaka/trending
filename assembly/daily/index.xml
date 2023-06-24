@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:31:26Z</updated>
+  <updated>2023-06-24T01:31:02Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Parallellines0451/GTAIV.ShaderFixesCollection</title>
-    <updated>2023-06-23T01:31:26Z</updated>
-    <id>tag:github.com,2023-06-23:/Parallellines0451/GTAIV.ShaderFixesCollection</id>
-    <link href="https://github.com/Parallellines0451/GTAIV.ShaderFixesCollection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Various shader fixes for GTA IV 1.0.7.0, 1.0.8.0 and Complete Edition.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>clann24/jos</title>
-    <updated>2023-06-23T01:31:26Z</updated>
-    <id>tag:github.com,2023-06-23:/clann24/jos</id>
-    <link href="https://github.com/clann24/jos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;JOS lab, MIT 6.828 Operating System Engineering&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nithunm1/Assembly-assignment</title>
+    <updated>2023-06-24T01:31:02Z</updated>
+    <id>tag:github.com,2023-06-24:/nithunm1/Assembly-assignment</id>
+    <link href="https://github.com/nithunm1/Assembly-assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

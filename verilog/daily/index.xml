@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:49:24Z</updated>
+  <updated>2023-06-24T01:49:37Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>OpenTimer/OpenTimer</title>
-    <updated>2023-06-23T01:49:24Z</updated>
-    <id>tag:github.com,2023-06-23:/OpenTimer/OpenTimer</id>
-    <link href="https://github.com/OpenTimer/OpenTimer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A High-performance Timing Analysis Tool for VLSI Systems&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Jacob-Chappell/mersenne-twister-prng</title>
+    <updated>2023-06-24T01:49:37Z</updated>
+    <id>tag:github.com,2023-06-24:/Jacob-Chappell/mersenne-twister-prng</id>
+    <link href="https://github.com/Jacob-Chappell/mersenne-twister-prng" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;C implementation of the Mersenne Twister pseudo random number generator algorithm. While it is initially intended for the PolyLogic project, I may end up using it in other instances where I need a good RNG.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

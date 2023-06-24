@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:35:25Z</updated>
+  <updated>2023-06-24T01:35:13Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>groxio-learning/otp_june</title>
-    <updated>2023-06-23T01:35:25Z</updated>
-    <id>tag:github.com,2023-06-23:/groxio-learning/otp_june</id>
-    <link href="https://github.com/groxio-learning/otp_june" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Groxio OTP Class&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>astarte-platform/astarte</title>
+    <updated>2023-06-24T01:35:13Z</updated>
+    <id>tag:github.com,2023-06-24:/astarte-platform/astarte</id>
+    <link href="https://github.com/astarte-platform/astarte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core Astarte Repository&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

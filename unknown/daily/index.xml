@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:30:36Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-06-24T01:30:04Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SpeechifyInc/Meta-voicebox</title>
-    <updated>2023-06-23T01:30:36Z</updated>
-    <id>tag:github.com,2023-06-23:/SpeechifyInc/Meta-voicebox</id>
-    <link href="https://github.com/SpeechifyInc/Meta-voicebox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of Meta-Voicebox : The first generative AI model for speech to generalize across tasks with state-of-the-art performance.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aaronjense/Learn-Embedded-Systems</title>
+    <updated>2023-06-24T01:30:04Z</updated>
+    <id>tag:github.com,2023-06-24:/aaronjense/Learn-Embedded-Systems</id>
+    <link href="https://github.com/aaronjense/Learn-Embedded-Systems" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Resources to learn embedded systems engineering.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ProbiusOfficial/SecTool</title>
-    <updated>2023-06-23T01:30:36Z</updated>
-    <id>tag:github.com,2023-06-23:/ProbiusOfficial/SecTool</id>
-    <link href="https://github.com/ProbiusOfficial/SecTool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cybersecurity tool repository / Wiki 收录常用 / 前沿 的安全工具以及其文档，致力于减少工具收藏行为ww&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rshipp/awesome-malware-analysis</title>
+    <updated>2023-06-24T01:30:04Z</updated>
+    <id>tag:github.com,2023-06-24:/rshipp/awesome-malware-analysis</id>
+    <link href="https://github.com/rshipp/awesome-malware-analysis" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Defund the Police.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>google/dreambooth</title>
+    <updated>2023-06-24T01:30:04Z</updated>
+    <id>tag:github.com,2023-06-24:/google/dreambooth</id>
+    <link href="https://github.com/google/dreambooth" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

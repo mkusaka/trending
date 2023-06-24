@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M4 Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:40:52Z</updated>
+  <updated>2023-06-24T01:40:50Z</updated>
   <subtitle>Daily Trending of M4 in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>tschaume/ckon</title>
-    <updated>2023-06-23T01:40:52Z</updated>
-    <id>tag:github.com,2023-06-23:/tschaume/ckon</id>
-    <link href="https://github.com/tschaume/ckon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ckon is a C++ program/tool which automatically takes care of compilation, dictionary generation and linking of programs and libraries developed for data analyses within the CERN ROOT analysis framework.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

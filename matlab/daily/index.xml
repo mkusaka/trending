@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:41:31Z</updated>
+  <updated>2023-06-24T01:41:26Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>NaughtyZZ/3D_face_dense_registration</title>
-    <updated>2023-06-23T01:41:31Z</updated>
-    <id>tag:github.com,2023-06-23:/NaughtyZZ/3D_face_dense_registration</id>
-    <link href="https://github.com/NaughtyZZ/3D_face_dense_registration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Towards Fine-Grained Optimal 3D Face Dense Registration: An Iterative Dividing and Diffusing Method (IJCV2023)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>zuster/EconometricsResources</title>
-    <updated>2023-06-23T01:41:31Z</updated>
-    <id>tag:github.com,2023-06-23:/zuster/EconometricsResources</id>
-    <link href="https://github.com/zuster/EconometricsResources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;经济学相关专业资料集&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kotowicz/matlab-ClassInheritanceBrowser</title>
-    <updated>2023-06-23T01:41:31Z</updated>
-    <id>tag:github.com,2023-06-23:/kotowicz/matlab-ClassInheritanceBrowser</id>
-    <link href="https://github.com/kotowicz/matlab-ClassInheritanceBrowser" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A tool for managing and organizing classes, with a simple interface and (optional) tree diagram.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blockwise-direct-search/bds</title>
+    <updated>2023-06-24T01:41:26Z</updated>
+    <id>tag:github.com,2023-06-24:/blockwise-direct-search/bds</id>
+    <link href="https://github.com/blockwise-direct-search/bds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Blockwise Direct Search&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:45:17Z</updated>
+  <updated>2023-06-24T01:45:23Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tercen/fcs_export_operator</title>
+    <updated>2023-06-24T01:45:23Z</updated>
+    <id>tag:github.com,2023-06-24:/tercen/fcs_export_operator</id>
+    <link href="https://github.com/tercen/fcs_export_operator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Export crosstab data as an FCS file.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Export FCS&lt;/h1&gt; &#xA;&lt;h5&gt;Description&lt;/h5&gt; &#xA;&lt;p&gt;This operator can be used to write FCS files based on data projected onto the crosstab view.&lt;/p&gt; &#xA;&lt;h5&gt;Usage&lt;/h5&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Input data&lt;/th&gt; &#xA;   &lt;th&gt;.&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;y-axis&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;Measurement value.&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;row&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;Channels.&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;column&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;Events.&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;colors&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;Factor(s) used to split data into multiple FCS files.&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;labels&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;Factor(s) used as annotations (e.g. UMAP coordinates, cluster ID) that will be added to expression data and converted as numeric values.&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Output&lt;/th&gt; &#xA;   &lt;th&gt;.&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;FCS Files&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;Files will be uploaded in the current project.&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt;</summary>
+  </entry>
+  <entry>
+    <title>tercen/extract_plateid_well_date-operator</title>
+    <updated>2023-06-24T01:45:23Z</updated>
+    <id>tag:github.com,2023-06-24:/tercen/extract_plateid_well_date-operator</id>
+    <link href="https://github.com/tercen/extract_plateid_well_date-operator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple script to extract plate info from a text string&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Extract PlateID Well Date operator&lt;/h1&gt; &#xA;&lt;h5&gt;Description&lt;/h5&gt; &#xA;&lt;p&gt;&lt;code&gt;Extract PlateID Well Date&lt;/code&gt; from a character column into multiple columns with a regular expression&lt;/p&gt; &#xA;&lt;h5&gt;Usage&lt;/h5&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Input projection&lt;/th&gt; &#xA;   &lt;th&gt;.&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;row&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;single character column&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Output relations&lt;/th&gt; &#xA;   &lt;th&gt;.&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;col1&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;numeric or character&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;col2&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;numeric or character&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;etc..&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;multiple columns&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h5&gt;Details&lt;/h5&gt; &#xA;&lt;p&gt;Given a regular expression , &lt;code&gt;Extract PlateID Well Date&lt;/code&gt; turns a single character column into multiple columns.&lt;/p&gt; &#xA;&lt;h5&gt;References&lt;/h5&gt; &#xA;&lt;p&gt;This operator is a wrapper of the &lt;a href=&#34;https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/strsplit&#34;&gt;strsplit R function&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h5&gt;See Also&lt;/h5&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tercen/replace_operator&#34;&gt;separate_operator&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>tercen/read_seurat_operator</title>
+    <updated>2023-06-24T01:45:23Z</updated>
+    <id>tag:github.com,2023-06-24:/tercen/read_seurat_operator</id>
+    <link href="https://github.com/tercen/read_seurat_operator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Read a Seurat object saved as an RDS or RData file into Tercen.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Import Seurat&lt;/h1&gt; &#xA;&lt;h5&gt;Description&lt;/h5&gt; &#xA;&lt;p&gt;This operator imports a Seurat object saved as an RData or RDS file into Tercen.&lt;/p&gt; &#xA;&lt;h5&gt;Usage&lt;/h5&gt; &#xA;&lt;table&gt; &#xA; &lt;thead&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;th&gt;Input projection&lt;/th&gt; &#xA;   &lt;th&gt;.&lt;/th&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/thead&gt; &#xA; &lt;tbody&gt; &#xA;  &lt;tr&gt; &#xA;   &lt;td&gt;&lt;code&gt;column&lt;/code&gt;&lt;/td&gt; &#xA;   &lt;td&gt;Document ID&lt;/td&gt; &#xA;  &lt;/tr&gt; &#xA; &lt;/tbody&gt; &#xA;&lt;/table&gt; &#xA;&lt;h5&gt;See Also&lt;/h5&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/tercen/read_cellranger_operator&#34;&gt;read_cellranger_operator&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

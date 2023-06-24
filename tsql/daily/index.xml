@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:48:55Z</updated>
+  <updated>2023-06-24T01:49:04Z</updated>
   <subtitle>Daily Trending of TSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SpathisDim/Melodica-Music-Store-Project</title>
-    <updated>2023-06-23T01:48:55Z</updated>
-    <id>tag:github.com,2023-06-23:/SpathisDim/Melodica-Music-Store-Project</id>
-    <link href="https://github.com/SpathisDim/Melodica-Music-Store-Project" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A project for Regeneration academy on Data Engineering&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

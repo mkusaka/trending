@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:33:11Z</updated>
+  <updated>2023-06-24T01:32:54Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>minimal/facebook-hacker-cup</title>
-    <updated>2023-06-23T01:33:11Z</updated>
-    <id>tag:github.com,2023-06-23:/minimal/facebook-hacker-cup</id>
-    <link href="https://github.com/minimal/facebook-hacker-cup" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My Clojure solutions to the hacker cup 2013&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zmedelis/bosquet</title>
+    <updated>2023-06-24T01:32:54Z</updated>
+    <id>tag:github.com,2023-06-24:/zmedelis/bosquet</id>
+    <link href="https://github.com/zmedelis/bosquet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LLMOps tools to build, chain, evaluate and deploy prompts for GPT and other models.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:37:19Z</updated>
+  <updated>2023-06-24T01:37:28Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/Mission-Critical-Online</title>
+    <updated>2023-06-24T01:37:28Z</updated>
+    <id>tag:github.com,2023-06-24:/Azure/Mission-Critical-Online</id>
+    <link href="https://github.com/Azure/Mission-Critical-Online" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is part of the Azure Mission-Critical open source project that provides a prescriptive architectural approach to building highly-reliable cloud-native applications on Microsoft Azure for mission-critical workloads. This repository contains the online reference implementation a fully functional production-grade reference Implement…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

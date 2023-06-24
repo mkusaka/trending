@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:31:48Z</updated>
+  <updated>2023-06-24T01:31:26Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>realpoke/genranks</title>
-    <updated>2023-06-23T01:31:48Z</updated>
-    <id>tag:github.com,2023-06-23:/realpoke/genranks</id>
-    <link href="https://github.com/realpoke/genranks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;GenTools into GenRanks&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Prajwal100/Complete-Ecommerce-in-laravel-10</title>
-    <updated>2023-06-23T01:31:48Z</updated>
-    <id>tag:github.com,2023-06-23:/Prajwal100/Complete-Ecommerce-in-laravel-10</id>
-    <link href="https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Complete-commerce website in laravel 10.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

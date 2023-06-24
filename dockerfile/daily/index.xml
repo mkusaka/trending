@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:34:48Z</updated>
+  <updated>2023-06-24T01:34:22Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>companieshouse/ci-base-build</title>
-    <updated>2023-06-23T01:34:48Z</updated>
-    <id>tag:github.com,2023-06-23:/companieshouse/ci-base-build</id>
-    <link href="https://github.com/companieshouse/ci-base-build" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Base image to install the tooling shared by CH language builds&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ci-base-build&lt;/h1&gt; &#xA;&lt;p&gt;Base image to install the tooling shared by CH language builds&lt;/p&gt; &#xA;&lt;h1&gt;Building the image&lt;/h1&gt; &#xA;&lt;p&gt;Run the following command in this folder to build a new image:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker build -t ci-base-build -f ./Dockerfile .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Running a container&lt;/h1&gt; &#xA;&lt;p&gt;This will start a container using the previously built image and keep it open in interactive mode.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker run -it --rm ci-base-build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Deleting the image&lt;/h1&gt; &#xA;&lt;p&gt;View all images to find the image ID&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker images&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Delete the image using the image ID.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker rm [ID]&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>GLEIF-IT/reg-poc</title>
+    <updated>2023-06-24T01:34:22Z</updated>
+    <id>tag:github.com,2023-06-24:/GLEIF-IT/reg-poc</id>
+    <link href="https://github.com/GLEIF-IT/reg-poc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;reg-poc&lt;/h1&gt; &#xA;&lt;h3&gt;build&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker-compose up --build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Look for output that looks similar to:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;reg-poc-webapp-1       |&#xA;reg-poc-webapp-1       |   VITE v4.3.9  ready in 199 ms&#xA;reg-poc-webapp-1       |&#xA;reg-poc-webapp-1       |   ➜  Local:   http://localhost:5173/&#xA;reg-poc-webapp-1       |   ➜  Network: http://172.18.0.3:5173/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and open that URL in your browser.&lt;/p&gt;</summary>
   </entry>
 </feed>

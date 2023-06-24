@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Handlebars Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-23T01:37:13Z</updated>
+  <updated>2023-06-24T01:37:17Z</updated>
   <subtitle>Daily Trending of Handlebars in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>srcery-colors/srcery-terminal</title>
+    <updated>2023-06-24T01:37:17Z</updated>
+    <id>tag:github.com,2023-06-24:/srcery-colors/srcery-terminal</id>
+    <link href="https://github.com/srcery-colors/srcery-terminal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Srcery theme terminal configurations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
