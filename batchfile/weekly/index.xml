@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Batchfile Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T01:52:48Z</updated>
+  <subtitle>Weekly Trending of Batchfile in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>L8X/Roblox-Client-Optimizer</title>
+    <updated>2023-06-25T01:52:48Z</updated>
+    <id>tag:github.com,2023-06-25:/L8X/Roblox-Client-Optimizer</id>
+    <link href="https://github.com/L8X/Roblox-Client-Optimizer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;RCO tweaks FFlags to optimize your Roblox client&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pbobinski-WSB/WSB_NI_2023L_zaliczenie</title>
+    <updated>2023-06-25T01:52:48Z</updated>
+    <id>tag:github.com,2023-06-25:/pbobinski-WSB/WSB_NI_2023L_zaliczenie</id>
+    <link href="https://github.com/pbobinski-WSB/WSB_NI_2023L_zaliczenie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ahtihska/SpotifyPremium</title>
+    <updated>2023-06-25T01:52:48Z</updated>
+    <id>tag:github.com,2023-06-25:/ahtihska/SpotifyPremium</id>
+    <link href="https://github.com/ahtihska/SpotifyPremium" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Desktop MOD (ad free)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

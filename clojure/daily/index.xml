@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:32:54Z</updated>
+  <updated>2023-06-25T01:33:43Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>zmedelis/bosquet</title>
-    <updated>2023-06-24T01:32:54Z</updated>
-    <id>tag:github.com,2023-06-24:/zmedelis/bosquet</id>
-    <link href="https://github.com/zmedelis/bosquet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;LLMOps tools to build, chain, evaluate and deploy prompts for GPT and other models.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clojure-emacs/logjam</title>
+    <updated>2023-06-25T01:33:43Z</updated>
+    <id>tag:github.com,2023-06-25:/clojure-emacs/logjam</id>
+    <link href="https://github.com/clojure-emacs/logjam" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interactive, nrepl-oriented logging backend&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

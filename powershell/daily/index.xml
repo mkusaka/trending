@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:44:30Z</updated>
+  <updated>2023-06-25T01:45:03Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>powerseb/PowerExtract</title>
+    <updated>2023-06-25T01:45:03Z</updated>
+    <id>tag:github.com,2023-06-25:/powerseb/PowerExtract</id>
+    <link href="https://github.com/powerseb/PowerExtract" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Invoke-PowerExtract&lt;/h1&gt; &#xA;&lt;p&gt;This tool is able to parse memory dumps of the LSASS process without any additional tools (e.g. Debuggers) or additional sideloading of mimikatz. It is a pure PowerShell implementation for parsing and extracting secrets (LSA / MSV and Kerberos) of the LSASS process.&lt;/p&gt; &#xA;&lt;p&gt;Important: The script holds no functionality to create dump files - it will just read them.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;So you just want to read a created dump file? The usage is quite simple:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-powershell&#34;&gt; Invoke-PowerExtract -PathToDMP C:\temp\lsass.dmp&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/powerseb/PowerExtract/main/Extraction.gif&#34; alt=&#34;Example Extraction with the option &amp;quot;format-list&amp;quot;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Currently supported Windows Versions (64bit only):&lt;/p&gt; &#xA;&lt;p&gt;Clients:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Windows 11&lt;/li&gt; &#xA; &lt;li&gt;Windows 10&lt;/li&gt; &#xA; &lt;li&gt;Windows 8.1&lt;/li&gt; &#xA; &lt;li&gt;Windows 8&lt;/li&gt; &#xA; &lt;li&gt;Windows 7&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Server:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Windows Server 2022&lt;/li&gt; &#xA; &lt;li&gt;Windows Server 2019&lt;/li&gt; &#xA; &lt;li&gt;Windows Server 2016&lt;/li&gt; &#xA; &lt;li&gt;Windows Server 2012R2&lt;/li&gt; &#xA; &lt;li&gt;Windows Server 2012&lt;/li&gt; &#xA; &lt;li&gt;Windows Server 2008R2&lt;/li&gt; &#xA; &lt;li&gt;Windows Server 2008&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Future Plans&lt;/h1&gt; &#xA;&lt;p&gt;Short-term I plan to implement the correct parsing of Kerberos Tickets to a format which can be read by Rubeus etc. - Currently Kerberos tickets are parsed but not transformed to the correct format.&lt;/p&gt; &#xA;&lt;h1&gt;References&lt;/h1&gt; &#xA;&lt;p&gt;Many thanks and a big shout out to the pypykatz project which was the inspiration and source for this project:&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/skelsec/pypykatz&#34;&gt;https://github.com/skelsec/pypykatz&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

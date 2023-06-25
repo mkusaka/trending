@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:37:14Z</updated>
+  <updated>2023-06-25T01:37:56Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ajoberstar/grgit</title>
+    <updated>2023-06-25T01:37:56Z</updated>
+    <id>tag:github.com,2023-06-25:/ajoberstar/grgit</id>
+    <link href="https://github.com/ajoberstar/grgit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Groovy way to use Git.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>csaude/idmed-backend</title>
+    <updated>2023-06-25T01:37:56Z</updated>
+    <id>tag:github.com,2023-06-25:/csaude/idmed-backend</id>
+    <link href="https://github.com/csaude/idmed-backend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;novo backend do idmed para acomodar as mudancas do vue3&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>FlightOfStairs/Oculus</title>
+    <updated>2023-06-25T01:37:56Z</updated>
+    <id>tag:github.com,2023-06-25:/FlightOfStairs/Oculus</id>
+    <link href="https://github.com/FlightOfStairs/Oculus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

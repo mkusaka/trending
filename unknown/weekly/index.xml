@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown Languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T01:51:43Z</updated>
+  <subtitle>Weekly Trending of Unknown Languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>996icu/996.ICU</title>
+    <updated>2023-06-25T01:51:43Z</updated>
+    <id>tag:github.com,2023-06-25:/996icu/996.ICU</id>
+    <link href="https://github.com/996icu/996.ICU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repo for counting stars and contributing. Press F to pay respect to glorious developers.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>openlm-research/open_llama</title>
+    <updated>2023-06-25T01:51:43Z</updated>
+    <id>tag:github.com,2023-06-25:/openlm-research/open_llama</id>
+    <link href="https://github.com/openlm-research/open_llama" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>TodePond/DreamBerd</title>
+    <updated>2023-06-25T01:51:43Z</updated>
+    <id>tag:github.com,2023-06-25:/TodePond/DreamBerd</id>
+    <link href="https://github.com/TodePond/DreamBerd" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;perfect programming language&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

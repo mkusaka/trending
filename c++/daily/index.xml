@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:32:01Z</updated>
+  <updated>2023-06-25T01:32:52Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Wh04m1001/CVE-2023-20178</title>
-    <updated>2023-06-24T01:32:01Z</updated>
-    <id>tag:github.com,2023-06-24:/Wh04m1001/CVE-2023-20178</id>
-    <link href="https://github.com/Wh04m1001/CVE-2023-20178" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2023-20178&lt;/h1&gt; &#xA;&lt;p&gt;This is PoC for Arbitrary File Delete vulnerability in Cisco Secure Client (tested on 5.0.01242) and Cisco AnyConnect (tested on 4.10.06079).&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/Wh04m1001/CVE-2023-20178/assets/44291883/f64f2b03-3045-4b37-91a2-508b24aea2f9&#34; alt=&#34;poc&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;When a user connect to vpn, vpndownloader.exe process is started in background and it will create directory in c:\windows\temp with default permissions in following format: &amp;lt;random numbers&amp;gt;.tmp After creating this directory vpndownloader.exe will check if that directory is empty and if its not it will delete all files/directories in there. This behaviour can be abused to perform arbitrary file delete as NT Authority\SYSTEM account.&lt;/p&gt; &#xA;&lt;p&gt;Arbitrary file delete is then used to spwan system cmd process by abusing windows installer behaviour which is described in ZDI article &lt;a href=&#34;https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks&#34;&gt;https://www.zerodayinitiative.com/blog/2022/3/16/abusing-arbitrary-file-deletes-to-escalate-privilege-and-other-great-tricks&lt;/a&gt; (discovered by @KLINIX5)&lt;/p&gt; &#xA;&lt;h1&gt;Advisory&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ac-csc-privesc-wx4U4Kw&#34;&gt;https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ac-csc-privesc-wx4U4Kw&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>cocomelonc/meow</title>
-    <updated>2023-06-24T01:32:01Z</updated>
-    <id>tag:github.com,2023-06-24:/cocomelonc/meow</id>
-    <link href="https://github.com/cocomelonc/meow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cybersecurity research results. Simple C/C++ and Python implementations&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Meow-meow&lt;/h1&gt; &#xA;&lt;p&gt;Results (ALL, even bad and unfinished ones) of my research on cybersecurity practical cases&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/cocomelonc/meow/master/meow.png?raw=true&#34; alt=&#34;meow&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://cocomelonc.github.io/&#34;&gt;https://cocomelonc.github.io/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;My MD MZ book: &lt;a href=&#34;https://cocomelonc.github.io/book/2022/07/16/mybook.html&#34;&gt;https://cocomelonc.github.io/book/2022/07/16/mybook.html&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>microsoft/cppwinrt</title>
-    <updated>2023-06-24T01:32:01Z</updated>
-    <id>tag:github.com,2023-06-24:/microsoft/cppwinrt</id>
-    <link href="https://github.com/microsoft/cppwinrt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;C++/WinRT&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;The C++/WinRT language projection&lt;/h1&gt; &#xA;&lt;p&gt;C++/WinRT is an entirely standard C++ language projection for Windows Runtime (WinRT) APIs, implemented as a header-file-based library, and designed to provide you with first-class access to the modern Windows API. With C++/WinRT, you can author and consume Windows Runtime APIs using any standards-compliant C++17 compiler.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Documentation: &lt;a href=&#34;https://aka.ms/cppwinrt&#34;&gt;https://aka.ms/cppwinrt&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;NuGet package: &lt;a href=&#34;http://aka.ms/cppwinrt/nuget&#34;&gt;http://aka.ms/cppwinrt/nuget&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Visual Studio extension: &lt;a href=&#34;http://aka.ms/cppwinrt/vsix&#34;&gt;http://aka.ms/cppwinrt/vsix&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/C++/WinRT&#34;&gt;https://en.wikipedia.org/wiki/C++/WinRT&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Building C++/WinRT&lt;/h1&gt; &#xA;&lt;p&gt;Don&#39;t build C++/WinRT yourself - just download the latest version here: &lt;a href=&#34;https://aka.ms/cppwinrt/nuget&#34;&gt;https://aka.ms/cppwinrt/nuget&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;If you really want to build it yourself, the simplest way to do so is to run the &lt;code&gt;build_test_all.cmd&lt;/code&gt; script in the root directory. Developers needing to work on the C++/WinRT compiler itself should go through the following steps to arrive at an efficient inner loop:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Open a dev command prompt pointing at the root of the repo.&lt;/li&gt; &#xA; &lt;li&gt;Open the &lt;code&gt;cppwinrt.sln&lt;/code&gt; solution.&lt;/li&gt; &#xA; &lt;li&gt;Build the x64 Release configuration of the &lt;code&gt;prebuild&lt;/code&gt; and &lt;code&gt;cppwinrt&lt;/code&gt; projects only. Do not attempt to build anything else just yet.&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;build_projection.cmd&lt;/code&gt; in the dev command prompt.&lt;/li&gt; &#xA; &lt;li&gt;Switch to the x64 Debug configuration in Visual Studio and build all projects as needed.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

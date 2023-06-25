@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:49:51Z</updated>
+  <updated>2023-06-25T01:50:37Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>m-elbably/gpt-graph</title>
-    <updated>2023-06-24T01:49:51Z</updated>
-    <id>tag:github.com,2023-06-24:/m-elbably/gpt-graph</id>
-    <link href="https://github.com/m-elbably/gpt-graph" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple tool that serves as a knowledge graph explorer utilizing the GPT 3.5 turbo model to help users explore information in an organized and intuitive way.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wejectchen/Ginblog</title>
+    <updated>2023-06-25T01:50:37Z</updated>
+    <id>tag:github.com,2023-06-25:/wejectchen/Ginblog</id>
+    <link href="https://github.com/wejectchen/Ginblog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gin+vue+MySQL全栈制作一个博客&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bencodezen/vue-enterprise-boilerplate</title>
-    <updated>2023-06-24T01:49:51Z</updated>
-    <id>tag:github.com,2023-06-24:/bencodezen/vue-enterprise-boilerplate</id>
-    <link href="https://github.com/bencodezen/vue-enterprise-boilerplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>massCodeIO/massCode</title>
+    <updated>2023-06-25T01:50:37Z</updated>
+    <id>tag:github.com,2023-06-25:/massCodeIO/massCode</id>
+    <link href="https://github.com/massCodeIO/massCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A free and open source code snippets manager for developers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

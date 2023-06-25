@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T02:05:35Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>astrit/css.gg</title>
+    <updated>2023-06-25T02:05:35Z</updated>
+    <id>tag:github.com,2023-06-25:/astrit/css.gg</id>
+    <link href="https://github.com/astrit/css.gg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;700+ Pure CSS, SVG, PNG &amp; Figma UI Icons Available in SVG Sprite, styled-components, NPM &amp; API and 6000 glyphs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/vue-material-dashboard</title>
+    <updated>2023-06-25T02:05:35Z</updated>
+    <id>tag:github.com,2023-06-25:/creativetimofficial/vue-material-dashboard</id>
+    <link href="https://github.com/creativetimofficial/vue-material-dashboard" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vue Material Dashboard - Open Source Material Design Admin&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/black-dashboard-angular</title>
+    <updated>2023-06-25T02:05:35Z</updated>
+    <id>tag:github.com,2023-06-25:/creativetimofficial/black-dashboard-angular</id>
+    <link href="https://github.com/creativetimofficial/black-dashboard-angular" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

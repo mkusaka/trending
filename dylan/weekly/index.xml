@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Dylan Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T01:55:39Z</updated>
+  <subtitle>Weekly Trending of Dylan in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dylan-lang/dylan-tool</title>
+    <updated>2023-06-25T01:55:39Z</updated>
+    <id>tag:github.com,2023-06-25:/dylan-lang/dylan-tool</id>
+    <link href="https://github.com/dylan-lang/dylan-tool" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dylan developer swiss army knife (beta)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

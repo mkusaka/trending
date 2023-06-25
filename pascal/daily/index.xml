@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:43:38Z</updated>
+  <updated>2023-06-25T01:44:08Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ForzaMods/999-Engine</title>
-    <updated>2023-06-24T01:43:38Z</updated>
-    <id>tag:github.com,2023-06-24:/ForzaMods/999-Engine</id>
-    <link href="https://github.com/ForzaMods/999-Engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Recompiled CE for FH5&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mgm3746/garbagecat</title>
-    <updated>2023-06-24T01:43:38Z</updated>
-    <id>tag:github.com,2023-06-24:/mgm3746/garbagecat</id>
-    <link href="https://github.com/mgm3746/garbagecat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Parses Java garbage collection logging and analyzes collectors, triggers, JVM version, JVM options, and OS information and reports error/warn/info level analysis and recommendations to support JVM tuning and troubleshooting for OpenJDK and Sun/Oracle JDK.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

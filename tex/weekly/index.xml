@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub TeX Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T02:07:12Z</updated>
+  <subtitle>Weekly Trending of TeX in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rfabbri/plano-ic</title>
+    <updated>2023-06-25T02:07:12Z</updated>
+    <id>tag:github.com,2023-06-25:/rfabbri/plano-ic</id>
+    <link href="https://github.com/rfabbri/plano-ic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;plano de iniciacao cientifica para alunos de graduacao&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Este é um modelo para projetos de iniciacao cientifica para instituicoes de fomento no Brasil, na area de computacao.&lt;/p&gt; &#xA;&lt;p&gt;== Compilando e Visualizando ==&lt;/p&gt; &#xA;&lt;p&gt;Para compilar&lt;/p&gt; &#xA;&lt;p&gt;make&lt;/p&gt; &#xA;&lt;p&gt;Para ver o resultado&lt;/p&gt; &#xA;&lt;p&gt;Em DVI, que eh o formato utilizado neste modelo, o xdvi eh mais rapido:&lt;/p&gt; &#xA;&lt;p&gt;xdvi paper.dvi&lt;/p&gt; &#xA;&lt;p&gt;ou tambem o okular, que eh mais amigavel porem mais pesado:&lt;/p&gt; &#xA;&lt;p&gt;okular paper.dvi&lt;/p&gt; &#xA;&lt;p&gt;Em PDF:&lt;/p&gt; &#xA;&lt;p&gt;evince paper.pdf ou okular paper.pdf&lt;/p&gt; &#xA;&lt;p&gt;== Gerando PDF a partir do DVI ==&lt;/p&gt; &#xA;&lt;p&gt;Recomenda-se dvipdfm:&lt;/p&gt; &#xA;&lt;p&gt;dvipdfm paper&lt;/p&gt; &#xA;&lt;p&gt;== Autores ==&lt;/p&gt; &#xA;&lt;p&gt;prof. Ricardo Fabbri, PhD - IPRJ/UERJ &lt;a href=&#34;http://www.lems.brown.edu/~rfabbri&#34;&gt;http://www.lems.brown.edu/~rfabbri&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

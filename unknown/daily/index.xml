@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:30:04Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-06-25T01:31:21Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aaronjense/Learn-Embedded-Systems</title>
-    <updated>2023-06-24T01:30:04Z</updated>
-    <id>tag:github.com,2023-06-24:/aaronjense/Learn-Embedded-Systems</id>
-    <link href="https://github.com/aaronjense/Learn-Embedded-Systems" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Resources to learn embedded systems engineering.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DevOps-Nirvana/Grafana-Dashboards</title>
+    <updated>2023-06-25T01:31:21Z</updated>
+    <id>tag:github.com,2023-06-25:/DevOps-Nirvana/Grafana-Dashboards</id>
+    <link href="https://github.com/DevOps-Nirvana/Grafana-Dashboards" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A variety of open-source Grafana dashboards typically for AWS and Kubernetes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>rshipp/awesome-malware-analysis</title>
-    <updated>2023-06-24T01:30:04Z</updated>
-    <id>tag:github.com,2023-06-24:/rshipp/awesome-malware-analysis</id>
-    <link href="https://github.com/rshipp/awesome-malware-analysis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Defund the Police.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>vishesh92/pg-primer</title>
+    <updated>2023-06-25T01:31:21Z</updated>
+    <id>tag:github.com,2023-06-25:/vishesh92/pg-primer</id>
+    <link href="https://github.com/vishesh92/pg-primer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Beginner&#39;s guide to administering/managing postgresql&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>google/dreambooth</title>
-    <updated>2023-06-24T01:30:04Z</updated>
-    <id>tag:github.com,2023-06-24:/google/dreambooth</id>
-    <link href="https://github.com/google/dreambooth" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>felipefialho/frontend-challenges</title>
+    <updated>2023-06-25T01:31:21Z</updated>
+    <id>tag:github.com,2023-06-25:/felipefialho/frontend-challenges</id>
+    <link href="https://github.com/felipefialho/frontend-challenges" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A public list of open-source challenges from companies around the world&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

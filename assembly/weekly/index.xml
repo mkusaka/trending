@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Assembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T01:52:34Z</updated>
+  <subtitle>Weekly Trending of Assembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>skiselev/8088_bios</title>
+    <updated>2023-06-25T01:52:34Z</updated>
+    <id>tag:github.com,2023-06-25:/skiselev/8088_bios</id>
+    <link href="https://github.com/skiselev/8088_bios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BIOS for Intel 8088 based computers&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mirleims/MATA49_T1_2023.1</title>
+    <updated>2023-06-25T01:52:34Z</updated>
+    <id>tag:github.com,2023-06-25:/mirleims/MATA49_T1_2023.1</id>
+    <link href="https://github.com/mirleims/MATA49_T1_2023.1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Safyrus/NES_PWAA</title>
+    <updated>2023-06-25T01:52:34Z</updated>
+    <id>tag:github.com,2023-06-25:/Safyrus/NES_PWAA</id>
+    <link href="https://github.com/Safyrus/NES_PWAA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is an attempt at remaking the first &#34;Phoenix Wright: Ace attorney&#34; (PWAA) game for the NES.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

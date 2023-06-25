@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Smarty Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T02:06:02Z</updated>
+  <subtitle>Weekly Trending of Smarty in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>helm/examples</title>
+    <updated>2023-06-25T02:06:02Z</updated>
+    <id>tag:github.com,2023-06-25:/helm/examples</id>
+    <link href="https://github.com/helm/examples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart repository for example charts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

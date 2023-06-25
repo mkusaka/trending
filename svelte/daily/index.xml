@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:48:14Z</updated>
+  <updated>2023-06-25T01:48:46Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>idleberg/playdate-arcade-fonts</title>
-    <updated>2023-06-24T01:48:14Z</updated>
-    <id>tag:github.com,2023-06-24:/idleberg/playdate-arcade-fonts</id>
-    <link href="https://github.com/idleberg/playdate-arcade-fonts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of classic arcade game fonts for the Playdate&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>michealparks/threlte-xr</title>
-    <updated>2023-06-24T01:48:14Z</updated>
-    <id>tag:github.com,2023-06-24:/michealparks/threlte-xr</id>
-    <link href="https://github.com/michealparks/threlte-xr" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VR / AR / spatial computing with threlte&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>diamondburned/slemmy</title>
+    <updated>2023-06-25T01:48:46Z</updated>
+    <id>tag:github.com,2023-06-25:/diamondburned/slemmy</id>
+    <link href="https://github.com/diamondburned/slemmy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Lemmy client in Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

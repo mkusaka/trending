@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:47:38Z</updated>
+  <updated>2023-06-25T01:48:07Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>giantswarm/falco-app</title>
-    <updated>2023-06-24T01:47:38Z</updated>
-    <id>tag:github.com,2023-06-24:/giantswarm/falco-app</id>
-    <link href="https://github.com/giantswarm/falco-app" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Managed app for the host-based intrusion detection agent Falco.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

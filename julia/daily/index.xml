@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:39:42Z</updated>
+  <updated>2023-06-25T01:40:09Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SciML/StochasticDiffEq.jl</title>
-    <updated>2023-06-24T01:39:42Z</updated>
-    <id>tag:github.com,2023-06-24:/SciML/StochasticDiffEq.jl</id>
-    <link href="https://github.com/SciML/StochasticDiffEq.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Solvers for stochastic differential equations which connect with the scientific machine learning (SciML) ecosystem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaComputing/JuliaHub.jl</title>
+    <updated>2023-06-25T01:40:09Z</updated>
+    <id>tag:github.com,2023-06-25:/JuliaComputing/JuliaHub.jl</id>
+    <link href="https://github.com/JuliaComputing/JuliaHub.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Julia client for the JuliaHub platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>thofma/Hecke.jl</title>
+    <updated>2023-06-25T01:40:09Z</updated>
+    <id>tag:github.com,2023-06-25:/thofma/Hecke.jl</id>
+    <link href="https://github.com/thofma/Hecke.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Computational algebraic number theory&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

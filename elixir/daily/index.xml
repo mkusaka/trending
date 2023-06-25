@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:35:13Z</updated>
+  <updated>2023-06-25T01:36:05Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>astarte-platform/astarte</title>
-    <updated>2023-06-24T01:35:13Z</updated>
-    <id>tag:github.com,2023-06-24:/astarte-platform/astarte</id>
-    <link href="https://github.com/astarte-platform/astarte" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Core Astarte Repository&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheRealReal/mock_grpc</title>
+    <updated>2023-06-25T01:36:05Z</updated>
+    <id>tag:github.com,2023-06-25:/TheRealReal/mock_grpc</id>
+    <link href="https://github.com/TheRealReal/mock_grpc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>telegex/telegex</title>
+    <updated>2023-06-25T01:36:05Z</updated>
+    <id>tag:github.com,2023-06-25:/telegex/telegex</id>
+    <link href="https://github.com/telegex/telegex" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Telegram bot framework and API client written in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

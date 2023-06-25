@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Zig Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T02:08:53Z</updated>
+  <subtitle>Weekly Trending of Zig in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>andrewrk/poop</title>
+    <updated>2023-06-25T02:08:53Z</updated>
+    <id>tag:github.com,2023-06-25:/andrewrk/poop</id>
+    <link href="https://github.com/andrewrk/poop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Performance Optimizer Observation Platform&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zigwasm/wasmer-zig</title>
+    <updated>2023-06-25T02:08:53Z</updated>
+    <id>tag:github.com,2023-06-25:/zigwasm/wasmer-zig</id>
+    <link href="https://github.com/zigwasm/wasmer-zig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig bindings for the Wasmer WebAssembly runtime&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

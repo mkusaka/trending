@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T02:01:49Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>input-output-hk/iogx</title>
+    <updated>2023-06-25T02:01:49Z</updated>
+    <id>tag:github.com,2023-06-25:/input-output-hk/iogx</id>
+    <link href="https://github.com/input-output-hk/iogx" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Flake Template for Haskell Projects&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nammayatri/jenkins-config</title>
+    <updated>2023-06-25T02:01:49Z</updated>
+    <id>tag:github.com,2023-06-25:/nammayatri/jenkins-config</id>
+    <link href="https://github.com/nammayatri/jenkins-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS configuration for Nammayatri Jenkins CI machines&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>azuwis/pianotrans</title>
+    <updated>2023-06-25T02:01:49Z</updated>
+    <id>tag:github.com,2023-06-25:/azuwis/pianotrans</id>
+    <link href="https://github.com/azuwis/pianotrans" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple GUI for ByteDance&#39;s Piano Transcription with Pedals&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub OCaml Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T02:02:18Z</updated>
+  <subtitle>Weekly Trending of OCaml in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>janestreet/base</title>
+    <updated>2023-06-25T02:02:18Z</updated>
+    <id>tag:github.com,2023-06-25:/janestreet/base</id>
+    <link href="https://github.com/janestreet/base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Standard library for OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wasmerio/wasmer-ocaml</title>
+    <updated>2023-06-25T02:02:18Z</updated>
+    <id>tag:github.com,2023-06-25:/wasmerio/wasmer-ocaml</id>
+    <link href="https://github.com/wasmerio/wasmer-ocaml" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OCaml bindings for Wasmer&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>janestreet/uopt</title>
+    <updated>2023-06-25T02:02:18Z</updated>
+    <id>tag:github.com,2023-06-25:/janestreet/uopt</id>
+    <link href="https://github.com/janestreet/uopt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An [option]-like type that incurs no allocation, without requiring a reserved value in the underlying type&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

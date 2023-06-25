@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T02:08:04Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jgdavey/vim-weefactor</title>
+    <updated>2023-06-25T02:08:04Z</updated>
+    <id>tag:github.com,2023-06-25:/jgdavey/vim-weefactor</id>
+    <link href="https://github.com/jgdavey/vim-weefactor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Micro Ruby refactorings&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sebdah/vim-delve</title>
+    <updated>2023-06-25T02:08:04Z</updated>
+    <id>tag:github.com,2023-06-25:/sebdah/vim-delve</id>
+    <link href="https://github.com/sebdah/vim-delve" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neovim / Vim integration for Delve&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sushengloong/dotfiles</title>
+    <updated>2023-06-25T02:08:04Z</updated>
+    <id>tag:github.com,2023-06-25:/sushengloong/dotfiles</id>
+    <link href="https://github.com/sushengloong/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;How sharp is your saw?&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:34:22Z</updated>
+  <updated>2023-06-25T01:35:17Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>GLEIF-IT/reg-poc</title>
-    <updated>2023-06-24T01:34:22Z</updated>
-    <id>tag:github.com,2023-06-24:/GLEIF-IT/reg-poc</id>
-    <link href="https://github.com/GLEIF-IT/reg-poc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;reg-poc&lt;/h1&gt; &#xA;&lt;h3&gt;build&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;docker-compose up --build&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Look for output that looks similar to:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;reg-poc-webapp-1       |&#xA;reg-poc-webapp-1       |   VITE v4.3.9  ready in 199 ms&#xA;reg-poc-webapp-1       |&#xA;reg-poc-webapp-1       |   ➜  Local:   http://localhost:5173/&#xA;reg-poc-webapp-1       |   ➜  Network: http://172.18.0.3:5173/&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;and open that URL in your browser.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vue Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-06-25T02:08:10Z</updated>
+  <subtitle>Weekly Trending of Vue in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>getumbrel/umbrel</title>
+    <updated>2023-06-25T02:08:10Z</updated>
+    <id>tag:github.com,2023-06-25:/getumbrel/umbrel</id>
+    <link href="https://github.com/getumbrel/umbrel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A beautiful personal/home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>274056675/springboot-openai-chatgpt</title>
+    <updated>2023-06-25T02:08:10Z</updated>
+    <id>tag:github.com,2023-06-25:/274056675/springboot-openai-chatgpt</id>
+    <link href="https://github.com/274056675/springboot-openai-chatgpt" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;超级AI大脑一个基于Spring Boot架构，支持web，Android，IOS，H5多端应用，使用了OpenAI的ChatGPT模型实现了智能聊天机器人。用户可以在界面上与聊天机器人进行对话，聊天机器人会根据用户的输入自动生成回复。同时也支持画图，用户输入文本，便可以自动制作文生文生图。未来会接入：文心一言、通义千问、MOSS等国产AI大模型，持续更新中，更多功能等着你来解锁&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>liberu-ui/genealogy</title>
+    <updated>2023-06-25T02:08:10Z</updated>
+    <id>tag:github.com,2023-06-25:/liberu-ui/genealogy</id>
+    <link href="https://github.com/liberu-ui/genealogy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nuxt 2 and Vue 2 client for genealogy project. Family tree and genealogy data processing website software client.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

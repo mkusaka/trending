@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elm Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-24T01:35:10Z</updated>
+  <updated>2023-06-25T01:36:00Z</updated>
   <subtitle>Daily Trending of Elm in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ilyakooo0/airlock</title>
-    <updated>2023-06-24T01:35:10Z</updated>
-    <id>tag:github.com,2023-06-24:/ilyakooo0/airlock</id>
-    <link href="https://github.com/ilyakooo0/airlock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Earth to Mars communication done right&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
