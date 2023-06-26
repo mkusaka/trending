@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-25T01:36:05Z</updated>
+  <updated>2023-06-26T01:35:16Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TheRealReal/mock_grpc</title>
-    <updated>2023-06-25T01:36:05Z</updated>
-    <id>tag:github.com,2023-06-25:/TheRealReal/mock_grpc</id>
-    <link href="https://github.com/TheRealReal/mock_grpc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>acalejos/mockingjay</title>
+    <updated>2023-06-26T01:35:16Z</updated>
+    <id>tag:github.com,2023-06-26:/acalejos/mockingjay</id>
+    <link href="https://github.com/acalejos/mockingjay" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir implementation of Microsoft&#39;s Hummingbird library for converting trained Decision Tree models into tensor computations.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>telegex/telegex</title>
-    <updated>2023-06-25T01:36:05Z</updated>
-    <id>tag:github.com,2023-06-25:/telegex/telegex</id>
-    <link href="https://github.com/telegex/telegex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Telegram bot framework and API client written in Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>liveview-native/live_view_native</title>
+    <updated>2023-06-26T01:35:16Z</updated>
+    <id>tag:github.com,2023-06-26:/liveview-native/live_view_native</id>
+    <link href="https://github.com/liveview-native/live_view_native" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A platform for building native applications with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

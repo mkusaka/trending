@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-25T01:48:20Z</updated>
+  <updated>2023-06-26T01:47:36Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bycheby/zkSync</title>
-    <updated>2023-06-25T01:48:20Z</updated>
-    <id>tag:github.com,2023-06-25:/bycheby/zkSync</id>
-    <link href="https://github.com/bycheby/zkSync" rel="alternate"></link>
+    <title>jakedevchaine/MevBot</title>
+    <updated>2023-06-26T01:47:36Z</updated>
+    <id>tag:github.com,2023-06-26:/jakedevchaine/MevBot</id>
+    <link href="https://github.com/jakedevchaine/MevBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MEV (MevBot) is an automated bot designed to scan the mempool (transaction pool) in a blockchain and extract profit from transactions with favorable prices.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>code-423n4/2023-06-lybra</title>
+    <updated>2023-06-26T01:47:36Z</updated>
+    <id>tag:github.com,2023-06-26:/code-423n4/2023-06-lybra</id>
+    <link href="https://github.com/code-423n4/2023-06-lybra" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NFTfi-Genesis/nftfi.eth</title>
-    <updated>2023-06-25T01:48:20Z</updated>
-    <id>tag:github.com,2023-06-25:/NFTfi-Genesis/nftfi.eth</id>
-    <link href="https://github.com/NFTfi-Genesis/nftfi.eth" rel="alternate"></link>
+    <title>t4sk/hello-foundry</title>
+    <updated>2023-06-26T01:47:36Z</updated>
+    <id>tag:github.com,2023-06-26:/t4sk/hello-foundry</id>
+    <link href="https://github.com/t4sk/hello-foundry" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

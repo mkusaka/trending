@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OpenQASM Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-25T01:43:51Z</updated>
+  <updated>2023-06-26T01:43:13Z</updated>
   <subtitle>Daily Trending of OpenQASM in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ric2k1/qsyn.lab</title>
+    <updated>2023-06-26T01:43:13Z</updated>
+    <id>tag:github.com,2023-06-26:/ric2k1/qsyn.lab</id>
+    <link href="https://github.com/ric2k1/qsyn.lab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

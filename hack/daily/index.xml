@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Hack Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-25T01:37:59Z</updated>
+  <updated>2023-06-26T01:37:07Z</updated>
   <subtitle>Daily Trending of Hack in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>facebookarchive/fbshipit</title>
-    <updated>2023-06-25T01:37:59Z</updated>
-    <id>tag:github.com,2023-06-25:/facebookarchive/fbshipit</id>
-    <link href="https://github.com/facebookarchive/fbshipit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Copy commits between repositories · git → git, git → hg, hg → hg, or hg → git&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

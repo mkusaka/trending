@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-25T01:37:56Z</updated>
+  <updated>2023-06-26T01:37:06Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ajoberstar/grgit</title>
-    <updated>2023-06-25T01:37:56Z</updated>
-    <id>tag:github.com,2023-06-25:/ajoberstar/grgit</id>
-    <link href="https://github.com/ajoberstar/grgit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Groovy way to use Git.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ballerina-platform/plugin-gradle</title>
+    <updated>2023-06-26T01:37:06Z</updated>
+    <id>tag:github.com,2023-06-26:/ballerina-platform/plugin-gradle</id>
+    <link href="https://github.com/ballerina-platform/plugin-gradle" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ballerina Gradle plugin&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>csaude/idmed-backend</title>
-    <updated>2023-06-25T01:37:56Z</updated>
-    <id>tag:github.com,2023-06-25:/csaude/idmed-backend</id>
-    <link href="https://github.com/csaude/idmed-backend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;novo backend do idmed para acomodar as mudancas do vue3&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>FlightOfStairs/Oculus</title>
-    <updated>2023-06-25T01:37:56Z</updated>
-    <id>tag:github.com,2023-06-25:/FlightOfStairs/Oculus</id>
-    <link href="https://github.com/FlightOfStairs/Oculus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wso2/aws-cicd-shared-lib</title>
+    <updated>2023-06-26T01:37:06Z</updated>
+    <id>tag:github.com,2023-06-26:/wso2/aws-cicd-shared-lib</id>
+    <link href="https://github.com/wso2/aws-cicd-shared-lib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains set of common functions that are used to drive the AWS Pipeline&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

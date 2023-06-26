@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-25T01:45:25Z</updated>
+  <updated>2023-06-26T01:44:40Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>mindreframer/vagrant-kitabu</title>
-    <updated>2023-06-25T01:45:25Z</updated>
-    <id>tag:github.com,2023-06-25:/mindreframer/vagrant-kitabu</id>
-    <link href="https://github.com/mindreframer/vagrant-kitabu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vagrant env with kitabu and kitchensink&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>TracyWebTech/puppet-builddep</title>
-    <updated>2023-06-25T01:45:25Z</updated>
-    <id>tag:github.com,2023-06-25:/TracyWebTech/puppet-builddep</id>
-    <link href="https://github.com/TracyWebTech/puppet-builddep" rel="alternate"></link>
+    <title>wso2/aws-apim</title>
+    <updated>2023-06-26T01:44:40Z</updated>
+    <id>tag:github.com,2023-06-26:/wso2/aws-apim</id>
+    <link href="https://github.com/wso2/aws-apim" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>dvn/shibpoc</title>
-    <updated>2023-06-25T01:45:25Z</updated>
-    <id>tag:github.com,2023-06-25:/dvn/shibpoc</id>
-    <link href="https://github.com/dvn/shibpoc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;shibpoc: Shibboleth Proof of Concept&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
