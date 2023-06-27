@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:34:28Z</updated>
+  <updated>2023-06-27T01:34:00Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ballerina-platform/ballerina-action</title>
-    <updated>2023-06-26T01:34:28Z</updated>
-    <id>tag:github.com,2023-06-26:/ballerina-platform/ballerina-action</id>
-    <link href="https://github.com/ballerina-platform/ballerina-action" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;GitHub Action for the Ballerina CLI&lt;/h1&gt; &#xA;&lt;p&gt;The GitHub Action for the &lt;a href=&#34;https://ballerina.io/&#34;&gt;Ballerina CLI&lt;/a&gt; wraps the &lt;code&gt;bal&lt;/code&gt; command inside an Action.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;name: Ballerina example&#xA;&#xA;on: [push]&#xA;&#xA;jobs:&#xA;  build:&#xA;    &#xA;    runs-on: ubuntu-latest&#xA;    &#xA;    steps:&#xA;      - name: Checkout&#xA;        uses: actions/checkout@v1&#xA;    &#xA;      - name: Ballerina Build&#xA;        uses: ballerina-platform/ballerina-action@master&#xA;        with:&#xA;          args: &#xA;            pack&#xA;&#xA;      - name: Ballerina Push&#xA;        uses: ballerina-platform/ballerina-action@master&#xA;        with:&#xA;          args: &#xA;            push &#xA;        env: &#xA;            BALLERINA_CENTRAL_ACCESS_TOKEN: ${{ secrets.BallerinaToken }}&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Environment variables&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;BALLERINA_CENTRAL_ACCESS_TOKEN&lt;/code&gt; – Required only for the &#34;push&#34; action to represent the Ballerina Central access token. &lt;a href=&#34;https://ballerina.io/learn/publishing-packages-to-ballerina-central/#preparing-for-publishing&#34;&gt;Preparing for Publishing&lt;/a&gt; will guide to create the token.&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;WORKING_DIR&lt;/code&gt; – Required only if we need to change the current working directory of the repository to another relative path.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

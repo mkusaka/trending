@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:35:16Z</updated>
+  <updated>2023-06-27T01:34:35Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>acalejos/mockingjay</title>
-    <updated>2023-06-26T01:35:16Z</updated>
-    <id>tag:github.com,2023-06-26:/acalejos/mockingjay</id>
-    <link href="https://github.com/acalejos/mockingjay" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Elixir implementation of Microsoft&#39;s Hummingbird library for converting trained Decision Tree models into tensor computations.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>liveview-native/live_view_native</title>
-    <updated>2023-06-26T01:35:16Z</updated>
-    <id>tag:github.com,2023-06-26:/liveview-native/live_view_native</id>
-    <link href="https://github.com/liveview-native/live_view_native" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A platform for building native applications with Phoenix LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>remoteoss/phx_gen_solid</title>
+    <updated>2023-06-27T01:34:35Z</updated>
+    <id>tag:github.com,2023-06-27:/remoteoss/phx_gen_solid</id>
+    <link href="https://github.com/remoteoss/phx_gen_solid" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A SOLID generator for Phoenix 1.6 applications&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

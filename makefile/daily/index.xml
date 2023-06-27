@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:41:22Z</updated>
+  <updated>2023-06-27T01:39:31Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>canonical/ubuntu-core-desktop</title>
-    <updated>2023-06-26T01:41:22Z</updated>
-    <id>tag:github.com,2023-06-26:/canonical/ubuntu-core-desktop</id>
-    <link href="https://github.com/canonical/ubuntu-core-desktop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DLR-TS/cppcheck_docker</title>
+    <updated>2023-06-27T01:39:31Z</updated>
+    <id>tag:github.com,2023-06-27:/DLR-TS/cppcheck_docker</id>
+    <link href="https://github.com/DLR-TS/cppcheck_docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A docker wrapper for cppcheck&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>redhat-et/customer-growth-model</title>
-    <updated>2023-06-26T01:41:22Z</updated>
-    <id>tag:github.com,2023-06-26:/redhat-et/customer-growth-model</id>
-    <link href="https://github.com/redhat-et/customer-growth-model" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The repo enables accurate customer revenue forecasting using ARIMA and other time series methods. It provides practical examples, data preprocessing, evaluation, and optimization. It also identifies potential customers through market analysis and predictive modeling. Empowering businesses for data-driven growth.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>python/python-docs-zh-tw</title>
-    <updated>2023-06-26T01:41:22Z</updated>
-    <id>tag:github.com,2023-06-26:/python/python-docs-zh-tw</id>
-    <link href="https://github.com/python/python-docs-zh-tw" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Traditional Chinese (zh-TW) translation of the Python Documentation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>DLR-TS/lizard_docker</title>
+    <updated>2023-06-27T01:39:31Z</updated>
+    <id>tag:github.com,2023-06-27:/DLR-TS/lizard_docker</id>
+    <link href="https://github.com/DLR-TS/lizard_docker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A docker wrapper for lizard&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

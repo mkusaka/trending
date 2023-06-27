@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:39:26Z</updated>
+  <updated>2023-06-27T01:38:08Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>TuringLang/DynamicPPL.jl</title>
-    <updated>2023-06-26T01:39:26Z</updated>
-    <id>tag:github.com,2023-06-26:/TuringLang/DynamicPPL.jl</id>
-    <link href="https://github.com/TuringLang/DynamicPPL.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Implementation of domain-specific language (DSL) for dynamic probabilistic programming&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>JuliaStats/StatsBase.jl</title>
+    <updated>2023-06-27T01:38:08Z</updated>
+    <id>tag:github.com,2023-06-27:/JuliaStats/StatsBase.jl</id>
+    <link href="https://github.com/JuliaStats/StatsBase.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic statistics for Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JuliaServices/Rematch2.jl</title>
-    <updated>2023-06-26T01:39:26Z</updated>
-    <id>tag:github.com,2023-06-26:/JuliaServices/Rematch2.jl</id>
-    <link href="https://github.com/JuliaServices/Rematch2.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pattern-matching for Julia&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Pangoraw/Wasmer.jl</title>
-    <updated>2023-06-26T01:39:26Z</updated>
-    <id>tag:github.com,2023-06-26:/Pangoraw/Wasmer.jl</id>
-    <link href="https://github.com/Pangoraw/Wasmer.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia wrapper for the wasmer runtime&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CarloLucibello/GraphNeuralNetworks.jl</title>
+    <updated>2023-06-27T01:38:08Z</updated>
+    <id>tag:github.com,2023-06-27:/CarloLucibello/GraphNeuralNetworks.jl</id>
+    <link href="https://github.com/CarloLucibello/GraphNeuralNetworks.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graph Neural Networks in Julia&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

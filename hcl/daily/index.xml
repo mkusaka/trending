@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:37:20Z</updated>
+  <updated>2023-06-27T01:36:21Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>blthazr/area0</title>
-    <updated>2023-06-26T01:37:20Z</updated>
-    <id>tag:github.com,2023-06-26:/blthazr/area0</id>
-    <link href="https://github.com/blthazr/area0" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A repository for my home infrastructure and Kubernetes (k3s) cluster using Infrastructure As Code (IaC) and GitOps principles.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>weka/terraform-azure-weka-essential</title>
+    <updated>2023-06-27T01:36:21Z</updated>
+    <id>tag:github.com,2023-06-27:/weka/terraform-azure-weka-essential</id>
+    <link href="https://github.com/weka/terraform-azure-weka-essential" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Essential weka deployment&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>coolguy1771/home-ops</title>
-    <updated>2023-06-26T01:37:20Z</updated>
-    <id>tag:github.com,2023-06-26:/coolguy1771/home-ops</id>
-    <link href="https://github.com/coolguy1771/home-ops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A mono repository for my home infra and Kubernetes cluster adhering to Infrastructure as Code (IaC) and GitOps practices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>binbashar/le-tf-infra-aws</title>
-    <updated>2023-06-26T01:37:20Z</updated>
-    <id>tag:github.com,2023-06-26:/binbashar/le-tf-infra-aws</id>
-    <link href="https://github.com/binbashar/le-tf-infra-aws" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Terraform code for Leverage Reference Architecture for AWS, designed under optimal configs for the most popular modern web and mobile applications needs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cloudposse/terraform-aws-eks-fargate-profile</title>
+    <updated>2023-06-27T01:36:21Z</updated>
+    <id>tag:github.com,2023-06-27:/cloudposse/terraform-aws-eks-fargate-profile</id>
+    <link href="https://github.com/cloudposse/terraform-aws-eks-fargate-profile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module to provision an EKS Fargate Profile&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:33:47Z</updated>
+  <updated>2023-06-27T01:33:26Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>baidu-research/warp-ctc</title>
-    <updated>2023-06-26T01:33:47Z</updated>
-    <id>tag:github.com,2023-06-26:/baidu-research/warp-ctc</id>
-    <link href="https://github.com/baidu-research/warp-ctc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast parallel CTC.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>enp1s0/ozIMMU</title>
+    <updated>2023-06-27T01:33:26Z</updated>
+    <id>tag:github.com,2023-06-27:/enp1s0/ozIMMU</id>
+    <link href="https://github.com/enp1s0/ozIMMU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;FP64 equivalent GEMM implementation via Int8 Tensor Cores&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

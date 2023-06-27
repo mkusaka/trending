@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:41:34Z</updated>
+  <updated>2023-06-27T01:39:38Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dynamicslab/databook_matlab</title>
-    <updated>2023-06-26T01:41:34Z</updated>
-    <id>tag:github.com,2023-06-26:/dynamicslab/databook_matlab</id>
-    <link href="https://github.com/dynamicslab/databook_matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Matlab files with demo code intended as a companion to the book &#34;Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control&#34; by Steven L. Brunton and J. Nathan Kutz http://www.databookuw.com/&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>drjellyman/stft</title>
+    <updated>2023-06-27T01:39:38Z</updated>
+    <id>tag:github.com,2023-06-27:/drjellyman/stft</id>
+    <link href="https://github.com/drjellyman/stft" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Figuring out STFT, FFT&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

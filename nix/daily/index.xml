@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:42:33Z</updated>
+  <updated>2023-06-27T01:40:32Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ryan4yin/nixos-and-flakes-book</title>
-    <updated>2023-06-26T01:42:33Z</updated>
-    <id>tag:github.com,2023-06-26:/ryan4yin/nixos-and-flakes-book</id>
-    <link href="https://github.com/ryan4yin/nixos-and-flakes-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🛠️ ❤️ An unofficial NixOS &amp; Flakes Book for Beginners.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>chayleaf/nixos-router</title>
+    <updated>2023-06-27T01:40:32Z</updated>
+    <id>tag:github.com,2023-06-27:/chayleaf/nixos-router</id>
+    <link href="https://github.com/chayleaf/nixos-router" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A NixOS router framework&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

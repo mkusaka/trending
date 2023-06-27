@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:34:04Z</updated>
+  <updated>2023-06-27T01:33:40Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>duytq94/flutter-chat-demo</title>
+    <updated>2023-06-27T01:33:40Z</updated>
+    <id>tag:github.com,2023-06-27:/duytq94/flutter-chat-demo</id>
+    <link href="https://github.com/duytq94/flutter-chat-demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The chat app made by Flutter and Firebase&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Chat Demo&lt;/h1&gt; &#xA;&lt;h2&gt;Description&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;A chat app made by Flutter and Firebase.&lt;/li&gt; &#xA; &lt;li&gt;Support login with google account, chat with any user, send text, image and sticker, update avatar and profile.&lt;/li&gt; &#xA; &lt;li&gt;Video demo: &lt;a href=&#34;https://youtu.be/MOHE68LI5Eg&#34;&gt;https://youtu.be/MOHE68LI5Eg&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;How to do it: &lt;a href=&#34;https://medium.com/@duytq94/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e&#34;&gt;https://medium.com/@duytq94/building-a-chat-app-with-flutter-and-firebase-from-scratch-9eaa7f41782e&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Extension&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Push notification messages.&lt;/li&gt; &#xA; &lt;li&gt;Demo: &lt;a href=&#34;https://youtu.be/TL--RKbNPt8&#34;&gt;https://youtu.be/TL--RKbNPt8&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;How to do it: &lt;a href=&#34;https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675&#34;&gt;https://medium.com/@duytq94/flutter-chat-app-extended-push-notification-messages-a26c669f4675&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Screenshot&lt;/h2&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/duytq94/flutter-chat-demo/master/screenshots/FlutterChatDemo.gif&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt; &#xA;&lt;h2&gt;How to run&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Clone this repo&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;flutter pub get&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;flutter run&lt;/code&gt; (remember open simulator or connect physical device, iOS auto run additional command &lt;code&gt;pod install&lt;/code&gt;)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Big update&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Aug, 27th, 2022 - Upgrade dependencies and fix to working fine with Flutter 3&lt;/li&gt; &#xA; &lt;li&gt;Jun, 4th, 2021 - Migrating to Flutter 2 and using Dart sound null safety&lt;/li&gt; &#xA; &lt;li&gt;Oct, 2nd, 2021 - Apply provider &amp;amp; restructure&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:35:42Z</updated>
+  <updated>2023-06-27T01:34:57Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>xyncro/chiron</title>
+    <updated>2023-06-27T01:34:57Z</updated>
+    <id>tag:github.com,2023-06-27:/xyncro/chiron</id>
+    <link href="https://github.com/xyncro/chiron" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;JSON for F#&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Chiron&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://gitter.im/xyncro/chiron?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/Join%20Chat.svg?sanitize=true&#34; alt=&#34;Chat&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://ci.appveyor.com/project/xyncro/chiron&#34;&gt;&lt;img src=&#34;https://ci.appveyor.com/api/projects/status/qrben1pugaxklsp3?svg=true&#34; alt=&#34;Build&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;What is Chiron?&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://xyncro.tech/chiron&#34;&gt;Chiron&lt;/a&gt; is a library for working with JSON for F#, similar to the Haskell Aeson package. See the dedicated &lt;a href=&#34;https://xyncro.tech/chiron&#34;&gt;Chiron Site&lt;/a&gt; for more information.&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;Chiron can be installed from &lt;a href=&#34;https://www.nuget.org/packages/chiron&#34; title=&#34;Chiron on NuGet&#34;&gt;NuGet&lt;/a&gt;. Using the Package Manager Console:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-batch&#34;&gt;PM&amp;gt; Install-Package Chiron&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Chiron is under the MIT license.&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scheme Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-26T01:46:46Z</updated>
+  <updated>2023-06-27T01:44:17Z</updated>
   <subtitle>Daily Trending of Scheme in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>opencog/opencog</title>
-    <updated>2023-06-26T01:46:46Z</updated>
-    <id>tag:github.com,2023-06-26:/opencog/opencog</id>
-    <link href="https://github.com/opencog/opencog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A framework for integrated Artificial Intelligence &amp; Artificial General Intelligence (AGI)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>acristoffers/tree-sitter-matlab</title>
-    <updated>2023-06-26T01:46:46Z</updated>
-    <id>tag:github.com,2023-06-26:/acristoffers/tree-sitter-matlab</id>
-    <link href="https://github.com/acristoffers/tree-sitter-matlab" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MATLAB tree-sitter parser&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>shirok/Gauche</title>
+    <updated>2023-06-27T01:44:17Z</updated>
+    <id>tag:github.com,2023-06-27:/shirok/Gauche</id>
+    <link href="https://github.com/shirok/Gauche" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scheme Scripting Engine&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
