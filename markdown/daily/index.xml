@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:39:36Z</updated>
+  <updated>2023-06-28T01:43:27Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>frankiefab100/Blockchain-Development-Resources</title>
-    <updated>2023-06-27T01:39:36Z</updated>
-    <id>tag:github.com,2023-06-27:/frankiefab100/Blockchain-Development-Resources</id>
-    <link href="https://github.com/frankiefab100/Blockchain-Development-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

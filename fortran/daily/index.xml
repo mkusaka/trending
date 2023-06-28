@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Fortran Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:35:15Z</updated>
+  <updated>2023-06-28T01:38:36Z</updated>
   <subtitle>Daily Trending of Fortran in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jacobsc050/phi-4-model</title>
+    <updated>2023-06-28T01:38:36Z</updated>
+    <id>tag:github.com,2023-06-28:/jacobsc050/phi-4-model</id>
+    <link href="https://github.com/jacobsc050/phi-4-model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 2023 Infrastructure School project&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

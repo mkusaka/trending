@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Wollok Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:47:08Z</updated>
+  <updated>2023-06-28T01:52:18Z</updated>
   <subtitle>Daily Trending of Wollok in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>obj1-unahur-2023s1/tpgame-homero-y-los-simpsonitos</title>
+    <updated>2023-06-28T01:52:18Z</updated>
+    <id>tag:github.com,2023-06-28:/obj1-unahur-2023s1/tpgame-homero-y-los-simpsonitos</id>
+    <link href="https://github.com/obj1-unahur-2023s1/tpgame-homero-y-los-simpsonitos" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;tpgame-homero-y-los-simpsonitos created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>obj1-unahur-2023s1/tpgame-los-magios</title>
+    <updated>2023-06-28T01:52:18Z</updated>
+    <id>tag:github.com,2023-06-28:/obj1-unahur-2023s1/tpgame-los-magios</id>
+    <link href="https://github.com/obj1-unahur-2023s1/tpgame-los-magios" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;tpgame-los-magios created by GitHub Classroom&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

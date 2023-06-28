@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:30:31Z</updated>
+  <updated>2023-06-28T01:33:35Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ddy-ddy/cs-408</title>
-    <updated>2023-06-27T01:30:31Z</updated>
-    <id>tag:github.com,2023-06-27:/ddy-ddy/cs-408</id>
-    <link href="https://github.com/ddy-ddy/cs-408" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;计算机考研专业课程408相关的复习经验，资源和OneNote笔记&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wgwang/LLMs-In-China</title>
+    <updated>2023-06-28T01:33:35Z</updated>
+    <id>tag:github.com,2023-06-28:/wgwang/LLMs-In-China</id>
+    <link href="https://github.com/wgwang/LLMs-In-China" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;中国大模型&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>walter201230/Python</title>
-    <updated>2023-06-27T01:30:31Z</updated>
-    <id>tag:github.com,2023-06-27:/walter201230/Python</id>
-    <link href="https://github.com/walter201230/Python" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;最良心的 Python 教程：&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>kongruksiamza/programmer-class-room</title>
+    <updated>2023-06-28T01:33:35Z</updated>
+    <id>tag:github.com,2023-06-28:/kongruksiamza/programmer-class-room</id>
+    <link href="https://github.com/kongruksiamza/programmer-class-room" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;เอกสารประกอบการสอนทุกเนื้อหาในช่องยูทูป KongRuksiam Official&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DataScienceNigeria/DSN-50-days-of-learning-2023</title>
+    <updated>2023-06-28T01:33:35Z</updated>
+    <id>tag:github.com,2023-06-28:/DataScienceNigeria/DSN-50-days-of-learning-2023</id>
+    <link href="https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

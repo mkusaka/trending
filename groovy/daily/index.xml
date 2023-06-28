@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Groovy Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:36:12Z</updated>
+  <updated>2023-06-28T01:39:36Z</updated>
   <subtitle>Daily Trending of Groovy in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gatling/gatling-gradle-plugin</title>
-    <updated>2023-06-27T01:36:12Z</updated>
-    <id>tag:github.com,2023-06-27:/gatling/gatling-gradle-plugin</id>
-    <link href="https://github.com/gatling/gatling-gradle-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Gatling Plugin for Gradle&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:39:31Z</updated>
+  <updated>2023-06-28T01:43:22Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DLR-TS/cppcheck_docker</title>
-    <updated>2023-06-27T01:39:31Z</updated>
-    <id>tag:github.com,2023-06-27:/DLR-TS/cppcheck_docker</id>
-    <link href="https://github.com/DLR-TS/cppcheck_docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A docker wrapper for cppcheck&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>DLR-TS/lizard_docker</title>
-    <updated>2023-06-27T01:39:31Z</updated>
-    <id>tag:github.com,2023-06-27:/DLR-TS/lizard_docker</id>
-    <link href="https://github.com/DLR-TS/lizard_docker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A docker wrapper for lizard&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>SixArm/ui-ux-primer</title>
+    <updated>2023-06-28T01:43:22Z</updated>
+    <id>tag:github.com,2023-06-28:/SixArm/ui-ux-primer</id>
+    <link href="https://github.com/SixArm/ui-ux-primer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;UI/UX Primer: Concepts, Tactics, Ideas. This is a glossary guide e-book, with one topic per page. Edited by Joel Parker Henderson (@joelparkerhenderson).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

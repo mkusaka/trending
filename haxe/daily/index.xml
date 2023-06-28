@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haxe Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:36:24Z</updated>
+  <updated>2023-06-28T01:39:50Z</updated>
   <subtitle>Daily Trending of Haxe in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nebulazorua/full-restored</title>
-    <updated>2023-06-27T01:36:24Z</updated>
-    <id>tag:github.com,2023-06-27:/nebulazorua/full-restored</id>
-    <link href="https://github.com/nebulazorua/full-restored" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Hypno&#39;s Lullaby: Full Restored&lt;/h1&gt; &#xA;&lt;p&gt;A project spearheaded by &lt;a href=&#34;https://twitter.com/nebula_zorua&#34;&gt;Nebula_Zorua&lt;/a&gt; to restore the Hypno&#39;s Lullaby mod&lt;/p&gt; &#xA;&lt;p&gt;Due to a lack of motivation, however, the mod died and I don&#39;t want to keep it anymore, so I&#39;m throwing it out here&lt;/p&gt; &#xA;&lt;p&gt;Credits:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;The original Lullaby Team - The original mod (so most of the assets, etc). You can find them all individually in the credits menu ingame.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://twitter.com/nebula_zorua&#34;&gt;Nebula_Zorua&lt;/a&gt; - Director, main programmer&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://www.youtube.com/@EcholocatedOfficial&#34;&gt;Echolocated&lt;/a&gt; - Mega link icon in shop&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://twitter.com/ThatOneMTFGuy&#34;&gt;MTF&lt;/a&gt; - Pico sprite tweaks, Ghost Pico sprites&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://twitter.com/DuskieWhy&#34;&gt;DuskieWhy&lt;/a&gt; - Assistant programmer&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;It was a fun ride, but this is where I sign off&lt;/p&gt;</summary>
-  </entry>
 </feed>

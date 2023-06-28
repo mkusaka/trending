@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:34:41Z</updated>
+  <updated>2023-06-28T01:38:04Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lahorichargha/anything-el-swank-fuzzy</title>
+    <updated>2023-06-28T01:38:04Z</updated>
+    <id>tag:github.com,2023-06-28:/lahorichargha/anything-el-swank-fuzzy</id>
+    <link href="https://github.com/lahorichargha/anything-el-swank-fuzzy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Anything-sources for el-swank-fuzzy.el&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>traveter/dvorak-mode</title>
+    <updated>2023-06-28T01:38:04Z</updated>
+    <id>tag:github.com,2023-06-28:/traveter/dvorak-mode</id>
+    <link href="https://github.com/traveter/dvorak-mode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;On emacs, qwerty input convert dvorak input&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Khady/emacs.d</title>
+    <updated>2023-06-28T01:38:04Z</updated>
+    <id>tag:github.com,2023-06-28:/Khady/emacs.d</id>
+    <link href="https://github.com/Khady/emacs.d" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;emacs configuration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

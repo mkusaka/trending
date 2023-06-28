@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-27T01:46:51Z</updated>
+  <updated>2023-06-28T01:51:59Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>moyuc1966/netherworld-console</title>
-    <updated>2023-06-27T01:46:51Z</updated>
-    <id>tag:github.com,2023-06-27:/moyuc1966/netherworld-console</id>
-    <link href="https://github.com/moyuc1966/netherworld-console" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;地府管理系统完整版，功能完整，多用户多权限，有前台功能&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Aomferni/chatTests</title>
+    <updated>2023-06-28T01:51:59Z</updated>
+    <id>tag:github.com,2023-06-28:/Aomferni/chatTests</id>
+    <link href="https://github.com/Aomferni/chatTests" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DataWhale 5月 GPT应用开发Hackathon比赛TOP1项目， 拿到107.5/120的最高分！ 斩获最佳创新奖和最佳应用奖两个最佳奖项！&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
