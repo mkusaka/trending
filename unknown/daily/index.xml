@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-28T01:33:35Z</updated>
+  <updated>2023-06-29T01:30:23Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wgwang/LLMs-In-China</title>
-    <updated>2023-06-28T01:33:35Z</updated>
-    <id>tag:github.com,2023-06-28:/wgwang/LLMs-In-China</id>
-    <link href="https://github.com/wgwang/LLMs-In-China" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;中国大模型&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mzlogin/awesome-adb</title>
+    <updated>2023-06-29T01:30:23Z</updated>
+    <id>tag:github.com,2023-06-29:/mzlogin/awesome-adb</id>
+    <link href="https://github.com/mzlogin/awesome-adb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ADB Usage Complete / ADB 用法大全&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>kongruksiamza/programmer-class-room</title>
-    <updated>2023-06-28T01:33:35Z</updated>
-    <id>tag:github.com,2023-06-28:/kongruksiamza/programmer-class-room</id>
-    <link href="https://github.com/kongruksiamza/programmer-class-room" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;เอกสารประกอบการสอนทุกเนื้อหาในช่องยูทูป KongRuksiam Official&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenMotionLab/MotionGPT</title>
+    <updated>2023-06-29T01:30:23Z</updated>
+    <id>tag:github.com,2023-06-29:/OpenMotionLab/MotionGPT</id>
+    <link href="https://github.com/OpenMotionLab/MotionGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>DataScienceNigeria/DSN-50-days-of-learning-2023</title>
-    <updated>2023-06-28T01:33:35Z</updated>
-    <id>tag:github.com,2023-06-28:/DataScienceNigeria/DSN-50-days-of-learning-2023</id>
-    <link href="https://github.com/DataScienceNigeria/DSN-50-days-of-learning-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tauri-apps/awesome-tauri</title>
+    <updated>2023-06-29T01:30:23Z</updated>
+    <id>tag:github.com,2023-06-29:/tauri-apps/awesome-tauri</id>
+    <link href="https://github.com/tauri-apps/awesome-tauri" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🚀 Awesome Tauri Apps, Plugins and Resources&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

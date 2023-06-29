@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-28T01:47:17Z</updated>
+  <updated>2023-06-29T01:48:13Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jessesadler/intro-to-r</title>
+    <updated>2023-06-29T01:48:13Z</updated>
+    <id>tag:github.com,2023-06-29:/jessesadler/intro-to-r</id>
+    <link href="https://github.com/jessesadler/intro-to-r" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Scripts and data to go along with introductions to R&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Introduction to R&lt;/h2&gt; &#xA;&lt;p&gt;This repository collects tutorials on the use of R. The tutorials use historical data from the correspondence of Daniel van der Meulen in 1585. The data is a subset of a larger digital history project, information about which you can find &lt;a href=&#34;https://jessesadler.com/project/dvdm-correspondence/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The tutorials come from blog posts on &lt;a href=&#34;https://www.jessesadler.com&#34;&gt;https://www.jessesadler.com&lt;/a&gt;. The R markdown documents in this repository are used to create the posts. Each post also has an R script, which contains all of the code from the posts in a more compressed format.&lt;/p&gt; &#xA;&lt;p&gt;If you have any comments, please let me know in the issues.&lt;/p&gt;</summary>
+  </entry>
 </feed>
