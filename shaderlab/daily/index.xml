@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-29T01:49:52Z</updated>
+  <updated>2023-06-30T01:44:09Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>DhafinFawwaz/Unity-Optimized-Coins-Shader</title>
+    <updated>2023-06-30T01:44:09Z</updated>
+    <id>tag:github.com,2023-06-30:/DhafinFawwaz/Unity-Optimized-Coins-Shader</id>
+    <link href="https://github.com/DhafinFawwaz/Unity-Optimized-Coins-Shader" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Render thousands of coins with varying jumping and flipbook animation with only 1 batch drawcall&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

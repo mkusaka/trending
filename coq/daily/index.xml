@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Coq Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-29T01:33:38Z</updated>
+  <updated>2023-06-30T01:32:43Z</updated>
   <subtitle>Daily Trending of Coq in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jpaykin/OPLSS2023</title>
-    <updated>2023-06-29T01:33:38Z</updated>
-    <id>tag:github.com,2023-06-29:/jpaykin/OPLSS2023</id>
-    <link href="https://github.com/jpaykin/OPLSS2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Introduction to Coq course at OPLSS 2023&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tlringer/autoinduct</title>
+    <updated>2023-06-30T01:32:43Z</updated>
+    <id>tag:github.com,2023-06-30:/tlringer/autoinduct</id>
+    <link href="https://github.com/tlringer/autoinduct" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Taking a fun tactic implemented in class, and making it public for further refinement&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

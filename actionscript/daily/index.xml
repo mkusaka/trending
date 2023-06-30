@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ActionScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-29T01:30:44Z</updated>
+  <updated>2023-06-30T01:30:20Z</updated>
   <subtitle>Daily Trending of ActionScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>useflashpunk/FlashPunk</title>
-    <updated>2023-06-29T01:30:44Z</updated>
-    <id>tag:github.com,2023-06-29:/useflashpunk/FlashPunk</id>
-    <link href="https://github.com/useflashpunk/FlashPunk" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A free ActionScript 3 library designed for developing 2D Flash games. It provides you with a fast, clean framework to prototype and develop your games in. This means that most of the dirty work (timestep, animation, input, and collision to name a few) is already coded for you and ready to go, giving you more time and energy to concentrate on the…&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

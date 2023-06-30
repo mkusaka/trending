@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-29T01:33:21Z</updated>
+  <updated>2023-06-30T01:32:32Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>madduci/moderncpp-project-template</title>
-    <updated>2023-06-29T01:33:21Z</updated>
-    <id>tag:github.com,2023-06-29:/madduci/moderncpp-project-template</id>
-    <link href="https://github.com/madduci/moderncpp-project-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Modern C++ cross-platform Project Template with CMake, conan (optional), cppcheck (optional) and clang-format (optional)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
