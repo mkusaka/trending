@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:31:00Z</updated>
+  <updated>2023-07-01T01:32:01Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rylan-justice/cessation</title>
-    <updated>2023-06-30T01:31:00Z</updated>
-    <id>tag:github.com,2023-06-30:/rylan-justice/cessation</id>
-    <link href="https://github.com/rylan-justice/cessation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A script that initiates the termination of startup processes&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>prefeitura-rio/sms-rjcore-fhir</title>
+    <updated>2023-07-01T01:32:01Z</updated>
+    <id>tag:github.com,2023-07-01:/prefeitura-rio/sms-rjcore-fhir</id>
+    <link href="https://github.com/prefeitura-rio/sms-rjcore-fhir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:39:58Z</updated>
+  <updated>2023-07-01T01:41:37Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JohnHammond/binnim</title>
+    <updated>2023-07-01T01:41:37Z</updated>
+    <id>tag:github.com,2023-07-01:/JohnHammond/binnim</id>
+    <link href="https://github.com/JohnHammond/binnim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shitty Nim code that reads in a file and converts it into \x hex representation, for the use of shellcode binaries.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

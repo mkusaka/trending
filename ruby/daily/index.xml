@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Ruby Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:43:27Z</updated>
+  <updated>2023-07-01T01:45:01Z</updated>
   <subtitle>Daily Trending of Ruby in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>aprendegit/fork</title>
+    <updated>2023-07-01T01:45:01Z</updated>
+    <id>tag:github.com,2023-07-01:/aprendegit/fork</id>
+    <link href="https://github.com/aprendegit/fork" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proyecto de prueba para escribir los artículos relacionados con forks en aprendegit.com&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Pull Request Tutorial&lt;/h1&gt; &#xA;&lt;p&gt;Comandos para trabajar con forks:&lt;/p&gt; &#xA;&lt;p&gt;git remote add upstream &lt;a href=&#34;https://github.com/whoever/whatever.git&#34;&gt;https://github.com/whoever/whatever.git&lt;/a&gt; (añadir al git remote el repositorio original)&lt;/p&gt; &#xA;&lt;p&gt;git fetch upstream (actualizar el fork)&lt;/p&gt; &#xA;&lt;p&gt;git checkout master (cambiar a la rama master)&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;Hacer cambios aquí&lt;/em&gt;&lt;/p&gt; &#xA;&lt;p&gt;git rebase upstream/master (añadir commits)&lt;/p&gt; &#xA;&lt;p&gt;git push -f origin master (actualizar tu repositorio)&lt;/p&gt;</summary>
+  </entry>
 </feed>

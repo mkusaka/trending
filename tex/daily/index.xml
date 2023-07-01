@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:45:31Z</updated>
+  <updated>2023-07-01T01:47:33Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>manuels/texlive.js</title>
-    <updated>2023-06-30T01:45:31Z</updated>
-    <id>tag:github.com,2023-06-30:/manuels/texlive.js</id>
-    <link href="https://github.com/manuels/texlive.js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compiling LaTeX (TeX live) in your browser&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;texlive.js &lt;a href=&#34;https://flattr.com/submit/auto?user_id=manuelsch&amp;amp;url=https%3A%2F%2Fgithub.com%2Fmanuels%2Ftexlive.js&#34;&gt;&lt;img src=&#34;https://api.flattr.com/button/flattr-badge-large.png&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;This is a port of TeX live 2016 to Javascript. It is based on the port of the pdftex TeX compiler to Javascript using emscripten. It creates PDF files from LaTeX code and supports packages.&lt;/p&gt; &#xA;&lt;p&gt;For more information checkout the &lt;a href=&#34;https://github.com/manuels/texlive.js/wiki&#34;&gt;wiki&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Related Projects&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/brianmingus/bibtex.js/&#34;&gt;bibtex.js&lt;/a&gt; - bibtex ported to javascript &lt;a href=&#34;https://github.com/manuels/ep_latex&#34;&gt;ep_latex&lt;/a&gt; - etherpad-lite plugin for texlive.js&lt;/p&gt;</summary>
+    <title>munizdiezclara/RM-paper</title>
+    <updated>2023-07-01T01:47:33Z</updated>
+    <id>tag:github.com,2023-07-01:/munizdiezclara/RM-paper</id>
+    <link href="https://github.com/munizdiezclara/RM-paper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RM paper&lt;/h1&gt; &#xA;&lt;p&gt;This is the draft for the possible paper on recent experiments related with recognition memory&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>jfinkels/grouprank</title>
+    <updated>2023-07-01T01:47:33Z</updated>
+    <id>tag:github.com,2023-07-01:/jfinkels/grouprank</id>
+    <link href="https://github.com/jfinkels/grouprank" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Complexity of computing the size of the minimum generating set of a group&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Computing Group Rank with Limited Nondeterminism&lt;/h1&gt; &#xA;&lt;p&gt;This file was last updated on 18 April 2014.&lt;/p&gt; &#xA;&lt;h2&gt;Downloading&lt;/h2&gt; &#xA;&lt;p&gt;The markup is available from GitHub.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone git@github.com:jfinkels/grouprank&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;A somewhat recent version of the compiled document should be available at &lt;a href=&#34;https://cs-people.bu.edu/jeffreyf/static/pdf/grouprank.pdf&#34;&gt;https://cs-people.bu.edu/jeffreyf/static/pdf/grouprank.pdf&lt;/a&gt;, but I can&#39;t guarantee that that will always be up to date, since I compile and upload it manually.&lt;/p&gt; &#xA;&lt;h2&gt;Compilation dependencies&lt;/h2&gt; &#xA;&lt;p&gt;Compilation requires &lt;code&gt;pdflatex&lt;/code&gt;, &lt;code&gt;biber&lt;/code&gt;, and the following LaTeX packages:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;amsmath&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;amsthm&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;babel&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;biblatex&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;complexity&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;csquotes&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;hyperref&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;thmtools&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;code&gt;tikz&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;To install these packages on Ubuntu 11.04 through 14.04:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo apt-get install texlive-base texlive-latex-base texlive-latex-extra \&#xA;  texlive-science texlive-pictures biber&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Compiling&lt;/h2&gt; &#xA;&lt;p&gt;To compile the document, run&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;pdflatex grouprank&#xA;biber grouprank&#xA;pdflatex grouprank&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The output is &lt;code&gt;grouprank.pdf&lt;/code&gt;, and can be viewed with any PDF reader.&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;Copyright 2014 Jeffrey Finkelstein.&lt;/p&gt; &#xA;&lt;p&gt;Both the LaTeX markup and the content of this article are made available under the terms of the Creative Commons Attribution-ShareAlike 4.0 International License, &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;https://creativecommons.org/licenses/by-sa/4.0/&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;Contact&lt;/h2&gt; &#xA;&lt;p&gt;Jeffrey Finkelstein &lt;a href=&#34;mailto:jeffreyf@bu.edu&#34;&gt;jeffreyf@bu.edu&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

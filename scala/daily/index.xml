@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:43:55Z</updated>
+  <updated>2023-07-01T01:45:34Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lukaszbudnik/hackaton-portal</title>
-    <updated>2023-06-30T01:43:55Z</updated>
-    <id>tag:github.com,2023-06-30:/lukaszbudnik/hackaton-portal</id>
-    <link href="https://github.com/lukaszbudnik/hackaton-portal" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;hackaton.pl project&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hackaton-portal &lt;a href=&#34;http://travis-ci.org/lukaszbudnik/hackaton-portal&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/lukaszbudnik/hackaton-portal.png?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;hackaton.pl project&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>davenatx/ScalaFun</title>
-    <updated>2023-06-30T01:43:55Z</updated>
-    <id>tag:github.com,2023-06-30:/davenatx/ScalaFun</id>
-    <link href="https://github.com/davenatx/ScalaFun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ScalaFun&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Experimenting with Scala Features&lt;/p&gt;</summary>
-  </entry>
 </feed>

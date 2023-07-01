@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub WebAssembly Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-01T02:24:35Z</updated>
+  <subtitle>Monthly Trending of WebAssembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wasmerio/old-docs.wasmer.io</title>
+    <updated>2023-07-01T02:24:35Z</updated>
+    <id>tag:github.com,2023-07-01:/wasmerio/old-docs.wasmer.io</id>
+    <link href="https://github.com/wasmerio/old-docs.wasmer.io" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wasmer Documentation (for standalone and embedded use cases)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

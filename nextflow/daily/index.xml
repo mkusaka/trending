@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nextflow Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:39:54Z</updated>
+  <updated>2023-07-01T01:41:32Z</updated>
   <subtitle>Daily Trending of Nextflow in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nextflow-io/hello</title>
-    <updated>2023-06-30T01:39:54Z</updated>
-    <id>tag:github.com,2023-06-30:/nextflow-io/hello</id>
-    <link href="https://github.com/nextflow-io/hello" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Classic hello world script in Nextflow language&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

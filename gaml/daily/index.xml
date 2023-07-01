@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:34:45Z</updated>
+  <updated>2023-07-01T01:36:15Z</updated>
   <subtitle>Daily Trending of GAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>project-SIMPLE/demo-hoankiemair</title>
-    <updated>2023-06-30T01:34:45Z</updated>
-    <id>tag:github.com,2023-06-30:/project-SIMPLE/demo-hoankiemair</id>
-    <link href="https://github.com/project-SIMPLE/demo-hoankiemair" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

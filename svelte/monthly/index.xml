@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Svelte Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-01T02:23:02Z</updated>
+  <subtitle>Monthly Trending of Svelte in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>huntabyte/shadcn-svelte</title>
+    <updated>2023-07-01T02:23:02Z</updated>
+    <id>tag:github.com,2023-07-01:/huntabyte/shadcn-svelte</id>
+    <link href="https://github.com/huntabyte/shadcn-svelte" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;shadcn/ui, but for Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dufu1991/stdf</title>
+    <updated>2023-07-01T02:23:02Z</updated>
+    <id>tag:github.com,2023-07-01:/dufu1991/stdf</id>
+    <link href="https://github.com/dufu1991/stdf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mobile Web component library based on Svelte and Tailwind&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>seriousm4x/UpSnap</title>
+    <updated>2023-07-01T02:23:02Z</updated>
+    <id>tag:github.com,2023-07-01:/seriousm4x/UpSnap</id>
+    <link href="https://github.com/seriousm4x/UpSnap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple wake on lan web app written with SvelteKit, Go, PocketBase and nmap&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

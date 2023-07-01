@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub HCL Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-01T02:13:52Z</updated>
+  <subtitle>Monthly Trending of HCL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Azure/terraform-azurerm-aks</title>
+    <updated>2023-07-01T02:13:52Z</updated>
+    <id>tag:github.com,2023-07-01:/Azure/terraform-azurerm-aks</id>
+    <link href="https://github.com/Azure/terraform-azurerm-aks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Module for deploying an AKS cluster&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>terraform-aws-modules/terraform-aws-eventbridge</title>
+    <updated>2023-07-01T02:13:52Z</updated>
+    <id>tag:github.com,2023-07-01:/terraform-aws-modules/terraform-aws-eventbridge</id>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eventbridge" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform module which creates EventBridge resources on AWS 🇺🇦&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GoogleCloudPlatform/kubernetes-engine-samples</title>
+    <updated>2023-07-01T02:13:52Z</updated>
+    <id>tag:github.com,2023-07-01:/GoogleCloudPlatform/kubernetes-engine-samples</id>
+    <link href="https://github.com/GoogleCloudPlatform/kubernetes-engine-samples" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sample applications for Google Kubernetes Engine (GKE)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

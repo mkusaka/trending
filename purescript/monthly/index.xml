@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PureScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-01T02:20:09Z</updated>
+  <subtitle>Monthly Trending of PureScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>purescript/purescript-prelude</title>
+    <updated>2023-07-01T02:20:09Z</updated>
+    <id>tag:github.com,2023-07-01:/purescript/purescript-prelude</id>
+    <link href="https://github.com/purescript/purescript-prelude" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The PureScript Prelude&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript/purescript-quickcheck</title>
+    <updated>2023-07-01T02:20:09Z</updated>
+    <id>tag:github.com,2023-07-01:/purescript/purescript-quickcheck</id>
+    <link href="https://github.com/purescript/purescript-quickcheck" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An implementation of QuickCheck in PureScript&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>purescript-web/purescript-web-html</title>
+    <updated>2023-07-01T02:20:09Z</updated>
+    <id>tag:github.com,2023-07-01:/purescript-web/purescript-web-html</id>
+    <link href="https://github.com/purescript-web/purescript-web-html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Type definitions and low level interface implementations for the W3C HTML5 spec&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

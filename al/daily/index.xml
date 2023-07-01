@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:30:28Z</updated>
+  <updated>2023-07-01T01:31:25Z</updated>
   <subtitle>Daily Trending of AL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vjekob/bctechdays2023</title>
-    <updated>2023-06-30T01:30:28Z</updated>
-    <id>tag:github.com,2023-06-30:/vjekob/bctechdays2023</id>
-    <link href="https://github.com/vjekob/bctechdays2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vjeko&#39;s &amp; waldo&#39;s demo repository for BC TechDays 2023&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

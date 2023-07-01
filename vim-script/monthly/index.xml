@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-01T02:24:22Z</updated>
+  <subtitle>Monthly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bluekeyes/dotosaurus</title>
+    <updated>2023-07-01T02:24:22Z</updated>
+    <id>tag:github.com,2023-07-01:/bluekeyes/dotosaurus</id>
+    <link href="https://github.com/bluekeyes/dotosaurus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Protecting dotfiles and such from extinction by meteorite&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fladson/vim-kitty</title>
+    <updated>2023-07-01T02:24:22Z</updated>
+    <id>tag:github.com,2023-07-01:/fladson/vim-kitty</id>
+    <link href="https://github.com/fladson/vim-kitty" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vim syntax highlighting for Kitty terminal config files&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>maxim28/first_repo</title>
+    <updated>2023-07-01T02:24:22Z</updated>
+    <id>tag:github.com,2023-07-01:/maxim28/first_repo</id>
+    <link href="https://github.com/maxim28/first_repo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;my first git repo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

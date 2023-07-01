@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-01T02:10:16Z</updated>
+  <subtitle>Monthly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jsliang/eqHeight.coffee</title>
+    <updated>2023-07-01T02:10:16Z</updated>
+    <id>tag:github.com,2023-07-01:/jsliang/eqHeight.coffee</id>
+    <link href="https://github.com/jsliang/eqHeight.coffee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;eqHeight.coffee is a jQuery plugin that stretches fluid columns to equal height. It is originally designed to be used in responsive web design.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>raypatterson/notvodka-meteor</title>
+    <updated>2023-07-01T02:10:16Z</updated>
+    <id>tag:github.com,2023-07-01:/raypatterson/notvodka-meteor</id>
+    <link href="https://github.com/raypatterson/notvodka-meteor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;I Can&#39;t Believe It&#39;s Not Vodka!®&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>node-cache/node-cache</title>
+    <updated>2023-07-01T02:10:16Z</updated>
+    <id>tag:github.com,2023-07-01:/node-cache/node-cache</id>
+    <link href="https://github.com/node-cache/node-cache" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a node internal (in-memory) caching module&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

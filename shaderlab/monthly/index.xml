@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub ShaderLab Monthly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-01T02:22:01Z</updated>
+  <subtitle>Monthly Trending of ShaderLab in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Gaolingx/GenshinCelShaderURP</title>
+    <updated>2023-07-01T02:22:01Z</updated>
+    <id>tag:github.com,2023-07-01:/Gaolingx/GenshinCelShaderURP</id>
+    <link href="https://github.com/Gaolingx/GenshinCelShaderURP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;这是一个基于URP的开源仿原神卡通渲染项目&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

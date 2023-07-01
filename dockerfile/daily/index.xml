@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:33:39Z</updated>
+  <updated>2023-07-01T01:34:37Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>filecoin-project/motion</title>
+    <updated>2023-07-01T01:34:37Z</updated>
+    <id>tag:github.com,2023-07-01:/filecoin-project/motion</id>
+    <link href="https://github.com/filecoin-project/motion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏍️ Propelling Data onto FileCoin&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;&lt;span&gt;🏍&lt;/span&gt; motion&lt;/h1&gt; &#xA;&lt;p&gt;Motion is a service to propel data onto FileCoin network via a simple easy to use API. It aims to create an easy path for independent software vendors to integrate FileCoin as a storage layer.&lt;/p&gt; &#xA;&lt;h2&gt;Status&lt;/h2&gt; &#xA;&lt;p&gt;&lt;span&gt;🚧&lt;/span&gt; This project is currently under active development.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://raw.githubusercontent.com/filecoin-project/motion/main/LICENSE.md&#34;&gt;SPDX-License-Identifier: Apache-2.0 OR MIT&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:29:51Z</updated>
+  <updated>2023-07-01T01:30:55Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sohamkamani/javascript-design-patterns-for-humans</title>
-    <updated>2023-06-30T01:29:51Z</updated>
-    <id>tag:github.com,2023-06-30:/sohamkamani/javascript-design-patterns-for-humans</id>
-    <link href="https://github.com/sohamkamani/javascript-design-patterns-for-humans" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ultra-simplified explanation of design patterns implemented in javascript&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WeMakeDevs/open-source-course</title>
+    <updated>2023-07-01T01:30:55Z</updated>
+    <id>tag:github.com,2023-07-01:/WeMakeDevs/open-source-course</id>
+    <link href="https://github.com/WeMakeDevs/open-source-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ahmetbersoz/chatgpt-prompts-for-academic-writing</title>
+    <updated>2023-07-01T01:30:55Z</updated>
+    <id>tag:github.com,2023-07-01:/ahmetbersoz/chatgpt-prompts-for-academic-writing</id>
+    <link href="https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>XIU2/Yuedu</title>
+    <updated>2023-07-01T01:30:55Z</updated>
+    <id>tag:github.com,2023-07-01:/XIU2/Yuedu</id>
+    <link href="https://github.com/XIU2/Yuedu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚「阅读」APP 精品书源（网络小说）&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

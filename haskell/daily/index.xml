@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-06-30T01:35:45Z</updated>
+  <updated>2023-07-01T01:37:26Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>evincarofautumn/object</title>
-    <updated>2023-06-30T01:35:45Z</updated>
-    <id>tag:github.com,2023-06-30:/evincarofautumn/object</id>
-    <link href="https://github.com/evincarofautumn/object" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight OOP system in Haskell&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wavewave/ufomaker</title>
+    <updated>2023-07-01T01:37:26Z</updated>
+    <id>tag:github.com,2023-07-01:/wavewave/ufomaker</id>
+    <link href="https://github.com/wavewave/ufomaker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The UFO (Universal FeynRules Output) format generator&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>gallais/dot-analysis</title>
-    <updated>2023-06-30T01:35:45Z</updated>
-    <id>tag:github.com,2023-06-30:/gallais/dot-analysis</id>
-    <link href="https://github.com/gallais/dot-analysis" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Analysing dependency graphs produced by Agda&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dot-analysis&lt;/h1&gt; &#xA;&lt;p&gt;Analysing dependency graphs produced by Agda&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cabal install .&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Quick usage&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Install &lt;a href=&#34;https://agda.readthedocs.io/en/latest/getting-started/installation.html&#34;&gt;agda&lt;/a&gt;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Install &lt;a href=&#34;https://graphviz.org/download/&#34;&gt;graphviz&lt;/a&gt;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Generate a &lt;code&gt;dot&lt;/code&gt; file for an &lt;code&gt;agda&lt;/code&gt; file -&lt;/p&gt; &lt;pre&gt;&lt;code&gt;agda -i. --dependency-graph={file_name}.dot {agda_file_name}.agda`&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Run &lt;code&gt;dot-analysis&lt;/code&gt; -&lt;/p&gt; &lt;pre&gt;&lt;code&gt;dot-analysis {file_name}.dot&#xA;&lt;/code&gt;&lt;/pre&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+    <title>amitaibu/ihp-landing-page</title>
+    <updated>2023-07-01T01:37:26Z</updated>
+    <id>tag:github.com,2023-07-01:/amitaibu/ihp-landing-page</id>
+    <link href="https://github.com/amitaibu/ihp-landing-page" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IHP Landing Page&lt;/h1&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install &lt;a href=&#34;https://ihp.digitallyinduced.com/&#34;&gt;IHP&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Install devenv:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;cachix use devenv&#xA;nix-env -if https://github.com/cachix/devenv/tarball/latest&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Let the dependencies automatically build whenever you enter the project&#39;s directory&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;direnv allow&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Install node packages&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Execute&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;On one terminal tab: &lt;code&gt;make tailwind-dev&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;On another terminal tab: &lt;code&gt;devenv up&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>brendanhay/ligature</title>
+    <updated>2023-07-01T01:37:26Z</updated>
+    <id>tag:github.com,2023-07-01:/brendanhay/ligature</id>
+    <link href="https://github.com/brendanhay/ligature" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Graphite dashboards&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
