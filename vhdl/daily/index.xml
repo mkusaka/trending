@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:48:41Z</updated>
+  <updated>2023-07-02T01:49:13Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>grsyigit/Electronics_and_Communication_Engineering_ITU</title>
-    <updated>2023-07-01T01:48:41Z</updated>
-    <id>tag:github.com,2023-07-01:/grsyigit/Electronics_and_Communication_Engineering_ITU</id>
-    <link href="https://github.com/grsyigit/Electronics_and_Communication_Engineering_ITU" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;You can find the documents, assignments and projects of some of the courses given in Electronics and Communication engineering at Istanbul Technical University here.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Perl Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-02T02:02:10Z</updated>
+  <subtitle>Weekly Trending of Perl in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dominikschulz/App-Cerberus-Plugin-Woothee</title>
+    <updated>2023-07-02T02:02:10Z</updated>
+    <id>tag:github.com,2023-07-02:/dominikschulz/App-Cerberus-Plugin-Woothee</id>
+    <link href="https://github.com/dominikschulz/App-Cerberus-Plugin-Woothee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Woothee User-Agent plugin for App::Cerberus&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hadley/ggplot2-book</title>
+    <updated>2023-07-02T02:02:10Z</updated>
+    <id>tag:github.com,2023-07-02:/hadley/ggplot2-book</id>
+    <link href="https://github.com/hadley/ggplot2-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ggplot2: elegant graphics for data analysis&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ggplot2 book&lt;/h1&gt; &#xA;&lt;!-- badges: start --&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/hadley/ggplot2-book/actions&#34;&gt;&lt;img src=&#34;https://github.com/hadley/ggplot2-book/actions/workflows/bookdown.yaml/badge.svg?event=push&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;!-- badges: end --&gt; &#xA;&lt;p&gt;This is code and text behind the &lt;a href=&#34;http://ggplot2-book.org/&#34;&gt;ggplot2: elegant graphics for data analysis&lt;/a&gt; book. Please help us make it better by &lt;a href=&#34;https://raw.githubusercontent.com/hadley/ggplot2-book/main/contributing.md&#34;&gt;contributing&lt;/a&gt;!&lt;/p&gt; &#xA;&lt;h2&gt;Installing dependencies&lt;/h2&gt; &#xA;&lt;p&gt;Install the R packages used by the book with:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;# install.packages(&#34;devtools&#34;)&#xA;devtools::install_deps()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Build the book&lt;/h2&gt; &#xA;&lt;p&gt;In RStudio, press Cmd/Ctrl + Shift + B. Or run:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;bookdown::render_book(&#34;index.Rmd&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>appsdesh/ChangeTracker</title>
+    <updated>2023-07-02T02:02:10Z</updated>
+    <id>tag:github.com,2023-07-02:/appsdesh/ChangeTracker</id>
+    <link href="https://github.com/appsdesh/ChangeTracker" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DB change tracking script&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Created by : Apoorva Deshpande&lt;/h2&gt; &#xA;&lt;p&gt;Contact info : &lt;a href=&#34;http://www.linkedin.com/in/appsdesh&#34;&gt;http://www.linkedin.com/in/appsdesh&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Description : Script to track and maintain database changes.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;db_script_runner is a Perl script to execute SQL scripts for updating the database -h would give you the help menu.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;It will try to execute sql scripts from the folder specified by -f option.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Database name, username, password, db host could be provided as command line options.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;All of the sql scripts should scrictly enforce following naming convention. sql_\d{1,10}&lt;em&gt;*.sql ( ==&amp;gt; sql&lt;/em&gt;{number}_{text}.sql where number and text are placeholders )&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Where the integer number would help in ensuring the script execution order.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;For any changes in the current script one needs to create a new script with the next number in ascending order.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;This scripts maintains the database state in CONFIG_SCRIPTS table, this table keeps track of all those sql scripts which are previously executed.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;db_script_runner would execute only those sql scripts which are yet to be executed.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;db_script_runner follows the following algorithm a. Check if CONFIG_SRIPTS table exists. i. If NO then create it. b. Check which was the last sql script executed. c. Check in the folder for newer sql script. i. Execute newer script ( Fail on error. Manual intervention needed. ) ii. Make an entry in the CONFIG_SRIPTS table. d. exit&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;eg. db_script_runner is executed for the first time. Folder contains follwing scripts. sql_1_r2-1.sql sql_2_r2-2.sql sql_3_r2-3-prod.sql sql_4_r2-3-1.sql sql_5_r2-4.sql Then db_script_runner would create CONFIG_SCRIPT table in the specified db ( As it is running for the first time ). Since the CONFIG_SCRIPTS table is empty all sql scripts are considered NEW. db_script_runner would execute all scripts one at a time enforcing the sorted ascending order of {number}.&lt;/p&gt; &lt;p&gt;If someone modifies one of the script or adds a new script then it should be stored as sql_6_modified/added.sql The next time when db_script_runner is invoked it will check the db state by looking at CONFIG_SCRIPTS table and identifies sql_6_modified/added.sql as an only candidate for execution.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
+  </entry>
+</feed>

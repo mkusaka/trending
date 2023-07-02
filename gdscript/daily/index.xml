@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:36:21Z</updated>
+  <updated>2023-07-02T01:36:06Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jeremyz/godot-hexgrid</title>
-    <updated>2023-07-01T01:36:21Z</updated>
-    <id>tag:github.com,2023-07-01:/jeremyz/godot-hexgrid</id>
-    <link href="https://github.com/jeremyz/godot-hexgrid" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a godot based framework to build hex map boardgames.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

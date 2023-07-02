@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Scala Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-02T02:04:56Z</updated>
+  <subtitle>Weekly Trending of Scala in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mtswd2023/sl1</title>
+    <updated>2023-07-02T02:04:56Z</updated>
+    <id>tag:github.com,2023-07-02:/mtswd2023/sl1</id>
+    <link href="https://github.com/mtswd2023/sl1" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;Assignment #1&lt;/h3&gt; &#xA;&lt;p&gt;Please refer to &lt;a href=&#34;https://raw.githubusercontent.com/mtswd2023/sl1/main/src/test/scala/ua/kpi/pti/fp/l1/assignment/Assignment.scala&#34;&gt;Assignment.scala&lt;/a&gt; for instructions.&lt;/p&gt; &#xA;&lt;h4&gt;Local tests&lt;/h4&gt; &#xA;&lt;p&gt;Just run &lt;code&gt;sbt test&lt;/code&gt; in your working directory&lt;/p&gt; &#xA;&lt;h3&gt;PR titles&lt;/h3&gt; &#xA;&lt;p&gt;Please include your name, group and short summary in the PR title.&lt;/p&gt; &#xA;&lt;h3&gt;Formatting&lt;/h3&gt; &#xA;&lt;p&gt;PRs will be rejected if they don&#39;t pass tests. Tests include formatting checks. Please install &lt;a href=&#34;https://scalameta.org/scalafmt/docs/installation.html&#34;&gt;scalafmt&lt;/a&gt; and format your code before pushing.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>magott/fooz</title>
+    <updated>2023-07-02T02:04:56Z</updated>
+    <id>tag:github.com,2023-07-02:/magott/fooz</id>
+    <link href="https://github.com/magott/fooz" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Short-lived, showing some strange casbah/scala 2.10 behavior&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lukaszbudnik/hackaton-portal</title>
+    <updated>2023-07-02T02:04:56Z</updated>
+    <id>tag:github.com,2023-07-02:/lukaszbudnik/hackaton-portal</id>
+    <link href="https://github.com/lukaszbudnik/hackaton-portal" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;hackaton.pl project&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;hackaton-portal &lt;a href=&#34;http://travis-ci.org/lukaszbudnik/hackaton-portal&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/lukaszbudnik/hackaton-portal.png?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/h1&gt; &#xA;&lt;p&gt;hackaton.pl project&lt;/p&gt;</summary>
+  </entry>
+</feed>

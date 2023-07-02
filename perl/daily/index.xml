@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:42:42Z</updated>
+  <updated>2023-07-02T01:42:58Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>anviljs/anvil.demo.scaffolds</title>
-    <updated>2023-07-01T01:42:42Z</updated>
-    <id>tag:github.com,2023-07-01:/anviljs/anvil.demo.scaffolds</id>
-    <link href="https://github.com/anviljs/anvil.demo.scaffolds" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;demo scaffolds for the quick start guide&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;anvil.demo.scaffolds&lt;/h2&gt; &#xA;&lt;p&gt;A set of scaffolds for the quick start guide at &lt;a href=&#34;http://anviljs.com/public/quick-start.html&#34;&gt;http://anviljs.com/public/quick-start.html&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>mathworks/Polyspace-Stack-Flow-Viewer</title>
+    <updated>2023-07-02T01:42:58Z</updated>
+    <id>tag:github.com,2023-07-02:/mathworks/Polyspace-Stack-Flow-Viewer</id>
+    <link href="https://github.com/mathworks/Polyspace-Stack-Flow-Viewer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Polyspace Stack Flow Viewer&lt;/h1&gt; &#xA;&lt;p&gt;Polyspace Stack Flow Viewer is a Perl script showing the stack usage of a C or C++ program throughout the call tree of this program. It can be then used to help developers identify potential stack overflow issues or better understand the stack usage of C/C++ programs.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;The tool will merge an export file (in tsv format) of a Polyspace® Code Prover™ results and a report in HTML format created using the report template CallHierarchy.rpt to produce an HTML file showing the stack usage using the call hierarchy of functions.&lt;/p&gt; &#xA;&lt;p&gt;The stack usage metrics computed by Polyspace is shown by a range of the minimum and maximum stack usage. Please note that when the stack cannot be computed, a ? will be given instead.&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;p&gt;Perl should be installed on the platform where the tool will be used.&lt;/p&gt; &#xA;&lt;p&gt;If the script is used under Windows, first edit the script stack_flow_viewer.bat to change the value of the variable PATH_PERL, to specify the path to your Perl installation at the second line by modifying the variable PATH_PERL so it contains the absolute path to the bin folder of your Perl installation.&lt;/p&gt; &#xA;&lt;p&gt;Under Linux, set the execution rights for stack_flow_viewer.sh:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt; chmod u+x stack_flow_viewer.sh&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;Calling the tool&lt;/h1&gt; &#xA;&lt;p&gt;Under Windows, launch:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt; stack_flow_viewer.bat &amp;lt;export_file&amp;gt; &amp;lt;html_report_file&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Under Linux, launch:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt; ./stack_flow_viewer.sh &amp;lt;export_file&amp;gt; &amp;lt;html_report_file&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Example:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt; stack_flow_viewer.sh Result_List_cpp.txt cpp_example.html&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;The tool will generate an HTML file named output.html.&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;The license for Polyspace Stack Flow Viewer is available in the LICENSE.TXT file in this GitHub repository.&lt;/p&gt; &#xA;&lt;h1&gt;Community Support&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.mathworks.com/matlabcentral&#34;&gt;MATLAB Central&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Copyright 2023 The MathWorks, Inc.&lt;/p&gt;</summary>
   </entry>
 </feed>

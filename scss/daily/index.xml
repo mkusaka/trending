@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:45:47Z</updated>
+  <updated>2023-07-02T01:46:34Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>creativetimofficial/vue-argon-dashboard-laravel</title>
-    <updated>2023-07-01T01:45:47Z</updated>
-    <id>tag:github.com,2023-07-01:/creativetimofficial/vue-argon-dashboard-laravel</id>
-    <link href="https://github.com/creativetimofficial/vue-argon-dashboard-laravel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Vue SPA Argon template connected to working Laravel REST API with the help of json:api standard&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

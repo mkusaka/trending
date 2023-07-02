@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:37:26Z</updated>
+  <updated>2023-07-02T01:37:13Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wavewave/ufomaker</title>
-    <updated>2023-07-01T01:37:26Z</updated>
-    <id>tag:github.com,2023-07-01:/wavewave/ufomaker</id>
-    <link href="https://github.com/wavewave/ufomaker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The UFO (Universal FeynRules Output) format generator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>amitaibu/ihp-landing-page</title>
-    <updated>2023-07-01T01:37:26Z</updated>
-    <id>tag:github.com,2023-07-01:/amitaibu/ihp-landing-page</id>
-    <link href="https://github.com/amitaibu/ihp-landing-page" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;IHP Landing Page&lt;/h1&gt; &#xA;&lt;h2&gt;Install&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install &lt;a href=&#34;https://ihp.digitallyinduced.com/&#34;&gt;IHP&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Install devenv:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;cachix use devenv&#xA;nix-env -if https://github.com/cachix/devenv/tarball/latest&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Let the dependencies automatically build whenever you enter the project&#39;s directory&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;direnv allow&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Install node packages&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;npm install&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Execute&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;On one terminal tab: &lt;code&gt;make tailwind-dev&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;On another terminal tab: &lt;code&gt;devenv up&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>brendanhay/ligature</title>
-    <updated>2023-07-01T01:37:26Z</updated>
-    <id>tag:github.com,2023-07-01:/brendanhay/ligature</id>
-    <link href="https://github.com/brendanhay/ligature" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Graphite dashboards&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>input-output-hk/cardano-sl</title>
+    <updated>2023-07-02T01:37:13Z</updated>
+    <id>tag:github.com,2023-07-02:/input-output-hk/cardano-sl</id>
+    <link href="https://github.com/input-output-hk/cardano-sl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cryptographic currency implementing Ouroboros PoS protocol&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Cardano SL&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://buildkite.com/input-output-hk/cardano-sl&#34;&gt;&lt;img src=&#34;https://badge.buildkite.com/9c3141d21214ff3ea95d0a38a0e1dab59b206159d2841dee44.svg?branch=master&#34; alt=&#34;Build status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://ci.appveyor.com/project/input-output/cardano-sl&#34;&gt;&lt;img src=&#34;https://ci.appveyor.com/api/projects/status/github/input-output-hk/cardano-sl?branch=master&amp;amp;svg=true&#34; alt=&#34;Windows build status&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/input-output-hk/cardano-sl/releases&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/release/input-output-hk/cardano-sl.svg?sanitize=true&#34; alt=&#34;Release&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;What is Cardano SL?&lt;/h2&gt; &#xA;&lt;p&gt;&lt;strong&gt;This codebase is now deprecated in favour of the new Shelley-capable Cardano implementation.&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;The new Cardano implementation consists of more granular components:&lt;/p&gt; &#xA;&lt;p&gt;Looking for a node?&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/input-output-hk/cardano-node&#34;&gt;cardano-node&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Looking for an explorer?&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/input-output-hk/cardano-db-sync&#34;&gt;cardano-db-sync&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/input-output-hk/cardano-graphql&#34;&gt;cardano-graphql&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/input-output-hk/cardano-rest&#34;&gt;cardano-rest&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Looking for a wallet?&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/input-output-hk/cardano-wallet&#34;&gt;cardano-wallet&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Don&#39;t know where to start?&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://input-output-hk.github.io/adrestia/&#34;&gt;Adrestia user-guide&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

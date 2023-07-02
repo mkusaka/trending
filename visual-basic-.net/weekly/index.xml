@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Visual Basic .NET Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-02T02:07:43Z</updated>
+  <subtitle>Weekly Trending of Visual Basic .NET in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>leinue/AVG</title>
+    <updated>2023-07-02T02:07:43Z</updated>
+    <id>tag:github.com,2023-07-02:/leinue/AVG</id>
+    <link href="https://github.com/leinue/AVG" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;avg&#39;s intrepretring&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ygetachew/UcsFiscalPrinters</title>
+    <updated>2023-07-02T02:07:43Z</updated>
+    <id>tag:github.com,2023-07-02:/ygetachew/UcsFiscalPrinters</id>
+    <link href="https://github.com/ygetachew/UcsFiscalPrinters" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Unicontsoft Fiscal Printers Component&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>April15Hater/bdtBusinessDayTools</title>
+    <updated>2023-07-02T02:07:43Z</updated>
+    <id>tag:github.com,2023-07-02:/April15Hater/bdtBusinessDayTools</id>
+    <link href="https://github.com/April15Hater/bdtBusinessDayTools" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tools for working with business days&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

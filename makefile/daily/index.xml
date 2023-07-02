@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:40:33Z</updated>
+  <updated>2023-07-02T01:40:47Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zeldin/android-sdk-ppc</title>
+    <updated>2023-07-02T01:40:47Z</updated>
+    <id>tag:github.com,2023-07-02:/zeldin/android-sdk-ppc</id>
+    <link href="https://github.com/zeldin/android-sdk-ppc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Superproject for building architecture dependent parts of the Android SDK on Linux/PPC&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>instill-ai/model</title>
+    <updated>2023-07-02T01:40:47Z</updated>
+    <id>tag:github.com,2023-07-02:/instill-ai/model</id>
+    <link href="https://github.com/instill-ai/model" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚗️ Instill Model contains components for AI model orchestration&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

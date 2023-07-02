@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:46:33Z</updated>
+  <updated>2023-07-02T01:47:22Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>wormhole-foundation/hello-wormhole</title>
-    <updated>2023-07-01T01:46:33Z</updated>
-    <id>tag:github.com,2023-07-01:/wormhole-foundation/hello-wormhole</id>
-    <link href="https://github.com/wormhole-foundation/hello-wormhole" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;hello-wormhole&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>StephenBots/MevBot</title>
+    <updated>2023-07-02T01:47:22Z</updated>
+    <id>tag:github.com,2023-07-02:/StephenBots/MevBot</id>
+    <link href="https://github.com/StephenBots/MevBot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Mev (Mev Bot) Scans the mempool of a blockchain to profit from buying and selling unconfirmed transactions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>nnnnicholas/6551piggybank</title>
-    <updated>2023-07-01T01:46:33Z</updated>
-    <id>tag:github.com,2023-07-01:/nnnnicholas/6551piggybank</id>
-    <link href="https://github.com/nnnnicholas/6551piggybank" rel="alternate"></link>
+    <title>kedayy213/1231</title>
+    <updated>2023-07-02T01:47:22Z</updated>
+    <id>tag:github.com,2023-07-02:/kedayy213/1231</id>
+    <link href="https://github.com/kedayy213/1231" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MoanaSeeha/swaport_bridge_fe-be</title>
+    <updated>2023-07-02T01:47:22Z</updated>
+    <id>tag:github.com,2023-07-02:/MoanaSeeha/swaport_bridge_fe-be</id>
+    <link href="https://github.com/MoanaSeeha/swaport_bridge_fe-be" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

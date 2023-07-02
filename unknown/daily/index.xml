@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:30:55Z</updated>
+  <updated>2023-07-02T01:30:21Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>WeMakeDevs/open-source-course</title>
-    <updated>2023-07-01T01:30:55Z</updated>
-    <id>tag:github.com,2023-07-01:/WeMakeDevs/open-source-course</id>
-    <link href="https://github.com/WeMakeDevs/open-source-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OpenDriveLab/End-to-end-Autonomous-Driving</title>
+    <updated>2023-07-02T01:30:21Z</updated>
+    <id>tag:github.com,2023-07-02:/OpenDriveLab/End-to-end-Autonomous-Driving</id>
+    <link href="https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All you need for End-to-end Autonomous Driving&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ahmetbersoz/chatgpt-prompts-for-academic-writing</title>
-    <updated>2023-07-01T01:30:55Z</updated>
-    <id>tag:github.com,2023-07-01:/ahmetbersoz/chatgpt-prompts-for-academic-writing</id>
-    <link href="https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PKU-YuanGroup/ChatLaw</title>
+    <updated>2023-07-02T01:30:21Z</updated>
+    <id>tag:github.com,2023-07-02:/PKU-YuanGroup/ChatLaw</id>
+    <link href="https://github.com/PKU-YuanGroup/ChatLaw" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;中文法律大模型&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>XIU2/Yuedu</title>
-    <updated>2023-07-01T01:30:55Z</updated>
-    <id>tag:github.com,2023-07-01:/XIU2/Yuedu</id>
-    <link href="https://github.com/XIU2/Yuedu" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📚「阅读」APP 精品书源（网络小说）&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tc39/proposals</title>
+    <updated>2023-07-02T01:30:21Z</updated>
+    <id>tag:github.com,2023-07-02:/tc39/proposals</id>
+    <link href="https://github.com/tc39/proposals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Tracking ECMAScript Proposals&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

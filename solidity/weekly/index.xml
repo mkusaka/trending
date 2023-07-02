@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-02T02:05:58Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vfat-tools/adventure-party</title>
+    <updated>2023-07-02T02:05:58Z</updated>
+    <id>tag:github.com,2023-07-02:/vfat-tools/adventure-party</id>
+    <link href="https://github.com/vfat-tools/adventure-party" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helper contract for andrecronje/rarity&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>vfat-tools/harvestor</title>
+    <updated>2023-07-02T02:05:58Z</updated>
+    <id>tag:github.com,2023-07-02:/vfat-tools/harvestor</id>
+    <link href="https://github.com/vfat-tools/harvestor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;compound script for iron self-vaults&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>marktoda/forge-gas-snapshot</title>
+    <updated>2023-07-02T02:05:58Z</updated>
+    <id>tag:github.com,2023-07-02:/marktoda/forge-gas-snapshot</id>
+    <link href="https://github.com/marktoda/forge-gas-snapshot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Library for checked-in, targeted gas snapshots with forge&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

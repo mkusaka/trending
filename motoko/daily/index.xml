@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Motoko Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:41:05Z</updated>
+  <updated>2023-07-02T01:41:19Z</updated>
   <subtitle>Daily Trending of Motoko in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BoomDAO/world-template</title>
-    <updated>2023-07-01T01:41:05Z</updated>
-    <id>tag:github.com,2023-07-01:/BoomDAO/world-template</id>
-    <link href="https://github.com/BoomDAO/world-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A ready-to-go Motoko template to launch a World canister smart contract manually. A World serves as the command center, aka the &#34;server backend&#34; of your game, regulating the logic and rules governing your game economy.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BoomDAO/world-engine</title>
-    <updated>2023-07-01T01:41:05Z</updated>
-    <id>tag:github.com,2023-07-01:/BoomDAO/world-engine</id>
-    <link href="https://github.com/BoomDAO/world-engine" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An on-chain protocol weaving together the complex architecture of ICP games into one universally accessible database, supercharged with modular game logic, composable data standards, and customizable access control for interactions across game worlds. With additional features for payments, staking, minting, and burning.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>BoomDAO/game-launcher</title>
-    <updated>2023-07-01T01:41:05Z</updated>
-    <id>tag:github.com,2023-07-01:/BoomDAO/game-launcher</id>
-    <link href="https://github.com/BoomDAO/game-launcher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A platform for discovering games, deploying game builds to smart contract canisters, creating NFT &amp; Token collections, airdrops, payments &amp; staking, in-game minting &amp; burning, configuring World smart contracts and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:33:20Z</updated>
+  <updated>2023-07-02T01:33:03Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aphyr/hangman</title>
-    <updated>2023-07-01T01:33:20Z</updated>
-    <id>tag:github.com,2023-07-01:/aphyr/hangman</id>
-    <link href="https://github.com/aphyr/hangman" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A ridiculously overpowered hangman AI in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>pkoerner/expert-parakeet</title>
-    <updated>2023-07-01T01:33:20Z</updated>
-    <id>tag:github.com,2023-07-01:/pkoerner/expert-parakeet</id>
-    <link href="https://github.com/pkoerner/expert-parakeet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jizhang/cia-hadoop</title>
+    <updated>2023-07-02T01:33:03Z</updated>
+    <id>tag:github.com,2023-07-02:/jizhang/cia-hadoop</id>
+    <link href="https://github.com/jizhang/cia-hadoop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;[Blog] Clojure in Action: Write Hadoop MapReduce Job&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

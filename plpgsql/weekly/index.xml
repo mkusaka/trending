@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub PLpgSQL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-02T02:02:34Z</updated>
+  <subtitle>Weekly Trending of PLpgSQL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>rin-nas/postgresql-patterns-library</title>
+    <updated>2023-07-02T02:02:34Z</updated>
+    <id>tag:github.com,2023-07-02:/rin-nas/postgresql-patterns-library</id>
+    <link href="https://github.com/rin-nas/postgresql-patterns-library" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Коллекция готовых SQL запросов для PostgreSQL по часто возникающим задачам (получение и модификация данных, ускорение запросов, обслуживание БД)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

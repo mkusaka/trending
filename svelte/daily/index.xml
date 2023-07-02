@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-01T01:46:56Z</updated>
+  <updated>2023-07-02T01:47:48Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>fireship-io/fkit-course</title>
-    <updated>2023-07-01T01:46:56Z</updated>
-    <id>tag:github.com,2023-07-01:/fireship-io/fkit-course</id>
-    <link href="https://github.com/fireship-io/fkit-course" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Full SvelteKit Course&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
