@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-02T01:32:03Z</updated>
+  <updated>2023-07-03T01:33:31Z</updated>
   <subtitle>Daily Trending of C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>XaFF-XaFF/Kernel-Process-Hollowing</title>
-    <updated>2023-07-02T01:32:03Z</updated>
-    <id>tag:github.com,2023-07-02:/XaFF-XaFF/Kernel-Process-Hollowing</id>
-    <link href="https://github.com/XaFF-XaFF/Kernel-Process-Hollowing" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows x64 kernel mode rootkit process hollowing POC.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Windows Kernel Mode Process Hollowing&lt;/h1&gt; &#xA;&lt;p&gt;This project is a proof of concept of how the Process Hollowing technique works from the kernel level.&lt;/p&gt; &#xA;&lt;h3&gt;Resources&lt;/h3&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Idov31/Jormungandr&#34;&gt;SSDT Hook&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/XaFF-XaFF/ZwProcessHollowing&#34;&gt;Process Hollowing&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>sksalahuddin2828/C_Plus_Plus</title>
-    <updated>2023-07-02T01:32:03Z</updated>
-    <id>tag:github.com,2023-07-02:/sksalahuddin2828/C_Plus_Plus</id>
-    <link href="https://github.com/sksalahuddin2828/C_Plus_Plus" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Explore something new&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

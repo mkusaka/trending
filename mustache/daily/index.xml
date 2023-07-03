@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Mustache Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-02T01:41:33Z</updated>
+  <updated>2023-07-03T01:43:31Z</updated>
   <subtitle>Daily Trending of Mustache in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mailchimp/mailchimp-client-lib-codegen</title>
-    <updated>2023-07-02T01:41:33Z</updated>
-    <id>tag:github.com,2023-07-02:/mailchimp/mailchimp-client-lib-codegen</id>
-    <link href="https://github.com/mailchimp/mailchimp-client-lib-codegen" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This tool is used to auto-generate and publish the Mailchimp Marketing and Transactional client libraries.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

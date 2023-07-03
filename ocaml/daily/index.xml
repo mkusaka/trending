@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-02T01:42:22Z</updated>
+  <updated>2023-07-03T01:44:23Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tjdevries/remarca.ml</title>
-    <updated>2023-07-02T01:42:22Z</updated>
-    <id>tag:github.com,2023-07-02:/tjdevries/remarca.ml</id>
-    <link href="https://github.com/tjdevries/remarca.ml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;remarcaml is a markup language that&#39;s actually just ocaml in disguise&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ThePrimeagen/ocaml-aoc</title>
+    <updated>2023-07-03T01:44:23Z</updated>
+    <id>tag:github.com,2023-07-03:/ThePrimeagen/ocaml-aoc</id>
+    <link href="https://github.com/ThePrimeagen/ocaml-aoc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

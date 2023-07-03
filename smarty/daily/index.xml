@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-02T01:47:10Z</updated>
+  <updated>2023-07-03T01:49:11Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mosaicml/compute-plane</title>
-    <updated>2023-07-02T01:47:10Z</updated>
-    <id>tag:github.com,2023-07-02:/mosaicml/compute-plane</id>
-    <link href="https://github.com/mosaicml/compute-plane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;MosaicML Compute Plane&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GlueOps/platform-helm-chart-network-exporter</title>
-    <updated>2023-07-02T01:47:10Z</updated>
-    <id>tag:github.com,2023-07-02:/GlueOps/platform-helm-chart-network-exporter</id>
-    <link href="https://github.com/GlueOps/platform-helm-chart-network-exporter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Helm chart to deploy network exporter in kubernetes cluster&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>plone/charts</title>
-    <updated>2023-07-02T01:47:10Z</updated>
-    <id>tag:github.com,2023-07-02:/plone/charts</id>
-    <link href="https://github.com/plone/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm Charts for Plone 6&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

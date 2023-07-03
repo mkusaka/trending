@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-02T01:49:28Z</updated>
+  <updated>2023-07-03T01:51:26Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>geeeeeeeek/python_food</title>
-    <updated>2023-07-02T01:49:28Z</updated>
-    <id>tag:github.com,2023-07-02:/geeeeeeeek/python_food</id>
-    <link href="https://github.com/geeeeeeeek/python_food" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;python外卖点餐系统，python+django+vue开发的外卖点餐网站&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jidonghao/resmanage</title>
+    <updated>2023-07-03T01:51:26Z</updated>
+    <id>tag:github.com,2023-07-03:/jidonghao/resmanage</id>
+    <link href="https://github.com/jidonghao/resmanage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于uniapp+express的资源管理系统&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>antfu/qrcode-toolkit</title>
+    <updated>2023-07-03T01:51:26Z</updated>
+    <id>tag:github.com,2023-07-03:/antfu/qrcode-toolkit</id>
+    <link href="https://github.com/antfu/qrcode-toolkit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Anthony&#39;s QR Code Toolkit for AI generated QR Codes&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

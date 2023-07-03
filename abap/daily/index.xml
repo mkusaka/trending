@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ABAP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-02T01:30:47Z</updated>
+  <updated>2023-07-03T01:31:55Z</updated>
   <subtitle>Daily Trending of ABAP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>abap2UI5/demo-demos</title>
-    <updated>2023-07-02T01:30:47Z</updated>
-    <id>tag:github.com,2023-07-02:/abap2UI5/demo-demos</id>
-    <link href="https://github.com/abap2UI5/demo-demos" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demos of abap2UI5&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

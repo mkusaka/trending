@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-02T01:33:03Z</updated>
+  <updated>2023-07-03T01:34:26Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jizhang/cia-hadoop</title>
-    <updated>2023-07-02T01:33:03Z</updated>
-    <id>tag:github.com,2023-07-02:/jizhang/cia-hadoop</id>
-    <link href="https://github.com/jizhang/cia-hadoop" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;[Blog] Clojure in Action: Write Hadoop MapReduce Job&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hoplon/javelin</title>
+    <updated>2023-07-03T01:34:26Z</updated>
+    <id>tag:github.com,2023-07-03:/hoplon/javelin</id>
+    <link href="https://github.com/hoplon/javelin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Spreadsheet-like dataflow programming in ClojureScript.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
