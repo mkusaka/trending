@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-03T01:34:43Z</updated>
+  <updated>2023-07-04T01:32:22Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>OpenGOAL-Mods/OG-Mod-Base</title>
+    <updated>2023-07-04T01:32:22Z</updated>
+    <id>tag:github.com,2023-07-04:/OpenGOAL-Mods/OG-Mod-Base</id>
+    <link href="https://github.com/OpenGOAL-Mods/OG-Mod-Base" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;OG Mod Base&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OpenGoal-Mod-Base&lt;/h1&gt; &#xA;&lt;p&gt;Serves as a base template for openGOAL mods that will be supported via &lt;a href=&#34;https://github.com/OpenGOAL-Unofficial-Mods/opengoal-mod-launcher&#34;&gt;opengoal-mod-launcher&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;&lt;em&gt;OUTDATED&lt;/em&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;Please ensure you are not committing copyrighted material to your repo (the &lt;code&gt;.gitignore&lt;/code&gt; should help prevent this).&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Generally speaking you should only be updating certain directories/files:&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;the executable binaries (&lt;code&gt;goalc.exe&lt;/code&gt;, &lt;code&gt;gk.exe&lt;/code&gt;, &lt;code&gt;extractor.exe&lt;/code&gt;)&lt;/li&gt; &#xA;   &lt;li&gt;GOAL code (&lt;code&gt;/data/goal_src&lt;/code&gt;)&lt;/li&gt; &#xA;   &lt;li&gt;Assets specific to the PC Port (&lt;code&gt;/data/game/assets/jak1/&lt;/code&gt;)&lt;/li&gt; &#xA;   &lt;li&gt;Decompiler config (&lt;code&gt;/data/decompiler/config&lt;/code&gt;)# OpenGoal-Mod-Base Serves as a base template for openGOAL mods that will be supported via &lt;a href=&#34;https://github.com/OpenGOAL-Unofficial-Mods/opengoal-mod-launcher&#34;&gt;opengoal-mod-launcher&lt;/a&gt;.&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Please ensure you are not committing copyrighted material to your repo (the &lt;code&gt;.gitignore&lt;/code&gt; should help prevent this).&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Generally speaking you should only be updating certain directories/files:&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;the executable binaries (&lt;code&gt;goalc.exe&lt;/code&gt;, &lt;code&gt;gk.exe&lt;/code&gt;, &lt;code&gt;extractor.exe&lt;/code&gt;)&lt;/li&gt; &#xA;   &lt;li&gt;GOAL code (&lt;code&gt;/data/goal_src&lt;/code&gt;)&lt;/li&gt; &#xA;   &lt;li&gt;Assets specific to the PC Port (&lt;code&gt;/data/game/assets/jak1/&lt;/code&gt;)&lt;/li&gt; &#xA;   &lt;li&gt;Decompiler config (&lt;code&gt;/data/decompiler/config&lt;/code&gt;)&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

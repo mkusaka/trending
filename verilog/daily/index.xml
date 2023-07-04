@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-03T01:51:14Z</updated>
+  <updated>2023-07-04T01:46:12Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>risclite/R8051</title>
-    <updated>2023-07-03T01:51:14Z</updated>
-    <id>tag:github.com,2023-07-03:/risclite/R8051</id>
-    <link href="https://github.com/risclite/R8051" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;8051 soft CPU core. 700-lines statements for 111 instructions . Fully synthesizable Verilog-2001 core.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>STARS-Design-Track-2023/OpenLane-flow</title>
+    <updated>2023-07-04T01:46:12Z</updated>
+    <id>tag:github.com,2023-07-04:/STARS-Design-Track-2023/OpenLane-flow</id>
+    <link href="https://github.com/STARS-Design-Track-2023/OpenLane-flow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Openlane Wrapper&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

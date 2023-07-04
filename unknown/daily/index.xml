@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-03T01:31:36Z</updated>
+  <updated>2023-07-04T01:29:48Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>One-2-3-45/One-2-3-45</title>
-    <updated>2023-07-03T01:31:36Z</updated>
-    <id>tag:github.com,2023-07-03:/One-2-3-45/One-2-3-45</id>
-    <link href="https://github.com/One-2-3-45/One-2-3-45" rel="alternate"></link>
+    <title>xdite/learn-hack</title>
+    <updated>2023-07-04T01:29:48Z</updated>
+    <id>tag:github.com,2023-07-04:/xdite/learn-hack</id>
+    <link href="https://github.com/xdite/learn-hack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;打造超人學習&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zhaoyun0071/DragGAN-Windows-GUI</title>
+    <updated>2023-07-04T01:29:48Z</updated>
+    <id>tag:github.com,2023-07-04:/zhaoyun0071/DragGAN-Windows-GUI</id>
+    <link href="https://github.com/zhaoyun0071/DragGAN-Windows-GUI" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>lahin31/system-design-bangla</title>
-    <updated>2023-07-03T01:31:36Z</updated>
-    <id>tag:github.com,2023-07-03:/lahin31/system-design-bangla</id>
-    <link href="https://github.com/lahin31/system-design-bangla" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;System Design Tutorial in Bangla&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>chinmay-farkya/solidity-notes</title>
-    <updated>2023-07-03T01:31:36Z</updated>
-    <id>tag:github.com,2023-07-03:/chinmay-farkya/solidity-notes</id>
-    <link href="https://github.com/chinmay-farkya/solidity-notes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bluesky-social/proposals</title>
+    <updated>2023-07-04T01:29:48Z</updated>
+    <id>tag:github.com,2023-07-04:/bluesky-social/proposals</id>
+    <link href="https://github.com/bluesky-social/proposals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bluesky proposal discussions&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

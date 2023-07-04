@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rust Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-03T01:48:03Z</updated>
+  <updated>2023-07-04T01:43:40Z</updated>
   <subtitle>Daily Trending of Rust in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>squidowl/halloy</title>
-    <updated>2023-07-03T01:48:03Z</updated>
-    <id>tag:github.com,2023-07-03:/squidowl/halloy</id>
-    <link href="https://github.com/squidowl/halloy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;IRC application written in Rust&lt;/p&gt;&lt;hr&gt;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;h1&gt;Halloy&lt;/h1&gt; &#xA; &lt;p&gt;&lt;img src=&#34;https://github.com/casperstorm/halloy/assets/2248455/414d4466-b9ca-446b-901c-68acfcdff5e8&#34; alt=&#34;halloy boje&#34;&gt;&lt;/p&gt; &#xA;&lt;/div&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/casperstorm/halloy/assets/2248455/8a1f5105-7760-48fd-b7dd-17da146cd25f&#34; alt=&#34;halloy&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Halloy is an open-source IRC client written in Rust, with the Iced GUI library. It aims to provide a simple and fast client for Mac, Windows, and Linux platforms.&lt;/p&gt; &#xA;&lt;a href=&#34;https://github.com/iced-rs/iced&#34;&gt; &lt;img src=&#34;https://gist.githubusercontent.com/hecrj/ad7ecd38f6e47ff3688a38c79fd108f0/raw/74384875ecbad02ae2a926425e9bcafd0695bade/color.svg?sanitize=true&#34; width=&#34;130px&#34;&gt; &lt;/a&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;To use Halloy, you can build it from source.&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Clone the repository:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;git clone https://github.com/casperstorm/halloy.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;2&#34;&gt; &#xA; &lt;li&gt;Build the project:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd halloy&#xA;cargo build --release&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ol start=&#34;3&#34;&gt; &#xA; &lt;li&gt;Run Halloy:&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;pre&gt;&lt;code&gt;cargo run --release&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Why?&lt;/h2&gt; &#xA;&lt;div align=&#34;center&#34;&gt; &#xA; &lt;a href=&#34;https://xkcd.com/1782/&#34;&gt; &lt;img src=&#34;https://imgs.xkcd.com/comics/team_chat.png&#34; title=&#34;2078: He announces that he&#39;s finally making the jump from screen+irssi to tmux+weechat.&#34;&gt; &lt;/a&gt; &#xA;&lt;/div&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;Halloy is released under the GPL-3.0 License. For more details, see the &lt;a href=&#34;https://raw.githubusercontent.com/squidowl/halloy/main/LICENSE&#34;&gt;LICENSE&lt;/a&gt; file.&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;Halloy is still in the early stages of development. Bugs and incomplete features may be present. Use it at your own risk.&lt;/p&gt; &#xA;&lt;h2&gt;Contact&lt;/h2&gt; &#xA;&lt;p&gt;For any questions, suggestions, or issues, please open an issue on the &lt;a href=&#34;https://github.com/casperstorm/halloy/issues&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>denoland/deno_core</title>
+    <updated>2023-07-04T01:43:40Z</updated>
+    <id>tag:github.com,2023-07-04:/denoland/deno_core</id>
+    <link href="https://github.com/denoland/deno_core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The core engine at the heart of Deno&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Deno Core&lt;/h1&gt; &#xA;&lt;p&gt;TODO&lt;/p&gt;</summary>
   </entry>
 </feed>

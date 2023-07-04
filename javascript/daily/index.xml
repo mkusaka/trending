@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-03T01:40:28Z</updated>
+  <updated>2023-07-04T01:37:10Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>3Kmfi6HP/EDtunnel</title>
-    <updated>2023-07-03T01:40:28Z</updated>
-    <id>tag:github.com,2023-07-03:/3Kmfi6HP/EDtunnel</id>
-    <link href="https://github.com/3Kmfi6HP/EDtunnel" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;EDtunnel&lt;/h1&gt; &#xA;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://cloudflare-ipfs.com/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky&#34; alt=&#34;图片描述&#34; style=&#34;margin-bottom: -50px;&#34;&gt; &lt;/p&gt; &#xA;&lt;p&gt;GitHub Repository for &lt;a href=&#34;https://github.com/zizifn/edgetunnel&#34;&gt;https://github.com/zizifn/edgetunnel&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/zizifn/edgetunnel&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/View%20on-GitHub-blue.svg?sanitize=true&#34; alt=&#34;Repository&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Deploy in pages.dev&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;See YouTube Video:&lt;/p&gt; &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=8I-yTNHB0aw&#34;&gt;https://www.youtube.com/watch?v=8I-yTNHB0aw&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Clone this repository deploy in cloudflare pages.&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Deploy in worker.dev&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt; &lt;p&gt;Copy &lt;code&gt;_worker.js&lt;/code&gt; code from &lt;a href=&#34;https://github.com/3Kmfi6HP/EDtunnel/raw/main/_worker.js&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Alternatively, you can click the button below to deploy directly.&lt;/p&gt; &lt;p&gt;&lt;a href=&#34;https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel&#34;&gt;&lt;img src=&#34;https://deploy.workers.cloudflare.com/button&#34; alt=&#34;Deploy to Cloudflare Workers&#34;&gt;&lt;/a&gt;&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Lazy to deploy&lt;/h2&gt; &#xA;&lt;p&gt;&lt;code&gt;aHR0cHM6Ly9vc3MudjJyYXlzZS5jb20vcHJveGllcy9kYXRhLzIwMjMtMDYtMjAvZFFOQTk3LnlhbWw=&lt;/code&gt; (clash config)&lt;/p&gt;</summary>
-  </entry>
 </feed>

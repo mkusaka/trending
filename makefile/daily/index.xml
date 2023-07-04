@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-03T01:42:38Z</updated>
+  <updated>2023-07-04T01:38:55Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>practicalli/clojure-cli-config</title>
-    <updated>2023-07-03T01:42:38Z</updated>
-    <id>tag:github.com,2023-07-03:/practicalli/clojure-cli-config</id>
-    <link href="https://github.com/practicalli/clojure-cli-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;User aliases and Clojure CLI configuration for deps.edn based projects&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>LineageOS/android_device_samsung_slsi_sepolicy</title>
+    <updated>2023-07-04T01:38:55Z</updated>
+    <id>tag:github.com,2023-07-04:/LineageOS/android_device_samsung_slsi_sepolicy</id>
+    <link href="https://github.com/LineageOS/android_device_samsung_slsi_sepolicy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

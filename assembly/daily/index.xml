@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-03T01:32:35Z</updated>
+  <updated>2023-07-04T01:30:45Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>billforsternz/retro-sargon</title>
-    <updated>2023-07-03T01:32:35Z</updated>
-    <id>tag:github.com,2023-07-03:/billforsternz/retro-sargon</id>
-    <link href="https://github.com/billforsternz/retro-sargon" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a project to bring the code from the book &#34;Sargon a computer chess program&#34; back to life in the modern era&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>NesHacker/PlatformerMovement</title>
+    <updated>2023-07-04T01:30:45Z</updated>
+    <id>tag:github.com,2023-07-04:/NesHacker/PlatformerMovement</id>
+    <link href="https://github.com/NesHacker/PlatformerMovement" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SMB3 Inspired Controls &amp; Movement Demo&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

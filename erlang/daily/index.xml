@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-03T01:37:00Z</updated>
+  <updated>2023-07-04T01:34:26Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>zkessin/webmachine-coffeescript</title>
-    <updated>2023-07-03T01:37:00Z</updated>
-    <id>tag:github.com,2023-07-03:/zkessin/webmachine-coffeescript</id>
-    <link href="https://github.com/zkessin/webmachine-coffeescript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>synrc/chat</title>
-    <updated>2023-07-03T01:37:00Z</updated>
-    <id>tag:github.com,2023-07-03:/synrc/chat</id>
-    <link href="https://github.com/synrc/chat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;💬 CHAT: Instant Messenger ISO 20922 IETF 5280, 5480, 5755 ITU X.509&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
