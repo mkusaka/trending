@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-04T01:32:08Z</updated>
+  <updated>2023-07-05T01:33:00Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>graue/shuffle-clj</title>
-    <updated>2023-07-04T01:32:08Z</updated>
-    <id>tag:github.com,2023-07-04:/graue/shuffle-clj</id>
-    <link href="https://github.com/graue/shuffle-clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure program that shuffles lines in a file&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bblanton/json-to-mongo</title>
+    <updated>2023-07-05T01:33:00Z</updated>
+    <id>tag:github.com,2023-07-05:/bblanton/json-to-mongo</id>
+    <link href="https://github.com/bblanton/json-to-mongo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple app to load JSON data into MongoDB&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>mentat-collective/emmy-viewers</title>
-    <updated>2023-07-04T01:32:08Z</updated>
-    <id>tag:github.com,2023-07-04:/mentat-collective/emmy-viewers</id>
-    <link href="https://github.com/mentat-collective/emmy-viewers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;High-performance symbolic, 2D and 3D visual extensions to the Emmy computer algebra system.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ptaoussanis/timbre</title>
+    <updated>2023-07-05T01:33:00Z</updated>
+    <id>tag:github.com,2023-07-05:/ptaoussanis/timbre</id>
+    <link href="https://github.com/ptaoussanis/timbre" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Clojure/Script logging library&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

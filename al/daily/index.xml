@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-04T01:30:24Z</updated>
+  <updated>2023-07-05T01:30:56Z</updated>
   <subtitle>Daily Trending of AL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>microsoft/bcsamples-onboarding</title>
-    <updated>2023-07-04T01:30:24Z</updated>
-    <id>tag:github.com,2023-07-04:/microsoft/bcsamples-onboarding</id>
-    <link href="https://github.com/microsoft/bcsamples-onboarding" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Sample app that showcase how to create a great welcome experience for Business Central customers&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

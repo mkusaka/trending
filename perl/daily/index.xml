@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-04T01:40:55Z</updated>
+  <updated>2023-07-05T01:42:07Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>DrHyde/perl-modules-CPAN-ParseDistribution</title>
-    <updated>2023-07-04T01:40:55Z</updated>
-    <id>tag:github.com,2023-07-04:/DrHyde/perl-modules-CPAN-ParseDistribution</id>
-    <link href="https://github.com/DrHyde/perl-modules-CPAN-ParseDistribution" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CPAN::ParseDistribution&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This module parses a tarball or zip file from the CPAN or BackPAN and figures out what versions of what modules are in it.&lt;/p&gt; &#xA;&lt;p&gt;YOU MUST READ THE NOTES ABOUT SECURITY IN THE DOCUMENTATION&lt;/p&gt; &#xA;&lt;p&gt;To install, do the usual dance:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perl Makefile.PL&#xA;make&#xA;make test&#xA;make install&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
-  <entry>
-    <title>kazuho/picotemplate</title>
-    <updated>2023-07-04T01:40:55Z</updated>
-    <id>tag:github.com,2023-07-04:/kazuho/picotemplate</id>
-    <link href="https://github.com/kazuho/picotemplate" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a tiny template engine for embedded HTML&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PICOTEMPLATE - a tiny template engine for embedded HTML&lt;/h1&gt; &#xA;&lt;p&gt;Picotemplate is a tiny template engine (preprocessor) designed to embed HTML (or other types of document) within the source code of any programming language.&lt;/p&gt; &#xA;&lt;p&gt;There are often cases where you would like to generate HTML within a program. In such cases, the easiest way would be to use a DSL (domain-specific language) to embed the HTML in the source code and preprocess it. Picotemplate is a preprocesser designed for such an use-case.&lt;/p&gt; &#xA;&lt;p&gt;As of now, Perl, C++, JavaScript, and JSX are the supported languages.&lt;/p&gt; &#xA;&lt;h2&gt;THE LOGIC&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;lines starting with &#34;?&#34; are considered as embedded document&lt;/li&gt; &#xA; &lt;li&gt; &#xA;  &lt;!--?= ?--&gt; within embedded document are considered as expressions (that return strings) &lt;/li&gt; &#xA; &lt;li&gt;the output is accumulated to variable named &#34;_&#34; (or $output in case of perl)&lt;/li&gt; &#xA; &lt;li&gt;filenames starting with an underscore (_) will be preprocessed, and the name of the output file will be the same omitting the leading underscore (e.g. _foo.cc will be preproccessed and converted to foo.cc)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;EXAMPLE&lt;/h2&gt; &#xA;&lt;p&gt;The following code (in _foo.cc) will be preprocessed and converted to a function (in foo.cc) that returns an function building an HTML snippet.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;std::string unordered_list(const std::vector&amp;lt;std::string&amp;gt;&amp;amp; strs)&#xA;{&#xA;    std::string _; // output is accumulated to _&#xA;?&amp;lt;ul&amp;gt;&#xA;    for (std::vector&amp;lt;std::string&amp;gt;::const_iterator i = strs.begin();&#xA;         i != strs.end();&#xA;         ++i) {&#xA;?&amp;lt;li&amp;gt;&amp;lt;?= escapeHTML(*i) ?&amp;gt;&amp;lt;/li&amp;gt;&#xA;    }&#xA;?&amp;lt;/ul&amp;gt;&#xA;    return _;&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;To preprocess a source file, simply run the command with the name of the source file to preprocess. The following exmaple preprocesses &lt;em&gt;foo.cc&lt;/em&gt; (template files should start with an underscore) and produces &lt;em&gt;foo.cc&lt;/em&gt;.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ picotemplate.pl _foo.cc&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

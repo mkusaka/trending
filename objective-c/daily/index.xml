@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-04T01:40:13Z</updated>
+  <updated>2023-07-05T01:41:24Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wwwwdkdk/Sparrow</title>
-    <updated>2023-07-04T01:40:13Z</updated>
-    <id>tag:github.com,2023-07-04:/wwwwdkdk/Sparrow</id>
-    <link href="https://github.com/wwwwdkdk/Sparrow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;这是一个使用Objective-C 和 Swift编写的iOS 即时通讯APP(聊天APP前端)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;sparrow&lt;/h1&gt; &#xA;&lt;p&gt;这是一个使用Objective-C 和 Swift编写的iOS APP&lt;/p&gt; &#xA;&lt;p&gt;大学时编写的学习项目&lt;/p&gt; &#xA;&lt;p&gt;后端使用Springboot + mysql + netty + redis实现&lt;/p&gt; &#xA;&lt;h2&gt;后端地址：&lt;a href=&#34;https://github.com/wwwwdkdk/ChatService&#34;&gt;https://github.com/wwwwdkdk/ChatService&lt;/a&gt;&lt;/h2&gt; &#xA;&lt;p&gt;开发环境Xcode 14.3&lt;/p&gt; &#xA;&lt;h2&gt;如何运行&lt;/h2&gt; &#xA;&lt;p&gt;1.初次运行请修改sparrow/network/HttpAddressModel.h文件中的以下三行 &lt;img width=&#34;948&#34; alt=&#34;截屏2023-06-23 22 21 35&#34; src=&#34;https://github.com/wwwwdkdk/Sparrow/assets/63393116/dd8c35fe-725a-4e78-ba78-44cbf2901b57&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;2.请部署Java服务器，后端地址：&lt;a href=&#34;https://github.com/wwwwdkdk/ChatService&#34;&gt;https://github.com/wwwwdkdk/ChatService&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;运行截图&lt;/h2&gt; &#xA;&lt;img src=&#34;https://github.com/wwwwdkdk/Sparrow/assets/63393116/743545c3-50d0-417c-ae66-de02c3a06371&#34; width=&#34;22%&#34;&gt; &#xA;&lt;img src=&#34;https://github.com/wwwwdkdk/Sparrow/assets/63393116/844f4246-9c19-4c92-839f-e68b7e54a5e9&#34; width=&#34;22%&#34;&gt; &#xA;&lt;img src=&#34;https://github.com/wwwwdkdk/Sparrow/assets/63393116/1feb756b-7ad3-45d2-beae-ad43796a08c3&#34; width=&#34;22%&#34;&gt; &#xA;&lt;img src=&#34;https://github.com/wwwwdkdk/Sparrow/assets/63393116/91d1152b-de46-43b4-b926-9b69344809b4&#34; width=&#34;22%&#34;&gt;</summary>
-  </entry>
-  <entry>
-    <title>himaratsu/UIPatterns</title>
-    <updated>2023-07-04T01:40:13Z</updated>
-    <id>tag:github.com,2023-07-04:/himaratsu/UIPatterns</id>
-    <link href="https://github.com/himaratsu/UIPatterns" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ryannair05/ApolloAPI</title>
-    <updated>2023-07-04T01:40:13Z</updated>
-    <id>tag:github.com,2023-07-04:/ryannair05/ApolloAPI</id>
-    <link href="https://github.com/ryannair05/ApolloAPI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Use a custom API for Apollo&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-04T01:46:12Z</updated>
+  <updated>2023-07-05T01:47:58Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>STARS-Design-Track-2023/OpenLane-flow</title>
-    <updated>2023-07-04T01:46:12Z</updated>
-    <id>tag:github.com,2023-07-04:/STARS-Design-Track-2023/OpenLane-flow</id>
-    <link href="https://github.com/STARS-Design-Track-2023/OpenLane-flow" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Openlane Wrapper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ika-musume/IKAOPM</title>
+    <updated>2023-07-05T01:47:58Z</updated>
+    <id>tag:github.com,2023-07-05:/ika-musume/IKAOPM</id>
+    <link href="https://github.com/ika-musume/IKAOPM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;BSD licensed YM2151 cycle-accurate core based on the die shot from siliconpr0n&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

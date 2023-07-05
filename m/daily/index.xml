@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub M Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-04T01:38:36Z</updated>
+  <updated>2023-07-05T01:39:51Z</updated>
   <subtitle>Daily Trending of M in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zhuowei/VisionOSStereoScreenshots</title>
+    <updated>2023-07-05T01:39:51Z</updated>
+    <id>tag:github.com,2023-07-05:/zhuowei/VisionOSStereoScreenshots</id>
+    <link href="https://github.com/zhuowei/VisionOSStereoScreenshots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Take 3D stereoscopic screenshots in the visionOS emulator.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

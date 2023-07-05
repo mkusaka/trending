@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-04T01:46:23Z</updated>
+  <updated>2023-07-05T01:48:09Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Tohrusky/Final2x</title>
-    <updated>2023-07-04T01:46:23Z</updated>
-    <id>tag:github.com,2023-07-04:/Tohrusky/Final2x</id>
-    <link href="https://github.com/Tohrusky/Final2x" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;2^x Image Super-Resolution&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>microsoft/xr-development-for-beginners</title>
-    <updated>2023-07-04T01:46:23Z</updated>
-    <id>tag:github.com,2023-07-04:/microsoft/xr-development-for-beginners</id>
-    <link href="https://github.com/microsoft/xr-development-for-beginners" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Spatial Computing Cloud Advocacy Curriculum&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hylarucoder/ChatGPT-Nuxt</title>
-    <updated>2023-07-04T01:46:23Z</updated>
-    <id>tag:github.com,2023-07-04:/hylarucoder/ChatGPT-Nuxt</id>
-    <link href="https://github.com/hylarucoder/ChatGPT-Nuxt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ChatGPT Web Nuxt 3 Vue 3 Version&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ecaps1038/yike-design-dev</title>
+    <updated>2023-07-05T01:48:09Z</updated>
+    <id>tag:github.com,2023-07-05:/ecaps1038/yike-design-dev</id>
+    <link href="https://github.com/ecaps1038/yike-design-dev" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;yike-design 前端UI组件库开发&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

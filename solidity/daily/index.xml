@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-04T01:44:42Z</updated>
+  <updated>2023-07-05T01:46:16Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tutor142/turt</title>
-    <updated>2023-07-04T01:44:42Z</updated>
-    <id>tag:github.com,2023-07-04:/tutor142/turt</id>
-    <link href="https://github.com/tutor142/turt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>summa-tx/memview-sol</title>
+    <updated>2023-07-05T01:46:16Z</updated>
+    <id>tag:github.com,2023-07-05:/summa-tx/memview-sol</id>
+    <link href="https://github.com/summa-tx/memview-sol" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Memory access with runtime typechecking in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Tami213/T21</title>
-    <updated>2023-07-04T01:44:42Z</updated>
-    <id>tag:github.com,2023-07-04:/Tami213/T21</id>
-    <link href="https://github.com/Tami213/T21" rel="alternate"></link>
+    <title>pendle-finance/pendle-core-v2-public</title>
+    <updated>2023-07-05T01:46:16Z</updated>
+    <id>tag:github.com,2023-07-05:/pendle-finance/pendle-core-v2-public</id>
+    <link href="https://github.com/pendle-finance/pendle-core-v2-public" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>sablier-labs/v2-core</title>
-    <updated>2023-07-04T01:44:42Z</updated>
-    <id>tag:github.com,2023-07-04:/sablier-labs/v2-core</id>
-    <link href="https://github.com/sablier-labs/v2-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎛 Core smart contracts of the Sablier V2 cryptoasset streaming protocol&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
