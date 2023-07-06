@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-05T01:48:09Z</updated>
+  <updated>2023-07-06T01:48:41Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ecaps1038/yike-design-dev</title>
-    <updated>2023-07-05T01:48:09Z</updated>
-    <id>tag:github.com,2023-07-05:/ecaps1038/yike-design-dev</id>
-    <link href="https://github.com/ecaps1038/yike-design-dev" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;yike-design 前端UI组件库开发&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

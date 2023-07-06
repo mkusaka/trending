@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-05T01:46:16Z</updated>
+  <updated>2023-07-06T01:46:47Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>summa-tx/memview-sol</title>
-    <updated>2023-07-05T01:46:16Z</updated>
-    <id>tag:github.com,2023-07-05:/summa-tx/memview-sol</id>
-    <link href="https://github.com/summa-tx/memview-sol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Memory access with runtime typechecking in Solidity&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>horsefacts/trading-days</title>
+    <updated>2023-07-06T01:46:47Z</updated>
+    <id>tag:github.com,2023-07-06:/horsefacts/trading-days</id>
+    <link href="https://github.com/horsefacts/trading-days" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Uniswap v4 hook that reverts when markets are closed in New York.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>pendle-finance/pendle-core-v2-public</title>
-    <updated>2023-07-05T01:46:16Z</updated>
-    <id>tag:github.com,2023-07-05:/pendle-finance/pendle-core-v2-public</id>
-    <link href="https://github.com/pendle-finance/pendle-core-v2-public" rel="alternate"></link>
+    <title>code-423n4/2023-07-basin</title>
+    <updated>2023-07-06T01:46:47Z</updated>
+    <id>tag:github.com,2023-07-06:/code-423n4/2023-07-basin</id>
+    <link href="https://github.com/code-423n4/2023-07-basin" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bgd-labs/aave-proposals</title>
+    <updated>2023-07-06T01:46:47Z</updated>
+    <id>tag:github.com,2023-07-06:/bgd-labs/aave-proposals</id>
+    <link href="https://github.com/bgd-labs/aave-proposals" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilities and examples for Aave governance proposals&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

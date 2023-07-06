@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-05T01:31:30Z</updated>
+  <updated>2023-07-06T01:32:10Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SumaiyaLara/Anydesk_Windows_RDP</title>
+    <updated>2023-07-06T01:32:10Z</updated>
+    <id>tag:github.com,2023-07-06:/SumaiyaLara/Anydesk_Windows_RDP</id>
+    <link href="https://github.com/SumaiyaLara/Anydesk_Windows_RDP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SumaiyaLara/Ngrok_Windows_RDP-Windows</title>
+    <updated>2023-07-06T01:32:10Z</updated>
+    <id>tag:github.com,2023-07-06:/SumaiyaLara/Ngrok_Windows_RDP-Windows</id>
+    <link href="https://github.com/SumaiyaLara/Ngrok_Windows_RDP-Windows" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Percin0/RDPersistence-w-Ngrok</title>
+    <updated>2023-07-06T01:32:10Z</updated>
+    <id>tag:github.com,2023-07-06:/Percin0/RDPersistence-w-Ngrok</id>
+    <link href="https://github.com/Percin0/RDPersistence-w-Ngrok" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A script for SOC operators&#39; first analysis. Add new player in the game.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

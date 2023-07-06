@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C++ Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-05T01:41:21Z</updated>
+  <updated>2023-07-06T01:42:02Z</updated>
   <subtitle>Daily Trending of Objective-C++ in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>EthanArbuckle/carplay-cast</title>
-    <updated>2023-07-05T01:41:21Z</updated>
-    <id>tag:github.com,2023-07-05:/EthanArbuckle/carplay-cast</id>
-    <link href="https://github.com/EthanArbuckle/carplay-cast" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;iOS tweak that allows any app to be used with CarPlay&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

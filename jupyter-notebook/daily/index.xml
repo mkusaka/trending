@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Jupyter Notebook Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-05T01:38:56Z</updated>
+  <updated>2023-07-06T01:39:29Z</updated>
   <subtitle>Daily Trending of Jupyter Notebook in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PradipNichite/Youtube-Tutorials</title>
-    <updated>2023-07-05T01:38:56Z</updated>
-    <id>tag:github.com,2023-07-05:/PradipNichite/Youtube-Tutorials</id>
-    <link href="https://github.com/PradipNichite/Youtube-Tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>PeiranLi0930/TorchProject</title>
+    <updated>2023-07-06T01:39:29Z</updated>
+    <id>tag:github.com,2023-07-06:/PeiranLi0930/TorchProject</id>
+    <link href="https://github.com/PeiranLi0930/TorchProject" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Paper Replication Repo&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;This repo includes detailed replications of popular computer vision papers with exhaustive annotations.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;All the codes in this project is written by Pytorch.&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;New to Pytorch? &lt;a href=&#34;https://pytorch.org/tutorials/&#34;&gt;See Your First Pytorch Tutor&lt;/a&gt;&lt;/li&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://www.learnpytorch.io/&#34;&gt;The second best place to learn Pytorch&lt;/a&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Important architectures and mechanisms in Machine Learning and Deep Learning are included and well annotated.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; checked disabled&gt; &lt;p&gt;Last Update Time: June/30/2023&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; &lt;p&gt;In Process: Vision Transformer Replication&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Content&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;a href=&#34;https://github.com/PeiranLi0930/TorchProject/raw/main/PaperReplicate/Self_Attention_from_Scratch/Self-Attention%20and%20Multi-head%20Attention%20Mechanism%20036331bdfc7649238f86306bb44bed38.md&#34;&gt;Self-Attention &amp;amp; Multi-Head Self-Attention Mechanism and Implementation from Scratch&lt;/a&gt;&lt;/p&gt; &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;&lt;a href=&#34;https://github.com/PeiranLi0930/TorchProject/raw/main/PaperReplicate/Self_Attention_from_Scratch/self_attention_mechanism.ipynb&#34;&gt;Implementation &amp;amp; Code&lt;/a&gt;&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;h3&gt;Appreciations&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;The &lt;a href=&#34;https://www.wisc.edu/&#34;&gt;Holy Land&lt;/a&gt; giving me best working environments&lt;/li&gt; &#xA; &lt;li&gt;My first Pytorch tutor: &lt;a href=&#34;https://github.com/mrdbourke&#34;&gt;Daniel Bourke&lt;/a&gt;, the creator of &lt;a href=&#34;https://www.learnpytorch.io/&#34;&gt;Zero to Mastery Learn PyTorch for Deep Learning&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Significant Guiders on my path to Machine Learning and Deep Learning: &lt;a href=&#34;https://nowak.ece.wisc.edu/&#34;&gt;Robert Nowak&lt;/a&gt; , &lt;a href=&#34;https://www.andrewng.org/&#34;&gt;Andrew Ng&lt;/a&gt;, &lt;a href=&#34;https://profiles.stanford.edu/fei-fei-li&#34;&gt;Feifei Li&lt;/a&gt; , &lt;a href=&#34;https://sharonzhou.me/&#34;&gt;Sharon Zhou&lt;/a&gt;, &lt;a href=&#34;https://sebastianraschka.com/&#34;&gt;Sebastian Raschka&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;I wish to express my boundless gratitude to Professor Vikas Singh. I appreciate him enduring my incessant ignorance, offering me ample patience and tolerance. He is a vital guide on my academic journey.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;© 2023 - Peiran in USA - All rights reserved&lt;/p&gt; &#xA;&lt;hr&gt;</summary>
   </entry>
 </feed>

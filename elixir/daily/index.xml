@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-05T01:35:14Z</updated>
+  <updated>2023-07-06T01:35:45Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jechol/rail</title>
-    <updated>2023-07-05T01:35:14Z</updated>
-    <id>tag:github.com,2023-07-05:/jechol/rail</id>
-    <link href="https://github.com/jechol/rail" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Railway oriented programming toolkit for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cesium/atomic</title>
+    <updated>2023-07-06T01:35:45Z</updated>
+    <id>tag:github.com,2023-07-06:/cesium/atomic</id>
+    <link href="https://github.com/cesium/atomic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚛️ De-engineered bifurcated intranet&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

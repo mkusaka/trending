@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-05T01:47:58Z</updated>
+  <updated>2023-07-06T01:48:30Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ika-musume/IKAOPM</title>
-    <updated>2023-07-05T01:47:58Z</updated>
-    <id>tag:github.com,2023-07-05:/ika-musume/IKAOPM</id>
-    <link href="https://github.com/ika-musume/IKAOPM" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;BSD licensed YM2151 cycle-accurate core based on the die shot from siliconpr0n&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>freecores/dvb_s2_ldpc_decoder</title>
+    <updated>2023-07-06T01:48:30Z</updated>
+    <id>tag:github.com,2023-07-06:/freecores/dvb_s2_ldpc_decoder</id>
+    <link href="https://github.com/freecores/dvb_s2_ldpc_decoder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;DVB-S2 LDPC Decoder&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

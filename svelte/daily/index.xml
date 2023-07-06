@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-05T01:46:38Z</updated>
+  <updated>2023-07-06T01:47:08Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>feltjs/felt-mural</title>
-    <updated>2023-07-05T01:46:38Z</updated>
-    <id>tag:github.com,2023-07-05:/feltjs/felt-mural</id>
-    <link href="https://github.com/feltjs/felt-mural" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a proof-of-concept Svelte component for collaborative drawing using felt-ui and felt-server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Hugo-Dz/svelte-rust</title>
+    <updated>2023-07-06T01:47:08Z</updated>
+    <id>tag:github.com,2023-07-06:/Hugo-Dz/svelte-rust</id>
+    <link href="https://github.com/Hugo-Dz/svelte-rust" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A simple example to run Rust 🦀 code in your Svelte application.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wobsoriano/svelte-sonner</title>
+    <updated>2023-07-06T01:47:08Z</updated>
+    <id>tag:github.com,2023-07-06:/wobsoriano/svelte-sonner</id>
+    <link href="https://github.com/wobsoriano/svelte-sonner" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An opinionated toast component for Svelte.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
