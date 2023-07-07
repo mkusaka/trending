@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub F# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:36:07Z</updated>
+  <updated>2023-07-07T01:35:54Z</updated>
   <subtitle>Daily Trending of F# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CompositionalIT/fparsec-chess-pgn</title>
-    <updated>2023-07-06T01:36:07Z</updated>
-    <id>tag:github.com,2023-07-06:/CompositionalIT/fparsec-chess-pgn</id>
-    <link href="https://github.com/CompositionalIT/fparsec-chess-pgn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Using FParsec to parse Portable Game Notation (PGN) for Chess&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;FParsecChess&lt;/h1&gt; &#xA;&lt;p&gt;An example repo showing how to use &lt;a href=&#34;https://github.com/stephan-tolksdorf/fparsec&#34;&gt;FParsec&lt;/a&gt; to make a simple parser in F# for &lt;a href=&#34;https://www.wikiwand.com/en/Portable_Game_Notation&#34;&gt;Portable Game Notation&lt;/a&gt; for Chess.&lt;/p&gt; &#xA;&lt;p&gt;To run the tests:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;dotnet tool restore&#xA;dotnet watch run --project tests&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

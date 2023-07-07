@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub LookML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:40:22Z</updated>
+  <updated>2023-07-07T01:40:41Z</updated>
   <subtitle>Daily Trending of LookML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>looker-open-source/thelook</title>
-    <updated>2023-07-06T01:40:22Z</updated>
-    <id>tag:github.com,2023-07-06:/looker-open-source/thelook</id>
-    <link href="https://github.com/looker-open-source/thelook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

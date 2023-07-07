@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:33:01Z</updated>
+  <updated>2023-07-07T01:32:46Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jasontaylordev/flexible-aspnetcore-authorization</title>
-    <updated>2023-07-06T01:33:01Z</updated>
-    <id>tag:github.com,2023-07-06:/jasontaylordev/flexible-aspnetcore-authorization</id>
-    <link href="https://github.com/jasontaylordev/flexible-aspnetcore-authorization" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Developing Flexible Authorization Capabilities with ASP.NET Core&lt;/h1&gt;</summary>
+    <title>oldboy21/JayFinder</title>
+    <updated>2023-07-07T01:32:46Z</updated>
+    <id>tag:github.com,2023-07-07:/oldboy21/JayFinder</id>
+    <link href="https://github.com/oldboy21/JayFinder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Find DLLs with RWX section&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;JayFinder&lt;/h1&gt; &#xA;&lt;p&gt;Whether you knew &lt;a href=&#34;https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution&#34;&gt;Process Mockingjay&lt;/a&gt; since &lt;a href=&#34;https://twitter.com/namazso/status/1673730153065725965&#34;&gt;ever&lt;/a&gt; or you just got to know it, this tool helps you to find DLLs with RWX section. This is done parsing the PE Section Headers and checking the &#34;Characteristics&#34; attribute of each section.&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;It&#39;s not a great code, just copy pasta of an old project I had written for learning about PE structure.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Pretty straightforward:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;C:\&amp;gt;JayFinder.exe C:\StartingFolder&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Then you can expect an output similar to this one&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/oldboy21/JayFinder/main/img/joutput.png&#34; alt=&#34;image info&#34;&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

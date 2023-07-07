@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:43:36Z</updated>
+  <updated>2023-07-07T01:44:01Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>empty-233/tencent-sandbox</title>
+    <updated>2023-07-07T01:44:01Z</updated>
+    <id>tag:github.com,2023-07-07:/empty-233/tencent-sandbox</id>
+    <link href="https://github.com/empty-233/tencent-sandbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows sandbox 腾讯全家桶沙盒配置&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;tencent-sandbox&lt;/h1&gt; &#xA;&lt;p&gt;tencent-sandbox 是使用 &lt;a href=&#34;https://learn.microsoft.com/zh-cn/windows/security/application-security/application-isolation/windows-sandbox/windows-sandbox-overview&#34;&gt;Windows sandbox&lt;/a&gt; 为腾讯全家桶创建沙盒的配置&lt;/p&gt; &#xA;&lt;h2&gt;兼容性&lt;/h2&gt; &#xA;&lt;p&gt;目前测试 &lt;strong&gt;微信&lt;/strong&gt; &lt;strong&gt;QQ&lt;/strong&gt; &lt;strong&gt;QQNT&lt;/strong&gt; &lt;strong&gt;TIM&lt;/strong&gt; 正常使用，其他未测试&lt;/p&gt; &#xA;&lt;p&gt;默认分配&lt;strong&gt;2gb&lt;/strong&gt;内存，有需要可以自行修改 &lt;code&gt;&amp;lt;MemoryInMB&amp;gt;2048&amp;lt;/MemoryInMB&amp;gt;&lt;/code&gt;&lt;/p&gt; &#xA;&lt;h2&gt;使用教程&lt;/h2&gt; &#xA;&lt;p&gt;启用 &lt;code&gt;Windows 沙盒&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;git clone 本项目&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git clone https://github.com/empty-233/tencent-sandbox.git&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;按照以下结构&lt;strong&gt;创建空文件夹&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;├───App&#xA;│   ├───QQ&#xA;│   ├───QQNT&#xA;│   ├───TIM&#xA;│   └───WeChat&#xA;├───Data&#xA;│   ├───Common Files&#xA;│   ├───Documents&#xA;│   │   ├───Tencent&#xA;│   │   └───WeChat&#xA;│   ├───Roaming&#xA;│   │   ├───Tencent&#xA;│   │   └───WeChat&#xA;│   └───SysWOW64&#xA;├───Desktop&#xA;└───Scripts&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;新开一个&lt;strong&gt;默认沙盒&lt;/strong&gt;，并正常安装 &lt;strong&gt;QQ/QQNT/TIM&lt;/strong&gt; 安装完成之后复制 &lt;code&gt;C:\Windows\SysWOW64&lt;/code&gt; 到 &lt;code&gt;Data\SysWOW64&lt;/code&gt; (不然qq运行一段时间后会崩溃)&lt;/p&gt; &#xA;&lt;p&gt;打开 &lt;strong&gt;Tencent.wsb&lt;/strong&gt; 既可正常使用&lt;/p&gt; &#xA;&lt;h2&gt;挂载路径&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;桌面 -&amp;gt; Desktop&#xA;C:\Program Files (x86)\Common Files -&amp;gt; Data\Common Files&#xA;C:\Users\WDAGUtilityAccount\Documents\Tencent Files -&amp;gt; Data\Documents\Tencent&#xA;C:\Users\WDAGUtilityAccount\Documents\WeChat Files -&amp;gt; Data\Documents\WeChat&#xA;&#xA;其余的请查看 Tencent.wsb 中的 MappedFolder&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

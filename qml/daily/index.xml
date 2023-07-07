@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub QML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:44:26Z</updated>
+  <updated>2023-07-07T01:45:10Z</updated>
   <subtitle>Daily Trending of QML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>schnitzeltony/fontawesome-qml</title>
-    <updated>2023-07-06T01:44:26Z</updated>
-    <id>tag:github.com,2023-07-06:/schnitzeltony/fontawesome-qml</id>
-    <link href="https://github.com/schnitzeltony/fontawesome-qml" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A library to ease up Font-Awesome handling in QML + a viewer for programmers: Find a glyph and simply copy its ID into your code.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ZeraGmbH/vf-declarative-gui</title>
-    <updated>2023-07-06T01:44:26Z</updated>
-    <id>tag:github.com,2023-07-06:/ZeraGmbH/vf-declarative-gui</id>
-    <link href="https://github.com/ZeraGmbH/vf-declarative-gui" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Graphical user interface for Zera touchscreen devices&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ZeraGmbH/vf-qmllibs</title>
-    <updated>2023-07-06T01:44:26Z</updated>
-    <id>tag:github.com,2023-07-06:/ZeraGmbH/vf-qmllibs</id>
-    <link href="https://github.com/ZeraGmbH/vf-qmllibs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of all Zera qml components and qml gui pages. (Its like a collection of gui modules)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

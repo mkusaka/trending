@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:48:36Z</updated>
+  <updated>2023-07-07T01:49:35Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>lucioseki/vimrc</title>
-    <updated>2023-07-06T01:48:36Z</updated>
-    <id>tag:github.com,2023-07-06:/lucioseki/vimrc</id>
-    <link href="https://github.com/lucioseki/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;runcom file for my vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AndrewRadev/strftime.vim</title>
+    <updated>2023-07-07T01:49:35Z</updated>
+    <id>tag:github.com,2023-07-07:/AndrewRadev/strftime.vim</id>
+    <link href="https://github.com/AndrewRadev/strftime.vim" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make it easier to read and write strftime strings&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>paulwc/configs</title>
-    <updated>2023-07-06T01:48:36Z</updated>
-    <id>tag:github.com,2023-07-06:/paulwc/configs</id>
-    <link href="https://github.com/paulwc/configs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;config files to be tracked&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>czirzow/dotfiles</title>
-    <updated>2023-07-06T01:48:36Z</updated>
-    <id>tag:github.com,2023-07-06:/czirzow/dotfiles</id>
-    <link href="https://github.com/czirzow/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dtbusse/dotfiles</title>
+    <updated>2023-07-07T01:49:35Z</updated>
+    <id>tag:github.com,2023-07-07:/dtbusse/dotfiles</id>
+    <link href="https://github.com/dtbusse/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Save my dot files to a common location&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

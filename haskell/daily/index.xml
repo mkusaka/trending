@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:37:40Z</updated>
+  <updated>2023-07-07T01:37:26Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nobsun/lifegame</title>
-    <updated>2023-07-06T01:37:40Z</updated>
-    <id>tag:github.com,2023-07-06:/nobsun/lifegame</id>
-    <link href="https://github.com/nobsun/lifegame" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Conway&#39;s life game&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;lifegame&lt;/h1&gt;</summary>
+    <title>richerrer/MasterMind</title>
+    <updated>2023-07-07T01:37:26Z</updated>
+    <id>tag:github.com,2023-07-07:/richerrer/MasterMind</id>
+    <link href="https://github.com/richerrer/MasterMind" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xuebo/xset</title>
+    <updated>2023-07-07T01:37:26Z</updated>
+    <id>tag:github.com,2023-07-07:/xuebo/xset</id>
+    <link href="https://github.com/xuebo/xset" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;home&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;A&lt;/h1&gt;</summary>
+  </entry>
+  <entry>
+    <title>acowley/DistanceTransform</title>
+    <updated>2023-07-07T01:37:26Z</updated>
+    <id>tag:github.com,2023-07-07:/acowley/DistanceTransform</id>
+    <link href="https://github.com/acowley/DistanceTransform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parallel linear time n-dimensional Euclidean distance transform.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;An N-dimensional distance transform that computes the Euclidean distance between each element in a discrete field and the nearest cell containing a zero.&lt;/p&gt; &#xA;&lt;p&gt;The algorithm implemented is based off of Meijster et al., &lt;em&gt;&#34;A general algorithm for computing distance transforms in linear time.&#34;&lt;/em&gt; Parallel versions of both the Euclidean distance transform and squared Euclidean distance transform are also provided.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/acowley/DistanceTransform&#34;&gt;&lt;img src=&#34;https://travis-ci.org/acowley/DistanceTransform.png&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

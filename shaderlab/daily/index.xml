@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:46:03Z</updated>
+  <updated>2023-07-07T01:46:41Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheLibertador/Dice-Rolls</title>
+    <updated>2023-07-07T01:46:41Z</updated>
+    <id>tag:github.com,2023-07-07:/TheLibertador/Dice-Rolls</id>
+    <link href="https://github.com/TheLibertador/Dice-Rolls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A 3D game mechanic that lets you roll deterministic dices. Created with Unity 3D and C#&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

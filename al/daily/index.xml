@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub AL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:31:31Z</updated>
+  <updated>2023-07-07T01:31:21Z</updated>
   <subtitle>Daily Trending of AL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Drakonian/data-editor-for-bc</title>
-    <updated>2023-07-06T01:31:31Z</updated>
-    <id>tag:github.com,2023-07-06:/Drakonian/data-editor-for-bc</id>
-    <link href="https://github.com/Drakonian/data-editor-for-bc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Data Editor extension that allows you to change and delete information from any table in Business Central&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

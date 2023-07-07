@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub KRL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:39:59Z</updated>
+  <updated>2023-07-07T01:40:19Z</updated>
   <subtitle>Daily Trending of KRL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Picolab/PLAN</title>
-    <updated>2023-07-06T01:39:59Z</updated>
-    <id>tag:github.com,2023-07-06:/Picolab/PLAN</id>
-    <link href="https://github.com/Picolab/PLAN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Pico Labs Affiliate Network&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

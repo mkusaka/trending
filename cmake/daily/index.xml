@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-06T01:33:53Z</updated>
+  <updated>2023-07-07T01:33:38Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>sahilgaurkar/puzzle-solver-robot</title>
-    <updated>2023-07-06T01:33:53Z</updated>
-    <id>tag:github.com,2023-07-06:/sahilgaurkar/puzzle-solver-robot</id>
-    <link href="https://github.com/sahilgaurkar/puzzle-solver-robot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This project aims at developing a software stack for 3D puzzle solving using ROS2 and deep learning for image recognition.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
