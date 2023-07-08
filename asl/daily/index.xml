@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ASL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:31:37Z</updated>
+  <updated>2023-07-08T01:31:28Z</updated>
   <subtitle>Daily Trending of ASL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>feiniaojin/Thinking-in-DDD</title>
-    <updated>2023-07-07T01:31:37Z</updated>
-    <id>tag:github.com,2023-07-07:/feiniaojin/Thinking-in-DDD</id>
-    <link href="https://github.com/feiniaojin/Thinking-in-DDD" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;悟道DDD，领域驱动设计实战&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:31:40Z</updated>
+  <updated>2023-07-08T01:31:34Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>midudev/view-transitions-api-books-demo</title>
-    <updated>2023-07-07T01:31:40Z</updated>
-    <id>tag:github.com,2023-07-07:/midudev/view-transitions-api-books-demo</id>
-    <link href="https://github.com/midudev/view-transitions-api-books-demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Demo de View Transitions API&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MaeWolff/astro-portfolio-template</title>
-    <updated>2023-07-07T01:31:40Z</updated>
-    <id>tag:github.com,2023-07-07:/MaeWolff/astro-portfolio-template</id>
-    <link href="https://github.com/MaeWolff/astro-portfolio-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Portfolio with a blog part built with Astro&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

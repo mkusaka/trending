@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Rich Text Format Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:45:43Z</updated>
+  <updated>2023-07-08T01:44:33Z</updated>
   <subtitle>Daily Trending of Rich Text Format in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Gladwrap1205/wace</title>
-    <updated>2023-07-07T01:45:43Z</updated>
-    <id>tag:github.com,2023-07-07:/Gladwrap1205/wace</id>
-    <link href="https://github.com/Gladwrap1205/wace" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Monorepo containing resources and associated Discord bot&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

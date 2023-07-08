@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:30:18Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-07-08T01:30:31Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SysCV/sam-pt</title>
-    <updated>2023-07-07T01:30:18Z</updated>
-    <id>tag:github.com,2023-07-07:/SysCV/sam-pt</id>
-    <link href="https://github.com/SysCV/sam-pt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SAM-PT: Extending SAM to zero-shot video segmentation with point-based tracking.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>agefanscom/website</title>
+    <updated>2023-07-08T01:30:31Z</updated>
+    <id>tag:github.com,2023-07-08:/agefanscom/website</id>
+    <link href="https://github.com/agefanscom/website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AGE animation official website URL release page（AGE动漫官网网址发布页）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>northwesternfintech/2024QuantInternships</title>
+    <updated>2023-07-08T01:30:31Z</updated>
+    <id>tag:github.com,2023-07-08:/northwesternfintech/2024QuantInternships</id>
+    <link href="https://github.com/northwesternfintech/2024QuantInternships" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Public quant internship repository, maintained by NUFT but available for everyone.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bacen/pix-api</title>
+    <updated>2023-07-08T01:30:31Z</updated>
+    <id>tag:github.com,2023-07-08:/bacen/pix-api</id>
+    <link href="https://github.com/bacen/pix-api" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;API Pix: a API do Arranjo de Pagamentos Instantâneos Brasileiro, Pix, criado pelo Banco Central do Brasil.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

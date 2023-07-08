@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:47:45Z</updated>
+  <updated>2023-07-08T01:46:47Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CCExtractor/video2srt</title>
-    <updated>2023-07-07T01:47:45Z</updated>
-    <id>tag:github.com,2023-07-07:/CCExtractor/video2srt</id>
-    <link href="https://github.com/CCExtractor/video2srt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Superfast online transcript generator with FFmpeg/wasm + whisper&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cucho-s-Market/Cuchos-Market_Web</title>
+    <updated>2023-07-08T01:46:47Z</updated>
+    <id>tag:github.com,2023-07-08:/Cucho-s-Market/Cuchos-Market_Web</id>
+    <link href="https://github.com/Cucho-s-Market/Cuchos-Market_Web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web Application for Cucho&#39;s Market e-commerce.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sheodox/alexandrite</title>
-    <updated>2023-07-07T01:47:45Z</updated>
-    <id>tag:github.com,2023-07-07:/sheodox/alexandrite</id>
-    <link href="https://github.com/sheodox/alexandrite" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A beautiful and convenient desktop-first alternate web UI for Lemmy. (formerly sx-lemmy)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sixcolors/cs50-final-project</title>
+    <updated>2023-07-08T01:46:47Z</updated>
+    <id>tag:github.com,2023-07-08:/sixcolors/cs50-final-project</id>
+    <link href="https://github.com/sixcolors/cs50-final-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A web app that allows users to see the current wildfires in Canada&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

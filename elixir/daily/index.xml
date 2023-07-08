@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:35:32Z</updated>
+  <updated>2023-07-08T01:35:22Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>woodward/integrator</title>
-    <updated>2023-07-07T01:35:32Z</updated>
-    <id>tag:github.com,2023-07-07:/woodward/integrator</id>
-    <link href="https://github.com/woodward/integrator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A numerical integrator written in Elixir for the solution of sets of non-stiff ordinary differential equations (ODEs).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>bartblast/hologram</title>
-    <updated>2023-07-07T01:35:32Z</updated>
-    <id>tag:github.com,2023-07-07:/bartblast/hologram</id>
-    <link href="https://github.com/bartblast/hologram" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full stack isomorphic Elixir web framework&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:49:42Z</updated>
+  <updated>2023-07-08T01:48:39Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sdaaron/QueryGPT</title>
+    <updated>2023-07-08T01:48:39Z</updated>
+    <id>tag:github.com,2023-07-08:/sdaaron/QueryGPT</id>
+    <link href="https://github.com/sdaaron/QueryGPT" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;基于Langchain 的自然语言表格数据查询工具 A Natural Language Tabular Data Query Tool based on Langchain&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:34:32Z</updated>
+  <updated>2023-07-08T01:34:18Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Ethiel97/smooth_expansion_tile</title>
+    <updated>2023-07-08T01:34:18Z</updated>
+    <id>tag:github.com,2023-07-08:/Ethiel97/smooth_expansion_tile</id>
+    <link href="https://github.com/Ethiel97/smooth_expansion_tile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Smooth expansion title demo with Flutter&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;fancy_dropdown&lt;/h1&gt; &#xA;&lt;p&gt;Flutter fancy dropdown&lt;/p&gt; &#xA;&lt;h2&gt;Getting Started&lt;/h2&gt; &#xA;&lt;p&gt;This project is a starting point for a Flutter application.&lt;/p&gt; &#xA;&lt;p&gt;A few resources to get you started if this is your first Flutter project:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.flutter.dev/get-started/codelab&#34;&gt;Lab: Write your first Flutter app&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://docs.flutter.dev/cookbook&#34;&gt;Cookbook: Useful Flutter samples&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;For help getting started with Flutter development, view the &lt;a href=&#34;https://docs.flutter.dev/&#34;&gt;online documentation&lt;/a&gt;, which offers tutorials, samples, guidance on mobile development, and a full API reference.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>invertase/conference-app</title>
+    <updated>2023-07-08T01:34:18Z</updated>
+    <id>tag:github.com,2023-07-08:/invertase/conference-app</id>
+    <link href="https://github.com/invertase/conference-app" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Flutter conference app&lt;/h1&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:47:52Z</updated>
+  <updated>2023-07-08T01:46:55Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vapor/websocket-kit</title>
+    <updated>2023-07-08T01:46:55Z</updated>
+    <id>tag:github.com,2023-07-08:/vapor/websocket-kit</id>
+    <link href="https://github.com/vapor/websocket-kit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;WebSocket client library built on SwiftNIO&lt;/p&gt;&lt;hr&gt;&lt;p align=&#34;center&#34;&gt; &lt;img src=&#34;https://user-images.githubusercontent.com/1342803/75630258-105e9c00-5bb7-11ea-81b8-86afa000e188.png&#34; height=&#34;64&#34; alt=&#34;NIOWebSocketClient&#34;&gt; &lt;br&gt; &lt;br&gt; &lt;a href=&#34;https://docs.vapor.codes/4.0/&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/read_the-docs-2196f3.svg?sanitize=true&#34; alt=&#34;API Docs&#34;&gt; &lt;/a&gt; &lt;a href=&#34;http://vapor.team&#34;&gt; &lt;img src=&#34;https://img.shields.io/discord/431917998102675485.svg?sanitize=true&#34; alt=&#34;Team Chat&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://raw.githubusercontent.com/vapor/websocket-kit/main/LICENSE&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/license-MIT-brightgreen.svg?sanitize=true&#34; alt=&#34;MIT License&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://github.com/vapor/websocket-kit/actions/workflows/test.yml&#34;&gt; &lt;img src=&#34;https://github.com/vapor/websocket-kit/actions/workflows/test.yml/badge.svg?event=push&#34; alt=&#34;Continuous Integration&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://swift.org&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/swift-5.6-brightgreen.svg?sanitize=true&#34; alt=&#34;Swift 5.6&#34;&gt; &lt;/a&gt; &lt;a href=&#34;https://swift.org&#34;&gt; &lt;img src=&#34;http://img.shields.io/badge/swift-5.8-brightgreen.svg?sanitize=true&#34; alt=&#34;Swift 5.8&#34;&gt; &lt;/a&gt; &lt;/p&gt;</summary>
+  </entry>
 </feed>

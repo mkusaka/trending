@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:41:04Z</updated>
+  <updated>2023-07-08T01:40:03Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>black-desk/linglong-package-examples</title>
-    <updated>2023-07-07T01:41:04Z</updated>
-    <id>tag:github.com,2023-07-07:/black-desk/linglong-package-examples</id>
-    <link href="https://github.com/black-desk/linglong-package-examples" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>jianzhuozhuTHU/putn</title>
-    <updated>2023-07-07T01:41:04Z</updated>
-    <id>tag:github.com,2023-07-07:/jianzhuozhuTHU/putn</id>
-    <link href="https://github.com/jianzhuozhuTHU/putn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ruanbekker/docker-monitoring-stack-gpnc</title>
+    <updated>2023-07-08T01:40:03Z</updated>
+    <id>tag:github.com,2023-07-08:/ruanbekker/docker-monitoring-stack-gpnc</id>
+    <link href="https://github.com/ruanbekker/docker-monitoring-stack-gpnc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Grafana Prometheus Node-Exporter cAdvisor - Docker Monitoring Stack&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

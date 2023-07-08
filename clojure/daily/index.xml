@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-07T01:33:31Z</updated>
+  <updated>2023-07-08T01:33:18Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CircleCI-Archived/frontend</title>
+    <updated>2023-07-08T01:33:18Z</updated>
+    <id>tag:github.com,2023-07-08:/CircleCI-Archived/frontend</id>
+    <link href="https://github.com/CircleCI-Archived/frontend" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CircleCI&#39;s frontend&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HealthSamurai/suitkin</title>
+    <updated>2023-07-08T01:33:18Z</updated>
+    <id>tag:github.com,2023-07-08:/HealthSamurai/suitkin</id>
+    <link href="https://github.com/HealthSamurai/suitkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
