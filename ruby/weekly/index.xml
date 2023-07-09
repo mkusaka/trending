@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Ruby Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-09T02:04:09Z</updated>
+  <subtitle>Weekly Trending of Ruby in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>sksalahuddin2828/Ruby_on_Rails</title>
+    <updated>2023-07-09T02:04:09Z</updated>
+    <id>tag:github.com,2023-07-09:/sksalahuddin2828/Ruby_on_Rails</id>
+    <link href="https://github.com/sksalahuddin2828/Ruby_on_Rails" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Ruby on Rails&lt;/h1&gt; &#xA;&lt;p&gt;Ruby on Rails, often simply called Rails, is a popular and powerful web application framework written in the Ruby programming language. It follows the Model-View-Controller (MVC) architectural pattern and provides a robust and elegant solution for building dynamic, database-driven websites and applications.&lt;/p&gt; &#xA;&lt;p&gt;Rails emphasizes convention over configuration, which means it provides sensible defaults and conventions that help developers focus on writing application-specific code rather than spending time on repetitive configuration tasks. This approach leads to increased productivity and faster development cycles.&lt;/p&gt; &#xA;&lt;p&gt;Key Features of Ruby on Rails:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Full-stack framework: Rails covers both the backend and frontend aspects of web development, making it a comprehensive solution.&lt;/li&gt; &#xA; &lt;li&gt;ActiveRecord: Rails&#39; ActiveRecord ORM (Object-Relational Mapping) simplifies database interactions by mapping database tables to Ruby objects.&lt;/li&gt; &#xA; &lt;li&gt;RESTful Routing: Rails follows RESTful principles for defining routes, making it easy to create clean and intuitive APIs.&lt;/li&gt; &#xA; &lt;li&gt;Convention over Configuration: Rails minimizes the need for explicit configuration by relying on sensible conventions, reducing code verbosity.&lt;/li&gt; &#xA; &lt;li&gt;Gems and Plugins: The Rails ecosystem offers a wide range of gems and plugins that extend functionality and enable rapid development.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Ruby on Rails has a strong and supportive community, with a wealth of resources, documentation, and community-driven libraries available. It has been widely adopted by startups, enterprises, and individual developers for building scalable and maintainable web applications.&lt;/p&gt; &#xA;&lt;p&gt;If you&#39;re looking for a productive and elegant web development framework, Ruby on Rails is an excellent choice. Get started with Rails and join the vibrant community of Rails developers today!&lt;/p&gt;</summary>
+  </entry>
+</feed>

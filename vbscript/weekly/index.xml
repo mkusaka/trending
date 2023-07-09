@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VBScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-09T02:07:00Z</updated>
+  <subtitle>Weekly Trending of VBScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>superbeyone/JetBrainsActiveCode</title>
+    <updated>2023-07-09T02:07:00Z</updated>
+    <id>tag:github.com,2023-07-09:/superbeyone/JetBrainsActiveCode</id>
+    <link href="https://github.com/superbeyone/JetBrainsActiveCode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Jetbrains Active&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

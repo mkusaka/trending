@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Component Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-08T01:33:41Z</updated>
+  <updated>2023-07-09T01:33:59Z</updated>
   <subtitle>Daily Trending of Component Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CynicRus/sps_path</title>
-    <updated>2023-07-08T01:33:41Z</updated>
-    <id>tag:github.com,2023-07-08:/CynicRus/sps_path</id>
-    <link href="https://github.com/CynicRus/sps_path" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SPS Path maker for simba v 2.0&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

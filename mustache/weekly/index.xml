@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Mustache Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-09T02:00:04Z</updated>
+  <subtitle>Weekly Trending of Mustache in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Humalect/k8s-extensions</title>
+    <updated>2023-07-09T02:00:04Z</updated>
+    <id>tag:github.com,2023-07-09:/Humalect/k8s-extensions</id>
+    <link href="https://github.com/Humalect/k8s-extensions" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The &#39;k8s-extensions&#39; repository is a collection of custom Kubernetes extensions designed to enhance and extend the capabilities of a Kubernetes cluster.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Developers-Communit/homepage</title>
+    <updated>2023-07-09T02:00:04Z</updated>
+    <id>tag:github.com,2023-07-09:/Developers-Communit/homepage</id>
+    <link href="https://github.com/Developers-Communit/homepage" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;HomePage WebDev Community&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

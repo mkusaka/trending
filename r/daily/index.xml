@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-08T01:44:05Z</updated>
+  <updated>2023-07-09T01:44:31Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>RyanHope/hop-chart</title>
+    <updated>2023-07-09T01:44:31Z</updated>
+    <id>tag:github.com,2023-07-09:/RyanHope/hop-chart</id>
+    <link href="https://github.com/RyanHope/hop-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interactive hop chart using R/Shiny.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>rjdemetra/rjd3highfreq</title>
+    <updated>2023-07-09T01:44:31Z</updated>
+    <id>tag:github.com,2023-07-09:/rjdemetra/rjd3highfreq</id>
+    <link href="https://github.com/rjdemetra/rjd3highfreq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;rjd3highfreq&lt;/h1&gt; &#xA;&lt;p&gt;High-frequency time series&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;# Install development version from GitHub&#xA;# install.packages(&#34;remotes&#34;)&#xA;remotes::install_github(&#34;palatej/rjd3toolkit&#34;)&#xA;remotes::install_github(&#34;palatej/rjd3highfreq&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

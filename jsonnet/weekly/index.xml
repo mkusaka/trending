@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Jsonnet Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-09T01:58:06Z</updated>
+  <subtitle>Weekly Trending of Jsonnet in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eclipse-kuksa/.eclipsefdn</title>
+    <updated>2023-07-09T01:58:06Z</updated>
+    <id>tag:github.com,2023-07-09:/eclipse-kuksa/.eclipsefdn</id>
+    <link href="https://github.com/eclipse-kuksa/.eclipsefdn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository to host configurations related to the Eclipse Foundation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>eclipse-oomph/.eclipsefdn</title>
+    <updated>2023-07-09T01:58:06Z</updated>
+    <id>tag:github.com,2023-07-09:/eclipse-oomph/.eclipsefdn</id>
+    <link href="https://github.com/eclipse-oomph/.eclipsefdn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository to host configurations related to the Eclipse Foundation.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

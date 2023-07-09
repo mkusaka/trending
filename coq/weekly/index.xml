@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Coq Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-09T01:52:19Z</updated>
+  <subtitle>Weekly Trending of Coq in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>coq-community/metaprogramming-rosetta-stone</title>
+    <updated>2023-07-09T01:52:19Z</updated>
+    <id>tag:github.com,2023-07-09:/coq-community/metaprogramming-rosetta-stone</id>
+    <link href="https://github.com/coq-community/metaprogramming-rosetta-stone" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A rosetta stone for metaprogramming in Coq, with different examples of tactics, plugins, etc implemented in different metaprogramming languages [maintainer=@yforster]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

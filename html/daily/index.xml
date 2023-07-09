@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-08T01:37:24Z</updated>
+  <updated>2023-07-09T01:37:38Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gias-uddin-swe/digital-products-b8</title>
-    <updated>2023-07-08T01:37:24Z</updated>
-    <id>tag:github.com,2023-07-08:/gias-uddin-swe/digital-products-b8</id>
-    <link href="https://github.com/gias-uddin-swe/digital-products-b8" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gias-uddin-swe/Digital-Product-b8-test</title>
-    <updated>2023-07-08T01:37:24Z</updated>
-    <id>tag:github.com,2023-07-08:/gias-uddin-swe/Digital-Product-b8-test</id>
-    <link href="https://github.com/gias-uddin-swe/Digital-Product-b8-test" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;.parent { display: flex; /* or inline-flex */&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;flex-direction: row | row-reverse | column | column-reverse;&#xA;&#xA;flex-wrap: nowrap | wrap | wrap-reverse;&#xA;&#xA;justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right;&#xA;&#xA;align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end;&#xA;&#xA;align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline | first baseline | last baseline; &#xA;&#xA;/* GAP */&#xA;gap: 10px;&#xA;gap: 10px 20px; /* row-gap column gap */&#xA;row-gap: 10px;&#xA;column-gap: 20px;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;} .children { order: 5; /* default is 0 */&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;flex-grow: 4; /* default 0 */&#xA;&#xA;flex-shrink: 3; /* default 1 */&#xA;&#xA;flex-basis:  33.33% | auto; /* default size auto */&#xA;/* Shorthand */&#xA;&#xA;flex: none | [ &amp;lt;&#39;flex-grow&#39;&amp;gt; &amp;lt;&#39;flex-shrink&#39;&amp;gt;? || &amp;lt;&#39;flex-basis&#39;&amp;gt; ]&#xA;&#xA;align-self: auto | flex-start | flex-end | center | baseline | stretch;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;}&lt;/p&gt;</summary>
+    <title>MiyakoYakota/search.0t.rocks</title>
+    <updated>2023-07-09T01:37:38Z</updated>
+    <id>tag:github.com,2023-07-09:/MiyakoYakota/search.0t.rocks</id>
+    <link href="https://github.com/MiyakoYakota/search.0t.rocks" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Zero Trust Search Engine&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains all the code nessecary to create your own version of &lt;a href=&#34;https://search.0t.rocks&#34;&gt;https://search.0t.rocks&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Quickstart&lt;/h3&gt; &#xA;&lt;p&gt;To get your search engine running quickly on a single Linux host:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Install Docker with Docker Compose&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;docker compose build; docker compose up&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;bash start.sh&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Visit &lt;code&gt;http://your-ip:3000&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;Converting Data&lt;/h3&gt; &#xA;&lt;p&gt;This is the hard part and completely up to you. You need to convert data into a standard format before it can be imported. See &lt;code&gt;sample.json&lt;/code&gt; for the example data.&lt;/p&gt; &#xA;&lt;h3&gt;Importing Data&lt;/h3&gt; &#xA;&lt;p&gt;Data imports are done using the SimplePostTool included with Solr. You can download a copy of the &lt;strong&gt;binary release&lt;/strong&gt; &lt;a href=&#34;https://solr.apache.org/downloads.html&#34;&gt;here&lt;/a&gt;, and import data with the following command after extracting Solr: &lt;code&gt;bin/post -c BigData -p 8983 -host &amp;lt;your host&amp;gt; path/to/your/file&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Docs are available here: &lt;a href=&#34;https://solr.apache.org/guide/solr/latest/indexing-guide/post-tool.html&#34;&gt;https://solr.apache.org/guide/solr/latest/indexing-guide/post-tool.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h3&gt;Making Changes&lt;/h3&gt; &#xA;&lt;p&gt;If you make changes to code in the &#34;dataapp&#34; directory, you can re-build your app by re-running step 1 of Quickstart.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h4&gt;Considerations / Warnings&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Solr is very complex. If you intend on extending on the existing schema or indexing large quantities (billions) of documents, you will want to learn more about how it works.&lt;/li&gt; &#xA; &lt;li&gt;Keep backups, things will go wrong if you deviate the standard path.&lt;/li&gt; &#xA; &lt;li&gt;Don&#39;t be evil.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

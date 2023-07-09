@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-08T01:35:27Z</updated>
+  <updated>2023-07-09T01:35:36Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jpredham/jpmacs</title>
-    <updated>2023-07-08T01:35:27Z</updated>
-    <id>tag:github.com,2023-07-08:/jpredham/jpmacs</id>
-    <link href="https://github.com/jpredham/jpmacs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;emacs dotfiles&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;JPMACS&lt;/h1&gt; &#xA;&lt;h2&gt;My barely-organized hodge-podge of an emacs configuration&lt;/h2&gt; &#xA;&lt;p&gt;Many lines in this config are borrowed from varying sources on the web that I&#39;ll try to cite wherever possible. Many lines are my own. Unfortunately the structure, due to the way the configs evolved leave something to be desired (i.e. almost everything is in init.el). I try to make up for in comments what would otherwise be broken down into modules.&lt;/p&gt;</summary>
+    <title>danrabinowitz/dotfiles</title>
+    <updated>2023-07-09T01:35:36Z</updated>
+    <id>tag:github.com,2023-07-09:/danrabinowitz/dotfiles</id>
+    <link href="https://github.com/danrabinowitz/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;This is the personal &#34;dotfiles&#34; repo of Dan Rabinowitz. YMMV.&lt;/h1&gt; &#xA;&lt;p&gt;To install these dotfiles on a new machine: ssh -A user@host&lt;/p&gt; &#xA;&lt;h1&gt;git clone &lt;a href=&#34;mailto:git@github.com&#34;&gt;git@github.com&lt;/a&gt;:danrabinowitz/dotfiles.git&lt;/h1&gt; &#xA;&lt;h1&gt;mv dotfiles .dotfiles.git&lt;/h1&gt; &#xA;&lt;h1&gt;cd .dotfiles.git&lt;/h1&gt; &#xA;&lt;h1&gt;git status&lt;/h1&gt; &#xA;&lt;h1&gt;make symlinks &amp;lt;----- TODO&lt;/h1&gt; &#xA;&lt;h1&gt;exit&lt;/h1&gt; &#xA;&lt;p&gt;ssh user@host&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Check that things look good&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
   </entry>
 </feed>

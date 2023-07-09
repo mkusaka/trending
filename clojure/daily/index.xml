@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-08T01:33:18Z</updated>
+  <updated>2023-07-09T01:33:44Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>CircleCI-Archived/frontend</title>
-    <updated>2023-07-08T01:33:18Z</updated>
-    <id>tag:github.com,2023-07-08:/CircleCI-Archived/frontend</id>
-    <link href="https://github.com/CircleCI-Archived/frontend" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;CircleCI&#39;s frontend&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked</title>
+    <updated>2023-07-09T01:33:44Z</updated>
+    <id>tag:github.com,2023-07-09:/GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked</id>
+    <link href="https://github.com/GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Batch file to launch activated BurpSuit in Windows 10/ 11&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HealthSamurai/suitkin</title>
-    <updated>2023-07-08T01:33:18Z</updated>
-    <id>tag:github.com,2023-07-08:/HealthSamurai/suitkin</id>
-    <link href="https://github.com/HealthSamurai/suitkin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dundalek/closh</title>
+    <updated>2023-07-09T01:33:44Z</updated>
+    <id>tag:github.com,2023-07-09:/dundalek/closh</id>
+    <link href="https://github.com/dundalek/closh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bash-like shell based on Clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

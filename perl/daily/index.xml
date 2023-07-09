@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-08T01:42:21Z</updated>
+  <updated>2023-07-09T01:42:51Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>yxnwh/checkin</title>
+    <updated>2023-07-09T01:42:51Z</updated>
+    <id>tag:github.com,2023-07-09:/yxnwh/checkin</id>
+    <link href="https://github.com/yxnwh/checkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;请勿fork，点亮star即可，不会跑路滴~！&lt;/p&gt; &#xA;&lt;p&gt;转载自&lt;a href=&#34;https://github.com/OreosLab/checkinpanel&#34;&gt;https://github.com/OreosLab/checkinpanel&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;感谢Oreo大佬基于青龙的架构！！&lt;/p&gt; &#xA;&lt;p&gt;出于自用精简的目的删除掉部分用不上的功能，注意：不支持v2p&lt;/p&gt; &#xA;&lt;p&gt;通知模块采用的sendNotify.js和sendNotify.py，跟jd相同&lt;/p&gt; &#xA;&lt;p&gt;1.修改config.sh&lt;/p&gt; &#xA;&lt;p&gt;RepoFileExtensions=&#34;js pl py sh ts&#34;&lt;/p&gt; &#xA;&lt;p&gt;2.拉库&lt;/p&gt; &#xA;&lt;p&gt;ql repo &lt;a href=&#34;https://github.com/yxnwh/checkin.git&#34;&gt;https://github.com/yxnwh/checkin.git&lt;/a&gt; &#34;api_|ck_|ins_&#34; &#34;^checkin&#34; &#34;^sendNotify|^utils|cpm|^jsencrypt&#34; &#34;main&#34;&lt;/p&gt; &#xA;&lt;p&gt;3.运行 签到依赖 任务&lt;/p&gt; &#xA;&lt;p&gt;4.复制check.sample.toml到config目录下，文件名改成check.toml，参考check.sample.toml的格式，在check.toml中添加上对应脚本的cookie或相关数据，有些脚本因为失效已删除，但check.toml仍然保留，不用管它&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>infinispan/mc-crusher-horreum</title>
+    <updated>2023-07-09T01:42:51Z</updated>
+    <id>tag:github.com,2023-07-09:/infinispan/mc-crusher-horreum</id>
+    <link href="https://github.com/infinispan/mc-crusher-horreum" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Set all environment variables in the Dockerfile.&lt;/p&gt; &#xA;&lt;p&gt;Add your benchmark file into the benchmark folder of the project (at the moment it&#39;s only accepting cmd_set and cmd_get names for the files).&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker build -t mc-crusher-horreum .&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker run -it --name mc-crusher-horreum -d mc-crusher-horreum&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Run the script mc-crusher.pl with timeout time in seconds as the first argument, example:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;docker exec -it mc-crusher-horreum /mc-crusher/mc-crusher.pl 10&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;The script will run for 10 seconds and then exit sending the results to the Horreum server.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>ManelBrull/Bioinformatic</title>
+    <updated>2023-07-09T01:42:51Z</updated>
+    <id>tag:github.com,2023-07-09:/ManelBrull/Bioinformatic</id>
+    <link href="https://github.com/ManelBrull/Bioinformatic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository for bioinformatic practical lessons&lt;/p&gt;&lt;hr&gt;&lt;p&gt;This project has only educational purposes.&lt;/p&gt; &#xA;&lt;p&gt;It is created to manage better the bioinformatic practical courses.&lt;/p&gt;</summary>
+  </entry>
 </feed>

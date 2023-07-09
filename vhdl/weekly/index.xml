@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub VHDL Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-09T02:07:06Z</updated>
+  <subtitle>Weekly Trending of VHDL in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ethanmys/Picoblaze-calculator</title>
+    <updated>2023-07-09T02:07:06Z</updated>
+    <id>tag:github.com,2023-07-09:/ethanmys/Picoblaze-calculator</id>
+    <link href="https://github.com/ethanmys/Picoblaze-calculator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Utilize the existing LCD display to output the calculation -- using the picoblaze. The input to this block is registered based on the -- write stobe from the picoblaze&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>slaclab/Simple-ZCU111-Example</title>
+    <updated>2023-07-09T02:07:06Z</updated>
+    <id>tag:github.com,2023-07-09:/slaclab/Simple-ZCU111-Example</id>
+    <link href="https://github.com/slaclab/Simple-ZCU111-Example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>slaclab/Simple-ZCU670-Example</title>
+    <updated>2023-07-09T02:07:06Z</updated>
+    <id>tag:github.com,2023-07-09:/slaclab/Simple-ZCU670-Example</id>
+    <link href="https://github.com/slaclab/Simple-ZCU670-Example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

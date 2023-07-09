@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-08T01:48:32Z</updated>
+  <updated>2023-07-09T01:48:23Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>scheakur/vim-demitas</title>
-    <updated>2023-07-08T01:48:32Z</updated>
-    <id>tag:github.com,2023-07-08:/scheakur/vim-demitas</id>
-    <link href="https://github.com/scheakur/vim-demitas" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Post to tumblr.com from Vim&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>azabiong/vim-highlighter</title>
+    <updated>2023-07-09T01:48:23Z</updated>
+    <id>tag:github.com,2023-07-09:/azabiong/vim-highlighter</id>
+    <link href="https://github.com/azabiong/vim-highlighter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Highlight words and expressions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>liquidz/vim-iced</title>
+    <updated>2023-07-09T01:48:23Z</updated>
+    <id>tag:github.com,2023-07-09:/liquidz/vim-iced</id>
+    <link href="https://github.com/liquidz/vim-iced" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure Interactive Development Environment for Vim8/Neovim&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

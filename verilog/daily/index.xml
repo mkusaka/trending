@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-08T01:48:26Z</updated>
+  <updated>2023-07-09T01:48:18Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wuxx/Colorlight-FPGA-Projects</title>
-    <updated>2023-07-08T01:48:26Z</updated>
-    <id>tag:github.com,2023-07-08:/wuxx/Colorlight-FPGA-Projects</id>
-    <link href="https://github.com/wuxx/Colorlight-FPGA-Projects" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;current focus on Colorlight i5 and i9 &amp; i9plus module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

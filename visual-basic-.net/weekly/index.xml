@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Visual Basic .NET Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-09T02:07:15Z</updated>
+  <subtitle>Weekly Trending of Visual Basic .NET in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>FinalAssignmentConsultant/PenjadwalanPertandingan</title>
+    <updated>2023-07-09T02:07:15Z</updated>
+    <id>tag:github.com,2023-07-09:/FinalAssignmentConsultant/PenjadwalanPertandingan</id>
+    <link href="https://github.com/FinalAssignmentConsultant/PenjadwalanPertandingan" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haha, ni anak nyenengin banget pas dibantu :D&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ecnepsnai/myFire</title>
+    <updated>2023-07-09T02:07:15Z</updated>
+    <id>tag:github.com,2023-07-09:/ecnepsnai/myFire</id>
+    <link href="https://github.com/ecnepsnai/myFire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;myFire is a desktop Twitter client built in VB.NET and C# using a modified version of Twitterizer.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
