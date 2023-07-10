@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Liquid Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:40:21Z</updated>
+  <updated>2023-07-10T01:39:42Z</updated>
   <subtitle>Daily Trending of Liquid in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>LiveSplit/auto-splitter-template</title>
-    <updated>2023-07-09T01:40:21Z</updated>
-    <id>tag:github.com,2023-07-09:/LiveSplit/auto-splitter-template</id>
-    <link href="https://github.com/LiveSplit/auto-splitter-template" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A template for creating an auto splitter in Rust.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

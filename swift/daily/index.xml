@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:46:59Z</updated>
+  <updated>2023-07-10T01:46:53Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>appbrewery/AutoLayout-iOS13</title>
+    <updated>2023-07-10T01:46:53Z</updated>
+    <id>tag:github.com,2023-07-10:/appbrewery/AutoLayout-iOS13</id>
+    <link href="https://github.com/appbrewery/AutoLayout-iOS13" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Learn to Code While Building Apps - The Complete iOS Development Bootcamp&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/appbrewery/AutoLayout-iOS13/master/Documentation/AppBreweryBanner.png&#34; alt=&#34;App Brewery Banner&#34;&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Auto Layout&lt;/h1&gt; &#xA;&lt;h2&gt;Our Goal&lt;/h2&gt; &#xA;&lt;p&gt;At the moment, our app only looks good on the canvas dimension that we’ve selected. If you run the app on screens with different aspect ratios or try to turn it to landscape, the designs will look broken.&lt;/p&gt; &#xA;&lt;p&gt;Auto Layout allows us to set rules as to how we want our views to be displayed. Because mobile screens have different resolutions and sizes, we need these rules to tell the iPhone/iPad how it should layout all the elements in the storyboard onto the display. These rules allow our UI elements to be resized and positioned so that no matter which screen they are displayed on, they always look as the designer intended.&lt;/p&gt; &#xA;&lt;h2&gt;What you will create&lt;/h2&gt; &#xA;&lt;p&gt;Although Dicee is already pretty dicey, we get into problems when we try to rotate the screen to landscape or if we have a screen size that is not the same as the canvas. In this module, we’ll learn how to fix this and make our apps look exactly the way we want.&lt;/p&gt; &#xA;&lt;h2&gt;What you will learn&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;How to add constraints and understanding how Auto Layout works.&lt;/li&gt; &#xA; &lt;li&gt;How to Pin and Align elements.&lt;/li&gt; &#xA; &lt;li&gt;How to create containers to configure advanced layouts.&lt;/li&gt; &#xA; &lt;li&gt;How to debug auto layout errors.&lt;/li&gt; &#xA; &lt;li&gt;Understanding what Xcode needs in order to correctly layout a design.&lt;/li&gt; &#xA; &lt;li&gt;How to use Stack Views to create complex interfaces.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;This is a companion project to The App Brewery&#39;s Complete App Development Bootcamp, check out the full course at &lt;a href=&#34;https://www.appbrewery.co/&#34;&gt;www.appbrewery.co&lt;/a&gt;&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/appbrewery/AutoLayout-iOS13/master/Documentation/readme-end-banner.png&#34; alt=&#34;End Banner&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

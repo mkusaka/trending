@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:39:34Z</updated>
+  <updated>2023-07-10T01:38:56Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shinaoka/Quantics.jl</title>
-    <updated>2023-07-09T01:39:34Z</updated>
-    <id>tag:github.com,2023-07-09:/shinaoka/Quantics.jl</id>
-    <link href="https://github.com/shinaoka/Quantics.jl" rel="alternate"></link>
+    <title>FluxML/NNlib.jl</title>
+    <updated>2023-07-10T01:38:56Z</updated>
+    <id>tag:github.com,2023-07-10:/FluxML/NNlib.jl</id>
+    <link href="https://github.com/FluxML/NNlib.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Neural Network primitives with multiple backends&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>MineralsCloud/AbInitioSoftwareBase.jl</title>
+    <updated>2023-07-10T01:38:56Z</updated>
+    <id>tag:github.com,2023-07-10:/MineralsCloud/AbInitioSoftwareBase.jl</id>
+    <link href="https://github.com/MineralsCloud/AbInitioSoftwareBase.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Provides a common API that shared by some ab initio software&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DecisionMakingAI/DecisionMakingEnvironments.jl</title>
+    <updated>2023-07-10T01:38:56Z</updated>
+    <id>tag:github.com,2023-07-10:/DecisionMakingAI/DecisionMakingEnvironments.jl</id>
+    <link href="https://github.com/DecisionMakingAI/DecisionMakingEnvironments.jl" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

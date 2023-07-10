@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:37:22Z</updated>
+  <updated>2023-07-10T01:37:17Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jgm/pandoc-types</title>
+    <updated>2023-07-10T01:37:17Z</updated>
+    <id>tag:github.com,2023-07-10:/jgm/pandoc-types</id>
+    <link href="https://github.com/jgm/pandoc-types" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;types for representing structured documents&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;pandoc-types&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/jgm/pandoc-types/actions&#34;&gt;&lt;img src=&#34;https://github.com/jgm/pandoc-types/workflows/CI%20tests/badge.svg?sanitize=true&#34; alt=&#34;CI tests&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;pandoc-types contains definitions for the Pandoc data structure, which is used by &lt;a href=&#34;http://johnmacfarlane.net/pandoc&#34;&gt;pandoc&lt;/a&gt; to represent structured documents.&lt;/p&gt;</summary>
+  </entry>
 </feed>

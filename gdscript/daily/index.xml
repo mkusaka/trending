@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:36:23Z</updated>
+  <updated>2023-07-10T01:36:05Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ShadowBlip/OpenGamepadUI</title>
-    <updated>2023-07-09T01:36:23Z</updated>
-    <id>tag:github.com,2023-07-09:/ShadowBlip/OpenGamepadUI</id>
-    <link href="https://github.com/ShadowBlip/OpenGamepadUI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Open source gamepad-native game launcher and overlay&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Zereijin/GMTK2023</title>
-    <updated>2023-07-09T01:36:23Z</updated>
-    <id>tag:github.com,2023-07-09:/Zereijin/GMTK2023</id>
-    <link href="https://github.com/Zereijin/GMTK2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Yotambu100/The-hood-Five</title>
+    <updated>2023-07-10T01:36:05Z</updated>
+    <id>tag:github.com,2023-07-10:/Yotambu100/The-hood-Five</id>
+    <link href="https://github.com/Yotambu100/The-hood-Five" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The repo for the GMTK game jam&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

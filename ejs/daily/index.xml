@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub EJS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:35:24Z</updated>
+  <updated>2023-07-10T01:34:58Z</updated>
   <subtitle>Daily Trending of EJS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>iamironman1607/Backend-Development-Workshop</title>
+    <updated>2023-07-10T01:34:58Z</updated>
+    <id>tag:github.com,2023-07-10:/iamironman1607/Backend-Development-Workshop</id>
+    <link href="https://github.com/iamironman1607/Backend-Development-Workshop" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Workshop on backend development using Node&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

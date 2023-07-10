@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:42:20Z</updated>
+  <updated>2023-07-10T01:41:55Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>akshayramani/ocaml-play</title>
-    <updated>2023-07-09T01:42:20Z</updated>
-    <id>tag:github.com,2023-07-09:/akshayramani/ocaml-play</id>
-    <link href="https://github.com/akshayramani/ocaml-play" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;oCaml playground&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ushitora-anqou/waq</title>
+    <updated>2023-07-10T01:41:55Z</updated>
+    <id>tag:github.com,2023-07-10:/ushitora-anqou/waq</id>
+    <link href="https://github.com/ushitora-anqou/waq" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Yet another ActivityPub server implementation written in OCaml&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mirage/cmdliner-stdlib</title>
+    <updated>2023-07-10T01:41:55Z</updated>
+    <id>tag:github.com,2023-07-10:/mirage/cmdliner-stdlib</id>
+    <link href="https://github.com/mirage/cmdliner-stdlib" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of Cmdliner terms to control OCaml runtime parameters&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

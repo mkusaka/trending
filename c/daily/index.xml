@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:32:49Z</updated>
+  <updated>2023-07-10T01:32:10Z</updated>
   <subtitle>Daily Trending of C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>CoretechR/OMOTE</title>
+    <updated>2023-07-10T01:32:10Z</updated>
+    <id>tag:github.com,2023-07-10:/CoretechR/OMOTE</id>
+    <link href="https://github.com/CoretechR/OMOTE" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Open Source Remote Using ESP32 and LVGL&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OMOTE - Open Universal Remote&lt;/h1&gt; &#xA;&lt;p&gt;OMOTE is an ESP32 based open source universal remote. Its capacitive 2.8” touchscreen provides an intuitive and snappy user interface for switching devices and settings. No hub or docking station is required as the remote features infrared, Wi-Fi and Bluetooth connectivity. With its well optimized power consumption, OMOTE can run for months on a charge. And since the design files are open source, you can fully customize them to your devices and needs.&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/CoretechR/OMOTE/main/P1030424_small.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/CoretechR/OMOTE/main/Menu.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

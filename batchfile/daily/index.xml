@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:32:23Z</updated>
+  <updated>2023-07-10T01:31:35Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UnLovedCookie/EchoX</title>
-    <updated>2023-07-09T01:32:23Z</updated>
-    <id>tag:github.com,2023-07-09:/UnLovedCookie/EchoX</id>
-    <link href="https://github.com/UnLovedCookie/EchoX" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A PC Optimization Utility for windows 7/8/10/11 that&#39;ll give you better performance, FPS, latency, ping and connection.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

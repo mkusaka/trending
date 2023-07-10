@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:41:49Z</updated>
+  <updated>2023-07-10T01:41:23Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Helixo32/NimBlackout</title>
+    <updated>2023-07-10T01:41:23Z</updated>
+    <id>tag:github.com,2023-07-10:/Helixo32/NimBlackout</id>
+    <link href="https://github.com/Helixo32/NimBlackout" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kill AV/EDR leveraging BYOVD attack&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

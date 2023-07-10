@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:48:29Z</updated>
+  <updated>2023-07-10T01:48:28Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>webpilot-ai/Webpilot</title>
-    <updated>2023-07-09T01:48:29Z</updated>
-    <id>tag:github.com,2023-07-09:/webpilot-ai/Webpilot</id>
-    <link href="https://github.com/webpilot-ai/Webpilot" rel="alternate"></link>
+    <title>hugoattal/milky-warp</title>
+    <updated>2023-07-10T01:48:28Z</updated>
+    <id>tag:github.com,2023-07-10:/hugoattal/milky-warp</id>
+    <link href="https://github.com/hugoattal/milky-warp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple magnifier for presentations (so that people can read the tiny texts)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CryptoBlades/cryptoblades</title>
+    <updated>2023-07-10T01:48:28Z</updated>
+    <id>tag:github.com,2023-07-10:/CryptoBlades/cryptoblades</id>
+    <link href="https://github.com/CryptoBlades/cryptoblades" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

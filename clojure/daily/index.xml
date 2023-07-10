@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-09T01:33:44Z</updated>
+  <updated>2023-07-10T01:32:52Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked</title>
-    <updated>2023-07-09T01:33:44Z</updated>
-    <id>tag:github.com,2023-07-09:/GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked</id>
-    <link href="https://github.com/GTekSD/BurpSuitePro-1.7.37-and-2022.8.5-Cracked" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Batch file to launch activated BurpSuit in Windows 10/ 11&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>weavejester/codox</title>
+    <updated>2023-07-10T01:32:52Z</updated>
+    <id>tag:github.com,2023-07-10:/weavejester/codox</id>
+    <link href="https://github.com/weavejester/codox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Clojure documentation tool&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dundalek/closh</title>
-    <updated>2023-07-09T01:33:44Z</updated>
-    <id>tag:github.com,2023-07-09:/dundalek/closh</id>
-    <link href="https://github.com/dundalek/closh" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bash-like shell based on Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gf3/CLJBIN</title>
+    <updated>2023-07-10T01:32:52Z</updated>
+    <id>tag:github.com,2023-07-10:/gf3/CLJBIN</id>
+    <link href="https://github.com/gf3/CLJBIN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure pastebin with code evaluation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
