@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:37:17Z</updated>
+  <updated>2023-07-11T01:36:42Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jgm/pandoc-types</title>
-    <updated>2023-07-10T01:37:17Z</updated>
-    <id>tag:github.com,2023-07-10:/jgm/pandoc-types</id>
-    <link href="https://github.com/jgm/pandoc-types" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;types for representing structured documents&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;pandoc-types&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/jgm/pandoc-types/actions&#34;&gt;&lt;img src=&#34;https://github.com/jgm/pandoc-types/workflows/CI%20tests/badge.svg?sanitize=true&#34; alt=&#34;CI tests&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;pandoc-types contains definitions for the Pandoc data structure, which is used by &lt;a href=&#34;http://johnmacfarlane.net/pandoc&#34;&gt;pandoc&lt;/a&gt; to represent structured documents.&lt;/p&gt;</summary>
+    <title>jgm/typst-hs</title>
+    <updated>2023-07-11T01:36:42Z</updated>
+    <id>tag:github.com,2023-07-11:/jgm/typst-hs</id>
+    <link href="https://github.com/jgm/typst-hs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Haskell library for parsing and evaluating typst&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Typst-hs&lt;/h1&gt; &#xA;&lt;p&gt;Typst-hs is a Haskell library for parsing and evaluating typst syntax. Typst (&lt;a href=&#34;https://typst.app&#34;&gt;https://typst.app&lt;/a&gt;) is a document formatting and layout language, like TeX.&lt;/p&gt; &#xA;&lt;p&gt;Currently this library targets v0.6.0 of typst, and offers only partial support. There are two main components:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;a parser, which produces an AST from a typst document&lt;/li&gt; &#xA; &lt;li&gt;an evaluator, which evaluates the typst expressions in the AST&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

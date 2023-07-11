@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:36:05Z</updated>
+  <updated>2023-07-11T01:35:37Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Yotambu100/The-hood-Five</title>
-    <updated>2023-07-10T01:36:05Z</updated>
-    <id>tag:github.com,2023-07-10:/Yotambu100/The-hood-Five</id>
-    <link href="https://github.com/Yotambu100/The-hood-Five" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The repo for the GMTK game jam&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Booklordofthedings/GMTK-2023</title>
+    <updated>2023-07-11T01:35:37Z</updated>
+    <id>tag:github.com,2023-07-11:/Booklordofthedings/GMTK-2023</id>
+    <link href="https://github.com/Booklordofthedings/GMTK-2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Joined project for the gmtk-2023 gamejam&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Praytic/youtd2</title>
+    <updated>2023-07-11T01:35:37Z</updated>
+    <id>tag:github.com,2023-07-11:/Praytic/youtd2</id>
+    <link href="https://github.com/Praytic/youtd2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A standalone sequel to the popular wc3 custom map YouTD&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

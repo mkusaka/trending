@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:46:20Z</updated>
+  <updated>2023-07-11T01:45:49Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>enzymefinance/protocol</title>
-    <updated>2023-07-10T01:46:20Z</updated>
-    <id>tag:github.com,2023-07-10:/enzymefinance/protocol</id>
-    <link href="https://github.com/enzymefinance/protocol" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enzyme Protocol Implementation&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

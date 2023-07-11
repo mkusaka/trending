@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:32:52Z</updated>
+  <updated>2023-07-11T01:32:43Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>weavejester/codox</title>
-    <updated>2023-07-10T01:32:52Z</updated>
-    <id>tag:github.com,2023-07-10:/weavejester/codox</id>
-    <link href="https://github.com/weavejester/codox" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure documentation tool&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>gf3/CLJBIN</title>
-    <updated>2023-07-10T01:32:52Z</updated>
-    <id>tag:github.com,2023-07-10:/gf3/CLJBIN</id>
-    <link href="https://github.com/gf3/CLJBIN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure pastebin with code evaluation.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ptaoussanis/encore</title>
+    <updated>2023-07-11T01:32:43Z</updated>
+    <id>tag:github.com,2023-07-11:/ptaoussanis/encore</id>
+    <link href="https://github.com/ptaoussanis/encore" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core utils library for Clojure/Script&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

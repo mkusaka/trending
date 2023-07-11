@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:39:22Z</updated>
+  <updated>2023-07-11T01:38:55Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wikimedia/apps-android-wikipedia</title>
+    <updated>2023-07-11T01:38:55Z</updated>
+    <id>tag:github.com,2023-07-11:/wikimedia/apps-android-wikipedia</id>
+    <link href="https://github.com/wikimedia/apps-android-wikipedia" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📱The official Wikipedia app for Android!&lt;/p&gt;&lt;hr&gt;&lt;h3&gt;Wikipedia Android app&lt;/h3&gt; &#xA;&lt;p&gt;This repository contains the source code for the official &lt;a href=&#34;https://play.google.com/store/apps/details?id=org.wikipedia&#34;&gt;Wikipedia Android app&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Documentation&lt;/h3&gt; &#xA;&lt;p&gt;All documentation is kept on &lt;a href=&#34;https://www.mediawiki.org/wiki/Wikimedia_Apps/Team/Android/App_hacking&#34;&gt;our wiki&lt;/a&gt;. Check it out!&lt;/p&gt; &#xA;&lt;h3&gt;Issues&lt;/h3&gt; &#xA;&lt;p&gt;Kindly file issues in &lt;a href=&#34;https://phabricator.wikimedia.org/maniphest/task/edit/form/10/?title=&amp;amp;projects=wikipedia-android-app-backlog&amp;amp;points=1&amp;amp;description=%3D%3D%3D+Steps+to+reproduce%0A%23+%0A%23+%0A%23+%0A%0A%3D%3D%3D+Expected+results%0A%0A%3D%3D%3D+Actual+results%0A%0A%3D%3D%3D+Stack%20trace%0A%60%60%60lines%3D10%0A(Optional%20logcat%20output)%0A%60%60%60%0A%0A%3D%3D%3D+Environments+observed%0A**App+version%3A+**+%0A**Android+OS+versions%3A**+%0A**Device+model%3A**+%0A**Device+language%3A**&#34;&gt;our bug tracker&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

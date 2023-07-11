@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:34:04Z</updated>
+  <updated>2023-07-11T01:33:55Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>uncleluointel/free</title>
-    <updated>2023-07-10T01:34:04Z</updated>
-    <id>tag:github.com,2023-07-10:/uncleluointel/free</id>
-    <link href="https://github.com/uncleluointel/free" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>peymanslh/python-image</title>
-    <updated>2023-07-10T01:34:04Z</updated>
-    <id>tag:github.com,2023-07-10:/peymanslh/python-image</id>
-    <link href="https://github.com/peymanslh/python-image" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Python image based on python:3.11-slim-bullseye with some extra packages.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Python image&lt;/h1&gt; &#xA;&lt;p&gt;A Python image based on &lt;code&gt;python:3.11-slim-bullseye&lt;/code&gt; with some extra packages to use &lt;code&gt;psycopg&lt;/code&gt; and &lt;code&gt;gettext&lt;/code&gt;.&lt;br&gt; Installed packages:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;gettext&lt;/li&gt; &#xA; &lt;li&gt;libgettextpo-dev&lt;/li&gt; &#xA; &lt;li&gt;libpq-dev&lt;/li&gt; &#xA; &lt;li&gt;python-dev&lt;/li&gt; &#xA; &lt;li&gt;build-essential&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;Use it in your Dockerfile:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-Dockerfile&#34;&gt;FROM peymanslh/python:latest&#xA;&#xA;# Do other stuff here&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Or, pull it from Docker Hub:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;docker pull peymanslh/python:latest&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>Jefer114430xd/User-Bot</title>
+    <updated>2023-07-11T01:33:55Z</updated>
+    <id>tag:github.com,2023-07-11:/Jefer114430xd/User-Bot</id>
+    <link href="https://github.com/Jefer114430xd/User-Bot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Paso #1 Haces Fork&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;User-Bot&lt;/h1&gt; &#xA;&lt;p&gt;Paso #1 Haces Fork Paso #2 Editas el archivo &lt;em&gt;Dockerfile&lt;/em&gt; Y le Pones tu Username Paso #3 Editas el archivo &lt;em&gt;deploy&lt;/em&gt; y Pones Tus Vars &lt;em&gt;API_ID ,Etc&lt;/em&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

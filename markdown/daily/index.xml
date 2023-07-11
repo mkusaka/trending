@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Markdown Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:40:24Z</updated>
+  <updated>2023-07-11T01:39:53Z</updated>
   <subtitle>Daily Trending of Markdown in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>eldoradoio/upptime</title>
-    <updated>2023-07-10T01:40:24Z</updated>
-    <id>tag:github.com,2023-07-10:/eldoradoio/upptime</id>
-    <link href="https://github.com/eldoradoio/upptime" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Joshua Hernandez, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>GeoportalIGM-ec/NTRIP-monitor</title>
-    <updated>2023-07-10T01:40:24Z</updated>
-    <id>tag:github.com,2023-07-10:/GeoportalIGM-ec/NTRIP-monitor</id>
-    <link href="https://github.com/GeoportalIGM-ec/NTRIP-monitor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;📈 Uptime monitor and status page for Geoportal IGM Ecuador, powered by @upptime&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

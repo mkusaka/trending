@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:48:15Z</updated>
+  <updated>2023-07-11T01:47:41Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cucapra/filament</title>
-    <updated>2023-07-10T01:48:15Z</updated>
-    <id>tag:github.com,2023-07-10:/cucapra/filament</id>
-    <link href="https://github.com/cucapra/filament" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fearless hardware design&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>WangXuan95/FPGA-USB-Device</title>
+    <updated>2023-07-11T01:47:41Z</updated>
+    <id>tag:github.com,2023-07-11:/WangXuan95/FPGA-USB-Device</id>
+    <link href="https://github.com/WangXuan95/FPGA-USB-Device" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An FPGA-based USB full-speed device core to implement USB-serial, USB-camera, USB-audio, USB-hid, etc. It requires only 3 FPGA common IOs rather than additional chips. 基于FPGA的USB full-speed device端控制器，可实现USB串口、USB摄像头、USB音频、U盘、USB键盘等设备，只需要3个FPGA普通IO，而不需要额外的接口芯片。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

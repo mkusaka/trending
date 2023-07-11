@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:45:34Z</updated>
+  <updated>2023-07-11T01:45:13Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Saltssaumure/synthesis-discord-theme</title>
-    <updated>2023-07-10T01:45:34Z</updated>
-    <id>tag:github.com,2023-07-10:/Saltssaumure/synthesis-discord-theme</id>
-    <link href="https://github.com/Saltssaumure/synthesis-discord-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A vibrant neon synthwave Discord theme.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

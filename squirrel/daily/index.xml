@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Squirrel Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:46:29Z</updated>
+  <updated>2023-07-11T01:45:57Z</updated>
   <subtitle>Daily Trending of Squirrel in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>shabbywu/Battle-Brothers-CN</title>
-    <updated>2023-07-10T01:46:29Z</updated>
-    <id>tag:github.com,2023-07-10:/shabbywu/Battle-Brothers-CN</id>
-    <link href="https://github.com/shabbywu/Battle-Brothers-CN" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Battle Brothers(战场兄弟)中文翻译项目&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

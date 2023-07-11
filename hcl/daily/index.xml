@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:37:13Z</updated>
+  <updated>2023-07-11T01:36:42Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cbc02009/k8s-home-ops</title>
-    <updated>2023-07-10T01:37:13Z</updated>
-    <id>tag:github.com,2023-07-10:/cbc02009/k8s-home-ops</id>
-    <link href="https://github.com/cbc02009/k8s-home-ops" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform-azure-container-apps</title>
+    <updated>2023-07-11T01:36:42Z</updated>
+    <id>tag:github.com,2023-07-11:/Azure/terraform-azure-container-apps</id>
+    <link href="https://github.com/Azure/terraform-azure-container-apps" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Terraform module to deploy a container app in Azure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ranjit4github/aws_3tier_architecture_terraform</title>
-    <updated>2023-07-10T01:37:13Z</updated>
-    <id>tag:github.com,2023-07-10:/ranjit4github/aws_3tier_architecture_terraform</id>
-    <link href="https://github.com/ranjit4github/aws_3tier_architecture_terraform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;VPC 3tier Architecture using Terraform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Azure/terraform-azurerm-database</title>
+    <updated>2023-07-11T01:36:42Z</updated>
+    <id>tag:github.com,2023-07-11:/Azure/terraform-azurerm-database</id>
+    <link href="https://github.com/Azure/terraform-azurerm-database" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Terraform Azure RM Module for Database&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

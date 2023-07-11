@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-10T01:46:43Z</updated>
+  <updated>2023-07-11T01:46:13Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>yuedanlabs/icp-query-extension</title>
-    <updated>2023-07-10T01:46:43Z</updated>
-    <id>tag:github.com,2023-07-10:/yuedanlabs/icp-query-extension</id>
-    <link href="https://github.com/yuedanlabs/icp-query-extension" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Browser Extension for ICP Query&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Nico-Mayer/json-bucket</title>
+    <updated>2023-07-11T01:46:13Z</updated>
+    <id>tag:github.com,2023-07-11:/Nico-Mayer/json-bucket</id>
+    <link href="https://github.com/Nico-Mayer/json-bucket" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Effortlessly store your JSON data and seamlessly access it anywhere through generated API routes.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>profiteriteam/platforma-ciorogarla</title>
+    <updated>2023-07-11T01:46:13Z</updated>
+    <id>tag:github.com,2023-07-11:/profiteriteam/platforma-ciorogarla</id>
+    <link href="https://github.com/profiteriteam/platforma-ciorogarla" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aplicatia cross-platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
