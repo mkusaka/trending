@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-11T01:34:41Z</updated>
+  <updated>2023-07-12T01:35:13Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lambdaclass/starknet_stack_explorer</title>
-    <updated>2023-07-11T01:34:41Z</updated>
-    <id>tag:github.com,2023-07-11:/lambdaclass/starknet_stack_explorer</id>
-    <link href="https://github.com/lambdaclass/starknet_stack_explorer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Starknet Explorer&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ecsx-framework/ECSx</title>
-    <updated>2023-07-11T01:34:41Z</updated>
-    <id>tag:github.com,2023-07-11:/ecsx-framework/ECSx</id>
-    <link href="https://github.com/ecsx-framework/ECSx" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Entity-Component-System framework for Elixir&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>logicboard/logicboard</title>
-    <updated>2023-07-11T01:34:41Z</updated>
-    <id>tag:github.com,2023-07-11:/logicboard/logicboard</id>
-    <link href="https://github.com/logicboard/logicboard" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

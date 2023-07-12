@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-11T01:30:06Z</updated>
+  <updated>2023-07-12T01:30:23Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>m1guelpf/threads-re</title>
-    <updated>2023-07-11T01:30:06Z</updated>
-    <id>tag:github.com,2023-07-11:/m1guelpf/threads-re</id>
-    <link href="https://github.com/m1guelpf/threads-re" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Reverse-engineering Instagram&#39;s Threads private APIs.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CVEProject/cvelistV5</title>
+    <updated>2023-07-12T01:30:23Z</updated>
+    <id>tag:github.com,2023-07-12:/CVEProject/cvelistV5</id>
+    <link href="https://github.com/CVEProject/cvelistV5" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVE cache of the official CVE List in CVE JSON 5.0 format&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CyberSecurityUP/OSCE3-Complete-Guide</title>
-    <updated>2023-07-11T01:30:06Z</updated>
-    <id>tag:github.com,2023-07-11:/CyberSecurityUP/OSCE3-Complete-Guide</id>
-    <link href="https://github.com/CyberSecurityUP/OSCE3-Complete-Guide" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OSWE, OSEP, OSED, OSEE&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mattcorey/indie-dev-sales</title>
+    <updated>2023-07-12T01:30:23Z</updated>
+    <id>tag:github.com,2023-07-12:/mattcorey/indie-dev-sales</id>
+    <link href="https://github.com/mattcorey/indie-dev-sales" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;List of Indie Dev Sales Events&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>iam-veeramalla/Docker-Zero-to-Hero</title>
-    <updated>2023-07-11T01:30:06Z</updated>
-    <id>tag:github.com,2023-07-11:/iam-veeramalla/Docker-Zero-to-Hero</id>
-    <link href="https://github.com/iam-veeramalla/Docker-Zero-to-Hero" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo to learn Docker with examples. Contributions are most welcome.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>imhq/rust-interview-handbook</title>
+    <updated>2023-07-12T01:30:23Z</updated>
+    <id>tag:github.com,2023-07-12:/imhq/rust-interview-handbook</id>
+    <link href="https://github.com/imhq/rust-interview-handbook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Rust interview preparation materials for busy software engineers. Submit a PR if you know of any other Rust interview questions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

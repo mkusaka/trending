@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-11T01:39:57Z</updated>
+  <updated>2023-07-12T01:40:34Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>earjcr1/AHB_GPS</title>
-    <updated>2023-07-11T01:39:57Z</updated>
-    <id>tag:github.com,2023-07-11:/earjcr1/AHB_GPS</id>
-    <link href="https://github.com/earjcr1/AHB_GPS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Compiled GNSS velocities for the Alpine-Himalayan Belt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iqiukp/ZoomPlot-MATLAB</title>
+    <updated>2023-07-12T01:40:34Z</updated>
+    <id>tag:github.com,2023-07-12:/iqiukp/ZoomPlot-MATLAB</id>
+    <link href="https://github.com/iqiukp/ZoomPlot-MATLAB" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MATLAB Code for Interactive Magnification of Customized Regions.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

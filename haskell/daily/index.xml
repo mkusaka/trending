@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-11T01:36:42Z</updated>
+  <updated>2023-07-12T01:37:21Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>jgm/typst-hs</title>
-    <updated>2023-07-11T01:36:42Z</updated>
-    <id>tag:github.com,2023-07-11:/jgm/typst-hs</id>
-    <link href="https://github.com/jgm/typst-hs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Haskell library for parsing and evaluating typst&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Typst-hs&lt;/h1&gt; &#xA;&lt;p&gt;Typst-hs is a Haskell library for parsing and evaluating typst syntax. Typst (&lt;a href=&#34;https://typst.app&#34;&gt;https://typst.app&lt;/a&gt;) is a document formatting and layout language, like TeX.&lt;/p&gt; &#xA;&lt;p&gt;Currently this library targets v0.6.0 of typst, and offers only partial support. There are two main components:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;a parser, which produces an AST from a typst document&lt;/li&gt; &#xA; &lt;li&gt;an evaluator, which evaluates the typst expressions in the AST&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>matthunz/hoot</title>
+    <updated>2023-07-12T01:37:21Z</updated>
+    <id>tag:github.com,2023-07-12:/matthunz/hoot</id>
+    <link href="https://github.com/matthunz/hoot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opinionated package manager for haskell (WIP)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Hoot&lt;/h1&gt; &#xA;&lt;p&gt;Opinionated haskell package builder (based on cabal)&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;WIP: Only &lt;code&gt;hoot add&lt;/code&gt; package resolution works so far&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Create a new project&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;hoot new hello&#xA;&#xA;cd hello&#xA;hoot run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Add dependencies&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;hoot add QuickCheck&#xA;# Added QuickCheck v2.14.3&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Package manifest&lt;/h3&gt; &#xA;&lt;p&gt;Package manifests are stored in &lt;code&gt;Hoot.toml&lt;/code&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[package]&#xA;name = &#34;example&#34;&#xA;&#xA;[dependencies]&#xA;quickcheck = &#34;v2.14.3&#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>A1kmm/fay-ref</title>
+    <updated>2023-07-12T01:37:21Z</updated>
+    <id>tag:github.com,2023-07-12:/A1kmm/fay-ref</id>
+    <link href="https://github.com/A1kmm/fay-ref" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Like IORef but for Fay&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fay Ref&lt;/h1&gt; &#xA;&lt;p&gt;This package works like Data.IORef, but in the Fay monad. It allows you to create mutable variables and update them from within Fay.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;main :: Fay ()&#xA;main = do&#xA;  fr &amp;lt;- newFayRef (10 :: Int)&#xA;  readFayRef fr -- Should give 10.&#xA;  writeFayRef fr 20&#xA;  readFayRef fr -- Should give 20.&#xA;  modifyFayRef fr (*2)&#xA;  readFayRef fr -- Should give 40.&#xA;  -- The above was non-strict; here is the strict variant.&#xA;  modifyFayRef&#39; fr (*2)&#xA;  readFayRef fr -- Should give 80.&#xA;  return ()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;To use this with fay, cabal install the package which will put the source files in fay ~/.cabal/share/fay-ref-0.1.0.0/src. You can then compile with fay using&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;fay --package fay-ref MyFile.hs&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

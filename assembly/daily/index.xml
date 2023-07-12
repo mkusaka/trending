@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-11T01:31:08Z</updated>
+  <updated>2023-07-12T01:31:17Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>marcpaq/arpilisp</title>
-    <updated>2023-07-11T01:31:08Z</updated>
-    <id>tag:github.com,2023-07-11:/marcpaq/arpilisp</id>
-    <link href="https://github.com/marcpaq/arpilisp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Lisp interpreter for Raspberry Pi implemented in a single ARM assembly file&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>OLIMEX/Neo6502</title>
-    <updated>2023-07-11T01:31:08Z</updated>
-    <id>tag:github.com,2023-07-11:/OLIMEX/Neo6502</id>
-    <link href="https://github.com/OLIMEX/Neo6502" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Neo6502 Modern Retro Computer with W65C02S processor and RP2040 memory and peripherals emulator&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
