@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-12T01:31:30Z</updated>
+  <updated>2023-07-13T01:32:20Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>FarelE/RDP-By-A.Farel.E</title>
-    <updated>2023-07-12T01:31:30Z</updated>
-    <id>tag:github.com,2023-07-12:/FarelE/RDP-By-A.Farel.E</id>
-    <link href="https://github.com/FarelE/RDP-By-A.Farel.E" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>iazibenBachir/rar-password-unlocker</title>
-    <updated>2023-07-12T01:31:30Z</updated>
-    <id>tag:github.com,2023-07-12:/iazibenBachir/rar-password-unlocker</id>
-    <link href="https://github.com/iazibenBachir/rar-password-unlocker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;rar password unlocker for pc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ryanrudolfoba/SteamDeck-Windows-WiFi-Fix</title>
+    <updated>2023-07-13T01:32:20Z</updated>
+    <id>tag:github.com,2023-07-13:/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix</id>
+    <link href="https://github.com/ryanrudolfoba/SteamDeck-Windows-WiFi-Fix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains the instructions on how to fix the WiFi issue for Steam Deck running Windows.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-12T01:46:36Z</updated>
+  <updated>2023-07-13T01:48:01Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SkyCenterCO/DEX-Triangular-Arbitrage-Solidity-Smart-Contract</title>
-    <updated>2023-07-12T01:46:36Z</updated>
-    <id>tag:github.com,2023-07-12:/SkyCenterCO/DEX-Triangular-Arbitrage-Solidity-Smart-Contract</id>
-    <link href="https://github.com/SkyCenterCO/DEX-Triangular-Arbitrage-Solidity-Smart-Contract" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Step up your trading prowess with this groundbreaking solidity smart contract engineered for Triangular Arbitrage on DEX&#39;s. With open-source accessibility and profitable potential, it&#39;s time to embark on your journey to the next level. Start today!&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Philogy/sstore3</title>
-    <updated>2023-07-12T01:46:36Z</updated>
-    <id>tag:github.com,2023-07-12:/Philogy/sstore3</id>
-    <link href="https://github.com/Philogy/sstore3" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>recmo/evm-groth16</title>
-    <updated>2023-07-12T01:46:36Z</updated>
-    <id>tag:github.com,2023-07-12:/recmo/evm-groth16</id>
-    <link href="https://github.com/recmo/evm-groth16" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Groth16 verifier in EVM&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>crytic/diffusc</title>
+    <updated>2023-07-13T01:48:01Z</updated>
+    <id>tag:github.com,2023-07-13:/crytic/diffusc</id>
+    <link href="https://github.com/crytic/diffusc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Experimental tool to ease the review of smart contracts upgrades&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

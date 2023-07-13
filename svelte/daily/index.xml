@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-12T01:46:59Z</updated>
+  <updated>2023-07-13T01:48:23Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>UrbanInstitute/mapping-neighborhoods-highest-risk-housing-instability-and-homelessness</title>
-    <updated>2023-07-12T01:46:59Z</updated>
-    <id>tag:github.com,2023-07-12:/UrbanInstitute/mapping-neighborhoods-highest-risk-housing-instability-and-homelessness</id>
-    <link href="https://github.com/UrbanInstitute/mapping-neighborhoods-highest-risk-housing-instability-and-homelessness" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Front-end code for Emergency Rental Assistance Priority Index July 2023 update (ERAP 2.0)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>a-nguyen-kangan/coffeeOrder</title>
+    <updated>2023-07-13T01:48:23Z</updated>
+    <id>tag:github.com,2023-07-13:/a-nguyen-kangan/coffeeOrder</id>
+    <link href="https://github.com/a-nguyen-kangan/coffeeOrder" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

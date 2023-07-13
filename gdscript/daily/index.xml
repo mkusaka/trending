@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-12T01:36:03Z</updated>
+  <updated>2023-07-13T01:37:10Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>TheDuckCow/godot-road-generator</title>
+    <updated>2023-07-13T01:37:10Z</updated>
+    <id>tag:github.com,2023-07-13:/TheDuckCow/godot-road-generator</id>
+    <link href="https://github.com/TheDuckCow/godot-road-generator" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A godot plugin for creating 3D highways and streets.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Loregret/script-panel-plus</title>
+    <updated>2023-07-13T01:37:10Z</updated>
+    <id>tag:github.com,2023-07-13:/Loregret/script-panel-plus</id>
+    <link href="https://github.com/Loregret/script-panel-plus" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Script Panel Plus is a replacement plugin for a built-in Godot&#39;s scripting panel. It has more features and makes script-organizing a better experience.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tesseralis/furry-blackjack</title>
+    <updated>2023-07-13T01:37:10Z</updated>
+    <id>tag:github.com,2023-07-13:/tesseralis/furry-blackjack</id>
+    <link href="https://github.com/tesseralis/furry-blackjack" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bobcats and Blackjack.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

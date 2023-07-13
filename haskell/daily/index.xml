@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-12T01:37:21Z</updated>
+  <updated>2023-07-13T01:38:28Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>matthunz/hoot</title>
-    <updated>2023-07-12T01:37:21Z</updated>
-    <id>tag:github.com,2023-07-12:/matthunz/hoot</id>
-    <link href="https://github.com/matthunz/hoot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Opinionated package manager for haskell (WIP)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Hoot&lt;/h1&gt; &#xA;&lt;p&gt;Opinionated haskell package builder (based on cabal)&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;WIP: Only &lt;code&gt;hoot add&lt;/code&gt; package resolution works so far&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h3&gt;Create a new project&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;hoot new hello&#xA;&#xA;cd hello&#xA;hoot run&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Add dependencies&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-sh&#34;&gt;hoot add QuickCheck&#xA;# Added QuickCheck v2.14.3&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h3&gt;Package manifest&lt;/h3&gt; &#xA;&lt;p&gt;Package manifests are stored in &lt;code&gt;Hoot.toml&lt;/code&gt;&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-toml&#34;&gt;[package]&#xA;name = &#34;example&#34;&#xA;&#xA;[dependencies]&#xA;quickcheck = &#34;v2.14.3&#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>dmjio/99Haskell</title>
+    <updated>2023-07-13T01:38:28Z</updated>
+    <id>tag:github.com,2023-07-13:/dmjio/99Haskell</id>
+    <link href="https://github.com/dmjio/99Haskell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My attempt at solving the 99 prolog problems in Haskell&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;99 Haskell Problems (but haskell ain&#39;t one)&lt;/h1&gt; &#xA;&lt;h2&gt;Still a WIP&lt;/h2&gt; &#xA;&lt;h3&gt;But here&#39;s what I&#39;ve got so far...&lt;/h3&gt;</summary>
   </entry>
   <entry>
-    <title>A1kmm/fay-ref</title>
-    <updated>2023-07-12T01:37:21Z</updated>
-    <id>tag:github.com,2023-07-12:/A1kmm/fay-ref</id>
-    <link href="https://github.com/A1kmm/fay-ref" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Like IORef but for Fay&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Fay Ref&lt;/h1&gt; &#xA;&lt;p&gt;This package works like Data.IORef, but in the Fay monad. It allows you to create mutable variables and update them from within Fay.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;main :: Fay ()&#xA;main = do&#xA;  fr &amp;lt;- newFayRef (10 :: Int)&#xA;  readFayRef fr -- Should give 10.&#xA;  writeFayRef fr 20&#xA;  readFayRef fr -- Should give 20.&#xA;  modifyFayRef fr (*2)&#xA;  readFayRef fr -- Should give 40.&#xA;  -- The above was non-strict; here is the strict variant.&#xA;  modifyFayRef&#39; fr (*2)&#xA;  readFayRef fr -- Should give 80.&#xA;  return ()&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;To use this with fay, cabal install the package which will put the source files in fay ~/.cabal/share/fay-ref-0.1.0.0/src. You can then compile with fay using&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;fay --package fay-ref MyFile.hs&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>oleks/alp-f13</title>
+    <updated>2023-07-13T01:38:28Z</updated>
+    <id>tag:github.com,2023-07-13:/oleks/alp-f13</id>
+    <link href="https://github.com/oleks/alp-f13" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tlevine/plots</title>
+    <updated>2023-07-13T01:38:28Z</updated>
+    <id>tag:github.com,2023-07-13:/tlevine/plots</id>
+    <link href="https://github.com/tlevine/plots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Plots for your shell&lt;/h1&gt; &#xA;&lt;h2&gt;Histograms&lt;/h2&gt; &#xA;&lt;p&gt;Plot a histogram given a file or stdin.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;USAGE: hist [breaks] [file]&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Plot a histogram.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ echo 1.3 1.2 3.4 4 2.8 3 6.2 | hist 2&#xA;&#xA;4   *&#xA;3   *&#xA;2 * *&#xA;1 * * *&#xA;  2 4 6&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;If you don&#39;t specify the breaks, we use my tick algorithm to choose about eight ticks. It would look like this, except this isn&#39;t the actual algorithm output.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;$ echo 1.3 1.2 3.4 4 2.8 3 6.2 | hist&#xA;&#xA;4     *&#xA;3     *&#xA;2 *   *&#xA;1 *   * *   *&#xA;  1 2 3 4 5 6&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Bar plot&lt;/h2&gt; &#xA;&lt;p&gt;Given a factor variable, plot a bar plot&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;USAGE: bar [file]&#xA;&#xA;$ echo duck duck goose | bar&#xA;&#xA;2 -----&#xA;1 ----- -----&#xA;  duck  goose&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
   </entry>
 </feed>

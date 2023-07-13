@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-12T01:39:12Z</updated>
+  <updated>2023-07-13T01:40:18Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>SWMFsoftware/SWMFSOLAR</title>
-    <updated>2023-07-12T01:39:12Z</updated>
-    <id>tag:github.com,2023-07-12:/SWMFsoftware/SWMFSOLAR</id>
-    <link href="https://github.com/SWMFsoftware/SWMFSOLAR" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SWMF input &amp; output files and scripts, for solar applications&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

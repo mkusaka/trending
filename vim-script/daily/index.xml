@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-12T01:48:28Z</updated>
+  <updated>2023-07-13T01:49:47Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>vim-scripts/Word-Fuzzy-Completion</title>
-    <updated>2023-07-12T01:48:28Z</updated>
-    <id>tag:github.com,2023-07-12:/vim-scripts/Word-Fuzzy-Completion</id>
-    <link href="https://github.com/vim-scripts/Word-Fuzzy-Completion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A word fuzzy completion plugin for vim.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>vim-scripts/Unicode-RST-Tables</title>
-    <updated>2023-07-12T01:48:28Z</updated>
-    <id>tag:github.com,2023-07-12:/vim-scripts/Unicode-RST-Tables</id>
-    <link href="https://github.com/vim-scripts/Unicode-RST-Tables" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Allows to create and edit restructuredText tables easily (Unicode and Python 3).&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
