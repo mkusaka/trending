@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-13T01:41:45Z</updated>
+  <updated>2023-07-14T01:40:26Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Mehdi-H/WeeklyCuration</title>
+    <updated>2023-07-14T01:40:26Z</updated>
+    <id>tag:github.com,2023-07-14:/Mehdi-H/WeeklyCuration</id>
+    <link href="https://github.com/Mehdi-H/WeeklyCuration" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Interesting links I saw, every week&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sylefeb/a5k</title>
+    <updated>2023-07-14T01:40:26Z</updated>
+    <id>tag:github.com,2023-07-14:/sylefeb/a5k</id>
+    <link href="https://github.com/sylefeb/a5k" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Another World on a chip&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

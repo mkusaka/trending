@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-13T01:48:52Z</updated>
+  <updated>2023-07-14T01:48:03Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>asaenz16/PANEM2023</title>
+    <updated>2023-07-14T01:48:03Z</updated>
+    <id>tag:github.com,2023-07-14:/asaenz16/PANEM2023</id>
+    <link href="https://github.com/asaenz16/PANEM2023" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A repository dedicated to the “Probability and Algebra: New Expressions in Mathematics” concentration week hosted at Texas A&amp;M in the Summer of 2023&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PANEM2023&lt;/h1&gt; &#xA;&lt;p&gt;A repository dedicated to the “Probability and Algebra: New Expressions in Mathematics” (PANEM) concentration week hosted at Texas A&amp;amp;M in the Summer of 2023. &lt;a href=&#34;https://www.math.tamu.edu/conferences/functional_analysis/PANEM.html&#34;&gt;Click here for the website.&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;The intention of this repository is to house files and content from the PANEM concentrations week in a dynamic and centralized manner that is widely accessible.&lt;/p&gt; &#xA;&lt;p&gt;Spekaers at the concentration week are encouraged to upload their material to this repository. Moreover, if tex files are uploaded, anyone has an option to suggest edits to the files. For instance, if someone finds a typo in one of the files, they may go ahead an edit this file to crrect the typo. The edit will only be accepted by one of the administrators of this repository.&lt;/p&gt; &#xA;&lt;p&gt;We will also hold a couple of open problem sessions and we encourage participants to upload their open problems to the folder called &#34;Open Problems&#34;; see the folder for further instructions. We hope that this will facilitate connections between participants that will lead to fruitful collaborations.&lt;/p&gt; &#xA;&lt;p&gt;If you have any questions, please reach out to one of the organizers&lt;/p&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;Jeffrey Kuan, jkuan(at)math.tamu.edu &lt;br&gt; Axel Saenz Rodriguez, &lt;a href=&#34;mailto:saenzroa@oregonstate.edu&#34;&gt;saenzroa@oregonstate.edu&lt;/a&gt; &lt;br&gt; Daniel Perales Anaya, daniel_dot_perales_at_tamu_dot_edu&lt;/p&gt; &#xA;&lt;/blockquote&gt;</summary>
+  </entry>
 </feed>
