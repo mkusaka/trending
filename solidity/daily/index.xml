@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:47:07Z</updated>
+  <updated>2023-07-15T01:45:35Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>code-423n4/2023-07-axelar</title>
-    <updated>2023-07-14T01:47:07Z</updated>
-    <id>tag:github.com,2023-07-14:/code-423n4/2023-07-axelar</id>
-    <link href="https://github.com/code-423n4/2023-07-axelar" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/globals-v2</title>
-    <updated>2023-07-14T01:47:07Z</updated>
-    <id>tag:github.com,2023-07-14:/maple-labs/globals-v2</id>
-    <link href="https://github.com/maple-labs/globals-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Repo for MapleGlobals V2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>maple-labs/mpl-migration</title>
-    <updated>2023-07-14T01:47:07Z</updated>
-    <id>tag:github.com,2023-07-14:/maple-labs/mpl-migration</id>
-    <link href="https://github.com/maple-labs/mpl-migration" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>affitrum/AFFITRUM</title>
+    <updated>2023-07-15T01:45:35Z</updated>
+    <id>tag:github.com,2023-07-15:/affitrum/AFFITRUM</id>
+    <link href="https://github.com/affitrum/AFFITRUM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Affitrum - Worlds first visit to earn decentralized network&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

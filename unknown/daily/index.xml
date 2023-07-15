@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:30:42Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-07-15T01:30:11Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>SkalskiP/awesome-chatgpt-code-interpreter-experiments</title>
-    <updated>2023-07-14T01:30:42Z</updated>
-    <id>tag:github.com,2023-07-14:/SkalskiP/awesome-chatgpt-code-interpreter-experiments</id>
-    <link href="https://github.com/SkalskiP/awesome-chatgpt-code-interpreter-experiments" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Awesome things you can do with ChatGPT + Code Interpreter combo 🔥&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stkeky/best-of-scala</title>
+    <updated>2023-07-15T01:30:11Z</updated>
+    <id>tag:github.com,2023-07-15:/stkeky/best-of-scala</id>
+    <link href="https://github.com/stkeky/best-of-scala" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏆 A ranked list of awesome Scala libraries. Updated weekly.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>blackav/smart-home-binary</title>
-    <updated>2023-07-14T01:30:42Z</updated>
-    <id>tag:github.com,2023-07-14:/blackav/smart-home-binary</id>
-    <link href="https://github.com/blackav/smart-home-binary" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Smart-home problem demo server binary releases&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jhaddix/tbhm</title>
+    <updated>2023-07-15T01:30:11Z</updated>
+    <id>tag:github.com,2023-07-15:/jhaddix/tbhm</id>
+    <link href="https://github.com/jhaddix/tbhm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The Bug Hunters Methodology&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

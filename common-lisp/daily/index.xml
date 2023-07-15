@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:33:43Z</updated>
+  <updated>2023-07-15T01:32:46Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>technoblogy/lisp-arm-assembler</title>
-    <updated>2023-07-14T01:33:43Z</updated>
-    <id>tag:github.com,2023-07-14:/technoblogy/lisp-arm-assembler</id>
-    <link href="https://github.com/technoblogy/lisp-arm-assembler" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An ARM Thumb assembler written in Lisp.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;An ARM Assembler written in Lisp&lt;/h1&gt; &#xA;&lt;p&gt;This is an ARM Thumb assembler written in Lisp.&lt;/p&gt; &#xA;&lt;p&gt;The version &lt;strong&gt;ARM Assembler.lisp&lt;/strong&gt; will run under my uLisp interpreter for microcontroller boards, to allow you to generate machine-code functions that can be run from Lisp. For more information see &lt;a href=&#34;http://www.ulisp.com/show?2YRU&#34;&gt;http://www.ulisp.com/show?2YRU&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The version &lt;strong&gt;ARM Assembler CL.lisp&lt;/strong&gt; can be run under Common Lisp and includes a &lt;strong&gt;defcode&lt;/strong&gt; macro to assemble ARM functions and print the resulting machine code.&lt;/p&gt; &#xA;&lt;p&gt;For information about how the assembler works see: &lt;a href=&#34;http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237&#34;&gt;http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;For a list of the ARM Thumb instructions supported by the assembler see: &lt;a href=&#34;http://www.ulisp.com/show?30B8&#34;&gt;http://www.ulisp.com/show?30B8&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;For ARM assembler examples see: &lt;a href=&#34;http://www.ulisp.com/show?30BD&#34;&gt;http://www.ulisp.com/show?30BD&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>nklein/kata</title>
+    <updated>2023-07-15T01:32:46Z</updated>
+    <id>tag:github.com,2023-07-15:/nklein/kata</id>
+    <link href="https://github.com/nklein/kata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code Kata&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

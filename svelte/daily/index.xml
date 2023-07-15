@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:47:30Z</updated>
+  <updated>2023-07-15T01:45:58Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>braden-w/whispering</title>
+    <updated>2023-07-15T01:45:58Z</updated>
+    <id>tag:github.com,2023-07-15:/braden-w/whispering</id>
+    <link href="https://github.com/braden-w/whispering" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>howesteve/elegua</title>
+    <updated>2023-07-15T01:45:58Z</updated>
+    <id>tag:github.com,2023-07-15:/howesteve/elegua</id>
+    <link href="https://github.com/howesteve/elegua" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elegua - a small, reactive PWA router for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sap1ens/heimdall</title>
+    <updated>2023-07-15T01:45:58Z</updated>
+    <id>tag:github.com,2023-07-15:/sap1ens/heimdall</id>
+    <link href="https://github.com/sap1ens/heimdall" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

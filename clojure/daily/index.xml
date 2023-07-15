@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:33:25Z</updated>
+  <updated>2023-07-15T01:32:30Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>JohnMcCall/4409-Clojure-ProblemSet2</title>
-    <updated>2023-07-14T01:33:25Z</updated>
-    <id>tag:github.com,2023-07-14:/JohnMcCall/4409-Clojure-ProblemSet2</id>
-    <link href="https://github.com/JohnMcCall/4409-Clojure-ProblemSet2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Clojure Problem Set 2 for Parallel Architectures&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fbmnds/karnaugh</title>
+    <updated>2023-07-15T01:32:30Z</updated>
+    <id>tag:github.com,2023-07-15:/fbmnds/karnaugh</id>
+    <link href="https://github.com/fbmnds/karnaugh" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;4clojure #140&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>sunng87/hbs</title>
-    <updated>2023-07-14T01:33:25Z</updated>
-    <id>tag:github.com,2023-07-14:/sunng87/hbs</id>
-    <link href="https://github.com/sunng87/hbs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;clojure templating by handlebars.java&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>phronmophobic/clj-libretro</title>
+    <updated>2023-07-15T01:32:30Z</updated>
+    <id>tag:github.com,2023-07-15:/phronmophobic/clj-libretro</id>
+    <link href="https://github.com/phronmophobic/clj-libretro" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

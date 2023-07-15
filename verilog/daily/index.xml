@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:48:55Z</updated>
+  <updated>2023-07-15T01:47:15Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>linuxbest/lzs</title>
-    <updated>2023-07-14T01:48:55Z</updated>
-    <id>tag:github.com,2023-07-14:/linuxbest/lzs</id>
-    <link href="https://github.com/linuxbest/lzs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;an open source lzs hardware &amp; software&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>T-head-Semi/openc906</title>
-    <updated>2023-07-14T01:48:55Z</updated>
-    <id>tag:github.com,2023-07-14:/T-head-Semi/openc906</id>
-    <link href="https://github.com/T-head-Semi/openc906" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenXuantie - OpenC906 Core&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>T-head-Semi/opene902</title>
-    <updated>2023-07-14T01:48:55Z</updated>
-    <id>tag:github.com,2023-07-14:/T-head-Semi/opene902</id>
-    <link href="https://github.com/T-head-Semi/opene902" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenXuantie - OpenE902 Core&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gtjennings1/HyperBUS</title>
+    <updated>2023-07-15T01:47:15Z</updated>
+    <id>tag:github.com,2023-07-15:/gtjennings1/HyperBUS</id>
+    <link href="https://github.com/gtjennings1/HyperBUS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A basic HyperRAM controller for Lattice iCE40 Ultraplus FPGAs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

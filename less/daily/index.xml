@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Less Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:39:49Z</updated>
+  <updated>2023-07-15T01:38:48Z</updated>
   <subtitle>Daily Trending of Less in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lzxb/flex.css</title>
-    <updated>2023-07-14T01:39:49Z</updated>
-    <id>tag:github.com,2023-07-14:/lzxb/flex.css</id>
-    <link href="https://github.com/lzxb/flex.css" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;flex.css is declarative layout which is compatible with wechat, UC, webview and other main-stream mobile browser and surpports react, vue, angular.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

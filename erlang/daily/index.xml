@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:35:34Z</updated>
+  <updated>2023-07-15T01:35:01Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hairyhum/pg_rec</title>
-    <updated>2023-07-14T01:35:34Z</updated>
-    <id>tag:github.com,2023-07-14:/hairyhum/pg_rec</id>
-    <link href="https://github.com/hairyhum/pg_rec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple record-based Erlang interface to Postgresql database&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>seletskiy/r2sstat</title>
+    <updated>2023-07-15T01:35:01Z</updated>
+    <id>tag:github.com,2023-07-15:/seletskiy/r2sstat</id>
+    <link href="https://github.com/seletskiy/r2sstat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;R2S UMB tool for reading sensor data and displaying it like iostat&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

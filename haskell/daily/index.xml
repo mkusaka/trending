@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:37:07Z</updated>
+  <updated>2023-07-15T01:36:30Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>alexmingoia/twain</title>
-    <updated>2023-07-14T01:37:07Z</updated>
-    <id>tag:github.com,2023-07-14:/alexmingoia/twain</id>
-    <link href="https://github.com/alexmingoia/twain" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tiny web application framework for WAI.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Twain&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://hackage.haskell.org/package/twain&#34;&gt;&lt;img src=&#34;https://img.shields.io/hackage/v/twain.svg?style=flat&#34; alt=&#34;Hackage&#34;&gt;&lt;/a&gt; &lt;img src=&#34;http://img.shields.io/badge/license-BSD3-brightgreen.svg?sanitize=true&#34; alt=&#34;BSD3 License&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;Twain is a tiny web application framework for &lt;a href=&#34;http://hackage.haskell.org/package/wai&#34;&gt;WAI&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;ResponderM&lt;/code&gt; for composing responses with do notation.&lt;/li&gt; &#xA; &lt;li&gt;Routing with path captures that decompose &lt;code&gt;ResponderM&lt;/code&gt; into middleware.&lt;/li&gt; &#xA; &lt;li&gt;Parameter parsing from cookies, path, query, and body.&lt;/li&gt; &#xA; &lt;li&gt;Helpers for redirects, headers, status codes, and errors.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-haskell&#34;&gt;{-# language OverloadedStrings #-}&#xA;&#xA;import Network.Wai.Handler.Warp (run)&#xA;import Web.Twain&#xA;&#xA;main :: IO ()&#xA;main = do&#xA;  run 8080 $&#xA;    foldr ($) (notFound missing) routes&#xA;&#xA;routes :: [Middleware]&#xA;routes =&#xA;  [ get &#34;/&#34; index&#xA;  , post &#34;/echo/:name&#34; echoName&#xA;  ]&#xA;&#xA;index :: ResponderM a&#xA;index = send $ html &#34;Hello World!&#34;&#xA;&#xA;echoName :: ResponderM a&#xA;echoName = do&#xA;  name &amp;lt;- param &#34;name&#34;&#xA;  send $ html $ &#34;Hello, &#34; &amp;lt;&amp;gt; name&#xA;&#xA;missing :: ResponderM a&#xA;missing = send $ html &#34;Not found...&#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
-  <entry>
-    <title>zmoazeni/karkeze</title>
-    <updated>2023-07-14T01:37:07Z</updated>
-    <id>tag:github.com,2023-07-14:/zmoazeni/karkeze</id>
-    <link href="https://github.com/zmoazeni/karkeze" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Experimenting with Haskell and Full Text Search&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Karkeze is a project for me to experiment and learn both haskell and full text search.&lt;/p&gt; &#xA;&lt;p&gt;You&#39;ll need to install ghc and cabal, then install dependencies:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;rake install_deps&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;TODO:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;✔ Limit search by field name&lt;/li&gt; &#xA; &lt;li&gt;✔ Delete Action&lt;/li&gt; &#xA; &lt;li&gt;✔ Safer CTRL-c quiting with thread&lt;/li&gt; &#xA; &lt;li&gt;✔ Update Action&lt;/li&gt; &#xA; &lt;li&gt;More advanced field querying (e.g. field=value) Maybe additional AND query1&lt;/li&gt; &#xA; &lt;li&gt;Limit search by collection (gmail tag-like&lt;/li&gt; &#xA; &lt;li&gt;Parse query string&lt;/li&gt; &#xA; &lt;li&gt;Score results&lt;/li&gt; &#xA; &lt;li&gt;Removing stop words&lt;/li&gt; &#xA; &lt;li&gt;Stemming&lt;/li&gt; &#xA; &lt;li&gt;Document parsing? e.g. accepting .pdf files&lt;/li&gt; &#xA; &lt;li&gt;Partial update? (PATCH)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>rnons/yist</title>
+    <updated>2023-07-15T01:36:30Z</updated>
+    <id>tag:github.com,2023-07-15:/rnons/yist</id>
+    <link href="https://github.com/rnons/yist" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

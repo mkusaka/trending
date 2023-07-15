@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:36:03Z</updated>
+  <updated>2023-07-15T01:35:32Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gdquest-demos/godot-4-VFX-assets</title>
-    <updated>2023-07-14T01:36:03Z</updated>
-    <id>tag:github.com,2023-07-14:/gdquest-demos/godot-4-VFX-assets</id>
-    <link href="https://github.com/gdquest-demos/godot-4-VFX-assets" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Collection of free and open-source Godot 4 VFX assets. Includes particle examples, shaders, and more.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

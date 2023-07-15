@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Java Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:38:07Z</updated>
+  <updated>2023-07-15T01:37:25Z</updated>
   <subtitle>Daily Trending of Java in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>docker-java/docker-java</title>
+    <updated>2023-07-15T01:37:25Z</updated>
+    <id>tag:github.com,2023-07-15:/docker-java/docker-java</id>
+    <link href="https://github.com/docker-java/docker-java" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Java Docker API Client&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;a href=&#34;https://gitter.im/docker-java/docker-java?utm_source=badge&amp;amp;utm_medium=badge&amp;amp;utm_campaign=pr-badge&amp;amp;utm_content=badge&#34;&gt;&lt;img src=&#34;https://badges.gitter.im/docker-java/docker-java.svg?sanitize=true&#34; alt=&#34;Join the chat at https://gitter.im/docker-java/docker-java&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://mvnrepository.com/artifact/com.github.docker-java/docker-java&#34;&gt;&lt;img src=&#34;https://img.shields.io/maven-central/v/com.github.docker-java/docker-java.svg?sanitize=true&#34; alt=&#34;Maven Central&#34;&gt;&lt;/a&gt; &lt;a href=&#34;http://codecov.io/github/docker-java/docker-java?branch=master&#34;&gt;&lt;img src=&#34;http://codecov.io/github/docker-java/docker-java/coverage.svg?branch=main&#34; alt=&#34;codecov.io&#34;&gt;&lt;/a&gt; &lt;a href=&#34;https://github.com/docker-java/docker-java/raw/main/LICENSE&#34;&gt;&lt;img src=&#34;http://img.shields.io/:license-apache-blue.svg?style=flat&#34; alt=&#34;License&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;docker-java&lt;/h1&gt; &#xA;&lt;p&gt;Java API client for &lt;a href=&#34;http://docs.docker.io/&#34; title=&#34;Docker&#34;&gt;Docker&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://raw.githubusercontent.com/docker-java/docker-java/main/docs/README.md&#34;&gt;Read the documentation here&lt;/a&gt;&lt;/h1&gt;</summary>
+  </entry>
 </feed>

@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:42:40Z</updated>
+  <updated>2023-07-15T01:41:30Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gaijin03/vdiffer</title>
+    <updated>2023-07-15T01:41:30Z</updated>
+    <id>tag:github.com,2023-07-15:/gaijin03/vdiffer</id>
+    <link href="https://github.com/gaijin03/vdiffer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Diff tool that uses [g]vimdiff to changes in subversion and mercurial.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;vdiffer&lt;/h1&gt; &#xA;&lt;p&gt;Diff tool that uses [g]vimdiff to changes in subversion and mercurial.&lt;/p&gt; &#xA;&lt;p&gt;Usage: Either put vdiffer in your path or call it directly. Run the script from the base of the subversion or mercurial repository.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>madsen/webservice-google-voice-sendsms</title>
+    <updated>2023-07-15T01:41:30Z</updated>
+    <id>tag:github.com,2023-07-15:/madsen/webservice-google-voice-sendsms</id>
+    <link href="https://github.com/madsen/webservice-google-voice-sendsms" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Perl module that allows you to send SMS messages using your Google Voice account.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;WebService-Google-Voice-SendSMS&lt;/h1&gt; &#xA;&lt;p&gt;WebService-Google-Voice-SendSMS is a Perl module that allows you to send SMS messages using your &lt;a href=&#34;https://www.google.com/voice&#34;&gt;Google Voice&lt;/a&gt; account. It&#39;s based on the &lt;a href=&#34;http://code.google.com/p/phpgooglevoice/&#34;&gt;phpgooglevoice&lt;/a&gt; class by &lt;a href=&#34;http://www.lostleon.com/&#34;&gt;LostLeon&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This is a Git repository where development of WebService-Google-Voice-SendSMS takes place. For more information, visit &lt;a href=&#34;http://search.cpan.org/dist/WebService-Google-Voice-SendSMS/&#34;&gt;WebService-Google-Voice-SendSMS on CPAN&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Copyright and License&lt;/h1&gt; &#xA;&lt;p&gt;This software is copyright (c) 2013 by Christopher J. Madsen.&lt;/p&gt; &#xA;&lt;p&gt;This is free software; you can redistribute it and/or modify it under the same terms as the Perl 5 programming language system itself.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>acceso/s2</title>
+    <updated>2023-07-15T01:41:30Z</updated>
+    <id>tag:github.com,2023-07-15:/acceso/s2</id>
+    <link href="https://github.com/acceso/s2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Host connection script (old perl code)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Poor&#39;s man configuration management.&lt;/h1&gt; &#xA;&lt;p&gt;This software is a wrapper around ssh.&lt;/p&gt; &#xA;&lt;h2&gt;Things it does:&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Connects to machines.&lt;/li&gt; &#xA; &lt;li&gt;Resolves hostnames (right domain or hostname).&lt;/li&gt; &#xA; &lt;li&gt;Does authentication (right user, password or ssh key).&lt;/li&gt; &#xA; &lt;li&gt;Inserts commands into your bash history / bash profile.&lt;/li&gt; &#xA; &lt;li&gt;Future connections use the same SSH master process.&lt;/li&gt; &#xA; &lt;li&gt;(optionally) Execute a script on the host.&lt;/li&gt; &#xA; &lt;li&gt;(optionally) Loops over each matching host.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Requirements&lt;/h2&gt; &#xA;&lt;p&gt;Perl modules you&#39;ll need:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Net::OpenSSH&lt;/li&gt; &#xA; &lt;li&gt;Expect (if using su)&lt;/li&gt; &#xA; &lt;li&gt;List::MoreUtils&lt;/li&gt; &#xA; &lt;li&gt;Net::Server::Multiplex&lt;/li&gt; &#xA; &lt;li&gt;IO::Stty&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Sample config&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;GLOBAL,prefix,.domain.lan,0,myuser,environment&#xA;&#xA;web01&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;This roughly translates to:&lt;/p&gt; &#xA;&lt;p&gt;ssh &lt;a href=&#34;mailto:myuser@prefixweb01.domain.lan&#34;&gt;myuser@prefixweb01.domain.lan&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;You need to set up an ssh key or password to log in as &#34;myuser&#34;.&lt;/p&gt; &#xA;&lt;p&gt;If &#34;myuser&#34; is not root, the script uses the configured command (&#34;su_command&#34; by default) and the configured class (Supass by default) to get root.&lt;/p&gt; &#xA;&lt;p&gt;The sample backend just returns a string but you can write a more complex one.&lt;/p&gt; &#xA;&lt;h2&gt;Multiple hosts&lt;/h2&gt; &#xA;&lt;p&gt;If you want to connect to several hosts consecutively you can use:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./s &#39;/^serv/&#39; host123&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;And the script will loop over serv1, serv2, ..., and host123.&lt;/p&gt; &#xA;&lt;h2&gt;Scripts&lt;/h2&gt; &#xA;&lt;p&gt;You can also write a script, place it under &#34;scripts/&#34; (&#34;scripts_dir&#34;), and run it on several hosts.&lt;/p&gt; &#xA;&lt;p&gt;This command just list the hosts:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./s -n -s script1 &#39;/^host\d+/&#39;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;When sure you can do:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;./s -s script1 &#39;/^host\d+/&#39;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
 </feed>

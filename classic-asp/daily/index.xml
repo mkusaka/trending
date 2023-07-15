@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-14T01:33:18Z</updated>
+  <updated>2023-07-15T01:32:24Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mpatrawala/wipetears</title>
+    <updated>2023-07-15T01:32:24Z</updated>
+    <id>tag:github.com,2023-07-15:/mpatrawala/wipetears</id>
+    <link href="https://github.com/mpatrawala/wipetears" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ngo&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>RupW/CORSdemo</title>
+    <updated>2023-07-15T01:32:24Z</updated>
+    <id>tag:github.com,2023-07-15:/RupW/CORSdemo</id>
+    <link href="https://github.com/RupW/CORSdemo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A quick demo of Same Origin Policy, JSONP and CORS from my whiteboard session - to be tidied up!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kadengubler/Repository</title>
+    <updated>2023-07-15T01:32:24Z</updated>
+    <id>tag:github.com,2023-07-15:/kadengubler/Repository</id>
+    <link href="https://github.com/kadengubler/Repository" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
