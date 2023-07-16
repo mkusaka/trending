@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:47:28Z</updated>
+  <updated>2023-07-16T01:48:47Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>shakiroye/tgTech-communities</title>
-    <updated>2023-07-15T01:47:28Z</updated>
-    <id>tag:github.com,2023-07-15:/shakiroye/tgTech-communities</id>
-    <link href="https://github.com/shakiroye/tgTech-communities" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Togo Tech Communities is a dynamic and inclusive project aimed at showcasing the vibrant and emerging tech communities in Togo. It seeks to provide a platform that celebrates the diverse range of talents, innovations, and collaborative efforts within the country&#39;s technology sector.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fangkuai341/bilibili_Manzhan_tickets</title>
+    <updated>2023-07-16T01:48:47Z</updated>
+    <id>tag:github.com,2023-07-16:/fangkuai341/bilibili_Manzhan_tickets</id>
+    <link href="https://github.com/fangkuai341/bilibili_Manzhan_tickets" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;1.这个B站会员购的漫展抢票代码（cp,bw等）bw票现在多了个验证码的操作现在的解决方法就是手动解决了。2.不经常看lssues,具体可加群：852267862。3.本代码只是交流和学习使用，一切后果由使用者承担。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xiwh/hexhub</title>
+    <updated>2023-07-16T01:48:47Z</updated>
+    <id>tag:github.com,2023-07-16:/xiwh/hexhub</id>
+    <link href="https://github.com/xiwh/hexhub" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hexhub 是一款开源的SSH、SFTP、数据库管理客户端，数据库管理模块目前还在开发之中&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

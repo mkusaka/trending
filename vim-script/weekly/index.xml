@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Vim Script Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-16T02:06:43Z</updated>
+  <subtitle>Weekly Trending of Vim Script in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>tmux-plugins/vim-tmux-focus-events</title>
+    <updated>2023-07-16T02:06:43Z</updated>
+    <id>tag:github.com,2023-07-16:/tmux-plugins/vim-tmux-focus-events</id>
+    <link href="https://github.com/tmux-plugins/vim-tmux-focus-events" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Make terminal vim and tmux work better together.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>jremmen/vim-ripgrep</title>
+    <updated>2023-07-16T02:06:43Z</updated>
+    <id>tag:github.com,2023-07-16:/jremmen/vim-ripgrep</id>
+    <link href="https://github.com/jremmen/vim-ripgrep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use RipGrep in Vim and display results in a quickfix list&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>mzlogin/vim-markdown-toc</title>
+    <updated>2023-07-16T02:06:43Z</updated>
+    <id>tag:github.com,2023-07-16:/mzlogin/vim-markdown-toc</id>
+    <link href="https://github.com/mzlogin/vim-markdown-toc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vim 7.4+ plugin to generate table of contents for Markdown files.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

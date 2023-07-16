@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Unknown languages Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-16T01:49:41Z</updated>
+  <subtitle>Weekly Trending of Unknown languages in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dttung2905/kafka-in-production</title>
+    <updated>2023-07-16T01:49:41Z</updated>
+    <id>tag:github.com,2023-07-16:/dttung2905/kafka-in-production</id>
+    <link href="https://github.com/dttung2905/kafka-in-production" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;📚 Tech blogs &amp; talks by companies that run Kafka in production&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yanue/V2rayU</title>
+    <updated>2023-07-16T01:49:41Z</updated>
+    <id>tag:github.com,2023-07-16:/yanue/V2rayU</id>
+    <link href="https://github.com/yanue/V2rayU" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>lrh2000/StackRot</title>
+    <updated>2023-07-16T01:49:41Z</updated>
+    <id>tag:github.com,2023-07-16:/lrh2000/StackRot</id>
+    <link href="https://github.com/lrh2000/StackRot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;CVE-2023-3269: Linux kernel privilege escalation vulnerability&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

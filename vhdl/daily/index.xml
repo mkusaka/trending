@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub VHDL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:47:13Z</updated>
+  <updated>2023-07-16T01:48:33Z</updated>
   <subtitle>Daily Trending of VHDL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lawliet89/DSDCourseWork</title>
-    <updated>2023-07-15T01:47:13Z</updated>
-    <id>tag:github.com,2023-07-15:/lawliet89/DSDCourseWork</id>
-    <link href="https://github.com/lawliet89/DSDCourseWork" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;DSD Coursework. Not for public consumption&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

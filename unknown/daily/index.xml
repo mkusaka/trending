@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:30:11Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-07-16T01:30:36Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>stkeky/best-of-scala</title>
-    <updated>2023-07-15T01:30:11Z</updated>
-    <id>tag:github.com,2023-07-15:/stkeky/best-of-scala</id>
-    <link href="https://github.com/stkeky/best-of-scala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🏆 A ranked list of awesome Scala libraries. Updated weekly.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>easychen/one-person-businesses-methodology</title>
+    <updated>2023-07-16T01:30:36Z</updated>
+    <id>tag:github.com,2023-07-16:/easychen/one-person-businesses-methodology</id>
+    <link href="https://github.com/easychen/one-person-businesses-methodology" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;一人公司方法论&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jhaddix/tbhm</title>
-    <updated>2023-07-15T01:30:11Z</updated>
-    <id>tag:github.com,2023-07-15:/jhaddix/tbhm</id>
-    <link href="https://github.com/jhaddix/tbhm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The Bug Hunters Methodology&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>datawhalechina/pumpkin-book</title>
+    <updated>2023-07-16T01:30:36Z</updated>
+    <id>tag:github.com,2023-07-16:/datawhalechina/pumpkin-book</id>
+    <link href="https://github.com/datawhalechina/pumpkin-book" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;《机器学习》（西瓜书）公式详解&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>filipecalegario/awesome-generative-ai</title>
+    <updated>2023-07-16T01:30:36Z</updated>
+    <id>tag:github.com,2023-07-16:/filipecalegario/awesome-generative-ai</id>
+    <link href="https://github.com/filipecalegario/awesome-generative-ai" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of Generative AI tools, works, models, and references&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

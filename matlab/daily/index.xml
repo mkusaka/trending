@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:39:32Z</updated>
+  <updated>2023-07-16T01:40:30Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hongyusu/mmcrfmissing_scripts</title>
-    <updated>2023-07-15T01:39:32Z</updated>
-    <id>tag:github.com,2023-07-15:/hongyusu/mmcrfmissing_scripts</id>
-    <link href="https://github.com/hongyusu/mmcrfmissing_scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ivanalberico/Robot-Dynamics-ETH</title>
+    <updated>2023-07-16T01:40:30Z</updated>
+    <id>tag:github.com,2023-07-16:/ivanalberico/Robot-Dynamics-ETH</id>
+    <link href="https://github.com/ivanalberico/Robot-Dynamics-ETH" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Weekly MATLAB exercises of the course &#34;Robot Dynamics&#34;, ETH Zürich (Fall 2020).&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>asiviero/evolution_strategy</title>
-    <updated>2023-07-15T01:39:32Z</updated>
-    <id>tag:github.com,2023-07-15:/asiviero/evolution_strategy</id>
-    <link href="https://github.com/asiviero/evolution_strategy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>star2dust/paper-simulation</title>
+    <updated>2023-07-16T01:40:30Z</updated>
+    <id>tag:github.com,2023-07-16:/star2dust/paper-simulation</id>
+    <link href="https://github.com/star2dust/paper-simulation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Let&#39;s reproduce paper simulations of multi-robot systems, formation control, distributed optimization and cooperative manipulation.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

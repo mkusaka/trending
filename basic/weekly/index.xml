@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub BASIC Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-16T01:50:43Z</updated>
+  <subtitle>Weekly Trending of BASIC in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dakk/qc64</title>
+    <updated>2023-07-16T01:50:43Z</updated>
+    <id>tag:github.com,2023-07-16:/dakk/qc64</id>
+    <link href="https://github.com/dakk/qc64" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Quantum Computing on the Commodore64&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

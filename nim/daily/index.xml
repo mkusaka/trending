@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nim Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:40:22Z</updated>
+  <updated>2023-07-16T01:41:23Z</updated>
   <subtitle>Daily Trending of Nim in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>PhilippMDoerner/TinyPool</title>
-    <updated>2023-07-15T01:40:22Z</updated>
-    <id>tag:github.com,2023-07-15:/PhilippMDoerner/TinyPool</id>
-    <link href="https://github.com/PhilippMDoerner/TinyPool" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A minimalistic database connection pool for sqlite/postgres/mysql&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>heysokam/ngltf</title>
+    <updated>2023-07-16T01:41:23Z</updated>
+    <id>tag:github.com,2023-07-16:/heysokam/ngltf</id>
+    <link href="https://github.com/heysokam/ngltf" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pure Nim glTF™ Reader&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

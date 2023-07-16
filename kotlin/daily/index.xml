@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Kotlin Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:38:30Z</updated>
+  <updated>2023-07-16T01:39:22Z</updated>
   <subtitle>Daily Trending of Kotlin in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>philipplackner/ContactsComposeMultiplatform</title>
-    <updated>2023-07-15T01:38:30Z</updated>
-    <id>tag:github.com,2023-07-15:/philipplackner/ContactsComposeMultiplatform</id>
-    <link href="https://github.com/philipplackner/ContactsComposeMultiplatform" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>xiaowine/Lyric-Getter</title>
-    <updated>2023-07-15T01:38:30Z</updated>
-    <id>tag:github.com,2023-07-15:/xiaowine/Lyric-Getter</id>
-    <link href="https://github.com/xiaowine/Lyric-Getter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;img src=&#34;https://img.shields.io/github/downloads/xiaowine/Lyric-Getter/total?style=flat-square&#34; alt=&#34;Release Download&#34;&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/xiaowine/Lyric-Getterreleases/latest&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/v/release/xiaowine/Lyric-Getter?style=flat-square&#34; alt=&#34;Release Version&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://raw.githubusercontent.com/xiaowine/Lyric-Getter/master/LICENSE&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/license/xiaowine/Lyric-Getter?style=flat-square&#34; alt=&#34;GitHub license&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/xiaowine/Lyric-Getter/stargazers&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/stars/xiaowine/Lyric-Getter?style=flat-square&#34; alt=&#34;GitHub Star&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/xiaowine/Lyric-Getter/network/members&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/forks/xiaowine/Lyric-Getter?style=flat-square&#34; alt=&#34;GitHub Fork&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;img src=&#34;https://img.shields.io/github/repo-size/xiaowine/Lyric-Getter?style=flat-square&amp;amp;color=3cb371&#34; alt=&#34;GitHub Repo size&#34;&gt;&lt;br&gt; &lt;a href=&#34;https://github.com/xiaowine/Lyric-Getter/search?l=koltin&#34;&gt;&lt;img src=&#34;https://img.shields.io/github/languages/top/xiaowine/Lyric-Getter?style=flat-square&#34; alt=&#34;GitHub Repo Languages&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://actions-badge.atrox.dev/xiaowine/Lyric-Getter/goto?ref=main&#34;&gt;&lt;img src=&#34;https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2F577fkj%2FStatusBarLyric%2Fbadge%3Fref%3Dmain&amp;amp;style=flat&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;br&gt; &lt;img src=&#34;https://img.shields.io/github/stars/xiaowine/Lyric-Getter.svg?style=social&#34; alt=&#34;GitHub Star&#34;&gt;&lt;/p&gt; &#xA;&lt;p&gt;#这是什么东西？&lt;/p&gt; &#xA;&lt;h4&gt;这是一个Xposed模块（现支持LSPosed\LSPatch），通过Hook获取音乐软件的歌词，提供给其他模块\软件使用&lt;/h4&gt; &#xA;&lt;blockquote&gt; &#xA; &lt;p&gt;支持软件&lt;/p&gt; &#xA;&lt;/blockquote&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;网易云音乐（需8.0.40以上开启状态栏歌词，其余开启车载歌词）&lt;/li&gt; &#xA; &lt;li&gt;酷狗音乐（需开启车载歌词）&lt;/li&gt; &#xA; &lt;li&gt;酷狗音乐概念版（需开启车载歌词）&lt;/li&gt; &#xA; &lt;li&gt;酷我音乐（需开启车载歌词）&lt;/li&gt; &#xA; &lt;li&gt;QQ音乐（需开启状态栏歌词）&lt;/li&gt; &#xA; &lt;li&gt;洛雪音乐（需开启桌面歌词）&lt;/li&gt; &#xA; &lt;li&gt;小米音乐（需开启车载歌词）&lt;/li&gt; &#xA; &lt;li&gt;魅族音乐（需开启车载歌词）&lt;/li&gt; &#xA; &lt;li&gt;咪咕音乐（需开启状态栏歌词）&lt;/li&gt; &#xA; &lt;li&gt;RPlayer（需开启车载歌词）&lt;/li&gt; &#xA; &lt;li&gt;APlayer（需开启状态栏歌词）&lt;/li&gt; &#xA; &lt;li&gt;汽水音乐（需佩戴耳机）（需开启车载歌词）&lt;br&gt; &lt;code&gt;使用API的音乐软件不在README中，并且可能不在模块作用域中，具体需要开启哪些功能请自行测试&lt;/code&gt;&lt;br&gt; 截至 1.0.0.2 版本&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Star History&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://star-history.com/#xiaowine/Lyric-Getter&amp;amp;Timeline&#34;&gt;&lt;img src=&#34;https://api.star-history.com/svg?repos=xiaowine/Lyric-Getter&amp;amp;type=Timeline&#34; alt=&#34;Star History Chart&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>ReVanced/revanced-patches</title>
+    <updated>2023-07-16T01:39:22Z</updated>
+    <id>tag:github.com,2023-07-16:/ReVanced/revanced-patches</id>
+    <link href="https://github.com/ReVanced/revanced-patches" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🧩 Patches for ReVanced&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;🧩 ReVanced Patches&lt;/h2&gt; &#xA;&lt;p&gt;Patches for ReVanced.&lt;/p&gt;</summary>
   </entry>
 </feed>

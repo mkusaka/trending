@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Roff Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-16T02:03:15Z</updated>
+  <subtitle>Weekly Trending of Roff in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Anyyy111/killEscaper</title>
+    <updated>2023-07-16T02:03:15Z</updated>
+    <id>tag:github.com,2023-07-16:/Anyyy111/killEscaper</id>
+    <link href="https://github.com/Anyyy111/killEscaper" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Shellcode 免杀生成器 绕过火绒、360（Windows版本）&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Lucas-C/pre-commit-hooks-nodejs</title>
+    <updated>2023-07-16T02:03:15Z</updated>
+    <id>tag:github.com,2023-07-16:/Lucas-C/pre-commit-hooks-nodejs</id>
+    <link href="https://github.com/Lucas-C/pre-commit-hooks-nodejs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Useful pre-commit hooks based on NodeJS scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

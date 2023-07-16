@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:34:42Z</updated>
+  <updated>2023-07-16T01:35:23Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hkoba/mindots</title>
-    <updated>2023-07-15T01:34:42Z</updated>
-    <id>tag:github.com,2023-07-15:/hkoba/mindots</id>
-    <link href="https://github.com/hkoba/mindots" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My minimum dot files. Mainly for Zsh.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>toponado-zz/emacs</title>
-    <updated>2023-07-15T01:34:42Z</updated>
-    <id>tag:github.com,2023-07-15:/toponado-zz/emacs</id>
-    <link href="https://github.com/toponado-zz/emacs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;emacs&lt;/h1&gt;</summary>
+    <title>zk-phi/dotfiles</title>
+    <updated>2023-07-16T01:35:23Z</updated>
+    <id>tag:github.com,2023-07-16:/zk-phi/dotfiles</id>
+    <link href="https://github.com/zk-phi/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;zk-phi&#39;s Dotfiles&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Setup (Mac)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Open Terminal.app.&lt;/p&gt; &#xA;&lt;p&gt;Install Xcode CLI tool.&lt;/p&gt; &#xA;&lt;p&gt;: xcode-select --install&lt;/p&gt; &#xA;&lt;p&gt;Install homebrew (look the official page) and follow the instruction to add to PATH.&lt;/p&gt; &#xA;&lt;p&gt;Clone this repo and submodules&lt;/p&gt; &#xA;&lt;p&gt;: git clone &lt;a href=&#34;https://github.com/zk-phi/dotfiles.git&#34;&gt;https://github.com/zk-phi/dotfiles.git&lt;/a&gt; : cd dotfiles : git submodule update --init&lt;/p&gt; &#xA;&lt;p&gt;Install must-haves via =Brewfile=.&lt;/p&gt; &#xA;&lt;p&gt;: cd brew : brew bundle&lt;/p&gt; &#xA;&lt;p&gt;Some packages may fail on Mac M1 machines. Try installing with =arch -arm64= that case.&lt;/p&gt; &#xA;&lt;p&gt;: arch -arm64 brew install &#xA; &lt;package&gt;&lt;/package&gt;&lt;/p&gt; &#xA;&lt;p&gt;Install runtimes with asdf.&lt;/p&gt; &#xA;&lt;p&gt;: cd asdf : sh setup.sh&lt;/p&gt; &#xA;&lt;p&gt;Change login shell (if it&#39;s not zsh yet)&lt;/p&gt; &#xA;&lt;p&gt;: sudo vim /etc/shells # Add /usr/local/bin/zsh : chsh -s /usr/local/bin/zsh&lt;/p&gt; &#xA;&lt;p&gt;(See also &lt;a href=&#34;https://scrapbox.io/zkphi/Mac_PC_%E7%A7%BB%E8%A1%8C&#34;&gt;https://scrapbox.io/zkphi/Mac_PC_%E7%A7%BB%E8%A1%8C&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;p&gt;Build and install required fonts&lt;/p&gt; &#xA;&lt;p&gt;→ &lt;a href=&#34;https://github.com/zk-phi/nasia&#34;&gt;https://github.com/zk-phi/nasia&lt;/a&gt;&lt;/p&gt;</summary>
   </entry>
 </feed>

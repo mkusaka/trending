@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:44:40Z</updated>
+  <updated>2023-07-16T01:45:52Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Riddim-GLiTCH/Virtual-Boy</title>
+    <updated>2023-07-16T01:45:52Z</updated>
+    <id>tag:github.com,2023-07-16:/Riddim-GLiTCH/Virtual-Boy</id>
+    <link href="https://github.com/Riddim-GLiTCH/Virtual-Boy" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Virtual Boy is a Discord theme based on the failed console with the same name that was made by nintendo. By default, it features a black and red color scheme. But the colors may be altered to fit the users personal desires!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

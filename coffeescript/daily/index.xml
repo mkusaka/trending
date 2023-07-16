@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:32:41Z</updated>
+  <updated>2023-07-16T01:33:18Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>chustar/fashun</title>
-    <updated>2023-07-15T01:32:41Z</updated>
-    <id>tag:github.com,2023-07-15:/chustar/fashun</id>
-    <link href="https://github.com/chustar/fashun" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fashun site!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aduth/api.libroipsum.com</title>
+    <updated>2023-07-16T01:33:18Z</updated>
+    <id>tag:github.com,2023-07-16:/aduth/api.libroipsum.com</id>
+    <link href="https://github.com/aduth/api.libroipsum.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;API endpoint for LibroIpsum phrase generation&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>wulftone/coffeescript-server-example</title>
-    <updated>2023-07-15T01:32:41Z</updated>
-    <id>tag:github.com,2023-07-15:/wulftone/coffeescript-server-example</id>
-    <link href="https://github.com/wulftone/coffeescript-server-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Super basic coffeescript/nodejs server that serves up a file&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>asonas/jq-defferred-then</title>
-    <updated>2023-07-15T01:32:41Z</updated>
-    <id>tag:github.com,2023-07-15:/asonas/jq-defferred-then</id>
-    <link href="https://github.com/asonas/jq-defferred-then" rel="alternate"></link>
+    <title>epicagency/kineograph</title>
+    <updated>2023-07-16T01:33:18Z</updated>
+    <id>tag:github.com,2023-07-16:/epicagency/kineograph</id>
+    <link href="https://github.com/epicagency/kineograph" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

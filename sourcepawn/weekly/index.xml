@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SourcePawn Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-16T02:04:46Z</updated>
+  <subtitle>Weekly Trending of SourcePawn in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fbef0102/Game-Private_Plugin</title>
+    <updated>2023-07-16T02:04:46Z</updated>
+    <id>tag:github.com,2023-07-16:/fbef0102/Game-Private_Plugin</id>
+    <link href="https://github.com/fbef0102/Game-Private_Plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;私人插件列表 (收費) - Private Plugin List&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fbef0102/L4D1_2-Plugins</title>
+    <updated>2023-07-16T02:04:46Z</updated>
+    <id>tag:github.com,2023-07-16:/fbef0102/L4D1_2-Plugins</id>
+    <link href="https://github.com/fbef0102/L4D1_2-Plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;L4D1/2 help server to record, make server more fun, and more useful plugins for adm.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fbef0102/L4D2-Plugins</title>
+    <updated>2023-07-16T02:04:46Z</updated>
+    <id>tag:github.com,2023-07-16:/fbef0102/L4D2-Plugins</id>
+    <link href="https://github.com/fbef0102/L4D2-Plugins" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;L4D2 Competitive enhancement, bug/glitch fixes, general purpose and freaky-fun plugins.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

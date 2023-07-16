@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:47:15Z</updated>
+  <updated>2023-07-16T01:48:35Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>gtjennings1/HyperBUS</title>
-    <updated>2023-07-15T01:47:15Z</updated>
-    <id>tag:github.com,2023-07-15:/gtjennings1/HyperBUS</id>
-    <link href="https://github.com/gtjennings1/HyperBUS" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A basic HyperRAM controller for Lattice iCE40 Ultraplus FPGAs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

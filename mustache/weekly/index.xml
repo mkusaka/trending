@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Mustache Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-16T01:59:40Z</updated>
+  <subtitle>Weekly Trending of Mustache in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>haproxytech/helm-charts</title>
+    <updated>2023-07-16T01:59:40Z</updated>
+    <id>tag:github.com,2023-07-16:/haproxytech/helm-charts</id>
+    <link href="https://github.com/haproxytech/helm-charts" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Helm chart for HAProxy Kubernetes Ingress Controller&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>danth/stylix</title>
+    <updated>2023-07-16T01:59:40Z</updated>
+    <id>tag:github.com,2023-07-16:/danth/stylix</id>
+    <link href="https://github.com/danth/stylix" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;System-wide colorscheming and typography for NixOS&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

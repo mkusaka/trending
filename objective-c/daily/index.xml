@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:40:43Z</updated>
+  <updated>2023-07-16T01:41:46Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>BandarHL/BHTikTok</title>
-    <updated>2023-07-15T01:40:43Z</updated>
-    <id>tag:github.com,2023-07-15:/BandarHL/BHTikTok</id>
-    <link href="https://github.com/BandarHL/BHTikTok" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome tweak for TikTok!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BHTikTok&lt;/h1&gt; &#xA;&lt;p&gt;An awesome tweak for TikTok!&lt;/p&gt; &#xA;&lt;h1&gt;Features&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;No Ads&lt;/li&gt; &#xA; &lt;li&gt;Download Videos&lt;/li&gt; &#xA; &lt;li&gt;Download Musics&lt;/li&gt; &#xA; &lt;li&gt;Show/Hide UI button&lt;/li&gt; &#xA; &lt;li&gt;Copy video decription&lt;/li&gt; &#xA; &lt;li&gt;Copy video link&lt;/li&gt; &#xA; &lt;li&gt;Copy Music link&lt;/li&gt; &#xA; &lt;li&gt;Auto Play Next Video&lt;/li&gt; &#xA; &lt;li&gt;Show progress bar&lt;/li&gt; &#xA; &lt;li&gt;Confirm like&lt;/li&gt; &#xA; &lt;li&gt;Confirm comment like&lt;/li&gt; &#xA; &lt;li&gt;Confirm comment dislike&lt;/li&gt; &#xA; &lt;li&gt;Confirm follow&lt;/li&gt; &#xA; &lt;li&gt;Save profile image&lt;/li&gt; &#xA; &lt;li&gt;Copy profile information&lt;/li&gt; &#xA; &lt;li&gt;Extend bio&lt;/li&gt; &#xA; &lt;li&gt;Extend comment&lt;/li&gt; &#xA; &lt;li&gt;Always open in Safari&lt;/li&gt; &#xA; &lt;li&gt;Changing region&lt;/li&gt; &#xA; &lt;li&gt;Fake verify blue mark&lt;/li&gt; &#xA; &lt;li&gt;Fake Follower count&lt;/li&gt; &#xA; &lt;li&gt;Fake Following count&lt;/li&gt; &#xA; &lt;li&gt;Padlock&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;TODO&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Add Localization for the tweak.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
-  <entry>
-    <title>BandarHL/BHInstagram</title>
-    <updated>2023-07-15T01:40:43Z</updated>
-    <id>tag:github.com,2023-07-15:/BandarHL/BHInstagram</id>
-    <link href="https://github.com/BandarHL/BHInstagram" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome tweak for Instagram!&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;BHInstagram&lt;/h1&gt; &#xA;&lt;p&gt;An awesome tweak for Instagram!&lt;/p&gt; &#xA;&lt;h1&gt;Features&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Hide Ads&lt;/li&gt; &#xA; &lt;li&gt;No suggested post&lt;/li&gt; &#xA; &lt;li&gt;Show Like count&lt;/li&gt; &#xA; &lt;li&gt;Confirm like&lt;/li&gt; &#xA; &lt;li&gt;Copy description&lt;/li&gt; &#xA; &lt;li&gt;Download Videos&lt;/li&gt; &#xA; &lt;li&gt;Save profile image&lt;/li&gt; &#xA; &lt;li&gt;Keep deleted message&lt;/li&gt; &#xA; &lt;li&gt;Remove last seen&lt;/li&gt; &#xA; &lt;li&gt;Remove screenshot alert&lt;/li&gt; &#xA; &lt;li&gt;Unlimited replay of once story&lt;/li&gt; &#xA; &lt;li&gt;Disable Story Seen Receipt&lt;/li&gt; &#xA; &lt;li&gt;Padlock&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;TODO&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled&gt; Add Localization for the tweak.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

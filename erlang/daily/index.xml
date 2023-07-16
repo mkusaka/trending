@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:35:01Z</updated>
+  <updated>2023-07-16T01:35:37Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>seletskiy/r2sstat</title>
-    <updated>2023-07-15T01:35:01Z</updated>
-    <id>tag:github.com,2023-07-15:/seletskiy/r2sstat</id>
-    <link href="https://github.com/seletskiy/r2sstat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;R2S UMB tool for reading sensor data and displaying it like iostat&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

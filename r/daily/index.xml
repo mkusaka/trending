@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:43:07Z</updated>
+  <updated>2023-07-16T01:44:15Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gscVPS/gitVersionControlPublic</title>
+    <updated>2023-07-16T01:44:15Z</updated>
+    <id>tag:github.com,2023-07-16:/gscVPS/gitVersionControlPublic</id>
+    <link href="https://github.com/gscVPS/gitVersionControlPublic" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CreRecombinase/MatrixeQTLGLM</title>
+    <updated>2023-07-16T01:44:15Z</updated>
+    <id>tag:github.com,2023-07-16:/CreRecombinase/MatrixeQTLGLM</id>
+    <link href="https://github.com/CreRecombinase/MatrixeQTLGLM" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;MatrixEQTL with GLM&lt;/p&gt;&lt;hr&gt;&lt;p&gt;High level overview of functions for MatrixeQTL/glmnet Prioritize correctness,modularity,and readability (in that order)&lt;/p&gt; &#xA;&lt;p&gt;Processing samples Matrix eQTL needs to be run on subsampled SNP and expression matrices. This is complicated due to the sampling with replacement, as MatrixEQTL returns an error when a matrix has duplicated columns. Possible solutions are to sample without replacement, or to create new names for the columns, and then rework which samples are which Instead, we&#39;re simply going to sample without replacement.&lt;/p&gt; &#xA;&lt;p&gt;To perform k-fold cross validation, we must first split the samples up into k groups. This should be done by subprocesses to reduce memory load.&lt;/p&gt; &#xA;&lt;p&gt;MEQTL Child processes will be passed the entire dataset, along with criteria for removing test data, and the rest of the parameters for that run of MatrixEQTL&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>inquire/dme.churn</title>
+    <updated>2023-07-16T01:44:15Z</updated>
+    <id>tag:github.com,2023-07-16:/inquire/dme.churn</id>
+    <link href="https://github.com/inquire/dme.churn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data Mining and Exploration: Customer Churn Project&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;dme.churn&lt;/h1&gt; &#xA;&lt;p&gt;Data Mining and Exploration: Customer Churn Project&lt;/p&gt; &#xA;&lt;p&gt;reports/ - will be where we will work on the interim report and final report data/ - i&#39;ve downloaded the small dataset for the project from the [here] (&lt;a href=&#34;http://www.sigkdd.org/kddcup/index.php?section=2009&amp;amp;method=data&#34;&gt;http://www.sigkdd.org/kddcup/index.php?section=2009&amp;amp;method=data&lt;/a&gt;).&lt;/p&gt; &#xA;&lt;h1&gt;R&lt;/h1&gt; &#xA;&lt;p&gt;NOTE: i&#39;ll try to see if we can do this in R, and update it in this tread here&lt;/p&gt; &#xA;&lt;h1&gt;Data Format&lt;/h1&gt; &#xA;&lt;p&gt;The datasets use a format similar as that of the text export format from relational databases:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;One header lines with the variables names&lt;/li&gt; &#xA; &lt;li&gt;One line per instance&lt;/li&gt; &#xA; &lt;li&gt;Separator tabulation between the values&lt;/li&gt; &#xA; &lt;li&gt;There are missing values (consecutive tabulations)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The large matrix results from appending the various chunks downloaded in their order number. The header line is present only in the first chunk.&lt;/p&gt; &#xA;&lt;p&gt;The target values (.labels files) have one example per line in the same order as the corresponding data files. Note that churn, appetency, and up-selling are three separate binary classification problems. The target values are +1 or -1. We refer to examples having +1 (resp. -1) target values as positive (resp. negative) examples.&lt;/p&gt; &#xA;&lt;p&gt;The Matlab matrices are numeric. When loaded, the data matrix is called X. The categorical variables are mapped to integers. Missing values are replaced by NaN for the original numeric variables while they are mapped to 0 for categorical variables.&lt;/p&gt; &#xA;&lt;h1&gt;Notes about the data format&lt;/h1&gt; &#xA;&lt;p&gt;The data format is absolutely dreadfull. First thing we need to do is clean it and make it into a standardised format that we can play with in other applications. At this point in time it is extremely raw and unusable.&lt;/p&gt; &#xA;&lt;p&gt;With regards to conversion i have come accross the following matlab scripts which import it into the system. Not if we decided on using R instead we can conver them into R.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://jmlr.csail.mit.edu/proceedings/papers/v7/supplemental/JMLRWCP_V7_supplemental.html&#34;&gt;Here&lt;/a&gt; you can find the scripts as well as additional information about the dataset.&lt;/p&gt;</summary>
+  </entry>
 </feed>

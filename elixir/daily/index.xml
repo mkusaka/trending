@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-15T01:34:36Z</updated>
+  <updated>2023-07-16T01:35:18Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>active-group/active-protocols</title>
+    <updated>2023-07-16T01:35:18Z</updated>
+    <id>tag:github.com,2023-07-16:/active-group/active-protocols</id>
+    <link href="https://github.com/active-group/active-protocols" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir library for writing telegram encodings and client/server protocols&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sloanelybutsurely/typeid-elixir</title>
+    <updated>2023-07-16T01:35:18Z</updated>
+    <id>tag:github.com,2023-07-16:/sloanelybutsurely/typeid-elixir</id>
+    <link href="https://github.com/sloanelybutsurely/typeid-elixir" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Elixir implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
