@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:47:44Z</updated>
+  <updated>2023-07-17T01:46:51Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>CaptainSifff/paper_teaching-learning-RSE</title>
-    <updated>2023-07-16T01:47:44Z</updated>
-    <id>tag:github.com,2023-07-16:/CaptainSifff/paper_teaching-learning-RSE</id>
-    <link href="https://github.com/CaptainSifff/paper_teaching-learning-RSE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Output of the de-RSE 2023 Conference Workshop on &#34;Teaching and Learning Research Software Engineering&#34;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Paper: Teaching and Learning Research Software Engineering&lt;/h1&gt; &#xA;&lt;p&gt;Output of the de-RSE 2022 Conference Workshop on &#34;Teaching and Learning Research Software Engineering&#34;.&lt;/p&gt; &#xA;&lt;p&gt;Get the &lt;a href=&#34;https://github.com/CaptainSifff/paper_teaching-learning-RSE/raw/build/output.pdf&#34;&gt;latest version of the PDF&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;How to contribute&lt;/h2&gt; &#xA;&lt;p&gt;This paper is intended as a collaborative effort and we are looking for input from you.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;We follow gitlab/github flow&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;Please utilize newlines for changes!&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;p&gt;You can contribute in various ways:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Propose content/text via pull request&lt;/li&gt; &#xA; &lt;li&gt;Improve existing content via pull request&lt;/li&gt; &#xA; &lt;li&gt;Review or comment on pull requests of others&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h3&gt;How to create a pull request&lt;/h3&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Fork this repository&lt;/li&gt; &#xA; &lt;li&gt;Create your changes in your fork&lt;/li&gt; &#xA; &lt;li&gt;Go to the &lt;a href=&#34;https://github.com/HeidiSeibold/paper_teaching-learning-RSE/pulls&#34;&gt;pull requests&lt;/a&gt; page of this repository and push &lt;code&gt;new pull request&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Add a short description&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The community will review your pull request and may ask you for additional changes. If you have any questions, please don&#39;t hesitate to ask (we are trying to be as helpful as possible).&lt;/p&gt; &#xA;&lt;h4&gt;How to review existing pull requests&lt;/h4&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Go to the &lt;a href=&#34;https://github.com/HeidiSeibold/paper_teaching-learning-RSE/pulls&#34;&gt;pull requests&lt;/a&gt; page of this repository&lt;/li&gt; &#xA; &lt;li&gt;Click on any of the open pull requests&lt;/li&gt; &#xA; &lt;li&gt;Leave comments under &lt;code&gt;Conversation&lt;/code&gt; or do a full review under &lt;code&gt;Files changed&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h4&gt;How to get credit&lt;/h4&gt; &#xA;&lt;p&gt;If you&#39;ve contributed to this paper in any way, please add your name to &lt;a href=&#34;https://raw.githubusercontent.com/CaptainSifff/paper_teaching-learning-RSE/main/contributors.md&#34;&gt;contributors.md&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>DrSkippy/Gnip-Realtime-Social-Data-Sampling</title>
-    <updated>2023-07-16T01:47:44Z</updated>
-    <id>tag:github.com,2023-07-16:/DrSkippy/Gnip-Realtime-Social-Data-Sampling</id>
-    <link href="https://github.com/DrSkippy/Gnip-Realtime-Social-Data-Sampling" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Notes and examples for effective sampling of social data activities to create signals.&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Real-time Social Data Sampling Whitepaper&lt;/h2&gt; &#xA;&lt;p&gt;Scott Hendrickson, Brian Lehman, Joshua Montague (Gnip, Inc.)&lt;/p&gt; &#xA;&lt;br&gt; &#xA;&lt;h4&gt;Notes and examples for effective sampling of real-time social data activities.&lt;/h4&gt;</summary>
-  </entry>
 </feed>

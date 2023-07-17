@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:45:59Z</updated>
+  <updated>2023-07-17T01:45:22Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>GrapheneOS/Vanadium</title>
-    <updated>2023-07-16T01:45:59Z</updated>
-    <id>tag:github.com,2023-07-16:/GrapheneOS/Vanadium</id>
-    <link href="https://github.com/GrapheneOS/Vanadium" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn&#39;t include patches not relevant to the build targets used on GrapheneOS.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Vanadium is a privacy and security hardened variant of Chromium providing the WebView (used by other apps to render web content) and standard browser for &lt;a href=&#34;https://grapheneos.org&#34;&gt;GrapheneOS&lt;/a&gt;. It depends on hardening and compatibility fixes in GrapheneOS rather than reinventing the wheel inside Vanadium. For example, GrapheneOS already provides a hardened malloc implementation so there&#39;s no need for Vanadium to replace it. Similarly, it can deploy security features causing breakage on other operating systems due to the ability to fix compatibility problems in the OS.&lt;/p&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://grapheneos.org/build#browser-and-webview&#34;&gt;the official build documentation&lt;/a&gt; for build instructions.&lt;/p&gt;</summary>
+    <title>lavishsheth/code</title>
+    <updated>2023-07-17T01:45:22Z</updated>
+    <id>tag:github.com,2023-07-17:/lavishsheth/code</id>
+    <link href="https://github.com/lavishsheth/code" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;code&lt;/h1&gt;</summary>
   </entry>
 </feed>

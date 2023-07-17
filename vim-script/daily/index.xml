@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:48:41Z</updated>
+  <updated>2023-07-17T01:47:51Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clord/vim-scenario</title>
-    <updated>2023-07-16T01:48:41Z</updated>
-    <id>tag:github.com,2023-07-16:/clord/vim-scenario</id>
-    <link href="https://github.com/clord/vim-scenario" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim syntax highlighting for scenario format&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>manny/workspace</title>
+    <updated>2023-07-17T01:47:51Z</updated>
+    <id>tag:github.com,2023-07-17:/manny/workspace</id>
+    <link href="https://github.com/manny/workspace" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>KristianHildebrandt/dotfiles</title>
-    <updated>2023-07-16T01:48:41Z</updated>
-    <id>tag:github.com,2023-07-16:/KristianHildebrandt/dotfiles</id>
-    <link href="https://github.com/KristianHildebrandt/dotfiles" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;my personal vim configuration&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>rcmdnk/dotfiles</title>
+    <updated>2023-07-17T01:47:51Z</updated>
+    <id>tag:github.com,2023-07-17:/rcmdnk/dotfiles</id>
+    <link href="https://github.com/rcmdnk/dotfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;setting files at HOME&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jlneder/vim-colemak</title>
-    <updated>2023-07-16T01:48:41Z</updated>
-    <id>tag:github.com,2023-07-16:/jlneder/vim-colemak</id>
-    <link href="https://github.com/jlneder/vim-colemak" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Colemak Keybindings&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>lakeat/vimExtensionOF</title>
+    <updated>2023-07-17T01:47:51Z</updated>
+    <id>tag:github.com,2023-07-17:/lakeat/vimExtensionOF</id>
+    <link href="https://github.com/lakeat/vimExtensionOF" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Adding the highlighting for OpenFOAM cases&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

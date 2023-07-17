@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Tcl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:47:33Z</updated>
+  <updated>2023-07-17T01:46:43Z</updated>
   <subtitle>Daily Trending of Tcl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>HolographicWings/TOTK-Mods-collection</title>
-    <updated>2023-07-16T01:47:33Z</updated>
-    <id>tag:github.com,2023-07-16:/HolographicWings/TOTK-Mods-collection</id>
-    <link href="https://github.com/HolographicWings/TOTK-Mods-collection" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Mod repo for TOTK on Yuzu emulator.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:33:18Z</updated>
+  <updated>2023-07-17T01:32:46Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aduth/api.libroipsum.com</title>
-    <updated>2023-07-16T01:33:18Z</updated>
-    <id>tag:github.com,2023-07-16:/aduth/api.libroipsum.com</id>
-    <link href="https://github.com/aduth/api.libroipsum.com" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;API endpoint for LibroIpsum phrase generation&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sparkbox/sparkbot</title>
+    <updated>2023-07-17T01:32:46Z</updated>
+    <id>tag:github.com,2023-07-17:/sparkbox/sparkbot</id>
+    <link href="https://github.com/sparkbox/sparkbot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Sparkbox&#39;s Hubot for Slack.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>epicagency/kineograph</title>
-    <updated>2023-07-16T01:33:18Z</updated>
-    <id>tag:github.com,2023-07-16:/epicagency/kineograph</id>
-    <link href="https://github.com/epicagency/kineograph" rel="alternate"></link>
+    <title>tbaum/tumblr-neo4j</title>
+    <updated>2023-07-17T01:32:46Z</updated>
+    <id>tag:github.com,2023-07-17:/tbaum/tumblr-neo4j</id>
+    <link href="https://github.com/tbaum/tumblr-neo4j" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>gunshor/coderwall-hubot</title>
+    <updated>2023-07-17T01:32:46Z</updated>
+    <id>tag:github.com,2023-07-17:/gunshor/coderwall-hubot</id>
+    <link href="https://github.com/gunshor/coderwall-hubot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Coderwall&#39;s Hubot.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

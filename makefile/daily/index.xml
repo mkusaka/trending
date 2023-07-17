@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:40:20Z</updated>
+  <updated>2023-07-17T01:39:50Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>lambdaclass/cairo-vm_in_C</title>
+    <updated>2023-07-17T01:39:50Z</updated>
+    <id>tag:github.com,2023-07-17:/lambdaclass/cairo-vm_in_C</id>
+    <link href="https://github.com/lambdaclass/cairo-vm_in_C" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;cairo-vm_in_C is a C implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly without the need for this party to re-execute the same program.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

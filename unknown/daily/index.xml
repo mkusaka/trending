@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:30:36Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-07-17T01:30:25Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>easychen/one-person-businesses-methodology</title>
-    <updated>2023-07-16T01:30:36Z</updated>
-    <id>tag:github.com,2023-07-16:/easychen/one-person-businesses-methodology</id>
-    <link href="https://github.com/easychen/one-person-businesses-methodology" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;一人公司方法论&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>aman0046/Which-companies-hires-offCampus-and-through-which-platform</title>
+    <updated>2023-07-17T01:30:25Z</updated>
+    <id>tag:github.com,2023-07-17:/aman0046/Which-companies-hires-offCampus-and-through-which-platform</id>
+    <link href="https://github.com/aman0046/Which-companies-hires-offCampus-and-through-which-platform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>datawhalechina/pumpkin-book</title>
-    <updated>2023-07-16T01:30:36Z</updated>
-    <id>tag:github.com,2023-07-16:/datawhalechina/pumpkin-book</id>
-    <link href="https://github.com/datawhalechina/pumpkin-book" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;《机器学习》（西瓜书）公式详解&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CodeWithMohaimin/Web-Developers-Figma-Resources</title>
+    <updated>2023-07-17T01:30:25Z</updated>
+    <id>tag:github.com,2023-07-17:/CodeWithMohaimin/Web-Developers-Figma-Resources</id>
+    <link href="https://github.com/CodeWithMohaimin/Web-Developers-Figma-Resources" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository helps those people who started to learning web development. And struggle for design templates.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>filipecalegario/awesome-generative-ai</title>
-    <updated>2023-07-16T01:30:36Z</updated>
-    <id>tag:github.com,2023-07-16:/filipecalegario/awesome-generative-ai</id>
-    <link href="https://github.com/filipecalegario/awesome-generative-ai" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of Generative AI tools, works, models, and references&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>scroll-tech/contribute-to-scroll</title>
+    <updated>2023-07-17T01:30:25Z</updated>
+    <id>tag:github.com,2023-07-17:/scroll-tech/contribute-to-scroll</id>
+    <link href="https://github.com/scroll-tech/contribute-to-scroll" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository guides developers wanting to contribute to the Scroll ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:31:33Z</updated>
+  <updated>2023-07-17T01:31:18Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jpeg/CpE314-8051-MP3-Player</title>
-    <updated>2023-07-16T01:31:33Z</updated>
-    <id>tag:github.com,2023-07-16:/jpeg/CpE314-8051-MP3-Player</id>
-    <link href="https://github.com/jpeg/CpE314-8051-MP3-Player" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>anaalbsantos/termo</title>
-    <updated>2023-07-16T01:31:33Z</updated>
-    <id>tag:github.com,2023-07-16:/anaalbsantos/termo</id>
-    <link href="https://github.com/anaalbsantos/termo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

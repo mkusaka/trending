@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:33:13Z</updated>
+  <updated>2023-07-17T01:32:42Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pal-robotics/pal_msgs</title>
-    <updated>2023-07-16T01:33:13Z</updated>
-    <id>tag:github.com,2023-07-16:/pal-robotics/pal_msgs</id>
-    <link href="https://github.com/pal-robotics/pal_msgs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Commonly used messages, services and action in PAL&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Mr-Ojii/L-SMASH-Works-Auto-Builds</title>
+    <updated>2023-07-17T01:32:42Z</updated>
+    <id>tag:github.com,2023-07-17:/Mr-Ojii/L-SMASH-Works-Auto-Builds</id>
+    <link href="https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

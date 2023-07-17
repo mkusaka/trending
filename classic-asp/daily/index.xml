@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Classic ASP Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-16T01:33:01Z</updated>
+  <updated>2023-07-17T01:32:29Z</updated>
   <subtitle>Daily Trending of Classic ASP in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>nlegrand/mariagepourtousInXML</title>
-    <updated>2023-07-16T01:33:01Z</updated>
-    <id>tag:github.com,2023-07-16:/nlegrand/mariagepourtousInXML</id>
-    <link href="https://github.com/nlegrand/mariagepourtousInXML" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Convert a french national assembly report into TEI lite. Written specifically for &#34;mariage pour tous&#34; sessions.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>
