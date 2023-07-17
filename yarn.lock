@@ -333,11 +333,11 @@ __metadata:
   linkType: hard
 
 "semver@npm:^6.0.0":
-  version: 6.3.0
-  resolution: "semver@npm:6.3.0"
+  version: 6.3.1
+  resolution: "semver@npm:6.3.1"
   bin:
-    semver: ./bin/semver.js
-  checksum: f0d155c06a67cc7e500c92d929339f1c6efd4ce9fe398aee6acc00a2333489cca0f5b4e76ee7292beba237fcca4b5a3d4a6153471f105f56299801bdab37289f
+    semver: bin/semver.js
+  checksum: 7c627af982bc6485e2d500c8078544f1a3f9a60f8afb058dcdb3bb466c54f340d04a20d228498394ffc231af80514bcc9d78ba40fc1860ef5fc148b34e5a2dc1
   languageName: node
   linkType: hard
 
