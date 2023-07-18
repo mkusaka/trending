@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:38:28Z</updated>
+  <updated>2023-07-18T01:41:09Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>JuliaIPU/IPUToolkit.jl</title>
+    <updated>2023-07-18T01:41:09Z</updated>
+    <id>tag:github.com,2023-07-18:/JuliaIPU/IPUToolkit.jl</id>
+    <link href="https://github.com/JuliaIPU/IPUToolkit.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;IPU programming in Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Seelengrab/PropCheck.jl</title>
+    <updated>2023-07-18T01:41:09Z</updated>
+    <id>tag:github.com,2023-07-18:/Seelengrab/PropCheck.jl</id>
+    <link href="https://github.com/Seelengrab/PropCheck.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A package for simple property based testing in julia.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xiaodaigh/JDF.jl</title>
+    <updated>2023-07-18T01:41:09Z</updated>
+    <id>tag:github.com,2023-07-18:/xiaodaigh/JDF.jl</id>
+    <link href="https://github.com/xiaodaigh/JDF.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Julia DataFrames serialization format&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

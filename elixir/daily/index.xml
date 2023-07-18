@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:34:43Z</updated>
+  <updated>2023-07-18T01:36:37Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Dyad-AI/live_message</title>
+    <updated>2023-07-18T01:36:37Z</updated>
+    <id>tag:github.com,2023-07-18:/Dyad-AI/live_message</id>
+    <link href="https://github.com/Dyad-AI/live_message" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phoenixframework/dns_cluster</title>
+    <updated>2023-07-18T01:36:37Z</updated>
+    <id>tag:github.com,2023-07-18:/phoenixframework/dns_cluster</id>
+    <link href="https://github.com/phoenixframework/dns_cluster" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple DNS clustering for distributed Elixir nodes&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

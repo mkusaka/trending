@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:32:36Z</updated>
+  <updated>2023-07-18T01:33:57Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dakrone/elasticsearch-clojure-plugin</title>
-    <updated>2023-07-17T01:32:36Z</updated>
-    <id>tag:github.com,2023-07-17:/dakrone/elasticsearch-clojure-plugin</id>
-    <link href="https://github.com/dakrone/elasticsearch-clojure-plugin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A proof-of-concept Elasticsearch plugin written entirely in Clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pallet/lein-crate</title>
+    <updated>2023-07-18T01:33:57Z</updated>
+    <id>tag:github.com,2023-07-18:/pallet/lein-crate</id>
+    <link href="https://github.com/pallet/lein-crate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Pallet crate for installing and configuring leiningen&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>JohnMcCall/4409_Bakery_Algorithm</title>
-    <updated>2023-07-17T01:32:36Z</updated>
-    <id>tag:github.com,2023-07-17:/JohnMcCall/4409_Bakery_Algorithm</id>
-    <link href="https://github.com/JohnMcCall/4409_Bakery_Algorithm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Makin&#39; Pastries&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>thheller/shadow-graft</title>
-    <updated>2023-07-17T01:32:36Z</updated>
-    <id>tag:github.com,2023-07-17:/thheller/shadow-graft</id>
-    <link href="https://github.com/thheller/shadow-graft" rel="alternate"></link>
+    <title>relferreira/metabase-sparksql-databricks-driver</title>
+    <updated>2023-07-18T01:33:57Z</updated>
+    <id>tag:github.com,2023-07-18:/relferreira/metabase-sparksql-databricks-driver</id>
+    <link href="https://github.com/relferreira/metabase-sparksql-databricks-driver" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

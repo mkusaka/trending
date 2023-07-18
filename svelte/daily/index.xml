@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:46:25Z</updated>
+  <updated>2023-07-18T01:50:16Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>umaranis/svelte-lexical</title>
-    <updated>2023-07-17T01:46:25Z</updated>
-    <id>tag:github.com,2023-07-17:/umaranis/svelte-lexical</id>
-    <link href="https://github.com/umaranis/svelte-lexical" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A rich text editor for Svelte based on lexical&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cuire/svelte-grid-extended</title>
+    <updated>2023-07-18T01:50:16Z</updated>
+    <id>tag:github.com,2023-07-18:/cuire/svelte-grid-extended</id>
+    <link href="https://github.com/cuire/svelte-grid-extended" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A draggable and resizable grid layout, for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

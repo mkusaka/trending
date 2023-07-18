@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Visual Basic .NET Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:47:54Z</updated>
+  <updated>2023-07-18T01:51:48Z</updated>
   <subtitle>Daily Trending of Visual Basic .NET in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>dsh0416/RaceTracker</title>
-    <updated>2023-07-17T01:47:54Z</updated>
-    <id>tag:github.com,2023-07-17:/dsh0416/RaceTracker</id>
-    <link href="https://github.com/dsh0416/RaceTracker" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RaceTracker is an car racing game(if you really believe it). Actually RaceTracker is more like a mathematical game. Winner takes less steps to finish a circuit. Allow custom maps.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

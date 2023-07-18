@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub D Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:33:22Z</updated>
+  <updated>2023-07-18T01:34:59Z</updated>
   <subtitle>Daily Trending of D in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>dlang-tour/core</title>
+    <updated>2023-07-18T01:34:59Z</updated>
+    <id>tag:github.com,2023-07-18:/dlang-tour/core</id>
+    <link href="https://github.com/dlang-tour/core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;D Language online tour (https://tour.dlang.org/) and online editor (https://run.dlang.io/)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dlang-tour/core-dreg</title>
+    <updated>2023-07-18T01:34:59Z</updated>
+    <id>tag:github.com,2023-07-18:/dlang-tour/core-dreg</id>
+    <link href="https://github.com/dlang-tour/core-dreg" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Docker image for running old D versions&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

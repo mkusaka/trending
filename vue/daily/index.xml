@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:47:57Z</updated>
+  <updated>2023-07-18T01:51:54Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>meistrari/prompts-royale</title>
-    <updated>2023-07-17T01:47:57Z</updated>
-    <id>tag:github.com,2023-07-17:/meistrari/prompts-royale</id>
-    <link href="https://github.com/meistrari/prompts-royale" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Automatically create prompts and make them fight each other to know which is the best&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>streamsync-cloud/streamsync</title>
+    <updated>2023-07-18T01:51:54Z</updated>
+    <id>tag:github.com,2023-07-18:/streamsync-cloud/streamsync</id>
+    <link href="https://github.com/streamsync-cloud/streamsync" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;No-code in the front, Python in the back. An open-source framework for creating data apps.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>oasisprotocol/demo-voting</title>
-    <updated>2023-07-17T01:47:57Z</updated>
-    <id>tag:github.com,2023-07-17:/oasisprotocol/demo-voting</id>
-    <link href="https://github.com/oasisprotocol/demo-voting" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Voting dApp demo for Oasis Sapphire&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Orbiter-Finance/OrbiterFE-V2</title>
+    <updated>2023-07-18T01:51:54Z</updated>
+    <id>tag:github.com,2023-07-18:/Orbiter-Finance/OrbiterFE-V2</id>
+    <link href="https://github.com/Orbiter-Finance/OrbiterFE-V2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Knogobert/ntn-boilerplate</title>
+    <updated>2023-07-18T01:51:54Z</updated>
+    <id>tag:github.com,2023-07-18:/Knogobert/ntn-boilerplate</id>
+    <link href="https://github.com/Knogobert/ntn-boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🏗️ An opinionated base template for a quick start with Nuxt, Tailwind &amp; Netlify CMS. Up on a site after only 5 minutes!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

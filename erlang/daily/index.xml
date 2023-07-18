@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:35:12Z</updated>
+  <updated>2023-07-18T01:37:03Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>zhengqingya/docker-compose</title>
+    <updated>2023-07-18T01:37:03Z</updated>
+    <id>tag:github.com,2023-07-18:/zhengqingya/docker-compose</id>
+    <link href="https://github.com/zhengqingya/docker-compose" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;通过docker-compose编排一系列环境进行一键快速部署运行，小白运维神器。&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>wulftone/erlang-server-example</title>
+    <updated>2023-07-18T01:37:03Z</updated>
+    <id>tag:github.com,2023-07-18:/wulftone/erlang-server-example</id>
+    <link href="https://github.com/wulftone/erlang-server-example" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A reaaally basic erlang server, for demonstration purposes only.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AdRoll/erlmld</title>
+    <updated>2023-07-18T01:37:03Z</updated>
+    <id>tag:github.com,2023-07-18:/AdRoll/erlmld</id>
+    <link href="https://github.com/AdRoll/erlmld" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;erlang interface to kinesis client library via MultiLangDaemon&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

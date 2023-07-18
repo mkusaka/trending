@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:42:43Z</updated>
+  <updated>2023-07-18T01:46:00Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline</title>
+    <updated>2023-07-18T01:46:00Z</updated>
+    <id>tag:github.com,2023-07-18:/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline</id>
+    <link href="https://github.com/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The remediation script should set the reg entries described in https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884 . The detection script checks if they exist. Provided AS-IS without any warrenty.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:39:59Z</updated>
+  <updated>2023-07-18T01:43:02Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>andorardo/fade</title>
-    <updated>2023-07-17T01:39:59Z</updated>
-    <id>tag:github.com,2023-07-17:/andorardo/fade</id>
-    <link href="https://github.com/andorardo/fade" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Fast automated blind deconvolution of multi-phasic EPSCs.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HPQC-LABS/ZMC</title>
-    <updated>2023-07-17T01:39:59Z</updated>
-    <id>tag:github.com,2023-07-17:/HPQC-LABS/ZMC</id>
-    <link href="https://github.com/HPQC-LABS/ZMC" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Z-matrix construction&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

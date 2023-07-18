@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:30:25Z</updated>
+  <updated>2023-07-18T01:31:30Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>aman0046/Which-companies-hires-offCampus-and-through-which-platform</title>
-    <updated>2023-07-17T01:30:25Z</updated>
-    <id>tag:github.com,2023-07-17:/aman0046/Which-companies-hires-offCampus-and-through-which-platform</id>
-    <link href="https://github.com/aman0046/Which-companies-hires-offCampus-and-through-which-platform" rel="alternate"></link>
+    <title>bradfitz/issue-tracker-behaviors</title>
+    <updated>2023-07-18T01:31:30Z</updated>
+    <id>tag:github.com,2023-07-18:/bradfitz/issue-tracker-behaviors</id>
+    <link href="https://github.com/bradfitz/issue-tracker-behaviors" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>CodeWithMohaimin/Web-Developers-Figma-Resources</title>
-    <updated>2023-07-17T01:30:25Z</updated>
-    <id>tag:github.com,2023-07-17:/CodeWithMohaimin/Web-Developers-Figma-Resources</id>
-    <link href="https://github.com/CodeWithMohaimin/Web-Developers-Figma-Resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository helps those people who started to learning web development. And struggle for design templates.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>hkirat/project-ideas-v2</title>
+    <updated>2023-07-18T01:31:30Z</updated>
+    <id>tag:github.com,2023-07-18:/hkirat/project-ideas-v2</id>
+    <link href="https://github.com/hkirat/project-ideas-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Project ideas with prompts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>scroll-tech/contribute-to-scroll</title>
-    <updated>2023-07-17T01:30:25Z</updated>
-    <id>tag:github.com,2023-07-17:/scroll-tech/contribute-to-scroll</id>
-    <link href="https://github.com/scroll-tech/contribute-to-scroll" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository guides developers wanting to contribute to the Scroll ecosystem.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>saifaustcse/nodejs-developer-roadmap</title>
+    <updated>2023-07-18T01:31:30Z</updated>
+    <id>tag:github.com,2023-07-18:/saifaustcse/nodejs-developer-roadmap</id>
+    <link href="https://github.com/saifaustcse/nodejs-developer-roadmap" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A roadmap to becoming a Node.js developer&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

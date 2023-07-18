@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:48:46Z</updated>
+  <updated>2023-07-18T01:52:46Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>hexops/mach-core</title>
-    <updated>2023-07-17T01:48:46Z</updated>
-    <id>tag:github.com,2023-07-17:/hexops/mach-core</id>
-    <link href="https://github.com/hexops/mach-core" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Truly cross-platform window+input+GPU; nothing else&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>zig-osdev/riscv-barebones</title>
+    <updated>2023-07-18T01:52:46Z</updated>
+    <id>tag:github.com,2023-07-18:/zig-osdev/riscv-barebones</id>
+    <link href="https://github.com/zig-osdev/riscv-barebones" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Barebones RISC-V kernel template for Zig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hexops/mach-gpu-dawn</title>
+    <updated>2023-07-18T01:52:46Z</updated>
+    <id>tag:github.com,2023-07-18:/hexops/mach-gpu-dawn</id>
+    <link href="https://github.com/hexops/mach-gpu-dawn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Google&#39;s Dawn WebGPU implementation, cross-compiled with Zig into a single static library&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hexops/mach-freetype</title>
+    <updated>2023-07-18T01:52:46Z</updated>
+    <id>tag:github.com,2023-07-18:/hexops/mach-freetype</id>
+    <link href="https://github.com/hexops/mach-freetype" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ziggified Freetype 2 bindings with zero-fuss installation, cross compilation, and more.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

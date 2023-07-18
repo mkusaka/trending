@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Shell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:45:22Z</updated>
+  <updated>2023-07-18T01:49:09Z</updated>
   <subtitle>Daily Trending of Shell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>lavishsheth/code</title>
-    <updated>2023-07-17T01:45:22Z</updated>
-    <id>tag:github.com,2023-07-17:/lavishsheth/code</id>
-    <link href="https://github.com/lavishsheth/code" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;code&lt;/h1&gt;</summary>
-  </entry>
 </feed>

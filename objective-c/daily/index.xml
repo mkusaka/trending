@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Objective-C Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-17T01:41:16Z</updated>
+  <updated>2023-07-18T01:44:28Z</updated>
   <subtitle>Daily Trending of Objective-C in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Galactic-Dev/iSponsorBlock</title>
-    <updated>2023-07-17T01:41:16Z</updated>
-    <id>tag:github.com,2023-07-17:/Galactic-Dev/iSponsorBlock</id>
-    <link href="https://github.com/Galactic-Dev/iSponsorBlock" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A jailbreak tweak that implements the sponsorblock api to skip sponsorships in youtube videos.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;iSponsorBlock&lt;/h1&gt; &#xA;&lt;p&gt;A jailbreak tweak that implements the SponsorBlock API to skip sponsorships in youtube vidoes.&lt;/p&gt; &#xA;&lt;p&gt;More info about SponsorBlock and the API used can be found &lt;a href=&#34;https://sponsor.ajay.app&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This tweak has been tested on the latest YouTube version (18.20.3) and supports, at least, down to version 17.30.1.&lt;/p&gt; &#xA;&lt;h1&gt;Installation&lt;/h1&gt; &#xA;&lt;p&gt;Add the following repository: &lt;a href=&#34;https://repo.icrazeios.com&#34;&gt;https://repo.icrazeios.com&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;Customization&lt;/h1&gt; &#xA;&lt;p&gt;To access this tweaks settings open the YouTube app, and there should be a button in the top right, like in this image: &lt;a href=&#34;https://imgur.com/lLpfXue&#34;&gt;https://imgur.com/lLpfXue&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>PoomSmart/PSHeader</title>
-    <updated>2023-07-17T01:41:16Z</updated>
-    <id>tag:github.com,2023-07-17:/PoomSmart/PSHeader</id>
-    <link href="https://github.com/PoomSmart/PSHeader" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My own headers (PS.h and friends) used in several tweaks.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PoomSmart&#39;s headers&lt;/h1&gt; &#xA;&lt;p&gt;A collection of headers used by most of PoomSmart&#39;s tweaks.&lt;/p&gt; &#xA;&lt;h1&gt;Setup&lt;/h1&gt; &#xA;&lt;p&gt;Make a folder named &lt;code&gt;PSHeader&lt;/code&gt; containing all headers outside of your project folder. Also create &lt;code&gt;PS.h&lt;/code&gt; header file that contains this line &lt;code&gt;#import &#34;PSHeader/PS.h&#34;&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;In your tweak source code, &lt;code&gt;#import &#34;../PS.h&#34;&lt;/code&gt;&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>Muirey03/RemoteLog</title>
-    <updated>2023-07-17T01:41:16Z</updated>
-    <id>tag:github.com,2023-07-17:/Muirey03/RemoteLog</id>
-    <link href="https://github.com/Muirey03/RemoteLog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple remote logging system using UDP datagrams&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;RemoteLog supports all the format specifiers of &lt;code&gt;NSLog&lt;/code&gt; so it should be very easy to migrate to.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Copy &lt;code&gt;RemoteLog.h&lt;/code&gt; to &lt;code&gt;$THEOS/include&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Change the ip addresses in the &lt;code&gt;RemoteLog.h&lt;/code&gt; file to match your computer&#39;s ip address&lt;/li&gt; &#xA; &lt;li&gt;Include the header in any source files you want to use it in:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;#include &amp;lt;RemoteLog.h&amp;gt;&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Replace calls to &lt;code&gt;NSLog&lt;/code&gt; with calls to &lt;code&gt;RLog&lt;/code&gt;:&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;pre&gt;&lt;code&gt;RLog(@&#34;Test log: %@&#34;, someObject);&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Run the python server on your computer and watch the logs coming in :)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>circlefin/w3s-ios-sdk</title>
+    <updated>2023-07-18T01:44:28Z</updated>
+    <id>tag:github.com,2023-07-18:/circlefin/w3s-ios-sdk</id>
+    <link href="https://github.com/circlefin/w3s-ios-sdk" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;w3s-ios-sdk&lt;/h1&gt;</summary>
   </entry>
 </feed>
