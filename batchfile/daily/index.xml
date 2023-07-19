@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-18T01:32:39Z</updated>
+  <updated>2023-07-19T01:41:39Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>empty-233/tencent-sandbox</title>
+    <updated>2023-07-19T01:41:39Z</updated>
+    <id>tag:github.com,2023-07-19:/empty-233/tencent-sandbox</id>
+    <link href="https://github.com/empty-233/tencent-sandbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Windows sandbox 腾讯全家桶沙盒配置&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>GDi4K/unreal-openland</title>
+    <updated>2023-07-19T01:41:39Z</updated>
+    <id>tag:github.com,2023-07-19:/GDi4K/unreal-openland</id>
+    <link href="https://github.com/GDi4K/unreal-openland" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Landscape AutoMaterial for UnrealEngine with some related Tools for RVT, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DigitalSQR/smart-immunizations-mini</title>
+    <updated>2023-07-19T01:41:39Z</updated>
+    <id>tag:github.com,2023-07-19:/DigitalSQR/smart-immunizations-mini</id>
+    <link href="https://github.com/DigitalSQR/smart-immunizations-mini" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

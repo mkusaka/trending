@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-18T01:31:30Z</updated>
+  <updated>2023-07-19T01:40:38Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bradfitz/issue-tracker-behaviors</title>
-    <updated>2023-07-18T01:31:30Z</updated>
-    <id>tag:github.com,2023-07-18:/bradfitz/issue-tracker-behaviors</id>
-    <link href="https://github.com/bradfitz/issue-tracker-behaviors" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>remote-es/remotes</title>
+    <updated>2023-07-19T01:40:38Z</updated>
+    <id>tag:github.com,2023-07-19:/remote-es/remotes</id>
+    <link href="https://github.com/remote-es/remotes" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a repository listing companies which offer full-time remote jobs with Spanish contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>hkirat/project-ideas-v2</title>
-    <updated>2023-07-18T01:31:30Z</updated>
-    <id>tag:github.com,2023-07-18:/hkirat/project-ideas-v2</id>
-    <link href="https://github.com/hkirat/project-ideas-v2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Project ideas with prompts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>novysodope/fupo_for_yonyou</title>
+    <updated>2023-07-19T01:40:38Z</updated>
+    <id>tag:github.com,2023-07-19:/novysodope/fupo_for_yonyou</id>
+    <link href="https://github.com/novysodope/fupo_for_yonyou" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;用友漏洞检测，持续更新漏洞检测模块&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>saifaustcse/nodejs-developer-roadmap</title>
-    <updated>2023-07-18T01:31:30Z</updated>
-    <id>tag:github.com,2023-07-18:/saifaustcse/nodejs-developer-roadmap</id>
-    <link href="https://github.com/saifaustcse/nodejs-developer-roadmap" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A roadmap to becoming a Node.js developer&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Trident-Development/2024-new-grad-intern</title>
+    <updated>2023-07-19T01:40:38Z</updated>
+    <id>tag:github.com,2023-07-19:/Trident-Development/2024-new-grad-intern</id>
+    <link href="https://github.com/Trident-Development/2024-new-grad-intern" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;US Tech intern/new-grad positions for 2024&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

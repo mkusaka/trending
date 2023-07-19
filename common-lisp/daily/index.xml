@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-18T01:34:16Z</updated>
+  <updated>2023-07-19T01:43:22Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>stylewarning/quantum-interpreter</title>
+    <updated>2023-07-19T01:43:22Z</updated>
+    <id>tag:github.com,2023-07-19:/stylewarning/quantum-interpreter</id>
+    <link href="https://github.com/stylewarning/quantum-interpreter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tiny, self-contained, general-purpose quantum interpreter.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;A Tutorial Quantum Interpreter&lt;/h1&gt; &#xA;&lt;p&gt;A tiny, self-contained, general-purpose quantum interpreter written in Common Lisp. It does not have any dependencies and can be loaded with &lt;code&gt;(load &#34;qsim&#34;)&lt;/code&gt; in your favorite Lisp.&lt;/p&gt; &#xA;&lt;p&gt;This is code that accompanies &lt;a href=&#34;https://www.stylewarning.com/posts/quantum-interpreter/&#34;&gt;this blog post&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h2&gt;License&lt;/h2&gt; &#xA;&lt;p&gt;The code is licensed under a BSD 3-clause license. See &lt;a href=&#34;https://raw.githubusercontent.com/stylewarning/quantum-interpreter/master/license.txt&#34;&gt;&lt;code&gt;LICENSE.txt&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;</summary>
+  </entry>
 </feed>

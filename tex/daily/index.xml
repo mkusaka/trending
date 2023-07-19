@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-18T01:50:46Z</updated>
+  <updated>2023-07-19T01:57:41Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mlresearch/v195</title>
+    <updated>2023-07-19T01:57:41Z</updated>
+    <id>tag:github.com,2023-07-19:/mlresearch/v195</id>
+    <link href="https://github.com/mlresearch/v195" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Proceedings of COLT 2023&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PMLR 195&lt;/h1&gt; &#xA;&lt;p&gt;To suggest fixes to this volume please make a pull request containing the changes requested and a justification for the changes.&lt;/p&gt; &#xA;&lt;p&gt;To edit the details of this conference work edit the &lt;a href=&#34;https://raw.githubusercontent.com/mlresearch/v195/gh-pages/_config.yml&#34;&gt;_config.yml&lt;/a&gt; file and submit a pull request.&lt;/p&gt; &#xA;&lt;p&gt;To make changes to the individual paper details, edit the associated paper file in the &lt;a href=&#34;https://raw.githubusercontent.com/mlresearch/v195/gh-pages/_posts&#34;&gt;./_posts&lt;/a&gt; subdirectory.&lt;/p&gt; &#xA;&lt;p&gt;For details of how to publish in PMLR please check &lt;a href=&#34;https://proceedings.mlr.press/faq.html&#34;&gt;https://proceedings.mlr.press/faq.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;For details of what is required to submit a proceedings please check &lt;a href=&#34;https://proceedings.mlr.press/spec.html&#34;&gt;https://proceedings.mlr.press/spec.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Published as Volume 195 by the Proceedings of Machine Learning Research on 12 July 2023.&lt;/p&gt; &#xA;&lt;p&gt;Volume Edited by:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Gergely Neu&lt;/li&gt; &#xA; &lt;li&gt;Lorenzo Rosasco&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Series Editors:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Neil D. Lawrence&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-18T01:42:53Z</updated>
+  <updated>2023-07-19T01:49:57Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ThankYouMario/proprietary_vendor_qcom_common</title>
-    <updated>2023-07-18T01:42:53Z</updated>
-    <id>tag:github.com,2023-07-18:/ThankYouMario/proprietary_vendor_qcom_common</id>
-    <link href="https://github.com/ThankYouMario/proprietary_vendor_qcom_common" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>hyperledger/fabric-docs-i18n</title>
-    <updated>2023-07-18T01:42:53Z</updated>
-    <id>tag:github.com,2023-07-18:/hyperledger/fabric-docs-i18n</id>
-    <link href="https://github.com/hyperledger/fabric-docs-i18n" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>arco/android_vendor_samsung_ancora</title>
+    <updated>2023-07-19T01:49:57Z</updated>
+    <id>tag:github.com,2023-07-19:/arco/android_vendor_samsung_ancora</id>
+    <link href="https://github.com/arco/android_vendor_samsung_ancora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Vendor files for Samsung Galaxy W (GT-I8150)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

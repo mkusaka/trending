@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-18T01:50:16Z</updated>
+  <updated>2023-07-19T01:57:04Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>cuire/svelte-grid-extended</title>
-    <updated>2023-07-18T01:50:16Z</updated>
-    <id>tag:github.com,2023-07-18:/cuire/svelte-grid-extended</id>
-    <link href="https://github.com/cuire/svelte-grid-extended" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A draggable and resizable grid layout, for Svelte&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sweatydev/svelte-pocketbase</title>
+    <updated>2023-07-19T01:57:04Z</updated>
+    <id>tag:github.com,2023-07-19:/sweatydev/svelte-pocketbase</id>
+    <link href="https://github.com/sweatydev/svelte-pocketbase" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>xl-soft/ui</title>
+    <updated>2023-07-19T01:57:04Z</updated>
+    <id>tag:github.com,2023-07-19:/xl-soft/ui</id>
+    <link href="https://github.com/xl-soft/ui" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;XL Software UI - next-gen Svelte UI-kit for creating beautiful interfaces with excellent UX&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ShipBit/sveltekit-leaflet</title>
+    <updated>2023-07-19T01:57:04Z</updated>
+    <id>tag:github.com,2023-07-19:/ShipBit/sveltekit-leaflet</id>
+    <link href="https://github.com/ShipBit/sveltekit-leaflet" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
