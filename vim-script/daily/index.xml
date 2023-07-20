@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:58:35Z</updated>
+  <updated>2023-07-20T01:46:57Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>xero/miasma.nvim</title>
-    <updated>2023-07-19T01:58:35Z</updated>
-    <id>tag:github.com,2023-07-19:/xero/miasma.nvim</id>
-    <link href="https://github.com/xero/miasma.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a fog descends upon your editor ☁ dark color scheme inspired by the woods for vim and neovim&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ninghaixin/vimrc</title>
-    <updated>2023-07-19T01:58:35Z</updated>
-    <id>tag:github.com,2023-07-19:/ninghaixin/vimrc</id>
-    <link href="https://github.com/ninghaixin/vimrc" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vim配置和插件&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

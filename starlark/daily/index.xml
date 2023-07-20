@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Starlark Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:56:55Z</updated>
+  <updated>2023-07-20T01:45:13Z</updated>
   <subtitle>Daily Trending of Starlark in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kurtosis-tech/geth-lighthouse-mev-package</title>
-    <updated>2023-07-19T01:56:55Z</updated>
-    <id>tag:github.com,2023-07-19:/kurtosis-tech/geth-lighthouse-mev-package</id>
-    <link href="https://github.com/kurtosis-tech/geth-lighthouse-mev-package" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kurtosis-tech/mev-package</title>
-    <updated>2023-07-19T01:56:55Z</updated>
-    <id>tag:github.com,2023-07-19:/kurtosis-tech/mev-package</id>
-    <link href="https://github.com/kurtosis-tech/mev-package" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kurtosis-tech/sui-package</title>
-    <updated>2023-07-19T01:56:55Z</updated>
-    <id>tag:github.com,2023-07-19:/kurtosis-tech/sui-package</id>
-    <link href="https://github.com/kurtosis-tech/sui-package" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:40:38Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-07-20T01:29:15Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>remote-es/remotes</title>
-    <updated>2023-07-19T01:40:38Z</updated>
-    <id>tag:github.com,2023-07-19:/remote-es/remotes</id>
-    <link href="https://github.com/remote-es/remotes" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This is a repository listing companies which offer full-time remote jobs with Spanish contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>emmethalm/AI</title>
+    <updated>2023-07-20T01:29:15Z</updated>
+    <id>tag:github.com,2023-07-20:/emmethalm/AI</id>
+    <link href="https://github.com/emmethalm/AI" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The ultimate list of resources to teach yourself how to use the latest AI tools, frameworks, and ideas.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>novysodope/fupo_for_yonyou</title>
-    <updated>2023-07-19T01:40:38Z</updated>
-    <id>tag:github.com,2023-07-19:/novysodope/fupo_for_yonyou</id>
-    <link href="https://github.com/novysodope/fupo_for_yonyou" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;用友漏洞检测，持续更新漏洞检测模块&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>jiji262/tianya-docs</title>
+    <updated>2023-07-20T01:29:15Z</updated>
+    <id>tag:github.com,2023-07-20:/jiji262/tianya-docs</id>
+    <link href="https://github.com/jiji262/tianya-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;精心收集的天涯神贴，不带水印，方便阅读&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Trident-Development/2024-new-grad-intern</title>
-    <updated>2023-07-19T01:40:38Z</updated>
-    <id>tag:github.com,2023-07-19:/Trident-Development/2024-new-grad-intern</id>
-    <link href="https://github.com/Trident-Development/2024-new-grad-intern" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;US Tech intern/new-grad positions for 2024&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>skills/copilot-codespaces-vscode</title>
+    <updated>2023-07-20T01:29:15Z</updated>
+    <id>tag:github.com,2023-07-20:/skills/copilot-codespaces-vscode</id>
+    <link href="https://github.com/skills/copilot-codespaces-vscode" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Develop with AI-powered code suggestions using GitHub Copilot and VS Code&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GLSL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:46:12Z</updated>
+  <updated>2023-07-20T01:35:02Z</updated>
   <subtitle>Daily Trending of GLSL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>hl2guide/better-mpv-config</title>
-    <updated>2023-07-19T01:46:12Z</updated>
-    <id>tag:github.com,2023-07-19:/hl2guide/better-mpv-config</id>
-    <link href="https://github.com/hl2guide/better-mpv-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An improved MPV Media Player v3 configuration file.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>HL7/fetal_records</title>
-    <updated>2023-07-19T01:46:12Z</updated>
-    <id>tag:github.com,2023-07-19:/HL7/fetal_records</id>
-    <link href="https://github.com/HL7/fetal_records" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Source repository for the Fetal Records FHIR implementation guide&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

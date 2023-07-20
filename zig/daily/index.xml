@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Zig Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:59:27Z</updated>
+  <updated>2023-07-20T01:48:01Z</updated>
   <subtitle>Daily Trending of Zig in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ZigEmbeddedGroup/microzig-driver-framework</title>
+    <updated>2023-07-20T01:48:01Z</updated>
+    <id>tag:github.com,2023-07-20:/ZigEmbeddedGroup/microzig-driver-framework</id>
+    <link href="https://github.com/ZigEmbeddedGroup/microzig-driver-framework" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A collection of device drivers for the use with MicroZig&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>sjinzh/hello-algo-zig</title>
+    <updated>2023-07-20T01:48:01Z</updated>
+    <id>tag:github.com,2023-07-20:/sjinzh/hello-algo-zig</id>
+    <link href="https://github.com/sjinzh/hello-algo-zig" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zig codes for the famous public project 《Hello, Algorithm》|《 Hello，算法 》 about data structures and algorithms.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

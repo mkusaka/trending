@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub R Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:53:57Z</updated>
+  <updated>2023-07-20T01:42:51Z</updated>
   <subtitle>Daily Trending of R in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>UCSB-Library-Research-Data-Services/bren-meds213-spring-2023</title>
-    <updated>2023-07-19T01:53:57Z</updated>
-    <id>tag:github.com,2023-07-19:/UCSB-Library-Research-Data-Services/bren-meds213-spring-2023</id>
-    <link href="https://github.com/UCSB-Library-Research-Data-Services/bren-meds213-spring-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bren MEDS 213: Databases and Data Management&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>seanpm2001/AI2001_Category-Source_Code-SC-VHDL</title>
-    <updated>2023-07-19T01:53:57Z</updated>
-    <id>tag:github.com,2023-07-19:/seanpm2001/AI2001_Category-Source_Code-SC-VHDL</id>
-    <link href="https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-VHDL" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🧠️🖥️2️⃣️0️⃣️0️⃣️1️⃣️💾️📜️ The sourceCode:VHDL category for AI2001, containing VHDL programming language datasets&lt;/p&gt;&lt;hr&gt;&lt;hr&gt; &#xA;&lt;h1&gt;&lt;a href=&#34;https://github.com/seanpm2001/AI2001/&#34;&gt;AI2001&lt;/a&gt; data sets&lt;/h1&gt; &#xA;&lt;h2&gt;Category: Source Code&lt;/h2&gt; &#xA;&lt;h3&gt;Subcategory (SC): VHDL&lt;/h3&gt; &#xA;&lt;p&gt;This dataset is under development/coming soon.&lt;/p&gt; &#xA;&lt;p&gt;&lt;strong&gt;🌱️ This &lt;a href=&#34;https://raw.githubusercontent.com/seanpm2001/AI2001_Category-Source_Code-SC-VHDL/AI2001_Category-Source_Code-SC-VHDL_Main-dev/README.md&#34;&gt;&lt;code&gt;README.md&lt;/code&gt;&lt;/a&gt; file is a major stub and need significant expansion&lt;/strong&gt;&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;&lt;strong&gt;File version:&lt;/strong&gt; &lt;code&gt;1 (2023, Thursday, July 13th at 03:49 pm PST)&lt;/code&gt;&lt;/p&gt; &#xA;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Arcadia-Science/2023-neuromod-prehgt</title>
-    <updated>2023-07-19T01:53:57Z</updated>
-    <id>tag:github.com,2023-07-19:/Arcadia-Science/2023-neuromod-prehgt</id>
-    <link href="https://github.com/Arcadia-Science/2023-neuromod-prehgt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Screening for fungal neuromodulatory genes through horizontal gene transfer discovery&lt;/h1&gt; &#xA;&lt;p&gt;This respository documents the code that was run as part of the pub, &lt;a href=&#34;https://doi.org/10.57844/arcadia-jqq0-y385&#34;&gt;&#34;Potential neuromodulatory genes identified through a discovery pipeline that screens for horizontal gene transfer events&#34;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;We ran the &lt;a href=&#34;https://github.com/Arcadia-Science/prehgt&#34;&gt;prehgt&lt;/a&gt; pipeline on Nextflow &lt;a href=&#34;https://tower.nf&#34;&gt;Tower&lt;/a&gt; (Nextflow version 23.04.2 build 5870). We documented the run information in the following files:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Arcadia-Science/2023-neuromod-prehgt/main/run_prehgt.sh&#34;&gt;&lt;code&gt;run_prehgt.sh&lt;/code&gt;&lt;/a&gt;: The Nextflow command used to execute the pipeline. We ran the pipeline from a specific commit, but it is essentially the same as running the pipeline from the first release (other code changes integrated after this commit did not impact the runtime behavior of the Nextflow pipeline).&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Arcadia-Science/2023-neuromod-prehgt/main/config_info.md&#34;&gt;&lt;code&gt;config_info.md&lt;/code&gt;&lt;/a&gt;: Configuration information for the pipeline run.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Arcadia-Science/2023-neuromod-prehgt/main/params.txt&#34;&gt;&lt;code&gt;params.txt&lt;/code&gt;&lt;/a&gt;: Parameter information for the pipeline run.&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Many of the input files were hosted on S3. We provide public links to the files in the file &lt;a href=&#34;https://raw.githubusercontent.com/Arcadia-Science/2023-neuromod-prehgt/main/public_file_links.md&#34;&gt;&lt;code&gt;public_file_links.md&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;The results from the pipeline are available in the &lt;a href=&#34;https://raw.githubusercontent.com/Arcadia-Science/2023-neuromod-prehgt/main/results&#34;&gt;results&lt;/a&gt; folder.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Arcadia-Science/2023-neuromod-prehgt/main/results/results_filtered.tsv&#34;&gt;&lt;code&gt;results_filtered.tsv&lt;/code&gt;&lt;/a&gt;: records the HGT candidates output by the prehgt pipeline.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Arcadia-Science/2023-neuromod-prehgt/main/results/genomes&#34;&gt;&lt;code&gt;genomes/*csv&lt;/code&gt;&lt;/a&gt;: records the genomes analyzed by the pipeline.&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://raw.githubusercontent.com/Arcadia-Science/2023-neuromod-prehgt/main/results/neuromodulatory_candidate_gffs/&#34;&gt;&lt;code&gt;neuromodulatory_candidate_gffs/*gff&lt;/code&gt;&lt;/a&gt;: contains annotation information in GFF format for three HGT candidate genes with predicted function relevant to neuromodulation. These events are described in detail in the &lt;a href=&#34;https://doi.org/10.57844/arcadia-jqq0-y385&#34;&gt;pub&lt;/a&gt;.&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ColdFusion Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:43:14Z</updated>
+  <updated>2023-07-20T01:31:47Z</updated>
   <subtitle>Daily Trending of ColdFusion in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>coldbox-modules/megaphone</title>
-    <updated>2023-07-19T01:43:14Z</updated>
-    <id>tag:github.com,2023-07-19:/coldbox-modules/megaphone</id>
-    <link href="https://github.com/coldbox-modules/megaphone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A protocol-based library for sending Notifications in ColdBox&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

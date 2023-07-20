@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:52:14Z</updated>
+  <updated>2023-07-20T01:41:06Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kentfredric/XT</title>
-    <updated>2023-07-19T01:52:14Z</updated>
-    <id>tag:github.com,2023-07-19:/kentfredric/XT</id>
-    <link href="https://github.com/kentfredric/XT" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A viral platform for content aggregation and world domination&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NAME&lt;/h1&gt; &#xA;&lt;p&gt;XT - A viral platform for content aggregation and world domination&lt;/p&gt; &#xA;&lt;h1&gt;VERSION&lt;/h1&gt; &#xA;&lt;p&gt;version 0.001000&lt;/p&gt; &#xA;&lt;h1&gt;DESCRIPTION&lt;/h1&gt; &#xA;&lt;p&gt;You&#39;ve seen them before, 9-gag and all those pesky &#34;funny pics&#34; websites that are forever clogging your &lt;code&gt;$socialnetwork&lt;/code&gt;.&lt;/p&gt; &#xA;&lt;p&gt;They&#39;re effective at what they do, find cool stuff and make it go viral.&lt;/p&gt; &#xA;&lt;p&gt;Outside these specific websites, the concept doesn&#39;t seem to have spread yet, the only noteworthy example being reddit, which is a generalised approach at unifying a sense of virality with arbitrary content.&lt;/p&gt; &#xA;&lt;p&gt;This project is intended to fill this market niché, and provide a topic-specific platform for promoting content, in a way that will hopefully supercede the sphere of &#34;Planet&#34; RSS Aggregators, so that gems are more likely to surface, and chaff is more likely to vanish, as opposed to having a perpetual linear stream of randomly variating quality.&lt;/p&gt; &#xA;&lt;p&gt;In simple terms:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;people submit content ( either by individual content links, or via a feed )&lt;/li&gt; &#xA; &lt;li&gt;content is aggregated into a pool&lt;/li&gt; &#xA; &lt;li&gt;people vote up/down on content&lt;/li&gt; &#xA; &lt;li&gt;people classify content&lt;/li&gt; &#xA; &lt;li&gt;&#34;hot&#34; content is delivered to a &#34;hot&#34; page.&lt;/li&gt; &#xA; &lt;li&gt;everyone benefits&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;AUTHORS&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Kent Fredric &lt;a href=&#34;mailto:kentfredric@gmail.com&#34;&gt;kentfredric@gmail.com&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;Torsten Raudssus &lt;a href=&#34;mailto:getty@cpan.org&#34;&gt;getty@cpan.org&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;COPYRIGHT AND LICENSE&lt;/h1&gt; &#xA;&lt;p&gt;This software is copyright (c) 2013 by Kent Fredric &lt;a href=&#34;mailto:kentfredric@gmail.com&#34;&gt;kentfredric@gmail.com&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;p&gt;This is free software; you can redistribute it and/or modify it under the same terms as the Perl 5 programming language system itself.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haskell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-19T01:46:54Z</updated>
+  <updated>2023-07-20T01:35:46Z</updated>
   <subtitle>Daily Trending of Haskell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>well-typed/sop-haddocks</title>
-    <updated>2023-07-19T01:46:54Z</updated>
-    <id>tag:github.com,2023-07-19:/well-typed/sop-haddocks</id>
-    <link href="https://github.com/well-typed/sop-haddocks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Get access to Haddocks in `generics-sop` style generic functions&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Get access to Haddocks in &lt;code&gt;generics-sop&lt;/code&gt; style generic functions&lt;/h1&gt;</summary>
-  </entry>
-  <entry>
-    <title>vikikiss/snap-git-upload</title>
-    <updated>2023-07-19T01:46:54Z</updated>
-    <id>tag:github.com,2023-07-19:/vikikiss/snap-git-upload</id>
-    <link href="https://github.com/vikikiss/snap-git-upload" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nh2/linear-interpolation</title>
+    <updated>2023-07-20T01:35:46Z</updated>
+    <id>tag:github.com,2023-07-20:/nh2/linear-interpolation</id>
+    <link href="https://github.com/nh2/linear-interpolation" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Multi-dimensional linear interpolation in Haskell&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
