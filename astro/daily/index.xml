@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Astro Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-20T01:30:00Z</updated>
+  <updated>2023-07-21T01:30:12Z</updated>
   <subtitle>Daily Trending of Astro in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>oyepriyansh/DevTweet</title>
-    <updated>2023-07-20T01:30:00Z</updated>
-    <id>tag:github.com,2023-07-20:/oyepriyansh/DevTweet</id>
-    <link href="https://github.com/oyepriyansh/DevTweet" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An open-source developer-focused web application for sharing thoughts and knowledge within the developer community&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

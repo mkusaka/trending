@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-20T01:29:15Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-07-21T01:29:25Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>emmethalm/AI</title>
-    <updated>2023-07-20T01:29:15Z</updated>
-    <id>tag:github.com,2023-07-20:/emmethalm/AI</id>
-    <link href="https://github.com/emmethalm/AI" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The ultimate list of resources to teach yourself how to use the latest AI tools, frameworks, and ideas.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Bernardus/openmoof</title>
+    <updated>2023-07-21T01:29:25Z</updated>
+    <id>tag:github.com,2023-07-21:/Bernardus/openmoof</id>
+    <link href="https://github.com/Bernardus/openmoof" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>jiji262/tianya-docs</title>
-    <updated>2023-07-20T01:29:15Z</updated>
-    <id>tag:github.com,2023-07-20:/jiji262/tianya-docs</id>
-    <link href="https://github.com/jiji262/tianya-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;精心收集的天涯神贴，不带水印，方便阅读&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>cxli233/Online_R_learning</title>
+    <updated>2023-07-21T01:29:25Z</updated>
+    <id>tag:github.com,2023-07-21:/cxli233/Online_R_learning</id>
+    <link href="https://github.com/cxli233/Online_R_learning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Online R learning for applied statistics&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>skills/copilot-codespaces-vscode</title>
-    <updated>2023-07-20T01:29:15Z</updated>
-    <id>tag:github.com,2023-07-20:/skills/copilot-codespaces-vscode</id>
-    <link href="https://github.com/skills/copilot-codespaces-vscode" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Develop with AI-powered code suggestions using GitHub Copilot and VS Code&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mkosir/typescript-react-style-guide</title>
+    <updated>2023-07-21T01:29:25Z</updated>
+    <id>tag:github.com,2023-07-21:/mkosir/typescript-react-style-guide</id>
+    <link href="https://github.com/mkosir/typescript-react-style-guide" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;⚙️ TypeScript &amp; React Style Guide. Concise set of conventions and best practices used to create consistent, maintainable code.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

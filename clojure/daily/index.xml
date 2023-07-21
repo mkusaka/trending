@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-20T01:31:39Z</updated>
+  <updated>2023-07-21T01:31:49Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ryrobes/flowmaps</title>
-    <updated>2023-07-20T01:31:39Z</updated>
-    <id>tag:github.com,2023-07-20:/ryrobes/flowmaps</id>
-    <link href="https://github.com/ryrobes/flowmaps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Flow Based Programming Clojure Micro-Framework&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>schibsted/spid-tech-docs</title>
+    <updated>2023-07-21T01:31:49Z</updated>
+    <id>tag:github.com,2023-07-21:/schibsted/spid-tech-docs</id>
+    <link href="https://github.com/schibsted/spid-tech-docs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Technical documentation for the Schibsted account platform&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>Gonzih/clj-campfire</title>
-    <updated>2023-07-20T01:31:39Z</updated>
-    <id>tag:github.com,2023-07-20:/Gonzih/clj-campfire</id>
-    <link href="https://github.com/Gonzih/clj-campfire" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple campfire client with streaming and api calls.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>schibsted/spid-client-clojure</title>
+    <updated>2023-07-21T01:31:49Z</updated>
+    <id>tag:github.com,2023-07-21:/schibsted/spid-client-clojure</id>
+    <link href="https://github.com/schibsted/spid-client-clojure" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A very thin Clojure wrapper for the SPID Java SDK&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>scrawlings/Sandbox.CLJ</title>
+    <updated>2023-07-21T01:31:49Z</updated>
+    <id>tag:github.com,2023-07-21:/scrawlings/Sandbox.CLJ</id>
+    <link href="https://github.com/scrawlings/Sandbox.CLJ" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Exercises and experiments as I study clojure.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

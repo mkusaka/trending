@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub C# Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-20T01:30:52Z</updated>
+  <updated>2023-07-21T01:31:07Z</updated>
   <subtitle>Daily Trending of C# in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NoBugCn/ActionEditor</title>
+    <updated>2023-07-21T01:31:07Z</updated>
+    <id>tag:github.com,2023-07-21:/NoBugCn/ActionEditor</id>
+    <link href="https://github.com/NoBugCn/ActionEditor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;unity技能编辑器，Buff编辑器，场景编辑器&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;NBC.ActionEdtior&lt;/h1&gt; &#xA;&lt;p&gt;行为时间轴编辑器&lt;/p&gt; &#xA;&lt;p&gt;能用于项目技能、Buff等时间轴表现编辑&lt;/p&gt; &#xA;&lt;h1&gt;功能特点&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;理论上适用于&lt;code&gt;所有类型项目&lt;/code&gt;的技能Buff，战斗镜头，场景效果等等&lt;/li&gt; &#xA; &lt;li&gt;完全自定义扩展，项目只提供核心编辑器脚本，无具体业务逻辑，也就是说，拥有无限可能&lt;/li&gt; &#xA; &lt;li&gt;超高的扩展性，编辑器界面提供大量重写接口。很简单即可自行重写界面&lt;/li&gt; &#xA; &lt;li&gt;很简单的脚本既可完成扩展和开发，一两天即可集成进入自己项目实现技能，buff，场景等可视化编辑&lt;/li&gt; &#xA; &lt;li&gt;还有更多细节请看演示视频和演示项目&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;安装到Unity&lt;/h1&gt; &#xA;&lt;p&gt;安装地址：&lt;a href=&#34;https://github.com/NoBugCn/ActionEditor.git&#34;&gt;https://github.com/NoBugCn/ActionEditor.git&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;不熟悉从url安装package的请看&lt;a href=&#34;https://docs.unity3d.com/Manual/upm-ui-giturl.html&#34;&gt;install from giturl&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;功能预览视频&lt;/h1&gt; &#xA;&lt;p&gt;功能预览：&lt;a href=&#34;https://www.bilibili.com/video/BV1tM4y1q7xg/&#34;&gt;https://www.bilibili.com/video/BV1tM4y1q7xg/&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;快速上手&lt;/h1&gt; &#xA;&lt;p&gt;Clone源码到项目中或通过package安装编辑器后，即可开始使用。 点击菜单&lt;code&gt;NBC/Action Editor/Open Action Editor&lt;/code&gt;打开编辑窗口。 这时编辑器均为空内容。需要自行编辑填充自己需要内容。操作方法可以查看文档&lt;/p&gt; &#xA;&lt;h1&gt;文档&lt;/h1&gt; &#xA;&lt;p&gt;操作手册文档：&lt;a href=&#34;https://nobug.cn/book/414447506088261&#34;&gt;点击查看&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h1&gt;交流Q群&lt;/h1&gt; &#xA;&lt;p&gt;567604178&lt;/p&gt; &#xA;&lt;h1&gt;演示项目&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;基础功能演示项目：&lt;a href=&#34;https://github.com/NoBugCn/ActionEditorExample&#34;&gt;https://github.com/NoBugCn/ActionEditorExample&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;2D回合制项目演示：等待补充&lt;/li&gt; &#xA; &lt;li&gt;3D回合制项目演示：等待补充&lt;/li&gt; &#xA; &lt;li&gt;ARPG项目验收：等待补充&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
 </feed>

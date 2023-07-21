@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-20T01:37:30Z</updated>
+  <updated>2023-07-21T01:37:16Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KskAdch/TopologicalNumbers.jl</title>
-    <updated>2023-07-20T01:37:30Z</updated>
-    <id>tag:github.com,2023-07-20:/KskAdch/TopologicalNumbers.jl</id>
-    <link href="https://github.com/KskAdch/TopologicalNumbers.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia package for calculating topological numbers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>h-Klok/StatsWithJuliaBook</title>
+    <updated>2023-07-21T01:37:16Z</updated>
+    <id>tag:github.com,2023-07-21:/h-Klok/StatsWithJuliaBook</id>
+    <link href="https://github.com/h-Klok/StatsWithJuliaBook" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>dickoa/DMWJ</title>
+    <updated>2023-07-21T01:37:16Z</updated>
+    <id>tag:github.com,2023-07-21:/dickoa/DMWJ</id>
+    <link href="https://github.com/dickoa/DMWJ" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Data Munging With Julia&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JuliaGeometry/GeometryBasics.jl</title>
+    <updated>2023-07-21T01:37:16Z</updated>
+    <id>tag:github.com,2023-07-21:/JuliaGeometry/GeometryBasics.jl</id>
+    <link href="https://github.com/JuliaGeometry/GeometryBasics.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Basic Geometry Types&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
