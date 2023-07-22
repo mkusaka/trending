@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CoffeeScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:31:59Z</updated>
+  <updated>2023-07-22T01:32:15Z</updated>
   <subtitle>Daily Trending of CoffeeScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>waseem/freebase-search-example</title>
-    <updated>2023-07-21T01:31:59Z</updated>
-    <id>tag:github.com,2023-07-21:/waseem/freebase-search-example</id>
-    <link href="https://github.com/waseem/freebase-search-example" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A single page application demoing Freebase search.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>node-wiki/service</title>
-    <updated>2023-07-21T01:31:59Z</updated>
-    <id>tag:github.com,2023-07-21:/node-wiki/service</id>
-    <link href="https://github.com/node-wiki/service" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Backend web service supporting the node wiki system.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fklingler/loltimer</title>
+    <updated>2023-07-22T01:32:15Z</updated>
+    <id>tag:github.com,2023-07-22:/fklingler/loltimer</id>
+    <link href="https://github.com/fklingler/loltimer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Meteor.JS application to share monster respawn timers in a LoL game&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

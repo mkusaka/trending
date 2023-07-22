@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:32:04Z</updated>
+  <updated>2023-07-22T01:32:20Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bigos/young-waters-7470</title>
-    <updated>2023-07-21T01:32:04Z</updated>
-    <id>tag:github.com,2023-07-21:/bigos/young-waters-7470</id>
-    <link href="https://github.com/bigos/young-waters-7470" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;test Caveman app on Heroku&lt;/p&gt;&lt;hr&gt;&lt;p&gt;To start the app on the development machine do:&lt;/p&gt; &#xA;&lt;p&gt;(push #p&#34;~/Programming/Heroku/young-waters-7470/flintstone/&#34; asdf:&lt;em&gt;central-registry&lt;/em&gt;)&lt;/p&gt; &#xA;&lt;p&gt;(ql:quickload :flintstone) (flintstone:start)&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>jordonbiondo/find-line</title>
-    <updated>2023-07-21T01:32:04Z</updated>
-    <id>tag:github.com,2023-07-21:/jordonbiondo/find-line</id>
-    <link href="https://github.com/jordonbiondo/find-line" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Common Lisp utility to find lines matching a regexp&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Find-line A Common lisp utility script for finding lines in a file matching a regexp&lt;/li&gt; &#xA; &lt;li&gt;Usage &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;dont&#39; use it&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+    <title>thezerobit/pastelisp</title>
+    <updated>2023-07-22T01:32:20Z</updated>
+    <id>tag:github.com,2023-07-22:/thezerobit/pastelisp</id>
+    <link href="https://github.com/thezerobit/pastelisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Simple Pastebin in Common Lisp.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PASTELISP&lt;/h1&gt; &#xA;&lt;p&gt;A Simple Pastebin in Common Lisp.&lt;/p&gt; &#xA;&lt;h2&gt;INSTALL&lt;/h2&gt; &#xA;&lt;p&gt;To load in a lisp REPL: (ql:quickload &#34;pastelisp&#34;)&lt;/p&gt; &#xA;&lt;h2&gt;DEPLOYMENT&lt;/h2&gt; &#xA;&lt;p&gt;To create database:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo -u postgres createuser -D -A -P pastelispuser # pastelisppass&#xA;sudo -u postgres createdb -O pastelispuser pastelisp&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Create tables in REPL: (pastelisp:create-tables)&lt;/p&gt; &#xA;&lt;p&gt;To run local test server: (pastelisp:start-server)&lt;/p&gt; &#xA;&lt;p&gt;Uses hunchentoot and Restas under the hood, so see those projects for more detailed instructions on deployment.&lt;/p&gt; &#xA;&lt;h2&gt;Author&lt;/h2&gt; &#xA;&lt;p&gt;Stephen A. Goss (&lt;a href=&#34;mailto:steveth45@gmail.com&#34;&gt;steveth45@gmail.com&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;Copyright (c) 2012 Stephen A. Goss (&lt;a href=&#34;mailto:steveth45@gmail.com&#34;&gt;steveth45@gmail.com&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;Licensed under the Modified BSD License.&lt;/p&gt;</summary>
   </entry>
 </feed>

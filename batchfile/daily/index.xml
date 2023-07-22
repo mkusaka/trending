@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:30:28Z</updated>
+  <updated>2023-07-22T01:30:39Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Sxela/WarpFusion</title>
-    <updated>2023-07-21T01:30:28Z</updated>
-    <id>tag:github.com,2023-07-21:/Sxela/WarpFusion</id>
-    <link href="https://github.com/Sxela/WarpFusion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;WarpFusion&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>MichalStrehovsky/PublishAotCross</title>
-    <updated>2023-07-21T01:30:28Z</updated>
-    <id>tag:github.com,2023-07-21:/MichalStrehovsky/PublishAotCross</id>
-    <link href="https://github.com/MichalStrehovsky/PublishAotCross" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;NuGet package to help you cross-compile Native AOT to different OSes/architectures&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>ssjshields/archetype-counter</title>
-    <updated>2023-07-21T01:30:28Z</updated>
-    <id>tag:github.com,2023-07-21:/ssjshields/archetype-counter</id>
-    <link href="https://github.com/ssjshields/archetype-counter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PowerShell WinForm script for the online video game PokeMMO. Automatically tracks encounters (Horde, Safari, etc.) and when you receive Eggs or Fossils. Utilizes ImageMagick and OCR technology.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

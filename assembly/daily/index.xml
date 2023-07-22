@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:30:15Z</updated>
+  <updated>2023-07-22T01:30:26Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kostaspap88/PRESENT_speed_implementation</title>
-    <updated>2023-07-21T01:30:15Z</updated>
-    <id>tag:github.com,2023-07-21:/kostaspap88/PRESENT_speed_implementation</id>
-    <link href="https://github.com/kostaspap88/PRESENT_speed_implementation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A fast implementation of the PRESENT cipher on AVR ATtiny45&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>k0Iry/8080-Emulator-in-Rust</title>
-    <updated>2023-07-21T01:30:15Z</updated>
-    <id>tag:github.com,2023-07-21:/k0Iry/8080-Emulator-in-Rust</id>
-    <link href="https://github.com/k0Iry/8080-Emulator-in-Rust" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An Intel 8080 CPU emulator written in Rust&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

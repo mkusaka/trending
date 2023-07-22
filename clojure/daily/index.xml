@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:31:49Z</updated>
+  <updated>2023-07-22T01:32:04Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>schibsted/spid-tech-docs</title>
-    <updated>2023-07-21T01:31:49Z</updated>
-    <id>tag:github.com,2023-07-21:/schibsted/spid-tech-docs</id>
-    <link href="https://github.com/schibsted/spid-tech-docs" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Technical documentation for the Schibsted account platform&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>bobschrag/clolog</title>
+    <updated>2023-07-22T01:32:04Z</updated>
+    <id>tag:github.com,2023-07-22:/bobschrag/clolog</id>
+    <link href="https://github.com/bobschrag/clolog" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Full-featured logic programming (AKA &#34;Prolog&#34;) embedded in/callable from and supporting calls to Clojure. In the spirit of LogLisp, Lisp Machine Prolog, and Franz Inc.&#39;s Allegro Prolog, with some extra goodies.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>schibsted/spid-client-clojure</title>
-    <updated>2023-07-21T01:31:49Z</updated>
-    <id>tag:github.com,2023-07-21:/schibsted/spid-client-clojure</id>
-    <link href="https://github.com/schibsted/spid-client-clojure" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A very thin Clojure wrapper for the SPID Java SDK&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>scrawlings/Sandbox.CLJ</title>
-    <updated>2023-07-21T01:31:49Z</updated>
-    <id>tag:github.com,2023-07-21:/scrawlings/Sandbox.CLJ</id>
-    <link href="https://github.com/scrawlings/Sandbox.CLJ" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Exercises and experiments as I study clojure.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>devonzuegel/smallworld</title>
+    <updated>2023-07-22T01:32:04Z</updated>
+    <id>tag:github.com,2023-07-22:/devonzuegel/smallworld</id>
+    <link href="https://github.com/devonzuegel/smallworld" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Stay in touch with your friends around the world!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

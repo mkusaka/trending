@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:45:25Z</updated>
+  <updated>2023-07-22T01:46:05Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>flavioc/formal-meld</title>
-    <updated>2023-07-21T01:45:25Z</updated>
-    <id>tag:github.com,2023-07-21:/flavioc/formal-meld</id>
-    <link href="https://github.com/flavioc/formal-meld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>sweenzor/writelatex-compile</title>
+    <updated>2023-07-22T01:46:05Z</updated>
+    <id>tag:github.com,2023-07-22:/sweenzor/writelatex-compile</id>
+    <link href="https://github.com/sweenzor/writelatex-compile" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Use the writeLaTeX API to compile tex files to pdf&lt;/p&gt;&lt;hr&gt;&lt;h2&gt;writeLaTeX Compile&lt;/h2&gt; &#xA;&lt;p&gt;Use the &lt;a href=&#34;https://www.writelatex.com/devs&#34;&gt;writeLaTeX API&lt;/a&gt; to compile LaTeX files to PDF from the commandline. Without installing anything. (Other than python)&lt;/p&gt; &#xA;&lt;h3&gt;Usage&lt;/h3&gt; &#xA;&lt;pre&gt;&lt;code&gt;&amp;gt; python compile.py example.tex&#xA;Uploaded: https://www.writelatex.com/66035jrhwkk&#xA;PDF size: 55721 bytes&#xA;PDF saved: &#39;example.pdf&#39;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+  </entry>
+  <entry>
+    <title>arnaldog/cv</title>
+    <updated>2023-07-22T01:46:05Z</updated>
+    <id>tag:github.com,2023-07-22:/arnaldog/cv</id>
+    <link href="https://github.com/arnaldog/cv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Curriculum Vitae&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;cv&lt;/h1&gt; &#xA;&lt;p&gt;My Curriculum Vitae. If you are interesting in my cv, please clone and execute make to compile the document&lt;/p&gt;</summary>
   </entry>
 </feed>

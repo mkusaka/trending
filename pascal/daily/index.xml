@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Pascal Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:40:41Z</updated>
+  <updated>2023-07-22T01:41:17Z</updated>
   <subtitle>Daily Trending of Pascal in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>foxlox/hypobrychium</title>
-    <updated>2023-07-21T01:40:41Z</updated>
-    <id>tag:github.com,2023-07-21:/foxlox/hypobrychium</id>
-    <link href="https://github.com/foxlox/hypobrychium" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Duplicate not owned Token from Running Process&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>foxlox/GIUDA</title>
+    <updated>2023-07-22T01:41:17Z</updated>
+    <id>tag:github.com,2023-07-22:/foxlox/GIUDA</id>
+    <link href="https://github.com/foxlox/GIUDA" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Ask a TGS on behalf of another user without password&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>HemulGM/HGMGetIt</title>
-    <updated>2023-07-21T01:40:41Z</updated>
-    <id>tag:github.com,2023-07-21:/HemulGM/HGMGetIt</id>
-    <link href="https://github.com/HemulGM/HGMGetIt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HGMGetIt&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>stijnsanders/TRedisWire</title>
+    <updated>2023-07-22T01:41:17Z</updated>
+    <id>tag:github.com,2023-07-22:/stijnsanders/TRedisWire</id>
+    <link href="https://github.com/stijnsanders/TRedisWire" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Delphi Redis connector&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

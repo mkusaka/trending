@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:33:55Z</updated>
+  <updated>2023-07-22T01:34:39Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>elli-lib/elli</title>
-    <updated>2023-07-21T01:33:55Z</updated>
-    <id>tag:github.com,2023-07-21:/elli-lib/elli</id>
-    <link href="https://github.com/elli-lib/elli" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simple, robust and performant Erlang web server&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>A1kmm/ejabber-guest</title>
+    <updated>2023-07-22T01:34:39Z</updated>
+    <id>tag:github.com,2023-07-22:/A1kmm/ejabber-guest</id>
+    <link href="https://github.com/A1kmm/ejabber-guest" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ejabberd module to allow any user to log in as guest-* and talk to a predefined set of local users and see their presence&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Blade Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:30:35Z</updated>
+  <updated>2023-07-22T01:30:47Z</updated>
   <subtitle>Daily Trending of Blade in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Hasnayeen/invobook</title>
-    <updated>2023-07-21T01:30:35Z</updated>
-    <id>tag:github.com,2023-07-21:/Hasnayeen/invobook</id>
-    <link href="https://github.com/Hasnayeen/invobook" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Self-hosted app for Time Tracking, Invoice Generation, Project &amp; Client Management, built with Laravel &amp; Filament.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>filamentphp/filamentphp.com</title>
+    <updated>2023-07-22T01:30:47Z</updated>
+    <id>tag:github.com,2023-07-22:/filamentphp/filamentphp.com</id>
+    <link href="https://github.com/filamentphp/filamentphp.com" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Source code for the filamentphp.com website.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

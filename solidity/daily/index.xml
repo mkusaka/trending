@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-21T01:44:30Z</updated>
+  <updated>2023-07-22T01:45:13Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Cyfrin/foundry-simple-storage-f23</title>
-    <updated>2023-07-21T01:44:30Z</updated>
-    <id>tag:github.com,2023-07-21:/Cyfrin/foundry-simple-storage-f23</id>
-    <link href="https://github.com/Cyfrin/foundry-simple-storage-f23" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Orbiter-Finance/OB_ReturnCabin</title>
+    <updated>2023-07-22T01:45:13Z</updated>
+    <id>tag:github.com,2023-07-22:/Orbiter-Finance/OB_ReturnCabin</id>
+    <link href="https://github.com/Orbiter-Finance/OB_ReturnCabin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Orbiter Finance smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
