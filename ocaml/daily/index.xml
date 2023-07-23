@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub OCaml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-22T01:40:50Z</updated>
+  <updated>2023-07-23T01:40:48Z</updated>
   <subtitle>Daily Trending of OCaml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>janestreet/ppxlib_jane</title>
-    <updated>2023-07-22T01:40:50Z</updated>
-    <id>tag:github.com,2023-07-22:/janestreet/ppxlib_jane</id>
-    <link href="https://github.com/janestreet/ppxlib_jane" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Utilities for working with Jane Street AST constructs&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Common Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-22T01:32:20Z</updated>
+  <updated>2023-07-23T01:32:14Z</updated>
   <subtitle>Daily Trending of Common Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>thezerobit/pastelisp</title>
-    <updated>2023-07-22T01:32:20Z</updated>
-    <id>tag:github.com,2023-07-22:/thezerobit/pastelisp</id>
-    <link href="https://github.com/thezerobit/pastelisp" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Simple Pastebin in Common Lisp.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PASTELISP&lt;/h1&gt; &#xA;&lt;p&gt;A Simple Pastebin in Common Lisp.&lt;/p&gt; &#xA;&lt;h2&gt;INSTALL&lt;/h2&gt; &#xA;&lt;p&gt;To load in a lisp REPL: (ql:quickload &#34;pastelisp&#34;)&lt;/p&gt; &#xA;&lt;h2&gt;DEPLOYMENT&lt;/h2&gt; &#xA;&lt;p&gt;To create database:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo -u postgres createuser -D -A -P pastelispuser # pastelisppass&#xA;sudo -u postgres createdb -O pastelispuser pastelisp&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Create tables in REPL: (pastelisp:create-tables)&lt;/p&gt; &#xA;&lt;p&gt;To run local test server: (pastelisp:start-server)&lt;/p&gt; &#xA;&lt;p&gt;Uses hunchentoot and Restas under the hood, so see those projects for more detailed instructions on deployment.&lt;/p&gt; &#xA;&lt;h2&gt;Author&lt;/h2&gt; &#xA;&lt;p&gt;Stephen A. Goss (&lt;a href=&#34;mailto:steveth45@gmail.com&#34;&gt;steveth45@gmail.com&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;Copyright (c) 2012 Stephen A. Goss (&lt;a href=&#34;mailto:steveth45@gmail.com&#34;&gt;steveth45@gmail.com&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;Licensed under the Modified BSD License.&lt;/p&gt;</summary>
-  </entry>
 </feed>

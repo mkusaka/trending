@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-23T02:03:50Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Saltssaumure/synthesis-discord-theme</title>
+    <updated>2023-07-23T02:03:50Z</updated>
+    <id>tag:github.com,2023-07-23:/Saltssaumure/synthesis-discord-theme</id>
+    <link href="https://github.com/Saltssaumure/synthesis-discord-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A vibrant neon synthwave Discord theme.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nordtheme/nord</title>
+    <updated>2023-07-23T02:03:50Z</updated>
+    <id>tag:github.com,2023-07-23:/nordtheme/nord</id>
+    <link href="https://github.com/nordtheme/nord" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An arctic, north-bluish color palette.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>fffam/blackdesert-somethinglovely-map</title>
+    <updated>2023-07-23T02:03:50Z</updated>
+    <id>tag:github.com,2023-07-23:/fffam/blackdesert-somethinglovely-map</id>
+    <link href="https://github.com/fffam/blackdesert-somethinglovely-map" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Famme&#39;s BDO Tools - somethinglovely.net&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

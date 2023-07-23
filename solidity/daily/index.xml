@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-22T01:45:13Z</updated>
+  <updated>2023-07-23T01:45:18Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Orbiter-Finance/OB_ReturnCabin</title>
-    <updated>2023-07-22T01:45:13Z</updated>
-    <id>tag:github.com,2023-07-22:/Orbiter-Finance/OB_ReturnCabin</id>
-    <link href="https://github.com/Orbiter-Finance/OB_ReturnCabin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Orbiter Finance smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>techaddict0x/airdropwithafee</title>
+    <updated>2023-07-23T01:45:18Z</updated>
+    <id>tag:github.com,2023-07-23:/techaddict0x/airdropwithafee</id>
+    <link href="https://github.com/techaddict0x/airdropwithafee" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Airdrop with fee&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

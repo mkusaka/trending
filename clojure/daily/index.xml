@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-22T01:32:04Z</updated>
+  <updated>2023-07-23T01:32:00Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>bobschrag/clolog</title>
-    <updated>2023-07-22T01:32:04Z</updated>
-    <id>tag:github.com,2023-07-22:/bobschrag/clolog</id>
-    <link href="https://github.com/bobschrag/clolog" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Full-featured logic programming (AKA &#34;Prolog&#34;) embedded in/callable from and supporting calls to Clojure. In the spirit of LogLisp, Lisp Machine Prolog, and Franz Inc.&#39;s Allegro Prolog, with some extra goodies.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>gnl/playback</title>
+    <updated>2023-07-23T01:32:00Z</updated>
+    <id>tag:github.com,2023-07-23:/gnl/playback</id>
+    <link href="https://github.com/gnl/playback" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;#&gt;(tag&#39;n&#39;trace any Clojure(-Script) form to tap&gt; and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data)&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>devonzuegel/smallworld</title>
-    <updated>2023-07-22T01:32:04Z</updated>
-    <id>tag:github.com,2023-07-22:/devonzuegel/smallworld</id>
-    <link href="https://github.com/devonzuegel/smallworld" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Stay in touch with your friends around the world!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AlexBaranosky/print-foo</title>
+    <updated>2023-07-23T01:32:00Z</updated>
+    <id>tag:github.com,2023-07-23:/AlexBaranosky/print-foo</id>
+    <link href="https://github.com/AlexBaranosky/print-foo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Clojure library of print debugging macros.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>slipstream/SlipStreamServer</title>
+    <updated>2023-07-23T01:32:00Z</updated>
+    <id>tag:github.com,2023-07-23:/slipstream/SlipStreamServer</id>
+    <link href="https://github.com/slipstream/SlipStreamServer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;SlipStream RESTful web service&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

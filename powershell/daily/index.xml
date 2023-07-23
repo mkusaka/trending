@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-22T01:42:05Z</updated>
+  <updated>2023-07-23T01:42:13Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>wikijm/PowerShell-AdminScripts</title>
-    <updated>2023-07-22T01:42:05Z</updated>
-    <id>tag:github.com,2023-07-22:/wikijm/PowerShell-AdminScripts</id>
-    <link href="https://github.com/wikijm/PowerShell-AdminScripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;PowerShell Administration scripts&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PowerShell-AdminScripts&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://www.buymeacoff.ee/WikiJM&#34;&gt;&lt;img src=&#34;https://www.buymeacoffee.com/assets/img/custom_images/black_img.png&#34; alt=&#34;Buy me a coffee&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Differents PowerShell scripts that could automatize and help to manage Windows Server role &amp;amp; features like :&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Active Directory&lt;/li&gt; &#xA; &lt;li&gt;Active Directory Certificate Services&lt;/li&gt; &#xA; &lt;li&gt;Exchange&lt;/li&gt; &#xA; &lt;li&gt;FSRM&lt;/li&gt; &#xA; &lt;li&gt;Hyper-V&lt;/li&gt; &#xA; &lt;li&gt;Prepare Server (global)&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Eventually, you can find scripts related to workstations, like :&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Outlook&lt;/li&gt; &#xA; &lt;li&gt;Security (submit suspicious files to malwr.com)&lt;/li&gt; &#xA; &lt;li&gt;Manage local accounts and groups (create Admin local account)&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
-  </entry>
 </feed>

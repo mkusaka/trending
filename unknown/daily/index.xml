@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-22T01:29:27Z</updated>
+  <updated>2023-07-23T01:29:44Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ymcui/Chinese-LLaMA-Alpaca-2</title>
-    <updated>2023-07-22T01:29:27Z</updated>
-    <id>tag:github.com,2023-07-22:/ymcui/Chinese-LLaMA-Alpaca-2</id>
-    <link href="https://github.com/ymcui/Chinese-LLaMA-Alpaca-2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;中文LLaMA-2 &amp; Alpaca-2大语言模型 (Chinese LLaMA-2 &amp; Alpaca-2 LLMs)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>dharmx/walls</title>
+    <updated>2023-07-23T01:29:44Z</updated>
+    <id>tag:github.com,2023-07-23:/dharmx/walls</id>
+    <link href="https://github.com/dharmx/walls" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;All of my wallpapers in one repo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>RupertBenWiser/Web-Environment-Integrity</title>
-    <updated>2023-07-22T01:29:27Z</updated>
-    <id>tag:github.com,2023-07-22:/RupertBenWiser/Web-Environment-Integrity</id>
-    <link href="https://github.com/RupertBenWiser/Web-Environment-Integrity" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>0x4D31/detection-and-response-pipeline</title>
+    <updated>2023-07-23T01:29:44Z</updated>
+    <id>tag:github.com,2023-07-23:/0x4D31/detection-and-response-pipeline</id>
+    <link href="https://github.com/0x4D31/detection-and-response-pipeline" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;✨ A compilation of suggested tools/services for each component in a detection and response pipeline, along with real-world examples. The purpose is to create a reference hub for designing effective threat detection and response pipelines. 👷 🏗&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>matteocourthoud/awesome-causal-inference</title>
-    <updated>2023-07-22T01:29:27Z</updated>
-    <id>tag:github.com,2023-07-22:/matteocourthoud/awesome-causal-inference</id>
-    <link href="https://github.com/matteocourthoud/awesome-causal-inference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A curated list of causal inference libraries, resources, and applications.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>D3Ext/aesthetic-wallpapers</title>
+    <updated>2023-07-23T01:29:44Z</updated>
+    <id>tag:github.com,2023-07-23:/D3Ext/aesthetic-wallpapers</id>
+    <link href="https://github.com/D3Ext/aesthetic-wallpapers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An awesome collection of aesthetic wallpapers&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub MATLAB Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-23T01:58:59Z</updated>
+  <subtitle>Weekly Trending of MATLAB in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>VipaiLab/Signals-and-Systems-course</title>
+    <updated>2023-07-23T01:58:59Z</updated>
+    <id>tag:github.com,2023-07-23:/VipaiLab/Signals-and-Systems-course</id>
+    <link href="https://github.com/VipaiLab/Signals-and-Systems-course" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;浙江大学信电学院2022信号与系统课程资料&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>kotowicz/matlab-ClassInheritanceBrowser</title>
+    <updated>2023-07-23T01:58:59Z</updated>
+    <id>tag:github.com,2023-07-23:/kotowicz/matlab-ClassInheritanceBrowser</id>
+    <link href="https://github.com/kotowicz/matlab-ClassInheritanceBrowser" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A tool for managing and organizing classes, with a simple interface and (optional) tree diagram.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>blackghost/InverseApp</title>
+    <updated>2023-07-23T01:58:59Z</updated>
+    <id>tag:github.com,2023-07-23:/blackghost/InverseApp</id>
+    <link href="https://github.com/blackghost/InverseApp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;InverseApp Coded by Matlab&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

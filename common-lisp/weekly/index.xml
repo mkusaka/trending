@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-23T01:51:41Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>bigos/young-waters-7470</title>
+    <updated>2023-07-23T01:51:41Z</updated>
+    <id>tag:github.com,2023-07-23:/bigos/young-waters-7470</id>
+    <link href="https://github.com/bigos/young-waters-7470" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;test Caveman app on Heroku&lt;/p&gt;&lt;hr&gt;&lt;p&gt;To start the app on the development machine do:&lt;/p&gt; &#xA;&lt;p&gt;(push #p&#34;~/Programming/Heroku/young-waters-7470/flintstone/&#34; asdf:&lt;em&gt;central-registry&lt;/em&gt;)&lt;/p&gt; &#xA;&lt;p&gt;(ql:quickload :flintstone) (flintstone:start)&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>plops/cl-phase-space-plot</title>
+    <updated>2023-07-23T01:51:41Z</updated>
+    <id>tag:github.com,2023-07-23:/plops/cl-phase-space-plot</id>
+    <link href="https://github.com/plops/cl-phase-space-plot" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;2D phase space plot for Spatio-angular microscope&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>nklein/kata</title>
+    <updated>2023-07-23T01:51:41Z</updated>
+    <id>tag:github.com,2023-07-23:/nklein/kata</id>
+    <link href="https://github.com/nklein/kata" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Code Kata&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

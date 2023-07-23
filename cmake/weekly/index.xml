@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-23T01:51:30Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>esp-rs/esp-idf-template</title>
+    <updated>2023-07-23T01:51:30Z</updated>
+    <id>tag:github.com,2023-07-23:/esp-rs/esp-idf-template</id>
+    <link href="https://github.com/esp-rs/esp-idf-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A &#34;Hello, world!&#34; template of a Rust binary crate for the ESP-IDF framework.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Mr-Ojii/L-SMASH-Works-Auto-Builds</title>
+    <updated>2023-07-23T01:51:30Z</updated>
+    <id>tag:github.com,2023-07-23:/Mr-Ojii/L-SMASH-Works-Auto-Builds</id>
+    <link href="https://github.com/Mr-Ojii/L-SMASH-Works-Auto-Builds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

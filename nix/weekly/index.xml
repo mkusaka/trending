@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-23T01:59:53Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>wimpysworld/nix-config</title>
+    <updated>2023-07-23T01:59:53Z</updated>
+    <id>tag:github.com,2023-07-23:/wimpysworld/nix-config</id>
+    <link href="https://github.com/wimpysworld/nix-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Wimpy&#39;s NixOS &amp; Home Manager Configurations ❄️&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>the-nix-way/dev-templates</title>
+    <updated>2023-07-23T01:59:53Z</updated>
+    <id>tag:github.com,2023-07-23:/the-nix-way/dev-templates</id>
+    <link href="https://github.com/the-nix-way/dev-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ryan4yin/nix-config</title>
+    <updated>2023-07-23T01:59:53Z</updated>
+    <id>tag:github.com,2023-07-23:/ryan4yin/nix-config</id>
+    <link href="https://github.com/ryan4yin/nix-config" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;❄️ryan4yin&#39;s nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

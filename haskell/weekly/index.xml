@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Haskell Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-23T01:55:49Z</updated>
+  <subtitle>Weekly Trending of Haskell in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>acowley/DistanceTransform</title>
+    <updated>2023-07-23T01:55:49Z</updated>
+    <id>tag:github.com,2023-07-23:/acowley/DistanceTransform</id>
+    <link href="https://github.com/acowley/DistanceTransform" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Parallel linear time n-dimensional Euclidean distance transform.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;An N-dimensional distance transform that computes the Euclidean distance between each element in a discrete field and the nearest cell containing a zero.&lt;/p&gt; &#xA;&lt;p&gt;The algorithm implemented is based off of Meijster et al., &lt;em&gt;&#34;A general algorithm for computing distance transforms in linear time.&#34;&lt;/em&gt; Parallel versions of both the Euclidean distance transform and squared Euclidean distance transform are also provided.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/acowley/DistanceTransform&#34;&gt;&lt;img src=&#34;https://travis-ci.org/acowley/DistanceTransform.png&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>McFerkin/mcferkinchat</title>
+    <updated>2023-07-23T01:55:49Z</updated>
+    <id>tag:github.com,2023-07-23:/McFerkin/mcferkinchat</id>
+    <link href="https://github.com/McFerkin/mcferkinchat" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;The best little chat server to get your team working together&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;mcferkinchat&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/McFerkin/mcferkinchat&#34;&gt;&lt;img src=&#34;https://secure.travis-ci.org/McFerkin/mcferkinchat.png?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;The best little chat server to get your team working together&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>bavardage/mu2</title>
+    <updated>2023-07-23T01:55:49Z</updated>
+    <id>tag:github.com,2023-07-23:/bavardage/mu2</id>
+    <link href="https://github.com/bavardage/mu2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lamba calculus implemented in haskell.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

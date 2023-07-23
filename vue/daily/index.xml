@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-22T01:47:13Z</updated>
+  <updated>2023-07-23T01:47:17Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fanchenio/DawnLauncher</title>
-    <updated>2023-07-22T01:47:13Z</updated>
-    <id>tag:github.com,2023-07-22:/fanchenio/DawnLauncher</id>
-    <link href="https://github.com/fanchenio/DawnLauncher" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Windows快捷启动工具，帮助您整理杂乱无章的桌面，分门别类管理您的桌面快捷方式，让您的桌面保持干净整洁。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>menthorlabs/menthor</title>
-    <updated>2023-07-22T01:47:13Z</updated>
-    <id>tag:github.com,2023-07-22:/menthorlabs/menthor</id>
-    <link href="https://github.com/menthorlabs/menthor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>oslabs-beta/VisiVue</title>
+    <updated>2023-07-23T01:47:17Z</updated>
+    <id>tag:github.com,2023-07-23:/oslabs-beta/VisiVue</id>
+    <link href="https://github.com/oslabs-beta/VisiVue" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A VS Code extension visualizer for stateful Vue components&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

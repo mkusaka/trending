@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub WebAssembly Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-23T02:06:35Z</updated>
+  <subtitle>Weekly Trending of WebAssembly in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>abrown/thread-spawn</title>
+    <updated>2023-07-23T02:06:35Z</updated>
+    <id>tag:github.com,2023-07-23:/abrown/thread-spawn</id>
+    <link href="https://github.com/abrown/thread-spawn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A draft proposal for spawning threads in WebAssembly&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

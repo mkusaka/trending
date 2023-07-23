@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Liquid Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-23T01:58:20Z</updated>
+  <subtitle>Weekly Trending of Liquid in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Shopify/extensions-templates</title>
+    <updated>2023-07-23T01:58:20Z</updated>
+    <id>tag:github.com,2023-07-23:/Shopify/extensions-templates</id>
+    <link href="https://github.com/Shopify/extensions-templates" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>CIRCL/misp-lea-website</title>
+    <updated>2023-07-23T01:58:20Z</updated>
+    <id>tag:github.com,2023-07-23:/CIRCL/misp-lea-website</id>
+    <link href="https://github.com/CIRCL/misp-lea-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;misp-lea.org website&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
