@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Apex Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:30:14Z</updated>
+  <updated>2023-07-24T01:30:12Z</updated>
   <subtitle>Daily Trending of Apex in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>vkeenan/ai-gateway</title>
+    <updated>2023-07-24T01:30:12Z</updated>
+    <id>tag:github.com,2023-07-24:/vkeenan/ai-gateway</id>
+    <link href="https://github.com/vkeenan/ai-gateway" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;AI Gateway integrates OpenAI&#39;s GPT models directly into Salesforce for powerful AI text generation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

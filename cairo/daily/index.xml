@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cairo Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:31:41Z</updated>
+  <updated>2023-07-24T01:31:39Z</updated>
   <subtitle>Daily Trending of Cairo in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>credence0x/cairo-damn-vulnerable-defi</title>
-    <updated>2023-07-23T01:31:41Z</updated>
-    <id>tag:github.com,2023-07-23:/credence0x/cairo-damn-vulnerable-defi</id>
-    <link href="https://github.com/credence0x/cairo-damn-vulnerable-defi" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Damn Vulnerable Defi for Starknet&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rkdud007/chess-dojo</title>
-    <updated>2023-07-23T01:31:41Z</updated>
-    <id>tag:github.com,2023-07-23:/rkdud007/chess-dojo</id>
-    <link href="https://github.com/rkdud007/chess-dojo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>foundry-rs/starknet-foundry</title>
-    <updated>2023-07-23T01:31:41Z</updated>
-    <id>tag:github.com,2023-07-23:/foundry-rs/starknet-foundry</id>
-    <link href="https://github.com/foundry-rs/starknet-foundry" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blazing fast toolkit for developing Starknet contracts.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

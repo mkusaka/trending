@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:42:13Z</updated>
+  <updated>2023-07-24T01:42:23Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>mr-r3b00t/CVE-2023-3519</title>
+    <updated>2023-07-24T01:42:23Z</updated>
+    <id>tag:github.com,2023-07-24:/mr-r3b00t/CVE-2023-3519</id>
+    <link href="https://github.com/mr-r3b00t/CVE-2023-3519" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;CVE-2023-3519&lt;/h1&gt; &#xA;&lt;p&gt;Because you can run powershell on ur mum&#39;s PC without having to install NMAP or PYTHON or tell anyone you run ARCH! ;) x&lt;/p&gt;</summary>
+  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:40:17Z</updated>
+  <updated>2023-07-24T01:40:34Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>donovanglover/nix-config</title>
-    <updated>2023-07-23T01:40:17Z</updated>
-    <id>tag:github.com,2023-07-23:/donovanglover/nix-config</id>
-    <link href="https://github.com/donovanglover/nix-config" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>heywoodlh/nixos-configs</title>
+    <updated>2023-07-24T01:40:34Z</updated>
+    <id>tag:github.com,2023-07-24:/heywoodlh/nixos-configs</id>
+    <link href="https://github.com/heywoodlh/nixos-configs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;nixpkgs&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

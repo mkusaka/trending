@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub YAML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:47:57Z</updated>
+  <updated>2023-07-24T01:47:46Z</updated>
   <subtitle>Daily Trending of YAML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>shaderecker/ansible-pihole</title>
+    <updated>2023-07-24T01:47:46Z</updated>
+    <id>tag:github.com,2023-07-24:/shaderecker/ansible-pihole</id>
+    <link href="https://github.com/shaderecker/ansible-pihole" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Bootstrap a Raspberry Pi with Ansible and install Docker + Pi-hole&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

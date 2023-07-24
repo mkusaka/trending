@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:30:46Z</updated>
+  <updated>2023-07-24T01:30:47Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Azure/Azure-Governance-Visualizer-Accelerator</title>
-    <updated>2023-07-23T01:30:46Z</updated>
-    <id>tag:github.com,2023-07-23:/Azure/Azure-Governance-Visualizer-Accelerator</id>
-    <link href="https://github.com/Azure/Azure-Governance-Visualizer-Accelerator" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An accelerator to help you deploy AzGovViz in your own environments quickly.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:44:33Z</updated>
+  <updated>2023-07-24T01:44:35Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>DiscordStyles/Fluent</title>
-    <updated>2023-07-23T01:44:33Z</updated>
-    <id>tag:github.com,2023-07-23:/DiscordStyles/Fluent</id>
-    <link href="https://github.com/DiscordStyles/Fluent" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Brings the look of Windows 11 to Discord.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>nileane/TangerineUI-for-Mastodon</title>
+    <updated>2023-07-24T01:44:35Z</updated>
+    <id>tag:github.com,2023-07-24:/nileane/TangerineUI-for-Mastodon</id>
+    <link href="https://github.com/nileane/TangerineUI-for-Mastodon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Tangerine redesign for Mastodon&#39;s Web UI. 🍊🐘&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>zerostaticthemes/hugo-whisper-theme</title>
-    <updated>2023-07-23T01:44:33Z</updated>
-    <id>tag:github.com,2023-07-23:/zerostaticthemes/hugo-whisper-theme</id>
-    <link href="https://github.com/zerostaticthemes/hugo-whisper-theme" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Whisper is a minimal documentation theme for Hugo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>files-community/Website</title>
+    <updated>2023-07-24T01:44:35Z</updated>
+    <id>tag:github.com,2023-07-24:/files-community/Website</id>
+    <link href="https://github.com/files-community/Website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>StaticJsCMS/static-cms-hugo-netlify-template</title>
+    <updated>2023-07-24T01:44:35Z</updated>
+    <id>tag:github.com,2023-07-24:/StaticJsCMS/static-cms-hugo-netlify-template</id>
+    <link href="https://github.com/StaticJsCMS/static-cms-hugo-netlify-template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Hugo template with Static CMS on Netlify&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

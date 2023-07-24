@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Standard ML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:45:28Z</updated>
+  <updated>2023-07-24T01:45:29Z</updated>
   <subtitle>Daily Trending of Standard ML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>kfl/mosml-js</title>
-    <updated>2023-07-23T01:45:28Z</updated>
-    <id>tag:github.com,2023-07-23:/kfl/mosml-js</id>
-    <link href="https://github.com/kfl/mosml-js" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Javascript backend for Moscow ML&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

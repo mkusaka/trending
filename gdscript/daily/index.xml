@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub GDScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:35:07Z</updated>
+  <updated>2023-07-24T01:35:10Z</updated>
   <subtitle>Daily Trending of GDScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>supabase-community/godot-engine.supabase</title>
-    <updated>2023-07-23T01:35:07Z</updated>
-    <id>tag:github.com,2023-07-23:/supabase-community/godot-engine.supabase</id>
-    <link href="https://github.com/supabase-community/godot-engine.supabase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A lightweight addon which integrates Supabase APIs for Godot Engine out of the box.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>MrWalkmanDev/AdaptiSound</title>
+    <updated>2023-07-24T01:35:10Z</updated>
+    <id>tag:github.com,2023-07-24:/MrWalkmanDev/AdaptiSound</id>
+    <link href="https://github.com/MrWalkmanDev/AdaptiSound" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Background Audio Manager for Godot 4.0&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

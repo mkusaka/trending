@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:42:31Z</updated>
+  <updated>2023-07-24T01:42:43Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>example42/puppet-sysklogd</title>
-    <updated>2023-07-23T01:42:31Z</updated>
-    <id>tag:github.com,2023-07-23:/example42/puppet-sysklogd</id>
-    <link href="https://github.com/example42/puppet-sysklogd" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module for Sysklogd&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>example42/puppet-haproxy</title>
-    <updated>2023-07-23T01:42:31Z</updated>
-    <id>tag:github.com,2023-07-23:/example42/puppet-haproxy</id>
-    <link href="https://github.com/example42/puppet-haproxy" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;HaProxy Puppet Module&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

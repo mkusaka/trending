@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Swift Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:45:48Z</updated>
+  <updated>2023-07-24T01:45:49Z</updated>
   <subtitle>Daily Trending of Swift in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>anyproto/anytype-swift</title>
-    <updated>2023-07-23T01:45:48Z</updated>
-    <id>tag:github.com,2023-07-23:/anyproto/anytype-swift</id>
-    <link href="https://github.com/anyproto/anytype-swift" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official Anytype client for iOS&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Anytype&lt;/h1&gt; &#xA;&lt;p&gt;Official Anytype client for iOS.&lt;/p&gt; &#xA;&lt;h2&gt;Building the source&lt;/h2&gt; &#xA;&lt;p&gt;Use XCode to build the project.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/anyproto/anytype-heart&#34;&gt;&lt;code&gt;anytype-heart&lt;/code&gt;&lt;/a&gt; is required for a successful build.&lt;/p&gt; &#xA;&lt;h3&gt;Use pre-built &lt;code&gt;anytype-heart&lt;/code&gt;&lt;/h3&gt; &#xA;&lt;p&gt;&lt;code&gt;make setup-middle&lt;/code&gt; — install the latest &lt;code&gt;anytype-heart&lt;/code&gt; version.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;make update-middle&lt;/code&gt; — update to the latest &lt;code&gt;anytype-heart&lt;/code&gt; version&lt;/p&gt; &#xA;&lt;h3&gt;Build &lt;code&gt;anytype-heart&lt;/code&gt; locally&lt;/h3&gt; &#xA;&lt;p&gt;Clone &lt;a href=&#34;https://github.com/anyproto/anytype-heart&#34;&gt;&lt;code&gt;anytype-heart&lt;/code&gt;&lt;/a&gt; repo. Check folder structure for use &lt;code&gt;make&lt;/code&gt; in next steps:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;- Parent Directory&#xA;  | - anytype-heart&#xA;  | - anytype-swift&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Configure go environment by following instructions in &lt;a href=&#34;https://github.com/anyproto/anytype-heart&#34;&gt;&lt;code&gt;anytype-heart&lt;/code&gt;&lt;/a&gt; repo.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;make setup-middle-local&lt;/code&gt; — build and setup &lt;code&gt;anytype-heart&lt;/code&gt; from the local repo.&lt;/p&gt; &#xA;&lt;h2&gt;Contribution&lt;/h2&gt; &#xA;&lt;p&gt;Thank you for your desire to develop Anytype together.&lt;/p&gt; &#xA;&lt;p&gt;Currently, we&#39;re not ready to accept PRs, but we will in the nearest future.&lt;/p&gt; &#xA;&lt;p&gt;Follow us on &lt;a href=&#34;https://github.com/anyproto&#34;&gt;Github&lt;/a&gt; and join the &lt;a href=&#34;https://github.com/orgs/anyproto/discussions&#34;&gt;Contributors Community&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;p&gt;Made by Any — a Swiss association 🇨🇭&lt;/p&gt; &#xA;&lt;p&gt;Licensed under &lt;a href=&#34;https://raw.githubusercontent.com/anyproto/anytype-swift/develop/LICENSE.md&#34;&gt;Any Source Available License 1.0&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:45:40Z</updated>
+  <updated>2023-07-24T01:45:40Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>sunshineplan/sda</title>
-    <updated>2023-07-23T01:45:40Z</updated>
-    <id>tag:github.com,2023-07-23:/sunshineplan/sda</id>
-    <link href="https://github.com/sunshineplan/sda" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>tinovationchs/tinovation-website</title>
+    <updated>2023-07-24T01:45:40Z</updated>
+    <id>tag:github.com,2023-07-24:/tinovationchs/tinovation-website</id>
+    <link href="https://github.com/tinovationchs/tinovation-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Official website for Tinovation!&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:29:44Z</updated>
+  <updated>2023-07-24T01:29:36Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dharmx/walls</title>
-    <updated>2023-07-23T01:29:44Z</updated>
-    <id>tag:github.com,2023-07-23:/dharmx/walls</id>
-    <link href="https://github.com/dharmx/walls" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;All of my wallpapers in one repo.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>invictus717/MetaTransformer</title>
+    <updated>2023-07-24T01:29:36Z</updated>
+    <id>tag:github.com,2023-07-24:/invictus717/MetaTransformer</id>
+    <link href="https://github.com/invictus717/MetaTransformer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Meta-Transformer for Unified Multimodal Learning&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>0x4D31/detection-and-response-pipeline</title>
-    <updated>2023-07-23T01:29:44Z</updated>
-    <id>tag:github.com,2023-07-23:/0x4D31/detection-and-response-pipeline</id>
-    <link href="https://github.com/0x4D31/detection-and-response-pipeline" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;✨ A compilation of suggested tools/services for each component in a detection and response pipeline, along with real-world examples. The purpose is to create a reference hub for designing effective threat detection and response pipelines. 👷 🏗&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pengsida/learning_research</title>
+    <updated>2023-07-24T01:29:36Z</updated>
+    <id>tag:github.com,2023-07-24:/pengsida/learning_research</id>
+    <link href="https://github.com/pengsida/learning_research" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;本人的科研经验&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>D3Ext/aesthetic-wallpapers</title>
-    <updated>2023-07-23T01:29:44Z</updated>
-    <id>tag:github.com,2023-07-23:/D3Ext/aesthetic-wallpapers</id>
-    <link href="https://github.com/D3Ext/aesthetic-wallpapers" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;An awesome collection of aesthetic wallpapers&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>justjavac/auto-green</title>
+    <updated>2023-07-24T01:29:36Z</updated>
+    <id>tag:github.com,2023-07-24:/justjavac/auto-green</id>
+    <link href="https://github.com/justjavac/auto-green" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自动保持 GitHub 提交状态常绿 a commit every day, keep your girlfriend far away.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

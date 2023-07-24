@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:45:18Z</updated>
+  <updated>2023-07-24T01:45:16Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>techaddict0x/airdropwithafee</title>
-    <updated>2023-07-23T01:45:18Z</updated>
-    <id>tag:github.com,2023-07-23:/techaddict0x/airdropwithafee</id>
-    <link href="https://github.com/techaddict0x/airdropwithafee" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Airdrop with fee&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-07-amphora</title>
+    <updated>2023-07-24T01:45:16Z</updated>
+    <id>tag:github.com,2023-07-24:/code-423n4/2023-07-amphora</id>
+    <link href="https://github.com/code-423n4/2023-07-amphora" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ptahdao/lmr-partners</title>
+    <updated>2023-07-24T01:45:16Z</updated>
+    <id>tag:github.com,2023-07-24:/ptahdao/lmr-partners</id>
+    <link href="https://github.com/ptahdao/lmr-partners" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

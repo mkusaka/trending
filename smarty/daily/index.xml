@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Smarty Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:45:06Z</updated>
+  <updated>2023-07-24T01:45:07Z</updated>
   <subtitle>Daily Trending of Smarty in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>memgraph/helm-charts</title>
-    <updated>2023-07-23T01:45:06Z</updated>
-    <id>tag:github.com,2023-07-23:/memgraph/helm-charts</id>
-    <link href="https://github.com/memgraph/helm-charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Helm charts for deploying Memgraph, an open-source in-memory graph database.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>juicedata/charts</title>
-    <updated>2023-07-23T01:45:06Z</updated>
-    <id>tag:github.com,2023-07-23:/juicedata/charts</id>
-    <link href="https://github.com/juicedata/charts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

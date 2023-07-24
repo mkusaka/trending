@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:47:17Z</updated>
+  <updated>2023-07-24T01:47:04Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>oslabs-beta/VisiVue</title>
-    <updated>2023-07-23T01:47:17Z</updated>
-    <id>tag:github.com,2023-07-23:/oslabs-beta/VisiVue</id>
-    <link href="https://github.com/oslabs-beta/VisiVue" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A VS Code extension visualizer for stateful Vue components&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>CatsJuice/svg-drawing</title>
+    <updated>2023-07-24T01:47:04Z</updated>
+    <id>tag:github.com,2023-07-24:/CatsJuice/svg-drawing</id>
+    <link href="https://github.com/CatsJuice/svg-drawing" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A canvas for easy sketching and replay, exportable in SVG format.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cfour-hi/gitstars</title>
+    <updated>2023-07-24T01:47:04Z</updated>
+    <id>tag:github.com,2023-07-24:/cfour-hi/gitstars</id>
+    <link href="https://github.com/cfour-hi/gitstars" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Github Starred Repositories Manager&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>galaxy-raiders/galaxy-raiders-web</title>
+    <updated>2023-07-24T01:47:04Z</updated>
+    <id>tag:github.com,2023-07-24:/galaxy-raiders/galaxy-raiders-web</id>
+    <link href="https://github.com/galaxy-raiders/galaxy-raiders-web" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Web interface for the API project of MAC0218 - Programming Techniques II at @usp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

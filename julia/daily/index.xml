@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:37:55Z</updated>
+  <updated>2023-07-24T01:38:03Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>johnryantaylor/FDSE</title>
-    <updated>2023-07-23T01:37:55Z</updated>
-    <id>tag:github.com,2023-07-23:/johnryantaylor/FDSE</id>
-    <link href="https://github.com/johnryantaylor/FDSE" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Documentation and scripts for the computational projects for the Fluid Dynamics of Sustainability and the Environment (FDSE) summer school&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>narijauskas/PRONTO.jl</title>
-    <updated>2023-07-23T01:37:55Z</updated>
-    <id>tag:github.com,2023-07-23:/narijauskas/PRONTO.jl</id>
-    <link href="https://github.com/narijauskas/PRONTO.jl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Julia implementation of PRONTO&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

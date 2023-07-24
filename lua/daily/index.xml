@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Lua Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:38:59Z</updated>
+  <updated>2023-07-24T01:39:10Z</updated>
   <subtitle>Daily Trending of Lua in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>mvaldes14/terraform.nvim</title>
-    <updated>2023-07-23T01:38:59Z</updated>
-    <id>tag:github.com,2023-07-23:/mvaldes14/terraform.nvim</id>
-    <link href="https://github.com/mvaldes14/terraform.nvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Plan and Explore your terraform resources from nvim&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Overview&lt;/h1&gt; &#xA;&lt;p&gt;If you do a lot of terraform manifests, and you would like to see quickly the current state of your objects or how the plan would look like, this plugin is for you.&lt;/p&gt; &#xA;&lt;h1&gt;Requirements&lt;/h1&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://developer.hashicorp.com/terraform/downloads&#34;&gt; Terraform &lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/nvim-lua/plenary.nvim&#34;&gt; Plenary &lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/nvim-telescope/telescope.nvim&#34;&gt; Telescope &lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://github.com/MunifTanjim/nui.nvim&#34;&gt; Nui &lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Usage&lt;/h1&gt; &#xA;&lt;p&gt;It currently supports 2 commands:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;code&gt;TerraformPlan&lt;/code&gt; =&amp;gt; Will run a plan and show the overall information on a pop-up window&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/mvaldes14/terraform.nvim/master/terraform-plan.png&#34; alt=&#34;Plan&#34;&gt;&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt; &lt;p&gt;&lt;code&gt;TerraformExplore&lt;/code&gt; =&amp;gt; Will inspect your terraform state and open up a telescope window with a list of all your resources. &lt;img src=&#34;https://raw.githubusercontent.com/mvaldes14/terraform.nvim/master/terraform-explore.png&#34; alt=&#34;Explorer&#34;&gt;&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Selected resource will show a preview of the resource according to the state in the telescope previewer window, useful to get a quick glance for things like VPCs, Security Groups, etc.&lt;/p&gt; &lt;/li&gt; &#xA; &lt;li&gt; &lt;p&gt;Selecting an item will take you to the resource selected in the right line and file&lt;/p&gt; &lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h1&gt;Contributing&lt;/h1&gt; &#xA;&lt;p&gt;Open to suggestions and enhancements&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://raw.githubusercontent.com/mvaldes14/terraform.nvim/master/LICENSE&#34;&gt;LICENSE&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

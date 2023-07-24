@@ -1,28 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:32:00Z</updated>
+  <updated>2023-07-24T01:31:54Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gnl/playback</title>
-    <updated>2023-07-23T01:32:00Z</updated>
-    <id>tag:github.com,2023-07-23:/gnl/playback</id>
-    <link href="https://github.com/gnl/playback" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;#&gt;(tag&#39;n&#39;trace any Clojure(-Script) form to tap&gt; and Portal with automatic last-input function replay on eval, instant re-render and effortless extraction of traced data)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>AlexBaranosky/print-foo</title>
-    <updated>2023-07-23T01:32:00Z</updated>
-    <id>tag:github.com,2023-07-23:/AlexBaranosky/print-foo</id>
-    <link href="https://github.com/AlexBaranosky/print-foo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Clojure library of print debugging macros.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>slipstream/SlipStreamServer</title>
-    <updated>2023-07-23T01:32:00Z</updated>
-    <id>tag:github.com,2023-07-23:/slipstream/SlipStreamServer</id>
-    <link href="https://github.com/slipstream/SlipStreamServer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;SlipStream RESTful web service&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>clj-commons/humanize</title>
+    <updated>2023-07-24T01:31:54Z</updated>
+    <id>tag:github.com,2023-07-24:/clj-commons/humanize</id>
+    <link href="https://github.com/clj-commons/humanize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Produce human readable strings in clojure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

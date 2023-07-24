@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-23T01:41:24Z</updated>
+  <updated>2023-07-24T01:41:36Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>jjfalling/das_uber_perl_utility</title>
-    <updated>2023-07-23T01:41:24Z</updated>
-    <id>tag:github.com,2023-07-23:/jjfalling/das_uber_perl_utility</id>
-    <link href="https://github.com/jjfalling/das_uber_perl_utility" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Perl utility designed to make non-interactive scripts interactive.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;Das Über Perl Utility&lt;/p&gt; &#xA;&lt;p&gt;This was created to run tools by hand that would normally be run by system processes or jobs, and give them some sort of interactive mode.&lt;/p&gt; &#xA;&lt;p&gt;The thought is this: das_uber_perl_utility.pl is the main script and includes some global variables, etc. It looks in a modules directory for modules or wrappers that end in .pl. It asks the user which one to run, includes the one they picked, and runs the function inside that file with the same name as the file minus .pl .&lt;/p&gt; &#xA;&lt;p&gt;There are three example modules that run other perl scripts in some of my other repos. Check if ip free and snmp rename port could be used by almost anyone. change vlan pulls from a asset db (modified version of rackmonkey) and is less useful to others but might be a good example to some.&lt;/p&gt; &#xA;&lt;p&gt;The main program uses: Term::ANSIColor; Term::Cap;&lt;/p&gt; &#xA;&lt;p&gt;The modules have their own requirements. Please check them to see what they import.&lt;/p&gt;</summary>
-  </entry>
 </feed>
