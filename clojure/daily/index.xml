@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-24T01:31:54Z</updated>
+  <updated>2023-07-25T01:32:02Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>clj-commons/humanize</title>
-    <updated>2023-07-24T01:31:54Z</updated>
-    <id>tag:github.com,2023-07-24:/clj-commons/humanize</id>
-    <link href="https://github.com/clj-commons/humanize" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Produce human readable strings in clojure&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>HendrikLevering/electric_three_demo</title>
+    <updated>2023-07-25T01:32:02Z</updated>
+    <id>tag:github.com,2023-07-25:/HendrikLevering/electric_three_demo</id>
+    <link href="https://github.com/HendrikLevering/electric_three_demo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;showcase how to integrate three OpenGL library into Clojure electric&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>phronmophobic/llama.clj</title>
+    <updated>2023-07-25T01:32:02Z</updated>
+    <id>tag:github.com,2023-07-25:/phronmophobic/llama.clj</id>
+    <link href="https://github.com/phronmophobic/llama.clj" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A clojure wrapper for llama.cpp&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

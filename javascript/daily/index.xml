@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub JavaScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-24T01:37:22Z</updated>
+  <updated>2023-07-25T01:37:30Z</updated>
   <subtitle>Daily Trending of JavaScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>PlaceNL/Userscript</title>
-    <updated>2023-07-24T01:37:22Z</updated>
-    <id>tag:github.com,2023-07-24:/PlaceNL/Userscript</id>
-    <link href="https://github.com/PlaceNL/Userscript" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The easiest way to run our automated placer, right from your browser&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Userscript&lt;/h1&gt; &#xA;&lt;p&gt;The easiest way to run our automated placer, right from your browser!&lt;/p&gt; &#xA;&lt;h2&gt;Downloads&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/PlaceNL/Userscript/releases/download/latest/placenl-userscript-autoupdater.user.js&#34;&gt;Auto-updating version&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/PlaceNL/Userscript/releases/download/latest/placenl-userscript.user.js&#34;&gt;Manual update version&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;If you don&#39;t want to have to worry about manually updating the userscript every time we make a change, pick the auto-updating version. When using the manual update version, please regularly check for updates.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>PlaceDE-Official/zinnsoldat</title>
-    <updated>2023-07-24T01:37:22Z</updated>
-    <id>tag:github.com,2023-07-24:/PlaceDE-Official/zinnsoldat</id>
-    <link href="https://github.com/PlaceDE-Official/zinnsoldat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Bookmarklet to inject the placeDE bot client into your browser.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Zinnsoldat Bookmarklet&lt;/h1&gt; &#xA;&lt;p&gt;Used to inject the bot client into your browser.&lt;/p&gt; &#xA;&lt;h2&gt;Building&lt;/h2&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Install &lt;code&gt;npm install uglify-js -g&lt;/code&gt;&lt;/li&gt; &#xA; &lt;li&gt;Build with &lt;code&gt;make bookmarklet&lt;/code&gt; or &lt;code&gt;make tampermonkey&lt;/code&gt;&lt;/li&gt; &#xA;&lt;/ol&gt;</summary>
-  </entry>
-  <entry>
-    <title>hiteshchoudhary/js-hindi-youtube</title>
-    <updated>2023-07-24T01:37:22Z</updated>
-    <id>tag:github.com,2023-07-24:/hiteshchoudhary/js-hindi-youtube</id>
-    <link href="https://github.com/hiteshchoudhary/js-hindi-youtube" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A code repo for javascript series at Chai aur code youtube channel&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;js-hindi-youtube&lt;/h1&gt; &#xA;&lt;p&gt;A code repo for javascript series at Chai aur code youtube channel&lt;/p&gt; &#xA;&lt;hr&gt; &#xA;&lt;h2&gt;Projects for practice&lt;/h2&gt; &#xA;&lt;p&gt;All projects are available here in a special sandbox. All future projects will also be added on the same link. &lt;a href=&#34;https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html&#34;&gt;Javascript Projects&lt;/a&gt;&lt;/p&gt;</summary>
-  </entry>
 </feed>

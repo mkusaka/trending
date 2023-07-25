@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dockerfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-24T01:33:13Z</updated>
+  <updated>2023-07-25T01:33:17Z</updated>
   <subtitle>Daily Trending of Dockerfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>render-examples/rabbitmq</title>
-    <updated>2023-07-24T01:33:13Z</updated>
-    <id>tag:github.com,2023-07-24:/render-examples/rabbitmq</id>
-    <link href="https://github.com/render-examples/rabbitmq" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RabbitMQ on Render&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;RabbitMQ on Render&lt;/h1&gt; &#xA;&lt;p&gt;This is a template repo for running a RabbitMQ instance as a &lt;strong&gt;web service&lt;/strong&gt; on Render.&lt;/p&gt; &#xA;&lt;p&gt;It uses the &lt;a href=&#34;https://hub.docker.com/_/rabbitmq&#34;&gt;official Dockerfile&lt;/a&gt; and backs RabbitMQ with a &lt;a href=&#34;https://render.com/docs/disks&#34;&gt;Render disk&lt;/a&gt;, making it resilient to data loss in the case of restarts or deploys.&lt;/p&gt; &#xA;&lt;h3&gt;Deployment&lt;/h3&gt; &#xA;&lt;p&gt;See &lt;a href=&#34;https://render.com/docs/deploy-rabbitmq&#34;&gt;https://render.com/docs/deploy-rabbitmq&lt;/a&gt;.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <title>rooted-cyber/ultroid-bot</title>
-    <updated>2023-07-24T01:33:13Z</updated>
-    <id>tag:github.com,2023-07-24:/rooted-cyber/ultroid-bot</id>
-    <link href="https://github.com/rooted-cyber/ultroid-bot" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;ultroid-bot&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;wget https://gist.githubusercontent.com/rooted-cyber/143d3602a7b7dc476a9e6a9c4bf59a02/raw/deploy;bash dep*&#xA;&#xA;&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
+    <title>sibedge-llc/plv8-dockerfiles</title>
+    <updated>2023-07-25T01:33:17Z</updated>
+    <id>tag:github.com,2023-07-25:/sibedge-llc/plv8-dockerfiles</id>
+    <link href="https://github.com/sibedge-llc/plv8-dockerfiles" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Dockerfiles for building postgres+plv8 images&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Dockerfiles for building Postgres+PLV8 images&lt;/h1&gt; &#xA;&lt;h2&gt;Published images built from these Dockerfiles&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/sibedge/postgres-plv8&#34;&gt;sibedge/postgres-plv8&lt;/a&gt;, Default build&lt;/li&gt; &#xA; &lt;li&gt;&lt;a href=&#34;https://hub.docker.com/r/sibedge/postgres-plv8&#34;&gt;sibedge/postgres-plv8-bigint&lt;/a&gt;, Mod with BigInt serialization support&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;h2&gt;Authors&lt;/h2&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Alexey Fadeev &lt;a href=&#34;mailto:fadeevas@sibedge.com&#34;&gt;fadeevas@sibedge.com&lt;/a&gt;, sibedge, Tomsk, Russia&lt;/li&gt; &#xA; &lt;li&gt;Vsevolod Morotskiy &lt;a href=&#34;mailto:seva@sibedge.com&#34;&gt;seva@sibedge.com&lt;/a&gt;, sibedge, Australia&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
   </entry>
 </feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-24T01:45:40Z</updated>
+  <updated>2023-07-25T01:45:11Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tinovationchs/tinovation-website</title>
-    <updated>2023-07-24T01:45:40Z</updated>
-    <id>tag:github.com,2023-07-24:/tinovationchs/tinovation-website</id>
-    <link href="https://github.com/tinovationchs/tinovation-website" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Official website for Tinovation!&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>TheoIsDumb/paattu</title>
+    <updated>2023-07-25T01:45:11Z</updated>
+    <id>tag:github.com,2023-07-25:/TheoIsDumb/paattu</id>
+    <link href="https://github.com/TheoIsDumb/paattu" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A libre music frontend powered by SvelteKit.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

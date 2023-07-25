@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Elixir Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-24T01:34:14Z</updated>
+  <updated>2023-07-25T01:34:15Z</updated>
   <subtitle>Daily Trending of Elixir in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>tfwright/live_admin</title>
-    <updated>2023-07-24T01:34:14Z</updated>
-    <id>tag:github.com,2023-07-24:/tfwright/live_admin</id>
-    <link href="https://github.com/tfwright/live_admin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Low-config Admin UI for Phoenix apps, built on LiveView&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>fireproofsocks/cowrie</title>
+    <updated>2023-07-25T01:34:15Z</updated>
+    <id>tag:github.com,2023-07-25:/fireproofsocks/cowrie</id>
+    <link href="https://github.com/fireproofsocks/cowrie" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Cowrie helps you print beautiful and consistent Terminal output to the Shell of your Elixir apps using familiar functions inspired by HTML&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
