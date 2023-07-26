@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-25T01:46:34Z</updated>
+  <updated>2023-07-26T01:46:14Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>emacs-eaf/eaf-map</title>
-    <updated>2023-07-25T01:46:34Z</updated>
-    <id>tag:github.com,2023-07-25:/emacs-eaf/eaf-map</id>
-    <link href="https://github.com/emacs-eaf/eaf-map" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;OpenStreetMap application for EAF.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>kevin2li/PDF-Guru</title>
-    <updated>2023-07-25T01:46:34Z</updated>
-    <id>tag:github.com,2023-07-25:/kevin2li/PDF-Guru</id>
-    <link href="https://github.com/kevin2li/PDF-Guru" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A Multi-purpose PDF file processing tool with a nice UI that supports merge, split, rotate, reorder, delete, scale, crop, watermark, encrypt/decrypt, bookmark, extract, compress, etc.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Shirley-WeiVi/ShirleyAi-NlpCorpusViews</title>
-    <updated>2023-07-25T01:46:34Z</updated>
-    <id>tag:github.com,2023-07-25:/Shirley-WeiVi/ShirleyAi-NlpCorpusViews</id>
-    <link href="https://github.com/Shirley-WeiVi/ShirleyAi-NlpCorpusViews" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ShirleyAi专用NLP语料视图工具，它可以用于编辑、管理、导出不同格式或更新语料库。&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Puppet Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-25T01:42:24Z</updated>
+  <updated>2023-07-26T01:41:28Z</updated>
   <subtitle>Daily Trending of Puppet in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>Icinga/puppet-icinga2</title>
-    <updated>2023-07-25T01:42:24Z</updated>
-    <id>tag:github.com,2023-07-25:/Icinga/puppet-icinga2</id>
-    <link href="https://github.com/Icinga/puppet-icinga2" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Puppet module to manage Icinga 2&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

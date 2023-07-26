@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-25T01:32:02Z</updated>
+  <updated>2023-07-26T01:31:39Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>HendrikLevering/electric_three_demo</title>
-    <updated>2023-07-25T01:32:02Z</updated>
-    <id>tag:github.com,2023-07-25:/HendrikLevering/electric_three_demo</id>
-    <link href="https://github.com/HendrikLevering/electric_three_demo" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;showcase how to integrate three OpenGL library into Clojure electric&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>KingMob/TrueGrit</title>
+    <updated>2023-07-26T01:31:39Z</updated>
+    <id>tag:github.com,2023-07-26:/KingMob/TrueGrit</id>
+    <link href="https://github.com/KingMob/TrueGrit" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A data-driven, functionally-oriented, idiomatic Clojure library for circuit breakers, bulkheads, retries, rate limiters, timeouts, etc.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>phronmophobic/llama.clj</title>
-    <updated>2023-07-25T01:32:02Z</updated>
-    <id>tag:github.com,2023-07-25:/phronmophobic/llama.clj</id>
-    <link href="https://github.com/phronmophobic/llama.clj" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A clojure wrapper for llama.cpp&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>status-im/clj-rn</title>
+    <updated>2023-07-26T01:31:39Z</updated>
+    <id>tag:github.com,2023-07-26:/status-im/clj-rn</id>
+    <link href="https://github.com/status-im/clj-rn" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A utility for building ClojureScript-based React Native apps&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Frozenlock/force-serialize</title>
+    <updated>2023-07-26T01:31:39Z</updated>
+    <id>tag:github.com,2023-07-26:/Frozenlock/force-serialize</id>
+    <link href="https://github.com/Frozenlock/force-serialize" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Return beautiful serialized functions instead of ugly java objects.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

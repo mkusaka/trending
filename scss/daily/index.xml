@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-25T01:44:11Z</updated>
+  <updated>2023-07-26T01:43:23Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>MurodiljonDev/home___team</title>
+    <updated>2023-07-26T01:43:23Z</updated>
+    <id>tag:github.com,2023-07-26:/MurodiljonDev/home___team</id>
+    <link href="https://github.com/MurodiljonDev/home___team" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;gruppavoy ish&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>cpfiffer/julia-deeplearning</title>
+    <updated>2023-07-26T01:43:23Z</updated>
+    <id>tag:github.com,2023-07-26:/cpfiffer/julia-deeplearning</id>
+    <link href="https://github.com/cpfiffer/julia-deeplearning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A course repository to follow along fast.ai using Julia!&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>QualityUnit/urlslab-theme</title>
+    <updated>2023-07-26T01:43:23Z</updated>
+    <id>tag:github.com,2023-07-26:/QualityUnit/urlslab-theme</id>
+    <link href="https://github.com/QualityUnit/urlslab-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;URLsLab&#39;s WordPress Theme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

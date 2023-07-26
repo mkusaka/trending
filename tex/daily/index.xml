@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub TeX Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-25T01:45:37Z</updated>
+  <updated>2023-07-26T01:45:17Z</updated>
   <subtitle>Daily Trending of TeX in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jstac/econometric_theory_slides</title>
+    <updated>2023-07-26T01:45:17Z</updated>
+    <id>tag:github.com,2023-07-26:/jstac/econometric_theory_slides</id>
+    <link href="https://github.com/jstac/econometric_theory_slides" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Slides for A Primer in Econometric Theory&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Lecture Slides for A Primer in Econometric Theory&lt;/h1&gt; &#xA;&lt;p&gt;These lecture slides correspond to &lt;a href=&#34;http://johnstachurski.net/index.html&#34;&gt;John Stachurski&lt;/a&gt;&#39;s text &lt;a href=&#34;http://johnstachurski.net/emet.html&#34;&gt;A Primer in Econometric Theory&lt;/a&gt;, published in 2016 by MIT Press.&lt;/p&gt; &#xA;&lt;p&gt;They were written by &lt;a href=&#34;https://github.com/mathuranand&#34;&gt;Akshay Shanker&lt;/a&gt; using source LaTeX and figures from the text.&lt;/p&gt; &#xA;&lt;p&gt;It is released under a BSD (Clause 3) license and anyone can download, modify and use it as they wish. We only ask that the original authors are acknowledged.&lt;/p&gt; &#xA;&lt;p&gt;If you notice errors and know how to use Git you can submit a fix via a &lt;a href=&#34;https://github.com/jstac/econometric_theory_slides/pulls&#34;&gt;pull request&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;Alternatively, you can let us know via &lt;a href=&#34;https://github.com/jstac/econometric_theory_slides/issues&#34;&gt;the issue tracker&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
 </feed>

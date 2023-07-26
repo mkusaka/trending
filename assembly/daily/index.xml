@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-25T01:30:33Z</updated>
+  <updated>2023-07-26T01:30:07Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>therealdreg/masm32-kernel-programming</title>
-    <updated>2023-07-25T01:30:33Z</updated>
-    <id>tag:github.com,2023-07-25:/therealdreg/masm32-kernel-programming</id>
-    <link href="https://github.com/therealdreg/masm32-kernel-programming" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;masm32 kernel programming, drivers, tutorials, examples, and tools (credits Four-F)&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pret/pmd-red</title>
+    <updated>2023-07-26T01:30:07Z</updated>
+    <id>tag:github.com,2023-07-26:/pret/pmd-red</id>
+    <link href="https://github.com/pret/pmd-red" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Decompilation of Pokémon Mystery Dungeon: Red Rescue Team&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
