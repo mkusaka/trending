@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Idris Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:35:36Z</updated>
+  <updated>2023-07-27T01:35:53Z</updated>
   <subtitle>Daily Trending of Idris in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>stefan-hoeck/idris2-dom-mvc</title>
+    <updated>2023-07-27T01:35:53Z</updated>
+    <id>tag:github.com,2023-07-27:/stefan-hoeck/idris2-dom-mvc</id>
+    <link href="https://github.com/stefan-hoeck/idris2-dom-mvc" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Single Page Web Applications in Idris&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

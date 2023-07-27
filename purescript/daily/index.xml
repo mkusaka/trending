@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PureScript Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:41:33Z</updated>
+  <updated>2023-07-27T01:42:28Z</updated>
   <subtitle>Daily Trending of PureScript in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>JordanMartinez/purescript-jordans-reference</title>
-    <updated>2023-07-26T01:41:33Z</updated>
-    <id>tag:github.com,2023-07-26:/JordanMartinez/purescript-jordans-reference</id>
-    <link href="https://github.com/JordanMartinez/purescript-jordans-reference" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Learn PureScript with this &#34;clone and play&#34; repository&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

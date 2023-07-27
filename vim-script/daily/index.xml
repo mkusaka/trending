@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vim Script Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:46:08Z</updated>
+  <updated>2023-07-27T01:47:05Z</updated>
   <subtitle>Daily Trending of Vim Script in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>ja-b/vim_settings</title>
-    <updated>2023-07-26T01:46:08Z</updated>
-    <id>tag:github.com,2023-07-26:/ja-b/vim_settings</id>
-    <link href="https://github.com/ja-b/vim_settings" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Very Straightforward&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>robbenmu/dotvim</title>
-    <updated>2023-07-26T01:46:08Z</updated>
-    <id>tag:github.com,2023-07-26:/robbenmu/dotvim</id>
-    <link href="https://github.com/robbenmu/dotvim" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;vimrc&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>blargg/dot_files</title>
+    <updated>2023-07-27T01:47:05Z</updated>
+    <id>tag:github.com,2023-07-27:/blargg/dot_files</id>
+    <link href="https://github.com/blargg/dot_files" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;(deprecated: see blargg/dotfiles instead) My personal dot files&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

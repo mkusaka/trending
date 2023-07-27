@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Svelte Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:44:34Z</updated>
+  <updated>2023-07-27T01:45:34Z</updated>
   <subtitle>Daily Trending of Svelte in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>juxtopposed/stacksorted</title>
-    <updated>2023-07-26T01:44:34Z</updated>
-    <id>tag:github.com,2023-07-26:/juxtopposed/stacksorted</id>
-    <link href="https://github.com/juxtopposed/stacksorted" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Find Inspiration in Design Elements.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>animotionjs/animotion</title>
+    <updated>2023-07-27T01:45:34Z</updated>
+    <id>tag:github.com,2023-07-27:/animotionjs/animotion</id>
+    <link href="https://github.com/animotionjs/animotion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🪄 Create beautiful presentations with Svelte&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>SITU-Research/codec</title>
-    <updated>2023-07-26T01:44:34Z</updated>
-    <id>tag:github.com,2023-07-26:/SITU-Research/codec</id>
-    <link href="https://github.com/SITU-Research/codec" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Codec is a collaborative tool for managing video evidence.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Byte-Labs-Project/bl-realtor</title>
+    <updated>2023-07-27T01:45:34Z</updated>
+    <id>tag:github.com,2023-07-27:/Byte-Labs-Project/bl-realtor</id>
+    <link href="https://github.com/Byte-Labs-Project/bl-realtor" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>dekdevy/idm</title>
-    <updated>2023-07-26T01:44:34Z</updated>
-    <id>tag:github.com,2023-07-26:/dekdevy/idm</id>
-    <link href="https://github.com/dekdevy/idm" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Tag images, batch resize, export, string interpolated descriptions + common image dataset utilities&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Xyphyn/photon</title>
+    <updated>2023-07-27T01:45:34Z</updated>
+    <id>tag:github.com,2023-07-27:/Xyphyn/photon</id>
+    <link href="https://github.com/Xyphyn/photon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A lemmy client&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown languages Daily Trending</title>
+  <title>GitHub Unknown Languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:29:15Z</updated>
-  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
+  <updated>2023-07-27T01:27:34Z</updated>
+  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>0xperator/hookbot_source</title>
-    <updated>2023-07-26T01:29:15Z</updated>
-    <id>tag:github.com,2023-07-26:/0xperator/hookbot_source</id>
-    <link href="https://github.com/0xperator/hookbot_source" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains a few leaked files of HookBot.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>spurin/KCNA-Study-Group</title>
+    <updated>2023-07-27T01:27:34Z</updated>
+    <id>tag:github.com,2023-07-27:/spurin/KCNA-Study-Group</id>
+    <link href="https://github.com/spurin/KCNA-Study-Group" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Kubernetes and Cloud Native Associate - Study Group&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abhishekkrthakur/approachingalmost</title>
-    <updated>2023-07-26T01:29:15Z</updated>
-    <id>tag:github.com,2023-07-26:/abhishekkrthakur/approachingalmost</id>
-    <link href="https://github.com/abhishekkrthakur/approachingalmost" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Approaching (Almost) Any Machine Learning Problem&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mengzehe/TVBox</title>
+    <updated>2023-07-27T01:27:34Z</updated>
+    <id>tag:github.com,2023-07-27:/mengzehe/TVBox</id>
+    <link href="https://github.com/mengzehe/TVBox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;TVBox自用源以及仓库源、直播源等&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>damo-vilab/AnyDoor</title>
-    <updated>2023-07-26T01:29:15Z</updated>
-    <id>tag:github.com,2023-07-26:/damo-vilab/AnyDoor</id>
-    <link href="https://github.com/damo-vilab/AnyDoor" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>iptv-org/awesome-iptv</title>
+    <updated>2023-07-27T01:27:34Z</updated>
+    <id>tag:github.com,2023-07-27:/iptv-org/awesome-iptv</id>
+    <link href="https://github.com/iptv-org/awesome-iptv" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A curated list of resources related to IPTV&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub CMake Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:31:45Z</updated>
+  <updated>2023-07-27T01:30:28Z</updated>
   <subtitle>Daily Trending of CMake in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NilFoundation/crypto3</title>
+    <updated>2023-07-27T01:30:28Z</updated>
+    <id>tag:github.com,2023-07-27:/NilFoundation/crypto3</id>
+    <link href="https://github.com/NilFoundation/crypto3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern Cryptography Suite in C++17&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SFML/cmake-sfml-project</title>
+    <updated>2023-07-27T01:30:28Z</updated>
+    <id>tag:github.com,2023-07-27:/SFML/cmake-sfml-project</id>
+    <link href="https://github.com/SFML/cmake-sfml-project" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Repository template for SFML projects using CMake&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

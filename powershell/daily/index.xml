@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PowerShell Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:41:02Z</updated>
+  <updated>2023-07-27T01:41:52Z</updated>
   <subtitle>Daily Trending of PowerShell in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>scottbreenmsft/scripts</title>
-    <updated>2023-07-26T01:41:02Z</updated>
-    <id>tag:github.com,2023-07-26:/scottbreenmsft/scripts</id>
-    <link href="https://github.com/scottbreenmsft/scripts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A collection of scripts for Microsoft Endpoint Manager (Intune) or related technologies (Windows, Azure AD, Graph).&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Welcome&lt;/h1&gt; &#xA;&lt;p&gt;A collection of scripts for Microsoft Endpoint Manager (Intune) or related technologies (Windows, Azure AD, Graph).&lt;/p&gt; &#xA;&lt;h2&gt;Disclaimer&lt;/h2&gt; &#xA;&lt;p&gt;Understand the impact of each sample script prior to running it; samples should be run in a non-production or &#34;test&#34; environment.&lt;/p&gt;</summary>
-  </entry>
 </feed>

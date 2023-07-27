@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Dart Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:32:28Z</updated>
+  <updated>2023-07-27T01:31:28Z</updated>
   <subtitle>Daily Trending of Dart in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>BigAchiever/Food-UI-Challenge</title>
-    <updated>2023-07-26T01:32:28Z</updated>
-    <id>tag:github.com,2023-07-26:/BigAchiever/Food-UI-Challenge</id>
-    <link href="https://github.com/BigAchiever/Food-UI-Challenge" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Made with flutter 💙&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Food UI Challenge&lt;/h1&gt; &#xA;&lt;p&gt;A new Flutter project.&lt;/p&gt; &#xA;&lt;h2&gt;Demo Video&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://youtu.be/MpMo1Mq66rA&#34;&gt;&lt;img src=&#34;https://img.youtube.com/vi/MpMo1Mq66rA/0.jpg&#34; alt=&#34;Video&#34;&gt;&lt;/a&gt;&lt;/p&gt;</summary>
+    <title>Hamad-Anwar/Car-Controller-Getx-Flutter</title>
+    <updated>2023-07-27T01:31:28Z</updated>
+    <id>tag:github.com,2023-07-27:/Hamad-Anwar/Car-Controller-Getx-Flutter</id>
+    <link href="https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Car Controller with Getx StateManagement&lt;/h1&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;To get started, you need to have &lt;a href=&#34;https://flutter.dev/docs/get-started/install&#34;&gt;Flutter&lt;/a&gt; installed on your machine. Then, follow the instructions below:&lt;/p&gt; &#xA;&lt;ol&gt; &#xA; &lt;li&gt;Open the terminal and navigate to the project folder.&lt;/li&gt; &#xA; &lt;li&gt;Run the command &lt;code&gt;flutter packages get&lt;/code&gt; to install the required packages.&lt;/li&gt; &#xA; &lt;li&gt;Run &lt;code&gt;flutter run&lt;/code&gt; to build and run the debug app on your emulator/phone&lt;/li&gt; &#xA;&lt;/ol&gt; &#xA;&lt;h2&gt;Demo&lt;/h2&gt; &#xA;&lt;img src=&#34;https://raw.githubusercontent.com/Hamad-Anwar/Car-Controller-Getx-Flutter/master/ui.png&#34;&gt;</summary>
   </entry>
 </feed>

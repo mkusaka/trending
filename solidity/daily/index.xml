@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:44:12Z</updated>
+  <updated>2023-07-27T01:45:09Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Miyamura80/ZKMicrophone</title>
-    <updated>2023-07-26T01:44:12Z</updated>
-    <id>tag:github.com,2023-07-26:/Miyamura80/ZKMicrophone</id>
-    <link href="https://github.com/Miyamura80/ZKMicrophone" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;🎙🔒 ZK Microphone: Trusted audio in the age of deepfakes 🔒🎙 Generative AI is a threat to society. It enables disinformation, manipulation, and political subversion. We&#39;ve built the world&#39;s first attested microphone and used ZK-SNARKs to protect authenticity and privacy.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>code-423n4/2023-07-moonwell</title>
+    <updated>2023-07-27T01:45:09Z</updated>
+    <id>tag:github.com,2023-07-27:/code-423n4/2023-07-moonwell</id>
+    <link href="https://github.com/code-423n4/2023-07-moonwell" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>spo0ds/Zero-to-ZKP</title>
-    <updated>2023-07-26T01:44:12Z</updated>
-    <id>tag:github.com,2023-07-26:/spo0ds/Zero-to-ZKP</id>
-    <link href="https://github.com/spo0ds/Zero-to-ZKP" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;As I learn more about ZKP and its use cases in blockchain, I&#39;ll be updating this repository with new resources and insights to help you stay up-to-date with this exciting technology.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cyfrin/2023-07-escrow</title>
+    <updated>2023-07-27T01:45:09Z</updated>
+    <id>tag:github.com,2023-07-27:/Cyfrin/2023-07-escrow</id>
+    <link href="https://github.com/Cyfrin/2023-07-escrow" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>abdelhamidbakhta/token-vesting-contracts</title>
-    <updated>2023-07-26T01:44:12Z</updated>
-    <id>tag:github.com,2023-07-26:/abdelhamidbakhta/token-vesting-contracts</id>
-    <link href="https://github.com/abdelhamidbakhta/token-vesting-contracts" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;ERC20 token vesting smart contracts 💰⏳&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Cyfrin/2023-07-foundry-defi-stablecoin</title>
+    <updated>2023-07-27T01:45:09Z</updated>
+    <id>tag:github.com,2023-07-27:/Cyfrin/2023-07-foundry-defi-stablecoin</id>
+    <link href="https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

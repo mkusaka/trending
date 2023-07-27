@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-26T01:31:39Z</updated>
+  <updated>2023-07-27T01:30:22Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>KingMob/TrueGrit</title>
-    <updated>2023-07-26T01:31:39Z</updated>
-    <id>tag:github.com,2023-07-26:/KingMob/TrueGrit</id>
-    <link href="https://github.com/KingMob/TrueGrit" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A data-driven, functionally-oriented, idiomatic Clojure library for circuit breakers, bulkheads, retries, rate limiters, timeouts, etc.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ertugrulcetin/enion</title>
+    <updated>2023-07-27T01:30:22Z</updated>
+    <id>tag:github.com,2023-07-27:/ertugrulcetin/enion</id>
+    <link href="https://github.com/ertugrulcetin/enion" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Enion Online is an Epic PvP Battle game between Orcs and Humans. The game is written using Clojure and ClojureScript, and utilizes the PlayCanvas game engine.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>status-im/clj-rn</title>
-    <updated>2023-07-26T01:31:39Z</updated>
-    <id>tag:github.com,2023-07-26:/status-im/clj-rn</id>
-    <link href="https://github.com/status-im/clj-rn" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A utility for building ClojureScript-based React Native apps&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>Frozenlock/force-serialize</title>
-    <updated>2023-07-26T01:31:39Z</updated>
-    <id>tag:github.com,2023-07-26:/Frozenlock/force-serialize</id>
-    <link href="https://github.com/Frozenlock/force-serialize" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Return beautiful serialized functions instead of ugly java objects.&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>damn/gdl</title>
+    <updated>2023-07-27T01:30:22Z</updated>
+    <id>tag:github.com,2023-07-27:/damn/gdl</id>
+    <link href="https://github.com/damn/gdl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A new, simple and powerful language for writing games with no compromises&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
