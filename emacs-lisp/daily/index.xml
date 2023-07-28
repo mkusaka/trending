@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Emacs Lisp Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:32:51Z</updated>
+  <updated>2023-07-28T01:34:08Z</updated>
   <subtitle>Daily Trending of Emacs Lisp in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>nicferrier/emacs-framesize</title>
-    <updated>2023-07-27T01:32:51Z</updated>
-    <id>tag:github.com,2023-07-27:/nicferrier/emacs-framesize</id>
-    <link href="https://github.com/nicferrier/emacs-framesize" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;allow frame font size to be controlled with keys.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;= Framesize - adjusting framesize =&lt;/p&gt; &#xA;&lt;p&gt;This let&#39;s you change the font size of a frame. Any buffer displayed in the frame will have the same font size.&lt;/p&gt; &#xA;&lt;p&gt;This is useful for presenting where the thing you here the most when live coding is //&#34;can you make it bigger?&#34;//&lt;/p&gt; &#xA;&lt;p&gt;{{{frame-font-keychord-init}}} can be used to initialize this to automatically bind this to keychords, something like:&lt;/p&gt; &#xA;&lt;p&gt;{{{ (add-hook &#39;after-init-hook &#39;frame-font-keychord-init) }}}&lt;/p&gt; &#xA;&lt;p&gt;This binds the following keychords:&lt;/p&gt; &#xA;&lt;p&gt;| {{{fv}}} | make the frame bigger | | {{{fc}}} | make the frame smaller |&lt;/p&gt;</summary>
+    <title>joannavarrete/emacs-home</title>
+    <updated>2023-07-28T01:34:08Z</updated>
+    <id>tag:github.com,2023-07-28:/joannavarrete/emacs-home</id>
+    <link href="https://github.com/joannavarrete/emacs-home" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;My emacs home&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

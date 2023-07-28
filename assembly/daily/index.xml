@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Assembly Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:28:33Z</updated>
+  <updated>2023-07-28T01:29:53Z</updated>
   <subtitle>Daily Trending of Assembly in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>krinkin/risc-v-ex</title>
-    <updated>2023-07-27T01:28:33Z</updated>
-    <id>tag:github.com,2023-07-27:/krinkin/risc-v-ex</id>
-    <link href="https://github.com/krinkin/risc-v-ex" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;RISC-V examples, assignments and tools for computer architecture&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

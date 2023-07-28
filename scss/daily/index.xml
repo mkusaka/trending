@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub SCSS Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:44:26Z</updated>
+  <updated>2023-07-28T01:44:49Z</updated>
   <subtitle>Daily Trending of SCSS in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ChaseIngebritson/noctis-viola-discord-theme</title>
+    <updated>2023-07-28T01:44:49Z</updated>
+    <id>tag:github.com,2023-07-28:/ChaseIngebritson/noctis-viola-discord-theme</id>
+    <link href="https://github.com/ChaseIngebritson/noctis-viola-discord-theme" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Better Discord theme based on the Noctis Viola VSCode theme&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

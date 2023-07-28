@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:44:30Z</updated>
+  <updated>2023-07-28T01:44:52Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>rothiotome/numerica-twitch</title>
-    <updated>2023-07-27T01:44:30Z</updated>
-    <id>tag:github.com,2023-07-27:/rothiotome/numerica-twitch</id>
-    <link href="https://github.com/rothiotome/numerica-twitch" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A very simple twitch game featuring the Very Simple Twitch Chat plugin&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ConfusedGameDev/FiniteRacer</title>
+    <updated>2023-07-28T01:44:52Z</updated>
+    <id>tag:github.com,2023-07-28:/ConfusedGameDev/FiniteRacer</id>
+    <link href="https://github.com/ConfusedGameDev/FiniteRacer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;a Finite Runner Prototype in unity3d&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>NoeBrt/Galaxy-Simulation</title>
-    <updated>2023-07-27T01:44:30Z</updated>
-    <id>tag:github.com,2023-07-27:/NoeBrt/Galaxy-Simulation</id>
-    <link href="https://github.com/NoeBrt/Galaxy-Simulation" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Simulation of thousands of particules using Newton&#39;s equations and GPU computing&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>mongodb-developer/leafsteroids</title>
+    <updated>2023-07-28T01:44:52Z</updated>
+    <id>tag:github.com,2023-07-28:/mongodb-developer/leafsteroids</id>
+    <link href="https://github.com/mongodb-developer/leafsteroids" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository contains the MongoDB Leafsteroids demo.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

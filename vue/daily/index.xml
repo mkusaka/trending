@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Vue Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:47:11Z</updated>
+  <updated>2023-07-28T01:47:38Z</updated>
   <subtitle>Daily Trending of Vue in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>x2rr/funds</title>
+    <updated>2023-07-28T01:47:38Z</updated>
+    <id>tag:github.com,2023-07-28:/x2rr/funds</id>
+    <link href="https://github.com/x2rr/funds" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>DappReader/DappReader-v2</title>
+    <updated>2023-07-28T01:47:38Z</updated>
+    <id>tag:github.com,2023-07-28:/DappReader/DappReader-v2</id>
+    <link href="https://github.com/DappReader/DappReader-v2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>zernonia/nuxt-lego</title>
+    <updated>2023-07-28T01:47:38Z</updated>
+    <id>tag:github.com,2023-07-28:/zernonia/nuxt-lego</id>
+    <link href="https://github.com/zernonia/nuxt-lego" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NuxtLego is an open source UI component layer for building your Nuxt content quick &amp; beautiful.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

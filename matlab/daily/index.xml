@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub MATLAB Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:39:06Z</updated>
+  <updated>2023-07-28T01:39:47Z</updated>
   <subtitle>Daily Trending of MATLAB in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>fdsa1860/mk</title>
-    <updated>2023-07-27T01:39:06Z</updated>
-    <id>tag:github.com,2023-07-27:/fdsa1860/mk</id>
-    <link href="https://github.com/fdsa1860/mk" rel="alternate"></link>
+    <title>ucdavis/erplab</title>
+    <updated>2023-07-28T01:39:47Z</updated>
+    <id>tag:github.com,2023-07-28:/ucdavis/erplab</id>
+    <link href="https://github.com/ucdavis/erplab" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data. It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools for ERP processing, visualization, and analysis. A graphical user interface makes it easy for beginners to learn, and Matlab scripting provides eno…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>iandol/opticka</title>
+    <updated>2023-07-28T01:39:47Z</updated>
+    <id>tag:github.com,2023-07-28:/iandol/opticka</id>
+    <link href="https://github.com/iandol/opticka" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Opticka is an experiment manager built on top of the Psychophysics toolbox (PTB) for MATLAB. It runs experimental tasks using flexible state machine logic and easily does dynamic methods-of-constants type experiments with full behavioural control. It uses a class system to create simple to use visual stimuli using experimenter friendly units. Op…&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>pfynan/engr307</title>
+    <updated>2023-07-28T01:39:47Z</updated>
+    <id>tag:github.com,2023-07-28:/pfynan/engr307</id>
+    <link href="https://github.com/pfynan/engr307" rel="alternate"></link>
     <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

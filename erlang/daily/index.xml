@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Erlang Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:33:20Z</updated>
+  <updated>2023-07-28T01:34:22Z</updated>
   <subtitle>Daily Trending of Erlang in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>pkazmier/erlang-port-howto</title>
-    <updated>2023-07-27T01:33:20Z</updated>
-    <id>tag:github.com,2023-07-27:/pkazmier/erlang-port-howto</id>
-    <link href="https://github.com/pkazmier/erlang-port-howto" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;How to create an Erlang Port&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

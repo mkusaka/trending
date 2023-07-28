@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Makefile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:38:57Z</updated>
+  <updated>2023-07-28T01:39:37Z</updated>
   <subtitle>Daily Trending of Makefile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>dandelion64-Archives/proprietary_vendor_xiaomi_blossom</title>
-    <updated>2023-07-27T01:38:57Z</updated>
-    <id>tag:github.com,2023-07-27:/dandelion64-Archives/proprietary_vendor_xiaomi_blossom</id>
-    <link href="https://github.com/dandelion64-Archives/proprietary_vendor_xiaomi_blossom" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;REGENERATED from https://gitlab.com/Xiaomi-MT6765&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>andreasKroepelin/polylux</title>
-    <updated>2023-07-27T01:38:57Z</updated>
-    <id>tag:github.com,2023-07-27:/andreasKroepelin/polylux</id>
-    <link href="https://github.com/andreasKroepelin/polylux" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A package for creating slides in Typst&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>pmareke/python-boilerplate</title>
+    <updated>2023-07-28T01:39:37Z</updated>
+    <id>tag:github.com,2023-07-28:/pmareke/python-boilerplate</id>
+    <link href="https://github.com/pmareke/python-boilerplate" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This repository is a Python boilerplate to be used as a fast starter point&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

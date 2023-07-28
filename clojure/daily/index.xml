@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Clojure Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:30:22Z</updated>
+  <updated>2023-07-28T01:31:42Z</updated>
   <subtitle>Daily Trending of Clojure in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ertugrulcetin/enion</title>
-    <updated>2023-07-27T01:30:22Z</updated>
-    <id>tag:github.com,2023-07-27:/ertugrulcetin/enion</id>
-    <link href="https://github.com/ertugrulcetin/enion" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Enion Online is an Epic PvP Battle game between Orcs and Humans. The game is written using Clojure and ClojureScript, and utilizes the PlayCanvas game engine.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>damn/gdl</title>
-    <updated>2023-07-27T01:30:22Z</updated>
-    <id>tag:github.com,2023-07-27:/damn/gdl</id>
-    <link href="https://github.com/damn/gdl" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A new, simple and powerful language for writing games with no compromises&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

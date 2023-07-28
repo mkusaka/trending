@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:44:11Z</updated>
+  <updated>2023-07-28T01:44:36Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>parth-patil/blackjack-scala</title>
-    <updated>2023-07-27T01:44:11Z</updated>
-    <id>tag:github.com,2023-07-27:/parth-patil/blackjack-scala</id>
-    <link href="https://github.com/parth-patil/blackjack-scala" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Blackjack game implemented in scala and uses twitter Finagle&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Project Blackjack&lt;/h1&gt; &#xA;&lt;p&gt;This project contains a Blackjack game implemented as a client and server application. The server is written using Finagle and the server exposes a thrift interface. The server supports multiple players playing at the same time.&lt;/p&gt; &#xA;&lt;h1&gt;Playing Blackjack&lt;/h1&gt; &#xA;&lt;p&gt;First you will need to clone this project. Next you need to run the server and the client as follows&lt;/p&gt; &#xA;&lt;h2&gt;Running the Blackjack Finagle Server&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd blackjack&#xA;./sbt&#xA;&amp;gt; compile&#xA;&amp;gt; run -f config/development.scala&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h2&gt;Running Blackjack client&lt;/h2&gt; &#xA;&lt;pre&gt;&lt;code&gt;cd blackjack&#xA;./console 127.0.0.1 9999&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

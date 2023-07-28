@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Nix Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-27T01:40:02Z</updated>
+  <updated>2023-07-28T01:40:42Z</updated>
   <subtitle>Daily Trending of Nix in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>viperML/wrapper-manager</title>
-    <updated>2023-07-27T01:40:02Z</updated>
-    <id>tag:github.com,2023-07-27:/viperML/wrapper-manager</id>
-    <link href="https://github.com/viperML/wrapper-manager" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Post-modern configuration management&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>wobcom/sparky</title>
+    <updated>2023-07-28T01:40:42Z</updated>
+    <id>tag:github.com,2023-07-28:/wobcom/sparky</id>
+    <link href="https://github.com/wobcom/sparky" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;NixOS Modules for a network reliability and connectivity testing infrastructure&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
