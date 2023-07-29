@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
-  <title>GitHub Unknown Languages Daily Trending</title>
+  <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-28T01:28:44Z</updated>
-  <subtitle>Daily Trending of Unknown Languages in GitHub</subtitle>
+  <updated>2023-07-29T01:28:17Z</updated>
+  <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>veltman/clmystery</title>
-    <updated>2023-07-28T01:28:44Z</updated>
-    <id>tag:github.com,2023-07-28:/veltman/clmystery</id>
-    <link href="https://github.com/veltman/clmystery" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A command-line murder mystery&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>OvertureMaps/data</title>
+    <updated>2023-07-29T01:28:17Z</updated>
+    <id>tag:github.com,2023-07-29:/OvertureMaps/data</id>
+    <link href="https://github.com/OvertureMaps/data" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>TakSec/google-dorks-bug-bounty</title>
-    <updated>2023-07-28T01:28:44Z</updated>
-    <id>tag:github.com,2023-07-28:/TakSec/google-dorks-bug-bounty</id>
-    <link href="https://github.com/TakSec/google-dorks-bug-bounty" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A list of Google Dorks for Bug Bounty, Web Application Security, and Pentesting&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>data-goblin/powerbi-macguyver-toolbox</title>
+    <updated>2023-07-29T01:28:17Z</updated>
+    <id>tag:github.com,2023-07-29:/data-goblin/powerbi-macguyver-toolbox</id>
+    <link href="https://github.com/data-goblin/powerbi-macguyver-toolbox" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Power BI report .pbip templates and patterns to create special visuals, address specific problems, and have adventures..&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>bizz84/fluttercon_23_resources</title>
-    <updated>2023-07-28T01:28:44Z</updated>
-    <id>tag:github.com,2023-07-28:/bizz84/fluttercon_23_resources</id>
-    <link href="https://github.com/bizz84/fluttercon_23_resources" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;List of talks from FlutterCon 23&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>AmoghDabholkar/GRE_PREP</title>
+    <updated>2023-07-29T01:28:17Z</updated>
+    <id>tag:github.com,2023-07-29:/AmoghDabholkar/GRE_PREP</id>
+    <link href="https://github.com/AmoghDabholkar/GRE_PREP" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is a guide for how one can prepare for GRE within a month&#39;s duration.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

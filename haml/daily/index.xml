@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Haml Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-28T01:35:40Z</updated>
+  <updated>2023-07-29T01:34:51Z</updated>
   <subtitle>Daily Trending of Haml in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>artsy/watt</title>
-    <updated>2023-07-28T01:35:40Z</updated>
-    <id>tag:github.com,2023-07-28:/artsy/watt</id>
-    <link href="https://github.com/artsy/watt" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Watt is a shared js/css/img asset library for Artsy Rails apps.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

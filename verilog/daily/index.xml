@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Verilog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-28T01:47:23Z</updated>
+  <updated>2023-07-29T01:47:36Z</updated>
   <subtitle>Daily Trending of Verilog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>moonjayden/430.315a</title>
+    <updated>2023-07-29T01:47:36Z</updated>
+    <id>tag:github.com,2023-07-29:/moonjayden/430.315a</id>
+    <link href="https://github.com/moonjayden/430.315a" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Design UART Communication considering Metastability Issues / Design Fully Connected Layer in CNN for Image Classification / Design CNN(Conv2d Layers) Image Classifier Accerlerator&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ekknod/pcileech-wifi</title>
+    <updated>2023-07-29T01:47:36Z</updated>
+    <id>tag:github.com,2023-07-29:/ekknod/pcileech-wifi</id>
+    <link href="https://github.com/ekknod/pcileech-wifi" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;pcileech-fpga with wireless card emulation. Squirrel. Intel.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

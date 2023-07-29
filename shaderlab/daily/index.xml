@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub ShaderLab Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-28T01:44:52Z</updated>
+  <updated>2023-07-29T01:44:32Z</updated>
   <subtitle>Daily Trending of ShaderLab in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ConfusedGameDev/FiniteRacer</title>
-    <updated>2023-07-28T01:44:52Z</updated>
-    <id>tag:github.com,2023-07-28:/ConfusedGameDev/FiniteRacer</id>
-    <link href="https://github.com/ConfusedGameDev/FiniteRacer" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;a Finite Runner Prototype in unity3d&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>mongodb-developer/leafsteroids</title>
-    <updated>2023-07-28T01:44:52Z</updated>
-    <id>tag:github.com,2023-07-28:/mongodb-developer/leafsteroids</id>
-    <link href="https://github.com/mongodb-developer/leafsteroids" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;This repository contains the MongoDB Leafsteroids demo.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

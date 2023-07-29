@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HCL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-28T01:35:49Z</updated>
+  <updated>2023-07-29T01:35:00Z</updated>
   <subtitle>Daily Trending of HCL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>gravitational/teleport-github-actions-provisioning</title>
+    <updated>2023-07-29T01:35:00Z</updated>
+    <id>tag:github.com,2023-07-29:/gravitational/teleport-github-actions-provisioning</id>
+    <link href="https://github.com/gravitational/teleport-github-actions-provisioning" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;teleport-github-actions-provisioning&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>portworx/terraform-eksblueprints-portworx-addon</title>
+    <updated>2023-07-29T01:35:00Z</updated>
+    <id>tag:github.com,2023-07-29:/portworx/terraform-eksblueprints-portworx-addon</id>
+    <link href="https://github.com/portworx/terraform-eksblueprints-portworx-addon" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Github repo for Portworx EKS blueprint addon module and sample templates&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>
