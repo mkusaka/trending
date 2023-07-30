@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Common Lisp Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T01:52:45Z</updated>
+  <subtitle>Weekly Trending of Common Lisp in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>jordonbiondo/find-line</title>
+    <updated>2023-07-30T01:52:45Z</updated>
+    <id>tag:github.com,2023-07-30:/jordonbiondo/find-line</id>
+    <link href="https://github.com/jordonbiondo/find-line" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Common Lisp utility to find lines matching a regexp&lt;/p&gt;&lt;hr&gt;&lt;ul&gt; &#xA; &lt;li&gt;Find-line A Common lisp utility script for finding lines in a file matching a regexp&lt;/li&gt; &#xA; &lt;li&gt;Usage &#xA;  &lt;ul&gt; &#xA;   &lt;li&gt;dont&#39; use it&lt;/li&gt; &#xA;  &lt;/ul&gt; &lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>thezerobit/pastelisp</title>
+    <updated>2023-07-30T01:52:45Z</updated>
+    <id>tag:github.com,2023-07-30:/thezerobit/pastelisp</id>
+    <link href="https://github.com/thezerobit/pastelisp" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Simple Pastebin in Common Lisp.&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;PASTELISP&lt;/h1&gt; &#xA;&lt;p&gt;A Simple Pastebin in Common Lisp.&lt;/p&gt; &#xA;&lt;h2&gt;INSTALL&lt;/h2&gt; &#xA;&lt;p&gt;To load in a lisp REPL: (ql:quickload &#34;pastelisp&#34;)&lt;/p&gt; &#xA;&lt;h2&gt;DEPLOYMENT&lt;/h2&gt; &#xA;&lt;p&gt;To create database:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;sudo -u postgres createuser -D -A -P pastelispuser # pastelisppass&#xA;sudo -u postgres createdb -O pastelispuser pastelisp&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Create tables in REPL: (pastelisp:create-tables)&lt;/p&gt; &#xA;&lt;p&gt;To run local test server: (pastelisp:start-server)&lt;/p&gt; &#xA;&lt;p&gt;Uses hunchentoot and Restas under the hood, so see those projects for more detailed instructions on deployment.&lt;/p&gt; &#xA;&lt;h2&gt;Author&lt;/h2&gt; &#xA;&lt;p&gt;Stephen A. Goss (&lt;a href=&#34;mailto:steveth45@gmail.com&#34;&gt;steveth45@gmail.com&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;h2&gt;Copyright&lt;/h2&gt; &#xA;&lt;p&gt;Copyright (c) 2012 Stephen A. Goss (&lt;a href=&#34;mailto:steveth45@gmail.com&#34;&gt;steveth45@gmail.com&lt;/a&gt;)&lt;/p&gt; &#xA;&lt;h1&gt;License&lt;/h1&gt; &#xA;&lt;p&gt;Licensed under the Modified BSD License.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>snmsts/github-install</title>
+    <updated>2023-07-30T01:52:45Z</updated>
+    <id>tag:github.com,2023-07-30:/snmsts/github-install</id>
+    <link href="https://github.com/snmsts/github-install" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;not maintained. use ql-checkout&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;github-install&lt;/h1&gt; &#xA;&lt;p&gt;This is a simple utility function just download tarball from github and extract it if possible.&lt;/p&gt; &#xA;&lt;h2&gt;Usage&lt;/h2&gt; &#xA;&lt;p&gt;see example below&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;(github-install:github-install &#34;snmsts&#34; &#34;aoeu&#34; :branch &#34;master&#34;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;then you can find archive somewhere under &lt;code&gt;~/quicklisp/local-projects&lt;/code&gt; by default.&lt;/p&gt; &#xA;&lt;h2&gt;Thanks to&lt;/h2&gt; &#xA;&lt;p&gt;This project idea comes from g000001. He introduced snippet at &lt;a href=&#34;http://g000001.cddddr.org/1277731696&#34;&gt;http://g000001.cddddr.org/1277731696&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

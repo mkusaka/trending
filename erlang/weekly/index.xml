@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Erlang Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T01:54:59Z</updated>
+  <subtitle>Weekly Trending of Erlang in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>pkazmier/erlang-port-howto</title>
+    <updated>2023-07-30T01:54:59Z</updated>
+    <id>tag:github.com,2023-07-30:/pkazmier/erlang-port-howto</id>
+    <link href="https://github.com/pkazmier/erlang-port-howto" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;How to create an Erlang Port&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tuxofil/erl_app_skeleton</title>
+    <updated>2023-07-30T01:54:59Z</updated>
+    <id>tag:github.com,2023-07-30:/tuxofil/erl_app_skeleton</id>
+    <link href="https://github.com/tuxofil/erl_app_skeleton" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Erlang application skeleton&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>simonhdickson/ErlShip</title>
+    <updated>2023-07-30T01:54:59Z</updated>
+    <id>tag:github.com,2023-07-30:/simonhdickson/ErlShip</id>
+    <link href="https://github.com/simonhdickson/ErlShip" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Battleships written in Erlang&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

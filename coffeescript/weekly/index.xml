@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CoffeeScript Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T01:52:40Z</updated>
+  <subtitle>Weekly Trending of CoffeeScript in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>fklingler/loltimer</title>
+    <updated>2023-07-30T01:52:40Z</updated>
+    <id>tag:github.com,2023-07-30:/fklingler/loltimer</id>
+    <link href="https://github.com/fklingler/loltimer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Meteor.JS application to share monster respawn timers in a LoL game&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>hci-au-dk/FluidWebFS</title>
+    <updated>2023-07-30T01:52:40Z</updated>
+    <id>tag:github.com,2023-07-30:/hci-au-dk/FluidWebFS</id>
+    <link href="https://github.com/hci-au-dk/FluidWebFS" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AgriLife/AgriLife-Locations</title>
+    <updated>2023-07-30T01:52:40Z</updated>
+    <id>tag:github.com,2023-07-30:/AgriLife/AgriLife-Locations</id>
+    <link href="https://github.com/AgriLife/AgriLife-Locations" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A one page theme showing all AgriLife locations&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Cuda Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-29T01:31:33Z</updated>
+  <updated>2023-07-30T01:34:04Z</updated>
   <subtitle>Daily Trending of Cuda in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>vitortterra/MAC0219-5742-EP3-2023</title>
-    <updated>2023-07-29T01:31:33Z</updated>
-    <id>tag:github.com,2023-07-29:/vitortterra/MAC0219-5742-EP3-2023</id>
-    <link href="https://github.com/vitortterra/MAC0219-5742-EP3-2023" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>facebookresearch/HairMSNN</title>
+    <updated>2023-07-30T01:34:04Z</updated>
+    <id>tag:github.com,2023-07-30:/facebookresearch/HairMSNN</id>
+    <link href="https://github.com/facebookresearch/HairMSNN" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;This is the official implementation of our EGSR 2023 paper, Accelerating Hair Rendering by Learning High-Order Scattered Radiance.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

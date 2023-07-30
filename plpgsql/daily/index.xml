@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub PLpgSQL Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-29T01:41:33Z</updated>
+  <updated>2023-07-30T01:43:00Z</updated>
   <subtitle>Daily Trending of PLpgSQL in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>manoelcampos/java-postgres-playground</title>
-    <updated>2023-07-29T01:41:33Z</updated>
-    <id>tag:github.com,2023-07-29:/manoelcampos/java-postgres-playground</id>
-    <link href="https://github.com/manoelcampos/java-postgres-playground" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Java / PostgreSQL Playground: servidor Postgres e JDK 17 para construção de aplicações em um container com VSCode no gitpod.io&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>donbro/lsdb</title>
+    <updated>2023-07-30T01:43:00Z</updated>
+    <id>tag:github.com,2023-07-30:/donbro/lsdb</id>
+    <link href="https://github.com/donbro/lsdb" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;lsdb converts between filesystem metadata, data format files, and database&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

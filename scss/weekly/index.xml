@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub SCSS Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T02:05:47Z</updated>
+  <subtitle>Weekly Trending of SCSS in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>joshuah345/Discord-Stuff</title>
+    <updated>2023-07-30T02:05:47Z</updated>
+    <id>tag:github.com,2023-07-30:/joshuah345/Discord-Stuff</id>
+    <link href="https://github.com/joshuah345/Discord-Stuff" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Things i made for client mods&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SlippingGittys-Discord-Themes/surCord</title>
+    <updated>2023-07-30T02:05:47Z</updated>
+    <id>tag:github.com,2023-07-30:/SlippingGittys-Discord-Themes/surCord</id>
+    <link href="https://github.com/SlippingGittys-Discord-Themes/surCord" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A Discord Theme inspired by macOS &amp; Human Interface Guidelines.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>creativetimofficial/vue-material-dashboard-laravel</title>
+    <updated>2023-07-30T02:05:47Z</updated>
+    <id>tag:github.com,2023-07-30:/creativetimofficial/vue-material-dashboard-laravel</id>
+    <link href="https://github.com/creativetimofficial/vue-material-dashboard-laravel" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

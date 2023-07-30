@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Solidity Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T02:06:29Z</updated>
+  <subtitle>Weekly Trending of Solidity in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>Uniswap/UniswapX</title>
+    <updated>2023-07-30T02:06:29Z</updated>
+    <id>tag:github.com,2023-07-30:/Uniswap/UniswapX</id>
+    <link href="https://github.com/Uniswap/UniswapX" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🦄 Gasless ERC20 swap settlement protocol 🦄&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ProjectOpenSea/seaport-core</title>
+    <updated>2023-07-30T02:06:29Z</updated>
+    <id>tag:github.com,2023-07-30:/ProjectOpenSea/seaport-core</id>
+    <link href="https://github.com/ProjectOpenSea/seaport-core" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Core Seaport smart contracts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>Cyfrin/foundry-smart-contract-lottery-f23</title>
+    <updated>2023-07-30T02:06:29Z</updated>
+    <id>tag:github.com,2023-07-30:/Cyfrin/foundry-smart-contract-lottery-f23</id>
+    <link href="https://github.com/Cyfrin/foundry-smart-contract-lottery-f23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

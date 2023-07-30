@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Nix Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T02:01:35Z</updated>
+  <subtitle>Weekly Trending of Nix in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>ryan4yin/nix-darwin-kickstarter</title>
+    <updated>2023-07-30T02:01:35Z</updated>
+    <id>tag:github.com,2023-07-30:/ryan4yin/nix-darwin-kickstarter</id>
+    <link href="https://github.com/ryan4yin/nix-darwin-kickstarter" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;macOS as Code! An easy-to-understand nix-darwin startup configuration for beginners! 一份易于理解的 nix-darwin 初始配置模板，专为新手制作！&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>tazjin/nix-1p</title>
+    <updated>2023-07-30T02:01:35Z</updated>
+    <id>tag:github.com,2023-07-30:/tazjin/nix-1p</id>
+    <link href="https://github.com/tazjin/nix-1p" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A (more or less) one page introduction to Nix, the language.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>ngi-nix/ngipkgs</title>
+    <updated>2023-07-30T02:01:35Z</updated>
+    <id>tag:github.com,2023-07-30:/ngi-nix/ngipkgs</id>
+    <link href="https://github.com/ngi-nix/ngipkgs" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Nix packages and services for projects supported through the NGI program&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

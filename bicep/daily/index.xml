@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Bicep Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-29T01:29:32Z</updated>
+  <updated>2023-07-30T01:32:08Z</updated>
   <subtitle>Daily Trending of Bicep in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>Azure-Samples/app-templates-java-openai-springapps</title>
-    <updated>2023-07-29T01:29:32Z</updated>
-    <id>tag:github.com,2023-07-29:/Azure-Samples/app-templates-java-openai-springapps</id>
-    <link href="https://github.com/Azure-Samples/app-templates-java-openai-springapps" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;AI Shopping Cart Sample Application with Azure OpenAI and Azure Spring Apps&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Retrospected/PurpleKeep</title>
+    <updated>2023-07-30T01:32:08Z</updated>
+    <id>tag:github.com,2023-07-30:/Retrospected/PurpleKeep</id>
+    <link href="https://github.com/Retrospected/PurpleKeep" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Providing Azure pipelines to create an infrastructure and run Atomic tests.&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

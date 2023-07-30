@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Clojure Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T01:52:28Z</updated>
+  <subtitle>Weekly Trending of Clojure in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>personcube/4409_ProblemSet_2</title>
+    <updated>2023-07-30T01:52:28Z</updated>
+    <id>tag:github.com,2023-07-30:/personcube/4409_ProblemSet_2</id>
+    <link href="https://github.com/personcube/4409_ProblemSet_2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>HealthSamurai/suitkin</title>
+    <updated>2023-07-30T01:52:28Z</updated>
+    <id>tag:github.com,2023-07-30:/HealthSamurai/suitkin</id>
+    <link href="https://github.com/HealthSamurai/suitkin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>bblanton/json-to-mongo</title>
+    <updated>2023-07-30T01:52:28Z</updated>
+    <id>tag:github.com,2023-07-30:/bblanton/json-to-mongo</id>
+    <link href="https://github.com/bblanton/json-to-mongo" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Simple app to load JSON data into MongoDB&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

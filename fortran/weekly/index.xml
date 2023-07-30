@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Fortran Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T01:55:16Z</updated>
+  <subtitle>Weekly Trending of Fortran in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SWMFsoftware/GITM2</title>
+    <updated>2023-07-30T01:55:16Z</updated>
+    <id>tag:github.com,2023-07-30:/SWMFsoftware/GITM2</id>
+    <link href="https://github.com/SWMFsoftware/GITM2" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Global Ionosphere Thermosphere Model&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>SWMFsoftware/util</title>
+    <updated>2023-07-30T01:55:16Z</updated>
+    <id>tag:github.com,2023-07-30:/SWMFsoftware/util</id>
+    <link href="https://github.com/SWMFsoftware/util" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

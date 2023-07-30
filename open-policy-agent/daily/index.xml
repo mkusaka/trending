@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Open Policy Agent Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-29T01:40:38Z</updated>
+  <updated>2023-07-30T01:42:11Z</updated>
   <subtitle>Daily Trending of Open Policy Agent in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>ossf/alpha-omega</title>
-    <updated>2023-07-29T01:40:38Z</updated>
-    <id>tag:github.com,2023-07-29:/ossf/alpha-omega</id>
-    <link href="https://github.com/ossf/alpha-omega" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Protect society by improving the security of open source software through direct maintainer engagement and expert analysis.&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

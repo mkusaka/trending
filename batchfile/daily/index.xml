@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Batchfile Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-29T01:29:28Z</updated>
+  <updated>2023-07-30T01:32:04Z</updated>
   <subtitle>Daily Trending of Batchfile in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>arkuznetsov/1CFilesConverter</title>
-    <updated>2023-07-29T01:29:28Z</updated>
-    <id>tag:github.com,2023-07-29:/arkuznetsov/1CFilesConverter</id>
-    <link href="https://github.com/arkuznetsov/1CFilesConverter" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Cкрипты для конвертации файлов 1С между различными форматами (Binary, XML, EDT)&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>rhwong/unidbg-fetch-qsign-onekey</title>
-    <updated>2023-07-29T01:29:28Z</updated>
-    <id>tag:github.com,2023-07-29:/rhwong/unidbg-fetch-qsign-onekey</id>
-    <link href="https://github.com/rhwong/unidbg-fetch-qsign-onekey" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;用于一键在Windows下部署fuqiuluo/unidbg-fetch-qsign&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
-  <entry>
-    <title>NativePHP/php-bin</title>
-    <updated>2023-07-29T01:29:28Z</updated>
-    <id>tag:github.com,2023-07-29:/NativePHP/php-bin</id>
-    <link href="https://github.com/NativePHP/php-bin" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;The PHP binary used by NativePHP&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

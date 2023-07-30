@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Julia Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-29T01:37:20Z</updated>
+  <updated>2023-07-30T01:39:04Z</updated>
   <subtitle>Daily Trending of Julia in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>eth-cscs/ImplicitGlobalGrid.jl</title>
+    <updated>2023-07-30T01:39:04Z</updated>
+    <id>tag:github.com,2023-07-30:/eth-cscs/ImplicitGlobalGrid.jl</id>
+    <link href="https://github.com/eth-cscs/ImplicitGlobalGrid.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>PTsolvers/gpu-workshop-JuliaCon23</title>
+    <updated>2023-07-30T01:39:04Z</updated>
+    <id>tag:github.com,2023-07-30:/PTsolvers/gpu-workshop-JuliaCon23</id>
+    <link href="https://github.com/PTsolvers/gpu-workshop-JuliaCon23" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Differentiable modelling on (multi)-GPUs workshop at JuliaCon23&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JeffreySarnoff/WindowedFunctions.jl</title>
+    <updated>2023-07-30T01:39:04Z</updated>
+    <id>tag:github.com,2023-07-30:/JeffreySarnoff/WindowedFunctions.jl</id>
+    <link href="https://github.com/JeffreySarnoff/WindowedFunctions.jl" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;successor to RollingFunctions.jl&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
 </feed>

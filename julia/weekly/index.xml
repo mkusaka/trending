@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Julia Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T01:59:07Z</updated>
+  <subtitle>Weekly Trending of Julia in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>andreasKroepelin/polylux</title>
+    <updated>2023-07-30T01:59:07Z</updated>
+    <id>tag:github.com,2023-07-30:/andreasKroepelin/polylux</id>
+    <link href="https://github.com/andreasKroepelin/polylux" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;A package for creating slides in Typst&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

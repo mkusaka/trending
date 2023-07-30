@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub CMake Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T01:52:34Z</updated>
+  <subtitle>Weekly Trending of CMake in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>NilFoundation/crypto3</title>
+    <updated>2023-07-30T01:52:34Z</updated>
+    <id>tag:github.com,2023-07-30:/NilFoundation/crypto3</id>
+    <link href="https://github.com/NilFoundation/crypto3" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Modern Cryptography Suite in C++17&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>NilFoundation/zkllvm</title>
+    <updated>2023-07-30T01:52:34Z</updated>
+    <id>tag:github.com,2023-07-30:/NilFoundation/zkllvm</id>
+    <link href="https://github.com/NilFoundation/zkllvm" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Zero-Knowledge Proof Systems Circuit Compiler&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>biojppm/cmake</title>
+    <updated>2023-07-30T01:52:34Z</updated>
+    <id>tag:github.com,2023-07-30:/biojppm/cmake</id>
+    <link href="https://github.com/biojppm/cmake" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Useful cmake scripts&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

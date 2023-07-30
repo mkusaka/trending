@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub XSLT Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-29T01:48:32Z</updated>
+  <updated>2023-07-30T01:49:33Z</updated>
   <subtitle>Daily Trending of XSLT in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>emilybache/Parrot-Refactoring-Kata</title>
-    <updated>2023-07-29T01:48:32Z</updated>
-    <id>tag:github.com,2023-07-29:/emilybache/Parrot-Refactoring-Kata</id>
-    <link href="https://github.com/emilybache/Parrot-Refactoring-Kata" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Kata to help practice Pollymorphism (with apologies to Martin Fowler&#39;s &#34;Refactoring&#34;)&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Parrot Refactoring Kata&lt;/h1&gt; &#xA;&lt;p&gt;Can you spot any code smells in this code? I&#39;ll give you a clue - a spot of Pol(l)ymorphism should improve matters!&lt;/p&gt; &#xA;&lt;p&gt;Refactor this code, take small steps, run the tests often. See how small and beautiful you can make it.&lt;/p&gt; &#xA;&lt;h2&gt;Acknowlegements&lt;/h2&gt; &#xA;&lt;p&gt;This code is heavily inspired by one of the examples in Martin Fowler&#39;s book &#34;Refactoring&#34;. It&#39;s a classic, and if it&#39;s not on your bookshelf already I suggest you treat yourself to a copy!&lt;/p&gt;</summary>
-  </entry>
 </feed>

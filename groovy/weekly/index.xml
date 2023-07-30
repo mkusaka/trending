@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub Groovy Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T01:56:43Z</updated>
+  <subtitle>Weekly Trending of Groovy in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>SeenDigital/grails-pretty-numbers</title>
+    <updated>2023-07-30T01:56:43Z</updated>
+    <id>tag:github.com,2023-07-30:/SeenDigital/grails-pretty-numbers</id>
+    <link href="https://github.com/SeenDigital/grails-pretty-numbers" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>JetBrains/gradle-idea-ext-plugin</title>
+    <updated>2023-07-30T01:56:43Z</updated>
+    <id>tag:github.com,2023-07-30:/JetBrains/gradle-idea-ext-plugin</id>
+    <link href="https://github.com/JetBrains/gradle-idea-ext-plugin" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Plugin to store IJ settings in gradle script&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>young-zhang/freebase-neo4j-importer</title>
+    <updated>2023-07-30T01:56:43Z</updated>
+    <id>tag:github.com,2023-07-30:/young-zhang/freebase-neo4j-importer</id>
+    <link href="https://github.com/young-zhang/freebase-neo4j-importer" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Groovy version of the importer.rb script from p243 of Seven Databases in Seven Weeks&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>

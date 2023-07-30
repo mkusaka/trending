@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GitHub R Weekly Trending</title>
+  <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
+  <updated>2023-07-30T02:04:27Z</updated>
+  <subtitle>Weekly Trending of R in GitHub</subtitle>
+  <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
+  <entry>
+    <title>trinker/reports</title>
+    <updated>2023-07-30T02:04:27Z</updated>
+    <id>tag:github.com,2023-07-30:/trinker/reports</id>
+    <link href="https://github.com/trinker/reports" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An R package to assist in the workflow of writing academic articles and other reports&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;reports&lt;/h1&gt; &#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/trinker/reports&#34;&gt;&lt;img src=&#34;https://travis-ci.org/trinker/reports.png?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;reports is a package that assists in writing reports and presentations by providing a frame work that brings together existing R, LaTeX/.docx and Pandoc tools. The package is designed to be used with &lt;a href=&#34;http://www.rstudio.com/&#34;&gt;RStudio&lt;/a&gt;, &lt;a href=&#34;http://miktex.org/&#34;&gt;MikTex&lt;/a&gt;/&lt;a href=&#34;http://www.tug.org/texlive/&#34;&gt;Tex Live&lt;/a&gt;/&lt;a href=&#34;http://www.libreoffice.org/&#34;&gt;LibreOffice&lt;/a&gt;, &lt;a href=&#34;http://yihui.name/knitr/&#34;&gt;knitr&lt;/a&gt;, &lt;a href=&#34;http://ramnathv.github.com/slidify/&#34;&gt;slidify&lt;/a&gt;, &lt;a href=&#34;http://www.carlboettiger.info/2012/05/30/knitcitations.html&#34;&gt;knitcitations&lt;/a&gt;, &lt;a href=&#34;http://johnmacfarlane.net/pandoc/&#34;&gt;Pandoc&lt;/a&gt; and &lt;a href=&#34;https://github.com/rapporter/pander&#34;&gt;pander&lt;/a&gt;. The user will want to download these free programs to maximize the effectiveness of the reports package.&lt;/p&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://trinker.github.io/reports/dependencies&#34;&gt;&lt;img src=&#34;https://dl.dropboxusercontent.com/u/61803503/packages/reports.PNG&#34; alt=&#34;Image Not Displayed&#34;&gt;&lt;/a&gt;&lt;/p&gt; &#xA;&lt;h2&gt;Installation&lt;/h2&gt; &#xA;&lt;p&gt;To download the &lt;a href=&#34;http://trinker.github.com/reports_dev/&#34;&gt;development version of reports&lt;/a&gt;:&lt;/p&gt; &#xA;&lt;p&gt;download the &lt;a href=&#34;https://github.com/trinker/reports/zipball/master&#34;&gt;zip ball&lt;/a&gt; or &lt;a href=&#34;https://github.com/trinker/reports/tarball/master&#34;&gt;tar ball&lt;/a&gt;, decompress and run &lt;code&gt;R CMD INSTALL&lt;/code&gt; on it, or use the &lt;strong&gt;devtools&lt;/strong&gt; package to install the development version:&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;if (!require(&#34;pacman&#34;)) install.packages(&#34;pacman&#34;)&#xA;pacman::p_load_gh(&#xA;    &#34;ramnathv/slidify@dev&#34;,&#xA;    &#34;ramnathv/slidifyLibraries@dev&#34;,&#xA;    &#34;rstudio/rmarkdown&#34;,&#xA;    &#34;trinker/reports&#34;&#xA;)&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;Note: Windows users need &lt;a href=&#34;http://www.murdoch-sutherland.com/Rtools/&#34;&gt;Rtools&lt;/a&gt; and &lt;a href=&#34;http://CRAN.R-project.org/package=devtools&#34;&gt;devtools&lt;/a&gt; to install this way.&lt;/p&gt; &#xA;&lt;h2&gt;Help&lt;/h2&gt; &#xA;&lt;p&gt;&lt;a href=&#34;http://trinker.github.com/reports/&#34;&gt;Web Page&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=ArHQjQyIS70&#34;&gt;Intoductory Video&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://dl.dropboxusercontent.com/u/61803503/Slides/reports/index.html&#34;&gt;Quick Start Slides&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;http://htmlpreview.github.io/?https://github.com/trinker/reports/raw/master/vignettes/reports_vignette.html&#34;&gt;Package Vignette&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;https://dl.dropbox.com/u/61803503/reports.pdf&#34;&gt;Package PDF Help Manual&lt;/a&gt;&lt;br&gt; &lt;a href=&#34;http://trinker.github.io/reports/dependencies&#34;&gt;click here&lt;/a&gt; for information on the programs/packages reports brings together&lt;/p&gt; &#xA;&lt;h2&gt;Contact&lt;/h2&gt; &#xA;&lt;p&gt;You are welcome to:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;submit suggestions and bug-reports at: &lt;a href=&#34;https://github.com/trinker/reports/issues&#34;&gt;https://github.com/trinker/reports/issues&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;send a pull request on: &lt;a href=&#34;https://github.com/trinker/reports/&#34;&gt;https://github.com/trinker/reports/&lt;/a&gt;&lt;/li&gt; &#xA; &lt;li&gt;compose a friendly e-mail to: &lt;a href=&#34;mailto:tyler.rinker@gmail.com&#34;&gt;tyler.rinker@gmail.com&lt;/a&gt;&lt;/li&gt; &#xA;&lt;/ul&gt;</summary>
+  </entry>
+  <entry>
+    <title>RyanHope/hop-chart</title>
+    <updated>2023-07-30T02:04:27Z</updated>
+    <id>tag:github.com,2023-07-30:/RyanHope/hop-chart</id>
+    <link href="https://github.com/RyanHope/hop-chart" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;An interactive hop chart using R/Shiny.&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>yamapon/yamapon_mac</title>
+    <updated>2023-07-30T02:04:27Z</updated>
+    <id>tag:github.com,2023-07-30:/yamapon/yamapon_mac</id>
+    <link href="https://github.com/yamapon/yamapon_mac" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+</feed>
