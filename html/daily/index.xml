@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub HTML Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-30T01:37:34Z</updated>
+  <updated>2023-07-31T01:36:15Z</updated>
   <subtitle>Daily Trending of HTML in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>val-lang/val-lang.github.io</title>
-    <updated>2023-07-30T01:37:34Z</updated>
-    <id>tag:github.com,2023-07-30:/val-lang/val-lang.github.io</id>
-    <link href="https://github.com/val-lang/val-lang.github.io" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Landing page for Val&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;Val website&lt;/h1&gt; &#xA;&lt;p&gt;This repository contains Val&#39;s website, which you can browse &lt;a href=&#34;https://val-lang.github.io&#34;&gt;here&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Infrastructure&lt;/h3&gt; &#xA;&lt;p&gt;The reference is developed as a &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; website, currently being served by &lt;a href=&#34;https://pages.github.com&#34;&gt;GitHub Pages&lt;/a&gt;.&lt;/p&gt; &#xA;&lt;h3&gt;Running a local server&lt;/h3&gt; &#xA;&lt;p&gt;If you are able to install the necessary parts for jekyll,&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;bundle exec jekyll serve -l&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;will start a server for the site at &lt;a href=&#34;http://localhost:4000&#34;&gt;http://localhost:4000&lt;/a&gt;.&lt;/p&gt;</summary>
+    <title>Devalphaspace/beautiful-portfolio-website</title>
+    <updated>2023-07-31T01:36:15Z</updated>
+    <id>tag:github.com,2023-07-31:/Devalphaspace/beautiful-portfolio-website</id>
+    <link href="https://github.com/Devalphaspace/beautiful-portfolio-website" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

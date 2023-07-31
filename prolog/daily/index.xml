@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Prolog Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-30T01:43:32Z</updated>
+  <updated>2023-07-31T01:42:59Z</updated>
   <subtitle>Daily Trending of Prolog in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>martinhansdk/GBC-Heatseal-H65-Temperature-controller</title>
-    <updated>2023-07-30T01:43:32Z</updated>
-    <id>tag:github.com,2023-07-30:/martinhansdk/GBC-Heatseal-H65-Temperature-controller</id>
-    <link href="https://github.com/martinhansdk/GBC-Heatseal-H65-Temperature-controller" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;A simple opamp based temperature controller&lt;/p&gt;&lt;hr&gt;</summary>
-  </entry>
 </feed>

@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Solidity Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-30T01:46:41Z</updated>
+  <updated>2023-07-31T01:46:14Z</updated>
   <subtitle>Daily Trending of Solidity in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>gmchad/zardkat</title>
-    <updated>2023-07-30T01:46:41Z</updated>
-    <id>tag:github.com,2023-07-30:/gmchad/zardkat</id>
-    <link href="https://github.com/gmchad/zardkat" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;hardhat-circom template 🐱&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>ZKCamp/pet-park-assignment</title>
+    <updated>2023-07-31T01:46:14Z</updated>
+    <id>tag:github.com,2023-07-31:/ZKCamp/pet-park-assignment</id>
+    <link href="https://github.com/ZKCamp/pet-park-assignment" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Take home assignment for evaluation&lt;/p&gt;&lt;hr&gt;</summary>
+  </entry>
+  <entry>
+    <title>AYIDouble/Simple-Game-ERC-721-Token-Template</title>
+    <updated>2023-07-31T01:46:14Z</updated>
+    <id>tag:github.com,2023-07-31:/AYIDouble/Simple-Game-ERC-721-Token-Template</id>
+    <link href="https://github.com/AYIDouble/Simple-Game-ERC-721-Token-Template" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;🔮 Very Simple ERC-721 Smart Contract Template to create your own ERC-721 Tokens on the Ethereum Blockchain, with many customizable options 🔮&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>

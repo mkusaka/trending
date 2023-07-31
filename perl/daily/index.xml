@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Perl Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-30T01:42:37Z</updated>
+  <updated>2023-07-31T01:41:46Z</updated>
   <subtitle>Daily Trending of Perl in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>TJC/Catalyst-Plugin-Session-Store-Couchbase</title>
-    <updated>2023-07-30T01:42:37Z</updated>
-    <id>tag:github.com,2023-07-30:/TJC/Catalyst-Plugin-Session-Store-Couchbase</id>
-    <link href="https://github.com/TJC/Catalyst-Plugin-Session-Store-Couchbase" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Catalyst plugin to store sessions in Couchbase&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;OVERVIEW&lt;/h1&gt; &#xA;&lt;p&gt;This is a Catalyst plugin to allow sessions to be stored in a Couchbase instance.&lt;/p&gt; &#xA;&lt;h1&gt;SYNOPSIS&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;  use Catalyst qw{Session Session::Store::Couchbase Session::State::Cookie};&#xA;  MyApp-&amp;gt;config(&#xA;    &#39;Plugin::Session&#39; =&amp;gt; {&#xA;      expires =&amp;gt; 7200,&#xA;    },&#xA;    Couchbase =&amp;gt; {&#xA;      server =&amp;gt; &#39;couchbase01.domain&#39;,&#xA;      username =&amp;gt; &#39;Administrator&#39;,&#xA;      password =&amp;gt; &#39;password&#39;,&#xA;      bucket =&amp;gt; &#39;default&#39;,&#xA;    }&#xA;  );&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;p&gt;You can find full documentation for this module with the perldoc command.&lt;/p&gt; &#xA;&lt;pre&gt;&lt;code&gt;perldoc Catalyst::Plugin::Session::Store::Couchbase&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;ACKNOWLEDGEMENTS&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;This module was supported by Strategic Data. The module was originally&#xA;written for their internal use, and the company has allowed me to&#xA;produce an open-source version.&#xA;&lt;/code&gt;&lt;/pre&gt; &#xA;&lt;h1&gt;LICENSE AND COPYRIGHT&lt;/h1&gt; &#xA;&lt;pre&gt;&lt;code&gt;Copyright 2013 Toby Corkindale.&#xA;&#xA;This program is free software; you can redistribute it and/or modify it&#xA;under the terms of either: the GNU General Public License as published&#xA;by the Free Software Foundation; or the Artistic License.&#xA;&#xA;See http://dev.perl.org/licenses/ for more information.&#xA;&lt;/code&gt;&lt;/pre&gt;</summary>
-  </entry>
 </feed>

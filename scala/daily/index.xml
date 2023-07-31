@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Scala Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-30T01:45:30Z</updated>
+  <updated>2023-07-31T01:45:02Z</updated>
   <subtitle>Daily Trending of Scala in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
-  <entry>
-    <title>johandahlberg/bakka</title>
-    <updated>2023-07-30T01:45:30Z</updated>
-    <id>tag:github.com,2023-07-30:/johandahlberg/bakka</id>
-    <link href="https://github.com/johandahlberg/bakka" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;akka + bams = bakka&lt;/p&gt;&lt;hr&gt;&lt;h1&gt;bakka&lt;/h1&gt; &#xA;&lt;p&gt;akka + bams = bakka&lt;/p&gt; &#xA;&lt;p&gt;Playing with combining akka with parsing bam files, implementing a map/reduce functionality.&lt;/p&gt; &#xA;&lt;h2&gt;Quick run instructions&lt;/h2&gt; &#xA;&lt;p&gt;Basic setup of bakka requires two steps:&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Setup Scala development environment&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;The easiest way to do this is to go &lt;a href=&#34;http://typesafe.com/resources/typesafe-stack/downloading-installing.html&#34;&gt;here&lt;/a&gt; and follow the instructions for installing the Typesafe stack.&lt;/p&gt; &#xA;&lt;ul&gt; &#xA; &lt;li&gt;Install sbt&lt;/li&gt; &#xA;&lt;/ul&gt; &#xA;&lt;p&gt;Right now the project is build (and run) using the sbt (Simple Build Tool), you&#39;ll find the setup instructions here: &lt;a href=&#34;http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html&#34;&gt;http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html&lt;/a&gt;&lt;/p&gt; &#xA;&lt;p&gt;When the above dependencies have been fullfilled, checkout bakka from github, and go into the bakka folder. Type &lt;code&gt;sbt&lt;/code&gt; to initiate sbt in interactive mode. Some basic sbt commands to be aware of are:&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;eclipse&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Sets up a eclipse project with correct class path, etc, from the project. You should then be able to import the project straight in to eclipse without any problems. (&#34;Should&#34; is a important word in this context)&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;compile&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Compiles the project&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;run&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Runs the bakka App.&lt;/p&gt; &#xA;&lt;p&gt;&lt;code&gt;one-jar&lt;/code&gt;&lt;/p&gt; &#xA;&lt;p&gt;Produces jar file, complete with all dependencies.&lt;/p&gt;</summary>
-  </entry>
 </feed>

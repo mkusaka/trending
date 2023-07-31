@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>GitHub Unknown languages Daily Trending</title>
   <id>http://mshibanami.github.io/GitHubTrendingRSS</id>
-  <updated>2023-07-30T01:30:49Z</updated>
+  <updated>2023-07-31T01:28:49Z</updated>
   <subtitle>Daily Trending of Unknown languages in GitHub</subtitle>
   <link href="http://mshibanami.github.io/GitHubTrendingRSS"></link>
   <entry>
-    <title>pushsecurity/saas-attacks</title>
-    <updated>2023-07-30T01:30:49Z</updated>
-    <id>tag:github.com,2023-07-30:/pushsecurity/saas-attacks</id>
-    <link href="https://github.com/pushsecurity/saas-attacks" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;Offensive security drives defensive security. We&#39;re sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>domfarolino/observable</title>
+    <updated>2023-07-31T01:28:49Z</updated>
+    <id>tag:github.com,2023-07-31:/domfarolino/observable</id>
+    <link href="https://github.com/domfarolino/observable" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Observable API proposal&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>ujjwalkarn/Machine-Learning-Tutorials</title>
-    <updated>2023-07-30T01:30:49Z</updated>
-    <id>tag:github.com,2023-07-30:/ujjwalkarn/Machine-Learning-Tutorials</id>
-    <link href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;machine learning and deep learning tutorials, articles and other resources&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>GaryYufei/AlignLLMHumanSurvey</title>
+    <updated>2023-07-31T01:28:49Z</updated>
+    <id>tag:github.com,2023-07-31:/GaryYufei/AlignLLMHumanSurvey</id>
+    <link href="https://github.com/GaryYufei/AlignLLMHumanSurvey" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;Aligning Large Language Models with Human: A Survey&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
   <entry>
-    <title>awaisrauf/Awesome-CV-Foundational-Models</title>
-    <updated>2023-07-30T01:30:49Z</updated>
-    <id>tag:github.com,2023-07-30:/awaisrauf/Awesome-CV-Foundational-Models</id>
-    <link href="https://github.com/awaisrauf/Awesome-CV-Foundational-Models" rel="alternate"></link>
-    <summary type="html">&lt;p&gt;&lt;/p&gt;&lt;hr&gt;</summary>
+    <title>Taotaotao666/SGK_Sites_and_Bots</title>
+    <updated>2023-07-31T01:28:49Z</updated>
+    <id>tag:github.com,2023-07-31:/Taotaotao666/SGK_Sites_and_Bots</id>
+    <link href="https://github.com/Taotaotao666/SGK_Sites_and_Bots" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;社工库分享。免费好用的 社工库网站 和 Telegram社工库机器人，查询帐号、密码、邮箱、手机号、身份证及各种隐私数据是否泄露。&lt;/p&gt;&lt;hr&gt;</summary>
   </entry>
 </feed>
